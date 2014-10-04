@@ -59,14 +59,30 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 # Plain Text
 Key terms: data, metadata, information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
+## Content, Form, and Formatting
+# Information
+What is and what is not information. From abstract to specific. Material substratum.
 
+Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
 # Interface
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
-# Media and Message
-What does it really mean to "know" something? Or to have "read" a book? I have had the following conversation countless times. Someone asks, "Have you read *Pale Fire*," and I respond, "Yes I have." But there is a world of a difference between reading it yesterday, last week, or ten years ago. The book as an interface leaves an organic trace in the human mind--an imprint that begins to fade as soon as it is created. 
+# Media, Mode, Message 
+## Media is not the Message  
 
-How much knowledge is there in the world? 
+## Extensions of Human
+What does it really mean to "know" something? Or to have "read" a book? I have had the following conversation countless times. Someone asks, "Have you read Nabokov's *Pale Fire*," and I respond, "Yes I have." But there is a world of a difference between reading it yesterday, last week, or ten years ago. The book as an interface leaves an organic trace in the human mind--an imprint that begins to fade as soon as it is created.
+
+Whatever consciousness is, it is propelled forward on a thin edge of material substratum. Reality exists only in the now, where the past is a memory and the future only a possibility. Imagine whispering something to a friend. It does not have to be very complicated, something like "I love you" or "I miss you." The whisper dissipates as soon it is uttered. The percussion of the speaker's breath creates temporary order: giving shape and pushing air molecules into waves of pattern and form. That order begins dissipating as soon as it is created. Within milliseconds, molecules return to their natural state of chaos.
+
+To steel ourselves against entropy, we change the substratum from air to stone. It's molecules are more stable. Etched in stone will be the same message. It will last longer now. But it will also take longer to create. You will have to carry around your tablet and chisel. The message etched in stone will outlive the whisper and indeed will
+
+Knowledge. Reprocussion.
+
+Media, in that sense, provides a more lasting Repercussion.  
+
+How much knowledge is there in the world? According to a recent paper published in Science, 295 exabytes (or billion gigabytes).[@hilbert] 
+
 # Vector
 Key terms: Media, remediation, modes of production, modes of distribution, net neutrality
 Commands: pipes, scp, rsync
