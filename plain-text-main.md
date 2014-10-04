@@ -66,7 +66,7 @@ Commands: pipes, scp, rsync
 Media is not the message.
 
 # Chapter 3: Access
-Security, privacy. Surveillance. Openness. Secrecy.
+Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
 Commands: crypto, pgp, chmod, groups, file permissions
 
 # Chapter 4: Interface
