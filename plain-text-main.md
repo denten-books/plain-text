@@ -55,24 +55,29 @@ Media archeology. Applied turn in media studies. Confusion due to technical lite
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
 
-# Chapter 1: Plain Text
+- # Interface
+# Plain Text
 Key terms: data, metadata, information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
-# Chapter 2: Vector
+# Interface
+The book as an interface between human and ?. We must see it in the context of interfaces.
+
+# Media and Message
+What does it really mean to "know" something? Or to have "read" a book? I have had the following conversation countless times. Someone asks, "Have you read *Pale Fire*," and I respond, "Yes I have." But there is a world of a difference between reading it yesterday, last week, or ten years ago. The book as an interface leaves an organic trace in the human mind--an imprint that begins to fade as soon as it is created. 
+
+How much knowledge is there in the world? 
+# Vector
 Key terms: Media, remediation, modes of production, modes of distribution, net neutrality
 Commands: pipes, scp, rsync
 
 Media is not the message.
 
-# Chapter 3: Access
+# Access
 Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
 Commands: crypto, pgp, chmod, groups, file permissions
 
-# Chapter 4: Interface
-The book as an interface between human and computer. We must see it in the context of interfaces.
-
-# Chapter 5: Networking
+# Networking
 Key terms: internet, rhizome, web,  
 ping, traceroute, the terminal way: multiple users. personal vs. central computers
 
