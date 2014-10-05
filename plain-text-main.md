@@ -73,15 +73,21 @@ The book as an interface between human and ?. We must see it in the context of i
 ## Extensions of Human
 What does it really mean to "know" something? Or to have "read" a book? I have had the following conversation countless times. Someone asks, "Have you read Nabokov's *Pale Fire*," and I respond, "Yes I have." But there is a world of a difference between reading it yesterday, last week, or ten years ago. The book as an interface leaves an organic trace in the human mind--an imprint that begins to fade as soon as it is created.
 
+How much knowledge is there in the world? According to a recent paper published in Science, 295 exabytes (or billion gigabytes).[@hilbert] 
+
+
 Whatever consciousness is, it is propelled forward on a thin edge of material substratum. Reality exists only in the now, where the past is a memory and the future only a possibility. Imagine whispering something to a friend. It does not have to be very complicated, something like "I love you" or "I miss you." The whisper dissipates as soon it is uttered. The percussion of the speaker's breath creates temporary order: giving shape and pushing air molecules into waves of pattern and form. That order begins dissipating as soon as it is created. Within milliseconds, molecules return to their natural state of chaos.
 
 To steel ourselves against entropy, we change the substratum from air to stone. It's molecules are more stable. Etched in stone will be the same message. It will last longer now. But it will also take longer to create. You will have to carry around your tablet and chisel. The message etched in stone will outlive the whisper and indeed will
 
-Knowledge. Reprocussion.
+Repercussion?
 
-Media, in that sense, provides a more lasting Repercussion.  
+What happens in the change from speaking to writing? The violin (copy from dissertation here).
 
-How much knowledge is there in the world? According to a recent paper published in Science, 295 exabytes (or billion gigabytes).[@hilbert] 
+Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
+
+Krap's Last tape here. 
+Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
 # Vector
 Key terms: Media, remediation, modes of production, modes of distribution, net neutrality
