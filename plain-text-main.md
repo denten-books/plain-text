@@ -1,5 +1,5 @@
 ---
-title: Plain Text: Media Theory in the Command Line
+title: Plain Text: Philosophy of the Terminal
 author: Dennis Tenen
 
 ---
@@ -56,31 +56,48 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 
 
 - # Interface
-# Plain Text
-Key terms: data, metadata, information, binary, text, digital, analog, plain text, surface, depth
-Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
-## Content, Form, and Formatting
 # Information
+POSIX.
 What is and what is not information. From abstract to specific. Material substratum.
 
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
-# Interface
-The book as an interface between human and ?. We must see it in the context of interfaces.
 
-# Media, Mode, Message 
-## Media is not the Message  
+Data, metadata. Code and comments. 
+# Plain Text
+Key terms: information, binary, text, digital, analog, plain text, surface, depth
+Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
-## Extensions of Human
+## Content, Form, and Formatting
+UTF History. Unix ideas of plain text.
+Semantic, Stylistic, Content
+
+# File, Stream, Document
+Key terms: file, document, stream, net neutrality
+Commands: grep, awk, sed 
+
+Documents as vectors. Not completed things. Files as cognitive scaffolding. Vissman.
+
+# Technology, Extension of Human 
+
+Science lecture vs. humanities. Stuff that is known. Stuff that is not known
+
 What does it really mean to "know" something? Or to have "read" a book? I have had the following conversation countless times. Someone asks, "Have you read Nabokov's *Pale Fire*," and I respond, "Yes I have." But there is a world of a difference between reading it yesterday, last week, or ten years ago. The book as an interface leaves an organic trace in the human mind--an imprint that begins to fade as soon as it is created.
 
 How much knowledge is there in the world? According to a recent paper published in Science, 295 exabytes (or billion gigabytes).[@hilbert] 
-
 
 Whatever consciousness is, it is propelled forward on a thin edge of material substratum. Reality exists only in the now, where the past is a memory and the future only a possibility. Imagine whispering something to a friend. It does not have to be very complicated, something like "I love you" or "I miss you." The whisper dissipates as soon it is uttered. The percussion of the speaker's breath creates temporary order: giving shape and pushing air molecules into waves of pattern and form. That order begins dissipating as soon as it is created. Within milliseconds, molecules return to their natural state of chaos.
 
 To steel ourselves against entropy, we change the substratum from air to stone. It's molecules are more stable. Etched in stone will be the same message. It will last longer now. But it will also take longer to create. You will have to carry around your tablet and chisel. The message etched in stone will outlive the whisper and indeed will
 
 Repercussion?
+
+The essay by Heidegger. Uxcull phenomenology. The thing about extended cognition.
+
+## Interface 
+The book as an interface between human and ?. We must see it in the context of interfaces.
+
+# Media is not the Message 
+Key terms: media, message, mode
 
 What happens in the change from speaking to writing? The violin (copy from dissertation here).
 
@@ -89,22 +106,22 @@ Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe
 Krap's Last tape here. 
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
-# Vector
-Key terms: Media, remediation, modes of production, modes of distribution, net neutrality
-Commands: pipes, scp, rsync
-
-Media is not the message.
-
-# Access
+# Author Access
 Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
 Commands: crypto, pgp, chmod, groups, file permissions
 
+Authorship is better thought of as access. How that is codified. Groups.
+
 # Networking
-Key terms: internet, rhizome, web,  
+Key terms: internet, rhizome, web, network, infrastructure, hardware, and software.
 ping, traceroute, the terminal way: multiple users. personal vs. central computers
 
-Internet is not a rhyzome. Central control. Surface vs. depth structures--twitter is rhyzomatic on the surface.
+Internet is not a rhyzome. Central control. Surface vs. depth structures--twitter is rhyzomatic on the surface. 
 
+Actor-networks. We are pushing ourselves through the wires. Hardware in control. 
+
+# Code, Crypt
+Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk.
 # Notes
 Athanasius Kircher's Universal Polygraphy
 George E. McCracken
