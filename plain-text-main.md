@@ -56,14 +56,14 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 
 
 - # Interface
-# Information
-POSIX.
+# Form, Formatting, Information, Freedom
+POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
 
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
 
 Data, metadata. Code and comments. 
-# Plain Text
+# Plain Text, Cleartext
 Key terms: information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
@@ -77,7 +77,7 @@ Commands: grep, awk, sed
 
 Documents as vectors. Not completed things. Files as cognitive scaffolding. Vissman.
 
-# Technology, Extension of Human 
+# Platforms of Self 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
 
@@ -112,7 +112,7 @@ Commands: crypto, pgp, chmod, groups, file permissions
 
 Authorship is better thought of as access. How that is codified. Groups.
 
-# Networking
+# Networking Hierarchy
 Key terms: internet, rhizome, web, network, infrastructure, hardware, and software.
 ping, traceroute, the terminal way: multiple users. personal vs. central computers
 
