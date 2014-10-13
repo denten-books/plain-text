@@ -61,6 +61,7 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 # Information, Freedom
 Information is intentional. Against the "cybernatic" formal definitions. 
 
+Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
 Makukov. Directed pan-spermia.Life Sciences in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper: http://arxiv.org/abs/1303.6739 
 
 What is information? The difference that makes a difference. Bateson's definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion in that paper. Noise and information seem to be the same! Thermodynamic explaination. Transmitting things in stone (low entropy) vs. transmitting them through the air (high entropy). Does a block of wood have more "information" than a novel? This definition cannot account for it really.
