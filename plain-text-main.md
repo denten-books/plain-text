@@ -1,12 +1,13 @@
 ---
-title: Plain Text: Philosophy of the Terminal
+title: Plain Text
 author: Dennis Tenen
-
 ---
 
 # Intro: Theory in Practice
 ## Pitch: Why? What's at stake? Who cares?
-In this book I would like to do something unusual: to explore several key theoretical concepts in new media studies through the use of the Unix command-line interface (CLI). 
+Plain text is a file format and a frame of mind. This book contains an argument for plain text, offering a model of computing that stands in stark contrast to the black box thing. The argument starts with foundational principles of new media and information science. I ask: what is information?  Block of wood or a novel? What does it mean to "have read a book" or to "know something"? When connected to the history of media and in the context of our contemporary computing practice, these metaphysical questions gain a political importance. The later chapters reflect that turn by looking at the impact of our definitions on the socio-political reality. Privacy, security, surveilance, transparency, anonymous discourse.
+
+They way I would like ot get there is somewhat unusual. Along with the usual tools of rhetoric, archival research, close reading, and rhetoric, I the command line. The reader is expected to follow along.
 
 If you've never interacted with your computer through a text-based terminal, understand for now that the command line is a sort of a call-and-response dialog between you and your system. This way of interacting with computers predates modern graphical user interfaces (GUIs) and is still commonly used by professional programmers and system administrators.
 
@@ -55,8 +56,23 @@ Media archeology. Applied turn in media studies. Confusion due to technical lite
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
 
-- # Interface
-# Form, Formatting, Information, Freedom
+# Interface
+# Information, Freedom
+Information is intentional. Against the "cybernatic" formal definitions. 
+
+Makukov. Directed pan-spermia.Life Sciences in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper: http://arxiv.org/abs/1303.6739 
+
+What is information? The difference that makes a difference. Bateson's definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion in that paper. Noise and information seem to be the same! Thermodynamic explaination. Transmitting things in stone (low entropy) vs. transmitting them through the air (high entropy). Does a block of wood have more "information" than a novel? This definition cannot account for it really.
+
+Extended cognition hypothesis. Get this text from disertation. The monism problem.
+
+Formal vs. instrumental definitions. Information is that which moves form a Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information be coersed? Both on the sending and the recieving end. Can someone admit something is music by force? Can you force information. The deer and the tick. The deer does not "send" bodyheat information. The tick receives information as it does receive the action of gravity. Does a mountain erode from the top because it recieves information from the outside? Information here is simply used as a synonym for some material state of the univrse and the causal relationship between forces. Causality alone is not information. Laws of physics are not information. Well, unless...
+
+Mis information. Man in the middle attacks. Information is intentional. Mind to mind communication. Where does the thought originate? Freedom. Free intent. Identity of coding and decoding is not necessery. What is however necessary is the 
+
+ 
+
+# Form, Formatting, 
 POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
 
