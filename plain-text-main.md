@@ -1,12 +1,17 @@
 ---
-title: Plain Text
-author: Dennis Tenen
-
+title: "Plain Text: Towards Human Technology"
+author: "Dennis Tenen"
 ---
 
-# Intro: Theory in Practice
+# Introduction
 ## Pitch: Why? What's at stake? Who cares?
-Plain text is a file format and a frame of mind. This book contains an argument for plain text, offering a model of computing that stands in stark contrast to the black box thing. The argument starts with foundational principles of new media and information science. I ask: what is information?  Block of wood or a novel? What does it mean to "have read a book" or to "know something"? When connected to the history of media and in the context of our contemporary computing practice, these metaphysical questions gain a political importance. The later chapters reflect that turn by looking at the impact of our definitions on the socio-political reality. Privacy, security, surveilance, transparency, anonymous discourse.
+Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed ecosystems, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design, portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools and practices that shape our daily encounters with with computation.
+
+The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, and privacy, security, and surveillance.
+
+A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. This is somewhat of an unusual position, but one I hope to sustain on a historical basis, grounded in the history of the Unix family of operating systems. Ubiquitous on devices from super-computers to mobile phones, operating systems derived from Unix run the world. Case studies from the long history of computing will serve to illustrate some of the more theoretical passages in the volume. 
+
+This methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of that experimental methods  . I will therefore ask my
 
 They way I would like ot get there is somewhat unusual. Along with the usual tools of rhetoric, archival research, close reading, and rhetoric, I the command line. The reader is expected to follow along.
 
@@ -57,7 +62,7 @@ Media archeology. Applied turn in media studies. Confusion due to technical lite
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
 
-# Interface
+
 # Information, Freedom
 Information is intentional. Against the "cybernatic" formal definitions. 
 
