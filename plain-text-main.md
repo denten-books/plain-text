@@ -5,40 +5,22 @@ author: "Dennis Tenen"
 
 # Introduction
 ## Pitch: Why? What? What's at stake? Who cares?
-Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed ecosystems, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design, portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools and practices that shape our daily encounters with computation.
+Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools and practices that shape our daily encounters with computation.
 
-The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, and privacy, security, and surveillance.
+The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, privacy, security, and surveillance.
 
-A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittingly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in the history of the Unix family of operating systems. Ubiquitous on devices from super-computers to mobile phones, operating systems derived from Unix run the world. Case studies from the long history of computing will serve to illustrate some of the more theoretical passages in the volume. 
+A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittingly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in the history of the Unix family of operating systems. Ubiquitous on devices from super-computers to mobile phones, operating systems derived from Unix run the world. Case studies from the long history of computing will serve to illustrate some of the more theoretical passages in the volume. These case studies will point to (what I hope is an) unexpected confluence between the shared history of computing and literary thought.
 
-Moreover, the reader will get much more out of this book if he or she follows along in 
+Moreover, the reader will get much more out of this book if he or she can actively follow along using their terminal emulator of choice.[^ln-terminal] The text assumes no prior technichal knowledge. Both novices and experts alike will be exposed to ideas in the command line. At the very least, the reader will walk way from this book with basic skills foundational to empowered computing. At best, readers will gain hands-on understanding of files, filing systems, networks, search tools, servers, and encryption technologies that will radically transform their experience with text, media, and digital devices. Abstract concepts like "text" and "media" gain a palpable form when we are able to explore them in practice, on the system level. It is one thing to theorize about images and music, and it is another to see how such differences are encoded in .jpg and .wav formats. My desire to integrate practice with theory stems from my experience of teaching in the fundamentals of digital literacy in Journalism, Enligsh, and Computer Science departments. What began for me as an interest in the power of computation to produce new insights, grew into a much. Insert political stuff here. 
 
-get there is somewhat unusual. Along with the usual tools of rhetoric, archival research, close reading, and rhetoric, I the command line. The reader is expected to follow along.
+[^ln-terminal]: See Appendix for more detail. 
 
-
-
-This methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of is embodied in the idea of "experimental methods." What does it mean to “experiment” in the study of history, literature, or philosophy? In answering that question I draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective.[^ln-cage] In both spaces, thought is secreted in practice, “on the fetid and throbbing ground of life.”[^ln-bernard][ln-xpmeth] 
+The methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of is embodied in the idea of "experimental methods." What does it mean to “experiment” in the study of history, literature, or philosophy? In answering that question I draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective.[^ln-cage] In both spaces, thought is secreted in practice, “on the fetid and throbbing ground of life.”[^ln-bernard][ln-xpmeth] 
 
 [^ln-bernard]: @Bernard, Claude (1865). Introduction à l’étude de la médecine expérimentale. Paris.
 [^ln-xpmeth]: I've quoted this formulation in the mission statement of xpmeth.github.io website 
 [^ln-cage]: "Here the word 'experimental' is apt, providing it is understood not as descriptive 
 of an act to be later judged in terms of success and failure, but simply as of an act the outcome of which is unknown." John Cage as quoted in Nyman, Michael (1974). Experimental Music: Cage and Beyond. Cambridge, UK.
-
-If you've never interacted with your computer through a text-based terminal, understand for now that the command line is a sort of a call-and-response dialog between you and your system. This way of interacting with computers predates modern graphical user interfaces (GUIs) and is still commonly used by professional programmers and system administrators.
-
-More than an interface, the command line encapsulates a phislosophy of computing: write simple programs that do one thing well.
-
-This philosophy contrasts sharply with altertive vision: where "things just work," glossy visual interfaces. Surfaces and alienation. 
-
-That computer interfaces entail politics is not an uncontriversial assumption and one which will become central to the argument of my book.
-
-Despite the ubiquity of Unix-like systems (which run a lion share of servers, super-computers, Apple gadgets, and Android devices), the textual roots of computing are abscured by visual 
-
-The battle for the soul of computing. Whether the internet empowers participatory governance, delibiration, and dissent, or whether it ushrs in a new era of mass surveilance and centralized control depends crucially on which of these two models of computing prevails.
-
-In the GUI world of windows and app stores, the user operates on the surface: he consumes media. Email just works (quote gmail here). The bargain with technology: it will just work but we  
-
-In the command line world, the system operator is constantly asked to take. Things don't just work. Te 
 
 ## Intellectual affinities: Whence?
 Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamential truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materialty in practice.
@@ -70,9 +52,8 @@ Media archeology. Applied turn in media studies. Confusion due to technical lite
 
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
-
-
-# Information, Freedom
+# Part I
+## Information, Freedom
 Information is intentional. Against the "cybernatic" formal definitions. 
 
 Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
@@ -88,14 +69,14 @@ Mis information. Man in the middle attacks. Information is intentional. Mind to 
 
  
 
-# Form, Formatting, 
+## Form, Formatting, 
 POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
 
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
 
 Data, metadata. Code and comments. 
-# Plain Text, Cleartext
+## Plain Text, Cleartext
 Key terms: information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
@@ -103,13 +84,13 @@ Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 UTF History. Unix ideas of plain text.
 Semantic, Stylistic, Content
 
-# File, Stream, Document
+## File, Stream, Document
 Key terms: file, document, stream, net neutrality
 Commands: grep, awk, sed 
 
 Documents as vectors. Not completed things. Files as cognitive scaffolding. Vissman.
 
-# Platforms of Self 
+## Platforms of Self 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
 
@@ -128,7 +109,7 @@ The essay by Heidegger. Uxcull phenomenology. The thing about extended cognition
 ## Interface 
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
-# Media is not the Message 
+## Media is not the Message 
 Key terms: media, message, mode
 
 What happens in the change from speaking to writing? The violin (copy from dissertation here).
@@ -138,13 +119,14 @@ Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe
 Krap's Last tape here. 
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
-# Author Access
+# Part II
+## Author Access
 Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
 Commands: crypto, pgp, chmod, groups, file permissions
 
 Authorship is better thought of as access. How that is codified. Groups.
 
-# Networking Hierarchy
+## Networking Hierarchy
 Key terms: internet, rhizome, web, network, infrastructure, hardware, and software.
 ping, traceroute, the terminal way: multiple users. personal vs. central computers
 
@@ -152,7 +134,7 @@ Internet is not a rhyzome. Central control. Surface vs. depth structures--twitte
 
 Actor-networks. We are pushing ourselves through the wires. Hardware in control. 
 
-# Code, Crypt
+## Code, Crypt
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk.
 # Notes
 Athanasius Kircher's Universal Polygraphy
@@ -161,3 +143,17 @@ George E. McCracken
 Minimalism. Plain
 
 Elegant Variation, Fowler
+
+If you've never interacted with your computer through a text-based terminal, understand for now that the command line is a sort of a call-and-response dialog between you and your system. This way of interacting with computers predates modern graphical user interfaces (GUIs) and is still commonly used by professional programmers and system administrators.
+
+More than an interface, the command line encapsulates a phislosophy of computing: write simple programs that do one thing well.
+
+This philosophy contrasts sharply with altertive vision: where "things just work," glossy visual interfaces. Surfaces and alienation. 
+
+That computer interfaces entail politics is not an uncontriversial assumption and one which will become central to the argument of my book.
+
+Despite the ubiquity of Unix-like systems (which run a lion share of servers, super-computers, Apple gadgets, and Android devices), the textual roots of computing are abscured by visual 
+
+The battle for the soul of computing. Whether the internet empowers participatory governance, delibiration, and dissent, or whether it ushrs in a new era of mass surveilance and centralized control depends crucially on which of these two models of computing prevails.
+
+
