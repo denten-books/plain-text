@@ -101,7 +101,7 @@ Krap's Last tape here.
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
 ## Hardware and Software
-Turing's machine. Universalism vs. drucker. Bit, byte. State machines.
+Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping.
 # Part II
 ## Textual Interfaces
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.
