@@ -53,8 +53,14 @@ Media archeology. Applied turn in media studies. Confusion due to technical lite
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
 # Part I
+## Binary, Digital, Plain Text
+Key terms: information, binary, text, digital, analog, plain text, surface, depth
+Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
+
 ## Information, Freedom
 Information is intentional. Against the "cybernatic" formal definitions. 
+
+Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
 
 Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
 Makukov. Directed pan-spermia.Life Sciences in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper: http://arxiv.org/abs/1303.6739 
@@ -69,27 +75,36 @@ Mis information. Man in the middle attacks. Information is intentional. Mind to 
 
  
 
-## Form, Formatting, 
+## Form, Formatting
 POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
-
-Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
-
-Data, metadata. Code and comments. 
-## Plain Text, Cleartext
-Key terms: information, binary, text, digital, analog, plain text, surface, depth
-Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
-
-## Content, Form, and Formatting
 UTF History. Unix ideas of plain text.
 Semantic, Stylistic, Content
 
-## File, Stream, Document
+## Data, metadata.
+Code and comments.
+
+## File, File system 
 Key terms: file, document, stream, net neutrality
 Commands: grep, awk, sed 
 
 Documents as vectors. Not completed things. Files as cognitive scaffolding. Vissman.
 
+## Media, Message 
+Key terms: media, message, mode
+
+What happens in the change from speaking to writing? The violin (copy from dissertation here).
+
+Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
+
+Krap's Last tape here. 
+Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
+
+## Hardware and Software
+hmm.
+# Part II
+## Textual Interfaces
+Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.
 ## Platforms of Self 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
@@ -106,27 +121,15 @@ Repercussion?
 
 The essay by Heidegger. Uxcull phenomenology. The thing about extended cognition.
 
-## Interface 
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
-## Media is not the Message 
-Key terms: media, message, mode
-
-What happens in the change from speaking to writing? The violin (copy from dissertation here).
-
-Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
-
-Krap's Last tape here. 
-Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
-
-# Part II
-## Author Access
+## Security, access
 Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
 Commands: crypto, pgp, chmod, groups, file permissions
 
 Authorship is better thought of as access. How that is codified. Groups.
 
-## Networking Hierarchy
+## Networking
 Key terms: internet, rhizome, web, network, infrastructure, hardware, and software.
 ping, traceroute, the terminal way: multiple users. personal vs. central computers
 
@@ -134,7 +137,9 @@ Internet is not a rhyzome. Central control. Surface vs. depth structures--twitte
 
 Actor-networks. We are pushing ourselves through the wires. Hardware in control. 
 
-## Code, Crypt
+## Search
+Hmm.
+## Crypt
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk.
 # Notes
 Athanasius Kircher's Universal Polygraphy
