@@ -37,6 +37,10 @@ Literary scholarship. OS as a type of literature, but not reduced to text. Text 
 
 ## Applied turn: How?
 The key terms that motivate me: information, digital, data
+Media archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy.
+
+For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
+
 
 ## Audience: Who is this book for?
 Broadly speaking philosophers and theoreists of media and information. As a side effect of this book will gain some
@@ -44,13 +48,9 @@ This book is meant to be read next to the computer and the reader is expected to
 
 For those already familiar with the command line: programmers and system administrators. Grounding practice in historical, philosophic, and political context. Reconsider seemingly mundane acts like backing f 
 
-## Goals: what I hope to accomplish and arguments
 
-## Narrative arc: summary
-
-Media archeology. Applied turn in media studies. Confusion due to technical literacy.
-
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
+## Humanism
+Leroi-goran?
 
 # Part I
 ## Binary, Digital, Plain Text
@@ -140,7 +140,7 @@ Actor-networks. We are pushing ourselves through the wires. Hardware in control.
 
 ## Search
 Hmm.
-## Crypt
+## Crypto
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk.
 # Notes
 Athanasius Kircher's Universal Polygraphy
