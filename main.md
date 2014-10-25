@@ -49,8 +49,6 @@ This book is meant to be read next to the computer and the reader is expected to
 For those already familiar with the command line: programmers and system administrators. Grounding practice in historical, philosophic, and political context. Reconsider seemingly mundane acts like backing f 
 
 
-## Humanism
-Leroi-goran?
 
 # Part I
 ## Binary, Digital, Plain Text
@@ -67,7 +65,7 @@ Language is digital. Soap opera effect. Gaps that allow the brain to fill it. St
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
 
-## Information, Freedom
+## Freedom and Information
 Information is intentional. Against the "cybernatic" formal definitions. 
 
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
@@ -83,6 +81,8 @@ Formal vs. instrumental definitions. Information is that which moves form a Mind
 
 Mis information. Man in the middle attacks. Information is intentional. Mind to mind communication. Where does the thought originate? Freedom. Free intent. Identity of coding and decoding is not necessery. What is however necessary is the 
 
+Leroi-goran.
+
  
 
 ## Form, Formatting
@@ -91,16 +91,17 @@ What is and what is not information. From abstract to specific. Material substra
 UTF History. Unix ideas of plain text.
 Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
 
-## Data, Metadata
+## Scratch Collector
+Data, Metadata
 Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
 
-## File system 
+## Filing Systems
 Key terms: file, document, stream, net neutrality
 Commands: grep, awk, sed 
 
 Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
 
-## Media, Message, Platform 
+## Media, Message, Mode
 Key terms: media, message, mode
 
 What happens in the change from speaking to writing? The violin (copy from dissertation here).
@@ -131,7 +132,7 @@ The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André.
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
 # Part II
-## Hardware, Software, Wetware
+## Software, Hardware, and the Platonic Forms
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
 "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
@@ -139,16 +140,17 @@ Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic
 What is a text?
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
-## Word Processing
+## Processing Words
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
 
 http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
 modal vs. 
-## Crypto
+## Cryptonauts
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
 
-## Technology, Complex Systems, in defense of Humanism
+## Human Technology
+Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
 # Tech Appendix
 ## Running the Terminal
