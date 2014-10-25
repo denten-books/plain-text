@@ -57,6 +57,10 @@ Leroi-goran?
 Key terms: information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
+Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation.
+
+Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
+
 ## Information, Freedom
 Information is intentional. Against the "cybernatic" formal definitions. 
 
@@ -79,18 +83,18 @@ Mis information. Man in the middle attacks. Information is intentional. Mind to 
 POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
 UTF History. Unix ideas of plain text.
-Semantic, Stylistic, Content
+Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
 
-## Data, metadata.
-Code and comments.
+## Data, Metadata
+Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
 
-## File, File system 
+## File system 
 Key terms: file, document, stream, net neutrality
 Commands: grep, awk, sed 
 
-Documents as vectors. Not completed things. Files as cognitive scaffolding. Vissman.
+Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
 
-## Media, Message 
+## Media, Message, Platform 
 Key terms: media, message, mode
 
 What happens in the change from speaking to writing? The violin (copy from dissertation here).
@@ -100,12 +104,8 @@ Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe
 Krap's Last tape here. 
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
-## Hardware and Software
-Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
+Books are not media they are platforms. Platform is all of the above. Plus the economic / cultural contexts. Amazon Kindle is a platform.
 
-# Part II
-## Textual Interfaces
-Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.
 ## Platforms of Self 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
@@ -124,24 +124,25 @@ The essay by Heidegger. Uxcull phenomenology. The thing about extended cognition
 
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
-## Security, access
-Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
-Commands: crypto, pgp, chmod, groups, file permissions
+# Part II
+## Hardware and Software
+Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
-Authorship is better thought of as access. How that is codified. Groups.
+"Where the Platonic rubber meets the road."
+## Source Code
+What is a text?
 
-## Networking
-Key terms: internet, rhizome, web, network, infrastructure, hardware, and software.
-ping, traceroute, the terminal way: multiple users. personal vs. central computers
-
-Internet is not a rhyzome. Central control. Surface vs. depth structures--twitter is rhyzomatic on the surface. 
-
-Actor-networks. We are pushing ourselves through the wires. Hardware in control. 
-
-## Search
-Hmm.
+Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
+## Textual Interfaces
+Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search.
 ## Crypto
-Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk.
+Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential.
+
+## Technology, Complex Systems, in defense of Humanism
+Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
+# Tech Appendix
+## Running the Terminal
+## Terminal Basics
 # Notes
 Athanasius Kircher's Universal Polygraphy
 George E. McCracken
@@ -162,4 +163,18 @@ Despite the ubiquity of Unix-like systems (which run a lion share of servers, su
 
 The battle for the soul of computing. Whether the internet empowers participatory governance, delibiration, and dissent, or whether it ushrs in a new era of mass surveilance and centralized control depends crucially on which of these two models of computing prevails.
 
+
+## Security, access
+Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
+Commands: crypto, pgp, chmod, groups, file permissions
+
+Authorship is better thought of as access. How that is codified. Groups.
+
+## Networking
+Key terms: internet, rhizome, web, network, infrastructure, hardware, and software.
+ping, traceroute, the terminal way: multiple users. personal vs. central computers
+
+Internet is not a rhyzome. Central control. Surface vs. depth structures--twitter is rhyzomatic on the surface. 
+
+Actor-networks. We are pushing ourselves through the wires. Hardware in control. 
 
