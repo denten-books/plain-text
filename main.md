@@ -57,7 +57,9 @@ Leroi-goran?
 Key terms: information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
-In a plain text file byte count corresponds to character count. Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text" is, what "bytes" are, and what exactly they represent, when, and how. But for now, a common-sense understanding of that sentence will suffice. It is enough to have the intuition that texts and characters are concepts meaningful to humans, and that bytes have something to do with information for computers. For a moment there, a unit of information meaningful to me (text, character) correspond to a unit of information meaningful to a machine.
+In a plain text file byte count corresponds to character count.[^ln-ascii] Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text" is, what "bytes" are, and what exactly they represent, when, and how. But for now, a common-sense understanding of that sentence will suffice. It is enough to have the intuition that texts and characters are concepts meaningful to humans, and that bytes have something to do with information for computers. For a moment there, a unit of information meaningful to me (text, character) correspond to a unit of information meaningful to a machine.
+
+[^ln-ascii]: This works text encoded in American Standard Code for Information Interchange (ASCII). Things get slightly more complicated with Unicode--something that we will explore before long, in this chapter. 
 
 This condition of mutual "understanding," if you will, is a singular congruence, particular only to plain text formats, holds true for UNIX.
 
@@ -137,8 +139,12 @@ Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic
 What is a text?
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
-## Textual Interfaces
-Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text.
+## Word Processing
+Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
+
+http://word.mvps.org/faqs/general/wordvswordperfect.htm
+http://wptoolbox.com/tips/MSWordToWP.html
+modal vs. 
 ## Crypto
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
 
