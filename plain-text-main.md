@@ -57,7 +57,7 @@ Leroi-goran?
 Key terms: information, binary, text, digital, analog, plain text, surface, depth
 Commands: unix fs, pwd, ls, cat, wc/lc?, grep, wild cards
 
-Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation.
+Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
 
@@ -120,23 +120,23 @@ To steel ourselves against entropy, we change the substratum from air to stone. 
 
 Repercussion?
 
-The essay by Heidegger. Uxcull phenomenology. The thing about extended cognition.
+The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André. 
 
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
 # Part II
-## Hardware and Software
+## Hardware, Software, Wetware
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
-"Where the Platonic rubber meets the road."
+"Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
 ## Source Code
 What is a text?
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
 ## Textual Interfaces
-Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search.
+Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text.
 ## Crypto
-Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential.
+Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
 
 ## Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
