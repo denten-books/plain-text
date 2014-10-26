@@ -5,7 +5,7 @@ author: "Dennis Tenen"
 
 # Introduction
 ## Pitch: Why? What? What's at stake? Who cares?
-Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools and practices that shape our daily encounter with computation.
+Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools, and practices that shape our daily encounter with computation.
 
 The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, privacy, security, and surveillance.
 
@@ -39,20 +39,13 @@ Literary scholarship. OS as a type of literature, but not reduced to text. Text 
 The key terms that motivate me: information, digital, data
 Media archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy.
 
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
-
+For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy.
 
 ## Audience: Who is this book for?
 Broadly speaking philosophers and theoreists of media and information. As a side effect of this book will gain some
 This book is meant to be read next to the computer and the reader is expected to gain some measure of profficency in Unix-like, text-driven interfaces. That profficency
 
 For those already familiar with the command line: programmers and system administrators. Grounding practice in historical, philosophic, and political context. Reconsider seemingly mundane acts like backing f 
-
-## Goals: what I hope to accomplish and arguments
-
-## Narrative arc: summary
-
-Media archeology. Applied turn in media studies. Confusion due to technical literacy.
 
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
@@ -101,12 +94,6 @@ Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
 Data, Metadata
 Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
 
-## Filing Systems
-Key terms: file, document, stream, net neutrality
-Commands: grep, awk, sed 
-
-Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
-
 ## Media, Message, Mode
 Key terms: media, message, mode
 
@@ -117,13 +104,13 @@ Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe
 Krap's Last tape here. 
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
-Books are not media they are platforms. Platform is all of the above. Plus the economic / cultural contexts. Amazon Kindle is a platform.
+Books are not media they are platforms. Platform is all of the above. Plus the economic / cultural contexts. Amazon Kindle is a platform. Who are you communicating with? Yoursef. What is the message. Ultimtely, it is a message of self-identity. 
 
-# Part II
-## Textual Interfaces
-Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
-Talk about stack exchange vs. 4chan vs. reddit
-## Platforms of Self 
+## Filing System, Platform of Self
+Key terms: file, document, stream, net neutrality
+Commands: grep, awk, sed 
+
+Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
 
@@ -141,7 +128,12 @@ The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André.
 
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
+
 # Part II
+## Textual Interfaces
+Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
+Talk about stack exchange vs. 4chan vs. reddit
+
 ## Software, Hardware, and the Platonic Forms
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
@@ -155,9 +147,15 @@ Containing an argument for text as an interface between human and machine. Histo
 
 http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
-modal vs. 
+modal vs. other kinds of processing 
 ## Cryptonauts
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
+
+Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that dumb-pipe email is unmediated, and therefore it's a business that Google wants to get out of as soon as it can."
+
+" It's also why I believe Google will kill Gmail as soon as it comes up with a mediated alternative everyone loves. Of course, Google may offer an antiquated "Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated experience."
+
+http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
 
 ## Human Technology
 Technology, Complex Systems, in defense of Humanism
