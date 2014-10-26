@@ -104,8 +104,11 @@ Who are you communicating with? Pushing yourself through the pipe. The appointme
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
 # Part II
+## Stack as a model of communication
+Talk about stack exchange vs. 4chan vs. reddit. Collective memory. 
 ## Textual Interfaces
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.
+
 ## Platforms of Self 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
@@ -123,6 +126,8 @@ Repercussion?
 The essay by Heidegger. Uxcull phenomenology. The thing about extended cognition.
 
 The book as an interface between human and ?. We must see it in the context of interfaces.
+
+Body techniques. Collective memory. Leroi gourhan.
 
 ## Security, access
 Security, privacy. Surveillance. Openness. Secrecy. Part of the same coin. Crypto vs. open source movement.
