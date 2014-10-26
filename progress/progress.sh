@@ -10,7 +10,7 @@ stamp="$(date --iso-8601)"
 echo $w >> words.csv
 
 echo -n "word count: " > $target
-cat chars.csv | spark >> $target
+cat words.csv | spark >> $target
 echo $w >> $target
 echo "on " >> $target
 echo $stamp >> $target
