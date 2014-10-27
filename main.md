@@ -139,6 +139,8 @@ Talk about stack exchange vs. 4chan vs. reddit
 ## Software, Hardware, and the Platonic Forms
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
+"Claude Shannon first explicitly posed the question of finding the smallest possible universal Turing machine in 1956. He showed that two symbols were sufficient so long as enough states were used (or vice-versa), and that it was always possible to exchange states by symbols." Get at this. States and symbols.
+
 "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
 ## Source Code
 What is a text?
