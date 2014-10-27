@@ -142,6 +142,8 @@ Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic
 ## Source Code
 What is a text?
 
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
 ## Processing Words
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
