@@ -62,9 +62,7 @@ Recent theory challenges the conceptual boundaries between humans and machines i
 
 But before we can get there, we need to gain clarity on the key terms of the conversation. Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
 
-### Digital, Analog
-
-Digitality is first in a long series of these muddled terms. The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analong and metaphysical threat, Kittler and Golumbia.
+Digitality is first in a long series of these muddled terms. The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
 
 Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
 
@@ -142,12 +140,20 @@ The book as an interface between human and ?. We must see it in the context of i
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 Talk about stack exchange vs. 4chan vs. reddit
 
-## Software, Hardware, and the Platonic Forms
+## Hardware, Software and the Platonic Forms
+One of my favorite "virtual" disagreements in print is between Kittler and Lev Manovich. "There is No Hardware" and "There is Only Software."
+
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
+
+### Philosophical Foundations of Computing
+The magic of hardware-software distinction. "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
+
+The dream of a universal language. Lully. Leibniz with digital and logic. Boole with boolean logic. Shannon with the insight that boolean logic can be implemented in circuits. Finally, Turing, with his Unversal Turing Machine. Answer the following questions here:  How does Turing define the state of the machine? What is the equivalent of a "program" or "software" in the language of the paper? What is the difference between a Turing machine and a universal Turing machine? How is the state of the machine similar to a "state of mind?" What is the difference between what we understand as "software," "hardware," and "data" in Turing's language?
 
 "Claude Shannon first explicitly posed the question of finding the smallest possible universal Turing machine in 1956. He showed that two symbols were sufficient so long as enough states were used (or vice-versa), and that it was always possible to exchange states by symbols." Get at this. States and symbols.
 
 "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
+
 ## Source Code
 What is a text?
 
