@@ -51,20 +51,26 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 
 # Part I
 ## We Have Always Been Digital
-Key terms: binary, text, digital, analog, plain text, surface, depth
-Commands: pwd, ls, cd, cat, head, tail
+Key terms: binary, digital, analog, plain text, surface, depth
+Commands: pwd, ls, cd, cat, wc
 
-In an ASCII-rendered plain text file, byte count corresponds to character count. Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment will suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information meant for a computer (which is, however likable, still a machine).
+In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment will suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information meant for a computer (which is, however likable, still a machine).
+
+[^ln-char]: There are many caveats here, to be explored later. Follow along with excercises related to the discussion in the Technical Appendix.
 
 Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in Part II of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is a way in which even a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in computer science, but also in articulating an ethics and a politics of computation.
 
 But before we can get there, we need to gain clarity on the key terms of the conversation. Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
 
-Digitality is first in a long series of these muddled terms. The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analong and metaphysical threat, Kittler and Golumbia. 
+### Digital, Analog
+
+Digitality is first in a long series of these muddled terms. The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analong and metaphysical threat, Kittler and Golumbia.
 
 Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
+
+### Plain and Fancy Text
 
 ## Freedom and Information
 Information is intentional. Against the "cybernatic" formal definitions. 
@@ -167,8 +173,17 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
 # Tech Appendix
-## Running the Terminal
-## Terminal Basics
+## Prepare
+How to run the terminal. What is it. And why?
+Intro to POSIX
+## Chapter 1
+Where am I? `pwd`, `ls`, `cd`
+Bits, bytes, and characters: `wc`
+ 
+## Chapter 2
+## Chapter 3
+## Chapter 4
+## Chapter 5
 # Notes
 Athanasius Kircher's Universal Polygraphy
 George E. McCracken
