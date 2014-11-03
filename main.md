@@ -4,7 +4,7 @@ author: "Dennis Tenen"
 ---
 
 # Introduction
-## Pitch: Why? What? What's at stake? Who cares?
+## What's at stake?
 Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools, and practices that shape our daily encounter with computation.
 
 The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, privacy, security, and surveillance.
@@ -68,7 +68,7 @@ Language is digital. Soap opera effect. Gaps that allow the brain to fill it. St
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
 
-### Plain and Fancy Text
+### Text Plain and Fancy 
 
 ## Freedom and Information
 Information is intentional. Against the "cybernatic" formal definitions. 
@@ -178,6 +178,11 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 ## Human Technology
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
+### Hospital as an Archive
+### Electronic Discovery
+### Media Archeology
+This is not a technological prolbem. Prolifiration of formats ensures a business of waste. Data must be stored in human readable formats both so we can study it AND to protect it. This is not just minimal computing for them, but a vision of computing for us. It is a political stance. The weight of .pdf vs. .txt. It is not a computational challenge. Digital dicay. The need to obviate media archeology. Data must be held in plain text.
+
 # Tech Appendix
 ## Prepare
 How to run the terminal. What is it. And why?
