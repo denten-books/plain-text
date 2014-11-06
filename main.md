@@ -182,11 +182,21 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 ## Human Technology
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
+
 ### Hospital as an Archive
 ### Electronic Discovery
 ### Media Archeology
 This is not a technological prolbem. Prolifiration of formats ensures a business of waste. Data must be stored in human readable formats both so we can study it AND to protect it. This is not just minimal computing for them, but a vision of computing for us. It is a political stance. The weight of .pdf vs. .txt. It is not a computational challenge. Digital dicay. The need to obviate media archeology. Data must be held in plain text.
+### New Humanism
+Humans as systems. But as recursive and self referential systems. The ability to incorporate models to alter behavior. Frustrates predicative models. Charles Goodhart "Goodhart's Law." and Robert Lucas. Lucas Critique.
 
+"Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes"  Goodhart, Charles (1981). "Problems of Monetary Management: The U.K. Experience". Anthony S. Courakis (ed.), Inflation, Depression, and Economic Policy in the West (Rowman & Littlefield): 111–146
+
+Campbell, Donald T., Assessing the Impact of Planned Social Change The Public Affairs Center, Dartmouth College, Hanover New Hampshire, USA. December, 1976.
+
+"The more any quantitative social indicator (or even some qualitative indicator) is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor."
+
+These sociologists are noticing a broader effect. Humans are recursive machines. We are able to reprogram ourselves in opposition to predicative model. We trade on the knowledge gap. Those who are modelled and those able to escape modeling. Sartre and negation. More than negation. A positive ability to incorporate model and to morph into new practices. Agency, deliberation, consensus, dissent. <-- this should be the last word of the book!
 # Tech Appendix
 ## Prepare
 How to run the terminal. What is it. And why?
