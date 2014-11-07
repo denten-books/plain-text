@@ -1,19 +1,21 @@
 ---
-title: "Plain Text: Towards Human Technology"
+title: "Plain Text: Human Technology"
 author: "Dennis Tenen"
 ---
 
 # Introduction
-## Pitch: Why? What? What's at stake? Who cares?
+## Statement of Aims
 Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, citizens, and activists by re-evaluating the ideas, tools, and practices that shape our daily encounter with computation.
 
-The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, privacy, security, and surveillance.
+The argument starts with foundational principles of media studies and information science. I ask: where does data end and meta-data begin? What contains more information a block of wood or a novel? What is the difference between form and formatting? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influence the applied and political discussion in the second half of the book. Thinking together about the nature of networking, code, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, privacy, security, and surveillance.
 
-A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittingly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in the history of the Unix family of operating systems. Ubiquitous on devices from super-computers to mobile phones, operating systems derived from Unix run the world. Case studies from the long history of computing will serve to illustrate some of the more theoretical passages in the volume. These case studies will point to (what I hope is an) unexpected confluence between the shared history of computing and literary thought.
+A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittingly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in the history of the Unix family of operating systems. Ubiquitous on devices from super-computers to mobile phones, operating systems derived from Unix run the world. Case studies from the long history of computing will serve to illustrate some of the more theoretical passages in the volume. These case studies will point to (what I hope is an) unexpected confluence between the shared history of computing and literary thought. 
 
-Moreover, the reader will get much more out of this book if he or she can actively follow along using their terminal emulator of choice.[^ln-terminal] The text assumes no prior technical knowledge. Both novices and experts alike will be exposed to ideas in the command line. At the very least, the reader will walk way from this book with basic skills foundational to empowered computing. At best, readers will gain hands-on understanding of files, filing systems, networks, search tools, servers, and encryption technologies that will radically transform their experience with text, media, and digital devices. Abstract concepts like "text" and "media" gain a palpable form when we are able to explore them in practice, on the system level. It is one thing to theorize about images and music, for example, and it is another to see how such differences are encoded in .jpg and .wav formats. My desire to integrate practice with theory stems from my experience of teaching in the fundamentals of digital literacy in Journalism, Enligsh, and Computer Science departments. What began for me as an interest in the power of computation to produce new insights, grew into a much. Insert political stuff here. 
+A corollary to the non-technical reader then is one who has an interest or an education in computer science or electrical engineering, but one who does not usually view his or her daily practice in its historical, philosophical, and political contexts. Designers, software engineers, project managers, and executives are often asked to make choices at work that have not only technological, but broader social and cultural implications. Should your company digitize its records? Should you share share your code with your customers, patients, competitors? Should you pay a vendor or use free software? Answers to questions like these cannot be guided by the technology alone. Technology does not project values, humans do. Gaining clarity on these values is necessary to make informed personal and organizational decisions. 
 
-[^ln-terminal]: See Appendix for more detail. 
+Moreover, the reader will get much more out of this book if he or she can actively follow along using their terminal emulator of choice. 
+
+The text assumes no prior technical knowledge. Both novices and experts alike will be exposed to ideas in the command line. At the very least, the reader will walk way from this book with basic skills foundational to empowered computing. At best, readers will gain hands-on understanding of files, filing systems, networks, search tools, servers, and encryption technologies that will radically transform their experience with text, media, and digital devices. Abstract concepts like "text" and "media" gain a palpable form when we are able to explore them in practice, on the system level. It is one thing to theorize about images and music, for example, and it is another to see how such differences are encoded in .jpg and .wav formats. My desire to integrate practice with theory stems from my experience of teaching in the fundamentals of digital literacy in Journalism, Enligsh, and Computer Science departments. What began for me as an interest in the power of computation to produce new insights, grew into a much. Insert political stuff here. 
 
 The methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of is embodied in the idea of "experimental methods." What does it mean to “experiment” in the study of history, literature, or philosophy? In answering that question I draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective.[^ln-cage] In both spaces, thought is secreted in practice, “on the fetid and throbbing ground of life.”[^ln-bernard][ln-xpmeth] 
 
@@ -22,7 +24,15 @@ The methodological move from theory, to history, into practice follows a recent 
 [^ln-cage]: "Here the word 'experimental' is apt, providing it is understood not as descriptive 
 of an act to be later judged in terms of success and failure, but simply as of an act the outcome of which is unknown." John Cage as quoted in Nyman, Michael (1974). Experimental Music: Cage and Beyond. Cambridge, UK.
 
-## Intellectual affinities: Whence?
+## Audience: Who is this book for?
+Broadly speaking philosophers and theoreists of media and information. As a side effect of this book will gain some
+This book is meant to be read next to the computer and the reader is expected to gain some measure of profficency in Unix-like, text-driven interfaces. That profficency
+
+For those already familiar with the command line: programmers and system administrators. Grounding practice in historical, philosophic, and political context. Reconsider seemingly mundane acts like backing f 
+
+For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
+
+## Market Review
 Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamential truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materialty in practice.
 
 Historical. 
@@ -35,26 +45,22 @@ My approach to media theory attempts to make good on the promise. Where I often 
 
 Literary scholarship. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
 
-## Applied turn: How?
 The key terms that motivate me: information, digital, data
 Media archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy.
 
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy.
 
-## Audience: Who is this book for?
-Broadly speaking philosophers and theoreists of media and information. As a side effect of this book will gain some
-This book is meant to be read next to the computer and the reader is expected to gain some measure of profficency in Unix-like, text-driven interfaces. That profficency
-
-For those already familiar with the command line: programmers and system administrators. Grounding practice in historical, philosophic, and political context. Reconsider seemingly mundane acts like backing f 
-
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
-
+## Format
+## Chapter Outlines
+## Timeline
 # Part I
 ## We Have Always Been Digital
-Key terms: binary, text, digital, analog, plain text, surface, depth
-Commands: pwd, ls, cd, cat, head, tail
+Key terms: binary, digital, analog, plain text, surface, depth
+Commands: pwd, ls, cd, cat, wc
 
-In an ASCII-rendered plain text file, byte count corresponds to character count. Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment will suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information meant for a computer (which is, however likable, still a machine).
+In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment will suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information meant for a computer (which is, however likable, still a machine).
+
+[^ln-char]: There are many caveats here, to be explored later. Follow along with excercises related to the discussion in the Technical Appendix.
 
 Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in Part II of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is a way in which even a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in computer science, but also in articulating an ethics and a politics of computation.
 
@@ -65,6 +71,8 @@ Digitality is first in a long series of these muddled terms. The original intuit
 Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
+
+### Text Plain and Fancy 
 
 ## Freedom and Information
 Information is intentional. Against the "cybernatic" formal definitions. 
@@ -136,7 +144,7 @@ The book as an interface between human and ?. We must see it in the context of i
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 Talk about stack exchange vs. 4chan vs. reddit
 
-## Hardware and Software
+## Hardware, Software and the Platonic Forms
 One of my favorite "virtual" disagreements in print is between Kittler and Lev Manovich. "There is No Hardware" and "There is Only Software."
 
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
@@ -148,6 +156,7 @@ The dream of a universal language. Lully. Leibniz with digital and logic. Boole 
 
 "Claude Shannon first explicitly posed the question of finding the smallest possible universal Turing machine in 1956. He showed that two symbols were sufficient so long as enough states were used (or vice-versa), and that it was always possible to exchange states by symbols." Get at this. States and symbols.
 
+"Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
 
 ## Source Code
 What is a text?
@@ -173,9 +182,33 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 ## Human Technology
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
+
+### Hospital as an Archive
+### Electronic Discovery
+### Media Archeology
+This is not a technological prolbem. Prolifiration of formats ensures a business of waste. Data must be stored in human readable formats both so we can study it AND to protect it. This is not just minimal computing for them, but a vision of computing for us. It is a political stance. The weight of .pdf vs. .txt. It is not a computational challenge. Digital dicay. The need to obviate media archeology. Data must be held in plain text.
+### New Humanism
+Humans as systems. But as recursive and self referential systems. The ability to incorporate models to alter behavior. Frustrates predicative models. Charles Goodhart "Goodhart's Law." and Robert Lucas. Lucas Critique.
+
+"Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes"  Goodhart, Charles (1981). "Problems of Monetary Management: The U.K. Experience". Anthony S. Courakis (ed.), Inflation, Depression, and Economic Policy in the West (Rowman & Littlefield): 111–146
+
+Campbell, Donald T., Assessing the Impact of Planned Social Change The Public Affairs Center, Dartmouth College, Hanover New Hampshire, USA. December, 1976.
+
+"The more any quantitative social indicator (or even some qualitative indicator) is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor."
+
+These sociologists are noticing a broader effect. Humans are recursive machines. We are able to reprogram ourselves in opposition to predicative model. We trade on the knowledge gap. Those who are modelled and those able to escape modeling. Sartre and negation. More than negation. A positive ability to incorporate model and to morph into new practices. Agency, deliberation, consensus, dissent. <-- this should be the last word of the book!
 # Tech Appendix
-## Running the Terminal
-## Terminal Basics
+## Prepare
+How to run the terminal. What is it. And why?
+Intro to POSIX
+## Chapter 1
+Where am I? `pwd`, `ls`, `cd`
+Bits, bytes, and characters: `wc`
+ 
+## Chapter 2
+## Chapter 3
+## Chapter 4
+## Chapter 5
 # Notes
 Athanasius Kircher's Universal Polygraphy
 George E. McCracken
