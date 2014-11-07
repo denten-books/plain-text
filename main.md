@@ -82,7 +82,7 @@ Formal vs. instrumental definitions. Information is that which moves form a Mind
 
 Mis information. Man in the middle attacks. Information is intentional. Mind to mind communication. Where does the thought originate? Freedom. Free intent. Identity of coding and decoding is not necessery. What is however necessary is the 
 
-Leroi-goran.
+Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.org/abs/1405.5563
 
  
 
