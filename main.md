@@ -183,6 +183,10 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
 
+My concern is with post-human ideology, that, in the name of forests, animals, and ecosystems, brings algorithms, markets, military bots, and manufactured goods into the sphere of ethics as actors. The agenda is one of determinism, which in its many guises has always been used as a mode of oppression, control, and to excuse violence.
+
+Agency is a tiny and speculative bulwark against forces of determinism. We should not be too eager to dismantle it. In that light, poisoning oceans etc. can only make sense as a human relationship. Someone must be on that other shore! An ethics posited between a man and an ocean alone are dangerous and impossible. I'd site the lineage of good ole Kant, Marx, Sartre, and Arendt for that line of reasoning,
+
 ### Hospital as an Archive
 ### Electronic Discovery
 ### Media Archeology
