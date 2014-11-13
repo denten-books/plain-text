@@ -187,6 +187,8 @@ My concern is with post-human ideology, that, in the name of forests, animals, a
 
 Agency is a tiny and speculative bulwark against forces of determinism. We should not be too eager to dismantle it. In that light, poisoning oceans etc. can only make sense as a human relationship. Someone must be on that other shore! An ethics posited between a man and an ocean alone are dangerous and impossible. I'd site the lineage of good ole Kant, Marx, Sartre, and Arendt for that line of reasoning,
 
+How to confront the foundational violence of humanism. Use non-European sources here as well.
+
 ### Hospital as an Archive
 ### Electronic Discovery
 ### Media Archeology
