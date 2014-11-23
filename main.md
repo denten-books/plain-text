@@ -142,7 +142,10 @@ The book as an interface between human and ?. We must see it in the context of i
 # Part II
 ## Textual Interfaces
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
+
 Talk about stack exchange vs. 4chan vs. reddit
+
+Handwriting. Teaching children how to "write". Typing vs. handwriting.
 
 ## Hardware, Software and the Platonic Forms
 One of my favorite "virtual" disagreements in print is between Kittler and Lev Manovich. "There is No Hardware" and "There is Only Software."
@@ -189,6 +192,7 @@ Agency is a tiny and speculative bulwark against forces of determinism. We shoul
 
 How to confront the foundational violence of humanism. Use non-European sources here as well.
 
+Latent monism. Plotonius. Monism of the underlying matter (everything is made of one stuff, information) and monism of the universe is one: Dr. Bronner's monism.
 ### Hospital as an Archive
 ### Electronic Discovery
 ### Media Archeology
