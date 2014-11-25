@@ -219,7 +219,13 @@ Humans as systems. But as recursive and self referential systems. The ability to
 
 Opposed to monism. Dialogical and dialectical systems. Including dualism!
 
-Monism. Haeckel, Ernst the Monist League as the founding of the Nazi Party. 
+Monism. Haeckel, Ernst the Monist League (*Monistenbund*) as the founding of the Nazi Party. "The religion of the future" from Otto Herrmann's article. 
+
+"Modern science and philosophy are revealing the world to us as a spiritual commonwealth, self-existing, self-governing and self directing." (Herrmann, 1913). The idea of ecology is not necessarily offensive. It is when it is turned into monism, one ecology in other words, is when it becomes fascism.
+
+The ideas that systems are self directing. 
+
+Christianity embracing dualism (strangely enough). I write this as a committed atheist.
 
 "Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes"  Goodhart, Charles (1981). "Problems of Monetary Management: The U.K. Experience". Anthony S. Courakis (ed.), Inflation, Depression, and Economic Policy in the West (Rowman & Littlefield): 111–146
 
