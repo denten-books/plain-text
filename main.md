@@ -94,12 +94,17 @@ Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.o
 
  
 
-## Form, Formatting
+## Text, Form, Formatting
 POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
 UTF History. Unix ideas of plain text.
 Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
 
+Version control, drafts, versioning. What is a text?
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
 ## Scratch Collector
 Data, Metadata
 Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
@@ -161,12 +166,6 @@ The dream of a universal language. Lully. Leibniz with digital and logic. Boole 
 
 "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
 
-## Source Code, Versioning.
-What is a text?
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
 
 ### The problem of duplicates
 The conversation between Goodman and Genette. Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence. Goodman: thinking about the perfect copy. But there is a confusion here: fake art is not necessarily about a copy, it is about provenance. Autographic vs. allographic art. Whether forgery is possible. Digital vs. analog art. Analog art is medium bound. Digital abstracts from the material. 
@@ -191,7 +190,14 @@ Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that
 
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
 
-## Human Technology
+## New Humanism
+"Neuroscience has put a new spin on free will and culpability: It "can help us see that all behavior is mechanical, that all behavior is produced by chains of physical events that ultimately reach back to forces beyond the agent’s control."
+
+Post humanism as latent monism. What is the problem with monism? Two types of monism:
+stuff monism and thing monism. Everything is made of the same matter (information). Everything is a part of the same thing, living organism. S
+
+Humanism: Agency, Deliberation, Consensus, Dissent.
+
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
 
@@ -207,7 +213,13 @@ Latent monism. Plotonius. Monism of the underlying matter (everything is made of
 ### Media Archeology
 This is not a technological prolbem. Prolifiration of formats ensures a business of waste. Data must be stored in human readable formats both so we can study it AND to protect it. This is not just minimal computing for them, but a vision of computing for us. It is a political stance. The weight of .pdf vs. .txt. It is not a computational challenge. Digital dicay. The need to obviate media archeology. Data must be held in plain text.
 ### New Humanism
-Humans as systems. But as recursive and self referential systems. The ability to incorporate models to alter behavior. Frustrates predicative models. Charles Goodhart "Goodhart's Law." and Robert Lucas. Lucas Critique.
+Humans as systems. But as recursive and self referential systems. The ability to incorporate models to alter behavior. Frustrates predicative models. Charles Goodhart "Goodhart's Law." and Robert Lucas. Lucas Critique. Pluralism.
+
+"We recognize that separating humanity from nature, from the whole of life, leads to humankind’s own destruction and to the death of nations. Only through a re-integration of humanity into the whole of nature can our people be made stronger. That is the fundamental point of the biological tasks of our age. Humankind alone is no longer the focus of thought, but rather life as a whole . . . This striving toward connectedness with the totality of life, with nature itself, a nature into which we are born, this is the deepest meaning and the true essence of National Socialist thought.” – National Socialist professor of biology, Ernst Lehmann."
+
+Opposed to monism. Dialogical and dialectical systems. Including dualism!
+
+Monism. Haeckel, Ernst the Monist League as the founding of the Nazi Party. 
 
 "Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes"  Goodhart, Charles (1981). "Problems of Monetary Management: The U.K. Experience". Anthony S. Courakis (ed.), Inflation, Depression, and Economic Policy in the West (Rowman & Littlefield): 111–146
 
