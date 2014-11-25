@@ -53,91 +53,6 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 ## Format
 ## Chapter Outlines
 ## Timeline
-# Part I
-## We Have Always Been Digital
-Key terms: binary, digital, analog, plain text, surface, depth
-Commands: pwd, ls, cd, cat, wc
-
-In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment will suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information meant for a computer (which is, however likable, still a machine).
-
-[^ln-char]: There are many caveats here, to be explored later. Follow along with excercises related to the discussion in the Technical Appendix.
-
-Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in Part II of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is a way in which even a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in computer science, but also in articulating an ethics and a politics of computation.
-
-But before we can get there, we need to gain clarity on the key terms of the conversation. Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
-
-Digitality is first in a long series of these muddled terms. The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
-
-Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
-
-Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
-
-### Text Plain and Fancy 
-
-## Freedom and Information
-Information is intentional. Against the "cybernatic" formal definitions. 
-
-Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
-
-Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
-Makukov. Directed pan-spermia.Life Sciences in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper: http://arxiv.org/abs/1303.6739 
-
-What is information? The difference that makes a difference. Bateson's definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion in that paper. Noise and information seem to be the same! Thermodynamic explaination. Transmitting things in stone (low entropy) vs. transmitting them through the air (high entropy). Does a block of wood have more "information" than a novel? This definition cannot account for it really.
-
-Extended cognition hypothesis. Get this text from disertation. The monism problem.
-
-Formal vs. instrumental definitions. Information is that which moves form a Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information be coersed? Both on the sending and the recieving end. Can someone admit something is music by force? Can you force information. The deer and the tick. The deer does not "send" bodyheat information. The tick receives information as it does receive the action of gravity. Does a mountain erode from the top because it recieves information from the outside? Information here is simply used as a synonym for some material state of the univrse and the causal relationship between forces. Causality alone is not information. Laws of physics are not information. Well, unless...
-
-Mis information. Man in the middle attacks. Information is intentional. Mind to mind communication. Where does the thought originate? Freedom. Free intent. Identity of coding and decoding is not necessery. What is however necessary is the 
-
-Leroi-goran.
-
- 
-
-## Form, Formatting
-POSIX. Form. Style. Content.
-What is and what is not information. From abstract to specific. Material substratum.
-UTF History. Unix ideas of plain text.
-Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
-
-## Scratch Collector
-Data, Metadata
-Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
-
-## Media, Message, Mode
-Key terms: media, message, mode
-
-What happens in the change from speaking to writing? The violin (copy from dissertation here).
-
-Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
-
-Krap's Last tape here. 
-Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
-
-Books are not media they are platforms. Platform is all of the above. Plus the economic / cultural contexts. Amazon Kindle is a platform. Who are you communicating with? Yoursef. What is the message. Ultimtely, it is a message of self-identity. 
-
-## Filing System, Platform of Self
-Key terms: file, document, stream, net neutrality
-Commands: grep, awk, sed 
-
-Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
-
-Science lecture vs. humanities. Stuff that is known. Stuff that is not known
-
-What does it really mean to "know" something? Or to have "read" a book? I have had the following conversation countless times. Someone asks, "Have you read Nabokov's *Pale Fire*," and I respond, "Yes I have." But there is a world of a difference between reading it yesterday, last week, or ten years ago. The book as an interface leaves an organic trace in the human mind--an imprint that begins to fade as soon as it is created.
-
-How much knowledge is there in the world? According to a recent paper published in Science, 295 exabytes (or billion gigabytes).[@hilbert] 
-
-Whatever consciousness is, it is propelled forward on a thin edge of material substratum. Reality exists only in the now, where the past is a memory and the future only a possibility. Imagine whispering something to a friend. It does not have to be very complicated, something like "I love you" or "I miss you." The whisper dissipates as soon it is uttered. The percussion of the speaker's breath creates temporary order: giving shape and pushing air molecules into waves of pattern and form. That order begins dissipating as soon as it is created. Within milliseconds, molecules return to their natural state of chaos.
-
-To steel ourselves against entropy, we change the substratum from air to stone. It's molecules are more stable. Etched in stone will be the same message. It will last longer now. But it will also take longer to create. You will have to carry around your tablet and chisel. The message etched in stone will outlive the whisper and indeed will
-
-Repercussion?
-
-The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André. 
-
-The book as an interface between human and ?. We must see it in the context of interfaces.
-
 
 # Part II
 ## Textual Interfaces
@@ -158,12 +73,21 @@ The dream of a universal language. Lully. Leibniz with digital and logic. Boole 
 
 "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
 
-## Source Code
+## Source Code, Versioning.
 What is a text?
 
 http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
+
+### The problem of duplicates
+The conversation between Goodman and Genette. Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence. Goodman: thinking about the perfect copy. But there is a confusion here: fake art is not necessarily about a copy, it is about provenance. Autographic vs. allographic art. Whether forgery is possible. Digital vs. analog art. Analog art is medium bound. Digital abstracts from the material. 
+
+### Duplication, censorship
+### Annotation
+### Collaboration
+
+## Bad Links, Intertextuality, Symbolic links
 ## Processing Words
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
 
