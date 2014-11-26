@@ -22,7 +22,7 @@ Something like a textbook in "applied media studies" or "theoretical digital hum
 
 The methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of is embodied in the idea of "experimental methods." What does it mean to “experiment” in the study of history, literature, or philosophy? In answering that question I draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective.[^ln-cage] In both spaces, thought is secreted in practice, “on the fetid and throbbing ground of life.”[^ln-bernard][ln-xpmeth] 
 
-Media archeology. 
+Media archeology. Actual archeology though. Unix operating systems that run everyting from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
 
 [^ln-bernard]: @Bernard, Claude (1865). Introduction à l’étude de la médecine expérimentale. Paris.
 [^ln-xpmeth]: I've quoted this formulation in the mission statement of xpmeth.github.io website 
