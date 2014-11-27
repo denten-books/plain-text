@@ -4,6 +4,7 @@ author: "Dennis Tenen"
 ---
 
 # Introduction
+
 ## Thesis, Audience
 Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, activists, and, generally, citizens interested in re-evaluating some of the ideas, tools, and practices that shape their daily encounter with computation.
 
@@ -11,37 +12,32 @@ The argument starts with foundational principles of media and literary studies a
 
 A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittedly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in literary theory and in the history of modern computing. Detailed case studies from that history will point to (what I hope is an) unexpected confluence between the shared history of computing and literary thought. 
 
-A parallel audience to the one composed of non-technical readers is one that shares expertise in computer science or electrical engineering, but also one that does not usually view its daily practice in its historical, philosophical, and political contexts. Designers, software engineers, project managers, and executives are often asked to make choices at work that have not only technological, but broader social and cultural implications. Choosing a text editor, a filing system, or a social networking platform cannot be adequately addressed in shallow instrumental terms like efficacy, speed, or performance. Such choices also affect deep structures of knowledge transmission, the formation of collective and institutional memories, the quality of online discussion, and the ways in which we relate to our family, friends, and colleagues. Ultimately, in the concluding chapters, this book is meant to challenge the widely-held (if often hidden) notion that systems can give rise to ethical or political values. Values, as I will argue, must be projected from without, by free-willing agents that can voluntarily deliberate, form consensus, and  articulate shared goals. The only sentient beings answering to these criteria are humans (and not, for example, cyborgs or complex systems). The book then is ultimately an articulation of a new humanism, which runs counter to the recent theoretical turn towards post- and trans- humanisms which elevate systems (natural and artificial) to the privileged position of ethical and political agents. 
+A parallel audience to the one composed of non-technical readers is one that shares expertise in computer science or electrical engineering, but also one that does not usually view its daily practice in its historical, philosophical, and political contexts. Designers, software engineers, system administrators, and project managers are often asked to make choices at work that have not only technological, but broader social and cultural implications. Choosing a text editor, a filing system, or a social networking platform cannot be adequately addressed in shallow instrumental terms like efficacy, speed, or performance. Such choices also affect deep structures of knowledge transmission, the formation of collective and institutional memories, the quality of online discussion, and the ways in which we relate to our family, friends, and colleagues. Ultimately, in the concluding chapters, this book is meant to challenge the widely-held (if often hidden) notion that systems can give rise to ethical or political values. Values, as I will argue, must be projected from without, by free-willing agents that can voluntarily deliberate, form consensus, and  articulate shared goals. The only sentient beings answering to these criteria are humans (and not, for example, cyborgs or complex systems). The book then is ultimately an articulation of a new humanism, which runs counter to the recent theoretical turn towards post- and trans- humanisms which elevate systems (natural and artificial) to the privileged position of ethical and political agents. 
 
-## Theory and Method 
+## Theory, Method, Format
 The book is a book, but it is also a tool. Readers will get much more out of it if they are able to actively follow along using their terminal emulator of choice. If these words mean nothing to you, rest assured that the text assumes no prior technical knowledge. It can be read sequentially as a conventional piece of scholarship in textual theory or "new media" studies. For those willing to take the plunge, I will often illustrate abstract theoretical concepts by asking the reader to type some commands into their terminals. Detailed instructions on how to set up this "augmented" reading environment, tutorials, and explanations can be found in the technical appendix and on the forthcoming companion website. 
 
 Both novices and experts alike can benefit from exposure to ideas in the command line, on the level of the operating system. At the very least, the reader will walk way from this book with concepts and skills foundational to computing as critical thought and critical practice. But I hope that many readers will go beyond the basics, gaining deep-seated, intuitive, "hands-on" understanding of operational concepts like files, filing systems, networks, search tools, servers, and encryption technologies. Developing an intuitive understanding of systems that structure so much of our daily activity has the potential to radically transform one's experience with text, media, and digital devices. 
 
-Unmoored theoretical concepts like "text" gain a palpable form when explored in the context of a specific platform. To put it another way: "text" ("media," "body," "information") in some very real ways exist only as their instantiation. That is to say that I do not believe that abstract categories like "text" and "media" can possibly be reduced to a number of essential, structural features that would manifest either as text or media. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share any given characteristic. Imagine instead a Venn diagram, where fields of textuality intersect and diverge in a historically (culturally, practically) contingent, arbitrary ways. This anti-essentialist streak brings Wittgenstein closer to pragmatists like William James, or, more appropriately, Frank Ramsey (a close friend and colleague of Wittgenstein), who would write that meaning "is to be defined by reference to the actions to which asserting it would lead, or, more vaguely still, by its possible causes and effects."[@ramsey-foundationsofmath p.155] In this way, my own definitions of key operational concepts in the field of literary and media theory hinge on pragmatic causes and effects. Throughout, I am compelled to ask "What is at stake?"
+Unmoored theoretical concepts like "text" gain a palpable form when explored in the context of a specific platform. To put it another way: "text" ("media," "body," "information") in some very real ways exist only as their instantiations. Abstract categories like "text" and "media" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest]. When someone asks, What is text?, I am compelled to reply: When? Where? and for Whom? Imagine a Venn diagram, where fields of textuality intersect and diverge in a historically (culturally, practically) contingent, arbitrary ways. These fields exist in relation to specific communities of practice, which often do not in themselves employ a controlled taxonomy. What counts for "code" and "poetry" can change from day to day for communities of coders and poets. It may even change for a single individual who writes code by day and poetry by night, employing operational vocabularies in changing and perhaps even contradicting ways as they shift contexts.
 
+[^ln-wittgenstein]: This anti-essentialist streak brings Wittgenstein closer to pragmatists like William James, or, more appropriately, Frank Ramsey (a close friend and colleague of Wittgenstein), who would write that meaning "is to be defined by reference to the actions to which asserting it would lead [@ramsey-foundationsofmath p.155]." 
 
-It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
+In this way, my own definitions of key operational concepts in the field of literary and media theory hinge on a pragmatic considiration of causes and effects. Throughout, in discussing operational definitions of conepts like "text" and "media," I am compelled to insist on the question: "What is at stake in defining it that way?"
+It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
 Something like a textbook in "applied media studies" or "theoretical digital humanities."
 
-The logic of pragmatic literary theory, by definition, is necessarily a species of materialism, which looks to. A corrective to Marxist mataterialsm that views materialism as representation of such.
+The logic of pragmatic literary theory, by definition, is necessarily a species of materialism, which looks to. A corrective to Marxist materialism that views materialism as representation of such.
 
-The methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of is embodied in the idea of "experimental methods." What does it mean to “experiment” in the study of history, literature, or philosophy? In answering that question I draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective.[^ln-cage] In both spaces, thought is secreted in practice, “on the fetid and throbbing ground of life.”[^ln-bernard][ln-xpmeth] 
+The methodological move from theory, to history, into practice follows a recent interest in the fields of philosophy, history, and literary studies in supplementing thought with a robust sense of doing and making. My own version of is embodied in the idea of "experimental methods." What does it mean to “experiment” in the study of history, literature, or philosophy? In answering that question I draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective.[^ln-cage] In both spaces, thought is secreted in practice, “on the fetid and throbbing ground of life.”[^ln-bernard][^ln-xpmeth] 
 
-Media archeology. Actual archeology though. Unix operating systems that run everyting from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
+Media archeology. Actual archeology though. Unix operating systems that run everything from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
 
 [^ln-bernard]: @Bernard, Claude (1865). Introduction à l’étude de la médecine expérimentale. Paris.
 [^ln-xpmeth]: I've quoted this formulation in the mission statement of xpmeth.github.io website 
 [^ln-cage]: "Here the word 'experimental' is apt, providing it is understood not as describing an act to be later judged in terms of success and failure, but simply as of an act the outcome of which is unknown." John Cage as quoted in Nyman, Michael (1974). Experimental Music: Cage and Beyond. Cambridge, UK.
 
-## Audience: Who is this book for?
-Broadly speaking philosophers and theoreists of media and information. As a side effect of this book will gain some
-This book is meant to be read next to the computer and the reader is expected to gain some measure of profficency in Unix-like, text-driven interfaces. That profficency
-
-For those already familiar with the command line: programmers and system administrators. Grounding practice in historical, philosophic, and political context. Reconsider seemingly mundane acts like backing f 
-
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals.
 
 ## Market Review
 Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamential truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materialty in practice.
@@ -62,9 +58,13 @@ Media archeology. Computers containing vestiges of ideas and direction. Can be d
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy.
 
 ## Format
+
 ## Chapter Outlines
+
 ## Timeline
+
 # Part I
+
 ## We Have Always Been Digital
 Key terms: binary, digital, analog, plain text, surface, depth
 Commands: pwd, ls, cd, cat, wc
@@ -156,6 +156,7 @@ The book as an interface between human and ?. We must see it in the context of i
 
 
 # Part II
+
 ## Textual Interfaces
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 
@@ -221,10 +222,14 @@ Agency is a tiny and speculative bulwark against forces of determinism. We shoul
 How to confront the foundational violence of humanism. Use non-European sources here as well.
 
 Latent monism. Plotonius. Monism of the underlying matter (everything is made of one stuff, information) and monism of the universe is one: Dr. Bronner's monism.
+
 ### Hospital as an Archive
+
 ### Electronic Discovery
+
 ### Media Archeology
 This is not a technological prolbem. Prolifiration of formats ensures a business of waste. Data must be stored in human readable formats both so we can study it AND to protect it. This is not just minimal computing for them, but a vision of computing for us. It is a political stance. The weight of .pdf vs. .txt. It is not a computational challenge. Digital dicay. The need to obviate media archeology. Data must be held in plain text.
+
 ### New Humanism
 Humans as systems. But as recursive and self referential systems. The ability to incorporate models to alter behavior. Frustrates predicative models. Charles Goodhart "Goodhart's Law." and Robert Lucas. Lucas Critique. Pluralism.
 
@@ -247,18 +252,25 @@ Campbell, Donald T., Assessing the Impact of Planned Social Change The Public Af
 "The more any quantitative social indicator (or even some qualitative indicator) is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor."
 
 These sociologists are noticing a broader effect. Humans are recursive machines. We are able to reprogram ourselves in opposition to predicative model. We trade on the knowledge gap. Those who are modelled and those able to escape modeling. Sartre and negation. More than negation. A positive ability to incorporate model and to morph into new practices. Agency, deliberation, consensus, dissent. <-- this should be the last word of the book!
+
 # Tech Appendix
+
 ## Prepare
 How to run the terminal. What is it. And why?
 Intro to POSIX
+
 ## Chapter 1
 Where am I? `pwd`, `ls`, `cd`
 Bits, bytes, and characters: `wc`
  
 ## Chapter 2
+
 ## Chapter 3
+
 ## Chapter 4
+
 ## Chapter 5
+
 # Notes
 Athanasius Kircher's Universal Polygraphy
 George E. McCracken
