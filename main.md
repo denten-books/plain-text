@@ -39,7 +39,9 @@ It is one thing, for example, to theorize about form and content, and it is quit
 
 ### Materialism
 Marxism, media archeology, pam smith.
-The logic of pragmatic literary theory, by definition, is necessarily a species of materialism, which looks to. A corrective to Marxist materialism that views materialism as representation of such.
+The logic of pragmatic literary theory, by definition, is necessarily a species of materialism, which looks to. A corrective to Marxist materialism that views materialism as representation of such. Superstratum and substratum. Surface and depth. A corrective to Marxism. Respond to @marcus.
+
+In viewing text as merely surface phenomenon, we are in danger losing . Email as intertext seems rhizomatic and decantralized. But, yet at the layer of infrastructure (routers, switches, service providers) it is highily hierarchichal. Understanding that underlying structure of infomration helps us expose the flows of power and control. We can understand how censorhip happens. Or surveilance. 
 
 Media archeology. Actual archeology though. Unix operating systems that run everything from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
 
@@ -50,7 +52,10 @@ The methodological move from theory, to history, into practice follows a recent 
 
 Making and knowing. How does this work for texts? Restate thesis. 
 
-## Market Review
+
+## Market & Reach
+Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
+
 Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamential truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materialty in practice.
 
 Historical. 
@@ -70,9 +75,30 @@ Media archeology. Computers containing vestiges of ideas and direction. Can be d
 
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy.
 
+  
 ## Chapter Outlines
+I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapater (around 20-30 book pages).
+
+### Chapter 1: We Have Always Been Digital
+Digital. Analog. Soap opera effect. 
+### Chapter 2: Freedom of Information
+The "systems" definitino of information. Shannon and Weaver. Argue for the freedom of the sender and reciever instead of the system.
+### Chapter 3: Text, Form, Formating
+Text as meaning, semantics structure, and style. 
+### Chapter 4: Scratch Collector
+Data and metadata.
+### Chapter 5: Media, Message, Mode
+### Chapter 6: Platforms of Self
+### Chapter 7: Textual Interfaces
+### Chapter 8: Hardware, Software, and the Platonic Forms
+### Chapter 9: Bad Links
+### Chapter 10: Processing Words
+### Chapter 11: Code and Crypt
+### Chapter 12: New Humanism
+### Tech Appendix
 
 ## Timeline
+I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that nearly triples during breaks. Assuming a manuscript of around 80k words (and discounting the fact that large poritions of this book are anicipated in my dissertation), a conservative estimate of my schedule would place the final draft somwhere towards the second half of ther summer, 2015. 
 
 # Part I
 
@@ -96,7 +122,7 @@ Binary tends towards the continuoius (get the ch. Reality TV and the soap opera 
 
 ### Text Plain and Fancy 
 
-## Freedom and Information
+## Freedom of Information
 Information is intentional. Against the "cybernatic" formal definitions. 
 
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
@@ -198,6 +224,28 @@ The conversation between Goodman and Genette. Goodman's "Art and Authenticity." 
 ### Collaboration
 
 ## Bad Links, Intertextuality, Symbolic links
+Rise of intertextuality. The promise of hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links here.
+It is my intention here to convince you that links are bad. They are bad when it comes to writing for the web in general, bad for books, bad for long-form journalism, and even worse in academic publication. It is not that I am against the idea of links. As we will see here, the problem lies in the way links are used. That is also to say that we can do something about using links better. But first, why are links so bad?
+
+To start with, links are opaque. The worst of lot are links like this and this. Of the two “thises,” the first leads us to Google and the second to Bing. But your readers would not know that just by looking at the text. The best they can do is “hover” over the word with their mouse cursor, relying on the browser interface to show them where the link is going. And once they get there, there are no easy ways to get back. The writer must have faith in the browser to “do the right thing” in guiding the reader through an intertextual maze. And that is not right when it comes to writing. In most situations, the author should architect that experience explicitly. If you think about it, the old-fashioned apparatus of quoting an external text is itself a type of linking. But rather than quoting the whole text, the author only quotes the relevant bits. Sending readers away to do that work on their own is lazy and irresponsible. Imagine a tour guide who tells his tourists to “just go over there and look at some stuff,” and “come back when you’re done.” Links can be that disorienting.
+
+Links disrupt the reading experience, and that is the second reason for why links are bad. It is possible that you want the reader’s experience to be disrupted. But in many cases you don’t. And the reader is already distracted by the proliferation of parallel windows and devices that augment their reading in some way. Do we need to make that distraction easier? Should I link the Wikipedia article on media multitasking or is it enough for my purposes to simply mention Wikipedia, or to trust my reader to look something up later, in a reference source of their own choosing? Or better yet, should I help the reader along by summarizing the findings? It mentions that most folks already read with a second screen in tow. It is not that unusual to see someone look something up on their phone or tablet while reading a newspaper or an e-book. Why? Because they don’t want to leave the flow of the first screen. There is great pleasure in immersive, uninterrupted reading.
+
+Besides being disruptive, links are ugly. They are ugly together, as in when many links conspire to produce a tangled mess. And they are also ugly when naked on their own, like this: https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit. That string of characters is not meant for human consumption! The period at the end kills me entirely. Meaningless punctuation inside of links coupled with regular punctuation ruins the sentence and the paragraph. Of course, I could just tell you to read something on Google Docs. That looks much better, but then we are making the opaqueness problem worse by hiding the address behind words that may or may not be related to the destination. It seems that we are stuck compromising on either transparency, reading flow, or visual impact.
+
+Links aren’t very secure to begin with, but hiding links behind words further compromises security. You’ve probably heard of link-baiting: the purposefully malicious attempts to trick a reader into revealing personal information when following a link that masquerades as a legitimate destination. You can visit my site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t worry, that was the real Google login page.) But even if one means well, viruses and browser exploits can inject bad links into your otherwise legitimate ones. A common technique is to install a browser script along with some seemingly useful “search bar” that will redirect all legitimate links to a site that makes money by advertising. Worse yet, you could end up on a site that attempts to further compromise your computer. Links are not secure because in linking, we outsource the relationship between reader and content to the browser.
+
+Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last because the content at the address is dynamic. It is not guaranteed to be there decades, months, minutes after your initial visit. In that case, why even bother? The link works best for ephemeral output (like a tweet). We must think of something much more robust for any “serious” writing that hopes to survive to the end of the week. And for the really good stuff, the kind of stuff that is the purview of librarians, we need to cultivate sustainable, long-lasting, responsible practices of online citation. It should work as well, if not better, than the familiar bibliographic citation in print. This practice should combat digital decay, not aid it. We need to think about the ways our links can be accessed, mined, and preserved with the archive-grade zeal of the rare book librarian.
+
+Finally, links are terrible for accessibility. It is bad enough that clicking on a small word like this is difficult for people with any sort of fine-motor control problems. Being a little older in itself can make the online reading experience painful. Things are much worse for those with Parkinson’s or for the blind. Sina Bahram, a blind usability expert (who is himself blind) reports that some sites contain thousands (!) of links in advance of actual content. Screen readers for the blind must read each one of them out loud. For the screen reader, there is no difference between garbage links and useful content. If you thought looking at links is disruptive, imagine listening to a robotic voice that pronounces every slash and every useless number in: http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens to his reader at 950 words per minute.
+
+Any one of these issues alone should give us pause. Together, they are a cause of grave concern. How did we get here? And what can we do to make links good again?
+
+How did we get here is not an easy question. A part of the story is surely the excitement we once felt about hypertext. Links were supposed to break the hegemony of linear narrative, ushering in a new interconnected world. To some extent the dream came true. But links also brought with them such things as Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among other things, the number of incoming and outgoing links. This bias for connectivity encourages “link farms”: sites that attempt to game the system by aggregating links or cross-linking their own content. A sure sign of a vacuous SEO-driven piece of writing is a certain cynical and strategic use of links to other popular sources. How long until the SEO logic infects poetry, fiction, or investigative journalism?
+
+What can we do to make links better? There are a few things we all can do now. First, let’s use links sparingly. Think smartly about whether you need to link or whether you can make do with a good, old-fashioned quote or citation.  Don’t link just because you can. Second, link explicitly: Youtube.com is better than this. Third, realize that online content is dynamic. It makes no sense to link a dynamic resource when the intent is to create a link to a static version of a document. Tools like the Save Page Now service, hosted by the Internet Archive, do just that. You can find this essay at http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best captured in a snapshot here: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/. Finally, do not neglect the humble footnote. Footnotes provide a nice blend between usability, transparency, and good knowledge design.
+
+1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 ## Processing Words
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
 
