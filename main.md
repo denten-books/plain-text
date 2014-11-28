@@ -20,6 +20,8 @@ The book is a book, but also a tool. Readers will get much more out of it if the
 Both novices and experts alike can benefit from exposure to ideas in the command line, on the level of the operating system. At the very least, the reader will walk way from this book with concepts and skills foundational to computing as critical thought and critical practice. But I hope that many readers will go beyond the basics, gaining deep-seated, intuitive, "hands-on" understanding of operational concepts like files, filing systems, networks, search tools, servers, and encryption technologies. Developing an intuitive understanding of systems that structure so much of our daily activity has the potential to radically transform one's experience with text, media, and digital devices. 
 
 ## Theory, Method
+
+### Pragmatism
 Unmoored theoretical concepts like "text" and "media" gain a palpable form when explored in the context of their instantiation. This is both model and method structuring the inquiry advanced here. Allow me to spend the next few paragraphs in laying bare the reasoning and the history behind this approach to the study technology, texts, and people.
 
 The idea that "meaning" is always in some sense "operational meaning" is a proposition implicit in several related philosophical traditions. The first of these is pragmatism, broadly conceived. William James articulates that view when he writes that "reality is seen to be grounded in a perfect jungle of concrete expediencies [@james-pragmatism-conceptionoftruth]." For James (and, to some extent, for his fellow travellers in American pragmatism, Charles Sanders Peirce and John Dewey)[^ln-pragma-truth] the pragmatic answer to the question of truth could be reduced to the questions efficient causes and effects. In his essay "Pragmatism's Conception of Truth," James asks: "How will the truth be realized What concrete difference will its being true make in anyone's actual life? What experiences will be different from those which would obtain if the belief were false?"
@@ -34,14 +36,19 @@ Discourse Analysis, STS and Kuhn, Model-dependent realism.
 
 Frank Ramsey (a close friend and colleague of Wittgenstein), who would write that meaning "is to be defined by reference to the actions to which asserting it would lead [@ramsey-foundationsofmath p.155]."[@goodman-wittandjames] 
 
-In this way, my own definitions of key operational concepts in the field of literary and media theory hinge on a pragmatic considiration of causes and effects. Throughout, in discussing operational definitions of conepts like "text" and "media," I am compelled to insist on the question: "What is at stake in defining it that way?"
+In this way, my own definitions of key operational concepts in the field of literary and media theory hinge on a pragmatic consideration of causes and effects. Throughout, in discussing operational definitions of concepts like "text" and "media," I am compelled to insist on the question: "What is at stake in defining it that way?"
+
 It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
 ### Materialism
 Marxism, media archeology, pam smith.
-The logic of pragmatic literary theory, by definition, is necessarily a species of materialism, which looks to. A corrective to Marxist materialism that views materialism as representation of such. Superstratum and substratum. Surface and depth. A corrective to Marxism. Respond to @marcus.
+The logic of pragmatic theory naturally suggests materialism. Why? 
 
-In viewing text as merely surface phenomenon, we are in danger losing . Email as intertext seems rhizomatic and decantralized. But, yet at the layer of infrastructure (routers, switches, service providers) it is highily hierarchichal. Understanding that underlying structure of infomration helps us expose the flows of power and control. We can understand how censorhip happens. Or surveilance. 
+In viewing text as merely surface phenomenon, we are in danger of misapprehending deep structures that . A critic could (Email as intertext seems rhizomatic and decentralized. But, yet at the layer of infrastructure (routers, switches, service providers) it is highly hierarchical. Understanding that underlying structure of information helps us expose the flows of power and control. We can understand how censorship happens. Or surveillance. 
+
+A corrective to Marxist materialism that views materialism as representation of such. Superstratum and substratum. Surface and depth. A corrective to Marxism. Publishing is broken @kfitzpatrick.
+
+That is not to suggest that depth. Respond to @marcus.
 
 Media archeology. Actual archeology though. Unix operating systems that run everything from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
 
@@ -54,35 +61,35 @@ Making and knowing. How does this work for texts? Restate thesis.
 
 
 ## Market & Reach
-Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
 
-Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamential truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materialty in practice.
-
-Historical. 
-
-Brings it closer to digital humanities, which is very material but often atheoretical. Theory in material and practice.
-
-Something like a textbook in "applied media studies" or "theoretical digital humanities."
-
-Only in this way can media studies answer the lofty goals of critique. There is no hope of reaching from the screen to the political consequences without grounding analyiss in practice. A critique in tradition of the Frankfurt school, requires furhter understanding of the economic reality of media, its legal and legilative context, issues of intellectual proprty and labor conditions. 
-
+Media Studies, STS, Philosophy of Technology 
+Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamental truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materiality in practice Similar books.
 My approach to media theory attempts to make good on the promise. Where I often begin with philosophical 
+Only in this way can media studies answer the lofty goals of critique. There is no hope of reaching from the screen to the political consequences without grounding analysis in practice. A critique in tradition of the Frankfurt school, requires further understanding of the economic reality of media, its legal and legislative context, issues of intellectual property and labor conditions. 
 
-Literary scholarship. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
+Digital Humanities.
+Brings it closer to digital humanities, which is very material but often atheoretical. Theory in material and practice. Similar books. @kirshenbaum
 
-The key terms that motivate me: information, digital, data
-Media archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy.
-
+Human-computer interaction. Knowledge workers, architects, and designers.
 For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy.
 
-  
+But it is all really literary theory, textual scholarship, philology. Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
+The key terms are important a in a range of fields. Expanding literary studies. motivate me: information, digital, data. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
+Media archeology: textual archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy. Forms of latent textuality still extant.
+
+Something like a textbook in "applied media studies" or "theoretical digital humanities."
+I teach widely around the country (DHSI, Lede, NYU) and I use these materials myself. I can see a course structured around these skills and ideas. 
+
+
+
+
 ## Chapter Outlines
-I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapater (around 20-30 book pages).
+I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages).
 
 ### Chapter 1: We Have Always Been Digital
 Digital. Analog. Soap opera effect. 
 ### Chapter 2: Freedom of Information
-The "systems" definitino of information. Shannon and Weaver. Argue for the freedom of the sender and reciever instead of the system.
+The "systems" definition of information. Shannon and Weaver. Argue for the freedom of the sender and receiver instead of the system.
 ### Chapter 3: Text, Form, Formating
 Text as meaning, semantics structure, and style. 
 ### Chapter 4: Scratch Collector
