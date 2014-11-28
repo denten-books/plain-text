@@ -71,7 +71,7 @@ Digital Humanities.
 Brings it closer to digital humanities, which is very material but often atheoretical. Theory in material and practice. Similar books. @kirshenbaum
 
 Human-computer interaction. Knowledge workers, architects, and designers.
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy.
+For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy. Books like "visual thinking," but many interfaces are still heavily textual (email, blog, etc).
 
 But it is all really literary theory, textual scholarship, philology. Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
 The key terms are important a in a range of fields. Expanding literary studies. motivate me: information, digital, data. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
