@@ -75,7 +75,7 @@ For CS folk, grounds practice in a theoretical discussion that attracts a wider 
 
 But it is all really literary theory, textual scholarship, philology. Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
 The key terms are important a in a range of fields. Expanding literary studies. motivate me: information, digital, data. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
-Media archeology: textual archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy. Forms of latent textuality still extant.
+Media archeology: textual archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy. Forms of latent textuality still extant. Berkman center. Reaching out.
 
 Something like a textbook in "applied media studies" or "theoretical digital humanities."
 I teach widely around the country (DHSI, Lede, NYU) and I use these materials myself. I can see a course structured around these skills and ideas. 
