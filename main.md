@@ -80,9 +80,6 @@ Media archeology: textual archeology. Computers containing vestiges of ideas and
 Something like a textbook in "applied media studies" or "theoretical digital humanities."
 I teach widely around the country (DHSI, Lede, NYU) and I use these materials myself. I can see a course structured around these skills and ideas. 
 
-
-
-
 ## Chapter Outlines
 I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages).
 
@@ -213,6 +210,8 @@ One of my favorite "virtual" disagreements in print is between Kittler and Lev M
 
 Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
+History of computation. Lull (universal language) > Leibniz (binary code) > Boole (logic) > Church (logic gates) > Turing (universal machine)
+
 ### Philosophical Foundations of Computing
 The magic of hardware-software distinction. "Where the Platonic rubber meets the road." Goodman and the problem of self-identity.
 
@@ -289,6 +288,9 @@ How to confront the foundational violence of humanism. Use non-European sources 
 
 Latent monism. Plotonius. Monism of the underlying matter (everything is made of one stuff, information) and monism of the universe is one: Dr. Bronner's monism.
 
+Monism is bad because it totalizes reality. There is no space for dissent. Monism and pluralism the same. Computation is the pinnicle of secular idealism. But it must be moderated by a retreat into the material, and into the human, which is a always a being part god and part man and woman. Yes this is a species of dualism. But without dualism, there's no space to escape the totalizing pull of the algorithm.
+
+Computation then is the pinnacle of secular universalism, or secular idealism. The traditional space of the intellect / soul / mind / rationality is now taken on by the algorithm. Humanism is what moderates such universalism, which always threatens to subsume concrete existence into a monistic totality, from which dissent is not possible (think of the Borg in Star Trek--total assimilation into one shared reality, the hive, a rhizomatic, unified whole). Humanism (when applied justly too all members of our species) also allows us to enter into shared projects: to deliberate and to consent. But these projects are limited engagements: discrete in time and space. They do not equal to all of reality. There's space in-between. Each allows for the possibility for dissent, which frees us for new projects, the possibility of quiet self-reflection, and the possibility to reconstitute ourselves in ever changing and non-arbitrary ways.
 ### Hospital as an Archive
 
 ### Electronic Discovery
