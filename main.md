@@ -28,18 +28,13 @@ The idea that "meaning" is always in some sense "operational meaning" is a propo
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see @seigfried, @pihlström, and @putnam-james-theory. 
 
-For this reason, theories of the shape "X is" (as in, "the author is dead" or "art is transcendent") beg the questions of "Where?," "When?," "For Whom?," and "What's at stake in maintaining that?"
+For the pragmatist, truth-carrying propositions of the shape "X is" (as in, "the author is dead" or "art is transcendent") beg the questions of "Where?," "When?," "For Whom?," and "What's at stake in maintaining that?"
 
-Following James and Ramsey's pragmatic insight, I will maintain throughout that abstract categories like "text" and "media" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest].[^ln-more-witt] Imagine a Venn diagram, where fields of textuality intersect and diverge in a historically (culturally, practically) contingent, arbitrary ways. These fields lie in relation to specific communities of practice, which often do not in themselves employ a controlled taxonomy. What counts for "code" and "poetry" can change from day to day for communities of coders and poets. It may even change for a single individual who writes code by day and poetry by night, employing operational vocabularies in changing and perhaps even contradicting ways as they shift contexts.
+Following James's and Ramsey's pragmatic insight, I will maintain throughout that abstract categories like "text" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest].[^ln-more-witt] To visualize this "familial" model, imagine a Venn diagram, where fields (of textuality, in our case) intersect and diverge in a historically (culturally, practically) contingent and arbitrary ways. These fields lie in relation to specific communities of practice, which often do not in themselves employ a controlled taxonomy. What counts for "code" and "poetry" in one domain, like computer science, may not account for the very same in another domain, like creative writing. When engineers envoke poetry, as do the creators of the popular blogging platform Wordpress, they may mean somehting differnt than when the term is invoked by literary scholars. And there is nothing wrong with that incogruence. There is no need to try to reconcile poetics to something unitary and essential, because poetry exists only in its instantiation by this group or another. And that instantiontion is not even self-consistent within a given domain. What poetry is changes from literary period to literary period. It may even change for any one person, one who writes code by day and poetry by night, employing operational vocabularies in changing and perhaps even contradicting ways as they shift contexts.
 
 [^ln-more-witt]: For more on the connection between Wittgenstein and James see @goodman-wittandjames. 
+
 Discourse Analysis, STS and Kuhn, Model-dependent realism.
-
-
-
-In this way, my own definitions of key operational concepts in the field of literary and media theory hinge on a pragmatic consideration of causes and effects. Throughout, in discussing operational definitions of concepts like "text" and "media," I am compelled to insist on the question: "What is at stake in defining it that way?"
-
-It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
 ### Materialism
 Marxism, media archeology, pam smith.
@@ -60,6 +55,7 @@ The methodological move from theory, to history, into practice follows a recent 
 
 Making and knowing. How does this work for texts? Restate thesis. 
 
+It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
 ## Market & Reach
 
