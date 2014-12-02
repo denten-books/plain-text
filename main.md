@@ -272,7 +272,10 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 Post humanism as latent monism. What is the problem with monism? Two types of monism:
 stuff monism and thing monism. Everything is made of the same matter (information). Everything is a part of the same thing, living organism. S
 
+Todd Presner and the Ethics of the Algorithm. Drucker on What is? (mathesis).
+
 Humanism: Agency, Deliberation, Consensus, Dissent.
+
 
 Technology, Complex Systems, in defense of Humanism
 Post humanism. Complex systems. Neo platonism. A disempowering political program. If you think complex systems have emerging intelligence, they have the right to speak. There is something like intelligence, but there is a mode of intelligence that should be reserved for humans. Plain text offers that possibility. No amount of fancy theoretical footwork can obscure real inequalities that exist in the world today. Platform lock in. Global south. Mumford. Values cannot come from within systems. There has to be an outside, and the Kantian solution is to proceed as if there is an outside. That is a small space to remain human, all the more befuddling when that space is diminished by those professing in the humanities. Reading of Heidegger. Technology that answers to human values. 
