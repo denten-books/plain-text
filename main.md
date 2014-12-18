@@ -4,7 +4,6 @@ author: "Dennis Tenen"
 ---
 
 # Introduction
-
 ## Thesis
 Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text. It seeks to empower a community of writers, readers, publishers, and librarians. Together, we will convene a polity interested in reflecting critically on the ideas, tools, and practices that shape our daily encounter with computation.
 
@@ -17,28 +16,14 @@ A parallel audience to the one composed of non-technical readers is one that sha
 
 In situation computing as critical, textual, literary *practice*, I hope to make an theoretical intervention in the cluster of fields sometimes designated as "media studies," a cluster can include subfields like "Science and Technology Studies," "new media studies," "platform studies," "critical code studies," "media archeology," and my own preferred cognominate "computational culture studies." Where the thematic is clear, these are usually terms of self-description, and are not worth dwelling upon for too long. It is important for me only to insist on the reciprocal motion between the constituent elements of "computation" and "culture." On the one hand, the term of art can be understood as the critically reflective study of "computational culture," which would bring in a set of more specialize concerns to the field of media studies. On the other hand, I believe also in the importance of studying culture more broadly using computational approaches. This book does a bit less of that than my other work elsewhere, but I do mean it to serve as a foundation for someone interested in expanding their methodological toolkit into computational methods.  
 
-As was the case with the "linguistic turn" in the decades prior, almost all fields of human knowledge are now experiencing a turn towards computation. Witness the emerging fields of computational biology, computational chemistry, computational linguistics, computational geometry, computational archeology, computational architecture design, computational philosophy, computational social science, and the list goes on. What all of these areas of study have in common is a shared methodological toolkit, often instantly recognizable by practitioners in quite diverse disciplines. In my own home discipline of literary studies, the turn towards computation is usually filed under "digital humanities" (DH). Although I consciously avoid the term of the art here, I am friendly to some of its aims and proposed interventions. But I also agree, to the extent that will become clear in the concluding chapters of this book, with the critique advanced by scholars like Brian Lennon, David Golumbia, Tara McPherson, and Johanna Druckrer, who accuse DH of historical myopia, theoretical shallowness, and eurocentrism (along a long list of other sins). In this light, the present book can be seen as a work that attempts to straddle the worlds of media studies and digital humanities, representing the best of what both traditions have to offer the academy at large. 
+As was the case with the "linguistic turn" in the decades prior, almost all fields of human knowledge are now experiencing a turn towards computation. Witness the emerging fields of computational biology, computational chemistry, computational linguistics, computational geometry, computational archeology, computational architecture design, computational philosophy, computational social science, and the list goes on. What all of these areas of study have in common is a shared methodological toolkit, often instantly recognizable by practitioners in quite diverse disciplines. In my own home discipline of literary studies, the turn towards computation is usually filed under "digital humanities" (DH). Although I consciously avoid the term of the art here, I am friendly to some of its aims and proposed interventions. But I also agree, to the extent that will become clear in the concluding chapters of this book, with the critique advanced by scholars like Brian Lennon, David Golumbia, Tara McPherson, and Johanna Druckrer, who accuse DH of historical myopia, theoretical shallowness, and eurocentrism (along a long list of other sins). In this light, the present book can be seen as a work that attempts to straddle the worlds of media theory and digital humanities, philosophy of technology and human-computer interaction, representing the best of what these traditions have to offer the academy at large. 
 
 My attempt to articulate a "third way" between thought and practice, begins with a deeply-seated intuition about the nature of humanistic knowledge in general. For example, the idea of a contemporary scholar analyzing the last two decades of film production or photography without grasping the fundamentals of electronic photodetectors, RAW image formats, complementary metal–oxide–semiconductor (CMOS), digital editing tools, computer-generated imagery (CGI), or Photoshop image manipulation techniques seems to me at great peril of being terribly misguided. It is not that one cannot say anything about photography without knowing these things, but rather that one can say much more when he does. (I explore this thought further in the early chapters, when discussion notions of "surface" and "depth" on the level of the operating system). Similarly, it is my contention here that the fundamental theoretical concepts driving literary studies--word, text, narrative, discourse, author, story, book, archive--are thoroughly enmeshed in the underlying physical substratum of paper and pixels (but also ink, wood, and integrated circuit). These operational concepts cannot attain their full expressive potential without an internalized understanding of the technology and the daily practice that gives them rise. This book is an attempt to develop knowledge "at hand" and "fingertip knowledge" (both discussed in the later chapters).
 
-Similar books.
-Brings it closer to digital humanities, which is very material but often atheoretical. Theory in material and practice. Similar books. @kirshenbaum
-
-Human-computer interaction. Knowledge workers, architects, and designers.
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy. Books like "visual thinking," but many interfaces are still heavily textual (email, blog, etc).
-
-But it is all really literary theory, textual scholarship, philology. Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
-The key terms are important a in a range of fields. Expanding literary studies. motivate me: information, digital, data. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
-Media archeology: textual archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy. Forms of latent textuality still extant. Berkman center. Reaching out.
-
-Something like a textbook in "applied media studies" or "theoretical digital humanities."
-I teach widely around the country (DHSI, Lede, NYU) and I use these materials myself. I can see a course structured around these skills and ideas. 
 ## Method
 The book is a book, but also a tool. Readers will get much more out of it if they are able to actively follow along using their terminal emulator of choice. If these words mean nothing to you, rest assured that the text assumes no prior technical knowledge. It can be read sequentially as a conventional piece of scholarship in textual theory or "new media" studies. For those willing to take the plunge, I will often illustrate abstract theoretical concepts by asking the reader to type some commands into their terminals. Detailed instructions on how to set up this "augmented" reading environment, tutorials, and explanations can be found in the technical appendix and on the forthcoming companion website. 
 
 Both novices and experts alike can benefit from exposure to ideas in the command line, on the level of the operating system. At the very least, the reader will walk way from this book with concepts and skills foundational to computing as critical thought and critical practice. But I hope that many readers will go beyond the basics, gaining deep-seated, intuitive, "hands-on" understanding of operational concepts like files, filing systems, networks, search tools, servers, and encryption technologies. Developing an intuitive understanding of systems that structure so much of our daily activity has the potential to radically transform one's experience with text, media, and digital devices. 
-
-## Theory
 
 ### Pragmatism
 Unmoored theoretical concepts like "text" and "media" gain a palpable form when explored in the context of their instantiation. This is both model and method structuring the inquiry advanced here. Allow me to spend the next few paragraphs in laying bare the reasoning and the history behind this approach to the study technology, texts, and people.
@@ -65,7 +50,7 @@ In viewing text as merely surface phenomenon, we are in danger of misapprehendin
 
 A corrective to Marxist materialism that views materialism as representation of such. Superstratum and substratum. Surface and depth. A corrective to Marxism. Publishing is broken @kfitzpatrick.
 
-That is not to suggest that depth. Respond to @marcus.
+Philology or the operating system. In a sense it is diachronic analysis. An archeology, because the operating system
 
 Media archeology. Actual archeology though. Unix operating systems that run everything from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
 
@@ -74,35 +59,49 @@ The methodological move from theory, to history, into practice follows a recent 
 [^ln-xpmeth]: I've quoted this formulation in the mission statement of xpmeth.github.io website 
 [^ln-cage]: "Here the word 'experimental' is apt, providing it is understood not as describing an act to be later judged in terms of success and failure, but simply as of an act the outcome of which is unknown." John Cage as quoted in Nyman, Michael (1974). Experimental Music: Cage and Beyond. Cambridge, UK.
 
-Making and knowing. How does this work for texts? Restate thesis. 
-
 It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
-
-
 
 ## Structure
 I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages).
 
 ### Chapter 1: We Have Always Been Digital
-Digital. Analog. Soap opera effect. 
+Containing a discussion of terms "digital" and "analog" as categories that denote something existentially more than mere difference in mediation. A conversation about discreetness and continuity. The "soap opera" effect and how it challenges our intuitions about the above. Case studies from the history of digital typesetting (the ASCII and UNICODE standards) get us to a notion of textuality still deeply embedded into the operating system. 
+
 ### Chapter 2: Freedom of Information
-The "systems" definition of information. Shannon and Weaver. Argue for the freedom of the sender and receiver instead of the system.
+Containing an argument against the "systems" definition of information advanced by Shannon and Weaver. In what Shannon calls a "strange feature" of this communication theory, information is defined as amount of "freedom" or entropy in the system. By contrast, I want to insist on the agency (freedom) of the sender and the receiver. Incidentally, we get some clarity on the differing ways in which information is invoked in different discourses.
+
 ### Chapter 3: Text, Form, Formating
-Text as meaning, semantics structure, and style. 
+Challenging the traditional dichotomy between form and content. In looking at the history of several paradigms of word processing I unearth the distinction between meaning (content), semantic structure (form), and visual style (typesetting). The chapter ends with a discussion about contemporary publishing practices and the ethics of outsourcing typesetting.
+
 ### Chapter 4: Scratch Collector
-Data and metadata.
+Discussing the often overlooked congruence between data and metadata. Data vs. Information as it relates to interpretation. Paragraphs and novels as data structures. Diaries and code comments. Separation of code, comments, and data. An argument against object-oriented ontology and the impossibility of a literature for robots.
+
 ### Chapter 5: Media, Message, Mode
+Media is defiantly not the message. Sources of that confusion and what's at stake. Encoding of the media on magnetic storage. A revisiting of modalities written and oral.  Derrida and Ong.
+
 ### Chapter 6: Platforms of Self
-### Chapter 7: Textual Interfaces
-### Chapter 8: Hardware, Software, and the Platonic Forms
-### Chapter 9: Bad Links
-### Chapter 10: Processing Words
-### Chapter 11: Code and Crypt
-### Chapter 12: New Humanism
+Understanding the document as a vector. The problem of drafts and versions. What is being transmitted through the vector? The appointment with one self: Beckett and Sartre. Pipes and I/O serialization. 
+
+### Chapter 7: Processing Words
+Text as an interface between human and machine. The notions of an interface (Galloway). Incompatible modes of understanding. Anne Finch and the liminal space between species.
+What you see is not what you get. Isomorphism. Search. The brief moment of desktop publishing. Pen, typewriter, and word processor (with detours to Kittler and Heidegger). 
+
+### Chapter 8: Bad Links
+Why links are bad. The long history of intertextuality. The excitement of the 90s about it. The intertextual art of Gwern. Erudition and analogical thinking. The difference between hard-coded and symbolic links. Just a bit about the nature of knowledge or what is meant by "I've read that book." Snapshots, the Internet Archive, and the future of Wikipedia.
+
+### Chapter 9: Writers' Room
+Writing together. Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
+
+### Chapter 10: Hidden Message
+Encrypted literature. Surveillance and counter-surveillance. Notions of textuality as embroiled in contemporary ideas of privacy, secrecy, and transparency. 
+
+### Chapter 11: New Humanism
+Computation does not necessarily work for the military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson). Recovering and preserving textuality in computing. Engineering for dissent.
+
 ### Tech Appendix
 
 ## Timeline
-I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that nearly triples during breaks. Assuming a manuscript of around 80k words (and discounting the fact that large poritions of this book are anicipated in my dissertation), a conservative estimate of my schedule would place the final draft somwhere towards the second half of ther summer, 2015. 
+I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that nearly triples during breaks. Assuming a manuscript of around 80k words (and discounting the fact that large portions of this book are anticipated in my dissertation), a conservative estimate of my schedule would place the final draft somewhere towards the second half of summer, 2015. 
 
 # Part I
 
@@ -148,6 +147,7 @@ Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.o
 
 ## Dysfunction by Data
 Data.
+
 ### Scratch Collector
 Metadata
 k
@@ -208,10 +208,6 @@ Talk about stack exchange vs. 4chan vs. reddit
 
 Heidegger. Extended cognition. Problems with Handwriting. Teaching children how to "write". Typing vs. handwriting.
 
-## Hardware, Software, Algorithm
-One of my favorite "virtual" disagreements in print is between Kittler and Lev Manovich. "There is No Hardware" and "There is Only Software."
-
-Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 
 
 ### Philosophical Foundations of Computing
@@ -262,7 +258,7 @@ Typesetting sweatshops.
 http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
 modal vs. other kinds of processing 
-##  Text and Crypt
+## Text and Crypt
 
 Privacy, secrecy, surveillance, and transparency.
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.

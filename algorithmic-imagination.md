@@ -52,6 +52,10 @@ Lull. Eco.
 ## Boolean logic
 ## Church on logic gates
 ## Turing on the universal machine
+## Hardware, Software, Algorithm
+One of my favorite "virtual" disagreements in print is between Kittler and Lev Manovich. "There is No Hardware" and "There is Only Software."
+
+Turing's machine. Universalism vs. drucker. Bit, byte. State machines. The magic of boostrapping. Plato and Epicurus.
 ## Cloud computing
 
 ## Monistic Visions 
