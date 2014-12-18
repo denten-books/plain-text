@@ -258,7 +258,9 @@ Typesetting sweatshops.
 http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
 modal vs. other kinds of processing 
-## Cryptonauts
+##  Text and Crypt
+
+Privacy, secrecy, surveillance, and transparency.
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
 
 Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that dumb-pipe email is unmediated, and therefore it's a business that Google wants to get out of as soon as it can."
@@ -266,6 +268,15 @@ Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that
 " It's also why I believe Google will kill Gmail as soon as it comes up with a mediated alternative everyone loves. Of course, Google may offer an antiquated "Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated experience."
 
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
+
+## New Humanism
+### Metaphysical Dread about Computation
+Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
+
+Deeper metaphysical dread about computation, that should be understood historically (where Lennon gets it right). 
+
+### Engineering for Dissent
+Agency. Deliberation. Consensus. Dissent. Dissent is the least developed of these. Engineering for dissent. The ability to create shared goals and to exit. engagement with shared project. The subject of my next book. 
 
 # Tech Appendix
 
