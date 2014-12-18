@@ -28,13 +28,13 @@ The idea that "meaning" is always in some sense "operational meaning" is a propo
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see @seigfried, @pihlström, and @putnam-james-theory. 
 
-For the pragmatist, truth-carrying propositions of the shape "X is" (as in, "the author is dead" or "art is transcendent") beg the questions of "Where?," "When?," "For Whom?," and "What's at stake in maintaining that?"
-
-Following James's and Ramsey's pragmatic insight, I will maintain throughout that abstract categories like "text" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest].[^ln-more-witt] To visualize this "familial" model, imagine a Venn diagram, where overlapping fields (of textuality, in our case) intersect and diverge in a historically (culturally, practically) contingent and arbitrary ways. These fields lie in relation to specific communities of practice, which often do not in themselves employ a controlled vocabulary. What counts for "code" and "poetry" in one domain, like computer science, may not account for the very same in another domain, like creative writing. An engineer's evocation of code as poetry is divergent from a poet's. There's no sense in reconciling the language. Poetry exists only in its social instantiation. The language of poetry morphs from literary period to literary period: those who write code by day and poetry by night might employ differing if not outright contradictory vocabularies.
+For the pragmatist, truth-carrying propositions of the shape "X is" (as in, "the author is dead" or "art is transcendent") beg the questions of "Where?," "When?," "For Whom?," and "What's at stake in maintaining that?" Following James's and Ramsey's pragmatic insight, I will maintain throughout that abstract categories like "text" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest].[^ln-more-witt] To visualize this "familial" model, imagine a Venn diagram, where overlapping fields (of textuality, in our case) intersect and diverge in a historically (culturally, practically) contingent and arbitrary ways. These fields lie in relation to specific communities of practice, which often do not in themselves employ a controlled vocabulary. What counts for "code" and "poetry" in one domain, like computer science, may not account for the very same in another domain, like creative writing. An engineer's evocation of code as poetry is divergent from a poet's. There's no sense in reconciling the language. Poetry exists only in its social instantiation. The language of poetry morphs from literary period to literary period: those who write code by day and poetry by night might employ differing if not outright contradictory vocabularies.
 
 [^ln-more-witt]: For more on the connection between Wittgenstein and James see @goodman-wittandjames. 
 
-The intellectual legacy of pragmatism is wide-ranging but often diffuse. It is perhaps most pronounced in the teacher colleges, where James and Dewey are still read widely, which could explain the ascendancy of such pedagogical terms as "situated cognition"[^@lave&wenger], "experiential learning"[^@kolb], and "constructivism."[@]
+The intellectual legacy of pragmatism is wide-ranging but often diffuse. It is perhaps most pronounced in the teacher colleges, where James and Dewey are still read widely, which could explain the ascendancy of such pedagogical terms as "situated cognition"[^@lave&wenger, @johnseelybrown] and "experiential learning"[^@kolb]: both terms denoting some sense of necessary synthesis between of knowing and doing. In the field of linguistics, philosophy of language, and communication studies, pragmatics are well-encapsulated by the "language-as-action tradition," which harken back to the Oxford language philosophers like Austin, Grice, and Searle [^@Trueswell].  Austin's "How to Do Things with Words," is perhaps the paradigmatic 
+
+this main thesis of pragmatism is also at the center of discourse analysis, a field which I would summarize as "the study of utterance in social context." Once again, the main idea 
 
 In the academy. Discourse analysis.Discourse Analysis, STS and Kuhn, Model-dependent realism.
 
@@ -202,7 +202,7 @@ Containing an argument for text as an interface between human and machine. Histo
 
 Talk about stack exchange vs. 4chan vs. reddit
 
-Handwriting. Teaching children how to "write". Typing vs. handwriting.
+Heidegger. Extended cognition. Problems with Handwriting. Teaching children how to "write". Typing vs. handwriting.
 
 ## Hardware, Software, Algorithm
 One of my favorite "virtual" disagreements in print is between Kittler and Lev Manovich. "There is No Hardware" and "There is Only Software."
