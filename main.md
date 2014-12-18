@@ -5,21 +5,39 @@ author: "Dennis Tenen"
 
 # Introduction
 
-## Thesis, Audience
+## Thesis
 Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text. It seeks to empower a community of writers, readers, publishers, and librarians. Together, we will convene a polity interested in reflecting critically on the ideas, tools, and practices that shape our daily encounter with computation.
 
 The argument starts with foundational principles of media and literary studies and information science. I ask: what is at stake in the difference between digital and analog?  What contains more information a block of wood or a novel? How is text structured? What separates meaning, form, and formatting? Where does data end and meta-data begin? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influences the more pragmatically-minded and applied discussion in the second half of the book. Thinking together about the nature of human-computer interfaces, knowledge as hardware and software, links, networking, inter-textuality, word processing, text encoding, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, and privacy and surveillance.
 
 A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittedly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in literary theory and in the history of modern computing. Detailed case studies from that history will point to (what I hope is an) unexpected confluence between the shared history of computing and literary thought. 
 
-A parallel audience to the one composed of non-technical readers is one that shares expertise in computer science or electrical engineering, but also one that does not usually view its daily practice in its historical, philosophical, and political contexts. Designers, software engineers, system administrators, and project managers are often asked to make choices at work that have not only technological, but broader social and cultural implications. Choosing a text editor, a filing system, or a social networking platform cannot be adequately addressed in shallow instrumental terms like efficacy, speed, or performance. Such choices also affect deep structures of knowledge transmission, the formation of collective and institutional memories, the quality of online discussion, and the ways in which we relate to our family, friends, and colleagues. Ultimately, in the concluding chapters, this book is meant to challenge the widely-held (if often hidden) notion that systems can give rise to ethical or political values. Values, as I will argue, must be projected from without, by free-willing agents that can voluntarily deliberate, form consensus, and  articulate shared goals. The only sentient beings answering to these criteria are humans (and not, for example, cyborgs or complex systems). The book then is ultimately an articulation of a new humanism, which runs counter to the recent theoretical turn towards post- and trans- humanisms which elevate systems (natural and artificial) to the privileged position of ethical and political agents. 
+## Audience
+A parallel audience to the one composed of non-technical readers is one that shares expertise in computer science or electrical engineering, but also one that does not usually view its daily practice in its historical, philosophical, and political contexts. Designers, software engineers, system administrators, and project managers are often asked to make choices at work that have not only technological, but broader social and cultural implications. Choosing a text editor, a filing system, or a social networking platform cannot be adequately addressed in shallow instrumental terms like efficacy, speed, or performance. Such choices also affect deep structures of knowledge transmission, the formation of collective and institutional memories, the quality of online discussion, and the ways in which we relate to our family, friends, and colleagues. Ultimately, in the concluding chapters, this book is meant to challenge the widely-held (if often hidden) notion that systems can give rise to ethical or political values. Values, as I will argue, must be projected from without, by free-willing agents that can voluntarily deliberate, form consensus, and  articulate shared goals. The only sentient beings answering to these criteria are humans (and not, for example, cyborgs or complex systems). The book then is ultimately an articulation of a new humanism, which runs counter to the recent theoretical turn towards post- and trans- humanisms which elevate systems (natural and artificial) to the privileged position of ethical and political actors. 
 
-## Format
+Media Studies, STS, Philosophy of Technology 
+Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamental truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materiality in practice Similar books.
+My approach to media theory attempts to make good on the promise. Where I often begin with philosophical 
+Only in this way can media studies answer the lofty goals of critique. There is no hope of reaching from the screen to the political consequences without grounding analysis in practice. A critique in tradition of the Frankfurt school, requires further understanding of the economic reality of media, its legal and legislative context, issues of intellectual property and labor conditions. 
+
+Digital Humanities.
+Brings it closer to digital humanities, which is very material but often atheoretical. Theory in material and practice. Similar books. @kirshenbaum
+
+Human-computer interaction. Knowledge workers, architects, and designers.
+For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy. Books like "visual thinking," but many interfaces are still heavily textual (email, blog, etc).
+
+But it is all really literary theory, textual scholarship, philology. Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
+The key terms are important a in a range of fields. Expanding literary studies. motivate me: information, digital, data. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
+Media archeology: textual archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy. Forms of latent textuality still extant. Berkman center. Reaching out.
+
+Something like a textbook in "applied media studies" or "theoretical digital humanities."
+I teach widely around the country (DHSI, Lede, NYU) and I use these materials myself. I can see a course structured around these skills and ideas. 
+## Method
 The book is a book, but also a tool. Readers will get much more out of it if they are able to actively follow along using their terminal emulator of choice. If these words mean nothing to you, rest assured that the text assumes no prior technical knowledge. It can be read sequentially as a conventional piece of scholarship in textual theory or "new media" studies. For those willing to take the plunge, I will often illustrate abstract theoretical concepts by asking the reader to type some commands into their terminals. Detailed instructions on how to set up this "augmented" reading environment, tutorials, and explanations can be found in the technical appendix and on the forthcoming companion website. 
 
 Both novices and experts alike can benefit from exposure to ideas in the command line, on the level of the operating system. At the very least, the reader will walk way from this book with concepts and skills foundational to computing as critical thought and critical practice. But I hope that many readers will go beyond the basics, gaining deep-seated, intuitive, "hands-on" understanding of operational concepts like files, filing systems, networks, search tools, servers, and encryption technologies. Developing an intuitive understanding of systems that structure so much of our daily activity has the potential to radically transform one's experience with text, media, and digital devices. 
 
-## Theory, Method
+## Theory
 
 ### Pragmatism
 Unmoored theoretical concepts like "text" and "media" gain a palpable form when explored in the context of their instantiation. This is both model and method structuring the inquiry advanced here. Allow me to spend the next few paragraphs in laying bare the reasoning and the history behind this approach to the study technology, texts, and people.
@@ -59,27 +77,9 @@ Making and knowing. How does this work for texts? Restate thesis.
 
 It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
-## Market & Reach
 
-Media Studies, STS, Philosophy of Technology 
-Affinities to science and technology studies, new media studies, platform studies, critical code studies, media archeology, computational culture studies. A group of media theorists discussing photography in the last few decades fail to grasp some fundamental truths about the medium divorced from the mechanics of CMOS censors, optics, and from the practice of editing images digitally in Photoshop. A conversation divorced from the material stratum of images and from the practice of photography is restricted to the surface image. It can deal only with the relationship of pixels on the screen (or dots on a page). In response to this line of critique, media studies as a field has been undergoing a practical turn from surface to materiality in practice Similar books.
-My approach to media theory attempts to make good on the promise. Where I often begin with philosophical 
-Only in this way can media studies answer the lofty goals of critique. There is no hope of reaching from the screen to the political consequences without grounding analysis in practice. A critique in tradition of the Frankfurt school, requires further understanding of the economic reality of media, its legal and legislative context, issues of intellectual property and labor conditions. 
 
-Digital Humanities.
-Brings it closer to digital humanities, which is very material but often atheoretical. Theory in material and practice. Similar books. @kirshenbaum
-
-Human-computer interaction. Knowledge workers, architects, and designers.
-For CS folk, grounds practice in a theoretical discussion that attracts a wider audience to computing fundamentals. Confusion due to technical literacy. Books like "visual thinking," but many interfaces are still heavily textual (email, blog, etc).
-
-But it is all really literary theory, textual scholarship, philology. Kernighan, Julia Hershberg. Elaine Scarry, Bill Todd. Bruce Robbins and Jean Howard. Brian Larkin and Alexander Galloway. DH: Ray Siemens
-The key terms are important a in a range of fields. Expanding literary studies. motivate me: information, digital, data. OS as a type of literature, but not reduced to text. Text as far as the concept of text is explicitly "baked into" the system. A close reading of code and system architecture.
-Media archeology: textual archeology. Computers containing vestiges of ideas and direction. Can be done in situ. Applied turn in media studies. Confusion due to technical literacy. Forms of latent textuality still extant. Berkman center. Reaching out.
-
-Something like a textbook in "applied media studies" or "theoretical digital humanities."
-I teach widely around the country (DHSI, Lede, NYU) and I use these materials myself. I can see a course structured around these skills and ideas. 
-
-## Chapter Outlines
+## Structure
 I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages).
 
 ### Chapter 1: We Have Always Been Digital

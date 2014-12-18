@@ -5,8 +5,16 @@ author: Dennis Tenen
 
 ## Introduction
 
+### Pitch
 History of computation. Lull (universal language) > Leibniz (binary code) > Boole (logic) > Church (logic gates) > Turing (universal machine) > cloud computing (platform as service)
 A selective history of a sustained idea. The mystical roots of computation.
+
+### Audience
+### Method
+Intellectual history. Don't want to use fancy terms like "genealogy" or "archeology" because these don't do justice to the actual practice of genealogy or archeology. 
+
+## Structure
+More or less chronological with many digressions.
 
 ## Combinatorial Poetics (Algorithm)
 We can now conclude the detour into system theory and return to our initial question, but in a much more limited, albeit more productive form: can a text replenish itself? Can it bloom? Can it reproduce? We are beginning to "zoom in" from viewing literature as a system to considering the autopoietic potential of a single text. But the question still seems somewhat odd to me, having again the flavor of an anthropomorphic (or at least biomorphic) metaphor. Can this inanimate object—a text—enact or want to enact anything on its own? Or are we simply making yet another metaphor that attributes volitional characteristics to an inanimate object? To put it another way: do we imagine a text as a type of a tool, or is it something more—something capable of containing objectives beyond the authorial intent? A tool—take a needle for example—is quite passive in this regard. I can poke my neighbor with a needle, and he could say that it was the needle that poked him. But clearly it was I who actively meant to do the poking, and not the needle. The action may have unintended consequences of course: I poked maliciously, but as a result, the neighbor was rid of his headache. Still, we must say that the needle in this case was simply an instrument of my volition. Left to its own devices, the needle "does" nothing. It has no creative or generative potential, we might say. What would it take for us to begin considering the creative or generative potential of an inanimate object? To put it another way: is a text something like a needle, or is it something more than simply a tool or a thing? 
