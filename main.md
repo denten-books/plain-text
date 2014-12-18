@@ -145,6 +145,13 @@ Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.o
 
  
 
+## Dysfunction by Data
+Data.
+### Scratch Collector
+Metadata
+k
+Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
+
 ## Text, Form, Formatting
 POSIX. Form. Style. Content.
 What is and what is not information. From abstract to specific. Material substratum.
@@ -156,10 +163,6 @@ Version control, drafts, versioning. What is a text?
 http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
-## Scratch Collector
-Data, Metadata
-Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
-
 ## Media, Message, Mode
 Key terms: media, message, mode
 
