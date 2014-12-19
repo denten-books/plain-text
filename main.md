@@ -36,11 +36,9 @@ For the pragmatist, truth-carrying propositions of the shape "X is" (as in, "the
 
 [^ln-more-witt]: For more on the connection between Wittgenstein and James see @goodman-wittandjames. 
 
-The intellectual legacy of pragmatism is wide-ranging but often diffuse. It is perhaps most pronounced in the teacher colleges, where James and Dewey are still read widely, which could explain the ascendancy of such pedagogical terms as "situated cognition"[^@lave&wenger, @johnseelybrown] and "experiential learning"[^@kolb]: both terms denoting some sense of necessary synthesis between of knowing and doing. In the field of linguistics, philosophy of language, and communication studies, pragmatics are well-encapsulated by the "language-as-action tradition," which harken back to the Oxford language philosophers like Austin, Grice, and Searle [^@Trueswell].  Austin's "How to Do Things with Words," is perhaps the paradigmatic 
+The intellectual legacy of pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the teacher colleges, where James and Dewey are still read widely, which could explain the ascendancy of such pedagogical terms as "situated cognition"[^@lave&wenger, @johnseelybrown] and "experiential learning"[^@kolb]: both terms denoting some sense of necessary synthesis between of knowing and doing. In the field of linguistics, philosophy of language, and communication studies, pragmatics are well-encapsulated by the "language-as-action tradition," which harken back to the Oxford language philosophers like Austin, Grice, and Searle [^@Trueswell].  Austin's "How to Do Things with Words," is perhaps the paradigmatic formulation of the idea that words don't just mean things, but that they enact change in the world.
 
-this main thesis of pragmatism is also at the center of discourse analysis, a field which I would summarize as "the study of utterance in social context." Once again, the main idea 
-
-In the academy. Discourse analysis.Discourse Analysis, STS and Kuhn, Model-dependent realism.
+STS and Kuhn.
 
 ### Materialism
 Marxism, media archeology, pam smith.
