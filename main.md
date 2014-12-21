@@ -32,7 +32,7 @@ The idea that "meaning" is always in some sense "operational meaning" is a propo
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see @seigfried, @pihlström, and @putnam-james-theory. 
 
-For the pragmatist, truth-carrying propositions of the shape "X is" (as in, "the author is dead" or "art is transcendent") beg the questions of "Where?," "When?," "For Whom?," and "What's at stake in maintaining that?" Following James's and Ramsey's pragmatic insight, I will maintain throughout that abstract categories like "text" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest].[^ln-more-witt] To visualize this "familial" model, imagine a Venn diagram, where overlapping fields (of textuality, in our case) intersect and diverge in a historically (culturally, practically) contingent and arbitrary ways. These fields lie in relation to specific communities of practice, which often do not in themselves employ a controlled vocabulary. What counts for "code" and "poetry" in one domain, like computer science, may not account for the very same in another domain, like creative writing. An engineer's evocation of code as poetry is divergent from a poet's. There's no sense in reconciling the language. Poetry exists only in its social instantiation. The language of poetry morphs from literary period to literary period: those who write code by day and poetry by night might employ differing if not outright contradictory vocabularies.
+For the pragmatist, truth-carrying propositions of the shape "X is" (as in, "the author is dead" or "art is transcendent") beg the questions of "Where?," "When?," "For Whom?," and "What's at stake in maintaining that?" Following James's and Ramsey's pragmatic insight, I will maintain throughout that abstract categories like "text" cannot possibly be (although they often are) reduced to a number of essential, structural features. Rather, to borrow from a conversation on categories in Wittgenstein's *Philosophic Investigations*, categories denote a related "family" of practices, which may or may not share in any given familial characteristic [@Wittgestein-philo-invest].[^ln-more-witt] To visualize this "familial" model, imagine a Venn diagram, where overlapping fields (of textuality, in our case) intersect and diverge in a historically (culturally, practically) contingent and arbitrary ways. These fields lie in relation to specific communities of practice, which often do not in themselves employ a controlled vocabulary. What counts for "code" and "poetry" in one domain, like computer science, may not account for the very same in another domain, like creative writing. An engineer's evocation of code as poetry can diverge from a poet's. There's no sense in trying to reconciling divergent languages, where concepts like "poetry" exist only in their social instantiation. The language of poetry morphs from literary period to literary period: those who write code by day and poetry by night might employ differing if not outright contradictory vocabularies.
 
 [^ln-more-witt]: For more on the connection between Wittgenstein and James see @goodman-wittandjames. 
 
@@ -174,10 +174,11 @@ Who are you communicating with? Pushing yourself through the pipe. The appointme
 
 Books are not media they are platforms. Platform is all of the above. Plus the economic / cultural contexts. Amazon Kindle is a platform. Who are you communicating with? Yoursef. What is the message. Ultimtely, it is a message of self-identity. 
 
-## Filing System, Platform of Self
+## Platforms of Self
 Key terms: file, document, stream, net neutrality
 Commands: grep, awk, sed 
 
+### Problem of Drafts and Versions
 Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
 
 Science lecture vs. humanities. Stuff that is known. Stuff that is not known
@@ -196,16 +197,29 @@ The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André.
 
 The book as an interface between human and ?. We must see it in the context of interfaces.
 
+### Identity
+Anonymous authorship.
 
 # Part II
 
-## Textual Interfaces
+## Processing Words, Human-Computer Interfaces
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 
 Talk about stack exchange vs. 4chan vs. reddit
 
 Heidegger. Extended cognition. Problems with Handwriting. Teaching children how to "write". Typing vs. handwriting.
 
+Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
+
+Typesetting sweatshops.
+
+http://word.mvps.org/faqs/general/wordvswordperfect.htm
+http://wptoolbox.com/tips/MSWordToWP.html
+modal vs. other kinds of processing 
+### Engelbart Augmentation
+
+### Conclusion
+If are are to take the hypothesis of extended cognition seriously, we must treat the tools of cognitive augmentation as seriously as we would our own mental development, in the traditional sense.
 
 
 ### Philosophical Foundations of Computing
@@ -248,16 +262,10 @@ How did we get here is not an easy question. A part of the story is surely the e
 What can we do to make links better? There are a few things we all can do now. First, let’s use links sparingly. Think smartly about whether you need to link or whether you can make do with a good, old-fashioned quote or citation.  Don’t link just because you can. Second, link explicitly: Youtube.com is better than this. Third, realize that online content is dynamic. It makes no sense to link a dynamic resource when the intent is to create a link to a static version of a document. Tools like the Save Page Now service, hosted by the Internet Archive, do just that. You can find this essay at http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best captured in a snapshot here: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/. Finally, do not neglect the humble footnote. Footnotes provide a nice blend between usability, transparency, and good knowledge design.
 
 1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
-## Processing Words
-Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
+## Writers' Room, Textual Cooperation
+Writing together. Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
 
-Typesetting sweatshops.
-
-http://word.mvps.org/faqs/general/wordvswordperfect.htm
-http://wptoolbox.com/tips/MSWordToWP.html
-modal vs. other kinds of processing 
-## Text and Crypt
-
+## Hidden Message, Cryptography
 Privacy, secrecy, surveillance, and transparency.
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
 
