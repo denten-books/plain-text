@@ -45,10 +45,6 @@ Marxism, media archeology, pam smith.
 Artifactual knowledge.
 The logic of pragmatic theory naturally suggests materialism. Why? 
 
-In viewing text as merely surface phenomenon, we are in danger of misapprehending deep structures that . A critic could (Email as intertext seems rhizomatic and decentralized. But, yet at the layer of infrastructure (routers, switches, service providers) it is highly hierarchical. Understanding that underlying structure of information helps us expose the flows of power and control. We can understand how censorship happens. Or surveillance. 
-
-A corrective to Marxist materialism that views materialism as representation of such. Superstratum and substratum. Surface and depth. A corrective to Marxism. Publishing is broken @kfitzpatrick.
-
 Philology or the operating system. In a sense it is diachronic analysis. An archeology, because the operating system
 
 Media archeology. Actual archeology though. Unix operating systems that run everything from super computers, televisions, and mobile phones. Excavating text through the kernel. Discovering latent tools, practices, and forms of textuality still extent on the device.
@@ -57,6 +53,8 @@ The methodological move from theory, to history, into practice follows a recent 
 
 [^ln-xpmeth]: I've quoted this formulation in the mission statement of xpmeth.github.io website 
 [^ln-cage]: "Here the word 'experimental' is apt, providing it is understood not as describing an act to be later judged in terms of success and failure, but simply as of an act the outcome of which is unknown." John Cage as quoted in Nyman, Michael (1974). Experimental Music: Cage and Beyond. Cambridge, UK.
+
+The methodology in this book represents making good on the promise of critical theory to take an interest (change this to something stronger) in the material conditions in the production and the dissemination of knowledge. But rather than starting far afield, I begin with the roots of my profession: namely the production of textuality in everyday life. It is quite likely that most of readers spend the majority of their waking hours in front of a personal computer, typing letters on a screen (among other things worthy of their own examination, but outside of the scope of this book). My goal then is to reclaim the ordinary material contexts of a dominant mode of knowledge production and dissemination. 
 
 It is one thing, for example, to theorize about form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
