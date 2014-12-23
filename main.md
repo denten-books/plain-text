@@ -59,14 +59,14 @@ As journals, departments, and libraries struggle financially, a whole industry o
 ## Structure
 I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages).
 
-### Chapter 1: We Have Always Been Digital
-Containing a discussion of terms "digital" and "analog" as categories that denote something existentially more than mere difference in mediation. A conversation about discreetness and continuity. The "soap opera" effect and how it challenges our intuitions about the above. Case studies from the history of digital typesetting (the ASCII and UNICODE standards) get us to a notion of textuality still deeply embedded into the operating system. 
+### Chapter 1: Decoding Text 
+Challenging the traditional dichotomy between form and content. In looking at the history of several paradigms of word processing I unearth the distinction between meaning (content), semantic structure (form), and visual style (typesetting). The chapter ends with a discussion about contemporary publishing practices and the ethics of outsourcing typesetting. Case studies from the history of digital typesetting (the ASCII and UNICODE standards) get us to a notion of textuality still deeply embedded into the operating system. 
 
-### Chapter 2: Freedom of Information
+### Chapter 2: We Have Always Been Digital 
+Containing a discussion of terms "digital" and "analog" as categories that denote something existentially more than mere difference in mediation. A conversation about discreetness and continuity. The "soap opera" effect and how it challenges our intuitions about the above. 
+
+### Chapter 3: Freedom of Information
 Containing an argument against the "systems" definition of information advanced by Shannon and Weaver. In what Shannon calls a "strange feature" of this communication theory, information is defined as amount of "freedom" or entropy in the system. By contrast, I want to insist on the agency (freedom) of the sender and the receiver. Incidentally, we get some clarity on the differing ways in which information is invoked in different discourses.
-
-### Chapter 3: Text, Form, Formating
-Challenging the traditional dichotomy between form and content. In looking at the history of several paradigms of word processing I unearth the distinction between meaning (content), semantic structure (form), and visual style (typesetting). The chapter ends with a discussion about contemporary publishing practices and the ethics of outsourcing typesetting.
 
 ### Chapter 4: Scratch Collector
 Discussing the often overlooked congruence between data and metadata. Data vs. Information as it relates to interpretation. Paragraphs and novels as data structures. Diaries and code comments. Separation of code, comments, and data. An argument against object-oriented ontology and the impossibility of a literature for robots.
@@ -98,41 +98,52 @@ Computation does not necessarily work for the military-industrial apparatus (as 
 ## Timeline
 I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that nearly triples during breaks. Assuming a manuscript of around 80k words (and discounting the fact that large portions of this book are anticipated in my dissertation), a conservative estimate of my schedule would place the final draft somewhere towards the second half of summer, 2015. 
 
-# Part I
+# Part 1
 
-## We Have Always Been Digital
-Key terms: binary, digital, analog, plain text, surface, depth
-Commands: pwd, ls, cd, cat, wc
-
+## 1.1 Decoding Text
 ### Introduction
 In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. The rest of the book will be spent unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment will suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information meant for a computer (which is, however likable, still a machine).
 
 [^ln-char]: There are many caveats here, to be explored later. Follow along with excercises related to the discussion in the Technical Appendix.
 
-Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in Part II of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is a way in which even a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in computer science, but also in articulating an ethics and a politics of computation.
+Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in Part II of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is a way in which even a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in computer science, but also in articulating an ethics of computation.
 
 But before we can get there, we need to gain clarity on the key terms of the conversation. Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
+
+Textuality is encoded. How it encoded matters, because that decides who gets to decode.
+
+### Fancy Text
+Unix system. What you see is not what you get. What is plain text. Unix ideas of plain text. ASCII. 
+
+Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+### Meaning, Semantic form, Style 
+Traditional concepts of text. Formalists. Radient textuality. 
+
+### WYSINWYG (What You See Is Not What You Get)
+
+## 1.2 We Have Always Been Digital
 
 Digitality is first in a long series of these muddled terms. The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
 
 Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera effect. Digitality is something worthy of being preserved.
-
 ### Digital Aesthetics
-I therefore must already renounce and distance myself from the title of this work. "Digital culture" is already a misnomer, already archaic in its futuristic ambition. As a prefix, I think digi- has gone the way of the auto-, e-, i- and the way of the retro-suffixes like -bot, -mat, -lux, and -tron. A time will come when "digital humanities" will sound as redundant as "analog humanities" or "evidence-based medicine." Indeed that time has come. The digital is dissolving and has for the most part dissolved into the everyday—it has become familiar and therefore transparent to its native inhabitants. The aim of this dissertation is to make it strange again or at least to make digital culture seem less familiar and less naturalized to our ways of thinking.
+I therefore must already renounce and distance myself from the title of this section. "Digital culture" is already a misnomer, already archaic in its futuristic ambition. As a prefix, I think digi- has gone the way of the auto-, e-, i- and the way of the retro-suffixes like -bot, -mat, -lux, and -tron. A time will come when "digital humanities" will sound as redundant as "analog humanities" or "evidence-based medicine." Indeed that time has come. The digital is dissolving and has for the most part dissolved into the everyday—it has become familiar and therefore transparent to its native inhabitants. The aim of this dissertation is to make it strange again or at least to make digital culture seem less familiar and less naturalized to our ways of thinking.
 
 What does the digital look like? It looks very blue for one—not just any kind of blue, but a particularly cool shade of pure blue, which passes from dark to translucent overtones. The resulting pages produced by an online image search under the query for "digital" are saturated with that color. Fractals predominate in the first dozen or so search results. There are things too of course, many expensive things like scanners, flash cards, circuit boards, and backup drives, but most of all it is cameras—digital cameras, the very idea of which is meant to stand in stark contrast to "traditional film photography." Very few other marketplace objects exhibit such a strong sense of the opposition between the digital and the analog. These pages also contain the outdated clichés of yesterday's digital: digital clocks, purple lightning bolts, and the abstract chrome landscapes made widely available by graphic editing software in the 1990s. There are numbers. The preferred arrangement is in a torrential grid—the matrix—descending in the background of a generic humanoid form, also translucent. Or better yet: a 3D sphere or a face made out of random characters. Ones and zeros are best arranged as an unending string, which runs at a slight angle on the Z-axis and beyond the frame, foregrounding whatever object that is meant to take on the digital as a property.
 If we were to constrict our search chronologically to the twenty first century, we would see these images give way to a more varied palette, bright prime greens, yellows, and reds—blocky colors and retro-geometric pixelated shapes. Pixels take the place of numbers here—not the small invisible pixels of contemporary computer screens, but the large and boxy pixels that by their very visible boxy-ness flaunt the digital being of the image. Such an image alludes to the time when pixels really did stand out as individual units—the technology not being refined enough to produce the illusion of visual continuity. This faux lo-fi aesthetic is likely to appeal to the romantic nostalgia many may feel for the early days of computing, and yet it also is an assertion of independence from that history. No longer shall the digital serve to emulate reality, nor be judged merely by its degree of life-like verisimilitude. The blocky world of Markus Persson's Minecraft (2009) is the antithesis to the magical realism of Cyan's Myst (1995), the best-selling graphic-adventure PC game of the 20th century. Where the latter was lauded for immersive photorealistic landscapes, the former embraces the 8-bit low-fi aesthetic of 1980s gaming consoles. The net effect is an experiment in deconstruction: fragmented geometrical planes and almost cubist-like discontinuity of form.
 
 The iconography of the digital works in the other direction too, by approaching and challenging the continuity of the analog world. The liquid-metal Photoshop font effects are thus supplanted by hyper-realistic renderings of fire, smoke, and water—fluid elements which are by their very nature difficult to render digitally, especially in movement.1 The digital element is meant to approach the boundaries of technological possibility, but absent the constraints of realism it pushes past reality, past nature, past mere fidelity to the natural world. A movie explosion without special effects thus looks cheap in comparison to the real thing. A flaming corporate website logo would lose much of its appeal were it produced by literally lighting a logograph on fire. A flaming corporate logograph does not simply say "we are hot" or "we are on fire" (that would be too naive)—it says that our fire is better than fire, more vivid and more life-like. The digital fire is the ideal, Platonic image of fire—it is an image that all fires should emulate.
 
-### Text Plain and Fancy 
 
 ### The problem of duplicates
 The conversation between Goodman and Genette. Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence. Goodman: thinking about the perfect copy. But there is a confusion here: fake art is not necessarily about a copy, it is about provenance. Autographic vs. allographic art. Whether forgery is possible. Digital vs. analog art. Analog art is medium bound. Digital abstracts from the material. 
 
-## Freedom of Information
+## 1.3 Freedom of Information
 Information is intentional. Against the "cybernatic" formal definitions. 
 
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
@@ -152,7 +163,7 @@ Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.o
 
  
 
-## Dysfunction by Data
+## 1.4 Dysfunction by Data
 Data.
 
 ### Scratch Collector
@@ -160,18 +171,7 @@ Metadata
 k
 Code and comments. Collector of chair or collector of scratches. Object oriented ontology. Object oriented languages. Competing paradigms: separation of code and data. No separation (Haskell).
 
-## Text, Form, Formatting
-POSIX. Form. Style. Content.
-What is and what is not information. From abstract to specific. Material substratum.
-UTF History. Unix ideas of plain text.
-Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
-
-Version control, drafts, versioning. What is a text?
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
-## Media, Message, Mode
+## 1.5 Media, Message, Mode
 Key terms: media, message, mode
 
 ### Intro
@@ -195,10 +195,11 @@ What is at stake here for us? What does the extension hypothesis mean for the st
 The second observation we must make is that the hypothesis of extended cognition brings the mind out of the head and into the material sphere of existence. Taking HEC seriously means to supplement fMRI-based cognitive science with anthropological, social observation of cognition at work. And since we are talking about tools and habits of thought (rather than neurons, or brain-matter) we must acknowledge that the formation of the mind, at least in the extended sense, can span beyond one's own, private mental development. Extended, the mind gains a shared history.
 HEC also implies that the long-standing anxiety over the impact of cognitive aids on our natural human capacities—an anxiety that has been around at least since the times of Socrates, an anxiety that is clearly expressed in Heidegger's philosophy of technology, and that is featured prominently in the recent cautionary tales of human decline by Richard Foreman and Nicholas Carr—that anxiety has at least the merit of considering the mind in its embodied, contextualized form. The critique acknowledges the impact of technology on our mental habits. But the negative value assessment is the least interesting part of that argument. Cognitive aids are only as "good" or as "bad" as the purposes for which they are used. If calculators have diminished our capacity to do math in our heads, they have also alleviated much tedium involved in mundane everyday arithmetic—at the bank, at the supermarket, and at home. And few would argue that mass literacy (as a technology) had anything but a positive effect on our society, and that despite whatever effects literacy may have on our "natural" ability to remember things without writing. "Natural" is, in this case, an artificial construct, tied to one's willingness to engage in nostalgic reverie about an idyllic state of unadulterated past.
 
-## Platforms of Self
+## 1.6 Platforms of Self
 Key terms: file, document, stream, net neutrality
 Commands: grep, awk, sed 
 
+Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
 ### Problem of Drafts and Versions
 Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
 
@@ -481,6 +482,9 @@ How to run the terminal. What is it. And why?
 Intro to POSIX
 
 ## Chapter 1
+Key terms: binary, digital, analog, plain text, surface, depth
+Commands: pwd, ls, cd, cat, wc
+
 Where am I? `pwd`, `ls`, `cd`
 Bits, bytes, and characters: `wc`
  
