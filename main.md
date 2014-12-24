@@ -106,9 +106,12 @@ In an ASCII-rendered plain text file, byte count corresponds to character count.
 
 [^ln-char]: There are many caveats here, to be explored later. Follow along with excercises related to the discussion in the Technical Appendix.
 
-Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in Part II of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is a way in which even a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in computer science, but also in articulating an ethics of computation.
+Recent theory challenges the conceptual boundaries between humans and machines in a concerted way. Perhaps, such boundaries were never that clearly articulated in the first place. It is also likely that other modalities of being are possible on the spectrum between human and machine, or human and complex system. We will have a chance to explore these possibilities in second half of the book. For now, I ask that the reader simply rely on the colloquial, pre-theoretical understanding of both person and instrument. However intertwined the hand and the hammer can be, there is an intuitive way in which a child can separate one from the other. There is a deep-rooted instinct at work in that distinction, one that cannot and should not be dismissed as mere naivete. The concept of a human is in itself a powerful theoretical construct, and, as I will argue later, one necessary, not only for the understanding of key concepts in literary theory and computer science, but also in articulating an ethics of critical computation.
 
-But before we can get there, we need to gain clarity on the key terms of the conversation. Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
+Lotman: "the material embodiment of a semiotic system." limited, hierarchical, and structured [^@lotman].
+Barthes:
+Derrida: "Everything is a text" [^@caputo].
+TEI people: A text is an "ordered hierarchy of content objects" [^@derose].
 
 Textuality is encoded. How it encoded matters, because that decides who gets to decode.
 
@@ -290,9 +293,9 @@ Armed with these insights, we can now return to the perhaps obvious idea that Kr
 Anonymous authorship.
 
 
-# Part II
+# Part 2 
 
-## Processing Words, Human-Computer Interfaces
+## 2.1 Processing Words, Human-Computer Interfaces
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 
 "Pen is Mightier than a Sword" by Pam A. Mueller and Daniel M. Oppenheimer.
@@ -424,7 +427,7 @@ Won't do for the work, so we're writing by sound.
 The stenographers of the 19th century understood their movement as the kind of a global phenomenon that approximates our contemporary understanding of the internet and social networking. Again Lindsley from The Elements of Tachygraphy:
 When Tachygraphy shall be generally known and used, an electric thrill of life will run through our communities, awakening new sympathies, and forming bonds of union long dissevered. What railroads have done in bringing friends together that could otherwise never interchange a visit during a lifetime, brief writing will do, in bringing minds together that would, without it, communicate with too much difficulty to be able to continue the acquaintance begun in youth; and aid in extending that more valuable interchange of thought among those of similar tastes, which tends both to the perfection of our knowledge of science, and its general diffusion.6
 In this project stenography and typewriting technologies compete for the same vision of augmenting the natural human facilities of information processing and knowledge dissemination.7 Stenography is understood here as a thoroughly modern and modernizing technology that does for the mental and moral development what the steam engine and areal flight did for the material realm.
-## Bad Links, Intertextuality, Symbolic links
+## 2.2 Bad Links, Intertextuality, Symbolic links
 Rise of intertextuality. The promise of hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links here.
 It is my intention here to convince you that links are bad. They are bad when it comes to writing for the web in general, bad for books, bad for long-form journalism, and even worse in academic publication. It is not that I am against the idea of links. As we will see here, the problem lies in the way links are used. That is also to say that we can do something about using links better. But first, why are links so bad?
 
@@ -447,7 +450,7 @@ How did we get here is not an easy question. A part of the story is surely the e
 What can we do to make links better? There are a few things we all can do now. First, let’s use links sparingly. Think smartly about whether you need to link or whether you can make do with a good, old-fashioned quote or citation.  Don’t link just because you can. Second, link explicitly: Youtube.com is better than this. Third, realize that online content is dynamic. It makes no sense to link a dynamic resource when the intent is to create a link to a static version of a document. Tools like the Save Page Now service, hosted by the Internet Archive, do just that. You can find this essay at http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best captured in a snapshot here: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/. Finally, do not neglect the humble footnote. Footnotes provide a nice blend between usability, transparency, and good knowledge design.
 
 1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
-## Writers' Room, Textual Cooperation
+## 2.3 Writers' Room, Textual Cooperation
 Writing together. Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
 
 Auteur - genius romantic ideas of authorship. Lab life of writer's rooms. Tangibility. Distributed authorship.
@@ -456,7 +459,7 @@ I've been thinking quite a bit recently about the "costs" of collaboration, abou
 
 This brings me to a strange (but meaningful) space between textual criticism and version control
 
-## Hidden Message, Cryptography
+## 2.4 Hidden Message, Cryptography
 Privacy, secrecy, surveillance, and transparency.
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
 
@@ -466,7 +469,7 @@ Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that
 
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
 
-## New Humanism
+## 2.5 New Humanism
 ### Metaphysical Dread about Computation
 Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
 
@@ -497,6 +500,8 @@ Bits, bytes, and characters: `wc`
 ## Chapter 5
 
 # Odds and Ends 
+Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
+
 Athanasius Kircher's Universal Polygraphy
 George E. McCracken
 
