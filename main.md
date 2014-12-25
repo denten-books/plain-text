@@ -101,7 +101,7 @@ I keep detailed logs of my daily writing practice. During the academic year, I a
 
 ## 1.1 Decoding Text
 ### Introduction
-In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. I will spend the rest of the chapter unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment should suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information "meant" for a computer.[^ln-human], [^ln-meaning]  
+In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. I will spend the rest of the book unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment should suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information "meant" for a computer.[^ln-human], [^ln-meaning]  
 
 Not all texts are created equal. In print, traditional distinctions between form and content lie flat. The printing press firmly embeds letters into paper, leaving no space between ink and page. From the early days of the internet, the writing of media-minded critics like Jerome McGann [@mcgann1991], Johanna Drucker [@drucker1996], and Katherine Hayles [@hayles2004], has compelled literary scholars to re-evaluate textuality in its media-specific contexts. Their work reminds us that the flatness of digital text endures only as an illusion. A substantial gap separates presentation from source material. Low-level, operational intuitions governing textuality--ideas about form, content, style, letter, and word--change radically as text shifts its confines from paper to pixel. Forces of capital and control often exploit that gap, relying on technological obscurity and institutional momentum to promote their ends (for better or for worse). I contend here that some of the higher-level ills of the contemporary public sphere, the so called crisis in the academic publishing industry, for example, can be linked directly to our inability or unwillingness to come to terms with conditions of digital textuality. A society that cares about the long-term preservation of complex discursive formations like free speech, dialogue, and deliberation online, would do well to take heed of textual building blocks at their foundation. Text matters because how it is encoded, transmitted, and stored, decides who gets to decode, receive, and access.
 
@@ -112,24 +112,38 @@ Not all texts are created equal. In print, traditional distinctions between form
 [^ln-meaning]: I write "meaning" in quotation marks, because the question of whether it makes sense to talk about meaning for artificial agents is a question that will remain unresolved, at least until the later chapters, when we have the chance to discuss notions of data and information as meaning-carrying units.    
 
 ### Immanence and Transcendence 
+What is text? In talking about texts of all kinds, literary theorists often make the distinction between form and content. The dichotomy harkens back to traditional Platonic theory of essences. For Plato, the "essence" or an "idea" of something (like a chair) exists in a sort of an ideal, metaphysical state, somewhere beyond the confines of the material universe. By contrast, physical instantiations of that object (specific chairs) comprise a somewhat more limited, even corrupted versions of that idea. The task of the philosopher then becomes to reconstruct the ideal notion of the perfect chair from many imperfect copies. A computer scientist will recognize in this chain of reasoning the principles behind object oriented programming: a way of building software that works by defining abstract "object classes" and invoking them as "class instances" [@hoare, @nygaard]. For Plato and later René Descartes, G.W.F. Hegel, and many other generlally idealist philosophers, ideas provide us with enduring, universal, truths about the material, constantly changing, world.[^ln-descartes]
+
+In his *Lectures on Aesthetics*, Hegel writes about the "symbol" in art, composed of its "meaning," a conception of the mind, and its "expression," an image "that addresses itself to the senses" [@hegelsaesthetics]. The history of eye statics generally and textual analysis specifically, can be seen as a pendulum that swings between these two modes of interpretation. One, in its extreme, abandons expression for meaning. In the tradition, we privilege the content of the text: what is being said. Another  
+
+Similarly, Hayles writes about "the interplay between a text's physical characteristics and it's signifying strategies" [^@hayles2007 p.72].  
+
+"What is needed, first, is more attention to form in art. If excessive stress on content provokes the arrogance of interpretation, more extended and more thorough descriptions [!] of form would silence" [@sontagagainst p.8].
+
+The "what" and the "how" are related. [@eichenbaum]
+
+Annotating Hamlet.
+
+Controlling the interpretation. Controlling the distribution.
+
+[^ln-descartes]: It is difficult to resist quoting from Descartes' *Meditations on First Philosophy* when discussing idealism. He writes: "Let us consider the things that people ordinarily think they understand best of all, namely the bodies that we touch and see. I don’t mean bodies in general – for our general thoughts are apt to be confused – but one particular body: this piece of wax, for example. It has just been taken from the honeycomb; it still tastes of honey and has the scent of the flowers from which the honey was gathered; its colour, shape and size are plain to see; it is hard, cold and can be handled easily; if you rap it with your knuckle it makes a sound. In short, it has everything that seems to be needed for a body to be known perfectly clearly. But as I speak these words I hold the wax near to the fire, and look! The taste and smell vanish, the colour changes, the shape is lost, the size increases; the wax becomes liquid and hot; you can hardly touch it, and it no longer makes a sound when you strike it. But is it still the same wax? Of course it is; no-one denies this. So what was it about the wax that I understood so clearly? Evidently it was not any of the features that the senses told me of; for all of them – brought to me through taste, smell, sight, touch or hearing – have now altered, yet it is still the same wax."
+
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical, and structured [^@lotman].
 Barthes:
 Derrida: "Everything is a text" [^@caputo].
 TEI people: A text is an "ordered hierarchy of content objects" [^@derose].
 
+### WYSINWYG (What You See Is Not What You Get)
 
-
-### Fancy Text
-Unix system. What you see is not what you get. What is plain text. Unix ideas of plain text. ASCII. 
+Plain and fancy Text
+Unix system. What you see is not what you get. What is plain text. Unix ideas of plain text. ASCII. From form and content to content, semantic markup, and typesetting. Semantic markup as part of the extra-linguistic meaning making.
 
 Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
 
 http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
 
-### Meaning, Semantic form, Style 
-Traditional concepts of text. Formalists. Radient textuality. 
-
-### WYSINWYG (What You See Is Not What You Get)
+### Semantic Markup
+Semantic markup is interesting because it contains both material and ideal.
 
 ## 1.2 We Have Always Been Digital
 
@@ -153,6 +167,7 @@ The conversation between Goodman and Genette. Goodman's "Art and Authenticity." 
 ## 1.3 Freedom of Information
 Information is intentional. Against the "cybernatic" formal definitions. 
 
+Kant, Schiller on beauty as freedom on beauty as freedom
 Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
 
 Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
@@ -540,3 +555,4 @@ Internet is not a rhyzome. Central control. Surface vs. depth structures--twitte
 
 Actor-networks. We are pushing ourselves through the wires. Hardware in control. 
 
+rg Wilhelm Friedrich Hegel 
