@@ -484,6 +484,7 @@ The stenographers of the 19th century understood their movement as the kind of a
 When Tachygraphy shall be generally known and used, an electric thrill of life will run through our communities, awakening new sympathies, and forming bonds of union long dissevered. What railroads have done in bringing friends together that could otherwise never interchange a visit during a lifetime, brief writing will do, in bringing minds together that would, without it, communicate with too much difficulty to be able to continue the acquaintance begun in youth; and aid in extending that more valuable interchange of thought among those of similar tastes, which tends both to the perfection of our knowledge of science, and its general diffusion.6
 In this project stenography and typewriting technologies compete for the same vision of augmenting the natural human facilities of information processing and knowledge dissemination.7 Stenography is understood here as a thoroughly modern and modernizing technology that does for the mental and moral development what the steam engine and areal flight did for the material realm.
 ## 2.2 Bad Links, Intertextuality, Symbolic links
+### Hypertext
 Rise of intertextuality. The promise of hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links here.
 It is my intention here to convince you that links are bad. They are bad when it comes to writing for the web in general, bad for books, bad for long-form journalism, and even worse in academic publication. It is not that I am against the idea of links. As we will see here, the problem lies in the way links are used. That is also to say that we can do something about using links better. But first, why are links so bad?
 
@@ -507,7 +508,8 @@ What can we do to make links better? There are a few things we all can do now. F
 
 1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 ## 2.3 Writers' Room, Textual Cooperation
-Writing together. Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
+### 2.3.1 Writing together. 
+Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
 
 Auteur - genius romantic ideas of authorship. Lab life of writer's rooms. Tangibility. Distributed authorship.
 
@@ -516,6 +518,7 @@ I've been thinking quite a bit recently about the "costs" of collaboration, abou
 This brings me to a strange (but meaningful) space between textual criticism and version control
 
 ## 2.4 Hidden Message, Cryptography
+### 2.4.1 Introduction
 F. C. Bakewell's Copying Telegraph secrecy already built in.
 Privacy, secrecy, surveillance, and transparency.
 Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
@@ -524,15 +527,18 @@ Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that
 
 " It's also why I believe Google will kill Gmail as soon as it comes up with a mediated alternative everyone loves. Of course, Google may offer an antiquated "Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated experience."
 
+Alice, Bob, Caryl. 
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
 
 ## 2.5 New Humanism
-### Metaphysical Dread about Computation
+### 2.5.1 Metaphysical Dread about Computation
 Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
 
 Deeper metaphysical dread about computation, that should be understood historically (where Lennon gets it right). 
 
-### Engineering for Dissent
+### 2.5.2 Code as Governance
+Lessig.
+### 2.5.3 Engineering for Dissent
 Agency. Deliberation. Consensus. Dissent. Dissent is the least developed of these. Engineering for dissent. The ability to create shared goals and to exit. engagement with shared project. The subject of my next book. 
 
 # Tech Appendix
