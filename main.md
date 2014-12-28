@@ -142,7 +142,18 @@ A whole field of textual criticism exists in the service of negotiating "critica
 [ln-tanselle]: @tanselle, 13. See also p.18: "Whatever concept of authorship one subscribes to, the act of reading or listening to receive a message from the past entails the effort to discover, through the text (or texts) one is presented with, the work that lies behind [@tanselle92, 18]." 
 
 ### 1.1.4 The Problem of Duplicates
-Jakobson. Provinance. 
+Textual artifacts exhibit the dualism between form and content to a much greater extent than other forms of art and communication. The philosophers Nelson Goodman and Catherine Elgin make the distinction between "works of art whose identity depends on their history of production" and works whose identity does not. The former they call "autographic" and the latter "allographic [@goodman1988, 65]." Architecture and painting, for example, are strongly autographic disciplines. An exact copy of a Rembrandt painting or of a building by Frank Lloyd Wright could never rise to the status of the original. The originals have what Walter Benjamin called an "aura or authenticity." No amount of precision, down to the molecular level, could substitute for the historical patina of the original artifact. It is quite strange, if you think about it: to believe that objects somehow retain an aura of history. "The handkerchief used by Princess Diana." "The cigar box owned by President Kennedy." In some real sense, the historical patina covering these objects is not real. It cannot be reduced to physical characteristics. The object had to "be there," and that's what gives it its value, sentimental or otherwise. 
+
+The financial value the contemporary society places on such artifacts is a major remnant of magical thinking. Benjamin's famous essay on the work of art in the age of mechanical reproduction appears to both celebrate and lament aura's demise. "The technique of reproduction detaches the reproduced object from the domain of tradition," wrote Benjamin. "By making many reproductions it substitutes a plurality of copies for a unique existence. And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced. These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind [@benjamin, 217-253]." And yet, for Benjamin, the easy reproducibility of modern art forms like film and photography also "emancipates the work of art from its parasitical dependence on ritual [@benjamin, 217-253]." Crisis or emancipation? The reproducibility of the work in the age of mechanical reproduction brings with it metaphysical anxiety about tradition and about art's emancipatory potential. The modern world faces a crisis of authenticity, which we have only began to assimilate economically. The certificate of authenticity on a luxury handbag or on a "Digital Versatile Disk" (how antiquated the DVD sounds already!) is a band-aid hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant to talk publically about piracy, because the so called "knock-offs" are essentially exact copies, often "leaked" from the very same factories producing the original.
+
+Texts are different, in that textuality itself. Drucker compelling us to pay heed to materiality. "What is meant" for the painter makes no sense. We are forced to reconstruct the mental conditions of the author's intention.  
+
+
+
+
+"The quality of its presence is always deprecated." "Aura withers." "The fabric of tradition."
+
+Provinance. 
 Goodman vs. Genette.
 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
