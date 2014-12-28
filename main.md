@@ -144,7 +144,9 @@ A whole field of textual criticism exists in the service of negotiating "critica
 ### 1.1.4 The Problem of Duplicates
 Goodman vs. Genette.
 
-Duplicates in Computer Science. 
+Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
+
+[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
 
 ### 1.1.5 Original, Originality
 @dumont
