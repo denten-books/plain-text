@@ -141,16 +141,13 @@ A whole field of textual criticism exists in the service of negotiating "critica
 
 [ln-tanselle]: @tanselle, 13. See also p.18: "Whatever concept of authorship one subscribes to, the act of reading or listening to receive a message from the past entails the effort to discover, through the text (or texts) one is presented with, the work that lies behind [@tanselle92, 18]." 
 
-### 1.1.4 Crisis of Authenticity 
-Textual artifacts exhibit the dualism between form and content to a much greater extent than other forms of art and communication. The philosophers Nelson Goodman and Catherine Elgin make the distinction between "works of art whose identity depends on their history of production" and works whose identity does not. The former they call "autographic" and the latter "allographic [@goodman1988, 65]." Architecture and painting, for example, are strongly autographic disciplines. An exact copy of a Rembrandt painting or of a building by Frank Lloyd Wright could never rise to the status of the original. The originals have what Walter Benjamin called an "aura or authenticity." No amount of precision, down to the molecular level, could substitute for the historical patina of the original artifact. It is quite strange, if you think about it: to believe that objects somehow retain an aura of history. "The handkerchief used by Princess Diana." "The cigar box owned by President Kennedy." In some real sense, the historical patina covering these objects is not real. It cannot be reduced to physical characteristics. The object had to "be there," and that's what gives it its value, sentimental or otherwise. 
+Textual artifacts exhibit the dualism between form and content to a much greater extent than other forms of art and communication. The philosophers Nelson Goodman and Catherine Elgin make the distinction between "works of art whose identity depends on their history of production" and works whose identity does not. The former they call "autographic" and the latter "allographic [@goodman1988, 65]." Architecture and painting, for example, are strongly autographic disciplines. An exact copy of a Vermeer or of a building by Frank Lloyd Wright could never rise to the status of the original. The originals have what Walter Benjamin called an "aura or authenticity." No amount of precision, down to the molecular level, could substitute for the historical patina of the original artifact. 
 
-The economic value the contemporary society places on authentic artifacts is a vestige of magical thinking. Benjamin's famous essay on the work of art in the age of mechanical reproduction appears to both celebrate and lament aura's demise. "The technique of reproduction detaches the reproduced object from the domain of tradition," wrote Benjamin. "By making many reproductions it substitutes a plurality of copies for a unique existence. And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced. These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind [@benjamin, 217-253]." And yet, for Benjamin, the easy reproducibility of modern art forms like film and photography also "emancipates the work of art from its parasitical dependence on ritual [@benjamin, 217-253]." Crisis or emancipation? The reproducibility of the work in the age of mechanical reproduction brings with it metaphysical anxiety about tradition and about art's emancipatory potential. 
+It is quite strange, if you think about it: to believe that objects somehow retain an aura of history. "The handkerchief used by Princess Diana." "The cigar box owned by President Kennedy." In some real sense, the historical patina covering these objects is not real. It cannot be reduced to physical characteristics. The object had to "be there," and that's what gives it its value, sentimental or otherwise. The economic value contemporary society places on authentic artifacts is a vestige of magical thinking. Benjamin's famous essay on the work of art in the age of mechanical reproduction appears to both celebrate and lament aura's demise. "The technique of reproduction detaches the reproduced object from the domain of tradition," wrote Benjamin. "By making many reproductions it substitutes a plurality of copies for a unique existence. And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced. These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind [@benjamin, 217-253]." And yet, for Benjamin, the easy reproducibility of modern art forms like film and photography also "emancipates the work of art from its parasitical dependence on ritual [@benjamin, 217-253]." Crisis or emancipation? The reproducibility of the work in the age of mechanical reproduction brings with it metaphysical anxiety about tradition and about art's emancipatory potential. 
 
-The modern world faces a crisis of authenticity, which we have only began to assimilate: politically, economically, philosophically. The ubiquitous holographic certificate of authenticity on a luxury handbag or on a "Digital Versatile Disk" (how antiquated the DVD sounds already!) is a cheap band-aid hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant to talk publicly about piracy,[^ln-counterfeiting] because the so called "knock-offs" are essentially exact copies, often "leaked" from the very same factories producing the original. 
+The modern world faces the challenge of authenticity, which we have only began to assimilate: politically, economically, philosophically. The ubiquitous holographic certificate of authenticity on a luxury handbag or on a "Digital Versatile Disk" (how antiquated the DVD sounds already!) is a cheap band-aid hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant to talk publicly about piracy,[^ln-counterfeiting] because the so called "knock-offs" are essentially exact copies, often "leaked" from the very same factories producing the original. 
 
-Note that it makes no sense to talk about "what was meant" by the designer of the handbag, the way textual critic may talk about authorial intention. Nor would it make sense to "correct" some perceived flaw in the painting by Vermeer. All "unauthorized" copies of the original constitute a forgery that competes for attention with the original. One could say that for painting and handbags "matter is synonymous with meaning," but the sentiment strains at the limits of traditional vocabulary, which gives us only the binaries of form and content. The context-dependence of certain types of artifacts is not even medium-specific, as Goodman suggests in his essay on B
-
-The handbags and the Vermeers *are* perfectly reproducible, like texts. They are in some significant regard texts, and I do not mean it in some post-structuralist notion of "everything is a text." Technologies like 3D scanning and printing literally reduce physical objects to their textual representation, in the form of a stereo lithographic document (STL). Here, for example, is a surface from a functional gun, made available by Defense Distributed: 
+Note that it makes no sense to talk about "what was meant" by the designer of the handbag, the way textual critic may talk about authorial intention. Nor would it make sense to "correct" some perceived flaw in the painting by Vermeer. All "unauthorized" copies constitute a forgery that competes for attention with the original. One could say that for painting and handbags "matter is synonymous with meaning," but the sentiment strains at the limits of traditional vocabulary, which gives us only the binaries of form and content. The context-dependence of an artifact is not even medium-specific, as Goodman would suggest. Texts are more allographic than handbags and paintings, but Vermeers and Louis Vitton purses *are* in some sense perfectly reproducible, like texts. They are texts, and I do not mean it in some post-structuralist notion of "everything is a text." Technologies like 3D scanning and printing literally reduce physical objects to their textual representation, in the form of a stereo lithographic document (STL). Here, for example, is a surface from a functional gun, made available by Defense Distributed: 
 
 ```
 22=(
@@ -166,11 +163,36 @@ REPRESENTATION_ITEM('')
 SURFACE()
 );
 ```
-The movement from physical to textual has a profound effect on the governance of goods, felt precisely at the distinction between autographic and allographic works. Governments regulate the manufacture and the distribution of guns as artifacts, but how does one regulate guns as ideas? Any such effort amounts to censorship. Yet, in the age of mechanical reproduction the gap between idea and artifact narrows dramatically. What was regulated under the regime of property law, now increasingly falls under the regime of intellectual property and rights to speech. When both guns and books are reduced to text, we can reasonably expect to carry out our book and gun trades by email. 
+The movement from physical to textual has a profound effect on the governance of goods, felt precisely at the distinction between autographic and allographic works. Governments regulate the manufacture and the distribution of guns as artifacts, but how does one regulate guns as texts and ideas? Any such effort amounts to censorship. Yet, in the age of mechanical reproduction the distinction between idea and artifact narrows dramatically. What was regulated under the regime of property law, now increasingly falls under the regime of intellectual property and rights to speech. When both guns and books are reduced to text, we can reasonably expect to carry out our book and gun trades by email. 
 
-Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
+[ln-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
 
-[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
+### 1.1.4 Crisis of Authenticity 
+The conditions of low-cost reproducibility compel us to reformulate the question of authenticity in terms that are not media- or technologically deterministic. The authenticity of a mass produced knock-off handbag in relation to its mass-produced "original" is a function of authority and authorization, not molecular structure or ideational content. I stand with Lawrence Lessig in the belief that laws, code, and markets.
+
+When it comes to the authenticity of handbags, texts, and painting the American legal system grants at least four differing layers of protection. Utility patents protect the "functional" aspects of an object. Design patents protect the "ornamental" "look and appearance" aspects of jewelry, fashion, furniture, beverage containers, and computer icons. Under the US Copyright Law, Section 102, copyright law protects "original works of authorship" that are "fixed in any tangible medium of expression." Finally, trademark 
+
+Threshold of originality.
+
+"non-eligibility of "textual matter""Ets-Hokin v. Skyy Spirits Inc.
+Although a label's "graphical illustrations" are normally copyrightable, "textual matter" is not—at least not unless the text "aid[s] or augment[s]" an accompanying graphical illustration. 
+
+U.S. Code: Title 35 - PATENTS
+
+ Article One, section 8, clause 8 of the U.S. Constitution which states:
+
+    The Congress shall have power ... To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries; 
+
+design patents protect intellectual property textbook [@merges]  
+
+35 U.S. Code § 171 - Patents for designs
+
+
+Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
+The provisions of this title relating to patents for inventions shall apply to patents for designs, except as otherwise provided.
+
+
+When it comes to handbags, texts, and paintings the American legal system grants at least three differing levels of protection 
 
 
 @dumont
@@ -178,14 +200,14 @@ Duplicates in Computer Science. Almost 30% of webpages are "very similar to othe
 @egi-vs-swisa
 
 Copyright law vs. design patent! What constitutes a copy?
-[ln-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
 
-I can hear the new materialists 
-Drucker compelling us to pay heed to materiality. Reexamine the traditional distinction between form and content. 
 
 ### 1.1.5 WYSINWYG (What You See Is Not What You Get)
 RUNOFF. http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
 
+Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
+
+[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
 Pub! http://www.nomodes.com/pub_manual.html
 
 Here's where things get a bit confusing. Hegel used the word form and material interchangibly. By form the formalists meant mostly semantic form. They were not "concrete" poets. Form was to them reproducible and somewhat independent of the material. This problem was already known to Plato and Aristotle. Summarize Material, Form, and Content w/ Form as something that mediates? Is the shape itself a thing?
