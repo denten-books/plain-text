@@ -142,11 +142,13 @@ A whole field of textual criticism exists in the service of negotiating "critica
 [ln-tanselle]: @tanselle, 13. See also p.18: "Whatever concept of authorship one subscribes to, the act of reading or listening to receive a message from the past entails the effort to discover, through the text (or texts) one is presented with, the work that lies behind [@tanselle92, 18]." 
 
 ### 1.1.4 The Problem of Duplicates
+Jakobson. Provinance. 
 Goodman vs. Genette.
 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
+
 
 ### 1.1.5 Original, Originality
 @dumont
@@ -180,7 +182,7 @@ TEI people: A text is an "ordered hierarchy of content objects" [^@derose]. Good
 
 
 ## 1.2 We Have Always Been Digital
-
+E.M. Forester. Machine Stops. 
 The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
 
 Language is digital. Soap opera effect. Gaps that allow the brain to fill it. Striation. Preserving striation. History of UTF8. Unix philosophy. 
@@ -355,7 +357,10 @@ Anonymous authorship.
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 
 "Pen is Mightier than a Sword" by Pam A. Mueller and Daniel M. Oppenheimer.
-k
+
+
+Southall. Interfaces between the designer and the document
+
 
 ### Intro
 Talk about stack exchange vs. 4chan vs. reddit
@@ -485,6 +490,7 @@ When Tachygraphy shall be generally known and used, an electric thrill of life w
 In this project stenography and typewriting technologies compete for the same vision of augmenting the natural human facilities of information processing and knowledge dissemination.7 Stenography is understood here as a thoroughly modern and modernizing technology that does for the mental and moral development what the steam engine and areal flight did for the material realm.
 ## 2.2 Bad Links, Intertextuality, Symbolic links
 ### Hypertext
+Ted Nelson.
 Rise of intertextuality. The promise of hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links here.
 It is my intention here to convince you that links are bad. They are bad when it comes to writing for the web in general, bad for books, bad for long-form journalism, and even worse in academic publication. It is not that I am against the idea of links. As we will see here, the problem lies in the way links are used. That is also to say that we can do something about using links better. But first, why are links so bad?
 
@@ -534,7 +540,7 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 ### 2.5.1 Metaphysical Dread about Computation
 Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
 
-Deeper metaphysical dread about computation, that should be understood historically (where Lennon gets it right). 
+Deeper metaphysical dread about computation, that should be understood historically (where Lennon gets it right). You are not a gadget.
 
 ### 2.5.2 Code as Governance
 Lessig.
