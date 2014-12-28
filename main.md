@@ -141,19 +141,17 @@ A whole field of textual criticism exists in the service of negotiating "critica
 
 [ln-tanselle]: @tanselle, 13. See also p.18: "Whatever concept of authorship one subscribes to, the act of reading or listening to receive a message from the past entails the effort to discover, through the text (or texts) one is presented with, the work that lies behind [@tanselle92, 18]." 
 
-### 1.1.4 The Problem of Duplicates
+### 1.1.4 Crisis of Authenticity 
 Textual artifacts exhibit the dualism between form and content to a much greater extent than other forms of art and communication. The philosophers Nelson Goodman and Catherine Elgin make the distinction between "works of art whose identity depends on their history of production" and works whose identity does not. The former they call "autographic" and the latter "allographic [@goodman1988, 65]." Architecture and painting, for example, are strongly autographic disciplines. An exact copy of a Rembrandt painting or of a building by Frank Lloyd Wright could never rise to the status of the original. The originals have what Walter Benjamin called an "aura or authenticity." No amount of precision, down to the molecular level, could substitute for the historical patina of the original artifact. It is quite strange, if you think about it: to believe that objects somehow retain an aura of history. "The handkerchief used by Princess Diana." "The cigar box owned by President Kennedy." In some real sense, the historical patina covering these objects is not real. It cannot be reduced to physical characteristics. The object had to "be there," and that's what gives it its value, sentimental or otherwise. 
 
-The financial value the contemporary society places on such artifacts is a major remnant of magical thinking. Benjamin's famous essay on the work of art in the age of mechanical reproduction appears to both celebrate and lament aura's demise. "The technique of reproduction detaches the reproduced object from the domain of tradition," wrote Benjamin. "By making many reproductions it substitutes a plurality of copies for a unique existence. And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced. These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind [@benjamin, 217-253]." And yet, for Benjamin, the easy reproducibility of modern art forms like film and photography also "emancipates the work of art from its parasitical dependence on ritual [@benjamin, 217-253]." Crisis or emancipation? The reproducibility of the work in the age of mechanical reproduction brings with it metaphysical anxiety about tradition and about art's emancipatory potential. The modern world faces a crisis of authenticity, which we have only began to assimilate economically. The certificate of authenticity on a luxury handbag or on a "Digital Versatile Disk" (how antiquated the DVD sounds already!) is a band-aid hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant to talk publically about piracy, because the so called "knock-offs" are essentially exact copies, often "leaked" from the very same factories producing the original.
+The economic value the contemporary society places on authentic artifacts is a major vestige of magical thinking. Benjamin's famous essay on the work of art in the age of mechanical reproduction appears to both celebrate and lament aura's demise. "The technique of reproduction detaches the reproduced object from the domain of tradition," wrote Benjamin. "By making many reproductions it substitutes a plurality of copies for a unique existence. And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced. These two processes lead to a tremendous shattering of tradition which is the obverse of the contemporary crisis and renewal of mankind [@benjamin, 217-253]." And yet, for Benjamin, the easy reproducibility of modern art forms like film and photography also "emancipates the work of art from its parasitical dependence on ritual [@benjamin, 217-253]." Crisis or emancipation? The reproducibility of the work in the age of mechanical reproduction brings with it metaphysical anxiety about tradition and about art's emancipatory potential. 
 
-Texts are different, in that textuality itself. Drucker compelling us to pay heed to materiality. "What is meant" for the painter makes no sense. We are forced to reconstruct the mental conditions of the author's intention.  
+The modern world faces a crisis of authenticity, which we have only began to assimilate politically and economically. The ubiquitous holographic certificate of authenticity on a luxury handbag or on a "Digital Versatile Disk" (how antiquated the DVD sounds already!) is a cheap band-aid hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant to talk publicly about piracy,[^ln-counterfeiting] because the so called "knock-offs" are essentially exact copies, often "leaked" from the very same factories producing the original. 
 
+Note that it makes no sense to talk about "What is meant" for  
 
+the painter makes no sense. We are forced to reconstruct the mental conditions of the author's intention.  
 
-
-"The quality of its presence is always deprecated." "Aura withers." "The fabric of tradition."
-
-Provinance. 
 Goodman vs. Genette.
 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
@@ -161,14 +159,36 @@ Duplicates in Computer Science. Almost 30% of webpages are "very similar to othe
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
 
 
-### 1.1.5 Original, Originality
 @dumont
 @gorham-vs-white
 @egi-vs-swisa
 
-Drucker telling us to take heed of material. Copyright law vs. design patent! What constitutes a copy?
+Copyright law vs. design patent! What constitutes a copy?
 
-### 1.1.6 WYSINWYG (What You See Is Not What You Get)
+Technologies like 3D scanning and printing will further exacerbate the crisis of authenticity. A 3D printer reduces physical objects to their textual representation, in the form of a stereo lithographic document (STL). Here, for example, is a surface from a functional gun, made available by Defense Distributed: 
+
+```
+22=(
+BOUNDED_SURFACE()
+B_SPLINE_SURFACE(1,2,((#34104,#34105,#34106),(#34107,#34108,#34109)),
+ .UNSPECIFIED.,.F.,.F.,.F.)
+B_SPLINE_SURFACE_WITH_KNOTS((2,2),(3,3),(15.1641909236141,15.3257778193699),
+(2.99329024107099,3.14159265358979),.UNSPECIFIED.)
+GEOMETRIC_REPRESENTATION_ITEM()
+RATIONAL_B_SPLINE_SURFACE(((1.,0.997252058758362,1.),(1.,0.997252058758362,
+1.)))
+REPRESENTATION_ITEM('')
+SURFACE()
+);
+```
+The movement from physical to textual has a profound effect on the governance of goods, felt precisely at the distinction between autographic and allographic works. Governments regulate the manufacture and the distribution of guns as artifacts, but how does one regulate guns as ideas? Any such effort amounts to censorship. Yet, in the age of mechanical reproduction the gap between idea and artifact narrows dramatically. What was regulated under the regime of property law, now increasingly falls under the regime of intellectual property and rights to speech. When both guns and books are reduced to text, we can reasonably expect to carry out our book and gun trades by email. 
+
+[ln-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
+
+I can hear the new materialists 
+Drucker compelling us to pay heed to materiality. Reexamine the traditional distinction between form and content. 
+
+### 1.1.5 WYSINWYG (What You See Is Not What You Get)
 RUNOFF. http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
 
 Pub! http://www.nomodes.com/pub_manual.html
