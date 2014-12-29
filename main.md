@@ -99,7 +99,7 @@ I keep detailed logs of my daily writing practice. During the academic year, I a
 
 # Part 1
 
-## 1.1 Decoding Text
+## 1.1 Decoding Textuality
 ### 1.1.1 Introduction
 In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln-char] Let these words soak in for a moment. I will spend the rest of the book unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment should suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information "meant" for a computer.[^ln-human], [^ln-meaning]  
 
@@ -167,9 +167,27 @@ The movement from physical to textual has a profound effect on the governance of
 
 [ln-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
 
-### 1.1.4 Encoding 
-Quote a books being weapons. But in some important ways, the gun is not a text. Not really a text, but can be described. Something here 
-begin now to converge on an understanding of textuality reformulate the question in terms that are not media- or technologically deterministic. The authenticity of a mass produced knock-off handbag in relation to its mass-produced "original" is a function of authority and authorization, not molecular structure or ideational content. The cost of reproducing text approaches zero, and has always done so. How is form and content encoded in terms of governance? 
+### 1.1.4 Encoding Form 
+"Robots have also the attribute in common of being able to affect human beings or other targets 'at a distance,' a book, a radio or a television sender can entertain or teach at a distance, like a gun, a rocket and an atomic bomb can kill people and destroy at a distance. The book is a robot par excellence [@moreno, 238]." So wrote Jacob Moreno, a contemporary and adversary of Sigmund Freud and one of the pioneers in sociology and group therapy. The text acts at a distance--we will come to that. But in some important ways, the gun is not a text. It can be reduced to textual description, transmitted, and manufactured cheaply. As the pendulum of textual scholarship swings back from treating text as pure idea, the materialists must acknowledge the aberrant specificity of textual material. Text routinely separates from its physical medium. The ability to change form is what gives it the ability to act at a distance. 
+
+The traditional dichotomy between form and content obscures the complexity of the problem. Formalism overloads the concept of form to bare functions of material and design, which cannot be treated at the same layer of analysis. In Plato we find a number of words that, depending on the translation, stand in for the English "form." These include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena* (appearance). Compare for example the translations from Plato's *Timaeus*. In the dialogue, Timaeus, the titular character, explains the nature of the physical world. Similarly to the passage about wax by Descartes (quoted in a footnote earlier), Timaeus notices that some elements, like water, change their appearance (*φανταζομένων*) 
+while remaining essentially the same substance. Benjamin Jowett translates the passage:  
+
+> Thus, then, as the several elements never present themselves in the same form,(*phantazomenōn*) how can anyone have the assurance to assert positively that any of them, whatever it may be, is one thing rather than another? [@jowett-timaeus, 49d]
+
+In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as "appearance:"
+
+> Accordingly, since no one of these ever remains identical in appearance, which of them shall a man definitely affirm to be any one particular element and no other without incurring ridicule? [@lamb-timaeus, 49d]
+
+The idea in both of these translations is that matter has some sort of essence, but often changes in appearance. Jowett understands that which is changeable as "form." Contrast these passages from the one in *Cratylus*. Here Socrates is talking to Hermogenes about "name-giving," a discussion about how words signify things through convention. "What has the carpenter in view when he makes a shuttle?" asks Socrates. "Is it not something the nature of which is to weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he making it, will he make another with his mind fixed on that which is broken, or on that form (*eidos*) with reference to which he was making the one which he broke? " Hermogenes agrees it's the form. "Then we should very properly call that the real shuttle (*estin kerkis*)?" The exact appearance (I am going to use that word now) of the shuttle does not matter for Socrates. There are different types of shuttle weave wool and linen, but all of them, in Jowett's translation, "must contain the form or ideal (*eidos*) of shuttle [@lamb-cratylus, 389a-b]." Here then *eidos* is exactly the opposite of *phantazomenōn* in the previous passage, yet both were reasonably translated into the English "form." Unlike the changing appearance of water, the eternal form of the shuttle exists in the ideal world, with individual shuttles being somewhat corrupted (and even broken) instantiations of the essence. 
+
+Here, the broken shuttle is that which is 
+
+
+
+
+
+
 
 When it comes to the of handbags, texts, and paintings the American legal system grants at least four differing layers of protection. Utility patents protect the "functional" aspects of an object. Design patents protect the "ornamental" "look and appearance" aspects of jewelry, fashion, furniture, beverage containers, and computer icons. Under the US Copyright Law, Section 102, copyright law protects "original works of authorship" that are "fixed in any tangible medium of expression." Finally, the Lanham Act protects commercial identity and distinguishes the source of commercial goods. 
 
@@ -585,12 +603,15 @@ Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that
 Alice, Bob, Caryl. 
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
 
+Zimmermann responded by publishing the source code as a book, an act that was constitutionally protected as free speech. 
 ## 2.5 New Humanism
 ### 2.5.1 Metaphysical Dread about Computation
 Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
 
 Deeper metaphysical dread about computation, that should be understood historically (where Lennon gets it right). You are not a gadget.
 
+### Open Textuality
+The proper domain for literary studies is textuality, broadly conceived.
 ### 2.5.2 Code as Governance
 Lessig.
 ### 2.5.3 Engineering for Dissent
