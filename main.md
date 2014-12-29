@@ -167,10 +167,10 @@ The movement from physical to textual has a profound effect on the governance of
 
 [ln-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
 
-### 1.1.4 Encoding Form 
+### 1.1.4 Mediating Form 
 "Robots have also the attribute in common of being able to affect human beings or other targets 'at a distance,' a book, a radio or a television sender can entertain or teach at a distance, like a gun, a rocket and an atomic bomb can kill people and destroy at a distance. The book is a robot par excellence [@moreno, 238]." So wrote Jacob Moreno, a contemporary and adversary of Sigmund Freud and one of the pioneers in sociology and group therapy. The text acts at a distance--we will come to that. But in some important ways, the gun is not a text. It can be reduced to textual description, transmitted, and manufactured cheaply. As the pendulum of textual scholarship swings back from treating text as pure idea, the materialists must acknowledge the aberrant specificity of textual material. Text routinely separates from its physical medium. The ability to change form is what gives it the ability to act at a distance. 
 
-The traditional dichotomy between form and content obscures the complexity of the problem. Formalism overloads the concept of form to bare functions of material and design, which cannot be treated at the same layer of analysis. In Plato we find a number of words that, depending on the translation, stand in for the English "form." These include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena* (appearance). Compare for example the translations from Plato's *Timaeus*. In the dialogue, Timaeus, the titular character, explains the nature of the physical world. Similarly to the passage about wax by Descartes (quoted in a footnote earlier), Timaeus notices that some elements, like water, change their appearance (*φανταζομένων*) 
+The traditional dichotomy between form and content obscures the complexity of the this dynamic. Formalism overloads the concept of form to bare functions of material and design, which cannot be treated at the same layer of analysis. In Plato we find a number of words that, depending on the translation, stand in for the English "form." These include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena* (appearance). Compare for example the translations from Plato's *Timaeus*. In the dialogue, Timaeus, the titular character, explains the nature of the physical world. Similarly to the passage about wax by Descartes (quoted in a footnote earlier), Timaeus notices that some elements, like water, change their appearance (*φανταζομένων*) 
 while remaining essentially the same substance. Benjamin Jowett translates the passage:  
 
 > Thus, then, as the several elements never present themselves in the same form,(*phantazomenōn*) how can anyone have the assurance to assert positively that any of them, whatever it may be, is one thing rather than another? [@jowett-timaeus, 49d]
@@ -179,45 +179,11 @@ In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as "ap
 
 > Accordingly, since no one of these ever remains identical in appearance, which of them shall a man definitely affirm to be any one particular element and no other without incurring ridicule? [@lamb-timaeus, 49d]
 
-The idea in both of these translations is that matter has some sort of essence, but often changes in appearance. Jowett understands that which is changeable as "form." Contrast these passages from the one in *Cratylus*. Here Socrates is talking to Hermogenes about "name-giving," a discussion about how words signify things through convention. "What has the carpenter in view when he makes a shuttle?" asks Socrates. "Is it not something the nature of which is to weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he making it, will he make another with his mind fixed on that which is broken, or on that form (*eidos*) with reference to which he was making the one which he broke? " Hermogenes agrees it's the form. "Then we should very properly call that the real shuttle (*estin kerkis*)?" The exact appearance (I am going to use that word now) of the shuttle does not matter for Socrates. There are different types of shuttle weave wool and linen, but all of them, in Jowett's translation, "must contain the form or ideal (*eidos*) of shuttle [@lamb-cratylus, 389a-b]." Here then *eidos* is exactly the opposite of *phantazomenōn* in the previous passage, yet both were reasonably translated into the English "form." Unlike the changing appearance of water, the eternal form of the shuttle exists in the ideal world, with individual shuttles being somewhat corrupted (and even broken) instantiations of the essence. 
+The idea in both of these translations is that matter has some sort of essence, but often changes in appearance. Jowett understands that which is changeable as "form." Contrast the *Timaeus* passages from the one in *Cratylus*. Here Socrates is talking to Hermogenes about "name-giving," a discussion about how words signify things through convention. "What has the carpenter in view when he makes a shuttle?" asks Socrates. "Is it not something the nature of which is to weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he making it, will he make another with his mind fixed on that which is broken, or on that form (*eidos*) with reference to which he was making the one which he broke? " Hermogenes agrees it's the form. "Then we should very properly call that the real shuttle (*estin kerkis*)?" The exact appearance (I am going to use that word now) of the shuttle does not matter for Socrates. There are different types of shuttle weave wool and linen, but all of them, in Jowett's translation, "must contain the form or ideal (*eidos*) of shuttle [@lamb-cratylus, 389a-b]." Here then *eidos* is exactly the opposite of *phantazomenōn* in the previous passage, yet both were reasonably translated into the English "form." Unlike the changing appearance of water, the eternal form of the shuttle exists in the ideal world, with individual shuttles being somewhat corrupted (and even broken) instantiations of the essence.[^ln-plato]
 
-Here, the broken shuttle is that which is 
+[^ln-plato]: My reading of Plato would be impossible without help from the Perseus Digital Library Project, which allows the reader to explore the Greek originals side-by-side with translations, maps, dictionaries, and other parallel texts. Sources consulted on the Plato's theory of forms include @rist, @woods, @dixsaut, @hegel1870.
 
-
-
-
-
-
-
-When it comes to the of handbags, texts, and paintings the American legal system grants at least four differing layers of protection. Utility patents protect the "functional" aspects of an object. Design patents protect the "ornamental" "look and appearance" aspects of jewelry, fashion, furniture, beverage containers, and computer icons. Under the US Copyright Law, Section 102, copyright law protects "original works of authorship" that are "fixed in any tangible medium of expression." Finally, the Lanham Act protects commercial identity and distinguishes the source of commercial goods. 
-
-Putting aside trademark law, Under the law the text cannot be a mere object. 
-
-Language about physicality.
-
-A derivative work is defined as "a work based upon one or more preexisting works such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted." 17 U.S.C. § 101.
-
-Look at a case. Threshold of originality. "non-eligibility of "textual matter""Ets-Hokin v. Skyy Spirits Inc. Although a label's "graphical illustrations" are normally copyrightable, "textual matter" is not—at least not unless the text "aid[s] or augment[s]" an accompanying graphical illustration. 
-
-U.S. Code: Title 35 - PATENTS
-
- Article One, section 8, clause 8 of the U.S. Constitution which states:
-
-    The Congress shall have power ... To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries; 
-
-design patents protect intellectual property textbook [@merges]  
-
-35 U.S. Code § 171 - Patents for designs
-
-Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
-The provisions of this title relating to patents for inventions shall apply to patents for designs, except as otherwise provided.
-
-@dumont
-@gorham-vs-white
-@egi-vs-swisa
-
-
-The legal system "encodes" ideas of form and content. What is design? Confusion in for Plato as well.
+Several lines in Hegel's own exposition on Plato's idealism give us a glimpse of his struggle with the Platonic concept of form. He writes, "The Idea is nothing but what is current with us under the name of the Universal, when this word is not taken in the sense of *formal* Universal--which is only a property of things--but as the in-and-for-itself existent, as the essence, as that which alone is true. We translate the Greek word *eidos* by 'genus' or 'species' (*Gattung* or *Art* in German) [...] When 'genus' or 'species' is seized as a number of similar determinations collected by reflection from several individuals, to serve as a *mark* for the convenience of the understanding, then we have the Universal in quite an external [superficial] form [@hegel1870, 250]." I am attracted here by the idea of the "formal Universal," which Hegel is quick to dismiss as not quite the essence of the ideal. The formal universal functions as an interminate mediator between the ideal and the material world. I think what he means is that the form of the chair, for example, is still of this world and a property of the chair. But the Ideal of the chair is not so much a property of the chair, but the universal ideal  of the chair that determines all real-world members of the genus. The formal ideal is therefore part of both worlds. When we think of *Hamlet*, the form of the play belongs neither to the material substance of the text (pixel or paper) nor to the ideational content of the work. The form is something in-between the two worlds: it is in the shape of the letters and in the sounds of the words. The form is indeterminate, because we do not quite know which of these elements belong to the content of the play and which are the contingent material artifacts of the printing process: the way the fonts look, for example, or the way lines break on the page.
 
 ### 1.1.5 WYSINWYG (What You See Is Not What You Get)
 RUNOFF. http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
@@ -639,6 +605,40 @@ Bits, bytes, and characters: `wc`
 ## Chapter 5
 
 # Odds and Ends 
+
+## Form and Content in legal thought
+
+When it comes to the of handbags, texts, and paintings the American legal system grants at least four differing layers of protection. Utility patents protect the "functional" aspects of an object. Design patents protect the "ornamental" "look and appearance" aspects of jewelry, fashion, furniture, beverage containers, and computer icons. Under the US Copyright Law, Section 102, copyright law protects "original works of authorship" that are "fixed in any tangible medium of expression." Finally, the Lanham Act protects commercial identity and distinguishes the source of commercial goods. 
+
+Putting aside trademark law, Under the law the text cannot be a mere object. 
+
+Language about physicality.
+
+A derivative work is defined as "a work based upon one or more preexisting works such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted." 17 U.S.C. § 101.
+
+Look at a case. Threshold of originality. "non-eligibility of "textual matter""Ets-Hokin v. Skyy Spirits Inc. Although a label's "graphical illustrations" are normally copyrightable, "textual matter" is not—at least not unless the text "aid[s] or augment[s]" an accompanying graphical illustration. 
+
+U.S. Code: Title 35 - PATENTS
+
+ Article One, section 8, clause 8 of the U.S. Constitution which states:
+
+    The Congress shall have power ... To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries; 
+
+design patents protect intellectual property textbook [@merges]  
+
+35 U.S. Code § 171 - Patents for designs
+
+Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
+The provisions of this title relating to patents for inventions shall apply to patents for designs, except as otherwise provided.
+
+@dumont
+@gorham-vs-white
+@egi-vs-swisa
+
+
+The legal system "encodes" ideas of form and content. What is design? Confusion in for Plato as well.
+
+## Some old intro
 Too often anxiety about algorithmic thinking, data, and digitization is fueled by simplistic and downright misguided ideas about the underlying technologies. Part I of this book is dedicated to building a critical vocabulary that goes hand-in-hand with digital literacy. Those with an engineering background will be introduced to an intellectual history of ideas that guide practice. And those readers interested in "theory," will gain a measure of technical competency required for higher-level thinking (opinion-formation and decision-making) about the subject.
 
 Athanasius Kircher's Universal Polygraphy
