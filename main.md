@@ -167,10 +167,17 @@ The movement from physical to textual has a profound effect on the governance of
 
 [ln-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
 
-### 1.1.4 Crisis of Authenticity 
-The conditions of low-cost reproducibility compel us to reformulate the question of authenticity in terms that are not media- or technologically deterministic. The authenticity of a mass produced knock-off handbag in relation to its mass-produced "original" is a function of authority and authorization, not molecular structure or ideational content. 
+### 1.1.4 Encoding 
+Quote a books being weapons. But in some important ways, the gun is not a text. Not really a text, but can be described. Something here 
+begin now to converge on an understanding of textuality reformulate the question in terms that are not media- or technologically deterministic. The authenticity of a mass produced knock-off handbag in relation to its mass-produced "original" is a function of authority and authorization, not molecular structure or ideational content. The cost of reproducing text approaches zero, and has always done so. How is form and content encoded in terms of governance? 
 
-When it comes to the authenticity of handbags, texts, and painting the American legal system grants at least four differing layers of protection. Utility patents protect the "functional" aspects of an object. Design patents protect the "ornamental" "look and appearance" aspects of jewelry, fashion, furniture, beverage containers, and computer icons. Under the US Copyright Law, Section 102, copyright law protects "original works of authorship" that are "fixed in any tangible medium of expression." Finally, trademark 
+When it comes to the of handbags, texts, and paintings the American legal system grants at least four differing layers of protection. Utility patents protect the "functional" aspects of an object. Design patents protect the "ornamental" "look and appearance" aspects of jewelry, fashion, furniture, beverage containers, and computer icons. Under the US Copyright Law, Section 102, copyright law protects "original works of authorship" that are "fixed in any tangible medium of expression." Finally, the Lanham Act protects commercial identity and distinguishes the source of commercial goods. 
+
+Putting aside trademark law, Under the law the text cannot be a mere object. 
+
+Language about physicality.
+
+A derivative work is defined as "a work based upon one or more preexisting works such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted." 17 U.S.C. § 101.
 
 Look at a case. Threshold of originality. "non-eligibility of "textual matter""Ets-Hokin v. Skyy Spirits Inc. Although a label's "graphical illustrations" are normally copyrightable, "textual matter" is not—at least not unless the text "aid[s] or augment[s]" an accompanying graphical illustration. 
 
@@ -191,7 +198,6 @@ The provisions of this title relating to patents for inventions shall apply to p
 @gorham-vs-white
 @egi-vs-swisa
 
-Copyright law vs. design patent! What constitutes a copy?
 
 The legal system "encodes" ideas of form and content. What is design? Confusion in for Plato as well.
 
@@ -223,7 +229,7 @@ TEI people: A text is an "ordered hierarchy of content objects" [^@derose]. Good
 
 
 ## 1.2 We Have Always Been Digital
-Doctorow. Inforation "wants to be free"
+Doctorow. Information "wants to be free"
 
 E.M. Forester. Machine Stops. 
 The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
