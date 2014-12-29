@@ -183,27 +183,49 @@ The idea in both of these translations is that matter has some sort of essence, 
 
 [^ln-plato]: My reading of Plato would be impossible without help from the Perseus Digital Library Project, which allows the reader to explore the Greek originals side-by-side with translations, maps, dictionaries, and other parallel texts. Sources consulted on the Plato's theory of forms include @rist, @woods, @dixsaut, @hegel1870.
 
-Several lines in Hegel's own exposition on Plato's idealism give us a glimpse of his struggle with the Platonic concept of form. He writes, "The Idea is nothing but what is current with us under the name of the Universal, when this word is not taken in the sense of *formal* Universal--which is only a property of things--but as the in-and-for-itself existent, as the essence, as that which alone is true. We translate the Greek word *eidos* by 'genus' or 'species' (*Gattung* or *Art* in German) [...] When 'genus' or 'species' is seized as a number of similar determinations collected by reflection from several individuals, to serve as a *mark* for the convenience of the understanding, then we have the Universal in quite an external [superficial] form [@hegel1870, 250]." I am attracted here by the idea of the "formal Universal," which Hegel is quick to dismiss as not quite the essence of the ideal. The formal universal functions as an interminate mediator between the ideal and the material world. I think what he means is that the form of the chair, for example, is still of this world and a property of the chair. But the Ideal of the chair is not so much a property of the chair, but the universal ideal  of the chair that determines all real-world members of the genus. The formal ideal is therefore part of both worlds. When we think of *Hamlet*, the form of the play belongs neither to the material substance of the text (pixel or paper) nor to the ideational content of the work. The form is something in-between the two worlds: it is in the shape of the letters and in the sounds of the words. The form is indeterminate, because we do not quite know which of these elements belong to the content of the play and which are the contingent material artifacts of the printing process: the way the fonts look, for example, or the way lines break on the page.
+Several lines in Hegel's own exposition on Plato's idealism give us a glimpse of his struggle with the Platonic concept of form. He writes, "The Idea is nothing but what is current with us under the name of the Universal, when this word is not taken in the sense of *formal* Universal--which is only a property of things--but as the in-and-for-itself existent, as the essence, as that which alone is true. We translate the Greek word *eidos* by 'genus' or 'species' (*Gattung* or *Art* in German) [...] When 'genus' or 'species' is seized as a number of similar determinations collected by reflection from several individuals, to serve as a *mark* for the convenience of the understanding, then we have the Universal in quite an external [superficial] form [@hegel1870, 250]." I am attracted here by the idea of the "formal Universal," which Hegel is quick to dismiss as not quite the essence of the ideal. The formal universal functions as an indeterminate mediator between the ideal and the material world. I think what he means is that the form of the chair, for example, is still of this world and a property of the chair. But the Ideal of the chair is not so much a property of the chair, but the universal ideal of the chair that determines all real-world members of the genus. The "formal ideal" is therefore a part of both worlds. It mediates. When we think of *Hamlet*, the form of the play belongs neither to the material substance of the text (pixel or paper) nor to the ideational content of the work. The form is something in-between the two worlds: it is in the shape of the letters and in the sounds of the words. The form is indeterminate, because we do not quite know which of these elements belong to the content of the play and which are the contingent material artifacts of the printing process: the way the fonts look, for example or the way lines break on the page.
 
 ### 1.1.5 WYSINWYG (What You See Is Not What You Get)
+A feature of texts is the ease with which we can "peel" form and content from the material substratum. It is, as we will see, a feature of all digital forms 
+
+
+On benefits of computer-aided document preparation. "The style or format of the document can be decoupled from its content; the only format control information that need be embedded is that describing textual categories and boundaries, such as titles, section headings, paragraphs, and the like [@kernighan1078, 2116]
+
+TROFF. Processed text. Instructions for the style of paragraphs, footnotes, header, footer.
+
+TROFF example from @kernighan1978, 2123. 
+
+```
+.de hd          \" begin header definition
+'sp 1i          \" space 1 inch
+..              \" end of header definition
+.de fo          \" footer
+'bp             \" space to beginning of next page
+..              \" end of footer definition
+.wh 0 hd        \" set trap to invoke hd when at top of page
+.wh -1i fo      \" set trap in invoke fo 1 inch form bottom
+```
+
+Serial. Voice syntehsizer. Diff. Spell.
 RUNOFF. http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
+
+Into GML > @goldfarb1981
 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
 Pub! http://www.nomodes.com/pub_manual.html
 
-Here's where things get a bit confusing. Hegel used the word form and material interchangibly. By form the formalists meant mostly semantic form. They were not "concrete" poets. Form was to them reproducible and somewhat independent of the material. This problem was already known to Plato and Aristotle. Summarize Material, Form, and Content w/ Form as something that mediates? Is the shape itself a thing?
-
 Plain and fancy Text
 Unix system. What you see is not what you get. What is plain text. Unix ideas of plain text. ASCII. From form and content to content, semantic markup, and typesetting. Semantic markup as part of the extra-linguistic meaning making.
-
-Traditional distinction: Jacobson. Semantic, Stylistic, Content. Surface Depth.
 
 http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
 
 Semantic markup is interesting because it contains both material and ideal. The way textuality is encoded mediates between idea and matter. Mediation. Visible form and hidden form.
 
+Don't forget Barthes here.
+
+conclusion 
 Controlling the interpretation. Controlling the distribution.
 
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical, and structured [^@lotman].
@@ -473,6 +495,11 @@ If are are to take the hypothesis of extended cognition seriously, we must treat
 
 
 ### Stenography
+### Introduction
+"A text editor is often the primary interface between a user and the system, and the program with which most user time is spent. Accordingly, an editor has to be easy to use, and efficient of the user's time--editing commands have to 'flow off the fingertips.' [@kernighan1978, 2117]."
+
+We've traded it for dumb text boxes.
+### Transcription 
 Transcription of speech was a major concern for the various stenographic movements in the English-speaking world, which go back the publication of Timothy Bright's Characterie: An Arte of Shorte, Swifte Secrete Writing by Character in 1588. In the introduction to this slim volume, Bright writes that his work was inspired by the "speedie kind of writing by character" mentioned first in Plutarch's Life of Cato the Younger, improved upon by Seneca, and then lost to history.1 
 "The uses and diuers: short, that a swifte hande may therewith write orations or publike actions of speach, uttered as becometh the grauitie of such actions, verbatim. Secrete, as no kinde of wryting like, and herein (besides other properties) excelling the wryting by letters, and alphabet, in that, nations of strange languages, may hereby communicate their meaning together in writing, through of sundrie tongues, it is reported of the of the people of China, that they have no other kinde, and so traffike together many Prouinces of that kingdom, ignorant one of an others speach. Their characters are very long, and harde to make, that a dousen of mine, may be written and soone as one of theirs; besides, they wanting an alphabet, fal into an infinite number, which is a thing that greatlie chargeth memory, and may discourage the learner.2
 The task of stenography then, from its early modern inception was first to bring handwriting closer to the speed of speech, and second, to imagine a universal alphabet that could be used by speakers of all languages and dialects. In modern terms, we might say that stenography was concerned first and foremost with our ability to cope with an increasing amount of information, and second with the international standardization of character encoding (that is, with the universal transmission of information). In The Elements of Tachygraphy, first published in 1869, David Philips Lindsley writes: 
@@ -521,6 +548,7 @@ Won't do for the work, so we're writing by sound.
 The stenographers of the 19th century understood their movement as the kind of a global phenomenon that approximates our contemporary understanding of the internet and social networking. Again Lindsley from The Elements of Tachygraphy:
 When Tachygraphy shall be generally known and used, an electric thrill of life will run through our communities, awakening new sympathies, and forming bonds of union long dissevered. What railroads have done in bringing friends together that could otherwise never interchange a visit during a lifetime, brief writing will do, in bringing minds together that would, without it, communicate with too much difficulty to be able to continue the acquaintance begun in youth; and aid in extending that more valuable interchange of thought among those of similar tastes, which tends both to the perfection of our knowledge of science, and its general diffusion.6
 In this project stenography and typewriting technologies compete for the same vision of augmenting the natural human facilities of information processing and knowledge dissemination.7 Stenography is understood here as a thoroughly modern and modernizing technology that does for the mental and moral development what the steam engine and areal flight did for the material realm.
+
 ## 2.2 Bad Links, Intertextuality, Symbolic links
 ### Hypertext
 Ted Nelson.
