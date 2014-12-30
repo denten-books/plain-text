@@ -131,6 +131,7 @@ The history of literary scholarship is punctuated by these moments of revolt aga
 [^ln-echenbaum]: "Что касается 'формы', то формалистам было важно только повернуть значение этого запутанного термина так, чтобы он не мешал постоянной своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
 ### 1.1.3 From Texts to a Work 
+Barthes here.
 My short history of the distinction between form and content is necessarily reductive. The situation on the ground was always more nuanced than the dichotomy would suggest, with a number of reasonable positions between radical idealism and radical materialism. But I was hoping to give you a taste of what was at stake: not just a dry academic debate about the nature of art, but the very capability of art (and don't necessarily think "high art" here) to transform humanity. For Hegel, art reached for truth, transcending the deterministic physical universe. For the formalists, art worked to revitalize stale metaphors and ossified ways of thinking.   
 
 The division of text into form and content makes a difference in more utilitarian ways as well. Imagine the challenge of compiling all known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The problem of what to count as a single text would be one of the first design challenges you would encounter. In the words of Barbara Mowat and Paul Werstine, the editors of Folger Digital Texts, "readers assume that there is a single text for the plays: what Shakespeare wrote. But Shakespeare’s plays were not published the way modern novels or plays are published today: as a single, authoritative text. In some cases, the plays have come down to us in multiple published versions, represented by various Quartos (Qq) and by the great collection put together by his colleagues in 1623, called the First Folio (F). There are, for example, three very different versions of *Hamlet*, two of *King Lear*, *Henry V*, *Romeo and Juliet*, and others. Editors choose which version to use as their base text, and then amend that text with words, lines or speech prefixes from the other versions that, in their judgment, make for a better or more accurate text [@digitalfolger, Textual Introduction]." Textual editors face such decisions routinely. What appears to us as one unified work, *Hamlet*, is an actuality a set of somewhat diverging drafts and editions. Errors in transcription and editorial interventions accumulate. The proliferation of unlicensed copies, translations, and imitations further adds to the complexity of the problem. 
@@ -188,6 +189,7 @@ Several lines in Hegel's own exposition on Plato's idealism give us a glimpse of
 ### 1.1.5 WYSINWYG (What You See Is Not What You Get)
 A feature of texts is the ease with which we can "peel" form and content from the material substratum. It is, as we will see, a feature of all digital forms 
 
+Textuality as seen from the point of view of a photocopier. Peeling away from one medium into another. 
 
 On benefits of computer-aided document preparation. "The style or format of the document can be decoupled from its content; the only format control information that need be embedded is that describing textual categories and boundaries, such as titles, section headings, paragraphs, and the like [@kernighan1078, 2116]
 
@@ -409,6 +411,8 @@ Anonymous authorship.
 # Part 2 
 
 ## 2.1 Processing Words, Human-Computer Interfaces
+The early development of word processing promised revolutionary potential. Now, dumb boxes. How did we get to this point? Literary scholars lost connection with textuality at its material basis. And the discipline of software engineering works in the service not humanity. Heidegger and his typewriter. 
+
 Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic.  Stack as a model of communication
 
 "Pen is Mightier than a Sword" by Pam A. Mueller and Daniel M. Oppenheimer.
