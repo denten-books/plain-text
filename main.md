@@ -96,7 +96,7 @@ Computation does not necessarily work for the military-industrial apparatus (as 
 ## Timeline
 I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that more than quadruples when freed from teaching obligations. Assuming a manuscript of around 80k words (and discounting the fact that large portions of this book are anticipated in my dissertation), a conservative estimate of my schedule would place the final draft somewhere towards the second half of summer, 2015. 
 
-# Part 1: Document
+# Part 1: Matter 
 
 ## 1.1 Encoding Textuality 
 ### 1.1.1 Introduction
@@ -186,14 +186,16 @@ Several lines in Hegel's own exposition on Plato's idealism give us a glimpse of
  
 Where we started with a dichotomy, we arrive at a model of textuality that contains three parts: material, form, and content. The history of Western aesthetics can be so reformulated as an attempt to pull the work of art through one or several of these layers of analysis, as when Sontag entreats her reader to pay more attention to form. But the very words "work," "form," and "text" often tangle in the conceptual confusion. I am trying to understand, for example, what Roland Barthes means by the distinction between work and text in his seminal essay on textuality.[^ln-barthes] For Barthes, the work has something to do with paper, bookshelves, and generally substance. By contrast, text is something "radically symbolic," something that moves across works, not bound to any specific matter. Barthes's "texts" sound like ideas, where his "works" sound like books. This usage stands in direct opposition to the tradition of textual criticism, where "source texts" constitute specific, materially-bound editions or manuscripts, and "works" generally denote the abstraction of an artistic unity: the idea of Shakespeare's *Hamlet*, for example, in opposition to variance found in the multiplicity of individual *Hamlets*. 
 
-Where Barthes wants to liberate text as symbol from the embodied work, scholars like Johanna Drucker, make a strong case for returning the text to its underlying material contexts. Almost the entirety of her critical oeuvre serves to remind the reader that ideas cannot exist outside of their material form [@drucker2001], that paper and typography are the formal medium for the production of meaning in language [@drucker2008], and that even electronic, digital text formats have their material embodiment [@drucker2009]. I am sympathetic to the message, but only in so far as it adds the dimension of materiality to a properly three-dimensional, thick description of text. Simply put, I am greedy and want to have the whole layered cake. 
+Where Barthes wants to liberate text as symbol from the embodied work, scholars like Johanna Drucker, make a strong case for returning the text to its underlying material contexts. Almost the entirety of her critical oeuvre serves to remind the reader that ideas cannot exist outside of their material form [@drucker2001], that paper and typography are the formal medium for the production of meaning in language [@drucker2008], and that even electronic, digital text formats have their material embodiment [@drucker2009]. I am sympathetic to the message, but only in so far as it adds a dimension of materiality to a properly three-dimensional, thick description of text. Simply put, I am greedy and want to have the whole layered cake. 
 
 [^ln-barthes]:"The work is a fragment of substance," he writes. The work is "moderately symbolic" where text is "radically symbolic." The work "occupies space of books," where the text is "a process of demonstration," "experienced only in an activity of production." He writes also that "the Text cannot stop (for example, on a library shelf); its constitutive movement is that of cutting across (in particular, it can cut across the work, several works) [@barthes1978, 156-7]."
 
 [^ln-drucker]" See for example: "The notion of the 'immaterial' text has become fixed in popular and even critical imagination. [...] Though digital information is far more fungible than physical inscription, the codes on which electronic texts are based are themselves material. More to the point, however, the graphical and dynamic organization of texts continues to function as textual information in the electronic format [drucker2001, 145]."
 
 ### 1.1.5 WYSINWYG (What You See Is Not What You Get)
-A clarification of terms allows us to perceive the history of textual technology as one of gradual peeling apart of the layers of matter, form, and content. Textuality comes unglued. This allographic property of text is worthy of preservation. I am not only against the theoretical move to flatten it back out, but I think of such attempts as practically, politically imprudent. The easy stratification of electronic text represents the hard-won struggle on the part of writers, literary scholars, and software engineers to liberate ideas from their material and formal contexts. As an extreme example, imagine discourse that could never be separated from a specific medium. Communication would be impossible! Moreover, deeply-seated values in favor of free speech and unencumbered exchange of information depend on a loose coupling between ontological categories. Our abilities to remix, translate, re-mediate, recycle, transmit, transform, transcend the ideas of others, relies on their ephemeral nature. Ideas deposited in ossified matter, in fixed shapes, do not travel well. And there are plenty of entities that would like us to return to a time of singular thought, etched in one stone tablet.   
+A clarification of terms allows us to perceive the history of textual technology as one of gradual peeling apart of the layers of matter, form, and content. Textuality comes unglued. This allographic property of text is worthy of preservation. I am not only against the theoretical move to flatten it back out, but I think of such attempts as practically, politically imprudent. The easy stratification of electronic text represents the hard-won struggle on the part of writers, literary scholars, and software engineers to liberate ideas from their material and formal contexts. As an extreme example, imagine discourse that could never be separated from a specific medium. Communication would be difficult, if not impossible! Moreover, deeply-seated values in favor of free speech and unencumbered exchange of information depend on a loose coupling between ontological categories. Our abilities to remix, translate, re-mediate, recycle, transmit, transform, transcend the ideas of others, relies on their ephemeral nature. Ideas deposited in ossified matter, in fixed shapes, do not travel well. And there are plenty of entities that would like us to return to a time of singular thought, etched in one set of stone tablets.   
+
+It is a commonplace sentiment now that the printing press brought with it the Protestant Reformation [@dittmar, @febvre-martin2010, @mcluhan1962].
 
 Printers and copiers. The word "xerox" entered the English lexicon by the mid-1960s[^ln-xerox] along with stencil duplicators, mimeograph machines, microfiche, spirit duplicators,[^ln-spirit] hectographs, and dot-matrix printing. A whole industry of photocopying exists to seamlessly the content away from one material medium and "plaster" it into another. 
 
@@ -400,7 +402,8 @@ If are are to take the hypothesis of extended cognition seriously, we must treat
 
 
 
-## 1.3 Recursive Encounters with Oneself
+## 1.3 Document as Vector
+### Recursive Encounters with Oneself
 
 Text as vector. Barthes: text as "an organism which grows by vital expansion [@barthes1978, 161]." " "The metaphor of the Text is that of the *network* [@barthes1978, 161]." 
 
@@ -491,11 +494,10 @@ The medium does not know anything about the message. The way in which we store, 
 The separation between mode and medium allows us to retain a certain clarity of vision in a rather muddled conversation about "media history." Modalities such as visual arts, music or literature do not necessarily evolve, in the normative sense of the word. Yes, it may be true that Filippo Brunelleschi invented the optical linear perspective in 1425. But the normative evolution of art could only make sense only against some concrete pragmatic goals, which the aesthetic realm lacks by definition. Nothing is gained or lost when the fashion changes from square-toed to pointy-toed shoes, and then back again—to use an example that would surely please Mr. Krapp. Neither is "better" or "worse" for the participants in that sphere of cultural activity. By contrast, the concept of the medium does contain some sense of normative valuation, also by definition. That is to say that the medium has a job, which is to facilitate the storage, the transmission, and the retrieval of information. And there is such a thing as doing this job better or more efficiently. More is always better in this case: more storage, faster access, more reliable transmission. When the quality of the information is not sacrificed, there are no instances were less would be preferable by anyone with limited time and resources. For example, I would like to be able to read or write faster. I value both of these activities, but my time to perform them is limited by my lifespan. Assuming I could gain speed without any degradation in clarity or comprehension, and barring any psychological ill effects, the idea of more in this case must be a good onto itself.
 Armed with these insights, we can now return to the perhaps obvious idea that Krapp's collection could not exist without the particular technology of the tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its portability, power source, size, search capacity, price, and yes, even the shape of the reel and the tape recorder. It is at this point, that I am able to restate the broadly historical thesis of this section: that these very same attributes have enabled a shift in the collecting practices of the western world—transposing the locus of our archival practice from the institutional to the private sphere.
 
-### Identity
-Anonymous authorship.
+### File 
 
 
-# Part 2: Medium
+# Part 2: Form 
 
 ## 2.1 Not the Message 
 Key terms: media, message, mode
@@ -505,6 +507,7 @@ What happens in the change from speaking to writing? The violin (copy from disse
 
 Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
 
+### Semiotics of Saussure vs. Peirce
 Krap's Last tape here. 
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
@@ -573,7 +576,7 @@ The conversation between Goodman and Genette. Goodman's "Art and Authenticity." 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
-# Part 3: Mode  
+# Part 3: Content 
 
 ## 3.1 Bad Links
 Intertextuality, Symbolic links
@@ -626,6 +629,8 @@ http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.h
 
 Zimmermann responded by publishing the source code as a book, an act that was constitutionally protected as free speech. 
 
+### Identity
+Anonymous authorship.
 # Conclusion: New Humanism
 ### 2.5.1 Metaphysical Dread about Computation
 Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
