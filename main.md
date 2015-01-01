@@ -1,5 +1,5 @@
 ---
-title: "Plain Text: The Poetics of Human-Computer Interaction"
+title: "Plain Text: Poetics of Human-Computer Interaction"
 author: "Dennis Tenen"
 ---
 
