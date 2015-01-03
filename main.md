@@ -55,7 +55,7 @@ As journals, departments, and libraries struggle financially, a whole industry o
 *Plain Text* is an attempt to repay the debt of materialism. The alienation, as I will argue here, begins with the roots of my profession: namely the production of textuality in everyday life. It is quite likely that most of readers spend the majority of their waking hours in front of a personal computer, typing letters on a screen (among other things worthy of their own examination, but outside of the scope of this book). My goal then is to reclaim the ordinary material contexts of a dominant mode of knowledge production and dissemination. It is one thing to theorize about notions of form and content, and it is quite another to see how form and content are encoded in .txt and .pdf formats and to further how these distinctions then affect material divisions of labor between "knowledge workers," "content producers," typesetting sweatshops, and international conglomerates that control vectors of literary distribution.
 
 ## Structure
-I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages).
+I tend to write concisely--a style that I think fits well with the subject matter, and something that should appeal to the audience. At this point, I am aiming for a manuscript of around 60-80k words, which would allot around 5-7k words per chapter (around 20-30 book pages). Conceptual clusters. Critical vocab.
 
 ### Chapter 1: Decoding Text 
 Challenging the traditional dichotomy between form and content. In looking at the history of several paradigms of word processing I unearth the distinction between meaning (content), semantic structure (form), and visual style (typesetting). The chapter ends with a discussion about contemporary publishing practices and the ethics of outsourcing typesetting. Case studies from the history of digital typesetting (the ASCII and UNICODE standards) get us to a notion of textuality still deeply embedded into the operating system. 
@@ -96,9 +96,9 @@ Computation does not necessarily work for the military-industrial apparatus (as 
 ## Timeline
 I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that more than quadruples when freed from teaching obligations. Assuming a manuscript of around 80k words (and discounting the fact that large portions of this book are anticipated in my dissertation), a conservative estimate of my schedule would place the final draft somewhere towards the second half of summer, 2015. 
 
-# Part 1: Matter 
+# Part I: Text
 
-## 1.1 Encoding Textuality 
+## 1.1 Content, Matter, Form: Phenomenology of a Photocopier
 
 ### 1.1.1 Introduction
 In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln11-char] Let these words soak in for a moment. I will spend the rest of the book unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment should suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information "meant" for a computer.[^ln11-human], [^ln11-meaning]  
@@ -219,34 +219,32 @@ There is a tradition in new media studies that traces the history of contemporar
 
 [^ln11-quran]: I go into detail here because textual self-identity will become a topic of exposition in subsequent chapters.
 
-## 1.2 Word Processing
+## 1.2 Text, Interface, Encoding: WYSINWYAG (What You See Is Not What You Always Get) 
 
-### 1.2.1 Introduction 
-What happened to our writing implements? First came the typewriter and philosophers thought it would ruin humanity. Then, with the computer, software engineers thought they saw a glimpse of textuality capable of transcendence. Then came Microsoft Word. And worse yet, the box: the ubiquitous internet browser text box that just does very little. Ctrl-Copy, Cntrl-Paste.
-
-Containing an argument for text as an interface between human and machine. History of combinatorial languages and logic. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
-
-What is a well-formed thought? Is being able to communicate one's reasoning clearly an integral part of clear reasoning? Can one think well, but write poorly? Or does thinking well in a sense also mean writing well? I don't mean to ask these questions to start an argument about cognition or rhetoric. Rather, I would appeal to the intuitive sense of connection between the written and the mental worlds and to simply note the natural correspondence between the two. There is a bit of magic in that correspondence—the kind of magic that becomes transparent (and disappears from view) through acclimation. Here is a simple to-do list from my partner. For some moments after reading it, her will has become my command. My arms and legs move under the spell of her bidding. For her part, she has ensured that the list reflects what she wants me to do. That is, it reflects what she wants. And in her absence, the to-do list did represent her volition accurately. I read it as a testament to her will; I was able to internalize the instructions; and then I acted on their behalf. We may say that the to-do list was used to synchronize an aspect of our mental lives. It was an interface of sorts, which has allowed us to bridge two separate mental worlds, mediated by a piece of paper. And yet how quickly we discard it! The interface itself is perhaps too thin and transparent to hold our (critical) attention.
-
-An interface is literally a point of contact. The elevator button, for example, is a quintessential interface between you and the mechanism of the elevator. The button allows the will of the operator to become one with the action of the machine. It is an interface designed to accept human input. But, from the elevator's point of view, the human finger is the interface to the human. In the combined operation of human and elevator it is thus difficult to pinpoint the exact physical boundaries of the contact. The interface is paper-thin, we may say—it happens when a thing slides into the other, and for a moment both become one: a shared physiology and a shared intentional apparatus. We could say that our to-do list is a point of contact between two people. But before being that, it was a point of contact between a person, a piece of paper, and writing. For the purposes of this dissertation, a literary interface is a specialized point of contact between the mental, the symbolic, and the technological modes of being.
-
-Let's examine the piece of paper more closely. A literary interface is first and foremost mediated by language. But language alone is not enough to constitute even a simple to-do list. We must also have writing—a way to record language for later recall or further dissemination. The to-do list also requires a pen and a piece of paper or any transferrable storage medium. I therefore insist on "literary" and not merely "textual" or "linguistic" interfaces, because my concern here is not with any individual text or utterance, but already with a system of such recorded texts or utterances—a physical, artifactual system, which encompasses a range of possible activities. These may include the ability to read and to write, but also to select, highlight, underline, format, annotate, review, redact, skim, commit to memory, store, archive, retrieve, search, borrow, lend, tag, comment, ruffle through the pages, digest, process (as in word processing), type, scribble, click, zoom, drag, drop, cut, and paste. It is this system as a whole that I propose to designate as "literary" (and this in contrary to some more specialized definitions of the same).
-
-A literary interface is secondly an artifact of mental (cognitive) activity. To my mind, a text, like the to-do list for example, is always a privileged symbolic representation. I say this because I think it, and because what I write can be said to represent the state of my mind. Or at least I want it to represent accurately the state of my mind. Even if I wanted to deceive you as to the state of my mind, the deception would at least represent my desire to deceive (we will deal with truly un-intentional texts also in the scope of the dissertation). A text is a snapshot of sorts, which captures a fleeting moment from the stream of private, internal, and generally invisible mental events in the shape of a symbolic (representational), but nevertheless tangible, material, externalized and therefore visible artifacts. By contrast, spoken language is never fully externalized. At the exact moment of utterance my speech is still a part of my body. It is inside of me literally: on its way out, but still inside, near the tongue and the palate, still contained within my larynx. But in typing these words (rather than merely speaking them) I intend to spend much effort to enforce the congruity between what I think and what you read, asynchronously, through the intermediacy of language, text, and word-processing software (in my case). That intermediacy between the mental and the written is a part of the interface, in a way that the "interface between science and the humanities" may signify a common boundary between two distinct disciplines. The literary interface is privileged not just because it encodes an aspect of one's mental world, but because in the moment of contact, it is an aspect of that mental world. And for that moment, it is as dear to me as a toe or a finger, or perhaps as a dream or a recollection.
-
-And finally, a literary interface is a material artifact. By this I mean that something like a pen, paper, a computer screen, or a keyboard is involved in the practice of using literary interfaces. Just like an elevator button, literary interfaces are physical objects. They come into being through usage, and make no sense as discrete objects, as in the case of the elevator control panel removed from the passenger and the mechanism of the elevator. Or rather, I should say that elevator buttons make no sense removed from the action of pressing buttons and transporting things and people between floors. An interface is a kind of a verbalized noun—its understanding must come not just in the examining the artifact, but in examining the artifact in action. Only in action can we observe the momentary unity between the literary, the cognitive, and the artifactual.
-
-### 1.2.2 WYSINWYG (What You See Is Not What You Get)
+### 1.2.1 Introduction
+### 1.2.2 Message 
 
 The computer emerged from an amalgam of automated devices, chief among them the typewriter and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan Turing describes an automatic machine (a-machine) capable of transposing the problem of calculability into "effective calculability." Where all previous typewriters and calculators were special-purpose mechanisms, engineered to aid in a specific task, the configuration state of the a-machine was determined instead by symbols scanned into the machine from a paper ribbon. In imagining the universal calculator, Turing borrowed from the physical design of a typewriter. Although Turing's original article did not include any drawings, he describes the a-machine in terms of paper tape medium, scanning, erasing, "writing down notes," "external operators," and "moves" of the mechanism. If Turing were to file a US-based patent for his device (rather than describing it in the abstract only) he would have to cite prior art in the mechanisms like the "Numeral adding or subtracting attachment for type-writing machines" (US517735, filed in 1893 and issued in 1894), "Combined Type-Writing and Computing Machine" (US990238, 1896-1897), "Computing Attachment for Typewriters" (US1162730, 1908-1915), "Computing Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and Adding Machine" (US1244398, 1910-1917) among others. Turing's innovation over all of these devices lies in the self-reprogramming capabilities of the a-machine. But by the 1930s, a number of lesser mechanisms already existed on the mass market that anticipate functional elements of Turing's design. The material history of the Turing machine lies in the wide-spread manufacture of computing scales, dial recorders, electric tabulating machines, and computing typewriters manufactured by companies like Underwood Computing Machine, Electromatic, and International Business Machines (IBM).
 
-Viewed from the history of writing machines, the next major development of modern computing after the typewriter was automated telegraphy. A number of inventions at the end of the 19th century pertained to "circuit-controlling devices controlled by a traveling perforated strip or tape."[^ln11-perforated] Prior to perforated tape, the transmission of a message by telegraph required the presence of an operator. Typewriters and telegraphs relied on a human as an interface between paper and mechanism. The transcription of text onto paper required the real-time presence of a typist. The perforated tape decouples the human from the machine, allowing for the automation of the device. A flood of inventions appearing in the first few decades of the 20th century capitalize on such decoupling. These include machines for tape-controlled telegraphic transmission (US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast programming or radio and television content (US1974062, 1932-1934). "The object of our invention is to provide a system of telegraphy which does not require skilled operators for the transmission and reception of messages; which is adapted to utilize a single wire between two or more tion and automatically typewritten in page form ready for delivery to the addressee. 
-  
-[^ln11-perforated]: From US patent number 500226, filed Charles Cutriss in 1893 [@cutriss1893].
+Viewed from the history of writing machines, the next major development of modern computing after the typewriter was automated telegraphy. A number of inventions at the end of the 19th century pertained to "circuit-controlling devices controlled by a traveling perforated strip or tape."[^ln12-perforated] Prior to perforated tape, the transmission of a message by telegraph required the presence of a skilled operator, able to transcribe messages from text to Morse code, to lever-operated circuit. Typewriters and telegraphs relied on a human as an interface. The transcription of text into signal, and back onto paper required the real-time presence of human encoders and a decoders. The perforated tape decoupled the human from the machine, allowing for the automation of the device.[^ln12-decouple] A flood of inventions appeared at the turn of the 20th century to capitalize on such decoupling. These include machines for tape-controlled telegraphic transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast programming or radio and television content (US1974062, 1932-1934; US2031074, 1931-1936).
 
+### Control
+With the invention of punch cards and perforated tape (also used in Jacquard looms, as early as 1801), a message meant for another human became also a physical medium--bumps and holes--used to modulate electrical current. In the transmission of a recorded message, the message itself plays the role of a controlling mechanism, aiding in the mechanical movement of the transmission apparatus. For the automated telegraph the control code and the message are one: that is, the arrangement of perforation on the ticker tape affects the internal mechanical state of the machine. Another way to put this would be to say that the state of the tape-driven telegraph machine at any given time is also the message. The device simply converts mechanical states into signal (printed, audible, or otherwise). The logical conclusion of this idea is the controller (US1165663, 1911-1915).
+  
+[^ln12-perforated]: From US patent number 500226, filed Charles Cutriss in 1893 [@cutriss1893]. The initial idea of using perforated tape to "drive" the circuit came from US158156, by Charles Wheatstone in 1874.
+
+[^ln12-decouple]: In 1911, two inventors working on the telegraph write, "the object of our invention is to provide a system of telegraphy which does not require skilled operators for the transmission and reception of messages; which is adapted to utilize a single wire between two or more stations and automatically typewritten in page form ready for delivery to the addressee [@bumstead1916]."
+
+Hyman Eli Goldberg
 Friden FlexoWriter separates key strokes. > IBM MT/ST. 
 
 Further separation. On benefits of computer-aided document preparation. "The style or format of the document can be decoupled from its content; the only format control information that need be embedded is that describing textual categories and boundaries, such as titles, section headings, paragraphs, and the like [@kernighan1078, 2116]
+
+
+[^ln11-kittler]: "Media determine our situation [@kittler1999, xxxix]."
+
+### Encoding
+Baudot code.
 
 Plain text. Fancy text. TROFF. Processed text. Instructions for the style of paragraphs, footnotes, header, footer.
 
@@ -285,7 +283,30 @@ As a literary scholar, I am obviously interested in excavating the textual roots
 Media do not determine our situation.[^ln11-kittler]  Private and public interests instead control the media. Media is governed by legal and technological regimes of our own making. Typesetting sweatshops. Controlling distribution.
 Controlling the interpretation. Controlling the distribution.
 
-[^ln11-kittler]: "Media determine our situation [@kittler1999, xxxix]."
+## 1.3 Word, File: Processing
+### 1.2.1 Introduction
+
+What happened to our writing implements? First came the typewriter and philosophers thought it would ruin humanity. Then, with the computer, software engineers thought they saw a glimpse of textuality capable of transcendence. Then came Microsoft Word. And worse yet, the box: the ubiquitous internet browser text box that just does very little. Ctrl-Copy, Cntrl-Paste.
+
+Engelbart vs. heidegger.
+
+Containing an argument for text as an interface between human and machine. Isomorphism. Search. Protocol - interface. What you see is what you get. What you see is not what you get. Argument for text. Desktop publishing. Stream vs. Object containers.
+
+What is a well-formed thought? Is being able to communicate one's reasoning clearly an integral part of clear reasoning? Can one think well, but write poorly? Or does thinking well in a sense also mean writing well? I don't mean to ask these questions to start an argument about cognition or rhetoric. Rather, I would appeal to the intuitive sense of connection between the written and the mental worlds and to simply note the natural correspondence between the two. There is a bit of magic in that correspondence—the kind of magic that becomes transparent (and disappears from view) through acclimation. Here is a simple to-do list from my partner. For some moments after reading it, her will has become my command. My arms and legs move under the spell of her bidding. For her part, she has ensured that the list reflects what she wants me to do. That is, it reflects what she wants. And in her absence, the to-do list did represent her volition accurately. I read it as a testament to her will; I was able to internalize the instructions; and then I acted on their behalf. We may say that the to-do list was used to synchronize an aspect of our mental lives. It was an interface of sorts, which has allowed us to bridge two separate mental worlds, mediated by a piece of paper. And yet how quickly we discard it! The interface itself is perhaps too thin and transparent to hold our (critical) attention.
+
+An interface is literally a point of contact. The elevator button, for example, is a quintessential interface between you and the mechanism of the elevator. The button allows the will of the operator to become one with the action of the machine. It is an interface designed to accept human input. But, from the elevator's point of view, the human finger is the interface to the human. In the combined operation of human and elevator it is thus difficult to pinpoint the exact physical boundaries of the contact. The interface is paper-thin, we may say—it happens when a thing slides into the other, and for a moment both become one: a shared physiology and a shared intentional apparatus. We could say that our to-do list is a point of contact between two people. But before being that, it was a point of contact between a person, a piece of paper, and writing. For the purposes of this dissertation, a literary interface is a specialized point of contact between the mental, the symbolic, and the technological modes of being.
+
+Let's examine the piece of paper more closely. A literary interface is first and foremost mediated by language. But language alone is not enough to constitute even a simple to-do list. We must also have writing—a way to record language for later recall or further dissemination. The to-do list also requires a pen and a piece of paper or any transferrable storage medium. I therefore insist on "literary" and not merely "textual" or "linguistic" interfaces, because my concern here is not with any individual text or utterance, but already with a system of such recorded texts or utterances—a physical, artifactual system, which encompasses a range of possible activities. These may include the ability to read and to write, but also to select, highlight, underline, format, annotate, review, redact, skim, commit to memory, store, archive, retrieve, search, borrow, lend, tag, comment, ruffle through the pages, digest, process (as in word processing), type, scribble, click, zoom, drag, drop, cut, and paste. It is this system as a whole that I propose to designate as "literary" (and this in contrary to some more specialized definitions of the same).
+
+A literary interface is secondly an artifact of mental (cognitive) activity. To my mind, a text, like the to-do list for example, is always a privileged symbolic representation. I say this because I think it, and because what I write can be said to represent the state of my mind. Or at least I want it to represent accurately the state of my mind. Even if I wanted to deceive you as to the state of my mind, the deception would at least represent my desire to deceive (we will deal with truly un-intentional texts also in the scope of the dissertation). A text is a snapshot of sorts, which captures a fleeting moment from the stream of private, internal, and generally invisible mental events in the shape of a symbolic (representational), but nevertheless tangible, material, externalized and therefore visible artifacts. By contrast, spoken language is never fully externalized. At the exact moment of utterance my speech is still a part of my body. It is inside of me literally: on its way out, but still inside, near the tongue and the palate, still contained within my larynx. But in typing these words (rather than merely speaking them) I intend to spend much effort to enforce the congruity between what I think and what you read, asynchronously, through the intermediacy of language, text, and word-processing software (in my case). That intermediacy between the mental and the written is a part of the interface, in a way that the "interface between science and the humanities" may signify a common boundary between two distinct disciplines. The literary interface is privileged not just because it encodes an aspect of one's mental world, but because in the moment of contact, it is an aspect of that mental world. And for that moment, it is as dear to me as a toe or a finger, or perhaps as a dream or a recollection.
+
+And finally, a literary interface is a material artifact. By this I mean that something like a pen, paper, a computer screen, or a keyboard is involved in the practice of using literary interfaces. Just like an elevator button, literary interfaces are physical objects. They come into being through usage, and make no sense as discrete objects, as in the case of the elevator control panel removed from the passenger and the mechanism of the elevator. Or rather, I should say that elevator buttons make no sense removed from the action of pressing buttons and transporting things and people between floors. An interface is a kind of a verbalized noun—its understanding must come not just in the examining the artifact, but in examining the artifact in action. Only in action can we observe the momentary unity between the literary, the cognitive, and the artifactual.
+
+
+Engelbart and Heidegger
+### Engelbart
+### Extended cognition
+
 
 ### 1.2.3 Heidegger's Technology
 "A text editor is often the primary interface between a user and the system, and the program with which most user time is spent. Accordingly, an editor has to be easy to use, and efficient of the user's time--editing commands have to 'flow off the fingertips.' [@kernighan1978, 2117]."
@@ -297,6 +318,7 @@ Containing an argument for text as an interface between human and machine. Histo
 Southall. Interfaces between the designer and the document
 
 It may seem at first a bit odd to put the words "style" and "cognition" in the same sentence, but the concept of "cognitive style" is well-articulated in the scientific literature on the psychology of personality. The idea of cognitive stylistics was developed first by the American followers of Carl Jung, who like Katharine Cook Briggs and her daughter Isabel Briggs Myers (of the still ubiquitous Myers-Briggs Type Indicator offered by career placement centers across the country) were interested in applying insights from quantitatively-based psychological observation (psychometrics) to problems of labor and education. In the early 1950s, the idea of "personality type" gave way to "cognitive style" in the work of psychologists George Klein, Philip Holzman, Riley Gardner, and Herbert Schlesinger.1 For this new generation of scholars, the concept meant something like "the individual differences in adaptive modes of organizing and experiencing the stimulus world."2 That is to say that people simply have or develop a preference for a particular mode of thinking about and perceiving the world. Or even simpler: "everyone does it in his own way."3 Thus, in an early experiment Gardner observes a group of people categorizing objects by size, shape, and color. Predictably, different people perceive the differences between size, shape, and color in differing gradations.4 The converse of this experiment suggests also that certain modes of material organization favor a particular style of thought. We may assume, for example, that certain ways of organizing the world attract or "make sense" to a particular type of person. In the literature on education, the concept is therefore popular within the discussion of learning styles, by which teachers are encouraged to present their material in ways accessible to students with varying preferences for visual, auditory, tactile, or kinesthetic learning.
+
 The hypothesis of cognitive styles underlies a particular belief about the connection between mental organization and the organization of objects in the real world. It is what Heidegger called "the correlation between being, word, gathering, hand, and writing"5 and perhaps what Nietzsche meant when he wrote that "our writing tools are also working on our thoughts."6 Heidegger in particular is often cited in this regard. In his meditation on Parmenides, delivered as a series of lectures during the war at the University of Freiburg, Heidegger is clearly bothered by what he perceives as the "irruption of the typewriter into the realm of the world of handwriting."7 Ever in search of essences, he imagines hand-writing to possess a special kind of magic, denoting "an original essential nexus, to which the indicating writing-hand belongs." He continues to say that:
 [...] in handwriting the relation of Being to man, namely the word, is inscribed in beings themselves. The origin and the way of dealing with writing is already in itself a decision about the relation of Being and of the word to man and consequently a decision about the comportment of man to beings and about the way both, man and thing, stand in unconcealedness or are withdrawn from it.8
 
@@ -336,61 +358,131 @@ Engelbart's dreams.
 Transcription of speech was a major concern for the various stenographic movements in the English-speaking world, which go back the publication of Timothy Bright's Characterie: An Arte of Shorte, Swifte Secrete Writing by Character in 1588. In the introduction to this slim volume, Bright writes that his work was inspired by the "speedie kind of writing by character" mentioned first in Plutarch's Life of Cato the Younger, improved upon by Seneca, and then lost to history.1 
 
 "The uses and diuers: short, that a swifte hande may therewith write orations or publike actions of speach, uttered as becometh the grauitie of such actions, verbatim. Secrete, as no kinde of wryting like, and herein (besides other properties) excelling the wryting by letters, and alphabet, in that, nations of strange languages, may hereby communicate their meaning together in writing, through of sundrie tongues, it is reported of the of the people of China, that they have no other kinde, and so traffike together many Prouinces of that kingdom, ignorant one of an others speach. Their characters are very long, and harde to make, that a dousen of mine, may be written and soone as one of theirs; besides, they wanting an alphabet, fal into an infinite number, which is a thing that greatlie chargeth memory, and may discourage the learner.2
+
 The task of stenography then, from its early modern inception was first to bring handwriting closer to the speed of speech, and second, to imagine a universal alphabet that could be used by speakers of all languages and dialects. In modern terms, we might say that stenography was concerned first and foremost with our ability to cope with an increasing amount of information, and second with the international standardization of character encoding (that is, with the universal transmission of information). In The Elements of Tachygraphy, first published in 1869, David Philips Lindsley writes: 
 Though we depend upon facilities to aid in mental and moral advancement, as much as in physical, yet we have been slow to apply to the mental and moral elevation of the race the principles that have enabled us to develop our material resources. Inventions to aid in the commerce of ideas are no less essential than those which we have realized in the interchange of coarser commodities. The art of writing was the original lever by which the race was at first raised above barbarism. Successive improvements in this art have marked the epochs of the greatest mental activity.3
+
 In this program we thus see the birth of the intellect augmentation movement of the mid-twentieth century. The contemporary Unicode universal character encoding standard, used for the representation of text for computer processing is the natural development of this program. The unicode.org website mirrors Bright's Characterie in defining Unicode as "a consistent way of encoding multilingual plain text," which "brings order to a chaotic state of affairs that has made it difficult to exchange text files internationally."4
 
 By the late 19th century stenography existed as a full-blown international movement concerned with universal spelling reform. John Westby-Gibson's The Bibliography of Shorthand contains no fewer than twenty volumes on the subject in the first half of the 17th century, thirty-six titles in the second half, fifty-six titles in the 18th century, and more than four thousand entries for the 19th century. This publishing activity was supported by the proliferation of stenographic societies across France, Germany, England, and the United States—many of these with regional chapters and publication organs. Westby-Gibson himself was editor of Shorthand; President of The Shorthand Society from 1886 to 18887; honorary member of the Shorthand Writers' association, London Branch; honorary member of the Manchester Shorthand Writers' Association; honorary Secretary and founder of the International Shorthand Congress, 1887; and finally, Chairman-elect of the Historical and Literary Section of the International Shorthand Congress.5 The meetings of these societies were often accompanied by public speeches and poem recitations, dully taken down by the stenographers in attendance. The 1843 issue of the Phonotypic Journal, supported by Isaac Pitman's Phonographic Institution contains the following several poems from the Nottingham and the Birmingham Phonetic Festivals:
 From the proceedings of the
-Nottingham Phonetic Festival
-June 6, 1843
-Held in the Exchange Hall 
-
-Phonographers, awake, arise!
-Nor think of slumber more;
-This science, from our island home,
-Shall spread from shore to shore 
-
-[...]
-Then sound the trumpet loud,
-Shake, shake the ethereal arch!
-Till heaven re-echo, earth re-sound
-The phonographic march!
-
-Our boasted name is legion,
-A host of writing men;
-We'll deluge nations with our ink,
-And conquer with our pen!
-[great applause]
-
-From the proceedings of the
-Birmingham Phonetic Festival
-July 18th 1843, Held in the Assembly Room of Dees Royal Hotel 
-
-O, this is the age for inventions! I 'm sure;
-There never were heard of so many before;
-We have flying aerials, drawing by light,
-And a long list of other that give us delight.
-The wonders of steam we may daily behold, 
-And science will still many glories unfold;
-But sear the whole range of this busy world round,
-The most wonderful wonder is Writing by Sound.
-Then write away, fly away; did you not dream
-That Britons ere long would be writing by steam?
-Your dream's nearly true, but steam it is found
-Won't do for the work, so we're writing by sound.
 
 The stenographers of the 19th century understood their movement as the kind of a global phenomenon that approximates our contemporary understanding of the internet and social networking. Again Lindsley from The Elements of Tachygraphy:
 When Tachygraphy shall be generally known and used, an electric thrill of life will run through our communities, awakening new sympathies, and forming bonds of union long dissevered. What railroads have done in bringing friends together that could otherwise never interchange a visit during a lifetime, brief writing will do, in bringing minds together that would, without it, communicate with too much difficulty to be able to continue the acquaintance begun in youth; and aid in extending that more valuable interchange of thought among those of similar tastes, which tends both to the perfection of our knowledge of science, and its general diffusion.6
 
 In this project stenography and typewriting technologies compete for the same vision of augmenting the natural human facilities of information processing and knowledge dissemination.7 Stenography is understood here as a thoroughly modern and modernizing technology that does for the mental and moral development what the steam engine and areal flight did for the material realm.
 
-## 1.3 Document as Vector
+# Part 2: Computer
+
+## 2.2 Medium, Message, Mode: McLuhan was Wrong
+Key terms: media, message, mode
+
+### Intro
+What happens in the change from speaking to writing? The violin (copy from dissertation here).
+
+Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
+
+### Semiotics of Saussure vs. Peirce
+
+### McLuhan
+McLuhan's Understanding Media is a fitting companion to the modern conversation on extended cognition, first because it announces its allegiance to the hypothesis openly and from the very first lines of the treatise, and second because it so readily exceeds the hypothesis rhetorically, falling into the traps of metaphoric imprecision and limitless expansion. For those unfamiliar with the work, it would be useful to know that McLuhan conceives of his project as a study "on the extensions of man." He writes:
+During the mechanical ages we had extended our bodies in space, today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace [...] Rapidly we approach the final phase of the extensions of man—the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society, much as we have already extended our senses and our nerves by the various media.1
+Granted, McLuhan's writing lacks the precision of HEC, which is advanced from the platforms of analytic philosophy and cognitive science. And yet, it is clear that throughout Understanding Media, McLuhan is committed to a version of the extended mind hypothesis, which in his vocabulary translates into a vision of global, limitless expansion of consciousness, facilitated by technology. For McLuhan our collective "nervous system" is "technologically extended to the whole of mankind."2 Such holistic monism is declared literally as a matter of faith. "The aspiration of our time for wholeness, empathy, and depth of awareness is a natural adjunct of electric technology," he writes. "There is a deep faith to be found in this new attitude—a faith that concerns the ultimate harmony of all being."3 And elsewhere: "In this electric age we see ourselves being translated more and more in to the form of information, moving toward the technological extension of consciousness."4 And yet despite the frequency with which this refrain appears in the book, the author does little to argue for it. We are asked to subscribe to the extension thesis as a matter of apriori intuition. Nothing has been said to bolster the claims of the extension, and most of McLuhan subsequent argument hinges on the reader accepting this strong version of extension.
+    Consider for example McLuhan's quintessential "the medium is the message" argument. I have shown elsewhere that we cannot take this to be literally true. The principles of information theory would hold that the medium is precisely content-neutral, particularly when it comes to the transmission of digital information. So what exactly does McLuhan means by "the medium is the message?" We must begin by understanding what he means by "the medium" and "the message." In one sense, he means the media to denote the conventional array of transition channels: radio, cinema, literature, television. But in another sense, he means these transition channels to act literally as extensions of the human sense apparatus. For example, in the beginning of chapter he writes that "the social consequences of any medium—that is, of any extension of ourselves—result from the new scale that is introduced into our affairs by each extension of ourselves, or by any new technology."5 Elsewhere he writes that "[...] that our human senses, of which all media are extensions, are also fixed charges [...]."6 The medium, for McLuhan, is thus a marked concept, different from its dictionary definition in that it contains the hypothesis of sense-extension.
+    The message in McLuhan's sense is equally specialized, and again related to the extension hypothesis. "The 'message' of any medium or technology is the change of scale or pace or pattern that introduces into human affairs," writes McLuhan.7 In this sense the message should not be confused with "content" or "information." The idea of content only obscures the fact "it is the medium that shapes and controls the scale and form of human association in action."8 If media and messages are beginning to sound the same according to these definitions, it is because for McLuhan they explicitly are the same: "the content of writing or print is speech,"9 he writes, and "the 'content' of any medium is always another medium."10
+    But this really is no thesis at all. McLuhan's dictum would not find cultural relevance if his famous dictum was merely a tautology. "The medium is the message" roughly translates into the proposition that all media, besides carrying their formal content (or no content at all, as is the case with electric light in McLuhan's initial example) affect our collective psyche in some way—in other words, a more generalized, popular version of our extension hypothesis. But how committed is McLuhan to the analogy between media and "extended consciousness" or "externalized nervous system." Not very. The metaphor is alluring but imprecise. For McLuhan everything has the potential to be mediafied—money, labor, technology, culture. It is all vaguely "an extension of man," not just the extension of the senses, corporeal, or cognitive extension. All products of human culture end up reconfiguring human culture as such—that is the "message" of McLuhan's thesis.
+What is at stake here for us? What does the extension hypothesis mean for the study of human culture? Well, for one let's note that practically all examples of extended cognition in the wild—I dare say all thought experiments mentioned or staged in the literature on HEC—involve literary interfaces. Extended cognition in that sense requires the storage and retrieval of information, facilitated by a symbolic notation system, and a medium on which such information can be stored for later retrieval. For Otto, this system involved a notebook, a calendar, or a planner perhaps. For the pilots in the cockpit, the flow of information also proceeds across devices which accept input and offer output in symbolic notation: the number on the altimeter dial, the iconographic status indicators, the keypad, and the control panel. It is also worth noting that all such systems and devices are essentially dumb instruments. They become "cognitive" only in the moment of interaction. Without Otto, the pen and paper does nothing. It comes to life only at the point of interface.
+The second observation we must make is that the hypothesis of extended cognition brings the mind out of the head and into the material sphere of existence. Taking HEC seriously means to supplement fMRI-based cognitive science with anthropological, social observation of cognition at work. And since we are talking about tools and habits of thought (rather than neurons, or brain-matter) we must acknowledge that the formation of the mind, at least in the extended sense, can span beyond one's own, private mental development. Extended, the mind gains a shared history.
+HEC also implies that the long-standing anxiety over the impact of cognitive aids on our natural human capacities—an anxiety that has been around at least since the times of Socrates, an anxiety that is clearly expressed in Heidegger's philosophy of technology, and that is featured prominently in the recent cautionary tales of human decline by Richard Foreman and Nicholas Carr—that anxiety has at least the merit of considering the mind in its embodied, contextualized form. The critique acknowledges the impact of technology on our mental habits. But the negative value assessment is the least interesting part of that argument. Cognitive aids are only as "good" or as "bad" as the purposes for which they are used. If calculators have diminished our capacity to do math in our heads, they have also alleviated much tedium involved in mundane everyday arithmetic—at the bank, at the supermarket, and at home. And few would argue that mass literacy (as a technology) had anything but a positive effect on our society, and that despite whatever effects literacy may have on our "natural" ability to remember things without writing. "Natural" is, in this case, an artificial construct, tied to one's willingness to engage in nostalgic reverie about an idyllic state of unadulterated past.
+
+## 3.1 Network, Intertext: Bad Links
+Intertextuality, Symbolic links
+
+### Gwern
+I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern* itself. I hesitate to call it a website, because it is a site so hostile to the web. "So I did not wish to write a blog," the eponymous Gwern writes: 
+
+>  [...] most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are [quickly](http://web.archive.org/web/20140126034548/http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&) [abandoned](http://web.archive.org/web/20140126035203/http://www.caslon.com.au/weblogprofile1.htm) - and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible [ROI](http://web.archive.org/web/20140126035340/http://en.wikipedia.org/wiki/Rate_of_return) for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts - works in progress.[^18] So I did not wish to write a blog. 
+
+It contains no moving images, no pictures, to sound, and no code. It is a static site, that is to say it is compiled once, on the authors box and not generated dynamically, in response to a individual reader's visit. *gwern* is static, showing its visitor "pre-printed" pamphlet-like pages. But prints and pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to misquote @Drucker).^[LN2] What is it, if it is not a blog?
+
+Just to make sure *gwern* did not disappear, I took a "snapshot" on January 24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a mechanism to caputure a fixed version of the document. Unilike paper, text on the web is never fixed. In fact, thinking of published documents (books, newspapers, and journals) as a type of a "screenshot" helps understand the the semantic slide between "paper" and "pixel." The medium does not matter (and certainly not the message). In the few seconds that I am fixing the pixels into a canonical version of the text, the author/s of *gwern* may have advanced the same text conceptually, creating a new and diverging "branch" of the entity at hand. That is why we must write "date accessed" in the bibliography. The footnote traditionally points to material in the real world. The pixel is virtual. The two differ in the state of being. One is emergent, and the other, actualized. It is likely that the page has always acted this way: to serve as a momentary textual glimpse into the eternal world of thought. The difference lies in an evolving organism and its ossified imprint.
+
+Internet archive. "Saved 152 times between May 5, 2011 and January 26, 2014." That means that the page became static print 152 times. In all other actualitites, it remained evolving and potentually infinite.^[Infinite in the sense human lives are infinite in comparison to pages.]
+
+Well connected: Kevin Kelly, Eliezer Yudkowsky's blog.
+We read and archive our experience of reading.
+
+[LN1]: http://web.archive.org/web/20140126025146/http://www.gwern.net/About
+[LN2]: http://web.archive.org/web/20140126030328/http://lareviewofbooks.org/essay/pixel-dust-illusions-innovation-scholarly-publishing
+[LN3]:
+[18]: Examples of such blogs:
+
+1. [Eliezer Yudkowsky’s](https://web.archive.org/web/20140126040858/http://en.wikipedia.org/wiki/Eliezer_Yudkowsky) contributions to [LessWrong](https://web.archive.org/web/20140126041017/http://lesswrong.com/) were the rough draft of a philosophy book (or two)
+2. John Robb’s [Global Guerrillas](http://web.archive.org/web/20140126041136/http://globalguerrillas.typepad.com/) lead to his [Brave New War: The Next Stage of Terrorism and the End of Globalization](http://web.archive.org/web/20140126041301/http://www.amazon.com/exec/obidos/ASIN/0471780790/?tag=gwernnet-20)
+3. [Kevin Kelly’s](http://web.archive.org/web/20140126041441/http://en.wikipedia.org/wiki/Kevin_Kelly) [Technium](http://web.archive.org/web/20140126041640/http://kk.org/thetechnium/) was turned into [What Technology Wants](http://web.archive.org/web/20140126042029/http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0670022152/?tag=gwernnet-20).
+
+An example of how not to do it would be [Robin Hanson‘s](http://web.archive.org/web/20140126042143/http://en.wikipedia.org/wiki/Robin_Hanson) [Overcoming Bias](http://web.archive.org/web/20140126042246/http://www.overcomingbias.com/) blog; it is stuffed with fascinating citations & sketches of ideas, but they never go anywhere. Just his posts on [medicine](http://web.archive.org/web/20131115012232/http://www.overcomingbias.com/) would make a fascinating essay or just list - but he has never made one. ([“Showing That You Care: The Evolution of Health Altruism”](http://web.archive.org/web/20140126042648/http://hanson.gmu.edu/showcare.pdf) would be a natural home for many of his posts’ contents, but will never be updated.)
+### Hypertext
+Ted Nelson.
+Rise of intertextuality. The promise of hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links here.
+It is my intention here to convince you that links are bad. They are bad when it comes to writing for the web in general, bad for books, bad for long-form journalism, and even worse in academic publication. It is not that I am against the idea of links. As we will see here, the problem lies in the way links are used. That is also to say that we can do something about using links better. But first, why are links so bad?
+
+To start with, links are opaque. The worst of lot are links like this and this. Of the two “thises,” the first leads us to Google and the second to Bing. But your readers would not know that just by looking at the text. The best they can do is “hover” over the word with their mouse cursor, relying on the browser interface to show them where the link is going. And once they get there, there are no easy ways to get back. The writer must have faith in the browser to “do the right thing” in guiding the reader through an intertextual maze. And that is not right when it comes to writing. In most situations, the author should architect that experience explicitly. If you think about it, the old-fashioned apparatus of quoting an external text is itself a type of linking. But rather than quoting the whole text, the author only quotes the relevant bits. Sending readers away to do that work on their own is lazy and irresponsible. Imagine a tour guide who tells his tourists to “just go over there and look at some stuff,” and “come back when you’re done.” Links can be that disorienting.
+
+Links disrupt the reading experience, and that is the second reason for why links are bad. It is possible that you want the reader’s experience to be disrupted. But in many cases you don’t. And the reader is already distracted by the proliferation of parallel windows and devices that augment their reading in some way. Do we need to make that distraction easier? Should I link the Wikipedia article on media multitasking or is it enough for my purposes to simply mention Wikipedia, or to trust my reader to look something up later, in a reference source of their own choosing? Or better yet, should I help the reader along by summarizing the findings? It mentions that most folks already read with a second screen in tow. It is not that unusual to see someone look something up on their phone or tablet while reading a newspaper or an e-book. Why? Because they don’t want to leave the flow of the first screen. There is great pleasure in immersive, uninterrupted reading.
+
+Besides being disruptive, links are ugly. They are ugly together, as in when many links conspire to produce a tangled mess. And they are also ugly when naked on their own, like this: https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit. That string of characters is not meant for human consumption! The period at the end kills me entirely. Meaningless punctuation inside of links coupled with regular punctuation ruins the sentence and the paragraph. Of course, I could just tell you to read something on Google Docs. That looks much better, but then we are making the opaqueness problem worse by hiding the address behind words that may or may not be related to the destination. It seems that we are stuck compromising on either transparency, reading flow, or visual impact.
+
+Links aren’t very secure to begin with, but hiding links behind words further compromises security. You’ve probably heard of link-baiting: the purposefully malicious attempts to trick a reader into revealing personal information when following a link that masquerades as a legitimate destination. You can visit my site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t worry, that was the real Google login page.) But even if one means well, viruses and browser exploits can inject bad links into your otherwise legitimate ones. A common technique is to install a browser script along with some seemingly useful “search bar” that will redirect all legitimate links to a site that makes money by advertising. Worse yet, you could end up on a site that attempts to further compromise your computer. Links are not secure because in linking, we outsource the relationship between reader and content to the browser.
+
+Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last because the content at the address is dynamic. It is not guaranteed to be there decades, months, minutes after your initial visit. In that case, why even bother? The link works best for ephemeral output (like a tweet). We must think of something much more robust for any “serious” writing that hopes to survive to the end of the week. And for the really good stuff, the kind of stuff that is the purview of librarians, we need to cultivate sustainable, long-lasting, responsible practices of online citation. It should work as well, if not better, than the familiar bibliographic citation in print. This practice should combat digital decay, not aid it. We need to think about the ways our links can be accessed, mined, and preserved with the archive-grade zeal of the rare book librarian.
+
+Finally, links are terrible for accessibility. It is bad enough that clicking on a small word like this is difficult for people with any sort of fine-motor control problems. Being a little older in itself can make the online reading experience painful. Things are much worse for those with Parkinson’s or for the blind. Sina Bahram, a blind usability expert (who is himself blind) reports that some sites contain thousands (!) of links in advance of actual content. Screen readers for the blind must read each one of them out loud. For the screen reader, there is no difference between garbage links and useful content. If you thought looking at links is disruptive, imagine listening to a robotic voice that pronounces every slash and every useless number in: http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens to his reader at 950 words per minute.
+
+Any one of these issues alone should give us pause. Together, they are a cause of grave concern. How did we get here? And what can we do to make links good again?
+
+How did we get here is not an easy question. A part of the story is surely the excitement we once felt about hypertext. Links were supposed to break the hegemony of linear narrative, ushering in a new interconnected world. To some extent the dream came true. But links also brought with them such things as Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among other things, the number of incoming and outgoing links. This bias for connectivity encourages “link farms”: sites that attempt to game the system by aggregating links or cross-linking their own content. A sure sign of a vacuous SEO-driven piece of writing is a certain cynical and strategic use of links to other popular sources. How long until the SEO logic infects poetry, fiction, or investigative journalism?
+
+What can we do to make links better? There are a few things we all can do now. First, let’s use links sparingly. Think smartly about whether you need to link or whether you can make do with a good, old-fashioned quote or citation.  Don’t link just because you can. Second, link explicitly: Youtube.com is better than this. Third, realize that online content is dynamic. It makes no sense to link a dynamic resource when the intent is to create a link to a static version of a document. Tools like the Save Page Now service, hosted by the Internet Archive, do just that. You can find this essay at http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best captured in a snapshot here: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/. Finally, do not neglect the humble footnote. Footnotes provide a nice blend between usability, transparency, and good knowledge design.
+
+1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
+## 3.1 Noise, Information: Freedom of
+Doctorow. Information "wants to be free"
+Information is intentional. Against the "cybernatic" formal definitions. 
+
+@nyquist certain factors affecting telegraph speed
+@hartley transmission of information
+
+Kant, Schiller on beauty as freedom on beauty as freedom
+Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
+
+Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
+Makukov. Directed pan-spermia.Life Sciences in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper: http://arxiv.org/abs/1303.6739 
+
+What is information? The difference that makes a difference. Bateson's definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion in that paper. Noise and information seem to be the same! Thermodynamic explaination. Transmitting things in stone (low entropy) vs. transmitting them through the air (high entropy). Does a block of wood have more "information" than a novel? This definition cannot account for it really.
+
+Extended cognition hypothesis. Get this text from disertation. The monism problem.
+
+Formal vs. instrumental definitions. Information is that which moves form a Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information be coersed? Both on the sending and the recieving end. Can someone admit something is music by force? Can you force information. The deer and the tick. The deer does not "send" bodyheat information. The tick receives information as it does receive the action of gravity. Does a mountain erode from the top because it recieves information from the outside? Information here is simply used as a synonym for some material state of the univrse and the causal relationship between forces. Causality alone is not information. Laws of physics are not information. Well, unless...
+
+Mis information. Man in the middle attacks. Information is intentional. Mind to mind communication. Where does the thought originate? Freedom. Free intent. Identity of coding and decoding is not necessery. What is however necessary is the 
+
+Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.org/abs/1405.5563
+
+ 
+
+
+# Part 3: Human
+
+## 3.1 Document, Vector, Archive: Recursive Encounters with Oneself 
+What does it mean to know something?
+Sartre and Beckett.
 ### Recursive Encounters with Oneself
 
 Text as vector. Barthes: text as "an organism which grows by vital expansion [@barthes1978, 161]." " "The metaphor of the Text is that of the *network* [@barthes1978, 161]." 
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a vector. The problem of annotation. What are we annotating? Annotation solutions force a platform. Is Hamlet a platonic object? A family of related objects? Standard English editions in Europe.
+
 ### Problem of Drafts and Versions
 Documents as vectors. Not completed things. Files as cognitive scaffolding for collective memory. Vissman. 
 
@@ -487,63 +579,32 @@ The separation between mode and medium allows us to retain a certain clarity of 
 
 Armed with these insights, we can now return to the perhaps obvious idea that Krapp's collection could not exist without the particular technology of the tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its portability, power source, size, search capacity, price, and yes, even the shape of the reel and the tape recorder. It is at this point, that I am able to restate the broadly historical thesis of this section: that these very same attributes have enabled a shift in the collecting practices of the western world—transposing the locus of our archival practice from the institutional to the private sphere.
 
-### File 
-
-
-# Part 2: Form 
-
-## 2.1 Not the Message 
-Key terms: media, message, mode
-
-### Intro
-What happens in the change from speaking to writing? The violin (copy from dissertation here).
-
-Attunement of listener. Message stays the same. Put a ear, eye, hand to the pipe. Same message, same medium, different mode.
-
-### Semiotics of Saussure vs. Peirce
-Krap's Last tape here. 
 Who are you communicating with? Pushing yourself through the pipe. The appointment with myself. The sum-total of material substratum. Building a wider platform. Todo, email, diary, music collection. Burning building-we grab our memories, and hoarding the disfunction of that personal sediment. You are the sum-total of your modalities. Commitments to self. Attunement of self. The message is you. Preserving ourself from entropy. 
 
 Books are not media they are platforms. Platform is all of the above. Plus the economic / cultural contexts. Amazon Kindle is a platform. Who are you communicating with? Yoursef. What is the message. Ultimtely, it is a message of self-identity. 
-
-### McLuhan
-McLuhan's Understanding Media is a fitting companion to the modern conversation on extended cognition, first because it announces its allegiance to the hypothesis openly and from the very first lines of the treatise, and second because it so readily exceeds the hypothesis rhetorically, falling into the traps of metaphoric imprecision and limitless expansion. For those unfamiliar with the work, it would be useful to know that McLuhan conceives of his project as a study "on the extensions of man." He writes:
-During the mechanical ages we had extended our bodies in space, today, after more than a century of electric technology, we have extended our central nervous system itself in a global embrace [...] Rapidly we approach the final phase of the extensions of man—the technological simulation of consciousness, when the creative process of knowing will be collectively and corporately extended to the whole of human society, much as we have already extended our senses and our nerves by the various media.1
-Granted, McLuhan's writing lacks the precision of HEC, which is advanced from the platforms of analytic philosophy and cognitive science. And yet, it is clear that throughout Understanding Media, McLuhan is committed to a version of the extended mind hypothesis, which in his vocabulary translates into a vision of global, limitless expansion of consciousness, facilitated by technology. For McLuhan our collective "nervous system" is "technologically extended to the whole of mankind."2 Such holistic monism is declared literally as a matter of faith. "The aspiration of our time for wholeness, empathy, and depth of awareness is a natural adjunct of electric technology," he writes. "There is a deep faith to be found in this new attitude—a faith that concerns the ultimate harmony of all being."3 And elsewhere: "In this electric age we see ourselves being translated more and more in to the form of information, moving toward the technological extension of consciousness."4 And yet despite the frequency with which this refrain appears in the book, the author does little to argue for it. We are asked to subscribe to the extension thesis as a matter of apriori intuition. Nothing has been said to bolster the claims of the extension, and most of McLuhan subsequent argument hinges on the reader accepting this strong version of extension.
-    Consider for example McLuhan's quintessential "the medium is the message" argument. I have shown elsewhere that we cannot take this to be literally true. The principles of information theory would hold that the medium is precisely content-neutral, particularly when it comes to the transmission of digital information. So what exactly does McLuhan means by "the medium is the message?" We must begin by understanding what he means by "the medium" and "the message." In one sense, he means the media to denote the conventional array of transition channels: radio, cinema, literature, television. But in another sense, he means these transition channels to act literally as extensions of the human sense apparatus. For example, in the beginning of chapter he writes that "the social consequences of any medium—that is, of any extension of ourselves—result from the new scale that is introduced into our affairs by each extension of ourselves, or by any new technology."5 Elsewhere he writes that "[...] that our human senses, of which all media are extensions, are also fixed charges [...]."6 The medium, for McLuhan, is thus a marked concept, different from its dictionary definition in that it contains the hypothesis of sense-extension.
-    The message in McLuhan's sense is equally specialized, and again related to the extension hypothesis. "The 'message' of any medium or technology is the change of scale or pace or pattern that introduces into human affairs," writes McLuhan.7 In this sense the message should not be confused with "content" or "information." The idea of content only obscures the fact "it is the medium that shapes and controls the scale and form of human association in action."8 If media and messages are beginning to sound the same according to these definitions, it is because for McLuhan they explicitly are the same: "the content of writing or print is speech,"9 he writes, and "the 'content' of any medium is always another medium."10
-    But this really is no thesis at all. McLuhan's dictum would not find cultural relevance if his famous dictum was merely a tautology. "The medium is the message" roughly translates into the proposition that all media, besides carrying their formal content (or no content at all, as is the case with electric light in McLuhan's initial example) affect our collective psyche in some way—in other words, a more generalized, popular version of our extension hypothesis. But how committed is McLuhan to the analogy between media and "extended consciousness" or "externalized nervous system." Not very. The metaphor is alluring but imprecise. For McLuhan everything has the potential to be mediafied—money, labor, technology, culture. It is all vaguely "an extension of man," not just the extension of the senses, corporeal, or cognitive extension. All products of human culture end up reconfiguring human culture as such—that is the "message" of McLuhan's thesis.
-What is at stake here for us? What does the extension hypothesis mean for the study of human culture? Well, for one let's note that practically all examples of extended cognition in the wild—I dare say all thought experiments mentioned or staged in the literature on HEC—involve literary interfaces. Extended cognition in that sense requires the storage and retrieval of information, facilitated by a symbolic notation system, and a medium on which such information can be stored for later retrieval. For Otto, this system involved a notebook, a calendar, or a planner perhaps. For the pilots in the cockpit, the flow of information also proceeds across devices which accept input and offer output in symbolic notation: the number on the altimeter dial, the iconographic status indicators, the keypad, and the control panel. It is also worth noting that all such systems and devices are essentially dumb instruments. They become "cognitive" only in the moment of interaction. Without Otto, the pen and paper does nothing. It comes to life only at the point of interface.
-The second observation we must make is that the hypothesis of extended cognition brings the mind out of the head and into the material sphere of existence. Taking HEC seriously means to supplement fMRI-based cognitive science with anthropological, social observation of cognition at work. And since we are talking about tools and habits of thought (rather than neurons, or brain-matter) we must acknowledge that the formation of the mind, at least in the extended sense, can span beyond one's own, private mental development. Extended, the mind gains a shared history.
-HEC also implies that the long-standing anxiety over the impact of cognitive aids on our natural human capacities—an anxiety that has been around at least since the times of Socrates, an anxiety that is clearly expressed in Heidegger's philosophy of technology, and that is featured prominently in the recent cautionary tales of human decline by Richard Foreman and Nicholas Carr—that anxiety has at least the merit of considering the mind in its embodied, contextualized form. The critique acknowledges the impact of technology on our mental habits. But the negative value assessment is the least interesting part of that argument. Cognitive aids are only as "good" or as "bad" as the purposes for which they are used. If calculators have diminished our capacity to do math in our heads, they have also alleviated much tedium involved in mundane everyday arithmetic—at the bank, at the supermarket, and at home. And few would argue that mass literacy (as a technology) had anything but a positive effect on our society, and that despite whatever effects literacy may have on our "natural" ability to remember things without writing. "Natural" is, in this case, an artificial construct, tied to one's willingness to engage in nostalgic reverie about an idyllic state of unadulterated past.
-
-## 2.2 Freedom of Information
-Doctorow. Information "wants to be free"
-Information is intentional. Against the "cybernatic" formal definitions. 
-
-@nyquist certain factors affecting telegraph speed
-@hartley transmission of information
-
-Kant, Schiller on beauty as freedom on beauty as freedom
-Information as entropy. The strangeness of Weaver's "information as entropy". How much information in a brick? In a novel? Information as a possibility.
-
-Freedom and information seem to have nothing to do with each other. They have everything to do with each other.
-Makukov. Directed pan-spermia.Life Sciences in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper: http://arxiv.org/abs/1303.6739 
-
-What is information? The difference that makes a difference. Bateson's definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion in that paper. Noise and information seem to be the same! Thermodynamic explaination. Transmitting things in stone (low entropy) vs. transmitting them through the air (high entropy). Does a block of wood have more "information" than a novel? This definition cannot account for it really.
-
-Extended cognition hypothesis. Get this text from disertation. The monism problem.
-
-Formal vs. instrumental definitions. Information is that which moves form a Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information be coersed? Both on the sending and the recieving end. Can someone admit something is music by force? Can you force information. The deer and the tick. The deer does not "send" bodyheat information. The tick receives information as it does receive the action of gravity. Does a mountain erode from the top because it recieves information from the outside? Information here is simply used as a synonym for some material state of the univrse and the causal relationship between forces. Causality alone is not information. Laws of physics are not information. Well, unless...
-
-Mis information. Man in the middle attacks. Information is intentional. Mind to mind communication. Where does the thought originate? Freedom. Free intent. Identity of coding and decoding is not necessery. What is however necessary is the 
-
-Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.org/abs/1405.5563
-
- 
+### File 
 
 
-## 2.3 We Have Always Been Digital
+## 3.2 Code, Poetry: Secrecy and Surveillance 
+### 2.4.1 Introduction
+Code and poetry. These words were meant to be together.
+
+F. C. Bakewell's Copying Telegraph secrecy already built in.
+Privacy, secrecy, surveillance, and transparency.
+Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
+
+Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that dumb-pipe email is unmediated, and therefore it's a business that Google wants to get out of as soon as it can."
+
+" It's also why I believe Google will kill Gmail as soon as it comes up with a mediated alternative everyone loves. Of course, Google may offer an antiquated "Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated experience."
+
+Alice, Bob, Caryl. 
+http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
+
+Zimmermann responded by publishing the source code as a book, an act that was constitutionally protected as free speech. 
+
+### Identity
+Anonymous authorship.
+## 3.3 Analog, Digital: Human Condition 
 
 ### Introduction 
 The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
@@ -569,86 +630,6 @@ The conversation between Goodman and Genette. Goodman's "Art and Authenticity." 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria for resemblance between documents"
-# Part 3: Content 
-
-## 3.1 Bad Links
-Intertextuality, Symbolic links
-
-### Gwern
-I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern* itself. I hesitate to call it a website, because it is a site so hostile to the web. "So I did not wish to write a blog," the eponymous Gwern writes: 
-
->  [...] most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are [quickly](http://web.archive.org/web/20140126034548/http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&) [abandoned](http://web.archive.org/web/20140126035203/http://www.caslon.com.au/weblogprofile1.htm) - and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible [ROI](http://web.archive.org/web/20140126035340/http://en.wikipedia.org/wiki/Rate_of_return) for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts - works in progress.[^18] So I did not wish to write a blog. 
-
-It contains no moving images, no pictures, to sound, and no code. It is a static site, that is to say it is compiled once, on the authors box and not generated dynamically, in response to a individual reader's visit. *gwern* is static, showing its visitor "pre-printed" pamphlet-like pages. But prints and pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to misquote @Drucker).^[LN2] What is it, if it is not a blog?
-
-Just to make sure *gwern* did not disappear, I took a "snapshot" on January 24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a mechanism to caputure a fixed version of the document. Unilike paper, text on the web is never fixed. In fact, thinking of published documents (books, newspapers, and journals) as a type of a "screenshot" helps understand the the semantic slide between "paper" and "pixel." The medium does not matter (and certainly not the message). In the few seconds that I am fixing the pixels into a canonical version of the text, the author/s of *gwern* may have advanced the same text conceptually, creating a new and diverging "branch" of the entity at hand. That is why we must write "date accessed" in the bibliography. The footnote traditionally points to material in the real world. The pixel is virtual. The two differ in the state of being. One is emergent, and the other, actualized. It is likely that the page has always acted this way: to serve as a momentary textual glimpse into the eternal world of thought. The difference lies in an evolving organism and its ossified imprint.
-
-Internet archive. "Saved 152 times between May 5, 2011 and January 26, 2014." That means that the page became static print 152 times. In all other actualitites, it remained evolving and potentually infinite.^[Infinite in the sense human lives are infinite in comparison to pages.]
-
-Well connected: Kevin Kelly, Eliezer Yudkowsky's blog.
-We read and archive our experience of reading.
-
-[LN1]: http://web.archive.org/web/20140126025146/http://www.gwern.net/About
-[LN2]: http://web.archive.org/web/20140126030328/http://lareviewofbooks.org/essay/pixel-dust-illusions-innovation-scholarly-publishing
-[LN3]:
-[18]: Examples of such blogs:
-
-1. [Eliezer Yudkowsky’s](https://web.archive.org/web/20140126040858/http://en.wikipedia.org/wiki/Eliezer_Yudkowsky) contributions to [LessWrong](https://web.archive.org/web/20140126041017/http://lesswrong.com/) were the rough draft of a philosophy book (or two)
-2. John Robb’s [Global Guerrillas](http://web.archive.org/web/20140126041136/http://globalguerrillas.typepad.com/) lead to his [Brave New War: The Next Stage of Terrorism and the End of Globalization](http://web.archive.org/web/20140126041301/http://www.amazon.com/exec/obidos/ASIN/0471780790/?tag=gwernnet-20)
-3. [Kevin Kelly’s](http://web.archive.org/web/20140126041441/http://en.wikipedia.org/wiki/Kevin_Kelly) [Technium](http://web.archive.org/web/20140126041640/http://kk.org/thetechnium/) was turned into [What Technology Wants](http://web.archive.org/web/20140126042029/http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0670022152/?tag=gwernnet-20).
-
-An example of how not to do it would be [Robin Hanson‘s](http://web.archive.org/web/20140126042143/http://en.wikipedia.org/wiki/Robin_Hanson) [Overcoming Bias](http://web.archive.org/web/20140126042246/http://www.overcomingbias.com/) blog; it is stuffed with fascinating citations & sketches of ideas, but they never go anywhere. Just his posts on [medicine](http://web.archive.org/web/20131115012232/http://www.overcomingbias.com/) would make a fascinating essay or just list - but he has never made one. ([“Showing That You Care: The Evolution of Health Altruism”](http://web.archive.org/web/20140126042648/http://hanson.gmu.edu/showcare.pdf) would be a natural home for many of his posts’ contents, but will never be updated.)
-### Hypertext
-Ted Nelson.
-Rise of intertextuality. The promise of hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links here.
-It is my intention here to convince you that links are bad. They are bad when it comes to writing for the web in general, bad for books, bad for long-form journalism, and even worse in academic publication. It is not that I am against the idea of links. As we will see here, the problem lies in the way links are used. That is also to say that we can do something about using links better. But first, why are links so bad?
-
-To start with, links are opaque. The worst of lot are links like this and this. Of the two “thises,” the first leads us to Google and the second to Bing. But your readers would not know that just by looking at the text. The best they can do is “hover” over the word with their mouse cursor, relying on the browser interface to show them where the link is going. And once they get there, there are no easy ways to get back. The writer must have faith in the browser to “do the right thing” in guiding the reader through an intertextual maze. And that is not right when it comes to writing. In most situations, the author should architect that experience explicitly. If you think about it, the old-fashioned apparatus of quoting an external text is itself a type of linking. But rather than quoting the whole text, the author only quotes the relevant bits. Sending readers away to do that work on their own is lazy and irresponsible. Imagine a tour guide who tells his tourists to “just go over there and look at some stuff,” and “come back when you’re done.” Links can be that disorienting.
-
-Links disrupt the reading experience, and that is the second reason for why links are bad. It is possible that you want the reader’s experience to be disrupted. But in many cases you don’t. And the reader is already distracted by the proliferation of parallel windows and devices that augment their reading in some way. Do we need to make that distraction easier? Should I link the Wikipedia article on media multitasking or is it enough for my purposes to simply mention Wikipedia, or to trust my reader to look something up later, in a reference source of their own choosing? Or better yet, should I help the reader along by summarizing the findings? It mentions that most folks already read with a second screen in tow. It is not that unusual to see someone look something up on their phone or tablet while reading a newspaper or an e-book. Why? Because they don’t want to leave the flow of the first screen. There is great pleasure in immersive, uninterrupted reading.
-
-Besides being disruptive, links are ugly. They are ugly together, as in when many links conspire to produce a tangled mess. And they are also ugly when naked on their own, like this: https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit. That string of characters is not meant for human consumption! The period at the end kills me entirely. Meaningless punctuation inside of links coupled with regular punctuation ruins the sentence and the paragraph. Of course, I could just tell you to read something on Google Docs. That looks much better, but then we are making the opaqueness problem worse by hiding the address behind words that may or may not be related to the destination. It seems that we are stuck compromising on either transparency, reading flow, or visual impact.
-
-Links aren’t very secure to begin with, but hiding links behind words further compromises security. You’ve probably heard of link-baiting: the purposefully malicious attempts to trick a reader into revealing personal information when following a link that masquerades as a legitimate destination. You can visit my site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t worry, that was the real Google login page.) But even if one means well, viruses and browser exploits can inject bad links into your otherwise legitimate ones. A common technique is to install a browser script along with some seemingly useful “search bar” that will redirect all legitimate links to a site that makes money by advertising. Worse yet, you could end up on a site that attempts to further compromise your computer. Links are not secure because in linking, we outsource the relationship between reader and content to the browser.
-
-Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last because the content at the address is dynamic. It is not guaranteed to be there decades, months, minutes after your initial visit. In that case, why even bother? The link works best for ephemeral output (like a tweet). We must think of something much more robust for any “serious” writing that hopes to survive to the end of the week. And for the really good stuff, the kind of stuff that is the purview of librarians, we need to cultivate sustainable, long-lasting, responsible practices of online citation. It should work as well, if not better, than the familiar bibliographic citation in print. This practice should combat digital decay, not aid it. We need to think about the ways our links can be accessed, mined, and preserved with the archive-grade zeal of the rare book librarian.
-
-Finally, links are terrible for accessibility. It is bad enough that clicking on a small word like this is difficult for people with any sort of fine-motor control problems. Being a little older in itself can make the online reading experience painful. Things are much worse for those with Parkinson’s or for the blind. Sina Bahram, a blind usability expert (who is himself blind) reports that some sites contain thousands (!) of links in advance of actual content. Screen readers for the blind must read each one of them out loud. For the screen reader, there is no difference between garbage links and useful content. If you thought looking at links is disruptive, imagine listening to a robotic voice that pronounces every slash and every useless number in: http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens to his reader at 950 words per minute.
-
-Any one of these issues alone should give us pause. Together, they are a cause of grave concern. How did we get here? And what can we do to make links good again?
-
-How did we get here is not an easy question. A part of the story is surely the excitement we once felt about hypertext. Links were supposed to break the hegemony of linear narrative, ushering in a new interconnected world. To some extent the dream came true. But links also brought with them such things as Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among other things, the number of incoming and outgoing links. This bias for connectivity encourages “link farms”: sites that attempt to game the system by aggregating links or cross-linking their own content. A sure sign of a vacuous SEO-driven piece of writing is a certain cynical and strategic use of links to other popular sources. How long until the SEO logic infects poetry, fiction, or investigative journalism?
-
-What can we do to make links better? There are a few things we all can do now. First, let’s use links sparingly. Think smartly about whether you need to link or whether you can make do with a good, old-fashioned quote or citation.  Don’t link just because you can. Second, link explicitly: Youtube.com is better than this. Third, realize that online content is dynamic. It makes no sense to link a dynamic resource when the intent is to create a link to a static version of a document. Tools like the Save Page Now service, hosted by the Internet Archive, do just that. You can find this essay at http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best captured in a snapshot here: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/. Finally, do not neglect the humble footnote. Footnotes provide a nice blend between usability, transparency, and good knowledge design.
-
-1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
-## 3.2 Writers' Room
-### 2.3.1 Writing together. 
-Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
-
-Auteur - genius romantic ideas of authorship. Lab life of writer's rooms. Tangibility. Distributed authorship.
-
-I've been thinking quite a bit recently about the "costs" of collaboration, about writing (and researching) together, and about the tangled forests of drafts, manuscripts, and versions that sprout in the wake of co-authorship.
-
-This brings me to a strange (but meaningful) space between textual criticism and version control
-
-## 3.3 Hidden Message
-### 2.4.1 Introduction
-F. C. Bakewell's Copying Telegraph secrecy already built in.
-Privacy, secrecy, surveillance, and transparency.
-Stuff about Lull here? Artificial intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being the same side of the coin. Hackable media. Ability to encrypt and decrypt. Political potential. Enabled by plain text.
-
-Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is that dumb-pipe email is unmediated, and therefore it's a business that Google wants to get out of as soon as it can."
-
-" It's also why I believe Google will kill Gmail as soon as it comes up with a mediated alternative everyone loves. Of course, Google may offer an antiquated "Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated experience."
-
-Alice, Bob, Caryl. 
-http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
-
-Zimmermann responded by publishing the source code as a book, an act that was constitutionally protected as free speech. 
-
-### Identity
-Anonymous authorship.
 # Conclusion: New Humanism
 ### 2.5.1 Metaphysical Dread about Computation
 Brian Lennon and Golumbia. The argument basically boils down to the cultural logic of computation being complicit in the military industrial complex. That complicity manifests itself in a shared set of tools. By that logic: the we should also condemn the libraries' efforts to help up archive and store information. Condemn the poets for using metaphors because these are also used in advertising. Something perverse about that: it is as if we would worry about knowledge because knowledge is used for mechanisms of control.
