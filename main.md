@@ -96,9 +96,10 @@ Computation does not necessarily work for the military-industrial apparatus (as 
 ## Timeline
 I keep detailed logs of my daily writing practice. During the academic year, I average around 250 words per day, a number that more than quadruples when freed from teaching obligations. Assuming a manuscript of around 80k words (and discounting the fact that large portions of this book are anticipated in my dissertation), a conservative estimate of my schedule would place the final draft somewhere towards the second half of summer, 2015. 
 
-# Part I: Text
+# Part 1: Text
 
-## 1.1 Content, Matter, Form: Phenomenology of a Photocopier
+## 1.1 Phenomenology of a Photocopier
+`content, matter, form`
 
 ### 1.1.1 Introduction
 In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln11-char] Let these words soak in for a moment. I will spend the rest of the book unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment should suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information "meant" for a computer.[^ln11-human], [^ln11-meaning]  
@@ -219,7 +220,8 @@ There is a tradition in new media studies that traces the history of contemporar
 
 [^ln11-quran]: I go into detail here because textual self-identity will become a topic of exposition in subsequent chapters.
 
-## 1.2 Text, Interface, Encoding: WYSINWYAG (What You See Is Not What You Always Get) 
+## 1.2 WYSINWYAG (What You See Is Not What You Always Get) 
+`text, interface, encoding`
 
 ### 1.2.1 Introduction
 ### 1.2.2 Message 
@@ -228,7 +230,7 @@ The computer emerged from an amalgam of automated devices, chief among them the 
 
 Viewed from the history of writing machines, the next major development of modern computing after the typewriter was automated telegraphy. A number of inventions at the end of the 19th century pertained to "circuit-controlling devices controlled by a traveling perforated strip or tape."[^ln12-perforated] Prior to perforated tape, the transmission of a message by telegraph required the presence of a skilled operator, able to transcribe messages from text to Morse code, to lever-operated circuit. Typewriters and telegraphs relied on a human as an interface. The transcription of text into signal, and back onto paper required the real-time presence of human encoders and a decoders. The perforated tape decoupled the human from the machine, allowing for the automation of the device.[^ln12-decouple] A flood of inventions appeared at the turn of the 20th century to capitalize on such decoupling. These include machines for tape-controlled telegraphic transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast programming or radio and television content (US1974062, 1932-1934; US2031074, 1931-1936).
 
-### Control
+### 1.2.3 Control
 With the invention of punch cards and perforated tape (also used in Jacquard looms, as early as 1801), a message meant for another human became also a physical medium--bumps and holes--used to modulate electrical current. In the transmission of a recorded message, the message itself plays the role of a controlling mechanism, aiding in the mechanical movement of the transmission apparatus. For the automated telegraph the control code and the message are one: that is, the arrangement of perforation on the ticker tape affects the internal mechanical state of the machine. Another way to put this would be to say that the state of the tape-driven telegraph machine at any given time is also the message. The device simply converts mechanical states into signal (printed, audible, or otherwise). The logical conclusion of this idea is the controller (US1165663, 1911-1915).
   
 [^ln12-perforated]: From US patent number 500226, filed Charles Cutriss in 1893 [@cutriss1893]. The initial idea of using perforated tape to "drive" the circuit came from US158156, by Charles Wheatstone in 1874.
@@ -243,7 +245,7 @@ Further separation. On benefits of computer-aided document preparation. "The sty
 
 [^ln11-kittler]: "Media determine our situation [@kittler1999, xxxix]."
 
-### Encoding
+### 1.2.3 Encoding
 Baudot code.
 
 Plain text. Fancy text. TROFF. Processed text. Instructions for the style of paragraphs, footnotes, header, footer.
@@ -283,7 +285,8 @@ As a literary scholar, I am obviously interested in excavating the textual roots
 Media do not determine our situation.[^ln11-kittler]  Private and public interests instead control the media. Media is governed by legal and technological regimes of our own making. Typesetting sweatshops. Controlling distribution.
 Controlling the interpretation. Controlling the distribution.
 
-## 1.3 Word, File: Processing
+## 1.3 Processing Words
+`word, file, editor`
 ### 1.2.1 Introduction
 
 What happened to our writing implements? First came the typewriter and philosophers thought it would ruin humanity. Then, with the computer, software engineers thought they saw a glimpse of textuality capable of transcendence. Then came Microsoft Word. And worse yet, the box: the ubiquitous internet browser text box that just does very little. Ctrl-Copy, Cntrl-Paste.
@@ -372,10 +375,10 @@ When Tachygraphy shall be generally known and used, an electric thrill of life w
 
 In this project stenography and typewriting technologies compete for the same vision of augmenting the natural human facilities of information processing and knowledge dissemination.7 Stenography is understood here as a thoroughly modern and modernizing technology that does for the mental and moral development what the steam engine and areal flight did for the material realm.
 
-# Part 2: Computer
+# Part 2: Technology 
 
-## 2.2 Medium, Message, Mode: McLuhan was Wrong
-Key terms: media, message, mode
+## 2.1 The Medium is not the Message 
+`media, message, mode`
 
 ### Intro
 What happens in the change from speaking to writing? The violin (copy from dissertation here).
@@ -395,9 +398,8 @@ What is at stake here for us? What does the extension hypothesis mean for the st
 The second observation we must make is that the hypothesis of extended cognition brings the mind out of the head and into the material sphere of existence. Taking HEC seriously means to supplement fMRI-based cognitive science with anthropological, social observation of cognition at work. And since we are talking about tools and habits of thought (rather than neurons, or brain-matter) we must acknowledge that the formation of the mind, at least in the extended sense, can span beyond one's own, private mental development. Extended, the mind gains a shared history.
 HEC also implies that the long-standing anxiety over the impact of cognitive aids on our natural human capacities—an anxiety that has been around at least since the times of Socrates, an anxiety that is clearly expressed in Heidegger's philosophy of technology, and that is featured prominently in the recent cautionary tales of human decline by Richard Foreman and Nicholas Carr—that anxiety has at least the merit of considering the mind in its embodied, contextualized form. The critique acknowledges the impact of technology on our mental habits. But the negative value assessment is the least interesting part of that argument. Cognitive aids are only as "good" or as "bad" as the purposes for which they are used. If calculators have diminished our capacity to do math in our heads, they have also alleviated much tedium involved in mundane everyday arithmetic—at the bank, at the supermarket, and at home. And few would argue that mass literacy (as a technology) had anything but a positive effect on our society, and that despite whatever effects literacy may have on our "natural" ability to remember things without writing. "Natural" is, in this case, an artificial construct, tied to one's willingness to engage in nostalgic reverie about an idyllic state of unadulterated past.
 
-## 3.1 Network, Intertext: Bad Links
-Intertextuality, Symbolic links
-
+## 2.2 Bad Links
+`network, intertext, hypertext, symbolic links`
 ### Gwern
 I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern* itself. I hesitate to call it a website, because it is a site so hostile to the web. "So I did not wish to write a blog," the eponymous Gwern writes: 
 
@@ -446,7 +448,10 @@ How did we get here is not an easy question. A part of the story is surely the e
 What can we do to make links better? There are a few things we all can do now. First, let’s use links sparingly. Think smartly about whether you need to link or whether you can make do with a good, old-fashioned quote or citation.  Don’t link just because you can. Second, link explicitly: Youtube.com is better than this. Third, realize that online content is dynamic. It makes no sense to link a dynamic resource when the intent is to create a link to a static version of a document. Tools like the Save Page Now service, hosted by the Internet Archive, do just that. You can find this essay at http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best captured in a snapshot here: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/. Finally, do not neglect the humble footnote. Footnotes provide a nice blend between usability, transparency, and good knowledge design.
 
 1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
-## 3.1 Noise, Information: Freedom of
+
+## 2.3 Freedom of Information
+`noise, information, entropy`
+
 Doctorow. Information "wants to be free"
 Information is intentional. Against the "cybernatic" formal definitions. 
 
@@ -472,9 +477,11 @@ Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.o
  
 
 
-# Part 3: Human
+# Part 3: People 
 
-## 3.1 Document, Vector, Archive: Recursive Encounters with Oneself 
+## 3.1 Recursive Encounters with Oneself 
+`document, vector, archive`
+
 What does it mean to know something?
 Sartre and Beckett.
 ### Recursive Encounters with Oneself
@@ -585,7 +592,9 @@ Books are not media they are platforms. Platform is all of the above. Plus the e
 ### File 
 
 
-## 3.2 Code, Poetry: Secrecy and Surveillance 
+## 3.2 Shared Knowledge 
+`author, citation` 
+
 ### 2.4.1 Introduction
 Code and poetry. These words were meant to be together.
 
@@ -604,7 +613,8 @@ Zimmermann responded by publishing the source code as a book, an act that was co
 
 ### Identity
 Anonymous authorship.
-## 3.3 Analog, Digital: Human Condition 
+## 3.3 We Have Always Been Digital 
+`analog, digital`
 
 ### Introduction 
 The original intuition, challenged by Nelson Goodman in the late sixties, still holds sway in the popular imagination. On this view, digitality has relates to digits, just as "analog" relates to analogies. First use of the word digital. The distinction between analog and metaphysical threat, Kittler and Golumbia. 
