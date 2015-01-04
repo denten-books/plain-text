@@ -101,7 +101,7 @@ I keep detailed logs of my daily writing practice. During the academic year, I a
 ## 1.1 Phenomenology of a Photocopier
 `content, matter, form`
 
-### 1.1.1 Introduction
+### 1.1.0 Introduction (heading to be removed in print)
 In an ASCII-rendered plain text file, byte count corresponds to character count.[^ln11-char] Let these words soak in for a moment. I will spend the rest of the book unpacking this idea. We will have to come to terms with what "plain text," "ASCII," and "bytes" really represent. But for now, a common-sense understanding of the sentiment should suffice. It is enough to have the intuition that texts and characters are concepts meant for humans and that bytes have something to do with (and for) machines. Remarkably, under the singular conditions of plain text (and even then, not always, and with many caveats), a unit of information meaningful to me (a human for the most part) gains a measure of equivalence to a byte, a unit of information "meant" for a computer.[^ln11-human], [^ln11-meaning]  
 
 Not all texts are created equal. In print, traditional distinctions between form and content lie flat. The printing press firmly embeds letters into paper, leaving no space between ink and page. From the early days of the internet, the writing of media-minded critics like Jerome McGann [@mcgann1991], Johanna Drucker [@drucker1996], and Katherine Hayles [@hayles2004], has compelled literary scholars to re-evaluate textuality in its media-specific contexts. Their work reminds us that the flatness of digital text endures only as an illusion. A substantial gap separates presentation from source material. Low-level, operational intuitions governing textuality--ideas about form, content, style, letter, and word--change radically as text shifts its confines from paper to pixel. Forces of capital and control often exploit that gap, relying on technological obscurity and institutional momentum to promote their ends (for better or for worse). I contend here that some of the higher-level ills of the contemporary public sphere, the so called crisis in the academic publishing industry, for example, can be linked directly to our inability or unwillingness to come to terms with conditions of digital textuality. A society that cares about the long-term preservation of complex discursive formations like free speech, dialogue, and deliberation online, would do well to take heed of textual building blocks at their foundation. Text matters because how it is encoded, transmitted, and stored, decides who gets to decode, receive, and access.
@@ -112,7 +112,7 @@ Not all texts are created equal. In print, traditional distinctions between form
 
 [^ln11-meaning]: I write "meaning" in quotation marks, because the question of whether it makes sense to talk about meaning for artificial agents is a question that will remain unresolved, at least until the later chapters, when we have the chance to discuss notions of data and information as meaning-carrying units.    
 
-### 1.1.2 Ideal Text 
+### 1.1.1 Ideal Text 
 What is text? In talking about texts of all kinds, literary scholars and computer scientists often make the distinction between form and content. For example, in her book on computational text generation, Kathleen McKeown writes that to produce discourse, writers and speakers "must decide what to say and how to present it effectively." A machine that generates text should, among other things, be able to determine "content and textual shape" of what needs to be said or written [@mckeown92 p.1]. Similarly, in her influential essay "Print is Flat, Code is Deep," Katherine Hayles writes about "the interplay between a text's physical characteristics and its signifying strategies" [^@hayles2007 p.72]. Let's dwell on the history of the distinction between content and textual shape, between a text's physical characteristics and its signifying strategies for a few paragraphs. I'll give you the standard version first, but then return to revise and to complicate, because the traditional version hides a rather serious confusion, one that will become increasingly central to our conversation.
 
 The dichotomy between form and content harkens back to traditional Platonic theory of essences. For Plato, the "essence" or an "idea" of something (like a chair) exists in a sort of an ideal, metaphysical state, somewhere beyond the confines of the material universe. By contrast, a physical instantiation of that object (a specific chair) comprises a somewhat more limited, even corrupted, version of that idea. The task of the philosopher then becomes to reconstruct the ideal notion of the perfect chair from many imperfect copies. A computer scientist will recognize in this chain of reasoning the principles behind object oriented programming: a way of building software that works by defining abstract "object classes" and invoking them as "class instances" [@hoare, @nygaard]. For Plato and later René Descartes, G.W.F. Hegel, and many other idealist philosophers, ideas provide us with enduring, universal, truths about the material, constantly changing, world.[^ln11-descartes]
@@ -131,7 +131,7 @@ The history of literary scholarship is punctuated by these moments of revolt aga
 
 [^ln11-echenbaum]: "Что касается 'формы', то формалистам было важно только повернуть значение этого запутанного термина так, чтобы он не мешал постоянной своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-### 1.1.3 From Texts to a Work 
+### 1.1.2 From Texts to a Work 
 My short history of the distinction between form and content is necessarily reductive. The situation on the ground was always more nuanced than the dichotomy would suggest, with a number of reasonable positions between radical idealism and radical materialism. But I was hoping to give you a taste of what was at stake: not just a dry academic debate about the nature of art, but the very capability of art (and don't necessarily think "high art" here) to transform humanity. For Hegel, art reached for truth, transcending the deterministic physical universe. For the formalists, art worked to revitalize stale metaphors and ossified ways of thinking.   
 
 The division of text into form and content makes a difference in more utilitarian ways as well. Imagine the challenge of compiling all known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The problem of what to count as a single text would be one of the first design challenges you would encounter. In the words of Barbara Mowat and Paul Werstine, the editors of Folger Digital Texts, "readers assume that there is a single text for the plays: what Shakespeare wrote. But Shakespeare’s plays were not published the way modern novels or plays are published today: as a single, authoritative text. In some cases, the plays have come down to us in multiple published versions, represented by various Quartos (Qq) and by the great collection put together by his colleagues in 1623, called the First Folio (F). There are, for example, three very different versions of *Hamlet*, two of *King Lear*, *Henry V*, *Romeo and Juliet*, and others. Editors choose which version to use as their base text, and then amend that text with words, lines or speech prefixes from the other versions that, in their judgment, make for a better or more accurate text [@digitalfolger, Textual Introduction]." Textual editors face such decisions routinely. What appears to us as one unified work, *Hamlet*, is an actuality a set of somewhat diverging drafts and editions. Errors in transcription and editorial interventions accumulate. The proliferation of unlicensed copies, translations, and imitations further adds to the complexity of the problem. 
@@ -170,7 +170,7 @@ The movement from physical to textual has a profound effect on the governance of
 
 [ln11-counterfeiting]: A documentary on counterfeit goods produced by BBC4 interviews Christophe Zimmerman, Senior Technical Officer at World Customs Organization, who deplores the industry's lack of cooperation with law enforcement [@bbc4].
 
-### 1.1.4 Mediating Form 
+### 1.1.3 Mediating Form 
 "Robots have also the attribute in common of being able to affect human beings or other targets 'at a distance,' a book, a radio or a television sender can entertain or teach at a distance, like a gun, a rocket and an atomic bomb can kill people and destroy at a distance. The book is a robot par excellence [@moreno, 238]." So wrote Jacob Moreno, a contemporary and adversary of Sigmund Freud and one of the pioneers in sociology and group therapy. The text acts at a distance--we will come to that. But in some important ways, the gun is not a text. It can be reduced to textual description, transmitted, and manufactured cheaply. As the pendulum of textual scholarship swings back from treating text as pure idea, the materialists must acknowledge the aberrant specificity of textual material. Text routinely separates from its physical medium. The ability to change form is what gives it the ability to act at a distance. 
 
 The traditional dichotomy between form and content obscures the complexity of this dynamic. Formalism overloads the concept of form to bear functions of material and design, which should not be treated at the same layer of analysis. In Plato we find a number of words that, depending on the translation, stand in for the English "form." These include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena* (appearance). Compare for example the translations from Plato's *Timaeus*. In the dialogue, Timaeus, the titular character, explains the nature of the physical world. Similarly to the passage about wax by Descartes (quoted in a footnote earlier), Timaeus notices that some elements, like water, change their appearance (*φανταζομένων*) 
@@ -223,14 +223,20 @@ There is a tradition in new media studies that traces the history of contemporar
 ## 1.2 WYSINWYAG (What You See Is Not What You Always Get) 
 `text, interface, encoding`
 
-### 1.2.1 Introduction
-### 1.2.2 Message 
+### 1.2.0 Introduction (heading to be removed in print)
+On an average day, at home, in 2008, an average American read around 100,500 words a day. At 250 words per page, that is around 402 printed pages. Between the years of 1980 and 2008, the consumption of information in bytes--a measure that would obviously privilege storage "heavy" content like sound and video--grew at a modest 5.4% per year. Reading, in decline until the advent of the internet, has tripled in the same period. Reading in print accounted for 26% of verbal information consumed in 1960. That number fell to 9% in 2008, but the consumption of words digitally increased to 27% of total consumption. Reading--very loosely construed--has increased its share of household attention span. [@bohn2009, @hilbert2012] All measures point to a drastic expansion of the textual field. The first decade of the 21st century saw a 20% increase in library visitation [@imls2013]. According to UNESCO data, literacy rates continue to rise globally, as the gender and global gaps begin to close [@unesco2013]. By a conservative estimate, the number of scientific publication grows at about 4.7% per year, which means that amount of published research roughly doubles every 15 years or so (and the numbers are much, much, higher in some fields) [@larsen2010, @archambault2005, @crespi2008]  The number of books published in the United States almost tripled from 2005 to 2009 [@bowker2010]. The long-predicted rise [@stephens1998] of the image and the fall of the word is just not supported by the numbers. I ask then, what is the source of modern metaphysical anxiety about language and literature? If text is not dead, 
+
+The emergence of distant reading. Big data. Medium data: search interfaces. But it's not "free." Free as in speech and free as in beer.
+
+The word "text" appears in the in the Google Books Corpus. Common contexts.
+
+### 1.2.1 Common Contexts 
 
 The computer emerged from an amalgam of automated devices, chief among them the typewriter and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan Turing describes an automatic machine (a-machine) capable of transposing the problem of calculability into "effective calculability." Where all previous typewriters and calculators were special-purpose mechanisms, engineered to aid in a specific task, the configuration state of the a-machine was determined instead by symbols scanned into the machine from a paper ribbon. In imagining the universal calculator, Turing borrowed from the physical design of a typewriter. Although Turing's original article did not include any drawings, he describes the a-machine in terms of paper tape medium, scanning, erasing, "writing down notes," "external operators," and "moves" of the mechanism. If Turing were to file a US-based patent for his device (rather than describing it in the abstract only) he would have to cite prior art in the mechanisms like the "Numeral adding or subtracting attachment for type-writing machines" (US517735, filed in 1893 and issued in 1894), "Combined Type-Writing and Computing Machine" (US990238, 1896-1897), "Computing Attachment for Typewriters" (US1162730, 1908-1915), "Computing Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and Adding Machine" (US1244398, 1910-1917) among others. Turing's innovation over all of these devices lies in the self-reprogramming capabilities of the a-machine. But by the 1930s, a number of lesser mechanisms already existed on the mass market that anticipate functional elements of Turing's design. The material history of the Turing machine lies in the wide-spread manufacture of computing scales, dial recorders, electric tabulating machines, and computing typewriters manufactured by companies like Underwood Computing Machine, Electromatic, and International Business Machines (IBM).
 
 Viewed from the history of writing machines, the next major development of modern computing after the typewriter was automated telegraphy. A number of inventions at the end of the 19th century pertained to "circuit-controlling devices controlled by a traveling perforated strip or tape."[^ln12-perforated] Prior to perforated tape, the transmission of a message by telegraph required the presence of a skilled operator, able to transcribe messages from text to Morse code, to lever-operated circuit. Typewriters and telegraphs relied on a human as an interface. The transcription of text into signal, and back onto paper required the real-time presence of human encoders and a decoders. The perforated tape decoupled the human from the machine, allowing for the automation of the device.[^ln12-decouple] A flood of inventions appeared at the turn of the 20th century to capitalize on such decoupling. These include machines for tape-controlled telegraphic transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast programming or radio and television content (US1974062, 1932-1934; US2031074, 1931-1936).
 
-### 1.2.3 Control
+### 1.2.2 Control
 With the invention of punch cards and perforated tape (also used in Jacquard looms, as early as 1801), a message meant for another human became also a physical medium--bumps and holes--used to modulate electrical current. In the transmission of a recorded message, the message itself plays the role of a controlling mechanism, aiding in the mechanical movement of the transmission apparatus. For the automated telegraph the control code and the message are one: that is, the arrangement of perforation on the ticker tape affects the internal mechanical state of the machine. Another way to put this would be to say that the state of the tape-driven telegraph machine at any given time is also the message. The device simply converts mechanical states into signal (printed, audible, or otherwise). The logical conclusion of this idea is the controller (US1165663, 1911-1915).
   
 [^ln12-perforated]: From US patent number 500226, filed Charles Cutriss in 1893 [@cutriss1893]. The initial idea of using perforated tape to "drive" the circuit came from US158156, by Charles Wheatstone in 1874.
@@ -286,8 +292,8 @@ Media do not determine our situation.[^ln11-kittler]  Private and public interes
 Controlling the interpretation. Controlling the distribution.
 
 ## 1.3 Processing Words
-`word, file, editor`
-### 1.2.1 Introduction
+`word, file, book`
+### 1.2.0 Introduction (heading to be removed in print)
 
 What happened to our writing implements? First came the typewriter and philosophers thought it would ruin humanity. Then, with the computer, software engineers thought they saw a glimpse of textuality capable of transcendence. Then came Microsoft Word. And worse yet, the box: the ubiquitous internet browser text box that just does very little. Ctrl-Copy, Cntrl-Paste.
 
@@ -307,8 +313,8 @@ And finally, a literary interface is a material artifact. By this I mean that so
 
 
 Engelbart and Heidegger
-### Engelbart
-### Extended cognition
+### 1.2.1 Engelbart
+### 1.2.2 Extended cognition
 
 
 ### 1.2.3 Heidegger's Technology
@@ -450,8 +456,9 @@ What can we do to make links better? There are a few things we all can do now. F
 1: http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 
 ## 2.3 Freedom of Information
-`noise, information, entropy`
+`noise, information, data, entropy`
 
+Bohn consumer report on data vs. information..
 Doctorow. Information "wants to be free"
 Information is intentional. Against the "cybernatic" formal definitions. 
 
@@ -479,6 +486,7 @@ Leroi-goran. Constructor theory of information. SUperinformation. http://arxiv.o
 
 # Part 3: People 
 
+"It is that the word or sign man uses is the man himself" Pierce as quoted @weel2012.
 ## 3.1 Recursive Encounters with Oneself 
 `document, vector, archive`
 
@@ -594,6 +602,15 @@ Books are not media they are platforms. Platform is all of the above. Plus the e
 
 ## 3.2 Shared Knowledge 
 `author, citation` 
+### 3.2.1 Cooperation
+### 3.2.2 Writing together. 
+Models of co-authorship (and why we should pay attention). The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
+
+Auteur - genius romantic ideas of authorship. Lab life of writer's rooms. Tangibility. Distributed authorship.
+
+I've been thinking quite a bit recently about the "costs" of collaboration, about writing (and researching) together, and about the tangled forests of drafts, manuscripts, and versions that sprout in the wake of co-authorship.
+
+This brings me to a strange (but meaningful) space between textual criticism and version control
 
 ### 2.4.1 Introduction
 Code and poetry. These words were meant to be together.
