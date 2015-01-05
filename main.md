@@ -1079,15 +1079,15 @@ number fell to 9% in 2008, but the consumption of words digitally increased to
 its share of household attention span [@bohn2009, @hilbert2012]. All measures
 point to a drastic expansion of the textual field. The first decade of the 21st
 century saw a 20% increase in library visitation [@imls2013]. According to
-UNESCO data, literacy rates continue to rise globally, as the gender and global
+UNESCO data, literacy rates continue to rise globally, as regional and gender 
 gaps begin to close [@unesco2013]. By a conservative estimate, the number of
-scientific publication grows at about 4.7% per year, which means that amount of
+scientific publications grows at about 4.7% per year, which means that amount of
 published research roughly doubles every 15 years or so (and the numbers are
 much, much, higher in some fields) [@larsen2010, @archambault2005, @crespi2008]
 The number of books published in the United States almost tripled from 2005 to
 2009 [@bowker2010].  As a society we are reading, writing, and publishing more
 with each year. With these figures in mind, I ask: What is the source of modern
-metaphysical anxiety about the relationship between language and technology?
+existential anxiety about the relationship between language and technology?
 What makes lovers of literature deny some measure of literariness to wild and
 rapidly proliferating forms of textuality?
 
@@ -1099,19 +1099,26 @@ and throughout that the aims of such metaphysical angst are misaligned.
 Reconstructing the physical conditions of textuality reveals radical alienation
 from the material contexts of knowledge production on the part of readers and
 authors. Although literacy thrives, the very nature of what constitutes a
-literary text has changed with the advent of new material conditions. The
-changing circumstances threaten to reconfigure power structures implicit in the
-models of literary production, access, and distribution associated with the
-prevailing regime of paper and ink.
+literary text drifts with the vagrancies of changing material conditions and
+related practices. The drift threatens to reconfigure power structures implicit
+in models of literary production, access, and dissemination associated with the
+prevailing regime of paper and ink. That dynamic includes literary scholars.
+Who gets to author, who to distribute, what find, and how to interpret, are all
+cultural practices purposefully targeted for disruption--a popular code-word
+that promises revolutionary potential, but usually delivers merely yet another
+market model. Whether we allow ourselves, as literary scholars and engineers of
+the word, to be disrupted, and toward what ends, is a decision that must be
+taken consciously. 
 
-Text vs. literature. Not just aesthetics, aesthetics
-packaged and consumed in a particular way. Text as a field underlying
-television, law, medicine.
+Computation threatens the word no more than molecular gastronomy challenges the
+art of eating well. But what counts for good text--that changes with emergent
+practices of reading and writing that operate at scale hitherto inaccessible to
+the natural intellect. Forget big data: think medium data, about everyday
+things like the ability to search for that note that you for some reason sent
+to yourself by email, a few weeks ago, or to find that .pdf in the sea . The
+making of textuality aesthetic elements. The pleasure of intertextuality. Not just aesthetics, aesthetics packaged and consumed in a particular way. 
 
-The emergence of distant reading. Big data. Medium data: search interfaces. But
-it's not "free." Free as in speech and free as in beer.  Close reading is still
-important, more agility to work at different scales of analysis.
-
+The meaning of text as fabric. Text as a field underlying television, law, medicine. Inscription and the magic of text as something that braids the material and the ideational. Towards an critical ethnography of text, starting with this text: the 7+ hrs of average time the average person spends in front of an average text machine.
 
 ### 1.2.1 Common Contexts
 
