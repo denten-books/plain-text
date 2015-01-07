@@ -459,7 +459,7 @@ literary scholars to re-evaluate textuality in its media-specific contexts.
 Their work reminds us that the flatness of digital text endures only as an
 illusion. A substantial gap separates presentation from source material.
 Low-level, operational intuitions governing textuality--ideas about form,
-content, style, letter, and word--change radically as text shifts its confines
+content, style, letter, and word--change profoundly as text shifts its confines
 from paper to pixel.  Forces of capital and control often exploit that gap,
 relying on technological obscurity and institutional momentum to promote their
 ends (for better or for worse). I contend here that some of the higher-level
@@ -637,8 +637,8 @@ meccanico e la sensibilità numerica]
 
 My short history of the distinction between form and content is necessarily
 reductive. The situation on the ground was always more nuanced than the
-dichotomy would suggest, with a number of reasonable positions between radical
-idealism and radical materialism. But I was hoping to give you a taste of what
+dichotomy would suggest, with a number of reasonable positions between extreme
+idealism and extreme materialism. But I was hoping to give you a taste of what
 was at stake: not just a dry academic debate about the nature of art, but the
 very capability of art (and don't necessarily think "high art" here) to
 transform humanity. For Hegel, art reached for truth, transcending the
@@ -772,7 +772,7 @@ GEOMETRIC_REPRESENTATION_ITEM()
 RATIONAL_B_SPLINE_SURFACE(((1.,0.997252058758362,1.),(1.,0.997252058758362,
 1.))) REPRESENTATION_ITEM('') SURFACE()); ```
 
-The movement from physical to textual has a profound effect on the governance
+The movement from physical to textual has a pronounced effect on the governance
 of goods, felt precisely at the distinction between autographic and allographic
 works. Governments regulate the manufacture and the distribution of guns as
 artifacts, but how does one regulate guns as texts and ideas? Any such effort
@@ -976,7 +976,7 @@ The electro-photographic process at the basis of modern photocopying (invented
 in the 1930s, but with patents dating back to the middle of the 19th century)
 describes documents in terms of "electric charge patterns," "photoemissive
 layers," and "sheet surfaces [@calrson1938, @calson1942, @carlson1953]." The
-photocopier is a device for radical graphesis and radical surface
+photocopier is a device for total graphesis and extreme surface
 reading.[^ln11-ooo]. There is no word or content for the photocopier: only
 paper and image. The photocopier's "job", if you will, is to lift a picture
 from one page and to impress it into another. It does so by temporarily imaging
@@ -1030,7 +1030,7 @@ on a downright sinister note: "And while professors are still reluctantly
 trading in their typewriters for word processors, the NSA is preparing for the
 future [@kittler1999, 263]." Perhaps true. But I would like to think the future
 is not determined by technology. Today's mobile phone and personal computer are
-military devices, but they also contain within them a lineage of radical
+military devices, but they also contain within them a lineage of subversive
 reading and writing implements: textual (as opposed to computational) roots
 that cannot be excised from the soul of modern computing.
 
@@ -1085,40 +1085,41 @@ active and engaged literacy [...] should be gravely concerned
 [@readingrisk2004]." The conclusion stands in stark contrast with trends that
 tell a story of an expanding literary, textual field. On an average day in
 2008, at home, an average American read around 100,500 words a day. At 250
-words per page, that is around 402 printed pages.  Between the years of 1980
-and 2008, the consumption of information in bytes--a measure that would
-obviously privilege storage "heavy" content like sound and video--grew at a
-modest 5.4% per year. Reading, in decline until the advent of the internet, has
-tripled in the same period.  Reading in print accounted for 26% of verbal
-information consumed in 1960. That number fell to 9% in 2008, but the
-consumption of words digitally increased to 27% of total consumption.
-Reading--construed broadly--has overall increased its share of household
-attention span [@bohn2009, @hilbert2012]. All measures point to a drastic
-expansion of the textual field. The first decade of the 21st century saw a 20%
-increase in library visitation [@imls2013]. According to UNESCO data, literacy
-rates continue to rise globally, as the gender and global gaps begin to close
-[@unesco2013]. By a conservative estimate, the number of scientific publication
-grows at about 4.7% per year, which means that amount of published research
-roughly doubles every 15 years or so (and the numbers are much, much, higher in
-some fields) [@larsen2010, @archambault2005, @crespi2008] The number of books
-published in the United States almost tripled from 2005 to 2009 [@bowker2010].
+words per page, that is around 402 printed pages. Between the years of 1980 and
+2008, the consumption of information in bytes--a measure that would obviously
+privilege storage-heavy content like sound and video--grew at a modest 5.4% per
+year. Reading, in decline until the advent of the internet, has tripled in the
+same period. Reading in print accounted for 26% of verbal information consumed
+in 1960. That number fell to 9% in 2008, but the consumption of words digitally
+increased to 27% of total consumption, which means that reading has increased
+its share of the overall household attention span [@bohn2009, @hilbert2012].
+The first decade of the 21st century saw a 20% increase in library visitation
+[@imls2013]. According to UNESCO data, literacy rates continue to rise
+globally, as the gender and global gaps begin to close [@unesco2013]. By a
+conservative estimate, the number of scientific publication grows at about 4.7%
+per year, which means that amount of published research roughly doubles every
+15 years or so (and the numbers are much, much, higher in some fields)
+[@larsen2010, @archambault2005, @crespi2008] The number of books published in
+the United States almost tripled from 2005 to 2009 [@bowker2010]. All measures
+point to a drastic expansion of the textual field.
 
 Something does not add up. As a society we are reading, writing, and publishing
-more each year. With these figures in mind, I ask: What is the source of
-modern metaphysical anxiety about the status of a literary text? What does the
-NEA study really measure?
+more each year. With these figures in mind, I ask: What is at risk: literature,
+or merely one of its many definitions? What is the source of modern
+metaphysical anxiety about the status of a literary text?
 
 In the 1990s, the ire of the metaphysically disaffected coursed against visual
 culture and television [@stephens1998, @merrin199]. A decade later it turned
-against the internet and computation, which to many threatens the very foundations of humanity
-and the humanities [@golumbia2009, @marche2012, @fish2012].[^ln12-internetet] I will argue here
-and throughout that the aims of such metaphysical angst are misaligned.
-Reconstructing the physical conditions of textuality reveals radical alienation
-from the material contexts of knowledge production on the part of readers and
-authors. Although literacy thrives, the very nature of what constitutes a
-literary text has changed with the advent of new material conditions. The
-changing circumstances threaten to reconfigure modes of literary production,
-access, and distribution tied to the circulation of paper and ink.
+against the internet and computation, which to many threaten the very
+foundations of humanity and the humanities [@golumbia2009, @marche2012,
+@fish2012].[^ln12-internetet] I will argue here and throughout that the aims of
+such metaphysical angst are misaligned. Reconstructing the physical conditions
+of textuality reveals profound alienation from the material contexts of knowledge
+production on the part of readers and authors. Although literacy thrives, the
+very nature of what constitutes a literary text has changed with the advent of
+new material conditions. The changing circumstances threaten to reconfigure
+modes of literary production, access, and distribution tied to the circulation
+of paper and ink.
 
 [^ln12-internet]: The NEA study has this to say on the topic of "What is
 responsible for the decline of literary reading?": "If the 2002 data represent
@@ -1160,58 +1161,61 @@ object of their study. The literary scholar often seems to be not in the
 business of studying literature, but in the business of creating or sustaining
 the cultural cache of his sometimes very small academic fiefdom. At stake in
 the distinction drawn by Said are the very notions of "aesthetic" and
-"quotidian" as markers of prestige—notions that encourage disciplinary
+"quotidian" as markers of prestige--notions that encourage disciplinary
 infighting, tug-of-war style, by which much energy is spent in struggling to
 pull your material from one category into the other.
 
 The matter of value in literary criticism has been raised forcefully before, by
-Northrup Frye, Murray Krieger, and E. D. Hirsch in the late 1960s. The
-conversation seems to have splintered into three camps: the separatists—those
-who view the production of value as a detriment to the discipline, the
-anti-separatists—those who believe that value creation is inseparable from the
-study of literature, and the compatibilists, or those who attempt to integrate
-the two opposing positions. Frye for one, has argued that value production
-cannot be a part of the scholar's task, because the concept of value itself is
-"individual, unpredictable, variable, incommunicable, indemonstrable, and
-mainly an intuitive reaction to knowledge." "The more consistently one
-conceives of criticism as the pursuit of values," writes Frye, "the more firmly
-one becomes attached to that great sect of anti-intellectualism." To this
-Murray Krieger responds in pointing out the circularity implicit in the work of
-even the most analytically-inclined critic. Krieger writes: "The categories [of
-the literary, the poetic] define their subject and erect value criteria for
-admission, so that for the work to attain the definition is for it to qualify
-as a valued individual in a valued class. The work comes to be discovered,
-defined, and valued as poetry only by a way of a pre-existing generic
-characteristic which the critic began by adopting as his perspective glass to
-envision it." All this to say that even for scholars like Frye, the process of
-valuation happens before the encounter with the text. In designating the poem
-as a poem, the critic already has brought with him a set of preconceived
-notions that determine what constitutes poetry, and what does not.
+Northrup Frye, Murray Krieger, and E. D. Hirsch in the late 1960s. At the time,
+the conversation seems to have splintered into three camps: the
+separatists--those who view the production of value as a detriment to the
+discipline, the anti-separatists--those who believe that value creation is
+inseparable from the study of literature, and the compatibilists, or those who
+attempt to integrate the two opposing positions. Frye for one, has argued that
+value production cannot be a part of the scholar's task, because the concept of
+value itself is "individual, unpredictable, variable, incommunicable,
+indemonstrable, and mainly an intuitive reaction to knowledge." "The more
+consistently one conceives of criticism as the pursuit of values," writes Frye,
+"the more firmly one becomes attached to that great sect of
+anti-intellectualism." To this Murray Krieger responds in pointing out the
+circularity implicit in the work of even the most analytically-inclined critic.
+Krieger writes: "The categories [of the literary, the poetic] define their
+subject and erect value criteria for admission, so that for the work to attain
+the definition is for it to qualify as a valued individual in a valued class.
+The work comes to be discovered, defined, and valued as poetry only by a way of
+a pre-existing generic characteristic which the critic began by adopting as his
+perspective glass to envision it." All this to say that even for scholars like
+Frye, the process of valuation happens before the encounter with the text. In
+designating the poem as a poem, the critic already has brought with him a set
+of preconceived notions that distinguish what constitutes poetry, and what does
+not; who is in and who is out.
 
-The third, mediating stance between these two positions holds that although
-value is implicit in any act of interpretation, the critic can and probably
-should adopt an interrogatory stance towards value creation as such, which
+The third, conciliatory, stance between these two positions holds that,
+although value-making contaminates all acts of interpretation, the critic can
+and should adopt an interrogatory stance towards value creation as such, which
 ultimately allows him to "form new judgments of value and significance." In
 this camp, we find the more recent, 1983 article (and book) by Barbara
 Herrnstein Smith, who urges her peers to make the examination of social
-value-creating mechanisms a part of their academic discipline. This
-reconciliation seems practical, but does not approach the very peculiarity of
-the question itself. Must we value the object of our study? To understand the
-strangeness that question, ask: Does an anthropologist who studies cock
-fighting, condone animal cruelty? Does a historian who studies war, sanction
-violence? Does a philosopher writing on the problem of other minds, love
-solipsism? In each case, the value of the inquiry lies not in the object of
-study, but in the discipline itself—in the quality of the questions raised, and
-in the relevance of the answers given. Something is rotten in the very
-formulation of this question—something that becomes painfully obvious when we
-ask the same in another way: Must we study only what we value? The drastic
-fourth alternative is not simply to reconcile ourselves to the language of our
-own valued prejudice, but to derive value from the practice of our discipline,
-and to apply that practice indiscriminately. If whatever we mean by poetry has
-the power we ascribe to it, literary humanities need not concern itself with
-the protection of the poetic. What we need is to find poetry even in the
-discarded textual detritus of human activity—precisely in the everyday
-discursive activity Said so readily rejects as quotidian.
+value-creating mechanisms a part of their academic discipline. The compromise
+strikes me as laudably pragmatic, but does not approach the very peculiarity of
+the question itself. Must we value the object of our study?
+
+To understand the strangeness that question, try asking: Does an anthropologist
+observing cock fighting, condone animal cruelty? Does a historian who writing
+about war, sanction violence? Does a philosopher working on the problem of
+other minds, love solipsism? In each case, synonyms for value-making--loving,
+sanctioning, condoning--appear out of place, incongruent with the inquiry at
+hand. Something is rotten in the very formulation of this question. Must we
+study only what we value? The affirmative cannot be defended, lest we confuse
+connoisseurship with critical inquiry. A more radical compromise compels us to
+seek value in the importance of the inquiry itself: in the quality of the
+questions raised, and in the relevance of the answers given. If literary
+reading of a certain kind has the power ascribed to it by the NEA report
+(increased civic participation, etc.), literary humanities need not concern
+itself with the protection of the literary.  What we need is to find the
+literary function everywhere, indiscriminately, even in the discarded textual
+detritus of human activity—precisely in the everyday discursive activity Said
+so readily rejects as quotidian.
 
 This is not to say that I advocate ignorance, nor do I follow the Russian
 formalist poet Vladimir Mayakovksy who in the beginning of the last century
@@ -1219,34 +1223,46 @@ called on his peers to "cast Pushkin, Dostoevsky, Tolstoy, et.al. overboard
 from the ship of Modernity." I hold instead that in the implicit perusal of the
 subjectively beautiful discourse literary scholars have abandoned vast and
 fecund textual vistas. In privileging the aesthetic, the study of Literature
-has tied its fate to that of an increasingly vanishing pastime—the leisurely
-reading of fiction. Literary academic discourse of that sort often contains an
-implicit assertion about the primacy of that pastime over all others. It is
-difficult to imagine a similar state of affairs in other fields, a peculiar
-moralizing branch of physics, for example, interested in studying only the
-natural particles it considered especially pleasing, at the expense of all
-others.
+has tied its fate to that of an increasingly vanishing pastime--the leisurely
+reading of poetry and fiction, of a specific kind, sold in a particular form,
+having this exact shape. Literary academic discourse of that sort often
+contains an implicit assertion about the primacy of that pastime over all
+others. I find it difficult to imagine an analogy in a peculiar moralizing
+branch of physics, for example, interested in studying only the natural
+particles it considered especially pleasing, at the expense of all others.
+Although the sciences too often privilege research program in support of the
+current economic regime. The humanities are not at all exempt from that
+dynamic.
 
-I share the prejudice for aesthetic reading with my colleagues and would spend
-my free time reading Tolstoy and Shakespeare rather than poring over arcane
-printer manuals. Implicit in that prejudice is an idea—professed by Kant,
-Schiller, and more recently, Tzvetan Todorov and Elaine Scarry—a belief in the
-connection between beauty and justice, beauty and the good, beauty and the
-upright moral life. I wish to avoid disturbing the foundations of that
-intellectual edifice, and only want to point out that, for some, beauty can
-also reside outside of artful discourse, and that others find beauty in the
+Sharing the prejudice for aesthetic reading with my colleagues, I would rather
+spend my free time reading Tolstoy and Shakespeare than poring over arcane
+printer and telegraph manuals. Implicit in that prejudice is an idea--professed
+by Kant, Schiller, and more recently, Tzvetan Todorov and Elaine Scarry--the
+belief in the connection between beauty and justice, beauty and the good,
+beauty and the upright moral life. I wish to avoid disturbing the foundations
+of that intellectual edifice, and only want to point out that, for some, beauty
+can also reside outside of artful discourse, and that others find beauty in the
 strangest of places, and that texts—their movement within and across
 cultures—present many problems not exhausted by the aesthetic or the moral
-realms. Reading fiction for pleasure may indeed be a vanishing pastime, but
-that is not to say that our society has gotten less literate. On the contrary,
-the 21st century has seen an explosion in the cultural transmission of textual
-information. Problems of information retrieval, storage, search, and analysis
-have motivated the growth of whole new disciplines—natural language processing,
-automatic translation, computational text analysis, human-computer interaction,
-data science, and many others. Unfortunately for a new generation of literary
-scholars, the development of literary studies during the same time has been
-marked by a rapid retreat from these fundamentally literary problems into the
-protected, even if increasingly diminishing, realm of the Literary.
+realms. Reading fiction (of a kind) for pleasure (of a kind) may indeed be a
+vanishing pastime, but that is not to say that our society has gotten less
+literate. On the contrary, the 21st century has seen an explosion in the
+cultural transmission of textual information. Problems of information
+retrieval, storage, search, and analysis have motivated the growth of whole new
+disciplines--natural language processing, automatic translation, computational
+text analysis, human-computer interaction, data science, and many others.
+Matters always central to the field remain vitally important to the functioning
+of modern society. Literature broadly conceived provides fertile grounds for
+collaboration between diverse disciplines interested in the changing dynamics
+of narrative, interpretation, language, form, prosody, composition, dialogue,
+discourse, story, genre, authorship, influence, and text. It is in this core
+conceptual cluster of operational terms that I want to locate a notion of
+poetics, poetics capable of addressing not only the machinations of poetry and
+prose, but also of code, document, inscription, file, record, note, manual,
+journal, script, and archive. I imagine my fellow travellers as voracious
+omnivores of text, not finicky epicures of literature. To protect literature,
+lovers of the word cannot retreat into the protected, if increasingly
+diminishing, realm of the Literary.
 
 ### 1.2.1 Code and Poetry
 
@@ -1264,16 +1280,7 @@ who wrote that "the design of tomorrow's literature determines what the human
 race will be able to keep track of and to understand." The enterprise of
 understanding, contextualizing, and transforming contemporary literary practice
 seems worthy of literary scholarship conceived as a broader, more inclusive,
-and more robust enterprise. Matters always central to the field, remain vitally
-important to the functioning of modern society and provide fertile ground for
-collaboration between diverse disciplines interested in the changing dynamics
-of narrative, interpretation, language, form, prosody, composition, dialogue,
-discourse, story, genre, authorship, influence, and text. It is in this core
-conceptual cluster of operational terms that I want to locate a notion of
-poetics capable of addressing not only the machinations of poetry and prose,
-but also of code, document, inscription, file, record, note, manual, journal,
-script, and archive. Sucscholars as finicky epicures of literature, I imagine
-them as voracious omnivores of texts.
+and more robust enterprise. 
 
 In comparing the relatively dour conclusions of NEA's report to broad
 demographic trends that describe an expansion of the textual sphere, I am faced
