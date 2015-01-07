@@ -1244,40 +1244,6 @@ rejects as quotidian.
 
 ### 1.2.1 Code and Poetry
 
-#### TExtual iceberg is huge, we are only contributing to its growth
-Hampered by an artificially-limited field of activity, the study of literature
-excavates a small, sacred patch on tip of an immense textual iceberg.
-Paradoxically, the results of all that iceberg-digging sink to join the mass of
-its submerged and unexcavated bottom. Texts multiply and produce other texts:
-that's more or less the point of Roland Barthes's 250-page exegesis of a 30
-page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
-as a scholar, I suspect that exponential growth and diminishing returns will
-eventually (if not already) make such relentlessly exogesic mode of scholarship
-unsustainable. The value of each new "Barthes" and associated commentary
-plummets as texts multiply exponentially, quickly reaching the human limits of
-comprehension. There no winners in such an arm race between footnotes, only
-eventual irrelevance.
-
-#### New forms of textuality are hidden
-Non-positivistic disciplines like literary studies lack a methodology for
-definitively settling any research program. For this reason, citation patterns
-in the humanities journals privilege well-established sources
-[@tenen2014-displacement], where the sciences will usually defer to the "last
-word" on any given question. Without robust mechanisms for condensing and for
-pruning accepted knowledge the archive expands precipitously. Its combined
-weight necessarily devalues the literature of the present, creating a curious
-kind of a gap in contemporary material. A "modernist" in literary studies
-denotes a specialist who works on documents which are now over a century old.
-And most departments of literature cover only a limited range of best-sellers
-from the "post WWII period." A competent modernist can likely name dozen or so
-contemporaneous literary movements emerging at the turn of the twentieth
-century. Few in our field can name more than a handful at the turn of the
-twenty-first.[^ln12-survey]
-
-[^ln12-survey]: I can only give anecdotal evidence here, as I often put this
-question before my graduate students at the beginning of the semester,
-with the reported results.
-
 #### NEA says civilization in decline
 In trying to understand the incongruity of NEA's dour prognosis with broad
 theoretical models and demographic trends that describe the proliferation of
@@ -1344,7 +1310,8 @@ Eagleton, values are more than simple assertion of private taste, instead they
 refer to assumptions "by which certain social group exercise and maintain
 control over others.  [@eagleton1983, 15-47]. Is it possible to reduce
 literature to "good literature" otherwise? To have personal tastes or to study
-quality empirically, is different form the project of asserting quality.
+quality empirically, is different form the project of asserting quality. But I
+dont think the ideology can be gotten to through the analysis of content alone.
 
 #### Plain text textuality, poetics
 Sharing the prejudice for aesthetic reading with my colleagues, I would rather
@@ -1377,19 +1344,7 @@ finicky epicures of literature. To protect literature, lovers of the word
 cannot retreat into the protected, if increasingly diminishing, realm of the
 Literary.
 
-#### Texts are fucking everywhere
-Texts are the salient currency of human life. Beneath every scientific discovery, every popular song,
-every film, radio, or television serial, every art or architectural project,
-every political office, every legal judgment, every kitchen recipe, every
-doctor's prescription, every website, and every machine manual—beneath that
-giant and perplexing pile of human activity lies a complex network of literary
-material. The task of the literary scholar becomes to make visible that textual
-undercurrent, to follow and to map its movements across culture, to expose the
-mechanisms of its mutation and locomotion.
-
-### 1.2.2 Literature Down to the Pixel
-
-#### Latour's anthropology of texts
+#### Building on Latour's anthropology of texts
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an "ethnography" of a science lab, showing the
 passage of ideas from applied experiment to textual inscription. For Woolgar
@@ -1412,13 +1367,60 @@ poetry, and plays" [@nea2004, 1-2]. For Woolgar and Latour "literature" is more
 broadly something inscribed, printed, or published. Literature of the hospital.
 Literature in the hospital. In the law office.
 
-#### macro and Micro reading
+#### Texts are fucking everywhere
+Texts are the salient currency of human life. Beneath every scientific discovery, every popular song,
+every film, radio, or television serial, every art or architectural project,
+every political office, every legal judgment, every kitchen recipe, every
+doctor's prescription, every website, and every machine manual--beneath that
+giant and perplexing pile of human activity lies a complex network of literary
+material. The task of the literary scholar becomes to make visible that textual
+undercurrent, to follow and to map its movements across culture, to expose the
+mechanisms of its mutation and locomotion.
+
+#### Textual iceberg is huge, we are only contributing to its growth 
+Hampered by an artificially-limited field of activity, the study of literature
+excavates a small, sacred patch on tip of an immense textual iceberg.
+Paradoxically, the results of all that iceberg-digging sink to join the mass of
+its submerged and unexcavated bottom. Texts multiply and produce other texts:
+that's more or less the point of Roland Barthes's 250-page exegesis of a 30
+page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
+as a scholar, I suspect that exponential growth and diminishing returns will
+eventually (if not already) make such relentlessly exogesic mode of scholarship
+unsustainable. The value of each new "Barthes" and associated commentary
+plummets as texts multiply exponentially, quickly reaching the human limits of
+comprehension. There no winners in such an arm race between footnotes, only
+eventual irrelevance.
+
+#### New forms of textuality are hidden
+Non-positivistic disciplines like literary studies lack a methodology for
+definitively settling any research program. For this reason, citation patterns
+in the humanities journals privilege well-established sources
+[@tenen2014-displacement], where the sciences will usually defer to the "last
+word" on any given question. Without robust mechanisms for condensing and for
+pruning accepted knowledge the archive expands precipitously. Its combined
+weight necessarily devalues the literature of the present, creating a curious
+kind of a gap in contemporary material. A "modernist" in literary studies
+denotes a specialist who works on documents which are now over a century old.
+And most departments of literature cover only a limited range of best-sellers
+from the "post WWII period." A competent modernist can likely name dozen or so
+contemporaneous literary movements emerging at the turn of the twentieth
+century. Few in our field can name more than a handful at the turn of the
+twenty-first.[^ln12-survey]
+
+[^ln12-survey]: I can only give anecdotal evidence here, as I often put this
+question before my graduate students at the beginning of the semester,
+with the reported results.
+
+#### Reading is changing
+Blah
+#### Macro and Micro reading
 Tracing the past the
 inscription. Editorial vectors.he emergence of distant reading. Big data.
 Medium data: search interfaces. But it's not "free." Free as in speech and free
 as in beer.  Close reading is still important, more agility to work at
 different scales of analysis. Close reading vs. closest reading, microanalysis
-at the level of the pixel.
+at the level of the pixel. Reconstructing the birth of the literary. How contol
+is encoded.
 
 ##### Start of the material part.
 
@@ -1467,6 +1469,8 @@ US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402,
 1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast
 programming or radio and television content (US1974062, 1932-1934; US2031074,
 1931-1936).
+
+### 1.2.2 Literature Down to the Pixel
 
 #### Content and Control
 
