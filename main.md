@@ -1077,7 +1077,7 @@ a topic of exposition in subsequent chapters.
 
 Literary reading is at risk, concluded the survey of Public Participation in
 the Arts conducted by the Census Bureau on the behest of the National
-Endowments for the Arts in 2004 [@readingrisk2004]. The conclusion stands in
+Endowments for the Arts (NEA) in 2004 [@readingrisk2004]. The conclusion stands in
 stark contrast with trends that tell a story of an expanding literary, textual
 field. On an average day in 2008, at home, an average American read around
 100,500 words a day. At 250 words per page, that is around 402 printed pages.
@@ -1099,9 +1099,7 @@ some fields) [@larsen2010, @archambault2005, @crespi2008] The number of books
 published in the United States almost tripled from 2005 to 2009 [@bowker2010].
 As a society we are reading, writing, and publishing more with each year. With
 these figures in mind, I ask: What is the source of modern metaphysical anxiety
-about the relationship between language and technology?  What makes lovers of
-literature deny some measure of literariness to wild and rapidly proliferating
-forms of textuality?
+about the relationship between language and technology?
 
 In the 1990s, the ire of the metaphysically disaffected coursed against visual
 culture and television [@stephens1998, @merrin199]. A decade later it turned
@@ -1116,20 +1114,25 @@ changing circumstances threaten to reconfigure modes of literary production,
 access, and distribution tied to the circulation of paper and ink.
 
 The expansion of textuality into mediums governed by other logics, indicates a
-diffusion of literary terms, rather than their decline. Research questions
-related to narrative, language, text, story, prosody, dialogue, composition,
-discourse, authorship, information, influence, genre, corpus, archive,
-interpretation, meaning, etc., are topics now central to disciplines as diverse
-as anthropology, sociology, bioinformatics, and computer science.[^ln-prosody]
-Consider the example of a generalized left-to-right (GLR) parser algorithm
-designed to handle nondeterministic and ambiguous grammars
+diffusion of literary conceptual apparatus, rather than its decline.
+Disciplines as diverse as anthropology, sociology, bioinformatics, and computer
+science today routinely use language related to narrative, language, text,
+story, prosody, dialogue, composition, discourse, authorship, information,
+influence, genre, corpus, archive, and interpretation.[^ln-prosody] The
+convergence between disparate fields of human activity reifies and transforms
+the vocabulary. As a literary scholar, I am compelled to reexamine the critical
+terms at the very basis of my research in teaching practice. In comparing the
+relatively dour conclusions of NEA's report to broad demographic trends that
+describe an expansion of the textual sphere, I am faced with two choices. The
+first, hinted by the writers of the report,
+(the conservative option) to understand the ebbing of literary readership as a
+general decline of civilization and the arts, and two (
 
-[^ln-prosody]: See for example Julia Hirschberg's work on prosody, dialogue, and
-discourse @hirschberg1998, . 
+eThe first way to understand the data is to believe that
+contemporary culture is somehow less interested in 
 
-As the vocabulary of literary criticism becomes rarefied, it is transformed. As
-a literary scholar interested in the dialogue between disciplines, I must avoid
-the impulse to rarefy my theoretical instrumentation.
+[^ln-prosody]: See for example Julia Hirschberg's work on prosody, dialogue,
+and discourse @hirschberg1998, @hirschberg2004 (check that).
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an "ethnography" of a science lab, showing the
@@ -1157,40 +1160,41 @@ capable of adressing not only poetry
 
 
 ### 1.2.1 Hidden Value
-In his 2004 Humanism and Democratic Criticism, Edward Said wrote
-about the "fundamental irreconcilability between the aesthetic and the
-non-aesthetic," which must be sustained "as a necessary condition of our work
-as humanists." The aesthetic exists in opposition to the "quotidian"
-experiences that we all share, writes Said: "To read Tolstoy, Mahfouz, or
-Melville, to listen to Bach, Duke Ellington, or Elliott Carter, is to do
-something different from reading the newspaper or listening to the taped music
-you get while the phone company or your doctor puts you on hold." I want to
-argue here, in the most forceful way possible, that the practice of humanities
-scholarship in general, and literary studies in particular, does not need to
-rely on any such distinctions; that the dichotomy between aesthetic and the
-non-aesthetic introduces numerous biases into the system of our study; and that
-it severely limits the scope and therefore the relevance of our activities.
-Some could argue that the diffusion of the textual field somehow cheapens the
-literary enterprise of art for art's sake. On the opposite, the diffusion of
-the field is flooded plane that protects the citadel of cherished literary works.
+
+In his 2004 Humanism and Democratic Criticism, Edward Said wrote about the
+"fundamental irreconcilability between the aesthetic and the non-aesthetic,"
+which must be sustained "as a necessary condition of our work as humanists."
+The aesthetic exists in opposition to the "quotidian" experiences that we all
+share, writes Said: "To read Tolstoy, Mahfouz, or Melville, to listen to Bach,
+Duke Ellington, or Elliott Carter, is to do something different from reading
+the newspaper or listening to the taped music you get while the phone company
+or your doctor puts you on hold." I want to argue here, in the most forceful
+way possible, that the practice of humanities scholarship in general, and
+literary studies in particular, does not need to rely on any such distinctions;
+that the dichotomy between aesthetic and the non-aesthetic introduces numerous
+biases into the system of our study; and that it severely limits the scope and
+therefore the relevance of our activities.  Some could argue that the diffusion
+of the textual field somehow cheapens the literary enterprise of art for art's
+sake. On the opposite, the diffusion of the field is flooded plane that
+protects the citadel of cherished literary works.
 
 But not all texts are cherished in the same way. What surprises me most about
 Said's position, is that he (being an influential figure in post-colonial
 theory) of all people must have understood that not so long ago and following
-similar logic, literary scholars systematically excluded writers like Mahfouz into
-their curricula, and that many still consider Ellington to be too "quotidian"
-of a musician to be mentioned in the same sentence with Bach. This very same
-logic forces our work to congeal around a narrow and conservative canon of
-texts that in a sense have already "proven" their aesthetic merit. Scholars
-working on "lesser" writers or with non-fictional texts are therefore placed in
-the awkward position of needing to justify the cultural value of the object of
-their study. The literary scholar often seems to be not in the business of
-studying literature, but in the business of creating or sustaining the cultural
-cache of his sometimes very small academic fiefdom. At stake in the distinction
-drawn by Said are the very notions of "aesthetic" and "quotidian" as markers of
-prestige—notions that encourage disciplinary infighting, tug-of-war style, by
-which much energy is spent in struggling to pull your material from one
-category into the other.
+similar logic, literary scholars systematically excluded writers like Mahfouz
+into their curricula, and that many still consider Ellington to be too
+"quotidian" of a musician to be mentioned in the same sentence with Bach. This
+very same logic forces our work to congeal around a narrow and conservative
+canon of texts that in a sense have already "proven" their aesthetic merit.
+Scholars working on "lesser" writers or with non-fictional texts are therefore
+placed in the awkward position of needing to justify the cultural value of the
+object of their study. The literary scholar often seems to be not in the
+business of studying literature, but in the business of creating or sustaining
+the cultural cache of his sometimes very small academic fiefdom. At stake in
+the distinction drawn by Said are the very notions of "aesthetic" and
+"quotidian" as markers of prestige—notions that encourage disciplinary
+infighting, tug-of-war style, by which much energy is spent in struggling to
+pull your material from one category into the other.
 
 The social and political consequences of the split between high and low
 literatures have been subjected to a rigorous critique from the discipline
