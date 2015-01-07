@@ -1120,16 +1120,15 @@ diffusion of literary terms, rather than their decline. Research questions
 related to narrative, language, text, story, prosody, dialogue, composition,
 discourse, authorship, information, influence, genre, corpus, archive,
 interpretation, meaning, etc., are topics now central to disciplines as diverse
-as anthropology, sociology, bioinformatics, and computer science.[^ln-prosody] Consider the
-example of a generalized left-to-right (GLR) parser algorithm designed to
-handle nondeterministic and ambiguous grammars
+as anthropology, sociology, bioinformatics, and computer science.[^ln-prosody]
+Consider the example of a generalized left-to-right (GLR) parser algorithm
+designed to handle nondeterministic and ambiguous grammars
 
 [^ln-prosody]: See for example Julia Hirschberg's work on prosody, dialogue, and
 discourse @hirschberg1998, . 
 
-As the
-vocabulary of literary criticism becomes rarefied, it is transformed. As a
-literary scholar interested in the dialogue between disciplines, I must avoid
+As the vocabulary of literary criticism becomes rarefied, it is transformed. As
+a literary scholar interested in the dialogue between disciplines, I must avoid
 the impulse to rarefy my theoretical instrumentation.
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
@@ -1153,9 +1152,9 @@ Endowment of the Arts "literature" means narrowly "novels, short stories,
 poetry, and plays" [@nea2004, 1-2]. For Woolgar and Latour "literature" is more
 broadly something inscribed, printed, or published. 
 
-It is in the above
-cluster of critical terms, I locate a notion of poetics capable of adressing
-not only poetry 
+It is in the above cluster of critical terms, I locate a notion of poetics
+capable of adressing not only poetry 
+
 
 ### 1.2.1 Hidden Value
 In his 2004 Humanism and Democratic Criticism, Edward Said wrote
@@ -1368,8 +1367,10 @@ forensic patience, a pragmatic (as opposed to dogmatic) approach to
 methodology, and the discipline's radical openness to a wide variety of textual
 material. Without change, we are in danger of becoming irrelevant in a culture
 that may no longer fully share our notions of the sacred.
+
 Text as a field underlying television, law, medicine.
 
+As a result of that blindness, textuality in these places is poorly covered by any discipline. Management perhaps. 
 ### 1.2.2 Literature Down to the Pixel
 The emergence of distant reading. Big data. Medium data: search interfaces. But
 it's not "free." Free as in speech and free as in beer.  Close reading is still
