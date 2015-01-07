@@ -1242,27 +1242,27 @@ belief in the connection between beauty and justice, beauty and the good,
 beauty and the upright moral life. I wish to avoid disturbing the foundations
 of that intellectual edifice, and only want to point out that, for some, beauty
 can also reside outside of artful discourse, and that others find beauty in the
-strangest of places, and that texts—their movement within and across
-cultures—present many problems not exhausted by the aesthetic or the moral
+strangest of places, and that texts--their movement within and across
+cultures--present many problems not exhausted by the ethic or the aesthetic
 realms. Reading fiction (of a kind) for pleasure (of a kind) may indeed be a
-vanishing pastime, but that is not to say that our society has gotten less
-literate. On the contrary, the 21st century has seen an explosion in the
-cultural transmission of textual information. Problems of information
-retrieval, storage, search, and analysis have motivated the growth of whole new
-disciplines--natural language processing, automatic translation, computational
-text analysis, human-computer interaction, data science, and many others.
-Matters always central to the field remain vitally important to the functioning
-of modern society. Literature broadly conceived provides fertile grounds for
-collaboration between diverse disciplines interested in the changing dynamics
-of narrative, interpretation, language, form, prosody, composition, dialogue,
-discourse, story, genre, authorship, influence, and text. It is in this core
-conceptual cluster of operational terms that I want to locate a notion of
-poetics, poetics capable of addressing not only the machinations of poetry and
-prose, but also of code, document, inscription, file, record, note, manual,
-journal, script, and archive. I imagine my fellow travellers as voracious
-omnivores of text, not finicky epicures of literature. To protect literature,
-lovers of the word cannot retreat into the protected, if increasingly
-diminishing, realm of the Literary.
+vanishing pastime, but that is not to say that our society has gotten
+interested in literature of all kinds. On the contrary, whole new disciplines
+have sprung up to deal with textual saturation: natural language processing,
+narrative generation, automatic translation and summarization, computational
+text analysis, discourse analysis, corpus linguistics, and digital humanities
+among others.  Matters always central to the field of literary studies remain
+vitally important to the functioning of modern society. Literature broadly
+conceived provides fertile grounds for collaboration between diverse
+disciplines interested in the changing dynamics of narrative, interpretation,
+language, form, prosody, composition, dialogue, discourse, story, genre,
+authorship, influence, and text. It is in this core conceptual cluster of
+operational terms that I want to locate a notion of poetics, poetics capable of
+addressing not only the machinations of poetry and prose, but also of code,
+document, inscription, file, record, note, manual, journal, script, and
+archive. I imagine my fellow travellers as voracious omnivores of text, not
+finicky epicures of literature. To protect literature, lovers of the word
+cannot retreat into the protected, if increasingly diminishing, realm of the
+Literary.
 
 ### 1.2.1 Code and Poetry
 
@@ -1280,7 +1280,7 @@ who wrote that "the design of tomorrow's literature determines what the human
 race will be able to keep track of and to understand." The enterprise of
 understanding, contextualizing, and transforming contemporary literary practice
 seems worthy of literary scholarship conceived as a broader, more inclusive,
-and more robust enterprise. 
+and more robust enterprise.
 
 In comparing the relatively dour conclusions of NEA's report to broad
 demographic trends that describe an expansion of the textual sphere, I am faced
