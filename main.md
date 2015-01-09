@@ -1467,31 +1467,32 @@ of literary discovery, were legions of attorneys and paralegals pore over
 terabytes of textual material, transforming inscription into evidence. That is
 not all these institutions are, but they are also that.
 
-#### Dealing with textuality
+#### Macro and Micro
 
 Such textual proliferation comes at a cost. Until recently, the bread and
 butter of literary scholarship has been close reading. Close reading like
 critical thinking is an idea that is easier to perform than to explain, because
 the details become contentious as soon as they are
 formalized.[^ln12-closereading] I will tread carefully by committing myself to
-some notion of deliberate and reflective practice aimed at deep
-comprehension. The Partnership for Assessment of Readiness for College and
-Careers (PARCC), the organization responsible for the Common Core standards
-being implemented in schools across the United States today, promotes close
-reading as "thorough," "methodical," and "analytical" practice that "enables
-students to reflect on the meanings of individual words and sentences; the
-order in which sentences unfold; and the development of ideas over the course
-of the text, which ultimately leads students to arrive at an understanding of
-the text as a whole [@PARCC2012, 7]." The general movement here is from "words"
-to "work." The model of textuality implicit in the project of close reading
-assumes an environment of a well-defined literary canon, naturally accessible
-to the human intellect. For the duration of the "Gutenberg galaxy," the age of
-print, a well-educated person might have been expected to internalize some
-several hundred or perhaps thousands major texts constituting the canon.
+some notion of deliberate and reflective practice aimed at deep comprehension.
+The Partnership for Assessment of Readiness for College and Careers (PARCC),
+the organization responsible for the Common Core standards being implemented in
+schools across the United States today, promotes close reading as "thorough,"
+"methodical," and "analytical" practice that "enables students to reflect on
+the meanings of individual words and sentences; the order in which sentences
+unfold; and the development of ideas over the course of the text, which
+ultimately leads students to arrive at an understanding of the text as a whole
+[@PARCC2012, 7]." The general movement here is from "text" on the page to
+"work" (text as a whole, in the language of the report). The model of
+textuality implicit in the project of close reading assumes an environment of a
+well-defined literary canon, naturally accessible to the human intellect. For
+the duration of the "Gutenberg galaxy," the age of print, a well-educated
+person might have been expected to internalize some several hundred or perhaps
+thousands major texts constituting the canon.
 
 The expansion of the textual field and its relative liberation from physical
 media have radically increased the cognitive demands of literary engagement.
-The pipeline between word and work has lengthened considerably. On the one
+The pipeline between text and work has lengthened considerably. On the one
 side, the matter of canon formation can no longer be relegated to stable,
 long-term systems of social filtration. Seen form the perspective of a literary
 interface, the database, the social stream, and the search engine are tools for
@@ -1509,7 +1510,7 @@ Using what engine? How to construct the query?
 
 The academic question of canon-formation, transforms into a (not yet critical)
 practice of rapid, iterative, generative canon making. Whatever ideals motivate
-close reading between "word" and "work" surely must drive the process on the
+close reading between "text" and "work" surely must drive the process on the
 level of corpus composition. Almost every field of human activity has responded
 to the condition in which canons are no longer accessible, in their entirety,
 to the unaided (natural) human intellect: distant reading and macroanalysis in
@@ -1520,19 +1521,59 @@ disciplines is a shared toolkit of statistical natural language processing
 [@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
 learning [@flach2012], and topic modeling [@blei2012].
 
+```
+
+                       .------------------ canon
+                       v                   corpus
+                                           database
+        Author > Text > Reader > Work      search result
+                                           recommendation engine
+               ^
+MICROANALYSIS  |                           DISTANT READING (MACROANALYSIS)
+               |
+
+    personal computer
+    file system
+    word processor
+    file format (encoding)
+    publisher
+    distribution system
+    physical media (paper and pixel)
+
+```
+
+Where distant reading and macroanalysis are concerned with text aggregates,
+microanalysis, of the type suggested (but not carried out to its logical
+conclusion) by Latour and Woolgar, occupies the other side of the text-work
+equation. There's relatively little space between author, text, and, reader in
+the traditional model of literary transmission. Were I to write these words in
+front of you, on paper, I would simply pass the page into your hands. In
+receiving this text, you would be fairly certain that no third party meddled in
+the process of transmission. When communicating in this way, it makes quite a
+bit of sense to talk about notions like "authorial intent" and "fidelity of the
+original." The advent of cheap mechanical reproduction (but for the sake of
+brevity start at the printing press) introduces a range of instrumentation that
+mediate between the author and the reader. Distance and mediation weakens any
+notion of fidelity and authorial intent. At the very least, we know that
+editorial practices, publishing markets, and communication technologies
+introduce an element of noise in the original. At worst, long-distance,
+asynchronous communication is susceptible to "man in the middle" attacks,
+by which the content of communication is maliciously altered by a third party.
+
+Changing material conditions of textual transmission thus reconfigure
+fundamental literary the critical conceptual apparatus central to literary
+analysis. The death of the author of which Barthes makes sense in the
+conditions that
+
+The aim of microanalysis
+then is to reconstruct the conditions of textuality, by which encoding and
+decoding--their affect on meaning making and on shared knowledge formation.
+
 [^ln12-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester,
 with the reported results.
 
 [^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
-#### Macro and Micro reading
-Tracing the past the
-inscription. Editorial vectors.he emergence of distant reading. Big data.
-Medium data: search interfaces. But it's not "free." Free as in speech and free
-as in beer.  Close reading is still important, more agility to work at
-different scales of analysis. Close reading vs. closest reading, microanalysis
-at the level of the pixel. Reconstructing the birth of the literary. How contol
-is encoded.
 
 ### 1.2.2 WYSINWYAG (What You See Is Not What You Always Get)
 
