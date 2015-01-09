@@ -1345,17 +1345,22 @@ minds, love solipsism? In each case, synonyms for value-making--loving,
 sanctioning, condoning--appear out of place, incongruent with the inquiry at
 hand. Something is rotten in the very formulation of the question. To put it
 differently: Must we study *only* what we value? I cannot think of a way to
-defend the answer to the affirmative. A zoologist that studies only beautiful
-animal is himself a strange creature. A more radical compromise compels us to
-seek value in the importance of the inquiry itself: in the quality of the
-questions raised, and in the relevance of the answers given. If literary
-reading of a certain kind has the power ascribed to it by the NEA report
-(increased civic participation, etc.), literary humanities need not concern
-itself with the protection of the literary. The survival of the field (and not
-of literature itself) depends on the freedom of its cadres to pursue the
-literary function everywhere, indiscriminately, even in the discarded textual
-detritus of human activity, however quotidian. A conception of a more neutral,
-broad literary domain can include and preserve all existing forms of textuality.
+defend the answer to the affirmative. A zoologist that denies other the study
+of animals he deems "ugly" is himself a strange creature.[^ln12-zoo] A more radical
+compromise compels us to seek value in the importance of the inquiry itself: in
+the quality of the questions raised, and in the relevance of the answers given.
+If literary reading of a certain kind has the power ascribed to it by the NEA
+report (increased civic participation, etc.), literary humanities need not
+concern itself with the protection of the literary. The survival of the field
+(and not of literature itself) depends on the freedom of its cadres to pursue
+the literary function everywhere, indiscriminately, even in the discarded
+textual detritus of human activity, however quotidian. A conception of a more
+neutral, broad literary domain can include and preserve all existing forms of
+textuality.
+
+[^ln12-zoo]: There are several studies that explore the effect of perceived
+aesthetics on zoology and conservation. See esp. @frynta2009 and @stokes2007.
+The short of it: cute animals get more funding.
 
 I am trying to burrow (impatiently, because the archive is thick, and the
 bottom so far) from a big idea, like literature, down to its more modest
