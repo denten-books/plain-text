@@ -1611,6 +1611,8 @@ media. Media is governed by legal and technological regimes of our own making.
 Typesetting sweatshops. Controlling distribution.  Controlling the
 interpretation. Controlling the distribution.
 
+End with kindle. Control of remote devices. Control visible or not.
+
 ## 1.3 Recursive Encounters with Oneself
 `document, vector, archive`
 
