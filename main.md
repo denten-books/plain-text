@@ -1225,6 +1225,21 @@ plummets as texts multiply exponentially, quickly reaching the human limits of
 comprehension. There no winners in such an arm race between footnotes, only
 eventual irrelevance.
 
+Non-positivistic disciplines like literary studies lack a methodology for
+definitively settling any research program. For this reason, citation patterns
+in the humanities journals privilege well-established sources
+[@tenen2014-displacement], where the sciences will usually defer to the "last
+word" on any given question. Without robust mechanisms for condensing and for
+pruning accepted knowledge the archive expands precipitously. Its combined
+weight necessarily devalues the literature of the present, creating a curious
+kind of a gap in contemporary material. A "modernist" in literary studies
+denotes a specialist who works on documents which are now over a century old.
+And most departments of literature cover only a limited range of best-sellers
+from the "post WWII period." A competent modernist can likely name dozen or so
+contemporaneous literary movements emerging at the turn of the twentieth
+century. Few in our field can name more than a handful at the turn of the
+twenty-first.[^ln12-survey]
+
 The logic Said's eloquent defense of the aesthetic merely continues a tradition
 of exclusionary distinction-making, which before Said denied writers like
 Naguib Mahfouz and musicians like Duke Ellington a place in the curriculum. The
@@ -1455,29 +1470,56 @@ not all these institutions are, but they are also that.
 #### Dealing with textuality
 
 Such textual proliferation comes at a cost. Until recently, the bread and
-butter of literary scholars has been close reading: the 
+butter of literary scholarship has been close reading. Close reading like
+critical thinking is an idea that is easier to perform than to explain, because
+the details become contentious as soon as they are
+formalized.[^ln12-closereading] I will tread carefully by committing myself to
+some notion of careful, deliberate, reflective practice aimed at deep
+comprehension. The Partnership for Assessment of Readiness for College and
+Careers (PARCC), the organization responsible for the Common Core standards
+being implemented in schools across the United States today, promotes close
+reading as "thorough," "methodical," and "analytical" practice that "enables
+students to reflect on the meanings of individual words and sentences; the
+order in which sentences unfold; and the development of ideas over the course
+of the text, which ultimately leads students to arrive at an understanding of
+the text as a whole [@PARCC2012, 7]." The general movement here is from "words"
+to "work." The model of textuality implicit in the project of close reading
+assumes an environment of a well-defined literary canon, naturally accessible
+to the human intellect. For the duration of the "Gutenberg galaxy," the age of
+print, a well-educated person might have been expected to internalize some
+several hundred or perhaps thousands major texts constituting the canon.
+
+The expansion of the textual field and its relative liberation from physical
+media have radically increased the cognitive demands of literary engagement.
+The pipeline between word and work has lengthened considerably. On the one
+side, the matter of canon formation can no longer be relegated to stable,
+long-term systems of social filtration. Seen form the perspective of a literary
+interface, the database, the social stream, and the search engine are tools for
+dynamic, "on the fly," generative canon-formation. Consider the task of finding
+an unknown factoid online, as was the case with my previous aside on the status
+of literacy in medieval Muslim world. Not being a medieval scholar, I construct
+a search query, using resources that I believe will return a reasonably
+authoritative list of texts on the subject. The search engine in effect
+substitutes centuries-long processes of canon formation, for a
+near-instantaneous list of results that become my ephemeral, but nevertheless
+authoritative collection of relevant literature. Each text still requires the
+instrumentation of close, analytical interpretation. However, the same ideals
+need to be exercised on the higher level of orchestration. Where to search?
+Using what engine? How to construct the query. The question of canon-formation,
+becomes a question of rapid, iterative, generation of multiple canons. Whatever
+ideals motivate close reading between "word" and "work" surely must drive the
+process on the level of corpus composition.
+
+
 Canon formation as an adaptive strategy to deal with textual proliferation. New
 forms and tools.
 
-Non-positivistic disciplines like literary studies lack a methodology for
-definitively settling any research program. For this reason, citation patterns
-in the humanities journals privilege well-established sources
-[@tenen2014-displacement], where the sciences will usually defer to the "last
-word" on any given question. Without robust mechanisms for condensing and for
-pruning accepted knowledge the archive expands precipitously. Its combined
-weight necessarily devalues the literature of the present, creating a curious
-kind of a gap in contemporary material. A "modernist" in literary studies
-denotes a specialist who works on documents which are now over a century old.
-And most departments of literature cover only a limited range of best-sellers
-from the "post WWII period." A competent modernist can likely name dozen or so
-contemporaneous literary movements emerging at the turn of the twentieth
-century. Few in our field can name more than a handful at the turn of the
-twenty-first.[^ln12-survey]
 
 [^ln12-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester,
 with the reported results.
 
+[^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
 #### Macro and Micro reading
 Tracing the past the
 inscription. Editorial vectors.he emergence of distant reading. Big data.
