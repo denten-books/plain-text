@@ -1071,7 +1071,7 @@ influential @mckitterick1992, @Clanchy1979, and @goody1963.
 a topic of exposition in subsequent chapters.
 
 ## 1.2 Literature Down to the Pixel
-`text, literature, poetics, encoding`
+`text, literature, poetics, canon, encoding`
 
 ### 1.2.0 Hidden Values
 
@@ -1474,7 +1474,7 @@ butter of literary scholarship has been close reading. Close reading like
 critical thinking is an idea that is easier to perform than to explain, because
 the details become contentious as soon as they are
 formalized.[^ln12-closereading] I will tread carefully by committing myself to
-some notion of careful, deliberate, reflective practice aimed at deep
+some notion of deliberate and reflective practice aimed at deep
 comprehension. The Partnership for Assessment of Readiness for College and
 Careers (PARCC), the organization responsible for the Common Core standards
 being implemented in schools across the United States today, promotes close
@@ -1502,18 +1502,23 @@ a search query, using resources that I believe will return a reasonably
 authoritative list of texts on the subject. The search engine in effect
 substitutes centuries-long processes of canon formation, for a
 near-instantaneous list of results that become my ephemeral, but nevertheless
-authoritative collection of relevant literature. Each text still requires the
+authoritative, collection of relevant literature. Each text still requires the
 instrumentation of close, analytical interpretation. However, the same ideals
 need to be exercised on the higher level of orchestration. Where to search?
-Using what engine? How to construct the query. The question of canon-formation,
-becomes a question of rapid, iterative, generation of multiple canons. Whatever
-ideals motivate close reading between "word" and "work" surely must drive the
-process on the level of corpus composition.
+Using what engine? How to construct the query?
 
-
-Canon formation as an adaptive strategy to deal with textual proliferation. New
-forms and tools.
-
+The academic question of canon-formation, transforms into a (not yet critical)
+practice of rapid, iterative, generative canon making. Whatever ideals motivate
+close reading between "word" and "work" surely must drive the process on the
+level of corpus composition. Almost every field of human activity has responded
+to the condition in which canons are no longer accessible, in their entirety,
+to the unaided (natural) human intellect: distant reading and macroanalysis in
+literary studies[@jockers2013, @moretti2013], culturomics in economy
+[@aiden2014], e-discovery in law [@capra2009], and medical informatics in
+medicine [@shortliffe2012], among others. At the foundations of these nascent
+disciplines is a shared toolkit of statistical natural language processing
+[@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
+learning [@flach2012], and topic modeling [@blei2012].
 
 [^ln12-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester,
