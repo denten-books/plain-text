@@ -1444,7 +1444,10 @@ material. The task of the literary scholar becomes to make visible that textual
 undercurrent, to follow and to map its movements across culture, to expose the
 mechanisms of its mutation and locomotion.
 
-#### New forms of textuality are hidden
+#### Dealing with textuality
+
+Canon formation as an adaptive strategy to deal with textual proliferation. New
+forms and tools.
 
 Non-positivistic disciplines like literary studies lack a methodology for
 definitively settling any research program. For this reason, citation patterns
