@@ -1161,7 +1161,7 @@ in the material make-up of the literary text. Where I start with an argument
 for a broader conception of literature as an idea, I end with media history that
 traces the passage of literature from text to pixel.
 
-#### Against aesthetics
+#### Against aesthetics (ranty)
 
 When surveying the introductory literature on literature, the reader will
 invariably find a version of Said's "fundamental irreconcilability" position.
@@ -1211,6 +1211,19 @@ fecund textual vistas. In privileging the aesthetic, the study of Literature
 has tied its fate to that of an increasingly vanishing pastime--the leisurely
 reading of poetry and fiction, of a specific kind, holding a privileged form,
 sold in preferred manner.
+
+Hampered by an artificially-limited field of activity, the study of literature
+excavates a small, sacred patch on tip of an immense textual iceberg.
+The results of all that iceberg-digging sink to join the mass of
+its submerged and unexcavated bottom. Texts multiply and produce other texts:
+that's more or less the point of Roland Barthes's 250-page exegesis of a 30
+page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
+as a scholar, I suspect that exponential growth and diminishing returns will
+eventually (if not already) make such relentlessly exogesic mode of scholarship
+unsustainable. The value of each new "Barthes" and associated commentary
+plummets as texts multiply exponentially, quickly reaching the human limits of
+comprehension. There no winners in such an arm race between footnotes, only
+eventual irrelevance.
 
 The logic Said's eloquent defense of the aesthetic merely continues a tradition
 of exclusionary distinction-making, which before Said denied writers like
@@ -1386,66 +1399,63 @@ her publication record is merely a byproduct of her research activity. Yet
 Latour shows pretty convincingly that the laboratory participants closest to
 the material conditions of knowledge production are at the same time, most
 marginalized members of the group. Lab technicians handle the matter of mass
-spectrometers and bioassays in contrast to Ph.D. holders who spend most of
+spectrometers and bioassays. Ph.D. holders, by contrast, spend most of
 their time handling inscription devices like printers and computer consoles.
 
-Although much cited in the study of culture, science, and technology, the book
-had curiously little impact on the study of literature, even though Latour and
-Wollgar borrowed much the other way around. In the 1986 postscript to the
-American edition, they remark on the broad trend in literary theory to treat
-texts as objects of interpretation, disavowing the kind of criticism aimed at
-the "real meaning of texts," at "what the text says," "what really happened,"
-or "what the authors intended [@latour1986, 273]." Similarly, research in the
-social study of science should be aimed at the "contingent character of
-objectification practices." Science, on their view, is itself a type of a
-literary system, "generating texts whose fate (status, value, utility,
-facticity) depends subsequently on interpretation [@latour1986, 273]."
+Although much cited in the study of culture, science, and technology,
+*Laboratory Life* had curiously little impact on the study of literature, even
+though Latour and Wollgar borrowed much the other way around. In the 1986
+postscript to the American edition, they remark on the broad trend in literary
+theory to treat texts as objects of interpretation, disavowing the kind of
+criticism aimed at the "real meaning of texts," at "what the text says," "what
+really happened," or "what the authors intended [@latour1986, 273]." Similarly,
+research in the social study of science should be aimed at the "contingent
+character of objectification practices." Science, on their view, is itself a
+type of a literary system, "generating texts whose fate (status, value,
+utility, facticity) depends subsequently on interpretation [@latour1986, 273]."
 Throughout the book, Woolgar and Latour use the term literature to mean
 something "inscribed, printed, or published," a combination of verbs that
 coincides with "literature" consistently throughout [@latour1986, 47-53].
 Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
-research program started by the post-structuralist. Where Jaques Derrida could
-offhand remark "everything is a text," Woolgar and Latour make concrete the
+research program started by the post-structuralists. Where Jacques Derrida could
+offhand remark that "everything is a text," Woolgar and Latour make concrete the
 literal transformation of matter into text. No longer was literature an
 illustration of something that happens in the laboratory: Latour and Woolgar
-showed the laboratory to function as a literary system. The conventional way to
-understand Woolgar and Latour brings the interpreter into the laboratory,
-breaking the illusion of scientific objectivity: instead of "discovering"
-facts, scientist socially construct them. Paradoxically, as Latour and Woolgar
-worked to undermine the empirical unity of science (turning it into a kind of
-hermeneutics), they performed literary analysis as an empirical method. To
-"read" the laboratory, the researchers had to be there, in person, observing
-and taking notes. The laboratory opens up to them through a careful
-micro-ethnography. The reader gets to examine floor plans, research samples, dialog
-transcriptions, publication patterns, and other evidentiary materials.
+showed the laboratory to function as a literary system.
 
-#### Textual iceberg is huge, we are only contributing to its growth
+The conventional way to understand Woolgar and Latour brings the interpreter
+into the laboratory, breaking the illusion of scientific objectivity: instead
+of "discovering" facts, scientist socially construct them. Paradoxically, as
+Latour and Woolgar worked to undermine the empirical unity of science (turning
+it into a kind of hermeneutics), they performed literary analysis as an
+empirical method. To "read" the laboratory, the researchers had to be there, in
+person, observing and taking notes. The laboratory opens up to them through a
+careful micro-ethnography. The reader gets to examine floor plans, research
+samples, dialog transcriptions, publication patterns, and other evidentiary
+materials.
 
-Hampered by an artificially-limited field of activity, the study of literature
-excavates a small, sacred patch on tip of an immense textual iceberg.
-The results of all that iceberg-digging sink to join the mass of
-its submerged and unexcavated bottom. Texts multiply and produce other texts:
-that's more or less the point of Roland Barthes's 250-page exegesis of a 30
-page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
-as a scholar, I suspect that exponential growth and diminishing returns will
-eventually (if not already) make such relentlessly exogesic mode of scholarship
-unsustainable. The value of each new "Barthes" and associated commentary
-plummets as texts multiply exponentially, quickly reaching the human limits of
-comprehension. There no winners in such an arm race between footnotes, only
-eventual irrelevance.
-
-Literature of the hospital.  Literature in the hospital. In the law office.
-Texts are the salient currency of human life. Beneath every scientific discovery, every popular song,
-every film, radio, or television serial, every art or architectural project,
-every political office, every legal judgment, every kitchen recipe, every
-doctor's prescription, every website, and every machine manual--beneath that
-giant and perplexing pile of human activity lies a complex network of literary
-material. The task of the literary scholar becomes to make visible that textual
-undercurrent, to follow and to map its movements across culture, to expose the
-mechanisms of its mutation and locomotion.
+To view Woolgar and Latour as scholars of literature is to open up the
+floodgates of textuality. The laboratory, the court, the hospital--these
+institutions cannot be reduced to text, but they are in part, literary systems.
+Beneath every scientific discovery, every popular song, every film, radio, or
+television serial, every art or architectural project, every political office,
+every legal judgment, every restaurant meal, every doctor's prescription, every
+website, and every machine manual--beneath that giant and perplexing pile of
+human activity lies a complex network of textual material. The task of the
+literary scholar becomes to make visible that textual undercurrent, to follow
+and to map its movements across culture, to expose the mechanisms of its
+mutation and locomotion. It is an exciting prospect: to view the hospital as a
+library, where cadres of physicians and administrators convert human stories
+into diagnoses, into controlled vocabularies, into files, into billable codes,
+into inscriptions, and into archives. Or to see the legal system as a process
+of literary discovery, were legions of attorneys and paralegals pore over
+terabytes of textual material, transforming inscription into evidence. That is
+not all these institutions are, but they are also that.
 
 #### Dealing with textuality
 
+Such textual proliferation comes at a cost. Until recently, the bread and
+butter of literary scholars has been close reading: the 
 Canon formation as an adaptive strategy to deal with textual proliferation. New
 forms and tools.
 
