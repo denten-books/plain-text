@@ -1070,7 +1070,7 @@ influential @mckitterick1992, @Clanchy1979, and @goody1963.
 [^ln11-quran]: I go into detail here because textual self-identity will become
 a topic of exposition in subsequent chapters.
 
-## 1.2 WYSINWYAG (What You See Is Not What You Always Get)
+## 1.2 Literature Down to the Pixel
 `text, literature, poetics, encoding`
 
 ### 1.2.0 Hidden Values
@@ -1152,16 +1152,16 @@ maintain in practice. Bias in favor of the aesthetic is a bias in favor of a
 specific, historically- and materially- contingent idea of the aesthetic. That
 preconceived idea carries with it a hidden cost, introducing numerous blind
 spots into the study of literature at large, limiting it in scope and
-relevance. Textual diffusion threatens not the humanity, but the existing
-socio-economic order that governs who gets to access, interpret, and archive
-literature as text and document. I begin with several propositions then: one
-that the literary field, understand in broad terms, is expanding, and two, that
-with a quantitative expansion comes qualitative change in the material make-up
-of the literary text. Where I start with an intellectual history, I end with a
-discussion media history that traces the passage of literature from text to
-pixel.
+relevance. Textual diffusion threatens not the humanity (or the humanities),
+but the existing socio-economic order that governs who gets to access, to
+interpret, and to archive literature as text and document. I begin with several
+propositions then: one that the literary field, understand in broad terms, is
+expanding, and two, that with a quantitative expansion comes qualitative change
+in the material make-up of the literary text. Where I start with an argument
+for a broader conception of literature as an idea, I end with media history that
+traces the passage of literature from text to pixel.
 
-#### Infighting
+#### Against aesthetics
 
 When surveying the introductory literature on literature, the reader will
 invariably find a version of Said's "fundamental irreconcilability" position.
@@ -1172,56 +1172,113 @@ be drawn are between the literary, the everyday, and the scientific uses of
 language [@wellek, 22]." Similarly, Raymond Williams defines it to mean "mainly
 poems and plays and novels," as opposed to other kinds of "serious" writing
 that are "general," "discursive," or "the sub-literary [@william1976,
-152-153]."[^ln12-engell] Sharing the prejudice for aesthetic reading with my colleagues, I would rather
-spend my free time reading Tolstoy and Shakespeare than poring over arcane
-printer and telegraph manuals. Implicit in that prejudice is an idea--professed
-by Kant, Schiller, and more recently, Tzvetan Todorov and Elaine Scarry--the
-belief in the connection between beauty and justice, beauty and the good,
-beauty and the upright moral life. I wish to avoid disturbing the foundations
-of that intellectual edifice, and only want to point out that, for some, beauty
-can also reside outside of artful discourse, and that others find beauty in the
-strangest of places, and that texts--their movement within and across
-cultures--present many problems not exhausted by the ethic or the aesthetic
-realms. Reading fiction (of a kind) for pleasure (of a kind) may indeed be a
-vanishing pastime, but that is not to say that our society has gotten
-interested in literature of all kinds. On the contrary, whole new disciplines
-have sprung up to deal with textual saturation: natural language processing,
-narrative generation, automatic translation and summarization, computational
-text analysis, discourse analysis, corpus linguistics, and digital humanities
-among others.
+152-153]."[^ln12-engell] Sharing the prejudice for aesthetic reading with my
+colleagues, I would rather spend my free time reading Tolstoy and Shakespeare
+than poring over arcane printer and telegraph manuals. Implicit in that
+prejudice is an idea--professed by Immanuel Kant, Friedrich Schiller, and, more
+recently, Tzvetan Todorov and Elaine Scarry--the belief in the connection
+between beauty and justice, beauty and the good, beauty and the upright moral
+life. I wish to avoid disturbing the foundations of that intellectual edifice,
+and only want to point out that, for some, beauty can also reside outside of
+artful discourse, and that others find beauty in the strangest of places, and
+that texts--their movement within and across cultures--present many problems
+not exhausted by the ethic or the aesthetic realms. Reading fiction (of a kind)
+for pleasure (of a kind) may indeed be a vanishing pastime, but that is not to
+say that our society has gotten interested in literature of all kinds. On the
+contrary, whole new disciplines have sprung up to deal with textual saturation:
+natural language processing, narrative generation, automatic translation and
+summarization, computational text analysis, discourse analysis, corpus
+linguistics, and digital humanities among others.
 
-Matters always central to the field of literary studies remain
-vitally important to the functioning of modern society. Literature broadly
-conceived provides fertile grounds for collaboration between diverse
-disciplines interested in the changing dynamics of narrative, interpretation,
-language, form, prosody, composition, dialogue, discourse, story, genre,
-authorship, influence, and text. It is in this core conceptual cluster of
-operational terms that I want to locate a notion of poetics, poetics capable of
-addressing not only the machinations of poetry and prose, but also of code,
-document, inscription, file, record, note, manual, journal, script, and
-archive. I imagine my fellow travellers as voracious omnivores of text, not
-finicky epicures of literature. Lovers of the word
-cannot retreat into the protected, if increasingly diminishing, realm of the
-Literary. A broad sense of the literary forms a vast textual domain that servs
+Matters always central to the field of literary studies remain vitally
+important to the functioning of modern society. Literature broadly conceived
+provides fertile grounds for collaboration between diverse disciplines
+interested in the changing dynamics of narrative, interpretation, language,
+form, prosody, composition, dialogue, discourse, story, genre, authorship,
+influence, and text. It is in this core conceptual cluster of operational terms
+that I want to locate a notion of poetics, poetics capable of addressing not
+only the machinations of poetry and prose, but also of code, document,
+inscription, file, record, note, manual, journal, script, and archive. I
+imagine my fellow travellers as voracious omnivores of text, not finicky
+epicures of literature.
 
-An attempt to limit the literary function to fixed definitions of beauty,
-genre, period, or format are bound to fail at
+This is not to say that I advocate ignorance, nor do I follow the Russian
+formalist poet Vladimir Mayakovksy who in the beginning of the last century
+called on his peers to "cast Pushkin, Dostoevsky, Tolstoy, et.al. overboard
+from the ship of Modernity." I hold instead that in the implicit perusal of the
+subjectively beautiful discourse literary scholars have abandoned vast and
+fecund textual vistas. In privileging the aesthetic, the study of Literature
+has tied its fate to that of an increasingly vanishing pastime--the leisurely
+reading of poetry and fiction, of a specific kind, holding a privileged form,
+sold as preferred matter.
 
-The aesthetic project, and fundamentally conservative
-project. scholars systematically excluded writers like
-Naguib Mahfouz into their curricula, and that many still consider Duke
-Ellington to be too "quotidian" of a musician to be mentioned in the same
-sentence with Bach. This very same logic forces our work to congeal around a
-narrow and conservative canon of texts that in a sense have already "proven"
-their aesthetic merit.  Scholars working on "lesser" writers or with
-non-fictional texts are therefore placed in the awkward position of needing to
-justify the cultural value of the object of their study. The literary scholar
-often seems to be not in the business of studying literature, but in the
-business of creating or sustaining the cultural cache of his sometimes very
-small academic fiefdom. At stake in the distinction drawn by Said are the very
-notions of "aesthetic" and "quotidian" as markers of prestige--notions that
-encourage disciplinary infighting, tug-of-war style, by which much energy is
-spent in struggling to pull one's material from one category into the other.
+The logic Said's eloquent defense of the aesthetic merely continues a tradition
+of exclusionary criticism, which before Said denied writers like Naguib Mahfouz
+and musicians like Duke Ellington a place in the canon. The logic of exclusion
+on aesthetic basis places the critic in the awkward role of a taste-maker,
+limiting research to texts that in a sense were already "blessed" by the
+establishment. Scholars working on "lesser" texts and writers must expand
+considerable energy justifying the merits of their chosen subject. The defense
+of the aesthetic detracts from the larger aims of literary scholarship,
+substituting for critique petty arguments about merit and aesthetic
+distinction. At stake in the binary logic of aestheticism are the very notions
+of "beautiful" and "quotidian" as markers of prestige--notions that encourage
+disciplinary infighting, tug-of-war style, by which much energy is spent in
+struggling to pull material from one category into the other. In the meantime,
+literature is reduced to its ornamental function, as a "neat illustration" for
+otherwise empirical accounts of the human condition.[^ln12-menand]
+
+[^ln12-menand]: I am echoing Louis Menand's "the version of the humanities that would
+make many nonhumanists most comfortable today is the version in which art and
+literature are ornaments on or neat illustrations of empirical accounts of
+human life" [@mendand2005, 10-17].
+
+To limit the literary to a historically-contingent ideal of the aesthetic is to
+limit the project of literary analysis to a moralizing, prescriptive
+enterprise. A whole tradition of Marxist criticism reminds readers that
+prescription cannot be ideologically neutral. "Literature does not exist in the
+sense that insects do," Terry Eagleton writes in his introduction to literary
+theory. "Value judgments by which it is constituted are historically variable,"
+he concludes, having "a close relation to social ideologies." For Eagleton,
+values are more than simple assertion of private taste, instead they refer to
+assumptions "by which certain social group exercise and maintain control over
+others [@eagleton1983, 15-47]. Who controls what? My interpretation of Marxist
+materialism is considerably more literal than Eagleton's. I am interested here
+in physical mechanisms of control, not in their ephemeral ideological
+justifications.
+
+#### Two ways of interpreting NEA
+
+In trying to understand the incongruity of NEA's dour prognosis with broad
+theoretical models and demographic trends that describe the proliferation of
+text, I am confronted with two possible explanations. The writers of the report
+hint at the first themselves: to treat the ebbing of literary reading (in a
+particular mode) as cause and symptom for the general decline of the arts (and
+perhaps of civilization itself). I find that reading unacceptable, (1) because
+it is depressing and (2) because it smacks of historical exceptionalism. I
+strongly suspect that humanity's potential for innovation and creativity has
+remained relatively stable. The material conditions for creative expression may
+change (as in the times of political oppression, pestilence, or war), where the
+spirit endures.
+
+The second, much more palatable (and likely) explanation would question the
+very definitions of literary reading. Consider the possibility of online or
+digital literature that evolves along a different axis, where previous ideas of
+"genre" or "literary movements" no longer apply. To restrict literary reading
+to "novels, short stories, plays, and poetry" is to deny some measure of
+litirariness to song-writing, computer game and software design, and, in an
+obvious way, to non-fiction or, let's say, long stories of arbitrary length.
+Imagine, for example, excluding reality television from the survey on
+television habits, because the genre does not confirm to some normative sense
+of what television should be. The authors of the report concede the point in
+sometimes classifying readers by the number of books read in any genre
+[@NEA2004]. But even that concession confuses form with function. What if
+"reading a book" begins to involve something other than moving one's eyes from
+left to right over sequentially numbered blocks of text? The conundrum reveals
+a strong methodological bias favoring a definition of literature as specific
+matter and form. A report that initially looks like objective, quantitative,
+descriptive analysis (that's the way things are) hides a qualitative,
+proscriptive program (thats the way they should be).
 
 [^ln12-engell]: See also @engell1988.
 
@@ -1252,7 +1309,6 @@ designating the poem as a poem, the critic already has brought with him a set
 of preconceived notions that distinguish what constitutes poetry, and what does
 not; who is in and who is out.
 
-#### Third compromise, critical and value neutral
 The third, conciliatory, stance between these two positions holds that,
 although value-making contaminates all acts of interpretation, the critic can
 and should adopt an interrogatory stance towards value creation as such, which
@@ -1276,83 +1332,23 @@ questions raised, and in the relevance of the answers given. If literary
 reading of a certain kind has the power ascribed to it by the NEA report
 (increased civic participation, etc.), literary humanities need not concern
 itself with the protection of the literary. The survival of the field (and not
-of literature itself) depends on scholars able to pursue the literary
-function everywhere, indiscriminately, even in the discarded textual detritus
-of human activity--precisely in the everyday discursive activity Said so readily
-rejects as quotidian.
+of literature itself) depends on the ability of its cadres to pursue the
+literary function everywhere, indiscriminately, even in the discarded textual
+detritus of human activity--precisely in the everyday discursive activity Said
+so readily rejects as quotidian.
 
-### 1.2.1 Code and Poetry
+I am trying to burrow, impatiently (because the archive is thick), from
+literature down to the text and from text down to its material substratum. I
+proceed from the top down, for now: from the idea to form and matter, but at
+some point we'll need to start digging the tunnel the other way, from the
+bottom up. For this, we'll need an operational definition of literature, free
+from its normative baggage: something like the systematic application of
+textuality to human life, and textuality as a site of that activity (and not
+only its illustration).
 
-#### NEA says civilization in decline
-In trying to understand the incongruity of NEA's dour prognosis with broad
-theoretical models and demographic trends that describe the proliferation of
-text, I am confronted with two possible explanations. The writers of the report
-hint at the first themselves: to treat the ebbing of literary reading (in a
-particular mode) as cause and symptom for the general decline of the arts (and
-perhaps of civilization itself). I find that reading unacceptable, (1) because
-it is depressing and (2) because it smacks of historical exceptionalism. I
-strongly suspect that humanity's potential for innovation and creativity has
-remained relatively stable. The material conditions for creative expression may
-change (as in the times of political oppression, pestilence, or war), where the
-spirit endures.
-
-#### The category is not sufficient instead
-The second, much more palatable (and likely) explanation would question the
-very definitions of literary reading. Consider the possibility of online or
-digital literature that evolves along a different axis, where previous ideas of
-"genre" or "literary movements" no longer apply. To restrict literary reading
-to "novels, short stories, plays, and poetry" is to deny some measure of
-litirariness to song-writing, computer game and software design, and, in an
-obvious way, to non-fiction or, let's say, long stories of arbitrary length.
-Imagine, for example, excluding reality television from the survey on
-television habits, because the genre does not confirm to some normative sense
-of what television should be. The authors concede the point in sometimes
-classifying readers by the number of books read in any genre [@NEA2004]. But
-even that concession confuses form with function. What if "reading a book"
-begins to involve something other than moving one's eyes from left to right
-over sequentially numbered blocks of text? The conundrum reveals a strong
-methodological bias favoring a definition of literature as specific matter and
-form. A report that initially looks like objective, quantitative, descriptive
-analysis (that's the way things are) hides a qualitative, proscriptive program
-(thats the way they should be).
-
-Louis Menand, writes in the Professions , "the version of
-the humanities that would make many nonhumanists most comfortable today is the
-version in which art and literature are ornaments on or neat illustrations of
-empirical accounts of human life." That is precisely the version of literary
-
-
-#### Value not needed
-This is not to say that I advocate ignorance, nor do I follow the Russian
-formalist poet Vladimir Mayakovksy who in the beginning of the last century
-called on his peers to "cast Pushkin, Dostoevsky, Tolstoy, et.al. overboard
-from the ship of Modernity." I hold instead that in the implicit perusal of the
-subjectively beautiful discourse literary scholars have abandoned vast and
-fecund textual vistas. In privileging the aesthetic, the study of Literature
-has tied its fate to that of an increasingly vanishing pastime--the leisurely
-reading of poetry and fiction, of a specific kind, sold in a particular form,
-having this exact shape. Literary academic discourse of that sort often
-contains an implicit assertion about the primacy of that pastime over all
-others. I find it difficult to imagine an analogy in a peculiar moralizing
-branch of physics, for example, interested in studying only the natural
-particles it considered especially pleasing, at the expense of all others.
-Although the sciences too often privilege research programs that support of the
-current economic regime. The humanities are not at all exempt from that
-dynamic.
-
-#### Is it possible to have value neutral definition of literature?
-Prescription cannot not ideologically neutral, Terry Eagleton, a prominent
-Marxist literary critic, writes that "literature does not exist in the sense
-that insects do," and that "the value judgments by which it is constituted are
-historically variable," having "a close relation to social ideologies." For
-Eagleton, values are more than simple assertion of private taste, instead they
-refer to assumptions "by which certain social group exercise and maintain
-control over others.  [@eagleton1983, 15-47]. Is it possible to reduce
-literature to "good literature" otherwise? To have personal tastes or to study
-quality empirically, is different form the project of asserting quality. But I
-dont think the ideology can be gotten to through the analysis of content alone.
-
+### 1.2.1 Wall of Text
 #### Building on Latour's anthropology of texts
+
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an "ethnography" of a science lab, showing the
 passage of ideas from applied experiment to textual inscription. For Woolgar
@@ -1360,36 +1356,47 @@ and Latour, the laboratory functions as a factory of sorts, ingesting matter
 and artifact to produce fact [@latour1986]. That process of inscription comes
 to the fore explicitly: the output of science lab is, in some real ways,
 measured by its publication record [@latour1986]. A scientist may object that
-his publication record is merely a byproduct of research activity. Yet Latour
-shows pretty convincingly that the laboratory participants closest to the
-material conditions of knowledge production are at the same time, most
+her publication record is merely a byproduct of her research activity. Yet
+Latour shows pretty convincingly that the laboratory participants closest to
+the material conditions of knowledge production are at the same time, most
 marginalized members of the group. Lab technicians handle the matter of mass
 spectrometers and bioassays in contrast to Ph.D. holders who spend most of
 their time handling inscription devices like printers and computer consoles.
 
-Although much cited in the studies of science and technology, the book had
-curiously little impact on literary studies. A part of the explanation for this
-must be the incommensurability of operational vocabularies. For the National
-Endowment of the Arts "literature" means narrowly "novels, short stories,
-poetry, and plays" [@nea2004, 1-2]. For Woolgar and Latour "literature" is more
-broadly something inscribed, printed, or published. Literature of the hospital.
-Literature in the hospital. In the law office.
+Although much cited in the study of culture, science, and technology, the book
+had curiously little impact on the study of literature, even though Latour and
+Wollgar borrowed much the other way around. In the 1986 postscript to the
+American edition, they remark on the broad trend in literary theory to treat
+texts as objects of interpretation, disavowing the kind of criticism aimed at
+the "real meaning of texts," at "what the text says," "what really happened,"
+or "what the authors intended [@latour1986, 273]." Similarly, research in the
+social study of science should be aimed at the "contingent character of
+objectification practices." Science, on their view, is itself a type of a
+literary system, "generating texts whose fate (status, value, utility,
+facticity) depends subsequently on interpretation [@latour1986, 273]."
+Throughout the book, Woolgar and Latour use the term literature to mean
+something "inscribed, printed, or published," a combination of verbs that
+coincides with "literature" consistently throughout [@latour1986, 47-53].
+Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
+research program started by the post-structuralist. Where Jaques Derrida could
+offhand remark "everything is a text," Woolgar and Latour make concrete the
+literal transformation of matter into text. No longer was literature an
+illustration of something that happens in the laboratory: Latour and Woolgar
+showed the laboratory to function as a literary system. The conventional way to
+understand Woolgar and Latour brings the interpreter into the laboratory,
+breaking the illusion of scientific objectivity: instead of "discovering"
+facts, scientist socially construct them. Paradoxically, as Latour and Woolgar
+worked to undermine the empirical unity of science (turning it into a kind of
+hermeneutics), they performed literary analysis as an empirical method. To
+"read" the laboratory, the researchers had to be there, in person, observing
+and taking notes. The laboratory opens up to them through a careful
+micro-ethnography. The reader gets to examine floor plans, research samples, dialog
+transcriptions, publication patterns, and other evidentiary materials.
 
-#### Texts are fucking everywhere
-Texts are the salient currency of human life. Beneath every scientific discovery, every popular song,
-every film, radio, or television serial, every art or architectural project,
-every political office, every legal judgment, every kitchen recipe, every
-doctor's prescription, every website, and every machine manual--beneath that
-giant and perplexing pile of human activity lies a complex network of literary
-material. The task of the literary scholar becomes to make visible that textual
-undercurrent, to follow and to map its movements across culture, to expose the
-mechanisms of its mutation and locomotion.
-
-#### Textual iceberg is huge, we are only contributing to its growth 
-
+#### Textual iceberg is huge, we are only contributing to its growth
 Hampered by an artificially-limited field of activity, the study of literature
 excavates a small, sacred patch on tip of an immense textual iceberg.
-Paradoxically, the results of all that iceberg-digging sink to join the mass of
+The results of all that iceberg-digging sink to join the mass of
 its submerged and unexcavated bottom. Texts multiply and produce other texts:
 that's more or less the point of Roland Barthes's 250-page exegesis of a 30
 page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
@@ -1399,6 +1406,16 @@ unsustainable. The value of each new "Barthes" and associated commentary
 plummets as texts multiply exponentially, quickly reaching the human limits of
 comprehension. There no winners in such an arm race between footnotes, only
 eventual irrelevance.
+
+Literature of the hospital.  Literature in the hospital. In the law office.
+Texts are the salient currency of human life. Beneath every scientific discovery, every popular song,
+every film, radio, or television serial, every art or architectural project,
+every political office, every legal judgment, every kitchen recipe, every
+doctor's prescription, every website, and every machine manual--beneath that
+giant and perplexing pile of human activity lies a complex network of literary
+material. The task of the literary scholar becomes to make visible that textual
+undercurrent, to follow and to map its movements across culture, to expose the
+mechanisms of its mutation and locomotion.
 
 #### New forms of textuality are hidden
 
@@ -1421,8 +1438,6 @@ twenty-first.[^ln12-survey]
 question before my graduate students at the beginning of the semester,
 with the reported results.
 
-#### Reading is changing
-Blah
 #### Macro and Micro reading
 Tracing the past the
 inscription. Editorial vectors.he emergence of distant reading. Big data.
@@ -1432,7 +1447,7 @@ different scales of analysis. Close reading vs. closest reading, microanalysis
 at the level of the pixel. Reconstructing the birth of the literary. How contol
 is encoded.
 
-##### Start of the material part.
+### 1.2.2 WYSINWYAG (What You See Is Not What You Always Get)
 
 The computers in the scientist's lab and on a writer's desk emerged from an
 amalgam of automated devices, chief among them the typewriter and the
@@ -1479,8 +1494,6 @@ US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402,
 1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast
 programming or radio and television content (US1974062, 1932-1934; US2031074,
 1931-1936).
-
-### 1.2.2 Literature Down to the Pixel
 
 #### Content and Control
 
