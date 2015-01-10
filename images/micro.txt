@@ -1,0 +1,16 @@
+                       .------------------ canon                
+                       v                   corpus               
+                                           database             
+        Author > Word > Reader > Work      search result        
+                                           recommendation engine
+               ^
+MICROANALYSIS  |                           DISTANT READING (MACROANALYSIS)
+               |
+
+    personal computer               
+    file system                     
+    word processor                  
+    file format (encoding)          
+    publisher                       
+    distribution system             
+    physical media (paper and pixel)
