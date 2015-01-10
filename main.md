@@ -888,7 +888,7 @@ the letters and in the sounds of the words. The form is indeterminate, because
 we do not quite know which of these elements belong to the content of the play
 and which are the contingent material artifacts of the printing process: the
 way the fonts look, for example or the way lines break on the page.
- 
+
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: material, form, and content. The history of Western
 aesthetics can be so reformulated as an attempt to pull the work of art through
@@ -905,7 +905,7 @@ tradition of textual criticism, where "source texts" constitute specific,
 materially-bound editions or manuscripts, and "works" generally denote the
 abstraction of an artistic unity: the idea of Shakespeare's *Hamlet*, for
 example, in opposition to variance found in the multiplicity of individual
-*Hamlets*. 
+*Hamlets*.
 
 Where Barthes wants to liberate text as symbol from the embodied work, scholars
 like Johanna Drucker, make a strong case for returning the text to its
@@ -916,7 +916,7 @@ production of meaning in language [@drucker2008], and that even electronic,
 digital text formats have their material embodiment [@drucker2009]. I am
 sympathetic to the message, but only in so far as it adds a dimension of
 materiality to a properly three-dimensional, thick description of text. Simply
-put, I am greedy and want to have the whole layered cake. 
+put, I am greedy and want to have the whole layered cake.
 
 A clarification of terms allows us to perceive the history of textual
 technology as one of gradual peeling apart of the layers of matter, form, and
@@ -997,12 +997,12 @@ fact, the historical record is full of errors that suggest that pre-modern
 scribes wrote at widely varying levels of literacy [@goudsmit1974,
 @bucking2007].[^ln11-literacy] In the Muslim tradition, the prophet Muhammad
 himself is sometimes called "the unlettered prophet," to emphasize the
-unmediated immediacy of his message [@günther2002, 1-26]. In other words, the
+unmediated immediacy of his message [@calder1990, @günther2002, 1-26]. In other words, the
 Qur'an claim to authenticity relies on the prophet's ability to copy the
 message "verbatim." On the conservative Muslim view, anything but a faithful
 transcription of the original text amounts to an interpretation, not
 self-identical to the letter of the text (a translation, for example)
-[@fatani2005, @tibawi1960, @wilson2009].[^ln11-quran]
+[@tibawi1960, @fatani2005, @wilson2009].[^ln11-quran]
 
 The second advance influencing the definitive liberation of text from its
 material contexts was the word the word processor. Word processing begins with
@@ -1067,8 +1067,10 @@ object-oriented ontology [@bryant2010, @harman2005].
 [^ln11-literacy]: For more on the European medieval scribal practices see the
 influential @mckitterick1992, @Clanchy1979, and @goody1963.
 
-[^ln11-quran]: I go into detail here because textual self-identity will become
-a topic of exposition in subsequent chapters.
+[^ln11-quran]: "And thou wast not (able) / To recite a Book before
+/ This (Book came), nor art thou / (Able) to transcribe it / With thy right
+hand: / In that case, indeed, would / The talkers of vanities / Have doubted
+[@ali, 29:48]."
 
 ## 1.2 Literature Down to the Pixel
 `text, literature, poetics, canon, encoding`
@@ -1157,9 +1159,9 @@ but the existing socio-economic order that governs who gets to access, to
 interpret, and to archive literature as text and document. I begin with several
 propositions then: one that the literary field, understand in broad terms, is
 expanding, and two, that with a quantitative expansion comes qualitative change
-in the material make-up of the literary text. Where I start with an argument
-for a broader conception of literature as an idea, I end with media history that
-traces the passage of literature from text to pixel.
+in the material make-up of the literary text. Where I start with a top-down,
+theoretical reconceptualization of literature as an epistemological category, I
+end with a bottom-up media history that traces the passage of pixel to text.
 
 #### Against aesthetics (ranty)
 
@@ -1396,11 +1398,11 @@ textual forms, and into the material substratum of digital and paper print
 media. At some point we'll need to start digging the tunnel the other way, from
 the bottom up. For this, we'll need an operational definition of literature,
 free (to the extent it is possible) from its normative baggage: something like
-"the systematic application of textuality to human life," and textuality as
+"the systemic application of textuality to human life," and textuality as
 "the site of literary activity." But I am not yet ready to move beyond the
 obvious tautology.
 
-### 1.2.1 Wall of Text
+### 1.2.1 Microanalysis
 #### Building on Latour's anthropology of texts
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
@@ -1519,14 +1521,14 @@ literary studies[@jockers2013, @moretti2013], culturomics in economy
 medicine [@shortliffe2012], among others. At the foundations of these nascent
 disciplines is a shared toolkit of statistical natural language processing
 [@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
-learning [@flach2012], and topic modeling [@blei2012].
+learning [@flach2012], network analysis [@], and topic modeling [@blei2012].
 
 ```
 
                        .------------------ canon
                        v                   corpus
                                            database
-        Author > Text > Reader > Work      search result
+        Author > Text > Reader > Work      search
                                            recommendation engine
                ^
 MICROANALYSIS  |                           DISTANT READING (MACROANALYSIS)
@@ -1548,26 +1550,35 @@ conclusion) by Latour and Woolgar, occupies the other side of the text-work
 equation. There's relatively little space between author, text, and, reader in
 the traditional model of literary transmission. Were I to write these words in
 front of you, on paper, I would simply pass the page into your hands. In
-receiving this text, you would be fairly certain that no third party meddled in
-the process of transmission. When communicating in this way, it makes quite a
-bit of sense to talk about notions like "authorial intent" and "fidelity of the
-original." The advent of cheap mechanical reproduction (but for the sake of
-brevity start at the printing press) introduces a range of instrumentation that
-mediate between the author and the reader. Distance and mediation weakens any
-notion of fidelity and authorial intent. At the very least, we know that
-editorial practices, publishing markets, and communication technologies
-introduce an element of noise in the original. At worst, long-distance,
-asynchronous communication is susceptible to "man in the middle" attacks,
-by which the content of communication is maliciously altered by a third party.
+receiving this text, you could be fairly certain that no third party meddled in
+the process of passing the note. When communicating in this way, it makes quite
+a bit of sense to talk about notions like "authorial intent" and "fidelity of
+the original," because the author and his work occupy contiguous space and
+time. The advent of cheap mechanical reproduction of print (for the sake of
+brevity let's say the printing press) introduces a range of instrumentation
+that mediate between the author and the reader. Distance, time, and mediation
+weakens any notion of fidelity and authorial intent. At the very least, we know
+that editorial practices, publishing markets, and communication technologies
+introduce an element of noise into the original text. At worst, long-distance,
+asynchronous communication is susceptible to "man-in-the-middle" attacks, by
+which the content of communication is maliciously altered by a third party
+[@needham1978].
 
-Changing material conditions of textual transmission thus reconfigure
-fundamental literary the critical conceptual apparatus central to literary
-analysis. The death of the author of which Barthes makes sense in the
-conditions that
+Changing material conditions of textual transmission push against the familiar
+literary critical conceptual apparatus. For example, as mechanical reproduction
+of print weakens the material basis for authorship attribution, the notion of
+authorship itself undergoes change. That is not to say, again with Barthes,
+that the author dies. Authors continue live and collect royalties from the sale
+of their works, but the reconfiguration of the authorship function makes
+certain ways of talking about things like "authorial intent" and "fidelity to
+the original" difficult to sustain. Massively collaborative writing projects
+like Wikipedia and procedural narrative generation further erode ideas of
+authorial production based on personal human agency.
 
-The aim of microanalysis
-then is to reconstruct the conditions of textuality, by which encoding and
-decoding--their affect on meaning making and on shared knowledge formation.
+The aim of microanalysis then is to reconstruct the material conditions of
+textuality, paying sustained attention to the atomic particulars of encoding,
+transmission, storage, and decoding of text at the sites of its application to
+the human experience.
 
 [^ln12-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester,
@@ -1576,6 +1587,46 @@ with the reported results.
 [^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
 
 ### 1.2.2 WYSINWYAG (What You See Is Not What You Always Get)
+
+#### Content and Control
+
+"Media determine our situation," Friedrich Kittler wrote in his seminal
+*Gramophone, Film, Typewriter*[@kittler1999, xxxix]. The book channels its
+metaphysical angst about the changing conditions of literary production from
+the typewriter into the personal computer. Kittler concludes that "under the
+conditions of hight technology, literature has nothing more to say [...] an
+automated discourse analysis has taken command [...] and while professors are
+still reluctantly trading in their typewriters for word processors, the NSA is
+preparing for the future: from nursery school mathematics, which continues to
+be fully sufficient for books, to charge-coupled devices, surface-wave filters,
+[and] digital signal processors [@kittler1999, 263]." A more careful
+microanalysis of the textual condition in the passage between typewriters and
+personal computers, reveals plenty of space for human agency. Media determine
+our situation only to the extent that we continue to treat the everyday
+transformation of thought into pixel and thereto into literary control systems
+that structure human experience as a mystical and mystifying black-box
+devices.
+
+The real danger comes from the superficial similarity of print and pixel. Where
+the pen or the typewriter inscribe the image directly into its paper medium,
+digital type passes through a series of transformations between the keystroke
+and its corresponding pulse of the cathode ray, or the flow of the liquid
+crystal. Secrecy and surveillance technologies that rightly worry Kittler exist
+in the gap between text as medium and text as content. They threaten literature
+(the something to be said) only in so far as the mechanisms for literary
+production maintain the illusion of flatness. When the veil is lifted, we can
+begin to reclaim the passage of textuality from source to destination.
+Technology in this process remains a relatively neutral conduit, enabling
+liberation and oppression alike. The physical control of expression cannot and
+should not be reduced to something as seemingly self-contingent as "the
+conditions of high technology." Systems of control naturally obscure the
+pathways of agency. Letting go of agency as a critical concept plays into the
+hand of those (humans) that benefit directly from the illusion of
+disempowerment. I see control, in this sense, not as a meta-physical or
+ideological construction, but as the ability to physically alter or to restrict
+or to restrict the passage of information. The transition from the mechanical
+typewriter to the electrical word processor literally intertwines the mechanisms of
+content production and device control.
 
 The computers in the scientist's lab and on a writer's desk emerged from an
 amalgam of automated devices, chief among them the typewriter and the
@@ -1588,7 +1639,7 @@ by symbols scanned into the machine from a paper ribbon. In imagining the
 universal calculator, Turing borrowed from the physical design of a typewriter.
 Although Turing's original article did not include any drawings, he describes
 the a-machine in terms of paper tape medium, scanning, erasing, "writing down
-notes," "external operators," and "moves" of the mechanism.  If Turing were to
+notes," "external operators," and "moves" of the mechanism. If Turing were to
 file a US-based patent for his device (rather than describing it in the
 abstract only) he would have to cite prior art in the mechanisms like the
 "Numeral adding or subtracting attachment for type-writing machines" (US517735,
@@ -1623,8 +1674,6 @@ US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402,
 programming or radio and television content (US1974062, 1932-1934; US2031074,
 1931-1936).
 
-#### Content and Control
-
 With the invention of punch cards and perforated tape (also used in Jacquard
 looms, as early as 1801), a message meant for another human became also a
 physical medium--bumps and holes--used to modulate electrical current. In the
@@ -1649,7 +1698,7 @@ is adapted to utilize a single wire between two or more stations and
 automatically typewritten in page form ready for delivery to the addressee
 [@bumstead1916]."
 
-Hyman Eli Goldberg Friden FlexoWriter separates key strokes. > IBM MT/ST. 
+Hyman Eli Goldberg Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
@@ -1657,10 +1706,7 @@ format control information that need be embedded is that describing textual
 categories and boundaries, such as titles, section headings, paragraphs, and
 the like [@kernighan1078, 2116]
 
-
-[^ln11-kittler]: "Media determine our situation [@kittler1999, xxxix]."
-
-#### Fancy Text
+### 1.2.3 Fancy Text
 
 Baudot code.
 
@@ -1702,12 +1748,6 @@ and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
 text is an "ordered hierarchy of content objects" [^@derose]. Goodman and
 Genette.
 
-As a literary scholar, I am obviously interested in excavating the textual
-roots of modern computing. An aspect Media do not determine our
-situation.[^ln11-kittler]  Private and public interests instead control the
-media. Media is governed by legal and technological regimes of our own making.
-Typesetting sweatshops. Controlling distribution.  Controlling the
-interpretation. Controlling the distribution.
 
 End with kindle. Control of remote devices. Control visible or not.
 
@@ -2403,7 +2443,13 @@ http://arxiv.org/abs/1405.5563
 ## 3.1 Processing Words
 `word, file, book`
 
-### 1.2.0 Introduction (heading to be removed in print)
+### 1.2.0 Introduction
+
+The passage between thought and its physical manifestation, whether
+intra-cranial, as a configuration of neurons and synapses, or external, as a
+note to self or a novel, is an unsolved problem in science. Like the gap
+between mind and brain, the distance between thought and text has not yet been
+bridged.
 
 What happened to our writing implements? First came the typewriter and
 philosophers thought it would ruin humanity. Then, with the computer, software
@@ -2967,8 +3013,11 @@ drafts, manuscripts, and versions that sprout in the wake of co-authorship.
 This brings me to a strange (but meaningful) space between textual criticism
 and version control
 
-### 2.4.1 Introduction Code and poetry. These words were meant to be together.
+### 2.4.1 Introduction Code and poetry. 
 
+These words were meant to be together.
+
+ 
 F. C. Bakewell's Copying Telegraph secrecy already built in.  Privacy, secrecy,
 surveillance, and transparency.  Stuff about Lull here? Artificial
 intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being
@@ -2986,14 +3035,19 @@ experience."
 
 Alice, Bob, Caryl.
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
+Communication theory of secrecy systems, shannon
 
 Zimmermann responded by publishing the source code as a book, an act that was
 constitutionally protected as free speech. 
 
-### Identity Anonymous authorship.  ## 3.3 We Have Always Been Digital `analog,
+### Identity Anonymous authorship.  
+
+## 3.3 We Have Always Been Digital `analog,
 digital`
 
-### Introduction The original intuition, challenged by Nelson Goodman in the
+### Introduction 
+
+The original intuition, challenged by Nelson Goodman in the
 late sixties, still holds sway in the popular imagination. On this view,
 digitality has relates to digits, just as "analog" relates to analogies. First
 use of the word digital. The distinction between analog and metaphysical
@@ -3007,7 +3061,9 @@ Striation. Preserving striation. History of UTF8. Unix philosophy.
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera
 effect. Digitality is something worthy of being preserved.
 
-### Digital Aesthetics I therefore must already renounce and distance myself
+### Digital Aesthetics
+
+I therefore must already renounce and distance myself
 from the title of this section. "Digital culture" is already a misnomer,
 already archaic in its futuristic ambition. As a prefix, I think digi- has gone
 the way of the auto-, e-, i- and the way of the retro-suffixes like -bot, -mat,
@@ -3083,7 +3139,11 @@ Duplicates in Computer Science. Almost 30% of webpages are "very similar to
 other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
-for resemblance between documents" # Conclusion: New Humanism ### 2.5.1
+for resemblance between documents" 
+
+# Conclusion: New Humanism
+
+### 2.5.1
 Metaphysical Dread about Computation Brian Lennon and Golumbia. The argument
 basically boils down to the cultural logic of computation being complicit in
 the military industrial complex. That complicity manifests itself in a shared
@@ -3096,12 +3156,20 @@ mechanisms of control.
 Deeper metaphysical dread about computation, that should be understood
 historically (where Lennon gets it right). You are not a gadget.
 
-### Open Textuality The proper domain for literary studies is textuality,
-broadly conceived.  ### 2.5.2 Code as Governance Lessig.  ### 2.5.3 Engineering
+### Open Textuality 
+
+The proper domain for literary studies is textuality,
+broadly conceived.  
+
+### 2.5.2 Code as Governance Lessig.  
+
+### 2.5.3 Engineering
 for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
 developed of these. Engineering for dissent. The ability to create shared goals
 and to exit. engagement with shared project. The subject of my next book. 
 
+# Crypto and secrecy
+consider adding it back as a chapter
 # Tech Appendix
 
 ## Prepare How to run the terminal. What is it. And why?  Intro to POSIX
