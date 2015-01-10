@@ -1625,17 +1625,28 @@ hand of those (humans) that benefit directly from the illusion of
 disempowerment. I see control, in this sense, not as a meta-physical or
 ideological construction, but as the ability to physically alter or to restrict
 or to restrict the passage of information. The transition from the mechanical
-typewriter to the electrical word processor literally intertwines the mechanisms of
-content production and device control.
+typewriter to the electrical word processor literally intertwines the
+mechanisms of content production and device control.
 
-The computers in the scientist's lab and on a writer's desk emerged from an
-amalgam of automated devices, chief among them the typewriter and the
+We are accustomed of thinking of modern computing as a pinnacle of calculating,
+computational devices. That is the story the reader gets in Kittler's media
+history and in David Golumbia's excellent *Cultural Logic of Computation.* The
+cultural logic of computation inevitably leads to a bleak vision of of Johanna
+Drucker calls "mathesis," the triumph of deterministic quantification over
+indeterminate, anti-positivist forces of the humanities. The historical
+link between computation and 
+
+to the military industrial complex, In contrast to that
+vision, I would like to recover the 
+
+The personal computer governing the production of textuality today emerged from
+an amalgam of automated devices, chief among them the typewriter and the
 calculator. In his seminal 1937 paper "On Computable Numbers," Alan Turing
 describes an automatic machine (a-machine) capable of transposing the problem
 of calculability into "effective calculability." Where all previous typewriters
 and calculators were special-purpose mechanisms, engineered to aid in a
 specific task, the configuration state of the a-machine was determined instead
-by symbols scanned into the machine from a paper ribbon. In imagining the
+by symbols scanned into the machine from a paper ribbon.  In imagining the
 universal calculator, Turing borrowed from the physical design of a typewriter.
 Although Turing's original article did not include any drawings, he describes
 the a-machine in terms of paper tape medium, scanning, erasing, "writing down
