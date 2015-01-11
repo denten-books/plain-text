@@ -436,18 +436,17 @@ draft somewhere towards the second half of summer, 2015.
 ## 1.1 Literature Down to the Pixel
 `text, literature, poetics, canon, encoding`
 
-### 1.2.0 Hidden Values
+### 1.1.1 Hidden Values
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concludes the survey of Public Participation in the Arts conducted by the
-Census Bureau on the behest of the National Endowments for the Arts (NEA) in
-2004. "For the first time in modern history, less than half of the adult
-population now reads literature, and those trends reflect a larger
-decline in other sorts of reading. Anyone who loves literature, or values the
-cultural, intellectual, and political importance of active and engaged literacy
-[...] should be gravely concerned [@readingrisk2004]." The conclusion stands in
-stark contrast with trends that tell a story of an expanding literary, textual
-field.
+Census Bureau on the behest of the National Endowments for the Arts (NEA) in 2004.
+"For the first time in modern history, less than half of the adult population
+now reads literature, and those trends reflect a larger decline in other sorts
+of reading. Anyone who loves literature, or values the cultural, intellectual,
+and political importance of active and engaged literacy [...] should be gravely
+concerned [@readingrisk2004]." The conclusion stands in stark contrast with
+trends that tell a story of an expanding literary, textual field.
 
 On an average day in 2008, at home, an average American read around 100,500
 words a day. At 250 words per page, that is around 402 printed pages. Between
@@ -753,7 +752,7 @@ free (to the extent it is possible) from its normative baggage: something like
 "the site of literary activity." But I am not yet ready to move beyond the
 obvious tautology.
 
-### 1.2.1 Microanalysis
+### 1.1.2 Microanalysis
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an "ethnography" of a science lab, showing the
@@ -934,8 +933,7 @@ with the reported results.
 
 [^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
 
-### 1.2.2 Content and Control
-
+### 1.1.3 Content and Control
 
 "Media determine our situation," Friedrich Kittler wrote in his seminal
 *Gramophone, Film, Typewriter*[@kittler1999, xxxix]. The book channels its
@@ -1123,7 +1121,7 @@ the like [@kernighan1078, 2116]
 ## 1.2 Phenomenology of a Photocopier
 `content, matter, form`
 
-### 1.1.0 Digital Textuality
+### 1.2.1 Shaping Text
 
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln11-char] Let these words soak in for a moment. I will spend the rest
@@ -1182,8 +1180,6 @@ whether it makes sense to talk about meaning for artificial agents is a
 question that will remain unresolved, at least until the later chapters, when
 we have the chance to discuss notions of data and information as
 meaning-carrying units.
-
-### 1.1.1 Ideal Text
 
 What is text? In talking about texts of all kinds, literary scholars and
 computer scientists often make the distinction between form and content.  For
@@ -1320,7 +1316,7 @@ meccanico e la sensibilità numerica]
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-### 1.1.2 From Texts to a Work
+### 1.2.3 From Texts to Work
 
 My short history of the distinction between form and content is necessarily
 reductive. The situation on the ground was always more nuanced than the
@@ -1483,7 +1479,7 @@ something which happens. It's not purely linguistic, involving text or books.
 You can deconstruct gestures, choreography. That's why I enlarged the concept
 of text. … Everything is a text [@caputo1996].”
 
-### 1.1.3 Mediating Form
+### 1.2.4 Book, Gun
 
 "Robots have also the attribute in common of being able to affect human beings
 or other targets 'at a distance,' a book, a radio or a television sender can
@@ -1760,7 +1756,10 @@ hand: / In that case, indeed, would / The talkers of vanities / Have doubted
 [@ali, 29:48]."
 
 
-### WYSINWYAG (What You See Is Not What You Always Get)
+## 1.3 Processing Words
+`digital, analog, interface`
+
+### 1.3.1 WYSINWYAG (What You See Is Not What You Always Get)
 Baudot code.
 
 Plain text. Fancy text. TROFF. Processed text. Instructions for the style of
@@ -1804,10 +1803,8 @@ Genette.
 
 End with kindle. Control of remote devices. Control visible or not.
 
-## 1.3 Processing Words
-`digital, analog, interface`
+### 1.3.2 Human Revealment
 
-### 1.2.0 Revealing Heidegger 
 It is tempting to think that alientation come from phase one. Human
 displacement from the hand. Some notion of analog as natural and digital as
 artificial
@@ -1823,8 +1820,6 @@ philosophers thought it would ruin humanity. Then, with the computer, software
 engineers thought they saw a glimpse of textuality capable of transcendence.
 Then came Microsoft Word. And worse yet, the box: the ubiquitous internet
 browser text box that just does very little. Ctrl-Copy, Cntrl-Paste.
-
-### 1.2.1 Processing words Engelbart 
 
 Containing an argument for text as an interface between human and machine.
 Isomorphism. Search. Protocol - interface. What you see is what you get. What
@@ -2356,7 +2351,7 @@ knowledge dissemination.7 Stenography is understood here as a thoroughly modern
 and modernizing technology that does for the mental and moral development what
 the steam engine and areal flight did for the material realm.
 
-### 1.3.2 We Have Always Been Digital
+### 1.3.3 We Have Always Been Digital
 
 Reality tv effect.
 The original intuition, challenged by Nelson Goodman in the
