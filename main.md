@@ -433,7 +433,694 @@ draft somewhere towards the second half of summer, 2015.
 
 # Part 1: Text
 
-## 1.1 Phenomenology of a Copier
+## 1.1 Literature Down to the Pixel
+`text, literature, poetics, canon, encoding`
+
+### 1.2.0 Hidden Values
+
+The reading of short stories, novels, poetry, and plays is at grave risk,
+concludes the survey of Public Participation in the Arts conducted by the
+Census Bureau on the behest of the National Endowments for the Arts (NEA) in
+2004. "For the first time in modern history, less than half of the adult
+population now reads literature, and those trends reflect a larger
+decline in other sorts of reading. Anyone who loves literature, or values the
+cultural, intellectual, and political importance of active and engaged literacy
+[...] should be gravely concerned [@readingrisk2004]." The conclusion stands in
+stark contrast with trends that tell a story of an expanding literary, textual
+field.
+
+On an average day in 2008, at home, an average American read around 100,500
+words a day. At 250 words per page, that is around 402 printed pages. Between
+the years of 1980 and 2008, the consumption of information in bytes--a measure
+that would obviously privilege storage-heavy content like sound and video--grew
+at a modest 5.4% per year. Reading, in decline until the advent of the
+internet, has tripled in the same period.  Reading in print accounted for 26%
+of verbal information consumed in 1960. That number fell to 9% in 2008, but the
+consumption of words digitally increased to 27% of total consumption, which
+means that reading has increased its share of the overall household attention
+span [@bohn2009, @hilbert2012].  The first decade of the 21st century saw a 20%
+increase in library visitation [@imls2013]. According to UNESCO data, literacy
+rates continue to rise globally, as the gender and global gaps begin to close
+[@unesco2013]. By a conservative estimate, the number of scientific publication
+grows at about 4.7% per year, which means that amount of published research
+roughly doubles every 15 years or so (and the numbers are much, much, higher in
+some fields) [@larsen2010, @archambault2005, @crespi2008] The number of books
+published in the United States almost tripled from 2005 to 2009 [@bowker2010].
+All measures point to a drastic expansion of the textual field.
+
+Something does not add up. As a society we are reading, writing, and publishing
+more each year. With these figures in mind, I ask: What is at risk, literature,
+or merely one of its many definitions? Does the diffusion of the textual field
+somehow cheapen the literary enterprise of art for art's sake, or protect it?
+What is the source of modern metaphysical anxiety about the status of a
+literary text?
+
+In the 1990s, the ire of the metaphysically disaffected coursed against visual
+culture and television [@stephens1998, @merrin199]. A decade later it turned
+against the internet and computation, which to many threaten the very
+foundations of humanity and the humanities [@golumbia2009, @marche2012,
+@fish2012].[^ln12-internetet] My thesis, presented here and throughout, is that
+the aims of such metaphysical angst are misaligned. Reconstructing the physical
+conditions of textuality reveals profound alienation from material contexts of
+literary production on the part of readers and authors. Although literacy
+thrives, the very nature of what constitutes a literary text changes with the
+advent of new material conditions. Changing circumstances destabilize
+established modes of literary production, access, and distribution tied to the
+circulation of paper and ink.
+
+[^ln12-internet]: The NEA study has this to say on the topic of "What is
+responsible for the decline of literary reading?": "If the 2002 data represent
+a declining trend, it is tempting to suggest that fewer people are reading
+literature and now prefer visual and audio entertainment. Again, the data –
+both from SPPA and other sources – do not readily quantify this explanation
+[...] the Internet, however, could have played a role. During the time period
+when the literature participation rates declined, home Internet use soared
+[@nea2004, 30]."
+
+In his 2004 *Humanism and Democratic Criticism*, Edward Said wrote about the
+"fundamental irreconcilability between the aesthetic and the non-aesthetic,"
+which must be sustained "as a necessary condition of our work as humanists."
+The aesthetic exists in opposition to "quotidian" experiences that we all
+share, writes Said: "To read Tolstoy, Mahfouz, or Melville, to listen to Bach,
+Duke Ellington, or Elliott Carter, is to do something different from reading
+the newspaper or listening to the taped music you get while the phone company
+or your doctor puts you on hold." A corollary to my main thesis is an argument
+against that commonly-held belief about the relationship between literature and
+aesthetics. To my mind, the distinction is impossible to define, let alone
+maintain in practice. Bias in favor of the aesthetic is a bias in favor of a
+specific, historically- and materially- contingent idea of the aesthetic. That
+preconceived idea carries with it a hidden cost, introducing numerous blind
+spots into the study of literature at large, limiting it in scope and
+relevance. Textual diffusion threatens not the humanity (or the humanities),
+but the existing socio-economic order that governs who gets to access, to
+interpret, and to archive literature as text and document. I begin with several
+propositions then: one that the literary field, understand in broad terms, is
+expanding, and two, that with a quantitative expansion comes qualitative change
+in the material make-up of the literary text. Where I start with a top-down,
+theoretical reconceptualization of literature as an epistemological category, I
+end with a bottom-up media history that traces the passage of pixel to text.
+
+When surveying the introductory literature on literature, the reader will
+invariably find a version of Said's "fundamental irreconcilability" position.
+For example, in Austin Warren and Renee Wellek's, *Theory of Literature* the
+authors write that the "term 'literature' seems best if we limit it to the art
+of literature, that is, to imaginative literature […] the main distinctions to
+be drawn are between the literary, the everyday, and the scientific uses of
+language [@wellek, 22]." Similarly, Raymond Williams defines it to mean "mainly
+poems and plays and novels," as opposed to other kinds of "serious" writing
+that are "general," "discursive," or "the sub-literary [@william1976,
+152-153]."[^ln12-engell] Sharing the bias in favor of aesthetic reading with my
+colleagues, I would rather spend my free time reading Kincaid or Coetzee than
+poring over arcane printer and telegraph manuals. Implicit in that bias is
+an idea--professed by Immanuel Kant, Friedrich Schiller, and, more recently,
+Tzvetan Todorov and Elaine Scarry--the belief in the connection between beauty
+and justice, beauty and the good, beauty and the upright moral life. I wish to
+avoid disturbing the foundations of that intellectual edifice, and only want to
+point out that, for some, beauty can also reside outside of artful discourse,
+and that others find beauty in the strangest of places, and that texts--their
+movement within and across cultures--present many problems not exhausted by the
+ethic or the aesthetic realms. Reading fiction (of a kind) for pleasure (of a
+kind) may indeed be a vanishing pastime, but that is not to say that our
+society has gotten interested in literature of all kinds. On the contrary,
+whole new disciplines have sprung up to deal with textual saturation: natural
+language processing, narrative generation, automatic translation and
+summarization, computational text analysis, discourse analysis, corpus
+linguistics, and digital humanities among others.
+
+Matters always central to the field of literary studies remain vitally
+important to the functioning of modern society. Literature broadly conceived
+provides fertile grounds for collaboration between diverse disciplines
+interested in the changing dynamics of narrative, interpretation, language,
+form, prosody, composition, dialogue, discourse, story, genre, authorship,
+influence, and text. It is in this core conceptual cluster of operational terms
+that I want to locate a notion of poetics, poetics capable of addressing not
+only the machinations of poetry and prose, but also of code, document,
+inscription, file, record, note, manual, journal, list, script, and archive.
+Rather than picky eaters, I imagine my fellow travellers as voracious omnivores
+of text.
+
+This is not to say that I advocate ignorance, nor do I follow the Russian
+formalist poet Vladimir Mayakovksy who in the beginning of the last century
+called on his peers to "cast Pushkin, Dostoevsky, Tolstoy, et.al. overboard
+from the ship of Modernity." I hold instead that in the implicit perusal of the
+subjectively beautiful discourse literary scholars have abandoned vast and
+fecund textual vistas. In privileging the aesthetic, the study of Literature
+has tied its fate to that of an increasingly vanishing pastime--the leisurely
+reading of poetry and fiction, of a specific kind, holding a privileged form,
+sold in preferred manner.
+
+Hampered by an artificially-limited field of activity, the study of literature
+excavates a small, sacred patch on tip of an immense textual iceberg.
+The results of all that iceberg-digging sink to join the mass of
+its submerged and unexcavated bottom. Texts multiply and produce other texts:
+that's more or less the point of Roland Barthes's 250-page exegesis of a 30
+page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
+as a scholar, I suspect that exponential growth and diminishing returns will
+eventually (if not already) make such relentlessly exogesic mode of scholarship
+unsustainable. The value of each new "Barthes" and associated commentary
+plummets as texts multiply exponentially, quickly reaching the human limits of
+comprehension. There no winners in such an arm race between footnotes, only
+eventual irrelevance.
+
+Non-positivistic disciplines like literary studies lack a methodology for
+definitively settling any research program. For this reason, citation patterns
+in the humanities journals privilege well-established sources
+[@tenen2014-displacement], where the sciences will usually defer to the "last
+word" on any given question. Without robust mechanisms for condensing and for
+pruning accepted knowledge the archive expands precipitously. Its combined
+weight necessarily devalues the literature of the present, creating a curious
+kind of a gap in contemporary material. A "modernist" in literary studies
+denotes a specialist who works on documents which are now over a century old.
+And most departments of literature cover only a limited range of best-sellers
+from the "post WWII period." A competent modernist can likely name dozen or so
+contemporaneous literary movements emerging at the turn of the twentieth
+century. Few in our field can name more than a handful at the turn of the
+twenty-first.[^ln12-survey]
+
+The logic Said's eloquent defense of the aesthetic merely continues a tradition
+of exclusionary distinction-making, which before Said denied writers like
+Naguib Mahfouz and musicians like Duke Ellington a place in the curriculum. The
+logic of exclusion on aesthetic basis places the critic in the awkward role of
+a taste-maker, limiting research to texts that in a sense were already
+"blessed" by the establishment. Scholars working on "lesser" or "unknown" texts
+and writers must expand considerable energy justifying the aesthetic merits of
+their chosen subject. At stake in the binary logic of aestheticism are the very
+notions of "beautiful" and "quotidian" as markers of prestige--notions that
+encourage disciplinary infighting, tug-of-war style, by which much energy is
+spent in struggling to pull material from one category into the other. In the
+meantime, the shoring up of the aesthetic detracts from the larger aims of
+literary scholarship, reducing literature to its ornamental function, as a
+"neat illustration" for otherwise empirical accounts of the human
+condition.[^ln12-menand]
+
+[^ln12-menand]: I am echoing Louis Menand's "the version of the humanities that
+would make many nonhumanists most comfortable today is the version in which art
+and literature are ornaments on or neat illustrations of empirical accounts of
+human life" [@mendand2005, 10-17].
+
+To limit the literary to a historically-contingent ideal of the aesthetic is to
+limit the project of literary analysis to a moralizing, prescriptive
+enterprise. A whole tradition of Marxist criticism reminds readers that
+prescription cannot be ideologically neutral. "Literature does not exist in the
+sense that insects do," Terry Eagleton writes in his introduction to literary
+theory. "Value judgments by which it is constituted are historically variable,"
+he concludes, having "a close relation to social ideologies." For Eagleton,
+values are more than simple assertion of private taste, instead they refer to
+assumptions "by which certain social group exercise and maintain control over
+others [@eagleton1983, 15-47]. Who controls what? My interpretation of Marxist
+materialism is considerably more literal than Eagleton's. I am interested here
+in physical mechanisms of control, not in their ephemeral ideological
+justifications.
+
+In trying to understand the incongruity of NEA's dour prognosis with broad
+theoretical models and demographic trends that describe the proliferation of
+text, I am confronted with two possible explanations. The writers of the report
+hint at the first themselves: to treat the ebbing of literary reading (in a
+particular mode) as cause and symptom for the general decline of the arts (and
+perhaps of civilization itself). I find that reading unacceptable, (1) because
+it is depressing and (2) because it smacks of historical exceptionalism. I
+strongly suspect that humanity's potential for innovation and creativity has
+remained relatively stable. The material conditions for creative expression may
+change (as in the times of political oppression, pestilence, or war), where the
+spirit endures.
+
+The second, much more palatable (and likely) explanation would question the
+very definitions of literary reading. Consider the possibility of online or
+digital literature that evolves according to a logic of its own, where previous
+ideas of "genre" or "literary movements" no longer apply. To restrict literary
+reading to "novels, short stories, plays, and poetry" is to deny some measure
+of litirariness to song-writing, computer game making, and software design,
+and, in an obvious way, to non-fiction or, let's say, to long stories of
+arbitrary length.  Imagine, for example, excluding reality television from the
+survey on television habits, because the genre does not confirm to some
+normative sense of what television should be. Do the survey makers consider
+literature as a medium, like television, or a grab-bag of "serious genres" like
+comedy and drama? As it turns out: both. The authors of the report concede the
+point in sometimes classifying readers by the number of books read in any
+genre, effectively equating literature with "books [@NEA2004]." But even that
+concession confuses form with function. What if "reading a book" begins to
+involve something other than moving one's eyes from left to right over
+sequentially numbered blocks of text? Or what if books were more like pills
+than parchment? The conundrum reveals a strong methodological bias
+favoring a definition of literature as specific matter and form. A report that
+initially looks like objective, quantitative, descriptive analysis (that's the
+way things are) hides a qualitative, proscriptive program (thats the way they
+should be).
+
+[^ln12-engell]: See also @engell1988.
+
+Staring with the late 1960s, a generation of scholars (Northrup Frye, Murray
+Krieger, and E. D. Hirsch, among others) took up the problem value in literary
+criticism in a concerted fashion. Their conversation splintered into three
+camps: the separatists--those who viewed the production of value as a detriment
+to the discipline; the inseparatists (to coin a term)--those who believed that
+value creation is inseparable from the study of literature; and the
+compatibilists, or those who attempted to integrate the two opposing positions.
+Frye, for one, argued that value production should not be a part of the
+scholar's task, because the concept of value itself is "individual,
+unpredictable, variable, incommunicable, indemonstrable, and mainly an
+intuitive reaction to knowledge." "The more consistently one conceives of
+criticism as the pursuit of values," writes Frye, "the more firmly one becomes
+attached to that great sect of anti-intellectualism."
+
+To this Murray Krieger responded in pointing out the inevitability of value
+formation in the work of even the most analytically-inclined critic. Krieger
+writes: "The categories [of the literary, the poetic] define their subject and
+erect value criteria for admission, so that for the work to attain the
+definition is for it to qualify as a valued individual in a valued class. The
+work comes to be discovered, defined, and valued as poetry only by a way of a
+pre-existing generic characteristic which the critic began by adopting as his
+perspective glass to envision it." All this to say that even for scholars like
+Frye, the process of valuation happens before the encounter with the text. In
+designating the poem as a poem, the critic already has brought with him a set
+of preconceived notions that distinguish what constitutes poetry, and what does
+not; who is in and who is out. On this view, abjuring the task of explicit
+value formation borders on the irresponsible.
+
+Critics like E. D. Hirsch offered a compromise between these two positions,
+arguing that although value-making contaminates all acts of interpretation, the
+scholar can and should adopt an interrogatory stance towards value creation as
+such, which ultimately allows her to "form new judgments of value and
+significance [@hirsch1968, 331]." In this camp we also find "Contingencies of
+Value," a 1983 article by Barbara Herrnstein Smith, where the author urges her
+peers to make the examination of social value-creating mechanisms a part of
+their academic discipline. "What are commonly taken to be *signs* of literary
+value, are also its *springs*," Smith writes [@smith1983, 30]. And the springs
+unmistakably push the whole enterprise towards the Western, economically
+privileged, model of the canon. Texts that survive in the teaching and the
+selling of literature survive as long as they do not radically subvert the
+prevailing ideology. Smith stops short from offering a way out of the
+conundrum. For even as the canon grows to include previously excluded voices,
+those voices take on the shape of soft acquiescence. The custodians of the
+Western canon "cannot grasp or acknowledge" that alternative forms of
+litirariness and textuality can take on the functions of Dante or Homer for
+others [@smith1983 1-35]. I am appropriately galvanized by Smith's fiery
+rhetoric, but must admit that not much has changed since the 1980s. The
+compromise does not approach the very peculiarity of the question itself. Must
+we value the object of our study?
+
+To understand the peculiarity that question, try asking: Does an anthropologist
+observing cock fighting, condone animal cruelty? Does a historian writing about
+war, sanction violence? Does a philosopher working on the problem of other
+minds, love solipsism? In each case, synonyms for value-making--loving,
+sanctioning, condoning--appear out of place, incongruent with the inquiry at
+hand. Something is rotten in the very formulation of the question. To put it
+differently: Must we study *only* what we value? I cannot think of a way to
+defend the answer to the affirmative. A zoology that singularly insists on the
+study of beautiful animals is itself a strange creature.[^ln12-zoo] A
+more radical compromise compels us to seek value in the importance of the
+inquiry itself: in the quality of the questions raised, and in the relevance of
+the answers given.  If literary reading of a certain kind has the power
+ascribed to it by the NEA report (increased civic participation, etc.),
+literary humanities need not concern itself with the protection of the
+literary. The survival of the field (and not of literature itself) depends on
+the freedom of its cadres to pursue the literary function everywhere,
+indiscriminately, even in the discarded textual detritus of human activity,
+however quotidian. A conception of a more neutral, broad literary domain can
+include and preserve all existing forms of textuality.
+
+[^ln12-zoo]: There are several studies that explore the effect of perceived
+aesthetics on zoology and conservation. See esp. @frynta2009 and @stokes2007.
+The short of it: cute animals get more funding.
+
+I am trying to burrow (impatiently, because the archive is thick, and the
+bottom so far) from a big idea, like literature, down to its more modest
+textual forms, and into the material substratum of digital and paper print
+media. At some point we'll need to start digging the tunnel the other way, from
+the bottom up. For this, we'll need an operational definition of literature,
+free (to the extent it is possible) from its normative baggage: something like
+"the systemic application of textuality to human life," and textuality as
+"the site of literary activity." But I am not yet ready to move beyond the
+obvious tautology.
+
+### 1.2.1 Microanalysis
+
+In a study on the construction of scientific knowledge, Bruno Latour and Steve
+Woolgar perform what they call an "ethnography" of a science lab, showing the
+passage of ideas from applied experiment to textual inscription. For Woolgar
+and Latour, the laboratory functions as a factory of sorts, ingesting matter
+and artifact to produce fact [@latour1986]. That process of inscription comes
+to the fore explicitly: the output of science lab is, in some real ways,
+measured by its publication record [@latour1986]. A scientist may object that
+her publication record is merely a byproduct of her research activity. Yet
+Latour shows pretty convincingly that the laboratory participants closest to
+the material conditions of knowledge production are at the same time, most
+marginalized members of the group. Lab technicians handle the matter of mass
+spectrometers and bioassays. Ph.D. holders, by contrast, spend most of
+their time handling inscription devices like printers and computer consoles.
+
+Although much cited in the study of culture, science, and technology,
+*Laboratory Life* had curiously little impact on the study of literature, even
+though Latour and Wollgar borrowed much the other way around. In the 1986
+postscript to the American edition, they remark on the broad trend in literary
+theory to treat texts as objects of interpretation, disavowing the kind of
+criticism aimed at the "real meaning of texts," at "what the text says," "what
+really happened," or "what the authors intended [@latour1986, 273]." Similarly,
+research in the social study of science should be aimed at the "contingent
+character of objectification practices." Science, on their view, is itself a
+type of a literary system, "generating texts whose fate (status, value,
+utility, facticity) depends subsequently on interpretation [@latour1986, 273]."
+Throughout the book, Woolgar and Latour use the term literature to mean
+something "inscribed, printed, or published," a combination of verbs that
+coincides with "literature" consistently throughout [@latour1986, 47-53].
+Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
+research program started by the post-structuralists. Where Jacques Derrida could
+offhand remark that "everything is a text," Woolgar and Latour make concrete the
+literal transformation of matter into text. No longer was literature an
+illustration of something that happens in the laboratory: Latour and Woolgar
+showed the laboratory to function as a literary system.
+
+The conventional way to understand Woolgar and Latour brings the interpreter
+into the laboratory, breaking the illusion of scientific objectivity: instead
+of "discovering" facts, scientist socially construct them. Paradoxically, as
+Latour and Woolgar worked to undermine the empirical unity of science (turning
+it into a kind of hermeneutics), they performed literary analysis as an
+empirical method. To "read" the laboratory, the researchers had to be there, in
+person, observing and taking notes. The laboratory opens up to them through a
+careful micro-ethnography. The reader gets to examine floor plans, research
+samples, dialog transcriptions, publication patterns, and other evidentiary
+materials.
+
+To view Woolgar and Latour as scholars of literature is to open up the
+floodgates of textuality. The laboratory, the court, the hospital--these
+institutions cannot be reduced to text, but they are in part, literary systems.
+Beneath every scientific discovery, every popular song, every film, radio, or
+television serial, every art or architectural project, every political office,
+every legal judgment, every restaurant meal, every doctor's prescription, every
+website, and every machine manual--beneath that giant and perplexing pile of
+human activity lies a complex network of textual material. The task of the
+literary scholar becomes to make visible that textual undercurrent, to follow
+and to map its movements across culture, to expose the mechanisms of its
+mutation and locomotion. It is an exciting prospect: to view the hospital as a
+library, where cadres of physicians and administrators convert human stories
+into diagnoses, into controlled vocabularies, into files, into billable codes,
+into inscriptions, and into archives. Or to see the legal system as a process
+of literary discovery, were legions of attorneys and paralegals pore over
+terabytes of textual material, transforming inscription into evidence. That is
+not all these institutions are, but they are also that.
+
+Such textual proliferation comes at a cost. Until recently, the bread and
+butter of literary scholarship has been close reading. Close reading like
+critical thinking is an idea that is easier to perform than to explain, because
+the details become contentious as soon as they are
+formalized.[^ln12-closereading] I will tread carefully by committing myself to
+some notion of deliberate and reflective practice aimed at deep comprehension.
+The Partnership for Assessment of Readiness for College and Careers (PARCC),
+the organization responsible for the Common Core standards being implemented in
+schools across the United States today, promotes close reading as "thorough,"
+"methodical," and "analytical" practice that "enables students to reflect on
+the meanings of individual words and sentences; the order in which sentences
+unfold; and the development of ideas over the course of the text, which
+ultimately leads students to arrive at an understanding of the text as a whole
+[@PARCC2012, 7]." The general movement here is from "text" on the page to
+"work" (text as a whole, in the language of the report). The model of
+textuality implicit in the project of close reading assumes an environment of a
+well-defined literary canon, naturally accessible to the human intellect. For
+the duration of the "Gutenberg galaxy," the age of print, a well-educated
+person might have been expected to internalize some several hundred or perhaps
+thousands major texts constituting the canon.
+
+The expansion of the textual field and its relative liberation from physical
+media have radically increased the cognitive demands of literary engagement.
+The pipeline between text and work has lengthened considerably. On the one
+side, the matter of canon formation can no longer be relegated to stable,
+long-term systems of social filtration. Seen form the perspective of a literary
+interface, the database, the social stream, and the search engine are tools for
+dynamic, "on the fly," generative canon-formation. Consider the task of finding
+an unknown factoid online, as was the case with my previous aside on the status
+of literacy in medieval Muslim world. Not being a medieval scholar, I construct
+a search query, using resources that I believe will return a reasonably
+authoritative list of texts on the subject. The search engine in effect
+substitutes centuries-long processes of canon formation, for a
+near-instantaneous list of results that become my ephemeral, but nevertheless
+authoritative, collection of relevant literature. Each text still requires the
+instrumentation of close, analytical interpretation. However, the same ideals
+need to be exercised on the higher level of orchestration. Where to search?
+Using what engine? How to construct the query?
+
+The academic question of canon-formation, transforms into a (not yet critical)
+practice of rapid, iterative, generative canon making. Whatever ideals motivate
+close reading between "text" and "work" surely must drive the process on the
+level of corpus composition. Almost every field of human activity has responded
+to the condition in which canons are no longer accessible, in their entirety,
+to the unaided (natural) human intellect: distant reading and macroanalysis in
+literary studies[@jockers2013, @moretti2013], culturomics in economy
+[@aiden2014], e-discovery in law [@capra2009], and medical informatics in
+medicine [@shortliffe2012], among others. At the foundations of these nascent
+disciplines is a shared toolkit of statistical natural language processing
+[@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
+learning [@flach2012], network analysis [@], and topic modeling [@blei2012].
+
+```
+
+                       .------------------ canon
+                       v                   corpus
+                                           database
+        Author > Text > Reader > Work      search
+                                           recommendation engine
+               ^
+MICROANALYSIS  |                           DISTANT READING (MACROANALYSIS)
+               |
+
+    personal computer
+    file system
+    word processor
+    file format (encoding)
+    publisher
+    distribution system
+    physical media (paper and pixel)
+
+```
+
+Where distant reading and macroanalysis are concerned with text aggregates,
+microanalysis, of the type suggested (but not carried out to its logical
+conclusion) by Latour and Woolgar, occupies the other side of the text-work
+equation. There's relatively little space between author, text, and, reader in
+the traditional model of literary transmission. Were I to write these words in
+front of you, on paper, I would simply pass the page into your hands. In
+receiving this text, you could be fairly certain that no third party meddled in
+the process of passing the note. When communicating in this way, it makes quite
+a bit of sense to talk about notions like "authorial intent" and "fidelity of
+the original," because the author and his work occupy contiguous space and
+time. The advent of cheap mechanical reproduction of print (for the sake of
+brevity let's say the printing press) introduces a range of instrumentation
+that mediate between the author and the reader. Distance, time, and mediation
+weakens any notion of fidelity and authorial intent. At the very least, we know
+that editorial practices, publishing markets, and communication technologies
+introduce an element of noise into the original text. At worst, long-distance,
+asynchronous communication is susceptible to "man-in-the-middle" attacks, by
+which the content of communication is maliciously altered by a third party
+[@needham1978].
+
+Changing material conditions of textual transmission push against the familiar
+literary critical conceptual apparatus. For example, as mechanical reproduction
+of print weakens the material basis for authorship attribution, the notion of
+authorship itself undergoes change. That is not to say, again with Barthes,
+that the author dies. Authors continue live and collect royalties from the sale
+of their works, but the reconfiguration of the authorship function makes
+certain ways of talking about things like "authorial intent" and "fidelity to
+the original" difficult to sustain. Massively collaborative writing projects
+like Wikipedia and procedural narrative generation further erode ideas of
+authorial production based on personal human agency.
+
+The aim of microanalysis then is to reconstruct the material conditions of
+textuality, paying sustained attention to the atomic particulars of encoding,
+transmission, storage, and decoding of text at the sites of its application to
+the human experience.
+
+[^ln12-survey]: I can only give anecdotal evidence here, as I often put this
+question before my graduate students at the beginning of the semester,
+with the reported results.
+
+[^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
+
+### 1.2.2 Content and Control
+
+
+"Media determine our situation," Friedrich Kittler wrote in his seminal
+*Gramophone, Film, Typewriter*[@kittler1999, xxxix]. The book channels its
+metaphysical angst about the changing conditions of literary production from
+the typewriter into the personal computer. Kittler concludes that "under the
+conditions of hight technology, literature has nothing more to say [...] an
+automated discourse analysis has taken command [...] and while professors are
+still reluctantly trading in their typewriters for word processors, the NSA is
+preparing for the future: from nursery school mathematics, which continues to
+be fully sufficient for books, to charge-coupled devices, surface-wave filters,
+[and] digital signal processors [@kittler1999, 263]." A more careful
+microanalysis of the textual condition in the passage between typewriters and
+personal computers, reveals plenty of space for human agency. Media determine
+our situation only to the extent that we continue to treat the everyday
+transformation of thought into pixel (and thereto into literary control systems
+that structure human experience) as mystical and mystifying black-box
+mechanism.
+
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality.  In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
+
+We are accustomed of thinking of modern computing as a pinnacle of calculating,
+computational devices. That is the story the reader gets in Kittler's media
+history and in David Golumbia's excellent *Cultural Logic of Computation.* The
+cultural logic of computation inevitably leads to a bleak vision of of Johanna
+Drucker calls "mathesis," the triumph of deterministic quantification over
+indeterminate, anti-positivist forces of the humanities. The historical link
+between computation and the military industrial complex, cannot be denied. But
+they are contingent, rather than causal connections. In moving towards a notion
+of critical computing, we are able to draw on a multiplicity of historical
+practices that suggest an alternative mode of engagement with the computational
+environment, one in which literature has plenty to say.
+
+The personal computer governing the production of textuality today emerged from
+an amalgam of automated devices, chief among them the telegraph, the typewriter
+and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
+Turing describes an automatic machine (a-machine) capable of transposing the
+problem of calculability into "effective calculability." Where all previous
+calculators were special-purpose mechanisms, engineered to augment a specific
+type of computation, the a-machine was a universal device. In theory (and it
+was conceived as a thought experiment, at first), it could imitate any other
+mechanism for calculation because its internal state was itself symbolic. The
+device would receive input, by means of a paper ribbon containing discrete
+symbolic inputs. At its bare minimum, the device would need only the ribbon, a
+means of "reading," and the means of "writing," the symbols onto the tape.
+Mechanically, its movement could be restricted to simple left/right progression
+along tape. What makes it a universal Turing machine is its ability to
+internalize the symbol as part of its mechanism. The marks on the ribbon can
+symbolize what we would call "data," like the numbers to be computed for
+example. But other symbols include control codes, that alter the movement of
+the mechanism. In fact, the Turing machine does not properly differentiate
+between control code and content. Its internal state (Turing purposefully uses
+terms of sentient awareness throughout) "is determined by m-configuration
+*q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." This transition of
+symbols into machine configuration states effectively defines modern
+programming. A universal machine, unlike other, definite, single-purpose and
+limited-state mechanisms (like a clock for example), contains the ability to take on
+differing internal symbolic configurations. It can imitate a clock, and Turing
+thought that with time it would be able to imitate humans as well.
+
+Turing rightfully deserves the credit for articulating the archetype of a
+universal machine in its simplest logical form, and then for applying that
+theoretical device to the problem of computable numbers. But, as a device, the
+Turing machine borrows from a number of designs, that, together, incrementally,
+bring the universal computer into material existence. Although Turing's original
+article did not include any drawings, he describes the a-machine in terms of
+paper tape medium, scanning, erasing, "writing down notes," "external
+operators," and "moves" of the mechanism. If Turing were to file a US-based
+patent for his device (rather than describing it in the abstract only) he would
+have to cite prior art in the mechanisms like the "Numeral adding or
+subtracting attachment for type-writing machines" (US517735, filed in 1893 and
+issued in 1894), "Combined Type-Writing and Computing Machine" (US990238,
+1896-1897), "Computing Attachment for Typewriters" (US1162730, 1908-1915),
+"Computing Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and
+Adding Machine" (US1244398, 1910-1917) among others.
+
+By the end of the 19th century a number of lesser mechanisms anticipate the
+functional elements of Turing's device. By 1930s, these inventions not only
+anticipate the modern computer, but are brought to mass market in wide-spread
+manufacture of computing scales, dial recorders, electric tabulating machines,
+and computing typewriters made by companies like Underwood Computing Machine,
+Electromatic, and International Business Machines (IBM). Rather than a singular
+eureka moment, the invention of the universal machine should be viewed as a
+historical process that culminates with Turing's description. That process can
+be reduced to four key elements, each necessary for the functioning of the
+Turing machine (and each in themselves representing a long lineage of
+technological development):
+
+1. The mechanization of type. With the invention of the typewriter, the
+   variability of hand-written script can be reduced to a limited set of discrete
+characters. The process of normalization is by no means complete today, as
+attested by the proliferation of character encodings and the difficulty that
+research on optical text recognition faces in dealing with non-Western writing
+systems.
+
+2. Remote communications (geographical displacement). The telegraph removes
+   writing from its immediate physical environment. Authorial presence, already
+weakened by writing as such, is further distanced from the contexts of
+utterance. The telegraph lengthens the chain of technological and political
+mediation in the transmission of information. The telegram differs from the
+letter in that it is transcribed, encoded, decoded, and transcribed again. The
+lengthening further weakens the authorial function: where a letter needs to be
+"forged" to mis-represent authorial intent, third parties (like the telegraph
+clerk) are explicitly present in the act of transmission. The clerk's (or the
+censor's) "signature" cannot be distinguished from the author's (a common
+literary plot device in the fiction of the period).
+
+3. Automation and programmable media(tempral displacement). Again, already a
+   property of all writing, temporal displacement itensifies as the telegraph
+is coupled with the typewriter, while the typewriter no longer operates
+directly on physical media. A number of inventions at the end of the 19th
+century pertain to "circuit-controlling devices controlled by a traveling
+perforated strip or tape" (from US patent number 500226, filed Charles Cutriss
+in 1893 [@cutriss1893]). The initial idea of using perforated tape to control
+curcuits remotely @US158156, by Charles Wheatstone in 1874. Prior to perforated
+tape, the transmission of a message by telegraph required the presence of a
+skilled operator, able to transcribe messages from text to Morse code, and into
+the physical motion of a lever-operated curcuit. Typewriters and telegraphs
+relied on a human as an interface, in other words. The transcription of text
+into signal, and back onto paper required the real-time presence of human
+encoders and a decoders.  The perforated tape decoupled the human from the
+machine, allowing for the automation of the device. In 1911, two inventors
+working on the telegraph write, "the object of our invention is to provide a
+system of telegraphy which does not require skilled operators for the
+transmission and reception of messages; which is adapted to utilize a single
+wire between two or more stations and automatically typewritten in page form
+ready for delivery to the addressee [@bumstead1916]." Note the erosion of the
+distinction between "message" and "control" in this process. Some "messsages"
+encoded into the tape are meant for human, while other are there to control
+curcuits.
+
+A flood of inventions appeared at the turn of the 20th century to capitalize on such
+decoupling. These include machines for tape-controlled telegraphic
+transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
+tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
+1928-1929), and remote broadcast programming or radio and television content
+(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards and perforated tape (also used in Jacquard
+looms, as early as 1801), a message meant for another human became also a
+physical medium--bumps and holes--used to modulate electrical current. In the
+transmission of a recorded message, the message itself plays the role of a
+controlling mechanism, aiding in the mechanical movement of the transmission
+apparatus. For the automated telegraph the control code and the message are
+one: that is, the arrangement of perforation on the ticker tape affects the
+internal mechanical state of the machine. Another way to put this would be to
+say that the state of the tape-driven telegraph machine at any given time is
+also the message. The device simply converts mechanical states into signal
+(printed, audible, or otherwise). 
+
+The logical conclusion of this idea is the controller (US1165663, 1911-1915).
+
+
+The material history of the Turing machine lies in the
+
+
+
+
+Friden FlexoWriter separates key strokes. > IBM MT/ST.
+
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+
+
+
+## 1.2 Phenomenology of a Photocopier
 `content, matter, form`
 
 ### 1.1.0 Digital Textuality
@@ -969,7 +1656,7 @@ The word "xerox" firmly entered the English lexicon by the
 mid-1960s[^ln11-xerox] along with stencil duplicators, mimeograph machines,
 microfiche, spirit duplicators,[^ln11-spirit] hectographs, and dot-matrix
 printing. A whole industry of photocopying still exists to seamlessly peel the
-content away from one material medium and plaster it into another. 
+content away from one material medium and plaster it into another.
 
 From the "point of view" of a photocopier, the text exists only as pure form.
 The electro-photographic process at the basis of modern photocopying (invented
@@ -1034,7 +1721,7 @@ military devices, but they also contain within them a lineage of subversive
 reading and writing implements: textual (as opposed to computational) roots
 that cannot be excised from the soul of modern computing.
 
-[^ln11-barthes]:"The work is a fragment of substance," he writes. The work is
+[^ln11-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
 space of books," where the text is "a process of demonstration," "experienced
 only in an activity of production." He writes also that "the Text cannot stop
@@ -1042,7 +1729,7 @@ only in an activity of production." He writes also that "the Text cannot stop
 across (in particular, it can cut across the work, several works)
 [@barthes1978, 156-7]."
 
-[^ln11-drucker]" See for example: "The notion of the 'immaterial' text has
+[^ln11-drucker]: See for example: "The notion of the 'immaterial' text has
 become fixed in popular and even critical imagination. [...] Though digital
 information is far more fungible than physical inscription, the codes on which
 electronic texts are based are themselves material. More to the point, however,
@@ -1072,692 +1759,8 @@ influential @mckitterick1992, @Clanchy1979, and @goody1963.
 hand: / In that case, indeed, would / The talkers of vanities / Have doubted
 [@ali, 29:48]."
 
-## 1.2 Literature Down to the Pixel
-`text, literature, poetics, canon, encoding`
 
-### 1.2.0 Hidden Values
-
-The reading of short stories, novels, poetry, and plays is at grave risk,
-concludes the survey of Public Participation in the Arts conducted by the
-Census Bureau on the behest of the National Endowments for the Arts (NEA) in
-2004. "For the first time in modern history, less than half of the adult
-population now reads literature, and those trends reflect a larger
-decline in other sorts of reading. Anyone who loves literature, or values the
-cultural, intellectual, and political importance of active and engaged literacy
-[...] should be gravely concerned [@readingrisk2004]." The conclusion stands in
-stark contrast with trends that tell a story of an expanding literary, textual
-field.
-
-On an average day in 2008, at home, an average American read around 100,500
-words a day. At 250 words per page, that is around 402 printed pages. Between
-the years of 1980 and 2008, the consumption of information in bytes--a measure
-that would obviously privilege storage-heavy content like sound and video--grew
-at a modest 5.4% per year. Reading, in decline until the advent of the
-internet, has tripled in the same period.  Reading in print accounted for 26%
-of verbal information consumed in 1960. That number fell to 9% in 2008, but the
-consumption of words digitally increased to 27% of total consumption, which
-means that reading has increased its share of the overall household attention
-span [@bohn2009, @hilbert2012].  The first decade of the 21st century saw a 20%
-increase in library visitation [@imls2013]. According to UNESCO data, literacy
-rates continue to rise globally, as the gender and global gaps begin to close
-[@unesco2013]. By a conservative estimate, the number of scientific publication
-grows at about 4.7% per year, which means that amount of published research
-roughly doubles every 15 years or so (and the numbers are much, much, higher in
-some fields) [@larsen2010, @archambault2005, @crespi2008] The number of books
-published in the United States almost tripled from 2005 to 2009 [@bowker2010].
-All measures point to a drastic expansion of the textual field.
-
-Something does not add up. As a society we are reading, writing, and publishing
-more each year. With these figures in mind, I ask: What is at risk, literature,
-or merely one of its many definitions? Does the diffusion of the textual field
-somehow cheapen the literary enterprise of art for art's sake, or protect it?
-What is the source of modern metaphysical anxiety about the status of a
-literary text?
-
-In the 1990s, the ire of the metaphysically disaffected coursed against visual
-culture and television [@stephens1998, @merrin199]. A decade later it turned
-against the internet and computation, which to many threaten the very
-foundations of humanity and the humanities [@golumbia2009, @marche2012,
-@fish2012].[^ln12-internetet] My thesis, presented here and throughout, is that
-the aims of such metaphysical angst are misaligned. Reconstructing the physical
-conditions of textuality reveals profound alienation from material contexts of
-literary production on the part of readers and authors. Although literacy
-thrives, the very nature of what constitutes a literary text changes with the
-advent of new material conditions. Changing circumstances destabilize
-established modes of literary production, access, and distribution tied to the
-circulation of paper and ink.
-
-[^ln12-internet]: The NEA study has this to say on the topic of "What is
-responsible for the decline of literary reading?": "If the 2002 data represent
-a declining trend, it is tempting to suggest that fewer people are reading
-literature and now prefer visual and audio entertainment. Again, the data –
-both from SPPA and other sources – do not readily quantify this explanation
-[...] the Internet, however, could have played a role. During the time period
-when the literature participation rates declined, home Internet use soared
-[@nea2004, 30]."
-
-In his 2004 *Humanism and Democratic Criticism*, Edward Said wrote about the
-"fundamental irreconcilability between the aesthetic and the non-aesthetic,"
-which must be sustained "as a necessary condition of our work as humanists."
-The aesthetic exists in opposition to "quotidian" experiences that we all
-share, writes Said: "To read Tolstoy, Mahfouz, or Melville, to listen to Bach,
-Duke Ellington, or Elliott Carter, is to do something different from reading
-the newspaper or listening to the taped music you get while the phone company
-or your doctor puts you on hold." A corollary to my main thesis is an argument
-against that commonly-held belief about the relationship between literature and
-aesthetics. To my mind, the distinction is impossible to define, let alone
-maintain in practice. Bias in favor of the aesthetic is a bias in favor of a
-specific, historically- and materially- contingent idea of the aesthetic. That
-preconceived idea carries with it a hidden cost, introducing numerous blind
-spots into the study of literature at large, limiting it in scope and
-relevance. Textual diffusion threatens not the humanity (or the humanities),
-but the existing socio-economic order that governs who gets to access, to
-interpret, and to archive literature as text and document. I begin with several
-propositions then: one that the literary field, understand in broad terms, is
-expanding, and two, that with a quantitative expansion comes qualitative change
-in the material make-up of the literary text. Where I start with a top-down,
-theoretical reconceptualization of literature as an epistemological category, I
-end with a bottom-up media history that traces the passage of pixel to text.
-
-When surveying the introductory literature on literature, the reader will
-invariably find a version of Said's "fundamental irreconcilability" position.
-For example, in Austin Warren and Renee Wellek's, *Theory of Literature* the
-authors write that the "term 'literature' seems best if we limit it to the art
-of literature, that is, to imaginative literature […] the main distinctions to
-be drawn are between the literary, the everyday, and the scientific uses of
-language [@wellek, 22]." Similarly, Raymond Williams defines it to mean "mainly
-poems and plays and novels," as opposed to other kinds of "serious" writing
-that are "general," "discursive," or "the sub-literary [@william1976,
-152-153]."[^ln12-engell] Sharing the bias in favor of aesthetic reading with my
-colleagues, I would rather spend my free time reading Kincaid or Coetzee than
-poring over arcane printer and telegraph manuals. Implicit in that bias is
-an idea--professed by Immanuel Kant, Friedrich Schiller, and, more recently,
-Tzvetan Todorov and Elaine Scarry--the belief in the connection between beauty
-and justice, beauty and the good, beauty and the upright moral life. I wish to
-avoid disturbing the foundations of that intellectual edifice, and only want to
-point out that, for some, beauty can also reside outside of artful discourse,
-and that others find beauty in the strangest of places, and that texts--their
-movement within and across cultures--present many problems not exhausted by the
-ethic or the aesthetic realms. Reading fiction (of a kind) for pleasure (of a
-kind) may indeed be a vanishing pastime, but that is not to say that our
-society has gotten interested in literature of all kinds. On the contrary,
-whole new disciplines have sprung up to deal with textual saturation: natural
-language processing, narrative generation, automatic translation and
-summarization, computational text analysis, discourse analysis, corpus
-linguistics, and digital humanities among others.
-
-Matters always central to the field of literary studies remain vitally
-important to the functioning of modern society. Literature broadly conceived
-provides fertile grounds for collaboration between diverse disciplines
-interested in the changing dynamics of narrative, interpretation, language,
-form, prosody, composition, dialogue, discourse, story, genre, authorship,
-influence, and text. It is in this core conceptual cluster of operational terms
-that I want to locate a notion of poetics, poetics capable of addressing not
-only the machinations of poetry and prose, but also of code, document,
-inscription, file, record, note, manual, journal, list, script, and archive.
-Rather than picky eaters, I imagine my fellow travellers as voracious omnivores
-of text.
-
-This is not to say that I advocate ignorance, nor do I follow the Russian
-formalist poet Vladimir Mayakovksy who in the beginning of the last century
-called on his peers to "cast Pushkin, Dostoevsky, Tolstoy, et.al. overboard
-from the ship of Modernity." I hold instead that in the implicit perusal of the
-subjectively beautiful discourse literary scholars have abandoned vast and
-fecund textual vistas. In privileging the aesthetic, the study of Literature
-has tied its fate to that of an increasingly vanishing pastime--the leisurely
-reading of poetry and fiction, of a specific kind, holding a privileged form,
-sold in preferred manner.
-
-Hampered by an artificially-limited field of activity, the study of literature
-excavates a small, sacred patch on tip of an immense textual iceberg.
-The results of all that iceberg-digging sink to join the mass of
-its submerged and unexcavated bottom. Texts multiply and produce other texts:
-that's more or less the point of Roland Barthes's 250-page exegesis of a 30
-page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
-as a scholar, I suspect that exponential growth and diminishing returns will
-eventually (if not already) make such relentlessly exogesic mode of scholarship
-unsustainable. The value of each new "Barthes" and associated commentary
-plummets as texts multiply exponentially, quickly reaching the human limits of
-comprehension. There no winners in such an arm race between footnotes, only
-eventual irrelevance.
-
-Non-positivistic disciplines like literary studies lack a methodology for
-definitively settling any research program. For this reason, citation patterns
-in the humanities journals privilege well-established sources
-[@tenen2014-displacement], where the sciences will usually defer to the "last
-word" on any given question. Without robust mechanisms for condensing and for
-pruning accepted knowledge the archive expands precipitously. Its combined
-weight necessarily devalues the literature of the present, creating a curious
-kind of a gap in contemporary material. A "modernist" in literary studies
-denotes a specialist who works on documents which are now over a century old.
-And most departments of literature cover only a limited range of best-sellers
-from the "post WWII period." A competent modernist can likely name dozen or so
-contemporaneous literary movements emerging at the turn of the twentieth
-century. Few in our field can name more than a handful at the turn of the
-twenty-first.[^ln12-survey]
-
-The logic Said's eloquent defense of the aesthetic merely continues a tradition
-of exclusionary distinction-making, which before Said denied writers like
-Naguib Mahfouz and musicians like Duke Ellington a place in the curriculum. The
-logic of exclusion on aesthetic basis places the critic in the awkward role of
-a taste-maker, limiting research to texts that in a sense were already
-"blessed" by the establishment. Scholars working on "lesser" or "unknown" texts
-and writers must expand considerable energy justifying the aesthetic merits of
-their chosen subject. At stake in the binary logic of aestheticism are the very
-notions of "beautiful" and "quotidian" as markers of prestige--notions that
-encourage disciplinary infighting, tug-of-war style, by which much energy is
-spent in struggling to pull material from one category into the other. In the
-meantime, the shoring up of the aesthetic detracts from the larger aims of
-literary scholarship, reducing literature to its ornamental function, as a
-"neat illustration" for otherwise empirical accounts of the human
-condition.[^ln12-menand]
-
-[^ln12-menand]: I am echoing Louis Menand's "the version of the humanities that
-would make many nonhumanists most comfortable today is the version in which art
-and literature are ornaments on or neat illustrations of empirical accounts of
-human life" [@mendand2005, 10-17].
-
-To limit the literary to a historically-contingent ideal of the aesthetic is to
-limit the project of literary analysis to a moralizing, prescriptive
-enterprise. A whole tradition of Marxist criticism reminds readers that
-prescription cannot be ideologically neutral. "Literature does not exist in the
-sense that insects do," Terry Eagleton writes in his introduction to literary
-theory. "Value judgments by which it is constituted are historically variable,"
-he concludes, having "a close relation to social ideologies." For Eagleton,
-values are more than simple assertion of private taste, instead they refer to
-assumptions "by which certain social group exercise and maintain control over
-others [@eagleton1983, 15-47]. Who controls what? My interpretation of Marxist
-materialism is considerably more literal than Eagleton's. I am interested here
-in physical mechanisms of control, not in their ephemeral ideological
-justifications.
-
-In trying to understand the incongruity of NEA's dour prognosis with broad
-theoretical models and demographic trends that describe the proliferation of
-text, I am confronted with two possible explanations. The writers of the report
-hint at the first themselves: to treat the ebbing of literary reading (in a
-particular mode) as cause and symptom for the general decline of the arts (and
-perhaps of civilization itself). I find that reading unacceptable, (1) because
-it is depressing and (2) because it smacks of historical exceptionalism. I
-strongly suspect that humanity's potential for innovation and creativity has
-remained relatively stable. The material conditions for creative expression may
-change (as in the times of political oppression, pestilence, or war), where the
-spirit endures.
-
-The second, much more palatable (and likely) explanation would question the
-very definitions of literary reading. Consider the possibility of online or
-digital literature that evolves according to a logic of its own, where previous
-ideas of "genre" or "literary movements" no longer apply. To restrict literary
-reading to "novels, short stories, plays, and poetry" is to deny some measure
-of litirariness to song-writing, computer game making, and software design,
-and, in an obvious way, to non-fiction or, let's say, to long stories of
-arbitrary length.  Imagine, for example, excluding reality television from the
-survey on television habits, because the genre does not confirm to some
-normative sense of what television should be. Do the survey makers consider
-literature as a medium, like television, or a grab-bag of "serious genres" like
-comedy and drama? As it turns out: both. The authors of the report concede the
-point in sometimes classifying readers by the number of books read in any
-genre, effectively equating literature with "books [@NEA2004]." But even that
-concession confuses form with function. What if "reading a book" begins to
-involve something other than moving one's eyes from left to right over
-sequentially numbered blocks of text? Or what if books were more like pills
-than parchment? The conundrum reveals a strong methodological bias
-favoring a definition of literature as specific matter and form. A report that
-initially looks like objective, quantitative, descriptive analysis (that's the
-way things are) hides a qualitative, proscriptive program (thats the way they
-should be).
-
-[^ln12-engell]: See also @engell1988.
-
-Staring with the late 1960s, a generation of scholars (Northrup Frye, Murray
-Krieger, and E. D. Hirsch, among others) took up the problem value in literary
-criticism in a concerted fashion. Their conversation splintered into three
-camps: the separatists--those who viewed the production of value as a detriment
-to the discipline; the inseparatists (to coin a term)--those who believed that
-value creation is inseparable from the study of literature; and the
-compatibilists, or those who attempted to integrate the two opposing positions.
-Frye, for one, argued that value production should not be a part of the
-scholar's task, because the concept of value itself is "individual,
-unpredictable, variable, incommunicable, indemonstrable, and mainly an
-intuitive reaction to knowledge." "The more consistently one conceives of
-criticism as the pursuit of values," writes Frye, "the more firmly one becomes
-attached to that great sect of anti-intellectualism."
-
-To this Murray Krieger responded in pointing out the inevitability of value
-formation in the work of even the most analytically-inclined critic. Krieger
-writes: "The categories [of the literary, the poetic] define their subject and
-erect value criteria for admission, so that for the work to attain the
-definition is for it to qualify as a valued individual in a valued class. The
-work comes to be discovered, defined, and valued as poetry only by a way of a
-pre-existing generic characteristic which the critic began by adopting as his
-perspective glass to envision it." All this to say that even for scholars like
-Frye, the process of valuation happens before the encounter with the text. In
-designating the poem as a poem, the critic already has brought with him a set
-of preconceived notions that distinguish what constitutes poetry, and what does
-not; who is in and who is out. On this view, abjuring the task of explicit
-value formation borders on the irresponsible.
-
-Critics like E. D. Hirsch offered a compromise between these two positions,
-arguing that although value-making contaminates all acts of interpretation, the
-scholar can and should adopt an interrogatory stance towards value creation as
-such, which ultimately allows her to "form new judgments of value and
-significance [@hirsch1968, 331]." In this camp we also find "Contingencies of
-Value," a 1983 article by Barbara Herrnstein Smith, where the author urges her
-peers to make the examination of social value-creating mechanisms a part of
-their academic discipline. "What are commonly taken to be *signs* of literary
-value, are also its *springs*," Smith writes [@smith1983, 30]. And the springs
-unmistakably push the whole enterprise towards the Western, economically
-privileged, model of the canon. Texts that survive in the teaching and the
-selling of literature survive as long as they do not radically subvert the
-prevailing ideology. Smith stops short from offering a way out of the
-conundrum. For even as the canon grows to include previously excluded voices,
-those voices take on the shape of soft acquiescence. The custodians of the
-Western canon "cannot grasp or acknowledge" that alternative forms of
-litirariness and textuality can take on the functions of Dante or Homer for
-others [@smith1983 1-35]. I am appropriately galvanized by Smith's fiery
-rhetoric, but must admit that not much has changed since the 1980s. The
-compromise does not approach the very peculiarity of the question itself. Must
-we value the object of our study?
-
-To understand the peculiarity that question, try asking: Does an anthropologist
-observing cock fighting, condone animal cruelty? Does a historian writing about
-war, sanction violence? Does a philosopher working on the problem of other
-minds, love solipsism? In each case, synonyms for value-making--loving,
-sanctioning, condoning--appear out of place, incongruent with the inquiry at
-hand. Something is rotten in the very formulation of the question. To put it
-differently: Must we study *only* what we value? I cannot think of a way to
-defend the answer to the affirmative. A zoology that singularly insists on the
-study of beautiful animals is itself a strange creature.[^ln12-zoo] A
-more radical compromise compels us to seek value in the importance of the
-inquiry itself: in the quality of the questions raised, and in the relevance of
-the answers given.  If literary reading of a certain kind has the power
-ascribed to it by the NEA report (increased civic participation, etc.),
-literary humanities need not concern itself with the protection of the
-literary. The survival of the field (and not of literature itself) depends on
-the freedom of its cadres to pursue the literary function everywhere,
-indiscriminately, even in the discarded textual detritus of human activity,
-however quotidian. A conception of a more neutral, broad literary domain can
-include and preserve all existing forms of textuality.
-
-[^ln12-zoo]: There are several studies that explore the effect of perceived
-aesthetics on zoology and conservation. See esp. @frynta2009 and @stokes2007.
-The short of it: cute animals get more funding.
-
-I am trying to burrow (impatiently, because the archive is thick, and the
-bottom so far) from a big idea, like literature, down to its more modest
-textual forms, and into the material substratum of digital and paper print
-media. At some point we'll need to start digging the tunnel the other way, from
-the bottom up. For this, we'll need an operational definition of literature,
-free (to the extent it is possible) from its normative baggage: something like
-"the systemic application of textuality to human life," and textuality as
-"the site of literary activity." But I am not yet ready to move beyond the
-obvious tautology.
-
-### 1.2.1 Microanalysis
-
-In a study on the construction of scientific knowledge, Bruno Latour and Steve
-Woolgar perform what they call an "ethnography" of a science lab, showing the
-passage of ideas from applied experiment to textual inscription. For Woolgar
-and Latour, the laboratory functions as a factory of sorts, ingesting matter
-and artifact to produce fact [@latour1986]. That process of inscription comes
-to the fore explicitly: the output of science lab is, in some real ways,
-measured by its publication record [@latour1986]. A scientist may object that
-her publication record is merely a byproduct of her research activity. Yet
-Latour shows pretty convincingly that the laboratory participants closest to
-the material conditions of knowledge production are at the same time, most
-marginalized members of the group. Lab technicians handle the matter of mass
-spectrometers and bioassays. Ph.D. holders, by contrast, spend most of
-their time handling inscription devices like printers and computer consoles.
-
-Although much cited in the study of culture, science, and technology,
-*Laboratory Life* had curiously little impact on the study of literature, even
-though Latour and Wollgar borrowed much the other way around. In the 1986
-postscript to the American edition, they remark on the broad trend in literary
-theory to treat texts as objects of interpretation, disavowing the kind of
-criticism aimed at the "real meaning of texts," at "what the text says," "what
-really happened," or "what the authors intended [@latour1986, 273]." Similarly,
-research in the social study of science should be aimed at the "contingent
-character of objectification practices." Science, on their view, is itself a
-type of a literary system, "generating texts whose fate (status, value,
-utility, facticity) depends subsequently on interpretation [@latour1986, 273]."
-Throughout the book, Woolgar and Latour use the term literature to mean
-something "inscribed, printed, or published," a combination of verbs that
-coincides with "literature" consistently throughout [@latour1986, 47-53].
-Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
-research program started by the post-structuralists. Where Jacques Derrida could
-offhand remark that "everything is a text," Woolgar and Latour make concrete the
-literal transformation of matter into text. No longer was literature an
-illustration of something that happens in the laboratory: Latour and Woolgar
-showed the laboratory to function as a literary system.
-
-The conventional way to understand Woolgar and Latour brings the interpreter
-into the laboratory, breaking the illusion of scientific objectivity: instead
-of "discovering" facts, scientist socially construct them. Paradoxically, as
-Latour and Woolgar worked to undermine the empirical unity of science (turning
-it into a kind of hermeneutics), they performed literary analysis as an
-empirical method. To "read" the laboratory, the researchers had to be there, in
-person, observing and taking notes. The laboratory opens up to them through a
-careful micro-ethnography. The reader gets to examine floor plans, research
-samples, dialog transcriptions, publication patterns, and other evidentiary
-materials.
-
-To view Woolgar and Latour as scholars of literature is to open up the
-floodgates of textuality. The laboratory, the court, the hospital--these
-institutions cannot be reduced to text, but they are in part, literary systems.
-Beneath every scientific discovery, every popular song, every film, radio, or
-television serial, every art or architectural project, every political office,
-every legal judgment, every restaurant meal, every doctor's prescription, every
-website, and every machine manual--beneath that giant and perplexing pile of
-human activity lies a complex network of textual material. The task of the
-literary scholar becomes to make visible that textual undercurrent, to follow
-and to map its movements across culture, to expose the mechanisms of its
-mutation and locomotion. It is an exciting prospect: to view the hospital as a
-library, where cadres of physicians and administrators convert human stories
-into diagnoses, into controlled vocabularies, into files, into billable codes,
-into inscriptions, and into archives. Or to see the legal system as a process
-of literary discovery, were legions of attorneys and paralegals pore over
-terabytes of textual material, transforming inscription into evidence. That is
-not all these institutions are, but they are also that.
-
-Such textual proliferation comes at a cost. Until recently, the bread and
-butter of literary scholarship has been close reading. Close reading like
-critical thinking is an idea that is easier to perform than to explain, because
-the details become contentious as soon as they are
-formalized.[^ln12-closereading] I will tread carefully by committing myself to
-some notion of deliberate and reflective practice aimed at deep comprehension.
-The Partnership for Assessment of Readiness for College and Careers (PARCC),
-the organization responsible for the Common Core standards being implemented in
-schools across the United States today, promotes close reading as "thorough,"
-"methodical," and "analytical" practice that "enables students to reflect on
-the meanings of individual words and sentences; the order in which sentences
-unfold; and the development of ideas over the course of the text, which
-ultimately leads students to arrive at an understanding of the text as a whole
-[@PARCC2012, 7]." The general movement here is from "text" on the page to
-"work" (text as a whole, in the language of the report). The model of
-textuality implicit in the project of close reading assumes an environment of a
-well-defined literary canon, naturally accessible to the human intellect. For
-the duration of the "Gutenberg galaxy," the age of print, a well-educated
-person might have been expected to internalize some several hundred or perhaps
-thousands major texts constituting the canon.
-
-The expansion of the textual field and its relative liberation from physical
-media have radically increased the cognitive demands of literary engagement.
-The pipeline between text and work has lengthened considerably. On the one
-side, the matter of canon formation can no longer be relegated to stable,
-long-term systems of social filtration. Seen form the perspective of a literary
-interface, the database, the social stream, and the search engine are tools for
-dynamic, "on the fly," generative canon-formation. Consider the task of finding
-an unknown factoid online, as was the case with my previous aside on the status
-of literacy in medieval Muslim world. Not being a medieval scholar, I construct
-a search query, using resources that I believe will return a reasonably
-authoritative list of texts on the subject. The search engine in effect
-substitutes centuries-long processes of canon formation, for a
-near-instantaneous list of results that become my ephemeral, but nevertheless
-authoritative, collection of relevant literature. Each text still requires the
-instrumentation of close, analytical interpretation. However, the same ideals
-need to be exercised on the higher level of orchestration. Where to search?
-Using what engine? How to construct the query?
-
-The academic question of canon-formation, transforms into a (not yet critical)
-practice of rapid, iterative, generative canon making. Whatever ideals motivate
-close reading between "text" and "work" surely must drive the process on the
-level of corpus composition. Almost every field of human activity has responded
-to the condition in which canons are no longer accessible, in their entirety,
-to the unaided (natural) human intellect: distant reading and macroanalysis in
-literary studies[@jockers2013, @moretti2013], culturomics in economy
-[@aiden2014], e-discovery in law [@capra2009], and medical informatics in
-medicine [@shortliffe2012], among others. At the foundations of these nascent
-disciplines is a shared toolkit of statistical natural language processing
-[@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
-learning [@flach2012], network analysis [@], and topic modeling [@blei2012].
-
-```
-
-                       .------------------ canon
-                       v                   corpus
-                                           database
-        Author > Text > Reader > Work      search
-                                           recommendation engine
-               ^
-MICROANALYSIS  |                           DISTANT READING (MACROANALYSIS)
-               |
-
-    personal computer
-    file system
-    word processor
-    file format (encoding)
-    publisher
-    distribution system
-    physical media (paper and pixel)
-
-```
-
-Where distant reading and macroanalysis are concerned with text aggregates,
-microanalysis, of the type suggested (but not carried out to its logical
-conclusion) by Latour and Woolgar, occupies the other side of the text-work
-equation. There's relatively little space between author, text, and, reader in
-the traditional model of literary transmission. Were I to write these words in
-front of you, on paper, I would simply pass the page into your hands. In
-receiving this text, you could be fairly certain that no third party meddled in
-the process of passing the note. When communicating in this way, it makes quite
-a bit of sense to talk about notions like "authorial intent" and "fidelity of
-the original," because the author and his work occupy contiguous space and
-time. The advent of cheap mechanical reproduction of print (for the sake of
-brevity let's say the printing press) introduces a range of instrumentation
-that mediate between the author and the reader. Distance, time, and mediation
-weakens any notion of fidelity and authorial intent. At the very least, we know
-that editorial practices, publishing markets, and communication technologies
-introduce an element of noise into the original text. At worst, long-distance,
-asynchronous communication is susceptible to "man-in-the-middle" attacks, by
-which the content of communication is maliciously altered by a third party
-[@needham1978].
-
-Changing material conditions of textual transmission push against the familiar
-literary critical conceptual apparatus. For example, as mechanical reproduction
-of print weakens the material basis for authorship attribution, the notion of
-authorship itself undergoes change. That is not to say, again with Barthes,
-that the author dies. Authors continue live and collect royalties from the sale
-of their works, but the reconfiguration of the authorship function makes
-certain ways of talking about things like "authorial intent" and "fidelity to
-the original" difficult to sustain. Massively collaborative writing projects
-like Wikipedia and procedural narrative generation further erode ideas of
-authorial production based on personal human agency.
-
-The aim of microanalysis then is to reconstruct the material conditions of
-textuality, paying sustained attention to the atomic particulars of encoding,
-transmission, storage, and decoding of text at the sites of its application to
-the human experience.
-
-[^ln12-survey]: I can only give anecdotal evidence here, as I often put this
-question before my graduate students at the beginning of the semester,
-with the reported results.
-
-[^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
-
-### 1.2.2 WYSINWYAG (What You See Is Not What You Always Get)
-
-"Media determine our situation," Friedrich Kittler wrote in his seminal
-*Gramophone, Film, Typewriter*[@kittler1999, xxxix]. The book channels its
-metaphysical angst about the changing conditions of literary production from
-the typewriter into the personal computer. Kittler concludes that "under the
-conditions of hight technology, literature has nothing more to say [...] an
-automated discourse analysis has taken command [...] and while professors are
-still reluctantly trading in their typewriters for word processors, the NSA is
-preparing for the future: from nursery school mathematics, which continues to
-be fully sufficient for books, to charge-coupled devices, surface-wave filters,
-[and] digital signal processors [@kittler1999, 263]." A more careful
-microanalysis of the textual condition in the passage between typewriters and
-personal computers, reveals plenty of space for human agency. Media determine
-our situation only to the extent that we continue to treat the everyday
-transformation of thought into pixel (and thereto into literary control systems
-that structure human experience) as mystical and mystifying black-box
-mechanism.
-
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality.  In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
-
-We are accustomed of thinking of modern computing as a pinnacle of calculating,
-computational devices. That is the story the reader gets in Kittler's media
-history and in David Golumbia's excellent *Cultural Logic of Computation.* The
-cultural logic of computation inevitably leads to a bleak vision of of Johanna
-Drucker calls "mathesis," the triumph of deterministic quantification over
-indeterminate, anti-positivist forces of the humanities. The historical link
-between computation and the military industrial complex, cannot be denied. But
-they are contingent, rather than causal connections. In moving towards a notion
-of critical computing, we are able to draw on a multiplicity of historical
-practices that suggest an alternative mode of engagement with the computational
-environment, one in which literature has plenty to say.
-
-The personal computer governing the production of textuality today emerged from
-an amalgam of automated devices, chief among them the telegraph, the typewriter
-and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
-Turing describes an automatic machine (a-machine) capable of transposing the
-problem of calculability into "effective calculability." Where all previous
-calculators were special-purpose mechanisms, engineered to augment a specific
-type of computation, the a-machine was a universal device. In theory (and it
-was conceived as a thought experiment, at first), it could imitate any other
-mechanism for calculation because its internal state was itself symbolic. The
-device would receive input, by means of a paper ribbon containing discrete
-symbolic inputs. At its bare minimum, the device would need only the ribbon, a
-means of "reading," and the means of "writing," the symbols onto the tape.
-Mechanically, its movement could be restricted to simple left/right progression
-along tape. What makes it a universal Turing machine is its ability to
-internalize the symbol as part of its mechanism. The marks on the ribbon can
-symbolize what we would call "data," like the numbers to be computed for
-example. But other symbols include control codes, that alter the movement of
-the mechanism. In fact, the Turing machine does not properly differentiate
-between control code and content. Its internal state (Turing purposefully uses
-terms of sentient awareness throughout) "is determined by m-configuration
-*q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." This transition of
-symbols into machine configuration states effectively defines modern
-programming. A universal machine, unlike other, definite, single-purpose and
-limited-state mechanisms (like a clock for example), contains the ability to take on
-differing internal symbolic configurations. It can imitate a clock, and Turing
-thought that with time it would be able to imitate humans as well.
-
-Turing rightfully deserves the credit for articulating the archetype of a
-universal machine in its simplest logical form, and then for applying that
-theoretical device to the problem of computable numbers. But, as a device, the
-Turing machine borrows from a number of designs, that, together, incrementally,
-bring the universal computer into material existence. Although Turing's original
-article did not include any drawings, he describes the a-machine in terms of
-paper tape medium, scanning, erasing, "writing down notes," "external
-operators," and "moves" of the mechanism. If Turing were to file a US-based
-patent for his device (rather than describing it in the abstract only) he would
-have to cite prior art in the mechanisms like the "Numeral adding or
-subtracting attachment for type-writing machines" (US517735, filed in 1893 and
-issued in 1894), "Combined Type-Writing and Computing Machine" (US990238,
-1896-1897), "Computing Attachment for Typewriters" (US1162730, 1908-1915),
-"Computing Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and
-Adding Machine" (US1244398, 1910-1917) among others.
-
-By the end of the 19th century a number of lesser mechanisms anticipate the
-functional elements of Turing's device. By 1930s, these inventions not only
-anticipate the modern computer, but are brought to mass market in wide-spread
-manufacture of computing scales, dial recorders, electric tabulating machines,
-and computing typewriters made by companies like Underwood Computing Machine,
-Electromatic, and International Business Machines (IBM). Rather than a singular
-eureka moment, the invention of the universal machine should be viewed as a
-historical process that culminates with Turing's description. That process can
-be reduced to four key elements, each necessary for the functioning of the
-Turing machine (and each in themselves representing a long lineage of
-technological development):
-
-1. The mechanization of type. With the invention of the typewriter, the
-   variability of hand-written script can be reduced to a limited set of discrete
-characters. The process of normalization is by no means complete today, as
-attested by the proliferation of character encodings and the difficulty that
-research on optical text recognition faces in dealing with non-Western writing
-systems.
-
-2. Remote communications (geographical displacement). The telegraph removes
-   writing from its immediate physical environment. Authorial presence, already
-weakened by writing as such, is further distanced from the contexts of
-utterance. The telegraph lengthens the chain of technological and political
-mediation in the transmission of information. The telegram differs from the
-letter in that it is transcribed, encoded, decoded, and transcribed again. The
-lengthening further weakens the authorial function: where a letter needs to be
-"forged" to mis-represent authorial intent, third parties (like the telegraph
-clerk) are explicitly present in the act of transmission. The clerk's (or the
-censor's) "signature" cannot be distinguished from the author's (a common
-literary plot device in the fiction of the period).
-
-3. Automation and programmable media(tempral displacement). Again, already a
-   property of all writing, temporal displacement itensifies as the telegraph
-is coupled with the typewriter, while the typewriter no longer operates
-directly on physical media. A number of inventions at the end of the 19th
-century pertain to "circuit-controlling devices controlled by a traveling
-perforated strip or tape" (from US patent number 500226, filed Charles Cutriss
-in 1893 [@cutriss1893]). The initial idea of using perforated tape to control
-curcuits remotely @US158156, by Charles Wheatstone in 1874. Prior to perforated
-tape, the transmission of a message by telegraph required the presence of a
-skilled operator, able to transcribe messages from text to Morse code, and into
-the physical motion of a lever-operated curcuit. Typewriters and telegraphs
-relied on a human as an interface, in other words. The transcription of text
-into signal, and back onto paper required the real-time presence of human
-encoders and a decoders.  The perforated tape decoupled the human from the
-machine, allowing for the automation of the device. In 1911, two inventors
-working on the telegraph write, "the object of our invention is to provide a
-system of telegraphy which does not require skilled operators for the
-transmission and reception of messages; which is adapted to utilize a single
-wire between two or more stations and automatically typewritten in page form
-ready for delivery to the addressee [@bumstead1916]." Note the erosion of the
-distinction between "message" and "control" in this process. Some "messsages"
-encoded into the tape are meant for human, while other are there to control
-curcuits.
-
-A flood of inventions appeared at the turn of the 20th century to capitalize on such
-decoupling. These include machines for tape-controlled telegraphic
-transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
-tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
-1928-1929), and remote broadcast programming or radio and television content
-(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards and perforated tape (also used in Jacquard
-looms, as early as 1801), a message meant for another human became also a
-physical medium--bumps and holes--used to modulate electrical current. In the
-transmission of a recorded message, the message itself plays the role of a
-controlling mechanism, aiding in the mechanical movement of the transmission
-apparatus. For the automated telegraph the control code and the message are
-one: that is, the arrangement of perforation on the ticker tape affects the
-internal mechanical state of the machine. Another way to put this would be to
-say that the state of the tape-driven telegraph machine at any given time is
-also the message. The device simply converts mechanical states into signal
-(printed, audible, or otherwise). 
-
-The logical conclusion of this idea is the controller (US1165663, 1911-1915).
-
-
-The material history of the Turing machine lies in the
-
-
-
-
-Friden FlexoWriter separates key strokes. > IBM MT/ST.
-
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-
-### 1.2.3 Fancy Text
-
+### WYSINWYAG (What You See Is Not What You Always Get)
 Baudot code.
 
 Plain text. Fancy text. TROFF. Processed text. Instructions for the style of
@@ -1801,699 +1804,13 @@ Genette.
 
 End with kindle. Control of remote devices. Control visible or not.
 
-## 1.3 Recursive Encounters with Oneself
-`document, vector, archive`
-
-We often think of literary works as completed products. *To the Lighthouse,*
-*Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
-critics, in charge of creating a work out of a multiplicity of texts, remind us
-that the work is a carefully-crafted illusion. The text multiplies, always
-threatening to undermine the unity of the work. Think of something substantial
-you have written recently: a paper or a proposal perhaps. 
-
-"It is that the word or sign man uses is the man himself" Pierce as quoted
-@weel2012.  What does it mean to know something?  Sartre and Beckett.  ###
-Recursive Encounters with Oneself
-
-Text as vector. Barthes: text as "an organism which grows by vital expansion
-[@barthes1978, 161]." " "The metaphor of the Text is that of the *network*
-[@barthes1978, 161]."
-
-Wikipedia as a Turing complete language. The power of versioning. Text as a
-vector. The problem of annotation. What are we annotating? Annotation solutions
-force a platform. Is Hamlet a platonic object? A family of related objects?
-Standard English editions in Europe.
-
-### Problem of Drafts and Versions Documents as vectors. Not completed things.
-Files as cognitive scaffolding for collective memory. Vissman.
-
-Science lecture vs. humanities. Stuff that is known. Stuff that is not known
-
-What does it really mean to "know" something? Or to have "read" a book? I have
-had the following conversation countless times. Someone asks, "Have you read
-Nabokov's *Pale Fire*," and I respond, "Yes I have." But there is a world of a
-difference between reading it yesterday, last week, or ten years ago. The book
-as an interface leaves an organic trace in the human mind--an imprint that
-begins to fade as soon as it is created.
-
-How much knowledge is there in the world? According to a recent paper published
-in Science, 295 exabytes (or billion gigabytes).[@hilbert]
-
-Whatever consciousness is, it is propelled forward on a thin edge of material
-substratum. Reality exists only in the now, where the past is a memory and the
-future only a possibility. Imagine whispering something to a friend. It does
-not have to be very complicated, something like "I love you" or "I miss you."
-The whisper dissipates as soon it is uttered. The percussion of the speaker's
-breath creates temporary order: giving shape and pushing air molecules into
-waves of pattern and form. That order begins dissipating as soon as it is
-created. Within milliseconds, molecules return to their natural state of chaos.
-
-To steel ourselves against entropy, we change the substratum from air to stone.
-It's molecules are more stable. Etched in stone will be the same message. It
-will last longer now. But it will also take longer to create. You will have to
-carry around your tablet and chisel. The message etched in stone will outlive
-the whisper and indeed will
-
-Repercussion? How we preserve ourselves today affects the future. Appointment
-with self.
-
-The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André.
-
-The book as an interface between human and ?. We must see it in the context of
-interfaces.
-
-### Krapp's
-Last Tape Beckett sets the stage for his 1958 Krapp's Last Tape on
-"a late evening in the future."1 The reason for this rather ambiguous dating is
-probably technological. The first personal tape-recorders were manufactured in
-Germany in the early 1930s, with public demonstrations of the device happening
-as early as 1933 in Europe.2 The play makes it clear that Krapp is in the habit
-of reviewing and recording his tapes on the eve of his birthday. On this
-particular evening, he is turning sixty-nine, and he is listening to a
-recording of his thirty-nine year-old self, who in turn reports listening to a
-ten-to-twelve year-old tape. This dating sequence places the work well into the
-mid-1970s by a conservative estimate—a date which is ironically, more than a
-decade after the invention of the compact cassette tape (1962) by Phillips and
-only a few years before the introduction of the iconic Sony Walkman product
-line (1979).3 It is likely that Beckett wanted to protect the chronological
-integrity of the plot by shifting the time of the play forward. What he could
-not have predicted is the increasing pace of technological innovation in the
-twentieth century.
-
-These modest annotations to Beckett's work are not meant to be facetious. The
-multiplicity of Krapp's fictional selves is made logically possible by the
-literary and the technological device alike. The seeming unity of Krapp's
-consciousness and indeed, the stage appearance of consciousness itself are
-aided by the use of the tape-recorder. The device on the stage creates the
-illusion of Krapp's inner life; it allows the author to shift the narrative in
-time; it multiplies and refracts the images of the main character of the play.
-The reel-to-reel player functions both as the audience and the actor,
-alternatively speaking and listening, recording and transmitting. And
-ultimately, Krapp's fate is not only linked to the tape-recorder, it is created
-by and for this technological medium.4
-
-But just as Krapp is created by the tape, the tape is Krapp's
-creation—technology itself being inextricably enmeshed in the narcissistic
-activity of human culture. The tape-recorder cannot occupy the center stage—it
-must recede into the background to become invisible. The player exists to
-reflect Krapp's image back to Krapp and in the process, to record the encounter
-for later reevaluation and re-recording.5 This almost mythical recursion
-promotes Krapp's character to the archetypal role of the librarian, whose task
-is to collect, to preserve, and to curate his own personal experience—a
-librarian of the self. In this light, the specificity of the tape as a medium
-is not terribly important. The story would be similarly plausible were it set a
-century prior, using a conventional diary as its medium, or written some
-decades later under the title of Krapp's Last Facebook Page.6
-
-Krapp's status as a librarian is confirmed in his elaborate filing system, by
-which he stores and organizes his recordings. He goes through several of his
-filing cabinets, "peering and poking at the boxes" as if to check the integrity
-of his collection, before settling on the tape from his thirty-ninth birthday
-("Box Three, Spool Five" he says with relish.) The cardboard storage boxes, the
-drawers, the ledger, and the very word itself—"spool," "spooool"—make him
-increasingly happy. Beckett presents Krapp's archival activity as a kind of a
-Chaplinesque comedy routine, with erotic overtones: Krapp remains a moment
-motionless, heaves a great sigh, looks at his watch, fumbles in his pockets,
-takes out an envelope, puts it back, fumbles, takes out a small bunch of keys,
-raises it to his eyes, chooses a key, gets up and moves to front of table. He
-stoops, unlocks first drawer, peers into it, feels about inside it, takes out a
-reel of tape, peers at it, puts it back, locks drawer, unlocks second drawer
-peers into it, feels about inside it, takes out a large banana, peers at it,
-locks drawer, puts keys back in his pocket. He turns, advances to edge of
-stage, halts, strokes banana, peels it, drops skin at his feet, puts end of
-banana in his mouth and remains motionless, staring vacuously before him [...]
-He treads on skin, slips, nearly falls, recovers himself, stoops and peers at
-skin and finally pushes it, still stooping, with his foot over the edge of the
-stage into pit. He resumes his pacing, finishes banana, returns to table, sits
-down, remains a moment motionless, heaves a great sigh, takes keys from his
-pockets, raises them to his eyes, chooses key, gets up and moves to front of
-table, unlocks second drawer, takes out a second large banana, peers at it,
-locks drawer, puts back his keys in his pocket, turns, advances to the edge of
-stage, halts, strokes banana, peels it, tosses skin into pit, puts an end of
-banana in his mouth and remains motionless, staring vacuously before him7 
-
-These stage directions exude a nervous energy one would expect before an erotic
-encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
-contain an account of a past romance, but the encounter Krapp is excited about
-is with the archive—that is with himself. The suggestive stroking of the banana
-punctuates the onanistic nature of Krapp's archival activity.
-
-Let us envision Krapp's archiving habits for a moment. The stage directions
-specify a den and a small table containing two drawers that open towards the
-audience. The table holds a tape-recorder, a microphone, and "a number of
-cardboard boxes containing reels of recorded tapes."8 How many reels are there?
-Krapp is sixty-nine, and after more than forty years of recording he must have
-accumulated somewhere around forty reels (assuming that his recording sessions
-lasted around a reel each). Reading from the ledger, Krapp counts nine boxes.
-The reel from his thirty-ninth birthday is in box three, spool five. What of
-his tape-recorder? In 1958, when Beckett began writing his play (he continued
-to rework it well into the 1970s) there were at least several dozen
-tape-recorders on the market, with the most popular brands being Ampex, Crown,
-Magnetophon, Magnecorder, Sony, Webcor, and Wollensak (see Appendix, Table 1).
-The smaller portable, battery-operated versions of these recorders ranged in
-price from two to three hundred dollars, which adjusted for inflation would
-give us a range between 1,500 and 2,200 in 2009 dollars. The expense of the
-device contributes to the image of Krapp as a man of independent means, who has
-perhaps fallen on some hard times: he is wearing ill-fitting trousers, a black
-sleeveless coat, and a "surprising pair of dirty white boots, size ten at
-least, very narrow and pointed."9
-
-Krapp's collection too has seen better times, for even the archetypal librarian
-of the self must face the problems faced by any librarian. The theoretically
-perfect recursion of the medium strains under practical scrutiny:
-classification systems deteriorate, descriptions lose their meaning,10 and even
-Krapp's own auditory mirror image betrays him when Krapp is forced to look up
-the word "viduity" in the dictionary (a word that made sense to him thirty
-years ago). Krapp's Last Tape, as it is conventionally interpreted, is a
-cautionary tale about "the last"—time, memory, desire, and nostalgia.11 But it
-is also a commentary about the "tape." Reel-to-reel recorders too will need
-further and progressively more expansive annotations for the play to continue
-to produce meaning. Thus, with the curtain drawn, we the audience, the readers,
-and the custodians of this work are almost immediately implicated in Krapp's
-narcissistic archival habits. Krapp's Last Tape is also a tape in our own
-collection—a tape that will continue to comfort and to unsettle us well into
-our own dotage.
-
-In examining the encounter between Krapp, his tape-recorder, and his past self,
-I would like to shift the focus of the conversation about archives from the
-public to the private sphere. Jacques Derrida's "Archive Fever," given as a
-lecture in 1994 during a conference entitled "Memory: The Question of Archives"
-and later published in Diacritics, remains perhaps the paradigmatic text in the
-tradition that takes the archive to be a predominately public space, subject to
-the power dynamics between the patrons and the custodians of the institution.
-For Derrida and his followers, the archive "has the force of law, of a law
-which is the law of the house (oikos), of the house as place, domicile, family,
-lineage, or institution."12 Such a place preserves but also shelters the
-documents within. It remembers and forgets, so to speak. The word
-itself—archive—suggests arkheion: "initially a house, a domicile, and address,"
-but also archons, or "those who commanded."13 In Derrida's understanding, the
-archive is thus both a location and a power structure. And ultimately, it is an
-institution, like the Freud Museum, where the paper was first given.
-
-Consider by contrast Krapp's dingy collection. It is hardly an institution—it
-receives neither grants nor visitors, and Krapp himself is hardly a proper
-archon (he throws the tapes down in anger, and unlike Freud, he leaves no heirs
-to continue his lineage). In contrast to the Freud Museum, his collection
-mostly consists of documents that have only a deeply personal significance. His
-archive has less to do with social power structures and more to do with the
-mechanisms of private identity formation, remembrance, and nostalgia. To mimic
-Derrida here, we could say that his collection is a recollection—it is not a
-house, but a yearning for a house (nostalgia, from the Greek nostos, a
-homecoming14).
-
-Of course, Krapp is only an archetype, the harbinger, and a symbol of a new
-type of an archivist. But even symbolically, his collection could not exist
-without the particular technology of the tape-recorder. That is to say that the
-semiotics of the private archive are enabled by the applied particularities
-(pragmatics) of the specific archiving practice (See Table 2).  Type: Paper
-Record / Cylinder Magnetic Tape Digital / Cloud Portability high low average
-device-independent Capacity low low average virtually unlimited Time shift
-quick, tactile, imprecise quick, tactile, imprecise slow, linear, imprecise
-near instant, precise Search indexed none, visual seek, mechanical indexed Size
-small large small irrelevant Shape square round long fuzzy Price cheap
-expensive affordable cheap Power source none mechanical, electrical batteries,
-electrical batteries, electrical
-
-Table 2: Media comparison, 20th Century This chart is by no means complete. We
-have not accounted for the distinctions between digital storage devices, laser
-disks, film, or stone tablets for that matter. What matters is that the medium
-is largely independent from the type of information stored on it, and this
-contrary to Marshall McLuhan infamous "the medium is the message" dictum.15 The
-world itself "medium" is misleading in this context. We could for example say
-that paint is the medium of painting. But what about the photograph of a
-painting? Or its digital reproduction? The situation is even more confusing
-when we begin thinking about music, for example. What is the medium for J.S.
-Bach's Double Violin Concerto: the violin or the music sheet which contains the
-score? We are on yet more precarious terrain when considering hybrid "media,"
-like film or television that are comprised of multiple sources and that use
-multiple modes of transmission.  The confusion enters the conversation when we
-conflate the modality of the information (e.g. music, image, text) with the
-physical channel of its transmission (the medium proper). Modality may very
-well be the message. Thus, it may be true that when one plays the violin, the
-music can be said to express itself in musical terms. But not the violin! I
-could use a violin to transmit a picture of an orchestra over a dial-up modem,
-for example. This would only involve the question of how to encode the visual
-information into a state transmittable by the violin (a primarily auditory
-instrument).  The channel of communication—the medium proper—is in fact,
-information-agnostic. That is to say that it has no preference about the
-message being transmitted (nor can it have a preference for anything at all,
-formally speaking—preference being a property we ascribe to objects that are at
-least animate). We could therefore transmit a sonata by playing a violin, as
-sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
-peer-to-peer network. In each case, the information transmitted remains more or
-less the same, depending on the quality of your violin playing, the fidelity of
-your speakers, or the compression ratio of your digital encoding. It would be
-wrong too to consider any of these sources as somehow primal, with others being
-something like "mere copies" of the original. We could for example, start by
-composing music on paper. Alternatively, we could first play a piece of music
-and then transcribe it into musical notation. In an extreme but perfectly
-plausible case, we could compose by magnetizing a length of ferrous tape first,
-and only then play the violin to reproduce what we have "written." The medium
-does not know anything about the message. The way in which we store, access,
-and retrieve the encoded information is determined by the medium, however. We
-are the ones being shaped by the media. I do mean this rather literally: the
-stage directions for Krapp's Last Tape would be very different were Krapp
-writing a diary, or browsing his online social networking profile, or if he
-were to embed a memory chip in his brain that was able to store and retrieve
-the same messages from his thirty-nine year-old self as the tape-recorder. The
-actor's body would move differently in each of these cases—his senses and his
-thought would be altered in many subtle ways, depending on the channel of
-communication.
-
-The separation between mode and medium allows us to retain a certain clarity of
-vision in a rather muddled conversation about "media history." Modalities such
-as visual arts, music or literature do not necessarily evolve, in the normative
-sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
-optical linear perspective in 1425. But the normative evolution of art could
-only make sense only against some concrete pragmatic goals, which the aesthetic
-realm lacks by definition. Nothing is gained or lost when the fashion changes
-from square-toed to pointy-toed shoes, and then back again—to use an example
-that would surely please Mr. Krapp. Neither is "better" or "worse" for the
-participants in that sphere of cultural activity. By contrast, the concept of
-the medium does contain some sense of normative valuation, also by definition.
-That is to say that the medium has a job, which is to facilitate the storage,
-the transmission, and the retrieval of information. And there is such a thing
-as doing this job better or more efficiently. More is always better in this
-case: more storage, faster access, more reliable transmission. When the quality
-of the information is not sacrificed, there are no instances were less would be
-preferable by anyone with limited time and resources. For example, I would like
-to be able to read or write faster. I value both of these activities, but my
-time to perform them is limited by my lifespan. Assuming I could gain speed
-without any degradation in clarity or comprehension, and barring any
-psychological ill effects, the idea of more in this case must be a good onto
-itself.
-
-Armed with these insights, we can now return to the perhaps obvious idea that
-Krapp's collection could not exist without the particular technology of the
-tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
-portability, power source, size, search capacity, price, and yes, even the
-shape of the reel and the tape recorder. It is at this point, that I am able to
-restate the broadly historical thesis of this section: that these very same
-attributes have enabled a shift in the collecting practices of the western
-world—transposing the locus of our archival practice from the institutional to
-the private sphere.
-
-Who are you communicating with? Pushing yourself through the pipe. The
-appointment with myself. The sum-total of material substratum. Building a wider
-platform. Todo, email, diary, music collection. Burning building-we grab our
-memories, and hoarding the disfunction of that personal sediment. You are the
-sum-total of your modalities. Commitments to self. Attunement of self. The
-message is you. Preserving ourself from entropy. 
-
-Books are not media they are platforms. Platform is all of the above. Plus the
-economic / cultural contexts. Amazon Kindle is a platform. Who are you
-communicating with? Yoursef. What is the message. Ultimtely, it is a message of
-self-identity.
-
-### File
-
-
-# Part 2: Technology
-
-## 2.1 The Medium is not the Message
-`media, message, mode`
-
-### Intro
-What happens in the change from speaking to writing? The violin (copy from
-dissertation here).
-
-Attunement of listener. Message stays the same. Put a ear, eye, hand to the
-pipe. Same message, same medium, different mode.
-
-### Semiotics of Saussure vs. Peirce
-
-### McLuhan
-McLuhan's Understanding Media is a fitting companion to the modern
-conversation on extended cognition, first because it announces its allegiance
-to the hypothesis openly and from the very first lines of the treatise, and
-second because it so readily exceeds the hypothesis rhetorically, falling into
-the traps of metaphoric imprecision and limitless expansion. For those
-unfamiliar with the work, it would be useful to know that McLuhan conceives of
-his project as a study "on the extensions of man." He writes: During the
-mechanical ages we had extended our bodies in space, today, after more than a
-century of electric technology, we have extended our central nervous system
-itself in a global embrace [...] Rapidly we approach the final phase of the
-extensions of man—the technological simulation of consciousness, when the
-creative process of knowing will be collectively and corporately extended to
-the whole of human society, much as we have already extended our senses and our
-nerves by the various media.1 Granted, McLuhan's writing lacks the precision of
-HEC, which is advanced from the platforms of analytic philosophy and cognitive
-science. And yet, it is clear that throughout Understanding Media, McLuhan is
-committed to a version of the extended mind hypothesis, which in his vocabulary
-translates into a vision of global, limitless expansion of consciousness,
-facilitated by technology. For McLuhan our collective "nervous system" is
-"technologically extended to the whole of mankind."2 Such holistic monism is
-declared literally as a matter of faith. "The aspiration of our time for
-wholeness, empathy, and depth of awareness is a natural adjunct of electric
-technology," he writes. "There is a deep faith to be found in this new
-attitude—a faith that concerns the ultimate harmony of all being."3 And
-elsewhere: "In this electric age we see ourselves being translated more and
-more in to the form of information, moving toward the technological extension
-of consciousness."4 And yet despite the frequency with which this refrain
-appears in the book, the author does little to argue for it. We are asked to
-subscribe to the extension thesis as a matter of apriori intuition. Nothing has
-been said to bolster the claims of the extension, and most of McLuhan
-subsequent argument hinges on the reader accepting this strong version of
-extension.  Consider for example McLuhan's quintessential "the medium is the
-message" argument. I have shown elsewhere that we cannot take this to be
-literally true. The principles of information theory would hold that the medium
-is precisely content-neutral, particularly when it comes to the transmission of
-digital information. So what exactly does McLuhan means by "the medium is the
-message?" We must begin by understanding what he means by "the medium" and "the
-message." In one sense, he means the media to denote the conventional array of
-transition channels: radio, cinema, literature, television. But in another
-sense, he means these transition channels to act literally as extensions of the
-human sense apparatus. For example, in the beginning of chapter he writes that
-"the social consequences of any medium—that is, of any extension of
-ourselves—result from the new scale that is introduced into our affairs by each
-extension of ourselves, or by any new technology."5 Elsewhere he writes that
-"[...] that our human senses, of which all media are extensions, are also fixed
-charges [...]."6 The medium, for McLuhan, is thus a marked concept, different
-from its dictionary definition in that it contains the hypothesis of
-sense-extension.  The message in McLuhan's sense is equally specialized, and
-again related to the extension hypothesis. "The 'message' of any medium or
-technology is the change of scale or pace or pattern that introduces into human
-affairs," writes McLuhan.7 In this sense the message should not be confused
-with "content" or "information." The idea of content only obscures the fact "it
-is the medium that shapes and controls the scale and form of human association
-in action."8 If media and messages are beginning to sound the same according to
-these definitions, it is because for McLuhan they explicitly are the same: "the
-content of writing or print is speech,"9 he writes, and "the 'content' of any
-medium is always another medium."10 But this really is no thesis at all.
-McLuhan's dictum would not find cultural relevance if his famous dictum was
-merely a tautology. "The medium is the message" roughly translates into the
-proposition that all media, besides carrying their formal content (or no
-content at all, as is the case with electric light in McLuhan's initial
-example) affect our collective psyche in some way—in other words, a more
-generalized, popular version of our extension hypothesis. But how committed is
-McLuhan to the analogy between media and "extended consciousness" or
-"externalized nervous system." Not very. The metaphor is alluring but
-imprecise. For McLuhan everything has the potential to be mediafied—money,
-labor, technology, culture. It is all vaguely "an extension of man," not just
-the extension of the senses, corporeal, or cognitive extension. All products of
-human culture end up reconfiguring human culture as such—that is the "message"
-of McLuhan's thesis.  What is at stake here for us? What does the extension
-hypothesis mean for the study of human culture? Well, for one let's note that
-practically all examples of extended cognition in the wild—I dare say all
-thought experiments mentioned or staged in the literature on HEC—involve
-literary interfaces. Extended cognition in that sense requires the storage and
-retrieval of information, facilitated by a symbolic notation system, and a
-medium on which such information can be stored for later retrieval. For Otto,
-this system involved a notebook, a calendar, or a planner perhaps. For the
-pilots in the cockpit, the flow of information also proceeds across devices
-which accept input and offer output in symbolic notation: the number on the
-altimeter dial, the iconographic status indicators, the keypad, and the control
-panel. It is also worth noting that all such systems and devices are
-essentially dumb instruments. They become "cognitive" only in the moment of
-interaction. Without Otto, the pen and paper does nothing. It comes to life
-only at the point of interface.  The second observation we must make is that
-the hypothesis of extended cognition brings the mind out of the head and into
-the material sphere of existence. Taking HEC seriously means to supplement
-fMRI-based cognitive science with anthropological, social observation of
-cognition at work. And since we are talking about tools and habits of thought
-(rather than neurons, or brain-matter) we must acknowledge that the formation
-of the mind, at least in the extended sense, can span beyond one's own, private
-mental development. Extended, the mind gains a shared history.  HEC also
-implies that the long-standing anxiety over the impact of cognitive aids on our
-natural human capacities—an anxiety that has been around at least since the
-times of Socrates, an anxiety that is clearly expressed in Heidegger's
-philosophy of technology, and that is featured prominently in the recent
-cautionary tales of human decline by Richard Foreman and Nicholas Carr—that
-anxiety has at least the merit of considering the mind in its embodied,
-contextualized form. The critique acknowledges the impact of technology on our
-mental habits. But the negative value assessment is the least interesting part
-of that argument. Cognitive aids are only as "good" or as "bad" as the purposes
-for which they are used. If calculators have diminished our capacity to do math
-in our heads, they have also alleviated much tedium involved in mundane
-everyday arithmetic—at the bank, at the supermarket, and at home. And few would
-argue that mass literacy (as a technology) had anything but a positive effect
-on our society, and that despite whatever effects literacy may have on our
-"natural" ability to remember things without writing. "Natural" is, in this
-case, an artificial construct, tied to one's willingness to engage in nostalgic
-reverie about an idyllic state of unadulterated past.
-
-## 2.2 Bad Links
-`network, intertext, hypertext, symbolic links`
-
-### Gwern
-I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern*
-itself. I hesitate to call it a website, because it is a site so hostile to the
-web. "So I did not wish to write a blog," the eponymous Gwern writes: 
-
->  [...] most blog posts are the triumph of the hare over the tortoise. They
->  are meant to be read by a few people on a weekday in 2004 and never again,
->  and are
->  [quickly](http://web.archive.org/web/20140126034548/http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&)
->  [abandoned](http://web.archive.org/web/20140126035203/http://www.caslon.com.au/weblogprofile1.htm)
->  - and perhaps as Assange says, not a moment too soon. (But isn’t that sad?
->  Isn’t it a terrible
->  [ROI](http://web.archive.org/web/20140126035340/http://en.wikipedia.org/wiki/Rate_of_return)
->  for one’s time?) On the other hand, the best blogs always seem to be
->  building something: they are rough drafts - works in progress.[^18] So I did
->  not wish to write a blog.
-
-It contains no moving images, no pictures, to sound, and no code. It is a
-static site, that is to say it is compiled once, on the authors box and not
-generated dynamically, in response to a individual reader's visit. *gwern* is
-static, showing its visitor "pre-printed" pamphlet-like pages. But prints and
-pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to
-misquote @Drucker).^[LN2] What is it, if it is not a blog?
-
-Just to make sure *gwern* did not disappear, I took a "snapshot" on January
-24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a
-mechanism to caputure a fixed version of the document. Unilike paper, text on
-the web is never fixed. In fact, thinking of published documents (books,
-newspapers, and journals) as a type of a "screenshot" helps understand the the
-semantic slide between "paper" and "pixel." The medium does not matter (and
-certainly not the message). In the few seconds that I am fixing the pixels into
-a canonical version of the text, the author/s of *gwern* may have advanced the
-same text conceptually, creating a new and diverging "branch" of the entity at
-hand. That is why we must write "date accessed" in the bibliography. The
-footnote traditionally points to material in the real world. The pixel is
-virtual. The two differ in the state of being. One is emergent, and the other,
-actualized. It is likely that the page has always acted this way: to serve as a
-momentary textual glimpse into the eternal world of thought. The difference
-lies in an evolving organism and its ossified imprint.
-
-Internet archive. "Saved 152 times between May 5, 2011 and January 26, 2014."
-That means that the page became static print 152 times. In all other
-actualitites, it remained evolving and potentually infinite.^[Infinite in the
-sense human lives are infinite in comparison to pages.]
-
-Well connected: Kevin Kelly, Eliezer Yudkowsky's blog.  We read and archive our
-experience of reading.
-
-[LN1]: http://web.archive.org/web/20140126025146/http://www.gwern.net/About
-[LN2]:
-http://web.archive.org/web/20140126030328/http://lareviewofbooks.org/essay/pixel-dust-illusions-innovation-scholarly-publishing
-[LN3]: [18]: Examples of such blogs:
-
-1. [Eliezer
-Yudkowsky’s](https://web.archive.org/web/20140126040858/http://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
-contributions to
-[LessWrong](https://web.archive.org/web/20140126041017/http://lesswrong.com/)
-were the rough draft of a philosophy book (or two)
-2. John Robb’s [Global
-Guerrillas](http://web.archive.org/web/20140126041136/http://globalguerrillas.typepad.com/)
-lead to his [Brave New War: The Next Stage of Terrorism and the End of
-Globalization](http://web.archive.org/web/20140126041301/http://www.amazon.com/exec/obidos/ASIN/0471780790/?tag=gwernnet-20)
-3. [Kevin
-Kelly’s](http://web.archive.org/web/20140126041441/http://en.wikipedia.org/wiki/Kevin_Kelly)
-[Technium](http://web.archive.org/web/20140126041640/http://kk.org/thetechnium/)
-was turned into [What Technology
-Wants](http://web.archive.org/web/20140126042029/http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0670022152/?tag=gwernnet-20).
-
-An example of how not to do it would be [Robin
-Hanson‘s](http://web.archive.org/web/20140126042143/http://en.wikipedia.org/wiki/Robin_Hanson)
-[Overcoming
-Bias](http://web.archive.org/web/20140126042246/http://www.overcomingbias.com/)
-blog; it is stuffed with fascinating citations & sketches of ideas, but they
-never go anywhere. Just his posts on
-[medicine](http://web.archive.org/web/20131115012232/http://www.overcomingbias.com/)
-would make a fascinating essay or just list - but he has never made one.
-([“Showing That You Care: The Evolution of Health
-Altruism”](http://web.archive.org/web/20140126042648/http://hanson.gmu.edu/showcare.pdf)
-would be a natural home for many of his posts’ contents, but will never be
-updated.) ### Hypertext Ted Nelson.  Rise of intertextuality. The promise of
-hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links
-here.  It is my intention here to convince you that links are bad. They are bad
-when it comes to writing for the web in general, bad for books, bad for
-long-form journalism, and even worse in academic publication. It is not that I
-am against the idea of links. As we will see here, the problem lies in the way
-links are used. That is also to say that we can do something about using links
-better. But first, why are links so bad?
-
-To start with, links are opaque. The worst of lot are links like this and this.
-Of the two “thises,” the first leads us to Google and the second to Bing. But
-your readers would not know that just by looking at the text. The best they can
-do is “hover” over the word with their mouse cursor, relying on the browser
-interface to show them where the link is going. And once they get there, there
-are no easy ways to get back. The writer must have faith in the browser to “do
-the right thing” in guiding the reader through an intertextual maze. And that
-is not right when it comes to writing. In most situations, the author should
-architect that experience explicitly. If you think about it, the old-fashioned
-apparatus of quoting an external text is itself a type of linking. But rather
-than quoting the whole text, the author only quotes the relevant bits. Sending
-readers away to do that work on their own is lazy and irresponsible. Imagine a
-tour guide who tells his tourists to “just go over there and look at some
-stuff,” and “come back when you’re done.” Links can be that disorienting.
-
-Links disrupt the reading experience, and that is the second reason for why
-links are bad. It is possible that you want the reader’s experience to be
-disrupted. But in many cases you don’t. And the reader is already distracted by
-the proliferation of parallel windows and devices that augment their reading in
-some way. Do we need to make that distraction easier? Should I link the
-Wikipedia article on media multitasking or is it enough for my purposes to
-simply mention Wikipedia, or to trust my reader to look something up later, in
-a reference source of their own choosing? Or better yet, should I help the
-reader along by summarizing the findings? It mentions that most folks already
-read with a second screen in tow. It is not that unusual to see someone look
-something up on their phone or tablet while reading a newspaper or an e-book.
-Why? Because they don’t want to leave the flow of the first screen. There is
-great pleasure in immersive, uninterrupted reading.
-
-Besides being disruptive, links are ugly. They are ugly together, as in when
-many links conspire to produce a tangled mess. And they are also ugly when
-naked on their own, like this:
-https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit.
-That string of characters is not meant for human consumption! The period at the
-end kills me entirely. Meaningless punctuation inside of links coupled with
-regular punctuation ruins the sentence and the paragraph. Of course, I could
-just tell you to read something on Google Docs. That looks much better, but
-then we are making the opaqueness problem worse by hiding the address behind
-words that may or may not be related to the destination. It seems that we are
-stuck compromising on either transparency, reading flow, or visual impact.
-
-Links aren’t very secure to begin with, but hiding links behind words further
-compromises security. You’ve probably heard of link-baiting: the purposefully
-malicious attempts to trick a reader into revealing personal information when
-following a link that masquerades as a legitimate destination. You can visit my
-site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t
-worry, that was the real Google login page.) But even if one means well,
-viruses and browser exploits can inject bad links into your otherwise
-legitimate ones. A common technique is to install a browser script along with
-some seemingly useful “search bar” that will redirect all legitimate links to a
-site that makes money by advertising. Worse yet, you could end up on a site
-that attempts to further compromise your computer. Links are not secure because
-in linking, we outsource the relationship between reader and content to the
-browser.
-
-Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last
-because the content at the address is dynamic. It is not guaranteed to be there
-decades, months, minutes after your initial visit. In that case, why even
-bother? The link works best for ephemeral output (like a tweet). We must think
-of something much more robust for any “serious” writing that hopes to survive
-to the end of the week. And for the really good stuff, the kind of stuff that
-is the purview of librarians, we need to cultivate sustainable, long-lasting,
-responsible practices of online citation. It should work as well, if not
-better, than the familiar bibliographic citation in print. This practice should
-combat digital decay, not aid it. We need to think about the ways our links can
-be accessed, mined, and preserved with the archive-grade zeal of the rare book
-librarian.
-
-Finally, links are terrible for accessibility. It is bad enough that clicking
-on a small word like this is difficult for people with any sort of fine-motor
-control problems. Being a little older in itself can make the online reading
-experience painful. Things are much worse for those with Parkinson’s or for the
-blind. Sina Bahram, a blind usability expert (who is himself blind) reports
-that some sites contain thousands (!) of links in advance of actual content.
-Screen readers for the blind must read each one of them out loud. For the
-screen reader, there is no difference between garbage links and useful content.
-If you thought looking at links is disruptive, imagine listening to a robotic
-voice that pronounces every slash and every useless number in:
-http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens
-to his reader at 950 words per minute.
-
-Any one of these issues alone should give us pause. Together, they are a cause
-of grave concern. How did we get here? And what can we do to make links good
-again?
-
-How did we get here is not an easy question. A part of the story is surely the
-excitement we once felt about hypertext. Links were supposed to break the
-hegemony of linear narrative, ushering in a new interconnected world. To some
-extent the dream came true. But links also brought with them such things as
-Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among
-other things, the number of incoming and outgoing links. This bias for
-connectivity encourages “link farms”: sites that attempt to game the system by
-aggregating links or cross-linking their own content. A sure sign of a vacuous
-SEO-driven piece of writing is a certain cynical and strategic use of links to
-other popular sources. How long until the SEO logic infects poetry, fiction, or
-investigative journalism?
-
-What can we do to make links better? There are a few things we all can do now.
-First, let’s use links sparingly. Think smartly about whether you need to link
-or whether you can make do with a good, old-fashioned quote or citation.  Don’t
-link just because you can. Second, link explicitly: Youtube.com is better than
-this. Third, realize that online content is dynamic. It makes no sense to link
-a dynamic resource when the intent is to create a link to a static version of a
-document. Tools like the Save Page Now service, hosted by the Internet Archive,
-do just that. You can find this essay at
-http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best
-captured in a snapshot here:
-http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/.
-Finally, do not neglect the humble footnote. Footnotes provide a nice blend
-between usability, transparency, and good knowledge design.
-
-1:
-http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
-
-## 2.3 Freedom of Information
-`noise, information, data, entropy`
-
-Bohn consumer report on data vs. information..  Doctorow. Information "wants to
-be free" Information is intentional. Against the "cybernatic" formal
-definitions. 
-
-@nyquist certain factors affecting telegraph speed @hartley transmission of
-information
-
-Kant, Schiller on beauty as freedom on beauty as freedom Information as
-entropy. The strangeness of Weaver's "information as entropy". How much
-information in a brick? In a novel? Information as a possibility.
-
-Freedom and information seem to have nothing to do with each other. They have
-everything to do with each other.  Makukov. Directed pan-spermia.Life Sciences
-in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper:
-http://arxiv.org/abs/1303.6739 
-
-What is information? The difference that makes a difference. Bateson's
-definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion
-in that paper. Noise and information seem to be the same! Thermodynamic
-explaination. Transmitting things in stone (low entropy) vs. transmitting them
-through the air (high entropy). Does a block of wood have more "information"
-than a novel? This definition cannot account for it really.
-
-Extended cognition hypothesis. Get this text from disertation. The monism
-problem.
-
-Formal vs. instrumental definitions. Information is that which moves form a
-Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information
-be coersed? Both on the sending and the recieving end. Can someone admit
-something is music by force? Can you force information. The deer and the tick.
-The deer does not "send" bodyheat information. The tick receives information as
-it does receive the action of gravity. Does a mountain erode from the top
-because it recieves information from the outside? Information here is simply
-used as a synonym for some material state of the univrse and the causal
-relationship between forces. Causality alone is not information. Laws of
-physics are not information. Well, unless...
-
-Mis information. Man in the middle attacks. Information is intentional. Mind to
-mind communication. Where does the thought originate? Freedom. Free intent.
-Identity of coding and decoding is not necessery. What is however necessary is
-the 
-
-Leroi-goran. Constructor theory of information. SUperinformation.
-http://arxiv.org/abs/1405.5563
-
- 
-
-
-# Part 3: People
-
-## 3.1 Processing Words
-`word, file, book`
-
-### 1.2.0 Introduction
+## 1.3 Processing Words
+`digital, analog, interface`
+
+### 1.2.0 Revealing Heidegger 
+It is tempting to think that alientation come from phase one. Human
+displacement from the hand. Some notion of analog as natural and digital as
+artificial
 
 The passage between thought and its physical manifestation, whether
 intra-cranial, as a configuration of neurons and synapses, or external, as a
@@ -2507,7 +1824,7 @@ engineers thought they saw a glimpse of textuality capable of transcendence.
 Then came Microsoft Word. And worse yet, the box: the ubiquitous internet
 browser text box that just does very little. Ctrl-Copy, Cntrl-Paste.
 
-Engelbart vs. heidegger.
+### 1.2.1 Processing words Engelbart 
 
 Containing an argument for text as an interface between human and machine.
 Isomorphism. Search. Protocol - interface. What you see is what you get. What
@@ -2605,10 +1922,6 @@ action can we observe the momentary unity between the literary, the cognitive,
 and the artifactual.
 
 
-Engelbart and Heidegger ### 1.2.1 Engelbart ### 1.2.2 Extended cognition
-
-
-### 1.2.3 Heidegger's Technology
 "A text editor is often the primary interface
 between a user and the system, and the program with which most user time is
 spent. Accordingly, an editor has to be easy to use, and efficient of the
@@ -3043,60 +2356,9 @@ knowledge dissemination.7 Stenography is understood here as a thoroughly modern
 and modernizing technology that does for the mental and moral development what
 the steam engine and areal flight did for the material realm.
 
-## 3.2 Shared Knowledge
-`author, citation`
+### 1.3.2 We Have Always Been Digital
 
-### 3.2.1 Cooperation
-
-### 3.2.2 Writing together.
-
-Models of co-authorship (and why we should pay attention).
-The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
-
-Auteur - genius romantic ideas of authorship. Lab life of writer's rooms.
-Tangibility. Distributed authorship.
-
-I've been thinking quite a bit recently about the "costs" of collaboration,
-about writing (and researching) together, and about the tangled forests of
-drafts, manuscripts, and versions that sprout in the wake of co-authorship.
-
-This brings me to a strange (but meaningful) space between textual criticism
-and version control
-
-### 2.4.1 Introduction Code and poetry. 
-
-These words were meant to be together.
-
- 
-F. C. Bakewell's Copying Telegraph secrecy already built in.  Privacy, secrecy,
-surveillance, and transparency.  Stuff about Lull here? Artificial
-intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being
-the same side of the coin. Hackable media. Ability to encrypt and decrypt.
-Political potential. Enabled by plain text.
-
-Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is
-that dumb-pipe email is unmediated, and therefore it's a business that Google
-wants to get out of as soon as it can."
-
-" It's also why I believe Google will kill Gmail as soon as it comes up with a
-mediated alternative everyone loves. Of course, Google may offer an antiquated
-"Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated
-experience."
-
-Alice, Bob, Caryl.
-http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
-Communication theory of secrecy systems, shannon
-
-Zimmermann responded by publishing the source code as a book, an act that was
-constitutionally protected as free speech. 
-
-### Identity Anonymous authorship.  
-
-## 3.3 We Have Always Been Digital `analog,
-digital`
-
-### Introduction 
-
+Reality tv effect.
 The original intuition, challenged by Nelson Goodman in the
 late sixties, still holds sway in the popular imagination. On this view,
 digitality has relates to digits, just as "analog" relates to analogies. First
@@ -3110,8 +2372,6 @@ Striation. Preserving striation. History of UTF8. Unix philosophy.
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera
 effect. Digitality is something worthy of being preserved.
-
-### Digital Aesthetics
 
 I therefore must already renounce and distance myself
 from the title of this section. "Digital culture" is already a misnomer,
@@ -3177,8 +2437,7 @@ would be too naive)—it says that our fire is better than fire, more vivid and
 more life-like. The digital fire is the ideal, Platonic image of fire—it is an
 image that all fires should emulate.
 
-
-### The problem of duplicates The conversation between Goodman and Genette.
+The conversation between Goodman and Genette.
 Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
 Goodman: thinking about the perfect copy. But there is a confusion here: fake
 art is not necessarily about a copy, it is about provenance. Autographic vs.
@@ -3190,6 +2449,747 @@ other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
 for resemblance between documents" 
+
+# Part 2: Technology
+
+## 2.1 The Medium is not the Message
+`media, message, mode`
+
+### Intro
+What happens in the change from speaking to writing? The violin (copy from
+dissertation here).
+
+Attunement of listener. Message stays the same. Put a ear, eye, hand to the
+pipe. Same message, same medium, different mode.
+
+### Semiotics of Saussure vs. Peirce
+
+### McLuhan
+McLuhan's Understanding Media is a fitting companion to the modern
+conversation on extended cognition, first because it announces its allegiance
+to the hypothesis openly and from the very first lines of the treatise, and
+second because it so readily exceeds the hypothesis rhetorically, falling into
+the traps of metaphoric imprecision and limitless expansion. For those
+unfamiliar with the work, it would be useful to know that McLuhan conceives of
+his project as a study "on the extensions of man." He writes: During the
+mechanical ages we had extended our bodies in space, today, after more than a
+century of electric technology, we have extended our central nervous system
+itself in a global embrace [...] Rapidly we approach the final phase of the
+extensions of man—the technological simulation of consciousness, when the
+creative process of knowing will be collectively and corporately extended to
+the whole of human society, much as we have already extended our senses and our
+nerves by the various media.1 Granted, McLuhan's writing lacks the precision of
+HEC, which is advanced from the platforms of analytic philosophy and cognitive
+science. And yet, it is clear that throughout Understanding Media, McLuhan is
+committed to a version of the extended mind hypothesis, which in his vocabulary
+translates into a vision of global, limitless expansion of consciousness,
+facilitated by technology. For McLuhan our collective "nervous system" is
+"technologically extended to the whole of mankind."2 Such holistic monism is
+declared literally as a matter of faith. "The aspiration of our time for
+wholeness, empathy, and depth of awareness is a natural adjunct of electric
+technology," he writes. "There is a deep faith to be found in this new
+attitude—a faith that concerns the ultimate harmony of all being."3 And
+elsewhere: "In this electric age we see ourselves being translated more and
+more in to the form of information, moving toward the technological extension
+of consciousness."4 And yet despite the frequency with which this refrain
+appears in the book, the author does little to argue for it. We are asked to
+subscribe to the extension thesis as a matter of apriori intuition. Nothing has
+been said to bolster the claims of the extension, and most of McLuhan
+subsequent argument hinges on the reader accepting this strong version of
+extension.  Consider for example McLuhan's quintessential "the medium is the
+message" argument. I have shown elsewhere that we cannot take this to be
+literally true. The principles of information theory would hold that the medium
+is precisely content-neutral, particularly when it comes to the transmission of
+digital information. So what exactly does McLuhan means by "the medium is the
+message?" We must begin by understanding what he means by "the medium" and "the
+message." In one sense, he means the media to denote the conventional array of
+transition channels: radio, cinema, literature, television. But in another
+sense, he means these transition channels to act literally as extensions of the
+human sense apparatus. For example, in the beginning of chapter he writes that
+"the social consequences of any medium—that is, of any extension of
+ourselves—result from the new scale that is introduced into our affairs by each
+extension of ourselves, or by any new technology."5 Elsewhere he writes that
+"[...] that our human senses, of which all media are extensions, are also fixed
+charges [...]."6 The medium, for McLuhan, is thus a marked concept, different
+from its dictionary definition in that it contains the hypothesis of
+sense-extension.  The message in McLuhan's sense is equally specialized, and
+again related to the extension hypothesis. "The 'message' of any medium or
+technology is the change of scale or pace or pattern that introduces into human
+affairs," writes McLuhan.7 In this sense the message should not be confused
+with "content" or "information." The idea of content only obscures the fact "it
+is the medium that shapes and controls the scale and form of human association
+in action."8 If media and messages are beginning to sound the same according to
+these definitions, it is because for McLuhan they explicitly are the same: "the
+content of writing or print is speech,"9 he writes, and "the 'content' of any
+medium is always another medium."10 But this really is no thesis at all.
+McLuhan's dictum would not find cultural relevance if his famous dictum was
+merely a tautology. "The medium is the message" roughly translates into the
+proposition that all media, besides carrying their formal content (or no
+content at all, as is the case with electric light in McLuhan's initial
+example) affect our collective psyche in some way—in other words, a more
+generalized, popular version of our extension hypothesis. But how committed is
+McLuhan to the analogy between media and "extended consciousness" or
+"externalized nervous system." Not very. The metaphor is alluring but
+imprecise. For McLuhan everything has the potential to be mediafied—money,
+labor, technology, culture. It is all vaguely "an extension of man," not just
+the extension of the senses, corporeal, or cognitive extension. All products of
+human culture end up reconfiguring human culture as such—that is the "message"
+of McLuhan's thesis.  What is at stake here for us? What does the extension
+hypothesis mean for the study of human culture? Well, for one let's note that
+practically all examples of extended cognition in the wild—I dare say all
+thought experiments mentioned or staged in the literature on HEC—involve
+literary interfaces. Extended cognition in that sense requires the storage and
+retrieval of information, facilitated by a symbolic notation system, and a
+medium on which such information can be stored for later retrieval. For Otto,
+this system involved a notebook, a calendar, or a planner perhaps. For the
+pilots in the cockpit, the flow of information also proceeds across devices
+which accept input and offer output in symbolic notation: the number on the
+altimeter dial, the iconographic status indicators, the keypad, and the control
+panel. It is also worth noting that all such systems and devices are
+essentially dumb instruments. They become "cognitive" only in the moment of
+interaction. Without Otto, the pen and paper does nothing. It comes to life
+only at the point of interface.  The second observation we must make is that
+the hypothesis of extended cognition brings the mind out of the head and into
+the material sphere of existence. Taking HEC seriously means to supplement
+fMRI-based cognitive science with anthropological, social observation of
+cognition at work. And since we are talking about tools and habits of thought
+(rather than neurons, or brain-matter) we must acknowledge that the formation
+of the mind, at least in the extended sense, can span beyond one's own, private
+mental development. Extended, the mind gains a shared history.  HEC also
+implies that the long-standing anxiety over the impact of cognitive aids on our
+natural human capacities—an anxiety that has been around at least since the
+times of Socrates, an anxiety that is clearly expressed in Heidegger's
+philosophy of technology, and that is featured prominently in the recent
+cautionary tales of human decline by Richard Foreman and Nicholas Carr—that
+anxiety has at least the merit of considering the mind in its embodied,
+contextualized form. The critique acknowledges the impact of technology on our
+mental habits. But the negative value assessment is the least interesting part
+of that argument. Cognitive aids are only as "good" or as "bad" as the purposes
+for which they are used. If calculators have diminished our capacity to do math
+in our heads, they have also alleviated much tedium involved in mundane
+everyday arithmetic—at the bank, at the supermarket, and at home. And few would
+argue that mass literacy (as a technology) had anything but a positive effect
+on our society, and that despite whatever effects literacy may have on our
+"natural" ability to remember things without writing. "Natural" is, in this
+case, an artificial construct, tied to one's willingness to engage in nostalgic
+reverie about an idyllic state of unadulterated past.
+
+## 2.2 Freedom of Information
+`noise, information, data, entropy`
+
+Bohn consumer report on data vs. information..  Doctorow. Information "wants to
+be free" Information is intentional. Against the "cybernatic" formal
+definitions. 
+
+@nyquist certain factors affecting telegraph speed @hartley transmission of
+information
+
+Kant, Schiller on beauty as freedom on beauty as freedom Information as
+entropy. The strangeness of Weaver's "information as entropy". How much
+information in a brick? In a novel? Information as a possibility.
+
+Freedom and information seem to have nothing to do with each other. They have
+everything to do with each other.  Makukov. Directed pan-spermia.Life Sciences
+in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper:
+http://arxiv.org/abs/1303.6739 
+
+What is information? The difference that makes a difference. Bateson's
+definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion
+in that paper. Noise and information seem to be the same! Thermodynamic
+explaination. Transmitting things in stone (low entropy) vs. transmitting them
+through the air (high entropy). Does a block of wood have more "information"
+than a novel? This definition cannot account for it really.
+
+Extended cognition hypothesis. Get this text from disertation. The monism
+problem.
+
+Formal vs. instrumental definitions. Information is that which moves form a
+Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information
+be coersed? Both on the sending and the recieving end. Can someone admit
+something is music by force? Can you force information. The deer and the tick.
+The deer does not "send" bodyheat information. The tick receives information as
+it does receive the action of gravity. Does a mountain erode from the top
+because it recieves information from the outside? Information here is simply
+used as a synonym for some material state of the univrse and the causal
+relationship between forces. Causality alone is not information. Laws of
+physics are not information. Well, unless...
+
+Mis information. Man in the middle attacks. Information is intentional. Mind to
+mind communication. Where does the thought originate? Freedom. Free intent.
+Identity of coding and decoding is not necessery. What is however necessary is
+the 
+
+Leroi-goran. Constructor theory of information. SUperinformation.
+http://arxiv.org/abs/1405.5563
+
+ 
+
+
+## 2.3 Bad Links
+`network, intertext, hypertext, symbolic links`
+
+### Gwern
+I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern*
+itself. I hesitate to call it a website, because it is a site so hostile to the
+web. "So I did not wish to write a blog," the eponymous Gwern writes: 
+
+>  [...] most blog posts are the triumph of the hare over the tortoise. They
+>  are meant to be read by a few people on a weekday in 2004 and never again,
+>  and are
+>  [quickly](http://web.archive.org/web/20140126034548/http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&)
+>  [abandoned](http://web.archive.org/web/20140126035203/http://www.caslon.com.au/weblogprofile1.htm)
+>  - and perhaps as Assange says, not a moment too soon. (But isn’t that sad?
+>  Isn’t it a terrible
+>  [ROI](http://web.archive.org/web/20140126035340/http://en.wikipedia.org/wiki/Rate_of_return)
+>  for one’s time?) On the other hand, the best blogs always seem to be
+>  building something: they are rough drafts - works in progress.[^18] So I did
+>  not wish to write a blog.
+
+It contains no moving images, no pictures, to sound, and no code. It is a
+static site, that is to say it is compiled once, on the authors box and not
+generated dynamically, in response to a individual reader's visit. *gwern* is
+static, showing its visitor "pre-printed" pamphlet-like pages. But prints and
+pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to
+misquote @Drucker).^[LN2] What is it, if it is not a blog?
+
+Just to make sure *gwern* did not disappear, I took a "snapshot" on January
+24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a
+mechanism to caputure a fixed version of the document. Unilike paper, text on
+the web is never fixed. In fact, thinking of published documents (books,
+newspapers, and journals) as a type of a "screenshot" helps understand the the
+semantic slide between "paper" and "pixel." The medium does not matter (and
+certainly not the message). In the few seconds that I am fixing the pixels into
+a canonical version of the text, the author/s of *gwern* may have advanced the
+same text conceptually, creating a new and diverging "branch" of the entity at
+hand. That is why we must write "date accessed" in the bibliography. The
+footnote traditionally points to material in the real world. The pixel is
+virtual. The two differ in the state of being. One is emergent, and the other,
+actualized. It is likely that the page has always acted this way: to serve as a
+momentary textual glimpse into the eternal world of thought. The difference
+lies in an evolving organism and its ossified imprint.
+
+Internet archive. "Saved 152 times between May 5, 2011 and January 26, 2014."
+That means that the page became static print 152 times. In all other
+actualitites, it remained evolving and potentually infinite.^[Infinite in the
+sense human lives are infinite in comparison to pages.]
+
+Well connected: Kevin Kelly, Eliezer Yudkowsky's blog.  We read and archive our
+experience of reading.
+
+[LN1]: http://web.archive.org/web/20140126025146/http://www.gwern.net/About
+[LN2]:
+http://web.archive.org/web/20140126030328/http://lareviewofbooks.org/essay/pixel-dust-illusions-innovation-scholarly-publishing
+[LN3]: [18]: Examples of such blogs:
+
+1. [Eliezer
+Yudkowsky’s](https://web.archive.org/web/20140126040858/http://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
+contributions to
+[LessWrong](https://web.archive.org/web/20140126041017/http://lesswrong.com/)
+were the rough draft of a philosophy book (or two)
+2. John Robb’s [Global
+Guerrillas](http://web.archive.org/web/20140126041136/http://globalguerrillas.typepad.com/)
+lead to his [Brave New War: The Next Stage of Terrorism and the End of
+Globalization](http://web.archive.org/web/20140126041301/http://www.amazon.com/exec/obidos/ASIN/0471780790/?tag=gwernnet-20)
+3. [Kevin
+Kelly’s](http://web.archive.org/web/20140126041441/http://en.wikipedia.org/wiki/Kevin_Kelly)
+[Technium](http://web.archive.org/web/20140126041640/http://kk.org/thetechnium/)
+was turned into [What Technology
+Wants](http://web.archive.org/web/20140126042029/http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0670022152/?tag=gwernnet-20).
+
+An example of how not to do it would be [Robin
+Hanson‘s](http://web.archive.org/web/20140126042143/http://en.wikipedia.org/wiki/Robin_Hanson)
+[Overcoming
+Bias](http://web.archive.org/web/20140126042246/http://www.overcomingbias.com/)
+blog; it is stuffed with fascinating citations & sketches of ideas, but they
+never go anywhere. Just his posts on
+[medicine](http://web.archive.org/web/20131115012232/http://www.overcomingbias.com/)
+would make a fascinating essay or just list - but he has never made one.
+([“Showing That You Care: The Evolution of Health
+Altruism”](http://web.archive.org/web/20140126042648/http://hanson.gmu.edu/showcare.pdf)
+would be a natural home for many of his posts’ contents, but will never be
+updated.) ### Hypertext Ted Nelson.  Rise of intertextuality. The promise of
+hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links
+here.  It is my intention here to convince you that links are bad. They are bad
+when it comes to writing for the web in general, bad for books, bad for
+long-form journalism, and even worse in academic publication. It is not that I
+am against the idea of links. As we will see here, the problem lies in the way
+links are used. That is also to say that we can do something about using links
+better. But first, why are links so bad?
+
+To start with, links are opaque. The worst of lot are links like this and this.
+Of the two “thises,” the first leads us to Google and the second to Bing. But
+your readers would not know that just by looking at the text. The best they can
+do is “hover” over the word with their mouse cursor, relying on the browser
+interface to show them where the link is going. And once they get there, there
+are no easy ways to get back. The writer must have faith in the browser to “do
+the right thing” in guiding the reader through an intertextual maze. And that
+is not right when it comes to writing. In most situations, the author should
+architect that experience explicitly. If you think about it, the old-fashioned
+apparatus of quoting an external text is itself a type of linking. But rather
+than quoting the whole text, the author only quotes the relevant bits. Sending
+readers away to do that work on their own is lazy and irresponsible. Imagine a
+tour guide who tells his tourists to “just go over there and look at some
+stuff,” and “come back when you’re done.” Links can be that disorienting.
+
+Links disrupt the reading experience, and that is the second reason for why
+links are bad. It is possible that you want the reader’s experience to be
+disrupted. But in many cases you don’t. And the reader is already distracted by
+the proliferation of parallel windows and devices that augment their reading in
+some way. Do we need to make that distraction easier? Should I link the
+Wikipedia article on media multitasking or is it enough for my purposes to
+simply mention Wikipedia, or to trust my reader to look something up later, in
+a reference source of their own choosing? Or better yet, should I help the
+reader along by summarizing the findings? It mentions that most folks already
+read with a second screen in tow. It is not that unusual to see someone look
+something up on their phone or tablet while reading a newspaper or an e-book.
+Why? Because they don’t want to leave the flow of the first screen. There is
+great pleasure in immersive, uninterrupted reading.
+
+Besides being disruptive, links are ugly. They are ugly together, as in when
+many links conspire to produce a tangled mess. And they are also ugly when
+naked on their own, like this:
+https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit.
+That string of characters is not meant for human consumption! The period at the
+end kills me entirely. Meaningless punctuation inside of links coupled with
+regular punctuation ruins the sentence and the paragraph. Of course, I could
+just tell you to read something on Google Docs. That looks much better, but
+then we are making the opaqueness problem worse by hiding the address behind
+words that may or may not be related to the destination. It seems that we are
+stuck compromising on either transparency, reading flow, or visual impact.
+
+Links aren’t very secure to begin with, but hiding links behind words further
+compromises security. You’ve probably heard of link-baiting: the purposefully
+malicious attempts to trick a reader into revealing personal information when
+following a link that masquerades as a legitimate destination. You can visit my
+site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t
+worry, that was the real Google login page.) But even if one means well,
+viruses and browser exploits can inject bad links into your otherwise
+legitimate ones. A common technique is to install a browser script along with
+some seemingly useful “search bar” that will redirect all legitimate links to a
+site that makes money by advertising. Worse yet, you could end up on a site
+that attempts to further compromise your computer. Links are not secure because
+in linking, we outsource the relationship between reader and content to the
+browser.
+
+Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last
+because the content at the address is dynamic. It is not guaranteed to be there
+decades, months, minutes after your initial visit. In that case, why even
+bother? The link works best for ephemeral output (like a tweet). We must think
+of something much more robust for any “serious” writing that hopes to survive
+to the end of the week. And for the really good stuff, the kind of stuff that
+is the purview of librarians, we need to cultivate sustainable, long-lasting,
+responsible practices of online citation. It should work as well, if not
+better, than the familiar bibliographic citation in print. This practice should
+combat digital decay, not aid it. We need to think about the ways our links can
+be accessed, mined, and preserved with the archive-grade zeal of the rare book
+librarian.
+
+Finally, links are terrible for accessibility. It is bad enough that clicking
+on a small word like this is difficult for people with any sort of fine-motor
+control problems. Being a little older in itself can make the online reading
+experience painful. Things are much worse for those with Parkinson’s or for the
+blind. Sina Bahram, a blind usability expert (who is himself blind) reports
+that some sites contain thousands (!) of links in advance of actual content.
+Screen readers for the blind must read each one of them out loud. For the
+screen reader, there is no difference between garbage links and useful content.
+If you thought looking at links is disruptive, imagine listening to a robotic
+voice that pronounces every slash and every useless number in:
+http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens
+to his reader at 950 words per minute.
+
+Any one of these issues alone should give us pause. Together, they are a cause
+of grave concern. How did we get here? And what can we do to make links good
+again?
+
+How did we get here is not an easy question. A part of the story is surely the
+excitement we once felt about hypertext. Links were supposed to break the
+hegemony of linear narrative, ushering in a new interconnected world. To some
+extent the dream came true. But links also brought with them such things as
+Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among
+other things, the number of incoming and outgoing links. This bias for
+connectivity encourages “link farms”: sites that attempt to game the system by
+aggregating links or cross-linking their own content. A sure sign of a vacuous
+SEO-driven piece of writing is a certain cynical and strategic use of links to
+other popular sources. How long until the SEO logic infects poetry, fiction, or
+investigative journalism?
+
+What can we do to make links better? There are a few things we all can do now.
+First, let’s use links sparingly. Think smartly about whether you need to link
+or whether you can make do with a good, old-fashioned quote or citation.  Don’t
+link just because you can. Second, link explicitly: Youtube.com is better than
+this. Third, realize that online content is dynamic. It makes no sense to link
+a dynamic resource when the intent is to create a link to a static version of a
+document. Tools like the Save Page Now service, hosted by the Internet Archive,
+do just that. You can find this essay at
+http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best
+captured in a snapshot here:
+http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/.
+Finally, do not neglect the humble footnote. Footnotes provide a nice blend
+between usability, transparency, and good knowledge design.
+
+1:
+http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
+
+# Part 3: People
+
+## 1.3 Recursive Encounters with Oneself
+`document, vector, archive`
+
+We often think of literary works as completed products. *To the Lighthouse,*
+*Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
+critics, in charge of creating a work out of a multiplicity of texts, remind us
+that the work is a carefully-crafted illusion. The text multiplies, always
+threatening to undermine the unity of the work. Think of something substantial
+you have written recently: a paper or a proposal perhaps. 
+
+"It is that the word or sign man uses is the man himself" Pierce as quoted
+@weel2012.  What does it mean to know something?  Sartre and Beckett.  ###
+Recursive Encounters with Oneself
+
+Text as vector. Barthes: text as "an organism which grows by vital expansion
+[@barthes1978, 161]." " "The metaphor of the Text is that of the *network*
+[@barthes1978, 161]."
+
+Wikipedia as a Turing complete language. The power of versioning. Text as a
+vector. The problem of annotation. What are we annotating? Annotation solutions
+force a platform. Is Hamlet a platonic object? A family of related objects?
+Standard English editions in Europe.
+
+### Problem of Drafts and Versions Documents as vectors. Not completed things.
+Files as cognitive scaffolding for collective memory. Vissman.
+
+Science lecture vs. humanities. Stuff that is known. Stuff that is not known
+
+What does it really mean to "know" something? Or to have "read" a book? I have
+had the following conversation countless times. Someone asks, "Have you read
+Nabokov's *Pale Fire*," and I respond, "Yes I have." But there is a world of a
+difference between reading it yesterday, last week, or ten years ago. The book
+as an interface leaves an organic trace in the human mind--an imprint that
+begins to fade as soon as it is created.
+
+How much knowledge is there in the world? According to a recent paper published
+in Science, 295 exabytes (or billion gigabytes).[@hilbert]
+
+Whatever consciousness is, it is propelled forward on a thin edge of material
+substratum. Reality exists only in the now, where the past is a memory and the
+future only a possibility. Imagine whispering something to a friend. It does
+not have to be very complicated, something like "I love you" or "I miss you."
+The whisper dissipates as soon it is uttered. The percussion of the speaker's
+breath creates temporary order: giving shape and pushing air molecules into
+waves of pattern and form. That order begins dissipating as soon as it is
+created. Within milliseconds, molecules return to their natural state of chaos.
+
+To steel ourselves against entropy, we change the substratum from air to stone.
+It's molecules are more stable. Etched in stone will be the same message. It
+will last longer now. But it will also take longer to create. You will have to
+carry around your tablet and chisel. The message etched in stone will outlive
+the whisper and indeed will
+
+Repercussion? How we preserve ourselves today affects the future. Appointment
+with self.
+
+The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André.
+
+The book as an interface between human and ?. We must see it in the context of
+interfaces.
+
+### Krapp's
+Last Tape Beckett sets the stage for his 1958 Krapp's Last Tape on
+"a late evening in the future."1 The reason for this rather ambiguous dating is
+probably technological. The first personal tape-recorders were manufactured in
+Germany in the early 1930s, with public demonstrations of the device happening
+as early as 1933 in Europe.2 The play makes it clear that Krapp is in the habit
+of reviewing and recording his tapes on the eve of his birthday. On this
+particular evening, he is turning sixty-nine, and he is listening to a
+recording of his thirty-nine year-old self, who in turn reports listening to a
+ten-to-twelve year-old tape. This dating sequence places the work well into the
+mid-1970s by a conservative estimate—a date which is ironically, more than a
+decade after the invention of the compact cassette tape (1962) by Phillips and
+only a few years before the introduction of the iconic Sony Walkman product
+line (1979).3 It is likely that Beckett wanted to protect the chronological
+integrity of the plot by shifting the time of the play forward. What he could
+not have predicted is the increasing pace of technological innovation in the
+twentieth century.
+
+These modest annotations to Beckett's work are not meant to be facetious. The
+multiplicity of Krapp's fictional selves is made logically possible by the
+literary and the technological device alike. The seeming unity of Krapp's
+consciousness and indeed, the stage appearance of consciousness itself are
+aided by the use of the tape-recorder. The device on the stage creates the
+illusion of Krapp's inner life; it allows the author to shift the narrative in
+time; it multiplies and refracts the images of the main character of the play.
+The reel-to-reel player functions both as the audience and the actor,
+alternatively speaking and listening, recording and transmitting. And
+ultimately, Krapp's fate is not only linked to the tape-recorder, it is created
+by and for this technological medium.4
+
+But just as Krapp is created by the tape, the tape is Krapp's
+creation—technology itself being inextricably enmeshed in the narcissistic
+activity of human culture. The tape-recorder cannot occupy the center stage—it
+must recede into the background to become invisible. The player exists to
+reflect Krapp's image back to Krapp and in the process, to record the encounter
+for later reevaluation and re-recording.5 This almost mythical recursion
+promotes Krapp's character to the archetypal role of the librarian, whose task
+is to collect, to preserve, and to curate his own personal experience—a
+librarian of the self. In this light, the specificity of the tape as a medium
+is not terribly important. The story would be similarly plausible were it set a
+century prior, using a conventional diary as its medium, or written some
+decades later under the title of Krapp's Last Facebook Page.6
+
+Krapp's status as a librarian is confirmed in his elaborate filing system, by
+which he stores and organizes his recordings. He goes through several of his
+filing cabinets, "peering and poking at the boxes" as if to check the integrity
+of his collection, before settling on the tape from his thirty-ninth birthday
+("Box Three, Spool Five" he says with relish.) The cardboard storage boxes, the
+drawers, the ledger, and the very word itself—"spool," "spooool"—make him
+increasingly happy. Beckett presents Krapp's archival activity as a kind of a
+Chaplinesque comedy routine, with erotic overtones: Krapp remains a moment
+motionless, heaves a great sigh, looks at his watch, fumbles in his pockets,
+takes out an envelope, puts it back, fumbles, takes out a small bunch of keys,
+raises it to his eyes, chooses a key, gets up and moves to front of table. He
+stoops, unlocks first drawer, peers into it, feels about inside it, takes out a
+reel of tape, peers at it, puts it back, locks drawer, unlocks second drawer
+peers into it, feels about inside it, takes out a large banana, peers at it,
+locks drawer, puts keys back in his pocket. He turns, advances to edge of
+stage, halts, strokes banana, peels it, drops skin at his feet, puts end of
+banana in his mouth and remains motionless, staring vacuously before him [...]
+He treads on skin, slips, nearly falls, recovers himself, stoops and peers at
+skin and finally pushes it, still stooping, with his foot over the edge of the
+stage into pit. He resumes his pacing, finishes banana, returns to table, sits
+down, remains a moment motionless, heaves a great sigh, takes keys from his
+pockets, raises them to his eyes, chooses key, gets up and moves to front of
+table, unlocks second drawer, takes out a second large banana, peers at it,
+locks drawer, puts back his keys in his pocket, turns, advances to the edge of
+stage, halts, strokes banana, peels it, tosses skin into pit, puts an end of
+banana in his mouth and remains motionless, staring vacuously before him7 
+
+These stage directions exude a nervous energy one would expect before an erotic
+encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
+contain an account of a past romance, but the encounter Krapp is excited about
+is with the archive—that is with himself. The suggestive stroking of the banana
+punctuates the onanistic nature of Krapp's archival activity.
+
+Let us envision Krapp's archiving habits for a moment. The stage directions
+specify a den and a small table containing two drawers that open towards the
+audience. The table holds a tape-recorder, a microphone, and "a number of
+cardboard boxes containing reels of recorded tapes."8 How many reels are there?
+Krapp is sixty-nine, and after more than forty years of recording he must have
+accumulated somewhere around forty reels (assuming that his recording sessions
+lasted around a reel each). Reading from the ledger, Krapp counts nine boxes.
+The reel from his thirty-ninth birthday is in box three, spool five. What of
+his tape-recorder? In 1958, when Beckett began writing his play (he continued
+to rework it well into the 1970s) there were at least several dozen
+tape-recorders on the market, with the most popular brands being Ampex, Crown,
+Magnetophon, Magnecorder, Sony, Webcor, and Wollensak (see Appendix, Table 1).
+The smaller portable, battery-operated versions of these recorders ranged in
+price from two to three hundred dollars, which adjusted for inflation would
+give us a range between 1,500 and 2,200 in 2009 dollars. The expense of the
+device contributes to the image of Krapp as a man of independent means, who has
+perhaps fallen on some hard times: he is wearing ill-fitting trousers, a black
+sleeveless coat, and a "surprising pair of dirty white boots, size ten at
+least, very narrow and pointed."9
+
+Krapp's collection too has seen better times, for even the archetypal librarian
+of the self must face the problems faced by any librarian. The theoretically
+perfect recursion of the medium strains under practical scrutiny:
+classification systems deteriorate, descriptions lose their meaning,10 and even
+Krapp's own auditory mirror image betrays him when Krapp is forced to look up
+the word "viduity" in the dictionary (a word that made sense to him thirty
+years ago). Krapp's Last Tape, as it is conventionally interpreted, is a
+cautionary tale about "the last"—time, memory, desire, and nostalgia.11 But it
+is also a commentary about the "tape." Reel-to-reel recorders too will need
+further and progressively more expansive annotations for the play to continue
+to produce meaning. Thus, with the curtain drawn, we the audience, the readers,
+and the custodians of this work are almost immediately implicated in Krapp's
+narcissistic archival habits. Krapp's Last Tape is also a tape in our own
+collection—a tape that will continue to comfort and to unsettle us well into
+our own dotage.
+
+In examining the encounter between Krapp, his tape-recorder, and his past self,
+I would like to shift the focus of the conversation about archives from the
+public to the private sphere. Jacques Derrida's "Archive Fever," given as a
+lecture in 1994 during a conference entitled "Memory: The Question of Archives"
+and later published in Diacritics, remains perhaps the paradigmatic text in the
+tradition that takes the archive to be a predominately public space, subject to
+the power dynamics between the patrons and the custodians of the institution.
+For Derrida and his followers, the archive "has the force of law, of a law
+which is the law of the house (oikos), of the house as place, domicile, family,
+lineage, or institution."12 Such a place preserves but also shelters the
+documents within. It remembers and forgets, so to speak. The word
+itself—archive—suggests arkheion: "initially a house, a domicile, and address,"
+but also archons, or "those who commanded."13 In Derrida's understanding, the
+archive is thus both a location and a power structure. And ultimately, it is an
+institution, like the Freud Museum, where the paper was first given.
+
+Consider by contrast Krapp's dingy collection. It is hardly an institution—it
+receives neither grants nor visitors, and Krapp himself is hardly a proper
+archon (he throws the tapes down in anger, and unlike Freud, he leaves no heirs
+to continue his lineage). In contrast to the Freud Museum, his collection
+mostly consists of documents that have only a deeply personal significance. His
+archive has less to do with social power structures and more to do with the
+mechanisms of private identity formation, remembrance, and nostalgia. To mimic
+Derrida here, we could say that his collection is a recollection—it is not a
+house, but a yearning for a house (nostalgia, from the Greek nostos, a
+homecoming14).
+
+Of course, Krapp is only an archetype, the harbinger, and a symbol of a new
+type of an archivist. But even symbolically, his collection could not exist
+without the particular technology of the tape-recorder. That is to say that the
+semiotics of the private archive are enabled by the applied particularities
+(pragmatics) of the specific archiving practice (See Table 2).  Type: Paper
+Record / Cylinder Magnetic Tape Digital / Cloud Portability high low average
+device-independent Capacity low low average virtually unlimited Time shift
+quick, tactile, imprecise quick, tactile, imprecise slow, linear, imprecise
+near instant, precise Search indexed none, visual seek, mechanical indexed Size
+small large small irrelevant Shape square round long fuzzy Price cheap
+expensive affordable cheap Power source none mechanical, electrical batteries,
+electrical batteries, electrical
+
+Table 2: Media comparison, 20th Century This chart is by no means complete. We
+have not accounted for the distinctions between digital storage devices, laser
+disks, film, or stone tablets for that matter. What matters is that the medium
+is largely independent from the type of information stored on it, and this
+contrary to Marshall McLuhan infamous "the medium is the message" dictum.15 The
+world itself "medium" is misleading in this context. We could for example say
+that paint is the medium of painting. But what about the photograph of a
+painting? Or its digital reproduction? The situation is even more confusing
+when we begin thinking about music, for example. What is the medium for J.S.
+Bach's Double Violin Concerto: the violin or the music sheet which contains the
+score? We are on yet more precarious terrain when considering hybrid "media,"
+like film or television that are comprised of multiple sources and that use
+multiple modes of transmission.  The confusion enters the conversation when we
+conflate the modality of the information (e.g. music, image, text) with the
+physical channel of its transmission (the medium proper). Modality may very
+well be the message. Thus, it may be true that when one plays the violin, the
+music can be said to express itself in musical terms. But not the violin! I
+could use a violin to transmit a picture of an orchestra over a dial-up modem,
+for example. This would only involve the question of how to encode the visual
+information into a state transmittable by the violin (a primarily auditory
+instrument).  The channel of communication—the medium proper—is in fact,
+information-agnostic. That is to say that it has no preference about the
+message being transmitted (nor can it have a preference for anything at all,
+formally speaking—preference being a property we ascribe to objects that are at
+least animate). We could therefore transmit a sonata by playing a violin, as
+sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
+peer-to-peer network. In each case, the information transmitted remains more or
+less the same, depending on the quality of your violin playing, the fidelity of
+your speakers, or the compression ratio of your digital encoding. It would be
+wrong too to consider any of these sources as somehow primal, with others being
+something like "mere copies" of the original. We could for example, start by
+composing music on paper. Alternatively, we could first play a piece of music
+and then transcribe it into musical notation. In an extreme but perfectly
+plausible case, we could compose by magnetizing a length of ferrous tape first,
+and only then play the violin to reproduce what we have "written." The medium
+does not know anything about the message. The way in which we store, access,
+and retrieve the encoded information is determined by the medium, however. We
+are the ones being shaped by the media. I do mean this rather literally: the
+stage directions for Krapp's Last Tape would be very different were Krapp
+writing a diary, or browsing his online social networking profile, or if he
+were to embed a memory chip in his brain that was able to store and retrieve
+the same messages from his thirty-nine year-old self as the tape-recorder. The
+actor's body would move differently in each of these cases—his senses and his
+thought would be altered in many subtle ways, depending on the channel of
+communication.
+
+The separation between mode and medium allows us to retain a certain clarity of
+vision in a rather muddled conversation about "media history." Modalities such
+as visual arts, music or literature do not necessarily evolve, in the normative
+sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
+optical linear perspective in 1425. But the normative evolution of art could
+only make sense only against some concrete pragmatic goals, which the aesthetic
+realm lacks by definition. Nothing is gained or lost when the fashion changes
+from square-toed to pointy-toed shoes, and then back again—to use an example
+that would surely please Mr. Krapp. Neither is "better" or "worse" for the
+participants in that sphere of cultural activity. By contrast, the concept of
+the medium does contain some sense of normative valuation, also by definition.
+That is to say that the medium has a job, which is to facilitate the storage,
+the transmission, and the retrieval of information. And there is such a thing
+as doing this job better or more efficiently. More is always better in this
+case: more storage, faster access, more reliable transmission. When the quality
+of the information is not sacrificed, there are no instances were less would be
+preferable by anyone with limited time and resources. For example, I would like
+to be able to read or write faster. I value both of these activities, but my
+time to perform them is limited by my lifespan. Assuming I could gain speed
+without any degradation in clarity or comprehension, and barring any
+psychological ill effects, the idea of more in this case must be a good onto
+itself.
+
+Armed with these insights, we can now return to the perhaps obvious idea that
+Krapp's collection could not exist without the particular technology of the
+tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
+portability, power source, size, search capacity, price, and yes, even the
+shape of the reel and the tape recorder. It is at this point, that I am able to
+restate the broadly historical thesis of this section: that these very same
+attributes have enabled a shift in the collecting practices of the western
+world—transposing the locus of our archival practice from the institutional to
+the private sphere.
+
+Who are you communicating with? Pushing yourself through the pipe. The
+appointment with myself. The sum-total of material substratum. Building a wider
+platform. Todo, email, diary, music collection. Burning building-we grab our
+memories, and hoarding the disfunction of that personal sediment. You are the
+sum-total of your modalities. Commitments to self. Attunement of self. The
+message is you. Preserving ourself from entropy. 
+
+Books are not media they are platforms. Platform is all of the above. Plus the
+economic / cultural contexts. Amazon Kindle is a platform. Who are you
+communicating with? Yoursef. What is the message. Ultimtely, it is a message of
+self-identity.
+
+### Extended cognition
+
+
+## 3.2 Shared Knowledge
+`author, citation`
+
+### 3.2.1 Cooperation
+
+### 3.2.2 Writing together.
+
+Models of co-authorship (and why we should pay attention).
+The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
+
+Auteur - genius romantic ideas of authorship. Lab life of writer's rooms.
+Tangibility. Distributed authorship.
+
+I've been thinking quite a bit recently about the "costs" of collaboration,
+about writing (and researching) together, and about the tangled forests of
+drafts, manuscripts, and versions that sprout in the wake of co-authorship.
+
+This brings me to a strange (but meaningful) space between textual criticism
+and version control
+
+### 2.4.1 Introduction Code and poetry. 
+
+These words were meant to be together.
+
+ 
+F. C. Bakewell's Copying Telegraph secrecy already built in.  Privacy, secrecy,
+surveillance, and transparency.  Stuff about Lull here? Artificial
+intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being
+the same side of the coin. Hackable media. Ability to encrypt and decrypt.
+Political potential. Enabled by plain text.
+
+Internet is not rhyzomatic. Mediation is at stake. " But the bottom line is
+that dumb-pipe email is unmediated, and therefore it's a business that Google
+wants to get out of as soon as it can."
+
+" It's also why I believe Google will kill Gmail as soon as it comes up with a
+mediated alternative everyone loves. Of course, Google may offer an antiquated
+"Gmail view" as a semi-obscure alternative to the default "Inbox"-like mediated
+experience."
+
+Alice, Bob, Caryl.
+http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
+Communication theory of secrecy systems, shannon
+
+Zimmermann responded by publishing the source code as a book, an act that was
+constitutionally protected as free speech. 
+
+### Identity Anonymous authorship.  
+
+## 3.3 Secrecy, Surveillance
+Thought control. T
 
 # Conclusion: New Humanism
 
@@ -3218,8 +3218,6 @@ for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
 developed of these. Engineering for dissent. The ability to create shared goals
 and to exit. engagement with shared project. The subject of my next book. 
 
-# Crypto and secrecy
-consider adding it back as a chapter
 # Tech Appendix
 
 ## Prepare How to run the terminal. What is it. And why?  Intro to POSIX
