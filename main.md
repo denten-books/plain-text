@@ -1684,46 +1684,51 @@ technological development):
    variability of hand-written script can be reduced to a limited set of discrete
 characters. The process of normalization is by no means complete today, as
 attested by the proliferation of character encodings and the difficulty that
-research on Optical Text Recognition faces in dealing with non-Western writing
+research on optical text recognition faces in dealing with non-Western writing
 systems.
 
-2. Remote communications. The telegraph removes writing from its immediate
-   physical environment. Authorial presence, already weakened by writing as such, is
-further distanced from the contexts of utterance. The telegraph lengthens the chain of
-technological and political mediation in the transmission of information. The
-telegram differs from the letter in that it is transcribed, encoded, decoded,
-and transcribed again. The lengthening further weakens the authorial
-function: where a letter needs to be "forged" to mis-represent authorial
-intent, third parties (like the telegraph clerk) are explicitly present in the
-act of transmission. The clerk's (or the censor's) "signature" cannot be
-distinguished from the author's (a common literary plot device in the fiction
-of the period).
+2. Remote communications (geographical displacement). The telegraph removes
+   writing from its immediate physical environment. Authorial presence, already
+weakened by writing as such, is further distanced from the contexts of
+utterance. The telegraph lengthens the chain of technological and political
+mediation in the transmission of information. The telegram differs from the
+letter in that it is transcribed, encoded, decoded, and transcribed again. The
+lengthening further weakens the authorial function: where a letter needs to be
+"forged" to mis-represent authorial intent, third parties (like the telegraph
+clerk) are explicitly present in the act of transmission. The clerk's (or the
+censor's) "signature" cannot be distinguished from the author's (a common
+literary plot device in the fiction of the period).
 
-3. Automation. The 
+3. Automation and programmable media(tempral displacement). Again, already a
+   property of all writing, temporal displacement itensifies as the telegraph
+is coupled with the typewriter, while the typewriter no longer operates
+directly on physical media. A number of inventions at the end of the 19th
+century pertain to "circuit-controlling devices controlled by a traveling
+perforated strip or tape" (from US patent number 500226, filed Charles Cutriss
+in 1893 [@cutriss1893]). The initial idea of using perforated tape to control
+curcuits remotely @US158156, by Charles Wheatstone in 1874. Prior to perforated
+tape, the transmission of a message by telegraph required the presence of a
+skilled operator, able to transcribe messages from text to Morse code, and into
+the physical motion of a lever-operated curcuit. Typewriters and telegraphs
+relied on a human as an interface, in other words. The transcription of text
+into signal, and back onto paper required the real-time presence of human
+encoders and a decoders.  The perforated tape decoupled the human from the
+machine, allowing for the automation of the device. In 1911, two inventors
+working on the telegraph write, "the object of our invention is to provide a
+system of telegraphy which does not require skilled operators for the
+transmission and reception of messages; which is adapted to utilize a single
+wire between two or more stations and automatically typewritten in page form
+ready for delivery to the addressee [@bumstead1916]." Note the erosion of the
+distinction between "message" and "control" in this process. Some "messsages"
+encoded into the tape are meant for human, while other are there to control
+curcuits.
 
-4. Remote control.
-
-a number of lesser mechanisms anticipate the functional elements
-of Turing's design.  A number of inventions at the end of the 19th century
-pertained to "circuit-controlling devices controlled by a traveling perforated
-strip or tape."[^ln12-perforated] Prior to perforated tape, the transmission of
-a message by telegraph required the presence of a skilled operator, able to
-transcribe messages from text to Morse code, to lever-operated circuit.
-Typewriters and telegraphs relied on a human as an interface. The transcription
-of text into signal, and back onto paper required the real-time presence of
-human encoders and a decoders. The perforated tape decoupled the human from the
-machine, allowing for the automation of the device.[^ln12-decouple] A flood of
-inventions appeared at the turn of the 20th century to capitalize on such
-decoupling. These include machines for tape-controlled telegraphic transmission
-(US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
+A flood of inventions appeared at the turn of the 20th century to capitalize on such
+decoupling. These include machines for tape-controlled telegraphic
+transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
 tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
 1928-1929), and remote broadcast programming or radio and television content
-(US1974062, 1932-1934; US2031074, 1931-1936).
-
-The material history of the Turing machine lies in the
-
-
-With the invention of punch cards and perforated tape (also used in Jacquard
+(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards and perforated tape (also used in Jacquard
 looms, as early as 1801), a message meant for another human became also a
 physical medium--bumps and holes--used to modulate electrical current. In the
 transmission of a recorded message, the message itself plays the role of a
@@ -1733,21 +1738,17 @@ one: that is, the arrangement of perforation on the ticker tape affects the
 internal mechanical state of the machine. Another way to put this would be to
 say that the state of the tape-driven telegraph machine at any given time is
 also the message. The device simply converts mechanical states into signal
-(printed, audible, or otherwise). The logical conclusion of this idea is the
-controller (US1165663, 1911-1915).
+(printed, audible, or otherwise). 
 
-[^ln12-perforated]: From US patent number 500226, filed Charles Cutriss in 1893
-[@cutriss1893]. The initial idea of using perforated tape to "drive" the
-circuit came from US158156, by Charles Wheatstone in 1874.
+The logical conclusion of this idea is the controller (US1165663, 1911-1915).
 
-[^ln12-decouple]: In 1911, two inventors working on the telegraph write, "the
-object of our invention is to provide a system of telegraphy which does not
-require skilled operators for the transmission and reception of messages; which
-is adapted to utilize a single wire between two or more stations and
-automatically typewritten in page form ready for delivery to the addressee
-[@bumstead1916]."
 
-Hyman Eli Goldberg Friden FlexoWriter separates key strokes. > IBM MT/ST.
+The material history of the Turing machine lies in the
+
+
+
+
+Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
