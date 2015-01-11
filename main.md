@@ -1077,8 +1077,6 @@ hand: / In that case, indeed, would / The talkers of vanities / Have doubted
 
 ### 1.2.0 Hidden Values
 
-#### Reading is at Risk?
-
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concludes the survey of Public Participation in the Arts conducted by the
 Census Bureau on the behest of the National Endowments for the Arts (NEA) in
@@ -1115,8 +1113,6 @@ or merely one of its many definitions? Does the diffusion of the textual field
 somehow cheapen the literary enterprise of art for art's sake, or protect it?
 What is the source of modern metaphysical anxiety about the status of a
 literary text?
-
-#### Thesis: Lit as material conditions.
 
 In the 1990s, the ire of the metaphysically disaffected coursed against visual
 culture and television [@stephens1998, @merrin199]. A decade later it turned
@@ -1162,8 +1158,6 @@ expanding, and two, that with a quantitative expansion comes qualitative change
 in the material make-up of the literary text. Where I start with a top-down,
 theoretical reconceptualization of literature as an epistemological category, I
 end with a bottom-up media history that traces the passage of pixel to text.
-
-#### Against aesthetics (ranty)
 
 When surveying the introductory literature on literature, the reader will
 invariably find a version of Said's "fundamental irreconcilability" position.
@@ -1277,8 +1271,6 @@ materialism is considerably more literal than Eagleton's. I am interested here
 in physical mechanisms of control, not in their ephemeral ideological
 justifications.
 
-#### Two ways of interpreting NEA
-
 In trying to understand the incongruity of NEA's dour prognosis with broad
 theoretical models and demographic trends that describe the proliferation of
 text, I am confronted with two possible explanations. The writers of the report
@@ -1315,8 +1307,6 @@ way things are) hides a qualitative, proscriptive program (thats the way they
 should be).
 
 [^ln12-engell]: See also @engell1988.
-
-#### Three ways to look at value, 1-2
 
 Staring with the late 1960s, a generation of scholars (Northrup Frye, Murray
 Krieger, and E. D. Hirsch, among others) took up the problem value in literary
@@ -1375,18 +1365,18 @@ minds, love solipsism? In each case, synonyms for value-making--loving,
 sanctioning, condoning--appear out of place, incongruent with the inquiry at
 hand. Something is rotten in the very formulation of the question. To put it
 differently: Must we study *only* what we value? I cannot think of a way to
-defend the answer to the affirmative. A zoology that insists on the study of only
-the beautiful animals is itself a strange creature.[^ln12-zoo] A more radical
-compromise compels us to seek value in the importance of the inquiry itself: in
-the quality of the questions raised, and in the relevance of the answers given.
-If literary reading of a certain kind has the power ascribed to it by the NEA
-report (increased civic participation, etc.), literary humanities need not
-concern itself with the protection of the literary. The survival of the field
-(and not of literature itself) depends on the freedom of its cadres to pursue
-the literary function everywhere, indiscriminately, even in the discarded
-textual detritus of human activity, however quotidian. A conception of a more
-neutral, broad literary domain can include and preserve all existing forms of
-textuality.
+defend the answer to the affirmative. A zoology that singularly insists on the
+study of beautiful animals is itself a strange creature.[^ln12-zoo] A
+more radical compromise compels us to seek value in the importance of the
+inquiry itself: in the quality of the questions raised, and in the relevance of
+the answers given.  If literary reading of a certain kind has the power
+ascribed to it by the NEA report (increased civic participation, etc.),
+literary humanities need not concern itself with the protection of the
+literary. The survival of the field (and not of literature itself) depends on
+the freedom of its cadres to pursue the literary function everywhere,
+indiscriminately, even in the discarded textual detritus of human activity,
+however quotidian. A conception of a more neutral, broad literary domain can
+include and preserve all existing forms of textuality.
 
 [^ln12-zoo]: There are several studies that explore the effect of perceived
 aesthetics on zoology and conservation. See esp. @frynta2009 and @stokes2007.
@@ -1403,7 +1393,6 @@ free (to the extent it is possible) from its normative baggage: something like
 obvious tautology.
 
 ### 1.2.1 Microanalysis
-#### Building on Latour's anthropology of texts
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an "ethnography" of a science lab, showing the
@@ -1468,8 +1457,6 @@ into inscriptions, and into archives. Or to see the legal system as a process
 of literary discovery, were legions of attorneys and paralegals pore over
 terabytes of textual material, transforming inscription into evidence. That is
 not all these institutions are, but they are also that.
-
-#### Macro and Micro
 
 Such textual proliferation comes at a cost. Until recently, the bread and
 butter of literary scholarship has been close reading. Close reading like
@@ -1588,8 +1575,6 @@ with the reported results.
 
 ### 1.2.2 WYSINWYAG (What You See Is Not What You Always Get)
 
-#### Content and Control
-
 "Media determine our situation," Friedrich Kittler wrote in his seminal
 *Gramophone, Film, Typewriter*[@kittler1999, xxxix]. The book channels its
 metaphysical angst about the changing conditions of literary production from
@@ -1603,87 +1588,140 @@ be fully sufficient for books, to charge-coupled devices, surface-wave filters,
 microanalysis of the textual condition in the passage between typewriters and
 personal computers, reveals plenty of space for human agency. Media determine
 our situation only to the extent that we continue to treat the everyday
-transformation of thought into pixel and thereto into literary control systems
-that structure human experience as a mystical and mystifying black-box
-devices.
+transformation of thought into pixel (and thereto into literary control systems
+that structure human experience) as mystical and mystifying black-box
+mechanism.
 
-The real danger comes from the superficial similarity of print and pixel. Where
-the pen or the typewriter inscribe the image directly into its paper medium,
-digital type passes through a series of transformations between the keystroke
-and its corresponding pulse of the cathode ray, or the flow of the liquid
-crystal. Secrecy and surveillance technologies that rightly worry Kittler exist
-in the gap between text as medium and text as content. They threaten literature
-(the something to be said) only in so far as the mechanisms for literary
-production maintain the illusion of flatness. When the veil is lifted, we can
-begin to reclaim the passage of textuality from source to destination.
-Technology in this process remains a relatively neutral conduit, enabling
-liberation and oppression alike. The physical control of expression cannot and
-should not be reduced to something as seemingly self-contingent as "the
-conditions of high technology." Systems of control naturally obscure the
-pathways of agency. Letting go of agency as a critical concept plays into the
-hand of those (humans) that benefit directly from the illusion of
-disempowerment. I see control, in this sense, not as a meta-physical or
-ideological construction, but as the ability to physically alter or to restrict
-or to restrict the passage of information. The transition from the mechanical
-typewriter to the electrical word processor literally intertwines the
-mechanisms of content production and device control.
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality.  In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
 
 We are accustomed of thinking of modern computing as a pinnacle of calculating,
 computational devices. That is the story the reader gets in Kittler's media
 history and in David Golumbia's excellent *Cultural Logic of Computation.* The
 cultural logic of computation inevitably leads to a bleak vision of of Johanna
 Drucker calls "mathesis," the triumph of deterministic quantification over
-indeterminate, anti-positivist forces of the humanities. The historical
-link between computation and 
-
-to the military industrial complex, In contrast to that
-vision, I would like to recover the 
+indeterminate, anti-positivist forces of the humanities. The historical link
+between computation and the military industrial complex, cannot be denied. But
+they are contingent, rather than causal connections. In moving towards a notion
+of critical computing, we are able to draw on a multiplicity of historical
+practices that suggest an alternative mode of engagement with the computational
+environment, one in which literature has plenty to say.
 
 The personal computer governing the production of textuality today emerged from
-an amalgam of automated devices, chief among them the typewriter and the
-calculator. In his seminal 1937 paper "On Computable Numbers," Alan Turing
-describes an automatic machine (a-machine) capable of transposing the problem
-of calculability into "effective calculability." Where all previous typewriters
-and calculators were special-purpose mechanisms, engineered to aid in a
-specific task, the configuration state of the a-machine was determined instead
-by symbols scanned into the machine from a paper ribbon.  In imagining the
-universal calculator, Turing borrowed from the physical design of a typewriter.
-Although Turing's original article did not include any drawings, he describes
-the a-machine in terms of paper tape medium, scanning, erasing, "writing down
-notes," "external operators," and "moves" of the mechanism. If Turing were to
-file a US-based patent for his device (rather than describing it in the
-abstract only) he would have to cite prior art in the mechanisms like the
-"Numeral adding or subtracting attachment for type-writing machines" (US517735,
-filed in 1893 and issued in 1894), "Combined Type-Writing and Computing
-Machine" (US990238, 1896-1897), "Computing Attachment for Typewriters"
-(US1162730, 1908-1915), "Computing Mechanism" (US1105170, 1908-1914), and
-"Combined Type-Writing and Adding Machine" (US1244398, 1910-1917) among others.
-Turing's innovation over all of these devices lies in the self-reprogramming
-capabilities of the a-machine. But by the 1930s, a number of lesser mechanisms
-already existed on the mass market that anticipate functional elements of
-Turing's design.  The material history of the Turing machine lies in the
-wide-spread manufacture of computing scales, dial recorders, electric
-tabulating machines, and computing typewriters manufactured by companies like
-Underwood Computing Machine, Electromatic, and International Business Machines
-(IBM).
+an amalgam of automated devices, chief among them the telegraph, the typewriter
+and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
+Turing describes an automatic machine (a-machine) capable of transposing the
+problem of calculability into "effective calculability." Where all previous
+calculators were special-purpose mechanisms, engineered to augment a specific
+type of computation, the a-machine was a universal device. In theory (and it
+was conceived as a thought experiment, at first), it could imitate any other
+mechanism for calculation because its internal state was itself symbolic. The
+device would receive input, by means of a paper ribbon containing discrete
+symbolic inputs. At its bare minimum, the device would need only the ribbon, a
+means of "reading," and the means of "writing," the symbols onto the tape.
+Mechanically, its movement could be restricted to simple left/right progression
+along tape. What makes it a universal Turing machine is its ability to
+internalize the symbol as part of its mechanism. The marks on the ribbon can
+symbolize what we would call "data," like the numbers to be computed for
+example. But other symbols include control codes, that alter the movement of
+the mechanism. In fact, the Turing machine does not properly differentiate
+between control code and content. Its internal state (Turing purposefully uses
+terms of sentient awareness throughout) "is determined by m-configuration
+*q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." This transition of
+symbols into machine configuration states effectively defines modern
+programming. A universal machine, unlike other, definite, single-purpose and
+limited-state mechanisms (like a clock for example), contains the ability to take on
+differing internal symbolic configurations. It can imitate a clock, and Turing
+thought that with time it would be able to imitate humans as well.
 
-Viewed from the history of writing machines, the next major development of
-modern computing after the typewriter was automated telegraphy. A number of
-inventions at the end of the 19th century pertained to "circuit-controlling
-devices controlled by a traveling perforated strip or tape."[^ln12-perforated]
-Prior to perforated tape, the transmission of a message by telegraph required
-the presence of a skilled operator, able to transcribe messages from text to
-Morse code, to lever-operated circuit.  Typewriters and telegraphs relied on a
-human as an interface. The transcription of text into signal, and back onto
-paper required the real-time presence of human encoders and a decoders. The
-perforated tape decoupled the human from the machine, allowing for the
-automation of the device.[^ln12-decouple] A flood of inventions appeared at the
-turn of the 20th century to capitalize on such decoupling. These include
-machines for tape-controlled telegraphic transmission (US158156, 1874-1874;
-US794242, 1905-1905; US1187035, 1911-1916), tape-controlled printing (US985402,
-1908-1911), printing telegraphs (US1721952, 1928-1929), and remote broadcast
-programming or radio and television content (US1974062, 1932-1934; US2031074,
-1931-1936).
+Turing rightfully deserves the credit for articulating the archetype of a
+universal machine in its simplest logical form, and then for applying that
+theoretical device to the problem of computable numbers. But, as a device, the
+Turing machine borrows from a number of designs, that, together, incrementally,
+bring the universal computer into material existence. Although Turing's original
+article did not include any drawings, he describes the a-machine in terms of
+paper tape medium, scanning, erasing, "writing down notes," "external
+operators," and "moves" of the mechanism. If Turing were to file a US-based
+patent for his device (rather than describing it in the abstract only) he would
+have to cite prior art in the mechanisms like the "Numeral adding or
+subtracting attachment for type-writing machines" (US517735, filed in 1893 and
+issued in 1894), "Combined Type-Writing and Computing Machine" (US990238,
+1896-1897), "Computing Attachment for Typewriters" (US1162730, 1908-1915),
+"Computing Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and
+Adding Machine" (US1244398, 1910-1917) among others.
+
+By the end of the 19th century a number of lesser mechanisms anticipate the
+functional elements of Turing's device. By 1930s, these inventions not only
+anticipate the modern computer, but are brought to mass market in wide-spread
+manufacture of computing scales, dial recorders, electric tabulating machines,
+and computing typewriters made by companies like Underwood Computing Machine,
+Electromatic, and International Business Machines (IBM). Rather than a singular
+eureka moment, the invention of the universal machine should be viewed as a
+historical process that culminates with Turing's description. That process can
+be reduced to four key elements, each necessary for the functioning of the
+Turing machine (and each in themselves representing a long lineage of
+technological development):
+
+1. The mechanization of type. With the invention of the typewriter, the
+   variability of hand-written script can be reduced to a limited set of discrete
+characters. The process of normalization is by no means complete today, as
+attested by the proliferation of character encodings and the difficulty that
+research on Optical Text Recognition faces in dealing with non-Western writing
+systems.
+
+2. Remote communications. The telegraph removes writing from its immediate
+   physical environment. Authorial presence, already weakened by writing as such, is
+further distanced from the contexts of utterance. The telegraph lengthens the chain of
+technological and political mediation in the transmission of information. The
+telegram differs from the letter in that it is transcribed, encoded, decoded,
+and transcribed again. The lengthening further weakens the authorial
+function: where a letter needs to be "forged" to mis-represent authorial
+intent, third parties (like the telegraph clerk) are explicitly present in the
+act of transmission. The clerk's (or the censor's) "signature" cannot be
+distinguished from the author's (a common literary plot device in the fiction
+of the period).
+
+3. Automation. The 
+
+4. Remote control.
+
+a number of lesser mechanisms anticipate the functional elements
+of Turing's design.  A number of inventions at the end of the 19th century
+pertained to "circuit-controlling devices controlled by a traveling perforated
+strip or tape."[^ln12-perforated] Prior to perforated tape, the transmission of
+a message by telegraph required the presence of a skilled operator, able to
+transcribe messages from text to Morse code, to lever-operated circuit.
+Typewriters and telegraphs relied on a human as an interface. The transcription
+of text into signal, and back onto paper required the real-time presence of
+human encoders and a decoders. The perforated tape decoupled the human from the
+machine, allowing for the automation of the device.[^ln12-decouple] A flood of
+inventions appeared at the turn of the 20th century to capitalize on such
+decoupling. These include machines for tape-controlled telegraphic transmission
+(US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
+tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
+1928-1929), and remote broadcast programming or radio and television content
+(US1974062, 1932-1934; US2031074, 1931-1936).
+
+The material history of the Turing machine lies in the
+
 
 With the invention of punch cards and perforated tape (also used in Jacquard
 looms, as early as 1801), a message meant for another human became also a
