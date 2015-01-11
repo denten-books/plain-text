@@ -1375,8 +1375,8 @@ minds, love solipsism? In each case, synonyms for value-making--loving,
 sanctioning, condoning--appear out of place, incongruent with the inquiry at
 hand. Something is rotten in the very formulation of the question. To put it
 differently: Must we study *only* what we value? I cannot think of a way to
-defend the answer to the affirmative. A zoologist that denies other the study
-of animals he deems "ugly" is himself a strange creature.[^ln12-zoo] A more radical
+defend the answer to the affirmative. A zoology that insists on the study of only
+the beautiful animals is itself a strange creature.[^ln12-zoo] A more radical
 compromise compels us to seek value in the importance of the inquiry itself: in
 the quality of the questions raised, and in the relevance of the answers given.
 If literary reading of a certain kind has the power ascribed to it by the NEA
