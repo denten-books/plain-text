@@ -1717,13 +1717,13 @@ device.
 
 Where the first two of these developments are well covered in the literature of
 new media and communications studies, the third is most crucial to the
-deveopment of Turing machines, and least understood. A number of inventions at
+development of Turing machines, and least understood. A number of inventions at
 the end of the 19th century pertain to "circuit-controlling devices controlled
 by a traveling perforated strip or tape" (from US patent number 500226, filed
 Charles Cutriss in 1893 [@cutriss1893]). Prior to perforated tape, the
 transmission of messages by telegraph required the presence of a skilled
 operator, able to transcribe messages from text to Morse code, and into the
-physical motion of a lever-operated curcuit. In this system, the human operator
+physical motion of a lever-operated circuit. In this system, the human operator
 acted as a mute interface between text and machine. The transcription of text
 into signal, and back onto paper, required the real-time presence of human
 encoders and a decoders. The perforated tape decoupled the human from the
@@ -1731,14 +1731,14 @@ machine. In US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and
 Ralph Bumstead explain, "the object of our invention is to provide a system of
 telegraphy which does not require skilled operators for the transmission and
 reception of messages." Instead, the message was transcribed into perforation
-mechanichal means and then fed into the device. The tape mechanics of the type
+mechanical means and then fed into the device. The tape mechanics of the type
 writer could then be coupled with the electrics of the telegraph, with
 perforated tape as the mediator between the two "worlds." A number of devices
-emerged at the time with the aim of tranforming mechanical action of the
+emerged at the time with the aim of transforming mechanical action of the
 typewriter into perforation, and, consequently, perforation into script,
-completing the curcuit between automated "encoding" and "decoding". As one
-device converts human intput into mechanical states, and into signal, another
-device conversts the signal into mechanical states and into a human-legible
+completing the circuit between automated "encoding" and "decoding". As one
+device converts human input into mechanical states, and into signal, another
+device converts the signal into mechanical states and into a human-legible
 message.
 
 A flood of inventions appeared at the turn of the 20th century to capitalize on
@@ -1750,37 +1750,64 @@ tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
 and perforated tape (also used in Jacquard looms, as early as 1801), a message
 meant for another human became also a physical medium--bumps and holes--used to
 mechanical movement of the transmission apparatus. For example, of the 33
-asserted claims in the the Bumstead brothers patent, the first 13 relate to the
+asserted claims in the Bumstead brothers patent, the first 13 relate to the
 "transmission of intelligence [...] adapted to initiate a succession of
-electrical impulses all of which have a characther representing significance, a
+electrical impulses all of which have a character representing significance, a
 receiver adapted to detect variations in time intervals elapsing between
-sucessive impulses, a plurality of interpreting relays selectively acutated by
+successive impulses, a plurality of interpreting relays selectively actuated by
 said receiver, and a printed mechanism responsive for the combined action
 [@bumstead1911, 12-13]." Up to this point, the patent describes a device for
-transmititon information, from type to print. Starting with clause 14, the
-langauage changes to describe a more general "telegraph system," comprised of
+transmission information, from type to print. Starting with clause 14, the
+language changes to describe a more general "telegraph system," comprised of
 "an impulse transmitter having means to vary the time intervals between
-sucessive transmitted impulses, each time interval having a character
-representing significance, a reciever responsive to said devices, and signal,
+successive transmitted impulses, each time interval having a character
+representing significance, a receiver responsive to said devices, and signal,
 distributing, interpreting, and recording devices *responsive to the contiguous
 significant time intervals define by the impulses* [@bumstead1911, 14 (emphasis
 mine)]." For the automated telegraph the control code and the message are one:
 that is, the arrangement of perforation on the ticker tape affects the internal
 mechanical configuration of the machine. Another way to put this would be to
 say that the state of the tape-driven telegraph machine at any given time is
-also, in part, a message meant for the human recepient.
+also, in part, a message meant for the human recipient. The printing telegraph
+of Brothers Bumstead, along with their subsequents and antecedents contain all
+the necessary parts for a Turing machine: discrete symbolic language,
+removable storage medium, and a device that can alter its internal state based on
+the reading and writing passing symbols.
 
-### Literature as content and control (bring it back)
+### 1.2.4 The Language of Circuits
 
-The language of circuits immedeatly matter of interpretation.
-In US1165663, filed in 1911
-and issued in 1915, Hyman Goldberg writes: "the object of the invention is to
-provide mechanism operable by a control sheet which is legible to every person
-having sufficient education to enable him to read."
+Where we began with mechanisms of direct inscription (like pens and
+typewriters) we end with machines that look like typewriters, but involve
+"control circuits" capable of distinguishing "significance" and of
+"interpretation." The telegraph signal that initially had one-to-one
+correspondence of output to the human input is now processing signals. Content
+intertwines with control. And the issue of who gets to control what comes to
+the fore right away. In US1165663, filed in 1911 and issued in 1915, Hyman
+Goldberg writes: "the object of the invention is to provide mechanism operable
+by a control sheet which is legible to every person having sufficient education
+to enable him to read." Goldberg invention involves a perforated "control
+sheet in which the control characters are in the form of ordinary language."
+Rather than using ticker tape, Goldberg's perforations form letters: the
+language of machines and the language of humans coincide. But it is not until
+much later, with the invention of higher level programming languages, that
+literature for humans and literature for machines would coincide on one and the
+same sheet. The early history of computing is punctuated by the ticker tape and
+the punch card as the preferred control and storage media of choice.
 
-The material history of the Turing machine lies in the
-
-
+With this history in mind, I am interested in reformulating the metaphysical
+anxiety about the relationship between literature and computation in terms of
+physical control. If you are reading these words on a screen, my message has
+reached you through a long chain of transformations: from the mechanical action
+of my keyboard, to the arrangement of electrons on magnetic storage media, to
+the modulation of fiber-optic signal, to the shimmer of the flowing liquid
+crystal. Many, many, third parties were involved in that act of communication.
+And some part of that message was used to control the electrical circuits of
+the device in your lap, in your hand, near to your eye, embodied, or embedded.
+Close reading in these conditions cannot be limited to parsing the content. You
+think you are reading a book, but the book changes its internals as it receives
+the signal. For now I ask only who controls the device? But if the book is a
+pill or fused with the neural circuitry of the brain, do you know what you are
+reading?
 
 ## 1.3 WYSINAWYG (What You See Is Not Always What You Get)
 `digital, analog, interface`
