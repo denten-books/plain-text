@@ -1622,12 +1622,12 @@ computational devices. That is the story the reader gets in Kittler's media
 history and in David Golumbia's excellent *Cultural Logic of Computation.* The
 cultural logic of computation inevitably leads to a bleak vision of of Johanna
 Drucker calls "mathesis," the triumph of deterministic quantification over
-indeterminate, anti-positivist forces of the humanities. The historical link
+indeterminate, anti-positivist forces of the humanities. The historical links
 between computation and the military industrial complex, cannot be denied. But
-they are contingent, rather than causal connections. In moving towards a notion
-of critical computing, we are able to draw on a multiplicity of historical
-practices that suggest an alternative mode of engagement with the computational
-environment, one in which literature has plenty to say.
+the links are contingent, rather than necessary connections. In moving towards
+a notion of critical computing, we are able to draw on a multiplicity of
+historical practices that suggest an alternative mode of engagement with the
+computational environment, one in which literature has plenty to say.
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
@@ -1638,39 +1638,44 @@ calculators were special-purpose mechanisms, engineered to augment a specific
 type of computation, the a-machine was a universal device. In theory (and it
 was conceived as a thought experiment, at first), it could imitate any other
 mechanism for calculation because its internal state was itself symbolic. The
-device would receive input, by means of a paper ribbon containing discrete
+device would receive input by means of a paper ribbon containing discrete
 symbolic inputs. At its bare minimum, the device would need only the ribbon, a
 means of "reading," and the means of "writing," the symbols onto the tape.
 Mechanically, its movement could be restricted to simple left/right progression
-along tape. What makes it a universal Turing machine is its ability to
-internalize the symbol as part of its mechanism. The marks on the ribbon can
-symbolize what we would call "data," like the numbers to be computed for
-example. But other symbols include control codes, that alter the movement of
-the mechanism. In fact, the Turing machine does not properly differentiate
-between control code and content. Its internal state (Turing purposefully uses
-terms of sentient awareness throughout) "is determined by m-configuration
-*q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." This transition of
-symbols into machine configuration states effectively defines modern
-programming. A universal machine, unlike other, definite, single-purpose and
-limited-state mechanisms (like a clock for example), contains the ability to take on
-differing internal symbolic configurations. It can imitate a clock, and Turing
-thought that with time it would be able to imitate humans as well.
+along tape. What makes it a *universal* Turing machine is its ability to
+internalize the symbol as part of its mechanism. The symbolic input can
+symbolize computable data (letters and numbers), but it can also function as
+control code ("move left," "erase mark") altering the movement of the
+mechanism. In fact, the Turing machine does not properly differentiate between
+content and control code . Its internal state (Turing purposefully uses terms
+of sentient awareness throughout) "is determined by m-configuration
+*q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." In other words,
+whatever initial configuration the physical mechanism is in, its next state is
+defined by the its initial configuration and the scanned symbol. The material
+and the symbolic fuse into one. This transition of symbols into machine
+configuration states effectively defines modern programming. A universal
+machine, unlike other, definite, single-purpose and limited-state mechanisms
+(like a clock for example), contains the ability to take on differing internal
+symbolic configurations. It can imitate a clock, an abacus, a scale, and,
+Turing thought that with time it would be able to imitate humans as well.
 
-Turing rightfully deserves the credit for articulating the archetype of a
+Alan Turing rightfully deserves the credit for articulating the archetype of a
 universal machine in its simplest logical form, and then for applying that
 theoretical device to the problem of computable numbers. But, as a device, the
 Turing machine borrows from a number of designs, that, together, incrementally,
-bring the universal computer into material existence. Although Turing's original
-article did not include any drawings, he describes the a-machine in terms of
-paper tape medium, scanning, erasing, "writing down notes," "external
-operators," and "moves" of the mechanism. If Turing were to file a US-based
-patent for his device (rather than describing it in the abstract only) he would
-have to cite prior art in the mechanisms like the "Numeral adding or
-subtracting attachment for type-writing machines" (US517735, filed in 1893 and
-issued in 1894), "Combined Type-Writing and Computing Machine" (US990238,
-1896-1897), "Computing Attachment for Typewriters" (US1162730, 1908-1915),
-"Computing Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and
-Adding Machine" (US1244398, 1910-1917) among others.
+bring the universal computer into material existence. Although Turing's
+original article did not include any drawings, he describes the a-machine in
+terms of paper tape medium, scanning, erasing, "writing down notes," "external
+operators," and "moves" of the mechanism. From an engineering standpoint,
+Turing's machine can be reduced to the mechanism for "reading" and "writing"
+symbols onto and from paper storage media, and the ribbon itself used to
+control the motion of the device. In the United States these elements would
+have prior art in the mechanisms like the "Numeral adding or subtracting
+attachment for type-writing machines" (US517735, filed in 1893 and issued in
+1894), "Combined Type-Writing and Computing Machine" (US990238, 1896-1897),
+"Computing Attachment for Typewriters" (US1162730, 1908-1915), "Computing
+Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and Adding
+Machine" (US1244398, 1910-1917) among others.
 
 By the end of the 19th century a number of lesser mechanisms anticipate the
 functional elements of Turing's device. By 1930s, these inventions not only
@@ -1679,75 +1684,95 @@ manufacture of computing scales, dial recorders, electric tabulating machines,
 and computing typewriters made by companies like Underwood Computing Machine,
 Electromatic, and International Business Machines (IBM). Rather than a singular
 eureka moment, the invention of the universal machine should be viewed as a
-historical process that culminates with Turing's description. That process can
-be reduced to four key elements, each necessary for the functioning of the
-Turing machine (and each in themselves representing a long lineage of
-technological development):
+gradual historical process that culminates with Turing's ideal specifications.
+Three key stages, each in itself encompassing a long lineage of technological
+development, stand out as absolutely necessary for the complete development:
 
-1. The mechanization of type. With the invention of the typewriter, the
-   variability of hand-written script can be reduced to a limited set of discrete
-characters. The process of normalization is by no means complete today, as
-attested by the proliferation of character encodings and the difficulty that
-research on optical text recognition faces in dealing with non-Western writing
-systems.
+1. The mechanization of type. With the invention of the movable type and the
+   typewriter, the variability of hand-written script can be normalized to a
+limited set of discrete characters. The process of normalization continues
+today as contemporary technologies like natural language processing and optical
+character recognition struggle in dealing with non-Western writing systems.
 
-2. Remote communications (geographical displacement). The telegraph removes
-   writing from its immediate physical environment. Authorial presence, already
-weakened by writing as such, is further distanced from the contexts of
-utterance. The telegraph lengthens the chain of technological and political
-mediation in the transmission of information. The telegram differs from the
-letter in that it is transcribed, encoded, decoded, and transcribed again. The
-lengthening further weakens the authorial function: where a letter needs to be
-"forged" to mis-represent authorial intent, third parties (like the telegraph
-clerk) are explicitly present in the act of transmission. The clerk's (or the
-censor's) "signature" cannot be distinguished from the author's (a common
-literary plot device in the fiction of the period).
+2. Remote communications (geographical displacement). Mechanical type can now
+   be converted into electrical signals. The telegraph removes writing from its
+immediate physical environment. Authorial presence, already weakened by writing
+as such, is further distanced from the contexts of utterance. The telegraph
+lengthens the chain of technological and political mediation in the
+transmission of information. The telegram differs from the letter in that it is
+transcribed, encoded, decoded, and transcribed again. The lengthening further
+weakens the authorial function: where a letter must be "forged" to
+mis-represent authorial intent, third parties (like the telegraph clerk) are
+explicitly present in the act of telegraphic transmission. In the absence of
+the identifying "hand," the telegraph clerk's (or the censor's) mark cannot be
+distinguished from the author's (a common literary plot device in the fiction
+of the period). The notion of the telegram's "fidelity" therefore becomes an
+attribute of the communication channel as a whole.
 
-3. Automation and programmable media(tempral displacement). Again, already a
-   property of all writing, temporal displacement itensifies as the telegraph
-is coupled with the typewriter, while the typewriter no longer operates
-directly on physical media. A number of inventions at the end of the 19th
-century pertain to "circuit-controlling devices controlled by a traveling
-perforated strip or tape" (from US patent number 500226, filed Charles Cutriss
-in 1893 [@cutriss1893]). The initial idea of using perforated tape to control
-curcuits remotely @US158156, by Charles Wheatstone in 1874. Prior to perforated
-tape, the transmission of a message by telegraph required the presence of a
-skilled operator, able to transcribe messages from text to Morse code, and into
-the physical motion of a lever-operated curcuit. Typewriters and telegraphs
-relied on a human as an interface, in other words. The transcription of text
-into signal, and back onto paper required the real-time presence of human
-encoders and a decoders.  The perforated tape decoupled the human from the
-machine, allowing for the automation of the device. In 1911, two inventors
-working on the telegraph write, "the object of our invention is to provide a
-system of telegraphy which does not require skilled operators for the
-transmission and reception of messages; which is adapted to utilize a single
-wire between two or more stations and automatically typewritten in page form
-ready for delivery to the addressee [@bumstead1916]." Note the erosion of the
-distinction between "message" and "control" in this process. Some "messsages"
-encoded into the tape are meant for human, while other are there to control
-curcuits.
+3. Automation and programmable media (temporal displacement). Programmable
+   media like perforated tape removes the human previously needed to mediate
+between mechanical and electrical signal.
 
-A flood of inventions appeared at the turn of the 20th century to capitalize on such
-decoupling. These include machines for tape-controlled telegraphic
+Again, already a
+   property of all writing, temporal displacement intensifies as the telegraph
+is coupled with the typewriter along with remova. The per
+
+"Content" intended for humans can now be mixed
+with "control code" intended to alter the operation of the receiving device.
+
+Where the first two of these developments are well covered in the literature of
+new media and communications studies, the third is most crucial and least
+understood. A number of inventions at the end of the 19th century pertain to
+"circuit-controlling devices controlled by a traveling perforated strip or
+tape" (from US patent number 500226, filed Charles Cutriss in 1893
+[@cutriss1893]). Prior to perforated tape, the transmission of messages by
+telegraph required the presence of a skilled operator, able to transcribe
+messages from text to Morse code, and into the physical motion of a
+lever-operated curcuit. In this system, the human operator acted as a silent
+interface between text and machine. The transcription of text into signal, and
+back onto paper, required the real-time presence of human encoders and a
+decoders. The perforated tape decoupled the human from the machine. In
+US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and Ralph Bumstead
+explain, "the object of our invention is to provide a system of telegraphy
+which does not require skilled operators for the transmission and reception of
+messages." Instead, the message could be transcribed into perforation and then
+fed into the device at a later time. The tape mechanics of the type writer could 
+be coupled with the electrics of the telegraph, with perforated tape as the
+mediator between the two "worlds." A number of devices were patented to
+transform the mechanical action of the typewriter into perforation and
+perforation into print, completing the curcuit between "encoding" and
+"decoding".
+
+A flood of inventions appeared at the turn of the 20th century to capitalize on
+such decoupling. These include machines for tape-controlled telegraphic
 transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
 tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
 1928-1929), and remote broadcast programming or radio and television content
-(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards and perforated tape (also used in Jacquard
-looms, as early as 1801), a message meant for another human became also a
-physical medium--bumps and holes--used to modulate electrical current. In the
-transmission of a recorded message, the message itself plays the role of a
-controlling mechanism, aiding in the mechanical movement of the transmission
-apparatus. For the automated telegraph the control code and the message are
-one: that is, the arrangement of perforation on the ticker tape affects the
-internal mechanical state of the machine. Another way to put this would be to
-say that the state of the tape-driven telegraph machine at any given time is
-also the message. The device simply converts mechanical states into signal
-(printed, audible, or otherwise). 
-
-The logical conclusion of this idea is the controller (US1165663, 1911-1915).
-
+(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards
+and perforated tape (also used in Jacquard looms, as early as 1801), a message
+meant for another human became also a physical medium--bumps and holes--used to
+modulate electrical current. In the transmission of a recorded message, the
+message itself plays the role of a controlling mechanism, aiding in the
+mechanical movement of the transmission apparatus. For the automated telegraph
+the control code and the message are one: that is, the arrangement of
+perforation on the ticker tape affects the internal mechanical state of the
+machine. Another way to put this would be to say that the state of the
+tape-driven telegraph machine at any given time is also, in part, a message
+meant for the human recepient. As one device converts human intput into
+mechanical states, and into signal, another device conversts the signal into
+mechanical states and into a human-legible message. In US1165663, filed in 1911
+and issued in 1915, Hyman Goldberg writes: "the object of the invention is to
+provide mechanism operable by a control sheet which is legible to every person
+having sufficient education to enable him to read."
 
 The material history of the Turing machine lies in the
+
+
+
+## 1.3 WYSINAWYG (What You See Is Not Always What You Get)
+`digital, analog, interface`
+
+### 1.3.1 Processing Words
 
 Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
@@ -1756,12 +1781,6 @@ style or format of the document can be decoupled from its content; the only
 format control information that need be embedded is that describing textual
 categories and boundaries, such as titles, section headings, paragraphs, and
 the like [@kernighan1078, 2116]
-
-
-## 1.3 Processing Words
-`digital, analog, interface`
-
-### 1.3.1 WYSINWYAG (What You See Is Not What You Always Get)
 Baudot code.
 
 Plain text. Fancy text. TROFF. Processed text. Instructions for the style of
