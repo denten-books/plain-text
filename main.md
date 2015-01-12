@@ -1692,7 +1692,7 @@ development, stand out as absolutely necessary for the complete development:
    typewriter, the variability of hand-written script can be normalized to a
 limited set of discrete characters. The process of normalization continues
 today as contemporary technologies like natural language processing and optical
-character recognition struggle in dealing with non-Western writing systems.
+character recognition struggle deal with non-Western writing systems.
 
 2. Remote communications (geographical displacement). Mechanical type can now
    be converted into electrical signals. The telegraph removes writing from its
@@ -1711,37 +1711,35 @@ attribute of the communication channel as a whole.
 
 3. Automation and programmable media (temporal displacement). Programmable
    media like perforated tape removes the human previously needed to mediate
-between mechanical and electrical signal.
-
-Again, already a
-   property of all writing, temporal displacement intensifies as the telegraph
-is coupled with the typewriter along with remova. The per
-
-"Content" intended for humans can now be mixed
-with "control code" intended to alter the operation of the receiving device.
+between mechanical and electrical signal. "Content" intended for humans can now
+be mixed with "control code" intended to alter the operation of the receiving
+device.
 
 Where the first two of these developments are well covered in the literature of
-new media and communications studies, the third is most crucial and least
-understood. A number of inventions at the end of the 19th century pertain to
-"circuit-controlling devices controlled by a traveling perforated strip or
-tape" (from US patent number 500226, filed Charles Cutriss in 1893
-[@cutriss1893]). Prior to perforated tape, the transmission of messages by
-telegraph required the presence of a skilled operator, able to transcribe
-messages from text to Morse code, and into the physical motion of a
-lever-operated curcuit. In this system, the human operator acted as a silent
-interface between text and machine. The transcription of text into signal, and
-back onto paper, required the real-time presence of human encoders and a
-decoders. The perforated tape decoupled the human from the machine. In
-US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and Ralph Bumstead
-explain, "the object of our invention is to provide a system of telegraphy
-which does not require skilled operators for the transmission and reception of
-messages." Instead, the message could be transcribed into perforation and then
-fed into the device at a later time. The tape mechanics of the type writer could 
-be coupled with the electrics of the telegraph, with perforated tape as the
-mediator between the two "worlds." A number of devices were patented to
-transform the mechanical action of the typewriter into perforation and
-perforation into print, completing the curcuit between "encoding" and
-"decoding".
+new media and communications studies, the third is most crucial to the
+deveopment of Turing machines, and least understood. A number of inventions at
+the end of the 19th century pertain to "circuit-controlling devices controlled
+by a traveling perforated strip or tape" (from US patent number 500226, filed
+Charles Cutriss in 1893 [@cutriss1893]). Prior to perforated tape, the
+transmission of messages by telegraph required the presence of a skilled
+operator, able to transcribe messages from text to Morse code, and into the
+physical motion of a lever-operated curcuit. In this system, the human operator
+acted as a mute interface between text and machine. The transcription of text
+into signal, and back onto paper, required the real-time presence of human
+encoders and a decoders. The perforated tape decoupled the human from the
+machine. In US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and
+Ralph Bumstead explain, "the object of our invention is to provide a system of
+telegraphy which does not require skilled operators for the transmission and
+reception of messages." Instead, the message was transcribed into perforation
+mechanichal means and then fed into the device. The tape mechanics of the type
+writer could then be coupled with the electrics of the telegraph, with
+perforated tape as the mediator between the two "worlds." A number of devices
+emerged at the time with the aim of tranforming mechanical action of the
+typewriter into perforation, and, consequently, perforation into script,
+completing the curcuit between automated "encoding" and "decoding". As one
+device converts human intput into mechanical states, and into signal, another
+device conversts the signal into mechanical states and into a human-legible
+message.
 
 A flood of inventions appeared at the turn of the 20th century to capitalize on
 such decoupling. These include machines for tape-controlled telegraphic
@@ -1751,16 +1749,31 @@ tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
 (US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards
 and perforated tape (also used in Jacquard looms, as early as 1801), a message
 meant for another human became also a physical medium--bumps and holes--used to
-modulate electrical current. In the transmission of a recorded message, the
-message itself plays the role of a controlling mechanism, aiding in the
-mechanical movement of the transmission apparatus. For the automated telegraph
-the control code and the message are one: that is, the arrangement of
-perforation on the ticker tape affects the internal mechanical state of the
-machine. Another way to put this would be to say that the state of the
-tape-driven telegraph machine at any given time is also, in part, a message
-meant for the human recepient. As one device converts human intput into
-mechanical states, and into signal, another device conversts the signal into
-mechanical states and into a human-legible message. In US1165663, filed in 1911
+mechanical movement of the transmission apparatus. For example, of the 33
+asserted claims in the the Bumstead brothers patent, the first 13 relate to the
+"transmission of intelligence [...] adapted to initiate a succession of
+electrical impulses all of which have a characther representing significance, a
+receiver adapted to detect variations in time intervals elapsing between
+sucessive impulses, a plurality of interpreting relays selectively acutated by
+said receiver, and a printed mechanism responsive for the combined action
+[@bumstead1911, 12-13]." Up to this point, the patent describes a device for
+transmititon information, from type to print. Starting with clause 14, the
+langauage changes to describe a more general "telegraph system," comprised of
+"an impulse transmitter having means to vary the time intervals between
+sucessive transmitted impulses, each time interval having a character
+representing significance, a reciever responsive to said devices, and signal,
+distributing, interpreting, and recording devices *responsive to the contiguous
+significant time intervals define by the impulses* [@bumstead1911, 14 (emphasis
+mine)]." For the automated telegraph the control code and the message are one:
+that is, the arrangement of perforation on the ticker tape affects the internal
+mechanical configuration of the machine. Another way to put this would be to
+say that the state of the tape-driven telegraph machine at any given time is
+also, in part, a message meant for the human recepient.
+
+### Literature as content and control (bring it back)
+
+The language of circuits immedeatly matter of interpretation.
+In US1165663, filed in 1911
 and issued in 1915, Hyman Goldberg writes: "the object of the invention is to
 provide mechanism operable by a control sheet which is legible to every person
 having sufficient education to enable him to read."
