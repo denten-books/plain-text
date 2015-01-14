@@ -1812,7 +1812,7 @@ neural circuitry of the brain, do you know what you are reading?
 ## 1.3 We Have Always Been Digital
 `digital, analog, interface`
 
-#### 1.3.1 Look and Feel
+#### 1.3.1 Digital Aesthetics
 
 What does the digital look like? It looks blue for one--not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -1893,7 +1893,7 @@ chapter, I want to understand what the philosophers of the digital mean by that
 condition: to "come to terms," to make visible, to denature, and to make
 strange again.
 
-#### 1.3.2 Motion Blur
+#### 1.3.2 Motion Blur and the Soap-Opera Effect
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -1960,9 +1960,55 @@ blur. To complicate matters further, the phase transitions of the liquid
 crystal medium are not instantaneous. The individual pixel "fades" instead of
 vanishing at once, leaving a physical (and not merely a perceptual) trail of
 not-quite transitioned pixels in the wake of object movement [@pan2005,
-@kurita2001].
+@kurita2001]. The motion blur is exacerbated when viewing film shot at 24
+frames per second, since even at high display sampling rates, the moving object
+appears at discrete stationary locations punctuated by gaps in movement, which
+the brain must again interpret as blur.
 
-To combat motion blur, LCD manufacturers introduced 
+To combat motion blur, LCD manufacturers introduced Motion-Compensated Frame
+Interpolation, by which the television itself inserts computed frames into the
+frames it receives from the original. The extra frames should, in theory, make
+the motion appear more natural, filling in the missing gaps that confuse the
+brain. We can now return to the soap opera effect. Traditionally, soap operas
+broadcast during the daytime in the United States were shot on lower quality
+video equipment as opposed to expensive film equipment used by the big-budget
+studios. Film is expensive because image is fixed onto the medium through a
+photochemical process. Like traditional film photography, raw footage must be
+developed and processed properly before it can be used for editing, playback,
+and distribution. Video recording captures images by using an electromagnetic
+transducer (tape head), capable of transforming light input into fluctuations
+of the magnetic field, storing the resulting profile on magnetic tape medium.
+Magnetic storage media is significantly more compact and cheaper than film and
+it does not require processing for playback [@edgerton2009]. Crucially for our
+story, video is shot at 60 frames per second, a recording resolution that
+together with distinctive color and audio aberrations produces what viewers
+perceive as the "video" look. By inserting extra frames into the moving image,
+modern televisions in effect alter the perception of the expensive (albeit
+slow) film to make it look like the faster and technically higher fidelity
+video format. The net result is the soap opera affect. (It would be interesting
+to try to create the reverse effect by reducing the fidelity of video to 24
+frames per second).
+
+The soap-opera effect suggests few aftereffects for the media scholar. First,
+that notions of aesthetic quality are, at least in part, bound to the material
+properties of the medium and to the processes of acculturation associated with
+the corresponding viewing practices. MCFI-enhanced cinema looks cheap because
+it begins to approach the physical conditions of soap-opera video viewing and
+production. Anecdotal evidence implicates higher-level aspects of cinema
+appreciation, that should not at first glance be tied to the medium. The
+quality of acting and dialog for example, seem to degrade along with perceived
+visual debasement in the process of adding extra frames into the picture.
+
+The second effect challenges popular notions of the digital as a condition that
+reduces the continuous, analog world into more discrete, discontinuous
+elements, with the metaphysical corollary that the process somehow debases, not
+just cinema, but human experience as a whole. A close analysis of the soap
+opera effect reveals "analog" film as a low-fidelity, highly fragmented medium
+perceived as somehow the more accurate representation of the reality than its
+high-fidelity, more continuous medium of video.
+
+
+#### 1.3.3 Philosophy of Digital
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera
 effect. Digitality is something worthy of being preserved.
@@ -1976,7 +2022,6 @@ threat, Kittler and Golumbia.
 
 Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
-#### 1.3.3 Philosophy of Digital
 Language. 
 Text is digital. The work is not.
 
