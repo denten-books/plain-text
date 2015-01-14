@@ -1893,7 +1893,7 @@ chapter, I want to understand what the philosophers of the digital mean by that
 condition: to "come to terms," to make visible, to denature, and to make
 strange again.
 
-#### 1.3.2 Uncanny Valley
+#### 1.3.2 Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -1909,23 +1909,60 @@ silent cinema. The style of acting seems forced and "over the top." One cannot
 imagine people took *that* sort of art seriously. The soap opera effect elicits
 a similar response in recently made films.
 
-The technology behind MCFI was devoloped in response to motion blur particular
+The technology behind MCFI was developed in response to motion blur particular
 to flat panel liquid crystal displays (LCDs). LCDs work by passing light
-through a liquid cristal medium, sandwhiched between two polarized light
+through a liquid crystal medium, sandwiched between two polarized light
 filters, rotated at 90 degrees to each other. As light enters through one side,
 it twists following the slightly curved molecular structure of the crystal,
-passing through both filters. The structure unwinds when it recieves an
-electircal current, effectively blocking the light from passing through. By
-these means, a series of small pin-hole-like pixels can be turned on and off to
-create shapes, letters, and images on the screen.
+allowing the beam to rotate and to pass through both sides. The structure
+unwinds when it receives an electrical current, effectively blocking the light
+from passing through the medium. By these means, a series of small
+pin-hole-like pixels can be turned on and off to create shapes, letters, and
+images on the screen [See @mishima2004].
 
 Traditional film projectors advance from one frame to the next at a rate of 24
-times each second to match the rate at which the film is capture by 
+times each second to match the rate at which the film is captured by
+traditional film cameras. The projector's light flickers two to three times per
+frame to produce the effect of continuous motion, giving the projector a
+"refresh rate" of 48-72 cycles per second, or Hertz (Hz). Without this strobing
+effect, under continuous light, the secession of frames moving past the light
+would appear as a blurry streak of undifferentiated images. An image persists
+in the human visual field for about 16 milliseconds after cessation a stimulus,
+giving humans the temporal resolution of around 60 images per second.
+Consequently, an average person begins to reach the state of "critical flicker
+fusion," where the strobe light is noticeable, at refresh rates lower that
+60Hz. At higher rates, the strobing light is no longer noticeable. Instead, the
+image persists through gaps between the frames to create the illusion of
+continuous motion [@coltheart, @efron1973, @brannan1992]. An LCD screen mimics
+the action of the analog projector by refreshing the screen at intervals
+between 60 and 120Hz.
 
-which affects the plarization of the the 
+To complicate matters, human vision is more sensitive to rapid motion at the
+periphery of vision, in a mechanism likely evolved to provide swift response to
+predator attack [@burr1981, @didyk2010]. As humans move closer to their screens
+(as when sitting in front of a computer monitor), more of the image enters the
+field of peripheral vision, making the viewer more sensitive to screen flicker.
+Furthermore, being closer to the screen increases the angular velocity of any
+depicted moving object. When viewed from afar, the movement of several inches
+on the screen corresponds to a change in the sight angle of several degrees,
+and likely a few millimeters of iris movement. When viewed up close, the same
+several inches represent a much larger angle and more eye movement. The human
+visual system is particularly adapt at tracking smooth horizontal movement,
+cognitively anticipating the perceived trajectory of a moving object, while
+stabilizing the retinal image and keeping it at the center of the fovea in
+what's called a "smooth pursuit" lateral eye movement [@purves2015, @didyk2010,
+@rottach1996].
 
-Gaps that allow the brain to fill it.
-Striation. Preserving striation. 
+The "sample and hold" nature of the LCD display frustrates the cognitive
+assumption of smooth movement. The brain's projection of object location does
+not correspond to its image on the screen, which appears to the eye as motion
+blur. To complicate matters further, the phase transitions of the liquid
+crystal medium are not instantaneous. The individual pixel "fades" instead of
+vanishing at once, leaving a physical (and not merely a perceptual) trail of
+not-quite transitioned pixels in the wake of object movement [@pan2005,
+@kurita2001].
+
+To combat motion blur, LCD manufacturers introduced 
 
 Binary tends towards the continuoius (get the ch. Reality TV and the soap opera
 effect. Digitality is something worthy of being preserved.
