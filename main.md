@@ -96,7 +96,7 @@ humanities" (DH). Although I consciously avoid the term of the art here, I am
 friendly to some of its aims and proposed interventions. But I also agree, to
 the extent that will become clear in the concluding chapters of this book, with
 the critique advanced by scholars like Brian Lennon, David Golumbia, Tara
-McPherson, and Johanna Druckrer, who accuse DH of historical myopia,
+McPherson, and Johanna Drucker, who accuse DH of historical myopia,
 theoretical shallowness, and eurocentrism (along a long list of other sins). In
 this light, the present book can be seen as a work that attempts to straddle
 the worlds of media theory and digital humanities, philosophy of technology and
@@ -243,7 +243,7 @@ contingent, highly variable truths about how human being really are
 [^@knobe-nichols, p3]." In the field of media and literary studies, it is almost
 impossible to avoid the influence of "archeology of knowledge," as advanced in
 its many permutations by Michel Foucault and his followers. Yet, such
-archeologies deal with "artefacts" and "excavations" only as metaphors for what
+archeologies deal with "artifacts" and "excavations" only as metaphors for what
 remains, methodologically, a history of ideas.
 
 In the recent decade or so, a number of scholars are "making good" on the
@@ -259,7 +259,7 @@ iron to recreate long-lost artisanal techniques. The major insight from Smith
 and her colleagues is that traditional "book" knowledge--the kind of
 information that finds itself into novels, textbooks, and technical
 manuals--represents only a small part of the sum total of human expertise. Much
-of our knowledge is instead secreted into the artefacts and institutions where
+of our knowledge is instead secreted into the artifacts and institutions where
 it unfolds in daily practice. For literary and media scholars interested in key
 operational concepts that means supplementing theoretical insight with a robust
 sense of curiosity about the world. Digital technology, from typesetting
@@ -330,7 +330,7 @@ Mechanisms: New Media and the Forensic Imagination
 Files: Law and Media Technology by Cornelia Vismann, Stanford University press.
 Relays: Literature as an Epoch of the Postal System by Bernhard Siegert
 
-Electronic Mediations series at Minesotta Press. Reading Writing interfaces by
+Electronic Mediations series at Minnesota Press. Reading Writing interfaces by
 Lori Emerson.
 
 ## Structure
@@ -467,7 +467,7 @@ ills of the contemporary public sphere, the so called crisis in the academic
 publishing industry, for example, can be linked directly to our inability or
 unwillingness to come to terms with conditions of digital textuality. A society
 that cares about the long-term preservation of complex discursive formations
-like free speech, dialogue, and deliberation online, would do well to take heed
+like free speech, dialog, and deliberation online, would do well to take heed
 of textual building blocks at their foundation. Text matters because how it is
 encoded, transmitted, and stored, decides who gets to decode, receive, and
 access.
@@ -485,7 +485,7 @@ colloquial, pre-theoretical understanding of both person and instrument.
 However intertwined the hand and the hammer can be, there is an intuitive way
 in which a child can separate one from the other. There is deep-rooted instinct
 at work in that distinction, one that cannot and should not be dismissed as
-mere naivete. The concept of a human is in itself a powerful theoretical
+mere naiveté. The concept of a human is in itself a powerful theoretical
 construct, and, as I will argue later, one necessary, not only for the
 understanding of key concepts in literary theory and computer science, but also
 in articulating an ethics of critical computation.
@@ -609,11 +609,11 @@ namely the bodies that we touch and see. I don’t mean bodies in general – fo
 our general thoughts are apt to be confused – but one particular body: this
 piece of wax, for example. It has just been taken from the honeycomb; it still
 tastes of honey and has the scent of the flowers from which the honey was
-gathered; its colour, shape and size are plain to see; it is hard, cold and can
+gathered; its color, shape and size are plain to see; it is hard, cold and can
 be handled easily; if you rap it with your knuckle it makes a sound. In short,
 it has everything that seems to be needed for a body to be known perfectly
 clearly. But as I speak these words I hold the wax near to the fire, and look!
-The taste and smell vanish, the colour changes, the shape is lost, the size
+The taste and smell vanish, the color changes, the shape is lost, the size
 increases; the wax becomes liquid and hot; you can hardly touch it, and it no
 longer makes a sound when you strike it. But is it still the same wax? Of
 course it is; no-one denies this. So what was it about the wax that I
@@ -681,11 +681,11 @@ authoritative text. But what should count for being authoritative? A number of
 logically possible answers find just as many ardent adherents.  For some, the
 act of deriving the authoritative text lies in reconstructing authorial intent,
 through author's diaries or first-hand witness testimony. Others place a
-premium on reconstructing and analysing the writing process itself, in what has
+premium on reconstructing and analyzing the writing process itself, in what has
 recently been dubbed as "genetic criticism  [@deppman, 1-36]". Yet another
 approach will compare multiple editions of the same text to derive a possible
 meta-text, that preserves all variation. Yet other editors will simply rely on
-their judgement to produce what they believe is a "true" text based on a number
+their judgment to produce what they believe is a "true" text based on a number
 of personal and eclectic considerations [@greg, @bowers, @mcgann]. All of these
 approaches have at least this one thing in common: behind the fuzzy profusion
 of textual material they perceive the outlines of a single, unified work. As a
@@ -821,7 +821,7 @@ material and design, which should not be treated at the same layer of analysis.
 In Plato we find a number of words that, depending on the translation, stand in
 for the English "form." These include *eidos* (essence), *idea* (idea),
 *morphe* (shape), and *phainomena* (appearance).  Compare for example the
-translations from Plato's *Timaeus*. In the dialogue, Timaeus, the titular
+translations from Plato's *Timaeus*. In the dialog, Timaeus, the titular
 character, explains the nature of the physical world. Similarly to the passage
 about wax by Descartes (quoted in a footnote earlier), Timaeus notices that
 some elements, like water, change their appearance (*φανταζομένων*) while
@@ -864,7 +864,7 @@ instantiations of the essence.[^ln11-plato]
 [^ln11-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
 originals side-by-side with translations, maps, dictionaries, and other
-parall2l texts. Sources consulted on the Plato's theory of forms include @rist,
+parallel texts. Sources consulted on the Plato's theory of forms include @rist,
 @woods, @dixsaut, @hegel1870.
 
 Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
@@ -942,13 +942,13 @@ made of silicone or of stone.
 
 It is a commonplace sentiment now that the printing press brought with it the
 Protestant Reformation [@dittmar, @febvre-martin2010, @mcluhan1962,
-@eisenstein1979]. Moveable type is responsible for at least a part of that
+@eisenstein1979]. Movable type is responsible for at least a part of that
 story. The mechanization of print is what turned writing from an autographic
 into a supremely allographic art. The Gutenberg press helped place a copy of
 the bible into the hands of every ordinary believer. That meant also minimizing
 the role of the priest as a privileged interpreter.  Without books in hand
 Martin Luther could not have written "all who are in the church are priests
-[@luther1957]." Moveable type lifted text from rarefied media of leather and
+[@luther1957]." Movable type lifted text from rarefied media of leather and
 parchment. But until well into the middle of the 20th century, the printing
 press remained in the realm of big technology: expensive, centralized,
 unwieldy, and relatively easy to suppress. The liberatory potential of media
@@ -966,7 +966,7 @@ it deserves. In the United States, the copy machine placed a smaller version of
 Gutenberg press into every office. And it allowed for the flourishing of a
 vibrant samizdat (self-publishing) scene, usually connected to underground
 culture movements without access to conventional publishing: punks, skinheads,
-computer- and game- geeks, feminists, fans of science fiction and queercore
+computer- and game- geeks, feminists, fans of science fiction and queer-core
 music [@klanten2011, @piepmeier2009, @duncombe2008].
 
 The word "xerox" firmly entered the English lexicon by the
@@ -1028,7 +1028,7 @@ devices like the British Bombe, and the German Enigma.  For some, that
 genealogy implies a sinister metaphysical threat personal computing poses for
 the development of humanity [@lennon2014, @golumbia2009, @drucker2001]. "Under
 the conditions of high technology, literature has nothing more to say. It ends
-in cryptograms that defy interpretation and only permit interception," Fredrich
+in cryptograms that defy interpretation and only permit interception," Friedrich
 Kittler wrote in his influential *Gramaphone, Film, Typewriter*. His book ends
 on a downright sinister note: "And while professors are still reluctantly
 trading in their typewriters for word processors, the NSA is preparing for the
@@ -1194,12 +1194,12 @@ Matters always central to the field of literary studies remain vitally
 important to the functioning of modern society. Literature broadly conceived
 provides fertile grounds for collaboration between diverse disciplines
 interested in the changing dynamics of narrative, interpretation, language,
-form, prosody, composition, dialogue, discourse, story, genre, authorship,
+form, prosody, composition, dialog, discourse, story, genre, authorship,
 influence, and text. It is in this core conceptual cluster of operational terms
 that I want to locate a notion of poetics, poetics capable of addressing not
 only the machinations of poetry and prose, but also of code, document,
 inscription, file, record, note, manual, journal, list, script, and archive.
-Rather than picky eaters, I imagine my fellow travellers as voracious omnivores
+Rather than picky eaters, I imagine my fellow travelers as voracious omnivores
 of text.
 
 This is not to say that I advocate ignorance, nor do I follow the Russian
@@ -1257,7 +1257,7 @@ literary scholarship, reducing literature to its ornamental function, as a
 condition.[^ln12-menand]
 
 [^ln12-menand]: I am echoing Louis Menand's "the version of the humanities that
-would make many nonhumanists most comfortable today is the version in which art
+would make many non-humanists most comfortable today is the version in which art
 and literature are ornaments on or neat illustrations of empirical accounts of
 human life" [@mendand2005, 10-17].
 
@@ -1332,7 +1332,7 @@ writes: "The categories [of the literary, the poetic] define their subject and
 erect value criteria for admission, so that for the work to attain the
 definition is for it to qualify as a valued individual in a valued class. The
 work comes to be discovered, defined, and valued as poetry only by a way of a
-pre-existing generic characteristic which the critic began by adopting as his
+preexisting generic characteristic which the critic began by adopting as his
 perspective glass to envision it." All this to say that even for scholars like
 Frye, the process of valuation happens before the encounter with the text. In
 designating the poem as a poem, the critic already has brought with him a set
@@ -1357,7 +1357,7 @@ conundrum. For even as the canon grows to include previously excluded voices,
 those voices take on the shape of soft acquiescence. The custodians of the
 Western canon "cannot grasp or acknowledge" that alternative forms of
 litirariness and textuality can take on the functions of Dante or Homer for
-others [@smith1983 1-35]. I am appropriately galvanized by Smith's fiery
+others [@smith1983, 1-35]. I am appropriately galvanized by Smith's fiery
 rhetoric, but must admit that not much has changed since the 1980s. The
 compromise does not approach the very peculiarity of the question itself. Must
 we value the object of our study?
@@ -1414,7 +1414,7 @@ their time handling inscription devices like printers and computer consoles.
 
 Although much cited in the study of culture, science, and technology,
 *Laboratory Life* had curiously little impact on the study of literature, even
-though Latour and Wollgar borrowed much the other way around. In the 1986
+though Latour and Woolgar borrowed much the other way around. In the 1986
 postscript to the American edition, they remark on the broad trend in literary
 theory to treat texts as objects of interpretation, disavowing the kind of
 criticism aimed at the "real meaning of texts," at "what the text says," "what
@@ -1810,7 +1810,7 @@ ask only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
 ## 1.3 We Have Always Been Digital
-`digital, analog, interface`
+`digital, analog`
 
 #### 1.3.1 Digital Aesthetics
 
@@ -1893,7 +1893,88 @@ chapter, I want to understand what the philosophers of the digital mean by that
 condition: to "come to terms," to make visible, to denature, and to make
 strange again.
 
-#### 1.3.2 Motion Blur and the Soap-Opera Effect
+#### 1.3.2 Philosophy of Digital
+
+The prevailing understanding of the distinction between digital and analog lies
+in the difference between discrete and continuous quantities. For example, in a
+popular book about what a "well-informed person should know about computers,"
+Brian Kernighan writes about "analog" as something meant to convey "the idea of
+values that change smoothly as something else changes [@kernighan2011, loc
+526]." Much of the world is analog, Kernighan explains. A water tap, a pen, or
+a car steering wheel are all examples of analog interfaces. For example, when
+riding a bicycle, turning the handlebars one way results in a corresponding
+motion of the machine. This motion is smooth. Compare that with the action of a
+light switch. The light switch can be either on or off. A range of pressure on
+the switch does not correspond to any mechanical action of the lever. A range
+of pressure sufficient to flip the switch corresponds to it being on. "Digital
+systems deal with discrete values," Kernighan writes. The switch contains a
+limited number of state possibilities (2), where the bicycle handlebars could
+be rotated in an infinite number of minutely different gradations.
+
+The philosopher Nelson Goodman makes a further distinction in writing that a
+digital system must be more than merely "discontinuous," but also "differentiated
+throughout." By contrast, analog systems are "dense" and "undifferentiated to
+the extreme [@goodman1976, 159-164]." Written language and music notation, by this definition, are
+digital systems par excellence, having the property of reducing the
+undifferentiated, analog input into discrete semantic units.[^ln13-goodman] Painting, unlike
+music and language cannot be reduced to discrete semantic units, and would be
+more of an analog system under that definition. The language of cubist
+painting that gestures toward discrete atomic components that underly all
+visual form can be seen as an attempt to move paining from analog to a digital
+art form.
+
+[^ln13-goodman]: Goodman differentiates between "syntactic" and "semantic"
+density. Some notational systems like writing and the decimal system are,
+according to Goodman, "syntactically differentiated but semantically dense."
+The key distinction for him seems to be a "limit on the length of message," by
+which I think he means something related to infinite divisibility. The decimal
+system as a whole can continue to approach a quantity indefinitely to an
+arbitrary precision, making it semantically dense, in Goodman's terms. A
+computer limits decimal precision to some limited "depth" of approximation,
+making it semantically discrete. I find this part of the argument unconvincing.
+
+Related to the notion of digital discreteness is the idea of copyability. John
+Haugeland follows in Goodman's outlines several further corollaries to Goodman's
+seminal definition: 
+
+1. Digital media allows for "flawless copying and preservation." The action of
+   the light switch can be replicated exactly, by two different people at
+different times. The pressure on the bicycle handlebars can only be
+approximated: I cannot hope to apply *exactly* the same quantity of force as
+someone else. The connection between exact duplication and medium returns us to
+the conversation about autographic and allographic works of art. Like the
+effect of pressure on bicycle steering, original paintings can only be
+approximated, not copies exactly. A Rembrandt is bound to the media in a way
+that Shakespeare's *Hamlet* is not.
+
+2. Digital systems are therefore media independent. *Hamlet* can be reproduced
+   on paper, stone, in Morse code, or bound in liquid crystal, and still be
+*Hamlet* in some natural sense of the word.
+
+To the definition of Goodman's digital systems, Haugeland therefore adds the
+notion of "feasible procedures" that result in "positive and reliable"
+procedures for reading and writing tokens [@haugeland1981, 213-225]. Writing
+more than a quarter of a century later, Matthew Katz has further expanded on
+this conversation in specifying (a) that Goodman's notion of discreteness
+properly affect the format and not the medium of representation, and, (b) that
+the distinction between digital and analog could sometimes turn on the facts
+about the user of a system of representations. To illustrate these two
+corrections, Katz uses the example of an approximate measuring system that uses a
+supply of marbles in a large beaker. The unit of measurement could be something
+like a "number of handfuls." Even though marbles are a perfectly discrete
+medium, the system is analog because it fails to establish a digital format
+required for precise reproduction. My two handfuls will be different from
+yours. A related corollary to the distinction between medium and format of the
+system, is the user's ability to perceive quantities. Were humans endowed with
+a magical ability to perceive the exact number of water molecules in a beaker,
+previously analog systems like unmarked beakers would in effect become digital.
+Similarly, were all humans endowed with hands of a definite size and volume,
+"handfuls" would also be counted as a digital system or representation. The
+physical, perceptual, and cognitive abilities of the entity doing the counting
+affects the ontological status of the system.
+
+
+#### 1.3.3 Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -2004,44 +2085,17 @@ reduces the continuous, analog world into more discrete, discontinuous
 elements, with the metaphysical corollary that the process somehow debases, not
 just cinema, but human experience as a whole. A close analysis of the soap
 opera effect reveals "analog" film as a low-fidelity, highly fragmented medium
-perceived as somehow the more accurate representation of the reality than its
+perceived as the more accurate representation of the reality than its
 high-fidelity, more continuous medium of video.
 
+Finally, the sensory, cognitive mechanisms involved in the production of the
+soap-opera effect and motion blur challenge the very possibility of truly
+analog media. The human visual sensory system is simply not capable of
+processing undifferentiated, continuous sensory input. Rather the brain creates
+the illusion of continuity by seamlessly stitching discrete and incomplete
+snapshots of the world.
 
-#### 1.3.3 Philosophy of Digital
-
-Binary tends towards the continuoius (get the ch. Reality TV and the soap opera
-effect. Digitality is something worthy of being preserved.
-Reality tv effect.
-
-The original intuition, challenged by Nelson Goodman in the
-late sixties, still holds sway in the popular imagination. On this view,
-digitality has relates to digits, just as "analog" relates to analogies. First
-use of the word digital. The distinction between analog and metaphysical
-threat, Kittler and Golumbia.
-
-Drucker "the totalizing drive of the digital [@drucker2001, 145]."
-
-Language. 
-Text is digital. The work is not.
-
-#### Copyability
-The problem of copyability.
-
-The conversation between Goodman and Genette.
-Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
-Goodman: thinking about the perfect copy. But there is a confusion here: fake
-art is not necessarily about a copy, it is about provenance. Autographic vs.
-allographic art. Whether forgery is possible. Digital vs. analog art. Analog
-art is medium bound. Digital abstracts from the material.
-
-Duplicates in Computer Science. Almost 30% of webpages are "very similar to
-other pages [@fetterly2003]."
-
-[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
-for resemblance between documents" 
-WYSINAWYG (What You See Is Not Always What You Get)
-#### WYSINAWYG (What You See Is Not Always What You Get)
+#### 1.3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
@@ -2093,9 +2147,27 @@ Genette.
 Copyability is earned.
 Plain text / binary
 
-#### Totalizing Effects of the Analog
-Wagner?
+#### 1.3.5 Conclusion
+Moving towards a functional definition of the digital. A book that cannot be
+copied returns to the analog world. Digitality as something worthy of
+preservation.
 
+
+Drucker "the totalizing drive of the digital [@drucker2001, 145]."
+
+Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
+Goodman: thinking about the perfect copy. But there is a confusion here: fake
+art is not necessarily about a copy, it is about provenance. Autographic vs.
+allographic art. Whether forgery is possible. Digital vs. analog art. Analog
+art is medium bound. Digital abstracts from the material.
+
+Duplicates in Computer Science. Almost 30% of webpages are "very similar to
+other pages [@fetterly2003]."
+
+[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
+for resemblance between documents" 
+WYSINAWYG (What You See Is Not Always What You Get)
+Wagner?
 # Part 2: Technology
 
 ## 2.1 The Medium is not the Message
