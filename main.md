@@ -2102,17 +2102,27 @@ only analog until someone cuts it into pieces. Furthermore, the ontological
 status of cake changes depending on the person doing the cutting. The cake is
 more digital, in a sense, for someone armed with a laser cutter and a
 microscope. The conundrum reveals a problem in the very formulation of the
-question: What is digitality? The digital falls apart as an ontological
+question: What constitutes the digital? The digital falls apart as an ontological
 category. Rather than a state of being, it indicates a systematic imposition of
 structure.
 
 From the instrumental point of view, to make something digital, to digitize, is
 to liberate representation from its medium and to allow for copying and
-preservation. Digitization, in that sense, is necessary prerequisite for
+preservation. That is not to say that digitization liberates thought from its
+material context, rather, it allows for its continual advancement and
+remediation.  Digitization, in that sense, is necessary prerequisite for
 culture. Without portability, all representation (art and knowledge) is tied to
-the irreproducible and untranslatable contexts of its origins. Digitality, in
-that sense, arises as a political property that regulates the transmission of
-thought as representation.
+the irreproducible and untranslatable contexts. Being digital, in that sense,
+arises as a political property that regulates transmission of thought as
+representation. Text on paper or screen remains digital only in so far as the
+medium is not fixed. Truly digital text can be placed into "other hands,"
+reliably copied, and transmitted. A document restricted or classified in any
+way looses some of the necessary preconditions for being digital. Technologies
+like "digital rights management" (DRM), which work to fix representation into a
+specific medium, transform digital content back into its media-dependent,
+irreproducible, and analog forms. Another way to put it would be to say that on
+"protected" devices the content is digital for some users and analog for others
+that don't have permissions to remidiate.
 
 #### 1.3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
