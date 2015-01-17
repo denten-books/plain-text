@@ -1774,7 +1774,6 @@ the necessary parts for a Turing machine: discrete symbolic language,
 removable storage medium, and a device that can alter its internal state based on
 the reading and writing passing symbols.
 
-### 1.2.4 The Language of Circuits
 
 Where we began with mechanisms of direct inscription (like pens and
 typewriters) we end with machines that look like typewriters, but involve
@@ -1795,21 +1794,21 @@ same sheet. The early history of computing is punctuated by the ticker tape and
 the punch card as the preferred control and storage media of choice.
 
 With this history in mind, I am interested in reformulating the metaphysical
-anxiety about the relationship between literature and computation in terms of
-physical control. If you are reading these words on a screen, my message has
-reached you through a long chain of transformations: from the mechanical action
-of my keyboard, to the arrangement of electrons on magnetic storage media, to
-the modulation of fiber-optic signal, to the shimmer of the flowing liquid
-crystal. Many, many, third parties were involved in that act of communication.
-And some part of that message was used to control the electrical circuits of
-the device in your lap, in your hand, near to your eye, embedded, or embodied.
-Close reading limited to the parsing of content risks missing the machinations
-of naked control. It looks like you are reading a book, but this book changes
-its internals as it receives instructions to inform and to control. For now I
-ask only who controls the device? But if the book is a pill or fused with the
+anxiety about literature and value formation in terms of text and control. If
+you are reading these words on a screen, my message has reached you through a
+long chain of transformations: from the mechanical action of my keyboard, to
+the arrangement of electrons on magnetic storage media, to the modulation of
+fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many,
+third parties were involved in that act of communication. And some part of
+that message was used to control the electrical circuits of the device in your
+lap, in your hand, near to your eye, embedded, or embodied. Close reading
+limited to the parsing of content risks missing the machinations of naked
+control. It looks like you are reading a book, but this book changes its
+internals as it receives instructions to inform and to control. For now I ask
+only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
-## 1.3 We Have Always Been Digital
+## 1.3 The Language of Circuits
 `digital, analog`
 
 #### 1.3.1 Digital Aesthetics
@@ -1893,7 +1892,7 @@ chapter, I want to understand what the philosophers of the digital mean by that
 condition: to "come to terms," to make visible, to denature, and to make
 strange again.
 
-#### 1.3.3 Motion Blur
+#### 1.3.2 Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -2010,11 +2009,11 @@ high-fidelity, more continuous medium of video.
 Finally, the sensory, cognitive mechanisms involved in the production of the
 soap-opera effect and motion blur challenge the very possibility of truly
 analog media. The human visual sensory system is simply not capable of
-processing undifferentiated, continuous sensory input. Rather the brain creates
-the illusion of continuity by seamlessly stitching discrete and incomplete
-snapshots of the world.
+processing undifferentiated, continuous sensory input. Rather, the brain
+creates the illusion of continuity by seamlessly stitching discrete and
+incomplete snapshots of the world into a coherent whole.
 
-#### 1.3.2 Philosophy of Digital
+#### 1.3.2 We Have Always Been Digital
 
 The prevailing understanding of the distinction between digital and analog lies
 in the difference between discrete and continuous quantities. For example, in a
@@ -2110,7 +2109,7 @@ From the instrumental point of view, to make something digital, to digitize, is
 to liberate representation from its medium and to allow for copying and
 preservation. That is not to say that digitization liberates thought from its
 material context, rather, it allows for its continual advancement and
-remediation.  Digitization, in that sense, is necessary prerequisite for
+remediation. Digitization, in that sense, is necessary prerequisite for
 culture. Without portability, all representation (art and knowledge) is tied to
 the irreproducible and untranslatable contexts. Being digital, in that sense,
 arises as a political property that regulates transmission of thought as
@@ -2121,12 +2120,60 @@ way looses some of the necessary preconditions for being digital. Technologies
 like "digital rights management" (DRM), which work to fix representation into a
 specific medium, transform digital content back into its media-dependent,
 irreproducible, and analog forms. Another way to put it would be to say that on
-"protected" devices the content is digital for some users and analog for others
-that don't have permissions to remidiate.
+"protected" devices the content is digital for some users and analog for those
+without permissions to remidiate.
 
 #### 1.3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
+The word, already a discrete quantity, becomes truly digital as form, when
+coupled loosely to its material contexts. Ontologically, text is always
+digital, first because it represents discrete units of information about the
+world, and second, because it always allows for some measure of "flawless
+copying and preservation." Copying and preservation is one of the reasons for
+writing in the first place. But, note also that "flawless copying and
+preservation" are in themselves contingent, not wholly necessary properties of
+writing. Imagine a society, for example, that positively prohibits all copying
+and preservation of written material: a place where pens, paper, computers,
+photocopiers, and word processors are all restricted as contraband. Imagine
+extreme forms of control: where the skills of reading and writing are
+themselves strongly restricted. In such a world, text loses some of its formal
+digital qualities. It becomes autographic and media bound.
+
+Understanding digitality as a format imposed onto matter, a format that
+facilitates remediation, recasts the history of computing as something other
+than simple "mathesis," the idea that computation reduces the world into more
+discrete, and therefore computable elements. This would be true if the computer
+was simply a souped-up calculator. But it is not just that: it is a
+self-amending machine for universal remediation (not limited to numbers), one
+that, depending on the user's acuity and dispensation to perceive text (and all
+information, really) as deep structure, separates readers into those for whom text
+exists as a fixed analog given, and those for whom it functions as a truly digital,
+media, capable of amending further texts, men, and machines.
+
+![Goldberg's Control](/images/controller1.jpg "@goldberg1911")
+
+"You must acknowledge that this is readable without special training," reads the
+schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
+clear that Goldberg, among others, was aware of the problem: the mechanization
+of type, automation, and remote control required specialized training. With the
+advent of the automated telegraph, content meant for people was now being
+intermixed with machine-controlling code. To combat mutual unintelligibility,
+Goldberg imagines using cards that are perforated in the shape of letters. In
+his system the letters there 
+
+
+Baudot code. Control characters.
+
+
 Friden FlexoWriter separates key strokes. > IBM MT/ST.
+
+Control patent > 
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
@@ -2136,7 +2183,7 @@ the like [@kernighan1078, 2116]
 Baudot code.
 
 Plain text. Fancy text. TROFF. Processed text. Instructions for the style of
-paragraphs, footnotes, header, footer.
+paragraphs, footnotes, header, footer. Human readability.
 
 TROFF example from @kernighan1978, 2123. 
 
