@@ -1,5 +1,5 @@
 ---
-title: "Plain Text: Poetics of Human-Computer Interaction"
+title: "[ROUGH DRAFT DO NOT CIRCULATE] Plain Text"
 author: "Dennis Tenen"
 
 ---
@@ -433,7 +433,7 @@ draft somewhere towards the second half of summer, 2015.
 
 # Part 1: Text
 
-## 1.1 Phenomenology of a Photocopier
+## Chapter 1.1: Phenomenology of a Photocopier
 `content, matter, form`
 
 ### 1.1.1 Shaping Text
@@ -1077,8 +1077,8 @@ hand: / In that case, indeed, would / The talkers of vanities / Have doubted
 [@ali, 29:48]."
 
 
-## 1.2 Literature Down to the Pixel
-`text, literature, poetics, canon, encoding`
+## Chapter 1.2: Literature Down to the Pixel
+`literature, content, control`
 
 ### 1.2.1 Hidden Values
 
@@ -1808,10 +1808,10 @@ internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
-## 1.3 The Language of Circuits
-`digital, analog`
+## Chapter 1.3: The Language of Circuits
+`digital, analog, binary`
 
-#### 1.3.1 Digital Aesthetics
+### 1.3.1 Digital Aesthetics
 
 What does the digital look like? It looks blue for one--not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -1892,7 +1892,7 @@ chapter, I want to understand what the philosophers of the digital mean by that
 condition: to "come to terms," to make visible, to denature, and to make
 strange again.
 
-#### 1.3.2 Motion Blur
+### 1.3.2 Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -2013,7 +2013,7 @@ processing undifferentiated, continuous sensory input. Rather, the brain
 creates the illusion of continuity by seamlessly stitching discrete and
 incomplete snapshots of the world into a coherent whole.
 
-#### 1.3.2 We Have Always Been Digital
+### 1.3.2 We Have Always Been Digital
 
 The prevailing understanding of the distinction between digital and analog lies
 in the difference between discrete and continuous quantities. For example, in a
@@ -2123,7 +2123,7 @@ irreproducible, and analog forms. Another way to put it would be to say that on
 "protected" devices the content is digital for some users and analog for those
 without permissions to remidiate.
 
-#### 1.3.4 WYSINAWYG (What You See Is Not Always What You Get)
+### 1.3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 The word, already a discrete quantity, becomes truly digital as form, when
 coupled loosely to its material contexts. Ontologically, text is always
@@ -2150,7 +2150,7 @@ information, really) as deep structure, separates readers into those for whom te
 exists as a fixed analog given, and those for whom it functions as a truly digital,
 media, capable of amending further texts, men, and machines.
 
-![Goldberg's Control](/images/controller1.jpg "@goldberg1911")
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
 
 "You must acknowledge that this is readable without special training," reads the
 schematic illustration to a Goldberg's 1911 patent for a "controller." "My
@@ -2164,12 +2164,18 @@ clear that Goldberg, among others, was aware of the problem: the mechanization
 of type, automation, and remote control required specialized training. With the
 advent of the automated telegraph, content meant for people was now being
 intermixed with machine-controlling code. To combat mutual unintelligibility,
-Goldberg imagines using cards that are perforated in the shape of letters. In
-his system the letters there 
-
+Goldberg imagines using cards, perforated in the shape of the English alphabet.
+Besides carying (human-readable) content, the perforations do "double duty" to
+mechanichally manipulate the machines "blocks," "handles," "terminal blades,"
+and "plungers." Goldberg's telegraph is one of the earliest plain text machines
+I could find: a device where the unit of information meant for a human
+coincides with machine control code.
 
 Baudot code. Control characters.
 
+ASCII.
+
+HTML. Microsoft Word. 
 
 Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
@@ -2223,7 +2229,6 @@ Genette.
 Copyability is earned.
 Plain text / binary
 
-#### 1.3.5 Conclusion
 Moving towards a functional definition of the digital. A book that cannot be
 copied returns to the analog world. Digitality as something worthy of
 preservation.
