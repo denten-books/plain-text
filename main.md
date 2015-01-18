@@ -2167,19 +2167,23 @@ intermixed with machine-controlling code. To combat mutual unintelligibility,
 Goldberg imagines using cards, perforated in the shape of the English alphabet.
 Besides carying (human-readable) content, the perforations do "double duty" to
 mechanichally manipulate the machines "blocks," "handles," "terminal blades,"
-and "plungers." Goldberg's telegraph is one of the earliest plain text machines
+and "plungers."
+
+#### Baudot and the International telegraph alphabet
+The turn of the 20th century, represents a piviotal moment in the development
+of universal Turing machine. Goldberg's telegraph 
+
+Goldberg's telegraph is one of the earliest plain text machines
 I could find: a device where the unit of information meant for a human
 coincides with machine control code.
 
-Baudot code. Control characters.
+Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
-ASCII.
+#### ASCII.
 
 HTML. Microsoft Word. 
 
-Friden FlexoWriter separates key strokes. > IBM MT/ST.
-
-Control patent > 
+#### TROFF
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
@@ -2226,7 +2230,6 @@ and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
 text is an "ordered hierarchy of content objects" [^@derose]. Goodman and
 Genette.
 
-Copyability is earned.
 Plain text / binary
 
 Moving towards a functional definition of the digital. A book that cannot be
@@ -2247,12 +2250,18 @@ other pages [@fetterly2003]."
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
 for resemblance between documents" 
-WYSINAWYG (What You See Is Not Always What You Get)
-Wagner?
+
+I return then to the assertation that some modalities of digital textuality
+obscure the very real mechanisms of control lurking beneath the content, but
+also, on a more hopeful note, that many contempuary personal computing devices
+also ebody a more transparent model of textuality: one that expresses control
+of medium, form, and content explicitly. The notion of critical computing
+practice involves SOMETHING to protect that tradition.
+
 # Part 2: Technology
 
 ## 2.1 The Medium is not the Message
-`media, message, mode`
+`medium, message, mode`
 
 ### Intro
 What happens in the change from speaking to writing? The violin (copy from
