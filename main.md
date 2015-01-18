@@ -1809,7 +1809,7 @@ only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
 ## Chapter 1.3: We Have Always Been Digital
-`digital, analog, binary`
+`digital, analog, binary, encoding`
 
 ### 1.3.1 Digital Aesthetics
 
@@ -2013,7 +2013,7 @@ processing undifferentiated, continuous sensory input. Rather, the brain
 creates the illusion of continuity by seamlessly stitching discrete and
 incomplete snapshots of the world into a coherent whole.
 
-### 1.3.2 The Language of Curcuits
+### 1.3.2 The Language of Circuits
 
 The prevailing understanding of the distinction between digital and analog lies
 in the difference between discrete and continuous quantities. For example, in a
@@ -2145,7 +2145,7 @@ than simple "mathesis," the idea that computation reduces the world into more
 discrete, and therefore computable elements. That idea would be true if the
 computer was simply a souped-up calculator. But computers are not just that:
 they are self-amending machines for universal remediation (not limited to
-numbers), machnes that, depending on the user's acuity and dispensation to
+numbers), machines that, depending on the user's acuity and dispensation to
 perceive text (and all information, really) as deep structure, separate
 readers into those for whom text exists as a fixed analog given, and those for
 whom they functions as a truly digital medium, capable of amending further texts,
@@ -2177,39 +2177,67 @@ the invention of Morse Code in the first half of 19th century, a number of
 formats were proposed to encode human languages into binary formats that rely
 on signal modulation for transmission. As telegraph communication spread across
 national boundaries, agreements were needed to standardize conventions for
-equipment and message encoding. Such agreements were handled on a regional,
-ad-hoc basis until 1865, with the creation of the International Telegraph Union
-(ITU). The international telegraph conference in Paris held between March 1st
-and May 17th of 1865, adopted the use of a modified Morse code character set,
-containing 33 Latin letters (including characters from the French, German, and
-Spanish alphabets), 10 numbers (0-9), 14 punctuation marks (including a
-fraction bar), and 10 control codes (including "end of service," "attention,"
-and "error"). Significantly, ITU also set international tariffs related to
-telegraph communication [@ITU1865]. During the International Telegraph
-Conference in Lisbon, held in the Summer of 1908, the ITU specified two
-additional formats: Hughes and Baudot. These differed from Morse code in that
-both systems were designed for rapid input into a printing telegraph, using
-something akin to chords on piano-like keys.
+equipment and message encoding [@Journal télégraphique, 90]. Such agreements
+were handled on a regional, ad-hoc basis until 1865, with the creation of the
+International Telegraph Union (ITU). The international telegraph conference in
+Paris held between March 1st and May 17th of 1865, adopted the use of a
+modified Morse code character set, containing 33 Latin letters (including
+characters from the French, German, and Spanish alphabets), 10 numbers (0-9),
+14 punctuation marks (including a fraction bar), and 10 control codes
+(including "end of service," "attention," and "error"). Significantly, ITU also
+set international tariffs related to telegraph communication [@ITU1865]. During
+the International Telegraph Conference in Lisbon, held in the Summer of 1908,
+the ITU specified two additional formats: Hughes and Baudot. These differed
+from Morse code in that both systems were designed for rapid input into a
+printing telegraph, using a piano-like keyboard to create rapid chord
+progressions.
 
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+ITA-1, like the Baudot, was a five "bit" code, where each letter and control
+character was represented by a combination of negative and positive electrical
+currents. For example, in ITA-1 the letter "A" and the number "1" are both
+represented by `-++++`; "X" and "," by `+-++-`, and the "error" code by `+++--`
+[@ITA1932, 34]. Baudot and ITA-1 encodings assumed "always on" communication
+between two synchronized devices. For the receiver to recognize a character
+amidst channel noise it must receive that character in the same "time frame" as
+the transmitter. This property also allowed for multiplexed communication,
+where characters received in one time frame were recognized to belong to one
+message and characters received in another time frame were part of another. In
+a simplified way, imagine characters at even time intervals belonging to
+message A, and at odd time intervals to message B. The International
+Telegraphic Alphabet No. 2 instead assumed "start-stop" devices for
+asynchronous communication. Unlike multiplexed telegraphs that were always on
+and listening for the signal, telegraphs of the "start-stop" type would "come
+alive" only under a "special arrangement" between the communicating parties.
+Because the devices are not synchronized, the pause between each transmitted
+character can vary in length. For this reason ITA-2 includes two extra bits for
+indicating "start" and stop" elements.  The letter "A" and a hyphen in ITA-2
+would be encoded as `0110001`, where ones and zeros represent the absence and
+the presence of current[@ITU1932, 36].[^ln13-current]
 
-Baudot and Hughes devices 
+[^ln13-current]: ITA-2 could also be adopted to work with "double current"
+devices, in which case 0 would represent "negative current" [ITU1932, 36].
 
-International Telegraph Code No. 1.
+ASCII.
 
-Goldberg's telegraph is one of the earliest plain text machines
-I could find: a device where the unit of information meant for a human
-coincides with machine control code.
+Engineers carrying cards
+
+Plain language and secret language (telegraph regulations 1932).
+"Plain language is that which presents an intelligible meaning in one or more
+of the languages authorized for international telegraph correspondence, each
+word and each expression having the meaning normally assigned to it in the
+language to which it belongs" [@ITU1932, 12]. "Code language is composed either of artificial words, or of real words not
+used in the meaning normally assigned to them in the language to which they
+belong and consequently not forming intelligeble phrases" [@ITU1932, 12].
+
+### 1.3.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
-#### ASCII.
+TROFF
 
 HTML. Microsoft Word. 
-
-#### Plain text
-
-#### WYSINAWYG (What You See Is Not Always What You Get)
-TROFF
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
