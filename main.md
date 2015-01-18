@@ -1808,7 +1808,7 @@ internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
-## Chapter 1.3: The Language of Circuits
+## Chapter 1.3: We Have Always Been Digital
 `digital, analog, binary`
 
 ### 1.3.1 Digital Aesthetics
@@ -2013,7 +2013,7 @@ processing undifferentiated, continuous sensory input. Rather, the brain
 creates the illusion of continuity by seamlessly stitching discrete and
 incomplete snapshots of the world into a coherent whole.
 
-### 1.3.2 We Have Always Been Digital
+### 1.3.2 The Language of Curcuits
 
 The prevailing understanding of the distinction between digital and analog lies
 in the difference between discrete and continuous quantities. For example, in a
@@ -2123,7 +2123,7 @@ irreproducible, and analog forms. Another way to put it would be to say that on
 "protected" devices the content is digital for some users and analog for those
 without permissions to remidiate.
 
-### 1.3.4 WYSINAWYG (What You See Is Not Always What You Get)
+### 1.3.4 Digital Formats
 
 The word, already a discrete quantity, becomes truly digital as form, when
 coupled loosely to its material contexts. Ontologically, text is always
@@ -2137,18 +2137,19 @@ and preservation of written material: a place where pens, paper, computers,
 photocopiers, and word processors are all restricted as contraband. Imagine
 extreme forms of control: where the skills of reading and writing are
 themselves strongly restricted. In such a world, text loses some of its formal
-digital qualities. It becomes autographic and media bound.
+digital qualities. It becomes autographic and media-bound.
 
 Understanding digitality as a format imposed onto matter, a format that
 facilitates remediation, recasts the history of computing as something other
 than simple "mathesis," the idea that computation reduces the world into more
-discrete, and therefore computable elements. This would be true if the computer
-was simply a souped-up calculator. But it is not just that: it is a
-self-amending machine for universal remediation (not limited to numbers), one
-that, depending on the user's acuity and dispensation to perceive text (and all
-information, really) as deep structure, separates readers into those for whom text
-exists as a fixed analog given, and those for whom it functions as a truly digital,
-media, capable of amending further texts, men, and machines.
+discrete, and therefore computable elements. That idea would be true if the
+computer was simply a souped-up calculator. But computers are not just that:
+they are self-amending machines for universal remediation (not limited to
+numbers), machnes that, depending on the user's acuity and dispensation to
+perceive text (and all information, really) as deep structure, separate
+readers into those for whom text exists as a fixed analog given, and those for
+whom they functions as a truly digital medium, capable of amending further texts,
+men, and machines.
 
 ![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
 
@@ -2165,13 +2166,35 @@ of type, automation, and remote control required specialized training. With the
 advent of the automated telegraph, content meant for people was now being
 intermixed with machine-controlling code. To combat mutual unintelligibility,
 Goldberg imagines using cards, perforated in the shape of the English alphabet.
-Besides carying (human-readable) content, the perforations do "double duty" to
-mechanichally manipulate the machines "blocks," "handles," "terminal blades,"
+Besides carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machines "blocks," "handles," "terminal blades,"
 and "plungers."
 
-#### Baudot and the International telegraph alphabet
-The turn of the 20th century, represents a piviotal moment in the development
-of universal Turing machine. Goldberg's telegraph 
+The turn of the 20th century, represents a pivotal moment in the development of
+universal Turing machines. The advent of removable storage media, like control
+cards and ticker tape, allowed for the automation of the telegraph.  Following
+the invention of Morse Code in the first half of 19th century, a number of
+formats were proposed to encode human languages into binary formats that rely
+on signal modulation for transmission. As telegraph communication spread across
+national boundaries, agreements were needed to standardize conventions for
+equipment and message encoding. Such agreements were handled on a regional,
+ad-hoc basis until 1865, with the creation of the International Telegraph Union
+(ITU). The international telegraph conference in Paris held between March 1st
+and May 17th of 1865, adopted the use of a modified Morse code character set,
+containing 33 Latin letters (including characters from the French, German, and
+Spanish alphabets), 10 numbers (0-9), 14 punctuation marks (including a
+fraction bar), and 10 control codes (including "end of service," "attention,"
+and "error"). Significantly, ITU also set international tariffs related to
+telegraph communication [@ITU1865]. During the International Telegraph
+Conference in Lisbon, held in the Summer of 1908, the ITU specified two
+additional formats: Hughes and Baudot. These differed from Morse code in that
+both systems were designed for rapid input into a printing telegraph, using
+something akin to chords on piano-like keys.
+
+
+Baudot and Hughes devices 
+
+International Telegraph Code No. 1.
 
 Goldberg's telegraph is one of the earliest plain text machines
 I could find: a device where the unit of information meant for a human
@@ -2183,7 +2206,10 @@ Friden FlexoWriter separates key strokes. > IBM MT/ST.
 
 HTML. Microsoft Word. 
 
-#### TROFF
+#### Plain text
+
+#### WYSINAWYG (What You See Is Not Always What You Get)
+TROFF
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
@@ -2230,33 +2256,17 @@ and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
 text is an "ordered hierarchy of content objects" [^@derose]. Goodman and
 Genette.
 
-Plain text / binary
-
-Moving towards a functional definition of the digital. A book that cannot be
-copied returns to the analog world. Digitality as something worthy of
-preservation.
-
-
-Drucker "the totalizing drive of the digital [@drucker2001, 145]."
-
-Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
-Goodman: thinking about the perfect copy. But there is a confusion here: fake
-art is not necessarily about a copy, it is about provenance. Autographic vs.
-allographic art. Whether forgery is possible. Digital vs. analog art. Analog
-art is medium bound. Digital abstracts from the material.
-
-Duplicates in Computer Science. Almost 30% of webpages are "very similar to
-other pages [@fetterly2003]."
-
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
 for resemblance between documents" 
 
+Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 I return then to the assertation that some modalities of digital textuality
 obscure the very real mechanisms of control lurking beneath the content, but
 also, on a more hopeful note, that many contempuary personal computing devices
 also ebody a more transparent model of textuality: one that expresses control
-of medium, form, and content explicitly. The notion of critical computing
-practice involves SOMETHING to protect that tradition.
+of medium, form, and content in human-readible format. From the digital analog
+distinction to binary and plain text. Human experience is digital. We should be
+worried rather about hidden control.
 
 # Part 2: Technology
 
@@ -2664,6 +2674,16 @@ Wikipedia as a Turing complete language. The power of versioning. Text as a
 vector. The problem of annotation. What are we annotating? Annotation solutions
 force a platform. Is Hamlet a platonic object? A family of related objects?
 Standard English editions in Europe.
+
+
+Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
+Goodman: thinking about the perfect copy. But there is a confusion here: fake
+art is not necessarily about a copy, it is about provenance. Autographic vs.
+allographic art. Whether forgery is possible. Digital vs. analog art. Analog
+art is medium bound. Digital abstracts from the material.
+
+Duplicates in Computer Science. Almost 30% of webpages are "very similar to
+other pages [@fetterly2003]."
 
 ### 1.3.1 Human Revealment (Heidegger)
 
