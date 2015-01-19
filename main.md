@@ -4,7 +4,7 @@ author: "Dennis Tenen"
 
 ---
 
-# Introduction
+# Introduction + Book Proposal
 
 ## Thesis
 
@@ -132,7 +132,7 @@ structuring the inquiry advanced here. Allow me to spend the next few
 paragraphs in laying bare the reasoning and the history behind this approach to
 the study technology, texts, and people.
 
-## Pragmatism
+## Theory & Method
 
 The idea that "meaning" is always in some sense "operational meaning" is a
 proposition implicit in several related philosophical traditions. The first of
@@ -197,7 +197,6 @@ philosophy of technology, the pragmatic tradition suggests we move beyond
 intellectual history, that is beyond mere words, into the examination of
 real-world materials, practices, and institutions that sustain ideas.
 
-## Experimentalism and Media Archeology
 
 Several broad intellectual movements tangentially related to pragmatism
 influenced my approach to writing this book. The first is experimentalism.
@@ -333,6 +332,9 @@ Relays: Literature as an Epoch of the Postal System by Bernhard Siegert
 Electronic Mediations series at Minnesota Press. Reading Writing interfaces by
 Lori Emerson.
 
+Possible readers. Matt Jones, historian of big data. Schnapp. Kernighan.
+Herchenberg.
+
 ## Structure
 
 I tend to write concisely--a style that I think fits well with the subject
@@ -341,7 +343,7 @@ aiming for a manuscript of around 60-80k words, which would allot around 5-7k
 words per chapter (around 20-30 book pages). Conceptual clusters. Critical
 vocab.
 
-### Chapter 1: Decoding Text
+### Chapter 1: Phenomenology of a Photocopier
 
 Challenging the traditional dichotomy between form and content. In looking at
 the history of several paradigms of word processing I unearth the distinction
@@ -351,14 +353,28 @@ practices and the ethics of outsourcing typesetting. Case studies from the
 history of digital typesetting (the ASCII and UNICODE standards) get us to a
 notion of textuality still deeply embedded into the operating system.
 
-### Chapter 2: We Have Always Been Digital
+### Chapter 2: Literature Down to the Pixel
 
 Containing a discussion of terms "digital" and "analog" as categories that
 denote something existentially more than mere difference in mediation. A
 conversation about discreetness and continuity. The "soap opera" effect and how
 it challenges our intuitions about the above. 
 
-### Chapter 3: Freedom of Information
+### Chapter 3: We Have Always Been Digital
+
+Discussing the often overlooked congruence between data and metadata. Data vs.
+Information as it relates to interpretation. Paragraphs and novels as data
+structures. Diaries and code comments. Separation of code, comments, and data.
+An argument against object-oriented ontology and the impossibility of a
+literature for robots.
+
+### Chapter 4: The Media Is Not the Message
+
+Media is defiantly not the message. Sources of that confusion and what's at
+stake. Encoding of the media on magnetic storage. A revisiting of modalities
+written and oral.  Derrida and Ong.
+
+### Chapter 5: Freedom of Information
 
 Containing an argument against the "systems" definition of information advanced
 by Shannon and Weaver. In what Shannon calls a "strange feature" of this
@@ -367,35 +383,7 @@ in the system. By contrast, I want to insist on the agency (freedom) of the
 sender and the receiver. Incidentally, we get some clarity on the differing
 ways in which information is invoked in different discourses.
 
-### Chapter 4: Scratch Collector
-
-Discussing the often overlooked congruence between data and metadata. Data vs.
-Information as it relates to interpretation. Paragraphs and novels as data
-structures. Diaries and code comments. Separation of code, comments, and data.
-An argument against object-oriented ontology and the impossibility of a
-literature for robots.
-
-### Chapter 5: Media, Message, Mode
-
-Media is defiantly not the message. Sources of that confusion and what's at
-stake. Encoding of the media on magnetic storage. A revisiting of modalities
-written and oral.  Derrida and Ong.
-
-### Chapter 6: Platforms of Self
-
-Understanding the document as a vector. The problem of drafts and versions.
-What is being transmitted through the vector? The appointment with one self:
-Beckett and Sartre. Pipes and I/O serialization.
-
-### Chapter 7: Processing Words
-
-Text as an interface between human and machine. The notions of an interface
-(Galloway). Incompatible modes of understanding. Anne Finch and the liminal
-space between species.  What you see is not what you get.  Isomorphism. Search.
-The brief moment of desktop publishing. Pen, typewriter, and word processor
-(with detours to Kittler and Heidegger).
-
-### Chapter 8: Bad Links
+### Chapter 6: Bad Links
 
 Why links are bad. The long history of intertextuality. The excitement of the
 90s about it. The intertextual art of Gwern. Erudition and analogical thinking.
@@ -403,18 +391,31 @@ The difference between hard-coded and symbolic links. Just a bit about the
 nature of knowledge or what is meant by "I've read that book." Snapshots, the
 Internet Archive, and the future of Wikipedia.
 
-### Chapter 9: Writers' Room
+### Chapter 7: Recursive Encounters with Oneself
+
+Understanding the document as a vector. The problem of drafts and versions.
+What is being transmitted through the vector? The appointment with one self:
+Beckett and Sartre. Pipes and I/O serialization.
+
+### Chapter 8: Shared Knowledge
+
+Text as an interface between human and machine. The notions of an interface
+(Galloway). Incompatible modes of understanding. Anne Finch and the liminal
+space between species.  What you see is not what you get.  Isomorphism. Search.
+The brief moment of desktop publishing. Pen, typewriter, and word processor
+(with detours to Kittler and Heidegger).
 
 Writing together. Models of co-authorship (and why we should pay attention).
 The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
 
-### Chapter 10: Hidden Message
+
+### Chapter 9: Secrecy, Surveillance
 
 Encrypted literature. Surveillance and counter-surveillance. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
 transparency.
 
-### Chapter 11: New Humanism
+### Conclusion: New Humanism
 
 Computation does not necessarily work for the military-industrial apparatus (as
 argued by Golumbia, Lennon, and McPherson). Recovering and preserving
@@ -2288,13 +2289,24 @@ Genette.
 for resemblance between documents" 
 
 Drucker "the totalizing drive of the digital [@drucker2001, 145]."
-I return then to the assertation that some modalities of digital textuality
-obscure the very real mechanisms of control lurking beneath the content, but
-also, on a more hopeful note, that many contempuary personal computing devices
-also ebody a more transparent model of textuality: one that expresses control
-of medium, form, and content in human-readible format. From the digital analog
-distinction to binary and plain text. Human experience is digital. We should be
-worried rather about hidden control.
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and remediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
 
 # Part 2: Technology
 
@@ -2680,7 +2692,7 @@ http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02
 
 # Part 3: People
 
-## 1.3 Recursive Encounters with Oneself
+## 3.1 Recursive Encounters with Oneself
 `document, vector, archive`
 
 We often think of literary works as completed products. *To the Lighthouse,*
