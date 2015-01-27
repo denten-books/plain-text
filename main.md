@@ -1,5 +1,5 @@
 ---
-title: "[ROUGH DRAFT DO NOT CIRCULATE] Plain Text"
+title: "Plain Text"
 author: "Dennis Tenen"
 
 ---
@@ -8,6 +8,25 @@ author: "Dennis Tenen"
 
 ## Thesis
 
+The book aims to redress a weakness in the field of Digital Humanities,
+particularly as it relates to literary studies. Much scholarship in this space
+seems ahistorical and atheoretical, abandoning the deep traditions of literary
+theory and criticism, even where such traditions would help make the case for
+the methodological validity of the emerging research. The nominally related
+field of new media studies has the opposite problem. It is theoretically
+sophisticated, but often produces research that is far removed from the actual
+practice of new media (the archetypal example given by Katherine Hayles is one
+of a photography critic not familiar with the use of the "layers" tool in
+Photoshop). I situate *Plain Text* at the intersection of theory and practice:
+somewhere between "technological foundations for new media studies," and
+"philosophical bases for critical computing practice." This approach allows me
+to also reconsider key concepts affecting literary theory more broadly. I ask
+(and answer): What is the relationship between literature and technology? A
+discussion on texts, discourses, books, documents, files, information, media,
+modes, content, and narratives follows. In the process of exploration, the book
+makes a case for the recovery of textual, literary roots latent in the
+mechanisms of modern computing.
+
 Plain text is a file format and a frame of mind.  A fundamental concept in the
 development of computing, plain text stands in opposition to closed platforms,
 rarefied knowledge, and black-box devices. Instead, it offers a vision of data
@@ -15,20 +34,19 @@ that is human-readable by design: portable, concise, and universal. This book
 contains an argument for plain text. It seeks to empower a community of
 writers, readers, publishers, and librarians.  Together, we will convene a
 polity interested in reflecting critically on the ideas, tools, and practices
-that shape our daily encounter with computation.
-
-The argument starts with foundational principles of media and literary studies
-and information science. I ask: what is at stake in the difference between
-digital and analog?  What contains more information a block of wood or a novel?
-How is text structured? What separates meaning, form, and formatting? Where
-does data end and meta-data begin? What does it mean to "have read a book" or
-to "know something"? To what extent is media the message? The formulation of
-these broadly philosophic concerns influences the more pragmatically-minded and
-applied discussion in the second half of the book. Thinking together about the
-nature of human-computer interfaces, knowledge as hardware and software, links,
-networking, inter-textuality, word processing, text encoding, and cryptography
-will allow us to approach issues of control and governance, access and
-cooperation, consensus and dissent, and privacy and surveillance.
+that shape our daily encounter with computation. The argument starts with
+foundational principles of media and literary studies and information science.
+I ask: what is at stake in the difference between digital and analog?  What
+contains more information a block of wood or a novel?  How is text structured?
+What separates meaning, form, and formatting? Where does data end and meta-data
+begin? What does it mean to "have read a book" or to "know something"? To what
+extent is media the message? The formulation of these broadly philosophic
+concerns influences the more pragmatically-minded and applied discussion in the
+second half of the book. Thinking together about the nature of human-computer
+interfaces, knowledge as hardware and software, links, networking,
+inter-textuality, word processing, text encoding, and cryptography will allow
+us to approach issues of control and governance, access and cooperation,
+consensus and dissent, and privacy and surveillance.
 
 A secondary aim of this volume is to convince the reader, especially one
 without much technical background, to view their computational environment as a
@@ -340,41 +358,85 @@ Herchenberg.
 I tend to write concisely--a style that I think fits well with the subject
 matter, and something that should appeal to the audience. At this point, I am
 aiming for a manuscript of around 60-80k words, which would allot around 5-7k
-words per chapter (around 20-30 book pages). Conceptual clusters. Critical
-vocab.
+words per chapter (around 20-30 book pages).
 
-### Chapter 1: Phenomenology of a Photocopier
+### Part I: Text
 
-Challenging the traditional dichotomy between form and content. In looking at
-the history of several paradigms of word processing I unearth the distinction
-between meaning (content), semantic structure (form), and visual style
-(typesetting). The chapter ends with a discussion about contemporary publishing
-practices and the ethics of outsourcing typesetting. Case studies from the
-history of digital typesetting (the ASCII and UNICODE standards) get us to a
-notion of textuality still deeply embedded into the operating system.
+The first three chapters constitute a part of the book concerned with
+textuality itself, building the vocabulary necessary for a discussion of
+textual technology in Part II and the resulting social structures in Part III
+of the book.
 
-### Chapter 2: Literature Down to the Pixel
+#### Chapter 1: Phenomenology of a Photocopier
 
-Containing a discussion of terms "digital" and "analog" as categories that
-denote something existentially more than mere difference in mediation. A
-conversation about discreetness and continuity. The "soap opera" effect and how
-it challenges our intuitions about the above. 
+Chapter 1, "Phenomenology of a Photocopier," deals with the confused history of
+the distinction between form and content. I find that going back to Plato and
+Hegel, "form" is at times used to indicate physical structure, and, at other
+times, to indicate immaterial categories in the ideal realm. A critical
+treatment of a more contemporary conversation on "surface" and "depth" of
+meaning reveals form as a mediating concept between thought and matter. A case
+study in extreme surface reading, in the bowls of a photocopier, opens the way
+to the distinction between print, where matter, form, and content are literally
+fused, and screen, where the three layers come apart, providing only the
+illusion of flattened textuality.
 
-### Chapter 3: We Have Always Been Digital
+#### Chapter 2: Literature Down to the Pixel
 
-Discussing the often overlooked congruence between data and metadata. Data vs.
-Information as it relates to interpretation. Paragraphs and novels as data
-structures. Diaries and code comments. Separation of code, comments, and data.
-An argument against object-oriented ontology and the impossibility of a
-literature for robots.
+The second chapter, "Literature Down to the Pixel," begins the work of moving
+from "high level" concepts like "text" and "literature" down to their atomic,
+constituent elements like fonts and the modulation of electric current. I argue
+here that the concern with value in literary criticism detracts from the
+explicit movement of control and power intimately connected to digital
+textuality. Unlike scholars in the foucauldian tradition (who often trace the
+machinations of power through discourse), I concentrate my analysis on
+mechanisms of control at the material roots of literary practice. In doing a
+media history through primary sources on early development of modern computing,
+I show the explicit admixture of content and code: one meant to communicate
+messages to humans and the other to program universal machines. This history is
+not entirely critical: rather, it reveals a genealogy of computing alternative
+to the widely held notion of computer as a device for reductive "mathesis" (in
+the words of Johanna Drucker). I argue that the Turing machine is anticipated
+not just by the Babbage calculator, but in a series of advances in
+communications, word processing, and media storage. A notion of text
+(as opposed to number) is "baked into" the system.
 
-### Chapter 4: The Media Is Not the Message
+#### Chapter 3: We Have Always Been Digital
+
+The "microanalysis" in the second chapter, gives way to the opposite movement:
+from pixel, to text, and up to meaning. The third chapter, "We Have Always Been
+Digital," begins with popular intuitions about the "look and feel" of digital
+aesthetics. Discourse around the digital humanities employs the term most
+central to its stated research program inconsistently and often without
+theoretical reflection. A case study of television motion blur (and the related
+"soap opera effect") undermines the initial ease with which notions of the
+digital are overdetermined to stand in for a range of often conflicting
+modalities. The next section deals with the analytic tradition of dissecting
+media into analog and digital categories (Nelson Goodman in particular). My
+summary of that tradition shows that language and text are already "born
+digital," that is, discrete and differentiated throughout by the analytical
+definition. Furthermore, digitality depends on "reliable processes of copying
+and preservation." From that insight I take it that "being digital" is not an
+ontological condition, but rather imposed structure that manifests in specific
+material affordances. "Is it copyable?" becomes "can I copy it?" Digital being
+ends up being an instrumental condition imposed onto the "user" of media (and
+not property of the media itself). The chapter ends with a history of encoding,
+where the distinction between binary and plain text formats supersedes the
+dichotomy between digital and analog.
+
+### Part II: Technology
+
+#### Chapter 4: The Media Is Not the Message
 
 Media is defiantly not the message. Sources of that confusion and what's at
 stake. Encoding of the media on magnetic storage. A revisiting of modalities
 written and oral.  Derrida and Ong.
 
-### Chapter 5: Freedom of Information
+The next chapter (not attached) will discuss differences between media, mode,
+and message in the confluence between semiotics (Saussure and Peirce) and
+information theory (Shannon, Weaver). The media is resolutely not the message,
+I argue.
+
+#### Chapter 5: Freedom of Information
 
 Containing an argument against the "systems" definition of information advanced
 by Shannon and Weaver. In what Shannon calls a "strange feature" of this
@@ -383,7 +445,7 @@ in the system. By contrast, I want to insist on the agency (freedom) of the
 sender and the receiver. Incidentally, we get some clarity on the differing
 ways in which information is invoked in different discourses.
 
-### Chapter 6: Bad Links
+#### Chapter 6: Bad Links
 
 Why links are bad. The long history of intertextuality. The excitement of the
 90s about it. The intertextual art of Gwern. Erudition and analogical thinking.
@@ -391,13 +453,15 @@ The difference between hard-coded and symbolic links. Just a bit about the
 nature of knowledge or what is meant by "I've read that book." Snapshots, the
 Internet Archive, and the future of Wikipedia.
 
-### Chapter 7: Recursive Encounters with Oneself
+### Part III: People
+
+#### Chapter 7: Recursive Encounters with Oneself
 
 Understanding the document as a vector. The problem of drafts and versions.
 What is being transmitted through the vector? The appointment with one self:
 Beckett and Sartre. Pipes and I/O serialization.
 
-### Chapter 8: Shared Knowledge
+#### Chapter 8: Shared Knowledge
 
 Text as an interface between human and machine. The notions of an interface
 (Galloway). Incompatible modes of understanding. Anne Finch and the liminal
@@ -409,13 +473,13 @@ Writing together. Models of co-authorship (and why we should pay attention).
 The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
 
 
-### Chapter 9: Secrecy, Surveillance
+#### Chapter 9: Secrecy, Surveillance
 
 Encrypted literature. Surveillance and counter-surveillance. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
 transparency.
 
-### Conclusion: New Humanism
+#### Conclusion: New Humanism
 
 Computation does not necessarily work for the military-industrial apparatus (as
 argued by Golumbia, Lennon, and McPherson). Recovering and preserving
@@ -1009,6 +1073,8 @@ transcription of the original text amounts to an interpretation, not
 self-identical to the letter of the text (a translation, for example)
 [@tibawi1960, @fatani2005, @wilson2009].[^ln11-quran]
 
+### 1.1.4 Processing Words
+
 The second advance influencing the definitive liberation of text from its
 material contexts was the word the word processor. Word processing begins with
 the invention of the modern typewriter in the middle of the 19th century. But
@@ -1021,11 +1087,13 @@ societies, and journals sprouted all across Europe and United States. The
 stenographic movement promoted ideas much more ambitious than workplace
 efficiency. They believed that stenography would change the world.
 
+Friden FlexoWriter separates key strokes. > IBM MT/ST.
+
 There is a tradition in new media studies that traces the history of
 contemporary computing from mechanical machines like the Jacquard loom (used
 for manufacturing textiles) and the unrealized difference engine of Charles
 Babbage to the electro-mechanical military encryption and counter-encryption
-devices like the British Bombe, and the German Enigma.  For some, that
+devices like the British Bombe, and the German Enigma. For some, that
 genealogy implies a sinister metaphysical threat personal computing poses for
 the development of humanity [@lennon2014, @golumbia2009, @drucker2001]. "Under
 the conditions of high technology, literature has nothing more to say. It ends
@@ -1775,7 +1843,6 @@ the necessary parts for a Turing machine: discrete symbolic language,
 removable storage medium, and a device that can alter its internal state based on
 the reading and writing passing symbols.
 
-
 Where we began with mechanisms of direct inscription (like pens and
 typewriters) we end with machines that look like typewriters, but involve
 "control circuits" capable of distinguishing "significance" and of
@@ -2213,16 +2280,19 @@ and listening for the signal, telegraphs of the "start-stop" type would "come
 alive" only under a "special arrangement" between the communicating parties.
 Because the devices are not synchronized, the pause between each transmitted
 character can vary in length. For this reason ITA-2 includes two extra bits for
-indicating "start" and stop" elements.  The letter "A" and a hyphen in ITA-2
+indicating "start" and stop" elements. The letter "A" and a hyphen in ITA-2
 would be encoded as `0110001`, where ones and zeros represent the absence and
 the presence of current[@ITU1932, 36].[^ln13-current]
 
 [^ln13-current]: ITA-2 could also be adopted to work with "double current"
-devices, in which case 0 would represent "negative current" [ITU1932, 36].
+devices, in which case 0 would represent "negative current" and 1 "positive
+current [@ITU1932, 36]."
 
 ASCII.
 
 Engineers carrying cards
+
+### 1.3.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 Plain language and secret language (telegraph regulations 1932).
 "Plain language is that which presents an intelligible meaning in one or more
@@ -2231,14 +2301,14 @@ word and each expression having the meaning normally assigned to it in the
 language to which it belongs" [@ITU1932, 12]. "Code language is composed either of artificial words, or of real words not
 used in the meaning normally assigned to them in the language to which they
 belong and consequently not forming intelligeble phrases" [@ITU1932, 12].
-
-### 1.3.5 WYSINAWYG (What You See Is Not Always What You Get)
-
-Friden FlexoWriter separates key strokes. > IBM MT/ST.
-
 TROFF
 
-HTML. Microsoft Word. 
+ASCII
+HTML. Microsoft Word.
+
+Gray code (reflected binary).
+![Decoder for Reflected Binary Codes(US Patent 2538615)](images/binary.png
+"@carbrey1951")
 
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
@@ -2309,7 +2379,6 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 # Part 2: Technology
-
 ## 2.1 The Medium is not the Message
 `medium, message, mode`
 
@@ -2715,6 +2784,8 @@ vector. The problem of annotation. What are we annotating? Annotation solutions
 force a platform. Is Hamlet a platonic object? A family of related objects?
 Standard English editions in Europe.
 
+Nature of knowledge. Find the actual percentage of recieved knowledge. Hobbes
+on secret knowledge (p43-44!)
 
 Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
 Goodman: thinking about the perfect copy. But there is a confusion here: fake
@@ -3646,6 +3717,10 @@ Where am I? `pwd`, `ls`, `cd` Bits, bytes, and characters: `wc`
  
 ## 1.2 Processing Commands: grep, awk, sed Hunting the whale.  ## 1.3 Recursive
 Encounters Vectors. SCP. 
+
+## 1.3 Digital
+cat
+xxd
 
 ## 2.1 Medium and Message Fuzzing.
 
