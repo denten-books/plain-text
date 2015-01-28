@@ -3719,8 +3719,8 @@ Where am I? `pwd`, `ls`, `cd` Bits, bytes, and characters: `wc`
 Encounters Vectors. SCP. 
 
 ## 1.3 Digital
-cat
-xxd
+`cat`
+`xxd`
 
 ## 2.1 Medium and Message Fuzzing.
 
