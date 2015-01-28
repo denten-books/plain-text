@@ -1076,18 +1076,20 @@ self-identical to the letter of the text (a translation, for example)
 ### 1.1.4 Processing Words
 
 The second advance influencing the definitive liberation of text from its
-material contexts was the word the word processor. Word processing begins with
+material contexts was the word processor. Word processing begins with
 the invention of the modern typewriter in the middle of the 19th century. But
 the naked typewriter offered few advantages over hand writing. Like the pen,
 the typewriter applied ink to paper directly. In the early days of typewriting
 that process was slower, more cumbersome, and more expensive than handwriting.
-By late 19th century stenography and short-hand writing systems were by far the
+By the late 19th century stenography and short-hand writing systems were by far the
 more important development in textual technology. Stenographic clubs,
-societies, and journals sprouted all across Europe and United States. The
-stenographic movement promoted ideas much more ambitious than workplace
-efficiency. They believed that stenography would change the world.
+societies, and journals sprouted all across Europe and United States, with the aim of making writing faster, matching and exceeding the spoken word. A va
+
+![Stenographic Printing Machine (US323286)](images/steno.png "@anderson1885")
 
 Friden FlexoWriter separates key strokes. > IBM MT/ST.
+Textverarbeitung
+"Each typewritten line is stored and only recorded when the carriage-return key is pressed. This means that any typing errors spotted before the line is committed to magnetic tape can be overtyped with the correct character. Editing or text manipulation is achieved by retrieving text by paragraph, word or line [@wang1975]."
 
 There is a tradition in new media studies that traces the history of
 contemporary computing from mechanical machines like the Jacquard loom (used
