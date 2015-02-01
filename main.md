@@ -1112,26 +1112,25 @@ operations like "underline this word," and "delete this paragraph [@wang1975]."
 Transformations performed on one magnetic reel would be incorporated into
 a sequential string of encoded characters on another.
 
-Before word processing, the transformation of thought into text
-happened in real-time, in the process of inscription. Text, in that sense, is
-fixed and "mediated"--that is, fixed into a stable medium, enabling further
-storage and transmission. Remediation--the process of transcribing text from one
-medium into another (as in from paper onto parchment, or from book to notebook)
-is always human remediation. Word processing breaks the immediacy of
-transcription by introducing a temporary storage medium, where text, although
-still material (a sequence of magnetically charged marks on tape), exists in a
-sort of a limbo between thought and its intended, more permanent place on paper
-as inscription. The magnetic tape could act as medium of final destination, as
-when one office would share a tape with another office as means for
-communication. But in daily use the characters on the tape were impermanent,
-written and overwritten multiple times before "emerging" in their "final"
-material form as a print out.
+Before word processing, the transformation of thought into text happened in
+real-time, in the process of inscription. Text, in that sense, is fixed and
+"mediated"--that is, fixed into a stable medium, enabling further storage and
+transmission. Remediation--the process of transcribing text from one medium
+into another (as in from paper onto parchment, or from book to notebook) is
+always human remediation. Word processing breaks the immediacy of transcription
+by introducing a temporary storage medium, where text, although still material
+(a sequence of magnetically charged marks on tape), exists in a sort of a limbo
+between thought and its intended, more permanent place on paper as inscription.
+The magnetic tape could act as medium of final destination, as when one office
+would share a tape with another office as means for communication. But in daily
+use the characters on the tape were impermanent, written and overwritten
+multiple times before "emerging" in their "final" material form as a print out.
 
-At no point of this process is text "immaterial." The magnetic corporeality
-of the processed word is rather hidden from human view. The magnetic
-inscription couples with its medium loosely, allowing for rapid
-re-mediation: from one reel to another or from reel to paper. Where the pen
-and the typewriter inscribe, the word processor re-mediates.
+At no point of this process is text "immaterial." The magnetic corporeality of
+the processed word is rather hidden from human view. The magnetic inscription
+couples with its medium loosely, allowing for rapid re-mediation: from one reel
+to another or from reel to paper. Where the pen and the typewriter inscribe,
+the word processor re-mediates.
 
 The word processor furthermore forces its operator to clearly differentiate
 between formal features significant to the work from those that are not. If you
@@ -1150,23 +1149,47 @@ Conversely, MT/ST not encode the concept of a page break. Page breaks along
 with other material properties of the text were left to the contingencies of
 eventual print medium.
 
-There is a tradition in new media studies that traces the history of
-contemporary computing from mechanical machines like the Jacquard loom (used
-for manufacturing textiles) and the unrealized difference engine of Charles
-Babbage to the electro-mechanical military encryption and counter-encryption
-devices like the British Bombe, and the German Enigma. For some, that
-genealogy implies a sinister metaphysical threat personal computing poses for
-the development of humanity [@lennon2014, @golumbia2009, @drucker2001]. "Under
-the conditions of high technology, literature has nothing more to say. It ends
-in cryptograms that defy interpretation and only permit interception," Friedrich
-Kittler wrote in his influential *Gramaphone, Film, Typewriter*. His book ends
-on a downright sinister note: "And while professors are still reluctantly
-trading in their typewriters for word processors, the NSA is preparing for the
-future [@kittler1999, 263]." Perhaps true. But I would like to think the future
-is not determined by technology. Today's mobile phone and personal computer are
-military devices, but they also contain within them a lineage of subversive
-reading and writing implements: textual (as opposed to computational) roots
-that cannot be excised from the soul of modern computing.
+Contemporary word processors encode many more elements of formatting than their
+early MT/ST predecessors, but those elements necessarily remain limited in
+number, and always amount to something less than the material totality of an
+autographic work. The word process forces an allographic model of textuality:
+one that clearly delineates the differences between content, formatting, and
+physical medium. In that model, "content" alludes to some notion of linguistic
+communication and "formatting" to some notion of its significant non-linguistic
+aspects (like italicized words and line breaks). Regardless of what we may
+believe about the ontology of text, the word processor makes only the
+allographic model available for manipulation. Far from being an
+instrumentally-neutral construct, autographic art implies the impossibility of
+perfect reproduction. In instrumental terms, the prohibition on the
+reproduction of works amounts to censorship. An technocratic regime that
+insists on autography is one where the circulation of ideas is limited if not
+impossible. Imagine for example the prohibition of speech (any speech) as a
+prohibition on re-mediation of thought from one brain to another.
+Alternatively, one can imagine other regimes that do not not legislate or place
+value on autography to any extent. In such a world there would "be" little
+difference between a museum work and its facsimile. All higher-level
+theoretical constructs like story, discourse, narrative, literature, and
+intellectual property, stem from (although cannot be reduced to) the material
+affordances implicit in that model.  Stated in instrumental terms, abstract
+political concepts like "freedom of the speech" amount to physical control over
+re-mediation. Under the conditions of total autography, where everything is
+significant, communication becomes impossible. Remediation in that sense
+functions as a political value. To accept allography is to accept that thought
+will be transformed as it leaves the singular material contexts of cognition.
+Whether the society should welcome such transformation or attempt to control
+it, is a topic for another discussion.
+
+There is a tradition in media studies that conflates the history of modern
+computing with the development of Western military-industrial complex
+[@lennon2014, @golumbia2009, @drucker2001]. "Under the conditions of high
+technology, literature has nothing more to say," wrote Friedrich Kittler in his
+influential *Gramaphone, Film, Typewriter*. Text so weaponized "ends in
+cryptograms that defy interpretation and only permit interception
+[@kittler1999, 263]." The historical connection between weapon and calculator
+cannot be denied. But to the history of computing as a device used to calculate
+missile trajectories and to decode secret messages, I would like to begin
+drawing from the lineage of reading and writing devices that are equally constitute textual
+computational) roots that cannot be excised from the soul of modern computing.
 
 [^ln11-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
