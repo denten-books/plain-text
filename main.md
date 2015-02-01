@@ -1049,7 +1049,7 @@ photocopier is a device for total graphesis and extreme surface
 reading.[^ln11-ooo]. There is no word or content for the photocopier: only
 paper and image. The photocopier's "job", if you will, is to lift a picture
 from one page and to impress it into another. It does so by temporarily imaging
-text (as picture) onto a photo-sensitive drum.  Ink powder sticks to the
+text (as picture) onto a photo-sensitive drum. Ink powder sticks to the
 electrically charged surfaces of the drum in correspondence to the shapes on
 the page. The shapes are then rolled onto a new page, re-inscribing the image
 into the new medium. The text is never immaterial. But for a moment it finds
@@ -1065,31 +1065,90 @@ photocopier, the process can be performed on a purely formal, visual level. In
 fact, the historical record is full of errors that suggest that pre-modern
 scribes wrote at widely varying levels of literacy [@goudsmit1974,
 @bucking2007].[^ln11-literacy] In the Muslim tradition, the prophet Muhammad
-himself is sometimes called "the unlettered prophet," to emphasize the
-unmediated immediacy of his message [@calder1990, @günther2002, 1-26]. In other words, the
-Qur'an claim to authenticity relies on the prophet's ability to copy the
-message "verbatim." On the conservative Muslim view, anything but a faithful
-transcription of the original text amounts to an interpretation, not
-self-identical to the letter of the text (a translation, for example)
-[@tibawi1960, @fatani2005, @wilson2009].[^ln11-quran]
+himself is sometimes called "the unlettered prophet," to emphasize fidelity and
+lack of mediation in the transcription of the message [@calder1990,
+@günther2002, 1-26]. In other words, the Qur'an claim to authenticity relies on
+the prophet's ability to copy the message "verbatim." On the conservative
+Muslim view, anything but a faithful transcription of the original text amounts
+to an interpretation, not self-identical to the letter of the text (a
+translation, for example) [@tibawi1960, @fatani2005, @wilson2009].[^ln11-quran]
 
 ### 1.1.4 Processing Words
 
 The second advance influencing the definitive liberation of text from its
-material contexts was the word processor. Word processing begins with
-the invention of the modern typewriter in the middle of the 19th century. But
-the naked typewriter offered few advantages over hand writing. Like the pen,
-the typewriter applied ink to paper directly. In the early days of typewriting
-that process was slower, more cumbersome, and more expensive than handwriting.
-By the late 19th century stenography and short-hand writing systems were by far the
-more important development in textual technology. Stenographic clubs,
-societies, and journals sprouted all across Europe and United States, with the aim of making writing faster, matching and exceeding the spoken word. A va
+material contexts was the word processor. Word processing begins with the
+invention of the modern typewriter in the middle of the 19th century. But the
+naked typewriter offered few advantages over hand writing. Like the pen, the
+typewriter applied ink to paper directly. In the early days of typewriting that
+process was slower, more cumbersome, and more expensive than handwriting. By
+the late 19th century stenography and short-hand writing systems were by far
+the more important development in textual technology. Stenographic clubs,
+societies, and journals sprouted all across Europe and United States, with the
+aim of making writing faster, matching and exceeding the spoken word.
 
 ![Stenographic Printing Machine (US323286)](images/steno.png "@anderson1885")
 
-Friden FlexoWriter separates key strokes. > IBM MT/ST.
-Textverarbeitung
-"Each typewritten line is stored and only recorded when the carriage-return key is pressed. This means that any typing errors spotted before the line is committed to magnetic tape can be overtyped with the correct character. Editing or text manipulation is achieved by retrieving text by paragraph, word or line [@wang1975]."
+I am less concerned with the history of word processing here and more with its
+material affordances. Besides the copy machine, the early 20th century saw the
+wide-spread adaptation of automatic typewriters, which, with the introduction
+of temporary magnetic storage media, developed into devices for general
+composition, editing, typesetting, and printing of text. One of the first
+mass-market products of that type was IBM's Magnetic Tape / Selectric
+Typewriter (MT/ST). Unlike the typewriters and the automatic telegraphs that
+preceded it, MT/ST introduced a buffer between the keystroke and its paper
+imprint. Instead of transferring characters to paper directly, the machine
+stored its input on 16mm magnetic tape, where it was temporarily available for
+revision. The common setup included two reels of tape, capable of holding 25
+kilobytes (25000 * 8kb) of information, which, at 7 bits per character, equates
+to roughly 29,000 characters [@eisenbrg1992, 268-278]. The device had no
+screen, but the machine operator could print the contents of the tape, and,
+based on the location of the text, go back to revise the stored content. The
+machine was capable of extending operations to characters, words, lines, and
+paragraphs. For example, a word was encoded as any string of characters
+separated by an empty space, where a line was any string of characters and
+blank spaces separated by a carriage return, and a paragraph, any text
+separated by two carriage returns. It was possible therefore to perform
+operations like "underline this word," and "delete this paragraph [@wang1975]."
+Transformations performed on one magnetic reel would be incorporated into
+a sequential string of encoded characters on another.
+
+Before word processing, the transformation of thought into text
+happened in real-time, in the process of inscription. Text, in that sense, is
+fixed and "mediated"--that is, fixed into a stable medium, enabling further
+storage and transmission. Remediation--the process of transcribing text from one
+medium into another (as in from paper onto parchment, or from book to notebook)
+is always human remediation. Word processing breaks the immediacy of
+transcription by introducing a temporary storage medium, where text, although
+still material (a sequence of magnetically charged marks on tape), exists in a
+sort of a limbo between thought and its intended, more permanent place on paper
+as inscription. The magnetic tape could act as medium of final destination, as
+when one office would share a tape with another office as means for
+communication. But in daily use the characters on the tape were impermanent,
+written and overwritten multiple times before "emerging" in their "final"
+material form as a print out.
+
+At no point of this process is text "immaterial." The magnetic corporeality
+of the processed word is rather hidden from human view. The magnetic
+inscription couples with its medium loosely, allowing for rapid
+re-mediation: from one reel to another or from reel to paper. Where the pen
+and the typewriter inscribe, the word processor re-mediates.
+
+The word processor furthermore forces its operator to clearly differentiate
+between formal features significant to the work from those that are not. If you
+recall, autographic works of art are those in which all aspects of the work are
+in some way significant. A molecular copy of a Rembrandt ceases to be a "true"
+Rembrandt. The image is fully congruent with its medium. When processing words,
+the writer is separated from the process of inscription. The work can therefore
+only exist in its allographic form, as the material contexts of inscription are
+unstable and shifted into the future. Text stored on magnetic medium today may
+end up on paper or on the screen tomorrow. Yet because some of these formal
+aspects of inscription may be significant to the writer, the word processor
+creates an explicit "formatting" layer, which controls some of the aspects of
+the document's layout. IBM's MT/ST machine encoded only a few of such
+affordances: the ability to underline text or to force line breaks for example.
+Conversely, MT/ST not encode the concept of a page break. Page breaks along
+with other material properties of the text were left to the contingencies of
+eventual print medium.
 
 There is a tradition in new media studies that traces the history of
 contemporary computing from mechanical machines like the Jacquard loom (used
