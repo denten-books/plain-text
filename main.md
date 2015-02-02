@@ -1115,9 +1115,9 @@ a sequential string of encoded characters on another.
 Before word processing, the transformation of thought into text happened in
 real-time, in the process of inscription. Text, in that sense, is fixed and
 "mediated"--that is, fixed into a stable medium, enabling further storage and
-transmission. Remediation--the process of transcribing text from one medium
+transmission. Transmediation--the process of transcribing text from one medium
 into another (as in from paper onto parchment, or from book to notebook) is
-always human remediation. Word processing breaks the immediacy of transcription
+always human transmediation. Word processing breaks the immediacy of transcription
 by introducing a temporary storage medium, where text, although still material
 (a sequence of magnetically charged marks on tape), exists in a sort of a limbo
 between thought and its intended, more permanent place on paper as inscription.
@@ -1152,32 +1152,30 @@ eventual print medium.
 Contemporary word processors encode many more elements of formatting than their
 early MT/ST predecessors, but those elements necessarily remain limited in
 number, and always amount to something less than the material totality of an
-autographic work. The word process forces an allographic model of textuality:
+autographic work. The word processor forces an allographic model of textuality:
 one that clearly delineates the differences between content, formatting, and
 physical medium. In that model, "content" alludes to some notion of linguistic
 communication and "formatting" to some notion of its significant non-linguistic
 aspects (like italicized words and line breaks). Regardless of what we may
 believe about the ontology of text, the word processor makes only the
-allographic model available for manipulation. Far from being an
-instrumentally-neutral construct, autographic art implies the impossibility of
-perfect reproduction. In instrumental terms, the prohibition on the
-reproduction of works amounts to censorship. An technocratic regime that
-insists on autography is one where the circulation of ideas is limited if not
-impossible. Imagine for example the prohibition of speech (any speech) as a
-prohibition on re-mediation of thought from one brain to another.
-Alternatively, one can imagine other regimes that do not not legislate or place
-value on autography to any extent. In such a world there would "be" little
-difference between a museum work and its facsimile. All higher-level
-theoretical constructs like story, discourse, narrative, literature, and
-intellectual property, stem from (although cannot be reduced to) the material
-affordances implicit in that model.  Stated in instrumental terms, abstract
-political concepts like "freedom of the speech" amount to physical control over
-re-mediation. Under the conditions of total autography, where everything is
-significant, communication becomes impossible. Remediation in that sense
-functions as a political value. To accept allography is to accept that thought
-will be transformed as it leaves the singular material contexts of cognition.
-Whether the society should welcome such transformation or attempt to control
-it, is a topic for another discussion.
+allographic model available for use.
+
+Far from being an instrumentally-neutral construct, the ontological model of
+text affects (although cannot be reduced to) the material affordances connected
+to many higher-level literary-theoretical constructs like story, discourse,
+narrative, literature, and intellectual property. When taken to its extreme
+logical conclusion, an autographic regime, where all texts are works, leads to
+censorship. Functionally, there's little difference between maintaining that a
+work cannot be reproduced and that it should not. A technocratic regime that
+insists on autography is one where the circulation of ideas is necessarily
+limited, if not outright impossible.  Imagine, for example, the prohibition of
+speech (any speech) as a set of literal constraints on the transmediation of
+thought, down to the neurological level, where singular thoughts are limited to
+singular brains. Stated in instrumental terms, abstract political concepts like
+"freedom of the speech" amount to physical control over transmediation. Under
+the conditions of total autography, where everything is significant,
+communication becomes impossible. Transmediation in that sense functions as a
+political value.
 
 There is a tradition in media studies that conflates the history of modern
 computing with the development of Western military-industrial complex
@@ -1186,10 +1184,11 @@ technology, literature has nothing more to say," wrote Friedrich Kittler in his
 influential *Gramaphone, Film, Typewriter*. Text so weaponized "ends in
 cryptograms that defy interpretation and only permit interception
 [@kittler1999, 263]." The historical connection between weapon and calculator
-cannot be denied. But to the history of computing as a device used to calculate
-missile trajectories and to decode secret messages, I would like to begin
-drawing from the lineage of reading and writing devices that are equally constitute textual
-computational) roots that cannot be excised from the soul of modern computing.
+cannot be denied. But, to the history of computers as devices used for the
+decoding of secret messages and the calculation of missile trajectories, I
+would like add a lineage of allographic reading and writing devices that help
+decouple thought from its rigid material contexts, bringing forth new
+affordances, cognitive regimes, and hitherto unavailable political structures.
 
 [^ln11-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
@@ -2261,7 +2260,7 @@ From the instrumental point of view, to make something digital, to digitize, is
 to liberate representation from its medium and to allow for copying and
 preservation. That is not to say that digitization liberates thought from its
 material context, rather, it allows for its continual advancement and
-remediation. Digitization, in that sense, is necessary prerequisite for
+transmediation. Digitization, in that sense, is necessary prerequisite for
 culture. Without portability, all representation (art and knowledge) is tied to
 the irreproducible and untranslatable contexts. Being digital, in that sense,
 arises as a political property that regulates transmission of thought as
@@ -2273,7 +2272,7 @@ like "digital rights management" (DRM), which work to fix representation into a
 specific medium, transform digital content back into its media-dependent,
 irreproducible, and analog forms. Another way to put it would be to say that on
 "protected" devices the content is digital for some users and analog for those
-without permissions to remidiate.
+without permissions to transmediate.
 
 ### 1.3.4 Digital Formats
 
@@ -2292,15 +2291,15 @@ themselves strongly restricted. In such a world, text loses some of its formal
 digital qualities. It becomes autographic and media-bound.
 
 Understanding digitality as a format imposed onto matter, a format that
-facilitates remediation, recasts the history of computing as something other
+facilitates transmediation, recasts the history of computing as something other
 than simple "mathesis," the idea that computation reduces the world into more
 discrete, and therefore computable elements. That idea would be true if the
 computer was simply a souped-up calculator. But computers are not just that:
-they are self-amending machines for universal remediation (not limited to
+they are self-amending machines for universal transmediation (not limited to
 numbers), machines that, depending on the user's acuity and dispensation to
-perceive text (and all information, really) as deep structure, separate
-readers into those for whom text exists as a fixed analog given, and those for
-whom they functions as a truly digital medium, capable of amending further texts,
+perceive text (and all information, really) as deep structure, separate readers
+into those for whom text exists as a fixed analog given, and those for whom
+they functions as a truly digital medium, capable of amending further texts,
 men, and machines.
 
 ![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
@@ -2453,7 +2452,7 @@ hide implicit mechanisms of machine control, or, to offer possibilities for
 transformation not otherwise available to other forms of textuality. Loosely
 coupled to its material contexts, text can continue its relentless drive from
 matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and remediation. I say nothing
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
 yet of the potential necessity of such regulation. Under certain conditions, in
 the name of privacy, security, or property rights, it may become necessary to
 flatten out and to treat text as more of an analog, media-bound modality of
