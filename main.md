@@ -62,7 +62,7 @@ between the shared history of computing and literary thought.
 
 ## Audience
 
-A parallel audience to the one composed of non-technical readers is one that
+A parallel audience to the one comprising non-technical readers is one that
 shares expertise in computer science or electrical engineering, but also one
 that does not usually view its daily practice in its historical, philosophical,
 and political contexts. Designers, software engineers, system administrators,
@@ -1910,7 +1910,7 @@ successive impulses, a plurality of interpreting relays selectively actuated by
 said receiver, and a printed mechanism responsive for the combined action
 [@bumstead1911, 12-13]." Up to this point, the patent describes a device for
 transmission information, from type to print. Starting with clause 14, the
-language changes to describe a more general "telegraph system," comprised of
+language changes to describe a more general "telegraph system," involving
 "an impulse transmitter having means to vary the time intervals between
 successive transmitted impulses, each time interval having a character
 representing significance, a receiver responsive to said devices, and signal,
@@ -2373,10 +2373,16 @@ current [@ITU1932, 36]."
 
 ASCII.
 
+Gray code (reflected binary).
+
+![Decoder for Reflected Binary Codes(US Patent 2538615)](images/binary.png
+"@carbrey1951")
+
 Engineers carrying cards
 
 ### 1.3.5 WYSINAWYG (What You See Is Not Always What You Get)
 
+Concern with human comprehension. Related to secrecy.
 Plain language and secret language (telegraph regulations 1932).
 "Plain language is that which presents an intelligible meaning in one or more
 of the languages authorized for international telegraph correspondence, each
@@ -2386,22 +2392,13 @@ used in the meaning normally assigned to them in the language to which they
 belong and consequently not forming intelligeble phrases" [@ITU1932, 12].
 TROFF
 
-ASCII
-HTML. Microsoft Word.
-
-Gray code (reflected binary).
-![Decoder for Reflected Binary Codes(US Patent 2538615)](images/binary.png
-"@carbrey1951")
-
+Plain text in Unix. Human readability.
 Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
 format control information that need be embedded is that describing textual
 categories and boundaries, such as titles, section headings, paragraphs, and
 the like [@kernighan1078, 2116]
 Baudot code.
-
-Plain text. Fancy text. TROFF. Processed text. Instructions for the style of
-paragraphs, footnotes, header, footer. Human readability.
 
 TROFF example from @kernighan1978, 2123. 
 
@@ -2433,15 +2430,6 @@ Semantic markup is interesting because it contains both material and ideal. The
 way textuality is encoded mediates between idea and matter. Mediation. Visible
 form and hidden form.
 
-Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
-and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
-text is an "ordered hierarchy of content objects" [^@derose]. Goodman and
-Genette.
-
-[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
-for resemblance between documents" 
-
-Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
 We have now traveled from the pixel down to magnetic storage media and back
 from the storage media to the screen. The passage opens up space between
@@ -3628,16 +3616,16 @@ painting? Or its digital reproduction? The situation is even more confusing
 when we begin thinking about music, for example. What is the medium for J.S.
 Bach's Double Violin Concerto: the violin or the music sheet which contains the
 score? We are on yet more precarious terrain when considering hybrid "media,"
-like film or television that are comprised of multiple sources and that use
-multiple modes of transmission.  The confusion enters the conversation when we
-conflate the modality of the information (e.g. music, image, text) with the
-physical channel of its transmission (the medium proper). Modality may very
-well be the message. Thus, it may be true that when one plays the violin, the
-music can be said to express itself in musical terms. But not the violin! I
-could use a violin to transmit a picture of an orchestra over a dial-up modem,
-for example. This would only involve the question of how to encode the visual
-information into a state transmittable by the violin (a primarily auditory
-instrument).  The channel of communication—the medium proper—is in fact,
+like film or television that comprise multiple sources and that use multiple
+modes of transmission.  The confusion enters the conversation when we conflate
+the modality of the information (e.g. music, image, text) with the physical
+channel of its transmission (the medium proper). Modality may very well be the
+message. Thus, it may be true that when one plays the violin, the music can be
+said to express itself in musical terms. But not the violin! I could use a
+violin to transmit a picture of an orchestra over a dial-up modem, for example.
+This would only involve the question of how to encode the visual information
+into a state transmittable by the violin (a primarily auditory instrument).
+The channel of communication—the medium proper—is in fact,
 information-agnostic. That is to say that it has no preference about the
 message being transmitted (nor can it have a preference for anything at all,
 formally speaking—preference being a property we ascribe to objects that are at
@@ -3812,6 +3800,18 @@ Encounters Vectors. SCP.
 ## 2.3 Digital
 
 # Odds and Ends
+
+## Text
+
+Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
+and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
+text is an "ordered hierarchy of content objects" [^@derose]. Goodman and
+Genette.
+
+[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
+for resemblance between documents" 
+
+Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
 ## Dysfunction by Data Data.
 
