@@ -11,8 +11,7 @@ Publisher
 - Duke
 
     Ed. Ken Wissoker Strong in Communication studies. Published Brian
-    Larkin's "Signal and Noise" and Lisa Gitleman's "Paper Knowledge,"
-    and Celebreties and Publics by Sharon Marcus!
+    Larkin's "Signal and Noise" and Lisa Gitleman's "Paper Knowledge."
 
 - MIT
 
@@ -20,8 +19,7 @@ Publisher
     Buckley interestedin DH. Published "Between Humanities and the Digital" by
     Patrik Svensson. Peter Lunenfeld's "The Secret War Between Downloading and
     Uploading," "Programmed Visions" by Wendy Chun, Kirschenbaum's
-    "Mechanisms", Lisa Gitelman's "Always Already New," Galloway's "Protocol," 
-
+    "Mechanisms", Lisa Gitelman's "Always Already New," Galloway's "Protocol."
 
 - Columbia
 
