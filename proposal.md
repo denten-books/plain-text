@@ -23,7 +23,7 @@ If your manuscript is based on a dissertation, please discuss how the
 material and research has been developed, reframed, or otherwise revised. SUP
 does not publish unrevised dissertations.
 
-## Argument, Themes, Significance
+## Theme and Argument
 
 Plain text is a file format and a frame of mind. A fundamental concept in the
 development of computing, plain text stands in opposition to closed platforms,
@@ -37,60 +37,65 @@ information science. I ask: what is at stake in the difference between digital
 and analog media?  What contains more information a novel or a block of wood?
 What separates meaning, form, and formatting? How do pixels form into texts?
 Where does data end and meta-data begin? To what extent media determine the
-message?  The formulation of these broadly theoretical concerns about the
-nature of human-computer interaction opens the way to the discussion about the
-social impact of textual technologies, as they relate to mechanisms of digital
-agency, deliberation, consensus-making, and dissent. Detailed case studies from
-the history of modern computing and information science points to a confluence
-between the development of computational and literary thought.
+message? The formulation of these broadly theoretical concerns about the
+poetics of human-computer interaction opens the way to a discussion about the
+social impact of textual technology, as it relates to applied dynamics of
+online agency, deliberation, consensus-making, and dissent.
 
 A secondary aim of this volume is to convince computer "users" to view their
 computational environments as a literary system of sorts. I mean a "literary
 system" in opposition to what one might conventionally mistake for a "binary"
-or "digital" one, however imprecise those terms are in everyday use. And should
-I succeed, I will ask mere "users" of ubiquitous gadgets and devices to become
-close readers, thinkers, and makers of technology, able to apply the same
-critical acuity to reading code and platform as they do to close reading of
-prose and poetry.
+or "digital" one, however imprecise those terms are in everyday use. In
+clarifying usage, I will ask mere "users" to become close readers, thinkers,
+and makers of technology, able to apply the same critical acuity to reading
+code and platform as they do to close reading of prose and poetry. Ultimately,
+the book makes a case for the recovery of textual roots latent in the
+mechanisms of modern computing.
 
+## Field Significance
 
+The book aims to redress a weakness in the field of Digital Humanities,
+particularly as it relates to literary studies. Much scholarship in this space
+is often criticized for being ahistorical or atheoretical, abandoning the deep
+traditions of literary theory and criticism, even where such traditions would
+help bolster the case for emerging scholarship. The nominally related field of
+New Media Studies has the opposite problem. It is theoretically sophisticated,
+but often produces research that is far removed from the actual practice of
+using new media (the archetypal example given by Katherine Hayles is one of a
+contemporary photography critic not familiar with the use of the "layers" tool
+in Photoshop). I situate *Plain Text* at the intersection of theory and
+practice: somewhere between "technological foundations for new media studies,"
+and "philosophical bases for computing in the humanities."
 
-In situating computing as critical, textual, literary *practice*, I hope to
-make an theoretical intervention in the cluster of fields sometimes designated
-as "media studies," a cluster can include subfields like "science and
+In situating computing as critical, textual, and literary *practice*, I hope to
+make a theoretical intervention in the cluster of fields sometimes designated
+as "media studies," a cluster that can include subfields like "science and
 technology Studies," "new media studies," "platform studies," "critical code
-studies," "media archeology," and my own preferred construction "computational
-culture studies." Where the thematic is clear, these are usually terms of
-self-description, and are not worth dwelling upon for too long. It is important
-for me only to insist on the reciprocal motion between the constituent elements
-of "computation" and "culture." On the one hand, the term of art can be
-understood as the critically reflective study of "computational culture," which
-would bring in a set of more specialize concerns to the field of media studies.
-On the other hand, I believe also in the importance of studying culture more
-broadly using computational approaches. This book does a bit less of that than
-my other work elsewhere, but I do mean it to serve as a foundation for someone
-interested in expanding their methodological toolkit into computational
-methods.
+studies," "media archeology," and my own preferred descriptor: "computational
+culture studies." I understand computational culture studies in two ways: first
+as the study "computational culture," and second as computational approaches to
+the study of culture and society. As was the case with the "linguistic turn" in
+the decades prior, almost all fields of human knowledge are now experiencing a
+turn towards computation. Witness the emerging fields of computational
+biology, computational chemistry, computational linguistics, computational
+geometry, computational archeology, computational architecture design,
+computational philosophy, computational social science, and the list goes on.
 
-As was the case with the "linguistic turn" in the decades prior, almost all
-fields of human knowledge are now experiencing a turn towards computation.
-Witness the emerging fields of computational biology, computational chemistry,
-computational linguistics, computational geometry, computational archeology,
-computational architecture design, computational philosophy, computational
-social science, and the list goes on. What all of these areas of study have in
-common is a shared methodological toolkit, often instantly recognizable by
-practitioners in quite diverse disciplines. In my own home discipline of
-literary studies, the turn towards computation is usually filed under "digital
-humanities" (DH). Although I consciously avoid the term of the art here, I am
-friendly to some of its aims and proposed interventions. But I also agree, to
-the extent that will become clear in the concluding chapters of this book, with
-the critique advanced by scholars like Brian Lennon, David Golumbia, Tara
-McPherson, and Johanna Drucker, who accuse DH of historical myopia,
-theoretical shallowness, and eurocentrism (along a long list of other sins). In
-this light, the present book can be seen as a work that attempts to straddle
-the worlds of media theory and digital humanities, philosophy of technology and
-human-computer interaction, representing the best of what these traditions have
-to offer the academy at large.
+Although I do not mean to engage in the debate on disciplinary formation, it is
+important for me to insist on the reciprocal motion between the constituent
+elements of "computation" and "culture." Too often rhetoric around the digital
+humanities resembles a one-way street, in which computational methods promise
+to reform the humanities unilaterally. Books by scholars like David Golumbia
+(*The Cultural Logic of Computation*, 2009 Harvard UP), Matthew Fuller (*Evil
+Media, 2012 MIT) and Johanna Drucker (*What Is?, 2013 Cuneiform Press) signify
+a 
+
+ 
+inflationary mode as being historically myopic, shallow theoretically, and 
+
+theoretical shallowness, and eurocentrism In this light, the present
+book can be seen as a work that attempts to straddle the worlds of media theory
+
 
 ## Audience
 
@@ -105,6 +110,7 @@ formation of shared cultural archives. For this reason, technical decisions
 like choosing a text editor, a filing system, or a social networking platform
 cannot be adequately addressed in shallow instrumental terms limited to
 efficacy, speed, or performance. 
+
 ## Format
 
 The book is a book, but also a tool. Readers will get much more out of it if
@@ -198,7 +204,6 @@ When applied to task of writing media theory, history of science, or the
 philosophy of technology, the pragmatic tradition suggests we move beyond
 intellectual history, that is beyond mere words, into the examination of
 real-world materials, practices, and institutions that sustain ideas.
-
 
 Several broad intellectual movements tangentially related to pragmatism
 influenced my approach to writing this book. The first is experimentalism.
@@ -322,26 +327,6 @@ divisions of labor between "knowledge workers," "content producers,"
 typesetting sweatshops, and international conglomerates that control vectors of
 literary distribution.
 
-## Significance in the field
-
-The book aims to redress a weakness in the field of Digital Humanities,
-particularly as it relates to literary studies. Much scholarship in this space
-is often criticized for being ahistorical or atheoretical, abandoning the deep
-traditions of literary theory and criticism, even where such traditions would
-help make the case for the methodological validity of the emerging research.
-The nominally related field of New Media Studies has the opposite problem. It
-is theoretically sophisticated, but often produces research that is far removed
-from the actual practice of new media (the archetypal example given by
-Katherine Hayles is one of a photography critic not familiar with the use of
-the "layers" tool in Photoshop). I situate *Plain Text* at the intersection of
-theory and practice: somewhere between "technological foundations for new media
-studies," and "philosophical bases for computing in the humanities." This
-approach allows me to also reconsider key concepts affecting literary theory
-more broadly. I ask (and answer): What is the relationship between literature
-and technology? A discussion on texts, discourses, books, documents, files,
-information, media, modes, content, and narratives follows. In the process of
-exploration, the book makes a case for the recovery of textual, literary roots
-latent in the mechanisms of modern computing.
 
 ## Market
 Paper Knowledge by Lisa Gitelman from Duke.
