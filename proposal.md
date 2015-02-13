@@ -1,13 +1,8 @@
 ---
-title: "Plain Text: The Poetics of Human-computer Interaction
+title: "Plain Text: The Poetics of Human-computer Interaction (Book Proposal)
 author: Dennis Tenen
 
 ---
-
-# Introduction + Book Proposal
-
-Detailed statement outlining the manuscript's arguments, themes, and
-significance to the field
 
 Annotated table of contents that clearly develops the content and structure
 of each chapter
@@ -20,8 +15,7 @@ Statement of the anticipated length of the manuscript; plans for tables,
 figures, or other illustrations; and schedule for completion
 
 If your manuscript is based on a dissertation, please discuss how the
-material and research has been developed, reframed, or otherwise revised. SUP
-does not publish unrevised dissertations.
+material and research has been developed, reframed, or otherwise revised.
 
 ## Theme and Argument
 
@@ -67,49 +61,87 @@ in Photoshop). I situate *Plain Text* at the intersection of theory and
 practice: somewhere between "technological foundations for new media studies,"
 and "philosophical bases for computing in the humanities."
 
-In situating computing as critical, textual, and literary *practice*, I hope to
+## Existing Literature
+
+In situating computing as critical, textual, and literary practice, I hope to
 make a theoretical intervention in the cluster of fields sometimes designated
 as "media studies," a cluster that can include subfields like "science and
 technology Studies," "new media studies," "platform studies," "critical code
-studies," "media archeology," and my own preferred descriptor: "computational
-culture studies." I understand computational culture studies in two ways: first
-as the study "computational culture," and second as computational approaches to
-the study of culture and society. As was the case with the "linguistic turn" in
-the decades prior, almost all fields of human knowledge are now experiencing a
-turn towards computation. Witness the emerging fields of computational
-biology, computational chemistry, computational linguistics, computational
-geometry, computational archeology, computational architecture design,
-computational philosophy, computational social science, and the list goes on.
+studies," and "media archeology." Recent comparable books in these fields
+include *Paper Knowledge* by Lisa Gitelman published by Duke UP in 2014,
+*Coding Freedom: The Ethics and Aesthetics of Hacking*, by Gabriella Coleman
+from Princeton UP in 2012, *Mechanisms: New Media and the Forensic Imagination*
+by Matthew G. Kirschenbaum from MIT Press in 2012, *Files: Law and Media
+Technology* by Cornelia Vismann from Stanford UP in 2008 and several titles in
+the *Electronic Mediations* series at Minnesota UP, which published Lori
+Emerson's *Reading Writing Interfaces* in 2014.
+
+My work differs from these volumes in that it is both more philosophical
+(rather than strictly "theoretical") and more grounded in the fields of
+software an electrical engineering. To give you an example of what I mean,
+consider my first chapter, "Phenomenology of a Photocopier." It begins with the
+discussion of the Hegelian distinction between "form" and content," ending with
+a case study from the history of word processing, in a technical explanation of
+the way "content" and "form" are encoded into modern HTML and Markdown
+documents. Similarly, my third chapter, "We Have Always Been Digital," begins
+with a discussion of "digital representation" as philosophers Nelson Goodman
+and John Haugeland define it in the analytic tradition. I proceed by testing
+their intuitions on the on the basis of something called the "Soap Opera
+Effect" particular to modern Liquid Crystal Displays (LCDs) and in the related
+"motion interpolation" technology." The resulting analysis clarifies the
+various (and often conflicting) meanings of the word "digital" in media studies
+and in the digital humanities.
+
+Complimentary to both of these fields, I prefer to describe my work as
+"computational culture studies." I understand the field in two ways: first as
+the study of "computational culture," and, second, as computational approaches
+to "culture studies". *Plain Text* falls firmly into the first category,
+with some elements of the book edging on light computational methods
+(particularly if you consider the proposed digital companion, discussed shortly).
 
 Although I do not mean to engage in the debate on disciplinary formation, it is
 important for me to insist on the reciprocal motion between the constituent
 elements of "computation" and "culture." Too often rhetoric around the digital
-humanities resembles a one-way street, in which computational methods promise
-to reform the humanities unilaterally. Books by scholars like David Golumbia
-(*The Cultural Logic of Computation*, 2009 Harvard UP), Matthew Fuller (*Evil
-Media, 2012 MIT) and Johanna Drucker (*What Is?, 2013 Cuneiform Press) signify
-a 
+humanities resembles a one-way street, in which computational methods are
+promised to reform the humanities unilaterally. Books by scholars like
+Alexander Galloway (*Laruelle: Against the Digital*, 2014 UMinn Press), David
+Golumbia (*The Cultural Logic of Computation*, 2009 Harvard UP), Matthew Fuller
+(*Evil Media, 2012 MIT) and Johanna Drucker (*What Is?, 2013 Cuneiform Press)
+represent the beginning of a critical counter-movement. But this response too
+must be balanced against transformative potential of the digital humanities
+program. As was the case with the "linguistic turn" in the decades prior,
+almost all fields of human knowledge are now experiencing a turn towards
+computational methods, which offer new insight at previously unavailable scales
+of analysis. (Witness the emerging fields of computational biology,
+computational chemistry, computational linguistics, computational geometry,
+computational archeology, computational architecture design, computational
+philosophy, computational social science, and the list goes on.)
 
- 
-inflationary mode as being historically myopic, shallow theoretically, and 
+## Audience and Market
 
-theoretical shallowness, and eurocentrism In this light, the present
-book can be seen as a work that attempts to straddle the worlds of media theory
+I strive to attain the balance balance between advancement and critique in my
+teaching, in Columbia University courses like *Code & Poetry* (Fall 2014),
+*Computing in Context* (Spring 2015), and *Foundations of Computing for
+Journalists* (Summer 2014). My courses attract students from sciences and the
+humanities alike. I lecture widely in language departments and in schools of
+engineering on the importance of bridging the gap between the two cultures. As
+a natural continuation of these efforts, I mean for *Plain Text* to reach the
+same two key audiences.
 
+The first comprises digital, media, and literary scholars interested in the
+material aspects of knowledge production. The second is composed of "knowledge
+workers" that do not usually view their everyday practice in its historical,
+philosophical, or political contexts. Software developers, graphic designers,
+system administrators, and project managers routinely affect technologies that
+have deep cultural significance: from the ways in which we relate to our family
+and friends to the formation of shared cultural archives. For this reason,
+technical decisions like choosing a text editor, a filing system, or a social
+networking platform cannot be adequately addressed in shallow instrumental
+terms limited to efficacy, speed, or performance.
 
-## Audience
+As a former fellow, and now a faculty associate of the Berkman Center for
+Internet and Society I am inspired to reach for a wide audience 
 
-I mean for the book to reach two key audiences. The first comprises digital,
-media, and literary scholars interested in the material aspects of knowledge
-production. The second is composed of "knowledge workers" that do not usually
-view their everyday practice in its historical, philosophical, or political
-contexts. Software developers, graphic designers, system administrators, and
-project managers routinely affect technologies that have deep cultural
-significance: from the ways in which we relate to our family and friends to the
-formation of shared cultural archives. For this reason, technical decisions
-like choosing a text editor, a filing system, or a social networking platform
-cannot be adequately addressed in shallow instrumental terms limited to
-efficacy, speed, or performance. 
 
 ## Format
 
@@ -328,20 +360,6 @@ typesetting sweatshops, and international conglomerates that control vectors of
 literary distribution.
 
 
-## Market
-Paper Knowledge by Lisa Gitelman from Duke.
-
-Gabriella Coleman. Coding Freedom: The Ethics and Aesthetics of Hacking, Princeton 2012.
-Mechanisms: New Media and the Forensic Imagination
-
-Files: Law and Media Technology by Cornelia Vismann, Stanford University press.
-Relays: Literature as an Epoch of the Postal System by Bernhard Siegert
-
-Electronic Mediations series at Minnesota Press. Reading Writing interfaces by
-Lori Emerson.
-
-Possible readers. Matt Jones, historian of big data. Schnapp. Kernighan.
-Herchenberg.
 
 ## Structure
 

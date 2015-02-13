@@ -59,6 +59,7 @@ Publisher
 Potential reviewers
 ===========================
 
+    Matt Jones
     Adriaan van der Weel
     Schnapp
     Patrik Svensson
