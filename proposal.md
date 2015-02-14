@@ -123,15 +123,7 @@ assures mutual enrichment.
 
 ## Audience and Market
 
-I strive to attain the balance balance between advancement and critique in my
-teaching, in Columbia University courses like *Code & Poetry* (Fall 2014),
-*Computing in Context* (Spring 2015), and *Foundations of Computing for
-Journalists* (Summer 2014). My courses attract students from sciences and the
-humanities alike. I lecture widely in language departments and in schools of
-engineering on the importance of bridging the gap between the two cultures. As
-a natural continuation of these efforts, I mean for *Plain Text* to reach the
-same two key audiences.
-
+As is the case for most of my work, *Plain Text* appeals to two key audiences.
 The first comprises digital, media, and literary scholars interested in the
 material aspects of knowledge production. The second is composed of "knowledge
 workers" that do not usually view their everyday practice in its historical,
@@ -143,9 +135,32 @@ technical decisions like choosing a text editor, a filing system, or a social
 networking platform cannot be adequately addressed in shallow instrumental
 terms limited to efficacy, speed, or performance.
 
-As a former fellow, and now a faculty associate of the Berkman Center for
-Internet and Society I am inspired to reach for a wide audience 
-
+A former software engineer and now a literary scholar, my research bridges the
+(perceived) gap between the "two cultures" of science and the humanities. My
+courses at Columbia University, which include *Code & Poetry* (Fall 2014),
+*Computing in Context* (Spring 2015), and *Foundations of Computing for
+Journalists* (Summer 2014), attract a diverse body of students from multiple
+disciplines (and particularly from departments of English, History, and
+Computer Science). I lecture widely in language departments, in schools of
+engineering, in front of publishers, architects, artists, and librarians. As a
+founder of Columbia's Group for Experimental Methods in the Humanities, I
+believe critical engagement with technology and in exposing my students to
+real-world problems. My group has ran workshops on online security for
+activists, we are teaching digital literacy at Rikers Island, and we have
+reached out to an online community of engineers to help us write media history
+as a project in "citizen humanities." In the fall of 2014, the group's activity
+became the basis for Columbia's fund raising efforts around digital humanities,
+as a proposal for the Center of Culture and Computation that was met with wide
+approval from the university deans, the provost, and the president. In January
+2015, the group was encouraged to apply for the presidential "global
+innovation" fund to organize workshops on "digital justice" in Beijing, Mumbai,
+and in Amman, Jordan. I am supported and inspired in these endeavors by my
+colleagues at Harvard's Berkman Center for Internet and Society, where I am an
+active faculty associate. I keep these manifold audiences in mind as I am finishing
+*Plain Text.* The book exposes the intellectual foundations that bolster my
+research and teaching activities. I write to strengthen these projects and to
+give back to the community that has supported me so generously. I hope to rely
+on the same good will and on the same support networks in promoting my book.
 
 ## Format
 
