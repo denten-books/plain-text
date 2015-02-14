@@ -53,69 +53,73 @@ particularly as it relates to literary studies. Much scholarship in this space
 is often criticized for being ahistorical or atheoretical, abandoning the deep
 traditions of literary theory and criticism, even where such traditions would
 help bolster the case for emerging scholarship. The nominally related field of
-New Media Studies has the opposite problem. It is theoretically sophisticated,
-but often produces research that is far removed from the actual practice of
-using new media (the archetypal example given by Katherine Hayles is one of a
-contemporary photography critic not familiar with the use of the "layers" tool
-in Photoshop). I situate *Plain Text* at the intersection of theory and
-practice: somewhere between "technological foundations for new media studies,"
-and "philosophical bases for computing in the humanities."
+New Media Studies has the opposite problem. Although theoretically
+sophisticated, it sometimes produces research far removed from the actual
+practice of creating new media (the archetypal example given by Katherine
+Hayles is one of a contemporary photography critic not familiar with the use of
+the "layers" tool in Photoshop). By contrast, I situate *Plain Text* at the
+intersection of theory and practice: somewhere between "technological
+foundations for new media studies" and "philosophical bases for computing in
+the humanities."
 
 ## Existing Literature
 
-In situating computing as critical, textual, and literary practice, I hope to
-make a theoretical intervention in the cluster of fields sometimes designated
-as "media studies," a cluster that can include subfields like "science and
-technology Studies," "new media studies," "platform studies," "critical code
-studies," and "media archeology." Recent comparable books in these fields
-include *Paper Knowledge* by Lisa Gitelman published by Duke UP in 2014,
-*Coding Freedom: The Ethics and Aesthetics of Hacking*, by Gabriella Coleman
-from Princeton UP in 2012, *Mechanisms: New Media and the Forensic Imagination*
-by Matthew G. Kirschenbaum from MIT Press in 2012, *Files: Law and Media
-Technology* by Cornelia Vismann from Stanford UP in 2008 and several titles in
-the *Electronic Mediations* series at Minnesota UP, which published Lori
-Emerson's *Reading Writing Interfaces* in 2014.
+*Plain Text* makes a theoretical intervention in the cluster of media studies-
+and digital humanities-related fields that include "science and technology
+Studies," "platform studies," "critical code studies," and "media archeology."
+Recent comparable books in these fields include *Paper Knowledge* by Lisa
+Gitelman published by Duke UP in 2014, *Coding Freedom: The Ethics and
+Aesthetics of Hacking*, by Gabriella Coleman from Princeton UP in 2012,
+*Mechanisms: New Media and the Forensic Imagination* by Matthew G. Kirschenbaum
+from MIT Press in 2012, *Files: Law and Media Technology* by Cornelia Vismann
+from Stanford UP in 2008 and several titles in the *Electronic Mediations*
+series at Minnesota UP, which published Lori Emerson's *Reading Writing
+Interfaces* in 2014.
 
 My work differs from these volumes in that it is both more philosophical
 (rather than strictly "theoretical") and more grounded in the fields of
 software an electrical engineering. To give you an example of what I mean,
 consider my first chapter, "Phenomenology of a Photocopier." It begins with the
-discussion of the Hegelian distinction between "form" and content," ending with
-a case study from the history of word processing, in a technical explanation of
-the way "content" and "form" are encoded into modern HTML and Markdown
-documents. Similarly, my third chapter, "We Have Always Been Digital," begins
-with a discussion of "digital representation" as philosophers Nelson Goodman
-and John Haugeland define it in the analytic tradition. I proceed by testing
-their intuitions on the on the basis of something called the "Soap Opera
+discussion of the Hegelian distinction between "form" and "content," ending
+with a case study from the history of word processing, in a technical
+explanation of the way "content" and "form" are encoded into modern HTML and
+Markdown documents. Similarly, my third chapter, "We Have Always Been Digital,"
+begins with a discussion of "digital representation" as philosophers Nelson
+Goodman and John Haugeland define it in the analytic tradition. I proceed by
+testing their intuitions on the basis of something called the "Soap Opera
 Effect" particular to modern Liquid Crystal Displays (LCDs) and in the related
 "motion interpolation" technology." The resulting analysis clarifies the
 various (and often conflicting) meanings of the word "digital" in media studies
 and in the digital humanities.
 
 Complimentary to both of these fields, I prefer to describe my work as
-"computational culture studies." I understand the field in two ways: first as
-the study of "computational culture," and, second, as computational approaches
-to "culture studies". *Plain Text* falls firmly into the first category,
-with some elements of the book edging on light computational methods
-(particularly if you consider the proposed digital companion, discussed shortly).
+"computational culture studies," understood in two ways: first as the
+study of "computational culture," and, second, as computational approaches to
+"culture studies". *Plain Text* falls firmly into the first category, with some
+elements of the book edging on light computational methods (particularly if you
+consider the proposed digital companion, discussed shortly).
 
 Although I do not mean to engage in the debate on disciplinary formation, it is
 important for me to insist on the reciprocal motion between the constituent
 elements of "computation" and "culture." Too often rhetoric around the digital
 humanities resembles a one-way street, in which computational methods are
-promised to reform the humanities unilaterally. Books by scholars like
-Alexander Galloway (*Laruelle: Against the Digital*, 2014 UMinn Press), David
-Golumbia (*The Cultural Logic of Computation*, 2009 Harvard UP), Matthew Fuller
-(*Evil Media, 2012 MIT) and Johanna Drucker (*What Is?, 2013 Cuneiform Press)
+promised to reform the humanities unilaterally. Books like Alexander Galloway's
+*Laruelle: Against the Digital* (UMinn Press, 2014), , Matthew Fuller's *Evil
+Media* (MIT, 2012) and Johanna Drucker's *What Is?* (Cuneiform Press, 2013)
 represent the beginning of a critical counter-movement. But this response too
-must be balanced against transformative potential of the digital humanities
+must be balanced against emendatory potential of the digital humanities
 program. As was the case with the "linguistic turn" in the decades prior,
 almost all fields of human knowledge are now experiencing a turn towards
 computational methods, which offer new insight at previously unavailable scales
 of analysis. (Witness the emerging fields of computational biology,
 computational chemistry, computational linguistics, computational geometry,
 computational archeology, computational architecture design, computational
-philosophy, computational social science, and the list goes on.)
+philosophy, computational social science, and the list goes on.) In *Plain
+Text* I stake out a middle ground between Stephen Ramsey's laudatory *Reading
+Machines* (University of Illinois Press, 2011) and David Golumbia's disparaging
+*The Cultural Logic of Computation* (Harvard UP, 2009), making the case for
+transformative use of technology in the humanities, in a reciprocal way that
+assures mutual enrichment.
 
 ## Audience and Market
 
