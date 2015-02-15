@@ -3,20 +3,6 @@ title: "Plain Text: The Poetics of Human-computer Interaction (Book Proposal)
 author: Dennis Tenen
 
 ---
-
-Annotated table of contents that clearly develops the content and structure
-of each chapter
-
-Assessment of the work's fit with existing literature, comparison with
-published books on the topic, and discussion of the intended audiences and
-market for the book
-
-Statement of the anticipated length of the manuscript; plans for tables,
-figures, or other illustrations; and schedule for completion
-
-If your manuscript is based on a dissertation, please discuss how the
-material and research has been developed, reframed, or otherwise revised.
-
 ## Theme and Argument
 
 Plain text is a file format and a frame of mind. A fundamental concept in the
@@ -148,244 +134,102 @@ believe critical engagement with technology and in exposing my students to
 real-world problems. My group has ran workshops on online security for
 activists, we are teaching digital literacy at Rikers Island, and we have
 reached out to an online community of engineers to help us write media history
-as a project in "citizen humanities." In the fall of 2014, the group's activity
+as a project in "citizen humanities."[^ln-xp] In the fall of 2014, the group's activity
 became the basis for Columbia's fund raising efforts around digital humanities,
-as a proposal for the Center of Culture and Computation that was met with wide
-approval from the university deans, the provost, and the president. In January
-2015, the group was encouraged to apply for the presidential "global
-innovation" fund to organize workshops on "digital justice" in Beijing, Mumbai,
-and in Amman, Jordan. I am supported and inspired in these endeavors by my
-colleagues at Harvard's Berkman Center for Internet and Society, where I am an
-active faculty associate. I keep these manifold audiences in mind as I am finishing
-*Plain Text.* The book exposes the intellectual foundations that bolster my
-research and teaching activities. I write to strengthen these projects and to
-give back to the community that has supported me so generously. I hope to rely
-on the same good will and on the same support networks in promoting my book.
+in the form of a proposal for the Center of Culture and Computation. The
+proposal was met with wide approval from the university deans, the provost, and
+the president. In January 2015, the group was encouraged to apply for the
+presidential "global innovation" fund to organize workshops on "digital
+justice" in Beijing, Mumbai, and in Amman, Jordan. I am supported and inspired
+in these endeavors by my colleagues at Harvard's Berkman Center for Internet
+and Society, where I am an active faculty associate. I keep these manifold
+audiences in mind as I am finishing *Plain Text.* The book exposes the
+intellectual foundations that bolster my research teaching activities. I write
+to strengthen these projects and to give back to the community that has
+supported me so generously. I hope to rely on the same good will and on the
+same support networks in reaching out to promote my book.
 
-## Format
+In the course of my teaching career, I have been asked to create courses and
+certificate programs for graduate students in the humanities interested in
+computational studies, including courses at the Digital Humanities Summer
+Institute at the University of Victoria and the Lede program at Columbia's
+Journalism School. Texts assigned in these environments are either volumes
+published by technical presses for a professional audience or theory-based
+readings in new media studies that are related to the task of teaching the
+fundamentals of computer science in context only loosely. My book covers the
+philosophical foundations of computing fundamentals, explaining not just the
+how of digital humanities by the why. With the proposed technical appendix and
+a possible companion site (explained in the next section), I hope to supplement
+the main body of the work with "experiments" that illustrate theoretical
+concepts in practice, at the keyboard. Such blend of theory and practice
+defines my method. As many major universities invest in programs related to
+digital humanities, computational social science, and computational
+journalism,[^ln-dh] I hope for *Plain Text* to become a standard text that
+introduces faculty and advanced graduate students to the notion of critical
+practice in humanities computing.
 
-The book is a book, but also a tool. Readers will get much more out of it if
-they are able to actively follow along using their terminal emulator of choice.
-If these words mean nothing to you, rest assured that the text assumes no prior
-technical knowledge. It can be read sequentially as a conventional piece of
-scholarship in textual theory or "new media" studies. For those willing to take
-the plunge, I will often illustrate abstract theoretical concepts by asking the
-reader to type some commands into their terminals. Detailed instructions on how
-to set up this "augmented" reading environment, tutorials, and explanations can
-be found in the technical appendix and on the forthcoming companion website.
+[^ln-dh]: For example: In February 2015, U. Penn received $7,000,000 from Penn
+Arts and Sciences Overseer to establish the Price Lab for the Digital
+Humanities. In December 2014, Yale announced an award in the amount of
+$3,000,000 from The Goizueta Foundation to inaugurate the Digital Humanities
+Laboratory. UC Berkeley announced $2,000,000 from the Andrew W. Mellon
+Foundation to advance digital humanities. Stanford has recently launched the
+Center for Spatial and Textual Analysis. University of Michigan opened six new
+tenure-track searches in a hiring cluster under the rubric of Public Humanities
+in a Digital World in 2012. In May of 2014, Bard College was Awarded $800,000
+from Andrew W. Mellon Foundation to support Experimental Humanities.
 
-Both novices and experts alike can benefit from exposure to ideas in the
-command line, on the level of the operating system. At the very least, the
-reader will walk way from this book with concepts and skills foundational to
-computing as critical thought and critical practice. But I hope that many
-readers will go beyond the basics, gaining deep-seated, intuitive, "hands-on"
-understanding of operational concepts like files, filing systems, networks,
-search tools, servers, and encryption technologies.  Developing an intuitive
-understanding of systems that structure so much of our daily activity has the
-potential to radically transform one's experience with text, media, and digital
-devices.
+[^ln-xp]: A detailed account of these an other of projects can be found at
+[xpmethod.plaintext.in/strains.html](http://xpmethod.plaintext.in/strains.html).
 
-Unmoored theoretical concepts like "text" and "media" gain a palpable form when
-explored in the context of their instantiation. This is both model and method
-structuring the inquiry advanced here. Allow me to spend the next few
-paragraphs in laying bare the reasoning and the history behind this approach to
-the study technology, texts, and people.
+## Length and Format
 
-## Theory & Method
+I am writing the book as a traditional volume, expounding a sustained thesis
+across nine chapters. I tend to write concisely--a style that complements the
+subject matter. At this point, I am aiming for a manuscript of around 60-80k
+words, which would allot around 5-7k words per chapter.
 
-The idea that "meaning" is always in some sense "operational meaning" is a
-proposition implicit in several related philosophical traditions. The first of
-these is pragmatism, broadly conceived. William James articulates that view
-when he writes that "reality is seen to be grounded in a perfect jungle of
-concrete expediencies [@james-pragmatism-conceptionoftruth]." For James (and,
-to some extent, for his fellow travellers in American pragmatism, Charles
-Sanders Peirce and John Dewey)[^ln-pragma-truth] the pragmatic answer to the
-question of truth could be reduced to the questions efficient causes and
-effects. In his essay "Pragmatism's Conception of Truth," James asks: "How will
-the truth be realized? What concrete difference will its being true make in
-anyone's actual life? What experiences will be different from those which would
-obtain if the belief were false?" Frank Ramsey, the young British philosopher
-close to Ludwig Wittgenstein, was influenced by the Americans and would later
-write that meaning "is to be defined by reference to the actions to which
-asserting it would lead [@ramsey-foundationsofmath p.155]."
+Although, ostensibly, a work on the history and philosophy of computational
+culture, the book argues for the advancement of theory through practice. In
+writing it, I continually test my intuitions against the reality of
+contemporary computing devices: laptops, servers, and mobile phones. It is one
+thing, for example, to maintain that "the media is the message," and quite
+another to ask how different modalities like sound, image, and video are
+encoded on the operating system level (Chapter 4). Similarly, the difference
+between binary and plain-text formats can be best explored by peeking "under
+the hood" of an Adobe Acrobat file (as I do in Chapter 3).
 
-[^ln11-pragma-truth]: For a more thorough discussion on the topic see
-@seigfried, @pihlström, and @putnam-james-theory.
+Although not required for the understanding of the book, I would like to
+include a supplementary appendix that expands on the theoretical insight from
+each chapter with "experiments" that can be done in the command line (a textual
+human-computer interface built into most operating systems). These exercises
+could exist on paper or as a complimentary website. Training in computational
+methods often begins with packaged tools that obscure the underlying complexity
+of the method. While writing a relatively complex piece of code a journalist in
+my class once confessed to being confused about the relationship between files
+and folders, for example. *Plain Text* is a book *about* files and folders: it
+is about textuality as encoded in specific ways on machines that have a shared
+engineering pedigree. The hidden (but very much intended) side-effect of *Plain
+Text* is a measure of technical proficiency with Unix-based operating systems.
+Higher-level notions that address the political reality of computation, be it
+"open access," "freedom of information," or "online privacy" begin at that
+system level. The book's Technical Appendix will help build a practical
+foundation to the argument advanced within.
 
-For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
-"the author is dead" or "art is transcendent") beg the questions of "Where?,"
-"When?," "For Whom?," and "What's at stake in maintaining that?" Following
-James's and Ramsey's pragmatic insight, I will maintain throughout that
-abstract categories like "text" cannot possibly be (although they often are)
-reduced to a number of essential, structural features. Rather, to borrow from a
-conversation on categories in Wittgenstein's *Philosophic Investigations*,
-categories denote a related "family" of practices, which may or may not share
-in any given familial characteristic
-[@Wittgestein-philo-invest].[^ln11-more-witt] To visualize this "familial"
-model, imagine a Venn diagram, where overlapping fields (of textuality, in our
-case) intersect and diverge in a historically (culturally, practically)
-contingent and arbitrary ways. These fields lie in relation to specific
-communities of practice, which often do not in themselves employ a controlled
-vocabulary. What counts for "code" and "poetry" in one domain, like computer
-science, may not account for the very same in another domain, like creative
-writing. An engineer's evocation of code as poetry can diverge from a poet's.
-There's no sense in trying to reconciling divergent languages, where concepts
-like "poetry" exist only in their social instantiation. The language of poetry
-morphs from literary period to literary period: those who write code by day and
-poetry by night might employ differing if not outright contradictory
-vocabularies.
+The book assumes no prior knowledge. It can be read sequentially as a
+conventional piece of scholarship in textual theory or new media studies. But
+for those willing to take the plunge, I will often illustrate abstract
+theoretical concepts by asking the reader to type some commands into their
+terminals. Detailed instructions on how to set up this *augmented reading
+environment*: related experiments, excercises, and explainations will be found
+in the Technical Appendix.
 
-[^ln11-more-witt]: For more on the connection between Wittgenstein and James
-see @goodman-wittandjames.
+In addition to the appendix the book contains several (8-12) tables and
+illustrations. I intend to apply for the "first book" subsidy offered by
+Harvard's Department of Comparative Literature to offset any costs associated
+with the preparation of the manuscript.
 
-The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
-perhaps most pronounced in the teacher colleges, where James and Dewey are
-still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[^@lave&wenger, @johnseelybrown] and "experiential
-learning"[^@kolb]: both terms denoting some sense of necessary synthesis
-between of knowing and doing. In the field of linguistics, philosophy of
-language, and communication studies, pragmatics are well-encapsulated by the
-"language-as-action tradition," which harkens back to the Oxford language
-philosophers like J.L. Austin, Paul Grice, and John Searle [^@Trueswell].
-Austin's "How to Do Things with Words," is perhaps the paradigmatic formulation
-of the idea that words don't just mean things, but that they enact change in
-the world.
-
-When applied to task of writing media theory, history of science, or the
-philosophy of technology, the pragmatic tradition suggests we move beyond
-intellectual history, that is beyond mere words, into the examination of
-real-world materials, practices, and institutions that sustain ideas.
-
-Several broad intellectual movements tangentially related to pragmatism
-influenced my approach to writing this book. The first is experimentalism.
-Writing in the mid-19th century against the tradition of inductive
-"generalizers," Claude Bernard, a pioneer in experimental medicine, argues for
-the necessity of both theory and practice. "We cannot separate the two things,"
-he writes, "head and hand." The "science of life" he writes, "is a superb and
-dazzlingly lighted hall which may be reached only by passing through a long and
-ghastly kitchen ." "We shall reach really fruitful and luminous generalizations
-about vital phenomena only in so far as we ourselves experiment and, in
-hospitals, amphitheaters, or laboratories stir the fetid or throbbing ground of
-life [^@bernard, p.3-15]."
-
-It is my belief also that the lighted halls of contemporary literary and media
-theory can be best through the long and ghastly kitchen of everyday practice.
-Take the example of a media scholar analyzing the last two decades of film
-production or photography without grasping the fundamentals of electronic
-photodetectors, RAW image formats, complementary metal–oxide–semiconductor
-(CMOS), digital editing tools, computer-generated imagery (CGI), or Photoshop
-image manipulation techniques. Such a study is in great peril of being terribly
-misguided by theoretical models that have no basis on reality. It is not that
-one cannot say anything about photography without knowing these things, but
-rather that one can say much more when he does. To my mind, theory must be
-continually checked and refined against practice, just as practice must be
-continually checked and refined against generalized insight. Similarly, it is
-my contention here that the fundamental theoretical concepts driving literary
-studies--word, text, narrative, discourse, author, story, book, archive--are
-thoroughly enmeshed in the underlying physical substratum of paper and pixels
-(but also ink, wood, and integrated circuit). These operational concepts cannot
-attain their full expressive potential without an internalized understanding of
-the technology and the daily practice that gives them rise. This book is an
-attempt to develop knowledge "at hand" and "fingertip knowledge" (both
-discussed in the later chapters).
-
-It is likely that this line of reasoning is itself a part of experimental and
-material "turns" steering the academy toward critical practice, especially in
-fields long-dominated by theoretical reflection. The turn represents a
-generation's dissatisfaction with "armchair" philosophizing.  Recall the
-burning armchair, the symbol of "experimental philosophy" movement proposed by
-Joshua Knobe and Shaun Nichols, who write that "many of the deepest questions
-of philosophy can only be properly addressed by immersion oneself in the messy,
-contingent, highly variable truths about how human being really are
-[^@knobe-nichols, p3]." In the field of media and literary studies, it is almost
-impossible to avoid the influence of "archeology of knowledge," as advanced in
-its many permutations by Michel Foucault and his followers. Yet, such
-archeologies deal with "artifacts" and "excavations" only as metaphors for what
-remains, methodologically, a history of ideas.
-
-In the recent decade or so, a number of scholars are "making good" on the
-metaphor by turning their attention to actual artifacts and excavations, in
-what sometimes they dub as the history of craft or "artifactual knowledge." In
-preface to a recent volume on *Ways of Making and Knowing*, edited by Pamela
-Smith, Amy Meyers, and Harold Cook, the editors write that the "history of
-science is not a history of concepts, or at least not that alone, but a history
-of the making and using of objects to understand the world [^@smith, p12]." As a
-historian of science in the Early Modern period, Smith translates that insight
-in the laboratory, where along with her students she bakes bread and smelts
-iron to recreate long-lost artisanal techniques. The major insight from Smith
-and her colleagues is that traditional "book" knowledge--the kind of
-information that finds itself into novels, textbooks, and technical
-manuals--represents only a small part of the sum total of human expertise. Much
-of our knowledge is instead secreted into the artifacts and institutions where
-it unfolds in daily practice. For literary and media scholars interested in key
-operational concepts that means supplementing theoretical insight with a robust
-sense of curiosity about the world. Digital technology, from typesetting
-software to e-book readers and word processors, shapes our everyday encounters
-with literature and textuality. That medium, as I will argue throughout, should
-not be taken as a value-neutral conduit of information. Typesetting software,
-e-book readers, and word processors contain in themselves implicit models of
-text and discourse-formation.  They very literally contain system-level
-definitions of what a word is or what counts for a document. It is our job then
-to recover latent forms of textuality still extent on devices from mobile
-phones, to laptops, and super computers, and to expose them to critical
-interrogation. The task of media archeology on the level of the operating
-system is a literary scholar's version of baking bread and smelting iron.
-
-### Materialism
-
-Finally, this book, and any notion of critical practice, owes a debt to the
-legacy of critical theory. In the past few decades, the project of critical
-theory (and related "schools" like cultural studies) has lost some of its
-evocative power. Rather than rehashing a dry academic debate, allow me
-enumerate some reasons for its decline in my own thinking. The first is the
-movement's overt political goals. Patently the "stock" of Marxism, socialism,
-communism and related ideologies has declined. Major critical theorists like
-Roberto Unger and Michel Berube are now legitimately writing about the left's
-political crisis [^@cite]. Moreover, the political aspirations of critical
-theorists were always somewhat difficult to defend in the face of other,
-contradictory academic values like objectivity, neutrality, and critical
-thinking. However problematic those terms are in themselves, we must
-acknowledge that they represent a set of deeply-seated beliefs about the nature
-of scholarship. Already present in Socratic or Confucian models of rhetoric,
-these values place an emphasis on questioning received knowledge and on
-empowering students to arrive at their own conclusions. In that light, the task
-of critique should be to expose political assumptions rather than to promote a
-particular political ideology.
-
-As journals, departments, and libraries struggle financially, a whole industry
-of middlemen thrives on the monetization of knowledge that rightly belongs to
-the public domain. Libraries spend inordinate amount of money to essentially
-buy back the research produced within their own community. Academic journals
-that operate on principles of peer review and volunteer labor are then entered
-into private circulation. Prices of $30-60 per article in the humanities are
-not unusual. In perpetuating these conditions we reduce the notion of critique
-to a meaningless rhetorical trope. The examination of our own immediate
-material contexts of knowledge production and dissemination are crucial to
-conversations about "world literature," "public discourse," "collective
-memory," or "politics in the archive."
-
-*Plain Text* is an attempt to repay the debt of materialism. The alienation, as
-I will argue here, begins with the roots of my profession: namely the
-production of textuality in everyday life. It is quite likely that most of
-readers spend the majority of their waking hours in front of a personal
-computer, typing letters on a screen (among other things worthy of their own
-examination, but outside of the scope of this book). My goal then is to reclaim
-the ordinary material contexts of a dominant mode of knowledge production and
-dissemination. It is one thing to theorize about notions of form and content,
-and it is quite another to see how form and content are encoded in .txt and
-.pdf formats and to further how these distinctions then affect material
-divisions of labor between "knowledge workers," "content producers,"
-typesetting sweatshops, and international conglomerates that control vectors of
-literary distribution.
-
-
-
-## Structure
-
-I tend to write concisely--a style that I think fits well with the subject
-matter, and something that should appeal to the audience. At this point, I am
-aiming for a manuscript of around 60-80k words, which would allot around 5-7k
-words per chapter (around 20-30 book pages).
+## Annotated Table of Contents
 
 ### Part I: Text
 
@@ -514,12 +358,24 @@ textuality in computing. Engineering for dissent.
 
 ### Tech Appendix
 
-## Timeline
+## Relationship to Dissertation
 
-I keep detailed logs of my daily writing practice. During the academic year, I
+The book bears a resemblance to the dissertation in the subtitle only. Several
+paragraphs from the embargoed dissertation did make it into *Plain Text* in an
+ad-hoc manner, but the book as a whole represents a completely new
+framework and a new direction in my thinking about the subject. The bulk of the
+re-written dissertation made it into another project, called *Algorithmic
+Imagination*, to be completed in the winter of 2015/16.
+
+## Schedule to Completion
+
+As of today, the manuscript stands at 40k words. During the academic year, I
 average around 250 words per day, a number that more than quadruples when freed
-from teaching obligations. Assuming a manuscript of around 80k words (and
-discounting the fact that large portions of this book are anticipated in my
-dissertation), a conservative estimate of my schedule would place the final
-draft somewhere towards the second half of summer, 2015.
+from teaching obligations.[^ln-progress] Assuming a manuscript of around 80k
+words, a conservative estimate of my schedule would place the final draft
+somewhere towards the middle of summer, 2015.
+
+[^ln-progress]: I wrote a word-counter that beacons my progress online at
+[xpmethod.plaintext.in/minimal-computing/plaintext.html](http://xpmethod.plaintext.in/minimal-computing/plaintext.html).
+
 
