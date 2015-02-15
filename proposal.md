@@ -51,8 +51,8 @@ the humanities."
 ## Existing Literature
 
 *Plain Text* makes a theoretical intervention in the cluster of media studies-
-and digital humanities-related fields that include "science and technology
-Studies," "platform studies," "critical code studies," and "media archeology."
+and digital humanities-related fields that include Science and Technology
+Studies, Platform Studies, Critical Code Studies, and Media Archeology.
 Recent comparable books in these fields include *Paper Knowledge* by Lisa
 Gitelman published by Duke UP in 2014, *Coding Freedom: The Ethics and
 Aesthetics of Hacking*, by Gabriella Coleman from Princeton UP in 2012,
@@ -75,8 +75,8 @@ Goodman and John Haugeland define it in the analytic tradition. I proceed by
 testing their intuitions on the basis of something called the "Soap Opera
 Effect" particular to modern Liquid Crystal Displays (LCDs) and in the related
 "motion interpolation" technology." The resulting analysis clarifies the
-various (and often conflicting) meanings of the word "digital" in media studies
-and in the digital humanities.
+various (and often conflicting) meanings of the word "digital" in Media Studies
+and in the Digital Humanities.
 
 Complimentary to both of these fields, I prefer to describe my work as
 "computational culture studies," understood in two ways: first as the
@@ -90,10 +90,10 @@ important for me to insist on the reciprocal motion between the constituent
 elements of "computation" and "culture." Too often rhetoric around the digital
 humanities resembles a one-way street, in which computational methods are
 promised to reform the humanities unilaterally. Books like Alexander Galloway's
-*Laruelle: Against the Digital* (UMinn Press, 2014), , Matthew Fuller's *Evil
+*Laruelle: Against the Digital* (UMinn Press, 2014), Matthew Fuller's *Evil
 Media* (MIT, 2012) and Johanna Drucker's *What Is?* (Cuneiform Press, 2013)
 represent the beginning of a critical counter-movement. But this response too
-must be balanced against emendatory potential of the digital humanities
+must be balanced against emendatory potential of the Digital Humanities
 program. As was the case with the "linguistic turn" in the decades prior,
 almost all fields of human knowledge are now experiencing a turn towards
 computational methods, which offer new insight at previously unavailable scales
@@ -130,43 +130,44 @@ disciplines (and particularly from departments of English, History, and
 Computer Science). I lecture widely in language departments, in schools of
 engineering, in front of publishers, architects, artists, and librarians. As a
 founder of Columbia's Group for Experimental Methods in the Humanities, I
-believe critical engagement with technology and in exposing my students to
+believe in critical engagement with technology and in exposing my students to
 real-world problems. My group has ran workshops on online security for
 activists, we are teaching digital literacy at Rikers Island, and we have
 reached out to an online community of engineers to help us write media history
-as a project in "citizen humanities."[^ln-xp] In the fall of 2014, the group's activity
-became the basis for Columbia's fund raising efforts around digital humanities,
-in the form of a proposal for the Center of Culture and Computation. The
-proposal was met with wide approval from the university deans, the provost, and
-the president. In January 2015, the group was encouraged to apply for the
-presidential "global innovation" fund to organize workshops on "digital
-justice" in Beijing, Mumbai, and in Amman, Jordan. I am supported and inspired
-in these endeavors by my colleagues at Harvard's Berkman Center for Internet
-and Society, where I am an active faculty associate. I keep these manifold
-audiences in mind as I am finishing *Plain Text.* The book exposes the
-intellectual foundations that bolster my research teaching activities. I write
-to strengthen these projects and to give back to the community that has
-supported me so generously. I hope to rely on the same good will and on the
-same support networks in reaching out to promote my book.
+as a project in "citizen humanities."[^ln-xp] In the fall of 2014, the group's
+activity became the basis for Columbia's fund raising efforts around digital
+humanities, in the form of a proposal for the Center of Culture and
+Computation. The proposal was met with wide approval from the university deans,
+the provost, and the president. In January 2015, the group was encouraged to
+apply for the presidential "global innovation" fund to organize workshops on
+"digital justice" in Beijing, Mumbai, and in Amman, Jordan.
+
+I am inspired in these endeavors by my colleagues at Columbia English and at
+Harvard's Berkman Center for Internet and Society, where I am an active faculty
+associate. I keep these manifold audiences in mind as I am finishing *Plain
+Text.* The book exposes the intellectual foundations that bolster my research
+teaching activities. I write to strengthen these projects and to give back to
+the community that has supported me so generously. I hope to rely on the same
+good will and on the same support networks in reaching out to promote my book.
 
 In the course of my teaching career, I have been asked to create courses and
 certificate programs for graduate students in the humanities interested in
 computational studies, including courses at the Digital Humanities Summer
-Institute at the University of Victoria and the Lede program at Columbia's
-Journalism School. Texts assigned in these environments are either volumes
-published by technical presses for a professional audience or theory-based
-readings in new media studies that are related to the task of teaching the
-fundamentals of computer science in context only loosely. My book covers the
-philosophical foundations of computing fundamentals, explaining not just the
-how of digital humanities by the why. With the proposed technical appendix and
-a possible companion site (explained in the next section), I hope to supplement
-the main body of the work with "experiments" that illustrate theoretical
-concepts in practice, at the keyboard. Such blend of theory and practice
-defines my method. As many major universities invest in programs related to
-digital humanities, computational social science, and computational
-journalism,[^ln-dh] I hope for *Plain Text* to become a standard text that
-introduces faculty and advanced graduate students to the notion of critical
-practice in humanities computing.
+Institute at the University of Victoria and in the Lede program at Columbia's
+Journalism School. Texts usually assigned in these environments are either
+volumes published by technical presses for a professional audience or
+theory-based readings in New Media Studies that are related to the task of
+teaching the fundamentals of Computer Science in context only loosely. My book
+covers the philosophical foundations of computing fundamentals, explaining not
+just the how of Digital Humanities but the why. With the proposed technical
+appendix and a possible companion site (explained in the next section), I hope
+to supplement the main body of the work with a series of "experiments" that
+illustrate theoretical concepts in practice, at the keyboard. Such blend of
+theory and practice defines my method. As many major universities invest in
+programs related to Digital Humanities, Computational Social Science, and
+Computational Journalism,[^ln-dh] I hope for *Plain Text* to become a standard
+text that introduces faculty and advanced graduate students to the notion of
+critical practice in humanities computing.
 
 [^ln-dh]: For example: In February 2015, U. Penn received $7,000,000 from Penn
 Arts and Sciences Overseer to establish the Price Lab for the Digital
@@ -195,7 +196,7 @@ writing it, I continually test my intuitions against the reality of
 contemporary computing devices: laptops, servers, and mobile phones. It is one
 thing, for example, to maintain that "the media is the message," and quite
 another to ask how different modalities like sound, image, and video are
-encoded on the operating system level (Chapter 4). Similarly, the difference
+encoded on level of the operating system (Chapter 4). Similarly, the difference
 between binary and plain-text formats can be best explored by peeking "under
 the hood" of an Adobe Acrobat file (as I do in Chapter 3).
 
@@ -203,18 +204,19 @@ Although not required for the understanding of the book, I would like to
 include a supplementary appendix that expands on the theoretical insight from
 each chapter with "experiments" that can be done in the command line (a textual
 human-computer interface built into most operating systems). These exercises
-could exist on paper or as a complimentary website. Training in computational
-methods often begins with packaged tools that obscure the underlying complexity
-of the method. While writing a relatively complex piece of code a journalist in
-my class once confessed to being confused about the relationship between files
-and folders, for example. *Plain Text* is a book *about* files and folders: it
-is about textuality as encoded in specific ways on machines that have a shared
-engineering pedigree. The hidden (but very much intended) side-effect of *Plain
-Text* is a measure of technical proficiency with Unix-based operating systems.
-Higher-level notions that address the political reality of computation, be it
-"open access," "freedom of information," or "online privacy" begin at that
-system level. The book's Technical Appendix will help build a practical
-foundation to the argument advanced within.
+could exist on paper (as an Appendix) or as a complimentary website. Training
+in computational methods often begins with packaged tools that obscure the
+underlying complexity of the method. For example, while writing a relatively
+complex piece of code a journalist in my class once confessed to being confused
+about the relationship between files and folders. *Plain Text* is a book
+*about* files and folders: it is about textuality as encoded in specific ways
+on machines that have a shared engineering pedigree. The hidden (but very much
+intended) side-effect of *Plain Text* is a measure of technical proficiency
+with Unix-based operating systems. Higher-level notions that address the
+political reality of computation, be they "open access," "freedom of
+information," or "online privacy", begin at that system level. The book's
+Technical Appendix would help build a practical foundation to the arguments
+advanced within.
 
 The book assumes no prior knowledge. It can be read sequentially as a
 conventional piece of scholarship in textual theory or new media studies. But
@@ -224,7 +226,7 @@ terminals. Detailed instructions on how to set up this *augmented reading
 environment*: related experiments, excercises, and explainations will be found
 in the Technical Appendix.
 
-In addition to the appendix the book contains several (8-12) tables and
+In addition to the Appendix, the book contains several (8-12) tables and
 illustrations. I intend to apply for the "first book" subsidy offered by
 Harvard's Department of Comparative Literature to offset any costs associated
 with the preparation of the manuscript.
@@ -247,9 +249,9 @@ times, to indicate immaterial categories in the ideal realm. A critical
 treatment of a more contemporary conversation on "surface" and "depth" of
 meaning reveals form as a mediating concept between thought and matter. A case
 study in extreme surface reading, in the bowls of a photocopier, opens the way
-to the distinction between print, where matter, form, and content are literally
-fused, and screen, where the three layers come apart, providing only the
-illusion of flattened textuality.
+to the distinction between print (where matter, form, and content are literally
+fused) and screen (where the three layers come apart, providing only the
+illusion of flattened textuality).
 
 #### Chapter 2: Literature Down to the Pixel
 
@@ -268,8 +270,8 @@ not entirely critical: rather, it reveals a genealogy of computing alternative
 to the widely held notion of computer as a device for reductive "mathesis" (in
 the words of Johanna Drucker). I argue that the Turing machine is anticipated
 not just by the Babbage calculator, but in a series of advances in
-communications, word processing, and media storage. A notion of text
-(as opposed to number) is "baked into" the system.
+communications, word processing, and media storage. A notion of text (as
+opposed to number) is "baked into" the system.
 
 #### Chapter 3: We Have Always Been Digital
 
@@ -282,10 +284,10 @@ theoretical reflection. A case study of television motion blur (and the related
 "soap opera effect") undermines the initial ease with which notions of the
 digital are overdetermined to stand in for a range of often conflicting
 modalities. The next section deals with the analytic tradition of dissecting
-media into analog and digital categories (Nelson Goodman in particular). My
+media into analog and digital categories (via Nelson Goodman in particular). My
 summary of that tradition shows that language and text are already "born
-digital," that is, discrete and differentiated throughout by the analytical
-definition. Furthermore, digitality depends on "reliable processes of copying
+digital," that is, discrete and differentiated throughout (by the analytical
+definition). Furthermore, digitality depends on "reliable processes of copying
 and preservation." From that insight I take it that "being digital" is not an
 ontological condition, but rather imposed structure that manifests in specific
 material affordances. "Is it copyable?" becomes "can I copy it?" Digital being
@@ -296,16 +298,14 @@ dichotomy between digital and analog.
 
 ### Part II: Technology
 
+Part II of the book explores the textual technologies that define literary
+practice.
+
 #### Chapter 4: The Media Is Not the Message
 
-Media is defiantly not the message. Sources of that confusion and what's at
-stake. Encoding of the media on magnetic storage. A revisiting of modalities
-written and oral.  Derrida and Ong.
-
-The next chapter (not attached) will discuss differences between media, mode,
-and message in the confluence between semiotics (Saussure and Peirce) and
-information theory (Shannon, Weaver). The media is resolutely not the message,
-I argue.
+This chapter argues against the common-place truism that equates medium with
+message. Sources of that confusion and what's at stake. Encoding of the media
+on magnetic storage. A revisiting of modalities written and oral.
 
 #### Chapter 5: Freedom of Information
 
@@ -319,12 +319,14 @@ ways in which information is invoked in different discourses.
 #### Chapter 6: Bad Links
 
 Why links are bad. The long history of intertextuality. The excitement of the
-90s about it. The intertextual art of Gwern. Erudition and analogical thinking.
-The difference between hard-coded and symbolic links. Just a bit about the
-nature of knowledge or what is meant by "I've read that book." Snapshots, the
-Internet Archive, and the future of Wikipedia.
+90s about it. The intertextual art of Gwern (a blogger that writes about
+cryptography). Erudition and analogical thinking. The difference between
+hard-coded and symbolic links. Snapshots, the Internet Archive, and the
+future of Wikipedia.
 
 ### Part III: People
+
+Part III broaches the social impact of computational culture.
 
 #### Chapter 7: Recursive Encounters with Oneself
 
@@ -334,29 +336,23 @@ Beckett and Sartre. Pipes and I/O serialization.
 
 #### Chapter 8: Shared Knowledge
 
-Text as an interface between human and machine. The notions of an interface
-(Galloway). Incompatible modes of understanding. Anne Finch and the liminal
-space between species.  What you see is not what you get.  Isomorphism. Search.
-The brief moment of desktop publishing. Pen, typewriter, and word processor
-(with detours to Kittler and Heidegger).
-
-Writing together. Models of co-authorship (and why we should pay attention).
-The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
-
+What does it mean to "know" something? Extended cognition. Pen, typewriter, and
+word processor (with detours to Kittler and Heidegger). Writing together.
+Models of co-authorship (and why we should pay attention).  The massively
+multi-authored online novel (*Wu Ming and Lo zar non è morto*).
 
 #### Chapter 9: Secrecy, Surveillance
 
 Encrypted literature. Surveillance and counter-surveillance. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
-transparency.
-
-#### Conclusion: New Humanism
-
-Computation does not necessarily work for the military-industrial apparatus (as
-argued by Golumbia, Lennon, and McPherson). Recovering and preserving
-textuality in computing. Engineering for dissent.
+transparency.  Computation does not necessarily work for the
+military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
+Recovering and preserving textuality in computing. Engineering for dissent.
 
 ### Tech Appendix
+
+A series of "experiments" that illustrate key theoretical concepts form each
+chapter in the command line, to create an "augmented reading environment."
 
 ## Relationship to Dissertation
 
