@@ -67,6 +67,7 @@ Potential reviewers
     Matt Gold
     Nancy Baym
 
+    Matt Burton offered to read.
 
 For book blurb
 ===========================
@@ -75,4 +76,6 @@ For book blurb
     LIT:
     MEDIA STUDIES:
     DH:
+
+Write the companion on githubpages + ipython + nbivewer + asciicinema notebook!
 
