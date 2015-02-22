@@ -349,11 +349,11 @@ multi-authored online novel (*Wu Ming* and *Lo zar non è morto*).
 
 ### Chapter 9: Engineering for Dissent
 
-Encrypted literature. Revealment and dissimulation. Notions of
-textuality as embroiled in contemporary ideas of privacy, secrecy, and
-transparency.  Computation does not necessarily work for the
-military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
-Recovering and preserving textuality in computing.
+Encrypted literature. Revealment and dissimulation. Notions of textuality as
+embroiled in contemporary ideas of privacy, secrecy, and transparency.
+Computation does not necessarily work for the military-industrial apparatus (as
+argued by Golumbia, Lennon, and McPherson). Recovering and preserving
+textuality in computing.
 
 ## Tech Appendix
 

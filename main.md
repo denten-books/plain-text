@@ -4,7 +4,6 @@ author: "Dennis Tenen"
 
 ---
 
-
 # Introduction
 
 The majority of the introduction is in the book proposal. This section was not
@@ -211,11 +210,11 @@ of the book unpacking this idea. We will have to come to terms with what "plain
 text," "ASCII," and "bytes" really represent. But for now, a common-sense
 understanding of the sentiment should suffice. It is enough to have the
 intuition that texts and characters are concepts meant for humans and that
-bytes have something to do with (and for) machines.  Remarkably, under the
+bytes have something to do with (and for) machines. Remarkably, under the
 singular conditions of plain text (and even then, not always, and with many
 caveats), a unit of information meaningful to me (a human for the most part)
-gains a measure of equivalence to a byte, a unit of information "meant" for a
-computer.[^ln11-human], [^ln11-meaning]
+gains a measure of equivalence to a byte, a unit of information "meant for"
+a computer.[^ln11-human], [^ln11-meaning]
 
 Not all texts are created equal. In print, traditional distinctions between
 form and content lie flat. The printing press firmly embeds letters into paper,
@@ -227,17 +226,18 @@ in its media-specific contexts. Their work reminds us that the flatness of
 digital text endures only as an illusion. A substantial gap separates
 presentation from source material. Low-level, operational intuitions governing
 textuality--ideas about form, content, style, letter, and word--change
-profoundly as text shifts its confines from paper to pixel.  Forces of capital
+profoundly as text shifts its confines from paper to pixel. Forces of capital
 and control often exploit that gap, relying on technological obscurity and
 institutional momentum to promote their ends (for better or for worse).
-I contend here that some of the higher-level ills of the contemporary public
-sphere, the so called crisis in the academic publishing industry, for example,
-can be linked directly to our inability or unwillingness to come to terms with
-conditions of digital textuality. A society that cares about the long-term
-preservation of complex discursive formations like free speech, dialog, and
-deliberation online, would do well to take heed of textual building blocks at
-their foundation. Text matters because how it is encoded, transmitted, and
-stored, decides who gets to decode, receive, and access.
+
+I contend here that some of the higher-level social ills of the contemporary
+public sphere, mass surveillance or online censorship, for example, are related
+to our inability or unwillingness to come to terms with the changing conditions
+of digital textuality. A society that cares about the long-term preservation of
+complex discursive formations like free speech, dialog, and deliberation
+online, would do well to take heed of textual building blocks at their
+foundation. Text matters because how it is encoded, transmitted, and stored,
+decides who gets to decode, receive, and access.
 
 [^ln11-char]: There are many caveats here, to be explored later. Follow along
 with exercises related to the discussion in the Technical Appendix.
@@ -249,13 +249,13 @@ modalities of being are possible on the spectrum between human and machine, or
 human and complex system. We will have a chance to explore these possibilities
 in second half of the book. For now, I ask that the reader simply rely on the
 colloquial, pre-theoretical understanding of both person and instrument.
-However intertwined the hand and the hammer can be, there is an intuitive way
-in which a child can separate one from the other. There is deep-rooted instinct
-at work in that distinction, one that cannot and should not be dismissed as
-mere naiveté. The concept of a human is in itself a powerful theoretical
-construct, and, as I will argue later, one necessary, not only for the
-understanding of key concepts in literary theory and computer science, but also
-in articulating an ethics of critical computation.
+However intertwined the hand and the hammer can become, there is an intuitive
+way in which a child can separate one from the other. There is deep-rooted
+instinct at work in that distinction, one that cannot and should not be
+dismissed as mere naiveté. The concept of a human is in itself a powerful
+theoretical construct, and, as I will argue throughout, one necessary, not only
+for the understanding of key concepts in literary theory and computer science,
+but also in articulating an ethics of critical computation.
 
 [^ln11-meaning]: I write "meaning" in quotation marks, because the question of
 whether it makes sense to talk about meaning for artificial agents is a
@@ -3408,9 +3408,14 @@ self-identity.
 ## 3.2 Shared Knowledge
 `author, citation`
 
+What does it mean to "know" something? Extended cognition. Pen, typewriter, and
+word processor (with detours to Kittler and Heidegger). Writing together.
+Models of co-authorship (and why we should pay attention).  The massively
+multi-authored online novel (*Wu Ming* and *Lo zar non è morto*).
+
 ### 3.2.1 Cooperation
 
-### 3.2.2 Writing together.
+### 3.2.2 Writing together
 
 Models of co-authorship (and why we should pay attention).
 The massively multi-authored online novel (Wu Ming and Lo zar non è morto).
@@ -3425,11 +3430,11 @@ drafts, manuscripts, and versions that sprout in the wake of co-authorship.
 This brings me to a strange (but meaningful) space between textual criticism
 and version control
 
-### 2.4.1 Introduction Code and poetry. 
+### 3.4.1 Introduction Code and poetry 
 
 These words were meant to be together.
 
- 
+
 F. C. Bakewell's Copying Telegraph secrecy already built in.  Privacy, secrecy,
 surveillance, and transparency.  Stuff about Lull here? Artificial
 intelligence. Gwern and encryption. Cypher punk. Surveilence and privacy being
@@ -3454,8 +3459,13 @@ constitutionally protected as free speech.
 
 ### Identity Anonymous authorship.  
 
-## 3.3 Secrecy, Surveillance
-Thought control. T
+## 3.3 Engineering for Dissent
+
+Encrypted literature. Revealment and dissimulation. Notions of
+textuality as embroiled in contemporary ideas of privacy, secrecy, and
+transparency.  Computation does not necessarily work for the
+military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
+Recovering and preserving textuality in computing.
 
 # Conclusion: New Humanism
 
