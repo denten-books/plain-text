@@ -213,8 +213,8 @@ intuition that texts and characters are concepts meant for humans and that
 bytes have something to do with (and for) machines. Remarkably, under the
 singular conditions of plain text (and even then, not always, and with many
 caveats), a unit of information meaningful to me (a human for the most part)
-gains a measure of equivalence to a byte, a unit of information "meant for"
-a computer.[^ln11-human], [^ln11-meaning]
+gains a measure of equivalence to a byte, a unit of information "meant for" a
+computer.[^ln11-human], [^ln11-meaning]
 
 Not all texts are created equal. In print, traditional distinctions between
 form and content lie flat. The printing press firmly embeds letters into paper,
@@ -232,12 +232,12 @@ institutional momentum to promote their ends (for better or for worse).
 
 I contend here that some of the higher-level social ills of the contemporary
 public sphere, mass surveillance or online censorship, for example, are related
-to our inability or unwillingness to come to terms with the changing conditions
-of digital textuality. A society that cares about the long-term preservation of
-complex discursive formations like free speech, dialog, and deliberation
-online, would do well to take heed of textual building blocks at their
-foundation. Text matters because how it is encoded, transmitted, and stored,
-decides who gets to decode, receive, and access.
+to our failure to come to terms with the changing conditions of digital
+textuality. A society that cares about the long-term preservation of complex
+discursive formations like free speech, dialog, and deliberation online, would
+do well to take heed of textual building blocks at their foundation. Text
+matters because how it is encoded, transmitted, and stored, decides who gets to
+decode, receive, and access.
 
 [^ln11-char]: There are many caveats here, to be explored later. Follow along
 with exercises related to the discussion in the Technical Appendix.
@@ -264,20 +264,26 @@ we have the chance to discuss notions of data and information as
 meaning-carrying units.
 
 What is text? In talking about texts of all kinds, literary scholars and
-computer scientists often make the distinction between form and content.  For
-example, in her book on computational text generation, Kathleen McKeown writes
-that to produce discourse, writers and speakers "must decide what to say and
-how to present it effectively." A machine that generates text should, among
-other things, be able to determine "content and textual shape" of what needs to
-be said or written [@cohen_dependencies_1982, 1]. Similarly, in her influential
-essay "Print is Flat, Code is Deep," Katherine Hayles writes about "the
-interplay between a text's physical characteristics and its signifying
-strategies" [@hayles_print_2004, 72]. Let's dwell on the history of the
-distinction between content and textual shape, between a text's physical
-characteristics and its signifying strategies for a few paragraphs. I'll give
-you the standard version first, but then return to revise and to complicate,
-because the traditional version hides a rather serious confusion, one that will
-become increasingly central to our conversation.
+computer scientists often make the distinction between form and content.
+"Classical art, in a word, stands for form," R.G. Gollingwood wrote in 1929,
+"romamantic art for content [@collingwood_form_1929, 335]." In a much more
+recent work on computational text generation, Kathleen McKeown writes that to
+produce discourse, writers and speakers "must decide what to say and how to
+present it effectively." A machine that generates text should, among other
+things, be able to determine "content and textual shape" of what needs to be
+said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
+"Print is Flat, Code is Deep," Katherine Hayles writes about "the interplay
+between a text's physical characteristics and its signifying strategies"
+[@hayles_print_2004, 72]. In each case, the model underlying textual production
+involves the bifurcation between some notions of shape and meaning, form and
+content.
+
+Let's dwell on the history of the distinction between content and textual
+shape, between a text's physical characteristics and its signifying strategies
+for a few paragraphs. I'll give you the standard version first, but then return
+to revise and to complicate, because the traditional version hides a rather
+serious confusion, one that will become increasingly central to our
+conversation.
 
 The dichotomy between form and content harkens back to traditional Platonic
 theory of essences. For Plato, the "essence" or an "idea" of something (like
