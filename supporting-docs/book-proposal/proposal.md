@@ -230,7 +230,7 @@ conventional piece of scholarship in textual theory or new media studies. But
 for those willing to take the plunge, I will often illustrate abstract
 theoretical concepts by asking the reader to type some commands into their
 terminals. Detailed instructions on how to set up this *augmented reading
-environment*: related experiments, excercises, and explainations will be found
+environment*: related experiments, exercises, and explanations will be found
 in the Technical Appendix.
 
 In addition to the Appendix, the book contains several (8-12) tables and
