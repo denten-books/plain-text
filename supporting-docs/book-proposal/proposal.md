@@ -1,8 +1,15 @@
 ---
-title: "Plain Text: The Poetics of Human-computer Interaction (Book Proposal)"
+title: "Plain Text: Poetics of Human-computer Interaction (Book Proposal)"
 author: Dennis Tenen
 
 ---
+
+\newpage
+
+*Plain Text* occupies the space between literary theory and the digital
+humanities, challenging received notions of digital being through the media
+history of a singular file format (```.txt```).
+
 # Theme and Argument
 
 Plain text is a file format and a frame of mind. A fundamental concept in the
@@ -44,9 +51,8 @@ sophisticated, it sometimes produces research far removed from the actual
 practice of creating new media (the archetypal example given by Katherine
 Hayles is one of a contemporary photography critic not familiar with the use of
 the "layers" tool in Photoshop). By contrast, I situate *Plain Text* at the
-intersection of theory and practice: somewhere between "technological
-foundations for new media studies" and "philosophical bases for computing in
-the humanities."
+intersection of theory and practice: somewhere between "technical literacy for
+new media studies" and "philosophical bases for computing in the humanities."
 
 # Existing Literature
 
@@ -81,7 +87,7 @@ and in the Digital Humanities.
 Complimentary to both of these fields, I prefer to describe my work as
 "computational culture studies," understood in two ways: first as the
 study of "computational culture," and, second, as computational approaches to
-"culture studies". *Plain Text* falls firmly into the first category, with some
+"culture studies." *Plain Text* falls firmly into the first category, with some
 elements of the book edging on light computational methods (particularly if you
 consider the proposed digital companion, discussed shortly).
 
@@ -128,15 +134,15 @@ courses at Columbia University, which include *Code & Poetry* (Fall 2014),
 Journalists* (Summer 2014), attract a diverse body of students from multiple
 disciplines (and particularly from departments of English, History, and
 Computer Science). I lecture widely in language departments, in schools of
-engineering, in front of publishers, architects, artists, and librarians. As a
-founder of Columbia's Group for Experimental Methods in the Humanities, I
-believe in critical engagement with technology and in exposing my students to
+engineering, in front of publishers, architects, artists, and librarians. As
+a founder of Columbia's Group for Experimental Methods in the Humanities,
+I believe in critical engagement with technology and in exposing my students to
 real-world problems. My group has ran workshops on online security for
-activists, we are teaching digital literacy at Rikers Island, and we have
+activists; we are teaching digital literacy at Rikers Island; and we have
 reached out to an online community of engineers to help us write media history
 as a project in "citizen humanities."[^ln-xp] In the fall of 2014, the group's
-activity became the basis for Columbia's fund raising efforts around digital
-humanities, in the form of a proposal for the Center of Culture and
+activity became the basis for Columbia's capital fund raising efforts around
+digital humanities, in the form of a proposal for the Center of Culture and
 Computation. The proposal was met with wide approval from the university deans,
 the provost, and the president. In January 2015, the group was encouraged to
 apply for the presidential "global innovation" fund to organize workshops on
@@ -146,9 +152,10 @@ I am inspired in these endeavors by my colleagues at Columbia English and at
 Harvard's Berkman Center for Internet and Society, where I am an active faculty
 associate. I keep these manifold audiences in mind as I am finishing *Plain
 Text.* The book exposes the intellectual foundations that bolster my research
-teaching activities. I write to strengthen these projects and to give back to
-the community that has supported me so generously. I hope to rely on the same
-good will and on the same support networks in reaching out to promote my book.
+and teaching activities. I write to strengthen these projects and to give back
+to the community that has supported me so generously. I hope to rely on the
+same good will and on the same support networks in reaching out to promote my
+book.
 
 In the course of my teaching career, I have been asked to create courses and
 certificate programs for graduate students in the humanities interested in
@@ -158,16 +165,16 @@ Journalism School. Texts usually assigned in these environments are either
 volumes published by technical presses for a professional audience or
 theory-based readings in New Media Studies that are related to the task of
 teaching the fundamentals of Computer Science in context only loosely. My book
-covers the philosophical foundations of computing fundamentals, explaining not
-just the how of Digital Humanities but the why. With the proposed technical
-appendix and a possible companion site (explained in the next section), I hope
-to supplement the main body of the work with a series of "experiments" that
-illustrate theoretical concepts in practice, at the keyboard. Such blend of
-theory and practice defines my method. As many major universities invest in
-programs related to Digital Humanities, Computational Social Science, and
-Computational Journalism,[^ln-dh] I hope for *Plain Text* to become a standard
-text that introduces faculty and advanced graduate students to the notion of
-critical practice in humanities computing.
+furnishes the intellectual foundations motivating the study of computing
+fundamentals, explaining not just the how of Digital Humanities but the why.
+With the proposed technical appendix and a possible companion site (explained
+in the next section), I hope to supplement the main body of the work with
+a series of "experiments" that illustrate theoretical concepts in practice, at
+the keyboard. Such blend of theory and practice defines my method. As many
+major universities invest in programs related to Digital Humanities,
+Computational Social Science, and Computational Journalism,[^ln-dh] I hope for
+*Plain Text* to become a standard text that introduces faculty and advanced
+graduate students to the notion of critical practice in humanities computing.
 
 [^ln-dh]: For example: In February 2015, U. Penn received $7,000,000 from Penn
 Arts and Sciences Overseer to establish the Price Lab for the Digital
@@ -261,16 +268,16 @@ here that the concern with value in literary criticism detracts from the
 explicit movement of control and power intimately connected to digital
 textuality. Unlike scholars in the foucauldian tradition (who often trace the
 machinations of power through discourse), I concentrate my analysis on
-mechanisms of control at the material roots of literary practice. In doing a
-media history through primary sources on early development of modern computing,
-I show the explicit admixture of content and code: one meant to communicate
-messages to humans and the other to program universal machines. This history is
-not entirely critical: rather, it reveals a genealogy of computing alternative
-to the widely held notion of computer as a device for reductive "mathesis" (in
-the words of Johanna Drucker). I argue that the Turing machine is anticipated
-not just by the Babbage calculator, but in a series of advances in
-communications, word processing, and media storage. A notion of text (as
-opposed to number) is "baked into" the system.
+mechanisms of control at the material roots of literary practice. In doing
+a media history through primary sources on early development of modern
+computing, I show the explicit admixture of content and code: one meant to
+communicate messages to humans and the other to program universal machines.
+This history is not entirely critical: rather, it reveals a genealogy of
+computing alternative to the widely held notion of computer as a device for
+reductive "mathesis" (in the words of Johanna Drucker). I argue that the Turing
+machine is anticipated not just by the Babbage calculator, but in a series of
+advances in communications, word processing, and media storage. A notion of
+text (as opposed to number) is hence "baked into" the system.
 
 ### Chapter 3: We Have Always Been Digital
 
@@ -338,15 +345,15 @@ Beckett and Sartre. Pipes and I/O serialization.
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
 word processor (with detours to Kittler and Heidegger). Writing together.
 Models of co-authorship (and why we should pay attention).  The massively
-multi-authored online novel (*Wu Ming and Lo zar non è morto*).
+multi-authored online novel (*Wu Ming* and *Lo zar non è morto*).
 
-### Chapter 9: Secrecy, Surveillance
+### Chapter 9: Engineering for Dissent
 
-Encrypted literature. Surveillance and counter-surveillance. Notions of
+Encrypted literature. Revealment and dissimulation. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
 transparency.  Computation does not necessarily work for the
 military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
-Recovering and preserving textuality in computing. Engineering for dissent.
+Recovering and preserving textuality in computing.
 
 ## Tech Appendix
 

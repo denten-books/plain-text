@@ -65,6 +65,8 @@ Potential reviewers
     Patrik Svensson
     Lisa Gitelman (Columbia Ph.D.)
     Matt Gold
+    Ted Underwood
+    Hoyt Long
     Nancy Baym
 
     Matt Burton offered to read.
