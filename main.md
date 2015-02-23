@@ -300,8 +300,8 @@ Similarly, for Plato and later René Descartes, G.W.F. Hegel, and for other
 so-called "idealists," ideas provide us with lasting universal "templates" for
 the contingent and always changing material world.[^ln11-descartes]
 
-Hegel gives us the paradigmatic formulation of the distinction between form and
-content in his *Lectures on Aesthetics*. According to his system, classical art
+It is Hegel who gives perhaps the paradigmatic expression to the dichotomy in
+the literature on aesthetics. In his *Lectures on Aesthetics*, classical art
 strives to reach a sort of an equilibrium between its ideational, spiritual
 content and "the configuration of sensuous material [@hegel_hegels_1998, 70]."
 Whole books have been written on Hegel's rather technical and sometimes
@@ -315,9 +315,9 @@ world somehow, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
 like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
 curves, surfaces, carvings, colors, tones, word sounds, and generally material
 (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
-*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. This
-cluster conveys physical (palpable, of this world) outward-facing properties,
-available for examination to the senses (*Sinne*).
+*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. This cluster
+conveys physical (palpable, of this world) outward-facing properties, available
+for examination to the senses (*Sinne*).
 
 By contrast with classical art, the art of Romanticism seeks to disengage
 itself from matter, reaching the realm of pure self-reflective spirit, "freed
