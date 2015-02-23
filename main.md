@@ -284,68 +284,73 @@ you the standard version first, but then return to revise and to complicate.
 The traditional version, as I will argue, hides a rather serious confusion, one
 that will become increasingly central to our conversation.
 
-The philosophical tradition of dualism in terms of form and content has its
-roots, like many foundational distinctions in the Western tradition, in the
-philosophy of Plato. For Plato, the "essence" or an "idea" of something (like a
-chair) exists in a sort of an ideal, metaphysical state, somewhere beyond the
-confines of the material universe. By contrast, a physical instantiation of
-that object (a specific chair) embodies a somewhat more limited, even
-corrupted, version of that perfect idea. The task of the philosopher, then,
-becomes to reconstruct the ideal notion of the perfect chair from their many
-imperfect instantiations. A contemporary computer scientist will recognize in
-this chain of reasoning the principles behind object oriented programming: a
-way of building software that works by defining abstract "object classes" and
-invoking them as "class instances" [@hoare_record_1965, @nygaard_history_1981].
-Similarly, for Plato and later René Descartes, G.W.F. Hegel, and for other
-so-called "idealists," ideas provide us with lasting universal "templates" for
-the contingent and always changing material world.[^ln11-descartes]
+The philosophical distinction between form and content has its roots, like many
+foundational dichotomies in the Western tradition, in the philosophy of Plato.
+For Plato, the "essence" or an "idea" of something (like a chair) exists in a
+sort of an ideal, metaphysical state, somewhere beyond the confines of the
+material universe. By contrast, a physical instantiation of that object (a
+specific chair) embodies a somewhat more limited, even corrupted, version of
+that perfect idea. The task of the philosopher, then, becomes to reconstruct
+the ideal notion of the perfect chair from their many imperfect instantiations.
+A contemporary computer scientist will recognize in this chain of reasoning the
+principles behind object oriented programming: a way of building software that
+works by defining abstract "object classes" and invoking them as "class
+instances" [@hoare_record_1965, @nygaard_history_1981].  Similarly, for Plato
+and later René Descartes, G.W.F.  Hegel, and for other so-called "idealists,"
+ideas provide us with lasting universal "templates" for the contingent and
+always changing material world.[^ln11-descartes]
 
 It is Hegel who gives perhaps the paradigmatic expression to the dichotomy in
-the literature on aesthetics. In his *Lectures on Aesthetics*, classical art
-strives to reach a sort of an equilibrium between its ideational, spiritual
-content and "the configuration of sensuous material [@hegel_hegels_1998, 70]."
-Whole books have been written on Hegel's rather technical and sometimes
-idiosyncratic vocabulary. Rather than define terms precisely, Hegel likes to
-give his reader a sort of a cognitive cluster of related concepts. On the side
-of "content" (*Inhalt*, *Gehalt*), his reader will find words like inner life
+the literature on aesthetics. In his *Lectures on Aesthetics*, Hegel posits
+classical art as striving to reach an equilibrium between its ideational,
+spiritual content and "the configuration of sensuous material
+[@hegel_hegels_1998, 70]." Whole books have been written on Hegel's rather
+technical and sometimes idiosyncratic vocabulary. Rather than define terms
+precisely, Hegel likes to bombard his reader with semantic cognates. On the
+side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
 (*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
-(*Geist*). All of these convey a movement inward and a location beyond this
-world somehow, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
-*Verstand*). On the side of "form" (same in German) Hegel accumulates words
+(*Geist*). All of these convey a movement inward and a location beyond the
+physical world, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
+*Verstand*). On the side of "form" (same in German), Hegel accumulates words
 like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
 curves, surfaces, carvings, colors, tones, word sounds, and generally material
 (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
-*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. This cluster
-conveys physical (palpable, of this world) outward-facing properties, available
-for examination to the senses (*Sinne*).
+*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. This semantic
+cluster conveys physical (palpable, of this world) and outward-facing
+properties, available for examination to the senses (*Sinne*).
 
-By contrast with classical art, the art of Romanticism seeks to disengage
-itself from matter, reaching the realm of pure self-reflective spirit, "freed
-from this immediate existence which must be set down as negative, overcome, and
-reflected into the spiritual unity [@hegel_hegels_1998, 81]." He writes:
-"Poetry is the universal art of the spirit which has become free in itself and
-which is not tied down for its realization to external sensuous material;
-instead, it launches out exclusively in the inner space and the inner time of
-ideas and feelings [@hegel_hegels_1998, 89]." Finally, "inwardness
-celebrates its triumph over the external and manifests its victory in and on
-the external itself, whereby what is apparent to the senses alone sinks into
-worthlessness" [@hegel_hegels_1998, 81]. Romantic art triumphs over the
-external, material world, reaching at its pinnacle the stage of "free concrete
-spirituality" (*freie konkrete Geistigkeit*) [@hegel_werke:_1986, ???].
+By contrast with classical art, Hegel posits Romanticism as as an art that
+seeks to disengage itself from matter, reaching the realm of pure
+self-reflective spirit. Romanticism, in his words, is "freed from this
+immediate existence which must be set down as negative, overcome, and reflected
+into the spiritual unity [@hegel_hegels_1998, 81]." He writes: "Poetry is the
+universal art of the spirit which has become free in itself and which is not
+tied down for its realization to external sensuous material; instead, it
+launches out exclusively in the inner space and the inner time of ideas and
+feelings [@hegel_hegels_1998, 89]." Finally, "inwardness celebrates its triumph
+over the external and manifests its victory in and on the external itself,
+whereby what is apparent to the senses alone sinks into worthlessness
+[@hegel_hegels_1998, 81]." Romantic art can, in this way, triumph over the
+external, material world, reaching, at its apex, the stage of "free concrete
+spirituality" (*freie konkrete Geistigkeit*) [@hegel_werke:_1986, ???]. The
+idea overcomes matter to become both free from the constraints of the
+deterministic physical universe, yet gaining a measure of solidity in its
+concrete and tangible instantiation.
 
-Not all text is art, of course. But, if one believes in the potential for text
-to reach such lofty heights, he would also have to place value on the act of
-interpretation. The Hegelian art critic reaches beyond the pretty shimmering
-surfaces to divine internal, eternal metaphysical truths.  Stephen Best and
-Sharon Marcus describe such a mode of interpretation as "symptomatic reading,"
-a strategy that seeks latent or concealed meaning behind the surface of the
-text. For a Marxist critic like Louis Althusser or Frederic Jameson, that
-latent meaning may have something to do with hidden machinations of capital and
-ideology. The psychologically-minded reader may read in search of hidden
-drives, desires, or cognitive structures. By contrast, Marcus and Best describe
-several contemporary trends bulk at the Hegelian tradition, preferring instead
-to read at the surface of the text: descriptive reading, reading for form, for
-material, or "just reading [@best_surface_2009, 1-12]."
+Free and concrete! Where does that leave literature? Not all text is art, of
+course. But, if the reader is to believe in the potential for textual
+expression to reach such lofty Hegelian heights, he would also have to place
+value on the act of interpretation. The Hegelian literary critic reaches beyond
+the pretty shimmering surfaces to divine internal, eternal metaphysical truths.
+Stephen Best and Sharon Marcus describe such a mode of interpretation as
+"symptomatic reading," a strategy that seeks latent or concealed meaning behind
+the surface of the text. For a Marxist critic like Louis Althusser or Frederic
+Jameson, that latent meaning may have something to do with hidden machinations
+of capital and ideology. The psychologically-minded reader may read in search
+of hidden drives, desires, or cognitive structures.  By contrast, Marcus and
+Best describe several contemporary trends bulk at the Hegelian tradition,
+preferring instead to read at the surface of the text: descriptive reading,
+reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
 against interpretation. In the late 1960, Susan Sontag wrote about "the need
