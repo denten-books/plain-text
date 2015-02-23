@@ -234,7 +234,7 @@ I contend here that some of the higher-level social ills of the contemporary
 public sphere, mass surveillance or online censorship, for example, are related
 to our failure to come to terms with the changing conditions of digital
 textuality. A society that cares about the long-term preservation of complex
-discursive formations like free speech, dialog, and deliberation online, would
+discursive formations like free speech, privacy, and deliberation online, would
 do well to take heed of textual building blocks at their foundation. Text
 matters because how it is encoded, transmitted, and stored, decides who gets to
 decode, receive, and access.
@@ -278,27 +278,27 @@ between a text's physical characteristics and its signifying strategies"
 involves the bifurcation between some notions of shape and meaning, form and
 content.
 
-Let's dwell on the history of the distinction between content and textual
-shape, between a text's physical characteristics and its signifying strategies
-for a few paragraphs. I'll give you the standard version first, but then return
-to revise and to complicate, because the traditional version hides a rather
-serious confusion, one that will become increasingly central to our
-conversation.
+Let's dwell on the history of that distinction between text's physical
+characteristics and its signifying strategies for a few paragraphs. I'll give
+you the standard version first, but then return to revise and to complicate.
+The traditional version, as I will argue, hides a rather serious confusion, one
+that will become increasingly central to our conversation.
 
-The dichotomy between form and content harkens back to traditional Platonic
-theory of essences. For Plato, the "essence" or an "idea" of something (like
-a chair) exists in a sort of an ideal, metaphysical state, somewhere beyond the
+The philosophical tradition of dualism in terms of form and content has its
+roots, like many foundational distinctions in the Western tradition, in the
+philosophy of Plato. For Plato, the "essence" or an "idea" of something (like a
+chair) exists in a sort of an ideal, metaphysical state, somewhere beyond the
 confines of the material universe. By contrast, a physical instantiation of
-that object (a specific chair) comprises a somewhat more limited, even
-corrupted, version of that idea. The task of the philosopher then becomes to
-reconstruct the ideal notion of the perfect chair from many imperfect copies.
-A computer scientist will recognize in this chain of reasoning the principles
-behind object oriented programming: a way of building software that works by
-defining abstract "object classes" and invoking them as "class instances"
-[@hoare_record_1965, @nygaard_history_1981]. For Plato and later René
-Descartes, G.W.F. Hegel, and many other idealist philosophers, ideas provide us
-with enduring, universal, truths about the material, constantly changing,
-world.[^ln11-descartes]
+that object (a specific chair) embodies a somewhat more limited, even
+corrupted, version of that perfect idea. The task of the philosopher, then,
+becomes to reconstruct the ideal notion of the perfect chair from their many
+imperfect instantiations. A contemporary computer scientist will recognize in
+this chain of reasoning the principles behind object oriented programming: a
+way of building software that works by defining abstract "object classes" and
+invoking them as "class instances" [@hoare_record_1965, @nygaard_history_1981].
+Similarly, for Plato and later René Descartes, G.W.F. Hegel, and for other
+so-called "idealists," ideas provide us with lasting universal "templates" for
+the contingent and always changing material world.[^ln11-descartes]
 
 Hegel gives us the paradigmatic formulation of the distinction between form and
 content in his *Lectures on Aesthetics*. According to his system, classical art
