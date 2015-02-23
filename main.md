@@ -341,16 +341,17 @@ Free and concrete! Where does that leave literature? Not all text is art, of
 course. But, if the reader is to believe in the potential for textual
 expression to reach such lofty Hegelian heights, he would also have to place
 value on the act of interpretation. The Hegelian literary critic reaches beyond
-the pretty shimmering surfaces to divine internal, eternal metaphysical truths.
-Stephen Best and Sharon Marcus describe such a mode of interpretation as
-"symptomatic reading," a strategy that seeks latent or concealed meaning behind
-the surface of the text. For a Marxist critic like Louis Althusser or Frederic
-Jameson, that latent meaning may have something to do with hidden machinations
-of capital and ideology. The psychologically-minded reader may read in search
-of hidden drives, desires, or cognitive structures.  By contrast, Marcus and
-Best describe several contemporary trends bulk at the Hegelian tradition,
-preferring instead to read at the surface of the text: descriptive reading,
-reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
+the external, ephemeral material facade to uncover internal and eternal
+metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
+literary interpretation as "symptomatic reading," a strategy that seeks latent
+or concealed meaning behind the surface of the text. For a Marxist critic like
+Louis Althusser or Frederic Jameson, that latent meaning may have something to
+do with hidden machinations of capital and ideology. The psychologically-minded
+reader may read in search of hidden drives, desires, or cognitive structures.
+By contrast, Marcus and Best describe several contemporary trends bulk at the
+Hegelian tradition, preferring instead to read at the surface of the text:
+descriptive reading, reading for form, for material, or "just reading
+[@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
 against interpretation. In the late 1960, Susan Sontag wrote about "the need
