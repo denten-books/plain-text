@@ -337,50 +337,48 @@ idea overcomes matter to become both free from the constraints of the
 deterministic physical universe, yet gaining a measure of solidity in its
 concrete and tangible instantiation.
 
-Free and concrete! Where does that leave literature? Not all text is art, of
+Free *and* concrete! Where does that leave literature? Not all text is art, of
 course. But, if the reader is to believe in the potential for textual
 expression to reach such lofty Hegelian heights, he would also have to place
 value on the act of interpretation. The Hegelian literary critic reaches beyond
 the external, ephemeral material facade to uncover internal and eternal
 metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
-literary interpretation as "symptomatic reading," a strategy that seeks latent
-or concealed meaning behind the surface of the text. For a Marxist critic like
-Louis Althusser or Frederic Jameson, that latent meaning may have something to
-do with hidden machinations of capital and ideology. The psychologically-minded
-reader may read in search of hidden drives, desires, or cognitive structures.
-By contrast, Marcus and Best describe several contemporary trends bulk at the
-Hegelian tradition, preferring instead to read at the surface of the text:
-descriptive reading, reading for form, for material, or "just reading
-[@best_surface_2009, 1-12]."
+literary interpretation as "symptomatic reading," a strategy that seeks to
+uncover latent and concealed meaning beneath the evident surface. For a Marxist
+critic like Louis Althusser or Frederic Jameson, that latent meaning may have
+something to do with hidden machinations of capital and ideology. The
+psychologically-minded reader may read in search of hidden drives, desires, or
+cognitive structures. By contrast, Marcus and Best describe several
+contemporary theoretical trends that run counter to the Hegelian tradition,
+preferring instead to read at the surface of the text: descriptive reading,
+reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
 against interpretation. In the late 1960, Susan Sontag wrote about "the need
 for more attention to form in art." Interpretation can be liberating, she
-wrote, but it can also stifle creativity. It "depletes the world" in some way
-and places the critic in a privileged, unnecessarily meddling position between
+wrote, but it can also stifle creativity. It "depletes" the world in some way,
+placing the critic in a privileged and unnecessarily meddling position between
 reader and text. "If excessive stress on content provokes the arrogance of
 interpretation, more extended and more thorough descriptions of form would
 silence," she writes. "The best criticism, and it is uncommon, is of this sort
 that dissolves considerations of content into those of form
 [@sontag_against_1966, 8-9]. In yet an earlier revolt at the turn of the 20th
 century, Russian and Italian formalists strove to break with Hegelian normative
-aesthetics by wedding literary criticism with descriptive linguistics. In art,
-instead of inward symbols, they saw outward-pointing "devices" like rhyme and
-meter. In this vein the Italian futurist Filippo Marinetti wrote about the
-"grotesque funeral" of romantic notions of beauty, and the rise of a new
-"geometric and mechanical splendor." His generation was instead "in love with
-matter," wanting "to penetrate it and to understand its vibrations
-[@marinetti_marinetti:_1972, ???]."[^ln11-marinetti] In an inversion of
-Hegelian humanism, form took on a spiritual function for the Russian
-formalists. Art cannot be reduced to "thinking in symbols," wrote Viktor
-Shklovsky in 1917. Words "die" and become invisible to us in frequent use.
-Everyday prose in that sense is transparent language, no longer capable of
-evoking wonder. Truly vital art can counteract that death by "resurrecting the
-word" in "making the form difficult [@shklovsky_hod_1923, ???]." The study of
-poetic language (not necessarily poetry) therefore pays attention to the
-devices that aid in that renewal. In other words, for formalists what we say is
-less important than how we say it. Or, at the very least, the two are
-intimately related.
+aesthetics by wedding literary criticism with descriptive linguistics. Seing
+art as an economy of formal "devices" like rhyme and meter, the formalists
+downplayed the role of content and symbol. In this vein the Italian futurist
+Filippo Marinetti wrote about the "grotesque funeral" of romantic notions of
+beauty, and the rise of a new "geometric and mechanical splendor." His
+generation was instead "in love with matter," wanting "to penetrate it and to
+understand its vibrations [@marinetti_marinetti:_1972, ???]."[^ln11-marinetti]
+Art cannot be reduced to "thinking in symbols," Viktor Shklovsky, a prominent
+Russian formalist, wrote in 1917.  Meaning "dies" and becomes invisible through
+frequent use. Such dead and transparent language language can no longer evoke
+wonder or curiousity. Truly vital art counteracts death by "resurrecting the
+word" in "making the form difficult [@shklovsky_hod_1923, ???]." Form, in that
+sense, resurrects content. The study of poetic language (not necessarily
+poetry) therefore pays attention to the devices that aid in the process of
+linguistic renewal.
 
 [^ln11-descartes]: It is difficult to resist quoting from Descartes'
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
@@ -416,55 +414,55 @@ meccanico e la sensibilità numerica]
 My short history of the distinction between form and content is necessarily
 reductive. The situation on the ground was always more nuanced than the
 dichotomy would suggest, with a number of reasonable positions between extreme
-idealism and extreme materialism. But I was hoping to give you a taste of what
-was at stake: not just a dry academic debate about the nature of art, but the
-very capability of art (and don't necessarily think "high art" here) to
-transform humanity. For Hegel, art reached for truth, transcending the
-deterministic physical universe. For the formalists, art worked to revitalize
+idealism and extreme materialism. It is enough however to give a sense of
+what's at stake: not just a dry academic debate about the nature of art, but
+the very capability of art (and don't necessarily think "high art" here) to
+transform humanity. For Hegel, art reaches for truth, transcending the
+deterministic physical universe. For the formalists, art works to revitalize
 stale metaphors and ossified ways of thinking.
 
 The division of text into form and content makes a difference in more
 utilitarian ways as well. Imagine the challenge of compiling all known
-commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
-problem of what to count as a single text would be one of the first design
-challenges you would encounter. In the words of Barbara Mowat and Paul
-Werstine, the editors of Folger Digital Texts, "readers assume that there is
-a single text for the plays: what Shakespeare wrote. But Shakespeare’s plays
-were not published the way modern novels or plays are published today: as
-a single, authoritative text. In some cases, the plays have come down to us in
-multiple published versions, represented by various Quartos (Qq) and by the
-great collection put together by his colleagues in 1623, called the First Folio
-(F). There are, for example, three very different versions of *Hamlet*, two of
-*King Lear*, *Henry V*, *Romeo and Juliet*, and others. Editors choose which
-version to use as their base text, and then amend that text with words, lines
-or speech prefixes from the other versions that, in their judgment, make for
-a better or more accurate text [@mowat_textual_????]." Textual editors face
-such decisions routinely. What appears to us as one unified work, *Hamlet*, is
-an actuality a set of somewhat diverging drafts and editions. Errors in
-transcription and editorial interventions accumulate. The proliferation of
-unlicensed copies, translations, and imitations further adds to the complexity
-of the problem.
+commentaries on Shakespeare's *Hamlet*, by hand or programmatically, with an
+aid of a computer. The problem of what to count as a single text would be one
+of the first design challenges you would encounter. In the words of Barbara
+Mowat and Paul Werstine, the editors of *Folger Digital Texts*, "readers assume
+that there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare's plays were not published the way modern novels or plays are
+published today: as a single, authoritative text. In some cases, the plays have
+come down to us in multiple published versions, represented by various Quartos
+(Qq) and by the great collection put together by his colleagues in 1623, called
+the First Folio (F). There are, for example, three very different versions of
+*Hamlet*, two of *King Lear*, *Henry V*, *Romeo and Juliet*, and others.
+Editors choose which version to use as their base text, and then amend that
+text with words, lines or speech prefixes from the other versions that, in
+their judgment, make for a better or more accurate text [@mowat_textual_????]."
+In other words, where the readers expects to encounter *Hamlet* as a single,
+unified, idea, they instead encounter a multiplicity of slightly diverging
+artifacts. Errors in transcription and editorial interventions accumulate. The
+proliferation of unlicensed copies, translations, and imitations further adds
+to the complexity of the problem.
 
 Editors of classical literature will often solve the problem of diverging
 copies by designating one version as canonical, preserving the formal
 characteristics of the given version down to individual line breaks. It then
 becomes possible to collate commentaries, connecting each to individual words
 and passages at their canonical location. But the problem still remains in the
-abstract: the editor must force a single authoritative text where many exist.
-The act of deciding on what constitutes an authoritative edition can quickly
-become a contentious issue, particularly if the text in question has religious
-or political significance.
+abstract: the editor must compile a single "authoritative" text based on
+multiple extant editions. The act of deciding on what constitutes an
+authoritative edition can quickly become a contentious issue, particularly if
+the text in question has religious or political significance.
 
 A whole field of textual criticism exists in the service of negotiating
-"critical" editions which in some way preserve the struggle to reconstruct the
-authoritative text. But what should count for being authoritative? A number of
-logically possible answers find just as many ardent adherents.  For some, the
-act of deriving the authoritative text lies in reconstructing authorial intent,
-through author's diaries or first-hand witness testimony. Others place
-a premium on reconstructing and analyzing the writing process itself, in what
-has recently been dubbed as "genetic criticism  [@deppman_genetic_2004, 1-36]".
-Yet another approach will compare multiple editions of the same text to derive
-a possible meta-text, that preserves all variation. Yet other editors will
+"critical" editions which in some way preserve the struggle to reconstruct a
+measure of authority. But what should count for being authoritative? A number
+of logical possibilitis find as many ardent adherents. For some, the act of
+deriving the authoritative text lies in reconstructing authorial intent, using
+the athor's notes, for example, or from first-hand witness testimony. Others
+place a premium on reconstructing and analyzing the writing process itself, in
+what has recently been dubbed as "genetic criticism  [@deppman_genetic_2004,
+1-36]". Yet another approach will compare multiple editions of the same text to
+derive a possible meta-text, that preserves all variation. Yet others will
 simply rely on their judgment to produce what they believe is a "true" text
 based on a number of personal and eclectic considerations
 [@bowers_rationale_1950, @bowers_shakespeares_1954, @mcgann_radiant_2004]. All
@@ -495,35 +493,43 @@ of precision, down to the molecular level, could substitute for the historical
 patina of the original artifact.
 
 It is quite strange, if you think about it: to believe that objects somehow
-retain an aura of history. "A handkerchief used by Princess Diana." "The cigar
-box owned by President Kennedy." In some real sense, the historical patina
-covering these objects is not real. The patina cannot be reduced to physical
-characteristics, that is, to actual scratches or stains left on the object by
-a famous person. The object had to "be there" in some way. Having been there,
-is what gives the object value, sentimental or otherwise. The hight price
-contemporary society places on authentic artifacts is a vestige of magical
-thinking. Walter Benjamin's famous essay on the work of art in the age of
-mechanical reproduction appears to both celebrate and lament aura's demise.
+retain an aura of history: "a handkerchief used by Princess Diana," or "the
+cigar box owned by President Kennedy." In some real sense, the historical
+patina covering these objects is only imagined. President Kennedy's
+fingerprints and the tears of Princess Diana have long disappeared from their
+physical medium. Their trace cannot be reduced to "mere" physical
+characteristics: that is, to actual scratches, stains, or molecules,
+recoverable from the object. Rather, the object had to "be there" in some way,
+acquiring a patina of authenticity. "Having been there" is what gives the
+object value, sentimental or otherwise, in a condition that cannot be reduced
+to any formal, material characteristics. The high price contemporary society
+places on authentic artifacts is therefore a type of magical thinking. Walter
+Benjamin's famous essay on the work of art in the age of mechanical
+reproduction appears to both celebrate and lament the demise of such magic.
 "The technique of reproduction detaches the reproduced object from the domain
-of tradition," wrote Benjamin. "By making many reproductions it substitutes
-a plurality of copies for a unique existence. And in permitting the
-reproduction to meet the beholder or listener in his own particular situation,
-it reactivates the object reproduced. These two processes lead to a tremendous
+of tradition," wrote Benjamin.  "By making many reproductions it substitutes a
+plurality of copies for a unique existence. And in permitting the reproduction
+to meet the beholder or listener in his own particular situation, it
+reactivates the object reproduced. These two processes lead to a tremendous
 shattering of tradition which is the obverse of the contemporary crisis and
-renewal of mankind [@benjamin_work_1969, 217-253]." And yet, for Benjamin, the
-easy reproducibility of modern art forms like film and photography also
-"emancipates the work of art from its parasitical dependence on ritual
-[@benjamin_work_1969, 217-253]." Crisis or emancipation? The reproducibility of
-the work in the age of mechanical reproduction brings with it metaphysical
-anxiety about tradition and about art's emancipatory potential.
+renewal of mankind [@benjamin_work_1969, 217-253]." Once again, the fault lines
+between form and content lead threaten nothing less than human spiritual
+renewal. And yet, for Benjamin, the easy reproducibility of modern art forms
+like film and photography also "emancipates the work of art from its
+parasitical dependence on ritual [@benjamin_work_1969, 217-253]." The magic of
+traditional art must be exposed as just that: magic and superstition. Crisis or
+emancipation? Benjamin feels both, and in this he captures the metaphysical
+anxiety of the modern age. We want our Vermeers to stay special but also to
+multiply for everyone, peering back at us from a multitude of anonymous
+reproductions.
 
 The modern world faces the challenge of authenticity, which we have only began
-to assimilate: politically, economically, philosophically. The ubiquitous
+to assimilate: politically, economically, and philosophically. The ubiquitous
 holographic certificate of authenticity on a luxury handbag or on a "Digital
 Versatile Disk" (how antiquated the DVD sounds already!) is a cheap band-aid
 hiding the immaterial nature of these artifacts. Fashion and software companies
-are reluctant to talk publicly about piracy,[^ln11-counter] because the
-so called "knock-offs" are essentially exact copies, often "leaked" from the
+are reluctant to talk publicly about piracy,[^ln11-counter] because the so
+called "knock-offs" are essentially exact duplicates, often "leaked" from the
 very same factories producing the original.
 
 Note that it makes no sense to talk about "what was meant" by the designer of
@@ -535,12 +541,15 @@ attention with the original. One could say that for painting and handbags
 traditional vocabulary, which gives us only the binaries of form and content.
 The context-dependence of an artifact is not even medium-specific, as Goodman
 would suggest. Texts are more allographic than handbags and paintings, but
-Vermeers and Louis Vuitton purses *are* in some sense perfectly reproducible,
-like texts. They are texts, and I do not mean it in some post-structuralist
-notion of "everything is a text."[^ln11-derrida] Technologies like 3D scanning
-and printing literally reduce physical objects to their textual representation,
-in the form of a stereo lithographic document (STL). Here, for example, is a
-surface from a functional gun, made available by Defense Distributed:
+Vermeers and Louis Vuitton purses are also in some sense perfectly
+reproducible, like texts. They are texts, and I do not mean it in some
+post-structuralist notion of "everything is a text."[^ln11-derrida]
+Technologies like 3D scanning and printing increasingly reduce physical objects
+to their textual representation, as is the case with the stereo lithographic
+document (STL) format that describes objects for 3D printing.  Here, for
+example, I reproduce code that describes "a surface" of a functional gun (the
+code made available online by *Defense Distributed*, a self-described civic
+liberty activist group):
 
 ```
 22=(
@@ -557,16 +566,18 @@ SURFACE()
 );
 ```
 
-The movement from physical to textual has a pronounced effect on the governance
-of goods, felt precisely at the distinction between autographic and allographic
-works. Governments regulate the manufacture and the distribution of guns as
-artifacts, but how does one regulate guns as texts and ideas? Any such effort
-amounts to censorship. Yet, in the age of mechanical reproduction the
-distinction between idea and artifact narrows dramatically. What was regulated
-under the regime of property law, now increasingly falls under the regime of
-intellectual property and rights to speech. When both guns and books are
-reduced to text, we can reasonably expect to carry out our book and gun trades
-by email.
+This piece of code exists in its Platonic ideal *before* the physical artifact.
+As costs of reproduction approach zero, so does the line between an object and
+its description. Imagine a world where to think "gun" is also to seamlessly
+bring one into existence. The erosion of boundaries between object and idea has
+a pronounced effect on the governance of goods, felt precisely at the
+distinction between the autographic and the allographic. Governments currently
+regulate the manufacture and the distribution of guns as artifacts, but how
+does one regulate guns as texts and ideas? Any such effort amounts to
+censorship. What was first regulated under the regime of property law, now
+increasingly falls under the regimes of intellectual property and rights to
+speech. Where does that leave the practice of textual criticism? In such a
+world there can be no distinction between works and texts.
 
 [^ln11-counter]: A documentary on counterfeit goods produced by BBC4
 interviews Christophe Zimmerman, Senior Technical Officer at World Customs
@@ -587,14 +598,15 @@ of text. Everything is a text [@caputo_deconstruction_1996]."
 or other targets 'at a distance,' a book, a radio or a television sender can
 entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
 kill people and destroy at a distance. The book is a robot par excellence
-[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary and adversary of Sigmund
-Freud and one of the pioneers in sociology and group therapy. The text acts at
-a distance--we will come to that. But in some important ways, the gun is not a
-text. It can be reduced to textual description, transmitted, and manufactured
-cheaply. As the pendulum of textual scholarship swings back from treating text
-as pure idea, the materialists must acknowledge the aberrant specificity of
-textual material. Text routinely separates from its physical medium. The
-ability to change form is what gives it the ability to act at a distance.
+[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary and adversary
+of Sigmund Freud and one of the pioneers in sociology and group therapy. The
+text acts at a distance--we will come to that. But in some important ways, the
+gun is not a text. It can be reduced to textual description, transmitted, and
+manufactured cheaply. As the pendulum of textual scholarship swings back from
+treating text as pure idea, the materialists must acknowledge the aberrant
+specificity of textual material. Text routinely separates from its physical
+medium. The ability to change form is what gives it the ability to act at a
+distance.
 
 The traditional dichotomy between form and content obscures the complexity of
 this dynamic. Formalism overloads the concept of form to bear functions of
