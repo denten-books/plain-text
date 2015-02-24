@@ -263,10 +263,10 @@ question that will remain unresolved, at least until the later chapters, when
 we have the chance to discuss notions of data and information as
 meaning-carrying units.
 
-What is text? In talking about texts of all kinds, literary scholars and
+What makes a text? In talking about texts of all kinds, literary scholars and
 computer scientists often make the distinction between form and content.
 "Classical art, in a word, stands for form," R.G. Gollingwood wrote in 1929,
-"romamantic art for content [@collingwood_form_1929, 335]." In a much more
+and "romamantic art for content [@collingwood_form_1929, 335]." In a much more
 recent work on computational text generation, Kathleen McKeown writes that to
 produce discourse, writers and speakers "must decide what to say and how to
 present it effectively." A machine that generates text should, among other
@@ -295,7 +295,7 @@ the ideal notion of the perfect chair from their many imperfect instantiations.
 A contemporary computer scientist will recognize in this chain of reasoning the
 principles behind object oriented programming: a way of building software that
 works by defining abstract "object classes" and invoking them as "class
-instances" [@hoare_record_1965, @nygaard_history_1981].  Similarly, for Plato
+instances" [@hoare_record_1965, @nygaard_history_1981]. Similarly, for Plato
 and later René Descartes, G.W.F.  Hegel, and for other so-called "idealists,"
 ideas provide us with lasting universal "templates" for the contingent and
 always changing material world.[^ln11-descartes]
@@ -337,15 +337,15 @@ idea overcomes matter to become both free from the constraints of the
 deterministic physical universe, yet gaining a measure of solidity in its
 concrete and tangible instantiation.
 
-Free *and* concrete! Where does that leave literature? Not all text is art, of
-course. But, if the reader is to believe in the potential for textual
-expression to reach such lofty Hegelian heights, he would also have to place
-value on the act of interpretation. The Hegelian literary critic reaches beyond
-the external, ephemeral material facade to uncover internal and eternal
+Free *and* concrete! Where does that leave literary criticism? Not all text is
+art, of course. But, if critics are to believe in the potential for textual
+expression to reach such lofty Hegelian heights, they must also place value on
+the act of interpretation. The Hegelian literary critic reaches beyond the
+external, ephemeral material facade to uncover internal and eternal
 metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
 literary interpretation as "symptomatic reading," a strategy that seeks to
 uncover latent and concealed meaning beneath the evident surface. For a Marxist
-critic like Louis Althusser or Frederic Jameson, that latent meaning may have
+critic like Louis Althusser or Frederic Jameson that latent meaning may have
 something to do with hidden machinations of capital and ideology. The
 psychologically-minded reader may read in search of hidden drives, desires, or
 cognitive structures. By contrast, Marcus and Best describe several
@@ -354,31 +354,31 @@ preferring instead to read at the surface of the text: descriptive reading,
 reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
-against interpretation. In the late 1960, Susan Sontag wrote about "the need
-for more attention to form in art." Interpretation can be liberating, she
-wrote, but it can also stifle creativity. It "depletes" the world in some way,
-placing the critic in a privileged and unnecessarily meddling position between
-reader and text. "If excessive stress on content provokes the arrogance of
-interpretation, more extended and more thorough descriptions of form would
+against reading for latent content. In the late 1960, Susan Sontag wrote about
+"the need for more attention to form in art." Interpretation can be liberating,
+she wrote, but it can also stifle creativity. It "depletes" the world in some
+way, placing the critic in a privileged and unnecessarily meddling position
+between reader and text. "If excessive stress on content provokes the arrogance
+of interpretation, more extended and more thorough descriptions of form would
 silence," she writes. "The best criticism, and it is uncommon, is of this sort
 that dissolves considerations of content into those of form
-[@sontag_against_1966, 8-9]. In yet an earlier revolt at the turn of the 20th
-century, Russian and Italian formalists strove to break with Hegelian normative
-aesthetics by wedding literary criticism with descriptive linguistics. Seing
-art as an economy of formal "devices" like rhyme and meter, the formalists
-downplayed the role of content and symbol. In this vein the Italian futurist
-Filippo Marinetti wrote about the "grotesque funeral" of romantic notions of
-beauty, and the rise of a new "geometric and mechanical splendor." His
-generation was instead "in love with matter," wanting "to penetrate it and to
-understand its vibrations [@marinetti_marinetti:_1972, ???]."[^ln11-marinetti]
-Art cannot be reduced to "thinking in symbols," Viktor Shklovsky, a prominent
-Russian formalist, wrote in 1917.  Meaning "dies" and becomes invisible through
-frequent use. Such dead and transparent language language can no longer evoke
-wonder or curiousity. Truly vital art counteracts death by "resurrecting the
-word" in "making the form difficult [@shklovsky_hod_1923, ???]." Form, in that
-sense, resurrects content. The study of poetic language (not necessarily
-poetry) therefore pays attention to the devices that aid in the process of
-linguistic renewal.
+[@sontag_against_1966, 8-9]. In yet an earlier counterinsurgency, at the turn
+of the 20th century, Russian and Italian formalists strove to break with
+Hegelian normative aesthetics by wedding literary criticism with descriptive
+linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
+the formalists downplayed the role of content and symbol. In this vein the
+Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
+romantic notions of beauty, and the rise of a new "geometric and mechanical
+splendor." His generation was instead "in love with matter," wanting "to
+penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
+???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols," Viktor
+Shklovsky, a prominent Russian formalist, wrote in 1917.  Meaning "dies" and
+becomes invisible through frequent use. Such dead and transparent language
+language can no longer evoke wonder or curiosity. Truly vital art counteracts
+death by "resurrecting the word" in "making the form difficult
+[@shklovsky_hod_1923, ???]." Form, in that sense, resurrects content. The study
+of poetic language (not necessarily poetry) therefore pays attention to the
+devices that aid in the process of linguistic renewal.
 
 [^ln11-descartes]: It is difficult to resist quoting from Descartes'
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
@@ -417,31 +417,31 @@ dichotomy would suggest, with a number of reasonable positions between extreme
 idealism and extreme materialism. It is enough however to give a sense of
 what's at stake: not just a dry academic debate about the nature of art, but
 the very capability of art (and don't necessarily think "high art" here) to
-transform humanity. For Hegel, art reaches for truth, transcending the
-deterministic physical universe. For the formalists, art works to revitalize
-stale metaphors and ossified ways of thinking.
+transform humanity. For Hegel, true art reaches for truth beyond matter,
+transcending the deterministic physical universe. By contrast, early formalists
+rejected reading for content, recovering formal properties of the text
+capable of revitalizing stale metaphors and ossified ways of thinking.
 
 The division of text into form and content makes a difference in more
-utilitarian ways as well. Imagine the challenge of compiling all known
-commentaries on Shakespeare's *Hamlet*, by hand or programmatically, with an
-aid of a computer. The problem of what to count as a single text would be one
-of the first design challenges you would encounter. In the words of Barbara
-Mowat and Paul Werstine, the editors of *Folger Digital Texts*, "readers assume
-that there is a single text for the plays: what Shakespeare wrote. But
-Shakespeare's plays were not published the way modern novels or plays are
-published today: as a single, authoritative text. In some cases, the plays have
-come down to us in multiple published versions, represented by various Quartos
-(Qq) and by the great collection put together by his colleagues in 1623, called
-the First Folio (F). There are, for example, three very different versions of
-*Hamlet*, two of *King Lear*, *Henry V*, *Romeo and Juliet*, and others.
-Editors choose which version to use as their base text, and then amend that
-text with words, lines or speech prefixes from the other versions that, in
-their judgment, make for a better or more accurate text [@mowat_textual_????]."
-In other words, where the readers expects to encounter *Hamlet* as a single,
-unified, idea, they instead encounter a multiplicity of slightly diverging
-artifacts. Errors in transcription and editorial interventions accumulate. The
-proliferation of unlicensed copies, translations, and imitations further adds
-to the complexity of the problem.
+utilitarian ways as well. For example, imagine the challenge of compiling all
+known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
+problem of what edition to use as the "base" for such a project presents itself
+immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
+*Folger Digital Texts*, "readers assume that there is a single text for the
+plays: what Shakespeare wrote. But Shakespeare's plays were not published the
+way modern novels or plays are published today: as a single, authoritative
+text. In some cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great collection put
+together by his colleagues in 1623, called the First Folio (F). There are, for
+example, three very different versions of *Hamlet*, two of *King Lear*, *Henry
+V*, *Romeo and Juliet*, and others.  Editors choose which version to use as
+their base text, and then amend that text with words, lines or speech prefixes
+from the other versions that, in their judgment, make for a better or more
+accurate text [@mowat_textual_????]." In other words, where the readers expect
+to encounter *Hamlet* as a single, unified, idea, they instead encounter a
+multiplicity of slightly diverging editions. Errors in transcription and
+editorial interventions accumulate. The proliferation of unlicensed copies,
+translations, and imitations further adds to the complexity of the problem.
 
 Editors of classical literature will often solve the problem of diverging
 copies by designating one version as canonical, preserving the formal
@@ -2180,6 +2180,7 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 # Part 2: Technology
+
 ## 2.1 The Medium is not the Message
 `medium, message, mode`
 
@@ -3491,9 +3492,10 @@ transparency.  Computation does not necessarily work for the
 military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
 Recovering and preserving textuality in computing.
 
-# Conclusion: New Humanism
+for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
+developed of these. Engineering for dissent. The ability to create shared goals
+and to exit. engagement with shared project. The subject of my next book. 
 
-### 2.5.1
 Metaphysical Dread about Computation Brian Lennon and Golumbia. The argument
 basically boils down to the cultural logic of computation being complicit in
 the military industrial complex. That complicity manifests itself in a shared
@@ -3506,17 +3508,6 @@ mechanisms of control.
 Deeper metaphysical dread about computation, that should be understood
 historically (where Lennon gets it right). You are not a gadget.
 
-### Open Textuality 
-
-The proper domain for literary studies is textuality,
-broadly conceived.  
-
-### 2.5.2 Code as Governance Lessig.  
-
-### 2.5.3 Engineering
-for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
-developed of these. Engineering for dissent. The ability to create shared goals
-and to exit. engagement with shared project. The subject of my next book. 
 
 # Tech Appendix
 
