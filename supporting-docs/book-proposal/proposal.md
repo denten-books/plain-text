@@ -80,9 +80,9 @@ begins with a discussion of "digital representation" as philosophers Nelson
 Goodman and John Haugeland define it in the analytic tradition. I proceed by
 testing their intuitions on the basis of something called the "Soap Opera
 Effect" particular to modern Liquid Crystal Displays (LCDs) and in the related
-"motion interpolation" technology." The resulting analysis clarifies the
-various (and often conflicting) meanings of the word "digital" in Media Studies
-and in the Digital Humanities.
+video-processing technique of "motion-compensated frame interpolation." The
+resulting analysis clarifies the various (and often conflicting) meanings of
+the word "digital" in Media Studies and in the Digital Humanities.
 
 Complimentary to both of these fields, I prefer to describe my work as
 "computational culture studies," understood in two ways: first as the
