@@ -236,7 +236,7 @@ to our failure to come to terms with the changing conditions of digital
 textuality. A society that cares about the long-term preservation of complex
 discursive formations like free speech, privacy, and deliberation online, would
 do well to take heed of textual building blocks at their foundation. Text
-matters because how it is encoded, transmitted, and stored, decides who gets to
+matters because how it is encoded, transmitted, and stored decides who gets to
 decode, receive, and access.
 
 [^ln11-char]: There are many caveats here, to be explored later. Follow along
@@ -315,25 +315,25 @@ physical world, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
 like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
 curves, surfaces, carvings, colors, tones, word sounds, and generally material
 (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
-*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. This semantic
-cluster conveys physical (palpable, of this world) and outward-facing
-properties, available for examination to the senses (*Sinne*).
+*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. The semantic
+cluster related to "forms"  conveys physical (palpable, of this world) and
+outward-facing properties, available for examination to the senses (*Sinne*).
 
-By contrast with classical art, Hegel posits Romanticism as as an art that
-seeks to disengage itself from matter, reaching the realm of pure
-self-reflective spirit. Romanticism, in his words, is "freed from this
-immediate existence which must be set down as negative, overcome, and reflected
-into the spiritual unity [@hegel_hegels_1998, 81]." He writes: "Poetry is the
-universal art of the spirit which has become free in itself and which is not
-tied down for its realization to external sensuous material; instead, it
-launches out exclusively in the inner space and the inner time of ideas and
-feelings [@hegel_hegels_1998, 89]." Finally, "inwardness celebrates its triumph
-over the external and manifests its victory in and on the external itself,
-whereby what is apparent to the senses alone sinks into worthlessness
-[@hegel_hegels_1998, 81]." Romantic art can, in this way, triumph over the
-external, material world, reaching, at its apex, the stage of "free concrete
-spirituality" (*freie konkrete Geistigkeit*) [@hegel_werke:_1986, ???]. The
-idea overcomes matter to become both free from the constraints of the
+In comparing the dominant aesthetic modes of classical and Romantic periods,
+Hegel posits Romanticism as an art that seeks to disengage itself from matter,
+reaching the realm of pure self-reflective spirit. Romanticism, in his words,
+is "freed from this immediate existence which must be set down as negative,
+overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
+writes: "Poetry is the universal art of the spirit which has become free in
+itself and which is not tied down for its realization to external sensuous
+material; instead, it launches out exclusively in the inner space and the inner
+time of ideas and feelings [@hegel_hegels_1998, 89]." Finally, "inwardness
+celebrates its triumph over the external and manifests its victory in and on
+the external itself, whereby what is apparent to the senses alone sinks into
+worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this way, triumph
+over the external, material world, reaching, at its apex, the stage of "free
+concrete spirituality" (*freie konkrete Geistigkeit*) [@hegel_werke:_1986,
+???]. The idea overcomes matter to become both free from the constraints of the
 deterministic physical universe, yet gaining a measure of solidity in its
 concrete and tangible instantiation.
 
@@ -344,14 +344,15 @@ the act of interpretation. The Hegelian literary critic reaches beyond the
 external, ephemeral material facade to uncover internal and eternal
 metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
 literary interpretation as "symptomatic reading," a strategy that seeks to
-uncover latent and concealed meaning beneath the evident surface. For a Marxist
-critic like Louis Althusser or Frederic Jameson that latent meaning may have
-something to do with hidden machinations of capital and ideology. The
-psychologically-minded reader may read in search of hidden drives, desires, or
-cognitive structures. By contrast, Marcus and Best describe several
-contemporary theoretical trends that run counter to the Hegelian tradition,
-preferring instead to read at the surface of the text: descriptive reading,
-reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
+uncover latent and concealed meaning beneath the evident surface of the text.
+For a Marxist critic like Louis Althusser or Frederic Jameson that latent
+meaning may have something to do with hidden machinations of capital and
+ideology. The psychologically-minded critic reads in search of hidden drives,
+desires, or cognitive structures. By contrast with symptomatic reading, Marcus
+and Best describe several contemporary theoretical trends that run counter to
+the Hegelian tradition, preferring instead to read at the surface of the text:
+descriptive reading, reading for form, for material, or "just reading
+[@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
 against reading for latent content. In the late 1960, Susan Sontag wrote about
@@ -372,7 +373,7 @@ romantic notions of beauty, and the rise of a new "geometric and mechanical
 splendor." His generation was instead "in love with matter," wanting "to
 penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
 ???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols," Viktor
-Shklovsky, a prominent Russian formalist, wrote in 1917.  Meaning "dies" and
+Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
 becomes invisible through frequent use. Such dead and transparent language
 language can no longer evoke wonder or curiosity. Truly vital art counteracts
 death by "resurrecting the word" in "making the form difficult
@@ -417,10 +418,11 @@ dichotomy would suggest, with a number of reasonable positions between extreme
 idealism and extreme materialism. It is enough however to give a sense of
 what's at stake: not just a dry academic debate about the nature of art, but
 the very capability of art (and don't necessarily think "high art" here) to
-transform humanity. For Hegel, true art reaches for truth beyond matter,
-transcending the deterministic physical universe. By contrast, early formalists
-rejected reading for content, recovering formal properties of the text
-capable of revitalizing stale metaphors and ossified ways of thinking.
+transform humanity. For Hegel, true art reaches for truth beyond visible forms,
+and in the processing transcending the deterministic material universe. The
+early formalists rejected Hegel, emphasizing instead the text's outward formal
+properties as "devices" capable of revitalizing stale metaphors and ossified
+ways of thinking.
 
 The division of text into form and content makes a difference in more
 utilitarian ways as well. For example, imagine the challenge of compiling all
@@ -434,31 +436,31 @@ text. In some cases, the plays have come down to us in multiple published
 versions, represented by various Quartos (Qq) and by the great collection put
 together by his colleagues in 1623, called the First Folio (F). There are, for
 example, three very different versions of *Hamlet*, two of *King Lear*, *Henry
-V*, *Romeo and Juliet*, and others.  Editors choose which version to use as
+V*, *Romeo and Juliet*, and others. Editors choose which version to use as
 their base text, and then amend that text with words, lines or speech prefixes
 from the other versions that, in their judgment, make for a better or more
 accurate text [@mowat_textual_????]." In other words, where the readers expect
-to encounter *Hamlet* as a single, unified, idea, they instead encounter a
-multiplicity of slightly diverging editions. Errors in transcription and
-editorial interventions accumulate. The proliferation of unlicensed copies,
+to encounter *Hamlet* as a single, unified idea, they instead encounter a
+multiplicity of slightly diverging textual "witnesses." Errors in transcription
+and editorial interventions accumulate. The proliferation of unlicensed copies,
 translations, and imitations further adds to the complexity of the problem.
 
 Editors of classical literature will often solve the problem of diverging
 copies by designating one version as canonical, preserving the formal
-characteristics of the given version down to individual line breaks. It then
-becomes possible to collate commentaries, connecting each to individual words
-and passages at their canonical location. But the problem still remains in the
-abstract: the editor must compile a single "authoritative" text based on
-multiple extant editions. The act of deciding on what constitutes an
-authoritative edition can quickly become a contentious issue, particularly if
-the text in question has religious or political significance.
+characteristics of the given version down to individual line breaks, as is
+often done with Platonic dialogs. It then becomes possible to collate
+commentaries, connecting each to individual words and passages at their
+canonical location. The problem remains in the abstract: which version to count
+as canonical? The act of deciding on what constitutes an authoritative edition
+can quickly become a contentious issue, particularly when the text in question
+carries religious or political significance.
 
 A whole field of textual criticism exists in the service of negotiating
 "critical" editions which in some way preserve the struggle to reconstruct a
 measure of authority. But what should count for being authoritative? A number
-of logical possibilitis find as many ardent adherents. For some, the act of
+of logical possibilities find as many ardent adherents. For some, the act of
 deriving the authoritative text lies in reconstructing authorial intent, using
-the athor's notes, for example, or from first-hand witness testimony. Others
+the author's notes, for example, or from first-hand witness testimony. Others
 place a premium on reconstructing and analyzing the writing process itself, in
 what has recently been dubbed as "genetic criticism  [@deppman_genetic_2004,
 1-36]". Yet another approach will compare multiple editions of the same text to
@@ -480,17 +482,21 @@ reading or listening to receive a message from the past entails the effort to
 discover, through the text (or texts) one is presented with, the work that lies
 behind [@tanselle_rationale_2010, 13-18.]."
 
-Textual artifacts exhibit the dualism between form and content to a much
-greater extent than other forms of art and communication. Philosophers Nelson
-Goodman and Catherine Elgin make the distinction between "works of art whose
-identity depends on their history of production" and works whose identity does
-not. The former they call "autographic" and the latter "allographic
-[@goodman_reconceptions_1988, 65]." Architecture and painting, for example, are
-strongly autographic disciplines. An exact copy of a Vermeer or of a building
-by Frank Lloyd Wright could never rise to the status of the original. The
-originals have what Walter Benjamin called an "aura or authenticity." No amount
-of precision, down to the molecular level, could substitute for the historical
-patina of the original artifact.
+Textual artifacts exhibit the dualism between text and work to a much greater
+extent than other forms of art and communication. Philosophers Nelson Goodman
+and Catherine Elgin explain this peculiarity by making the distinction between
+"works of art whose identity depends on their history of production" and works
+whose identity does not. The former they call "autographic" and the latter
+"allographic [@goodman_reconceptions_1988, 65]." These terms will be useful for
+us throughout the book.
+
+
+Architecture and painting, for
+example, are strongly autographic disciplines. An exact copy of a Vermeer or of
+a building by Frank Lloyd Wright could never rise to the status of the
+original. The originals have what Walter Benjamin called an "aura or
+authenticity." No amount of precision, down to the molecular level, could
+substitute for the historical patina of the original artifact.
 
 It is quite strange, if you think about it: to believe that objects somehow
 retain an aura of history: "a handkerchief used by Princess Diana," or "the
