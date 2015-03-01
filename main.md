@@ -319,19 +319,19 @@ would appear as a blurry streak of undifferentiated images. An image persists
 in the human visual field for about 16 milliseconds after cessation a stimulus,
 giving humans the temporal resolution of around 60 images per second.
 Consequently, an average person begins to reach the state of "critical flicker
-fusion," where the strobe light becomes noticeable at refresh rates lower that
-60Hz. At higher rates, at the limits of temporal resolution, the image begins
-to persist through the gaps between frames, creating the illusion of continuous
-motion [@coltheart_iconic_1980, @efron_conservation_1973,
-@brannan_applications_1992]. An LCD screen mimics the action of the analog
-projector by refreshing the screen at intervals between 60 and 120Hz.
+fusion," where the strobe light becomes unnoticeable at refresh rates higher
+than 60Hz. At the limits of flicker fusion, the image begins to persist through
+the gaps between frames, creating the appearance of continuous motion
+[@coltheart_iconic_1980, @efron_conservation_1973, @brannan_applications_1992].
+An LCD screen mimics the action of the analog projector by refreshing the
+screen at intervals between 60 and 120Hz.
 
 To complicate matters, human vision is more sensitive to rapid motion at the
 periphery of vision, in a mechanism likely evolved to provide swift response to
 predator attack [@burr_temporal_1981, @didyk_h.-p.:_????]. As humans move
 closer to their screens (as when sitting in front of a computer monitor), more
 of the image enters the field of peripheral vision, making the viewer more
-sensitive to screen flicker.  Furthermore, being closer to the screen increases
+sensitive to screen flicker. Furthermore, being closer to the screen increases
 the angular velocity of any depicted moving object. When viewed from afar, the
 movement of several inches on the screen corresponds to a change in the sight
 angle of several degrees, and likely a few millimeters of iris movement. When
@@ -345,64 +345,76 @@ in what's called a "smooth pursuit" lateral eye movement [@purves_types_2001,
 @didyk_h.-p.:_????, @rottach_comparison_1996]. The "sample and hold" nature of
 the LCD display frustrates the cognitive assumption of smooth movement. The
 object's anticipated location does not correspond to its actual trajectory on
-the screen, which appears to the eye as motion blur. To complicate matters even
-more, the phase transitions of the liquid crystal medium are not instantaneous.
-The individual pixel "fades" instead of vanishing at once, leaving a physical
-(and not merely a perceptual) trail of not-quite transitioned pixels in the
-wake of object movement [@pan_lcd_2005, @kurita_35.1:_2001]. The motion blur is
-exacerbated when viewing traditional film shot at 24 frames per second, since
-even at high display sampling rates, the moving object appears at discrete
-stationary locations punctuated by gaps in movement.
+the screen, which appears to the eye as motion blur. To complicate matters
+further, the phase transitions of the liquid crystal medium are not
+instantaneous. The individual pixel "fades" instead of vanishing at once,
+leaving a physical (and not merely a perceptual) trail of not-quite
+transitioned pixels in the wake of object movement [@pan_lcd_2005,
+@kurita_35.1:_2001]. The motion blur is exacerbated when viewing traditional
+film shot at 24 frames per second, since even at high display sampling rates,
+the moving object appears at discrete stationary locations punctuated by gaps
+in on-screen movement.
 
 To compensate for motion blur, LCD manufacturers introduced Motion-Compensated
 Frame Interpolation, by which the television itself inserts extra computed
 frames in between the original stock footage. The extra frames should, in
 theory, make the motion appear more natural, filling in the missing gaps that
 confuse the brain. Unfortunately for the viewer, the effectively higher sample
-rates carry a major, unintended side-effect. Traditionally, sampling rates of
-40Hz and above are associated with daytime soap operas, which were shot on
-lower quality video equipment as opposed to expensive film equipment used by
-the big-budget studios. Film is expensive because film cameras work by fixing
-the image onto the medium through a photochemical process. Like traditional
-film photography, raw footage must be developed and processed properly before
-it can be used for editing, playback, and distribution. Video recorders, by
-contrast, transform light into fluctuations of the magnetic field, storing the
-results on magnetic tape medium. The transducer (tape head) reads and writes
-directly from and to tape, making magnetic storage significantly more compact
-and less expensive than film, as it does not require processing for playback
-[@edgerton_columbia_2009]. Crucially for our story, video recorders operate at
-60 frames per second, a recording resolution that together with a distinctive
-color profile and audio aberration give rise to what viewers perceive as that
-cheap video look. By inserting extra frames into the moving image, modern
-televisions in effect alter the expensive, slow format to match its faster,
-cheaper video equivalent. The net improvement in sampling degrades the
-perceived quality of the original. (It would be interesting to try to create
-the reverse effect by reducing the fidelity of a "cheap" soap opera video feed
-to 24 frames per second).
+rates carry a major, unintended side-effect. Most viewers associate sampling
+rates of 40Hz and above with daytime soap operas, which were, for a time, shot
+on lower quality video equipment as opposed to expensive film equipment in use
+by the big-budget film industry. Film is expensive because film cameras work by
+fixing the image onto the medium through a photochemical process. Like
+traditional film photography, raw footage must be developed and processed
+properly before it can be used for editing, playback, and distribution. Video
+and more modern, digital recorders, by contrast, transform light into
+fluctuations of the magnetic field, storing the results on magnetic tape
+medium. The transducer (tape head) reads and writes directly from and to tape,
+making magnetic storage significantly more compact and less expensive than
+film, as it does not require processing for playback [@edgerton_columbia_2009].
+Crucially for our story, video recorders operate at 60 frames per second, a
+recording resolution that together with a distinctive color profile and audio
+aberration give rise to what viewers perceive as that "cheap video" look. By
+inserting extra frames into the moving image, modern televisions in effect
+alter the expensive, slow format to match its faster, cheaper video equivalent.
+The net improvement in sampling degrades the perceived quality of the original.
+(It would be interesting to try to create the reverse effect by reducing the
+fidelity of a "cheap" soap opera video feed to 24 frames per second).
 
-The soap-opera effect suggests few conclusions for the media scholar. First,
-that notions of aesthetic quality are, at least in part, bound to the material
-properties of the medium and to the processes of acculturation associated with
-the corresponding viewing practices. MCFI-enhanced cinema looks cheap because
-it begins to approach the physical conditions of soap-opera video viewing and
-production. Anecdotal evidence implicates higher-level aspects of cinema
-appreciation that should not at first glance be tied to the medium. The process
-of interpolating frames seems to degrade the quality of acting and dialog along
-with perceived degradation of picture quality. The second conclusion challenges
-the easy conflation between digital and discrete phenomena, undermining also
-the whole chain of reasoning that views the process of digitization in moral
-terms, affecting not just cinema, but the human experience as a whole. Contrary
-to he intuition, analog film is technically the more discrete medium. Something
-other than discreteness or fidelity must be at stake. The mechanics of the soap
-opera effect reveal "analog" video formats as the low-fidelity, highly
-segmented media, conventionally perceived to offer more life-like
-representation than its high-fidelity, continuous video brethren. Finally, a
-description of the sensory, cognitive mechanisms involved in the production of
-the soap-opera effect challenge the very possibility of truly analog media.
-The human visual sensory system is simply not capable of processing
-undifferentiated, continuous sensory input. Rather, the brain creates the
-illusion of continuity by seamlessly stitching discrete and incomplete
-snapshots of the world into a coherent, if sometimes blurry, whole.
+The soap-opera effect suggests a few questions for the media scholar. First, it
+challenges the easy equivalence between "digital" and "discrete" properties of
+the medium so often evoked in the critical literature. Another mechanism must
+be in play here, since, contrary to accepted intuition, the digital format is
+the one that more closely approaches the continual nature of observed
+phenomenon. Under closer examination, film, usually discussed in the context of
+analog formats, appears to be in some aspects the more discrete medium compared
+to video and digital.
+
+Second, it seems that the very material properties involved in our
+understanding of "digital" and "analog" formats are also implicated in higher
+level functions of aesthetic judgment. Perception of "quality" in a given
+recorded performance drifts with the vagrancies of encoding. "Good acting"
+inexplicably falls apart with the introduction of extra frames.
+
+Finally, where one would expect analog "discreteness" to stand in opposition to
+some measure of "real-world" continuity, a thick description of human
+perceptual apparatus reveals a complex patchwork of fragmentary cognitive
+mechanisms. At some level of analysis, gaps in the encoding format relate to
+gaps in human visual processing. Neither can be said to represent reality with
+perfect fidelity. Instead, the brain stitches a landscape together from an unevenly
+sampled topography.
+
+Conventional notions of digital being conflate the discrete nature of the
+medium with moral debasement. 
+
+On this view, the unattainable ideals are gapless
+playback, lossless compression 
+
+digital media cheapens the
+richness of the human experience by introducing 
+
+of
+continuous phenomena with moral degradation. What appears as a sampling 
 
 ### 1.1.2 The Language of Circuits
 
@@ -469,25 +481,25 @@ processes for reading and writing digital tokens [@haugeland_analog_1981,
 something like "irreproducible series of paintings," and of video as "perfectly
 copyable magnetic signals."
 
-Writing more than a quarter of a century after Haugeland, Matthew Katz has two
-further important amendments to Goodman's definition. First, Katz maintains
-that Goodman's notion of discreteness and differentiation properly affect the
-format and not the medium of representation. Second, he maintains that the
-distinction between digital and analog formats could sometimes turn on the
-facts about the user of a system of representations. To illustrate these two
-corrections, Katz uses the example of an approximate measuring system that uses
-a supply of marbles in a large beaker. The unit of measurement could be
-something like a "number of handfuls." Even though marbles are a perfectly
-discrete medium, the system is analog because it fails to establish a digital
-format required for precise reproduction. My two handfuls will be different
-from yours. A related corollary to the distinction between medium and format of
-the system, is the user's ability to perceive quantities.  Were humans endowed
-with a magical ability to perceive the exact number of water molecules in a
-beaker, previously analog systems like unmarked beakers would in effect become
-digital.  Similarly, were all humans endowed with hands of a definite size and
-volume, "handfuls" would also be counted as a digital system or representation.
-The physical, perceptual, and cognitive abilities of the entity doing the
-counting affects the ontological status of the system.
+Writing more than a quarter of a century later, Matthew Katz offers two further
+important emendments to the discussion between Goodman and Haugeland. First,
+Katz maintains that Goodman's notion of discreteness and differentiation
+properly affect the format and not the medium of representation. Second, he
+maintains that the distinction between digital and analog formats could
+sometimes turn on the facts about the user of a system of representations. To
+illustrate these two corrections, Katz uses the example of an approximate
+measuring system that uses a supply of marbles in a large beaker. The unit of
+measurement could be something like a "number of handfuls." Even though marbles
+are a perfectly discrete medium, the system is analog because it fails to
+establish a digital format required for precise reproduction. My two handfuls
+will be different from yours. A related corollary to the distinction between
+medium and format of the system, is the user's ability to perceive quantities.
+Were humans endowed with a magical ability to perceive the exact number of
+water molecules in a beaker, previously analog systems like unmarked beakers
+would in effect become digital.  Similarly, were all humans endowed with hands
+of a definite size and volume, "handfuls" would also be counted as a digital
+system or representation.  The physical, perceptual, and cognitive abilities of
+the entity doing the counting affects the ontological status of the system.
 
 The movement from medium to format, radically destabilizes Goodman's original
 intuitions. Where Kernighan and Goodman begin with physical properties of
