@@ -404,27 +404,28 @@ gaps in human visual processing. Neither can be said to represent reality with
 perfect fidelity. Instead, the brain stitches a landscape together from an
 unevenly sampled topography.
 
-Conventional notions of digital being conflate the discrete nature of the
-digital medium with human debasement, using logic where material impoverishment
-in one sphere correlates to moral impoverishment in another. The sentiment is
+Conventional notions of digital being conflate the discrete nature of digital
+media with human debasement, following the logic where material impoverishment
+in one sphere leads to spiritual impoverishment in the other. The sentiment is
 everywhere in the popular press, having deep intellectual roots in the history
 of thinking about technology. Philosophers of technology from Heidegger to
 Kittler advance a powerful "hermeneutics of suspicion" towards mechanization,
 digitization, and the subsequent computability of human experience. To take
-that tradition seriously is to direct suspicion to aspects of digital being
-that have meaningful political consequences. If, as the case of motion blur
-suggests, human experience was always "born digital," that is, discrete and
-differentiated throughout, something other than digitality is at stake. What
-elicits such passions in the conversation about computation and culture? The
-nostalgia for oneness and continuity should itself fall under the critical
-purview, examined alongside media marketing slogans advertising gapless
-playback and lossless file formats. Digitality, as I will argue here and
-throughout, is an essentially human condition, worthy of conservation. But,
-what I mean by "digital being" relates to "digital cameras" and the "digital
-humanities" only as a homonym. To perceive the difference we must first get
-clarity on the constituent terms motivating the discussion, and second to
-understand the political implications of the differently-instantiated
-vocabularies.
+that tradition seriously is to direct hermeneutic suspicion to aspects of
+digital being that have meaningful socio-political consequences. If, as the
+case of motion blur suggests, human experience is already and always "born
+digital," that is, discrete and differentiated throughout, we must find ways of
+advancing critique along theoretical distinctions that better capture the
+instrumental reality of media practice. What in the confused conversation about
+computation and culture elicits such conflicting passions? The nostalgia for
+oneness and continuity should itself fall under the critical purview, examined
+alongside media marketing slogans advertising gapless playback and lossless
+file formats. Digitality, as I will argue for the duration of the book, is an
+essentially human condition, worthy of conservation. But, what I mean by
+"digital being" relates to the practice of buying "digital cameras" or to
+promoting the "digital humanities" in name only. To perceive what is at stake,
+we must first disambiguate the cognates of the digital: electronic, binary, and
+computational.
 
 ### 1.1.2 The Language of Circuits
 
