@@ -401,24 +401,34 @@ some measure of "real-world" continuity, a thick description of human
 perceptual apparatus reveals a complex patchwork of fragmentary cognitive
 mechanisms. At some level of analysis, gaps in the encoding format relate to
 gaps in human visual processing. Neither can be said to represent reality with
-perfect fidelity. Instead, the brain stitches a landscape together from an unevenly
-sampled topography.
+perfect fidelity. Instead, the brain stitches a landscape together from an
+unevenly sampled topography.
 
 Conventional notions of digital being conflate the discrete nature of the
-medium with moral debasement. 
-
-On this view, the unattainable ideals are gapless
-playback, lossless compression 
-
-digital media cheapens the
-richness of the human experience by introducing 
-
-of
-continuous phenomena with moral degradation. What appears as a sampling 
+digital medium with human debasement, using logic where material impoverishment
+in one sphere correlates to moral impoverishment in another. The sentiment is
+everywhere in the popular press, having deep intellectual roots in the history
+of thinking about technology. Philosophers of technology from Heidegger to
+Kittler advance a powerful "hermeneutics of suspicion" towards mechanization,
+digitization, and the subsequent computability of human experience. To take
+that tradition seriously is to direct suspicion to aspects of digital being
+that have meaningful political consequences. If, as the case of motion blur
+suggests, human experience was always "born digital," that is, discrete and
+differentiated throughout, something other than digitality is at stake. What
+elicits such passions in the conversation about computation and culture? The
+nostalgia for oneness and continuity should itself fall under the critical
+purview, examined alongside media marketing slogans advertising gapless
+playback and lossless file formats. Digitality, as I will argue here and
+throughout, is an essentially human condition, worthy of conservation. But,
+what I mean by "digital being" relates to "digital cameras" and the "digital
+humanities" only as a homonym. To perceive the difference we must first get
+clarity on the constituent terms motivating the discussion, and second to
+understand the political implications of the differently-instantiated
+vocabularies.
 
 ### 1.1.2 The Language of Circuits
 
-Yet, the prevailing theoretical understanding of the distinction between
+The prevailing theoretical understanding of the distinction between
 digital and analog formats lies in the difference between discrete and
 continuous quantities. For example, in a popular book about what a
 "well-informed person should know about computers," Brian Kernighan writes
