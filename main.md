@@ -427,7 +427,7 @@ relates to the practice of buying "digital cameras" or to promoting the
 disambiguate the cognates of the digital: electronic, binary, and
 computational.
 
-### 1.1.2 The Language of Circuits
+### 1.1.3 Media Independence
 
 The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln-maley] For example, in a popular book
@@ -528,25 +528,35 @@ than a state of being, they indicate a systematic imposition of structure.
 
 From the instrumental point of view, to make something digital is to liberate
 representation from its medium. To digitize means also to allow for "copying
-and preservation," properties that, when taken outside of their philosophic
+and preservation," actions that, when taken outside of their philosophic
 context acquire an immediate practical implication (understood in the role of a
 librarian, for example). That is not to say that digitization makes thought
 wholly immaterial, rather, that it allows for its continual advancement and
-transmediation--an affordance created by the very same "media independence."
+transmediation--an affordance created by the very same property of "media
+independence." Digitization, in that sense, is a necessary prerequisite for
+culture (in the commmon sense of "collective intellectual achievement").
+Without digital portability, all representation (art and knowledge) is tied to
+the irreproducible and untranslatable contexts. Imagine the world where it is
+impossible formulate a thought out loud for example, because thoughts are
+intrinsicly tied to specific brain matter. Alternatively, imagine a society
+that prohibits all digital content. Such prohibition would amount to complete
+censorship in writing or in speech. All transmediation, even of ideas between
+brains, would be censored. A completely analog society, in that sense, is a
+dark dystopia.
 
-Digitization, in that sense, is necessary prerequisite for culture. Without
-portability, all representation (art and knowledge) is tied to the
-irreproducible and untranslatable contexts. Being digital, in that sense,
-arises as a political property that regulates transmission of thought as
-representation. Text on paper or screen remains digital only in so far as the
-medium is not fixed. Truly digital text can be placed into "other hands,"
-reliably copied, and transmitted. A document restricted or classified in any
-way looses some of the necessary preconditions for being digital. Technologies
-like "digital rights management" (DRM), which work to fix representation into a
-specific medium, transform digital content back into its media-dependent,
-irreproducible, and analog forms. Another way to put it would be to say that on
-"protected" devices the content is digital for some users and analog for those
-without permissions to transmediate.
+The digital being of representation, initially seen as a property of the
+medium, arises then as a political property regulating the very transmission of
+thought. Text on paper or screen remains digital only in so far as the medium
+is not fixed. Truly digital text can be copied and placed into other hands and
+minds, feasibly and reliably. The possibility of these procedures is what
+ultimtely gives representation its digital form. A document restricted or
+classified in any way looses some of the necessary preconditions for being
+digital. This also means that technologies like "digital rights management"
+(DRM), which work to fix representation into a specific medium, transform
+digital content back into its media-dependent, irreproducible, and analog
+forms. Another way to put it would be to say that on "protected" devices the
+content is digital for some users and analog for those without permissions to
+transmediate.
 
 ### 1.1.4 Digital Formats
 
