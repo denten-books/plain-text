@@ -429,22 +429,27 @@ computational.
 
 ### 1.1.2 The Language of Circuits
 
-The prevailing theoretical understanding of the distinction between digital and
-analog formats lies in the difference between discrete and continuous
-quantities. For example, in a popular book about what a "well-informed person
-should know about computers," Brian Kernighan writes about "analog" as
-something meant to convey "the idea of values that change smoothly as something
-else changes [@kernighan_d_2011, 526]." Much of the world is analog, Kernighan
-explains. A water tap, a pen, or a car steering wheel are all examples of
-analog interfaces. For example, when riding a bicycle, turning the handlebars
-one way results in a corresponding motion of the machine. This motion is
-smooth. Compare that with the action of a light switch. The light switch can be
-either on or off. A range of pressure on the switch does not correspond to any
-mechanical action of the lever. A range of pressure sufficient to flip the
-switch corresponds to it being on. "Digital systems deal with discrete values,"
-Kernighan writes. The switch contains a limited number of state possibilities
-(2), where the bicycle handlebars could be rotated in an infinite number of
-minutely different gradations.
+The difference between discrete and continuous quantities defines the
+conversation about digital media.[^ln-maley] For example, in a popular book about what a
+"well-informed person should know about computers," Brian Kernighan writes
+about "analog" as something meant to convey "the idea of values that change
+smoothly as something else changes [@kernighan_d_2011, 526]." Much of the world
+is analog, Kernighan explains. A water tap, a pen, or a car steering wheel are
+all examples of analog interfaces. For example, when riding a bicycle, turning
+the handlebars one way results in a corresponding motion of the machine. This
+motion is smooth. Compare that with the action of a light switch. A properly
+functioning light switch takes on two discrete states only: on or off. A range
+of pressure on the switch does not correspond to any mechanical action of the
+lever. But once a certain treshold is reached, the switch "flips" to change
+states. "Digital systems deal with discrete values," Kernighan writes. The
+switch contains a limited number of state possibilities (2), where the bicycle
+handlebars could be rotated in an infinite number of minutely different
+gradations.
+
+[^ln-maley]: See for example @maley_analog_2011: "The received view is that
+analog representations vary smoothly, while digital representations vary in
+stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
+'analog' is synonymous with 'continuous.'"
 
 The philosopher Nelson Goodman makes a further distinction in writing that a
 digital system must be more than merely "discontinuous," but also
