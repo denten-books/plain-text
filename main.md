@@ -536,13 +536,7 @@ transmediation--an affordance created by the very same property of "media
 independence." Digitization, in that sense, is a necessary prerequisite for
 culture (in the commmon sense of "collective intellectual achievement").
 Without digital portability, all representation (art and knowledge) is tied to
-the irreproducible and untranslatable contexts. Imagine the world where it is
-impossible formulate a thought out loud for example, because thoughts are
-intrinsicly tied to specific brain matter. Alternatively, imagine a society
-that prohibits all digital content. Such prohibition would amount to complete
-censorship in writing or in speech. All transmediation, even of ideas between
-brains, would be censored. A completely analog society, in that sense, is a
-dark dystopia.
+the irreproducible and untranslatable contexts.
 
 The digital being of representation, initially seen as a property of the
 medium, arises then as a political property regulating the very transmission of
@@ -558,8 +552,6 @@ forms. Another way to put it would be to say that on "protected" devices the
 content is digital for some users and analog for those without permissions to
 transmediate.
 
-### 1.1.4 Digital Formats
-
 The word, already a discrete quantity, becomes truly digital as form, when
 coupled loosely to its material contexts. Ontologically, text is always
 digital, first because it represents discrete units of information about the
@@ -567,23 +559,26 @@ world, and second, because it always allows for some measure of "flawless
 copying and preservation." Copying and preservation is one of the reasons for
 writing in the first place. But, note also that "flawless copying and
 preservation" are in themselves contingent, not wholly necessary properties of
-writing. Imagine a society, for example, that positively prohibits all copying
-and preservation of written material: a place where pens, paper, computers,
-photocopiers, and word processors are all restricted as contraband. Imagine
-extreme forms of control: where the skills of reading and writing are
-themselves strongly restricted. In such a world, text loses some of its formal
-digital qualities. It becomes autographic and media-bound.
+writing. Imagine a world in which ideas are forevoer "stuck" in their
+mind-bound media. Imagine also a society that positively prohibits the
+transmediation of thought, on paper or between brain cells. Envision extreme
+forms of thought control that restrict the very basics of speech and literacy,
+prohibiting the manufacture of pens, paper, computer, photocopier, voice
+recorder, and word processor. Such prohibitions would amount to total
+censorship. An radically analog society would also be wholly mute.
+
+### 1.1.4 Digital Formats
 
 Understanding digitality as a format imposed onto matter, a format that
 facilitates transmediation, recasts the history of computing as something other
 than simple "mathesis," the idea that computation reduces the world into more
 discrete, and therefore computable elements. That idea would be true if the
-computer was simply a souped-up calculator. But computers are not just that:
+computer was simply a glorified calculator. But computers are not just that:
 they are self-amending machines for universal transmediation (not limited to
-numbers), machines that, depending on the user's acuity and dispensation to
+numbers): machines that, depending on the user's acuity and dispensation to
 perceive text (and all information, really) as deep structure, separate readers
 into those for whom text exists as a fixed analog given, and those for whom
-they functions as a truly digital medium, capable of amending further texts,
+they function as a truly digital medium, capable of amending further texts,
 men, and machines.
 
 ![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
