@@ -392,17 +392,18 @@ to video and digital.
 
 Second, it seems that the very material properties involved in our
 understanding of "digital" and "analog" formats are also implicated in higher
-level functions of aesthetic judgment. Perception of "quality" in a given
+level functions of aesthetic judgment. Perception of quality in a given
 recorded performance drifts with the vagrancies of encoding. "Good acting"
 inexplicably falls apart with the introduction of extra frames.
 
-Finally, where one would expect analog "discreteness" to stand in opposition to
-some measure of "real-world" continuity, a thick description of human
-perceptual apparatus reveals a complex patchwork of fragmentary cognitive
-mechanisms. At some level of analysis, gaps in the encoding format relate to
+Finally, where one would expect "artificial" digital discreteness to stand in
+opposition to a measure of "natural" analog continuity, a thick description of
+innate human perceptual apparatus reveals a complex patchwork of fragmentary
+cognitive mechanisms, already to an extent digital and discrete in its
+operation. At some level of analysis, gaps in the encoding format relate to
 gaps in human visual processing. Neither can be said to represent reality with
-perfect fidelity. Instead, the brain stitches a landscape together from an
-unevenly sampled topography.
+perfect fidelity. Instead, brains and cameras stitch landscapes together from
+an unevenly sampled patchwork of variagated visual topographies.
 
 Conventional notions of digital being conflate the discrete nature of digital
 media with human debasement, following the logic where material impoverishment
@@ -416,35 +417,34 @@ digital being that have meaningful socio-political consequences. If, as the
 case of motion blur suggests, human experience is already and always "born
 digital," that is, discrete and differentiated throughout, we must find ways of
 advancing critique along theoretical distinctions that better capture the
-instrumental reality of media practice. What in the confused conversation about
-computation and culture elicits such conflicting passions? The nostalgia for
-oneness and continuity should itself fall under the critical purview, examined
-alongside media marketing slogans advertising gapless playback and lossless
-file formats. Digitality, as I will argue for the duration of the book, is an
-essentially human condition, worthy of conservation. But, what I mean by
-"digital being" relates to the practice of buying "digital cameras" or to
-promoting the "digital humanities" in name only. To perceive what is at stake,
-we must first disambiguate the cognates of the digital: electronic, binary, and
+instrumental reality of media practice. The nostalgia for "analog" oneness and
+continuity should itself fall under the critical purview, examined alongside
+media marketing slogans advertising gapless playback and lossless file formats.
+Digitality, as I will argue for the duration of the book, is an essentially
+human condition, worthy of conservation. But, what I mean by "digital being"
+relates to the practice of buying "digital cameras" or to promoting the
+"digital humanities" in name only. To perceive what is at stake, we must first
+disambiguate the cognates of the digital: electronic, binary, and
 computational.
 
 ### 1.1.2 The Language of Circuits
 
-The prevailing theoretical understanding of the distinction between
-digital and analog formats lies in the difference between discrete and
-continuous quantities. For example, in a popular book about what a
-"well-informed person should know about computers," Brian Kernighan writes
-about "analog" as something meant to convey "the idea of values that change
-smoothly as something else changes [@kernighan_d_2011, 526]." Much of the world
-is analog, Kernighan explains. A water tap, a pen, or a car steering wheel are
-all examples of analog interfaces. For example, when riding a bicycle, turning
-the handlebars one way results in a corresponding motion of the machine. This
-motion is smooth. Compare that with the action of a light switch. The light
-switch can be either on or off. A range of pressure on the switch does not
-correspond to any mechanical action of the lever. A range of pressure
-sufficient to flip the switch corresponds to it being on. "Digital systems deal
-with discrete values," Kernighan writes. The switch contains a limited number
-of state possibilities (2), where the bicycle handlebars could be rotated in an
-infinite number of minutely different gradations.
+The prevailing theoretical understanding of the distinction between digital and
+analog formats lies in the difference between discrete and continuous
+quantities. For example, in a popular book about what a "well-informed person
+should know about computers," Brian Kernighan writes about "analog" as
+something meant to convey "the idea of values that change smoothly as something
+else changes [@kernighan_d_2011, 526]." Much of the world is analog, Kernighan
+explains. A water tap, a pen, or a car steering wheel are all examples of
+analog interfaces. For example, when riding a bicycle, turning the handlebars
+one way results in a corresponding motion of the machine. This motion is
+smooth. Compare that with the action of a light switch. The light switch can be
+either on or off. A range of pressure on the switch does not correspond to any
+mechanical action of the lever. A range of pressure sufficient to flip the
+switch corresponds to it being on. "Digital systems deal with discrete values,"
+Kernighan writes. The switch contains a limited number of state possibilities
+(2), where the bicycle handlebars could be rotated in an infinite number of
+minutely different gradations.
 
 The philosopher Nelson Goodman makes a further distinction in writing that a
 digital system must be more than merely "discontinuous," but also
