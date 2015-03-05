@@ -202,11 +202,11 @@ literary distribution.
 ## Chapter 1.1: We Have Always Been Digital
 `digital, analog, binary, encoding`
 
-### 1.1.1 Digital Aesthetics
+### 1.1.1 Digital Clichés
 
 What does the digital look like? It looks blue for one--not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
-translucent and white,starburst-like overtones. An online image search for the
+translucent and white, starburst-like overtones. An online image search for the
 word "digital" produces many sharp, sterile visuals of that kind. Abstract
 geometrical patterns predominate in the first dozen or so search results:
 usually curving three-dimensional tunnels or lines that resemble circuit
@@ -220,10 +220,10 @@ yesterday's digital detritus: digital clocks, purple lightning bolts, and the
 abstract chrome landscapes made widely available by graphic editing software in
 the 1990s. There are numbers. The preferred arrangement is in a torrential
 grid--the matrix--descending in the background of a generic humanoid form, also
-translucent. Or better yet: a 3D sphere or a face made out of random
-characters. Ones and zeros are best arranged as an unending string, which runs
-at a slight angle on the Z-axis and beyond the frame, foregrounding whatever
-object that is meant to take on the digital as a property: the digital wake.
+translucent. Or better yet: alphanumeric characters comprising the globe or a
+face. Ones and zeros are best arranged as an unending string, which runs at a
+slight angle on the Z-axis and beyond the frame, foregrounding whatever object
+that is meant to take on the digital as a property: the digital wake.
 
 When we constrict the image search chronologically, to the 21st century, we see
 these cool-blue images give way to a more varied palette, bright prime greens,
