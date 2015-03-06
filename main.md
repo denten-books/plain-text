@@ -588,7 +588,9 @@ numbers): machines that, depending on the user's acuity and dispensation to
 perceive text (and all information, really) as deep structure, separate readers
 into those for whom text exists as a fixed analog given, and those for whom
 they function as a truly digital medium, capable of amending further texts,
-men, and machines.
+men, and machines. To paraphrase a post-structuralist insight, the process of
+active interpretation is in itself a type of creation, forever advancing rather
+than apprehending the lateral movement of thought.
 
 ![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
 
