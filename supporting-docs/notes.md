@@ -55,6 +55,25 @@ Publisher
 - Cornell: No Media / DH
 
 
+Chapter Readers
+==========================
+Anders
+Kaiama
+Manan
+Austin
+Matt
+Noam
+Stefan
+Brian
+Marguerite
+
+Tricia
+Jenny
+Ed
+Marienne
+Stathis
+Nick
+Michael
 
 Potential reviewers
 ===========================

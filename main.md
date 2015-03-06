@@ -219,9 +219,9 @@ analog as a consumer camera. These pages also contain the outdated clichés of
 yesterday's digital detritus: digital clocks, purple lightning bolts, and the
 abstract chrome landscapes made widely available by graphic editing software in
 the 1990s. There are numbers. The preferred arrangement is in a torrential
-grid--the matrix--descending in the background of a generic humanoid form, also
-translucent. Or better yet: alphanumeric characters comprising the globe or a
-face. Ones and zeros are best arranged as an unending string, which runs at a
+grid--the matrix--descending in the background, behind a generic humanoid form,
+also translucent. Or better yet: alphanumeric characters comprising a globe or
+a face. Ones and zeros are best arranged as an unending string, which runs at a
 slight angle on the Z-axis and beyond the frame, foregrounding whatever object
 that is meant to take on the digital as a property: the digital wake.
 
@@ -384,11 +384,12 @@ fidelity of a "cheap" soap opera video feed to 24 frames per second).
 The soap-opera effect suggests a few questions for the media scholar. First, it
 challenges the easy equivalence between "digital" and "discrete" properties of
 the medium so often evoked in the critical literature. Another mechanism must
-be in play here, since, contrary to accepted intuition, the digital format is
-the one that more closely approaches the continual nature of observed
-phenomenon. Under closer examination, film, usually discussed in the context of
-analog formats, appears to be in some aspects the more discrete medium compared
-to video and digital.
+be in play here, since, contrary to accepted intuition, film (the more discrete
+format of representation) is the one that more closely approaches the analog
+(continuous) nature of observed phenomenon. Under closer examination, film,
+usually discussed in the context of analog formats, appears to be in some
+aspects more digital than digital, that is the more fragmentary and discrete
+medium compared to digital video.
 
 Second, it seems that the very material properties involved in our
 understanding of "digital" and "analog" formats are also implicated in higher
@@ -403,31 +404,35 @@ cognitive mechanisms, already to an extent digital and discrete in its
 operation. At some level of analysis, gaps in the encoding format relate to
 gaps in human visual processing. Neither can be said to represent reality with
 perfect fidelity. Instead, brains and cameras stitch landscapes together from
-an unevenly sampled patchwork of variagated visual topographies.
+an unevenly sampled patchwork of variegated visual topographies.
 
 Conventional notions of digital being conflate the discrete nature of digital
-media with human debasement, following the logic where material impoverishment
-in one sphere leads to spiritual impoverishment in the other. The sentiment is
-everywhere in the popular press, having deep intellectual roots in the history
-of thinking about technology. Philosophers of technology from Heidegger to
-Kittler advance a powerful "hermeneutics of suspicion" towards mechanization,
-digitization, and the subsequent computability of human experience. To take
-that tradition seriously is to direct hermeneutic suspicion to aspects of
-digital being that have meaningful socio-political consequences. If, as the
-case of motion blur suggests, human experience is already and always "born
-digital," that is, discrete and differentiated throughout, we must find ways of
-advancing critique along theoretical distinctions that better capture the
-instrumental reality of media practice. The nostalgia for "analog" oneness and
-continuity should itself fall under the critical purview, examined alongside
-media marketing slogans advertising gapless playback and lossless file formats.
-Digitality, as I will argue for the duration of the book, is an essentially
-human condition, worthy of conservation. But, what I mean by "digital being"
-relates to the practice of buying "digital cameras" or to promoting the
-"digital humanities" in name only. To perceive what is at stake, we must first
-disambiguate the cognates of the digital: electronic, binary, and
-computational.
+media with human debasement, following the logic by which material
+impoverishment in one sphere leads to spiritual impoverishment in the other.
+The sentiment is everywhere in the popular press, having deep intellectual
+roots in the history of thinking about technology. Philosophers of technology
+from Heidegger to Kittler advance a powerful "hermeneutics of suspicion"
+towards mechanization, digitization, and the subsequent computability of human
+experience. To take that tradition seriously is to direct hermeneutic suspicion
+to aspects of digital being that have meaningful socio-political consequences.
+If, as the case of motion blur suggests, human experience is already and always
+"born digital," that is, discrete and differentiated throughout, we must find
+ways of advancing critique along theoretical distinctions that better capture
+the instrumental reality of media practice. The nostalgia for "analog" oneness
+and continuity should itself fall under the critical purview, examined
+alongside media marketing slogans advertising gapless playback and lossless
+file formats.  Digitality, as I will argue for the duration of the book, is an
+essentially human condition, worthy of conservation. But, what I mean by
+"digital being" relates to the practice of buying "digital cameras" or to
+promoting the "digital humanities" in name only. To perceive what is at stake,
+we must do much more to disambiguate the cognates of the digital: electronic,
+binary, and computational.
 
 ### 1.1.3 Media Independence
+
+Let us start with digital representation expressed more formally, in computer
+science and in the analytic tradition of aesthetic philosophy and philosophy of
+information.
 
 The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln-maley] For example, in a popular book
@@ -439,12 +444,12 @@ a car steering wheel are all examples of analog interfaces. For example, when
 riding a bicycle, turning the handlebars one way results in a corresponding
 motion of the machine. This motion is smooth. Compare that with the action of a
 light switch. A properly functioning light switch takes on two discrete states
-only: on or off. A range of pressure on the switch does not correspond to any
-mechanical action of the lever. But once a certain threshold is reached, the
-switch "flips" to change states. "Digital systems deal with discrete values,"
-Kernighan writes. The switch contains a limited number of state possibilities
-(2), where the bicycle handlebars could be rotated in an infinite number of
-minutely different gradations.
+only: on or off. A range of pressure applied to the switch does not correspond
+to any mechanical action of the lever. But once a certain threshold is reached,
+the switch "flips" to change states. "Digital systems deal with discrete
+values," Kernighan writes. The switch contains a limited number of state
+possibilities (2), where the bicycle handlebars could be rotated in an infinite
+number of minutely differing gradations.
 
 [^ln-maley]: See for example @maley_analog_2011: "The received view is that
 analog representations vary smoothly, while digital representations vary in
@@ -458,12 +463,14 @@ than merely "discontinuous," but also "differentiated throughout." By contrast,
 analog systems are "dense" and "undifferentiated to the extreme
 [@goodman_languages_1968, 159-164]." Written language and music notation, by
 this definition, are digital systems par excellence, having the property of
-reducing the undifferentiated, analog input into discrete semantic
-units.[^ln13-goodman] Painting, unlike music and language cannot be reduced to
-discrete semantic units, and would be more of an analog system under that
-definition. The language of cubist painting that gestures toward discrete
-atomic components that underly all visual form can be seen as an attempt to
-move paining from an analog to a digital art form.
+reducing the undifferentiated, analog input (human thought) into discrete
+semantic units (text or musical notation).[^ln13-goodman] Painting, unlike
+music and language cannot be reduced to discrete semantic units, and would be
+more of an analog system under that definition. In this light, the language of
+cubist painting, which reconstructs shape into its discrete atomic components,
+can be viewed as an attempt to move paining from an analog to digital art form.
+The digital image, reduced to pixels of uniform shape and size, takes the logic
+of cubism to its ultimate conclusion.
 
 [^ln13-goodman]: Goodman differentiates between "syntactic" and "semantic"
 density. Some notational systems like writing and the decimal system are,
@@ -476,26 +483,26 @@ computer limits decimal precision to some limited "depth" of approximation,
 making it semantically discrete. I find this part of the argument unconvincing.
 
 An interesting corollary to the continuous property of analog systems is our
-inability to duplicate their states exactly. I can only approximate the
-pressure you put on your bicycle handlebars, with some arbitrary measure of
-precision that never reaches perfect reproducibility. This means also that
-while more digital art forms like literature are in some sense perfectly
-reproducible, analog forms, like painting, are not. The late great American
-philosopher John Haugeland amends Goodman's seminal definitions of digital
-media to include "flawless copying and preservation." This property further has
-the effect of freeing digital representation from its medium. A Rembrandt is
-bound to its canvas in a way that Shakespeare's *Hamlet* is not. Digital
-systems are media independent. *Hamlet* can be reproduced on paper, stone, in
-Morse code, or bound in liquid crystal, and still be *Hamlet* in some natural
-understanding of the work. To the definition of Goodman's digital systems,
-Haugeland therefore adds the notion of "feasible procedures" that can lead to
-"positive and reliable" processes for reading and writing digital tokens
+inability to duplicate their states exactly. I can approximate the pressure you
+put on your bicycle handlebars with some arbitrary measure of precision that
+can never reach perfect reproducibility. This means also that while more
+digital art forms like literature are in some sense perfectly reproducible,
+analog forms, like painting, are not. The late great American philosopher John
+Haugeland amends Goodman's seminal definitions of digital media to include
+"flawless copying and preservation." This property further has the effect of
+freeing digital representation from its medium. A Rembrandt is bound to its
+canvas in a way that Shakespeare's *Hamlet* is not. Digital systems are media
+independent. *Hamlet* can be reproduced on paper, stone, in Morse code, or
+bound in liquid crystal, and still be *Hamlet* in some natural understanding of
+the work. To the definition of Goodman's digital systems, Haugeland therefore
+adds the notion of "feasible procedures" that can lead to "positive and
+reliable" processes for reading and writing digital tokens
 [@haugeland_analog_1981, 213-225]. In the case of the soap opera effect, we may
 think of film as something like an "irreproducible series of paintings," and of
 video as "perfectly copyable magnetic signals."
 
 Writing more than a quarter of a century later, Matthew Katz offers two further
-important emendments to the discussion between Goodman and Haugeland. First,
+important adjoiners to the discussion between Goodman and Haugeland. First,
 Katz maintains that Goodman's notion of discreteness and differentiation
 properly affect the format and not the medium of representation. Second, he
 maintains that the distinction between digital and analog formats could
@@ -508,11 +515,12 @@ establish a digital format required for precise reproduction. My two handfuls
 will be different from yours. A related corollary to the distinction between
 medium and format of the system is the user's ability to perceive quantities.
 Were humans endowed with a magical ability to perceive the exact number of
-water molecules in a beaker, previously analog systems like unmarked beakers
+water molecules in a beaker, previously analog systems (like unmarked beakers)
 would in effect become digital. Similarly, were all humans endowed with hands
-of a definite size and volume, "handfuls" would also be counted as a digital
-system or representation. The physical, perceptual, and cognitive abilities of
-the entity doing the counting affects the ontological status of the system.
+of a definite size and volume, "handfuls" would also be counted as discrete and
+therefore digital quantities. The physical, perceptual, and cognitive
+capabilities of the "user" (reader, audience, perceiver) affect the ontological
+status of the system. It makes
 
 The movement from medium to format, radically destabilizes Goodman's original
 intuitions. Where Kernighan and Goodman begin with physical properties of
@@ -3483,6 +3491,8 @@ What does it mean to "know" something? Extended cognition. Pen, typewriter, and
 word processor (with detours to Kittler and Heidegger). Writing together.
 Models of co-authorship (and why we should pay attention).  The massively
 multi-authored online novel (*Wu Ming* and *Lo zar non è morto*).
+
+Enlightenment as mass deception by Adorno.
 
 ### 3.2.1 Cooperation
 
