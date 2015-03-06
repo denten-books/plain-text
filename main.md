@@ -530,28 +530,29 @@ analog until someone cuts it into pieces. Furthermore, the ontological status
 of cake changes depending on the person doing the cutting. The cake is more
 digital, in a sense, for someone armed with a laser cutter and a microscope.
 The conundrum reveals a problem in the very formulation of the question: What
-representation digital? Under examination, the properties related to the
+makes representation digital? Under examination, the properties related to the
 digital-analog distinction cease constituting an ontological category. Rather
 than a state of being, they indicate a systematic imposition of structure.
 
 From the instrumental point of view, to make something digital is to liberate
 representation from its medium. To digitize means also to allow for "copying
 and preservation," actions that, when taken outside of their philosophic
-context acquire an immediate practical implication (understood in the role of a
-librarian, for example). That is not to say that digitization makes thought
-wholly immaterial, rather, that it allows for its continual advancement and
-transmediation--an affordance created by the very same property of "media
-independence." Digitization, in that sense, is a necessary prerequisite for
-culture (in the commmon sense of "collective intellectual achievement").
-Without digital portability, all representation (art and knowledge) is tied to
-the irreproducible and untranslatable contexts.
+context acquire an immediate practical implication (for a librarian, for
+example). That is not to say that digitization makes thought wholly ephemeral
+or immaterial, rather, that it allows for the continual advancement and
+transmediation of thought--the ability to change specific material contexts as
+afforded by the very property of "media independence." Digitization, in that
+sense, is a necessary prerequisite for culture (in the common sense of
+"collective intellectual achievement"). Without digital portability, all
+representation (art and knowledge) attaches itself irrecoverably to
+untranslatable and irreproducible conditions of its material production.
 
 The digital being of representation, initially seen as a property of the
 medium, arises then as a political property regulating the very transmission of
 thought. Text on paper or screen remains digital only in so far as the medium
 is not fixed. Truly digital text can be copied and placed into other hands and
 minds, feasibly and reliably. The possibility of these procedures is what
-ultimtely gives representation its digital form. A document restricted or
+ultimately gives representation its digital form. A document restricted or
 classified in any way looses some of the necessary preconditions for being
 digital. This also means that technologies like "digital rights management"
 (DRM), which work to fix representation into a specific medium, transform
@@ -567,13 +568,13 @@ world, and second, because it always allows for some measure of "flawless
 copying and preservation." Copying and preservation is one of the reasons for
 writing in the first place. But, note also that "flawless copying and
 preservation" are in themselves contingent, not wholly necessary properties of
-writing. Imagine a world in which ideas are forevoer "stuck" in their
-mind-bound media. Imagine also a society that positively prohibits the
-transmediation of thought, on paper or between brain cells. Envision extreme
-forms of thought control that restrict the very basics of speech and literacy,
-prohibiting the manufacture of pens, paper, computer, photocopier, voice
-recorder, and word processor. Such prohibitions would amount to total
-censorship. An radically analog society would also be wholly mute.
+writing. Imagine a world in which ideas forever "adhere" to their brain-bound
+media. Imagine also a society that positively prohibits the transmediation of
+thought, on paper or between brain cells. Envision extreme forms of thought
+control that restrict the very basics of speech and literacy, prohibiting the
+manufacture of pens, paper, computers, photocopiers, voice recorders, and word
+processors. Such prohibitions would amount to total censorship. A radically
+analog society would also be wholly mute.
 
 ### 1.1.4 Digital Formats
 
