@@ -576,8 +576,6 @@ manufacture of pens, paper, computers, photocopiers, voice recorders, and word
 processors. Such prohibitions would amount to total censorship. A radically
 analog society would also be wholly mute.
 
-### 1.1.4 Digital Formats
-
 Understanding digitality as a format imposed onto matter, a format that
 facilitates transmediation, recasts the history of computing as something other
 than simple "mathesis," the idea that computation reduces the world into more
@@ -592,7 +590,7 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 active interpretation is in itself a type of creation, forever advancing rather
 than apprehending the lateral movement of thought.
 
-![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+### 1.1.4 Digital Formats
 
 "You must acknowledge that this is readable without special training," reads the
 schematic illustration to a Goldberg's 1911 patent for a "controller." "My
@@ -611,9 +609,11 @@ Besides carrying (human-readable) content, the perforations do "double duty" to
 mechanically manipulate the machines "blocks," "handles," "terminal blades,"
 and "plungers."
 
-The turn of the 20th century, represents a pivotal moment in the development of
-universal Turing machines. The advent of removable storage media, like control
-cards and ticker tape, allowed for the automation of the telegraph.  Following
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+
+The turn of the 20th century represents a pivotal moment in the development of
+universal Turing machines. The advent of removable storage media--control
+cards and ticker tape--allowed for the automation of the telegraph.  Following
 the invention of Morse Code in the first half of 19th century, a number of
 formats were proposed to encode human languages into binary formats that rely
 on signal modulation for transmission. As telegraph communication spread across
