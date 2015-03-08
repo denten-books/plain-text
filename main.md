@@ -6,8 +6,64 @@ author: "Dennis Tenen"
 
 # Introduction
 
-The majority of the introduction is in the book proposal. This section was not
-interesting for the book proposal, but will be in the introduction.
+In an ASCII-rendered plain text file, byte count corresponds to character
+count.[^ln11-char] Let these words soak in for a moment. I will spend the rest
+of the book unpacking this idea. We will have to come to terms with what "plain
+text," "ASCII," and "bytes" really represent. But for now, a common-sense
+understanding of the sentiment should suffice. It is enough to have the
+intuition that texts and characters are concepts meant for humans and that
+bytes have something to do with (and for) machines. Remarkably, under the
+singular conditions of plain text (and even then, not always, and with many
+caveats), a unit of information meaningful to me (a human for the most part)
+gains a measure of equivalence to a byte, a unit of information "meant for" a
+computer.[^ln11-human], [^ln11-meaning]
+
+Not all texts are created equal. In print, traditional distinctions between
+form and content lie flat. The printing press firmly embeds letters into paper,
+leaving no space between ink and page. From the early days of the internet, the
+writing of media-minded critics like Jerome McGann [@mcgann_radiant_2004],
+Johanna Drucker [@drucker_digital_2001], and Katherine Hayles
+[@hayles_print_2004] has compelled literary scholars to re-evaluate textuality
+in its media-specific contexts. Their work reminds us that the flatness of
+digital text endures only as an illusion. A substantial gap separates
+presentation from source material. Low-level, operational intuitions governing
+textuality--ideas about form, content, style, letter, and word--change
+profoundly as text shifts its confines from paper to pixel. Forces of capital
+and control often exploit that gap, relying on technological obscurity and
+institutional momentum to promote their ends (for better or for worse).
+
+I contend here that some of the higher-level social ills of the contemporary
+public sphere, mass surveillance or online censorship, for example, are related
+to our failure to come to terms with the changing conditions of digital
+textuality. A society that cares about the long-term preservation of complex
+discursive formations like free speech, privacy, and deliberation online, would
+do well to take heed of textual building blocks at their foundation. Text
+matters because how it is encoded, transmitted, and stored decides who gets to
+decode, receive, and access.
+
+[^ln11-char]: There are many caveats here, to be explored later. Follow along
+with exercises related to the discussion in the Technical Appendix.
+
+[^ln11-human]: Recent theory challenges the conceptual boundaries between
+humans and machines in a concerted way. Perhaps, such boundaries were never
+that clearly articulated in the first place. It is also likely that other
+modalities of being are possible on the spectrum between human and machine, or
+human and complex system. We will have a chance to explore these possibilities
+in second half of the book. For now, I ask that the reader simply rely on the
+colloquial, pre-theoretical understanding of both person and instrument.
+However intertwined the hand and the hammer can become, there is an intuitive
+way in which a child can separate one from the other. There is deep-rooted
+instinct at work in that distinction, one that cannot and should not be
+dismissed as mere naiveté. The concept of a human is in itself a powerful
+theoretical construct, and, as I will argue throughout, one necessary, not only
+for the understanding of key concepts in literary theory and computer science,
+but also in articulating an ethics of critical computation.
+
+[^ln11-meaning]: I write "meaning" in quotation marks, because the question of
+whether it makes sense to talk about meaning for artificial agents is a
+question that will remain unresolved, at least until the later chapters, when
+we have the chance to discuss notions of data and information as
+meaning-carrying units.
 
 ## Theory & Method
 
@@ -590,48 +646,29 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 active interpretation is in itself a type of creation, forever advancing rather
 than apprehending the lateral movement of thought.
 
-### 1.1.4 Digital Formats
-
-"You must acknowledge that this is readable without special training," reads the
-schematic illustration to a Goldberg's 1911 patent for a "controller." "My
-invention relates to all controllers," Goldberg writes. "The object of the
-invention is to provide a mechanism operable by a control sheet which is
-legible to every person having sufficient education to enable him to read. To
-illustrate my invention, I produce a control sheet in which the control
-characters are in the form of the letters of the ordinary English alphabet
-[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
-clear that Goldberg, among others, was aware of the problem: the mechanization
-of type, automation, and remote control required specialized training. With the
-advent of the automated telegraph, content meant for people was now being
-intermixed with machine-controlling code. To combat mutual unintelligibility,
-Goldberg imagines using cards, perforated in the shape of the English alphabet.
-Besides carrying (human-readable) content, the perforations do "double duty" to
-mechanically manipulate the machines "blocks," "handles," "terminal blades,"
-and "plungers."
-
-![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+### 1.1.4 Binary Formats
 
 The turn of the 20th century represents a pivotal moment in the development of
-universal Turing machines. The advent of removable storage media--control
-cards and ticker tape--allowed for the automation of the telegraph.  Following
-the invention of Morse Code in the first half of 19th century, a number of
-formats were proposed to encode human languages into binary formats that rely
-on signal modulation for transmission. As telegraph communication spread across
-national boundaries, agreements were needed to standardize conventions for
-equipment and message encoding [@Journal télégraphique, 90]. Such agreements
-were handled on a regional, ad-hoc basis until 1865, with the creation of the
-International Telegraph Union (ITU). The international telegraph conference in
-Paris held between March 1st and May 17th of 1865, adopted the use of a
-modified Morse code character set, containing 33 Latin letters (including
-characters from the French, German, and Spanish alphabets), 10 numbers (0-9),
-14 punctuation marks (including a fraction bar), and 10 control codes
-(including "end of service," "attention," and "error"). Significantly, ITU also
-set international tariffs related to telegraph communication [@ITU1865]. During
-the International Telegraph Conference in Lisbon, held in the Summer of 1908,
-the ITU specified two additional formats: Hughes and Baudot. These differed
-from Morse code in that both systems were designed for rapid input into a
-printing telegraph, using a piano-like keyboard to create rapid chord
-progressions.
+universal Turing machines. The advent of removable storage media--control cards
+and ticker tape--allowed for the automation of the telegraph. Following the
+invention of Morse Code in the first half of 19th century, a number of formats
+were proposed to encode human languages into binary formats that rely on signal
+modulation for transmission. As telegraph communication spread across national
+boundaries, agreements were needed to standardize conventions for equipment and
+message encoding [@international_telegraph_union_journal_1899, 82-91]. Such
+agreements were handled on a regional, ad-hoc basis until 1865, with the
+creation of the International Telegraph Union (ITU). The international
+telegraph conference in Paris held between March 1st and May 17th of 1865,
+adopted the use of a modified Morse code character set, containing 33 Latin
+letters (including characters from the French, German, and Spanish alphabets),
+10 numbers (0-9), 14 punctuation marks (including a fraction bar), and 10
+control codes (including "end of service," "attention," and "error").
+Significantly, ITU also set international tariffs related to telegraph
+communication [@ITU1865]. During the International Telegraph Conference in
+Lisbon, held in the Summer of 1908, the ITU specified two additional formats:
+Hughes and Baudot. These differed from Morse code in that both systems were
+designed for rapid input into a printing telegraph, using a piano-like keyboard
+to create rapid chord progressions.
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
@@ -661,26 +698,46 @@ the presence of current[@ITU1932, 36].[^ln13-current]
 devices, in which case 0 would represent "negative current" and 1 "positive
 current [@ITU1932, 36]."
 
-ASCII.
+By the 1960, multiple competing charachter encodings existed in the United
+States and globally. 
 
-Gray code (reflected binary).
+ASCII.
 
 ![Decoder for Reflected Binary Codes(US Patent 2538615)](images/binary.png
 "@carbrey1951")
 
-Engineers carrying cards
-
 ### 1.1.5 WYSINAWYG (What You See Is Not Always What You Get)
 
-Concern with human comprehension. Related to secrecy.
-Plain language and secret language (telegraph regulations 1932).
-"Plain language is that which presents an intelligible meaning in one or more
-of the languages authorized for international telegraph correspondence, each
-word and each expression having the meaning normally assigned to it in the
-language to which it belongs" [@ITU1932, 12]. "Code language is composed either of artificial words, or of real words not
-used in the meaning normally assigned to them in the language to which they
-belong and consequently not forming intelligeble phrases" [@ITU1932, 12].
-TROFF
+"You must acknowledge that this is readable without special training," reads the
+schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
+clear that Goldberg, among others, was aware of the problem: the mechanization
+of type, automation, and remote control required specialized training. With the
+advent of the automated telegraph, content meant for people was now being
+intermixed with machine-controlling code. To combat mutual unintelligibility,
+Goldberg imagines using cards, perforated in the shape of the English alphabet.
+Besides carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
+and "plungers."
+
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+Concern with human comprehension. 
+
+Related to secrecy.  Plain language and
+
+secret language (telegraph regulations 1932).  "Plain language is that which
+presents an intelligible meaning in one or more of the languages authorized for
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@ITU1932, 12]. "Code language is composed either of artificial words, or of
+real words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligeble phrases" [@ITU1932,
+12].  TROFF
 
 Plain text in Unix. Human readability.
 Further separation. On benefits of computer-aided document preparation. "The
@@ -720,6 +777,27 @@ Semantic markup is interesting because it contains both material and ideal. The
 way textuality is encoded mediates between idea and matter. Mediation. Visible
 form and hidden form.
 
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
 We have now traveled from the pixel down to magnetic storage media and back
 from the storage media to the screen. The passage opens up space between
 visible content, media, and the imposed forms that govern any and all higher
@@ -737,6 +815,7 @@ communication, limited in its ability to move across minds and cultures. But,
 it is also in our broadly human, civic interest to keep such mechanisms of
 constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
+
 
 ## Chapter 1.2: Literature Down to the Pixel
 `literature, content, control`
@@ -1474,65 +1553,6 @@ neural circuitry of the brain, do you know what you are reading?
 `content, matter, form`
 
 ### 1.3.1 Shaping Text
-
-In an ASCII-rendered plain text file, byte count corresponds to character
-count.[^ln11-char] Let these words soak in for a moment. I will spend the rest
-of the book unpacking this idea. We will have to come to terms with what "plain
-text," "ASCII," and "bytes" really represent. But for now, a common-sense
-understanding of the sentiment should suffice. It is enough to have the
-intuition that texts and characters are concepts meant for humans and that
-bytes have something to do with (and for) machines. Remarkably, under the
-singular conditions of plain text (and even then, not always, and with many
-caveats), a unit of information meaningful to me (a human for the most part)
-gains a measure of equivalence to a byte, a unit of information "meant for" a
-computer.[^ln11-human], [^ln11-meaning]
-
-Not all texts are created equal. In print, traditional distinctions between
-form and content lie flat. The printing press firmly embeds letters into paper,
-leaving no space between ink and page. From the early days of the internet, the
-writing of media-minded critics like Jerome McGann [@mcgann_radiant_2004],
-Johanna Drucker [@drucker_digital_2001], and Katherine Hayles
-[@hayles_print_2004] has compelled literary scholars to re-evaluate textuality
-in its media-specific contexts. Their work reminds us that the flatness of
-digital text endures only as an illusion. A substantial gap separates
-presentation from source material. Low-level, operational intuitions governing
-textuality--ideas about form, content, style, letter, and word--change
-profoundly as text shifts its confines from paper to pixel. Forces of capital
-and control often exploit that gap, relying on technological obscurity and
-institutional momentum to promote their ends (for better or for worse).
-
-I contend here that some of the higher-level social ills of the contemporary
-public sphere, mass surveillance or online censorship, for example, are related
-to our failure to come to terms with the changing conditions of digital
-textuality. A society that cares about the long-term preservation of complex
-discursive formations like free speech, privacy, and deliberation online, would
-do well to take heed of textual building blocks at their foundation. Text
-matters because how it is encoded, transmitted, and stored decides who gets to
-decode, receive, and access.
-
-[^ln11-char]: There are many caveats here, to be explored later. Follow along
-with exercises related to the discussion in the Technical Appendix.
-
-[^ln11-human]: Recent theory challenges the conceptual boundaries between
-humans and machines in a concerted way. Perhaps, such boundaries were never
-that clearly articulated in the first place. It is also likely that other
-modalities of being are possible on the spectrum between human and machine, or
-human and complex system. We will have a chance to explore these possibilities
-in second half of the book. For now, I ask that the reader simply rely on the
-colloquial, pre-theoretical understanding of both person and instrument.
-However intertwined the hand and the hammer can become, there is an intuitive
-way in which a child can separate one from the other. There is deep-rooted
-instinct at work in that distinction, one that cannot and should not be
-dismissed as mere naiveté. The concept of a human is in itself a powerful
-theoretical construct, and, as I will argue throughout, one necessary, not only
-for the understanding of key concepts in literary theory and computer science,
-but also in articulating an ethics of critical computation.
-
-[^ln11-meaning]: I write "meaning" in quotation marks, because the question of
-whether it makes sense to talk about meaning for artificial agents is a
-question that will remain unresolved, at least until the later chapters, when
-we have the chance to discuss notions of data and information as
-meaning-carrying units.
 
 What makes a text? In talking about texts of all kinds, literary scholars and
 computer scientists often make the distinction between form and content.
