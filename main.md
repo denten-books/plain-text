@@ -673,18 +673,37 @@ Hughes and Baudot.
 The Hughes telegraph, an 1855 design modification of a 1846 telegraph invented
 by the American Royal E. House, was a capricious machine that relied on a
 tuning mechanism to transmit individual characters. Inspired by the player
-piano, the Hughes telegraph looked like a piano, replete with a keyboard and a
-rotating drum, commonly using in music boxes. The sending device struck a tone,
-which, when transmitted by electrical current, would initiate the rotation of a
-similar drum in the receiving apparatus "at the pleasure of of the distant
-operator," in Hughes's words. The length of time between the initial
+piano, the Hughes telegraph even looked like a piano, replete with a keyboard
+and a rotating drum, commonly using in music boxes. The sending device struck a
+tone, which, when transmitted by electrical current, would initiate the
+rotation of a similar drum in the receiving apparatus "at the pleasure of the
+distant operator," in Hughes's words. The length of time between the initial
 synchronization signal and the struck chord would correspond to a letter, which
 the machine would then print to tape using a letter wheel. Hughes referred to
 the device as a "Compound Magnetic and Vibrating Printing Instrument
 [@noll_evolution_2007, 20-21; @hayles_print_2004, 145-147;
-@hughes_improvement_1856]."
+@hughes_improvement_1856]," in a name that already hints at the fragility of
+the device. It is tempting to think of the telegraph as a digital device,
+created to convert analog [*sic*] input into electric signal, and much of
+technical literature on the subject makes that simplification.[^ln-tele-digi]
 
-Morse code.
+[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
+digital device sending only high and low pulses through the wire;"
+@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
+dashes in a manner similar to the ones and zeroes of digital logic;"
+@comer_internet_2006, 32: "The telegraph is a digital device because instead of
+sending a continuous signal that is an exact analog of the input, the
+telegraph clicks to send the individual characters."
+
+Morse code, co-developed between a number of American and British inventors in
+the first half of the 19th-century, had the advantage of an encoding scheme
+that did not rely on device syncrhonization. The 1865 ITU rules require a
+silince equal to three dots (same as one dash) to indicate the space between
+two letters, and a silence equivalent to four dots (later changed to seven) to
+indicate the space between words. Although Morse code can be expressed in terms
+of ones and zeroes (binary), it is technichally a ternary code making use of at least
+three elements: dots, dashes, and silences of various length. Furthermore, note
+that Mor
 
 Baudot. Fixed length.
 
