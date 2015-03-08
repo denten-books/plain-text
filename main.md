@@ -264,14 +264,14 @@ What does the digital look like? It looks blue for one--not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
 translucent and white, starburst-like overtones. An online image search for the
 word "digital" produces many sharp, sterile visuals of that kind. Abstract
-geometrical patterns predominate in the first dozen or so search results:
-usually curving three-dimensional tunnels or lines that resemble circuit
-boards. There are things too of course, cheap and expensive consumer things
-like scanners, flash cards, circuit boards, and backup drives, but most of all
-it is cameras--digital cameras, the very idea of which is meant to stand in
-stark contrast to "traditional film photography." Few marketplace objects
-exhibit such a strong sense of the opposition between the digital and the
-analog as a consumer camera. These pages also contain the outdated clichés of
+geometrical patterns predominate in the first dozen or so search results: often
+forming curved three-dimensional tunnels or lines that resemble circuit boards.
+There are things too of course, cheap and expensive consumer things like
+scanners, flash cards, circuit boards, and backup drives, but most of all it is
+cameras--digital cameras, the very idea of which is meant to stand in stark
+contrast to "traditional film photography." Few marketplace objects exhibit
+such a strong sense of the opposition between the digital and the analog as a
+consumer camera. These search pages also contain the outdated clichés of
 yesterday's digital detritus: digital clocks, purple lightning bolts, and the
 abstract chrome landscapes made widely available by graphic editing software in
 the 1990s. There are numbers. The preferred arrangement is in a torrential
@@ -299,8 +299,8 @@ the 20th century. Where the critics lauded the latter for its moody and
 atmospheric photo-realistic environments, the former embraces the playful 8-bit
 low fidelity aesthetic of gaming consoles from the 1980s. The pseudo-pixelated
 world of *Minecraft* encourages its inhabitants to experiment with
-deconstruction in a language of cubes, producing cubist landscapes that
-foreground the discontinuity of form and surface.
+deconstruction, producing cubist landscapes that foreground the discontinuity
+of form and surface.
 
 The iconography of the digital works in the other direction too, by approaching
 and challenging the perceived continuity of the analog world. Liquid-metal
@@ -310,7 +310,7 @@ to render digitally, especially in movement. Digital alchemy approaches the
 boundaries of technological possibility, but absent the constraints of realism
 it pushes past reality, past nature, and past mere fidelity to the natural
 world. A real-world explosion caught on film looks cheap in comparison to its
-cinematic "special-effects" version. A blazing corporate logo rendered
+cinematic "special-effects" simulacrum. A blazing corporate logo rendered
 digitally would lose much of its appeal were it produced by literally lighting
 a logograph on fire. The burning digital logograph does not just say "we are
 hot" or "we are on fire" (that would be too naive)--it says that our fire is
