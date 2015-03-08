@@ -666,9 +666,27 @@ control codes (including "end of service," "attention," and "error").
 Significantly, ITU also set international tariffs related to telegraph
 communication [@ITU1865]. During the International Telegraph Conference in
 Lisbon, held in the Summer of 1908, the ITU specified two additional formats:
-Hughes and Baudot. These differed from Morse code in that both systems were
-designed for rapid input into a printing telegraph, using a piano-like keyboard
-to create rapid chord progressions.
+Hughes and Baudot.
+
+![](images/alphabets-vansize.png "Table of Alphabets, 1901, @vansize_new_1901, 23.")
+
+The Hughes telegraph, an 1855 design modification of a 1846 telegraph invented
+by the American Royal E. House, was a capricious machine that relied on a
+tuning mechanism to transmit individual characters. Inspired by the player
+piano, the Hughes telegraph looked like a piano, replete with a keyboard and a
+rotating drum, commonly using in music boxes. The sending device struck a tone,
+which, when transmitted by electrical current, would initiate the rotation of a
+similar drum in the receiving apparatus "at the pleasure of of the distant
+operator," in Hughes's words. The length of time between the initial
+synchronization signal and the struck chord would correspond to a letter, which
+the machine would then print to tape using a letter wheel. Hughes referred to
+the device as a "Compound Magnetic and Vibrating Printing Instrument
+[@noll_evolution_2007, 20-21; @hayles_print_2004, 145-147;
+@hughes_improvement_1856]."
+
+Morse code.
+
+Baudot. Fixed length.
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
@@ -698,8 +716,10 @@ the presence of current[@ITU1932, 36].[^ln13-current]
 devices, in which case 0 would represent "negative current" and 1 "positive
 current [@ITU1932, 36]."
 
+
 By the 1960, multiple competing charachter encodings existed in the United
 States and globally. 
+
 
 ASCII.
 
@@ -3574,6 +3594,8 @@ Recovering and preserving textuality in computing.
 for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
 developed of these. Engineering for dissent. The ability to create shared goals
 and to exit. engagement with shared project. The subject of my next book. 
+
+Brooks Act 1965.
 
 Metaphysical Dread about Computation Brian Lennon and Golumbia. The argument
 basically boils down to the cultural logic of computation being complicit in
