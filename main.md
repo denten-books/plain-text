@@ -484,7 +484,7 @@ promoting the "digital humanities" in name only. To perceive what is at stake,
 we must do much more to disambiguate the cognates of the digital: electronic,
 binary, and computational.
 
-### 1.1.3 Media Independence
+### 1.1.3 Discrete and Continuous
 
 Let us start with digital representation expressed more formally, in computer
 science and in the analytic tradition of aesthetic philosophy and philosophy of
@@ -646,7 +646,7 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 active interpretation is in itself a type of creation, forever advancing rather
 than apprehending the lateral movement of thought.
 
-### 1.1.4 Binary Formats
+### 1.1.4 Transmediation
 
 The turn of the 20th century represents a pivotal moment in the development of
 universal Turing machines. The advent of removable storage media--control cards
@@ -683,9 +683,43 @@ the machine would then print to tape using a letter wheel. Hughes referred to
 the device as a "Compound Magnetic and Vibrating Printing Instrument
 [@noll_evolution_2007, 20-21; @hayles_print_2004, 145-147;
 @hughes_improvement_1856]," in a name that already hints at the fragility of
-the device. It is tempting to think of the telegraph as a digital device,
-created to convert analog [*sic*] input into electric signal, and much of
-technical literature on the subject makes that simplification.[^ln-tele-digi]
+the device.
+
+It is tempting to think of the telegraph as a digital [*sic*] device, created
+to convert analog [*sic*] input into electric signal, and much technical
+literature on the subject makes that simplification.[^ln-tele-digi] The
+mechanics of the Hughes telegraph paint a much more complicated complicated
+picture however, one that involves multiple phase shifts and transformations.
+On some level, language, already a discrete and portable representation of
+mental states, which in themselves stand in a complicated and fragmentary
+relationship to sensory phenomena, undergoes a number of further material phase
+transitions. In the Hughes telegraph, this involves what I have been calling
+"trans-mediation" from keyboard input, to mechanical movement of the drum,
+magnetic resonance, to the vibration of a spring, to electric wire and signal,
+into the movement of the type wheel, and the machinations of the printing
+apparatus that once again produces letters. On another level, language
+undergoes multiple changes in encoding, in the sense of "systems of
+representation." Representation, as in "pictorial representation," differs from
+"encoding" in the size of its vocabulary. Representation, like painting, is
+limitless in its expressive possibility. Encoding, by contrast, reduces a
+universe of possibilities to a limited set of possible codes, like the
+alphabet. The Hughes telegraph clearly operates on the level of encoding,
+accepting alpha-numeric characters at first and then translating or
+trans-coding them into a system of signals, expressed in time intervals (between
+the synchronization tone and the activation of the key).
+
+It becomes clear from this description that trans-coding and trans-mediation
+relate to each other somehow. On one hand, all changes between encoding systems
+necessitate material phase transition, if not from one *type* of medium into
+another (from paper to magnetic storage, for example), then from one specific
+material *context* into another (as when one merely translates from French into
+English on the same piece of paper). Trans-mediation, on the other hand, may or
+may not involve change in encoding formats, although it frequently does, as
+when language on paper is transformed into the pulsations of the electrical
+signal in Morse code. In reading and playing music, a musician furthermore
+transforms musical notation--a controlled, paper-bound vocabulary--into sound
+representation, the movement of molecules unlimited in its expressive
+potential.
 
 [^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
 digital device sending only high and low pulses through the wire;"
@@ -739,6 +773,8 @@ current [@ITU1932, 36]."
 By the 1960, multiple competing charachter encodings existed in the United
 States and globally. 
 
+The very notion of discrete and analog differs on the capabilities of the
+perciever. Natural rhythm. Uxcull tick and Hayles.
 
 ASCII.
 
