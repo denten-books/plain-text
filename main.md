@@ -757,7 +757,12 @@ electrocorticographic (ECoG) activity recorded from the surface of the brain
 quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
 simulation devolped by the University of Pittsburgh’s Human Engineering
 Research Laboratories in collaboration of Defense Advanced Research Projects
-Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015].
+Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
+in brain-computer interfaces suggest the not-all-too-distant possibility of
+brain-computer-brain communication. However futuristic that possibility may
+sound to us today, it is merely a small evolutionory step in a long history of
+brain to brain communication, currently mediated by a long chain of code and
+media.
 
 [^ln-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
 The Frequently Asked Questions page includes the followingn prompt: "Have you
@@ -766,6 +771,8 @@ makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
 wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
+
+I am purpusefully describing familar acts of communication in 
 
 Morse code, co-developed between a number of American and British inventors in
 the first half of the 19th-century, had the advantage of an encoding scheme
