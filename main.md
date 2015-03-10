@@ -637,7 +637,7 @@ facilitates transmediation, recasts the history of computing as something other
 than simple "mathesis," the idea that computation reduces the world into more
 discrete, and therefore computable elements. That idea would be true if the
 computer was simply a glorified calculator. But computers are not just that:
-they are self-amending machines for universal transmediation (not limited to
+they are self-amending machines for universal trans-mediation (not limited to
 numbers): machines that, depending on the user's acuity and dispensation to
 perceive text (and all information, really) as deep structure, separate readers
 into those for whom text exists as a fixed analog given, and those for whom
@@ -686,27 +686,40 @@ the device as a "Compound Magnetic and Vibrating Printing Instrument
 the device.
 
 It is tempting to think of the telegraph as a digital [*sic*] device, created
-to convert analog [*sic*] input into electric signal, and much technical
-literature on the subject makes that simplification.[^ln-tele-digi] The
-mechanics of the Hughes telegraph paint a much more complicated complicated
-picture however, one that involves multiple phase shifts and transformations.
-On some level, language, already a discrete and portable representation of
-mental states, which in themselves stand in a complicated and fragmentary
-relationship to sensory phenomena, undergoes a number of further material phase
-transitions. In the Hughes telegraph, this involves what I have been calling
-"trans-mediation" from keyboard input, to mechanical movement of the drum,
-magnetic resonance, to the vibration of a spring, to electric wire and signal,
-into the movement of the type wheel, and the machinations of the printing
-apparatus that once again produces letters. On another level, language
-undergoes multiple changes in encoding, in the sense of "systems of
-representation." Representation, as in "pictorial representation," differs from
-"encoding" in the size of its vocabulary. Representation, like painting, is
-limitless in its expressive possibility. Encoding, by contrast, reduces a
-universe of possibilities to a limited set of possible codes, like the
-alphabet. The Hughes telegraph clearly operates on the level of encoding,
-accepting alpha-numeric characters at first and then translating or
-trans-coding them into a system of signals, expressed in time intervals (between
-the synchronization tone and the activation of the key).
+to convert analog [*sic*] input into electric signal. Much technical literature
+on the subject makes that simplification.[^ln-tele-digi] The mechanics of the
+Hughes telegraph paint a much more complicated complicated picture, one that
+involves multiple shifts and transformations.  On some level, language, already
+a discrete and portable representation of mental states, which in themselves
+stand in a complicated and fragmentary relationship to sensory phenomena,
+undergoes a number of further material phase transitions. In the Hughes
+telegraph this involves what I have been calling "trans-mediation" from
+keyboard input, to mechanical movement of the drum, to magnetic resonance, to
+the vibration of a spring, to electric wire and signal, into the movement of
+the type wheel, and to the machination of the printing apparatus that once
+again produces the alphabet. In changing material contexts, language also
+undergoes multiple changes of encoding. By "encoding," I mean a "controlled
+system of representation." Representation in its unrestrained form (as in
+"pictorial representation") differs from "encoding" in the size of its
+vocabulary. Painting and other forms of uninhibited representational
+conventions, are limitless in their expressive possibility. The "language" of
+painting is limitless, in other words. Encoding, by contrast, reduces the
+universe of possibilities to a limited set of possible "codes," like the
+alphabet. These codes have a more formalized grammar and rules of composition.
+Although the expressive potential of written language is limitless, in some
+combinatorial sense of the word, language and other codes can "break," that is,
+be reduced to non-sense, in a way that painting cannot. The Hughes telegraph
+accepts alpha-numeric characters at first and then translates or trans-codes
+them into a system of signals, expressed in time intervals (between the
+synchronization tone and the activation of the key).
+
+[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
+digital device sending only high and low pulses through the wire;"
+@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
+dashes in a manner similar to the ones and zeroes of digital logic;"
+@comer_internet_2006, 32: "The telegraph is a digital device because instead of
+sending a continuous signal that is an exact analog of the input, the telegraph
+clicks to send the individual characters."
 
 It becomes clear from this description that trans-coding and trans-mediation
 relate to each other somehow. On one hand, all changes between encoding systems
@@ -719,23 +732,48 @@ when language on paper is transformed into the pulsations of the electrical
 signal in Morse code. In reading and playing music, a musician furthermore
 transforms musical notation--a controlled, paper-bound vocabulary--into sound
 representation, the movement of molecules unlimited in its expressive
-potential.
+potential. The blueprints for the Hughes telegraph reveal a device that mixes
+discrete and continuous modes of representation, through multiple acts of
+trans-coding and trans-mediation. Digitality, in that sense, is besides the
+point. The telegraph is a device that pushes language, normally bound to air
+(as speech) and paper (as a writing system), through water and metal. Even
+today, deep beneath the sea surface, telegraph lines ferry messages from
+continent to continent. And at each end of the telegraph cable is a
+transmediation device that makes media transference possible.
 
-[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device sending only high and low pulses through the wire;"
-@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
-dashes in a manner similar to the ones and zeroes of digital logic;"
-@comer_internet_2006, 32: "The telegraph is a digital device because instead of
-sending a continuous signal that is an exact analog of the input, the
-telegraph clicks to send the individual characters."
+### 1.1.5 Human-readablity
+
+Electricity--the "language" of wires--is not a media format intended for human
+consumption. One could learn to understand telegraph intercourse through
+electricution, by applying the wire directly to the skin. Direct brain-computer
+interfaces promise to do more or less exactly that and are common enough today
+to be turned into a toy.[^ln-mindflex] The early efforts in this space
+implanted electrodes into the brain directly to caputure single-neuron
+activity, or relied on imprecise "noisy" electroencephalographic (EEG) scalp
+activity. In 2004 a team of scientists developed a way of controlling  "a
+one-dimensional computer cursor rapidly and accurately" using
+electrocorticographic (ECoG) activity recorded from the surface of the brain
+[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
+quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
+simulation devolped by the University of Pittsburgh’s Human Engineering
+Research Laboratories in collaboration of Defense Advanced Research Projects
+Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015].
+
+[^ln-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
+The Frequently Asked Questions page includes the followingn prompt: "Have you
+ever dreamed of moving an object with the power of your mind? Mindflex Duel™
+makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
+wireless headset reads your brainwave activity. Concentrate...and the ball
+rises on a cushion of air! Relax...and the ball descends. It's literally mind
+over matter!" (@mindflex_mindflex:_2015)
 
 Morse code, co-developed between a number of American and British inventors in
 the first half of the 19th-century, had the advantage of an encoding scheme
-that did not rely on device syncrhonization. The 1865 ITU rules require a
-silince equal to three dots (same as one dash) to indicate the space between
+that did not rely on device synchronization. The 1865 ITU rules require a
+silence equal to three dots (same as one dash) to indicate the space between
 two letters, and a silence equivalent to four dots (later changed to seven) to
 indicate the space between words. Although Morse code can be expressed in terms
-of ones and zeroes (binary), it is technichally a ternary code making use of at least
+of ones and zeros (binary), it is technically a ternary code making use of at least
 three elements: dots, dashes, and silences of various length. Furthermore, note
 that Mor
 
@@ -769,8 +807,7 @@ the presence of current[@ITU1932, 36].[^ln13-current]
 devices, in which case 0 would represent "negative current" and 1 "positive
 current [@ITU1932, 36]."
 
-
-By the 1960, multiple competing charachter encodings existed in the United
+By the 1960, multiple competing character encodings existed in the United
 States and globally. 
 
 The very notion of discrete and analog differs on the capabilities of the
@@ -780,117 +817,6 @@ ASCII.
 
 ![Decoder for Reflected Binary Codes(US Patent 2538615)](images/binary.png
 "@carbrey1951")
-
-### 1.1.5 WYSINAWYG (What You See Is Not Always What You Get)
-
-"You must acknowledge that this is readable without special training," reads the
-schematic illustration to a Goldberg's 1911 patent for a "controller." "My
-invention relates to all controllers," Goldberg writes. "The object of the
-invention is to provide a mechanism operable by a control sheet which is
-legible to every person having sufficient education to enable him to read. To
-illustrate my invention, I produce a control sheet in which the control
-characters are in the form of the letters of the ordinary English alphabet
-[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
-clear that Goldberg, among others, was aware of the problem: the mechanization
-of type, automation, and remote control required specialized training. With the
-advent of the automated telegraph, content meant for people was now being
-intermixed with machine-controlling code. To combat mutual unintelligibility,
-Goldberg imagines using cards, perforated in the shape of the English alphabet.
-Besides carrying (human-readable) content, the perforations do "double duty" to
-mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
-and "plungers."
-
-![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
-Concern with human comprehension. 
-
-Related to secrecy.  Plain language and
-
-secret language (telegraph regulations 1932).  "Plain language is that which
-presents an intelligible meaning in one or more of the languages authorized for
-international telegraph correspondence, each word and each expression having
-the meaning normally assigned to it in the language to which it belongs"
-[@ITU1932, 12]. "Code language is composed either of artificial words, or of
-real words not used in the meaning normally assigned to them in the language to
-which they belong and consequently not forming intelligeble phrases" [@ITU1932,
-12].  TROFF
-
-Plain text in Unix. Human readability.
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-Baudot code.
-
-TROFF example from @kernighan1978, 2123. 
-
-```
-.de hd          \" begin header definition
-'sp 1i          \" space 1 inch
-..              \" end of header definition
-.de fo          \" footer 'bp \" space to beginning of next page
-..              \" end of footer definition
-.wh 0 hd        \" set trap to invoke hd when at top of page
-.wh -1i fo      \" set trap in invoke fo 1 inch form bottom
-```
-
-Serial. Voice syntehsizer. Diff. Spell.  RUNOFF.
-http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
-
-Into GML > @goldfarb1981
-
-Pub! http://www.nomodes.com/pub_manual.html
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
-We have now traveled from the pixel down to magnetic storage media and back
-from the storage media to the screen. The passage opens up space between
-visible content, media, and the imposed forms that govern any and all higher
-notions of literary activity "floating" above this nominally "digital" layer.
-Technology does not determine the literary space: it has only the potential to
-hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and transmediation. I say nothing
-yet of the potential necessity of such regulation. Under certain conditions, in
-the name of privacy, security, or property rights, it may become necessary to
-flatten out and to treat text as more of an analog, media-bound modality of
-communication, limited in its ability to move across minds and cultures. But,
-it is also in our broadly human, civic interest to keep such mechanisms of
-constraint visible to view, under continual scrutiny of critical, close, and
-closest possible reading.
-
 
 ## Chapter 1.2: Literature Down to the Pixel
 `literature, content, control`
@@ -2329,6 +2255,117 @@ influential @mckitterick_books_1994, @clanchy_memory_1979, and @goody_consequenc
 / This (Book came), nor art thou / (Able) to transcribe it / With thy right
 hand: / In that case, indeed, would / The talkers of vanities / Have doubted
 [@ali_meaning_1997, 29:48]."
+
+
+### 1.3.5 WYSINAWYG (What You See Is Not Always What You Get)
+
+"You must acknowledge that this is readable without special training," reads the
+schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
+clear that Goldberg, among others, was aware of the problem: the mechanization
+of type, automation, and remote control required specialized training. With the
+advent of the automated telegraph, content meant for people was now being
+intermixed with machine-controlling code. To combat mutual unintelligibility,
+Goldberg imagines using cards, perforated in the shape of the English alphabet.
+Besides carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
+and "plungers."
+
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+Concern with human comprehension. 
+
+Related to secrecy.  Plain language and
+
+secret language (telegraph regulations 1932).  "Plain language is that which
+presents an intelligible meaning in one or more of the languages authorized for
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@ITU1932, 12]. "Code language is composed either of artificial words, or of
+real words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligeble phrases" [@ITU1932,
+12].  TROFF
+
+Plain text in Unix. Human readability.
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+Baudot code.
+
+TROFF example from @kernighan1978, 2123. 
+
+```
+.de hd          \" begin header definition
+'sp 1i          \" space 1 inch
+..              \" end of header definition
+.de fo          \" footer 'bp \" space to beginning of next page
+..              \" end of footer definition
+.wh 0 hd        \" set trap to invoke hd when at top of page
+.wh -1i fo      \" set trap in invoke fo 1 inch form bottom
+```
+
+Serial. Voice syntehsizer. Diff. Spell.  RUNOFF.
+http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
+
+Into GML > @goldfarb1981
+
+Pub! http://www.nomodes.com/pub_manual.html
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
 
 
 # Part 2: Technology
