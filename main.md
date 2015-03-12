@@ -696,16 +696,26 @@ of ones and zeros (binary), it is technically a ternary code making use of at
 least three elements: dots, dashes, and silences of various length.
 Furthermore, note that Morse code is a "variable length" format, where
 characters are encoded in sequences (of dots and dashes) that vary in length:
-from one dash for "T" to six dots for "6". This property has made Morse code
+from one dash for "T" to six dots for "6". This property had made Morse code
 ill-suited for automated telegraphy. In a long-chain of mediation between
 message, telegraph operator, and machine, the human was a limiting factor.
-Writing in 1929,  Hervey Brackbill laments the demise of a language associated
-with human-driven, Morse code telegraph operation. "Morse telegraphy is
-commonly referred to as a 'game,' and the operator 'works a wire.'" The
-operator tapping on a semi-automatic key "uses a bug." Brackbill writes, "the
-first instruments, with their long slender levers and springs, looked very much
-like a sprawling bug." They have trade names like "Lighting Bug," "Gold Bug,"
-and "Cootie" (for a small model). The hand
+Writing in 1929 for the journal "American Speech,"  Hervey Brackbill laments
+the demise of a language associated with human-driven, Morse code telegraph
+operation. "Morse telegraphy is commonly referred to as a 'game,' and the
+operator 'works a wire.'" The operator tapping on a semi-automatic key "uses a
+bug." Brackbill writes, "the first instruments, with their long slender levers
+and springs, looked very much like a sprawling bug." They have trade names like
+"Lighting Bug," "Gold Bug," and "Cootie" (for a small model). Operators using
+"straight keys," achieved speeds upwords of 25-30 words per minute, limited by 
+[^@halstead_genesis_1949, @u.s._bureau_of_labor_statistics_displacement_1932].
+
+"Partial
+paralysis of wrist and arm," condition known as "glass arm." The sender has
+"put him under the table," when he is transmitting too fast. "He was burnt up."
+To "paste" somone is to transmit at high speeds to deliberatly burn him up or
+put him under the table. "Those who cut up this tape and paste it on blanks so
+as to form a page are called 'pasters' and, sarcastically by the old Morse men,
+'paperhangers' [^@brackbill_telegraphers_1929].
 
 Baudot. Fixed length.
 

@@ -194,8 +194,8 @@ from Andrew W. Mellon Foundation to support Experimental Humanities.
 
 I am writing the book as a traditional volume, expounding a sustained thesis
 across nine chapters. I tend to write concisely--a style that complements the
-subject matter. At this point, I am aiming for a manuscript of around 60-80k
-words, which would allot around 5-7k words per chapter.
+subject matter. At this point, I am aiming for a manuscript of around 80-120k
+words, which would allot around 10k words per chapter.
 
 Although, ostensibly, a work on the history and philosophy of computational
 culture, the book argues for the advancement of theory through practice. In
