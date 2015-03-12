@@ -442,10 +442,11 @@ challenges the easy equivalence between "digital" and "discrete" properties of
 the medium so often evoked in the critical literature. Another mechanism must
 be in play here, since, contrary to accepted intuition, film (the more discrete
 format of representation) is the one that more closely approaches the analog
-(continuous) nature of observed phenomenon. Under closer examination, film,
-usually discussed in the context of analog formats, appears to be in some
-aspects more digital than digital, that is the more fragmentary and discrete
-medium compared to digital video.
+(continuous) nature of observed phenomenon. Film is the analog format in common
+unnderstanding. Under closer examination, film, usually discussed in the
+context of analog formats, appears to be in some aspects more digital than
+digital, that is the more fragmentary and discrete medium compared to digital
+video.
 
 Second, it seems that the very material properties involved in our
 understanding of "digital" and "analog" formats are also implicated in higher
@@ -643,8 +644,8 @@ perceive text (and all information, really) as deep structure, separate readers
 into those for whom text exists as a fixed analog given, and those for whom
 they function as a truly digital medium, capable of amending further texts,
 men, and machines. To paraphrase a post-structuralist insight, the process of
-active interpretation is in itself a type of creation, forever advancing rather
-than apprehending the lateral movement of thought.
+digital interpretation is in itself a type of creativity, forever advancing
+rather than apprehending the lateral movement of thought.
 
 ### 1.1.4 Transmediation
 
@@ -685,104 +686,26 @@ the device as a "Compound Magnetic and Vibrating Printing Instrument
 @hughes_improvement_1856]," in a name that already hints at the fragility of
 the device.
 
-It is tempting to think of the telegraph as a digital [*sic*] device, created
-to convert analog [*sic*] input into electric signal. Much technical literature
-on the subject makes that simplification.[^ln-tele-digi] The mechanics of the
-Hughes telegraph paint a much more complicated complicated picture, one that
-involves multiple shifts and transformations.  On some level, language, already
-a discrete and portable representation of mental states, which in themselves
-stand in a complicated and fragmentary relationship to sensory phenomena,
-undergoes a number of further material phase transitions. In the Hughes
-telegraph this involves what I have been calling "trans-mediation" from
-keyboard input, to mechanical movement of the drum, to magnetic resonance, to
-the vibration of a spring, to electric wire and signal, into the movement of
-the type wheel, and to the machination of the printing apparatus that once
-again produces the alphabet. In changing material contexts, language also
-undergoes multiple changes of encoding. By "encoding," I mean a "controlled
-system of representation." Representation in its unrestrained form (as in
-"pictorial representation") differs from "encoding" in the size of its
-vocabulary. Painting and other forms of uninhibited representational
-conventions, are limitless in their expressive possibility. The "language" of
-painting is limitless, in other words. Encoding, by contrast, reduces the
-universe of possibilities to a limited set of possible "codes," like the
-alphabet. These codes have a more formalized grammar and rules of composition.
-Although the expressive potential of written language is limitless, in some
-combinatorial sense of the word, language and other codes can "break," that is,
-be reduced to non-sense, in a way that painting cannot. The Hughes telegraph
-accepts alpha-numeric characters at first and then translates or trans-codes
-them into a system of signals, expressed in time intervals (between the
-synchronization tone and the activation of the key).
-
-[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device sending only high and low pulses through the wire;"
-@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
-dashes in a manner similar to the ones and zeroes of digital logic;"
-@comer_internet_2006, 32: "The telegraph is a digital device because instead of
-sending a continuous signal that is an exact analog of the input, the telegraph
-clicks to send the individual characters."
-
-It becomes clear from this description that trans-coding and trans-mediation
-relate to each other somehow. On one hand, all changes between encoding systems
-necessitate material phase transition, if not from one *type* of medium into
-another (from paper to magnetic storage, for example), then from one specific
-material *context* into another (as when one merely translates from French into
-English on the same piece of paper). Trans-mediation, on the other hand, may or
-may not involve change in encoding formats, although it frequently does, as
-when language on paper is transformed into the pulsations of the electrical
-signal in Morse code. In reading and playing music, a musician furthermore
-transforms musical notation--a controlled, paper-bound vocabulary--into sound
-representation, the movement of molecules unlimited in its expressive
-potential. The blueprints for the Hughes telegraph reveal a device that mixes
-discrete and continuous modes of representation, through multiple acts of
-trans-coding and trans-mediation. Digitality, in that sense, is besides the
-point. The telegraph is a device that pushes language, normally bound to air
-(as speech) and paper (as a writing system), through water and metal. Even
-today, deep beneath the sea surface, telegraph lines ferry messages from
-continent to continent. And at each end of the telegraph cable is a
-transmediation device that makes media transference possible.
-
-### 1.1.5 Human-readablity
-
-Electricity--the "language" of wires--is not a media format intended for human
-consumption. One could learn to understand telegraph intercourse through
-electricution, by applying the wire directly to the skin. Direct brain-computer
-interfaces promise to do more or less exactly that and are common enough today
-to be turned into a toy.[^ln-mindflex] The early efforts in this space
-implanted electrodes into the brain directly to caputure single-neuron
-activity, or relied on imprecise "noisy" electroencephalographic (EEG) scalp
-activity. In 2004 a team of scientists developed a way of controlling  "a
-one-dimensional computer cursor rapidly and accurately" using
-electrocorticographic (ECoG) activity recorded from the surface of the brain
-[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
-quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
-simulation devolped by the University of Pittsburgh’s Human Engineering
-Research Laboratories in collaboration of Defense Advanced Research Projects
-Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
-in brain-computer interfaces suggest the not-all-too-distant possibility of
-brain-computer-brain communication. However futuristic that possibility may
-sound to us today, it is merely a small evolutionory step in a long history of
-brain to brain communication, currently mediated by a long chain of code and
-media.
-
-[^ln-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
-The Frequently Asked Questions page includes the followingn prompt: "Have you
-ever dreamed of moving an object with the power of your mind? Mindflex Duel™
-makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
-wireless headset reads your brainwave activity. Concentrate...and the ball
-rises on a cushion of air! Relax...and the ball descends. It's literally mind
-over matter!" (@mindflex_mindflex:_2015)
-
-I am purpusefully describing familar acts of communication in 
-
 Morse code, co-developed between a number of American and British inventors in
 the first half of the 19th-century, had the advantage of an encoding scheme
 that did not rely on device synchronization. The 1865 ITU rules require a
 silence equal to three dots (same as one dash) to indicate the space between
 two letters, and a silence equivalent to four dots (later changed to seven) to
 indicate the space between words. Although Morse code can be expressed in terms
-of ones and zeros (binary), it is technically a ternary code making use of at least
-three elements: dots, dashes, and silences of various length. Furthermore, note
-that Mor
+of ones and zeros (binary), it is technically a ternary code making use of at
+least three elements: dots, dashes, and silences of various length.
+Furthermore, note that Morse code is a "variable length" format, where
+characters are encoded in sequences (of dots and dashes) that vary in length:
+from one dash for "T" to six dots for "6". This property has made Morse code
+ill-suited for automated telegraphy. In a long-chain of mediation between
+message, telegraph operator, and machine, the human was a limiting factor.
+Writing in 1929,  Hervey Brackbill laments the demise of a language associated
+with human-driven, Morse code telegraph operation. "Morse telegraphy is
+commonly referred to as a 'game,' and the operator 'works a wire.'" The
+operator tapping on a semi-automatic key "uses a bug." Brackbill writes, "the
+first instruments, with their long slender levers and springs, looked very much
+like a sprawling bug." They have trade names like "Lighting Bug," "Gold Bug,"
+and "Cootie" (for a small model). The hand
 
 Baudot. Fixed length.
 
@@ -817,13 +740,101 @@ current [@ITU1932, 36]."
 By the 1960, multiple competing character encodings existed in the United
 States and globally. 
 
-The very notion of discrete and analog differs on the capabilities of the
-perciever. Natural rhythm. Uxcull tick and Hayles.
-
 ASCII.
 
-![Decoder for Reflected Binary Codes(US Patent 2538615)](images/binary.png
-"@carbrey1951")
+### 1.1.5 The Bug
+
+It is tempting to think of the telegraph as a digital [*sic*] device, created
+to convert analog [*sic*] input into electric signal. Much technical literature
+on the subject makes that simplification.[^ln-tele-digi] The mechanics of the
+Hughes telegraph paint a much more complicated complicated picture, one that
+involves multiple shifts and transformations.  On some level, language, already
+a discrete and portable representation of mental states, which in themselves
+stand in a complicated and fragmentary relationship to sensory phenomena,
+undergoes a number of further material phase transitions. In the Hughes
+telegraph this involves what I have been calling "trans-mediation" from
+keyboard input, to mechanical movement of the drum, to magnetic resonance, to
+the vibration of a spring, to electric wire and signal, into the movement of
+the type wheel, and to the machination of the printing apparatus that once
+again produces the alphabet. In changing material contexts, language also
+undergoes multiple changes of encoding. By "encoding," I mean a "controlled
+system of representation." Representation in its unrestrained form (as in
+"pictorial representation") differs from "encoding" in the size of its
+vocabulary. Painting and other forms of uninhibited representational
+conventions, are limitless in their expressive possibility. The "language" of
+painting is limitless, in other words. Encoding, by contrast, reduces the
+universe of possibilities to a limited set of possible "codes," like the
+alphabet. These codes have a more formalized grammar and rules of composition.
+Although the expressive potential of written language is limitless, in some
+combinatorial sense of the word, language and other codes can "break," that is,
+be reduced to nonsense, in a way that painting cannot. The Hughes telegraph
+accepts alpha-numeric characters at first and then translates or trans-codes
+them into a system of signals, expressed in time intervals (between the
+synchronization tone and the activation of the key).
+
+[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
+digital device sending only high and low pulses through the wire;"
+@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
+dashes in a manner similar to the ones and zeroes of digital logic;"
+@comer_internet_2006, 32: "The telegraph is a digital device because instead of
+sending a continuous signal that is an exact analog of the input, the telegraph
+clicks to send the individual characters."
+
+It becomes clear from the description of early telegraph encoding systems that
+trans-coding and trans-mediation relate to each other somehow. On one hand, all
+changes between encoding systems necessitate material phase transition, if not
+from one *type* of medium into another (from paper to magnetic storage, for
+example), then from one specific material *context* into another (as when one
+merely translates from French into English on the same piece of paper).
+Trans-mediation, on the other hand, may or may not involve change in encoding
+formats, although it frequently does, as when language on paper is transformed
+into the pulsations of the electrical signal in Morse code. In reading and
+playing music, a musician furthermore transforms musical notation--a
+controlled, paper-bound vocabulary--into sound representation, the movement of
+molecules unlimited in its expressive potential. The blueprints for the Hughes
+telegraph reveal a device that mixes discrete and continuous modes of
+representation, through multiple acts of trans-coding and trans-mediation.
+Digitality, in that sense, is besides the point. The telegraph is a device that
+pushes language, normally bound to air (as speech) and paper (as a writing
+system), through water and metal. Even today, deep beneath the sea surface,
+telegraph lines ferry messages from continent to continent. And at each end of
+the telegraph cable is a transmediation device that makes media transference
+possible. I use the word "media" here in the bluntest way possible, as
+"material basis" or "substratum" for some observed, higher-order phenomenon (in
+our case, communication).
+
+Electricity--the "language" of wires--is not a media format intended for human
+consumption. One could learn to understand telegraph intercourse through
+electrocution, by applying the wire directly to the skin. Direct brain-computer
+interfaces promise to do more or less exactly that and are common enough today
+to be turned into a toy.[^ln-mindflex] The early efforts in this space
+implanted electrodes into the brain directly to capture single-neuron activity,
+or relied on imprecise "noisy" electroencephalographic (EEG) scalp activity. In
+2004 a team of scientists developed a way of controlling  "a one-dimensional
+computer cursor rapidly and accurately" using electrocorticographic (ECoG)
+activity recorded from the surface of the brain
+[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
+quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
+simulation developed by the University of Pittsburgh’s Human Engineering
+Research Laboratories in collaboration of Defense Advanced Research Projects
+Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
+in brain-computer interfaces suggest also the not-all-too-distant possibility
+of computer-brain interfaces, completing the loop between human and machine.
+This may also imply the possibility of communicating brain-states directly,
+without the mediation of text or sound. However futuristic that possibility may
+seem to us today, it is merely a small evolutionary step in a long history of
+brain-to-brain interfaces, already mediated by paper, ink, code, and silicon.
+
+[^ln-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
+The Frequently Asked Questions page includes the following prompt: "Have you
+ever dreamed of moving an object with the power of your mind? Mindflex Duel™
+makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
+wireless headset reads your brainwave activity. Concentrate...and the ball
+rises on a cushion of air! Relax...and the ball descends. It's literally mind
+over matter!" (@mindflex_mindflex:_2015)
+
+The very notion of discrete and analog differs on the capabilities of the
+perciever. Natural rhythm. Uxcull tick and Hayles. End with the tick. Hayles. Notion of the human in the digital.
 
 ## Chapter 1.2: Literature Down to the Pixel
 `literature, content, control`
@@ -3694,6 +3705,7 @@ for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
 developed of these. Engineering for dissent. The ability to create shared goals
 and to exit. engagement with shared project. The subject of my next book. 
 
+Man in the middle attacks.
 Brooks Act 1965.
 
 Metaphysical Dread about Computation Brian Lennon and Golumbia. The argument
