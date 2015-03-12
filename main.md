@@ -6,6 +6,13 @@ author: "Dennis Tenen"
 
 # Introduction
 
+Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
+American Philosophical Society*, Frank Halstead notes that "it is hard to say
+to what particular field of the arts or sciences that signal code development
+pertains." "It is a matter somewhat related to the general art of cryptology,
+yet it is not wholly divorced from electrical engineering nor from general
+philology [^@halstead_genesis_1949, 456]."
+
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln11-char] Let these words soak in for a moment. I will spend the rest
 of the book unpacking this idea. We will have to come to terms with what "plain
@@ -699,23 +706,50 @@ characters are encoded in sequences (of dots and dashes) that vary in length:
 from one dash for "T" to six dots for "6". This property had made Morse code
 ill-suited for automated telegraphy. In a long-chain of mediation between
 message, telegraph operator, and machine, the human was a limiting factor.
-Writing in 1929 for the journal "American Speech,"  Hervey Brackbill laments
-the demise of a language associated with human-driven, Morse code telegraph
+
+Writing in 1929 for the journal "American Speech," Hervey Brackbill laments the
+demise of a language associated with human-driven, Morse code telegraph
 operation. "Morse telegraphy is commonly referred to as a 'game,' and the
 operator 'works a wire.'" The operator tapping on a semi-automatic key "uses a
 bug." Brackbill writes, "the first instruments, with their long slender levers
 and springs, looked very much like a sprawling bug." They have trade names like
-"Lighting Bug," "Gold Bug," and "Cootie" (for a small model). Operators using
-"straight keys," achieved speeds upwords of 25-30 words per minute, limited by 
-[^@halstead_genesis_1949, @u.s._bureau_of_labor_statistics_displacement_1932].
+"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
+[^@brackbill_telegraphers_1929, 287-288]. Operators using "straight keys,"
+achieved speeds upwards of 25-30 words per minute, limited by the shortest
+possible length of the smallest transmitted unit (a dot), fixed by the American
+and the International Morse Code conventions to 1/24 of a second in duration.
+The physical limits of the code suggest a theoretical upper limit for
+transmission speed around 49 words per minute--a rate further limited by the
+operator's manual dexterity [^@halstead_genesis_1949;
+@u.s._bureau_of_labor_statistics_displacement_1932; @mcnicol_american_1913, 207].
+Telegraph operators working a "hand sender" commonly developed "partial
+paralysis" of wrist or arm, commonly known as a "glass arm"
+[^@brackbill_telegraphers_1929;
+@u.s._bureau_of_labor_statistics_displacement_1932]. In his 1949 paper on "The
+Genesis and Speed of Telegraph Codes," Frank Halstead notes that "the practical
+upper limits of speed will also be limited by the ability of some human being
+to operate a keyboard, until such time as electrical connection be made direct
+with the receiver's central nervous system [^@halstead_genesis_1949, 451]."
 
-"Partial
-paralysis of wrist and arm," condition known as "glass arm." The sender has
-"put him under the table," when he is transmitting too fast. "He was burnt up."
-To "paste" somone is to transmit at high speeds to deliberatly burn him up or
-put him under the table. "Those who cut up this tape and paste it on blanks so
-as to form a page are called 'pasters' and, sarcastically by the old Morse men,
-'paperhangers' [^@brackbill_telegraphers_1929].
+An sender is a "ham" or a "bum" when he "falls down" or makes errors in
+sending. To "put someone under the table" in sender's lingo is to transmit
+faster that the receiver can transcribe. The "reader" is "burnt up" when he
+falls behind. He has to "break," or interrupt the sender to ask for repetition.
+To "paste" someone meant to transmit at high speeds to deliberately burn him up
+or put him under the table [^@brackbill_telegraphers_1929]. Around the turn of
+the 20th century, companies like Western Electric, Mecograph, and Vibroplex
+began manufacturing semi-automatic keys, which made use of a horizontal switch
+capable of emitting a rapid succession of dots to one side of the action, and
+dashes to the other [@martin_telegraphic_1904; @boyd_telegraph-key_1916]. A bug
+was said to "run away," when adjusted for too high of a speed. The Vibroplex
+keys would significantly alter the "fist," or the transmission style of the
+operator, allowing for speeds that approached 50 words per minute (and above,
+if not following the minimum signal length specifications)
+[^@halstead_genesis_1949; @mcnicol_american_1913, 209].
+
+"Those who cut up this tape and paste it on blanks so as to form a page are
+called 'pasters' and, sarcastically by the old Morse men, 'paperhangers'
+[^@brackbill_telegraphers_1929].
 
 Baudot. Fixed length.
 
