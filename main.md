@@ -721,8 +721,8 @@ and the International Morse Code conventions to 1/24 of a second in duration.
 The physical limits of the code suggest a theoretical upper limit for
 transmission speed around 49 words per minute--a rate further limited by the
 operator's manual dexterity [^@halstead_genesis_1949;
-@u.s._bureau_of_labor_statistics_displacement_1932; @mcnicol_american_1913, 207].
-Telegraph operators working a "hand sender" commonly developed "partial
+@u.s._bureau_of_labor_statistics_displacement_1932; @mcnicol_american_1913,
+207]. Telegraph operators working a "hand sender" commonly developed "partial
 paralysis" of wrist or arm, commonly known as a "glass arm"
 [^@brackbill_telegraphers_1929;
 @u.s._bureau_of_labor_statistics_displacement_1932]. In his 1949 paper on "The
@@ -747,11 +747,22 @@ operator, allowing for speeds that approached 50 words per minute (and above,
 if not following the minimum signal length specifications)
 [^@halstead_genesis_1949; @mcnicol_american_1913, 209].
 
-"Those who cut up this tape and paste it on blanks so as to form a page are
-called 'pasters' and, sarcastically by the old Morse men, 'paperhangers'
-[^@brackbill_telegraphers_1929].
+By the 1930s, devices variously known as "printer telegraphs,"
+"teletypewriters," and "teletypes" displaced Morse code telegraphy as the
+dominant mode of commercial communication. The monthly "Labor Review" report
+published by the U.S. Bureau of Labor Statistics in March of 1932 estimates
+more than a 50% drop in the number of Morse code operators between the years of
+1915 and 1931. Morse operators referred to the tele-typists on the sending side
+as "punchers" and on the recieving side as "printer men." The printer men
+responsible for assembling pages from ticker tape were called "pasters" and
+sometimes, derisevely, as "paperhangers [^@brackbill_telegraphers_1929]."
+Where, in the Morse code machine a human-operator was responsible for
+translating language into code, teletype automated the process completely. The
+human operator could simply enter printed characters into the machine directly,
+using a keyboard. The teletype would then trans-code the input into transmitted
+signal and then back from the signal onto paper on the recieving end.
 
-Baudot. Fixed length.
+The automation of the telegraph necessicated new encoding formats,
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
