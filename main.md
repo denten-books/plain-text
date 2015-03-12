@@ -753,16 +753,29 @@ dominant mode of commercial communication. The monthly "Labor Review" report
 published by the U.S. Bureau of Labor Statistics in March of 1932 estimates
 more than a 50% drop in the number of Morse code operators between the years of
 1915 and 1931. Morse operators referred to the tele-typists on the sending side
-as "punchers" and on the recieving side as "printer men." The printer men
-responsible for assembling pages from ticker tape were called "pasters" and
-sometimes, derisevely, as "paperhangers [^@brackbill_telegraphers_1929]."
-Where, in the Morse code machine a human-operator was responsible for
-translating language into code, teletype automated the process completely. The
-human operator could simply enter printed characters into the machine directly,
-using a keyboard. The teletype would then trans-code the input into transmitted
-signal and then back from the signal onto paper on the recieving end.
+as "punchers" and on the receiving side as "printer men."[^ln-printermen] The
+printer men responsible for assembling pages from ticker tape were called
+"pasters" and sometimes, derisively, as "paperhangers
+[^@brackbill_telegraphers_1929]." Where, in the Morse code machine a
+human-operator was responsible for translating language into code, teletype
+automated the process completely. The human operator could simply enter printed
+characters into the machine directly, using a keyboard. The teletype would then
+trans-code the input into transmitted signal and then back from the signal onto
+paper on the receiving end.
 
-The automation of the telegraph necessicated new encoding formats,
+[^ln-printermen]: According to the U.S. Department of Labor statistics, women
+comprised 24% of Morse operators in 1915 (before the wide-spread advent of
+automated telegraphy). By 1931 women comprised 64% of printer and Morse manual
+operators [^@u.s._bureau_of_labor_statistics_displacement_1932, 514].
+
+The automation of the telegraph necessitated new encoding formats, chief among
+them the Baudot code, standardized in 1908 by the ITU. The significant
+difference between Hughes and Morse encodings on the one hand and Baudot on the
+other remains the fact that Baudot constitutes a fixed-length code. The
+invention of fixed-length ciphers lies in the sixth book of Francis Bacon's
+*Advancement of Learning," an encyclopedic treatise on the "partition of
+sciences" written in the form of a letter to King James in 1605. Bacon
+dedicates book Six to 
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
