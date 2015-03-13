@@ -773,9 +773,40 @@ them the Baudot code, standardized in 1908 by the ITU. The significant
 difference between Hughes and Morse encodings on the one hand and Baudot on the
 other remains the fact that Baudot constitutes a fixed-length code. The
 invention of fixed-length ciphers lies in the sixth book of Francis Bacon's
-*Advancement of Learning," an encyclopedic treatise on the "partition of
-sciences" written in the form of a letter to King James in 1605. Bacon
-dedicates book Six to 
+"*De augmentis scientiarum*" (Division of the Sciences),[^ln-bacon] an
+encyclopedic treatise on the "partition of sciences" written in the form of a
+letter to King James in 1623.  Book Six of Bacon's systematic account of the
+sciences is dedicated to speech, speaking, writing, grammar (literary and
+philosophical), poetry (meter and verse), and, most relevant to our discussion,
+"the knowledge of ciphers." Here Bacon boasts of inventing a "highest degree of
+cipher," that can signify "all in all" (*omnia per omnia*). Bacon proceeds to
+describe a "fivefold," "bi-literarie" alphabet, which encodes each letter of
+the English language using a string of As and Bs five-letters long. The letter
+A for example becomes "aaaaa." B becomes "aaaab," C "aaaba," and so on to Z,
+represented as "babbb." "Neither is this a small matter," writes Bacon:
+
+> These Cypher-Characters have, and may performe: For by this *Art* a way is
+opened, whereby a man may expresse and sigifie the intentions of his minde, at
+any distance of place, by objects which may be presented to the eye, an
+accommodated to the eare: provided those objects be capable of a twofold
+difference onely; as by Bells, by Trumpets, by Lights and Torches, by the
+report of Muskets, an any instruments of like nature [^@bacon_advancement_1987,
+266].
+
+Although the discovery of binary arithmetic rightly belongs to Gottfried
+Leibniz, who, influenced by the *I Ching* hexagrams, articulated his own system
+in his *Explication de l'Arithmétique Binaire* (written in 1679 and published in
+1703),[^@leibnitz_explication_1703] Bacon should take the credit for
+articulating a system for fixed-length binary encoding. The fixed. Baudot.
+
+[^ln-bacon]: This volume is also commonly translated as "Of the Dignity and
+Advancement of Learning," following the Spedding edition. The first two books
+of *The Advancement* appeared first in 1605. Together with books 6-9 published
+in Latin in 1623 they are sometimes referred to as "Of the Advancement and
+Proficience of Learning or the Partitions of Sciences," following the Oxford
+1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
+Oxford Collected Works, containing *The Advancement*, is not out at the time of
+my writing this chapter (2015).
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
