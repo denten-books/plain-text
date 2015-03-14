@@ -654,7 +654,7 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 digital interpretation is in itself a type of creativity, forever advancing
 rather than apprehending the lateral movement of thought.
 
-### 1.1.4 Trans- coding and mediation
+### 1.1.4 Trans -coding and -mediation
 
 The turn of the 20th century represents a pivotal moment in the development of
 universal Turing machines. The advent of removable storage media--control cards
@@ -815,8 +815,22 @@ switch the receiving device into the figure or capital letter states (for the
 total of 10 units) [^@murray_setting_1905; @beauchamp_history_2001 380-397].
 
 As the volume of transmissions increased, humans were simply not fast enough to
-keep up with the demand of encoding and decoding message into and from Morse
-code. 
+keep up with the demand of encoding and decoding messages into and from Morse
+code. The rise of printing telegraphs answered the demand of increased
+information exchange. The great variety of printing telegraphs designs at the
+turn of the 20th century all attempted to solve the problem of automating the
+incoding and decoding mechanisms of transmission, with the goal of speeding up
+and increasing the volume of possible communication.[^ln-cables] Murray writes:
+"It is the object of machine telegraphy not only to increase the saving of
+telegraph wire [...] but also to reduce the labor cost of translation and
+writing by the use of suitable machines [^@murray_setting_1905, 557]." Baudot's
+and Murray codes were not only shorter, they were simpler and less error-prone
+resulting to simpler, more durable devices. Murray thought about the wear and
+tear on the telegraph machine explicitly, minimizing the number of punches
+needed to express the alphabet.
+
+High speed telegraph commitee. p.390 of @beauchamp_history_2001. Last word
+should be speed.
 
 [^ln-bacon]: This volume is also commonly translated as "Of the Dignity and
 Advancement of Learning," following the Spedding edition. The first two books
@@ -834,13 +848,20 @@ fewer perforations to common English letters (@murray_setting_1905, 567).
 [^ln-zero]: 28 measures to indicate the numerical "figure space" and 26 to
 indicate double quotes (which shared the encoding length with the letter "z").
 
-
 [^ln13-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
 current [@ITU1932, 36]."
+
+[^ln-kittler]: This along with the ominous "laying of cables" that concludes
+Friedrich Kittler's *Gramaphone, Film, Typewriter*.
+
 ### 1.1.5 Synchronicity
 
-Baudot also realized, that synchronicity.
+Baudot's insight, that synchronicity. Wire not being in use. Multiplexing. 
+
+Cadence tapper.
+
+Mourray metaphisics. Space and time.
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
@@ -865,7 +886,6 @@ character can vary in length. For this reason ITA-2 includes two extra bits for
 indicating "start" and stop" elements. The letter "A" and a hyphen in ITA-2
 would be encoded as `0110001`, where ones and zeros represent the absence and
 the presence of current[@ITU1932, 36].[^ln13-current]
-
 
 It is tempting to think of the telegraph as a digital [*sic*] device, created
 to convert analog [*sic*] input into electric signal. Much technical literature
@@ -894,14 +914,6 @@ be reduced to nonsense, in a way that painting cannot. The Hughes telegraph
 accepts alpha-numeric characters at first and then translates or trans-codes
 them into a system of signals, expressed in time intervals (between the
 synchronization tone and the activation of the key).
-
-[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device sending only high and low pulses through the wire;"
-@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
-dashes in a manner similar to the ones and zeroes of digital logic;"
-@comer_internet_2006, 32: "The telegraph is a digital device because instead of
-sending a continuous signal that is an exact analog of the input, the telegraph
-clicks to send the individual characters."
 
 It becomes clear from the description of early telegraph encoding systems that
 trans-coding and trans-mediation relate to each other somehow. On one hand, all
@@ -948,6 +960,23 @@ without the mediation of text or sound. However futuristic that possibility may
 seem to us today, it is merely a small evolutionary step in a long history of
 brain-to-brain interfaces, already mediated by paper, ink, code, and silicon.
 
+Uexcull. The insect. The very notion of discrete and analog differs on the
+capabilities of the perciever. Natural rhythm. Uxcull tick and Hayles. End with
+the tick. Hayles.  Notion of the human in the digital.
+
+The digital as something more discrete than human experience. The popular
+imagination of liquid digital. The desceteness approaches the continuous, at
+granular level, out of syncronization with the natural sense of biologically
+human cadence.
+
+[^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
+digital device sending only high and low pulses through the wire;"
+@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
+dashes in a manner similar to the ones and zeroes of digital logic;"
+@comer_internet_2006, 32: "The telegraph is a digital device because instead of
+sending a continuous signal that is an exact analog of the input, the telegraph
+clicks to send the individual characters."
+
 [^ln-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
 The Frequently Asked Questions page includes the following prompt: "Have you
 ever dreamed of moving an object with the power of your mind? Mindflex Duel™
@@ -955,9 +984,6 @@ makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
 wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
-
-The very notion of discrete and analog differs on the capabilities of the
-perciever. Natural rhythm. Uxcull tick and Hayles. End with the tick. Hayles. Notion of the human in the digital.
 
 ## Chapter 1.2: Literature Down to the Pixel
 `literature, content, control`
@@ -1560,6 +1586,11 @@ attachment for type-writing machines" (US517735, filed in 1893 and issued in
 "Computing Attachment for Typewriters" (US1162730, 1908-1915), "Computing
 Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and Adding
 Machine" (US1244398, 1910-1917) among others.
+
+"If we disregard the small class of telegrams that merely express emotions, the
+essence of telegraphy is control [...] Telegraph systems, therefore, belong not
+to the class of producing or distributing, but to the class of controlling
+mechanisms [^@murray_setting_1905, 556]."
 
 By the end of the 19th century a number of lesser mechanisms anticipate the
 functional elements of Turing's device. By 1930s, these inventions not only
