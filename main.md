@@ -654,7 +654,7 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 digital interpretation is in itself a type of creativity, forever advancing
 rather than apprehending the lateral movement of thought.
 
-### 1.1.4 Transmediation
+### 1.1.4 Trans- coding and mediation
 
 The turn of the 20th century represents a pivotal moment in the development of
 universal Turing machines. The advent of removable storage media--control cards
@@ -786,7 +786,7 @@ A for example becomes "aaaaa." B becomes "aaaab," C "aaaba," and so on to Z,
 represented as "babbb." "Neither is this a small matter," writes Bacon:
 
 > These Cypher-Characters have, and may performe: For by this *Art* a way is
-opened, whereby a man may expresse and sigifie the intentions of his minde, at
+opened, whereby a man may expresse and signifie the intentions of his minde, at
 any distance of place, by objects which may be presented to the eye, an
 accommodated to the eare: provided those objects be capable of a twofold
 difference onely; as by Bells, by Trumpets, by Lights and Torches, by the
@@ -795,9 +795,28 @@ report of Muskets, an any instruments of like nature [^@bacon_advancement_1987,
 
 Although the discovery of binary arithmetic rightly belongs to Gottfried
 Leibniz, who, influenced by the *I Ching* hexagrams, articulated his own system
-in his *Explication de l'Arithmétique Binaire* (written in 1679 and published in
-1703),[^@leibnitz_explication_1703] Bacon should take the credit for
-articulating a system for fixed-length binary encoding. The fixed. Baudot.
+in his *Explication de l'Arithmétique Binaire* (written in 1679 and published
+in 1703),[^@leibnitz_explication_1703] Bacon should take the credit for
+articulating a system for fixed-length binary encoding. His "two-fold
+difference" did have the effect of enabling humans to "express and signify"
+thoughts at "any distance and place." The fixed length-property of Bacon's
+cipher, later implemented in the five-bit Baudot code, signaled the beginning
+of the modern era of serial communications [^@jennings_annotated_2004]. Baudot
+and the related Murray alphabets[^ln-murray] were designed specifically with
+automation in mind. Both being a fixed-length alphabet, the Baudot did away
+with the "unison" signal that separated letters in Morse, since the signals
+could be divided into letters by count (every five codes representing a single
+character). Additionally, the Murray code was by far more compact than Morse
+and especially more economical than Hughes, which used up to 54 measures of
+silence to send a signal representing double quotes.[^ln-zero] The signal for
+"zero" in Morse code took up 22 measures. By contrast, all Baudot and Murray
+characters were a mere 5 units in length, with the maximum of ten used to
+switch the receiving device into the figure or capital letter states (for the
+total of 10 units) [^@murray_setting_1905; @beauchamp_history_2001 380-397].
+
+As the volume of transmissions increased, humans were simply not fast enough to
+keep up with the demand of encoding and decoding message into and from Morse
+code. 
 
 [^ln-bacon]: This volume is also commonly translated as "Of the Dignity and
 Advancement of Learning," following the Spedding edition. The first two books
@@ -807,6 +826,21 @@ Proficience of Learning or the Partitions of Sciences," following the Oxford
 1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
 Oxford Collected Works, containing *The Advancement*, is not out at the time of
 my writing this chapter (2015).
+
+[^ln-murray]: The Australian Donald Murray improved on the Baudot system to
+minimize the amount of "designed to punch as few holes as possible," allotting
+fewer perforations to common English letters (@murray_setting_1905, 567).
+
+[^ln-zero]: 28 measures to indicate the numerical "figure space" and 26 to
+indicate double quotes (which shared the encoding length with the letter "z").
+
+
+[^ln13-current]: ITA-2 could also be adopted to work with "double current"
+devices, in which case 0 would represent "negative current" and 1 "positive
+current [@ITU1932, 36]."
+### 1.1.5 Synchronicity
+
+Baudot also realized, that synchronicity.
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
@@ -832,16 +866,6 @@ indicating "start" and stop" elements. The letter "A" and a hyphen in ITA-2
 would be encoded as `0110001`, where ones and zeros represent the absence and
 the presence of current[@ITU1932, 36].[^ln13-current]
 
-[^ln13-current]: ITA-2 could also be adopted to work with "double current"
-devices, in which case 0 would represent "negative current" and 1 "positive
-current [@ITU1932, 36]."
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally. 
-
-ASCII.
-
-### 1.1.5 The Bug
 
 It is tempting to think of the telegraph as a digital [*sic*] device, created
 to convert analog [*sic*] input into electric signal. Much technical literature
@@ -2375,6 +2399,11 @@ hand: / In that case, indeed, would / The talkers of vanities / Have doubted
 
 
 ### 1.3.5 WYSINAWYG (What You See Is Not Always What You Get)
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally. 
+
+ASCII.
 
 "You must acknowledge that this is readable without special training," reads the
 schematic illustration to a Goldberg's 1911 patent for a "controller." "My
