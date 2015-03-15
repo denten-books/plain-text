@@ -819,18 +819,36 @@ keep up with the demand of encoding and decoding messages into and from Morse
 code. The rise of printing telegraphs answered the demand of increased
 information exchange. The great variety of printing telegraphs designs at the
 turn of the 20th century all attempted to solve the problem of automating the
-incoding and decoding mechanisms of transmission, with the goal of speeding up
+encoding and decoding mechanisms of transmission, with the goal of speeding up
 and increasing the volume of possible communication.[^ln-cables] Murray writes:
 "It is the object of machine telegraphy not only to increase the saving of
 telegraph wire [...] but also to reduce the labor cost of translation and
 writing by the use of suitable machines [^@murray_setting_1905, 557]." Baudot's
 and Murray codes were not only shorter, they were simpler and less error-prone
-resulting to simpler, more durable devices. Murray thought about the wear and
-tear on the telegraph machine explicitly, minimizing the number of punches
-needed to express the alphabet.
+resulting less complicated and more durable devices. By the end of the 19th
+a number of devices were in use internationally, making it possible to decouple
+the real-time encoding of text into code from the operation of the machine. A
+tape containing the message could be prepared in advance, fed into the
+telegraph, and printed in human-legible form on he receiving end.
 
-High speed telegraph commitee. p.390 of @beauchamp_history_2001. Last word
-should be speed.
+As information was compressed and pushed through the wires, it would undergo a
+number of transformations. Donald Murray, the inventor of the Murray alphabet,
+conceived of that transformation in terms of movement from space to time.
+Unfolding something like the "metaphysics of telegraph signalling alphabets"
+(his words), he describes spatial writing symbols that "appeal to the eye," and
+temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
+signals (like a signboard) occupy little space, but persist in time. "For
+instance, a signboard may extend over 10 feet and 100 years," Murray writes.
+Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
+over half a second and 500 miles." The function of the telegraph, in that
+sense, is to convert spatial language into temporal and back.
+
+"Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
+best way might be for Smith to send to transmit sine waves [...] but in
+practice Smith always wants to make Jones perform an excessively complicated
+and irregular series of motions, and for this purpose it is essential to
+transmit similar motions by introducing upper harmonics in a fragmentary,
+non-periodic, and very irregular way [^@murray_setting_1905, 559]."
 
 [^ln-bacon]: This volume is also commonly translated as "Of the Dignity and
 Advancement of Learning," following the Spedding edition. The first two books
@@ -857,8 +875,7 @@ Friedrich Kittler's *Gramaphone, Film, Typewriter*.
 
 ### 1.1.5 Synchronicity
 
-Baudot's insight, that synchronicity. Wire not being in use. Multiplexing. 
-
+Multiplexing by band. Multiplexing by time.
 Cadence tapper.
 
 Mourray metaphisics. Space and time.
