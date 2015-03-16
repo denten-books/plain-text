@@ -492,7 +492,7 @@ promoting the "digital humanities" in name only. To perceive what is at stake,
 we must do much more to disambiguate the cognates of the digital: electronic,
 binary, and computational.
 
-### 1.1.3 Discrete and Continuous
+### 1.1.3 Continuity and Mediation
 
 Let us start with digital representation expressed more formally, in computer
 science and in the analytic tradition of aesthetic philosophy and philosophy of
@@ -654,7 +654,7 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 digital interpretation is in itself a type of creativity, forever advancing
 rather than apprehending the lateral movement of thought.
 
-### 1.1.4 Trans -coding and -mediation
+### 1.1.4 Encoding
 
 The turn of the 20th century represents a pivotal moment in the development of
 universal Turing machines. The advent of removable storage media--control cards
@@ -814,34 +814,24 @@ characters were a mere 5 units in length, with the maximum of ten used to
 switch the receiving device into the figure or capital letter states (for the
 total of 10 units) [^@murray_setting_1905; @beauchamp_history_2001 380-397].
 
-As the volume of transmissions increased, humans were simply not fast enough to
-keep up with the demand of encoding and decoding messages into and from Morse
-code. The rise of printing telegraphs answered the demand of increased
-information exchange. The great variety of printing telegraphs designs at the
-turn of the 20th century all attempted to solve the problem of automating the
-encoding and decoding mechanisms of transmission, with the goal of speeding up
-and increasing the volume of possible communication.[^ln-cables] Murray writes:
-"It is the object of machine telegraphy not only to increase the saving of
-telegraph wire [...] but also to reduce the labor cost of translation and
-writing by the use of suitable machines [^@murray_setting_1905, 557]." Baudot's
-and Murray codes were not only shorter, they were simpler and less error-prone
-resulting less complicated and more durable devices. By the end of the 19th
-a number of devices were in use internationally, making it possible to decouple
-the real-time encoding of text into code from the operation of the machine. A
-tape containing the message could be prepared in advance, fed into the
-telegraph, and printed in human-legible form on he receiving end.
+As the volume of transmissions increased, human operators were simply not fast
+enough to keep up with the demand of encoding and decoding messages into and
+from Morse code. The rise of printing telegraphs answered the demand of
+increased information exchange. The great variety of printing telegraphs
+designs at the turn of the 20th century all attempted to solve the problem of
+automating the encoding and decoding mechanisms of transmission, with the goal
+of speeding up and increasing the volume of possible communication.[^ln-cables]
+Murray writes: "It is the object of machine telegraphy not only to increase the
+saving of telegraph wire [...] but also to reduce the labor cost of translation
+and writing by the use of suitable machines [^@murray_setting_1905, 557]."
+Baudot's and Murray codes were not only shorter, they were simpler and less
+error-prone resulting less complicated and more durable devices. By the end of
+the 19th a number of devices were in use internationally, making it possible to
+decouple the real-time encoding of text into code from the operation of the
+machine. A tape containing the message could be prepared in advance, fed into
+the telegraph, and printed in human-legible form on the receiving end.
 
-As information was compressed and pushed through the wires, it would undergo a
-number of transformations. Donald Murray, the inventor of the Murray alphabet,
-conceived of that transformation in terms of movement from space to time.
-Unfolding something like the "metaphysics of telegraph signalling alphabets"
-(his words), he describes spatial writing symbols that "appeal to the eye," and
-temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
-signals (like a signboard) occupy little space, but persist in time. "For
-instance, a signboard may extend over 10 feet and 100 years," Murray writes.
-Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
-over half a second and 500 miles." The function of the telegraph, in that
-sense, is to convert spatial language into temporal and back.
+![](images/cyphon.jpg Cyphon Recorder Alphabet, 1887. @vansize_new_1901, 23.")
 
 "Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
 best way might be for Smith to send to transmit sine waves [...] but in
@@ -873,12 +863,22 @@ current [@ITU1932, 36]."
 [^ln-kittler]: This along with the ominous "laying of cables" that concludes
 Friedrich Kittler's *Gramaphone, Film, Typewriter*.
 
-### 1.1.5 Synchronicity
+### 1.1.5 Compression of Time and Space
+
+As information was compressed and pushed through the wires, it would undergo a
+number of transformations. Donald Murray, the inventor of the Murray alphabet,
+conceived of that transformation in terms of movement from space to time.
+Unfolding something like the "metaphysics of telegraph signalling alphabets"
+(his words), he describes spatial writing symbols that "appeal to the eye," and
+temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
+signals (like a signboard) occupy little space, but persist in time. "For
+instance, a signboard may extend over 10 feet and 100 years," Murray writes.
+Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
+over half a second and 500 miles." The function of the telegraph, in that
+sense, is to convert spatial language into temporal and back.
 
 Multiplexing by band. Multiplexing by time.
 Cadence tapper.
-
-Mourray metaphisics. Space and time.
 
 By 1932 the ITU documents list two new standards, International Telegraphic
 Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
@@ -992,7 +992,7 @@ digital device sending only high and low pulses through the wire;"
 dashes in a manner similar to the ones and zeroes of digital logic;"
 @comer_internet_2006, 32: "The telegraph is a digital device because instead of
 sending a continuous signal that is an exact analog of the input, the telegraph
-clicks to send the individual characters."
+clicks to send the individual characters." 
 
 [^ln-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
 The Frequently Asked Questions page includes the following prompt: "Have you
@@ -3920,6 +3920,10 @@ Encounters Vectors. SCP.
 
 # Odds and Ends
 
+## Infinity
+See also @siegert_cacography_2011: "The step leading to from an analog, infinite set of signals to a finite and
+limitable set of selectible signals." Also Max Bense, Information Aesthetics.
+
 ## Text
 
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
@@ -4044,3 +4048,4 @@ Actor-networks. We are pushing ourselves through the wires. Hardware in
 control. 
 
 rg Wilhelm Friedrich Hegel 
+
