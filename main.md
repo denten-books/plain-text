@@ -654,7 +654,159 @@ men, and machines. To paraphrase a post-structuralist insight, the process of
 digital interpretation is in itself a type of creativity, forever advancing
 rather than apprehending the lateral movement of thought.
 
-### 1.1.4 Compression of Time and Space
+### 1.1.4 Human and Digital
+
+Electrical engineers involved in the development of the telegraph at the turn
+of the 20th century fell into two warring camps, in a conflict located
+precisely at the fault lines of discrete and continuous representation.
+
+Systems based on the "neutral direct current" design[^ln-ndc] assumed current
+flow for some elements of the encoding (like dashes) and absence of current
+flow for others (like dots) [@welk_neutral_2000]. For this reason, it could be
+said that although the Morse code-family of alphabets amount to a a ternary
+encoding system (using dots, dashes, and silences), under NDC conditions they
+function as second-order binary encodings. Systems based on the
+alternating-current design converted Morse code (and other encoding systems)
+into pulses of alternating positive and negative current, where positive
+current could stand for "dashes" and negative for "dots." Where the alternating
+current designs preferred the use of non-sinusoidal, "square" periodic
+waveforms to represent binary states, literature on alternating current design
+often argued for the use of a sinusoidal signal, which could be modulated into
+a multitude of states beyond binary [@hausmann_telegraph_1915, 374;
+@crehore_practical_1900]. Consequently, alternating current designs tended
+towards the transmission of continuous quantities like images and cursive
+hand-writing. Unlike "step-by-step" devices of the neutral-direct type, the
+alternating-current designs could create a measure of visual analogy between
+transmitted text and signal shape. The Pollak-Virag telegraph Bernhard Siegert
+mentions in his seminal essay on cultural techniques, was one such device. The
+wave length it produced was meant to resemble cursive script. Siegert takes the
+Virag as an "apocryphal emblem" of a "systematic logic in the dominant cultural
+technique," representative of the "order of digital signals
+[@siegert_cacography_2011, 41]." Although not concerned with history or
+philosophy of digital media explicitly[^ln1-siegert], Siegert suggests that the
+writing telegraph removes "the noise of all graphic form," to reduce 
+
+[^ln-siegert]: "I have to emphasize, however, that these examples do *not*
+amount to any kind of historico-philosophical three-step
+[@siegert_cacography_2011, 35]."
+
+[@pollak_writing-telegraph._1901; @hausmann_telegraph_1915, 170].
+
+![](images/virag.png "Writing Telegraph, 1901.
+@pollak_writing-telegraph._1901")
+
+![](images/cyphon.jpg "Syphon Recorder Alphabet, Circa 1887-1935. From the personal
+collection of Jim Linderman.")
+
+It is important to realize that the Virag does not reduce the infinite analog
+into he discrete digital. It takes language and writing, already a highly
+digital mode of communication and transforms it in interesting ways to enable
+rapid long-distance communication. Cyphon.
+
+
+"Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
+best way might be for Smith to send to transmit sine waves [...] but in
+practice Smith always wants to make Jones perform an excessively complicated
+and irregular series of motions, and for this purpose it is essential to
+transmit similar motions by introducing upper harmonics in a fragmentary,
+non-periodic, and very irregular way [^@murray_setting_1905, 559]."
+
+"Scientists have prosecuted research on the plane of continuous degrees of the
+ultimates, and they have thereby failed to penetrate to interior things of
+discrete degree. Consequently they derive life as not from the Lord, but form
+nature, of which they have no other idea than that it is something mechanical
+[^@dole_philosophy_1906]." Spiritual telegraph.
+
+
+It is a mistake to conflate digital and discrete. It is also a mistake to
+conflate the human with continuous.
+
+It is tempting to think of the telegraph as a digital [*sic*] device, created
+to convert analog [*sic*] input into electric signal. Much technical literature
+on the subject makes that simplification.[^ln-tele-digi] The mechanics of the
+Hughes telegraph paint a more complicated complicated picture, one that
+involves multiple shifts and transformations. On some level, language, already
+a discrete and portable representation of mental states, which in themselves
+stand in a complicated and fragmentary relationship to sensory phenomena,
+undergoes a number of further material phase transitions. In the Hughes
+telegraph this involves what I have been calling "trans-mediation" from
+keyboard input, to mechanical movement of the drum, to magnetic resonance, to
+the vibration of a spring, to electric wire and signal, into the movement of
+the type wheel, and to the machination of the printing apparatus that once
+again produces the alphabet. In changing material contexts, language also
+undergoes multiple changes of encoding. By "encoding," I mean a "controlled
+system of representation." Representation in its unrestrained form (as in
+"pictorial representation") differs from "encoding" in the size of its
+vocabulary. Painting and other forms of uninhibited representational
+conventions, are limitless in their expressive possibility. The "language" of
+painting is limitless, in other words. Encoding, by contrast, reduces the
+universe of possibilities to a limited set of possible "codes," like the
+alphabet. These codes have a more formalized grammar and rules of composition.
+Although the expressive potential of written language is limitless, in some
+combinatorial sense of the word, language and other codes can "break," that is,
+be reduced to nonsense, in a way that painting cannot. The Hughes telegraph
+accepts alpha-numeric characters at first and then translates or trans-codes
+them into a system of signals, expressed in time intervals (between the
+synchronization tone and the activation of the key).
+
+It becomes clear from the description of early telegraph encoding systems that
+trans-coding and trans-mediation relate to each other somehow. On one hand, all
+changes between encoding systems necessitate material phase transition, if not
+from one *type* of medium into another (from paper to magnetic storage, for
+example), then from one specific material *context* into another (as when one
+merely translates from French into English on the same piece of paper).
+Trans-mediation, on the other hand, may or may not involve change in encoding
+formats, although it frequently does, as when language on paper is transformed
+into the pulsations of the electrical signal in Morse code. In reading and
+playing music, a musician furthermore transforms musical notation--a
+controlled, paper-bound vocabulary--into sound representation, the movement of
+molecules unlimited in its expressive potential. The blueprints for the Hughes
+telegraph reveal a device that mixes discrete and continuous modes of
+representation, through multiple acts of trans-coding and trans-mediation.
+Digitality, in that sense, is besides the point. The telegraph is a device that
+pushes language, normally bound to air (as speech) and paper (as a writing
+system), through water and metal. Even today, deep beneath the sea surface,
+telegraph lines ferry messages from continent to continent. And at each end of
+the telegraph cable is a transmediation device that makes media transference
+possible. I use the word "media" here in the bluntest way possible, as
+"material basis" or "substratum" for some observed, higher-order phenomenon (in
+our case, communication).
+
+Electricity--the "language" of wires--is not a media format intended for human
+consumption. One could learn to understand telegraph intercourse through
+electrocution, by applying the wire directly to the skin. Direct brain-computer
+interfaces promise to do more or less exactly that and are common enough today
+to be turned into a toy.[^ln-mindflex] The early efforts in this space
+implanted electrodes into the brain directly to capture single-neuron activity,
+or relied on imprecise "noisy" electroencephalographic (EEG) scalp activity. In
+2004 a team of scientists developed a way of controlling  "a one-dimensional
+computer cursor rapidly and accurately" using electrocorticographic (ECoG)
+activity recorded from the surface of the brain
+[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
+quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
+simulation developed by the University of Pittsburgh’s Human Engineering
+Research Laboratories in collaboration of Defense Advanced Research Projects
+Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
+in brain-computer interfaces suggest also the not-all-too-distant possibility
+of computer-brain interfaces, completing the loop between human and machine.
+This may also imply the possibility of communicating brain-states directly,
+without the mediation of text or sound. However futuristic that possibility may
+seem to us today, it is merely a small evolutionary step in a long history of
+brain-to-brain interfaces, already mediated by paper, ink, code, and silicon.
+
+
+### 1.1.4 Binary Collapse of Space
+
+As information was compressed and pushed through the wires, it would undergo a
+number of transformations. Donald Murray, the inventor of the Murray alphabet,
+conceived of that transformation in terms of movement from space to time.
+Unfolding something like the "metaphysics of telegraph signalling alphabets"
+(his words), he describes spatial writing symbols that "appeal to the eye," and
+temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
+signals (like a signboard) occupy little space, but persist in time. "For
+instance, a signboard may extend over 10 feet and 100 years," Murray writes.
+Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
+over half a second and 500 miles."
 
 The turn of the 20th century represents a pivotal moment in the development of
 universal Turing machines. The advent of removable storage media--control cards
@@ -834,34 +986,39 @@ decouple the real-time encoding of text into code from the operation of the
 machine. A tape containing the message could be prepared in advance, fed into
 the telegraph, and printed in human-legible form on the receiving end.
 
+### 1.1.6 Bug Time
+
 Several engineering solutions emerged to transcend the limits of human
-information processing. I have mentioned a few already. The automated telegraph
-decoupled encoding from transmission. It then became possible to prepare
-messages in advance, in volume, and to run the messages through a machine
-without human assistance. At that point, telegraph diverged from the telephone
-to became a device of asynchronous communication, displacing the act of
-communication in time as it does in space. But even with the advent of
-removable storage media, the bandwidth, or, the "information density" of the
-system was limited by the number and the size of available cables. Multiple
-independent developments in communication technology have led to a range of
-techniques known as "multiplexing"--ways of sharing the same wire to send
-multiple messages. Multiplexing at the time fell into two broad approaches:
-time-division and pulse-amplitude modulation [@hausmann_telegraph_1915;
-@rowland_multiplex_1901]. Pulse-amplitude modulation involved space
-compression: sending multiple signals at differing frequencies that shared the
-same channel.[^ln1-multi] The presence of noise, cross-feeding between cables,
-and the technical limitations of the receiving apparatus all posed a challenge
-to amplitude modulation. Emile Baudot was one of the first engineers to notice
-that the prevailing Morse and Hughes telegraph systems failed to make full use of
-the time alloted for message transmission. The Hughes code in particular made
-extensive use of long silences, which could be condensed to extract more
-utility from the channel. Baudot-type multiplexers made use of synchronized
-rotating mechanisms both of the sending and the receiving end, to distribute
-units of time among multiple operators. The figure bellow shows a scheme for
-a duplex printing telegraph. A single rotation of the synchronization device is
-thereby divided into two units of five segments each, each corresponding to a
-distinct channel of communication. Two operators could therefore share the same
-channel to transmit two different messages.
+information processing. The automated telegraph decoupled encoding from
+transmission. It then became possible to prepare messages in advance, in
+volume, and to run the messages through a machine without human assistance. At
+that point, telegraph diverged from the telephone to became a device of
+asynchronous communication, displacing the act of communication in time as it
+does in space. But even with the advent of removable storage media, the
+bandwidth, or, the "information density" of the system was limited by the
+number and the size of available cables. Independent developments in
+communication technology led to a range of techniques known as
+"multiplexing"--ways of sharing the same wire to send multiple messages.
+Multiplexing at the time fell into two broad approaches: time-division and
+pulse-amplitude modulation [@hausmann_telegraph_1915; @rowland_multiplex_1901].
+Pulse-amplitude modulation involved filling the available space (bandwidth)
+with simultanious signals of different types: sending multiple signals at
+differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
+modulation was difficult to implement initially. Cross-channel noise and device
+sensitivity hampared reliable reception and decoding across multiple
+silmultanious wave frequencies.
+
+Emile Baudot was one of the first engineers to notice that the prevailing Morse
+and Hughes telegraph systems failed to make full use of the time alloted for
+message transmission. The Hughes code in particular made extensive use of long
+silences, which could be condensed to extract more utility from the channel.
+Baudot-type multiplexers made use of synchronized rotating mechanisms both of
+the sending and the receiving end, to distribute units of time among multiple
+operators. The figure bellow shows a scheme for a duplex printing telegraph. A
+single rotation of the synchronization device is thereby divided into two units
+of five segments each, each corresponding to a distinct channel of
+communication. Two operators could therefore share the same channel to transmit
+two different messages.
 
 ![](images/multiplex.png "Multiple Printing Telegraph, 1905.
 @murray_setting_1905."
@@ -873,6 +1030,29 @@ to indicate turns to individual operators, and in some devices, locking the
 keyboard to prevent out-of-turn input. In a quadruplex system up to four
 operators would engage in an intricate dance of fingers, keys, tappers, and
 signals, synchronized by the rotation of the telegraph distributor.
+
+But how does a receiver distinguish non-meaning carrying silence (the receiver
+is turned off) from the meaning-carrying one (the receiver pauses to indicate a
+dot)? The receiver needed a measure (duration) of silence to differentiate
+between "dots" and spaces between words. But if the devices went out of sync,
+or, if the communication lagged for some reason, the coherence of the message
+faultered. Sending and receiving machines too had to be tuned to a cadence of
+common information exchange. The system of operators, transmitters, and
+recivers, was, in aggregate, tuned to a specific but arbitrary rhythm by which
+certain messages made sense only in particular (also arbitrary) units of time.
+In early telegraphy, these units of time were slower than natural human time,
+enough so for the operator to remain idle. Later systems increased the pace to
+a rhythm beyond natural human abilities of comprehension, to a point where
+human operators could no longer decipher the signal without machine assistance.
+
+Uxcull.
+
+The digital as something more discrete than human experience. The popular
+imagination of liquid digital. The desceteness approaches the continuous, at
+granular level, out of syncronization with the natural sense of biologically
+human cadence.
+
+[^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
 [^ln-bacon]: This volume is also commonly translated as "Of the Dignity and
 Advancement of Learning," following the Spedding edition. The first two books
@@ -901,191 +1081,6 @@ Friedrich Kittler's *Gramaphone, Film, Typewriter*.
 frequency- division multiplexing. On some level, space-division multiplexing
 simply involves the splitting of a signal into multiple physical channels
 (wires). Frequency-division better "fills" the space of a single channel.
-
-### 1.1.5 Time of the Tick
-
-Electrical engineers involved in the development of the telegraph at the turn
-of the century fell into two warring camps, in a conflict located precisely at
-the fault lines of discrete and continuous representation. Systems based on the
-"neutral direct current" (NDC) design[^ln-ndc]  assumed current flow for some
-elements of the encoding (like dashes) and absence of current flow for others
-(like dots) [@welk_neutral_2000]. For this reason, it could be said that
-although Morse code is a ternary encoding system (using dots, dashes, and
-silences), under the NDC conditions it functions as a second-order binary
-encoding. But how does a receiver distinguish non-meaning carrying silence (the
-receiver is turned off) from the meaning-carrying one (the receiver pauses to
-indicate a dot)?  Synchronization between the transmitting and the receiving
-devices is the downside of NDC. The receiver measures the duration of silence
-to differentiate between "dots" and spaces between words, for example. But if
-the devices are out of sync, or the communication lags for some reason, the
-timing falters. The two machines must be tuned to the same cadence to exchange
-information.
-
-[^ln-ndc]: Also known as the "single current" or "single Morse" system.
-
-Systems based on the alternating-current design (ACD) converted Morse code (and
-other encoding systems) into pulses of alternating positive and negative
-current, where positive current could stand for "dashes" and negative for
-"dots." Where the ADC designs preferred the use of non-sinusoidal, "square"
-periodic waveform to represent binary states, ACD designers often argued for
-the use of a sinusoidal signal, which could be modulated into a multitude of
-states beyond binary [@hausmann_telegraph_1915, 374; @crehore_practical_1900].
-Consequently, ACD designs tended towards the transmission of continuous
-quantities like images and cursive hand-writing. Unlike "step-by-step" devices
-of the NDC type, the alternating-current designs could create a measure of
-visual analogy between the transmitted text and the shape of the signal. The
-
-The Pollak-Virag telegraph 
-
-[@pollak_writing-telegraph._1901; @hausmann_telegraph_1915, 170;
-@siegert_cacography_2011]. It
-
-is important to realize that the Virag does not reduce the infinite analog into
-he discrete digital. It takes language and writing, already a highly digital
-mode of communication and transforms it in interesting ways to enable
-rapid long-distance communication
-
-![](images/virag.png "Writing Telegraph, 1901.
-@pollak_writing-telegraph._1901")
-
-"Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
-best way might be for Smith to send to transmit sine waves [...] but in
-practice Smith always wants to make Jones perform an excessively complicated
-and irregular series of motions, and for this purpose it is essential to
-transmit similar motions by introducing upper harmonics in a fragmentary,
-non-periodic, and very irregular way [^@murray_setting_1905, 559]."
-
-"Scientists have prosecuted research on the plane of continuous degrees of the
-ultimates, and they have thereby failed to penetrate to interior things of
-discrete degree. Consequently they derive life as not from the Lord, but form
-nature, of which they have no other idea than that it is something mechanical
-[^@dole_philosophy_1906]."
-
-![](images/cyphon.jpg "Syphon Recorder Alphabet, Circa 1887-1935. From the personal
-collection of Jim Linderman.")
-
-As information was compressed and pushed through the wires, it would undergo a
-number of transformations. Donald Murray, the inventor of the Murray alphabet,
-conceived of that transformation in terms of movement from space to time.
-Unfolding something like the "metaphysics of telegraph signalling alphabets"
-(his words), he describes spatial writing symbols that "appeal to the eye," and
-temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
-signals (like a signboard) occupy little space, but persist in time. "For
-instance, a signboard may extend over 10 feet and 100 years," Murray writes.
-Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
-over half a second and 500 miles." The function of the telegraph, in that
-sense, is to convert spatial language into temporal and back.
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-ITA-1, like the Baudot, was a five "bit" code, where each letter and control
-character was represented by a combination of negative and positive electrical
-currents. For example, in ITA-1 the letter "A" and the number "1" are both
-represented by `-++++`; "X" and "," by `+-++-`, and the "error" code by `+++--`
-[@ITA1932, 34]. Baudot and ITA-1 encodings assumed "always on" communication
-between two synchronized devices. For the receiver to recognize a character
-amidst channel noise it must receive that character in the same "time frame" as
-the transmitter. This property also allowed for multiplexed communication,
-where characters received in one time frame were recognized to belong to one
-message and characters received in another time frame were part of another. In
-a simplified way, imagine characters at even time intervals belonging to
-message A, and at odd time intervals to message B. The International
-Telegraphic Alphabet No. 2 instead assumed "start-stop" devices for
-asynchronous communication. Unlike multiplexed telegraphs that were always on
-and listening for the signal, telegraphs of the "start-stop" type would "come
-alive" only under a "special arrangement" between the communicating parties.
-Because the devices are not synchronized, the pause between each transmitted
-character can vary in length. For this reason ITA-2 includes two extra bits for
-indicating "start" and stop" elements. The letter "A" and a hyphen in ITA-2
-would be encoded as `0110001`, where ones and zeros represent the absence and
-the presence of current[@ITU1932, 36].[^ln13-current]
-
-It is a mistake to conflate digital and discrete. It is also a mistake to
-conflate the human with continuous.
-
-It is tempting to think of the telegraph as a digital [*sic*] device, created
-to convert analog [*sic*] input into electric signal. Much technical literature
-on the subject makes that simplification.[^ln-tele-digi] The mechanics of the
-Hughes telegraph paint a much more complicated complicated picture, one that
-involves multiple shifts and transformations.  On some level, language, already
-a discrete and portable representation of mental states, which in themselves
-stand in a complicated and fragmentary relationship to sensory phenomena,
-undergoes a number of further material phase transitions. In the Hughes
-telegraph this involves what I have been calling "trans-mediation" from
-keyboard input, to mechanical movement of the drum, to magnetic resonance, to
-the vibration of a spring, to electric wire and signal, into the movement of
-the type wheel, and to the machination of the printing apparatus that once
-again produces the alphabet. In changing material contexts, language also
-undergoes multiple changes of encoding. By "encoding," I mean a "controlled
-system of representation." Representation in its unrestrained form (as in
-"pictorial representation") differs from "encoding" in the size of its
-vocabulary. Painting and other forms of uninhibited representational
-conventions, are limitless in their expressive possibility. The "language" of
-painting is limitless, in other words. Encoding, by contrast, reduces the
-universe of possibilities to a limited set of possible "codes," like the
-alphabet. These codes have a more formalized grammar and rules of composition.
-Although the expressive potential of written language is limitless, in some
-combinatorial sense of the word, language and other codes can "break," that is,
-be reduced to nonsense, in a way that painting cannot. The Hughes telegraph
-accepts alpha-numeric characters at first and then translates or trans-codes
-them into a system of signals, expressed in time intervals (between the
-synchronization tone and the activation of the key).
-
-It becomes clear from the description of early telegraph encoding systems that
-trans-coding and trans-mediation relate to each other somehow. On one hand, all
-changes between encoding systems necessitate material phase transition, if not
-from one *type* of medium into another (from paper to magnetic storage, for
-example), then from one specific material *context* into another (as when one
-merely translates from French into English on the same piece of paper).
-Trans-mediation, on the other hand, may or may not involve change in encoding
-formats, although it frequently does, as when language on paper is transformed
-into the pulsations of the electrical signal in Morse code. In reading and
-playing music, a musician furthermore transforms musical notation--a
-controlled, paper-bound vocabulary--into sound representation, the movement of
-molecules unlimited in its expressive potential. The blueprints for the Hughes
-telegraph reveal a device that mixes discrete and continuous modes of
-representation, through multiple acts of trans-coding and trans-mediation.
-Digitality, in that sense, is besides the point. The telegraph is a device that
-pushes language, normally bound to air (as speech) and paper (as a writing
-system), through water and metal. Even today, deep beneath the sea surface,
-telegraph lines ferry messages from continent to continent. And at each end of
-the telegraph cable is a transmediation device that makes media transference
-possible. I use the word "media" here in the bluntest way possible, as
-"material basis" or "substratum" for some observed, higher-order phenomenon (in
-our case, communication).
-
-Electricity--the "language" of wires--is not a media format intended for human
-consumption. One could learn to understand telegraph intercourse through
-electrocution, by applying the wire directly to the skin. Direct brain-computer
-interfaces promise to do more or less exactly that and are common enough today
-to be turned into a toy.[^ln-mindflex] The early efforts in this space
-implanted electrodes into the brain directly to capture single-neuron activity,
-or relied on imprecise "noisy" electroencephalographic (EEG) scalp activity. In
-2004 a team of scientists developed a way of controlling  "a one-dimensional
-computer cursor rapidly and accurately" using electrocorticographic (ECoG)
-activity recorded from the surface of the brain
-[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
-quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
-simulation developed by the University of Pittsburgh’s Human Engineering
-Research Laboratories in collaboration of Defense Advanced Research Projects
-Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
-in brain-computer interfaces suggest also the not-all-too-distant possibility
-of computer-brain interfaces, completing the loop between human and machine.
-This may also imply the possibility of communicating brain-states directly,
-without the mediation of text or sound. However futuristic that possibility may
-seem to us today, it is merely a small evolutionary step in a long history of
-brain-to-brain interfaces, already mediated by paper, ink, code, and silicon.
-
-Uexcull. The insect. The very notion of discrete and analog differs on the
-capabilities of the perciever. Natural rhythm. Uxcull tick and Hayles. End with
-the tick. Hayles.  Notion of the human in the digital.
-
-
-The digital as something more discrete than human experience. The popular
-imagination of liquid digital. The desceteness approaches the continuous, at
-granular level, out of syncronization with the natural sense of biologically
-human cadence.
-
 [^ln-tele-digi]: See for example @angell_pro_2009, 233:  "The telegraph is a
 digital device sending only high and low pulses through the wire;"
 @jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
@@ -2553,8 +2548,20 @@ States and globally.
 
 ASCII.
 
-"You must acknowledge that this is readable without special training," reads the
-schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
+pause between each transmitted character can vary in length. For this reason
+ITA-2 includes two extra bits for indicating "start" and stop" elements. The
+letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
+zeros represent the absence and the presence of current[@ITU1932,
+36].[^ln13-current]
+
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
 invention relates to all controllers," Goldberg writes. "The object of the
 invention is to provide a mechanism operable by a control sheet which is
 legible to every person having sufficient education to enable him to read. To
