@@ -831,14 +831,23 @@ decouple the real-time encoding of text into code from the operation of the
 machine. A tape containing the message could be prepared in advance, fed into
 the telegraph, and printed in human-legible form on the receiving end.
 
-![](images/cyphon.jpg Cyphon Recorder Alphabet, 1887. @vansize_new_1901, 23.")
 
+Human-legibility lies precisely at the center of 
 "Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
 best way might be for Smith to send to transmit sine waves [...] but in
 practice Smith always wants to make Jones perform an excessively complicated
 and irregular series of motions, and for this purpose it is essential to
 transmit similar motions by introducing upper harmonics in a fragmentary,
 non-periodic, and very irregular way [^@murray_setting_1905, 559]."
+
+Virag telegraph [@hausmann_telegraph_1915, 170; @siegert_cacography_2011]. It
+is important to realize that the Virag does not reduce the infinite analog into
+he discrete digital. It takes language and writing, already a highly digital
+mode of communication and transforms it in interesting ways to enable
+rapid long-distance communication
+
+![](images/cyphon.jpg Syphon Recorder Alphabet, Circa 1887-1935. From the personal
+collection of Jim Linderman.")
 
 [^ln-bacon]: This volume is also commonly translated as "Of the Dignity and
 Advancement of Learning," following the Spedding edition. The first two books
