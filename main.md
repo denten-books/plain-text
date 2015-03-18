@@ -663,7 +663,7 @@ precisely at the fault lines of discrete and continuous representation.
 Systems based on the "neutral direct current" design[^ln-ndc] assumed current
 flow for some elements of the encoding (like dashes) and absence of current
 flow for others (like dots) [@welk_neutral_2000]. For this reason, it could be
-said that although the Morse code-family of alphabets amount to a a ternary
+said that although the Morse code-family of alphabets amount to a ternary
 encoding system (using dots, dashes, and silences), under NDC conditions they
 function as second-order binary encodings. Systems based on the
 alternating-current design converted Morse code (and other encoding systems)
@@ -671,26 +671,55 @@ into pulses of alternating positive and negative current, where positive
 current could stand for "dashes" and negative for "dots." Where the alternating
 current designs preferred the use of non-sinusoidal, "square" periodic
 waveforms to represent binary states, literature on alternating current design
-often argued for the use of a sinusoidal signal, which could be modulated into
-a multitude of states beyond binary [@hausmann_telegraph_1915, 374;
-@crehore_practical_1900]. Consequently, alternating current designs tended
+often argued for the use of a sinusoidal signal, which could be more easily
+modulated into a multitude of states beyond binary [@hausmann_telegraph_1915,
+374; @crehore_practical_1900]. Consequently, alternating current designs tended
 towards the transmission of continuous quantities like images and cursive
-hand-writing. Unlike "step-by-step" devices of the neutral-direct type, the
-alternating-current designs could create a measure of visual analogy between
-transmitted text and signal shape. The Pollak-Virag telegraph Bernhard Siegert
-mentions in his seminal essay on cultural techniques, was one such device. The
-wave length it produced was meant to resemble cursive script. Siegert takes the
-Virag as an "apocryphal emblem" of a "systematic logic in the dominant cultural
-technique," representative of the "order of digital signals
-[@siegert_cacography_2011, 41]." Although not concerned with history or
-philosophy of digital media explicitly[^ln1-siegert], Siegert suggests that the
-writing telegraph removes "the noise of all graphic form," to reduce 
+hand-writing. The very visual form of the sinusoidal curve suggested more
+organic, natural shapes, create a measure of visual analogy between
+text and signal.
 
-[^ln-siegert]: "I have to emphasize, however, that these examples do *not*
-amount to any kind of historico-philosophical three-step
-[@siegert_cacography_2011, 35]."
+The Pollak-Virag telegraph Bernhard Siegert mentions in his seminal essay on
+German media theory, was one such device.[^ln1-siegert] The original
+Pollak-Virag machine, patented in 1900 (and filed in 1899), proposed to send
+regular (ternary) Morse encoding by means of alternating current of two
+different polarities and two different strengths, for a total of four types of
+signals (see image).[^ln1-virag] Other than the irregular singal shape and the
+use of alternating current, the Pollak-Virag encoding differed little from
+single-Morse systems. By 1901, howeve, the authors were issued an American
+patent for a "Writing Telegraph," which builds on their previous design in an
+intersting way. Rather than using a four-part shape, the authors propose an
+"automatic transmitter capable of sending current impulses over the line which
+correspond to the direction and the size of a single letter element
+[@pollak_writing-telegraph._1901, 3]." In other words, they want to bend the
+sinisoidal wave to roughly correspond to the shape of the letter (see
+illustration). On some level then, the Pollak-Virag encoding constitutes a sort
+of an unbroken, electrical alphabet. The elictrical signal, in this case, is a
+continuous quality, made to "trace in a substantulaly continuous unbroken
+outline the written letters composing the matter transmitted
+[@pollak_writing-telegraph._1901, 1]." The perforated tape "driving" the signal
+does however reduce notions of continuity into distinct perforations that
+correspond to deconstructed letter elements.
 
-[@pollak_writing-telegraph._1901; @hausmann_telegraph_1915, 170].
+![](images/virag-waves.png 'Record obtained at the recieving station,
+illustration from "Means for Rapidly Transmitting Telegrams," 1900
+@pollak_means_1900.')
+
+[^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
+"systematic logic in the dominant cultural technique," representative of the
+"order of digital signals [@siegert_cacography_2011, 41]." Although not
+concerned with history or philosophy of digital media explicitly, Siegert
+suggests that the writing telegraph symbolizes the cleansing of "the noise of
+all graphic form." His theory of cultural techniques instead creates "an
+awareness for the plenitude of a world of as yet undistinguished things, that,
+as an inexhaustible reservoir of possibilities, remain the basic point of
+reference for every type of culture [@siegert_cacography_2011, 35]."
+
+[^ln1-virag]: The Pollak-Virag device also proposed an "electromagnetic
+vibrator" coupled to a recording "mirror-galvanometer." The authors further
+specify for "the vibrotor on the recieving instrument [to] vibrate in harmony
+with these impulses, vibrating in one direction or the other, according to
+their sign and to an extent depending on their intensity [@pollak_means_1900]."
 
 ![](images/virag.png "Writing Telegraph, 1901.
 @pollak_writing-telegraph._1901")
@@ -793,7 +822,6 @@ This may also imply the possibility of communicating brain-states directly,
 without the mediation of text or sound. However futuristic that possibility may
 seem to us today, it is merely a small evolutionary step in a long history of
 brain-to-brain interfaces, already mediated by paper, ink, code, and silicon.
-
 
 ### 1.1.4 Binary Collapse of Space
 
