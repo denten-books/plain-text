@@ -717,7 +717,7 @@ reference for every type of culture [@siegert_cacography_2011, 35]."
 
 [^ln1-virag]: The Pollak-Virag device also proposed an "electromagnetic
 vibrator" coupled to a recording "mirror-galvanometer." The authors further
-specify for "the vibrotor on the recieving instrument [to] vibrate in harmony
+specify for "the vibrator on the receiving instrument [to] vibrate in harmony
 with these impulses, vibrating in one direction or the other, according to
 their sign and to an extent depending on their intensity [@pollak_means_1900]."
 
@@ -727,28 +727,41 @@ their sign and to an extent depending on their intensity [@pollak_means_1900]."
 ![](images/cyphon.jpg "Syphon Recorder Alphabet, Circa 1887-1935. From the personal
 collection of Jim Linderman.")
 
-It is important to realize that the Virag does not reduce the infinite analog
-into he discrete digital. It takes language and writing, already a highly
-digital mode of communication and transforms it in interesting ways to enable
-rapid long-distance communication. Cyphon.
+Nothing in this series of trans-coding and trans-mediation gives us ground on
+which to build some model of "natural" human technique. Down to the level of
+underlying cognitive structure, continuous representation is throughout fluid
+and mixed with discrete meaning-carrying entities. And yet already, at this
+time, the conversations around the metaphysics of telegraph communication
+display an anxiety about media formats in relation to some implicit notion of
+natural human experience. Notions of discreteness and continuity extrapolate
+from the underlying physical structure of communication to implicate
+higher-order cultural categories. Arguing in opposition to the sine-wave camp, 
+Donald Murray writes:
 
-
-"Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
+> Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
 best way might be for Smith to send to transmit sine waves [...] but in
 practice Smith always wants to make Jones perform an excessively complicated
 and irregular series of motions, and for this purpose it is essential to
 transmit similar motions by introducing upper harmonics in a fragmentary,
-non-periodic, and very irregular way [^@murray_setting_1905, 559]."
+non-periodic, and very irregular way [^@murray_setting_1905, 559].
+
+Being periodic (and therefore, repetitive) the continuous sine wave is too
+regular to answer to the diverse needs of human culture. Dance, in Murray's
+articulation, can also consist in a series of irregular, fragmentary, and
+non-periodic movements, much better captured by the discrete form of the square
+wave form.[^ln1-dervish]
+
+[^ln1-dervish]: One could make more of the Dervish being used here as a
+negative example, in an instance of colonial gaze. But Murray himself was an
+empire outsider, born in a small, remote town of Invercargill, New Zealand
+(a town that also happens to be one of the southern-most cities in world).
 
 "Scientists have prosecuted research on the plane of continuous degrees of the
 ultimates, and they have thereby failed to penetrate to interior things of
 discrete degree. Consequently they derive life as not from the Lord, but form
 nature, of which they have no other idea than that it is something mechanical
-[^@dole_philosophy_1906]." Spiritual telegraph.
+[^@dole_philosophy_1906]."
 
-
-It is a mistake to conflate digital and discrete. It is also a mistake to
-conflate the human with continuous.
 
 It is tempting to think of the telegraph as a digital [*sic*] device, created
 to convert analog [*sic*] input into electric signal. Much technical literature
@@ -1030,11 +1043,11 @@ communication technology led to a range of techniques known as
 Multiplexing at the time fell into two broad approaches: time-division and
 pulse-amplitude modulation [@hausmann_telegraph_1915; @rowland_multiplex_1901].
 Pulse-amplitude modulation involved filling the available space (bandwidth)
-with simultanious signals of different types: sending multiple signals at
+with simultaneous signals of different types: sending multiple signals at
 differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
 modulation was difficult to implement initially. Cross-channel noise and device
-sensitivity hampared reliable reception and decoding across multiple
-silmultanious wave frequencies.
+sensitivity hampered reliable reception and decoding across multiple
+simultaneous wave frequencies.
 
 Emile Baudot was one of the first engineers to notice that the prevailing Morse
 and Hughes telegraph systems failed to make full use of the time alloted for
@@ -1064,9 +1077,9 @@ is turned off) from the meaning-carrying one (the receiver pauses to indicate a
 dot)? The receiver needed a measure (duration) of silence to differentiate
 between "dots" and spaces between words. But if the devices went out of sync,
 or, if the communication lagged for some reason, the coherence of the message
-faultered. Sending and receiving machines too had to be tuned to a cadence of
+faltered. Sending and receiving machines too had to be tuned to a cadence of
 common information exchange. The system of operators, transmitters, and
-recivers, was, in aggregate, tuned to a specific but arbitrary rhythm by which
+receivers, was, in aggregate, tuned to a specific but arbitrary rhythm by which
 certain messages made sense only in particular (also arbitrary) units of time.
 In early telegraphy, these units of time were slower than natural human time,
 enough so for the operator to remain idle. Later systems increased the pace to
@@ -1079,6 +1092,9 @@ The digital as something more discrete than human experience. The popular
 imagination of liquid digital. The desceteness approaches the continuous, at
 granular level, out of syncronization with the natural sense of biologically
 human cadence.
+
+It is a mistake to conflate digital and discrete. It is also a mistake to
+conflate the human with continuous.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
