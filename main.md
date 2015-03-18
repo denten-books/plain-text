@@ -263,7 +263,7 @@ literary distribution.
 # Part 1: Text
 
 ## Chapter 1.1: We Have Always Been Digital
-`digital, analog, binary, encoding`
+`digital, analog, binary, encoding, mediation`
 
 ### 1.1.1 Digital Clichés
 
@@ -658,8 +658,6 @@ texts, men, and machines. To paraphrase a post-structuralist insight, the
 process of digital interpretation is in itself a type of creativity, forever
 advancing rather than apprehending the lateral movement of thought.
 
-### 1.1.4 Human and Digital
-
 I submit another historical case study. Electrical engineers involved in the
 development of the telegraph at the turn of the 20th century fell into two
 warring camps, in a conflict located precisely at the fault lines between
@@ -698,75 +696,25 @@ interesting way. Rather than using a wave in four steps, the authors propose an
 correspond to the direction and the size of a single letter element
 [@pollak_writing-telegraph._1901, 3]." In other words, they wanted to bend the
 sinusoidal wave to correspond roughly to the shape of the letter (see
-illustration). On some level then, the Pollak-Virag encoding constitutes a sort
-of an unbroken, electrical alphabet. The electrical signal, in this case, makes
-for a continuous quality, intended to "trace in a substantially continuous
-unbroken outline the written letters composing the matter transmitted
-[@pollak_writing-telegraph._1901, 1]." The perforated tape "driving" the signal
-does however reduce notions of continuity into distinct perforations, which
-break letters down into their individual constituents.
+illustration).
 
 ![](images/virag-waves.png 'Record obtained at the receiving station,
 illustration from "Means for Rapidly Transmitting Telegrams," 1900
 @pollak_means_1900.')
 
-[^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
-"systematic logic in the dominant cultural technique," representative of the
-"order of digital signals [@siegert_cacography_2011, 41]." Although not
-concerned with history or philosophy of digital media explicitly, Siegert
-suggests that the writing telegraph symbolizes the cleansing of "the noise of
-all graphic form." His theory of cultural techniques instead creates "an
-awareness for the plenitude of a world of as yet undistinguished things, that,
-as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture [@siegert_cacography_2011, 35]."
-
-[^ln1-virag]: The Pollak-Virag device also proposed an "electromagnetic
-vibrator" coupled to a recording "mirror-galvanometer." The authors further
-specify for "the vibrator on the receiving instrument [to] vibrate in harmony
-with these impulses, vibrating in one direction or the other, according to
-their sign and to an extent depending on their intensity [@pollak_means_1900]."
+On some level then, the Pollak-Virag encoding constitutes a sort of an
+unbroken, electrical alphabet. The electrical signal, in this case, makes for a
+smoothly-varying quality, intended to "trace in a substantially continuous
+unbroken outline the written letters composing the matter transmitted
+[@pollak_writing-telegraph._1901, 1]." The perforated tape "driving" the signal
+does however reduce notions of continuity into distinct perforations, which
+break letters down into their individual constituents.
 
 ![](images/virag.png "Writing Telegraph, 1901.
 @pollak_writing-telegraph._1901")
 
 ![](images/cyphon.jpg "Syphon Recorder Alphabet, Circa 1887-1935. From the personal
 collection of Jim Linderman.")
-
-Nothing in this series of trans-coding and trans-mediation gives us reason to
-ground analog or digital representation as somehow more or less essential to
-the human experience. Representation is fluid throughout and mixed with
-discrete meaning-carrying entities, down to the level of underlying cognitive
-structure. Instead, rapid phase shifts between discrete and continuous
-representation seem to be in themselves constituent of the device. 
-
-It is tempting to think of the telegraph as a digital [*sic*] device, created
-to convert analog [*sic*] input into electric signal.  Much technical
-literature on the subject makes that simplification.[^ln1-tele] The
-mechanics of the Pollak-Virag telegraph paint a more complicated complicated
-picture, one that involves multiple shifts and transformations. On some level,
-language, already a discrete and portable representation of mental states,
-which in themselves stand in a complicated and fragmentary relationship to
-sensory phenomena, undergoes a number of further material phase transitions. In
-the Hughes telegraph this involves what I have been calling "trans-mediation"
-from keyboard input, to mechanical movement of the drum, to magnetic resonance,
-to the vibration of a spring, to electric wire and signal, into the movement of
-the type wheel, and to the machination of the printing apparatus that once
-again produces the alphabet. In changing material contexts, language also
-undergoes multiple changes of encoding. By "encoding," I mean a "controlled
-system of representation." Representation in its unrestrained form (as in
-"pictorial representation") differs from "encoding" in the size of its
-vocabulary. Painting and other forms of uninhibited representational
-conventions, are limitless in their expressive possibility.  The "language" of
-painting is limitless, in other words. Encoding, by contrast, reduces the
-universe of possibilities to a limited set of possible "codes," like the
-alphabet. These codes have a more formalized grammar and rules of composition.
-Although the expressive potential of written language is limitless, in some
-combinatorial sense of the word, language and other codes can "break," that is,
-be reduced to nonsense, in a way that painting cannot.  The Hughes telegraph
-accepts alpha-numeric characters at first and then translates or trans-codes
-them into a system of signals, expressed in time intervals (between the
-synchronization tone and the activation of the key).
-
 
 The metaphysics of telegraph communication at the time display an anxiety about
 the role of the human in this process, where notions of material discreteness
@@ -811,7 +759,7 @@ impressions," in a communication act (consisting of a "contact" and the
 exchange of signifying "thought vehicles") between the sender ("source
 superior") and the "receiver of instructions," placed in a binary opposing
 ("negative" but without "resistance") relation to the idea of the divine.
-Digital and divine! 
+Digital and divine!
 
 Reverse to the logic of contemporary cultural critique of
 computation,[ln1-golumbia] which, after Kant, associates the atomic view of the
@@ -826,9 +774,48 @@ discrete degree. Consequently they derive life as not from the Lord, but from
 nature, of which they have no other idea than that it is something mechanical
 [^@dole_philosophy_1906].
 
-
 Neither camp can claim bases in material contexts of media production (or in
-cognitive phenomenology). It becomes clear from the description of early telegraph encoding systems that
+cognitive phenomenology). Nothing in the long series of trans-coding and
+trans-mediation gives us reason to ground analog or digital representation as
+somehow more or less essential to the human experience. Representation is fluid
+throughout and mixed with discrete meaning-carrying entities, down to the level
+of underlying cognitive structure. Instead, rapid phase shifts between discrete
+and continuous representation seem to be in themselves constituent of the
+device.
+
+It is tempting to think of the telegraph as a digital [*sic*] device, created
+to convert analog [*sic*] input into electric signal.  Much technical
+literature on the subject makes that simplification.[^ln1-tele] The mechanics
+of the Pollak-Virag telegraph paint a more complicated picture, one that
+involves multiple shifts and transformations. On some level, language, already
+a discrete and portable representation of mental states, which in themselves
+stand in a complicated and fragmentary relationship to sensory phenomena,
+undergoes a number of further material phase transitions. In the writing
+telegraph this involves what I have been calling "trans-mediation" from
+notebook, to paper tape, to the movement of an electromagnetic vibrator, to the
+recording mirror galvameter, into the copper wire, to the receiving vibrator,
+and into and to the machination of the printing apparatus that once again
+produce ink and alphabet. In changing material contexts, language also
+undergoes multiple changes of encoding, here from script, to perforation, into
+vibration, to the shape of the sinusoidal electrical impulse, and back out
+through a series of transformations into script.
+
+By "encoding," I mean here a "controlled system of representation."
+Representation in its unrestrained form (as in "pictorial representation")
+differs from "encoding" in the size of its vocabulary. Painting and other forms
+of uninhibited representational conventions, are limitless in their expressive
+possibility.  The "language" of painting is limitless, in other words.
+Encoding, by contrast, reduces the universe of possibilities to a limited set
+of possible "codes," like the alphabet. These codes have a more formalized
+grammar and rules of composition.  Although the expressive potential of written
+language is limitless, in some combinatorial sense of the word, language and
+other codes can "break," that is, be reduced to nonsense, in a way that
+painting cannot. A telegraph of the single-Morse type accepts alpha-numeric
+characters at first and then translates or trans-codes them into a system of
+signals, expressed in time intervals (between the synchronization tone and the
+activation of the key).
+
+It becomes clear from the description of early telegraph encoding systems that
 trans-coding and trans-mediation relate to each other somehow. On one hand, all
 changes between encoding systems necessitate material phase transition, if not
 from one *type* of medium into another (from paper to magnetic storage, for
@@ -839,7 +826,7 @@ formats, although it frequently does, as when language on paper is transformed
 into the pulsations of the electrical signal in Morse code. In reading and
 playing music, a musician furthermore transforms musical notation--a
 controlled, paper-bound vocabulary--into sound representation, the movement of
-molecules unlimited in its expressive potential. The blueprints for the Hughes
+molecules unlimited in its expressive potential. The blueprints for the writing
 telegraph reveal a device that mixes discrete and continuous modes of
 representation, through multiple acts of trans-coding and trans-mediation.
 Digitality, in that sense, is besides the point. The telegraph is a device that
@@ -851,28 +838,21 @@ possible. I use the word "media" here in the bluntest way possible, as
 "material basis" or "substratum" for some observed, higher-order phenomenon (in
 our case, communication).
 
-Electricity--the "language" of wires--is not a media format intended for human
-consumption. One could learn to understand telegraph intercourse through
-electrocution, by applying the wire directly to the skin. Direct brain-computer
-interfaces promise to do more or less exactly that and are common enough today
-to be turned into a toy.[^ln-mindflex] The early efforts in this space
-implanted electrodes into the brain directly to capture single-neuron activity,
-or relied on imprecise "noisy" electroencephalographic (EEG) scalp activity. In
-2004 a team of scientists developed a way of controlling  "a one-dimensional
-computer cursor rapidly and accurately" using electrocorticographic (ECoG)
-activity recorded from the surface of the brain
-[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
-quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
-simulation developed by the University of Pittsburgh’s Human Engineering
-Research Laboratories in collaboration of Defense Advanced Research Projects
-Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
-in brain-computer interfaces suggest also the not-all-too-distant possibility
-of computer-brain interfaces, completing the loop between human and machine.
-This may also imply the possibility of communicating brain-states directly,
-without the mediation of text or sound. However futuristic that possibility may
-seem to us today, it is merely a small evolutionary step in a long history of
-brain-to-brain interfaces, already mediated by paper, ink, code, and silicon.
+[^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
+"systematic logic in the dominant cultural technique," representative of the
+"order of digital signals [@siegert_cacography_2011, 41]." Although not
+concerned with history or philosophy of digital media explicitly, Siegert
+suggests that the writing telegraph symbolizes the cleansing of "the noise of
+all graphic form." His theory of cultural techniques instead creates "an
+awareness for the plenitude of a world of as yet undistinguished things, that,
+as an inexhaustible reservoir of possibilities, remain the basic point of
+reference for every type of culture [@siegert_cacography_2011, 35]."
 
+[^ln1-virag]: The Pollak-Virag device also proposed an "electromagnetic
+vibrator" coupled to a recording "mirror-galvanometer." The authors further
+specify for "the vibrator on the receiving instrument [to] vibrate in harmony
+with these impulses, vibrating in one direction or the other, according to
+their sign and to an extent depending on their intensity [@pollak_means_1900]."
 [^ln1-dervish]: One could make more of the Dervish being used here as a
 negative example, in an instance of colonial gaze. But Murray himself was an
 empire outsider, born in a small, remote town of Invercargill, New Zealand
@@ -1152,13 +1132,36 @@ human operators could no longer decipher the signal without machine assistance.
 
 Uxcull.
 
+It is a mistake to conflate digital and discrete. It is also a mistake to
+conflate the human with continuous.
+
+Electricity--the "language" of wires--is not a media format intended for human
+consumption. One could learn to understand telegraph intercourse through
+electrocution, by applying the wire directly to the skin.  Direct
+brain-computer interfaces promise to do more or less exactly that and are
+common enough today to be turned into a toy.[^ln-mindflex] The early efforts in
+this space implanted electrodes into the brain directly to capture
+single-neuron activity, or relied on imprecise "noisy" electroencephalographic
+(EEG) scalp activity. In 2004 a team of scientists developed a way of
+controlling  "a one-dimensional computer cursor rapidly and accurately" using
+electrocorticographic (ECoG) activity recorded from the surface of the brain
+[^@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
+quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
+simulation developed by the University of Pittsburgh’s Human Engineering
+Research Laboratories in collaboration of Defense Advanced Research Projects
+Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
+in brain-computer interfaces suggest also the not-all-too-distant possibility
+of computer-brain interfaces (in a reversal of the direction), completing the
+loop between human and machine.  This may also imply the possibility of
+communicating brain-states directly, without the mediation of text or sound.
+However futuristic that possibility may seem to us today, it is merely a small
+evolutionary step in a long history of brain-to-brain interfaces, already
+mediated by paper, ink, code, and silicon.
+
 The digital as something more discrete than human experience. The popular
 imagination of liquid digital. The desceteness approaches the continuous, at
 granular level, out of syncronization with the natural sense of biologically
 human cadence.
-
-It is a mistake to conflate digital and discrete. It is also a mistake to
-conflate the human with continuous.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
