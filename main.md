@@ -1111,26 +1111,40 @@ two different messages.
 The maintaining of unison became of paramount importance in such multiplexed
 systems. The operators of a time-shared device needed to know when it was their
 turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
-to indicate turns to individual operators, and in some devices, locking the
-keyboard to prevent out-of-turn input. In a quadruplex system up to four
-operators would engage in an intricate dance of fingers, keys, tappers, and
-signals, synchronized by the rotation of the telegraph distributor.
+mechanisms to indicate turns to individual operators, and in some devices,
+locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
+four operators would engage in an intricate dance of fingers, keys, tappers,
+and signals, synchronized by the rotation of the telegraph distributor.
 
-But how does a receiver distinguish non-meaning carrying silence (the receiver
-is turned off) from the meaning-carrying one (the receiver pauses to indicate a
-dot)? The receiver needed a measure (duration) of silence to differentiate
-between "dots" and spaces between words. But if the devices went out of sync,
-or, if the communication lagged for some reason, the coherence of the message
-faltered. Sending and receiving machines too had to be tuned to a cadence of
-common information exchange. The system of operators, transmitters, and
-receivers, was, in aggregate, tuned to a specific but arbitrary rhythm by which
-certain messages made sense only in particular (also arbitrary) units of time.
-In early telegraphy, these units of time were slower than natural human time,
-enough so for the operator to remain idle. Later systems increased the pace to
-a rhythm beyond natural human abilities of comprehension, to a point where
-human operators could no longer decipher the signal without machine assistance.
+Synchronization was also needed to distinguish non-meaning carrying silence
+(the receiver is turned off) from the meaning-carrying one (the receiver pauses
+to indicate a dot). The recieving device needed a measure (duration) of silence
+to differentiate between "dots" and spaces between words, both indicated by
+silences of different length. But if the devices went out of sync, or, if the
+communication lagged for some reason, the coherence of the message faltered.
+Sending and receiving machines had to be tuned to a cadence of common
+information exchange. The system of operators, transmitters, and receivers,
+was, in aggregate, tuned to a specific but arbitrary rhythm by which certain
+messages made sense only in particular (also arbitrary) units of time. In early
+telegraphy, these units of time were slower than natural human time, enough so
+for the operator to remain idle. Later systems increased the pace to a rhythm
+beyond natural human abilities of comprehension, to a point where human
+operators could no longer decipher the signal without machine assistance. In
+the language of wiremen, the bugs were "runing away with" the whole "game
+[@brackbill_telegraphers_1929, 288]."
 
+I am tempted to believe, like others have before me, that I am on my way to
+enacting something like machine phenomenology, or system phenomenology in a
+system which encomposses people, texts, techniques, and technologies. In such
+cases, astute readers often reach for Jakob von Uexküll's *A Foray into Worlds
+of Animals and Humans*, to borrow from 
+
+"Perceptual worlds" or *umwelt* [@agamben_open_2003, 39-49; @hayles_print_2004,
+16-17]
 Uxcull.
+
+Estrangment and what Agamben calls disorientation of the reader "obliged to
+look at the most familiar places with non-human eyes [@agamben_open_2003, 45]."
 
 It is a mistake to conflate digital and discrete. It is also a mistake to
 conflate the human with continuous.
