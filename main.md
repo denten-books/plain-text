@@ -1071,7 +1071,7 @@ decouple the real-time encoding of text into code from the operation of the
 machine. A tape containing the message could be prepared in advance, fed into
 the telegraph, and printed in human-legible form on the receiving end.
 
-### 1.1.6 Bug Time
+### 1.1.5 Bug Time
 
 Several engineering solutions emerged to transcend the limits of human
 information processing. The automated telegraph decoupled encoding from
@@ -1118,7 +1118,7 @@ and signals, synchronized by the rotation of the telegraph distributor.
 
 Synchronization was also needed to distinguish non-meaning carrying silence
 (the receiver is turned off) from the meaning-carrying one (the receiver pauses
-to indicate a dot). The recieving device needed a measure (duration) of silence
+to indicate a dot). The receiving device needed a measure (duration) of silence
 to differentiate between "dots" and spaces between words, both indicated by
 silences of different length. But if the devices went out of sync, or, if the
 communication lagged for some reason, the coherence of the message faltered.
@@ -1130,20 +1130,55 @@ telegraphy, these units of time were slower than natural human time, enough so
 for the operator to remain idle. Later systems increased the pace to a rhythm
 beyond natural human abilities of comprehension, to a point where human
 operators could no longer decipher the signal without machine assistance. In
-the language of wiremen, the bugs were "runing away with" the whole "game
+the language of wiremen, the bugs were "running away with" the whole "game
 [@brackbill_telegraphers_1929, 288]."
 
 I am tempted to believe, like others have before me, that I am on my way to
-enacting something like machine phenomenology, or system phenomenology in a
-system which encomposses people, texts, techniques, and technologies. In such
+enacting something like "machine phenomenology," or "system phenomenology" in a
+system which encompasses people, texts, techniques, and technologies. In such
 cases, astute readers often reach for Jakob von Uexküll's *A Foray into Worlds
-of Animals and Humans*, to borrow from 
+of Animals and Humans*, to borrow from his notion of perceptual worlds
+(*umwelten*). In his forays, Uexküll imagines a multitude of alien ways of
+seeing the world, from that of a sea urchin to those of a pea weevil and the
+ichneumon wasp. For Uexküll, the task of the biologist is not to encounter such
+living things as unfamiliar machines in the human world, but, rather, to occupy
+the alien life form as another subject. The tick is not a machine, but an
+"operator [@uexkull_foray_2010, 44-53]." Consequent to this point of view is
+Uexküll's insistence on the subjectivity of perceptual experience. The tick
+carries with it its own sense of time and space, which the biologist recovers
+through the description of its perceptual apparatus (What can this organism
+perceive?) and therefore by reconstructing its projected world view (What does
+a stimulus mean for this organism?). In this way, the subject establishes what
+Uexküll calls a "circuit of meaning." The canopy of an oak tree, for example,
+acts in unison with material properties of rain to capture and distribute
+liquid down to the roots of the tree. Capturing and distributing liquid to the
+roots constitutes, in that sense, the "meaning" of the oak-rain circuit. It is
+a peculiar notion of "meaning" to be sure, but for Uexküll it is enough to
+maintain that meaning arises out of the subject's interaction with the
+environment. The subject and object are brought into what Uexküll calls
+harmony:
+
+> If the flower were not bee-like
+> If the bee were not flower-like
+> The harmony would never succeed [@uexkull_foray_2010, 198).
+
+Similarly, the pea and the pea weevil achieve harmony through "meaning
+transfer" between the pea and the weevil larvae, which allows the weevil to
+prepare an escape hatch through vegetative matter in advance of its pupation.
+
+
+
+"the subject controls the time of its environment." Uexküll "bringing the pea
+and the pea weevil into harmony [@uexkull_foray_2010, 161]." "Circuits of
+meaning"
+
+The literature of post-humanism privileges 
+
 
 "Perceptual worlds" or *umwelt* [@agamben_open_2003, 39-49; @hayles_print_2004,
 16-17]
-Uxcull.
 
-Estrangment and what Agamben calls disorientation of the reader "obliged to
+Estrangement and what Agamben calls disorientation of the reader "obliged to
 look at the most familiar places with non-human eyes [@agamben_open_2003, 45]."
 
 It is a mistake to conflate digital and discrete. It is also a mistake to
@@ -1173,8 +1208,8 @@ evolutionary step in a long history of brain-to-brain interfaces, already
 mediated by paper, ink, code, and silicon.
 
 The digital as something more discrete than human experience. The popular
-imagination of liquid digital. The desceteness approaches the continuous, at
-granular level, out of syncronization with the natural sense of biologically
+imagination of liquid digital. The discreteness approaches the continuous, at
+granular level, out of synchronization with the natural sense of biologically
 human cadence.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
@@ -1200,7 +1235,7 @@ devices, in which case 0 would represent "negative current" and 1 "positive
 current [@ITU1932, 36]."
 
 [^ln-kittler]: This along with the ominous "laying of cables" that concludes
-Friedrich Kittler's *Gramaphone, Film, Typewriter*.
+Friedrich Kittler's *Gramophone, Film, Typewriter*.
 
 [^ln1-multi]: Technical literature makes a distinction between space- and
 frequency- division multiplexing. On some level, space-division multiplexing
