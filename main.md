@@ -1138,25 +1138,25 @@ enacting something like "machine phenomenology," or "system phenomenology" in a
 system which encompasses people, texts, techniques, and technologies. In such
 cases, astute readers often reach for Jakob von Uexküll's *A Foray into Worlds
 of Animals and Humans*, to borrow from his notion of perceptual worlds
-(*umwelten*). In his forays, Uexküll imagines a multitude of alien ways of
-seeing the world, from that of a sea urchin to those of a pea weevil and the
-ichneumon wasp. For Uexküll, the task of the biologist is not to encounter such
-living things as unfamiliar machines in the human world, but, rather, to occupy
-the alien life form as another subject. The tick is not a machine, but an
-"operator [@uexkull_foray_2010, 44-53]." Consequent to this point of view is
-Uexküll's insistence on the subjectivity of perceptual experience. The tick
-carries with it its own sense of time and space, which the biologist recovers
-through the description of its perceptual apparatus (What can this organism
-perceive?) and therefore by reconstructing its projected world view (What does
-a stimulus mean for this organism?). In this way, the subject establishes what
-Uexküll calls a "circuit of meaning." The canopy of an oak tree, for example,
-acts in unison with material properties of rain to capture and distribute
-liquid down to the roots of the tree. Capturing and distributing liquid to the
-roots constitutes, in that sense, the "meaning" of the oak-rain circuit. It is
-a peculiar notion of "meaning" to be sure, but for Uexküll it is enough to
-maintain that meaning arises out of the subject's interaction with the
-environment. The subject and object are brought into what Uexküll calls
-harmony:
+(*umwelten*) [See for example @agamben_open_2003, 39-49; @hayles_print_2004,
+16-17]. In his forays, Uexküll imagines a multitude of alien ways of seeing the
+world, from that of a sea urchin to those of a pea weevil and the ichneumon
+wasp. For Uexküll, the task of the biologist is not to encounter such living
+things as unfamiliar machines in the human world, but, rather, to occupy the
+alien life form as another subject. The tick is not a machine, but an "operator
+[@uexkull_foray_2010, 44-53]." Consequent to this point of view is Uexküll's
+insistence on the subjectivity of perceptual experience. The tick carries with
+it its own sense of time and space, which the biologist recovers through the
+description of its perceptual apparatus (What can this organism perceive?) and
+therefore by reconstructing its projected world view (What does a stimulus mean
+for this organism?). In this way, the subject establishes what Uexküll calls a
+"circuit of meaning." The canopy of an oak tree, for example, acts in unison
+with material properties of rain to capture and distribute liquid down to the
+roots of the tree. Capturing and distributing liquid to the roots constitutes,
+in that sense, the "meaning" of the oak-rain circuit. It is a peculiar notion
+of "meaning" to be sure, but for Uexküll it is enough to maintain that meaning
+arises out of the subject's interaction with the environment. The subject and
+object are brought into what Uexküll calls harmony:
 
 > If the flower were not bee-like
 > If the bee were not flower-like
@@ -1164,32 +1164,63 @@ harmony:
 
 Similarly, the pea and the pea weevil achieve harmony through "meaning
 transfer" between the pea and the weevil larvae, which allows the weevil to
-prepare an escape hatch through vegetative matter in advance of its pupation.
+prepare an escape hatch through vegetative matter in advance of its pupation
+[@uexkull_foray_2010, 161]."
 
+The literature of post-humanism privileges these moments of alien subjectivity
+because they destabilize an anthropocentric view of the world. What gets lost
+in the shifting of perspective is the apparent contradiction at the very core
+of what the writer Dorion Sagan (rightly) calls "Gaia sciences
+[@uexkull_foray_2010, 12]"--the idea ascendant in diverse fields from literary
+studies to information theory and free-market economics--which relegate meaning
+creation from the level of the subject to the level of complex system.
+Paradoxically, because Uexküll's model communication makes meaning available
+only at the system level ("oak plus rain" or "bee plus flower" in the cited
+examples), it is never available to the subject itself (bees or flowers). The
+quest for alien semiotics leads only to "mute interaction [@uexkull_foray_2010,
+148]," meaningful only from some vantage point outside of the system. The
+forest always "understands" more than the tree, the planet more than the
+forest, and so on, in a regression that can only conclude with whole-universe
+monism: the One.
 
+In his essay on the subjective experience of bats, Thomas Nagel concludes that
+there must be something about the experience of a bat *for* a bat
+[@nagel_what_1974,439] that is not fully accessible to human description. The
+attempt to describe things in-themselves for-themselves, in that light, seems
+like yet further human hubris. Accepting the meta-human systems-view of meaning
+formation would mean also to acknowledge the limits of the human to comment on
+the proceeding, lest the organ speak for the organism. And to encounter the bat
+(a dog, a tree, a machine) from the perspective of the human is to respect and
+to retain a measure of the other's ineffable alienness. There is a quiet
+humanism in Nagel's suggestion to confine our remarks to objective
+phenomenology, not dependent on the self-deceiving acts of the imagination
+[@nagel_what_1974, 449] (you are not really a bat). "Certainly it appears
+unlikely," Nagel writes, "that we will get closer to the real nature of human
+experience by leaving behind the particularity of our human point of view and
+striving for a description in terms accessible to beings that could not imagine
+what it was like to be us [@nagel_what_1974, 444]."
 
-"the subject controls the time of its environment." Uexküll "bringing the pea
-and the pea weevil into harmony [@uexkull_foray_2010, 161]." "Circuits of
-meaning"
+[^ln1-nagel]: Nagel suggests: "Though presumably it would not
+capture everything, its goal would be to describe, at least in part, the
+subjective character of experiences in a form comprehensible to beings
+incapable of having those experiences [@nagel_what_1974, 449]."
 
-The literature of post-humanism privileges 
+I do not know what a truly objective phenomenology of media would look like,
+but I would like to think that it would lie, at least in part, in their
+material conditions. And I can only advance an equitable description from the
+only perspective available to me. As the humanities move in search of the
+digital, I find that they need to regain a sense of the human. Once found, we
+can begin the work of de-naturalizing comfortable (if calcified) notions of the
+digital. It is in this de-familiarization (in a sense used by Viktor Shklovsky
+and Svetlana Boym) of the human that I see Uexküll's contribution to the study
+of media phenomenology. In seeing the other we see *our* human world anew.
 
-
-"Perceptual worlds" or *umwelt* [@agamben_open_2003, 39-49; @hayles_print_2004,
-16-17]
-
-Estrangement and what Agamben calls disorientation of the reader "obliged to
-look at the most familiar places with non-human eyes [@agamben_open_2003, 45]."
-
-It is a mistake to conflate digital and discrete. It is also a mistake to
-conflate the human with continuous.
-
-Electricity--the "language" of wires--is not a media format intended for human
-consumption. One could learn to understand telegraph intercourse through
-electrocution, by applying the wire directly to the skin.  Direct
-brain-computer interfaces promise to do more or less exactly that and are
-common enough today to be turned into a toy.[^ln-mindflex] The early efforts in
-this space implanted electrodes into the brain directly to capture
+From this perspective, electricity--the "language" of wires--is not a media
+format intended for human consumption. One could learn to understand telegraph
+intercourse through electrocution, by applying the wire directly to the skin.
+Direct brain-computer interfaces promise to do more or less exactly that and
+are common enough today to be turned into a toy.[^ln-mindflex] The early
+efforts in this space implanted electrodes into the brain directly to capture
 single-neuron activity, or relied on imprecise "noisy" electroencephalographic
 (EEG) scalp activity. In 2004 a team of scientists developed a way of
 controlling  "a one-dimensional computer cursor rapidly and accurately" using
@@ -1207,10 +1238,29 @@ However futuristic that possibility may seem to us today, it is merely a small
 evolutionary step in a long history of brain-to-brain interfaces, already
 mediated by paper, ink, code, and silicon.
 
-The digital as something more discrete than human experience. The popular
-imagination of liquid digital. The discreteness approaches the continuous, at
-granular level, out of synchronization with the natural sense of biologically
-human cadence.
+I return then to the subject of time found throughout in the background of this
+chapter. The popular imagination of digital machines belies a deep sense of
+anxiety about the rhythm of the system as a whole, in which a human plays only
+a small part (as an operator or a receiver). Telegraphs and subsequently
+computers seem to force an atomization of experience into discrete bits, along
+with the opposite movement toward continuity fluid and rapid enough as to move
+beyond the boundaries of human perception. Attention to the material conditions
+of removable storage media reveals a delicate negotiation of synchronicity
+between human and machine time, in a complex chain of encoding and re-mediation
+that connects differing perceptual apparatus. Under these conditions, it would
+be a mistake to conflate digital and discrete, just as it would be a mistake
+reduce the human with the continuous. The balance is found at some arbitrary
+point, contingently connected to human biology and technological capability.
+The question of "What constitutes a moment?" when watching television or
+reading a book, can become then, "What *should* constitute a moment?" For the
+tick lying in wait for its next warm meal, the wait can last for decades.
+(Uexküll reports up to 18 years). "Time, which frames all events," Uexküll
+writes, "seemed to us to be the only objectively consistent factor [...], but
+now we see that the subject controls the time of its environment
+[@uexkull_foray_2010, 52]." The environment before us constitutes the grounds
+for all higher level textual activity, from record keeping to poetry and
+software development. From these grounds of human-computer interaction we
+derive poetics as an art that shapes prosody, rhythm, cadence, and meter.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
