@@ -1249,7 +1249,7 @@ of removable storage media reveals a delicate negotiation of synchronicity
 between human and machine time, in a complex chain of encoding and re-mediation
 that connects differing perceptual apparatus. Under these conditions, it would
 be a mistake to conflate digital and discrete, just as it would be a mistake
-reduce the human with the continuous. The balance is found at some arbitrary
+reduce the human to the continuous. The balance is found at some arbitrary
 point, contingently connected to human biology and technological capability.
 The question of "What constitutes a moment?" when watching television or
 reading a book, can become then, "What *should* constitute a moment?" For the
@@ -1259,8 +1259,9 @@ writes, "seemed to us to be the only objectively consistent factor [...], but
 now we see that the subject controls the time of its environment
 [@uexkull_foray_2010, 52]." The environment before us constitutes the grounds
 for all higher level textual activity, from record keeping to poetry and
-software development. From these grounds of human-computer interaction we
-derive poetics as an art that shapes prosody, rhythm, cadence, and meter.
+software development. From the textual grounds of human-machine interaction it
+is possible to derive poetics as a study and an art of creating one's own time:
+prosody, rhythm, cadence, and meter.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
