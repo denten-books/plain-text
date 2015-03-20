@@ -658,7 +658,7 @@ texts, men, and machines. To paraphrase a post-structuralist insight, the
 process of digital interpretation is in itself a type of creativity, forever
 advancing rather than apprehending the lateral movement of thought.
 
-### 1.1.4 Binary Collapse
+### 1.1.4 Binary Collapse of Space and Time
 
 I submit another historical case study. Electrical engineers involved in the
 development of the telegraph at the turn of the 20th century fell into two
@@ -1132,11 +1132,11 @@ operators could no longer decipher the signal without machine assistance. In
 the language of wiremen, the bugs were "running away with" the whole "game
 [@brackbill_telegraphers_1929, 288]."
 
-### 1.1.5 Bug Time
+### 1.1.5 On the Possibility of Alien Phenomenology
 
 I am tempted to believe, like others have before me, that I am on my way to
-enacting something like "machine phenomenology," or "system phenomenology" in a
-system which encompasses people, texts, techniques, and technologies. In such
+enacting something like "machine phenomenology," or "systems phenomenology" in
+a system which encompasses people, texts, techniques, and technologies. In such
 cases, astute readers often reach for Jakob von Uexküll's *A Foray into Worlds
 of Animals and Humans*, to borrow from his notion of perceptual worlds
 (*umwelten*) [See for example @agamben_open_2003, 39-49; @hayles_print_2004,
@@ -1144,18 +1144,19 @@ of Animals and Humans*, to borrow from his notion of perceptual worlds
 world, from that of a sea urchin to those of a pea weevil and the ichneumon
 wasp. For Uexküll, the task of the biologist is not to encounter such living
 things as unfamiliar machines in the human world, but, rather, to occupy the
-alien life form as another subject. The tick is not a machine, but an "operator
-[@uexkull_foray_2010, 44-53]." Consequent to this point of view is Uexküll's
-insistence on the subjectivity of perceptual experience. The tick carries with
-it its own sense of time and space, which the biologist recovers through the
-description of its perceptual apparatus (What can this organism perceive?) and
-therefore by reconstructing its projected world view (What does a stimulus mean
-for this organism?). In this way, the subject establishes what Uexküll calls a
-"circuit of meaning." The canopy of an oak tree, for example, acts in unison
-with material properties of rain to capture and distribute liquid down to the
-roots of the tree. Capturing and distributing liquid to the roots constitutes,
-in that sense, the "meaning" of the oak-rain circuit. It is a peculiar notion
-of "meaning" to be sure, but for Uexküll it is enough to maintain that meaning
+alien life form as another subject. The tick should not be looked at as yet
+another machine, Uexküll writes, but as an "operator [@uexkull_foray_2010,
+44-53]." Consequent to this point of view is Uexküll's insistence on the
+subjectivity of perceptual experience. The tick carries with it its own sense
+of time and space, which the biologist recovers through the description of its
+perceptual apparatus (What can this organism perceive?) and therefore by
+reconstructing its projected world view (What does a stimulus mean for this
+organism?). In this way, the subject establishes what Uexküll calls a "circuit
+of meaning." The canopy of an oak tree, for example, acts in unison with
+material properties of rain to capture and distribute liquid down to the roots
+of the tree. Capturing and distributing liquid to the roots constitutes, in
+that sense, the "meaning" of the oak-rain circuit. It is a peculiar notion of
+"meaning" to be sure, but for Uexküll it is enough to maintain that meaning
 arises out of the subject's interaction with the environment. The subject and
 object are brought into what Uexküll calls harmony:
 
@@ -1170,19 +1171,19 @@ prepare an escape hatch through vegetative matter in advance of its pupation
 
 The literature of post-humanism privileges these moments of alien subjectivity
 because they destabilize an anthropocentric view of the world. What gets lost
-in the shifting of perspective is the apparent contradiction at the very core
+in the shifting of perspectives is the apparent contradiction at the very core
 of what the writer Dorion Sagan (rightly) calls "Gaia sciences
-[@uexkull_foray_2010, 12]"--the idea ascendant in diverse fields from literary
-studies to information theory and free-market economics--which relegate meaning
+[@uexkull_foray_2010, 12]", the idea ascendant in diverse fields from literary
+studies to information theory and free-market economics, relegating meaning
 creation from the level of the subject to the level of complex system.
 Paradoxically, because Uexküll's model communication makes meaning available
-only at the system level ("oak plus rain" or "bee plus flower" in the cited
-examples), it is never available to the subject itself (bees or flowers). The
-quest for alien semiotics leads only to "mute interaction [@uexkull_foray_2010,
-148]," meaningful only from some vantage point outside of the system. The
-forest always "understands" more than the tree, the planet more than the
-forest, and so on, in a regression that can only conclude with whole-universe
-monism: the One.
+only at the system level ("oak plus rain" or "bee plus flower"), it is never
+available to the subject itself (bees or flowers). The quest for alien
+semiotics leads only to, in Uexküll's own words, "mute interaction
+[@uexkull_foray_2010, 148]," meaningful only from some vantage point outside of
+the system. The forest always "understands" more than the tree, the planet more
+than the forest, and so on, in a regression that can only conclude with
+whole-universe monism: the One.
 
 In his essay on the subjective experience of bats, Thomas Nagel concludes that
 there must be something about the experience of a bat *for* a bat
@@ -1190,18 +1191,19 @@ there must be something about the experience of a bat *for* a bat
 attempt to describe things in-themselves for-themselves, in that light, seems
 like yet further human hubris. Accepting the meta-human systems-view of meaning
 formation would mean also to acknowledge the limits of the human to comment on
-the proceeding, lest the organ speak for the organism. And to encounter the bat
-(a dog, a tree, a machine) from the perspective of the human is to respect and
-to retain a measure of the other's ineffable alienness. There is a quiet
+the proceedings, lest the organ speak for the organism. And to encounter the
+bat (a dog, a tree, a machine) from the perspective of the human is to respect
+and to retain a measure of the other's ineffable alienness. There is a quiet
 humanism in Nagel's suggestion to confine our remarks to objective
 phenomenology, not dependent on the self-deceiving acts of the imagination
-[@nagel_what_1974, 449] (you are not really a bat). "Certainly it appears
-unlikely," Nagel writes, "that we will get closer to the real nature of human
-experience by leaving behind the particularity of our human point of view and
-striving for a description in terms accessible to beings that could not imagine
-what it was like to be us [@nagel_what_1974, 444]." Yet, to make the subjective
-experience strange again is to look at it through the eyes of a stranger.
-Makhail Bakhtin writes (in what I think is a previous untranslated passage):
+[@nagel_what_1974, 449]. After all, you are not really a bat or a tick.
+"Certainly it appears unlikely," Nagel writes, "that we will get closer to the
+real nature of human experience by leaving behind the particularity of our
+human point of view and striving for a description in terms accessible to
+beings that could not imagine what it was like to be us [@nagel_what_1974,
+444]." Yet, to make the subjective experience strange again is to look at it
+through the eyes of a stranger. Makhail Bakhtin writes (in what I think is a
+previously untranslated passage):
 
 > It is not I who looks out from the inside, but I look at myself with the eyes
 of the world, strange eyes; I am possessed by another. There is no integrity of
@@ -1228,22 +1230,21 @@ stranger's eyes."
 
 I do not know what a truly objective phenomenology would look like, but I would
 like to think that it would lie, at least in part, in the underling material
-conditions of perceptual media. And I can only advance an equitable description
-from the only perspective available to me. These blueprints and diagrams are
-all we have to understand the ways in which the system affects its
-constituents. Paying attention to the details of the schematics is the only way
-to "dig" ourselves into something like a phenomenology of the system. As the
-humanities move in search of the digital, I find that they need to regain a
-sense of the human. No perspective is available otherwise from which to enact
-an analysis or a critique. Once found, that archimedean point of leverage can
-serve as a starting point for the work of de-naturalizing comfortable (if
-calcified) notions of the digital. It is in this de-familiarization (in a sense
-used by Viktor Shklovsky and Svetlana Boym) of the human that I see Uexküll's
+conditions of perceptual media. And I can advance an equitable description from
+the only perspective available to me. These blueprints and diagrams are all we
+have to understand the ways in which the system affects its constituents.
+Paying attention to the details of the schematics is the only way to "dig"
+ourselves into something like a phenomenology of the system. As the humanities
+move in search of the digital, I find that they need to regain a sense of the
+human. No perspective is available otherwise from which to enact analysis or
+critique. Once found, that archimedean point of leverage can serve as a
+starting point for the work of de-naturalizing comfortable (if calcified)
+notions of the digital. It is in this de-familiarization (in a sense used by
+Viktor Shklovsky and Svetlana Boym) of the human that I see Uexküll's
 contribution to the study of media phenomenology. The human disappears from
 view not by some inevitable property of technological progress, but through
-automation of experience. In refracting ourselves through the gaze of the other
-we see *our* human world anew.
-
+automation of experience. In refracting ourselves through the gaze of the
+technological other we see *our* human world anew.
 
 From this perspective, electricity--the "language" of wires--is not a media
 format intended for human consumption. One could learn to understand telegraph
@@ -1262,7 +1263,7 @@ Research Laboratories in collaboration of Defense Advanced Research Projects
 Agency (DARPA) [^@collinger_collaborative_2014; @prabhakar_how_2015]. Advances
 in brain-computer interfaces suggest also the not-all-too-distant possibility
 of computer-brain interfaces (in a reversal of the direction), completing the
-loop between human and machine.  This may also imply the possibility of
+loop between human and machine. This may also imply the possibility of
 communicating brain-states directly, without the mediation of text or sound.
 However futuristic that possibility may seem to us today, it is merely a small
 evolutionary step in a long history of brain-to-brain interfaces, already
@@ -1273,26 +1274,27 @@ I return then to the subject of time, found throughout in the background of
 this chapter. The popular imagination of digital machines belies a deep sense
 of anxiety about the rhythm of the system as a whole, in which a human plays
 only a small part (as an operator, user, or a receiver). Telegraphs and
-subsequently computers seem to force an atomization of experience into discrete
-bits, along with the opposite movement toward continuity fluid and rapid enough
-as to move beyond the boundaries of human perception. Attention to the material
+subsequently computers force an atomization of experience into discrete bits,
+along with the opposite movement toward continuity fluid and rapid enough as to
+move beyond the boundaries of human perception. Attention to the material
 conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing perceptual apparatus. Under these
 conditions, it would be a mistake to conflate digital and discrete, just as it
 would be a mistake reduce the human to the continuous. Homeostasis is found at
-some arbitrary point, contingently connected to human biology and technological
-capability. The question of "What constitutes a moment?" when watching
-television or reading a book, can become then, "What *should* constitute a
-moment?" For the tick lying in wait for its next warm meal, the wait can last
-for decades (Uexküll reports up to 18 years). "Time, which frames all events,"
-Uexküll writes, "seemed to us to be the only objectively consistent factor
-[...], but now we see that the subject controls the time of its environment
-[@uexkull_foray_2010, 52]." The environment before us constitutes the grounds
-for all higher level textual activity, from record keeping to poetry and
-software development. From the textual grounds of human-machine interaction it
-becomes possible to derive poetics, in the sense of a study and an art of
-creating one's own time: taking control of prosody, rhythm, cadence, and meter.
+some arbitrary point, contingently connected to human biology and to current
+technological capability. The question of "What constitutes a moment?" when
+watching television or reading a book, can become then, "What *should*
+constitute a moment?" For the tick lying in wait for its next warm meal, the
+moment can last for decades (Uexküll reports up to 18 years). "Time, which
+frames all events," Uexküll writes, "seemed to us to be the only objectively
+consistent factor [...], but now we see that the subject controls the time of
+its environment [@uexkull_foray_2010, 52]." The environment before us
+constitutes the grounds for all higher level textual activity, from record
+keeping to poetry and software development. From the textual grounds of
+human-machine interaction it becomes possible to derive poetics, in the sense
+of a study and an art of creating one's own time: taking control of prosody,
+rhythm, cadence, and meter.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
