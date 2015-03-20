@@ -590,7 +590,7 @@ capabilities of the "user" (reader, audience, perceiver) affect the ontological
 status of the system.
 
 The movement from medium to format, radically destabilizes Goodman's original
-insight. Where he begins with physical properties of matter (divisible, or
+insight. Where Goodman begins with physical properties of matter (divisible, or
 indivisible, dense, or continuous), Katz ends with format imposed on matter
 from without: undifferentiated matter like cake is only analog until someone
 cuts it into pieces. Furthermore, the ontological status of cake changes
@@ -657,6 +657,8 @@ they function as a truly digital medium, capable of change affecting further
 texts, men, and machines. To paraphrase a post-structuralist insight, the
 process of digital interpretation is in itself a type of creativity, forever
 advancing rather than apprehending the lateral movement of thought.
+
+### 1.1.4 Binary Collapse
 
 I submit another historical case study. Electrical engineers involved in the
 development of the telegraph at the turn of the 20th century fell into two
@@ -756,10 +758,9 @@ of human experience as essential to the Christian hierarchy of the
 universe.[^ln1-swedenborg] To deny step-wise ordering of "refined media"
 pervading the universe is to close oneself off to the "transmission of
 impressions," in a communication act (consisting of a "contact" and the
-exchange of signifying "thought vehicles") between the sender ("source
-superior") and the "receiver of instructions," placed in a binary opposing
-("negative" but without "resistance") relation to the idea of the divine.
-Digital and divine!
+exchange of signifying "thought vehicles") between "source superior" and the
+"receiver of instructions," placed in a binary opposing ("negative" but without
+"resistance") relation to the idea of the divine.  Digital and divine!
 
 Reverse to the logic of contemporary cultural critique of
 computation,[ln1-golumbia] which, after Kant, associates the atomic view of the
@@ -774,7 +775,7 @@ discrete degree. Consequently they derive life as not from the Lord, but from
 nature, of which they have no other idea than that it is something mechanical
 [^@dole_philosophy_1906].
 
-Neither camp can claim bases in material contexts of media production (or in
+Neither camp can claim a base in material contexts of media production (or in
 cognitive phenomenology). Nothing in the long series of trans-coding and
 trans-mediation gives us reason to ground analog or digital representation as
 somehow more or less essential to the human experience. Representation is fluid
@@ -786,7 +787,7 @@ device.
 It is tempting to think of the telegraph as a digital [*sic*] device, created
 to convert analog [*sic*] input into electric signal.  Much technical
 literature on the subject makes that simplification.[^ln1-tele] The mechanics
-of the Pollak-Virag telegraph paint a more complicated picture, one that
+of the Pollak-Virag telegraph paint a more complicated picture--one that
 involves multiple shifts and transformations. On some level, language, already
 a discrete and portable representation of mental states, which in themselves
 stand in a complicated and fragmentary relationship to sensory phenomena,
@@ -826,17 +827,18 @@ formats, although it frequently does, as when language on paper is transformed
 into the pulsations of the electrical signal in Morse code. In reading and
 playing music, a musician furthermore transforms musical notation--a
 controlled, paper-bound vocabulary--into sound representation, the movement of
-molecules unlimited in its expressive potential. The blueprints for the writing
-telegraph reveal a device that mixes discrete and continuous modes of
-representation, through multiple acts of trans-coding and trans-mediation.
-Digitality, in that sense, is besides the point. The telegraph is a device that
-pushes language, normally bound to air (as speech) and paper (as a writing
-system), through water and metal. Even today, deep beneath the sea surface,
-telegraph lines ferry messages from continent to continent. And at each end of
-the telegraph cable is a transmediation device that makes media transference
-possible. I use the word "media" here in the bluntest way possible, as
-"material basis" or "substratum" for some observed, higher-order phenomenon (in
-our case, communication).
+molecules unlimited in its expressive potential.
+
+The blueprints for the writing telegraph reveal a device that mixes discrete
+and continuous modes of representation, through multiple acts of trans-coding
+and trans-mediation. Digitality, in that sense, is besides the point. The
+telegraph is a device that pushes language, normally bound to air (as speech)
+and paper (as a writing system), through water and metal. Even today, deep
+beneath the sea surface, telegraph lines ferry messages from continent to
+continent. And at each end of the telegraph cable is a transmediation device
+that makes media transference possible. I use the word "media" here in the
+bluntest way possible, as "material basis" or "substratum" for some observed,
+higher-order phenomenon (in our case, communication).
 
 [^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
 "systematic logic in the dominant cultural technique," representative of the
@@ -878,11 +880,9 @@ otherwise-smooth details, among details, to push upwards towards the sovereign,
 to make only high-level control available to the user and then only those
 aspects of control that are deemed appropriate to the sovereign (loc. 159)."
 
-[^ln1-kant]:
+[^ln1-kant]: 
 
-### 1.1.4 Binary Collapse of Space
-
-As information was compressed and pushed through the wires, it would undergo a
+As information was compressed and pushed through the wires, it underwent a
 number of transformations. Donald Murray, the inventor of the Murray alphabet,
 conceived of that transformation in terms of movement from space to time.
 Unfolding something like the "metaphysics of telegraph signalling alphabets"
@@ -923,9 +923,9 @@ and a rotating drum, commonly using in music boxes. The sending device struck a
 tone, which, when transmitted by electrical current, would initiate the
 rotation of a similar drum in the receiving apparatus "at the pleasure of the
 distant operator," in Hughes's words. The length of time between the initial
-synchronization signal and the struck chord would correspond to a letter, which
-the machine would then print to tape using a letter wheel. Hughes referred to
-the device as a "Compound Magnetic and Vibrating Printing Instrument
+synchronization signal and the struck chord corresponded to a letter, which the
+machine then printed to tape using a letter wheel. Hughes referred to the
+device as a "Compound Magnetic and Vibrating Printing Instrument
 [@noll_evolution_2007, 20-21; @hayles_print_2004, 145-147;
 @hughes_improvement_1856]," in a name that already hints at the fragility of
 the device.
@@ -1031,25 +1031,26 @@ report of Muskets, an any instruments of like nature [^@bacon_advancement_1987,
 266].
 
 Although the discovery of binary arithmetic rightly belongs to Gottfried
-Leibniz, who, influenced by the *I Ching* hexagrams, articulated his own system
-in his *Explication de l'Arithmétique Binaire* (written in 1679 and published
-in 1703),[^@leibnitz_explication_1703] Bacon should take the credit for
-articulating a system for fixed-length binary encoding. His "two-fold
+Leibniz, who, influenced by hexagrams in the *I Ching*, articulated his own
+system in his *Explication de l'Arithmétique Binaire* (written in 1679 and
+published in 1703),[^@leibnitz_explication_1703] Bacon should take the credit
+for articulating a system for fixed-length binary encoding. His "two-fold
 difference" did have the effect of enabling humans to "express and signify"
 thoughts at "any distance and place." The fixed length-property of Bacon's
 cipher, later implemented in the five-bit Baudot code, signaled the beginning
 of the modern era of serial communications [^@jennings_annotated_2004]. Baudot
 and the related Murray alphabets[^ln-murray] were designed specifically with
-automation in mind. Both being a fixed-length alphabet, the Baudot did away
-with the "unison" signal that separated letters in Morse, since the signals
-could be divided into letters by count (every five codes representing a single
-character). Additionally, the Murray code was by far more compact than Morse
-and especially more economical than Hughes, which used up to 54 measures of
-silence to send a signal representing double quotes.[^ln-zero] The signal for
-"zero" in Morse code took up 22 measures. By contrast, all Baudot and Murray
-characters were a mere 5 units in length, with the maximum of ten used to
-switch the receiving device into the figure or capital letter states (for the
-total of 10 units) [^@murray_setting_1905; @beauchamp_history_2001 380-397].
+automation in mind. Both being fixed-length alphabets, the Baudot in particular
+did away with the "unison" signal that separated letters in Morse, since the
+signals could be divided into letters by count (every five codes representing a
+single character). Additionally, the Murray code was by far more compact than
+Morse and especially more economical than Hughes, which used up to 54 measures
+of silence to send a signal representing double quotes.[^ln-zero] The signal
+for "zero" in Morse code took up 22 measures. By contrast, all Baudot and
+Murray characters were a mere 5 units in length, with the maximum of ten used
+to switch the receiving device into the figure or capital letter states (for
+the total of 10 units) [^@murray_setting_1905; @beauchamp_history_2001
+380-397].
 
 ![](images/murray-keyboard.png "Murray Keyboard Perforator, 1905. Note the
 QWERTY arrangement of the keys. @murray_setting_1905."
@@ -1071,11 +1072,9 @@ decouple the real-time encoding of text into code from the operation of the
 machine. A tape containing the message could be prepared in advance, fed into
 the telegraph, and printed in human-legible form on the receiving end.
 
-### 1.1.5 Bug Time
-
 Several engineering solutions emerged to transcend the limits of human
-information processing. The automated telegraph decoupled encoding from
-transmission. It then became possible to prepare messages in advance, in
+information processing. The automated printing telegraph decoupled encoding
+from transmission. It then became possible to prepare messages in advance, in
 volume, and to run the messages through a machine without human assistance. At
 that point, telegraph diverged from the telephone to became a device of
 asynchronous communication, displacing the act of communication in time as it
@@ -1100,10 +1099,10 @@ silences, which could be condensed to extract more utility from the channel.
 Baudot-type multiplexers made use of synchronized rotating mechanisms both of
 the sending and the receiving end, to distribute units of time among multiple
 operators. The figure bellow shows a scheme for a duplex printing telegraph. A
-single rotation of the synchronization device is thereby divided into two units
-of five segments each, each corresponding to a distinct channel of
-communication. Two operators could therefore share the same channel to transmit
-two different messages.
+single rotation of the synchronization device (known as the "distributor") is
+thereby divided into two units of five segments each, each corresponding to a
+distinct channel of communication. Two operators could therefore share the same
+channel to transmit two different messages.
 
 ![](images/multiplex.png "Multiple Printing Telegraph, 1905.
 @murray_setting_1905."
@@ -1132,6 +1131,8 @@ beyond natural human abilities of comprehension, to a point where human
 operators could no longer decipher the signal without machine assistance. In
 the language of wiremen, the bugs were "running away with" the whole "game
 [@brackbill_telegraphers_1929, 288]."
+
+### 1.1.5 Bug Time
 
 I am tempted to believe, like others have before me, that I am on my way to
 enacting something like "machine phenomenology," or "system phenomenology" in a
@@ -1163,7 +1164,7 @@ object are brought into what Uexküll calls harmony:
 > The harmony would never succeed [@uexkull_foray_2010, 198).
 
 Similarly, the pea and the pea weevil achieve harmony through "meaning
-transfer" between the pea and the weevil larvae, which allows the weevil to
+transfer" between the pea and the weevil larvae, which allows the larvae to
 prepare an escape hatch through vegetative matter in advance of its pupation
 [@uexkull_foray_2010, 161]."
 
@@ -1205,15 +1206,25 @@ capture everything, its goal would be to describe, at least in part, the
 subjective character of experiences in a form comprehensible to beings
 incapable of having those experiences [@nagel_what_1974, 449]."
 
-I do not know what a truly objective phenomenology of media would look like,
-but I would like to think that it would lie, at least in part, in their
-material conditions. And I can only advance an equitable description from the
-only perspective available to me. As the humanities move in search of the
-digital, I find that they need to regain a sense of the human. Once found, we
-can begin the work of de-naturalizing comfortable (if calcified) notions of the
-digital. It is in this de-familiarization (in a sense used by Viktor Shklovsky
-and Svetlana Boym) of the human that I see Uexküll's contribution to the study
-of media phenomenology. In seeing the other we see *our* human world anew.
+I do not know what a truly objective phenomenology of medium would look like,
+but I would like to think that it would lie, at least in part, in its material
+condition. And I can only advance an equitable description from the only
+perspective available to me. These blueprints and diagrams are all we have to
+understand the ways in which the system affects its constituents. Paying
+attention to the details of the schematics is the only way to "dig" ourselves
+into something like a phenomenology of the system. As the humanities move in
+search of the digital, I find that they need to regain a sense of the human. No
+perspective is available otherwise from which to enact an analysis or a
+critique. Once found, that archimedean point of leverage can serve as a
+starting point for the work of de-naturalizing comfortable (if calcified)
+notions of the digital. It is in this de-familiarization (in a sense used by
+Viktor Shklovsky and Svetlana Boym) of the human that I see Uexküll's
+contribution to the study of media phenomenology. The human disappears from
+view not by some inevitable property of technological progress, but
+through automation of experience. In refracting ourselves through the gaze of
+the other we see *our* human world anew.
+
+Bakhtin.
 
 From this perspective, electricity--the "language" of wires--is not a media
 format intended for human consumption. One could learn to understand telegraph
@@ -1236,32 +1247,33 @@ loop between human and machine.  This may also imply the possibility of
 communicating brain-states directly, without the mediation of text or sound.
 However futuristic that possibility may seem to us today, it is merely a small
 evolutionary step in a long history of brain-to-brain interfaces, already
-mediated by paper, ink, code, and silicon.
+mediated by paper, ink, code, and silicon. The digital world of paper and ink
+holds no less magic.
 
-I return then to the subject of time found throughout in the background of this
-chapter. The popular imagination of digital machines belies a deep sense of
-anxiety about the rhythm of the system as a whole, in which a human plays only
-a small part (as an operator or a receiver). Telegraphs and subsequently
-computers seem to force an atomization of experience into discrete bits, along
-with the opposite movement toward continuity fluid and rapid enough as to move
-beyond the boundaries of human perception. Attention to the material conditions
-of removable storage media reveals a delicate negotiation of synchronicity
-between human and machine time, in a complex chain of encoding and re-mediation
-that connects differing perceptual apparatus. Under these conditions, it would
-be a mistake to conflate digital and discrete, just as it would be a mistake
-reduce the human to the continuous. The balance is found at some arbitrary
-point, contingently connected to human biology and technological capability.
-The question of "What constitutes a moment?" when watching television or
-reading a book, can become then, "What *should* constitute a moment?" For the
-tick lying in wait for its next warm meal, the wait can last for decades.
-(Uexküll reports up to 18 years). "Time, which frames all events," Uexküll
-writes, "seemed to us to be the only objectively consistent factor [...], but
-now we see that the subject controls the time of its environment
+I return then to the subject of time, found throughout in the background of
+this chapter. The popular imagination of digital machines belies a deep sense
+of anxiety about the rhythm of the system as a whole, in which a human plays
+only a small part (as an operator, user, or a receiver). Telegraphs and
+subsequently computers seem to force an atomization of experience into discrete
+bits, along with the opposite movement toward continuity fluid and rapid enough
+as to move beyond the boundaries of human perception. Attention to the material
+conditions of removable storage media reveals a delicate negotiation of
+synchronicity between human and machine time, in a complex chain of encoding
+and re-mediation that connects differing perceptual apparatus. Under these
+conditions, it would be a mistake to conflate digital and discrete, just as it
+would be a mistake reduce the human to the continuous. Homeostasis is found at
+some arbitrary point, contingently connected to human biology and technological
+capability. The question of "What constitutes a moment?" when watching
+television or reading a book, can become then, "What *should* constitute a
+moment?" For the tick lying in wait for its next warm meal, the wait can last
+for decades (Uexküll reports up to 18 years). "Time, which frames all events,"
+Uexküll writes, "seemed to us to be the only objectively consistent factor
+[...], but now we see that the subject controls the time of its environment
 [@uexkull_foray_2010, 52]." The environment before us constitutes the grounds
 for all higher level textual activity, from record keeping to poetry and
 software development. From the textual grounds of human-machine interaction it
-is possible to derive poetics as a study and an art of creating one's own time:
-prosody, rhythm, cadence, and meter.
+becomes possible to derive poetics, in the sense of a study and an art of
+creating one's own time: taking control of prosody, rhythm, cadence, and meter.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
