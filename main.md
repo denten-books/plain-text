@@ -1199,32 +1199,51 @@ phenomenology, not dependent on the self-deceiving acts of the imagination
 unlikely," Nagel writes, "that we will get closer to the real nature of human
 experience by leaving behind the particularity of our human point of view and
 striving for a description in terms accessible to beings that could not imagine
-what it was like to be us [@nagel_what_1974, 444]."
+what it was like to be us [@nagel_what_1974, 444]." Yet, to make the subjective
+experience strange again is to look at it through the eyes of a stranger.
+Makhail Bakhtin writes (in what I think is a previous untranslated passage):
+
+> It is not I who looks out from the inside, but I look at myself with the eyes
+of the world, strange eyes; I am possessed by another. There is no integrity of
+internal and external here. To glimpse my own preocular image. The naive
+confluence of self and the other in the mirror image. The surplus of the other.
+There is no point of view outside of myself; I cannot access my own internal
+image. From my eyes stare a stranger's eyes [@"The Man by the Mirror," Mikhail
+Bakhtin]
 
 [^ln1-nagel]: Nagel suggests: "Though presumably it would not
 capture everything, its goal would be to describe, at least in part, the
 subjective character of experiences in a form comprehensible to beings
 incapable of having those experiences [@nagel_what_1974, 449]."
 
-I do not know what a truly objective phenomenology of medium would look like,
-but I would like to think that it would lie, at least in part, in its material
-condition. And I can only advance an equitable description from the only
-perspective available to me. These blueprints and diagrams are all we have to
-understand the ways in which the system affects its constituents. Paying
-attention to the details of the schematics is the only way to "dig" ourselves
-into something like a phenomenology of the system. As the humanities move in
-search of the digital, I find that they need to regain a sense of the human. No
-perspective is available otherwise from which to enact an analysis or a
-critique. Once found, that archimedean point of leverage can serve as a
-starting point for the work of de-naturalizing comfortable (if calcified)
-notions of the digital. It is in this de-familiarization (in a sense used by
-Viktor Shklovsky and Svetlana Boym) of the human that I see Uexküll's
-contribution to the study of media phenomenology. The human disappears from
-view not by some inevitable property of technological progress, but
-through automation of experience. In refracting ourselves through the gaze of
-the other we see *our* human world anew.
+[^ln1-bakhtin]: I reproduce the passage here it its entirety: "Falsehood and
+deception, unavoidably peering out of their own correlation. The external image
+of thought, feeling, the external image of the soul. It is not I who looks out
+from the inside, but I look at myself with the eyes of the world, strange eyes;
+I am possessed by another. There is no integrity of internal and external here.
+To glimpse my own preocular image. The naive confluence of self and the other
+in the mirror image. The surplus of the other. There is no point of view
+outside of myself; I cannot access my own internal image. From my eyes stare a
+stranger's eyes."
 
-Bakhtin.
+I do not know what a truly objective phenomenology would look like, but I would
+like to think that it would lie, at least in part, in the underling material
+conditions of perceptual media. And I can only advance an equitable description
+from the only perspective available to me. These blueprints and diagrams are
+all we have to understand the ways in which the system affects its
+constituents. Paying attention to the details of the schematics is the only way
+to "dig" ourselves into something like a phenomenology of the system. As the
+humanities move in search of the digital, I find that they need to regain a
+sense of the human. No perspective is available otherwise from which to enact
+an analysis or a critique. Once found, that archimedean point of leverage can
+serve as a starting point for the work of de-naturalizing comfortable (if
+calcified) notions of the digital. It is in this de-familiarization (in a sense
+used by Viktor Shklovsky and Svetlana Boym) of the human that I see Uexküll's
+contribution to the study of media phenomenology. The human disappears from
+view not by some inevitable property of technological progress, but through
+automation of experience. In refracting ourselves through the gaze of the other
+we see *our* human world anew.
+
 
 From this perspective, electricity--the "language" of wires--is not a media
 format intended for human consumption. One could learn to understand telegraph
