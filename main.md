@@ -4,7 +4,7 @@ author: "Dennis Tenen"
 
 ---
 
-# Introduction
+## Chapter 0: Introduction
 
 Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
 American Philosophical Society*, Frank Halstead notes that "it is hard to say
@@ -72,7 +72,7 @@ question that will remain unresolved, at least until the later chapters, when
 we have the chance to discuss notions of data and information as
 meaning-carrying units.
 
-## Theory & Method
+### Theory & Method
 
 The idea that "meaning" is always in some sense "operational meaning" is a
 proposition implicit in several related philosophical traditions. The first of
@@ -260,9 +260,8 @@ divisions of labor between "knowledge workers," "content producers,"
 typesetting sweatshops, and international conglomerates that control vectors of
 literary distribution.
 
-# Part 1: Text
 
-## Chapter 1.1: We Have Always Been Digital
+## Chapter 1: We Have Always Been Digital
 `digital, analog, binary, encoding, mediation`
 
 ### 1.1.1 Digital Clichés
@@ -1346,7 +1345,7 @@ wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
 
-## Chapter 1.2: Phenomenology of a Photocopier
+## Chapter 2: Phenomenology of a Photocopier
 `content, matter, form`
 
 ### 1.3.1 Shaping Text
@@ -2181,7 +2180,7 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 
-## Chapter 1.3: Literature Down to the Pixel
+## Chapter 3: Literature Down to the Pixel
 `literature, content, control`
 
 ### 1.2.1 Hidden Values
@@ -2917,10 +2916,9 @@ internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
-# Part 2: Technology
 
-## 2.1 The Medium is not the Message
-`medium, message, mode`
+## Chapter 4: The Medium is not the Message
+`medium, message, mode, information`
 
 ### Intro
 What happens in the change from speaking to writing? The violin (copy from
@@ -3041,7 +3039,7 @@ on our society, and that despite whatever effects literacy may have on our
 case, an artificial construct, tied to one's willingness to engage in nostalgic
 reverie about an idyllic state of unadulterated past.
 
-## 2.2 Freedom of Information
+## Chapter 5: Freedom of Information
 `noise, information, data, entropy`
 
 Bohn consumer report on data vs. information..  Doctorow. Information "wants to
@@ -3092,7 +3090,7 @@ http://arxiv.org/abs/1405.5563
  
 
 
-## 2.3 Bad Links
+## Chapter 6: Bad Links
 `network, intertext, hypertext, symbolic links`
 
 ### Processing Words (Engelbart)
@@ -3299,9 +3297,7 @@ between usability, transparency, and good knowledge design.
 1:
 http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 
-# Part 3: People
-
-## 3.1 Recursive Encounters with Oneself
+## Chapter 7: Recursive Encounters with Oneself
 `document, vector, archive`
 
 We often think of literary works as completed products. *To the Lighthouse,*
@@ -4168,7 +4164,7 @@ self-identity.
 ### Extended cognition
 
 
-## 3.2 Shared Knowledge
+## Chapter 8: Shared Knowledge
 `author, citation`
 
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
@@ -4224,7 +4220,7 @@ constitutionally protected as free speech.
 
 ### Identity Anonymous authorship.  
 
-## 3.3 Engineering for Dissent
+## Chapter 9: Engineering for Dissent
 
 Encrypted literature. Revealment and dissimulation. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
@@ -4252,34 +4248,34 @@ Deeper metaphysical dread about computation, that should be understood
 historically (where Lennon gets it right). You are not a gadget.
 
 
-# Tech Appendix
+## Tech Appendix
 
-## Prepare How to run the terminal. What is it. And why?  Intro to POSIX
+### Prepare How to run the terminal. What is it. And why?  Intro to POSIX
 
-## 1.1 Encoding Commands: pwd, ls, cd, cat, wc
+### 1.1 Encoding Commands: pwd, ls, cd, cat, wc
 
 Where am I? `pwd`, `ls`, `cd` Bits, bytes, and characters: `wc`
  
-## 1.2 Processing Commands: grep, awk, sed Hunting the whale.  ## 1.3 Recursive
+### 1.2 Processing Commands: grep, awk, sed Hunting the whale.  ## 1.3 Recursive
 Encounters Vectors. SCP. 
 
-## 1.3 Digital
+### 1.3 Digital
 `cat`
 `xxd`
 
-## 2.1 Medium and Message Fuzzing.
+### 2.1 Medium and Message Fuzzing.
 
-## 2.2 Freedom of Information
+### 2.2 Freedom of Information
 
-## 2.3 Digital
+### 2.3 Digital
 
-# Odds and Ends
+## Odds and Ends
 
-## Infinity
+### Infinithhy
 See also @siegert_cacography_2011: "The step leading to from an analog, infinite set of signals to a finite and
 limitable set of selectible signals." Also Max Bense, Information Aesthetics.
 
-## Text
+### Text
 
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
 and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
@@ -4291,9 +4287,11 @@ for resemblance between documents"
 
 Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
-## Dysfunction by Data Data.
+### Dysfunction by Data Data.
 
-### Scratch Collector Metadata k Code and comments. Collector of chair or
+### Scratch Collector 
+
+Metadata k Code and comments. Collector of chair or
 collector of scratches. Object oriented ontology. Object oriented languages.
 Competing paradigms: separation of code and data. No separation (Haskell).  ##
 Form and Content in legal thought
@@ -4346,7 +4344,7 @@ provided.
 The legal system "encodes" ideas of form and content. What is design? Confusion
 in for Plato as well.
 
-## Some old intro Too often anxiety about algorithmic thinking, data, and
+### Some old intro Too often anxiety about algorithmic thinking, data, and
 digitization is fueled by simplistic and downright misguided ideas about the
 underlying technologies. Part I of this book is dedicated to building a
 critical vocabulary that goes hand-in-hand with digital literacy. Those with an
@@ -4386,13 +4384,17 @@ new era of mass surveillance and centralized control depends crucially on which
 of these two models of computing prevails.
 
 
-## Security, access Security, privacy. Surveillance. Openness. Secrecy. Part of
+### Security, 
+
+access Security, privacy. Surveillance. Openness. Secrecy. Part of
 the same coin. Crypto vs. open source movement.  Commands: crypto, pgp, chmod,
 groups, file permissions
 
 Authorship is better thought of as access. How that is codified. Groups.
 
-## Networking Key terms: internet, rhizome, web, network, infrastructure,
+### Networking 
+
+Key terms: internet, rhizome, web, network, infrastructure,
 hardware, and software.  ping, traceroute, the terminal way: multiple users.
 personal vs. central computers
 

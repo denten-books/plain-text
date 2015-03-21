@@ -299,7 +299,7 @@ genealogy of computing, contrary to the widely accepted notions of computer as
 a device for reductive "mathesis" (in the words of Johanna Drucker). I conclude
 to argue that Turing machines were anticipated not just by the Babbage
 calculator, but in a series of advances in communications, word processing, and
-media storage.  A notion of text (as opposed to number) is hence "baked into"
+media storage. A notion of text (as opposed to number) is hence "baked into"
 the system.
 
 ## Chapter 4: Media are Not the Message
@@ -326,36 +326,53 @@ conscious beings.
 
 ## Chapter 5: Recursive Encounters with Oneself
 
-Understanding the document as a vector. The problem of drafts and versions.
-What is being transmitted through the vector? The appointment with one self:
-Beckett and Sartre. Pipes and I/O serialization. What does it mean to "know"
-something? Extended cognition. Pen, typewriter, and word processor (with
-detours to Kittler and Heidegger). Writing together.  Models of co-authorship
-(and why we should pay attention).  The massively multi-authored online novel
-(*Wu Ming* and *Lo zar non è morto*).
+This chapter begins with close-reading of Beckett's *Krapp's Last Tape*,
+positing magnetic storage media as the "media being" of the play's title
+character. Krapp helps to unfold the problematic of documents: not as passive
+completed texts, but as vectors that mutate and move through time and space.
+Documents, as argue here, constitute a "platform" for media being. Pushing off
+the communication model described in the last chapter, I ask: What is being
+communicated? And answer: It is the subject. The chapter ends with an
+explication of Sartre's idea of an "appointment with oneself," which I take to
+happen at the document level, through a series of encounters with one's own
+external manifestations of consciousness (i.e. tape and other portable storage
+media).
 
 ## Chapter 6: Bad Links
 
-In this chapter I would like to triangulate between (1) structuralist notions
-of literary intertextuality, (2) the promises and failures of hyper-textuality
-in the 1990s, and (3) contemporary paradigms in network analysis. In each of
-these historically distinct theoretical moments, I find a similar promise of
-emergence: the idea that a pattern or design can appear spontaneously as the
-result of simple interactions on the level of the system. Once again, I would
-like to argue against the systems view generally, and in literary studies in
-particular. In examining the heavily hyper-linked and intertextual art of Gwern,
-a mysterious "researcher, self-experimenter, and writer" I contrast the
-structure of links to that of lists. A discussion on "linked lists" in computer
-science leads to the conclusion that deals with the aesthetics of code and the
-role of the individual in relation to the assemblage.
+Where do the document vectors lead? In this chapter I would like to triangulate
+between (1) structuralist notions of literary intertextuality, (2) the promises
+and failures of hyper-textuality in the 1990s, and (3) contemporary paradigms
+in network analysis. In each of these historically distinct theoretical
+moments, I find a similar promise of emergence: the idea that order can appear
+spontaneously as the result of simple interactions on the level of the system.
+Once again, I would like to argue against the systems view generally, and in
+literary studies in particular. In examining the heavily hyper-linked and
+intertextual art of Gwern, a mysterious "researcher, self-experimenter, and
+writer" I contrast the structure of links to that of lists. A discussion on
+"linked lists" in computer science leads to the conclusion that deals with the
+aesthetics of code and the role of the individual in relation to the
+assemblage.
 
 ## Chapter 7: Engineering for Dissent
 
-Encrypted literature. Revealment and dissimulation. Notions of textuality as
-embroiled in contemporary ideas of privacy, secrecy, and transparency.
-Computation does not necessarily work for the military-industrial apparatus (as
-argued by Golumbia, Lennon, and McPherson). Recovering and preserving
-textuality in computing.
+In this final chapter, I argue for the recovery and the preservation of plain
+textuality in the day-to-day practice of modern computing. Returning to the
+history of the `.txt` file format, I find that early documents from the
+International Telecommunication Union (and later international bodies governing
+the exchange of information across state borders) display unease with
+encrypted, non-human-readable formats of information exchange. A theoretical
+treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
+Golumbia leads to a concluding discussion about the subject's role in actively
+shaping the material conditions of media being. As documents reflecting
+externalized states of consciousness become increasingly more transparent, they
+are more susceptible to surveillance and control. Plain text allows political
+subjects to decouple externalized (but still private) mental states from
+mechanisms of governance. This affordance is not however a deterministic
+property of literature, the internet, or any other information exchange system.
+Rather, the design of complex systems must itself become a critical practice,
+which, in a complement to critical theory, actively engineers for mechanisms of
+individual dissidence.
 
 ## Tech Appendix
 
@@ -366,19 +383,18 @@ chapter in the command line, to create an "augmented reading environment."
 
 The book bears a resemblance to the dissertation in the subtitle only. Several
 paragraphs from the embargoed dissertation did make it into *Plain Text* in an
-ad-hoc manner, but the book as a whole represents a completely new
-framework and a new direction in my thinking about the subject. The bulk of the
+ad-hoc manner, but the book as a whole represents a completely new framework
+and a new direction in my thinking about the subject. The bulk of the
 re-written dissertation made it into another project, called *Algorithmic
-Imagination*, to be completed in the winter of 2015/16.
+Imagination*, under consideration elsewhere.
 
 # Schedule to Completion
 
-As of today, the manuscript stands at 40k words. During the academic year, I
-average around 250 words per day, a number that more than quadruples when freed
-from teaching obligations.[^ln-progress] Assuming a manuscript of around 80k
-words, a conservative estimate of my schedule would place the final draft
-somewhere towards the middle of summer, 2015.
-
-[^ln-progress]: I wrote a word-counter that beacons my progress online at
-[xpmethod.plaintext.in/minimal-computing/plaintext.html](http://xpmethod.plaintext.in/minimal-computing/plaintext.html).
-
+The research for this book was enabled by a year-long fellowship at the Berkman
+Center for Internet and Society. Consequent to the research phase, I taught
+multiple classes on the subject, which helped refine my thinking and provided
+further raw material. As of today, the manuscript stands at roughly 50k words,
+with three chapters close to completion. I am writing actively and plan to
+have a first draft of the manuscript ready by June-July of 2015. I am on leave
+next academic year and have cleared my schedule to dedicate it to seeing this
+project through to publication.
