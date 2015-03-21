@@ -71,11 +71,11 @@ Interfaces* in 2014.
 My work differs from these volumes in that it is both more philosophical
 (rather than strictly "theoretical") and more grounded in the fields of
 software an electrical engineering. To give you an example of what I mean,
-consider my first chapter, "Phenomenology of a Photocopier." It begins with the
+consider my third chapter, "Phenomenology of a Photocopier." It begins with the
 discussion of the Hegelian distinction between "form" and "content," ending
 with a case study from the history of word processing, in a technical
 explanation of the way "content" and "form" are encoded into modern HTML and
-Markdown documents. Similarly, my third chapter, "We Have Always Been Digital,"
+Markdown documents. Similarly, my first chapter, "We Have Always Been Digital,"
 begins with a discussion of "digital representation" as philosophers Nelson
 Goodman and John Haugeland define it in the analytic tradition. I proceed by
 testing their intuitions on the basis of something called the "Soap Opera
@@ -85,11 +85,11 @@ resulting analysis clarifies the various (and often conflicting) meanings of
 the word "digital" in Media Studies and in the Digital Humanities.
 
 Complimentary to both of these fields, I prefer to describe my work as
-"computational culture studies," understood in two ways: first as the
-study of "computational culture," and, second, as computational approaches to
-"culture studies." *Plain Text* falls firmly into the first category, with some
-elements of the book edging on light computational methods (particularly if you
-consider the proposed digital companion, discussed shortly).
+"computational culture studies," understood in two ways: first as the study of
+"computational culture," and, second, as computational approaches to "culture
+studies." *Plain Text* falls firmly into the first category, with some elements
+of the book edging on light computational methods (particularly if you consider
+the proposed digital companion, discussed shortly).
 
 Although I do not mean to engage in the debate on disciplinary formation, it is
 important for me to insist on the reciprocal motion between the constituent
@@ -135,18 +135,19 @@ Journalists* (Summer 2014), attract a diverse body of students from multiple
 disciplines (and particularly from departments of English, History, and
 Computer Science). I lecture widely in language departments, in schools of
 engineering, in front of publishers, architects, artists, and librarians. As
-a founder of Columbia's Group for Experimental Methods in the Humanities,
-I believe in critical engagement with technology and in exposing my students to
-real-world problems. My group has ran workshops on online security for
-activists; we are teaching digital literacy at Rikers Island; and we have
-reached out to an online community of engineers to help us write media history
-as a project in "citizen humanities."[^ln-xp] In the fall of 2014, the group's
-activity became the basis for Columbia's capital fund raising efforts around
-digital humanities, in the form of a proposal for the Center of Culture and
-Computation. The proposal was met with wide approval from the university deans,
-the provost, and the president. In January 2015, the group was encouraged to
-apply for the presidential "global innovation" fund to organize workshops on
-"digital justice" in Beijing, Mumbai, and in Amman, Jordan.
+one of the founders of Columbia's Group for Experimental Methods in the
+Humanities, I believe in critical engagement with technology and in exposing my
+students to real-world problems. My group has organized workshops on online
+security for activists; we have reached out to an online community of engineers
+to help us write media history as a project in citizen humanities; and we have
+plans in place to teach digital literacy at Rikers Island.[^ln-xp] In the fall
+of 2014, the group's activity became the basis for Columbia's capital fund
+raising efforts around digital humanities, in the form of a proposal for the
+Center of Culture and Computation. The proposal was met with wide approval from
+the university deans, the provost, and the president. In January 2015, the
+group was encouraged to apply for the presidential "global innovation" fund to
+organize workshops on "digital justice" in Beijing, Mumbai, and in Amman,
+Jordan.
 
 I am inspired in these endeavors by my colleagues at Columbia English and at
 Harvard's Berkman Center for Internet and Society, where I am an active faculty
@@ -193,9 +194,9 @@ from Andrew W. Mellon Foundation to support Experimental Humanities.
 # Length and Format
 
 I am writing the book as a traditional volume, expounding a sustained thesis
-across nine chapters. I tend to write concisely--a style that complements the
-subject matter. At this point, I am aiming for a manuscript of around 80-120k
-words, which would allot around 10k words per chapter.
+across seven chapters. I tend to write concisely--a style that complements the
+subject matter. At this point, I am aiming for a manuscript of around 80-90k
+words, which would allot around 10-15k words per chapter.
 
 Although, ostensibly, a work on the history and philosophy of computational
 culture, the book argues for the advancement of theory through practice. In
@@ -205,7 +206,7 @@ thing, for example, to maintain that "the media is the message," and quite
 another to ask how different modalities like sound, image, and video are
 encoded on level of the operating system (Chapter 4). Similarly, the difference
 between binary and plain-text formats can be best explored by peeking "under
-the hood" of an Adobe Acrobat file (as I do in Chapter 3).
+the hood" of an Adobe Acrobat file (as I do in Chapter 1).
 
 Although not required for the understanding of the book, I would like to
 include a supplementary appendix that expands on the theoretical insight from
@@ -240,52 +241,11 @@ with the preparation of the manuscript.
 
 # Annotated Table of Contents
 
-## Part I: Text
+## Chapter 1: We Have Always Been Digital
 
-The first three chapters constitute a part of the book concerned with
-textuality itself, building the vocabulary necessary for a discussion of
-textual technology in Part II and the resulting social structures in Part III
-of the book.
-
-### Chapter 1: Phenomenology of a Photocopier
-
-The chapter deals with the confused history of the distinction between form and
-content. I find that going back to Plato and Hegel, "form" is at times used to
-indicate physical structure, and, at other times, to indicate immaterial
-categories in the ideal realm. A critical treatment of a more contemporary
-conversation on "surface" and "depth" of meaning reveals form as a mediating
-concept between thought and matter. A case study in extreme surface reading, in
-the bowls of a photocopier, opens the way to the distinction between print
-(where matter, form, and content are literally fused) and screen (where the
-three layers come apart, providing only the illusion of flattened textuality).
-
-### Chapter 2: Literature Down to the Pixel
-
-The second chapter, "Literature Down to the Pixel," begins the work of moving
-from "high level" concepts like "text" and "literature" down to their atomic,
-constituent elements like fonts and the modulation of electric current. I argue
-here that the concern with value in literary criticism detracts from the
-explicit movement of control and power intimately connected to digital
-textuality. Unlike scholars in the foucauldian tradition (who often trace the
-machinations of power through discourse), I concentrate my analysis on
-mechanisms of control at the material roots of literary practice. In doing
-a media history through primary sources on early development of modern
-computing, I show the explicit admixture of content and code: one meant to
-communicate messages to humans and the other to program universal machines.
-This history is not entirely critical: rather, it reveals a genealogy of
-computing alternative to the widely held notion of computer as a device for
-reductive "mathesis" (in the words of Johanna Drucker). I argue that the Turing
-machine is anticipated not just by the Babbage calculator, but in a series of
-advances in communications, word processing, and media storage. A notion of
-text (as opposed to number) is hence "baked into" the system.
-
-### Chapter 3: We Have Always Been Digital
-
-The "microanalysis" in the second chapter, gives way to the opposite movement:
-from pixel, to text, and up to meaning. The third chapter, "We Have Always Been
-Digital," begins with popular intuitions about the "look and feel" of digital
-aesthetics. Discourse around the digital humanities employs the term most
-central to its stated research program inconsistently and often without
+The first chapter begins with popular intuitions about the "look and feel" of
+digital aesthetics. Discourse around the digital humanities employs the term
+most central to its stated research program inconsistently and often without
 theoretical reflection. A case study of television motion blur (and the related
 "soap opera effect") undermines the initial ease with which notions of the
 digital are overdetermined to stand in for a range of often conflicting
@@ -295,34 +255,76 @@ summary of that tradition shows that language and text are already "born
 digital," that is, discrete and differentiated throughout (by the analytical
 definition). Furthermore, digitality depends on "reliable processes of copying
 and preservation." From that insight I take it that "being digital" is not an
-ontological condition, but rather imposed structure that manifests in specific
-material affordances. "Is it copyable?" becomes "can I copy it?" Digital being
+ontological condition, but rather structure imposed from without. Digital being
 ends up being an instrumental condition imposed onto the "user" of media (and
-not property of the media itself). The chapter ends with a history of encoding,
-where the distinction between binary and plain text formats supersedes the
-dichotomy between digital and analog.
+not property of the media itself), manifesting in specific technological
+affordances. "Is it copyable?" becomes "can I copy it?" The chapter ends with a
+history of Morse, Hughes, and Baudot character encodings, where the dichotomy
+between digital and analog is superseded by the distinction between binary and
+plain text formats.
 
-## Part II: Technology
+## Chapter 2: Phenomenology of a Photocopier
 
-Part II of the book explores the textual technologies that define literary
-practice.
+The chapter builds on the history of character encoding to include two major
+standards underlying the contemporary encounter with digital text: ASCII and
+Unicode. I approach the subject through the confused history of the distinction
+between form and content: two theoretical concepts crucial to understanding the
+distinction between binary and plain text. In the theoretical discussion, I
+find that going back to Plato and Hegel, "form" is at times used to indicate
+physical structure, and, at other times, to indicate immaterial categories in
+the ideal realm. A critical treatment of a more contemporary conversation on
+"surface" and "depth" of meaning reveals form as a mediating concept between
+thought and matter. A case study in extreme surface reading, in the bowls of a
+photocopier, opens the way to the distinction between print (where matter,
+form, and content are literally fused) and screen (where the three layers come
+apart, providing only the illusion of flattened textuality).
 
-### Chapter 4: The Media Is Not the Message
+## Chapter 3: Literature Down to the Pixel
 
-This chapter argues against the common-place truism that equates medium with
-message. Sources of that confusion and what's at stake. Encoding of the media
-on magnetic storage. A revisiting of modalities written and oral.
+Having established the grounds for digital textuality in the history of
+character encoding, I begin the work of moving from "low level" first-order
+concepts like "text" and "code" up to second-order concepts like "literature"
+and "canon." The chapter starts by developing a theory of "microanalysis," a
+closest possible kind of reading that pays attention to the material contexts
+of knowledge production. I argue here that the concern with value in literary
+criticism detracts from the explicit movement of control and power intimately
+connected to digital textuality. Unlike scholars in the foucauldian tradition
+(who often trace the machinations of power through discourse), I concentrate my
+analysis on mechanisms of control at the material roots of literary practice.
+In doing a media history through primary sources on early development of modern
+computing, I show the explicit admixture of content and code: one meant to
+communicate messages to humans and the other to program universal machines.
+This history is not entirely critical: rather, it reveals an alternative
+genealogy of computing, contrary to the widely accepted notions of computer as
+a device for reductive "mathesis" (in the words of Johanna Drucker). I conclude
+to argue that Turing machines were anticipated not just by the Babbage
+calculator, but in a series of advances in communications, word processing, and
+media storage.  A notion of text (as opposed to number) is hence "baked into"
+the system.
 
-### Chapter 5: Freedom of Information
+## Chapter 4: Media are Not the Message
 
-Containing an argument against the "systems" definition of information advanced
-by Shannon and Weaver. In what Shannon calls a "strange feature" of this
-communication theory, information is defined as amount of "freedom" or entropy
-in the system. By contrast, I want to insist on the agency (freedom) of the
-sender and the receiver. Incidentally, we get some clarity on the differing
-ways in which information is invoked in different discourses.
+In this chapter I make two significant interventions in media studies and
+literary theory. First, I argue that the medium should not be confused with the
+message. Starting with the legacy of Marshall McLuhan, I examine several models
+of communication, including ones proposed by Charles Sanders Peirce, Ferdinand
+de Saussure, Harry Nyquist, Claude Shannon, Roman Jacobson, and Gregory
+Bateson. Corresponding to the mediating of role of "form" in the previous
+chapter, I find that the "modality" of the written communication act does
+something akin to "attuning" the reader to the encoding of the message (and to
+the corresponding cultural techniques of apprehension). At the center of the
+chapter is a case study based on a real-world text "written" by a troupe of
+Sulawesi macaques as part of an art project at Britain's Paignton Zoo. (The
+text was subsequently published under the title *Notes Towards The Complete
+Works of Shakespeare*, Vivaria 2002). The possibility of a randomly-generated
+zoo-text points to the second half of the chapter, containing an argument
+against the "systems" definition of information. In what Shannon calls a
+"strange feature" of this communication theory, information is defined as
+amount of "freedom" or entropy in the system. By contrast, I want to insist on
+an agency-based model of information processing, in which texts mean things for
+conscious beings.
 
-### Chapter 6: Bad Links
+## Chapter 5: Bad Links
 
 Why links are bad. The long history of intertextuality. The excitement of the
 90s about it. The intertextual art of Gwern (a blogger that writes about
@@ -330,24 +332,17 @@ cryptography). Erudition and analogical thinking. The difference between
 hard-coded and symbolic links. Snapshots, the Internet Archive, and the
 future of Wikipedia.
 
-## Part III: People
-
-Part III broaches the social impact of computational culture.
-
-### Chapter 7: Recursive Encounters with Oneself
+## Chapter 6: Recursive Encounters with Oneself
 
 Understanding the document as a vector. The problem of drafts and versions.
 What is being transmitted through the vector? The appointment with one self:
-Beckett and Sartre. Pipes and I/O serialization.
+Beckett and Sartre. Pipes and I/O serialization. What does it mean to "know"
+something? Extended cognition. Pen, typewriter, and word processor (with
+detours to Kittler and Heidegger). Writing together.  Models of co-authorship
+(and why we should pay attention).  The massively multi-authored online novel
+(*Wu Ming* and *Lo zar non è morto*).
 
-### Chapter 8: Shared Knowledge
-
-What does it mean to "know" something? Extended cognition. Pen, typewriter, and
-word processor (with detours to Kittler and Heidegger). Writing together.
-Models of co-authorship (and why we should pay attention).  The massively
-multi-authored online novel (*Wu Ming* and *Lo zar non è morto*).
-
-### Chapter 9: Engineering for Dissent
+## Chapter 7: Engineering for Dissent
 
 Encrypted literature. Revealment and dissimulation. Notions of textuality as
 embroiled in contemporary ideas of privacy, secrecy, and transparency.
