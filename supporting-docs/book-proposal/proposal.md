@@ -324,15 +324,7 @@ amount of "freedom" or entropy in the system. By contrast, I want to insist on
 an agency-based model of information processing, in which texts mean things for
 conscious beings.
 
-## Chapter 5: Bad Links
-
-Why links are bad. The long history of intertextuality. The excitement of the
-90s about it. The intertextual art of Gwern (a blogger that writes about
-cryptography). Erudition and analogical thinking. The difference between
-hard-coded and symbolic links. Snapshots, the Internet Archive, and the
-future of Wikipedia.
-
-## Chapter 6: Recursive Encounters with Oneself
+## Chapter 5: Recursive Encounters with Oneself
 
 Understanding the document as a vector. The problem of drafts and versions.
 What is being transmitted through the vector? The appointment with one self:
@@ -341,6 +333,21 @@ something? Extended cognition. Pen, typewriter, and word processor (with
 detours to Kittler and Heidegger). Writing together.  Models of co-authorship
 (and why we should pay attention).  The massively multi-authored online novel
 (*Wu Ming* and *Lo zar non è morto*).
+
+## Chapter 6: Bad Links
+
+In this chapter I would like to triangulate between (1) structuralist notions
+of literary intertextuality, (2) the promises and failures of hyper-textuality
+in the 1990s, and (3) contemporary paradigms in network analysis. In each of
+these historically distinct theoretical moments, I find a similar promise of
+emergence: the idea that a pattern or design can appear spontaneously as the
+result of simple interactions on the level of the system. Once again, I would
+like to argue against the systems view generally, and in literary studies in
+particular. In examining the heavily hyper-linked and intertextual art of Gwern,
+a mysterious "researcher, self-experimenter, and writer" I contrast the
+structure of links to that of lists. A discussion on "linked lists" in computer
+science leads to the conclusion that deals with the aesthetics of code and the
+role of the individual in relation to the assemblage.
 
 ## Chapter 7: Engineering for Dissent
 
