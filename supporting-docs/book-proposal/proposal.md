@@ -8,7 +8,7 @@ author: Dennis Tenen
 
 *Plain Text* occupies the space between literary theory and the digital
 humanities, challenging received notions of digital being through the media
-history of a singular file format (```.txt```).
+history of a singular file format (`.txt`).
 
 # Theme and Argument
 
@@ -202,11 +202,11 @@ Although, ostensibly, a work on the history and philosophy of computational
 culture, the book argues for the advancement of theory through practice. In
 writing it, I continually test my intuitions against the reality of
 contemporary computing devices: laptops, servers, and mobile phones. It is one
-thing, for example, to maintain that "the media is the message," and quite
+thing, for example, to maintain that "the medium is the message," and quite
 another to ask how different modalities like sound, image, and video are
-encoded on level of the operating system (Chapter 4). Similarly, the difference
-between binary and plain-text formats can be best explored by peeking "under
-the hood" of an Adobe Acrobat file (as I do in Chapter 1).
+encoded on the level of the operating system (Chapter 4). Similarly, the
+difference between binary and plain-text formats can be best explored by
+peeking "under the hood" of an Adobe Acrobat file (as I do in Chapter 2).
 
 Although not required for the understanding of the book, I would like to
 include a supplementary appendix that expands on the theoretical insight from
@@ -276,31 +276,31 @@ the ideal realm. A critical treatment of a more contemporary conversation on
 "surface" and "depth" of meaning reveals form as a mediating concept between
 thought and matter. A case study in extreme surface reading, in the bowls of a
 photocopier, opens the way to the distinction between print (where matter,
-form, and content are literally fused) and screen (where the three layers come
-apart, providing only the illusion of flattened textuality).
+form, and content lie flat) and screen (where the three layers come apart,
+providing only the illusion of flattened textuality).
 
 ## Chapter 3: Literature Down to the Pixel
 
 Having established the grounds for digital textuality in the history of
 character encoding, I begin the work of moving from "low level" first-order
 concepts like "text" and "code" up to second-order concepts like "literature"
-and "canon." The chapter starts by developing a theory of "microanalysis," a
+and "canon." The chapter starts by developing a theory of "microanalysis," the
 closest possible kind of reading that pays attention to the material contexts
 of knowledge production. I argue here that the concern with value in literary
 criticism detracts from the explicit movement of control and power intimately
 connected to digital textuality. Unlike scholars in the foucauldian tradition
-(who often trace the machinations of power through discourse), I concentrate my
-analysis on mechanisms of control at the material roots of literary practice.
-In doing a media history through primary sources on early development of modern
-computing, I show the explicit admixture of content and code: one meant to
-communicate messages to humans and the other to program universal machines.
-This history is not entirely critical: rather, it reveals an alternative
-genealogy of computing, contrary to the widely accepted notions of computer as
-a device for reductive "mathesis" (in the words of Johanna Drucker). I conclude
-to argue that Turing machines were anticipated not just by the Babbage
-calculator, but in a series of advances in communications, word processing, and
-media storage. A notion of text (as opposed to number) is hence "baked into"
-the system.
+(who often trace the machinations of power through discourse, on the level of
+representation), I concentrate my analysis on mechanisms of control at the
+material roots of literary practice. In doing a media history through primary
+sources on early development of modern computing, I show the explicit admixture
+of content and code: one meant to communicate messages to humans and the other
+to program universal machines. This history is not entirely critical: rather,
+it reveals an alternative genealogy of computing, contrary to the widely
+accepted notions of computer as a device for reductive "mathesis" (in the words
+of Johanna Drucker). I conclude to argue that Turing machines were anticipated
+not just by the Babbage calculator, but in a series of advances in
+communications, word processing, and media storage. A notion of text (as
+opposed to number) is hence "baked into" the system.
 
 ## Chapter 4: Media are Not the Message
 
@@ -310,29 +310,29 @@ message. Starting with the legacy of Marshall McLuhan, I examine several models
 of communication, including ones proposed by Charles Sanders Peirce, Ferdinand
 de Saussure, Harry Nyquist, Claude Shannon, Roman Jacobson, and Gregory
 Bateson. Corresponding to the mediating of role of "form" in the previous
-chapter, I find that the "modality" of the written communication act does
-something akin to "attuning" the reader to the encoding of the message (and to
-the corresponding cultural techniques of apprehension). At the center of the
+chapter, I find that the "mode" of the written communication act does something
+akin to "attuning" the reader to the encoding of the message (and to the
+corresponding cultural techniques of apprehension). At the center of the
 chapter is a case study based on a real-world text "written" by a troupe of
 Sulawesi macaques as part of an art project at Britain's Paignton Zoo. (The
 text was subsequently published under the title *Notes Towards The Complete
 Works of Shakespeare*, Vivaria 2002). The possibility of a randomly-generated
 zoo-text points to the second half of the chapter, containing an argument
-against the "systems" definition of information. In what Shannon calls a
-"strange feature" of this communication theory, information is defined as
-amount of "freedom" or entropy in the system. By contrast, I want to insist on
-an agency-based model of information processing, in which texts mean things for
-conscious beings.
+against a "systems" definition of information. In what Shannon calls a "strange
+feature" of this communication theory, information is defined as amount of
+"freedom" or entropy in the system. By contrast, I want to insist on an
+agency-based model of information processing, in which texts mean things for
+free and conscious beings.
 
 ## Chapter 5: Recursive Encounters with Oneself
 
-This chapter begins with close-reading of Beckett's *Krapp's Last Tape*,
+This chapter begins with a close-reading of Beckett's *Krapp's Last Tape*,
 positing magnetic storage media as the "media being" of the play's title
 character. Krapp helps to unfold the problematic of documents: not as passive
 completed texts, but as vectors that mutate and move through time and space.
-Documents, as argue here, constitute a "platform" for media being. Pushing off
-the communication model described in the last chapter, I ask: What is being
-communicated? And answer: It is the subject. The chapter ends with an
+Documents, as I argue here, constitute a "platform" for media being. Pushing
+off the communication model described in the last chapter, I ask: What is being
+communicated? And answer: It is the subject itself. The chapter ends with an
 explication of Sartre's idea of an "appointment with oneself," which I take to
 happen at the document level, through a series of encounters with one's own
 external manifestations of consciousness (i.e. tape and other portable storage
@@ -340,19 +340,20 @@ media).
 
 ## Chapter 6: Bad Links
 
-Where do the document vectors lead? In this chapter I would like to triangulate
-between (1) structuralist notions of literary intertextuality, (2) the promises
-and failures of hyper-textuality in the 1990s, and (3) contemporary paradigms
-in network analysis. In each of these historically distinct theoretical
-moments, I find a similar promise of emergence: the idea that order can appear
-spontaneously as the result of simple interactions on the level of the system.
-Once again, I would like to argue against the systems view generally, and in
-literary studies in particular. In examining the heavily hyper-linked and
-intertextual art of Gwern, a mysterious "researcher, self-experimenter, and
-writer" I contrast the structure of links to that of lists. A discussion on
-"linked lists" in computer science leads to the conclusion that deals with the
-aesthetics of code and the role of the individual in relation to the
-assemblage.
+Where do the document vectors lead? In this chapter I triangulate between (1)
+structuralist notions of literary intertextuality, (2) the promises and
+failures of hyper-textuality in the 1990s, and (3) contemporary paradigms in
+network analysis. In each of these historically distinct theoretical moments, I
+find a similar promise of emergence: the idea that order can appear
+spontaneously as the aggregate result of simple interactions at the level of
+the system (the idea also at the core of Callon and Latour's actor-network
+theory). Once again, I make the rhetorical move against the systems view
+generally, and in literary studies in particular. In examining the heavily
+hyper-linked and intertextual essays of Gwern, a mysterious contemporary
+"researcher, self-experimenter, and writer," I contrast the structure of links
+to that of lists. A discussion on "linked lists" in computer science leads to a
+conclusion that relates to aesthetics of code and to the role of an individual
+in relation to the assemblage.
 
 ## Chapter 7: Engineering for Dissent
 
@@ -363,16 +364,16 @@ International Telecommunication Union (and later international bodies governing
 the exchange of information across state borders) display unease with
 encrypted, non-human-readable formats of information exchange. A theoretical
 treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
-Golumbia leads to a concluding discussion about the subject's role in actively
-shaping the material conditions of media being. As documents reflecting
-externalized states of consciousness become increasingly more transparent, they
-are more susceptible to surveillance and control. Plain text allows political
-subjects to decouple externalized (but still private) mental states from
-mechanisms of governance. This affordance is not however a deterministic
-property of literature, the internet, or any other information exchange system.
-Rather, the design of complex systems must itself become a critical practice,
-which, in a complement to critical theory, actively engineers for mechanisms of
-individual dissidence.
+Golumbia concludes in a discussion about the subject's role in actively shaping
+the material conditions of media being. As documents reflecting externalized
+states of consciousness become increasingly more transparent, they are
+susceptible to increased surveillance and control. Plain text allows political
+subjects to decouple externalized mental states from mechanisms of governance.
+This affordance is not however a deterministic property of literature, the
+internet, or any other information exchange system. Rather, the design of
+complex systems must itself become a critical practice, which, in a complement
+to critical theory, actively engineers for textual mechanisms of individual
+dissidence and resistance.
 
 ## Tech Appendix
 
@@ -393,8 +394,8 @@ Imagination*, under consideration elsewhere.
 The research for this book was enabled by a year-long fellowship at the Berkman
 Center for Internet and Society. Consequent to the research phase, I taught
 multiple classes on the subject, which helped refine my thinking and provided
-further raw material. As of today, the manuscript stands at roughly 50k words,
-with three chapters close to completion. I am writing actively and plan to
-have a first draft of the manuscript ready by June-July of 2015. I am on leave
-next academic year and have cleared my schedule to dedicate it to seeing this
-project through to publication.
+further notes and primary material. As of today, the manuscript stands at
+roughly 50k words, with three chapters close to completion. I am writing
+actively and plan to have a first draft of the manuscript ready by June-July of
+2015. I am on leave next academic year, having cleared my schedule with plans
+to dedicate it to seeing this project through to publication.
