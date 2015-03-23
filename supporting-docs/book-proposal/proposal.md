@@ -72,17 +72,18 @@ My work differs from these volumes in that it is both more philosophical
 (rather than strictly "theoretical") and more grounded in the fields of
 software an electrical engineering. To give you an example of what I mean,
 consider my third chapter, "Phenomenology of a Photocopier." It begins with the
-discussion of the Hegelian distinction between "form" and "content," ending
+discussion of the Hegelian distinction between "form" and "content." It ends
 with a case study from the history of word processing, in a technical
-explanation of the way "content" and "form" are encoded into modern HTML and
-Markdown documents. Similarly, my first chapter, "We Have Always Been Digital,"
-begins with a discussion of "digital representation" as philosophers Nelson
-Goodman and John Haugeland define it in the analytic tradition. I proceed by
-testing their intuitions on the basis of something called the "Soap Opera
-Effect" particular to modern Liquid Crystal Displays (LCDs) and in the related
-video-processing technique of "motion-compensated frame interpolation." The
-resulting analysis clarifies the various (and often conflicting) meanings of
-the word "digital" in Media Studies and in the Digital Humanities.
+explanation of the ways in which forms and content manifest themselves in
+modern HTML and Markdown documents. Similarly, my first chapter, "We Have
+Always Been Digital," begins with a discussion of "digital representation" as
+philosophers Nelson Goodman and John Haugeland define it in the analytic
+tradition. I proceed by testing their intuitions on the basis of something
+called the "Soap Opera Effect" particular to modern Liquid Crystal Displays
+(LCDs) and in the related video-processing technique of "motion-compensated
+frame interpolation." The resulting analysis clarifies the various (and often
+conflicting) meanings of the word "digital" in Media Studies and in the Digital
+Humanities.
 
 Complimentary to both of these fields, I prefer to describe my work as
 "computational culture studies," understood in two ways: first as the study of
@@ -152,7 +153,7 @@ Jordan.
 I am inspired in these endeavors by my colleagues at Columbia English and at
 Harvard's Berkman Center for Internet and Society, where I am an active faculty
 associate. I keep these manifold audiences in mind as I am finishing *Plain
-Text.* The book exposes the intellectual foundations that bolster my research
+Text.* The book exposes the intellectual frameworks that bolster my research
 and teaching activities. I write to strengthen these projects and to give back
 to the community that has supported me so generously. I hope to rely on the
 same good will and on the same support networks in reaching out to promote my
@@ -223,7 +224,7 @@ intended) side-effect of *Plain Text* is a measure of technical proficiency
 with Unix-based operating systems. Higher-level notions that address the
 political reality of computation, be they "open access," "freedom of
 information," or "online privacy", begin at that system level. The book's
-Technical Appendix would help build a practical foundation to the arguments
+Technical Appendix would help build a practical foundation for the arguments
 advanced within.
 
 The book assumes no prior knowledge. It can be read sequentially as a
@@ -231,8 +232,8 @@ conventional piece of scholarship in textual theory or new media studies. But
 for those willing to take the plunge, I will often illustrate abstract
 theoretical concepts by asking the reader to type some commands into their
 terminals. Detailed instructions on how to set up this *augmented reading
-environment*: related experiments, exercises, and explanations will be found
-in the Technical Appendix.
+environment*, along with related experiments, exercises, and explanations will
+be found in the Technical Appendix.
 
 In addition to the Appendix, the book contains several (8-12) tables and
 illustrations. I intend to apply for the "first book" subsidy offered by
@@ -243,25 +244,25 @@ with the preparation of the manuscript.
 
 ## Chapter 1: We Have Always Been Digital
 
+Discourse around the digital humanities needs a robust sense of the digital.
 The first chapter begins with popular intuitions about the "look and feel" of
-digital aesthetics. Discourse around the digital humanities employs the term
-most central to its stated research program inconsistently and often without
-theoretical reflection. A case study of television motion blur (and the related
+digital aesthetics. A case study of television motion blur (and the related
 "soap opera effect") undermines the initial ease with which notions of the
 digital are overdetermined to stand in for a range of often conflicting
-modalities. The next section deals with the analytic tradition of dissecting
-media into analog and digital categories (via Nelson Goodman in particular). My
-summary of that tradition shows that language and text are already "born
-digital," that is, discrete and differentiated throughout (by the analytical
-definition). Furthermore, digitality depends on "reliable processes of copying
-and preservation." From that insight I take it that "being digital" is not an
-ontological condition, but rather structure imposed from without. Digital being
-ends up being an instrumental condition imposed onto the "user" of media (and
-not property of the media itself), manifesting in specific technological
-affordances. "Is it copyable?" becomes "can I copy it?" The chapter ends with a
-history of Morse, Hughes, and Baudot character encodings, where the dichotomy
-between digital and analog is superseded by the distinction between binary and
-plain text formats.
+modalities. The next section of this chapter deals with the analytic tradition
+of discussing media in terms of analog and digital representation (via Nelson
+Goodman and John Haugeland). My summary of that tradition shows that language
+and text are already "born digital," that is, discrete and differentiated
+throughout (by the formal definition). Furthermore, digitality depends on
+"reliable processes of copying and preservation," (properties that can mean
+something different to a philosopher than to a librarian). From these insights
+I take it that "being digital" is not an intrinsic ontological condition, but
+rather structure imposed from without. That structure is further imposed onto
+the media "consumer," and does necessarily constitute a property of the medium
+itself, manifesting in specific technological affordances. "Is it copyable?"
+becomes "can I copy it?" The chapter ends with a history of Morse, Hughes, and
+Baudot character encodings, where the dichotomy between digital and analog is
+superseded by the distinction between binary and plain text formats.
 
 ## Chapter 2: Phenomenology of a Photocopier
 
@@ -273,11 +274,11 @@ distinction between binary and plain text. In the theoretical discussion, I
 find that going back to Plato and Hegel, "form" is at times used to indicate
 physical structure, and, at other times, to indicate immaterial categories in
 the ideal realm. A critical treatment of a more contemporary conversation on
-"surface" and "depth" of meaning reveals form as a mediating concept between
+"surface" and "depth" of meaning reveals "form" as a mediating concept between
 thought and matter. A case study in extreme surface reading, in the bowels of a
-photocopier, opens the way to the distinction between print (where matter,
-form, and content lie flat) and screen (where the three layers come apart,
-providing only the illusion of flattened textuality).
+photocopier, opens a way to the distinction between print (where matter, form,
+and content lie flat) and screen (where the three layers come apart, providing
+only the illusion of flattened textuality).
 
 ## Chapter 3: Literature Down to the Pixel
 
@@ -305,24 +306,26 @@ opposed to number) is hence "baked into" the system.
 ## Chapter 4: Media are Not the Message
 
 In this chapter I make two significant interventions in media studies and
-literary theory. First, I argue that the medium should not be confused with the
-message. Starting with the legacy of Marshall McLuhan, I examine several models
-of communication, including ones proposed by Charles Sanders Peirce, Ferdinand
-de Saussure, Harry Nyquist, Claude Shannon, Roman Jacobson, and Gregory
-Bateson. Corresponding to the mediating of role of "form" in the previous
-chapter, I find that the "mode" of the written communication act does something
-akin to "attuning" the reader to the encoding of the message (and to the
-corresponding cultural techniques of apprehension). At the center of the
-chapter is a case study based on a real-world text "written" by a troupe of
-Sulawesi macaques as part of an art project at Britain's Paignton Zoo. (The
-text was subsequently published under the title *Notes Towards The Complete
-Works of Shakespeare*, Vivaria 2002). The possibility of a randomly-generated
-zoo-text points to the second half of the chapter, containing an argument
-against a "systems" definition of information. In what Shannon calls a "strange
-feature" of this communication theory, information is defined as amount of
-"freedom" or entropy in the system. By contrast, I want to insist on an
-agency-based model of information processing, in which texts mean things for
-free and conscious beings.
+literary theory. First, I argue that media should not be confused with
+messages. Starting with the (sometimes oversimplified) legacy of Marshall
+McLuhan, I examine several models of communication, including ones proposed by
+semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jacobson),
+engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
+von Uexküll, Gregory Bateson, and Thomas Sebok). Corresponding to the mediating
+of role of "form" in the previous chapter, I find that the "mode" of the
+written communication act does something akin to "attuning" the reader
+(receiver) to the encoding of the message (and to the corresponding cultural
+techniques of apprehension). At the center of the chapter is a case study based
+on a real-world text "written" by a troupe of Sulawesi macaques as part of an
+art project at Britain's Paignton Zoo. (The text was subsequently published
+under the title *Notes Towards The Complete Works of Shakespeare*, Vivaria
+2002). The possibility of a randomly-generated zoo-text points to the
+conclusion of the chapter, containing an argument against a "systems"
+definition of information. In what Shannon calls a "strange feature" of this
+communication theory, information is defined as amount of "freedom" or entropy
+in the system. By contrast, I want to insist on an agency-based model of
+information processing, in which texts mean things for free and conscious
+beings.
 
 ## Chapter 5: Recursive Encounters with Oneself
 
@@ -367,13 +370,14 @@ treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
 Golumbia concludes in a discussion about the subject's role in actively shaping
 the material conditions of media being. As documents reflecting externalized
 states of consciousness become increasingly more transparent, they are
-susceptible to increased surveillance and control. Plain text allows political
-subjects to decouple externalized mental states from mechanisms of governance.
-This affordance is not however a deterministic property of literature, the
-internet, or any other information exchange system. Rather, the design of
-complex systems must itself become critical practice, which, in complement to
-critical theory, can actively engineer for textual mechanisms of individual
-dissidence and resistance.
+susceptible to increased surveillance and control (through encryption, by
+example). Plain text allows political subjects to decouple externalized mental
+states from mechanisms of governance.  (In other words, to actively decide when
+to opt in and when to opt out). This affordance is not however a deterministic
+property of literature, the internet, or any other information exchange system.
+Rather, the design of complex systems must itself become critical practice,
+which, in complement to critical theory, can actively engineer for textual
+mechanisms that make individual dissent possible.
 
 ## Tech Appendix
 
@@ -385,9 +389,7 @@ chapter in the command line, to create an "augmented reading environment."
 The book bears a resemblance to the dissertation in the subtitle only. Several
 paragraphs from the embargoed dissertation did make it into *Plain Text* in an
 ad-hoc manner, but the book as a whole represents a completely new framework
-and a new direction in my thinking about the subject. The bulk of the
-re-written dissertation made it into another project, called *Algorithmic
-Imagination*, under consideration elsewhere.
+and a new direction in my thinking about the subject.
 
 # Schedule to Completion
 
@@ -398,4 +400,5 @@ further notes and primary material. As of today, the manuscript stands at
 roughly 50k words, with three chapters close to completion. I am writing
 actively and plan to have a first draft of the manuscript ready by June-July of
 2015. I am on leave next academic year, having cleared my schedule with plans
-to dedicate it to seeing this project through to publication.
+of dedicating all of my attention to seeing this project through to
+publication.
