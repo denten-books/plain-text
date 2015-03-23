@@ -274,7 +274,7 @@ find that going back to Plato and Hegel, "form" is at times used to indicate
 physical structure, and, at other times, to indicate immaterial categories in
 the ideal realm. A critical treatment of a more contemporary conversation on
 "surface" and "depth" of meaning reveals form as a mediating concept between
-thought and matter. A case study in extreme surface reading, in the bowls of a
+thought and matter. A case study in extreme surface reading, in the bowels of a
 photocopier, opens the way to the distinction between print (where matter,
 form, and content lie flat) and screen (where the three layers come apart,
 providing only the illusion of flattened textuality).
@@ -371,8 +371,8 @@ susceptible to increased surveillance and control. Plain text allows political
 subjects to decouple externalized mental states from mechanisms of governance.
 This affordance is not however a deterministic property of literature, the
 internet, or any other information exchange system. Rather, the design of
-complex systems must itself become a critical practice, which, in a complement
-to critical theory, actively engineers for textual mechanisms of individual
+complex systems must itself become critical practice, which, in complement to
+critical theory, can actively engineer for textual mechanisms of individual
 dissidence and resistance.
 
 ## Tech Appendix

@@ -1,0 +1,8 @@
+# :r !date
+# to output date
+
+Sat Mar 21 23:52:52 EDT 2015
+proposal out to raver, 3825 words
+
+Sat Mar 21 23:52:52 EDT 2015
+proposal out to timpane, 3825 words
