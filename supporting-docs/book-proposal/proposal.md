@@ -252,13 +252,13 @@ digital are overdetermined to stand in for a range of often conflicting
 modalities. The next section of this chapter deals with the analytic tradition
 of discussing media in terms of analog and digital representation (via Nelson
 Goodman and John Haugeland). My summary of that tradition shows that language
-and text are already "born digital," that is, discrete and differentiated
-throughout (by the formal definition). Furthermore, digitality depends on
-"reliable processes of copying and preservation," (properties that can mean
-something different to a philosopher than to a librarian). From these insights
-I take it that "being digital" is not an intrinsic ontological condition, but
-rather structure imposed from without. That structure is further imposed onto
-the media "consumer," and does necessarily constitute a property of the medium
+and text are already in a sense "born digital," that is, discrete and
+differentiated throughout. Furthermore, digitality depends on "reliable
+processes of copying and preservation"--processes that can mean something
+different to a philosopher than to a librarian. From these insights I take it
+that "being digital" is not an intrinsic ontological condition, but rather
+structure imposed from without. That structure is further imposed onto the
+media "consumer." It does not necessarily constitute a property of the medium
 itself, manifesting in specific technological affordances. "Is it copyable?"
 becomes "can I copy it?" The chapter ends with a history of Morse, Hughes, and
 Baudot character encodings, where the dichotomy between digital and analog is
@@ -273,7 +273,7 @@ between form and content: two theoretical concepts crucial to understanding the
 distinction between binary and plain text. In the theoretical discussion, I
 find that going back to Plato and Hegel, "form" is at times used to indicate
 physical structure, and, at other times, to indicate immaterial categories in
-the ideal realm. A critical treatment of a more contemporary conversation on
+the ideal realm. A critical treatment of a more contemporary conversation about
 "surface" and "depth" of meaning reveals "form" as a mediating concept between
 thought and matter. A case study in extreme surface reading, in the bowels of a
 photocopier, opens a way to the distinction between print (where matter, form,

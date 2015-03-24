@@ -1,5 +1,5 @@
 ---
-title: "Plain Text"
+title: "Plain Text: Poetics of Human-Computer Interaction"
 author: "Dennis Tenen"
 
 ---
@@ -263,6 +263,28 @@ literary distribution.
 
 ## Chapter 1: We Have Always Been Digital
 `digital, analog, binary, encoding, mediation`
+
+### Abstract
+
+Discourse around the digital humanities needs a robust sense of the digital.
+The first chapter begins with popular intuitions about the "look and feel" of
+digital aesthetics. A case study of television motion blur (and the related
+"soap opera effect") undermines the initial ease with which notions of the
+digital are overdetermined to stand in for a range of often conflicting
+modalities. The next section of this chapter deals with the analytic tradition
+of discussing media in terms of analog and digital representation (via Nelson
+Goodman and John Haugeland). My summary of that tradition shows that language
+and text are already in a sense "born digital," that is, discrete and
+differentiated throughout. Furthermore, digitality depends on "reliable
+processes of copying and preservation"--processes that can mean something
+different to a philosopher than to a librarian. From these insights I take it
+that "being digital" is not an intrinsic ontological condition, but rather
+structure imposed from without. That structure is further imposed onto the
+media "consumer." It does not necessarily constitute a property of the medium
+itself, manifesting in specific technological affordances. "Is it copyable?"
+becomes "can I copy it?" The chapter ends with a history of Morse, Hughes, and
+Baudot character encodings, where the dichotomy between digital and analog is
+superseded by the distinction between binary and plain text formats.
 
 ### 1.1.1 Digital Clichés
 
@@ -1204,18 +1226,7 @@ phenomenology, not dependent on the self-deceiving acts of the imagination
 real nature of human experience by leaving behind the particularity of our
 human point of view and striving for a description in terms accessible to
 beings that could not imagine what it was like to be us [@nagel_what_1974,
-444]." Yet, to make the subjective experience strange again is to look at it
-through the eyes of a stranger. Makhail Bakhtin writes (in what I think is a
-previously untranslated passage):
-
-> It is not I who looks out from the inside, but I look at myself with the eyes
-of the world, strange eyes; I am possessed by another. There is no integrity of
-internal and external here. To glimpse my own preocular image. The naive
-confluence of self and the other in the mirror image. The surplus of the other.
-There is no point of view outside of myself; I cannot access my own internal
-image. From my eyes stare a stranger's eyes [@"The Man by the Mirror," Mikhail
-Bakhtin]
-
+444]." 
 [^ln1-nagel]: Nagel suggests: "Though presumably it would not
 capture everything, its goal would be to describe, at least in part, the
 subjective character of experiences in a form comprehensible to beings
@@ -1348,6 +1359,21 @@ over matter!" (@mindflex_mindflex:_2015)
 ## Chapter 2: Phenomenology of a Photocopier
 `content, matter, form`
 
+### Abstract
+
+The chapter builds on the history of character encoding to include two major
+standards underlying the contemporary encounter with digital text: ASCII and
+Unicode. I approach the subject through the confused history of the distinction
+between form and content: two theoretical concepts crucial to understanding the
+distinction between binary and plain text. In the theoretical discussion, I
+find that going back to Plato and Hegel, "form" is at times used to indicate
+physical structure, and, at other times, to indicate immaterial categories in
+the ideal realm. A critical treatment of a more contemporary conversation about
+"surface" and "depth" of meaning reveals "form" as a mediating concept between
+thought and matter. A case study in extreme surface reading, in the bowels of a
+photocopier, opens a way to the distinction between print (where matter, form,
+and content lie flat) and screen (where the three layers come apart, providing
+only the illusion of flattened textuality).
 ### 1.3.1 Shaping Text
 
 What makes a text? In talking about texts of all kinds, literary scholars and
@@ -2183,6 +2209,29 @@ closest possible reading.
 ## Chapter 3: Literature Down to the Pixel
 `literature, content, control`
 
+### Abstract
+
+Having established the grounds for digital textuality in the history of
+character encoding, I begin the work of moving from "low level" first-order
+concepts like "text" and "code" up to second-order concepts like "literature"
+and "canon." The chapter starts by developing a theory of "microanalysis," the
+closest possible kind of reading that pays attention to the material contexts
+of knowledge production. I argue here that the concern with value in literary
+criticism detracts from the explicit movement of control and power intimately
+connected to digital textuality. Unlike scholars in the foucauldian tradition
+(who often trace the machinations of power through discourse, on the level of
+representation), I concentrate my analysis on mechanisms of control at the
+material roots of literary practice. In doing a media history through primary
+sources on early development of modern computing, I show the explicit admixture
+of content and code: one meant to communicate messages to humans and the other
+to program universal machines. This history is not entirely critical: rather,
+it reveals an alternative genealogy of computing, contrary to the widely
+accepted notions of computer as a device for reductive "mathesis" (in the words
+of Johanna Drucker). I conclude to argue that Turing machines were anticipated
+not just by the Babbage calculator, but in a series of advances in
+communications, word processing, and media storage. A notion of text (as
+opposed to number) is hence "baked into" the system.
+
 ### 1.2.1 Hidden Values
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
@@ -2918,7 +2967,31 @@ neural circuitry of the brain, do you know what you are reading?
 
 
 ## Chapter 4: The Medium is not the Message
-`medium, message, mode, information`
+`medium, message, mode`
+
+### Abstract
+
+In this chapter I make two significant interventions in media studies and
+literary theory. First, I argue that media should not be confused with
+messages. Starting with the (sometimes oversimplified) legacy of Marshall
+McLuhan, I examine several models of communication, including ones proposed by
+semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jacobson),
+engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
+von Uexküll, Gregory Bateson, and Thomas Sebok). Corresponding to the mediating
+of role of "form" in the previous chapter, I find that the "mode" of the
+written communication act does something akin to "attuning" the reader
+(receiver) to the encoding of the message (and to the corresponding cultural
+techniques of apprehension). At the center of the chapter is a case study based
+on a real-world text "written" by a troupe of Sulawesi macaques as part of an
+art project at Britain's Paignton Zoo. (The text was subsequently published
+under the title *Notes Towards The Complete Works of Shakespeare*, Vivaria
+2002). The possibility of a randomly-generated zoo-text points to the
+conclusion of the chapter, containing an argument against a "systems"
+definition of information. In what Shannon calls a "strange feature" of this
+communication theory, information is defined as amount of "freedom" or entropy
+in the system. By contrast, I want to insist on an agency-based model of
+information processing, in which texts mean things for free and conscious
+beings.
 
 ### Intro
 What happens in the change from speaking to writing? The violin (copy from
@@ -3039,9 +3112,6 @@ on our society, and that despite whatever effects literacy may have on our
 case, an artificial construct, tied to one's willingness to engage in nostalgic
 reverie about an idyllic state of unadulterated past.
 
-## Chapter 5: Freedom of Information
-`noise, information, data, entropy`
-
 Bohn consumer report on data vs. information..  Doctorow. Information "wants to
 be free" Information is intentional. Against the "cybernatic" formal
 definitions.
@@ -3090,215 +3160,22 @@ http://arxiv.org/abs/1405.5563
  
 
 
-## Chapter 6: Bad Links
-`network, intertext, hypertext, symbolic links`
+## Chapter 5: Recursive Encounters with Oneself
+`document, vector, archive, media being`
 
-### Processing Words (Engelbart)
+### Abstract
 
-### Gwern
-I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern*
-itself. I hesitate to call it a website, because it is a site so hostile to the
-web. "So I did not wish to write a blog," the eponymous Gwern writes: 
-
->  [...] most blog posts are the triumph of the hare over the tortoise. They
->  are meant to be read by a few people on a weekday in 2004 and never again,
->  and are
->  [quickly](http://web.archive.org/web/20140126034548/http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&)
->  [abandoned](http://web.archive.org/web/20140126035203/http://www.caslon.com.au/weblogprofile1.htm)
->  - and perhaps as Assange says, not a moment too soon. (But isn’t that sad?
->  Isn’t it a terrible
->  [ROI](http://web.archive.org/web/20140126035340/http://en.wikipedia.org/wiki/Rate_of_return)
->  for one’s time?) On the other hand, the best blogs always seem to be
->  building something: they are rough drafts - works in progress.[^18] So I did
->  not wish to write a blog.
-
-It contains no moving images, no pictures, to sound, and no code. It is a
-static site, that is to say it is compiled once, on the authors box and not
-generated dynamically, in response to a individual reader's visit. *gwern* is
-static, showing its visitor "pre-printed" pamphlet-like pages. But prints and
-pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to
-misquote @Drucker).^[LN2] What is it, if it is not a blog?
-
-Just to make sure *gwern* did not disappear, I took a "snapshot" on January
-24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a
-mechanism to caputure a fixed version of the document. Unilike paper, text on
-the web is never fixed. In fact, thinking of published documents (books,
-newspapers, and journals) as a type of a "screenshot" helps understand the the
-semantic slide between "paper" and "pixel." The medium does not matter (and
-certainly not the message). In the few seconds that I am fixing the pixels into
-a canonical version of the text, the author/s of *gwern* may have advanced the
-same text conceptually, creating a new and diverging "branch" of the entity at
-hand. That is why we must write "date accessed" in the bibliography. The
-footnote traditionally points to material in the real world. The pixel is
-virtual. The two differ in the state of being. One is emergent, and the other,
-actualized. It is likely that the page has always acted this way: to serve as a
-momentary textual glimpse into the eternal world of thought. The difference
-lies in an evolving organism and its ossified imprint.
-
-Internet archive. "Saved 152 times between May 5, 2011 and January 26, 2014."
-That means that the page became static print 152 times. In all other
-actualitites, it remained evolving and potentually infinite.^[Infinite in the
-sense human lives are infinite in comparison to pages.]
-
-Well connected: Kevin Kelly, Eliezer Yudkowsky's blog.  We read and archive our
-experience of reading.
-
-[LN1]: http://web.archive.org/web/20140126025146/http://www.gwern.net/About
-[LN2]:
-http://web.archive.org/web/20140126030328/http://lareviewofbooks.org/essay/pixel-dust-illusions-innovation-scholarly-publishing
-[LN3]: [18]: Examples of such blogs:
-
-1. [Eliezer
-Yudkowsky’s](https://web.archive.org/web/20140126040858/http://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
-contributions to
-[LessWrong](https://web.archive.org/web/20140126041017/http://lesswrong.com/)
-were the rough draft of a philosophy book (or two)
-2. John Robb’s [Global
-Guerrillas](http://web.archive.org/web/20140126041136/http://globalguerrillas.typepad.com/)
-lead to his [Brave New War: The Next Stage of Terrorism and the End of
-Globalization](http://web.archive.org/web/20140126041301/http://www.amazon.com/exec/obidos/ASIN/0471780790/?tag=gwernnet-20)
-3. [Kevin
-Kelly’s](http://web.archive.org/web/20140126041441/http://en.wikipedia.org/wiki/Kevin_Kelly)
-[Technium](http://web.archive.org/web/20140126041640/http://kk.org/thetechnium/)
-was turned into [What Technology
-Wants](http://web.archive.org/web/20140126042029/http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0670022152/?tag=gwernnet-20).
-
-An example of how not to do it would be [Robin
-Hanson‘s](http://web.archive.org/web/20140126042143/http://en.wikipedia.org/wiki/Robin_Hanson)
-[Overcoming
-Bias](http://web.archive.org/web/20140126042246/http://www.overcomingbias.com/)
-blog; it is stuffed with fascinating citations & sketches of ideas, but they
-never go anywhere. Just his posts on
-[medicine](http://web.archive.org/web/20131115012232/http://www.overcomingbias.com/)
-would make a fascinating essay or just list - but he has never made one.
-([“Showing That You Care: The Evolution of Health
-Altruism”](http://web.archive.org/web/20140126042648/http://hanson.gmu.edu/showcare.pdf)
-would be a natural home for many of his posts’ contents, but will never be
-updated.) ### Hypertext Ted Nelson.  Rise of intertextuality. The promise of
-hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links
-here.  It is my intention here to convince you that links are bad. They are bad
-when it comes to writing for the web in general, bad for books, bad for
-long-form journalism, and even worse in academic publication. It is not that I
-am against the idea of links. As we will see here, the problem lies in the way
-links are used. That is also to say that we can do something about using links
-better. But first, why are links so bad?
-
-To start with, links are opaque. The worst of lot are links like this and this.
-Of the two “thises,” the first leads us to Google and the second to Bing. But
-your readers would not know that just by looking at the text. The best they can
-do is “hover” over the word with their mouse cursor, relying on the browser
-interface to show them where the link is going. And once they get there, there
-are no easy ways to get back. The writer must have faith in the browser to “do
-the right thing” in guiding the reader through an intertextual maze. And that
-is not right when it comes to writing. In most situations, the author should
-architect that experience explicitly. If you think about it, the old-fashioned
-apparatus of quoting an external text is itself a type of linking. But rather
-than quoting the whole text, the author only quotes the relevant bits. Sending
-readers away to do that work on their own is lazy and irresponsible. Imagine a
-tour guide who tells his tourists to “just go over there and look at some
-stuff,” and “come back when you’re done.” Links can be that disorienting.
-
-Links disrupt the reading experience, and that is the second reason for why
-links are bad. It is possible that you want the reader’s experience to be
-disrupted. But in many cases you don’t. And the reader is already distracted by
-the proliferation of parallel windows and devices that augment their reading in
-some way. Do we need to make that distraction easier? Should I link the
-Wikipedia article on media multitasking or is it enough for my purposes to
-simply mention Wikipedia, or to trust my reader to look something up later, in
-a reference source of their own choosing? Or better yet, should I help the
-reader along by summarizing the findings? It mentions that most folks already
-read with a second screen in tow. It is not that unusual to see someone look
-something up on their phone or tablet while reading a newspaper or an e-book.
-Why? Because they don’t want to leave the flow of the first screen. There is
-great pleasure in immersive, uninterrupted reading.
-
-Besides being disruptive, links are ugly. They are ugly together, as in when
-many links conspire to produce a tangled mess. And they are also ugly when
-naked on their own, like this:
-https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit.
-That string of characters is not meant for human consumption! The period at the
-end kills me entirely. Meaningless punctuation inside of links coupled with
-regular punctuation ruins the sentence and the paragraph. Of course, I could
-just tell you to read something on Google Docs. That looks much better, but
-then we are making the opaqueness problem worse by hiding the address behind
-words that may or may not be related to the destination. It seems that we are
-stuck compromising on either transparency, reading flow, or visual impact.
-
-Links aren’t very secure to begin with, but hiding links behind words further
-compromises security. You’ve probably heard of link-baiting: the purposefully
-malicious attempts to trick a reader into revealing personal information when
-following a link that masquerades as a legitimate destination. You can visit my
-site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t
-worry, that was the real Google login page.) But even if one means well,
-viruses and browser exploits can inject bad links into your otherwise
-legitimate ones. A common technique is to install a browser script along with
-some seemingly useful “search bar” that will redirect all legitimate links to a
-site that makes money by advertising. Worse yet, you could end up on a site
-that attempts to further compromise your computer. Links are not secure because
-in linking, we outsource the relationship between reader and content to the
-browser.
-
-Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last
-because the content at the address is dynamic. It is not guaranteed to be there
-decades, months, minutes after your initial visit. In that case, why even
-bother? The link works best for ephemeral output (like a tweet). We must think
-of something much more robust for any “serious” writing that hopes to survive
-to the end of the week. And for the really good stuff, the kind of stuff that
-is the purview of librarians, we need to cultivate sustainable, long-lasting,
-responsible practices of online citation. It should work as well, if not
-better, than the familiar bibliographic citation in print. This practice should
-combat digital decay, not aid it. We need to think about the ways our links can
-be accessed, mined, and preserved with the archive-grade zeal of the rare book
-librarian.
-
-Finally, links are terrible for accessibility. It is bad enough that clicking
-on a small word like this is difficult for people with any sort of fine-motor
-control problems. Being a little older in itself can make the online reading
-experience painful. Things are much worse for those with Parkinson’s or for the
-blind. Sina Bahram, a blind usability expert (who is himself blind) reports
-that some sites contain thousands (!) of links in advance of actual content.
-Screen readers for the blind must read each one of them out loud. For the
-screen reader, there is no difference between garbage links and useful content.
-If you thought looking at links is disruptive, imagine listening to a robotic
-voice that pronounces every slash and every useless number in:
-http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens
-to his reader at 950 words per minute.
-
-Any one of these issues alone should give us pause. Together, they are a cause
-of grave concern. How did we get here? And what can we do to make links good
-again?
-
-How did we get here is not an easy question. A part of the story is surely the
-excitement we once felt about hypertext. Links were supposed to break the
-hegemony of linear narrative, ushering in a new interconnected world. To some
-extent the dream came true. But links also brought with them such things as
-Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among
-other things, the number of incoming and outgoing links. This bias for
-connectivity encourages “link farms”: sites that attempt to game the system by
-aggregating links or cross-linking their own content. A sure sign of a vacuous
-SEO-driven piece of writing is a certain cynical and strategic use of links to
-other popular sources. How long until the SEO logic infects poetry, fiction, or
-investigative journalism?
-
-What can we do to make links better? There are a few things we all can do now.
-First, let’s use links sparingly. Think smartly about whether you need to link
-or whether you can make do with a good, old-fashioned quote or citation.  Don’t
-link just because you can. Second, link explicitly: Youtube.com is better than
-this. Third, realize that online content is dynamic. It makes no sense to link
-a dynamic resource when the intent is to create a link to a static version of a
-document. Tools like the Save Page Now service, hosted by the Internet Archive,
-do just that. You can find this essay at
-http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best
-captured in a snapshot here:
-http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/.
-Finally, do not neglect the humble footnote. Footnotes provide a nice blend
-between usability, transparency, and good knowledge design.
-
-1:
-http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
-
-## Chapter 7: Recursive Encounters with Oneself
-`document, vector, archive`
+This chapter begins with a close-reading of Beckett's *Krapp's Last Tape*,
+positing magnetic storage media as the "media being" of the play's title
+character. Krapp helps to unfold the problematic of documents: not as passive
+completed texts, but as vectors that mutate and move through time and space.
+Documents, as I argue here, constitute a "platform" for media being. Pushing
+off the communication model described in the last chapter, I ask: What is being
+communicated? And answer: It is the subject itself. The chapter ends with an
+explication of Sartre's idea of an "appointment with oneself," which I take to
+happen at the document level, through a series of encounters with one's own
+external manifestations of consciousness (i.e. tape and other portable storage
+media).
 
 We often think of literary works as completed products. *To the Lighthouse,*
 *Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
@@ -3332,7 +3209,9 @@ art is medium bound. Digital abstracts from the material.
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to
 other pages [@fetterly2003]."
 
-### 1.3.1 Human Revealment (Heidegger)
+### 5.1 Krapp
+### 5.2 Media Being
+### 5.2 Human Revealment (Heidegger)
 
 It is tempting to think that alientation come from phase one. Human
 displacement from the hand. Some notion of analog as natural and digital as
@@ -4164,8 +4043,6 @@ self-identity.
 ### Extended cognition
 
 
-## Chapter 8: Shared Knowledge
-`author, citation`
 
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
 word processor (with detours to Kittler and Heidegger). Writing together.
@@ -4220,7 +4097,252 @@ constitutionally protected as free speech.
 
 ### Identity Anonymous authorship.  
 
-## Chapter 9: Engineering for Dissent
+## Chapter 6: Bad Links
+`network, intertext, hypertext, symbolic links`
+
+### Abstract
+
+Where do the document vectors lead? In this chapter I triangulate between (1)
+structuralist notions of literary intertextuality, (2) the promises and
+failures of hyper-textuality in the 1990s, and (3) contemporary paradigms in
+network analysis. In each of these historically distinct theoretical moments, I
+find a similar promise of emergence: the idea that order can appear
+spontaneously as the aggregate result of simple interactions at the level of
+the system (the idea also at the core of Callon and Latour's actor-network
+theory). Once again, I make the rhetorical move against the systems view
+generally, and in literary studies in particular. In examining the heavily
+hyper-linked and intertextual essays of Gwern, a mysterious contemporary
+"researcher, self-experimenter, and writer," I contrast the structure of links
+to that of lists. A discussion on "linked lists" in computer science leads to a
+conclusion that relates to aesthetics of code and to the role of an individual
+in relation to the assemblage.
+
+### Processing Words (Engelbart)
+
+### Gwern
+I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern*
+itself. I hesitate to call it a website, because it is a site so hostile to the
+web. "So I did not wish to write a blog," the eponymous Gwern writes: 
+
+>  [...] most blog posts are the triumph of the hare over the tortoise. They
+>  are meant to be read by a few people on a weekday in 2004 and never again,
+>  and are
+>  [quickly](http://web.archive.org/web/20140126034548/http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&)
+>  [abandoned](http://web.archive.org/web/20140126035203/http://www.caslon.com.au/weblogprofile1.htm)
+>  - and perhaps as Assange says, not a moment too soon. (But isn’t that sad?
+>  Isn’t it a terrible
+>  [ROI](http://web.archive.org/web/20140126035340/http://en.wikipedia.org/wiki/Rate_of_return)
+>  for one’s time?) On the other hand, the best blogs always seem to be
+>  building something: they are rough drafts - works in progress.[^18] So I did
+>  not wish to write a blog.
+
+It contains no moving images, no pictures, to sound, and no code. It is a
+static site, that is to say it is compiled once, on the authors box and not
+generated dynamically, in response to a individual reader's visit. *gwern* is
+static, showing its visitor "pre-printed" pamphlet-like pages. But prints and
+pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to
+misquote @Drucker).^[LN2] What is it, if it is not a blog?
+
+Just to make sure *gwern* did not disappear, I took a "snapshot" on January
+24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a
+mechanism to caputure a fixed version of the document. Unilike paper, text on
+the web is never fixed. In fact, thinking of published documents (books,
+newspapers, and journals) as a type of a "screenshot" helps understand the the
+semantic slide between "paper" and "pixel." The medium does not matter (and
+certainly not the message). In the few seconds that I am fixing the pixels into
+a canonical version of the text, the author/s of *gwern* may have advanced the
+same text conceptually, creating a new and diverging "branch" of the entity at
+hand. That is why we must write "date accessed" in the bibliography. The
+footnote traditionally points to material in the real world. The pixel is
+virtual. The two differ in the state of being. One is emergent, and the other,
+actualized. It is likely that the page has always acted this way: to serve as a
+momentary textual glimpse into the eternal world of thought. The difference
+lies in an evolving organism and its ossified imprint.
+
+Internet archive. "Saved 152 times between May 5, 2011 and January 26, 2014."
+That means that the page became static print 152 times. In all other
+actualitites, it remained evolving and potentually infinite.^[Infinite in the
+sense human lives are infinite in comparison to pages.]
+
+Well connected: Kevin Kelly, Eliezer Yudkowsky's blog.  We read and archive our
+experience of reading.
+
+[LN1]: http://web.archive.org/web/20140126025146/http://www.gwern.net/About
+[LN2]:
+http://web.archive.org/web/20140126030328/http://lareviewofbooks.org/essay/pixel-dust-illusions-innovation-scholarly-publishing
+[LN3]: [18]: Examples of such blogs:
+
+1. [Eliezer
+Yudkowsky’s](https://web.archive.org/web/20140126040858/http://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
+contributions to
+[LessWrong](https://web.archive.org/web/20140126041017/http://lesswrong.com/)
+were the rough draft of a philosophy book (or two)
+2. John Robb’s [Global
+Guerrillas](http://web.archive.org/web/20140126041136/http://globalguerrillas.typepad.com/)
+lead to his [Brave New War: The Next Stage of Terrorism and the End of
+Globalization](http://web.archive.org/web/20140126041301/http://www.amazon.com/exec/obidos/ASIN/0471780790/?tag=gwernnet-20)
+3. [Kevin
+Kelly’s](http://web.archive.org/web/20140126041441/http://en.wikipedia.org/wiki/Kevin_Kelly)
+[Technium](http://web.archive.org/web/20140126041640/http://kk.org/thetechnium/)
+was turned into [What Technology
+Wants](http://web.archive.org/web/20140126042029/http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0670022152/?tag=gwernnet-20).
+
+An example of how not to do it would be [Robin
+Hanson‘s](http://web.archive.org/web/20140126042143/http://en.wikipedia.org/wiki/Robin_Hanson)
+[Overcoming
+Bias](http://web.archive.org/web/20140126042246/http://www.overcomingbias.com/)
+blog; it is stuffed with fascinating citations & sketches of ideas, but they
+never go anywhere. Just his posts on
+[medicine](http://web.archive.org/web/20131115012232/http://www.overcomingbias.com/)
+would make a fascinating essay or just list - but he has never made one.
+([“Showing That You Care: The Evolution of Health
+Altruism”](http://web.archive.org/web/20140126042648/http://hanson.gmu.edu/showcare.pdf)
+would be a natural home for many of his posts’ contents, but will never be
+updated.) ### Hypertext Ted Nelson.  Rise of intertextuality. The promise of
+hypertext. Bush w/ Memex. Nelson. Failure of intertext. Borrow from bad links
+here.  It is my intention here to convince you that links are bad. They are bad
+when it comes to writing for the web in general, bad for books, bad for
+long-form journalism, and even worse in academic publication. It is not that I
+am against the idea of links. As we will see here, the problem lies in the way
+links are used. That is also to say that we can do something about using links
+better. But first, why are links so bad?
+
+To start with, links are opaque. The worst of lot are links like this and this.
+Of the two “thises,” the first leads us to Google and the second to Bing. But
+your readers would not know that just by looking at the text. The best they can
+do is “hover” over the word with their mouse cursor, relying on the browser
+interface to show them where the link is going. And once they get there, there
+are no easy ways to get back. The writer must have faith in the browser to “do
+the right thing” in guiding the reader through an intertextual maze. And that
+is not right when it comes to writing. In most situations, the author should
+architect that experience explicitly. If you think about it, the old-fashioned
+apparatus of quoting an external text is itself a type of linking. But rather
+than quoting the whole text, the author only quotes the relevant bits. Sending
+readers away to do that work on their own is lazy and irresponsible. Imagine a
+tour guide who tells his tourists to “just go over there and look at some
+stuff,” and “come back when you’re done.” Links can be that disorienting.
+
+Links disrupt the reading experience, and that is the second reason for why
+links are bad. It is possible that you want the reader’s experience to be
+disrupted. But in many cases you don’t. And the reader is already distracted by
+the proliferation of parallel windows and devices that augment their reading in
+some way. Do we need to make that distraction easier? Should I link the
+Wikipedia article on media multitasking or is it enough for my purposes to
+simply mention Wikipedia, or to trust my reader to look something up later, in
+a reference source of their own choosing? Or better yet, should I help the
+reader along by summarizing the findings? It mentions that most folks already
+read with a second screen in tow. It is not that unusual to see someone look
+something up on their phone or tablet while reading a newspaper or an e-book.
+Why? Because they don’t want to leave the flow of the first screen. There is
+great pleasure in immersive, uninterrupted reading.
+
+Besides being disruptive, links are ugly. They are ugly together, as in when
+many links conspire to produce a tangled mess. And they are also ugly when
+naked on their own, like this:
+https://docs.google.com/document/d/1TaGiFBG_WSEGKFey9sR0pafjjKK7Fuc0jhF5d4K1ouA/edit.
+That string of characters is not meant for human consumption! The period at the
+end kills me entirely. Meaningless punctuation inside of links coupled with
+regular punctuation ruins the sentence and the paragraph. Of course, I could
+just tell you to read something on Google Docs. That looks much better, but
+then we are making the opaqueness problem worse by hiding the address behind
+words that may or may not be related to the destination. It seems that we are
+stuck compromising on either transparency, reading flow, or visual impact.
+
+Links aren’t very secure to begin with, but hiding links behind words further
+compromises security. You’ve probably heard of link-baiting: the purposefully
+malicious attempts to trick a reader into revealing personal information when
+following a link that masquerades as a legitimate destination. You can visit my
+site to learn more about link-baiting. You shouldn’t have clicked that! (Don’t
+worry, that was the real Google login page.) But even if one means well,
+viruses and browser exploits can inject bad links into your otherwise
+legitimate ones. A common technique is to install a browser script along with
+some seemingly useful “search bar” that will redirect all legitimate links to a
+site that makes money by advertising. Worse yet, you could end up on a site
+that attempts to further compromise your computer. Links are not secure because
+in linking, we outsource the relationship between reader and content to the
+browser.
+
+Links are opaque, disruptive, ugly, unsafe, and they rot. Links don’t last
+because the content at the address is dynamic. It is not guaranteed to be there
+decades, months, minutes after your initial visit. In that case, why even
+bother? The link works best for ephemeral output (like a tweet). We must think
+of something much more robust for any “serious” writing that hopes to survive
+to the end of the week. And for the really good stuff, the kind of stuff that
+is the purview of librarians, we need to cultivate sustainable, long-lasting,
+responsible practices of online citation. It should work as well, if not
+better, than the familiar bibliographic citation in print. This practice should
+combat digital decay, not aid it. We need to think about the ways our links can
+be accessed, mined, and preserved with the archive-grade zeal of the rare book
+librarian.
+
+Finally, links are terrible for accessibility. It is bad enough that clicking
+on a small word like this is difficult for people with any sort of fine-motor
+control problems. Being a little older in itself can make the online reading
+experience painful. Things are much worse for those with Parkinson’s or for the
+blind. Sina Bahram, a blind usability expert (who is himself blind) reports
+that some sites contain thousands (!) of links in advance of actual content.
+Screen readers for the blind must read each one of them out loud. For the
+screen reader, there is no difference between garbage links and useful content.
+If you thought looking at links is disruptive, imagine listening to a robotic
+voice that pronounces every slash and every useless number in:
+http://www.youtube.com/watch?v=92pM6hJG6Wo. And that is why Sina Bahram listens
+to his reader at 950 words per minute.
+
+Any one of these issues alone should give us pause. Together, they are a cause
+of grave concern. How did we get here? And what can we do to make links good
+again?
+
+How did we get here is not an easy question. A part of the story is surely the
+excitement we once felt about hypertext. Links were supposed to break the
+hegemony of linear narrative, ushering in a new interconnected world. To some
+extent the dream came true. But links also brought with them such things as
+Search Engine Optimization (SEO). Google’s PageRank algorithm tracks, among
+other things, the number of incoming and outgoing links. This bias for
+connectivity encourages “link farms”: sites that attempt to game the system by
+aggregating links or cross-linking their own content. A sure sign of a vacuous
+SEO-driven piece of writing is a certain cynical and strategic use of links to
+other popular sources. How long until the SEO logic infects poetry, fiction, or
+investigative journalism?
+
+What can we do to make links better? There are a few things we all can do now.
+First, let’s use links sparingly. Think smartly about whether you need to link
+or whether you can make do with a good, old-fashioned quote or citation.  Don’t
+link just because you can. Second, link explicitly: Youtube.com is better than
+this. Third, realize that online content is dynamic. It makes no sense to link
+a dynamic resource when the intent is to create a link to a static version of a
+document. Tools like the Save Page Now service, hosted by the Internet Archive,
+do just that. You can find this essay at
+http://sprintbeyondthebook.com/2014/02/bad-links/ but its earlier draft is best
+captured in a snapshot here:
+http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/.
+Finally, do not neglect the humble footnote. Footnotes provide a nice blend
+between usability, transparency, and good knowledge design.
+
+1:
+http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
+
+## Chapter 7: Engineering for Dissent
+
+### Abstract
+
+In this final chapter, I argue for the recovery and the preservation of plain
+textuality in the day-to-day practice of modern computing. Returning to the
+history of the `.txt` file format, I find that early documents from the
+International Telecommunication Union (and later international bodies governing
+the exchange of information across state borders) display unease with
+encrypted, non-human-readable formats of information exchange. A theoretical
+treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
+Golumbia concludes in a discussion about the subject's role in actively shaping
+the material conditions of media being. As documents reflecting externalized
+states of consciousness become increasingly more transparent, they are
+susceptible to increased surveillance and control (through encryption, by
+example). Plain text allows political subjects to decouple externalized mental
+states from mechanisms of governance.  (In other words, to actively decide when
+to opt in and when to opt out). This affordance is not however a deterministic
+property of literature, the internet, or any other information exchange system.
+Rather, the design of complex systems must itself become critical practice,
+which, in complement to critical theory, can actively engineer for textual
+mechanisms that make individual dissent possible.
 
 Encrypted literature. Revealment and dissimulation. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
@@ -4246,6 +4368,18 @@ mechanisms of control.
 
 Deeper metaphysical dread about computation, that should be understood
 historically (where Lennon gets it right). You are not a gadget.
+
+Yet, to make the subjective experience strange again is to look at it
+through the eyes of a stranger. Makhail Bakhtin writes (in what I think is a
+previously untranslated passage):
+
+> It is not I who looks out from the inside, but I look at myself with the eyes
+of the world, strange eyes; I am possessed by another. There is no integrity of
+internal and external here. To glimpse my own preocular image. The naive
+confluence of self and the other in the mirror image. The surplus of the other.
+There is no point of view outside of myself; I cannot access my own internal
+image. From my eyes stare a stranger's eyes [@"The Man by the Mirror," Mikhail
+Bakhtin]
 
 
 ## Tech Appendix
