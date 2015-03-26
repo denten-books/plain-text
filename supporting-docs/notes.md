@@ -41,7 +41,7 @@ Publisher
     "Ex-foliations: Reading Machines and the Upgrade Path" by Terry Harpold.  Post
     humanism, media archeology, "ethics of": like "Image Ethics in the Digital
     World" edited by Larry Gross, John Stuart Katz, and Jay Ruby and "From Light to
-    Byte" by Markos Hadjioannou.
+    Byte" by Markos Hadjioannou. Matt Gold knows the editor.
 
 
 - John Hopkins: Published Closed Captioning and Aarseth. Weak otherwise.
@@ -107,3 +107,6 @@ For book blurb
 
 Write the companion on githubpages + ipython + nbivewer + asciicinema notebook!
 
+Tech Appendix
+===========================
+Release as man pages.
