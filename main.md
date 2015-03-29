@@ -1383,8 +1383,8 @@ only the illusion of flattened textuality).
 
 What makes a text? In talking about texts of all kinds, literary scholars and
 computer scientists often make the distinction between form and content.
-"Classical art, in a word, stands for form," R.G. Gollingwood wrote in 1929,
-and "romamantic art for content [@collingwood_form_1929, 335]." In a much more
+"Classical art, in a word, stands for form," R.G. Collingwood wrote in 1929,
+and "romantic art for content [@collingwood_form_1929, 335]." In a much more
 recent work on computational text generation, Kathleen McKeown writes that to
 produce discourse, writers and speakers "must decide what to say and how to
 present it effectively." A machine that generates text should, among other
@@ -1409,23 +1409,23 @@ sort of an ideal, metaphysical state, somewhere beyond the confines of the
 material universe. By contrast, a physical instantiation of that object (a
 specific chair) embodies a somewhat more limited, even corrupted, version of
 that perfect idea. The task of the philosopher, then, becomes to reconstruct
-the ideal notion of the perfect chair from their many imperfect instantiations.
-A contemporary computer scientist will recognize in this chain of reasoning the
-principles behind object oriented programming: a way of building software that
-works by defining abstract "object classes" and invoking them as "class
-instances" [@hoare_record_1965, @nygaard_history_1981]. Similarly, for Plato
-and later René Descartes, G.W.F.  Hegel, and for other so-called "idealists,"
-ideas provide us with lasting universal "templates" for the contingent and
-always changing material world.[^ln11-descartes]
+the single ideal notion of the perfect chair from its many imperfect
+instantiations. A contemporary computer scientist will recognize in this chain
+of reasoning the principles behind object oriented programming: a way of
+building software that works by defining abstract "object classes" and invoking
+them as "class instances" [@hoare_record_1965, @nygaard_history_1981].
+Similarly, for Plato and later René Descartes, G.W.F. Hegel, and for other
+so-called "idealists," ideas provide us with lasting universal "templates" for
+the contingent and always changing material world.[^ln11-descartes]
 
-It is Hegel who gives perhaps the paradigmatic expression to the dichotomy in
-the literature on aesthetics. In his *Lectures on Aesthetics*, Hegel posits
-classical art as striving to reach an equilibrium between its ideational,
-spiritual content and "the configuration of sensuous material
-[@hegel_hegels_1998, 70]." Whole books have been written on Hegel's rather
-technical and sometimes idiosyncratic vocabulary. Rather than define terms
-precisely, Hegel likes to bombard his reader with semantic cognates. On the
-side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
+It is Hegel who gives perhaps the paradigmatic expression to the dichotomy
+between form and content in the literature on aesthetics. In his *Lectures on
+Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
+between its ideational, spiritual content and "the configuration of sensuous
+material [@hegel_hegels_1998, 70]." Whole books have been written on Hegel's
+rather technical and sometimes idiosyncratic vocabulary. Rather than define
+terms precisely, Hegel likes to bombard his reader with semantic cognates. On
+the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
 (*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
 (*Geist*). All of these convey a movement inward and a location beyond the
 physical world, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
@@ -1531,16 +1531,15 @@ meccanico e la sensibilità numerica]
 ### 2.2 From Texts to Work
 
 My short history of the distinction between form and content is necessarily
-reductive. The situation on the ground was always more nuanced than the
-dichotomy would suggest, with a number of reasonable positions between extreme
-idealism and extreme materialism. It is enough however to give a sense of
-what's at stake: not just a dry academic debate about the nature of art, but
-the very capability of art (and don't necessarily think "high art" here) to
+reductive. The situation on the ground was and continuous to be more nuanced
+than the dichotomy would suggest, with a number of reasonable positions between
+extreme idealism and extreme materialism. It is enough however to give a sense
+of "what's at stake:" not just a dry academic debate about the nature of art,
+but the very capability of art (and don't necessarily think "high art" here) to
 transform humanity. For Hegel, true art reaches for truth beyond visible forms,
-and in the processing transcending the deterministic material universe. The
-early formalists rejected Hegel, emphasizing instead the text's outward formal
-properties as "devices" capable of revitalizing stale metaphors and ossified
-ways of thinking.
+transcending the deterministic material universe. The early formalists rejected
+Hegel, emphasizing instead the text's outward formal properties as "devices"
+capable of revitalizing stale metaphors and ossified ways of thinking.
 
 The division of text into form and content makes a difference in more
 utilitarian ways as well. For example, imagine the challenge of compiling all
@@ -1580,41 +1579,41 @@ of logical possibilities find as many ardent adherents. For some, the act of
 deriving the authoritative text lies in reconstructing authorial intent, using
 the author's notes, for example, or from first-hand witness testimony. Others
 place a premium on reconstructing and analyzing the writing process itself, in
-what has recently been dubbed as "genetic criticism  [@deppman_genetic_2004,
-1-36]". Yet another approach will compare multiple editions of the same text to
-derive a possible meta-text, that preserves all variation. Yet others will
-simply rely on their judgment to produce what they believe is a "true" text
-based on a number of personal and eclectic considerations
-[@bowers_rationale_1950, @bowers_shakespeares_1954, @mcgann_radiant_2004]. All
-of these approaches have at least this one thing in common: behind the fuzzy
-profusion of textual material they perceive the outlines of a single, unified
-work. As a prominent contemporary textual scholar puts it, "one must be able to
-distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
-a textual critic, all real-word variants and reproductions are suspect and
-possibly corrupt in some way. Despite its careful attention to the materiality
-of the text as artifact, textual criticism remains a classically idealistic
-pursuit. The work exists as an ideal form in the realm of the ideal.
+what has been dubbed as "genetic criticism  [@deppman_genetic_2004, 1-36]." Yet
+another approach will compare multiple editions of the same text to derive a
+possible meta-text, preserving all sub-variation. Yet others will simply rely
+on their judgment to produce what they believe is a "true" text based on a
+number of personal and eclectic considerations [@bowers_rationale_1950,
+@bowers_shakespeares_1954, @mcgann_radiant_2004]. All of these approaches have
+at least this one thing in common: behind the fuzzy profusion of textual
+material they perceive the outlines of a single, unified work. As a prominent
+contemporary textual scholar puts it, "one must be able to distinguish the work
+itself from attempts to reproduce it."[^ln11-tanselle] For a textual critic of
+a kind, all real-word variants and reproductions are suspect and possibly
+corrupt in some way. Despite its careful attention to the materiality of the
+text as artifact, textual criticism in this vein remains a classically
+idealistic pursuit. The work exists as an ideal form in the realm of the ideal.
 
 [ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
 reading or listening to receive a message from the past entails the effort to
 discover, through the text (or texts) one is presented with, the work that lies
 behind [@tanselle_rationale_2010, 13-18.]."
 
-Textual artifacts exhibit the dualism between text and work to a much greater
-extent than other forms of art and communication. Philosophers Nelson Goodman
-and Catherine Elgin explain this peculiarity by making the distinction between
-"works of art whose identity depends on their history of production" and works
-whose identity does not. The former they call "autographic" and the latter
-"allographic [@goodman_reconceptions_1988, 65]." These terms will be useful for
-us throughout the book.
-
-
-Architecture and painting, for
-example, are strongly autographic disciplines. An exact copy of a Vermeer or of
-a building by Frank Lloyd Wright could never rise to the status of the
-original. The originals have what Walter Benjamin called an "aura or
-authenticity." No amount of precision, down to the molecular level, could
-substitute for the historical patina of the original artifact.
+Text, as I have already began to define it Chapter One, is a digital mode of
+representation, defined, at least in part, by a relative lack of "stickiness"
+to its physical medium. Textual artifacts therefore exhibit the dualism between
+text and work to a much greater extent than other forms of art and
+communication. Philosophers Nelson Goodman and Catherine Elgin explain this
+peculiarity by making the distinction between "works of art whose identity
+depends on their history of production" and works whose identity does not. The
+former they call "autographic" and the latter "allographic
+[@goodman_reconceptions_1988, 65]." These terms will be useful for us
+throughout the book. Architecture and painting, in this view, are strongly
+autographic disciplines. An exact copy of a Vermeer or of a building by Frank
+Lloyd Wright could never rise to the status of the original. The originals have
+what Walter Benjamin called an "aura or authenticity." No amount of precision,
+down to the molecular level, could substitute for the historical patina of the
+original artifact.
 
 It is quite strange, if you think about it: to believe that objects somehow
 retain an aura of history: "a handkerchief used by Princess Diana," or "the
@@ -1637,15 +1636,16 @@ to meet the beholder or listener in his own particular situation, it
 reactivates the object reproduced. These two processes lead to a tremendous
 shattering of tradition which is the obverse of the contemporary crisis and
 renewal of mankind [@benjamin_work_1969, 217-253]." Once again, the fault lines
-between form and content lead threaten nothing less than human spiritual
-renewal. And yet, for Benjamin, the easy reproducibility of modern art forms
-like film and photography also "emancipates the work of art from its
-parasitical dependence on ritual [@benjamin_work_1969, 217-253]." The magic of
-traditional art must be exposed as just that: magic and superstition. Crisis or
-emancipation? Benjamin feels both, and in this he captures the metaphysical
-anxiety of the modern age. We want our Vermeers to stay special but also to
-multiply for everyone, peering back at us from a multitude of anonymous
-reproductions.
+between form and content threaten nothing less than the possibility of human
+spiritual renewal. And yet, for Benjamin, the easy reproducibility of modern
+art forms like film and photography also "emancipates the work of art from its
+parasitical dependence on ritual [@benjamin_work_1969, 217-253]." One could
+read Benjamin's famous essay as a piece of pre-technological nostalgia, or as
+an expose on the magic and superstition latent in modernist art. Crisis or
+emancipation? Benjamin feels both, and in doing so he captures the metaphysical
+anxiety of the modern age. We desire for our Vermeers to stay special but also
+for a Vermeer to hang in every home, peering back at us from a multitude of
+anonymous reproductions.
 
 The modern world faces the challenge of authenticity, which we have only began
 to assimilate: politically, economically, and philosophically. The ubiquitous
@@ -1657,9 +1657,16 @@ called "knock-offs" are essentially exact duplicates, often "leaked" from the
 very same factories producing the original.
 
 Note that it makes no sense to talk about "what was meant" by the designer of
-the handbag, the way textual critic may talk about authorial intention.  Nor
+the handbag, the way textual critic may talk about authorial intention. Nor
 would it make sense to "correct" some perceived flaw in the painting by
-Vermeer. All "unauthorized" copies constitute a forgery that competes for
+Vermeer. The parallel practice to "textual criticism" in visual arts is
+restoration. Although similar to textual criticism in its desire to recover
+some notion of the original, crucially, the practice of art restoration takes
+place without reproduction. Unlike a critical volume, which essentially
+reprints the work in its reconstructed entirety, restoration happens at the
+site.
+
+All "unauthorized" copies constitute a forgery that competes for
 attention with the original. One could say that for painting and handbags
 "matter is synonymous with meaning," but the sentiment strains at the limits of
 traditional vocabulary, which gives us only the binaries of form and content.
@@ -2283,12 +2290,13 @@ against the internet and computation, which to many threaten the very
 foundations of humanity and the humanities [@golumbia2009, @marche2012,
 @fish2012].[^ln12-internetet] My thesis, presented here and throughout, is that
 the aims of such metaphysical angst are misaligned. Reconstructing the physical
-conditions of textuality reveals profound alienation from material contexts of
-literary production on the part of readers and authors. Although literacy
-thrives, the very nature of what constitutes a literary text changes with the
-advent of new material conditions. Changing circumstances destabilize
-established modes of literary production, access, and distribution tied to the
-circulation of paper and ink.
+conditions of textuality, the work began in the first chapter of the book,
+makes plain the profound alienation from material contexts of literary
+production on the part of readers and authors. Although literacy thrives, the
+very nature of what constitutes a literary text changes with the advent of new
+material conditions. Changing circumstances destabilize established modes of
+literary production, access, and distribution tied to the circulation of paper
+and ink.
 
 [^ln12-internet]: The NEA study has this to say on the topic of "What is
 responsible for the decline of literary reading?": "If the 2002 data represent
@@ -2309,22 +2317,23 @@ the newspaper or listening to the taped music you get while the phone company
 or your doctor puts you on hold." A corollary to my main thesis is an argument
 against that commonly-held belief about the relationship between literature and
 aesthetics. To my mind, the distinction is impossible to define, let alone
-maintain in practice. Bias in favor of the aesthetic is a bias in favor of a
+maintain in practice. Bias in favor of the aesthetic is bias in favor of a
 specific, historically- and materially- contingent idea of the aesthetic. That
 preconceived idea carries with it a hidden cost, introducing numerous blind
-spots into the study of literature at large, limiting it in scope and
-relevance. Textual diffusion threatens not the humanity (or the humanities),
-but the existing socio-economic order that governs who gets to access, to
-interpret, and to archive literature as text and document. I begin with several
-propositions then: one that the literary field, understand in broad terms, is
-expanding, and two, that with a quantitative expansion comes qualitative change
-in the material make-up of the literary text. Where I start with a top-down,
-theoretical reconceptualization of literature as an epistemological category, I
-end with a bottom-up media history that traces the passage of pixel to text.
+spots into the study of literature at large, limiting the critical task in
+scope and relevance. Textual diffusion threatens not the humanity (or the
+humanities), but the existing socio-economic order that governs who gets to
+access, to interpret, and to archive literature as text and document. I begin
+with several propositions then: one that the literary field, understood in
+broad terms, is expanding, and two, that with a quantitative expansion comes
+qualitative change in the material make-up of the literary text. Where I start
+with a top-down, theoretical reconceptualization of literature as an
+epistemological category, I end with a bottom-up media history that traces the
+passage of pixel into text.
 
 When surveying the introductory literature on literature, the reader will
 invariably find a version of Said's "fundamental irreconcilability" position.
-For example, in Austin Warren and Renee Wellek's, *Theory of Literature* the
+For example, in Austin Warren and Renee Wellek's *Theory of Literature* the
 authors write that the "term 'literature' seems best if we limit it to the art
 of literature, that is, to imaginative literature […] the main distinctions to
 be drawn are between the literary, the everyday, and the scientific uses of
@@ -2372,17 +2381,17 @@ reading of poetry and fiction, of a specific kind, holding a privileged form,
 sold in preferred manner.
 
 Hampered by an artificially-limited field of activity, the study of literature
-excavates a small, sacred patch on tip of an immense textual iceberg.
-The results of all that iceberg-digging sink to join the mass of
-its submerged and unexcavated bottom. Texts multiply and produce other texts:
-that's more or less the point of Roland Barthes's 250-page exegesis of a 30
-page short story by Honoré de Balzac. Despite my fond appreciation of Barthes
-as a scholar, I suspect that exponential growth and diminishing returns will
-eventually (if not already) make such relentlessly exogesic mode of scholarship
-unsustainable. The value of each new "Barthes" and associated commentary
-plummets as texts multiply exponentially, quickly reaching the human limits of
-comprehension. There no winners in such an arm race between footnotes, only
-eventual irrelevance.
+excavates a small, sacred patch on tip of an immense textual iceberg.  The
+results of all that iceberg-digging sink to join the mass of its submerged and
+unexcavated bottom. Texts multiply and produce other texts: that's more or less
+the point of Roland Barthes's 250-page exegesis of a 30 page short story by
+Honoré de Balzac. Despite my fond appreciation of Barthes as a scholar, I
+suspect that exponential growth and diminishing returns will eventually (if not
+already) make such relentlessly exegesic mode of scholarship unsustainable. The
+value of each new "Barthes" and associated commentary plummets as texts
+multiply exponentially, quickly reaching the human limits of comprehension.
+There are no winners in such an arm race between footnotes, only eventual
+irrelevance.
 
 Non-positivistic disciplines like literary studies lack a methodology for
 definitively settling any research program. For this reason, citation patterns
@@ -2392,28 +2401,28 @@ word" on any given question. Without robust mechanisms for condensing and for
 pruning accepted knowledge the archive expands precipitously. Its combined
 weight necessarily devalues the literature of the present, creating a curious
 kind of a gap in contemporary material. A "modernist" in literary studies
-denotes a specialist who works on documents which are now over a century old.
-And most departments of literature cover only a limited range of best-sellers
-from the "post WWII period." A competent modernist can likely name dozen or so
-contemporaneous literary movements emerging at the turn of the twentieth
-century. Few in our field can name more than a handful at the turn of the
-twenty-first.[^ln12-survey]
+denotes a specialist who works on documents which are now more than a century
+old. And most departments of literature cover only a limited range of
+best-sellers from the "post WWII period." A competent graduate literature
+student can likely name dozen or so contemporaneous literary movements emerging
+at the turn of the twentieth century. Few in the field are likely to name more
+than a handful at the turn of the twenty-first.[^ln12-survey]
 
-The logic Said's eloquent defense of the aesthetic merely continues a tradition
-of exclusionary distinction-making, which before Said denied writers like
-Naguib Mahfouz and musicians like Duke Ellington a place in the curriculum. The
-logic of exclusion on aesthetic basis places the critic in the awkward role of
-a taste-maker, limiting research to texts that in a sense were already
-"blessed" by the establishment. Scholars working on "lesser" or "unknown" texts
-and writers must expand considerable energy justifying the aesthetic merits of
-their chosen subject. At stake in the binary logic of aestheticism are the very
-notions of "beautiful" and "quotidian" as markers of prestige--notions that
-encourage disciplinary infighting, tug-of-war style, by which much energy is
-spent in struggling to pull material from one category into the other. In the
-meantime, the shoring up of the aesthetic detracts from the larger aims of
-literary scholarship, reducing literature to its ornamental function, as a
-"neat illustration" for otherwise empirical accounts of the human
-condition.[^ln12-menand]
+The logic of Said's eloquent defense of the aesthetic merely continues a
+tradition of exclusionary distinction-making, which, before Said, denied
+writers like Naguib Mahfouz and musicians like Duke Ellington a place in the
+curriculum. The logic of exclusion on aesthetic basis places the critic in the
+awkward role of a taste-maker, limiting research to texts that in a sense were
+already "blessed" by the establishment. Scholars working on "lesser" or
+"unknown" texts and writers must expand considerable energy justifying the
+aesthetic merits of their chosen subject. At stake in the binary logic of
+aestheticism are the very notions of "beautiful" and "quotidian" as markers of
+prestige--notions that encourage disciplinary infighting, tug-of-war style, by
+which much energy is spent in struggling to pull material from one category
+into the other. In the meantime, the shoring up of the aesthetic detracts from
+the larger aims of literary scholarship, reducing literature to its ornamental
+function, as a "neat illustration" for otherwise empirical accounts of the
+human condition.[^ln12-menand]
 
 [^ln12-menand]: I am echoing Louis Menand's "the version of the humanities that
 would make many non-humanists most comfortable today is the version in which art
@@ -2431,7 +2440,7 @@ values are more than simple assertion of private taste, instead they refer to
 assumptions "by which certain social group exercise and maintain control over
 others [@eagleton1983, 15-47]. Who controls what? My interpretation of Marxist
 materialism is considerably more literal than Eagleton's. I am interested here
-in physical mechanisms of control, not in their ephemeral ideological
+in physical mechanisms of control, not only in their more ephemeral ideological
 justifications.
 
 In trying to understand the incongruity of NEA's dour prognosis with broad
@@ -2442,24 +2451,24 @@ particular mode) as cause and symptom for the general decline of the arts (and
 perhaps of civilization itself). I find that reading unacceptable, (1) because
 it is depressing and (2) because it smacks of historical exceptionalism. I
 strongly suspect that humanity's potential for innovation and creativity has
-remained relatively stable. The material conditions for creative expression may
-change (as in the times of political oppression, pestilence, or war), where the
-spirit endures.
+remained relatively stable through history. The material conditions for
+creative expression may change (as in the times of political oppression,
+pestilence, or war), where the spirit endures.
 
 The second, much more palatable (and likely) explanation would question the
 very definitions of literary reading. Consider the possibility of online or
 digital literature that evolves according to a logic of its own, where previous
 ideas of "genre" or "literary movements" no longer apply. To restrict literary
 reading to "novels, short stories, plays, and poetry" is to deny some measure
-of litirariness to song-writing, computer game making, and software design,
-and, in an obvious way, to non-fiction or, let's say, to long stories of
-arbitrary length.  Imagine, for example, excluding reality television from the
-survey on television habits, because the genre does not confirm to some
-normative sense of what television should be. Do the survey makers consider
-literature as a medium, like television, or a grab-bag of "serious genres" like
-comedy and drama? As it turns out: both. The authors of the report concede the
-point in sometimes classifying readers by the number of books read in any
-genre, effectively equating literature with "books [@NEA2004]." But even that
+of literariness to song-writing, computer game making, software design, and, in
+an obvious way, to non-fiction or, let's say, to long stories of arbitrary
+length. Imagine, for example, excluding reality television from the survey on
+television habits, because the genre does not confirm to some normative sense
+of what television should be. Do the survey makers consider literature as a
+medium, like television, or a grab-bag of "serious genres" like comedy and
+drama? As it turns out: both. The authors of the report concede the point in
+sometimes classifying readers by the number of books read in any genre,
+effectively equating literature with "books [@NEA2004]." But even that
 concession confuses form with function. What if "reading a book" begins to
 involve something other than moving one's eyes from left to right over
 sequentially numbered blocks of text? Or what if books were more like pills, or
@@ -2483,7 +2492,7 @@ scholar's task, because the concept of value itself is "individual,
 unpredictable, variable, incommunicable, indemonstrable, and mainly an
 intuitive reaction to knowledge." "The more consistently one conceives of
 criticism as the pursuit of values," writes Frye, "the more firmly one becomes
-attached to that great sect of anti-intellectualism."
+attached to that great sect of anti-intellectualism [CITATION NEEDED]."
 
 To this Murray Krieger responded in pointing out the inevitability of value
 formation in the work of even the most analytically-inclined critic. Krieger
@@ -2504,18 +2513,18 @@ arguing that although value-making contaminates all acts of interpretation, the
 scholar can and should adopt an interrogatory stance towards value creation as
 such, which ultimately allows her to "form new judgments of value and
 significance [@hirsch1968, 331]." In this camp we also find "Contingencies of
-Value," a 1983 article by Barbara Herrnstein Smith, where the author urges her
-peers to make the examination of social value-creating mechanisms a part of
-their academic discipline. "What are commonly taken to be *signs* of literary
-value, are also its *springs*," Smith writes [@smith1983, 30]. And the springs
-unmistakably push the whole enterprise towards the Western, economically
-privileged, model of the canon. Texts that survive in the teaching and the
-selling of literature survive as long as they do not radically subvert the
-prevailing ideology. Smith stops short from offering a way out of the
+Value," by Barbara Herrnstein Smith, published in 1983. At the time, Smith
+urged her peers to make the examination of social value-creating mechanisms a
+part of their academic discipline. "What are commonly taken to be *signs* of
+literary value, are also its *springs*," Smith writes [@smith1983, 30]. And the
+springs unmistakably push the whole enterprise towards the Western,
+economically privileged, model of the canon. Texts that survive in the teaching
+and the selling of literature survive as long as they do not radically subvert
+the prevailing ideology. Smith stops short from offering a way out of the
 conundrum. For even as the canon grows to include previously excluded voices,
 those voices take on the shape of soft acquiescence. The custodians of the
 Western canon "cannot grasp or acknowledge" that alternative forms of
-litirariness and textuality can take on the functions of Dante or Homer for
+literariness and textuality can take on the functions of Dante or Homer for
 others [@smith1983, 1-35]. I am appropriately galvanized by Smith's fiery
 rhetoric, but must admit that not much has changed since the 1980s. The
 compromise does not approach the very peculiarity of the question itself. Must
@@ -2529,31 +2538,30 @@ sanctioning, condoning--appear out of place, incongruent with the inquiry at
 hand. Something is rotten in the very formulation of the question. To put it
 differently: Must we study *only* what we value? I cannot think of a way to
 defend the answer to the affirmative. A zoology that singularly insists on the
-study of beautiful animals is itself a strange creature.[^ln12-zoo] A
-more radical compromise compels us to seek value in the importance of the
-inquiry itself: in the quality of the questions raised, and in the relevance of
-the answers given.  If literary reading of a certain kind has the power
-ascribed to it by the NEA report (increased civic participation, etc.),
-literary humanities need not concern itself with the protection of the
-literary. The survival of the field (and not of literature itself) depends on
-the freedom of its cadres to pursue the literary function everywhere,
-indiscriminately, even in the discarded textual detritus of human activity,
-however quotidian. A conception of a more neutral, broad literary domain can
-include and preserve all existing forms of textuality.
+study of beautiful animals is itself a strange creature.[^ln12-zoo] A more
+radical compromise compels us to seek value in the importance of the inquiry
+itself: in the quality of the questions raised, and in the relevance of the
+answers given. If literary reading of a certain kind has the power ascribed to
+it by the NEA report (increased civic participation, etc.), literary humanities
+need not concern itself with the protection of the literary. The survival of
+the field (and not of literature itself) depends on the freedom of its cadres
+to pursue the literary function everywhere, indiscriminately, even in the
+discarded textual detritus of human activity, however quotidian. A conception
+of a more neutral, broad literary domain can include and preserve all existing
+forms of textuality.
 
 [^ln12-zoo]: There are several studies that explore the effect of perceived
 aesthetics on zoology and conservation. See esp. @frynta2009 and @stokes2007.
 The short of it: cute animals get more funding.
 
 I am trying to burrow (impatiently, because the archive is thick, and the
-bottom so far) from a big idea, like literature, down to its more modest
-textual forms, and into the material substratum of digital and paper print
-media. At some point we'll need to start digging the tunnel the other way, from
-the bottom up. For this, we'll need an operational definition of literature,
-free (to the extent it is possible) from its normative baggage: something like
-"the systemic application of textuality to human life," and textuality as
-"the site of literary activity." But I am not yet ready to move beyond the
-obvious tautology.
+bedrock far) from a big idea, like literature, down to its more modest textual
+forms, and into the material substratum underlying all print media: paper,
+digital or otherwise. For this, we'll need an operational definition
+of literature, free (to the extent it is possible) from its normative baggage:
+something like "the systemic application of textuality to human life," and
+textuality as "the site of literary activity." But I am not yet ready to move
+beyond the obvious tautology.
 
 ### 3.2 Microanalysis
 
