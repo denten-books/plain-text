@@ -1379,6 +1379,7 @@ thought and matter. A case study in extreme surface reading, in the bowels of a
 photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
+
 ### 2.1 Shaping Text
 
 What makes a text? In talking about texts of all kinds, literary scholars and
@@ -1531,10 +1532,10 @@ meccanico e la sensibilità numerica]
 ### 2.2 From Texts to Work
 
 My short history of the distinction between form and content is necessarily
-reductive. The situation on the ground was and continuous to be more nuanced
+reductive. The situation on the ground was and continues to be more nuanced
 than the dichotomy would suggest, with a number of reasonable positions between
 extreme idealism and extreme materialism. It is enough however to give a sense
-of "what's at stake:" not just a dry academic debate about the nature of art,
+of what's at stake: not just a dry academic debate about the nature of art,
 but the very capability of art (and don't necessarily think "high art" here) to
 transform humanity. For Hegel, true art reaches for truth beyond visible forms,
 transcending the deterministic material universe. The early formalists rejected
@@ -1548,16 +1549,16 @@ problem of what edition to use as the "base" for such a project presents itself
 immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
 *Folger Digital Texts*, "readers assume that there is a single text for the
 plays: what Shakespeare wrote. But Shakespeare's plays were not published the
-way modern novels or plays are published today: as a single, authoritative
-text. In some cases, the plays have come down to us in multiple published
-versions, represented by various Quartos (Qq) and by the great collection put
-together by his colleagues in 1623, called the First Folio (F). There are, for
-example, three very different versions of *Hamlet*, two of *King Lear*, *Henry
-V*, *Romeo and Juliet*, and others. Editors choose which version to use as
-their base text, and then amend that text with words, lines or speech prefixes
-from the other versions that, in their judgment, make for a better or more
-accurate text [@mowat_textual_????]." In other words, where the readers expect
-to encounter *Hamlet* as a single, unified idea, they instead encounter a
+way modern novels or plays are today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published versions,
+represented by various Quartos (Qq) and by the great collection put together by
+his colleagues in 1623, called the First Folio (F). There are, for example,
+three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
+*Romeo and Juliet*, and others. Editors choose which version to use as their
+base text, and then amend that text with words, lines or speech prefixes from
+the other versions that, in their judgment, make for a better or more accurate
+text [@mowat_textual_????]." In other words, where the readers expect to
+encounter *Hamlet* as a single, unified idea, they instead encounter a
 multiplicity of slightly diverging textual "witnesses." Errors in transcription
 and editorial interventions accumulate. The proliferation of unlicensed copies,
 translations, and imitations further adds to the complexity of the problem.
@@ -1581,18 +1582,19 @@ the author's notes, for example, or from first-hand witness testimony. Others
 place a premium on reconstructing and analyzing the writing process itself, in
 what has been dubbed as "genetic criticism  [@deppman_genetic_2004, 1-36]." Yet
 another approach will compare multiple editions of the same text to derive a
-possible meta-text, preserving all sub-variation. Yet others will simply rely
-on their judgment to produce what they believe is a "true" text based on a
+possible meta-text, preserving all extant variations. Yet others will simply
+rely on their judgment to produce what they believe is a "true" text based on a
 number of personal and eclectic considerations [@bowers_rationale_1950,
-@bowers_shakespeares_1954, @mcgann_radiant_2004]. All of these approaches have
-at least this one thing in common: behind the fuzzy profusion of textual
-material they perceive the outlines of a single, unified work. As a prominent
-contemporary textual scholar puts it, "one must be able to distinguish the work
-itself from attempts to reproduce it."[^ln11-tanselle] For a textual critic of
-a kind, all real-word variants and reproductions are suspect and possibly
-corrupt in some way. Despite its careful attention to the materiality of the
-text as artifact, textual criticism in this vein remains a classically
-idealistic pursuit. The work exists as an ideal form in the realm of the ideal.
+@bowers_shakespeares_1954, @mcgann_radiant_2004]. Such approaches to textual
+criticism have at least this one thing in common: behind the fuzzy profusion of
+textual material they perceive the outlines of a single, unified work. As G.
+Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
+distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
+a textual critic of his kind, all real-word variants and reproductions are
+suspect because possibly corrupt in some way. Despite its careful attention to
+the materiality of the text as artifact, textual criticism in this vein remains
+a classically idealistic pursuit. The work exists as an ideal form in the realm
+of the ideal.
 
 [ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
 reading or listening to receive a message from the past entails the effort to
@@ -1603,17 +1605,18 @@ Text, as I have already began to define it Chapter One, is a digital mode of
 representation, defined, at least in part, by a relative lack of "stickiness"
 to its physical medium. Textual artifacts therefore exhibit the dualism between
 text and work to a much greater extent than other forms of art and
-communication. Philosophers Nelson Goodman and Catherine Elgin explain this
-peculiarity by making the distinction between "works of art whose identity
-depends on their history of production" and works whose identity does not. The
-former they call "autographic" and the latter "allographic
-[@goodman_reconceptions_1988, 65]." These terms will be useful for us
-throughout the book. Architecture and painting, in this view, are strongly
-autographic disciplines. An exact copy of a Vermeer or of a building by Frank
-Lloyd Wright could never rise to the status of the original. The originals have
-what Walter Benjamin called an "aura or authenticity." No amount of precision,
-down to the molecular level, could substitute for the historical patina of the
-original artifact.
+communication. A Vermeer is always a work. Not so with *Hamlet*. "Hamlet" may
+indicate a category of relate, or, an individual instance of a given work.
+Philosophers Nelson Goodman and Catherine Elgin explain this peculiarity by
+making the distinction between "works of art whose identity depends on their
+history of production" and works whose identity does not. The former they call
+"autographic" and the latter "allographic [@goodman_reconceptions_1988, 65]."
+These terms will be useful for us throughout the book. Architecture and
+painting, in this view, are strongly autographic disciplines. An exact copy of
+a Vermeer or of a building by Frank Lloyd Wright could never rise to the status
+of the original. The originals have what Walter Benjamin called an "aura or
+authenticity." No amount of precision, down to the molecular level, could
+substitute for the historical patina of the original artifact.
 
 It is quite strange, if you think about it: to believe that objects somehow
 retain an aura of history: "a handkerchief used by Princess Diana," or "the
