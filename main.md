@@ -1,6 +1,7 @@
 ---
 title: "Plain Text: Poetics of Human-Computer Interaction"
 author: "Dennis Tenen"
+style: mla.csl
 
 ---
 
