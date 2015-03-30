@@ -1659,22 +1659,22 @@ very same factories producing the original.
 Note that it makes no sense to talk about "what was meant" by the designer of
 the handbag, the way textual critic may talk about authorial intention. Nor
 would it make sense to "correct" some perceived flaw in the painting by
-Vermeer. The parallel practice to "textual criticism" in visual arts is
-restoration. Although similar to textual criticism in its desire to recover
-some notion of the original, crucially, the practice of art restoration takes
-place without reproduction. Unlike a critical volume, which essentially
-reprints the work in its reconstructed entirety, restoration happens at the
-site.
+Vermeer. The practice parallel to "textual criticism" in visual arts is
+restoration. Although similar to textual criticism in its aims to recover some
+notion of the original, crucially, the practice of art restoration takes place
+without reproduction. Unlike a critical volume, which essentially reprints the
+work in its reconstructed entirety, restoration happens at the site. All
+"unauthorized" copies constitute a forgery that competes for attention with the
+original. One could say that for painting and handbags "matter is synonymous
+with meaning," but the sentiment strains at the limits of critical vocabulary
+in the tradition that gives us only the binaries of form and content.
 
-All "unauthorized" copies constitute a forgery that competes for
-attention with the original. One could say that for painting and handbags
-"matter is synonymous with meaning," but the sentiment strains at the limits of
-traditional vocabulary, which gives us only the binaries of form and content.
-The context-dependence of an artifact is not even medium-specific, as Goodman
-would suggest. Texts are more allographic than handbags and paintings, but
-Vermeers and Louis Vuitton purses are also in some sense perfectly
+The context-dependence of an artifact is not even medium-specific, as
+Goodman would suggest. Texts are more allographic than handbags and paintings,
+but Vermeers and Louis Vuitton purses are also in some sense perfectly
 reproducible, like texts. They are texts, and I do not mean it in some
 post-structuralist notion of "everything is a text."[^ln11-derrida]
+
 Technologies like 3D scanning and printing increasingly reduce physical objects
 to their textual representation, as is the case with the stereo lithographic
 document (STL) format that describes objects for 3D printing.  Here, for
