@@ -12,7 +12,7 @@ American Philosophical Society*, Frank Halstead notes that "it is hard to say
 to what particular field of the arts or sciences that signal code development
 pertains." "It is a matter somewhat related to the general art of cryptology,
 yet it is not wholly divorced from electrical engineering nor from general
-philology [^@halstead_genesis_1949, 456]."
+philology [@halstead_genesis_1949, 456]."
 
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln11-char] Let these words soak in for a moment. I will spend the rest
@@ -123,12 +123,12 @@ see @goodman-wittandjames.
 The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
 perhaps most pronounced in the teacher colleges, where James and Dewey are
 still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[^@lave&wenger, @johnseelybrown] and "experiential
-learning"[^@kolb]: both terms denoting some sense of necessary synthesis
+as "situated cognition"[@lave&wenger, @johnseelybrown] and "experiential
+learning"[@kolb]: both terms denoting some sense of necessary synthesis
 between of knowing and doing. In the field of linguistics, philosophy of
 language, and communication studies, pragmatics are well-encapsulated by the
 "language-as-action tradition," which harkens back to the Oxford language
-philosophers like J.L. Austin, Paul Grice, and John Searle [^@Trueswell].
+philosophers like J.L. Austin, Paul Grice, and John Searle [@Trueswell].
 Austin's "How to Do Things with Words," is perhaps the paradigmatic formulation
 of the idea that words don't just mean things, but that they enact change in
 the world.
@@ -149,7 +149,7 @@ dazzlingly lighted hall which may be reached only by passing through a long and
 ghastly kitchen ." "We shall reach really fruitful and luminous generalizations
 about vital phenomena only in so far as we ourselves experiment and, in
 hospitals, amphitheaters, or laboratories stir the fetid or throbbing ground of
-life [^@bernard, p.3-15]."
+life [@bernard, p.3-15]."
 
 It is my belief also that the lighted halls of contemporary literary and media
 theory can be best through the long and ghastly kitchen of everyday practice.
@@ -180,7 +180,7 @@ burning armchair, the symbol of "experimental philosophy" movement proposed by
 Joshua Knobe and Shaun Nichols, who write that "many of the deepest questions
 of philosophy can only be properly addressed by immersion oneself in the messy,
 contingent, highly variable truths about how human being really are
-[^@knobe-nichols, p3]." In the field of media and literary studies, it is almost
+[@knobe-nichols, p3]." In the field of media and literary studies, it is almost
 impossible to avoid the influence of "archeology of knowledge," as advanced in
 its many permutations by Michel Foucault and his followers. Yet, such
 archeologies deal with "artifacts" and "excavations" only as metaphors for what
@@ -192,7 +192,7 @@ what sometimes they dub as the history of craft or "artifactual knowledge." In
 preface to a recent volume on *Ways of Making and Knowing*, edited by Pamela
 Smith, Amy Meyers, and Harold Cook, the editors write that the "history of
 science is not a history of concepts, or at least not that alone, but a history
-of the making and using of objects to understand the world [^@smith, p12]." As a
+of the making and using of objects to understand the world [@smith, p12]." As a
 historian of science in the Early Modern period, Smith translates that insight
 in the laboratory, where along with her students she bakes bread and smelts
 iron to recreate long-lost artisanal techniques. The major insight from Smith
@@ -224,7 +224,7 @@ enumerate some reasons for its decline in my own thinking. The first is the
 movement's overt political goals. Patently the "stock" of Marxism, socialism,
 communism and related ideologies has declined. Major critical theorists like
 Roberto Unger and Michel Berube are now legitimately writing about the left's
-political crisis [^@cite]. Moreover, the political aspirations of critical
+political crisis [@cite]. Moreover, the political aspirations of critical
 theorists were always somewhat difficult to defend in the face of other,
 contradictory academic values like objectivity, neutrality, and critical
 thinking. However problematic those terms are in themselves, we must
@@ -284,7 +284,7 @@ only the illusion of flattened textuality).
 ### 2.1 Shaping Text
 
 What makes a text? In talking about texts of all kinds, literary scholars and
-computer scientists often make the distinction between form and content.
+computer scientists often make a distinction between form and content.
 "Classical art, in a word, stands for form," R.G. Collingwood wrote in 1929,
 and "romantic art for content [@collingwood_form_1929, 335]." In a much more
 recent work on computational text generation, Kathleen McKeown writes that to
@@ -295,7 +295,7 @@ said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
 "Print is Flat, Code is Deep," Katherine Hayles writes about "the interplay
 between a text's physical characteristics and its signifying strategies"
 [@hayles_print_2004, 72]. In each case, the model underlying textual production
-involves the bifurcation between some notions of shape and meaning, form and
+involves the bifurcation between some notions of shape and meaning, or form and
 content.
 
 Let's dwell on the history of that distinction between text's physical
@@ -304,14 +304,14 @@ you the standard version first, but then return to revise and to complicate.
 The traditional version, as I will argue, hides a rather serious confusion, one
 that will become increasingly central to our conversation.
 
-The philosophical distinction between form and content has its roots, like many
-foundational dichotomies in the Western tradition, in the philosophy of Plato.
-For Plato, the "essence" or an "idea" of something (like a chair) exists in a
-sort of an ideal, metaphysical state, somewhere beyond the confines of the
-material universe. By contrast, a physical instantiation of that object (a
-specific chair) embodies a somewhat more limited, even corrupted, version of
-that perfect idea. The task of the philosopher, then, becomes to reconstruct
-the single ideal notion of the perfect chair from its many imperfect
+Like many foundational dichotomies in the Western tradition, the distinction
+between form and content has its roots in Platonic thought. For Plato, the
+"essence" or an "idea" of something (like a chair) exists in a sort of an
+ideal, metaphysical state, somewhere beyond the confines of the material
+universe. By contrast, a physical instantiation of that object (a specific
+chair) embodies a somewhat more limited, even corrupted, version of that
+perfect idea. The task of the philosopher, then, becomes to reconstruct the
+single ideal notion of the perfect chair from its many imperfect
 instantiations. A contemporary computer scientist will recognize in this chain
 of reasoning the principles behind object oriented programming: a way of
 building software that works by defining abstract "object classes" and invoking
@@ -549,7 +549,10 @@ an expose on the magic and superstition latent in modernist art. Crisis or
 emancipation? Benjamin feels both, and in doing so he captures the metaphysical
 anxiety of the modern age. We desire for our Vermeers to stay special but also
 for a Vermeer to hang in every home, peering back at us from a multitude of
-anonymous reproductions. Rusking lamp of memory.
+anonymous reproductions. 
+
+### Surface Cleaning
+Ruskin lamp of memory.
 
 "It is impossible, as impossible as to raise the dead, to restore anything that
 has every been great or beautiful in architecture [...] That spirit which is
@@ -732,22 +735,23 @@ alone is true.  We translate the Greek word *eidos* by 'genus' or 'species'
 (*Gattung* or *Art* in German) [...] When 'genus' or 'species' is seized as a
 number of similar determinations collected by reflection from several
 individuals, to serve as a *mark* for the convenience of the understanding,
-then we have the Universal in quite an external [superficial] form [hegel_philosophy_1870,
-250]." I am attracted by the idea of the "formal Universal," which Hegel is
-quick to dismiss as not quite the essence of the ideal. The formal universal
-seems to function for Hegel as an indeterminate mediator between the ideal and
-the material worlds. I think what he means is that the form of the chair, for
-example, is still of this world and a property of the chair. But the ideal of
-the chair is not so much a property of the chair, but the universal idea of
-chairs, which determines all real-world members of the genus. The "formal
-ideal" contains a bit of both idea and physical property. It mediates. When we
-think of *Hamlet*, the form of the play belongs neither to the material
-substance of the text (pixel or paper) nor to the ideational content of the
-work. The form is something in-between the two worlds: it is in the shape of
-the letters and in the sounds of the words. The form is indeterminate, because
-we do not quite know which of these elements belong to the content of the play
-and which are the contingent material artifacts of the printing process: the
-way the fonts look, for example or the way lines break on the page.
+then we have the Universal in quite an external [superficial] form
+[hegel_philosophy_1870, 250]." I am attracted by the idea of the "formal
+Universal," which Hegel is quick to dismiss as not quite the essence of the
+ideal. The formal universal seems to function for Hegel as an indeterminate
+mediator between the ideal and the material worlds. I think what he means is
+that the form of the chair, for example, is still of this world and a property
+of the chair. But the ideal of the chair is not so much a property of the
+chair, but the universal idea of chairs, which determines all real-world
+members of the genus. The "formal ideal" contains a bit of both idea and
+physical property. It mediates. When we think of *Hamlet*, the form of the play
+belongs neither to the material substance of the text (pixel or paper) nor to
+the ideational content of the work. The form is something in-between the two
+worlds: it is in the shape of the letters and in the sounds of the words. The
+form is indeterminate, because we do not quite know which of these elements
+belong to the content of the play and which are the contingent material
+artifacts of the printing process: the way the fonts look, for example or the
+way lines break on the page.
 
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: material, form, and content. The history of Western
@@ -771,9 +775,9 @@ Where Barthes wants to liberate text as symbol from the embodied work, scholars
 like Johanna Drucker, make a strong case for returning the text to its
 underlying material contexts. Almost the entirety of her critical oeuvre serves
 to remind the reader that ideas cannot exist outside of their material form
-[@drucker_digital_2001], that paper and typography are the formal medium for the
-production of meaning in language, and that even electronic,
-digital text formats have their material embodiment [@drucker_speclab_2009]. I am
+[@drucker_digital_2001], that paper and typography are the formal medium for
+the production of meaning in language, and that even electronic, digital text
+formats have their material embodiment [@drucker_speclab_2009]. I am
 sympathetic to the message, but only in so far as it adds a dimension of
 materiality to a properly three-dimensional, thick description of text. Simply
 put, I am greedy and want to have the whole layered cake.
@@ -1778,7 +1782,7 @@ Machine" (US1244398, 1910-1917) among others.
 "If we disregard the small class of telegrams that merely express emotions, the
 essence of telegraphy is control [...] Telegraph systems, therefore, belong not
 to the class of producing or distributing, but to the class of controlling
-mechanisms [^@murray_setting_1905, 556]."
+mechanisms @murray_setting_1905, 556]."
 
 By the end of the 19th century a number of lesser mechanisms anticipate the
 functional elements of Turing's device. By 1930s, these inventions not only
@@ -3414,8 +3418,8 @@ limitable set of selectible signals." Also Max Bense, Information Aesthetics.
 ### Text
 
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
-and structured [^@lotman].  Derrida: "Everything is a text" .  TEI people: A
-text is an "ordered hierarchy of content objects" [^@derose]. Goodman and
+and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
+text is an "ordered hierarchy of content objects" [@derose]. Goodman and
 Genette.
 
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
