@@ -1649,7 +1649,33 @@ an expose on the magic and superstition latent in modernist art. Crisis or
 emancipation? Benjamin feels both, and in doing so he captures the metaphysical
 anxiety of the modern age. We desire for our Vermeers to stay special but also
 for a Vermeer to hang in every home, peering back at us from a multitude of
-anonymous reproductions.
+anonymous reproductions. Rusking lamp of memory.
+
+"It is impossible, as impossible as to raise the dead, to restore anything that
+has every been great or beautiful in architecture [...] That spirit which is
+given only by the hand and eye of the workman, never can be recalled. Another
+spirit may be given by another time, an it is then a new building; but the
+spirit of the dead workman cannot be summoned up, and commanded to direct other
+hands, and other thoughts. And as for direct and simple copying, it is palpably
+impossible. What copying can there be of surfaces that have been worn half an
+inch down [@staniforth_historical_2013, 2]?"
+
+"But it is said there may come a necessity for restoration! Granted. Look the
+necessity full in the face and understand it on its own terms. It is a
+necessity for destruction. Accept it as such, pull the building down, throw its
+stones into neglected corners, make ballast of them, or mortar, if you will'
+but do it honestly, and do not set up a Lie in its place
+[@staniforth_historical_2013, 3]."
+
+On the Restoration of The Circumcision by Signorelli. "At Volterra, over th
+alter of a COmpany in the Church of S. Francesco, he painted in fresco the
+Circumcision of Our Lork, which in considered beautiful to a marvel, although
+the Infant, having been injured by damp, was restored by Sodoma and made much
+less beautiful than before. And , in truth, it would be sometimes better to
+leave works half spoilt, when they have been made by men of excellence, rather
+than to have them retouched by inferior masters." 1550
+
+The wound that heals.
 
 The modern world faces the challenge of authenticity, which we have only began
 to assimilate: politically, economically, and philosophically. The ubiquitous
