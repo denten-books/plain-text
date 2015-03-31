@@ -4102,6 +4102,17 @@ knowledge dissemination.7 Stenography is understood here as a thoroughly modern
 and modernizing technology that does for the mental and moral development what
 the steam engine and areal flight did for the material realm.
 
+### 5.5 Hyper-erudition
+
+The flattening of the knowledge realm. It is not the absence of topography. It
+is our ability to readily perceive topography, and to place ourselves within
+that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
+The surgeon should get more money because of the subjective experience of
+cutting people up. That part does not transfer. The technical literature is
+actually quite understandable. Incommensurability of subjective experience.
+Commensurability of knowledge. The fundamental problem of modern world is the
+problem of expertise.
+
 ### Extended cognition
 
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
