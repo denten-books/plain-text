@@ -1,10 +1,12 @@
 #!/bin/bash
 
-src=/home/denten/gDrive/papers/projects/workbench/plain-text/main.md
+src=/home/denten/gDrive/papers/projects/workbench/plain-text/
 target=/home/denten/gDrive/code/web/xpmethod.github.io/_includes/plain-text-prog.txt
 
 # use < to display counts only, otherwise wc includes the file name
-w="$(wc -w < $src)"
+for f in $(find $src -name '*.md'); do wc -w < $f; done
+
+# w="$(wc -w < $src)"
 stamp="$(date --iso-8601)"
 
 # use -n option to omit the trailing newline
