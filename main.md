@@ -262,7 +262,7 @@ typesetting sweatshops, and international conglomerates that control vectors of
 literary distribution.
 
 
-## Chapter 2: Phenomenology of a Photocopier
+## Chapter 2: Text Planes
 `content, matter, form`
 
 ### 2.0 Abstract
@@ -281,7 +281,62 @@ photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
 
-### 2.1 Shaping Text
+### 2.1 Authenticity
+
+It is quite odd, if you think about it, to believe that objects somehow retain
+an aura or a trace of their history: "a handkerchief used by Princess Diana,"
+or "the cigar box owned by President Kennedy." In some real sense, the
+historical patina covering these objects is only imagined. President Kennedy's
+fingerprints and the tears of Princess Diana have long disappeared from their
+physical medium. Their trace cannot be reduced to "mere" physical
+characteristics: that is, to actual scratches, stains, or molecules,
+recoverable from the object. Rather, the object had to "be there" in some way,
+acquiring a patina of authenticity. "Having been there" is what gives the
+object value, sentimental or otherwise, in a condition that refuses formal
+reduction to a set of merely material properties. The high price contemporary
+society places on authentic artifacts is therefore a type of magical thinking.
+Walter Benjamin's famous essay on the work of art in the age of mechanical
+reproduction appears to both celebrate and lament the demise of such magic.
+"The technique of reproduction detaches the reproduced object from the domain
+of tradition," wrote Benjamin. "By making many reproductions it substitutes a
+plurality of copies for a unique existence. And in permitting the reproduction
+to meet the beholder or listener in his own particular situation, it
+reactivates the object reproduced. These two processes lead to a tremendous
+shattering of tradition which is the obverse of the contemporary crisis and
+renewal of mankind [@benjamin_work_1969, 217-253]." And yet, for Benjamin, the
+easy reproducibility of modern art forms like film and photography also
+"emancipates the work of art from its parasitical dependence on ritual
+[@benjamin_work_1969, 217-253]." One could read Benjamin's famous essay as a
+piece of technological nostalgia, or as an expose on the magic and superstition
+latent in modernist art. Crisis or emancipation? Benjamin feels both, and in
+doing so he captures the metaphysical anxiety of the modern age. We desire for
+our Vermeers to stay special but also for a Vermeer to hang in every home,
+peering back at us from a multitude of anonymous reproductions.
+
+Unlike millions of reproduced Vermeers, text is text. It lies before us in
+glorious flatness, as thick as a sheet of paper. Paint layers. Paint layers.
+Reading for depth vs. reading for surface. But what is depth. It is the the
+depth of dicourse, which attaches to the text in the process of interpretation.
+
+Text as I have already began to define it Chapter One, is a digital mode of
+representation, defined, at least in part, by a relative lack of "stickiness"
+to its physical medium. Textual artifacts therefore exhibit the dualism between
+text and work to a much greater extent than other forms of art and
+communication. A Vermeer is always a work. Not so with *Hamlet*. "Hamlet" may
+indicate a category of relate, or, an individual instance of a given work.
+Philosophers Nelson Goodman and Catherine Elgin explain this peculiarity by
+making the distinction between "works of art whose identity depends on their
+history of production" and works whose identity does not. The former they call
+"autographic" and the latter "allographic [@goodman_reconceptions_1988, 65]."
+These terms will be useful for us throughout the book. Architecture and
+painting, in this view, are strongly autographic disciplines. An exact copy of
+a Vermeer or of a building by Frank Lloyd Wright could never rise to the status
+of the original. The originals have what Walter Benjamin called an "aura or
+authenticity." No amount of precision, down to the molecular level, could
+substitute for the historical patina of the original artifact.
+
+
+### 2.2 Form and Content
 
 What makes a text? In talking about texts of all kinds, literary scholars and
 computer scientists often make a distinction between form and content.
@@ -430,7 +485,7 @@ meccanico e la sensibilità numerica]
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-### 2.2 From Texts to Work
+### 2.3 From Texts to Work
 
 My short history of the distinction between form and content is necessarily
 reductive. The situation on the ground was and continues to be more nuanced
@@ -502,56 +557,33 @@ reading or listening to receive a message from the past entails the effort to
 discover, through the text (or texts) one is presented with, the work that lies
 behind [@tanselle_rationale_2010, 13-18.]."
 
-Text, as I have already began to define it Chapter One, is a digital mode of
-representation, defined, at least in part, by a relative lack of "stickiness"
-to its physical medium. Textual artifacts therefore exhibit the dualism between
-text and work to a much greater extent than other forms of art and
-communication. A Vermeer is always a work. Not so with *Hamlet*. "Hamlet" may
-indicate a category of relate, or, an individual instance of a given work.
-Philosophers Nelson Goodman and Catherine Elgin explain this peculiarity by
-making the distinction between "works of art whose identity depends on their
-history of production" and works whose identity does not. The former they call
-"autographic" and the latter "allographic [@goodman_reconceptions_1988, 65]."
-These terms will be useful for us throughout the book. Architecture and
-painting, in this view, are strongly autographic disciplines. An exact copy of
-a Vermeer or of a building by Frank Lloyd Wright could never rise to the status
-of the original. The originals have what Walter Benjamin called an "aura or
-authenticity." No amount of precision, down to the molecular level, could
-substitute for the historical patina of the original artifact.
 
-It is quite strange, if you think about it: to believe that objects somehow
-retain an aura of history: "a handkerchief used by Princess Diana," or "the
-cigar box owned by President Kennedy." In some real sense, the historical
-patina covering these objects is only imagined. President Kennedy's
-fingerprints and the tears of Princess Diana have long disappeared from their
-physical medium. Their trace cannot be reduced to "mere" physical
-characteristics: that is, to actual scratches, stains, or molecules,
-recoverable from the object. Rather, the object had to "be there" in some way,
-acquiring a patina of authenticity. "Having been there" is what gives the
-object value, sentimental or otherwise, in a condition that cannot be reduced
-to any formal, material characteristics. The high price contemporary society
-places on authentic artifacts is therefore a type of magical thinking. Walter
-Benjamin's famous essay on the work of art in the age of mechanical
-reproduction appears to both celebrate and lament the demise of such magic.
-"The technique of reproduction detaches the reproduced object from the domain
-of tradition," wrote Benjamin.  "By making many reproductions it substitutes a
-plurality of copies for a unique existence. And in permitting the reproduction
-to meet the beholder or listener in his own particular situation, it
-reactivates the object reproduced. These two processes lead to a tremendous
-shattering of tradition which is the obverse of the contemporary crisis and
-renewal of mankind [@benjamin_work_1969, 217-253]." Once again, the fault lines
-between form and content threaten nothing less than the possibility of human
-spiritual renewal. And yet, for Benjamin, the easy reproducibility of modern
-art forms like film and photography also "emancipates the work of art from its
-parasitical dependence on ritual [@benjamin_work_1969, 217-253]." One could
-read Benjamin's famous essay as a piece of pre-technological nostalgia, or as
-an expose on the magic and superstition latent in modernist art. Crisis or
-emancipation? Benjamin feels both, and in doing so he captures the metaphysical
-anxiety of the modern age. We desire for our Vermeers to stay special but also
-for a Vermeer to hang in every home, peering back at us from a multitude of
-anonymous reproductions. 
+### 2.4 Surface Cleaning
 
-### 2.3 Surface Cleaning
+Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
+William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
+
+"To restore an edifice means neither to maintain it, nor to repair it, not to
+rebuild it; it means to reestablish it in a finished state, which may in fact
+never have actually existed at any given time." [@price_historical_1996, 314;
+orig from @viollet-le-duc_foundations_1990, 195]
+
+"It is for all these buildings, threfore, of all times and styles, that we
+plead, and call upon those who hve to deal with them to put Protection in the
+place of Restoration, to stave off decay by daily care, to prop a perilous wall
+or mend a leaky roof by such means as are obvioiusly mant for support or
+convering, and show no pretence of other art, and othrwise to resist all
+tampering with either the favric or ornament of the buildings as it stands; if
+it has become 
+
+But whose who make the change wrout in our day under the name of Restoration,
+while professing to bring back a building to the best time of its hisory, have
+no guide but each his own individual whim to point out to them what i s
+admirable and what contemptible; while the very nature o their task compels
+them to destroy something and to supply the gap by imagining what the earlier
+builders should or might have done." Data munging. Irreversible changes.
+@price_historical_1996, 320; orig in "William Morris, "The Principles of the
+Society as Set Forth Upon its Foundation," Builder 35 August 1877.
 
 Ruskin lamp of memory.
 
@@ -698,8 +730,6 @@ something which happens. It's not purely linguistic, involving text or books.
 You can deconstruct gestures, choreography. That's why I enlarged the concept
 of text. Everything is a text [@caputo_deconstruction_1996]."
 
-### 2.3 Surfaces
-
 "Robots have also the attribute in common of being able to affect human beings
 or other targets 'at a distance,' a book, a radio or a television sender can
 entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
@@ -713,6 +743,8 @@ treating text as pure idea, the materialists must acknowledge the aberrant
 specificity of textual material. Text routinely separates from its physical
 medium. The ability to change form is what gives it the ability to act at a
 distance.
+
+### Plato
 
 The traditional dichotomy between form and content obscures the complexity of
 this dynamic. Formalism overloads the concept of form to bear functions of
@@ -793,6 +825,8 @@ belong to the content of the play and which are the contingent material
 artifacts of the printing process: the way the fonts look, for example or the
 way lines break on the page.
 
+### Matter, Form, Content
+
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: material, form, and content. The history of Western
 aesthetics can be so reformulated as an attempt to pull the work of art through
@@ -822,6 +856,8 @@ sympathetic to the message, but only in so far as it adds a dimension of
 materiality to a properly three-dimensional, thick description of text. Simply
 put, I am greedy and want to have the whole layered cake.
 
+### Peeling apart
+
 A clarification of terms allows us to perceive the history of textual
 technology as one of gradual peeling apart of the layers of matter, form, and
 content. Textuality comes unglued. This allographic property of text is worthy
@@ -847,7 +883,7 @@ at least a part of that story. The mechanization of print is what turned
 writing from an autographic into a supremely allographic art. The Gutenberg
 press helped place a copy of the bible into the hands of every ordinary
 believer. That meant also minimizing the role of the priest as a privileged
-interpreter.  Without books in hand Martin Luther could not have written "all
+interpreter. Without books in hand Martin Luther could not have written "all
 who are in the church are priests [@hillerbrand_protestant_2009]." Movable type
 lifted text from rarefied media of leather and parchment. But until well into
 the middle of the 20th century, the printing press remained in the realm of big
@@ -909,290 +945,10 @@ Muslim view, anything but a faithful transcription of the original text amounts
 to an interpretation, not self-identical to the letter of the text (a
 translation, for example) [@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
 
-### 2.4 Processing Words
+### 2.5 Dry Writing or Facsimilitude
 
-The second advance influencing the definitive liberation of text from its
-material contexts was the word processor. Word processing begins with the
-invention of the modern typewriter in the middle of the 19th century. But the
-naked typewriter offered few advantages over hand writing. Like the pen, the
-typewriter applied ink to paper directly. In the early days of typewriting that
-process was slower, more cumbersome, and more expensive than handwriting. By
-the late 19th century stenography and short-hand writing systems were by far
-the more important development in textual technology. Stenographic clubs,
-societies, and journals sprouted all across Europe and United States, with the
-aim of making writing faster, matching and exceeding the spoken word.
-
-![Stenographic Printing Machine (US323286)](images/steno.png "@anderson1885")
-
-I am less concerned with the history of word processing here and more with its
-material affordances. Besides the copy machine, the early 20th century saw the
-wide-spread adaptation of automatic typewriters, which, with the introduction
-of temporary magnetic storage media, developed into devices for general
-composition, editing, typesetting, and printing of text. One of the first
-mass-market products of that type was IBM's Magnetic Tape / Selectric
-Typewriter (MT/ST). Unlike the typewriters and the automatic telegraphs that
-preceded it, MT/ST introduced a buffer between the keystroke and its paper
-imprint. Instead of transferring characters to paper directly, the machine
-stored its input on 16mm magnetic tape, where it was temporarily available for
-revision. The common setup included two reels of tape, capable of holding 25
-kilobytes (25000 * 8kb) of information, which, at 7 bits per character, equates
-to roughly 29,000 characters [@eisenberg_word_1992, 268-278]. The device had no
-screen, but the machine operator could print the contents of the tape, and,
-based on the location of the text, go back to revise the stored content. The
-machine was capable of extending operations to characters, words, lines, and
-paragraphs. For example, a word was encoded as any string of characters
-separated by an empty space, where a line was any string of characters and
-blank spaces separated by a carriage return, and a paragraph, any text
-separated by two carriage returns. It was possible therefore to perform
-operations like "underline this word," and "delete this paragraph [wang 1975??]."
-Transformations performed on one magnetic reel would be incorporated into
-a sequential string of encoded characters on another.
-
-Before word processing, the transformation of thought into text happened in
-real-time, in the process of inscription. Text, in that sense, is fixed and
-"mediated"--that is, fixed into a stable medium, enabling further storage and
-transmission. Transmediation--the process of transcribing text from one medium
-into another (as in from paper onto parchment, or from book to notebook) is
-always human transmediation. Word processing breaks the immediacy of transcription
-by introducing a temporary storage medium, where text, although still material
-(a sequence of magnetically charged marks on tape), exists in a sort of a limbo
-between thought and its intended, more permanent place on paper as inscription.
-The magnetic tape could act as medium of final destination, as when one office
-would share a tape with another office as means for communication. But in daily
-use the characters on the tape were impermanent, written and overwritten
-multiple times before "emerging" in their "final" material form as a print out.
-
-At no point of this process is text "immaterial." The magnetic corporeality of
-the processed word is rather hidden from human view. The magnetic inscription
-couples with its medium loosely, allowing for rapid re-mediation: from one reel
-to another or from reel to paper. Where the pen and the typewriter inscribe,
-the word processor re-mediates.
-
-The word processor furthermore forces its operator to clearly differentiate
-between formal features significant to the work from those that are not. If you
-recall, autographic works of art are those in which all aspects of the work are
-in some way significant. A molecular copy of a Rembrandt ceases to be a "true"
-Rembrandt. The image is fully congruent with its medium. When processing words,
-the writer is separated from the process of inscription. The work can therefore
-only exist in its allographic form, as the material contexts of inscription are
-unstable and shifted into the future. Text stored on magnetic medium today may
-end up on paper or on the screen tomorrow. Yet because some of these formal
-aspects of inscription may be significant to the writer, the word processor
-creates an explicit "formatting" layer, which controls some of the aspects of
-the document's layout. IBM's MT/ST machine encoded only a few of such
-affordances: the ability to underline text or to force line breaks for example.
-Conversely, MT/ST not encode the concept of a page break. Page breaks along
-with other material properties of the text were left to the contingencies of
-eventual print medium.
-
-Contemporary word processors encode many more elements of formatting than their
-early MT/ST predecessors, but those elements necessarily remain limited in
-number, and always amount to something less than the material totality of an
-autographic work. The word processor forces an allographic model of textuality:
-one that clearly delineates the differences between content, formatting, and
-physical medium. In that model, "content" alludes to some notion of linguistic
-communication and "formatting" to some notion of its significant non-linguistic
-aspects (like italicized words and line breaks). Regardless of what we may
-believe about the ontology of text, the word processor makes only the
-allographic model available for use.
-
-Far from being an instrumentally-neutral construct, the ontological model of
-text affects (although cannot be reduced to) the material affordances connected
-to many higher-level literary-theoretical constructs like story, discourse,
-narrative, literature, and intellectual property. When taken to its extreme
-logical conclusion, an autographic regime, where all texts are works, leads to
-censorship. Functionally, there's little difference between maintaining that a
-work cannot be reproduced and that it should not. A technocratic regime that
-insists on autography is one where the circulation of ideas is necessarily
-limited, if not outright impossible.  Imagine, for example, the prohibition of
-speech (any speech) as a set of literal constraints on the transmediation of
-thought, down to the neurological level, where singular thoughts are limited to
-singular brains. Stated in instrumental terms, abstract political concepts like
-"freedom of the speech" amount to physical control over transmediation. Under
-the conditions of total autography, where everything is significant,
-communication becomes impossible. Transmediation in that sense functions as a
-political value.
-
-There is a tradition in media studies that conflates the history of modern
-computing with the development of Western military-industrial complex
-[@lennon_digital_2014, @golumbia_cultural_2009, @kittler_gramophone_1999].
-"Under the conditions of high technology, literature has nothing more to say,"
-wrote Friedrich Kittler in his influential *Gramaphone, Film, Typewriter*. Text
-so weaponized "ends in cryptograms that defy interpretation and only permit
-interception [@kittler_gramophone_1999, 263]." The historical connection
-between weapon and calculator cannot be denied. But, to the history of
-computers as devices used for the decoding of secret messages and the
-calculation of missile trajectories, I would like add a lineage of allographic
-reading and writing devices that help decouple thought from its rigid material
-contexts, bringing forth new affordances, cognitive regimes, and hitherto
-unavailable political structures.
-
-[^ln11-barthes]: "The work is a fragment of substance," he writes. The work is
-"moderately symbolic" where text is "radically symbolic." The work "occupies
-space of books," where the text is "a process of demonstration," "experienced
-only in an activity of production." He writes also that "the Text cannot stop
-(for example, on a library shelf); its constitutive movement is that of cutting
-across (in particular, it can cut across the work, several works)
-[@barthes_work_1978, 156-7]."
-
-[^ln11-drucker]: See for example: "The notion of the 'immaterial' text has
-become fixed in popular and even critical imagination. [...] Though digital
-information is far more fungible than physical inscription, the codes on which
-electronic texts are based are themselves material. More to the point, however,
-the graphical and dynamic organization of texts continues to function as
-textual information in the electronic format [@drucker_digital_2001, 145]."
-
-[^ln11-xerox]: "In most American offices executives instruct subordinates to
-'make me a Xerox of this report' rather than 'make me a copy of it.'" From *The
-Economist*, 15 Oct. 1966, 299/3as as quoted in the online edition of Oxford
-English dictionary. See also schwartz2013.
-
-[^ln11-spirit]: The "spirits" in spirit duplicators have nothing to do with
-Hegel. Rather, the device relied on alcohol-based solvents and inks, that gave
-spirit copies their distinctive smell. In North America, spirit duplication was
-advanced by the aptly named Ditto Corporation.
-
-[^ln11-ooo]: I write "point of view" and "reads" in quotation marks to indicate
-the presence of a metaphor. I do not believe objects can properly be said to
-have a point of view, this contrary to the principles articulated in
-object-oriented ontology [@bryant_onticology_2010, @harman_guerrilla_2005].
-
-[^ln11-literacy]: For more on the European medieval scribal practices see the
-influential @mckitterick_books_1994, @clanchy_memory_1979, and @goody_consequences_1963.
-
-[^ln11-quran]: "And thou wast not (able) / To recite a Book before
-/ This (Book came), nor art thou / (Able) to transcribe it / With thy right
-hand: / In that case, indeed, would / The talkers of vanities / Have doubted
-[@ali_meaning_1997, 29:48]."
-
-
-### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally. 
-
-ASCII.
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
-pause between each transmitted character can vary in length. For this reason
-ITA-2 includes two extra bits for indicating "start" and stop" elements. The
-letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
-zeros represent the absence and the presence of current[@ITU1932,
-36].[^ln13-current]
-
-"You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
-invention relates to all controllers," Goldberg writes. "The object of the
-invention is to provide a mechanism operable by a control sheet which is
-legible to every person having sufficient education to enable him to read. To
-illustrate my invention, I produce a control sheet in which the control
-characters are in the form of the letters of the ordinary English alphabet
-[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
-clear that Goldberg, among others, was aware of the problem: the mechanization
-of type, automation, and remote control required specialized training. With the
-advent of the automated telegraph, content meant for people was now being
-intermixed with machine-controlling code. To combat mutual unintelligibility,
-Goldberg imagines using cards, perforated in the shape of the English alphabet.
-Besides carrying (human-readable) content, the perforations do "double duty" to
-mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
-and "plungers."
-
-![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
-Concern with human comprehension. 
-
-Related to secrecy.  Plain language and
-
-secret language (telegraph regulations 1932).  "Plain language is that which
-presents an intelligible meaning in one or more of the languages authorized for
-international telegraph correspondence, each word and each expression having
-the meaning normally assigned to it in the language to which it belongs"
-[@ITU1932, 12]. "Code language is composed either of artificial words, or of
-real words not used in the meaning normally assigned to them in the language to
-which they belong and consequently not forming intelligeble phrases" [@ITU1932,
-12].  TROFF
-
-Plain text in Unix. Human readability.
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-Baudot code.
-
-TROFF example from @kernighan1978, 2123. 
-
-```
-.de hd          \" begin header definition
-'sp 1i          \" space 1 inch
-..              \" end of header definition
-.de fo          \" footer 'bp \" space to beginning of next page
-..              \" end of footer definition
-.wh 0 hd        \" set trap to invoke hd when at top of page
-.wh -1i fo      \" set trap in invoke fo 1 inch form bottom
-```
-
-Serial. Voice syntehsizer. Diff. Spell.  RUNOFF.
-http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
-
-Into GML > @goldfarb1981
-
-Pub! http://www.nomodes.com/pub_manual.html
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
-We have now traveled from the pixel down to magnetic storage media and back
-from the storage media to the screen. The passage opens up space between
-visible content, media, and the imposed forms that govern any and all higher
-notions of literary activity "floating" above this nominally "digital" layer.
-Technology does not determine the literary space: it has only the potential to
-hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and transmediation. I say nothing
-yet of the potential necessity of such regulation. Under certain conditions, in
-the name of privacy, security, or property rights, it may become necessary to
-flatten out and to treat text as more of an analog, media-bound modality of
-communication, limited in its ability to move across minds and cultures. But,
-it is also in our broadly human, civic interest to keep such mechanisms of
-constraint visible to view, under continual scrutiny of critical, close, and
-closest possible reading.
-
+![First xerographic image, by Chester Carlson. Image from a news release by
+Xerox.](images/astoria.jpg)
 
 ## Chapter 3: Literature Down to the Pixel
 `literature, content, control`
@@ -1953,6 +1709,291 @@ control. It looks like you are reading a book, but this book changes its
 internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
+
+
+### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally. 
+
+ASCII.
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
+pause between each transmitted character can vary in length. For this reason
+ITA-2 includes two extra bits for indicating "start" and stop" elements. The
+letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
+zeros represent the absence and the presence of current[@ITU1932,
+36].[^ln13-current]
+
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
+clear that Goldberg, among others, was aware of the problem: the mechanization
+of type, automation, and remote control required specialized training. With the
+advent of the automated telegraph, content meant for people was now being
+intermixed with machine-controlling code. To combat mutual unintelligibility,
+Goldberg imagines using cards, perforated in the shape of the English alphabet.
+Besides carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
+and "plungers."
+
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+Concern with human comprehension. 
+
+Related to secrecy.  Plain language and
+
+secret language (telegraph regulations 1932).  "Plain language is that which
+presents an intelligible meaning in one or more of the languages authorized for
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@ITU1932, 12]. "Code language is composed either of artificial words, or of
+real words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligeble phrases" [@ITU1932,
+12].  TROFF
+
+Plain text in Unix. Human readability.
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+Baudot code.
+
+TROFF example from @kernighan1978, 2123. 
+
+```
+.de hd          \" begin header definition
+'sp 1i          \" space 1 inch
+..              \" end of header definition
+.de fo          \" footer 'bp \" space to beginning of next page
+..              \" end of footer definition
+.wh 0 hd        \" set trap to invoke hd when at top of page
+.wh -1i fo      \" set trap in invoke fo 1 inch form bottom
+```
+
+Serial. Voice syntehsizer. Diff. Spell.  RUNOFF.
+http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
+
+Into GML > @goldfarb1981
+
+Pub! http://www.nomodes.com/pub_manual.html
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
+
+
+### 3.4 Processing Words
+
+The second advance influencing the definitive liberation of text from its
+material contexts was the word processor. Word processing begins with the
+invention of the modern typewriter in the middle of the 19th century. But the
+naked typewriter offered few advantages over hand writing. Like the pen, the
+typewriter applied ink to paper directly. In the early days of typewriting that
+process was slower, more cumbersome, and more expensive than handwriting. By
+the late 19th century stenography and short-hand writing systems were by far
+the more important development in textual technology. Stenographic clubs,
+societies, and journals sprouted all across Europe and United States, with the
+aim of making writing faster, matching and exceeding the spoken word.
+
+![Stenographic Printing Machine (US323286)](images/steno.png "@anderson1885")
+
+I am less concerned with the history of word processing here and more with its
+material affordances. Besides the copy machine, the early 20th century saw the
+wide-spread adaptation of automatic typewriters, which, with the introduction
+of temporary magnetic storage media, developed into devices for general
+composition, editing, typesetting, and printing of text. One of the first
+mass-market products of that type was IBM's Magnetic Tape / Selectric
+Typewriter (MT/ST). Unlike the typewriters and the automatic telegraphs that
+preceded it, MT/ST introduced a buffer between the keystroke and its paper
+imprint. Instead of transferring characters to paper directly, the machine
+stored its input on 16mm magnetic tape, where it was temporarily available for
+revision. The common setup included two reels of tape, capable of holding 25
+kilobytes (25000 * 8kb) of information, which, at 7 bits per character, equates
+to roughly 29,000 characters [@eisenberg_word_1992, 268-278]. The device had no
+screen, but the machine operator could print the contents of the tape, and,
+based on the location of the text, go back to revise the stored content. The
+machine was capable of extending operations to characters, words, lines, and
+paragraphs. For example, a word was encoded as any string of characters
+separated by an empty space, where a line was any string of characters and
+blank spaces separated by a carriage return, and a paragraph, any text
+separated by two carriage returns. It was possible therefore to perform
+operations like "underline this word," and "delete this paragraph [wang 1975??]."
+Transformations performed on one magnetic reel would be incorporated into
+a sequential string of encoded characters on another.
+
+Before word processing, the transformation of thought into text happened in
+real-time, in the process of inscription. Text, in that sense, is fixed and
+"mediated"--that is, fixed into a stable medium, enabling further storage and
+transmission. Transmediation--the process of transcribing text from one medium
+into another (as in from paper onto parchment, or from book to notebook) is
+always human transmediation. Word processing breaks the immediacy of transcription
+by introducing a temporary storage medium, where text, although still material
+(a sequence of magnetically charged marks on tape), exists in a sort of a limbo
+between thought and its intended, more permanent place on paper as inscription.
+The magnetic tape could act as medium of final destination, as when one office
+would share a tape with another office as means for communication. But in daily
+use the characters on the tape were impermanent, written and overwritten
+multiple times before "emerging" in their "final" material form as a print out.
+
+At no point of this process is text "immaterial." The magnetic corporeality of
+the processed word is rather hidden from human view. The magnetic inscription
+couples with its medium loosely, allowing for rapid re-mediation: from one reel
+to another or from reel to paper. Where the pen and the typewriter inscribe,
+the word processor re-mediates.
+
+The word processor furthermore forces its operator to clearly differentiate
+between formal features significant to the work from those that are not. If you
+recall, autographic works of art are those in which all aspects of the work are
+in some way significant. A molecular copy of a Rembrandt ceases to be a "true"
+Rembrandt. The image is fully congruent with its medium. When processing words,
+the writer is separated from the process of inscription. The work can therefore
+only exist in its allographic form, as the material contexts of inscription are
+unstable and shifted into the future. Text stored on magnetic medium today may
+end up on paper or on the screen tomorrow. Yet because some of these formal
+aspects of inscription may be significant to the writer, the word processor
+creates an explicit "formatting" layer, which controls some of the aspects of
+the document's layout. IBM's MT/ST machine encoded only a few of such
+affordances: the ability to underline text or to force line breaks for example.
+Conversely, MT/ST not encode the concept of a page break. Page breaks along
+with other material properties of the text were left to the contingencies of
+eventual print medium.
+
+Contemporary word processors encode many more elements of formatting than their
+early MT/ST predecessors, but those elements necessarily remain limited in
+number, and always amount to something less than the material totality of an
+autographic work. The word processor forces an allographic model of textuality:
+one that clearly delineates the differences between content, formatting, and
+physical medium. In that model, "content" alludes to some notion of linguistic
+communication and "formatting" to some notion of its significant non-linguistic
+aspects (like italicized words and line breaks). Regardless of what we may
+believe about the ontology of text, the word processor makes only the
+allographic model available for use.
+
+Far from being an instrumentally-neutral construct, the ontological model of
+text affects (although cannot be reduced to) the material affordances connected
+to many higher-level literary-theoretical constructs like story, discourse,
+narrative, literature, and intellectual property. When taken to its extreme
+logical conclusion, an autographic regime, where all texts are works, leads to
+censorship. Functionally, there's little difference between maintaining that a
+work cannot be reproduced and that it should not. A technocratic regime that
+insists on autography is one where the circulation of ideas is necessarily
+limited, if not outright impossible.  Imagine, for example, the prohibition of
+speech (any speech) as a set of literal constraints on the transmediation of
+thought, down to the neurological level, where singular thoughts are limited to
+singular brains. Stated in instrumental terms, abstract political concepts like
+"freedom of the speech" amount to physical control over transmediation. Under
+the conditions of total autography, where everything is significant,
+communication becomes impossible. Transmediation in that sense functions as a
+political value.
+
+There is a tradition in media studies that conflates the history of modern
+computing with the development of Western military-industrial complex
+[@lennon_digital_2014, @golumbia_cultural_2009, @kittler_gramophone_1999].
+"Under the conditions of high technology, literature has nothing more to say,"
+wrote Friedrich Kittler in his influential *Gramaphone, Film, Typewriter*. Text
+so weaponized "ends in cryptograms that defy interpretation and only permit
+interception [@kittler_gramophone_1999, 263]." The historical connection
+between weapon and calculator cannot be denied. But, to the history of
+computers as devices used for the decoding of secret messages and the
+calculation of missile trajectories, I would like add a lineage of allographic
+reading and writing devices that help decouple thought from its rigid material
+contexts, bringing forth new affordances, cognitive regimes, and hitherto
+unavailable political structures.
+
+[^ln11-barthes]: "The work is a fragment of substance," he writes. The work is
+"moderately symbolic" where text is "radically symbolic." The work "occupies
+space of books," where the text is "a process of demonstration," "experienced
+only in an activity of production." He writes also that "the Text cannot stop
+(for example, on a library shelf); its constitutive movement is that of cutting
+across (in particular, it can cut across the work, several works)
+[@barthes_work_1978, 156-7]."
+
+[^ln11-drucker]: See for example: "The notion of the 'immaterial' text has
+become fixed in popular and even critical imagination. [...] Though digital
+information is far more fungible than physical inscription, the codes on which
+electronic texts are based are themselves material. More to the point, however,
+the graphical and dynamic organization of texts continues to function as
+textual information in the electronic format [@drucker_digital_2001, 145]."
+
+[^ln11-xerox]: "In most American offices executives instruct subordinates to
+'make me a Xerox of this report' rather than 'make me a copy of it.'" From *The
+Economist*, 15 Oct. 1966, 299/3as as quoted in the online edition of Oxford
+English dictionary. See also schwartz2013.
+
+[^ln11-spirit]: The "spirits" in spirit duplicators have nothing to do with
+Hegel. Rather, the device relied on alcohol-based solvents and inks, that gave
+spirit copies their distinctive smell. In North America, spirit duplication was
+advanced by the aptly named Ditto Corporation.
+
+[^ln11-ooo]: I write "point of view" and "reads" in quotation marks to indicate
+the presence of a metaphor. I do not believe objects can properly be said to
+have a point of view, this contrary to the principles articulated in
+object-oriented ontology [@bryant_onticology_2010, @harman_guerrilla_2005].
+
+[^ln11-literacy]: For more on the European medieval scribal practices see the
+influential @mckitterick_books_1994, @clanchy_memory_1979, and @goody_consequences_1963.
+
+[^ln11-quran]: "And thou wast not (able) / To recite a Book before
+/ This (Book came), nor art thou / (Able) to transcribe it / With thy right
+hand: / In that case, indeed, would / The talkers of vanities / Have doubted
+[@ali_meaning_1997, 29:48]."
 
 
 ## Chapter 4: The Medium is not the Message
