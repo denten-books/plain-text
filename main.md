@@ -322,15 +322,15 @@ machined rabbit hole, only to reappear shortly as a remote alphanumeric
 character on someone else's screen. The task of microanalysis will be to
 recover a measure of material context underlying textual production and
 dissemination. To trace the flows of governance and control that lurk beneath
-(as Kittler rightly suggests) would mean more than passive apprehension of
+(as Kittler rightly suggests) must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life ("the sign about which
-Robinson Crusoe would make no mistake", as Lacan would have it)
-[@lacan_seminar_1997, 167], but rather it would entail the proactive deployment
-of tools like *tracert*, *pcap*, *ssh*, or *traceroute*: tools that "hop"
-across, "sniff" packets in, burrow through, survey, traverse, and flood network
-topographies, channeling itinerant streams of data back into mangroves of
-readability and comprehension *for* readers and writers (as *subjects* whose
-loss Kittler laments). Only in these encrypted tunnels and secure shells can
+Robinson Crusoe would make no mistake", in Lacan's words) [@lacan_seminar_1997,
+167], but rather it would entail the proactive deployment of tools like
+*tracert*, *pcap*, *ssh*, or *traceroute*: tools that "hop" across, "sniff"
+packets in, burrow through, survey, traverse, and flood network topographies,
+channeling itinerant streams of data back into mangroves of readability and
+comprehension *for* readers and writers (as the very subjects whose loss
+Kittler laments). Only in these encrypted tunnels and secure shells can
 anything like the digital humanities take root.
 
 "Algorithms are inherently fascistic, because they give the comforting illusion
@@ -338,30 +338,31 @@ of an alterity to human affairs," Stephen Marche wrote in his now
 widely-discussed piece for the Los Angeles book review. "Algorithms have
 replaced laws of human nature, the vital distinction being that nobody can read
 them," he concludes [@marche_literature_2012]. But although a number of
-prominent voices (that include Stphen Hawkins, Catherine Hayles, and Elon Musk)
-have independently echoed Marche's concern about algorithmic alterity, his
-insistance on the elision of the subject does not strictly hold true for all
-human agents. Somebody can read the algorithms. That somebody is just not a
-reader or a writer in the scence Marche unerstands them, or in Kittler's sense
-when he writes "BYPASSING READERS AND WRITERS." The question then becomes not
-one of alterity (as laws are always alterior to an individual), but one of
-legibility. An algorithmic regime redraws lines of human agency, influence, and
-prestige, moving power towards a privileged class of readers and writers
-capable of comprehending and further emending this otherwise obscure form of
-regimental textuality. It is vital then to expand our notions of human literacy
-to include these emerging ways of creating alterior reglements.
+prominent voices (that include Stephen Hawkins, Catherine Hayles, and Elon
+Musk) have independently echoed Marche's metaphysical concern about algorithmic
+alterity, his insistence on the elision of the subject does not strictly hold
+true in the practice of writing and reading algorithms. But such writing and
+reading entails forms of literacy beyond Marche's "handmade insight." The
+question then becomes not one of alterity (as laws are always extraneous to an
+individual), but one of legibility. An algorithmic regime redraws lines of
+human agency, influence, and prestige, moving power towards a privileged class
+of readers and writers capable of comprehending and further emending this
+otherwise obscure form of regimental textuality. It is vital then to expand
+notions of human literacy to include the ability to read, write, and comprehend
+algorithms.
 
 We are accustomed to think of modern computing as a pinnacle of calculating,
-computational devices. That is the story the reader gets in Kittler's media
-history and in David Golumbia's provacotive *Cultural Logic of Computation.*
-The cultural logic of computation inevitably leads to a bleak vision of of
-Johanna Drucker calls "mathesis," the triumph of deterministic quantification
-over indeterminate, anti-positivist forces of the humanities. The historical
-links between computation and the military industrial complex cannot be denied.
-But the links are contingent rather than necessary connections. In moving
-towards a notion of critical computing, we are able to draw on a multiplicity
-of historical practices that suggest an alternative mode of engagement with the
-computational environment, one in which literature has plenty to say.
+computational devices. That is the story the reader gets in Marche's essay, in
+Kittler's media history, and in David Golumbia's provocative *Cultural Logic of
+Computation.* The cultural logic of computation inevitably leads to a bleak
+vision of of Johanna Drucker calls "mathesis," the triumph of deterministic
+quantification over indeterminate, anti-positivist forces of the humanities.
+The historical links between computation and the military industrial complex
+cannot be denied. But the links are contingent rather than necessary
+connections. In moving towards a notion of critical computing, we are able to
+draw on a multiplicity of historical practices that suggest an alternative mode
+of engagement with the computational environment, one in which literature has
+plenty to say.
 
 ### 2.2 Content and Control
 
