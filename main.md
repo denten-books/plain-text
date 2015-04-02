@@ -303,7 +303,7 @@ charge-coupled devices, surface-wave filters, [and] digital signal processors
 [@kittler1999, 263]." I share Kittler's interests in books, charges, waves,
 filters, and signals but not what his translators call his penchant for
 "technological apocalypse [@kittler_gramophone_1999, xxxiv]." Those who knew
-Kittler personally often insist that his sometimes giddy anti-humanism was
+Kittler personally often insist that his sometimes giddy trans-humanism was
 rather a playful stance, performed in the spirit of Nietzschean irony
 [@conway_solving_1988]. Whatever the author's intention, Kittler's text leaves
 little room for apathy. Readers must either acquiesce to automated discourse or
@@ -311,10 +311,10 @@ themselves take command. As Geoffrey Winthrop-Young and Michael Wutz put it,
 Kittler's work highlights the reader's inability to even pose (much less
 answer) "the question of the subject [@kittler_gramophone_1999, xxxiv.]"
 
-I take Arno Schmidt's letter (which concludes Kittler's book) then as a
-starting point on the way to recovering the subject--the "us" in Kittler's
-lament when he writes about data flows "once confined to books" that are now
-increasingly "disappearing into black holes and black boxes that, as artificial
+I take Arno Schmidt's letter (which concludes Kittler's book) then as an early
+waypoint on the road to recovering the subject--a sense of communal "us" in
+Kittler's lament about data flows "once confined to books" but now increasingly
+"disappearing into black holes and black boxes that, as artificial
 intelligences, are bidding us farewell on the way to nameless high commands
 [@kittler_gramophone_1999, as xxxix]." It does not have to be that way. For
 now, the action of the key press disappears into a machined rabbit hole, only
@@ -328,20 +328,20 @@ as Lacan would have it) [@lacan_seminar_1997, 167], but rather it would entail
 the proactive deployment of tools like *tracert*, *pcap*, *ssh*, or
 *traceroute*: tools that "hop" across, "sniff" packets in, burrow through,
 survey, traverse, and flood network topographies, channeling itinerant streams
-of data back into tideways of comprehension and readability *for* readers and
-writers (subjects whose loss Kittler laments). Only in these encrypted tunnels
-and secure shells can anything like the digital humanities take root.
+of data back into mangroves of readability and comprehension *for* readers and
+writers (as *subjects* whose loss Kittler laments). Only in these encrypted
+tunnels and secure shells can anything like the digital humanities take root.
 
 We are accustomed of thinking of modern computing as a pinnacle of calculating,
 computational devices. That is the story the reader gets in Kittler's media
-history and in David Golumbia's excellent *Cultural Logic of Computation.* The
-cultural logic of computation inevitably leads to a bleak vision of of Johanna
-Drucker calls "mathesis," the triumph of deterministic quantification over
-indeterminate, anti-positivist forces of the humanities. The historical links
-between computation and the military industrial complex, cannot be denied. But
-the links are contingent, rather than necessary connections. In moving towards
-a notion of critical computing, we are able to draw on a multiplicity of
-historical practices that suggest an alternative mode of engagement with the
+history and in David Golumbia's provacotive *Cultural Logic of Computation.*
+The cultural logic of computation inevitably leads to a bleak vision of of
+Johanna Drucker calls "mathesis," the triumph of deterministic quantification
+over indeterminate, anti-positivist forces of the humanities. The historical
+links between computation and the military industrial complex cannot be denied.
+But the links are contingent rather than necessary connections. In moving
+towards a notion of critical computing, we are able to draw on a multiplicity
+of historical practices that suggest an alternative mode of engagement with the
 computational environment, one in which literature has plenty to say.
 
 The personal computer governing the production of textuality today emerged from
