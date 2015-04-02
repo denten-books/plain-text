@@ -320,16 +320,17 @@ intelligences, are bidding us farewell on the way to nameless high commands
 now, the action of the key press disappears into a machined rabbit hole, only
 to reappear shortly as a remote alphanumeric character on someone else's
 screen. The task of microanalysis will be to recover a measure of material
-contexts framing textual production and dissemination, bringing to light and
-tracing the flows of governance and control that lurk beneath (as Kittler
-rightly suggests). I mean tracing not in the sense of footprints that indicate
-the ineffectual and evanescent absence of life ("the sign about which Robinson
-Crusoe would make no mistake) as Lacan would have it [@lacan_seminar_1997,
-167], but in a sense implicit in the application of tools like *tracert*,
-*pcap*, *ssh*, or *traceroute*: tools that make secure shells, "sniff", burrow,
-traverse, map, and tunnel through network topographies, allowing for the return
-of itinerant streams of data back to comprehension and readability for readers
-and writers (all subjects whose loss Kittler laments).
+contexts underlying textual production and dissemination. To trace the flows of
+governance and control that lurk beneath (as Kittler rightly suggests) would
+mean more than passive apprehension of footprints indicating the "evanescent
+absence" of life ("the sign about which Robinson Crusoe would make no mistake",
+as Lacan would have it) [@lacan_seminar_1997, 167], but rather it would entail
+the proactive deployment of tools like *tracert*, *pcap*, *ssh*, or
+*traceroute*: tools that "hop" across, "sniff" packets in, burrow through,
+survey, traverse, and flood network topographies, channeling itinerant streams
+of data back into tideways of comprehension and readability *for* readers and
+writers (subjects whose loss Kittler laments). Only in these encrypted tunnels
+and secure shells can anything like the digital humanities take root.
 
 We are accustomed of thinking of modern computing as a pinnacle of calculating,
 computational devices. That is the story the reader gets in Kittler's media
