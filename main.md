@@ -288,7 +288,7 @@ not just by the Babbage calculator, but in a series of advances in
 communications, word processing, and media storage. A notion of text (as
 opposed to number) is hence "baked into" the system.
 
-### 2.1 Content and Control
+### 2.1 In Search of a Subject
 
 "Media determine our situation," Friedrich Kittler wrote in his seminal
 *Gramophone, Film, Typewriter*[@kittler1999, xxxix]. The book channels its
@@ -311,28 +311,47 @@ themselves take command. As Geoffrey Winthrop-Young and Michael Wutz put it,
 Kittler's work highlights the reader's inability to even pose (much less
 answer) "the question of the subject [@kittler_gramophone_1999, xxxiv.]"
 
-I take Arno Schmidt's letter (which concludes Kittler's book) then as an early
-waypoint on the road to recovering the subject--a sense of communal "us" in
-Kittler's lament about data flows "once confined to books" but now increasingly
-"disappearing into black holes and black boxes that, as artificial
-intelligences, are bidding us farewell on the way to nameless high commands
-[@kittler_gramophone_1999, as xxxix]." It does not have to be that way. For
-now, the action of the key press disappears into a machined rabbit hole, only
-to reappear shortly as a remote alphanumeric character on someone else's
-screen. The task of microanalysis will be to recover a measure of material
-contexts underlying textual production and dissemination. To trace the flows of
-governance and control that lurk beneath (as Kittler rightly suggests) would
-mean more than passive apprehension of footprints indicating the "evanescent
-absence" of life ("the sign about which Robinson Crusoe would make no mistake",
-as Lacan would have it) [@lacan_seminar_1997, 167], but rather it would entail
-the proactive deployment of tools like *tracert*, *pcap*, *ssh*, or
-*traceroute*: tools that "hop" across, "sniff" packets in, burrow through,
-survey, traverse, and flood network topographies, channeling itinerant streams
-of data back into mangroves of readability and comprehension *for* readers and
-writers (as *subjects* whose loss Kittler laments). Only in these encrypted
-tunnels and secure shells can anything like the digital humanities take root.
+I take Arno Schmidt's letter (which concludes Kittler's book), then, as an
+early waypoint (and a provocation) on the road to recovering the subject--a
+sense of communal "us" in Kittler's lament about data flows "once confined to
+books" but now increasingly "disappearing into black holes and black boxes
+[...] as artificial intelligences are bidding us farewell on the way to
+nameless high commands [@kittler_gramophone_1999, as xxxix]." It does not have
+to be that way. For now, the action of the key press seems to vanish into a
+machined rabbit hole, only to reappear shortly as a remote alphanumeric
+character on someone else's screen. The task of microanalysis will be to
+recover a measure of material context underlying textual production and
+dissemination. To trace the flows of governance and control that lurk beneath
+(as Kittler rightly suggests) would mean more than passive apprehension of
+footprints indicating the "evanescent absence" of life ("the sign about which
+Robinson Crusoe would make no mistake", as Lacan would have it)
+[@lacan_seminar_1997, 167], but rather it would entail the proactive deployment
+of tools like *tracert*, *pcap*, *ssh*, or *traceroute*: tools that "hop"
+across, "sniff" packets in, burrow through, survey, traverse, and flood network
+topographies, channeling itinerant streams of data back into mangroves of
+readability and comprehension *for* readers and writers (as *subjects* whose
+loss Kittler laments). Only in these encrypted tunnels and secure shells can
+anything like the digital humanities take root.
 
-We are accustomed of thinking of modern computing as a pinnacle of calculating,
+"Algorithms are inherently fascistic, because they give the comforting illusion
+of an alterity to human affairs," Stephen Marche wrote in his now
+widely-discussed piece for the Los Angeles book review. "Algorithms have
+replaced laws of human nature, the vital distinction being that nobody can read
+them," he concludes [@marche_literature_2012]. But although a number of
+prominent voices (that include Stphen Hawkins, Catherine Hayles, and Elon Musk)
+have independently echoed Marche's concern about algorithmic alterity, his
+insistance on the elision of the subject does not strictly hold true for all
+human agents. Somebody can read the algorithms. That somebody is just not a
+reader or a writer in the scence Marche unerstands them, or in Kittler's sense
+when he writes "BYPASSING READERS AND WRITERS." The question then becomes not
+one of alterity (as laws are always alterior to an individual), but one of
+legibility. An algorithmic regime redraws lines of human agency, influence, and
+prestige, moving power towards a privileged class of readers and writers
+capable of comprehending and further emending this otherwise obscure form of
+regimental textuality. It is vital then to expand our notions of human literacy
+to include these emerging ways of creating alterior reglements.
+
+We are accustomed to think of modern computing as a pinnacle of calculating,
 computational devices. That is the story the reader gets in Kittler's media
 history and in David Golumbia's provacotive *Cultural Logic of Computation.*
 The cultural logic of computation inevitably leads to a bleak vision of of
@@ -343,6 +362,8 @@ But the links are contingent rather than necessary connections. In moving
 towards a notion of critical computing, we are able to draw on a multiplicity
 of historical practices that suggest an alternative mode of engagement with the
 computational environment, one in which literature has plenty to say.
+
+### 2.2 Content and Control
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
