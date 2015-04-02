@@ -378,14 +378,14 @@ mechanism for calculation because its internal state was itself symbolic. The
 device would receive input by means of a paper ribbon containing discrete
 symbolic inputs. At its bare minimum, the device would need only the ribbon, a
 means of "reading," and the means of "writing," the symbols onto the tape.
-Mechanically, its movement could be restricted to simple left/right progression
-along tape. What makes it a *universal* Turing machine is its ability to
-internalize the symbol as part of its mechanism. The symbolic input can
-symbolize computable data (letters and numbers), but it can also function as
-control code ("move left," "erase mark") altering the movement of the
-mechanism. In fact, the Turing machine does not properly differentiate between
-content and control code . Its internal state (Turing purposefully uses terms
-of sentient awareness throughout) "is determined by m-configuration
+Mechanically, its movement could be restricted to one axis or to the movement
+of the tape through he machine. What makes such a device a *universal* Turing
+machine is its ability to internalize the symbol as part of its mechanism. The
+symbolic input can symbolize computable data (letters and numbers), but it can
+also function as control code ("move left," "erase mark") altering the movement
+of the mechanism. In fact, the Turing machine does not properly differentiate
+between content and control code . Its internal state (Turing purposefully uses
+terms of sentient awareness throughout) "is determined by m-configuration
 *q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." In other words,
 whatever initial configuration the physical mechanism is in, its next state is
 defined by the its initial configuration and the scanned symbol. The material
