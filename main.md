@@ -322,7 +322,7 @@ machined rabbit hole, only to reappear shortly as a remote alphanumeric
 character on someone else's screen. The task of microanalysis will be to
 recover a measure of material context underlying textual production and
 dissemination. To trace the flows of governance and control that lurk beneath
-(as Kittler rightly suggests) must mean more than passive apprehension of
+(and of which Kittler warns us) must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life ("the sign about which
 Robinson Crusoe would make no mistake", in Lacan's words) [@lacan_seminar_1997,
 167], but rather it would entail the proactive deployment of tools like
@@ -549,7 +549,7 @@ internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
-### 3.2 Hidden Values
+### 2.2 Ghost in the Machine
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concluded the last survey of Public Participation in the Arts conducted by the
@@ -868,7 +868,115 @@ something like "the systemic application of textuality to human life," and
 textuality as "the site of literary activity." But I am not yet ready to move
 beyond the obvious tautology.
 
-### 3.3 Microanalysis
+### 2.4 WYSINAWYG (What You See Is Not Always What You Get)
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally. 
+
+ASCII.
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
+pause between each transmitted character can vary in length. For this reason
+ITA-2 includes two extra bits for indicating "start" and stop" elements. The
+letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
+zeros represent the absence and the presence of current[@ITU1932,
+36].[^ln13-current]
+
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
+clear that Goldberg, among others, was aware of the problem: the mechanization
+of type, automation, and remote control required specialized training. With the
+advent of the automated telegraph, content meant for people was now being
+intermixed with machine-controlling code. To combat mutual unintelligibility,
+Goldberg imagines using cards, perforated in the shape of the English alphabet.
+Besides carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
+and "plungers."
+
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+Concern with human comprehension. 
+
+Related to secrecy.  Plain language and
+
+secret language (telegraph regulations 1932).  "Plain language is that which
+presents an intelligible meaning in one or more of the languages authorized for
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@ITU1932, 12]. "Code language is composed either of artificial words, or of
+real words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligeble phrases" [@ITU1932,
+12].  TROFF
+
+Plain text in Unix. Human readability.
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
+
+
+### 2.3 Microanalysis
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an "ethnography" of a science lab, showing the
@@ -1048,115 +1156,7 @@ with the reported results.
 
 [^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
 
-### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally. 
-
-ASCII.
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
-pause between each transmitted character can vary in length. For this reason
-ITA-2 includes two extra bits for indicating "start" and stop" elements. The
-letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
-zeros represent the absence and the presence of current[@ITU1932,
-36].[^ln13-current]
-
-"You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
-invention relates to all controllers," Goldberg writes. "The object of the
-invention is to provide a mechanism operable by a control sheet which is
-legible to every person having sufficient education to enable him to read. To
-illustrate my invention, I produce a control sheet in which the control
-characters are in the form of the letters of the ordinary English alphabet
-[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
-clear that Goldberg, among others, was aware of the problem: the mechanization
-of type, automation, and remote control required specialized training. With the
-advent of the automated telegraph, content meant for people was now being
-intermixed with machine-controlling code. To combat mutual unintelligibility,
-Goldberg imagines using cards, perforated in the shape of the English alphabet.
-Besides carrying (human-readable) content, the perforations do "double duty" to
-mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
-and "plungers."
-
-![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
-Concern with human comprehension. 
-
-Related to secrecy.  Plain language and
-
-secret language (telegraph regulations 1932).  "Plain language is that which
-presents an intelligible meaning in one or more of the languages authorized for
-international telegraph correspondence, each word and each expression having
-the meaning normally assigned to it in the language to which it belongs"
-[@ITU1932, 12]. "Code language is composed either of artificial words, or of
-real words not used in the meaning normally assigned to them in the language to
-which they belong and consequently not forming intelligeble phrases" [@ITU1932,
-12].  TROFF
-
-Plain text in Unix. Human readability.
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
-We have now traveled from the pixel down to magnetic storage media and back
-from the storage media to the screen. The passage opens up space between
-visible content, media, and the imposed forms that govern any and all higher
-notions of literary activity "floating" above this nominally "digital" layer.
-Technology does not determine the literary space: it has only the potential to
-hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and transmediation. I say nothing
-yet of the potential necessity of such regulation. Under certain conditions, in
-the name of privacy, security, or property rights, it may become necessary to
-flatten out and to treat text as more of an analog, media-bound modality of
-communication, limited in its ability to move across minds and cultures. But,
-it is also in our broadly human, civic interest to keep such mechanisms of
-constraint visible to view, under continual scrutiny of critical, close, and
-closest possible reading.
-
-
-### 3.5 Conclusion
+### 2.5 Algorithm as Fetish
 
 I can only begin to work of re-inscribing the A more careful microanalysis of
 the textual condition in the passage between typewriters and personal
@@ -1186,6 +1186,36 @@ ideology, but as the ability to physically alter the material conditions of
 literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
 content and code as control.
+
+"An [algorithm] is therefore a mysterious thing, simply because in it the social
+character of men's [agreements] appears to them as an objective character stamped
+upon the product of those [agreements]." "There it is a definite social relation
+between men, that assumes, in their eyes, the fantastic form of a relation
+between things." "The relations connecting the [agreements] of one individual with
+that of the rest appear, not as direct social relations between individuals at
+work, but as what they really are, material relations between person and social
+relations between things." [@marx-english, 321] "These quantities vary
+continually, independently of the will, foresight and action of the producers.
+To them, their own social action takes the form of the action of objects, which
+rule the producers instead of being ruled by them." To strip the "mystical
+veil," algorithms as contracts between "freely associated men [@marx-english,
+327]." Necromancy.
+
+Hijack the whole conversation from the
+
+Derrida "If one follows the letter of the text, the critique of the ghost or of
+spirits would thus be the critique of a subjective representation and an
+abstraction, of what happens in the head, of what comes only out of the head,
+that is, of what stays there, in the head, even as it has come out of there,
+out of the head, and survives outside the head [@derrida_specters_2012, 215]." 
+
+In religion people make their empirical world into an entity that is only
+conceived, imagined, that confronts them as something foreign
+[@marx_collected_1976, 159].
+
+imagined commodity =
+algorithm labor = contracts, agreements
+
 ## Chapter 3: Phenomenology of a Photocopier
 `content, matter, form`
 
