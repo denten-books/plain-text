@@ -288,7 +288,10 @@ number of minutely differing gradations.
 [^ln-maley]: See for example @maley_analog_2011: "The received view is that
 analog representations vary smoothly, while digital representations vary in
 stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
-'analog' is synonymous with 'continuous.'"
+'analog' is synonymous with 'continuous.'" See also @kittler_there_1995,
+"Confronted as they are with a continuous environment of weather, waves, and
+wars, digital computers can cope with this real number-avalanche only by adding
+element to element."
 
 The philosopher Nelson Goodman (responsible for bringing the digital
 conversation into the realm of aesthetic theory in the analytic tradition)

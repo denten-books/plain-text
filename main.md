@@ -374,28 +374,64 @@ problem of calculability into "effective calculability." Where all previous
 calculators were special-purpose mechanisms, engineered to augment a specific
 type of computation, the a-machine was a universal device. In theory (and it
 was conceived as a thought experiment, at first), it could imitate any other
-mechanism for calculation because its internal state was itself symbolic. The
-device would receive input by means of a paper ribbon containing discrete
-symbolic inputs. At its bare minimum, the device would need only the ribbon, a
-means of "reading," and the means of "writing," the symbols onto the tape.
-Mechanically, its movement could be restricted to one axis or to the movement
-of the tape through he machine. What makes such a device a *universal* Turing
-machine is its ability to internalize the symbol as part of its mechanism. The
-symbolic input can symbolize computable data (letters and numbers), but it can
-also function as control code ("move left," "erase mark") altering the movement
-of the mechanism. In fact, the Turing machine does not properly differentiate
-between content and control code . Its internal state (Turing purposefully uses
-terms of sentient awareness throughout) "is determined by m-configuration
-*q<sub>n</sub>* and the scanned symbol [@turing1936, 231]." In other words,
-whatever initial configuration the physical mechanism is in, its next state is
-defined by the its initial configuration and the scanned symbol. The material
-and the symbolic fuse into one. This transition of symbols into machine
+mechanism for calculation because its internal state was represented as a
+symbolic state. The device would receive input by means of a paper ribbon
+containing discrete symbolic inputs. At its bare minimum, the device would need
+only the ribbon, a means of "reading," and the means of "writing," the symbols
+onto the tape. Mechanically, its movement could be restricted to one axis or to
+the movement of the tape through he machine. What makes such a device a
+*universal* Turing machine is its ability to internalize the symbol as part of
+its mechanism. The symbolic input can symbolize computable data (letters and
+numbers), but it can also function as control code ("move left," "erase mark")
+altering the movement of the mechanism. In fact, the Turing machine does not
+properly differentiate between content and control code. Its internal state
+(Turing purposefully uses terms of sentient awareness throughout) "is
+determined by m-configuration *q<sub>n</sub>* and the scanned symbol
+[@turing1936, 231]." In other words, whatever initial configuration the
+physical mechanism is in, its next state is defined by the its initial
+configuration *and* the scanned symbol. The material and the symbolic fuse into
+one. Software is also hardware. This transition of symbols into machine
 configuration states effectively defines modern programming. A universal
 machine, unlike other, definite, single-purpose and limited-state mechanisms
 (like a clock for example), contains the ability to take on differing internal
 symbolic configurations. It can imitate a clock, an abacus, a scale, and,
 Turing thought that with time it would be able to imitate humans as well.
 
+This ambiguity between hardware and software leads to some confusion in the
+critical literature, as evidenced by Lev Manovich's playful response to
+Kittler's "there is no software" argument. If I understand it correctly,
+Kittler's short but often cited essay picks up the thread of Kittler's earlier
+work to posit what he calls a "postmodern writing scene." "We do not write
+anymore," writes Kittler: "human-made writing passes through microscopically
+written inscriptions which, in contrast to all historical writing tools, are
+able to read and write by themselves [@kittler_there_1995]." According to this
+schema, Kittler sees the paper-bound design blueprints of the first integrated
+microprocessor as the last "real" piece of writing. Everything after that point
+is hardware. Manovich inverts Kittler's argument into "there is only software,"
+by which he means that in a pragmatic sense, the affordances of a given medium
+are determined by software. The printed page begins to differ from the screen
+only when the readers are able to do something on the screen that they could
+not on paper. To this end, Manovich encourages his readers to become active
+developers of software, rather than passive consumers [@manovich_there_2011,
+274]. Writing in the silicon age is possible, after all. Of course, Kittler
+could object that a reader's agency is still limited to the chip architecture.
+Many readers know how to code, but few have the resources to manufacture
+hardware and on some level the layout of microprocessor circuitry is a type of
+programming, miniaturized and mass produced at scales not accessible to the
+general public. The link between hardware and software is indeed blurry at that
+level.
+
+[ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+This ontological complication has its roots deep in Cartesian dualism. Turing
+explicitly set
+
+morroring the mind-body distinction . But
+since that to
 Alan Turing rightfully deserves the credit for articulating the archetype of a
 universal machine in its simplest logical form, and then for applying that
 theoretical device to the problem of computable numbers. But, as a device, the
@@ -1187,6 +1223,15 @@ literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
 content and code as control.
 
+Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
+of the tele-technology [@derrida_specters_2012, 213].
+
+"All these software mutations and 'new species' of software techniques are
+social in a sense that they don't simply come from individual mnids or from some
+'essential' proporties of a digital computer or network. They come from
+software developed by groups of people and marketed to large number of users
+[@manovich_there_2011, 272-273]."
+
 "An [algorithm] is therefore a mysterious thing, simply because in it the social
 character of men's [agreements] appears to them as an objective character stamped
 upon the product of those [agreements]." "There it is a definite social relation
@@ -1199,7 +1244,7 @@ continually, independently of the will, foresight and action of the producers.
 To them, their own social action takes the form of the action of objects, which
 rule the producers instead of being ruled by them." To strip the "mystical
 veil," algorithms as contracts between "freely associated men [@marx-english,
-327]." Necromancy.
+327]." "this automatism outside the head" .Necromancy.
 
 Hijack the whole conversation from the
 
