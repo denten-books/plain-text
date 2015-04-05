@@ -9,7 +9,10 @@ old_words=$(tail -1 $path/words.csv | cut -f 1 -d ' ')
 
 # use < to display counts only, otherwise wc includes the file name
 # count all .md files in the root dir one level deep
-for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < $f >> $path/tmp.txt; done
+for f in $(find $src -maxdepth 1 -name '*.md');
+    do
+        wc -w < $f >> $path/tmp.txt;
+    done;
 
 # add numbers in the tmp file and append
 words="$(awk '{ sum += $1 } END { print sum }' $path/tmp.txt)"
