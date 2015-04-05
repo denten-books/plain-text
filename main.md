@@ -364,228 +364,187 @@ draw on a multiplicity of historical practices that suggest an alternative mode
 of engagement with the computational environment, one in which literature has
 plenty to say.
 
-### 2.2 Content and Control
+### 2.2 Microanalysis
 
-The personal computer governing the production of textuality today emerged from
-an amalgam of automated devices, chief among them the telegraph, the typewriter
-and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
-Turing describes an automatic machine (a-machine) capable of transposing the
-problem of calculability into "effective calculability." Where all previous
-calculators were special-purpose mechanisms, engineered to augment a specific
-type of computation, the a-machine was a universal device. In theory (and it
-was conceived as a thought experiment, at first), it could imitate any other
-mechanism for calculation because its internal state was represented as a
-symbolic state. The device would receive input by means of a paper ribbon
-containing discrete symbolic inputs. At its bare minimum, the device would need
-only the ribbon, a means of "reading," and the means of "writing," the symbols
-onto the tape. Mechanically, its movement could be restricted to one axis or to
-the movement of the tape through he machine. What makes such a device a
-*universal* Turing machine is its ability to internalize the symbol as part of
-its mechanism. The symbolic input can symbolize computable data (letters and
-numbers), but it can also function as control code ("move left," "erase mark")
-altering the movement of the mechanism. In fact, the Turing machine does not
-properly differentiate between content and control code. Its internal state
-(Turing purposefully uses terms of sentient awareness throughout) "is
-determined by m-configuration *q<sub>n</sub>* and the scanned symbol
-[@turing1936, 231]." In other words, whatever initial configuration the
-physical mechanism is in, its next state is defined by the its initial
-configuration *and* the scanned symbol. The material and the symbolic fuse into
-one. Software is also hardware. This transition of symbols into machine
-configuration states effectively defines modern programming. A universal
-machine, unlike other, definite, single-purpose and limited-state mechanisms
-(like a clock for example), contains the ability to take on differing internal
-symbolic configurations. It can imitate a clock, an abacus, a scale, and,
-Turing thought that with time it would be able to imitate humans as well.
+In a study on the construction of scientific knowledge, Bruno Latour and Steve
+Woolgar perform what they call an "ethnography" of a science lab, showing the
+passage of ideas from applied experiment to textual inscription. For Woolgar
+and Latour, the laboratory functions as a factory of sorts, ingesting matter
+and artifact to produce fact [@latour1986]. That process of inscription comes
+to the fore explicitly: the output of science lab is, in some real ways,
+measured by its publication record [@latour1986]. A scientist may object that
+her publication record is merely a byproduct of her research activity. Yet
+Latour shows pretty convincingly that the laboratory participants closest to
+the material conditions of knowledge production are at the same time, most
+marginalized members of the group. Lab technicians handle the matter of mass
+spectrometers and bioassays. Ph.D. holders, by contrast, spend most of
+their time handling inscription devices like printers and computer consoles.
 
-This ambiguity between hardware and software leads to some confusion in the
-critical literature, as evidenced by Lev Manovich's playful response to
-Kittler's "there is no software" argument. If I understand it correctly,
-Kittler's short but often cited essay picks up the thread of Kittler's earlier
-work to posit what he calls a "postmodern writing scene." "We do not write
-anymore," writes Kittler: "human-made writing passes through microscopically
-written inscriptions which, in contrast to all historical writing tools, are
-able to read and write by themselves [@kittler_there_1995]." According to this
-schema, Kittler sees the paper-bound design blueprints of the first integrated
-microprocessor as the last "real" piece of writing. Everything after that point
-is hardware. Manovich inverts Kittler's argument into "there is only software,"
-by which he means that in a pragmatic sense, the affordances of a given medium
-are determined by software. The printed page begins to differ from the screen
-only when the readers are able to do something on the screen that they could
-not on paper. To this end, Manovich encourages his readers to become active
-developers of software, rather than passive consumers [@manovich_there_2011,
-274]. Writing in the silicon age is possible, after all. Of course, Kittler
-could object that a reader's agency is still limited to the chip architecture.
-Many readers know how to code, but few have the resources to manufacture
-hardware and on some level the layout of microprocessor circuitry is a type of
-programming, miniaturized and mass produced at scales not accessible to the
-general public. The link between hardware and software is indeed blurry at that
-level.
+Although much cited in the study of culture, science, and technology,
+*Laboratory Life* had curiously little impact on the study of literature, even
+though Latour and Woolgar borrowed much the other way around. In the 1986
+postscript to the American edition, they remark on the broad trend in literary
+theory to treat texts as objects of interpretation, disavowing the kind of
+criticism aimed at the "real meaning of texts," at "what the text says," "what
+really happened," or "what the authors intended [@latour1986, 273]." Similarly,
+research in the social study of science should be aimed at the "contingent
+character of objectification practices." Science, on their view, is itself a
+type of a literary system, "generating texts whose fate (status, value,
+utility, facticity) depends subsequently on interpretation [@latour1986, 273]."
+Throughout the book, Woolgar and Latour use the term literature to mean
+something "inscribed, printed, or published," a combination of verbs that
+coincides with "literature" consistently throughout [@latour1986, 47-53].
+Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
+research program started by the post-structuralists. Where Jacques Derrida could
+offhand remark that "everything is a text," Woolgar and Latour make concrete the
+literal transformation of matter into text. No longer was literature an
+illustration of something that happens in the laboratory: Latour and Woolgar
+showed the laboratory to function as a literary system.
 
-[ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
+The conventional way to understand Woolgar and Latour brings the interpreter
+into the laboratory, breaking the illusion of scientific objectivity: instead
+of "discovering" facts, scientist socially construct them. Paradoxically, as
+Latour and Woolgar worked to undermine the empirical unity of science (turning
+it into a kind of hermeneutics), they performed literary analysis as an
+empirical method. To "read" the laboratory, the researchers had to be there, in
+person, observing and taking notes. The laboratory opens up to them through a
+careful micro-ethnography. The reader gets to examine floor plans, research
+samples, dialog transcriptions, publication patterns, and other evidentiary
+materials.
 
-This ontological complication has its roots deep in Cartesian dualism. Turing
-explicitly set
+To view Woolgar and Latour as scholars of literature is to open up the
+floodgates of textuality. The laboratory, the court, the hospital--these
+institutions cannot be reduced to text, but they are in part, literary systems.
+Beneath every scientific discovery, every popular song, every film, radio, or
+television serial, every art or architectural project, every political office,
+every legal judgment, every restaurant meal, every doctor's prescription, every
+website, and every machine manual--beneath that giant and perplexing pile of
+human activity lies a complex network of textual material. The task of the
+literary scholar becomes to make visible that textual undercurrent, to follow
+and to map its movements across culture, to expose the mechanisms of its
+mutation and locomotion. It is an exciting prospect: to view the hospital as a
+library, where cadres of physicians and administrators convert human stories
+into diagnoses, into controlled vocabularies, into files, into billable codes,
+into inscriptions, and into archives. Or to see the legal system as a process
+of literary discovery, were legions of attorneys and paralegals pore over
+terabytes of textual material, transforming inscription into evidence. That is
+not all these institutions are, but they are also that.
 
-morroring the mind-body distinction . But
-since that to
-Alan Turing rightfully deserves the credit for articulating the archetype of a
-universal machine in its simplest logical form, and then for applying that
-theoretical device to the problem of computable numbers. But, as a device, the
-Turing machine borrows from a number of designs, that, together, incrementally,
-bring the universal computer into material existence. Although Turing's
-original article did not include any drawings, he describes the a-machine in
-terms of paper tape medium, scanning, erasing, "writing down notes," "external
-operators," and "moves" of the mechanism. From an engineering standpoint,
-Turing's machine can be reduced to the mechanism for "reading" and "writing"
-symbols onto and from paper storage media, and the ribbon itself used to
-control the motion of the device. In the United States these elements would
-have prior art in the mechanisms like the "Numeral adding or subtracting
-attachment for type-writing machines" (US517735, filed in 1893 and issued in
-1894), "Combined Type-Writing and Computing Machine" (US990238, 1896-1897),
-"Computing Attachment for Typewriters" (US1162730, 1908-1915), "Computing
-Mechanism" (US1105170, 1908-1914), and "Combined Type-Writing and Adding
-Machine" (US1244398, 1910-1917) among others.
+Such textual proliferation comes at a cost. Until recently, the bread and
+butter of literary scholarship has been close reading. Close reading like
+critical thinking is an idea that is easier to perform than to explain, because
+the details become contentious as soon as they are
+formalized.[^ln12-closereading] I will tread carefully by committing myself to
+some notion of deliberate and reflective practice aimed at deep comprehension.
+The Partnership for Assessment of Readiness for College and Careers (PARCC),
+the organization responsible for the Common Core standards being implemented in
+schools across the United States today, promotes close reading as "thorough,"
+"methodical," and "analytical" practice that "enables students to reflect on
+the meanings of individual words and sentences; the order in which sentences
+unfold; and the development of ideas over the course of the text, which
+ultimately leads students to arrive at an understanding of the text as a whole
+[@PARCC2012, 7]." The general movement here is from "text" on the page to
+"work" (text as a whole, in the language of the report). The model of
+textuality implicit in the project of close reading assumes an environment of a
+well-defined literary canon, naturally accessible to the human intellect. For
+the duration of the "Gutenberg galaxy," the age of print, a well-educated
+person might have been expected to internalize some several hundred or perhaps
+thousands major texts constituting the canon.
 
-"If we disregard the small class of telegrams that merely express emotions, the
-essence of telegraphy is control [...] Telegraph systems, therefore, belong not
-to the class of producing or distributing, but to the class of controlling
-mechanisms @murray_setting_1905, 556]."
+The expansion of the textual field and its relative liberation from physical
+media have radically increased the cognitive demands of literary engagement.
+The pipeline between text and work has lengthened considerably. On the one
+side, the matter of canon formation can no longer be relegated to stable,
+long-term systems of social filtration. Seen form the perspective of a literary
+interface, the database, the social stream, and the search engine are tools for
+dynamic, "on the fly," generative canon-formation. Consider the task of finding
+an unknown factoid online, as was the case with my previous aside on the status
+of literacy in medieval Muslim world. Not being a medieval scholar, I construct
+a search query, using resources that I believe will return a reasonably
+authoritative list of texts on the subject. The search engine in effect
+substitutes centuries-long processes of canon formation, for a
+near-instantaneous list of results that become my ephemeral, but nevertheless
+authoritative, collection of relevant literature. Each text still requires the
+instrumentation of close, analytical interpretation. However, the same ideals
+need to be exercised on the higher level of orchestration. Where to search?
+Using what engine? How to construct the query?
 
-By the end of the 19th century a number of lesser mechanisms anticipate the
-functional elements of Turing's device. By 1930s, these inventions not only
-anticipate the modern computer, but are brought to mass market in wide-spread
-manufacture of computing scales, dial recorders, electric tabulating machines,
-and computing typewriters made by companies like Underwood Computing Machine,
-Electromatic, and International Business Machines (IBM). Rather than a singular
-eureka moment, the invention of the universal machine should be viewed as a
-gradual historical process that culminates with Turing's ideal specifications.
-Three key stages, each in itself encompassing a long lineage of technological
-development, stand out as absolutely necessary for the complete development:
+The academic question of canon-formation, transforms into a (not yet critical)
+practice of rapid, iterative, generative canon making. Whatever ideals motivate
+close reading between "text" and "work" surely must drive the process on the
+level of corpus composition. Almost every field of human activity has responded
+to the condition in which canons are no longer accessible, in their entirety,
+to the unaided (natural) human intellect: distant reading and macroanalysis in
+literary studies[@jockers2013, @moretti2013], culturomics in economy
+[@aiden2014], e-discovery in law [@capra2009], and medical informatics in
+medicine [@shortliffe2012], among others. At the foundations of these nascent
+disciplines is a shared toolkit of statistical natural language processing
+[@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
+learning [@flach2012], network analysis [@], and topic modeling [@blei2012].
 
-1. The mechanization of type. With the invention of the movable type and the
-   typewriter, the variability of hand-written script can be normalized to a
-limited set of discrete characters. The process of normalization continues
-today as contemporary technologies like natural language processing and optical
-character recognition struggle deal with non-Western writing systems.
+```
 
-2. Remote communications (geographical displacement). Mechanical type can now
-   be converted into electrical signals. The telegraph removes writing from its
-immediate physical environment. Authorial presence, already weakened by writing
-as such, is further distanced from the contexts of utterance. The telegraph
-lengthens the chain of technological and political mediation in the
-transmission of information. The telegram differs from the letter in that it is
-transcribed, encoded, decoded, and transcribed again. The lengthening further
-weakens the authorial function: where a letter must be "forged" to
-mis-represent authorial intent, third parties (like the telegraph clerk) are
-explicitly present in the act of telegraphic transmission. In the absence of
-the identifying "hand," the telegraph clerk's (or the censor's) mark cannot be
-distinguished from the author's (a common literary plot device in the fiction
-of the period). The notion of the telegram's "fidelity" therefore becomes an
-attribute of the communication channel as a whole.
+                       .------------------ canon
+                       |                   corpus
+                       v                   database
+                                           search
+        Author > Text > Reader > Work      library
+                                           recommendation engine
+               ^               ^
+MICROANALYSIS  |               |           DISTANT READING (MACROANALYSIS)
+               |               |
+                               |  CLOSE READING
+    personal computer          |
+    file system                . _ _  interpretation
+    word processor                    construction of meaning
+    file format (encoding)
+    physical media (paper and pixel)
 
-3. Automation and programmable media (temporal displacement). Programmable
-   media like perforated tape removes the human previously needed to mediate
-between mechanical and electrical signal. "Content" intended for humans can now
-be mixed with "control code" intended to alter the operation of the receiving
-device.
+```
 
-Where the first two of these developments are well covered in the literature of
-new media and communications studies, the third is most crucial to the
-development of Turing machines, and least understood. A number of inventions at
-the end of the 19th century pertain to "circuit-controlling devices controlled
-by a traveling perforated strip or tape" (from US patent number 500226, filed
-Charles Cutriss in 1893 [@cutriss1893]). Prior to perforated tape, the
-transmission of messages by telegraph required the presence of a skilled
-operator, able to transcribe messages from text to Morse code, and into the
-physical motion of a lever-operated circuit. In this system, the human operator
-acted as a mute interface between text and machine. The transcription of text
-into signal, and back onto paper, required the real-time presence of human
-encoders and a decoders. The perforated tape decoupled the human from the
-machine. In US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and
-Ralph Bumstead explain, "the object of our invention is to provide a system of
-telegraphy which does not require skilled operators for the transmission and
-reception of messages." Instead, the message was transcribed into perforation
-mechanical means and then fed into the device. The tape mechanics of the type
-writer could then be coupled with the electrics of the telegraph, with
-perforated tape as the mediator between the two "worlds." A number of devices
-emerged at the time with the aim of transforming mechanical action of the
-typewriter into perforation, and, consequently, perforation into script,
-completing the circuit between automated "encoding" and "decoding". As one
-device converts human input into mechanical states, and into signal, another
-device converts the signal into mechanical states and into a human-legible
-message.
+Where distant reading and macroanalysis are concerned with text aggregates,
+microanalysis, of the type suggested (but not carried out to its logical
+conclusion) by Latour and Woolgar, occupies the other side of the text-work
+equation. There's relatively little space between author, text, and, reader in
+the traditional model of literary transmission. Were I to write these words in
+front of you, on paper, I would simply pass the page into your hands. In
+receiving this text, you could be fairly certain that no third party meddled in
+the process of passing the note. When communicating in this way, it makes quite
+a bit of sense to talk about notions like "authorial intent" and "fidelity of
+the original," because the author and his work occupy contiguous space and
+time. The advent of cheap mechanical reproduction of print (for the sake of
+brevity let's say the printing press) introduces a range of instrumentation
+that mediate between the author and the reader. Distance, time, and mediation
+weakens any notion of fidelity and authorial intent. At the very least, we know
+that editorial practices, publishing markets, and communication technologies
+introduce an element of noise into the original text. At worst, long-distance,
+asynchronous communication is susceptible to "man-in-the-middle" attacks, by
+which the content of communication is maliciously altered by a third party
+[@needham1978].
 
-A flood of inventions appeared at the turn of the 20th century to capitalize on
-such decoupling. These include machines for tape-controlled telegraphic
-transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
-tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
-1928-1929), and remote broadcast programming or radio and television content
-(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards
-and perforated tape (also used in Jacquard looms, as early as 1801), a message
-meant for another human became also a physical medium--bumps and holes--used to
-mechanical movement of the transmission apparatus. For example, of the 33
-asserted claims in the Bumstead brothers patent, the first 13 relate to the
-"transmission of intelligence [...] adapted to initiate a succession of
-electrical impulses all of which have a character representing significance, a
-receiver adapted to detect variations in time intervals elapsing between
-successive impulses, a plurality of interpreting relays selectively actuated by
-said receiver, and a printed mechanism responsive for the combined action
-[@bumstead1911, 12-13]." Up to this point, the patent describes a device for
-transmission information, from type to print. Starting with clause 14, the
-language changes to describe a more general "telegraph system," involving
-"an impulse transmitter having means to vary the time intervals between
-successive transmitted impulses, each time interval having a character
-representing significance, a receiver responsive to said devices, and signal,
-distributing, interpreting, and recording devices *responsive to the contiguous
-significant time intervals define by the impulses* [@bumstead1911, 14 (emphasis
-mine)]." For the automated telegraph the control code and the message are one:
-that is, the arrangement of perforation on the ticker tape affects the internal
-mechanical configuration of the machine. Another way to put this would be to
-say that the state of the tape-driven telegraph machine at any given time is
-also, in part, a message meant for the human recipient. The printing telegraph
-of Brothers Bumstead, along with their subsequents and antecedents contain all
-the necessary parts for a Turing machine: discrete symbolic language,
-removable storage medium, and a device that can alter its internal state based on
-the reading and writing passing symbols.
+Changing material conditions of textual transmission push against the familiar
+literary critical conceptual apparatus. For example, as mechanical reproduction
+of print weakens the material basis for authorship attribution, the notion of
+authorship itself undergoes change. That is not to say, again with Barthes,
+that the author dies. Authors continue live and collect royalties from the sale
+of their works, but the reconfiguration of the authorship function makes
+certain ways of talking about things like "authorial intent" and "fidelity to
+the original" difficult to sustain. Massively collaborative writing projects
+like Wikipedia and procedural narrative generation further erode ideas of
+authorial production based on personal human agency.
 
-Where we began with mechanisms of direct inscription (like pens and
-typewriters) we end with machines that look like typewriters, but involve
-"control circuits" capable of distinguishing "significance" and of
-"interpretation." The telegraph signal that initially had one-to-one
-correspondence of output to the human input is now processing signals. Content
-intertwines with control. And the issue of who gets to control what comes to
-the fore right away. In US1165663, filed in 1911 and issued in 1915, Hyman
-Goldberg writes: "the object of the invention is to provide mechanism operable
-by a control sheet which is legible to every person having sufficient education
-to enable him to read." Goldberg invention involves a perforated "control
-sheet in which the control characters are in the form of ordinary language."
-Rather than using ticker tape, Goldberg's perforations form letters: the
-language of machines and the language of humans coincide. But it is not until
-much later, with the invention of higher level programming languages, that
-literature for humans and literature for machines would coincide on one and the
-same sheet. The early history of computing is punctuated by the ticker tape and
-the punch card as the preferred control and storage media of choice.
+The aim of microanalysis then is to reconstruct the material conditions of
+textuality, paying sustained attention to the atomic particulars of encoding,
+transmission, storage, and decoding of text at the sites of its application to
+the human experience.
 
-With this history in mind, I am interested in reformulating the metaphysical
-anxiety about literature and value formation in terms of text and control. If
-you are reading these words on a screen, my message has reached you through a
-long chain of transformations: from the mechanical action of my keyboard, to
-the arrangement of electrons on magnetic storage media, to the modulation of
-fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many,
-third parties were involved in that act of communication. And some part of
-that message was used to control the electrical circuits of the device in your
-lap, in your hand, near to your eye, embedded, or embodied. Close reading
-limited to the parsing of content risks missing the machinations of naked
-control. It looks like you are reading a book, but this book changes its
-internals as it receives instructions to inform and to control. For now I ask
-only who controls the device? But if the book is a pill or fused with the
-neural circuitry of the brain, do you know what you are reading?
+[^ln12-survey]: I can only give anecdotal evidence here, as I often put this
+question before my graduate students at the beginning of the semester,
+with the reported results.
 
-### 2.2 Ghost in the Machine
+[^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
+
+### 2.3 Ghost in the Machine
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concluded the last survey of Public Participation in the Arts conducted by the
@@ -904,7 +863,242 @@ something like "the systemic application of textuality to human life," and
 textuality as "the site of literary activity." But I am not yet ready to move
 beyond the obvious tautology.
 
-### 2.4 WYSINAWYG (What You See Is Not Always What You Get)
+### 2.4 Content and Control
+
+The personal computer governing the production of textuality today emerged from
+an amalgam of automated devices, chief among them the telegraph, the typewriter
+and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
+Turing describes an automatic machine (a-machine) capable of transposing the
+problem of calculability into "effective calculability." Where all previous
+calculators were special-purpose mechanisms, engineered to augment a specific
+type of computation, the a-machine was a universal device. In theory (and it
+was conceived as a thought experiment, at first), it could imitate any other
+mechanism for calculation because its internal state was represented as a
+symbolic state. The device would receive input by means of a paper ribbon
+containing discrete symbolic inputs. At its bare minimum, the device would need
+only the ribbon, a means of "reading," and the means of "writing," the symbols
+onto the tape. Mechanically, its movement could be restricted to one axis or to
+the movement of the tape through he machine. What makes such a device a
+*universal* Turing machine is its ability to internalize the symbol as part of
+its mechanism. The symbolic input can symbolize computable data (letters and
+numbers), but it can also function as control code ("move left," "erase mark")
+altering the movement of the mechanism. In fact, the Turing machine does not
+properly differentiate between content and control code. Its internal state
+(Turing purposefully uses terms of sentient awareness throughout) "is
+determined by m-configuration *q<sub>n</sub>* and the scanned symbol
+[@turing1936, 231]." In other words, whatever initial configuration the
+physical mechanism is in, its next state is defined by the its initial
+configuration *and* the scanned symbol. The material and the symbolic fuse into
+one. Software is also hardware. This transition of symbols into machine
+configuration states effectively defines modern programming. A universal
+machine, unlike other, definite, single-purpose and limited-state mechanisms
+(like a clock for example), contains the ability to take on differing internal
+symbolic configurations. It can imitate a clock, an abacus, a scale, and,
+Turing thought that with time it would be able to imitate humans as well.
+
+This ambiguity between hardware and software leads to some confusion in the
+critical literature, as evidenced by Lev Manovich's playful response to
+Kittler's "there is no software" argument. If I understand it correctly,
+Kittler's short but often cited essay picks up the thread of Kittler's earlier
+work to posit what he calls a "postmodern writing scene." "We do not write
+anymore," writes Kittler: "human-made writing passes through microscopically
+written inscriptions which, in contrast to all historical writing tools, are
+able to read and write by themselves [@kittler_there_1995]." According to this
+schema, Kittler sees the paper-bound design blueprints of the first integrated
+microprocessor as the last "real" piece of writing. Everything after that point
+is hardware. Manovich inverts Kittler's argument into "there is only software,"
+by which he means that in a pragmatic sense, the affordances of a given medium
+are determined by software. The printed page begins to differ from the screen
+only when the readers are able to do something on the screen that they could
+not on paper. To this end, Manovich encourages his readers to become active
+developers of software, rather than passive consumers [@manovich_there_2011,
+274]. Writing in the silicon age is possible, after all. Of course, Kittler
+could object that a reader's agency is still limited to the chip architecture.
+Many readers know how to code, but few have the resources to manufacture
+hardware and on some level the layout of microprocessor circuitry is a type of
+programming, miniaturized and mass produced at scales not accessible to the
+general public. The link between hardware and software is indeed blurry at that
+level.
+
+[ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+This ontological complication has its roots deep in Cartesian dualism. Where
+does a brain end and a mind begin? Similarly, at some impreceptible point
+software disappears into hardware. But before we ourselves get lost in that
+liminal space between matter and idea, let us recover a measure of novelty
+found in now familiar operation of the Turing machine. The first thing to note
+is that Turing's original formulation happens at the level of a thought
+experiment. The Turing machine is an idea, which takes on the structure of
+other ideas expressed symbolically. The second thing to note is that although
+Turing describes the Turing machine in the language of mathetmatics, giving it
+its perfect, universal shape, his description also contains the bare minimum of
+a mechanichal device. The critical litrature on Turing machines usually
+confronts it only as a novel abstraction. But, as a mechanism, the Turing
+machine borrows from a number of extant designs, that together and
+incrementally bring the universal computer into material existence. Although
+Turing's original article did not include any drawings, he describes the
+a-machine in terms of paper tape medium, scanning, erasing, "writing down
+notes," "external operators," and "moves" of the mechanism. From the
+construction standpoint, Turing's machine can be reduced (1) to the mechanism
+for "reading" and "writing" symbols onto and from paper storage media, and (2)
+to the paper tape storage medium itself (as seen in Mike Davey's
+reconstruction). In the United States, these elements would find prior art in
+the mechanisms like the "Numeral adding or subtracting attachment for
+type-writing machines" (US517735, filed in 1893 and issued in 1894), "Combined
+Type-Writing and Computing Machine" (US990238, 1896-1897), "Computing
+Attachment for Typewriters" (US1162730, 1908-1915), "Computing Mechanism"
+(US1105170, 1908-1914), and "Combined Type-Writing and Adding Machine"
+(US1244398, 1910-1917) among others.
+
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012.  Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/turing.jpg)
+
+![Universal Turing machine as an idea. "Nick Gardner's WireWorld multiplier,
+via a Turing machine."](images/turing-idea.png)
+
+
+By the end of the 19th century a number of lesser mechanisms anticipate the
+functional elements of Turing's device. By 1930s, these inventions not only
+anticipate the modern computer, but are brought to mass market in wide-spread
+manufacture of computing scales, dial recorders, electric tabulating machines,
+and computing typewriters made by companies like Underwood Computing Machine,
+Electromatic, and International Business Machines (IBM). Rather than a singular
+eureka moment, the invention of the universal machine should be viewed as a
+gradual historical process that culminates with Turing's ideal specifications.
+Three key stages, each in itself encompassing a long lineage of technological
+development, stand out as absolutely necessary for the complete development:
+
+1. The mechanization of type. With the invention of the movable type and the
+   typewriter, the variability of hand-written script can be normalized to a
+limited set of discrete characters. The process of normalization continues
+today as contemporary technologies like natural language processing and optical
+character recognition struggle deal with non-Western writing systems.
+
+2. Remote communications (geographical displacement). Mechanical type can now
+   be converted into electrical signals. The telegraph removes writing from its
+immediate physical environment. Authorial presence, already weakened by writing
+as such, is further distanced from the contexts of utterance. The telegraph
+lengthens the chain of technological and political mediation in the
+transmission of information. The telegram differs from the letter in that it is
+transcribed, encoded, decoded, and transcribed again. The lengthening further
+weakens the authorial function: where a letter must be "forged" to
+mis-represent authorial intent, third parties (like the telegraph clerk) are
+explicitly present in the act of telegraphic transmission. In the absence of
+the identifying "hand," the telegraph clerk's (or the censor's) mark cannot be
+distinguished from the author's (a common literary plot device in the fiction
+of the period). The notion of the telegram's "fidelity" therefore becomes an
+attribute of the communication channel as a whole.
+
+3. Automation and programmable media (temporal displacement). Programmable
+   media like perforated tape removes the human previously needed to mediate
+between mechanical and electrical signal. "Content" intended for humans can now
+be mixed with "control code" intended to alter the operation of the receiving
+device.
+
+Where the first two of these developments are well covered in the literature of
+new media and communications studies, the third is most crucial to the
+development of Turing machines, and least understood. A number of inventions at
+the end of the 19th century pertain to "circuit-controlling devices controlled
+by a traveling perforated strip or tape" (from US patent number 500226, filed
+Charles Cutriss in 1893 [@cutriss1893]). Prior to perforated tape, the
+transmission of messages by telegraph required the presence of a skilled
+operator, able to transcribe messages from text to Morse code, and into the
+physical motion of a lever-operated circuit. In this system, the human operator
+acted as a mute interface between text and machine. The transcription of text
+into signal, and back onto paper, required the real-time presence of human
+encoders and a decoders. The perforated tape decoupled the human from the
+machine. In US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and
+Ralph Bumstead explain, "the object of our invention is to provide a system of
+telegraphy which does not require skilled operators for the transmission and
+reception of messages." Instead, the message was transcribed into perforation
+mechanical means and then fed into the device. The tape mechanics of the type
+writer could then be coupled with the electrics of the telegraph, with
+perforated tape as the mediator between the two "worlds." A number of devices
+emerged at the time with the aim of transforming mechanical action of the
+typewriter into perforation, and, consequently, perforation into script,
+completing the circuit between automated "encoding" and "decoding". As one
+device converts human input into mechanical states, and into signal, another
+device converts the signal into mechanical states and into a human-legible
+message.
+
+A flood of inventions appeared at the turn of the 20th century to capitalize on
+such decoupling. These include machines for tape-controlled telegraphic
+transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
+tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
+1928-1929), and remote broadcast programming or radio and television content
+(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards
+and perforated tape (also used in Jacquard looms, as early as 1801), a message
+meant for another human became also a physical medium--bumps and holes--used to
+mechanical movement of the transmission apparatus. For example, of the 33
+asserted claims in the Bumstead brothers patent, the first 13 relate to the
+"transmission of intelligence [...] adapted to initiate a succession of
+electrical impulses all of which have a character representing significance, a
+receiver adapted to detect variations in time intervals elapsing between
+successive impulses, a plurality of interpreting relays selectively actuated by
+said receiver, and a printed mechanism responsive for the combined action
+[@bumstead1911, 12-13]." Up to this point, the patent describes a device for
+transmission information, from type to print. Starting with clause 14, the
+language changes to describe a more general "telegraph system," involving
+"an impulse transmitter having means to vary the time intervals between
+successive transmitted impulses, each time interval having a character
+representing significance, a receiver responsive to said devices, and signal,
+distributing, interpreting, and recording devices *responsive to the contiguous
+significant time intervals define by the impulses* [@bumstead1911, 14 (emphasis
+mine)]." For the automated telegraph the control code and the message are one:
+that is, the arrangement of perforation on the ticker tape affects the internal
+mechanical configuration of the machine. Another way to put this would be to
+say that the state of the tape-driven telegraph machine at any given time is
+also, in part, a message meant for the human recipient. The printing telegraph
+of Brothers Bumstead, along with their subsequents and antecedents contain all
+the necessary parts for a Turing machine: discrete symbolic language,
+removable storage medium, and a device that can alter its internal state based on
+the reading and writing passing symbols.
+
+"If we disregard the small class of telegrams that merely express emotions, the
+essence of telegraphy is control [...] Telegraph systems, therefore, belong not
+to the class of producing or distributing, but to the class of controlling
+mechanisms @murray_setting_1905, 556]."
+
+Where we began with mechanisms of direct inscription (like pens and
+typewriters) we end with machines that look like typewriters, but involve
+"control circuits" capable of distinguishing "significance" and of
+"interpretation." The telegraph signal that initially had one-to-one
+correspondence of output to the human input is now processing signals. Content
+intertwines with control. And the issue of who gets to control what comes to
+the fore right away. In US1165663, filed in 1911 and issued in 1915, Hyman
+Goldberg writes: "the object of the invention is to provide mechanism operable
+by a control sheet which is legible to every person having sufficient education
+to enable him to read." Goldberg invention involves a perforated "control
+sheet in which the control characters are in the form of ordinary language."
+Rather than using ticker tape, Goldberg's perforations form letters: the
+language of machines and the language of humans coincide. But it is not until
+much later, with the invention of higher level programming languages, that
+literature for humans and literature for machines would coincide on one and the
+same sheet. The early history of computing is punctuated by the ticker tape and
+the punch card as the preferred control and storage media of choice.
+
+With this history in mind, I am interested in reformulating the metaphysical
+anxiety about literature and value formation in terms of text and control. If
+you are reading these words on a screen, my message has reached you through a
+long chain of transformations: from the mechanical action of my keyboard, to
+the arrangement of electrons on magnetic storage media, to the modulation of
+fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many,
+third parties were involved in that act of communication. And some part of
+that message was used to control the electrical circuits of the device in your
+lap, in your hand, near to your eye, embedded, or embodied. Close reading
+limited to the parsing of content risks missing the machinations of naked
+control. It looks like you are reading a book, but this book changes its
+internals as it receives instructions to inform and to control. For now I ask
+only who controls the device? But if the book is a pill or fused with the
+neural circuitry of the brain, do you know what you are reading?
+
+### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 By the 1960, multiple competing character encodings existed in the United
 States and globally. 
@@ -1012,187 +1206,7 @@ constraint visible to view, under continual scrutiny of critical, close, and
 closest possible reading.
 
 
-### 2.3 Microanalysis
-
-In a study on the construction of scientific knowledge, Bruno Latour and Steve
-Woolgar perform what they call an "ethnography" of a science lab, showing the
-passage of ideas from applied experiment to textual inscription. For Woolgar
-and Latour, the laboratory functions as a factory of sorts, ingesting matter
-and artifact to produce fact [@latour1986]. That process of inscription comes
-to the fore explicitly: the output of science lab is, in some real ways,
-measured by its publication record [@latour1986]. A scientist may object that
-her publication record is merely a byproduct of her research activity. Yet
-Latour shows pretty convincingly that the laboratory participants closest to
-the material conditions of knowledge production are at the same time, most
-marginalized members of the group. Lab technicians handle the matter of mass
-spectrometers and bioassays. Ph.D. holders, by contrast, spend most of
-their time handling inscription devices like printers and computer consoles.
-
-Although much cited in the study of culture, science, and technology,
-*Laboratory Life* had curiously little impact on the study of literature, even
-though Latour and Woolgar borrowed much the other way around. In the 1986
-postscript to the American edition, they remark on the broad trend in literary
-theory to treat texts as objects of interpretation, disavowing the kind of
-criticism aimed at the "real meaning of texts," at "what the text says," "what
-really happened," or "what the authors intended [@latour1986, 273]." Similarly,
-research in the social study of science should be aimed at the "contingent
-character of objectification practices." Science, on their view, is itself a
-type of a literary system, "generating texts whose fate (status, value,
-utility, facticity) depends subsequently on interpretation [@latour1986, 273]."
-Throughout the book, Woolgar and Latour use the term literature to mean
-something "inscribed, printed, or published," a combination of verbs that
-coincides with "literature" consistently throughout [@latour1986, 47-53].
-Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
-research program started by the post-structuralists. Where Jacques Derrida could
-offhand remark that "everything is a text," Woolgar and Latour make concrete the
-literal transformation of matter into text. No longer was literature an
-illustration of something that happens in the laboratory: Latour and Woolgar
-showed the laboratory to function as a literary system.
-
-The conventional way to understand Woolgar and Latour brings the interpreter
-into the laboratory, breaking the illusion of scientific objectivity: instead
-of "discovering" facts, scientist socially construct them. Paradoxically, as
-Latour and Woolgar worked to undermine the empirical unity of science (turning
-it into a kind of hermeneutics), they performed literary analysis as an
-empirical method. To "read" the laboratory, the researchers had to be there, in
-person, observing and taking notes. The laboratory opens up to them through a
-careful micro-ethnography. The reader gets to examine floor plans, research
-samples, dialog transcriptions, publication patterns, and other evidentiary
-materials.
-
-To view Woolgar and Latour as scholars of literature is to open up the
-floodgates of textuality. The laboratory, the court, the hospital--these
-institutions cannot be reduced to text, but they are in part, literary systems.
-Beneath every scientific discovery, every popular song, every film, radio, or
-television serial, every art or architectural project, every political office,
-every legal judgment, every restaurant meal, every doctor's prescription, every
-website, and every machine manual--beneath that giant and perplexing pile of
-human activity lies a complex network of textual material. The task of the
-literary scholar becomes to make visible that textual undercurrent, to follow
-and to map its movements across culture, to expose the mechanisms of its
-mutation and locomotion. It is an exciting prospect: to view the hospital as a
-library, where cadres of physicians and administrators convert human stories
-into diagnoses, into controlled vocabularies, into files, into billable codes,
-into inscriptions, and into archives. Or to see the legal system as a process
-of literary discovery, were legions of attorneys and paralegals pore over
-terabytes of textual material, transforming inscription into evidence. That is
-not all these institutions are, but they are also that.
-
-Such textual proliferation comes at a cost. Until recently, the bread and
-butter of literary scholarship has been close reading. Close reading like
-critical thinking is an idea that is easier to perform than to explain, because
-the details become contentious as soon as they are
-formalized.[^ln12-closereading] I will tread carefully by committing myself to
-some notion of deliberate and reflective practice aimed at deep comprehension.
-The Partnership for Assessment of Readiness for College and Careers (PARCC),
-the organization responsible for the Common Core standards being implemented in
-schools across the United States today, promotes close reading as "thorough,"
-"methodical," and "analytical" practice that "enables students to reflect on
-the meanings of individual words and sentences; the order in which sentences
-unfold; and the development of ideas over the course of the text, which
-ultimately leads students to arrive at an understanding of the text as a whole
-[@PARCC2012, 7]." The general movement here is from "text" on the page to
-"work" (text as a whole, in the language of the report). The model of
-textuality implicit in the project of close reading assumes an environment of a
-well-defined literary canon, naturally accessible to the human intellect. For
-the duration of the "Gutenberg galaxy," the age of print, a well-educated
-person might have been expected to internalize some several hundred or perhaps
-thousands major texts constituting the canon.
-
-The expansion of the textual field and its relative liberation from physical
-media have radically increased the cognitive demands of literary engagement.
-The pipeline between text and work has lengthened considerably. On the one
-side, the matter of canon formation can no longer be relegated to stable,
-long-term systems of social filtration. Seen form the perspective of a literary
-interface, the database, the social stream, and the search engine are tools for
-dynamic, "on the fly," generative canon-formation. Consider the task of finding
-an unknown factoid online, as was the case with my previous aside on the status
-of literacy in medieval Muslim world. Not being a medieval scholar, I construct
-a search query, using resources that I believe will return a reasonably
-authoritative list of texts on the subject. The search engine in effect
-substitutes centuries-long processes of canon formation, for a
-near-instantaneous list of results that become my ephemeral, but nevertheless
-authoritative, collection of relevant literature. Each text still requires the
-instrumentation of close, analytical interpretation. However, the same ideals
-need to be exercised on the higher level of orchestration. Where to search?
-Using what engine? How to construct the query?
-
-The academic question of canon-formation, transforms into a (not yet critical)
-practice of rapid, iterative, generative canon making. Whatever ideals motivate
-close reading between "text" and "work" surely must drive the process on the
-level of corpus composition. Almost every field of human activity has responded
-to the condition in which canons are no longer accessible, in their entirety,
-to the unaided (natural) human intellect: distant reading and macroanalysis in
-literary studies[@jockers2013, @moretti2013], culturomics in economy
-[@aiden2014], e-discovery in law [@capra2009], and medical informatics in
-medicine [@shortliffe2012], among others. At the foundations of these nascent
-disciplines is a shared toolkit of statistical natural language processing
-[@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
-learning [@flach2012], network analysis [@], and topic modeling [@blei2012].
-
-```
-
-                       .------------------ canon
-                       |                   corpus
-                       v                   database
-                                           search
-        Author > Text > Reader > Work      library
-                                           recommendation engine
-               ^               ^
-MICROANALYSIS  |               |           DISTANT READING (MACROANALYSIS)
-               |               |
-                               |  CLOSE READING
-    personal computer          |
-    file system                . _ _  interpretation
-    word processor                    construction of meaning
-    file format (encoding)
-    physical media (paper and pixel)
-
-```
-
-Where distant reading and macroanalysis are concerned with text aggregates,
-microanalysis, of the type suggested (but not carried out to its logical
-conclusion) by Latour and Woolgar, occupies the other side of the text-work
-equation. There's relatively little space between author, text, and, reader in
-the traditional model of literary transmission. Were I to write these words in
-front of you, on paper, I would simply pass the page into your hands. In
-receiving this text, you could be fairly certain that no third party meddled in
-the process of passing the note. When communicating in this way, it makes quite
-a bit of sense to talk about notions like "authorial intent" and "fidelity of
-the original," because the author and his work occupy contiguous space and
-time. The advent of cheap mechanical reproduction of print (for the sake of
-brevity let's say the printing press) introduces a range of instrumentation
-that mediate between the author and the reader. Distance, time, and mediation
-weakens any notion of fidelity and authorial intent. At the very least, we know
-that editorial practices, publishing markets, and communication technologies
-introduce an element of noise into the original text. At worst, long-distance,
-asynchronous communication is susceptible to "man-in-the-middle" attacks, by
-which the content of communication is maliciously altered by a third party
-[@needham1978].
-
-Changing material conditions of textual transmission push against the familiar
-literary critical conceptual apparatus. For example, as mechanical reproduction
-of print weakens the material basis for authorship attribution, the notion of
-authorship itself undergoes change. That is not to say, again with Barthes,
-that the author dies. Authors continue live and collect royalties from the sale
-of their works, but the reconfiguration of the authorship function makes
-certain ways of talking about things like "authorial intent" and "fidelity to
-the original" difficult to sustain. Massively collaborative writing projects
-like Wikipedia and procedural narrative generation further erode ideas of
-authorial production based on personal human agency.
-
-The aim of microanalysis then is to reconstruct the material conditions of
-textuality, paying sustained attention to the atomic particulars of encoding,
-transmission, storage, and decoding of text at the sites of its application to
-the human experience.
-
-[^ln12-survey]: I can only give anecdotal evidence here, as I often put this
-question before my graduate students at the beginning of the semester,
-with the reported results.
-
-[^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
-
-### 2.5 Algorithm as Fetish
+### 2.6 Algorithm as Fetish
 
 I can only begin to work of re-inscribing the A more careful microanalysis of
 the textual condition in the passage between typewriters and personal
