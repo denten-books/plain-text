@@ -263,7 +263,7 @@ literary distribution.
 
 
 ## Chapter 2: Literature Down to the Pixel
-`literature, content, control`
+`literature, content, value, control`
 
 ### 2.0 Abstract
 
@@ -334,21 +334,21 @@ Kittler laments). Only in these encrypted tunnels and secure shells can
 anything like the digital humanities take root.
 
 "Algorithms are inherently fascistic, because they give the comforting illusion
-of an alterity to human affairs," Stephen Marche wrote in his now
-widely-discussed piece for the Los Angeles book review. "Algorithms have
-replaced laws of human nature, the vital distinction being that nobody can read
-them," he concludes [@marche_literature_2012]. But although a number of
-prominent voices (that include Stephen Hawkins, Catherine Hayles, and Elon
-Musk) have independently echoed Marche's metaphysical concern about algorithmic
-alterity, his insistence on the elision of the subject does not strictly hold
-true in the practice of writing and reading algorithms. But such writing and
-reading entails forms of literacy beyond Marche's "handmade insight." The
-question then becomes not one of alterity (as laws are always extraneous to an
-individual), but one of legibility. An algorithmic regime redraws lines of
+of an alterity to human affairs," Stephen Marche wrote in his widely-discussed
+piece for the Los Angeles book review. "Algorithms have replaced laws of human
+nature, the vital distinction being that nobody can read them," he concludes
+[@marche_literature_2012]. But although a number of prominent voices (that
+include Stephen Hawkins, Catherine Hayles, and Elon Musk) have independently
+echoed Marche's metaphysical concern about algorithmic alterity, his insistence
+on the elision of the subject does not strictly hold true in the practice of
+writing and reading algorithms. Writing and reading of algorithms entails forms
+of literacy beyond Marche's "handmade insight." The question becomes not one of
+alterity (as codes and codices are always extraneous to the individual), but
+one of legibility. An algorithmic regime redraws the boundaries deliniating
 human agency, influence, and prestige, moving power towards a privileged class
 of readers and writers capable of comprehending and further emending this
-otherwise obscure form of regimental textuality. It is vital then to expand
-notions of human literacy to include the ability to read, write, and comprehend
+otherwise obscure form of regimental textuality. It is vital then that our
+notions of human literacy include the ability to read, write, and comprehend
 algorithms.
 
 We are accustomed to think of modern computing as a pinnacle of calculating,
