@@ -263,7 +263,7 @@ literary distribution.
 
 
 ## Chapter 2: Literature Down to the Pixel
-`literature, content, value, control`
+`literature, content, value, control, algorithm, microanalysis`
 
 ### 2.0 Abstract
 
@@ -491,15 +491,16 @@ close reading between "text" and "work" surely must drive the process on the
 level of corpus composition. Almost every field of human activity has responded
 to the condition in which canons are no longer accessible, in their entirety,
 to the unaided (natural) human intellect: distant reading and macroanalysis in
-literary studies[@jockers2013; @moretti2013], culturomics in economy
-[@aiden2014], e-discovery in law [@capra2009], and medical informatics in
-medicine [@shortliffe2012], among others. At the foundations of these nascent
-disciplines is a shared toolkit of statistical natural language processing
-[@manning1999; @jurafsky2008], automatic summarization
-[@radev_centroid-based_2004; @nenkova2011], machine learning
-[@rasmussen_gaussian_2006; @flach2012], network analysis
+literary studies[@jockers_macroanalysis_2013; @moretti_distant_2013],
+culturomics in economy [@aiden_uncharted_2014], e-discovery in law
+[@scheindlin_scheindlin_2009], and medical informatics in medicine
+[@shortliffe_biomedical_2013], among others. At the foundations of these
+nascent disciplines is a shared toolkit of statistical natural language
+processing [@manning_foundations_1999; @jurafsky_speech_2008], automatic
+summarization [@radev_centroid-based_2004; @nenkova_pyramid_2007], machine
+learning [@rasmussen_gaussian_2006; @flach_machine_2012], network analysis
 [@szell_measuring_2010; @opsahl_node_2010, @takhteyev_geography_2012], and
-topic modeling [@blei2012; @wallach_topic_2006].
+topic modeling [@blei_probabilistic_2012; @wallach_topic_2006].
 
 ```
                        DISTANT READING (Macroanalysis)
@@ -525,22 +526,29 @@ MICROANALYSIS  |              |
 Where distant reading and macroanalysis are concerned with text aggregates,
 microanalysis, of the type suggested (but not carried out to its logical
 conclusion) by Latour and Woolgar, occupies the other side of the text-work
-equation. There's relatively little space between author, text, and, reader in
-the traditional model of literary transmission. Were I to write these words in
-front of you, on paper, I would simply pass the page into your hands. In
-receiving this text, you could be fairly certain that no third party meddled in
-the process of passing the note. When communicating in this way, it makes quite
-a bit of sense to talk about notions like "authorial intent" and "fidelity of
-the original," because the author and his work occupy contiguous space and
-time. The advent of cheap mechanical reproduction of print (for the sake of
-brevity let's say the printing press) introduces a range of instrumentation
-that mediate between the author and the reader. Distance, time, and mediation
-weakens any notion of fidelity and authorial intent. At the very least, we know
-that editorial practices, publishing markets, and communication technologies
-introduce an element of noise into the original text. At worst, long-distance,
-asynchronous communication is susceptible to "man-in-the-middle" attacks, by
-which the content of communication is maliciously altered by a third party
-[@needham1978].
+equation. Note that contrary to what one may intuit, distant reading happens
+before close reading and not the other way around. In most cases, the reader
+must find the text before analysing it. Canons, copora, collections, libraries,
+and archives are all aggreates that mediate the process of discovery.
+Microanalysis too constitutes a study of mediation, on the level of physical
+minutia otherwise not available to the human eye.
+
+There's relatively little physical space between author, text, and,
+reader in the traditional model of literary transmission. Were I to write these
+words in front of you, on paper, I would simply pass the page into your hands.
+In receiving this text, you could be fairly certain that no third party meddled
+in the process of passing the note. When communicating in this way, it makes
+quite a bit of sense to talk about notions like "authorial intent" and
+"fidelity of the original," because the author and his work occupy contiguous
+space and time. The advent of cheap mechanical reproduction of print (for the
+sake of brevity let's say the printing press) introduces a range of
+instrumentation that mediate between the author and the reader. Distance, time,
+and mediation weakens any notion of fidelity and authorial intent. At the very
+least, we know that editorial practices, publishing markets, and communication
+technologies introduce an element of noise into the original text. At worst,
+long-distance, asynchronous communication is susceptible to "man-in-the-middle"
+attacks, by which the content of communication is maliciously altered by a
+third party [@needham1978].
 
 Changing material conditions of textual transmission push against the familiar
 literary critical conceptual apparatus. For example, as mechanical reproduction
@@ -1281,6 +1289,11 @@ veil," algorithms as contracts between "freely associated men [@marx-english,
 327]." "this automatism outside the head" .Necromancy.
 
 Hijack the whole conversation from the
+
+The subject is back. Unlike natural-language texts where meaning is derived in
+conversation between reader and author, algorithms and control codes have
+unambigious meaning, that ensure reliable reproduction. The environment is
+controlled. The codes are tested. The will is there!
 
 Derrida "If one follows the letter of the text, the critique of the ghost or of
 spirits would thus be the critique of a subjective representation and an
