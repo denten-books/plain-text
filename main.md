@@ -367,18 +367,22 @@ plenty to say.
 ### 2.2 Microanalysis
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
-Woolgar perform what they call an "ethnography" of a science lab, showing the
+Woolgar perform what they call an ethnography of a science lab, tracing the
 passage of ideas from applied experiment to textual inscription. For Woolgar
-and Latour, the laboratory functions as a factory of sorts, ingesting matter
-and artifact to produce fact [@latour1986]. That process of inscription comes
-to the fore explicitly: the output of science lab is, in some real ways,
-measured by its publication record [@latour1986]. A scientist may object that
-her publication record is merely a byproduct of her research activity. Yet
-Latour shows pretty convincingly that the laboratory participants closest to
-the material conditions of knowledge production are at the same time, most
-marginalized members of the group. Lab technicians handle the matter of mass
-spectrometers and bioassays. Ph.D. holders, by contrast, spend most of
-their time handling inscription devices like printers and computer consoles.
+and Latour a laboratory functions as a factory of sorts, ingesting matter and
+artifact to produce fact [@latour1986]. *Laboratory Life* brings the process of
+inscription to the fore, showing that the output of a science lab is not some
+abstract notion of "knowledge" or "discovery," but a publication record
+[@latour1986]. A scientist may object that such publications are merely a
+byproduct of the lab's research activity. Woolgar and Latour challange that
+view in showing how laboratory participants closest to the material conditions
+of knowledge production are, at the same time, most marginalized members of the
+group. Lab technicians handle the matter of mass spectrometers and bioassays.
+Doctorate degree holders, by contrast, spend most of their time handling
+inscription devices like printers and computer consoles. Were we to view the
+laboratory from the outside, as a black box, we would see a flow
+of instrumentation and bio-mass into the box, and after a long period of
+gestation, a flow of inscriptions out.
 
 Although much cited in the study of culture, science, and technology,
 *Laboratory Life* had curiously little impact on the study of literature, even
@@ -395,61 +399,70 @@ Throughout the book, Woolgar and Latour use the term literature to mean
 something "inscribed, printed, or published," a combination of verbs that
 coincides with "literature" consistently throughout [@latour1986, 47-53].
 Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
-research program started by the post-structuralists. Where Jacques Derrida could
-offhand remark that "everything is a text," Woolgar and Latour make concrete the
-literal transformation of matter into text. No longer was literature an
-illustration of something that happens in the laboratory: Latour and Woolgar
-showed the laboratory to function as a literary system.
+research program started by the post-structuralists. Where Jacques Derrida
+could offhand remark that "everything is a text,"[^ln2-derrida] Woolgar and
+Latour make concrete the literal transformation of matter into text. No longer
+was literature an illustration of something that happens in the laboratory:
+Latour and Woolgar showed the laboratory to function as a literary system.
+
+[^ln2-derrida]: This is a bit of a postructuralist caricature, but it is not
+difficult to find direct sources expressing the idea. For example, see John
+Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
+Conversation with Jacques Derrida*, "I often describe deconstruction as
+something which happens. It's not purely linguistic, involving text or books.
+You can deconstruct gestures, choreography. That's why I enlarged the concept
+of text. Everything is a text [@caputo_deconstruction_1996]."
 
 The conventional way to understand Woolgar and Latour brings the interpreter
 into the laboratory, breaking the illusion of scientific objectivity: instead
 of "discovering" facts, scientist socially construct them. Paradoxically, as
 Latour and Woolgar worked to undermine the empirical unity of science (turning
 it into a kind of hermeneutics), they performed literary analysis as an
-empirical method. To "read" the laboratory, the researchers had to be there, in
-person, observing and taking notes. The laboratory opens up to them through a
-careful micro-ethnography. The reader gets to examine floor plans, research
-samples, dialog transcriptions, publication patterns, and other evidentiary
-materials.
+empirical method. To "read" the laboratory researchers observed the space in
+person, embedded into its daily activity. The laboratory becomes visible
+through a careful micro-ethnography. The reader gets to examine floor plans,
+research samples, dialog transcriptions, time sheets, log books, and other
+evidentiary materials on the way to literary output.
 
-To view Woolgar and Latour as scholars of literature is to open up the
-floodgates of textuality. The laboratory, the court, the hospital--these
-institutions cannot be reduced to text, but they are in part, literary systems.
-Beneath every scientific discovery, every popular song, every film, radio, or
-television serial, every art or architectural project, every political office,
-every legal judgment, every restaurant meal, every doctor's prescription, every
-website, and every machine manual--beneath that giant and perplexing pile of
-human activity lies a complex network of textual material. The task of the
-literary scholar becomes to make visible that textual undercurrent, to follow
-and to map its movements across culture, to expose the mechanisms of its
-mutation and locomotion. It is an exciting prospect: to view the hospital as a
-library, where cadres of physicians and administrators convert human stories
-into diagnoses, into controlled vocabularies, into files, into billable codes,
-into inscriptions, and into archives. Or to see the legal system as a process
-of literary discovery, were legions of attorneys and paralegals pore over
-terabytes of textual material, transforming inscription into evidence. That is
-not all these institutions are, but they are also that.
+To view Woolgar and Latour as scholars of literature (and not just of
+labortories) is to open up the floodgates of textuality. The laboratory, the
+court, the hospital--these institutions cannot be reduced to text, but they are
+in part, literary systems.  Beneath every scientific discovery, every popular
+song, every film, radio, or television serial, every art or architectural
+project, every political office, every legal judgment, every restaurant meal,
+every doctor's prescription, every website, and every machine manual--beneath
+that giant and perplexing pile of human activity lies a complex network of
+textual material. The task of the literary scholar becomes to make visible that
+textual undercurrent, to follow and to map its movements across culture, to
+expose the mechanisms of its mutation and locomotion. It is an exciting
+prospect: to view the hospital as a library, where cadres of physicians and
+administrators convert human stories into diagnoses, into controlled
+vocabularies, into files, into billable codes, into inscriptions, and into
+archives. Or to see the legal system as a process of literary discovery, were
+legions of attorneys and paralegals pore over terabytes of textual material,
+transforming inscription into evidence. That is not all these institutions are,
+but they are also that.
 
 Such textual proliferation comes at a cost. Until recently, the bread and
-butter of literary scholarship has been close reading. Close reading like
-critical thinking is an idea that is easier to perform than to explain, because
-the details become contentious as soon as they are
-formalized.[^ln12-closereading] I will tread carefully by committing myself to
-some notion of deliberate and reflective practice aimed at deep comprehension.
-The Partnership for Assessment of Readiness for College and Careers (PARCC),
-the organization responsible for the Common Core standards being implemented in
-schools across the United States today, promotes close reading as "thorough,"
-"methodical," and "analytical" practice that "enables students to reflect on
-the meanings of individual words and sentences; the order in which sentences
-unfold; and the development of ideas over the course of the text, which
-ultimately leads students to arrive at an understanding of the text as a whole
-[@PARCC2012, 7]." The general movement here is from "text" on the page to
-"work" (text as a whole, in the language of the report). The model of
-textuality implicit in the project of close reading assumes an environment of a
-well-defined literary canon, naturally accessible to the human intellect. For
-the duration of the "Gutenberg galaxy," the age of print, a well-educated
-person might have been expected to internalize some several hundred or perhaps
-thousands major texts constituting the canon.
+butter of literary scholarship has been close reading. Close reading, like
+critical thinking, is an idea easier to performed than explained, because the
+details become contentious as soon as they are formalized.[^ln12-closereading]
+I will tread carefully therefore by committing myself to a broad definition of
+close reading that involves some notion of deliberate and reflective practice
+aimed at deep comprehension. The Partnership for Assessment of Readiness for
+College and Careers (PARCC), the organization responsible for the Common Core
+standards being implemented in schools across the United States today, promotes
+close reading as "thorough," "methodical," and "analytical" practice that
+"enables students to reflect on the meanings of individual words and sentences;
+the order in which sentences unfold; and the development of ideas over the
+course of the text, which ultimately leads students to arrive at an
+understanding of the text as a whole [@PARCC2012, 7]." The general movement
+here is from "text" on the page to "work" (text as a whole, in the language of
+the report). The model of textuality implicit in the project of close reading
+assumes an environment of a well-defined literary canon, naturally accessible
+to the human intellect. For the duration of the "Gutenberg galaxy," the age of
+print, a well-educated person might have been expected to internalize some
+several hundred or perhaps thousands major texts constituting the canon.
 
 The expansion of the textual field and its relative liberation from physical
 media have radically increased the cognitive demands of literary engagement.
@@ -458,16 +471,19 @@ side, the matter of canon formation can no longer be relegated to stable,
 long-term systems of social filtration. Seen form the perspective of a literary
 interface, the database, the social stream, and the search engine are tools for
 dynamic, "on the fly," generative canon-formation. Consider the task of finding
-an unknown factoid online, as was the case with my previous aside on the status
-of literacy in medieval Muslim world. Not being a medieval scholar, I construct
-a search query, using resources that I believe will return a reasonably
-authoritative list of texts on the subject. The search engine in effect
-substitutes centuries-long processes of canon formation, for a
+an unknown (to me) factoid online, about the philosophy of Andalusian Spain in
+the 9th-14th centuries, for example. Where in the past I might have started
+with a subject catalog compiled by librarians, today I construct a search
+query, using resources that I believe will return a reasonably authoritative
+list of texts on the subject. The search engine in effect substitutes (or
+rather complements) centuries-long processes of canon formation, for a
 near-instantaneous list of results that become my ephemeral, but nevertheless
 authoritative, collection of relevant literature. Each text still requires the
-instrumentation of close, analytical interpretation. However, the same ideals
-need to be exercised on the higher level of orchestration. Where to search?
-Using what engine? How to construct the query?
+instrumentation of close, analytical interpretation. However, the same
+discipline of critical and reflective deliberation exercised on the level of an
+individual text needs to be exercised on the level of procedurally-generated
+search engine results: Where to search? Using what engine? How to construct the
+query? What are the implicit biases of the system?
 
 The academic question of canon-formation, transforms into a (not yet critical)
 practice of rapid, iterative, generative canon making. Whatever ideals motivate
@@ -475,30 +491,34 @@ close reading between "text" and "work" surely must drive the process on the
 level of corpus composition. Almost every field of human activity has responded
 to the condition in which canons are no longer accessible, in their entirety,
 to the unaided (natural) human intellect: distant reading and macroanalysis in
-literary studies[@jockers2013, @moretti2013], culturomics in economy
+literary studies[@jockers2013; @moretti2013], culturomics in economy
 [@aiden2014], e-discovery in law [@capra2009], and medical informatics in
 medicine [@shortliffe2012], among others. At the foundations of these nascent
 disciplines is a shared toolkit of statistical natural language processing
-[@manning1999, @jurafsky2008], automatic summarization [@nenkova2011], machine
-learning [@flach2012], network analysis [@], and topic modeling [@blei2012].
+[@manning1999; @jurafsky2008], automatic summarization
+[@radev_centroid-based_2004; @nenkova2011], machine learning
+[@rasmussen_gaussian_2006; @flach2012], network analysis
+[@szell_measuring_2010; @opsahl_node_2010, @takhteyev_geography_2012], and
+topic modeling [@blei2012; @wallach_topic_2006].
 
 ```
-
-                       .------------------ canon
-                       |                   corpus
-                       v                   database
-                                           search
-        Author > Text > Reader > Work      library
-                                           recommendation engine
-               ^               ^
-MICROANALYSIS  |               |           DISTANT READING (MACROANALYSIS)
-               |               |
-                               |  CLOSE READING
-    personal computer          |
-    file system                . _ _  interpretation
-    word processor                    construction of meaning
-    file format (encoding)
-    physical media (paper and pixel)
+                       DISTANT READING (Macroanalysis)
+                      .----------------- canon
+                      |                  corpus
+                      |                  database
+                      |                  search
+                                         library
+       Author > Text > Reader > Work     discourse
+                                         recommendation engine
+               |              |
+MICROANALYSIS  |              |
+               |              |
+                              |  CLOSE READING
+   personal computer          |
+   file system                . _ _  interpretation
+   word processor                    construction of meaning
+   file format (encoding)
+   physical media (paper and pixel)
 
 ```
 
@@ -1932,13 +1952,6 @@ interviews Christophe Zimmerman, Senior Technical Officer at World Customs
 Organization, who deplores the industry's lack of cooperation with law
 enforcement [@bbc4_counterfeiting_2013].
 
-[^ln11-derrida]: This is a bit of a postructuralist caricature, but it is not
-difficult to find direct sources expressing the idea. For example, see John
-Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
-Conversation with Jacques Derrida*, "I often describe deconstruction as
-something which happens. It's not purely linguistic, involving text or books.
-You can deconstruct gestures, choreography. That's why I enlarged the concept
-of text. Everything is a text [@caputo_deconstruction_1996]."
 
 
 ### Dry Writing
