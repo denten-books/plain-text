@@ -344,7 +344,7 @@ on the elision of the subject does not strictly hold true in the practice of
 writing and reading algorithms. Writing and reading of algorithms entails forms
 of literacy beyond Marche's "handmade insight." The question becomes not one of
 alterity (as codes and codices are always extraneous to the individual), but
-one of legibility. An algorithmic regime redraws the boundaries deliniating
+one of legibility. An algorithmic regime redraws the boundaries delineating
 human agency, influence, and prestige, moving power towards a privileged class
 of readers and writers capable of comprehending and further emending this
 otherwise obscure form of regimental textuality. It is vital then that our
@@ -374,7 +374,7 @@ artifact to produce fact [@latour1986]. *Laboratory Life* brings the process of
 inscription to the fore, showing that the output of a science lab is not some
 abstract notion of "knowledge" or "discovery," but a publication record
 [@latour1986]. A scientist may object that such publications are merely a
-byproduct of the lab's research activity. Woolgar and Latour challange that
+byproduct of the lab's research activity. Woolgar and Latour challenge that
 view in showing how laboratory participants closest to the material conditions
 of knowledge production are, at the same time, most marginalized members of the
 group. Lab technicians handle the matter of mass spectrometers and bioassays.
@@ -390,27 +390,28 @@ though Latour and Woolgar borrowed much the other way around. In the 1986
 postscript to the American edition, they remark on the broad trend in literary
 theory to treat texts as objects of interpretation, disavowing the kind of
 criticism aimed at the "real meaning of texts," at "what the text says," "what
-really happened," or "what the authors intended [@latour1986, 273]." Similarly,
-research in the social study of science should be aimed at the "contingent
-character of objectification practices." Science, on their view, is itself a
-type of a literary system, "generating texts whose fate (status, value,
-utility, facticity) depends subsequently on interpretation [@latour1986, 273]."
-Throughout the book, Woolgar and Latour use the term literature to mean
-something "inscribed, printed, or published," a combination of verbs that
-coincides with "literature" consistently throughout [@latour1986, 47-53].
-Viewed as a work of literary theory, *Laboratory Life* reifies and advances the
-research program started by the post-structuralists. Where Jacques Derrida
-could offhand remark that "everything is a text,"[^ln2-derrida] Woolgar and
-Latour make concrete the literal transformation of matter into text. No longer
-was literature an illustration of something that happens in the laboratory:
-Latour and Woolgar showed the laboratory to function as a literary system.
+really happened," or "what the authors intended [@latour_laboratory_1986,
+273]." Similarly, research in the social study of science should be aimed at
+the "contingent character of objectification practices." Science, on their
+view, is itself a type of a literary system, "generating texts whose fate
+(status, value, utility, facticity) depends subsequently on interpretation
+[@latour_laboratory_1986, 273]." Throughout the book, Woolgar and Latour use
+the term literature to mean something "inscribed, printed, or published," a
+combination of verbs that coincides with "literature" consistently throughout
+[@latour_laboratory_1986, 47-53].  Viewed as a work of literary theory,
+*Laboratory Life* reifies and advances the research program started by the
+post-structuralists. Where Jacques Derrida could offhand remark that
+"everything is a text,"[^ln2-derrida] Woolgar and Latour make concrete the
+literal transformation of matter into text. No longer was literature an
+illustration of something that happens in the laboratory: Latour and Woolgar
+showed the laboratory to function as a literary system.
 
-[^ln2-derrida]: This is a bit of a postructuralist caricature, but it is not
+[^ln2-derrida]: This is a bit of a post-structuralist caricature, but it is not
 difficult to find direct sources expressing the idea. For example, see John
 Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
 Conversation with Jacques Derrida*, "I often describe deconstruction as
 something which happens. It's not purely linguistic, involving text or books.
-You can deconstruct gestures, choreography. That's why I enlarged the concept
+You can de-construct gestures, choreography. That's why I enlarged the concept
 of text. Everything is a text [@caputo_deconstruction_1996]."
 
 The conventional way to understand Woolgar and Latour brings the interpreter
@@ -425,7 +426,7 @@ research samples, dialog transcriptions, time sheets, log books, and other
 evidentiary materials on the way to literary output.
 
 To view Woolgar and Latour as scholars of literature (and not just of
-labortories) is to open up the floodgates of textuality. The laboratory, the
+laboratories) is to open up the floodgates of textuality. The laboratory, the
 court, the hospital--these institutions cannot be reduced to text, but they are
 in part, literary systems.  Beneath every scientific discovery, every popular
 song, every film, radio, or television serial, every art or architectural
@@ -528,43 +529,52 @@ microanalysis, of the type suggested (but not carried out to its logical
 conclusion) by Latour and Woolgar, occupies the other side of the text-work
 equation. Note that contrary to what one may intuit, distant reading happens
 before close reading and not the other way around. In most cases, the reader
-must find the text before analysing it. Canons, copora, collections, libraries,
-and archives are all aggreates that mediate the process of discovery.
+must find the text before analyzing it. Canons, copora, collections, libraries,
+and archives are all aggregates that mediate the process of discovery.
 Microanalysis too constitutes a study of mediation, on the level of physical
 minutia otherwise not available to the human eye.
 
-There's relatively little physical space between author, text, and,
-reader in the traditional model of literary transmission. Were I to write these
-words in front of you, on paper, I would simply pass the page into your hands.
-In receiving this text, you could be fairly certain that no third party meddled
-in the process of passing the note. When communicating in this way, it makes
-quite a bit of sense to talk about notions like "authorial intent" and
-"fidelity of the original," because the author and his work occupy contiguous
-space and time. The advent of cheap mechanical reproduction of print (for the
-sake of brevity let's say the printing press) introduces a range of
-instrumentation that mediate between the author and the reader. Distance, time,
-and mediation weakens any notion of fidelity and authorial intent. At the very
-least, we know that editorial practices, publishing markets, and communication
-technologies introduce an element of noise into the original text. At worst,
-long-distance, asynchronous communication is susceptible to "man-in-the-middle"
-attacks, by which the content of communication is maliciously altered by a
-third party [@needham1978].
+In the premodern model of literary transmission short physical distances
+separate authors, texts, and readers. Were I to write these words in front of
+you, on paper, I would simply pass the page into your hands. In receiving this
+text, you could be fairly certain that no third party meddled in the process of
+passing the note. When communicating in this way, it makes sense to talk about
+notions like "authorial intent" and "fidelity of the original," because the
+author and his work occupy contiguous space and time. The advent of cheap
+mechanical reproduction of print (for the sake of brevity let's say the
+printing press) introduces a range of instrumentation that mediate between the
+author and the reader. Distance, time, and mediation weakens any notion of
+fidelity and authorial intent. At the very least, we know that editorial
+practices, publishing markets, and communication technologies introduce an
+element of noise into the original text. At worst, long-distance, asynchronous
+communication is susceptible to "man-in-the-middle" attacks, by which the
+content of communication is maliciously altered by a third party
+[@needham_using_1978].
 
-Changing material conditions of textual transmission push against the familiar
-literary critical conceptual apparatus. For example, as mechanical reproduction
-of print weakens the material basis for authorship attribution, the notion of
-authorship itself undergoes change. That is not to say, again with Barthes,
-that the author dies. Authors continue live and collect royalties from the sale
-of their works, but the reconfiguration of the authorship function makes
-certain ways of talking about things like "authorial intent" and "fidelity to
-the original" difficult to sustain. Massively collaborative writing projects
-like Wikipedia and procedural narrative generation further erode ideas of
-authorial production based on personal human agency.
+Changing material conditions of textual transmission push against familiar
+literary critical ideas. For example, as mechanical reproduction of print
+weakens the material basis for authorship attribution, the notion of authorship
+itself undergoes change. That is not to repeat after Barthes that the author
+dies. Authors continue to live and to collect royalties from the sale of their
+works. The weakening of the authorship function merely makes certain ways of
+talking about things like "authorial intent" and "fidelity to the original"
+difficult to sustain. Massively collaborative writing projects like Wikipedia
+and procedural narrative generation further erode ideas of authorial production
+based on individual human agency. Yet, it would be a mistake to believe that
+the myth of autopoiesis (the literature that "writes itself," writing that
+writes, discourse that speaks) can displace the myth of the
+author.[@barthes_rustle_1989, 5; @varela_autopoiesis_1974; @nuttall_new_2007,
+6-25][^ln2-barthes] A discipline of close attention to the atomic particulars
+of encoding, transmission, storage, and the decoding of text at the site if its
+application to the human condition ultimately aims to recover the subject in
+motion. This may seem strange at first: to recover the subject in the physical
+minutia of the literary system. But it is not, for the subject disappears at
+the moment of contact and it is precisely that compressed moment that needs to
+be unpacked with great precision.
 
-The aim of microanalysis then is to reconstruct the material conditions of
-textuality, paying sustained attention to the atomic particulars of encoding,
-transmission, storage, and decoding of text at the sites of its application to
-the human experience.
+[^ln2-barthes]: How did I know that I would find this quote in Barthes, when I
+searched for "literature writes itself"? Because it follows logically from
+Barthes.
 
 [^ln12-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester,
@@ -573,6 +583,9 @@ with the reported results.
 [^ln12-closereadging]: See [@lentricchia2003] and [@fish2011].
 
 ### 2.3 Ghost in the Machine
+
+What is the field of literary application? And what is at stake in drawing its
+boundaries?
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concluded the last survey of Public Participation in the Arts conducted by the
@@ -709,7 +722,7 @@ reading of poetry and fiction, of a specific kind, holding a privileged form,
 sold in preferred manner.
 
 Hampered by an artificially-limited field of activity, the study of literature
-excavates a small, sacred patch on tip of an immense textual iceberg.  The
+excavates a small, sacred patch at the tip of an immense textual iceberg.  The
 results of all that iceberg-digging sink to join the mass of its submerged and
 unexcavated bottom. Texts multiply and produce other texts: that's more or less
 the point of Roland Barthes's 250-page exegesis of a 30 page short story by
@@ -820,7 +833,7 @@ scholar's task, because the concept of value itself is "individual,
 unpredictable, variable, incommunicable, indemonstrable, and mainly an
 intuitive reaction to knowledge." "The more consistently one conceives of
 criticism as the pursuit of values," writes Frye, "the more firmly one becomes
-attached to that great sect of anti-intellectualism [CITATION NEEDED]."
+attached to that great sect of anti-intellectualism [@frye_value_1968, 317]."
 
 To this Murray Krieger responded in pointing out the inevitability of value
 formation in the work of even the most analytically-inclined critic. Krieger
@@ -892,6 +905,8 @@ textuality as "the site of literary activity." But I am not yet ready to move
 beyond the obvious tautology.
 
 ### 2.4 Content and Control
+
+With the site so defined, I am now ready to move on to the 
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
