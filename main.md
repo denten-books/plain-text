@@ -906,7 +906,22 @@ beyond the obvious tautology.
 
 ### 2.4 Content and Control
 
-With the site so defined, I am now ready to move on to the 
+With the site so defined, we can begin the work of recovering the material
+contexts of literary production, with the hopes of locating a sense of human
+agency, however circumscribed by the affordances of the system. A tack opposite
+to estrangement is familiarization, but which it becomes possible to bring
+ghosts out of the shadows and into the revealing light. I want to foreshadow
+now what will become the punchline of this chapter: namely that the ghost in
+the machine cannot be reduced to some vague notions of value--these are merely
+a distraction that lies plainly upon the surface--but, agency itself, which,
+for now, necrotically attaches itself to dead things like systems, mediums, and
+automated discourses. If all this talk of value, ghosts, and necrosis sounds
+familiar, the reader will not be surprised when I advance Karl Marx as a
+preeminent theorist of the textual algorithm and someone able to help us reason
+about Kittler's computational conundrum. On to Marx then, through the machine
+that although intimately familiar to every writer and consumer of text by
+touch, remains alien and alienating in its hidden possibilities, soothing and
+threating all at once.
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
