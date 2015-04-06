@@ -1011,17 +1011,19 @@ the ideal, it needs a bare minimum of matter to operate. Turing machines
 implemented in the Wireworld universe (a cellular automaton simulation) or in
 Minecraft (a procedurally-generated sand-box world-exploration game), must be
 viewed as recursive, second-order ideational constructs, built on top of a
-first-order physical mechanism (a personal computer, for example). If we
-disregard the dizzying levels of recursion (a Turing machine, simulating a
-Turing machine, simulating a Turing machine and so on), we can observe the
-turtle on the bottom, which has its head in the symbolic and its feet in the
-physical world. The critical literature on Turing machines tends to confront
-Turing machines as second-order symbolic representations, rarely paying heed to
-that strange bottom-most turtle. As a mechanism, that first-order Turing
-machine borrows from a number of extant designs, that together and
-incrementally bring the universal computer into material existence. The history
-of its development *as a device* differs from its symbolic, mathematical
-provenance in interesting and instructive ways.
+first-order physical mechanism (a personal computer, for example). We know
+this, becase all n-order Turing machines are limited in computational power by
+the physical capabailities of that bottom-most device. If we disregard the
+dizzying levels of recursion (a Turing machine, simulating a Turing machine,
+simulating a Turing machine and so on), we can observe the turtle on the
+bottom, which has its head in the symbolic and its feet in the physical world.
+Literature in the Computer Science on Turing machines tends to confront Turing
+machines as algorithms, in other words, as virtual, second-order symbolic
+representations, rarely paying heed to that strange bottom-most turtle. As a
+mechanism, that first-order Turing machine borrows from a number of extant
+designs, that together and incrementally bring the universal computer into
+material existence. The history of its development *as a device* differs from
+its symbolic, mathematical provenance in interesting and instructive ways.
 
 Although Turing's original article did not include any drawings, he describes
 his "a-machine" in terms of paper tape medium, scanning, erasing, "writing down
