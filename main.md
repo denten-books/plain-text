@@ -320,7 +320,7 @@ nameless high commands [@kittler_gramophone_1999, as xxxix]." It does not have
 to be that way. For now, the action of the key press seems to vanish into a
 machined rabbit hole, only to reappear shortly as a remote alphanumeric
 character on someone else's screen. The task of microanalysis will be to
-recover a measure of material context underlying textual production and
+reconstruct a measure of material context underlying textual production and
 dissemination. To trace the flows of governance and control that lurk beneath
 (and of which Kittler warns us) must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life ("the sign about which
@@ -342,14 +342,14 @@ include Stephen Hawkins, Catherine Hayles, and Elon Musk) have independently
 echoed Marche's metaphysical concern about algorithmic alterity, his insistence
 on the elision of the subject does not strictly hold true in the practice of
 writing and reading algorithms. Writing and reading of algorithms entails forms
-of literacy beyond Marche's "handmade insight." The question becomes not one of
-alterity (as codes and codices are always extraneous to the individual), but
-one of legibility. An algorithmic regime redraws the boundaries delineating
-human agency, influence, and prestige, moving power towards a privileged class
-of readers and writers capable of comprehending and further emending this
-otherwise obscure form of regimental textuality. It is vital then that our
-notions of human literacy include the ability to read, write, and comprehend
-algorithms.
+of literacy complementary but not equivalent to what Marche must mean by
+"handmade insight." The question becomes not one of alterity (as codes and
+codices are always extraneous to the individual), but one of legibility. An
+algorithmic regime redraws the boundaries delineating human agency, influence,
+and prestige, moving power towards a privileged class of readers and writers
+capable of comprehending and further emending this otherwise obscure form of
+regimental textuality. It is vital then that our notions of human literacy
+include the ability to read, write, and comprehend algorithms.
 
 We are accustomed to think of modern computing as a pinnacle of calculating,
 computational devices. That is the story the reader gets in Marche's essay, in
@@ -385,21 +385,21 @@ of instrumentation and bio-mass into the box, and after a long period of
 gestation, a flow of inscriptions out.
 
 Although much cited in the study of culture, science, and technology,
-*Laboratory Life* had curiously little impact on the study of literature, even
-though Latour and Woolgar borrowed much the other way around. In the 1986
+*Laboratory Life* has had curiously little impact on the study of literature,
+even though Latour and Woolgar borrowed much the other way around. In the 1986
 postscript to the American edition, they remark on the broad trend in literary
 theory to treat texts as objects of interpretation, disavowing the kind of
 criticism aimed at the "real meaning of texts," at "what the text says," "what
 really happened," or "what the authors intended [@latour_laboratory_1986,
-273]." Similarly, research in the social study of science should be aimed at
-the "contingent character of objectification practices." Science, on their
-view, is itself a type of a literary system, "generating texts whose fate
+273]." Similarly, the authors want to aim research in the social study of
+science at the "contingent character of objectification practices." Science, on
+their view, is itself a type of a literary system, "generating texts whose fate
 (status, value, utility, facticity) depends subsequently on interpretation
 [@latour_laboratory_1986, 273]." Throughout the book, Woolgar and Latour use
 the term literature to mean something "inscribed, printed, or published," a
 combination of verbs that coincides with "literature" consistently throughout
-[@latour_laboratory_1986, 47-53].  Viewed as a work of literary theory,
-*Laboratory Life* reifies and advances the research program started by the
+[@latour_laboratory_1986, 47-53]. Viewed as a work of literary theory,
+*Laboratory Life* reifies the research program started by the
 post-structuralists. Where Jacques Derrida could offhand remark that
 "everything is a text,"[^ln2-derrida] Woolgar and Latour make concrete the
 literal transformation of matter into text. No longer was literature an
@@ -420,29 +420,30 @@ of "discovering" facts, scientist socially construct them. Paradoxically, as
 Latour and Woolgar worked to undermine the empirical unity of science (turning
 it into a kind of hermeneutics), they performed literary analysis as an
 empirical method. To "read" the laboratory researchers observed the space in
-person, embedded into its daily activity. The laboratory becomes visible
-through a careful micro-ethnography. The reader gets to examine floor plans,
-research samples, dialog transcriptions, time sheets, log books, and other
-evidentiary materials on the way to literary output.
+person, embedded into the fabric of its everyday activity. The laboratory
+becomes visible through a careful micro-ethnography. The reader gets to examine
+floor plans, research samples, dialog transcriptions, time sheets, log books,
+and other evidentiary materials on their way to literary output.
 
 To view Woolgar and Latour as scholars of literature (and not just of
 laboratories) is to open up the floodgates of textuality. The laboratory, the
-court, the hospital--these institutions cannot be reduced to text, but they are
-in part, literary systems.  Beneath every scientific discovery, every popular
-song, every film, radio, or television serial, every art or architectural
-project, every political office, every legal judgment, every restaurant meal,
-every doctor's prescription, every website, and every machine manual--beneath
-that giant and perplexing pile of human activity lies a complex network of
-textual material. The task of the literary scholar becomes to make visible that
-textual undercurrent, to follow and to map its movements across culture, to
-expose the mechanisms of its mutation and locomotion. It is an exciting
-prospect: to view the hospital as a library, where cadres of physicians and
-administrators convert human stories into diagnoses, into controlled
-vocabularies, into files, into billable codes, into inscriptions, and into
-archives. Or to see the legal system as a process of literary discovery, were
-legions of attorneys and paralegals pore over terabytes of textual material,
-transforming inscription into evidence. That is not all these institutions are,
-but they are also that.
+court, the hospital--these institutions cannot be reduced to text, but the
+lesson of *Laboratory Life* is that they are in part, literary systems. Beneath
+every scientific discovery, every popular song, every film, radio, or
+television serial, every art or architectural project, every political office,
+every legal judgment, every restaurant meal, every doctor's prescription, every
+website, and every machine manual--beneath that giant and perplexing pile of
+human activity lies a complex network of circulating textual documentation. The
+task of the literary scholar becomes to make visible that textual undercurrent,
+to follow and to map its movements across culture, to expose the mechanisms of
+its mutation and locomotion. It is an exciting prospect: to view the hospital
+as a library, where cadres of physicians and administrators convert human
+stories into diagnoses, into controlled vocabularies, into files, into billable
+codes, into inscriptions, and into archives. Or to see the legal system as a
+process of literary discovery, were legions of attorneys and paralegals pore
+over terabytes of textual material, transforming inscription into evidence.
+That is not all these institutions are, but they are also that and there is
+much work to be done ther for a scholar of literature.
 
 Such textual proliferation comes at a cost. Until recently, the bread and
 butter of literary scholarship has been close reading. Close reading, like
@@ -459,11 +460,12 @@ the order in which sentences unfold; and the development of ideas over the
 course of the text, which ultimately leads students to arrive at an
 understanding of the text as a whole [@PARCC2012, 7]." The general movement
 here is from "text" on the page to "work" (text as a whole, in the language of
-the report). The model of textuality implicit in the project of close reading
-assumes an environment of a well-defined literary canon, naturally accessible
-to the human intellect. For the duration of the "Gutenberg galaxy," the age of
-print, a well-educated person might have been expected to internalize some
-several hundred or perhaps thousands major texts constituting the canon.
+the report). The model of textuality implicit in the institutional project of
+close reading assumes an environment of recieved literary canons, naturally
+accessible to the human intellect. For the duration of the "Gutenberg galaxy,"
+the age of print, a well-educated person might have been expected to
+internalize some several hundred or perhaps thousands major texts constituting
+the canon. Close reading is tailored to deal with such an environment.
 
 The expansion of the textual field and its relative liberation from physical
 media have radically increased the cognitive demands of literary engagement.
@@ -532,24 +534,28 @@ before close reading and not the other way around. In most cases, the reader
 must find the text before analyzing it. Canons, copora, collections, libraries,
 and archives are all aggregates that mediate the process of discovery.
 Microanalysis too constitutes a study of mediation, on the level of physical
-minutia otherwise not available to the human eye.
+minutia otherwise not available to unaided human perception. The instruments of
+microanalysis may coincide with computational tools, designed to find hidden
+patters at scale. But such instruments might also include a screwdriver, a
+binding needle, or a sautering iron: sharp tools that serve to dispell the
+magic of opaque textual boxes.
 
 In the premodern model of literary transmission short physical distances
-separate authors, texts, and readers. Were I to write these words in front of
+separated authors, texts, and readers. Were I to write these words in front of
 you, on paper, I would simply pass the page into your hands. In receiving this
 text, you could be fairly certain that no third party meddled in the process of
 passing the note. When communicating in this way, it makes sense to talk about
 notions like "authorial intent" and "fidelity of the original," because the
 author and his work occupy contiguous space and time. The advent of cheap
 mechanical reproduction of print (for the sake of brevity let's say the
-printing press) introduces a range of instrumentation that mediate between the
-author and the reader. Distance, time, and mediation weakens any notion of
-fidelity and authorial intent. At the very least, we know that editorial
-practices, publishing markets, and communication technologies introduce an
-element of noise into the original text. At worst, long-distance, asynchronous
-communication is susceptible to "man-in-the-middle" attacks, by which the
-content of communication is maliciously altered by a third party
-[@needham_using_1978].
+printing press) has introduced a range of devices made to mediate between the
+author and the reader. Distance, time, and mediation subsuequently weakened all
+notions of fidelity and authorial intent. At the very least, we know that
+editorial practices, publishing markets, and communication technologies can
+introduce an unitended element of noise into the channel. At worst,
+long-distance, asynchronous communication is susceptible to "man-in-the-middle"
+attacks, by which the content of communication is maliciously altered by a
+third party [@needham_using_1978].
 
 Changing material conditions of textual transmission push against familiar
 literary critical ideas. For example, as mechanical reproduction of print
@@ -911,17 +917,18 @@ contexts of literary production, with the hopes of locating a sense of human
 agency, however circumscribed by the affordances of the system. A tack opposite
 to estrangement is familiarization, but which it becomes possible to bring
 ghosts out of the shadows and into the revealing light. I want to foreshadow
-now what will become the punchline of this chapter: namely that the ghost in
-the machine cannot be reduced to some vague notions of value--these are merely
-a distraction that lies plainly upon the surface--but, agency itself, which,
-for now, necrotically attaches itself to dead things like systems, mediums, and
-automated discourses. If all this talk of value, ghosts, and necrosis sounds
-familiar, the reader will not be surprised when I advance Karl Marx as a
-preeminent theorist of the textual algorithm and someone able to help us reason
-about Kittler's computational conundrum. On to Marx then, through the machine
-that although intimately familiar to every writer and consumer of text by
-touch, remains alien and alienating in its hidden possibilities, soothing and
-threating all at once.
+now what will become the punchline of this chapter later: namely that the ghost
+in the machine cannot be reduced to some vague notions of value--these are
+merely a distraction that lies plainly upon the surface. The conspicuous
+ghostly apparition (indicating the absence of a living subject) is agency
+itself, which, for now, necrotically attaches itself to dead things like
+systems, mediums, and automated discourses. If all this talk of value, ghosts,
+and necrosis sounds familiar, the reader will not be surprised when I advance
+Karl Marx as a preeminent theorist of the textual algorithm and someone able to
+help us reason about Kittler's computational conundrum. On towards Marx then,
+through the machine that although intimately familiar to every writer and
+consumer of text by touch, remains alien and alienating in its hidden
+possibilities, soothing and threatening all at once.
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
@@ -938,21 +945,21 @@ only the ribbon, a means of "reading," and the means of "writing," the symbols
 onto the tape. Mechanically, its movement could be restricted to one axis or to
 the movement of the tape through he machine. What makes such a device a
 *universal* Turing machine is its ability to internalize the symbol as part of
-its mechanism. The symbolic input can symbolize computable data (letters and
+its mechanism. The symbolic input can represent computable data (letters and
 numbers), but it can also function as control code ("move left," "erase mark")
 altering the movement of the mechanism. In fact, the Turing machine does not
 properly differentiate between content and control code. Its internal state
 (Turing purposefully uses terms of sentient awareness throughout) "is
 determined by m-configuration *q<sub>n</sub>* and the scanned symbol
 [@turing1936, 231]." In other words, whatever initial configuration the
-physical mechanism is in, its next state is defined by the its initial
+physical mechanism is in, its next state is defined by the its initial physical
 configuration *and* the scanned symbol. The material and the symbolic fuse into
 one. Software is also hardware. This transition of symbols into machine
 configuration states effectively defines modern programming. A universal
 machine, unlike other, definite, single-purpose and limited-state mechanisms
 (like a clock for example), contains the ability to take on differing internal
 symbolic configurations. It can imitate a clock, an abacus, a scale, and,
-Turing thought that with time it would be able to imitate humans as well.
+Turing thought that with time it would be able to imitate a human as well.
 
 This ambiguity between hardware and software leads to some confusion in the
 critical literature, as evidenced by Lev Manovich's playful response to
@@ -963,20 +970,24 @@ anymore," writes Kittler: "human-made writing passes through microscopically
 written inscriptions which, in contrast to all historical writing tools, are
 able to read and write by themselves [@kittler_there_1995]." According to this
 schema, Kittler sees the paper-bound design blueprints of the first integrated
-microprocessor as the last "real" piece of writing. Everything after that point
-is hardware. Manovich inverts Kittler's argument into "there is only software,"
-by which he means that in a pragmatic sense, the affordances of a given medium
-are determined by software. The printed page begins to differ from the screen
-only when the readers are able to do something on the screen that they could
-not on paper. To this end, Manovich encourages his readers to become active
-developers of software, rather than passive consumers [@manovich_there_2011,
-274]. Writing in the silicon age is possible, after all. Of course, Kittler
-could object that a reader's agency is still limited to the chip architecture.
-Many readers know how to code, but few have the resources to manufacture
-hardware and on some level the layout of microprocessor circuitry is a type of
-programming, miniaturized and mass produced at scales not accessible to the
-general public. The link between hardware and software is indeed blurry at that
-level.
+microprocessor as the last "real" piece of writing. Everything written after
+that point is hardware (because software is hardware). Manovich inverts
+Kittler's argument into "there is only software," by which he means that in a
+pragmatic sense, the affordances of a given medium are determined by software.
+The printed page begins to differ from the screen only when the readers are
+able to do something on the screen that they could not on paper. To this end,
+Manovich encourages his readers to become active developers of software, rather
+than its passive consumers [@manovich_there_2011, 274]. In that, Manovich
+reasserts the possibility of writing in the silicon age. Kittler could object
+to that line of reasoning in maintaining that chip architecture (the last
+written work, according to him) still determines (as foundation) all higher
+levels of textuality "floating" above the silicon bedrock. And no amount of
+learning to code can give an ordinary subject the resources required to write
+in silicon--a process so advanced and expensive as to be limited to a handful
+of international chip manufacturers. In opening a successive nested series of
+black boxes, the post-silicon writer hits the impenetrable bedrock of chip
+architecture. Under these conditions, is it even worthwhile to follow
+Manovich's call for new literacies? Is writing still possible?
 
 [ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -985,21 +996,35 @@ University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
 appeared in the same volume of collected essays, @herken_universal_1988.
 
 This ontological complication has its roots deep in Cartesian dualism. Where
-does a brain end and a mind begin? Similarly, at some impreceptible point
+does a brain end and a mind begin? Similarly, at some imperceptible point
 software disappears into hardware. But before we ourselves get lost in that
-liminal space between matter and idea, let us recover a measure of novelty
-found in now familiar operation of the Turing machine. The first thing to note
-is that Turing's original formulation happens at the level of a thought
-experiment. The Turing machine is an idea, which takes on the structure of
-other ideas expressed symbolically. The second thing to note is that although
-Turing describes the Turing machine in the language of mathetmatics, giving it
-its perfect, universal shape, his description also contains the bare minimum of
-a mechanichal device. The critical litrature on Turing machines usually
-confronts it only as a novel abstraction. But, as a mechanism, the Turing
+liminal space between matter and idea, let us recover a measure of oddity found
+in the now ubiquitous operation of Turing machines. The first thing to note is
+that Turing's original formulation happens at the level of a thought
+experiment. A Turing machine is an idea, which takes on the structure of other
+ideas expressed symbolically. The second thing to note is that although Turing
+describes the Turing machine in the language of mathematics (where his most
+significant contribution lies), giving it its perfect, universal shape, his
+description also contains the bare minimum of a mechanical device. No matter
+how symbolic a Turing machine can be, no matter how ascendant to the realm of
+the ideal, it needs a bare minimum of matter to operate. Turing machines
+implemented in the Wireworld universe (a cellular automaton simulation) or in
+Minecraft (a procedurally-generated sand-box world-exploration game), must be
+viewed as recursive, second-order ideational constructs, built on top of a
+first-order physical mechanism (a personal computer, for example). If we
+disregard the dizzying levels of recursion (a Turing machine, simulating a
+Turing machine, simulating a Turing machine and so on), we can observe the
+turtle on the bottom, which has its head in the symbolic and its feet in the
+physical world. The critical literature on Turing machines tends to confront
+Turing machines as second-order symbolic representations, rarely paying heed to
+that strange bottom-most turtle. As a mechanism, that first-order Turing
 machine borrows from a number of extant designs, that together and
-incrementally bring the universal computer into material existence. Although
-Turing's original article did not include any drawings, he describes the
-a-machine in terms of paper tape medium, scanning, erasing, "writing down
+incrementally bring the universal computer into material existence. The history
+of its development *as a device* differs from its symbolic, mathematical
+provenance in interesting and instructive ways.
+
+Although Turing's original article did not include any drawings, he describes
+his "a-machine" in terms of paper tape medium, scanning, erasing, "writing down
 notes," "external operators," and "moves" of the mechanism. From the
 construction standpoint, Turing's machine can be reduced (1) to the mechanism
 for "reading" and "writing" symbols onto and from paper storage media, and (2)
@@ -1020,9 +1045,8 @@ Rocky Acosta under CC Attribution 3.0 license.](images/turing.jpg)
 ![Universal Turing machine as an idea. "Nick Gardner's WireWorld multiplier,
 via a Turing machine."](images/turing-idea.png)
 
-
 By the end of the 19th century a number of lesser mechanisms anticipate the
-functional elements of Turing's device. By 1930s, these inventions not only
+functional elements of Turing's mechanism. By 1930s, these inventions not only
 anticipate the modern computer, but are brought to mass market in wide-spread
 manufacture of computing scales, dial recorders, electric tabulating machines,
 and computing typewriters made by companies like Underwood Computing Machine,
@@ -1298,9 +1322,17 @@ content and code as control.
 Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
 of the tele-technology [@derrida_specters_2012, 213].
 
+Let me make my intentions visa vis Marx perfectly clear. I have no interest in
+mobilizing the entire weight of Marxist critique. A whole subset of Marxist
+terminology (dictatorship, proletariat, capital) falls outside of my purview
+here. Rather, I would like to co-opt Marx's discussion on the fetishism of
+commodities and import it, wholesale, to the conversation on algorithms. My
+interest lies in the humanism of Marx, whose thought, despite being perpetually
+out of time, continues to surprise with penetrating insight.
+
 "All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual mnids or from some
-'essential' proporties of a digital computer or network. They come from
+social in a sense that they don't simply come from individual minds or from some
+'essential' properties of a digital computer or network. They come from
 software developed by groups of people and marketed to large number of users
 [@manovich_there_2011, 272-273]."
 
@@ -1847,7 +1879,7 @@ three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
 *Romeo and Juliet*, and others. Editors choose which version to use as their
 base text, and then amend that text with words, lines or speech prefixes from
 the other versions that, in their judgment, make for a better or more accurate
-text [@mowat_textual_????]." In other words, where the readers expect to
+text [@mowat_textual_2012]." In other words, where the readers expect to
 encounter *Hamlet* as a single, unified idea, they instead encounter a
 multiplicity of slightly diverging textual "witnesses." Errors in transcription
 and editorial interventions accumulate. The proliferation of unlicensed copies,
