@@ -591,11 +591,11 @@ Why do we call some software, application? Not until the 1960s did the coinage
 "software application" enter the English language.[^ln2-app] Before that and
 well into the 1990s the far more common use of "application" was paired with
 "theory," as in "theory and application"--the two nouns occupying on the
-opposing side of idea and practice continuum. Software, in the newer phrase,
-takes the place of theory--software applicatation being the practical
+opposing side of the idea and practice continuum. Software, in the newer
+phrase, takes the place of theory--software applicatation being the practical
 implementation of code, a theoretical set of instructions. The application of
-what to what? A "text app" would surely take the human as its grammatical
-object (the entity that is acted upon) [@allerton_generating_1978]. Where can
+what to what? A "text app" would surely take "the human" as its grammatical
+object (the entity that is acted upon [@allerton_generating_1978]). Where can
 one locate the field of literary application to human experience? And what is
 at stake in drawing its boundaries?
 
@@ -702,8 +702,8 @@ poems and plays and novels," as opposed to other kinds of "serious" writing
 that are "general," "discursive," or "the sub-literary [@william1976,
 152-153]."[^ln12-engell] Sharing the bias in favor of aesthetic reading with my
 colleagues, I would rather spend my free time reading Kincaid or Coetzee than
-poring over arcane printer and telegraph manuals. Implicit in that bias is
-an idea--professed by Immanuel Kant, Friedrich Schiller, and, more recently,
+poring over arcane printer and telegraph manuals. Implicit in that bias is an
+idea--professed by Immanuel Kant, Friedrich Schiller, and, more recently,
 Tzvetan Todorov and Elaine Scarry--the belief in the connection between beauty
 and justice, beauty and the good, beauty and the upright moral life. I wish to
 avoid disturbing the foundations of that intellectual edifice, and only want to
@@ -746,27 +746,28 @@ results of all that iceberg-digging sink to join the mass of its submerged and
 unexcavated bottom. Texts multiply and produce other texts: that's more or less
 the point of Roland Barthes's 250-page exegesis of a 30 page short story by
 Honoré de Balzac. Despite my fond appreciation of Barthes as a scholar, I
-suspect that exponential growth and diminishing returns will eventually (if not
-already) make such relentlessly exegesic mode of scholarship unsustainable. The
-value of each new "Barthes" and associated commentary plummets as texts
-multiply exponentially, quickly reaching the human limits of comprehension.
-There are no winners in such an arm race between footnotes, only eventual
-irrelevance.
+suspect that exponential growth and diminishing returns will eventually make
+(if not already have made) such relentlessly exegesic mode of scholarship
+unsustainable. The value of each new "Barthes" and associated commentary
+plummets as texts multiply exponentially, quickly reaching the human limits of
+comprehension. There are no winners in such an arms race between "primary
+texts" and footnotes: only eventual irrelevance.
 
 Non-positivistic disciplines like literary studies lack a methodology for
-definitively settling any research program. For this reason, citation patterns
-in the humanities journals privilege well-established sources
-[@tenen2014-displacement], where the sciences will usually defer to the "last
-word" on any given question. Without robust mechanisms for condensing and for
-pruning accepted knowledge the archive expands precipitously. Its combined
-weight necessarily devalues the literature of the present, creating a curious
-kind of a gap in contemporary material. A "modernist" in literary studies
-denotes a specialist who works on documents which are now more than a century
-old. And most departments of literature cover only a limited range of
-best-sellers from the "post WWII period." A competent graduate literature
-student can likely name dozen or so contemporaneous literary movements emerging
-at the turn of the twentieth century. Few in the field are likely to name more
-than a handful at the turn of the twenty-first.[^ln12-survey]
+definitively settling any research program. For this reason, where the sciences
+usually defer to the "last word" on any given question, citation patterns in
+the humanities journals indicate that the humanities privilege historically
+established sources [@tenen2014-displacement]. Without robust mechanisms for
+condensing and for pruning accepted knowledge, the archive expands
+precipitously. Its combined weight necessarily devalues the literature of the
+present, creating a curious kind of a gap in contemporary material. A
+"modernist" in literary studies denotes a specialist who works on documents
+which are now more than a century old. And most departments of literature cover
+only a limited range of best-sellers from the "post WWII period." A competent
+graduate literature student can likely name dozen or so contemporaneous
+literary movements emerging at the turn of the twentieth century. Few in the
+field are likely to name more than a handful at the turn of the
+twenty-first.[^ln12-survey]
 
 The logic of Said's eloquent defense of the aesthetic merely continues a
 tradition of exclusionary distinction-making, which, before Said, denied
@@ -796,24 +797,24 @@ prescription cannot be ideologically neutral. "Literature does not exist in the
 sense that insects do," Terry Eagleton writes in his introduction to literary
 theory. "Value judgments by which it is constituted are historically variable,"
 he concludes, having "a close relation to social ideologies." For Eagleton,
-values are more than simple assertion of private taste, instead they refer to
+values are more than simple assertion of private taste. Instead, they refer to
 assumptions "by which certain social group exercise and maintain control over
 others [@eagleton1983, 15-47]. Who controls what? My interpretation of Marxist
 materialism is considerably more literal than Eagleton's. I am interested here
 in physical mechanisms of control, not only in their more ephemeral ideological
 justifications.
 
-In trying to understand the incongruity of NEA's dour prognosis with broad
-theoretical models and demographic trends that describe the proliferation of
-text, I am confronted with two possible explanations. The writers of the report
-hint at the first themselves: to treat the ebbing of literary reading (in a
-particular mode) as cause and symptom for the general decline of the arts (and
-perhaps of civilization itself). I find that reading unacceptable, (1) because
-it is depressing and (2) because it smacks of historical exceptionalism. I
-strongly suspect that humanity's potential for innovation and creativity has
-remained relatively stable through history. The material conditions for
-creative expression may change (as in the times of political oppression,
-pestilence, or war), where the spirit endures.
+In trying to reconcile the NEA's dour prognoses with broad theoretical models
+and demographic trends that reflect a prolifiration of textual material, I am
+confronted with two possible explanations. The writers of the report hint at
+the first themselves: to treat the ebb of literary reading (in a particular
+mode) as cause and symptom for the general decline of the arts (and perhaps of
+civilization itself). I find that reading unacceptable, (1) because it is
+depressing and (2) because it smacks of historical exceptionalism. I strongly
+suspect that humanity's potential for innovation and creativity has remained
+relatively stable throughout history. The material conditions for creative
+expression may change (as in the times of political oppression, pestilence, or
+war), where the spirit endures.
 
 The second, much more palatable (and likely) explanation would question the
 very definitions of literary reading. Consider the possibility of online or
@@ -824,21 +825,21 @@ of literariness to song-writing, computer game making, software design, and, in
 an obvious way, to non-fiction or, let's say, to long stories of arbitrary
 length. Imagine, for example, excluding reality television from the survey on
 television habits, because the genre does not confirm to some normative sense
-of what television should be. Do the survey makers consider literature as a
-medium, like television, or a grab-bag of "serious genres" like comedy and
-drama? As it turns out: both. The authors of the report concede the point in
-sometimes classifying readers by the number of books read in any genre,
-effectively equating literature with "books [@NEA2004]." But even that
-concession confuses form with function. What if "reading a book" begins to
-involve something other than moving one's eyes from left to right over
-sequentially numbered blocks of text? Or what if books were more like pills, or
-prosthetics, than parchment? The conundrum reveals a strong methodological bias
-favoring a definition of literature as specific matter and form. A report that
+of what television should be. Do the literary survey makers consider literature
+as a medium, like television, or a grab-bag of "serious genres" like comedy and
+drama? As it turns out: both. The authors concede the point in sometimes
+classifying readers by the number of books read in any genre, effectively
+equating literature with "books [@NEA2004]." But even that concession confuses
+form with function. What if "reading a book" begins to involve something other
+than moving one's eyes from left to right over sequentially numbered blocks of
+text? Or what if books were more like pills, or prosthetics, than parchment?
+The conundrum reveals a strong methodological bias favoring historically
+contingent (and likely modernist) conceptions of the literary. A report that
 initially looks like objective, quantitative, descriptive analysis (that's the
 way things are) hides a qualitative, proscriptive program (thats the way they
 should be).
 
-[^ln12-engell]: See also @engell1988.
+[^ln12-engell]: See also @engell_teaching_1988.
 
 Staring with the late 1960s, a generation of scholars (Northrup Frye, Murray
 Krieger, and E. D. Hirsch, among others) took up the problem value in literary
@@ -872,42 +873,42 @@ Critics like E. D. Hirsch offered a compromise between these two positions,
 arguing that although value-making contaminates all acts of interpretation, the
 scholar can and should adopt an interrogatory stance towards value creation as
 such, which ultimately allows her to "form new judgments of value and
-significance [@hirsch1968, 331]." In this camp we also find "Contingencies of
-Value," by Barbara Herrnstein Smith, published in 1983. At the time, Smith
-urged her peers to make the examination of social value-creating mechanisms a
-part of their academic discipline. "What are commonly taken to be *signs* of
-literary value, are also its *springs*," Smith writes [@smith1983, 30]. And the
-springs unmistakably push the whole enterprise towards the Western,
-economically privileged, model of the canon. Texts that survive in the teaching
-and the selling of literature survive as long as they do not radically subvert
-the prevailing ideology. Smith stops short from offering a way out of the
-conundrum. For even as the canon grows to include previously excluded voices,
-those voices take on the shape of soft acquiescence. The custodians of the
-Western canon "cannot grasp or acknowledge" that alternative forms of
-literariness and textuality can take on the functions of Dante or Homer for
-others [@smith1983, 1-35]. I am appropriately galvanized by Smith's fiery
-rhetoric, but must admit that not much has changed since the 1980s. The
-compromise does not approach the very peculiarity of the question itself. Must
-we value the object of our study?
+significance [@hirsch_literary_1968, 331]." In this camp we also find
+"Contingencies of Value," by Barbara Herrnstein Smith, published in 1983. At
+the time, Smith urged her peers to make the examination of social
+value-creating mechanisms a part of their academic discipline. "What are
+commonly taken to be *signs* of literary value, are also its *springs*," Smith
+writes [@smith_contingencies_1983, 30]. And the springs unmistakably push the
+whole enterprise towards the Western, economically privileged, model of the
+canon. Texts that persist in the teaching and the selling of literature survive
+as long as they do not radically subvert the prevailing ideology. Smith stops
+short of offering a way out of the conundrum. For even as the canon grows to
+include previously excluded voices, those voices take on the shape of soft
+acquiescence. The custodians of the Western canon "cannot grasp or acknowledge"
+that alternative forms of literariness and textuality can take on the functions
+of Dante or Homer for others [@smith1983, 1-35]. I am appropriately galvanized
+by Smith's fiery rhetoric, but must admit that not much has changed since the
+1980s. Her compromise simply does not approach the very peculiarity of the
+question itself. Must we value the object of our study?
 
-To understand the peculiarity that question, try asking: Does an anthropologist
-observing cock fighting, condone animal cruelty? Does a historian writing about
-war, sanction violence? Does a philosopher working on the problem of other
-minds, love solipsism? In each case, synonyms for value-making--loving,
-sanctioning, condoning--appear out of place, incongruent with the inquiry at
-hand. Something is rotten in the very formulation of the question. To put it
-differently: Must we study *only* what we value? I cannot think of a way to
-defend the answer to the affirmative. A zoology that singularly insists on the
-study of beautiful animals is itself a strange creature.[^ln12-zoo] A more
-radical compromise compels us to seek value in the importance of the inquiry
-itself: in the quality of the questions raised, and in the relevance of the
-answers given. If literary reading of a certain kind has the power ascribed to
-it by the NEA report (increased civic participation, etc.), literary humanities
-need not concern itself with the protection of the literary. The survival of
-the field (and not of literature itself) depends on the freedom of its cadres
-to pursue the literary function everywhere, indiscriminately, even in the
+To understand the peculiarity of the question, try asking: Does an
+anthropologist observing cock fighting, condone animal cruelty? Does a
+historian writing about war, sanction violence? Does a philosopher working on
+the problem of other minds, love solipsism? In each case, synonyms for
+value-making--loving, sanctioning, condoning--appear out of place, incongruent
+with the inquiry at hand. Something is rotten in the very formulation of the
+question. To put it differently: Must we study *only* what we value? I cannot
+think of a way to defend the answer to the affirmative. A zoology that
+singularly insists on the study of beautiful animals is itself a strange
+creature.[^ln12-zoo] A more radical compromise compels us to seek value in the
+importance of the inquiry itself: in the quality of the questions raised, and
+in the relevance of the answers given. If literary reading of a certain kind
+has the power ascribed to it by the NEA report (increased civic participation,
+etc.), literary humanities need not concern itself with the protection of the
+literary. The survival of the field depends on the freedom of its cadres to
+pursue the literary function everywhere, indiscriminately, even in the
 discarded textual detritus of human activity, however quotidian. A conception
-of a more neutral, broad literary domain can include and preserve all existing
+of a more neutral, broad literary domain can include and preserve all extant
 forms of textuality.
 
 [^ln12-zoo]: There are several studies that explore the effect of perceived
@@ -919,7 +920,7 @@ bedrock far) from a big idea, like literature, down to its more modest textual
 forms, and into the material substratum underlying all print media: paper,
 digital or otherwise. For this, we'll need an operational definition
 of literature, free (to the extent it is possible) from its normative baggage:
-something like "the systemic application of textuality to human life," and
+something like "systemic application of textuality to human life," and
 textuality as "the site of literary activity." But I am not yet ready to move
 beyond the obvious tautology.
 
@@ -2905,7 +2906,10 @@ auditory arts. With that expansion come the loss of specificity and the
 dissolution of the protective barriers that usually separate genre and medium.
 Fluxus could thus be viewed as a type of cognitive calisthenics, designed to
 loosen the rigidity of fixed mental perception—a mental rigidity reinforced by
-the rigidity in cultural categories (epistemology).  ### 1.2.4 Engelbart
+the rigidity in cultural categories (epistemology).  
+
+### 1.2.4 Engelbart 
+
 stenography Engelbart's dreams.
 
 Transcription of speech was a major concern for the various stenographic
