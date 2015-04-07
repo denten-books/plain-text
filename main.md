@@ -496,7 +496,8 @@ to the condition in which canons are no longer accessible, in their entirety,
 to the unaided (natural) human intellect: distant reading and macroanalysis in
 literary studies[@jockers_macroanalysis_2013; @moretti_distant_2013],
 culturomics in economy [@aiden_uncharted_2014], e-discovery in law
-[@scheindlin_scheindlin_2009], and medical informatics in medicine
+[@scheindlin_scheindlin_2009], automatic essay evaluation in education
+[@shermis_handbook_2013], and medical informatics in medicine
 [@shortliffe_biomedical_2013], among others. At the foundations of these
 nascent disciplines is a shared toolkit of statistical natural language
 processing [@manning_foundations_1999; @jurafsky_speech_2008], automatic
@@ -570,17 +571,13 @@ based on individual human agency. Yet, it would be a mistake to believe that
 the myth of autopoiesis (the literature that "writes itself," writing that
 writes, discourse that speaks) can displace the myth of the
 author.[@barthes_rustle_1989, 5; @varela_autopoiesis_1974; @nuttall_new_2007,
-6-25][^ln2-barthes] A discipline of close attention to the atomic particulars
-of encoding, transmission, storage, and the decoding of text at the site if its
-application to the human condition ultimately aims to recover the subject in
-motion. This may seem strange at first: to recover the subject in the physical
-minutia of the literary system. But it is not, for the subject disappears at
-the moment of contact and it is precisely that compressed moment that needs to
-be unpacked with great precision.
-
-[^ln2-barthes]: How did I know that I would find this quote in Barthes, when I
-searched for "literature writes itself"? Because it follows logically from
-Barthes.
+6-25] A discipline of close attention to the atomic particulars of encoding,
+transmission, storage, and the decoding of text at the site if its application
+to the human condition ultimately aims to recover the subject in motion. This
+may seem strange at first: to recover the subject in the physical minutia of
+the literary system. But it is not, for the subject disappears at the moment of
+contact and it is that compressed moment that needs to be unpacked with great
+precision.
 
 [^ln12-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester,
@@ -590,8 +587,24 @@ with the reported results.
 
 ### 2.3 Ghost in the Machine
 
-What is the field of literary application? And what is at stake in drawing its
-boundaries?
+Why do we call some software, application? Not until the 1960s did the coinage
+"software application" enter the English language.[^ln2-app] Before that and
+well into the 1990s the far more common use of "application" was paired with
+"theory," as in "theory and application"--the two nouns occupying on the
+opposing side of idea and practice continuum. Software, in the newer phrase,
+takes the place of theory--software applicatation being the practical
+implementation of code, a theoretical set of instructions. The application of
+what to what? A "text app" would surely take the human as its grammatical
+object (the entity that is acted upon) [@allerton_generating_1978]. Where can
+one locate the field of literary application to human experience? And what is
+at stake in drawing its boundaries?
+
+[^ln2-app]: In the New York Times archive, the phrase first appeared in 1985
+[@new_york_times_briefs_1984]. In the Google Books corpus the bigram appears
+first in *Astronautics & Aeronautics: A Publication of the American Institute
+of Aeronautics and Astronautics*, under the rubric of "Missile Guidance
+Systems Programming
+[@american_institute_of_aeronautics_and_astronautics_astronautics_1965]."
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concluded the last survey of Public Participation in the Arts conducted by the
@@ -1015,15 +1028,23 @@ first-order physical mechanism (a personal computer, for example). We know
 this, becase all n-order Turing machines are limited in computational power by
 the physical capabailities of that bottom-most device. If we disregard the
 dizzying levels of recursion (a Turing machine, simulating a Turing machine,
-simulating a Turing machine and so on), we can observe the turtle on the
+simulating a Turing machine and so on), we can examine the turtle at the
 bottom, which has its head in the symbolic and its feet in the physical world.
-Literature in the Computer Science on Turing machines tends to confront Turing
+Literature in the computer science on Turing machines tends to confront Turing
 machines as algorithms, in other words, as virtual, second-order symbolic
-representations, rarely paying heed to that strange bottom-most turtle. As a
-mechanism, that first-order Turing machine borrows from a number of extant
-designs, that together and incrementally bring the universal computer into
-material existence. The history of its development *as a device* differs from
-its symbolic, mathematical provenance in interesting and instructive ways.
+representations, rarely paying heed to that strange bottom-most turtle. Yet it
+is impossible to entirely disassosiate the impliment from the symbol. Charles
+Petzold writes PENCIL and PAPER.
+
+Confrontaed as a mechanism, a first-order Turing machine borrows from a number
+of extant designs, that together and incrementally bring the universal computer
+into material existence. The history of its development *as a device* differs
+from its symbolic, mathematical provenance[^ln2-turing] in interesting and
+instiuctive ways.
+
+[^ln-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows Descartes, Frege,
+Russel, Hilbert, Godel, and Wittgenstein (roughly in that order) [@petzold]
 
 Although Turing's original article did not include any drawings, he describes
 his "a-machine" in terms of paper tape medium, scanning, erasing, "writing down
@@ -1054,18 +1075,19 @@ manufacture of computing scales, dial recorders, electric tabulating machines,
 and computing typewriters made by companies like Underwood Computing Machine,
 Electromatic, and International Business Machines (IBM). Rather than a singular
 eureka moment, the invention of the universal machine should be viewed as a
-gradual historical process that culminates with Turing's ideal specifications.
+gradual historical process that culminates in Turing's ideal specifications.
 Three key stages, each in itself encompassing a long lineage of technological
-development, stand out as absolutely necessary for the complete development:
+development, stand out as absolutely necessary for its complete development:
 
-1. The mechanization of type. With the invention of the movable type and the
-   typewriter, the variability of hand-written script can be normalized to a
-limited set of discrete characters. The process of normalization continues
-today as contemporary technologies like natural language processing and optical
-character recognition struggle deal with non-Western writing systems.
+1. The mechanization of type (media independence). With the invention of the
+movable type and the typewriter the variability of hand-written script can be
+normalized to a limited set of discrete characters. The process of
+normalization continues today as contemporary approaches like natural language
+processing and optical character recognition struggle to bring non-Western
+writing systems under the umbrella of universal computability.
 
 2. Remote communications (geographical displacement). Mechanical type can now
-   be converted into electrical signals. The telegraph removes writing from its
+be converted into electrical signals. The telegraph removes writing from its
 immediate physical environment. Authorial presence, already weakened by writing
 as such, is further distanced from the contexts of utterance. The telegraph
 lengthens the chain of technological and political mediation in the
@@ -1080,12 +1102,13 @@ of the period). The notion of the telegram's "fidelity" therefore becomes an
 attribute of the communication channel as a whole.
 
 3. Automation and programmable media (temporal displacement). Programmable
-   media like perforated tape removes the human previously needed to mediate
+media like perforated tape removes the human previously needed to mediate
 between mechanical and electrical signal. "Content" intended for humans can now
 be mixed with "control code" intended to alter the operation of the receiving
 device.
 
-Where the first two of these developments are well covered in the literature of
+The last of these: asynchronous communication, resists . The
+
 new media and communications studies, the third is most crucial to the
 development of Turing machines, and least understood. A number of inventions at
 the end of the 19th century pertain to "circuit-controlling devices controlled
@@ -1183,6 +1206,8 @@ only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
 
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
+
+PDF injection.
 
 By the 1960, multiple competing character encodings existed in the United
 States and globally. 
