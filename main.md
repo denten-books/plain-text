@@ -587,17 +587,18 @@ with the reported results.
 
 ### 2.3 Ghost in the Machine
 
-Why do we call some software, application? Not until the 1960s did the coinage
+Why do we call some software application? Not until the 1960s did the coinage
 "software application" enter the English language.[^ln2-app] Before that and
 well into the 1990s the far more common use of "application" was paired with
 "theory," as in "theory and application"--the two nouns occupying on the
-opposing side of the idea and practice continuum. Software, in the newer
-phrase, takes the place of theory--software applicatation being the practical
+opposing side of the idea-practice continuum. Software, in the newer phrase,
+takes the place of theory--software applicatation being the practical
 implementation of code, a theoretical set of instructions. The application of
-what to what? A "text app" would surely take "the human" as its grammatical
-object (the entity that is acted upon [@allerton_generating_1978]). Where can
-one locate the field of literary application to human experience? And what is
-at stake in drawing its boundaries?
+what to what? A "text app" would surely often take "the human" as its
+grammatical object (as in "the entity that is acted upon
+[@allerton_generating_1978]"). Where can one locate the field of literary,
+textual application to human experience? And what is at stake in drawing the
+field's boundaries?
 
 [^ln2-app]: In the New York Times archive, the phrase first appeared in 1985
 [@new_york_times_briefs_1984]. In the Google Books corpus the bigram appears
@@ -695,8 +696,8 @@ When surveying the introductory literature on literature, the reader will
 invariably find a version of Said's "fundamental irreconcilability" position.
 For example, in Austin Warren and Renee Wellek's *Theory of Literature* the
 authors write that the "term 'literature' seems best if we limit it to the art
-of literature, that is, to imaginative literature […] the main distinctions to
-be drawn are between the literary, the everyday, and the scientific uses of
+of literature, that is, to imaginative literature [...] the main distinctions
+to be drawn are between the literary, the everyday, and the scientific uses of
 language [@wellek, 22]." Similarly, Raymond Williams defines it to mean "mainly
 poems and plays and novels," as opposed to other kinds of "serious" writing
 that are "general," "discursive," or "the sub-literary [@william1976,
@@ -719,16 +720,16 @@ summarization, computational text analysis, discourse analysis, corpus
 linguistics, and digital humanities among others.
 
 Matters always central to the field of literary studies remain vitally
-important to the functioning of modern society. Literature broadly conceived
-provides fertile grounds for collaboration between diverse disciplines
-interested in the changing dynamics of narrative, interpretation, language,
-form, prosody, composition, dialog, discourse, story, genre, authorship,
-influence, and text. It is in this core conceptual cluster of operational terms
-that I want to locate a notion of poetics, poetics capable of addressing not
-only the machinations of poetry and prose, but also of code, document,
-inscription, file, record, note, manual, journal, list, script, and archive.
-Rather than picky eaters, I imagine my fellow travelers as voracious omnivores
-of text.
+important to the functioning of modern society. Literary studies, when
+conceived broadly, provide fertile grounds for collaboration between diverse
+disciplines interested in the changing dynamics of narrative, interpretation,
+language, form, prosody, composition, dialog, discourse, story, genre,
+authorship, influence, and text. It is in this core conceptual cluster of
+operational terms that I want to locate a notion of poetics, poetics capable of
+addressing not only the machinations of poetry and prose, but also of pixel,
+code, string, script, inscription, list, document, file, record, project, and
+archive. Rather than picky epicureans of high lit, I imagine my fellow
+travelers as voracious omnivores of text.
 
 This is not to say that I advocate ignorance, nor do I follow the Russian
 formalist poet Vladimir Mayakovksy who in the beginning of the last century
@@ -741,17 +742,22 @@ reading of poetry and fiction, of a specific kind, holding a privileged form,
 sold in preferred manner.
 
 Hampered by an artificially-limited field of activity, the study of literature
-excavates a small, sacred patch at the tip of an immense textual iceberg.  The
-results of all that iceberg-digging sink to join the mass of its submerged and
-unexcavated bottom. Texts multiply and produce other texts: that's more or less
-the point of Roland Barthes's 250-page exegesis of a 30 page short story by
-Honoré de Balzac. Despite my fond appreciation of Barthes as a scholar, I
-suspect that exponential growth and diminishing returns will eventually make
-(if not already have made) such relentlessly exegesic mode of scholarship
-unsustainable. The value of each new "Barthes" and associated commentary
-plummets as texts multiply exponentially, quickly reaching the human limits of
-comprehension. There are no winners in such an arms race between "primary
-texts" and footnotes: only eventual irrelevance.
+so conceived excavates a small, sacred patch of ground at the tip of an immense
+textual iceberg. The results of that strenuous activity sink to join the mass
+of its submerged and unexcavated bottom. Texts multiply and produce other
+texts: that's more or less the point of Roland Barthes's 250-page exegesis of a
+30 page short story by Honoré de Balzac. Despite my fond appreciation of
+Barthes as a scholar, I suspect that exponential growth and diminishing returns
+will eventually make (if not already have made) such relentlessly exegesic mode
+of scholarship unsustainable. There are, by my approximation, over 20,000
+monographs on Balzac,[^ln2-balzac] and at least as many scholarly articles on
+*S/Z*.[^ln2-barthes]. The value of each new "Barthes" and his associated
+commentary plummets as texts multiply exponentially, quickly reaching the
+limits of human comprehension. There are no winners in such an arms race
+between "primary texts" and footnotes: only eventual irrelevance.
+
+[^ln2-balzac]: Search query `ti:Balzac` at OCLC Worldcat.
+[^ln2-barthes]: Search query `Barthes AND Balzac` using Google Scholar.
 
 Non-positivistic disciplines like literary studies lack a methodology for
 definitively settling any research program. For this reason, where the sciences
@@ -763,7 +769,7 @@ precipitously. Its combined weight necessarily devalues the literature of the
 present, creating a curious kind of a gap in contemporary material. A
 "modernist" in literary studies denotes a specialist who works on documents
 which are now more than a century old. And most departments of literature cover
-only a limited range of best-sellers from the "post WWII period." A competent
+only a limited range of best-sellers from the post WWII period. A competent
 graduate literature student can likely name dozen or so contemporaneous
 literary movements emerging at the turn of the twentieth century. Few in the
 field are likely to name more than a handful at the turn of the
@@ -788,7 +794,7 @@ human condition.[^ln12-menand]
 [^ln12-menand]: I am echoing Louis Menand's "the version of the humanities that
 would make many non-humanists most comfortable today is the version in which art
 and literature are ornaments on or neat illustrations of empirical accounts of
-human life" [@mendand2005, 10-17].
+human life" [@menand_dangers_2005, 10-17].
 
 To limit the literary to a historically-contingent ideal of the aesthetic is to
 limit the project of literary analysis to a moralizing, prescriptive
@@ -805,39 +811,39 @@ in physical mechanisms of control, not only in their more ephemeral ideological
 justifications.
 
 In trying to reconcile the NEA's dour prognoses with broad theoretical models
-and demographic trends that reflect a prolifiration of textual material, I am
+and demographic trends that reflect a proliferation of textual material, I am
 confronted with two possible explanations. The writers of the report hint at
 the first themselves: to treat the ebb of literary reading (in a particular
 mode) as cause and symptom for the general decline of the arts (and perhaps of
-civilization itself). I find that reading unacceptable, (1) because it is
-depressing and (2) because it smacks of historical exceptionalism. I strongly
+civilization itself). I find that reading unacceptable, (a) because it is
+depressing and (b) because it smacks of historical exceptionalism. I strongly
 suspect that humanity's potential for innovation and creativity has remained
-relatively stable throughout history. The material conditions for creative
-expression may change (as in the times of political oppression, pestilence, or
-war), where the spirit endures.
+relatively stable throughout history.  The literary ecosystem is as vibrant and
+as diverse as ever. Material conditions for creative expression change (as in
+times of political oppression, pestilence, or war), where the spirit endures.
 
 The second, much more palatable (and likely) explanation would question the
 very definitions of literary reading. Consider the possibility of online or
 digital literature that evolves according to a logic of its own, where previous
 ideas of "genre" or "literary movements" no longer apply. To restrict literary
-reading to "novels, short stories, plays, and poetry" is to deny some measure
-of literariness to song-writing, computer game making, software design, and, in
-an obvious way, to non-fiction or, let's say, to long stories of arbitrary
-length. Imagine, for example, excluding reality television from the survey on
-television habits, because the genre does not confirm to some normative sense
-of what television should be. Do the literary survey makers consider literature
-as a medium, like television, or a grab-bag of "serious genres" like comedy and
-drama? As it turns out: both. The authors concede the point in sometimes
-classifying readers by the number of books read in any genre, effectively
-equating literature with "books [@NEA2004]." But even that concession confuses
-form with function. What if "reading a book" begins to involve something other
-than moving one's eyes from left to right over sequentially numbered blocks of
-text? Or what if books were more like pills, or prosthetics, than parchment?
-The conundrum reveals a strong methodological bias favoring historically
-contingent (and likely modernist) conceptions of the literary. A report that
-initially looks like objective, quantitative, descriptive analysis (that's the
-way things are) hides a qualitative, proscriptive program (thats the way they
-should be).
+reading to "novels, short stories, plays, and poetry" (as is done in he NEA
+report) is to deny some measure of literariness to song-writing, computer game
+making, software design, and, in an obvious way, to non-fiction or, let's say,
+to essays of arbitrary length. Imagine, for example, excluding reality
+television from the survey on television habits, because the genre does not
+confirm to some normative sense of what television should be. Do the literary
+survey makers consider literature as a medium, like television, or a grab-bag
+of "serious genres" like comedy and drama? As it turns out: both. The authors
+concede the point in sometimes classifying readers by the number of books read
+in any genre, effectively equating literature with "books [@NEA2004]." But even
+that concession confuses form with function. What if "reading a book" begins to
+involve something other than moving one's eyes from left to right over
+sequentially numbered blocks of text? Or what if books were more like pills, or
+prosthetics, than parchment?  The conundrum reveals a strong methodological
+bias favoring historically contingent (and likely modernist) conceptions of the
+literary. A report that initially looks like objective, quantitative,
+descriptive analysis (that's the way things are) hides a qualitative,
+proscriptive program (thats the way they should be).
 
 [^ln12-engell]: See also @engell_teaching_1988.
 
@@ -845,7 +851,7 @@ Staring with the late 1960s, a generation of scholars (Northrup Frye, Murray
 Krieger, and E. D. Hirsch, among others) took up the problem value in literary
 criticism in a concerted fashion. Their conversation splintered into three
 camps: the separatists--those who viewed the production of value as a detriment
-to the discipline; the inseparatists (to coin a term)--those who believed that
+to the discipline; the in-separatists (to coin a term)--those who believed that
 value creation is inseparable from the study of literature; and the
 compatibilists, or those who attempted to integrate the two opposing positions.
 Frye, for one, argued that value production should not be a part of the
@@ -886,10 +892,10 @@ short of offering a way out of the conundrum. For even as the canon grows to
 include previously excluded voices, those voices take on the shape of soft
 acquiescence. The custodians of the Western canon "cannot grasp or acknowledge"
 that alternative forms of literariness and textuality can take on the functions
-of Dante or Homer for others [@smith1983, 1-35]. I am appropriately galvanized
-by Smith's fiery rhetoric, but must admit that not much has changed since the
-1980s. Her compromise simply does not approach the very peculiarity of the
-question itself. Must we value the object of our study?
+of Dante or Homer for others [@hirsch_literary_1968, 1-35]. I am appropriately
+galvanized by Smith's fiery rhetoric, but must admit that not much has changed
+since the 1980s. Her compromise simply does not approach the very peculiarity
+of the question itself. Must we value the object of our study?
 
 To understand the peculiarity of the question, try asking: Does an
 anthropologist observing cock fighting, condone animal cruelty? Does a
@@ -917,9 +923,9 @@ The short of it: cute animals get more funding.
 
 I am trying to burrow (impatiently, because the archive is thick, and the
 bedrock far) from a big idea, like literature, down to its more modest textual
-forms, and into the material substratum underlying all print media: paper,
-digital or otherwise. For this, we'll need an operational definition
-of literature, free (to the extent it is possible) from its normative baggage:
+forms, and into the material substratum underlying all print media--paper,
+digital or otherwise. For this, I will need an operational definition of
+literature, free (to the extent it is possible) from its normative baggage:
 something like "systemic application of textuality to human life," and
 textuality as "the site of literary activity." But I am not yet ready to move
 beyond the obvious tautology.
@@ -3726,6 +3732,10 @@ historically (where Lennon gets it right). You are not a gadget.
 ### 7.3 Parity
 
 ### 7.4 Dissent
+
+Sartre?
+Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
+Mumford Condition of Man?
 
 Yet, to make the subjective experience strange again is to look at it
 through the eyes of a stranger. Makhail Bakhtin writes (in what I think is a
