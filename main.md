@@ -945,8 +945,8 @@ itself, which, for now, necrotically attaches itself to dead things like
 systems, mediums, and automated discourses. If all this talk of value, ghosts,
 and necrosis sounds familiar, the reader will not be surprised when I advance
 Karl Marx as a preeminent theorist of the textual algorithm and someone able to
-help us reason about Kittler's computational conundrum. On towards Marx then,
-through the machine that although intimately familiar to every writer and
+help us reason through Kittler's computational conundrum. On towards Marx then,
+through the machine that, although intimately familiar to every writer and
 consumer of text by touch, remains alien and alienating in its hidden
 possibilities, soothing and threatening all at once.
 
@@ -956,14 +956,15 @@ and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
 Turing describes an automatic machine (a-machine) capable of transposing the
 problem of calculability into "effective calculability." Where all previous
 calculators were special-purpose mechanisms, engineered to augment a specific
-type of computation, the a-machine was a universal device. In theory (and it
-was conceived as a thought experiment, at first), it could imitate any other
-mechanism for calculation because its internal state was represented as a
-symbolic state. The device would receive input by means of a paper ribbon
+type of computation, Turing thought of his device as an universal "a-machine."
+In theory (and it was conceived as a thought experiment, at first), it could
+imitate any other mechanism for calculation, because its internal composition
+could be reduced to a dynamic representational state, (as opposed to a fixed,
+mechanical one). The device would receive input by means of a paper ribbon
 containing discrete symbolic inputs. At its bare minimum, the device would need
 only the ribbon, a means of "reading," and the means of "writing," the symbols
-onto the tape. Mechanically, its movement could be restricted to one axis or to
-the movement of the tape through he machine. What makes such a device a
+onto the tape.  Mechanically, its movement could be restricted to one axis or
+to the movement of the tape through he machine. What makes such a device a
 *universal* Turing machine is its ability to internalize the symbol as part of
 its mechanism. The symbolic input can represent computable data (letters and
 numbers), but it can also function as control code ("move left," "erase mark")
