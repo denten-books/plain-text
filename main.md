@@ -944,11 +944,11 @@ ghostly apparition (indicating the absence of a living subject) is agency
 itself, which, for now, necrotically attaches itself to dead things like
 systems, mediums, and automated discourses. If all this talk of value, ghosts,
 and necrosis sounds familiar, the reader will not be surprised when I advance
-Karl Marx as a preeminent theorist of the textual algorithm and someone able to
-help us reason through Kittler's computational conundrum. On towards Marx then,
-through the machine that, although intimately familiar to every writer and
-consumer of text by touch, remains alien and alienating in its hidden
-possibilities, soothing and threatening all at once.
+Karl Marx as a preeminent theorist of the algorithm and someone able to help us
+reason through Kittler's computational conundrum. On towards Marx then, through
+the machine that, although intimately familiar to every writer and consumer of
+text by touch, remains alien and alienating in its hidden possibilities,
+soothing and threatening all at once.
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
@@ -973,14 +973,14 @@ properly differentiate between content and control code. Its internal state
 (Turing purposefully uses terms of sentient awareness throughout) "is
 determined by m-configuration *q<sub>n</sub>* and the scanned symbol
 [@turing1936, 231]." In other words, whatever initial configuration the
-physical mechanism is in, its next state is defined by the its initial physical
-configuration *and* the scanned symbol. The material and the symbolic fuse into
-one. Software is also hardware. This transition of symbols into machine
-configuration states effectively defines modern programming. A universal
-machine, unlike other, definite, single-purpose and limited-state mechanisms
-(like a clock for example), contains the ability to take on differing internal
-symbolic configurations. It can imitate a clock, an abacus, a scale, and,
-Turing thought that with time it would be able to imitate a human as well.
+physical mechanism was in, its next state would be defined by its initial
+physical configuration *plus* the scanned symbol. The material and the symbolic
+fuse into one. Software is also hardware. This transition of symbols into
+machine configuration states effectively defines modern programming. A
+universal machine, unlike other, definitive, single-purpose, and limited-state
+mechanisms (a clock for example), contains the ability to take on differing
+internal symbolic configurations. It can imitate a clock, an abacus, a scale,
+and, Turing thought that with time it would be able to imitate a human as well.
 
 This ambiguity between hardware and software leads to some confusion in the
 critical literature, as evidenced by Lev Manovich's playful response to
@@ -999,16 +999,17 @@ The printed page begins to differ from the screen only when the readers are
 able to do something on the screen that they could not on paper. To this end,
 Manovich encourages his readers to become active developers of software, rather
 than its passive consumers [@manovich_there_2011, 274]. In that, Manovich
-reasserts the possibility of writing in the silicon age. Kittler could object
-to that line of reasoning in maintaining that chip architecture (the last
-written work, according to him) still determines (as foundation) all higher
-levels of textuality "floating" above the silicon bedrock. And no amount of
-learning to code can give an ordinary subject the resources required to write
-in silicon--a process so advanced and expensive as to be limited to a handful
-of international chip manufacturers. In opening a successive nested series of
-black boxes, the post-silicon writer hits the impenetrable bedrock of chip
-architecture. Under these conditions, is it even worthwhile to follow
-Manovich's call for new literacies? Is writing still possible?
+reasserts the possibility of writing in the silicon age. Kittler (who passed in
+2011) could object to that line of reasoning in maintaining that chip
+architecture (the last written work, according to him) still determines (as
+foundation) all higher levels of textuality "floating" above the silicon
+bedrock. And no amount of learning to code can give an ordinary subject the
+resources required to write in silicon--a process so advanced and expensive as
+to be limited to a handful of international chip manufacturers. In opening a
+successive nested series of black boxes, the post-silicon writer hits the
+impenetrable bedrock of chip architecture. Under these conditions, is it even
+worthwhile to follow Manovich's call for new literacies? Is writing still
+possible?
 
 [ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -1028,23 +1029,32 @@ describes the Turing machine in the language of mathematics (where his most
 significant contribution lies), giving it its perfect, universal shape, his
 description also contains the bare minimum of a mechanical device. No matter
 how symbolic a Turing machine can be, no matter how ascendant to the realm of
-the ideal, it needs a bare minimum of matter to operate. Turing machines
-implemented in the Wireworld universe (a cellular automaton simulation) or in
-Minecraft (a procedurally-generated sand-box world-exploration game), must be
-viewed as recursive, second-order ideational constructs, built on top of a
-first-order physical mechanism (a personal computer, for example). We know
-this, becase all n-order Turing machines are limited in computational power by
-the physical capabailities of that bottom-most device. If we disregard the
-dizzying levels of recursion (a Turing machine, simulating a Turing machine,
-simulating a Turing machine and so on), we can examine the turtle at the
-bottom, which has its head in the symbolic and its feet in the physical world.
-Literature in the computer science on Turing machines tends to confront Turing
-machines as algorithms, in other words, as virtual, second-order symbolic
-representations, rarely paying heed to that strange bottom-most turtle. Yet it
-is impossible to entirely disassosiate the impliment from the symbol. Charles
-Petzold writes PENCIL and PAPER.
+the ideal, it still needs a bare minimum of physical matter to function. Turing
+machines implemented in the Wireworld universe (a cellular automaton
+simulation) or in Minecraft (a procedurally-generated sand-box
+world-exploration game), must be viewed as recursive, second-order ideational
+constructs, built on top of a first-order physical mechanism (a personal
+computer, for example). We know this, because all n-order Turing machines are
+limited in computational power by the physical capabilities of that bottom-most
+device. If we disregard the dizzying levels of recursion (a Turing machine,
+simulating a Turing machine, simulating a Turing machine and so on), we can
+examine the turtle at the bottom, which has its head in the symbolic and its
+feet in the physical world. Literature in computer science tends to confront
+universal Turing machines as algorithms: in other words, as virtual,
+second-order symbolic representations. As consummate logicians, computer
+scientist (unlike electrical engineers) rarely need to pay heed to that strange
+bottom-most turtle. Yet it is impossible to entirely disassociate the implement
+from the idea. In his review of Turing's "On Computable Numbers" paper, Alonzo
+Church, the American mathematician whose work anticipated Turing's in several
+important aspects, wrote that "a human calculator, provided with pencil and
+paper and explicit instructions can be regarded as a kind of a Turing machine
+[@church_computable_1937, 42-43; also cited in @petzold_annotated_2008, 63]."
+Disregarding the broader, metaphysical implications of that statement, note for
+now the persistence of the two essential implements required for the minimally
+viable operation of the Church-Turing machine and human calculators. Pen and
+paper persevere and assert themselves through the abstraction.
 
-Confrontaed as a mechanism, a first-order Turing machine borrows from a number
+Confronted as a mechanism, a first-order Turing machine borrows from a number
 of extant designs, that together and incrementally bring the universal computer
 into material existence. The history of its development *as a device* differs
 from its symbolic, mathematical provenance[^ln2-turing] in interesting and
