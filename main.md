@@ -1043,26 +1043,25 @@ feet in the physical world. Literature in computer science tends to confront
 universal Turing machines as algorithms: in other words, as virtual,
 second-order symbolic representations. As consummate logicians, computer
 scientist (unlike electrical engineers) rarely need to pay heed to that strange
-bottom-most turtle. Yet it is impossible to entirely disassociate the implement
-from the idea. In his review of Turing's "On Computable Numbers" paper, Alonzo
-Church, the American mathematician whose work anticipated Turing's in several
-important aspects, wrote that "a human calculator, provided with pencil and
-paper and explicit instructions can be regarded as a kind of a Turing machine
-[@church_computable_1937, 42-43; also cited in @petzold_annotated_2008, 63]."
-Disregarding the broader, metaphysical implications of that statement, note for
-now the persistence of the two essential implements required for the minimally
-viable operation of the Church-Turing machine and human calculators. Pen and
-paper persevere and assert themselves through the abstraction.
+bottom-most turtle.^[ln2-bottom] Yet it is impossible to entirely disassociate
+the implement from the idea. In his review of Turing's "On Computable Numbers"
+paper, Alonzo Church, the American mathematician whose work anticipated
+Turing's in several important aspects, wrote that "a human calculator, provided
+with pencil and paper and explicit instructions can be regarded as a kind of a
+Turing machine [@church_computable_1937, 42-43; also cited in
+@petzold_annotated_2008, 63]." Disregarding the broader, metaphysical
+implications of that statement, note for now the persistence of two essential
+implements required for the minimally viable operation of the Church-Turing
+machine-human calculators. Pen and paper persevere and assert themselves
+through the abstraction.[^ln2-abstraction]
 
-Confronted as a mechanism, a first-order Turing machine borrows from a number
-of extant designs, that together and incrementally bring the universal computer
-into material existence. The history of its development *as a device* differs
-from its symbolic, mathematical provenance[^ln2-turing] in interesting and
-instiuctive ways.
 
-[^ln-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows Descartes, Frege,
-Russel, Hilbert, Godel, and Wittgenstein (roughly in that order) [@petzold]
+Confronted as a mechanism, first-order Turing machines borrow from a number of
+extant designs, that together and incrementally bring the universal computer
+into its material existence. The media history of the machine's development *as
+a device* differs from its intellectual history as symbolic, mathematical
+abstraction in interesting and instructive ways.[^ln2-turing]
+
 
 Although Turing's original article did not include any drawings, he describes
 his "a-machine" in terms of paper tape medium, scanning, erasing, "writing down
@@ -1222,6 +1221,29 @@ control. It looks like you are reading a book, but this book changes its
 internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
+as being "responsible for encoding bits onto a transmission medium, whether
+wires, fiber optics, or radio broadcast, in ways that maximize the transmission
+rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
 
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
