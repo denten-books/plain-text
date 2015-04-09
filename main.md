@@ -1011,12 +1011,6 @@ impenetrable bedrock of chip architecture. Under these conditions, is it even
 worthwhile to follow Manovich's call for new literacies? Is writing still
 possible?
 
-[ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
-
 This ontological complication has its roots deep in Cartesian dualism. Where
 does a brain end and a mind begin? Similarly, at some imperceptible point
 software disappears into hardware. But before we ourselves get lost in that
@@ -1055,13 +1049,11 @@ implements required for the minimally viable operation of the Church-Turing
 machine-human calculators. Pen and paper persevere and assert themselves
 through the abstraction.[^ln2-abstraction]
 
-
 Confronted as a mechanism, first-order Turing machines borrow from a number of
 extant designs, that together and incrementally bring the universal computer
 into its material existence. The media history of the machine's development *as
 a device* differs from its intellectual history as symbolic, mathematical
 abstraction in interesting and instructive ways.[^ln2-turing]
-
 
 Although Turing's original article did not include any drawings, he describes
 his "a-machine" in terms of paper tape medium, scanning, erasing, "writing down
@@ -1086,70 +1078,44 @@ Rocky Acosta under CC Attribution 3.0 license.](images/turing.jpg)
 via a Turing machine."](images/turing-idea.png)
 
 By the end of the 19th century a number of lesser mechanisms anticipate the
-functional elements of Turing's mechanism. By 1930s, these inventions not only
-anticipate the modern computer, but are brought to mass market in wide-spread
-manufacture of computing scales, dial recorders, electric tabulating machines,
-and computing typewriters made by companies like Underwood Computing Machine,
-Electromatic, and International Business Machines (IBM). Rather than a singular
-eureka moment, the invention of the universal machine should be viewed as a
-gradual historical process that culminates in Turing's ideal specifications.
-Three key stages, each in itself encompassing a long lineage of technological
-development, stand out as absolutely necessary for its complete development:
+functional elements of Turing's mechanism. By 1936, when the time of "On
+Computable Numbers, with an Application to the Entscheidungsproblem" went to
+print, these inventions not only anticipate the modern computer, but are
+brought to mass market in wide-spread manufacture of computing scales, dial
+recorders, electric tabulating machines, and computing typewriters made by
+companies like Underwood Computing Machine, Electromatic, and International
+Business Machines (IBM). Rather than a singular eureka moment, the invention of
+the universal machine should be viewed as a gradual historical process that
+culminates in Turing's ideal specifications.
 
-1. The mechanization of type (media independence). With the invention of the
-movable type and the typewriter the variability of hand-written script can be
-normalized to a limited set of discrete characters. The process of
-normalization continues today as contemporary approaches like natural language
-processing and optical character recognition struggle to bring non-Western
-writing systems under the umbrella of universal computability.
+The telegraph was already viewed a curcuit control mechanism.
+"If we disregard the small class of telegrams that merely express emotions, the
+essence of telegraphy is control [...] Telegraph systems, therefore, belong not
+to the class of producing or distributing, but to the class of controlling
+mechanisms @murray_setting_1905, 556]."
 
-2. Remote communications (geographical displacement). Mechanical type can now
-be converted into electrical signals. The telegraph removes writing from its
-immediate physical environment. Authorial presence, already weakened by writing
-as such, is further distanced from the contexts of utterance. The telegraph
-lengthens the chain of technological and political mediation in the
-transmission of information. The telegram differs from the letter in that it is
-transcribed, encoded, decoded, and transcribed again. The lengthening further
-weakens the authorial function: where a letter must be "forged" to
-mis-represent authorial intent, third parties (like the telegraph clerk) are
-explicitly present in the act of telegraphic transmission. In the absence of
-the identifying "hand," the telegraph clerk's (or the censor's) mark cannot be
-distinguished from the author's (a common literary plot device in the fiction
-of the period). The notion of the telegram's "fidelity" therefore becomes an
-attribute of the communication channel as a whole.
-
-3. Automation and programmable media (temporal displacement). Programmable
-media like perforated tape removes the human previously needed to mediate
-between mechanical and electrical signal. "Content" intended for humans can now
-be mixed with "control code" intended to alter the operation of the receiving
-device.
-
-The last of these: asynchronous communication, resists . The
-
-new media and communications studies, the third is most crucial to the
-development of Turing machines, and least understood. A number of inventions at
-the end of the 19th century pertain to "circuit-controlling devices controlled
-by a traveling perforated strip or tape" (from US patent number 500226, filed
-Charles Cutriss in 1893 [@cutriss1893]). Prior to perforated tape, the
-transmission of messages by telegraph required the presence of a skilled
-operator, able to transcribe messages from text to Morse code, and into the
-physical motion of a lever-operated circuit. In this system, the human operator
-acted as a mute interface between text and machine. The transcription of text
-into signal, and back onto paper, required the real-time presence of human
-encoders and a decoders. The perforated tape decoupled the human from the
-machine. In US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and
-Ralph Bumstead explain, "the object of our invention is to provide a system of
-telegraphy which does not require skilled operators for the transmission and
-reception of messages." Instead, the message was transcribed into perforation
-mechanical means and then fed into the device. The tape mechanics of the type
-writer could then be coupled with the electrics of the telegraph, with
-perforated tape as the mediator between the two "worlds." A number of devices
-emerged at the time with the aim of transforming mechanical action of the
-typewriter into perforation, and, consequently, perforation into script,
-completing the circuit between automated "encoding" and "decoding". As one
-device converts human input into mechanical states, and into signal, another
-device converts the signal into mechanical states and into a human-legible
-message.
+A number of inventions at the end of the 19th century pertain to
+"circuit-controlling devices controlled by a traveling perforated strip or
+tape" (from US patent number 500226, filed Charles Cutriss in 1893
+[@cutriss1893]). Prior to perforated tape, the transmission of messages by
+telegraph required the presence of a skilled operator, able to transcribe
+messages from text to Morse code, and into the physical motion of a
+lever-operated circuit. In this system, the human operator acted as a mute
+interface between text and machine. The transcription of text into signal, and
+back onto paper, required the real-time presence of human encoders and a
+decoders. The perforated tape decoupled the human from the machine. In
+US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and Ralph Bumstead
+explain, "the object of our invention is to provide a system of telegraphy
+which does not require skilled operators for the transmission and reception of
+messages." Instead, the message was transcribed into perforation mechanical
+means and then fed into the device. The tape mechanics of the type writer could
+then be coupled with the electrics of the telegraph, with perforated tape as
+the mediator between the two "worlds." A number of devices emerged at the time
+with the aim of transforming mechanical action of the typewriter into
+perforation, and, consequently, perforation into script, completing the circuit
+between automated "encoding" and "decoding". As one device converts human input
+into mechanical states, and into signal, another device converts the signal
+into mechanical states and into a human-legible messages.
 
 A flood of inventions appeared at the turn of the 20th century to capitalize on
 such decoupling. These include machines for tape-controlled telegraphic
@@ -1168,26 +1134,21 @@ successive impulses, a plurality of interpreting relays selectively actuated by
 said receiver, and a printed mechanism responsive for the combined action
 [@bumstead1911, 12-13]." Up to this point, the patent describes a device for
 transmission information, from type to print. Starting with clause 14, the
-language changes to describe a more general "telegraph system," involving
-"an impulse transmitter having means to vary the time intervals between
-successive transmitted impulses, each time interval having a character
-representing significance, a receiver responsive to said devices, and signal,
-distributing, interpreting, and recording devices *responsive to the contiguous
-significant time intervals define by the impulses* [@bumstead1911, 14 (emphasis
-mine)]." For the automated telegraph the control code and the message are one:
-that is, the arrangement of perforation on the ticker tape affects the internal
+language changes to describe a more general "telegraph system," involving "an
+impulse transmitter having means to vary the time intervals between successive
+transmitted impulses, each time interval having a character representing
+significance, a receiver responsive to said devices, and signal, distributing,
+interpreting, and recording devices *responsive to the contiguous significant
+time intervals define by the impulses* [@bumstead1911, 14 (emphasis mine)]."
+For the automated telegraph the control code and the message are one: that is,
+the arrangement of perforation on the ticker tape affects the internal
 mechanical configuration of the machine. Another way to put this would be to
 say that the state of the tape-driven telegraph machine at any given time is
 also, in part, a message meant for the human recipient. The printing telegraph
 of Brothers Bumstead, along with their subsequents and antecedents contain all
-the necessary parts for a Turing machine: discrete symbolic language,
-removable storage medium, and a device that can alter its internal state based on
-the reading and writing passing symbols.
-
-"If we disregard the small class of telegrams that merely express emotions, the
-essence of telegraphy is control [...] Telegraph systems, therefore, belong not
-to the class of producing or distributing, but to the class of controlling
-mechanisms @murray_setting_1905, 556]."
+the necessary parts for a Turing machine: discrete symbolic language, removable
+storage medium, and a device that can alter its internal state based on the
+reading and writing passing symbols.
 
 Where we began with mechanisms of direct inscription (like pens and
 typewriters) we end with machines that look like typewriters, but involve
@@ -1221,6 +1182,12 @@ control. It looks like you are reading a book, but this book changes its
 internals as it receives instructions to inform and to control. For now I ask
 only who controls the device? But if the book is a pill or fused with the
 neural circuitry of the brain, do you know what you are reading?
+
+[ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
 
 [^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
@@ -3812,108 +3779,3 @@ Encounters Vectors. SCP.
 
 ### 2.3 Digital
 
-## Odds and Ends
-
-### Infinity
-See also @siegert_cacography_2011: "The step leading to from an analog, infinite set of signals to a finite and
-limitable set of selectible signals." Also Max Bense, Information Aesthetics.
-
-### Text
-
-Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
-and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
-text is an "ordered hierarchy of content objects" [@derose]. Goodman and
-Genette.
-
-[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
-for resemblance between documents" 
-
-Drucker "the totalizing drive of the digital [@drucker2001, 145]."
-
-
-### Scratch Collector
-
-Metadata k Code and comments. Collector of chair or
-collector of scratches. Object oriented ontology. Object oriented languages.
-Competing paradigms: separation of code and data. No separation (Haskell).  ##
-Form and Content in legal thought
-
-When it comes to the of handbags, texts, and paintings the American legal
-system grants at least four differing layers of protection. Utility patents
-protect the "functional" aspects of an object. Design patents protect the
-"ornamental" "look and appearance" aspects of jewelry, fashion, furniture,
-beverage containers, and computer icons. Under the US Copyright Law, Section
-102, copyright law protects "original works of authorship" that are "fixed in
-any tangible medium of expression." Finally, the Lanham Act protects commercial
-identity and distinguishes the source of commercial goods. 
-
-Putting aside trademark law, Under the law the text cannot be a mere object. 
-
-Language about physicality.
-
-A derivative work is defined as "a work based upon one or more preexisting
-works such as a translation, musical arrangement, dramatization,
-fictionalization, motion picture version, sound recording, art reproduction,
-abridgment, condensation, or any other form in which a work may be recast,
-transformed, or adapted." 17 U.S.C. § 101.
-
-Look at a case. Threshold of originality. "non-eligibility of "textual
-matter""Ets-Hokin v. Skyy Spirits Inc. Although a label's "graphical
-illustrations" are normally copyrightable, "textual matter" is not—at least not
-unless the text "aid[s] or augment[s]" an accompanying graphical illustration. 
-
-U.S. Code: Title 35 - PATENTS
-
- Article One, section 8, clause 8 of the U.S. Constitution which states:
-
-    The Congress shall have power ... To promote the progress of science and
-useful arts, by securing for limited times to authors and inventors the
-exclusive right to their respective writings and discoveries; 
-
-design patents protect intellectual property textbook [@merges]  
-
-35 U.S. Code § 171 - Patents for designs
-
-Whoever invents any new, original and ornamental design for an article of
-manufacture may obtain a patent therefor, subject to the conditions and
-requirements of this title.  The provisions of this title relating to patents
-for inventions shall apply to patents for designs, except as otherwise
-provided.
-
-@dumont @gorham-vs-white @egi-vs-swisa
-
-
-The legal system "encodes" ideas of form and content. What is design? Confusion
-in for Plato as well.
-
-### Some old intro 
-
-Athanasius Kircher's Universal Polygraphy George E. McCracken
-
-Minimalism. Plain
-
-Elegant Variation, Fowler
-
-If you've never interacted with your computer through a text-based terminal,
-understand for now that the command line is a sort of a call-and-response
-dialog between you and your system. This way of interacting with computers
-predates modern graphical user interfaces (GUIs) and is still commonly used by
-professional programmers and system administrators.
-
-More than an interface, the command line encapsulates a philosophy of
-computing: write simple programs that do one thing well.
-
-This philosophy contrasts sharply with alternative vision: where "things just
-work," glossy visual interfaces. Surfaces and alienation. 
-
-That computer interfaces entail politics is not an uncontroversial assumption
-and one which will become central to the argument of my book.
-
-Despite the ubiquity of Unix-like systems (which run a lion share of servers,
-super-computers, Apple gadgets, and Android devices), the textual roots of
-computing are obscured by visual 
-
-The battle for the soul of computing. Whether the internet empowers
-participatory governance, deliberation, and dissent, or whether it ushers in a
-new era of mass surveillance and centralized control depends crucially on which
-of these two models of computing prevails.

@@ -94,8 +94,7 @@ Potential reviewers
     Hoyt Long
     Nancy Baym
     Gabriella Coleman
-Mark Grief
-Unger!!!!
+    Mark Grief
     Matt Burton offered to read.
 
 For book blurb
@@ -105,6 +104,7 @@ For book blurb
     LIT:
     MEDIA STUDIES:
     DH:
+Unger?
 
 Write the companion on githubpages + ipython + nbivewer + asciicinema notebook!
 

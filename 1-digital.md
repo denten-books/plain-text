@@ -1,9 +1,8 @@
-
 ---
 author: Dennis Tenen
 title: "We Have Always Been Digital (Draft Chapter, Do Not Circulate)"
 bibliography: plain-text.bib
-style: mla.csl
+style: mla-note.csl
 
 ---
 
@@ -530,7 +529,7 @@ discrete degree, derives a kind of inspiration from that which is above. In
 order to facilitate the transmission of impressions in this way, the recipient
 must be willing to receive instruction and assume the passive or negative
 relation of a learner; otherwise he will be likely to resist, unconsciously,
-the infusion of foreign impressions and Divine ideas [@brittan_spiritual_1855,
+the infusion of foreign impressions and Divine ideas [@brittan_spiritual_1854,
 169].
 
 Following Swedenborg, the telegraph spiritualists conceive the discrete quality
