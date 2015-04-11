@@ -377,12 +377,13 @@ depending on the person doing the cutting. The cake is more digital, in a
 sense, for someone armed with a laser cutter and a microscope. Similarly,
 painting is a perfectly digital visual art if we consider it at the scale of
 art gallery as a series of discrete, replaceable, and reproducible frames(!) of
-canvas.[^ln1-art]
+canvas.[^ln1-art] Or, to put it another way, what does it mean to digitize text
+when text is already, by some definitions, a digital format?
 
 [^ln1-art]: Replaceble and reproducible in the sense that the art gallery
 perserveres through the loss or sale of individual art works.
 
-The conundrum reveals a problem in the very formulation of the question: What
+These conundrums reveal a problem in the very formulation of the question: What
 *is* digital representation? Under examination, the properties related to the
 digital-analog distinction cease constituting an ontological category. Rather
 than a state of being, they indicate a systematic imposition of structure. The
