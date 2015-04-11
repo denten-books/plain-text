@@ -80,7 +80,7 @@ proposition implicit in several related philosophical traditions. The first of
 these is pragmatism, broadly conceived. William James articulates that view
 when he writes that "reality is seen to be grounded in a perfect jungle of
 concrete expediencies [@james-pragmatism-conceptionoftruth]." For James (and,
-to some extent, for his fellow travellers in American pragmatism, Charles
+to some extent, for his fellow travelers in American pragmatism, Charles
 Sanders Peirce and John Dewey)[^ln-pragma-truth] the pragmatic answer to the
 question of truth could be reduced to the questions efficient causes and
 effects. In his essay "Pragmatism's Conception of Truth," James asks: "How will
@@ -953,34 +953,38 @@ soothing and threatening all at once.
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
 and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
-Turing describes an automatic machine (a-machine) capable of transposing the
+Turing describes an automatic machine (*a*-machine) capable of transposing the
 problem of calculability into "effective calculability." Where all previous
 calculators were special-purpose mechanisms, engineered to augment a specific
-type of computation, Turing thought of his device as an universal "a-machine."
-In theory (and it was conceived as a thought experiment, at first), it could
-imitate any other mechanism for calculation, because its internal composition
-could be reduced to a dynamic representational state, (as opposed to a fixed,
-mechanical one). The device would receive input by means of a paper ribbon
-containing discrete symbolic inputs. At its bare minimum, the device would need
-only the ribbon, a means of "reading," and the means of "writing," the symbols
-onto the tape.  Mechanically, its movement could be restricted to one axis or
-to the movement of the tape through he machine. What makes such a device a
-*universal* Turing machine is its ability to internalize the symbol as part of
-its mechanism. The symbolic input can represent computable data (letters and
-numbers), but it can also function as control code ("move left," "erase mark")
-altering the movement of the mechanism. In fact, the Turing machine does not
-properly differentiate between content and control code. Its internal state
-(Turing purposefully uses terms of sentient awareness throughout) "is
-determined by m-configuration *q<sub>n</sub>* and the scanned symbol
-[@turing1936, 231]." In other words, whatever initial configuration the
-physical mechanism was in, its next state would be defined by its initial
-physical configuration *plus* the scanned symbol. The material and the symbolic
-fuse into one. Software is also hardware. This transition of symbols into
-machine configuration states effectively defines modern programming. A
-universal machine, unlike other, definitive, single-purpose, and limited-state
-mechanisms (a clock for example), contains the ability to take on differing
-internal symbolic configurations. It can imitate a clock, an abacus, a scale,
-and, Turing thought that with time it would be able to imitate a human as well.
+type of computation, Turing thought of his device as an universal
+"*a*-machine." In theory (and it was conceived as a thought experiment, at
+first), it could imitate any other mechanism for calculation, because its
+internal composition could be reduced to a dynamic representational state, (as
+opposed to a fixed, mechanical one). The device would receive input by means of
+a paper ribbon containing discrete symbolic inputs. At its bare minimum, the
+device would need only the ribbon, a means of "reading," and the means of
+"writing," the symbols onto the tape. Mechanically, its movement could be
+restricted to one axis or to the movement of the tape through the machine. What
+makes such a device a *universal* machine is its ability to internalize the
+symbol as part of its mechanism. The symbolic input can represent computable
+data (letters and numbers), but it can also function as control code ("move
+left," "erase mark") altering the movement of the mechanism. In fact, the
+Turing machine does not properly differentiate between content and control
+code. Its "internal state" (Turing uses terms of sentient awareness throughout)
+"is determined by *m*-configuration *q<sub>n</sub>* and the scanned symbol,"
+where the *m*-configurations are defined as "a finite number of conditions" of
+a machine, which, in Turing's words, may be compared to "a man in the process
+of computing a real number [@turing_computable_1937, 231]." The initial
+configuration plus the scanned symbol define the next internal state of the
+machine. The material and the symbolic fuse into one: here lies the essence of
+the universal Turing machine (UTM). Software is also hardware. In being able to
+internalize configuration as symbol, the *universal* Turing machine can in
+effect imitate all other special-purpose Turing machines. This transition of
+symbols into machine states effectively defines modern programming. A universal
+machine, unlike other, definitive, single-purpose, and limited-state mechanisms
+(a clock for example), contains the ability to take on differing internal
+symbolic configurations. It can imitate a clock, an abacus, a scale, and, with
+time, Turing thought it could imitate a human as well.
 
 This ambiguity between hardware and software leads to some confusion in the
 critical literature, as evidenced by Lev Manovich's playful response to
@@ -992,73 +996,90 @@ written inscriptions which, in contrast to all historical writing tools, are
 able to read and write by themselves [@kittler_there_1995]." According to this
 schema, Kittler sees the paper-bound design blueprints of the first integrated
 microprocessor as the last "real" piece of writing. Everything written after
-that point is hardware (because software is hardware). Manovich inverts
-Kittler's argument into "there is only software," by which he means that in a
-pragmatic sense, the affordances of a given medium are determined by software.
-The printed page begins to differ from the screen only when the readers are
-able to do something on the screen that they could not on paper. To this end,
-Manovich encourages his readers to become active developers of software, rather
-than its passive consumers [@manovich_there_2011, 274]. In that, Manovich
-reasserts the possibility of writing in the silicon age. Kittler (who passed in
-2011) could object to that line of reasoning in maintaining that chip
-architecture (the last written work, according to him) still determines (as
-foundation) all higher levels of textuality "floating" above the silicon
-bedrock. And no amount of learning to code can give an ordinary subject the
-resources required to write in silicon--a process so advanced and expensive as
-to be limited to a handful of international chip manufacturers. In opening a
-successive nested series of black boxes, the post-silicon writer hits the
-impenetrable bedrock of chip architecture. Under these conditions, is it even
-worthwhile to follow Manovich's call for new literacies? Is writing still
-possible?
+that point is hardware (because software is hardware at that "microscopic"
+level). Manovich inverts Kittler's argument into "there is only software," by
+which he means that in a pragmatic sense, the affordances of a given medium are
+determined by software. A printed page begins to differ from a screen only when
+the readers are able to effect something on the screen that they could not do
+on paper. To this end, Manovich encourages his readers to become active
+developers of software, rather than its passive consumers
+[@manovich_there_2011, 274]. In that, Manovich reasserts the possibility of
+writing in the silicon age. Kittler (who passed in 2011) perhaps could object
+to that line of reasoning in maintaining that chip architecture (the last
+written work) still determines (as foundation) all higher levels of textuality
+"floating" above the silicon bedrock. And no amount of learning to code can
+give an ordinary subject the resources required to write in silicon--a process
+so advanced and expensive as to be limited to a handful of international chip
+manufacturers. In opening a successive nested series of black boxes, the
+post-silicon writer hits the impenetrable bedrock of chip architecture. In such
+conditions, is it even worthwhile to follow Manovich's call for new literacies?
+Is writing still possible? If "there is no software," then no. Else if
+everything is software, then one can answer to the affirmative.
 
-This ontological complication has its roots deep in Cartesian dualism. Where
-does a brain end and a mind begin? Similarly, at some imperceptible point
-software disappears into hardware. But before we ourselves get lost in that
-liminal space between matter and idea, let us recover a measure of oddity found
-in the now ubiquitous operation of Turing machines. The first thing to note is
-that Turing's original formulation happens at the level of a thought
-experiment. A Turing machine is an idea, which takes on the structure of other
-ideas expressed symbolically. The second thing to note is that although Turing
-describes the Turing machine in the language of mathematics (where his most
-significant contribution lies), giving it its perfect, universal shape, his
-description also contains the bare minimum of a mechanical device. No matter
-how symbolic a Turing machine can be, no matter how ascendant to the realm of
-the ideal, it still needs a bare minimum of physical matter to function. Turing
-machines implemented in the Wireworld universe (a cellular automaton
-simulation) or in Minecraft (a procedurally-generated sand-box
-world-exploration game), must be viewed as recursive, second-order ideational
-constructs, built on top of a first-order physical mechanism (a personal
-computer, for example). We know this, because all n-order Turing machines are
-limited in computational power by the physical capabilities of that bottom-most
-device. If we disregard the dizzying levels of recursion (a Turing machine,
-simulating a Turing machine, simulating a Turing machine and so on), we can
-examine the turtle at the bottom, which has its head in the symbolic and its
-feet in the physical world. Literature in computer science tends to confront
-universal Turing machines as algorithms: in other words, as virtual,
-second-order symbolic representations. As consummate logicians, computer
-scientist (unlike electrical engineers) rarely need to pay heed to that strange
-bottom-most turtle.^[ln2-bottom] Yet it is impossible to entirely disassociate
-the implement from the idea. In his review of Turing's "On Computable Numbers"
-paper, Alonzo Church, the American mathematician whose work anticipated
-Turing's in several important aspects, wrote that "a human calculator, provided
-with pencil and paper and explicit instructions can be regarded as a kind of a
-Turing machine [@church_computable_1937, 42-43; also cited in
-@petzold_annotated_2008, 63]." Disregarding the broader, metaphysical
-implications of that statement, note for now the persistence of two essential
-implements required for the minimally viable operation of the Church-Turing
-machine-human calculators. Pen and paper persevere and assert themselves
-through the abstraction.[^ln2-abstraction]
+This ontological complication has its roots deep in Cartesian dualism. Where do
+do brains end and minds begin? Similarly, at some imperceptible point software
+disappears into hardware. But before we ourselves get lost in that liminal
+space between matter and idea, let us recover a measure of oddity found in the
+now ubiquitous operation of Turing machines. First, note that Turing's original
+formulation happens at the level of a thought experiment.  (Turing does not
+begin to begin to build actual machines until his move to Princeton in 1936.) A
+universal Turing machine comes to life initially as an idea that can take on
+the structure of other ideas expressed symbolically. Second, note that though
+Turing describes his machine in the language of mathematics (where his most
+significant contribution lies, in giving it its perfect, perfect, and universal
+shape), his description also contains the bare minimum of a mechanical device.
+No matter how symbolic a Turing machine aspires to be, no matter how ascendant
+to the realm of the ideal, it still needs a bare minimum of physical matter to
+function. And Turing's paper contains the canonical description of that bare
+physical minimum.
 
-Confronted as a mechanism, first-order Turing machines borrow from a number of
-extant designs, that together and incrementally bring the universal computer
-into its material existence. The media history of the machine's development *as
-a device* differs from its intellectual history as symbolic, mathematical
-abstraction in interesting and instructive ways.[^ln2-turing]
+With the above two observations in mind, we can view abstracted universal
+Turing machines, as implemented in the Wireworld universe (a cellular automaton
+simulation), for example, or in Minecraft (a procedurally-generated sand-box
+world-exploration game), as recursive, second-order ideational constructs,
+built on top of a first-order physical mechanism (a personal computer, in the
+case of Wireworld and Minecraft). We know this, because all *n+* order Turing
+machines are limited in computational power by the physical capabilities of
+that bottom-most device. The simulated UTM cannot outperform (in terms of
+cycles per second, instructions per cycle, or its capacity to hold a number of
+instructions) the machine doing the simulation. If we disregard the dizzying
+levels of recursion (a Turing machine, simulating a Turing machine, simulating
+a Turing machine and so on), we can examine the turtle at the bottom, which has
+its head in the symbolic and its feet firmly in the physical world.
+
+Literature in computer science tends to confront universal Turing machines as
+algorithms: in other words, as virtual, second-order symbolic representations.
+As consummate logicians, computer scientists (unlike electrical engineers)
+rarely need to pay heed to that strange bottom-most turtle.^[ln2-bottom] Yet it
+is impossible to entirely disassociate the implementation from an idea. In his
+review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
+mathematician whose work mirrored Turing's (independently) in several important
+aspects, wrote that "a human calculator, provided with pencil and paper and
+explicit instructions can be regarded as a kind of a Turing machine
+[@church_computable_1937, 42-43; also cited in @petzold_annotated_2008, 63]."
+Disregarding the broader, metaphysical implications of that statement, note for
+now the persistence of two essential implements required for the minimally
+viable operation of the Church-Turing machine-human calculators. Pen and paper
+persevere and assert themselves through the abstraction.[^ln2-abstraction]
+
+Forced to confront the universal Turing machine *as a mechanism*, the historian
+must aknowledge that it borrows from a number of extant designs, which,
+together and incrementally, give the UTM its physical form. A media history of
+Turing machines as devices differs from its intellectual history as symbolic,
+mathematical abstraction in interesting and instructive ways.[^ln2-turing]
+
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012.  Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/turing.jpg)
+
+![Universal Turing machine as an idea. "Nick Gardner's WireWorld multiplier,
+via a Turing machine."](images/turing-idea.png)
 
 Although Turing's original article did not include any drawings, he describes
-his "a-machine" in terms of paper tape medium, scanning, erasing, "writing down
-notes," "external operators," and "moves" of the mechanism. From the
-construction standpoint, Turing's machine can be reduced (1) to the mechanism
+his "*a*-machine" in terms of paper tape medium, scanning, erasing, "writing
+down notes," "external operators," and "moves" of the mechanism. From the the
+engineering standpoint, Turing's machine can be reduced (1) to the mechanism
 for "reading" and "writing" symbols onto and from paper storage media, and (2)
 to the paper tape storage medium itself (as seen in Mike Davey's
 reconstruction). In the United States, these elements would find prior art in
@@ -1069,25 +1090,18 @@ Attachment for Typewriters" (US1162730, 1908-1915), "Computing Mechanism"
 (US1105170, 1908-1914), and "Combined Type-Writing and Adding Machine"
 (US1244398, 1910-1917) among others.
 
-![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
-2012.  Displayed in the Collection of Historical Scientific Instruments,
-Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
-Rocky Acosta under CC Attribution 3.0 license.](images/turing.jpg)
-
-![Universal Turing machine as an idea. "Nick Gardner's WireWorld multiplier,
-via a Turing machine."](images/turing-idea.png)
-
 By the end of the 19th century a number of lesser mechanisms anticipate the
-functional elements of Turing's mechanism. By 1936, when the time of "On
-Computable Numbers, with an Application to the Entscheidungsproblem" went to
-print, these inventions not only anticipate the modern computer, but are
-brought to mass market in wide-spread manufacture of computing scales, dial
-recorders, electric tabulating machines, and computing typewriters made by
-companies like Underwood Computing Machine, Electromatic, and International
-Business Machines (IBM). Rather than a singular eureka moment, the invention of
-the universal machine should be viewed as a gradual historical process that
-culminates in Turing's ideal specifications.
+functional elements of Turing's mechanism. And by 1936, when Turing publishes
+his paper on computable numbers, these inventions not only anticipate the
+modern computer, but are brought to mass market in wide-spread manufacture of
+computing scales, dial recorders, electric tabulating machines, and computing
+typewriters made by companies like Underwood Computing Machine, Electromatic,
+and International Business Machines (IBM). Rather than a singular eureka
+moment, the invention of the universal machine should be viewed as a gradual
+historical process that culminates in Turing's universal (and minimally-viable)
+specifications.
 
+The central thesis of the history outlined hi
 The telegraph was already viewed a curcuit control mechanism.
 "If we disregard the small class of telegrams that merely express emotions, the
 essence of telegraphy is control [...] Telegraph systems, therefore, belong not
