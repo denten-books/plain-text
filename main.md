@@ -805,10 +805,10 @@ theory. "Value judgments by which it is constituted are historically variable,"
 he concludes, having "a close relation to social ideologies." For Eagleton,
 values are more than simple assertion of private taste. Instead, they refer to
 assumptions "by which certain social group exercise and maintain control over
-others [@eagleton1983, 15-47]. Who controls what? My interpretation of Marxist
-materialism is considerably more literal than Eagleton's. I am interested here
-in physical mechanisms of control, not only in their more ephemeral ideological
-justifications.
+others [@eagleton_criticism_1976, 15-47]. Who controls what? My interpretation
+of Marxist materialism is considerably more literal than Eagleton's. I am
+interested here in physical mechanisms of control, not only in their more
+ephemeral ideological justifications.
 
 In trying to reconcile the NEA's dour prognoses with broad theoretical models
 and demographic trends that reflect a proliferation of textual material, I am
@@ -1063,7 +1063,7 @@ viable operation of the Church-Turing machine-human calculators. Pen and paper
 persevere and assert themselves through the abstraction.[^ln2-abstraction]
 
 Forced to confront the universal Turing machine *as a mechanism*, the historian
-must aknowledge that it borrows from a number of extant designs, which,
+must acknowledge that it borrows from a number of extant designs, which,
 together and incrementally, give the UTM its physical form. A media history of
 Turing machines as devices differs from its intellectual history as symbolic,
 mathematical abstraction in interesting and instructive ways.[^ln2-turing]
@@ -1073,12 +1073,12 @@ mathematical abstraction in interesting and instructive ways.[^ln2-turing]
 Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
 Rocky Acosta under CC Attribution 3.0 license.](images/turing.jpg)
 
-![Universal Turing machine as an idea. "Nick Gardner's WireWorld multiplier,
+![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
 via a Turing machine."](images/turing-idea.png)
 
 Although Turing's original article did not include any drawings, he describes
 his "*a*-machine" in terms of paper tape medium, scanning, erasing, "writing
-down notes," "external operators," and "moves" of the mechanism. From the the
+down notes," "external operators," and "moves" of the mechanism. From the
 engineering standpoint, Turing's machine can be reduced (1) to the mechanism
 for "reading" and "writing" symbols onto and from paper storage media, and (2)
 to the paper tape storage medium itself (as seen in Mike Davey's
@@ -1105,7 +1105,7 @@ When viewed in the context of literary, book, and text history (instead of
 history of mathematics), the universal Turing machine signifies a culmination
 of several broad, long-term trends, that begin with the invention of writing
 itself. Since much has been written on the first two of these periods, I will
-telegraph them briefly with the intention of concentrating on the third:
+outline them briefly with the intention of elucidating the third:
 
 1. The mechanization of type and the accompanying normalization of language
 that begins with the diffusion of movable type in China and Europe, circa 1040
@@ -1147,38 +1147,42 @@ of ideology, discourse, and representation. Where for Althusser "every science
 is a science of ideology,"[^ln2-alt] Foucault posits his archeology of the
 human sciences on the level of "positive unconscious," revealing unspoken
 "rules" that govern the formation of "theories, concepts, and objects of study"
-on the level of "scientific representation [@foucault_order_1994, xi]." 
+on the level of "scientific representation [@foucault_order_1994, xi]."
 
-There are some theoretical niceties here: for example the concept of ideology,
-in the orthodox Marxist schema of things, exists as a "political superstructure
-[...] to which correspond definite forms of social consciousness." In the
-Marxist model, ideology floats *above* the material base--the dominant mode of
-production--that "determines the general character of the social the social,
-political and spiritual processes of life [@marx_contribution_1904, 11]."
-Althusser's influential contribution to this world view was to insist that
-ideology, although secondary to mode of production, nevertheless assures its
-continual reproduction as a means of control. Simply put, for Althusser, the
-ideological apparatus of the modern capitalist states ends up being "installed
-in the dominant [social] position [@althusser_lenin_2001, 85-127]." Similarly,
-Foucault envisions his "archaeological" layer to exist *beneath* the
-"epistemological level," where representation "governs the mode of being of
+There are a number of theoretical niceties here (that the reader may skip, if
+not intrested in the history of Marxist thought): for example the concept of
+ideology, in the orthodox Marxist schema of things, exists as a "political
+superstructure [...] to which correspond definite forms of social
+consciousness." In the Marxist model, ideology floats *above* the material
+base--the dominant mode of production--that "determines the general character
+of the social the social, political and spiritual processes of life
+[@marx_contribution_1904, 11]." Althusser's influential contribution to this
+world view was to insist that ideology, although secondary to the mode of
+production, nevertheless assures its continual reproduction as means of
+continuing subjugation and political control. Simply put, for Althusser, the
+ideological apparatus of the modern capitalist state ends up being "installed
+in the dominant [social] position [@althusser_lenin_2001, 85-127]." In a
+similar (although not eqiuivalent) rhetorical move, Foucault envisions that
+beneath the "epistemological level" of human activity there exists an
+"archaeological layer," where representation "governs the mode of being of
 language, individuals, nature, and need itself [@foucault_order_1994, 209].
-What was determined by now begins to determine. Strangely, the rhetorical move
-inverts Hegel yet again, to put Marx back on his head.^[ln2-flip]
+Ideology and representation once determined, now determines. The rhetorical
+jiu-jitsu inverts Hegel yet again, to put Marx back on his head.^[ln2-flip]
 
-The history of the Turing machine, as I am 
-
-The central thesis of the history outlined hi The telegraph was already viewed
-a curcuit control mechanism.  "If we disregard the small class of telegrams
-that merely express emotions, the essence of telegraphy is control [...]
-Telegraph systems, therefore, belong not to the class of producing or
+My short history of the universal Turing machine runs counter to this top-heavy
+tradition of reading Marx in the inverse. As a device, the Turing machine fuses
+control and communication--and in this case, control is meant as physical
+curcuit control, on the level of the mechanism (and not on the level of
+ideology or representation). Already in 1905, Murray writes that "if we
+disregard the small class of telegrams that merely express emotions, *the
+essence of telegraphy is control* [emphasis mine]." He goes on to write that
+"telegraph systems, therefore, belong not to the class of producing or
 distributing, but to the class of controlling mechanisms @murray_setting_1905,
 556]."
 
-A number of inventions at the end of the 19th century pertain to
-"circuit-controlling devices controlled by a traveling perforated strip or
-tape" (from US patent number 500226, filed Charles Cutriss in 1893
-[@cutriss1893]). Prior to perforated tape, the transmission of messages by
+A number of inventions at the end of the 19th century pertain specifically to
+the "circuit-controlling devices controlled by a traveling perforated strip or
+tape [@cutriss1893]." Prior to perforated tape, the transmission of messages by
 telegraph required the presence of a skilled operator, able to transcribe
 messages from text to Morse code, and into the physical motion of a
 lever-operated circuit. In this system, the human operator acted as a mute
@@ -1310,6 +1314,21 @@ became a system where the central signified, the original or transcendental
 signified, is never absolutely present outside a system of differences. The
 absence of the transcendental signified extends the domain and the interplay of
 signification ad infinitum" (278-294).
+
+[ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
 
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
