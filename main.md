@@ -1101,12 +1101,79 @@ moment, the invention of the universal machine should be viewed as a gradual
 historical process that culminates in Turing's universal (and minimally-viable)
 specifications.
 
-The central thesis of the history outlined hi
-The telegraph was already viewed a curcuit control mechanism.
-"If we disregard the small class of telegrams that merely express emotions, the
-essence of telegraphy is control [...] Telegraph systems, therefore, belong not
-to the class of producing or distributing, but to the class of controlling
-mechanisms @murray_setting_1905, 556]."
+When viewed in the context of literary, book, and text history (instead of
+history of mathematics), the universal Turing machine signifies a culmination
+of several broad, long-term trends, that begin with the invention of writing
+itself. Since much has been written on the first two of these periods, I will
+telegraph them briefly with the intention of concentrating on the third:
+
+1. The mechanization of type and the accompanying normalization of language
+that begins with the diffusion of movable type in China and Europe, circa 1040
+(China) and 1450 (Germany) [@needham_shorter_1994, 1-34; @he_diffusion_1994;
+@mcluhan_gutenberg_1962; @febvre_coming_2010]. With the invention of the
+movable type and the typewriter, the variability of hand-written script can be
+normalized to a limited set of discrete characters. The process of
+normalization continues today as contemporary technologies like natural
+language processing and optical character recognition struggle to bring
+non-regularized writing systems under the computational umbrella.
+
+2. The development of distant writing (telegraphy) and remote communications
+which, although extant in many early societies (as smoke and mirror signals,
+for example) accelerates dramatically at the beginning of the 19th century
+[@standage_victorian_2014; @shaffner_telegraph_1859; @beauchamp_history_2001].
+When combined with the mechanization of type, telegraphy amplifies the range
+and the speed of geographical displacement enabled by the circulation of
+printed matter. The telegraph further weakens the authorial function in
+transposing writing from its immediate physical environment across vast
+geographical distances. The telegraph lengthens the chain of technological
+mediation between author and reader. In the absence of the identifying "hand,"
+the telegraph clerk's and the censor's mark cannot be distinguished from the
+author's (a common literary plot device in the fiction of the period). The
+notion of a telegram's "fidelity" therefore becomes attribute of the
+communication channel as a whole (instead of an attribute attached to authorial
+intent).
+
+3. Finally, the rise of automation and programmable media in the late 19th and
+early 20th centuries. Programmable media, like punch cards and perforated tape,
+elevates print from a purely communication medium, to one of communication and
+device control. "Content" intended for humans is now routinely mixed with
+"control codes" intended to alter the operation of the receiving device.
+
+It is this last and still current moment of historical development that is
+least theorized. A dominant tradition in the history of the human sciences
+follows Louis Althusser and Michel Foucault (and to a lesser extent, Jacques
+Derrida)[^ln2-derr] in analyzing mechanisms of structure and control in terms
+of ideology, discourse, and representation. Where for Althusser "every science
+is a science of ideology,"[^ln2-alt] Foucault posits his archeology of the
+human sciences on the level of "positive unconscious," revealing unspoken
+"rules" that govern the formation of "theories, concepts, and objects of study"
+on the level of "scientific representation [@foucault_order_1994, xi]." 
+
+There are some theoretical niceties here: for example the concept of ideology,
+in the orthodox Marxist schema of things, exists as a "political superstructure
+[...] to which correspond definite forms of social consciousness." In the
+Marxist model, ideology floats *above* the material base--the dominant mode of
+production--that "determines the general character of the social the social,
+political and spiritual processes of life [@marx_contribution_1904, 11]."
+Althusser's influential contribution to this world view was to insist that
+ideology, although secondary to mode of production, nevertheless assures its
+continual reproduction as a means of control. Simply put, for Althusser, the
+ideological apparatus of the modern capitalist states ends up being "installed
+in the dominant [social] position [@althusser_lenin_2001, 85-127]." Similarly,
+Foucault envisions his "archaeological" layer to exist *beneath* the
+"epistemological level," where representation "governs the mode of being of
+language, individuals, nature, and need itself [@foucault_order_1994, 209].
+What was determined by now begins to determine. Strangely, the rhetorical move
+inverts Hegel yet again, to put Marx back on his head.^[ln2-flip]
+
+The history of the Turing machine, as I am 
+
+The central thesis of the history outlined hi The telegraph was already viewed
+a curcuit control mechanism.  "If we disregard the small class of telegrams
+that merely express emotions, the essence of telegraphy is control [...]
+Telegraph systems, therefore, belong not to the class of producing or
+distributing, but to the class of controlling mechanisms @murray_setting_1905,
+556]."
 
 A number of inventions at the end of the 19th century pertain to
 "circuit-controlling devices controlled by a traveling perforated strip or
@@ -1225,6 +1292,24 @@ established, in multiple works on the subject. It follows the Greek Diophantus,
 René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
+
+[ln2-alt]: "We have to think (in a completely novel way) the relation
+between a science and the ideology [...] the fact that such an investigation
+confronts us with the observation that every science, in the relationship it
+has with ideology it emerged from, can only be thought as a 'science of
+ideology, would disconcert us, were we not forewarned of the name of the
+*object* of knowledge, which can only exist in the form of ideology
+[@althusser_reproduction_2014, 46]."
+
+[ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
+like "ethnology-like any science-comes about within the element of discourse,"
+and "this moment was that in which language invaded the universal problematic;
+that in which, in the absence of a center or origin, everything became
+discourse-provided we can agree on this word-that is to say, when everything
+became a system where the central signified, the original or transcendental
+signified, is never absolutely present outside a system of differences. The
+absence of the transcendental signified extends the domain and the interplay of
+signification ad infinitum" (278-294).
 
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -1345,6 +1430,8 @@ human agency. Media determine our situation only to the extent that we continue
 to treat the everyday transformation of thought into pixel (and thereto into
 literary control systems that structure human experience) as mystical and
 mystifying black-box mechanism.
+
+Engineer vs. brick levi strauss?
 
 The real danger comes not from a metaphysical source, but from the superficial
 similarity of print and pixel. Where the pen or the typewriter inscribe the
