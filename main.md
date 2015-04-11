@@ -587,7 +587,7 @@ with the reported results.
 
 ### 2.3 Ghost in the Machine
 
-Why do we call some software application? Not until the 1960s did the coinage
+Why do we call some software, "application"? Not until the 1960s did the coinage
 "software application" enter the English language.[^ln2-app] Before that and
 well into the 1990s the far more common use of "application" was paired with
 "theory," as in "theory and application"--the two nouns occupying on the
@@ -603,8 +603,8 @@ field's boundaries?
 [^ln2-app]: In the New York Times archive, the phrase first appeared in 1985
 [@new_york_times_briefs_1984]. In the Google Books corpus the bigram appears
 first in *Astronautics & Aeronautics: A Publication of the American Institute
-of Aeronautics and Astronautics*, under the rubric of "Missile Guidance
-Systems Programming
+of Aeronautics and Astronautics*, under the rubric of "Missile Guidance Systems
+Programming
 [@american_institute_of_aeronautics_and_astronautics_astronautics_1965]."
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
@@ -1324,13 +1324,13 @@ closest possible reading.
 
 ### 2.6 Algorithm as Fetish
 
-I can only begin to work of re-inscribing the A more careful microanalysis of
-the textual condition in the passage between typewriters and personal
-computers, reveals plenty of space for human agency. Media determine our
-situation only to the extent that we continue to treat the everyday
-transformation of thought into pixel (and thereto into literary control systems
-that structure human experience) as mystical and mystifying black-box
-mechanism.
+I can only begin to work of re-inscribing the A more careful analysis of
+"microscopically written inscriptions" [@kittler_there_1995] in the in the
+passage between typewriters and personal computers, reveals plenty of space for
+human agency. Media determine our situation only to the extent that we continue
+to treat the everyday transformation of thought into pixel (and thereto into
+literary control systems that structure human experience) as mystical and
+mystifying black-box mechanism.
 
 The real danger comes not from a metaphysical source, but from the superficial
 similarity of print and pixel. Where the pen or the typewriter inscribe the
@@ -1406,6 +1406,8 @@ algorithm labor = contracts, agreements
 
 ## Chapter 3: Phenomenology of a Photocopier
 `content, matter, form`
+
+pdf as an image format
 
 ### 2.0 Abstract
 
@@ -2435,6 +2437,8 @@ interfaces.
 
 ### 5.3 Media Being
 
+Brinkley Messick The Calligraphic State.
+
 > Modern man finally drags a huge crowd of indigestible rocks of knowledge around
 with him, which then occasionally audibly bang around in his body, as it says
 in fairy tales. Through this noise the most characteristic property of this
@@ -3440,6 +3444,7 @@ http://arxiv.org/abs/1405.5563
  
 
 
+ Lessing's Laocoon!
 ## Chapter 6: Bad Links
 `network, intertext, hypertext, symbolic links`
 

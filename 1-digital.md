@@ -374,12 +374,19 @@ or indivisible, dense, or continuous), Katz ends with format imposed on matter
 from without: undifferentiated matter like cake is only analog until someone
 cuts it into pieces. Furthermore, the ontological status of cake changes
 depending on the person doing the cutting. The cake is more digital, in a
-sense, for someone armed with a laser cutter and a microscope. The conundrum
-reveals a problem in the very formulation of the question: What *is* digital
-representation? Under examination, the properties related to the digital-analog
-distinction cease constituting an ontological category. Rather than a state of
-being, they indicate a systematic imposition of structure. The more appropriate
-question then is: What *makes* for digital representation?
+sense, for someone armed with a laser cutter and a microscope. Similarly,
+painting is a perfectly digital visual art if we consider it at the scale of
+art gallery as a series of discrete, replaceable, and reproducible frames(!) of
+canvas.[^ln1-art]
+
+[^ln1-art]: Replaceble and reproducible in the sense that the art gallery
+perserveres through the loss or sale of individual art works.
+
+The conundrum reveals a problem in the very formulation of the question: What
+*is* digital representation? Under examination, the properties related to the
+digital-analog distinction cease constituting an ontological category. Rather
+than a state of being, they indicate a systematic imposition of structure. The
+more appropriate question then is: What *makes* for digital representation?
 
 From the instrumental point of view, to make something digital is to liberate
 representation from its medium. To digitize means also to allow for "copying
@@ -950,7 +957,7 @@ object are brought into what Uexküll calls harmony:
 
 > If the flower were not bee-like
 > If the bee were not flower-like
-> The harmony would never succeed [@uexkull_foray_2010, 198).
+> The harmony would never succeed [@uexkull_foray_2010, 198].
 
 Similarly, the pea and the pea weevil achieve harmony through "meaning
 transfer" between the pea and the weevil larvae, which allows the larvae to
