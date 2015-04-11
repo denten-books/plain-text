@@ -1181,8 +1181,8 @@ distributing, but to the class of controlling mechanisms @murray_setting_1905,
 556]."
 
 A number of inventions at the end of the 19th century pertain specifically to
-the "circuit-controlling devices controlled by a traveling perforated strip or
-tape [@cutriss1893]." Prior to perforated tape, the transmission of messages by
+"circuit-controlling devices controlled by a traveling perforated strip or tape
+[@cutriss1893]." Prior to perforated tape, the transmission of messages by
 telegraph required the presence of a skilled operator, able to transcribe
 messages from text to Morse code, and into the physical motion of a
 lever-operated circuit. In this system, the human operator acted as a mute
@@ -1192,8 +1192,8 @@ decoders. The perforated tape decoupled the human from the machine. In
 US1187035 (filed 1911, issued 1916) on "Telegraphy" Albert and Ralph Bumstead
 explain, "the object of our invention is to provide a system of telegraphy
 which does not require skilled operators for the transmission and reception of
-messages." Instead, the message was transcribed into perforation mechanical
-means and then fed into the device. The tape mechanics of the type writer could
+messages." Instead, the message was transcribed into perforation via mechanical
+means and then fed into the device. The tape mechanics of the typewriter could
 then be coupled with the electrics of the telegraph, with perforated tape as
 the mediator between the two "worlds." A number of devices emerged at the time
 with the aim of transforming mechanical action of the typewriter into
@@ -1202,56 +1202,61 @@ between automated "encoding" and "decoding". As one device converts human input
 into mechanical states, and into signal, another device converts the signal
 into mechanical states and into a human-legible messages.
 
-A flood of inventions appeared at the turn of the 20th century to capitalize on
-such decoupling. These include machines for tape-controlled telegraphic
-transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035, 1911-1916),
-tape-controlled printing (US985402, 1908-1911), printing telegraphs (US1721952,
-1928-1929), and remote broadcast programming or radio and television content
-(US1974062, 1932-1934; US2031074, 1931-1936). With the invention of punch cards
-and perforated tape (also used in Jacquard looms, as early as 1801), a message
-meant for another human became also a physical medium--bumps and holes--used to
-mechanical movement of the transmission apparatus. For example, of the 33
-asserted claims in the Bumstead brothers patent, the first 13 relate to the
-"transmission of intelligence [...] adapted to initiate a succession of
-electrical impulses all of which have a character representing significance, a
-receiver adapted to detect variations in time intervals elapsing between
-successive impulses, a plurality of interpreting relays selectively actuated by
-said receiver, and a printed mechanism responsive for the combined action
-[@bumstead1911, 12-13]." Up to this point, the patent describes a device for
-transmission information, from type to print. Starting with clause 14, the
-language changes to describe a more general "telegraph system," involving "an
-impulse transmitter having means to vary the time intervals between successive
-transmitted impulses, each time interval having a character representing
-significance, a receiver responsive to said devices, and signal, distributing,
-interpreting, and recording devices *responsive to the contiguous significant
-time intervals define by the impulses* [@bumstead1911, 14 (emphasis mine)]."
-For the automated telegraph the control code and the message are one: that is,
-the arrangement of perforation on the ticker tape affects the internal
-mechanical configuration of the machine. Another way to put this would be to
-say that the state of the tape-driven telegraph machine at any given time is
-also, in part, a message meant for the human recipient. The printing telegraph
-of Brothers Bumstead, along with their subsequents and antecedents contain all
-the necessary parts for a Turing machine: discrete symbolic language, removable
-storage medium, and a device that can alter its internal state based on the
-reading and writing passing symbols.
+A began as a trickle at the end of the 19th, ended in a flood at the beginhning
+of the 20th century. A multitude of devices capitalized control-capabilities of
+removable storage media. These included machines for tape-controlled
+telegraphic transmission (US158156, 1874-1874; US794242, 1905-1905; US1187035,
+1911-1916), tape-controlled printing (US985402, 1908-1911), printing telegraphs
+(US1721952, 1928-1929), and remote broadcast programming devices for radio and
+television content (US1974062, 1932-1934; US2031074, 1931-1936). With the
+invention of punch cards and perforated tape (also used in Jacquard looms, as
+early as 1801), a message meant for another human became also a physical
+medium--bumps and holes--used to mechanical movement of the transmission
+apparatus. For example, of the 33 asserted claims in the Bumstead brothers
+patent, the first 13 relate to the "transmission of intelligence [...] adapted
+to initiate a succession of electrical impulses all of which have a character
+representing significance, a receiver adapted to detect variations in time
+intervals elapsing between successive impulses, a plurality of interpreting
+relays selectively actuated by said receiver, and a printed mechanism
+responsive for the combined action [@bumstead1911, 12-13]." Up to this point,
+the patent describes a device for transmission information, from type to print.
+Starting with clause 14, the language changes to describe a more general
+"telegraph system," involving "an impulse transmitter having means to vary the
+time intervals between successive transmitted impulses, each time interval
+having a character representing significance, a receiver responsive to said
+devices, and signal, distributing, interpreting, and recording devices
+*responsive to the contiguous significant time intervals define by the
+impulses* [emphasis mine] [@bumstead1911, 14]." For the automated telegraph the
+control code and the message are one: that is, the arrangement of perforation
+on the ticker tape affects the internal mechanical configuration of the
+machine. Another way to put this would be to say that the state of the
+tape-driven telegraph machine at any given time is also, in part, a message
+meant for the human recipient. The printing telegraph of Brothers Bumstead,
+along with their subsequents and antecedents contain all the necessary parts
+for a Turing machine: discrete symbolic language, removable storage medium, and
+a device that can alter its internal state based on the reading and writing
+passing symbols.
 
 Where we began with mechanisms of direct inscription (like pens and
 typewriters) we end with machines that look like typewriters, but involve
 "control circuits" capable of distinguishing "significance" and of
 "interpretation." The telegraph signal that initially had one-to-one
-correspondence of output to the human input is now processing signals. Content
-intertwines with control. And the issue of who gets to control what comes to
-the fore right away. In US1165663, filed in 1911 and issued in 1915, Hyman
-Goldberg writes: "the object of the invention is to provide mechanism operable
-by a control sheet which is legible to every person having sufficient education
-to enable him to read." Goldberg invention involves a perforated "control
-sheet in which the control characters are in the form of ordinary language."
-Rather than using ticker tape, Goldberg's perforations form letters: the
-language of machines and the language of humans coincide. But it is not until
-much later, with the invention of higher level programming languages, that
-literature for humans and literature for machines would coincide on one and the
-same sheet. The early history of computing is punctuated by the ticker tape and
-the punch card as the preferred control and storage media of choice.
+correspondence of output to the human input is now "processing" signals.
+Content intertwines with control. And the issue of who gets to control what
+comes to the fore right away. In US1165663, filed in 1911 and issued in 1915,
+Hyman Goldberg writes: "the object of the invention is to provide mechanism
+operable by a control sheet which is legible to every person having sufficient
+education to enable him to read." Goldberg invention involves a perforated
+"control sheet in which the control characters are in the form of ordinary
+language." Rather than using ticker tape, Goldberg's perforations form letters:
+the language of machines and the language of humans coincide. But it is not
+until much later, with the invention of higher level programming languages,
+that literature for humans and literature for machines would coincide on one
+and the same sheet. The early history of computing is punctuated by the ticker
+tape and the punch card as the preferred control and storage media of choice.
+
+![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
+Concern with human comprehension. 
 
 With this history in mind, I am interested in reformulating the metaphysical
 anxiety about literature and value formation in terms of text and control. If
@@ -1259,14 +1264,14 @@ you are reading these words on a screen, my message has reached you through a
 long chain of transformations: from the mechanical action of my keyboard, to
 the arrangement of electrons on magnetic storage media, to the modulation of
 fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many,
-third parties were involved in that act of communication. And some part of
-that message was used to control the electrical circuits of the device in your
-lap, in your hand, near to your eye, embedded, or embodied. Close reading
-limited to the parsing of content risks missing the machinations of naked
-control. It looks like you are reading a book, but this book changes its
-internals as it receives instructions to inform and to control. For now I ask
-only who controls the device? But if the book is a pill or fused with the
-neural circuitry of the brain, do you know what you are reading?
+third parties were involved in that act of communication. And some part of that
+message was used to control the electrical circuits of the device in your lap,
+in your hand, near to your eye, embedded, or embodied. Close reading limited to
+the parsing of content and representation risks missing the machinations of
+naked circuit control. It looks like you are reading a book, but this book
+changes its internals as it receives instructions to inform and to control. For
+now I ask only who controls the device? But were a book also a pill or fused
+with the neural circuitry of the brain, would you know what you were reading?
 
 [ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -1329,116 +1334,6 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed upon
 its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
-
-### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
-
-PDF injection.
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally. 
-
-ASCII.
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
-pause between each transmitted character can vary in length. For this reason
-ITA-2 includes two extra bits for indicating "start" and stop" elements. The
-letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
-zeros represent the absence and the presence of current[@ITU1932,
-36].[^ln13-current]
-
-"You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
-invention relates to all controllers," Goldberg writes. "The object of the
-invention is to provide a mechanism operable by a control sheet which is
-legible to every person having sufficient education to enable him to read. To
-illustrate my invention, I produce a control sheet in which the control
-characters are in the form of the letters of the ordinary English alphabet
-[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
-clear that Goldberg, among others, was aware of the problem: the mechanization
-of type, automation, and remote control required specialized training. With the
-advent of the automated telegraph, content meant for people was now being
-intermixed with machine-controlling code. To combat mutual unintelligibility,
-Goldberg imagines using cards, perforated in the shape of the English alphabet.
-Besides carrying (human-readable) content, the perforations do "double duty" to
-mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
-and "plungers."
-
-![Goldberg's Control Cards (US Patent 165663)](images/control-2.png "@goldberg1911")
-Concern with human comprehension. 
-
-Related to secrecy.  Plain language and
-
-secret language (telegraph regulations 1932).  "Plain language is that which
-presents an intelligible meaning in one or more of the languages authorized for
-international telegraph correspondence, each word and each expression having
-the meaning normally assigned to it in the language to which it belongs"
-[@ITU1932, 12]. "Code language is composed either of artificial words, or of
-real words not used in the meaning normally assigned to them in the language to
-which they belong and consequently not forming intelligeble phrases" [@ITU1932,
-12].  TROFF
-
-Plain text in Unix. Human readability.
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
-We have now traveled from the pixel down to magnetic storage media and back
-from the storage media to the screen. The passage opens up space between
-visible content, media, and the imposed forms that govern any and all higher
-notions of literary activity "floating" above this nominally "digital" layer.
-Technology does not determine the literary space: it has only the potential to
-hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and transmediation. I say nothing
-yet of the potential necessity of such regulation. Under certain conditions, in
-the name of privacy, security, or property rights, it may become necessary to
-flatten out and to treat text as more of an analog, media-bound modality of
-communication, limited in its ability to move across minds and cultures. But,
-it is also in our broadly human, civic interest to keep such mechanisms of
-constraint visible to view, under continual scrutiny of critical, close, and
-closest possible reading.
-
 
 ### 2.6 Algorithm as Fetish
 
@@ -1524,10 +1419,8 @@ conceived, imagined, that confronts them as something foreign
 imagined commodity =
 algorithm labor = contracts, agreements
 
-## Chapter 3: Phenomenology of a Photocopier
+## Chapter 3: Politics of a Photocopier
 `content, matter, form`
-
-pdf as an image format
 
 ### 2.0 Abstract
 
@@ -1544,6 +1437,146 @@ thought and matter. A case study in extreme surface reading, in the bowels of a
 photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
+
+### Book / Gun Moreno
+
+"Robots have also the attribute in common of being able to affect human beings
+or other targets 'at a distance,' a book, a radio or a television sender can
+entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
+kill people and destroy at a distance. The book is a robot par excellence
+[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
+Sigmund Freud and one of the pioneers in sociology and group therapy.
+Computational sociologists may be familiar with Moreno's work as one of the
+early examples of network analysis. I want to take 
+
+![Moreno.](images/moreno.jpg)
+
+Telecommunications. At once remote and communal.
+
+Zoomatics -- the relationship of man to man and the relation of man "to certain
+peculiar products of his mind, which when separted from him, can fucntion
+independently." "Agression coming from robots." [@moreno_who_1953, 237] The
+first is sociometry. The second is "creative revolution." Robots = cultural
+conserves and machines. 238. "A book, a film, an atomic bomb, they do not
+perish in the human sense, the same capacity is always there, they can be
+reproduced ad infinitum. A maook may have to be reprinted, a film copied on
+andoff, but if anything perishes it is not their essence but some material
+entourage. oOur human world is increasingly filled with robots." 239
+
+A text is a special type of a gun. It can be reduced to textual description,
+transmitted, and manufactured cheaply. As the pendulum of textual scholarship
+swings back from treating text as pure idea, the materialists must acknowledge
+the aberrant specificity of textual material. Text routinely separates from its
+physical medium. The ability to change form is what gives it the ability to act
+at a distance. Gun as matter, shape, and idea.
+
+### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
+
+PDF injection. PDF as an image format.
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally. 
+
+ASCII.
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
+pause between each transmitted character can vary in length. For this reason
+ITA-2 includes two extra bits for indicating "start" and stop" elements. The
+letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
+zeros represent the absence and the presence of current[@ITU1932,
+36].[^ln13-current]
+
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@godberg1911, 1:9-19]." The invention never caught on, but the patent makes it
+clear that Goldberg, among others, was aware of the problem: the mechanization
+of type, automation, and remote control required specialized training. With the
+advent of the automated telegraph, content meant for people was now being
+intermixed with machine-controlling code. To combat mutual unintelligibility,
+Goldberg imagines using cards, perforated in the shape of the English alphabet.
+Besides carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
+and "plungers."
+
+
+Related to secrecy.  Plain language and
+
+secret language (telegraph regulations 1932).  "Plain language is that which
+presents an intelligible meaning in one or more of the languages authorized for
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@ITU1932, 12]. "Code language is composed either of artificial words, or of
+real words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligeble phrases" [@ITU1932,
+12].  TROFF
+
+Plain text in Unix. Human readability.
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
+
 
 ### Authenticity (problem of copies)
 
@@ -1642,8 +1675,8 @@ world there can be no distinction between works and texts. Unlike millions of
 reproduced Vermeers (which no doubt occupy this world in the form of postcards,
 posters, and photographs), text is text. It lies before us in glorious
 flatness, as thick as a sheet of paper. Paint layers. Paint layers.  Reading
-for depth vs. reading for surface. But what is depth. It is the the depth of
-dicourse, which attaches to the text in the process of interpretation.
+for depth vs. reading for surface. But what is depth. It is the depth of
+discourse, which attaches to the text in the process of interpretation.
 
 Text as I have already began to define it Chapter One, is a digital mode of
 representation, defined, at least in part, by a relative lack of "stickiness"
@@ -2185,12 +2218,6 @@ enforcement [@bbc4_counterfeiting_2013].
 
 
 
-### Dry Writing
-
-![First xerographic image, by Chester Carlson. Image from a news release by
-Xerox.](images/astoria.jpg)
-
-Fluid text.
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
@@ -2241,36 +2268,6 @@ art is medium bound. Digital abstracts from the material.
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to
 other pages [@fetterly2003]."
 
-### Book / Gun Moreno
-"Robots have also the attribute in common of being able to affect human beings
-or other targets 'at a distance,' a book, a radio or a television sender can
-entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
-kill people and destroy at a distance. The book is a robot par excellence
-[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
-Sigmund Freud and one of the pioneers in sociology and group therapy.
-Computational sociologists may be familiar with Moreno's work as one of the
-early examples of network analysis. I want to take 
-
-![Moreno.](images/moreno.jpg)
-
-Telecommunications. At once remote and communal.
-
-Zoomatics -- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separted from him, can fucntion
-independently." "Agression coming from robots." [@moreno_who_1953, 237] The
-first is sociometry. The second is "creative revolution." Robots = cultural
-conserves and machines. 238. "A book, a film, an atomic bomb, they do not
-perish in the human sense, the same capacity is always there, they can be
-reproduced ad infinitum. A maook may have to be reprinted, a film copied on
-andoff, but if anything perishes it is not their essence but some material
-entourage. oOur human world is increasingly filled with robots." 239
-
-A text is a special type of a gun. It can be reduced to textual description,
-transmitted, and manufactured cheaply. As the pendulum of textual scholarship
-swings back from treating text as pure idea, the materialists must acknowledge
-the aberrant specificity of textual material. Text routinely separates from its
-physical medium. The ability to change form is what gives it the ability to act
-at a distance. Gun as matter, shape, and idea.
 ### 5.1 First Tape
 
 Last Tape Beckett sets the stage for his 1958 Krapp's Last Tape on
