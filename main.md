@@ -2378,10 +2378,10 @@ discourse, or ideology. But the materialist answer is much simpler: pulp.
 Increasingly, it is also: glass, plastic, liquid crystal, copper, laminates,
 and silicone. Not much space separates ink from paper. There, textuality lies
 flat, in two dimensions. What you see is truly what you get. Not so on the
-screen. On the screen textuality extends into the third dimension, away from
-the reader and deep into the bowels of the machine. The Open Systems
-Interconnection (OSI) reference model of communication (drafted in 1978 as
-ISO/TC97/Sc17/N46 and adopted by the International Organization for
+screen connected to other screens. Networked textuality extends into the third
+dimension, away from the reader and deep into the bowels of the machine. The
+Open Systems Interconnection (OSI) reference model of communication (drafted in
+1978 as ISO/TC97/Sc17/N46 and adopted by the International Organization for
 Standardization in 1984, as ISO 7498) describes no less than seven layers: from
 the Application Layer, concerned with the semantics of application ("all
 services directly comprehensible to the user [@miller, 285] to the Physical
@@ -2397,7 +2397,8 @@ processes from differences in data representation [@day]," in a way that
 - Network Layer
 - Data Link Layer
 
-[@day, @miller, @ncs, @pietcowski] Get diagrams fom pietcowski.
+[@day, @miller, @ncs, @pietcowski] Get diagrams fom pietcowski. Quote Galloway
+here.
 
 
 Automated discourse gained opacity and depth in several stages: first, by
