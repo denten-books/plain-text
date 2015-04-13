@@ -640,8 +640,8 @@ art gallery as a series of discrete, replaceable, and reproducible frames(!) of
 canvas.[^ln1-art] Or, to put it another way, what does it mean to digitize text
 when text is already, by some definitions, a digital format?
 
-[^ln1-art]: Replaceble and reproducible in the sense that the art gallery
-perserveres through the loss or sale of individual art works.
+[^ln1-art]: Replaceable and reproducible in the sense that the art gallery
+perseveres through the loss or sale of individual art works.
 
 These conundrums reveal a problem in the very formulation of the question: What
 *is* digital representation? Under examination, the properties related to the
@@ -1315,7 +1315,7 @@ move beyond the boundaries of human perception. Attention to the material
 conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing and incongruent perceptual apparatus.
-Under these conditions, it would be a mistake to confjjjlate digital and discrete,
+Under these conditions, it would be a mistake to conflate digital and discrete,
 just as it would be a mistake reduce the human to the continuous. Homeostasis
 is found at some arbitrary point, contingently connected to human biology and
 to current technological capability. The question of "What constitutes a
@@ -1526,7 +1526,7 @@ difficult to find direct sources expressing the idea. For example, see John
 Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
 Conversation with Jacques Derrida*, "I often describe deconstruction as
 something which happens. It's not purely linguistic, involving text or books.
-You can de-construct gestures, choreography. That's why I enlarged the concept
+You can deconstruct gestures, choreography. That's why I enlarged the concept
 of text. Everything is a text [@caputo_deconstruction_1996]."
 
 The conventional way to understand Woolgar and Latour brings the interpreter
@@ -1558,7 +1558,7 @@ codes, into inscriptions, and into archives. Or to see the legal system as a
 process of literary discovery, were legions of attorneys and paralegals pore
 over terabytes of textual material, transforming inscription into evidence.
 That is not all these institutions are, but they are also that and there is
-much work to be done ther for a scholar of literature.
+much work to be done there for a scholar of literature.
 
 Such textual proliferation comes at a cost. Until recently, the bread and
 butter of literary scholarship has been close reading. Close reading, like
@@ -1576,7 +1576,7 @@ course of the text, which ultimately leads students to arrive at an
 understanding of the text as a whole [@parcc_parcc_2012, 7]." The general movement
 here is from "text" on the page to "work" (text as a whole, in the language of
 the report). The model of textuality implicit in the institutional project of
-close reading assumes an environment of recieved literary canons, naturally
+close reading assumes an environment of received literary canons, naturally
 accessible to the human intellect. For the duration of the "Gutenberg galaxy,"
 the age of print, a well-educated person might have been expected to
 internalize some several hundred or perhaps thousands major texts constituting
@@ -1654,10 +1654,10 @@ Microanalysis too constitutes a study of mediation, on the level of physical
 minutia otherwise not available to unaided human perception. The instruments of
 microanalysis may coincide with computational tools, designed to find hidden
 patters at scale. But such instruments might also include a screwdriver, a
-binding needle, or a sautering iron: sharp tools that serve to dispell the
-magic of opaque textual boxes.
+binding needle, or a soldering iron: sharp tools that serve to dispel the magic
+of opaque textual boxes.
 
-In the premodern model of literary transmission short physical distances
+In the pre-modern model of literary transmission short physical distances
 separated authors, texts, and readers. Were I to write these words in front of
 you, on paper, I would simply pass the page into your hands. In receiving this
 text, you could be fairly certain that no third party meddled in the process of
@@ -1666,10 +1666,10 @@ notions like "authorial intent" and "fidelity of the original," because the
 author and his work occupy contiguous space and time. The advent of cheap
 mechanical reproduction of print (for the sake of brevity let's say the
 printing press) has introduced a range of devices made to mediate between the
-author and the reader. Distance, time, and mediation subsuequently weakened all
+author and the reader. Distance, time, and mediation subsequently weakened all
 notions of fidelity and authorial intent. At the very least, we know that
 editorial practices, publishing markets, and communication technologies can
-introduce an unitended element of noise into the channel. At worst,
+introduce an unintended element of noise into the channel. At worst,
 long-distance, asynchronous communication is susceptible to "man-in-the-middle"
 attacks, by which the content of communication is maliciously altered by a
 third party [@needham_using_1978].
@@ -1708,7 +1708,7 @@ Why do we call some software, "application"? Not until the 1960s did the coinage
 well into the 1990s the far more common use of "application" was paired with
 "theory," as in "theory and application"--the two nouns occupying on the
 opposing side of the idea-practice continuum. Software, in the newer phrase,
-takes the place of theory--software applicatation being the practical
+takes the place of theory--software application being the practical
 implementation of code, a theoretical set of instructions. The application of
 what to what? A "text app" would surely often take "the human" as its
 grammatical object (as in "the entity that is acted upon
@@ -1861,11 +1861,11 @@ sold in preferred manner.
 Hampered by an artificially-limited field of activity, the study of literature
 so conceived excavates a small, sacred patch of ground at the tip of an immense
 textual iceberg. The results of that strenuous activity sink to join the mass
-of its submerged and unexcavated bottom. Texts multiply and produce other
+of its submerged and excavated bottom. Texts multiply and produce other
 texts: that's more or less the point of Roland Barthes's 250-page exegesis of a
 30 page short story by Honoré de Balzac. Despite my fond appreciation of
 Barthes as a scholar, I suspect that exponential growth and diminishing returns
-will eventually make (if not already have made) such relentlessly exegesic mode
+will eventually make (if not already have made) such relentlessly exegetic mode
 of scholarship unsustainable. There are, by my approximation, over 20,000
 monographs on Balzac,[^ln2-balzac] and at least as many scholarly articles on
 *S/Z*.[^ln2-barthes]. The value of each new "Barthes" and his associated
@@ -2372,22 +2372,40 @@ with the neural circuitry of the brain, would you know what you were reading?
 
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
-What lies beneath the text? We are accostomed to thinking about that question
+What lies beneath the text? We are accustomed to thinking about that question
 metaphorically and answer in accord: meaning, narrative, representation, order,
 discourse, or ideology. But the materialist answer is much simpler: pulp.
-Increasingly, it is also: glass, plastic, liquid crystial, copper, laminates,
+Increasingly, it is also: glass, plastic, liquid crystal, copper, laminates,
 and silicone. Not much space separates ink from paper. There, textuality lies
 flat, in two dimensions. What you see is truly what you get. Not so on the
 screen. On the screen textuality extends into the third dimension, away from
-the reader and deep into the bowles of the machine. The OSI standard of
-communicatoin adopted in 1963 contains no less than seven layers: from
-Application to the Physical. Between the two there are: Networking, Blah, and
-Blah layers. Theis complexity of this "automated discourse" developed in
-stages: first, removable storage medium, second magnetic, and third, CRT. I will
-provide three further snapshots that expand on the 
+the reader and deep into the bowels of the machine. The Open Systems
+Interconnection (OSI) reference model of communication (drafted in 1978 as
+ISO/TC97/Sc17/N46 and adopted by the International Organization for
+Standardization in 1984, as ISO 7498) describes no less than seven layers: from
+the Application Layer, concerned with the semantics of application ("all
+services directly comprehensible to the user [@miller, 285] to the Physical
+Layer, providing the "mechanical, electrical, functional, and procedural
+characteristics" of communication [@ncs]. Between these two, moving down from
+the Application layer, the OSI specifies:
 
-A. 
-"You must acknowledge that this is readable without special training," reads
+- Presentation Layer, whose job it is to provide "independence to application
+processes from differences in data representation [@day]," in a way that
+"preserves meaning, while resolving syntax differences" [@miller, 285].
+- Session Layer, Data Link Layer, N.  
+- Transport Layer,
+- Network Layer
+- Data Link Layer
+
+[@day, @miller, @ncs, @pietcowski] Get diagrams fom pietcowski.
+
+
+Automated discourse gained opacity and depth in several stages: first, by
+extending into removable storage medium, dmagnetic tape, and finally, behind
+the screen. I offer the following hisotrical snapshots that move us from the
+beginning of the 20th century to the present:
+
+A. **Removable storage media, 1725-1951**. "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
 invention relates to all controllers," Goldberg writes. "The object of the
 invention is to provide a mechanism operable by a control sheet which is
@@ -2414,12 +2432,12 @@ manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
 [@goldberg_controller_1915]."
 
 Early paper-based storage media, from Morse-code based ticker tape, to the
-telegraph codes of Hughes and Baudot, and to punchcards that powered
-weaving looms, player pianos, and census tabulators coupled a system of writing 
+telegraph codes of Hughes and Baudot, and to punchcards that powered weaving
+looms, player pianos, and census tabulators coupled a system of writing 
 
-B. 
+B. **Magnetic tape**, 1951-1972.
 
-C. CRT screen. The distance between magnetic storage and the CRT is arbitrary.
+C. **Screen**, 1972-today. The distance between magnetic storage and the CRT is arbitrary.
 The pipe can go deep. PDF MOTHERFUCKING INJECTION.
 
 In modern model. The application layer. pdf as an image format.
