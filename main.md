@@ -2447,6 +2447,10 @@ content and code as control.
 
 ### 2.6 Algorithm as Fetish
 
+Wendy Hui Kyong Chun
+On "Sourcery," or Code as Fetish. What could knowing software even mean, she
+asks.
+
 I can only begin to work of re-inscribing the A more careful analysis of
 "microscopically written inscriptions" [@kittler_there_1995] in the in the
 passage between typewriters and personal computers, reveals plenty of space for
