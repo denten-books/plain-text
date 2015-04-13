@@ -1,1 +1,1 @@
-pandoc --latex-engine=xelatex -So print/denten-pixel.pdf --filter pandoc-citeproc 2-pixel.md
+pandoc --latex-engine=xelatex --normalize --chapters -So print/denten-sample.pdf --filter pandoc-citeproc sample.md

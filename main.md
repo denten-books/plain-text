@@ -2,6 +2,10 @@
 title: "Plain Text: Poetics of Human-Computer Interaction"
 author: "Dennis Tenen"
 style: mla.csl
+bibliography: plain-text.bib
+fontsize: 11
+toc: true
+documentclass: book
 
 ---
 
@@ -1303,15 +1307,15 @@ holds no less magic.
 
 I return then to the subject of time, found throughout in the background of
 this chapter. The popular imagination of digital machines belies a deep sense
-of anxiety about the rhythm of the system as a whole, in which a human plays
-only a small part (as a bug operator, user, or a receiver). Telegraphs and
+of anxiety about the rhythm of the system as a whole, in which humans play only
+a small part (as bug operators, users, or a receivers). Telegraphs and
 subsequently computers force an atomization of experience into discrete bits,
 along with the opposite movement toward continuity fluid and rapid enough as to
 move beyond the boundaries of human perception. Attention to the material
 conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing and incongruent perceptual apparatus.
-Under these conditions, it would be a mistake to conflate digital and discrete,
+Under these conditions, it would be a mistake to confjjjlate digital and discrete,
 just as it would be a mistake reduce the human to the continuous. Homeostasis
 is found at some arbitrary point, contingently connected to human biology and
 to current technological capability. The question of "What constitutes a
@@ -1374,7 +1378,7 @@ rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
 
 ## Chapter 2: Literature Down to the Pixel
-`literature, content, value, control, algorithm, microanalysis`
+`literature, value, control, microanalysis`
 
 ### 2.0 Abstract
 
@@ -2134,7 +2138,7 @@ do brains end and minds begin? Similarly, at some imperceptible point software
 disappears into hardware. But before we ourselves get lost in that liminal
 space between matter and idea, let us recover a measure of oddity found in the
 now ubiquitous operation of Turing machines. First, note that Turing's original
-formulation happens at the level of a thought experiment.  (Turing does not
+formulation happens at the level of a thought experiment. (Turing does not
 begin to begin to build actual machines until his move to Princeton in 1936.) A
 universal Turing machine comes to life initially as an idea that can take on
 the structure of other ideas expressed symbolically. Second, note that though
@@ -2366,9 +2370,6 @@ changes its internals as it receives instructions to inform and to control. For
 now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what you were reading?
 
-## Chapter 3: Phenomenology of a Photocopier
-`content, matter, form`
-
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 "You must acknowledge that this is readable without special training," reads
@@ -2398,8 +2399,8 @@ manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
 [@goldberg_controller_1915]."
 
 Early paper-based storage media, from Morse-code based ticker tape, to the
-telegraph codes of Hughes and Baudot, and to punchcards that powered from
-weaving looms in the 18th century, and later helped tabulate the 
+telegraph codes of Hughes and Baudot, and to punchcards that powered
+weaving looms, player pianos, and census tabulators coupled a system of writing 
 
 1. Storage medium. 2. Magnetic. 3. CRT
 
@@ -2407,7 +2408,157 @@ In modern model. The application layer.
 
 PDF injection. PDF as an image format.
 
-### 2.0 Abstract
+
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
+as being "responsible for encoding bits onto a transmission medium, whether
+wires, fiber optics, or radio broadcast, in ways that maximize the transmission
+rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln2-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-alt]: "We have to think (in a completely novel way) the relation
+between a science and the ideology [...] the fact that such an investigation
+confronts us with the observation that every science, in the relationship it
+has with ideology it emerged from, can only be thought as a 'science of
+ideology, would disconcert us, were we not forewarned of the name of the
+*object* of knowledge, which can only exist in the form of ideology
+[@althusser_reproduction_2014, 46]."
+
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
+like "ethnology-like any science-comes about within the element of discourse,"
+and "this moment was that in which language invaded the universal problematic;
+that in which, in the absence of a center or origin, everything became
+discourse-provided we can agree on this word-that is to say, when everything
+became a system where the central signified, the original or transcendental
+signified, is never absolutely present outside a system of differences. The
+absence of the transcendental signified extends the domain and the interplay of
+signification ad infinitum" (278-294).
+
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
+### 2.6 Algorithm as Fetish
+
+I can only begin to work of re-inscribing the A more careful analysis of
+"microscopically written inscriptions" [@kittler_there_1995] in the in the
+passage between typewriters and personal computers, reveals plenty of space for
+human agency. Media determine our situation only to the extent that we continue
+to treat the everyday transformation of thought into pixel (and thereto into
+literary control systems that structure human experience) as mystical and
+mystifying black-box mechanism.
+
+Engineer vs. brick levi strauss?
+
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality.  In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
+
+Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
+of the tele-technology [@derrida_specters_2006, 213].
+
+Let me make my intentions visa vis Marx perfectly clear. I have no interest in
+mobilizing the entire weight of Marxist critique. A whole subset of Marxist
+terminology (dictatorship, proletariat, capital) falls outside of my purview
+here. Rather, I would like to co-opt Marx's discussion on the fetishism of
+commodities and import it, wholesale, to the conversation on algorithms. My
+interest lies in the humanism of Marx, whose thought, despite being perpetually
+out of time, continues to surprise with penetrating insight.
+
+"All these software mutations and 'new species' of software techniques are
+social in a sense that they don't simply come from individual minds or from some
+'essential' properties of a digital computer or network. They come from
+software developed by groups of people and marketed to large number of users
+[@manovich_there_2011, 272-273]."
+
+"An [algorithm] is therefore a mysterious thing, simply because in it the
+social character of men's [agreements] appears to them as an objective
+character stamped upon the product of those [agreements]." "There it is a
+definite social relation between men, that assumes, in their eyes, the
+fantastic form of a relation between things." "The relations connecting the
+[agreements] of one individual with that of the rest appear, not as direct
+social relations between individuals at work, but as what they really are,
+material relations between person and social relations between things."
+[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
+of the will, foresight and action of the producers.  To them, their own social
+action takes the form of the action of objects, which rule the producers
+instead of being ruled by them." To strip the "mystical veil," algorithms as
+contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
+automatism outside the head" .Necromancy.
+
+Hijack the whole conversation from the
+
+The subject is back. Unlike natural-language texts where meaning is derived in
+conversation between reader and author, algorithms and control codes have
+unambigious meaning, that ensure reliable reproduction. The environment is
+controlled. The codes are tested. The will is there!
+
+Derrida "If one follows the letter of the text, the critique of the ghost or of
+spirits would thus be the critique of a subjective representation and an
+abstraction, of what happens in the head, of what comes only out of the head,
+that is, of what stays there, in the head, even as it has come out of there,
+out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
+
+In religion people make their empirical world into an entity that is only
+conceived, imagined, that confronts them as something foreign
+[@marx_collected_1976, 159].
+
+imagined commodity =
+algorithm labor = contracts, agreements
+
+## Chapter 3: Phenomenology of a Photocopier
+`content, matter, form, formatting`
+
+### 3.0 Abstract
 
 The chapter builds on the history of character encoding to include two major
 standards underlying the contemporary encounter with digital text: ASCII and
@@ -2423,7 +2574,7 @@ photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
 
-### Book / Gun Moreno
+### 3.1 Book / Gun Moreno
 
 "Robots have also the attribute in common of being able to affect human beings
 or other targets 'at a distance,' a book, a radio or a television sender can
@@ -2431,12 +2582,6 @@ entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
 kill people and destroy at a distance. The book is a robot par excellence
 [@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
 Sigmund Freud and one of the pioneers in sociology and group therapy.
-Computational sociologists may be familiar with Moreno's work as one of the
-early examples of network analysis. I want to take 
-
-![Moreno.](images/moreno.jpg)
-
-Telecommunications. At once remote and communal.
 
 Zoomatics -- the relationship of man to man and the relation of man "to certain
 peculiar products of his mind, which when separted from him, can fucntion
@@ -2453,9 +2598,9 @@ transmitted, and manufactured cheaply. As the pendulum of textual scholarship
 swings back from treating text as pure idea, the materialists must acknowledge
 the aberrant specificity of textual material. Text routinely separates from its
 physical medium. The ability to change form is what gives it the ability to act
-at a distance. Gun as matter, shape, and idea.
+at a distance.
 
-### Authenticity (problem of copies)
+### 3.3. Authenticity (problem of copies)
 
 It is quite odd, if you think about it, to believe that objects somehow retain
 an aura or a trace of their history: "a handkerchief used by Princess Diana,"
@@ -2551,9 +2696,7 @@ speech. Where does that leave the practice of textual criticism? In such a
 world there can be no distinction between works and texts. Unlike millions of
 reproduced Vermeers (which no doubt occupy this world in the form of postcards,
 posters, and photographs), text is text. It lies before us in glorious
-flatness, as thick as a sheet of paper. Paint layers. Reading for depth vs.
-reading for surface. But what is depth. It is the depth of discourse, which
-attaches to the text in the process of interpretation.
+flatness, as thick as a sheet of paper.
 
 Text as I have already began to define it Chapter One, is a digital mode of
 representation, defined, at least in part, by a relative lack of "stickiness"
@@ -2572,7 +2715,7 @@ of the original. The originals have what Walter Benjamin called an "aura or
 authenticity." No amount of precision, down to the molecular level, could
 substitute for the historical patina of the original artifact.
 
-### Form and Content (hegel, plato, and surface reading)
+### 3.4 Form and Content (hegel, plato, and surface reading)
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -2720,7 +2863,6 @@ meccanico e la sensibilità numerica]
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
-
 
 The traditional dichotomy between form and content obscures the complexity of
 this dynamic. Formalism overloads the concept of form to bear functions of
@@ -2889,13 +3031,13 @@ The electro-photographic process at the basis of modern photocopying (invented
 in the 1930s, but with patents dating back to the middle of the 19th century)
 describes documents in terms of "electric charge patterns," "photoemissive
 layers," and "sheet surfaces [@carlson_electron_1940,
-@carlson_electrophotography_1942, @carlson_graphic_1953]." The photocopier is
-a device for total graphesis and extreme surface reading.[^ln11-ooo]. There is
-no word or content for the photocopier: only paper and image. The photocopier's
+@carlson_electrophotography_1942, @carlson_graphic_1953]." The photocopier is a
+device for total graphesis and extreme surface reading.[^ln11-ooo]. There is no
+word or content for the photocopier: only paper and image. The photocopier's
 "job", if you will, is to lift a picture from one page and to impress it into
-another. It does so by temporarily imaging text (as picture) onto
-a photo-sensitive drum. Ink powder sticks to the electrically charged surfaces
-of the drum in correspondence to the shapes on the page. The shapes are then
+another. It does so by temporarily imaging text (as picture) onto a
+photo-sensitive drum. Ink powder sticks to the electrically charged surfaces of
+the drum in correspondence to the shapes on the page. The shapes are then
 rolled onto a new page, re-inscribing the image into the new medium. The text
 is never immaterial. But for a moment it finds shape as an invisible electric
 charge. The transformation should not be reduced to some sort of mystical,
@@ -2909,27 +3051,17 @@ reproducing it once again into another medium. And like the photocopier, the
 process can be performed on a purely formal, visual level. In fact, the
 historical record is full of errors that suggest that pre-modern scribes wrote
 at widely varying levels of literacy [@goudsmit_illiterate_1974,
-@bucking_training_2007].[^ln11-literacy] In the Muslim tradition, the prophet Muhammad
-himself is sometimes called "the unlettered prophet," to emphasize fidelity and
-lack of mediation in the transcription of the message [@calder_ummi_1990,
-@gunther_muhammad_2002, 1-26]. In other words, the Qur'an claim to authenticity relies on
-the prophet's ability to copy the message "verbatim." On the conservative
-Muslim view, anything but a faithful transcription of the original text amounts
-to an interpretation, not self-identical to the letter of the text (a
-translation, for example) [@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
+@bucking_training_2007].[^ln11-literacy] In the Muslim tradition, the prophet
+Muhammad himself is sometimes called "the unlettered prophet," to emphasize
+fidelity and lack of mediation in the transcription of the message
+[@calder_ummi_1990, @gunther_muhammad_2002, 1-26]. In other words, the Qur'an
+claim to authenticity relies on the prophet's ability to copy the message
+"verbatim." On the conservative Muslim view, anything but a faithful
+transcription of the original text amounts to an interpretation, not
+self-identical to the letter of the text (a translation, for example)
+[@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
 
-### Copy Text (textual criticism)
-
-My short history of the distinction between form and content is necessarily
-reductive. The situation on the ground was and continues to be more nuanced
-than the dichotomy would suggest, with a number of reasonable positions between
-extreme idealism and extreme materialism. It is enough however to give a sense
-of what's at stake: not just a dry academic debate about the nature of art,
-but the very capability of art (and don't necessarily think "high art" here) to
-transform humanity. For Hegel, true art reaches for truth beyond visible forms,
-transcending the deterministic material universe. The early formalists rejected
-Hegel, emphasizing instead the text's outward formal properties as "devices"
-capable of revitalizing stale metaphors and ossified ways of thinking.
+### 3.5 Copy Text (textual criticism)
 
 The division of text into form and content makes a difference in more
 utilitarian ways as well. For example, imagine the challenge of compiling all
@@ -2990,9 +3122,7 @@ reading or listening to receive a message from the past entails the effort to
 discover, through the text (or texts) one is presented with, the work that lies
 behind [@tanselle_rationale_2010, 13-18.]."
 
-
-
-### Surface Cleaning (preservation and restoration)
+### 3.6 Surface Cleaning (preservation and restoration)
 
 Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
 William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
@@ -4777,152 +4907,6 @@ Rather, the design of complex systems must itself become critical practice,
 which, in complement to critical theory, can actively engineer for textual
 mechanisms that make individual dissent possible.
 
-### 2.6 Algorithm as Fetish
-
-I can only begin to work of re-inscribing the A more careful analysis of
-"microscopically written inscriptions" [@kittler_there_1995] in the in the
-passage between typewriters and personal computers, reveals plenty of space for
-human agency. Media determine our situation only to the extent that we continue
-to treat the everyday transformation of thought into pixel (and thereto into
-literary control systems that structure human experience) as mystical and
-mystifying black-box mechanism.
-
-Engineer vs. brick levi strauss?
-
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality.  In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
-
-Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
-of the tele-technology [@derrida_specters_2006, 213].
-
-Let me make my intentions visa vis Marx perfectly clear. I have no interest in
-mobilizing the entire weight of Marxist critique. A whole subset of Marxist
-terminology (dictatorship, proletariat, capital) falls outside of my purview
-here. Rather, I would like to co-opt Marx's discussion on the fetishism of
-commodities and import it, wholesale, to the conversation on algorithms. My
-interest lies in the humanism of Marx, whose thought, despite being perpetually
-out of time, continues to surprise with penetrating insight.
-
-"All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual minds or from some
-'essential' properties of a digital computer or network. They come from
-software developed by groups of people and marketed to large number of users
-[@manovich_there_2011, 272-273]."
-
-"An [algorithm] is therefore a mysterious thing, simply because in it the
-social character of men's [agreements] appears to them as an objective
-character stamped upon the product of those [agreements]." "There it is a
-definite social relation between men, that assumes, in their eyes, the
-fantastic form of a relation between things." "The relations connecting the
-[agreements] of one individual with that of the rest appear, not as direct
-social relations between individuals at work, but as what they really are,
-material relations between person and social relations between things."
-[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
-of the will, foresight and action of the producers.  To them, their own social
-action takes the form of the action of objects, which rule the producers
-instead of being ruled by them." To strip the "mystical veil," algorithms as
-contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
-automatism outside the head" .Necromancy.
-
-Hijack the whole conversation from the
-
-The subject is back. Unlike natural-language texts where meaning is derived in
-conversation between reader and author, algorithms and control codes have
-unambigious meaning, that ensure reliable reproduction. The environment is
-controlled. The codes are tested. The will is there!
-
-Derrida "If one follows the letter of the text, the critique of the ghost or of
-spirits would thus be the critique of a subjective representation and an
-abstraction, of what happens in the head, of what comes only out of the head,
-that is, of what stays there, in the head, even as it has come out of there,
-out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
-
-In religion people make their empirical world into an entity that is only
-conceived, imagined, that confronts them as something foreign
-[@marx_collected_1976, 159].
-
-imagined commodity =
-algorithm labor = contracts, agreements
-
-[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
-
-[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
-communication, the top-most layer of protocols and interface method is called
-the "application layer" and the bottom-most layer the "physical layer
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
-as being "responsible for encoding bits onto a transmission medium, whether
-wires, fiber optics, or radio broadcast, in ways that maximize the transmission
-rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
-
-[^ln2-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
-
-[^ln2-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
-
-[^ln2-alt]: "We have to think (in a completely novel way) the relation
-between a science and the ideology [...] the fact that such an investigation
-confronts us with the observation that every science, in the relationship it
-has with ideology it emerged from, can only be thought as a 'science of
-ideology, would disconcert us, were we not forewarned of the name of the
-*object* of knowledge, which can only exist in the form of ideology
-[@althusser_reproduction_2014, 46]."
-
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
-like "ethnology-like any science-comes about within the element of discourse,"
-and "this moment was that in which language invaded the universal problematic;
-that in which, in the absence of a center or origin, everything became
-discourse-provided we can agree on this word-that is to say, when everything
-became a system where the central signified, the original or transcendental
-signified, is never absolutely present outside a system of differences. The
-absence of the transcendental signified extends the domain and the interplay of
-signification ad infinitum" (278-294).
-
-[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
-flipping Hegel, who prioritized the transcendent spiritual over the physical
-and material forms of life, over "back to his feet." See for example
-@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
-a table out of it. Yet, for all that, the table continues to be that common,
-every-day thing, wood. But, so soon as it steps forth as a commodity, it is
-changes into something transcendent. It not only stands with its feed on the
-ground, but, in relation to all other commodities, it stands on its head, and
-evolves out of its wooden brain grotesque ideas, far more wonderful than
-'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
-dialectic of the concept itself became merely the conscious reflex of the
-dialectical motion of the real world and the dialectic of Hegel was placed upon
-its head; or rather, turned off its head, on which it was standing before, and
-placed on its feet again" (44).
 ### 7.1 ITU
 
 Related to secrecy.  Plain language and Secret language (telegraph regulations
