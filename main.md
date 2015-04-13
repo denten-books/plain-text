@@ -2372,6 +2372,21 @@ with the neural circuitry of the brain, would you know what you were reading?
 
 ### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
+What lies beneath the text? We are accostomed to thinking about that question
+metaphorically and answer in accord: meaning, narrative, representation, order,
+discourse, or ideology. But the materialist answer is much simpler: pulp.
+Increasingly, it is also: glass, plastic, liquid crystial, copper, laminates,
+and silicone. Not much space separates ink from paper. There, textuality lies
+flat, in two dimensions. What you see is truly what you get. Not so on the
+screen. On the screen textuality extends into the third dimension, away from
+the reader and deep into the bowles of the machine. The OSI standard of
+communicatoin adopted in 1963 contains no less than seven layers: from
+Application to the Physical. Between the two there are: Networking, Blah, and
+Blah layers. Theis complexity of this "automated discourse" developed in
+stages: first, removable storage medium, second magnetic, and third, CRT. I will
+provide three further snapshots that expand on the 
+
+A. 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
 invention relates to all controllers," Goldberg writes. "The object of the
@@ -2402,12 +2417,98 @@ Early paper-based storage media, from Morse-code based ticker tape, to the
 telegraph codes of Hughes and Baudot, and to punchcards that powered
 weaving looms, player pianos, and census tabulators coupled a system of writing 
 
-1. Storage medium. 2. Magnetic. 3. CRT
+B. 
 
-In modern model. The application layer.
+C. CRT screen. The distance between magnetic storage and the CRT is arbitrary.
+The pipe can go deep. PDF MOTHERFUCKING INJECTION.
 
-PDF injection. PDF as an image format.
+In modern model. The application layer. pdf as an image format.
 
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality.  In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
+
+### 2.6 Algorithm as Fetish
+
+I can only begin to work of re-inscribing the A more careful analysis of
+"microscopically written inscriptions" [@kittler_there_1995] in the in the
+passage between typewriters and personal computers, reveals plenty of space for
+human agency. Media determine our situation only to the extent that we continue
+to treat the everyday transformation of thought into pixel (and thereto into
+literary control systems that structure human experience) as mystical and
+mystifying black-box mechanism.
+
+Engineer vs. brick levi strauss?
+
+
+Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
+of the tele-technology [@derrida_specters_2006, 213].
+
+Let me make my intentions visa vis Marx perfectly clear. I have no interest in
+mobilizing the entire weight of Marxist critique. A whole subset of Marxist
+terminology (dictatorship, proletariat, capital) falls outside of my purview
+here. Rather, I would like to co-opt Marx's discussion on the fetishism of
+commodities and import it, wholesale, to the conversation on algorithms. My
+interest lies in the humanism of Marx, whose thought, despite being perpetually
+out of time, continues to surprise with penetrating insight.
+
+"All these software mutations and 'new species' of software techniques are
+social in a sense that they don't simply come from individual minds or from some
+'essential' properties of a digital computer or network. They come from
+software developed by groups of people and marketed to large number of users
+[@manovich_there_2011, 272-273]."
+
+"An [algorithm] is therefore a mysterious thing, simply because in it the
+social character of men's [agreements] appears to them as an objective
+character stamped upon the product of those [agreements]." "There it is a
+definite social relation between men, that assumes, in their eyes, the
+fantastic form of a relation between things." "The relations connecting the
+[agreements] of one individual with that of the rest appear, not as direct
+social relations between individuals at work, but as what they really are,
+material relations between person and social relations between things."
+[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
+of the will, foresight and action of the producers.  To them, their own social
+action takes the form of the action of objects, which rule the producers
+instead of being ruled by them." To strip the "mystical veil," algorithms as
+contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
+automatism outside the head" .Necromancy.
+
+Hijack the whole conversation from the
+
+The subject is back. Unlike natural-language texts where meaning is derived in
+conversation between reader and author, algorithms and control codes have
+unambigious meaning, that ensure reliable reproduction. The environment is
+controlled. The codes are tested. The will is there!
+
+Derrida "If one follows the letter of the text, the critique of the ghost or of
+spirits would thus be the critique of a subjective representation and an
+abstraction, of what happens in the head, of what comes only out of the head,
+that is, of what stays there, in the head, even as it has come out of there,
+out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
+
+In religion people make their empirical world into an entity that is only
+conceived, imagined, that confronts them as something foreign
+[@marx_collected_1976, 159].
+
+imagined commodity =
+algorithm labor = contracts, agreements
 
 [^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -2470,90 +2571,6 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed upon
 its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
-### 2.6 Algorithm as Fetish
-
-I can only begin to work of re-inscribing the A more careful analysis of
-"microscopically written inscriptions" [@kittler_there_1995] in the in the
-passage between typewriters and personal computers, reveals plenty of space for
-human agency. Media determine our situation only to the extent that we continue
-to treat the everyday transformation of thought into pixel (and thereto into
-literary control systems that structure human experience) as mystical and
-mystifying black-box mechanism.
-
-Engineer vs. brick levi strauss?
-
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality.  In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
-
-Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
-of the tele-technology [@derrida_specters_2006, 213].
-
-Let me make my intentions visa vis Marx perfectly clear. I have no interest in
-mobilizing the entire weight of Marxist critique. A whole subset of Marxist
-terminology (dictatorship, proletariat, capital) falls outside of my purview
-here. Rather, I would like to co-opt Marx's discussion on the fetishism of
-commodities and import it, wholesale, to the conversation on algorithms. My
-interest lies in the humanism of Marx, whose thought, despite being perpetually
-out of time, continues to surprise with penetrating insight.
-
-"All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual minds or from some
-'essential' properties of a digital computer or network. They come from
-software developed by groups of people and marketed to large number of users
-[@manovich_there_2011, 272-273]."
-
-"An [algorithm] is therefore a mysterious thing, simply because in it the
-social character of men's [agreements] appears to them as an objective
-character stamped upon the product of those [agreements]." "There it is a
-definite social relation between men, that assumes, in their eyes, the
-fantastic form of a relation between things." "The relations connecting the
-[agreements] of one individual with that of the rest appear, not as direct
-social relations between individuals at work, but as what they really are,
-material relations between person and social relations between things."
-[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
-of the will, foresight and action of the producers.  To them, their own social
-action takes the form of the action of objects, which rule the producers
-instead of being ruled by them." To strip the "mystical veil," algorithms as
-contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
-automatism outside the head" .Necromancy.
-
-Hijack the whole conversation from the
-
-The subject is back. Unlike natural-language texts where meaning is derived in
-conversation between reader and author, algorithms and control codes have
-unambigious meaning, that ensure reliable reproduction. The environment is
-controlled. The codes are tested. The will is there!
-
-Derrida "If one follows the letter of the text, the critique of the ghost or of
-spirits would thus be the critique of a subjective representation and an
-abstraction, of what happens in the head, of what comes only out of the head,
-that is, of what stays there, in the head, even as it has come out of there,
-out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
-
-In religion people make their empirical world into an entity that is only
-conceived, imagined, that confronts them as something foreign
-[@marx_collected_1976, 159].
-
-imagined commodity =
-algorithm labor = contracts, agreements
 
 ## Chapter 3: Phenomenology of a Photocopier
 `content, matter, form, formatting`
