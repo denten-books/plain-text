@@ -2068,9 +2068,6 @@ conundrum. On towards Marx then, through the machine that, although intimately
 familiar to every writer and consumer of text by touch, remains alien and
 alienating in its hidden possibilities, soothing and threatening all at once.
 
-, with the hopes of locating a sense of human
-agency, however circumscribed by the affordances of the system. 
-
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the typewriter
 and the calculator. In his seminal 1937 paper "On Computable Numbers," Alan
@@ -2377,7 +2374,52 @@ now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
-### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
+## Chapter 3: Reading Surfaces
+`content, matter, form, formatting`
+
+### 3.0 Abstract
+
+The chapter builds on the history of character encoding to include two major
+standards underlying the contemporary encounter with digital text: ASCII and
+Unicode. I approach the subject through the confused history of the distinction
+between form and content: two theoretical concepts crucial to understanding the
+distinction between binary and plain text. In the theoretical discussion, I
+find that going back to Plato and Hegel, "form" is at times used to indicate
+physical structure, and, at other times, to indicate immaterial categories in
+the ideal realm. A critical treatment of a more contemporary conversation about
+"surface" and "depth" of meaning reveals "form" as a mediating concept between
+thought and matter. A case study in extreme surface reading, in the bowels of a
+photocopier, opens a way to the distinction between print (where matter, form,
+and content lie flat) and screen (where the three layers come apart, providing
+only the illusion of flattened textuality).
+
+### 3.1 Book / Gun Moreno
+
+"Robots have also the attribute in common of being able to affect human beings
+or other targets 'at a distance,' a book, a radio or a television sender can
+entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
+kill people and destroy at a distance. The book is a robot par excellence
+[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
+Sigmund Freud and one of the pioneers in sociology and group therapy.
+
+Zoomatics --- the relationship of man to man and the relation of man "to certain
+peculiar products of his mind, which when separted from him, can fucntion
+independently." "Agression coming from robots." [@moreno_who_1953, 237] The
+first is sociometry. The second is "creative revolution." Robots = cultural
+conserves and machines. 238. "A book, a film, an atomic bomb, they do not
+perish in the human sense, the same capacity is always there, they can be
+reproduced ad infinitum. A book may have to be reprinted, a film copied on
+and off, but if anything perishes it is not their essence but some material
+entourage. Our human world is increasingly filled with robots." 239
+
+A text is a special type of a gun. It can be reduced to textual description,
+transmitted, and manufactured cheaply. As the pendulum of textual scholarship
+swings back from treating text as pure idea, the materialists must acknowledge
+the aberrant specificity of textual material. Text routinely separates from its
+physical medium. The ability to change form is what gives it the ability to act
+at a distance.
+
+### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
 What lies beneath the text? We are accustomed to thinking about that question
 metaphorically and answer in accord: meaning, narrative, representation, order,
@@ -2469,7 +2511,7 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
 
-#### B: Magnetic tape, 1888-1972.
+#### B: Magnetic tape, 1888-1968.
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
@@ -2520,20 +2562,32 @@ a 7-bit cypher, but it was longer recoverable by the naked eye, without a
 specialized device. Magnetic storage, widely used in all contemporary devices,
 remains, for all unassisted intents and purposes, a black slate.
 
-#### C: Screen, 1972-today.
+#### C: Screen, 1968-today.
 
 By decoupling input and output, magnetic storage media has injected an
 arbitrary amount of time and space between the process of inscription and
-comprehension. Content, coupled with control code, sunk beneath the matte
-surface of the electrical charge. The final movement in the emergence of
-automated discourse reintroduced the illusion of immediacy into the process of
+comprehension. Content, coupled with control code, has sunk beneath the matte
+surface of electrical charge. The final movement in the emergence of automated
+discourse reintroduced the illusion of immediacy into the process of
 inscription.
 
-In 1972, Stephen Bernard Dorsey, founder and president of Automatic Electronic
-Systems ), introduced the world’s first programmable word processor with a
-video screen In modern model. The application layer. pdf as an image format.
+I propose 1968 as the year in which automated discourse takes its final form.
+December 9th, 1968 Douglas Engelbart, then already a Principle Ivestigator at
+the ARPA-funded Augmentation Research Center lab at the Stanfdord Researh
+Intitute, gave 1
 
-Three mechanisms: Goldberg's "Controller," the  AES-90, and IBM's MT/ST.
+appeared on stage at the Fall Joint
+Computer Conference in San Francisco to give
+
+In "For presenting computer-stored information to the human, techniques have been
+developed by which a cathode-ray-tube (of which the television picture tube is
+a familiar example) can be made to present symbols on their screens of quite
+good brightness, clarity, and with considerable freedom as to the form of the
+symbol.
+
+"automated discourse takes command."
+
+Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
@@ -2560,7 +2614,63 @@ literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
 content and code as control.
 
-### 2.6 Algorithm as Fetish
+IBM Format
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
+pause between each transmitted character can vary in length. For this reason
+ITA-2 includes two extra bits for indicating "start" and stop" elements. The
+letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
+zeros represent the absence and the presence of current[@ITU1932, 36].
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally.
+
+ASCII.
+Plain text in Unix. Human readability. TROFF.
+
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+### 3.3 Algorithm as Fetish
 
 Wendy Hui Kyong Chun
 On "Sourcery," or Code as Fetish. What could knowing software even mean, she
@@ -2691,52 +2801,7 @@ dialectical motion of the real world and the dialectic of Hegel was placed upon
 its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
 
-## Chapter 3: Phenomenology of a Photocopier
-`content, matter, form, formatting`
-
-### 3.0 Abstract
-
-The chapter builds on the history of character encoding to include two major
-standards underlying the contemporary encounter with digital text: ASCII and
-Unicode. I approach the subject through the confused history of the distinction
-between form and content: two theoretical concepts crucial to understanding the
-distinction between binary and plain text. In the theoretical discussion, I
-find that going back to Plato and Hegel, "form" is at times used to indicate
-physical structure, and, at other times, to indicate immaterial categories in
-the ideal realm. A critical treatment of a more contemporary conversation about
-"surface" and "depth" of meaning reveals "form" as a mediating concept between
-thought and matter. A case study in extreme surface reading, in the bowels of a
-photocopier, opens a way to the distinction between print (where matter, form,
-and content lie flat) and screen (where the three layers come apart, providing
-only the illusion of flattened textuality).
-
-### 3.1 Book / Gun Moreno
-
-"Robots have also the attribute in common of being able to affect human beings
-or other targets 'at a distance,' a book, a radio or a television sender can
-entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
-kill people and destroy at a distance. The book is a robot par excellence
-[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
-Sigmund Freud and one of the pioneers in sociology and group therapy.
-
-Zoomatics --- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separted from him, can fucntion
-independently." "Agression coming from robots." [@moreno_who_1953, 237] The
-first is sociometry. The second is "creative revolution." Robots = cultural
-conserves and machines. 238. "A book, a film, an atomic bomb, they do not
-perish in the human sense, the same capacity is always there, they can be
-reproduced ad infinitum. A book may have to be reprinted, a film copied on
-and off, but if anything perishes it is not their essence but some material
-entourage. Our human world is increasingly filled with robots." 239
-
-A text is a special type of a gun. It can be reduced to textual description,
-transmitted, and manufactured cheaply. As the pendulum of textual scholarship
-swings back from treating text as pure idea, the materialists must acknowledge
-the aberrant specificity of textual material. Text routinely separates from its
-physical medium. The ability to change form is what gives it the ability to act
-at a distance.
-
-### 3.3. Authenticity (problem of copies)
+### 3.4 Authenticity (problem of copies)
 
 It is quite odd, if you think about it, to believe that objects somehow retain
 an aura or a trace of their history: "a handkerchief used by Princess Diana,"
@@ -2851,7 +2916,7 @@ of the original. The originals have what Walter Benjamin called an "aura or
 authenticity." No amount of precision, down to the molecular level, could
 substitute for the historical patina of the original artifact.
 
-### 3.4 Form and Content (hegel, plato, and surface reading)
+### 3.5 Form and Content (hegel, plato, and surface reading)
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -3197,7 +3262,7 @@ transcription of the original text amounts to an interpretation, not
 self-identical to the letter of the text (a translation, for example)
 [@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
 
-### 3.5 Copy Text (textual criticism)
+### 3.6 Copy Text (textual criticism)
 
 The division of text into form and content makes a difference in more
 utilitarian ways as well. For example, imagine the challenge of compiling all
@@ -3257,8 +3322,6 @@ of the ideal.
 reading or listening to receive a message from the past entails the effort to
 discover, through the text (or texts) one is presented with, the work that lies
 behind [@tanselle_rationale_2010, 13-18.]."
-
-### 3.6 Surface Cleaning (preservation and restoration)
 
 Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
 William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
@@ -3361,67 +3424,6 @@ Organization, who deplores the industry's lack of cooperation with law
 enforcement [@bbc4_counterfeiting_2013].
 
 
-
-
-### Unix formatting
-
-IBM Format
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
-pause between each transmitted character can vary in length. For this reason
-ITA-2 includes two extra bits for indicating "start" and stop" elements. The
-letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
-zeros represent the absence and the presence of current[@ITU1932, 36].
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally.
-
-ASCII.
-Plain text in Unix. Human readability. TROFF.
-
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-### Conclusion
 
 We have now traveled from the pixel down to magnetic storage media and back
 from the storage media to the screen. The passage opens up space between
