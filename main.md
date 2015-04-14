@@ -2423,7 +2423,7 @@ by coupling content and control on the surface of removable paper storage media
 (ticker tape and punch cards); second, in removing inscription from view onto
 magnetic tape; and, finally, by extending the channel between magnetic storage
 media and the screen to an arbitrary length. I offer the following historical
-snapshots and examplary devlces as illustrations that move us roughly from tail
+snapshots and exemplary devices as illustrations that move us roughly from tail
 end of the Gutenberg galaxy into the present age:
 
 #### Removable storage media and automation, 1725-1964.[ln2-loom]
@@ -2464,7 +2464,7 @@ using cards, perforated in the shape of the English alphabet. Besides carrying
 manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
 [@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
 based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
-punchcards that powered weaving looms, player pianos, and census tabulators
+punch-cards that powered weaving looms, player pianos, and census tabulators
 coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
@@ -2477,8 +2477,8 @@ an influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
 same effect. But what makes software ephemeral?  Embossed onto ticker tape or
 card, early software protrudes through the medium. In the age of the telegraph,
-the largest barrier to comprehension of software is encoding. Eearly
-programmable media are burdonsome, fragile, unwieldy, and most of all, visible.
+the largest barrier to comprehension of software is encoding. Early
+programmable media are burdensome, fragile, unwieldy, and most of all, visible.
 
 !["Magnetic card (c. 1980) as used in the IBM MC Selectric typewriter and IBM
 MC Selectric Composer. Compatible products were available from Memorex and
@@ -2488,14 +2488,34 @@ Version 1.2.](images/ibm-card.jpg)
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), the American Engineer who also filed several inventions related to
 weaving looms at the end of the 19th century. In 1988, inspired by Edison's
-mechanichal phonograph, Smith made public his experiments with an "electrical
-method" of sound regording using a "magnetized cord" (cotton mixed with
+mechanical phonograph, Smith made public his experiments with an "electrical
+method" of sound recording using a "magnetized cord" (cotton mixed with
 hardened steel dust) as a recording medium. These experiments were later put
 into practice by Valdemar Poulsen of Denmark, who patented several influential
 designs for a magnetic wire recorder [@smith_possible_1888;
 @poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
 @engel_1888-1988_1988; @thiele_magnetic_1988].
 
+In 1964, IBM combined magnetic tape storage with its *Selectric* line of
+electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
+typewriters to the mass market. Writing for the *Encyclopedia of Library and
+Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
+first word processors, defined by the ability to record strokes and to print
+them onto paper *as a separate operation* [@eisenberg_word_1992]. The
+separation of input and output allows for processing as such. An article in the
+*IBM Journal for Research and Development* explains that the real significance
+of the MT/ST workstation was in the introduction of new "power typing"
+technologies: "For the first time the typist at 'rough draft' speed, 'backspace
+and strike over' errors, and not worry about the pressure of mistakes made at
+the end of the page [@may_ibm_1981, 742]."
+
+We may think of word processing as a temporal extension of the page. Words on
+magnetic storage medium begin to exist in the ephemeral state, giving the
+typist an opportunity to edit and emend *before* committing to paper, in their
+immutable form. The very rise of word processing thus correspond to the
+invention of ephemeral text. What was visible through the hole punch on ticker
+tape, was now submerged into tape. The tape no longer afforded human
+legibility. It remains, for all intents and purposes, a black slate.
 
 
 #### **Screen**, 1972-today.
