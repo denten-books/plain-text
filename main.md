@@ -2459,9 +2459,10 @@ Tape/Selectric Typewriter in 1964.
 
 B. **Magnetic tape**, 1890-1972. 
 
-!["Magnetic card (c. 1980) as used in the IBM MC Selectric typewriter and IBM MC
-Selectric Composer. Compatible products were available from Memorex and Scotch
-(3M)."
+!["Magnetic card (c. 1980) as used in the IBM MC Selectric typewriter and IBM
+MC Selectric Composer. Compatible products were available from Memorex and
+Scotch (3M)." Image by Pointillist under GNU Free Documentation License,
+Version 1.2.](images/
 
 C. **Screen**, 1972-today. The distance between magnetic storage and the CRT is
 arbitrary.  The pipe can go deep. PDF MOTHERFUCKING INJECTION.  In 1972,
