@@ -121,3 +121,9 @@ transform humanity. For Hegel, true art reaches for truth beyond visible forms,
 transcending the deterministic material universe. The early formalists rejected
 Hegel, emphasizing instead the text's outward formal properties as "devices"
 capable of revitalizing stale metaphors and ossified ways of thinking.
+### Images note used
+
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012. Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)

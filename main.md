@@ -2191,11 +2191,6 @@ together and incrementally, give the UTM its physical form. A media history of
 Turing machines as devices differs from its intellectual history as symbolic,
 mathematical abstraction in interesting and instructive ways.[^ln2-turing]
 
-![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
-2012. Displayed in the Collection of Historical Scientific Instruments,
-Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
-Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
-
 ![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
 via a Turing machine."](images/turing-idea.png)
 
@@ -2395,21 +2390,32 @@ Open Systems Interconnection (OSI) reference model of communication (drafted in
 1978 as ISO/TC97/Sc17/N46 and adopted by the International Organization for
 Standardization in 1984, as ISO 7498) describes no less than seven layers: from
 the Application Layer, concerned with the semantics of application ("all
-services directly comprehensible to the user [@miller, 285] to the Physical
-Layer, providing the "mechanical, electrical, functional, and procedural
-characteristics" of communication [@ncs]. Between these two, moving down from
-the Application layer, the OSI specifies:
+services directly comprehensible to the user [@miller_iso_1981, 285] to the
+Physical Layer, providing the "mechanical, electrical, functional, and
+procedural characteristics" of communication [@day_revised_1995;
+@ncs_national_1988; @ncs_open_1981]. The OSI model layers include the
+Presentation Layer, Session Layer, Data Link Layer, Transport Layer, Network
+Layer, Data Link Layer [@day_osi_1983; @day_revised_1995; @miller_iso_1981,
+@ncs_open_1981, @piatkowski_iso-ansi_1980].
 
-- Presentation Layer, whose job it is to provide "independence to application
-processes from differences in data representation [@day]," in a way that
-"preserves meaning, while resolving syntax differences" [@miller, 285].
-- Session Layer, Data Link Layer, N.  
-- Transport Layer,
-- Network Layer
-- Data Link Layer
+These are the same layers that Alexander Galloway unites in a system of what he
+calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
+It is distributed to be sure, although to what extent decentralized, is a
+matter of some debate. Like a good soldier, each device in the pictured network
+internalizes dozens if not hundreds of protocols that enable to system as a
+whole to function seamlessly (in the way for example your machine can at one
+moment connect to one wireless access point, and at another moment be tethered
+to an Ethernet cable with minimal loss of connectivity from the user's point of
+view). Yet, these protocols are also strongly centralized, in the sense of
+legislated by an international governing body (the International Organization for
+Standardization in case of OSI and the Internet Engineering Task Force in the
+case of TCP/IP) and subject to the usual political pitfalls of pan-global
+consortia. Whatever the case may be, the subject exists outside, on the
+periphery of the network. The flows of power and control are obscured by
+surface representations at the application layer.
 
-[@day, @miller, @ncs, @pietcowski] Get diagrams fom pietcowski. Quote Galloway
-here.
+![Structure of an OSI node and an example network. From
+@piatkowski_iso-ansi_1980, 114-15.](images/osi.png]
 
 Automated discourse gained opacity and depth in several stages: first, by
 extending into removable storage medium, dmagnetic tape, and finally, behind
