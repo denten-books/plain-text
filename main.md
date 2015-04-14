@@ -1640,7 +1640,8 @@ MICROANALYSIS  |              |
    file format (encoding)
    physical media (paper and pixel)
 
-``` ![Micro, Macro, and Close reading.](images/empty.png)
+```
+![Micro, Macro, and Close reading.](images/empty.png)
 
 Where distant reading and macroanalysis are concerned with text aggregates,
 microanalysis, of the type suggested (but not carried out to its logical
@@ -2410,9 +2411,9 @@ whole to function seamlessly (in the way for example your machine can at one
 moment connect to one wireless access point, and at another moment be tethered
 to an Ethernet cable with minimal loss of connectivity from the user's point of
 view). Yet, these protocols are also strongly centralized, in the sense of
-legislated by an international governing body (the International Organization for
-Standardization in case of OSI and the Internet Engineering Task Force in the
-case of TCP/IP) and subject to the usual political pitfalls of pan-global
+legislated by an international governing body (the International Organization
+for Standardization in case of OSI and the Internet Engineering Task Force in
+the case of TCP/IP) and subject to the usual political pitfalls of pan-global
 consortia. Whatever the case may be, the subject exists outside, on the
 periphery of the network. The flows of power and control are obscured by
 surface representations at the application layer.
@@ -2425,24 +2426,35 @@ media and the screen to an arbitrary length. I offer the following historical
 snapshots and examplary devlces as illustrations that move us roughly from tail
 end of the Gutenberg galaxy into the present age:
 
-A. **Removable storage media and automation, 1725-1964**. Goldberg Controller.
+#### Removable storage media and automation, 1725-1964.[ln2-loom]
+
 "You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
-invention relates to all controllers," Goldberg writes. "The object of the
-invention is to provide a mechanism operable by a control sheet which is
-legible to every person having sufficient education to enable him to read. To
-illustrate my invention, I produce a control sheet in which the control
-characters are in the form of the letters of the ordinary English alphabet
-[@goldberg_controller_1915]." Goldberg invention involves a perforated "control
-sheet in which the control characters are in the form of ordinary language."
-Rather than using ticker tape, Goldberg's perforations form letters. In
-Goldberg's control sheets, the language of machines and the language of humans
-coincide.
+the schematic illustration to a Goldberg's 1911 patent, simply titled
+"Controller." "My invention relates to all controllers," Goldberg writes. "The
+object of the invention is to provide a mechanism operable by a control sheet
+which is legible to every person having sufficient education to enable him to
+read. To illustrate my invention, I produce a control sheet in which the
+control characters are in the form of the letters of the ordinary English
+alphabet [@goldberg_controller_1915]." Goldberg's invention involves a
+perforated "control sheet in which the control characters are in the form of
+ordinary language." Rather than using ticker tape, Goldberg's perforations form
+letters.  In Goldberg's control sheets, the language of machines and the
+language of humans coincide.
+
+[ln2-loom]: These dates, as is usually the case with periodization, are
+somewhat arbitrary. I suggest 1725 as inaugural date when the French textile
+worker Basile Bouchon used "drill paper" to automate industrial drawlooms
+[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
+honors could also go to the brothers Banū Mūsā, 9th century automata inventors
+from Baghdad; to Jacques De Vaucanson, who delighted the public with his
+life-like mechanisms in mid 18th century [@riskin_defecating_2003]; or to
+Joseph Charles Marie Jacquard who improved upon and popularized Boucon's looms
+on an industrial scale around the same time.
 
 ![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
 "@goldberg1911")
 
-The invention never caught on, but the patent makes it clear that Goldberg,
+The Controller never caught on, but the patent makes it clear that Goldberg,
 among others, was aware of the problem: the mechanization of type, automation,
 and remote control required specialized training. With the advent of the
 automated telegraph, content meant for people was now being intermixed with
@@ -2457,19 +2469,42 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
 
-B. **Magnetic tape**, 1890-1972. 
+#### Magnetic tape, 1888-1972.
+
+"Historically unforeseen, barely a thing, software's ghostly presence produces
+and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
+an influential monograph that continues to shape the field of software studies.
+She quotes several prominent computer scientists and media historians to the
+same effect. But what makes software ephemeral?  Embossed onto ticker tape or
+card, early software protrudes through the medium. In the age of the telegraph,
+the largest barrier to comprehension of software is encoding. Eearly
+programmable media are burdonsome, fragile, unwieldy, and most of all, visible.
 
 !["Magnetic card (c. 1980) as used in the IBM MC Selectric typewriter and IBM
 MC Selectric Composer. Compatible products were available from Memorex and
 Scotch (3M)." Image by Pointillist under GNU Free Documentation License,
-Version 1.2.](images/
+Version 1.2.](images/ibm-card.jpg)
 
-C. **Screen**, 1972-today. The distance between magnetic storage and the CRT is
-arbitrary.  The pipe can go deep. PDF MOTHERFUCKING INJECTION.  In 1972,
-Stephen Bernard Dorsey, Founder and President of Canadian company Automatic
-Electronic Systems (AES), introduced the world’s first programmable word
-processor with a video screen In modern model. The application layer. pdf as an
-image format.
+The principles of magnetic recording were developed by Oberlin Smith (among
+others), the American Engineer who also filed several inventions related to
+weaving looms at the end of the 19th century. In 1988, inspired by Edison's
+mechanichal phonograph, Smith made public his experiments with an "electrical
+method" of sound regording using a "magnetized cord" (cotton mixed with
+hardened steel dust) as a recording medium. These experiments were later put
+into practice by Valdemar Poulsen of Denmark, who patented several influential
+designs for a magnetic wire recorder [@smith_possible_1888;
+@poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
+@engel_1888-1988_1988; @thiele_magnetic_1988].
+
+
+
+#### **Screen**, 1972-today.
+
+The distance between magnetic storage and the CRT is arbitrary.  The pipe can
+go deep. PDF MOTHERFUCKING INJECTION.  In 1972, Stephen Bernard Dorsey, Founder
+and President of Canadian company Automatic Electronic Systems (AES),
+introduced the world’s first programmable word processor with a video screen In
+modern model. The application layer. pdf as an image format.
 
 The real danger comes not from a metaphysical source, but from the superficial
 similarity of print and pixel. Where the pen or the typewriter inscribe the
