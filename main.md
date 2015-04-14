@@ -2426,7 +2426,7 @@ media and the screen to an arbitrary length. I offer the following historical
 snapshots and exemplary devices as illustrations that move us roughly from tail
 end of the Gutenberg galaxy into the present age:
 
-#### Removable storage media and automation, 1725-1964.[ln2-loom]
+#### A: Removable storage media and automation, 1725-1964.[ln2-loom]
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent, simply titled
@@ -2469,7 +2469,7 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
 
-#### Magnetic tape, 1888-1972.
+#### B: Magnetic tape, 1888-1972.
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
@@ -2480,14 +2480,14 @@ card, early software protrudes through the medium. In the age of the telegraph,
 the largest barrier to comprehension of software is encoding. Early
 programmable media are burdensome, fragile, unwieldy, and most of all, visible.
 
-!["Magnetic card (c. 1980) as used in the IBM MC Selectric typewriter and IBM
-MC Selectric Composer. Compatible products were available from Memorex and
-Scotch (3M)." Image by Pointillist under GNU Free Documentation License,
-Version 1.2.](images/ibm-card.jpg)
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card (@may_ibm_1981, 744)." Image by Pointillist
+under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), the American Engineer who also filed several inventions related to
-weaving looms at the end of the 19th century. In 1988, inspired by Edison's
+weaving looms at the end of the 19th century. In 1888, inspired by Edison's
 mechanical phonograph, Smith made public his experiments with an "electrical
 method" of sound recording using a "magnetized cord" (cotton mixed with
 hardened steel dust) as a recording medium. These experiments were later put
@@ -2512,19 +2512,32 @@ the end of the page [@may_ibm_1981, 742]."
 We may think of word processing as a temporal extension of the page. Words on
 magnetic storage medium begin to exist in the ephemeral state, giving the
 typist an opportunity to edit and emend *before* committing to paper, in their
-immutable form. The very rise of word processing thus correspond to the
+immutable form. The very rise of word processing thus corresponds to the
 invention of ephemeral text. What was visible through the hole punch on ticker
 tape, was now submerged into tape. The tape no longer afforded human
-legibility. It remains, for all intents and purposes, a black slate.
+legibility. Encoding used by MT/ST remained the (by now) familiar variation of
+a 7-bit cypher, but it was longer recoverable by the naked eye, without a
+specialized device. Magnetic storage, widely used in all contemporary devices,
+remains, for all unassisted intents and purposes, a black slate.
 
+#### C: Screen, 1972-today.
 
-#### **Screen**, 1972-today.
+By decoupling input and output, magnetic storage media has injected an
+arbitrary amount of time and space between the process of inscription and
+comprehension. Content, coupled with control code, sunk beneath the matte
+surface of the electrical charge. The final movement in the emergence of
+automated discourse reintroduced the illusion of immediacy into the process of
+inscription.
+
+In 1972, Stephen Bernard Dorsey, founder and president of Automatic Electronic
+Systems ), introduced the world’s first programmable word processor with a
+video screen In modern model. The application layer. pdf as an image format.
+
+Three mechanisms: Goldberg's "Controller," the  AES-90, and IBM's MT/ST.
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
-go deep. PDF MOTHERFUCKING INJECTION.  In 1972, Stephen Bernard Dorsey, Founder
-and President of Canadian company Automatic Electronic Systems (AES),
-introduced the world’s first programmable word processor with a video screen In
-modern model. The application layer. pdf as an image format.
+go deep. PDF MOTHERFUCKING INJECTION
+
 
 The real danger comes not from a metaphysical source, but from the superficial
 similarity of print and pixel. Where the pen or the typewriter inscribe the
