@@ -2398,6 +2398,9 @@ Presentation Layer, Session Layer, Data Link Layer, Transport Layer, Network
 Layer, Data Link Layer [@day_osi_1983; @day_revised_1995; @miller_iso_1981,
 @ncs_open_1981, @piatkowski_iso-ansi_1980].
 
+![Structure of an OSI node and an example network. From
+@piatkowski_iso-ansi_1980, 114-15.](images/osi.png]
+
 These are the same layers that Alexander Galloway unites in a system of what he
 calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
 It is distributed to be sure, although to what extent decentralized, is a
@@ -2414,26 +2417,27 @@ consortia. Whatever the case may be, the subject exists outside, on the
 periphery of the network. The flows of power and control are obscured by
 surface representations at the application layer.
 
-![Structure of an OSI node and an example network. From
-@piatkowski_iso-ansi_1980, 114-15.](images/osi.png]
+Automated discourse has gained such opacity and depth in several stages: first,
+by coupling content and control on the surface of removable paper storage media
+(ticker tape and punch cards); second, in removing inscription from view onto
+magnetic tape; and, finally, by extending the channel between magnetic storage
+media and the screen to an arbitrary length. I offer the following historical
+snapshots and examplary devlces as illustrations that move us roughly from tail
+end of the Gutenberg galaxy into the present age:
 
-Automated discourse gained opacity and depth in several stages: first, by
-extending into removable storage medium, dmagnetic tape, and finally, behind
-the screen. I offer the following hisotrical snapshots that move us from the
-beginning of the 20th century to the present:
-
-A. **Removable storage media, 1725-1951**. "You must acknowledge that this is
-readable without special training," reads the schematic illustration to a
-Goldberg's 1911 patent for a "controller." "My invention relates to all
-controllers," Goldberg writes. "The object of the invention is to provide a
-mechanism operable by a control sheet which is legible to every person having
-sufficient education to enable him to read. To illustrate my invention, I
-produce a control sheet in which the control characters are in the form of the
-letters of the ordinary English alphabet [@goldberg_controller_1915]." Goldberg
-invention involves a perforated "control sheet in which the control characters
-are in the form of ordinary language." Rather than using ticker tape,
-Goldberg's perforations form letters. In Goldberg's control sheets, the
-language of machines and the language of humans coincide.
+A. **Removable storage media and automation, 1725-1964**. Goldberg Controller.
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent for a "controller." "My
+invention relates to all controllers," Goldberg writes. "The object of the
+invention is to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read. To
+illustrate my invention, I produce a control sheet in which the control
+characters are in the form of the letters of the ordinary English alphabet
+[@goldberg_controller_1915]." Goldberg invention involves a perforated "control
+sheet in which the control characters are in the form of ordinary language."
+Rather than using ticker tape, Goldberg's perforations form letters. In
+Goldberg's control sheets, the language of machines and the language of humans
+coincide.
 
 ![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
 "@goldberg1911")
@@ -2446,18 +2450,25 @@ machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
 using cards, perforated in the shape of the English alphabet. Besides carrying
 (human-readable) content, the perforations do "double duty" to mechanically
 manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
-[@goldberg_controller_1915]."
+[@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
+based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
+punchcards that powered weaving looms, player pianos, and census tabulators
+coupled message and control. The era of ticker tape punch cards can be thought
+to end with the introduction the mass-market introduction of IBM Magnetic
+Tape/Selectric Typewriter in 1964.
 
-Early paper-based storage media, from Morse-code based ticker tape, to the
-telegraph codes of Hughes and Baudot, and to punchcards that powered weaving
-looms, player pianos, and census tabulators coupled a system of writing 
+B. **Magnetic tape**, 1890-1972. 
 
-B. **Magnetic tape**, 1951-1972.
+!["Magnetic card (c. 1980) as used in the IBM MC Selectric typewriter and IBM MC
+Selectric Composer. Compatible products were available from Memorex and Scotch
+(3M)."
 
-C. **Screen**, 1972-today. The distance between magnetic storage and the CRT is arbitrary.
-The pipe can go deep. PDF MOTHERFUCKING INJECTION.
-
-In modern model. The application layer. pdf as an image format.
+C. **Screen**, 1972-today. The distance between magnetic storage and the CRT is
+arbitrary.  The pipe can go deep. PDF MOTHERFUCKING INJECTION.  In 1972,
+Stephen Bernard Dorsey, Founder and President of Canadian company Automatic
+Electronic Systems (AES), introduced the world’s first programmable word
+processor with a video screen In modern model. The application layer. pdf as an
+image format.
 
 The real danger comes not from a metaphysical source, but from the superficial
 similarity of print and pixel. Where the pen or the typewriter inscribe the
