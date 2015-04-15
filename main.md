@@ -2620,11 +2620,30 @@ it is easy (and delightful) to reshape the structure
 and content of its discussion material.
 ```
 
-Engelbart, interested in empirical phenomenological accounts of the system,
-records what must be one of the most evocative and lyrical passages found in a
-NASA technical report:
+Engelbart, interested in collecting empirical phenomenological accounts of the
+system, records what must count as one of the most evocative passages to appear
+on the pagess of an NASA (or any) technical report. It starts out innocently
+enough, in the Results and Discussion section an anonymous user write:
 
 ```
+1B4 "Ifind that I can express myself better, if I can
+make all te little changes and experiments with wording
+and structure as they occur to me." [Here the user
+experiments a little with using structural decomposition
+of a complex sentece.]
+
+```
+A deconstruction indeed follows, as the author begins to deviate from the
+conventions of the engineering discourse. The numbered passsages, and
+unexpected enjambment heightens the stuccoto quality of the prose, that at
+times reaches towards the lyric:
+
+```
+Quote here.
+```
+
+Strange. Engelbart is the author of the report. But perhaps the user was
+invited to edit? Who is the author here.
 
 
 
