@@ -5,7 +5,7 @@ author: "Dennis Tenen"
 style: mla.csl
 bibliography: plain-text.bib
 toc: true
-documentclass: article
+documentclass: book
 xelatex: true
 
 ---

@@ -2374,26 +2374,7 @@ now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
-## Chapter 3: Reading Surfaces
-`content, matter, form, formatting`
-
-### 3.0 Abstract
-
-The chapter builds on the history of character encoding to include two major
-standards underlying the contemporary encounter with digital text: ASCII and
-Unicode. I approach the subject through the confused history of the distinction
-between form and content: two theoretical concepts crucial to understanding the
-distinction between binary and plain text. In the theoretical discussion, I
-find that going back to Plato and Hegel, "form" is at times used to indicate
-physical structure, and, at other times, to indicate immaterial categories in
-the ideal realm. A critical treatment of a more contemporary conversation about
-"surface" and "depth" of meaning reveals "form" as a mediating concept between
-thought and matter. A case study in extreme surface reading, in the bowels of a
-photocopier, opens a way to the distinction between print (where matter, form,
-and content lie flat) and screen (where the three layers come apart, providing
-only the illusion of flattened textuality).
-
-### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
+### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 What lies beneath the text? We are accustomed to thinking about that question
 metaphorically and answer in accord: meaning, narrative, representation, order,
@@ -2437,10 +2418,12 @@ surface representations at the application layer.
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
 (ticker tape and punch cards); second, in removing inscription from view onto
-magnetic tape; and, finally, by extending the channel between magnetic storage
-media and the screen to an arbitrary length. I offer the following historical
-snapshots and exemplary devices as illustrations that move us roughly from tail
-end of the Gutenberg galaxy into the present age:
+magnetic tape; and, finally, by manufacturing an illusion of visibility on the
+screen.
+
+I offer the following historical snapshots and exemplary devices as
+illustrations that move us roughly from tail end of the Gutenberg galaxy into
+the present age:
 
 #### A: Removable storage media and automation, 1725-1964.[ln2-loom]
 
@@ -2454,7 +2437,7 @@ control characters are in the form of the letters of the ordinary English
 alphabet [@goldberg_controller_1915]." Goldberg's invention involves a
 perforated "control sheet in which the control characters are in the form of
 ordinary language." Rather than using ticker tape, Goldberg's perforations form
-letters.  In Goldberg's control sheets, the language of machines and the
+letters. On Goldberg's control sheets, the language of machines and the
 language of humans coincide.
 
 [ln2-loom]: These dates, as is usually the case with periodization, are
@@ -2492,9 +2475,19 @@ and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
 an influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
 same effect. But what makes software ephemeral?  Embossed onto ticker tape or
-card, early software protrudes through the medium. In the age of the telegraph,
-the largest barrier to comprehension of software is encoding. Early
-programmable media are burdensome, fragile, unwieldy, and most of all, visible.
+punched into the card, early software protrudes through the medium. In the age
+of the telegraph, the largest barrier to comprehension of software is encoding.
+But once the cipher is known and format identified, the inscription makes
+itself visible to view. Early programmable media were hardly ephemeral.
+Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
+an early (post-WWII) pioneer in the field of computational philology, carting
+his punch cards around Italy on a truck.[^ln2-busa] Code before its
+electro-magnetic period was burdensome, fragile, unwieldy, and most of all,
+visible.
+
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy."
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
@@ -2518,23 +2511,31 @@ typewriters to the mass market. Writing for the *Encyclopedia of Library and
 Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
 first word processors, defined by the ability to record strokes and to print
 them onto paper *as a separate operation* [@eisenberg_word_1992]. The
-separation of input and output allows for processing as such. An article in the
-*IBM Journal for Research and Development* explains that the real significance
-of the MT/ST workstation was in the introduction of new "power typing"
-technologies: "For the first time the typist at 'rough draft' speed, 'backspace
-and strike over' errors, and not worry about the pressure of mistakes made at
-the end of the page [@may_ibm_1981, 742]."
+separation of input and output allows for word processing as such. An article
+in the *IBM Journal for Research and Development* explains that the real
+significance of the MT/ST workstation was in the introduction of new "power
+typing" technologies: "For the first time the typist could type at 'rough
+draft' speed, 'backspace and strike over' errors, and not worry about the
+pressure of mistakes made at the end of the page [@may_ibm_1981, 742]."
 
-We may think of word processing as a temporal extension of the page. Words on
+We may think of word processing as temporal extension of the page. Words on
 magnetic storage medium begin to exist in the ephemeral state, giving the
-typist an opportunity to edit and emend *before* committing to paper, in their
-immutable form. The very rise of word processing thus corresponds to the
-invention of ephemeral text. What was visible through the hole punch on ticker
-tape, was now submerged into tape. The tape no longer afforded human
-legibility. Encoding used by MT/ST remained the (by now) familiar variation of
-a 7-bit cypher, but it was longer recoverable by the naked eye, without a
-specialized device. Magnetic storage, widely used in all contemporary devices,
-remains, for all unassisted intents and purposes, a black slate.
+typist an opportunity to edit and emend *before* commitment to paper, in its
+immutable form, and as a separate operation, removed from the immediate process
+of inscription. The very invention of word processing thus corresponds to the
+decline of text into ephemera. What was visible through a hole punch on ticker
+tape, was now submerged into tape. The tape no longer afforded human legibility
+nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
+the earlier sections) underlying structure (7-bit encoding, in this case)
+which, on tape, ceased to be recoverable by the naked eye. The inscription lay
+literally beyond (human) sense. Lacking the perceptual apparatus to perceive
+what are called "magnetic domains" and inscribed "polarities"^[ln2-magnet] that
+take place of visible alphabets. Magnetic storage, widely used in all
+contemporary devices, remains, for all unassisted intents and purposes, a black
+slate.
+
+[^ln2-magnet]: See for example @ohmori_memory_2015 and
+@stefanita_magnetism_2012, 1-69.
 
 #### C: Screen, 1968-today.
 
@@ -2644,6 +2645,25 @@ dostorted by Commentators and beclouded by Illustrators" (p64)
 "One plain text is worth a thousand"
 
 Signal Book, United States Army: 1916
+## Chapter 3: Now is the Time Fob (Reading Surfaces)
+`content, matter, form, formatting`
+
+### 3.0 Abstract
+
+The chapter builds on the history of character encoding to include two major
+standards underlying the contemporary encounter with digital text: ASCII and
+Unicode. I approach the subject through the confused history of the distinction
+between form and content: two theoretical concepts crucial to understanding the
+distinction between binary and plain text. In the theoretical discussion, I
+find that going back to Plato and Hegel, "form" is at times used to indicate
+physical structure, and, at other times, to indicate immaterial categories in
+the ideal realm. A critical treatment of a more contemporary conversation about
+"surface" and "depth" of meaning reveals "form" as a mediating concept between
+thought and matter. A case study in extreme surface reading, in the bowels of a
+photocopier, opens a way to the distinction between print (where matter, form,
+and content lie flat) and screen (where the three layers come apart, providing
+only the illusion of flattened textuality).
+
 ### 3.3 Algorithm as Fetish
 
 Wendy Hui Kyong Chun
