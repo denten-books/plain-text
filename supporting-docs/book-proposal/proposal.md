@@ -58,7 +58,7 @@ computing in the humanities."
 
 ## Existing Literature
 
-Plain Text makes a theoretical intervention in the cluster of media studies-
+"Plain Text" makes a theoretical intervention in the cluster of media studies-
 and digital humanities-related fields that include science and technology
 studies, platform studies, critical code studies, and media archeology. Recent
 comparable books in these fields include *Paper Knowledge* by Lisa Gitelman
@@ -98,10 +98,10 @@ which computational methods are promised to reform the humanities unilaterally.
 
 Books like Alexander Galloway's *Laruelle: Against the Digital* (University of
 Minnesota Press, 2014), Matthew Fuller's *Evil Media* (MIT Press, 2012), and
-Johanna Drucker's *What Is?* (Cuneiform Press, 2013) represent the beginning of
-a critical counter-movement to digital positivism. But this response, too, must
-be balanced against the constructive potential of the digital humanities to
-extend humanistic inquiry into new and exciting directions. As was the case
+Johanna Drucker's *What Is?* (Cuneiform Press, 2013) represent the sharp edge
+of a critical counter-movement to digital positivism. But this response, too,
+must be balanced against the constructive potential of the digital humanities
+to extend humanistic inquiry into new and exciting directions. As was the case
 with the "linguistic turn" in the decades prior, almost all fields of human
 knowledge are now experiencing a turn towards computational methods, which
 offer insights at previously unavailable scales of analysis. (Witness the
@@ -122,11 +122,11 @@ The first comprises digital, media, and literary scholars interested in the
 material aspects of knowledge production. The second is composed of knowledge
 workers that do not usually view their everyday practice in its historical,
 philosophical, or political contexts. Software developers, graphic designers,
-system administrators, and project managers routinely design technologies that
-have deep cultural significance, affecting a range of cultural practices: from
-the ways we relate to our family and friends to the formation of shared
+system administrators, and project managers routinely architect technologies
+that have deep cultural significance, affecting a range of cultural practices:
+from the ways we relate to our family and friends to the formation of shared
 cultural archives. Because such "cultural techniques" are formative of our
-culture, supposedly "technical" decisions like choosing a text editor, a filing
+culture, supposedly technical decisions like choosing a text editor, a filing
 system, or a social networking platform cannot be adequately addressed in
 shallow instrumental terms limited to efficacy, speed, or performance.
 
@@ -149,22 +149,22 @@ critical making at Rikers Island this summer. I am inspired in these endeavors
 by my colleagues at the Columbia University Department of English and at
 Harvard University's Berkman Center for Internet & Society, where I am an
 active faculty associate. I keep these manifold audiences in mind as I complete
-"Plain Text." The book exposes the intellectual frameworks that bolster my
-research and teaching activities. I write to strengthen these projects and to
-give back to the community that has supported me so generously. I hope to rely
-on the same good will and support networks in reaching out to promote my book.
+"Plain Text." The book exposes intellectual frameworks that bolster my research
+and teaching activities. I write to strengthen these projects and to give back
+to the community that has supported me so generously. I hope to rely on the
+same good will and support networks in reaching out to promote my book.
 
 In my teaching career, I have been asked to create courses and certificate
 programs for graduate students in the humanities interested in computational
 studies, including courses at the Digital Humanities Summer Institute at the
 University of Victoria and in the Lede Program at the Columbia University
-Graduate School of Journalism. Texts usually assigned are either volumes
-published by technical presses for a professional audience or theory-based
-readings in new media studies related only loosely to teaching the fundamentals
-of Computer Science in context. My book furnishes the intellectual foundations
-for the practice of digital humanities. With the proposed technical appendix
-and a possible companion site (explained in the next section), I hope to
-supplement the main body of the work with a series of "experiments" that
+Graduate School of Journalism. Texts usually assigned in courses like that are
+either volumes published by technical presses for a professional audience or
+theory-based readings in new media studies related only loosely to teaching the
+fundamentals of computer science in context. My book furnishes the intellectual
+foundations for the practice of digital humanities. With the proposed technical
+appendix and a possible companion site (explained in the next section), I hope
+to supplement the main body of the work with a series of "experiments" that
 illustrate theoretical concepts in action, at the keyboard. Such a blend of
 theory and practice defines my method. As many major universities invest in
 programs related to digital humanities, computational social science, and
@@ -197,9 +197,9 @@ complementary website. Training in computational methods often begins with
 packaged tools that obscure the underlying complexity of the method. For
 example, while writing a relatively complex piece of code, a journalist in my
 class once confessed to being confused about the relationship between files and
-folders. Plain Text is a book about files and folders: it is about textuality
+folders. "Plain Text" is a book about files and folders: it is about textuality
 as encoded in specific ways on machines that have a shared engineering
-pedigree. The hidden (but very much intended) side-effect of Plain Text is a
+pedigree. The hidden (but very much intended) side-effect of "Plain Text" is a
 measure of technical proficiency with Unix-based operating systems.
 Sophisticated understanding of the political issues around computation, be they
 "open access," "freedom of information," or "online privacy," begin at that
@@ -309,7 +309,7 @@ beings.
 
 ### Chapter 5: Recursive Encounters with Oneself
 
-This chapter begins with a close reading of Beckett's Krapp's Last Tape,
+This chapter begins with a close reading of Beckett's *Krapp's Last Tape*,
 positing magnetic storage media as the "media being" of the play's title
 character. Krapp helps to unfold the problematic of documents: not as passive
 completed texts, but as vectors that mutate and move through time and space.
@@ -338,7 +338,7 @@ the structure of links to that of lists. A discussion on "linked lists" in
 computer science leads to a conclusion that relates to aesthetics of code and
 to the role of an individual in relation to the assemblage.
 
-Chapter 7: Engineering for Dissent
+### Chapter 7: Engineering for Dissent
 
 In this final chapter, I argue for the recovery and the preservation of plain
 textuality in the day-to-day practice of modern computing. Returning to the
@@ -368,7 +368,7 @@ chapter, starting commands to be entered in the command line, to create an
 ## Relationship to Dissertation
 
 The book bears a resemblance to the dissertation in the subtitle only. Several
-paragraphs from the embargoed dissertation did make it into Plain Text in an
+paragraphs from the embargoed dissertation did make it into "Plain Text" in an
 ad-hoc manner, but the book as a whole represents a completely new framework
 and a new direction in my thinking about the subject.
 
