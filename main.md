@@ -2555,7 +2555,7 @@ reduced to a minimum.
 
 With the illusory role of the screen in mind, I propose 1968 as the year in
 which automated discourse takes its present form. On December 9th, 1968 Douglas
-Engelbart, then founder and primary investigator at the ARPA-funded
+Engelbart, then founder and primary investigator at the NASA and ARPA-funded
 Augmentation Research Center lab at the Stanford Research Institute, gave what
 became later colloquially known as "the mother of all demos
 [@tweney_mother_2008]" before an audience of roughly one thousand or so
@@ -2563,20 +2563,70 @@ became later colloquially known as "the mother of all demos
 the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
 the arrival of almost every technology prophesied by Vannevar Bush in his
 influential 1945 piece for *The Atlantic* [@bush_as_1945]. In the course of one
-hundred or so minutes, Engelbart speaking through a headset in a prerecorded
-address, features functional (live) prototypes of: graphical user interfaces,
-video conferencing, links and hypertext, version control, image manipulation,
-windows-based user interfaces, digital slides, networked machines, and "what
-you see is what you get" (WYSIWYG) word processing.
+hundred or so minutes, Engelbart, speaking through a headset in a prerecorded
+address, features functional (live) prototypes of the following: graphical user
+interfaces, video conferencing, remote camera monitoring, links and hypertext,
+version control, text search, image manipulation, windows-based user
+interfaces, digital slides, networked machines, mouse, stylus, and joystick
+inputs, and "what you see is what you get" (WYSIWYG) word processing.
 
 !["NOW IS THE TIME FOB." Schematics for a "display system" from
 @engelbart_x-y_1970.](images/engel.png)
 
-In "For presenting computer-stored information to the human, techniques have been
-developed by which a cathode-ray-tube (of which the television picture tube is
-a familiar example) can be made to present symbols on their screens of quite
-good brightness, clarity, and with considerable freedom as to the form of the
-symbol.
+In the NASA Contractor Report Engelbart describes his lab as a group of
+researchers "developing an experimental laboratory around an interactive,
+multiconsole computer-display system" and "working to learn the principles by
+which interactive computer aids can augment the intellectual capability of the
+subjects [@engelbart_human_1969, 1]." Cathode Ray Tube (CRT) are central to the
+research program. In one of many patents that came out of Engelbart's
+laboratory, Engelbart pictures the "display system" as a workstation that
+combines a typewriter, a CRT, and the mouse. The system is frozen in
+mid-action, with the words "THE TIME IS NOW FOB" prominently displayed on the
+screen. Although Engelbart does not explain the message, the system's user is
+evidently in the process of editing, about to correct the nonsensical FOB into
+a FOR. Engelbart writes, "One of the potentially most promising means for
+delivering and receiving information to and from digital computers involves the
+display of computer outputs as visual representation on a cathode ray tube and
+the alternation of the display by human operator in order to deliver
+instructions to the computer [@engelbart_x-y_1970i]."
+
+The CRT closes the circuit between human and machine, but at a cost. Where in
+short-lived screen-less word processors (like the IBM MT/ST) the operator would
+have to keep the underlying structure of the document in mind, the CRT unfolds
+the structure topographically, allowing for spatial navigation along the
+document---restoring, in a sense, the natural affordances of print (think of
+rapid navigation through a book, as when riffling pages, for example, a
+technique lost in the punch-card and magnetic tape era). Data becomes visible
+again. Moreover, represented in the shimmer of the cathode ray, it attaches
+itself lightly to the retina. The system users that the screen liberates them
+material confines of print. One user reports (and I reproduce the reports
+verbatim, since the formatting matters here):
+
+```
+1B2B1 "To accommodate and preserve a thought or
+piece of information that isn't related to the work
+of the moment, one can very quickly and easily
+insert a note within the structure of a file at such
+a place that it will nether get in the way nor get
+lost.
+
+1B2B2 "Later, working in another part of the file,
+he can almost instantly (e.g. within two seconds)
+return to the place where he temporarily is storing
+such notes, to modify or add to any of them.
+
+1B2B3 "As any such miscellaneous thought develops,
+it is easy (and delightful) to reshape the structure
+and content of its discussion material.
+```
+
+Engelbart, interested in empirical phenomenological accounts of the system,
+records what must be one of the most evocative and lyrical passages found in a
+NASA technical report:
+
+```
+
+
 
 Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
