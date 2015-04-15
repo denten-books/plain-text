@@ -2539,28 +2539,44 @@ slate.
 
 #### C: Screen, 1968-today.
 
-By decoupling input and output, magnetic storage media has injected an
-arbitrary amount of time and space between the process of inscription and
-comprehension. Content, coupled with control code, has sunk beneath the matte
+By decoupling input and output, magnetic storage media affords the injection of
+time and space, in arbitrary intervals, between the process of inscription and
+comprehension. Content, coupled with control code, sinks beneath the matte
 surface of electrical charge. The final movement in the emergence of automated
-discourse reintroduced the illusion of immediacy into the process of
-inscription.
+discourse reintroduces the illusion of immediacy into the process of
+inscription. Text, invisible in its material substratum, reappears on the
+screen, but, crucially, it longer corresponds to the actual inscription. This
+property is as perilous as it is liberating: perilous, because the flows of
+power and control can now be submerged under the shimmering surface of the
+screen, and liberating, because loosely coupled to its material substratum
+texts become both more fluid and more portable. Plainly put, the barriers to
+copying, sharing, exchanging, editing, remixing, and disseminating texts are
+reduced to a minimum.
 
-I propose 1968 as the year in which automated discourse takes its final form.
-December 9th, 1968 Douglas Engelbart, then already a Principle Ivestigator at
-the ARPA-funded Augmentation Research Center lab at the Stanfdord Researh
-Intitute, gave 1
+With the illusory role of the screen in mind, I propose 1968 as the year in
+which automated discourse takes its present form. On December 9th, 1968 Douglas
+Engelbart, then founder and primary investigator at the ARPA-funded
+Augmentation Research Center lab at the Stanford Research Institute, gave what
+became later colloquially known as "the mother of all demos
+[@tweney_mother_2008]" before an audience of roughly one thousand or so
+"computer professionals" attending the Fall Joint Computer Conference held at
+the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
+the arrival of almost every technology prophesied by Vannevar Bush in his
+influential 1945 piece for *The Atlantic* [@bush_as_1945]. In the course of one
+hundred or so minutes, Engelbart speaking through a headset in a prerecorded
+address, features functional (live) prototypes of: graphical user interfaces,
+video conferencing, links and hypertext, version control, image manipulation,
+windows-based user interfaces, digital slides, networked machines, and "what
+you see is what you get" (WYSIWYG) word processing.
 
-appeared on stage at the Fall Joint
-Computer Conference in San Francisco to give
+!["NOW IS THE TIME FOB." Schematics for a "display system" from
+@engelbart_x-y_1970.](images/engel.png)
 
 In "For presenting computer-stored information to the human, techniques have been
 developed by which a cathode-ray-tube (of which the television picture tube is
 a familiar example) can be made to present symbols on their screens of quite
 good brightness, clarity, and with considerable freedom as to the form of the
 symbol.
-
-"automated discourse takes command."
 
 Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
