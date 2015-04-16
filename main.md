@@ -159,7 +159,7 @@ It is my belief also that the lighted halls of contemporary literary and media
 theory can be best through the long and ghastly kitchen of everyday practice.
 Take the example of a media scholar analyzing the last two decades of film
 production or photography without grasping the fundamentals of electronic
-photodetectors, RAW image formats, complementary metal–oxide–semiconductor
+photo-detectors, RAW image formats, complementary metal–oxide–semiconductor
 (CMOS), digital editing tools, computer-generated imagery (CGI), or Photoshop
 image manipulation techniques. Such a study is in great peril of being terribly
 misguided by theoretical models that have no basis on reality. It is not that
@@ -1486,9 +1486,9 @@ In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an ethnography of a science lab, tracing the
 passage of ideas from applied experiment to literary production. For Woolgar
 and Latour a laboratory functions as a factory of sorts, ingesting matter and
-artifact to produce fact and inscrition, beyond naive notions of
+artifact to produce fact and inscription, beyond naive notions of
 knowledge-making and discovery [@latour_laboratory_1986]. A scientist could
-object that insription-making is merely a byproduct of the lab's research
+object that inscription-making is merely a byproduct of the lab's research
 activity. Woolgar and Latour challenge that view in showing how laboratory
 participants closest to the material conditions of knowledge production are, at
 the same time, most marginalized members of the group. Lab technicians handle
@@ -2374,363 +2374,7 @@ now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
-### 2.5 WYSINAWYG (What You See Is Not Always What You Get)
-
-What lies beneath the text? We are accustomed to thinking about that question
-metaphorically and answer in accord: meaning, narrative, representation, order,
-discourse, or ideology. But the materialist answer is much simpler: pulp.
-Increasingly, it is also: glass, plastic, liquid crystal, copper, laminates,
-and silicone. Not much space separates ink from paper. There, textuality lies
-flat, in two dimensions. What you see is truly what you get. Not so on the
-screen connected to other screens. Networked textuality extends into the third
-dimension, away from the reader and deep into the bowels of the machine. The
-Open Systems Interconnection (OSI) reference model of communication (drafted in
-1978 as ISO/TC97/Sc17/N46 and adopted by the International Organization for
-Standardization in 1984, as ISO 7498) describes no less than seven layers: from
-the Application Layer, concerned with the semantics of application ("all
-services directly comprehensible to the user [@miller_iso_1981, 285] to the
-Physical Layer, providing the "mechanical, electrical, functional, and
-procedural characteristics" of communication [@day_revised_1995;
-@ncs_national_1988; @ncs_open_1981]. The OSI model layers include the
-Presentation Layer, Session Layer, Data Link Layer, Transport Layer, Network
-Layer, Data Link Layer [@day_osi_1983; @day_revised_1995; @miller_iso_1981,
-@ncs_open_1981, @piatkowski_iso-ansi_1980].
-
-![Structure of an OSI node and an example network. From
-@piatkowski_iso-ansi_1980, 114-15.](images/osi.png]
-
-These are the same layers that Alexander Galloway unites in a system of what he
-calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
-It is distributed to be sure, although to what extent decentralized, is a
-matter of some debate. Like a good soldier, each device in the pictured network
-internalizes dozens if not hundreds of protocols that enable to system as a
-whole to function seamlessly (in the way for example your machine can at one
-moment connect to one wireless access point, and at another moment be tethered
-to an Ethernet cable with minimal loss of connectivity from the user's point of
-view). Yet, these protocols are also strongly centralized, in the sense of
-legislated by an international governing body (the International Organization
-for Standardization in case of OSI and the Internet Engineering Task Force in
-the case of TCP/IP) and subject to the usual political pitfalls of pan-global
-consortia. Whatever the case may be, the subject exists outside, on the
-periphery of the network. The flows of power and control are obscured by
-surface representations at the application layer.
-
-Automated discourse has gained such opacity and depth in several stages: first,
-by coupling content and control on the surface of removable paper storage media
-(ticker tape and punch cards); second, in removing inscription from view onto
-magnetic tape; and, finally, by manufacturing an illusion of visibility on the
-screen.
-
-I offer the following historical snapshots and exemplary devices as
-illustrations that move us roughly from tail end of the Gutenberg galaxy into
-the present age:
-
-#### A: Removable storage media and automation, 1725-1964.[ln2-loom]
-
-"You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg's 1911 patent, simply titled
-"Controller." "My invention relates to all controllers," Goldberg writes. "The
-object of the invention is to provide a mechanism operable by a control sheet
-which is legible to every person having sufficient education to enable him to
-read. To illustrate my invention, I produce a control sheet in which the
-control characters are in the form of the letters of the ordinary English
-alphabet [@goldberg_controller_1915]." Goldberg's invention involves a
-perforated "control sheet in which the control characters are in the form of
-ordinary language." Rather than using ticker tape, Goldberg's perforations form
-letters. On Goldberg's control sheets, the language of machines and the
-language of humans coincide.
-
-[ln2-loom]: These dates, as is usually the case with periodization, are
-somewhat arbitrary. I suggest 1725 as inaugural date when the French textile
-worker Basile Bouchon used "drill paper" to automate industrial drawlooms
-[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
-honors could also go to the brothers Banū Mūsā, 9th century automata inventors
-from Baghdad; to Jacques De Vaucanson, who delighted the public with his
-life-like mechanisms in mid 18th century [@riskin_defecating_2003]; or to
-Joseph Charles Marie Jacquard who improved upon and popularized Boucon's looms
-on an industrial scale around the same time.
-
-![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
-"@goldberg1911")
-
-The Controller never caught on, but the patent makes it clear that Goldberg,
-among others, was aware of the problem: the mechanization of type, automation,
-and remote control required specialized training. With the advent of the
-automated telegraph, content meant for people was now being intermixed with
-machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
-using cards, perforated in the shape of the English alphabet. Besides carrying
-(human-readable) content, the perforations do "double duty" to mechanically
-manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
-[@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
-based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
-punch-cards that powered weaving looms, player pianos, and census tabulators
-coupled message and control. The era of ticker tape punch cards can be thought
-to end with the introduction the mass-market introduction of IBM Magnetic
-Tape/Selectric Typewriter in 1964.
-
-#### B: Magnetic tape, 1888-1968.
-
-"Historically unforeseen, barely a thing, software's ghostly presence produces
-and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
-an influential monograph that continues to shape the field of software studies.
-She quotes several prominent computer scientists and media historians to the
-same effect. But what makes software ephemeral?  Embossed onto ticker tape or
-punched into the card, early software protrudes through the medium. In the age
-of the telegraph, the largest barrier to comprehension of software is encoding.
-But once the cipher is known and format identified, the inscription makes
-itself visible to view. Early programmable media were hardly ephemeral.
-Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
-an early (post-WWII) pioneer in the field of computational philology, carting
-his punch cards around Italy on a truck.[^ln2-busa] Code before its
-electro-magnetic period was burdensome, fragile, unwieldy, and most of all,
-visible.
-
-[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
-truckloads of punched cards being transported from one center to another in
-Italy."
-
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card (@may_ibm_1981, 744)." Image by Pointillist
-under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
-
-The principles of magnetic recording were developed by Oberlin Smith (among
-others), the American Engineer who also filed several inventions related to
-weaving looms at the end of the 19th century. In 1888, inspired by Edison's
-mechanical phonograph, Smith made public his experiments with an "electrical
-method" of sound recording using a "magnetized cord" (cotton mixed with
-hardened steel dust) as a recording medium. These experiments were later put
-into practice by Valdemar Poulsen of Denmark, who patented several influential
-designs for a magnetic wire recorder [@smith_possible_1888;
-@poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
-@engel_1888-1988_1988; @thiele_magnetic_1988].
-
-In 1964, IBM combined magnetic tape storage with its *Selectric* line of
-electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
-typewriters to the mass market. Writing for the *Encyclopedia of Library and
-Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
-first word processors, defined by the ability to record strokes and to print
-them onto paper *as a separate operation* [@eisenberg_word_1992]. The
-separation of input and output allows for word processing as such. An article
-in the *IBM Journal for Research and Development* explains that the real
-significance of the MT/ST workstation was in the introduction of new "power
-typing" technologies: "For the first time the typist could type at 'rough
-draft' speed, 'backspace and strike over' errors, and not worry about the
-pressure of mistakes made at the end of the page [@may_ibm_1981, 742]."
-
-We may think of word processing as temporal extension of the page. Words on
-magnetic storage medium begin to exist in the ephemeral state, giving the
-typist an opportunity to edit and emend *before* commitment to paper, in its
-immutable form, and as a separate operation, removed from the immediate process
-of inscription. The very invention of word processing thus corresponds to the
-decline of text into ephemera. What was visible through a hole punch on ticker
-tape, was now submerged into tape. The tape no longer afforded human legibility
-nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
-the earlier sections) underlying structure (7-bit encoding, in this case)
-which, on tape, ceased to be recoverable by the naked eye. The inscription lay
-literally beyond (human) sense. Lacking the perceptual apparatus to perceive
-what are called "magnetic domains" and inscribed "polarities"^[ln2-magnet] that
-take place of visible alphabets. Magnetic storage, widely used in all
-contemporary devices, remains, for all unassisted intents and purposes, a black
-slate.
-
-[^ln2-magnet]: See for example @ohmori_memory_2015 and
-@stefanita_magnetism_2012, 1-69.
-
-#### C: Screen, 1968-today.
-
-By decoupling input and output, magnetic storage media affords the injection of
-time and space, in arbitrary intervals, between the process of inscription and
-comprehension. Content, coupled with control code, sinks beneath the matte
-surface of electrical charge. The final movement in the emergence of automated
-discourse reintroduces the illusion of immediacy into the process of
-inscription. Text, invisible in its material substratum, reappears on the
-screen, but, crucially, it longer corresponds to the actual inscription. This
-property is as perilous as it is liberating: perilous, because the flows of
-power and control can now be submerged under the shimmering surface of the
-screen, and liberating, because loosely coupled to its material substratum
-texts become both more fluid and more portable. Plainly put, the barriers to
-copying, sharing, exchanging, editing, remixing, and disseminating texts are
-reduced to a minimum.
-
-With the illusory role of the screen in mind, I propose 1968 as the year in
-which automated discourse takes its present form. On December 9th, 1968 Douglas
-Engelbart, then founder and primary investigator at the NASA and ARPA-funded
-Augmentation Research Center lab at the Stanford Research Institute, gave what
-became later colloquially known as "the mother of all demos
-[@tweney_mother_2008]" before an audience of roughly one thousand or so
-"computer professionals" attending the Fall Joint Computer Conference held at
-the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
-the arrival of almost every technology prophesied by Vannevar Bush in his
-influential 1945 piece for *The Atlantic* [@bush_as_1945]. In the course of one
-hundred or so minutes, Engelbart, speaking through a headset in a prerecorded
-address, features functional (live) prototypes of the following: graphical user
-interfaces, video conferencing, remote camera monitoring, links and hypertext,
-version control, text search, image manipulation, windows-based user
-interfaces, digital slides, networked machines, mouse, stylus, and joystick
-inputs, and "what you see is what you get" (WYSIWYG) word processing.
-
-!["NOW IS THE TIME FOB." Schematics for a "display system" from
-@engelbart_x-y_1970.](images/engel.png)
-
-In the NASA Contractor Report Engelbart describes his lab as a group of
-researchers "developing an experimental laboratory around an interactive,
-multiconsole computer-display system" and "working to learn the principles by
-which interactive computer aids can augment the intellectual capability of the
-subjects [@engelbart_human_1969, 1]." Cathode Ray Tube (CRT) are central to the
-research program. In one of many patents that came out of Engelbart's
-laboratory, Engelbart pictures the "display system" as a workstation that
-combines a typewriter, a CRT, and the mouse. The system is frozen in
-mid-action, with the words "THE TIME IS NOW FOB" prominently displayed on the
-screen. Although Engelbart does not explain the message, the system's user is
-evidently in the process of editing, about to correct the nonsensical FOB into
-a FOR. Engelbart writes, "One of the potentially most promising means for
-delivering and receiving information to and from digital computers involves the
-display of computer outputs as visual representation on a cathode ray tube and
-the alternation of the display by human operator in order to deliver
-instructions to the computer [@engelbart_x-y_1970i]."
-
-The CRT closes the circuit between human and machine, but at a cost. Where in
-short-lived screen-less word processors (like the IBM MT/ST) the operator would
-have to keep the underlying structure of the document in mind, the CRT unfolds
-the structure topographically, allowing for spatial navigation along the
-document---restoring, in a sense, the natural affordances of print (think of
-rapid navigation through a book, as when riffling pages, for example, a
-technique lost in the punch-card and magnetic tape era). Data becomes visible
-again. Moreover, represented in the shimmer of the cathode ray, it attaches
-itself lightly to the retina. The system users that the screen liberates them
-material confines of print. One user reports (and I reproduce the reports
-verbatim, since the formatting matters here):
-
-```
-1B2B1 "To accommodate and preserve a thought or
-piece of information that isn't related to the work
-of the moment, one can very quickly and easily
-insert a note within the structure of a file at such
-a place that it will nether get in the way nor get
-lost.
-
-1B2B2 "Later, working in another part of the file,
-he can almost instantly (e.g. within two seconds)
-return to the place where he temporarily is storing
-such notes, to modify or add to any of them.
-
-1B2B3 "As any such miscellaneous thought develops,
-it is easy (and delightful) to reshape the structure
-and content of its discussion material.
-```
-
-Engelbart, interested in collecting empirical phenomenological accounts of the
-system, records what must count as one of the most evocative passages to appear
-on the pagess of an NASA (or any) technical report. It starts out innocently
-enough, in the Results and Discussion section an anonymous user write:
-
-```
-1B4 "Ifind that I can express myself better, if I can
-make all te little changes and experiments with wording
-and structure as they occur to me." [Here the user
-experiments a little with using structural decomposition
-of a complex sentece.]
-
-```
-A deconstruction indeed follows, as the author begins to deviate from the
-conventions of the engineering discourse. The numbered passsages, and
-unexpected enjambment heightens the stuccoto quality of the prose, that at
-times reaches towards the lyric:
-
-```
-Quote here.
-```
-
-Strange. Engelbart is the author of the report. But perhaps the user was
-invited to edit? Who is the author here.
-
-
-
-Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
-
-The distance between magnetic storage and the CRT is arbitrary.  The pipe can
-go deep. PDF MOTHERFUCKING INJECTION
-
-
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality.  In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
-
-IBM Format
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
-pause between each transmitted character can vary in length. For this reason
-ITA-2 includes two extra bits for indicating "start" and stop" elements. The
-letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
-zeros represent the absence and the presence of current[@ITU1932, 36].
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally.
-
-ASCII.
-Plain text in Unix. Human readability. TROFF.
-
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-## Chapter 3: Now is the Time Fob (Reading Surfaces)
+## Chapter 3: WYSINAWYG (What You See Is Not Always What You Get)
 `content, matter, form, formatting`
 
 ### 3.0 Abstract
@@ -2749,279 +2393,7 @@ photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
 
-### 3.3 Algorithm as Fetish
-
-Wendy Hui Kyong Chun
-On "Sourcery," or Code as Fetish. What could knowing software even mean, she
-asks.
-
-I can only begin to work of re-inscribing the A more careful analysis of
-"microscopically written inscriptions" [@kittler_there_1995] in the in the
-passage between typewriters and personal computers, reveals plenty of space for
-human agency. Media determine our situation only to the extent that we continue
-to treat the everyday transformation of thought into pixel (and thereto into
-literary control systems that structure human experience) as mystical and
-mystifying black-box mechanism.
-
-Engineer vs. brick levi strauss?
-
-
-Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
-of the tele-technology [@derrida_specters_2006, 213].
-
-Let me make my intentions visa vis Marx perfectly clear. I have no interest in
-mobilizing the entire weight of Marxist critique. A whole subset of Marxist
-terminology (dictatorship, proletariat, capital) falls outside of my purview
-here. Rather, I would like to co-opt Marx's discussion on the fetishism of
-commodities and import it, wholesale, to the conversation on algorithms. My
-interest lies in the humanism of Marx, whose thought, despite being perpetually
-out of time, continues to surprise with penetrating insight.
-
-"All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual minds or from some
-'essential' properties of a digital computer or network. They come from
-software developed by groups of people and marketed to large number of users
-[@manovich_there_2011, 272-273]."
-
-"An [algorithm] is therefore a mysterious thing, simply because in it the
-social character of men's [agreements] appears to them as an objective
-character stamped upon the product of those [agreements]." "There it is a
-definite social relation between men, that assumes, in their eyes, the
-fantastic form of a relation between things." "The relations connecting the
-[agreements] of one individual with that of the rest appear, not as direct
-social relations between individuals at work, but as what they really are,
-material relations between person and social relations between things."
-[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
-of the will, foresight and action of the producers.  To them, their own social
-action takes the form of the action of objects, which rule the producers
-instead of being ruled by them." To strip the "mystical veil," algorithms as
-contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
-automatism outside the head" .Necromancy.
-
-Hijack the whole conversation from the
-
-The subject is back. Unlike natural-language texts where meaning is derived in
-conversation between reader and author, algorithms and control codes have
-unambigious meaning, that ensure reliable reproduction. The environment is
-controlled. The codes are tested. The will is there!
-
-Derrida "If one follows the letter of the text, the critique of the ghost or of
-spirits would thus be the critique of a subjective representation and an
-abstraction, of what happens in the head, of what comes only out of the head,
-that is, of what stays there, in the head, even as it has come out of there,
-out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
-
-In religion people make their empirical world into an entity that is only
-conceived, imagined, that confronts them as something foreign
-[@marx_collected_1976, 159].
-
-imagined commodity =
-algorithm labor = contracts, agreements
-
-[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
-
-[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
-communication, the top-most layer of protocols and interface method is called
-the "application layer" and the bottom-most layer the "physical layer
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
-as being "responsible for encoding bits onto a transmission medium, whether
-wires, fiber optics, or radio broadcast, in ways that maximize the transmission
-rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
-
-[^ln2-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
-
-[^ln2-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
-
-[^ln2-alt]: "We have to think (in a completely novel way) the relation
-between a science and the ideology [...] the fact that such an investigation
-confronts us with the observation that every science, in the relationship it
-has with ideology it emerged from, can only be thought as a 'science of
-ideology, would disconcert us, were we not forewarned of the name of the
-*object* of knowledge, which can only exist in the form of ideology
-[@althusser_reproduction_2014, 46]."
-
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
-like "ethnology-like any science-comes about within the element of discourse,"
-and "this moment was that in which language invaded the universal problematic;
-that in which, in the absence of a center or origin, everything became
-discourse-provided we can agree on this word-that is to say, when everything
-became a system where the central signified, the original or transcendental
-signified, is never absolutely present outside a system of differences. The
-absence of the transcendental signified extends the domain and the interplay of
-signification ad infinitum" (278-294).
-
-[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
-flipping Hegel, who prioritized the transcendent spiritual over the physical
-and material forms of life, over "back to his feet." See for example
-@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
-a table out of it. Yet, for all that, the table continues to be that common,
-every-day thing, wood. But, so soon as it steps forth as a commodity, it is
-changes into something transcendent. It not only stands with its feed on the
-ground, but, in relation to all other commodities, it stands on its head, and
-evolves out of its wooden brain grotesque ideas, far more wonderful than
-'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
-dialectic of the concept itself became merely the conscious reflex of the
-dialectical motion of the real world and the dialectic of Hegel was placed upon
-its head; or rather, turned off its head, on which it was standing before, and
-placed on its feet again" (44).
-
-### 3.1 Book / Gun Moreno
-
-"Robots have also the attribute in common of being able to affect human beings
-or other targets 'at a distance,' a book, a radio or a television sender can
-entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
-kill people and destroy at a distance. The book is a robot par excellence
-[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
-Sigmund Freud and one of the pioneers in sociology and group therapy.
-
-Zoomatics --- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separted from him, can fucntion
-independently." "Agression coming from robots." [@moreno_who_1953, 237] The
-first is sociometry. The second is "creative revolution." Robots = cultural
-conserves and machines. 238. "A book, a film, an atomic bomb, they do not
-perish in the human sense, the same capacity is always there, they can be
-reproduced ad infinitum. A book may have to be reprinted, a film copied on
-and off, but if anything perishes it is not their essence but some material
-entourage. Our human world is increasingly filled with robots." 239
-
-A text is a special type of a gun. It can be reduced to textual description,
-transmitted, and manufactured cheaply. As the pendulum of textual scholarship
-swings back from treating text as pure idea, the materialists must acknowledge
-the aberrant specificity of textual material. Text routinely separates from its
-physical medium. The ability to change form is what gives it the ability to act
-at a distance.
-
-### 3.4 Authenticity (problem of copies)
-
-It is quite odd, if you think about it, to believe that objects somehow retain
-an aura or a trace of their history: "a handkerchief used by Princess Diana,"
-or "the cigar box owned by President Kennedy." In some real sense, the
-historical patina covering these objects is only imagined. President Kennedy's
-fingerprints and the tears of Princess Diana have long disappeared from their
-physical medium. Their trace cannot be reduced to "mere" physical
-characteristics: that is, to actual scratches, stains, or molecules,
-recoverable from the object. Rather, the object had to "be there" in some way,
-acquiring a patina of authenticity. "Having been there" is what gives the
-object value, sentimental or otherwise, in a condition that refuses formal
-reduction to a set of merely material properties. The high price contemporary
-society places on authentic artifacts is therefore a type of magical thinking.
-Walter Benjamin's famous essay on the work of art in the age of mechanical
-reproduction appears to both celebrate and lament the demise of such magic.
-"The technique of reproduction detaches the reproduced object from the domain
-of tradition," wrote Benjamin. "By making many reproductions it substitutes a
-plurality of copies for a unique existence. And in permitting the reproduction
-to meet the beholder or listener in his own particular situation, it
-reactivates the object reproduced. These two processes lead to a tremendous
-shattering of tradition which is the obverse of the contemporary crisis and
-renewal of mankind [@benjamin_work_1969, 217-253]." And yet, for Benjamin, the
-easy reproducibility of modern art forms like film and photography also
-"emancipates the work of art from its parasitical dependence on ritual
-[@benjamin_work_1969, 217-253]." One could read Benjamin's famous essay as a
-piece of technological nostalgia, or as an expose on the magic and superstition
-latent in modernist art. Crisis or emancipation? Benjamin feels both, and in
-doing so he captures the metaphysical anxiety of the modern age. We desire for
-our Vermeers to stay special but also for a Vermeer to hang in every home,
-peering back at us from a multitude of anonymous reproductions.
-
-The modern world faces the challenge of authenticity, which we have only began
-to assimilate: politically, economically, and philosophically. The ubiquitous
-holographic certificate of authenticity on a luxury handbag or on a "Digital
-Versatile Disk" (how antiquated the DVD sounds already!) is a cheap band-aid
-hiding the immaterial nature of these artifacts. Fashion and software companies
-are reluctant to talk publicly about piracy,[^ln11-counter] because the so
-called "knock-offs" are essentially exact duplicates, often "leaked" from the
-very same factories producing the original.
-
-Note that it makes no sense to talk about "what was meant" by the designer of
-the handbag, the way textual critic may talk about authorial intention. Nor
-would it make sense to "correct" some perceived flaw in the painting by
-Vermeer. The practice parallel to "textual criticism" in visual arts is
-restoration. Although similar to textual criticism in its aims to recover some
-notion of the original, crucially, the practice of art restoration takes place
-without reproduction. Unlike a critical volume, which essentially reprints the
-work in its reconstructed entirety, restoration happens at the site. All
-"unauthorized" copies constitute a forgery that competes for attention with the
-original. One could say that for painting and handbags "matter is synonymous
-with meaning," but the sentiment strains at the limits of critical vocabulary
-in the tradition that gives us only the binaries of form and content.
-
-The context-dependence of an artifact is not even medium-specific, as
-Goodman would suggest. Texts are more allographic than handbags and paintings,
-but Vermeers and Louis Vuitton purses are also in some sense perfectly
-reproducible, like texts. They are texts, and I do not mean it in some
-post-structuralist notion of "everything is a text."[^ln11-derrida]
-
-Technologies like 3D scanning and printing increasingly reduce physical objects
-to their textual representation, as is the case with the stereo lithographic
-document (STL) format that describes objects for 3D printing.  Here, for
-example, I reproduce code that describes "a surface" of a functional gun (the
-code made available online by *Defense Distributed*, a self-described civic
-liberty activist group):
-
-```
-22=(
-BOUNDED_SURFACE()
-B_SPLINE_SURFACE(1,2,((#34104,#34105,#34106),(#34107,#34108,#34109)),
- .UNSPECIFIED.,.F.,.F.,.F.)
-B_SPLINE_SURFACE_WITH_KNOTS((2,2),(3,3),(15.1641909236141,15.3257778193699),
-(2.99329024107099,3.14159265358979),.UNSPECIFIED.)
-GEOMETRIC_REPRESENTATION_ITEM()
-RATIONAL_B_SPLINE_SURFACE(((1.,0.997252058758362,1.),(1.,0.997252058758362,
-1.)))
-REPRESENTATION_ITEM('')
-SURFACE()
-);
-```
-
-This piece of code exists in its Platonic ideal *before* the physical artifact.
-As costs of reproduction approach zero, so does the line between an object and
-its description. Imagine a world where to think "gun" is also to seamlessly
-bring one into existence. The erosion of boundaries between object and idea has
-a pronounced effect on the governance of goods, felt precisely at the
-distinction between the autographic and the allographic. Governments currently
-regulate the manufacture and the distribution of guns as artifacts, but how
-does one regulate guns as texts and ideas? Any such effort amounts to
-censorship. What was first regulated under the regime of property law, now
-increasingly falls under the regimes of intellectual property and rights to
-speech. Where does that leave the practice of textual criticism? In such a
-world there can be no distinction between works and texts. Unlike millions of
-reproduced Vermeers (which no doubt occupy this world in the form of postcards,
-posters, and photographs), text is text. It lies before us in glorious
-flatness, as thick as a sheet of paper.
-
-Text as I have already began to define it Chapter One, is a digital mode of
-representation, defined, at least in part, by a relative lack of "stickiness"
-to its physical medium. Textual artifacts therefore exhibit the dualism between
-text and work to a much greater extent than other forms of art and
-communication. A Vermeer is always a work. Not so with *Hamlet*. "Hamlet" may
-indicate a category of relate, or, an individual instance of a given work.
-Philosophers Nelson Goodman and Catherine Elgin explain this peculiarity by
-making the distinction between "works of art whose identity depends on their
-history of production" and works whose identity does not. The former they call
-"autographic" and the latter "allographic [@goodman_reconceptions_1988, 65]."
-These terms will be useful for us throughout the book. Architecture and
-painting, in this view, are strongly autographic disciplines. An exact copy of
-a Vermeer or of a building by Frank Lloyd Wright could never rise to the status
-of the original. The originals have what Walter Benjamin called an "aura or
-authenticity." No amount of precision, down to the molecular level, could
-substitute for the historical patina of the original artifact.
-
-### 3.5 Form and Content (hegel, plato, and surface reading)
+### 3.1 Reading Surfaces
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -3367,186 +2739,518 @@ transcription of the original text amounts to an interpretation, not
 self-identical to the letter of the text (a translation, for example)
 [@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
 
-### 3.6 Copy Text (textual criticism)
+### 3.2 NOW IS THE TIME FOB
 
-The division of text into form and content makes a difference in more
-utilitarian ways as well. For example, imagine the challenge of compiling all
-known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
-problem of what edition to use as the "base" for such a project presents itself
-immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
-*Folger Digital Texts*, "readers assume that there is a single text for the
-plays: what Shakespeare wrote. But Shakespeare's plays were not published the
-way modern novels or plays are today: as a single, authoritative text. In some
-cases, the plays have come down to us in multiple published versions,
-represented by various Quartos (Qq) and by the great collection put together by
-his colleagues in 1623, called the First Folio (F). There are, for example,
-three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
-*Romeo and Juliet*, and others. Editors choose which version to use as their
-base text, and then amend that text with words, lines or speech prefixes from
-the other versions that, in their judgment, make for a better or more accurate
-text [@mowat_textual_2012]." In other words, where the readers expect to
-encounter *Hamlet* as a single, unified idea, they instead encounter a
-multiplicity of slightly diverging textual "witnesses." Errors in transcription
-and editorial interventions accumulate. The proliferation of unlicensed copies,
-translations, and imitations further adds to the complexity of the problem.
+Let's try it again. What lies beneath the text? We are accustomed to thinking
+about that question metaphorically and answer in accord: meaning, narrative,
+representation, order, discourse, or ideology. But the materialist answer is
+much simpler: pulp.  Increasingly, it is also: glass, plastic, liquid crystal,
+copper, laminates, and silicone. Not much space separates ink from paper.
+There, textuality lies flat, in two dimensions. What you see is truly what you
+get. Not so on the screen connected to other screens. Networked textuality
+extends into the third dimension, away from the reader and deep into the bowels
+of the machine. The Open Systems Interconnection (OSI) reference model of
+communication (drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+International Organization for Standardization in 1984, as ISO 7498) describes
+no less than seven layers: from the Application Layer, concerned with the
+semantics of application ("all services directly comprehensible to the user
+[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
+electrical, functional, and procedural characteristics" of communication
+[@day_revised_1995; @ncs_national_1988; @ncs_open_1981]. The OSI model layers
+include the Presentation Layer, Session Layer, Data Link Layer, Transport
+Layer, Network Layer, Data Link Layer [@day_osi_1983; @day_revised_1995;
+@miller_iso_1981, @ncs_open_1981, @piatkowski_iso-ansi_1980].
 
-Editors of classical literature will often solve the problem of diverging
-copies by designating one version as canonical, preserving the formal
-characteristics of the given version down to individual line breaks, as is
-often done with Platonic dialogs. It then becomes possible to collate
-commentaries, connecting each to individual words and passages at their
-canonical location. The problem remains in the abstract: which version to count
-as canonical? The act of deciding on what constitutes an authoritative edition
-can quickly become a contentious issue, particularly when the text in question
-carries religious or political significance.
+![Structure of an OSI node and an example network. From
+@piatkowski_iso-ansi_1980, 114-15.](images/osi.png]
 
-A whole field of textual criticism exists in the service of negotiating
-"critical" editions which in some way preserve the struggle to reconstruct a
-measure of authority. But what should count for being authoritative? A number
-of logical possibilities find as many ardent adherents. For some, the act of
-deriving the authoritative text lies in reconstructing authorial intent, using
-the author's notes, for example, or from first-hand witness testimony. Others
-place a premium on reconstructing and analyzing the writing process itself, in
-what has been dubbed as "genetic criticism  [@deppman_genetic_2004, 1-36]." Yet
-another approach will compare multiple editions of the same text to derive a
-possible meta-text, preserving all extant variations. Yet others will simply
-rely on their judgment to produce what they believe is a "true" text based on a
-number of personal and eclectic considerations [@bowers_rationale_1950,
-@bowers_shakespeares_1954, @mcgann_radiant_2004]. Such approaches to textual
-criticism have at least this one thing in common: behind the fuzzy profusion of
-textual material they perceive the outlines of a single, unified work. As G.
-Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
-distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
-a textual critic of his kind, all real-word variants and reproductions are
-suspect because possibly corrupt in some way. Despite its careful attention to
-the materiality of the text as artifact, textual criticism in this vein remains
-a classically idealistic pursuit. The work exists as an ideal form in the realm
-of the ideal.
+These are the same layers that Alexander Galloway unites in a system of what he
+calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
+It is distributed to be sure, although to what extent decentralized, is a
+matter of some debate. Like a good soldier, each device in the pictured network
+internalizes dozens if not hundreds of protocols that enable to system as a
+whole to function seamlessly (in the way for example your machine can at one
+moment connect to one wireless access point, and at another moment be tethered
+to an Ethernet cable with minimal loss of connectivity from the user's point of
+view). Yet, these protocols are also strongly centralized, in the sense of
+legislated by an international governing body (the International Organization
+for Standardization in case of OSI and the Internet Engineering Task Force in
+the case of TCP/IP) and subject to the usual political pitfalls of pan-global
+consortia. Whatever the case may be, the subject exists outside, on the
+periphery of the network. The flows of power and control are obscured by
+surface representations at the application layer.
 
-[ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
-reading or listening to receive a message from the past entails the effort to
-discover, through the text (or texts) one is presented with, the work that lies
-behind [@tanselle_rationale_2010, 13-18.]."
+Automated discourse has gained such opacity and depth in several stages: first,
+by coupling content and control on the surface of removable paper storage media
+(ticker tape and punch cards); second, in removing inscription from view onto
+magnetic tape; and, finally, by manufacturing an illusion of visibility on the
+screen.
 
-Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
-William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
+I offer the following historical snapshots and exemplary devices as
+illustrations that move us roughly from tail end of the Gutenberg galaxy into
+the present age:
 
-"To restore an edifice means neither to maintain it, nor to repair it, not to
-rebuild it; it means to reestablish it in a finished state, which may in fact
-never have actually existed at any given time." [@price_historical_1996, 314;
-orig from @viollet-le-duc_foundations_1990, 195]
+#### A: Removable storage media and automation, 1725-1964.[ln2-loom]
 
-"It is for all these buildings, threfore, of all times and styles, that we
-plead, and call upon those who hve to deal with them to put Protection in the
-place of Restoration, to stave off decay by daily care, to prop a perilous wall
-or mend a leaky roof by such means as are obvioiusly mant for support or
-convering, and show no pretence of other art, and othrwise to resist all
-tampering with either the favric or ornament of the buildings as it stands; if
-it has become 
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent, simply titled
+"Controller." "My invention relates to all controllers," Goldberg writes. "The
+object of the invention is to provide a mechanism operable by a control sheet
+which is legible to every person having sufficient education to enable him to
+read. To illustrate my invention, I produce a control sheet in which the
+control characters are in the form of the letters of the ordinary English
+alphabet [@goldberg_controller_1915]." Goldberg's invention involves a
+perforated "control sheet in which the control characters are in the form of
+ordinary language." Rather than using ticker tape, Goldberg's perforations form
+letters. On Goldberg's control sheets, the language of machines and the
+language of humans coincide.
 
-But whose who make the change wrout in our day under the name of Restoration,
-while professing to bring back a building to the best time of its hisory, have
-no guide but each his own individual whim to point out to them what i s
-admirable and what contemptible; while the very nature o their task compels
-them to destroy something and to supply the gap by imagining what the earlier
-builders should or might have done." Data munging. Irreversible changes.
-@price_historical_1996, 320; orig in "William Morris, "The Principles of the
-Society as Set Forth Upon its Foundation," Builder 35 August 1877.
+[ln2-loom]: These dates, as is usually the case with periodization, are
+somewhat arbitrary. I suggest 1725 as inaugural date when the French textile
+worker Basile Bouchon used "drill paper" to automate industrial drawlooms
+[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
+honors could also go to the brothers Banū Mūsā, 9th century automata inventors
+from Baghdad; to Jacques De Vaucanson, who delighted the public with his
+life-like mechanisms in mid 18th century [@riskin_defecating_2003]; or to
+Joseph Charles Marie Jacquard who improved upon and popularized Bouchon's looms
+on an industrial scale around the same time.
 
-Ruskin lamp of memory.
+![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
+"@goldberg1911")
 
-"It is impossible, as impossible as to raise the dead, to restore anything that
-has every been great or beautiful in architecture [...] That spirit which is
-given only by the hand and eye of the workman, never can be recalled. Another
-spirit may be given by another time, an it is then a new building; but the
-spirit of the dead workman cannot be summoned up, and commanded to direct other
-hands, and other thoughts. And as for direct and simple copying, it is palpably
-impossible. What copying can there be of surfaces that have been worn half an
-inch down [@staniforth_historical_2013, 2]?"
+The Controller never caught on, but the patent makes it clear that Goldberg,
+among others, was aware of the problem: the mechanization of type, automation,
+and remote control required specialized training. With the advent of the
+automated telegraph, content meant for people was now being intermixed with
+machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
+using cards, perforated in the shape of the English alphabet. Besides carrying
+(human-readable) content, the perforations do "double duty" to mechanically
+manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
+[@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
+based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
+punch-cards that powered weaving looms, player pianos, and census tabulators
+coupled message and control. The era of ticker tape punch cards can be thought
+to end with the introduction the mass-market introduction of IBM Magnetic
+Tape/Selectric Typewriter in 1964.
 
-"But it is said there may come a necessity for restoration! Granted. Look the
-necessity full in the face and understand it on its own terms. It is a
-necessity for destruction. Accept it as such, pull the building down, throw its
-stones into neglected corners, make ballast of them, or mortar, if you will'
-but do it honestly, and do not set up a Lie in its place
-[@staniforth_historical_2013, 3]."
+#### B: Magnetic tape, 1888-1968.
 
-On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
-alter of a Company in the Church of S. Francesco, he painted in fresco the
-Circumcision of Our Lord, which in considered beautiful to a marvel, although
-the Infant, having been injured by damp, was restored by Sodoma and made much
-less beautiful than before. And, in truth, it would be sometimes better to
-leave works half spoilt, when they have been made by men of excellence, rather
-than to have them retouched by inferior masters." 1550 Tim's Vermeer.
+"Historically unforeseen, barely a thing, software's ghostly presence produces
+and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
+an influential monograph that continues to shape the field of software studies.
+She quotes several prominent computer scientists and media historians to the
+same effect. But what makes software ephemeral?  Embossed onto ticker tape or
+punched into the card, early software protrudes through the medium. In the age
+of the telegraph, the largest barrier to comprehension of software is encoding.
+But once the cipher is known and format identified, the inscription makes
+itself visible to view. Early programmable media were hardly ephemeral.
+Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
+an early (post-WWII) pioneer in the field of computational philology, carting
+his punch cards around Italy on a truck.[^ln2-busa] Code before its
+electro-magnetic period was burdensome, fragile, unwieldy, and most of all,
+visible.
 
-picture cleaning as removing as removal of "varnishes and other encrustations,
-by which a paininting may be obscured, but by which it is usulaly also in some
-measur protected from injury." [@bomford_issues_2004, 60] Original in the
-Report from the Select Committee on the National Gallery, London 1853, vi-xi.
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy."
 
-Colliveau set about [restoring]this picture with uncommon solenity, because it was his
-own. He began with the most delicate pumice stone, and very soon got into the
-walls of th building, but was astonished to find the apearance of bricks and
-mortar still, although not guite soneat; he soon cleared away the wall on
-discovering a room beyond, and pictures, furniture, &c. most beautiful.
-Gracious powers! how was he agitated; forgetting totally the mischief he was
-commiting, his elbow went like a fiddler's; every thing vanished.---However,
-finding a bed, the curtains of which (a dark green) were drawn close, he went
-to work upon it ver tenderly; presently a pot de chambre came  in sight!---His
-whole souldwas absorbed; his face all one ghastly grin; his legs (like German
-flutes) tottered under him. Not that great philosopher Guffin Ragba, was more
-agitated while cutting the leather from off his bellow, to disover how wind was
-make, than was Monsieru Collifeau while scroring off the bed cloaths; at last
-he found a lady asleep, very beautiful, because very fat, and a Dutch woman.
-Now this part I did not see, and I believe but very few besides himself; but
-alas! hew was soon to be at the end of his discoveries. Having got a glimpse of
-some gilding, he redoubled his efforts, when he found it was an inscription; it
-was in Dutch, and nearly thus, as translated by Mr. Peter La Cave:---"Now
-caitiff, meditate on th havoc though hast made throughout thy lie, and go thang
-thyself. In this picture, wretch! though have destroyed, what to the end of the
-world, can never be replaced." [@bomford_issues_2004, 44-45]. Originally from
-Julio Caesar Ibbetson, An Accidence, or Gamut, of Painting in Oil and water
-Colous . London: Darton and Harvey, 1803, 5-14.
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card (@may_ibm_1981, 744)." Image by Pointillist
+under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
 
-"The sculptor wastes away th rudo block til he has accomplished the desired
-form. not so the painter. he builds up his forms from a blank surface, and
-hides, as he rogresses all the preliminary layers upon which the etxternal
-colours depend for durability and lustre. And hence, not on the meaning and
-spririt of the work must be understood; the restorer must also be familiar with
-he naure of the materials and the manner of their employment.
-[@bomford_issues_2004, 70]. Original from @merritt_dirt_1854, 67-72
+The principles of magnetic recording were developed by Oberlin Smith (among
+others), the American Engineer who also filed several inventions related to
+weaving looms at the end of the 19th century. In 1888, inspired by Edison's
+mechanical phonograph, Smith made public his experiments with an "electrical
+method" of sound recording using a "magnetized cord" (cotton mixed with
+hardened steel dust) as a recording medium. These experiments were later put
+into practice by Valdemar Poulsen of Denmark, who patented several influential
+designs for a magnetic wire recorder [@smith_possible_1888;
+@poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
+@engel_1888-1988_1988; @thiele_magnetic_1988].
+
+In 1964, IBM combined magnetic tape storage with its *Selectric* line of
+electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
+typewriters to the mass market. Writing for the *Encyclopedia of Library and
+Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
+first word processors, defined by the ability to record strokes and to print
+them onto paper *as a separate operation* [@eisenberg_word_1992]. The
+separation of input and output allows for word processing as such. An article
+in the *IBM Journal for Research and Development* explains that the real
+significance of the MT/ST workstation was in the introduction of new "power
+typing" technologies: "For the first time the typist could type at 'rough
+draft' speed, 'backspace and strike over' errors, and not worry about the
+pressure of mistakes made at the end of the page [@may_ibm_1981, 742]."
+
+We may think of word processing as temporal extension of the page. Words on
+magnetic storage medium begin to exist in the ephemeral state, giving the
+typist an opportunity to edit and emend *before* commitment to paper, in its
+immutable form, and as a separate operation, removed from the immediate process
+of inscription. The very invention of word processing thus corresponds to the
+decline of text into ephemera. What was visible through a hole punch on ticker
+tape, was now submerged into tape. The tape no longer afforded human legibility
+nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
+the earlier sections) underlying structure (7-bit encoding, in this case)
+which, on tape, ceased to be recoverable by the naked eye. The inscription lay
+literally beyond (human) sense. Lacking the perceptual apparatus to perceive
+what are called "magnetic domains" and inscribed "polarities"^[ln2-magnet] that
+take place of visible alphabets. Magnetic storage, widely used in all
+contemporary devices, remains, for all unassisted intents and purposes, a black
+slate.
+
+[^ln2-magnet]: See for example @ohmori_memory_2015 and
+@stefanita_magnetism_2012, 1-69.
+
+#### C: Screen, 1968-today.
+
+By decoupling input and output, magnetic storage media affords the injection of
+time and space, in arbitrary intervals, between the process of inscription and
+comprehension. Content, coupled with control code, sinks beneath the matte
+surface of electrical charge. The final movement in the emergence of automated
+discourse reintroduces the illusion of immediacy into the process of
+inscription. Text, invisible in its material substratum, reappears on the
+screen, but, crucially, it longer corresponds to the actual inscription. This
+property is as perilous as it is liberating: perilous, because the flows of
+power and control can now be submerged under the shimmering surface of the
+screen, and liberating, because loosely coupled to its material substratum
+texts become both more fluid and more portable. Plainly put, the barriers to
+copying, sharing, exchanging, editing, remixing, and disseminating texts are
+reduced to a minimum.
+
+With the illusory role of the screen in mind, I propose 1968 as the year in
+which automated discourse takes its present form. On December 9th, 1968 Douglas
+Engelbart, then founder and primary investigator at the NASA and ARPA-funded
+Augmentation Research Center lab at the Stanford Research Institute, gave what
+became later colloquially known as "the mother of all demos
+[@tweney_mother_2008]" before an audience of roughly one thousand or so
+"computer professionals" attending the Fall Joint Computer Conference held at
+the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
+the arrival of almost every technology prophesied by Vannevar Bush in his
+influential 1945 piece for *The Atlantic* [@bush_as_1945]. In the course of one
+hundred or so minutes, Engelbart, speaking through a headset in a prerecorded
+address, features functional (live) prototypes of the following: graphical user
+interfaces, video conferencing, remote camera monitoring, links and hypertext,
+version control, text search, image manipulation, windows-based user
+interfaces, digital slides, networked machines, mouse, stylus, and joystick
+inputs, and "what you see is what you get" (WYSIWYG) word processing.
+
+!["NOW IS THE TIME FOB." Schematics for a "display system" from
+@engelbart_x-y_1970.](images/engel.png)
+
+In the NASA Contractor Report Engelbart describes his lab as a group of
+researchers "developing an experimental laboratory around an interactive,
+multiconsole computer-display system" and "working to learn the principles by
+which interactive computer aids can augment the intellectual capability of the
+subjects [@engelbart_human_1969, 1]." Cathode Ray Tube (CRT) are central to the
+research program. In one of many patents that came out of Engelbart's
+laboratory, Engelbart pictures the "display system" as a workstation that
+combines a typewriter, a CRT, and the mouse. The system is frozen in
+mid-action, with the words "THE TIME IS NOW FOB" prominently displayed on the
+screen. Although Engelbart does not explain the message, the system's user is
+evidently in the process of editing, about to correct the nonsensical FOB into
+a FOR. Engelbart writes, "One of the potentially most promising means for
+delivering and receiving information to and from digital computers involves the
+display of computer outputs as visual representation on a cathode ray tube and
+the alternation of the display by human operator in order to deliver
+instructions to the computer [@engelbart_x-y_1970i]."
+
+The CRT closes the circuit between human and machine, but at a cost. Where in
+short-lived screen-less word processors (like the IBM MT/ST) the operator would
+have to keep the underlying structure of the document in mind, the CRT unfolds
+the structure topographically, allowing for spatial navigation along the
+document---restoring, in a sense, the natural affordances of print (think of
+rapid navigation through a book, as when riffling pages, for example, a
+technique lost in the punch-card and magnetic tape era). Data becomes visible
+again. Moreover, represented in the shimmer of the cathode ray, it attaches
+itself lightly to the retina. The system users that the screen liberates them
+material confines of print. One user reports (and I reproduce the reports
+verbatim, since the formatting matters here):
+
+```
+1B2B1 "To accommodate and preserve a thought or
+piece of information that isn't related to the work
+of the moment, one can very quickly and easily
+insert a note within the structure of a file at such
+a place that it will nether get in the way nor get
+lost.
+
+1B2B2 "Later, working in another part of the file,
+he can almost instantly (e.g. within two seconds)
+return to the place where he temporarily is storing
+such notes, to modify or add to any of them.
+
+1B2B3 "As any such miscellaneous thought develops,
+it is easy (and delightful) to reshape the structure
+and content of its discussion material.
+```
+
+Engelbart, interested in collecting empirical phenomenological accounts of the
+system, records what must count as one of the most evocative passages to appear
+on the pages of an NASA (or any) technical report. It starts out innocently
+enough, in the Results and Discussion section an anonymous user write:
+
+```
+1B4 "I find that I can express myself better, if I can
+make all te little changes and experiments with wording
+and structure as they occur to me." [Here the user
+experiments a little with using structural decomposition
+of a complex sentece.]
+
+```
+A deconstruction indeed follows, as the author begins to deviate from the
+conventions of the engineering discourse. The numbered passsages, and
+unexpected enjambment heightens the stuccoto quality of the prose, that at
+times reaches towards the lyric:
+
+```
+Quote here.
+```
+
+Strange. Engelbart is the author of the report. But perhaps the user was
+invited to edit? Who is the author here.
 
 
-The wound
-that heals.
 
-Just giving you a taste of restoration vs. preservation. What would
+Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
-
-[^ln11-counter]: A documentary on counterfeit goods produced by BBC4
-interviews Christophe Zimmerman, Senior Technical Officer at World Customs
-Organization, who deplores the industry's lack of cooperation with law
-enforcement [@bbc4_counterfeiting_2013].
+The distance between magnetic storage and the CRT is arbitrary.  The pipe can
+go deep. PDF MOTHERFUCKING INJECTION
 
 
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality.  In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
 
-We have now traveled from the pixel down to magnetic storage media and back
-from the storage media to the screen. The passage opens up space between
-visible content, media, and the imposed forms that govern any and all higher
-notions of literary activity "floating" above this nominally "digital" layer.
-Technology does not determine the literary space: it has only the potential to
-hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and transmediation. I say nothing
-yet of the potential necessity of such regulation. Under certain conditions, in
-the name of privacy, security, or property rights, it may become necessary to
-flatten out and to treat text as more of an analog, media-bound modality of
-communication, limited in its ability to move across minds and cultures. But,
-it is also in our broadly human, civic interest to keep such mechanisms of
-constraint visible to view, under continual scrutiny of critical, close, and
-closest possible reading.
+IBM Format
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
+pause between each transmitted character can vary in length. For this reason
+ITA-2 includes two extra bits for indicating "start" and stop" elements. The
+letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
+zeros represent the absence and the presence of current[@ITU1932, 36].
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally.
+
+ASCII.
+Plain text in Unix. Human readability. TROFF.
+
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan1078, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+### 3.3 Spooky Action at a Distance
+
+"Robots have also the attribute in common of being able to affect human beings
+or other targets 'at a distance,' a book, a radio or a television sender can
+entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
+kill people and destroy at a distance. The book is a robot par excellence
+[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
+Sigmund Freud and one of the pioneers in sociology and group therapy.
+
+Zoomatics --- the relationship of man to man and the relation of man "to certain
+peculiar products of his mind, which when separted from him, can fucntion
+independently." "Agression coming from robots." [@moreno_who_1953, 237] The
+first is sociometry. The second is "creative revolution." Robots = cultural
+conserves and machines. 238. "A book, a film, an atomic bomb, they do not
+perish in the human sense, the same capacity is always there, they can be
+reproduced ad infinitum. A book may have to be reprinted, a film copied on
+and off, but if anything perishes it is not their essence but some material
+entourage. Our human world is increasingly filled with robots." 239
+
+A text is a special type of a gun. It can be reduced to textual description,
+transmitted, and manufactured cheaply. As the pendulum of textual scholarship
+swings back from treating text as pure idea, the materialists must acknowledge
+the aberrant specificity of textual material. Text routinely separates from its
+physical medium. The ability to change form is what gives it the ability to act
+at a distance.
+
+### 3.4 Algorithm as Fetish
+
+Wendy Hui Kyong Chun
+On "Sourcery," or Code as Fetish. What could knowing software even mean, she
+asks.
+
+I can only begin to work of re-inscribing the A more careful analysis of
+"microscopically written inscriptions" [@kittler_there_1995] in the in the
+passage between typewriters and personal computers, reveals plenty of space for
+human agency. Media determine our situation only to the extent that we continue
+to treat the everyday transformation of thought into pixel (and thereto into
+literary control systems that structure human experience) as mystical and
+mystifying black-box mechanism.
+
+Engineer vs. brick levi strauss?
+
+
+Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
+of the tele-technology [@derrida_specters_2006, 213].
+
+Let me make my intentions visa vis Marx perfectly clear. I have no interest in
+mobilizing the entire weight of Marxist critique. A whole subset of Marxist
+terminology (dictatorship, proletariat, capital) falls outside of my purview
+here. Rather, I would like to co-opt Marx's discussion on the fetishism of
+commodities and import it, wholesale, to the conversation on algorithms. My
+interest lies in the humanism of Marx, whose thought, despite being perpetually
+out of time, continues to surprise with penetrating insight.
+
+"All these software mutations and 'new species' of software techniques are
+social in a sense that they don't simply come from individual minds or from some
+'essential' properties of a digital computer or network. They come from
+software developed by groups of people and marketed to large number of users
+[@manovich_there_2011, 272-273]."
+
+"An [algorithm] is therefore a mysterious thing, simply because in it the
+social character of men's [agreements] appears to them as an objective
+character stamped upon the product of those [agreements]." "There it is a
+definite social relation between men, that assumes, in their eyes, the
+fantastic form of a relation between things." "The relations connecting the
+[agreements] of one individual with that of the rest appear, not as direct
+social relations between individuals at work, but as what they really are,
+material relations between person and social relations between things."
+[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
+of the will, foresight and action of the producers.  To them, their own social
+action takes the form of the action of objects, which rule the producers
+instead of being ruled by them." To strip the "mystical veil," algorithms as
+contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
+automatism outside the head" .Necromancy.
+
+Hijack the whole conversation from the
+
+The subject is back. Unlike natural-language texts where meaning is derived in
+conversation between reader and author, algorithms and control codes have
+unambigious meaning, that ensure reliable reproduction. The environment is
+controlled. The codes are tested. The will is there!
+
+Derrida "If one follows the letter of the text, the critique of the ghost or of
+spirits would thus be the critique of a subjective representation and an
+abstraction, of what happens in the head, of what comes only out of the head,
+that is, of what stays there, in the head, even as it has come out of there,
+out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
+
+In religion people make their empirical world into an entity that is only
+conceived, imagined, that confronts them as something foreign
+[@marx_collected_1976, 159].
+
+imagined commodity =
+algorithm labor = contracts, agreements
+
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
+as being "responsible for encoding bits onto a transmission medium, whether
+wires, fiber optics, or radio broadcast, in ways that maximize the transmission
+rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln2-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-alt]: "We have to think (in a completely novel way) the relation
+between a science and the ideology [...] the fact that such an investigation
+confronts us with the observation that every science, in the relationship it
+has with ideology it emerged from, can only be thought as a 'science of
+ideology, would disconcert us, were we not forewarned of the name of the
+*object* of knowledge, which can only exist in the form of ideology
+[@althusser_reproduction_2014, 46]."
+
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
+like "ethnology-like any science-comes about within the element of discourse,"
+and "this moment was that in which language invaded the universal problematic;
+that in which, in the absence of a center or origin, everything became
+discourse-provided we can agree on this word-that is to say, when everything
+became a system where the central signified, the original or transcendental
+signified, is never absolutely present outside a system of differences. The
+absence of the transcendental signified extends the domain and the interplay of
+signification ad infinitum" (278-294).
+
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
@@ -3840,6 +3544,302 @@ Books are not media they are platforms. Platform is all of the above. Plus the
 economic / cultural contexts. Amazon Kindle is a platform. Who are you
 communicating with? Yoursef. What is the message. Ultimtely, it is a message of
 self-identity.
+
+### 3.6 Copy Text (textual criticism)
+
+The division of text into form and content makes a difference in more
+utilitarian ways as well. For example, imagine the challenge of compiling all
+known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
+problem of what edition to use as the "base" for such a project presents itself
+immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
+*Folger Digital Texts*, "readers assume that there is a single text for the
+plays: what Shakespeare wrote. But Shakespeare's plays were not published the
+way modern novels or plays are today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published versions,
+represented by various Quartos (Qq) and by the great collection put together by
+his colleagues in 1623, called the First Folio (F). There are, for example,
+three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
+*Romeo and Juliet*, and others. Editors choose which version to use as their
+base text, and then amend that text with words, lines or speech prefixes from
+the other versions that, in their judgment, make for a better or more accurate
+text [@mowat_textual_2012]." In other words, where the readers expect to
+encounter *Hamlet* as a single, unified idea, they instead encounter a
+multiplicity of slightly diverging textual "witnesses." Errors in transcription
+and editorial interventions accumulate. The proliferation of unlicensed copies,
+translations, and imitations further adds to the complexity of the problem.
+
+Editors of classical literature will often solve the problem of diverging
+copies by designating one version as canonical, preserving the formal
+characteristics of the given version down to individual line breaks, as is
+often done with Platonic dialogs. It then becomes possible to collate
+commentaries, connecting each to individual words and passages at their
+canonical location. The problem remains in the abstract: which version to count
+as canonical? The act of deciding on what constitutes an authoritative edition
+can quickly become a contentious issue, particularly when the text in question
+carries religious or political significance.
+
+A whole field of textual criticism exists in the service of negotiating
+"critical" editions which in some way preserve the struggle to reconstruct a
+measure of authority. But what should count for being authoritative? A number
+of logical possibilities find as many ardent adherents. For some, the act of
+deriving the authoritative text lies in reconstructing authorial intent, using
+the author's notes, for example, or from first-hand witness testimony. Others
+place a premium on reconstructing and analyzing the writing process itself, in
+what has been dubbed as "genetic criticism  [@deppman_genetic_2004, 1-36]." Yet
+another approach will compare multiple editions of the same text to derive a
+possible meta-text, preserving all extant variations. Yet others will simply
+rely on their judgment to produce what they believe is a "true" text based on a
+number of personal and eclectic considerations [@bowers_rationale_1950,
+@bowers_shakespeares_1954, @mcgann_radiant_2004]. Such approaches to textual
+criticism have at least this one thing in common: behind the fuzzy profusion of
+textual material they perceive the outlines of a single, unified work. As G.
+Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
+distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
+a textual critic of his kind, all real-word variants and reproductions are
+suspect because possibly corrupt in some way. Despite its careful attention to
+the materiality of the text as artifact, textual criticism in this vein remains
+a classically idealistic pursuit. The work exists as an ideal form in the realm
+of the ideal.
+
+[ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
+reading or listening to receive a message from the past entails the effort to
+discover, through the text (or texts) one is presented with, the work that lies
+behind [@tanselle_rationale_2010, 13-18.]."
+
+Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
+William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
+
+"To restore an edifice means neither to maintain it, nor to repair it, not to
+rebuild it; it means to reestablish it in a finished state, which may in fact
+never have actually existed at any given time." [@price_historical_1996, 314;
+orig from @viollet-le-duc_foundations_1990, 195]
+
+"It is for all these buildings, threfore, of all times and styles, that we
+plead, and call upon those who hve to deal with them to put Protection in the
+place of Restoration, to stave off decay by daily care, to prop a perilous wall
+or mend a leaky roof by such means as are obvioiusly mant for support or
+convering, and show no pretence of other art, and othrwise to resist all
+tampering with either the favric or ornament of the buildings as it stands; if
+it has become 
+
+But whose who make the change wrout in our day under the name of Restoration,
+while professing to bring back a building to the best time of its hisory, have
+no guide but each his own individual whim to point out to them what i s
+admirable and what contemptible; while the very nature o their task compels
+them to destroy something and to supply the gap by imagining what the earlier
+builders should or might have done." Data munging. Irreversible changes.
+@price_historical_1996, 320; orig in "William Morris, "The Principles of the
+Society as Set Forth Upon its Foundation," Builder 35 August 1877.
+
+Ruskin lamp of memory.
+
+"It is impossible, as impossible as to raise the dead, to restore anything that
+has every been great or beautiful in architecture [...] That spirit which is
+given only by the hand and eye of the workman, never can be recalled. Another
+spirit may be given by another time, an it is then a new building; but the
+spirit of the dead workman cannot be summoned up, and commanded to direct other
+hands, and other thoughts. And as for direct and simple copying, it is palpably
+impossible. What copying can there be of surfaces that have been worn half an
+inch down [@staniforth_historical_2013, 2]?"
+
+"But it is said there may come a necessity for restoration! Granted. Look the
+necessity full in the face and understand it on its own terms. It is a
+necessity for destruction. Accept it as such, pull the building down, throw its
+stones into neglected corners, make ballast of them, or mortar, if you will'
+but do it honestly, and do not set up a Lie in its place
+[@staniforth_historical_2013, 3]."
+
+On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
+alter of a Company in the Church of S. Francesco, he painted in fresco the
+Circumcision of Our Lord, which in considered beautiful to a marvel, although
+the Infant, having been injured by damp, was restored by Sodoma and made much
+less beautiful than before. And, in truth, it would be sometimes better to
+leave works half spoilt, when they have been made by men of excellence, rather
+than to have them retouched by inferior masters." 1550 Tim's Vermeer.
+
+picture cleaning as removing as removal of "varnishes and other encrustations,
+by which a paininting may be obscured, but by which it is usulaly also in some
+measur protected from injury." [@bomford_issues_2004, 60] Original in the
+Report from the Select Committee on the National Gallery, London 1853, vi-xi.
+
+Colliveau set about [restoring]this picture with uncommon solenity, because it was his
+own. He began with the most delicate pumice stone, and very soon got into the
+walls of th building, but was astonished to find the apearance of bricks and
+mortar still, although not guite soneat; he soon cleared away the wall on
+discovering a room beyond, and pictures, furniture, &c. most beautiful.
+Gracious powers! how was he agitated; forgetting totally the mischief he was
+commiting, his elbow went like a fiddler's; every thing vanished.---However,
+finding a bed, the curtains of which (a dark green) were drawn close, he went
+to work upon it ver tenderly; presently a pot de chambre came  in sight!---His
+whole souldwas absorbed; his face all one ghastly grin; his legs (like German
+flutes) tottered under him. Not that great philosopher Guffin Ragba, was more
+agitated while cutting the leather from off his bellow, to disover how wind was
+make, than was Monsieru Collifeau while scroring off the bed cloaths; at last
+he found a lady asleep, very beautiful, because very fat, and a Dutch woman.
+Now this part I did not see, and I believe but very few besides himself; but
+alas! hew was soon to be at the end of his discoveries. Having got a glimpse of
+some gilding, he redoubled his efforts, when he found it was an inscription; it
+was in Dutch, and nearly thus, as translated by Mr. Peter La Cave:---"Now
+caitiff, meditate on th havoc though hast made throughout thy lie, and go thang
+thyself. In this picture, wretch! though have destroyed, what to the end of the
+world, can never be replaced." [@bomford_issues_2004, 44-45]. Originally from
+Julio Caesar Ibbetson, An Accidence, or Gamut, of Painting in Oil and water
+Colous . London: Darton and Harvey, 1803, 5-14.
+
+"The sculptor wastes away th rudo block til he has accomplished the desired
+form. not so the painter. he builds up his forms from a blank surface, and
+hides, as he rogresses all the preliminary layers upon which the etxternal
+colours depend for durability and lustre. And hence, not on the meaning and
+spririt of the work must be understood; the restorer must also be familiar with
+he naure of the materials and the manner of their employment.
+[@bomford_issues_2004, 70]. Original from @merritt_dirt_1854, 67-72
+
+
+The wound
+that heals.
+
+Just giving you a taste of restoration vs. preservation. What would
+
+
+[^ln11-counter]: A documentary on counterfeit goods produced by BBC4
+interviews Christophe Zimmerman, Senior Technical Officer at World Customs
+Organization, who deplores the industry's lack of cooperation with law
+enforcement [@bbc4_counterfeiting_2013].
+
+
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
+
+### 3.4 Authenticity (problem of copies)
+
+It is quite odd, if you think about it, to believe that objects somehow retain
+an aura or a trace of their history: "a handkerchief used by Princess Diana,"
+or "the cigar box owned by President Kennedy." In some real sense, the
+historical patina covering these objects is only imagined. President Kennedy's
+fingerprints and the tears of Princess Diana have long disappeared from their
+physical medium. Their trace cannot be reduced to "mere" physical
+characteristics: that is, to actual scratches, stains, or molecules,
+recoverable from the object. Rather, the object had to "be there" in some way,
+acquiring a patina of authenticity. "Having been there" is what gives the
+object value, sentimental or otherwise, in a condition that refuses formal
+reduction to a set of merely material properties. The high price contemporary
+society places on authentic artifacts is therefore a type of magical thinking.
+Walter Benjamin's famous essay on the work of art in the age of mechanical
+reproduction appears to both celebrate and lament the demise of such magic.
+"The technique of reproduction detaches the reproduced object from the domain
+of tradition," wrote Benjamin. "By making many reproductions it substitutes a
+plurality of copies for a unique existence. And in permitting the reproduction
+to meet the beholder or listener in his own particular situation, it
+reactivates the object reproduced. These two processes lead to a tremendous
+shattering of tradition which is the obverse of the contemporary crisis and
+renewal of mankind [@benjamin_work_1969, 217-253]." And yet, for Benjamin, the
+easy reproducibility of modern art forms like film and photography also
+"emancipates the work of art from its parasitical dependence on ritual
+[@benjamin_work_1969, 217-253]." One could read Benjamin's famous essay as a
+piece of technological nostalgia, or as an expose on the magic and superstition
+latent in modernist art. Crisis or emancipation? Benjamin feels both, and in
+doing so he captures the metaphysical anxiety of the modern age. We desire for
+our Vermeers to stay special but also for a Vermeer to hang in every home,
+peering back at us from a multitude of anonymous reproductions.
+
+The modern world faces the challenge of authenticity, which we have only began
+to assimilate: politically, economically, and philosophically. The ubiquitous
+holographic certificate of authenticity on a luxury handbag or on a "Digital
+Versatile Disk" (how antiquated the DVD sounds already!) is a cheap band-aid
+hiding the immaterial nature of these artifacts. Fashion and software companies
+are reluctant to talk publicly about piracy,[^ln11-counter] because the so
+called "knock-offs" are essentially exact duplicates, often "leaked" from the
+very same factories producing the original.
+
+Note that it makes no sense to talk about "what was meant" by the designer of
+the handbag, the way textual critic may talk about authorial intention. Nor
+would it make sense to "correct" some perceived flaw in the painting by
+Vermeer. The practice parallel to "textual criticism" in visual arts is
+restoration. Although similar to textual criticism in its aims to recover some
+notion of the original, crucially, the practice of art restoration takes place
+without reproduction. Unlike a critical volume, which essentially reprints the
+work in its reconstructed entirety, restoration happens at the site. All
+"unauthorized" copies constitute a forgery that competes for attention with the
+original. One could say that for painting and handbags "matter is synonymous
+with meaning," but the sentiment strains at the limits of critical vocabulary
+in the tradition that gives us only the binaries of form and content.
+
+The context-dependence of an artifact is not even medium-specific, as
+Goodman would suggest. Texts are more allographic than handbags and paintings,
+but Vermeers and Louis Vuitton purses are also in some sense perfectly
+reproducible, like texts. They are texts, and I do not mean it in some
+post-structuralist notion of "everything is a text."[^ln11-derrida]
+
+Technologies like 3D scanning and printing increasingly reduce physical objects
+to their textual representation, as is the case with the stereo lithographic
+document (STL) format that describes objects for 3D printing.  Here, for
+example, I reproduce code that describes "a surface" of a functional gun (the
+code made available online by *Defense Distributed*, a self-described civic
+liberty activist group):
+
+```
+22=(
+BOUNDED_SURFACE()
+B_SPLINE_SURFACE(1,2,((#34104,#34105,#34106),(#34107,#34108,#34109)),
+ .UNSPECIFIED.,.F.,.F.,.F.)
+B_SPLINE_SURFACE_WITH_KNOTS((2,2),(3,3),(15.1641909236141,15.3257778193699),
+(2.99329024107099,3.14159265358979),.UNSPECIFIED.)
+GEOMETRIC_REPRESENTATION_ITEM()
+RATIONAL_B_SPLINE_SURFACE(((1.,0.997252058758362,1.),(1.,0.997252058758362,
+1.)))
+REPRESENTATION_ITEM('')
+SURFACE()
+);
+```
+
+This piece of code exists in its Platonic ideal *before* the physical artifact.
+As costs of reproduction approach zero, so does the line between an object and
+its description. Imagine a world where to think "gun" is also to seamlessly
+bring one into existence. The erosion of boundaries between object and idea has
+a pronounced effect on the governance of goods, felt precisely at the
+distinction between the autographic and the allographic. Governments currently
+regulate the manufacture and the distribution of guns as artifacts, but how
+does one regulate guns as texts and ideas? Any such effort amounts to
+censorship. What was first regulated under the regime of property law, now
+increasingly falls under the regimes of intellectual property and rights to
+speech. Where does that leave the practice of textual criticism? In such a
+world there can be no distinction between works and texts. Unlike millions of
+reproduced Vermeers (which no doubt occupy this world in the form of postcards,
+posters, and photographs), text is text. It lies before us in glorious
+flatness, as thick as a sheet of paper.
+
+Text as I have already began to define it Chapter One, is a digital mode of
+representation, defined, at least in part, by a relative lack of "stickiness"
+to its physical medium. Textual artifacts therefore exhibit the dualism between
+text and work to a much greater extent than other forms of art and
+communication. A Vermeer is always a work. Not so with *Hamlet*. "Hamlet" may
+indicate a category of relate, or, an individual instance of a given work.
+Philosophers Nelson Goodman and Catherine Elgin explain this peculiarity by
+making the distinction between "works of art whose identity depends on their
+history of production" and works whose identity does not. The former they call
+"autographic" and the latter "allographic [@goodman_reconceptions_1988, 65]."
+These terms will be useful for us throughout the book. Architecture and
+painting, in this view, are strongly autographic disciplines. An exact copy of
+a Vermeer or of a building by Frank Lloyd Wright could never rise to the status
+of the original. The originals have what Walter Benjamin called an "aura or
+authenticity." No amount of precision, down to the molecular level, could
+substitute for the historical patina of the original artifact.
 
 ### 5.2 Problem of Drafts
 
