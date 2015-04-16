@@ -80,9 +80,9 @@ practice. Because engineering is an evolutionary practice, contemporary
 computational devices contain within them traces of their early development.
 This means that lines of code from software running Unix systems in the 1970s
 are still in some real sense present on modern machines (like Apple Macintosh
-laptops and Android phones, which run Unix-derive operating systems). This
+laptops and Android phones, which run Unix-derived operating systems). This
 property allows for a media archeology that can "lay bare" the device, making
-good on the implied metaphor, involving literal excavation, surveying, and
+good on the implied critical metaphor, involving excavation, surveying, and
 artifact discovery (although enacted locally, at the level of the device).
 
 ## Existing Literature
@@ -296,7 +296,7 @@ also by a series of advances in communications, word processing, and media
 storage. A notion of text (as opposed to number) is hence "baked into" the
 system.
 
-### Chapter 3: WYSINWYAG (What You See Is Not What You Always Get)
+### Chapter 3: Laying Bare the Technique
 
 The chapter builds on the history of character encoding to include two major
 standards underlying the contemporary encounter with digital text: ASCII and

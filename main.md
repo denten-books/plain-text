@@ -2374,7 +2374,7 @@ now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
-## Chapter 3: WYSINAWYG (What You See Is Not Always What You Get)
+## Chapter 3: Laying Bare the Technique
 `content, matter, form, formatting`
 
 ### 3.0 Abstract
@@ -2425,12 +2425,13 @@ chair) embodies a somewhat more limited, even corrupted, version of that
 perfect idea. The task of the philosopher, then, becomes to reconstruct the
 single ideal notion of the perfect chair from its many imperfect
 instantiations. A contemporary computer scientist will recognize in this chain
-of reasoning the principles behind object oriented programming: a way of
-building software that works by defining abstract "object classes" and invoking
-them as "class instances" [@hoare_record_1965, @nygaard_history_1981].
+of reasoning some of the principles behind object oriented programming: a way
+of building software that works by defining abstract "object classes" and
+invoking them as "class instances" [@hoare_record_1965, @nygaard_history_1981].
 Similarly, for Plato and later René Descartes, G.W.F. Hegel, and for other
 so-called "idealists," ideas provide us with lasting universal "templates" for
-the contingent and always changing material world.[^ln11-descartes]
+instantiation within the contingent and always changing physical confines of
+the material world.[^ln11-descartes]
 
 It is Hegel who gives perhaps the paradigmatic expression to the dichotomy
 between form and content in the literature on aesthetics. In his *Lectures on
@@ -2458,16 +2459,16 @@ is "freed from this immediate existence which must be set down as negative,
 overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
 writes: "Poetry is the universal art of the spirit which has become free in
 itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space and the inner
-time of ideas and feelings [@hegel_hegels_1998, 89]." Finally, "inwardness
-celebrates its triumph over the external and manifests its victory in and on
-the external itself, whereby what is apparent to the senses alone sinks into
-worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this way, triumph
-over the external, material world, reaching, at its apex, the stage of "free
-concrete spirituality" (*freie konkrete Geistigkeit*) [@hegel_werke:_1986,
-???]. The idea overcomes matter to become both free from the constraints of the
-deterministic physical universe, yet gaining a measure of solidity in its
-concrete and tangible instantiation.
+material; instead, it launches out exclusively in the inner space [sic] and the
+inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
+"inwardness celebrates its triumph over the external and manifests its victory
+in and on the external itself, whereby what is apparent to the senses alone
+sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
+way, triumph over the external, material world, reaching, at its apex, the
+stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
+[@hegel_werke:_1986, ???]. The idea overcomes matter to become both free from
+the constraints of the deterministic physical universe, yet gaining a measure
+of solidity in its concrete and tangible instantiation.
 
 Free *and* concrete! Where does that leave literary criticism? Not all text is
 art, of course. But, if critics are to believe in the potential for textual
@@ -2506,9 +2507,9 @@ splendor." His generation was instead "in love with matter," wanting "to
 penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
 ???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols," Viktor
 Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
-becomes invisible through frequent use. Such dead and transparent language
-language can no longer evoke wonder or curiosity. Truly vital art counteracts
-death by "resurrecting the word" in "making the form difficult
+becomes invisible through frequent use. Such dead and transparent language can
+no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
+counteracts death by "resurrecting the word" in "making the form difficult
 [@shklovsky_hod_1923, ???]." Form, in that sense, resurrects content. The study
 of poetic language (not necessarily poetry) therefore pays attention to the
 devices that aid in the process of linguistic renewal.
@@ -2544,10 +2545,10 @@ meccanico e la sensibilità numerica]
 
 The traditional dichotomy between form and content obscures the complexity of
 this dynamic. Formalism overloads the concept of form to bear functions of
-material and design, which should not be treated at the same layer of analysis.
+matter and design, which cannot not be treated at the same layer of analysis.
 In Plato we find a number of words that, depending on the translation, stand in
 for the English "form." These include *eidos* (essence), *idea* (idea),
-*morphe* (shape), and *phainomena* (appearance).  Compare for example the
+*morphe* (shape), and *phainomena* (appearance). Compare for example the
 translations from Plato's *Timaeus*. In the dialog, Timaeus, the titular
 character, explains the nature of the physical world. Similarly to the passage
 about wax by Descartes (quoted in a footnote earlier), Timaeus notices that
@@ -2568,62 +2569,66 @@ In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
 > and no other without incurring ridicule? [@plato_plato_1955, 48d]
 
 The idea in both of these translations is that matter has some sort of essence,
-but often changes in appearance. Jowett understands that which is changeable as
-"form." Contrast the *Timaeus* passages from the one in *Cratylus*. Here
-Socrates is talking to Hermogenes about "name-giving," a discussion about the
-ways words signify things through convention. "What has the carpenter in view
-when he makes a shuttle?" asks Socrates. "Is it not something the nature of
-which is to weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while
-he making it, will he make another with his mind fixed on that which is broken,
-or on that form (*eidos*) with reference to which he was making the one which
-he broke? " Hermogenes agrees it's the form. "Then we should very properly call
-that the real shuttle (*estin kerkis*)?" The exact appearance (I am going to
-use that word now) of the shuttle does not matter for Socrates. There are
-different types of shuttle weave wool and linen, but all of them, in Jowett's
+but often changes in phantasmic, fantastic, ghostly, imaginable, and even
+"virtual" appearance. Jowett understands that which is changeable as "form."
+Contrast the *Timaeus* passages from the one in *Cratylus*. Here Socrates is
+talking to Hermogenes about "name-giving," a discussion about the ways words
+signify things through convention. "What has the carpenter in view when he
+makes a shuttle?" asks Socrates. "Is it not something the nature of which is to
+weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he is
+making it, will he make another with his mind fixed on that which is broken, or
+on that form (*eidos*) with reference to which he was making the one which he
+broke? " Hermogenes agrees on the form. "Then we should very properly call that
+the real shuttle (*estin kerkis*)?" The exact appearance (I am going to use
+that word now) of the shuttle does not matter for Socrates. There are different
+types of shuttles used to weave wool and linen, but all of them, in Jowett's
 translation, "must contain the form or ideal (*eidos*) of shuttle
 [@plato_dialogues_1937, 389a-b]." Here then *eidos* is the universal idea of
-the ideal shuttle: exactly the opposite of *phantazomenōn* in the previous
-passage! Yet both were reasonably translated into the English "form." Unlike
-the changing appearance of water, the eternal form of the shuttle exists in the
-ideal world, with individual shuttles being somewhat corrupted (and even
-broken) instantiations of the essence.[^ln11-plato]
+the ideal shuttle: exactly the opposite of *phantazomenōn* as ephemeral
+instantioation in the previous passage! Yet both *eidos* and *phantazomenōn*
+were reasonably translated into English as "form", indicating a fundamental
+overloading of the concept.[^ln11-plato]
 
 [^ln11-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
 originals side-by-side with translations, maps, dictionaries, and other
 parallel texts. Sources consulted on the Plato's theory of forms include
 @rist_platos_1975, @woods_form_1993, @dixsaut_ousia_1991,
-@hegel_philosophy_1870.
+@hegel_philosophy_1870. I would also like to thank Stathis Gourgouris for his
+generous comments on these passages.
 
 Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
 of his struggle with the Platonic concept of form. He writes, "The Idea is
 nothing but what is current with us under the name of the Universal, when this
 word is not taken in the sense of *formal* Universal---which is only a property
-of things---but as the in-and-for-itself existent, as the essence, as that which
-alone is true.  We translate the Greek word *eidos* by 'genus' or 'species'
-(*Gattung* or *Art* in German) [...] When 'genus' or 'species' is seized as a
-number of similar determinations collected by reflection from several
-individuals, to serve as a *mark* for the convenience of the understanding,
-then we have the Universal in quite an external [superficial] form
-[hegel_philosophy_1870, 250]." I am attracted by the idea of the "formal
+of things---but as the in-and-for-itself existent, as the essence, as that
+which alone is true.  We translate the Greek word *eidos* by 'genus' or
+'species' (*Gattung* or *Art* in German) [...] When 'genus' or 'species' is
+seized as a number of similar determinations collected by reflection from
+several individuals, to serve as a *mark* for the convenience of the
+understanding, then we have the Universal in quite an external [superficial]
+form [hegel_philosophy_1870, 250]." I am attracted by the idea of the "formal
 Universal," which Hegel is quick to dismiss as not quite the essence of the
 ideal. The formal universal seems to function for Hegel as an indeterminate
 mediator between the ideal and the material worlds. I think what he means is
-that the form of the chair, for example, is still of this world and a property
-of the chair. But the ideal of the chair is not so much a property of the
-chair, but the universal idea of chairs, which determines all real-world
-members of the genus. The "formal ideal" contains a bit of both idea and
-physical property. It mediates. When we think of *Hamlet*, the form of the play
-belongs neither to the material substance of the text (pixel or paper) nor to
-the ideational content of the work. The form is something in-between the two
-worlds: it is in the shape of the letters and in the sounds of the words. The
-form is indeterminate, because we do not quite know which of these elements
+that the form of a chair, for example, is still of this world and a property of
+the chair. But the ideal of the chair is not so much a property of the chair,
+but the universal idea of chairs in general, which although not a property of
+any given chair, determines all real-world members of the genus. Hegel's
+"formal ideal" contains a bit of both "idea" and "physical property." It
+mediates. When we think of Shakespeare's *Hamlet*, for example, whatever is
+meant by "the form" of the play belongs neither to its material substance
+(pixel or paper) nor to the ideational content of the work. The form is
+something in-between the two worlds: it is in the shape of the letters, in the
+structure of the narrative, and in the prosody of the word. The form in that
+sense is indeterminate, because we do not quite know which of these elements
 belong to the content of the play and which are the contingent material
 artifacts of the printing process: the way the fonts look, for example or the
-way lines break on the page.
+way lines break on the page. Some matters of form matter to us as readers (line
+breaks), and others do not (font kerning).
 
 Where we started with a dichotomy, we arrive at a model of textuality that
-contains three parts: material, form, and content. The history of Western
+contains three parts: matter, form, and content. The history of Western
 aesthetics can be so reformulated as an attempt to pull the work of art through
 one or several of these layers of analysis, as when Sontag entreats her reader
 to pay more attention to form. But the very words "work," "form," and "text"
@@ -2678,20 +2683,21 @@ press helped place a copy of the bible into the hands of every ordinary
 believer. That meant also minimizing the role of the priest as a privileged
 interpreter. Without books in hand Martin Luther could not have written "all
 who are in the church are priests [@hillerbrand_protestant_2009]." Movable type
-lifted text from rarefied media of leather and parchment. But until well into
-the middle of the 20th century, the printing press remained in the realm of big
-technology: expensive, centralized, unwieldy, and relatively easy to suppress.
-The liberatory potential of media independence comes into its full fruition
-after the age of the typewriter. After a historically brief flowering in the
-wild, our daily textual practice is once again in danger of returning to
-controlled, media-bound, and tightly-regulated conditions of existence.
+lifted text from rarefied media of parchment into that of the reified and
+disposable leaflet. But until well into the middle of the 20th century, the
+printing press remained in the realm of big technology: expensive, centralized,
+unwieldy, and relatively easy to suppress. The liberatory potential of media
+independence comes into its full fruition after the age of the typewriter.
+After a historically brief flowering in the wild, our daily textual practice is
+once again in danger of returning to controlled, media-bound, and
+tightly-regulated conditions of existence.
 
-At least two important technological developments in the early 20th century
-aided in the liberation of text from its material contexts. The first is the
-copy machine. It is an entirely unglamorous job to ponder the phenomenology of
-reading from the point of view of a photocopier. Yet the impact of the humble
-Ditto and Xerox machines has only recently began to get the scholarly attention
-it deserves. In the United States, the copy machine placed a smaller version of
+At least three important developments in the twentieth century aided in the
+liberation of text from its material contexts. The first is the copy machine.
+It is an entirely unglamorous job to ponder the phenomenology of reading from
+the point of view of a photocopier. Yet the impact of the humble Ditto and
+Xerox machines has only recently began to get the scholarly attention it
+deserves. In the United States, the copy machine placed a smaller version of
 Gutenberg press into every office. And it allowed for the flourishing of a
 vibrant samizdat (self-publishing) scene, usually connected to underground
 culture movements without access to conventional publishing: punks, skinheads,
@@ -2720,15 +2726,17 @@ rolled onto a new page, re-inscribing the image into the new medium. The text
 is never immaterial. But for a moment it finds shape as an invisible electric
 charge. The transformation should not be reduced to some sort of mystical,
 metaphysical moment. On the contrary, in instrumental terms we observe the
-relatively mundane process of media independence. Let's linger on that moment
-for just a few more sentences. The process of textual transcription by hand
-involves a similar transformation. When a scribe copies a page from the bible,
-for example, he also "lifts" content from paper. Not unlike a photocopier, the
-human stores text in the electro-chemical pathways of the brain, before
-reproducing it once again into another medium. And like the photocopier, the
-process can be performed on a purely formal, visual level. In fact, the
-historical record is full of errors that suggest that pre-modern scribes wrote
-at widely varying levels of literacy [@goudsmit_illiterate_1974,
+relatively mundane process of media independence.
+
+Let's linger on that moment of remediation. The process of textual
+transcription by hand involves a similar transformation. When a scribe copies a
+page from the bible, for example, he also "lifts" content from paper.  Not
+unlike a photocopier, the human stores text in the electro-chemical pathways of
+the brain, before reproducing it once again into another medium. And like a
+photocopier, the human can perform the copy function mechanically, without
+comprehension and on a purely formal, visual level. In fact, the historical
+record is full of errors that suggest that pre-modern scribes wrote at widely
+varying levels of literacy [@goudsmit_illiterate_1974,
 @bucking_training_2007].[^ln11-literacy] In the Muslim tradition, the prophet
 Muhammad himself is sometimes called "the unlettered prophet," to emphasize
 fidelity and lack of mediation in the transcription of the message
@@ -2739,7 +2747,12 @@ transcription of the original text amounts to an interpretation, not
 self-identical to the letter of the text (a translation, for example)
 [@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
 
-### 3.2 NOW IS THE TIME FOB
+Where the photocopier placed a printing press into every office, the printer
+placed one on every desk. Falling cost of print. Finally, the text exists on
+the screen and magnetic media only, where the cost of reproduction approaches
+zero.
+
+### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
 Let's try it again. What lies beneath the text? We are accustomed to thinking
 about that question metaphorically and answer in accord: meaning, narrative,
