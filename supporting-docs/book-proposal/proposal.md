@@ -5,9 +5,15 @@ author: Dennis Tenen
 ---
 \newpage
 
-"Plain Text" occupies the space between literary theory and the digital
-humanities, challenging received notions of digital being through the media
-history of a singular file format (.txt).
+Much of today's textual and literary activity passes through some form of
+digital being. Yet, the material contexts of digital knowledge production
+remain obscured and in need of increased critical scrutiny. In peeling back the
+layers of technology and cultural technique that constitute contemporary
+encounter with text, "Plain Text" seeks to reconfigure familiar terms that
+motivate the study of new media, literature, and the digital humanities. The
+book unfolds a philosophical investigation of digital being through a media
+history of plain text, a foundational file format still extant on every digital
+device destined for human-computer interaction.
 
 ## Theme and Argument
 
@@ -18,8 +24,7 @@ Instead, it offers a vision of data that is human-readable by design: portable,
 concise, and universal. This book contains an argument in defense of plain
 text. In making my case, I seek to convene a community interested in reflecting
 critically on the ideas, tools, and practices that shape our daily encounter
-with computation. My argument starts with foundational principles at the
-intersection of media theory and information science.
+with computation.
 
 I build on those principles to ask: what is at stake in the difference between
 digital and analog media? What contains more information a novel or a block of
@@ -42,19 +47,43 @@ roots always and already latent in the mechanisms of modern computing.
 
 ## Field Significance
 
-The book aims to redress a weakness in the field of digital humanities,
+The book seeks to redress a weakness in the field of digital humanities,
 particularly at the point of its relevance to literary studies. Scholarship at
-the intersection of these two fields is often criticized for being ahistorical
-or atheoretical, abandoning deep traditions of literary theory and criticism,
-even where such traditions would help bolster the case for the digital
-humanities. The nominally related field of new media studies has the opposite
-problem. Although theoretically sophisticated, it sometimes produces research
-far removed from the actual practice of creating new media (the archetypal
-example given by Katherine Hayles is that of a contemporary photography critic
-not familiar with the use of the "layers" tool in Photoshop). By contrast, I
-situate "Plain Text" at the intersection of theory and practice: somewhere
-between "technical literacy for new media studies" and "philosophical bases for
-computing in the humanities."
+the intersection of these two fields is sometimes criticized for being
+ahistorical or atheoretical, abandoning deep traditions of literary theory and
+criticism, even where such traditions would help bolster the case for the
+digital humanities. The nominally related field of new media studies has the
+opposite problem. Although theoretically sophisticated, it sometimes produces
+research far removed from the actual practice of creating new media (the
+archetypal example given by Katherine Hayles is that of a contemporary
+photography critic not familiar with the use of the "layers" tool in
+Photoshop). By contrast, I situate "Plain Text" at the intersection of theory
+and practice: somewhere between "technical literacy for new media studies" and
+"philosophical bases for computing in the humanities."
+
+In pursuing the above strategy I make several decisive contributions to the
+fields of media studies, literary theory, and the digital humanities:
+
+First, my approach is *strongly materialist.* Throughout my argument, I seek to
+recover the literal material contexts (paper, silicon, and magnetic storage
+media) that give support to higher level social and cognitive phenomena (like
+literature, text, and discourse).
+
+Second, the book contains a strong undercurrent of humanism. In making explicit
+the ways in which changes in the material substratum affect higher-order
+cultural techniques (of knowledge production and literary dissemination) I
+insist on the reinstatement of human agency in a conversation that has largely
+turned towards the object, the system, and the post-human.
+
+Finally, my work is experimental in that it affects history and theory through
+practice. Because engineering is an evolutionary practice, contemporary
+computational devices contain within them traces of their early development.
+This means that lines of code from software running Unix systems in the 1970s
+are still in some real sense present on modern machines (like Apple Macintosh
+laptops and Android phones, which run Unix-derive operating systems). This
+property allows for a media archeology that can "lay bare" the device, making
+good on the implied metaphor, involving literal excavation, surveying, and
+artifact discovery (although enacted locally, at the level of the device).
 
 ## Existing Literature
 
@@ -267,7 +296,7 @@ also by a series of advances in communications, word processing, and media
 storage. A notion of text (as opposed to number) is hence "baked into" the
 system.
 
-### Chapter 3: Reading Surfaces
+### Chapter 3: WYSINWYAG (What You See Is Not What You Always Get)
 
 The chapter builds on the history of character encoding to include two major
 standards underlying the contemporary encounter with digital text: ASCII and
