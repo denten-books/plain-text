@@ -2056,7 +2056,7 @@ beyond the obvious tautology.
 
 With the site so defined, we can begin the work of recovering the material
 contexts of literary production. I want to foreshadow now what will become the
-punchline of this chapter later: namely that the ghost in the machine cannot be
+punchline of the next chapter: namely that the ghost in the machine cannot be
 reduced to some vague notions of value---these amount to a distraction, which
 lies plainly upon the surface. The conspicuous ghostly apparition (indicating
 the absence of a living subject) is agency itself, which, for now, necrotically
@@ -2393,11 +2393,41 @@ photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
 
+### Cryptography and Steganography
+
+Where cryptography is the art of secret communication, steganography is the art
+of hiding the secret. "The purpose of steganography is to hide the very
+presence of communication by embedding messages into innocuous-looking objects,
+such as digital images," Jessica Fridrich and her colleagues write for the
+proceedings of the Society of Photographic Instrumentation Engineers,
+appropriately shortened to SPIE [@fridrich_searching_2004].
+
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or in the flow of liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality. In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
 ### 3.1 Reading Surfaces
+
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
-content.  "Classical art, in a word, stands for form," R.G. Collingwood wrote
+content. "Classical art, in a word, stands for form," R.G. Collingwood wrote
 in 1929, and "romantic art for content [@collingwood_form_1929, 335]." In a
 much more recent work on computational text generation, Kathleen McKeown writes
 that to produce discourse, writers and speakers "must decide what to say and
@@ -2569,7 +2599,7 @@ In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
 > and no other without incurring ridicule? [@plato_plato_1955, 48d]
 
 The idea in both of these translations is that matter has some sort of essence,
-but often changes in phantasmic, fantastic, ghostly, imaginable, and even
+but often changes in phantasmal, fantastic, ghostly, imaginable, and even
 "virtual" appearance. Jowett understands that which is changeable as "form."
 Contrast the *Timaeus* passages from the one in *Cratylus*. Here Socrates is
 talking to Hermogenes about "name-giving," a discussion about the ways words
@@ -2692,17 +2722,17 @@ After a historically brief flowering in the wild, our daily textual practice is
 once again in danger of returning to controlled, media-bound, and
 tightly-regulated conditions of existence.
 
-At least three important developments in the twentieth century aided in the
-liberation of text from its material contexts. The first is the copy machine.
-It is an entirely unglamorous job to ponder the phenomenology of reading from
-the point of view of a photocopier. Yet the impact of the humble Ditto and
-Xerox machines has only recently began to get the scholarly attention it
-deserves. In the United States, the copy machine placed a smaller version of
-Gutenberg press into every office. And it allowed for the flourishing of a
-vibrant samizdat (self-publishing) scene, usually connected to underground
-culture movements without access to conventional publishing: punks, skinheads,
-computer- and game- geeks, feminists, fans of science fiction and queer-core
-music [@klanten_behind_2011, @piepmeier_girl_2009, @duncombe_notes_2008].
+Several important developments in the twentieth century aided in the liberation
+of text from its material contexts. The first is the copy machine.  It is an
+entirely unglamorous job to ponder the phenomenology of reading from the point
+of view of a photocopier. Yet the impact of the humble Ditto and Xerox machines
+has only recently began to get the scholarly attention it deserves. In the
+United States, the copy machine placed a smaller version of Gutenberg press
+into every office. And it allowed for the flourishing of a vibrant samizdat
+(self-publishing) scene, usually connected to underground culture movements
+without access to conventional publishing: punks, skinheads, computer- and
+game- geeks, feminists, fans of science fiction and queer-core music
+[@klanten_behind_2011, @piepmeier_girl_2009, @duncombe_notes_2008].
 
 The word "xerox" firmly entered the English lexicon by the
 mid-1960s[^ln11-xerox] along with stencil duplicators, mimeograph machines,
@@ -2748,9 +2778,10 @@ self-identical to the letter of the text (a translation, for example)
 [@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
 
 Where the photocopier placed a printing press into every office, the printer
-placed one on every desk. Falling cost of print. Finally, the text exists on
-the screen and magnetic media only, where the cost of reproduction approaches
-zero.
+placed one on every desk. Falling cost of print.
+
+Finally, the text exists on the screen and magnetic media only, where the cost
+of reproduction approaches zero.
 
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -3031,26 +3062,6 @@ The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
 
 
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or the flow of the liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality.  In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
 
 IBM Format
 
