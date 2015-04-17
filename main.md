@@ -605,28 +605,27 @@ important adjoiners to the discussion between Goodman and Haugeland. First,
 Katz maintains that Goodman's notions of discreteness and differentiation
 properly affect the format and not the medium of representation. Second, he
 maintains that the distinction between digital and analog formats could
-sometimes depend on the properties attached to the user of a particular system
-of representations (as opposed to the physical properties of the physical
-itself). To illustrate these two amendments, Katz uses the example of an
-approximate measuring system that uses a supply of marbles in a large beaker.
-The unit of measurement could be something like a "number of handfuls." Even
-though marbles are a perfectly discrete medium, the system is analog because it
-fails to establish a digital format required for precise reproduction of a
-"handful." My two handfuls will be different from another's. A corollary to the
-distinction between medium and format then is the user's ability to perceive
-quantities. The reader (viewer, listener) matters. Were humans endowed with the
-magical ability to perceive the exact number of water molecules in a beaker,
-previously analog systems (like unmarked beakers) would in effect become
-digital (under the expanded definition). Similarly, were all humans endowed
-with hands of a definite size and volume, "handfuls" would also be counted as
-discrete and therefore digital quantities. From similar thought experiments
-Katz concludes that the physical, perceptual, and cognitive capabilities of the
-"user" (reader, audience, perceiver) affect the ontological status of the
-system.
+sometimes depend on properties attached to the user of a particular system of
+representations (as opposed to the physical properties of the medium itself).
+To illustrate these two amendments, Katz uses the example of an approximate
+measuring system that uses a supply of marbles in a large beaker.  The unit of
+measurement could be something like a "number of handfuls." Even though marbles
+are a perfectly discrete medium, the system is analog because it fails to
+establish a digital format required for precise reproduction of a "handful." My
+two handfuls will be different from another's. A corollary to the distinction
+between medium and format then is the user's ability to perceive quantities.
+The reader (viewer, listener) matters. Were humans endowed with the magical
+ability to perceive the exact number of water molecules in a beaker, previously
+analog systems (like unmarked beakers) would in effect become digital (under
+the expanded definition). Similarly, were all humans endowed with hands of a
+definite size and volume, "handfuls" would also be counted as discrete and
+therefore digital quantities. From similar thought experiments Katz concludes
+that the physical, perceptual, and cognitive capabilities of the "user"
+(reader, audience, perceiver) affect the ontological status of the system.
 
 The movement from medium to format and user radically destabilizes Goodman's
 original insight. We started by looking for a definition of the digital in the
-intrinsic physical properties of the medium. But we ended in concluding that
+intrinsic material properties of the medium. But we ended in concluding that
 the property of the digital is rather a structure imposed extrinsically and one
 that could hinge on the cognitive capabilities of the people imposing the
 structure. Where Goodman begins with physical properties of matter (divisible,
@@ -644,7 +643,7 @@ when text is already, by some definitions, a digital format?
 perseveres through the loss or sale of individual art works.
 
 These conundrums reveal a problem in the very formulation of the question: What
-*is* digital representation? Under examination, the properties related to the
+*is* digital representation? Under examination, properties related to the
 digital-analog distinction cease constituting an ontological category. Rather
 than a state of being, they indicate a systematic imposition of structure. The
 more appropriate question then is: What *makes* for digital representation?
@@ -2393,37 +2392,8 @@ photocopier, opens a way to the distinction between print (where matter, form,
 and content lie flat) and screen (where the three layers come apart, providing
 only the illusion of flattened textuality).
 
-### Cryptography and Steganography
 
-Where cryptography is the art of secret communication, steganography is the art
-of hiding the secret. "The purpose of steganography is to hide the very
-presence of communication by embedding messages into innocuous-looking objects,
-such as digital images," Jessica Fridrich and her colleagues write for the
-proceedings of the Society of Photographic Instrumentation Engineers,
-appropriately shortened to SPIE [@fridrich_searching_2004].
-
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or in the flow of liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality. In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
 ### 3.1 Reading Surfaces
-
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -2704,91 +2674,12 @@ do not travel well. And there are plenty of entities that would like us to
 return to a time of singular thought, etched in monolithic tablets, whether
 made of silicone or of stone.
 
-It is a commonplace sentiment now that the printing press brought with it the
-Protestant Reformation [@dittmar_information_2011, @febvre_coming_2010,
-@mcluhan_gutenberg_1962, @eisenberg_word_1992]. Movable type is responsible for
-at least a part of that story. The mechanization of print is what turned
-writing from an autographic into a supremely allographic art. The Gutenberg
-press helped place a copy of the bible into the hands of every ordinary
-believer. That meant also minimizing the role of the priest as a privileged
-interpreter. Without books in hand Martin Luther could not have written "all
-who are in the church are priests [@hillerbrand_protestant_2009]." Movable type
-lifted text from rarefied media of parchment into that of the reified and
-disposable leaflet. But until well into the middle of the 20th century, the
-printing press remained in the realm of big technology: expensive, centralized,
-unwieldy, and relatively easy to suppress. The liberatory potential of media
-independence comes into its full fruition after the age of the typewriter.
-After a historically brief flowering in the wild, our daily textual practice is
-once again in danger of returning to controlled, media-bound, and
-tightly-regulated conditions of existence.
-
-Several important developments in the twentieth century aided in the liberation
-of text from its material contexts. The first is the copy machine.  It is an
-entirely unglamorous job to ponder the phenomenology of reading from the point
-of view of a photocopier. Yet the impact of the humble Ditto and Xerox machines
-has only recently began to get the scholarly attention it deserves. In the
-United States, the copy machine placed a smaller version of Gutenberg press
-into every office. And it allowed for the flourishing of a vibrant samizdat
-(self-publishing) scene, usually connected to underground culture movements
-without access to conventional publishing: punks, skinheads, computer- and
-game- geeks, feminists, fans of science fiction and queer-core music
-[@klanten_behind_2011, @piepmeier_girl_2009, @duncombe_notes_2008].
-
-The word "xerox" firmly entered the English lexicon by the
-mid-1960s[^ln11-xerox] along with stencil duplicators, mimeograph machines,
-microfiche, spirit duplicators,[^ln11-spirit] hectographs, and dot-matrix
-printing. A whole industry of photocopying still exists to seamlessly peel the
-content away from one material medium and plaster it into another.
-
-From the "point of view" of a photocopier, the text exists only as pure form.
-The electro-photographic process at the basis of modern photocopying (invented
-in the 1930s, but with patents dating back to the middle of the 19th century)
-describes documents in terms of "electric charge patterns," "photoemissive
-layers," and "sheet surfaces [@carlson_electron_1940,
-@carlson_electrophotography_1942, @carlson_graphic_1953]." The photocopier is a
-device for total graphesis and extreme surface reading.[^ln11-ooo]. There is no
-word or content for the photocopier: only paper and image. The photocopier's
-"job", if you will, is to lift a picture from one page and to impress it into
-another. It does so by temporarily imaging text (as picture) onto a
-photo-sensitive drum. Ink powder sticks to the electrically charged surfaces of
-the drum in correspondence to the shapes on the page. The shapes are then
-rolled onto a new page, re-inscribing the image into the new medium. The text
-is never immaterial. But for a moment it finds shape as an invisible electric
-charge. The transformation should not be reduced to some sort of mystical,
-metaphysical moment. On the contrary, in instrumental terms we observe the
-relatively mundane process of media independence.
-
-Let's linger on that moment of remediation. The process of textual
-transcription by hand involves a similar transformation. When a scribe copies a
-page from the bible, for example, he also "lifts" content from paper.  Not
-unlike a photocopier, the human stores text in the electro-chemical pathways of
-the brain, before reproducing it once again into another medium. And like a
-photocopier, the human can perform the copy function mechanically, without
-comprehension and on a purely formal, visual level. In fact, the historical
-record is full of errors that suggest that pre-modern scribes wrote at widely
-varying levels of literacy [@goudsmit_illiterate_1974,
-@bucking_training_2007].[^ln11-literacy] In the Muslim tradition, the prophet
-Muhammad himself is sometimes called "the unlettered prophet," to emphasize
-fidelity and lack of mediation in the transcription of the message
-[@calder_ummi_1990, @gunther_muhammad_2002, 1-26]. In other words, the Qur'an
-claim to authenticity relies on the prophet's ability to copy the message
-"verbatim." On the conservative Muslim view, anything but a faithful
-transcription of the original text amounts to an interpretation, not
-self-identical to the letter of the text (a translation, for example)
-[@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
-
-Where the photocopier placed a printing press into every office, the printer
-placed one on every desk. Falling cost of print.
-
-Finally, the text exists on the screen and magnetic media only, where the cost
-of reproduction approaches zero.
-
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
 Let's try it again. What lies beneath the text? We are accustomed to thinking
 about that question metaphorically and answer in accord: meaning, narrative,
 representation, order, discourse, or ideology. But the materialist answer is
-much simpler: pulp.  Increasingly, it is also: glass, plastic, liquid crystal,
+much simpler: pulp. Increasingly, it is also: glass, plastic, liquid crystal,
 copper, laminates, and silicone. Not much space separates ink from paper.
 There, textuality lies flat, in two dimensions. What you see is truly what you
 get. Not so on the screen connected to other screens. Networked textuality
@@ -3568,6 +3459,87 @@ Books are not media they are platforms. Platform is all of the above. Plus the
 economic / cultural contexts. Amazon Kindle is a platform. Who are you
 communicating with? Yoursef. What is the message. Ultimtely, it is a message of
 self-identity.
+
+### 2.3 Copy Machine
+
+It is a commonplace sentiment now that the printing press brought with it the
+Protestant Reformation [@dittmar_information_2011, @febvre_coming_2010,
+@mcluhan_gutenberg_1962, @eisenberg_word_1992]. Movable type is responsible for
+at least a part of that story. The mechanization of print is what turned
+writing from an autographic into a supremely allographic art. The Gutenberg
+press helped place a copy of the bible into the hands of every ordinary
+believer. That meant also minimizing the role of the priest as a privileged
+interpreter. Without books in hand Martin Luther could not have written "all
+who are in the church are priests [@hillerbrand_protestant_2009]." Movable type
+lifted text from rarefied media of parchment into that of the reified and
+disposable leaflet. But until well into the middle of the 20th century, the
+printing press remained in the realm of big technology: expensive, centralized,
+unwieldy, and relatively easy to suppress. The liberatory potential of media
+independence comes into its full fruition after the age of the typewriter.
+After a historically brief flowering in the wild, our daily textual practice is
+once again in danger of returning to controlled, media-bound, and
+tightly-regulated conditions of existence.
+
+Several important developments in the twentieth century aided in the liberation
+of text from its material contexts. The first is the copy machine.  It is an
+entirely unglamorous job to ponder the phenomenology of reading from the point
+of view of a photocopier. Yet the impact of the humble Ditto and Xerox machines
+has only recently began to get the scholarly attention it deserves. In the
+United States, the copy machine placed a smaller version of Gutenberg press
+into every office. And it allowed for the flourishing of a vibrant samizdat
+(self-publishing) scene, usually connected to underground culture movements
+without access to conventional publishing: punks, skinheads, computer- and
+game- geeks, feminists, fans of science fiction and queer-core music
+[@klanten_behind_2011, @piepmeier_girl_2009, @duncombe_notes_2008].
+
+The word "xerox" firmly entered the English lexicon by the
+mid-1960s[^ln11-xerox] along with stencil duplicators, mimeograph machines,
+microfiche, spirit duplicators,[^ln11-spirit] hectographs, and dot-matrix
+printing. A whole industry of photocopying still exists to seamlessly peel the
+content away from one material medium and plaster it into another.
+
+From the "point of view" of a photocopier, the text exists only as pure form.
+The electro-photographic process at the basis of modern photocopying (invented
+in the 1930s, but with patents dating back to the middle of the 19th century)
+describes documents in terms of "electric charge patterns," "photoemissive
+layers," and "sheet surfaces [@carlson_electron_1940,
+@carlson_electrophotography_1942, @carlson_graphic_1953]." The photocopier is a
+device for total graphesis and extreme surface reading.[^ln11-ooo]. There is no
+word or content for the photocopier: only paper and image. The photocopier's
+"job", if you will, is to lift a picture from one page and to impress it into
+another. It does so by temporarily imaging text (as picture) onto a
+photo-sensitive drum. Ink powder sticks to the electrically charged surfaces of
+the drum in correspondence to the shapes on the page. The shapes are then
+rolled onto a new page, re-inscribing the image into the new medium. The text
+is never immaterial. But for a moment it finds shape as an invisible electric
+charge. The transformation should not be reduced to some sort of mystical,
+metaphysical moment. On the contrary, in instrumental terms we observe the
+relatively mundane process of media independence.
+
+Let's linger on that moment of remediation. The process of textual
+transcription by hand involves a similar transformation. When a scribe copies a
+page from the bible, for example, he also "lifts" content from paper.  Not
+unlike a photocopier, the human stores text in the electro-chemical pathways of
+the brain, before reproducing it once again into another medium. And like a
+photocopier, the human can perform the copy function mechanically, without
+comprehension and on a purely formal, visual level. In fact, the historical
+record is full of errors that suggest that pre-modern scribes wrote at widely
+varying levels of literacy [@goudsmit_illiterate_1974,
+@bucking_training_2007].[^ln11-literacy] In the Muslim tradition, the prophet
+Muhammad himself is sometimes called "the unlettered prophet," to emphasize
+fidelity and lack of mediation in the transcription of the message
+[@calder_ummi_1990, @gunther_muhammad_2002, 1-26]. In other words, the Qur'an
+claim to authenticity relies on the prophet's ability to copy the message
+"verbatim." On the conservative Muslim view, anything but a faithful
+transcription of the original text amounts to an interpretation, not
+self-identical to the letter of the text (a translation, for example)
+[@tibawi_is_1962, @fatani_translation_2005, @wilson_first_2009].[^ln11-quran]
+
+Where the photocopier placed a printing press into every office, the printer
+placed one on every desk. Falling cost of print.
+
+Finally, the text exists on the screen and magnetic media only, where the cost
+of reproduction approaches zero.
 
 ### 3.6 Copy Text (textual criticism)
 
@@ -5153,6 +5125,35 @@ http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02
 
 ## Chapter 7: Engineering for Dissent
 
+### Cryptography and Steganography
+
+Where cryptography is the art of secret communication, steganography is the art
+of hiding the secret. "The purpose of steganography is to hide the very
+presence of communication by embedding messages into innocuous-looking objects,
+such as digital images," Jessica Fridrich and her colleagues write for the
+proceedings of the Society of Photographic Instrumentation Engineers,
+appropriately shortened to SPIE [@fridrich_searching_2004].
+
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or in the flow of liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality. In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.
 ### Abstract
 
 In this final chapter, I argue for the recovery and the preservation of plain
@@ -5260,6 +5261,4 @@ Encounters Vectors. SCP.
 ### 2.1 Medium and Message Fuzzing.
 
 ### 2.2 Freedom of Information
-
-### 2.3 Digital
 
