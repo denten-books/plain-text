@@ -2373,7 +2373,7 @@ now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
-## Chapter 3: Laying Bare the Technique
+## Chapter 3: Laying Bare the Device
 `content, matter, form, formatting`
 
 ### 3.0 Abstract
@@ -3036,136 +3036,8 @@ the aberrant specificity of textual material. Text routinely separates from its
 physical medium. The ability to change form is what gives it the ability to act
 at a distance.
 
-### 3.4 Algorithm as Fetish
-
-Wendy Hui Kyong Chun
-On "Sourcery," or Code as Fetish. What could knowing software even mean, she
-asks.
-
-I can only begin to work of re-inscribing the A more careful analysis of
-"microscopically written inscriptions" [@kittler_there_1995] in the in the
-passage between typewriters and personal computers, reveals plenty of space for
-human agency. Media determine our situation only to the extent that we continue
-to treat the everyday transformation of thought into pixel (and thereto into
-literary control systems that structure human experience) as mystical and
-mystifying black-box mechanism.
-
-Engineer vs. brick levi strauss?
-
-
-Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
-of the tele-technology [@derrida_specters_2006, 213].
-
-Let me make my intentions visa vis Marx perfectly clear. I have no interest in
-mobilizing the entire weight of Marxist critique. A whole subset of Marxist
-terminology (dictatorship, proletariat, capital) falls outside of my purview
-here. Rather, I would like to co-opt Marx's discussion on the fetishism of
-commodities and import it, wholesale, to the conversation on algorithms. My
-interest lies in the humanism of Marx, whose thought, despite being perpetually
-out of time, continues to surprise with penetrating insight.
-
-"All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual minds or from some
-'essential' properties of a digital computer or network. They come from
-software developed by groups of people and marketed to large number of users
-[@manovich_there_2011, 272-273]."
-
-"An [algorithm] is therefore a mysterious thing, simply because in it the
-social character of men's [agreements] appears to them as an objective
-character stamped upon the product of those [agreements]." "There it is a
-definite social relation between men, that assumes, in their eyes, the
-fantastic form of a relation between things." "The relations connecting the
-[agreements] of one individual with that of the rest appear, not as direct
-social relations between individuals at work, but as what they really are,
-material relations between person and social relations between things."
-[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
-of the will, foresight and action of the producers.  To them, their own social
-action takes the form of the action of objects, which rule the producers
-instead of being ruled by them." To strip the "mystical veil," algorithms as
-contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
-automatism outside the head" .Necromancy.
-
-Hijack the whole conversation from the
-
-The subject is back. Unlike natural-language texts where meaning is derived in
-conversation between reader and author, algorithms and control codes have
-unambigious meaning, that ensure reliable reproduction. The environment is
-controlled. The codes are tested. The will is there!
-
-Derrida "If one follows the letter of the text, the critique of the ghost or of
-spirits would thus be the critique of a subjective representation and an
-abstraction, of what happens in the head, of what comes only out of the head,
-that is, of what stays there, in the head, even as it has come out of there,
-out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
-
-In religion people make their empirical world into an entity that is only
-conceived, imagined, that confronts them as something foreign
-[@marx_collected_1976, 159].
-
-imagined commodity =
-algorithm labor = contracts, agreements
-
-[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
-
-[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
-communication, the top-most layer of protocols and interface method is called
-the "application layer" and the bottom-most layer the "physical layer
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
-as being "responsible for encoding bits onto a transmission medium, whether
-wires, fiber optics, or radio broadcast, in ways that maximize the transmission
-rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
-
-[^ln2-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
-
-[^ln2-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
-
-[^ln2-alt]: "We have to think (in a completely novel way) the relation
-between a science and the ideology [...] the fact that such an investigation
-confronts us with the observation that every science, in the relationship it
-has with ideology it emerged from, can only be thought as a 'science of
-ideology, would disconcert us, were we not forewarned of the name of the
-*object* of knowledge, which can only exist in the form of ideology
-[@althusser_reproduction_2014, 46]."
-
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
-like "ethnology-like any science-comes about within the element of discourse,"
-and "this moment was that in which language invaded the universal problematic;
-that in which, in the absence of a center or origin, everything became
-discourse-provided we can agree on this word-that is to say, when everything
-became a system where the central signified, the original or transcendental
-signified, is never absolutely present outside a system of differences. The
-absence of the transcendental signified extends the domain and the interplay of
-signification ad infinitum" (278-294).
-
-[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
-flipping Hegel, who prioritized the transcendent spiritual over the physical
-and material forms of life, over "back to his feet." See for example
-@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
-a table out of it. Yet, for all that, the table continues to be that common,
-every-day thing, wood. But, so soon as it steps forth as a commodity, it is
-changes into something transcendent. It not only stands with its feed on the
-ground, but, in relation to all other commodities, it stands on its head, and
-evolves out of its wooden brain grotesque ideas, far more wonderful than
-'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
-dialectic of the concept itself became merely the conscious reflex of the
-dialectical motion of the real world and the dialectic of Hegel was placed upon
-its head; or rather, turned off its head, on which it was standing before, and
-placed on its feet again" (44).
+Here is my close reading of the venerable *Erewhon*, by Samuel Butler: if you
+open this file, it will ruin your reading device.
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
@@ -5124,6 +4996,138 @@ between usability, transparency, and good knowledge design.
 http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 
 ## Chapter 7: Engineering for Dissent
+
+### 3.4 Algorithm as Fetish
+
+Wendy Hui Kyong Chun
+On "Sourcery," or Code as Fetish. What could knowing software even mean, she
+asks.
+
+I can only begin to work of re-inscribing the A more careful analysis of
+"microscopically written inscriptions" [@kittler_there_1995] in the in the
+passage between typewriters and personal computers, reveals plenty of space for
+human agency. Media determine our situation only to the extent that we continue
+to treat the everyday transformation of thought into pixel (and thereto into
+literary control systems that structure human experience) as mystical and
+mystifying black-box mechanism.
+
+Engineer vs. brick levi strauss?
+
+
+Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
+of the tele-technology [@derrida_specters_2006, 213].
+
+Let me make my intentions visa vis Marx perfectly clear. I have no interest in
+mobilizing the entire weight of Marxist critique. A whole subset of Marxist
+terminology (dictatorship, proletariat, capital) falls outside of my purview
+here. Rather, I would like to co-opt Marx's discussion on the fetishism of
+commodities and import it, wholesale, to the conversation on algorithms. My
+interest lies in the humanism of Marx, whose thought, despite being perpetually
+out of time, continues to surprise with penetrating insight.
+
+"All these software mutations and 'new species' of software techniques are
+social in a sense that they don't simply come from individual minds or from some
+'essential' properties of a digital computer or network. They come from
+software developed by groups of people and marketed to large number of users
+[@manovich_there_2011, 272-273]."
+
+"An [algorithm] is therefore a mysterious thing, simply because in it the
+social character of men's [agreements] appears to them as an objective
+character stamped upon the product of those [agreements]." "There it is a
+definite social relation between men, that assumes, in their eyes, the
+fantastic form of a relation between things." "The relations connecting the
+[agreements] of one individual with that of the rest appear, not as direct
+social relations between individuals at work, but as what they really are,
+material relations between person and social relations between things."
+[@marx_marx-engels_1978, 321] "These quantities vary continually, independently
+of the will, foresight and action of the producers.  To them, their own social
+action takes the form of the action of objects, which rule the producers
+instead of being ruled by them." To strip the "mystical veil," algorithms as
+contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
+automatism outside the head" .Necromancy.
+
+Hijack the whole conversation from the
+
+The subject is back. Unlike natural-language texts where meaning is derived in
+conversation between reader and author, algorithms and control codes have
+unambigious meaning, that ensure reliable reproduction. The environment is
+controlled. The codes are tested. The will is there!
+
+Derrida "If one follows the letter of the text, the critique of the ghost or of
+spirits would thus be the critique of a subjective representation and an
+abstraction, of what happens in the head, of what comes only out of the head,
+that is, of what stays there, in the head, even as it has come out of there,
+out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
+
+In religion people make their empirical world into an entity that is only
+conceived, imagined, that confronts them as something foreign
+[@marx_collected_1976, 159].
+
+imagined commodity =
+algorithm labor = contracts, agreements
+
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
+as being "responsible for encoding bits onto a transmission medium, whether
+wires, fiber optics, or radio broadcast, in ways that maximize the transmission
+rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln2-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-alt]: "We have to think (in a completely novel way) the relation
+between a science and the ideology [...] the fact that such an investigation
+confronts us with the observation that every science, in the relationship it
+has with ideology it emerged from, can only be thought as a 'science of
+ideology, would disconcert us, were we not forewarned of the name of the
+*object* of knowledge, which can only exist in the form of ideology
+[@althusser_reproduction_2014, 46]."
+
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
+like "ethnology-like any science-comes about within the element of discourse,"
+and "this moment was that in which language invaded the universal problematic;
+that in which, in the absence of a center or origin, everything became
+discourse-provided we can agree on this word-that is to say, when everything
+became a system where the central signified, the original or transcendental
+signified, is never absolutely present outside a system of differences. The
+absence of the transcendental signified extends the domain and the interplay of
+signification ad infinitum" (278-294).
+
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
+
 
 ### Cryptography and Steganography
 
