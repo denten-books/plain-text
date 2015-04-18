@@ -1328,7 +1328,7 @@ us constitutes the grounds for all higher level textual activity, from record
 keeping to poetry and software development. From the textual grounds of
 human-machine interaction it becomes possible to derive poetics, in the sense
 of a study and an art of creating one's own time: taking control of prosody,
-rhythm, cadence, and meter.
+rhythm, meter, and cadence.
 
 [^ln-ndc]: Also known as the "single current" or "single Morse" system.
 
