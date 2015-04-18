@@ -97,6 +97,13 @@ Potential reviewers
     Mark Grief
     Matt Burton offered to read.
 
+Send Book To
+===========================
+Siegert
+Larkin
+Stefan
+Galloway
+
 For book blurb
 ===========================
 
