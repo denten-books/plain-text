@@ -1093,18 +1093,18 @@ difference" did have the effect of enabling humans to "express and signify"
 thoughts at virtually "any distance and place." The fixed length-property of
 Bacon's cipher, later implemented in the five-bit Baudot code, signaled the
 beginning of the modern era of serial communications
-[@jennings_annotated_2004]. Baudot and the related Murray
-alphabets[^ln-murray] were designed specifically with automation in mind. Both
-being fixed-length alphabets, the Baudot in particular did away with the
-"unison" signal that separated letters in Morse, since the signals could be
-divided into letters by count (every five codes representing a single
-character). Additionally, the Murray code was more compact than Morse and
-especially more economical than Hughes, which used up to 54 measures of silence
-to send a signal representing double quotes.[^ln-zero] The signal for "zero" in
-Morse code occupied 22 measures. By contrast, all Baudot and Murray characters
-were a mere 5 units in length, with the maximum of ten used to switch the
-receiving device into "figure" or "capital letter" states (for the total of 10
-units) [@murray_setting_1905; @beauchamp_history_2001 380-397].
+[@jennings_annotated_2004]. Baudot and the related Murray alphabets[^ln-murray]
+were designed specifically with automation in mind. Both being fixed-length
+alphabets, the Baudot in particular did away with "unison" signals that
+separated letters in Morse, since the signals could be divided into letters by
+count (every five codes representing a single character). Additionally, the
+Murray code was more compact than Morse and especially more economical than
+Hughes, which used up to 54 measures of silence to send a signal representing
+double quotes.[^ln-zero] The signal for "zero" in Morse code occupied 22
+measures. By contrast, all Baudot and Murray characters were a mere 5 units in
+length, with the maximum of ten used to switch the receiving device into
+"figure" or "capital letter" states (for the total of 10 units)
+[@murray_setting_1905; @beauchamp_history_2001 380-397].
 
 ![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys.
 @murray_setting_1905.](images/murray-keyboard.png)
@@ -2370,8 +2370,8 @@ the parsing of content and representation risks missing the machinations of
 naked circuit control. It looks like you are reading a book, but this book
 changes its internals as it receives instructions to inform and to control. For
 now I ask only who controls the device? But were a book also a pill or fused
-with the neural circuitry of the brain, would you know what and whom you were
-reading?
+with the neural circuitry of the brain, how would you know what and whom you
+were reading?
 
 ## Chapter 3: Laying Bare the Device
 `content, matter, form, formatting`
