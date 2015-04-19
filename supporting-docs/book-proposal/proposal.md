@@ -306,25 +306,25 @@ The chapter begins in outlining a recent discussion on surface reading.  What
 lies beneath the text? I ask. The question opens up into a discussion of the
 distinction between form and content: two theoretical concepts crucial to
 understanding the difference between plain text and binary file formats. I find
-that going back to Plato and Hegel, "form" is used at times to indicate
+that going back to Plato and Hegel, "form" was used at times to indicate
 physical structure and at other times to indicate immaterial categories in the
 ideal realm. The chapter's middle section takes up the notion of "ephemeral"
 textuality. A case study in removable storage elucidates the movement of text
 from human-legible inscription on page (and punch card) to invisible
-inscription as electrical charge embedded into magnetic storage media. The case
-study unfolds the distinction between print (in which matter, form, and content
-lie flat) and screen (where the three layers occupy physically distinct layers,
+inscription as electrical charge embedded into magnetic storage. The case study
+unfolds the distinction between print (in which matter, form, and content lie
+flat) and screen (where the three layers occupy physically distinct layers,
 providing only the illusion of flattened textuality). The discussion concludes
-with a stark image, which illustrates the difference between plain text and
-binary formats. To produce the image, I inject malicious code into an Adobe
-Acrobat file, visually showing contrast between surface text and its
-underlying, magnetically-bound, bit structure.
+with a stark image, illustrating the difference between plain text and binary
+formats visually. To produce the image, I inject malicious code into an Adobe
+Acrobat file, showing the contrast between surface text and its underlying
+magnetically-bound bit structure.
 
 ### Chapter 4: Media are Not the Message
 
 In this chapter I make two significant interventions in media studies and
 literary theory. First, I argue that media should not be confused with
-messages.  Starting with the (sometimes oversimplified) legacy of Marshall
+messages. Starting with the (sometimes oversimplified) legacy of Marshall
 McLuhan, I examine several models of communication, including ones proposed by
 semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jakobson),
 engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
@@ -383,9 +383,9 @@ history of the `.txt` file format, I find that early documents from the
 International Telecommunication Union (and later international bodies governing
 the exchange of information across state borders) display unease with
 encrypted, non-human-readable formats of information exchange. A theoretical
-treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
-Golumbia concludes with a discussion about the subject's role in actively
-shaping the material conditions of media being. As documents reflecting
+treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
+and Golumbia concludes with a discussion about the subject's role in actively
+shaping material conditions of media being. As documents reflecting
 externalized states of consciousness become increasingly more transparent, they
 are susceptible to increased surveillance and control. Plain text allows
 political subjects to decouple externalized mental states from mechanisms of
@@ -396,18 +396,25 @@ complex systems must itself become critical practice, which, in complement to
 critical theory, can actively engineer for textual mechanisms that make
 individual dissent possible.
 
+
 ## Tech Appendix
 
-A series of "experiments" that illustrate key theoretical concepts from each
-chapter, starting commands to be entered in the command line, to create an
-"augmented reading environment."
+The book assumes no prior technical expertise. It can be read sequentially as a
+conventional piece of scholarship in literary/textual theory or new media
+studies. But, because much of the book deals with conditions of textuality
+extant and recoverable from modern computing devices, I would like to give the
+reader an opportunity to apply theory into practice. To this end, I envision an
+optional Appendix that can exist on paper or as a companion website, creating
+an "augmented reading environment."
 
-## Relationship to Dissertation
+## Relationship to Dissertation and Other Published Work
 
 The book bears a resemblance to the dissertation in the subtitle only. Several
 paragraphs from the embargoed dissertation did make it into "Plain Text" in an
 ad-hoc manner, but the book as a whole represents a completely new framework
-and a new direction in my thinking about the subject.
+and a new direction in my thinking about the subject. I would like to place two
+of the book's more peripheral chapters, in their redacted form, into journals
+that would help build an audience for the book as a whole.
 
 ## Schedule to Completion
 
@@ -415,8 +422,8 @@ The research for this book was enabled by a year-long fellowship at the Berkman
 Center for Internet and Society. Consequent to the research phase, I taught
 several classes on the subject, which helped refine my thinking and provided
 further notes and primary material. As of today, the manuscript stands at
-roughly 55,000 words, with three chapters close to completion. I am writing
-actively and plan to have a first draft of the manuscript ready by June-July of
-2015. I am on leave next academic year, having cleared my schedule, with plans
-      of dedicating all of my attention to seeing this project through to
-publication.
+roughly 55,000 words, with three chapters completed in their draft form. I am
+writing actively and plan to have a first draft of the manuscript ready by
+June-July of 2015. I am on leave next academic year, having cleared my
+schedule, with plans of dedicating all of my attention to seeing this project
+through to publication.
