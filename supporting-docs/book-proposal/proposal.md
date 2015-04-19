@@ -245,19 +245,12 @@ measure of theoretical familiarity with Unix-based operating systems.
 Sophisticated understanding of the political issues around computation, be they
 "open access," "freedom of information," or "online privacy," begin at that
 system level. The book's technical appendix, although not required for the
-understanding of the argument of the book,  would help build a practical
+understanding of the argument of the book, could help build a practical
 foundation for the ideas advanced within.
 
-
-I will often illustrate abstract theoretical concepts by asking readers to type
-some commands into their terminals. Detailed instructions on how to set up this
-augmented reading environment, along with related experiments, exercises, and
-explanations, will be found in the technical appendix.
-
-In addition, the book will contain 15-20 tables and illustrations. I intend to
-apply for the "first book" subsidy offered by Harvard University's Department
-of Comparative Literature to offset any costs associated with the preparation
-of the manuscript.
+In addition, the manuscript contains 15-20 tables and illustrations. I have
+received a modest subvention to offset any costs associated with publishing and
+preparation of the manuscript.
 
 ## Annotated Table of Contents
 
@@ -307,21 +300,25 @@ also by a series of advances in communications, word processing, and media
 storage. A notion of text (as opposed to number) is hence "baked into" the
 system.
 
-### Chapter 3: Laying Bare the Technique
+### Chapter 3: Laying Bare the Device
 
-The chapter builds on the history of character encoding to include two major
-standards underlying the contemporary encounter with digital text: ASCII and
-Unicode. I approach the subject by noting the confused history of the
+The chapter begins in outlining a recent discussion on surface reading.  What
+lies beneath the text? I ask. The question opens up into a discussion of the
 distinction between form and content: two theoretical concepts crucial to
-understanding the distinction between binary and plain text. I find that going
-back to Plato and Hegel, "form" is used at times to indicate physical structure
-and at other times to indicate immaterial categories in the ideal realm. A
-critical treatment of a more contemporary conversation about "surface" and
-"depth" of meaning reveals "form" as a mediating concept between thought and
-matter. A case study in extreme surface reading, in the bowels of a
-photocopier, opens a distinction between print (in which matter, form, and
-content lie flat) and screen (where the three layers come apart, providing only
-the illusion of flattened textuality).
+understanding the difference between plain text and binary file formats. I find
+that going back to Plato and Hegel, "form" is used at times to indicate
+physical structure and at other times to indicate immaterial categories in the
+ideal realm. The chapter's middle section takes up the notion of "ephemeral"
+textuality. A case study in removable storage elucidates the movement of text
+from human-legible inscription on page (and punch card) to invisible
+inscription as electrical charge embedded into magnetic storage media. The case
+study unfolds the distinction between print (in which matter, form, and content
+lie flat) and screen (where the three layers occupy physically distinct layers,
+providing only the illusion of flattened textuality). The discussion concludes
+with a stark image, which illustrates the difference between plain text and
+binary formats. To produce the image, I inject malicious code into an Adobe
+Acrobat file, visually showing contrast between surface text and its
+underlying, magnetically-bound, bit structure.
 
 ### Chapter 4: Media are Not the Message
 

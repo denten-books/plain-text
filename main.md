@@ -2379,20 +2379,23 @@ reading?
 
 ### 3.0 Abstract
 
-The chapter builds on the history of character encoding to include two major
-standards underlying the contemporary encounter with digital text: ASCII and
-Unicode. I approach the subject through the confused history of the distinction
-between form and content: two theoretical concepts crucial to understanding the
-distinction between binary and plain text. In the theoretical discussion, I
-find that going back to Plato and Hegel, "form" is at times used to indicate
-physical structure, and, at other times, to indicate immaterial categories in
-the ideal realm. A critical treatment of a more contemporary conversation about
-"surface" and "depth" of meaning reveals "form" as a mediating concept between
-thought and matter. A case study in extreme surface reading, in the bowels of a
-photocopier, opens a way to the distinction between print (where matter, form,
-and content lie flat) and screen (where the three layers come apart, providing
-only the illusion of flattened textuality).
-
+The chapter begins in outlining a recent discussion on surface reading.  What
+lies beneath the text? I ask. The question opens up into a discussion of the
+distinction between form and content: two theoretical concepts crucial to
+understanding the difference between plain text and binary file formats. I find
+that going back to Plato and Hegel, "form" is used at times to indicate
+physical structure and at other times to indicate immaterial categories in the
+ideal realm. The chapter's middle section takes up the notion of "ephemeral"
+textuality. A case study in removable storage elucidates the movement of text
+from human-legible inscription on page (and punch card) to invisible
+inscription as electrical charge embedded into magnetic storage media. The case
+study unfolds the distinction between print (in which matter, form, and content
+lie flat) and screen (where the three layers occupy physically distinct layers,
+providing only the illusion of flattened textuality). The discussion concludes
+with a stark image, which illustrates the difference between plain text and
+binary formats. To produce the image, I inject malicious code into an Adobe
+Acrobat file, visually showing contrast between surface text and its
+underlying, magnetically-bound, bit structure.
 
 ### 3.1 Reading Surfaces
 
