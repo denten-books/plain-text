@@ -807,8 +807,9 @@ impressions," in a communication act (consisting of a "contact" and the
 exchange of signifying "thought vehicles") between "source superior" and the
 "receiver of instructions," placed in a binary and opposing relation
 ("negative" but without "resistance") to the idea of the divine. For the
-spiritualist, the divine (Christian) order is digital. Continuity threatens to
-undermine the distinction between the profane and the divine.
+spiritualist, the divine (Christian) order is digital, clearly separated into
+the profane and the divine. To maintain otherwise would be Gnostic heresy
+[@edwards_neglected_1990].
 
 Reverse to the logic of contemporary cultural critique of
 computation,[ln1-golumbia] which, after Kant, associates the atomic view of the
