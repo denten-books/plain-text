@@ -1,5 +1,5 @@
 ---
-title: "Plain Text: Poetics of Human-computer Interaction (Book Proposal)"
+title: "Plain Text: The Poetics of Human-computer Interaction (Book Proposal)"
 author: Dennis Tenen
 
 ---
