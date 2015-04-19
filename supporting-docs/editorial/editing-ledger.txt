@@ -1,0 +1,21 @@
+# :r !date
+# to output date
+
+Sat Mar 21 23:52:52 EDT 2015
+- proposal out to raver, 3825 words
+- NO RESPONSE
+
+Sat Mar 21 23:52:52 EDT 2015
+- proposal out to timpane, 3825 words
+- Returned on March 29th. Not happy with results--verbose and sloppy.
+
+Sat Apr 11 10:13:36 EDT 2015
+- ch1 out to Ann Kay, 11168 words (40bps/hr rush rate)
+- got it back on 4/16
+- Sent 320 BP via PayPal on 4/18 for 8 hrs of work
+
+Sun Apr 19 14:21:34 EDT 2015
+- ch2 out to Ann Kay, 9938 words at 20bp/hr
+
+Sun Apr 19 15:19:30 EDT 2015
+- book proposal out to Ann Kay, 4093 words at 20bp/hr
