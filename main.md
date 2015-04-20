@@ -2694,7 +2694,7 @@ pins), then as ingestible particle (smart dust, nanobots); and finally as
 something coupled directly into the nervous system and inscribed into the
 neural network of the brain (as the ultimate hard- or rather wetware platform).
 The movement from afar to within logically completes the program of "intellect
-augmentation," a program which begins not with Vannevar Bush, J. C. R.
+augmentation," a program which begins not with Vannevar Bush, J.C.R.
 Licklider, and Douglas Engelbart (who used the term); and not with *Xerox*, the
 ultimate purveyors of radical surface reading, but with the invention of
 writing itself. Reading "for meaning", in these not at all futuristic
@@ -2707,16 +2707,16 @@ stage.
 
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
-Let's try it again. What lies beneath the text? We are accustomed to thinking
-about that question metaphorically and answer in accord: meaning, narrative,
-representation, order, discourse, or ideology. But the materialist answer is
-much simpler: pulp. Increasingly, it is also: glass, plastic, liquid crystal,
-copper, laminates, and silicone. Not much space separates ink from paper.
-There, textuality lies flat, in two dimensions. What you see is truly what you
-get. Not so on the screen connected to other screens. Networked textuality
-extends into the third dimension, away from the reader and deep into the bowels
-of the machine. The Open Systems Interconnection (OSI) reference model of
-communication (drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+Let's try it again, then. What lies beneath the text? We are accustomed to
+thinking about that question metaphorically and answer in accord: meaning,
+narrative, representation, order, discourse, or ideology. But the materialist
+answer is much simpler: pulp. Increasingly, it is also: glass, plastic, liquid
+crystal, copper, laminates, and silicone. Not much space separates ink from
+paper. There, textuality lies flat, in two dimensions. What you see is truly
+what you get. Not so on the screen connected to other screens. Networked
+textuality extends into the third dimension, away from the reader and deep into
+the bowels of the machine. The Open Systems Interconnection (OSI) reference
+model of communication (drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
 International Organization for Standardization in 1984, as ISO 7498) describes
 no less than seven layers: from the Application Layer, concerned with the
 semantics of application ("all services directly comprehensible to the user
@@ -2734,17 +2734,35 @@ These are the same layers that Alexander Galloway unites in a system of what he
 calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
 It is distributed to be sure, although to what extent decentralized, is a
 matter of some debate. Like a good soldier, each device in the pictured network
-internalizes dozens if not hundreds of protocols that enable to system as a
-whole to function seamlessly (in the way for example your machine can at one
-moment connect to one wireless access point, and at another moment be tethered
-to an Ethernet cable with minimal loss of connectivity from the user's point of
-view). Yet, these protocols are also strongly centralized, in the sense of
-legislated by an international governing body (the International Organization
-for Standardization in case of OSI and the Internet Engineering Task Force in
-the case of TCP/IP) and subject to the usual political pitfalls of pan-global
-consortia. Whatever the case may be, the subject exists outside, on the
-periphery of the network. The flows of power and control are obscured by
-surface representations at the application layer.
+internalizes dozens if not hundreds of protocols that enable the system to
+function seamlessly as a whole (in the way, for example, your machine can at
+one moment connect to one wireless access point, and at another moment be
+tethered to an Ethernet cable with minimal loss of connectivity from the user's
+point of view). Yet, these protocols are also densly centralized. They are, for
+example, legislated by an international governing body (the International
+Organization for Standardization in case of OSI and the Internet Engineering
+Task Force in the case of TCP/IP), subject to the usual political pitfalls of
+pan-global consortia. Whatever the case may be, the subject exists outside of
+that system, on the periphery of the network.
+
+The application layer stops at the subject, at times excluding access
+expclicitly, as is arguably the case with U.S. Code, Title 17, Chapter 12,
+§1201 ("Circumvention of copyright protection systems", passed as part of the
+"Digital Millennium Copyright Act" in 1998), which stipulates that "no person
+shall circumvent a technological measure that effectively controls access to a
+work protected under this title (17.1201.a.1.A)." The letter of the law further
+specified that to "circumvent a technological measure," in this case, means "to
+descramble a scrambled work, to decrypt an encrypted work, or otherwise to
+avoid, bypass, remove, deactivate, or impair a technological measure, without
+the authority of the copyright owner (17.1201.a.3.A)." Access control is
+further defined "measure, in the ordinary course of its operation, requires the
+application of information, or a process or a treatment, with the authority of
+the copyright owner, to gain access to the work (17.1201.a.3.B)."
+
+[ln3-root]: @stoltz_is_2013
+
+The flows of power and control are obscured by surface representations at the
+application layer.
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
