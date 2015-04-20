@@ -812,7 +812,7 @@ exchange of signifying "thought vehicles") between "source superior" and the
 ("negative" but without "resistance") to the idea of the divine. Continuity
 mixes the sacred with the profane. For the spiritualist, a truly Christian
 order must remain digital. To mainntain otherwise would be Gnostic heresy
-[@edwards_neglected_1990].
+[@edwards_neglected_1990; @shaked_dualism_2005, 52-71].
 
 Following Kant, it is common for contemporary cultural critics of computation
 to associate the digital, discrete view of the universe with determinism and
@@ -2388,17 +2388,17 @@ distinction between form and content: two theoretical concepts crucial to
 understanding the difference between plain text and binary file formats. I find
 that going back to Plato and Hegel, "form" was used at times to indicate
 physical structure and at other times to indicate immaterial categories in the
-ideal realm. The chapter's middle section takes up the notion of "ephemeral"
-textuality. A case study in removable storage elucidates the movement of text
-from human-legible inscription on page (and punch card) to invisible
-inscription as electrical charge embedded into magnetic storage. The case study
-unfolds the distinction between print (in which matter, form, and content lie
-flat) and screen (where the three layers occupy physically distinct layers,
-providing only the illusion of flattened textuality). The discussion concludes
-with a stark image, illustrating the difference between plain text and binary
-formats visually. To produce the image, I inject malicious code into an Adobe
-Acrobat file, showing the contrast between surface text and its underlying
-magnetically-bound bit structure.
+ideal realm. In the chapter's middle section, I consider the notion of
+"ephemeral" textuality. A case study in removable storage elucidates the
+movement of text from human-legible inscription on page (and punch card) to
+invisible inscription as electrical charge embedded into magnetic storage. The
+case study unfolds the distinction between print (in which matter, form, and
+content lie flat) and screen (where the three layers occupy physically distinct
+strata, providing only the illusion of flattened textuality). The discussion
+concludes with a stark image, illustrating the difference between plain text
+and binary formats visually. To produce the image, I inject malicious code into
+an Adobe Acrobat file, showing the contrast between surface text and its
+underlying magnetically-bound bit structure.
 
 ### 3.1 Reading Surfaces
 
@@ -2653,33 +2653,57 @@ example, in opposition to variance found in the multiplicity of individual
 *Hamlets*.
 
 Where Barthes wants to liberate text as symbol from the embodied work, scholars
-like Johanna Drucker, make a strong case for returning the text to its
-underlying material contexts. Almost the entirety of her critical oeuvre serves
-to remind the reader that ideas cannot exist outside of their material form
-[@drucker_digital_2001], that paper and typography are the formal medium for
-the production of meaning in language, and that even electronic, digital text
-formats have their material embodiment [@drucker_speclab_2009]. I am
-sympathetic to the message, but only in so far as it adds a dimension of
-materiality to a properly three-dimensional, thick description of text. Simply
-put, I am greedy and want to have the whole layered cake.
+like Johanna Drucker make a strong case for returning the text to its
+underlying material contexts. Much of her work reminds the reader that ideas
+cannot exist outside of their material form, that paper and typography are the
+formal medium for the production of meaning in language, and that even
+electronic, digital text formats have their material embodiment
+[@drucker_digital_2001; @drucker_graphical_2006; @drucker_letterpress_2008;
+@drucker_speclab_2009; @drucker_reading_2013]. I am sympathetic to the message,
+but only in so far as it adds a dimension of materiality to a properly
+three-dimensional, thick description of text. Simply put, I am greedy and want
+to have the whole layered cake.
 
-A clarification of terms allows us to perceive the history of textual
+A clarification of the terms allows us to perceive the history of textual
 technology as one of gradual peeling apart of the layers of matter, form, and
 content. Textuality comes unglued. This allographic property of text is worthy
-of preservation. I am not only against the theoretical move to flatten it back
-out, but I think of such attempts as practically, politically imprudent. The
-easy stratification of electronic text represents the hard-won struggle on the
-part of writers, literary scholars, and software engineers to liberate ideas
-from their material and formal contexts. As an extreme example, imagine
-discourse that could never be separated from a specific medium. Communication
-would be difficult, if not impossible! Moreover, deeply-seated values in favor
-of free speech and unencumbered exchange of information depend on a loose
-coupling between ontological categories. Our abilities to remix, translate,
-re-mediate, recycle, transmit, transform, transcend the ideas of others, relies
-on their ephemeral nature. Ideas deposited in ossified matter, in fixed shapes,
-do not travel well. And there are plenty of entities that would like us to
-return to a time of singular thought, etched in monolithic tablets, whether
-made of silicone or of stone.
+of critical attention and preservation. I am not only against the theoretical
+move to flatten it back out, but I think of such attempts as practically,
+politically imprudent. The easy stratification of electronic text represents a
+hard-won struggle on the part of writers, literary scholars, and software
+engineers to liberate ideas from their material and formal contexts. As an
+extreme example, imagine discourse that could never be separated from a
+specific medium. Communication would be difficult, if not impossible! Moreover,
+deeply-seated values in favor of free speech and unencumbered exchange of
+information depend on a loose coupling between ontological categories. Our
+abilities to remix, translate, re-mediate, recycle, transmit, transform,
+transcend the ideas of others, relies on their ephemeral nature. Ideas
+deposited in ossified matter, in fixed shapes, do not travel well. And there
+are plenty of entities that would like us to return to a time of singular
+thought, etched in monolithic tablets, whether made of silicone or of stone.
+
+The loose coupling of content to its underlying strata of form and matter also
+comes at a cost. As surface phenomenon, text hides the flows of power and
+control coursing beneath. While the occasional immateriality of code and text
+is a property worthy of conservancy, any notion of critique or critical
+thinking must also be able to reach beyond the plainly apparent to the veiled
+and the concealed. For now, the text remains if not "at hand," then "at hand's
+length." But as books get smaller, "micrographic" writing moves closer and
+closer to the optic nerve: first as wearable technology (watches, glasses,
+pins), then as ingestible particle (smart dust, nanobots); and finally as
+something coupled directly into the nervous system and inscribed into the
+neural network of the brain (as the ultimate hard- or rather wetware platform).
+The movement from afar to within logically completes the program of "intellect
+augmentation," a program which begins not with Vannevar Bush, J. C. R.
+Licklider, and Douglas Engelbart (who used the term); and not with *Xerox*, the
+ultimate purveyors of radical surface reading, but with the invention of
+writing itself. Reading "for meaning", in these not at all futuristic
+conditions[^ln3-reading], involves something akin to phenomenology as
+biological reverse engineering.
+
+[^ln3-reading]: All of the technologies I list here exist today (in the second
+decade of the twenty-first century) commercially, much beyond the prototype
+stage.
 
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
