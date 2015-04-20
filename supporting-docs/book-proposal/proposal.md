@@ -1,5 +1,5 @@
 ---
-title: "Plain Text: Poetics of Human-computer Interaction (Book Proposal)"
+title: "Plain Text: The Poetics of Human-computer Interaction (Book Proposal)"
 author: Dennis Tenen
 
 ---
@@ -12,38 +12,46 @@ layers of technology and cultural technique that constitute contemporary
 encounter with text, "Plain Text" seeks to reconfigure familiar terms that
 motivate the study of new media, literature, and the digital humanities. The
 book unfolds a philosophical investigation of digital being through a media
-history of plain text, a foundational file format still extant on every digital
-device destined for human-computer interaction.
+history of plain text, an important file in the development of computer history
+extant on every digital device destined for human-computer interaction.
 
 ## Theme and Argument
 
-Plain text is a file format and a frame of mind. A fundamental concept in the
+Plain text is a file format and a frame of mind. A foundational concept in the
 development of computing, plain text stands in opposition to ways of thinking
 that have produced closed platforms, rarefied knowledge, and black-box devices.
 Instead, it offers a vision of data that is human-readable by design: portable,
-concise, and universal. This book contains an argument in defense of plain
-text. In making my case, I seek to convene a community interested in reflecting
-critically on the ideas, tools, and practices that shape our daily encounter
-with computation.
+concise, and universal. This book contains a history of and an argument for
+plain text. In making my case, I seek to convene a community interested in
+reflecting critically on the ideas, tools, and practices that shape our daily
+encounter with computation.
 
 I build on those principles to ask: what is at stake in the difference between
 digital and analog media? What contains more information a novel or a block of
 wood?  What separates meaning, form, and formatting? How do pixels form into
-texts? Where does data end and meta-data begin? To what extent media determine
+texts? Where do data end and meta-data begin? To what extent media determine
 the message? The formulation of these broadly theoretical concerns about the
 poetics of human-computer interaction opens the way to a discussion about the
 social impact of textual technology, as it relates to applied dynamics of
 online agency, deliberation, consensus-making, and dissent.
 
-A secondary aim of this volume is to convince computer "users" to view their
-computational environments as a literary system of sorts. I mean a "literary
-system" differently to what one might conventionally mistake for a "binary" or
-"digital" one, however imprecise those terms are in everyday use. In clarifying
-usage, I ask those who may have considered themselves mere "users" to become
-close readers, thinkers, and makers of technology, able to apply the same
-critical acuity to reading code and platform as they do to close reading of
-prose and poetry. Ultimately, the book makes a case for the recovery of textual
-roots always and already latent in the mechanisms of modern computing.
+Software developers, graphic designers, system administrators, and project
+managers routinely architect technologies that have deep cultural significance,
+affecting a range of cultural practices: from the ways we relate to our family
+and friends to the formation of shared cultural archives. Because such
+"cultural techniques" are formative of our culture, supposedly technical
+decisions like choosing a text editor, a filing system, or a social networking
+platform cannot be adequately addressed in shallow instrumental terms limited
+to efficacy, speed, or performance. A secondary aim of this volume is therefore
+to convince computer "users" to view their computational environments as a
+literary system of sorts. I mean a "literary system" differently to what one
+might conventionally mistake for a "binary" or "digital" one, however imprecise
+those terms are in everyday use. In clarifying usage, I ask those who may have
+considered themselves mere "users" to become close readers, thinkers, and
+makers of technology, able to apply the same critical acuity to reading code
+and platform as they do to close reading of prose and poetry. Ultimately, the
+book makes a case for the recovery of textual roots already latent in the
+mechanisms of modern computing.
 
 ## Field Significance
 
@@ -73,7 +81,10 @@ Second, the book contains a strong undercurrent of humanism. In making explicit
 the ways in which changes in the material substratum affect higher-order
 cultural techniques (of knowledge production and literary dissemination) I
 insist on the reinstatement of human agency in a conversation that has largely
-turned towards the object, the system, and the post-human.
+turned towards the object, the system, and the post-human. The book's narrative
+arc can be imagined as developing from first-order material basses of textual
+production, to second-order phenomena, to the emergence of the subject in the
+latter chapters.
 
 Finally, my work is experimental in that it affects history and theory through
 practice. Because engineering is an evolutionary practice, contemporary
@@ -82,22 +93,29 @@ This means that lines of code from software running Unix systems in the 1970s
 are still in some real sense present on modern machines (like Apple Macintosh
 laptops and Android phones, which run Unix-derived operating systems). This
 property allows for a media archeology that can "lay bare" the device, making
-good on the implied critical metaphor, involving excavation, surveying, and
-artifact discovery (although enacted locally, at the level of the device).
+good on the implied archaeological metaphor: involving excavation, surveying,
+and artifact discovery, at the level of the literal device.
 
 ## Existing Literature
 
 "Plain Text" makes a theoretical intervention in the cluster of media studies-
 and digital humanities-related fields that include science and technology
-studies, platform studies, critical code studies, and media archeology. Recent
-comparable books in these fields include *Paper Knowledge* by Lisa Gitelman
-(Duke University Press, 2014); *Coding Freedom: The Ethics and Aesthetics of
-Hacking*, by Gabriella Coleman (Princeton University Press, 2012); *Mechanisms:
-New Media and the Forensic Imagination*, by Matthew G. Kirschenbaum (MIT Press,
-2012); *Files: Law and Media Technology*, by Cornelia Vismann (Stanford
-University Press, 2008); and several titles in the Electronic Mediations series
-at Minnesota University Press, which published Lori Emerson's *Reading Writing
-Interfaces* in 2014.
+studies, platform studies, history of data, software and critical code studies,
+and media archeology. Recent comparable books in this space include:
+- *Paper Knowledge* by Lisa Gitelman (Duke University Press, 2014)
+- *Coding Freedom: The Ethics and Aesthetics of Hacking*, by Gabriella Coleman
+  (Princeton University Press, 2012)
+- *Mechanisms: New Media and the Forensic Imagination*, by Matthew G.
+  Kirschenbaum (MIT Press, 2012)
+-  *Files: Law and Media Technology*, by Cornelia Vismann (Stanford University
+   Press, 2008)
+- *Programmed Visions: Software and Memory*, by Wendy Hui Kyong Chun (MIT,
+  2013)
+- *Beautiful Data: A History of Vision and Reason since 1945*, by Orit Halpern
+(Duke, 2015)
+- and several titles in the Electronic Mediations series at Minnesota
+  University Press, which published Lori Emerson's *Reading Writing Interfaces*
+in 2014.
 
 My work differs from these volumes in two major ways. First, while committed to
 theoretical concerns---that is, ideas that can guide or challenge the way we
@@ -146,18 +164,15 @@ that promise mutual enrichment.
 
 ## Audience and Market
 
-As is the case for most of my work, "Plain Text" appeals to two key audiences.
-The first comprises digital, media, and literary scholars interested in the
-material aspects of knowledge production. The second is composed of knowledge
-workers that do not usually view their everyday practice in its historical,
-philosophical, or political contexts. Software developers, graphic designers,
-system administrators, and project managers routinely architect technologies
-that have deep cultural significance, affecting a range of cultural practices:
-from the ways we relate to our family and friends to the formation of shared
-cultural archives. Because such "cultural techniques" are formative of our
-culture, supposedly technical decisions like choosing a text editor, a filing
-system, or a social networking platform cannot be adequately addressed in
-shallow instrumental terms limited to efficacy, speed, or performance.
+As is the case for most of my work, "Plain Text" appeals to several key
+audiences. The first comprises media history and theory scholars interested in
+history of data and computing in the twentieth century. The second audience can
+be located in literary fields of study, among scholars seeking to understand
+the impact of technology on literary theory and practice. Finally, the book
+targets the broader audience of digital humanities and information science
+practitioners (particularly in the field of human-computer interaction),
+actively engaged in using and creating textual interfaces that shape
+contemporary reading and writing praxis.
 
 As a former software engineer and now a literary scholar, I make sure that my
 research bridges the (perceived) gap between the "two cultures" of science and
@@ -175,13 +190,14 @@ In this spirit, my group has organized workshops on online security for
 activists; we have reached out to an online community of engineers to help us
 write media history as a project in citizen humanities; and we are set to teach
 critical making at Rikers Island this summer. I am inspired in these endeavors
-by my colleagues at the Columbia University Department of English and at
-Harvard University's Berkman Center for Internet & Society, where I am an
-active faculty associate. I keep these manifold audiences in mind as I complete
-"Plain Text." The book exposes intellectual frameworks that bolster my research
-and teaching activities. I write to strengthen these projects and to give back
-to the community that has supported me so generously. I hope to rely on the
-same good will and support networks in reaching out to promote my book.
+by Digital Humanities labs across the country, by my colleagues at the Columbia
+University Department of English and at Harvard University's Berkman Center for
+Internet & Society, where I am an active faculty associate. I keep these
+manifold audiences in mind as I complete "Plain Text." The book exposes
+intellectual frameworks that bolster my research and teaching activities. I
+write to strengthen these projects and to give back to the community that has
+supported me so generously. I hope to rely on the same good will and support
+networks in reaching out to promote my book.
 
 In my teaching career, I have been asked to create courses and certificate
 programs for graduate students in the humanities interested in computational
@@ -190,22 +206,18 @@ University of Victoria and in the Lede Program at the Columbia University
 Graduate School of Journalism. Texts usually assigned in courses like that are
 either volumes published by technical presses for a professional audience or
 theory-based readings in new media studies related only loosely to teaching the
-fundamentals of computer science in context. My book furnishes the intellectual
-foundations for the practice of digital humanities. With the proposed technical
-appendix and a possible companion site (explained in the next section), I hope
-to supplement the main body of the work with a series of "experiments" that
-illustrate theoretical concepts in action, at the keyboard. Such a blend of
-theory and practice defines my method. As many major universities invest in
-programs related to digital humanities, computational social science, and
-computational journalism, I hope for "Plain Text" to become a standard text
-that introduces faculty and advanced graduate students to the notion of
-critical practice in humanities computing.
+fundamentals of computer science in context. I hope for chapters of my book to
+be useful in similar contexts. The (optional) technical appendix proposed in
+the next section could serve to supplement the main body of the work with a
+series of "experiments" that illustrate theoretical concepts in action, at the
+keyboard. Such a blend of theory and practice defines my method.
 
 ## Length and Format
 
 I am writing the book as a traditional volume, expounding a sustained thesis
-across seven chapters. At this point, I am aiming for a manuscript of around
-80,000 to 90,000 words, allotting around 10,000 to 15,000 words per chapter.
+across seven chapters (along with a short introduction). At this point, I am
+aiming for a manuscript of around 80,000 words (non including citations),
+allotting around 10,000 to 12,000 words per chapter.
 
 While "Plain Text" is a work on the history and philosophy of computational
 culture, the book also argues for the advancement of theory through practice.
@@ -229,24 +241,16 @@ class once confessed to being confused about the relationship between files and
 folders. "Plain Text" is a book about files and folders: it is about textuality
 as encoded in specific ways on machines that have a shared engineering
 pedigree. The hidden (but very much intended) side-effect of "Plain Text" is a
-measure of technical proficiency with Unix-based operating systems.
+measure of theoretical familiarity with Unix-based operating systems.
 Sophisticated understanding of the political issues around computation, be they
 "open access," "freedom of information," or "online privacy," begin at that
-system level. The book's technical appendix would help build a practical
-foundation for the arguments advanced within.
+system level. The book's technical appendix, although not required for the
+understanding of the argument of the book, could help build a practical
+foundation for the ideas advanced within.
 
-The book assumes no prior knowledge. It can be read sequentially as a
-conventional piece of scholarship in textual theory or new media studies. But
-for those willing to take the plunge, I will often illustrate abstract
-theoretical concepts by asking readers to type some commands into their
-terminals. Detailed instructions on how to set up this augmented reading
-environment, along with related experiments, exercises, and explanations, will
-be found in the technical appendix.
-
-In addition, the book will contain 15-20 tables and illustrations. I intend to
-apply for the "first book" subsidy offered by Harvard University's Department
-of Comparative Literature to offset any costs associated with the preparation
-of the manuscript.
+In addition, the manuscript contains 15-20 tables and illustrations. I have
+received a modest subvention to offset any costs associated with publishing and
+preparation of the manuscript.
 
 ## Annotated Table of Contents
 
@@ -296,27 +300,31 @@ also by a series of advances in communications, word processing, and media
 storage. A notion of text (as opposed to number) is hence "baked into" the
 system.
 
-### Chapter 3: Laying Bare the Technique
+### Chapter 3: Laying Bare the Device
 
-The chapter builds on the history of character encoding to include two major
-standards underlying the contemporary encounter with digital text: ASCII and
-Unicode. I approach the subject by noting the confused history of the
+The chapter begins in outlining a recent discussion on surface reading.  What
+lies beneath the text? I ask. The question opens up into a discussion of the
 distinction between form and content: two theoretical concepts crucial to
-understanding the distinction between binary and plain text. I find that going
-back to Plato and Hegel, "form" is used at times to indicate physical structure
-and at other times to indicate immaterial categories in the ideal realm. A
-critical treatment of a more contemporary conversation about "surface" and
-"depth" of meaning reveals "form" as a mediating concept between thought and
-matter. A case study in extreme surface reading, in the bowels of a
-photocopier, opens a distinction between print (in which matter, form, and
-content lie flat) and screen (where the three layers come apart, providing only
-the illusion of flattened textuality).
+understanding the difference between plain text and binary file formats. I find
+that going back to Plato and Hegel, "form" was used at times to indicate
+physical structure and at other times to indicate immaterial categories in the
+ideal realm. The chapter's middle section takes up the notion of "ephemeral"
+textuality. A case study in removable storage elucidates the movement of text
+from human-legible inscription on page (and punch card) to invisible
+inscription as electrical charge embedded into magnetic storage. The case study
+unfolds the distinction between print (in which matter, form, and content lie
+flat) and screen (where the three layers occupy physically distinct layers,
+providing only the illusion of flattened textuality). The discussion concludes
+with a stark image, illustrating the difference between plain text and binary
+formats visually. To produce the image, I inject malicious code into an Adobe
+Acrobat file, showing the contrast between surface text and its underlying
+magnetically-bound bit structure.
 
 ### Chapter 4: Media are Not the Message
 
 In this chapter I make two significant interventions in media studies and
 literary theory. First, I argue that media should not be confused with
-messages.  Starting with the (sometimes oversimplified) legacy of Marshall
+messages. Starting with the (sometimes oversimplified) legacy of Marshall
 McLuhan, I examine several models of communication, including ones proposed by
 semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jakobson),
 engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
@@ -375,9 +383,9 @@ history of the `.txt` file format, I find that early documents from the
 International Telecommunication Union (and later international bodies governing
 the exchange of information across state borders) display unease with
 encrypted, non-human-readable formats of information exchange. A theoretical
-treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
-Golumbia concludes with a discussion about the subject's role in actively
-shaping the material conditions of media being. As documents reflecting
+treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
+and Golumbia concludes with a discussion about the subject's role in actively
+shaping material conditions of media being. As documents reflecting
 externalized states of consciousness become increasingly more transparent, they
 are susceptible to increased surveillance and control. Plain text allows
 political subjects to decouple externalized mental states from mechanisms of
@@ -388,18 +396,25 @@ complex systems must itself become critical practice, which, in complement to
 critical theory, can actively engineer for textual mechanisms that make
 individual dissent possible.
 
+
 ## Tech Appendix
 
-A series of "experiments" that illustrate key theoretical concepts from each
-chapter, starting commands to be entered in the command line, to create an
-"augmented reading environment."
+The book assumes no prior technical expertise. It can be read sequentially as a
+conventional piece of scholarship in literary/textual theory or new media
+studies. But, because much of the book deals with conditions of textuality
+extant and recoverable from modern computing devices, I would like to give the
+reader an opportunity to apply theory into practice. To this end, I envision an
+optional Appendix that can exist on paper or as a companion website, creating
+an "augmented reading environment."
 
-## Relationship to Dissertation
+## Relationship to Dissertation and Other Published Work
 
 The book bears a resemblance to the dissertation in the subtitle only. Several
 paragraphs from the embargoed dissertation did make it into "Plain Text" in an
 ad-hoc manner, but the book as a whole represents a completely new framework
-and a new direction in my thinking about the subject.
+and a new direction in my thinking about the subject. I would like to place two
+of the book's more peripheral chapters, in their redacted form, into journals
+that would help build an audience for the book as a whole.
 
 ## Schedule to Completion
 
@@ -407,8 +422,8 @@ The research for this book was enabled by a year-long fellowship at the Berkman
 Center for Internet and Society. Consequent to the research phase, I taught
 several classes on the subject, which helped refine my thinking and provided
 further notes and primary material. As of today, the manuscript stands at
-roughly 55,000 words, with three chapters close to completion. I am writing
-actively and plan to have a first draft of the manuscript ready by June-July of
-2015. I am on leave next academic year, having cleared my schedule, with plans
-      of dedicating all of my attention to seeing this project through to
-publication.
+roughly 55,000 words, with three chapters completed in their draft form. I am
+writing actively and plan to have a first draft of the manuscript ready by
+June-July of 2015. I am on leave next academic year, having cleared my
+schedule, with plans of dedicating all of my attention to seeing this project
+through to publication.
