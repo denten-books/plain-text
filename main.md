@@ -2732,58 +2732,77 @@ paper. There, textuality lies flat, in two dimensions. What you see is truly
 what you get. Not so on the screen connected to other screens. Networked
 textuality extends into the third dimension, away from the reader and deep into
 the bowels of the machine. The Open Systems Interconnection (OSI) reference
-model of communication (drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
-International Organization for Standardization in 1984, as ISO 7498) describes
-no less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
-electrical, functional, and procedural characteristics" of communication
-[@day_revised_1995; @ncs_national_1988; @ncs_open_1981]. The OSI model layers
-include the Presentation Layer, Session Layer, Data Link Layer, Transport
-Layer, Network Layer, Data Link Layer [@day_osi_1983; @day_revised_1995;
-@miller_iso_1981, @ncs_open_1981, @piatkowski_iso-ansi_1980].
+model of communication[^ln3-osi] describes no less than seven layers: from the
+Application Layer, concerned with the semantics of application ("all services
+directly comprehensible to the user [@miller_iso_1981, 285] to the Physical
+Layer, providing the "mechanical, electrical, functional, and procedural
+characteristics" of communication [@day_revised_1995; @ncs_national_1988;
+@ncs_open_1981].[^ln3-layers]
 
 ![Structure of an OSI node and an example network. From
-@piatkowski_iso-ansi_1980, 114-15.](images/osi.png]
+@piatkowski_iso-ansi_1980, 114-15.](images/osi.png)
+
+[^ln3-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+International Organization for Standardization in 1984, as ISO 7498.
+
+[^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
+Session, Transport, Network, Data Link, and Physical layers [@day_osi_1983;
+@day_revised_1995; @miller_iso_1981, @ncs_open_1981,
+@piatkowski_iso-ansi_1980].
 
 These are the same layers that Alexander Galloway unites in a system of what he
 calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
-It is distributed to be sure, although to what extent decentralized, is a
+It is distributed to be sure, although to what extent it is decentralized is a
 matter of some debate. Like a good soldier, each device in the pictured network
 internalizes dozens if not hundreds of protocols that enable the system to
 function seamlessly as a whole (in the way, for example, your machine can at
 one moment connect to one wireless access point, and at another moment be
 tethered to an Ethernet cable with minimal loss of connectivity from the user's
-point of view). Yet, these protocols are also densely centralized. They are, for
-example, legislated by an international governing body (the International
-Organization for Standardization in case of OSI and the Internet Engineering
-Task Force in the case of TCP/IP), subject to the usual political pitfalls of
-pan-global consortia. Whatever the case may be, the subject exists outside of
-that system, on the periphery of the network.
+point of view). Yet, these protocols are also densely consolidated. They are,
+for example, legislated by an international governing body (the International
+Standards Organization in the case of OSI, and the Internet Engineering Task
+Force in the case of TCP/IP), subject to the usual political pitfalls of
+pan-global consortia. Whatever the case may be, the subject encounters the
+"protocol stack" from without, on the periphery of the network (see Figure).
+When paging through an electronic book (usually an OSI-compliant device), for
+example, the reader has access only to the outputs emanating from the
+application layer.
 
 The application layer stops at the subject. Access to the underlying layers of
-device operation (and consequently analysis) can sometimes be "merely" obscured
+device operation (and consequently analysis) are sometimes "merely" obscured
 and sometimes made illicit outright, as is arguably the case with U.S. Code,
 Title 17, Chapter 12, §1201, titles "Circumvention of copyright protection
 systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
 1998. A literary scholar may be familiar with some provisions of American
 copyright law (U.S.  Code, Title 17) governing text as surface representation.
-These extend "exclusive rights" to "copyright owners" of "literary works." The
-rights include the ability to "reproduce," "to prepare derivative works," "to
-distribute copies," and "to perform and to display publicly" (17.1.106).
-Surface representation is further subject to professional rules of conduct,
-embodied in practices of quotation, citation, and attribution (or lack thereof,
-as plagiarism).
+The (legal) code extends "exclusive rights" to "copyright owners" of "literary
+works." The rights include the ability to "reproduce," "to prepare derivative
+works," "to distribute copies," and "to perform and to display publicly"
+(17.1.106).  Surface representation is further subject to professional rules of
+conduct, embodied in practices of quotation, citation, and attribution (or lack
+thereof, as plagiarism).
 
-The immateriality of digital text (and image) has placed these copyright
-restrictions under pressure. The work of art in the age of digital reproduction
-has lost its already tenuous hold on the material substratum. Technologies from
-cheap photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer
-file sharing networks have reduced the price of a copy down to near zero. The
-response from the film, game, music, and publishing industry has been to push
-rights management down to the infrastructural level, as software and hardware.
-As Charles Clark (the late British publisher and prominent copyright attorney)
-famously put it, "the answer to the machine is in the machine."
+In practice, the immateriality of digital text (and image) has served to erode
+the efficacy of copyright restrictions as a system of laws and regulations. The
+work of art in the age of digital reproduction lost its already tenuous hold on
+the material substratum.  Copy technologies from photocopiers, to desktop
+printers, to cheap hard drives, and peer-to-peer file sharing networks reduce
+the price of a duplicate down to near zero. The response from the film, game,
+music, and publishing industries has been to transpose mechanisms of copyright
+enforcement from legal down to the infrastructural levels of enforcement, as
+software and hardware: from Code to code. In the words of Charles Clark, the
+late British publisher and prominent copyright attorney, "the answer to the
+machine is in the machine [@clark_copyright_1996, 81-82]," by which he meant
+that copyright enforcement should be taken up by the International Standards
+Organization, the very body responsible for the OSI communication protocol
+stack), on the level of the device [@clark_copyright_1996, 84]. As an example
+of how that might work, Clark cites the Copyright in Transmitted Electronic
+Data Report, which suggests building "a tamper proof software module which acts
+rather like indestructible tachometers install on long-distance coaches and
+lorries, recording everything that happens to the copyrighted or commercially
+valuable material [...] The basic idea is that the valuable material is linked
+to a specific piece of software [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84]." This approach
+in general has simetime
 
 stipulates that "no person shall circumvent a technological measure that
 effectively controls access to a work protected under this title
@@ -3136,11 +3155,11 @@ everyday computation. On a given digital device, surface representation may
 change to tailor itself to fit the reader's mood, to match the environment, or
 to please some remote censor. In these conditions, surface reading would fail
 even at locating a stable object of study. Yet, surface readers from Sontag to
-Marcus are right in treating all claims to symptomatic reading with suspicion,
-as claims to power. The reader of depth will always claim hidden knowledge,
-creating an imbalance of interpretation. This does not excuse the imbalances
-that already exist between surface readers and writers of silicone. The answer
-to the machine remains in the machine.
+Best and Marcus are right in treating all claims to symptomatic reading with
+suspicion, as claims to power. The reader of depth will always claim hidden
+knowledge, creating an imbalance of interpretation. This does not excuse the
+imbalances that already exist between surface readers and writers of silicone.
+The answer to the machine remains in the machine.
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
