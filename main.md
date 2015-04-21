@@ -2812,10 +2812,10 @@ to formalize and secure relationships over computer networks
 [@szabo_formalizing_1997]."
 
 Both CITED and Smart Contracts were influential in developing a range of
-"solutions" in the late 1990s. "Method and System for Managing a Data Object so
-as to Comply with Predetermined Conditions for Usage" (US Patent #5,845,281
-issued in 1998 is instructive in this regard. Greg Benson and Gregory H. Urich,
-both of Sweden, write:
+"solutions" in the 1990s.[^ln3-smart] "Method and System for Managing a Data
+Object so as to Comply with Predetermined Conditions for Usage" (US5845281,
+issued in 1998) is instructive in this regard. Greg Benson and Gregory H.
+Urich, both of Sweden, write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
@@ -2824,7 +2824,25 @@ type of security depending on the value of particular objects. The rules
 defined by him shall govern the automated operations enabled by data services
 and networking. The owner may also sell composite objects with different rules
 governing each constituent ojects. Thus, it is necessary to be able to
-implement variable and extensible control.kkk
+implement variable and extensible control.
+
+The data object, in this case, stands for any media content from books to music
+and software. Rather then legislating rules for copying and distributing media,
+the inventors suggest the medium itself contain a control layer that would
+"comply with preditermined conditions of usage," in a way that is "universally
+adaptaed to the needs of both the owner and the user of the data object
+[@benson_method_1998, 2:55]."
+
+!["Concatendated control data and AVI file in memory." From
+@benson_method_1998.](images/avi-control.png)
+
+!["Concatendated and ecrypted control dta and AVI file in memory." From
+@benson_method_1998.](images/avi-control2.png)
+
+[^ln3-smart]: For examples see @kaliski_abuse-resistant_1995;
+@grundy_information_1994; @hasebe_licensee_2003.
+
+DRM chips.
 
 stipulates that "no person shall circumvent a technological measure that
 effectively controls access to a work protected under this title
