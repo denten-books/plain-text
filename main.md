@@ -2811,51 +2811,75 @@ combine protocols, user interfaces, and promises expressed via those interfaces
 to formalize and secure relationships over computer networks
 [@szabo_formalizing_1997]."
 
-Both CITED and Smart Contracts were influential in developing a range of
-"solutions" in the 1990s.[^ln3-smart] "Method and System for Managing a Data
-Object so as to Comply with Predetermined Conditions for Usage" (US5845281,
-issued in 1998) is instructive in this regard. Greg Benson and Gregory H.
-Urich, both of Sweden, write:
+Both smart contracts, CITED, and similar developments were influential in
+developing a range of "solutions" in the 1990s.[^ln3-smart] "Method and System
+for Managing a Data Object so as to Comply with Predetermined Conditions for
+Usage" (US5845281, issued in 1998) is instructive in this regard. Greg Benson
+and Gregory H. Urich, both of Sweden, write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
-define different rules of engagement for different types of users and ifferent
+define different rules of engagement for different types of users and different
 type of security depending on the value of particular objects. The rules
 defined by him shall govern the automated operations enabled by data services
 and networking. The owner may also sell composite objects with different rules
-governing each constituent ojects. Thus, it is necessary to be able to
+governing each constituent objects. Thus, it is necessary to be able to
 implement variable and extensible control.
 
-The data object, in this case, stands for any media content from books to music
-and software. Rather then legislating rules for copying and distributing media,
-the inventors suggest the medium itself contain a control layer that would
-"comply with preditermined conditions of usage," in a way that is "universally
-adaptaed to the needs of both the owner and the user of the data object
-[@benson_method_1998, 2:55]."
+The data object, in this case, stands for any media content from books, to
+music, video, and software. Rather then legislating rules for copying and
+distributing media, the inventors suggest the medium itself contain a control
+layer that would "comply with predetermined conditions of usage," in a way that
+is "universally adapted to the needs of both the owner and the user of the
+data object [@benson_method_1998, 2:55]."
 
-!["Concatendated control data and AVI file in memory." From
+!["Concatenated control data and AVI file in memory." From
 @benson_method_1998.](images/avi-control.png)
 
-!["Concatendated and ecrypted control dta and AVI file in memory." From
+!["Concatenated and encrypted control dta and AVI file in memory." From
 @benson_method_1998.](images/avi-control2.png)
+
+The associated figures (pictured here) show data and control codes
+"concatenated" into the same underlying data structure (in this case, AVI media
+container format). The problem, of course, is that to the extent control codes
+are legible to "the user," they are also open to "abuse and circumvention." For
+this reason, encryption plays a key part in the smart contracts system. Once
+intertwined, data and control are encrypted to prevent "unauthorized access."
+This brings us to the glaring problem at the very heart of the smart contract
+idea. In the Western legal tradition, contracts by their very nature must
+involve explicit consent. In the language of English common law, contracts
+involve promises as "manifestation of intention," which "adopt an external or
+objective standard for interpreting conduct
+[@american_law_institute_restatement_1973, §1-2.]" Smart contracts as defined
+in much of the patent literature on implementation, rely on encrypted, that is
+not human-legible, forms of agreement. Having no space to give a full treatment
+to the letter of contract law (not an easy task), I must at least insist that
+encrypted consent stands in opposition to its spirit. Even when the encrypted,
+internalized forms of control are accompanied by a written explanation (a
+"Terms of Service" document, for example) the user must trust that any such
+external, objective, and legible terms of service correspond to their internal,
+encrypted, and purposefully illegible implementations.
 
 [^ln3-smart]: For examples see @kaliski_abuse-resistant_1995;
 @grundy_information_1994; @hasebe_licensee_2003.
 
-DRM chips.
-
-stipulates that "no person shall circumvent a technological measure that
-effectively controls access to a work protected under this title
-(17.1201.a.1.A)." The letter of the law further specifies that to "circumvent a
-technological measure," in this case, means "to descramble a scrambled work, to
-decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate,
-or impair a technological measure, without the authority of the copyright owner
-(17.1201.a.3.A)." A technological measure that "effectively controls access" is
-further defined as "measure, [that] in the ordinary course of its operation,
-requires the application of information, or a process or a treatment, with the
-authority of the copyright owner, to gain access to the work (17.1201.a.3.B)."
-For a literary scholar this means that on a digital device, reading sometimes
-**must** limit itself to surface phenomenon. Where
+Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
+person shall circumvent a technological measure that effectively controls
+access to a work protected under this title (17.1201.a.1.A)." The letter of the
+law further specifies that to "circumvent a technological measure," in this
+case, means "to descramble a scrambled work, to decrypt an encrypted work, or
+otherwise to avoid, bypass, remove, deactivate, or impair a technological
+measure, without the authority of the copyright owner (17.1201.a.3.A)." A
+technological measure that "effectively controls access" is further defined as
+"measure, [that] in the ordinary course of its operation, requires the
+application of information, or a process or a treatment, with the authority of
+the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
+literary scholar this means that on a digital device, reading sometimes
+**must** limit itself to surface phenomenon. For a person more generally using
+a device under a smart contract (an electronic book, or a wearable intellect
+augmentation device) this means that even an attempt to discover the terms of
+the encrypted contract may carry with it a set a criminal (or otherwise)
+penalties.
 
 The DMCA is merely indicative of the digital condition, where legislation and
 governance of textual material is expressed formally (as software) or
