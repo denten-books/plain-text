@@ -2362,9 +2362,9 @@ distributing, but to the class of controlling mechanisms [@murray_setting_1905,
 556]."
 
 With this history in mind, I am interested in reformulating the metaphysical
-anxiety about literature and value formation in terms of text and control. If
-you are reading these words on a screen, my message has reached you through a
-long chain of transformations: from the mechanical action of my keyboard, to
+anxiety about literature and value formation in terms of content and control.
+If you are reading these words on a screen, my message has reached you through
+a long chain of transformations: from the mechanical action of my keyboard, to
 the arrangement of electrons on magnetic storage media, to the modulation of
 fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many,
 third parties were involved in that act of communication. And some part of that
@@ -2372,7 +2372,7 @@ message was used to control the electrical circuits of the device in your lap,
 in your hand, near to your eye, embedded, or embodied. Close reading limited to
 the parsing of content and representation risks missing the machinations of
 naked circuit control. It looks like you are reading a book, but this book
-changes its internals as it receives instructions to inform and to control. For
+changes its internals as it receives instructions to inform and to govern. For
 now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
@@ -2589,17 +2589,19 @@ convention. "What has the carpenter in view when he makes a shuttle?" asks
 Socrates. "Is it not something the nature of which is to weave?" Hermogenes
 agrees. "Well, then, if the shuttle breaks while he is making it, will he make
 another with his mind fixed on that which is broken, or on that form (*eidos*)
-with reference to which he was making the one which he broke? " Hermogenes
-agrees on the form.  "Then we should very properly call that the real shuttle
-(*estin kerkis*)?" The exact appearance (I am going to use that word now) of
-the shuttle does not matter for Socrates. There are different types of shuttles
-used to weave wool and linen, but all of them, in Jowett's translation, "must
-contain the form or ideal (*eidos*) of shuttle [@plato_dialogues_1937,
-389a-b]." Here then *eidos* is the universal idea of the ideal shuttle: exactly
-the opposite of *phantazomenōn* as ephemeral instantiation in the previous
-passage! Yet both *eidos* and *phantazomenōn* were reasonably translated into
-English as "form", indicating a fundamental overloading of the
-concept.[^ln11-plato]
+with reference to which he was making the one which he broke?" Hermogenes
+agrees the carpenter would fix his mind on the ideal form. In that case, we
+should properly call *that* the real shuttle (*estin kerkis*), Socrates
+concludes--his point being that the exact outward appearance of individual
+shuttles does not matter as much as the abstracted idea of shuttles. The
+abstraction endures as given instantiations break and shatter. There exist
+different types of shuttles, some used to weave wool and some for linen, but
+all of them, in Jowett's translation, "must contain the form or ideal (*eidos*)
+of shuttle [@plato_dialogues_1937, 389a-b]." In *Cratylus*, *eidos* stands the
+universal ideal of all shuttles: exactly the opposite of *phantazomenōn* as
+ephemeral instantiation in the previous passage! Yet both *eidos* and
+*phantazomenōn* were reasonably translated into English as "form", indicating a
+fundamental overloading of the concept.[^ln11-plato]
 
 [^ln11-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
@@ -2619,48 +2621,50 @@ which alone is true.  We translate the Greek word *eidos* by 'genus' or
 seized as a number of similar determinations collected by reflection from
 several individuals, to serve as a *mark* for the convenience of the
 understanding, then we have the Universal in quite an external [superficial]
-form [hegel_philosophy_1870, 250]."
+form [hegel_philosophy_1870, 250]." For Hegel, *eidos* means something like
+combination between internal form and external appearance. It is the universal
+in its contingent articulation.
 
 I am attracted by the idea of the "formal Universal," which Hegel is quick to
 dismiss as not quite the essence of the ideal. The formal universal seems to
 function for Hegel as an indeterminate mediator between the ideal and the
-material worlds. I think what he means is that the form of a chair, for
-example, is still of this world and a property of the chair. But the ideal of
-the chair is not so much a property of the chair, but the universal idea of
-chairs in general, which although not a property of any given chair, determines
-all real-world members of the genus. Hegel's "formal ideal" contains a bit of
-both "idea" and "physical property." It mediates. When we think of
-Shakespeare's *Hamlet*, for example, whatever is meant by "the form" of the
-play belongs neither to its material substance (pixel or paper) nor to the
-ideational content of the work. The form is something in-between the two
-worlds: it is in the shape of the letters, in the structure of the narrative,
-and in the prosody of the word. The form in that sense is indeterminate,
-because we do not quite know which of these elements belong to the content of
-the play and which are the contingent material artifacts of the printing
-process: the way the fonts look, for example or the way lines break on the
-page. Some matters of form matter to us as readers (line breaks), and others do
-not (font kerning).
+material worlds. The literal form of a chair, for example, is a property of a
+real chair. But the ideal of the chair does not belong to any chairs in
+particular. Instead, the ideal determines all real-world members of the genus
+(in Hegel's words). In this way, Hegel's "formal ideal" contains a bit of both
+"idea" and "physical property." It mediates. When we think of Shakespeare's
+*Hamlet*, for example, whatever is meant by "the form" of the play belongs
+neither to its material substance (pixel or paper) nor to the ideational
+content of the work. The form is something in-between the two worlds: it is in
+the shape of the letters, in the structure of the narrative, and in the prosody
+of the word. The form in that sense is indeterminate, because we do not quite
+know which of these elements belong to the content of the play and which are
+the contingent material artifacts of the printing process: the way the fonts
+look, for example or the way lines break on the page. Some matters of form
+matter to us as readers (line breaks), and others do not (font kerning).
 
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: matter, form, and content. The history of Western
-aesthetics can be so reformulated as an attempt to pull the work of art through
-one or several of these layers of analysis, as when Sontag entreats her reader
-to pay more attention to form. But the very words "work," "form," and "text"
-often tangle in the conceptual confusion. I am trying to understand, for
-example, what Roland Barthes means by the distinction between work and text in
-his seminal essay on textuality.[^ln11-barthes] For Barthes, the work has
-something to do with paper, bookshelves, and generally substance. By contrast,
-text is something "radically symbolic," something that moves across works, not
-bound to any specific matter. Barthes's "texts" sound like ideas, where his
-"works" sound like books. This usage stands in direct opposition to the
-tradition of textual criticism, where "source texts" constitute specific,
-materially-bound editions or manuscripts, and "works" generally denote the
-abstraction of an artistic unity: the idea of Shakespeare's *Hamlet*, for
-example, in opposition to variance found in the multiplicity of individual
-*Hamlets*.
+aesthetics can be seen as pulling the work of art through one or several of
+these layers of analysis: as when Susan Sontag entreats her reader to pay more
+attention to form, or when Johanna Drucker ask us to consider the materiality
+of text, or when Sharon Marcus writes about reading for "what lies in plain
+sight". But the very words "matter," "form," and "content" often tangle in the
+conceptual confusion of texts that resist being pinned down to any single
+stratum of interpretation. I am trying to understand, for example, what Roland
+Barthes means by the distinction between "work" and "text" in his seminal essay
+on textuality.[^ln3-barthes] For Barthes, the work has something to do with
+paper, bookshelves, and generally substance. By contrast, text is something
+"radically symbolic," something that moves across works, not bound to any
+specific matter. Barthes's "texts" sound like ideas, where his "works" sound
+like books. This usage stands in direct opposition to the tradition of textual
+criticism, where "source texts" constitute specific, materially-bound editions
+or manuscripts, and "works" generally denote the abstraction of an artistic
+unity: the idea of Shakespeare's *Hamlet*, for example, in opposition to
+variance found in the multiplicity of individual *Hamlets*.
 
-Where Barthes wants to liberate text as symbol from the embodied work, scholars
-like Johanna Drucker make a strong case for returning the text to its
+Whereas Barthes wants to liberate text as symbol from the embodied work,
+scholars like Johanna Drucker make a strong case for returning the text to its
 underlying material contexts. Much of her work reminds the reader that ideas
 cannot exist outside of their material form, that paper and typography are the
 formal medium for the production of meaning in language, and that even
@@ -2668,26 +2672,26 @@ electronic, digital text formats have their material embodiment
 [@drucker_digital_2001; @drucker_graphical_2006; @drucker_letterpress_2008;
 @drucker_speclab_2009; @drucker_reading_2013]. I am sympathetic to the message,
 but only in so far as it adds a dimension of materiality to a properly
-three-dimensional, thick description of text. Simply put, I am greedy and want
-to have the whole layered cake.
+three-dimensional, multi-layered, thick description of text.
 
 A clarification of the terms allows us to perceive the history of textual
-technology as one of gradual peeling apart of the layers of matter, form, and
+technology as one of the gradual stratification between matter, form, and
 content. Textuality comes unglued. This allographic property of text is worthy
 of critical attention and preservation. I am not only against the theoretical
-move to flatten it back out, but I think of such attempts as practically,
-politically imprudent. The easy stratification of electronic text represents a
+move to flatten it back out, but I think of such attempts as practically and
+politically imprudent. The ephemerality of an electronic text represents the
 hard-won struggle on the part of writers, literary scholars, and software
 engineers to liberate ideas from their material and formal contexts. As an
 extreme example, imagine discourse that could never be separated from a
-specific medium. Communication would be difficult, if not impossible! Moreover,
-deeply-seated values in favor of free speech and unencumbered exchange of
-information depend on a loose coupling between ontological categories. Our
-abilities to remix, translate, re-mediate, recycle, transmit, transform,
-transcend the ideas of others, relies on their ephemeral nature. Ideas
-deposited in ossified matter, in fixed shapes, do not travel well. And there
-are plenty of entities that would like us to return to a time of singular
-thought, etched in monolithic tablets, whether made of silicone or of stone.
+specific medium. Communication would be difficult, if not impossible!
+Moreover, deeply-seated values in favor of free speech and unencumbered
+exchange of information depend on a loose coupling between ontological
+categories. Our abilities to remix, translate, re-mediate, recycle, transmit,
+transform, and transcend the ideas of others relies on their ephemeral nature.
+Ideas deposited in ossified matter, in fixed shapes, do not travel well. And
+there are plenty of "actors" that would like for culture to return to the time
+of singular thought, etched in monolithic tablets, whether made of silicone or
+of stone.
 
 The loose coupling of content to its underlying strata of form and matter also
 comes at a cost. As surface phenomenon, text hides the flows of power and
@@ -2711,6 +2715,15 @@ biological reverse engineering.
 [^ln3-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
+
+[^ln3-barthes]: "The work is a fragment of substance," he writes. The work is
+"moderately symbolic" where text is "radically symbolic." The work "occupies
+space of books," where the text is "a process of demonstration," "experienced
+only in an activity of production." He writes also that "the Text cannot stop
+(for example, on a library shelf); its constitutive movement is that of cutting
+across (in particular, it can cut across the work, several works)
+[@barthes_work_1978, 156-7]."
+
 
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -3170,7 +3183,7 @@ vector. The problem of annotation. What are we annotating? Annotation solutions
 force a platform. Is Hamlet a platonic object? A family of related objects?
 Standard English editions in Europe.
 
-Nature of knowledge. Find the actual percentage of recieved knowledge. Hobbes
+Nature of knowledge. Find the actual percentage of received knowledge. Hobbes
 on secret knowledge (p43-44!)
 
 Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
@@ -4652,14 +4665,6 @@ calculation of missile trajectories, I would like add a lineage of allographic
 reading and writing devices that help decouple thought from its rigid material
 contexts, bringing forth new affordances, cognitive regimes, and hitherto
 unavailable political structures.
-
-[^ln11-barthes]: "The work is a fragment of substance," he writes. The work is
-"moderately symbolic" where text is "radically symbolic." The work "occupies
-space of books," where the text is "a process of demonstration," "experienced
-only in an activity of production." He writes also that "the Text cannot stop
-(for example, on a library shelf); its constitutive movement is that of cutting
-across (in particular, it can cut across the work, several works)
-[@barthes_work_1978, 156-7]."
 
 [^ln11-drucker]: See for example: "The notion of the 'immaterial' text has
 become fixed in popular and even critical imagination. [...] Though digital
