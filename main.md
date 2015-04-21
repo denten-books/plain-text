@@ -2768,13 +2768,13 @@ as plagiarism).
 
 The immateriality of digital text (and image) has placed these copyright
 restrictions under pressure. The work of art in the age of digital reproduction
-has lost its tenuous hold on the material substratum. Technologies from cheap
-photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer file
-sharing networks have reduced the price of a copy down to near zero. The
+has lost its already tenuous hold on the material substratum. Technologies from
+cheap photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer
+file sharing networks have reduced the price of a copy down to near zero. The
 response from the film, game, music, and publishing industry has been to push
-rights management down to the infrastructural level. As Charles Clark (the
-British publisher and authority on copyright) famously put it, "the answer to
-the machine is in the machine."
+rights management down to the infrastructural level, as software and hardware.
+As Charles Clark (the late British publisher and prominent copyright attorney)
+famously put it, "the answer to the machine is in the machine."
 
 stipulates that "no person shall circumvent a technological measure that
 effectively controls access to a work protected under this title
@@ -2787,12 +2787,14 @@ further defined as "measure, [that] in the ordinary course of its operation,
 requires the application of information, or a process or a treatment, with the
 authority of the copyright owner, to gain access to the work (17.1201.a.3.B)."
 For a literary scholar this means that on a digital device, reading sometimes
-**must** limit itself to surface phenomenon. Where 
+**must** limit itself to surface phenomenon. Where
+
+The DMCA is merely indicative of the digital condition, where legislation and
+governance of textual material is expressed formally (as software) or
+materially (as hardware). The flows of power and control are obscured by
+surface representations at the application layer 
 
 [ln3-root]: @stoltz_is_2013
-
-The flows of power and control are obscured by surface representations at the
-application layer.
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
@@ -2916,7 +2918,7 @@ slate.
 [^ln2-magnet]: See for example @ohmori_memory_2015 and
 @stefanita_magnetism_2012, 1-69.
 
-#### C: Screen, 1968-today.
+#### C: Screen, 1968-today
 
 By decoupling input and output, magnetic storage media affords the injection of
 time and space, in arbitrary intervals, between the process of inscription and
@@ -3100,8 +3102,8 @@ kill people and destroy at a distance. The book is a robot par excellence
 Sigmund Freud and one of the pioneers in sociology and group therapy.
 
 Zoomatics --- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separted from him, can fucntion
-independently." "Agression coming from robots." [@moreno_who_1953, 237] The
+peculiar products of his mind, which when separated from him, can function
+independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
 first is sociometry. The second is "creative revolution." Robots = cultural
 conserves and machines. 238. "A book, a film, an atomic bomb, they do not
 perish in the human sense, the same capacity is always there, they can be
@@ -3118,6 +3120,18 @@ at a distance.
 
 Here is my close reading of the venerable *Erewhon*, by Samuel Butler: if you
 open this file, it will ruin your reading device.
+
+Can literary studies survive by surface reading alone? Only if readers restrict
+their notions of literature to materials circulating before the advent of
+everyday computation. On a given digital device, surface representation may
+change to tailor itself to fit the reader's mood, to match the environment, or
+to please some remote censor. In these conditions, surface reading would fail
+even at locating a stable object of study. Yet, surface readers from Sontag to
+Marcus are right in treating all claims to symptomatic reading with suspicion,
+as claims to power. The reader of depth will always claim hidden knowledge,
+creating an imbalance of interpretation. This does not excuse the imbalances
+that already exist between surface readers and writers of silicone. The answer
+to the machine remains in the machine.
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
@@ -5077,6 +5091,27 @@ http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02
 
 ## Chapter 7: Engineering for Dissent
 
+### 7.0 Abstract
+
+In this final chapter, I argue for the recovery and the preservation of plain
+textuality in the day-to-day practice of modern computing. Returning to the
+history of the `.txt` file format, I find that early documents from the
+International Telecommunication Union (and later international bodies governing
+the exchange of information across state borders) display unease with
+encrypted, non-human-readable formats of information exchange. A theoretical
+treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
+and Golumbia concludes with a discussion about the subject's role in actively
+shaping material conditions of media being. As documents reflecting
+externalized states of consciousness become increasingly more transparent, they
+are susceptible to increased surveillance and control. Plain text allows
+political subjects to decouple externalized mental states from mechanisms of
+governance. (In other words, to decide actively when to opt in and when to opt
+out). This affordance is not, however, a deterministic property of literature,
+the Internet, or any other information exchange system. Rather, the design of
+complex systems must itself become critical practice, which, in complement to
+critical theory, can actively engineer for textual mechanisms that make
+individual dissent possible.
+
 ### 3.4 Algorithm as Fetish
 
 Wendy Hui Kyong Chun
@@ -5238,27 +5273,6 @@ ideology, but as the ability to physically alter the material conditions of
 literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
 content and code as control.
-### Abstract
-
-In this final chapter, I argue for the recovery and the preservation of plain
-textuality in the day-to-day practice of modern computing. Returning to the
-history of the `.txt` file format, I find that early documents from the
-International Telecommunication Union (and later international bodies governing
-the exchange of information across state borders) display unease with
-encrypted, non-human-readable formats of information exchange. A theoretical
-treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
-Golumbia concludes in a discussion about the subject's role in actively shaping
-the material conditions of media being. As documents reflecting externalized
-states of consciousness become increasingly more transparent, they are
-susceptible to increased surveillance and control (through encryption, by
-example). Plain text allows political subjects to decouple externalized mental
-states from mechanisms of governance.  (In other words, to actively decide when
-to opt in and when to opt out). This affordance is not however a deterministic
-property of literature, the internet, or any other information exchange system.
-Rather, the design of complex systems must itself become critical practice,
-which, in complement to critical theory, can actively engineer for textual
-mechanisms that make individual dissent possible.
-
 ### 7.1 ITU
 
 Related to secrecy.  Plain language and Secret language (telegraph regulations
