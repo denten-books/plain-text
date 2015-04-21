@@ -2788,28 +2788,28 @@ In practice, the immateriality of digital text (and image) has served to erode
 the efficacy of copyright restrictions as a system of laws and regulations. The
 work of art in the age of digital reproduction lost its already tenuous hold on
 the material substratum. Copy technologies from photocopiers, to desktop
-printers, to cheap hard drives, and peer-to-peer file sharing networks reduce
-the price of a duplicate down to near zero. The response from the film, game,
-music, and publishing industries has been to transpose mechanisms of copyright
-enforcement from legal down to the infrastructural levels of enforcement, as
-software and hardware: from Code to code. In the words of Charles Clark, the
-late British publisher and prominent copyright attorney, "the answer to the
-machine is in the machine [@clark_copyright_1996, 81-82]," by which he meant
-that copyright enforcement should be taken up by the International Standards
-Organization, the very body responsible for the OSI communication protocol
-stack), on the level of the device [@clark_copyright_1996, 84]. As an example
-of how that might work, Clark cites the Copyright in Transmitted Electronic
-Data Report (CITED), which suggests building "a tamper proof software module which acts
-rather like indestructible tachometers install on long-distance coaches and
-lorries, recording everything that happens to the copyrighted or commercially
-valuable material [...] The basic idea is that the valuable material is linked
-to a specific piece of software [@consortium_c.i.t.e.d._1994;
-@clark_copyright_1996, 83-84]." This approach in general has sometimes been
-called a "smart contract." In his seminal article on "Formalizing and Securing
-Relationships in Public Networks," Nick Szabo explains that "smart contracts
-combine protocols, user interfaces, and promises expressed via those interfaces
-to formalize and secure relationships over computer networks
-[@szabo_formalizing_1997]."
+printers, to inexpensive magnetic storage and peer-to-peer file sharing
+networks reduce the price of a duplicate down to near zero. The response from
+the film, game, music, and publishing industries has been to transpose
+mechanisms of copyright enforcement from legal down to the infrastructural
+levels of enforcement, as software and hardware: from Code to code. In the
+words of Charles Clark, the late British publisher and prominent copyright
+attorney, "the answer to the machine is in the machine [@clark_copyright_1996,
+81-82]," by which he meant that copyright enforcement should be taken up by the
+International Standards Organization, the very body responsible for the OSI
+communication protocol stack), on the level of the device
+[@clark_copyright_1996, 84]. As an example of how that might work, Clark cites
+the Copyright in Transmitted Electronic Data Report (CITED), which suggests
+building "a tamper proof software module which acts rather like indestructible
+tachometers install on long-distance coaches and lorries, recording everything
+that happens to the copyrighted or commercially valuable material [...] The
+basic idea is that the valuable material is linked to a specific piece of
+software [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84]." This
+approach in general has sometimes been called a "smart contract." In his
+seminal article on "Formalizing and Securing Relationships in Public Networks,"
+Nick Szabo explains that "smart contracts combine protocols, user interfaces,
+and promises expressed via those interfaces to formalize and secure
+relationships over computer networks [@szabo_formalizing_1997]."
 
 Both smart contracts, CITED, and similar developments were influential in
 developing a range of "solutions" in the 1990s.[^ln3-smart] "Method and System
@@ -2874,17 +2874,32 @@ technological measure that "effectively controls access" is further defined as
 "measure, [that] in the ordinary course of its operation, requires the
 application of information, or a process or a treatment, with the authority of
 the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
-literary scholar this means that on a digital device, reading sometimes
-**must** limit itself to surface phenomenon. For a person more generally using
-a device under a smart contract (an electronic book, or a wearable intellect
+literary scholar this means that on a digital device, reading sometimes *must*
+limit itself to surface phenomenon. For a person more generally using a device
+under a smart contract (an electronic book, or a wearable intellect
 augmentation device) this means that even an attempt to discover the terms of
 the encrypted contract may carry with it a set a criminal (or otherwise)
 penalties.
 
-The DMCA is merely indicative of the digital condition, where legislation and
-governance of textual material is expressed formally (as software) or
-materially (as hardware). The flows of power and control are obscured by
-surface representations at the application layer 
+The impact of DMCA and smart contracts on the practice of reading and on
+literary analysis is potentially immense. The electronic book is not a book at
+all, but a "data object," in which the modest copyright symbol gives way to a
+"control layer," which dynamically adapts "to the needs of both the owner and
+the user." These adaptations could of course take a benign form, of the kind
+suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
+to a "literature equalizer," empowering readers to "tune" any given text to
+their liking. Don't really like intensifiers? Just turn the "adverb knob" down!
+I hold on to the possibility of building such a device with Chaouli. In the
+meantime, existing electronic book software and hardware devices adapt
+themselves to the reader in far more blunt ways. Some prevent simple copy and
+paste actions. Others can be used to censor and surveil.
+
+Smart contracts and DMCA are merely indicative of digital text, which offers
+only the illusion of flat textuality. Where a literary scholar could hope to
+gleam the machinations of ideology from surface representation in print, the
+digital device obscures literal flows of power and control. Isomorphic
+application design provides a measure of similarity between page and screen,
+obscuring material divergences beneath.
 
 [ln3-root]: @stoltz_is_2013
 
