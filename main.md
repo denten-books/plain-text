@@ -2782,10 +2782,12 @@ works," "to distribute copies," and "to perform and to display publicly"
 conduct, embodied in practices of quotation, citation, and attribution (or lack
 thereof, as plagiarism).
 
+### 3.3 CITED
+
 In practice, the immateriality of digital text (and image) has served to erode
 the efficacy of copyright restrictions as a system of laws and regulations. The
 work of art in the age of digital reproduction lost its already tenuous hold on
-the material substratum.  Copy technologies from photocopiers, to desktop
+the material substratum. Copy technologies from photocopiers, to desktop
 printers, to cheap hard drives, and peer-to-peer file sharing networks reduce
 the price of a duplicate down to near zero. The response from the film, game,
 music, and publishing industries has been to transpose mechanisms of copyright
@@ -2797,12 +2799,32 @@ that copyright enforcement should be taken up by the International Standards
 Organization, the very body responsible for the OSI communication protocol
 stack), on the level of the device [@clark_copyright_1996, 84]. As an example
 of how that might work, Clark cites the Copyright in Transmitted Electronic
-Data Report, which suggests building "a tamper proof software module which acts
+Data Report (CITED), which suggests building "a tamper proof software module which acts
 rather like indestructible tachometers install on long-distance coaches and
 lorries, recording everything that happens to the copyrighted or commercially
 valuable material [...] The basic idea is that the valuable material is linked
-to a specific piece of software [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84]." This approach
-in general has simetime
+to a specific piece of software [@consortium_c.i.t.e.d._1994;
+@clark_copyright_1996, 83-84]." This approach in general has sometimes been
+called a "smart contract." In his seminal article on "Formalizing and Securing
+Relationships in Public Networks," Nick Szabo explains that "smart contracts
+combine protocols, user interfaces, and promises expressed via those interfaces
+to formalize and secure relationships over computer networks
+[@szabo_formalizing_1997]."
+
+Both CITED and Smart Contracts were influential in developing a range of
+"solutions" in the late 1990s. "Method and System for Managing a Data Object so
+as to Comply with Predetermined Conditions for Usage" (US Patent #5,845,281
+issued in 1998 is instructive in this regard. Greg Benson and Gregory H. Urich,
+both of Sweden, write:
+
+> The data object owner may want to have permanent secure control over how,
+when, where, and by whom his property is used. Furthermore, he may want to
+define different rules of engagement for different types of users and ifferent
+type of security depending on the value of particular objects. The rules
+defined by him shall govern the automated operations enabled by data services
+and networking. The owner may also sell composite objects with different rules
+governing each constituent ojects. Thus, it is necessary to be able to
+implement variable and extensible control.kkk
 
 stipulates that "no person shall circumvent a technological measure that
 effectively controls access to a work protected under this title
