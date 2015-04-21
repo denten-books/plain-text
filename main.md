@@ -3100,8 +3100,8 @@ kill people and destroy at a distance. The book is a robot par excellence
 Sigmund Freud and one of the pioneers in sociology and group therapy.
 
 Zoomatics --- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separted from him, can fucntion
-independently." "Agression coming from robots." [@moreno_who_1953, 237] The
+peculiar products of his mind, which when separated from him, can function
+independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
 first is sociometry. The second is "creative revolution." Robots = cultural
 conserves and machines. 238. "A book, a film, an atomic bomb, they do not
 perish in the human sense, the same capacity is always there, they can be
@@ -3118,6 +3118,18 @@ at a distance.
 
 Here is my close reading of the venerable *Erewhon*, by Samuel Butler: if you
 open this file, it will ruin your reading device.
+
+Can literary studies survive by surface reading alone? Only if readers restrict
+their notions of literature to materials circulating before the advent of
+everyday computation. On a given digital device, surface representation may
+change to tailor itself to fit the reader's mood, to match the environment, or
+to please some remote censor. In these conditions, surface reading would fail
+even at locating a stable object of study. Yet, surface readers from Sontag to
+Marcus are right in treating all claims to symptomatic reading with suspicion,
+as claims to power. The reader of depth will always claim hidden knowledge,
+creating an imbalance of interpretation. This does not excuse the imbalances
+that already exist between surface readers and writers of silicone. The answer
+to the machine remains in the machine.
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
