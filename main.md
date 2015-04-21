@@ -2899,9 +2899,11 @@ only the illusion of flat textuality. Where a literary scholar could hope to
 gleam the machinations of ideology from surface representation in print, the
 digital device obscures literal flows of power and control. Isomorphic
 application design provides a measure of similarity between page and screen,
-obscuring material divergences beneath.
+obscuring material divergence beneath.
 
 [ln3-root]: @stoltz_is_2013
+
+### 3.4 "A Peek at What Is to come"
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
@@ -3115,32 +3117,103 @@ enough, in the Results and Discussion section an anonymous user write:
 
 ```
 1B4 "I find that I can express myself better, if I can
-make all te little changes and experiments with wording
+make all the little changes and experiments with wording
 and structure as they occur to me." [Here the user
 experiments a little with using structural decomposition
-of a complex sentece.]
+of a complex sentence.]
 
 ```
+
 A deconstruction indeed follows, as the author begins to deviate from the
-conventions of the engineering discourse. The numbered passsages, and
-unexpected enjambment heightens the stuccoto quality of the prose, that at
-times reaches towards the lyric:
+conventions of engineering discourse. The numbered passages, and unexpected
+enjambment heightens the staccato quality of the prose, that at times reaches
+towards the lyric:
 
 ```
-Quote here.
+1B4A "I find that I write faster and more freely,
+
+    1B4A1 "pouring thoughts and trial words on the
+    screen with much less inhibition,
+
+    1B4A2 "finding it easy to repair mistakes or wrong
+    choices
+
+        1B4A22 "so while capturing a thought I don't
+        have to inhibit the outpouring of thought and
+        action to do it with particular correctness,
+
+    1B4A3 "fining that several trials at the right
+    wording can be done very quickly
+
+        1B4A3A "so I can experiment, easily take a look
+        and see how a new version strikes me--and often 
+        the first unworried attempt at a way to express
+        something turn out to be satisfactory, or at
+        least to require only minor touch up.
 ```
 
 Strange. Engelbart is the author of the report. But perhaps the user was
 invited to edit? Who is the author here.
 
+```
+1B4A4 "Fining that  where I might otherwise 
+hesitate in search of the right word, I now pour out
+a succession of potentially appropriate words,
+leaving them all the while the rest of the
+statement takes shape. Then I select from among
+them, or replace them all, or else merely change the
+list a it and wait for a later movement of th 
+spirit.
 
+1B4B "I find that,
+
+    1B4B1 "being much more aware of
+
+        1B4B1A "the relationships among the phrases of a
+        sentence,
+
+        1B4B1B "among the statements of a list,
+
+        1B4B1C "and among the various level and members
+        of a branch,
+
+    1B4B2 "being able
+
+        1B4B2A "to view them in different ways,
+
+        1B4B2B "to rearrange them easily,
+
+        1B4B2C "to experiment with certain special
+        portrayals,
+
+            1B4B2C1 "not available easily in unstructured
+            data
+
+            1B4B2C2 "or usable without the CRT display,
+
+    1B4B3 "and being aware that
+
+        1B4B3A "I can (and am seeking to) develop still
+        further special conventions and computer aids
+
+        1B4B3B "Ato make even more of this available and
+        easy,
+
+    1B4B4 "all tend to increase
+
+        1B4B4A "my interest and experimentation
+
+        1B4B4A "and my conviction that his is but a
+        peek at what is to come soon.
+
+```
 
 Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
+### 3.5 Spooky Action at a Distance
+
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
-
-
 
 IBM Format
 
@@ -3199,7 +3272,7 @@ dostorted by Commentators and beclouded by Illustrators" (p64)
 "One plain text is worth a thousand"
 
 Signal Book, United States Army: 1916
-### 3.3 Spooky Action at a Distance
+
 
 "Robots have also the attribute in common of being able to affect human beings
 or other targets 'at a distance,' a book, a radio or a television sender can
