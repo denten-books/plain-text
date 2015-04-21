@@ -2768,13 +2768,13 @@ as plagiarism).
 
 The immateriality of digital text (and image) has placed these copyright
 restrictions under pressure. The work of art in the age of digital reproduction
-has lost its tenuous hold on the material substratum. Technologies from cheap
-photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer file
-sharing networks have reduced the price of a copy down to near zero. The
+has lost its already tenuous hold on the material substratum. Technologies from
+cheap photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer
+file sharing networks have reduced the price of a copy down to near zero. The
 response from the film, game, music, and publishing industry has been to push
-rights management down to the infrastructural level. As Charles Clark (the
-British publisher and authority on copyright) famously put it, "the answer to
-the machine is in the machine."
+rights management down to the infrastructural level, as software and hardware.
+As Charles Clark (the late British publisher and prominent copyright attorney)
+famously put it, "the answer to the machine is in the machine."
 
 stipulates that "no person shall circumvent a technological measure that
 effectively controls access to a work protected under this title
@@ -2787,12 +2787,14 @@ further defined as "measure, [that] in the ordinary course of its operation,
 requires the application of information, or a process or a treatment, with the
 authority of the copyright owner, to gain access to the work (17.1201.a.3.B)."
 For a literary scholar this means that on a digital device, reading sometimes
-**must** limit itself to surface phenomenon. Where 
+**must** limit itself to surface phenomenon. Where
+
+The DMCA is merely indicative of the digital condition, where legislation and
+governance of textual material is expressed formally (as software) or
+materially (as hardware). The flows of power and control are obscured by
+surface representations at the application layer 
 
 [ln3-root]: @stoltz_is_2013
-
-The flows of power and control are obscured by surface representations at the
-application layer.
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
@@ -2916,7 +2918,7 @@ slate.
 [^ln2-magnet]: See for example @ohmori_memory_2015 and
 @stefanita_magnetism_2012, 1-69.
 
-#### C: Screen, 1968-today.
+#### C: Screen, 1968-today
 
 By decoupling input and output, magnetic storage media affords the injection of
 time and space, in arbitrary intervals, between the process of inscription and
