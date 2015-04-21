@@ -1354,7 +1354,7 @@ fewer perforations to common English letters (@murray_setting_1905, 567).
 
 [^ln1-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
-current [@ITU1932, 36]."
+current [@itu_telegraph_1932, 36]."
 
 [^ln1-kittler]: This along with the ominous "laying of cables" that concludes
 Friedrich Kittler's *Gramophone, Film, Typewriter*.
@@ -2542,7 +2542,7 @@ or hearing – have now altered, yet it is still the same wax."
 
 [^ln11-marinetti]: "Il nostro amore crescente per la materia, la volontà di
 penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
-motori, ci spingono all'uso dell'onomatopea." [@from Lo splendore geometrico a
+motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
 meccanico e la sensibilità numerica]
 
 [^ln11-echenbaum]: "Что касается 'формы', то формалистам было важно только
@@ -2614,25 +2614,27 @@ which alone is true.  We translate the Greek word *eidos* by 'genus' or
 seized as a number of similar determinations collected by reflection from
 several individuals, to serve as a *mark* for the convenience of the
 understanding, then we have the Universal in quite an external [superficial]
-form [hegel_philosophy_1870, 250]." I am attracted by the idea of the "formal
-Universal," which Hegel is quick to dismiss as not quite the essence of the
-ideal. The formal universal seems to function for Hegel as an indeterminate
-mediator between the ideal and the material worlds. I think what he means is
-that the form of a chair, for example, is still of this world and a property of
-the chair. But the ideal of the chair is not so much a property of the chair,
-but the universal idea of chairs in general, which although not a property of
-any given chair, determines all real-world members of the genus. Hegel's
-"formal ideal" contains a bit of both "idea" and "physical property." It
-mediates. When we think of Shakespeare's *Hamlet*, for example, whatever is
-meant by "the form" of the play belongs neither to its material substance
-(pixel or paper) nor to the ideational content of the work. The form is
-something in-between the two worlds: it is in the shape of the letters, in the
-structure of the narrative, and in the prosody of the word. The form in that
-sense is indeterminate, because we do not quite know which of these elements
-belong to the content of the play and which are the contingent material
-artifacts of the printing process: the way the fonts look, for example or the
-way lines break on the page. Some matters of form matter to us as readers (line
-breaks), and others do not (font kerning).
+form [hegel_philosophy_1870, 250]."
+
+I am attracted by the idea of the "formal Universal," which Hegel is quick to
+dismiss as not quite the essence of the ideal. The formal universal seems to
+function for Hegel as an indeterminate mediator between the ideal and the
+material worlds. I think what he means is that the form of a chair, for
+example, is still of this world and a property of the chair. But the ideal of
+the chair is not so much a property of the chair, but the universal idea of
+chairs in general, which although not a property of any given chair, determines
+all real-world members of the genus. Hegel's "formal ideal" contains a bit of
+both "idea" and "physical property." It mediates. When we think of
+Shakespeare's *Hamlet*, for example, whatever is meant by "the form" of the
+play belongs neither to its material substance (pixel or paper) nor to the
+ideational content of the work. The form is something in-between the two
+worlds: it is in the shape of the letters, in the structure of the narrative,
+and in the prosody of the word. The form in that sense is indeterminate,
+because we do not quite know which of these elements belong to the content of
+the play and which are the contingent material artifacts of the printing
+process: the way the fonts look, for example or the way lines break on the
+page. Some matters of form matter to us as readers (line breaks), and others do
+not (font kerning).
 
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: matter, form, and content. The history of Western
@@ -2738,26 +2740,47 @@ internalizes dozens if not hundreds of protocols that enable the system to
 function seamlessly as a whole (in the way, for example, your machine can at
 one moment connect to one wireless access point, and at another moment be
 tethered to an Ethernet cable with minimal loss of connectivity from the user's
-point of view). Yet, these protocols are also densly centralized. They are, for
+point of view). Yet, these protocols are also densely centralized. They are, for
 example, legislated by an international governing body (the International
 Organization for Standardization in case of OSI and the Internet Engineering
 Task Force in the case of TCP/IP), subject to the usual political pitfalls of
 pan-global consortia. Whatever the case may be, the subject exists outside of
 that system, on the periphery of the network.
 
-The application layer stops at the subject, at times excluding access
-expclicitly, as is arguably the case with U.S. Code, Title 17, Chapter 12,
-§1201 ("Circumvention of copyright protection systems", passed as part of the
-"Digital Millennium Copyright Act" in 1998), which stipulates that "no person
-shall circumvent a technological measure that effectively controls access to a
-work protected under this title (17.1201.a.1.A)." The letter of the law further
-specified that to "circumvent a technological measure," in this case, means "to
-descramble a scrambled work, to decrypt an encrypted work, or otherwise to
-avoid, bypass, remove, deactivate, or impair a technological measure, without
-the authority of the copyright owner (17.1201.a.3.A)." Access control is
-further defined "measure, in the ordinary course of its operation, requires the
-application of information, or a process or a treatment, with the authority of
-the copyright owner, to gain access to the work (17.1201.a.3.B)."
+The application layer stops at the subject. Access to the underlying layers of
+device operation (and consequently analysis) can sometimes be "merely" obscured
+and sometimes made illicit outright, as is arguably the case with U.S. Code,
+Title 17, Chapter 12, §1201, titles "Circumvention of copyright protection
+systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
+1998. A literary scholar may be familiar with some provisions of American
+copyright law (U.S.  Code, Title 17) governing text as surface representation.
+These extend "exclusive rights" to "copyright owners" of "literary works." The
+rights include the ability to "reproduce," "to prepare derivative works," "to
+distribute copies," and "to perform and to display publicly" (17.1.106).
+Surface representation is further subject to professional rules of conduct,
+embodied in practices of quotation, citation, and attribution (or lack thereof,
+as plagiarism).
+
+The immateriality of digital text (and image) has placed these copyright
+restrictions under pressure. The work of art in the age of digital reproduction
+has lost its tenuous hold on the material substratum. Technologies from cheap
+photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer file
+sharing networks have reduced the price of a copy down to near zero. The
+response from the film, game, music, and publishing industry has been to push
+rights management down to the infrastructural level. As Charles Clark
+
+stipulates that "no person shall circumvent a technological measure that
+effectively controls access to a work protected under this title
+(17.1201.a.1.A)." The letter of the law further specifies that to "circumvent a
+technological measure," in this case, means "to descramble a scrambled work, to
+decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate,
+or impair a technological measure, without the authority of the copyright owner
+(17.1201.a.3.A)." A technological measure that "effectively controls access" is
+further defined as "measure, [that] in the ordinary course of its operation,
+requires the application of information, or a process or a treatment, with the
+authority of the copyright owner, to gain access to the work (17.1201.a.3.B)."
+For a literary scholar this means that on a digital device, reading sometimes
+**must** limit itself to surface phenomenon. Where 
 
 [ln3-root]: @stoltz_is_2013
 
@@ -2937,7 +2960,7 @@ a FOR. Engelbart writes, "One of the potentially most promising means for
 delivering and receiving information to and from digital computers involves the
 display of computer outputs as visual representation on a cathode ray tube and
 the alternation of the display by human operator in order to deliver
-instructions to the computer [@engelbart_x-y_1970i]."
+instructions to the computer [@engelbart_x-y_1970]."
 
 The CRT closes the circuit between human and machine, but at a cost. Where in
 short-lived screen-less word processors (like the IBM MT/ST) the operator would
@@ -3010,11 +3033,12 @@ Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
 The ITA formats, like the Baudot, represented latin characthers in a system of
 fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
 "1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@ITA1932, 34]. Because the devices are not synchronized, the
-pause between each transmitted character can vary in length. For this reason
-ITA-2 includes two extra bits for indicating "start" and stop" elements. The
-letter "A" and a hyphen in ITA-2 would be encoded as `0110001`, where ones and
-zeros represent the absence and the presence of current[@ITU1932, 36].
+code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
+synchronized, the pause between each transmitted character can vary in length.
+For this reason ITA-2 includes two extra bits for indicating "start" and stop"
+elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
+where ones and zeros represent the absence and the presence of
+current[@itu_telegraph_1932, 36].
 
 By the 1960, multiple competing character encodings existed in the United
 States and globally.
@@ -3026,7 +3050,7 @@ Further separation. On benefits of computer-aided document preparation. "The
 style or format of the document can be decoupled from its content; the only
 format control information that need be embedded is that describing textual
 categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan1078, 2116]
+the like [@kernighan_unix_1978, 2116]
 
 Plain and fancy Text Unix system. What you see is not what you get. What is
 plain text. Unix ideas of plain text. ASCII. From form and content to content,
@@ -5234,10 +5258,10 @@ Related to secrecy.  Plain language and Secret language (telegraph regulations
 1932).  "Plain language is that which presents an intelligible meaning in one
 or more of the languages authorized for international telegraph correspondence,
 each word and each expression having the meaning normally assigned to it in the
-language to which it belongs" [@ITU1932, 12]. "Code language is composed either
+language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is composed either
 of artificial words, or of real words not used in the meaning normally assigned
 to them in the language to which they belong and consequently not forming
-intelligeble phrases" [@ITU1932, 12].
+intelligeble phrases" [@itu_telegraph_1932, 12].
 
 Encrypted literature. Revealment and dissimulation. Notions of
 textuality as embroiled in contemporary ideas of privacy, secrecy, and
