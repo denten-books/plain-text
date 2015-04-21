@@ -2693,24 +2693,20 @@ there are plenty of "actors" that would like for culture to return to the time
 of singular thought, etched in monolithic tablets, whether made of silicone or
 of stone.
 
-The loose coupling of content to its underlying strata of form and matter also
-comes at a cost. As surface phenomenon, text hides the flows of power and
-control coursing beneath. While the occasional immateriality of code and text
-is a property worthy of conservancy, any notion of critique or critical
-thinking must also be able to reach beyond the plainly apparent to the veiled
-and the concealed. For now, the text remains if not "at hand," then "at hand's
-length." But as books get smaller, "micrographic" writing moves closer and
-closer to the optic nerve: first as wearable technology (watches, glasses,
-pins), then as ingestible particle (smart dust, nanobots); and finally as
-something coupled directly into the nervous system and inscribed into the
-neural network of the brain (as the ultimate hard- or rather wetware platform).
-The movement from afar to within logically completes the program of "intellect
-augmentation," a program which begins not with Vannevar Bush, J.C.R.
-Licklider, and Douglas Engelbart (who used the term); and not with *Xerox*, the
-ultimate purveyors of radical surface reading, but with the invention of
-writing itself. Reading "for meaning", in these not at all futuristic
-conditions[^ln3-reading], involves something akin to phenomenology as
-biological reverse engineering.
+But, the loose coupling of content to its underlying strata of form and matter
+also comes at a cost. As surface phenomena, text hides the flows of power and
+control coursing beneath. For now, the text remains if not "at hand," then "at
+hand's length." But as books get smaller, "micrographic" writing moves closer
+to the optic nerve: first as wearable technology (watches, glasses, pins), then
+as ingestible particle (smart dust, nanobots); and finally as something coupled
+directly with the nervous system and inscribed into the neural network of the
+brain (as the ultimate hard- or rather wetware platform). The movement from
+afar to within logically completes the program of "intellect augmentation"---a
+program which begins not with Vannevar Bush, J.C.R.  Licklider, and Douglas
+Engelbart (who used the term extensively), and not with *Xerox*, the ultimate
+purveyors of radical surface reading, but with the invention of writing itself.
+Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
+involves something akin to phenomenology as biological reverse engineering.
 
 [^ln3-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
