@@ -5089,6 +5089,27 @@ http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02
 
 ## Chapter 7: Engineering for Dissent
 
+### 7.0 Abstract
+
+In this final chapter, I argue for the recovery and the preservation of plain
+textuality in the day-to-day practice of modern computing. Returning to the
+history of the `.txt` file format, I find that early documents from the
+International Telecommunication Union (and later international bodies governing
+the exchange of information across state borders) display unease with
+encrypted, non-human-readable formats of information exchange. A theoretical
+treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
+and Golumbia concludes with a discussion about the subject's role in actively
+shaping material conditions of media being. As documents reflecting
+externalized states of consciousness become increasingly more transparent, they
+are susceptible to increased surveillance and control. Plain text allows
+political subjects to decouple externalized mental states from mechanisms of
+governance. (In other words, to decide actively when to opt in and when to opt
+out). This affordance is not, however, a deterministic property of literature,
+the Internet, or any other information exchange system. Rather, the design of
+complex systems must itself become critical practice, which, in complement to
+critical theory, can actively engineer for textual mechanisms that make
+individual dissent possible.
+
 ### 3.4 Algorithm as Fetish
 
 Wendy Hui Kyong Chun
@@ -5250,27 +5271,6 @@ ideology, but as the ability to physically alter the material conditions of
 literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
 content and code as control.
-### Abstract
-
-In this final chapter, I argue for the recovery and the preservation of plain
-textuality in the day-to-day practice of modern computing. Returning to the
-history of the `.txt` file format, I find that early documents from the
-International Telecommunication Union (and later international bodies governing
-the exchange of information across state borders) display unease with
-encrypted, non-human-readable formats of information exchange. A theoretical
-treatment of technological skepticism from Heidegger, to Mumford, Kittler, and
-Golumbia concludes in a discussion about the subject's role in actively shaping
-the material conditions of media being. As documents reflecting externalized
-states of consciousness become increasingly more transparent, they are
-susceptible to increased surveillance and control (through encryption, by
-example). Plain text allows political subjects to decouple externalized mental
-states from mechanisms of governance.  (In other words, to actively decide when
-to opt in and when to opt out). This affordance is not however a deterministic
-property of literature, the internet, or any other information exchange system.
-Rather, the design of complex systems must itself become critical practice,
-which, in complement to critical theory, can actively engineer for textual
-mechanisms that make individual dissent possible.
-
 ### 7.1 ITU
 
 Related to secrecy.  Plain language and Secret language (telegraph regulations
