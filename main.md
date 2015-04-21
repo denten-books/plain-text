@@ -2383,21 +2383,21 @@ reading?
 ### 3.0 Abstract
 
 The chapter begins in outlining a recent discussion on surface reading.  What
-lies beneath the text? I ask. The question opens up into a discussion of the
-distinction between form and content: two theoretical concepts crucial to
+lies beneath the text? I ask. The question leads to a discussion about the
+difference between form and content---two theoretical concepts crucial to
 understanding the difference between plain text and binary file formats. I find
-that going back to Plato and Hegel, "form" was used at times to indicate
+that going back to Plato and Hegel, "form" was at times used to indicate
 physical structure and at other times to indicate immaterial categories in the
 ideal realm. In the chapter's middle section, I consider the notion of
 "ephemeral" textuality. A case study in removable storage elucidates the
 movement of text from human-legible inscription on page (and punch card) to
-invisible inscription as electrical charge embedded into magnetic storage. The
+invisible inscription embedded into magnetic media as electrical charge. The
 case study unfolds the distinction between print (in which matter, form, and
 content lie flat) and screen (where the three layers occupy physically distinct
 strata, providing only the illusion of flattened textuality). The discussion
-concludes with a stark image, illustrating the difference between plain text
-and binary formats visually. To produce the image, I inject malicious code into
-an Adobe Acrobat file, showing the contrast between surface text and its
+concludes with a stark image, visually illustrating the contrast between plain
+text and binary formats. To produce the image, I inject malicious code into an
+Adobe Acrobat file, showing the contrast between surface text and its
 underlying magnetically-bound bit structure.
 
 ### 3.1 Reading Surfaces
@@ -2419,26 +2419,25 @@ content.
 
 Let's dwell on the history of that distinction between text's physical
 characteristics and its signifying strategies for a few paragraphs. I'll give
-you the standard version first, but then return to revise and to complicate.
+you the standard version first, and then return to revise and to complicate.
 The traditional version, as I will argue, hides a rather serious confusion, one
 that will become increasingly central to our conversation.
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
-"essence" or an "idea" of something (like a chair) exists in a sort of an
-ideal, metaphysical state, somewhere beyond the confines of the material
-universe. By contrast, a physical instantiation of that object (a specific
-chair) embodies a somewhat more limited, even corrupted, version of that
-perfect idea. The task of the philosopher, then, becomes to reconstruct the
-single ideal notion of the perfect chair from its many imperfect
-instantiations. A contemporary computer scientist will recognize in this chain
-of reasoning some of the principles behind object oriented programming: a way
-of building software that works by defining abstract "object classes" and
-invoking them as "class instances" [@hoare_record_1965, @nygaard_history_1981].
-Similarly, for Plato and later René Descartes, G.W.F. Hegel, and for other
-so-called "idealists," ideas provide us with lasting universal "templates" for
-instantiation within the contingent and always changing physical confines of
-the material world.[^ln11-descartes]
+"essence" or an "idea" of something (like a chair) exists in an ideal,
+metaphysical state, somewhere beyond the confines of the material universe. By
+contrast, a physical instantiation of that object (a specific chair) embodies a
+somewhat more limited, even corrupted, version of that perfect idea. The task
+of the philosopher becomes to reconstruct the single ideal notion of the
+perfect chair from its many imperfect instantiations. A contemporary computer
+scientist will recognize in this chain of reasoning some of the principles
+behind object-oriented programming: a way of building software that works by
+defining abstract "object classes" and invoking them as "class instances"
+[@hoare_record_1965, @nygaard_history_1981]. Similarly, for Plato and later for
+René Descartes, G.W.F. Hegel, and other so-called "idealists," ideas provide us
+with lasting universal "templates" for instantiation within the contingent and
+always changing physical confines of the material world.[^ln11-descartes]
 
 It is Hegel who gives perhaps the paradigmatic expression to the dichotomy
 between form and content in the literature on aesthetics. In his *Lectures on
@@ -2453,8 +2452,8 @@ the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
 physical world, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
 *Verstand*). On the side of "form" (same in German), Hegel accumulates words
 like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
-curves, surfaces, carvings, colors, tones, word sounds, and generally material
-(*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
+curves, surfaces, carvings, colors, tones, word sounds, and generally matter or
+material (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
 *Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. The semantic
 cluster related to "forms"  conveys physical (palpable, of this world) and
 outward-facing properties, available for examination to the senses (*Sinne*).
@@ -2478,24 +2477,24 @@ the constraints of the deterministic physical universe, yet gaining a measure
 of solidity in its concrete and tangible instantiation.
 
 Free *and* concrete! Where does that leave literary criticism? Not all text is
-art, of course. But, if critics are to believe in the potential for textual
+art, of course. But if critics are to believe in the potential for textual
 expression to reach such lofty Hegelian heights, they must also place value on
 the act of interpretation. The Hegelian literary critic reaches beyond the
-external, ephemeral material facade to uncover internal and eternal
+external, ephemeral, and material facade to uncover internal and eternal
 metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
 literary interpretation as "symptomatic reading," a strategy that seeks to
 uncover latent and concealed meaning beneath the evident surface of the text.
 For a Marxist critic like Louis Althusser or Frederic Jameson that latent
 meaning may have something to do with hidden machinations of capital and
 ideology. The psychologically-minded critic reads in search of hidden drives,
-desires, or cognitive structures. By contrast with symptomatic reading, Marcus
+desires, or cognitive structures. In contrast to symptomatic reading, Marcus
 and Best describe several contemporary theoretical trends that run counter to
 the Hegelian tradition, preferring instead to read at the surface of the text:
 descriptive reading, reading for form, for material, or "just reading
 [@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
-against reading for latent content. In the late 1960, Susan Sontag wrote about
+against reading for latent content. In the late 1960s, Susan Sontag wrote about
 "the need for more attention to form in art." Interpretation can be liberating,
 she wrote, but it can also stifle creativity. It "depletes" the world in some
 way, placing the critic in a privileged and unnecessarily meddling position
@@ -2503,7 +2502,7 @@ between reader and text. "If excessive stress on content provokes the arrogance
 of interpretation, more extended and more thorough descriptions of form would
 silence," she writes. "The best criticism, and it is uncommon, is of this sort
 that dissolves considerations of content into those of form
-[@sontag_against_1966, 8-9]. In yet an earlier counterinsurgency, at the turn
+[@sontag_against_1966, 8-9]." In yet an earlier counterinsurgency, at the turn
 of the 20th century, Russian and Italian formalists strove to break with
 Hegelian normative aesthetics by wedding literary criticism with descriptive
 linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
@@ -2512,10 +2511,10 @@ Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
 romantic notions of beauty, and the rise of a new "geometric and mechanical
 splendor." His generation was instead "in love with matter," wanting "to
 penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
-???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols," Viktor
+???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
 Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
-becomes invisible through frequent use. Such dead and transparent language can
-no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
+"becomes invisible" through frequent use. Such dead and transparent language
+can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
 counteracts death by "resurrecting the word" in "making the form difficult
 [@shklovsky_hod_1923, ???]." Form, in that sense, resurrects content. The study
 of poetic language (not necessarily poetry) therefore pays attention to the
@@ -2550,6 +2549,7 @@ meccanico e la sensibilità numerica]
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
+[REWRITE FOOBAR]
 The traditional dichotomy between form and content obscures the complexity of
 this dynamic. Formalism overloads the concept of form to bear functions of
 matter and design, which cannot not be treated at the same layer of analysis.
@@ -2564,37 +2564,42 @@ remaining essentially the same substance. Benjamin Jowett translates the
 passage:
 
 > Thus, then, as the several elements never present themselves in the same
-> form,(*phantazomenōn*) how can anyone have the assurance to assert positively
+> form,[*phantazomenōn*] how can anyone have the assurance to assert positively
 > that any of them, whatever it may be, is one thing rather than another?
 > [@plato_timaeus_1998, 49d]
 
 In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
 "appearance:"
 
-> Accordingly, since no one of these ever remains identical in appearance,
-> which of them shall a man definitely affirm to be any one particular element
-> and no other without incurring ridicule? [@plato_plato_1955, 48d]
+> Accordingly, since no one of these ever remains identical in
+> appearance,[*phantazomenōn*] which of them shall a man definitely affirm to
+> be any one particular element and no other without incurring ridicule?
+> [@plato_plato_1955, 48d]
 
-The idea in both of these translations is that matter has some sort of essence,
-but often changes in phantasmal, fantastic, ghostly, imaginable, and even
-"virtual" appearance. Jowett understands that which is changeable as "form."
-Contrast the *Timaeus* passages from the one in *Cratylus*. Here Socrates is
-talking to Hermogenes about "name-giving," a discussion about the ways words
-signify things through convention. "What has the carpenter in view when he
-makes a shuttle?" asks Socrates. "Is it not something the nature of which is to
-weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he is
-making it, will he make another with his mind fixed on that which is broken, or
-on that form (*eidos*) with reference to which he was making the one which he
-broke? " Hermogenes agrees on the form. "Then we should very properly call that
-the real shuttle (*estin kerkis*)?" The exact appearance (I am going to use
-that word now) of the shuttle does not matter for Socrates. There are different
-types of shuttles used to weave wool and linen, but all of them, in Jowett's
-translation, "must contain the form or ideal (*eidos*) of shuttle
-[@plato_dialogues_1937, 389a-b]." Here then *eidos* is the universal idea of
-the ideal shuttle: exactly the opposite of *phantazomenōn* as ephemeral
-instantioation in the previous passage! Yet both *eidos* and *phantazomenōn*
-were reasonably translated into English as "form", indicating a fundamental
-overloading of the concept.[^ln11-plato]
+The idea in both of these translations is that matter has some sort of an
+essence, but that it also sometimes becomes *phantazomenōn*, taking on a
+phantasmal, fantastic, ghostly, imaginable, and even "virtual" appearance (all
+reasonable English approximations of the Greek *phantazomenōn*). Jowett
+understands *phantazomenōn* (that which is changeable) as "form" and Lamb as
+"appearance."
+
+Contrast the *Timaeus* passages with the ones in *Cratylus*, about name-giving.
+Socrates and Hermogenes discuss the ways words signify things through
+convention. "What has the carpenter in view when he makes a shuttle?" asks
+Socrates. "Is it not something the nature of which is to weave?" Hermogenes
+agrees. "Well, then, if the shuttle breaks while he is making it, will he make
+another with his mind fixed on that which is broken, or on that form (*eidos*)
+with reference to which he was making the one which he broke? " Hermogenes
+agrees on the form.  "Then we should very properly call that the real shuttle
+(*estin kerkis*)?" The exact appearance (I am going to use that word now) of
+the shuttle does not matter for Socrates. There are different types of shuttles
+used to weave wool and linen, but all of them, in Jowett's translation, "must
+contain the form or ideal (*eidos*) of shuttle [@plato_dialogues_1937,
+389a-b]." Here then *eidos* is the universal idea of the ideal shuttle: exactly
+the opposite of *phantazomenōn* as ephemeral instantiation in the previous
+passage! Yet both *eidos* and *phantazomenōn* were reasonably translated into
+English as "form", indicating a fundamental overloading of the
+concept.[^ln11-plato]
 
 [^ln11-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
@@ -2767,7 +2772,9 @@ has lost its tenuous hold on the material substratum. Technologies from cheap
 photocopiers, to desktop printers, to cheap hard drives, and peer-to-peer file
 sharing networks have reduced the price of a copy down to near zero. The
 response from the film, game, music, and publishing industry has been to push
-rights management down to the infrastructural level. As Charles Clark
+rights management down to the infrastructural level. As Charles Clark (the
+British publisher and authority on copyright) famously put it, "the answer to
+the machine is in the machine."
 
 stipulates that "no person shall circumvent a technological measure that
 effectively controls access to a work protected under this title

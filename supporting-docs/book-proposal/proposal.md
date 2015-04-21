@@ -303,21 +303,21 @@ system.
 ### Chapter 3: Laying Bare the Device
 
 The chapter begins in outlining a recent discussion on surface reading.  What
-lies beneath the text? I ask. The question opens up into a discussion of the
-distinction between form and content: two theoretical concepts crucial to
+lies beneath the text? I ask. The question leads to a discussion about the
+difference between form and content---two theoretical concepts crucial to
 understanding the difference between plain text and binary file formats. I find
-that going back to Plato and Hegel, "form" was used at times to indicate
+that going back to Plato and Hegel, "form" was at times used to indicate
 physical structure and at other times to indicate immaterial categories in the
 ideal realm. In the chapter's middle section, I consider the notion of
 "ephemeral" textuality. A case study in removable storage elucidates the
 movement of text from human-legible inscription on page (and punch card) to
-invisible inscription as electrical charge embedded into magnetic storage. The
+invisible inscription embedded into magnetic media as electrical charge. The
 case study unfolds the distinction between print (in which matter, form, and
 content lie flat) and screen (where the three layers occupy physically distinct
 strata, providing only the illusion of flattened textuality). The discussion
-concludes with a stark image, illustrating the difference between plain text
-and binary formats visually. To produce the image, I inject malicious code into
-an Adobe Acrobat file, showing the contrast between surface text and its
+concludes with a stark image, visually illustrating the contrast between plain
+text and binary formats. To produce the image, I inject malicious code into an
+Adobe Acrobat file, showing the contrast between surface text and its
 underlying magnetically-bound bit structure.
 
 ### Chapter 4: Media are Not the Message
