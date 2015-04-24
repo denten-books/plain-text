@@ -2903,7 +2903,7 @@ obscuring material divergence beneath.
 
 [ln3-root]: @stoltz_is_2013
 
-### 3.4 "A Peek at What Is to come"
+### 3.4 
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
@@ -3301,17 +3301,21 @@ at a distance.
 Here is my close reading of the venerable *Erewhon*, by Samuel Butler: if you
 open this file, it will ruin your reading device.
 
-Can literary studies survive by surface reading alone? Only if readers restrict
-their notions of literature to materials circulating before the advent of
-everyday computation. On a given digital device, surface representation may
-change to tailor itself to fit the reader's mood, to match the environment, or
-to please some remote censor. In these conditions, surface reading would fail
-even at locating a stable object of study. Yet, surface readers from Sontag to
-Best and Marcus are right in treating all claims to symptomatic reading with
-suspicion, as claims to power. The reader of depth will always claim hidden
-knowledge, creating an imbalance of interpretation. This does not excuse the
-imbalances that already exist between surface readers and writers of silicone.
-The answer to the machine remains in the machine.
+I do not mean to imply that raw reading of this sort, at circuit and magnetic
+media level, will somehow come to supplement reading at the surface for meaning
+and representation. Microanalysis is meant to complement close reading: giving
+it physical space, time, and scope. But the reading for surface alone risks
+losing sight of the struggle for bare control of book and document as device.
+The device *can* determine the message when unchecked. In these conditions,
+reading for meaning or form alone risks losing its object of study, as surface
+representations change dynamically and tailor themselves to fit the reader's
+mood, to match the environment, or to please some remote censor. Best, Marcus,
+and Sontag are right in treating claims to symptomatic reading with suspicion,
+as claims to power. The reader of depth divines secret knowledge, with or
+without merit, creating an imbalance of interpretation. The writer on magnet
+and silicon does not merely claim to, but actually does transform surfaces.
+Critical reading must therefore begin with reclaiming the underlying material
+conditions of meaning making. The answer to the machine remains in the machine.
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
