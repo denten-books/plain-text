@@ -2378,7 +2378,7 @@ with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
 ## Chapter 3: Laying Bare the Device
-`content, matter, form, formatting`
+`content, matter, device, form, formatting`
 
 ### 3.0 Abstract
 
@@ -2627,7 +2627,28 @@ opinion. It is not a surprise then, that the study of poetic structure is
 limited to the sphere of obvious euphonic resources like rhythm, alliteration,
 assonance, and onomatopoeia [...] Poetic criticism is reduced to the judgment
 of "effective" and "ineffective" sound combinations, where the criteria for
-effect is reduced to a critic's personal taste [@.
+effect is reduced to a critic's personal taste [@shklovksy_sborniki_1917, 24].
+
+What does Brik and company see as an alternative to symbolism? The seminal
+series of "OPOYAZ" publications appearing between 1916 and 1920, gave a unified
+program to a group of "formalist" scholars that included Viktor Shklovsky,
+Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson, among others,
+strike out in two distinct, but complementary directions. A set of essays by
+Brik, Shklovsky, Yakubinski, and others contrapose "sound" (*zvuk*) to
+"symbol" (*obraz*). Brik writes: "I believe that elements of symbolic and sonic
+[*zvukovoi*] art exist simultaneously, and that every given piece of [poetic]
+work comprises an equilibrium of these two heterogeneous poetic impulses
+[@shklovksy_sborniki_1917, 25]." Of the sixteen or so unique essays that appear
+in the three collected volumes (some of the essays repeat across volumes),
+thirteen have the word "sound" (*zvuk*), or some variation thereof, in the
+title, with sound ("sound image," "sound gesture," "sound repetition
+
+Three of the essays, however strike in another direction.
+
+The Russian *priem* was unfortunately translated as as "device," which makes it
+sound akin to "gadget" or an "appliance," where Shklovsky clearly means it as
+a technique, or a "move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
+move in Judo, and a part of *Koshi-Waza* or "hip technique."
 
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: matter, form, and content. The history of Western
