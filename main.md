@@ -2400,7 +2400,7 @@ binary formats. To produce the image, I inject malicious code into an Adobe
 Acrobat file, showing the contrast between surface text and its underlying
 magnetically bound bit structure.
 
-### 3.1 Reading Surfaces
+### 3.1 Form as Formula and Device
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -2419,9 +2419,10 @@ content.
 
 Let's dwell on the history of that distinction between text's physical
 characteristics and its signifying strategies for a few paragraphs. I'll give
-you the standard version first, and then return to revise and to complicate.
-The traditional version, as I will argue, hides a rather serious confusion, one
-that will become increasingly central to our conversation.
+you the standard (if abridged) version first, and then return to revise and to
+complicate. The traditional binary model, as I will argue, does not
+sufficiently capture the grounds for literary microanalysis, which require an
+understanding of form both as formula and device.
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
@@ -2439,7 +2440,101 @@ René Descartes, G.W.F. Hegel, and other so-called "idealists," ideas provide us
 with lasting universal "templates" for instantiation within the contingent and
 always changing physical confines of the material world.[^ln11-descartes]
 
-It is Hegel who gives perhaps the paradigmatic expression to the dichotomy
+In Plato we find a number of words that, depending on the translation, stand in
+for the English "form." These include *eidos* (essence), *idea* (idea),
+*morphe* (shape), and *phainomena* (appearance). Compare for example the
+translations from Plato's *Timaeus*. In the dialog, Timaeus, the titular
+character, explains the nature of the physical world. In a passage that
+anticipates the famous "molten wax" analagy in Descartes, Timaeus notices that
+some elements, like water, change their appearance (*φανταζομένων*) while
+remaining essentially the same substance. Benjamin Jowett translates the
+passage:
+
+> Thus, then, as the several elements never present themselves in the same
+> form,[*phantazomenōn*] how can anyone have the assurance to assert positively
+> that any of them, whatever it may be, is one thing rather than another?
+> [@plato_timaeus_1998, 49d]
+
+In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
+"appearance:"
+
+> Accordingly, since no one of these ever remains identical in
+> appearance,[*phantazomenōn*] which of them shall a man definitely affirm to
+> be any one particular element and no other without incurring ridicule?
+> [@plato_plato_1955, 48d]
+
+The idea in both of these translations is that matter has some sort of an
+essence, but that it also sometimes becomes *phantazomenōn*, taking on a
+phantasmal, fantastic, ghostly, imaginable, and even "virtual" appearance (all
+reasonable English approximations of the Greek *phantazomenōn*). Accordingly,
+Jowett translates *phantazomenōn* (that which is changeable) as "form" and Lamb
+as "appearance."
+
+Contrast the *Timaeus* passages with the ones in *Cratylus*, about name-giving.
+In *Cratylus*, Socrates and Hermogenes discuss the ways in which words signify
+things by convention. "What has the carpenter in view when he makes a shuttle?"
+asks Socrates. "Is it not something the nature of which is to weave?"
+Hermogenes agrees. "Well, then, if the shuttle breaks while he is making it,
+will he make another with his mind fixed on that which is broken, or on that
+form (*eidos*) with reference to which he was making the one which he broke?"
+Hermogenes agrees the carpenter would fix his mind on the ideal form. In that
+case, we should properly call *that* the real shuttle (*estin kerkis*),
+Socrates concludes--his point being that the exact outward appearance of
+individual shuttles does not matter as much as the abstracted idea of shuttles.
+
+The abstraction endures as given instantiations break and shatter. There exist
+different types of shuttles, some used to weave wool and some for linen, but
+all of them, in Jowett's translation, "must contain the form or ideal (*eidos*)
+of shuttle [@plato_dialogues_1937, 389a-b]." In *Cratylus*, *eidos* stands for
+the "universal lasting ideal" of all shuttles: exactly the opposite of
+*phantazomenōn* as "ephemeral instantiation" in the previous passage! Yet both
+*eidos* and *phantazomenōn* were reasonably translated into English as "form",
+indicating a fundamental overloading of the concept.[^ln11-plato]
+
+[^ln11-plato]: My reading of Plato would be impossible without help from the
+Perseus Digital Library Project, which allows the reader to explore the Greek
+originals side-by-side with translations, maps, dictionaries, and other
+parallel texts. Sources consulted on the Plato's theory of forms include
+@rist_platos_1975, @woods_form_1993, @dixsaut_ousia_1991,
+@hegel_philosophy_1870. I would also like to thank Stathis Gourgouris for his
+generous comments on these passages.
+
+Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
+of his struggle with the Platonic concept of form. He writes, "The Idea is
+nothing but what is current with us under the name of the Universal, when this
+word is not taken in the sense of *formal* Universal---which is only a property
+of things---but as the in-and-for-itself existent, as the essence, as that
+which alone is true.  We translate the Greek word *eidos* by 'genus' or
+'species' [*Gattung* or *Art* in German] [...] When 'genus' or 'species' is
+seized as a number of similar determinations collected by reflection from
+several individuals, to serve as a *mark* for the convenience of the
+understanding, then we have the Universal in quite an external [superficial]
+form [hegel_philosophy_1870, 250]." For Hegel, *eidos* means something like
+combination between internal form and external appearance. It is the universal
+in its contingent articulation, which he dubs the "formal universal."
+
+For Hegel, the formal universal functions as an indeterminate mediator between
+the ideal and the material worlds, combining it properties of both the ideal
+and the material. It is found in the form of a thing, like a chair, for
+example, which although an abstracted structure, still nevertheless belongs to
+the chair as a physical property. The true idea of a "genus" or "species," in
+the very taxonomic category of "chairs," does not and cannot belong to any
+given chair as a property, according to Hegel. Instead, the ideal determines
+all real-world members of its "genus." The formal ideal has a bit of both shape
+and category, being at the same time an "idea" and a "physical property." The
+"formal universal" mediates between matter and spirit. When we think of
+Shakespeare's *Hamlet*, for example, whatever is meant by "the form" of the
+play belongs neither to its material substance (pixel or paper) nor to the
+ideational content of the work. The "formal universal" (or simply form) lies
+somewhere in-between the two worlds: it is in the shape of the letters, in the
+structure of the narrative, and in the prosody of the word. The form in that
+sense is indeterminate, because we do not quite know which of these elements
+belong to the content of the play and which are the contingent material
+artifacts of the printing process: the way the fonts look, for example or the
+way lines break on the page. Some matters of form matter to us as readers (line
+breaks), and others do not (font kerning).
+
+Elsewhere, Hegel gives perhaps the paradigmatic expression to the dichotomy
 between form and content in the literature on aesthetics. In his *Lectures on
 Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
 between its ideational, spiritual content and "the configuration of sensuous
@@ -2455,7 +2550,7 @@ like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
 curves, surfaces, carvings, colors, tones, word sounds, and generally matter or
 material (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
 *Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. The semantic
-cluster related to "forms"  conveys physical (palpable, of this world) and
+cluster related to "forms" conveys physical (palpable, of this world) and
 outward-facing properties, available for examination to the senses (*Sinne*).
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
@@ -2484,13 +2579,13 @@ external, ephemeral, and material facade to uncover internal and eternal
 metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
 literary interpretation as "symptomatic reading," a strategy that seeks to
 uncover latent and concealed meaning beneath the evident surface of the text.
-For a Marxist critic like Louis Althusser or Frederic Jameson that latent
+For a Marxist critic like Terry Eagleton or Frederic Jameson that latent
 meaning may have something to do with hidden machinations of capital and
 ideology. The psychologically-minded critic reads in search of hidden drives,
-desires, or cognitive structures. In contrast to symptomatic reading, Marcus
-and Best describe several contemporary theoretical trends that run counter to
-the Hegelian tradition, preferring instead to read at the surface of the text:
-descriptive reading, reading for form, for material, or "just reading
+desires, or cognitive structures. In contrast to such symptomatic reading,
+Marcus and Best describe several contemporary theoretical trends that run
+counter to the Hegelian tradition, preferring instead to read at the surface of
+the text: descriptive reading, reading for form, for material, or "just reading
 [@best_surface_2009, 1-12]."
 
 The history of literary scholarship is punctuated by these moments of revolt
@@ -2506,7 +2601,7 @@ that dissolves considerations of content into those of form
 of the 20th century, Russian and Italian formalists strove to break with
 Hegelian normative aesthetics by wedding literary criticism with descriptive
 linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
-the formalists downplayed the role of content and symbol. In this vein the
+the formalists downplayed the role of content and symbol. In this vein, the
 Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
 romantic notions of beauty, and the rise of a new "geometric and mechanical
 splendor." His generation was instead "in love with matter," wanting "to
@@ -2520,128 +2615,19 @@ counteracts death by "resurrecting the word" in "making the form difficult
 of poetic language (not necessarily poetry) therefore pays attention to the
 devices that aid in the process of linguistic renewal.
 
-[^ln11-descartes]: It is difficult to resist quoting from Descartes'
-*Meditations on First Philosophy* when discussing idealism. He writes: "Let us
-consider the things that people ordinarily think they understand best of all,
-namely the bodies that we touch and see. I don’t mean bodies in general – for
-our general thoughts are apt to be confused – but one particular body: this
-piece of wax, for example. It has just been taken from the honeycomb; it still
-tastes of honey and has the scent of the flowers from which the honey was
-gathered; its color, shape and size are plain to see; it is hard, cold and can
-be handled easily; if you rap it with your knuckle it makes a sound. In short,
-it has everything that seems to be needed for a body to be known perfectly
-clearly. But as I speak these words I hold the wax near to the fire, and look!
-The taste and smell vanish, the color changes, the shape is lost, the size
-increases; the wax becomes liquid and hot; you can hardly touch it, and it no
-longer makes a sound when you strike it. But is it still the same wax? Of
-course it is; no-one denies this. So what was it about the wax that I
-understood so clearly? Evidently it was not any of the features that the senses
-told me of; for all of them – brought to me through taste, smell, sight, touch
-or hearing – have now altered, yet it is still the same wax."
+Shklovsky and his fellow members of the "OPOYAZ" group (instrumental in
+developing the notion of formalist poetics) also responded strongly to the
+Hegelian tradition of reading for symbolic meaning. In a seminal 1917 volume on
+the "Theory of Poetic Language," Osip Brik writes, mockingly:[ln3-translate]
 
-[^ln11-marinetti]: "Il nostro amore crescente per la materia, la volontà di
-penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
-motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
-meccanico e la sensibilità numerica]
-
-[^ln11-echenbaum]: "Что касается 'формы', то формалистам было важно только
-повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
-своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
-ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
-
-[REWRITE FOOBAR]
-The traditional dichotomy between form and content obscures the complexity of
-this dynamic. Formalism overloads the concept of form to bear functions of
-matter and design, which cannot not be treated at the same layer of analysis.
-In Plato we find a number of words that, depending on the translation, stand in
-for the English "form." These include *eidos* (essence), *idea* (idea),
-*morphe* (shape), and *phainomena* (appearance). Compare for example the
-translations from Plato's *Timaeus*. In the dialog, Timaeus, the titular
-character, explains the nature of the physical world. Similarly to the passage
-about wax by Descartes (quoted in a footnote earlier), Timaeus notices that
-some elements, like water, change their appearance (*φανταζομένων*) while
-remaining essentially the same substance. Benjamin Jowett translates the
-passage:
-
-> Thus, then, as the several elements never present themselves in the same
-> form,[*phantazomenōn*] how can anyone have the assurance to assert positively
-> that any of them, whatever it may be, is one thing rather than another?
-> [@plato_timaeus_1998, 49d]
-
-In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
-"appearance:"
-
-> Accordingly, since no one of these ever remains identical in
-> appearance,[*phantazomenōn*] which of them shall a man definitely affirm to
-> be any one particular element and no other without incurring ridicule?
-> [@plato_plato_1955, 48d]
-
-The idea in both of these translations is that matter has some sort of an
-essence, but that it also sometimes becomes *phantazomenōn*, taking on a
-phantasmal, fantastic, ghostly, imaginable, and even "virtual" appearance (all
-reasonable English approximations of the Greek *phantazomenōn*). Jowett
-understands *phantazomenōn* (that which is changeable) as "form" and Lamb as
-"appearance."
-
-Contrast the *Timaeus* passages with the ones in *Cratylus*, about name-giving.
-Socrates and Hermogenes discuss the ways words signify things through
-convention. "What has the carpenter in view when he makes a shuttle?" asks
-Socrates. "Is it not something the nature of which is to weave?" Hermogenes
-agrees. "Well, then, if the shuttle breaks while he is making it, will he make
-another with his mind fixed on that which is broken, or on that form (*eidos*)
-with reference to which he was making the one which he broke?" Hermogenes
-agrees the carpenter would fix his mind on the ideal form. In that case, we
-should properly call *that* the real shuttle (*estin kerkis*), Socrates
-concludes--his point being that the exact outward appearance of individual
-shuttles does not matter as much as the abstracted idea of shuttles. The
-abstraction endures as given instantiations break and shatter. There exist
-different types of shuttles, some used to weave wool and some for linen, but
-all of them, in Jowett's translation, "must contain the form or ideal (*eidos*)
-of shuttle [@plato_dialogues_1937, 389a-b]." In *Cratylus*, *eidos* stands the
-universal ideal of all shuttles: exactly the opposite of *phantazomenōn* as
-ephemeral instantiation in the previous passage! Yet both *eidos* and
-*phantazomenōn* were reasonably translated into English as "form", indicating a
-fundamental overloading of the concept.[^ln11-plato]
-
-[^ln11-plato]: My reading of Plato would be impossible without help from the
-Perseus Digital Library Project, which allows the reader to explore the Greek
-originals side-by-side with translations, maps, dictionaries, and other
-parallel texts. Sources consulted on the Plato's theory of forms include
-@rist_platos_1975, @woods_form_1993, @dixsaut_ousia_1991,
-@hegel_philosophy_1870. I would also like to thank Stathis Gourgouris for his
-generous comments on these passages.
-
-Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
-of his struggle with the Platonic concept of form. He writes, "The Idea is
-nothing but what is current with us under the name of the Universal, when this
-word is not taken in the sense of *formal* Universal---which is only a property
-of things---but as the in-and-for-itself existent, as the essence, as that
-which alone is true.  We translate the Greek word *eidos* by 'genus' or
-'species' (*Gattung* or *Art* in German) [...] When 'genus' or 'species' is
-seized as a number of similar determinations collected by reflection from
-several individuals, to serve as a *mark* for the convenience of the
-understanding, then we have the Universal in quite an external [superficial]
-form [hegel_philosophy_1870, 250]." For Hegel, *eidos* means something like
-combination between internal form and external appearance. It is the universal
-in its contingent articulation.
-
-I am attracted by the idea of the "formal Universal," which Hegel is quick to
-dismiss as not quite the essence of the ideal. The formal universal seems to
-function for Hegel as an indeterminate mediator between the ideal and the
-material worlds. The literal form of a chair, for example, is a property of a
-real chair. But the ideal of the chair does not belong to any chairs in
-particular. Instead, the ideal determines all real-world members of the genus
-(in Hegel's words). In this way, Hegel's "formal ideal" contains a bit of both
-"idea" and "physical property." It mediates. When we think of Shakespeare's
-*Hamlet*, for example, whatever is meant by "the form" of the play belongs
-neither to its material substance (pixel or paper) nor to the ideational
-content of the work. The form is something in-between the two worlds: it is in
-the shape of the letters, in the structure of the narrative, and in the prosody
-of the word. The form in that sense is indeterminate, because we do not quite
-know which of these elements belong to the content of the play and which are
-the contingent material artifacts of the printing process: the way the fonts
-look, for example or the way lines break on the page. Some matters of form
-matter to us as readers (line breaks), and others do not (font kerning).
+> "The art of poetry is a symbolic art. The language of poetry is a
+symbolic language. Euphony and rhythm are the fair garments that clothe the
+fruits of poetic inspiration." That is the solidly established and prevailing
+opinion. It is not a surprise then, that the study of poetic structure is
+limited to the sphere of obvious euphonic resources like rhythm, alliteration,
+assonance, and onomatopoeia [...] Poetic criticism is reduced to the judgment
+of "effective" and "ineffective" sound combinations, where the criteria for
+effect is reduced to a critic's personal taste [@.
 
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: matter, form, and content. The history of Western
@@ -2712,6 +2698,8 @@ involves something akin to phenomenology as biological reverse engineering.
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
 
+[^ln3-translate]: Translations are mine, unless cited otherwise.
+
 [^ln3-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
 space of books," where the text is "a process of demonstration," "experienced
@@ -2720,6 +2708,34 @@ only in an activity of production." He writes also that "the Text cannot stop
 across (in particular, it can cut across the work, several works)
 [@barthes_work_1978, 156-7]."
 
+[^ln3-descartes]: It is difficult to resist quoting from Descartes'
+*Meditations on First Philosophy* when discussing idealism. He writes: "Let us
+consider the things that people ordinarily think they understand best of all,
+namely the bodies that we touch and see. I don’t mean bodies in general – for
+our general thoughts are apt to be confused – but one particular body: this
+piece of wax, for example. It has just been taken from the honeycomb; it still
+tastes of honey and has the scent of the flowers from which the honey was
+gathered; its color, shape and size are plain to see; it is hard, cold and can
+be handled easily; if you rap it with your knuckle it makes a sound. In short,
+it has everything that seems to be needed for a body to be known perfectly
+clearly. But as I speak these words I hold the wax near to the fire, and look!
+The taste and smell vanish, the color changes, the shape is lost, the size
+increases; the wax becomes liquid and hot; you can hardly touch it, and it no
+longer makes a sound when you strike it. But is it still the same wax? Of
+course it is; no-one denies this. So what was it about the wax that I
+understood so clearly? Evidently it was not any of the features that the senses
+told me of; for all of them – brought to me through taste, smell, sight, touch
+or hearing – have now altered, yet it is still the same wax."
+
+[^ln3-marinetti]: "Il nostro amore crescente per la materia, la volontà di
+penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
+motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
+meccanico e la sensibilità numerica]
+
+[^ln3-echenbaum]: "Что касается 'формы', то формалистам было важно только
+повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
+своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
+ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
