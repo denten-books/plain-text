@@ -1,7 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human--computer Interaction (Book Proposal)"
 author: Dennis Tenen
-
 ---
 \newpage
 
@@ -72,21 +71,21 @@ and practice: somewhere between "technical literacy for new media studies" and
 In pursuing the above strategy I make several decisive contributions to the
 fields of media studies, literary theory, and the digital humanities:
 
-First, my approach is *strongly materialist*. Throughout my argument, I seek to
-recover the literal material contexts (paper, silicon, and magnetic storage
-media) that give support to higher-level social and cognitive phenomena (like
+First, my approach is manifestly *materialist*. Throughout my argument, I seek
+to recover the material contexts (paper, silicon, and magnetic storage media)
+that give support to higher-level social and cognitive phenomena (like
 literature, text, and discourse).
 
-Second, the book contains a strong undercurrent of humanism. In making explicit
-the ways in which changes in the material substratum affect higher-order
-cultural techniques (of knowledge production and literary dissemination), I
-insist on the reinstatement of human agency in a conversation that has largely
-turned towards the object, the system, and the post-human. The book's narrative
-arc can be imagined as developing from first-order material bases of textual
-production, to second-order phenomena, to the emergence of the subject in the
-latter chapters.
+Second, the book contains a strong undercurrent of *humanism*. In making
+explicit the ways in which changes in the material substratum affect
+higher-order cultural techniques (of knowledge production and literary
+dissemination), I insist on the reinstatement of human agency in a conversation
+that has largely turned towards the object, the system, and the post-human. The
+book's narrative arc can be imagined as developing from first-order material
+bases of textual production, to second-order phenomena, to the emergence of the
+subject in the latter chapters.
 
-Finally, my work is experimental in that it affects history and theory through
+Finally, my work is *experimental* in that it affects history and theory through
 practice. Because engineering is an evolutionary practice, contemporary
 computational devices contain within them traces of their early development.
 This means that lines of code from software running Unix systems in the 1970s
@@ -233,7 +232,7 @@ Training in computational methods often begins with packaged tools that obscure
 the underlying complexity of the method. For example, while writing a
 relatively complex piece of code, a journalist in my class once confessed to
 being confused about the relationship between files and folders. "Plain Text"
-is a book about files and folders: it is about textuality as encoded in
+is a book *about* files and folders: it is about textuality as encoded in
 specific ways on machines that have a shared engineering pedigree. The hidden
 (but very much intended) side effect of "Plain Text" is a measure of
 theoretical familiarity with Unix-based operating systems. Sophisticated
@@ -289,11 +288,10 @@ computing, I show the explicit admixture of content and code: one meant to
 communicate messages to humans and the other to program universal machines.
 This history is not entirely critical: rather, it reveals an alternative
 genealogy of computing, contrary to the widely accepted notions of the computer
-as a device for reductive "mathesis" (in the words of Johanna Drucker). I
-conclude by arguing that Turing machines were anticipated not just by the
-Babbage calculator, but also by a series of advances in communications, word
-processing, and media storage. A notion of text (as opposed to number) is hence
-"baked into" the system.
+as a device for reductive quantification. I conclude by arguing that Turing
+machines were anticipated not by the Babbage calculator alone, but also by a
+series of advances in communications, word processing, and media storage. A
+notion of text (as opposed to number) is hence "baked into" the system.
 
 ### Chapter 3: Laying Bare the Device
 
@@ -420,5 +418,4 @@ further notes and primary material. As of today, the manuscript stands at
 roughly 55,000 words, with three chapters completed in their draft form. I am
 writing actively and plan to have a first draft of the manuscript ready by
 June--July of 2015. I am on leave next academic year, having cleared my
-schedule, with plans of dedicating all of my attention to seeing this project
-through to publication.
+schedule, with plans of seeing this project through to publication.
