@@ -1,19 +1,20 @@
 ---
-title: "Plain Text: The Poetics of Human-computer Interaction (Book Proposal)"
+title: "Plain Text: The Poetics of Human--computer Interaction (Book Proposal)"
 author: Dennis Tenen
 
 ---
+TESTING23
 \newpage
 
 Much of today's textual and literary activity passes through some form of
 digital being. Yet, the material contexts of digital knowledge production
 remain obscured and in need of increased critical scrutiny. In peeling back the
-layers of technology and cultural technique that constitute contemporary
+layers of technology and cultural technique that constitute the contemporary
 encounter with text, "Plain Text" seeks to reconfigure familiar terms that
 motivate the study of new media, literature, and the digital humanities. The
 book unfolds a philosophical investigation of digital being through a media
 history of plain text, an important file in the development of computer history
-extant on every digital device destined for human-computer interaction.
+extant on every digital device destined for human--computer interaction.
 
 ## Theme and Argument
 
@@ -27,11 +28,11 @@ reflecting critically on the ideas, tools, and practices that shape our daily
 encounter with computation.
 
 I build on those principles to ask: what is at stake in the difference between
-digital and analog media? What contains more information a novel or a block of
-wood?  What separates meaning, form, and formatting? How do pixels form into
-texts? Where do data end and meta-data begin? To what extent media determine
+digital and analog media? What contains more information, a novel or a block of
+wood? What separates meaning, form, and formatting? How do pixels form into
+texts? Where do data end and meta-data begin? To what extent do media determine
 the message? The formulation of these broadly theoretical concerns about the
-poetics of human-computer interaction opens the way to a discussion about the
+poetics of human--computer interaction opens the way to a discussion about the
 social impact of textual technology, as it relates to applied dynamics of
 online agency, deliberation, consensus-making, and dissent.
 
@@ -72,17 +73,17 @@ and practice: somewhere between "technical literacy for new media studies" and
 In pursuing the above strategy I make several decisive contributions to the
 fields of media studies, literary theory, and the digital humanities:
 
-First, my approach is *strongly materialist.* Throughout my argument, I seek to
+First, my approach is *strongly materialist*. Throughout my argument, I seek to
 recover the literal material contexts (paper, silicon, and magnetic storage
-media) that give support to higher level social and cognitive phenomena (like
+media) that give support to higher-level social and cognitive phenomena (like
 literature, text, and discourse).
 
 Second, the book contains a strong undercurrent of humanism. In making explicit
 the ways in which changes in the material substratum affect higher-order
-cultural techniques (of knowledge production and literary dissemination) I
+cultural techniques (of knowledge production and literary dissemination), I
 insist on the reinstatement of human agency in a conversation that has largely
 turned towards the object, the system, and the post-human. The book's narrative
-arc can be imagined as developing from first-order material basses of textual
+arc can be imagined as developing from first-order material bases of textual
 production, to second-order phenomena, to the emergence of the subject in the
 latter chapters.
 
@@ -93,7 +94,7 @@ This means that lines of code from software running Unix systems in the 1970s
 are still in some real sense present on modern machines (like Apple Macintosh
 laptops and Android phones, which run Unix-derived operating systems). This
 property allows for a media archeology that can "lay bare" the device, making
-good on the implied archaeological metaphor: involving excavation, surveying,
+good on the implied archeological metaphor: involving excavation, surveying,
 and artifact discovery, at the level of the literal device.
 
 ## Existing Literature
@@ -101,28 +102,23 @@ and artifact discovery, at the level of the literal device.
 "Plain Text" makes a theoretical intervention in the cluster of media studies-
 and digital humanities-related fields that include science and technology
 studies, platform studies, history of data, software and critical code studies,
-and media archeology. Recent comparable books in this space include:
-- *Paper Knowledge* by Lisa Gitelman (Duke University Press, 2014)
-- *Coding Freedom: The Ethics and Aesthetics of Hacking*, by Gabriella Coleman
-  (Princeton University Press, 2012)
-- *Mechanisms: New Media and the Forensic Imagination*, by Matthew G.
-  Kirschenbaum (MIT Press, 2012)
--  *Files: Law and Media Technology*, by Cornelia Vismann (Stanford University
-   Press, 2008)
-- *Programmed Visions: Software and Memory*, by Wendy Hui Kyong Chun (MIT,
-  2013)
-- *Beautiful Data: A History of Vision and Reason since 1945*, by Orit Halpern
-(Duke, 2015)
-- and several titles in the Electronic Mediations series at Minnesota
-  University Press, which published Lori Emerson's *Reading Writing Interfaces*
-in 2014.
+and media archeology. Recent comparable books in this space include: *Paper
+Knowledge*, by Lisa Gitelman (Duke University Press, 2014); *Coding Freedom:
+The Ethics and Aesthetics of Hacking*, by Gabriella Coleman (Princeton
+University Press, 2012); *Mechanisms: New Media and the Forensic Imagination*,
+by Matthew G. Kirschenbaum (MIT Press, 2012); *Files: Law and Media
+Technology*, by Cornelia Vismann (Stanford University Press, 2008); *Programmed
+Visions: Software and Memory*, by Wendy Hui Kyong Chun (MIT, 2013); *Beautiful
+Data: A History of Vision and Reason since 1945*, by Orit Halpern (Duke, 2015);
+and several titles in the Electronic Mediations series at Minnesota University
+Press, which published Lori Emerson's *Reading Writing Interfaces* in 2014.
 
 My work differs from these volumes in two major ways. First, while committed to
 theoretical concerns---that is, ideas that can guide or challenge the way we
 study texts, their production, their meaning, and their impact on the people
 who use and produce them---my argument also dwells in the realm of traditional
 philosophy. Second, my argument is deeply grounded in the fields of software
-and electrical engineering. Consider my first chapter called  "We Have Always
+and electrical engineering. Consider my first chapter, called "We Have Always
 Been Digital," which begins with a discussion of "digital representation" as
 philosophers Nelson Goodman and John Haugeland define it in the analytic
 tradition. I proceed by testing their intuitions on the basis of something
@@ -131,7 +127,7 @@ called the "Soap Opera Effect" particular to modern liquid crystal displays
 frame interpolation." The resulting analysis clarifies the various (and often
 conflicting) meanings of the word digital in media studies and in the digital
 humanities. Similarly, in the second chapter of the book, "Literature Down to
-the Pixel," I argue that universal Turing Machines, usually viewed as
+the Pixel," I argue that universal Turing machines, usually viewed as
 algorithms, should be considered in the context of word processing, as devices
 that cannot quite shake the material legacy of paper and pencil.
 
@@ -166,13 +162,13 @@ that promise mutual enrichment.
 
 As is the case for most of my work, "Plain Text" appeals to several key
 audiences. The first comprises media history and theory scholars interested in
-history of data and computing in the twentieth century. The second audience can
-be located in literary fields of study, among scholars seeking to understand
-the impact of technology on literary theory and practice. Finally, the book
-targets the broader audience of digital humanities and information science
-practitioners (particularly in the field of human-computer interaction),
-actively engaged in using and creating textual interfaces that shape
-contemporary reading and writing praxis.
+the history of data and computing in the twentieth century. The second audience
+can be located in literary fields of study, among scholars seeking to
+understand the impact of technology on literary theory and practice. Finally,
+the book targets the broader audience of digital humanities and information
+science practitioners (particularly in the field of human--computer
+interaction), actively engaged in using and creating textual interfaces that
+shape contemporary reading and writing praxis.
 
 As a former software engineer and now a literary scholar, I make sure that my
 research bridges the (perceived) gap between the "two cultures" of science and
@@ -181,8 +177,8 @@ the humanities. My courses at Columbia University, which include Code & Poetry
 for Journalists (Summer 2014), attract a diverse body of students from various
 disciplines (and particularly from departments of English, history, and
 computer science). I lecture widely in language departments, in schools of
-engineering, in front of publishers, architects, artists, and librarians. As
-one of the founders of Columbia's Group for Experimental Methods in the
+engineering, and in front of publishers, architects, artists, and librarians.
+As one of the founders of Columbia's Group for Experimental Methods in the
 Humanities, I encourage my students to consider technology reflectively,
 combining critical theory with a measure of critical practice.
 
@@ -190,10 +186,10 @@ In this spirit, my group has organized workshops on online security for
 activists; we have reached out to an online community of engineers to help us
 write media history as a project in citizen humanities; and we are set to teach
 critical making at Rikers Island this summer. I am inspired in these endeavors
-by Digital Humanities labs across the country, by my colleagues at the Columbia
-University Department of English and at Harvard University's Berkman Center for
-Internet & Society, where I am an active faculty associate. I keep these
-manifold audiences in mind as I complete "Plain Text." The book exposes
+by Digital Humanities labs across the country and by my colleagues at the
+Columbia University Department of English and at Harvard University's Berkman
+Center for Internet & Society, where I am an active faculty associate. I keep
+these manifold audiences in mind as I complete "Plain Text." The book exposes
 intellectual frameworks that bolster my research and teaching activities. I
 write to strengthen these projects and to give back to the community that has
 supported me so generously. I hope to rely on the same good will and support
@@ -216,7 +212,7 @@ keyboard. Such a blend of theory and practice defines my method.
 
 I am writing the book as a traditional volume, expounding a sustained thesis
 across seven chapters (along with a short introduction). At this point, I am
-aiming for a manuscript of around 80,000 words (non including citations),
+aiming for a manuscript of around 80,000 words (not including citations),
 allotting around 10,000 to 12,000 words per chapter.
 
 While "Plain Text" is a work on the history and philosophy of computational
@@ -225,30 +221,30 @@ In writing it, I continually test my intuitions against the reality of
 contemporary computing devices such as laptops, servers, and mobile phones. It
 is one thing, for example, to maintain that "the medium is the message," and
 quite another to ask how different modalities like sound, image, and video are
-encoded on the level of the operating system (Chapter 4). Similarly, the
-difference between binary and plain-text formats can be best explored by
+encoded at the level of the operating system (Chapter 4). Similarly, the
+difference between binary and plain text formats can be best explored by
 peeking "under the hood" of an Adobe Acrobat file, as I do in Chapter 3.
 
-Although not required for the understanding of the book, I would like to
-include a supplementary technical appendix that expands on the theoretical
-insight from each chapter with "experiments" that can be done in the command
-line (a textual human-computer interface built into most operating systems).
-These exercises could exist on paper (as a written appendix) or as a
-complementary website. Training in computational methods often begins with
-packaged tools that obscure the underlying complexity of the method. For
-example, while writing a relatively complex piece of code, a journalist in my
-class once confessed to being confused about the relationship between files and
-folders. "Plain Text" is a book about files and folders: it is about textuality
-as encoded in specific ways on machines that have a shared engineering
-pedigree. The hidden (but very much intended) side-effect of "Plain Text" is a
-measure of theoretical familiarity with Unix-based operating systems.
-Sophisticated understanding of the political issues around computation, be they
-"open access," "freedom of information," or "online privacy," begin at that
-system level. The book's technical appendix, although not required for the
+Although not required for an understanding of the book, I would like to include
+a supplementary technical appendix that expands on the theoretical insight from
+each chapter with "experiments" that can be done in the command line (a textual
+human--computer interface built into most operating systems). These exercises
+could exist on paper (as a written appendix) or as a complementary website.
+Training in computational methods often begins with packaged tools that obscure
+the underlying complexity of the method. For example, while writing a
+relatively complex piece of code, a journalist in my class once confessed to
+being confused about the relationship between files and folders. "Plain Text"
+is a book about files and folders: it is about textuality as encoded in
+specific ways on machines that have a shared engineering pedigree. The hidden
+(but very much intended) side effect of "Plain Text" is a measure of
+theoretical familiarity with Unix-based operating systems. Sophisticated
+understanding of the political issues around computation, be they "open
+access," "freedom of information," or "online privacy," begin at that system
+level. The book's technical appendix, although not required for an
 understanding of the argument of the book, could help build a practical
 foundation for the ideas advanced within.
 
-In addition, the manuscript contains 15-20 tables and illustrations. I have
+In addition, the manuscript contains 15--20 tables and illustrations. I have
 received a modest subvention to offset any costs associated with publishing and
 preparation of the manuscript.
 
@@ -279,46 +275,46 @@ superseded by the distinction between binary and plain text formats.
 ### Chapter 2: Literature Down to the Pixel
 
 Having established the grounds for digital textuality in the history of
-character encoding, I begin the work of moving from "low level" first-order
+character encoding, I begin the work of moving from "low-level" first-order
 concepts such as "text" and "code" up to second-order concepts such as
 "literature" and "canon." The chapter starts by developing a theory of
 "microanalysis," the closest possible kind of reading that pays attention to
 the material contexts of knowledge production. I argue here that the concern
 with value in literary criticism detracts from the explicit movement of control
 and power intimately connected to digital textuality. Unlike scholars in the
-foucauldian tradition (who often trace the machinations of power through
+Foucauldian tradition (who often trace the machinations of power through
 discourse, on the level of representation), I concentrate my analysis on
-mechanisms of control at the material roots of literary practice. In doing a
-media history through primary sources on early development of modern computing,
-I show the explicit admixture of content and code: one meant to communicate
-messages to humans and the other to program universal machines. This history is
-not entirely critical: rather, it reveals an alternative genealogy of
-computing, contrary to the widely accepted notions of computer as a device for
-reductive "mathesis" (in the words of Johanna Drucker). I conclude to argue
-that Turing machines were anticipated not just by the Babbage calculator, but
-also by a series of advances in communications, word processing, and media
-storage. A notion of text (as opposed to number) is hence "baked into" the
-system.
+mechanisms of control at the material roots of literary practice. In presenting
+a media history through primary sources on early development of modern
+computing, I show the explicit admixture of content and code: one meant to
+communicate messages to humans and the other to program universal machines.
+This history is not entirely critical: rather, it reveals an alternative
+genealogy of computing, contrary to the widely accepted notions of the computer
+as a device for reductive "mathesis" (in the words of Johanna Drucker). I
+conclude by arguing that Turing machines were anticipated not just by the
+Babbage calculator, but also by a series of advances in communications, word
+processing, and media storage. A notion of text (as opposed to number) is hence
+"baked into" the system.
 
 ### Chapter 3: Laying Bare the Device
 
-The chapter begins in outlining a recent discussion on surface reading.  What
-lies beneath the text? I ask. The question leads to a discussion about the
-difference between form and content---two theoretical concepts crucial to
+The chapter begins by outlining a recent discussion on surface reading. I ask:
+What lies beneath the text? The question opens up into a discussion of the
+distinction between form and content: two theoretical concepts crucial to
 understanding the difference between plain text and binary file formats. I find
-that going back to Plato and Hegel, "form" was at times used to indicate
+that, going back to Plato and Hegel, "form" was used at times to indicate
 physical structure and at other times to indicate immaterial categories in the
-ideal realm. In the chapter's middle section, I consider the notion of
-"ephemeral" textuality. A case study in removable storage elucidates the
-movement of text from human-legible inscription on page (and punch card) to
-invisible inscription embedded into magnetic media as electrical charge. The
-case study unfolds the distinction between print (in which matter, form, and
-content lie flat) and screen (where the three layers occupy physically distinct
-strata, providing only the illusion of flattened textuality). The discussion
-concludes with a stark image, visually illustrating the contrast between plain
-text and binary formats. To produce the image, I inject malicious code into an
-Adobe Acrobat file, showing the contrast between surface text and its
-underlying magnetically-bound bit structure.
+ideal realm. The chapter's middle section takes up the notion of "ephemeral"
+textuality. A case study in removable storage elucidates the movement of text
+from human-legible inscription on the page (and punch card) to invisible
+inscription as electrical charge embedded into magnetic storage. The case study
+unfolds the distinction between print (in which matter, form, and content lie
+flat) and screen (where the three layers occupy physically distinct layers,
+providing only the illusion of flattened textuality). The discussion concludes
+with a stark image, illustrating the difference between plain text and binary
+formats visually. To produce the image, I inject malicious code into an Adobe
+Acrobat file, showing the contrast between surface text and its underlying
+magnetically bound bit structure.
 
 ### Chapter 4: Media are Not the Message
 
@@ -329,19 +325,19 @@ McLuhan, I examine several models of communication, including ones proposed by
 semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jakobson),
 engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
 von Uexküll, Gregory Bateson, and Thomas Sebok). Corresponding to the mediating
-of role of "form" in the previous chapter, I find that the "mode" of the
-written communication act does something akin to "attuning" the reader
-(receiver) to the encoding of the message (and to the corresponding cultural
-techniques of apprehension). At the center of the chapter is a case study based
-on a real-world text "written" by a troupe of Sulawesi macaques as part of an
-art project at Britain's Paignton Zoo. (The text was subsequently published
-under the title *Notes Towards The Complete Works of Shakespeare*, Vivaria
-Press, 2002). The possibility of a randomly generated zoo-text points to the
+role of "form" in the previous chapter, I find that the "mode" of the written
+communication act does something akin to "attuning" the reader (receiver) to
+the encoding of the message (and to the corresponding cultural techniques of
+apprehension). At the center of the chapter is a case study based on a
+real-world text "written" by a troupe of Sulawesi macaques as part of an art
+project at Britain's Paignton Zoo. (The text was subsequently published under
+the title *Notes towards the Complete Works of Shakespeare*, Vivaria Press,
+2002.) The possibility of a randomly generated zoo-text points to the
 conclusion of the chapter, containing an argument against a "systems"
 definition of information. In what Shannon calls a "strange feature" of this
-communication theory, information is defined as amount of "freedom" or entropy
-in the system. By contrast, I want to insist on an agency-based model of
-information processing, in which texts mean things *for* free and conscious
+communication theory, information is defined as the amount of "freedom" or
+entropy in the system. By contrast, I want to insist on an agency-based model
+of information processing, in which texts mean things *for* free and conscious
 beings.
 
 ### Chapter 5: Recursive Encounters with Oneself
@@ -366,14 +362,14 @@ failures of hypertextuality in the 1990s, and (3) contemporary paradigms in
 network analysis. In each of these historically distinct theoretical moments, I
 find a similar promise of emergence: the idea that order can appear
 spontaneously as the aggregate result of simple interactions at the level of
-the system (the idea also at the core of Callon and Latour's actor-network
+the system (the idea also at the core of Callon and Latour's actor--network
 theory). Once again, I make the rhetorical move against the systems view, both
 generally, and particularly as that view is applied in literary studies. In
 examining the heavily hyperlinked and intertextual essays of Gwern, a
 mysterious contemporary "researcher, self-experimenter, and writer," I contrast
 the structure of links to that of lists. A discussion on "linked lists" in
-computer science leads to a conclusion that relates to aesthetics of code and
-to the role of an individual in relation to the assemblage.
+computer science leads to a conclusion that relates to the aesthetics of code
+and to the role of an individual in relation to the assemblage.
 
 ### Chapter 7: Engineering for Dissent
 
@@ -384,15 +380,15 @@ International Telecommunication Union (and later international bodies governing
 the exchange of information across state borders) display unease with
 encrypted, non-human-readable formats of information exchange. A theoretical
 treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
-and Golumbia concludes with a discussion about the subject's role in actively
+and Golumbia concludes with a discussion about a subject's role in actively
 shaping material conditions of media being. As documents reflecting
-externalized states of consciousness become increasingly more transparent, they
-are susceptible to increased surveillance and control. Plain text allows
-political subjects to decouple externalized mental states from mechanisms of
-governance. (In other words, to decide actively when to opt in and when to opt
-out). This affordance is not, however, a deterministic property of literature,
-the Internet, or any other information exchange system. Rather, the design of
-complex systems must itself become critical practice, which, in complement to
+externalized states of consciousness become increasingly transparent, they are
+susceptible to increased surveillance and control. Plain text allows political
+subjects to decouple externalized mental states from mechanisms of governance.
+(In other words, to decide actively when to opt in and when to opt out.) This
+affordance is not, however, a deterministic property of literature, the
+internet, or any other information exchange system. Rather, the design of
+complex systems must itself become critical practice, which, complementing
 critical theory, can actively engineer for textual mechanisms that make
 individual dissent possible.
 
@@ -424,6 +420,6 @@ several classes on the subject, which helped refine my thinking and provided
 further notes and primary material. As of today, the manuscript stands at
 roughly 55,000 words, with three chapters completed in their draft form. I am
 writing actively and plan to have a first draft of the manuscript ready by
-June-July of 2015. I am on leave next academic year, having cleared my
+June--July of 2015. I am on leave next academic year, having cleared my
 schedule, with plans of dedicating all of my attention to seeing this project
 through to publication.
