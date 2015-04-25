@@ -2421,7 +2421,7 @@ Let's dwell on the history of that distinction between text's physical
 characteristics and its signifying strategies for a few paragraphs. I'll give
 you the standard (if abridged) version first, and then return to revise and to
 complicate. The traditional binary model, as I will argue, does not
-sufficiently capture the grounds for literary microanalysis, which require an
+sufficiently capture the grounds for literary microanalysis, which requires an
 understanding of form both as formula and device.
 
 Like many foundational dichotomies in the Western tradition, the distinction
@@ -2571,7 +2571,17 @@ stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
 the constraints of the deterministic physical universe, yet gaining a measure
 of solidity in its concrete and tangible instantiation.
 
-Free *and* concrete! Where does that leave literary criticism? Not all text is
+Critics from Aristotle to Samuel Coleridge, W.K. Wimsatt, and John Crowe
+Ransome puzzled at the dual status of literature between the universal and the
+concrete. "Poetry tends to express the universal" Aristotle famously wrote in
+his *Poetics*, but also that it "imitation action." For Coleridge, the
+excellence of Shakespeare's works consisted in "that union and interpenetration
+of the universal and the particular [@coleridge_friend_1969, 457]." Wimsatt
+cites these passages to conclude that "in one terminology or another this idea
+of a concrete universal is found in most metaphysical aesthetic of the
+eighteenth and nineteenth centuries [@wimsatt_verbal_1954, 72]."
+
+Where does that leave literary criticism? Not all text is
 art, of course. But if critics are to believe in the potential for textual
 expression to reach such lofty Hegelian heights, they must also place value on
 the act of interpretation. The Hegelian literary critic reaches beyond the
