@@ -2400,7 +2400,7 @@ binary formats. To produce the image, I inject malicious code into an Adobe
 Acrobat file, showing the contrast between surface text and its underlying
 magnetically bound bit structure.
 
-### 3.1 Form as Formula and Device
+### 3.1 Form as Ideal and Appearance
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -2491,112 +2491,13 @@ the "universal lasting ideal" of all shuttles: exactly the opposite of
 *eidos* and *phantazomenōn* were reasonably translated into English as "form",
 indicating a fundamental overloading of the concept.[^ln11-plato]
 
-[^ln11-plato]: My reading of Plato would be impossible without help from the
-Perseus Digital Library Project, which allows the reader to explore the Greek
-originals side-by-side with translations, maps, dictionaries, and other
-parallel texts. Sources consulted on the Plato's theory of forms include
-@rist_platos_1975, @woods_form_1993, @dixsaut_ousia_1991,
-@hegel_philosophy_1870. I would also like to thank Stathis Gourgouris for his
-generous comments on these passages.
+The situation is made worse by the fact that the very word "form" in plain
+English is somewhat of a self antonym. According to the Oxford English
+Dictionary, it means "the visible aspect of a thing," but also "the formative"
+and "essential determinate principle of a thing," and in its more obsolete
+meaning "a formula, model, type, pattern, and example."
 
-Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
-of his struggle with the Platonic concept of form. He writes, "The Idea is
-nothing but what is current with us under the name of the Universal, when this
-word is not taken in the sense of *formal* Universal---which is only a property
-of things---but as the in-and-for-itself existent, as the essence, as that
-which alone is true.  We translate the Greek word *eidos* by 'genus' or
-'species' [*Gattung* or *Art* in German] [...] When 'genus' or 'species' is
-seized as a number of similar determinations collected by reflection from
-several individuals, to serve as a *mark* for the convenience of the
-understanding, then we have the Universal in quite an external [superficial]
-form [hegel_philosophy_1870, 250]." For Hegel, *eidos* means something like
-combination between internal form and external appearance. It is the universal
-in its contingent articulation, which he dubs the "formal universal."
-
-For Hegel, the formal universal functions as an indeterminate mediator between
-the ideal and the material worlds, combining it properties of both the ideal
-and the material. It is found in the form of a thing, like a chair, for
-example, which although an abstracted structure, still nevertheless belongs to
-the chair as a physical property. The true idea of a "genus" or "species," in
-the very taxonomic category of "chairs," does not and cannot belong to any
-given chair as a property, according to Hegel. Instead, the ideal determines
-all real-world members of its "genus." The formal ideal has a bit of both shape
-and category, being at the same time an "idea" and a "physical property." The
-"formal universal" mediates between matter and spirit. When we think of
-Shakespeare's *Hamlet*, for example, whatever is meant by "the form" of the
-play belongs neither to its material substance (pixel or paper) nor to the
-ideational content of the work. The "formal universal" (or simply form) lies
-somewhere in-between the two worlds: it is in the shape of the letters, in the
-structure of the narrative, and in the prosody of the word. The form in that
-sense is indeterminate, because we do not quite know which of these elements
-belong to the content of the play and which are the contingent material
-artifacts of the printing process: the way the fonts look, for example or the
-way lines break on the page. Some matters of form matter to us as readers (line
-breaks), and others do not (font kerning).
-
-Elsewhere, Hegel gives perhaps the paradigmatic expression to the dichotomy
-between form and content in the literature on aesthetics. In his *Lectures on
-Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
-between its ideational, spiritual content and "the configuration of sensuous
-material [@hegel_hegels_1998, 70]." Whole books have been written on Hegel's
-rather technical and sometimes idiosyncratic vocabulary. Rather than define
-terms precisely, Hegel likes to bombard his reader with semantic cognates. On
-the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
-(*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
-(*Geist*). All of these convey a movement inward and a location beyond the
-physical world, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
-*Verstand*). On the side of "form" (same in German), Hegel accumulates words
-like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
-curves, surfaces, carvings, colors, tones, word sounds, and generally matter or
-material (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
-*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. The semantic
-cluster related to "forms" conveys physical (palpable, of this world) and
-outward-facing properties, available for examination to the senses (*Sinne*).
-
-In comparing the dominant aesthetic modes of classical and Romantic periods,
-Hegel posits Romanticism as an art that seeks to disengage itself from matter,
-reaching the realm of pure self-reflective spirit. Romanticism, in his words,
-is "freed from this immediate existence which must be set down as negative,
-overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
-writes: "Poetry is the universal art of the spirit which has become free in
-itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space [sic] and the
-inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
-"inwardness celebrates its triumph over the external and manifests its victory
-in and on the external itself, whereby what is apparent to the senses alone
-sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
-way, triumph over the external, material world, reaching, at its apex, the
-stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
-[@hegel_werke:_1986, ???]. The idea overcomes matter to become both free from
-the constraints of the deterministic physical universe, yet gaining a measure
-of solidity in its concrete and tangible instantiation.
-
-Critics from Aristotle to Samuel Coleridge, W.K. Wimsatt, and John Crowe
-Ransome puzzled at the dual status of literature between the universal and the
-concrete. "Poetry tends to express the universal" Aristotle famously wrote in
-his *Poetics*, but also that it "imitation action." For Coleridge, the
-excellence of Shakespeare's works consisted in "that union and interpenetration
-of the universal and the particular [@coleridge_friend_1969, 457]." Wimsatt
-cites these passages to conclude that "in one terminology or another this idea
-of a concrete universal is found in most metaphysical aesthetic of the
-eighteenth and nineteenth centuries [@wimsatt_verbal_1954, 72]."
-
-Where does that leave literary criticism? Not all text is
-art, of course. But if critics are to believe in the potential for textual
-expression to reach such lofty Hegelian heights, they must also place value on
-the act of interpretation. The Hegelian literary critic reaches beyond the
-external, ephemeral, and material facade to uncover internal and eternal
-metaphysical truth within. Stephen Best and Sharon Marcus describe this mode of
-literary interpretation as "symptomatic reading," a strategy that seeks to
-uncover latent and concealed meaning beneath the evident surface of the text.
-For a Marxist critic like Terry Eagleton or Frederic Jameson that latent
-meaning may have something to do with hidden machinations of capital and
-ideology. The psychologically-minded critic reads in search of hidden drives,
-desires, or cognitive structures. In contrast to such symptomatic reading,
-Marcus and Best describe several contemporary theoretical trends that run
-counter to the Hegelian tradition, preferring instead to read at the surface of
-the text: descriptive reading, reading for form, for material, or "just reading
-[@best_surface_2009, 1-12]."
+### 3.2 Device in the Sense of Gadget and Formula
 
 The history of literary scholarship is punctuated by these moments of revolt
 against reading for latent content. In the late 1960s, Susan Sontag wrote about
@@ -2768,7 +2669,58 @@ meccanico e la sensibilità numerica]
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
+### 3.3 Surface Reading
+
+In comparing the dominant aesthetic modes of classical and Romantic periods,
+Hegel posits Romanticism as an art that seeks to disengage itself from matter,
+reaching the realm of pure self-reflective spirit. Romanticism, in his words,
+is "freed from this immediate existence which must be set down as negative,
+overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
+writes: "Poetry is the universal art of the spirit which has become free in
+itself and which is not tied down for its realization to external sensuous
+material; instead, it launches out exclusively in the inner space [sic] and the
+inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
+"inwardness celebrates its triumph over the external and manifests its victory
+in and on the external itself, whereby what is apparent to the senses alone
+sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
+way, triumph over the external, material world, reaching, at its apex, the
+stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
+[@hegel_werke:_1986, ???]. The idea overcomes matter to become both free from
+the constraints of the deterministic physical universe, yet gaining a measure
+of solidity in its concrete and tangible instantiation.
+
+Generations of critics, from Aristotle to Samuel Coleridge, W.K. Wimsatt, John
+Crowe Ransome, Theodor W. Adorno, Hans-Georg Gadamer, Slavoj Žižek puzzled at
+the dual status of literature between the universal and the concrete. "Poetry
+tends to express the universal" Aristotle famously wrote in his *Poetics*, but
+also that it "imitation action." For Coleridge, the excellence of Shakespeare's
+works consisted in "that union and interpenetration of the universal and the
+particular [@coleridge_friend_1969, 457]." Wimsatt cites these passages to
+write that "in one terminology or another this idea of a concrete universal is
+found in most metaphysical aesthetic of the eighteenth and nineteenth centuries
+[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
+poem there is something "which can never be expressed in other terms." Like
+irrational numbers, poetry and poetic language for Wimsatt can only be
+approached at their limit, not as "all it would be, yet all that can be had
+[@wimsatt_structure_1947, 280]."
+
+Where does that leave literary criticism? If critics are to believe in the
+potential for textual expression to reach such lofty Hegelian heights, they
+must also place value on the act of interpretation. The Hegelian literary
+critic reaches beyond the external, ephemeral, and material facade to uncover
+internal and eternal metaphysical truth within. Stephen Best and Sharon Marcus
+describe this mode of literary interpretation as "symptomatic reading," a
+strategy that seeks to uncover latent and concealed meaning beneath the evident
+surface of the text. For a Marxist critic like Terry Eagleton or Frederic
+Jameson that latent meaning may have something to do with hidden machinations
+of capital and ideology. The psychologically-minded critic reads in search of
+hidden drives, desires, or cognitive structures. In contrast to such
+symptomatic reading, Marcus and Best describe several contemporary theoretical
+trends that run counter to the Hegelian tradition, preferring instead to read
+at the surface of the text: descriptive reading, reading for form, for
+material, or "just reading [@best_surface_2009, 1-12]."
+
+### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 Let's try it again, then. What lies beneath the text? We are accustomed to
 thinking about that question metaphorically and answer in accord: meaning,
@@ -2829,7 +2781,7 @@ works," "to distribute copies," and "to perform and to display publicly"
 conduct, embodied in practices of quotation, citation, and attribution (or lack
 thereof, as plagiarism).
 
-### 3.3 CITED
+### 3.5 Smart Contracts
 
 In practice, the immateriality of digital text (and image) has served to erode
 the efficacy of copyright restrictions as a system of laws and regulations. The
@@ -2950,7 +2902,7 @@ obscuring material divergence beneath.
 
 [ln3-root]: @stoltz_is_2013
 
-### 3.4 
+### 3.6 Submerged Text
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
@@ -2962,7 +2914,7 @@ I offer the following historical snapshots and exemplary devices as
 illustrations that move us roughly from tail end of the Gutenberg galaxy into
 the present age:
 
-#### A: Removable storage media and automation, 1725-1964.[ln2-loom]
+*A. Removable storage media and automation, 1725-1964.[ln2-loom]*
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent, simply titled
@@ -3005,7 +2957,7 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
 
-#### B: Magnetic tape, 1888-1968.
+*B: Magnetic tape, 1888-1968.*
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
@@ -3074,7 +3026,7 @@ slate.
 [^ln2-magnet]: See for example @ohmori_memory_2015 and
 @stefanita_magnetism_2012, 1-69.
 
-#### C: Screen, 1968-today
+*C: Screen, 1968-today*
 
 By decoupling input and output, magnetic storage media affords the injection of
 time and space, in arbitrary intervals, between the process of inscription and
@@ -3139,7 +3091,6 @@ itself lightly to the retina. The system users that the screen liberates them
 material confines of print. One user reports (and I reproduce the reports
 verbatim, since the formatting matters here):
 
-```
 1B2B1 "To accommodate and preserve a thought or
 piece of information that isn't related to the work
 of the moment, one can very quickly and easily
@@ -3155,28 +3106,23 @@ such notes, to modify or add to any of them.
 1B2B3 "As any such miscellaneous thought develops,
 it is easy (and delightful) to reshape the structure
 and content of its discussion material.
-```
 
 Engelbart, interested in collecting empirical phenomenological accounts of the
 system, records what must count as one of the most evocative passages to appear
 on the pages of an NASA (or any) technical report. It starts out innocently
 enough, in the Results and Discussion section an anonymous user write:
 
-```
 1B4 "I find that I can express myself better, if I can
 make all the little changes and experiments with wording
 and structure as they occur to me." [Here the user
 experiments a little with using structural decomposition
 of a complex sentence.]
 
-```
-
 A deconstruction indeed follows, as the author begins to deviate from the
 conventions of engineering discourse. The numbered passages, and unexpected
 enjambment heightens the staccato quality of the prose, that at times reaches
 towards the lyric:
 
-```
 1B4A "I find that I write faster and more freely,
 
     1B4A1 "pouring thoughts and trial words on the
@@ -3197,12 +3143,10 @@ towards the lyric:
         the first unworried attempt at a way to express
         something turn out to be satisfactory, or at
         least to require only minor touch up.
-```
 
 Strange. Engelbart is the author of the report. But perhaps the user was
 invited to edit? Who is the author here.
 
-```
 1B4A4 "Fining that  where I might otherwise 
 hesitate in search of the right word, I now pour out
 a succession of potentially appropriate words,
@@ -3253,11 +3197,9 @@ spirit.
         1B4B4A "and my conviction that his is but a
         peek at what is to come soon.
 
-```
-
 Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
-### 3.5 Spooky Action at a Distance
+### 3.7 Spooky Action at a Distance
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
@@ -3364,6 +3306,14 @@ and silicon does not merely claim to, but actually does transform surfaces.
 Critical reading must therefore begin with reclaiming the underlying material
 conditions of meaning making. The answer to the machine remains in the machine.
 
+[^ln11-plato]: My reading of Plato would be impossible without help from the
+Perseus Digital Library Project, which allows the reader to explore the Greek
+originals side-by-side with translations, maps, dictionaries, and other
+parallel texts. Sources consulted on the Plato's theory of forms include
+@rist_platos_1975, @woods_form_1993, @dixsaut_ousia_1991,
+@hegel_philosophy_1870. I would also like to thank Stathis Gourgouris for his
+generous comments on these passages.
+
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
 
@@ -3431,6 +3381,8 @@ line (1979).3 It is likely that Beckett wanted to protect the chronological
 integrity of the plot by shifting the time of the play forward. What he could
 not have predicted is the increasing pace of technological innovation in the
 twentieth century.
+
+"Computer assisted tracing of text evolution"
 
 These modest annotations to Beckett's work are not meant to be facetious. The
 multiplicity of Krapp's fictional selves is made logically possible by the
