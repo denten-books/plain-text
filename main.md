@@ -2428,14 +2428,14 @@ resemble (or not) a field? The writer's language could draw our attention to
 the strangeness of the analogy were it to mention "a grassy field of study."
 The unexpected transference of properties accentuates and renews the familiar
 image. The image is "made strange" again, therefore Shklovsky's literary
-"estrangement" as a technique.
+"estrangement" as technique.
 
 An author can further "make obvious" the metaphor in drawing attention to its
 implicit, inner dynamics. Vladimir Nabokov, a writer conspicuously aware of the
 formalist theoretical heritage, makes use of this move consistently and with
-relentless and clinical precision. In his short story "A Guide to Berlin," to
-which D.  Barton Johnson attributes our first glimpse at Nabokov's "mature
-virtuoso style," the narrator describes. Nabokov writes:
+relentless clinical precision. In the short story "A Guide to Berlin," to which
+D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
+style [@johnson_guide_1979, 354]," Nabokov writes:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
@@ -2461,11 +2461,41 @@ narrator "probes the glaze" of the street, penetrating through to the surface
 level and in this also finds a palindrome, which, not only resembles the pipes
 visually, but is in itself a surface-revealing inscription that in some sense
 literally makes the pipes visible again, past the snow. It is impossible for
-the pipe to reach beyond the page, as representation---but the text also
-invites the reader to repeat after the soft consonance and round vowels,
-shaping the body (mouth and lips) to resemble, if only in part, a pipe of
-sounds. And for a moment, the paper-bound representation transcends the page.
-The reader enacts the "making of the literary technique obvious," made obvious.
+the pipe to reach beyond the page as representation---but the text also draws
+attention to the sound structure, inviting the reader to mouth after the soft
+consonance and round vowels, and thus shaping the body in accordance with the
+image: a pipe of sounds. The moment of bodily reenactment frees paper-bound
+representation from the confines of the medium. The reader makes the "making of
+the literary technique obvious," obvious.
+
+What lies beneth a text? A recent conversation on the merits of surface reading
+(as appossed to reading for hidden meaning) has rekindled an interest in the
+archeological metaphor, which understands textuality in terms of depth and
+surface. Two types of reading become evident in this model. Where the
+"symptomatic" literary critic reaches beyond the external, ephemeral, and
+material facade to uncover internal and eternal metaphysical truth within,
+Stephen Best and Sharon Marcus describe a constellation of reading practices
+concerned with "what is evident, perceptible, apprehensible in text; what is
+neither hidden nor hiding; what, in the geometrical sense, has length and
+breadth but no thickness, and therefore covers no depth [@best_surface_2009,
+9]."
+
+describe this mode of literary interpretation as
+"symptomatic reading," a strategy that seeks to uncover latent and concealed
+meaning beneath the evident surface of the text. For a Marxist critic like
+Terry Eagleton or Frederic Jameson that latent meaning may have something to do
+with hidden machinations of capital and ideology. The psychologically-minded
+critic reads in search of hidden drives, desires, or cognitive structures. In
+contrast to such symptomatic reading, Marcus and Best describe several
+contemporary theoretical trends that run counter to the Hegelian tradition,
+preferring instead to read at the surface of the text: descriptive reading,
+reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
+Best and Marcus further identify several types of surface reading: reading for
+material surface, reading for verbal structure, reading for affect, reading for
+description, reading for pattern, and finally, reading for literal meaning or
+"just reading."
+
+
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
@@ -2500,38 +2530,22 @@ irrational numbers, poetry and poetic language for Wimsatt can only be
 approached at their limit, not as "all it would be, yet all that can be had
 [@wimsatt_structure_1947, 280]."
 
-Where does that leave literary criticism? If critics are to believe in the
-potential for textual expression to reach such lofty Hegelian heights, they
-must also place value on the act of interpretation. The Hegelian literary
-critic reaches beyond the external, ephemeral, and material facade to uncover
-internal and eternal metaphysical truth within. Stephen Best and Sharon Marcus
-describe this mode of literary interpretation as "symptomatic reading," a
-strategy that seeks to uncover latent and concealed meaning beneath the evident
-surface of the text. For a Marxist critic like Terry Eagleton or Frederic
-Jameson that latent meaning may have something to do with hidden machinations
-of capital and ideology. The psychologically-minded critic reads in search of
-hidden drives, desires, or cognitive structures. In contrast to such
-symptomatic reading, Marcus and Best describe several contemporary theoretical
-trends that run counter to the Hegelian tradition, preferring instead to read
-at the surface of the text: descriptive reading, reading for form, for
-material, or "just reading [@best_surface_2009, 1-12]."
 
 ### 3.1 Form as Ideal and Appearance
 
-What lies beneath a text? In talking about texts of all kinds, literary
-scholars and computer scientists often make a distinction between form and
-content. "Classical art, in a word, stands for form," R.G. Collingwood wrote
-in 1929, and "romantic art for content [@collingwood_form_1929, 335]." In a
-much more recent work on computational text generation, Kathleen McKeown writes
-that to produce discourse, writers and speakers "must decide what to say and
-how to present it effectively." A machine that generates text should, among
-other things, be able to determine "content and textual shape" of what needs to
-be said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
-"Print is Flat, Code is Deep," Katherine Hayles writes about "the interplay
-between a text's physical characteristics and its signifying strategies"
-[@hayles_print_2004, 72]. In each case, the model underlying textual production
-involves the bifurcation between some notions of shape and meaning, or form and
-content.
+In talking about texts of all kinds, literary scholars and computer scientists
+often make a distinction between form and content. "Classical art, in a word,
+stands for form," R.G. Collingwood wrote in 1929, and "romantic art for content
+[@collingwood_form_1929, 335]." In a much more recent work on computational
+text generation, Kathleen McKeown writes that to produce discourse, writers and
+speakers "must decide what to say and how to present it effectively." A machine
+that generates text should, among other things, be able to determine "content
+and textual shape" of what needs to be said or written [@mckeown_text_1992, 1].
+Similarly, in her influential essay "Print is Flat, Code is Deep," Katherine
+Hayles writes about "the interplay between a text's physical characteristics
+and its signifying strategies" [@hayles_print_2004, 72]. In each case, the
+model underlying textual production involves the bifurcation between some
+notions of shape and meaning, or form and content.
 
 Let's dwell on the history of that distinction between text's physical
 characteristics and its signifying strategies for a few paragraphs. I'll give
