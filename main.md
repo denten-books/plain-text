@@ -2400,7 +2400,7 @@ binary formats. To produce the image, I inject malicious code into an Adobe
 Acrobat file, showing the contrast between surface text and its underlying
 magnetically bound bit structure.
 
-### 3.1 Surface Reading
+### 3.1 Literary Device
 
 As I write these words, the fire alarm in the hallway outside of my apartment
 beeps every eight minutes or so. And at every twenty minutes, a pleasant female
@@ -2412,30 +2412,34 @@ legislation in its programming. We obtain the condition where the two meanings
 of code---as governance and program instruction---coincide. Code equals code.
 
 These considerations are relevant as we consider the production of text at the
-level of the device. The formal concept of a "device," as I will explain later,
-widely used in literary studies, is an artifact of an unfortunate translation
-from Russian. The word *priem* would be much better translated as "technique,"
-in the sense of "method," "approach," or "procedure." The word "device" can
-contain these meanings, but in modern usage, it usually carries a concrete
-connotation, as "an object, machine, or piece of equipment that has been made
-for a special purpose" (Merriam-Webster). "Laying bare the device," for
-Shklovsky, meant making the implicit metaphor explicit, particularly in the
-case where such metaphors are "stale," "automatic," and "naturalized," bereft
-of their original poetic and evocative power. One writes, for example, "a field
-of study," without much thought to the spatial metaphor, where Shklovsky would
-have the reader pause to consider the implications. In which sense ideas
-resemble (or not) a field? The writer's language could draw our attention to
-the strangeness of the analogy were it to mention "a grassy field of study."
-The unexpected transference of properties accentuates and renews the familiar
-image. The image is "made strange" again, therefore Shklovsky's literary
-"estrangement" as technique.
+level of the device. The formal concept of a "device," widely used in literary
+studies, is an artifact of an unfortunate translation from Russian. The word
+*priem* would be much better translated as "technique," in the sense of
+"method," "approach," or "procedure." The word "device" can contain these
+meanings, but in modern usage, it usually carries a concrete connotation, as
+"an object, machine, or piece of equipment that has been made for a special
+purpose" (Merriam-Webster). "Laying bare the device," for Shklovsky, meant
+making the implicit metaphor explicit, particularly in the case where such
+metaphors are "stale," "automatic," and "naturalized," bereft of their original
+poetic and evocative power. One could write, for example, "a field of study,"
+without much thought to the spatial metaphor. Viktor Shklovsky (who coined the
+phrase "laying bare the device [*priem*]") would have the reader pause to
+consider the implications. In which sense ideas resemble (or not) a field? The
+writer's language could draw our attention to the strangeness of the analogy
+were it to mention "a grassy field of study," or something along those lines.
+The unexpected transference of properties accentuates and renews a familiar
+image. How could a field of knowledge "fill" with grass? In such unusual
+juxtapositions the strangeness of the initial metaphor can be renewed and "made
+strange" again, in what Shklovsky calls the technique of poetic "estrangement
+[@shklovksy_sborniki_1917]."
 
-An author can further "make obvious" the metaphor in drawing attention to its
-implicit, inner dynamics. Vladimir Nabokov, a writer conspicuously aware of the
-formalist theoretical heritage, makes use of this move consistently and with
-relentless clinical precision. In the short story "A Guide to Berlin," to which
-D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
-style [@johnson_guide_1979, 354]," Nabokov writes:
+An performing estrangement the author "lays bare" or "makes obvious" the
+metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
+Nabokov, a writer conspicuously aware of the formalist theoretical heritage,
+makes use of this move consistently and with relentless clinical precision. In
+the short story "A Guide to Berlin," to which D. Barton Johnson attributes our
+first glimpse at Nabokov's "mature virtuoso style [@johnson_guide_1979, 354],"
+Nabokov writes:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
@@ -2454,48 +2458,48 @@ that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27].
 
 The tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical and recursively-structured conclusion.
-The pipe can be read as a metaphor for the device: usually found beneath the
-street, now idle and visible at the surface. Yet even when exposed, the device
-fails to captivate for long. Disused, it passes out sight, covered in snow. The
-narrator "probes the glaze" of the street, penetrating through to the surface
-level and in this also finds a palindrome, which, not only resembles the pipes
-visually, but is in itself a surface-revealing inscription that in some sense
-literally makes the pipes visible again, past the snow. It is impossible for
-the pipe to reach beyond the page as representation---but the text also draws
-attention to the sound structure, inviting the reader to mouth after the soft
-consonance and round vowels, and thus shaping the body in accordance with the
-image: a pipe of sounds. The moment of bodily reenactment frees paper-bound
+The pipe can be read as a metaphor for a literary device. Usually found beneath
+the street, it is now idle and visible at the surface. Yet even when exposed,
+the device fails to captivate for long. Disused, it passes out sight, covered
+in snow. The narrator "probes the glaze" of the street, penetrating through to
+the surface level and in this also finds a palindrome, which, not only
+resembles the pipes visually, but is in itself a surface-revealing inscription
+that in some sense literally makes the pipes visible again, through the snow.
+Although it impossible for the word "pipe" to reach beyond the page as
+representation, the text draws attention to the sound structure of metonymic
+inscription, inviting the reader to perform consonance and to pronounce the
+round vowels, thus shaping the body in accordance with the image: the body as a
+pipe of sound. The moment of bodily reenactment frees paper-bound
 representation from the confines of the medium. The reader makes the "making of
-the literary technique obvious," obvious.
+the literary technique obvious," obvious. In this lies the prevalent
+characteristic of Nabokov's mature work, which often seeks to transcend the
+page through sheer recursion and multilayeredness of literary technique.
 
-What lies beneth a text? A recent conversation on the merits of surface reading
-(as appossed to reading for hidden meaning) has rekindled an interest in the
-archeological metaphor, which understands textuality in terms of depth and
-surface. Two types of reading become evident in this model. Where the
-"symptomatic" literary critic reaches beyond the external, ephemeral, and
-material facade to uncover internal and eternal metaphysical truth within,
-Stephen Best and Sharon Marcus describe a constellation of reading practices
-concerned with "what is evident, perceptible, apprehensible in text; what is
-neither hidden nor hiding; what, in the geometrical sense, has length and
-breadth but no thickness, and therefore covers no depth [@best_surface_2009,
-9]."
+Yet for all the language games, literary tecnique in the sense used by the
+formalists remains bound to its medium. Were someone to ask: What lies beneath
+the text? The literal answer would have to be: paper or furniture. Reading for
+surface or depth at the level of representation can only begin to approach the
+material conditions of textual dissemination. Language contains traces of labor
+and implement implicit in the writing, binding, and the distribution of printed
+material. In this chapter, I would like to take one step further off of the
+page. My interests lie in books and documents as literal devices. When asked in
+the context of book history, the question of surface gains an instrumental
+dimension. Physical affordances of a liquid crystal display and magnetic
+storage differ drastically from those of goat skins or parchment. Yet surface
+representation maintains the illusion of self-similarity. I am concerned here
+with the particularities of that illusion. A poem, a novel, a physician's
+script, or a legal contract still look like their paper counterparts, but
+increasingly they behave like gadgets. These reading and writing gadgets do not
+mediate silently: they monitor, adjust, and control.
 
-describe this mode of literary interpretation as
-"symptomatic reading," a strategy that seeks to uncover latent and concealed
-meaning beneath the evident surface of the text. For a Marxist critic like
-Terry Eagleton or Frederic Jameson that latent meaning may have something to do
-with hidden machinations of capital and ideology. The psychologically-minded
-critic reads in search of hidden drives, desires, or cognitive structures. In
-contrast to such symptomatic reading, Marcus and Best describe several
-contemporary theoretical trends that run counter to the Hegelian tradition,
-preferring instead to read at the surface of the text: descriptive reading,
-reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
-Best and Marcus further identify several types of surface reading: reading for
-material surface, reading for verbal structure, reading for affect, reading for
-description, reading for pattern, and finally, reading for literal meaning or
-"just reading."
+Like the smoke alarm, literary, textual gadgets are governed and internalize
+government in ways that we have only began to comprehend. And as will become
+apparent in the later sections of this chapter, some structural decisions in
+the making of such devices are explicitly designed to resist tampering, access,
+and interpretation. They obscure the flows of code and codex under the familiar
+guise of surface representation.
 
-
+### 3.2 Form as Ideal and Appearance
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
@@ -2531,7 +2535,6 @@ approached at their limit, not as "all it would be, yet all that can be had
 [@wimsatt_structure_1947, 280]."
 
 
-### 3.1 Form as Ideal and Appearance
 
 In talking about texts of all kinds, literary scholars and computer scientists
 often make a distinction between form and content. "Classical art, in a word,
@@ -2993,7 +2996,7 @@ I offer the following historical snapshots and exemplary devices as
 illustrations that move us roughly from tail end of the Gutenberg galaxy into
 the present age:
 
-*A. Removable storage media and automation, 1725-1964.[ln2-loom]*
+#### A. Removable storage media and automation, 1725-1964.[ln2-loom]*
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent, simply titled
@@ -3036,7 +3039,7 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
 
-*B: Magnetic tape, 1888-1968.*
+#### B: Magnetic tape, 1888-1968.*
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
@@ -3105,7 +3108,7 @@ slate.
 [^ln2-magnet]: See for example @ohmori_memory_2015 and
 @stefanita_magnetism_2012, 1-69.
 
-*C: Screen, 1968-today*
+#### C: Screen, 1968-today
 
 By decoupling input and output, magnetic storage media affords the injection of
 time and space, in arbitrary intervals, between the process of inscription and
@@ -3170,21 +3173,23 @@ itself lightly to the retina. The system users that the screen liberates them
 material confines of print. One user reports (and I reproduce the reports
 verbatim, since the formatting matters here):
 
-1B2B1 "To accommodate and preserve a thought or
-piece of information that isn't related to the work
-of the moment, one can very quickly and easily
-insert a note within the structure of a file at such
-a place that it will nether get in the way nor get
-lost.
+```
+    1B2B1 "To accommodate and preserve a thought or
+    piece of information that isn't related to the work
+    of the moment, one can very quickly and easily
+    insert a note within the structure of a file at such
+    a place that it will nether get in the way nor get
+    lost.
 
-1B2B2 "Later, working in another part of the file,
-he can almost instantly (e.g. within two seconds)
-return to the place where he temporarily is storing
-such notes, to modify or add to any of them.
+    1B2B2 "Later, working in another part of the file,
+    he can almost instantly (e.g. within two seconds)
+    return to the place where he temporarily is storing
+    such notes, to modify or add to any of them.
 
-1B2B3 "As any such miscellaneous thought develops,
-it is easy (and delightful) to reshape the structure
-and content of its discussion material.
+    1B2B3 "As any such miscellaneous thought develops,
+    it is easy (and delightful) to reshape the structure
+    and content of its discussion material.
+```
 
 Engelbart, interested in collecting empirical phenomenological accounts of the
 system, records what must count as one of the most evocative passages to appear
@@ -3392,6 +3397,32 @@ parallel texts. Sources consulted on the Plato's theory of forms include
 @rist_platos_1975, @woods_form_1993, @dixsaut_ousia_1991,
 @hegel_philosophy_1870. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
+
+What lies beneath a text? A recent conversation on the merits of surface
+reading (as opposed to reading for hidden meaning) has rekindled an interest in
+the archeological metaphor, which understands textuality in terms of depth and
+surface. Two types of reading become evident in this model. Where the
+"symptomatic" literary critic reaches beyond the "ephemeral" external to
+uncover internal and eternal metaphysical truth within, Stephen Best and Sharon
+Marcus describe a constellation of reading practices concerned with "what is
+evident, perceptible, apprehensible in text: what is neither hidden nor hiding;
+what, in the geometrical sense, has length and breadth but no thickness, and
+therefore covers no depth [@best_surface_2009, 9]."
+
+describe this mode of literary interpretation as
+"symptomatic reading," a strategy that seeks to uncover latent and concealed
+meaning beneath the evident surface of the text. For a Marxist critic like
+Terry Eagleton or Frederic Jameson that latent meaning may have something to do
+with hidden machinations of capital and ideology. The psychologically-minded
+critic reads in search of hidden drives, desires, or cognitive structures. In
+contrast to such symptomatic reading, Marcus and Best describe several
+contemporary theoretical trends that run counter to the Hegelian tradition,
+preferring instead to read at the surface of the text: descriptive reading,
+reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
+Best and Marcus further identify several types of surface reading: reading for
+material surface, reading for verbal structure, reading for affect, reading for
+description, reading for pattern, and finally, reading for literal meaning or
+"just reading."
 
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
