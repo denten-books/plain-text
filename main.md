@@ -2405,7 +2405,7 @@ magnetically bound bit structure.
 As I write these words, the fire alarm in the hallway outside of my apartment
 beeps every eight minutes or so. And at every twenty minutes, a pleasant female
 voice announces also "low battery." These precautions are stipulated by US
-Natioinal Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
+National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
 "distinct audible signal before the battery is incapable of operating" is not
 only required by law, it is *built into the device*. The device internalizes
 legislation in its programming. We obtain the condition where the two meanings
@@ -2416,26 +2416,56 @@ level of the device. The formal concept of a "device," as I will explain later,
 widely used in literary studies, is an artifact of an unfortunate translation
 from Russian. The word *priem* would be much better translated as "technique,"
 in the sense of "method," "approach," or "procedure." The word "device" can
-cointain these meanings, but in modern usage it most usually carries a concrete
+contain these meanings, but in modern usage, it usually carries a concrete
 connotation, as "an object, machine, or piece of equipment that has been made
 for a special purpose" (Merriam-Webster). "Laying bare the device," for
-Shklovksy, meant making the implicit metaphor excplicit, particularly in the
+Shklovsky, meant making the implicit metaphor explicit, particularly in the
 case where such metaphors are "stale," "automatic," and "naturalized," bereft
-of their original poetic and evocative power. We may say "a field of study,"
-without much thought to the spatial metaphor, where Shklovsky would have the
-close reader pause to consider the implications. In which sense a set of ideas
-is and is not like a field? The text itself could draw our attention to the
-metaphor were it to mention "a grassy field of study." The unexpected
-transferrence of properties accentuates and renews the familiar image. The
-image is "made strange" again, therefore Shklovsky's literary "estrangement."
+of their original poetic and evocative power. One writes, for example, "a field
+of study," without much thought to the spatial metaphor, where Shklovsky would
+have the reader pause to consider the implications. In which sense ideas
+resemble (or not) a field? The writer's language could draw our attention to
+the strangeness of the analogy were it to mention "a grassy field of study."
+The unexpected transference of properties accentuates and renews the familiar
+image. The image is "made strange" again, therefore Shklovsky's literary
+"estrangement" as a technique.
 
-An author can further make the literary technique literal when an abstract
-device gains a measure of concrete form. Vladimir Nabokov, a writer
-conspicuously aware of his literary theory, makes use of this move consistently
-and with relentless and clinical precision. In his short story "A Guide to
-Berlin," to which D. Barton Johnson attributes our first glimpse at Nabokov's
-"mature virtuoso style," the narrator describes . OTTO. The pipes are laid
-bare. They are beneath. OTTO.
+An author can further "make obvious" the metaphor in drawing attention to its
+implicit, inner dynamics. Vladimir Nabokov, a writer conspicuously aware of the
+formalist theoretical heritage, makes use of this move consistently and with
+relentless and clinical precision. In his short story "A Guide to Berlin," to
+which D.  Barton Johnson attributes our first glimpse at Nabokov's "mature
+virtuoso style," the narrator describes. Nabokov writes:
+
+> In front of the house where I live, a gigantic black pipe lies along the
+outer edge of the sidewalk. A couple of feet away, in the same file, lies
+another, then a third and a fourth---the street's iron entrails, still idle,
+not yet lowered into the ground, deep under the asphalt. For the first few days
+after they were unloaded, with a hollow clanging, from trucks, little boys
+would run on them, up and down, and crawl on all fours through those round
+tunnels, but a week later nobody was playing anymore and thick snow was falling
+instead; and now when, cautiously probing the treacherous glaze of the sidewalk
+with my thick rubber-heeled stick, I go out in the flat gray light of the
+morning, an even stripe of fresh snow stretches along the upper side of each
+black pipe [...] Today someone wrote "Otto" with his finger on the strip of
+virgin snow, and I thought how beautifully that name, with its two soft o's
+flanking the pair of gentle consonants suited the silent layer of snow upon
+that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27].
+
+The tightly wound vignette takes the formalist programmatic concern with
+"laying bare the device" to its logical and recursively-structured conclusion.
+The pipe can be read as a metaphor for the device: usually found beneath the
+street, now idle and visible at the surface. Yet even when exposed, the device
+fails to captivate for long. Disused, it passes out sight, covered in snow. The
+narrator "probes the glaze" of the street, penetrating through to the surface
+level and in this also finds a palindrome, which, not only resembles the pipes
+visually, but is in itself a surface-revealing inscription that in some sense
+literally makes the pipes visible again, past the snow. It is impossible for
+the pipe to reach beyond the page, as representation---but the text also
+invites the reader to repeat after the soft consonance and round vowels,
+shaping the body (mouth and lips) to resemble, if only in part, a pipe of
+sounds. And for a moment, the paper-bound representation transcends the page.
+The reader enacts the "making of the literary technique obvious," made obvious.
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
