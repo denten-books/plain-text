@@ -2400,6 +2400,92 @@ binary formats. To produce the image, I inject malicious code into an Adobe
 Acrobat file, showing the contrast between surface text and its underlying
 magnetically bound bit structure.
 
+### 3.1 Surface Reading
+
+As I write these words, the fire alarm in the hallway outside of my apartment
+beeps every eight minutes or so. And at every twenty minutes, a pleasant female
+voice announces also "low battery." These precautions are stipulated by US
+Natioinal Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
+"distinct audible signal before the battery is incapable of operating" is not
+only required by law, it is *built into the device*. The device internalizes
+legislation in its programming. We obtain the condition where the two meanings
+of code---as governance and program instruction---coincide. Code equals code.
+
+These considerations are relevant as we consider the production of text at the
+level of the device. The formal concept of a "device," as I will explain later,
+widely used in literary studies, is an artifact of an unfortunate translation
+from Russian. The word *priem* would be much better translated as "technique,"
+in the sense of "method," "approach," or "procedure." The word "device" can
+cointain these meanings, but in modern usage it most usually carries a concrete
+connotation, as "an object, machine, or piece of equipment that has been made
+for a special purpose" (Merriam-Webster). "Laying bare the device," for
+Shklovksy, meant making the implicit metaphor excplicit, particularly in the
+case where such metaphors are "stale," "automatic," and "naturalized," bereft
+of their original poetic and evocative power. We may say "a field of study,"
+without much thought to the spatial metaphor, where Shklovsky would have the
+close reader pause to consider the implications. In which sense a set of ideas
+is and is not like a field? The text itself could draw our attention to the
+metaphor were it to mention "a grassy field of study." The unexpected
+transferrence of properties accentuates and renews the familiar image. The
+image is "made strange" again, therefore Shklovsky's literary "estrangement."
+
+An author can further make the literary technique literal when an abstract
+device gains a measure of concrete form. Vladimir Nabokov, a writer
+conspicuously aware of his literary theory, makes use of this move consistently
+and with relentless and clinical precision. In his short story "A Guide to
+Berlin," to which D. Barton Johnson attributes our first glimpse at Nabokov's
+"mature virtuoso style," the narrator describes . OTTO. The pipes are laid
+bare. They are beneath. OTTO.
+
+In comparing the dominant aesthetic modes of classical and Romantic periods,
+Hegel posits Romanticism as an art that seeks to disengage itself from matter,
+reaching the realm of pure self-reflective spirit. Romanticism, in his words,
+is "freed from this immediate existence which must be set down as negative,
+overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
+writes: "Poetry is the universal art of the spirit which has become free in
+itself and which is not tied down for its realization to external sensuous
+material; instead, it launches out exclusively in the inner space [sic] and the
+inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
+"inwardness celebrates its triumph over the external and manifests its victory
+in and on the external itself, whereby what is apparent to the senses alone
+sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
+way, triumph over the external, material world, reaching, at its apex, the
+stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
+[@hegel_werke:_1986, ???]. The idea overcomes matter to become both free from
+the constraints of the deterministic physical universe, yet gaining a measure
+of solidity in its concrete and tangible instantiation.
+
+Generations of critics, from Aristotle to Samuel Coleridge, W.K. Wimsatt, John
+Crowe Ransome, Theodor W. Adorno, Hans-Georg Gadamer, Slavoj Žižek puzzled at
+the dual status of literature between the universal and the concrete. "Poetry
+tends to express the universal" Aristotle famously wrote in his *Poetics*, but
+also that it "imitation action." For Coleridge, the excellence of Shakespeare's
+works consisted in "that union and interpenetration of the universal and the
+particular [@coleridge_friend_1969, 457]." Wimsatt cites these passages to
+write that "in one terminology or another this idea of a concrete universal is
+found in most metaphysical aesthetic of the eighteenth and nineteenth centuries
+[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
+poem there is something "which can never be expressed in other terms." Like
+irrational numbers, poetry and poetic language for Wimsatt can only be
+approached at their limit, not as "all it would be, yet all that can be had
+[@wimsatt_structure_1947, 280]."
+
+Where does that leave literary criticism? If critics are to believe in the
+potential for textual expression to reach such lofty Hegelian heights, they
+must also place value on the act of interpretation. The Hegelian literary
+critic reaches beyond the external, ephemeral, and material facade to uncover
+internal and eternal metaphysical truth within. Stephen Best and Sharon Marcus
+describe this mode of literary interpretation as "symptomatic reading," a
+strategy that seeks to uncover latent and concealed meaning beneath the evident
+surface of the text. For a Marxist critic like Terry Eagleton or Frederic
+Jameson that latent meaning may have something to do with hidden machinations
+of capital and ideology. The psychologically-minded critic reads in search of
+hidden drives, desires, or cognitive structures. In contrast to such
+symptomatic reading, Marcus and Best describe several contemporary theoretical
+trends that run counter to the Hegelian tradition, preferring instead to read
+at the surface of the text: descriptive reading, reading for form, for
+material, or "just reading [@best_surface_2009, 1-12]."
+
 ### 3.1 Form as Ideal and Appearance
 
 What lies beneath a text? In talking about texts of all kinds, literary
@@ -2668,57 +2754,6 @@ meccanico e la sensibilità numerica]
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
-
-### 3.3 Surface Reading
-
-In comparing the dominant aesthetic modes of classical and Romantic periods,
-Hegel posits Romanticism as an art that seeks to disengage itself from matter,
-reaching the realm of pure self-reflective spirit. Romanticism, in his words,
-is "freed from this immediate existence which must be set down as negative,
-overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
-writes: "Poetry is the universal art of the spirit which has become free in
-itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space [sic] and the
-inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
-"inwardness celebrates its triumph over the external and manifests its victory
-in and on the external itself, whereby what is apparent to the senses alone
-sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
-way, triumph over the external, material world, reaching, at its apex, the
-stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
-[@hegel_werke:_1986, ???]. The idea overcomes matter to become both free from
-the constraints of the deterministic physical universe, yet gaining a measure
-of solidity in its concrete and tangible instantiation.
-
-Generations of critics, from Aristotle to Samuel Coleridge, W.K. Wimsatt, John
-Crowe Ransome, Theodor W. Adorno, Hans-Georg Gadamer, Slavoj Žižek puzzled at
-the dual status of literature between the universal and the concrete. "Poetry
-tends to express the universal" Aristotle famously wrote in his *Poetics*, but
-also that it "imitation action." For Coleridge, the excellence of Shakespeare's
-works consisted in "that union and interpenetration of the universal and the
-particular [@coleridge_friend_1969, 457]." Wimsatt cites these passages to
-write that "in one terminology or another this idea of a concrete universal is
-found in most metaphysical aesthetic of the eighteenth and nineteenth centuries
-[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
-poem there is something "which can never be expressed in other terms." Like
-irrational numbers, poetry and poetic language for Wimsatt can only be
-approached at their limit, not as "all it would be, yet all that can be had
-[@wimsatt_structure_1947, 280]."
-
-Where does that leave literary criticism? If critics are to believe in the
-potential for textual expression to reach such lofty Hegelian heights, they
-must also place value on the act of interpretation. The Hegelian literary
-critic reaches beyond the external, ephemeral, and material facade to uncover
-internal and eternal metaphysical truth within. Stephen Best and Sharon Marcus
-describe this mode of literary interpretation as "symptomatic reading," a
-strategy that seeks to uncover latent and concealed meaning beneath the evident
-surface of the text. For a Marxist critic like Terry Eagleton or Frederic
-Jameson that latent meaning may have something to do with hidden machinations
-of capital and ideology. The psychologically-minded critic reads in search of
-hidden drives, desires, or cognitive structures. In contrast to such
-symptomatic reading, Marcus and Best describe several contemporary theoretical
-trends that run counter to the Hegelian tradition, preferring instead to read
-at the surface of the text: descriptive reading, reading for form, for
-material, or "just reading [@best_surface_2009, 1-12]."
 
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
