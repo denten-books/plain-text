@@ -2433,7 +2433,7 @@ juxtapositions the strangeness of the initial metaphor can be renewed and "made
 strange" again, in what Shklovsky calls the technique of poetic "estrangement
 [@shklovksy_sborniki_1917]."
 
-An performing estrangement the author "lays bare" or "makes obvious" the
+When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
 Nabokov, a writer conspicuously aware of the formalist theoretical heritage,
 makes use of this move consistently and with relentless clinical precision. In
@@ -2488,9 +2488,9 @@ dimension. Physical affordances of a liquid crystal display and magnetic
 storage differ drastically from those of goat skins or parchment. Yet surface
 representation maintains the illusion of self-similarity. I am concerned here
 with the particularities of that illusion. A poem, a novel, a physician's
-script, or a legal contract still look like their paper counterparts, but
-increasingly they behave like gadgets. These reading and writing gadgets do not
-mediate silently: they monitor, adjust, warn, and control.
+script, or a legal contract all still look like their paper counterparts, but
+increasingly they behave like gadgets. These reading and writing appliences do
+not mediate silently: they monitor, adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 in ways that we have only began to comprehend. And as will become apparent in
@@ -2702,12 +2702,22 @@ formula, model, type, pattern, and example." Form, in this dual sense, sounds a
 lot like Hegel's "concrete universal." In moving towards the physical device, I
 need to keep both of these meanings in mind. They will become important later,
 when we consider the ways in which meaning connects to structure at the level
-of magnetic storage medium.
+of magnetic storage medium. The question of textual depth has several possible
+answers depending on how we model text. In the binary model, appearances
+conceal inner content. In the tripartite model suggested by Hegel's "concrete
+universal," we perceive text as indeterminate (or overdetermined) form, which
+leads to both ideas and physical medium.
+
+It is in this sense one can best understand the structure of modern "digital"
+documents. The Cascading Style Sheet language (for example), used to structure
+much of online content, clearly delineates the target medium,  using the
+`@media` tag
+How CSS is broken. Get the structure of documents in here.
 
 ### 3.3 Device as Gadget and Formula
 
 The history of literary scholarship is punctuated by moments of revolt against
-reading for latent content.  A recent conversation on the merits of surface
+reading for latent content. A recent conversation on the merits of surface
 reading (as opposed to reading for hidden meaning) has rekindled an interest in
 the archeological metaphor, which understands textuality in terms of depth and
 surface. Two types of reading become evident in this model. Where the
@@ -2826,7 +2836,6 @@ electronic, digital text formats have their material embodiment
 @drucker_speclab_2009; @drucker_reading_2013]. I am sympathetic to the message,
 but only in so far as it adds a dimension of materiality to a properly
 three-dimensional, multi-layered, thick description of text.
-
 
 A clarification of the terms allows us to perceive the history of textual
 technology as one of the gradual stratification between matter, form, and
