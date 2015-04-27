@@ -2402,14 +2402,15 @@ magnetically bound bit structure.
 
 ### 3.1 Literary Device
 
-As I write these words, the fire alarm in the hallway outside of my apartment
-beeps every eight minutes or so. And at every twenty minutes, a pleasant female
-voice announces also "low battery." These precautions are stipulated by US
-National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
-"distinct audible signal before the battery is incapable of operating" is not
-only required by law, it is *built into the device*. The device internalizes
-legislation in its programming. We obtain the condition where the two meanings
-of code---as governance and program instruction---coincide. Code equals code.
+As I write these words, a ceiling-mounted smoke detector in the hallway outside
+of my apartment emits an shrill squeal every three minutes or so. And at every
+fifteen minutes, a pleasant female voice announces also "low battery." These
+precautions are stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013).
+The clause requiring a "distinct audible signal before the battery is incapable
+of operating" is not only required by law, it is *built into the device*. The
+device internalizes legislation in its programming. We obtain the condition
+where the two meanings of code---as governance and program
+instruction---coincide. Code equals code.
 
 These considerations are relevant as we consider the production of text at the
 level of the device. The formal concept of a "device," widely used in literary
