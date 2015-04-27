@@ -2710,10 +2710,38 @@ universal," we perceive text as indeterminate (or overdetermined) form, which
 leads to both ideas and physical medium.
 
 It is in this sense one can best understand the structure of modern "digital"
-documents. The Cascading Style Sheet language (for example), used to structure
-much of online content, clearly delineates the target medium,  using the
-`@media` tag
-How CSS is broken. Get the structure of documents in here.
+documents. Some of the earliest computer-aided text editors modeled documents
+in this way, separating the layers of physical, formatting, and content
+structure. Describing *EDIT*, one of the earliest editors designed for the
+GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
+writes: "The publication editor is divided into three related sections, the
+document layout facility, the editing facility, and the printing facility
+[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
+contains such things as justification, indentation, and spacing. These
+"primitive requests" can be combined to describe more complex "structures of
+the printed text." The creators of *QED*, another influential early text editor
+(created for SDS-930 time sharing system at Berkley) similarly encourage the
+user "to think in terms of structure" of the text. Both *QED* and *EDIT* begin
+to separate content and formatting, for later re-combination and imprinting
+onto an external storage medium. Kaiman explains, "The user types the document
+layout file and the text file, then produces a proof or master copy of the text
+by printing the text according to the directions of the layout file. The text
+file contains layout marks to be interpreted by the layout file." "Text" in
+this schema, constitutes content meaningful only to the user, whereas layout
+contains some elements meaningful to the human and some elements as code
+instructions intended to for device control. Formatting mediates between the
+two. Note that in some sense, the formatting layer can be seen as a feature
+extension of the control characters already present in early telegraph
+machinery. In describing *TYPSET* and *RUNOFF*, some of the earliest typeset
+and editor commands that made it into UNIX as *TROFF*, J.E. Saltzer, a pioneer
+of modern textual editing, writes: 
+
+> RUNOFF is a command used to type out memorandum files of English  text  in
+manuscript  format. Control  words scattered in the text  provide detailed
+control  over  the format, if desired. Input files may be prepared  by the
+context editor, TYPSET.
+
+![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
 
 ### 3.3 Device as Gadget and Formula
 
@@ -2925,7 +2953,6 @@ works," "to distribute copies," and "to perform and to display publicly"
 (17.1.106).  Surface representation is further subject to professional rules of
 conduct, embodied in practices of quotation, citation, and attribution (or lack
 thereof, as plagiarism).
-
 
 Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
