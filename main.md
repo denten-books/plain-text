@@ -2719,29 +2719,45 @@ document layout facility, the editing facility, and the printing facility
 [@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
 contains such things as justification, indentation, and spacing. These
 "primitive requests" can be combined to describe more complex "structures of
-the printed text." The creators of *QED*, another influential early text editor
-(created for SDS-930 time sharing system at Berkley) similarly encourage the
-user "to think in terms of structure" of the text. Both *QED* and *EDIT* begin
-to separate content and formatting, for later re-combination and imprinting
-onto an external storage medium. Kaiman explains, "The user types the document
-layout file and the text file, then produces a proof or master copy of the text
-by printing the text according to the directions of the layout file. The text
-file contains layout marks to be interpreted by the layout file." "Text" in
-this schema, constitutes content meaningful only to the user, whereas layout
-contains some elements meaningful to the human and some elements as code
-instructions intended to for device control. Formatting mediates between the
-two. Note that in some sense, the formatting layer can be seen as a feature
-extension of the control characters already present in early telegraph
-machinery. In describing *TYPSET* and *RUNOFF*, some of the earliest typeset
-and editor commands that made it into UNIX as *TROFF*, J.E. Saltzer, a pioneer
-of modern textual editing, writes: 
+the printed text."
 
-> RUNOFF is a command used to type out memorandum files of English  text  in
-manuscript  format. Control  words scattered in the text  provide detailed
-control  over  the format, if desired. Input files may be prepared  by the
-context editor, TYPSET.
+The creators of *QED*, another influential early text editor (created for
+SDS-930 time sharing system at Berkley) similarly encourage the user "to think
+in terms of structure" of the text. Both *QED* and *EDIT* begin to separate
+content and formatting for later re-combination and imprinting onto an external
+storage medium. Kaiman explains that "the user types the document layout file
+and the text file, then produces a proof or master copy of the text by printing
+the text according to the directions of the layout file. The text file contains
+layout marks to be interpreted by the layout file." "Text" in this schema,
+constitutes content meaningful only to the user, whereas layout contains some
+elements meaningful to the human and some elements as code instructions
+intended to for device control. The notion of "formatting" therefore mediates
+between the the logical (semantic) and layout (stylistic) structural
+representations.
 
 ![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
+
+A seminal paper in the field of strucutred document proposes the following
+model. Firs, "a document is an object composed of a hierarchy of primitive
+objects," the authors Futura, Scofield, and Shaw write. We have to ideas from
+the start: composability and hierarchy. An document is a thing made up of other
+objects, like senteces and paragraphs. Furthermore, these things stand in a
+hierarchichal relationaship to each other. Paragraphs contain sentences, and
+not the other way around, for example. Second, "each object is an instance of a
+class." Document level classes include "letters," "theses," "reccomendation,"
+and "papers for a particular journal." Lower level classes include sections,
+paragraphs, footnotes, and so on. Finally, "objects are further classified as
+either abstract or concrete." In this, the Hegelian debt 
+
+[@furuta_document_1982, 418-69].
+
+Alan C. Shaw's influential "Model for Document Prepration," similarly
+indentifies three respresentations of the document: as "abstract model," as
+"concerete appearance," and as "concrete representation."
+The ISO ODA Draft International Standard proposed in 1986 similarly understands
+formatting to contain both what it calls "logical structure" and "layout
+structure." Logical structure includes semantically meaningfull elements like
+sections, section headings, and paragraphs. Layout structure contains 
 
 ### 3.3 Device as Gadget and Formula
 
@@ -3233,6 +3249,17 @@ spirit.
         peek at what is to come soon.
 
 Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
+
+Note that in some sense, the formatting layer can be seen as a feature
+extension of the control characters already present in early telegraph
+machinery. In describing *TYPSET* and *RUNOFF*, some of the earliest typeset
+and editor commands that made it into UNIX as *TROFF*, J.E. Saltzer, a pioneer
+of modern textual editing, writes:
+
+> RUNOFF is a command used to type out memorandum files of English text in
+manuscript format. Control words scattered in the text  provide detailed
+control over the format, if desired. Input files may be prepared  by the
+context editor, TYPSET.
 
 In practice, the immateriality of digital text (and image) has served to erode
 the efficacy of copyright restrictions as a system of laws and regulations. The
