@@ -2731,7 +2731,10 @@ reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
 Best and Marcus further identify several types of surface reading: reading for
 material surface, reading for verbal structure, reading for affect, reading for
 description, reading for pattern, and finally, reading for literal meaning or
-"just reading."
+"just reading." 
+
+FINISH THIS WITH CLAIMS TO INTERPRET, PRIESTS, AND MARTIN LUTHER.
+
 In the late 1960s, Susan Sontag wrote about
 "the need for more attention to form in art." Interpretation can be liberating,
 she wrote, but it can also stifle creativity. It "depletes" the world in some
