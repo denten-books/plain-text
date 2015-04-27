@@ -2465,18 +2465,18 @@ in snow. The narrator "probes the glaze" of the street, penetrating through to
 the surface level and in this also finds a palindrome, which, not only
 resembles the pipes visually, but is in itself a surface-revealing inscription
 that in some sense literally makes the pipes visible again, through the snow.
-Although it impossible for the word "pipe" to reach beyond the page as
+Although it is impossible for the word "pipe" to reach beyond the page as
 representation, the text draws attention to the sound structure of metonymic
 inscription, inviting the reader to perform consonance and to pronounce the
-round vowels, thus shaping the body in accordance with the image: the body as a
-pipe of sound. The moment of bodily reenactment frees paper-bound
-representation from the confines of the medium. The reader makes the "making of
-the literary technique obvious," obvious. In this lies the prevalent
-characteristic of Nabokov's mature work, which often seeks to transcend the
+round vowels, thus shaping the body in accordance with the image: the body as
+sound pipe. The moment of bodily reenactment briefly transcends
+representational and paper-bound confines of the medium. The reader makes the
+"making of the literary technique obvious," obvious. In this lies the prevalent
+characteristic of Nabokov's mature work, which often seeks to lift off from the
 page through sheer recursion and multilayeredness of literary technique.
 
 Yet for all the language games, literary technique in the sense used by the
-formalists remains bound to its medium. Were someone to ask: What lies beneath
+formalists remains tied to the medium. Were someone to ask: What lies beneath
 the text? The literal answer would have to be: paper or furniture. Reading for
 surface or depth at the level of representation can only begin to approach the
 material conditions of textual dissemination. Language contains traces of labor
@@ -2534,13 +2534,13 @@ matter, form, and content. And of these, form sometimes falls into the category
 of meaningless matter and sometimes into semantic-carrying ideation.
 
 Let's dwell on the history of form for a few paragraphs. I'll give you the
-standard (if abridged) version first, and then return to revise and to
+standard (if necessarily abridged) version first, and then return to revise and
 complicate. The traditional binary model, as I will argue, does not
 sufficiently capture the grounds for literary microanalysis, which requires an
 understanding of form both as abstracted formula (technique, template, pattern)
 and concrete device (apparatus, gadget, appliance). Like Hayles and McKeown I
-need to retain a distinction between the what (physical) and the how
-(signifying) of the literary device.
+need to retain a distinction between the what (physical strategies) and the how
+(signifying strategies) of the literary device.
 
 G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy between
 form and content in the literature on aesthetics. In his *Lectures on
@@ -2679,33 +2679,60 @@ is instantiated, it moves from being an ideal form into an apparent shape, as
 an epistemological category.
 
 Someone writes down "all these cats are subsumed under the category of
-'feline.'" At this moment, the ideal of "felines" becomes an ossified thing.
-Yet for Hegel, the true ideal must continue to exist and develop in the real
-world. It is not merely a human idea, but something that "internally
-distinguishes itself" while remaining "free in its infinitude and independent."
-The best I can understand this is to think about the evolutionary process that
-continues in the species, even as the taxonomy describing that evolution may
-remain tied to its fixed categories. New and radically different cats may come
-into existence---ones no longer covered by the "external mark" of being a
-"feline." Yet this would only mean that the ideal of "feline" has developed
-past human understanding.  Zoologists would, at that point, need simply adjust
-their categories to include new forms of feline being.
+'feline.'" At this moment, the ideal of "felines" becomes an ossified and
+unchanging dead thing. For Hegel, the true ideal must continue to exist and
+develop in the real world. It is not merely a human idea, but something that
+"internally distinguishes itself" while remaining "free in its infinitude and
+independent." The best I can understand this is to think about the evolutionary
+process that continues in the species, even as the taxonomy describing that
+evolution may remain tied to its fixed categories. New and radically different
+cats may come into existence---ones no longer covered by the "external mark" of
+being a "feline." Yet this would only mean that the ideal of "feline" has
+developed past human understanding.  Zoologists would, at that point, need
+simply adjust their categories to include new forms of feline being.
 
-Hegel's "concrete universal" exists in the real world, yet also has claim on
-the ideal. It captures both *eidos* and *phantazomenōn*, both reasonably
-translated as "form" in English. The situation is made worse by the fact that
-the very word "form" in plain language is somewhat of a self antonym. Form
-could mean "the visible aspect of a thing," but also "the formative" and
-"essential determinate principle of a thing," and in its more obsolete meaning
-"a formula, model, type, pattern, and example." I am forced to admit, at this
-point, that form itself, when used in this dual sense, equivocates to Hegel's
-concrete universal. But as the chapter moves towards the physical device, I
-need to tease the formula out of the appliance.
+Hegel's "concrete universal" has claim on the ideal. It also exists in the real
+world. One way to understand this difficult concept is to think of it as
+capturing both *eidos* and *phantazomenōn*---idea and appearance---both
+reasonably transcribed to "form" in English. The very word "form" in its
+ordinary meaning is, in that way, somewhat of a self antonym. Form could mean
+"the visible aspect of a thing," but also "the formative" and "essential
+determinate principle of a thing," and, in its more obsolete meaning, "a
+formula, model, type, pattern, and example." Form, in this dual sense, sounds a
+lot like Hegel's "concrete universal." In moving towards the physical device, I
+need to keep both of these meanings in mind. They will become important later,
+when we consider the ways in which meaning connects to structure at the level
+of magnetic storage medium.
 
 ### 3.3 Device as Gadget and Formula
 
 The history of literary scholarship is punctuated by moments of revolt against
-reading for latent content, in . In the late 1960s, Susan Sontag wrote about
+reading for latent content.  A recent conversation on the merits of surface
+reading (as opposed to reading for hidden meaning) has rekindled an interest in
+the archeological metaphor, which understands textuality in terms of depth and
+surface. Two types of reading become evident in this model. Where the
+"symptomatic" literary critic reaches beyond the "ephemeral" external to
+uncover internal and eternal metaphysical truth within, Stephen Best and Sharon
+Marcus describe a constellation of reading practices concerned with "what is
+evident, perceptible, apprehensible in text: what is neither hidden nor hiding;
+what, in the geometrical sense, has length and breadth but no thickness, and
+therefore covers no depth [@best_surface_2009, 9]."
+
+describe this mode of literary interpretation as
+"symptomatic reading," a strategy that seeks to uncover latent and concealed
+meaning beneath the evident surface of the text. For a Marxist critic like
+Terry Eagleton or Frederic Jameson that latent meaning may have something to do
+with hidden machinations of capital and ideology. The psychologically-minded
+critic reads in search of hidden drives, desires, or cognitive structures. In
+contrast to such symptomatic reading, Marcus and Best describe several
+contemporary theoretical trends that run counter to the Hegelian tradition,
+preferring instead to read at the surface of the text: descriptive reading,
+reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
+Best and Marcus further identify several types of surface reading: reading for
+material surface, reading for verbal structure, reading for affect, reading for
+description, reading for pattern, and finally, reading for literal meaning or
+"just reading."
+In the late 1960s, Susan Sontag wrote about
 "the need for more attention to form in art." Interpretation can be liberating,
 she wrote, but it can also stifle creativity. It "depletes" the world in some
 way, placing the critic in a privileged and unnecessarily meddling position
@@ -2797,31 +2824,6 @@ electronic, digital text formats have their material embodiment
 but only in so far as it adds a dimension of materiality to a properly
 three-dimensional, multi-layered, thick description of text.
 
-What lies beneath a text? A recent conversation on the merits of surface
-reading (as opposed to reading for hidden meaning) has rekindled an interest in
-the archeological metaphor, which understands textuality in terms of depth and
-surface. Two types of reading become evident in this model. Where the
-"symptomatic" literary critic reaches beyond the "ephemeral" external to
-uncover internal and eternal metaphysical truth within, Stephen Best and Sharon
-Marcus describe a constellation of reading practices concerned with "what is
-evident, perceptible, apprehensible in text: what is neither hidden nor hiding;
-what, in the geometrical sense, has length and breadth but no thickness, and
-therefore covers no depth [@best_surface_2009, 9]."
-
-describe this mode of literary interpretation as
-"symptomatic reading," a strategy that seeks to uncover latent and concealed
-meaning beneath the evident surface of the text. For a Marxist critic like
-Terry Eagleton or Frederic Jameson that latent meaning may have something to do
-with hidden machinations of capital and ideology. The psychologically-minded
-critic reads in search of hidden drives, desires, or cognitive structures. In
-contrast to such symptomatic reading, Marcus and Best describe several
-contemporary theoretical trends that run counter to the Hegelian tradition,
-preferring instead to read at the surface of the text: descriptive reading,
-reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
-Best and Marcus further identify several types of surface reading: reading for
-material surface, reading for verbal structure, reading for affect, reading for
-description, reading for pattern, and finally, reading for literal meaning or
-"just reading."
 
 A clarification of the terms allows us to perceive the history of textual
 technology as one of the gradual stratification between matter, form, and
