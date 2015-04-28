@@ -2709,78 +2709,6 @@ conceal inner content. In the tripartite model suggested by Hegel's "concrete
 universal," we perceive text as indeterminate (or overdetermined) form, which
 leads to both ideas and physical medium.
 
-It is in this sense one can best understand the structure of modern "digital"
-documents. Some of the earliest computer-aided text editors modeled documents
-in this way, separating the layers of physical, formatting, and content
-structure. Describing *EDIT*, one of the earliest editors designed for the
-GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
-writes: "The publication editor is divided into three related sections, the
-document layout facility, the editing facility, and the printing facility
-[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing. These
-"primitive requests" can be combined to describe more complex "structures of
-the printed text."
-
-The creators of *QED*, another influential early text editor (created for
-SDS-930 time sharing system at Berkley) similarly encourage the user "to think
-in terms of structure" of the text. Both *QED* and *EDIT* begin to separate
-content and formatting for later re-combination and imprinting onto an external
-storage medium. Kaiman explains that "the user types the document layout file
-and the text file, then produces a proof or master copy of the text by printing
-the text according to the directions of the layout file. The text file contains
-layout marks to be interpreted by the layout file." "Text" in this schema,
-constitutes content meaningful only to the user, whereas layout contains some
-elements meaningful to the human and some elements as code instructions
-intended to for device control. The notion of "formatting" therefore mediates
-between the logical (semantic) and layout (stylistic) structural
-representations.
-
-![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
-
-A seminal paper in the field of structured document proposes the following
-model. First, "a document is an object composed of a hierarchy of primitive
-objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
-the start: composability and hierarchy. A document is a thing made up of other
-objects, like sentences and paragraphs. Furthermore, these things stand in a
-hierarchical relationship to each other. Paragraphs contain sentences, and not
-the other way around, for example. Second, "each object is an instance of a
-class." Document level classes include "letters," "theses," "recommendation,"
-and "papers for a particular journal." Lower level classes include sections,
-paragraphs, footnotes, and so on. Finally, "objects are further classified as
-either abstract or concrete." By this, the writers mean abstract or "logical"
-(in their words) objects, like words and ideas. We could understand this as
-content, where "concrete" objects are defined "over one or more two-dimensional
-*page spaces* and represent possible formatted images of abstract objects
-[@furuta_document_1982, 417-19]." The concrete object, in other words, gives
-physical shape, or layout, to the instantiation of abstract classes like a
-paragraph or a sentence. They are specific paragraphs and sentences "laid out"
-in page space. The document--object model speaks the language of Hegelian
-universal concrete, and is encoded as such.
-
-Here's where things really interesting. In the object model further gives rise
-to three "operations," tied to the "domain and range" of objects. *Editing*, in
-this model, comprises operations that move from abstract to abstract, or, from
-concrete to concrete domains. Spelling correction, for example, constitutes an
-editing manipulation where abstract objects are modified into other abstract
-objects. *Formatting,* can then be defined as giving shape to abstract objects
-in the transformation between abstract and concrete objects. Italicizing a
-word, for example, gives the idea of "emphasis" a slanted form. Finally, the
-authors define *viewing* as the movement from concrete objects to the output
-device. This stage flattens out the layers of ideas and formatting, rendering
-and making them visible on screen or page [@furuta_document_1982, 419-20;
-@kimura_structure_1984]. Similar to Hegel's "universal concrete," formatting
-in the document--object model bridges the gap between ideas and matter.
-
-In another widely-cited report on the topic, "A Model for Document Preparation
-Systems, Alan C. Shaw's identifies the formatting layer as "concrete
-representation [@shaw_model_1980]." 
-
-The ISO ODA Draft International Standard
-proposed in 1986 understands formatting to contain both what it calls "logical
-structure" and "layout structure." Logical structure includes semantically
-meaningful elements like sections, section headings, and paragraphs. Layout
-structure contains 
-
 ### 3.3 Device as Gadget and Formula
 
 The history of literary scholarship is punctuated by moments of revolt against
@@ -2812,31 +2740,31 @@ description, reading for pattern, and finally, reading for literal meaning or
 
 FINISH THIS WITH CLAIMS TO INTERPRET, PRIESTS, AND MARTIN LUTHER.
 
-In the late 1960s, Susan Sontag wrote about
-"the need for more attention to form in art." Interpretation can be liberating,
-she wrote, but it can also stifle creativity. It "depletes" the world in some
-way, placing the critic in a privileged and unnecessarily meddling position
-between reader and text. "If excessive stress on content provokes the arrogance
-of interpretation, more extended and more thorough descriptions of form would
-silence," she writes. "The best criticism, and it is uncommon, is of this sort
-that dissolves considerations of content into those of form
-[@sontag_against_1966, 8-9]." In yet an earlier counterinsurgency, at the turn
-of the 20th century, Russian and Italian formalists strove to break with
-Hegelian normative aesthetics by wedding literary criticism with descriptive
-linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
-the formalists downplayed the role of content and symbol. In this vein, the
-Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
-romantic notions of beauty, and the rise of a new "geometric and mechanical
-splendor." His generation was instead "in love with matter," wanting "to
-penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
-???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
-Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
-"becomes invisible" through frequent use. Such dead and transparent language
-can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
-counteracts death by "resurrecting the word" in "making the form difficult
-[@shklovsky_hod_1923, ???]." Form, in that sense, resurrects content. The study
-of poetic language (not necessarily poetry) therefore pays attention to the
-devices that aid in the process of linguistic renewal.
+In the late 1960s, Susan Sontag wrote about "the need for more attention to
+form in art." Interpretation can be liberating, she wrote, but it can also
+stifle creativity. It "depletes" the world in some way, placing the critic in a
+privileged and unnecessarily meddling position between reader and text. "If
+excessive stress on content provokes the arrogance of interpretation, more
+extended and more thorough descriptions of form would silence," she writes.
+"The best criticism, and it is uncommon, is of this sort that dissolves
+considerations of content into those of form [@sontag_against_1966, 8-9]." In
+yet an earlier counterinsurgency, at the turn of the 20th century, Russian and
+Italian formalists strove to break with Hegelian normative aesthetics by
+wedding literary criticism with descriptive linguistics. Seeing art as an
+economy of formal "devices" like rhyme and meter, the formalists downplayed the
+role of content and symbol. In this vein, the Italian futurist Filippo
+Marinetti wrote about the "grotesque funeral" of romantic notions of beauty,
+and the rise of a new "geometric and mechanical splendor." His generation was
+instead "in love with matter," wanting "to penetrate it and to understand its
+vibrations [@marinetti_marinetti:_1972, ???]."[^ln11-marinetti] Art cannot be
+reduced to "thinking in symbols" Viktor Shklovsky, a prominent Russian
+formalist, wrote in 1917. Meaning "dies" and "becomes invisible" through
+frequent use. Such dead and transparent language can no longer evoke wonder or
+curiosity. For Shklovsky and his peers, vital art counteracts death by
+"resurrecting the word" in "making the form difficult [@shklovsky_hod_1923,
+???]." Form, in that sense, resurrects content. The study of poetic language
+(not necessarily poetry) therefore pays attention to the devices that aid in
+the process of linguistic renewal.
 
 Shklovsky and his fellow members of the "OPOYAZ" group (instrumental in
 developing the notion of formalist poetics) also responded strongly to the
@@ -2939,6 +2867,69 @@ Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
 
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
+
+It is in this sense one can best understand the structure of modern "digital"
+documents. Some of the earliest computer-aided text editors modeled documents
+in this way, separating the layers of physical, formatting, and content
+structure. Describing *EDIT*, one of the earliest editors designed for the
+GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
+writes: "The publication editor is divided into three related sections, the
+document layout facility, the editing facility, and the printing facility
+[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
+contains such things as justification, indentation, and spacing. These
+"primitive requests" can be combined to describe more complex "structures of
+the printed text."
+
+The creators of *QED*, another influential early text editor (created for
+SDS-930 time sharing system at Berkley) similarly encourage the user "to think
+in terms of structure" of the text. Both *QED* and *EDIT* begin to separate
+content and formatting for later re-combination and imprinting onto an external
+storage medium. Kaiman explains that "the user types the document layout file
+and the text file, then produces a proof or master copy of the text by printing
+the text according to the directions of the layout file. The text file contains
+layout marks to be interpreted by the layout file." "Text" in this schema,
+constitutes content meaningful only to the user, whereas layout contains some
+elements meaningful to the human and some elements as code instructions
+intended to for device control. The notion of "formatting" therefore mediates
+between the logical (semantic) and layout (stylistic) structural
+representations.
+
+![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
+
+A seminal paper in the field of structured document proposes the following
+model. First, "a document is an object composed of a hierarchy of primitive
+objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
+the start: composability and hierarchy. A document is a thing made up of other
+objects, like sentences and paragraphs. Furthermore, these things stand in a
+hierarchical relationship to each other. Paragraphs contain sentences, and not
+the other way around, for example. Second, "each object is an instance of a
+class." Document level classes include "letters," "theses," "recommendation,"
+and "papers for a particular journal." Lower level classes include sections,
+paragraphs, footnotes, and so on. Finally, "objects are further classified as
+either abstract or concrete." By this, the writers mean abstract or "logical"
+(in their words) objects, like words and ideas. We could understand this as
+content, where "concrete" objects are defined "over one or more two-dimensional
+*page spaces* and represent possible formatted images of abstract objects
+[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
+other words, gives physical shape, or layout, to the instantiation of abstract
+classes like a paragraph or a sentence. They are specific paragraphs and
+sentences "laid out" in page space. The document--object model speaks the
+language of Hegelian universal concrete, and is encoded as such.
+
+Here's where things really interesting. In the object model further gives rise
+to three "operations," tied to the "domain and range" of objects. *Editing*, in
+this model, comprises operations that move from abstract to abstract, or, from
+concrete to concrete domains. Spelling correction, for example, constitutes an
+editing manipulation where abstract objects are modified into other abstract
+objects. *Formatting,* can then be defined as giving shape to abstract objects
+in the transformation between abstract and concrete objects. Italicizing a
+word, for example, gives the idea of "emphasis" a slanted form. Finally, the
+authors define *viewing* as the movement from concrete objects to the output
+device. This stage flattens out the layers of ideas and formatting, rendering
+and making them visible on screen or page [@furuta_document_1982, 419-20;
+@kimura_structure_1984]. Similar to Hegel's "universal concrete," formatting
+in the document--object model bridges the gap between ideas and matter.
+
 
 What lies beneath the text? We are accustomed to thinking about that question
 metaphorically and answer in accord: meaning, narrative, representation, order,
