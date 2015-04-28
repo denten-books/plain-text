@@ -2745,7 +2745,7 @@ also a claim to access, and an imbalance of interpretive acumen. The critic
 uncovers what the lay reader does not and cannot see. As an ethical stance,
 reading for external forms flattens the hierarchy between the lay reader and
 the professional interpreter. In this sense, Best, Marcus, and Sontag continue
-in the radical Lutheran tradition of vernacular exegesis.
+in the liberal Lutheran tradition of vernacular exegesis.
 
 Yet, from all the offered strategies of surface reading, reading for form
 strikes me as most ambivalent. It is not clear, for example, what exactly
@@ -2753,18 +2753,19 @@ Sontag means when she entreats her readers to concentrate on "how it is what it
 is" and not on "showing what it means." This sort of formalism seems to
 counteract the type of surface reading suggested by reading for "literal
 meaning," for example. Sontag's "erotics of art" stands in opposition to
-explanatory, meaning-making mode of analysis period. Erotics imply the
-transmission of understanding through bodily, lived experience. I understand
-clearly and relate to the stance against priestly mediation. But as a positive
-program, formalist poetics puzzle me, because form already occupies that
-ambivalent and mediating stance between inner depth and outer surface. Form
-makes the universal concrete. It connects physical shape with meaning. One
-cannot therefore entirely break out of the hermeneutic circle. I would like to
-show here, how the history of formalist poetics mirrors the ambiguity of form,
-in expanding the literary research program at once toward the outward material
-shape and into the universal ideal. Finally, as perhaps yet another gesture
-towards radical surface reading, I plan to examine the material structure of
-contemporary document at the level of physical magnetic storage medium.
+explanatory, meaning-making mode of analysis. Erotics imply the transmission of
+understanding through bodily, lived experience. I understand clearly and relate
+to the stance against priestly mediation. But as a positive program, formalist
+poetics puzzle me, because "form" already occupies that ambivalent and
+mediating stance between idea and matter. Form can be thought of being
+synonymous with the concrete universal in that it connects physical shape with
+meaning. One cannot therefore entirely break out of the hermeneutic circle. I
+would like to show here, how the history of formalist poetics mirrors the
+ambiguity of form, in expanding the literary research program at once toward
+the outward material shape and into the universal ideal. Finally, as perhaps
+yet another gesture towards radical surface reading, I plan to examine the
+material structure of contemporary document at the level of physical magnetic
+storage medium.
 
 In yet an earlier counterinsurgency against reading for content, at the turn of
 the 20th century, Russian and Italian formalists strove to break with Hegelian
@@ -2815,9 +2816,11 @@ title, with sound ("sound image," "sound gesture," "sound repetition
 Three of the essays, however strike in another direction.
 
 The Russian *priem* was unfortunately translated as as "device," which makes it
-sound akin to "gadget" or an "appliance," where Shklovsky clearly means it as
-a technique, or a "move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
-move in Judo, and a part of *Koshi-Waza* or "hip technique."
+sound akin to "gadget" or an "appliance," where Shklovsky could be (and
+sometimes is) much better translated as a technique, or a "move."[^ln3-move] 
+
+[^ln3-move]: "Move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
+"move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
 Where we started with a dichotomy, we arrive at a model of textuality that
 contains three parts: matter, form, and content. The history of Western
