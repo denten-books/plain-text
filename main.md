@@ -2378,7 +2378,7 @@ with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
 ## Chapter 3: Laying Bare the Device
-`content, matter, device, form, formatting`
+`content, form, formula, formatting, device`
 
 ### 3.0 Abstract
 
@@ -2490,7 +2490,7 @@ storage differ drastically from those of goat skins or parchment. Yet surface
 representation maintains the illusion of self-similarity. I am concerned here
 with the particularities of that illusion. A poem, a novel, a physician's
 script, or a legal contract all still look like their paper counterparts, but
-increasingly they behave like gadgets. These reading and writing appliences do
+increasingly they behave like gadgets. These reading and writing appliances do
 not mediate silently: they monitor, adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
@@ -2579,22 +2579,6 @@ he calls the stage of "free concrete spirituality" (*freie konkrete
 Geistigkeit*) [@hegel_werke:_1986]. The idea overcomes matter to become both
 free from the constraints of the deterministic physical universe, yet gaining a
 measure of solidity in its concrete and tangible instantiation.
-
-Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
-Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
-dual status of literature between the universal and the concrete. For example,
-for Coleridge, the excellence of Shakespeare's works consisted in "that union
-and interpenetration of the universal and the particular
-[@coleridge_friend_1969, 457]." Wimsatt cites these passages to write that "in
-one terminology or another this idea of a concrete universal is found in most
-metaphysical aesthetic of the eighteenth and nineteenth centuries
-[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
-poem there is something "which can never be expressed in other terms." Like
-irrational numbers, poetry and poetic language for Wimsatt can only be
-approached at their limit, not as "all it would be, yet all that can be had
-[@wimsatt_structure_1947, 280]." Hegel's "universal concrete" formula captures
-an essential property of literature in its dual movement between the material
-and the ideal worlds.
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
@@ -2711,60 +2695,94 @@ leads to both ideas and physical medium.
 
 ### 3.3 Device as Gadget and Formula
 
-The history of literary scholarship is punctuated by moments of revolt against
-reading for latent content. A recent conversation on the merits of surface
-reading (as opposed to reading for hidden meaning) has rekindled an interest in
-the archeological metaphor, which understands textuality in terms of depth and
-surface. Two types of reading become evident in this model. Where the
-"symptomatic" literary critic reaches beyond the "ephemeral" external to
-uncover internal and eternal metaphysical truth within, Stephen Best and Sharon
-Marcus describe a constellation of reading practices concerned with "what is
-evident, perceptible, apprehensible in text: what is neither hidden nor hiding;
-what, in the geometrical sense, has length and breadth but no thickness, and
-therefore covers no depth [@best_surface_2009, 9]."
+Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
+Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
+dual status of literature between the universal and the concrete. For example,
+for Coleridge, the excellence of Shakespeare's works consisted in "that union
+and interpenetration of the universal and the particular
+[@coleridge_friend_1969, 457]." Wimsatt cites these passages to write that "in
+one terminology or another this idea of a concrete universal is found in most
+metaphysical aesthetic of the eighteenth and nineteenth centuries
+[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
+poem there is something "which can never be expressed in other terms." Like
+irrational numbers, poetry and poetic language for Wimsatt can only be
+approached at their limit, not as "all it would be, yet all that can be had
+[@wimsatt_structure_1947, 280]." Hegel's "universal concrete" formula captures
+an essential property of literature in its dual movement between the material
+and the ideal worlds.
 
-describe this mode of literary interpretation as
-"symptomatic reading," a strategy that seeks to uncover latent and concealed
-meaning beneath the evident surface of the text. For a Marxist critic like
-Terry Eagleton or Frederic Jameson that latent meaning may have something to do
-with hidden machinations of capital and ideology. The psychologically-minded
-critic reads in search of hidden drives, desires, or cognitive structures. In
-contrast to such symptomatic reading, Marcus and Best describe several
-contemporary theoretical trends that run counter to the Hegelian tradition,
-preferring instead to read at the surface of the text: descriptive reading,
-reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
-Best and Marcus further identify several types of surface reading: reading for
-material surface, reading for verbal structure, reading for affect, reading for
-description, reading for pattern, and finally, reading for literal meaning or
-"just reading." 
+The history of literary scholarship is also punctuated by moments of revolt
+against Hegelian reading for latent universalism. A recent conversation on the
+merits of surface reading has rekindled an interest in the archaeological
+metaphor, which understands textuality in terms of depth and surface. Two types
+of reading become evident in this model. The "symptomatic" literary critic
+reaches beyond the "ephemeral" external appearances to uncover internal and
+eternal metaphysical truth within. For a Marxist critic like Terry Eagleton or
+Frederic Jameson that latent meaning may have something to do with hidden
+machinations of capital and ideology. The psychologically-minded critic reads
+in search of hidden drives, desires, or cognitive structures. By contrast to
+symptomatic reading, Stephen Best and Sharon Marcus describe a constellation of
+reading practices concerned with "what is evident, perceptible, apprehensible
+in text: what is neither hidden nor hiding; what, in the geometrical sense, has
+length and breadth but no thickness, and therefore covers no depth
+[@best_surface_2009, 9]." The authors identify a constellation of related
+interpretation practices at the surface: reading for material surface, reading
+for verbal structure, reading for affect, reading for description, reading for
+pattern, and finally, reading for literal meaning or "just reading."
 
-FINISH THIS WITH CLAIMS TO INTERPRET, PRIESTS, AND MARTIN LUTHER.
+In the late 1960s, Susan Sontag similarly wrote about "the need for more
+attention to form in art." Interpretation can be liberating, she wrote, but it
+can also stifle creativity. It "depletes" the world in some way, placing the
+critic in a privileged and unnecessarily meddling position between reader and
+text. "If excessive stress on content provokes the arrogance of interpretation,
+more extended and more thorough descriptions of form would silence," she
+writes. "The best criticism, and it is uncommon, is of this sort that dissolves
+considerations of content into those of form [@sontag_against_1966, 8-9]."
+Marcus and Best remind the reader that Sontag's manifesto is more than a
+literary strategy, but also an "affective and ethical stance
+[@best_surface_2009, 10]." Strategies of "deep" interpretation carry with them
+also a claim to access, and an imbalance of interpretive acumen. The critic
+uncovers what the lay reader does not and cannot see. As an ethical stance,
+reading for external forms flattens the hierarchy between the lay reader and
+the professional interpreter. In this sense, Best, Marcus, and Sontag continue
+in the radical Lutheran tradition of vernacular exegesis.
 
-In the late 1960s, Susan Sontag wrote about "the need for more attention to
-form in art." Interpretation can be liberating, she wrote, but it can also
-stifle creativity. It "depletes" the world in some way, placing the critic in a
-privileged and unnecessarily meddling position between reader and text. "If
-excessive stress on content provokes the arrogance of interpretation, more
-extended and more thorough descriptions of form would silence," she writes.
-"The best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form [@sontag_against_1966, 8-9]." In
-yet an earlier counterinsurgency, at the turn of the 20th century, Russian and
-Italian formalists strove to break with Hegelian normative aesthetics by
-wedding literary criticism with descriptive linguistics. Seeing art as an
-economy of formal "devices" like rhyme and meter, the formalists downplayed the
-role of content and symbol. In this vein, the Italian futurist Filippo
-Marinetti wrote about the "grotesque funeral" of romantic notions of beauty,
-and the rise of a new "geometric and mechanical splendor." His generation was
-instead "in love with matter," wanting "to penetrate it and to understand its
-vibrations [@marinetti_marinetti:_1972, ???]."[^ln11-marinetti] Art cannot be
-reduced to "thinking in symbols" Viktor Shklovsky, a prominent Russian
-formalist, wrote in 1917. Meaning "dies" and "becomes invisible" through
-frequent use. Such dead and transparent language can no longer evoke wonder or
-curiosity. For Shklovsky and his peers, vital art counteracts death by
-"resurrecting the word" in "making the form difficult [@shklovsky_hod_1923,
-???]." Form, in that sense, resurrects content. The study of poetic language
-(not necessarily poetry) therefore pays attention to the devices that aid in
-the process of linguistic renewal.
+Yet, from all the offered strategies of surface reading, reading for form
+strikes me as most ambivalent. It is not clear, for example, what exactly
+Sontag means when she entreats her readers to concentrate on "how it is what it
+is" and not on "showing what it means." This sort of formalism seems to
+counteract the type of surface reading suggested by reading for "literal
+meaning," for example. Sontag's "erotics of art" stands in opposition to
+explanatory, meaning-making mode of analysis period. Erotics imply the
+transmission of understanding through bodily, lived experience. I understand
+clearly and relate to the stance against priestly mediation. But as a positive
+program, formalist poetics puzzle me, because form already occupies that
+ambivalent and mediating stance between inner depth and outer surface. Form
+makes the universal concrete. It connects physical shape with meaning. One
+cannot therefore entirely break out of the hermeneutic circle. I would like to
+show here, how the history of formalist poetics mirrors the ambiguity of form,
+in expanding the literary research program at once toward the outward material
+shape and into the universal ideal. Finally, as perhaps yet another gesture
+towards radical surface reading, I plan to examine the material structure of
+contemporary document at the level of physical magnetic storage medium.
+
+In yet an earlier counterinsurgency against reading for content, at the turn of
+the 20th century, Russian and Italian formalists strove to break with Hegelian
+normative aesthetics by wedding literary criticism with descriptive
+linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
+the formalists downplayed the role of content and symbol. In this vein, the
+Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
+romantic notions of beauty, and the rise of a new "geometric and mechanical
+splendor." His generation was instead "in love with matter," wanting "to
+penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
+???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
+Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
+"becomes invisible" through frequent use. Such dead and transparent language
+can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
+counteracts death by "resurrecting the word" in "making the form difficult
+[@shklovsky_hod_1923, ???]." Form, in that sense, resurrects content. The study
+of poetic language (not necessarily poetry) therefore pays attention to the
+devices that aid in the process of linguistic renewal.
 
 Shklovsky and his fellow members of the "OPOYAZ" group (instrumental in
 developing the notion of formalist poetics) also responded strongly to the
