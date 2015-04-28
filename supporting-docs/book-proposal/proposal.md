@@ -16,23 +16,25 @@ extant on every digital device destined for human--computer interaction.
 
 ## Theme and Argument
 
-Plain text is a file format and a frame of mind. A foundational concept in the
-development of computing, plain text stands in opposition to ways of thinking
-that have produced closed platforms, rarefied knowledge, and black-box devices.
-Instead, it offers a vision of data that is human-readable by design: portable,
-concise, and universal. This book contains a history of and an argument for
-plain text. In making my case, I seek to convene a community interested in
-reflecting critically on the ideas, tools, and practices that shape our daily
-encounter with computation.
+Plain text is a file format containing nothing but the "pure sequence of
+character codes." In technical terms, it stands in opposition to *fancy text*:
+"text representation consisting of plain text plus added information."[^ln-uni]
+The book unfolds a history of and an argument for plain text. In making my
+case, I argue that "other information" routinely embedded in all forms of
+contemporary textuality includes much more than instructions for "font size"
+and "paragraph justification." Increasingly, devices that mediate literary
+activity encode specific models of governance and control.
 
-I build on those principles to ask: what is at stake in the difference between
-digital and analog media? What contains more information, a novel or a block of
-wood? What separates meaning, form, and formatting? How do pixels form into
-texts? Where do data end and meta-data begin? To what extent do media determine
-the message? The formulation of these broadly theoretical concerns about the
-poetics of human--computer interaction opens the way to a discussion about the
-social impact of textual technology, as it relates to applied dynamics of
-online agency, deliberation, consensus-making, and dissent.
+The central concern of the book is to dispel the illusion of verisimilitude
+between text on paper and text on the screen. The words may look the same, but
+the underlying material affordances of the medium differ in significant
+regards. For a literary scholar, that means analysis cannot be confined to
+reading for meaning alone. How does reading persist, when the reading device
+can reconfigure a text dynamically: to fit individual taste, mood, or politics?
+The formulation of this narrowly literary-theoretical concern opens the way to
+the broader question of empowered human--computer interaction. Textual
+legibility, as I will argue, is crucial to a critical understanding of what it
+means to remain human in a digital world.
 
 Software developers, graphic designers, system administrators, and project
 managers routinely architect technologies that have deep cultural significance,
@@ -51,6 +53,166 @@ makers of technology, able to apply the same critical acuity to reading code
 and platform as they do to close reading of prose and poetry. Ultimately, the
 book makes a case for the recovery of textual roots already latent in the
 mechanisms of modern computing.
+
+[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
+Encoding, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
+
+The book is structured along a trajectory that begins at the material
+foundations of modern computing, at the level of circtuit and silicon, reaching
+up, through levels of abstraction (files, folders, and operating systems),
+towards the reader. In following that path, I reconstruct the passage of an
+electron from the mechanical action of the keyboard, to magnetic storage
+medium, and to liquid crystal, that together give rise to pixels, letters, and
+words. In this sense, my book introduces a method of literary microanalysis.
+Where distant reading perceives patterns across large-scale literary copora,
+microanalysis breaks textuality down to its minute constituant components. It
+is at this level, that I find that readers and writers are in danger of
+becomeing fundamentally aliented from the material contexts of knowledge
+production.
+
+## Annotated Table of Contents
+
+### Chapter 1: We Have Always Been Digital
+
+Discourse around the digital humanities needs a robust sense of the digital.
+My first chapter begins with popular intuitions about the "look and feel" of
+digital aesthetics. Here, I find that sometimes, the adjective carries the
+connotation of "discrete," while at other times, it is used to mean something
+more fluid and continuous, past the point of human perception. A discussion of
+Liquid Crystal Display technology (LCD) flows into a section that deals with
+digital representation from the perspective of analytic philosophy and through
+aesthetics of Nelson Goodman. My summary of that tradition reveals that
+language and text are already in some sense "born digital," that is
+"reproducible" and "differentiated" throughout. Furthermore, digitality depends
+on "reliable processes of copying and preservation"---processes that can mean
+something different to a philosopher than to a librarian. From these insights I
+take it that "being digital" is not an intrinsic ontological condition, but
+rather a structure imposed from without. The chapter ends with a history of
+Morse, Hughes, and Baudot character encodings, in which the dichotomy between
+digital and analog is superseded by the distinction between binary and plain
+text formats.
+
+### Chapter 2: Literature Down to the Pixel
+
+Having established the grounds for digital textuality in the history of
+character encoding, I begin the work of moving from "low-level" first-order
+concepts such as "text" and "code" up to second-order concepts such as
+"literature" and "canon." The chapter starts by developing a theory of
+"microanalysis," the closest possible kind of reading that pays attention to
+the material contexts of knowledge production. I argue here that the concern
+with value in literary criticism detracts from the explicit movement of control
+and power intimately connected to digital textuality. Unlike scholars in the
+Foucauldian tradition (who often trace the machinations of power through
+discourse, on the level of representation), I concentrate my analysis on
+mechanisms of control at the material roots of literary practice. In presenting
+a media history through primary sources on early development of Turing
+machines, I show the explicit admixture of content and code: one meant to
+communicate messages to humans and the other to program universal machines.
+This history is not entirely critical: rather, it reveals an alternative
+genealogy of computing, contrary to the widely accepted notions of the computer
+as a device for reductive quantification. I conclude by arguing that Turing
+machines were anticipated not by the Babbage calculator alone, but also by a
+series of advances in communications, word processing, and media storage. A
+notion of text (as opposed to number) is hence "baked into" the system.
+
+### Chapter 3: Laying Bare the Device
+
+The chapter begins by outlining a recent discussion on surface reading. I ask:
+What lies beneath the text? The question leads into a discussion about the
+differences between form and content: two theoretical concepts crucial to
+understanding the structure of plain text and binary file formats. I find that,
+going back to Plato and Hegel, "form" was at times used to indicate physical
+structure and at other times to indicate immaterial categories in the ideal
+realm. The chapter's middle section takes up the notion of "ephemeral"
+textuality. A case study in removable storage (like ticker tape and floppy
+disks) elucidates the movement of text from human-legible inscription on page
+(and punch card) to invisible inscription embedded into magnetic media as
+electrical charge. The case study unfolds the distinction between print (in
+which matter, form, and content lie flat) and screen (where the three layers
+occupy physically distinct layers, providing only the illusion of flattened
+textuality). The discussion concludes with a stark image, visually illustrating
+the difference between plain text and binary formats. To produce the image, I
+inject malicious code into an Adobe Acrobat file (`.pdf`), showing the contrast
+between surface text and its underlying magnetically bound bit structure.
+
+### Chapter 4: Media are Not the Message
+
+In this chapter I make two significant interventions in media studies and
+literary theory. First, I argue that media should not be confused with
+messages. Starting with the (sometimes oversimplified) legacy of Marshall
+McLuhan, I examine several models of communication, including ones proposed by
+semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jakobson),
+engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
+von Uexküll, Gregory Bateson, and Thomas Sebok). Corresponding to the mediating
+role of "form" in the previous chapters, I find that the "mode" of the written
+communication act does something akin to "attuning" the reader (receiver) to
+the encoding of the message (and to the corresponding cultural techniques of
+apprehension). At the center of the chapter is a case study based on a
+real-world text "written" by a troupe of Sulawesi macaques as part of an art
+project at Britain's Paignton Zoo. (The text was subsequently published under
+the title *Notes towards the Complete Works of Shakespeare*, Vivaria Press,
+2002.) The possibility of a randomly generated zoo-text points to the
+conclusion of the chapter, containing an argument against a "systems"
+definition of information. In what Shannon calls a "strange feature" of this
+communication theory, information is defined as the amount of "freedom" or
+entropy in the system. By contrast, I want to insist on an agency-based model
+of information processing, in which texts mean things *for* free and conscious
+beings.
+
+### Chapter 5: Recursive Encounters with Oneself
+
+This chapter begins with a close reading of Beckett's *Krapp's Last Tape*. The
+title character makes yearly audio recordings of himself, only to revisit them
+and to enter into a sort of a dialog with himself on occasion. I posit this
+personal archive as Krapp's "media being" and suggest that all of us perform a
+similar act as we encounter externalized representations of our consciousness
+through files, bookshelves, and folders. Sartre's idea of an "appointment with
+oneself" helps to see this external structure of documents as a cognitive
+extension, in need of delicate pruning and arrangement. Documents, in this
+light are shown to exist not as completed works, but as "vectors" that mutate
+and move through time and space. Pushing off the communication model described
+in the last chapter, I ask: What is being externalized onto media? And answer:
+It is not simply a message, but the subject itself.
+
+### Chapter 6: Bad Links
+
+Where do textual vectors lead us? In this chapter I examine three answers,
+given at three distinct moments in recent literary history. First, I recall the
+discourse surrounding structuralist "intertextuality"---the idea that textual
+meaning is always created in relation to another text. Second, I review the
+promises and the failures of "hypertext," an idea which gained prevalence in
+literary studies with the advent of the internet. Finally, I reflect on the
+current moment, in which "network analysis," a technique that seeks to
+visualize linkages between texts, is being held up by some as the next step in
+the evolution of textual analysis. In all three of these methodological
+moments, I find a similar promise of emergence: the notion that order can
+appear spontaneously as the aggregate result of simple interactions at the
+level of the system (this notion also at the core of Callon and Latour's
+actor--network theory). I take the occasion of examining the heavily
+hyperlinked and intertextual essays of Gwern (a mysterious contemporary
+"researcher, self-experimenter, and writer") to criticize what I call the
+"systems view" of literature, which privileges assemblages over the individual.
+
+### Chapter 7: Engineering for Dissent
+
+In this final chapter, I argue for the recovery and the preservation of plain
+textuality in the day-to-day practice of modern computing. Returning to the
+history of the `.txt` file format, I find that early documents from the
+International Telecommunication Union (and later international bodies governing
+the exchange of information across state borders) display unease with
+encrypted, non-human-readable formats of information exchange. A theoretical
+treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
+and Golumbia concludes with a discussion about a subject's role in actively
+shaping material conditions of media being. As documents reflecting
+externalized states of consciousness become increasingly transparent, they are
+susceptible to increased surveillance and control. Plain text allows political
+subjects to decouple externalized mental states from mechanisms of governance.
+(In other words, to decide actively when to opt in and when to opt out.) This
+affordance is not, however, a deterministic property of literature, the
+internet, or any other information exchange system. Rather, the design of
+complex systems must itself become critical practice, which, in complement to
+critical theory, can actively engineer for textual mechanisms that make
+individual dissent possible.
 
 ## Field Significance
 
@@ -245,150 +407,6 @@ foundation for the ideas advanced within.
 In addition, the manuscript contains 15--20 tables and illustrations. I have
 received a modest subvention to offset any costs associated with publishing and
 preparation of the manuscript.
-
-## Annotated Table of Contents
-
-### Chapter 1: We Have Always Been Digital
-
-Discourse around the digital humanities needs a robust sense of the digital.
-The first chapter begins with popular intuitions about the "look and feel" of
-digital aesthetics. A case study of television motion blur (and the related
-"soap opera effect") undermines the initial ease with which notions of the
-digital are overdetermined to stand in for a range of often conflicting
-modalities. The next section of this chapter deals with the analytic tradition
-of discussing media in terms of analog and digital representation (via Nelson
-Goodman and John Haugeland). My summary of that tradition shows that language
-and text are already in a sense "born digital," that is, discrete and
-differentiated throughout. Furthermore, digitality depends on "reliable
-processes of copying and preservation"---processes that can mean something
-different to a philosopher than to a librarian. From these insights I take it
-that "being digital" is not an intrinsic ontological condition, but rather a
-structure imposed from without. That structure is further imposed on the media
-"consumer." It does not necessarily constitute a property of the medium itself,
-manifesting in specific technological affordances. "Is it copyable?" becomes
-"Can I copy it?" The chapter ends with a history of Morse, Hughes, and Baudot
-character encodings, in which the dichotomy between digital and analog is
-superseded by the distinction between binary and plain text formats.
-
-### Chapter 2: Literature Down to the Pixel
-
-Having established the grounds for digital textuality in the history of
-character encoding, I begin the work of moving from "low-level" first-order
-concepts such as "text" and "code" up to second-order concepts such as
-"literature" and "canon." The chapter starts by developing a theory of
-"microanalysis," the closest possible kind of reading that pays attention to
-the material contexts of knowledge production. I argue here that the concern
-with value in literary criticism detracts from the explicit movement of control
-and power intimately connected to digital textuality. Unlike scholars in the
-Foucauldian tradition (who often trace the machinations of power through
-discourse, on the level of representation), I concentrate my analysis on
-mechanisms of control at the material roots of literary practice. In presenting
-a media history through primary sources on early development of modern
-computing, I show the explicit admixture of content and code: one meant to
-communicate messages to humans and the other to program universal machines.
-This history is not entirely critical: rather, it reveals an alternative
-genealogy of computing, contrary to the widely accepted notions of the computer
-as a device for reductive quantification. I conclude by arguing that Turing
-machines were anticipated not by the Babbage calculator alone, but also by a
-series of advances in communications, word processing, and media storage. A
-notion of text (as opposed to number) is hence "baked into" the system.
-
-### Chapter 3: Laying Bare the Device
-
-The chapter begins by outlining a recent discussion on surface reading. I ask:
-What lies beneath the text? The question leads into a discussion about the
-difference between form and content: two theoretical concepts crucial to
-understanding the difference between plain text and binary file formats. I find
-that, going back to Plato and Hegel, "form" was at times used to indicate
-physical structure and at other times to indicate immaterial categories in the
-ideal realm. The chapter's middle section takes up the notion of "ephemeral"
-textuality. A case study in removable storage elucidates the movement of text
-from human-legible inscription on page (and punch card) to invisible
-inscription embedded into magnetic media as electrical charge. The case study
-unfolds the distinction between print (in which matter, form, and content lie
-flat) and screen (where the three layers occupy physically distinct layers,
-providing only the illusion of flattened textuality). The discussion concludes
-with a stark image, visually illustrating the difference between plain text and
-binary formats. To produce the image, I inject malicious code into an Adobe
-Acrobat file, showing the contrast between surface text and its underlying
-magnetically bound bit structure.
-
-### Chapter 4: Media are Not the Message
-
-In this chapter I make two significant interventions in media studies and
-literary theory. First, I argue that media should not be confused with
-messages. Starting with the (sometimes oversimplified) legacy of Marshall
-McLuhan, I examine several models of communication, including ones proposed by
-semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jakobson),
-engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
-von Uexküll, Gregory Bateson, and Thomas Sebok). Corresponding to the mediating
-role of "form" in the previous chapter, I find that the "mode" of the written
-communication act does something akin to "attuning" the reader (receiver) to
-the encoding of the message (and to the corresponding cultural techniques of
-apprehension). At the center of the chapter is a case study based on a
-real-world text "written" by a troupe of Sulawesi macaques as part of an art
-project at Britain's Paignton Zoo. (The text was subsequently published under
-the title *Notes towards the Complete Works of Shakespeare*, Vivaria Press,
-2002.) The possibility of a randomly generated zoo-text points to the
-conclusion of the chapter, containing an argument against a "systems"
-definition of information. In what Shannon calls a "strange feature" of this
-communication theory, information is defined as the amount of "freedom" or
-entropy in the system. By contrast, I want to insist on an agency-based model
-of information processing, in which texts mean things *for* free and conscious
-beings.
-
-### Chapter 5: Recursive Encounters with Oneself
-
-This chapter begins with a close reading of Beckett's *Krapp's Last Tape*,
-positing magnetic storage media as the "media being" of the play's title
-character. Krapp helps to unfold the problematic of documents: not as passive
-completed texts, but as vectors that mutate and move through time and space.
-Documents, as I argue here, constitute a platform for what I call "media
-being." Pushing off the communication model described in the last chapter, I
-ask: What is being communicated? And answer: It is the subject itself. The
-chapter ends with an explication of Sartre's idea of an "appointment with
-oneself," which I take to happen at the document level, through a series of
-encounters with one's own external manifestations of consciousness (i.e. tape
-and other portable storage media).
-
-### Chapter 6: Bad Links
-
-Where do the document vectors lead? In this chapter I triangulate between (1)
-structuralist notions of literary intertextuality, (2) the promises and
-failures of hypertextuality in the 1990s, and (3) contemporary paradigms in
-network analysis. In each of these historically distinct theoretical moments, I
-find a similar promise of emergence: the idea that order can appear
-spontaneously as the aggregate result of simple interactions at the level of
-the system (the idea also at the core of Callon and Latour's actor--network
-theory). Once again, I make the rhetorical move against the systems view, both
-generally, and particularly as that view is applied in literary studies. In
-examining the heavily hyperlinked and intertextual essays of Gwern, a
-mysterious contemporary "researcher, self-experimenter, and writer," I contrast
-the structure of links to that of lists. A discussion on "linked lists" in
-computer science leads to a conclusion that relates to the aesthetics of code
-and to the role of an individual in relation to the assemblage.
-
-### Chapter 7: Engineering for Dissent
-
-In this final chapter, I argue for the recovery and the preservation of plain
-textuality in the day-to-day practice of modern computing. Returning to the
-history of the `.txt` file format, I find that early documents from the
-International Telecommunication Union (and later international bodies governing
-the exchange of information across state borders) display unease with
-encrypted, non-human-readable formats of information exchange. A theoretical
-treatment of technological skepticism from Marx, Heidegger, Mumford, Kittler,
-and Golumbia concludes with a discussion about a subject's role in actively
-shaping material conditions of media being. As documents reflecting
-externalized states of consciousness become increasingly transparent, they are
-susceptible to increased surveillance and control. Plain text allows political
-subjects to decouple externalized mental states from mechanisms of governance.
-(In other words, to decide actively when to opt in and when to opt out.) This
-affordance is not, however, a deterministic property of literature, the
-internet, or any other information exchange system. Rather, the design of
-complex systems must itself become critical practice, which, complementing
-critical theory, can actively engineer for textual mechanisms that make
-individual dissent possible.
-
 
 ## Tech Appendix
 
