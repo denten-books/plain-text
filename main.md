@@ -2378,7 +2378,7 @@ with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
 ## Chapter 3: Laying Bare the Device
-`content, matter, device, form, formatting`
+`content, form, formula, formatting, device`
 
 ### 3.0 Abstract
 
@@ -2490,7 +2490,7 @@ storage differ drastically from those of goat skins or parchment. Yet surface
 representation maintains the illusion of self-similarity. I am concerned here
 with the particularities of that illusion. A poem, a novel, a physician's
 script, or a legal contract all still look like their paper counterparts, but
-increasingly they behave like gadgets. These reading and writing appliences do
+increasingly they behave like gadgets. These reading and writing appliances do
 not mediate silently: they monitor, adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
@@ -2579,22 +2579,6 @@ he calls the stage of "free concrete spirituality" (*freie konkrete
 Geistigkeit*) [@hegel_werke:_1986]. The idea overcomes matter to become both
 free from the constraints of the deterministic physical universe, yet gaining a
 measure of solidity in its concrete and tangible instantiation.
-
-Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
-Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
-dual status of literature between the universal and the concrete. For example,
-for Coleridge, the excellence of Shakespeare's works consisted in "that union
-and interpenetration of the universal and the particular
-[@coleridge_friend_1969, 457]." Wimsatt cites these passages to write that "in
-one terminology or another this idea of a concrete universal is found in most
-metaphysical aesthetic of the eighteenth and nineteenth centuries
-[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
-poem there is something "which can never be expressed in other terms." Like
-irrational numbers, poetry and poetic language for Wimsatt can only be
-approached at their limit, not as "all it would be, yet all that can be had
-[@wimsatt_structure_1947, 280]." Hegel's "universal concrete" formula captures
-an essential property of literature in its dual movement between the material
-and the ideal worlds.
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
@@ -2709,98 +2693,82 @@ conceal inner content. In the tripartite model suggested by Hegel's "concrete
 universal," we perceive text as indeterminate (or overdetermined) form, which
 leads to both ideas and physical medium.
 
-It is in this sense one can best understand the structure of modern "digital"
-documents. Some of the earliest computer-aided text editors modeled documents
-in this way, separating the layers of physical, formatting, and content
-structure. Describing *EDIT*, one of the earliest editors designed for the
-GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
-writes: "The publication editor is divided into three related sections, the
-document layout facility, the editing facility, and the printing facility
-[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing. These
-"primitive requests" can be combined to describe more complex "structures of
-the printed text."
-
-The creators of *QED*, another influential early text editor (created for
-SDS-930 time sharing system at Berkley) similarly encourage the user "to think
-in terms of structure" of the text. Both *QED* and *EDIT* begin to separate
-content and formatting for later re-combination and imprinting onto an external
-storage medium. Kaiman explains that "the user types the document layout file
-and the text file, then produces a proof or master copy of the text by printing
-the text according to the directions of the layout file. The text file contains
-layout marks to be interpreted by the layout file." "Text" in this schema,
-constitutes content meaningful only to the user, whereas layout contains some
-elements meaningful to the human and some elements as code instructions
-intended to for device control. The notion of "formatting" therefore mediates
-between the the logical (semantic) and layout (stylistic) structural
-representations.
-
-![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
-
-A seminal paper in the field of strucutred document proposes the following
-model. Firs, "a document is an object composed of a hierarchy of primitive
-objects," the authors Futura, Scofield, and Shaw write. We have to ideas from
-the start: composability and hierarchy. An document is a thing made up of other
-objects, like senteces and paragraphs. Furthermore, these things stand in a
-hierarchichal relationaship to each other. Paragraphs contain sentences, and
-not the other way around, for example. Second, "each object is an instance of a
-class." Document level classes include "letters," "theses," "reccomendation,"
-and "papers for a particular journal." Lower level classes include sections,
-paragraphs, footnotes, and so on. Finally, "objects are further classified as
-either abstract or concrete." In this, the Hegelian debt 
-
-[@furuta_document_1982, 418-69].
-
-Alan C. Shaw's influential "Model for Document Prepration," similarly
-indentifies three respresentations of the document: as "abstract model," as
-"concerete appearance," and as "concrete representation."
-The ISO ODA Draft International Standard proposed in 1986 similarly understands
-formatting to contain both what it calls "logical structure" and "layout
-structure." Logical structure includes semantically meaningfull elements like
-sections, section headings, and paragraphs. Layout structure contains 
-
 ### 3.3 Device as Gadget and Formula
 
-The history of literary scholarship is punctuated by moments of revolt against
-reading for latent content. A recent conversation on the merits of surface
-reading (as opposed to reading for hidden meaning) has rekindled an interest in
-the archeological metaphor, which understands textuality in terms of depth and
-surface. Two types of reading become evident in this model. Where the
-"symptomatic" literary critic reaches beyond the "ephemeral" external to
-uncover internal and eternal metaphysical truth within, Stephen Best and Sharon
-Marcus describe a constellation of reading practices concerned with "what is
-evident, perceptible, apprehensible in text: what is neither hidden nor hiding;
-what, in the geometrical sense, has length and breadth but no thickness, and
-therefore covers no depth [@best_surface_2009, 9]."
+Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
+Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
+dual status of literature between the universal and the concrete. For example,
+for Coleridge, the excellence of Shakespeare's works consisted in "that union
+and interpenetration of the universal and the particular
+[@coleridge_friend_1969, 457]." Wimsatt cites these passages to write that "in
+one terminology or another this idea of a concrete universal is found in most
+metaphysical aesthetic of the eighteenth and nineteenth centuries
+[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
+poem there is something "which can never be expressed in other terms." Like
+irrational numbers, poetry and poetic language for Wimsatt can only be
+approached at their limit, not as "all it would be, yet all that can be had
+[@wimsatt_structure_1947, 280]." Hegel's "universal concrete" formula captures
+an essential property of literature in its dual movement between the material
+and the ideal worlds.
 
-describe this mode of literary interpretation as
-"symptomatic reading," a strategy that seeks to uncover latent and concealed
-meaning beneath the evident surface of the text. For a Marxist critic like
-Terry Eagleton or Frederic Jameson that latent meaning may have something to do
-with hidden machinations of capital and ideology. The psychologically-minded
-critic reads in search of hidden drives, desires, or cognitive structures. In
-contrast to such symptomatic reading, Marcus and Best describe several
-contemporary theoretical trends that run counter to the Hegelian tradition,
-preferring instead to read at the surface of the text: descriptive reading,
-reading for form, for material, or "just reading [@best_surface_2009, 1-12]."
-Best and Marcus further identify several types of surface reading: reading for
-material surface, reading for verbal structure, reading for affect, reading for
-description, reading for pattern, and finally, reading for literal meaning or
-"just reading." 
+The history of literary scholarship is also punctuated by moments of revolt
+against Hegelian reading for latent universalism. A recent conversation on the
+merits of surface reading has rekindled an interest in the archaeological
+metaphor, which understands textuality in terms of depth and surface. Two types
+of reading become evident in this model. The "symptomatic" literary critic
+reaches beyond the "ephemeral" external appearances to uncover internal and
+eternal metaphysical truth within. For a Marxist critic like Terry Eagleton or
+Frederic Jameson that latent meaning may have something to do with hidden
+machinations of capital and ideology. The psychologically-minded critic reads
+in search of hidden drives, desires, or cognitive structures. By contrast to
+symptomatic reading, Stephen Best and Sharon Marcus describe a constellation of
+reading practices concerned with "what is evident, perceptible, apprehensible
+in text: what is neither hidden nor hiding; what, in the geometrical sense, has
+length and breadth but no thickness, and therefore covers no depth
+[@best_surface_2009, 9]." The authors identify a constellation of related
+interpretation practices at the surface: reading for material surface, reading
+for verbal structure, reading for affect, reading for description, reading for
+pattern, and finally, reading for literal meaning or "just reading."
 
-FINISH THIS WITH CLAIMS TO INTERPRET, PRIESTS, AND MARTIN LUTHER.
+In the late 1960s, Susan Sontag similarly wrote about "the need for more
+attention to form in art." Interpretation can be liberating, she wrote, but it
+can also stifle creativity. It "depletes" the world in some way, placing the
+critic in a privileged and unnecessarily meddling position between reader and
+text. "If excessive stress on content provokes the arrogance of interpretation,
+more extended and more thorough descriptions of form would silence," she
+writes. "The best criticism, and it is uncommon, is of this sort that dissolves
+considerations of content into those of form [@sontag_against_1966, 8-9]."
+Marcus and Best remind the reader that Sontag's manifesto is more than a
+literary strategy, but also an "affective and ethical stance
+[@best_surface_2009, 10]." Strategies of "deep" interpretation carry with them
+also a claim to access, and an imbalance of interpretive acumen. The critic
+uncovers what the lay reader does not and cannot see. As an ethical stance,
+reading for external forms flattens the hierarchy between the lay reader and
+the professional interpreter. In this sense, Best, Marcus, and Sontag continue
+in the radical Lutheran tradition of vernacular exegesis.
 
-In the late 1960s, Susan Sontag wrote about
-"the need for more attention to form in art." Interpretation can be liberating,
-she wrote, but it can also stifle creativity. It "depletes" the world in some
-way, placing the critic in a privileged and unnecessarily meddling position
-between reader and text. "If excessive stress on content provokes the arrogance
-of interpretation, more extended and more thorough descriptions of form would
-silence," she writes. "The best criticism, and it is uncommon, is of this sort
-that dissolves considerations of content into those of form
-[@sontag_against_1966, 8-9]." In yet an earlier counterinsurgency, at the turn
-of the 20th century, Russian and Italian formalists strove to break with
-Hegelian normative aesthetics by wedding literary criticism with descriptive
+Yet, from all the offered strategies of surface reading, reading for form
+strikes me as most ambivalent. It is not clear, for example, what exactly
+Sontag means when she entreats her readers to concentrate on "how it is what it
+is" and not on "showing what it means." This sort of formalism seems to
+counteract the type of surface reading suggested by reading for "literal
+meaning," for example. Sontag's "erotics of art" stands in opposition to
+explanatory, meaning-making mode of analysis period. Erotics imply the
+transmission of understanding through bodily, lived experience. I understand
+clearly and relate to the stance against priestly mediation. But as a positive
+program, formalist poetics puzzle me, because form already occupies that
+ambivalent and mediating stance between inner depth and outer surface. Form
+makes the universal concrete. It connects physical shape with meaning. One
+cannot therefore entirely break out of the hermeneutic circle. I would like to
+show here, how the history of formalist poetics mirrors the ambiguity of form,
+in expanding the literary research program at once toward the outward material
+shape and into the universal ideal. Finally, as perhaps yet another gesture
+towards radical surface reading, I plan to examine the material structure of
+contemporary document at the level of physical magnetic storage medium.
+
+In yet an earlier counterinsurgency against reading for content, at the turn of
+the 20th century, Russian and Italian formalists strove to break with Hegelian
+normative aesthetics by wedding literary criticism with descriptive
 linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
 the formalists downplayed the role of content and symbol. In this vein, the
 Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
@@ -2917,6 +2885,69 @@ Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
 
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
+
+It is in this sense one can best understand the structure of modern "digital"
+documents. Some of the earliest computer-aided text editors modeled documents
+in this way, separating the layers of physical, formatting, and content
+structure. Describing *EDIT*, one of the earliest editors designed for the
+GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
+writes: "The publication editor is divided into three related sections, the
+document layout facility, the editing facility, and the printing facility
+[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
+contains such things as justification, indentation, and spacing. These
+"primitive requests" can be combined to describe more complex "structures of
+the printed text."
+
+The creators of *QED*, another influential early text editor (created for
+SDS-930 time sharing system at Berkley) similarly encourage the user "to think
+in terms of structure" of the text. Both *QED* and *EDIT* begin to separate
+content and formatting for later re-combination and imprinting onto an external
+storage medium. Kaiman explains that "the user types the document layout file
+and the text file, then produces a proof or master copy of the text by printing
+the text according to the directions of the layout file. The text file contains
+layout marks to be interpreted by the layout file." "Text" in this schema,
+constitutes content meaningful only to the user, whereas layout contains some
+elements meaningful to the human and some elements as code instructions
+intended to for device control. The notion of "formatting" therefore mediates
+between the logical (semantic) and layout (stylistic) structural
+representations.
+
+![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
+
+A seminal paper in the field of structured document proposes the following
+model. First, "a document is an object composed of a hierarchy of primitive
+objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
+the start: composability and hierarchy. A document is a thing made up of other
+objects, like sentences and paragraphs. Furthermore, these things stand in a
+hierarchical relationship to each other. Paragraphs contain sentences, and not
+the other way around, for example. Second, "each object is an instance of a
+class." Document level classes include "letters," "theses," "recommendation,"
+and "papers for a particular journal." Lower level classes include sections,
+paragraphs, footnotes, and so on. Finally, "objects are further classified as
+either abstract or concrete." By this, the writers mean abstract or "logical"
+(in their words) objects, like words and ideas. We could understand this as
+content, where "concrete" objects are defined "over one or more two-dimensional
+*page spaces* and represent possible formatted images of abstract objects
+[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
+other words, gives physical shape, or layout, to the instantiation of abstract
+classes like a paragraph or a sentence. They are specific paragraphs and
+sentences "laid out" in page space. The document--object model speaks the
+language of Hegelian universal concrete, and is encoded as such.
+
+Here's where things really interesting. In the object model further gives rise
+to three "operations," tied to the "domain and range" of objects. *Editing*, in
+this model, comprises operations that move from abstract to abstract, or, from
+concrete to concrete domains. Spelling correction, for example, constitutes an
+editing manipulation where abstract objects are modified into other abstract
+objects. *Formatting,* can then be defined as giving shape to abstract objects
+in the transformation between abstract and concrete objects. Italicizing a
+word, for example, gives the idea of "emphasis" a slanted form. Finally, the
+authors define *viewing* as the movement from concrete objects to the output
+device. This stage flattens out the layers of ideas and formatting, rendering
+and making them visible on screen or page [@furuta_document_1982, 419-20;
+@kimura_structure_1984]. Similar to Hegel's "universal concrete," formatting
+in the document--object model bridges the gap between ideas and matter.
+
 
 What lies beneath the text? We are accustomed to thinking about that question
 metaphorically and answer in accord: meaning, narrative, representation, order,
@@ -5540,9 +5571,8 @@ individual dissent possible.
 
 ### 3.4 Algorithm as Fetish
 
-Wendy Hui Kyong Chun
-On "Sourcery," or Code as Fetish. What could knowing software even mean, she
-asks.
+Wendy Hui Kyong Chun On "Sourcery," or Code as Fetish. What could knowing
+software even mean, she asks.
 
 I can only begin to work of re-inscribing the A more careful analysis of
 "microscopically written inscriptions" [@kittler_there_1995] in the in the
@@ -5567,8 +5597,8 @@ interest lies in the humanism of Marx, whose thought, despite being perpetually
 out of time, continues to surprise with penetrating insight.
 
 "All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual minds or from some
-'essential' properties of a digital computer or network. They come from
+social in a sense that they don't simply come from individual minds or from
+some 'essential' properties of a digital computer or network. They come from
 software developed by groups of people and marketed to large number of users
 [@manovich_there_2011, 272-273]."
 
@@ -5604,8 +5634,7 @@ In religion people make their empirical world into an entity that is only
 conceived, imagined, that confronts them as something foreign
 [@marx_collected_1976, 159].
 
-imagined commodity =
-algorithm labor = contracts, agreements
+imagined commodity = algorithm labor = contracts, agreements
 
 [^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -5616,10 +5645,10 @@ appeared in the same volume of collected essays, @herken_universal_1988.
 [^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
 the "application layer" and the bottom-most layer the "physical layer
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
-as being "responsible for encoding bits onto a transmission medium, whether
-wires, fiber optics, or radio broadcast, in ways that maximize the transmission
-rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
+being "responsible for encoding bits onto a transmission medium, whether wires,
+fiber optics, or radio broadcast, in ways that maximize the transmission rate
+and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
 
 [^ln2-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
@@ -5636,23 +5665,23 @@ René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln2-alt]: "We have to think (in a completely novel way) the relation
-between a science and the ideology [...] the fact that such an investigation
-confronts us with the observation that every science, in the relationship it
-has with ideology it emerged from, can only be thought as a 'science of
-ideology, would disconcert us, were we not forewarned of the name of the
-*object* of knowledge, which can only exist in the form of ideology
-[@althusser_reproduction_2014, 46]."
+[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+a science and the ideology [...] the fact that such an investigation confronts
+us with the observation that every science, in the relationship it has with
+ideology it emerged from, can only be thought as a 'science of ideology, would
+disconcert us, were we not forewarned of the name of the *object* of knowledge,
+which can only exist in the form of ideology [@althusser_reproduction_2014,
+46]."
 
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
-like "ethnology-like any science-comes about within the element of discourse,"
-and "this moment was that in which language invaded the universal problematic;
-that in which, in the absence of a center or origin, everything became
-discourse-provided we can agree on this word-that is to say, when everything
-became a system where the central signified, the original or transcendental
-signified, is never absolutely present outside a system of differences. The
-absence of the transcendental signified extends the domain and the interplay of
-signification ad infinitum" (278-294).
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+statements like "ethnology-like any science-comes about within the element of
+discourse," and "this moment was that in which language invaded the universal
+problematic; that in which, in the absence of a center or origin, everything
+became discourse-provided we can agree on this word-that is to say, when
+everything became a system where the central signified, the original or
+transcendental signified, is never absolutely present outside a system of
+differences. The absence of the transcendental signified extends the domain and
+the interplay of signification ad infinitum" (278-294).
 
 [^ln2-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
@@ -5698,26 +5727,24 @@ the illusion of disempowerment. I view "control" in that sense not as an
 ideology, but as the ability to physically alter the material conditions of
 literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
-### 7.1 ITU
+content and code as control.  ### 7.1 ITU
 
 Related to secrecy.  Plain language and Secret language (telegraph regulations
 1932).  "Plain language is that which presents an intelligible meaning in one
 or more of the languages authorized for international telegraph correspondence,
 each word and each expression having the meaning normally assigned to it in the
-language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is composed either
-of artificial words, or of real words not used in the meaning normally assigned
-to them in the language to which they belong and consequently not forming
-intelligeble phrases" [@itu_telegraph_1932, 12].
+language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is
+composed either of artificial words, or of real words not used in the meaning
+normally assigned to them in the language to which they belong and consequently
+not forming intelligeble phrases" [@itu_telegraph_1932, 12].
 
-Encrypted literature. Revealment and dissimulation. Notions of
-textuality as embroiled in contemporary ideas of privacy, secrecy, and
-transparency.  Computation does not necessarily work for the
-military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
-Recovering and preserving textuality in computing.
+Encrypted literature. Revealment and dissimulation. Notions of textuality as
+embroiled in contemporary ideas of privacy, secrecy, and transparency.
+Computation does not necessarily work for the military-industrial apparatus (as
+argued by Golumbia, Lennon, and McPherson).  Recovering and preserving
+textuality in computing.
 
-Brooks Act 1965.
-Man in the middle attacks.
+Brooks Act 1965.  Man in the middle attacks.
 
 ### 7.2 Technological Skepticism
 
@@ -5742,13 +5769,12 @@ historically (where Lennon gets it right). You are not a gadget.
 
 ### 7.4 Dissent
 
-Sartre?
-Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
+Sartre?  Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
 Mumford Condition of Man?
 
-Yet, to make the subjective experience strange again is to look at it
-through the eyes of a stranger. Makhail Bakhtin writes (in what I think is a
-previously untranslated passage):
+Yet, to make the subjective experience strange again is to look at it through
+the eyes of a stranger. Makhail Bakhtin writes (in what I think is a previously
+untranslated passage):
 
 > It is not I who looks out from the inside, but I look at myself with the eyes
 of the world, strange eyes; I am possessed by another. There is no integrity of
