@@ -2732,32 +2732,54 @@ layout marks to be interpreted by the layout file." "Text" in this schema,
 constitutes content meaningful only to the user, whereas layout contains some
 elements meaningful to the human and some elements as code instructions
 intended to for device control. The notion of "formatting" therefore mediates
-between the the logical (semantic) and layout (stylistic) structural
+between the logical (semantic) and layout (stylistic) structural
 representations.
 
 ![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
 
-A seminal paper in the field of strucutred document proposes the following
-model. Firs, "a document is an object composed of a hierarchy of primitive
-objects," the authors Futura, Scofield, and Shaw write. We have to ideas from
-the start: composability and hierarchy. An document is a thing made up of other
-objects, like senteces and paragraphs. Furthermore, these things stand in a
-hierarchichal relationaship to each other. Paragraphs contain sentences, and
-not the other way around, for example. Second, "each object is an instance of a
-class." Document level classes include "letters," "theses," "reccomendation,"
+A seminal paper in the field of structured document proposes the following
+model. First, "a document is an object composed of a hierarchy of primitive
+objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
+the start: composability and hierarchy. A document is a thing made up of other
+objects, like sentences and paragraphs. Furthermore, these things stand in a
+hierarchical relationship to each other. Paragraphs contain sentences, and not
+the other way around, for example. Second, "each object is an instance of a
+class." Document level classes include "letters," "theses," "recommendation,"
 and "papers for a particular journal." Lower level classes include sections,
 paragraphs, footnotes, and so on. Finally, "objects are further classified as
-either abstract or concrete." In this, the Hegelian debt 
+either abstract or concrete." By this, the writers mean abstract or "logical"
+(in their words) objects, like words and ideas. We could understand this as
+content, where "concrete" objects are defined "over one or more two-dimensional
+*page spaces* and represent possible formatted images of abstract objects
+[@furuta_document_1982, 417-19]." The concrete object, in other words, gives
+physical shape, or layout, to the instantiation of abstract classes like a
+paragraph or a sentence. They are specific paragraphs and sentences "laid out"
+in page space. The document--object model speaks the language of Hegelian
+universal concrete, and is encoded as such.
 
-[@furuta_document_1982, 418-69].
+Here's where things really interesting. In the object model further gives rise
+to three "operations," tied to the "domain and range" of objects. *Editing*, in
+this model, comprises operations that move from abstract to abstract, or, from
+concrete to concrete domains. Spelling correction, for example, constitutes an
+editing manipulation where abstract objects are modified into other abstract
+objects. *Formatting,* can then be defined as giving shape to abstract objects
+in the transformation between abstract and concrete objects. Italicizing a
+word, for example, gives the idea of "emphasis" a slanted form. Finally, the
+authors define *viewing* as the movement from concrete objects to the output
+device. This stage flattens out the layers of ideas and formatting, rendering
+and making them visible on screen or page [@furuta_document_1982, 419-20;
+@kimura_structure_1984]. Similar to Hegel's "universal concrete," formatting
+in the document--object model bridges the gap between ideas and matter.
 
-Alan C. Shaw's influential "Model for Document Prepration," similarly
-indentifies three respresentations of the document: as "abstract model," as
-"concerete appearance," and as "concrete representation."
-The ISO ODA Draft International Standard proposed in 1986 similarly understands
-formatting to contain both what it calls "logical structure" and "layout
-structure." Logical structure includes semantically meaningfull elements like
-sections, section headings, and paragraphs. Layout structure contains 
+In another widely-cited report on the topic, "A Model for Document Preparation
+Systems, Alan C. Shaw's identifies the formatting layer as "concrete
+representation [@shaw_model_1980]." 
+
+The ISO ODA Draft International Standard
+proposed in 1986 understands formatting to contain both what it calls "logical
+structure" and "layout structure." Logical structure includes semantically
+meaningful elements like sections, section headings, and paragraphs. Layout
+structure contains 
 
 ### 3.3 Device as Gadget and Formula
 
@@ -5540,9 +5562,8 @@ individual dissent possible.
 
 ### 3.4 Algorithm as Fetish
 
-Wendy Hui Kyong Chun
-On "Sourcery," or Code as Fetish. What could knowing software even mean, she
-asks.
+Wendy Hui Kyong Chun On "Sourcery," or Code as Fetish. What could knowing
+software even mean, she asks.
 
 I can only begin to work of re-inscribing the A more careful analysis of
 "microscopically written inscriptions" [@kittler_there_1995] in the in the
@@ -5567,8 +5588,8 @@ interest lies in the humanism of Marx, whose thought, despite being perpetually
 out of time, continues to surprise with penetrating insight.
 
 "All these software mutations and 'new species' of software techniques are
-social in a sense that they don't simply come from individual minds or from some
-'essential' properties of a digital computer or network. They come from
+social in a sense that they don't simply come from individual minds or from
+some 'essential' properties of a digital computer or network. They come from
 software developed by groups of people and marketed to large number of users
 [@manovich_there_2011, 272-273]."
 
@@ -5604,8 +5625,7 @@ In religion people make their empirical world into an entity that is only
 conceived, imagined, that confronts them as something foreign
 [@marx_collected_1976, 159].
 
-imagined commodity =
-algorithm labor = contracts, agreements
+imagined commodity = algorithm labor = contracts, agreements
 
 [^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
@@ -5616,10 +5636,10 @@ appeared in the same volume of collected essays, @herken_universal_1988.
 [^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
 the "application layer" and the bottom-most layer the "physical layer
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it
-as being "responsible for encoding bits onto a transmission medium, whether
-wires, fiber optics, or radio broadcast, in ways that maximize the transmission
-rate and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
+being "responsible for encoding bits onto a transmission medium, whether wires,
+fiber optics, or radio broadcast, in ways that maximize the transmission rate
+and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
 
 [^ln2-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
@@ -5636,23 +5656,23 @@ René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln2-alt]: "We have to think (in a completely novel way) the relation
-between a science and the ideology [...] the fact that such an investigation
-confronts us with the observation that every science, in the relationship it
-has with ideology it emerged from, can only be thought as a 'science of
-ideology, would disconcert us, were we not forewarned of the name of the
-*object* of knowledge, which can only exist in the form of ideology
-[@althusser_reproduction_2014, 46]."
+[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+a science and the ideology [...] the fact that such an investigation confronts
+us with the observation that every science, in the relationship it has with
+ideology it emerged from, can only be thought as a 'science of ideology, would
+disconcert us, were we not forewarned of the name of the *object* of knowledge,
+which can only exist in the form of ideology [@althusser_reproduction_2014,
+46]."
 
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to statements
-like "ethnology-like any science-comes about within the element of discourse,"
-and "this moment was that in which language invaded the universal problematic;
-that in which, in the absence of a center or origin, everything became
-discourse-provided we can agree on this word-that is to say, when everything
-became a system where the central signified, the original or transcendental
-signified, is never absolutely present outside a system of differences. The
-absence of the transcendental signified extends the domain and the interplay of
-signification ad infinitum" (278-294).
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+statements like "ethnology-like any science-comes about within the element of
+discourse," and "this moment was that in which language invaded the universal
+problematic; that in which, in the absence of a center or origin, everything
+became discourse-provided we can agree on this word-that is to say, when
+everything became a system where the central signified, the original or
+transcendental signified, is never absolutely present outside a system of
+differences. The absence of the transcendental signified extends the domain and
+the interplay of signification ad infinitum" (278-294).
 
 [^ln2-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
@@ -5698,26 +5718,24 @@ the illusion of disempowerment. I view "control" in that sense not as an
 ideology, but as the ability to physically alter the material conditions of
 literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.
-### 7.1 ITU
+content and code as control.  ### 7.1 ITU
 
 Related to secrecy.  Plain language and Secret language (telegraph regulations
 1932).  "Plain language is that which presents an intelligible meaning in one
 or more of the languages authorized for international telegraph correspondence,
 each word and each expression having the meaning normally assigned to it in the
-language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is composed either
-of artificial words, or of real words not used in the meaning normally assigned
-to them in the language to which they belong and consequently not forming
-intelligeble phrases" [@itu_telegraph_1932, 12].
+language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is
+composed either of artificial words, or of real words not used in the meaning
+normally assigned to them in the language to which they belong and consequently
+not forming intelligeble phrases" [@itu_telegraph_1932, 12].
 
-Encrypted literature. Revealment and dissimulation. Notions of
-textuality as embroiled in contemporary ideas of privacy, secrecy, and
-transparency.  Computation does not necessarily work for the
-military-industrial apparatus (as argued by Golumbia, Lennon, and McPherson).
-Recovering and preserving textuality in computing.
+Encrypted literature. Revealment and dissimulation. Notions of textuality as
+embroiled in contemporary ideas of privacy, secrecy, and transparency.
+Computation does not necessarily work for the military-industrial apparatus (as
+argued by Golumbia, Lennon, and McPherson).  Recovering and preserving
+textuality in computing.
 
-Brooks Act 1965.
-Man in the middle attacks.
+Brooks Act 1965.  Man in the middle attacks.
 
 ### 7.2 Technological Skepticism
 
@@ -5742,13 +5760,12 @@ historically (where Lennon gets it right). You are not a gadget.
 
 ### 7.4 Dissent
 
-Sartre?
-Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
+Sartre?  Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
 Mumford Condition of Man?
 
-Yet, to make the subjective experience strange again is to look at it
-through the eyes of a stranger. Makhail Bakhtin writes (in what I think is a
-previously untranslated passage):
+Yet, to make the subjective experience strange again is to look at it through
+the eyes of a stranger. Makhail Bakhtin writes (in what I think is a previously
+untranslated passage):
 
 > It is not I who looks out from the inside, but I look at myself with the eyes
 of the world, strange eyes; I am possessed by another. There is no integrity of
