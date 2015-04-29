@@ -2827,13 +2827,57 @@ the elephant "stands for" memory, or the like. *Zaum* poetics instead evoke
 affect through external shape, as sound. Khlebnikov writes that "incantation,
 and beyonsense language are appeals 'over the head' of government straight to
 the population of feelings, a direct cry to the predawn of the soul
-[@khlebnikov_king_1990, 152]."
+[@khlebnikov_king_1990, 152]." Shklovsky explains *zaum* as "without words but
+with sound:
 
-Three of the essays, however strike in another direction.
+> Thought and speech cannot keep up with inspired experience, and
+for this reason artists are free to express themselves not only in language of
+common understanding, but also in private language---language that has no
+settled sense [...] Lilacs are beautiful, but how deformed [*bezobrazno*] the
+word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
+restoring its primal clarity [@brik_poetika_1919, 13].
 
-The Russian *priem* was unfortunately translated as as "device," which makes it
-sound akin to "gadget" or an "appliance," where Shklovsky could be (and
-sometimes is) much better translated as a technique, or a "move."[^ln3-move] 
+The word *bezobrazno* literally translates as "without image." The formalists
+insist on the primacy of the word image over its sense. And they understand
+image not as "symbol" but as phonetic signature.
+
+Three of the essays however strike in another direction. Shklovsky "Art as
+Technique," "Linkages between Plot and Style Device," and Eichenbaum's "How the
+*Overcoat* is Made" constitute a cluster of essays that deals with narrative
+structure rather than phonetic image. The Russian *priem* is commonly
+translated as the English "device," although both authors clearly mean "device"
+in the sense of "technique" or "move,"[^ln3-move] and not in the sense of
+"appliance" or "gadget." To this strain of formalism one could also adduce
+Vladimir Propp's well-known  *Morphology of the Folktale." All three authors
+cite a common source of influence: namely, Alexander Veselovsky, the Russian
+progressive historian of literature and founder of the comparative method in
+that tradition. Veselovsky, a scholar of the generation previous to the
+formalists, did not attain the renown enjoyed by his pupils in the West. An
+early pioneer of comparative literature, he advocated philology as "historical"
+and "genetic" study of "poetic consciousness and its forms." Citing 
+literary explorations by Goethe, Friedrich Schiller, and Georges Polti as his
+inspiration, Veselovsky almost always uses "form" in the sense of "formula." In
+this, he imagines the genetic development of literature as the development of
+universal forms and devices. He calls these constants "vagabond formulas." He
+writes:
+
+> Somewhere, someone gave these plots (*siuzhet*) an apt expression, a formula,
+elastic enough to fit, if not new content, but new interpretation of plot rich
+in its associative possibilities. The formula endures. Writers will return to
+it, altering its significance, expanding its meaning, and adopting it to new
+types. As the formula of "desire" was and continues to be repeated, so also are
+repeated the plots of *Faust* and *Don Juan* [...] As it happens in the
+cultural sphere, so in the more specific sphere of art we are connected to a
+tradition. We expand within it---not to create new forms, but to attach to them
+new sentiments and concerns. This dynamic is a kind of a cultural "law of
+energy conservation."
+
+The Hegelian influence is unmistakable in these lines. Like the world spirit,
+literary formulae exist and develop across time and space. The formulas can be
+accessed, but not exactly transformed. They are larger than any individual
+contribution. Device in this sense, means exactly the opposite of form in the
+sense of private incantation, by which an individual author breaks with
+ossified tradition. This contradiction lies at the center of formalist poetics.
 
 [^ln3-move]: "Move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
