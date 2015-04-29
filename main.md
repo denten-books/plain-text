@@ -2854,36 +2854,40 @@ progressive historian of literature and founder of the comparative method in
 that tradition. Veselovsky, a scholar of the generation previous to the
 formalists, did not attain the renown enjoyed by his pupils in the West. An
 early pioneer of comparative literature, he advocated philology as "historical"
-and "genetic" study of "poetic consciousness and its forms." Citing 
-literary explorations by Goethe, Friedrich Schiller, and Georges Polti as his
+and "genetic" study of "poetic consciousness and its forms." Citing literary
+explorations by Goethe, Friedrich Schiller, and Georges Polti as his
 inspiration, Veselovsky almost always uses "form" in the sense of "formula." In
 this, he imagines the genetic development of literature as the development of
-universal forms and devices. He calls these constants "vagabond formulas." He
-writes:
+universal forms and devices. He calls these constants "vagabond formulas
+[@veselovsky_sobranie_1913, 185]." He writes:
 
-> Somewhere, someone gave these plots (*siuzhet*) an apt expression, a formula,
-elastic enough to fit, if not new content, but new interpretation of plot rich
-in its associative possibilities. The formula endures. Writers will return to
-it, altering its significance, expanding its meaning, and adopting it to new
-types. As the formula of "desire" was and continues to be repeated, so also are
-repeated the plots of *Faust* and *Don Juan* [...] As it happens in the
-cultural sphere, so in the more specific sphere of art we are connected to a
-tradition. We expand within it---not to create new forms, but to attach to them
-new sentiments and concerns. This dynamic is a kind of a cultural "law of
-energy conservation."
+> Somewhere, someone gave these plots (*siuzhety*) an apt expression, a formula,
+elastic enough to fit, if not new content, then new interpretations of plots
+rich in their associative possibilities. The formula endures.  Writers will
+return to it, altering its significance, expanding its meaning, and adopting it
+to new types. As the formula of "desire" was and continues to be repeated, so
+also are repeated the plots of *Faust* and *Don Juan* across the distance of
+centuries [...] We are connected to a tradition. We expand within it---not to
+create new forms, but to attach to them new sentiments and concerns. This
+dynamic could be considered as a type of "law of [cultural] energy conservation
+[@veselovsky_sobranie_1913, 475-476]."
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
-literary formulae exist and develop across time and space. The formulas can be
-accessed, but not exactly transformed. They are larger than any individual
-contribution. Device in this sense, means exactly the opposite of form in the
-sense of private incantation, by which an individual author breaks with
-ossified tradition. This contradiction lies at the center of formalist poetics.
+literary formulae exist and develop across time and space. Veselovsky's formula
+is, like a *zaum* incantation, devoid of obvious meaning. It is a container.
+But unlike incantations, formulas have a life of their own, in a trans- or
+meta- human way, not accessible to the individual cantor. They can be evoked
+not quite transformed. Their historical current and genetic development is more
+pronounced than any individual contribution. Device in this sense, means
+exactly the opposite of form in the sense of private incantation, by which an
+individual author breaks with ossified tradition. This contradiction lies at
+the center of formalist poetics.
 
 [^ln3-move]: "Move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
 Where we started with a dichotomy, we arrive at a model of textuality that
-contains three parts: matter, form, and content, with form occupied the
+contains three parts: matter, form, and content, with form occuping the
 mediating, ambivalent role between matter and content. The history of Western
 aesthetics can be seen as pulling the work of art through one or several of
 these layers of analysis: as when Susan Sontag entreats her reader to pay more
@@ -2953,8 +2957,11 @@ involves something akin to phenomenology as biological reverse engineering.
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 It is in this tripartite sense one can best understand the structure of modern
-"digital" documents. Although few software engineers would aknowledge the debt,
-the Hegelian "concrete universal" has been encoded into the structure of
+"digital" documents. In the languge of the document--object model, the
+literary-theoretical concept of "form" can mean both "class" and "instance"
+(object-oriented programming) or "set" and "object" (set theory), or "type" and
+"term" (type theory). Although few software engineers would aknowledge the
+debt, the Hegelian "concrete universal" has been encoded into the structure of
 electronic documents. Some of the earliest computer-aided text editors modeled
 documents in this way, separating the layers of physical, formatting, and
 content structure. Describing *EDIT*, one of the earliest editors designed for
