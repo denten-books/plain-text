@@ -3,7 +3,6 @@ title: "Plain Text: The Poetics of Human-Computer Interaction"
 author: "Dennis Tenen"
 style: mla.csl
 bibliography: plain-text.bib
-fontsize: 11
 toc: true
 documentclass: book
 
@@ -2417,9 +2416,9 @@ These considerations are relevant as we consider the production of text at the
 level of the device. The formal concept of a "device," widely used in literary
 studies, is an artifact of an unfortunate translation from Russian. The word
 *priem* would be much better translated as "technique," in the sense of
-"method," "approach," or "procedure." The word "device" can contain these
-meanings, but in modern usage, it usually carries a concrete connotation, as
-"an object, machine, or piece of equipment that has been made for a special
+"method," "approach," or "procedure." The word "device" contains these meanings
+as well, but in modern usage, it usually carries a concrete connotation, as "an
+object, machine, or piece of equipment that has been made for a special
 purpose" (Merriam-Webster). "Laying bare the device," for Shklovsky, meant
 making the implicit metaphor explicit, particularly in the case where such
 metaphors are "stale," "automatic," and "naturalized," bereft of their original
@@ -2460,22 +2459,24 @@ that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27].
 
 The tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical and recursively-structured conclusion.
-The pipe can be read as a metaphor for a literary device. Usually found beneath
-the street, it is now idle and visible at the surface. Yet even when exposed,
-the device fails to captivate for long. Disused, it passes out sight, covered
-in snow. The narrator "probes the glaze" of the street, penetrating through to
-the surface level and in this also finds a palindrome, which, not only
-resembles the pipes visually, but is in itself a surface-revealing inscription
-that in some sense literally makes the pipes visible again, through the snow.
-Although it is impossible for the word "pipe" to reach beyond the page as
-representation, the text draws attention to the sound structure of metonymic
-inscription, inviting the reader to perform consonance and to pronounce the
-round vowels, thus shaping the body in accordance with the image: the body as
-sound pipe. The moment of bodily reenactment briefly transcends
-representational and paper-bound confines of the medium. The reader makes the
-"making of the literary technique obvious," obvious. In this lies the prevalent
-characteristic of Nabokov's mature work, which often seeks to lift off from the
-page through sheer recursion and multilayeredness of literary technique.
+The pipes can be read as metaphor for literary device. Usually found beneath
+the street, they now sit idle and visible above the surface. Yet even when
+exposed, the device fails to captivate for long. Disused, it passes out sight,
+covered in snow. The narrator "probes the glaze" of the street, penetrating
+through to the surface level and in this also finds a palindrome, which, not
+only resembles the pipes visually, but is in itself a surface-revealing
+inscription that in some sense makes pipe surface visible again, through the
+snow. Although it is impossible for the word "pipe" to reach beyond the page as
+representation, the mimetic surface inscription draws attention to the word's
+visual shape and acoustics, inviting readers to perform assonance and
+consonance. The reader forms its round vowels and mouths its obstruents. The
+sounds contort the body to accord with the image: reverse mimesis, the body as
+sound pipe. The moment of corporeal reenactment briefly transcends
+representational and paper-bound confines of the medium. The performance makes
+the "making of the literary technique obvious," obvious. In this lies the
+prevalent characteristic of Nabokov's mature work, which often seeks to lift
+off from the page through sheer recursion and multilayeredness of literary
+technique.
 
 Yet for all the language games, literary technique in the sense used by the
 formalists remains tied to the medium. Were someone to ask: What lies beneath
@@ -2486,8 +2487,8 @@ and implement implicit in the writing, binding, and the distribution of printed
 material. In this chapter, I would like to take one step further off of the
 page. My interests lie in books and documents as literal devices. When asked in
 the context of book history, the question of surface gains an instrumental
-dimension. Physical affordances of a liquid crystal display and magnetic
-storage differ drastically from those of goat skins or parchment. Yet surface
+dimension. Physical affordances of liquid crystal displays and magnetic storage
+differ drastically from those of goat skins or parchment. Yet surface
 representation maintains the illusion of self-similarity. I am concerned here
 with the particularities of that illusion. A poem, a novel, a physician's
 script, or a legal contract all still look like their paper counterparts, but
@@ -2497,9 +2498,9 @@ not mediate silently: they monitor, adjust, warn, and control.
 Like the smoke alarm, literary gadgets are governed and internalize government
 in ways that we have only began to comprehend. And as will become apparent in
 the later sections of this chapter, some structural decisions in the making of
-such devices are explicitly designed to resist tampering, access, and
+such devices are explicitly designed to resist tampering, access, or
 interpretation. They obscure the flows of code and codex under the familiar
-guise of surface representation.
+guise of surface inscription.
 
 ### 3.2 Form as Concrete and Universal
 
@@ -2758,38 +2759,39 @@ explanatory, meaning-making mode of analysis. Erotics imply the transmission of
 understanding through bodily, lived experience. I understand clearly and relate
 to the stance against priestly mediation. But as a positive program, formalist
 poetics puzzle me, because "form" already occupies that ambivalent and
-mediating stance between idea and matter. Form can be thought of being
-synonymous with the concrete universal in that it connects physical shape with
-meaning. One cannot therefore entirely break out of the hermeneutic circle. I
-would like to show here, how the history of formalist poetics mirrors the
-ambiguity of form, in expanding the literary research program at once toward
-the outward material shape and into the universal ideal. Finally, as perhaps
-yet another gesture towards radical surface reading, I plan to examine the
-material structure of contemporary document at the level of physical magnetic
-storage medium.
+mediating stance between idea and matter. Form conforms to the concrete
+universal in that it connects physical shape with meaning. One cannot therefore
+entirely break out of the hermeneutic circle. Form leads from sense as
+perception to sense as meaning making. Formalist poetics, as I will show in
+this section, mirror the ambiguity of form in expanding the literary research
+program at once toward the outward material shape and into the inward universal
+ideal. Finally, as perhaps yet another gesture towards radical surface reading,
+I plan to examine the material structure of contemporary document at the level
+of physical magnetic storage medium.
 
-In yet an earlier counterinsurgency against reading for content, at the turn of
-the 20th century, Russian and Italian formalists strove to break with Hegelian
-normative aesthetics by wedding literary criticism with descriptive
-linguistics. Seeing art as an economy of formal "devices" like rhyme and meter,
-the formalists downplayed the role of content and symbol. In this vein, the
-Italian futurist Filippo Marinetti wrote about the "grotesque funeral" of
-romantic notions of beauty, and the rise of a new "geometric and mechanical
-splendor." His generation was instead "in love with matter," wanting "to
-penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
+But first, to form. In an earlier counterinsurgency against reading for
+content, at the turn of the 20th century, Russian and Italian formalists strove
+to break with Hegelian normative aesthetics by wedding literary criticism with
+descriptive linguistics. Seeing art as an economy of formal "devices" like
+rhyme and meter, the formalists downplayed the role of content and symbol. In
+this vein, the Italian futurist Filippo Marinetti wrote about the "grotesque
+funeral" of romantic notions of beauty, and the rise of a new "geometric and
+mechanical splendor." His generation was instead "in love with matter," wanting
+"to penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
 ???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
 Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
 "becomes invisible" through frequent use. Such dead and transparent language
 can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
-counteracts death by "resurrecting the word" in "making the form difficult
-[@shklovsky_hod_1923, ???]." Form, in that sense, resurrects content. The study
-of poetic language (not necessarily poetry) therefore pays attention to the
-devices that aid in the process of linguistic renewal.
+served to counteract death by "resurrecting the word" in "making the form
+difficult [@shklovsky_hod_1923, ???]." Form, in that sense, renews content.
+The study of poetic language (and not necessarily poetry) therefore pays
+attention to device, which aids in the process of semantic renewal.
 
-Shklovsky and his fellow members of the "OPOYAZ" group (instrumental in
-developing the notion of formalist poetics) also responded strongly to the
-Hegelian tradition of reading for symbolic meaning. In a seminal 1917 volume on
-the "Theory of Poetic Language," Osip Brik writes, mockingly:[ln3-translate]
+Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
+(instrumental in developing the notion of formalist poetics) were also
+responded negatively to the Hegelian tradition of reading for symbolic
+interpretation. In a seminal 1917 volume on the "Theory of Poetic Language,"
+Osip Brik writes, mockingly:[ln3-translate]
 
 > "The art of poetry is a symbolic art. The language of poetry is a
 symbolic language. Euphony and rhythm are the fair garments that clothe the
@@ -2802,17 +2804,30 @@ effect is reduced to a critic's personal taste [@shklovksy_sborniki_1917, 24].
 
 What does Brik and company see as an alternative to symbolism? The seminal
 series of "OPOYAZ" publications appearing between 1916 and 1920, gave a unified
-program to a group of "formalist" scholars that included Viktor Shklovsky,
-Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson, among others,
-strike out in two distinct, but complementary directions. A set of essays by
-Brik, Shklovsky, Yakubinski, and others contrapose "sound" (*zvuk*) to
-"symbol" (*obraz*). Brik writes: "I believe that elements of symbolic and sonic
-[*zvukovoi*] art exist simultaneously, and that every given piece of [poetic]
-work comprises an equilibrium of these two heterogeneous poetic impulses
-[@shklovksy_sborniki_1917, 25]." Of the sixteen or so unique essays that appear
-in the three collected volumes (some of the essays repeat across volumes),
-thirteen have the word "sound" (*zvuk*), or some variation thereof, in the
-title, with sound ("sound image," "sound gesture," "sound repetition
+program to a group of "formalist" scholars that included Viktor Shklovsky, Osip
+Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson, among others.
+Collectively, the volumes strike out in two distinct, but complementary
+directions.
+
+A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
+(*zvuk*) to "symbol" (*obraz*). Brik writes: "I believe that elements of
+symbolic and sonic [*zvukovoi*] art exist simultaneously, and that every given
+piece of [poetic] work comprises an equilibrium of these two heterogeneous
+poetic impulses [@shklovksy_sborniki_1917, 25]." Of the sixteen or so unique
+essays that appear in the three collected volumes (some of the essays repeat
+across volumes), thirteen have the word "sound" (*zvuk*), or some variation
+thereof, in the title, as "sound image," "sound gesture," and "sound
+repetition". To these cluster of essays we may attribute the Russian formalist
+concern with *zaum* (literally, beyond sense, or beyonsense
+[@khlebnikov_collected_1987, 179; @khlebnikov_king_1990, 151;
+@labelle_lexicon_2014, 63]): nonsensical sounds that nevertheless elicit an
+affective, mystical response, giving voice to ideas that are difficult to
+explain rationally. Poetry in the symbolic mode encodes meaning as inner sense:
+the elephant "stands for" memory, or the like. *Zaum* poetics instead evoke
+affect through external shape, as sound. Khlebnikov writes that "incantation,
+and beyonsense language are appeals 'over the head' of government straight to
+the population of feelings, a direct cry to the predawn of the soul
+[@khlebnikov_king_1990, 152]."
 
 Three of the essays, however strike in another direction.
 
