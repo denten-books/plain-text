@@ -2883,24 +2883,26 @@ ossified tradition. This contradiction lies at the center of formalist poetics.
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
 Where we started with a dichotomy, we arrive at a model of textuality that
-contains three parts: matter, form, and content. The history of Western
+contains three parts: matter, form, and content, with form occupied the
+mediating, ambivalent role between matter and content. The history of Western
 aesthetics can be seen as pulling the work of art through one or several of
 these layers of analysis: as when Susan Sontag entreats her reader to pay more
-attention to form, or when Johanna Drucker ask us to consider the materiality
-of text, or when Sharon Marcus writes about reading for "what lies in plain
-sight". But the very words "matter," "form," and "content" often tangle in the
-conceptual confusion of texts that resist being pinned down to any single
-stratum of interpretation. I am trying to understand, for example, what Roland
-Barthes means by the distinction between "work" and "text" in his seminal essay
-on textuality.[^ln3-barthes] For Barthes, the work has something to do with
-paper, bookshelves, and generally substance. By contrast, text is something
-"radically symbolic," something that moves across works, not bound to any
-specific matter. Barthes's "texts" sound like ideas, where his "works" sound
-like books. This usage stands in direct opposition to the tradition of textual
-criticism, where "source texts" constitute specific, materially-bound editions
-or manuscripts, and "works" generally denote the abstraction of an artistic
-unity: the idea of Shakespeare's *Hamlet*, for example, in opposition to
-variance found in the multiplicity of individual *Hamlets*.
+attention to form (as sensuous shape), or when Johanna Drucker asks her reader
+to consider the materiality of text, or when Sharon Marcus writes about reading
+for "what lies in plain sight". But the very words "matter," "form," and
+"content" often tangle in the conceptual confusion of texts that resist being
+pinned down to any single stratum of interpretation. I am trying to understand,
+for example, what Roland Barthes means by the distinction between "work" and
+"text" in his seminal essay on textuality.[^ln3-barthes] For Barthes, the work
+has something to do with paper, bookshelves, and generally substance. By
+contrast, text is something "radically symbolic," something that moves across
+works, not bound to any specific matter. Barthes's "texts" sound like ideas,
+where his "works" sound like books. This usage stands in direct opposition to
+the tradition of textual criticism, where "source texts" constitute specific,
+materially-bound editions or manuscripts, and "works" generally denote the
+abstraction of an artistic unity: the idea of Shakespeare's *Hamlet*, for
+example, in opposition to variance found in the multiplicity of individual
+*Hamlets*.
 
 Whereas Barthes wants to liberate text as symbol from the embodied work,
 scholars like Johanna Drucker make a strong case for returning the text to its
@@ -2913,24 +2915,25 @@ electronic, digital text formats have their material embodiment
 but only in so far as it adds a dimension of materiality to a properly
 three-dimensional, multi-layered, thick description of text.
 
-A clarification of the terms allows us to perceive the history of textual
-technology as one of the gradual stratification between matter, form, and
-content. Textuality comes unglued. This allographic property of text is worthy
-of critical attention and preservation. I am not only against the theoretical
-move to flatten it back out, but I think of such attempts as practically and
-politically imprudent. The ephemerality of an electronic text represents the
-hard-won struggle on the part of writers, literary scholars, and software
-engineers to liberate ideas from their material and formal contexts. As an
-extreme example, imagine discourse that could never be separated from a
-specific medium. Communication would be difficult, if not impossible!
-Moreover, deeply-seated values in favor of free speech and unencumbered
-exchange of information depend on a loose coupling between ontological
-categories. Our abilities to remix, translate, re-mediate, recycle, transmit,
-transform, and transcend the ideas of others relies on their ephemeral nature.
-Ideas deposited in ossified matter, in fixed shapes, do not travel well. And
-there are plenty of "actors" that would like for culture to return to the time
-of singular thought, etched in monolithic tablets, whether made of silicone or
-of stone.
+A clarification of the terms and an understanding of form both as formula and
+device allows us to perceive the history of textual technology as one of the
+gradual stratification between matter, form, and content. Textuality comes
+unglued. This allographic property of text---its ability to "peel" way, to
+change shape, and to disembed---is worthy of critical attention. I am not only
+against the theoretical move to batten textuality down, but I think of such
+attempts as practically and politically imprudent. The ephemerality of an
+electronic text represents the hard-won struggle on the part of writers,
+literary scholars, and software engineers to liberate ideas from their material
+and formal contexts. As an extreme example, imagine discourse that could never
+be separated from a specific medium. Communication would be difficult, if not
+impossible!  Moreover, deeply-seated values in favor of free speech and
+unencumbered exchange of information depend on a loose coupling between
+ontological categories. Our abilities to remix, translate, re-mediate, recycle,
+transmit, transform, and transcend the ideas of others relies on their
+ephemeral nature.  Ideas deposited in ossified matter, in fixed shapes, do not
+travel well. And there are plenty of "actors" that would like for culture to
+return to the time of singular thought, etched in monolithic tablets, whether
+made of silicone or of stone.
 
 But, the loose coupling of content to its underlying strata of form and matter
 also comes at a cost. As surface phenomena, text hides the flows of power and
@@ -2949,11 +2952,13 @@ involves something akin to phenomenology as biological reverse engineering.
 
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
-It is in this sense one can best understand the structure of modern "digital"
-documents. Some of the earliest computer-aided text editors modeled documents
-in this way, separating the layers of physical, formatting, and content
-structure. Describing *EDIT*, one of the earliest editors designed for the
-GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
+It is in this tripartite sense one can best understand the structure of modern
+"digital" documents. Although few software engineers would aknowledge the debt,
+the Hegelian "concrete universal" has been encoded into the structure of
+electronic documents. Some of the earliest computer-aided text editors modeled
+documents in this way, separating the layers of physical, formatting, and
+content structure. Describing *EDIT*, one of the earliest editors designed for
+the GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
 writes: "The publication editor is divided into three related sections, the
 document layout facility, the editing facility, and the printing facility
 [@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
