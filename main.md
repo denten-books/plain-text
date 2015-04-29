@@ -1409,25 +1409,26 @@ opposed to number) is hence "baked into" the system.
 ### 2.1 In Search of a Subject
 
 "Media determine our situation," Friedrich Kittler wrote in his seminal
-*Gramophone, Film, Typewriter*[@kittler_gramophone_1999, xxxix]. The book channels its
-metaphysical angst about the changing conditions of literary production from
-the typewriter into the personal computer. Kittler concludes the book to say
-that "under the conditions of high technology, literature has nothing more to
-say [...] an automated discourse analysis has taken command [...] and while
-professors are still reluctantly trading in their typewriters for word
-processors, the NSA is preparing for the future: from nursery school
+*Gramophone, Film, Typewriter*[@kittler_gramophone_1999, xxxix]. The book
+channels its metaphysical angst about the changing conditions of literary
+production from the typewriter into the personal computer. Kittler concludes
+the book to say that "under the conditions of high technology, literature has
+nothing more to say [...] an automated discourse analysis has taken command
+[...] and while professors are still reluctantly trading in their typewriters
+for word processors, the NSA is preparing for the future: from nursery school
 mathematics, which continues to be fully sufficient for books, to
 charge-coupled devices, surface-wave filters, [and] digital signal processors
-[@kittler_gramophone_1999, 263]." I share Kittler's interests in books, charges, waves,
-filters, and signals but not what his translators call his penchant for
-"technological apocalypse [@kittler_gramophone_1999, xxxiv]." Those who knew
-Kittler personally often insist that his sometimes giddy trans-humanism was
-rather a playful stance, performed in the spirit of Nietzschean irony
-[@conway_solving_1988]. Whatever the author's intention, Kittler's text leaves
-little room for apathy. Readers must either acquiesce to automated discourse or
-themselves take command. As Geoffrey Winthrop-Young and Michael Wutz put it,
-Kittler's work highlights the reader's inability to even pose (much less
-answer) "the question of the subject [@kittler_gramophone_1999, xxxiv.]"
+[@kittler_gramophone_1999, 263]." I share Kittler's interests in books,
+charges, waves, filters, and signals but not what his translators call his
+penchant for "technological apocalypse [@kittler_gramophone_1999, xxxiv]."
+Those who knew Kittler personally often insist that his sometimes giddy
+trans-humanism was rather a playful stance, performed in the spirit of
+Nietzschean irony [@conway_solving_1988]. Whatever the author's intention,
+Kittler's text leaves little room for apathy. Readers must either acquiesce to
+automated discourse or themselves take command. As Geoffrey Winthrop-Young and
+Michael Wutz put it, Kittler's work highlights the reader's inability to even
+pose (much less answer) "the question of the subject [@kittler_gramophone_1999,
+xxxiv.]"
 
 I take Arno Schmidt's letter (which concludes Kittler's book), then, as an
 early waypoint (and a provocation) on the road to recovering the subject---a
