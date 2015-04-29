@@ -2881,7 +2881,10 @@ not quite transformed. Their historical current and genetic development is more
 pronounced than any individual contribution. Device in this sense, means
 exactly the opposite of form in the sense of private incantation, by which an
 individual author breaks with ossified tradition. This contradiction lies at
-the center of formalist poetics.
+the center of formalist poetics. As ciritcs, the formalists priveleged moments
+of mystic and trans-rational rebellion against stable literary forms. As
+literary scholars, they reached for Hegel's concrete universal in the guise of
+trans-human formulae that have a life of their own.
 
 [^ln3-move]: "Move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
@@ -3484,9 +3487,6 @@ obscuring material divergence beneath.
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
 
-Here is my close reading of the venerable *Erewhon*, by Samuel Butler: if you
-open this file, it will ruin your reading device.
-
 I do not mean to imply that raw reading of this sort, at circuit and magnetic
 media level, will somehow come to supplement reading at the surface for meaning
 and representation. Microanalysis is meant to complement close reading: giving
@@ -3502,6 +3502,10 @@ without merit, creating an imbalance of interpretation. The writer on magnet
 and silicon does not merely claim to, but actually does transform surfaces.
 Critical reading must therefore begin with reclaiming the underlying material
 conditions of meaning making. The answer to the machine remains in the machine.
+
+Here is my "closest possible" reading of James Joyce's "Ulysys," of a kind that
+has not been done before. Were my readers to open the pictured file, it would
+erase their hard drives.
 
 [^ln3-root]: @stoltz_is_2013
 
