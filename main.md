@@ -3109,12 +3109,125 @@ copyright law (U.S.  Code, Title 17) governing text as surface representation.
 The (legal) code extends "exclusive rights" to "copyright owners" of "literary
 works." The rights include the ability to "reproduce," "to prepare derivative
 works," "to distribute copies," and "to perform and to display publicly"
-(17.1.106).  Surface representation is further subject to professional rules of
+(17.1.106). Surface representation is further subject to professional rules of
 conduct, embodied in practices of quotation, citation, and attribution (or lack
 thereof, as plagiarism).
 
-Automated discourse has gained such opacity and depth in several stages: first,
-by coupling content and control on the surface of removable paper storage media
+In practice, the immateriality of digital text (and image) has served to erode
+the efficacy of copyright restrictions as a system of laws and regulations. The
+work of art in the age of digital reproduction lost its already tenuous hold on
+the material substratum. Copy technologies from photocopiers, to desktop
+printers, to inexpensive magnetic storage and peer-to-peer file sharing
+networks reduce the price of a duplicate down to near zero. The response from
+the film, game, music, and publishing industries has been to transpose
+mechanisms of copyright enforcement from legal down to the infrastructural
+levels of enforcement, as software and hardware: from Code to code. In the
+words of Charles Clark, the late British publisher and prominent copyright
+attorney, "the answer to the machine is in the machine [@clark_copyright_1996,
+81-82]," by which he meant that copyright enforcement should be taken up by the
+International Standards Organization, the very body responsible for the OSI
+communication protocol stack), on the level of the device
+[@clark_copyright_1996, 84]. As an example of how that might work, Clark cites
+the Copyright in Transmitted Electronic Data Report (CITED), which suggests
+building "a tamper proof software module which acts rather like indestructible
+tachometers install on long-distance coaches and lorries, recording everything
+that happens to the copyrighted or commercially valuable material [...] The
+basic idea is that the valuable material is linked to a specific piece of
+software [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84]." This
+approach in general has sometimes been called a "smart contract." In his
+seminal article on "Formalizing and Securing Relationships in Public Networks,"
+Nick Szabo explains that "smart contracts combine protocols, user interfaces,
+and promises expressed via those interfaces to formalize and secure
+relationships over computer networks [@szabo_formalizing_1997]."
+
+Both smart contracts, CITED, and similar developments were influential in
+developing a range of "solutions" in the 1990s.[^ln3-smart] "Method and System
+for Managing a Data Object so as to Comply with Predetermined Conditions for
+Usage" (US5845281, issued in 1998) is instructive in this regard. Greg Benson
+and Gregory H. Urich, both of Sweden, write:
+
+> The data object owner may want to have permanent secure control over how,
+when, where, and by whom his property is used. Furthermore, he may want to
+define different rules of engagement for different types of users and different
+type of security depending on the value of particular objects. The rules
+defined by him shall govern the automated operations enabled by data services
+and networking. The owner may also sell composite objects with different rules
+governing each constituent objects. Thus, it is necessary to be able to
+implement variable and extensible control.
+
+The data object, in this case, stands for any media content from books, to
+music, video, and software. Rather then legislating rules for copying and
+distributing media, the inventors suggest the medium itself contain a control
+layer that would "comply with predetermined conditions of usage," in a way that
+is "universally adapted to the needs of both the owner and the user of the
+data object [@benson_method_1998, 2:55]."
+
+!["Concatenated control data and AVI file in memory." From
+@benson_method_1998.](images/avi-control.png)
+
+!["Concatenated and encrypted control dta and AVI file in memory." From
+@benson_method_1998.](images/avi-control2.png)
+
+The associated figures (pictured here) show data and control codes
+"concatenated" into the same underlying data structure (in this case, AVI media
+container format). The problem, of course, is that to the extent control codes
+are legible to "the user," they are also open to "abuse and circumvention." For
+this reason, encryption plays a key part in the smart contracts system. Once
+intertwined, data and control are encrypted to prevent "unauthorized access."
+This brings us to the glaring problem at the very heart of the smart contract
+idea. In the Western legal tradition, contracts by their very nature must
+involve explicit consent. In the language of English common law, contracts
+involve promises as "manifestation of intention," which "adopt an external or
+objective standard for interpreting conduct
+[@american_law_institute_restatement_1973, §1-2.]" Smart contracts as defined
+in much of the patent literature on implementation, rely on encrypted---that is
+not human-legible---forms of (usually tacit) agreement. The idea of encrypted
+consent stands in start opposition to the spirit of contract law, based on
+mutual, explicit, and uncoerced consent. Even when the encrypted, internalized
+forms of control are accompanied by a written explanation (a "Terms of Service"
+document, for example) the user must trust that any such external, objective,
+and legible terms of service correspond to their internal, encrypted, and
+purposefully illegible implementations.
+
+Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
+person shall circumvent a technological measure that effectively controls
+access to a work protected under this title (17.1201.a.1.A)." The letter of the
+law further specifies that to "circumvent a technological measure," in this
+case, means "to descramble a scrambled work, to decrypt an encrypted work, or
+otherwise to avoid, bypass, remove, deactivate, or impair a technological
+measure, without the authority of the copyright owner (17.1201.a.3.A)." A
+technological measure that "effectively controls access" is further defined as
+"measure, [that] in the ordinary course of its operation, requires the
+application of information, or a process or a treatment, with the authority of
+the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
+literary scholar this means that on a digital device, reading sometimes *must*
+limit itself to surface phenomenon. For a person more generally using a device
+under a smart contract (an electronic book, or a wearable intellect
+augmentation device) this means that even an attempt to discover the terms of
+the encrypted contract may carry with it a set a criminal (or otherwise)
+penalties.
+
+The impact of DMCA and smart contracts on the practice of reading and on
+literary analysis is potentially immense. The electronic book is not a book at
+all, but a "data object," in which the modest copyright symbol gives way to a
+"control layer," which dynamically adapts "to the needs of both the owner and
+the user." These adaptations could of course take a benign form, of the kind
+suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
+to a "literature equalizer," empowering readers to "tune" any given text to
+their liking. Don't really like intensifiers? Just turn the "adverb knob" down!
+I hold on to the possibility of building such a device with Chaouli. In the
+meantime, existing electronic book software and hardware devices adapt
+themselves to the reader in far more blunt ways. Some prevent simple copy and
+paste actions. Others can be used to censor and surveil.
+
+Smart contracts and DMCA are merely indicative of digital text, which offers
+only the illusion of flat textuality. Where a literary scholar could hope to
+gleam the machinations of ideology from surface representation in print, the
+digital device obscures literal flows of power and control. Isomorphic
+application design provides a measure of similarity between page and screen,
+obscuring material divergence beneath.
+Automated discourse has gained opacity and depth in several stages: first, by
+coupling content and control on the surface of removable paper storage media
 (ticker tape and punch cards); second, in removing inscription from view onto
 magnetic tape; and, finally, by manufacturing an illusion of visibility on the
 screen.[^ln3-illusion]
@@ -3409,119 +3522,6 @@ manuscript format. Control words scattered in the text  provide detailed
 control over the format, if desired. Input files may be prepared  by the
 context editor, TYPSET.
 
-In practice, the immateriality of digital text (and image) has served to erode
-the efficacy of copyright restrictions as a system of laws and regulations. The
-work of art in the age of digital reproduction lost its already tenuous hold on
-the material substratum. Copy technologies from photocopiers, to desktop
-printers, to inexpensive magnetic storage and peer-to-peer file sharing
-networks reduce the price of a duplicate down to near zero. The response from
-the film, game, music, and publishing industries has been to transpose
-mechanisms of copyright enforcement from legal down to the infrastructural
-levels of enforcement, as software and hardware: from Code to code. In the
-words of Charles Clark, the late British publisher and prominent copyright
-attorney, "the answer to the machine is in the machine [@clark_copyright_1996,
-81-82]," by which he meant that copyright enforcement should be taken up by the
-International Standards Organization, the very body responsible for the OSI
-communication protocol stack), on the level of the device
-[@clark_copyright_1996, 84]. As an example of how that might work, Clark cites
-the Copyright in Transmitted Electronic Data Report (CITED), which suggests
-building "a tamper proof software module which acts rather like indestructible
-tachometers install on long-distance coaches and lorries, recording everything
-that happens to the copyrighted or commercially valuable material [...] The
-basic idea is that the valuable material is linked to a specific piece of
-software [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84]." This
-approach in general has sometimes been called a "smart contract." In his
-seminal article on "Formalizing and Securing Relationships in Public Networks,"
-Nick Szabo explains that "smart contracts combine protocols, user interfaces,
-and promises expressed via those interfaces to formalize and secure
-relationships over computer networks [@szabo_formalizing_1997]."
-
-Both smart contracts, CITED, and similar developments were influential in
-developing a range of "solutions" in the 1990s.[^ln3-smart] "Method and System
-for Managing a Data Object so as to Comply with Predetermined Conditions for
-Usage" (US5845281, issued in 1998) is instructive in this regard. Greg Benson
-and Gregory H. Urich, both of Sweden, write:
-
-> The data object owner may want to have permanent secure control over how,
-when, where, and by whom his property is used. Furthermore, he may want to
-define different rules of engagement for different types of users and different
-type of security depending on the value of particular objects. The rules
-defined by him shall govern the automated operations enabled by data services
-and networking. The owner may also sell composite objects with different rules
-governing each constituent objects. Thus, it is necessary to be able to
-implement variable and extensible control.
-
-The data object, in this case, stands for any media content from books, to
-music, video, and software. Rather then legislating rules for copying and
-distributing media, the inventors suggest the medium itself contain a control
-layer that would "comply with predetermined conditions of usage," in a way that
-is "universally adapted to the needs of both the owner and the user of the
-data object [@benson_method_1998, 2:55]."
-
-!["Concatenated control data and AVI file in memory." From
-@benson_method_1998.](images/avi-control.png)
-
-!["Concatenated and encrypted control dta and AVI file in memory." From
-@benson_method_1998.](images/avi-control2.png)
-
-The associated figures (pictured here) show data and control codes
-"concatenated" into the same underlying data structure (in this case, AVI media
-container format). The problem, of course, is that to the extent control codes
-are legible to "the user," they are also open to "abuse and circumvention." For
-this reason, encryption plays a key part in the smart contracts system. Once
-intertwined, data and control are encrypted to prevent "unauthorized access."
-This brings us to the glaring problem at the very heart of the smart contract
-idea. In the Western legal tradition, contracts by their very nature must
-involve explicit consent. In the language of English common law, contracts
-involve promises as "manifestation of intention," which "adopt an external or
-objective standard for interpreting conduct
-[@american_law_institute_restatement_1973, §1-2.]" Smart contracts as defined
-in much of the patent literature on implementation, rely on encrypted---that is
-not human-legible---forms of (usually tacit) agreement. The idea of encrypted
-consent stands in start opposition to the spirit of contract law, based on
-mutual, explicit, and uncoerced consent. Even when the encrypted, internalized
-forms of control are accompanied by a written explanation (a "Terms of Service"
-document, for example) the user must trust that any such external, objective,
-and legible terms of service correspond to their internal, encrypted, and
-purposefully illegible implementations.
-
-Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
-person shall circumvent a technological measure that effectively controls
-access to a work protected under this title (17.1201.a.1.A)." The letter of the
-law further specifies that to "circumvent a technological measure," in this
-case, means "to descramble a scrambled work, to decrypt an encrypted work, or
-otherwise to avoid, bypass, remove, deactivate, or impair a technological
-measure, without the authority of the copyright owner (17.1201.a.3.A)." A
-technological measure that "effectively controls access" is further defined as
-"measure, [that] in the ordinary course of its operation, requires the
-application of information, or a process or a treatment, with the authority of
-the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
-literary scholar this means that on a digital device, reading sometimes *must*
-limit itself to surface phenomenon. For a person more generally using a device
-under a smart contract (an electronic book, or a wearable intellect
-augmentation device) this means that even an attempt to discover the terms of
-the encrypted contract may carry with it a set a criminal (or otherwise)
-penalties.
-
-The impact of DMCA and smart contracts on the practice of reading and on
-literary analysis is potentially immense. The electronic book is not a book at
-all, but a "data object," in which the modest copyright symbol gives way to a
-"control layer," which dynamically adapts "to the needs of both the owner and
-the user." These adaptations could of course take a benign form, of the kind
-suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
-to a "literature equalizer," empowering readers to "tune" any given text to
-their liking. Don't really like intensifiers? Just turn the "adverb knob" down!
-I hold on to the possibility of building such a device with Chaouli. In the
-meantime, existing electronic book software and hardware devices adapt
-themselves to the reader in far more blunt ways. Some prevent simple copy and
-paste actions. Others can be used to censor and surveil.
-
-Smart contracts and DMCA are merely indicative of digital text, which offers
-only the illusion of flat textuality. Where a literary scholar could hope to
-gleam the machinations of ideology from surface representation in print, the
-digital device obscures literal flows of power and control. Isomorphic
-application design provides a measure of similarity between page and screen,
-obscuring material divergence beneath.
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
