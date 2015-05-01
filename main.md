@@ -2400,10 +2400,10 @@ binary formats. To produce the image, I inject malicious code into an Adobe
 Acrobat file, showing the contrast between surface text and its underlying
 magnetically bound bit structure.
 
-### 3.1 Literary Device
+### 3.1 Literary Device as Technique
 
 As I write these words, a ceiling-mounted smoke detector in the hallway outside
-of my apartment emits an shrill squeal every three minutes or so. And at every
+of my apartment emits a shrill squeal every three minutes or so. And at every
 fifteen minutes, a pleasant female voice announces also "low battery." These
 precautions are stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013).
 The clause requiring a "distinct audible signal before the battery is incapable
@@ -2420,18 +2420,19 @@ studies, is an artifact of an unfortunate translation from Russian. The word
 as well, but in modern usage, it usually carries a concrete connotation, as "an
 object, machine, or piece of equipment that has been made for a special
 purpose" (Merriam-Webster). "Laying bare the device," for Shklovsky, meant
-making the implicit metaphor explicit, particularly in the case where such
-metaphors are "stale," "automatic," and "naturalized," bereft of their original
-poetic and evocative power. One could write, for example, "a field of study,"
-without much thought to the spatial metaphor. Viktor Shklovsky (who coined the
-phrase "laying bare the device [*priem*]") would have the reader pause to
-consider the implications. In which sense ideas resemble (or not) a field? The
-writer's language could draw our attention to the strangeness of the analogy
-were it to mention "a grassy field of study," or something along those lines.
-The unexpected transference of properties accentuates and renews a familiar
-image. How could a field of knowledge "fill" with grass? In such unusual
-juxtapositions the strangeness of the initial metaphor can be renewed and "made
-strange" again, in what Shklovsky calls the technique of poetic "estrangement
+making the explicit the implicit mechanism of metaphor, particularly in cases
+where such metaphors turn "stale," "automatic," and "naturalized," that is,
+bereft of their original poetic and evocative power. One could write, for
+example, "a field of study," without much thought about figurative space.
+Viktor Shklovsky (who coined the phrase "laying bare the device [*priem*]")
+would have the reader pause to consider the implications. In which sense ideas
+resemble (or not) a field? The writer could draw our attention to the
+strangeness of the analogy were he to mention "mowing a verdant field of
+study," or something along those lines. The unexpected transference of
+properties accentuates and renews a familiar image. In what sense could one
+"mow" a "verdant" "field" of ideas? Such unusual juxtapositions renew the
+peculiarity of the initial metaphor. The figure is "made strange" again, in
+what Shklovsky calls the technique of poetic "estrangement
 [@shklovksy_sborniki_1917]."
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
@@ -2459,24 +2460,24 @@ that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27].
 
 The tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical and recursively-structured conclusion.
-The pipes can be read as metaphor for literary device. Usually found beneath
-the street, they now sit idle and visible above the surface. Yet even when
-exposed, the device fails to captivate for long. Disused, it passes out sight,
-covered in snow. The narrator "probes the glaze" of the street, penetrating
-through to the surface level and in this also finds a palindrome, which, not
-only resembles the pipes visually, but is in itself a surface-revealing
-inscription that in some sense makes pipe surface visible again, through the
-snow. Although it is impossible for the word "pipe" to reach beyond the page as
-representation, the mimetic surface inscription draws attention to the word's
-visual shape and acoustics, inviting readers to perform assonance and
-consonance. The reader forms its round vowels and mouths its obstruents. The
-sounds contort the body to accord with the image: reverse mimesis, the body as
-sound pipe. The moment of corporeal reenactment briefly transcends
-representational and paper-bound confines of the medium. The performance makes
-the "making of the literary technique obvious," obvious. In this lies the
-prevalent characteristic of Nabokov's mature work, which often seeks to lift
-off from the page through sheer recursion and multilayeredness of literary
-technique.
+The pipes can be read as a metaphor for the literary device. Usually found
+beneath the street, they now sit idle and visible above the surface. Yet even
+when exposed, the device fails to captivate for long. Disused, it passes out
+sight, covered in snow. The narrator "probes the glaze" of the street,
+penetrating through to the surface level and in this also finds a palindrome,
+which, not only resembles the pipes visually, but is in itself a
+surface-revealing inscription that in some sense makes pipe surface visible
+again, through the snow. Although it is impossible for the word "pipe" to reach
+beyond the page as representation, the mimetic surface inscription draws
+attention to the word's visual shape and acoustics, inviting readers to perform
+the symmetry of its assonance and consonance. The reader forms the named round
+vowels and mouths its obstruents. "Otto" contorts the body to shape it in
+accordance with the sound image: reverse mimesis, the body as sound pipe.  The
+moment of corporeal reenactment briefly transcends representational and
+paper-bound confines of the medium. The performance makes the "making of the
+literary technique obvious," obvious. In this lies the prevalent characteristic
+of Nabokov's mature work, which often seeks to lift off from the page through
+sheer recursion and multilayeredness of literary technique.
 
 Yet for all the language games, literary technique in the sense used by the
 formalists remains tied to the medium. Were someone to ask: What lies beneath
@@ -2484,16 +2485,17 @@ the text? The literal answer would have to be: paper or furniture. Reading for
 surface or depth at the level of representation can only begin to approach the
 material conditions of textual dissemination. Language contains traces of labor
 and implement implicit in the writing, binding, and the distribution of printed
-material. In this chapter, I would like to take one step further off of the
-page. My interests lie in books and documents as literal devices. When asked in
-the context of book history, the question of surface gains an instrumental
-dimension. Physical affordances of liquid crystal displays and magnetic storage
-differ drastically from those of goat skins or parchment. Yet surface
-representation maintains the illusion of self-similarity. I am concerned here
-with the particularities of that illusion. A poem, a novel, a physician's
-script, or a legal contract all still look like their paper counterparts, but
-increasingly they behave like gadgets. These reading and writing appliances do
-not mediate silently: they monitor, adjust, warn, and control.
+material. In this chapter, I would like to take the formalist program one step
+further, off of the page. My interests lie in books and documents as literal
+devices. When asked in the context of book history, the question of surface
+gains an instrumental dimension. Physical affordances of liquid crystal
+displays and magnetic storage differ drastically from those of goat skins or
+parchment. Yet surface representation maintains the illusion of
+self-similarity. I am concerned here with the particularities of that illusion.
+A poem, a novel, a physician's script, or a legal contract all still look like
+their paper counterparts, but increasingly they behave like gadgets. These
+reading and writing appliances do not mediate silently: they monitor, adjust,
+warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 in ways that we have only began to comprehend. And as will become apparent in
@@ -2522,19 +2524,19 @@ apparent form to the implicit ideational content.
 
 Although the distinction between form and content is somewhat naturalized in
 literary and linguistic discourse, the concept of form is often used in another
-way, which seems initially to contradict the easy bifurcation. When we think of
-Shakespeare's *Hamlet*, for example, whatever is meant by "the form" of the
-play belongs neither to its material substance (pixel or paper) nor to the
-ideational content of the work. Form, in that sense, lies somewhere between the
-two worlds: it is in the shape of the letters, in the structure of the
-narrative, and in the prosody of the word. Form in that sense is indeterminate,
-because we do not quite know which of these elements belong to the content of
-the play and which are the contingent material artifacts of the printing
-process: the way the fonts look, for example or the way lines break on the
-page. Some matters of form matter to us as readers (line breaks), and others do
-not (font kerning). Three things seem to be in play then rather than two:
-matter, form, and content. And of these, form sometimes falls into the category
-of meaningless matter and sometimes into semantic-carrying ideation.
+way, which seems initially to contradict the naturalized bifurcation. When we
+think of Shakespeare's *Hamlet*, for example, whatever is meant by "the form"
+of the play belongs neither to its material substance (pixel or paper) nor to
+the ideational content of the work. Form lies somewhere between the two worlds:
+it is in the shape of the letters, in the structure of the narrative, and in
+the prosody of the word. Form, in that sense, does not determine, because we do
+not quite know which of these elements belong to the content of the play and
+which are the contingent material artifacts of the printing process: the way
+the fonts look, for example or the way lines break on the page. Some matters of
+form matter to us as readers (line breaks), and others do not (font kerning).
+Three things seem to be in play rather than two: matter, form, and content. And
+of these, form sometimes falls into the category of meaningless matter and
+sometimes into semantic-carrying ideation: form, the indeterminate.
 
 Let's dwell on the history of form for a few paragraphs. I'll give you the
 standard (if necessarily abridged) version first, and then return to revise and
@@ -2554,19 +2556,20 @@ rather technical and sometimes idiosyncratic vocabulary. Rather than define
 terms precisely, Hegel likes to bombard his reader with semantic cognates. On
 the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
 (*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
-(*Geist*). All of these convey a movement inward and a location beyond the
-physical world, accessible only to the spirit (*Geist*) or mind (*Gedanken*,
-*Verstand*). On the side of "form" (same in German), Hegel accumulates words
-like expression (*Ausdruck*), presentation (*Darstellung*), but also lines,
-curves, surfaces, carvings, colors, tones, word sounds, and generally matter or
-material (*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*,
-*Wortklängen*, *Material*) [@hegel_werke:_1986, *Einleitung*]. The semantic
-cluster related to "forms" conveys physical (palpable, of this world) and
-outward-facing properties, available for examination to the senses (*Sinne*).
+(*Geist*). All of these convey a movement inward to a location (if it can be
+called as such) beyond the physical world, accessible only to the spirit
+(*Geist*) or mind (*Gedanken*, *Verstand*). On the side of "form" (same in
+German), Hegel accumulates words like expression (*Ausdruck*), presentation
+(*Darstellung*), but also lines, curves, surfaces, carvings, colors, tones,
+word sounds, and generally matter or material (*Linien*, *Krümmungen*,
+*Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*)
+[@hegel_werke:_1986, *Einleitung*]. The semantic cluster related to "forms"
+conveys physical (palpable, of this world) and outward-facing properties,
+available for examination to the senses (*Sinne*).
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
-reaching the realm of pure self-reflective spirit. Romanticism, in his words,
+reaching the realm of pure self-reflective Spirit. Romanticism, in his words,
 is "freed from this immediate existence which must be set down as negative,
 overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
 writes: "Poetry is the universal art of the spirit which has become free in
@@ -2576,11 +2579,11 @@ inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
 "inwardness celebrates its triumph over the external and manifests its victory
 in and on the external itself, whereby what is apparent to the senses alone
 sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
-way, triumph over the external, material world, reaching, at its apex, the what
-he calls the stage of "free concrete spirituality" (*freie konkrete
-Geistigkeit*) [@hegel_werke:_1986]. The idea overcomes matter to become both
-free from the constraints of the deterministic physical universe, yet gaining a
-measure of solidity in its concrete and tangible instantiation.
+way, triumph over the external, material world, reaching, at its apex, what he
+calls the stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
+[@hegel_werke:_1986]. The idea overcomes matter to become both free from the
+constraints of the deterministic physical universe, yet gaining a measure of
+solidity in its tangible instantiation.
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
@@ -2600,13 +2603,13 @@ always changing physical confines of the material world.[^ln11-descartes]
 
 In Plato we find a number of words that, depending on the translation, stand in
 for the English "form." These include *eidos* (essence), *idea* (idea),
-*morphe* (shape), and *phainomena* (appearance). Compare for example the
-translations from Plato's *Timaeus*. In the dialog, Timaeus, the titular
-character, explains the nature of the physical world. In a passage that
-anticipates the famous "molten wax" analogy in Descartes, Timaeus notices that
-some elements, like water, change their appearance (*φανταζομένων*) while
-remaining essentially the same substance. Benjamin Jowett translates the
-passage:
+*morphe* (shape), and *phainomena* (appearance). Compare for example several
+translations from Plato's *Timaeus*. The text shows Timaeus, the titular
+character, explaining the nature of the physical world to his collocutor. In a
+passage that anticipates the famous "molten wax" analogy in Descartes, Timaeus
+notices that some elements, like water, change their appearance
+(*φανταζομένων*) while remaining essentially the same substance. Benjamin
+Jowett translates the passage:
 
 > Thus, then, as the several elements never present themselves in the same
 > form,[*phantazomenōn*] how can anyone have the assurance to assert positively
@@ -2621,9 +2624,9 @@ In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
 > be any one particular element and no other without incurring ridicule?
 > [@plato_plato_1955, 48d]
 
-The idea in both of these translations is that matter has some sort of an
-essence, but that it also sometimes becomes *phantazomenōn*, taking on a
-phantasmal, fantastic, ghostly, imaginable, and even "virtual" appearance (all
+Both translations capture the plain meaning of the passage: the essence of a
+thing remains even as its outward appearance changes, taking on a phantasmal,
+fantastic, ghostly, imaginable, and even "virtual" shape and appearance (all
 reasonable English approximations of the Greek *phantazomenōn*). Accordingly,
 Jowett translates *phantazomenōn* (that which is changeable) as "form" and Lamb
 as "appearance."
@@ -2650,7 +2653,7 @@ the "universal lasting ideal" of all shuttles: exactly the opposite of
 indicating a fundamental overloading of the concept.[^ln11-plato]
 
 Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
-of his struggle with the Platonic concept of form.  In his "Lectures on
+of his struggle with the Platonic concept of form. In his "Lectures on
 Philosophy," Hegel writes: "The Idea is nothing but what is current with us
 under the name of the Universal, when this word is not taken in the sense of
 *formal* Universal [*formell Allgemeine*]." The formal universal for him is
@@ -2668,34 +2671,38 @@ an epistemological category.
 Someone writes down "all these cats are subsumed under the category of
 'feline.'" At this moment, the ideal of "felines" becomes an ossified and
 unchanging dead thing. For Hegel, the true ideal must continue to exist and
-develop in the real world. It is not merely a human idea, but something that
-"internally distinguishes itself" while remaining "free in its infinitude and
-independent." The best I can understand this is to think about the evolutionary
-process that continues in the species, even as the taxonomy describing that
-evolution may remain tied to its fixed categories. New and radically different
-cats may come into existence---ones no longer covered by the "external mark" of
-being a "feline." Yet this would only mean that the ideal of "feline" has
-developed past human understanding.  Zoologists would, at that point, need
-simply adjust their categories to include new forms of feline being.
+develop in the real world. It is not merely a socially-constructed (we would
+say today) category, but something that "internally distinguishes itself" while
+remaining "free in its infinitude and independent." The best I can understand
+this is to think about the evolutionary process that continues in the species,
+even as the taxonomy describing that evolution may remain tied to its fixed
+categories. New and radically different cats may come into existence---ones no
+longer covered by the "external mark" of being a "feline." Yet this would only
+mean that the ideal of "feline" has developed past human understanding.
+Zoologists would, at that point, need simply adjust their categories to include
+new forms of feline being. Ideal feline being moves on immediately thereafter,
+continuing to develop and leaving behind only the husk or a "snapshot" of what
+it meant to be a cat in times already past. For Hegel, one should not confuse
+the static snapshot with the animate ideal.
 
-Hegel's "concrete universal" has claim on the ideal. It also exists in the real
-world. One way to understand this difficult concept is to think of it as
-capturing both *eidos* and *phantazomenōn*---idea and appearance---both
-reasonably transcribed to "form" in English. The very word "form" in its
-ordinary meaning is, in that way, somewhat of a self antonym. Form could mean
-"the visible aspect of a thing," but also "the formative" and "essential
-determinate principle of a thing," and, in its more obsolete meaning, "a
-formula, model, type, pattern, and example." Form, in this dual sense, sounds a
-lot like Hegel's "concrete universal." In moving towards the physical device, I
-need to keep both of these meanings in mind. They will become important later,
-when we consider the ways in which meaning connects to structure at the level
-of magnetic storage medium. The question of textual depth has several possible
-answers depending on how we model text. In the binary model, appearances
-conceal inner content. In the tripartite model suggested by Hegel's "concrete
-universal," we perceive text as indeterminate (or overdetermined) form, which
-leads to both ideas and physical medium.
+Hegel's "concrete universal" therefore exists in the real, physical world. One
+way to understand this difficult concept is to think of it as capturing both
+*eidos* and *phantazomenōn*---idea and appearance---both reasonably transcribed
+to "form" in English. The very word "form" in its ordinary meaning is, in that
+way, somewhat of a self antonym. Form could mean "the visible aspect of a
+thing," but also "the formative" and "essential determinate principle of a
+thing," and, in its more obsolete meaning, "a formula, model, type, pattern,
+and example." Form, in this dual sense, sounds a lot like Hegel's "concrete
+universal." In moving towards the physical device, I need to keep both of these
+meanings in mind. They will become important later, when we consider the ways
+in which meaning connects to structure at the level of magnetic storage medium.
+The question of textual depth has several possible answers depending on how we
+model text. In the binary model, appearances conceal inner content. In the
+tripartite model suggested by Hegel's "concrete universal," we perceive text as
+indeterminate (or overdetermined) form, which leads to both ideas and physical
+medium.
 
-### 3.3 Device as Gadget and Formula
+### 3.3 Sound and Formula
 
 Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
@@ -2741,21 +2748,22 @@ more extended and more thorough descriptions of form would silence," she
 writes. "The best criticism, and it is uncommon, is of this sort that dissolves
 considerations of content into those of form [@sontag_against_1966, 8-9]."
 Marcus and Best remind the reader that Sontag's manifesto is more than a
-literary strategy, but also an "affective and ethical stance
+rhetorical strategy, but also an "affective and ethical stance
 [@best_surface_2009, 10]." Strategies of "deep" interpretation carry with them
 also a claim to access, and an imbalance of interpretive acumen. The critic
 uncovers what the lay reader does not and cannot see. As an ethical stance,
 reading for external forms flattens the hierarchy between the lay reader and
 the professional interpreter. In this sense, Best, Marcus, and Sontag continue
-in the liberal Lutheran tradition of vernacular exegesis.
+in the liberal Lutheran tradition of vernacular exegesis. All are priests at
+the surface.
 
-Yet, from all the offered strategies of surface reading, reading for form
-strikes me as most ambivalent. It is not clear, for example, what exactly
-Sontag means when she entreats her readers to concentrate on "how it is what it
-is" and not on "showing what it means." This sort of formalism seems to
-counteract the type of surface reading suggested by reading for "literal
-meaning," for example. Sontag's "erotics of art" stands in opposition to
-explanatory, meaning-making mode of analysis. Erotics imply the transmission of
+Yet, from the offered strategies of surface reading, reading for form strikes
+me as the most ambivalent. It is not clear, for example, what exactly Sontag
+means when she entreats her readers to concentrate on "how it is what it is"
+and not on "showing what it means." This sort of formalism seems to counteract
+the type of surface reading suggested by reading for "literal meaning," for
+example. Sontag's "erotics of art" stands in opposition to explanatory,
+meaning-making mode of analysis. Erotics imply the transmission of
 understanding through bodily, lived experience. I understand clearly and relate
 to the stance against priestly mediation. But as a positive program, formalist
 poetics puzzle me, because "form" already occupies that ambivalent and
@@ -2789,7 +2797,7 @@ attention to device, which aids in the process of semantic renewal.
 
 Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
 (instrumental in developing the notion of formalist poetics) were also
-responded negatively to the Hegelian tradition of reading for symbolic
+responding negatively to the Hegelian tradition of reading for deep, symbolic
 interpretation. In a seminal 1917 volume on the "Theory of Poetic Language,"
 Osip Brik writes, mockingly:[ln3-translate]
 
@@ -2823,11 +2831,11 @@ concern with *zaum* (literally, beyond sense, or beyonsense
 @labelle_lexicon_2014, 63]): nonsensical sounds that nevertheless elicit an
 affective, mystical response, giving voice to ideas that are difficult to
 explain rationally. Poetry in the symbolic mode encodes meaning as inner sense:
-the elephant "stands for" memory, or the like. *Zaum* poetics instead evoke
-affect through external shape, as sound. Khlebnikov writes that "incantation,
-and beyonsense language are appeals 'over the head' of government straight to
-the population of feelings, a direct cry to the predawn of the soul
-[@khlebnikov_king_1990, 152]." Shklovsky explains *zaum* as "without words but
+the elephant "stands for" memory, or the like. *Zaum* poetics (beyond sense)
+instead evoke affect through external shape, as sound. Khlebnikov writes that
+"incantation and beyonsense language are appeals 'over the head' of government
+straight to the population of feelings, a direct cry to the predawn of the soul
+[@khlebnikov_king_1990, 152]." Shklovsky defines *zaum* as "without words but
 with sound:
 
 > Thought and speech cannot keep up with inspired experience, and
@@ -2838,27 +2846,31 @@ word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
 restoring its primal clarity [@brik_poetika_1919, 13].
 
 The word *bezobrazno* literally translates as "without image." The formalists
-insist on the primacy of the word image over its sense. And they understand
-image not as "symbol" but as phonetic signature.
+insist on the primacy of the word image over its sense. They restore the sound
+image, understanding image not as "symbol" but as phonetic signature.
 
-Three of the essays however strike in another direction. Shklovsky "Art as
-Technique," "Linkages between Plot and Style Device," and Eichenbaum's "How the
-*Overcoat* is Made" constitute a cluster of essays that deals with narrative
-structure rather than phonetic image. The Russian *priem* is commonly
-translated as the English "device," although both authors clearly mean "device"
-in the sense of "technique" or "move,"[^ln3-move] and not in the sense of
-"appliance" or "gadget." To this strain of formalism one could also adduce
-Vladimir Propp's well-known  *Morphology of the Folktale." All three authors
-cite a common source of influence: namely, Alexander Veselovsky, the Russian
-progressive historian of literature and founder of the comparative method in
-that tradition. Veselovsky, a scholar of the generation previous to the
-formalists, did not attain the renown enjoyed by his pupils in the West. An
-early pioneer of comparative literature, he advocated philology as "historical"
-and "genetic" study of "poetic consciousness and its forms." Citing literary
-explorations by Goethe, Friedrich Schiller, and Georges Polti as his
-inspiration, Veselovsky almost always uses "form" in the sense of "formula." In
-this, he imagines the genetic development of literature as the development of
-universal forms and devices. He calls these constants "vagabond formulas
+Three of the sixteen essays however strike in another direction. Shklovsky "Art
+as Technique," "Linkages between Plot and Style Device," and Eichenbaum's "How
+the *Overcoat* is Made" constitute a cluster of essays that deals with
+narrative structure rather than phonetic image. Translators commonly render the
+Russian *priem* as the English "device," although both authors clearly mean
+"device" in the sense of "technique" or "move,"[^ln3-move] and not in the sense
+of "appliance" or "gadget." To this strain of formalism one could also adduce
+Vladimir Propp's well-known *Morphology of the Folktale*, a text that finds a
+limited number of universal formulas in the multiplicity of folktale
+traditions.
+
+All three authors cite a common source of influence: namely, Alexander
+Veselovsky, the Russian progressive historian of literature and founder of the
+comparative method in that tradition. Veselovsky, a scholar of the generation
+previous to the formalists, did not attain the renown enjoyed by his pupils in
+the West. An early pioneer of comparative literature, he advocated philology as
+"historical" and "genetic" study of "poetic consciousness and its forms."
+Citing literary explorations by Goethe, Friedrich Schiller, and Georges Polti
+as his inspiration, Veselovsky almost always uses "form" in the sense of
+"formula" (and not at all as "shape" or "sound"). In this, he imagines the
+genetic development of literature as the development of universal forms and
+devices. He calls these constants "vagabond formulas
 [@veselovsky_sobranie_1913, 185]." He writes:
 
 > Somewhere, someone gave these plots (*siuzhety*) an apt expression, a formula,
@@ -2875,14 +2887,17 @@ dynamic could be considered as a type of "law of [cultural] energy conservation
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's formula
 is, like a *zaum* incantation, devoid of obvious meaning. It is a container.
-But unlike incantations, formulas have a life of their own, in a trans- or
-meta- human way, not accessible to the individual cantor. They can be evoked
-not quite transformed. Their historical current and genetic development is more
-pronounced than any individual contribution. Device in this sense, means
-exactly the opposite of form in the sense of private incantation, by which an
-individual author breaks with ossified tradition. This contradiction lies at
-the center of formalist poetics. As ciritcs, the formalists priveleged moments
-of mystic and trans-rational rebellion against stable literary forms. As
+But unlike given incantations, formulas have a life of their own, in a trans-
+or meta- human way, not accessible to the individual cantor. They can be evoked
+but not quite transformed. Their historical momentum and genetic development
+overpowers any individual contribution. We expand with in it, and not the other
+way around. Device in this sense, means exactly the opposite of form in the
+sense of a private utterance, by which an individual author breaks with an
+ossified image (as in Shklovsky's *uao*). 
+
+The contradiction of understanding form as sound, and form as formula, lies at
+the center of formalist poetics.  As critics, the formalists privileged moments
+of mystic and trans-rational poetic rebellion against static literary forms. As
 literary scholars, they reached for Hegel's concrete universal in the guise of
 trans-human formulae that have a life of their own.
 
@@ -2890,7 +2905,7 @@ trans-human formulae that have a life of their own.
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
 Where we started with a dichotomy, we arrive at a model of textuality that
-contains three parts: matter, form, and content, with form occuping the
+contains three parts: matter, form, and content, with form occupying a
 mediating, ambivalent role between matter and content. The history of Western
 aesthetics can be seen as pulling the work of art through one or several of
 these layers of analysis: as when Susan Sontag entreats her reader to pay more
@@ -2922,11 +2937,11 @@ electronic, digital text formats have their material embodiment
 but only in so far as it adds a dimension of materiality to a properly
 three-dimensional, multi-layered, thick description of text.
 
-A clarification of the terms and an understanding of form both as formula and
-device allows us to perceive the history of textual technology as one of the
+A clarification of the terms and an understanding of form both as shape and
+formula allows us to perceive the history of textual technology as one of the
 gradual stratification between matter, form, and content. Textuality comes
 unglued. This allographic property of text---its ability to "peel" way, to
-change shape, and to disembed---is worthy of critical attention. I am not only
+change shape, and to dis-embed---is worthy of critical attention. I am not only
 against the theoretical move to batten textuality down, but I think of such
 attempts as practically and politically imprudent. The ephemerality of an
 electronic text represents the hard-won struggle on the part of writers,
@@ -2937,7 +2952,7 @@ impossible!  Moreover, deeply-seated values in favor of free speech and
 unencumbered exchange of information depend on a loose coupling between
 ontological categories. Our abilities to remix, translate, re-mediate, recycle,
 transmit, transform, and transcend the ideas of others relies on their
-ephemeral nature.  Ideas deposited in ossified matter, in fixed shapes, do not
+ephemeral nature. Ideas deposited in ossified matter, in fixed shapes, do not
 travel well. And there are plenty of "actors" that would like for culture to
 return to the time of singular thought, etched in monolithic tablets, whether
 made of silicone or of stone.
@@ -2956,6 +2971,9 @@ Engelbart (who used the term extensively), and not with *Xerox*, the ultimate
 purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
+
+Form, for formalists, most often meant sound and technique. But I propose that
+we also take seriously the suggestion of device as gadget and appliance.
 
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -3025,7 +3043,6 @@ device. This stage flattens out the layers of ideas and formatting, rendering
 and making them visible on screen or page [@furuta_document_1982, 419-20;
 @kimura_structure_1984]. Similar to Hegel's "universal concrete," formatting
 in the document--object model bridges the gap between ideas and matter.
-
 
 What lies beneath the text? We are accustomed to thinking about that question
 metaphorically and answer in accord: meaning, narrative, representation, order,
@@ -3199,6 +3216,8 @@ screen, and liberating, because loosely coupled to its material substratum
 texts become both more fluid and more portable. Plainly put, the barriers to
 copying, sharing, exchanging, editing, remixing, and disseminating texts are
 reduced to a minimum.
+
+### 3.5 Literary Device as Machine, Gadget, Appliance
 
 With the illusory role of the screen in mind, I propose 1968 as the year in
 which automated discourse takes its present form. On December 9th, 1968 Douglas
