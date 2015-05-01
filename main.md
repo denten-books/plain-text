@@ -4,7 +4,7 @@ author: "Dennis Tenen"
 style: mla.csl
 bibliography: plain-text.bib
 toc: true
-documentclass: book
+documentclass: article
 
 ---
 
@@ -2971,9 +2971,6 @@ Engelbart (who used the term extensively), and not with *Xerox*, the ultimate
 purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
-
-Form, for formalists, most often meant sound and technique. But I propose that
-we also take seriously the suggestion of device as gadget and appliance.
 
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
