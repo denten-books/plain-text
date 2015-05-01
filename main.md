@@ -5,6 +5,7 @@ style: mla.csl
 bibliography: plain-text.bib
 toc: true
 documentclass: article
+cover-image: images/steno.png
 
 ---
 
@@ -2975,82 +2976,102 @@ involves something akin to phenomenology as biological reverse engineering.
 ### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 It is in this tripartite sense one can best understand the structure of modern
-"digital" documents. In the languge of the document--object model, the
+"digital" documents. In the language of the document--object model, the
 literary-theoretical concept of "form" can mean both "class" and "instance"
 (object-oriented programming) or "set" and "object" (set theory), or "type" and
-"term" (type theory). Although literature in computer science rarely
-aknowledges the Hegelian debt, computer-aided text editors internalized a model
-of document structure that separates layers of physical, formatting, and
-content structure.  FOOBAR Describing *EDIT*, one of the first editors designed for
-the GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
-writes: "The publication editor is divided into three related sections, the
-document layout facility, the editing facility, and the printing facility
-[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing.  These
-"primitive requests" can be combined to describe more complex "structures of
-the printed text."
+"term" (type theory). Although literature in computer science rarely operates
+in the mode of intellectual history, computer-aided text editors internalized a
+model of document structure remarkably similar to the one suggested by Hegelian
+aesthetics, and in terms of physical (media), formatting, and content levels of
+analysis.
 
-The creators of *QED*, another influential early text editor (created for
-SDS-930 time sharing system at Berkley) similarly encourage the user "to think
-in terms of structure" of the text. Both *QED* and *EDIT* begin to separate
-content and formatting for later re-combination and imprinting onto an external
-storage medium. Kaiman explains that "the user types the document layout file
-and the text file, then produces a proof or master copy of the text by printing
-the text according to the directions of the layout file. The text file contains
-layout marks to be interpreted by the layout file." "Text" in this schema,
-constitutes content meaningful only to the user, whereas layout contains some
-elements meaningful to the human and some elements as code instructions
-intended to for device control. The notion of "formatting" therefore mediates
-between the logical (semantic) and layout (stylistic) structural
-representations.
+Describing *EDIT*, one of the first editors designed for the GE635 36-bit
+mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
+publication editor is divided into three related sections, the document layout
+facility, the editing facility, and the printing facility
+[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
+contains such things as justification, indentation, and spacing. These
+"primitive requests" can be combined to describe more complex "structures of
+the printed text." The creators of *QED*, another influential early text editor
+(created for SDS-930 time sharing system at Berkley) similarly encourage the
+user "to think in terms of structure" of the text. Both *QED* and *EDIT* begin
+to separate content and formatting for later re-combination and imprinting onto
+an external storage media. Kaiman explains that "the user types the document
+layout file and the text file, then produces a proof or master copy of the text
+by printing the text according to the directions of the layout file. The text
+file contains layout marks to be interpreted by the layout file." "Text" in
+this schema, constitutes content meaningful only to the user, whereas layout
+contains some elements meaningful to the human and some elements as code
+instructions intended to for device control. The notion of "formatting"
+therefore mediates between the logical (semantic) and layout (stylistic)
+structural representations.
 
 ![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
 
-A seminal paper in the field of structured document proposes the following
+A seminal paper in the field of structured documents proposes the following
 model. First, "a document is an object composed of a hierarchy of primitive
 objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
 the start: composability and hierarchy. A document is a thing made up of other
 objects, like sentences and paragraphs. Furthermore, these things stand in a
 hierarchical relationship to each other. Paragraphs contain sentences, and not
-the other way around, for example. Second, "each object is an instance of a
-class." Document level classes include "letters," "theses," "recommendation,"
-and "papers for a particular journal." Lower level classes include sections,
-paragraphs, footnotes, and so on. Finally, "objects are further classified as
-either abstract or concrete." By this, the writers mean abstract or "logical"
-(in their words) objects, like words and ideas. We could understand this as
-content, where "concrete" objects are defined "over one or more two-dimensional
-*page spaces* and represent possible formatted images of abstract objects
-[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
-other words, gives physical shape, or layout, to the instantiation of abstract
-classes like a paragraph or a sentence. They are specific paragraphs and
-sentences "laid out" in page space. The document--object model speaks the
-language of Hegelian universal concrete, and is encoded as such.
+the other way around, for example.
 
-Here's where things really interesting. In the object model further gives rise
-to three "operations," tied to the "domain and range" of objects. *Editing*, in
-this model, comprises operations that move from abstract to abstract, or, from
-concrete to concrete domains. Spelling correction, for example, constitutes an
-editing manipulation where abstract objects are modified into other abstract
-objects. *Formatting,* can then be defined as giving shape to abstract objects
-in the transformation between abstract and concrete objects. Italicizing a
-word, for example, gives the idea of "emphasis" a slanted form. Finally, the
-authors define *viewing* as the movement from concrete objects to the output
-device. This stage flattens out the layers of ideas and formatting, rendering
-and making them visible on screen or page [@furuta_document_1982, 419-20;
-@kimura_structure_1984]. Similar to Hegel's "universal concrete," formatting
-in the document--object model bridges the gap between ideas and matter.
+Second, "each object is an instance of a class." Document level classes include
+"letters," "theses," "recommendation," and "papers for a particular journal."
+Lower level classes include sections, paragraphs, footnotes, and so on.
 
-What lies beneath the text? We are accustomed to thinking about that question
-metaphorically and answer in accord: meaning, narrative, representation, order,
-discourse, or ideology. But the materialist answer is simpler: pulp.
-Increasingly, it is also: glass, plastic, liquid crystal, copper, laminates,
-and silicone. Not much space separates ink from paper. There, textuality lies
-flat, in two dimensions. What you see is truly what you get. Not so on the
-screen connected to other screens. Networked textuality extends into the third
-dimension, away from the reader and deep into the bowels of the machine. The
-Open Systems Interconnection (OSI) reference model of communication[^ln3-osi]
-describes no less than seven layers: from the Application Layer, concerned with
-the semantics of application ("all services directly comprehensible to the user
+Finally, "objects are further classified as either abstract or concrete." By
+this, the writers mean abstract or "logical" (in their words) objects, like
+words and ideas. We could understand this as content, where "concrete" objects
+are defined over "one or more two-dimensional *page spaces* and represent
+possible formatted images of abstract objects [@furuta_document_1982, 417-19;
+@shaw_model_1980]." The concrete object, in other words, gives physical shape
+or layout to the instantiation of abstract classes like a paragraph or a
+sentence. They are specific paragraphs and sentences "laid out" in page space.
+The document--object model speaks the language of Hegelian universal concrete,
+and is encoded as such.
+
+Here is where things get really interesting. The object model further gives
+rise to three "operations," tied to the "domain and range" of objects.
+*Editing*, in this model, comprises operations that move from abstract to
+abstract, or, from concrete to concrete domains. Spelling correction, for
+example, constitutes an editing manipulation where abstract objects are
+modified into other abstract objects. *Formatting,* in this system, can then be
+defined as giving shape to abstract objects in the transformation between
+abstract and concrete objects. Italicizing a word, for example, gives the idea
+of "emphasis" a slanted form. Finally, the authors define *viewing* as the
+movement from concrete objects to the output device. This stage flattens out
+the layers of ideas and formatting, rendering and making them visible on screen
+or page [@furuta_document_1982, 419-20; @kimura_structure_1984]. Similar to
+Hegel's "universal concrete," formatting in the document--object model bridges
+the gap between ideas and matter. Formatting is where ideas take physical
+shape.
+
+The document--object model governing the production of text on contemporary
+computational reading and writing *devices* gives another meaning to the
+question asked earlier: What lies beneath the text? We are accustomed to
+thinking about document structure metaphorically and answer in accord: meaning,
+narrative, representation, order, discourse, or ideology. Form in that sense is
+binary: either content or shape. Introducing the literary device as machine,
+gadget, or appliance into the formula suggests another, must more materialist
+answer: pulp and increasingly also, glass, plastic, liquid crystal, copper,
+laminates, and silicone. The move between paper and composite computational
+machines carries with it a profound shift in the physical affordances of the
+structure supporting all higher-order, surface level representations of
+textuality. I will spend the rest of the chapter in extending the work
+providing descriptive account using historical sources, direct observation, and
+tools normally reserved for reverse-engineering of data files.[^ln3-mechanisms]
+
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
+
+Not much space separates ink from paper. There, textuality lies flat, in two
+dimensions. What you see is truly what you get. Not so on the screen connected
+to other screens. Networked textuality extends into the third dimension, away
+from the reader and deep into the bowels of the machine. The Open Systems
+Interconnection (OSI) reference model of communication[^ln3-osi] describes no
+less than seven layers: from the Application Layer, concerned with the
+semantics of application ("all services directly comprehensible to the user
 [@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
 electrical, functional, and procedural characteristics" of communication
 [@day_revised_1995; @ncs_national_1988; @ncs_open_1981].[^ln3-layers]
@@ -3096,7 +3117,12 @@ Automated discourse has gained such opacity and depth in several stages: first,
 by coupling content and control on the surface of removable paper storage media
 (ticker tape and punch cards); second, in removing inscription from view onto
 magnetic tape; and, finally, by manufacturing an illusion of visibility on the
-screen.
+screen.[^ln3-illusion]
+
+[^ln3-illusion]: See for exmple @kirschenbaum_mechanisms_2012, 135: "Computers
+are unique in the history of writing technologies in that they present a
+premeditated material environment built and engineered to propogate an illusion
+of mmateriality."
 
 I offer the following historical snapshots and exemplary devices as
 illustrations that move us roughly from tail end of the Gutenberg galaxy into
@@ -3106,16 +3132,14 @@ the present age:
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent, simply titled
-"Controller." "My invention relates to all controllers," Goldberg writes. "The
-object of the invention is to provide a mechanism operable by a control sheet
-which is legible to every person having sufficient education to enable him to
-read. To illustrate my invention, I produce a control sheet in which the
-control characters are in the form of the letters of the ordinary English
-alphabet [@goldberg_controller_1915]." Goldberg's invention involves a
-perforated "control sheet in which the control characters are in the form of
-ordinary language." Rather than using ticker tape, Goldberg's perforations form
-letters. On Goldberg's control sheets, the language of machines and the
-language of humans coincide.
+"Controller." "My invention relates to all controllers," Goldberg writes.
+Furthermore, the object of his invention is "to provide a mechanism operable by
+a control sheet which is legible to every person having sufficient education to
+enable him to read ." Goldberg's illustrates his invention in attaching to his
+patent "a control sheet in which the control characters are in the form of the
+letters of the ordinary English alphabet [@goldberg_controller_1915]." Rather
+than using ticker tape, Goldberg's perforations form letters. On Goldberg's
+control sheets, the language of machines and the language of humans coincide.
 
 ![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
 "@goldberg1911")
