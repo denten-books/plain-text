@@ -2978,16 +2978,15 @@ It is in this tripartite sense one can best understand the structure of modern
 "digital" documents. In the languge of the document--object model, the
 literary-theoretical concept of "form" can mean both "class" and "instance"
 (object-oriented programming) or "set" and "object" (set theory), or "type" and
-"term" (type theory). Although few software engineers would aknowledge the
-debt, the Hegelian "concrete universal" has been encoded into the structure of
-electronic documents. Some of the earliest computer-aided text editors modeled
-documents in this way, separating the layers of physical, formatting, and
-content structure. Describing *EDIT*, one of the earliest editors designed for
+"term" (type theory). Although literature in computer science rarely
+aknowledges the Hegelian debt, computer-aided text editors internalized a model
+of document structure that separates layers of physical, formatting, and
+content structure.  FOOBAR Describing *EDIT*, one of the first editors designed for
 the GE635 36-bit mainframe computers in use at Bell Labs in 1968, Arthur Kaiman
 writes: "The publication editor is divided into three related sections, the
 document layout facility, the editing facility, and the printing facility
 [@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing. These
+contains such things as justification, indentation, and spacing.  These
 "primitive requests" can be combined to describe more complex "structures of
 the printed text."
 
