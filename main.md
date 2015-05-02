@@ -2975,17 +2975,18 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
 
-### 3.4 Document--object Model
+### 3.4 Document--object Model (DOM)
 
 It is in this tripartite sense one can best understand the structure of modern
-"digital" documents. In the language of the document--object model, the
-literary-theoretical concept of "form" can mean both "class" and "instance"
-(object-oriented programming) or "set" and "object" (set theory), or "type" and
-"term" (type theory). Although literature in computer science rarely operates
-in the mode of intellectual history, computer-aided text editors internalized a
-model of document structure remarkably similar to the one suggested by Hegelian
-aesthetics, and in terms of physical (media), form (formatting), and content
-(text) levels of analysis.
+"digital" documents. In the language of the document--object model (which
+structures the presentation of text everywhere from web browsers to commercial
+print typesetters), the literary-theoretical concept of "form" can mean both
+"class" and "instance" (object-oriented programming) or "set" and "object" (set
+theory), or "type" and "term" (type theory). Although literature in computer
+science rarely operates in the mode of intellectual history, computer-aided
+text editors internalized a model of document structure remarkably similar to
+the one suggested by Hegelian aesthetics, and in terms of physical (media),
+form (formatting), and content (text) levels of analysis.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
@@ -3023,15 +3024,19 @@ Second, "each object is an instance of a class." Document level classes include
 Lower level classes include sections, paragraphs, footnotes, and so on.
 
 Finally, "objects are further classified as either abstract or concrete." By
-this, the writers mean abstract or "logical" objects, like words and ideas. We
-could understand this as content, where, by contrast, "concrete" objects
-indicate "one or more two-dimensional *page spaces* and represent possible
-formatted images of abstract objects [@furuta_document_1982, 417-19;
-@shaw_model_1980]." The concrete object, in other words, gives physical shape
-or layout to the instantiation of abstract classes like a paragraph or a
-sentence. They are specific paragraphs and sentences (as ideas) "laid out" in
-page space. The document--object model mobilizes the language of Hegelian
-universal concrete into practice.
+this, the writers mean abstract or "logical" objects, like words and ideas. In
+describing FORMAT, an important early (circa 1968) "general-purpose" text
+processor (written in FORTRAN IV for OS/360 devices), George Berns describes
+the program's input as "free-form," (literally, free of form) in that it is
+"entirely free of positional restraint [@berns_format_1968, 85;
+@berns_description_1969, 141]." Text free of positional restraint, in that way,
+can be described in terms of "content,"  by contrast with "formatted" objects
+made "concrete," that is positioned in "one or more two-dimensional *page
+spaces* and represent possible formatted images of abstract objects
+[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
+other words, gives physical shape, layout, or style to the instantiation of
+abstract universal classes like paragraphs and sentences. Concrete objects are
+abstract paragraphs and sentences "laid out" in page space. 
 
 Here is where things should get interesting for a scholar of textuality. The
 document--object model further gives rise to three "operations," tied to the
@@ -3104,26 +3109,57 @@ the body of the document. Lawrence O'Gorman, an influential researcher in the
 field of document image processing, calls the recognition of this sort of
 objects, at the intersection of concrete and universal, "document lay-out
 understanding," which consists of "functional labeling of blocks [...]
-distinguised in some way by their physical features (such as by font size) and
-by the 'meaning[ of the block [@ogorman_document_1993, 1162-63]." But note also
-that document layout (alternatively "formatting" or the arrangement of
-"concrete objects") could encorporate also meaningless (to humans) structures,
+distinguished in some way by their physical features (such as by font size) and
+by the 'meaning[ of the block [@ogorman_document_1993, 1162-63;
+@ogorman_document_1995, 82-99 (in the reconstructed edition)]." But note
+also that document layout (alternatively "formatting" or the arrangement of
+"concrete objects") could incorporate also meaningless (to humans) structures,
 such as the incidental "rivers" of empty space formed between the words. That
 sort of concrete structure goes "unrecognized" because it doest not correspond
 to any abstract objects.
 
-![Method for extracting document structure based on "nearest-neigbor clustering
+![Method for extracting document structure based on "nearest-neighbor clustering
 of page components [@ogorman_document_1993, 1164]."](images/docstrum.png)
 
-Finally, the authors define *viewing* as the movement from concrete objects to
-output device. This could include printing the document onto paper, or
-publishing it online, for example.  Significantly, 
+Finally, the document--object model defines *viewing* as the movement from
+concrete objects to output device. This could include printing the document
+onto paper, or publishing it online, for example. It is at this moment that the
+full weight of Hegelian "universal concrete" makes itself known. The "concrete"
+object in the document--object model is still only a *description* of the
+two-dimensional space and represents only some "possible formatted images of
+abstract objects."[^ln3-dom] To repeat: the concrete object represents
+"possible" formatted images, and not yet actual formatted images! To actualize
+materially, the document must be fixed and flattened back out onto a medium
+like screen or paper. These media have actual dimensions. In this way, a
+footnote placed at the bottom of the page at the level of concrete object can
+then be rendered at the bottom of an A1 (841 by 1,189 millimeters) sized paper
+or at the bottom of an much smaller A4 sized sheet (210 by 297
+millimeters).[^ln3-iso216] In yet another formative paper in the history of
+contemporary textuality, Brian Kernighan and Joseph Ossanna describe TROFF, a
+text processor written circa 1973 for the PDP-11 outputting to Graphic Systems
+Cat typesetter. In 1979, Kernighan reports modifying the original program to
+produce output for a greater variety of typesetters. Kernighan explains, "TROFF
+produces its output in a device-independent form," and its output "must be
+processed by a drive for that device to produce printed output
+[@kernighan_troff_1992]."
 
-This stage flattens out the layers of ideas and formatting,
-rendering and making them visible on screen or page [@furuta_document_1982,
-419-20; @kimura_structure_1984]. Similar to Hegel's "universal concrete,"
-formatting in the document--object model bridges the gap between ideas and
-matter. Formatting is where ideas take physical shape. 
+This stage flattens out the layers of ideas and formatting, rendering and
+making them visible on screen or page [@furuta_document_1982, 419-20;
+@kimura_structure_1984]. Similar to Hegel's "universal concrete," the
+"formatting layer" in the document--object model bridges the gap between ideas
+and matter. Formatting is where ideas connect to physical shape. 
+
+The document--object model weaves the language of Hegelian universal into the
+fabric of modern computing.
+
+[^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
+one or more two dimensional page spaces and represent possible formatted images
+of abstract objects."
+
+[^ln3-iso216]: A series of paper sizes are governed by the International
+Standard ISO 216. In the Imperial System these equate to  33.1in × 46.8in and
+8.27in × 11.7in respectively
+[@international_organization_for_standardization_writing_1975].
 
 ### 3.5 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -3141,9 +3177,6 @@ structure supporting all higher-order, surface level representations of
 textuality. I will spend the rest of the chapter in extending the work
 providing descriptive account using historical sources, direct observation, and
 tools normally reserved for reverse-engineering of data files.[^ln3-mechanisms]
-
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
-@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
 Not much space separates ink from paper. There, textuality lies flat, in two
 dimensions. What you see is truly what you get. Not so on the screen connected
@@ -3314,11 +3347,6 @@ surface of removable paper storage media (ticker tape and punch cards); second,
 in removing inscription from view onto magnetic tape; and, finally, by
 manufacturing an illusion of visibility on the screen.[^ln3-illusion]
 
-[^ln3-illusion]: See for exmple @kirschenbaum_mechanisms_2012, 135: "Computers
-are unique in the history of writing technologies in that they present a
-premeditated material environment built and engineered to propogate an illusion
-of mmateriality."
-
 I offer the following historical snapshots and exemplary devices as
 illustrations that move us roughly from tail end of the Gutenberg galaxy into
 the present age:
@@ -3378,7 +3406,7 @@ under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), the American Engineer who also filed several inventions related to
-weaving looms at the end of the 19th century. In 1888, inspired by Edison's
+weaving looms at the end of the nineteenth century. In 1888, inspired by Edison's
 mechanical phonograph, Smith made public his experiments with an "electrical
 method" of sound recording using a "magnetized cord" (cotton mixed with
 hardened steel dust) as a recording medium. These experiments were later put
@@ -3431,6 +3459,16 @@ screen, and liberating, because loosely coupled to its material substratum
 texts become both more fluid and more portable. Plainly put, the barriers to
 copying, sharing, exchanging, editing, remixing, and disseminating texts are
 reduced to a minimum.
+
+[^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
+are unique in the history of writing technologies in that they present a
+premeditated material environment built and engineered to propagate an illusion
+of immateriality."
+
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
+
+
 
 ### 3.6 Literary Device as Machine, Gadget, Appliance
 
