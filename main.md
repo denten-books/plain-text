@@ -1645,7 +1645,8 @@ MICROANALYSIS  |              |
    physical media (paper and pixel)
 
 ```
-![Micro, Macro, and Close reading.](images/empty.png)
+
+Table: Scales of analysis: micro- macro- and close reading.
 
 Where distant reading and macroanalysis are concerned with text aggregates,
 microanalysis, of the type suggested (but not carried out to its logical
@@ -2429,11 +2430,12 @@ Viktor Shklovsky (who coined the phrase "laying bare the device [*priem*]")
 would have the reader pause to consider the implications. In which sense ideas
 resemble (or not) a field? The writer could draw our attention to the
 strangeness of the analogy were he to mention "mowing a verdant field of
-study," or something along those lines. The unexpected transference of
-properties accentuates and renews a familiar image. In what sense could one
-"mow" a "verdant" "field" of ideas? Such unusual juxtapositions renew the
-peculiarity of the initial metaphor. The figure is "made strange" again, in
-what Shklovsky calls the technique of poetic "estrangement
+study," or better yet, showing someone in the process of mowing a field while
+discussing epistemology (or something along these lines). The unexpected
+transference of properties accentuates and renews a familiar image.  In what
+sense could one "mow" a "verdant" "field" of ideas? Such unusual juxtapositions
+renew the peculiarity of the initial metaphor. The figure is "made strange"
+again, in what Shklovsky calls the technique of poetic "estrangement
 [@shklovksy_sborniki_1917]."
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
@@ -2982,8 +2984,8 @@ literary-theoretical concept of "form" can mean both "class" and "instance"
 "term" (type theory). Although literature in computer science rarely operates
 in the mode of intellectual history, computer-aided text editors internalized a
 model of document structure remarkably similar to the one suggested by Hegelian
-aesthetics, and in terms of physical (media), formatting, and content levels of
-analysis.
+aesthetics, and in terms of physical (media), form (formatting), and content
+(text) levels of analysis.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
@@ -3021,31 +3023,71 @@ Second, "each object is an instance of a class." Document level classes include
 Lower level classes include sections, paragraphs, footnotes, and so on.
 
 Finally, "objects are further classified as either abstract or concrete." By
-this, the writers mean abstract or "logical" (in their words) objects, like
-words and ideas. We could understand this as content, where "concrete" objects
-are defined over "one or more two-dimensional *page spaces* and represent
-possible formatted images of abstract objects [@furuta_document_1982, 417-19;
+this, the writers mean abstract or "logical" objects, like words and ideas. We
+could understand this as content, where, by contrast, "concrete" objects
+indicate "one or more two-dimensional *page spaces* and represent possible
+formatted images of abstract objects [@furuta_document_1982, 417-19;
 @shaw_model_1980]." The concrete object, in other words, gives physical shape
 or layout to the instantiation of abstract classes like a paragraph or a
-sentence. They are specific paragraphs and sentences "laid out" in page space.
-The document--object model speaks the language of Hegelian universal concrete,
-and is encoded as such.
+sentence. They are specific paragraphs and sentences (as ideas) "laid out" in
+page space. The document--object model mobilizes the language of Hegelian
+universal concrete into practice.
 
-Here is where things get really interesting. The object model further gives
-rise to three "operations," tied to the "domain and range" of objects.
-*Editing*, in this model, comprises operations that move from abstract to
-abstract, or, from concrete to concrete domains. Spelling correction, for
-example, constitutes an editing manipulation where abstract objects are
-modified into other abstract objects. *Formatting,* in this system, can then be
-defined as giving shape to abstract objects in the transformation between
-abstract and concrete objects. Italicizing a word, for example, gives the idea
-of "emphasis" a slanted form. Finally, the authors define *viewing* as the
-movement from concrete objects to the output device. This stage flattens out
-the layers of ideas and formatting, rendering and making them visible on screen
-or page [@furuta_document_1982, 419-20; @kimura_structure_1984]. Similar to
-Hegel's "universal concrete," formatting in the document--object model bridges
-the gap between ideas and matter. Formatting is where ideas take physical
-shape.
+Here is where things should get interesting for a scholar of textuality. The
+document--object model further gives rise to three "operations," tied to the
+"domain and range" of its constituent objects. *Editing*, in this model,
+comprises operations that move from abstract to abstract, or, from concrete to
+concrete domains.
+
++------------------------+---------------+------------------------+
+| Operation              |  Type         |  Example               |
++========================+===============+========================+
+|  abstract to abstract  |  Editing      | - spelling correction  |
+|  concrete to concrete  |               | - move (data) table    |
+|                        |               |                        |
++------------------------+---------------+------------------------+
+| abstract to concrete   |  Formatting   | - apply font           |
+|                        |               | - break into pages     |
++------------------------+---------------+------------------------+
+| concrete to abstract   |  Recognition  | - optical character    |
+|                        |               |   recognition          |
++------------------------+---------------+------------------------+
+| concrete to output     |  Viewing      | - print to paper       |
+|                        |               | - publish to web       |
++------------------------+---------------+------------------------+
+| concrete to storage    |  Filing       | - save file            |
+|                        |               | - shelve book          |
++------------------------+---------------+------------------------+
+
+Table: Object operation types under the document--object model
+[@furuta_document_1982, 419-20].
+
+Spelling correction, for example, constitutes an editing manipulation where
+abstract objects are modified into other abstract objects. Moving footnotes to
+endnotes, or shifting data tables around the document would count for editing
+of the "concrete to concrete" type. The authors define *formatting* as giving
+concrete shape to ideas in the transformation between abstract and concrete
+objects. Italicizing a word, for example, gives the idea of "emphasis" a
+slanted form. The act of breaking a document into pages gives shape (and a
+specific number of lines, for example) to the idea of a page. 
+
+The authors hint at, but do not discuss the opposite movement, from "concrete
+to abstract" entities, as would be done in the process of optical character
+recognition (OCR). An important part of the digitization process, OCR "lifts"
+or "recognizes" ideational content from a purely visual representation of a
+page.  The
+
+into
+ideational content (from image to image + text).Finally, the authors define
+*viewing* as the movement from concrete objects to output device. This could
+include printing the document onto paper, or publishing it online, for example.
+Significantly, 
+
+This stage flattens out the layers of ideas and formatting,
+rendering and making them visible on screen or page [@furuta_document_1982,
+419-20; @kimura_structure_1984]. Similar to Hegel's "universal concrete,"
+formatting in the document--object model bridges the gap between ideas and
+matter. Formatting is where ideas take physical shape. 
 
 The document--object model governing the production of text on contemporary
 computational reading and writing *devices* gives another meaning to the
@@ -3225,12 +3267,14 @@ only the illusion of flat textuality. Where a literary scholar could hope to
 gleam the machinations of ideology from surface representation in print, the
 digital device obscures literal flows of power and control. Isomorphic
 application design provides a measure of similarity between page and screen,
-obscuring material divergence beneath.
-Automated discourse has gained opacity and depth in several stages: first, by
-coupling content and control on the surface of removable paper storage media
-(ticker tape and punch cards); second, in removing inscription from view onto
-magnetic tape; and, finally, by manufacturing an illusion of visibility on the
-screen.[^ln3-illusion]
+obscuring material divergence beneath. 
+
+Quote Kirsch here.
+ Automated discourse has gained opacity
+and depth in several stages: first, by coupling content and control on the
+surface of removable paper storage media (ticker tape and punch cards); second,
+in removing inscription from view onto magnetic tape; and, finally, by
+manufacturing an illusion of visibility on the screen.[^ln3-illusion]
 
 [^ln3-illusion]: See for exmple @kirschenbaum_mechanisms_2012, 135: "Computers
 are unique in the history of writing technologies in that they present a
@@ -3521,7 +3565,6 @@ of modern textual editing, writes:
 manuscript format. Control words scattered in the text  provide detailed
 control over the format, if desired. Input files may be prepared  by the
 context editor, TYPSET.
-
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
