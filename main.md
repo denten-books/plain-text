@@ -2975,7 +2975,7 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
 
-### 3.4 WYSINAWYG (What You See Is Not Always What You Get)
+### 3.4 Document--object Model
 
 It is in this tripartite sense one can best understand the structure of modern
 "digital" documents. In the language of the document--object model, the
@@ -3069,25 +3069,63 @@ of the "concrete to concrete" type. The authors define *formatting* as giving
 concrete shape to ideas in the transformation between abstract and concrete
 objects. Italicizing a word, for example, gives the idea of "emphasis" a
 slanted form. The act of breaking a document into pages gives shape (and a
-specific number of lines, for example) to the idea of a page. 
+specific number of lines, for example) to the idea of a page.
 
 The authors hint at, but do not discuss the opposite movement, from "concrete
 to abstract" entities, as would be done in the process of optical character
 recognition (OCR). An important part of the digitization process, OCR "lifts"
-or "recognizes" ideational content from a purely visual representation of a
-page.  The
+ideational content from the page image. Without OCR, common document formats
+like `.pdf` and `.tiff` therefore remain *merely visual representations*. They
+do not contain text or "abstract objects" for the machine. They instead merely
+externalized representations of text, or, "concrete objects." Just as a human
+must "read" a text first in order to understand it, OCR attempts to "recognize"
+textual content from the image as a first step to further manipulation.
+Leaving aside the question of machine "understanding," recognition in this case
+implies more narrowly the conversation of image into text. This implies also
+that textuality occupies a distinct and privileged category in the document
+epistemology, from the point of view of the machine. Another way to think about
+machine text would be to describe "images" as one type of "internal data
+structure" and text as another, more "structured" and "more internal," mode of
+representation. Consider that in the hierarchical document--object model images
+can contain text, but text cannot contain images. Text, in that sense, lies at
+the innermost location in series of nested "outer" containers. Lacking a model
+of "comprehension" or "understanding," the document-object model merely posits
+text as "content" only in the sense of it being the "innermost" object of
+recognition.
 
-into
-ideational content (from image to image + text).Finally, the authors define
-*viewing* as the movement from concrete objects to output device. This could
-include printing the document onto paper, or publishing it online, for example.
-Significantly, 
+The "recognition" of characters does not, however, fully capture the variety of
+abstract document objects, which besides letters and words include paragraphs,
+tables, titles, and footnotes. These also count as "content." It is essential
+therefore to know "where text resides on the page," since some elements of
+positioning in themselves can carry meaning. For instance, proper names could
+carry different connotations depending on their location in the text. A name in
+the "author field" means something distinct from any other name mentioned in
+the body of the document. Lawrence O'Gorman, an influential researcher in the
+field of document image processing, calls the recognition of this sort of
+objects, at the intersection of concrete and universal, "document lay-out
+understanding," which consists of "functional labeling of blocks [...]
+distinguised in some way by their physical features (such as by font size) and
+by the 'meaning[ of the block [@ogorman_document_1993, 1162-63]." But note also
+that document layout (alternatively "formatting" or the arrangement of
+"concrete objects") could encorporate also meaningless (to humans) structures,
+such as the incidental "rivers" of empty space formed between the words. That
+sort of concrete structure goes "unrecognized" because it doest not correspond
+to any abstract objects.
+
+![Method for extracting document structure based on "nearest-neigbor clustering
+of page components [@ogorman_document_1993, 1164]."](images/docstrum.png)
+
+Finally, the authors define *viewing* as the movement from concrete objects to
+output device. This could include printing the document onto paper, or
+publishing it online, for example.  Significantly, 
 
 This stage flattens out the layers of ideas and formatting,
 rendering and making them visible on screen or page [@furuta_document_1982,
 419-20; @kimura_structure_1984]. Similar to Hegel's "universal concrete,"
 formatting in the document--object model bridges the gap between ideas and
 matter. Formatting is where ideas take physical shape. 
+
+### 3.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 The document--object model governing the production of text on contemporary
 computational reading and writing *devices* gives another meaning to the
@@ -3394,7 +3432,7 @@ texts become both more fluid and more portable. Plainly put, the barriers to
 copying, sharing, exchanging, editing, remixing, and disseminating texts are
 reduced to a minimum.
 
-### 3.5 Literary Device as Machine, Gadget, Appliance
+### 3.6 Literary Device as Machine, Gadget, Appliance
 
 With the illusory role of the screen in mind, I propose 1968 as the year in
 which automated discourse takes its present form. On December 9th, 1968 Douglas
