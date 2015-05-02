@@ -2986,7 +2986,9 @@ theory), or "type" and "term" (type theory). Although literature in computer
 science rarely operates in the mode of intellectual history, computer-aided
 text editors internalized a model of document structure remarkably similar to
 the one suggested by Hegelian aesthetics, and in terms of physical (media),
-form (formatting), and content (text) levels of analysis.
+form (formatting), and content (text) levels of analysis. The document--object
+model weaves the language of Hegelian universal into the fabric of modern
+computing.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
@@ -3147,10 +3149,42 @@ This stage flattens out the layers of ideas and formatting, rendering and
 making them visible on screen or page [@furuta_document_1982, 419-20;
 @kimura_structure_1984]. Similar to Hegel's "universal concrete," the
 "formatting layer" in the document--object model bridges the gap between ideas
-and matter. Formatting is where ideas connect to physical shape. 
+and matter. Formatting is where ideas connect to physical shape. This is a most
+delicate operation, for in giving shape to abstract ideas formatting does
+something more notable than mere application of visual style. Formatter
+designers from TROFF to FORMAT consistently describe the instrumental function
+of their programs as "text control." Berns, for example, writes that "task
+control has four basic tasks: to read the input, to interpret and convert the
+input as required; to keep the document flowing smoothly from line to line,
+column to column, and page to page, unless otherwise instructed, and to break
+this automatic flow as directed [@berns_description_1969]."
 
-The document--object model weaves the language of Hegelian universal into the
-fabric of modern computing.
+Because formatting governs both meaning-carrying and purely decorative
+elements, text control can involve operations like "replace word," "make
+invisible," or "insert file." These commands intertwine with "free-form"
+abstract and ideational content at the formatting level, to come into being in
+the "viewing" stage of text processing, where the layers flatten across "a
+two-dimensional space" and become visible to the system user. SCRIPT and the
+Generalized Markup Language (GML) developed in the late 1960s by IBM
+(originally for the use on the CP67/CMS time sharing system), and now at the
+basis of XML and HTML markup languages through ISO 8879, shaping much of
+today's web documents, describes a number of text transformation that occur to
+"generate the proper output form." The logical topology of each line being
+formatted is converted into an "intermediate data structure," which can then be
+"'unfolded' all at once" by "'peeling' the data structure one level at a time
+[@madnick_script_1968, 97]." As text, text control, and user command flows
+intertwine, the structure of data on the disk no longer correspond to what is
+visible at the level of user terminal or line printer. SCRIPT, TROFF, and
+FORMAT make all of the laminate components in their onion-like layered
+structure availble to user for examination. But as we will see shortly, the
+condition of complete system visibility persists only for a short historical
+period. Once incoprorated, the document-object model gains a measure of opacity
+and even legel protection from "unauthorized access" to protected document
+layers.
+
+!["System Command and Data Flow." Data structures at "disk file" level do not
+necessarily correspond to text structures at "user terminal" or "line printer"
+levels @madnick_script_1968, 98.](images/script.png)
 
 [^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
 one or more two dimensional page spaces and represent possible formatted images
