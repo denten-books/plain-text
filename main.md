@@ -3542,9 +3542,11 @@ and silicon does not merely claim to, but actually does transform surfaces.
 Critical reading must therefore begin with reclaiming the underlying material
 conditions of meaning making. The answer to the machine remains in the machine.
 
-Here is my "closest possible" reading of James Joyce's "Ulysys," of a kind that
-has not been done before. Were my readers to open the pictured file, it would
-erase their hard drives.
+Matthew Kirschenbaum was one of the first to show the effectiveness of reading
+at the surface of magnetic storage medium. I will go one step further. My
+"closest possible" reading of James Joyce's "Ulysses" contain a malicious code
+injection. Were my readers to open the pictured file, it would erase their hard
+drives.
 
 [^ln3-root]: @stoltz_is_2013
 
