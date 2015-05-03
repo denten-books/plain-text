@@ -43,7 +43,7 @@ might conventionally mistake for a "binary" or "digital" one, however imprecise
 those terms are in everyday use. In clarifying usage, I ask those who may have
 considered themselves mere "users" to become close readers, thinkers, and
 makers of technology, able to apply the same critical acuity to reading code
-and platform as they do to close reading of prose and poetry. Ultimately, the
+and device as they do to the close reading of prose and poetry. Ultimately, the
 book makes a case for the recovery of textual roots already latent in the
 mechanisms of modern computing.
 
@@ -55,13 +55,13 @@ foundations of modern textual technology, moving from the level of circuit and
 silicon, and reaching up, through levels of abstraction (files, folders, and
 operating systems), towards the reader. In following that path, I reconstruct
 the passage of an electron from the mechanical action of the keyboard, to
-magnetic storage medium, and to liquid crystal, that together give rise to
-pixels, letters, and words. In using this approach, my book introduces a method
-of literary microanalysis.  Where distant reading perceives patterns across
-large-scale literary copora, microanalysis breaks textuality down to its minute
-constituent components. It is at this level, that I find that readers and
-writers are in danger of becoming fundamentally alienated from the immediate
-material contexts of knowledge production.
+magnetic storage medium, and to liquid crystal, which, together, give rise to
+pixels, letters, words, books, and literature. In using this approach, my book
+introduces a method of textual microanalysis. Where distant reading perceives
+patterns across large-scale literary copora, microanalysis breaks textuality
+down to its minute constituent components. It is at this level, that I find
+that readers and writers are in danger of becoming fundamentally alienated from
+the immediate material contexts of their knowledge production.
 
 ## Annotated Table of Contents
 
@@ -147,8 +147,8 @@ Works of Shakespeare*, Vivaria Press, 2002.) The possibility of a randomly
 generated zoo-text points to the conclusion of the chapter, containing an
 argument against the "systems" definition of information. In what Shannon calls
 a "strange feature" of his communication theory, information is understood as
-the amount of "freedom" or entropy in the system. By contrast, I want to insist
-on an agency-based model of information processing, in which texts mean things
+the amount of "freedom" or entropy in the system. By contrast, I want to argue
+for an agency-based model of information processing, in which texts mean things
 *for* free and conscious beings.
 
 ### Chapter 5: Recursive Encounters with Oneself
@@ -231,7 +231,7 @@ literature, text, and discourse).
 Second, the book contains a strong undercurrent of *humanism*. In making
 explicit the ways in which changes in the material substratum affect
 higher-order cultural techniques (of knowledge production and literary
-dissemination), I insist on the reinstatement of human agency in a conversation
+dissemination), I argue for the reinstatement of human agency in a conversation
 that has largely turned towards the object, the system, and the post-human. The
 book's narrative arc can be imagined as developing from first-order material
 bases of textual production, to second-order phenomena, to the emergence of the
@@ -284,10 +284,11 @@ that cannot quite shake the material legacy of paper and pencil.
 Although I do not mean to engage in the debate on disciplinary formation, I
 prefer to describe my work as "computational culture studies," both in the
 sense of "the study of computational culture," and as "computational approaches
-to the study of culture." It is important for me to insist on the reciprocal
-motion between the constituent elements of "computation" and "culture." Too
-often rhetoric around the digital humanities resembles a one-way street, in
-which computational methods are promised to reform the humanities unilaterally.
+to the study of culture." It is important for me make the case for the
+reciprocal motion between the constituent elements of "computation" and
+"culture." Too often rhetoric around the digital humanities resembles a one-way
+street, in which computational methods are promised to reform the humanities
+unilaterally.
 
 Books like Alexander Galloway's *Laruelle: Against the Digital* (University of
 Minnesota Press, 2014), Matthew Fuller's *Evil Media* (MIT Press, 2012), and
