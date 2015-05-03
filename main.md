@@ -2402,7 +2402,7 @@ binary formats. To produce the image, I inject malicious code into an Adobe
 Acrobat file, showing the contrast between surface text and its underlying
 magnetically bound bit structure.
 
-### 3.1 Literary Device as Technique
+### 3.1 Literary Device as Gadget and Technique
 
 As I write these words, a ceiling-mounted smoke detector in the hallway outside
 of my apartment emits a shrill squeal every three minutes or so. And at every
@@ -2505,7 +2505,11 @@ in ways that we have only began to comprehend. And as will become apparent in
 the later sections of this chapter, some structural decisions in the making of
 such devices are explicitly designed to resist tampering, access, or
 interpretation. They obscure the flows of code and codex under the familiar
-guise of surface inscription.
+guise of surface inscription. This chapter will be longer than others, because
+it is central to my argument as a whole. I will spend much of it at the work of
+"teasing apart" the layers obscuring the underlying structure of the textual
+device, using historical sources, direct observation, and tools normally
+reserved for reverse-engineering of data files.[^ln3-mechanisms]
 
 ### 3.2 Form as Concrete and Universal
 
@@ -3038,7 +3042,7 @@ spaces* and represent possible formatted images of abstract objects
 [@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
 other words, gives physical shape, layout, or style to the instantiation of
 abstract universal classes like paragraphs and sentences. Concrete objects are
-abstract paragraphs and sentences "laid out" in page space. 
+abstract paragraphs and sentences "laid out" in page space.
 
 Here is where things should get interesting for a scholar of textuality. The
 document--object model further gives rise to three "operations," tied to the
@@ -3172,14 +3176,14 @@ today's web documents, describes a number of text transformation that occur to
 "generate the proper output form." The logical topology of each line being
 formatted is converted into an "intermediate data structure," which can then be
 "'unfolded' all at once" by "'peeling' the data structure one level at a time
-[@madnick_script_1968, 97]." As text, text control, and user command flows
-intertwine, the structure of data on the disk no longer correspond to what is
-visible at the level of user terminal or line printer. SCRIPT, TROFF, and
-FORMAT make all of the laminate components in their onion-like layered
-structure availble to user for examination. But as we will see shortly, the
+[@madnick_script_1968, 97]." As plain text, text control, and user command
+flows intertwine, the structure of data on the disk no longer correspond to
+what is visible at the level of user terminal or line printer. SCRIPT, TROFF,
+and FORMAT make all of the laminate components in their onion-like layered
+structure available to user for examination. But as we will see shortly, the
 condition of complete system visibility persists only for a short historical
-period. Once incoprorated, the document-object model gains a measure of opacity
-and even legel protection from "unauthorized access" to protected document
+period. Once incorporated, the document-object model gains a measure of opacity
+and even legal protection from "unauthorized access" to protected document
 layers.
 
 !["System Command and Data Flow." Data structures at "disk file" level do not
@@ -3195,33 +3199,39 @@ Standard ISO 216. In the Imperial System these equate to  33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-### 3.5 WYSINAWYG (What You See Is Not Always What You Get)
+### 3.5 Smart Devices (A Legal Interlude)
 
-The document--object model governing the production of text on contemporary
-computational reading and writing *devices* gives another meaning to the
-question asked earlier: What lies beneath the text? We are accustomed to
+Exposing the document--object model governing the production of text through
+contemporary reading and writing devices gives the question of surface and
+depth another connotation. What lies beneath the text? We are accustomed to
 thinking about document structure metaphorically and answer in accord: meaning,
-narrative, representation, order, discourse, or ideology. Form in that sense is
-binary: either content or shape. Introducing the literary device as machine,
-gadget, or appliance into the formula suggests another, must more materialist
-answer: pulp and increasingly also, glass, plastic, liquid crystal, copper,
-laminates, and silicone. The move between paper and composite computational
-machines carries with it a profound shift in the physical affordances of the
-structure supporting all higher-order, surface level representations of
-textuality. I will spend the rest of the chapter in extending the work
-providing descriptive account using historical sources, direct observation, and
-tools normally reserved for reverse-engineering of data files.[^ln3-mechanisms]
+narrative, representation, order, discourse, or ideology. Interpretation, at
+that level of analysis, happens in the head, which physically limits the
+possibility of depth to personal introspection, magnetic resonance imaging, or
+at best, to an archive of extant reader responses (which in themselves need
+further interpretation).
 
-Not much space separates ink from paper. There, textuality lies flat, in two
-dimensions. What you see is truly what you get. Not so on the screen connected
-to other screens. Networked textuality extends into the third dimension, away
-from the reader and deep into the bowels of the machine. The Open Systems
-Interconnection (OSI) reference model of communication[^ln3-osi] describes no
-less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
-electrical, functional, and procedural characteristics" of communication
-[@day_revised_1995; @ncs_national_1988; @ncs_open_1981].[^ln3-layers]
+Introducing the literary device as machine, gadget, or appliance into the
+formula suggests another, more literal answer. Beneath a text one finds cloth
+or wood pulp and, increasingly, also glass, plastic, liquid crystal, copper,
+laminates, and silicone. The move between paper and composite computational
+machine carries with it a profound shift in the physical affordances of the
+structure supporting all higher-order, surface level representations of
+textuality. Not much space separates ink from paper. There, textuality lies
+flat, in two dimensions. What you see is truly what you get. Not so on the
+screen connected to other screens. Networked and time-shared textuality extends
+into the third dimension, away from the reader and deep into the bowels of the
+machine. The Open Systems Interconnection (OSI) reference model of
+communication[^ln3-osi] describes no less than seven layers: from the
+Application Layer, concerned with the semantics of application ("all services
+directly comprehensible to the user [@miller_iso_1981, 285] to the Physical
+Layer, providing the "mechanical, electrical, functional, and procedural
+characteristics" of communication [@day_revised_1995; @ncs_national_1988;
+@ncs_open_1981].[^ln3-layers] These protocols further envelop a document
+already thickly stratified by the document--object model.[^ln3-domlayer]
+
+[^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
+model.
 
 ![Layers of an OSI node on the left. A network of connected OSI devices to the
 right. The interfaces interfaces through the top-most (application) level,
@@ -3236,15 +3246,16 @@ internalizes dozens if not hundreds of protocols that enable the system to
 function seamlessly as a whole (in the way, for example, your machine can at
 one moment connect to one wireless access point, and at another moment be
 tethered to an Ethernet cable with minimal loss of connectivity from the user's
-point of view). Yet, these protocols are also densely consolidated. They are,
-for example, legislated by an international governing body (the International
-Standards Organization in the case of OSI, and the Internet Engineering Task
-Force in the case of TCP/IP), subject to the usual political pitfalls of
-pan-global consortia. Whatever the case may be, the subject encounters the
-"protocol stack" from without, on the periphery of the network (see Figure).
-When paging through an electronic book (usually an OSI-compliant device), for
-example, the reader has access only to the outputs emanating from the
-application layer.
+point of view). Yet, the OSI protocols and the DOM are also densely
+consolidated. They are, for example, legislated by an international governing
+body (the International Standards Organization in the case of OSI, and the
+Internet Engineering Task Force in the case of TCP/IP), subject to the usual
+political pitfalls of pan-global consortia. Whatever the case may be, the
+subject encounters the "protocol stack" from without, on the periphery of the
+network (see Figure). When paging through an electronic book (usually an
+OSI-compliant device), for example, the reader has access only to the outputs
+emanating from the application layer, and at that, only at the exposed "window"
+level of the DOM.
 
 The application layer stops at the subject. Access to the underlying layers of
 device operation (and consequently analysis) are sometimes "merely" obscured
@@ -3260,38 +3271,41 @@ works," "to distribute copies," and "to perform and to display publicly"
 conduct, embodied in practices of quotation, citation, and attribution (or lack
 thereof, as plagiarism).
 
-In practice, the immateriality of digital text (and image) has served to erode
-the efficacy of copyright restrictions as a system of laws and regulations. The
-work of art in the age of digital reproduction lost its already tenuous hold on
-the material substratum. Copy technologies from photocopiers, to desktop
-printers, to inexpensive magnetic storage and peer-to-peer file sharing
-networks reduce the price of a duplicate down to near zero. The response from
-the film, game, music, and publishing industries has been to transpose
-mechanisms of copyright enforcement from legal down to the infrastructural
-levels of enforcement, as software and hardware: from Code to code. In the
-words of Charles Clark, the late British publisher and prominent copyright
-attorney, "the answer to the machine is in the machine [@clark_copyright_1996,
-81-82]," by which he meant that copyright enforcement should be taken up by the
-International Standards Organization, the very body responsible for the OSI
-communication protocol stack), on the level of the device
-[@clark_copyright_1996, 84]. As an example of how that might work, Clark cites
-the Copyright in Transmitted Electronic Data Report (CITED), which suggests
-building "a tamper proof software module which acts rather like indestructible
-tachometers install on long-distance coaches and lorries, recording everything
-that happens to the copyrighted or commercially valuable material [...] The
-basic idea is that the valuable material is linked to a specific piece of
-software [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84]." This
-approach in general has sometimes been called a "smart contract." In his
-seminal article on "Formalizing and Securing Relationships in Public Networks,"
-Nick Szabo explains that "smart contracts combine protocols, user interfaces,
-and promises expressed via those interfaces to formalize and secure
+In practice, the easy reproducibility of digital text (and image) has served to
+erode the efficacy of copyright restrictions as a system of laws and
+regulations. The work of art in the age of digital reproduction has lost its
+already tenuous hold on the material substratum. Copy technologies from
+photocopiers, to desktop printers, to inexpensive magnetic storage and
+peer-to-peer file sharing networks reduce the price of copying and
+dissemination near frictionless levels. The response from the film, game,
+music, and publishing industries has been to transpose mechanisms of copyright
+enforcement from legal down to the infrastructural levels of enforcement, as
+software and hardware: from Code to code. In the words of Charles Clark, the
+late British publisher and prominent copyright attorney, "the answer to the
+machine is in the machine [@clark_copyright_1996, 81-82]"---by which he meant
+that copyright enforcement should be taken up on the device-level by the
+International Standards Organization, the very body responsible for the DOM and
+the OSI communication protocol stack [@clark_copyright_1996, 84].
+
+As an example of how that might work, Clark cites the Copyright in Transmitted
+Electronic Data Report (CITED), which suggests building "a tamper proof
+software module which acts rather like indestructible tachometers install on
+long-distance coaches and lorries, recording everything that happens to the
+copyrighted or commercially valuable material [...] The basic idea is to link
+the "valuable material" of intellectual property to a specific piece of
+software and hardware [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
+83-84]." This approach in general has sometimes been called a "smart contract."
+In his seminal article on "Formalizing and Securing Relationships in Public
+Networks," Nick Szabo explains that "smart contracts combine protocols, user
+interfaces, and promises expressed via those interfaces to formalize and secure
 relationships over computer networks [@szabo_formalizing_1997]."
 
 Both smart contracts, CITED, and similar developments were influential in
-developing a range of "solutions" in the 1990s.[^ln3-smart] "Method and System
-for Managing a Data Object so as to Comply with Predetermined Conditions for
-Usage" (US5845281, issued in 1998) is instructive in this regard. Greg Benson
-and Gregory H. Urich, both of Sweden, write:
+developing a range of "solutions" to the fading efficacy of legal copyright
+protections in the 1990s.[^ln3-smart] "Method and System for Managing a Data
+Object so as to Comply with Predetermined Conditions for Usage" (US5845281,
+issued in 1998) is instructive in this regard. Greg Benson and Gregory H.
+Urich, both of Sweden, write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
@@ -3317,15 +3331,20 @@ data object [@benson_method_1998, 2:55]."
 
 The associated figures (pictured here) show data and control codes
 "concatenated" into the same underlying data structure (in this case, AVI media
-container format). The problem, of course, is that to the extent control codes
-are legible to "the user," they are also open to "abuse and circumvention." For
-this reason, encryption plays a key part in the smart contracts system. Once
-intertwined, data and control are encrypted to prevent "unauthorized access."
-This brings us to the glaring problem at the very heart of the smart contract
-idea. In the Western legal tradition, contracts by their very nature must
-involve explicit consent. In the language of English common law, contracts
-involve promises as "manifestation of intention," which "adopt an external or
-objective standard for interpreting conduct
+container format). The seemingly innocuous "text control" layer of the 1960s,
+used to specify formatting and visual style, was now extended to carry
+mechanisms for legal control.
+
+The idea of smart contracts contains an notable artifact of implementation,
+relevant to our discussion on surface reading. To the extent that control codes
+are legible to the interpreter, they are also open to "abuse and
+circumvention." For this reason, encryption plays a key part in the smart
+contracts system. Once intertwined, data and control are encrypted to prevent
+"unauthorized access." This brings us to the glaring problem at the very heart
+of the smart contract idea. In the Western legal tradition, contracts by their
+very nature must involve explicit consent. In the language of English common
+law, contracts involve promises as "manifestation of intention," which "adopt
+an external or objective standard for interpreting conduct
 [@american_law_institute_restatement_1973, §1-2.]" Smart contracts as defined
 in much of the patent literature on implementation, rely on encrypted---that is
 not human-legible---forms of (usually tacit) agreement. The idea of encrypted
@@ -3355,31 +3374,37 @@ the encrypted contract may carry with it a set a criminal (or otherwise)
 penalties.
 
 The impact of DMCA and smart contracts on the practice of reading and on
-literary analysis is potentially immense. The electronic book is not a book at
-all, but a "data object," in which the modest copyright symbol gives way to a
-"control layer," which dynamically adapts "to the needs of both the owner and
-the user." These adaptations could of course take a benign form, of the kind
-suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
-to a "literature equalizer," empowering readers to "tune" any given text to
-their liking. Don't really like intensifiers? Just turn the "adverb knob" down!
-I hold on to the possibility of building such a device with Chaouli. In the
-meantime, existing electronic book software and hardware devices adapt
-themselves to the reader in far more blunt ways. Some prevent simple copy and
-paste actions. Others can be used to censor and surveil.
+literary analysis is potentially immense. The electronic book in the language
+of the DMCA is not a book at all, but a "data object," in which the modest
+copyright symbol gives way to a "control layer," which dynamically adapts "to
+the needs of both the owner and the user." These adaptations could of course
+take a benign form, of the kind suggested in "*Remix: Literatur*," where Michel
+Chaouli imagines a device akin to a "literature equalizer," empowering readers
+to "tune" any given text to their liking. Don't really like intensifiers? Just
+turn the "adverb knob" down! I hold on to the possibility of building such a
+device with Chaouli. In the meantime, existing electronic book software and
+hardware devices adapt themselves to the reader in far more blunt ways. Some
+prevent simple copy and paste actions. Others can be used to censor and
+surveil.
 
-Smart contracts and DMCA are merely indicative of digital text, which offers
-only the illusion of flat textuality. Where a literary scholar could hope to
-gleam the machinations of ideology from surface representation in print, the
-digital device obscures literal flows of power and control. Isomorphic
-application design provides a measure of similarity between page and screen,
-obscuring material divergence beneath. 
+Smart contracts and DMCA are a conspicuous symptom ailing all digital text,
+which offers only the illusion of flat textuality. Where a literary scholar
+could hope to gleam the machinations of ideology from surface representation in
+print, the digital device obscures literal flows of power and control.
+Isomorphic application design makes the sitution more acute in giving a measure
+of similarity between page and screen (the definition of isomoprhism),
+obscuring material divergence beneath.
 
-Quote Kirsch here.
- Automated discourse has gained opacity
-and depth in several stages: first, by coupling content and control on the
-surface of removable paper storage media (ticker tape and punch cards); second,
-in removing inscription from view onto magnetic tape; and, finally, by
-manufacturing an illusion of visibility on the screen.[^ln3-illusion]
+### 3.6 WYSINAWYG (What You See Is Not Always What You Get)
+
+It is in this ersatz isomorphism I think lies the often-repeated thesis of
+digital immateriality.
+
+Automated discourse has gained opacity and depth in several stages: first, by
+coupling content and control on the surface of removable paper storage media
+(ticker tape and punch cards); second, in removing inscription from view onto
+magnetic tape; and, finally, by manufacturing an illusion of visibility on the
+screen.[^ln3-illusion]
 
 I offer the following historical snapshots and exemplary devices as
 illustrations that move us roughly from tail end of the Gutenberg galaxy into
@@ -3504,7 +3529,7 @@ of immateriality."
 
 
 
-### 3.6 Literary Device as Machine, Gadget, Appliance
+### 3.7 Bootstrapping
 
 With the illusory role of the screen in mind, I propose 1968 as the year in
 which automated discourse takes its present form. On December 9th, 1968 Douglas
