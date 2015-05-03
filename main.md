@@ -3397,8 +3397,11 @@ obscuring material divergence beneath.
 
 ### 3.6 WYSINAWYG (What You See Is Not Always What You Get)
 
-It is in this ersatz isomorphism I think lies the often-repeated thesis of
-digital immateriality.
+Ersatz isomorphism leads to the reception of digital text as an epheral
+artifact. Wendy Hui Kyong Chun calls magnetic storage the "enduring ephemeral,"
+which "creates unforseen degenerative links between humans and machines
+[@chun_enduring_2008, 148]." Digital text has a material form, remind us the
+brightest textual thinkers, but it is also undeniably 
 
 Automated discourse has gained opacity and depth in several stages: first, by
 coupling content and control on the surface of removable paper storage media
@@ -3526,8 +3529,6 @@ of immateriality."
 
 [^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
-
-
 
 ### 3.7 Bootstrapping
 
