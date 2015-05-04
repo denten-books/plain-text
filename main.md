@@ -3203,7 +3203,7 @@ Standard ISO 216. In the Imperial System these equate to  33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-### 3.5 Smart Devices (A Legal Interlude)
+### 3.5 Smart Contracts (A Legal Interlude)
 
 Exposing the document--object model governing the production of text through
 contemporary reading and writing devices gives the question of surface and
@@ -3383,40 +3383,92 @@ application of information, or a process or a treatment, with the authority of
 the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
 literary scholar, that means that when encountering a text on a digital device,
 reading sometimes *must* limit itself to surface phenomena. An attempt at
-reading for depth---to discover the implemented terms of the smart contract,
-for example---may carry with it a set official (even criminal)
+reading for depth---to discover the implemented terms of a smart contract, for
+example---may carry with it a set official (even criminal)
 sanctions.[^ln3-fairuse]
 
-[^ln3-fairuse]: DMCA 1201 provides for a number of complicated excemptions,
+The short history of DMCA "anti-circumvention" provisions is already littered
+with ambiguous case law, that the Electronic Frontiers Foundation believes to
+have the effect of "stifling a wide range of legitimate activities," "chilling
+free expression and academic research," "jeopardizing fair use," and "impeding
+innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
+particularly relevant to study of texts and literature. One, a security
+researcher exploring the activity of censorship filters on public library
+computers was threatened and forced to seek DMCA exemption from the Librarian
+of Congress [@fry_circumventing_2009]. Two, a Russian programmer speaking at a
+security conference was jailed and detained for several months for developing
+software that converts Adobe electronic book files into `.pdf` format, in a
+process that could potentially remove embedded digital rights management
+protections [@mueller_reinventing_2004; @ferullo_major_2004;
+@postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
+Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
+which allowed users to "change text annotations using Plaintiff's TrueType
+fonts" without a license [@_agfa_2005; @von_lohmann_unintended_2010;
+@lipton_c_2009].
+
+[^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
 which may, under some interpretations, sanction limited use for academic
-purposes. For more see 
+purposes. See @ku_critique_2004; @herman_catch_2005; @armstrong_digital_2006;
+@liu_dmca_2003.
 
 The impact of DMCA and smart contracts on the practice of reading and on
 literary analysis is potentially immense. The electronic book in the language
 of the DMCA is not a book at all, but a "data object," in which the modest
-copyright symbol gives way to a "control layer," which dynamically adapts "to
-the needs of both the owner and the user." These adaptations could of course
-take a benign form, of the kind suggested in "*Remix: Literatur*," where Michel
-Chaouli imagines a device akin to a "literature equalizer," empowering readers
-to "tune" any given text to their liking. Don't really like intensifiers? Just
-turn the "adverb knob" down! I hold on to the possibility of building such a
-device with Chaouli. In the meantime, existing electronic book software and
-hardware devices adapt themselves to the reader in far more blunt ways. Some
-prevent simple copy and paste actions. Others can be used to censor and
-surveil.
+copyright symbol gives way to "control layers [@fischer_digital_2003]." An
+essay in the *Yale Journal of Law & Technology* explains it this way:
 
-Smart contracts and DMCA are a conspicuous symptom ailing all digital text,
-which offers only the illusion of flat textuality. Where a literary scholar
+> While e-books and their print counterparts embody essentially identical
+> content, from a transactional standpoint they differ considerably. Books are
+> tangible goods that can be owned, sold, and passed on without express
+> limitation--the Uniform Commercial Code (U.C.C.) governs their sale, while
+> copyright law protects their content. But despite appearances, Kindle e-books
+> are not, according to Amazon, sold at all: they are distributed under
+> restrictive license terms, similar to downloaded software
+[@seringhaus_e-book_2010, 150].
+
+In these conditions, something like a poem or a novel ceases to be a digital
+artifact and becomes instead a device, firmly tied to its given physical
+affordances. It becomes a concrete object, no longer lasting and universal but
+rather ephemeral and contingent. The device has the ability to dynamically
+adapt itself "to the needs of both the owner and the user." These adaptations
+could of course take a benign form, of the kind suggested in "*Remix:
+Literatur*," where Michel Chaouli imagines a device akin to a "literature
+equalizer," empowering readers to "tune" any given text to their liking
+[@chaouli_remix_2009]. Don't really like intensifiers? Just turn the "adverb
+knob" down! I hold on to the possibility of building such a device with
+Chaouli. In the meantime, existing electronic book software and hardware
+devices adapt themselves to the reader in far more blunt ways. Some prevent
+simple copy and paste actions. Others can be used to censor and surveil. For a
+textual critic, such instability of medium means analysis cannot be confined to
+reading for surface meaning alone. How can close or distant reading practices
+persist, when the reading device reconfigures a text dynamically: to fit
+individual taste, mood, or politics?[^ln3-modern] Or, when it simply prevents
+access to the content?
+
+[^ln3-modern]: Note that these effects are not limited to contemporary
+literature at all. In purchasing a medieval text, the reader still buys not a
+text or a work but a device, which, despite of the content being out of
+copyright protection, may still restrict access to other, protected layers of
+device function.
+
+Smart contracts and DMCA are a conspicuous symptom ailing all text gadgets,
+which offer only the illusion of flat textuality. Where a literary scholar
 could hope to gleam the machinations of ideology from surface representation in
-print, the digital device obscures literal flows of power and control.
-Isomorphic application design makes the sitution more acute in giving a measure
-of similarity between page and screen (the definition of isomoprhism),
-obscuring material divergence beneath.
+print, the literary device obscures literal flows of governance. Isomorphic
+application design makes the situation worse in giving a measure of similarity
+between page and screen (the definition of isomorphism), obscuring material
+divergence beneath. The condition is not one of ephemeral, immaterial text, but
+one of text burdened with hardware and illegible control structure. The task of
+the critic becomes then to restore text to its proper digital form: to make it
+concrete and to free it from its arbitrary material constraints. To lay bare
+the device literally would mean to make the mechanisms of naked political
+control visible. For any sort of reading to commence, one would first need to
+peel away the DOMs and the OSIs---today a task fraught with legal consequence.
 
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
-in the history of writing technologies in that they present a premeiated
-material environment built and engineered to propogate an illusion of
-immateriality; the digital nature of computational representation is prcisely
+in the history of writing technologies in that they present a premeditated
+material environment built and engineered to propagate an illusion of
+immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
 behavior [@kirschenbaum_mechanisms_2012, loc 1406-12]."
 
@@ -3429,7 +3481,7 @@ humans and machines [@chun_enduring_2008, 148]." This is not to say (fearing
 the wrath of textual theorists like Jerome McGann, Johanna Drucker, and
 Katherine Hayles) that text on the screen lacks materiality. Not at all. Only
 that digital textuality is in some real ways obscured and hidden from the
-viewer, in ways that pruduce a real sense of the ephemeral. 
+viewer, in ways that produce a real sense of the ephemeral.
 
 Automated discourse has gained opacity and depth in several stages: first, by
 coupling content and control on the surface of removable paper storage media
@@ -4209,13 +4261,13 @@ the private sphere.
 Who are you communicating with? Pushing yourself through the pipe. The
 appointment with myself. The sum-total of material substratum. Building a wider
 platform. Todo, email, diary, music collection. Burning building-we grab our
-memories, and hoarding the disfunction of that personal sediment. You are the
-sum-total of your modalities. Commitments to self. Attunement of self. The
+memories, and hoarding the disjunction of that personal sediment. You are the
+sum-total of your modalities. Commitments to self. Atonement of self. The
 message is you. Preserving ourself from entropy. 
 
 Books are not media they are platforms. Platform is all of the above. Plus the
 economic / cultural contexts. Amazon Kindle is a platform. Who are you
-communicating with? Yoursef. What is the message. Ultimtely, it is a message of
+communicating with? Yourself. What is the message. Ultimately, it is a message of
 self-identity.
 
 ### 2.3 Copy Machine
