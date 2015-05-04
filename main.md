@@ -272,24 +272,22 @@ Keywords: `digital, analog, binary, encoding, mediation`
 ### 1.0 Abstract
 
 Discourse around the digital humanities needs a robust sense of the digital.
-The first chapter begins with popular intuitions about the "look and feel" of
-digital aesthetics. A case study of television motion blur (and the related
-"soap opera effect") undermines the initial ease with which notions of the
-digital are over-determined to stand in for a range of often conflicting
-modalities. The next section of this chapter deals with the analytic tradition
-of discussing media in terms of analog and digital representation (via Nelson
-Goodman and John Haugeland). My summary of that tradition shows that language
-and text are already in a sense "born digital," that is, discrete and
-differentiated throughout. Furthermore, digitality depends on "reliable
-processes of copying and preservation"---processes that can mean something
-different to a philosopher than to a librarian. From these insights I take it
-that "being digital" is not an intrinsic ontological condition, but rather
-structure imposed from without. That structure is further imposed onto the
-media "consumer." It does not necessarily constitute a property of the medium
-itself, manifesting in specific technological affordances. "Is it copyable?"
-becomes "Can I copy it?" The chapter ends with a history of Morse, Hughes, and
-Baudot character encodings, where the dichotomy between digital and analog is
-superseded by the distinction between binary and plain text formats.
+My first chapter begins with popular intuitions about the "look and feel" of
+digital aesthetics. Here, I find that sometimes, the adjective carries the
+connotation of "discrete," while at other times, it is used to mean something
+more fluid and continuous, past the point of human perception. A discussion of
+Liquid Crystal Display technology (LCD) flows into a section that deals with
+digital representation from the perspective of analytic philosophy and through
+the aesthetics of Nelson Goodman. My summary of that tradition reveals that
+language and text are already in some sense "born digital," that is
+"reproducible" and "differentiated" throughout. Furthermore, digitality depends
+on "reliable processes of copying and preservation"---attributes that can mean
+something different to a philosopher than to a librarian. From these insights I
+take it that "being digital" is not an intrinsic ontological condition, but
+rather structure imposed from without. Case studies from the history of
+telegraphy illustrate the concluding discussion on the nature of binary and
+plain text formats, in a distinction that supersedes the dichotomy between
+analog and digital media.
 
 ### 1.1 Digital Wake
 
@@ -1386,25 +1384,22 @@ over matter!" (@mindflex_mindflex:_2015)
 ### 2.0 Abstract
 
 Having established the grounds for digital textuality in the history of
-character encoding, I begin the work of moving from "low level" first-order
-concepts like "text" and "code" up to second-order concepts like "literature"
-and "canon." The chapter starts by developing a theory of "microanalysis," the
+character encoding, I begin the work of moving from first-order concepts such
+as "text" and "code" up to second-order concepts such as "file," "folder," and
+"document." The chapter starts by developing a theory of "microanalysis," the
 closest possible kind of reading that pays attention to the material contexts
 of knowledge production. I argue here that the concern with value in literary
-criticism detracts from the explicit movement of control and power intimately
-connected to digital textuality. Unlike scholars in the foucauldian tradition
+criticism detracts from the machinations of naked circuit control embedded into
+the contemporary text apparatus. Unlike scholars in the Foucauldian tradition
 (who often trace the machinations of power through discourse, on the level of
 representation), I concentrate my analysis on mechanisms of control at the
-material roots of literary practice. In doing a media history through primary
-sources on early development of modern computing, I show the explicit admixture
-of content and code: one meant to communicate messages to humans and the other
-to program universal machines. This history is not entirely critical: rather,
-it reveals an alternative genealogy of computing, contrary to the widely
-accepted notions of computer as a device for reductive "mathesis" (in the words
-of Johanna Drucker). I conclude to argue that Turing machines were anticipated
-not just by the Babbage calculator, but in a series of advances in
-communications, word processing, and media storage. A notion of text (as
-opposed to number) is hence "baked into" the system.
+material roots of literary practice. In presenting a media history through
+primary sources on early development of Turing machines, I show the explicit
+admixture of content and code: one meant to communicate messages to humans and
+the other to program universal machines. I conclude by arguing that Turing
+machines were anticipated not by the Babbage calculator alone, but also through
+a series of advances in communications, word processing, and media storage. A
+notion of text (as opposed to number) is hence "baked into" the system.
 
 ### 2.1 In Search of a Subject
 
@@ -2384,23 +2379,31 @@ reading?
 
 ### 3.0 Abstract
 
-The chapter begins by outlining a recent discussion on surface reading. I ask:
-What lies beneath the text? The question leads into a discussion about the
-difference between form and content: two theoretical concepts crucial to
-understanding the difference between plain text and binary file formats. I find
-that, going back to Plato and Hegel, "form" was at times used to indicate
-physical structure and at other times to indicate immaterial categories in the
-ideal realm. The chapter's middle section takes up the notion of "ephemeral"
-textuality. A case study in removable storage elucidates the movement of text
-from human-legible inscription on page (and punch card) to invisible
-inscription embedded into magnetic media as electrical charge. The case study
-unfolds the distinction between print (in which matter, form, and content lie
-flat) and screen (where the three layers occupy physically distinct layers,
-providing only the illusion of flattened textuality). The discussion concludes
-with a stark image, visually illustrating the difference between plain text and
-binary formats. To produce the image, I inject malicious code into an Adobe
-Acrobat file, showing the contrast between surface text and its underlying
-magnetically bound bit structure.
+At the heart of the book and central to its argument, Chapter 3 begins by
+outlining a recent discussion on surface reading. I ask: What lies beneath the
+text, literally? The question leads to the common distinction between form and
+content. Here, I find that, going back to the Russian formalist reception of
+Hegelian aesthetics, "form" was at times used to indicate concrete shape and at
+times to indicate abstract universals (as technique and formula). A case study
+in removable storage (like ticker tape and floppy disks) elucidates the
+movement of text from human-legible inscription on page (and punch card) to
+magnetic inscription invisible to the naked human eye, complicating the
+formalist vocabulary. The case study unfolds the distinction between print (in
+which matter, form, and content lie flat) and screen (where the three layers
+occupy physically distinct strata of the Document--object model, providing only
+the illusion of flattened textuality). The apparent immateriality of digital
+text brings promise of epistemological (social) and even phenomenological
+(personal) transformation. But it also comes at a cost. Inscription on magnetic
+tape cannot be assumed to correspond to the composite screen image. Forms of
+governance (like Digital Rights Management) can now be embedded deep within the
+structure of the "data object" itself and further hidden from view, precluding
+(and sometimes making illegal outright) the possibility of interpretation (of
+any sort). The discussion concludes with a stark image, illustrating the
+contrast between screen surface and the underlying bit structure. To produce
+the image, I use reverse-engineering tools to inject malicious code into an
+Adobe Acrobat file (`.pdf`). The deformed text threatens (harmlessly) to damage
+the literary device. A thick description of the literary device (now as gadget
+or instrument) brings legibility to the fore of reading ethics.
 
 ### 3.1 Literary Device as Gadget and Technique
 
@@ -3397,11 +3400,14 @@ obscuring material divergence beneath.
 
 ### 3.6 WYSINAWYG (What You See Is Not Always What You Get)
 
-Ersatz isomorphism leads to the reception of digital text as an epheral
-artifact. Wendy Hui Kyong Chun calls magnetic storage the "enduring ephemeral,"
-which "creates unforseen degenerative links between humans and machines
-[@chun_enduring_2008, 148]." Digital text has a material form, remind us the
-brightest textual thinkers, but it is also undeniably 
+Ersatz isomorphism leads to the reception of digital text as an ephemeral
+artifact. Wendy Hui Kyong Chun, for example, calls magnetic storage the
+"enduring ephemeral," which "creates unforeseen degenerative links between
+humans and machines [@chun_enduring_2008, 148]." This is not to say (fearing
+the wrath of textual theorists like Jerome McGann, Johanna Drucker, and
+Katherine Hayles) that text on the screen lacks materiality. Not at all. Only
+that digital textuality is in some real ways obscured and hidden from the
+viewer, in ways that pruduce a real sense of the ephemeral. 
 
 Automated discourse has gained opacity and depth in several stages: first, by
 coupling content and control on the surface of removable paper storage media
@@ -5244,372 +5250,7 @@ constitutionally protected as free speech.
 
 ### Identity Anonymous authorship.  
 
-## Chapter 5: The Medium is not the Message
-`medium, message, mode`
-
-### Abstract
-
-In this chapter I make two significant interventions in media studies and
-literary theory. First, I argue that media should not be confused with
-messages. Starting with the (sometimes oversimplified) legacy of Marshall
-McLuhan, I examine several models of communication, including ones proposed by
-semioticians (Charles Sanders Peirce, Ferdinand de Saussure, Roman Jacobson),
-engineers (Harry Nyquist, Claude Shannon), and animal anthropologists (Jakob
-von Uexküll, Gregory Bateson, and Thomas Sebok). Corresponding to the mediating
-of role of "form" in the previous chapter, I find that the "mode" of the
-written communication act does something akin to "attuning" the reader
-(receiver) to the encoding of the message (and to the corresponding cultural
-techniques of apprehension). At the center of the chapter is a case study based
-on a real-world text "written" by a troupe of Sulawesi macaques as part of an
-art project at Britain's Paignton Zoo. (The text was subsequently published
-under the title *Notes Towards The Complete Works of Shakespeare*, Vivaria
-2002). The possibility of a randomly-generated zoo-text points to the
-conclusion of the chapter, containing an argument against a "systems"
-definition of information. In what Shannon calls a "strange feature" of this
-communication theory, information is defined as amount of "freedom" or entropy
-in the system. By contrast, I want to insist on an agency-based model of
-information processing, in which texts mean things for free and conscious
-beings.
-
-### Intro
-What happens in the change from speaking to writing? The violin (copy from
-dissertation here).
-
-Attunement of listener. Message stays the same. Put a ear, eye, hand to the
-pipe. Same message, same medium, different mode.
-
-### Modal Editing
-
-The second advance influencing the definitive liberation of text from its
-material contexts was the word processor. Word processing begins with the
-invention of the modern typewriter in the middle of the 19th century. But the
-naked typewriter offered few advantages over hand writing. Like the pen, the
-typewriter applied ink to paper directly. In the early days of typewriting that
-process was slower, more cumbersome, and more expensive than handwriting. By
-the late 19th century stenography and short-hand writing systems were by far
-the more important development in textual technology. Stenographic clubs,
-societies, and journals sprouted all across Europe and United States, with the
-aim of making writing faster, matching and exceeding the spoken word.
-
-![Stenographic Printing Machine (US323286)](images/steno.png "@anderson1885")
-
-I am less concerned with the history of word processing here and more with its
-material affordances. Besides the copy machine, the early 20th century saw the
-wide-spread adaptation of automatic typewriters, which, with the introduction
-of temporary magnetic storage media, developed into devices for general
-composition, editing, typesetting, and printing of text. One of the first
-mass-market products of that type was IBM's Magnetic Tape / Selectric
-Typewriter (MT/ST). Unlike the typewriters and the automatic telegraphs that
-preceded it, MT/ST introduced a buffer between the keystroke and its paper
-imprint. Instead of transferring characters to paper directly, the machine
-stored its input on 16mm magnetic tape, where it was temporarily available for
-revision. The common setup included two reels of tape, capable of holding 25
-kilobytes (25000 * 8kb) of information, which, at 7 bits per character, equates
-to roughly 29,000 characters [@eisenberg_word_1992, 268-278]. The device had no
-screen, but the machine operator could print the contents of the tape, and,
-based on the location of the text, go back to revise the stored content. The
-machine was capable of extending operations to characters, words, lines, and
-paragraphs. For example, a word was encoded as any string of characters
-separated by an empty space, where a line was any string of characters and
-blank spaces separated by a carriage return, and a paragraph, any text
-separated by two carriage returns. It was possible therefore to perform
-operations like "underline this word," and "delete this paragraph [wang 1975??]."
-Transformations performed on one magnetic reel would be incorporated into
-a sequential string of encoded characters on another.
-
-Before word processing, the transformation of thought into text happened in
-real-time, in the process of inscription. Text, in that sense, is fixed and
-"mediated"---that is, fixed into a stable medium, enabling further storage and
-transmission. Transmediation---the process of transcribing text from one medium
-into another (as in from paper onto parchment, or from book to notebook) is
-always human transmediation. Word processing breaks the immediacy of transcription
-by introducing a temporary storage medium, where text, although still material
-(a sequence of magnetically charged marks on tape), exists in a sort of a limbo
-between thought and its intended, more permanent place on paper as inscription.
-The magnetic tape could act as medium of final destination, as when one office
-would share a tape with another office as means for communication. But in daily
-use the characters on the tape were impermanent, written and overwritten
-multiple times before "emerging" in their "final" material form as a print out.
-
-At no point of this process is text "immaterial." The magnetic corporeality of
-the processed word is rather hidden from human view. The magnetic inscription
-couples with its medium loosely, allowing for rapid re-mediation: from one reel
-to another or from reel to paper. Where the pen and the typewriter inscribe,
-the word processor re-mediates.
-
-The word processor furthermore forces its operator to clearly differentiate
-between formal features significant to the work from those that are not. If you
-recall, autographic works of art are those in which all aspects of the work are
-in some way significant. A molecular copy of a Rembrandt ceases to be a "true"
-Rembrandt. The image is fully congruent with its medium. When processing words,
-the writer is separated from the process of inscription. The work can therefore
-only exist in its allographic form, as the material contexts of inscription are
-unstable and shifted into the future. Text stored on magnetic medium today may
-end up on paper or on the screen tomorrow. Yet because some of these formal
-aspects of inscription may be significant to the writer, the word processor
-creates an explicit "formatting" layer, which controls some of the aspects of
-the document's layout. IBM's MT/ST machine encoded only a few of such
-affordances: the ability to underline text or to force line breaks for example.
-Conversely, MT/ST not encode the concept of a page break. Page breaks along
-with other material properties of the text were left to the contingencies of
-eventual print medium.
-
-TROFF example from @kernighan1978, 2123. 
-
-```
-.de hd          \" begin header definition
-'sp 1i          \" space 1 inch
-..              \" end of header definition
-.de fo          \" footer 'bp \" space to beginning of next page
-..              \" end of footer definition
-.wh 0 hd        \" set trap to invoke hd when at top of page
-.wh -1i fo      \" set trap in invoke fo 1 inch form bottom
-```
-
-Serial. Voice syntehsizer. Diff. Spell.  RUNOFF.
-http://web.archive.org/web/20141228030004/http://web.mit.edu/Saltzer/www/publications/CC-244.html
-
-Into GML > @goldfarb1981
-
-Pub! http://www.nomodes.com/pub_manual.html
-
-Contemporary word processors encode many more elements of formatting than their
-early MT/ST predecessors, but those elements necessarily remain limited in
-number, and always amount to something less than the material totality of an
-autographic work. The word processor forces an allographic model of textuality:
-one that clearly delineates the differences between content, formatting, and
-physical medium. In that model, "content" alludes to some notion of linguistic
-communication and "formatting" to some notion of its significant non-linguistic
-aspects (like italicized words and line breaks). Regardless of what we may
-believe about the ontology of text, the word processor makes only the
-allographic model available for use.
-
-Modal editing. Before the mouse.
-
-Far from being an instrumentally-neutral construct, the ontological model of
-text affects (although cannot be reduced to) the material affordances connected
-to many higher-level literary-theoretical constructs like story, discourse,
-narrative, literature, and intellectual property. When taken to its extreme
-logical conclusion, an autographic regime, where all texts are works, leads to
-censorship. Functionally, there's little difference between maintaining that a
-work cannot be reproduced and that it should not. A technocratic regime that
-insists on autography is one where the circulation of ideas is necessarily
-limited, if not outright impossible.  Imagine, for example, the prohibition of
-speech (any speech) as a set of literal constraints on the transmediation of
-thought, down to the neurological level, where singular thoughts are limited to
-singular brains. Stated in instrumental terms, abstract political concepts like
-"freedom of the speech" amount to physical control over transmediation. Under
-the conditions of total autography, where everything is significant,
-communication becomes impossible. Transmediation in that sense functions as a
-political value.
-
-There is a tradition in media studies that conflates the history of modern
-computing with the development of Western military-industrial complex
-[@lennon_digital_2014, @golumbia_cultural_2009, @kittler_gramophone_1999].
-"Under the conditions of high technology, literature has nothing more to say,"
-wrote Friedrich Kittler in his influential *Gramaphone, Film, Typewriter*. Text
-so weaponized "ends in cryptograms that defy interpretation and only permit
-interception [@kittler_gramophone_1999, 263]." The historical connection
-between weapon and calculator cannot be denied. But, to the history of
-computers as devices used for the decoding of secret messages and the
-calculation of missile trajectories, I would like add a lineage of allographic
-reading and writing devices that help decouple thought from its rigid material
-contexts, bringing forth new affordances, cognitive regimes, and hitherto
-unavailable political structures.
-
-[^ln11-drucker]: See for example: "The notion of the 'immaterial' text has
-become fixed in popular and even critical imagination. [...] Though digital
-information is far more fungible than physical inscription, the codes on which
-electronic texts are based are themselves material. More to the point, however,
-the graphical and dynamic organization of texts continues to function as
-textual information in the electronic format [@drucker_digital_2001, 145]."
-
-[^ln11-xerox]: "In most American offices executives instruct subordinates to
-'make me a Xerox of this report' rather than 'make me a copy of it.'" From *The
-Economist*, 15 Oct. 1966, 299/3as as quoted in the online edition of Oxford
-English dictionary. See also schwartz2013.
-
-[^ln11-spirit]: The "spirits" in spirit duplicators have nothing to do with
-Hegel. Rather, the device relied on alcohol-based solvents and inks, that gave
-spirit copies their distinctive smell. In North America, spirit duplication was
-advanced by the aptly named Ditto Corporation.
-
-[^ln11-ooo]: I write "point of view" and "reads" in quotation marks to indicate
-the presence of a metaphor. I do not believe objects can properly be said to
-have a point of view, this contrary to the principles articulated in
-object-oriented ontology [@bryant_onticology_2010, @harman_guerrilla_2005].
-
-[^ln11-literacy]: For more on the European medieval scribal practices see the
-influential @mckitterick_books_1994, @clanchy_memory_1979, and @goody_consequences_1963.
-
-[^ln11-quran]: "And thou wast not (able) / To recite a Book before
-/ This (Book came), nor art thou / (Able) to transcribe it / With thy right
-hand: / In that case, indeed, would / The talkers of vanities / Have doubted
-[@ali_meaning_1997, 29:48]."
-
-
-### Semiotics of Saussure vs. Peirce
-
-### McLuhan
-McLuhan's Understanding Media is a fitting companion to the modern
-conversation on extended cognition, first because it announces its allegiance
-to the hypothesis openly and from the very first lines of the treatise, and
-second because it so readily exceeds the hypothesis rhetorically, falling into
-the traps of metaphoric imprecision and limitless expansion. For those
-unfamiliar with the work, it would be useful to know that McLuhan conceives of
-his project as a study "on the extensions of man." He writes: During the
-mechanical ages we had extended our bodies in space, today, after more than a
-century of electric technology, we have extended our central nervous system
-itself in a global embrace [...] Rapidly we approach the final phase of the
-extensions of man—the technological simulation of consciousness, when the
-creative process of knowing will be collectively and corporately extended to
-the whole of human society, much as we have already extended our senses and our
-nerves by the various media.1 Granted, McLuhan's writing lacks the precision of
-HEC, which is advanced from the platforms of analytic philosophy and cognitive
-science. And yet, it is clear that throughout Understanding Media, McLuhan is
-committed to a version of the extended mind hypothesis, which in his vocabulary
-translates into a vision of global, limitless expansion of consciousness,
-facilitated by technology. For McLuhan our collective "nervous system" is
-"technologically extended to the whole of mankind."2 Such holistic monism is
-declared literally as a matter of faith. "The aspiration of our time for
-wholeness, empathy, and depth of awareness is a natural adjunct of electric
-technology," he writes. "There is a deep faith to be found in this new
-attitude—a faith that concerns the ultimate harmony of all being."3 And
-elsewhere: "In this electric age we see ourselves being translated more and
-more in to the form of information, moving toward the technological extension
-of consciousness."4 And yet despite the frequency with which this refrain
-appears in the book, the author does little to argue for it. We are asked to
-subscribe to the extension thesis as a matter of apriori intuition. Nothing has
-been said to bolster the claims of the extension, and most of McLuhan
-subsequent argument hinges on the reader accepting this strong version of
-extension.  Consider for example McLuhan's quintessential "the medium is the
-message" argument. I have shown elsewhere that we cannot take this to be
-literally true. The principles of information theory would hold that the medium
-is precisely content-neutral, particularly when it comes to the transmission of
-digital information. So what exactly does McLuhan means by "the medium is the
-message?" We must begin by understanding what he means by "the medium" and "the
-message." In one sense, he means the media to denote the conventional array of
-transition channels: radio, cinema, literature, television. But in another
-sense, he means these transition channels to act literally as extensions of the
-human sense apparatus. For example, in the beginning of chapter he writes that
-"the social consequences of any medium—that is, of any extension of
-ourselves—result from the new scale that is introduced into our affairs by each
-extension of ourselves, or by any new technology."5 Elsewhere he writes that
-"[...] that our human senses, of which all media are extensions, are also fixed
-charges [...]."6 The medium, for McLuhan, is thus a marked concept, different
-from its dictionary definition in that it contains the hypothesis of
-sense-extension.  The message in McLuhan's sense is equally specialized, and
-again related to the extension hypothesis. "The 'message' of any medium or
-technology is the change of scale or pace or pattern that introduces into human
-affairs," writes McLuhan.7 In this sense the message should not be confused
-with "content" or "information." The idea of content only obscures the fact "it
-is the medium that shapes and controls the scale and form of human association
-in action."8 If media and messages are beginning to sound the same according to
-these definitions, it is because for McLuhan they explicitly are the same: "the
-content of writing or print is speech,"9 he writes, and "the 'content' of any
-medium is always another medium."10 But this really is no thesis at all.
-McLuhan's dictum would not find cultural relevance if his famous dictum was
-merely a tautology. "The medium is the message" roughly translates into the
-proposition that all media, besides carrying their formal content (or no
-content at all, as is the case with electric light in McLuhan's initial
-example) affect our collective psyche in some way—in other words, a more
-generalized, popular version of our extension hypothesis. But how committed is
-McLuhan to the analogy between media and "extended consciousness" or
-"externalized nervous system." Not very. The metaphor is alluring but
-imprecise. For McLuhan everything has the potential to be mediafied—money,
-labor, technology, culture. It is all vaguely "an extension of man," not just
-the extension of the senses, corporeal, or cognitive extension. All products of
-human culture end up reconfiguring human culture as such—that is the "message"
-of McLuhan's thesis.  What is at stake here for us? What does the extension
-hypothesis mean for the study of human culture? Well, for one let's note that
-practically all examples of extended cognition in the wild—I dare say all
-thought experiments mentioned or staged in the literature on HEC—involve
-literary interfaces. Extended cognition in that sense requires the storage and
-retrieval of information, facilitated by a symbolic notation system, and a
-medium on which such information can be stored for later retrieval. For Otto,
-this system involved a notebook, a calendar, or a planner perhaps. For the
-pilots in the cockpit, the flow of information also proceeds across devices
-which accept input and offer output in symbolic notation: the number on the
-altimeter dial, the iconographic status indicators, the keypad, and the control
-panel. It is also worth noting that all such systems and devices are
-essentially dumb instruments. They become "cognitive" only in the moment of
-interaction. Without Otto, the pen and paper does nothing. It comes to life
-only at the point of interface.  The second observation we must make is that
-the hypothesis of extended cognition brings the mind out of the head and into
-the material sphere of existence. Taking HEC seriously means to supplement
-fMRI-based cognitive science with anthropological, social observation of
-cognition at work. And since we are talking about tools and habits of thought
-(rather than neurons, or brain-matter) we must acknowledge that the formation
-of the mind, at least in the extended sense, can span beyond one's own, private
-mental development. Extended, the mind gains a shared history.  HEC also
-implies that the long-standing anxiety over the impact of cognitive aids on our
-natural human capacities—an anxiety that has been around at least since the
-times of Socrates, an anxiety that is clearly expressed in Heidegger's
-philosophy of technology, and that is featured prominently in the recent
-cautionary tales of human decline by Richard Foreman and Nicholas Carr—that
-anxiety has at least the merit of considering the mind in its embodied,
-contextualized form. The critique acknowledges the impact of technology on our
-mental habits. But the negative value assessment is the least interesting part
-of that argument. Cognitive aids are only as "good" or as "bad" as the purposes
-for which they are used. If calculators have diminished our capacity to do math
-in our heads, they have also alleviated much tedium involved in mundane
-everyday arithmetic—at the bank, at the supermarket, and at home. And few would
-argue that mass literacy (as a technology) had anything but a positive effect
-on our society, and that despite whatever effects literacy may have on our
-"natural" ability to remember things without writing. "Natural" is, in this
-case, an artificial construct, tied to one's willingness to engage in nostalgic
-reverie about an idyllic state of unadulterated past.
-
-Bohn consumer report on data vs. information..  Doctorow. Information "wants to
-be free" Information is intentional. Against the "cybernatic" formal
-definitions.
-
-@nyquist certain factors affecting telegraph speed @hartley transmission of
-information
-
-Kant, Schiller on beauty as freedom on beauty as freedom Information as
-entropy. The strangeness of Weaver's "information as entropy". How much
-information in a brick? In a novel? Information as a possibility.
-
-Freedom and information seem to have nothing to do with each other. They have
-everything to do with each other.  Makukov. Directed pan-spermia.Life Sciences
-in Space Research paper: http://arxiv.org/abs/1407.5618 Icarus paper:
-http://arxiv.org/abs/1303.6739 
-
-What is information? The difference that makes a difference. Bateson's
-definition. Dorsality. Weaver's entropy. Explain. Amount of freedom. Confusion
-in that paper. Noise and information seem to be the same! Thermodynamic
-explaination. Transmitting things in stone (low entropy) vs. transmitting them
-through the air (high entropy). Does a block of wood have more "information"
-than a novel? This definition cannot account for it really.
-
-Extended cognition hypothesis. Get this text from disertation. The monism
-problem.
-
-Formal vs. instrumental definitions. Information is that which moves form a
-Mind > Encoding > Mediation > Decoding > Transmision. Coersion. Can information
-be coersed? Both on the sending and the recieving end. Can someone admit
-something is music by force? Can you force information. The deer and the tick.
-The deer does not "send" bodyheat information. The tick receives information as
-it does receive the action of gravity. Does a mountain erode from the top
-because it recieves information from the outside? Information here is simply
-used as a synonym for some material state of the univrse and the causal
-relationship between forces. Causality alone is not information. Laws of
-physics are not information. Well, unless...
-
-Mis information. Man in the middle attacks. Information is intentional. Mind to
-mind communication. Where does the thought originate? Freedom. Free intent.
-Identity of coding and decoding is not necessery. What is however necessary is
-the 
-
-Leroi-goran. Constructor theory of information. SUperinformation.
-http://arxiv.org/abs/1405.5563
-
- 
-
-
- Lessing's Laocoon!
-## Chapter 6: Bad Links
+## Chapter 5: Bad Links
 `network, intertext, hypertext, symbolic links`
 
 ### Abstract
@@ -5845,9 +5486,9 @@ between usability, transparency, and good knowledge design.
 1:
 http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 
-## Chapter 7: Engineering for Dissent
+## Chapter 6: Engineering for Dissent
 
-### 7.0 Abstract
+### 6.0 Abstract
 
 In this final chapter, I argue for the recovery and the preservation of plain
 textuality in the day-to-day practice of modern computing. Returning to the
@@ -5868,7 +5509,7 @@ complex systems must itself become critical practice, which, in complement to
 critical theory, can actively engineer for textual mechanisms that make
 individual dissent possible.
 
-### 3.4 Algorithm as Fetish
+### 6.1 Algorithm as Fetish
 
 Wendy Hui Kyong Chun On "Sourcery," or Code as Fetish. What could knowing
 software even mean, she asks.
@@ -5998,7 +5639,7 @@ its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
 
 
-### Cryptography and Steganography
+### 6.2 Cryptography and Steganography
 
 Where cryptography is the art of secret communication, steganography is the art
 of hiding the secret. "The purpose of steganography is to hide the very
@@ -6045,7 +5686,7 @@ textuality in computing.
 
 Brooks Act 1965.  Man in the middle attacks.
 
-### 7.2 Technological Skepticism
+### 6.3 Technological Skepticism
 
 for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
 developed of these. Engineering for dissent. The ability to create shared goals
@@ -6064,9 +5705,9 @@ Deeper metaphysical dread about computation, that should be understood
 historically (where Lennon gets it right). You are not a gadget.
 
 
-### 7.3 Parity
+### 6.4 Parity
 
-### 7.4 Dissent
+### 6.5 Dissent
 
 Sartre?  Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
 Mumford Condition of Man?
