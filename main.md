@@ -401,6 +401,11 @@ create shapes, letters, and images on the screen.[^ln1-mishima]
 
 [^ln1-mishima]: See @mishima_novel_2004.
 
+![Liquid crystal in phase transition between polarizers. Schlieren texture
+charactheristic nematic phase to the left, and circular focal conic domains in
+the smectic phase to the right. Image licensed under CC-BY-SA
+3.0, @polimerek_smectic_2004](images/liquid.jpg)
+
 Traditional film projectors advance from one frame to the next at a rate of 24
 times each second to match the rate at which the film is captured by
 traditional film cameras. The projector's light flickers two to three times per
@@ -2520,9 +2525,9 @@ normally reserved for reverse-engineering of data objects.[^ln3-mechanisms]
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines [@chun_enduring_2008, 148]." If
-the floating gate transistor,[^ln3-gate] where my text now lives, can be called the
-enduring ephemeral, I will call my liquid crystal display, where the text shows
-itself, fading persistence. This is not to believe (fearing the wrath of
+the floating gate transistor,[^ln3-gate] where my text now lives, can be called
+the enduring ephemeral, I will call my liquid crystal display, where the text
+shows itself, fading persistence. This is not to believe (fearing the wrath of
 textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
 that text on the screen lacks materiality. Not at all. Only that it seems to
 drift from surface to surface, beyond the field of vision, in ways that erode
@@ -2548,17 +2553,18 @@ nondestructive read-out features. The memory holding time observed was longer
 than one hour [@kahng_floating_1967, 1288]." See also @horton_experimental_1962
 and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
 
-I have before me at least two inscriptions that mean the same thing, in two
-distinct places. How did this duplicity come to be? At which point in time did
-one text become two or more different things? In an attempt to answer, I offer
-the following three minimal historical preconditions. They are not meant as
-history, but they are needed for the work to be done in this chapter. The
-schema proceeds roughly as follows: first, content and control couple at the
-visible surface of removable storage media (ticker tape and punch card);
-second, inscription splits into input and output, retreating into magnetic
-storage; to reemerge at last on screen, in the same guise, but also as we
-suspect, somehow transformed: less solid and concealing something beneath the
-phantasmal shell of its former appearance.[^ln3-illusion]
+I have before me at least two inscriptions: one as circuit state on my hard
+drive, and another as crystal phase on the screen. They denote the same idea,
+but in two distinct places. How did this duplicity come to be? At which point
+in time did one text become two or more different things? In an attempt to
+answer, I offer the following three minimal historical preconditions. They are
+not meant as history, but they are needed for the work to be done in this
+chapter. The schema proceeds roughly as follows: first, content and control
+couple at the visible surface of removable storage media (ticker tape and punch
+card); second, inscription splits into input and output, retreating into
+magnetic storage to reemerge at last on screen, in the same guise, but also as
+we suspect, somehow transformed: less solid and concealing something beneath
+the phantasmal shell of its former appearance.[^ln3-illusion]
 
 *A. Removable storage media and automation, 1725-1964.[ln3-loom]*  
 
