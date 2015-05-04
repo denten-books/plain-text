@@ -2564,7 +2564,11 @@ couple at the visible surface of removable storage media (ticker tape and punch
 card); second, inscription splits into input and output, retreating into
 magnetic storage to reemerge at last on screen, in the same guise, but also as
 we suspect, somehow transformed: less solid and concealing something beneath
-the phantasmal shell of its former appearance.[^ln3-illusion]
+the phantasmal shell of its former appearance.[^ln3-illusion][^ln3-denning]
+
+[^ln3-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems
+[@denning_third_1971]."
 
 #### A. Removable storage media and automation, 1725-1964.[ln3-loom]
 
@@ -2653,7 +2657,7 @@ tape, was now submerged into tape. The tape no longer afforded human legibility
 nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
 the earlier sections) underlying structure (7-bit encoding, in this case)
 which, on tape, ceased to be recoverable by the naked eye. The inscription lay
-literally beyond (human) sense. Lacking the perceptual apparatus to perceive
+literallt beyond (human) sense. Lacking the perceptual apparatus to perceive
 what are called "magnetic domains" and inscribed "polarities"[^ln3-magnet] that
 take place of visible alphabets. Magnetic storage remains for all unassisted
 intents and purposes, a black slate.
@@ -2748,9 +2752,9 @@ since formatting is an important part of the reported experience.
 ```
 
 Engelbart, interested in collecting empirical phenomenological accounts of the
-system, records what must count as one of the most evocative passages to appear
-on the pages of an NASA technical report. In the "Results and Discussion"
-section an anonymous user writes:
+system, records what must count as several of the most evocative passages to
+appear on the pages of an NASA technical report. In the "Results and
+Discussion" section an anonymous user continues to report:
 
 ```
 1B4 "I find that I can express myself better, if I can
@@ -2835,8 +2839,7 @@ matches the reported experience of liberation. Anonymous continues:
             1B4B2C "to experiment with certain special
             portrayals,
 
-                1B4B2C1 "not available easily in unstructured
-                data
+                1B4B2C1 "not available easily in unstructured data
 
                 1B4B2C2 "or usable without the CRT display,
 
@@ -2855,8 +2858,40 @@ matches the reported experience of liberation. Anonymous continues:
             1B4B4B "and my conviction that this is but a
             peek at what is to come soon.
 ```
-Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
+The passages are too contrived to be spontaneous admissions of phenomenological
+experience. Despite the experimental structure, the passages contain a
+well-formed rhetorical message advancing key elements of Engelbart's research
+program, which aimed to develop new data structures in combination with new
+ways of displaying them. Yet I cannot help but be carried away by the fluency
+of the prose and by the sheer audacity of the project. Here's someone who has
+not only glimpsed the future, but brought it into being. The contemporary
+writer can drag and click passages around with more facility, but he has not
+himself structured his cognitive environment. Yet, the feeling of effortless
+textuality cannot be judged by the unreliable phonomenological accounts alone.
+To bring his system into being, Engelbart convened what he called a "bootstrap
+community," which through recursive self-improvement could lift itself up
+towards a smarter, more efficient, and as the words betray, a more human way of
+working. To accomplish this, the group crafted new input and output devices.
+They wrote new programming languages, new compilers to interpret them, and
+debuggers to troubleshoot. They invented word editors and format control
+languages. Here's how Engelbart diagrams a *part* of his text-manipulation
+language:
+
+!["State--chart portrayal of part of text--manipulation control language,
+@engelbart_human_1969, 36."](images/engel-edit.png)
+
+The diagram shows much attention to the detail and a love for the writing
+craft. But there is also much complexity. It is near-impenitrible. In building
+their own tools, Engelbart's team lifted themselves up by the bootstraps. But
+it was not the machine that lifted them up---it was the process of creating the
+machine. The very metaphor of bootstrapping suggestes the impossibility of
+using one's boostraps to pull others out of the cave. As a side effect, text,
+so readily apparent on the page enters a complex system of executible code. The
+perception of material lightness of textual being comes at the price of
+legibility, as the complication of the textual mechanism comprehensible
+
+Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
 ### 3.3 Form as Concrete and Universal
 
@@ -5852,6 +5887,38 @@ To glimpse my own preocular image. The naive confluence of self and the other
 in the mirror image. The surplus of the other. There is no point of view
 outside of myself; I cannot access my own internal image. From my eyes stare a
 stranger's eyes."
+### 6.6 Engelbart
+
+Engelbart's lab adopted a conspicuously recursive methodology they called
+"bootstrapping," by which research into creating better research was done by
+enabling research [@engelbart_research_1968, 395]. Elsewhere, Engelbart
+explains bootstrapping "as a process wherein the results of a given effort are
+fed back into the activity in a reinforcing way, so that less internal energy
+is required to achieve bigger results faster." In that light, the production of
+the technical report quoted here was not an activity incidental and secondary
+to research, but was the stated object of research itself.  
+
+"A short computer
+program that is permanently resident or easily loaded into a computer and whose
+execution brings a larger program, such as an operating system or its loader,
+into memory [@ieee_ieee_1990, 13]."
+
+"the techniques being explored are implemented, studies, and
+evaluated with the advantage of intensive everyday use
+[@engelbart_augmented_1973, 12]."  Much later, in the
+1990s, Engelbart 
+
+"They must bootstrap themselves into a new kind of ``think,'' into a new climate
+of man-machine interaction, in which men evolve intelligent machines and
+intelligent machines evolve men [@brodey_human_1967, 86]."
+
+Engelbart borrows the idea of "bootstrapping" from . The
+animation of inorganic matter
+
+the material g
+
+Warren Brodey Human Enhancement
+
 ## Tech Appendix
 
 ### Prepare How to run the terminal. What is it. And why?  Intro to POSIX
