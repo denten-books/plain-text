@@ -2566,7 +2566,7 @@ magnetic storage to reemerge at last on screen, in the same guise, but also as
 we suspect, somehow transformed: less solid and concealing something beneath
 the phantasmal shell of its former appearance.[^ln3-illusion]
 
-*A. Removable storage media and automation, 1725-1964.[ln3-loom]*  
+#### A. Removable storage media and automation, 1725-1964.[ln3-loom]
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent, simply titled
@@ -2597,13 +2597,13 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the introduction the mass-market introduction of IBM Magnetic
 Tape/Selectric Typewriter in 1964.
 
-*B: Magnetic tape, 1888-1968.*  
+#### B: Magnetic tape, 1888-1968
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
-and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
-an influential monograph that continues to shape the field of software studies.
+and defies apprehension,"  Wendy Chun writes in her in *Programmed Visions*, an
+influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
-same effect. But what gives software its ephemeral quality?  Embossed onto
+same effect. But what gives software its ephemeral quality? Embossed onto
 ticker tape or punched into the card, early software protrudes through the
 medium. In the age of the telegraph, the largest barrier to comprehension of
 software was encoding. But once the cipher is known and format identified, the
@@ -2621,12 +2621,12 @@ under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), the American Engineer who also filed several inventions related to
-weaving looms at the end of the nineteenth century. In 1888, inspired by Edison's
-mechanical phonograph, Smith made public his experiments with an "electrical
-method" of sound recording using a "magnetized cord" (cotton mixed with
-hardened steel dust) as a recording medium. These experiments were later put
-into practice by Valdemar Poulsen of Denmark, who patented several influential
-designs for a magnetic wire recorder [@smith_possible_1888;
+weaving looms at the end of the nineteenth century. In 1888, inspired by
+Edison's mechanical phonograph, Smith made public his experiments with an
+"electrical method" of sound recording using a "magnetized cord" (cotton mixed
+with hardened steel dust) as a recording medium. These experiments were later
+put into practice by Valdemar Poulsen of Denmark, who patented several
+influential designs for a magnetic wire recorder [@smith_possible_1888;
 @poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
 @engel_1888-1988_1988; @thiele_magnetic_1988].
 
@@ -2655,33 +2655,208 @@ the earlier sections) underlying structure (7-bit encoding, in this case)
 which, on tape, ceased to be recoverable by the naked eye. The inscription lay
 literally beyond (human) sense. Lacking the perceptual apparatus to perceive
 what are called "magnetic domains" and inscribed "polarities"[^ln3-magnet] that
-take place of visible alphabets. Magnetic storage, widely used in all
-contemporary devices, remains, for all unassisted intents and purposes, a black
-slate.
+take place of visible alphabets. Magnetic storage remains for all unassisted
+intents and purposes, a black slate.
 
-*C: Screen, 1968-today*  
+#### C: Screen, 1968-today
 
-By decoupling input and output, magnetic storage media affords the injection of
-time and space, in arbitrary intervals, between the process of inscription and
-comprehension. Content, coupled with control code, sinks beneath the matte
-surface of electrical charge. The final movement in the emergence of automated
-discourse reintroduces the illusion of immediacy into the process of
-inscription. Text, invisible in its material substratum, reappears on the
-screen, but, crucially, it longer corresponds to the actual inscription. This
-property is as perilous as it is liberating: perilous, because the flows of
-power and control can now be submerged under the shimmering surface of the
-screen, and liberating, because loosely coupled to its material substratum
-texts become both more fluid and more portable. Plainly put, the barriers to
-copying, sharing, exchanging, editing, remixing, and disseminating texts are
-reduced to a minimum.
+By decoupling input and output, magnetic storage and solid state media affords
+the injection of time and space, in arbitrary intervals, between the process of
+inscription and comprehension. Content, coupled with control code, sinks
+beneath the matte surface of electrical charge. The final movement in the
+emergence of automated discourse reintroduces the illusion of immediacy into
+the process of inscription. Text, invisible in its material substratum,
+reappears on the screen, but, crucially, it longer corresponds to its mirror
+inscription. This property is as perilous as it is liberating: perilous,
+because the flows of power and control can now be submerged under the
+shimmering surface of the screen, and liberating, because loosely coupled to
+its material substratum texts become both more fluid and more portable. Plainly
+put, the barriers to copying, sharing, exchanging, editing, remixing, and
+disseminating texts are reduced to a minimum.
 
-[^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
-are unique in the history of writing technologies in that they present a
-premeditated material environment built and engineered to propagate an illusion
-of immateriality."
+Ersatz isomorphism (between disk storage and screen image) leads to the
+reception of digital text as an ephemeral artifact. With the illusory role of
+the screen in mind, I propose 1968 as the year in which the contemporary
+textual condition takes its present form. On December 9th, 1968 Douglas
+Engelbart, then founder and primary investigator at the NASA and ARPA-funded
+Augmentation Research Center lab at the Stanford Research Institute, gave what
+became later colloquially known as "the mother of all demos
+[@tweney_mother_2008]" before an audience of roughly one thousand or so
+"computer professionals" attending the Fall Joint Computer Conference held at
+the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
+the arrival of almost every technology prophesied by Vannevar Bush in his
+influential 1945 piece for *The Atlantic* [@bush_as_1945]. In the course of one
+hundred or so minutes, Engelbart, speaking through a headset in a prerecorded
+address, features functional (live) prototypes of the following: graphical user
+interfaces, video conferencing, remote camera monitoring, links and hypertext,
+version control, text search, image manipulation, windows-based user
+interfaces, digital slides, networked machines, mouse, stylus, and joystick
+inputs, and "what you see is what you get" (WYSIWYG) word processing.
 
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
-@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
+!["NOW IS THE TIME FOB." Schematics for a "display system" from
+@engelbart_x-y_1970.](images/engel.png)
+
+In his report to NASA, which sponsored research on "intellect augmentation"
+along with DARPA, Engelbart describes his lab as a group of scientists
+"developing an experimental laboratory around an interactive, multiconsole
+computer-display system" and "working to learn the principles by which
+interactive computer aids can augment the intellectual capability of the
+subjects [@engelbart_human_1969, 1]." Cathode Ray Tube (CRT) displays were
+central to this research mission. In one of many patents that came out of
+"intellect augmentation" laboratory, Engelbart pictures the "display system" as
+a workstation that combines a typewriter, a CRT, and the mouse. The system is
+frozen in mid-action, with the words "THE TIME IS NOW FOB" prominently
+displayed on the screen. Although Engelbart does not explain the message, the
+system's user is evidently in the process of editing a sentence and about to
+correct the nonsensical FOB into a FOR. Engelbart writes, "One of the
+potentially most promising means for delivering and receiving information to
+and from digital computers involves the display of computer outputs as visual
+representation on a cathode ray tube and the alternation of the display by
+human operator in order to deliver instructions to the computer
+[@engelbart_x-y_1970]."
+
+The CRT closes the circuit between human and machine, but at a cost. Where in
+short-lived screen-less word processors (like the IBM MT/ST) the operator would
+have to keep the underlying structure of the document in mind, the CRT unfolds
+the structure topographically, allowing for spatial navigation along the
+document---restoring, in a sense, the natural affordances of print. Data
+becomes visible again. Moreover, represented in the shimmer of the cathode ray,
+it attaches itself lightly to the retina. Users trying out this way of writing
+for the first time report that the screen liberates them material confines of
+print textuality. One user, possibly Engelbart himself, writes the
+following:[^ln3-follow]
+
+[^ln3-follow]: I reproduce the text verbatim and preserving the line breaks,
+since formatting is an important part of the reported experience.
+
+```
+    1B2B1 "To accommodate and preserve a thought or
+    piece of information that isn't related to the work
+    of the moment, one can very quickly and easily
+    insert a note within the structure of a file at such
+    a place that it will nether get in the way nor get
+    lost.
+
+    1B2B2 "Later, working in another part of the file,
+    he can almost instantly (e.g. within two seconds)
+    return to the place where he temporarily is storing
+    such notes, to modify or add to any of them.
+
+    1B2B3 "As any such miscellaneous thought develops,
+    it is easy (and delightful) to reshape the structure
+    and content of its discussion material.
+```
+
+Engelbart, interested in collecting empirical phenomenological accounts of the
+system, records what must count as one of the most evocative passages to appear
+on the pages of an NASA technical report. In the "Results and Discussion"
+section an anonymous user writes:
+
+```
+1B4 "I find that I can express myself better, if I can
+make all the little changes and experiments with wording
+and structure as they occur to me." [Here the user
+experiments a little with using structural decomposition
+of a complex sentence.]
+```
+
+A deconstruction indeed follows, as the author begins to deviate from the
+conventions of the technical report. The numbered passages, and unexpected
+enjambment heightens the staccato quality of the prose, which at times reaches
+towards the lyric:
+
+
+```
+    1B4A "I find that I write faster and more freely,
+
+        1B4A1 "pouring thoughts and trial words on the
+        screen with much less inhibition,
+
+        1B4A2 "finding it easy to repair mistakes or wrong
+        choices
+
+            1B4A22 "so while capturing a thought I don't
+            have to inhibit the outpouring of thought and
+            action to do it with particular correctness,
+
+        1B4A3 "finding that several trials at the right
+        wording can be done very quickly
+
+            1B4A3A "so I can experiment, easily take a look
+            and see how a new version strikes me--and often
+            the first unworried attempt at a way to express
+            something turn out to be satisfactory, or at
+            least to require only minor touch up.
+
+        1B4A4 "Finding that where I might otherwise
+        hesitate in search of the right word, I now pour out
+        a succession of potentially appropriate words,
+        leaving them all the while the rest of the
+        statement takes shape. Then I select from among
+        them, or replace them all, or else merely change the
+        list a it and wait for a later movement of the
+        spirit.
+```
+
+When input and output coincide in time, as they do on paper, mistakes can be
+costly. The writer must commit to making an inscription and once made, the
+inscription gains permanence in a way that is difficult to correct. One can
+erase, removing a layer of physical material or cover-up, adding a layer of
+white ink to repair the damage. Engelbart's anonymous writer reports a feeling
+of freedom from such commitment to physical medium. He or she can simply
+"backspace" and start over. The contemporary reader may take such things for
+granted now, but imagine trying to write in that way for the first time.
+Writing "comes easy," becomes "uninhabited," and it "pours out" experimentally.
+Rather than manipulate language mentally, the writer "pours" the words onto the
+screen and then "selects" the right one, without hesitation. The highly
+hierarchical and blocky paragraph structure along with its repetitive refrain,
+"finding" and "I find that," gives the prose a hypnotic drive forward, which
+matches the reported experience of liberation. Anonymous continues:
+
+```
+    1B4B "I find that,
+
+        1B4B1 "being much more aware of
+
+            1B4B1A "the relationships among the phrases of a
+            sentence,
+
+            1B4B1B "among the statements of a list,
+
+            1B4B1C "and among the various level and members
+            of a branch,
+
+        1B4B2 "being able
+
+            1B4B2A "to view them in different ways,
+
+            1B4B2B "to rearrange them easily,
+
+            1B4B2C "to experiment with certain special
+            portrayals,
+
+                1B4B2C1 "not available easily in unstructured
+                data
+
+                1B4B2C2 "or usable without the CRT display,
+
+        1B4B3 "and being aware that
+
+            1B4B3A "I can (and am seeking to) develop still
+            further special conventions and computer aids
+
+            1B4B3B "to make even more of this available and
+            easy,
+
+        1B4B4 "all tend to increase
+
+            1B4B4A "my interest and experimentation
+
+            1B4B4B "and my conviction that this is but a
+            peek at what is to come soon.
+```
+Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
+
 
 ### 3.3 Form as Concrete and Universal
 
@@ -3642,168 +3817,7 @@ immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
 behavior [@kirschenbaum_mechanisms_2012, loc 1406-12]."
 
-### 3.7 Bootstrapping
-
-Ersatz isomorphism leads to the reception of digital text as an ephemeral
-artifact. With the illusory role of the screen in mind, I propose 1968 as the
-year in which automated discourse takes its present form. On December 9th, 1968
-Douglas Engelbart, then founder and primary investigator at the NASA and
-ARPA-funded Augmentation Research Center lab at the Stanford Research
-Institute, gave what became later colloquially known as "the mother of all
-demos [@tweney_mother_2008]" before an audience of roughly one thousand or so
-"computer professionals" attending the Fall Joint Computer Conference held at
-the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
-the arrival of almost every technology prophesied by Vannevar Bush in his
-influential 1945 piece for *The Atlantic* [@bush_as_1945]. In the course of one
-hundred or so minutes, Engelbart, speaking through a headset in a prerecorded
-address, features functional (live) prototypes of the following: graphical user
-interfaces, video conferencing, remote camera monitoring, links and hypertext,
-version control, text search, image manipulation, windows-based user
-interfaces, digital slides, networked machines, mouse, stylus, and joystick
-inputs, and "what you see is what you get" (WYSIWYG) word processing.
-
-!["NOW IS THE TIME FOB." Schematics for a "display system" from
-@engelbart_x-y_1970.](images/engel.png)
-
-In the NASA Contractor Report Engelbart describes his lab as a group of
-researchers "developing an experimental laboratory around an interactive,
-multiconsole computer-display system" and "working to learn the principles by
-which interactive computer aids can augment the intellectual capability of the
-subjects [@engelbart_human_1969, 1]." Cathode Ray Tube (CRT) are central to the
-research program. In one of many patents that came out of Engelbart's
-laboratory, Engelbart pictures the "display system" as a workstation that
-combines a typewriter, a CRT, and the mouse. The system is frozen in
-mid-action, with the words "THE TIME IS NOW FOB" prominently displayed on the
-screen. Although Engelbart does not explain the message, the system's user is
-evidently in the process of editing, about to correct the nonsensical FOB into
-a FOR. Engelbart writes, "One of the potentially most promising means for
-delivering and receiving information to and from digital computers involves the
-display of computer outputs as visual representation on a cathode ray tube and
-the alternation of the display by human operator in order to deliver
-instructions to the computer [@engelbart_x-y_1970]."
-
-The CRT closes the circuit between human and machine, but at a cost. Where in
-short-lived screen-less word processors (like the IBM MT/ST) the operator would
-have to keep the underlying structure of the document in mind, the CRT unfolds
-the structure topographically, allowing for spatial navigation along the
-document---restoring, in a sense, the natural affordances of print (think of
-rapid navigation through a book, as when riffling pages, for example, a
-technique lost in the punch-card and magnetic tape era). Data becomes visible
-again. Moreover, represented in the shimmer of the cathode ray, it attaches
-itself lightly to the retina. The system users that the screen liberates them
-material confines of print. One user reports (and I reproduce the reports
-verbatim, since the formatting matters here):
-
-```
-    1B2B1 "To accommodate and preserve a thought or
-    piece of information that isn't related to the work
-    of the moment, one can very quickly and easily
-    insert a note within the structure of a file at such
-    a place that it will nether get in the way nor get
-    lost.
-
-    1B2B2 "Later, working in another part of the file,
-    he can almost instantly (e.g. within two seconds)
-    return to the place where he temporarily is storing
-    such notes, to modify or add to any of them.
-
-    1B2B3 "As any such miscellaneous thought develops,
-    it is easy (and delightful) to reshape the structure
-    and content of its discussion material.
-```
-
-Engelbart, interested in collecting empirical phenomenological accounts of the
-system, records what must count as one of the most evocative passages to appear
-on the pages of an NASA (or any) technical report. It starts out innocently
-enough, in the Results and Discussion section an anonymous user write:
-
-1B4 "I find that I can express myself better, if I can
-make all the little changes and experiments with wording
-and structure as they occur to me." [Here the user
-experiments a little with using structural decomposition
-of a complex sentence.]
-
-A deconstruction indeed follows, as the author begins to deviate from the
-conventions of engineering discourse. The numbered passages, and unexpected
-enjambment heightens the staccato quality of the prose, that at times reaches
-towards the lyric:
-
-1B4A "I find that I write faster and more freely,
-
-    1B4A1 "pouring thoughts and trial words on the
-    screen with much less inhibition,
-
-    1B4A2 "finding it easy to repair mistakes or wrong
-    choices
-
-        1B4A22 "so while capturing a thought I don't
-        have to inhibit the outpouring of thought and
-        action to do it with particular correctness,
-
-    1B4A3 "fining that several trials at the right
-    wording can be done very quickly
-
-        1B4A3A "so I can experiment, easily take a look
-        and see how a new version strikes me--and often 
-        the first unworried attempt at a way to express
-        something turn out to be satisfactory, or at
-        least to require only minor touch up.
-
-Strange. Engelbart is the author of the report. But perhaps the user was
-invited to edit? Who is the author here.
-
-1B4A4 "Fining that  where I might otherwise 
-hesitate in search of the right word, I now pour out
-a succession of potentially appropriate words,
-leaving them all the while the rest of the
-statement takes shape. Then I select from among
-them, or replace them all, or else merely change the
-list a it and wait for a later movement of th 
-spirit.
-
-1B4B "I find that,
-
-    1B4B1 "being much more aware of
-
-        1B4B1A "the relationships among the phrases of a
-        sentence,
-
-        1B4B1B "among the statements of a list,
-
-        1B4B1C "and among the various level and members
-        of a branch,
-
-    1B4B2 "being able
-
-        1B4B2A "to view them in different ways,
-
-        1B4B2B "to rearrange them easily,
-
-        1B4B2C "to experiment with certain special
-        portrayals,
-
-            1B4B2C1 "not available easily in unstructured
-            data
-
-            1B4B2C2 "or usable without the CRT display,
-
-    1B4B3 "and being aware that
-
-        1B4B3A "I can (and am seeking to) develop still
-        further special conventions and computer aids
-
-        1B4B3B "Ato make even more of this available and
-        easy,
-
-    1B4B4 "all tend to increase
-
-        1B4B4A "my interest and experimentation
-
-        1B4B4A "and my conviction that his is but a
-        peek at what is to come soon.
-
-Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
-
+### 3.7 Malicious Code Injection
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
@@ -3829,6 +3843,14 @@ conditions of meaning making. The answer to the machine remains in the machine.
 My "closest possible" reading of James Joyce's "Ulysses" contain a malicious
 code injection. Were my readers to open the pictured file, it would erase their
 hard drives.
+
+[^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
+are unique in the history of writing technologies in that they present a
+premeditated material environment built and engineered to propagate an illusion
+of immateriality."
+
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
 [^ln3-root]: @stoltz_is_2013
 
