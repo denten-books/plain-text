@@ -2393,17 +2393,18 @@ which matter, form, and content lie flat) and screen (where the three layers
 occupy physically distinct strata of the Document--object model, providing only
 the illusion of flattened textuality). The apparent immateriality of digital
 text brings promise of epistemological (social) and even phenomenological
-(personal) transformation. But it also comes at a cost. Inscription on magnetic
-tape cannot be assumed to correspond to the composite screen image. Forms of
-governance (like Digital Rights Management) can now be embedded deep within the
-structure of the "data object" itself and further hidden from view, precluding
-(and sometimes making illegal outright) the possibility of interpretation (of
-any sort). The discussion concludes with a stark image, illustrating the
-contrast between screen surface and the underlying bit structure. To produce
-the image, I use reverse-engineering tools to inject malicious code into an
-Adobe Acrobat file (`.pdf`). The deformed text threatens (harmlessly) to damage
-the literary device. A thick description of the literary device (now as gadget
-or instrument) brings legibility to the fore of reading ethics.
+(personal) transformation. But it also comes at a cost.  Inscription on
+magnetic tape cannot be assumed to correspond to the composite screen image.
+Forms of governance (like Digital Rights Management) can now be embedded deep
+within the structure of the "data object" itself and further hidden from view,
+precluding (and sometimes making illegal outright) the possibility of
+interpretation (of any sort). The discussion concludes with a stark image,
+illustrating the contrast between screen surface and the underlying bit
+structure. To produce the image, I use reverse-engineering tools to inject
+malicious code into an Adobe Acrobat file (`.pdf`). The deformed text threatens
+(harmlessly) to damage the literary device. A thick description of the literary
+device (now as gadget or instrument) brings legibility to the fore of reading
+ethics.
 
 ### 3.1 Literary Device as Gadget and Technique
 
@@ -2497,11 +2498,11 @@ devices. When asked in the context of book history, the question of surface
 gains an instrumental dimension. Physical affordances of liquid crystal
 displays and magnetic storage differ drastically from those of goat skins or
 parchment. Yet surface representation maintains the illusion of
-self-similarity. I am concerned here with the particularities of that illusion.
-A poem, a novel, a physician's script, or a legal contract all still look like
-their paper counterparts, but increasingly they behave like gadgets. These
-reading and writing appliances do not mediate silently: they monitor, adjust,
-warn, and control.
+self-similarity.[^ln3-illusion] I am concerned here with the particularities of
+that illusion.  A poem, a novel, a physician's script, or a legal contract all
+still look like their paper counterparts, but increasingly they behave like
+gadgets. These reading and writing appliances do not mediate silently: they
+monitor, adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 in ways that we have only began to comprehend. And as will become apparent in
@@ -2512,9 +2513,153 @@ guise of surface inscription. This chapter will be longer than others, because
 it is central to my argument as a whole. I will spend much of it at the work of
 "teasing apart" the layers obscuring the underlying structure of the textual
 device, using historical sources, direct observation, and tools normally
-reserved for reverse-engineering of data files.[^ln3-mechanisms]
+reserved for reverse-engineering.[^ln3-mechanisms]
 
-### 3.2 Form as Concrete and Universal
+### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
+
+I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
+magnetic storage the "enduring ephemeral," which "creates unforeseen
+degenerative links between humans and machines [@chun_enduring_2008, 148]." If
+the floating gate transistor, where my text now lives, can be called the
+enduring ephemeral, I will call my liquid crystal display, where the text shows
+itself, fading persistence. This is not to believe (fearing the wrath of
+textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
+that text on the screen lacks materiality. Not at all. Only that it seems to
+drift from surface to surface, beyond the field of vision, in ways that erode
+trust in the general permanence of the literary system. If we are destined to
+dwell on surfaces, I do not know to which surface to attach my attention: the
+screen or the floating gate.
+
+I have before me at least two inscriptions that mean the same thing, in two
+distinct places. How did this duplicity come to be? At which point in time did
+one text become two or more different things? In an attempt to answer, I offer
+the following three minimal historical preconditions. They are not meant as
+history, but they are needed for the work to be done in this chapter. The
+schema proceeds roughly as follows: first, content and control couple at the
+visible surface of removable storage media (ticker tape and punch card);
+second, inscription splits into input and output, retreating into magnetic
+storage; to reemerge, at the end, on the screen, the same as before, but also
+as we suspect, not the same: less solid and concealing something beneath the
+phantasmic shell of its former appearance.[^ln3-illusion]
+
+*A. Removable storage media and automation, 1725-1964.[ln3-loom]*  
+
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg's 1911 patent, simply titled
+"Controller." "My invention relates to all controllers," Goldberg writes.
+Furthermore, the object of his invention is "to provide a mechanism operable by
+a control sheet which is legible to every person having sufficient education to
+enable him to read ." Goldberg's illustrates his invention in attaching to his
+patent "a control sheet in which the control characters are in the form of the
+letters of the ordinary English alphabet [@goldberg_controller_1915]." Rather
+than using ticker tape, Goldberg's perforations form letters. On Goldberg's
+control sheets, the language of machines and the language of humans coincide.
+
+![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
+"@goldberg1911")
+
+The Controller never caught on, but the patent makes it clear that Goldberg,
+among others, was aware of the problem: the mechanization of type, automation,
+and remote control required specialized training. With the advent of the
+automated telegraph, content meant for people was now being intermixed with
+machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
+using cards, perforated in the shape of the English alphabet. Besides carrying
+(human-readable) content, the perforations do "double duty" to mechanically
+manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
+[@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
+based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
+punch-cards that powered weaving looms, player pianos, and census tabulators
+coupled message and control. The era of ticker tape punch cards can be thought
+to end with the introduction the mass-market introduction of IBM Magnetic
+Tape/Selectric Typewriter in 1964.
+
+*B: Magnetic tape, 1888-1968.*  
+
+"Historically unforeseen, barely a thing, software's ghostly presence produces
+and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
+an influential monograph that continues to shape the field of software studies.
+She quotes several prominent computer scientists and media historians to the
+same effect. But what gives software its ephemeral quality?  Embossed onto
+ticker tape or punched into the card, early software protrudes through the
+medium. In the age of the telegraph, the largest barrier to comprehension of
+software was encoding. But once the cipher is known and format identified, the
+inscription makes itself visible to view. Early programmable media could hardly
+be called ephemeral or immaterial. Anecdotes circulate in the digital
+humanities circles of Father Roberto Busa, an early (post-WWII) pioneer in the
+field of computational philology, carting his punch cards around Italy on a
+truck.[^ln2-busa] Code before its electro-magnetic period was burdensome,
+fragile, unwieldy, and most of all, visible.
+
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card (@may_ibm_1981, 744)." Image by Pointillist
+under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
+
+The principles of magnetic recording were developed by Oberlin Smith (among
+others), the American Engineer who also filed several inventions related to
+weaving looms at the end of the nineteenth century. In 1888, inspired by Edison's
+mechanical phonograph, Smith made public his experiments with an "electrical
+method" of sound recording using a "magnetized cord" (cotton mixed with
+hardened steel dust) as a recording medium. These experiments were later put
+into practice by Valdemar Poulsen of Denmark, who patented several influential
+designs for a magnetic wire recorder [@smith_possible_1888;
+@poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
+@engel_1888-1988_1988; @thiele_magnetic_1988].
+
+In 1964, IBM combined magnetic tape storage with its *Selectric* line of
+electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
+typewriters to the mass market. Writing for the *Encyclopedia of Library and
+Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
+first word processors, defined by the ability to record strokes and to print
+them onto paper *as a separate operation* [@eisenberg_word_1992]. The
+separation of input and output allows for word processing as such. An article
+in the *IBM Journal for Research and Development* explains that the real
+significance of the MT/ST workstation was in the introduction of new "power
+typing" technologies: "For the first time the typist could type at 'rough
+draft' speed, 'backspace and strike over' errors, and not worry about the
+pressure of mistakes made at the end of the page [@may_ibm_1981, 742]."
+
+We may think of word processing as temporal extension of the page. Words on
+magnetic storage medium begin to exist in the ephemeral state, giving the
+typist an opportunity to edit and emend *before* commitment to paper, in its
+immutable form, and as a separate operation, removed from the immediate process
+of inscription. The very invention of word processing thus corresponds to the
+decline of text into ephemera. What was visible through a hole punch on ticker
+tape, was now submerged into tape. The tape no longer afforded human legibility
+nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
+the earlier sections) underlying structure (7-bit encoding, in this case)
+which, on tape, ceased to be recoverable by the naked eye. The inscription lay
+literally beyond (human) sense. Lacking the perceptual apparatus to perceive
+what are called "magnetic domains" and inscribed "polarities"[^ln3-magnet] that
+take place of visible alphabets. Magnetic storage, widely used in all
+contemporary devices, remains, for all unassisted intents and purposes, a black
+slate.
+
+*C: Screen, 1968-today*  
+
+By decoupling input and output, magnetic storage media affords the injection of
+time and space, in arbitrary intervals, between the process of inscription and
+comprehension. Content, coupled with control code, sinks beneath the matte
+surface of electrical charge. The final movement in the emergence of automated
+discourse reintroduces the illusion of immediacy into the process of
+inscription. Text, invisible in its material substratum, reappears on the
+screen, but, crucially, it longer corresponds to the actual inscription. This
+property is as perilous as it is liberating: perilous, because the flows of
+power and control can now be submerged under the shimmering surface of the
+screen, and liberating, because loosely coupled to its material substratum
+texts become both more fluid and more portable. Plainly put, the barriers to
+copying, sharing, exchanging, editing, remixing, and disseminating texts are
+reduced to a minimum.
+
+[^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
+are unique in the history of writing technologies in that they present a
+premeditated material environment built and engineered to propagate an illusion
+of immateriality."
+
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
+
+### 3.3 Form as Concrete and Universal
 
 What lies beneath a text? In talking about texts of all kinds, literary
 scholars and computer scientists often make a distinction between form and
@@ -2712,7 +2857,7 @@ tripartite model suggested by Hegel's "concrete universal," we perceive text as
 indeterminate (or overdetermined) form, which leads to both ideas and physical
 medium.
 
-### 3.3 Sound and Formula
+### 3.4 Sound and Formula
 
 Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
@@ -2982,7 +3127,7 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
 involves something akin to phenomenology as biological reverse engineering.
 
-### 3.4 Document--object Model (DOM)
+### 3.5 Document--object Model (DOM)
 
 It is in this tripartite sense one can best understand the structure of modern
 "digital" documents. In the language of the document--object model (which
@@ -3167,6 +3312,7 @@ flowing smoothly from line to line, column to column, and page to page, unless
 otherwise instructed, and to break this automatic flow as directed
 [@berns_description_1969]."
 
+
 Because formatting governs both meaning-carrying and purely decorative
 elements, text control can involve operations like "replace word," "make
 invisible," or "insert file." These commands intertwine with "free-form"
@@ -3203,7 +3349,7 @@ Standard ISO 216. In the Imperial System these equate to  33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-### 3.5 Smart Contracts (A Legal Interlude)
+### 3.6 Smart Contracts (A Legal Interlude)
 
 Exposing the document--object model governing the production of text through
 contemporary reading and writing devices gives the question of surface and
@@ -3472,152 +3618,15 @@ immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
 behavior [@kirschenbaum_mechanisms_2012, loc 1406-12]."
 
-### 3.6 WYSINAWYG (What You See Is Not Always What You Get)
-
-Ersatz isomorphism leads to the reception of digital text as an ephemeral
-artifact. Wendy Hui Kyong Chun, for example, calls magnetic storage the
-"enduring ephemeral," which "creates unforeseen degenerative links between
-humans and machines [@chun_enduring_2008, 148]." This is not to say (fearing
-the wrath of textual theorists like Jerome McGann, Johanna Drucker, and
-Katherine Hayles) that text on the screen lacks materiality. Not at all. Only
-that digital textuality is in some real ways obscured and hidden from the
-viewer, in ways that produce a real sense of the ephemeral.
-
-Automated discourse has gained opacity and depth in several stages: first, by
-coupling content and control on the surface of removable paper storage media
-(ticker tape and punch cards); second, in removing inscription from view onto
-magnetic tape; and, finally, by manufacturing an illusion of visibility on the
-screen.[^ln3-illusion]
-
-I offer the following historical snapshots and exemplary devices as
-illustrations that move us roughly from tail end of the Gutenberg galaxy into
-the present age:
-
-*A. Removable storage media and automation, 1725-1964.[ln3-loom]*  
-
-"You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg's 1911 patent, simply titled
-"Controller." "My invention relates to all controllers," Goldberg writes.
-Furthermore, the object of his invention is "to provide a mechanism operable by
-a control sheet which is legible to every person having sufficient education to
-enable him to read ." Goldberg's illustrates his invention in attaching to his
-patent "a control sheet in which the control characters are in the form of the
-letters of the ordinary English alphabet [@goldberg_controller_1915]." Rather
-than using ticker tape, Goldberg's perforations form letters. On Goldberg's
-control sheets, the language of machines and the language of humans coincide.
-
-![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png
-"@goldberg1911")
-
-The Controller never caught on, but the patent makes it clear that Goldberg,
-among others, was aware of the problem: the mechanization of type, automation,
-and remote control required specialized training. With the advent of the
-automated telegraph, content meant for people was now being intermixed with
-machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
-using cards, perforated in the shape of the English alphabet. Besides carrying
-(human-readable) content, the perforations do "double duty" to mechanically
-manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
-[@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
-based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
-punch-cards that powered weaving looms, player pianos, and census tabulators
-coupled message and control. The era of ticker tape punch cards can be thought
-to end with the introduction the mass-market introduction of IBM Magnetic
-Tape/Selectric Typewriter in 1964.
-
-*B: Magnetic tape, 1888-1968.*  
-
-"Historically unforeseen, barely a thing, software's ghostly presence produces
-and defies apprehension,"  Wendy Hui Kyong Chun in her in *Programmed Visions*,
-an influential monograph that continues to shape the field of software studies.
-She quotes several prominent computer scientists and media historians to the
-same effect. But what makes software ephemeral?  Embossed onto ticker tape or
-punched into the card, early software protrudes through the medium. In the age
-of the telegraph, the largest barrier to comprehension of software is encoding.
-But once the cipher is known and format identified, the inscription makes
-itself visible to view. Early programmable media were hardly ephemeral.
-Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
-an early (post-WWII) pioneer in the field of computational philology, carting
-his punch cards around Italy on a truck.[^ln2-busa] Code before its
-electro-magnetic period was burdensome, fragile, unwieldy, and most of all,
-visible.
-
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card (@may_ibm_1981, 744)." Image by Pointillist
-under GNU Free Documentation License, Version 1.2.](images/ibm-card.jpg)
-
-The principles of magnetic recording were developed by Oberlin Smith (among
-others), the American Engineer who also filed several inventions related to
-weaving looms at the end of the nineteenth century. In 1888, inspired by Edison's
-mechanical phonograph, Smith made public his experiments with an "electrical
-method" of sound recording using a "magnetized cord" (cotton mixed with
-hardened steel dust) as a recording medium. These experiments were later put
-into practice by Valdemar Poulsen of Denmark, who patented several influential
-designs for a magnetic wire recorder [@smith_possible_1888;
-@poulsen_method_1900; @vasic_coding_2004; @daniel_magnetic_1998;
-@engel_1888-1988_1988; @thiele_magnetic_1988].
-
-In 1964, IBM combined magnetic tape storage with its *Selectric* line of
-electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
-typewriters to the mass market. Writing for the *Encyclopedia of Library and
-Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
-first word processors, defined by the ability to record strokes and to print
-them onto paper *as a separate operation* [@eisenberg_word_1992]. The
-separation of input and output allows for word processing as such. An article
-in the *IBM Journal for Research and Development* explains that the real
-significance of the MT/ST workstation was in the introduction of new "power
-typing" technologies: "For the first time the typist could type at 'rough
-draft' speed, 'backspace and strike over' errors, and not worry about the
-pressure of mistakes made at the end of the page [@may_ibm_1981, 742]."
-
-We may think of word processing as temporal extension of the page. Words on
-magnetic storage medium begin to exist in the ephemeral state, giving the
-typist an opportunity to edit and emend *before* commitment to paper, in its
-immutable form, and as a separate operation, removed from the immediate process
-of inscription. The very invention of word processing thus corresponds to the
-decline of text into ephemera. What was visible through a hole punch on ticker
-tape, was now submerged into tape. The tape no longer afforded human legibility
-nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
-the earlier sections) underlying structure (7-bit encoding, in this case)
-which, on tape, ceased to be recoverable by the naked eye. The inscription lay
-literally beyond (human) sense. Lacking the perceptual apparatus to perceive
-what are called "magnetic domains" and inscribed "polarities"[^ln3-magnet] that
-take place of visible alphabets. Magnetic storage, widely used in all
-contemporary devices, remains, for all unassisted intents and purposes, a black
-slate.
-
-*C: Screen, 1968-today*  
-
-By decoupling input and output, magnetic storage media affords the injection of
-time and space, in arbitrary intervals, between the process of inscription and
-comprehension. Content, coupled with control code, sinks beneath the matte
-surface of electrical charge. The final movement in the emergence of automated
-discourse reintroduces the illusion of immediacy into the process of
-inscription. Text, invisible in its material substratum, reappears on the
-screen, but, crucially, it longer corresponds to the actual inscription. This
-property is as perilous as it is liberating: perilous, because the flows of
-power and control can now be submerged under the shimmering surface of the
-screen, and liberating, because loosely coupled to its material substratum
-texts become both more fluid and more portable. Plainly put, the barriers to
-copying, sharing, exchanging, editing, remixing, and disseminating texts are
-reduced to a minimum.
-
-[^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
-are unique in the history of writing technologies in that they present a
-premeditated material environment built and engineered to propagate an illusion
-of immateriality."
-
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
-@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
-
 ### 3.7 Bootstrapping
 
-With the illusory role of the screen in mind, I propose 1968 as the year in
-which automated discourse takes its present form. On December 9th, 1968 Douglas
-Engelbart, then founder and primary investigator at the NASA and ARPA-funded
-Augmentation Research Center lab at the Stanford Research Institute, gave what
-became later colloquially known as "the mother of all demos
-[@tweney_mother_2008]" before an audience of roughly one thousand or so
+Ersatz isomorphism leads to the reception of digital text as an ephemeral
+artifact. With the illusory role of the screen in mind, I propose 1968 as the
+year in which automated discourse takes its present form. On December 9th, 1968
+Douglas Engelbart, then founder and primary investigator at the NASA and
+ARPA-funded Augmentation Research Center lab at the Stanford Research
+Institute, gave what became later colloquially known as "the mother of all
+demos [@tweney_mother_2008]" before an audience of roughly one thousand or so
 "computer professionals" attending the Fall Joint Computer Conference held at
 the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
 the arrival of almost every technology prophesied by Vannevar Bush in his
@@ -3771,19 +3780,11 @@ spirit.
 
 Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
 
-Note that in some sense, the formatting layer can be seen as a feature
-extension of the control characters already present in early telegraph
-machinery. In describing *TYPSET* and *RUNOFF*, some of the earliest typeset
-and editor commands that made it into UNIX as *TROFF*, J.E. Saltzer, a pioneer
-of modern textual editing, writes:
-
-> RUNOFF is a command used to type out memorandum files of English text in
-manuscript format. Control words scattered in the text  provide detailed
-control over the format, if desired. Input files may be prepared  by the
-context editor, TYPSET.
 
 The distance between magnetic storage and the CRT is arbitrary.  The pipe can
 go deep. PDF MOTHERFUCKING INJECTION
+
+Reading as assembly and disassembly.
 
 I do not mean to imply that raw reading of this sort, at circuit and magnetic
 media level, will somehow come to supplement reading at the surface for meaning
@@ -3801,11 +3802,9 @@ and silicon does not merely claim to, but actually does transform surfaces.
 Critical reading must therefore begin with reclaiming the underlying material
 conditions of meaning making. The answer to the machine remains in the machine.
 
-Matthew Kirschenbaum was one of the first to show the effectiveness of reading
-at the surface of magnetic storage medium. I will go one step further. My
-"closest possible" reading of James Joyce's "Ulysses" contain a malicious code
-injection. Were my readers to open the pictured file, it would erase their hard
-drives.
+My "closest possible" reading of James Joyce's "Ulysses" contain a malicious
+code injection. Were my readers to open the pictured file, it would erase their
+hard drives.
 
 [^ln3-root]: @stoltz_is_2013
 
