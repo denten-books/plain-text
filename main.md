@@ -2509,18 +2509,18 @@ in ways that we have only began to comprehend. And as will become apparent in
 the later sections of this chapter, some structural decisions in the making of
 such devices are explicitly designed to resist tampering, access, or
 interpretation. They obscure the flows of code and codex under the familiar
-guise of surface inscription. This chapter will be longer than others, because
-it is central to my argument as a whole. I will spend much of it at the work of
-"teasing apart" the layers obscuring the underlying structure of the textual
-device, using historical sources, direct observation, and tools normally
-reserved for reverse-engineering.[^ln3-mechanisms]
+guise of surface representation. This chapter will be longer than others,
+because it is central to my argument as a whole. I will spend much of it at the
+work of "teasing apart" the layers obscuring the underlying structure of the
+textual device, using historical sources, direct observation, and tools
+normally reserved for reverse-engineering of data objects.[^ln3-mechanisms]
 
 ### 3.2 WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines [@chun_enduring_2008, 148]." If
-the floating gate transistor, where my text now lives, can be called the
+the floating gate transistor,[^ln3-gate] where my text now lives, can be called the
 enduring ephemeral, I will call my liquid crystal display, where the text shows
 itself, fading persistence. This is not to believe (fearing the wrath of
 textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
@@ -2530,6 +2530,24 @@ trust in the general permanence of the literary system. If we are destined to
 dwell on surfaces, I do not know to which surface to attach my attention: the
 screen or the floating gate.
 
+[^ln3-gate]: Solid state memory devices like flash memory store information in
+capacitor "circuit states." This by contrast with electromagnetic storage that
+works by modulating electrical charge over a magnetic surface. Solid state
+capacitor storage was used in the earliest computers
+[@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage on consumer devices. In an early
+(1967) paper on "Floating Gate and its Application to Memory Devices," Khang
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour [@kahng_floating_1967, 1288]." See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
 I have before me at least two inscriptions that mean the same thing, in two
 distinct places. How did this duplicity come to be? At which point in time did
 one text become two or more different things? In an attempt to answer, I offer
@@ -2538,9 +2556,9 @@ history, but they are needed for the work to be done in this chapter. The
 schema proceeds roughly as follows: first, content and control couple at the
 visible surface of removable storage media (ticker tape and punch card);
 second, inscription splits into input and output, retreating into magnetic
-storage; to reemerge, at the end, on the screen, the same as before, but also
-as we suspect, not the same: less solid and concealing something beneath the
-phantasmic shell of its former appearance.[^ln3-illusion]
+storage; to reemerge at last on screen, in the same guise, but also as we
+suspect, somehow transformed: less solid and concealing something beneath the
+phantasmal shell of its former appearance.[^ln3-illusion]
 
 *A. Removable storage media and automation, 1725-1964.[ln3-loom]*  
 
