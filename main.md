@@ -2911,12 +2911,13 @@ simply dissemble to create the illusion of effortless textuality.
 What does it mean to have "depth" in writing? Understood literally, the
 question has lead us to the various surfaces on which inscription can take
 hold. With the device at hand, we can now consider the problem of textual
-duplicity figuratively, in terms of a model. That model has an intellectual
-history, not usually apparent in its practical application. We may write texts
-in one way, but philosophize about them in another. My admittedly difficult
-task here will be to bring these two traditions closer together, and to show
-that at some point the language of literary theory and computer science
-converge on the issue of document structure.
+duplicity figuratively, as data object. The model of textuality implicit in
+that object belongs to the history of ideas not usually apparent in its
+everyday use. We may write texts in one way, but talk about them in another. My
+admittedly difficult task here will be to bring the traditions of interpreting
+texts and architechting textual systems closer together: to percive a point
+convergence on document structure between usually disparate languages of
+literary theory and computer science.
 
 In talking about texts of all kinds, literary scholars and computer scientists
 often make a distinction between form and content. "Classical art, in a word,
@@ -3305,7 +3306,7 @@ but not quite transformed. Their historical momentum and genetic development
 overpowers any individual contribution. We expand with in it, and not the other
 way around. Device in this sense, means exactly the opposite of form in the
 sense of a private utterance, by which an individual author breaks with an
-ossified image (as in Shklovsky's *uao*). 
+ossified image (as in Shklovsky's *uao*).
 
 The contradiction of understanding form as sound, and form as formula, lies at
 the center of formalist poetics.  As critics, the formalists privileged moments
@@ -3386,18 +3387,18 @@ involves something akin to phenomenology as biological reverse engineering.
 
 ### 3.5 Document--object Model (DOM)
 
-It is in this tripartite sense one can best understand the structure of modern
-"digital" documents. In the language of the document--object model (which
-structures the presentation of text everywhere from web browsers to commercial
-print typesetters), the literary-theoretical concept of "form" can mean both
-"class" and "instance" (object-oriented programming) or "set" and "object" (set
-theory), or "type" and "term" (type theory). Although literature in computer
-science rarely operates in the mode of intellectual history, computer-aided
-text editors internalized a model of document structure remarkably similar to
-the one suggested by Hegelian aesthetics, and in terms of physical (media),
-form (formatting), and content (text) levels of analysis. The document--object
-model weaves the language of Hegelian universal into the fabric of modern
-computing.
+It is in this tripartite sense of matter, form, and idea that one can best
+understand the structure of modern "digital" documents. In the language of the
+document--object model (which structures the presentation of text everywhere
+from web browsers to commercial print typesetters), the literary-theoretical
+concept of "form" can mean both "class" and "instance" (object-oriented
+programming) or "set" and "object" (set theory), or "type" and "term" (type
+theory). Although literature in computer science rarely operates in the mode of
+intellectual history, computer-aided text editors internalized a model of
+document structure remarkably similar to the one suggested by Hegelian
+aesthetics, and in terms of physical (media), form (formatting), and content
+(text) levels of analysis. The document--object model weaves the language of
+Hegelian universal into the fabric of modern computing.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
@@ -3569,7 +3570,6 @@ flowing smoothly from line to line, column to column, and page to page, unless
 otherwise instructed, and to break this automatic flow as directed
 [@berns_description_1969]."
 
-
 Because formatting governs both meaning-carrying and purely decorative
 elements, text control can involve operations like "replace word," "make
 invisible," or "insert file." These commands intertwine with "free-form"
@@ -3657,13 +3657,20 @@ one moment connect to one wireless access point, and at another moment to
 another, with minimal loss of connectivity). Yet, OSI protocols and the DOM are
 also densely consolidated. They are, for example, legislated by specific
 international governing bodies[^ln3-osi], susceptible to the usual political
-pitfalls of pan-global consortia. Whatever the case may be, the subject
-encounters the "protocol stack" from without, on the periphery of the network
-(see Figure). When paging through an electronic book (usually an OSI-compliant
-device displaying DOM-structured files), for example, the reader has access
-only to the outputs emanating from the application layer, and at that, only at
-the exposed "window" level of the DOM. The perceived "content" constitutes a
-small fraction of the underlying "formal" topology.
+pitfalls of pan-global consortia.
+
+Once bifurcated between storage and screen, the inscription travels along a
+"pipeline" of protocols, undergoing a set of arbitrary transformations
+throughout. On one device, that pipeline may extend just a few inches,
+connecting disk storage and output display. On a network device that pipeline
+can stretch across continents, spanning widely divergent regions of legal and
+administrative control. Whatever the case may be, the subject encounters the
+"protocol stack" from without, on the periphery of the network (see Figure).
+When paging through an electronic book (usually an OSI-compliant device
+displaying DOM-structured files), for example, the reader has access only to
+the outputs emanating from the application layer, and at that, only at the
+exposed "window" level of the DOM. The perceived "content" constitutes a small
+fraction of the underlying "formal" topology.
 
 [^ln3-osi]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the Word Wide
@@ -3877,10 +3884,40 @@ behavior [@kirschenbaum_mechanisms_2012, loc 1406-12]."
 
 ### 3.7 Malicious Code Injection
 
-The distance between magnetic storage and the CRT is arbitrary.  The pipe can
-go deep. PDF MOTHERFUCKING INJECTION
+In presenting canonical models of document structure, it is my hope to convince
+the reader of the very real and literal sense of depth encoded into the fabric
+of contemporary textuality. This includes print, because even in that mode,
+publishing practices today rely on some of the same machinery described in this
+chapter.
 
-Reading as assembly and disassembly.
+The attached documents illustrate my thesis in practice. On the left the reader
+will find a visual representation of Laurence Sterne's *The Life and Opinions
+of Tristram Shandy, Gentleman*, encoded into the binary Portable Document
+Format (PDF). Helfman's self-similarity dotplots are then used to visualize the
+underlying bit structure. Dotplots, as Helfman explains, "reveal similarity
+structures in data regardless of format and in text and software regardless of
+language [@helfman]." The following, for example, is a simple dotplot from
+Shakespeare:
+
+!["Six words of Shakespeare." @helfman](images/helfman.png)
+
+When applied to raw, binary data, self-similarity plots can be used to study
+data structure, to identify security threats, and to reverse engineer unknown
+file types. 
+
+behavior and structure of undocumented file formats" and to "detect and analyze
+malicious content in known Using attack vectors outlined in
+
+@steve, @rahman, @maior
+
+Using BinView,  
+
+My "closest possible" reading of James Joyce's "Ulysses" contain a malicious
+code injection. Were my readers to open the pictured file, it would erase their
+hard drives.
+
+![Malicious code injection into the text of Laurence Sterne's *Tristram
+Shandy*. Unaltered PDF structure on the right. Cavitation in
 
 I do not mean to imply that raw reading of this sort, at circuit and magnetic
 media level, will somehow come to supplement reading at the surface for meaning
@@ -3897,10 +3934,6 @@ without merit, creating an imbalance of interpretation. The writer on magnet
 and silicon does not merely claim to, but actually does transform surfaces.
 Critical reading must therefore begin with reclaiming the underlying material
 conditions of meaning making. The answer to the machine remains in the machine.
-
-My "closest possible" reading of James Joyce's "Ulysses" contain a malicious
-code injection. Were my readers to open the pictured file, it would erase their
-hard drives.
 
 [^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
 are unique in the history of writing technologies in that they present a
