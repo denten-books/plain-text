@@ -2908,21 +2908,31 @@ simply dissemble to create the illusion of effortless textuality.
 
 ### 3.3 Form as Concrete and Universal
 
-What lies beneath a text? In talking about texts of all kinds, literary
-scholars and computer scientists often make a distinction between form and
-content. "Classical art, in a word, stands for form," R.G. Collingwood wrote in
-1929, and "romantic art for content [@collingwood_form_1929, 335]." In a much
-more recent work on computational text generation, Kathleen McKeown writes that
-to produce discourse, writers and speakers "must decide what to say and how to
-present it effectively." A machine that generates text should, among other
-things, be able to determine "content and textual shape" of what needs to be
-said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
-"Print is Flat, Code is Deep," Katherine Hayles writes about "the interplay
-between a text's physical characteristics and its signifying strategies"
-[@hayles_print_2004, 72]. In each case, the model underlying textual production
-involves the bifurcation between some notions of outward shape and inward
-meaning. Interpretation, under this model, usually involves moving beyond the
-apparent form to the implicit ideational content.
+What does it mean to have "depth" in writing? Understood literally, the
+question has lead us to the various surfaces on which inscription can take
+hold. With the device at hand, we can now consider the problem of textual
+duplicity figuratively, in terms of a model. That model has an intellectual
+history, not usually apparent in its practical application. We may write texts
+in one way, but philosophize about them in another. My admittedly difficult
+task here will be to bring these two traditions closer together, and to show
+that at some point the language of literary theory and computer science
+converge on the issue of document structure.
+
+In talking about texts of all kinds, literary scholars and computer scientists
+often make a distinction between form and content. "Classical art, in a word,
+stands for form," R.G.  Collingwood wrote in 1929, and "romantic art for
+content [@collingwood_form_1929, 335]." In a much more recent work on
+computational text generation, Kathleen McKeown writes that to produce
+discourse, writers and speakers "must decide what to say and how to present it
+effectively." A machine that generates text should, among other things, be able
+to determine "content and textual shape" of what needs to be said or written
+[@mckeown_text_1992, 1].  Similarly, in her influential essay "Print is Flat,
+Code is Deep," Katherine Hayles writes about "the interplay between a text's
+physical characteristics and its signifying strategies" [@hayles_print_2004,
+72]. In each case, the model underlying textual production involves the
+bifurcation between some notions of outward shape and inward meaning.
+Interpretation, under this model, usually involves moving beyond the apparent
+form to the implicit ideational content.
 
 Although the distinction between form and content is somewhat naturalized in
 literary and linguistic discourse, the concept of form is often used in another
