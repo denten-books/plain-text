@@ -3890,49 +3890,69 @@ of contemporary textuality. This includes print, because even in that mode,
 publishing practices today rely on some of the same machinery described in this
 chapter.
 
-The attached documents illustrate my thesis in practice. On the left the reader
-will find a visual representation of Laurence Sterne's *The Life and Opinions
-of Tristram Shandy, Gentleman*, encoded into the binary Portable Document
-Format (PDF). Helfman's self-similarity dotplots are then used to visualize the
-underlying bit structure. Dotplots, as Helfman explains, "reveal similarity
-structures in data regardless of format and in text and software regardless of
-language [@helfman]." The following, for example, is a simple dotplot from
-Shakespeare:
+The attached documents illustrate my thesis in practice. In the first image the
+reader will find a visual "dotplot" representation of Laurence Sterne's *The
+Life and Opinions of Tristram Shandy, Gentleman*, in plain text (`.txt`) file
+format. To produce the image, I use the Helfman's self-similarity dotplot
+approach.  Dotplots, as Helfman explains, "reveal similarity structures in data
+regardless of format and in text and software regardless of language
+[@helfman]." They can be used for authorship identification, plagiarism
+detection, or to find similarity in genetic material. The following, is a
+simple dotplot from Shakespeare:
 
 !["Six words of Shakespeare." @helfman](images/helfman.png)
 
 When applied to raw, binary data, self-similarity plots can be used to study
-data structure, to identify security threats, and to reverse engineer unknown
-file types. 
+data structures, to identify security threats, and to reverse engineer unknown
+file types. Note that at this level, we are not observing patterns of meaning
+(as repetition of words or word clusters), but rather structural patterns in
+the underlying bit structure. We cannot tell, from the image what these types
+mean, only that they are structured in a particular way. Different file
+formats, like the common `.docx` and `.mobi` will leave a common signature,
+even when corrupted. The sparse topography of the `.txt` file indicates a
+relative paucity in bit types. The hex types are limited to human-legible UTF-8
+character set (used to to encode the `.txt` file). The square on the lower
+likely represents lower case letters, with the other two squares showing
+capitals and punctuation.
 
-behavior and structure of undocumented file formats" and to "detect and analyze
-malicious content in known Using attack vectors outlined in
+The second image shows the popular Mobipocket (`.mobi`) book format, used to store books in
+Amazon Kindle device, for example. While the plain text signature is still
+present, other structures come now also come into view. These are not
+human-legible under closer examination (using a hex-editor for example) because
+the data is encrypted. The plain text characters remaining comprise snippets of
+code, and some light header and footer information, identifying the file to
+reader applications.
 
-@steve, @rahman, @maior
-
-Using BinView,  
-
-My "closest possible" reading of James Joyce's "Ulysses" contain a malicious
-code injection. Were my readers to open the pictured file, it would erase their
-hard drives.
+To produce the third image, I encode the plain text version of the novel into
+the Portable Document Format (`.pdf`), another commonly circulated binary
+format for document storage. In an additional step, I use code injection
+techniques outlined in @steve, @rahman, @maior to introduce a malicious script
+into the header of the file. Depending on the version of the reader's Adobe
+Acrobat Reader, the code will execute when opening the document, with the
+potential of causing significant corruption to the system. The injection is
+clearly visible on the image to the right, manifesting as a "cavity" of
+un-encrypted characters. Steps could be taken to further mask the malicious
+script, blending it with the background encrypted-bet structure, which would
+make the injection much more difficult to find.
 
 ![Malicious code injection into the text of Laurence Sterne's *Tristram
-Shandy*. Unaltered PDF structure on the right. Cavitation in
+Shandy*. Unaltered PDF structure on the right. Cavitation indicating presence
+of injected code on the right.](image/png)
 
-I do not mean to imply that raw reading of this sort, at circuit and magnetic
-media level, will somehow come to supplement reading at the surface for meaning
-and representation. Microanalysis is meant to complement close reading: giving
-it physical space, time, and scope. But the reading for surface alone risks
-losing sight of the struggle for bare control of book and document as device.
-The device *can* determine the message when unchecked. In these conditions,
-reading for meaning or form alone risks losing its object of study, as surface
-representations change dynamically and tailor themselves to fit the reader's
-mood, to match the environment, or to please some remote censor. Best, Marcus,
-and Sontag are right in treating claims to symptomatic reading with suspicion,
-as claims to power. The reader of depth divines secret knowledge, with or
-without merit, creating an imbalance of interpretation. The writer on magnet
-and silicon does not merely claim to, but actually does transform surfaces.
-Critical reading must therefore begin with reclaiming the underlying material
+I do not mean to imply that "closest possible" reading of this sort, at the
+circuit and magnetic media level, will somehow come to supplement reading at
+the surface for meaning and representation. Microanalysis is meant to
+complement close reading: giving it physical space, time, and scope. But
+reading at the surface alone cannot reveal the struggle for bare control of the
+literary device. The machine *can* determine the message when unchecked. In
+these conditions, reading without depth risks losing its object of study, as
+surface representations change dynamically and tailor themselves to fit the
+reader's mood, to match the environment, or to please some remote censor. Best,
+Marcus, and Sontag are right in treating claims to symptomatic reading with
+suspicion, as claims to power. The reader of depth divines secret knowledge,
+with or without merit, creating an imbalance of interpretation. Critical
+reading in all dimensions, must therefore begin with the ethics of mutual
+legibility. It begins with readers reclaiming the underlying material
 conditions of meaning making. The answer to the machine remains in the machine.
 
 [^ln3-illusion]: See for example @kirschenbaum_mechanisms_2012, 135: "Computers
