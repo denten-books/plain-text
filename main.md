@@ -2868,7 +2868,7 @@ of the prose and by the sheer audacity of the project. Here's someone who has
 not only glimpsed the future, but brought it into being. The contemporary
 writer can drag and click passages around with more facility, but he has not
 himself structured his cognitive environment. Yet, the feeling of effortless
-textuality cannot be judged by the unreliable phonomenological accounts alone.
+textuality cannot be judged by the unreliable phenomenological accounts alone.
 To bring his system into being, Engelbart convened what he called a "bootstrap
 community," which through recursive self-improvement could lift itself up
 towards a smarter, more efficient, and as the words betray, a more human way of
@@ -2876,22 +2876,35 @@ working. To accomplish this, the group crafted new input and output devices.
 They wrote new programming languages, new compilers to interpret them, and
 debuggers to troubleshoot. They invented word editors and format control
 languages. Here's how Engelbart diagrams a *part* of his text-manipulation
-language:
+language in the same report:
 
 !["State--chart portrayal of part of text--manipulation control language,
 @engelbart_human_1969, 36."](images/engel-edit.png)
 
 The diagram shows much attention to the detail and a love for the writing
-craft. But there is also much complexity. It is near-impenitrible. In building
+craft. But there is also much complexity. It is near-impenetrable. In building
 their own tools, Engelbart's team lifted themselves up by the bootstraps. But
 it was not the machine that lifted them up---it was the process of creating the
-machine. The very metaphor of bootstrapping suggestes the impossibility of
-using one's boostraps to pull others out of the cave. As a side effect, text,
-so readily apparent on the page enters a complex system of executible code. The
+machine. The very metaphor of bootstrapping suggests the impossibility of using
+one's bootstraps to pull others out of the cave. As a side effect, text, so
+readily apparent on the page enters a complex system of executable code. The
 perception of material lightness of textual being comes at the price of
-legibility, as the complication of the textual mechanism comprehensible
+legibility. Would new authors find the same ease in the complication of the
+mechanism? I suspect not unless they become an active part of the
+"bootstrapping community."
 
-Three mechanisms: Goldberg's "Controller," the  AES-90, and Engelbart.
+As the chapter is about to take on the intellectual history of document
+structure, I propose we keep the above three devices at hand: Goldberg's
+Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of these,
+text structure and machine control lie before us for inspection. The second one
+is mute: a black slate. The last of these belongs to what Peter Denning calls
+"the third generation" of computer systems, an arrangement that continues to
+shape the contemporary human encounter with text. Here, the inscription
+fractures into traces of disparate kind: some that fade from view to appear
+elsewhere in the system in a more enduring form, as an arrangement of floating
+gates; some that persist in the flicker of the cathode ray or the flow of the
+liquid crystal, but only as long as the device draws power; and yet others that
+simply dissemble to create the illusion of effortless textuality.
 
 ### 3.3 Form as Concrete and Universal
 
