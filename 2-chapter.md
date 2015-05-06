@@ -418,17 +418,16 @@ against that commonly-held belief about the relationship between literature and
 aesthetics. To my mind, the distinction is impossible to define, let alone
 maintain in practice. Bias in favor of the aesthetic is bias in favor of a
 specific, historically- and materially- contingent idea of the aesthetic. That
-preconceived idea carries with it a hidden cost, introducing numerous blind
-spots into the study of literature at large, limiting the critical task in
-scope and relevance. Textual diffusion threatens not the humanity (or the
-humanities), but the existing socio-economic order that governs who gets to
-access, to interpret, and to archive literature as text and document. I begin
-with several propositions then: one that the literary field, understood in
-broad terms, is expanding, and two, that with a quantitative expansion comes
-qualitative change in the material make-up of the literary field. Where I start
-with a top-down, theoretical reconceptualization of literature as an
-epistemological category, I end with a bottom-up media history that traces the
-passage of pixel into text.
+preconceived idea introduces numerous blind spots into the study of literature
+at large, limiting the critical task in scope and relevance. Textual diffusion
+threatens not the humanity (or the humanities), but the existing socio-economic
+order that governs who gets to access, to interpret, and to archive literature
+as text and document. I begin with several propositions then: one that the
+literary field, understood in broad terms, is expanding, and two, that with a
+quantitative expansion comes qualitative change in the material make-up of the
+literary field. Where I start with a top-down, theoretical reconceptualization
+of literature as an epistemological category, I end with a bottom-up media
+history that traces the passage of pixel into text.
 
 When surveying the introductory literature on literature, the reader will
 invariably find a version of Said's "fundamental irreconcilability" position.
@@ -468,7 +467,12 @@ operational terms that I want to locate a notion of poetics, poetics capable of
 addressing not only the machinations of poetry and prose, but also of pixel,
 code, string, script, inscription, list, document, file, record, project, and
 archive. Rather than picky epicureans of high lit, I imagine my fellow
-travelers as voracious omnivores of text.
+travelers as voracious omnivores of text. My polemical aside in this chapter is
+not meant to re-introduce, much less argue for a side in contentious binary
+distinctions along which meta-commentary of this sort usually unfolds: science
+vs. the humanities, close reading vs. distant reading. In conceiving a field of
+activity to make space for this book, I cast my vote note for ether/or but for
+and.
 
 This is not to say that I advocate ignorance, nor do I follow the Russian
 formalist poet Vladimir Mayakovksy who in the beginning of the last century
