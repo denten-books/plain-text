@@ -3599,7 +3599,7 @@ appropriates the extra-functional elements of the writing mechanism. What
 initially seems a mere artifact of literary production becomes art. Literature
 thus taints technology, stripping away the pretense of pure functionalism.
 Under the condition of the literary, to reverse Kittler here, technology gains
-a new voice.  Nothing is determined about the encounter between human, machine,
+a new voice. Nothing is determined about the encounter between human, machine,
 and language. Each element of this triad contains a mere suggestion of rhythm
 and pace. The resulting symphony is a syncopation of all three elements. There
 is of course nothing particularly modern about his dynamic. The printing press
