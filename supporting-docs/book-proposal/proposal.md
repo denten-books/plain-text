@@ -4,13 +4,16 @@ author: Dennis Tenen
 ---
 \newpage
 
-## Theme and Argument 
+## Theme and Argument
 
-Plain text is a file format containing nothing but a "pure sequence of
-character codes." In technical terms, it stands in opposition to *fancy text*:
-"text representation consisting of plain text plus added information."[^ln-uni]
-The book unfolds a history of and an argument for plain text. In making my
-case, I argue that "other information" routinely embedded in all forms of
+Plain text is a file format and a frame of mind. As a file format, it contains
+nothing but a "pure sequence of character codes." In technical terms, it stands
+in opposition to *fancy text*: "text representation consisting of plain text
+plus added information."[^ln-uni] As a frame of mind, it indicates a preference
+for human-readable input and output streams of data, for computatinal tools
+that are simple and elegant, and for open systems that are tranaparent to the
+user. The book unfolds a history of and an argument for plain text. In making
+my case, I argue that "other information" routinely embedded in all forms of
 contemporary textuality includes much more than instructions for "font size"
 and "paragraph justification." Increasingly, devices that mediate literary
 activity encode specific models of governance and control.
