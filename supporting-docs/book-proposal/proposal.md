@@ -115,26 +115,26 @@ outlining a recent discussion on surface reading. I ask: What lies beneath the
 text, literally? The question leads to the common distinction between form and
 content. Here, I find that, going back to the Russian formalist reception of
 Hegelian aesthetics, "form" was at times used to indicate concrete shape and at
-times to indicate abstract universals (as technique and formula). A case study
-in removable storage (like ticker tape and floppy disks) elucidates the
-movement of text from human-legible inscription on page (and punch card) to
-magnetic inscription invisible to the naked human eye, complicating the
-formalist vocabulary. The case study unfolds the distinction between print (in
-which matter, form, and content lie flat) and screen (where the three layers
-occupy physically distinct strata of the Document--object model, providing only
-the illusion of flattened textuality). The apparent immateriality of digital
-text brings promise of epistemological (social) and even phenomenological
-(personal) transformation. But it also comes at a cost. Inscription on magnetic
-tape cannot be assumed to correspond to the composite screen image. Forms of
-governance (like Digital Rights Management) can now be embedded deep within the
-structure of the "data object" itself and further hidden from view, precluding
-(and sometimes making illegal outright) the possibility of interpretation (of
+times to indicate abstract universals as technique and formula. A case study in
+removable storage---like ticker tape and floppy disks---elucidates the movement
+of text from human-legible inscription on page and punch card to magnetic
+inscription invisible to the naked human eye, complicating the formalist
+vocabulary. The case study unfolds the distinction between print, in which
+matter, form, and content lie flat, and screen, where the three layers occupy
+physically distinct strata of the document--object model, providing only the
+illusion of flattened textuality. The apparent immateriality of digital text
+brings promise of epistemological (social) and even phenomenological (personal)
+transformation. But it also comes at a cost. Inscription on magnetic tape
+cannot be assumed to correspond to the composite screen image. Forms of
+governance like Digital Rights Management can now be embedded deep within the
+structure of the "data object" itself and further hidden from view, precluding,
+and sometimes making illegal outright, the possibility of interpretation (of
 any sort). The discussion concludes with a stark image, illustrating the
 contrast between screen surface and the underlying bit structure. To produce
 the image, I use reverse-engineering tools to inject malicious code into an
-Adobe Acrobat file (`.pdf`). The deformed text threatens (harmlessly) to damage
-the literary device. A thick description of the literary device (now as gadget
-or instrument) brings legibility to the fore of reading ethics.
+Adobe Acrobat file (`.pdf`). The deformed text threatens to damage the literary
+device. A thick description of the literary device, now as gadget or
+instrument, brings legibility to the fore of reading ethics.
 
 ### Chapter 4: Recursive Encounters with Oneself
 

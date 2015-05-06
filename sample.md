@@ -19,27 +19,26 @@ outlining a recent discussion on surface reading. I ask: What lies beneath the
 text, literally? The question leads to the common distinction between form and
 content. Here, I find that, going back to the Russian formalist reception of
 Hegelian aesthetics, "form" was at times used to indicate concrete shape and at
-times to indicate abstract universals (as technique and formula). A case study
-in removable storage (like ticker tape and floppy disks) elucidates the
-movement of text from human-legible inscription on page (and punch card) to
-magnetic inscription invisible to the naked human eye, complicating the
-formalist vocabulary. The case study unfolds the distinction between print (in
-which matter, form, and content lie flat) and screen (where the three layers
-occupy physically distinct strata of the Document--object model, providing only
-the illusion of flattened textuality). The apparent immateriality of digital
-text brings promise of epistemological (social) and even phenomenological
-(personal) transformation. But it also comes at a cost.  Inscription on
-magnetic tape cannot be assumed to correspond to the composite screen image.
-Forms of governance (like Digital Rights Management) can now be embedded deep
-within the structure of the "data object" itself and further hidden from view,
-precluding (and sometimes making illegal outright) the possibility of
-interpretation (of any sort). The discussion concludes with a stark image,
-illustrating the contrast between screen surface and the underlying bit
-structure. To produce the image, I use reverse-engineering tools to inject
-malicious code into an Adobe Acrobat file (`.pdf`). The deformed text threatens
-(harmlessly) to damage the literary device. A thick description of the literary
-device (now as gadget or instrument) brings legibility to the fore of reading
-ethics.
+times to indicate abstract universals as technique and formula. A case study in
+removable storage---like ticker tape and floppy disks---elucidates the movement
+of text from human-legible inscription on page and punch card to magnetic
+inscription invisible to the naked human eye, complicating the formalist
+vocabulary. The case study unfolds the distinction between print, in which
+matter, form, and content lie flat, and screen, where the three layers occupy
+physically distinct strata of the document--object model, providing only the
+illusion of flattened textuality. The apparent immateriality of digital text
+brings promise of epistemological (social) and even phenomenological (personal)
+transformation. But it also comes at a cost. Inscription on magnetic tape
+cannot be assumed to correspond to the composite screen image. Forms of
+governance like Digital Rights Management can now be embedded deep within the
+structure of the "data object" itself and further hidden from view, precluding,
+and sometimes making illegal outright, the possibility of interpretation (of
+any sort). The discussion concludes with a stark image, illustrating the
+contrast between screen surface and the underlying bit structure. To produce
+the image, I use reverse-engineering tools to inject malicious code into an
+Adobe Acrobat file (`.pdf`). The deformed text threatens to damage the literary
+device. A thick description of the literary device, now as gadget or
+instrument, brings legibility to the fore of reading ethics.
 
 ### 3.1 Literary Device as Gadget and Technique
 
@@ -61,7 +60,7 @@ studies, is an artifact of an unfortunate translation from Russian. The word
 as well, but in modern usage, it usually carries a concrete connotation, as "an
 object, machine, or piece of equipment that has been made for a special
 purpose" (Merriam-Webster). "Laying bare the device," for Shklovsky, meant
-making the explicit the implicit mechanism of metaphor, particularly in cases
+making explicit the implicit mechanism of the metaphor, particularly in cases
 where such metaphors turn "stale," "automatic," and "naturalized," that is,
 bereft of their original poetic and evocative power. One could write, for
 example, "a field of study," without much thought about figurative space.
@@ -108,18 +107,19 @@ when exposed, the device fails to captivate for long. Disused, it passes out
 sight, covered in snow. The narrator "probes the glaze" of the street,
 penetrating through to the surface level and in this also finds a palindrome,
 which, not only resembles the pipes visually, but is in itself a
-surface-revealing inscription that in some sense makes pipe surface visible
-again, through the snow. Although it is impossible for the word "pipe" to reach
-beyond the page as representation, the mimetic surface inscription draws
-attention to the word's visual shape and acoustics, inviting readers to perform
-the symmetry of its assonance and consonance. The reader forms the named round
-vowels and mouths its obstruents. "Otto" contorts the body to shape it in
-accordance with the sound image: reverse mimesis, the body as sound pipe.  The
-moment of corporeal reenactment briefly transcends representational and
-paper-bound confines of the medium. The performance makes the "making of the
-literary technique obvious," obvious. In this lies the prevalent characteristic
-of Nabokov's mature work, which often seeks to lift off from the page through
-sheer recursion and multilayeredness of literary technique.
+surface-revealing inscription that makes pipe surface visible again, through
+the snow. Although the metaphoric pipe cannot reach beyond the page, the
+mimetic surface inscription draws attention to the word's visual shape and
+acoustics, inviting readers to perform the symmetry of its assonance and
+consonance. The reader forms the named round vowels and mouths its obstruents.
+"Otto" contorts the body to shape it in accordance with the sound image:
+reverse mimesis, the body as sound pipe. The moment of corporeal reenactment
+briefly transcends representational and paper-bound confines of the medium. The
+performance makes the "making of the literary technique obvious," obvious. In
+this lies the prevalent characteristic of Nabokov's mature work, which often
+seeks to lift off of the page through sheer recursion of literary technique,
+where each succuessive turn of the abstraction brings the word closer to the
+reader.
 
 Yet for all the language games, literary technique in the sense used by the
 formalists remains tied to the medium. Were someone to ask: What lies beneath
@@ -200,7 +200,7 @@ the phantasmal shell of its former appearance.[^ln3-denning]
 electronic computing" outlined in Peter Denning's "theory of operating systems
 [@denning_third_1971]."
 
-#### A. Removable storage media and automation, 1725-1964.[ln3-loom]
+#### A. Removable storage media and automation, 1725-1964.[^ln3-loom]
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg's 1911 patent, simply titled
@@ -250,11 +250,11 @@ fragile, unwieldy, and most of all, visible.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card (@may_ibm_1981, 744)." Image by Pointillist
+a typed page and a recorded card [@may_ibm_1981, 744]." Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
 The principles of magnetic recording were developed by Oberlin Smith (among
-others), the American Engineer who also filed several inventions related to
+others), the American engineer who also filed several inventions related to
 weaving looms at the end of the nineteenth century. In 1888, inspired by
 Edison's mechanical phonograph, Smith made public his experiments with an
 "electrical method" of sound recording using a "magnetized cord" (cotton mixed
@@ -284,7 +284,7 @@ immutable form, and as a separate operation, removed from the immediate process
 of inscription. The very invention of word processing thus corresponds to the
 decline of text into ephemera. What was visible through a hole punch on ticker
 tape, was now submerged into tape. The tape no longer afforded human legibility
-nor unaided comprehension. Encoding used by MT/ST retained the familiar (from
+nor comprehension. Encoding used by MT/ST retained the familiar (from
 the earlier sections) underlying structure (7-bit encoding, in this case)
 which, on tape, ceased to be recoverable by the naked eye. The inscription lay
 literally beyond (human) sense. Lacking the perceptual apparatus to perceive
@@ -305,8 +305,8 @@ inscription. This property is as perilous as it is liberating: perilous,
 because the flows of power and control can now be submerged under the
 shimmering surface of the screen, and liberating, because loosely coupled to
 its material substratum texts become both more fluid and more portable. Plainly
-put, the barriers to copying, sharing, exchanging, editing, remixing, and
-disseminating texts are reduced to a minimum.
+put, the systematic barriers to copying, sharing, exchanging, editing,
+remixing, and disseminating texts are reduced to a minimum.
 
 Ersatz isomorphism (between disk storage and screen image) leads to the
 reception of digital text as an ephemeral artifact. With the illusory role of
@@ -349,11 +349,12 @@ representation on a cathode ray tube and the alternation of the display by
 human operator in order to deliver instructions to the computer
 [@engelbart_x-y_1970]."
 
-The CRT closes the circuit between human and machine, but at a cost. Where in
-short-lived screen-less word processors (like the IBM MT/ST) the operator would
-have to keep the underlying structure of the document in mind, the CRT unfolds
-the structure topographically, allowing for spatial navigation along the
-document---restoring, in a sense, the natural affordances of print. Data
+The CRT closes the circuit between human and machine, but at a cost. In
+practice, the short-lived screen-less word processors (like the IBM MT/ST)
+necessitated for the cognitively arduous task of continuously keeping the
+underlying document structure in mind's eye. They CRT lifts the burden in
+unfolding the structure topographically, allowing for spatial navigation along
+the document---restoring, in a sense, the natural affordances of print. Data
 becomes visible again. Moreover, represented in the shimmer of the cathode ray,
 it attaches itself lightly to the retina. Users trying out this way of writing
 for the first time report that the screen liberates them material confines of
@@ -495,46 +496,49 @@ well-formed rhetorical message advancing key elements of Engelbart's research
 program, which aimed to develop new data structures in combination with new
 ways of displaying them. Yet I cannot help but be carried away by the fluency
 of the prose and by the sheer audacity of the project. Here's someone who has
-not only glimpsed the future, but brought it into being. The contemporary
-writer can drag and click passages around with more facility, but he has not
-himself structured his cognitive environment. Yet, the feeling of effortless
-textuality cannot be judged by the unreliable phenomenological accounts alone.
-To bring his system into being, Engelbart convened what he called a "bootstrap
-community," which through recursive self-improvement could lift itself up
-towards a smarter, more efficient, and as the words betray, a more human way of
-working. To accomplish this, the group crafted new input and output devices.
-They wrote new programming languages, new compilers to interpret them, and
-debuggers to troubleshoot. They invented word editors and format control
-languages. Here's how Engelbart diagrams a *part* of his text-manipulation
-language in the same report:
+not only glimpsed the future, but has also brought it into being. The
+contemporary author can drag and drop passages around with more facility, but
+he has not himself structured his cognitive environment. In Engelbart's terms,
+someone else has augmented the author's intellect, in ways that may or may not
+fit the individual psyche. That feeling of effortless textuality cannot
+therefore be taken at face value, by the unreliable phenomenological accounts
+alone. To bring his system into being, Engelbart convened what he called a
+"bootstrap community," which through recursive self-improvement could lift
+itself up towards a smarter, more efficient, and as the report's lexicon
+betrays, a more human way of working. To accomplish this, the group crafted new
+input and output devices. They wrote new programming languages, new compilers
+to interpret them, and debuggers to troubleshoot. They invented word editors
+and format control languages. Here's how Engelbart diagrams a *part* of his
+text-manipulation language in the same report:
 
 !["State--chart portrayal of part of text--manipulation control language,
 @engelbart_human_1969, 36."](images/engel-edit.png)
 
-The diagram shows much attention to the detail and a love for the writing
-craft. But there is also much complexity. It is near-impenetrable. In building
-their own tools, Engelbart's team lifted themselves up by the bootstraps. But
-it was not the machine that lifted them up---it was the process of creating the
+The diagram shows much attention to the detail and love for the writing craft.
+But there is also much complexity. It is near-impenetrable. In building their
+own tools, Engelbart's team lifted themselves up by the bootstraps. But it was
+not the machine that lifted them up---it was the process of creating the
 machine. The very metaphor of bootstrapping suggests the impossibility of using
-one's bootstraps to pull others out of the cave. As a side effect, text, so
-readily apparent on the page enters a complex system of executable code. The
-perception of material lightness of textual being comes at the price of
-legibility. Would new authors find the same ease in the complication of the
-mechanism? I suspect not unless they become an active part of the
-"bootstrapping community."
+one's bootstraps to pull others out of the Platonic cave. As a side effect of
+that effort, text, before readily apparent on the page, now enters a complex
+system of executable code and control structure. The perception of material
+lightness of textual being comes at the price of legibility. Would new authors
+find the same ease in the complication of the mechanism? I suspect not unless
+they become an active part of a "bootstrapping community" of their own.
 
 As the chapter is about to take on the intellectual history of document
 structure, I propose we keep the above three devices at hand: Goldberg's
 Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of these,
 text structure and machine control lie before us for inspection. The second one
 is mute: a black slate. The last of these belongs to what Peter Denning calls
-"the third generation" of computer systems, an arrangement that continues to
-shape the contemporary human encounter with text. Here, the inscription
-fractures into traces of disparate kind: some that fade from view to appear
-elsewhere in the system in a more enduring form, as an arrangement of floating
-gates; some that persist in the flicker of the cathode ray or the flow of the
-liquid crystal, but only as long as the device draws power; and yet others that
-simply dissemble to create the illusion of effortless textuality.
+the "third generation" of computer systems, an assemblage of storage, input,
+and output devices that continues to shape the contemporary human encounter
+with text. In this period, the inscription fractures into traces of disparate
+kind: some that fade from view to appear elsewhere in the system in a more
+enduring form, as an arrangement of floating gates; some that persist in the
+flicker of the cathode ray or the flow of the liquid crystal, but only as long
+as the device draws power; and yet others that simply dissemble to create the
+illusion of effortless textuality.
 
 ### 3.3 Form as Concrete and Universal
 
@@ -635,14 +639,14 @@ metaphysical state, somewhere beyond the confines of the material universe. By
 contrast, a physical instantiation of that object (a specific chair) embodies a
 somewhat more limited, even corrupted, version of that perfect idea. The task
 of the philosopher becomes to reconstruct the single ideal notion of the
-perfect chair from its many imperfect instantiations. A contemporary computer
-scientist will recognize in this chain of reasoning some of the principles
-behind object-oriented programming: a way of building software that works by
-defining abstract "object classes" and invoking them as "class instances"
+perfect chair from its many imperfect instantiations. A computer scientist will
+recognize in this chain of reasoning some of the principles behind
+object-oriented programming: a way of building software that works by defining
+abstract "object classes" and invoking them as "class instances"
 [@hoare_record_1965, @nygaard_history_1981]. Similarly, for Plato and later for
 René Descartes, G.W.F. Hegel, and other so-called "idealists," ideas provide us
 with lasting universal "templates" for instantiation within the contingent and
-always changing physical confines of the material world.[^ln11-descartes]
+always changing physical confines of the material world.[^ln3-descartes]
 
 In Plato we find a number of words that, depending on the translation, stand in
 for the English "form." These include *eidos* (essence), *idea* (idea),
@@ -654,8 +658,8 @@ notices that some elements, like water, change their appearance
 (*φανταζομένων*) while remaining essentially the same substance. Benjamin
 Jowett translates the passage:
 
-> Thus, then, as the several elements never present themselves in the same
-> form,[*phantazomenōn*] how can anyone have the assurance to assert positively
+> Thus, then, as the several elements never present themselves in the same form
+> [*phantazomenōn*], how can anyone have the assurance to assert positively
 > that any of them, whatever it may be, is one thing rather than another?
 > [@plato_timaeus_1998, 49d]
 
@@ -693,7 +697,7 @@ of shuttle [@plato_dialogues_1937, 389a-b]." In *Cratylus*, *eidos* stands for
 the "universal lasting ideal" of all shuttles: exactly the opposite of
 *phantazomenōn* as "ephemeral instantiation" in the previous passage! Yet both
 *eidos* and *phantazomenōn* were reasonably translated into English as "form",
-indicating a fundamental overloading of the concept.[^ln11-plato]
+indicating a fundamental overloading of the concept.[^ln3-plato]
 
 Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
 of his struggle with the Platonic concept of form. In his "Lectures on
@@ -707,7 +711,7 @@ Hegel writes: "We translate the Greek word *eidos* by 'genus' or 'species',"
 but when "genus" or "species" are "seized as a number of similar determinations
 collected by reflection from several individuals, to serve as a *mark* for the
 convenience of the understanding, then we have the Universal in quite an
-external form [hegel_philosophy_1870, 250]." In other words, as soon as *eidos*
+external form [@hegel_philosophy_1870, 250]." In other words, as soon as *eidos*
 is instantiated, it moves from being an ideal form into an apparent shape, as
 an epistemological category.
 
@@ -726,7 +730,7 @@ Zoologists would, at that point, need simply adjust their categories to include
 new forms of feline being. Ideal feline being moves on immediately thereafter,
 continuing to develop and leaving behind only the husk or a "snapshot" of what
 it meant to be a cat in times already past. For Hegel, one should not confuse
-the static snapshot with the animate ideal.
+that static snapshot with the animate ideal.
 
 Hegel's "concrete universal" therefore exists in the real, physical world. One
 way to understand this difficult concept is to think of it as capturing both
@@ -742,7 +746,7 @@ in which meaning connects to structure at the level of magnetic storage medium.
 The question of textual depth has several possible answers depending on how we
 model text. In the binary model, appearances conceal inner content. In the
 tripartite model suggested by Hegel's "concrete universal," we perceive text as
-indeterminate (or overdetermined) form, which leads to both ideas and physical
+indeterminate (or overdetermined) form, spanning both ideas and physical
 medium.
 
 ### 3.4 Sound and Formula
@@ -790,23 +794,23 @@ text. "If excessive stress on content provokes the arrogance of interpretation,
 more extended and more thorough descriptions of form would silence," she
 writes. "The best criticism, and it is uncommon, is of this sort that dissolves
 considerations of content into those of form [@sontag_against_1966, 8-9]."
-Marcus and Best remind the reader that Sontag's manifesto is more than a
-rhetorical strategy, but also an "affective and ethical stance
+Marcus and Best remind the reader that Sontag's manifesto is not just an
+argument against interpretation, but also an "affective and ethical stance
 [@best_surface_2009, 10]." Strategies of "deep" interpretation carry with them
 also a claim to access, and an imbalance of interpretive acumen. The critic
 uncovers what the lay reader does not and cannot see. As an ethical stance,
 reading for external forms flattens the hierarchy between the lay reader and
 the professional interpreter. In this sense, Best, Marcus, and Sontag continue
-in the liberal Lutheran tradition of vernacular exegesis. All are priests at
-the surface.
+in the liberal Lutheran tradition of vernacular exegesis. All men are priests
+at the surface.
 
 Yet, from the offered strategies of surface reading, reading for form strikes
 me as the most ambivalent. It is not clear, for example, what exactly Sontag
 means when she entreats her readers to concentrate on "how it is what it is"
 and not on "showing what it means." This sort of formalism seems to counteract
 the type of surface reading suggested by reading for "literal meaning," for
-example. Sontag's "erotics of art" stands in opposition to explanatory,
-meaning-making mode of analysis. Erotics imply the transmission of
+example. Sontag's "erotics of art" stands in opposition to descriptive,
+explanatory, meaning-making mode of analysis. Erotics imply the transmission of
 understanding through bodily, lived experience. I understand clearly and relate
 to the stance against priestly mediation. But as a positive program, formalist
 poetics puzzle me, because "form" already occupies that ambivalent and
@@ -815,10 +819,10 @@ universal in that it connects physical shape with meaning. One cannot therefore
 entirely break out of the hermeneutic circle. Form leads from sense as
 perception to sense as meaning making. Formalist poetics, as I will show in
 this section, mirror the ambiguity of form in expanding the literary research
-program at once toward the outward material shape and into the inward universal
-ideal. Finally, as perhaps yet another gesture towards radical surface reading,
-I plan to examine the material structure of contemporary document at the level
-of physical magnetic storage medium.
+program at once toward the exterior concrete shape and into the inward
+universal ideal. Finally, as perhaps yet another gesture towards radical
+surface reading, I plan to examine the material structure of contemporary
+document at the level of storage media.
 
 But first, to form. In an earlier counterinsurgency against reading for
 content, at the turn of the 20th century, Russian and Italian formalists strove
@@ -829,7 +833,7 @@ this vein, the Italian futurist Filippo Marinetti wrote about the "grotesque
 funeral" of romantic notions of beauty, and the rise of a new "geometric and
 mechanical splendor." His generation was instead "in love with matter," wanting
 "to penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
-???]."[^ln11-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
+???]."[^ln3-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
 Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
 "becomes invisible" through frequent use. Such dead and transparent language
 can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
@@ -842,7 +846,7 @@ Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
 (instrumental in developing the notion of formalist poetics) were also
 responding negatively to the Hegelian tradition of reading for deep, symbolic
 interpretation. In a seminal 1917 volume on the "Theory of Poetic Language,"
-Osip Brik writes, mockingly:[ln3-translate]
+Osip Brik writes, mockingly:[^ln3-translate]
 
 > "The art of poetry is a symbolic art. The language of poetry is a
 symbolic language. Euphony and rhythm are the fair garments that clothe the
@@ -868,18 +872,18 @@ poetic impulses [@shklovksy_sborniki_1917, 25]." Of the sixteen or so unique
 essays that appear in the three collected volumes (some of the essays repeat
 across volumes), thirteen have the word "sound" (*zvuk*), or some variation
 thereof, in the title, as "sound image," "sound gesture," and "sound
-repetition". To these cluster of essays we may attribute the Russian formalist
-concern with *zaum* (literally, beyond sense, or beyonsense
+repetition". To this cluster of essays we may attribute the Russian formalist
+concern with *zaum*---literally, beyond sense, or beyonsense
 [@khlebnikov_collected_1987, 179; @khlebnikov_king_1990, 151;
-@labelle_lexicon_2014, 63]): nonsensical sounds that nevertheless elicit an
-affective, mystical response, giving voice to ideas that are difficult to
-explain rationally. Poetry in the symbolic mode encodes meaning as inner sense:
-the elephant "stands for" memory, or the like. *Zaum* poetics (beyond sense)
+@labelle_lexicon_2014, 63]---nonsensical sounds that nevertheless elicit an
+affective, lived response, giving voice to ideas that are difficult to explain
+rationally. Poetry in the symbolic mode encodes meaning as inner sense: the
+elephant "stands for" memory, or the like. *Zaum* poetics (beyond sense)
 instead evoke affect through external shape, as sound. Khlebnikov writes that
 "incantation and beyonsense language are appeals 'over the head' of government
 straight to the population of feelings, a direct cry to the predawn of the soul
 [@khlebnikov_king_1990, 152]." Shklovsky defines *zaum* as "without words but
-with sound:
+with sound. He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -933,13 +937,13 @@ is, like a *zaum* incantation, devoid of obvious meaning. It is a container.
 But unlike given incantations, formulas have a life of their own, in a trans-
 or meta- human way, not accessible to the individual cantor. They can be evoked
 but not quite transformed. Their historical momentum and genetic development
-overpowers any individual contribution. We expand with in it, and not the other
+overpowers any individual contribution. We expand within *it*, and not the other
 way around. Device in this sense, means exactly the opposite of form in the
 sense of a private utterance, by which an individual author breaks with an
 ossified image (as in Shklovsky's *uao*).
 
-The contradiction of understanding form as sound, and form as formula, lies at
-the center of formalist poetics.  As critics, the formalists privileged moments
+The contradiction of understanding form as sound and form as formula, lies at
+the center of formalist poetics. As critics, the formalists privileged moments
 of mystic and trans-rational poetic rebellion against static literary forms. As
 literary scholars, they reached for Hegel's concrete universal in the guise of
 trans-human formulae that have a life of their own.
@@ -947,9 +951,8 @@ trans-human formulae that have a life of their own.
 [^ln3-move]: "Move" in a sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
-Where we started with a dichotomy, we arrive at a model of textuality that
-contains three parts: matter, form, and content, with form occupying a
-mediating, ambivalent role between matter and content. The history of Western
+Where we started with a dichotomy, we arrive at a tripartite model of
+textuality in which form bridges matter and content. The history of Western
 aesthetics can be seen as pulling the work of art through one or several of
 these layers of analysis: as when Susan Sontag entreats her reader to pay more
 attention to form (as sensuous shape), or when Johanna Drucker asks her reader
@@ -998,7 +1001,7 @@ transmit, transform, and transcend the ideas of others relies on their
 ephemeral nature. Ideas deposited in ossified matter, in fixed shapes, do not
 travel well. And there are plenty of "actors" that would like for culture to
 return to the time of singular thought, etched in monolithic tablets, whether
-made of silicone or of stone.
+made of silicone or made of stone.
 
 But, the loose coupling of content to its underlying strata of form and matter
 also comes at a cost. As surface phenomena, text hides the flows of power and
@@ -1124,22 +1127,21 @@ to abstract" entities, as would be done in the process of optical character
 recognition (OCR). An important part of the digitization process, OCR "lifts"
 ideational content from the page image. Without OCR, common document formats
 like `.pdf` and `.tiff` therefore remain *merely visual representations*. They
-do not contain text or "abstract objects" for the machine. They instead merely
-externalized representations of text, or, "concrete objects." Just as a human
-must "read" a text first in order to understand it, OCR attempts to "recognize"
-textual content from the image as a first step to further manipulation.
-Leaving aside the question of machine "understanding," recognition in this case
-implies more narrowly the conversation of image into text. This implies also
-that textuality occupies a distinct and privileged category in the document
-epistemology, from the point of view of the machine. Another way to think about
-machine text would be to describe "images" as one type of "internal data
-structure" and text as another, more "structured" and "more internal," mode of
-representation. Consider that in the hierarchical document--object model images
-can contain text, but text cannot contain images. Text, in that sense, lies at
-the innermost location in series of nested "outer" containers. Lacking a model
-of "comprehension" or "understanding," the document-object model merely posits
-text as "content" only in the sense of it being the "innermost" object of
-recognition.
+do not, at that stage, contain text or "abstract objects" as such. They are
+just pictures. Similar to how humans must "read" a text first in order to
+understand it, OCR attempts to "recognize" textual content from the image as a
+first step to further manipulation. Leaving aside the question of machine
+"understanding," recognition in this case implies more narrowly the
+conversation of image into text. This implies also that textuality occupies a
+distinct and privileged category in the document epistemology, from the point
+of view of the machine.  Another way to think about machine text would be to
+describe "images" as one type of "internal data structure" and text as another,
+more "structured" and "more internal," mode of representation. Consider that in
+the hierarchical document--object model images can contain text, but text
+cannot contain images.  Text, in that sense, lies at the innermost location in
+series of nested "outer" containers. Lacking a model of "comprehension" or
+"understanding," the document-object model merely posits text as "content" only
+in the sense of it being the "innermost" object of recognition.
 
 The "recognition" of characters does not, however, fully capture the variety of
 abstract document objects, which besides letters and words include paragraphs,
@@ -1153,13 +1155,13 @@ field of document image processing, calls the recognition of this sort of
 objects, at the intersection of concrete and universal, "document lay-out
 understanding," which consists of "functional labeling of blocks [...]
 distinguished in some way by their physical features (such as by font size) and
-by the 'meaning[ of the block [@ogorman_document_1993, 1162-63;
-@ogorman_document_1995, 82-99 (in the reconstructed edition)]." But note
-also that document layout (alternatively "formatting" or the arrangement of
-"concrete objects") could incorporate also meaningless (to humans) structures,
-such as the incidental "rivers" of empty space formed between the words. That
-sort of concrete structure goes "unrecognized" because it doest not correspond
-to any abstract objects.
+by the 'meaning' of the block [@ogorman_document_1993, 1162-63;
+@ogorman_document_1995, 82-99 (in the reconstructed edition)]." But note also
+that document layout (alternatively "formatting" or the arrangement of
+"concrete objects") could also incorporate meaningless (to humans)
+structures, such as the incidental "rivers" of empty space formed between the
+words. That sort of concrete structure goes "unrecognized" because it doest not
+correspond to any abstract objects.
 
 ![Method for extracting document structure based on "nearest-neighbor clustering
 of page components [@ogorman_document_1993, 1164]."](images/docstrum.png)
@@ -1169,7 +1171,7 @@ concrete objects to output device. This could include printing the document
 onto paper, or publishing it online, for example. It is at this moment that the
 full weight of Hegelian "universal concrete" makes itself known. The "concrete"
 object in the document--object model is still only a *description* of the
-two-dimensional space and represents only some "possible formatted images of
+two-dimensional space and represents some "possible formatted images of
 abstract objects."[^ln3-dom] To repeat: the concrete object represents
 "possible" formatted images, and not yet actual formatted images! To actualize
 materially, the document must be fixed and flattened back out onto a medium
@@ -1177,17 +1179,18 @@ like screen or paper. These media have actual dimensions. In this way, a
 footnote placed at the bottom of the page at the level of concrete object can
 then be rendered at the bottom of an A1 (841 by 1,189 millimeters) sized paper
 or at the bottom of an much smaller A4 sized sheet (210 by 297
-millimeters).[^ln3-iso216] In yet another formative paper in the history of
-contemporary textuality, Brian Kernighan and Joseph Ossanna describe TROFF, a
-text processor written circa 1973 for the PDP-11 outputting to Graphic Systems
-Cat typesetter. In 1979, Kernighan reports modifying the original program to
-produce output for a greater variety of typesetters. Kernighan explains, "TROFF
-produces its output in a device-independent form," and its output "must be
-processed by a drive for that device to produce printed output
-[@kernighan_troff_1992]."
+millimeters).[^ln3-iso216]
 
-This stage flattens out the layers of ideas and formatting, rendering and
-making them visible on screen or page [@furuta_document_1982, 419-20;
+In yet another formative paper in the history of contemporary textuality, Brian
+Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
+1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
+Kernighan reports modifying the original program to produce output for a
+greater variety of typesetters. Kernighan explains, "TROFF produces its output
+in a device-independent form," and its output "must be processed by a drive for
+that device to produce printed output [@kernighan_troff_1992]."
+
+This stage flattens out the layers of ideas and visual style, to render and to
+make them visible on screen or page [@furuta_document_1982, 419-20;
 @kimura_structure_1984]. Similar to Hegel's "universal concrete," the
 "formatting layer" in the document--object model bridges the gap between ideas
 and matter. Formatting is where ideas connect to physical shape. This is a most
@@ -1222,7 +1225,7 @@ onion-like layered structure available to user for examination. But as we will
 see shortly, the condition of complete system visibility persists only for a
 short period in history. Once incorporated, the document-object model gains a
 measure of opacity and even legal protection from "unauthorized access" to
-protected inner document layers.
+protected innermost document layers.
 
 !["System Command and Data Flow." Data structures at "disk file" level do not
 necessarily correspond to text structures at "user terminal" or "line printer"
@@ -1239,7 +1242,7 @@ Standard ISO 216. In the Imperial System these equate to  33.1in × 46.8in and
 
 ### 3.6 Smart Contracts (A Legal Interlude)
 
-Exposing the document--object model governing the production of text through
+Exposing the document--object model that governs the production of text through
 contemporary reading and writing devices gives the question of surface and
 depth yet another connotation. What lies beneath the text? We are accustomed to
 thinking about document structure metaphorically and answer in accord: meaning,
@@ -1296,12 +1299,12 @@ throughout. On one device, that pipeline may extend just a few inches,
 connecting disk storage and output display. On a network device that pipeline
 can stretch across continents, spanning widely divergent regions of legal and
 administrative control. Whatever the case may be, the subject encounters the
-"protocol stack" from without, on the periphery of the network (see Figure).
-When paging through an electronic book (usually an OSI-compliant device
-displaying DOM-structured files), for example, the reader has access only to
-the outputs emanating from the application layer, and at that, only at the
-exposed "window" level of the DOM. The perceived "content" constitutes a small
-fraction of the underlying "formal" topology.
+"protocol stack" from without, on the periphery of the onion-like network. When
+paging through an electronic book (usually an OSI-compliant device displaying
+DOM-structured files), for example, the reader has access only to the outputs
+emanating from the application layer, and at that, only at the exposed "window"
+level of the DOM. The perceived "content" constitutes a small fraction of the
+underlying "formal" topology. What you see is far less than what you get.
 
 [^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the Word Wide
@@ -1310,7 +1313,7 @@ Web Consortium (W3C) in the case of the DOM.
 The application layer stops at the subject. Access to the layers intrinsic to
 device operation (and consequently to analysis) are sometimes "merely" obscured
 and sometimes made illicit outright, as is arguably the case with U.S. Code,
-Title 17, Chapter 12, §1201, titles "Circumvention of copyright protection
+Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
 systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
 1998. A literary scholar may be familiar with some provisions of American
 copyright law governing text as surface representation: US Code, Title 17
@@ -1384,16 +1387,16 @@ The associated schematics (pictured here) show data and control codes
 "concatenated" into the same underlying data structure (in this case, AVI media
 container format). The seemingly innocuous "text control" layer of the 1960s,
 used to specify formatting and visual style, was now extended to carry
-mechanisms for legal control.
+mechanisms for legal control, tied to specific legislation.
 
-The idea of smart contracts contains an notable artifact of implementation,
+The idea of smart contracts contains a notable artifact of implementation,
 relevant to our discussion on surface reading. To the extent that control codes
 are legible to the interpreter, they are also open to "abuse and
 circumvention." For this reason, encryption plays a key part in the smart
 contracts system. Once intertwined, data and control must be encrypted to
 prevent "unauthorized access." This brings us to the glaring problem at the
 very heart of the smart contract implementation. The spirit of contractual law
-by its very nature demands explicit consent. In the language of English common
+by its very nature demands *explicit* consent. In the language of English common
 law, contracts involve promises as "manifestation of intention," which "adopt
 an external or objective standard for interpreting conduct
 [@american_law_institute_restatement_1973, §1-2.]" The key words in this
@@ -1419,7 +1422,7 @@ case, means "to descramble a scrambled work, to decrypt an encrypted work, or
 otherwise to avoid, bypass, remove, deactivate, or impair a technological
 measure, without the authority of the copyright owner (17.1201.a.3.A)." A
 technological measure that "effectively controls access" is further defined as
-"measure, [that] in the ordinary course of its operation, requires the
+measure that "in the ordinary course of its operation, requires the
 application of information, or a process or a treatment, with the authority of
 the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
 literary scholar, that means that when encountering a text on a digital device,
@@ -1484,7 +1487,7 @@ textual critic, such instability of medium means analysis cannot be confined to
 reading for surface meaning alone. How can close or distant reading practices
 persist, when the reading device reconfigures a text dynamically: to fit
 individual taste, mood, or politics?[^ln3-modern] Or, when it simply prevents
-access to the content?
+all access to content?
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
 literature at all. In purchasing a medieval text, the reader still buys not a
@@ -1510,14 +1513,14 @@ peel away the DOMs and the OSIs---today a task fraught with legal consequence.
 ### 3.7 Malicious Code Injection
 
 In presenting canonical models of document structure, it is my hope to convince
-the reader of the very real and literal sense of depth encoded into the fabric
-of contemporary textuality. This includes print, because even in that mode,
-publishing practices today rely on some of the same machinery described in this
-chapter.
+the reader of the very real and literal sense of depth manufactured into the
+structure of the contemporary document--object model. This includes print,
+because even in that mode, publishing practices today rely on some of the same
+machinery described in this chapter.
 
 The attached documents illustrate my thesis in practice. In the first image the
 reader will find a visual "dotplot" representation of Laurence Sterne's *The
-Life and Opinions of Tristram Shandy, Gentleman*, in plain text (`.txt`) file
+Life and Opinions of Tristram Shandy *, in plain text (`.txt`) file
 format. To produce the image, I use the Helfman's self-similarity dotplot
 approach.  Dotplots, as Helfman explains, "reveal similarity structures in data
 regardless of format and in text and software regardless of language
@@ -1547,35 +1550,35 @@ When applied to raw, binary data, self-similarity plots can be used to study
 data structures, to identify security threats, and to reverse engineer unknown
 file types. Note that at this level, we are not observing patterns of meaning
 (as repetition of words or word clusters), but rather structural patterns in
-the underlying bit structure. We cannot tell, from the image what these types
+the underlying bit structure. We cannot tell from the image what these types
 mean, only that they are structured in a particular way. Different file
-formats, like the common `.docx` and `.mobi` will leave a common signature,
-even when corrupted. The sparse topography of the `.txt` file indicates a
-relative paucity in bit types. The hex types are limited to human-legible UTF-8
-character set (used to to encode the `.txt` file). The square on the lower
-likely represents lower case letters, with the other two squares showing
-capitals and punctuation.
+formats, like the common `.docx` and `.mobi` will leave a recognizable
+signature, even when corrupted. The sparse topography of the `.txt` file
+indicates a relative paucity in bit types. Plain text formats are limited to
+human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
+file). The square on the lower right likely represents lower case letters, with
+the other two squares showing capitals and punctuation.
 
-The second image shows the popular Mobipocket (`.mobi`) book format, used to store books in
-Amazon Kindle device, for example. While the plain text signature is still
-present, other structures come now also come into view. These are not
-human-legible under closer examination (using a hex-editor for example) because
-the data is encrypted. The plain text characters remaining comprise snippets of
-code, and some light header and footer information, identifying the file to
-reader applications.
+The second image shows the same novel encoded into the popular Mobipocket
+(`.mobi`) book format, used to store books in Amazon Kindle device, for
+example. While the plain text signature is still present, other structures
+now also come into view. These are not human-legible under closer examination
+(using a hex-editor for example) because the data is encrypted. The plain text
+characters remaining comprise snippets of code, and some light header and
+footer information, identifying the file to reader applications.
 
 To produce the third image, I encode the plain text version of the novel into
 the Portable Document Format (`.pdf`), another commonly circulated binary
 format for document storage. In an additional step, I use code injection
-techniques outlined in @rahman_getting_2010; @stevens_malicious_2011;
+techniques outlined in @rahman_getting_2010, @stevens_malicious_2011, and
 @maiorca_looking_2013 to introduce a malicious script into the header of the
 file. Depending on the version of the reader's Adobe Acrobat Reader, the code
 will execute when opening the document, with the potential of causing
 significant corruption to the system. The injection is clearly visible on the
 image to the right, manifesting as a "cavity" of un-encrypted characters. Steps
 could be taken to further mask the malicious script, blending it with the
-background encrypted-bet structure, which would make the injection much more
-difficult to find.
+background encrypted bit structure (shown as speckled noise), which would make
+the injection much more difficult to find.
 
 ![Binary file structure I. Laurence Sterne's *Tristram Shandy*, in `.txt` format.
 Unaltered.](images/txt.png)
@@ -1587,21 +1590,22 @@ Unaltered.](images/txt.png)
 Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating presence of
 injected code.](images/pdf.png)
 
-I do not mean to imply that "closest possible" reading of this sort, at the
-circuit and magnetic media level, will somehow come to supplement reading at
-the surface for meaning and representation. Microanalysis is meant to
-complement close reading: giving it physical space, time, and scope. But
-reading at the surface alone cannot reveal the struggle for bare control of the
-literary device. The machine *can* determine the message when unchecked. In
-these conditions, reading without depth risks losing its object of study, as
-surface representations change dynamically and tailor themselves to fit the
-reader's mood, to match the environment, or to please some remote censor. Best,
-Marcus, and Sontag are right in treating claims to symptomatic reading with
-suspicion, as claims to power. The reader of depth divines secret knowledge,
-with or without merit, creating an imbalance of interpretation. Critical
-reading in all dimensions, must therefore begin with the ethics of mutual
-legibility. It begins with readers reclaiming the underlying material
-conditions of meaning making. The answer to the machine remains in the machine.
+In conclusion, I do not mean to imply that "closest possible" reading of this
+sort, at the circuit and magnetic storage level, will somehow come to
+supplement reading at the surface for meaning and representation. Microanalysis
+is meant to complement close reading: giving it physical space, time, and
+scope. But reading at the surface alone cannot reveal the struggle for bare
+control of the literary device. The machine *can* determine the message when
+unchecked. In these conditions, reading without depth risks losing its object
+of study, as surface representations change dynamically and tailor themselves
+to fit the reader's mood, to match the environment, or to please some remote
+censor. Best, Marcus, and Sontag are right in treating claims to symptomatic
+reading with suspicion, as claims to power. The reader of depth divines secret
+knowledge, with or without merit, creating an imbalance of interpretation.
+Critical reading in all dimensions must therefore begin with the ethics of
+mutual legibility. It succeeds when readers reclaim the underlying material
+conditions of their meaning making. The very architects of the "smart" literary
+device tell us: the answer to the machine remains in the machine.
 
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
