@@ -245,7 +245,7 @@ inscription makes itself visible to view. Early programmable media could hardly
 be called ephemeral or immaterial. Anecdotes circulate in the digital
 humanities circles of Father Roberto Busa, an early (post-WWII) pioneer in the
 field of computational philology, carting his punch cards around Italy on a
-truck.[^ln2-busa] Code before its electro-magnetic period was burdensome,
+truck.[^ln3-busa] Code before its electro-magnetic period was burdensome,
 fragile, unwieldy, and most of all, visible.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
