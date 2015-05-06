@@ -1584,7 +1584,7 @@ the injection much more difficult to find.
 Unaltered.](images/txt.png)
 
 ![Binary file structure II. Laurence Sterne's *Tristram Shandy*, in `.mobi` format.
-Unaltered.](images/txt.png)
+Unaltered.](images/mobi.png)
 
 ![Binary file structure III. Malicious code injection into the text of Laurence
 Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating presence of
