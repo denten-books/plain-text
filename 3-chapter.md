@@ -1089,26 +1089,26 @@ document--object model further gives rise to three "operations," tied to the
 comprises operations that move from abstract to abstract, or, from concrete to
 concrete domains.
 
-+------------------------+---------------+------------------------+
-| Operation              |  Type         |  Example               |
-+========================+===============+========================+
-|  abstract to abstract  |  Editing      | - spelling correction  |
-|  concrete to concrete  |               | - move (data) table    |
-|                        |               |                        |
-+------------------------+---------------+------------------------+
-| abstract to concrete   |  Formatting   | - apply font           |
-|                        |               | - break into pages     |
-+------------------------+---------------+------------------------+
-| abstract to concrete   |  Formatting   | - apply font           |
-| concrete to abstract   |  Recognition  | - optical character    |
-|                        |               |   recognition          |
-+------------------------+---------------+------------------------+
-| concrete to output     |  Viewing      | - print to paper       |
-|                        |               | - publish to web       |
-+------------------------+---------------+------------------------+
-| concrete to storage    |  Filing       | - save file            |
-|                        |               | - shelve book          |
-+------------------------+---------------+------------------------+
++------------------------+--------------+------------------------+
+| Operation              | Type         | Example                |
++========================+==============+========================+
+|  abstract to abstract  | Editing      | - spelling correction  |
+|  concrete to concrete  |              | - move (data) table    |
+|                        |              |                        |             |
++------------------------+--------------+------------------------+
+| abstract to concrete   | Formatting   | - apply font           |
+|                        |              | - break into pages     |
++------------------------+--------------+------------------------+
+| concrete to abstract   | Recognition  | - optical character    |
+|                        |              |   recognition          |
+|                        |              | - page layout analysis |
++------------------------+--------------+------------------------+
+| concrete to output     | Viewing      | - print to paper       |
+|                        |              | - publish to web       |
++------------------------+--------------+------------------------+
+| concrete to storage    | Filing       | - save file            |
+|                        |              | - shelve book          |
++------------------------+--------------+------------------------+
 
 Table: Object operation types under the document--object model
 [@furuta_document_1982, 419-20].
