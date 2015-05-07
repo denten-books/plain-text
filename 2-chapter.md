@@ -410,7 +410,7 @@ the emergence of new forms of "poetry" or the "novel," but also the emergence
 of literary art forms that would continue the set of "poetry, novel, and
 [whatever comes next]." But, because the field of literary studies (like any
 discipline) has instituted these foundational taxonomies at a particular point
-of time, it may fail to perceive the emerging forms.
+of time, it may fail to perceive the continuation in development.
 
 [^ln2-internet]: The NEA study has this to say on the topic of What is
 responsible for the decline of literary reading?: "If the 2002 data represent a
@@ -482,27 +482,24 @@ operational terms that I want to locate a notion of poetics, poetics capable of
 addressing not only the machinations of poetry and prose, but also of pixel,
 code, string, script, inscription, list, document, file, record, project, and
 archive. Rather than picky epicureans of high lit, I imagine my fellow
-travelers as voracious omnivores of text. My polemical aside in this chapter is
-not meant to re-introduce, much less argue for a side in contentious binary
-distinctions along which meta-commentary of this sort usually unfolds: science
-vs. the humanities, close reading vs. distant reading. In conceiving a field of
-activity to make space for this book, I cast my vote note for ether/or but for and.
+travelers as voracious omnivores of text. This brief interjection about value
+is not meant to re-introduce, much less argue for a side in polarizing debates
+that set science against the humanities, positivism against relativism, or
+close reading against distant reading. In conceiving a field of activity to
+make space for this book, I cast my vote not for ether/or but for and.
 
-This is not to say that I advocate
-ignorance, nor do I follow the Russian formalist poet Vladimir Mayakovksy, who
-at the beginning of the last century called on his peers to "cast Pushkin,
-Dostoevsky, Tolstoy, et al. overboard from the ship of Modernity." foobar
-citation I hold instead that in the implicit perusal of the subjectively
-beautiful discourse literary scholars have abandoned vast and fecund textual
-vistas. In privileging the aesthetic, the study of Literature has tied its fate
-to that of an increasingly vanishing pastime---the leisurely reading of poetry
-and fiction, of a specific kind, holding a privileged form, sold in preferred
-manner.
-
-Hampered by an artificially limited field of activity, the study of literature
-so conceived excavates a small, sacred patch of ground at the tip of an immense
-textual iceberg. The results of that strenuous activity sink to join the mass
-of its submerged and excavated bottom. Texts multiply and produce other texts:
+This is also not to say that I advocate ignorance, nor do I follow the Russian
+futurist poets, who at the beginning of the last century called on his peers to
+"cast Pushkin, Dostoevsky, Tolstoy, et al. overboard from the ship of Modernity
+[@lawton_words_2005]." I hold instead that in the implicit perusal of the
+subjectively beautiful discourse literary scholars may have ceded vast and
+fecund textual vistas to other disciplines. In privileging the aesthetic, the
+study of Literature has tied its fate to a vision of literature of a specific
+kind, holding a privileged form, sold in preferred manner. Hampered by an
+artificially limited field of activity, the study of literature so conceived
+excavates a small, sacred patch of ground at the tip of an immense textual
+iceberg. The results of that strenuous activity sink to join the mass of its
+submerged and unexcavated bottom. Texts multiply and produce other texts:
 that's more or less the point of Roland Barthes's 250-page exegesis of a
 30-page short story by Honoré de Balzac. Despite my fond appreciation of
 Barthes as a scholar, I suspect that exponential growth and diminishing returns
@@ -524,35 +521,42 @@ the humanities journals indicate that the humanities privilege historically
 established sources [@tenen_digital_2014]. Without robust mechanisms for
 condensing and for pruning accepted knowledge, the archive expands
 precipitously. Its combined weight necessarily devalues the literature of the
-present, creating a curious kind of a gap in contemporary material. A
-"modernist" in literary studies denotes a specialist who works on documents
-which are now more than a century old. And most departments of literature cover
-only a limited range of best-sellers from the post-WWII period. A competent
+present, creating a curious kind of a gap in contemporary material. A competent
 graduate literature student can likely name a dozen or so contemporaneous
-literary movements emerging at the turn of the twentieth century. Few in the
-field are likely to name more than a handful at the turn of the
-twenty-first.[^ln2-survey]
+literary movements perceptible at the turn of the twentieth century. At that
+time, the institutional history of literary studies developed hand-in-hand with
+its contemporaneous literary movements. In this way the formalists followed the
+futurists, just as the American poets of the Fugitive Group were visible to
+(and intimately connected with) the New Critics. Few in the field are likely to
+name more than a handful literary movements at the turn of the twenty-first
+century.[^ln2-survey] We could believe, along with the NEH report, that
+literature is simply in decline, but I find that explanation unpersuasive in
+the face of broad textual proliferation. The alternative, and much more hopeful
+account of the problem would tie the discipline's hyperopia to specific models
+of institutionalization. The forms most visible to the field are the ones
+reflected in its institutional taxonomies.
 
-The logic of Said's eloquent defense of the aesthetic merely continues a
-tradition of exclusionary distinction-making, which, before Said, denied
-writers like Naguib Mahfouz and musicians like Duke Ellington a place in the
-curriculum. The logic of exclusion on aesthetic basis places the critic in the
-awkward role of a taste-maker, limiting research to texts that in a sense were
-already "blessed" by the establishment. Scholars working on "lesser" or
-"unknown" texts and writers must expend considerable energy justifying the
-aesthetic merits of their chosen subject. At stake in the binary logic of
-aestheticism are the very notions of "beautiful" and "quotidian" as markers of
-prestige---notions that encourage disciplinary infighting, tug-of-war style, by
-which much energy is spent in struggling to pull material from one category
-into the other. In the meantime, the shoring up of the aesthetic detracts from
-the larger aims of literary scholarship, reducing literature to its ornamental
-function, as a "neat illustration" for otherwise empirical accounts of the
-human condition.[^ln2-menand]
+Despite its stated aims of enlarging the canon, the logic of Said's eloquent
+defense of the aesthetic nevertheless continues a tradition of exclusionary
+distinction-making, which, before Said, denied writers like Naguib Mahfouz and
+musicians like Duke Ellington a place in the curriculum. The logic of exclusion
+on aesthetic basis places the critic in the awkward role of a taste-maker,
+limiting research to texts that in a sense were have made it into the
+curriculum. Scholars working on "lesser" or "unknown" texts and writers must
+expend considerable energy justifying the aesthetic merits of their chosen
+subject. At stake in the binary logic of aestheticism are the very notions of
+"beautiful" and "quotidian" as markers of prestige---notions that encourage
+disciplinary infighting, tug-of-war style, by which much energy is spent in
+struggling to pull material from one category into the other. In the meantime,
+the shoring up of the aesthetic detracts from the larger aims of literary
+scholarship, reducing literature to its ornamental function, as a "neat
+illustration" for otherwise empirical accounts of the human
+condition.[^ln2-menand]
 
 [^ln2-menand]: I am echoing Louis Menand's "the version of the humanities that
 would make many non-humanists most comfortable today is the version in which
 art and literature are ornaments on or neat illustrations of empirical accounts
-of human life" [@menand_dangers_2005, 10-17]. 
+of human life" [@menand_dangers_2005, 10-17].
 
 To limit the literary to a historically contingent ideal of the aesthetic is to
 limit the project of literary analysis to a moralizing, prescriptive
@@ -564,9 +568,9 @@ he concludes, having "a close relation to social ideologies." For Eagleton,
 values are more than the simple assertion of private taste. Instead, they refer
 to assumptions "by which certain social groups exercise and maintain control
 over others [@eagleton_criticism_1976, 15-47]." Who controls what? My
-interpretation of Marxist materialism is considerably more literal than
-Eagleton's. I am interested here in physical mechanisms of control, not only in
-their more ephemeral ideological justifications.
+interpretation of Marxist materialism is more literal than even Eagleton's. I
+am interested here in physical mechanisms of control, not only in their more
+ephemeral ideological justifications.
 
 In trying to reconcile the NEA's dour prognoses with broad theoretical models
 and demographic trends that reflect a proliferation of textual material, I am
@@ -605,24 +609,23 @@ qualitative, proscriptive program (that's the way they should be).
 
 [^ln2-engell]: See also @engell_teaching_1988.
 
-Starting with the late 1960s, a
-generation of scholars (Northrup Frye, Murray Krieger, and E. D. Hirsch, among
-others) took up the problem of value in literary criticism in a concerted
-fashion. Their conversation splintered into three camps: the
-separatists---those who viewed the production of value as a detriment to the
-discipline; the inseparatists (to coin a term)---those who believed that value
-creation is inseparable from the study of literature; and the compatibilists,
-or those who attempted to integrate the two opposing positions. Frye, for one,
-argued that value production should not be a part of the scholar's task,
-because the concept of value itself is "individual, unpredictable, variable,
-incommunicable, indemonstrable, and mainly an intuitive reaction to knowledge."
-"The more consistently one conceives of criticism as the pursuit of values,"
-wrote Frye, "the more firmly one becomes attached to that great sect of
-anti-intellectualism" [@frye_value_1968, 317]. Ever the dry wit, Frye wrote
-that one can pursue a sense of value no more than one can pursue a sense of
-happiness. Values, like happiness, are not end-goals in themselves, but rather
-"emotional reaction[s] to activity" and a "feeling we get from pursuing
-something else" [@frye_value_1968, 311].
+Starting with the late 1960s, a generation of scholars (Northrup Frye, Murray
+Krieger, and E. D. Hirsch, among others) took up the problem of value in
+literary criticism in a concerted fashion. Their conversation splintered into
+three camps: the separatists---those who viewed the production of value as a
+detriment to the discipline; the inseparatists (to coin a term)---those who
+believed that value creation is inseparable from the study of literature; and
+the compatibilists, or those who attempted to integrate the two opposing
+positions. Frye, for one, argued that value production should not be a part of
+the scholar's task, because the concept of value itself is "individual,
+unpredictable, variable, incommunicable, indemonstrable, and mainly an
+intuitive reaction to knowledge." "The more consistently one conceives of
+criticism as the pursuit of values," wrote Frye, "the more firmly one becomes
+attached to that great sect of anti-intellectualism" [@frye_value_1968, 317].
+Ever the dry wit, Frye wrote that one can pursue a sense of value no more than
+one can pursue a sense of happiness. Values, like happiness, are not end-goals
+in themselves, but rather "emotional reaction[s] to activity" and a "feeling we
+get from pursuing something else" [@frye_value_1968, 311].
 
 To this Murray Krieger responded by pointing out the inevitability of value
 formation in the work of even the most analytically inclined critic. Krieger
@@ -658,8 +661,8 @@ custodians of the Western canon "cannot grasp or acknowledge" that alternative
 forms of literariness and textuality can take on the functions of Dante or
 Homer for others [@hirsch_literary_1968, 1-35]. I am appropriately galvanized
 by Smith's fiery rhetoric, but must admit that not much has changed since the
-1980s. Her compromise simply does not approach the very peculiarity of the
-question itself. Must we value the object of our study?
+1980s. Her compromise does not approach the very peculiarity of the question
+itself. Must we value the object of our study?
 
 To understand the peculiarity of the question, try asking: Does an
 anthropologist observing cock fighting, condone animal cruelty? Does a
@@ -696,19 +699,20 @@ beyond the obvious tautology.
 
 ### 2.4 Content and Control
 
-With the site so defined, we can begin the work of recovering the material
-contexts of literary production. I want to foreshadow now what will become the
-punchline of the next chapter: namely that the ghost in the machine cannot be
-reduced to some vague notions of value---these amount to a distraction, which
-lies plainly upon the surface. The conspicuous ghostly apparition (indicating
-the absence of a living subject) is agency itself, which, for now, necrotically
-attaches itself to dead things like systems, mediums, and automated discourses.
-If all this talk of value, ghosts, and necromancy sounds familiar, the reader
-will not be surprised when I advance Karl Marx as a preeminent theorist of the
-algorithm and someone able to help us reason through Kittler's computational
-conundrum. On towards Marx then, through the machine that, although intimately
-familiar to every writer and consumer of text by touch, remains alien and
-alienating in its hidden possibilities, soothing and threatening all at once.
+With the site more broadly defined, we can begin the work of recovering the
+material contexts of literary production. I want to foreshadow now what will
+become the punchline of the next chapter: namely that the ghost in the machine
+cannot be reduced to some vague notions of value---these amount to a
+distraction, which lies plainly upon the surface. The conspicuous ghostly
+apparition (indicating the absence of a living subject) is agency itself,
+which, for now, necrotically attaches itself to dead things like systems,
+mediums, and automated discourses. If all this talk of value, ghosts, and
+necromancy sounds familiar, the reader will not be surprised when I advance
+Karl Marx as a preeminent theorist of the algorithm and someone able to help us
+reason through Kittler's computational conundrum. On towards Marx then (who
+will appear much later), through the machine that, although intimately familiar
+to every writer and consumer of text by touch, remains alien and alienating in
+its hidden possibilities, soothing and threatening all at once.
 
 The personal computer governing the production of textuality today emerged from
 an amalgam of automated devices, chief among them the telegraph, the
