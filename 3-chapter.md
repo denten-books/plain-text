@@ -1001,7 +1001,7 @@ transmit, transform, and transcend the ideas of others relies on their
 ephemeral nature. Ideas deposited in ossified matter, in fixed shapes, do not
 travel well. And there are plenty of "actors" that would like for culture to
 return to the time of singular thought, etched in monolithic tablets, whether
-made of silicone or made of stone.
+made of stone or silicone.
 
 But, the loose coupling of content to its underlying strata of form and matter
 also comes at a cost. As surface phenomena, text hides the flows of power and
@@ -1015,8 +1015,8 @@ afar to within logically completes the program of "intellect augmentation"---a
 program which begins not with Vannevar Bush, J.C.R.  Licklider, and Douglas
 Engelbart (who used the term extensively), and not with *Xerox*, the ultimate
 purveyors of radical surface reading, but with the invention of writing itself.
-Reading "for meaning", in these not at all futuristic conditions[^ln3-reading],
-involves something akin to phenomenology as biological reverse engineering.
+Reading "for meaning," in these not at all futuristic conditions[^ln3-reading],
+involves turning hermeneutics into reverse engineering.
 
 ### 3.5 Document--object Model (DOM)
 
