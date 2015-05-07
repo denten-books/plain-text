@@ -72,44 +72,48 @@ immediate material contexts of their knowledge production.
 
 ### Chapter 1: We Have Always Been Digital
 
-Discourse around the digital humanities needs a robust sense of the digital. My
-first chapter begins with popular intuitions about the "look and feel" of
-digital aesthetics. Here, I find that sometimes the adjective carries the
-connotation of "discrete," while at other times, it is used to mean something
-more fluid and continuous, past the point of human perception. A discussion of
-Liquid Crystal Display technology (LCD) flows into a section that deals with
-digital representation from the perspective of analytic philosophy and through
-the aesthetics of Nelson Goodman. My summary of that tradition reveals that
-language and text are already in some sense "born digital," that is
-"reproducible" and "differentiated" throughout. Furthermore, digitality depends
-on "reliable processes of copying and preservation"---attributes that can mean
-something different to a philosopher than to a librarian. From these insights I
-take it that "being digital" is not an intrinsic ontological condition, but
-rather a structure imposed from without. Case studies from the history of
-telegraphy illustrate the concluding discussion on the nature of binary and
-plain text formats, in a distinction that supersedes the dichotomy between
-analog and digital media.
+This chapter introduces the book's central themes and arguments, commencing
+some of the historical work necessary to the development of a shared critical
+vocabulary in use throughout. I argue that discourse around the digital
+humanities needs a robust sense of the digital. Popular intuitions about the
+"look and feel" of digital aesthetics suggest that sometimes the adjective
+carries the connotation of "discrete," while at other times, it is used to mean
+something more fluid and continuous, past the point of human perception. A
+discussion of Liquid Crystal Display technology (LCD) flows into a section that
+deals with digital representation from the perspective of analytic philosophy
+and through the aesthetics of Nelson Goodman. My summary of that tradition
+reveals that language and text are already in some sense "born digital," that
+is "reproducible" and "differentiated" throughout. Furthermore, digitality
+depends on "reliable processes of copying and preservation"---attributes that
+can mean something different to a philosopher than to a librarian. From these
+insights I take it that "being digital" is not an intrinsic ontological
+condition, but rather a structure imposed from without. Case studies from the
+history of telegraphy illustrate the concluding discussion on the nature of
+binary and plain text formats, in a distinction that supersedes the dichotomy
+between analog and digital media.
 
 ### Chapter 2: Literature Down to the Pixel
 
-Having established the grounds for digital textuality in the history of
-character encoding, I begin the work of moving from first-order concepts such
-as "text" and "code" up to second-order concepts such as "file," "folder," and
-"document." The chapter starts by developing a theory of "microanalysis," the
-closest possible kind of reading that pays attention to the material contexts
-of knowledge production. I argue here that the concern with value in literary
-criticism detracts from the machinations of naked circuit control embedded into
-the contemporary text apparatus. Unlike scholars in the Foucauldian tradition
-(who often trace the machinations of power through discourse, on the level of
-representation), I concentrate my analysis on mechanisms of control at the
-material roots of literary practice. In presenting a media history through
-primary sources on the early development of Turing machines, I show the
-explicit admixture of content and code: one meant to communicate messages to
-humans and the other to program universal machines. I conclude by arguing that
-Turing machines were anticipated not by the Babbage calculator alone, but also
-through a series of advances in communications, word processing, and media
-storage. A notion of text (as opposed to number) is hence "baked into" the
-system.
+In this chapter, I continue the historical narrative started in Chapter 1,
+along with presenting the methodological and theoretical underpinnings of the
+book. I think of it as "laying the grounds" chapter. Having established the
+grounds for digital textuality in the history of character encoding, I begin
+the work of moving from first-order concepts such as "text" and "code" up to
+second-order concepts such as "file," "folder," and "document." The chapter
+starts by developing a theory of "microanalysis," the closest possible kind of
+reading that pays attention to the material contexts of knowledge production. I
+argue here that the concern with value in literary criticism detracts from the
+machinations of naked circuit control embedded into the contemporary text
+apparatus. Unlike scholars in the Foucauldian tradition (who often trace the
+machinations of power through discourse, on the level of representation), I
+concentrate my analysis on mechanisms of control at the material roots of
+literary practice. In constructing a media history through primary sources on
+the early development of Turing machines, I show the explicit admixture of
+content and code: one meant to communicate messages to humans and the other to
+program universal machines. I conclude by arguing that Turing machines were
+anticipated not by the Babbage calculator alone, but also through a series of
+advances in communications, word processing, and media storage. A notion of
+text (as opposed to number) is hence "baked into" the system.
 
 ### Chapter 3: Laying Bare the Device
 
@@ -118,17 +122,17 @@ outlining a recent discussion on surface reading. I ask: What lies beneath the
 text, literally? The question leads to the common distinction between form and
 content. Here, I find that, going back to the Russian formalist reception of
 Hegelian aesthetics, "form" was at times used to indicate concrete shape and at
-times to indicate abstract universals, such as technique and formula. A case study in
-removable storage---like ticker tape and floppy disks---elucidates the movement
-of text from human-legible inscription on the page and punch card to magnetic
-inscription invisible to the naked human eye, complicating the formalist
-vocabulary. The case study unfolds the distinction between print, in which
-matter, form, and content lie flat, and screen, where the three layers occupy
-physically distinct strata of the Document--Object model, providing only the
-illusion of flattened textuality. The apparent immateriality of digital text
-brings promise of epistemological (social) and even phenomenological (personal)
-transformation. But it also comes at a cost. Inscription on magnetic tape
-cannot be assumed to correspond to the composite screen image. Forms of
+times to indicate abstract universals, such as technique and formula. A case
+study in removable storage---like ticker tape and floppy disks---elucidates the
+movement of text from human-legible inscription on the page and punch card to
+magnetic inscription invisible to the naked human eye, complicating the
+formalist vocabulary. The case study unfolds the distinction between print, in
+which matter, form, and content lie flat, and screen, where the three layers
+occupy physically distinct strata of the Document--Object model, providing only
+the illusion of flattened textuality.  The apparent immateriality of digital
+text brings promise of epistemological (social) and even phenomenological
+(personal) transformation. But it also comes at a cost. Inscription on magnetic
+tape cannot be assumed to correspond to the composite screen image. Forms of
 governance like Digital Rights Management can now be embedded deep within the
 structure of the "data object" itself and further hidden from view, precluding,
 and sometimes making illegal outright, the possibility of interpretation (of
@@ -141,13 +145,14 @@ instrument, brings legibility to the fore of reading ethics.
 
 ### Chapter 4: Recursive Encounters with Oneself
 
-This chapter begins with a close reading of Beckett's *Krapp's Last Tape*. The
-title character makes yearly audio recordings of himself, only to revisit them
-and to enter into a sort of dialog with his own voice from the past. I posit
-this encounter with the archive as Krapp's "media being" and suggest that such
-encounters are commonplace, through similar practices of depositing "snapshots"
-of one's consciousness into files, bookshelves, and folders. Sartre's idea of
-an "appointment with oneself" helps us see this external structure of files,
+This chapter continues the movement from the device to the reader. It begins
+with a close reading of Beckett's *Krapp's Last Tape*. The title character
+makes yearly audio recordings of himself, only to revisit them and to enter
+into a sort of dialog with his own voice from the past. I posit this encounter
+with the archive as Krapp's "media being" and suggest that such encounters are
+commonplace, through similar practices of depositing "snapshots" of one's
+consciousness into files, bookshelves, and folders. Sartre's idea of an
+"appointment with oneself" helps us see this external structure of files,
 folders, and library furniture as cognitive extension, in need of delicate
 pruning and arrangement. Documents, in this light, are shown to exist not as
 completed works, but as "vectors" that mutate and move through time and space.

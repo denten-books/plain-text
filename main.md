@@ -271,23 +271,25 @@ Keywords: `digital, analog, binary, encoding, mediation`
 
 ### 1.0 Abstract
 
-Discourse around the digital humanities needs a robust sense of the digital.
-My first chapter begins with popular intuitions about the "look and feel" of
-digital aesthetics. Here, I find that sometimes, the adjective carries the
-connotation of "discrete," while at other times, it is used to mean something
-more fluid and continuous, past the point of human perception. A discussion of
-Liquid Crystal Display technology (LCD) flows into a section that deals with
-digital representation from the perspective of analytic philosophy and through
-the aesthetics of Nelson Goodman. My summary of that tradition reveals that
-language and text are already in some sense "born digital," that is
-"reproducible" and "differentiated" throughout. Furthermore, digitality depends
-on "reliable processes of copying and preservation"---attributes that can mean
-something different to a philosopher than to a librarian. From these insights I
-take it that "being digital" is not an intrinsic ontological condition, but
-rather structure imposed from without. Case studies from the history of
-telegraphy illustrate the concluding discussion on the nature of binary and
-plain text formats, in a distinction that supersedes the dichotomy between
-analog and digital media.
+This chapter introduces the book's central themes and arguments, commencing
+some of the historical work necessary to the development of a shared critical
+vocabulary in use throughout. I argue that discourse around the digital
+humanities needs a robust sense of the digital. Popular intuitions about the
+"look and feel" of digital aesthetics suggest that sometimes the adjective
+carries the connotation of "discrete," while at other times, it is used to mean
+something more fluid and continuous, past the point of human perception. A
+discussion of Liquid Crystal Display technology (LCD) flows into a section that
+deals with digital representation from the perspective of analytic philosophy
+and through the aesthetics of Nelson Goodman. My summary of that tradition
+reveals that language and text are already in some sense "born digital," that
+is "reproducible" and "differentiated" throughout. Furthermore, digitality
+depends on "reliable processes of copying and preservation"---attributes that
+can mean something different to a philosopher than to a librarian. From these
+insights I take it that "being digital" is not an intrinsic ontological
+condition, but rather a structure imposed from without. Case studies from the
+history of telegraphy illustrate the concluding discussion on the nature of
+binary and plain text formats, in a distinction that supersedes the dichotomy
+between analog and digital media.
 
 ### 1.1 Digital Wake
 
