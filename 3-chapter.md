@@ -1276,9 +1276,9 @@ document--object model.[^ln3-domlayer]
 [^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
 model.
 
-![Layers of an OSI node on the left. A network of connected OSI devices to the
-right. The interfaces interfaces through the top-most (application) level,
-outermost to the network. From @piatkowski_iso-ansi_1980,
+![A zoomed out view of the connected OSI model. Single node structure on the
+left. Connected devices on the right. The user has access through the top-most
+(application) level, outermost to the network. From @piatkowski_iso-ansi_1980,
 114-15.](images/osi.png)
 
 These are the same layers that Alexander Galloway unites in a system of what he
@@ -1298,7 +1298,8 @@ Once bifurcated between storage and screen, the inscription travels along a
 throughout. On one device, that pipeline may extend just a few inches,
 connecting disk storage and output display. On a network device that pipeline
 can stretch across continents, spanning widely divergent regions of legal and
-administrative control. Whatever the case may be, the subject encounters the
+administrative control. The book you are reading here may be stored in another
+state or country. Whatever the case may be, the subject encounters the
 "protocol stack" from without, on the periphery of the onion-like network. When
 paging through an electronic book (usually an OSI-compliant device displaying
 DOM-structured files), for example, the reader has access only to the outputs
@@ -1448,18 +1449,19 @@ protections [@mueller_reinventing_2004; @ferullo_major_2004;
 Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
 which allowed users to "change text annotations using Plaintiff's TrueType
 fonts" without a license [@_agfa_2005; @von_lohmann_unintended_2010;
-@lipton_c_2009].
+@lipton_c_2009]. If they become precedent, any of these cases could conceivably
+by used to physically limit the efficacy of reading, close and distant.
 
 [^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
 which may, under some interpretations, sanction limited use for academic
 purposes. See @ku_critique_2004; @herman_catch_2005; @armstrong_digital_2006;
 @liu_dmca_2003.
 
-The impact of DMCA and smart contracts on the practice of reading and on
-literary analysis is potentially immense. The electronic book in the language
-of the DMCA is not a book at all, but a "data object," in which the modest
-copyright symbol gives way to "control layers [@fischer_digital_2003]." An
-essay in the *Yale Journal of Law & Technology* explains it this way:
+The impact of DMCA and smart contracts on the practices of reading, writing,
+and literary analysis is potentially immense. The electronic book in the
+language of the DMCA is not a book at all, but a "data object," in which the
+modest copyright symbol gives way to "control layers [@fischer_digital_2003]."
+An essay in the *Yale Journal of Law & Technology* explains it this way:
 
 > While e-books and their print counterparts embody essentially identical
 > content, from a transactional standpoint they differ considerably. Books are
@@ -1470,24 +1472,25 @@ essay in the *Yale Journal of Law & Technology* explains it this way:
 > restrictive license terms, similar to downloaded software
 [@seringhaus_e-book_2010, 150].
 
-In these conditions, something like a poem or a novel ceases to be a digital
-artifact and becomes instead a device, firmly tied to its given physical
-affordances. It becomes a concrete object, no longer lasting and universal but
-rather ephemeral and contingent. The device has the ability to dynamically
-adapt itself "to the needs of both the owner and the user." These adaptations
-could of course take a benign form, of the kind suggested in "*Remix:
-Literatur*," where Michel Chaouli imagines a device akin to a "literature
-equalizer," empowering readers to "tune" any given text to their liking
-[@chaouli_remix_2009]. Don't really like intensifiers? Just turn the "adverb
-knob" down! I hold on to the possibility of building such a device with
-Chaouli. In the meantime, existing electronic book software and hardware
-devices adapt themselves to the reader in far more blunt ways. Some prevent
+In these conditions, something like a poem or a novel must relinquish its claim
+on the universal concrete. In that it ceases to be literature and becomes
+instead a device, firmly tied to its given physical affordances. It turns into
+concrete object, no longer lasting and universal but rather ephemeral and
+contingent, subject to the whims of the market. The device now gains the
+ability to dynamically adapt itself "to the needs of both the owner and the
+user." These adaptations could of course take a benign form, of the kind
+suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
+to a "literature equalizer," empowering readers to "tune" any given text to
+their liking [@chaouli_remix_2009]. Don't really like intensifiers? Just turn
+the "adverb knob" down! I hold on to the possibility of building such a device
+with Chaouli. In the meantime, existing electronic book software and hardware
+devices adapt themselves to the reader in less creative ways. Some prevent
 simple copy and paste actions. Others can be used to censor and surveil. For a
 textual critic, such instability of medium means analysis cannot be confined to
 reading for surface meaning alone. How can close or distant reading practices
 persist, when the reading device reconfigures a text dynamically: to fit
 individual taste, mood, or politics?[^ln3-modern] Or, when it simply prevents
-all access to content?
+access to some of the content?
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
 literature at all. In purchasing a medieval text, the reader still buys not a
@@ -1503,12 +1506,12 @@ application design makes the situation worse in giving a measure of similarity
 between page and screen (the definition of isomorphism), obscuring material
 divergence beneath. The condition is not one of ephemeral, immaterial text, but
 one of text burdened with hardware and illegible control structure. The task of
-the critic becomes then to restore text to its proper digital form: to make it
-concrete and to free it from its arbitrary material constraints. To lay bare
-the device literally would mean to make the mechanisms of naked political
-control visible. For any sort of reading to commence, one would first need to
-peel away the DOMs and the OSIs---today a task fraught with legal consequence.
-
+the critic becomes then to restore text to its proper mode of being in the
+concrete universal: to give it permanence in the world of ideas and to free it
+from its arbitrary material constraint. To lay bare the device literally would
+mean to make the mechanisms of naked political control visible. For any sort of
+reading to commence, one would first need to peel away the DOMs and the
+OSIs---today a task fraught with legal consequence.
 
 ### 3.7 Malicious Code Injection
 
@@ -1520,13 +1523,13 @@ machinery described in this chapter.
 
 The attached documents illustrate my thesis in practice. In the first image the
 reader will find a visual "dotplot" representation of Laurence Sterne's *The
-Life and Opinions of Tristram Shandy *, in plain text (`.txt`) file
-format. To produce the image, I use the Helfman's self-similarity dotplot
-approach.  Dotplots, as Helfman explains, "reveal similarity structures in data
-regardless of format and in text and software regardless of language
-[@helfman_dotplot_1996]." They can be used for authorship identification, plagiarism
-detection, or to find similarity in genetic material. The following, is a
-simple dotplot from Shakespeare:
+Life and Opinions of Tristram Shandy *, in plain text (`.txt`) file format. To
+produce the image, I use Helfman's self-similarity dotplot approach. Dotplots,
+as Helfman explains, "reveal similarity structures in data regardless of format
+and in text and software regardless of language [@helfman_dotplot_1996]." They
+can be used for authorship identification, plagiarism detection, or to find
+similarity in genetic material. The following, is a simple dotplot from
+Shakespeare:
 
 +---+---+---+---+---+---+---+
 |   |to |be |or |not|to |be |
@@ -1551,13 +1554,16 @@ data structures, to identify security threats, and to reverse engineer unknown
 file types. Note that at this level, we are not observing patterns of meaning
 (as repetition of words or word clusters), but rather structural patterns in
 the underlying bit structure. We cannot tell from the image what these types
-mean, only that they are structured in a particular way. Different file
-formats, like the common `.docx` and `.mobi` will leave a recognizable
-signature, even when corrupted. The sparse topography of the `.txt` file
-indicates a relative paucity in bit types. Plain text formats are limited to
-human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
-file). The square on the lower right likely represents lower case letters, with
-the other two squares showing capitals and punctuation.
+mean, only that they are structured in a particular way. Structure, in this
+sense indicates architecture by human hand. We expect random, encoded or
+encrypted, data to render as undifferentiated patternless noise. Different file
+formats, like the common `.docx` and `.mobi` will therefore leave a
+recognizable signature, even when corrupted. The sparse topography of the
+`.txt` file in the first image indicates a relative paucity in bit types. Plain
+text formats are limited to human-legible UTF-8 or ASCII character sets (used
+to to encode the `.txt` file). The square on the lower right likely represents
+lower case letters, with the other two squares showing capitals and
+punctuation.
 
 The second image shows the same novel encoded into the popular Mobipocket
 (`.mobi`) book format, used to store books in Amazon Kindle device, for
@@ -1578,7 +1584,7 @@ significant corruption to the system. The injection is clearly visible on the
 image to the right, manifesting as a "cavity" of un-encrypted characters. Steps
 could be taken to further mask the malicious script, blending it with the
 background encrypted bit structure (shown as speckled noise), which would make
-the injection much more difficult to find.
+the injection more difficult to detect.
 
 ![Binary file structure I. Laurence Sterne's *Tristram Shandy*, in `.txt` format.
 Unaltered.](images/txt.png)
@@ -1593,19 +1599,20 @@ injected code.](images/pdf.png)
 In conclusion, I do not mean to imply that "closest possible" reading of this
 sort, at the circuit and magnetic storage level, will somehow come to
 supplement reading at the surface for meaning and representation. Microanalysis
-is meant to complement close reading: giving it physical space, time, and
-scope. But reading at the surface alone cannot reveal the struggle for bare
-control of the literary device. The machine *can* determine the message when
-unchecked. In these conditions, reading without depth risks losing its object
-of study, as surface representations change dynamically and tailor themselves
-to fit the reader's mood, to match the environment, or to please some remote
-censor. Best, Marcus, and Sontag are right in treating claims to symptomatic
-reading with suspicion, as claims to power. The reader of depth divines secret
-knowledge, with or without merit, creating an imbalance of interpretation.
-Critical reading in all dimensions must therefore begin with the ethics of
-mutual legibility. It succeeds when readers reclaim the underlying material
-conditions of their meaning making. The very architects of the "smart" literary
-device tell us: the answer to the machine remains in the machine.
+is meant to complement close reading: giving proper scope in time and space for
+its operation. But reading at the surface alone also risks losing sight of the
+naked struggle for power and control at the device level. The machine *can*
+determine the message when unchecked. In these conditions, reading without
+depth may struggle to even locate its object of study, as surface
+representations change dynamically, tailoring themselves to fit the reader's
+mood, to match the environment, or to please some remote censor. Best, Marcus,
+and Sontag are right in treating claims to symptomatic reading with suspicion,
+as claims to power. The reader of depth divines secret knowledge, with or
+without merit, creating an imbalance of interpretation. Critical reading in
+all dimensions must therefore begin with the ethics of mutual legibility. It
+succeeds when readers reclaim the underlying material conditions of their
+meaning making. The very architects of the "smart" literary device tell us: the
+answer to the machine remains in the machine.
 
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
