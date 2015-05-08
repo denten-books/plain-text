@@ -1,3 +1,7 @@
+---
+bibliography: plain-text.bib
+---
+
 ## Chapter 2: Literature Down to the Pixel
 `literature, value, control, microanalysis`
 
@@ -32,7 +36,7 @@ channels its metaphysical angst about the changing conditions of literary
 production since the typewriter into the personal computer. Kittler concludes
 the book by writing that:
 
-> under the conditions of high technology, literature has nothing more to say
+> Under the conditions of high technology, literature has nothing more to say
 > [...] an automated discourse analysis has taken command [...] and while
 > professors are still reluctantly trading in their typewriters for word
 > processors, the NSA is preparing for the future: from nursery school
@@ -184,7 +188,7 @@ convert human stories into diagnoses, into controlled vocabularies, into files,
 into billable codes, into inscriptions, and into archives. Or to see the legal
 system as a process of literary discovery, where legions of attorneys and
 paralegals pore over terabytes of textual material, transforming inscription
-into evidence.  That is not all these institutions are, but they are also that;
+into evidence. That is not all these institutions are, but they are also that;
 and there is much work to be done there for a scholar of literature.
 
 Such textual proliferation comes at a cost. Until recently, the bread and
@@ -194,20 +198,21 @@ details become contentious as soon as they are formalized.[^ln2-close] I will
 tread carefully, therefore, by committing myself to a broad definition of close
 reading that involves some notion of deliberate and reflective practice aimed
 at deep comprehension. The Partnership for Assessment of Readiness for College
-and Careers (PARCC), the organization responsible for the Common Core standards
-being implemented in schools across the United States today, promotes close
-reading as "thorough," "methodical," and "analytical" practice that "enables
-students to reflect on the meanings of individual words and sentences; the
-order in which sentences unfold; and the development of ideas over the course
-of the text, which ultimately leads students to arrive at an understanding of
-the text as a whole" [@parcc_parcc_2012, 7]. The general movement here is from
-"text" on the page to "work" (text as a whole, in the language of the report).
-The model of textuality implicit in the institutional project of close reading
-assumes an environment of received literary canons, naturally accessible to the
-human intellect. For the duration of the "Gutenberg galaxy," the age of print,
-a well-educated person might have been expected to internalize some several
-hundred or perhaps thousands of major texts constituting the canon. Close
-reading was honed to operate on that naturalized scale.
+and Careers (PARCC), the organization responsible for the controversial
+Common Core standards being implemented in schools across the United States
+today, promotes close reading as "thorough," "methodical," and "analytical"
+practice that "enables students to reflect on the meanings of individual words
+and sentences; the order in which sentences unfold; and the development of
+ideas over the course of the text, which ultimately leads students to arrive at
+an understanding of the text as a whole" [@parcc_parcc_2012, 7]. The general
+movement here is from "text" on the page to "work" (text as a whole, in the
+language of the report). The model of textuality implicit in the institutional
+project of close reading assumes an environment of received literary canons,
+naturally accessible to the human intellect. For the duration of the "Gutenberg
+galaxy," the age of print, a well-educated person might have been expected to
+internalize some several hundred or perhaps thousands of major texts
+constituting the canon. Close reading was honed to operate on that naturalized
+scale.
 
 The expansion of the textual field and its relative liberation from physical
 media have radically increased the cognitive demands of literary engagement.
@@ -269,6 +274,8 @@ MICROANALYSIS  |              |
    file format (encoding)
    physical media (paper and pixel)
 
+```
+
 ![Micro, macro, and close reading.](images/empty.png)
 
 Where distant reading and macroanalysis are concerned with text aggregates,
@@ -296,12 +303,12 @@ because the authors and their works are thought to occupy the same contiguous
 space and time. The advent of the cheap mechanical reproduction of print (for
 the sake of brevity let's say the printing press) has introduced a range of
 devices made to mediate between the author and the reader. Distance, time, and
-mediation subsequently weakened all notions of fidelity and authorial intent.
-At the very least, we know that editorial practices, publishing markets, and
-communication technologies can introduce an unintended element of noise into
-the channel. At worst, long-distance, asynchronous communication is susceptible
-to "man-in-the-middle" attacks, by which the content of communication is
-maliciously altered by a third party [@needham_using_1978].
+mediation subsequently weakened facile notions of authorial fidelity and
+intent. At the very least, we know that editorial practices, publishing
+markets, and communication technologies can introduce an unintended element of
+noise into the channel. At worst, long-distance, asynchronous communication is
+susceptible to "man-in-the-middle" attacks, by which the content of
+communication is maliciously altered by a third party [@needham_using_1978].
 
 Changing material conditions of textual transmission push against familiar
 literary critical ideas. For example, as the mechanical reproduction of print
@@ -314,15 +321,17 @@ difficult to sustain. Massively collaborative writing projects like Wikipedia
 and procedural narrative generation further erode ideas of authorial production
 based on individual human agency. Yet, it would be a mistake to believe that
 the myth of autopoiesis (the literature that "writes itself," writing that
-writes, discourse that speaks, etc.) can displace the myth of the author
-[@varela_autopoiesis_1974; @barthes_rustle_1989, 5; @nuttall_new_2007, 6-25]. A
-discipline of close attention to the atomic particulars of encoding,
+writes, discourse that speaks, etc.)^[ln2-varela] can displace the myth of the
+author. A discipline of close attention to the atomic particulars of encoding,
 transmission, storage, and the decoding of text at the site if its application
 to the human condition ultimately aims to reclaim subjective agency, in motion.
 This may seem strange at first: to recover the subject in the physical minutiae
-of the literary--technological system. Yet the point of contact is crucial, for
+of the literary--technological encounter. Yet the point of contact is crucial, for
 it is here that the subject seems to disappear, in a compressed moment of time
 that needs to be unpacked with some precision.
+
+[ln2-verela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
+5; @nuttall_new_2007, 6-25.
 
 [^ln2-survey]: I can only give anecdotal evidence here, as I often put this
 question before my graduate students at the beginning of the semester, with the
@@ -518,40 +527,22 @@ Non-positivistic disciplines like literary studies lack a methodology for
 definitively settling any research program. For this reason, where the sciences
 usually defer to the "last word" on any given question, citation patterns in
 the humanities journals indicate that the humanities privilege historically
-established sources [@tenen_digital_2014]. Without robust mechanisms for
-condensing and for pruning accepted knowledge, the archive expands
-precipitously. Its combined weight necessarily devalues the literature of the
-present, creating a curious kind of a gap in contemporary material. A competent
-graduate literature student can likely name a dozen or so contemporaneous
-literary movements perceptible at the turn of the twentieth century. At that
-time, the institutional history of literary studies developed hand-in-hand with
-its contemporaneous literary movements. In this way the formalists followed the
-futurists, just as the American poets of the Fugitive Group were visible to
-(and intimately connected with) the New Critics. Few in the field are likely to
-name more than a handful literary movements at the turn of the twenty-first
-century.[^ln2-survey] We could believe, along with the NEH report, that
-literature is simply in decline, but I find that explanation unpersuasive in
-the face of broad textual proliferation. The alternative, and much more hopeful
-account of the problem would tie the discipline's hyperopia to specific models
-of institutionalization. The forms most visible to the field are the ones
-reflected in its institutional taxonomies.
-
-Despite its stated aims of enlarging the canon, the logic of Said's eloquent
-defense of the aesthetic nevertheless continues a tradition of exclusionary
-distinction-making, which, before Said, denied writers like Naguib Mahfouz and
-musicians like Duke Ellington a place in the curriculum. The logic of exclusion
-on aesthetic basis places the critic in the awkward role of a taste-maker,
-limiting research to texts that in a sense were have made it into the
-curriculum. Scholars working on "lesser" or "unknown" texts and writers must
-expend considerable energy justifying the aesthetic merits of their chosen
-subject. At stake in the binary logic of aestheticism are the very notions of
-"beautiful" and "quotidian" as markers of prestige---notions that encourage
-disciplinary infighting, tug-of-war style, by which much energy is spent in
-struggling to pull material from one category into the other. In the meantime,
-the shoring up of the aesthetic detracts from the larger aims of literary
-scholarship, reducing literature to its ornamental function, as a "neat
-illustration" for otherwise empirical accounts of the human
-condition.[^ln2-menand]
+established sources [@tenen_digital_2014]. Despite its stated aims of enlarging
+the canon, the logic of Said's eloquent defense of the aesthetic nevertheless
+continues a tradition of exclusionary distinction-making, which, before Said,
+denied writers like Naguib Mahfouz and musicians like Duke Ellington a place in
+the curriculum. The logic of exclusion on aesthetic basis places the critic in
+the awkward role of a taste-maker, limiting research to texts that in a sense
+were have made it into the curriculum. Scholars working on "lesser" or
+"unknown" texts and writers must expend considerable energy justifying the
+aesthetic merits of their chosen subject. At stake in the binary logic of
+aestheticism are the very notions of "beautiful" and "quotidian" as markers of
+prestige---notions that encourage disciplinary infighting, tug-of-war style, by
+which much energy is spent in struggling to pull material from one category
+into the other. In the meantime, the shoring up of the aesthetic detracts from
+the larger aims of literary scholarship, reducing literature to its ornamental
+function, as a "neat illustration" for otherwise empirical accounts of the
+human condition.[^ln2-menand]
 
 [^ln2-menand]: I am echoing Louis Menand's "the version of the humanities that
 would make many non-humanists most comfortable today is the version in which
@@ -577,35 +568,31 @@ and demographic trends that reflect a proliferation of textual material, I am
 confronted with two possible explanations. The writers of the report hint at
 the first themselves: treating the ebb of literary reading (in a particular
 mode) as cause and symptom for the general decline of the arts (and perhaps of
-civilization itself). I find that reading unacceptable, (a) because it is
-depressing and (b) because it smacks of historical exceptionalism. I strongly
-suspect that humanity's potential for innovation and creativity has remained
-relatively stable throughout history. The literary ecosystem is as vibrant and
-as diverse as ever. Material conditions for creative expression change (as in
-times of political oppression, pestilence, or war), where the spirit endures.
-
-The second, much more palatable (and likely) explanation would question the
-very definitions of literary reading. Consider the possibility of online or
-digital literature that evolves according to a logic of its own, where previous
-ideas of "genre" or "literary movements" no longer apply. To restrict literary
-reading to "novels, short stories, plays, and poetry" (as is done in the NEA
-report) is to deny some measure of literariness to song-writing, computer
-game-making, software design, and, in an obvious way, to non-fiction or, let's
-say, to essays of arbitrary length. Imagine, for example, excluding reality
-television from the survey on television habits, because the genre does not
-conform to some normative sense of what television should be. Do the literary
-survey-makers consider literature as a medium, like television, or a grab-bag
-of "serious genres" like comedy and drama? As it turns out: both. The authors
-concede the point in sometimes classifying readers by the number of books read
-in any genre, effectively equating literature with "books" [@nea_reading_2004].
-But even that concession confuses form with function. What if "reading a book"
-begins to involve something other than moving one's eyes from left to right
-over sequentially numbered blocks of text? Or what if books were more like
-pills, or prosthetics, than parchment? The conundrum reveals a strong
-methodological bias favoring historically contingent (and likely modernist)
-conceptions of the literary. A report that initially looks like objective,
-quantitative, descriptive analysis (that's the way things are) hides a
-qualitative, proscriptive program (that's the way they should be).
+civilization itself). A much more hopeful outlook, would have it that literary
+ecosystem has remained as vibrant and as diverse as ever. Material conditions
+for creative expression change (as in times of political oppression,
+pestilence, or war), where the spirit endures. The alternative to the first
+option would question the very definitions of literary reading. Consider the
+possibility of online or digital literature that evolves according to a logic
+of its own, where previous ideas of "genre" or "literary movements" no longer
+apply. To restrict literary reading to "novels, short stories, plays, and
+poetry" (as is done in the NEA report) is to deny some measure of literariness
+to song-writing, computer game-making, software design, and, in an obvious way,
+to non-fiction or, let's say, to essays of arbitrary length. Imagine, for
+example, excluding reality television from the survey on television habits,
+because the genre does not conform to some normative sense of what television
+should be. Do the literary survey-makers consider literature as a medium, like
+television, or a grab-bag of "serious genres" like comedy and drama? As it
+turns out: both. The authors concede the point in sometimes classifying readers
+by the number of books read in any genre, effectively equating literature with
+"books" [@nea_reading_2004]. But even that concession confuses form with
+function. What if "reading a book" begins to involve something other than
+moving one's eyes from left to right over sequentially numbered blocks of text?
+Or what if books were more like pills, or prosthetics, than parchment? The
+conundrum reveals a strong methodological bias favoring historically contingent
+(and likely modernist) conceptions of the literary. A report that initially
+looks like objective, quantitative, descriptive analysis (that's the way things
+are) hides a qualitative, proscriptive program (that's the way they should be).
 
 [^ln2-engell]: See also @engell_teaching_1988.
 
@@ -634,13 +621,12 @@ erect value criteria for admission, so that for the work to attain the
 definition is for it to qualify as a valued individual in a valued class. The
 work comes to be discovered, defined, and valued as poetry only by way of a
 preexisting generic characteristic which the critic began by adopting as his
-perspective glass to envision it [foobar sense]." All this just to say that
-even for scholars like Frye, the process of valuation happens before the
-encounter with the text. In designating the poem as a poem, the critic already
-has brought with her a set of preconceived notions that distinguish what
-constitutes poetry, and what does not; who is in and who is out. From this
-viewpoint, abjuring the task of explicit value formation borders on the
-irresponsible.
+perspective [@krieger_literary_1968, 292]." All this just to say that even for
+scholars like Frye, the process of valuation happens before the encounter with
+the text. In designating the poem as a poem, the critic already has brought
+with her a set of preconceived notions that distinguish what constitutes
+poetry, and what does not; who is in and who is out. From this viewpoint,
+abjuring the task of explicit value formation borders on the irresponsible.
 
 Critics like E. D. Hirsch offered a compromise between these two positions,
 arguing that although value-making contaminates all acts of interpretation, the
@@ -683,10 +669,9 @@ its cadres to pursue the literary function everywhere, indiscriminately. A more
 neutral and broad consideration of literary domain can include and preserve all
 extant forms of textuality.
 
-[^ln2-zoo]: There are several studies that explore
-the effect of perceived aesthetics on zoology and conservation. See esp.
-@stokes_things_2007; @frynta_are_2009. The short of it: cute animals get more
-funding.
+[^ln2-zoo]: There are several studies that explore the effect of perceived
+aesthetics on zoology and conservation. See esp.  @stokes_things_2007;
+@frynta_are_2009. The short of it: cute animals get more funding.
 
 I am trying to burrow (impatiently, because the archive is thick, and the
 bedrock far) from a big idea, like literature, down to its more modest textual
@@ -798,28 +783,26 @@ the realm of the ideal, it still needs a bare minimum of physical matter to
 function. And Turing's paper contains the canonical description of that bare
 physical minimum.
 
-With the above two observations in mind, we can view
-abstracted universal Turing machines, as implemented in the Wireworld universe
-(a cellular automaton simulation), for example, or in Minecraft (a procedurally
-generated sand-box world-exploration game), as recursive, second-order
-ideational constructs, built on top of first-order physical mechanisms (a
-personal computer, in the case of Wireworld and Minecraft). We know this,
-because all *n+*-order Turing machines are limited in computational power by
-the physical capabilities of that bottom-most device (the physical machine
-writing the simulation). The simulated UTM cannot outperform (in terms of
-cycles per second, instructions per cycle, or its capacity to hold a number of
-instructions) the machine doing the simulation. If we disregard the dizzying
-levels of recursion (a Turing machine, simulating a Turing machine, simulating
-a Turing machine and so on [foobar check sense]), we can begin to examine the
-turtle at the bottom, which has its head in the symbolic and its feet firmly in
-the physical world.
+With the above two observations in mind, we can view abstracted universal
+Turing machines, as implemented in the Wireworld universe (a cellular automaton
+simulation), for example, or in Minecraft (a procedurally generated sand-box
+world-exploration game), as recursive, second-order ideational constructs,
+built on top of first-order physical mechanisms (a personal computer, in the
+case of Wireworld and Minecraft). We know this, because all *n+*-order Turing
+machines are limited in computational power by the physical capabilities of
+that bottom-most device (the physical machine writing the simulation). The
+simulated UTM cannot outperform (in terms of cycles per second, instructions
+per cycle, or its capacity to hold a number of instructions) the machine doing
+the simulation. If we disregard the dizzying levels of recursion (a Turing
+machine, simulating a Turing machine, simulating a Turing machine and so on),
+we can begin to examine the turtle at the bottom, which has its head in the
+symbolic and its feet firmly in the physical world.
 
 Literature in computer science tends to confront universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.
 As consummate thinkers on the level of the symbol, computer scientists and
 literary scholars (unlike, say, electrical engineers or book binders) rarely
-need to pay heed to that strange bottom-most turtle.[^ln2-bottom foobar check
-for this note] Yet it is impossible to entirely disassociate the implementation
+need to pay heed to that strange bottom-most turtle.[^ln2-bottom] Yet it is impossible to entirely disassociate the implementation
 from the idea. In his review of Turing's "On Computable Numbers" paper, Alonzo
 Church, the American mathematician whose work anticipated Turing's
 (independently) in several important aspects, wrote that "a human calculator,
@@ -845,14 +828,19 @@ his "*a*-machine" in terms of paper tape medium, scanning, erasing, "writing
 down notes," "external operators," and "moves" of the mechanism. From the
 engineering standpoint, Turing's machine can be reduced (1) to the mechanism
 for "reading" and "writing" symbols onto and from paper storage media, and (2)
-to the paper tape storage medium itself (as seen in Mike Davey's reconstruction
-FOOBAR ELABORATE). In the United States, these elements would find prior art in
+to the paper tape storage medium itself (as seen in Mike Davey's
+reconstruction). In the United States, these elements would find prior art in
 mechanisms such as the "Numeral adding or subtracting attachment for
 type-writing machines" (US517735, filed in 1893 and issued in 1894), "Combined
 Type-writing and Computing Machine" (US990238, 1896--1897), "Computing
 Attachment for Typewriters" (US1162730, 1908--1915), "Computing Mechanism"
 (US1105170, 1908--1914), and "Combined Type-writing and Adding Machine"
 (US1244398, 1910--1917) among others.
+
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012. Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
 
 By the end of the nineteenth century a number of lesser mechanisms anticipate
 the functional elements of Turing's mechanism. And by 1936, when Turing
@@ -863,14 +851,14 @@ and computing typewriters made by companies like Underwood Computing Machine,
 Electromatic, and International Business Machines (IBM). Rather than a single
 eureka moment, the invention of the universal machine should be viewed as a
 gradual historical process that culminates in Turing's universal (and minimally
-viable) specifications. 
+viable) specifications.
 
-When viewed in the context of literary, book, and
-textual history (instead of the history of mathematics), the universal Turing
-machine signifies a culmination of several broad, long-term trends that begin
-with the invention of writing itself. Since much has been written on the first
-two of these periods, I will outline them briefly with the intention of
-elucidating the third in greater detail:
+When viewed in the context of literary, book, and textual history (instead of
+the history of mathematics), the universal Turing machine signifies a
+culmination of several broad, long-term trends that begin with the invention of
+writing itself. Since much has been written on the first two of these periods,
+I will outline them briefly with the intention of elucidating the third in
+greater detail:
 
 1. The mechanization of type and the accompanying normalization of language
 that begins with the diffusion of movable type in China and Europe, circa 1040
@@ -896,7 +884,7 @@ the absence of the identifying "hand," the telegraph clerk's and the censor's
 mark cannot be distinguished from the author's (a common literary plot device
 in the fiction of the period). The notion of a telegram's "fidelity" therefore
 becomes an attribute of the communication channel as a whole (instead of an
-attribute attached to authorial intent).  
+attribute attached to authorial intent).
 
 3. Finally, the rise of Turing machines in the late nineteenth and early
 twentieth centuries elevates print from an intelligence-conveying medium to one
@@ -972,32 +960,32 @@ broadcast programming devices for radio and television content (US1974062,
 1932--1934; US2031074, 1931--1936). With the invention of punch cards and
 perforated tape (also used in textile looms, as early as 1725), a message meant
 for another human became also a physical medium---bumps and holes---used to
-FOOBAR mechanical movement of the transmission apparatus. 
+FOOBAR mechanical movement of the transmission apparatus.
 
-For example, of the
-33 asserted claims in the Bumstead brothers' patent, the first 13 relate to the
-"transmission of intelligence [...] adapted to initiate a succession of
-electrical impulses all of which have a character representing significance, a
-receiver adapted to detect variations in time intervals elapsing between
-successive impulses, a plurality of interpreting relays selectively actuated by
-said receiver, and a printed mechanism responsive for the combined action"
-[@bumstead_telegraphy_1916, 12-13]. Up to this point, the patent describes a
-device for transmission information, from type to print. Starting with clause
-14, the language changes to describe a more general "telegraph system,"
-involving "an impulse transmitter having means to vary the time intervals
-between successive transmitted impulses, each time interval having a character
-*representing significance*, a receiver responsive to said devices, and signal,
-*distributing*, *interpreting*, and recording devices responsive to the
-contiguous significant time intervals defined by the impulses [emphasis mine]"
-[@bumstead_telegraphy_1916, 14]. For the automated telegraph the control code
-and the message are one: that is, the arrangement of perforation on the ticker
-tape affects the internal mechanical configuration of the machine. Another way
-to put this would be to say that the state of the tape-driven telegraph machine
-at any given time is also, in part, a message meant for the human recipient.
-The printing telegraph of Brothers Bumstead, along with their subsequents and
-antecedents, contain all the necessary parts for a Turing machine: discrete
-symbolic language, removable storage medium, and a device that can alter its
-internal state based on the reading and writing passing symbols.
+For example, of the 33 asserted claims in the Bumstead brothers' patent, the
+first 13 relate to the "transmission of intelligence [...] adapted to initiate
+a succession of electrical impulses all of which have a character representing
+significance, a receiver adapted to detect variations in time intervals
+elapsing between successive impulses, a plurality of interpreting relays
+selectively actuated by said receiver, and a printed mechanism responsive for
+the combined action" [@bumstead_telegraphy_1916, 12-13]. Up to this point, the
+patent describes a device for transmission information, from type to print.
+Starting with clause 14, the language changes to describe a more general
+"telegraph system," involving "an impulse transmitter having means to vary the
+time intervals between successive transmitted impulses, each time interval
+having a character *representing significance*, a receiver responsive to said
+devices, and signal, *distributing*, *interpreting*, and recording devices
+responsive to the contiguous significant time intervals defined by the impulses
+[emphasis mine]" [@bumstead_telegraphy_1916, 14]. For the automated telegraph
+the control code and the message are one: that is, the arrangement of
+perforation on the ticker tape affects the internal mechanical configuration of
+the machine. Another way to put this would be to say that the state of the
+tape-driven telegraph machine at any given time is also, in part, a message
+meant for the human recipient.  The printing telegraph of Brothers Bumstead,
+along with their subsequents and antecedents, contain all the necessary parts
+for a Turing machine: discrete symbolic language, removable storage medium, and
+a device that can alter its internal state based on the reading and writing
+passing symbols.
 
 By 1905, Murray (of the Murray telegraph and alphabet) can write that "if we
 disregard the small class of telegrams that merely express emotions, *the
@@ -1021,4 +1009,66 @@ changes its internals as it receives instructions to inform and to control. For
 now I ask only who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
+
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
+being "responsible for encoding bits onto a transmission medium, whether wires,
+fiber optics, or radio broadcast, in ways that maximize the transmission rate
+and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln2-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+a science and the ideology [...] the fact that such an investigation confronts
+us with the observation that every science, in the relationship it has with
+ideology it emerged from, can only be thought as a 'science of ideology, would
+disconcert us, were we not forewarned of the name of the *object* of knowledge,
+which can only exist in the form of ideology [@althusser_reproduction_2014,
+46]."
+
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+statements like "ethnology-like any science-comes about within the element of
+discourse," and "this moment was that in which language invaded the universal
+problematic; that in which, in the absence of a center or origin, everything
+became discourse-provided we can agree on this word-that is to say, when
+everything became a system where the central signified, the original or
+transcendental signified, is never absolutely present outside a system of
+differences. The absence of the transcendental signified extends the domain and
+the interplay of signification ad infinitum" (278-294).
+
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
 
