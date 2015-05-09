@@ -1,7 +1,7 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction"
 author: "Dennis Tenen"
-style: mla.csl
+style: csl/chicago-note.csl
 bibliography: plain-text.bib
 toc: true
 documentclass: article
@@ -16,7 +16,7 @@ American Philosophical Society*, Frank Halstead notes that "it is hard to say
 to what particular field of the arts or sciences that signal code development
 pertains." "It is a matter somewhat related to the general art of cryptology,
 yet it is not wholly divorced from electrical engineering nor from general
-philology [@halstead_genesis_1949, 456]."
+philology" [@halstead_genesis_1949, 456].
 
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln-char] Let these words soak in for a moment. I will spend the rest
@@ -83,7 +83,7 @@ The idea that "meaning" is always in some sense "operational meaning" is a
 proposition implicit in several related philosophical traditions. The first of
 these is pragmatism, broadly conceived. William James articulates that view
 when he writes that "reality is seen to be grounded in a perfect jungle of
-concrete expediencies [@james-pragmatism-conceptionoftruth]." For James (and,
+concrete expediencies" [@james-pragmatism-conceptionoftruth]. For James (and,
 to some extent, for his fellow travelers in American pragmatism, Charles
 Sanders Peirce and John Dewey)[^ln-pragma-truth] the pragmatic answer to the
 question of truth could be reduced to the questions efficient causes and
@@ -93,7 +93,7 @@ anyone's actual life? What experiences will be different from those which would
 obtain if the belief were false?" Frank Ramsey, the young British philosopher
 close to Ludwig Wittgenstein, was influenced by the Americans and would later
 write that meaning "is to be defined by reference to the actions to which
-asserting it would lead [@ramsey-foundationsofmath p.155]."
+asserting it would lead" [@ramsey-foundationsofmath, 155].
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see
 @seigfried, @pihlström, and @putnam-james-theory.
@@ -153,7 +153,7 @@ dazzlingly lighted hall which may be reached only by passing through a long and
 ghastly kitchen ." "We shall reach really fruitful and luminous generalizations
 about vital phenomena only in so far as we ourselves experiment and, in
 hospitals, amphitheaters, or laboratories stir the fetid or throbbing ground of
-life [@bernard, p.3-15]."
+life" [@bernard, 3-15].
 
 It is my belief also that the lighted halls of contemporary literary and media
 theory can be best through the long and ghastly kitchen of everyday practice.
@@ -183,8 +183,8 @@ generation's dissatisfaction with "armchair" philosophizing.  Recall the
 burning armchair, the symbol of "experimental philosophy" movement proposed by
 Joshua Knobe and Shaun Nichols, who write that "many of the deepest questions
 of philosophy can only be properly addressed by immersion oneself in the messy,
-contingent, highly variable truths about how human being really are
-[@knobe-nichols, p3]." In the field of media and literary studies, it is almost
+contingent, highly variable truths about how human being really are"
+[@knobe-nichols, 3]. In the field of media and literary studies, it is almost
 impossible to avoid the influence of "archeology of knowledge," as advanced in
 its many permutations by Michel Foucault and his followers. Yet, such
 archeologies deal with "artifacts" and "excavations" only as metaphors for what
@@ -196,7 +196,7 @@ what sometimes they dub as the history of craft or "artifactual knowledge." In
 preface to a recent volume on *Ways of Making and Knowing*, edited by Pamela
 Smith, Amy Meyers, and Harold Cook, the editors write that the "history of
 science is not a history of concepts, or at least not that alone, but a history
-of the making and using of objects to understand the world [@smith, p12]." As a
+of the making and using of objects to understand the world" [@smith, 12]. As a
 historian of science in the Early Modern period, Smith translates that insight
 in the laboratory, where along with her students she bakes bread and smelts
 iron to recreate long-lost artisanal techniques. The major insight from Smith
@@ -539,8 +539,8 @@ The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln1-maley] For example, in a popular book
 about what a "well-informed person should know about computers," Brian
 Kernighan writes about "analog" as something meant to convey "the idea of
-values that change smoothly as something else changes [@kernighan_d_2011,
-526]." Much of the world is analog, Kernighan explains. A water tap, a pen, or
+values that change smoothly as something else changes" [@kernighan_d_2011,
+526]. Much of the world is analog, Kernighan explains. A water tap, a pen, or
 a car steering wheel are all examples of analog interfaces. For example, when
 riding a bicycle, turning the handlebars one way results in a corresponding
 motion of the machine. This motion is smooth. Compare that with the action of a
@@ -564,8 +564,8 @@ The philosopher Nelson Goodman (responsible for bringing the digital
 conversation into the realm of aesthetic theory in the analytic tradition)
 makes a further distinction in maintaining that digital systems must be more
 than merely "discontinuous," but also "differentiated throughout." By contrast,
-analog systems are "dense" and "undifferentiated to the extreme
-[@goodman_languages_1968, 159-164]." Written language and music notation, by
+analog systems are "dense" and "undifferentiated to the extreme"
+[@goodman_languages_1968, 159-164]. Written language and music notation, by
 this definition, are digital systems par excellence, having the property of
 reducing the undifferentiated, analog input (human thought) into discrete
 semantic units (text or musical notation).[^ln1-goodman] Following Goodman's
@@ -750,8 +750,8 @@ single-Morse systems. By 1901, however, the authors were issued an American
 patent for the "Writing Telegraph," which builds on their previous design in an
 interesting way. Rather than using a wave in four steps, the authors propose an
 "automatic transmitter capable of sending current impulses over the line which
-correspond to the direction and the size of a single letter element
-[@pollak_writing-telegraph._1901, 3]." In other words, they wanted to bend the
+correspond to the direction and the size of a single letter element"
+[@pollak_writing-telegraph._1901, 3]. In other words, they wanted to bend the
 sinusoidal wave to correspond roughly to the shape of the letter (see Figure
 2).
 
@@ -905,7 +905,7 @@ temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
 signals (like a signboard) occupy little space, but persist in time. "For
 instance, a signboard may extend over 10 feet and 100 years," Murray writes.
 Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
-over half a second and 500 miles [@murray_setting_1905, 86]."
+over half a second and 500 miles" [@murray_setting_1905, 86].
 
 The turn of the twentieth century represents a pivotal moment in the
 development of universal Turing machines. The advent of removable storage
@@ -981,7 +981,7 @@ paralysis of wrist or arm, commonly known as a "glass arm"
 Genesis and Speed of Telegraph Codes," Frank Halstead notes that "the practical
 upper limits of speed will also be limited by the ability of some human beings
 to operate a keyboard, until such time as electrical connection be made direct
-with the receiver's central nervous system [@halstead_genesis_1949, 451]."
+with the receiver's central nervous system" [@halstead_genesis_1949, 451].
 
 A sender is a "ham" or a "bum" when he "falls down" or makes errors in sending.
 To "put someone under the table" in sender's lingo is to transmit faster that
@@ -1005,9 +1005,9 @@ dominant mode of commercial communication. The monthly "Labor Review" report
 published by the U.S. Bureau of Labor Statistics in March of 1932 estimates
 more than a 50 percent drop in the number of Morse code operators between the
 years of 1915 and 1931. Morse operators referred to the tele-typists on the
-sending side as "punchers" and on the receiving side as "printer men
-[ln1-printermen]." The printer men responsible for assembling pages from ticker
-tape were called "pasters" and sometimes, derisively, as "paperhangers"
+sending side as "punchers" and on the receiving side as "printer
+men."[^ln1-printermen] The printer men responsible for assembling pages from
+ticker tape were called "pasters" and sometimes, derisively, as "paperhangers"
 [@brackbill_telegraphers_1929]. Where, in the Morse code machine, a
 human-operator was responsible for translating language into code, teletype
 automated the process completely. The human operator could simply enter printed
@@ -1151,27 +1151,26 @@ signal without machine assistance. In the language of wiremen, the bugs were
 
 [^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
 "systematic logic in the dominant cultural technique," representative of the
-"order of digital signals [@siegert_cacography_2011, 41]." Although not
+"order of digital signals" [@siegert_cacography_2011, 41]. Although not
 concerned with the history or philosophy of digital media explicitly, Siegert
 suggests that the writing telegraph symbolizes the cleansing of "the noise of
 all graphic form." His theory of cultural techniques instead creates "an
 awareness for the plenitude of a world of as yet undistinguished things, that,
 as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture [@siegert_cacography_2011, 35]."
+reference for every type of culture" [@siegert_cacography_2011, 35].
 
 [^ln1-virag]: The Pollak-Virag device also proposed an "electromagnetic
 vibrator" coupled to a recording "mirror-galvanometer." The authors further
 specify for "the vibrator on the receiving instrument [to] vibrate in harmony
 with these impulses, vibrating in one direction or the other, according to
-their sign and to an extent depending on their intensity [@pollak_means_1900]."
+their sign and to an extent depending on their intensity" [@pollak_means_1900].
 
 [^ln1-dervish]: One could make more of the Dervish being used here as a
 negative example, in an instance of colonial gaze. But Murray himself was an
 empire outsider, born in the small, remote town of Invercargill, New Zealand (a
 town that also happens to be one of the southern-most cities in world). "I am a
 child of the Southern Cross," he writes in *Philosophy of Power*, "and I have
-no preordained respect for geniuses born under the Northern constellations
-[@murray_philosophy_1939, 51]."
+no preordained respect for geniuses born under the Northern constellations" [@murray_philosophy_1939, 51].
 
 [^ln1-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
 those who assert the materiality of the soul, affirming it to be homogeneous,
@@ -1184,7 +1183,7 @@ himself; and this being broken, separation took place; and the continuity,
 which was in him from creation, became like a chain, or a piece of linked
 work, which falls to pieces when the hooks above are broken or torn out, and
 then hangs down from small threads. Separation or rupture was brought about,
-and is brought about, by the denial of God [@swedenborg_apocalypse_1901, 290]."
+and is brought about, by the denial of God" [@swedenborg_apocalypse_1901, 290].
 
 [^ln1-golumbia]: See @golumbia_cultural_2009: "Following a line of criticism
 that extends at least as farm back as Kant [...] (loc. 63)." Paraphrasing
@@ -1264,11 +1263,11 @@ We can only imagine what it is like to be a bat *for* a human. "Certainly it
 appears unlikely," Nagel writes, "that we will get closer to the real nature of
 human experience by leaving behind the particularity of our human point of view
 and striving for a description in terms accessible to beings that could not
-imagine what it was like to be us [@nagel_what_1974, 444]."[^ln1-nagel] Nagel
+imagine what it was like to be us" [@nagel_what_1974, 444].[^ln1-nagel] Nagel
 suggests: "Though presumably it would not capture everything, its goal would be
 to describe, at least in part, the subjective character of experiences in a
-form comprehensible to beings incapable of having those experiences
-[@nagel_what_1974, 449]."
+form comprehensible to beings incapable of having those experiences"
+[@nagel_what_1974, 449].
 
 I do not know what a truly objective phenomenology would look like, but I would
 like to think that it would lie, at least in part, in the underlying material
@@ -1331,7 +1330,7 @@ then, "What *should* constitute a moment?" For the tick lying in wait for its
 next warm meal, the moment can last for decades (Uexküll reports up to 18
 years). "Time, which frames all events," Uexküll writes, "seemed to us to be
 the only objectively consistent factor […], but now we see that the subject
-controls the time of its environment [@uexkull_foray_2010, 52]." The
+controls the time of its environment" [@uexkull_foray_2010, 52]. The
 computational environment before us constitutes the grounds for all
 higher-level textual activity, from record keeping to poetry and software
 development. From the textual grounds of human--machine interaction it then
@@ -1359,7 +1358,7 @@ fewer perforations to common English letters (@murray_setting_1905, 567).
 
 [^ln1-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
-current [@itu_telegraph_1932, 36]."
+current" [@itu_telegraph_1932, 36].
 
 [^ln1-kittler]: This along with the ominous "laying of cables" that concludes
 Friedrich Kittler's *Gramophone, Film, Typewriter*.
@@ -1413,9 +1412,9 @@ you have written recently: a paper or a proposal perhaps.
 @weel2012.  What does it mean to know something?  Sartre and Beckett.  ###
 Recursive Encounters with Oneself
 
-Text as vector. Barthes: text as "an organism which grows by vital expansion
-[@barthes1978, 161]." " "The metaphor of the Text is that of the *network*
-[@barthes1978, 161]."
+Text as vector. Barthes: text as "an organism which grows by vital
+expansion"[@barthes1978, 161].  "The metaphor of the Text is that of the
+*network*" [@barthes1978, 161].
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a
 vector. The problem of annotation. What are we annotating? Annotation solutions
@@ -1432,7 +1431,7 @@ allographic art. Whether forgery is possible. Digital vs. analog art. Analog
 art is medium bound. Digital abstracts from the material.
 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to
-other pages [@fetterly2003]."
+other pages" [@fetterly2003].
 
 ### 3.7 Spooky Action at a Distance
 
@@ -1499,9 +1498,10 @@ Signal Book, United States Army: 1916
 "Robots have also the attribute in common of being able to affect human beings
 or other targets 'at a distance,' a book, a radio or a television sender can
 entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
-kill people and destroy at a distance. The book is a robot par excellence
-[@moreno_who_1953, 238]." So wrote Jacob Moreno, a contemporary adversary of
-Sigmund Freud and one of the pioneers in sociology and group therapy.
+kill people and destroy at a distance. The book is a robot par
+excellence"[@moreno_who_1953, 238]. So wrote Jacob Moreno, a contemporary
+adversary of Sigmund Freud and one of the pioneers in sociology and group
+therapy.
 
 Zoomatics --- the relationship of man to man and the relation of man "to certain
 peculiar products of his mind, which when separated from him, can function
@@ -1777,7 +1777,7 @@ writing from an autographic into a supremely allographic art. The Gutenberg
 press helped place a copy of the bible into the hands of every ordinary
 believer. That meant also minimizing the role of the priest as a privileged
 interpreter. Without books in hand Martin Luther could not have written "all
-who are in the church are priests [@hillerbrand_protestant_2009]." Movable type
+who are in the church are priests" [@hillerbrand_protestant_2009]. Movable type
 lifted text from rarefied media of parchment into that of the reified and
 disposable leaflet. But until well into the middle of the 20th century, the
 printing press remained in the realm of big technology: expensive, centralized,
@@ -1809,8 +1809,8 @@ From the "point of view" of a photocopier, the text exists only as pure form.
 The electro-photographic process at the basis of modern photocopying (invented
 in the 1930s, but with patents dating back to the middle of the 19th century)
 describes documents in terms of "electric charge patterns," "photoemissive
-layers," and "sheet surfaces [@carlson_electron_1940,
-@carlson_electrophotography_1942, @carlson_graphic_1953]." The photocopier is a
+layers," and "sheet surfaces"  [@carlson_electron_1940,
+@carlson_electrophotography_1942, @carlson_graphic_1953]. The photocopier is a
 device for total graphesis and extreme surface reading.[^ln11-ooo]. There is no
 word or content for the photocopier: only paper and image. The photocopier's
 "job", if you will, is to lift a picture from one page and to impress it into
@@ -1865,7 +1865,7 @@ three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
 *Romeo and Juliet*, and others. Editors choose which version to use as their
 base text, and then amend that text with words, lines or speech prefixes from
 the other versions that, in their judgment, make for a better or more accurate
-text [@mowat_textual_2012]." In other words, where the readers expect to
+text" [@mowat_textual_2012]. In other words, where the readers expect to
 encounter *Hamlet* as a single, unified idea, they instead encounter a
 multiplicity of slightly diverging textual "witnesses." Errors in transcription
 and editorial interventions accumulate. The proliferation of unlicensed copies,
@@ -1888,7 +1888,7 @@ of logical possibilities find as many ardent adherents. For some, the act of
 deriving the authoritative text lies in reconstructing authorial intent, using
 the author's notes, for example, or from first-hand witness testimony. Others
 place a premium on reconstructing and analyzing the writing process itself, in
-what has been dubbed as "genetic criticism  [@deppman_genetic_2004, 1-36]." Yet
+what has been dubbed as "genetic criticism" [@deppman_genetic_2004, 1-36]. Yet
 another approach will compare multiple editions of the same text to derive a
 possible meta-text, preserving all extant variations. Yet others will simply
 rely on their judgment to produce what they believe is a "true" text based on a
@@ -1907,7 +1907,7 @@ of the ideal.
 [ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
 reading or listening to receive a message from the past entails the effort to
 discover, through the text (or texts) one is presented with, the work that lies
-behind [@tanselle_rationale_2010, 13-18.]."
+behind" [@tanselle_rationale_2010, 13-18.].
 
 Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
 William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
@@ -1949,8 +1949,8 @@ inch down [@staniforth_historical_2013, 2]?"
 necessity full in the face and understand it on its own terms. It is a
 necessity for destruction. Accept it as such, pull the building down, throw its
 stones into neglected corners, make ballast of them, or mortar, if you will'
-but do it honestly, and do not set up a Lie in its place
-[@staniforth_historical_2013, 3]."
+but do it honestly, and do not set up a Lie in its
+place"[@staniforth_historical_2013, 3].
 
 On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
 alter of a Company in the Church of S. Francesco, he painted in fresco the
@@ -2051,10 +2051,10 @@ plurality of copies for a unique existence. And in permitting the reproduction
 to meet the beholder or listener in his own particular situation, it
 reactivates the object reproduced. These two processes lead to a tremendous
 shattering of tradition which is the obverse of the contemporary crisis and
-renewal of mankind [@benjamin_work_1969, 217-253]." And yet, for Benjamin, the
+renewal of mankind" [@benjamin_work_1969, 217-253]. And yet, for Benjamin, the
 easy reproducibility of modern art forms like film and photography also
-"emancipates the work of art from its parasitical dependence on ritual
-[@benjamin_work_1969, 217-253]." One could read Benjamin's famous essay as a
+"emancipates the work of art from its parasitical dependence on ritual"
+[@benjamin_work_1969, 217-253]. One could read Benjamin's famous essay as a
 piece of technological nostalgia, or as an expose on the magic and superstition
 latent in modernist art. Crisis or emancipation? Benjamin feels both, and in
 doing so he captures the metaphysical anxiety of the modern age. We desire for
@@ -2136,7 +2136,7 @@ indicate a category of relate, or, an individual instance of a given work.
 Philosophers Nelson Goodman and Catherine Elgin explain this peculiarity by
 making the distinction between "works of art whose identity depends on their
 history of production" and works whose identity does not. The former they call
-"autographic" and the latter "allographic [@goodman_reconceptions_1988, 65]."
+"autographic" and the latter "allographic" [@goodman_reconceptions_1988, 65].
 These terms will be useful for us throughout the book. Architecture and
 painting, in this view, are strongly autographic disciplines. An exact copy of
 a Vermeer or of a building by Frank Lloyd Wright could never rise to the status
@@ -2321,8 +2321,7 @@ and the artifactual.
 "A text editor is often the primary interface
 between a user and the system, and the program with which most user time is
 spent. Accordingly, an editor has to be easy to use, and efficient of the
-user's time---editing commands have to 'flow off the fingertips.'
-[@kernighan1978, 2117]."
+user's time---editing commands have to 'flow off the fingertips.'" [@kernighan1978, 2117].
 
 Containing an argument for text as an interface between human and machine.
 History of combinatorial languages and logic.  Stack as a model of
@@ -3107,8 +3106,8 @@ out of time, continues to surprise with penetrating insight.
 "All these software mutations and 'new species' of software techniques are
 social in a sense that they don't simply come from individual minds or from
 some 'essential' properties of a digital computer or network. They come from
-software developed by groups of people and marketed to large number of users
-[@manovich_there_2011, 272-273]."
+software developed by groups of people and marketed to large number of
+users"[@manovich_there_2011, 272-273].
 
 "An [algorithm] is therefore a mysterious thing, simply because in it the
 social character of men's [agreements] appears to them as an objective
@@ -3122,7 +3121,7 @@ material relations between person and social relations between things."
 of the will, foresight and action of the producers.  To them, their own social
 action takes the form of the action of objects, which rule the producers
 instead of being ruled by them." To strip the "mystical veil," algorithms as
-contracts between "freely associated men [@marx_marx-engels_1978, 327]." "this
+contracts between "freely associated men" [@marx_marx-engels_1978, 327]. "this
 automatism outside the head" .Necromancy.
 
 Hijack the whole conversation from the
@@ -3136,7 +3135,7 @@ Derrida "If one follows the letter of the text, the critique of the ghost or of
 spirits would thus be the critique of a subjective representation and an
 abstraction, of what happens in the head, of what comes only out of the head,
 that is, of what stays there, in the head, even as it has come out of there,
-out of the head, and survives outside the head [@derrida_specters_2006, 215]." 
+out of the head, and survives outside the head" [@derrida_specters_2006, 215].
 
 In religion people make their empirical world into an entity that is only
 conceived, imagined, that confronts them as something foreign
@@ -3253,16 +3252,15 @@ to research, but was the stated object of research itself.
 "A short computer
 program that is permanently resident or easily loaded into a computer and whose
 execution brings a larger program, such as an operating system or its loader,
-into memory [@ieee_ieee_1990, 13]."
+into memory" [@ieee_ieee_1990, 13].
 
-"the techniques being explored are implemented, studies, and
-evaluated with the advantage of intensive everyday use
-[@engelbart_augmented_1973, 12]."  Much later, in the
-1990s, Engelbart 
+"the techniques being explored are implemented, studies, and evaluated with the
+advantage of intensive everyday use" [@engelbart_augmented_1973, 12].  Much
+later, in the 1990s, Engelbart 
 
 "They must bootstrap themselves into a new kind of ``think,'' into a new climate
 of man-machine interaction, in which men evolve intelligent machines and
-intelligent machines evolve men [@brodey_human_1967, 86]."
+intelligent machines evolve men" [@brodey_human_1967, 86].
 
 Engelbart borrows the idea of "bootstrapping" from . The
 animation of inorganic matter

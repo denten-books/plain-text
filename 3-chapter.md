@@ -73,8 +73,8 @@ discussing epistemology (or something along these lines). The unexpected
 transference of properties accentuates and renews a familiar image.  In what
 sense could one "mow" a "verdant" "field" of ideas? Such unusual juxtapositions
 renew the peculiarity of the initial metaphor. The figure is "made strange"
-again, in what Shklovsky calls the technique of poetic "estrangement
-[@shklovksy_sborniki_1917]."
+again, in what Shklovsky calls the technique of poetic "estrangement"
+[@shklovksy_sborniki_1917].
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
@@ -154,7 +154,7 @@ normally reserved for reverse-engineering of data objects.[^ln3-mechanisms]
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
-degenerative links between humans and machines [@chun_enduring_2008, 148]." If
+degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
 the floating gate transistor,[^ln3-gate] where my text now lives, can be called
 the enduring ephemeral, I will call my liquid crystal display, where the text
 shows itself, fading persistence. This is not to believe (fearing the wrath of
@@ -180,7 +180,7 @@ through an outer gate, the floating gate charges up. The charges are stored
 even after the removal of the charging field due to much lower back transport
 probability [...] Such a device functions as a bistable memory with
 nondestructive read-out features. The memory holding time observed was longer
-than one hour [@kahng_floating_1967, 1288]." See also @horton_experimental_1962
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
 and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
 
 I have before me at least two inscriptions: one as circuit state on my hard
@@ -197,8 +197,8 @@ we suspect, somehow transformed: less solid and concealing something beneath
 the phantasmal shell of its former appearance.[^ln3-denning]
 
 [^ln3-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems
-[@denning_third_1971]."
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].
 
 #### A. Removable storage media and automation, 1725-1964.[^ln3-loom]
 
@@ -209,7 +209,7 @@ Furthermore, the object of his invention is "to provide a mechanism operable by
 a control sheet which is legible to every person having sufficient education to
 enable him to read ." Goldberg's illustrates his invention in attaching to his
 patent "a control sheet in which the control characters are in the form of the
-letters of the ordinary English alphabet [@goldberg_controller_1915]." Rather
+letters of the ordinary English alphabet" [@goldberg_controller_1915]. Rather
 than using ticker tape, Goldberg's perforations form letters. On Goldberg's
 control sheets, the language of machines and the language of humans coincide.
 
@@ -223,8 +223,8 @@ automated telegraph, content meant for people was now being intermixed with
 machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
 using cards, perforated in the shape of the English alphabet. Besides carrying
 (human-readable) content, the perforations do "double duty" to mechanically
-manipulate the machine's "blocks," "handles," "terminal blades," and "plungers
-[@goldberg_controller_1915]." Early paper-based storage media, from Morse-code
+manipulate the machine's "blocks," "handles," "terminal blades," and "plungers"
+[@goldberg_controller_1915]. Early paper-based storage media, from Morse-code
 based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
 punch-cards that powered weaving looms, player pianos, and census tabulators
 coupled message and control. The era of ticker tape punch cards can be thought
@@ -250,7 +250,7 @@ fragile, unwieldy, and most of all, visible.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card [@may_ibm_1981, 744]." Image by Pointillist
+a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
 The principles of magnetic recording were developed by Oberlin Smith (among
@@ -275,7 +275,7 @@ in the *IBM Journal for Research and Development* explains that the real
 significance of the MT/ST workstation was in the introduction of new "power
 typing" technologies: "For the first time the typist could type at 'rough
 draft' speed, 'backspace and strike over' errors, and not worry about the
-pressure of mistakes made at the end of the page [@may_ibm_1981, 742]."
+pressure of mistakes made at the end of the page" [@may_ibm_1981, 742].
 
 We may think of word processing as temporal extension of the page. Words on
 magnetic storage medium begin to exist in the ephemeral state, giving the
@@ -335,7 +335,7 @@ along with DARPA, Engelbart describes his lab as a group of scientists
 "developing an experimental laboratory around an interactive, multiconsole
 computer-display system" and "working to learn the principles by which
 interactive computer aids can augment the intellectual capability of the
-subjects [@engelbart_human_1969, 1]." Cathode Ray Tube (CRT) displays were
+subjects" [@engelbart_human_1969, 1]. Cathode Ray Tube (CRT) displays were
 central to this research mission. In one of many patents that came out of
 "intellect augmentation" laboratory, Engelbart pictures the "display system" as
 a workstation that combines a typewriter, a CRT, and the mouse. The system is
@@ -346,8 +346,8 @@ correct the nonsensical FOB into a FOR. Engelbart writes, "One of the
 potentially most promising means for delivering and receiving information to
 and from digital computers involves the display of computer outputs as visual
 representation on a cathode ray tube and the alternation of the display by
-human operator in order to deliver instructions to the computer
-[@engelbart_x-y_1970]."
+human operator in order to deliver instructions to the computer"
+[@engelbart_x-y_1970].
 
 The CRT closes the circuit between human and machine, but at a cost. In
 practice, the short-lived screen-less word processors (like the IBM MT/ST)
@@ -556,7 +556,7 @@ literary theory and computer science.
 In talking about texts of all kinds, literary scholars and computer scientists
 often make a distinction between form and content. "Classical art, in a word,
 stands for form," R.G.  Collingwood wrote in 1929, and "romantic art for
-content [@collingwood_form_1929, 335]." In a much more recent work on
+content" [@collingwood_form_1929, 335]. In a much more recent work on
 computational text generation, Kathleen McKeown writes that to produce
 discourse, writers and speakers "must decide what to say and how to present it
 effectively." A machine that generates text should, among other things, be able
@@ -598,7 +598,7 @@ G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy between
 form and content in the literature on aesthetics. In his *Lectures on
 Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
 between its ideational, spiritual content and "the configuration of sensuous
-material [@hegel_hegels_1998, 70]." Whole books have been written on Hegel's
+material" [@hegel_hegels_1998, 70]. Whole books have been written on Hegel's
 rather technical and sometimes idiosyncratic vocabulary. Rather than define
 terms precisely, Hegel likes to bombard his reader with semantic cognates. On
 the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
@@ -618,14 +618,14 @@ In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
 reaching the realm of pure self-reflective Spirit. Romanticism, in his words,
 is "freed from this immediate existence which must be set down as negative,
-overcome, and reflected into the spiritual unity [@hegel_hegels_1998, 81]." He
+overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
 writes: "Poetry is the universal art of the spirit which has become free in
 itself and which is not tied down for its realization to external sensuous
 material; instead, it launches out exclusively in the inner space [sic] and the
-inner time of ideas and feelings [@hegel_hegels_1998, 89]." Finally,
+inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
 "inwardness celebrates its triumph over the external and manifests its victory
 in and on the external itself, whereby what is apparent to the senses alone
-sinks into worthlessness [@hegel_hegels_1998, 81]." Romantic art can, in this
+sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
 way, triumph over the external, material world, reaching, at its apex, what he
 calls the stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
 [@hegel_werke:_1986]. The idea overcomes matter to become both free from the
@@ -693,7 +693,7 @@ individual shuttles does not matter as much as the abstracted idea of shuttles.
 The abstraction endures as given instantiations break and shatter. There exist
 different types of shuttles, some used to weave wool and some for linen, but
 all of them, in Jowett's translation, "must contain the form or ideal (*eidos*)
-of shuttle [@plato_dialogues_1937, 389a-b]." In *Cratylus*, *eidos* stands for
+of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos* stands for
 the "universal lasting ideal" of all shuttles: exactly the opposite of
 *phantazomenōn* as "ephemeral instantiation" in the previous passage! Yet both
 *eidos* and *phantazomenōn* were reasonably translated into English as "form",
@@ -711,7 +711,7 @@ Hegel writes: "We translate the Greek word *eidos* by 'genus' or 'species',"
 but when "genus" or "species" are "seized as a number of similar determinations
 collected by reflection from several individuals, to serve as a *mark* for the
 convenience of the understanding, then we have the Universal in quite an
-external form [@hegel_philosophy_1870, 250]." In other words, as soon as *eidos*
+external form" [@hegel_philosophy_1870, 250]. In other words, as soon as *eidos*
 is instantiated, it moves from being an ideal form into an apparent shape, as
 an epistemological category.
 
@@ -755,15 +755,15 @@ Generations of critics, from Samuel Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, Hans-Georg Gadamer, to Slavoj Žižek puzzled at the
 dual status of literature between the universal and the concrete. For example,
 for Coleridge, the excellence of Shakespeare's works consisted in "that union
-and interpenetration of the universal and the particular
-[@coleridge_friend_1969, 457]." Wimsatt cites these passages to write that "in
+and interpenetration of the universal and the particular"
+[@coleridge_friend_1969, 457]. Wimsatt cites these passages to write that "in
 one terminology or another this idea of a concrete universal is found in most
-metaphysical aesthetic of the eighteenth and nineteenth centuries
-[@wimsatt_verbal_1954, 72]." Wimsatt concludes to write that in each individual
+metaphysical aesthetic of the eighteenth and nineteenth centuries"
+[@wimsatt_verbal_1954, 72]. Wimsatt concludes to write that in each individual
 poem there is something "which can never be expressed in other terms." Like
 irrational numbers, poetry and poetic language for Wimsatt can only be
-approached at their limit, not as "all it would be, yet all that can be had
-[@wimsatt_structure_1947, 280]." Hegel's "universal concrete" formula captures
+approached at their limit, not as "all it would be, yet all that can be had"
+[@wimsatt_structure_1947, 280]. Hegel's "universal concrete" formula captures
 an essential property of literature in its dual movement between the material
 and the ideal worlds.
 
@@ -780,8 +780,8 @@ in search of hidden drives, desires, or cognitive structures. By contrast to
 symptomatic reading, Stephen Best and Sharon Marcus describe a constellation of
 reading practices concerned with "what is evident, perceptible, apprehensible
 in text: what is neither hidden nor hiding; what, in the geometrical sense, has
-length and breadth but no thickness, and therefore covers no depth
-[@best_surface_2009, 9]." The authors identify a constellation of related
+length and breadth but no thickness, and therefore covers no depth"
+[@best_surface_2009, 9]. The authors identify a constellation of related
 interpretation practices at the surface: reading for material surface, reading
 for verbal structure, reading for affect, reading for description, reading for
 pattern, and finally, reading for literal meaning or "just reading."
@@ -793,10 +793,10 @@ critic in a privileged and unnecessarily meddling position between reader and
 text. "If excessive stress on content provokes the arrogance of interpretation,
 more extended and more thorough descriptions of form would silence," she
 writes. "The best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form [@sontag_against_1966, 8-9]."
+considerations of content into those of form" [@sontag_against_1966, 8-9].
 Marcus and Best remind the reader that Sontag's manifesto is not just an
-argument against interpretation, but also an "affective and ethical stance
-[@best_surface_2009, 10]." Strategies of "deep" interpretation carry with them
+argument against interpretation, but also an "affective and ethical stance"
+[@best_surface_2009, 10]. Strategies of "deep" interpretation carry with them
 also a claim to access, and an imbalance of interpretive acumen. The critic
 uncovers what the lay reader does not and cannot see. As an ethical stance,
 reading for external forms flattens the hierarchy between the lay reader and
@@ -832,13 +832,13 @@ rhyme and meter, the formalists downplayed the role of content and symbol. In
 this vein, the Italian futurist Filippo Marinetti wrote about the "grotesque
 funeral" of romantic notions of beauty, and the rise of a new "geometric and
 mechanical splendor." His generation was instead "in love with matter," wanting
-"to penetrate it and to understand its vibrations [@marinetti_marinetti:_1972,
-???]."[^ln3-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
+"to penetrate it and to understand its vibrations" [@marinetti_marinetti:_1972,
+???].[^ln3-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
 Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
 "becomes invisible" through frequent use. Such dead and transparent language
 can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
 served to counteract death by "resurrecting the word" in "making the form
-difficult [@shklovsky_hod_1923, ???]." Form, in that sense, renews content.
+difficult" [@shklovsky_hod_1923, ???]. Form, in that sense, renews content.
 The study of poetic language (and not necessarily poetry) therefore pays
 attention to device, which aids in the process of semantic renewal.
 
@@ -868,7 +868,7 @@ A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
 (*zvuk*) to "symbol" (*obraz*). Brik writes: "I believe that elements of
 symbolic and sonic [*zvukovoi*] art exist simultaneously, and that every given
 piece of [poetic] work comprises an equilibrium of these two heterogeneous
-poetic impulses [@shklovksy_sborniki_1917, 25]." Of the sixteen or so unique
+poetic impulses" [@shklovksy_sborniki_1917, 25]. Of the sixteen or so unique
 essays that appear in the three collected volumes (some of the essays repeat
 across volumes), thirteen have the word "sound" (*zvuk*), or some variation
 thereof, in the title, as "sound image," "sound gesture," and "sound
@@ -881,8 +881,7 @@ rationally. Poetry in the symbolic mode encodes meaning as inner sense: the
 elephant "stands for" memory, or the like. *Zaum* poetics (beyond sense)
 instead evoke affect through external shape, as sound. Khlebnikov writes that
 "incantation and beyonsense language are appeals 'over the head' of government
-straight to the population of feelings, a direct cry to the predawn of the soul
-[@khlebnikov_king_1990, 152]." Shklovsky defines *zaum* as "without words but
+straight to the population of feelings, a direct cry to the predawn of the soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without words but
 with sound. He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
@@ -917,19 +916,19 @@ Citing literary explorations by Goethe, Friedrich Schiller, and Georges Polti
 as his inspiration, Veselovsky almost always uses "form" in the sense of
 "formula" (and not at all as "shape" or "sound"). In this, he imagines the
 genetic development of literature as the development of universal forms and
-devices. He calls these constants "vagabond formulas
-[@veselovsky_sobranie_1913, 185]." He writes:
+devices. He calls these constants "vagabond formulas"
+[@veselovsky_sobranie_1913, 185]. He writes:
 
-> Somewhere, someone gave these plots (*siuzhety*) an apt expression, a formula,
-elastic enough to fit, if not new content, then new interpretations of plots
-rich in their associative possibilities. The formula endures.  Writers will
-return to it, altering its significance, expanding its meaning, and adopting it
-to new types. As the formula of "desire" was and continues to be repeated, so
-also are repeated the plots of *Faust* and *Don Juan* across the distance of
-centuries [...] We are connected to a tradition. We expand within it---not to
-create new forms, but to attach to them new sentiments and concerns. This
-dynamic could be considered as a type of "law of [cultural] energy conservation
-[@veselovsky_sobranie_1913, 475-476]."
+> Somewhere, someone gave these plots (*siuzhety*) an apt expression, a
+> formula, elastic enough to fit, if not new content, then new interpretations
+> of plots rich in their associative possibilities. The formula endures.
+> Writers will return to it, altering its significance, expanding its meaning,
+> and adopting it to new types. As the formula of "desire" was and continues to
+> be repeated, so also are repeated the plots of *Faust* and *Don Juan* across
+> the distance of centuries [...] We are connected to a tradition. We expand
+> within it---not to create new forms, but to attach to them new sentiments and
+> concerns. This dynamic could be considered as a type of "law of [cultural]
+> energy conservation. [@veselovsky_sobranie_1913, 475-47]
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's formula
@@ -1036,8 +1035,8 @@ Hegelian universal into the fabric of modern computing.
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
 publication editor is divided into three related sections, the document layout
-facility, the editing facility, and the printing facility
-[@kaiman_computer-aided_1968, 66]." The "layout," in Kaiman's vocabulary,
+facility, the editing facility, and the printing facility"
+[@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
 contains such things as justification, indentation, and spacing. These
 "primitive requests" can be combined to describe more complex "structures of
 the printed text." The creators of *QED*, another influential early text editor
@@ -1073,12 +1072,12 @@ this, the writers mean abstract or "logical" objects, like words and ideas. In
 describing FORMAT, an important early (circa 1968) "general-purpose" text
 processor (written in FORTRAN IV for OS/360 devices), George Berns describes
 the program's input as "free-form," (literally, free of form) in that it is
-"entirely free of positional restraint [@berns_format_1968, 85;
-@berns_description_1969, 141]." Text free of positional restraint, in that way,
+"entirely free of positional restraint" [@berns_format_1968, 85;
+@berns_description_1969, 141]. Text free of positional restraint, in that way,
 can be described in terms of "content,"  by contrast with "formatted" objects
 made "concrete," that is positioned in "one or more two-dimensional *page
-spaces* and represent possible formatted images of abstract objects
-[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
+spaces* and represent possible formatted images of abstract objects"
+[@furuta_document_1982, 417-19; @shaw_model_1980]. The concrete object, in
 other words, gives physical shape, layout, or style to the instantiation of
 abstract universal classes like paragraphs and sentences. Concrete objects are
 abstract paragraphs and sentences "laid out" in page space.
@@ -1164,7 +1163,7 @@ words. That sort of concrete structure goes "unrecognized" because it doest not
 correspond to any abstract objects.
 
 ![Method for extracting document structure based on "nearest-neighbor clustering
-of page components [@ogorman_document_1993, 1164]."](images/docstrum.png)
+of page components" [@ogorman_document_1993, 1164].](images/docstrum.png)
 
 Finally, the document--object model defines *viewing* as the movement from
 concrete objects to output device. This could include printing the document
@@ -1187,7 +1186,7 @@ Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
 Kernighan reports modifying the original program to produce output for a
 greater variety of typesetters. Kernighan explains, "TROFF produces its output
 in a device-independent form," and its output "must be processed by a drive for
-that device to produce printed output [@kernighan_troff_1992]."
+that device to produce printed output" [@kernighan_troff_1992].
 
 This stage flattens out the layers of ideas and visual style, to render and to
 make them visible on screen or page [@furuta_document_1982, 419-20;
@@ -1201,8 +1200,8 @@ terms of instrumental control. Berns, for example, explains that "text control"
 as implemented in FORMAT aims to accomplish four "basic" tasks: "to read the
 input, to interpret and convert the input as required; to keep the document
 flowing smoothly from line to line, column to column, and page to page, unless
-otherwise instructed, and to break this automatic flow as directed
-[@berns_description_1969]."
+otherwise instructed, and to break this automatic flow as directed"
+[@berns_description_1969].
 
 Because formatting governs both meaning-carrying and purely decorative
 elements, text control can involve operations like "replace word," "make
@@ -1216,8 +1215,8 @@ XML and HTML markup languages through ISO 8879, describes a number of such text
 transformations that occur to "generate the proper output form." In formatting,
 SCRIPT represents the "logical topology" of text in its "canonical form" to
 produce an "intermediate data structure," which it then "'unfolds' all at once"
-by "'peeling' the data structure one level at a time [@madnick_script_1968,
-97]." As plain text, text control, and user command flows intertwine, the
+by "'peeling' the data structure one level at a time" [@madnick_script_1968,
+97]. As plain text, text control, and user command flows intertwine, the
 structure of data on the disk no longer corresponds to what is visible at the
 level of user terminal or line printer. Unlike many of the modern text editors,
 SCRIPT, TROFF, and FORMAT make all of the laminate components in their
@@ -1347,15 +1346,15 @@ software module which acts rather like indestructible tachometers installed on
 long-distance coaches and lorries, recording everything that happens to the
 copyrighted or commercially valuable material [...] The basic idea is to link
 the "valuable material" of intellectual property to a specific piece of
-software and hardware [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84]."
+software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
+83-84].
 
 The emergence of embedded contractual enforcement at the level of the device
 can be subsumed under the broader idea of "smart contracts." In his seminal
 article on "Formalizing and Securing Relationships in Public Networks," Nick
 Szabo explains that "smart contracts combine protocols, user interfaces, and
 promises expressed via those interfaces to formalize and secure relationships
-over computer networks [@szabo_formalizing_1997]." Clark, CITED, and Szabo were
+over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo were
 instrumental to the rise of smart contracts in the 1990s in an attempt to
 redress the fading efficacy of legal copyright protections.[^ln3-smart] "Method
 and System for Managing a Data Object so as to Comply with Predetermined
@@ -1376,7 +1375,7 @@ music, video, and software. Rather then legislating rules for copying and
 distributing media, the inventors suggest the medium itself contain a control
 layer that would "comply with predetermined conditions of usage," in a way that
 can be "universally adapted to the needs of both the owner and the user of the
-data object [@benson_method_1998, 2:55]."
+data object" [@benson_method_1998, 2:55].
 
 !["Concatenated control data and AVI file in memory." From
 @benson_method_1998.](images/avi-control.png)
@@ -1436,7 +1435,7 @@ The short history of DMCA "anti-circumvention" provisions is already littered
 with ambiguous case law, that the Electronic Frontiers Foundation believes to
 have the effect of "stifling a wide range of legitimate activities," "chilling
 free expression and academic research," "jeopardizing fair use," and "impeding
-innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
+innovation" [@von_lohmann_unintended_2010]. Several incidents stand out as
 particularly relevant to study of texts and literature. One, a security
 researcher exploring the activity of censorship filters on public library
 computers was threatened and forced to seek DMCA exemption from the Librarian
@@ -1460,7 +1459,7 @@ purposes. See @ku_critique_2004; @herman_catch_2005; @armstrong_digital_2006;
 The impact of DMCA and smart contracts on the practices of reading, writing,
 and literary analysis is potentially immense. The electronic book in the
 language of the DMCA is not a book at all, but a "data object," in which the
-modest copyright symbol gives way to "control layers [@fischer_digital_2003]."
+modest copyright symbol gives way to "control layers" [@fischer_digital_2003].
 An essay in the *Yale Journal of Law & Technology* explains it this way:
 
 > While e-books and their print counterparts embody essentially identical
@@ -1526,7 +1525,7 @@ reader will find a visual "dotplot" representation of Laurence Sterne's *The
 Life and Opinions of Tristram Shandy *, in plain text (`.txt`) file format. To
 produce the image, I use Helfman's self-similarity dotplot approach. Dotplots,
 as Helfman explains, "reveal similarity structures in data regardless of format
-and in text and software regardless of language [@helfman_dotplot_1996]." They
+and in text and software regardless of language" [@helfman_dotplot_1996]. They
 can be used for authorship identification, plagiarism detection, or to find
 similarity in genetic material. The following, is a simple dotplot from
 Shakespeare:
@@ -1619,7 +1618,7 @@ in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
 immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
-behavior [@kirschenbaum_mechanisms_2012, 135]."
+behavior" [@kirschenbaum_mechanisms_2012, 135].
 
 [^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
@@ -1673,8 +1672,8 @@ stage.
 space of books," where the text is "a process of demonstration," "experienced
 only in an activity of production." He writes also that "the Text cannot stop
 (for example, on a library shelf); its constitutive movement is that of cutting
-across (in particular, it can cut across the work, several works)
-[@barthes_work_1978, 156-7]."
+across (in particular, it can cut across the work, several works)"
+[@barthes_work_1978, 156-7].
 
 [^ln3-descartes]: It is difficult to resist quoting from Descartes'
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us

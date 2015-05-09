@@ -1,5 +1,7 @@
 ---
 bibliography: plain-text.bib
+csl: csl/chicago-note.csl
+
 ---
 
 ## Chapter 2: Literature Down to the Pixel
@@ -42,7 +44,7 @@ the book by writing that:
 > processors, the NSA is preparing for the future: from nursery school
 > mathematics, which continues to be fully sufficient for books, to
 > charge-coupled devices, surface-wave filters, [and] digital signal
-> processors [@kittler_gramophone_1999, 263]."
+> processors. [@kittler_gramophone_1999, 263]
 
 I share Kittler's interests in books, charges, waves, filters, and signals but
 not what his translators call his penchant for "technological apocalypse"
@@ -52,8 +54,8 @@ performed in the spirit of Nietzschean irony [@conway_solving_1988]. Whatever
 the author's intention, Kittler's text leaves little room for apathy. Readers
 must either acquiesce to automated discourse or themselves take command. As
 Geoffrey Winthrop-Young and Michael Wutz put it, Kittler's work highlights the
-reader's inability to even pose (much less answer) "the question of the subject
-[@kittler_gramophone_1999, xxxiv]."
+reader's inability to even pose (much less answer) "the question of the
+subject" [@kittler_gramophone_1999, xxxiv].
 
 I take Arno Schmidt's letter (which concludes Kittler's book), then, as an
 early waypoint (and a provocation) on the road to recovering the subject---a
@@ -499,9 +501,9 @@ make space for this book, I cast my vote not for ether/or but for and.
 
 This is also not to say that I advocate ignorance, nor do I follow the Russian
 futurist poets, who at the beginning of the last century called on his peers to
-"cast Pushkin, Dostoevsky, Tolstoy, et al. overboard from the ship of Modernity
-[@lawton_words_2005]." I hold instead that in the implicit perusal of the
-subjectively beautiful discourse literary scholars may have ceded vast and
+"cast Pushkin, Dostoevsky, Tolstoy, et al. overboard from the ship of
+Modernity" [@lawton_words_2005]. I hold instead that in the implicit perusal of
+the subjectively beautiful discourse literary scholars may have ceded vast and
 fecund textual vistas to other disciplines. In privileging the aesthetic, the
 study of Literature has tied its fate to a vision of literature of a specific
 kind, holding a privileged form, sold in preferred manner. Hampered by an
@@ -558,7 +560,7 @@ theory. "Value judgments by which it is constituted are historically variable,"
 he concludes, having "a close relation to social ideologies." For Eagleton,
 values are more than the simple assertion of private taste. Instead, they refer
 to assumptions "by which certain social groups exercise and maintain control
-over others [@eagleton_criticism_1976, 15-47]." Who controls what? My
+over others" [@eagleton_criticism_1976, 15-47]. Who controls what? My
 interpretation of Marxist materialism is more literal than even Eagleton's. I
 am interested here in physical mechanisms of control, not only in their more
 ephemeral ideological justifications.
@@ -621,7 +623,7 @@ erect value criteria for admission, so that for the work to attain the
 definition is for it to qualify as a valued individual in a valued class. The
 work comes to be discovered, defined, and valued as poetry only by way of a
 preexisting generic characteristic which the critic began by adopting as his
-perspective [@krieger_literary_1968, 292]." All this just to say that even for
+perspective" [@krieger_literary_1968, 292]. All this just to say that even for
 scholars like Frye, the process of valuation happens before the encounter with
 the text. In designating the poem as a poem, the critic already has brought
 with her a set of preconceived notions that distinguish what constitutes
@@ -918,7 +920,7 @@ in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
 similar (although not equivalent) rhetorical move, Foucault envisions that
 beneath the "epistemological level" of human activity there exists an
 "archaeological layer," where representation "governs the mode of being of
-language, individuals, nature, and need itself [@foucault_order_1994, 209]."
+language, individuals, nature, and need itself" [@foucault_order_1994, 209].
 Ideology and representation, once determined, now determine. The rhetorical
 jiujitsu inverts Hegel yet again, to put Marx back on his head.[^ln2-flip] My
 short history of the universal Turing machine runs counter to this top-heavy
@@ -1044,8 +1046,8 @@ a science and the ideology [...] the fact that such an investigation confronts
 us with the observation that every science, in the relationship it has with
 ideology it emerged from, can only be thought as a 'science of ideology, would
 disconcert us, were we not forewarned of the name of the *object* of knowledge,
-which can only exist in the form of ideology [@althusser_reproduction_2014,
-46]."
+which can only exist in the form of ideology" [@althusser_reproduction_2014,
+46].
 
 [^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
 statements like "ethnology-like any science-comes about within the element of
