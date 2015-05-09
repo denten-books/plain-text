@@ -1,7 +1,7 @@
 ---
 title: "Plain Text: Chapter 3"
 author: "Dennis Tenen"
-style: mla.csl
+csl: csl/chicago-note.csl
 bibliography: plain-text.bib
 toc: true
 documentclass: article
