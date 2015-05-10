@@ -234,7 +234,7 @@ Tape/Selectric Typewriter in 1964.
 #### B: Magnetic tape, 1888-1968
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
-and defies apprehension,"  Wendy Chun writes in her in *Programmed Visions*, an
+and defies apprehension,"  Wendy Chun writes in her *Programmed Visions*, an
 influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
 same effect. But what gives software its ephemeral quality? Embossed onto
@@ -284,13 +284,13 @@ immutable form, and as a separate operation, removed from the immediate process
 of inscription. The very invention of word processing thus corresponds to the
 decline of text into ephemera. What was visible through a hole punch on ticker
 tape, was now submerged into tape. The tape no longer afforded human legibility
-nor comprehension. Encoding used by MT/ST retained the familiar (from
-the earlier sections) underlying structure (7-bit encoding, in this case)
-which, on tape, ceased to be recoverable by the naked eye. The inscription lay
-literally beyond (human) sense. Lacking the perceptual apparatus to perceive
-what are called "magnetic domains" and inscribed "polarities"[^ln3-magnet] that
-take place of visible alphabets. Magnetic storage remains for all unassisted
-intents and purposes, a black slate.
+nor comprehension. Encoding used by MT/ST retained the familiar (from the
+earlier sections) underlying structure (7-bit encoding, in this case) which, on
+tape, ceased to be recoverable by the naked eye. The inscription lay literally
+beyond (human) sense. We lack the perceptual apparatus to perceive "magnetic
+domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
+Magnetic storage remains for all unassisted intents and purposes, a black
+slate.
 
 #### C: Screen, 1968-today
 
@@ -550,7 +550,7 @@ that object belongs to the history of ideas not usually apparent in its
 everyday use. We may write texts in one way, but talk about them in another. My
 admittedly difficult task here will be to bring the traditions of interpreting
 texts and designing textual systems closer together: to perceive a point
-convergence on document structure between usually disparate languages of
+convergence at document structure between usually disparate languages of
 literary theory and computer science.
 
 In talking about texts of all kinds, literary scholars and computer scientists
@@ -911,7 +911,7 @@ Veselovsky, the Russian progressive historian of literature and founder of the
 comparative method in that tradition. Veselovsky, a scholar of the generation
 previous to the formalists, did not attain the renown enjoyed by his pupils in
 the West. An early pioneer of comparative literature, he advocated philology as
-"historical" and "genetic" study of "poetic consciousness and its forms."
+a "historical" and "genetic" study of "poetic consciousness and its forms."
 Citing literary explorations by Goethe, Friedrich Schiller, and Georges Polti
 as his inspiration, Veselovsky almost always uses "form" in the sense of
 "formula" (and not at all as "shape" or "sound"). In this, he imagines the
@@ -961,15 +961,14 @@ for "what lies in plain sight". But the very words "matter," "form," and
 pinned down to any single stratum of interpretation. I am trying to understand,
 for example, what Roland Barthes means by the distinction between "work" and
 "text" in his seminal essay on textuality.[^ln3-barthes] For Barthes, the work
-has something to do with paper, bookshelves, and generally substance. By
+has something to do with paper, bookshelves, and, more generally, substance. By
 contrast, text is something "radically symbolic," something that moves across
 works, not bound to any specific matter. Barthes's "texts" sound like ideas,
 where his "works" sound like books. This usage stands in direct opposition to
-the tradition of textual criticism, where "source texts" constitute specific,
-materially-bound editions or manuscripts, and "works" generally denote the
-abstraction of an artistic unity: the idea of Shakespeare's *Hamlet*, for
-example, in opposition to variance found in the multiplicity of individual
-*Hamlets*.
+the tradition of textual criticism, where "source texts" stand for specific,
+materially-bound editions or manuscripts, and "works" for the collective unity
+of the artistic vision: the idea of Shakespeare's *Hamlet*, for example, in
+opposition to variance found in the multiplicity of individual *Hamlets*.
 
 Whereas Barthes wants to liberate text as symbol from the embodied work,
 scholars like Johanna Drucker make a strong case for returning the text to its
@@ -1040,7 +1039,7 @@ facility, the editing facility, and the printing facility"
 contains such things as justification, indentation, and spacing. These
 "primitive requests" can be combined to describe more complex "structures of
 the printed text." The creators of *QED*, another influential early text editor
-(created for SDS-930 time sharing system at Berkley) similarly encourage the
+(created for SDS-930 time sharing system at Berkeley) similarly encourage the
 user "to think in terms of structure" of the text. Both *QED* and *EDIT* begin
 to separate content and formatting for later re-combination and imprinting onto
 an external storage media. Kaiman explains that "the user types the document
@@ -1071,7 +1070,7 @@ Finally, "objects are further classified as either abstract or concrete." By
 this, the writers mean abstract or "logical" objects, like words and ideas. In
 describing FORMAT, an important early (circa 1968) "general-purpose" text
 processor (written in FORTRAN IV for OS/360 devices), George Berns describes
-the program's input as "free-form," (literally, free of form) in that it is
+the program's input as "free-form" (literally, free of form), in that it is
 "entirely free of positional restraint" [@berns_format_1968, 85;
 @berns_description_1969, 141]. Text free of positional restraint, in that way,
 can be described in terms of "content,"  by contrast with "formatted" objects
@@ -1159,7 +1158,7 @@ by the 'meaning' of the block [@ogorman_document_1993, 1162-63;
 that document layout (alternatively "formatting" or the arrangement of
 "concrete objects") could also incorporate meaningless (to humans)
 structures, such as the incidental "rivers" of empty space formed between the
-words. That sort of concrete structure goes "unrecognized" because it doest not
+words. That sort of concrete structure goes "unrecognized" because it does not
 correspond to any abstract objects.
 
 ![Method for extracting document structure based on "nearest-neighbor clustering
@@ -1265,8 +1264,8 @@ Networked and time-shared textuality extends into the third dimension, away
 from the reader and deep into the bowels of the machine. The Open Systems
 Interconnection (OSI) reference model of communication[^ln3-osi] describes no
 less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
+semantics of application ("all services directly comprehensible to the user)
+[@miller_iso_1981, 285]; to the Physical Layer, providing the "mechanical,
 electrical, functional, and procedural characteristics" of communication
 [@day_revised_1995; @ncs_national_1988; @ncs_open_1981].[^ln3-layers] These
 protocols further envelop a document already thickly stratified by the
@@ -1302,7 +1301,7 @@ state or country. Whatever the case may be, the subject encounters the
 "protocol stack" from without, on the periphery of the onion-like network. When
 paging through an electronic book (usually an OSI-compliant device displaying
 DOM-structured files), for example, the reader has access only to the outputs
-emanating from the application layer, and at that, only at the exposed "window"
+emanating from the application layer and, at that, only at the exposed "window"
 level of the DOM. The perceived "content" constitutes a small fraction of the
 underlying "formal" topology. What you see is far less than what you get.
 
