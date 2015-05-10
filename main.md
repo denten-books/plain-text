@@ -1322,7 +1322,7 @@ conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing and incongruent perceptual apparatus.
 Under these conditions, it would be a mistake to conflate digital and discrete,
-just as it would be a mistake to reduce the human to the continuous.
+just as it would be a mistake to reduce the human to the continuous.[^ln1-cont]
 Homeostasis is found at some arbitrary point, contingently connected to human
 biology and to current technological capability. The question of "What
 constitutes a moment?" when watching television or reading a book, can become
@@ -1384,7 +1384,18 @@ wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
 
-## Chapter 4: Recursive Encounters with Oneself
+[^ln-cont]: Gregory Hickok, a prominent cognitive scientists working out of
+University of California, Irvine writes: "The brain samples the world in
+rhythmic pulses, perhaps even discrete time chunks, much like the individual
+frames of a movie. From the brain's perspective, experience is not continuous
+but quantized [...] This is not to say that the brain dances to its own beat,
+dragging perception along for the ride. In fact, it seems to work the other way
+around: Rhythms in the environment, such as those in music or speech, can draw
+neural oscillations into their tempo, effectively synchronizing the brain's
+rhythms with those of the world around us" [@hickok_its_2015]. His study on the
+topic is forthcoming in *Psychological Science* in 2015.
+
+## Chapter 4: Filing Systems of the Self
 `document, vector, archive, media being`
 
 ### Abstract
@@ -1433,95 +1444,8 @@ art is medium bound. Digital abstracts from the material.
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to
 other pages" [@fetterly2003].
 
-### 3.7 Spooky Action at a Distance
 
-
-IBM Format
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
-synchronized, the pause between each transmitted character can vary in length.
-For this reason ITA-2 includes two extra bits for indicating "start" and stop"
-elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
-where ones and zeros represent the absence and the presence of
-current[@itu_telegraph_1932, 36].
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally.
-
-ASCII.
-Plain text in Unix. Human readability. TROFF.
-
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan_unix_1978, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
-
-"Robots have also the attribute in common of being able to affect human beings
-or other targets 'at a distance,' a book, a radio or a television sender can
-entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
-kill people and destroy at a distance. The book is a robot par
-excellence"[@moreno_who_1953, 238]. So wrote Jacob Moreno, a contemporary
-adversary of Sigmund Freud and one of the pioneers in sociology and group
-therapy.
-
-Zoomatics --- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separated from him, can function
-independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
-first is sociometry. The second is "creative revolution." Robots = cultural
-conserves and machines. 238. "A book, a film, an atomic bomb, they do not
-perish in the human sense, the same capacity is always there, they can be
-reproduced ad infinitum. A book may have to be reprinted, a film copied on
-and off, but if anything perishes it is not their essence but some material
-entourage. Our human world is increasingly filled with robots." 239
-
-A text is a special type of a gun. It can be reduced to textual description,
-transmitted, and manufactured cheaply. As the pendulum of textual scholarship
-swings back from treating text as pure idea, the materialists must acknowledge
-the aberrant specificity of textual material. Text routinely separates from its
-physical medium. The ability to change form is what gives it the ability to act
-at a distance.
-
-
-### 5.1 First Tape
+### 4.1 First Tape
 
 Last Tape Beckett sets the stage for his 1958 Krapp's Last Tape on
 "a late evening in the future."1 The reason for this rather ambiguous dating is
@@ -1767,6 +1691,40 @@ economic / cultural contexts. Amazon Kindle is a platform. Who are you
 communicating with? Yourself. What is the message. Ultimately, it is a message of
 self-identity.
 
+### 4.2 Sartre
+### 4.3 Extended Cognition
+
+### 4.4 Media Being
+
+Brinkley Messick The Calligraphic State.
+
+> Modern man finally drags a huge crowd of indigestible rocks of knowledge around
+with him, which then occasionally audibly bang around in his body, as it says
+in fairy tales. Through this noise the most characteristic property of this
+modern man reveals itself: the remarkable contrast between an inside to which
+nothing on the outside corresponds and an outside to which nothing inside
+corresponds, a opposition of which ancient peoples were ignorant. Knowledge,
+taken up to excess without hunger, even in opposition to any need, now works no
+longer as a motive which reshapes and has a drive toward the outside. It stays
+hidden in a certain chaotic inner world, which that modern man describes with a
+strange pride as an “Inwardness” peculiar to him. Thus, people say that we have
+the content and that only the form is lacking.
+
+On the Use and Abuse of History for Life
+Friedrich Nietzsche
+(Find a better source)
+
+
+### 4.5 Hyper-erudition
+
+The flattening of the knowledge realm. It is not the absence of topography. It
+is our ability to readily perceive topography, and to place ourselves within
+that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
+The surgeon should get more money because of the subjective experience of
+cutting people up. That part does not transfer. The technical literature is
+actually quite understandable. Incommensurability of subjective experience.
+Commensurability of knowledge. The fundamental problem of modern world is the
+problem of expertise.
 ### 2.3 Copy Machine
 
 It is a commonplace sentiment now that the printing press brought with it the
@@ -2183,26 +2141,6 @@ The essay by Heidegger. Uxcull phenomenology.  Leroi-Gourhan, André.
 
 The book as an interface between human and ?. We must see it in the context of
 interfaces.
-
-### 5.3 Media Being
-
-Brinkley Messick The Calligraphic State.
-
-> Modern man finally drags a huge crowd of indigestible rocks of knowledge around
-with him, which then occasionally audibly bang around in his body, as it says
-in fairy tales. Through this noise the most characteristic property of this
-modern man reveals itself: the remarkable contrast between an inside to which
-nothing on the outside corresponds and an outside to which nothing inside
-corresponds, a opposition of which ancient peoples were ignorant. Knowledge,
-taken up to excess without hunger, even in opposition to any need, now works no
-longer as a motive which reshapes and has a drive toward the outside. It stays
-hidden in a certain chaotic inner world, which that modern man describes with a
-strange pride as an “Inwardness” peculiar to him. Thus, people say that we have
-the content and that only the form is lacking.
-
-On the Use and Abuse of History for Life
-Friedrich Nietzsche
-(Find a better source)
 
 ### 5.2 Human Revealment (Heidegger)
 
@@ -2754,17 +2692,6 @@ knowledge dissemination.7 Stenography is understood here as a thoroughly modern
 and modernizing technology that does for the mental and moral development what
 the steam engine and areal flight did for the material realm.
 
-### 5.5 Hyper-erudition
-
-The flattening of the knowledge realm. It is not the absence of topography. It
-is our ability to readily perceive topography, and to place ourselves within
-that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
-The surgeon should get more money because of the subjective experience of
-cutting people up. That part does not transfer. The technical literature is
-actually quite understandable. Incommensurability of subjective experience.
-Commensurability of knowledge. The fundamental problem of modern world is the
-problem of expertise.
-
 ### Extended cognition
 
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
@@ -3078,6 +3005,94 @@ the Internet, or any other information exchange system. Rather, the design of
 complex systems must itself become critical practice, which, in complement to
 critical theory, can actively engineer for textual mechanisms that make
 individual dissent possible.
+
+### 3.7 Spooky Action at a Distance
+
+
+IBM Format
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
+synchronized, the pause between each transmitted character can vary in length.
+For this reason ITA-2 includes two extra bits for indicating "start" and stop"
+elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
+where ones and zeros represent the absence and the presence of
+current[@itu_telegraph_1932, 36].
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally.
+
+ASCII.
+Plain text in Unix. Human readability. TROFF.
+
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan_unix_1978, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+
+"Robots have also the attribute in common of being able to affect human beings
+or other targets 'at a distance,' a book, a radio or a television sender can
+entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
+kill people and destroy at a distance. The book is a robot par
+excellence"[@moreno_who_1953, 238]. So wrote Jacob Moreno, a contemporary
+adversary of Sigmund Freud and one of the pioneers in sociology and group
+therapy.
+
+Zoomatics --- the relationship of man to man and the relation of man "to certain
+peculiar products of his mind, which when separated from him, can function
+independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
+first is sociometry. The second is "creative revolution." Robots = cultural
+conserves and machines. 238. "A book, a film, an atomic bomb, they do not
+perish in the human sense, the same capacity is always there, they can be
+reproduced ad infinitum. A book may have to be reprinted, a film copied on
+and off, but if anything perishes it is not their essence but some material
+entourage. Our human world is increasingly filled with robots." 239
+
+A text is a special type of a gun. It can be reduced to textual description,
+transmitted, and manufactured cheaply. As the pendulum of textual scholarship
+swings back from treating text as pure idea, the materialists must acknowledge
+the aberrant specificity of textual material. Text routinely separates from its
+physical medium. The ability to change form is what gives it the ability to act
+at a distance.
+
 
 ### 6.1 Algorithm as Fetish
 

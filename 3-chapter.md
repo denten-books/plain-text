@@ -19,26 +19,26 @@ outlining a recent discussion on surface reading. I ask: What lies beneath the
 text, literally? The question leads to the common distinction between form and
 content. Here, I find that, going back to the Russian formalist reception of
 Hegelian aesthetics, "form" was at times used to indicate concrete shape and at
-times to indicate abstract universals as technique and formula. A case study in
-removable storage---like ticker tape and floppy disks---elucidates the movement
-of text from human-legible inscription on page and punch card to magnetic
-inscription invisible to the naked human eye, complicating the formalist
-vocabulary. The case study unfolds the distinction between print, in which
-matter, form, and content lie flat, and screen, where the three layers occupy
-physically distinct strata of the document--object model, providing only the
-illusion of flattened textuality. The apparent immateriality of digital text
-brings promise of epistemological (social) and even phenomenological (personal)
-transformation. But it also comes at a cost. Inscription on magnetic tape
-cannot be assumed to correspond to the composite screen image. Forms of
+times to indicate abstract universals, such as technique and formula. A case
+study in removable storage---like ticker tape and floppy disks---elucidates the
+movement of text from human-legible inscription on the page and punch card to
+magnetic inscription invisible to the naked human eye, complicating the
+formalist vocabulary. The case study unfolds the distinction between print, in
+which matter, form, and content lie flat, and screen, where the three layers
+occupy physically distinct strata of the Document Object Model, providing only
+the illusion of flattened textuality. The apparent immateriality of digital
+text brings promise of epistemological (social) and even phenomenological
+(personal) transformation. But it also comes at a cost. Inscription on magnetic
+tape cannot be assumed to correspond to the composite screen image. Forms of
 governance like Digital Rights Management can now be embedded deep within the
-structure of the "data object" itself and further hidden from view, precluding,
-and sometimes making illegal outright, the possibility of interpretation (of
-any sort). The discussion concludes with a stark image, illustrating the
-contrast between screen surface and the underlying bit structure. To produce
-the image, I use reverse-engineering tools to inject malicious code into an
-Adobe Acrobat file (`.pdf`). The deformed text threatens to damage the literary
-device. A thick description of the literary device, now as gadget or
-instrument, brings legibility to the fore of reading ethics.
+structure of the "data object" itself and further hidden from
+view---precluding, and sometimes making illegal outright, the possibility of
+interpretation (of any sort). The discussion concludes with a stark image
+illustrating the contrast between screen surface and the underlying bit
+structure. To produce the image, I use reverse-engineering tools to inject
+malicious code into an Adobe Acrobat file (`.pdf`). The deformed text threatens
+to damage the literary device. A thick description of the literary device, now
+as gadget or instrument, brings legibility to the fore of reading ethics.
 
 ### 3.1 Literary Device as Gadget and Technique
 
@@ -146,7 +146,7 @@ such devices are explicitly designed to resist tampering, access, or
 interpretation. They obscure the flows of code and codex under the familiar
 guise of surface representation. This chapter will be longer than others,
 because it is central to my argument as a whole. I will spend much of it at the
-work of "teasing apart" the layers obscuring the underlying structure of the
+work of teasing apart the layers obscuring the underlying structure of the
 textual device, using historical sources, direct observation, and tools
 normally reserved for reverse-engineering of data objects.[^ln3-mechanisms]
 
@@ -1017,11 +1017,11 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning," in these not at all futuristic conditions[^ln3-reading],
 involves turning hermeneutics into reverse engineering.
 
-### 3.5 Document--object Model (DOM)
+### 3.5 Document Object Model (DOM)
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
-document--object model (which structures the presentation of text everywhere
+Document Object Model (which structures the presentation of text everywhere
 from web browsers to commercial print typesetters), the literary-theoretical
 concept of "form" can mean both "class" and "instance" (object-oriented
 programming) or "set" and "object" (set theory), or "type" and "term" (type
@@ -1029,7 +1029,7 @@ theory). Although literature in computer science rarely operates in the mode of
 intellectual history, computer-aided text editors internalized a model of
 document structure remarkably similar to the one suggested by Hegelian
 aesthetics, and in terms of physical (media), form (formatting), and content
-(text) levels of analysis. The document--object model weaves the language of
+(text) levels of analysis. The Document Object Model weaves the language of
 Hegelian universal into the fabric of modern computing.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
@@ -1083,7 +1083,7 @@ abstract universal classes like paragraphs and sentences. Concrete objects are
 abstract paragraphs and sentences "laid out" in page space.
 
 Here is where things should get interesting for a scholar of textuality. The
-document--object model further gives rise to three "operations," tied to the
+Document Object Model further gives rise to three "operations," tied to the
 "domain and range" of its constituent objects. *Editing*, in this model,
 comprises operations that move from abstract to abstract, or, from concrete to
 concrete domains.
@@ -1109,7 +1109,7 @@ concrete domains.
 |                        |              | - shelve book          |
 +------------------------+--------------+------------------------+
 
-Table: Object operation types under the document--object model
+Table: Object operation types under the Document Object Model
 [@furuta_document_1982, 419-20].
 
 Spelling correction, for example, constitutes an editing manipulation where
@@ -1136,10 +1136,10 @@ distinct and privileged category in the document epistemology, from the point
 of view of the machine.  Another way to think about machine text would be to
 describe "images" as one type of "internal data structure" and text as another,
 more "structured" and "more internal," mode of representation. Consider that in
-the hierarchical document--object model images can contain text, but text
-cannot contain images.  Text, in that sense, lies at the innermost location in
+the hierarchical Document Object Model images can contain text, but text
+cannot contain images. Text, in that sense, lies at the innermost location in
 series of nested "outer" containers. Lacking a model of "comprehension" or
-"understanding," the document-object model merely posits text as "content" only
+"understanding," the Document Object Model merely posits text as "content" only
 in the sense of it being the "innermost" object of recognition.
 
 The "recognition" of characters does not, however, fully capture the variety of
@@ -1165,11 +1165,11 @@ correspond to any abstract objects.
 ![Method for extracting document structure based on "nearest-neighbor clustering
 of page components" [@ogorman_document_1993, 1164].](images/docstrum.png)
 
-Finally, the document--object model defines *viewing* as the movement from
+Finally, the Document Object Model defines *viewing* as the movement from
 concrete objects to output device. This could include printing the document
 onto paper, or publishing it online, for example. It is at this moment that the
 full weight of Hegelian "universal concrete" makes itself known. The "concrete"
-object in the document--object model is still only a *description* of the
+object in the Document Object Model is still only a *description* of the
 two-dimensional space and represents some "possible formatted images of
 abstract objects."[^ln3-dom] To repeat: the concrete object represents
 "possible" formatted images, and not yet actual formatted images! To actualize
@@ -1191,7 +1191,7 @@ that device to produce printed output" [@kernighan_troff_1992].
 This stage flattens out the layers of ideas and visual style, to render and to
 make them visible on screen or page [@furuta_document_1982, 419-20;
 @kimura_structure_1984]. Similar to Hegel's "universal concrete," the
-"formatting layer" in the document--object model bridges the gap between ideas
+"formatting layer" in the Document Object Model bridges the gap between ideas
 and matter. Formatting is where ideas connect to physical shape. This is a most
 delicate operation, for in giving shape to abstract ideas formatting does
 something more notable than mere application of visual style. Formatter
@@ -1222,7 +1222,7 @@ level of user terminal or line printer. Unlike many of the modern text editors,
 SCRIPT, TROFF, and FORMAT make all of the laminate components in their
 onion-like layered structure available to user for examination. But as we will
 see shortly, the condition of complete system visibility persists only for a
-short period in history. Once incorporated, the document-object model gains a
+short period in history. Once incorporated, the Document Object Model gains a
 measure of opacity and even legal protection from "unauthorized access" to
 protected innermost document layers.
 
@@ -1241,7 +1241,7 @@ Standard ISO 216. In the Imperial System these equate to  33.1in × 46.8in and
 
 ### 3.6 Smart Contracts (A Legal Interlude)
 
-Exposing the document--object model that governs the production of text through
+Exposing the Document Object Model that governs the production of text through
 contemporary reading and writing devices gives the question of surface and
 depth yet another connotation. What lies beneath the text? We are accustomed to
 thinking about document structure metaphorically and answer in accord: meaning,
@@ -1270,7 +1270,7 @@ semantics of application ("all services directly comprehensible to the user
 electrical, functional, and procedural characteristics" of communication
 [@day_revised_1995; @ncs_national_1988; @ncs_open_1981].[^ln3-layers] These
 protocols further envelop a document already thickly stratified by the
-document--object model.[^ln3-domlayer]
+Document Object Model.[^ln3-domlayer]
 
 [^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
 model.
@@ -1516,7 +1516,7 @@ OSIs---today a task fraught with legal consequence.
 
 In presenting canonical models of document structure, it is my hope to convince
 the reader of the very real and literal sense of depth manufactured into the
-structure of the contemporary document--object model. This includes print,
+structure of the contemporary Document Object Model. This includes print,
 because even in that mode, publishing practices today rely on some of the same
 machinery described in this chapter.
 
@@ -1703,3 +1703,4 @@ meccanico e la sensibilità numerica]
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
+### Works Cited
