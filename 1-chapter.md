@@ -1,7 +1,8 @@
 ---
 bibliography: plain-text.bib
 csl: csl/chicago-note.csl
-
+header-includes:
+- \usepackage{ftnxtra}
 ---
 
 ## Chapter 1: We Have Always Been Digital
@@ -144,7 +145,7 @@ create shapes, letters, and images on the screen.[^ln1-mishima]
 ![Liquid crystal in phase transition between polarizers. Schlieren texture
 charactheristic nematic phase to the left, and circular focal conic domains in
 the smectic phase to the right. Image licensed under CC-BY-SA
-3.0, @polimerek_smectic_2004](images/liquid.jpg)
+3.0 [@polimerek_smectic_2004].](images/liquid.jpg)
 
 Traditional film projectors advance from one frame to the next at a rate of 24
 times each second to match the rate at which the film is captured by
@@ -489,7 +490,7 @@ patent for the "Writing Telegraph," which builds on their previous design in an
 interesting way. Rather than using a wave in four steps, the authors propose an
 "automatic transmitter capable of sending current impulses over the line which
 correspond to the direction and the size of a single letter element"
-[@pollak_writing-telegraph._1901, 3]. In other words, they wanted to bend the
+[@pollak_writing-telegraph_1901, 3]. In other words, they wanted to bend the
 sinusoidal wave to correspond roughly to the shape of the letter (see Figure
 2).
 
@@ -501,7 +502,7 @@ On some level, then, the Pollak-Virag encoding constitutes a sort of an
 unbroken, electrical alphabet. The electrical signal, in this case, makes for a
 smoothly varying quality, intended to "trace in a substantially continuous
 unbroken outline the written letters composing the matter transmitted"
-[@pollak_writing-telegraph._1901, 1]. The perforated tape "driving" the signal
+[@pollak_writing-telegraph_1901, 1]. The perforated tape "driving" the signal
 does, however, reduce notions of continuity into distinct perforations, which
 break letters down into their individual constituents.
 
@@ -1133,3 +1134,4 @@ neural oscillations into their tempo, effectively synchronizing the brain's
 rhythms with those of the world around us" [@hickok_its_2015]. His study on the
 topic is forthcoming in *Psychological Science* in 2015.
 
+### Works Cited
