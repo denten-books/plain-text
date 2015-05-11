@@ -2137,7 +2137,7 @@ in your hand, near to your eye, embedded, or embodied. Close reading limited to
 the parsing of content and representation risks missing the machinations of
 naked circuit control. It looks like you are reading a book, but this book
 changes its internals as it receives instructions to inform and to control. For
-now I ask only who controls the device? But were a book also a pill or fused
+now I ask only, Who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
@@ -2149,7 +2149,7 @@ appeared in the same volume of collected essays, @herken_universal_1988.
 
 [^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
-the "application layer" and the bottom-most layer the "physical layer
+the "application layer" and the bottom-most layer the "physical layer"
 [@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
 being "responsible for encoding bits onto a transmission medium, whether wires,
 fiber optics, or radio broadcast, in ways that maximize the transmission rate

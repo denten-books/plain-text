@@ -11,13 +11,13 @@ Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
 in opposition to *fancy text*: "text representation consisting of plain text
 plus added information."[^ln-uni] As a frame of mind, it indicates a preference
-for human-readable input and output streams of data, for computational tools
-that are simple and elegant, and for open systems that are transparent to the
-user. The book unfolds a history of and an argument for plain text. In making
-my case, I argue that "other information" routinely embedded in all forms of
-contemporary textuality includes much more than instructions for "font size"
-and "paragraph justification." Increasingly, devices that mediate literary
-activity encode specific models of governance and control.
+for human-readable input and output, for computational tools that are simple
+and elegant, and for open systems that are transparent to the user. The book
+unfolds a history of and an argument for plain text. In making my case, I argue
+that "other information" routinely embedded in all forms of contemporary
+textuality includes much more than instructions for "font size" and "paragraph
+justification." Increasingly, devices that mediate literary activity encode
+specific models of governance and control.
 
 The central concern of the book is to dispel the illusion of verisimilitude
 between text on paper and text on the screen. The words may look the same, but
@@ -294,10 +294,12 @@ The Ethics and Aesthetics of Hacking*, by Gabriella Coleman (Princeton
 University Press, 2012); *Mechanisms: New Media and the Forensic Imagination*,
 by Matthew G. Kirschenbaum (MIT Press, 2012); *Files: Law and Media
 Technology*, by Cornelia Vismann (Stanford University Press, 2008); *Programmed
-Visions: Software and Memory*, by Wendy Hui Kyong Chun (MIT, 2013); *Beautiful
-Data: A History of Vision and Reason since 1945*, by Orit Halpern (Duke, 2015);
-and several titles in the Electronic Mediations series at Minnesota University
-Press, which published Lori Emerson's *Reading Writing Interfaces* in 2014.
+Visions: Software and Memory*, by Wendy Hui Kyong Chun (MIT, 2013); *How We
+Think: Digital Media and Contemporary Technogenesis* by Katherine Hayles
+(Chicago, 2012); *Beautiful Data: A History of Vision and Reason since 1945*,
+by Orit Halpern (Duke, 2015); and several titles in the Electronic Mediations
+series at Minnesota University Press, which published Lori Emerson's *Reading
+Writing Interfaces* in 2014.
 
 My work extends the research program represented in these volumes in several
 important directions. While committed to broadly theoretical concerns---that
