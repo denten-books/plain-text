@@ -87,7 +87,7 @@ The idea that "meaning" is always in some sense "operational meaning" is a
 proposition implicit in several related philosophical traditions. The first of
 these is pragmatism, broadly conceived. William James articulates that view
 when he writes that "reality is seen to be grounded in a perfect jungle of
-concrete expediencies" [@james-pragmatism-conceptionoftruth]. For James (and,
+concrete expediencies" [james-pragmatism-conceptionoftruth]. For James (and,
 to some extent, for his fellow travelers in American pragmatism, Charles
 Sanders Peirce and John Dewey)[^ln-pragma-truth] the pragmatic answer to the
 question of truth could be reduced to the questions efficient causes and
@@ -97,10 +97,10 @@ anyone's actual life? What experiences will be different from those which would
 obtain if the belief were false?" Frank Ramsey, the young British philosopher
 close to Ludwig Wittgenstein, was influenced by the Americans and would later
 write that meaning "is to be defined by reference to the actions to which
-asserting it would lead" [@ramsey-foundationsofmath, 155].
+asserting it would lead" [@ramsey_foundations_2013, 155].
 
 [^ln-pragma-truth]: For a more thorough discussion on the topic see
-@seigfried, @pihlström, and @putnam-james-theory.
+@seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997;w.
 
 For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
@@ -111,7 +111,7 @@ reduced to a number of essential, structural features. Rather, to borrow from a
 conversation on categories in Wittgenstein's *Philosophic Investigations*,
 categories denote a related "family" of practices, which may or may not share
 in any given familial characteristic
-[@Wittgestein-philo-invest].[^ln-witt] To visualize this "familial"
+[Wittgestein-philo-invest].[^ln-witt] To visualize this "familial"
 model, imagine a Venn diagram, where overlapping fields (of textuality, in our
 case) intersect and diverge in a historically (culturally, practically)
 contingent and arbitrary ways. These fields lie in relation to specific
@@ -126,17 +126,17 @@ poetry by night might employ differing if not outright contradictory
 vocabularies.
 
 [^ln-witt]: For more on the connection between Wittgenstein and James
-see @goodman-wittandjames.
+see @goodman_james_2004.
 
 The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
 perhaps most pronounced in the teacher colleges, where James and Dewey are
 still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[@lave&wenger, @johnseelybrown] and "experiential
-learning"[@kolb]: both terms denoting some sense of necessary synthesis
+as "situated cognition"[lave&wenger, johnseelybrown] and "experiential
+learning"[@kolb_hegel_1981]: both terms denoting some sense of necessary synthesis
 between of knowing and doing. In the field of linguistics, philosophy of
 language, and communication studies, pragmatics are well-encapsulated by the
 "language-as-action tradition," which harkens back to the Oxford language
-philosophers like J.L. Austin, Paul Grice, and John Searle [@Trueswell].
+philosophers like J.L. Austin, Paul Grice, and John Searle [trueswell].
 Austin's "How to Do Things with Words," is perhaps the paradigmatic formulation
 of the idea that words don't just mean things, but that they enact change in
 the world.
@@ -157,7 +157,7 @@ dazzlingly lighted hall which may be reached only by passing through a long and
 ghastly kitchen ." "We shall reach really fruitful and luminous generalizations
 about vital phenomena only in so far as we ourselves experiment and, in
 hospitals, amphitheaters, or laboratories stir the fetid or throbbing ground of
-life" [@bernard, 3-15].
+life" [@bernard_introduction_1957, 3-15].
 
 It is my belief also that the lighted halls of contemporary literary and media
 theory can be best through the long and ghastly kitchen of everyday practice.
@@ -188,7 +188,7 @@ burning armchair, the symbol of "experimental philosophy" movement proposed by
 Joshua Knobe and Shaun Nichols, who write that "many of the deepest questions
 of philosophy can only be properly addressed by immersion oneself in the messy,
 contingent, highly variable truths about how human being really are"
-[@knobe-nichols, 3]. In the field of media and literary studies, it is almost
+[@knobe_experimental_2008, 3]. In the field of media and literary studies, it is almost
 impossible to avoid the influence of "archeology of knowledge," as advanced in
 its many permutations by Michel Foucault and his followers. Yet, such
 archeologies deal with "artifacts" and "excavations" only as metaphors for what
@@ -200,7 +200,7 @@ what sometimes they dub as the history of craft or "artifactual knowledge." In
 preface to a recent volume on *Ways of Making and Knowing*, edited by Pamela
 Smith, Amy Meyers, and Harold Cook, the editors write that the "history of
 science is not a history of concepts, or at least not that alone, but a history
-of the making and using of objects to understand the world" [@smith, 12]. As a
+of the making and using of objects to understand the world" [@smith_ways_2014, 12]. As a
 historian of science in the Early Modern period, Smith translates that insight
 in the laboratory, where along with her students she bakes bread and smelts
 iron to recreate long-lost artisanal techniques. The major insight from Smith
@@ -232,7 +232,7 @@ enumerate some reasons for its decline in my own thinking. The first is the
 movement's overt political goals. Patently the "stock" of Marxism, socialism,
 communism and related ideologies has declined. Major critical theorists like
 Roberto Unger and Michel Berube are now legitimately writing about the left's
-political crisis [@cite]. Moreover, the political aspirations of critical
+political crisis [CITE]. Moreover, the political aspirations of critical
 theorists were always somewhat difficult to defend in the face of other,
 contradictory academic values like objectivity, neutrality, and critical
 thinking. However problematic those terms are in themselves, we must
@@ -4093,12 +4093,12 @@ threatening to undermine the unity of the work. Think of something substantial
 you have written recently: a paper or a proposal perhaps. 
 
 "It is that the word or sign man uses is the man himself" Pierce as quoted
-@weel2012.  What does it mean to know something?  Sartre and Beckett.  ###
+@weel_changing_2012  What does it mean to know something?  Sartre and Beckett.  ###
 Recursive Encounters with Oneself
 
 Text as vector. Barthes: text as "an organism which grows by vital
-expansion"[@barthes1978, 161].  "The metaphor of the Text is that of the
-*network*" [@barthes1978, 161].
+expansion"[@barthes_work_1978, 161].  "The metaphor of the Text is that of the
+*network*" [@barthes_work_1978, 161].
 
 Wikipedia as a Turing complete language. The power of versioning. Text as a
 vector. The problem of annotation. What are we annotating? Annotation solutions
@@ -4115,7 +4115,7 @@ allographic art. Whether forgery is possible. Digital vs. analog art. Analog
 art is medium bound. Digital abstracts from the material.
 
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to
-other pages" [@fetterly2003].
+other pages" [@fetterly_evolution_2003].
 
 
 ### 4.1 First Tape
@@ -5023,7 +5023,7 @@ as an interface leaves an organic trace in the human mind---an imprint that
 begins to fade as soon as it is created.
 
 How much knowledge is there in the world? According to a recent paper published
-in Science, 295 exabytes (or billion gigabytes).[@hilbert]
+in Science, 295 exabytes (or billion gigabytes).[@hilbert_info_2012;]
 
 Whatever consciousness is, it is propelled forward on a thin edge of material
 substratum. Reality exists only in the now, where the past is a memory and the
@@ -5165,7 +5165,8 @@ and the artifactual.
 "A text editor is often the primary interface
 between a user and the system, and the program with which most user time is
 spent. Accordingly, an editor has to be easy to use, and efficient of the
-user's time---editing commands have to 'flow off the fingertips.'" [@kernighan1978, 2117].
+user's time---editing commands have to 'flow off the fingertips.'"
+[@kernighan_unix_1978, 2117].
 
 Containing an argument for text as an interface between human and machine.
 History of combinatorial languages and logic.  Stack as a model of
@@ -5693,7 +5694,7 @@ static site, that is to say it is compiled once, on the authors box and not
 generated dynamically, in response to a individual reader's visit. *gwern* is
 static, showing its visitor "pre-printed" pamphlet-like pages. But prints and
 pamphlets betray a vocabulary of paper, whereas *gwern* is "pixel dust" (to
-misquote @Drucker).^[LN2] What is it, if it is not a blog?
+misquote @drucker_pixel_2014).^[LN2] What is it, if it is not a blog?
 
 Just to make sure *gwern* did not disappear, I took a "snapshot" on January
 24th, 2014 using Internet Archive's Wayback Machine. The Wayback Machine, is a
@@ -5874,12 +5875,14 @@ between usability, transparency, and good knowledge design.
 http://web.archive.org/web/20140208220625/http://sprintbeyondthebook.com/2014/02/bad-links/
 
 ## Chapter 6: Engineering for Dissent
+`parity`
+
 ### Marx and Robots
 
 
 ### 3.7 Spooky Action at a Distance
 
-Book as cultural conserve (@Moreno p.238). "Many of the robots have also the
+Book as cultural conserve (@moreno_who_1953, 238). "Many of the robots have also the
 attribute in common of being able to affect human beings or other targets 'at a
 distance,' a book a radio or a television sender an entertain or teach at a
 distance, like a gun, a rocket and an atomic bomb can kill people and destroy
