@@ -740,7 +740,7 @@ sinusoidal wave to correspond roughly to the shape of the letter (see Figure
 
 ![Record obtained at the receiving station, illustration from "Means for
 Rapidly Transmitting Telegrams," 1900
-@pollak_means_1900.](images/virag-wave.png)
+[@pollak_means_1900].](images/virag-wave.png)
 
 On some level, then, the Pollak-Virag encoding constitutes a sort of an
 unbroken, electrical alphabet. The electrical signal, in this case, makes for a
@@ -750,7 +750,7 @@ unbroken outline the written letters composing the matter transmitted"
 does, however, reduce notions of continuity into distinct perforations, which
 break letters down into their individual constituents.
 
-![Writing Telegraph, 1901. @pollak_writing-telegraph_1901](images/virag.png)
+![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/virag.png)
 
 ![Syphon Recorder Alphabet, Circa 1887--1935. From the personal
 collection of Jim Linderman.](images/cyphon.jpg)
@@ -911,7 +911,7 @@ international tariffs related to telegraph communication
 Telegraph Conference in Lisbon, held in the summer of 1908, the ITU specified
 two additional formats: Hughes and Baudot.
 
-![Table of Alphabets, 1901, @vansize_new_1901, 23.](images/alphabets-vansize.png)
+![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
 
 The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
 by the American Royal E. House, was a capricious machine that relied on a
@@ -1051,8 +1051,8 @@ mere five units in length, with the maximum of ten used to switch the receiving
 device into "figure" or "capital letter" states (for the total of ten units)
 [@murray_setting_1905; @beauchamp_history_2001 380-397].
 
-![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys.
-@murray_setting_1905.](images/murray-keyboard.png)
+![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
+[@murray_setting_1905].](images/murray-keyboard.png)
 
 As the volume of transmissions increased, human operators were simply not fast
 enough to keep up with the demand of encoding and decoding messages into and
@@ -1104,8 +1104,8 @@ example. A single rotation of the synchronization device (known as the
 corresponding to a distinct channel of communication. Two operators could
 therefore share the same channel to transmit two different messages.
 
-![Multiple Printing Telegraph, 1905.
-@murray_setting_1905.](images/multiplex.png)
+![Multiple Printing Telegraph, 1905
+[@murray_setting_1905].](images/multiplex.png)
 
 The maintaining of unison became of paramount importance in such multiplexed
 systems. The operators of a time-shared device needed to know when it was their
@@ -2593,7 +2593,7 @@ letters of the ordinary English alphabet" [@goldberg_controller_1915]. Rather
 than using ticker tape, Goldberg's perforations form letters. On Goldberg's
 control sheets, the language of machines and the language of humans coincide.
 
-![Goldberg's Control Cards, @goldberg_controller_1915.](images/control-2.png)
+![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
 The Controller never caught on, but the patent makes it clear that Goldberg,
 among others, was aware of the problem: the mechanization of type, automation,
@@ -2706,8 +2706,8 @@ version control, text search, image manipulation, windows-based user
 interfaces, digital slides, networked machines, mouse, stylus, and joystick
 inputs, and "what you see is what you get" (WYSIWYG) word processing.
 
-!["NOW IS THE TIME FOB." Schematics for a "display system" from
-@engelbart_x-y_1970.](images/engel.png)
+!["NOW IS THE TIME FOB." Schematics for a "display system"
+[@engelbart_x-y_1970].](images/engel.png)
 
 In his report to NASA, which sponsored research on "intellect augmentation"
 along with DARPA, Engelbart describes his lab as a group of scientists
@@ -3432,7 +3432,7 @@ instructions intended to for device control. The notion of "formatting"
 therefore mediates between the logical (semantic) and layout (stylistic)
 structural representations.
 
-![EDIT Document Model, 1968. @kaiman_computer-aided_1968, 66.](images/edit.png)
+![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
 A seminal paper in the field of structured documents proposes the following
 model. First, "a document is an object composed of a hierarchy of primitive
@@ -3607,7 +3607,7 @@ protected innermost document layers.
 
 !["System Command and Data Flow." Data structures at "disk file" level do not
 necessarily correspond to text structures at "user terminal" or "line printer"
-levels @madnick_script_1968, 98.](images/script.png)
+levels [@madnick_script_1968, 98].](images/script.png)
 
 [^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
 one or more two dimensional page spaces and represent possible formatted images
@@ -3656,8 +3656,8 @@ model.
 
 ![A zoomed out view of the connected OSI model. Single node structure on the
 left. Connected devices on the right. The user has access through the top-most
-(application) level, outermost to the network. From @piatkowski_iso-ansi_1980,
-114-15.](images/osi.png)
+(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
+114-15].](images/osi.png)
 
 These are the same layers that Alexander Galloway unites in a system of what he
 calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
@@ -3756,11 +3756,10 @@ layer that would "comply with predetermined conditions of usage," in a way that
 can be "universally adapted to the needs of both the owner and the user of the
 data object" [@benson_method_1998, 2:55].
 
-!["Concatenated control data and AVI file in memory." From
-@benson_method_1998.](images/avi-control.png)
+!["Concatenated control data and AVI file in memory" [@benson_method_1998].](images/avi-control.png)
 
-!["Concatenated and encrypted control data and AVI file in memory." From
-@benson_method_1998.](images/avi-control2.png)
+!["Concatenated and encrypted control data and AVI file in memory"
+[@benson_method_1998].](images/avi-control2.png)
 
 The associated schematics (pictured here) show data and control codes
 "concatenated" into the same underlying data structure (in this case, AVI media
