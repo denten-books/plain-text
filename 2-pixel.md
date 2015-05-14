@@ -1,6 +1,7 @@
+
 ---
 author: Dennis Tenen
-title: "We Have Always Been Digital (Draft Chapter, Do Not Circulate)"
+title: "Literature Down to the Pixel (Draft Chapter, Do Not Circulate)"
 bibliography: plain-text.bib
 style: mla-note.csl
 
