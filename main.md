@@ -4117,6 +4117,8 @@ art is medium bound. Digital abstracts from the material.
 Duplicates in Computer Science. Almost 30% of webpages are "very similar to
 other pages" [@fetterly_evolution_2003].
 
+Collection. Information hoarding. Owning the book. Vs. owning the title of the
+book. Related to knowing something.
 
 ### 4.1 First Tape
 
@@ -6108,12 +6110,16 @@ historically (where Lennon gets it right). You are not a gadget.
 
 ### 6.5 Dissent
 
+Creating SPACE. Physical space.
+
 Sartre?  Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
 Mumford Condition of Man?
 
 Yet, to make the subjective experience strange again is to look at it through
 the eyes of a stranger. Makhail Bakhtin writes (in what I think is a previously
 untranslated passage):
+
+Ethics of legibility.
 
 > It is not I who looks out from the inside, but I look at myself with the eyes
 of the world, strange eyes; I am possessed by another. There is no integrity of
