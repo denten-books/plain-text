@@ -97,7 +97,7 @@ and one which will become central to the argument of my book.
 
 Despite the ubiquity of Unix-like systems (which run a lion share of servers,
 super-computers, Apple gadgets, and Android devices), the textual roots of
-computing are obscured by visual 
+computing are obscured by visual
 
 The battle for the soul of computing. Whether the internet empowers
 participatory governance, deliberation, and dissent, or whether it ushers in a
@@ -111,23 +111,24 @@ normalization continues today as contemporary approaches like natural language
 processing and optical character recognition struggle to bring non-Western
 writing systems under the umbrella of universal computability.
 
-2. Remote communications (geographical displacement). Mechanical type can now
-be converted into electrical signals. The telegraph removes writing from its
-immediate physical environment. Authorial presence, already weakened by writing
-as such, is further distanced from the contexts of utterance. The telegraph
-lengthens the chain of technological and political mediation in the
-transmission of information. The telegram differs from the letter in that it is
-transcribed, encoded, decoded, and transcribed again. The lengthening further
-weakens the authorial function: where a letter must be "forged" to
-mis-represent authorial intent, third parties (like the telegraph clerk) are
-explicitly present in the act of telegraphic transmission. In the absence of
-the identifying "hand," the telegraph clerk's (or the censor's) mark cannot be
-distinguished from the author's (a common literary plot device in the fiction
-of the period). The notion of the telegram's "fidelity" therefore becomes an
-attribute of the communication channel as a whole.
+My short history of the distinction between form and content is necessarily
+reductive. The situation on the ground was and continues to be more nuanced
+than the dichotomy would suggest, with a number of reasonable positions between
+extreme idealism and extreme materialism. It is enough however to give a sense
+of what's at stake: not just a dry academic debate about the nature of art,
+but the very capability of art (and don't necessarily think "high art" here) to
+transform humanity. For Hegel, true art reaches for truth beyond visible forms,
+transcending the deterministic material universe. The early formalists rejected
+Hegel, emphasizing instead the text's outward formal properties as "devices"
+capable of revitalizing stale metaphors and ossified ways of thinking.
+### Images note used
 
-3. Automation and programmable media (temporal displacement). Programmable
-media like perforated tape removes the human previously needed to mediate
-between mechanical and electrical signal. "Content" intended for humans can now
-be mixed with "control code" intended to alter the operation of the receiving
-device.
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012. Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
+
+### Hegel Formal Universal
+
+
+

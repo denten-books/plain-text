@@ -1,2 +1,1 @@
-stamp="$(date --iso-8601)"
-pandoc --latex-engine=xelatex -so print/$stamp-main.pdf main.md
+pandoc --latex-engine=xelatex --filter pandoc-citeproc -So ../print/2-chapter.pdf ../2-chapter.md

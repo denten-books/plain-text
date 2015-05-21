@@ -26,7 +26,7 @@ if [ "$old_words" -ne "$words" ]
         spark=$(cat $path/words.csv | spark)
 
         # use -n option to omit the trailing newline
-        echo "word count: "$spark $words" on "$stamp  > $target
+        echo $spark $words" on "$stamp  > $target
 fi
 
 # clean up
