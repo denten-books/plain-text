@@ -1,5 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
+subtitle: "Chapter 3: Laying Bare the Device"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -848,14 +849,15 @@ thereof, in the title, as "sound image," "sound gesture," and "sound
 repetition." To this cluster of essays we may attribute the Russian formalist
 concern with *zaum*---literally, beyond sense, or beyonsense
 [@khlebnikov_collected_1987, 179; @khlebnikov_king_1990, 151;
-@labelle_lexicon_2014, 63]; these are nonsensical sounds that nevertheless elicit an
-affective, lived response, giving voice to ideas that are difficult to explain
-rationally. Poetry in the symbolic mode encodes meaning as inner sense: the
-elephant "stands for" memory, or the like. *Zaum* poetics (beyond sense)
-instead evoke affect through external shape, as sound. Khlebnikov writes that
-"incantation and beyonsense language are appeals 'over the head' of government
-straight to the population of feelings, a direct cry to the predawn of the soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without words but
-with sound." He writes:
+@labelle_lexicon_2014, 63]; these are nonsensical sounds that nevertheless
+elicit an affective, lived response, giving voice to ideas that are difficult
+to explain rationally. Poetry in the symbolic mode encodes meaning as inner
+sense: the elephant "stands for" memory, or the like. *Zaum* poetics (beyond
+sense) instead evoke affect through external shape, as sound. Khlebnikov writes
+that "incantation and beyonsense language are appeals 'over the head' of
+government straight to the population of feelings, a direct cry to the predawn
+of the soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without
+words but with sound." He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -1443,16 +1445,16 @@ essay in the *Yale Journal of Law & Technology* explains it this way:
 
 In these conditions, something like a poem or a novel must relinquish its claim
 on the universal concrete. In doing that, it ceases to be literature and
-becomes instead a device, firmly tied to its given physical affordances. It
-reifies into a concrete object, no longer lasting and universal but rather
-ephemeral and contingent, subject to the whims of the market. The device now
-gains the ability to dynamically adapt itself "to the needs of both the owner
-and the user." These adaptations could of course take a benign form, of the
-kind suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device
-akin to a "literature equalizer," empowering readers to "tune" any given text
-to their liking [@chaouli_remix_2009]. Don't really like intensifiers? Just
-turn the "adverb knob" down! I hold on to the possibility of building such a
-device with Chaouli. In the meantime, existing electronic book software and
+becomes instead a device, firmly tied to its given physical affordances.
+Reified as a concrete object, no longer lasting and universal, but rather
+ephemeral and contingent, it is subject to the whims of the market. The device
+now gains the ability to dynamically adapt itself "to the needs of both the
+owner and the user." These adaptations could of course take a benign form, of
+the kind suggested in "*Remix: Literatur*," where Michel Chaouli imagines a
+device akin to a "literature equalizer," empowering readers to "tune" any given
+text to their liking [@chaouli_remix_2009]. Don't really like intensifiers?
+Just turn the "adverb knob" down! I hold on to the possibility of building such
+a device with Chaouli. In the meantime, existing electronic book software and
 hardware devices adapt themselves to the reader in less creative ways. Some
 prevent simple copy and paste actions. Others can be used to censor and
 surveil. For a textual critic, such instability of medium means analysis cannot
@@ -1500,21 +1502,21 @@ can be used for authorship identification, plagiarism detection, or to find
 similarity in genetic material. The following, is a simple dotplot from
 Shakespeare:
 
-+---+---+---+---+---+---+---+
-|   |to |be |or |not|to |be |
-+---+---+---+---+---+---+---+
-|to | • |   |   |   | • |   |
-+---+---+---+---+---+---+---+
-|be |   | • |   |   |   | • |
-+---+---+---+---+---+---+---+
-|or |   |   | • |   |   |   |
-+---+---+---+---+---+---+---+
-|not|   |   |   | • |   |   |
-+---+---+---+---+---+---+---+
-|to | • |   |   |   | • |   |
-+---+---+---+---+---+---+---+
-|be |   | • |   |   |   | • |
-+---+---+---+---+---+---+---+
++----+---+---+---+----+---+---+
+|    |to |be |or |not |to |be |
++====+===+===+===+====+===+===+
+|to  | • |   |   |    | • |   |
++----+---+---+---+----+---+---+
+|be  |   | • |   |    |   | • |
++----+---+---+---+----+---+---+
+|or  |   |   | • |    |   |   |
++----+---+---+---+----+---+---+
+|not |   |   |   | •  |   |   |
++----+---+---+---+----+---+---+
+|to  | • |   |   |    | • |   |
++----+---+---+---+----+---+---+
+|be  |   | • |   |    |   | • |
++----+---+---+---+----+---+---+
 
 Table: "Six words of Shakespeare." @helfman_dotplot_1996
 
@@ -1674,4 +1676,3 @@ meccanico e la sensibilità numerica]
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
-
