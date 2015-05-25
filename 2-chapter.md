@@ -262,10 +262,27 @@ process of discovery.
 Microanalysis, too, constitutes a study of mediation, but on the level of
 physical minutiae otherwise not observed in cursory exploration. The
 instruments of microanalysis may coincide with computational tools, designed to
-find hidden patterns lurking above or beneath a given document. The
+find hidden patterns lurking above or beneath a given document.[^ln2-iarkho] The
 micro-instrumentation might also include a screwdriver, a binding needle, or a
 soldering iron: sharp tools that help to pry open and to scrutinize otherwise
 magical textual black boxes.
+
+[^ln2-iarkho]: I borrow the term "microanalysis" from the largely forgotten
+Russian literary scholar and member of the Moscow Linguistic Circle, Boris
+Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
+writes: "I understand 'atomism' as a sort of an ideal aspiration, as an
+orientation toward the liminally small. But under no circumstances do I
+advocate working with hypothetical quantities, like molecules, atoms,
+positrons, and so on, which are located beyond the limits of perception. That
+this applied mythology gave us such splendid results in chemistry, should not
+conceal its true nature. Tomorrow, all such explanations of visible through the
+invisible could give way to other hypotheses, as was the case with their no
+less fertile predecessors (elemental spirits, phlogiston, and light ether). But
+the cell, the nucleus, and the chromosome endure as lasting accomplishments of
+microanalysis. I suggest to move as far as a microscope can reach, and no
+further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the most
+quantitatively inclined of the Russian Formalists, microanalysis involved
+systematic application of statistical methods to the study of literature.
 
 The pre-modern model of literary transmission assumes relatively short physical
 distances separating authors, texts, and readers. Were I to write these words
