@@ -10,7 +10,11 @@ cover-image: images/steno.png
 header-includes:
 - \usepackage{ftnxtra}
 - \usepackage{titlesec}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
 - \newcommand{\sectionbreak}{\clearpage}
+- \rhead{DRAFT (please do not distribute)}
+- \lhead{}
 
 ---
 

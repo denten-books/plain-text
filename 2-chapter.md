@@ -1,5 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
+subtitle: "Chapter 2: Literature Down to the Pixel"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -9,7 +10,11 @@ cover-image: images/steno.png
 header-includes:
 - \usepackage{ftnxtra}
 - \usepackage{titlesec}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
 - \newcommand{\sectionbreak}{\clearpage}
+- \rhead{DRAFT (please do not distribute)}
+- \lhead{}
 
 ---
 
