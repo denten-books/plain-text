@@ -273,29 +273,17 @@ literary distribution.
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
 
+### 4.1. Knowledge At Hand
+
+What does it mean "have read" a book? Surely, when someone says "I too have
+read this book" they mean something more than the mechanichal action of turning
+pages or moving one's eyes along the page in a sequential manner. Posessing or
+owning the book is also somewhat besides the point. A deeper structure is
+implied. To have read is to claim to internalize 
+
 ### 4.1 Media Being (Beckett, Sartre)
 
-We often think of literary works as completed products. *To the Lighthouse,*
-*Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
-critics, in charge of creating a work out of a multiplicity of texts, remind us
-that the work is a carefully-crafted illusion. The text multiplies, always
-threatening to undermine the unity of the work. Think of something substantial
-you have written recently: a paper or a proposal perhaps.
 
-"It is that the word or sign man uses is the man himself" Pierce as quoted
-@weel_changing_2012  What does it mean to know something?  Sartre and Beckett.  
-
-Nature of knowledge. Find the actual percentage of received knowledge. Hobbes
-on secret knowledge (p43-44!)
-
-Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
-Goodman: thinking about the perfect copy. But there is a confusion here: fake
-art is not necessarily about a copy, it is about provenance. Autographic vs.
-allographic art. Whether forgery is possible. Digital vs. analog art. Analog
-art is medium bound. Digital abstracts from the material.
-
-Collection. Information hoarding. Owning the book. Vs. owning the title of the
-book. Related to knowing something.
 
 Beckett sets the stage for his 1958 Krapp's Last Tape on "a late evening in the
 future."1 The reason for this rather ambiguous dating is probably
@@ -824,7 +812,7 @@ mental development, in the traditional sense.
 
 Turn towards personal computing.
 
-### 4.4 Knowledge at Hand (Heidegger + Conclusion)
+### 4.4 Human Revealment (Heidegger + Conclusion)
 
 It is tempting to think that alienation come from phase one. Human
 displacement from the hand. Some notion of analog as natural and digital as
@@ -1288,6 +1276,29 @@ loosen the rigidity of fixed mental perception—a mental rigidity reinforced by
 the rigidity in cultural categories (epistemology).  
 
 
+### ODDS AND ENDS
+
+We often think of literary works as completed products. *To the Lighthouse,*
+*Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
+critics, in charge of creating a work out of a multiplicity of texts, remind us
+that the work is a carefully-crafted illusion. The text multiplies, always
+threatening to undermine the unity of the work. Think of something substantial
+you have written recently: a paper or a proposal perhaps.
+
+"It is that the word or sign man uses is the man himself" Pierce as quoted
+@weel_changing_2012  What does it mean to know something?  Sartre and Beckett.  
+
+Nature of knowledge. Find the actual percentage of received knowledge. Hobbes
+on secret knowledge (p43-44!)
+
+Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
+Goodman: thinking about the perfect copy. But there is a confusion here: fake
+art is not necessarily about a copy, it is about provenance. Autographic vs.
+allographic art. Whether forgery is possible. Digital vs. analog art. Analog
+art is medium bound. Digital abstracts from the material.
+
+Collection. Information hoarding. Owning the book. Vs. owning the title of the
+book. Related to knowing something.
 ## Chapter 5: Bad Links
 `network, intertext, hypertext, symbolic links`
 Key terms: internet, rhizome, web, network, infrastructure,
