@@ -486,23 +486,24 @@ induced reading hallucination) we are acting as though "we had tried to find
 the real artichoke by stripping it of its leaves," writes Wittgenstein. 13 The
 moral of the story is that the leaves, taken together, are the artichoke.  The
 explication of the word 'reading' for Wittgenstein involves describing a set of
-characteristic features, some of which may be
-
-mutated, deformed, or missing altogether. What we are dealing with here is a family or a
-genus of behaviors that fall under a particular rubric. Our work then, similar to a
-botanist's, is to describe rather than to explain such features. "Suppose I wish to produce
-in someone a mental image of the inside of a particular eighteenth-century room which he
-is prevented from entering," Wittgenstein writes. "I therefore adopt this method: I show
-him the house from the outside, pointing out the windows of the room in question, I
-further lead him into other rooms of the same period" and so on. 14 No single feature
-defines the room, it seems. Instead, we observe a range of facades, a range of decors, a
-range of configurations. Taken together these serve as an instrumental category—rooms
-of the 18th century—that is useful in talking about, visiting, preserving, or living in 18thcentury rooms. By analogy, the mind is hermeneutically sealed to outside observers. The
-best we can do is to examine other, similar minds in similar situations. To think, to read,
-to write, is to play a particular part in the appropriate cultural and linguistic context—a
-part that we learn as a result of continuing practice and acculturation. "Could a machine
-think?" Wittgenstein asks again in the Philosophical Investigations, "Could it be in
-pain?"
+characteristic features, some of which may be mutated, deformed, or missing
+altogether. What we are dealing with here is a family or a genus of behaviors
+that fall under a particular rubric. Our work then, similar to a botanist's, is
+to describe rather than to explain such features. "Suppose I wish to produce in
+someone a mental image of the inside of a particular eighteenth-century room
+which he is prevented from entering," Wittgenstein writes. "I therefore adopt
+this method: I show him the house from the outside, pointing out the windows of
+the room in question, I further lead him into other rooms of the same period"
+and so on. 14 No single feature defines the room, it seems. Instead, we observe
+a range of facades, a range of decors, a range of configurations. Taken
+together these serve as an instrumental category—rooms of the 18th century—that
+is useful in talking about, visiting, preserving, or living in 18thcentury
+rooms. By analogy, the mind is hermeneutically sealed to outside observers. The
+best we can do is to examine other, similar minds in similar situations. To
+think, to read, to write, is to play a particular part in the appropriate
+cultural and linguistic context—a part that we learn as a result of continuing
+practice and acculturation. "Could a machine think?" Wittgenstein asks again in
+the Philosophical Investigations, "Could it be in pain?"
 
 Well, is the human body to be called such a machine? It surely comes as
 close as possible to being such a machine. But a machine surely cannot
@@ -4156,8 +4157,6 @@ Understanding Media: The Extensions of Man, published in 1964.
 12
 
 Trilling 127-128.
-
-Recursive Encounters with Ourselves | 145
 
 First Encounter: Librarians of the Self
 Beckett sets the stage for his 1958 Krapp's Last Tape on "a late evening in the

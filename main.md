@@ -273,107 +273,24 @@ literary distribution.
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
 
-### 4.1. Knowledge At Hand
-
-What does it mean "have read" a book? Surely, when someone says "I too have
-read this book" they mean something more than the mechanical action of turning
-pages and moving one's eyes from left to right in a sequential manner.
-Possessing or owning the book is also somewhat besides the point. A deeper
-structure is implied. To have read is to claim to internalize, to understand,
-and to form a mental image or opinion. But what exactly is internalized? It
-cannot be the whole text, verbatim. By reading we mean something other than
-rote memorization. In his *Blue and Brown Books*, written somewhere between the
-*Tractatus* and *Philosophical Investigations*, Ludwig Wittgenstein gives the
-example of a child who is asked to read, but who instead regurgitates the text
-from memory. Wittgenstein further asks his readers to imagine an experimental
-"human reading machine," which like the child "reads" by making sounds which
-sometimes do and sometimes do not correspond with the printed word. An observer
-not familiar with the mechanism of this experimental "reader," could be fooled
-into thinking the machine is reading. The coincidence between sound and word
-remains accidental, however. We would remain skeptical of this activity as
-reading even if our machine were to begin to correlate letters to appropriate
-sounds consistently [@wittgenstein_blue_1965, 120-1].
-
-In his characteristically cryptic manner, Wittgenstein explains his thought
-experiment by making yet another analogy:
-
-> If A tries to make B believe that he is able to read Cyrillic script,
-> cheating him by learning a Russian sentence by heart and then saying it while
-> looking at the printed sentence, we may certainly say that A knows he is
-> pretending, and that his not reading is characterized by a particular
-> personal experience [@wittgenstein_blue_1965, 120-1].
-
-But suppose the man really does know how to read Russian, although when he
-reads he has a peculiar feeling of knowing the words by heart. Should we regard
-his personal experience as the criterion distinguishing between reading and not
-reading in that case? And again, Wittgenstein expects us to answer in the
-negative. It seems then, that the functional performance of reading cannot not
-determine the behavior alone. In each case, we had to check for the appropriate
-internalized mental state. Wittgenstein writes, "We here envision two
-mechanisms, the internal workings of which we can see, and this internal
-working is the real criterion for a person's reading or not reading. But in
-fact no such mechanisms are known to us in these cases"
-[@wittgenstein_blue_1965, 120]. As it turns out, the mental state alone is also
-insufficient to describe reading definitively. Here, Wittgenstein asks us to
-imagine a person under the influence of drugs who is shown a set of discrete
-strings composed of nonsensical characters. When shown some random string of
-nonesensical characthers like `$%^&*`, for example, the drugged patient
-imagines he is reading some English word, like "above" or "stair," as if the
-typographical characters were meaningful. As far as the patient is concerned,
-he is reading. All the structural attributes of the action are there---the
-proper region of his brain is receiving stimulation; he follows the text with
-his eyes from left to right; and silently mouths the words. But this too is
-unacceptible: the patient merely imagines that he is reading
-[@wittgenstein_blue_1965, 122].
-
-In this way, neither the internal nor the external descriptions of the action
-seem adequate to encompass everything we mean by reading. And yet we do have a
-relatively clear picture of what reading properly entails, what it looks like,
-what it sounds like, how to do it, and how to teach others to do it. In
-building this chain of deferring analogies (from the reading child to the drug
-induced reading hallucination) we are acting as though "we had tried to find
-the real artichoke by stripping it of its leaves," writes Wittgenstein
-[@wittgenstein_blue_1965, 125]. Instead, the leaves, when bundled together, are
-the artichoke.
-
-For Wittgenstein, our mistake lies in attempting to reduce cognitive activity
-like "reading" to a set of either external (functional) attributes or internal
-(formal) mental structures. Yet neither of these are sufficient. Reading
-happens in the head and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein
-explains that:
-
-> In the consideration of our problems one of the most dangerous ideas is the
-> idea that we think with, or in, our heads [...] "Thinking takes place in the
-> head" really means only "the head is connected with thinking."---Of course
-> one says also 'I think with my pen' and this localization is at least as good
-> [@wittgenstein_blue_1965, 116].
-
-In setting this tension between functional (behaviorist) and formal
-(structuralist) accounts of cognitive activity, Wittgenstein's thought
-experiments point a way 
-
 ### 4.1 Media Being (Beckett, Sartre)
 
-
-
 Beckett sets the stage for his 1958 Krapp's Last Tape on "a late evening in the
-future."1 The reason for this rather ambiguous dating is probably
-technological. The first personal tape-recorders were manufactured in Germany
-in the early 1930s, with public demonstrations of the device happening as early
-as 1933 in Europe.2 The play makes it clear that Krapp is in the habit of
-reviewing and recording his tapes on the eve of his birthday. On this
-particular evening, he is turning sixty-nine, and he is listening to a
+future" [@beckett_krapps_1960, 55]. The reason for this rather ambiguous dating
+is probably technological. The first personal tape-recorders were manufactured
+in Germany in the early 1930s, with public demonstrations of the device
+happening as early as 1933 in Europe.14 The play makes it clear that Krapp is in
+the habit of reviewing and recording his tapes on the eve of his birthday. On
+this particular evening, he is turning sixty-nine, and he is listening to a
 recording of his thirty-nine year-old self, who in turn reports listening to a
 ten-to-twelve year-old tape. This dating sequence places the work well into the
 mid-1970s by a conservative estimate—a date which is ironically, more than a
 decade after the invention of the compact cassette tape (1962) by Phillips and
 only a few years before the introduction of the iconic Sony Walkman product
-line (1979).3 It is likely that Beckett wanted to protect the chronological
+line (1979). It is likely that Beckett wanted to protect the chronological
 integrity of the plot by shifting the time of the play forward. What he could
 not have predicted is the increasing pace of technological innovation in the
 twentieth century.
-
-"Computer assisted tracing of text evolution"
 
 These modest annotations to Beckett's work are not meant to be facetious. The
 multiplicity of Krapp's fictional selves is made logically possible by the
@@ -385,27 +302,33 @@ time; it multiplies and refracts the images of the main character of the play.
 The reel-to-reel player functions both as the audience and the actor,
 alternatively speaking and listening, recording and transmitting. And
 ultimately, Krapp's fate is not only linked to the tape-recorder, it is created
-by and for this technological medium.4
+by and for this technological medium.
 
 But just as Krapp is created by the tape, the tape is Krapp's
 creation—technology itself being inextricably enmeshed in the narcissistic
 activity of human culture. The tape-recorder cannot occupy the center stage—it
 must recede into the background to become invisible. The player exists to
 reflect Krapp's image back to Krapp and in the process, to record the encounter
-for later reevaluation and re-recording.5 This almost mythical recursion
-promotes Krapp's character to the archetypal role of the librarian, whose task
-is to collect, to preserve, and to curate his own personal experience—a
-librarian of the self. In this light, the specificity of the tape as a medium
-is not terribly important. The story would be similarly plausible were it set a
-century prior, using a conventional diary as its medium, or written some
-decades later under the title of Krapp's Last Facebook Page.6
+for later reevaluation and re-recording.[^ln4-recursive] This almost mythical
+recursion promotes Krapp's character to the archetypal role of the librarian,
+whose task is to collect, to preserve, and to curate his own personal
+experience—a librarian of the self. In this light, the specificity of the tape
+as a medium is not terribly important. The story would be similarly plausible
+were it set a century prior, using a conventional diary as its medium, or
+written some decades later under the title of Krapp's Last Facebook
+Page.[^ln4-boring]
+
+[ln4-recursive]: See also @breuer_paradox_1993, 559-580.
+
+[ln4-boring]: I suspect both would make for far more boring plays than the
+original.
 
 Krapp's status as a librarian is confirmed in his elaborate filing system, by
 which he stores and organizes his recordings. He goes through several of his
 filing cabinets, "peering and poking at the boxes" as if to check the integrity
 of his collection, before settling on the tape from his thirty-ninth birthday
 ("Box Three, Spool Five" he says with relish.) The cardboard storage boxes, the
-drawers, the ledger, and the very word itself—"spool," "spooool"—make him
+drawers, the ledger, and the very word itself---"spool," "spooool"---make him
 increasingly happy. Beckett presents Krapp's archival activity as a kind of a
 Chaplinesque comedy routine, with erotic overtones: Krapp remains a moment
 motionless, heaves a great sigh, looks at his watch, fumbles in his pockets,
@@ -607,8 +530,91 @@ and more with trying to save and preserve a sense of self as we face the
 uncertain future, emphasizing our agency in the selection and meaning making
 process that we fear threatens to outpace us" @taylor_save_2012.
 
-### 4.2 Extended cognition
+"It is that the word or sign man uses is the man himself" Pierce as quoted
+@weel_changing_2012
 
+### 4.2 Knowledge at Hand (Extended cognition)
+
+What does it mean "have read" a book? Surely, when someone says "I too have
+read this book" they mean something more than the mechanical action of turning
+pages and moving one's eyes from left to right in a sequential manner.
+Possessing or owning the book is also somewhat besides the point. A deeper
+structure is implied. To have read is to claim to internalize, to understand,
+and to form a mental image or opinion. But what exactly is internalized? It
+cannot be the whole text, verbatim. By reading we mean something other than
+rote memorization. In his *Blue and Brown Books*, written somewhere between the
+*Tractatus* and *Philosophical Investigations*, Ludwig Wittgenstein gives the
+example of a child who is asked to read, but who instead regurgitates the text
+from memory. Wittgenstein further asks his readers to imagine an experimental
+"human reading machine," which like the child "reads" by making sounds which
+sometimes do and sometimes do not correspond with the printed word. An observer
+not familiar with the mechanism of this experimental "reader," could be fooled
+into thinking the machine is reading. The coincidence between sound and word
+remains accidental, however. We would remain skeptical of this activity as
+reading even if our machine were to begin to correlate letters to appropriate
+sounds consistently [@wittgenstein_blue_1965, 120-1].
+
+In his characteristically cryptic manner, Wittgenstein explains his thought
+experiment by making yet another analogy:
+
+> If A tries to make B believe that he is able to read Cyrillic script,
+> cheating him by learning a Russian sentence by heart and then saying it while
+> looking at the printed sentence, we may certainly say that A knows he is
+> pretending, and that his not reading is characterized by a particular
+> personal experience [@wittgenstein_blue_1965, 120-1].
+
+But suppose the man really does know how to read Russian, although when he
+reads he has a peculiar feeling of knowing the words by heart. Should we regard
+his personal experience as the criterion distinguishing between reading and not
+reading in that case? And again, Wittgenstein expects us to answer in the
+negative. It seems then, that the functional performance of reading cannot not
+determine the behavior alone. In each case, we had to check for the appropriate
+internalized mental state. Wittgenstein writes, "We here envision two
+mechanisms, the internal workings of which we can see, and this internal
+working is the real criterion for a person's reading or not reading. But in
+fact no such mechanisms are known to us in these cases"
+[@wittgenstein_blue_1965, 120]. As it turns out, the mental state alone is also
+insufficient to describe reading definitively. Here, Wittgenstein asks us to
+imagine a person under the influence of drugs who is shown a set of discrete
+strings composed of nonsensical characters. When shown some random string of
+nonesensical characthers like `$%^&*`, for example, the drugged patient
+imagines he is reading some English word, like "above" or "stair," as if the
+typographical characters were meaningful. As far as the patient is concerned,
+he is reading. All the structural attributes of the action are there---the
+proper region of his brain is receiving stimulation; he follows the text with
+his eyes from left to right; and silently mouths the words. But this too is
+unacceptible: the patient merely imagines that he is reading
+[@wittgenstein_blue_1965, 122].
+
+In this way, neither the internal nor the external descriptions of the action
+seem adequate to encompass everything we mean by reading. And yet we do have a
+relatively clear picture of what reading properly entails, what it looks like,
+what it sounds like, how to do it, and how to teach others to do it. In
+building this chain of deferring analogies (from the reading child to the drug
+induced reading hallucination) we are acting as though "we had tried to find
+the real artichoke by stripping it of its leaves," writes Wittgenstein
+[@wittgenstein_blue_1965, 125]. Instead, the leaves, when bundled together, are
+the artichoke.
+
+For Wittgenstein, our mistake lies in attempting to reduce cognitive activity
+like "reading" to a set of either external (functional) attributes or internal
+(formal) mental structures. Yet neither of these are sufficient. Reading
+happens in the head and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein
+explains that:
+
+> In the consideration of our problems one of the most dangerous ideas is the
+> idea that we think with, or in, our heads [...] "Thinking takes place in the
+> head" really means only "the head is connected with thinking."---Of course
+> one says also 'I think with my pen' and this localization is at least as good
+> [@wittgenstein_blue_1965, 116].
+
+In refusing to resolve the tension between functional (behaviorist) and formal
+(structuralist) accounts of cognition, Wittgenstein's thought experiments
+suggest a model of textual activity that sees reading and writing as a movement
+and a correspondence between innate mental structures their external,
+media-bound representation.
+
+and externalized paper- an ink-states, 
 
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
 word processor (with detours to Kittler and Heidegger). Writing together.
@@ -1348,7 +1354,13 @@ loosen the rigidity of fixed mental perception—a mental rigidity reinforced by
 the rigidity in cultural categories (epistemology).  
 
 
-### ODDS AND ENDS
+
+Collection. Information hoarding. Owning the book. Vs. owning the title of the
+book. Related to knowing something.
+
+## Chapter 5: Bad Links
+`network, intertext, hypertext, symbolic links`
+Key terms: internet, rhizome, web, network, infrastructure,
 
 We often think of literary works as completed products. *To the Lighthouse,*
 *Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
@@ -1357,23 +1369,13 @@ that the work is a carefully-crafted illusion. The text multiplies, always
 threatening to undermine the unity of the work. Think of something substantial
 you have written recently: a paper or a proposal perhaps.
 
-"It is that the word or sign man uses is the man himself" Pierce as quoted
-@weel_changing_2012  What does it mean to know something?  Sartre and Beckett.  
-
-Nature of knowledge. Find the actual percentage of received knowledge. Hobbes
-on secret knowledge (p43-44!)
+"Computer assisted tracing of text evolution"
 
 Goodman's "Art and Authenticity." Benjamin. Immanence and transcendence.
 Goodman: thinking about the perfect copy. But there is a confusion here: fake
 art is not necessarily about a copy, it is about provenance. Autographic vs.
 allographic art. Whether forgery is possible. Digital vs. analog art. Analog
 art is medium bound. Digital abstracts from the material.
-
-Collection. Information hoarding. Owning the book. Vs. owning the title of the
-book. Related to knowing something.
-## Chapter 5: Bad Links
-`network, intertext, hypertext, symbolic links`
-Key terms: internet, rhizome, web, network, infrastructure,
 
 ### 5.1 Copy Machine
 
@@ -2280,6 +2282,8 @@ imagined commodity = algorithm labor = contracts, agreements
 
 
 ### 6.2 Cryptography and Steganography
+
+Hobbes on secret knowledge (p43-44!)
 
 Where cryptography is the art of secret communication, steganography is the art
 of hiding the secret. "The purpose of steganography is to hide the very
