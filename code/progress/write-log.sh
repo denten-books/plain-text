@@ -17,10 +17,14 @@ new_words="$(awk '{ sum += $1 } END { print sum }' $path/tmp.txt)"
 total=$(expr $new_words - $old_words)
 
 # happy message
-echo "you wrote "$total" words since last time!"
+echo "You wrote "$total" words since last time for a total of "$new_words".
+Well done, sir."
 
 # write to log
-echo $new_words $total $stamp >> $path/log.txt
+if [ $total != 0 ]
+    then
+        echo $new_words $total $stamp >> $path/log.txt
+fi
 
 # clean up
 rm -f $path/tmp.txt
