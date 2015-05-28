@@ -307,81 +307,50 @@ But suppose the man really does know how to read Russian, although when he
 reads he has a peculiar feeling of knowing the words by heart. Should we regard
 his personal experience as the criterion distinguishing between reading and not
 reading in that case? And again, Wittgenstein expects us to answer in the
-negative. It seems then, that the functional performance of reading a lone is
-not sufficient to determine the behavior. In each case, we had to check for the
-appropriate mental state. Wittgenstein writes, "We here envision two
+negative. It seems then, that the functional performance of reading cannot not
+determine the behavior alone. In each case, we had to check for the appropriate
+internalized mental state. Wittgenstein writes, "We here envision two
 mechanisms, the internal workings of which we can see, and this internal
-working is the real criterion for a person's reading or not reading.  But in
-fact no such mechanisms are known to us in these cases." 11 And it turns out
-that the appropriate mental state alone is also insufficient to describe
-thought definitively. Here, Wittgenstein asks us to imagine a person under the
-influence of drugs who is shown a set of discrete strings composed of
-nonsensical characters. When shown the string $%^&* for example, the drugged
-patient reads 'above,' as if the typographical characters were meaningful and
-in English. As far as the patient is concerned, she is reading. All the formal
-attributes of the action are there—the proper region of her brain is receiving
-stimulation, she follows the text with her eyes from left to right, silently
-mouthing the words, and so on.  But this cannot be reading as we know it: the
-woman is simply imagining that she is reading. 12 Thus, neither the internal
-nor the external descriptions of the action seem adequate to encompass
-everything we mean by reading. And yet we do have a relatively clear picture of
-what reading properly entails, what it looks like, what it sounds like, how to
-do it, and how to teach others to do it.  In building this chain of deferring
-analogies (from the reading child to the drug induced reading hallucination) we
-are acting as though "we had tried to find the real artichoke by stripping it
-of its leaves," writes Wittgenstein.  13 The moral of the story is that the
-leaves, taken together, are the artichoke.  The explication of the word
-'reading' for Wittgenstein involves describing a set of characteristic
-features, some of which may be mutated, deformed, or missing altogether. What
-we are dealing with here is a family or a genus of behaviors that fall under a
-particular rubric. Our work then, similar to a botanist's, is to describe
-rather than to explain such features. "Suppose I wish to produce in someone a
-mental image of the inside of a particular eighteenth-century room which he is
-prevented from entering," Wittgenstein writes. "I therefore adopt this method:
-I show him the house from the outside, pointing out the windows of the room in
-question, I further lead him into other rooms of the same period" and so on. 14
-No single feature defines the room, it seems. Instead, we observe a range of
-facades, a range of decors, a range of configurations. Taken together these
-serve as an instrumental category—rooms of the 18th century—that is useful in
-talking about, visiting, preserving, or living in 18thcentury rooms. By
-analogy, the mind is hermeneutically sealed to outside observers. The best we
-can do is to examine other, similar minds in similar situations. To think, to
-read, to write, is to play a particular part in the appropriate cultural and
-linguistic context—a part that we learn as a result of continuing practice and
-acculturation. "Could a machine think?" Wittgenstein asks again in the
-Philosophical Investigations, "Could it be in pain?"
+working is the real criterion for a person's reading or not reading. But in
+fact no such mechanisms are known to us in these cases"
+[@wittgenstein_blue_1965, 120]. As it turns out, the mental state alone is also
+insufficient to describe reading definitively. Here, Wittgenstein asks us to
+imagine a person under the influence of drugs who is shown a set of discrete
+strings composed of nonsensical characters. When shown some random string of
+nonesensical characthers like `$%^&*`, for example, the drugged patient
+imagines he is reading some English word, like "above" or "stair," as if the
+typographical characters were meaningful. As far as the patient is concerned,
+he is reading. All the structural attributes of the action are there---the
+proper region of his brain is receiving stimulation; he follows the text with
+his eyes from left to right; and silently mouths the words. But this too is
+unacceptible: the patient merely imagines that he is reading
+[@wittgenstein_blue_1965, 122].
 
+In this way, neither the internal nor the external descriptions of the action
+seem adequate to encompass everything we mean by reading. And yet we do have a
+relatively clear picture of what reading properly entails, what it looks like,
+what it sounds like, how to do it, and how to teach others to do it. In
+building this chain of deferring analogies (from the reading child to the drug
+induced reading hallucination) we are acting as though "we had tried to find
+the real artichoke by stripping it of its leaves," writes Wittgenstein
+[@wittgenstein_blue_1965, 125]. Instead, the leaves, when bundled together, are
+the artichoke.
 
-7
+For Wittgenstein, our mistake lies in attempting to reduce cognitive activity
+like "reading" to a set of either external (functional) attributes or internal
+(formal) mental structures. Yet neither of these are sufficient. Reading
+happens in the head and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein
+explains that:
 
-Ibid., 16.
+> In the consideration of our problems one of the most dangerous ideas is the
+> idea that we think with, or in, our heads [...] "Thinking takes place in the
+> head" really means only "the head is connected with thinking."---Of course
+> one says also 'I think with my pen' and this localization is at least as good
+> [@wittgenstein_blue_1965, 116].
 
-8
-
-Ibid., 106.
-
-
-To 
-
-Ibid., 120-121.
-
-9 Ibid., 121.
-
-11 Ibid., 120.
-
-12jj
-
-Ibid., 122.
-
-13
-
-Ibid., 125.
-
-14
-
-Ibid., 125.
-Human ability to remember is severly limited. Memory in natural contexts
-instead involves.
+In setting this tension between functional (behaviorist) and formal
+(structuralist) accounts of cognitive activity, Wittgenstein's thought
+experiments point a way 
 
 ### 4.1 Media Being (Beckett, Sartre)
 
@@ -640,15 +609,6 @@ process that we fear threatens to outpace us" @taylor_save_2012.
 
 ### 4.2 Extended cognition
 
-To answer that question, we must first agree on what we mean by
-'thought'. "Where does thinking take place?" Wittgenstein asks in an approach
-to that problem. On paper, is one possible answer. In our bodies. In our
-brains. But none of these localities are exhaustive; none of them can stake the
-claim of being THE location of thinking. 7 Wittgenstein writes: "In the
-consideration of our problems one of the most dangerous ideas is the idea that
-we think with, or in, our heads [...] 'Thinking takes place in the head' really
-means only 'the head is connected with thinking.'—Of course one says also 'I
-think with my pen' and this localization is at least as good." 8 
 
 What does it mean to "know" something? Extended cognition. Pen, typewriter, and
 word processor (with detours to Kittler and Heidegger). Writing together.
