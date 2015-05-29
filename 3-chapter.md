@@ -21,6 +21,8 @@ header-includes:
 ## Chapter 3: Laying Bare the Device
 Keywords: `content, form, formula, formatting, device`
 
+Hello 
+
 ### 3.1 Literary Device as Gadget and Technique
 
 As I write these words, a ceiling-mounted smoke detector in the hallway outside
