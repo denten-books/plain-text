@@ -275,37 +275,66 @@ literary distribution.
 
 ### 4.1 Media Being (Beckett, Sartre)
 
-Beckett sets the stage for his 1958 Krapp's Last Tape on "a late evening in the
-future" [@beckett_krapps_1960, 55]. The reason for this rather ambiguous dating
-is probably technological. The first personal tape-recorders were manufactured
-in Germany in the early 1930s, with public demonstrations of the device
-happening as early as 1933 in Europe.14 The play makes it clear that Krapp is in
-the habit of reviewing and recording his tapes on the eve of his birthday. On
-this particular evening, he is turning sixty-nine, and he is listening to a
-recording of his thirty-nine year-old self, who in turn reports listening to a
-ten-to-twelve year-old tape. This dating sequence places the work well into the
-mid-1970s by a conservative estimate—a date which is ironically, more than a
-decade after the invention of the compact cassette tape (1962) by Phillips and
-only a few years before the introduction of the iconic Sony Walkman product
-line (1979). It is likely that Beckett wanted to protect the chronological
-integrity of the plot by shifting the time of the play forward. What he could
-not have predicted is the increasing pace of technological innovation in the
-twentieth century.
+Every year, Krapp, the titular character of *Krapp's Last Tape* by Samuel
+Beckett, records and listens to himself speak from the past. The play begins on
+one such occasion. Krapp, who is just turning sixty-nine, reaches for box
+three, spool five. The recording contains a monologue of his thirty-nine year
+old self, responding to yet another, decade old reel---which means the action
+of the play technically spans at least forty years. For theater audiences in
+1958 (the date of the play's first production) the reel-to-reel recorder was
+still somewhat of a novelty item, but already beginning to make its way into
+American and European living rooms. These devices were expensive, costing the
+equivalent of thousands of dollars (when adjusted for inflation). Yet, the
+personal tape recorders by Sony, Ampex, and Phillips appearing on the market in
+the late 40s, were universally marketed as "recorders" and not merely "playback
+devices" or "players." They often aimed to engage a family's instinct for
+archival preservation, with slogans like: "Remember their laughter forever,
+record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for Soundmirror
+recorder by Brush) and "Make your cherished moments will last the years" (from
+a 1959 Dupont advertisement for Mylar tape). Where the earlier materials
+targeted radio broadcasting and office use, by 1950s the settings depicted on
+personal tape recorder advertisements shift to the domestic, private space.
+The tape recorder is offered as a device to record childhood birthdays,
+graduations, holidays, and school performances. "Fun times last a lifetime,"
+declares another advertisement from Dupont; "Record this Christmas forever!"
+and "When there's no second chance, record with Acetate base tape!" The
+composite photographs often show the device in use with a fairly large
+microphone, which upstages the recorder as the locus of family attention.
+Finally, the adverts suggest not just a means of preservation, but a mode of
+personal archiving practice. An advertisement for Apex circa 1963 shows a row
+of neatly arranged and labelled reels on a shelf, bragging "Who came up with
+the best way to label your tapes?" Another ad for Bell's Tape Transporter,
+circa 1959 depicts a couple in their living room, relaxing around the tape
+recorder and near a shelf-like piece of furniture holding a number reels.
+"Build your own library of stereo tapes," it suggests.[^ln4-dupont]
 
-These modest annotations to Beckett's work are not meant to be facetious. The
-multiplicity of Krapp's fictional selves is made logically possible by the
+In the play, Krapp 
+Is it still a monologue when one talks to his own images from the past? Krapp
+has changed. He no longer fully identifies
+
+[^ln4-dupont]: All materials in this section come from an online archive of
+sound recording advertisements curated by the Museum of Magnetic Sound
+Recording [@museum_of_magnetic_sound_recording_time_2013].
+
+The advertisements from this period often feature a large external
+microphone.
+
+Several dozen tape-recorders were already on the market, with the most popular
+brands being Ampex, Crown, Magnetophon, Magnecorder, Sony, Webcor, and
+Wollensak (see Appendix, Table 1). 
+The multiplicity of Krapp's fictional selves is made logically possible by the
 literary and the technological device alike. The seeming unity of Krapp's
 consciousness and indeed, the stage appearance of consciousness itself are
 aided by the use of the tape-recorder. The device on the stage creates the
 illusion of Krapp's inner life; it allows the author to shift the narrative in
 time; it multiplies and refracts the images of the main character of the play.
 The reel-to-reel player functions both as the audience and the actor,
-alternatively speaking and listening, recording and transmitting. And
-ultimately, Krapp's fate is not only linked to the tape-recorder, it is created
-by and for this technological medium.
+alternatively speaking and listening, recording and transmitting.  Ultimately,
+Krapp's the tape-recorder, it is created by and for
+this technological medium.
 
 But just as Krapp is created by the tape, the tape is Krapp's
-creation—technology itself being inextricably enmeshed in the narcissistic
+creation---technology itself being inextricably enmeshed in the narcissistic
 activity of human culture. The tape-recorder cannot occupy the center stage—it
 must recede into the background to become invisible. The player exists to
 reflect Krapp's image back to Krapp and in the process, to record the encounter
@@ -348,12 +377,12 @@ pockets, raises them to his eyes, chooses key, gets up and moves to front of
 table, unlocks second drawer, takes out a second large banana, peers at it,
 locks drawer, puts back his keys in his pocket, turns, advances to the edge of
 stage, halts, strokes banana, peels it, tosses skin into pit, puts an end of
-banana in his mouth and remains motionless, staring vacuously before him7 
+banana in his mouth and remains motionless, staring vacuously before him7
 
 These stage directions exude a nervous energy one would expect before an erotic
 encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
 contain an account of a past romance, but the encounter Krapp is excited about
-is with the archive—that is with himself. The suggestive stroking of the banana
+is with the archive--that is with himself. The suggestive stroking of the banana
 punctuates the onanistic nature of Krapp's archival activity.
 
 Let us envision Krapp's archiving habits for a moment. The stage directions
@@ -532,6 +561,8 @@ process that we fear threatens to outpace us" @taylor_save_2012.
 
 "It is that the word or sign man uses is the man himself" Pierce as quoted
 @weel_changing_2012
+
+We secrete and archive 
 
 ### 4.2 Knowledge at Hand (Extended cognition)
 
