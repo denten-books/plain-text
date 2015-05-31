@@ -275,8 +275,8 @@ literary distribution.
 
 ### 4.1 Media Being (Beckett, Sartre)
 
-Every year, Krapp, the titular character of *Krapp's Last Tape* by Samuel
-Beckett, records and listens to himself speak from the past. The play begins on
+Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
+Tape*, records and listens to himself speak from the past. The play begins on
 one such occasion. Krapp, who is just turning sixty-nine, reaches for box
 three, spool five. The recording contains a monologue of his thirty-nine year
 old self, responding to yet another, decade old reel---which means the action
@@ -293,45 +293,51 @@ record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for Soundmirror
 recorder by Brush) and "Make your cherished moments will last the years" (from
 a 1959 Dupont advertisement for Mylar tape). Where the earlier materials
 targeted radio broadcasting and office use, by 1950s the settings depicted on
-personal tape recorder advertisements shift to the domestic, private space.
-The tape recorder is offered as a device to record childhood birthdays,
-graduations, holidays, and school performances. "Fun times last a lifetime,"
-declares another advertisement from Dupont; "Record this Christmas forever!"
-and "When there's no second chance, record with Acetate base tape!" The
-composite photographs often show the device in use with a fairly large
-microphone, which upstages the recorder as the locus of family attention.
-Finally, the adverts suggest not just a means of preservation, but a mode of
-personal archiving practice. An advertisement for Apex circa 1963 shows a row
-of neatly arranged and labelled reels on a shelf, bragging "Who came up with
-the best way to label your tapes?" Another ad for Bell's Tape Transporter,
-circa 1959 depicts a couple in their living room, relaxing around the tape
-recorder and near a shelf-like piece of furniture holding a number reels.
-"Build your own library of stereo tapes," it suggests.[^ln4-dupont]
+personal tape recorder advertisements shift locations to spaces in the
+domestic, familial, and private spheres. The tape recorder at the time was
+offered as a device to record childhood birthdays, graduations, holidays, and
+school performances. "Fun times last a lifetime," declares another
+advertisement from Dupont. "Record this Christmas forever!" and "When there's
+no second chance, record with Acetate base tape!" The composite photographs
+often showed a device in use with a fairly large microphone, which upstages the
+recorder as the locus of family attention.  Finally, the adverts suggest not
+just a means of preservation, but a mode of personal archiving practice. An
+advertisement for Apex circa 1963 shows a row of neatly arranged and labelled
+reels on a shelf, bragging "Who came up with the best way to label your tapes?"
+Another ad for Bell's Tape Transporter, circa 1959, depicts a couple in their
+living room, relaxing around a tape recorder and near a shelf-like piece of
+furniture holding reels and equipment in neat wooden compartments.  "Build your
+own library of stereo tapes," reads the slogan.[^ln4-dupont]
 
-In the play, Krapp 
-Is it still a monologue when one talks to his own images from the past? Krapp
+In *Krapp's Last Tape*, Beckett captures the movement between institutional and
+personal archiving practices. Of course, the domestic space has always been, in
+some sense, an archival domain. The book shelf, the pantry, the wall, and the
+mantle: these are the locations where the family imposes private order,
+organizes its material life, and into which it secretes its memories,
+preserving and curating artifacts from its own pest. In her study of immigrant
+domestic interior, Svetlana Boym writes about these typically Soviet "curio
+cabinets, that present "at once a fragmentary biography of the inhabitant and a
+display of collective memory" [@boym_future_2002, 334].
+
+The multiplicity of Krapp's fictional selves is
+made logically possible by the literary and the technological device alike. The
+seeming unity of Krapp's consciousness and, indeed, the stage appearance of
+consciousness itself, are aided by the use of a tape-recorder. The device on
+the stage creates the illusion of Krapp's inner life; it allows the author to
+shift the narrative in time; it multiplies and refracts the images of the main
+character of the play. The reel-to-reel player functions both as audience and
+actor: listening and speaking, recording and transmitting.  Ultimately, Krapp's
+fate is not only indexcically linked to the tape-recorder, it is created by and
+for this technological medium.
+
+Svetlana Boym in immigrant domestic interior.
+"Each apartment collection Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer fully identifies
 
 [^ln4-dupont]: All materials in this section come from an online archive of
 sound recording advertisements curated by the Museum of Magnetic Sound
 Recording [@museum_of_magnetic_sound_recording_time_2013].
 
-The advertisements from this period often feature a large external
-microphone.
-
-Several dozen tape-recorders were already on the market, with the most popular
-brands being Ampex, Crown, Magnetophon, Magnecorder, Sony, Webcor, and
-Wollensak (see Appendix, Table 1). 
-The multiplicity of Krapp's fictional selves is made logically possible by the
-literary and the technological device alike. The seeming unity of Krapp's
-consciousness and indeed, the stage appearance of consciousness itself are
-aided by the use of the tape-recorder. The device on the stage creates the
-illusion of Krapp's inner life; it allows the author to shift the narrative in
-time; it multiplies and refracts the images of the main character of the play.
-The reel-to-reel player functions both as the audience and the actor,
-alternatively speaking and listening, recording and transmitting.  Ultimately,
-Krapp's the tape-recorder, it is created by and for
-this technological medium.
 
 But just as Krapp is created by the tape, the tape is Krapp's
 creation---technology itself being inextricably enmeshed in the narcissistic
