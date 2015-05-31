@@ -273,123 +273,154 @@ literary distribution.
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
 
-### 4.1 Media Being (Beckett, Sartre)
+### 4.1 Media Being
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
 one such occasion. Krapp, who is just turning sixty-nine, reaches for box
 three, spool five. The recording contains a monologue of his thirty-nine year
 old self, responding to yet another, decade old reel---which means the action
-of the play technically spans at least forty years. For theater audiences in
-1958 (the date of the play's first production) the reel-to-reel recorder was
-still somewhat of a novelty item, but already beginning to make its way into
-American and European living rooms. These devices were expensive, costing the
-equivalent of thousands of dollars (when adjusted for inflation). Yet, the
-personal tape recorders by Sony, Ampex, and Phillips appearing on the market in
-the late 40s, were universally marketed as "recorders" and not merely "playback
-devices" or "players." They often aimed to engage a family's instinct for
-archival preservation, with slogans like: "Remember their laughter forever,
-record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for Soundmirror
-recorder by Brush) and "Make your cherished moments will last the years" (from
-a 1959 Dupont advertisement for Mylar tape). Where the earlier materials
-targeted radio broadcasting and office use, by 1950s the settings depicted on
-personal tape recorder advertisements shift locations to spaces in the
-domestic, familial, and private spheres. The tape recorder at the time was
+of the play technically spans at least forty years.
+
+For theater audiences in 1958 (the date of the play's first production) the
+reel-to-reel recorder was still somewhat of a novelty item, but already
+beginning to make its way into American and European living rooms. These
+devices were expensive, costing the equivalent of thousands of dollars (when
+adjusted for inflation).[^ln4-down] Yet, similar personal tape recorders
+manufactured by companies like Sony, Ampex, and Phillips began appearing on the
+market in the late 40s and were universally marketed as "recorders" and not
+merely "playback devices" or "players." They often aimed to engage a family's
+instinct for archival preservation, with slogans like: "Remember their laughter
+forever, record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for
+Soundmirror recorder by Brush) and "Make your cherished moments will last the
+years" (from a 1959 Dupont advertisement for Mylar tape). Where the earlier
+materials targeted radio broadcasting and office use, by 1950s the settings
+depicted on personal tape recorder advertisements shift locations to spaces in
+the domestic, familial, and private spheres. The tape recorder at the time was
 offered as a device to record childhood birthdays, graduations, holidays, and
 school performances. "Fun times last a lifetime," declares another
-advertisement from Dupont. "Record this Christmas forever!" and "When there's
-no second chance, record with Acetate base tape!" The composite photographs
-often showed a device in use with a fairly large microphone, which upstages the
-recorder as the locus of family attention.  Finally, the adverts suggest not
-just a means of preservation, but a mode of personal archiving practice. An
-advertisement for Apex circa 1963 shows a row of neatly arranged and labelled
-reels on a shelf, bragging "Who came up with the best way to label your tapes?"
-Another ad for Bell's Tape Transporter, circa 1959, depicts a couple in their
-living room, relaxing around a tape recorder and near a shelf-like piece of
-furniture holding reels and equipment in neat wooden compartments.  "Build your
-own library of stereo tapes," reads the slogan.[^ln4-dupont]
+advertisement from Dupont.  "Record this Christmas forever!" and "When there's
+no second chance, record with Acetate base tape!" The composite photographs in
+these advertisements often showed a device in use with a fairly large
+microphone, which upstages the recorder as the locus of family attention.
+Finally, the adverts suggest not just a means of preservation, but a mode of
+personal archiving practice. An advertisement for Apex circa 1963 shows a row
+of neatly arranged and labelled reels on a shelf, bragging "Who came up with
+the best way to label your tapes?" Another ad for Bell's Tape Transporter,
+circa 1959, depicts a couple in their living room, relaxing around a tape
+recorder and near a shelf-like piece of furniture holding reels and equipment
+in neat wooden compartments. "Build your own library of stereo tapes," reads
+the slogan.[^ln4-dupont]
 
-In *Krapp's Last Tape*, Beckett captures the movement between institutional and
-personal archiving practices. Of course, the domestic space has always been, in
-some sense, an archival domain. The book shelf, the pantry, the wall, and the
-mantle: these are the locations where the family imposes private order,
-organizes its material life, and into which it secretes its memories,
-preserving and curating artifacts from its own pest. In her study of immigrant
-domestic interior, Svetlana Boym writes about these typically Soviet "curio
-cabinets, that present "at once a fragmentary biography of the inhabitant and a
-display of collective memory" [@boym_future_2002, 334].
+Is it still a monologue when one talks to his own images from the past? Krapp
+has changed. He is no longer fully congruent with his former self, "that stupid
+bastard" [@beckett_complete_2006, 221]. He sometimes has to consult a
+dictionary to understand what the voice on the tape says. Sometimes, he
+cannot read his own handwriting and often he simply does not like him, that man
+from the past:
 
-The multiplicity of Krapp's fictional selves is
-made logically possible by the literary and the technological device alike. The
-seeming unity of Krapp's consciousness and, indeed, the stage appearance of
-consciousness itself, are aided by the use of a tape-recorder. The device on
-the stage creates the illusion of Krapp's inner life; it allows the author to
-shift the narrative in time; it multiplies and refracts the images of the main
-character of the play. The reel-to-reel player functions both as audience and
-actor: listening and speaking, recording and transmitting.  Ultimately, Krapp's
-fate is not only indexcically linked to the tape-recorder, it is created by and
-for this technological medium.
+> Hard to believe I was ever that young whelp. The voice! Jesus! And the
+> aspirations! [*Brief laugh in which KRAPP joins*] To drink less, in
+> particular. [*Brief laugh of Krapp alone*.] ...hard to believe I was ever as
+> bad as that. Thank God that's all done with anyway [@beckett_complete_2006,
+> 221].
 
-Svetlana Boym in immigrant domestic interior.
-"Each apartment collection Is it still a monologue when one talks to his own images from the past? Krapp
-has changed. He no longer fully identifies
+We do not, as a matter of everyday life, perceive our conciousness to be
+divided in such a way. Whatever is meant by the "unity of conciousness," it is
+here created through literary conceit, and on the stage with an aid of a tape
+recorder. Beckett reminds us of the fragility of that illusion. The work
+(*Krapp's Last Tape*) gives unity to the multiplicity of individual character
+representations. Within the fictional world, that role is played by magnetic
+storage media, which physically connects Krapp in time with his past and future
+selves. The seeming unity of Krapp's consciousness and, indeed, the stage
+appearance of consciousness itself, are aided by the use of paper and tape.
+The device on the stage creates the illusion of Krapp's inner life; it allows
+the author to shift the narrative in time; it multiplies and refracts the
+images of the main character of the play. The reel-to-reel player functions
+both as audience and actor: alternatively listening and speaking, recording and
+transmitting. Ultimately, Krapp's fate is not only indexically linked to the
+tape-recorder, it is created by and for this technological medium. The reader
+knows Krapp is Krapp because all of them appear under the same eponymous
+literary umbrella.
 
-[^ln4-dupont]: All materials in this section come from an online archive of
-sound recording advertisements curated by the Museum of Magnetic Sound
-Recording [@museum_of_magnetic_sound_recording_time_2013].
+But just as storage media creates Krapp, Beckett shows Krapp in the process of
+creating and curating media representation. Krapp is a librarian and an
+archivist of sorts. The tape-recorder does not occupy center stage---it recedes
+into the background of the play. The player exists to reflect Krapp's image
+back to Krapp and in the process, to record the encounter for later
+reevaluation and re-recording.[^ln4-recursive]  In this light, the specificity
+of the tape as a medium is not terribly important. The story would be similarly
+plausible were it set a century prior, using a conventional diary as its
+medium, or written some decades later under the title of Krapp's Latest Social
+Media Platform.[^ln4-boring] The play exposes the role all storage media are
+inextricably enmeshed in the narcissistic activity of human culture making. If
+Krapp is a librarian, he is a librarian of a particilar kind, a librarian of
+the self.
+
+Krapp's elaborate filing system, by which he stores and organizes his
+recordings, confirms his archival role. He goes through several of his filing
+cabinets, "peering and poking at the boxes" [@beckett_complete_2006, 216] as if
+to check the integrity of his collection, before settling on the tape from his
+thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) The
+cardboard storage boxes, the drawers, the ledger, and the very word
+itself---"spool," "spooool"---make him exceedingly happy. Beckett presents
+Krapp's archival activity as a kind of a Chaplinesque comedy routine, with
+erotic overtones: Krapp remains a moment motionless, heaves a great sigh, looks
+at his watch, fumbles in his pockets, takes out an envelope, puts it back,
+fumbles, takes out a small bunch of keys, raises it to his eyes, chooses a key,
+gets up and moves to front of table. He stoops, unlocks first drawer, peers
+into it, feels about inside it, takes out a reel of tape, peers at it, puts it
+back, locks drawer, unlocks second drawer peers into it, feels about inside it,
+takes out a large banana, peers at it, locks drawer, puts keys back in his
+pocket. He turns, advances to edge of stage, halts, strokes banana, peels it,
+drops skin at his feet, puts end of banana in his mouth and remains motionless,
+staring vacuously before him [...] He treads on skin, slips, nearly falls,
+recovers himself, stoops and peers at skin and finally pushes it, still
+stooping, with his foot over the edge of the stage into pit. He resumes his
+pacing, finishes banana, returns to table, sits down, remains a moment
+motionless, heaves a great sigh, takes keys from his pockets, raises them to
+his eyes, chooses key, gets up and moves to front of table, unlocks second
+drawer, takes out a second large banana, peers at it, locks drawer, puts back
+his keys in his pocket, turns, advances to the edge of stage, halts, strokes
+banana, peels it, tosses skin into pit, puts an end of banana in his mouth and
+remains motionless, staring vacuously before him7
 
 
-But just as Krapp is created by the tape, the tape is Krapp's
-creation---technology itself being inextricably enmeshed in the narcissistic
-activity of human culture. The tape-recorder cannot occupy the center stage—it
-must recede into the background to become invisible. The player exists to
-reflect Krapp's image back to Krapp and in the process, to record the encounter
-for later reevaluation and re-recording.[^ln4-recursive] This almost mythical
-recursion promotes Krapp's character to the archetypal role of the librarian,
-whose task is to collect, to preserve, and to curate his own personal
-experience—a librarian of the self. In this light, the specificity of the tape
-as a medium is not terribly important. The story would be similarly plausible
-were it set a century prior, using a conventional diary as its medium, or
-written some decades later under the title of Krapp's Last Facebook
-Page.[^ln4-boring]
+Who is Krapp laughing with? There are at least three of him present on stage:
+the voice on the tape, the one who speaks and records now, and the implied one,
+to whom the recording is addressed. The conundrum recalls Sartre's appointment
+with oneself
 
-[ln4-recursive]: See also @breuer_paradox_1993, 559-580.
+*Krapp's Last Tape* captures the mid-century movement between institutional and
+personal archiving practices. Where the institution provides a site for
+collective memory, the private archive gives space for the preservation of
+self. We take notes, keep diaries, write to-do lists, and take photographs of
+ourselves to remember the way we were and to provide a sense of continuity. It
+is here, in the personal archive, one encounters the fragility of one's own
+cognitive abilities. Sounds, images, smells, and memories fade where the
+artifact endures. The archive is therefore a temporary bulwark against death
+and decay.  The synchronic self exists on a thin edge of a wave's crest. Even
+upon a momentary reflection, the self that was recedes into the distance and
+dissolves within the ocean of non-being. The future self then shimmers as a
+mirage towards which we move in the making of to-do lists, new year
+resolutions, and five year plans. Media being.
 
-[ln4-boring]: I suspect both would make for far more boring plays than the
-original.
+Armed with these insights, we can now return to the perhaps obvious idea that
+Krapp's collection could not exist without the particular technology of the
+tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
+portability, power source, size, search capacity, price, and yes, even the
+shape of the reel and the tape recorder. It is at this point, that I am able to
+restate the broadly historical thesis of this section: that these very same
+attributes have enabled a shift in the collecting practices of the western
+world—transposing the locus of our archival practice from the institutional to
+the private sphere.
 
-Krapp's status as a librarian is confirmed in his elaborate filing system, by
-which he stores and organizes his recordings. He goes through several of his
-filing cabinets, "peering and poking at the boxes" as if to check the integrity
-of his collection, before settling on the tape from his thirty-ninth birthday
-("Box Three, Spool Five" he says with relish.) The cardboard storage boxes, the
-drawers, the ledger, and the very word itself---"spool," "spooool"---make him
-increasingly happy. Beckett presents Krapp's archival activity as a kind of a
-Chaplinesque comedy routine, with erotic overtones: Krapp remains a moment
-motionless, heaves a great sigh, looks at his watch, fumbles in his pockets,
-takes out an envelope, puts it back, fumbles, takes out a small bunch of keys,
-raises it to his eyes, chooses a key, gets up and moves to front of table. He
-stoops, unlocks first drawer, peers into it, feels about inside it, takes out a
-reel of tape, peers at it, puts it back, locks drawer, unlocks second drawer
-peers into it, feels about inside it, takes out a large banana, peers at it,
-locks drawer, puts keys back in his pocket. He turns, advances to edge of
-stage, halts, strokes banana, peels it, drops skin at his feet, puts end of
-banana in his mouth and remains motionless, staring vacuously before him [...]
-He treads on skin, slips, nearly falls, recovers himself, stoops and peers at
-skin and finally pushes it, still stooping, with his foot over the edge of the
-stage into pit. He resumes his pacing, finishes banana, returns to table, sits
-down, remains a moment motionless, heaves a great sigh, takes keys from his
-pockets, raises them to his eyes, chooses key, gets up and moves to front of
-table, unlocks second drawer, takes out a second large banana, peers at it,
-locks drawer, puts back his keys in his pocket, turns, advances to the edge of
-stage, halts, strokes banana, peels it, tosses skin into pit, puts an end of
-banana in his mouth and remains motionless, staring vacuously before him7
 
 These stage directions exude a nervous energy one would expect before an erotic
 encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
 contain an account of a past romance, but the encounter Krapp is excited about
-is with the archive--that is with himself. The suggestive stroking of the banana
-punctuates the onanistic nature of Krapp's archival activity.
+is with the archive--that is with himself. The suggestive stroking of the
+banana punctuates the onanistic nature of Krapp's archival activity.
 
 Let us envision Krapp's archiving habits for a moment. The stage directions
 specify a den and a small table containing two drawers that open towards the
@@ -398,18 +429,7 @@ cardboard boxes containing reels of recorded tapes."8 How many reels are there?
 Krapp is sixty-nine, and after more than forty years of recording he must have
 accumulated somewhere around forty reels (assuming that his recording sessions
 lasted around a reel each). Reading from the ledger, Krapp counts nine boxes.
-The reel from his thirty-ninth birthday is in box three, spool five. What of
-his tape-recorder? In 1958, when Beckett began writing his play (he continued
-to rework it well into the 1970s) there were at least several dozen
-tape-recorders on the market, with the most popular brands being Ampex, Crown,
-Magnetophon, Magnecorder, Sony, Webcor, and Wollensak (see Appendix, Table 1).
-The smaller portable, battery-operated versions of these recorders ranged in
-price from two to three hundred dollars, which adjusted for inflation would
-give us a range between 1,500 and 2,200 in 2009 dollars. The expense of the
-device contributes to the image of Krapp as a man of independent means, who has
-perhaps fallen on some hard times: he is wearing ill-fitting trousers, a black
-sleeveless coat, and a "surprising pair of dirty white boots, size ten at
-least, very narrow and pointed."9
+The reel from his thirty-ninth birthday is in box three, spool five. 
 
 Krapp's collection too has seen better times, for even the archetypal librarian
 of the self must face the problems faced by any librarian. The theoretically
@@ -454,7 +474,7 @@ Derrida here, we could say that his collection is a recollection—it is not a
 house, but a yearning for a house (nostalgia, from the Greek nostos, a
 homecoming14).
 
-Of course, Krapp is only an archetype, the harbinger, and a symbol of a new
+Krapp is only an archetype, the harbinger, and a symbol of a new
 type of an archivist. But even symbolically, his collection could not exist
 without the particular technology of the tape-recorder. That is to say that the
 semiotics of the private archive are enabled by the applied particularities
@@ -467,98 +487,34 @@ small large small irrelevant Shape square round long fuzzy Price cheap
 expensive affordable cheap Power source none mechanical, electrical batteries,
 electrical batteries, electrical
 
-Table 2: Media comparison, 20th Century This chart is by no means complete. We
-have not accounted for the distinctions between digital storage devices, laser
-disks, film, or stone tablets for that matter. What matters is that the medium
-is largely independent from the type of information stored on it, and this
-contrary to Marshall McLuhan infamous "the medium is the message" dictum.15 The
-world itself "medium" is misleading in this context. We could for example say
-that paint is the medium of painting. But what about the photograph of a
-painting? Or its digital reproduction? The situation is even more confusing
-when we begin thinking about music, for example. What is the medium for J.S.
-Bach's Double Violin Concerto: the violin or the music sheet which contains the
-score? We are on yet more precarious terrain when considering hybrid "media,"
-like film or television that comprise multiple sources and that use multiple
-modes of transmission.  The confusion enters the conversation when we conflate
-the modality of the information (e.g. music, image, text) with the physical
-channel of its transmission (the medium proper). Modality may very well be the
-message. Thus, it may be true that when one plays the violin, the music can be
-said to express itself in musical terms. But not the violin! I could use a
-violin to transmit a picture of an orchestra over a dial-up modem, for example.
-This would only involve the question of how to encode the visual information
-into a state transmittable by the violin (a primarily auditory instrument).
-The channel of communication—the medium proper—is in fact,
-information-agnostic. That is to say that it has no preference about the
-message being transmitted (nor can it have a preference for anything at all,
-formally speaking—preference being a property we ascribe to objects that are at
-least animate). We could therefore transmit a sonata by playing a violin, as
-sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
-peer-to-peer network. In each case, the information transmitted remains more or
-less the same, depending on the quality of your violin playing, the fidelity of
-your speakers, or the compression ratio of your digital encoding. It would be
-wrong too to consider any of these sources as somehow primal, with others being
-something like "mere copies" of the original. We could for example, start by
-composing music on paper. Alternatively, we could first play a piece of music
-and then transcribe it into musical notation. In an extreme but perfectly
-plausible case, we could compose by magnetizing a length of ferrous tape first,
-and only then play the violin to reproduce what we have "written." The medium
-does not know anything about the message. The way in which we store, access,
-and retrieve the encoded information is determined by the medium, however. We
-are the ones being shaped by the media. I do mean this rather literally: the
-stage directions for Krapp's Last Tape would be very different were Krapp
-writing a diary, or browsing his online social networking profile, or if he
-were to embed a memory chip in his brain that was able to store and retrieve
-the same messages from his thirty-nine year-old self as the tape-recorder. The
-actor's body would move differently in each of these cases—his senses and his
-thought would be altered in many subtle ways, depending on the channel of
-communication.
+Of course, the domestic space has always been, in some sense, an archival
+domain. The book shelf, the pantry, the wall, and the mantle: these are the
+locations where the family imposes private order, organizes its material life,
+and into which it secretes its memories, preserving and curating artifacts from
+its own pest. In a chapter on immigrant domestic interiors, for example,
+Svetlana Boym writes about these typically Soviet curio cabinets, which present
+"once a fragmentary biography of the inhabitant and a display of collective
+memory" [@boym_future_2002, 334]. "If there had been such a thing as Soviet
+cultural unconscious," she writes in *Common Spaces*, it would have been
+structured like a communal apartment" [@boym_common_1995, 1610]. Similarly, in
+"Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
+of contemporary American domestic space, a team of anthropologists (and a
+photographer) document, describe, and interpret the "domestic material worlds"
+of 32 Los Angeles families
 
-The separation between mode and medium allows us to retain a certain clarity of
-vision in a rather muddled conversation about "media history." Modalities such
-as visual arts, music or literature do not necessarily evolve, in the normative
-sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
-optical linear perspective in 1425. But the normative evolution of art could
-only make sense only against some concrete pragmatic goals, which the aesthetic
-realm lacks by definition. Nothing is gained or lost when the fashion changes
-from square-toed to pointy-toed shoes, and then back again—to use an example
-that would surely please Mr. Krapp. Neither is "better" or "worse" for the
-participants in that sphere of cultural activity. By contrast, the concept of
-the medium does contain some sense of normative valuation, also by definition.
-That is to say that the medium has a job, which is to facilitate the storage,
-the transmission, and the retrieval of information. And there is such a thing
-as doing this job better or more efficiently. More is always better in this
-case: more storage, faster access, more reliable transmission. When the quality
-of the information is not sacrificed, there are no instances were less would be
-preferable by anyone with limited time and resources. For example, I would like
-to be able to read or write faster. I value both of these activities, but my
-time to perform them is limited by my lifespan. Assuming I could gain speed
-without any degradation in clarity or comprehension, and barring any
-psychological ill effects, the idea of more in this case must be a good onto
-itself.
 
-Armed with these insights, we can now return to the perhaps obvious idea that
-Krapp's collection could not exist without the particular technology of the
-tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
-portability, power source, size, search capacity, price, and yes, even the
-shape of the reel and the tape recorder. It is at this point, that I am able to
-restate the broadly historical thesis of this section: that these very same
-attributes have enabled a shift in the collecting practices of the western
-world—transposing the locus of our archival practice from the institutional to
-the private sphere.
+41 year old father.
 
-Who are you communicating with? Pushing yourself through the pipe. The
-appointment with myself. The sum-total of material substratum. Building a wider
-platform. Todo, email, diary, music collection. Burning building-we grab our
-memories, and hoarding the disjunction of that personal sediment. You are the
-sum-total of your modalities. Commitments to self. Atonement of self. The
-message is you. Preserving ourself from entropy. 
+> Here is our life on the refrigerator and all the collection of photos and
+> magnets. And you know what? we go up to these pictures and the time and sort
+> of remark about who people are wand where we were and what we were doing and
+> how old people were [@arnold_life_2012, 51].
 
-Books are not media they are platforms. Platform is all of the above. Plus the
-economic / cultural contexts. Amazon Kindle is a platform. Who are you
-communicating with? Yourself. What is the message. Ultimately, it is a message of
-self-identity.
+"Assemblages of objects that families purposefully accumulate and arrange in
+them preserve and legitimize personal histories" [@arnold_life_2012, 161].
 
-Sartre's appointment with oneself
+
+Home, and home.
 
 "Perhaps the current rush to 'archive' has less to do with place/thing/practice
 and more with trying to save and preserve a sense of self as we face the
@@ -568,7 +524,21 @@ process that we fear threatens to outpace us" @taylor_save_2012.
 "It is that the word or sign man uses is the man himself" Pierce as quoted
 @weel_changing_2012
 
-We secrete and archive 
+[ln4-recursive]: See also @breuer_paradox_1993, 559-580.
+
+[ln4-boring]: I suspect both would make for far more boring plays than the
+original.
+
+[^ln4-dupont]: All materials in this section come from an online archive of
+sound recording advertisements curated by the Museum of Magnetic Sound
+Recording [@museum_of_magnetic_sound_recording_time_2013].
+
+[^ln4-down]: The expense of the device contributes to the image of Krapp as a
+man of independent means, who has perhaps fallen on some hard times: he is
+wearing ill-fitting trousers, a black sleeveless coat, and a "surprising pair
+of dirty white boots, size ten at least, very narrow and pointed"
+[@beckett_complete_2006, 215].
+
 
 ### 4.2 Knowledge at Hand (Extended cognition)
 
