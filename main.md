@@ -315,9 +315,9 @@ the slogan.[^ln4-dupont]
 Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He is no longer fully congruent with his former self, "that stupid
 bastard" [@beckett_complete_2006, 221]. He sometimes has to consult a
-dictionary to understand what the voice on the tape says. Sometimes, he
-cannot read his own handwriting and often he simply does not like him, that man
-from the past:
+dictionary to understand what the voice on the tape says. Sometimes, he cannot
+read his own handwriting and often he simply does not like him, that man from
+the past:
 
 > Hard to believe I was ever that young whelp. The voice! Jesus! And the
 > aspirations! [*Brief laugh in which KRAPP joins*] To drink less, in
@@ -365,7 +365,9 @@ thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) The
 cardboard storage boxes, the drawers, the ledger, and the very word
 itself---"spool," "spooool"---make him exceedingly happy. Beckett presents
 Krapp's archival activity as a kind of a Chaplinesque comedy routine, with
-erotic overtones: Krapp remains a moment motionless, heaves a great sigh, looks
+erotic overtones: 
+
+> Krapp remains a moment motionless, heaves a great sigh, looks
 at his watch, fumbles in his pockets, takes out an envelope, puts it back,
 fumbles, takes out a small bunch of keys, raises it to his eyes, chooses a key,
 gets up and moves to front of table. He stoops, unlocks first drawer, peers
@@ -383,8 +385,7 @@ his eyes, chooses key, gets up and moves to front of table, unlocks second
 drawer, takes out a second large banana, peers at it, locks drawer, puts back
 his keys in his pocket, turns, advances to the edge of stage, halts, strokes
 banana, peels it, tosses skin into pit, puts an end of banana in his mouth and
-remains motionless, staring vacuously before him7
-
+remains motionless, staring vacuously before him [@beckett_complete_2006, 216].
 
 Who is Krapp laughing with? There are at least three of him present on stage:
 the voice on the tape, the one who speaks and records now, and the implied one,
