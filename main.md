@@ -280,44 +280,48 @@ Tape*, records and listens to himself speak from the past. The play begins on
 one such occasion. Krapp, who is just turning sixty-nine, reaches for box
 three, spool five. The recording contains a monologue of his thirty-nine year
 old self, responding to yet another, decade old reel---which means the action
-of the play technically spans at least forty years.
+of the play reasonably spans at least forty years.
 
 For theater audiences in 1958 (the date of the play's first production) the
 reel-to-reel recorder was still somewhat of a novelty item, but already
 beginning to make its way into American and European living rooms. These
 devices were expensive, costing the equivalent of thousands of dollars (when
-adjusted for inflation).[^ln4-down] Yet, similar personal tape recorders
-manufactured by companies like Sony, Ampex, and Phillips began appearing on the
-market in the late 40s and were universally marketed as "recorders" and not
-merely "playback devices" or "players." They often aimed to engage a family's
-instinct for archival preservation, with slogans like: "Remember their laughter
-forever, record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for
-Soundmirror recorder by Brush) and "Make your cherished moments will last the
-years" (from a 1959 Dupont advertisement for Mylar tape). Where the earlier
-materials targeted radio broadcasting and office use, by 1950s the settings
-depicted on personal tape recorder advertisements shift locations to spaces in
-the domestic, familial, and private spheres. The tape recorder at the time was
-offered as a device to record childhood birthdays, graduations, holidays, and
-school performances. "Fun times last a lifetime," declares another
-advertisement from Dupont.  "Record this Christmas forever!" and "When there's
-no second chance, record with Acetate base tape!" The composite photographs in
-these advertisements often showed a device in use with a fairly large
-microphone, which upstages the recorder as the locus of family attention.
-Finally, the adverts suggest not just a means of preservation, but a mode of
-personal archiving practice. An advertisement for Apex circa 1963 shows a row
-of neatly arranged and labelled reels on a shelf, bragging "Who came up with
-the best way to label your tapes?" Another ad for Bell's Tape Transporter,
-circa 1959, depicts a couple in their living room, relaxing around a tape
-recorder and near a shelf-like piece of furniture holding reels and equipment
-in neat wooden compartments. "Build your own library of stereo tapes," reads
-the slogan.[^ln4-dupont]
+adjusted for inflation). The expense of the device contributes to the image of
+Krapp as a man of independent means, who has perhaps fallen on some hard times:
+he is wearing ill-fitting trousers, a black sleeveless coat, and a "surprising
+pair of dirty white boots, size ten at least, very narrow and pointed"
+[@beckett_complete_2006, 215]. Personal tape recorders manufactured by
+companies like Sony, Ampex, and Phillips began appearing on the market in the
+late 1940s and were universally marketed as "recorders" and not merely
+"playback devices" or "players." They often aimed to engage a family's instinct
+for archival preservation, with slogans like: "Remember their laughter forever,
+record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for Soundmirror
+recorder by Brush) and "Make your cherished moments will last the years" (from
+a 1959 Dupont advertisement for Mylar tape). Where the earlier materials
+targeted radio broadcasting and office use, by 1950s the settings depicted on
+personal tape recorder advertisements shift location to spaces in the domestic,
+familial, and private spheres. The tape recorder at the time was offered as a
+device to record childhood birthdays, graduations, holidays, and school
+performances. "Fun times last a lifetime," declares another advertisement from
+Dupont. "Record this Christmas forever!" and "When there's no second chance,
+record with Acetate base tape!" The composite photographs in these
+advertisements often showed a device in use with a fairly large microphone,
+which upstages the recorder as the locus of family attention. Finally, the
+adverts suggest not just a means of preservation, but a mode of personal
+archiving practice. An advertisement for Apex circa 1963 shows a row of neatly
+arranged and labelled reels on a shelf, bragging "Who came up with the best way
+to label your tapes?" Another ad for Bell's Tape Transporter, circa 1959,
+depicts a couple in their living room, relaxing around a tape recorder and near
+a shelf-like piece of furniture holding reels and equipment in neat wooden
+compartments. "Build your own library of stereo tapes," reads the
+slogan.[^ln4-dupont]
 
 Is it still a monologue when one talks to his own images from the past? Krapp
-has changed. He is no longer fully congruent with his former self, "that stupid
-bastard" [@beckett_complete_2006, 221]. He sometimes has to consult a
-dictionary to understand what the voice on the tape says. Sometimes, he cannot
-read his own handwriting and often he simply does not like him, that man from
-the past:
+has changed. He no longer feels fully congruent with his former self, "that
+stupid bastard" [@beckett_complete_2006, 221]. He sometimes has to consult a
+dictionary to understand what the voice on the tape says. At other times he
+cannot read his own handwriting. And often he simply loathes the voice from the
+past:
 
 > Hard to believe I was ever that young whelp. The voice! Jesus! And the
 > aspirations! [*Brief laugh in which KRAPP joins*] To drink less, in
@@ -325,36 +329,38 @@ the past:
 > bad as that. Thank God that's all done with anyway [@beckett_complete_2006,
 > 221].
 
-We do not, as a matter of everyday life, perceive our conciousness to be
-divided in such a way. Whatever is meant by the "unity of conciousness," it is
-here created through literary conceit, and on the stage with an aid of a tape
-recorder. Beckett reminds us of the fragility of that illusion. The work
-(*Krapp's Last Tape*) gives unity to the multiplicity of individual character
-representations. Within the fictional world, that role is played by magnetic
-storage media, which physically connects Krapp in time with his past and future
-selves. The seeming unity of Krapp's consciousness and, indeed, the stage
-appearance of consciousness itself, are aided by the use of paper and tape.
-The device on the stage creates the illusion of Krapp's inner life; it allows
-the author to shift the narrative in time; it multiplies and refracts the
-images of the main character of the play. The reel-to-reel player functions
-both as audience and actor: alternatively listening and speaking, recording and
-transmitting. Ultimately, Krapp's fate is not only indexically linked to the
-tape-recorder, it is created by and for this technological medium. The reader
-knows Krapp is Krapp because all of them appear under the same eponymous
-literary umbrella.
+Who is Krapp laughing with? There are at least three of him present on stage:
+the voice on the tape, the one who speaks and records now, and the implied one,
+to whom the recording is addressed. We do not, as a matter of everyday life,
+perceive our conciousness to be divided in such a way. Whatever is meant by the
+"unity of conciousness," it is here created through literary conceit, and on
+the stage, with an aid of a tape recorder. Beckett reminds us of the fragility
+of that illusion. The work (*Krapp's Last Tape*) gives unity to the
+multiplicity of individual character representations. Within the play's fictional
+world, that role is played by magnetic storage media that physically connects
+Krapp in time with his past and future selves. The seeming unity of Krapp's
+consciousness and, indeed, the stage appearance of consciousness itself, are
+aided by the use of paper and tape.  The device on the stage creates the
+illusion of Krapp's inner life; it allows the author to shift the narrative in
+time; it multiplies and refracts the images of the main character of the play.
+The reel-to-reel player functions both as audience and actor: alternatively
+listening and speaking, recording and transmitting. Ultimately, Krapp's fate is
+not only indexically linked to the tape-recorder, it is created by and for this
+technological medium. The reader knows Krapp is Krapp because all of them
+appear under the same eponymous literary umbrella.
 
 But just as storage media creates Krapp, Beckett shows Krapp in the process of
 creating and curating media representation. Krapp is a librarian and an
 archivist of sorts. The tape-recorder does not occupy center stage---it recedes
 into the background of the play. The player exists to reflect Krapp's image
 back to Krapp and in the process, to record the encounter for later
-reevaluation and re-recording.[^ln4-recursive]  In this light, the specificity
+reevaluation and re-recording.[^ln4-recursive] In this light, the specificity
 of the tape as a medium is not terribly important. The story would be similarly
-plausible were it set a century prior, using a conventional diary as its
-medium, or written some decades later under the title of Krapp's Latest Social
-Media Platform.[^ln4-boring] The play exposes the role all storage media are
-inextricably enmeshed in the narcissistic activity of human culture making. If
-Krapp is a librarian, he is a librarian of a particilar kind, a librarian of
+plausible were it set a century prior, using a conventional pen-and-ink diary
+as its medium, or written some decades later under the title of *Krapp's Latest
+Social Media Platform*.[^ln4-boring] The play exposes storage media as being
+inextricably enmeshed in the narcissistic activity of human culture making.  If
+Krapp is a librarian, he is a librarian of a particular kind: a librarian of
 the self.
 
 Krapp's elaborate filing system, by which he stores and organizes his
@@ -365,7 +371,7 @@ thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) The
 cardboard storage boxes, the drawers, the ledger, and the very word
 itself---"spool," "spooool"---make him exceedingly happy. Beckett presents
 Krapp's archival activity as a kind of a Chaplinesque comedy routine, with
-erotic overtones: 
+erotic overtones:
 
 > Krapp remains a moment motionless, heaves a great sigh, looks
 at his watch, fumbles in his pockets, takes out an envelope, puts it back,
@@ -387,24 +393,65 @@ his keys in his pocket, turns, advances to the edge of stage, halts, strokes
 banana, peels it, tosses skin into pit, puts an end of banana in his mouth and
 remains motionless, staring vacuously before him [@beckett_complete_2006, 216].
 
-Who is Krapp laughing with? There are at least three of him present on stage:
-the voice on the tape, the one who speaks and records now, and the implied one,
-to whom the recording is addressed. The conundrum recalls Sartre's appointment
-with oneself
+These stage directions exude a nervous energy one would expect before an erotic
+encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
+contain an account of a past romance, but the encounter Krapp is excited about
+is with the archive---that is with externalized representations of his own
+self. The suggestive stroking of the banana punctuates the onanistic nature of
+Krapp's archival activity.
 
-*Krapp's Last Tape* captures the mid-century movement between institutional and
-personal archiving practices. Where the institution provides a site for
+Let us envision Krapp's archiving habits for a moment. The stage directions
+specify a den and a small table containing two drawers that open towards the
+audience. The table holds a tape-recorder, a microphone, and "a number of
+cardboard boxes containing reels of recorded tapes" [@beckett_complete_2006,
+215]. How many reels are there? At the time of the play's action, Krapp is
+sixty-nine years old. Tape reels of the time held somewhere between twenty and
+sixty of audio recording per side, depending on the length and thickness of
+tape, and on the speed (inches per second) of the recording device
+[@utz_introduction_2003, 123-4]. Reels came in sizes ranging from three to
+seven inches in diameter and were often sold in flat rectangular storage
+sleeves, somewhere between 1/4 and 2 inches thick, depending on the tape
+format. Reading from the ledger, Krapp counts nine boxes. Spool five, recorded
+on his thirty-ninth birthday, is found in box three. Given modest storage box
+capacity, we would expect at least fifteen to twenty spools per box. Which
+means that after more than forty years of recording, Krapp would have
+accumulated at several hundred reels, and as many hours of recording (assuming,
+conservatively, that his recording sessions lasted around a reel each).
+
+Reading the play through the lens of material conditions of media production
+gives us more than just notes on stage design. *Krapp's Last Tape* captures the
+mid-century movement between institutional and personal archiving practices.
+It reveals the play as a commentary on a particular mode of being and a sense
+of self that spans externalized representations of archived consciousness:
+ledgers, spools, and boxes. Where the institution constitutes a site for
 collective memory, the private archive gives space for the preservation of
 self. We take notes, keep diaries, write to-do lists, and take photographs of
 ourselves to remember the way we were and to provide a sense of continuity. It
 is here, in the personal archive, one encounters the fragility of one's own
 cognitive abilities. Sounds, images, smells, and memories fade where the
-artifact endures. The archive is therefore a temporary bulwark against death
-and decay.  The synchronic self exists on a thin edge of a wave's crest. Even
-upon a momentary reflection, the self that was recedes into the distance and
-dissolves within the ocean of non-being. The future self then shimmers as a
-mirage towards which we move in the making of to-do lists, new year
-resolutions, and five year plans. Media being.
+artifact endures. The personal archive can be seen as an attempt to shore up
+natural human defences against the forces of time, decay, and death.
+
+The synchronic self occupies the present moment on a thin crest of biological
+time. The biological, corporeal self continually recedes into the distance,
+threatening to dissolve within the ocean of non-being. The making of lists, new
+years resolutions, the writing of diaries, self portraiture, and audio
+dictation---all these activities are oriented towards the mirage of one's own
+potential future conciousness. We are here confronted with a curious literature
+which takes the past self as its subject, the future self as its object, and
+the present self only as its temporary guardian. Through Beckett we perceive
+what Sartre called an appointment with one's own sadness. "What will remain of
+my [interrupted] sadness," he writes, "except that I obligingly promise it an
+appointment for later after the departure of the visitor" [@sartre_being_1993,
+104]? *Krapp's Last Tape* reminds us that the appointment cannot be limited to
+a mental construct. Conciousness is secreted into storage media, stored,
+organized, and accessed at a later date. The archive hardens being against
+memory loss, against nothingness, as media being.
+
+These are perhaps heady thoughts, to be met with a measure of skepticism
+towards the limits of literary interpretation. After all, what can a play tell
+us about conciousness or memory. Yet, I am prepared to carry on this
+conversation on more empirical basis. 
 
 Armed with these insights, we can now return to the perhaps obvious idea that
 Krapp's collection could not exist without the particular technology of the
@@ -416,36 +463,20 @@ attributes have enabled a shift in the collecting practices of the western
 world—transposing the locus of our archival practice from the institutional to
 the private sphere.
 
-
-These stage directions exude a nervous energy one would expect before an erotic
-encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
-contain an account of a past romance, but the encounter Krapp is excited about
-is with the archive--that is with himself. The suggestive stroking of the
-banana punctuates the onanistic nature of Krapp's archival activity.
-
-Let us envision Krapp's archiving habits for a moment. The stage directions
-specify a den and a small table containing two drawers that open towards the
-audience. The table holds a tape-recorder, a microphone, and "a number of
-cardboard boxes containing reels of recorded tapes."8 How many reels are there?
-Krapp is sixty-nine, and after more than forty years of recording he must have
-accumulated somewhere around forty reels (assuming that his recording sessions
-lasted around a reel each). Reading from the ledger, Krapp counts nine boxes.
-The reel from his thirty-ninth birthday is in box three, spool five. 
-
 Krapp's collection too has seen better times, for even the archetypal librarian
 of the self must face the problems faced by any librarian. The theoretically
 perfect recursion of the medium strains under practical scrutiny:
-classification systems deteriorate, descriptions lose their meaning,10 and even
+classification systems deteriorate, descriptions lose their meaning, and even
 Krapp's own auditory mirror image betrays him when Krapp is forced to look up
 the word "viduity" in the dictionary (a word that made sense to him thirty
 years ago). Krapp's Last Tape, as it is conventionally interpreted, is a
-cautionary tale about "the last"—time, memory, desire, and nostalgia.11 But it
+cautionary tale about "the last"---time, memory, desire, and nostalgia.11 But it
 is also a commentary about the "tape." Reel-to-reel recorders too will need
 further and progressively more expansive annotations for the play to continue
 to produce meaning. Thus, with the curtain drawn, we the audience, the readers,
 and the custodians of this work are almost immediately implicated in Krapp's
 narcissistic archival habits. Krapp's Last Tape is also a tape in our own
-collection—a tape that will continue to comfort and to unsettle us well into
+collection---a tape that will continue to comfort and to unsettle us well into
 our own dotage.
 
 In examining the encounter between Krapp, his tape-recorder, and his past self,
@@ -479,16 +510,11 @@ Krapp is only an archetype, the harbinger, and a symbol of a new
 type of an archivist. But even symbolically, his collection could not exist
 without the particular technology of the tape-recorder. That is to say that the
 semiotics of the private archive are enabled by the applied particularities
-(pragmatics) of the specific archiving practice (See Table 2).  Type: Paper
-Record / Cylinder Magnetic Tape Digital / Cloud Portability high low average
-device-independent Capacity low low average virtually unlimited Time shift
-quick, tactile, imprecise quick, tactile, imprecise slow, linear, imprecise
-near instant, precise Search indexed none, visual seek, mechanical indexed Size
-small large small irrelevant Shape square round long fuzzy Price cheap
-expensive affordable cheap Power source none mechanical, electrical batteries,
-electrical batteries, electrical
+(pragmatics) of the specific archiving practice 
 
-Of course, the domestic space has always been, in some sense, an archival
+### 4.2 Home
+
+Othe domestic space has always been, in some sense, an archival
 domain. The book shelf, the pantry, the wall, and the mantle: these are the
 locations where the family imposes private order, organizes its material life,
 and into which it secretes its memories, preserving and curating artifacts from
@@ -534,14 +560,7 @@ original.
 sound recording advertisements curated by the Museum of Magnetic Sound
 Recording [@museum_of_magnetic_sound_recording_time_2013].
 
-[^ln4-down]: The expense of the device contributes to the image of Krapp as a
-man of independent means, who has perhaps fallen on some hard times: he is
-wearing ill-fitting trousers, a black sleeveless coat, and a "surprising pair
-of dirty white boots, size ten at least, very narrow and pointed"
-[@beckett_complete_2006, 215].
-
-
-### 4.2 Knowledge at Hand (Extended cognition)
+### 4.3 Knowledge at Hand (Extended cognition)
 
 What does it mean "have read" a book? Surely, when someone says "I too have
 read this book" they mean something more than the mechanical action of turning
@@ -894,11 +913,11 @@ treat the tools of cognitive augmentation as seriously as we would our own
 mental development, in the traditional sense.
 
 
-### 4.3 Personal Computing (Case Study)
+### 4.4 Personal Shell (Case Study)
 
 Turn towards personal computing.
 
-### 4.4 Human Revealment (Heidegger + Conclusion)
+### 4.5 Human Revealment (Heidegger + Conclusion)
 
 It is tempting to think that alienation come from phase one. Human
 displacement from the hand. Some notion of analog as natural and digital as
