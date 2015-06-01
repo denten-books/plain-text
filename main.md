@@ -273,7 +273,7 @@ literary distribution.
 ## Chapter 4: Recursive Encounters with Oneself
 `document, vector, archive, media being`
 
-### 4.1 Media Being
+### 4.1 Librarians of Self
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -336,33 +336,29 @@ perceive our conciousness to be divided in such a way. Whatever is meant by the
 "unity of conciousness," it is here created through literary conceit, and on
 the stage, with an aid of a tape recorder. Beckett reminds us of the fragility
 of that illusion. The work (*Krapp's Last Tape*) gives unity to the
-multiplicity of individual character representations. Within the play's fictional
-world, that role is played by magnetic storage media that physically connects
-Krapp in time with his past and future selves. The seeming unity of Krapp's
-consciousness and, indeed, the stage appearance of consciousness itself, are
-aided by the use of paper and tape.  The device on the stage creates the
-illusion of Krapp's inner life; it allows the author to shift the narrative in
-time; it multiplies and refracts the images of the main character of the play.
-The reel-to-reel player functions both as audience and actor: alternatively
-listening and speaking, recording and transmitting. Ultimately, Krapp's fate is
-not only indexically linked to the tape-recorder, it is created by and for this
+multiplicity of individual character representations. Within the play's
+fictional world, that role is played by magnetic storage media that physically
+connects Krapp in time with his past and future selves. The tape recorder
+functions to reflect Krapp's image back to Krapp and in the process, to record
+the encounter for later reevaluation and re-recording.[^ln4-recursive] In this
+light, the specificity of the tape as a medium is not terribly important. The
+story would be similarly plausible were it set a century prior, using a
+conventional pen-and-ink diary as its medium, or written some decades later
+under the title of *Krapp's Latest Social Media Platform*.[^ln4-boring] The
+play exposes storage media as being inextricably enmeshed in the narcissistic
+activity of human culture making. The seeming unity of Krapp's consciousness
+and, indeed, the stage appearance of consciousness itself, are aided by the use
+of paper and tape. The device on the stage creates the illusion of Krapp's
+inner life; it allows the author to shift the narrative in time; it multiplies
+and refracts the images of the main character of the play. The reel-to-reel
+player functions both as audience and actor: alternatively listening and
+speaking, recording and transmitting. Ultimately, Krapp's fate is not only
+indexically linked to the tape-recorder, it is created by and for this
 technological medium. The reader knows Krapp is Krapp because all of them
 appear under the same eponymous literary umbrella.
 
 But just as storage media creates Krapp, Beckett shows Krapp in the process of
-creating and curating media representation. Krapp is a librarian and an
-archivist of sorts. The tape-recorder does not occupy center stage---it recedes
-into the background of the play. The player exists to reflect Krapp's image
-back to Krapp and in the process, to record the encounter for later
-reevaluation and re-recording.[^ln4-recursive] In this light, the specificity
-of the tape as a medium is not terribly important. The story would be similarly
-plausible were it set a century prior, using a conventional pen-and-ink diary
-as its medium, or written some decades later under the title of *Krapp's Latest
-Social Media Platform*.[^ln4-boring] The play exposes storage media as being
-inextricably enmeshed in the narcissistic activity of human culture making.  If
-Krapp is a librarian, he is a librarian of a particular kind: a librarian of
-the self.
-
+shaping his collection. Krapp is a librarian and an archivist of sorts.
 Krapp's elaborate filing system, by which he stores and organizes his
 recordings, confirms his archival role. He goes through several of his filing
 cabinets, "peering and poking at the boxes" [@beckett_complete_2006, 216] as if
@@ -398,7 +394,8 @@ encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
 contain an account of a past romance, but the encounter Krapp is excited about
 is with the archive---that is with externalized representations of his own
 self. The suggestive stroking of the banana punctuates the onanistic nature of
-Krapp's archival activity.
+Krapp's archival activity. If Krapp is a librarian, he is a librarian of a
+particular kind: a librarian of the self.
 
 Let us envision Krapp's archiving habits for a moment. The stage directions
 specify a den and a small table containing two drawers that open towards the
@@ -411,12 +408,78 @@ tape, and on the speed (inches per second) of the recording device
 [@utz_introduction_2003, 123-4]. Reels came in sizes ranging from three to
 seven inches in diameter and were often sold in flat rectangular storage
 sleeves, somewhere between 1/4 and 2 inches thick, depending on the tape
-format. Reading from the ledger, Krapp counts nine boxes. Spool five, recorded
-on his thirty-ninth birthday, is found in box three. Given modest storage box
-capacity, we would expect at least fifteen to twenty spools per box. Which
-means that after more than forty years of recording, Krapp would have
-accumulated at several hundred reels, and as many hours of recording (assuming,
-conservatively, that his recording sessions lasted around a reel each).
+format. Reading from the ledger, Krapp counts at least nine boxes. Spool five,
+recorded on his thirty-ninth birthday, is found in box three. Given modest
+storage-box capacity, we would expect at least fifteen to twenty spools per
+box. Which means that after more than forty years of recording, Krapp would
+have accumulated at least several hundred reels, and at least as many hours of
+recording (assuming, conservatively, that his recording sessions lasted around
+a reel each).
+
+Krapp's collection has seen better times, for even the archetypal librarian of
+the self must face the problems faced by any librarian. The theoretically
+perfect recursion of the medium strains under practical scrutiny:
+classification systems deteriorate, descriptions lose their meaning, and even
+Krapp's own auditory mirror image betrays him when Krapp is forced to look up
+the word "viduity" in the dictionary (a word that made sense to him thirty
+years ago). *Krapp's Last Tape*, as it is conventionally interpreted, is a
+cautionary tale about "the last"---time, memory, desire, and nostalgia
+[@doherty_krapps_1982, 191-204]. But we forget that it is also a commentary
+about the "tape." Reel-to-reel recorders too will need further and
+progressively more expansive annotations, as the technology fades from
+collective memory. Thus, with the curtain drawn, we the audience, the readers,
+and the custodians of this work are almost immediately implicated in Krapp's
+narcissistic archival habits. We reach for the volume, read, reread, annotate,
+and reshelve. *Krapp's Last Tape* is also a spool in our own collection---a spot
+on the bookshelf that will continue to comfort and to unsettle us well into our
+own dotage.
+
+Staged at the dawn of personal audio recording, Beckett's play shifts the focus
+of the conversation about archives from the public to the private sphere.
+Jacques Derrida's "Archive Fever," given as a lecture in 1994 during a
+conference entitled "Memory: The Question of Archives" and later published in
+*Diacritics*, remains perhaps the paradigmatic text in the tradition that takes
+the archive to be a predominately public space, subject to the power dynamics
+between insitutional patrons and custodians. For Derrida, the archive "has the
+force of law, of a law which is the law of the house (*oikos*), of the house as
+place, domicile, family, lineage, or institution" [@derrida_archive_1995 , 12].
+Such a place preserves but also shelters the documents within. The archive
+remembers and forgets, as Kenneth E. Foote reminds us in the *American
+Archivist* [@foote_remember_1990]. Derrida goes further to recover the implicit
+etymological roots of the word itself. "Archive" relates to *arkheion*:
+"initially a house, a domicile, and address," but also *archons*, or "those who
+commanded" [@derrida_archive_1995, 9]. In Derrida's understanding, the archive
+is thus both a location and a power structure. And ultimately, it is an
+institution, like the Freud Museum, where his paper was first presented.
+
+Consider by contrast Krapp's dingy collection. It is hardly an institution---it
+receives neither grants nor visitors, and Krapp himself is hardly a proper
+*archon*: he throws the tapes down in anger, and unlike Freud, he leaves no
+heirs to continue his lineage. In contrast to the Freud Museum, his collection
+mostly consists of documents that have only a deeply personal significance. His
+archive has less to do with social power structures and more with the
+mechanisms of private identity formation, remembrance, and nostalgia. To mimic
+Derrida here, we could say that his collection is a recollection---it is not a
+house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
+homecoming [@_nostalgia_2015].
+
+Krapp is only an archetype, the harbinger, and a symbol of a new
+type of an archivist. But even symbolically, his collection could not exist
+without the particular technology of the tape-recorder. That is to say that the
+semiotics of the private archive are enabled by the applied particularities
+(pragmatics) of the specific archiving practice
+
+Armed with these insights, we can now return to the perhaps obvious idea that
+Krapp's collection could not exist without the particular technology of the
+tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
+portability, power source, size, search capacity, price, and yes, even the
+shape of the reel and the tape recorder. It is at this point, that I am able to
+restate the broadly historical thesis of this section: that these very same
+attributes have enabled a shift in the collecting practices of the western
+world—transposing the locus of our archival practice from the institutional to
+the private sphere.
+
+### 4.2 Media Being
 
 Reading the play through the lens of material conditions of media production
 gives us more than just notes on stage design. *Krapp's Last Tape* captures the
@@ -448,71 +511,18 @@ a mental construct. Conciousness is secreted into storage media, stored,
 organized, and accessed at a later date. The archive hardens being against
 memory loss, against nothingness, as media being.
 
+"Perhaps the current rush to 'archive' has less to do with place/thing/practice
+and more with trying to save and preserve a sense of self as we face the
+uncertain future, emphasizing our agency in the selection and meaning making
+process that we fear threatens to outpace us" @taylor_save_2012.
+
+"It is that the word or sign man uses is the man himself" Pierce as quoted
+@weel_changing_2012
+
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary interpretation. After all, what can a play tell
 us about conciousness or memory. Yet, I am prepared to carry on this
-conversation on more empirical basis. 
-
-Armed with these insights, we can now return to the perhaps obvious idea that
-Krapp's collection could not exist without the particular technology of the
-tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
-portability, power source, size, search capacity, price, and yes, even the
-shape of the reel and the tape recorder. It is at this point, that I am able to
-restate the broadly historical thesis of this section: that these very same
-attributes have enabled a shift in the collecting practices of the western
-world—transposing the locus of our archival practice from the institutional to
-the private sphere.
-
-Krapp's collection too has seen better times, for even the archetypal librarian
-of the self must face the problems faced by any librarian. The theoretically
-perfect recursion of the medium strains under practical scrutiny:
-classification systems deteriorate, descriptions lose their meaning, and even
-Krapp's own auditory mirror image betrays him when Krapp is forced to look up
-the word "viduity" in the dictionary (a word that made sense to him thirty
-years ago). Krapp's Last Tape, as it is conventionally interpreted, is a
-cautionary tale about "the last"---time, memory, desire, and nostalgia.11 But it
-is also a commentary about the "tape." Reel-to-reel recorders too will need
-further and progressively more expansive annotations for the play to continue
-to produce meaning. Thus, with the curtain drawn, we the audience, the readers,
-and the custodians of this work are almost immediately implicated in Krapp's
-narcissistic archival habits. Krapp's Last Tape is also a tape in our own
-collection---a tape that will continue to comfort and to unsettle us well into
-our own dotage.
-
-In examining the encounter between Krapp, his tape-recorder, and his past self,
-I would like to shift the focus of the conversation about archives from the
-public to the private sphere. Jacques Derrida's "Archive Fever," given as a
-lecture in 1994 during a conference entitled "Memory: The Question of Archives"
-and later published in Diacritics, remains perhaps the paradigmatic text in the
-tradition that takes the archive to be a predominately public space, subject to
-the power dynamics between the patrons and the custodians of the institution.
-For Derrida and his followers, the archive "has the force of law, of a law
-which is the law of the house (oikos), of the house as place, domicile, family,
-lineage, or institution."12 Such a place preserves but also shelters the
-documents within. It remembers and forgets, so to speak. The word
-itself—archive—suggests arkheion: "initially a house, a domicile, and address,"
-but also archons, or "those who commanded."13 In Derrida's understanding, the
-archive is thus both a location and a power structure. And ultimately, it is an
-institution, like the Freud Museum, where the paper was first given.
-
-Consider by contrast Krapp's dingy collection. It is hardly an institution—it
-receives neither grants nor visitors, and Krapp himself is hardly a proper
-archon (he throws the tapes down in anger, and unlike Freud, he leaves no heirs
-to continue his lineage). In contrast to the Freud Museum, his collection
-mostly consists of documents that have only a deeply personal significance. His
-archive has less to do with social power structures and more to do with the
-mechanisms of private identity formation, remembrance, and nostalgia. To mimic
-Derrida here, we could say that his collection is a recollection—it is not a
-house, but a yearning for a house (nostalgia, from the Greek nostos, a
-homecoming14).
-
-Krapp is only an archetype, the harbinger, and a symbol of a new
-type of an archivist. But even symbolically, his collection could not exist
-without the particular technology of the tape-recorder. That is to say that the
-semiotics of the private archive are enabled by the applied particularities
-(pragmatics) of the specific archiving practice 
-
-### 4.2 Home
+conversation on more empirical basis.
 
 Othe domestic space has always been, in some sense, an archival
 domain. The book shelf, the pantry, the wall, and the mantle: these are the
@@ -529,7 +539,6 @@ of contemporary American domestic space, a team of anthropologists (and a
 photographer) document, describe, and interpret the "domestic material worlds"
 of 32 Los Angeles families
 
-
 41 year old father.
 
 > Here is our life on the refrigerator and all the collection of photos and
@@ -540,16 +549,7 @@ of 32 Los Angeles families
 "Assemblages of objects that families purposefully accumulate and arrange in
 them preserve and legitimize personal histories" [@arnold_life_2012, 161].
 
-
 Home, and home.
-
-"Perhaps the current rush to 'archive' has less to do with place/thing/practice
-and more with trying to save and preserve a sense of self as we face the
-uncertain future, emphasizing our agency in the selection and meaning making
-process that we fear threatens to outpace us" @taylor_save_2012.
-
-"It is that the word or sign man uses is the man himself" Pierce as quoted
-@weel_changing_2012
 
 [ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 

@@ -4271,21 +4271,23 @@ perhaps fallen on some hard times: he is
 Beckett 3.
 
 Recursive Encounters with Ourselves | 149
-wearing ill-fitting trousers, a black sleeveless coat, and a "surprising pair of dirty white
-boots, size ten at least, very narrow and pointed." 21
-Krapp's collection too has seen better times, for even the archetypal librarian of
-the self must face the problems faced by any librarian. The theoretically perfect recursion
-of the medium strains under practical scrutiny: classification systems deteriorate,
-descriptions lose their meaning, 22 and even Krapp's own auditory mirror image betrays
-him when Krapp is forced to look up the word "viduity" in the dictionary (a word that
-made sense to him thirty years ago). Krapp's Last Tape, as it is conventionally
-interpreted, is a cautionary tale about "the last"—time, memory, desire, and nostalgia. 23
-But it is also a commentary about the "tape." Reel-to-reel recorders too will need further
-and progressively more expansive annotations for the play to continue to produce
-meaning. Thus, with the curtain drawn, we the audience, the readers, and the custodians
-of this work are almost immediately implicated in Krapp's narcissistic archival habits.
-Krapp's Last Tape is also a tape in our own collection—a tape that will continue to
-comfort and to unsettle us well into our own dotage.
+wearing ill-fitting trousers, a black sleeveless coat, and a "surprising pair
+of dirty white boots, size ten at least, very narrow and pointed." 21 Krapp's
+collection too has seen better times, for even the archetypal librarian of the
+self must face the problems faced by any librarian. The theoretically perfect
+recursion of the medium strains under practical scrutiny: classification
+systems deteriorate, descriptions lose their meaning, 22 and even Krapp's own
+auditory mirror image betrays him when Krapp is forced to look up the word
+"viduity" in the dictionary (a word that made sense to him thirty years ago).
+Krapp's Last Tape, as it is conventionally interpreted, is a cautionary tale
+about "the last"—time, memory, desire, and nostalgia. 23 But it is also a
+commentary about the "tape." Reel-to-reel recorders too will need further and
+progressively more expansive annotations for the play to continue to produce
+meaning. Thus, with the curtain drawn, we the audience, the readers, and the
+custodians of this work are almost immediately implicated in Krapp's
+narcissistic archival habits.  Krapp's Last Tape is also a tape in our own
+collection—a tape that will continue to comfort and to unsettle us well into
+our own dotage.
 
 21
 
@@ -4338,99 +4340,6 @@ of an archivist. But even symbolically, his collection could not exist without t
 particular technology of the tape-recorder. That is to say that the semiotics of the private
 archive are enabled by the applied particularities (pragmatics) of the specific archiving
 practice (See Table 2).
-Type:
-
-Paper
-
-Record / Cylinder
-
-Magnetic Tape Digital / Cloud
-
-Portability
-
-high
-
-low
-
-average
-
-deviceindependent
-
-Capacity
-
-low
-
-low
-
-average
-
-Time shift
-
-quick, tactile, quick, tactile, imprecise slow, linear,
-
-near instant,
-
-imprecise
-
-precise
-
-imprecise
-
-virtually unlimited
-
-Search
-
-indexed
-
-none, visual
-
-seek, mechanical indexed
-
-Size
-
-small
-
-large
-
-small
-
-irrelevant
-
-Shape
-
-square
-
-round
-
-long
-
-fuzzy
-
-Price
-
-cheap
-
-expensive
-
-affordable
-
-cheap
-
-Power source
-
-none
-
-mechanical, electrical
-
-batteries,
-
-batteries,
-
-electrical
-
-electrical
-
-Table 2: Media comparison, 20th Century
 
 26 OED.
 
