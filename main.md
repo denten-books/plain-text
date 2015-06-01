@@ -463,23 +463,7 @@ Derrida here, we could say that his collection is a recollection---it is not a
 house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
 homecoming [@_nostalgia_2015].
 
-Krapp is only an archetype, the harbinger, and a symbol of a new
-type of an archivist. But even symbolically, his collection could not exist
-without the particular technology of the tape-recorder. That is to say that the
-semiotics of the private archive are enabled by the applied particularities
-(pragmatics) of the specific archiving practice
-
-Armed with these insights, we can now return to the perhaps obvious idea that
-Krapp's collection could not exist without the particular technology of the
-tape-recorder. Krapp's Last Tape was made possible by the storage capacity, its
-portability, power source, size, search capacity, price, and yes, even the
-shape of the reel and the tape recorder. It is at this point, that I am able to
-restate the broadly historical thesis of this section: that these very same
-attributes have enabled a shift in the collecting practices of the western
-world—transposing the locus of our archival practice from the institutional to
-the private sphere.
-
-### 4.2 Media Being
+### 4.2 Home (Media Being)
 
 Reading the play through the lens of material conditions of media production
 gives us more than just notes on stage design. *Krapp's Last Tape* captures the
