@@ -241,8 +241,9 @@ that I obligingly promise it an appointment for later after the departure of
 the visitor" [@sartre_being_1993, 104]? *Krapp's Last Tape* reminds us that
 such appointments cannot be limited to a mental construct, but instead
 constitute a form of media being by which conciousness is secreted unto storage
-media, archived, organized, and accessed at a later date. Such archives harden
-biological being against memory loss and the loss of self.
+media, archived, organized, and accessed at a later date. Personal archive
+technologies are marketed harden biological being against memory loss and the
+loss of self.
 
 By "media being" I would like to articulate here a set of related propositions
 that, in complement to mechanisms of collective memory formation, identify

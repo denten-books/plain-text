@@ -540,7 +540,7 @@ computational text generation, Kathleen McKeown writes that to produce
 discourse, writers and speakers "must decide what to say and how to present it
 effectively." A machine that generates text should, among other things, be able
 to determine the "content and textual shape" of what needs to be said or written
-[@mckeown_text_1992, 1].  Similarly, in her influential essay "Print Is Flat,
+[@mckeown_text_1992, 1]. Similarly, in her influential essay "Print Is Flat,
 Code Is Deep," Katherine Hayles writes about "the interplay between a text's
 physical characteristics and its signifying strategies" [@hayles_print_2004,
 72]. In each case, the model underlying textual production involves the
@@ -600,8 +600,8 @@ is "freed from this immediate existence which must be set down as negative,
 overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
 writes: "Poetry is the universal art of the spirit which has become free in
 itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space [*sic*] and the
-inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
+material; instead, it launches out exclusively in the inner space [*sic*] and
+the inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
 "inwardness celebrates its triumph over the external and manifests its victory
 in and on the external itself, whereby what is apparent to the senses alone
 sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
@@ -734,16 +734,17 @@ Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
 the dual status of literature between the universal and the concrete. For
 example, for Coleridge, the excellence of Shakespeare's works consisted in
-"that union and interpenetration of the universal and the particular" [@coleridge_friend_1969, 457]. Wimsatt cites these passages to write that "in
+"that union and interpenetration of the universal and the particular"
+[@coleridge_friend_1969, 457]. Wimsatt cites these passages to write that "in
 one terminology or another this idea of a concrete universal is found in most
 metaphysical aesthetic of the eighteenth and nineteenth centuries"
-[@wimsatt_verbal_1954, 72]. Wimsatt concludes by writing that in each individual
-poem there is something "which can never be expressed in other terms." Like
-irrational numbers, poetry and poetic language for Wimsatt can only be
-approached at their limit, not as "all it would be, yet all that can be had"
-[@wimsatt_structure_1947, 280]. Hegel's "universal concrete" formula captures
-an essential property of literature in its dual movement between the material
-and the ideal worlds.
+[@wimsatt_verbal_1954, 72]. Wimsatt concludes by writing that in each
+individual poem there is something "which can never be expressed in other
+terms." Like irrational numbers, poetry and poetic language for Wimsatt can
+only be approached at their limit, not as "all it would be, yet all that can be
+had" [@wimsatt_structure_1947, 280]. Hegel's "concrete universal" formula
+captures an essential property of literature in its dual movement between the
+material and the ideal worlds.
 
 The history of literary scholarship is also punctuated by moments of revolt
 against Hegelian reading for latent universalism. A recent conversation on the
@@ -803,22 +804,23 @@ surface reading, I plan to examine the material structure of contemporary
 document at the level of storage media.
 
 But first, to form. In an earlier counterinsurgency against reading for
-content, at the turn of the twentieth century, Russian and Italian formalists strove
-to break with Hegelian normative aesthetics by wedding literary criticism with
-descriptive linguistics. Seeing art as an economy of formal "devices" like
-rhyme and meter, the formalists downplayed the role of content and symbol. In
-this vein, the Italian futurist Filippo Marinetti wrote about the "grotesque
-funeral" of romantic notions of beauty, and the rise of a new "geometric and
-mechanical splendor." His generation was instead "in love with matter," wanting
-"to penetrate it and to understand its vibrations" [@marinetti_marinetti:_1972,
-???].[^ln3-marinetti] Art cannot be reduced to "thinking in symbols" Viktor
-Shklovsky, a prominent Russian formalist, wrote in 1917. Meaning "dies" and
-"becomes invisible" through frequent use. Such dead and transparent language
-can no longer evoke wonder or curiosity. For Shklovsky and his peers, vital art
-served to counteract death by "resurrecting the word" in "making the form
-difficult" [@shklovsky_hod_1923, ???]. Form, in that sense, renews content.
-The study of poetic language (and not necessarily poetry) therefore pays
-attention to device, which aids in the process of semantic renewal.
+content, at the turn of the twentieth century, Russian and Italian formalists
+strove to break with Hegelian normative aesthetics by wedding literary
+criticism with descriptive linguistics. Seeing art as an economy of formal
+"devices" like rhyme and meter, the formalists downplayed the role of content
+and symbol. In this vein, the Italian futurist Filippo Marinetti wrote about
+the "grotesque funeral" of romantic notions of beauty, and the rise of a new
+"geometric and mechanical splendor." His generation was instead "in love with
+matter," wanting "to penetrate it and to understand its vibrations"
+[@marinetti_marinetti:_1972, ???].[^ln3-marinetti] Art cannot be reduced to
+"thinking in symbols" Viktor Shklovsky, a prominent Russian formalist, wrote in
+1917. Meaning "dies" and "becomes invisible" through frequent use. Such dead
+and transparent language can no longer evoke wonder or curiosity. For Shklovsky
+and his peers, vital art served to counteract death by "resurrecting the word"
+in "making the form difficult" [@shklovsky_hod_1923, ???]. Form, in that sense,
+renews content.  The study of poetic language (and not necessarily poetry)
+therefore pays attention to device, which aids in the process of semantic
+renewal.
 
 Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
 (instrumental in developing the notion of formalist poetics) were also
