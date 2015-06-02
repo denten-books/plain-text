@@ -178,9 +178,9 @@ progressively more expansive annotations, as the technology fades from
 collective memory. Thus, with the curtain drawn, we the audience, the readers,
 and the custodians of this work are almost immediately implicated in Krapp's
 narcissistic archival habits. We reach for the volume, read, reread, annotate,
-and reshelve. *Krapp's Last Tape* is also a spool in our own collection---a spot
-on the bookshelf that will continue to comfort and to unsettle us well into our
-own dotage.
+and reshelve. *Krapp's Last Tape* is also a spool in our own collection---a
+spot on the bookshelf that will continue to comfort and to unsettle us well
+into our own dotage.
 
 Staged at the dawn of personal audio recording, Beckett's play shifts the focus
 of the conversation about archives from the public to the private sphere.
@@ -198,7 +198,7 @@ etymological roots of the word itself. "Archive" relates to *arkheion*:
 "initially a house, a domicile, and address," but also *archons*, or "those who
 commanded" [@derrida_archive_1995, 9]. In Derrida's understanding, the archive
 is thus both a location and a power structure. And ultimately, it is an
-institution, like the Freud Museum, where his paper was first presented.
+institution, like the Freud Museum, where *Archive Fever" was first presented.
 
 Consider by contrast Krapp's dingy collection. It is hardly an institution---it
 receives neither grants nor visitors, and Krapp himself is hardly a proper
@@ -211,7 +211,7 @@ Derrida here, we could say that his collection is a recollection---it is not a
 house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
 homecoming [@_nostalgia_2015].
 
-### 4.2 Home (Media Being)
+### 4.2 Media Being
 
 Reading the play through the lens of material conditions of media production
 gives us more than just notes on stage design. *Krapp's Last Tape* captures the
@@ -228,80 +228,91 @@ The personal archive can thus be seen as an attempt to shore up natural human
 defences against the forces of amnesia, time, decay, and oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
-cognitive storage capability. The conscious self continually recedes into the
-distance, threatening to dissolve into the ocean of non-being. The making of
-lists, new years resolutions, the writing of diaries, self portraiture, and
-audio dictation---all these activities orient the subject towards the mirage of
-potential future conciousness. We are here confronted with a curious literature
-that takes the past self as its subject, the future self as object, and the
-present self as a guardian and archivist of that oath between past and future.
-Through Beckett we perceive what Sartre called an appointment with one's own
-sadness. "What will remain of my [interrupted] sadness," Sartre writes, "except
-that I obligingly promise it an appointment for later after the departure of
-the visitor" [@sartre_being_1993, 104]? *Krapp's Last Tape* reminds us that
-such appointments cannot be limited to a mental construct, but instead
-constitute a form of media being by which conciousness is secreted unto storage
-media, archived, organized, and accessed at a later date. Personal archive
-technologies are marketed harden biological being against memory loss and the
-loss of self.
+cognitive storage capability. It continually recedes into the distance,
+threatening to dissolve into the ocean of non-being. In an issue of
+*e-misférica* dedicated to the subject of archives, Diana Taylor suggests as
+much when she writes that "perhaps the current rush to 'archive' has less to do
+with place/thing/practice and more with trying to save and preserve a sense of
+self as we face the uncertain future, emphasizing our agency in the selection
+and meaning making process that we fear threatens to outpace us"
+[@taylor_save_2012]. In this light, the making of lists, new years resolutions,
+the writing of diaries, self portraiture, and audio dictation---all these
+activities can be seen as orienting the subject towards a mirage of potential
+future conciousness. We are here confronted with a curious literature that
+takes the past self as its subject, the future self as object, and the present
+self as a guardian and archivist of that oath between past and future. Through
+Beckett we perceive what Sartre called an appointment with one's own sadness.
+"What will remain of my [interrupted] sadness," Sartre writes, "except that I
+obligingly promise it an appointment for later after the departure of the
+visitor" [@sartre_being_1993, 104]?  *Krapp's Last Tape* reminds us that such
+appointments cannot be limited to a mental construct, but instead embody a form
+of media being by which conciousness is secreted into the personal archive, to
+be stored, organized, and accessed at a later date.
 
-By "media being" I would like to articulate here a set of related propositions
-that, in complement to mechanisms of collective memory formation, identify
-pervasive but still not well-studied practices of personal self-preservation.
-The first of these distinguishes a range of structures that serve to
-externalize and to preserve private mental states. The second sees such
-structures as forms of extended cognition, where cognition should be taken not
-in its metaphorical sense, but as palpable, real-world activity, susceptible
-to the contingencies of geography, history, technology, and politics. The
-third, takes such material extensions of self to constitute a specialized form
-of literature, which, by contrast to other forms of communication, takes the
-self both as subject and object (sender and recipient, author and reader,
-playwright and audience) of transmission. Finally, and this is a matter of 
+"It is that the word or sign man uses is the man himself," Charles Sanders
+Peirce wrote for the *Journal of Speculative Philosophy* in 1868 [@pierce, 156;
+also quoted in @weel_changing_2012, 14-5]. This short piece on "some
+consequences of four in capacities," concludes with a tantalizing proposition,
+that, at the end of the nineteenth century, anticipates trends in philosophy of
+mind and knowledge at the end of the twentieth and beginning of the
+twenty-first. Peirce writes:
 
-an archival practice aimed at the preservation of
-externalized representations of conscounsness. The second understand such
-archival practice as a mode of being, that in some sense extends.
+> For as the fact that every thought is an external sign, taken in
+conjunction with the fact that life is a train of thought, proves that man is a
+sign; so, that every thought is an *external* sign, proves that man is an
+external sign" [@peirce_consequences_1868, 156].
 
-"Perhaps the current rush to
-'archive' has less to do with place/thing/practice and more with trying to save
-and preserve a sense of self as we face the uncertain future, emphasizing our
-agency in the selection and meaning making process that we fear threatens to
-outpace us" @taylor_save_2012.
+From these premises he concludes to write that:
 
-"It is that the word or sign man uses is the man himself" Pierce as quoted
-@weel_changing_2012
+> Now the organism is only instrument of thought. But the identity of a man
+> consists in the consistency of what he does and think, and consistency is the
+> intellectual character of a thing [...] thought is what it is, only by virtue
+> of its addressing a future thought [...] In this way, the existence of
+> thought now, depends on what is to be hereafter; so that it has only a
+> potential existence, depended on the future thought of the community
+> [@peirce_consequences_1868, 157].
+
+The "future thought of the community" suggests epistemology that cannot be
+reduced to private mental life: social epistemology. Yet another idea implicit
+in these lines, takes the consistency of mental life to happen through
+externalized forms of mental persistence. This chapter can be taken as an
+extended footnote on these lines, articulating a mode a set of related
+propositions that, in complement to mechanisms of collective memory formation,
+identify pervasive but still not well-studied practices of personal
+self-persistence through storage media, in what I call "media being". The first
+of these distinguishes a range of structures that serve to externalize and to
+preserve private mental states. The second sees such structures as forms of
+extended cognition, where cognition should be taken not in its metaphorical
+sense, but as palpable, real-world activity, susceptible to the contingencies
+of geography, history, technology, and politics. The third, takes such material
+extensions of self to constitute a specialized form of literature, which, by
+contrast to other forms of communication, takes the self both as subject and
+object (sender and recipient, author and reader, playwright and audience) of
+transmission. Finally, and this is a matter of speculative thought, media being
+implies a pragmatic (ethical, political) stance towards cognitive extension,
+treating them with the same care and concern we display towards conventional
+(intra-cranial) cognition proper.  That is to say that if we accept the
+premises of media being and extended cognition more broadly, we must afford
+them the same care we reserve for conventional cognitive structures, be it in
+the analogy to critical thinking or self-reflection.
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
-towards the limits of literary interpretation. After all, what can a play tell
-us about conciousness or memory. Yet, I am prepared to carry on this
-conversation on more empirical basis.
-
-Othe domestic space has always been, in some sense, an archival
-domain. The book shelf, the pantry, the wall, and the mantle: these are the
-locations where the family imposes private order, organizes its material life,
-and into which it secretes its memories, preserving and curating artifacts from
-its own pest. In a chapter on immigrant domestic interiors, for example,
-Svetlana Boym writes about these typically Soviet curio cabinets, which present
-"once a fragmentary biography of the inhabitant and a display of collective
-memory" [@boym_future_2002, 334]. "If there had been such a thing as Soviet
-cultural unconscious," she writes in *Common Spaces*, it would have been
-structured like a communal apartment" [@boym_common_1995, 1610]. Similarly, in
-"Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
-of contemporary American domestic space, a team of anthropologists (and a
-photographer) document, describe, and interpret the "domestic material worlds"
-of 32 Los Angeles families
-
-41 year old father.
-
-> Here is our life on the refrigerator and all the collection of photos and
-> magnets. And you know what? we go up to these pictures and the time and sort
-> of remark about who people are wand where we were and what we were doing and
-> how old people were [@arnold_life_2012, 51].
-
-"Assemblages of objects that families purposefully accumulate and arrange in
-them preserve and legitimize personal histories" [@arnold_life_2012, 161].
-
-Home, and home.
+towards the limits of literary theory or book history. After all, what can a
+book or a play tell us about conciousness or memory? Yet, I am prepared to
+continue this conversation on more empirical basis. Recent developments in
+cognitive science itself advance a hypothesis of extended cognition, which has
+tremendous implications for the study of knowledge, texts, and literature.
+Under the hypothesis of extended cognition, thinking happens not in the brain
+alone, but at the interface between cognitive, social, and technological
+structures. And once we admit that cognition has an externalized, material
+form, we must accept it (at least in that extended portion) as a culturally-
+and historically- contingent artifact. This means that things like books,
+chapters, filing systems, and book indices, belong not to the history media or
+textual theory alone, but also to the theory of cognition proper. To the extent
+that media studies and literary theory deal with forms of media being, they
+enter cognitive science on equal grounds, not as mere illustration or
+supplement. After a brief exposition of the extended cognition hypothesis, I
+would like to return to Krapp and to consider a case study from t.
 
 [ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 
@@ -665,7 +676,35 @@ treat the tools of cognitive augmentation as seriously as we would our own
 mental development, in the traditional sense.
 
 
-### 4.4 Personal Shell (Case Study)
+### 4.4 Home (Case Study)
+
+
+Othe domestic space has always been, in some sense, an archival domain. The
+book shelf, the pantry, the wall, and the mantle: these are the locations where
+the family imposes private order, organizes its material life, and into which
+it secretes its memories, preserving and curating artifacts from its own pest.
+In a chapter on immigrant domestic interiors, for example, Svetlana Boym writes
+about these typically Soviet curio cabinets, which present "once a fragmentary
+biography of the inhabitant and a display of collective memory"
+[@boym_future_2002, 334]. "If there had been such a thing as Soviet cultural
+unconscious," she writes in *Common Spaces*, it would have been structured like
+a communal apartment" [@boym_common_1995, 1610]. Similarly, in "Life at Home in
+the Twenty-First Century," a ground-breaking "ethnoarcheology" of contemporary
+American domestic space, a team of anthropologists (and a photographer)
+document, describe, and interpret the "domestic material worlds" of 32 Los
+Angeles families
+
+41 year old father.
+
+> Here is our life on the refrigerator and all the collection of photos and
+> magnets. And you know what? we go up to these pictures and the time and sort
+> of remark about who people are wand where we were and what we were doing and
+> how old people were [@arnold_life_2012, 51].
+
+"Assemblages of objects that families purposefully accumulate and arrange in
+them preserve and legitimize personal histories" [@arnold_life_2012, 161].
+
+Home, and home.
 
 Turn towards personal computing.
 
