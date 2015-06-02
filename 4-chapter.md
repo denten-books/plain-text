@@ -311,8 +311,9 @@ chapters, filing systems, and book indices, belong not to the history media or
 textual theory alone, but also to the theory of cognition proper. To the extent
 that media studies and literary theory deal with forms of media being, they
 enter cognitive science on equal grounds, not as mere illustration or
-supplement. After a brief exposition of the extended cognition hypothesis, I
-would like to return to Krapp and to consider a case study from t.
+supplement. An exposition of the extended cognition hypothesis will pave the
+way to a case study of personal archiving practice in the history of modern
+computing, at the conclusion of the chapter.
 
 [ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 
