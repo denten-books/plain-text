@@ -2,11 +2,10 @@
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
 subtitle: "Chapter 4: Recursive Encounters with Oneself"
 author: "Dennis Tenen"
-style: csl/chicago-note.csl
+style: csl/mla.csl
 bibliography: plain-text.bib
 toc: true
 documentclass: article
-cover-image: images/steno.png
 header-includes:
 - \usepackage{ftnxtra}
 - \usepackage{titlesec}
@@ -92,16 +91,16 @@ the encounter for later reevaluation and re-recording.[^ln4-recursive] In this
 light, the specificity of the tape as a medium is not terribly important. The
 story would be similarly plausible were it set a century prior, using a
 conventional pen-and-ink diary as its medium, or written some decades later
-under the title of *Krapp's Latest Social Media Platform*.[^ln4-boring] The
-play exposes storage media as being inextricably enmeshed in the narcissistic
-activity of human culture making. The seeming unity of Krapp's consciousness
-and, indeed, the stage appearance of consciousness itself, are aided by the use
-of paper and tape. The device on the stage creates the illusion of Krapp's
-inner life; it allows the author to shift the narrative in time; it multiplies
-and refracts the images of the main character of the play. The reel-to-reel
-player functions both as audience and actor: alternatively listening and
-speaking, recording and transmitting. Ultimately, Krapp's fate is not only
-indexically linked to the tape-recorder, it is created by and for this
+under the title of *Krapp's Latest Social Media Platform*.[^ln4-boring]
+Beckett's play exposes storage media as being inextricably enmeshed in the
+narcissistic activity of human culture making. The seeming unity of Krapp's
+consciousness and, indeed, the stage appearance of consciousness itself, are
+aided by the use of paper and tape. The device on the stage creates the
+illusion of Krapp's inner life; it allows the author to shift the narrative in
+time; it multiplies and refracts the images of the main character of the play.
+The reel-to-reel player functions both as audience and actor: alternatively
+listening and speaking, recording and transmitting. Ultimately, Krapp's fate is
+not only indexically linked to the tape-recorder, it is created by and for this
 technological medium. The reader knows Krapp is Krapp because all of them
 appear under the same eponymous literary umbrella.
 
@@ -139,10 +138,10 @@ remains motionless, staring vacuously before him [@beckett_complete_2006, 216].
 
 These stage directions exude a nervous energy one would expect before an erotic
 encounter: Krapp is being clumsy and excited. Box Three, Spool Five does indeed
-contain an account of a past romance, but the encounter Krapp is excited about
-is with the archive---that is with externalized representations of his own
-self. The suggestive stroking of the banana punctuates the onanistic nature of
-Krapp's archival activity. If Krapp is a librarian, he is a librarian of a
+contain an account of a past romance, but the encounter Krapp is most excited
+about is with the archive---that is with externalized representations of his
+own self. The suggestive stroking of the banana punctuates the onanistic nature
+of Krapp's archival activity. If Krapp is a librarian, he is a librarian of a
 particular kind: a librarian of the self.
 
 Let us envision Krapp's archiving habits for a moment. The stage directions
@@ -158,11 +157,11 @@ seven inches in diameter and were often sold in flat rectangular storage
 sleeves, somewhere between 1/4 and 2 inches thick, depending on the tape
 format. Reading from the ledger, Krapp counts at least nine boxes. Spool five,
 recorded on his thirty-ninth birthday, is found in box three. Given modest
-storage-box capacity, we would expect at least fifteen to twenty spools per
-box. Which means that after more than forty years of recording, Krapp would
-have accumulated at least several hundred reels, and at least as many hours of
-recording (assuming, conservatively, that his recording sessions lasted around
-a reel each).
+storage-box capacity, we would expect about fifteen to twenty spools per box.
+Which means that after more than forty years of recording, Krapp would have
+accumulated on the order of several hundred reels, and at least as many hours
+of recording (assuming, conservatively, that his recording sessions lasted
+around a reel each).
 
 Krapp's collection has seen better times, for even the archetypal librarian of
 the self must face the problems faced by any librarian. The theoretically
@@ -176,11 +175,10 @@ cautionary tale about "the last"---time, memory, desire, and nostalgia
 about the "tape." Reel-to-reel recorders too will need further and
 progressively more expansive annotations, as the technology fades from
 collective memory. Thus, with the curtain drawn, we the audience, the readers,
-and the custodians of this work are almost immediately implicated in Krapp's
-narcissistic archival habits. We reach for the volume, read, reread, annotate,
-and reshelve. *Krapp's Last Tape* is also a spool in our own collection---a
-spot on the bookshelf that will continue to comfort and to unsettle us well
-into our own dotage.
+and the custodians of this work are implicated in Krapp's narcissistic archival
+habits. We reach for the volume, read, reread, annotate, and reshelve. *Krapp's
+Last Tape* is also a spool in our own collection---a spot on the bookshelf that
+will continue to comfort and to unsettle us well into our own dotage.
 
 Staged at the dawn of personal audio recording, Beckett's play shifts the focus
 of the conversation about archives from the public to the private sphere.
@@ -209,7 +207,10 @@ archive has less to do with social power structures and more with the
 mechanisms of private identity formation, remembrance, and nostalgia. To mimic
 Derrida here, we could say that his collection is a recollection---it is not a
 house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
-homecoming [@_nostalgia_2015].
+homecoming [@_nostalgia_2015]. This chapter will be about a type a house, where
+the librarians of the self commonly make a home. But first, we are faced with
+the considerable task of justifying the endeavor intellectually. To get to my
+media home, I need to trespass on other fields widely.
 
 ### 4.2 Media Being
 
@@ -228,34 +229,36 @@ The personal archive can thus be seen as an attempt to shore up natural human
 defences against the forces of amnesia, time, decay, and oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
-cognitive storage capability. It continually recedes into the distance,
-threatening to dissolve into the ocean of non-being. In an issue of
-*e-misférica* dedicated to the subject of archives, Diana Taylor suggests as
-much when she writes that "perhaps the current rush to 'archive' has less to do
-with place/thing/practice and more with trying to save and preserve a sense of
-self as we face the uncertain future, emphasizing our agency in the selection
-and meaning making process that we fear threatens to outpace us"
-[@taylor_save_2012]. In this light, the making of lists, new years resolutions,
-the writing of diaries, self portraiture, and audio dictation---all these
-activities can be seen as orienting the subject towards a mirage of potential
-future conciousness. We are here confronted with a curious literature that
-takes the past self as its subject, the future self as object, and the present
-self as a guardian and archivist of that oath between past and future. Through
-Beckett we perceive what Sartre called an appointment with one's own sadness.
-"What will remain of my [interrupted] sadness," Sartre writes, "except that I
-obligingly promise it an appointment for later after the departure of the
-visitor" [@sartre_being_1993, 104]?  *Krapp's Last Tape* reminds us that such
-appointments cannot be limited to a mental construct, but instead embody a form
-of media being by which conciousness is secreted into the personal archive, to
-be stored, organized, and accessed at a later date.
+impermanence. We are simply not that good at remembering things, even when
+those things are ourselves. The synchronic self continually recedes into the
+past, threatening to dissolve conciousness within the great ocean of non-being.
+In an issue of *e-misférica* dedicated to the subject of archives, Diana Taylor
+suggests as much when she writes that "perhaps the current rush to 'archive'
+has less to do with place/thing/practice and more with trying to save and
+preserve a sense of self as we face the uncertain future, emphasizing our
+agency in the selection and meaning making process that we fear threatens to
+outpace us" [@taylor_save_2012]. In this light, the making of lists, new years
+resolutions, the writing of diaries, self portraiture, and audio
+dictation---all these activities can be seen as orienting the subject towards
+the mirage of potential future selves. We are here confronted with a curious
+literature that takes the past self as its subject, the future self as object,
+and the present self as a guardian and archivist of that oath between past and
+future. Through Beckett we perceive the practice of what Sartre called an
+appointment with one's own sadness.  "What will remain of my [interrupted]
+sadness," Sartre writes, "except that I obligingly promise it an appointment
+for later after the departure of the visitor" [@sartre_being_1993, 104]?
+*Krapp's Last Tape* reminds us that such appointments cannot be limited to a
+mental construct, but instead embody a form of media being by which
+conciousness is secreted into the personal archive, to be stored, organized,
+and accessed at a later date.
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
-Peirce wrote for the *Journal of Speculative Philosophy* in 1868 [@pierce, 156;
-also quoted in @weel_changing_2012, 14-5]. This short piece on "some
-consequences of four in capacities," concludes with a tantalizing proposition,
-that, at the end of the nineteenth century, anticipates trends in philosophy of
-mind and knowledge at the end of the twentieth and beginning of the
-twenty-first. Peirce writes:
+Peirce wrote for the *Journal of Speculative Philosophy* in 1868
+[@peirce_consequences_1868, 156; also quoted in @weel_changing_2012, 14-5].
+This short piece on "some consequences of four incapacities," concludes with a
+tantalizing proposition, that, at the end of the nineteenth century,
+anticipates trends in philosophy of mind and knowledge at the end of the
+twentieth and in the beginning of the twenty-first. Peirce writes:
 
 > For as the fact that every thought is an external sign, taken in
 conjunction with the fact that life is a train of thought, proves that man is a
@@ -272,29 +275,33 @@ From these premises he concludes to write that:
 > potential existence, depended on the future thought of the community
 > [@peirce_consequences_1868, 157].
 
-The "future thought of the community" suggests epistemology that cannot be
-reduced to private mental life: social epistemology. Yet another idea implicit
-in these lines, takes the consistency of mental life to happen through
-externalized forms of mental persistence. This chapter can be taken as an
-extended footnote on these lines, articulating a mode a set of related
-propositions that, in complement to mechanisms of collective memory formation,
-identify pervasive but still not well-studied practices of personal
-self-persistence through storage media, in what I call "media being". The first
-of these distinguishes a range of structures that serve to externalize and to
-preserve private mental states. The second sees such structures as forms of
-extended cognition, where cognition should be taken not in its metaphorical
-sense, but as palpable, real-world activity, susceptible to the contingencies
-of geography, history, technology, and politics. The third, takes such material
-extensions of self to constitute a specialized form of literature, which, by
-contrast to other forms of communication, takes the self both as subject and
-object (sender and recipient, author and reader, playwright and audience) of
-transmission. Finally, and this is a matter of speculative thought, media being
-implies a pragmatic (ethical, political) stance towards cognitive extension,
-treating them with the same care and concern we display towards conventional
-(intra-cranial) cognition proper.  That is to say that if we accept the
-premises of media being and extended cognition more broadly, we must afford
-them the same care we reserve for conventional cognitive structures, be it in
-the analogy to critical thinking or self-reflection.
+The "future thought of the community" suggests a model of knowledge formation
+that cannot be reduced to private mental life: social epistemology. Yet another
+idea implicit in these lines, takes the consistency of mental life to happen
+through externalized forms of mental persistence. This chapter can be taken as
+an extended footnote on these lines, articulating a set of related propositions
+that, in complement to mechanisms of collective memory formation, identify
+pervasive but still not well-studied practices of personal self-persistence
+through storage media, in what I call "media being".
+
+The first of these propositions distinguishes a range of media structures that
+serve to externalize and to preserve private mental states. The second sees
+such structures as forms of extended cognition, where cognition should be taken
+not in its metaphorical sense, but as palpable, real-world activity,
+susceptible to the contingencies of geography, history, technology, and
+politics. The third, takes such material extensions of self to constitute a
+specialized form of literature, which, by contrast to other forms of
+communication, takes the self both as subject and object (sender and recipient,
+author and reader, playwright and audience) of transmission. Finally, and this
+is a matter of speculative thought, the idea of media being implies a pragmatic
+(ethical, political) stance towards cognitive extensions, treating them with
+the same care and concern we display towards conventional (intra-cranial)
+cognition proper. That is to say that if we accept the premises of media being
+(and extended cognition more broadly), we must afford them the same care we
+reserve for conventional cognitive structures, be it in the analogy to critical
+thinking or self-reflection. Fundamentally, as I will argue after Sartre, such
+externalized cognitive structures must remain transparent to the entity
+extended.
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory or book history. After all, what can a
@@ -308,16 +315,17 @@ structures. And once we admit that cognition has an externalized, material
 form, we must accept it (at least in that extended portion) as a culturally-
 and historically- contingent artifact. This means that things like books,
 chapters, filing systems, and book indices, belong not to the history media or
-textual theory alone, but also to the theory of cognition proper. To the extent
-that media studies and literary theory deal with forms of media being, they
-enter cognitive science on equal grounds, not as mere illustration or
-supplement. An exposition of the extended cognition hypothesis will pave the
-way to a case study of personal archiving practice in the history of modern
-computing, at the conclusion of the chapter.
+textual theory alone, but also to the theory of cognition. This also means that
+cognition, in its extended form, *has* a history. To the extent that media
+studies and literary theory deal with forms of media being, they enter
+cognitive science on equal grounds, not as mere illustration or supplement. An
+exposition of the extended cognition hypothesis will pave the way to a case
+study of personal archiving practice in the history of modern computing, at the
+conclusion of the chapter.
 
-[ln4-recursive]: See also @breuer_paradox_1993, 559-580.
+[^ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 
-[ln4-boring]: I suspect both would make for far more boring plays than the
+[^ln4-boring]: I suspect both would make for far more boring plays than the
 original.
 
 [^ln4-dupont]: All materials in this section come from an online archive of
