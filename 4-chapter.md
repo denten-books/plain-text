@@ -278,11 +278,12 @@ From these premises he concludes to write that:
 The "future thought of the community" suggests a model of knowledge formation
 that cannot be reduced to private mental life: social epistemology. Yet another
 idea implicit in these lines, takes the consistency of mental life to happen
-through externalized forms of mental persistence. This chapter can be taken as
-an extended footnote on these lines, articulating a set of related propositions
-that, in complement to mechanisms of collective memory formation, identify
-pervasive but still not well-studied practices of personal self-persistence
-through storage media, in what I call "media being".
+through externalized, although still somewhat private (individual), forms of
+mental persistence. This chapter can be taken as an extended footnote on these
+lines, articulating a set of related propositions that, in complement to
+mechanisms of collective memory formation, identify pervasive but still not
+well-studied practices of personal self-persistence through storage media, in
+what I call "media being".
 
 The first of these propositions distinguishes a range of media structures that
 serve to externalize and to preserve private mental states. The second sees
@@ -300,8 +301,8 @@ cognition proper. That is to say that if we accept the premises of media being
 (and extended cognition more broadly), we must afford them the same care we
 reserve for conventional cognitive structures, be it in the analogy to critical
 thinking or self-reflection. Fundamentally, as I will argue after Sartre, such
-externalized cognitive structures must remain transparent to the entity
-extended.
+externalized cognitive structures must remain transparent and available for
+examination.
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory or book history. After all, what can a
@@ -332,7 +333,7 @@ original.
 sound recording advertisements curated by the Museum of Magnetic Sound
 Recording [@museum_of_magnetic_sound_recording_time_2013].
 
-### 4.3 Knowledge at Hand (Extended cognition)
+### 4.3 Knowledge at Hand
 
 What does it mean "have read" a book? Surely, when someone says "I too have
 read this book" they mean something more than the mechanical action of turning
@@ -376,13 +377,13 @@ fact no such mechanisms are known to us in these cases"
 insufficient to describe reading definitively. Here, Wittgenstein asks us to
 imagine a person under the influence of drugs who is shown a set of discrete
 strings composed of nonsensical characters. When shown some random string of
-nonesensical characthers like `$%^&*`, for example, the drugged patient
+nonsensical characters like `$%^&*`, for example, the drugged patient
 imagines he is reading some English word, like "above" or "stair," as if the
 typographical characters were meaningful. As far as the patient is concerned,
 he is reading. All the structural attributes of the action are there---the
 proper region of his brain is receiving stimulation; he follows the text with
 his eyes from left to right; and silently mouths the words. But this too is
-unacceptible: the patient merely imagines that he is reading
+unacceptable: the patient merely imagines that he is reading
 [@wittgenstein_blue_1965, 122].
 
 In this way, neither the internal nor the external descriptions of the action
@@ -402,43 +403,73 @@ happens in the head and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein
 explains that:
 
 > In the consideration of our problems one of the most dangerous ideas is the
-> idea that we think with, or in, our heads [...] "Thinking takes place in the
-> head" really means only "the head is connected with thinking."---Of course
+> idea that we think with, or in, our heads [...] 'Thinking takes place in the
+> head" really means only 'the head is connected with thinking."---Of course
 > one says also 'I think with my pen' and this localization is at least as good
 > [@wittgenstein_blue_1965, 116].
 
-In refusing to resolve the tension between functional (behaviorist) and formal
-(structuralist) accounts of cognition, Wittgenstein's thought experiments
-suggest a model of textual activity that sees reading and writing as a movement
-and a correspondence between innate mental structures their external,
-media-bound representation.
+In refusing to resolve the tension between functional (and behaviorist) and
+formal (and structuralist) accounts of cognition, Wittgenstein's thought
+experiments suggest a model of textual activity that sees reading and writing
+as a movement between innate mental structures their external, media-bound
+representations.  Although Wittgenstein does not see it in these terms, reading
+and writing for him happens at the interface of mental and physical boundaries.
+Reading and writing proper, involve a measure of correspondence between mind
+states and paper and ink states.
 
-and externalized paper- an ink-states, 
+To have read a book involves facility with the text: in the way its structure
+can, with much practice and repetition, become readily available to the "mind's
+eye." I "see" a particular thought or image in relationship to the rest of the
+structure. What was then a series of unrelated vignettes, becomes a part of a
+whole. But the structure is not mental only: I have a "feeling" about the
+location of a thought on paper. The cognitive facility with the work as a
+mental construct accompanies a practical facility with the text as a physical
+artifact. But that mental facility of "having read something" is also severely
+curtailed by the limits of human cognitive apparatus. Even after teaching the
+same text for several decades, I have to "refresh" my knowledge of its
+contents. This sort of knowledge becomes easier with repetition, but I am also
+painfully aware of its impermanence. And fundamentally, the knowledge in my
+"mind's eye" constitutes a small fraction of the things I know "ready at hand."
+Most things that I know and have read are available to me on my book shelves,
+in my notebooks, and on my hard drives. I do not know them in a sense of
+remembering them---I know them in the sense of being able to find the
+information, to access it when needed, to evaluate sources, and recall my past
+(formed) reactions. And I suspect that most knowledge comes to me in that
+externalized form. The amount of ideas accessible to me "at hand" must vastly
+outnumber the ideas in the "mind's eye." The hand and the inner eye work
+together to enter into what Barbara Herrnstein Smith calls "a circuit of
+reciprocal effectivity" [@smith_belief_1997, 54], except, in this case, both
+the speaker and the listener, reader and writer, are found in one of the same
+person.
 
-What does it mean to "know" something? Extended cognition. Pen, typewriter, and
-word processor (with detours to Kittler and Heidegger). Writing together.
-Models of co-authorship (and why we should pay attention).  The massively
-multi-authored online novel (*Wu Ming* and *Lo zar non è morto*).
+Friedrich Nietzsche spoke of the modern man who "drags around with him a huge
+quantity of indigestible stones of knowledge." For Nietzsche the modern
+conditions is defined by a profound incongruence between "interior" and
+"exterior" [@nietzsche_untimely_1997, 78]. He writes, "We moderns, have nothing
+whatever of our own; only by replenishing and cramming ourselves with the ages,
+customs, arts, philosophies, religions, discoveries of others do we become
+anything worthy of notice, that is to say walking encyclopedias." These
+encyclopedias he calls "handbook[s] of inward culture for outward barbarians"
+[@nietzsche_untimely_1997, 79]. Nietzsche's metaphor is one of cultural
+"indigestion." The rocks that rattle within represent the detritus knowledge
+that is not somehow fully assimilated into the individual psyche. In this
+Nietzsche mirrors the concern of Plato's *Phaedrus*, in which Thamus, the king
+of Thebes, is shown to be weary of such externalized, undigested knowledge.
+Responding to Theuth, the great god-inventor who brought Egyptians the gifts of
+arithmetic, geometry, astronomy, draughts, and writing among other things, 
+the king worries that:
 
-What does it mean to know something? What does it mean to have read a book?
-
-Brinkley Messick The Calligraphic State.
-
-> Modern man finally drags a huge crowd of indigestible rocks of knowledge around
-with him, which then occasionally audibly bang around in his body, as it says
-in fairy tales. Through this noise the most characteristic property of this
-modern man reveals itself: the remarkable contrast between an inside to which
-nothing on the outside corresponds and an outside to which nothing inside
-corresponds, a opposition of which ancient peoples were ignorant. Knowledge,
-taken up to excess without hunger, even in opposition to any need, now works no
-longer as a motive which reshapes and has a drive toward the outside. It stays
-hidden in a certain chaotic inner world, which that modern man describes with a
-strange pride as an “Inwardness” peculiar to him. Thus, people say that we have
-the content and that only the form is lacking.
-
-On the Use and Abuse of History for Life
-Friedrich Nietzsche
-(Find a better source)
+will create forgetfulness in the learners' souls, because they will not use
+their memories; they will trust to the external written characters and not
+remember of themselves. The specific which you have discovered is an aid not to
+memory, but to reminiscence, and you give your disciples not truth, but only
+the semblance of truth; they will be hearers of many things and will have
+learned nothing; they will appear to be omniscient and will generally know
+nothing; they will be tiresome company, having the show of wisdom without the
+reality.  "You Lionel Trilling has described this reoccurring sentiment as "the
+sense of something intervening between man and his own organic endowment," and
+considered it "a powerful element in the modern consciousness, an overt and
+exigent issue in our culture." 12
 
 The flattening of the knowledge realm. It is not the absence of topography. It
 is our ability to readily perceive topography, and to place ourselves within
@@ -449,26 +480,19 @@ actually quite understandable. Incommensurability of subjective experience.
 Commensurability of knowledge. The fundamental problem of modern world is the
 problem of expertise.
 
-Enlightenment as mass deception by Adorno.
+Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
+cognition. Effect on the study of literature.
 
-Problems with Handwriting. Teaching children how to "write". Typing vs.
-handwriting.
-
-The belief that the organic is the chief criterion of what is authentic in art
-and life continues, it need hardly be said, to have great force with us, the
-more as we become alarmed by the deterioration of the organic environment. The
-sense of something intervening between man and his own organic endowment is a
-powerful element in the modern consciousness, an overt and exigent issue in our
-culture.1 That technologies of the written word are somehow corrupting our
-native cognitive capabilities, that we are becoming dependent on externalized
+That technologies of the written word are somehow corrupting our native
+cognitive capabilities, that we are becoming dependent on externalized
 cognitive aids, and that such dependence has wide-ranging social repercussions,
 are worries that have permeated the popular culture since the days of Socrates.
 "I see within us all (myself included) the replacement of complex inner density
 with a new kind of self," Richard Foreman writes in an essay that accompanied
-his play The Pancake People. This new self is shallow, containing "less and
+his play *The Pancake People*. This new self is shallow, containing "less and
 less of an inner repertory of dense cultural inheritance."2 Nicholas Carr
 echoes these words in his recent article for the Atlantic Monthly, writing:
-"Over the past few years I’ve had an uncomfortable sense that someone, or
+"Over the past few years I've had an uncomfortable sense that someone, or
 something, has been tinkering with my brain, remapping the neural circuitry,
 reprogramming the memory." "The deep reading that used to come naturally has
 become a struggle," Carr concludes in an article which asks whether Google is
@@ -482,25 +506,14 @@ unleash our creativity and improve our health," and ultimately "change what it
 means to be human."4 "The era of total recall is dawning," write Bell and
 Gemmell:
 
-You may embrace full-scale “life logging,” and devote much effort to maximizing
-your e-memories, or you may prefer to record your activities only modestly and
-selectively, or even reject the whole idea and strive to leave as small a
-digital life-footprint as possible [...] Whether you are an early adopter, a
-late adopter, or a never-in-a-million-years nonadopter, society at large is on
-an inexorable path toward Total Recall technology and it is going to transform
-the world around you. The power of this transformation will be awesome.5
-
-Regardless of your position in this on-going debate between the skeptics and
-the cheerleaders of new technology, it is important to note that both camps
-make some implicit assumptions about the role of technology in human
-development. Both arguments contain an implicit model of the mind, by which
-certain extra-corporeal prosthetic tools are seen to extend or diminish the
-mind's natural intellectual capabilities. The purpose of this chapter is to
-explore this thesis in a more formal way, first by summarizing the hypothesis
-of extended cognition, advanced recently by several prominent philosophers of
-mind, and second to contextualize that hypothesis historically, in order to
-test the philosophical intuitions implicit in the conversation against
-real-world experience.
+> You may embrace full-scale "life logging," and devote much effort to
+> maximizing your e-memories, or you may prefer to record your activities only
+> modestly and selectively, or even reject the whole idea and strive to leave
+> as small a digital life-footprint as possible [...] Whether you are an early
+> adopter, a late adopter, or a never-in-a-million-years nonadopter, society at
+> large is on an inexorable path toward Total Recall technology and it is going
+> to transform the world around you. The power of this transformation will be
+> awesome.5
 
 The Hypothesis of Extended Cognition (HEC) The hypothesis of extended cognition
 (HEC) holds that certain cognitive processes can be viewed as extending beyond
@@ -687,8 +700,7 @@ mental development, in the traditional sense.
 
 ### 4.4 Home (Case Study)
 
-
-Othe domestic space has always been, in some sense, an archival domain. The
+The domestic space has always been, in some sense, an archival domain. The
 book shelf, the pantry, the wall, and the mantle: these are the locations where
 the family imposes private order, organizes its material life, and into which
 it secretes its memories, preserving and curating artifacts from its own pest.
@@ -722,6 +734,11 @@ Turn towards personal computing.
 It is tempting to think that alienation come from phase one. Human
 displacement from the hand. Some notion of analog as natural and digital as
 artificial
+
+The belief that the organic is the chief criterion of what is authentic in art
+and life continues, it need hardly be said, to have great force with us, the
+more as we become alarmed by the deterioration of the organic environment
+[trilling].
 
 The passage between thought and its physical manifestation, whether
 intra-cranial, as a configuration of neurons and synapses, or external, as a
