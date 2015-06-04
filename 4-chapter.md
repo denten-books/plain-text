@@ -18,7 +18,7 @@ header-includes:
 ---
 
 ## Chapter 4: Recursive Encounters with Oneself
-`document, vector, archive, media being`
+`reading, writing, home, media being`
 
 ### 4.1 Librarians of Self
 
@@ -408,13 +408,13 @@ explains that:
 > one says also 'I think with my pen' and this localization is at least as good
 > [@wittgenstein_blue_1965, 116].
 
-In refusing to resolve the tension between functional (and behaviorist) and
-formal (and structuralist) accounts of cognition, Wittgenstein's thought
+In refusing to resolve the tension between functional (or behaviorist) and
+formal (or structuralist) accounts of cognition, Wittgenstein's thought
 experiments suggest a model of textual activity that sees reading and writing
 as a movement between innate mental structures their external, media-bound
-representations.  Although Wittgenstein does not see it in these terms, reading
+representations. Although Wittgenstein does not see it in these terms, reading
 and writing for him happens at the interface of mental and physical boundaries.
-Reading and writing proper, involve a measure of correspondence between mind
+Reading and writing proper involve a measure of correspondence between mind
 states and paper-and-ink states.
 
 To have read a book involves facility with the text: in the way its structure
@@ -480,19 +480,41 @@ with a new kind of self," Richard Foreman writes in an essay that accompanies
 his play *The Pancake People*. This new self is shallow, containing "less and
 less of an inner repertory of dense cultural inheritance"
 [@foreman_pancake_2005]. Nicholas Carr echoes these words in his widely-cited
-2008 article for the *Atlantic Monthly*, writing: "Over the past few years I've
-had an uncomfortable sense that someone, or something, has been tinkering with
-my brain, remapping the neural circuitry, reprogramming the memory." "The deep
-reading that used to come naturally has become a struggle," Carr concludes in
-an article which asks whether online search engines are making us stupid
-[@carr_is_2008].
+2008 article for the *Atlantic Monthly*, writing that "over the past few years
+I've had an uncomfortable sense that someone, or something, has been tinkering
+with my brain, remapping the neural circuitry, reprogramming the memory." "The
+deep reading that used to come naturally has become a struggle," Carr writes
+and concludes to suggest that online search engines are making us stupid
+[@carr_is_2008]. Lionel Trilling has described this reoccurring "anxiety about
+the machine" as "the sense of something intervening between man and his own
+organic endowment," and considered it "a powerful element in the modern
+consciousness, an overt and exigent issue in our culture"
+[@trilling_sincerity_1972, 127-8]. I construct this brief genealogy of
+technological skepticism of a particular kind to note that all of the above
+examples contains within them a model of inner "natural mind" and its
+relationship with technologies of externalized cognitive augmentation.
 
-"You Lionel Trilling has described this reoccurring sentiment as "the
-sense of something intervening between man and his own organic endowment," and
-considered it "a powerful element in the modern consciousness, an overt and
-exigent issue in our culture" [@trilling_sincerity_1972, 127-8].
+In thinking of cognitive structures inside and outside the natural boundaries
+of the brain, Nietzsche and Wittgenstein anticipate a late-twentieth century
+turn towards "extended cognition" in the fields of psychology, cognitive
+studies, and most relevantly for this book, in the field of human-computer
+interaction (HCI). Donald Norman, a prominent figure in HCI, traces the concern
+with what he calls "cognitive artifacts" to the work of the German
+physiologist, Willhelm Wundt (1832--1920 who, among other ideas, pioneered the
+notion of "folk psychology [@norman_designing_1991, 3]" in the early 1910s.
+Wundt himself credits the creation of "folk psychology" to Moritz Lazarus
+(1824--1903) and Heymann Steinthal (1823--99), philosophers and philologists of
+an earlier generation, both now forgotten for the most part. In their
+programmatic 1860 introduction to the first issue of *Journal for Linguistics
+and Folk Psychology* (*Zeitschrift für Völkerpsychologie und
+Sprachwissenschaft*), Lazarus and Steinthal declare a new discipline of study
+which combines "physical" and "mental ehtnology" [@lazarus_einleitende_1860, 1].
 
-Wittgenstein. Wundt. Vygotsky and Luria.
+[^ln4-stein]: See also @kalmar_volkerpsychologie_1987 and
+@diriwachter_volkerpsychologie_2004.
+
+. Wundt. Vygotsky and Luria.
+
 Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
 cognition. Effect on the study of literature.
 
@@ -504,7 +526,6 @@ cutting people up. That part does not transfer. The technical literature is
 actually quite understandable. Incommensurability of subjective experience.
 Commensurability of knowledge. The fundamental problem of modern world is the
 problem of expertise.
-
 
 
 The Hypothesis of Extended Cognition (HEC) The hypothesis of extended cognition
