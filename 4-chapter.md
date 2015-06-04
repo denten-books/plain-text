@@ -377,8 +377,8 @@ fact no such mechanisms are known to us in these cases"
 insufficient to describe reading definitively. Here, Wittgenstein asks us to
 imagine a person under the influence of drugs who is shown a set of discrete
 strings composed of nonsensical characters. When shown some random string of
-nonsensical characters like `$%^&*`, for example, the drugged patient
-imagines he is reading some English word, like "above" or "stair," as if the
+nonsensical characters like `$%^&*`, for example, the drugged patient imagines
+he is reading some English word, like "above" or "stair," as if the
 typographical characters were meaningful. As far as the patient is concerned,
 he is reading. All the structural attributes of the action are there---the
 proper region of his brain is receiving stimulation; he follows the text with
@@ -415,7 +415,7 @@ as a movement between innate mental structures their external, media-bound
 representations.  Although Wittgenstein does not see it in these terms, reading
 and writing for him happens at the interface of mental and physical boundaries.
 Reading and writing proper, involve a measure of correspondence between mind
-states and paper and ink states.
+states and paper-and-ink states.
 
 To have read a book involves facility with the text: in the way its structure
 can, with much practice and repetition, become readily available to the "mind's
@@ -453,23 +453,48 @@ encyclopedias he calls "handbook[s] of inward culture for outward barbarians"
 [@nietzsche_untimely_1997, 79]. Nietzsche's metaphor is one of cultural
 "indigestion." The rocks that rattle within represent the detritus knowledge
 that is not somehow fully assimilated into the individual psyche. In this
-Nietzsche mirrors the concern of Plato's *Phaedrus*, in which Thamus, the king
-of Thebes, is shown to be weary of such externalized, undigested knowledge.
+Nietzsche mirrors the concern of Plato's *Phaedrus*, where Thamus, the king of
+Thebes, is shown to be weary of all such externalized, undigested knowledge.
 Responding to Theuth, the great god-inventor who brought Egyptians the gifts of
-arithmetic, geometry, astronomy, draughts, and writing among other things, 
-the king worries that:
+arithmetic, geometry, astronomy, draughts, and writing among other arts, the
+king worries that writing in particular will harm rather than help his people.
+When it came to letters, Thamus comments:
 
-will create forgetfulness in the learners' souls, because they will not use
-their memories; they will trust to the external written characters and not
-remember of themselves. The specific which you have discovered is an aid not to
-memory, but to reminiscence, and you give your disciples not truth, but only
-the semblance of truth; they will be hearers of many things and will have
-learned nothing; they will appear to be omniscient and will generally know
-nothing; they will be tiresome company, having the show of wisdom without the
-reality.  "You Lionel Trilling has described this reoccurring sentiment as "the
+> Most ingenious Theuth [...] the father of letters, [you] have been led by
+your affection to ascribe to them a power the opposite of that which they
+really possess. For this invention will produce forgetfulness in the minds of
+those who learn to use it, because they will not practise their memory. Their
+trust in writing, produced by external characters which are no part of
+themselves, will discourage the use of their own memory within them. You have
+invented an elixir not of memory, but of reminding; and you offer your pupils
+the appearance  of wisdom, not true wisdom for they will read many things
+without instruction and will therefore seem to know many things, when they are
+for the most part ignorant [...] [@plato_plato:_1999, 563-4].
+
+That technologies of the written word are somehow corrupting our native
+cognitive capabilities, that we are becoming dependent on externalized
+cognitive aids, and that such dependence has wide-ranging social repercussions,
+are worries that have permeated the popular culture since the days of Socrates.
+"I see within us all (myself included) the replacement of complex inner density
+with a new kind of self," Richard Foreman writes in an essay that accompanies
+his play *The Pancake People*. This new self is shallow, containing "less and
+less of an inner repertory of dense cultural inheritance"
+[@foreman_pancake_2005]. Nicholas Carr echoes these words in his widely-cited
+2008 article for the *Atlantic Monthly*, writing: "Over the past few years I've
+had an uncomfortable sense that someone, or something, has been tinkering with
+my brain, remapping the neural circuitry, reprogramming the memory." "The deep
+reading that used to come naturally has become a struggle," Carr concludes in
+an article which asks whether online search engines are making us stupid
+[@carr_is_2008].
+
+"You Lionel Trilling has described this reoccurring sentiment as "the
 sense of something intervening between man and his own organic endowment," and
 considered it "a powerful element in the modern consciousness, an overt and
-exigent issue in our culture." 12
+exigent issue in our culture" [@trilling_sincerity_1972, 127-8].
+
+Wittgenstein. Wundt. Vygotsky and Luria.
+Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
+cognition. Effect on the study of literature.
 
 The flattening of the knowledge realm. It is not the absence of topography. It
 is our ability to readily perceive topography, and to place ourselves within
@@ -480,40 +505,7 @@ actually quite understandable. Incommensurability of subjective experience.
 Commensurability of knowledge. The fundamental problem of modern world is the
 problem of expertise.
 
-Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
-cognition. Effect on the study of literature.
 
-That technologies of the written word are somehow corrupting our native
-cognitive capabilities, that we are becoming dependent on externalized
-cognitive aids, and that such dependence has wide-ranging social repercussions,
-are worries that have permeated the popular culture since the days of Socrates.
-"I see within us all (myself included) the replacement of complex inner density
-with a new kind of self," Richard Foreman writes in an essay that accompanied
-his play *The Pancake People*. This new self is shallow, containing "less and
-less of an inner repertory of dense cultural inheritance."2 Nicholas Carr
-echoes these words in his recent article for the Atlantic Monthly, writing:
-"Over the past few years I've had an uncomfortable sense that someone, or
-something, has been tinkering with my brain, remapping the neural circuitry,
-reprogramming the memory." "The deep reading that used to come naturally has
-become a struggle," Carr concludes in an article which asks whether Google is
-making us stupid.3 And yet, many also instinctively believe that technology is
-working in exactly the opposite direction: that it expands, rather than
-contracts human possibilities. In a recent bestseller promoted by the likes of
-Bill Gates and Nicholas Negroponte, the authors and Microsoft researchers
-Gordon Bell and Jim Gemmell write about the era of total recall—a time when the
-advances in computer technology will "change the way we work and learn [...]
-unleash our creativity and improve our health," and ultimately "change what it
-means to be human."4 "The era of total recall is dawning," write Bell and
-Gemmell:
-
-> You may embrace full-scale "life logging," and devote much effort to
-> maximizing your e-memories, or you may prefer to record your activities only
-> modestly and selectively, or even reject the whole idea and strive to leave
-> as small a digital life-footprint as possible [...] Whether you are an early
-> adopter, a late adopter, or a never-in-a-million-years nonadopter, society at
-> large is on an inexorable path toward Total Recall technology and it is going
-> to transform the world around you. The power of this transformation will be
-> awesome.5
 
 The Hypothesis of Extended Cognition (HEC) The hypothesis of extended cognition
 (HEC) holds that certain cognitive processes can be viewed as extending beyond
@@ -594,6 +586,49 @@ something like a head, a tail, and a belly: cockpit windows where we would
 expect eyes, and a hole where we would expect to see an anus. It is thus easy
 to imagine this structure as sentient somehow. We may for example, say "it
 thinks, it sees," or "it eats" without much stretching of the imagination.
+
+
+http://word.mvps.org/faqs/general/wordvswordperfect.htm
+http://wptoolbox.com/tips/MSWordToWP.html
+modal vs. other kinds of processing 
+
+If are are to take the hypothesis of extended cognition seriously, we must
+treat the tools of cognitive augmentation as seriously as we would our own
+mental development, in the traditional sense.
+
+
+### 4.4 Home (Case Study)
+
+The domestic space has always been, in some sense, an archival domain. The
+book shelf, the pantry, the wall, and the mantle: these are the locations where
+the family imposes private order, organizes its material life, and into which
+it secretes its memories, preserving and curating artifacts from its own pest.
+In a chapter on immigrant domestic interiors, for example, Svetlana Boym writes
+about these typically Soviet curio cabinets, which present "once a fragmentary
+biography of the inhabitant and a display of collective memory"
+[@boym_future_2002, 334]. "If there had been such a thing as Soviet cultural
+unconscious," she writes in *Common Spaces*, it would have been structured like
+a communal apartment" [@boym_common_1995, 1610]. Similarly, in "Life at Home in
+the Twenty-First Century," a ground-breaking "ethnoarcheology" of contemporary
+American domestic space, a team of anthropologists (and a photographer)
+document, describe, and interpret the "domestic material worlds" of 32 Los
+Angeles families
+
+41 year old father.
+
+> Here is our life on the refrigerator and all the collection of photos and
+> magnets. And you know what? we go up to these pictures and the time and sort
+> of remark about who people are wand where we were and what we were doing and
+> how old people were [@arnold_life_2012, 51].
+
+"Assemblages of objects that families purposefully accumulate and arrange in
+them preserve and legitimize personal histories" [@arnold_life_2012, 161].
+
+Home, and home.
+
+Turn towards personal computing.
+
+### 4.5 Limits of Extension (Critique of HEC)
 
 Suppose then, instead of discussing a complex, high-level biological process
 such as cognition, we were to talk about digestion. The hypothesis of extended
@@ -689,45 +724,4 @@ be seen as participating in the cognitive task at hand. In embracing the
 extension hypothesis literally, we have traded metaphoric imprecision for the
 problem of arbitrary limits.
 
-http://word.mvps.org/faqs/general/wordvswordperfect.htm
-http://wptoolbox.com/tips/MSWordToWP.html
-modal vs. other kinds of processing 
-
-If are are to take the hypothesis of extended cognition seriously, we must
-treat the tools of cognitive augmentation as seriously as we would our own
-mental development, in the traditional sense.
-
-
-### 4.4 Home (Case Study)
-
-The domestic space has always been, in some sense, an archival domain. The
-book shelf, the pantry, the wall, and the mantle: these are the locations where
-the family imposes private order, organizes its material life, and into which
-it secretes its memories, preserving and curating artifacts from its own pest.
-In a chapter on immigrant domestic interiors, for example, Svetlana Boym writes
-about these typically Soviet curio cabinets, which present "once a fragmentary
-biography of the inhabitant and a display of collective memory"
-[@boym_future_2002, 334]. "If there had been such a thing as Soviet cultural
-unconscious," she writes in *Common Spaces*, it would have been structured like
-a communal apartment" [@boym_common_1995, 1610]. Similarly, in "Life at Home in
-the Twenty-First Century," a ground-breaking "ethnoarcheology" of contemporary
-American domestic space, a team of anthropologists (and a photographer)
-document, describe, and interpret the "domestic material worlds" of 32 Los
-Angeles families
-
-41 year old father.
-
-> Here is our life on the refrigerator and all the collection of photos and
-> magnets. And you know what? we go up to these pictures and the time and sort
-> of remark about who people are wand where we were and what we were doing and
-> how old people were [@arnold_life_2012, 51].
-
-"Assemblages of objects that families purposefully accumulate and arrange in
-them preserve and legitimize personal histories" [@arnold_life_2012, 161].
-
-Home, and home.
-
-Turn towards personal computing.
-
-### 4.5 Limits of Extension (Critique of HEC)
 ### Works Cited

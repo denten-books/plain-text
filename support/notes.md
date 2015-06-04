@@ -96,6 +96,9 @@ Potential reviewers
     Gabriella Coleman
     Mark Grief
     Matt Burton offered to read.
+    Sany Boldwin
+    Lev Manovich
+    Rita Raley
 
 Send Book To
 ===========================
