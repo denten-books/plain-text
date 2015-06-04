@@ -502,31 +502,42 @@ interaction (HCI). Donald Norman, a prominent figure in HCI, traces the concern
 with what he calls "cognitive artifacts" to the work of the German
 physiologist, Willhelm Wundt (1832--1920 who, among other ideas, pioneered the
 notion of "folk psychology [@norman_designing_1991, 3]" in the early 1910s.
-Wundt himself credits the creation of "folk psychology" to Moritz Lazarus
-(1824--1903) and Heymann Steinthal (1823--99), philosophers and philologists of
-an earlier generation, both now forgotten for the most part. In their
-programmatic 1860 introduction to the first issue of *Journal for Linguistics
-and Folk Psychology* (*Zeitschrift für Völkerpsychologie und
-Sprachwissenschaft*), Lazarus and Steinthal declare a new discipline of study
-which combines "physical" and "mental ehtnology" [@lazarus_einleitende_1860, 1].
+Wundt himself credits the creation of "folk" or, better yet, "national
+psychology" (*Völkerpsychologie*) to Moritz Lazarus (1824--1903) and Heymann
+Steinthal (1823--99), German--Jewish philosophers and philologists of an
+earlier generation, both now forgotten for the most part. In their programmatic
+1860 introduction to the first issue of *Journal for Linguistics and Folk
+Psychology* (*Zeitschrift für Völkerpsychologie und Sprachwissenschaft*),
+Lazarus and Steinthal declare a new discipline of study which combines
+"physical" and "mental ehtnology" [@lazarus_einleitende_1860, 1]. In search of
+making the Hegelian notion of *Geist* more concrete, the authors separate the
+Hegelian spirit into what they call they call purely "mental elements," like
+views, convictions, opinions, thoughts and feelings, and "symbolic embodiments
+of thought," like art work, documents, literature, built structures of all
+kinds, and industrial products. These "contain the objectified spirit" in the
+narrow "transferred into an object," which then has the potential to "arouse
+subjective [mental] activity."[^ln4-stein]
 
-[^ln4-stein]: See also @kalmar_volkerpsychologie_1987 and
-@diriwachter_volkerpsychologie_2004.
+CITE THIS BETTER. From Einige syntetische Gedanke.
 
-. Wundt. Vygotsky and Luria.
+[^ln4-stein]: Translations are mine, but guided by similarly quoted passages in
+@kalmar_volkerpsychologie_1987 and @diriwachter_volkerpsychologie_2004.
+
+Much more work needs to be done to recover the intellectual legacy of Wundt,
+Lazarus, and  Steinthal. For now, note only that the texts quoted above already
+contain the kernel of the extended mind hypothesis. Norman, writing in the
+1990a traces a direct lineage between himself and Wundt through the Soviet
+social-historical schools of the 1920s, as reflected in the works of Leontev,
+Luria, and Vygotsky--not translated into English until late 1970s and early
+1980s.[^ln4-halbwachs]
+
+[^ln4-halbwachs]: To this one may add the related by still parallel
+intellectual genealogy that passes through Henri Bergson, Émile Durkheim, and
+Maurice Halbwachs to develop the related concept of "collective memory," so
+influential now in the field of cultural memory studies.
 
 Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
 cognition. Effect on the study of literature.
-
-The flattening of the knowledge realm. It is not the absence of topography. It
-is our ability to readily perceive topography, and to place ourselves within
-that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
-The surgeon should get more money because of the subjective experience of
-cutting people up. That part does not transfer. The technical literature is
-actually quite understandable. Incommensurability of subjective experience.
-Commensurability of knowledge. The fundamental problem of modern world is the
-problem of expertise.
-
 
 The Hypothesis of Extended Cognition (HEC) The hypothesis of extended cognition
 (HEC) holds that certain cognitive processes can be viewed as extending beyond
@@ -594,7 +605,7 @@ not thinking literally outside of his head. Like the man with the garden
 shears, he is using a tool to compliment the exercise of some internal,
 biological function. But it seems to me that this line of reasoning is simply
 begging the question. Adams and Aizawa merely appeal to a scientific standard
-of internalsim, where the scientific standard is precisely the thing that is
+of internalism, where the scientific standard is precisely the thing that is
 being called into question. One gets the sneaking suspicion that the argument
 is really about definitions, with one side appealing to common sense and the
 other to scientific standards.11 My own suspicions about HEC rise from the
@@ -608,15 +619,22 @@ expect eyes, and a hole where we would expect to see an anus. It is thus easy
 to imagine this structure as sentient somehow. We may for example, say "it
 thinks, it sees," or "it eats" without much stretching of the imagination.
 
+Impact on the study of textual artifact. If are are to take the hypothesis of
+extended cognition seriously, we must treat the tools of cognitive augmentation
+as seriously as we would our own mental development, in the traditional sense.
+
+The flattening of the knowledge realm. It is not the absence of topography. It
+is our ability to readily perceive topography, and to place ourselves within
+that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
+The surgeon should get more money because of the subjective experience of
+cutting people up. That part does not transfer. The technical literature is
+actually quite understandable. Incommensurability of subjective experience.
+Commensurability of knowledge. The fundamental problem of modern world is the
+problem of expertise.
 
 http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
 modal vs. other kinds of processing 
-
-If are are to take the hypothesis of extended cognition seriously, we must
-treat the tools of cognitive augmentation as seriously as we would our own
-mental development, in the traditional sense.
-
 
 ### 4.4 Home (Case Study)
 
