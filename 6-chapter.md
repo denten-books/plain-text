@@ -16,12 +16,21 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity`
 
-### Marx and Robots
+Cleartext in encryption. The Circle. PARITY of encryption.
+http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
+
+The debate over encryption erupted on Capitol Hill again Wednesday, with an FBI
+official testifying that law enforcement's challenge is working with tech
+companies "to build technological solutions to prevent encryption above all
+else."
+
+### Marx and Robots 
+
 ### 4.5 Human Revealment (Heidegger + Conclusion)
 
-It is tempting to think that alienation come from phase one. Human
-displacement from the hand. Some notion of analog as natural and digital as
-artificial
+
+It is tempting to think that alienation come from phase one. Human displacement
+from the hand. Some notion of analog as natural and digital as artificial
 
 The belief that the organic is the chief criterion of what is authentic in art
 and life continues, it need hardly be said, to have great force with us, the
@@ -135,11 +144,10 @@ in the examining the artifact, but in examining the artifact in action. Only in
 action can we observe the momentary unity between the literary, the cognitive,
 and the artifactual.
 
-"A text editor is often the primary interface
-between a user and the system, and the program with which most user time is
-spent. Accordingly, an editor has to be easy to use, and efficient of the
-user's time---editing commands have to 'flow off the fingertips.'"
-[@kernighan_unix_1978, 2117].
+"A text editor is often the primary interface between a user and the system,
+and the program with which most user time is spent. Accordingly, an editor has
+to be easy to use, and efficient of the user's time---editing commands have to
+'flow off the fingertips.'" [@kernighan_unix_1978, 2117].
 
 Containing an argument for text as an interface between human and machine.
 History of combinatorial languages and logic.  Stack as a model of
@@ -488,6 +496,7 @@ the rigidity in cultural categories (epistemology).
 
 Collection. Information hoarding. Owning the book. Vs. owning the title of the
 book. Related to knowing something.
+
 
 
 
