@@ -421,26 +421,26 @@ To have read a book involves facility with the text: in the way its structure
 can, with much practice and repetition, become readily available to the "mind's
 eye." I "see" a particular thought or image in relationship to the rest of the
 structure. What was then a series of unrelated vignettes, becomes a part of a
-whole. But the structure is not mental only: I have a "feeling" about the
-location of a thought on paper. The cognitive facility with the work as a
-mental construct accompanies a practical facility with the text as a physical
-artifact. But that mental facility of "having read something" is also severely
-curtailed by the limits of human cognitive apparatus. Even after teaching the
-same text for several decades, I have to "refresh" my knowledge of its
-contents. This sort of knowledge becomes easier with repetition, but I am also
-painfully aware of its impermanence. And fundamentally, the knowledge in my
-"mind's eye" constitutes a small fraction of the things I know "ready at hand."
-Most things that I know and have read are available to me on my book shelves,
-in my notebooks, and on my hard drives. I do not know them in a sense of
-remembering them---I know them in the sense of being able to find the
-information, to access it when needed, to evaluate sources, and recall my past
-(formed) reactions. And I suspect that most knowledge comes to me in that
-externalized form. The amount of ideas accessible to me "at hand" must vastly
-outnumber the ideas in the "mind's eye." The hand and the inner eye work
-together to enter into what Barbara Herrnstein Smith calls "a circuit of
-reciprocal effectivity" [@smith_belief_1997, 54], except, in this case, both
-the speaker and the listener, reader and writer, are found in one of the same
-person.
+whole. That structure structure is not in the mind alone: I have a "feeling"
+about the location of a thought on paper. The cognitive facility with the work
+as a mental construct accompanies a practical facility with the text as a
+physical artifact. The mental facility of "having read something" is however
+severely curtailed by the limits of human cognitive apparatus. Even after
+teaching the same text for several decades, I have to "refresh" my knowledge of
+its contents. This sort of knowledge becomes easier with repetition, but I am
+also painfully aware of its impermanence. And fundamentally, the knowledge in
+my "mind's eye" constitutes a small fraction of the things I know "ready at
+hand." Most things that I know and have read are available to me on my book
+shelves, in my notebooks, online, and on my hard drives. I do not know them in
+a sense of remembering them---I know them in the sense of being able to find
+the information, to access it when needed, to evaluate sources, and recall my
+past (formed) reactions. And I suspect that most things I know and have read
+come to me in that externalized form. The amount of ideas accessible to me "at
+hand" must vastly outnumber the ideas in the "mind's eye." The hand and the
+inner eye work together to enter into what Barbara Herrnstein Smith calls "a
+circuit of reciprocal effectivity" [@smith_belief_1997, 54], except, in this
+case, both the speaker and the listener, reader and writer, are found in one of
+the same person.
 
 Friedrich Nietzsche spoke of the modern man who "drags around with him a huge
 quantity of indigestible stones of knowledge." For Nietzsche the modern
@@ -451,14 +451,14 @@ customs, arts, philosophies, religions, discoveries of others do we become
 anything worthy of notice, that is to say walking encyclopedias." These
 encyclopedias he calls "handbook[s] of inward culture for outward barbarians"
 [@nietzsche_untimely_1997, 79]. Nietzsche's metaphor is one of cultural
-"indigestion." The rocks that rattle within represent the detritus knowledge
+"indigestion." The rocks that rattle within represent the detritus of knowledge
 that is not somehow fully assimilated into the individual psyche. In this
 Nietzsche mirrors the concern of Plato's *Phaedrus*, where Thamus, the king of
-Thebes, is shown to be weary of all such externalized, undigested knowledge.
-Responding to Theuth, the great god-inventor who brought Egyptians the gifts of
-arithmetic, geometry, astronomy, draughts, and writing among other arts, the
-king worries that writing in particular will harm rather than help his people.
-When it came to letters, Thamus comments:
+Thebes, is shown to be weary of not fully internalized and undigested
+knowledge. Responding to Theuth, the great god-inventor who brought Egyptians
+the gifts of arithmetic, geometry, astronomy, draughts, and writing among other
+arts, the king worries that writing in particular will harm rather than help
+his people.  When it came to letters, Thamus comments:
 
 > Most ingenious Theuth [...] the father of letters, [you] have been led by
 your affection to ascribe to them a power the opposite of that which they
@@ -472,56 +472,99 @@ without instruction and will therefore seem to know many things, when they are
 for the most part ignorant [...] [@plato_plato:_1999, 563-4].
 
 That technologies of the written word are somehow corrupting our native
-cognitive capabilities, that we are becoming dependent on externalized
-cognitive aids, and that such dependence has wide-ranging social repercussions,
-are worries that have permeated the popular culture since the days of Socrates.
-"I see within us all (myself included) the replacement of complex inner density
-with a new kind of self," Richard Foreman writes in an essay that accompanies
-his play *The Pancake People*. This new self is shallow, containing "less and
-less of an inner repertory of dense cultural inheritance"
-[@foreman_pancake_2005]. Nicholas Carr echoes these words in his widely-cited
-2008 article for the *Atlantic Monthly*, writing that "over the past few years
-I've had an uncomfortable sense that someone, or something, has been tinkering
-with my brain, remapping the neural circuitry, reprogramming the memory." "The
-deep reading that used to come naturally has become a struggle," Carr writes
-and concludes to suggest that online search engines are making us stupid
+cognitive capabilities, that the humanity (in certain parts of the world, that
+is) is becoming dependent on externalized cognitive aids, and that such
+dependence has wide-ranging social repercussions, are worries that have
+permeated Western popular culture since the days of Socrates. "I see within us
+all (myself included) the replacement of complex inner density with a new kind
+of self," Richard Foreman writes in an essay that accompanies his play *The
+Pancake People*. This new self is shallow, containing "less and less of an
+inner repertory of dense cultural inheritance" [@foreman_pancake_2005].
+Nicholas Carr echoes these words in his widely-cited 2008 article for the
+*Atlantic Monthly*, writing that "over the past few years I've had an
+uncomfortable sense that someone, or something, has been tinkering with my
+brain, remapping the neural circuitry, reprogramming the memory." "The deep
+reading that used to come naturally has become a struggle," Carr writes and
+concludes to suggest that online search engines are making us stupid
 [@carr_is_2008]. Lionel Trilling has described this reoccurring "anxiety about
 the machine" as "the sense of something intervening between man and his own
 organic endowment," and considered it "a powerful element in the modern
 consciousness, an overt and exigent issue in our culture"
 [@trilling_sincerity_1972, 127-8]. I construct this brief genealogy of
 technological skepticism of a particular kind to note that all of the above
-examples contains within them a model of inner "natural mind" and its
-relationship with technologies of externalized cognitive augmentation.
+example contains within them a bifurcated model, that puts some notion of inner
+"natural mind" into an often problematic relationship with technologies of
+externalized cognitive augmentation.
 
-In thinking of cognitive structures inside and outside the natural boundaries
-of the brain, Nietzsche and Wittgenstein anticipate a late-twentieth century
-turn towards "extended cognition" in the fields of psychology, cognitive
-studies, and most relevantly for this book, in the field of human-computer
-interaction (HCI). Donald Norman, a prominent figure in HCI, traces the concern
-with what he calls "cognitive artifacts" to the work of the German
-physiologist, Willhelm Wundt (1832--1920 who, among other ideas, pioneered the
-notion of "folk psychology [@norman_designing_1991, 3]" in the early 1910s.
-Wundt himself credits the creation of "folk" or, better yet, "national
-psychology" (*Völkerpsychologie*) to Moritz Lazarus (1824--1903) and Heymann
-Steinthal (1823--99), German--Jewish philosophers and philologists of an
-earlier generation, both now forgotten for the most part. In their programmatic
-1860 introduction to the first issue of *Journal for Linguistics and Folk
-Psychology* (*Zeitschrift für Völkerpsychologie und Sprachwissenschaft*),
-Lazarus and Steinthal declare a new discipline of study which combines
-"physical" and "mental ehtnology" [@lazarus_einleitende_1860, 1]. In search of
-making the Hegelian notion of *Geist* more concrete, the authors separate the
-Hegelian spirit into what they call they call purely "mental elements," like
-views, convictions, opinions, thoughts and feelings, and "symbolic embodiments
-of thought," like art work, documents, literature, built structures of all
-kinds, and industrial products. These "contain the objectified spirit" in the
-narrow "transferred into an object," which then has the potential to "arouse
-subjective [mental] activity."[^ln4-stein]
+In thinking of cognitive structures inside and outside the natural brain-bound
+limits of the mind, Nietzsche and Wittgenstein anticipate a late-twentieth
+century turn towards "extended" and "situated" cognition in the fields of
+psychology, cognitive studies, and most relevantly for this book, in the field
+of human-computer interaction (HCI). Donald Norman, a prominent figure in HCI,
+traces the concern with what he calls "cognitive artifacts" to the work of the
+German physiologist, Willhelm Wundt (1832--1920 who, among other ideas,
+pioneered the notion of "folk psychology [@norman_designing_1991, 3]" in the
+early 1910s. Wundt himself credits the creation of "folk" or, better yet,
+"ethno-" or "cultural psychology (*Völkerpsychologie*) to Moritz Lazarus
+(1824--1903) and Heymann Steinthal (1823--99), German--Jewish philosophers and
+philologists of an earlier generation, both now for the most part forgotten in
+this lineage [@danziger_origins_1983].
 
-CITE THIS BETTER. From Einige syntetische Gedanke.
+In their programmatic 1860 introduction to the first issue of *Journal for
+Linguistics and Folk Psychology* (*Zeitschrift für Völkerpsychologie und
+Sprachwissenschaft*), Lazarus and Steinthal declare a new discipline of study
+which combines "physical" and "mental ehtnology" [@lazarus_einleitende_1860,
+1]. Elsewhere, in search of making the Hegelian notion of *Geist* more
+concrete, the authors separate the Hegelian spirit into what they call they
+call purely "mental elements," like views, convictions, opinions, thoughts and
+feelings, and "symbolic embodiments of thought," like art work, documents,
+literature, built structures of all kinds, and industrial products. These
+"contain the objectified spirit in the narrow sense," as "*Geist* transferred
+into an object," which then has the potential to "arouse subjective [mental]
+activity."[^ln4-stein] In this way, "the movement of ideas includes an organic
+system for the generation of intellectual tools [*Erzeugung von geistigen
+Werkzeugen*], which help and reinforce one another" [@lazarus_einleitende_1860,
+18]. In this light, cultural psychology emerges as a "third science" between
+natural sciences and history, "mediating" between universal law and individual
+human freedom [@lazarus_einleitende_1860, 19]. For Lazarus and Steinthal,
+cultural psychology offers something like a "physiology of human history." In
+contrast to the prevailing racial and Darwinist explanations of historical
+process, which arranged cultures along a hierarchical evolutionary line (with
+Western civilization at its pinnacle),[^ln4-kalmar] the authors view national
+psychology as a historically-contingent and neutral interplay between
+individual mental states and externalized, common, material representations of
+spiritual life [*Darstellung des geistigen Inhaltes*].
 
-[^ln4-stein]: Translations are mine, but guided by similarly quoted passages in
-@kalmar_volkerpsychologie_1987 and @diriwachter_volkerpsychologie_2004.
+[^ln4-kalmar]: The anthropologist Ivan Kalmar calls this view "ethnocentric
+evolutionism" [@kalmar_volkerpsychologie_1987, 680].
+
+In the twenty volumes of the journal's existence, Lazarus and Steinthal wrote
+several programmatic pieces similar to the ones quoted above, but, perhaps due
+to their marginalized academic status, they rarely had the chance to put the
+proposed research program into practice. Their legacy remains in the
+articulation of *Völkerpsychologie*, which points to a systematic study of both
+the social and the material aspects of shared mental life. Scholars involved in
+reconstructing the intellectual legacy of Lazarus and Steinthal usually
+emphasize the first of these directions, placing them early within an explicit
+lineage of social thought that connects to Georg Simmel, Max Weber, and Martin
+Buber on the German side, to the French sociology school of Émile Durkheim and
+Marcel Mauss, to the Soviet socio-linguistics of Alexander Veselovsky,
+Alexander Potebnja, Mikhail Bakhtin; to the collective psychology of Alexander
+Luria, Lev Vygotsky, and Kurt Lewin; and to the birth of anglo-American
+anthropology through Bronisła Malinowski Franz Boaz. Remarkably, all of these
+scholars, many of whom started significant intllectual schools of their own,
+mention the *Völkerpsychologie* of Lazarus, Steinthal, and Wundt as important
+early influences.
+
+, as proto-anthropologists or social scientists. In this way, the
+Canadian anthropologist Ivan Kalmar has argued that Steinhal and Lazarus
+anticipate some key aspects of Franz Boas, and particularly his emphasis on
+cultural pluralism.
+
+[^ln4-stein]: Translations are mine throughtout, referenced were appropriate
+with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
+@diriwachter_volkerpsychologie_2004.
+
 
 Much more work needs to be done to recover the intellectual legacy of Wundt,
 Lazarus, and  Steinthal. For now, note only that the texts quoted above already
