@@ -521,19 +521,21 @@ feelings, and "symbolic embodiments of thought," like art work, documents,
 literature, built structures of all kinds, and industrial products. These
 "contain the objectified spirit in the narrow sense," as "*Geist* transferred
 into an object," which then has the potential to "arouse subjective [mental]
-activity."[^ln4-stein] In this way, "the movement of ideas includes an organic
-system for the generation of intellectual tools [*Erzeugung von geistigen
-Werkzeugen*], which help and reinforce one another" [@lazarus_einleitende_1860,
-18]. In this light, cultural psychology emerges as a "third science" between
-natural sciences and history, "mediating" between universal law and individual
-human freedom [@lazarus_einleitende_1860, 19]. For Lazarus and Steinthal,
-cultural psychology offers something like a "physiology of human history." In
-contrast to the prevailing racial and Darwinist explanations of historical
-process, which arranged cultures along a hierarchical evolutionary line (with
-Western civilization at its pinnacle),[^ln4-kalmar] the authors view national
-psychology as a historically-contingent and neutral interplay between
-individual mental states and externalized, common, material representations of
-spiritual life [*Darstellung des geistigen Inhaltes*].
+activity" [@lazarus_einige_1865, 53-4].[^ln4-stein] In this way, "the movement
+of ideas includes an organic system for the generation of intellectual tools
+[*Erzeugung von geistigen Werkzeugen*], which help and reinforce one another"
+[@lazarus_einleitende_1860, 18]. In this light, cultural psychology emerges as
+a "third science" between natural sciences and history, "mediating" between
+universal law and individual human freedom [@lazarus_einleitende_1860, 19]. For
+Lazarus and Steinthal, cultural psychology offers something like a "physiology
+of human history." In contrast to the prevailing racial and Darwinist
+explanations of historical process, which arranged cultures along a
+hierarchical evolutionary pyramid (with Western civilization at its
+pinnacle),[^ln4-kalmar] the authors view national psychology as a
+historically-contingent and neutral interplay between individual mental states
+and externalized, common, material representations of spiritual life
+[*Darstellung des geistigen Inhaltes*] [@lazarus_einleitende_1860;
+@lazarus_einige_1865].
 
 [^ln4-kalmar]: The anthropologist Ivan Kalmar calls this view "ethnocentric
 evolutionism" [@kalmar_volkerpsychologie_1987, 680].
@@ -549,35 +551,34 @@ emphasize the first of these directions, placing them early within an explicit
 lineage of social thought that connects to Georg Simmel, Max Weber, and Martin
 Buber on the German side, to the French sociology school of Émile Durkheim and
 Marcel Mauss, to the Soviet socio-linguistics of Alexander Veselovsky,
-Alexander Potebnja, Mikhail Bakhtin; to the collective psychology of Alexander
-Luria, Lev Vygotsky, and Kurt Lewin; and to the birth of anglo-American
-anthropology through Bronisła Malinowski Franz Boaz. Remarkably, all of these
-scholars, many of whom started significant intllectual schools of their own,
-mention the *Völkerpsychologie* of Lazarus, Steinthal, and Wundt as important
-early influences.
-
-, as proto-anthropologists or social scientists. In this way, the
-Canadian anthropologist Ivan Kalmar has argued that Steinhal and Lazarus
-anticipate some key aspects of Franz Boas, and particularly his emphasis on
-cultural pluralism.
-
-[^ln4-stein]: Translations are mine throughtout, referenced were appropriate
-with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
-@diriwachter_volkerpsychologie_2004.
-
+Alexander Potebnja, Mikhail Bakhtin; and to the birth of Anglo-American
+anthropology through Bronisła Malinowski and Franz Boaz
+[@danziger_origins_1983; @kalmar_volkerpsychologie_1987; @kohnke_four_1990;
+@greenwood_volkerpsychologie_1999; @diriwachter_volkerpsychologie_2004].
+Remarkably, all of these scholars, many of whom started significant
+intellectual schools of their own, mention the *Völkerpsychologie* of Lazarus,
+Steinthal, and Wundt as important early influences.
 
 Much more work needs to be done to recover the intellectual legacy of Wundt,
-Lazarus, and  Steinthal. For now, note only that the texts quoted above already
-contain the kernel of the extended mind hypothesis. Norman, writing in the
-1990a traces a direct lineage between himself and Wundt through the Soviet
-social-historical schools of the 1920s, as reflected in the works of Leontev,
-Luria, and Vygotsky--not translated into English until late 1970s and early
-1980s.[^ln4-halbwachs]
+Lazarus, and  Steinthal. The Canadian cultural historian and anthropologist
+Ivan Kalmar, who was one of the earliest contemporary voices to begin that
+work, laments that Lazarus and Steinthal would have been much better remebered
+by anthropologists today were they to call their study antropology, instead of
+psychology. Yet he explains that the authors explicitly regected anthropology
+as too "physiological" and too "climatic" to provide suffcient grounds for a
+study of *Volksgeist.* Their explicit aim was to make the "total of inner
+experience comprehensible" [@kalmar_volkerpsychologie_1987, 673-4], and
+therefore they seriously considreed "mental ethnology" as a viable alternative
+to "Volks
 
-[^ln4-halbwachs]: To this one may add the related by still parallel
-intellectual genealogy that passes through Henri Bergson, Émile Durkheim, and
-Maurice Halbwachs to develop the related concept of "collective memory," so
-influential now in the field of cultural memory studies.
+For now, note only that the texts quoted above already contain the kernel of
+the extended mind hypothesis. Norman, writing in the 1990a traces a direct
+lineage between himself and Wundt through the Soviet social-historical schools
+of the 1920s, as reflected in the works of Leontev, Luria, and Vygotsky--not
+translated into English until late 1970s and early 1980s.[^ln4-halbwachs]
+
+to the collective psychology of Alexander
+Luria, Lev Vygotsky, and Kurt Lewin
 
 Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
 cognition. Effect on the study of literature.
@@ -712,6 +713,8 @@ Turn towards personal computing.
 
 ### 4.5 Limits of Extension (Critique of HEC)
 
+Why Lazarus and Steinthal.
+
 Suppose then, instead of discussing a complex, high-level biological process
 such as cognition, we were to talk about digestion. The hypothesis of extended
 digestion would then hold that digestion is not limited by the human body, and
@@ -805,5 +808,14 @@ artificial, and every system seems to be a part of a larger system that could
 be seen as participating in the cognitive task at hand. In embracing the
 extension hypothesis literally, we have traded metaphoric imprecision for the
 problem of arbitrary limits.
+
+[^ln4-halbwachs]: To this one may add the related by still parallel
+intellectual genealogy that passes through Henri Bergson, Émile Durkheim, and
+Maurice Halbwachs to develop the related concept of "collective memory," so
+influential now in the field of cultural memory studies.
+
+[^ln4-stein]: Translations are mine throughout, referenced were appropriate
+with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
+@diriwachter_volkerpsychologie_2004.
 
 ### Works Cited
