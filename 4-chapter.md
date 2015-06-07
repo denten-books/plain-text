@@ -559,30 +559,48 @@ Remarkably, all of these scholars, many of whom started significant
 intellectual schools of their own, mention the *Völkerpsychologie* of Lazarus,
 Steinthal, and Wundt as important early influences.
 
-Much more work needs to be done to recover the intellectual legacy of Wundt,
-Lazarus, and  Steinthal. The Canadian cultural historian and anthropologist
-Ivan Kalmar, who was one of the earliest contemporary voices to begin that
-work, laments that Lazarus and Steinthal would have been much better remebered
-by anthropologists today had they described their research program as a type
+Much more work needs to be done to recover the intellectual legacy of
+*Völkerpsychologie*. The Canadian cultural historian and anthropologist Ivan
+Kalmar, who was one of the earliest contemporary voices to begin that work,
+laments that Lazarus and Steinthal would have been much better remebered by
+anthropologists today had they described their research program as a type
 antropology, instead of psychology. Yet he explains also that the authors
 explicitly regected anthropology as too "physiological" and too "climatic" to
 provide suffcient grounds for a study of *Volksgeist.* Their explicit aim was
 to make the "total of inner experience comprehensible"
-[@kalmar_volkerpsychologie_1987, 673-4], and therefore they seriously
-considreed "mental ethnology" as a viable alternative to *Völkerpsychologie*.
-While not explicitly denying the social, boty "mental" and "psychology" 
+[@kalmar_volkerpsychologie_1987, 673-4]. They therefore considreed cognates
+like "mental ethnology" before settling on *Völkerpsychologie*.  While not
+explicitly denying the social, the choice of "psychology" captures a specific
+concern with private mental life. 
 
-For now, note only that the texts quoted above already contain the kernel of
-the extended mind hypothesis. Norman, writing in the 1990a traces a direct
-lineage between himself and Wundt through the Soviet social-historical schools
-of the 1920s, as reflected in the works of Leontev, Luria, and Vygotsky--not
+> Der objective Geist ist, wie wir gesehen haben, der au der personlichen
+(subjectiven) ?hatigkeit der ?inzelen hervorgegangene, erzeutge und vorhandeue,
+als solcher den Personen thatsachling gegenuberstehende geistige Gehalt,
+welcher al Inhalt und Form des gistigen Lebens sick tund gibt.  In all habitual
+and national characteristic reflection and skill, in all national manners and
+forms, in all artistic practices and personal representations, Geist and
+nature, body and soul, tradition and present, the general and the personal are
+thoroughly intertwined. HAVE tOBIAS TRANSCRIBE. [@lazarus_einige_1865, 53-55;
+also quoted in @kalmar_volkerpsychologie_1987, 679].
+
+In this concern with the externalized forms of private thought, Lazarus and
+Steinthal anticipate not only the turn to collective intelligence in the end of
+the nineteeth century (CHECK ON THAT), but to extended cognition at the end
+of the twentieth. The so-called sMoscow school of psychology, *Völkerpsychologie* 
+
+note only that the texts quoted above already contain the kernel of the
+extended mind hypothesis. Norman, writing in the 1990a traces a direct lineage
+between himself and Wundt through the Soviet social-historical schools of the
+1920s, as reflected in the works of Leontev, Luria, and Vygotsky--not to the
+collective psychology of Alexander Luria, Lev Vygotsky, and Kurt Lewin
 translated into English until late 1970s and early 1980s.[^ln4-halbwachs]
-
-to the collective psychology of Alexander
-Luria, Lev Vygotsky, and Kurt Lewin
-
-Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
+And Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
 cognition. Effect on the study of literature.
+
+[aDD A NOTE TO gIThUB ISSUES ABOUT RE-WRITING CHAPTER SUMMARIES TO REFLECT THE
+ADVICE IN fORTUNATO'S BOOK. tHE SUMMARY SHOULD HAVE TWO PARTS: FIRST IDENTIFIES
+THE POINT AND ARGUMENT WHERE THE SECOND HIGHLIGHTS THE MATERIALS THAT THE
+CHAPTER WILL SUPPORT OF THE POINT. mARSHALL THAT MATERIAL!]
 
 The Hypothesis of Extended Cognition (HEC) The hypothesis of extended cognition
 (HEC) holds that certain cognitive processes can be viewed as extending beyond
