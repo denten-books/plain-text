@@ -16,6 +16,8 @@ header-includes:
 ## Chapter 5: Bad Links (Problem of Copies, Action at Distance)
 Key terms: internet, rhizome, web, network, infrastructure,
 
+This should be a chapter about Unix.
+
 We often think of literary works as completed products. *To the Lighthouse,*
 *Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
 critics, in charge of creating a work out of a multiplicity of texts, remind us
@@ -469,16 +471,7 @@ vector. The problem of annotation. What are we annotating? Annotation solutions
 force a platform. Is Hamlet a platonic object? A family of related objects?
 Standard English editions in Europe.
 
-### Processing Words (Engelbart)
 
-hardware, and software.  ping, traceroute, the terminal way: multiple users.
-personal vs. central computers
-
-Internet is not a rhyzome. Central control. Surface vs. depth
-structures---twitter is rhyzomatic on the surface. 
-
-Actor-networks. We are pushing ourselves through the wires. Hardware in
-control. 
 
 ### Gwern
 I can on only refer to you to an archived copy of *gwern*,^[LN1] and not *gwern*
