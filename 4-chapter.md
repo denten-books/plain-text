@@ -563,13 +563,14 @@ Much more work needs to be done to recover the intellectual legacy of Wundt,
 Lazarus, and  Steinthal. The Canadian cultural historian and anthropologist
 Ivan Kalmar, who was one of the earliest contemporary voices to begin that
 work, laments that Lazarus and Steinthal would have been much better remebered
-by anthropologists today were they to call their study antropology, instead of
-psychology. Yet he explains that the authors explicitly regected anthropology
-as too "physiological" and too "climatic" to provide suffcient grounds for a
-study of *Volksgeist.* Their explicit aim was to make the "total of inner
-experience comprehensible" [@kalmar_volkerpsychologie_1987, 673-4], and
-therefore they seriously considreed "mental ethnology" as a viable alternative
-to "Volks
+by anthropologists today had they described their research program as a type
+antropology, instead of psychology. Yet he explains also that the authors
+explicitly regected anthropology as too "physiological" and too "climatic" to
+provide suffcient grounds for a study of *Volksgeist.* Their explicit aim was
+to make the "total of inner experience comprehensible"
+[@kalmar_volkerpsychologie_1987, 673-4], and therefore they seriously
+considreed "mental ethnology" as a viable alternative to *Völkerpsychologie*.
+While not explicitly denying the social, boty "mental" and "psychology" 
 
 For now, note only that the texts quoted above already contain the kernel of
 the extended mind hypothesis. Norman, writing in the 1990a traces a direct
