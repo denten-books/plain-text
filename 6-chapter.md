@@ -16,6 +16,41 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity`
 
+I think the author misses the point. As far as I see it, Unix tools are
+optimized for one thing: the human user. If `ls` is bloated, it is only bloated
+from the system point of view. As a user, I only see a small command that is
+quick and consistent (to a reasonable extent) with other tools. I don't need to
+know about 39 flags--that complexity is hidden for power users, and revealed
+with time, as I need to accomplish more complex tasks. For now, I only use and
+"see" two or three. And if more is needed, the program is small enough to be
+reasonably well documented. `man ls` perhaps with `grep` is all most people
+need.
+
+This brings me to the second point. "Streams of  text." Just like `ls`, streams
+of text are an optimal format/convention for humans. Many other things are
+better at being more compact or more efficient etc. But as formats and
+conventions proliferate, streams of plain text remain: readable and universal.
+Humans will ALWAYS be able to work with text. It is something that all humans
+kind of agreed upon--which cannot be said for any other formats or standards,
+which can offer various technical benefits at the expense of longevity,
+universality, and readability.
+
+These two features (`ls` being relatively light and text streamy) leads to the
+"bootstrapping" effects sought after by the first generation of Unix
+developers. Learning about pipes and filters in one part of the system is
+applicable to all others. These tools scale with your level of expertise. They
+grow with you because despite the small quirks, there's a remarkable
+consistency of interface: text! Consequently `ls` (along with many other core
+tools) is implemented in the same way across a staggering variety of platforms.
+It has survived decades of alternatives touted as "better," "faster," "more
+usable," etc. etc. etc. That is the remarkable achievement of *nix / GNU etc.
+approach to creating human-centric software. As we architect new and ever more
+complex systems, we would do well to understand why Unix has endured, warts and
+all.  
+
+Plain text is a file format optimized for a human mind. It keeps the
+system available to view.
+
 Cleartext in encryption. The Circle. PARITY of encryption.
 http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
 
