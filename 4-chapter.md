@@ -593,8 +593,8 @@ extended mind hypothesis. Norman, writing in the 1990a traces a direct lineage
 between himself and Wundt through the Soviet social-historical schools of the
 1920s, as reflected in the works of Leontev, Luria, and Vygotsky--not to the
 collective psychology of Alexander Luria, Lev Vygotsky, and Kurt Lewin
-translated into English until late 1970s and early 1980s.[^ln4-halbwachs]
-And Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
+translated into English until late 1970s and early 1980s.[^ln4-halbwachs] And
+Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
 cognition. Effect on the study of literature.
 
 [aDD A NOTE TO gIThUB ISSUES ABOUT RE-WRITING CHAPTER SUMMARIES TO REFLECT THE
