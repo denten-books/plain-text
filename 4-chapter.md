@@ -96,36 +96,50 @@ preserves and reflects Krapp's image back to Krapp. At each point Krapp (n)
 equals the sum of all the recordings that came before. The future (n+1) Krapp
 will further internalize all past representations. In the Python programming
 language, the play's structure may be visualized as a recursive loop, which
-will run indefinitely, until it exceeds the recursion depth, limited by the
-machine's memory:
+will run indefinitely, until it exceeds the limited recursion depth (which is
+set to 988 on my machine, to guard egainst stack overflow), or otherwise
+limited by the machine's capacity for short term remeberanace:
 
 ```
+# simple recursion in Python 2.7
 def krapp(n=0):
+
+    # using a string formatter
     print "I am Krapp number %s now" % n
+
     krapp(n+1)
 ```
 
-In this aspect, we can ignore, for a moment, the specificity of tape as a
-medium, along with its given physical affordances (fast forward and rewind, for
-example). For now, I am interested only in the literary-theatrical device of
-collapsing time, which Beckett accomplishes by refracting a multiplicity of
-archived self representations through the recorder.
+In considering the recursive aspect of the play, we can ignore, for a moment,
+the specificity of tape as a medium, along with its given physical affordances
+(fast forward and rewind, for example). For now, I am interested only in the
+literary-theatrical device of collapsing time, which Beckett accomplishes by
+refracting a multiplicity of archived self representations through the
+recorder. The same effect could be achieved a century prior, using a diary, or
+some decades later, under the title of *Krapp's Latest Social Media
+Platform*.[^ln4-boring] Whatever the case, Beckett's conciet exposes storage
+media as being inextricably enmeshed in the narcissistic activity of human
+culture making. The seeming unity of Krapp's consciousness and, indeed, the
+stage appearance of consciousness itself, are aided by the use of paper and
+tape. The device on the stage creates the illusion of Krapp's inner life; it
+allows the author to shift the narrative in time; it multiplies and refracts
+the images of the main character of the play.  The reel-to-reel player
+functions both as audience and actor: alternatively listening and speaking,
+recording and transmitting. Ultimately, Krapp's fate is not only indexically
+linked to the tape-recorder, it is created by and for this technological
+medium. The reader recognizes Krapp as Krapp because all of them appear under
+the same eponymous literary umbrella.
 
-The story would be similarly plausible were it set a century prior, using a
-conventional pen-and-ink diary as its medium, or written some decades later
-under the title of *Krapp's Latest Social Media Platform*.[^ln4-boring] 
+Douglas Hofstadter, the cognitive scientist and Pulitzer Prize winning author,
+believed that the mystery of human consciousness itself is contained in such a
+capacity for recursion [@hofstadter_i_2008]. As a species, we are perhaps
+uniquely capable of modeling our own behaviour and of subsequently altering
+that model to deviate (n+1) from that original, fixed, and now no longer fully
+congruent with that original conception (n).
 
-Beckett's play exposes storage media as being inextricably enmeshed in the
-narcissistic activity of human culture making. The seeming unity of Krapp's
-consciousness and, indeed, the stage appearance of consciousness itself, are
-aided by the use of paper and tape. The device on the stage creates the
-illusion of Krapp's inner life; it allows the author to shift the narrative in
-time; it multiplies and refracts the images of the main character of the play.
-The reel-to-reel player functions both as audience and actor: alternatively
-listening and speaking, recording and transmitting.  Ultimately, Krapp's fate
-is not only indexically linked to the tape-recorder, it is created by and for
-this technological medium. The reader knows Krapp is Krapp because all of them
-appear under the same eponymous literary umbrella.
+Indexical. Depend on the identity of the speaker. Husserl and Garfinkel.
+
+Externalized.
 
 But just as storage media creates Krapp, Beckett shows Krapp in the process of
 shaping his collection. Krapp is a librarian and an archivist of sorts.
