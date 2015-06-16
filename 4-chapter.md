@@ -83,15 +83,38 @@ perceive our conciousness to be divided in such a way. Whatever is meant by the
 "unity of conciousness," it is here created through literary conceit, and on
 the stage, with an aid of a tape recorder. Beckett reminds us of the fragility
 of that illusion. The work (*Krapp's Last Tape*) gives unity to the
-multiplicity of individual character representations. Within the play's
-fictional world, that role is played by magnetic storage media that physically
-connects Krapp in time with his past and future selves. The tape recorder
-functions to reflect Krapp's image back to Krapp and in the process, to record
-the encounter for later reevaluation and re-recording.[^ln4-recursive] In this
-light, the specificity of the tape as a medium is not terribly important. The
-story would be similarly plausible were it set a century prior, using a
+multiplicity of individual character representations. For the reader, Krapp at
+all points of time, still equals Krapp. However, within the play's fictional
+world, Beckett breaks the unity into discrete yearly check-in points,
+externalized onto magnetic storage media. The tape physically connects Krapp in
+time with his past and future selves. Sound recording collapses images of past
+and present self states, implied simultaneously on one at the same stage.
+
+To achieve the effect, Beckett sets up a recursive feedback loop between the
+present, past, and future recordings.[^ln4-recursive] The tape recorder
+preserves and reflects Krapp's image back to Krapp. At each point Krapp (n)
+equals the sum of all the recordings that came before. The future (n+1) Krapp
+will further internalize all past representations. In the Python programming
+language, the play's structure may be visualized as a recursive loop, which
+will run indefinitely, until it exceeds the recursion depth, limited by the
+machine's memory:
+
+```
+def krapp(n=0):
+    print "I am Krapp number %s now" % n
+    krapp(n+1)
+```
+
+In this aspect, we can ignore, for a moment, the specificity of tape as a
+medium, along with its given physical affordances (fast forward and rewind, for
+example). For now, I am interested only in the literary-theatrical device of
+collapsing time, which Beckett accomplishes by refracting a multiplicity of
+archived self representations through the recorder.
+
+The story would be similarly plausible were it set a century prior, using a
 conventional pen-and-ink diary as its medium, or written some decades later
-under the title of *Krapp's Latest Social Media Platform*.[^ln4-boring]
+under the title of *Krapp's Latest Social Media Platform*.[^ln4-boring] 
+
 Beckett's play exposes storage media as being inextricably enmeshed in the
 narcissistic activity of human culture making. The seeming unity of Krapp's
 consciousness and, indeed, the stage appearance of consciousness itself, are
@@ -99,9 +122,9 @@ aided by the use of paper and tape. The device on the stage creates the
 illusion of Krapp's inner life; it allows the author to shift the narrative in
 time; it multiplies and refracts the images of the main character of the play.
 The reel-to-reel player functions both as audience and actor: alternatively
-listening and speaking, recording and transmitting. Ultimately, Krapp's fate is
-not only indexically linked to the tape-recorder, it is created by and for this
-technological medium. The reader knows Krapp is Krapp because all of them
+listening and speaking, recording and transmitting.  Ultimately, Krapp's fate
+is not only indexically linked to the tape-recorder, it is created by and for
+this technological medium. The reader knows Krapp is Krapp because all of them
 appear under the same eponymous literary umbrella.
 
 But just as storage media creates Krapp, Beckett shows Krapp in the process of
