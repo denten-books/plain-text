@@ -117,8 +117,8 @@ films that I've seen and love, appear to be acting. I no longer believe in
 their characters as real people. I notice their makeup and their props and I
 just know they are faking it. The sensation is akin to watching bad silent
 cinema. The style of acting seems forced and over the top. One cannot imagine
-people took *that* sort of thing seriously. The soap opera effect makes relics of
-recent cinema.
+people took *that* sort of thing seriously. The soap opera effect makes relics
+of recent cinema.
 
 The technology behind MCFI was developed in response to motion blur particular
 to flat-panel liquid crystal displays (LCDs). LCDs work by passing light
@@ -135,8 +135,8 @@ create shapes, letters, and images on the screen.[^ln1-mishima]
 
 ![Liquid crystal in phase transition between polarizers. Schlieren texture
 characteristic nematic phase to the left, and circular focal conic domains in
-the smectic phase to the right. Image licensed under CC-BY-SA
-3.0 [@polimerek_smectic_2004].](images/liquid.jpg)
+the smectic phase to the right. Image licensed under CC-BY-SA 3.0
+[@polimerek_smectic_2004].](images/liquid.jpg)
 
 Traditional film projectors advance from one frame to the next at a rate of 24
 times each second to match the rate at which the film is captured by
@@ -343,18 +343,19 @@ Writing more than a quarter of a century later, Matthew Katz offers two further
 important addenda to the discussion between Goodman and Haugeland. First, Katz
 maintains that Goodman's notions of discreteness and differentiation properly
 affect the format and not the medium of representation. Second, he maintains
-that the distinction between digital and analog formats could sometimes relate to the person involved, and not on the medium itself.
-To illustrate these two amendments, Katz gives the example of an approximate
-measuring system that uses a supply of marbles in a large beaker.  The unit of
-measurement could be something like a "number of handfuls." Even though marbles
-are a perfectly discrete medium, the system is analog because no convention is
-established to reproduce a "handful" with any sense of precision. My
-two handfuls will be different from another's. A corollary to the distinction
-between medium and format, then, lies in the user's ability to perceive quantities.
-The reader (viewer, listener) matters. Were humans endowed with the magical
-ability to perceive the exact number of water molecules in a beaker, previously
-analog systems (like unmarked beakers) would in effect become digital (under
-the expanded definition). Similarly, were all humans endowed with hands of a
+that the distinction between digital and analog formats could sometimes relate
+to the person involved, and not on the medium itself.  To illustrate these two
+amendments, Katz gives the example of an approximate measuring system that uses
+a supply of marbles in a large beaker.  The unit of measurement could be
+something like a "number of handfuls." Even though marbles are a perfectly
+discrete medium, the system is analog because no convention is established to
+reproduce a "handful" with any sense of precision. My two handfuls will be
+different from another's. A corollary to the distinction between medium and
+format, then, lies in the user's ability to perceive quantities.  The reader
+(viewer, listener) matters. Were humans endowed with the magical ability to
+perceive the exact number of water molecules in a beaker, previously analog
+systems (like unmarked beakers) would in effect become digital (under the
+expanded definition). Similarly, were all humans endowed with hands of a
 definite size and volume, "handfuls" would also be counted as discrete and
 therefore digital quantities. From similar thought experiments Katz concludes
 that the physical, perceptual, and cognitive capabilities of the "user"

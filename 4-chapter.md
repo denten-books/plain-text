@@ -133,25 +133,45 @@ the same eponymous literary umbrella.
 Douglas Hofstadter, the cognitive scientist and Pulitzer Prize winning author,
 believed that the mystery of human consciousness itself is contained in such a
 capacity for recursion [@hofstadter_i_2008]. As a species, we are perhaps
-uniquely capable of modeling our own behaviour and of subsequently altering
-that model to deviate (n+1) from that original, fixed, and now no longer fully
-congruent with that original conception (n).
+uniquely capable of modeling (externalizing) our own behaviour, of once agian
+internilizing that model, and of subsequently altering our course of action to
+deviate (n+1) from that original, fixed, and now no longer fully congruent
+image of ourselvess (n). But where does such modeling and externalizing take
+place? Beckett's play unfolds by the logic of media being. Krapp's library
+constitutes a literature and an archive of sorts, but unlike other archives,
+his documents imply a self as both the subject and the audience of
+communication. To put it plainly: Krapp is talking to himself. Edmund Husserl
+called this mode of communication "subjective expression"
+[@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
+@platt_reflexivity_1989]. Betrand Russel called it similarly "egocentric
+particulars": words like "this" and "here" that depend on the time and location
+of the person doing the talking. Russel writes that "'this' depends upon the
+relation of the user of the word to the object with which the word is
+concerned" [@russell_inquiry_1940, 108-16]. Similarly, the sociologist Harold
+Garfinkel spoke of "indexical expressions," the denotation of which happens
+"relative to the speaker." Such expressions, according to Garfinkel are not
+freely repeatable, since their meaning changes depending on the context
+[@garfinkel_studies_1967, 5]. Self referential indexical expressions, pose one
+further complication. They are not only indexical, they are self-indexical.
 
-Indexical. Depend on the identity of the speaker. Husserl and Garfinkel.
-
-Externalized.
-
-But just as storage media creates Krapp, Beckett shows Krapp in the process of
-shaping his collection. Krapp is a librarian and an archivist of sorts.
-Krapp's elaborate filing system, by which he stores and organizes his
-recordings, confirms his archival role. He goes through several of his filing
-cabinets, "peering and poking at the boxes" [@beckett_complete_2006, 216] as if
-to check the integrity of his collection, before settling on the tape from his
-thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) The
-cardboard storage boxes, the drawers, the ledger, and the very word
-itself---"spool," "spooool"---make him exceedingly happy. Beckett presents
-Krapp's archival activity as a kind of a Chaplinesque comedy routine, with
-erotic overtones:
+Furthermore, we may note that the technology of Krapp's archive--reels and
+recorders--is aimed at externalized images of the self. The encounter between
+self and self, happens not in the mind alone. This knowledge of self is not
+merely a memory, as Russel woud have it, but a record. And the record is much
+more complete that memory: Krapp struggles to remember the particulars of his
+recordings throughout. Occasionally, he cannot even read his own handwriting.
+Beckett's play idenifies a common cultural practice: recursive
+self-preservation and self remembarance. Just as storage media creates Krapp,
+Beckett shows Krapp in the process of shaping his collection. Krapp is a
+librarian and an archivist of sorts. His elaborate filing system, by which he
+stores and organizes his recordings, confirms his archival role. He goes
+through several of his filing cabinets, "peering and poking at the boxes"
+[@beckett_complete_2006, 216] as if to check the integrity of his collection,
+before settling on the tape from his thirty-ninth birthday ("Box Three, Spool
+Five" he says with relish.) The cardboard storage boxes, the drawers, the
+ledger, and the very word itself---"spool," "spooool"---make him exceedingly
+happy. Beckett presents Krapp's archival activity as a kind of a Chaplinesque
+comedy routine, with erotic overtones:
 
 > Krapp remains a moment motionless, heaves a great sigh, looks
 at his watch, fumbles in his pockets, takes out an envelope, puts it back,

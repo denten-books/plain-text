@@ -296,15 +296,16 @@ Engelbart, then founder and primary investigator at the NASA- and ARPA-funded
 Augmentation Research Center lab at the Stanford Research Institute, gave what
 later became known colloquially as "the mother of all demos
 [@tweney_mother_2008]" before an audience of roughly one thousand or so
-computer professionals attending the Fall Joint Computer Conference held at
-the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
-the arrival of almost every technology prophesied by Vannevar Bush in his
-influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a little over an hour,  through a headset, in a prerecorded
-address, Engelbart features functional (live) prototypes of the following: graphical user
-interfaces, video conferencing, remote camera monitoring, links and hypertext,
-version control, text search, image manipulation, windows-based user
-interfaces, digital slides, networked machines, mouse, stylus, and joystick
-inputs, and "what you see is what you get" (WYSIWYG) word processing.
+computer professionals attending the Fall Joint Computer Conference held at the
+Convention Center in San Francisco [@rogers_demo_2005]. The demo announced the
+arrival of almost every technology prophesied by Vannevar Bush in his
+influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a little
+over an hour,  through a headset, in a prerecorded address, Engelbart features
+functional (live) prototypes of the following: graphical user interfaces, video
+conferencing, remote camera monitoring, links and hypertext, version control,
+text search, image manipulation, windows-based user interfaces, digital slides,
+networked machines, mouse, stylus, and joystick inputs, and "what you see is
+what you get" (WYSIWYG) word processing.
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
 [@engelbart_x-y_1970].](images/engel.png)
@@ -715,18 +716,24 @@ Hegel's "concrete universal" therefore exists in the real, physical world. One
 way to understand this difficult concept is to think of it as capturing both
 *eidos* and *phantazomenōn*---or idea and appearance, both reasonably
 transcribed to "form" in English. The very word "form" in its ordinary meaning
-is, in that way, somewhat a self-antonym. Form could mean "the visible aspect
-of a thing," but also "the formative" and "essential determinate principle of a
-thing," and, in its more obsolete meaning, "a formula, model, type, pattern,
-and example." Form, in this dual sense, sounds a lot like Hegel's "concrete
-universal." In moving towards the physical device, I need to keep both of these
-meanings in mind. They will become important later, when we consider the ways
-in which meaning connects to structure in the flattening of document objects.
-The question of textual depth has several possible answers depending on how we
-model text. In the binary model, appearances conceal inner content. In the
-tripartite model suggested by Hegel's "concrete universal," we perceive text as
-indeterminate (or overdetermined) form, spanning both ideas and physical
-medium.
+can be, in that way, somewhat a self-antonym. Form could mean "the visible
+aspect of a thing," but also the "formative" and the "essential determinate
+principle of a thing," and, in its more obsolete meaning, "a formula, model,
+type, pattern, and example." Form, in this dual sense, sounds a lot like
+Hegel's "concrete universal," encompassing the sometimes contradictory aspects
+of the determining and the determined.
+
+These notes on Hegel are not meant to present a definitive history of formalism
+in Western aesthetics. Rather, they point to series of related folds or creases
+in that tradition, in an arrangement that repeats throughout the vast body of
+literature on the topic. The echoes of these complications will resonate later,
+within the structure of the document object model, which emerges, in its
+stratified form, from the material affordances of screen and magnetic storage
+technology in the late 1960s. The question of textual depth then gains an extra
+dimension. Where we began with binaries of depth and surface, meaning and
+matter, we end with a third: the synthetic document itself that combines
+formula and location, shape and thought, conciet and device, where the embodied
+meets the ideal.
 
 ### 3.4 Sound and Formula
 
