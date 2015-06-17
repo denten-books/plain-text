@@ -280,17 +280,19 @@ between institutional and personal archiving practices. It reveals the play as
 a commentary on a particular mode of being and a sense of self that spans
 externalized representations of archived consciousness: ledgers, spools, and
 boxes. Where the institution harbors artifacts of collective memory, the
-private archive harbors personal artifacts, that make only make sense
-indexically, in relationship to lived experience. It is perhaps for this reason
-that other people's diaries, family photo albums, and curio cabinets can be so
-painfully tedious to encounter. They are strictly meaningless to others. We can
-only relate to the pathos of curating such a collection. We take notes, keep
-diaries, write to-do lists, and take self portraits to remember the way we were
-and to provide a sense of continuity with the way we are now. It is here, in
-the personal archive, one encounters the fragility of mind's recall. Sounds,
-images, smells, and memories fade where the artifact endures. The personal
-archive can thus be seen as an attempt to shore up natural human defences
-against the forces of amnesia, time, decay, and oblivion.
+private archive harbors personal artifacts, that only make sense indexically,
+in relationship to lived experience. It is perhaps for this reason that other
+people's diaries, family photo albums, and curio cabinets can be so painfully
+tedious to encounter. They are strictly meaningless to others. We can only
+relate to the pathos of curating such a collection. As librarians of self we
+take notes, keep diaries, write to-do lists, and take self portraits to
+remember the way we were and to provide a sense of continuity with the way we
+are now. The collection sends a message to the future: remember this, this is
+who you are. It is here, in the personal archive, one encounters the fragility
+of mind's recall. Sounds, images, smells, and memories fade where the artifact
+endures. The personal archive can thus be seen as an attempt to shore up
+natural human defences against the forces of amnesia, time, decay, and
+oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
 impermanence. We are simply not that good at remembering things, even when
@@ -314,8 +316,8 @@ for later after the departure of the visitor" [@sartre_being_1993, 104]?
 *Krapp's Last Tape* reminds us of the ubiquity of such appointments. "Remember
 their laughter forever," is not even about "them." As a marketing slogan, it
 encourages consumers to secrete happy private mental states onto externalized
-and fixed representation: remember yourself they way, label, organize, archive,
-browse, encounter.
+and fixed representation: remember yourself this way, and also label, organize,
+archive, browse, encounter.
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -404,11 +406,11 @@ Recording [@museum_of_magnetic_sound_recording_time_2013].
 Let us start again. What does it mean to "have read" a book? Surely, when
 someone says "I too have read this book" they mean something more than the
 mechanical action of turning pages and moving one's eyes from left to right in
-a sequential manner.  Possessing or owning the book is also somewhat besides
-the point. A deeper structure is implied. To have read is to claim to
-internalize, to understand, and to form a mental image or opinion. But what
-exactly is internalized? It cannot be the whole text, verbatim. By reading we
-mean something other than rote memorization. In his *Blue and Brown Books*,
+a sequential manner. The acto of purchasing and owning the book is also
+somewhat besides the point. A deeper structure is implied. To have read is to
+claim to internalize, to understand, and to form a mental image or opinion. But
+what exactly is internalized? It cannot be the whole text, verbatim. By reading
+we mean something other than rote memorization. In his *Blue and Brown Books*,
 written somewhere between the *Tractatus* and *Philosophical Investigations*,
 Ludwig Wittgenstein gives the example of a child who is asked to read, but who
 instead regurgitates the text from memory. Wittgenstein further asks his
@@ -434,7 +436,7 @@ But suppose the man really does know how to read Russian, although when he
 reads he has a peculiar feeling of knowing the words by heart. Should we regard
 his personal experience as the criterion distinguishing between reading and not
 reading in that case? And again, Wittgenstein expects us to answer in the
-negative. It seems then, that the functional performance of reading cannot not
+negative. It seems then, that the functional performance of reading cannot
 determine the behavior alone. In each case, we had to check for the appropriate
 internalized mental state. Wittgenstein writes, "We here envision two
 mechanisms, the internal workings of which we can see, and this internal
@@ -460,14 +462,15 @@ what it sounds like, how to do it, and how to teach others to do it. In
 building this chain of deferring analogies (from the reading child to the drug
 induced reading hallucination) we are acting as though "we had tried to find
 the real artichoke by stripping it of its leaves," writes Wittgenstein
-[@wittgenstein_blue_1965, 125]. Instead, the leaves, when bundled together, are
-the artichoke.
+[@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
+together, *are* the artichoke.
 
-For Wittgenstein, our mistake lies in attempting to reduce cognitive activity
-like "reading" to a set of either external (functional) attributes or internal
-(formal) mental structures. Yet neither of these are sufficient. Reading
-happens in the head and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein
-explains that:
+At which point of peeling the artichoke, does the artichoke disappear into
+leafy particulates? Cognition, for Wittgenstein, works in the same way. Our
+mistake lies in attempting to reduce cognitive activity like "reading" to a set
+of either external (functional) attributes or internal (formal) mental
+structures. Yet neither of these are sufficient. Reading happens in the head
+and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
 
 > In the consideration of our problems one of the most dangerous ideas is the
 > idea that we think with, or in, our heads [...] 'Thinking takes place in the
@@ -484,34 +487,36 @@ and writing for him happens at the interface of mental and physical boundaries.
 Reading and writing proper involve a measure of correspondence between mind
 states and paper-and-ink states.
 
-To have read a book involves facility with the text: in the way its structure
-can, with much practice and repetition, become readily available to the "mind's
-eye." I "see" a particular thought or image in relationship to the rest of the
-structure. What was then a series of unrelated vignettes, becomes a part of a
-whole. That structure structure is not in the mind alone: I have a "feeling"
-about the location of a thought on paper. The cognitive facility with the work
-as a mental construct accompanies a practical facility with the text as a
-physical artifact. The mental facility of "having read something" is however
-severely curtailed by the limits of human cognitive apparatus. Even after
-teaching the same text for several decades, I have to "refresh" my knowledge of
-its contents. This sort of knowledge becomes easier with repetition, but I am
-also painfully aware of its impermanence. And fundamentally, the knowledge in
-my "mind's eye" constitutes a small fraction of the things I know "ready at
-hand." Most things that I know and have read are available to me on my book
-shelves, in my notebooks, online, and on my hard drives. I do not know them in
-a sense of remembering them---I know them in the sense of being able to find
-the information, to access it when needed, to evaluate sources, and recall my
-past (formed) reactions. And I suspect that most things I know and have read
-come to me in that externalized form. The amount of ideas accessible to me "at
-hand" must vastly outnumber the ideas in the "mind's eye." The hand and the
-inner eye work together to enter into what Barbara Herrnstein Smith calls "a
-circuit of reciprocal effectivity" [@smith_belief_1997, 54], except, in this
-case, both the speaker and the listener, reader and writer, are found in one of
-the same person.
+To have read a book involves a certain facility with the text: in the way its
+structure can, with much practice and repetition, become readily available to
+the "mind's eye." I "see" a particular thought or image in relationship to the
+rest of the structure. What was then a series of unrelated vignettes, my mind
+stitches into some coherent whole. That structure is not in the mind alone: I
+have a "feeling" about the location of a thought on paper. The cognitive
+facility with the work as a mental construct accompanies a practical facility
+with the text as a physical artifact. I will "leaf through" a familiar book. I
+may not yet know what I am looking for, but I remember where the "sign posts"
+are. The mental facility of "having read something" is however severely
+curtailed by the limits of human cognitive apparatus. Even after teaching the
+same text for several decades, I have to "refresh" my knowledge of its
+contents. This sort of knowledge becomes easier with repetition, but I am also
+painfully aware of its impermanence. And fundamentally, the knowledge in my
+"mind's eye" constitutes a small fraction of the things I know "ready at hand."
+Most things that I know and have read are available to me on my book shelves,
+in my notebooks, online, and on my hard drives. I do not know them in a sense
+of remembering them---I know them in the sense of being able to find the
+information, to access it when needed, to evaluate sources, and recall my past
+(formed) reactions. And I suspect that most things I know and have read come to
+me in that externalized form. The amount of ideas accessible to me "at hand"
+must vastly outnumber the ideas in the "mind's eye." The hand and the inner eye
+work together to enter into what Barbara Herrnstein Smith calls "a circuit of
+reciprocal effectivity" [@smith_belief_1997, 54], except, in this case, both
+the speaker and the listener, reader and writer, are found in one of the same
+person.
 
 Friedrich Nietzsche spoke of the modern man who "drags around with him a huge
 quantity of indigestible stones of knowledge." For Nietzsche the modern
-conditions is defined by a profound incongruence between "interior" and
+condition was defined by a profound incongruence between "interior" and
 "exterior" [@nietzsche_untimely_1997, 78]. He writes, "We moderns, have nothing
 whatever of our own; only by replenishing and cramming ourselves with the ages,
 customs, arts, philosophies, religions, discoveries of others do we become
@@ -525,7 +530,7 @@ Thebes, is shown to be weary of not fully internalized and undigested
 knowledge. Responding to Theuth, the great god-inventor who brought Egyptians
 the gifts of arithmetic, geometry, astronomy, draughts, and writing among other
 arts, the king worries that writing in particular will harm rather than help
-his people.  When it came to letters, Thamus comments:
+his people. When it came to letters, Thamus comments:
 
 > Most ingenious Theuth [...] the father of letters, [you] have been led by
 your affection to ascribe to them a power the opposite of that which they
@@ -622,23 +627,23 @@ Alexander Potebnja, Mikhail Bakhtin; and to the birth of Anglo-American
 anthropology through Bronisła Malinowski and Franz Boaz
 [@danziger_origins_1983; @kalmar_volkerpsychologie_1987; @kohnke_four_1990;
 @greenwood_volkerpsychologie_1999; @diriwachter_volkerpsychologie_2004].
-Remarkably, all of these scholars, many of whom started significant
-intellectual schools of their own, mention the *Völkerpsychologie* of Lazarus,
-Steinthal, and Wundt as important early influences.
+Remarkably, all of the above mentioned scholars, many of whom started
+significant intellectual schools of their own, mention the *Völkerpsychologie*
+of Lazarus, Steinthal, and Wundt as an important early influence.
 
 Much more work needs to be done to recover the intellectual legacy of
 *Völkerpsychologie*. The Canadian cultural historian and anthropologist Ivan
 Kalmar, who was one of the earliest contemporary voices to begin that work,
-laments that Lazarus and Steinthal would have been much better remebered by
+laments that Lazarus and Steinthal would have been much better remembered by
 anthropologists today had they described their research program as a type
-antropology, instead of psychology. Yet he explains also that the authors
-explicitly regected anthropology as too "physiological" and too "climatic" to
-provide suffcient grounds for a study of *Volksgeist.* Their explicit aim was
+anthropology, instead of psychology. Yet he explains also that the authors
+explicitly rejected anthropology as too "physiological" and too "climatic" to
+provide sufficient grounds for a study of *Volksgeist.* Their explicit aim was
 to make the "total of inner experience comprehensible"
-[@kalmar_volkerpsychologie_1987, 673-4]. They therefore considreed cognates
+[@kalmar_volkerpsychologie_1987, 673-4]. They therefore considered cognates
 like "mental ethnology" before settling on *Völkerpsychologie*.  While not
 explicitly denying the social, the choice of "psychology" captures a specific
-concern with private mental life. 
+concern with private mental life. Lazarus writes:
 
 > Der objective Geist ist, wie wir gesehen haben, der au der personlichen
 (subjectiven) ?hatigkeit der ?inzelen hervorgegangene, erzeutge und vorhandeue,
@@ -650,9 +655,13 @@ nature, body and soul, tradition and present, the general and the personal are
 thoroughly intertwined. HAVE tOBIAS TRANSCRIBE. [@lazarus_einige_1865, 53-55;
 also quoted in @kalmar_volkerpsychologie_1987, 679].
 
+Flattening of the knowledge domain. Hyper erudition.
+
+[Move extended cognition to 4]
+
 In this concern with the externalized forms of private thought, Lazarus and
 Steinthal anticipate not only the turn to collective intelligence in the end of
-the nineteeth century (CHECK ON THAT), but to extended cognition at the end
+the ninetieth century (CHECK ON THAT), but to extended cognition at the end
 of the twentieth. The so-called sMoscow school of psychology, *Völkerpsychologie* 
 
 note only that the texts quoted above already contain the kernel of the
@@ -663,11 +672,6 @@ collective psychology of Alexander Luria, Lev Vygotsky, and Kurt Lewin
 translated into English until late 1970s and early 1980s.[^ln4-halbwachs] And
 Hutchins and cognitive artifacts by Dan Norman. Hypothesis of extended
 cognition. Effect on the study of literature.
-
-[aDD A NOTE TO gIThUB ISSUES ABOUT RE-WRITING CHAPTER SUMMARIES TO REFLECT THE
-ADVICE IN fORTUNATO'S BOOK. tHE SUMMARY SHOULD HAVE TWO PARTS: FIRST IDENTIFIES
-THE POINT AND ARGUMENT WHERE THE SECOND HIGHLIGHTS THE MATERIALS THAT THE
-CHAPTER WILL SUPPORT OF THE POINT. mARSHALL THAT MATERIAL!]
 
 The Hypothesis of Extended Cognition (HEC) The hypothesis of extended cognition
 (HEC) holds that certain cognitive processes can be viewed as extending beyond
