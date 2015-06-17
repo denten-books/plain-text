@@ -99,6 +99,7 @@ Potential reviewers
     Sany Boldwin
     Lev Manovich
     Rita Raley
+    Ben Peters
 
 Send Book To
 ===========================

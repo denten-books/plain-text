@@ -79,8 +79,8 @@ past:
 Who is Krapp laughing with? There are at least three of him present on stage:
 the voice on the tape, the one who speaks and records now, and the implied one,
 to whom the recording is addressed. We do not, as a matter of everyday life,
-perceive our conciousness to be divided in such a way. Whatever is meant by the
-"unity of conciousness," it is here created through literary conceit, and on
+perceive our consciousness to be divided in such a way. Whatever is meant by the
+"unity of consciousness," it is here created through literary conceit, and on
 the stage, with an aid of a tape recorder. Beckett reminds us of the fragility
 of that illusion. The work (*Krapp's Last Tape*) gives unity to the
 multiplicity of individual character representations. For the reader, Krapp at
@@ -97,8 +97,8 @@ equals the sum of all the recordings that came before. The future (n+1) Krapp
 will further internalize all past representations. In the Python programming
 language, the play's structure may be visualized as a recursive loop, which
 will run indefinitely, until it exceeds the limited recursion depth (which is
-set to 988 on my machine, to guard egainst stack overflow), or otherwise
-limited by the machine's capacity for short term remeberanace:
+set to 988 on my machine, to guard against stack overflow), or otherwise
+limited by the machine's capacity for short term memory:
 
 ```
 # simple recursion in Python 2.7
@@ -117,12 +117,12 @@ literary-theatrical device of collapsing time, which Beckett accomplishes by
 refracting a multiplicity of archived self representations through the
 recorder. The same effect could be achieved a century prior, using a diary, or
 some decades later, under the title of *Krapp's Latest Social Media
-Platform*.[^ln4-boring] Whatever the case, Beckett's conciet exposes storage
+Platform*.[^ln4-boring] Whatever the case, Beckett's conceit exposes storage
 media as being inextricably enmeshed in the narcissistic activity of human
 culture making. The seeming unity of Krapp's consciousness and, indeed, the
-stage appearance of consciousness itself, are aided by the use of paper and
-tape. The device on the stage creates the illusion of Krapp's inner life; it
-allows the author to shift the narrative in time; it multiplies and refracts
+stage appearance of consciousness itself, are aided by the use of tape and
+recorder. The device on the stage creates the illusion of Krapp's inner life;
+it allows the author to shift the narrative in time; it multiplies and refracts
 the images of the main character of the play.  The reel-to-reel player
 functions both as audience and actor: alternatively listening and speaking,
 recording and transmitting. Ultimately, Krapp's fate is not only indexically
@@ -133,17 +133,18 @@ the same eponymous literary umbrella.
 Douglas Hofstadter, the cognitive scientist and Pulitzer Prize winning author,
 believed that the mystery of human consciousness itself is contained in such a
 capacity for recursion [@hofstadter_i_2008]. As a species, we are perhaps
-uniquely capable of modeling (externalizing) our own behaviour, of once agian
-internilizing that model, and of subsequently altering our course of action to
+uniquely capable of modeling (externalizing) our own behavior, of once again
+internalizing that model, and of subsequently altering our course of action to
 deviate (n+1) from that original, fixed, and now no longer fully congruent
-image of ourselvess (n). But where does such modeling and externalizing take
+image of ourselves (n). But where does such modeling and externalizing take
 place? Beckett's play unfolds by the logic of media being. Krapp's library
-constitutes a literature and an archive of sorts, but unlike other archives,
-his documents imply a self as both the subject and the audience of
-communication. To put it plainly: Krapp is talking to himself. Edmund Husserl
-called this mode of communication "subjective expression"
+constitutes a literature and an archive of sorts, but unlike other literary
+structures, his documents imply the self as both subject and audience of
+communication. To put it plainly: Krapp is talking to himself.
+
+Edmund Husserl called this mode of communication "subjective expression"
 [@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
-@platt_reflexivity_1989]. Betrand Russel called it similarly "egocentric
+@platt_reflexivity_1989]. Bertrand Russel called it similarly "egocentric
 particulars": words like "this" and "here" that depend on the time and location
 of the person doing the talking. Russel writes that "'this' depends upon the
 relation of the user of the word to the object with which the word is
@@ -156,22 +157,23 @@ further complication. They are not only indexical, they are self-indexical.
 
 Furthermore, we may note that the technology of Krapp's archive--reels and
 recorders--is aimed at externalized images of the self. The encounter between
-self and self, happens not in the mind alone. This knowledge of self is not
-merely a memory, as Russel woud have it, but a record. And the record is much
-more complete that memory: Krapp struggles to remember the particulars of his
-recordings throughout. Occasionally, he cannot even read his own handwriting.
-Beckett's play idenifies a common cultural practice: recursive
-self-preservation and self remembarance. Just as storage media creates Krapp,
-Beckett shows Krapp in the process of shaping his collection. Krapp is a
-librarian and an archivist of sorts. His elaborate filing system, by which he
-stores and organizes his recordings, confirms his archival role. He goes
-through several of his filing cabinets, "peering and poking at the boxes"
-[@beckett_complete_2006, 216] as if to check the integrity of his collection,
-before settling on the tape from his thirty-ninth birthday ("Box Three, Spool
-Five" he says with relish.) The cardboard storage boxes, the drawers, the
-ledger, and the very word itself---"spool," "spooool"---make him exceedingly
-happy. Beckett presents Krapp's archival activity as a kind of a Chaplinesque
-comedy routine, with erotic overtones:
+self and self, happens not in the mind alone. This knowledge of self is more
+than remembrance, as Russel would have it, but a record, more complete and more
+permanent than a memory. Krapp struggles to remember the particulars of his
+recordings throughout. The recordings are *more than himself at a time*.
+Occasionally, he cannot even read his own handwriting. Beckett's play
+identifies a common cultural practice: recursive self-preservation and self
+remembrance. Just as storage media creates Krapp, Beckett shows Krapp in the
+process of shaping his collection. Krapp is a librarian and an archivist of
+sorts. His elaborate filing system, by which he stores and organizes his
+recordings, confirms his archival role. He goes through several of his filing
+cabinets, "peering and poking at the boxes" [@beckett_complete_2006, 216] as if
+to check the integrity of his collection, before settling on the tape from his
+thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) The
+cardboard storage boxes, the drawers, the ledger, and the very word
+itself---"spool," "spooool"---make him exceedingly happy. Beckett presents
+Krapp's archival activity as a kind of a Chaplinesque comedy routine, with
+erotic overtones:
 
 > Krapp remains a moment motionless, heaves a great sigh, looks
 at his watch, fumbles in his pockets, takes out an envelope, puts it back,
@@ -234,8 +236,9 @@ progressively more expansive annotations, as the technology fades from
 collective memory. Thus, with the curtain drawn, we the audience, the readers,
 and the custodians of this work are implicated in Krapp's narcissistic archival
 habits. We reach for the volume, read, reread, annotate, and reshelve. *Krapp's
-Last Tape* is also a spool in our own collection---a spot on the bookshelf that
-will continue to comfort and to unsettle us well into our own dotage.
+Last Tape* is also a spool in our own collection---to read it again is to
+encounter a memory of one's own past reading: now a part of who I am, yet
+already not the text itself, perhaps only a fading memory of the text.
 
 Staged at the dawn of personal audio recording, Beckett's play shifts the focus
 of the conversation about archives from the public to the private sphere.
@@ -271,19 +274,23 @@ media home, I need to trespass on other fields widely.
 
 ### 4.2 Media Being
 
-Reading the play through the lens of material conditions of media production
-gives us more than just notes on stage design. *Krapp's Last Tape* captures the
-mid-century movement between institutional and personal archiving practices.
-It reveals the play as a commentary on a particular mode of being and a sense
-of self that spans externalized representations of archived consciousness:
-ledgers, spools, and boxes. Where the institution constitutes a site for
-collective memory, the private archive gives space for the preservation of
-self. We take notes, keep diaries, write to-do lists, and take photographs of
-ourselves to remember the way we were and to provide a sense of continuity. It
-is here, in the personal archive, one encounters the fragility of mind's
-recall. Sounds, images, smells, and memories fade where the artifact endures.
-The personal archive can thus be seen as an attempt to shore up natural human
-defences against the forces of amnesia, time, decay, and oblivion.
+Reading the play through the lens of media production gives us more than just
+notes on stage design. *Krapp's Last Tape* captures the mid-century movement
+between institutional and personal archiving practices. It reveals the play as
+a commentary on a particular mode of being and a sense of self that spans
+externalized representations of archived consciousness: ledgers, spools, and
+boxes. Where the institution harbors artifacts of collective memory, the
+private archive harbors personal artifacts, that make only make sense
+indexically, in relationship to lived experience. It is perhaps for this reason
+that other people's diaries, family photo albums, and curio cabinets can be so
+painfully tedious to encounter. They are strictly meaningless to others. We can
+only relate to the pathos of curating such a collection. We take notes, keep
+diaries, write to-do lists, and take self portraits to remember the way we were
+and to provide a sense of continuity with the way we are now. It is here, in
+the personal archive, one encounters the fragility of mind's recall. Sounds,
+images, smells, and memories fade where the artifact endures. The personal
+archive can thus be seen as an attempt to shore up natural human defences
+against the forces of amnesia, time, decay, and oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
 impermanence. We are simply not that good at remembering things, even when
@@ -301,13 +308,14 @@ the mirage of potential future selves. We are here confronted with a curious
 literature that takes the past self as its subject, the future self as object,
 and the present self as a guardian and archivist of that oath between past and
 future. Through Beckett we perceive the practice of what Sartre called an
-appointment with one's own sadness.  "What will remain of my [interrupted]
+appointment with one's own sadness. "What will remain of my [interrupted]
 sadness," Sartre writes, "except that I obligingly promise it an appointment
 for later after the departure of the visitor" [@sartre_being_1993, 104]?
-*Krapp's Last Tape* reminds us that such appointments cannot be limited to a
-mental construct, but instead embody a form of media being by which
-conciousness is secreted into the personal archive, to be stored, organized,
-and accessed at a later date.
+*Krapp's Last Tape* reminds us of the ubiquity of such appointments. "Remember
+their laughter forever," is not even about "them." As a marketing slogan, it
+encourages consumers to secrete happy private mental states onto externalized
+and fixed representation: remember yourself they way, label, organize, archive,
+browse, encounter.
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -358,28 +366,29 @@ cognition proper. That is to say that if we accept the premises of media being
 (and extended cognition more broadly), we must afford them the same care we
 reserve for conventional cognitive structures, be it in the analogy to critical
 thinking or self-reflection. Fundamentally, as I will argue after Sartre, such
-externalized cognitive structures must remain transparent and available for
-examination.
+externalized cognitive structures must at least remain transparent to be
+available for examination.
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
-towards the limits of literary theory or book history. After all, what can a
-book or a play tell us about conciousness or memory? Yet, I am prepared to
-continue this conversation on more empirical basis. Recent developments in
-cognitive science itself advance a hypothesis of extended cognition, which has
-tremendous implications for the study of knowledge, texts, and literature.
-Under the hypothesis of extended cognition, thinking happens not in the brain
-alone, but at the interface between cognitive, social, and technological
-structures. And once we admit that cognition has an externalized, material
-form, we must accept it (at least in that extended portion) as a culturally-
-and historically- contingent artifact. This means that things like books,
-chapters, filing systems, and book indices, belong not to the history media or
-textual theory alone, but also to the theory of cognition. This also means that
-cognition, in its extended form, *has* a history. To the extent that media
-studies and literary theory deal with forms of media being, they enter
-cognitive science on equal grounds, not as mere illustration or supplement. An
-exposition of the extended cognition hypothesis will pave the way to a case
-study of personal archiving practice in the history of modern computing, at the
-conclusion of the chapter.
+towards the limits of literary theory, book history, and library science. After
+all, what can a book or a play tell us about conciousness or memory? Yet, I am
+prepared to continue this conversation on more empirical basis. Recent
+developments in cognitive science itself advance a hypothesis of extended
+cognition, which has tremendous implications for the study of knowledge, texts,
+and literature.  Under the hypothesis of extended cognition, thinking happens
+not in the brain alone, but at the interface between cognitive, social, and
+technological structures. And once we admit that cognition has an externalized,
+material form, we must accept it (at least in that extended portion) as a
+culturally- and historically- contingent artifact. This means that things like
+books, chapters, filing systems, and book indices, belong not to the history
+media or textual theory alone, but also to the theory of cognition. This also
+means that cognition, in its extended form, *has* a history. To the extent that
+media studies and literary theory deal with forms of media being, they enter
+cognitive science on equal grounds, not as mere illustration, metaphor, or
+supplement. Under the hypothesis of extended cognition, the personal bookshelf
+is, in some real sense, a cognitive structure. An exposition of the extended
+cognition hypothesis will pave the way to a case study of personal archiving
+practice in the history of modern computing, at the conclusion of the chapter.
 
 [^ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 
@@ -392,24 +401,25 @@ Recording [@museum_of_magnetic_sound_recording_time_2013].
 
 ### 4.3 Knowledge at Hand
 
-What does it mean "have read" a book? Surely, when someone says "I too have
-read this book" they mean something more than the mechanical action of turning
-pages and moving one's eyes from left to right in a sequential manner.
-Possessing or owning the book is also somewhat besides the point. A deeper
-structure is implied. To have read is to claim to internalize, to understand,
-and to form a mental image or opinion. But what exactly is internalized? It
-cannot be the whole text, verbatim. By reading we mean something other than
-rote memorization. In his *Blue and Brown Books*, written somewhere between the
-*Tractatus* and *Philosophical Investigations*, Ludwig Wittgenstein gives the
-example of a child who is asked to read, but who instead regurgitates the text
-from memory. Wittgenstein further asks his readers to imagine an experimental
-"human reading machine," which like the child "reads" by making sounds which
-sometimes do and sometimes do not correspond with the printed word. An observer
-not familiar with the mechanism of this experimental "reader," could be fooled
-into thinking the machine is reading. The coincidence between sound and word
-remains accidental, however. We would remain skeptical of this activity as
-reading even if our machine were to begin to correlate letters to appropriate
-sounds consistently [@wittgenstein_blue_1965, 120-1].
+Let us start again. What does it mean to "have read" a book? Surely, when
+someone says "I too have read this book" they mean something more than the
+mechanical action of turning pages and moving one's eyes from left to right in
+a sequential manner.  Possessing or owning the book is also somewhat besides
+the point. A deeper structure is implied. To have read is to claim to
+internalize, to understand, and to form a mental image or opinion. But what
+exactly is internalized? It cannot be the whole text, verbatim. By reading we
+mean something other than rote memorization. In his *Blue and Brown Books*,
+written somewhere between the *Tractatus* and *Philosophical Investigations*,
+Ludwig Wittgenstein gives the example of a child who is asked to read, but who
+instead regurgitates the text from memory. Wittgenstein further asks his
+readers to imagine an experimental "human reading machine," which like the
+child "reads" by making sounds which sometimes do and sometimes do not
+correspond with the printed word. An observer not familiar with the mechanism
+of this experimental "reader," could be fooled into thinking the machine is
+reading. The coincidence between sound and word remains accidental, however. We
+would remain skeptical of this activity as reading even if our machine were to
+begin to correlate letters to appropriate sounds consistently
+[@wittgenstein_blue_1965, 120-1].
 
 In his characteristically cryptic manner, Wittgenstein explains his thought
 experiment by making yet another analogy:
