@@ -237,8 +237,8 @@ The various practices of distant reading arise from the condition in which
 canons are no longer accessible, in their entirety, to the unaided (natural)
 human intellect. These include distant reading and macroanalysis in literary
 studies [@jockers_macroanalysis_2013; @moretti_distant_2013], culturomics in
-economy [@aiden_uncharted_2014], e-discovery in law
-[@scheindlin_electronic_2004; @scheindlin_scheindlin_2009], automatic essay
+economy [@aiden_uncharted:_2014], e-discovery in law
+[@scheindlin_electronic_2004; @scheindlin_electronic_2009], automatic essay
 evaluation in education [@shermis_handbook_2013], and medical informatics in
 medicine [@shortliffe_biomedical_2013], among others. At the foundations of
 these nascent disciplines is a shared toolkit of statistical natural language
