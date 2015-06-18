@@ -655,7 +655,25 @@ nature, body and soul, tradition and present, the general and the personal are
 thoroughly intertwined. HAVE tOBIAS TRANSCRIBE. [@lazarus_einige_1865, 53-55;
 also quoted in @kalmar_volkerpsychologie_1987, 679].
 
-Flattening of the knowledge domain. Hyper erudition.
+Nunmehr können wir versuchen, ein gedrängtes Bild von der gesammten Existenz-
+und Wirkungsweise des objectiven Geistes überhaupt zu entwerfen, in welchem
+alle Momente der Charakteristik verschiedener Genossenschaften und ihres
+objectiven Geistes gegeben sind.
+
+Der objective Geist ist, wie wir gesehen haben, der aus der persönlichen
+(subjectiven) Thätigkeit der Einzelnen hervorgegangene, erzeugte und
+vorhandene, als solcher den Personen thatsächlich gegenüberstehende geistige
+Gehalt, welcher als Inhalt und Form des geistigen Lebens sich kund gibt. Die
+beiden extremen Erscheinungen, in denen dieser objective Geist sich
+manifestirt, sind also diese. Auf der einen Seite stehen rein geistige
+Elemente: Anschauungen, Ueberzeugungen, Gesinnungen, Denkformen, Gefühlsweisen
+u.s.w.; sie sind Elemente des objectiven Geistes, in so fern sie im
+Volke verbreitet, dauernd und charakteristisch sind, als das Vorhandene dem
+einzelnen Geiste gegenüberstehen und auf ihn wirken; ihre Existenz aber, den
+Ort und die Art ihres Daseins haben diese Elemente dennoch nur in den
+persönlichen Subjecten, in den einzelnen Geistern, in deren subjectiver
+Thätigkeit sie eben als das Allgemeine in dem Individuellen auf concrete Weise
+enthalten sind.  Flattening of the knowledge domain. Hyper erudition.
 
 [Move extended cognition to 4]
 

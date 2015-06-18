@@ -40,6 +40,7 @@
     Trevor Jockims
     Zachary Roberts
     Yoora Yi Tenen
+    Tobias Pester for checking my German for sanity.
 
 # Editors
 
