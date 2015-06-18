@@ -83,6 +83,11 @@ meaning-carrying units.
 
 ### Theory & Method
 
+What is the role of literary scholar in reflecting on the history of computing.
+To unpack the metaphor throughout. Floating gate. Liquid crystal. Avalanche
+injection. Stack overflow. But unpacking, in this case, must mean something
+more than explaining. It means making good on the metaphor.
+
 The idea that "meaning" is always in some sense "operational meaning" is a
 proposition implicit in several related philosophical traditions. The first of
 these is pragmatism, broadly conceived. William James articulates that view
