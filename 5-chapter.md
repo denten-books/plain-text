@@ -20,7 +20,7 @@ header-includes:
 ## Chapter 5: Recursive Encounters with Oneself
 `reading, writing, home, media being`
 
-### 4.1 Librarians of Self
+### 5.1 Librarians of Self
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -272,7 +272,7 @@ the librarians of the self commonly make a home. But first, we are faced with
 the considerable task of justifying the endeavor intellectually. To get to my
 media home, I need to trespass on other fields widely.
 
-### 4.2 Media Being
+### 5.2 Media Being
 
 Reading the play through the lens of media production gives us more than just
 notes on stage design. *Krapp's Last Tape* captures the mid-century movement
@@ -401,7 +401,7 @@ original.
 sound recording advertisements curated by the Museum of Magnetic Sound
 Recording [@museum_of_magnetic_sound_recording_time_2013].
 
-### 4.3 Knowledge at Hand
+### 5.3 Knowledge at Hand
 
 Let us start again. What does it mean to "have read" a book? Surely, when
 someone says "I too have read this book" they mean something more than the
@@ -513,60 +513,6 @@ work together to enter into what Barbara Herrnstein Smith calls "a circuit of
 reciprocal effectivity" [@smith_belief_1997, 54], except, in this case, both
 the speaker and the listener, reader and writer, are found in one of the same
 person.
-
-Friedrich Nietzsche spoke of the modern man who "drags around with him a huge
-quantity of indigestible stones of knowledge." For Nietzsche the modern
-condition was defined by a profound incongruence between "interior" and
-"exterior" [@nietzsche_untimely_1997, 78]. He writes, "We moderns, have nothing
-whatever of our own; only by replenishing and cramming ourselves with the ages,
-customs, arts, philosophies, religions, discoveries of others do we become
-anything worthy of notice, that is to say walking encyclopedias." These
-encyclopedias he calls "handbook[s] of inward culture for outward barbarians"
-[@nietzsche_untimely_1997, 79]. Nietzsche's metaphor is one of cultural
-"indigestion." The rocks that rattle within represent the detritus of knowledge
-that is not somehow fully assimilated into the individual psyche. In this
-Nietzsche mirrors the concern of Plato's *Phaedrus*, where Thamus, the king of
-Thebes, is shown to be weary of not fully internalized and undigested
-knowledge. Responding to Theuth, the great god-inventor who brought Egyptians
-the gifts of arithmetic, geometry, astronomy, draughts, and writing among other
-arts, the king worries that writing in particular will harm rather than help
-his people. When it came to letters, Thamus comments:
-
-> Most ingenious Theuth [...] the father of letters, [you] have been led by
-your affection to ascribe to them a power the opposite of that which they
-really possess. For this invention will produce forgetfulness in the minds of
-those who learn to use it, because they will not practise their memory. Their
-trust in writing, produced by external characters which are no part of
-themselves, will discourage the use of their own memory within them. You have
-invented an elixir not of memory, but of reminding; and you offer your pupils
-the appearance  of wisdom, not true wisdom for they will read many things
-without instruction and will therefore seem to know many things, when they are
-for the most part ignorant [...] [@plato_plato:_1999, 563-4].
-
-That technologies of the written word are somehow corrupting our native
-cognitive capabilities, that the humanity (in certain parts of the world, that
-is) is becoming dependent on externalized cognitive aids, and that such
-dependence has wide-ranging social repercussions, are worries that have
-permeated Western popular culture since the days of Socrates. "I see within us
-all (myself included) the replacement of complex inner density with a new kind
-of self," Richard Foreman writes in an essay that accompanies his play *The
-Pancake People*. This new self is shallow, containing "less and less of an
-inner repertory of dense cultural inheritance" [@foreman_pancake_2005].
-Nicholas Carr echoes these words in his widely-cited 2008 article for the
-*Atlantic Monthly*, writing that "over the past few years I've had an
-uncomfortable sense that someone, or something, has been tinkering with my
-brain, remapping the neural circuitry, reprogramming the memory." "The deep
-reading that used to come naturally has become a struggle," Carr writes and
-concludes to suggest that online search engines are making us stupid
-[@carr_is_2008]. Lionel Trilling has described this reoccurring "anxiety about
-the machine" as "the sense of something intervening between man and his own
-organic endowment," and considered it "a powerful element in the modern
-consciousness, an overt and exigent issue in our culture"
-[@trilling_sincerity_1972, 127-8]. I construct this brief genealogy of
-technological skepticism of a particular kind to note that all of the above
-example contains within them a bifurcated model, that puts some notion of inner
-"natural mind" into an often problematic relationship with technologies of
-externalized cognitive augmentation.
 
 In thinking of cognitive structures inside and outside the natural brain-bound
 limits of the mind, Nietzsche and Wittgenstein anticipate a late-twentieth
@@ -692,7 +638,7 @@ http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
 modal vs. other kinds of processing 
 
-### 4.4 Home (Case Study)
+### 5.4 Home (Case Study)
 
 The domestic space has always been, in some sense, an archival domain. The
 book shelf, the pantry, the wall, and the mantle: these are the locations where
@@ -723,8 +669,6 @@ Home, and home.
 
 Turn towards personal computing.
 
-### 4.5 Limits of Extension (Critique of HEC)
-
 Why Lazarus and Steinthal.
 
 
@@ -736,5 +680,9 @@ influential now in the field of cultural memory studies.
 [^ln4-stein]: Translations are mine throughout, referenced were appropriate
 with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
 @diriwachter_volkerpsychologie_2004.
+
+
+Transparency. 
+Window Systems Should Be Transparent by Rob Pike
 
 ### Works Cited
