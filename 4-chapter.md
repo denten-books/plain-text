@@ -14,8 +14,22 @@ header-includes:
 
 ---
 
-## Chapter 4: Word at Hand
+## Chapter 4: Letter at Hand
 `reading, writing, home, media being`
+
+Right away, let us dissmiss the common misonception about the origins of the
+QWERTY keyboard. It did not gain that arrangement because. It is also not true
+that other layout necessarily achieve faster speeds like Dvorak or . This
+chapter is about keyboards however. It won't be a totalizing history, as
+before. Why so important? Why so not important now?
+
+### History
+### Dvorak
+### Stenography
+### Heidegger
+### Extended Cognition
+### Back to Dvorak
+I am trying
 
 ### Heidegger at hand
 ### Dvorak
