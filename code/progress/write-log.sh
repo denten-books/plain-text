@@ -9,14 +9,14 @@ stamp="$(date --iso-8601)"
 # use < to display counts only, otherwise wc includes the file name
 # count all .md files in the root dir one level deep
 # rewrite this to use exec and no need to write to a file
-# shellcheck suggests the following
+# shellchck suggests the following
 # while IFS= read -r -d '' file
 # do
-#       let count++
-#         echo "Playing file no. $count"
-#           play "$file"
-#       done <   <(find mydir -mtime -7 -name '*.mp3' -print0)
-#       echo "Played $count files"
+#   let count++
+#   echo "Playing file no. $count"
+#   play "$file"
+# done <   <(find mydir -mtime -7 -name '*.mp3' -print0)
+# echo "Played $count files"
 #
 
 for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
