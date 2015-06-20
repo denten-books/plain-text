@@ -3,38 +3,31 @@
 src=/home/denten/gDrive/papers/projects/workbench/plain-text/
 path=/home/denten/gDrive/papers/projects/workbench/plain-text/code/progress
 
-old_words=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
+oldWords=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
 stamp="$(date --iso-8601)"
 
-# use < to display counts only, otherwise wc includes the file name
 # count all .md files in the root dir one level deep
-# rewrite this to use exec and no need to write to a file
-# shellchck suggests the following
-# while IFS= read -r -d '' file
-# do
-#   let count++
-#   echo "Playing file no. $count"
-#   play "$file"
-# done <   <(find mydir -mtime -7 -name '*.mp3' -print0)
-# echo "Played $count files"
+# for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
 #
+# a better solution from
+# http://stackoverflow.com/questions/30950035/iterate-over-specific-files-in-a-directory-using-bash-find
+# wordCount=0
+# for f in "$src"/*.md; do
+#     c=$(wc -w < "$f")
+#     wordCount=$((wordCount + c))
+# done
 
-for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
-
-# add numbers in the tmp file and append to words.csv
-new_words="$(awk '{ sum += $1 } END { print sum }' $path/tmp.txt)"
+# this makes even more sense to me, cat the files and count once
+wordCount=$(find $src -maxdepth 1 -name '*.md' -type f -print0 | xargs -0 cat | wc -w)
 
 # calculate number of words written
-total=$((new_words - old_words))
+total=$((wordCount - oldWords))
 
 # happy message
-echo "You wrote $total words since last time for a total of $new_words. Well done, sir."
+echo "You wrote $total words since last time for a total of $wordCount. Well done, sir."
 
-# write to log
+# write to log if not zero
 if [ "$total" != 0 ]
     then
-        echo "$new_words $total $stamp" >> $path/log.txt
+        echo "$wordCount $total $stamp" >> $path/log.txt
 fi
-
-# clean up
-rm -f $path/tmp.txt
