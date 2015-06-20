@@ -2,9 +2,10 @@
 
 src=/home/denten/gDrive/papers/projects/workbench/plain-text/
 path=/home/denten/gDrive/papers/projects/workbench/plain-text/code/progress
-
-oldWords=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
 stamp="$(date --iso-8601)"
+
+# grab old words from log
+oldWords=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
 
 # count all .md files in the root dir one level deep
 # for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
