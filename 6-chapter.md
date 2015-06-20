@@ -16,6 +16,13 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
+Much of what today goes by the term new materialsm is materialism in the sense
+of talking about and priveleging a certain idea of object-oriented
+consciousness. Some go even as far as to elevate objects to the status of
+political and ethical agents, as when.
+
+Three figures: Heidegger, Marx, and Fanon.
+
 We now reach the final and most speculative chapter of the book. Here, I can no
 longer rely on strictly historical examples to make my case. So far, I have
 shown that a notion of plain text is, in some real sense, engineered into the

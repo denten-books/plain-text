@@ -621,6 +621,8 @@ persönlichen Subjecten, in den einzelnen Geistern, in deren subjectiver
 Thätigkeit sie eben als das Allgemeine in dem Individuellen auf concrete Weise
 enthalten sind.  Flattening of the knowledge domain. Hyper erudition.
 
+https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
+
 Impact on the study of textual artifact. If are are to take the hypothesis of
 extended cognition seriously, we must treat the tools of cognitive augmentation
 as seriously as we would our own mental development, in the traditional sense.

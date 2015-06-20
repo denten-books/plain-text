@@ -8,22 +8,31 @@ stamp="$(date --iso-8601)"
 
 # use < to display counts only, otherwise wc includes the file name
 # count all .md files in the root dir one level deep
-for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < $f >> $path/tmp.txt; done
+# rewrite this to use exec and no need to write to a file
+# shellcheck suggests the following
+# while IFS= read -r -d '' file
+# do
+#       let count++
+#         echo "Playing file no. $count"
+#           play "$file"
+#       done <   <(find mydir -mtime -7 -name '*.mp3' -print0)
+#       echo "Played $count files"
+#
+# for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
 
 # add numbers in the tmp file and append to words.csv
 new_words="$(awk '{ sum += $1 } END { print sum }' $path/tmp.txt)"
 
 # calculate number of words written
-total=$(expr $new_words - $old_words)
+total=$((new_words - old_words))
 
 # happy message
-echo "You wrote "$total" words since last time for a total of "$new_words".
-Well done, sir."
+echo "You wrote $total words since last time for a total of $new_words. Well done, sir."
 
 # write to log
-if [ $total != 0 ]
+if [ "$total" != 0 ]
     then
-        echo $new_words $total $stamp >> $path/log.txt
+        echo "$new_words $total $stamp" >> $path/log.txt
 fi
 
 # clean up
