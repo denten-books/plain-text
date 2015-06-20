@@ -18,7 +18,8 @@ stamp="$(date --iso-8601)"
 #       done <   <(find mydir -mtime -7 -name '*.mp3' -print0)
 #       echo "Played $count files"
 #
-# for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
+
+for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
 
 # add numbers in the tmp file and append to words.csv
 new_words="$(awk '{ sum += $1 } END { print sum }' $path/tmp.txt)"
