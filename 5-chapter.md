@@ -123,12 +123,12 @@ culture making. The seeming unity of Krapp's consciousness and, indeed, the
 stage appearance of consciousness itself, are aided by the use of tape and
 recorder. The device on the stage creates the illusion of Krapp's inner life;
 it allows the author to shift the narrative in time; it multiplies and refracts
-the images of the main character of the play.  The reel-to-reel player
-functions both as audience and actor: alternatively listening and speaking,
-recording and transmitting. Ultimately, Krapp's fate is not only indexically
-linked to the tape-recorder, it is created by and for this technological
-medium. The reader recognizes Krapp as Krapp because all of them appear under
-the same eponymous literary umbrella.
+the images of the main character of the play. The reel-to-reel player functions
+both as audience and actor: alternatively listening and speaking, recording and
+transmitting. Ultimately, Krapp's fate is not only indexically linked to the
+tape-recorder, it is created by and for this technological medium. The reader
+recognizes Krapp as Krapp because all of them appear under the same eponymous
+literary umbrella.
 
 Douglas Hofstadter, the cognitive scientist and Pulitzer Prize winning author,
 believed that the mystery of human consciousness itself is contained in such a
@@ -136,7 +136,7 @@ capacity for recursion [@hofstadter_i_2008]. As a species, we are perhaps
 uniquely capable of modeling (externalizing) our own behavior, of once again
 internalizing that model, and of subsequently altering our course of action to
 deviate (n+1) from that original, fixed, and now no longer fully congruent
-image of ourselves (n). But where does such modeling and externalizing take
+image of ourselves (n-1). But where does such modeling and externalizing take
 place? Beckett's play unfolds by the logic of media being. Krapp's library
 constitutes a literature and an archive of sorts, but unlike other literary
 structures, his documents imply the self as both subject and audience of
@@ -155,12 +155,11 @@ freely repeatable, since their meaning changes depending on the context
 [@garfinkel_studies_1967, 5]. Self referential indexical expressions, pose one
 further complication. They are not only indexical, they are self-indexical.
 
-Furthermore, we may note that the technology of Krapp's archive--reels and
-recorders--is aimed at externalized images of the self. The encounter between
-self and self, happens not in the mind alone. This knowledge of self is more
-than remembrance, as Russel would have it, but a record, more complete and more
-permanent than a memory. Krapp struggles to remember the particulars of his
-recordings throughout. The recordings are *more than himself at a time*.
+Media being denotes a state of externalized self permanence. The encounter
+between self and self does not happen in the mind alone. This knowledge of self
+is more than remembrance, as Russel would have it, but a record, more complete
+and more permanent than a memory. Krapp struggles to remember the particulars
+of his recordings throughout. The recordings are *more than himself at a time*.
 Occasionally, he cannot even read his own handwriting. Beckett's play
 identifies a common cultural practice: recursive self-preservation and self
 remembrance. Just as storage media creates Krapp, Beckett shows Krapp in the
@@ -169,11 +168,12 @@ sorts. His elaborate filing system, by which he stores and organizes his
 recordings, confirms his archival role. He goes through several of his filing
 cabinets, "peering and poking at the boxes" [@beckett_complete_2006, 216] as if
 to check the integrity of his collection, before settling on the tape from his
-thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) The
-cardboard storage boxes, the drawers, the ledger, and the very word
-itself---"spool," "spooool"---make him exceedingly happy. Beckett presents
-Krapp's archival activity as a kind of a Chaplinesque comedy routine, with
-erotic overtones:
+thirty-ninth birthday ("Box Three, Spool Five" he says with relish.) He
+lovingly relishes the cardboard storage boxes, the drawers, the reel ledger,
+and the very word itself: "spool," "spooool, " he repeats.
+
+Beckett presents Krapp's archival activity as a kind of a Chaplinesque comedy
+routine, with erotic overtones:
 
 > Krapp remains a moment motionless, heaves a great sigh, looks
 at his watch, fumbles in his pockets, takes out an envelope, puts it back,
@@ -267,10 +267,8 @@ archive has less to do with social power structures and more with the
 mechanisms of private identity formation, remembrance, and nostalgia. To mimic
 Derrida here, we could say that his collection is a recollection---it is not a
 house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
-homecoming [@_nostalgia_2015]. This chapter will be about a type a house, where
-the librarians of the self commonly make a home. But first, we are faced with
-the considerable task of justifying the endeavor intellectually. To get to my
-media home, I need to trespass on other fields widely.
+homecoming [@_nostalgia_2015]. This chapter is about a type a house, where the
+librarians of the self commonly make a home.
 
 ### 5.2 Media Being
 
@@ -279,18 +277,18 @@ notes on stage design. *Krapp's Last Tape* captures the mid-century movement
 between institutional and personal archiving practices. It reveals the play as
 a commentary on a particular mode of being and a sense of self that spans
 externalized representations of archived consciousness: ledgers, spools, and
-boxes. Where the institution harbors artifacts of collective memory, the
-private archive harbors personal artifacts, that only make sense indexically,
-in relationship to lived experience. It is perhaps for this reason that other
-people's diaries, family photo albums, and curio cabinets can be so painfully
-tedious to encounter. They are strictly meaningless to others. We can only
-relate to the pathos of curating such a collection. As librarians of self we
-take notes, keep diaries, write to-do lists, and take self portraits to
+filing cabinets. Where the institution harbors artifacts of collective memory,
+the private archive harbors personal artifacts, which make sense only
+indexically, in relationship to lived experience. It is perhaps for this reason
+that other people's diaries, family photo albums, and curio cabinets can be so
+painfully tedious to encounter. They are strictly meaningless to others. We can
+only relate to the pathos of curating such a collection. As librarians of self
+we take notes, keep journals, write to-do lists, and take self portraits to
 remember the way we were and to provide a sense of continuity with the way we
 are now. The collection sends a message to the future: remember this, this is
 who you are. It is here, in the personal archive, one encounters the fragility
 of mind's recall. Sounds, images, smells, and memories fade where the artifact
-endures. The personal archive can thus be seen as an attempt to shore up
+endures. The personal archive can thus be seen as an attempt to shore up the
 natural human defences against the forces of amnesia, time, decay, and
 oblivion.
 
@@ -315,9 +313,12 @@ sadness," Sartre writes, "except that I obligingly promise it an appointment
 for later after the departure of the visitor" [@sartre_being_1993, 104]?
 *Krapp's Last Tape* reminds us of the ubiquity of such appointments. "Remember
 their laughter forever," is not even about "them." As a marketing slogan, it
-encourages consumers to secrete happy private mental states onto externalized
-and fixed representation: remember yourself this way, and also label, organize,
-archive, browse, encounter.
+encourages consumers to commit happy and private mental states into
+externalized storage. More than that, it implies an ongoing activity of
+continually re-remembering yourself that way from the past: to label, organize,
+to archive, to browse, and to encounter. These are private commitments, but
+also openly monetized and manufactured by media makers. "Remember forever,"
+also contains a threat, "lest you forget."
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -346,11 +347,11 @@ The "future thought of the community" suggests a model of knowledge formation
 that cannot be reduced to private mental life: social epistemology. Yet another
 idea implicit in these lines, takes the consistency of mental life to happen
 through externalized, although still somewhat private (individual), forms of
-mental persistence. This chapter can be taken as an extended footnote on these
-lines, articulating a set of related propositions that, in complement to
-mechanisms of collective memory formation, identify pervasive but still not
-well-studied practices of personal self-persistence through storage media, in
-what I call "media being".
+mental persistence. This chapter can be taken as an extended prelude or a
+footnote to these lines, articulating a set of related propositions that, in
+complement to mechanisms of collective memory formation, identify pervasive but
+still not well-studied practices of personal self-persistence through storage
+media, in what I have been calling "media being".
 
 The first of these propositions distinguishes a range of media structures that
 serve to externalize and to preserve private mental states. The second sees
@@ -368,29 +369,28 @@ cognition proper. That is to say that if we accept the premises of media being
 (and extended cognition more broadly), we must afford them the same care we
 reserve for conventional cognitive structures, be it in the analogy to critical
 thinking or self-reflection. Fundamentally, as I will argue after Sartre, such
-externalized cognitive structures must at least remain transparent to be
-available for examination.
+externalized cognitive structures must at least remain transparent to the
+whatever agent capable of cognition.
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
 all, what can a book or a play tell us about conciousness or memory? Yet, I am
-prepared to continue this conversation on more empirical basis. Recent
-developments in cognitive science itself advance a hypothesis of extended
-cognition, which has tremendous implications for the study of knowledge, texts,
-and literature.  Under the hypothesis of extended cognition, thinking happens
-not in the brain alone, but at the interface between cognitive, social, and
-technological structures. And once we admit that cognition has an externalized,
-material form, we must accept it (at least in that extended portion) as a
-culturally- and historically- contingent artifact. This means that things like
-books, chapters, filing systems, and book indices, belong not to the history
-media or textual theory alone, but also to the theory of cognition. This also
-means that cognition, in its extended form, *has* a history. To the extent that
+prepared to continue this conversation on more empirical basis. The hypothesis
+of extended cognition, which brings externalized extensions of thought under
+the cognitive purview, has tremendous implications for the study of knowledge,
+texts, and literature. Under the hypothesis of extended cognition, thinking
+happens not in the brain alone, but at the interface between cognitive, social,
+and technological structures. And once we admit that cognition has an
+externalized, material form, we must accept it (at least in that extended
+portion) as a culturally- and historically- contingent artifact. This means
+that things like books, chapters, filing systems, and book indices, belong not
+to the history media or textual theory alone, but also to the theory of
+cognition, philosophy of mind, and yes, even pathology of the brain. The
+extension also implies that cognition as *has* a history. To the extent that
 media studies and literary theory deal with forms of media being, they enter
 cognitive science on equal grounds, not as mere illustration, metaphor, or
 supplement. Under the hypothesis of extended cognition, the personal bookshelf
-is, in some real sense, a cognitive structure. An exposition of the extended
-cognition hypothesis will pave the way to a case study of personal archiving
-practice in the history of modern computing, at the conclusion of the chapter.
+is, in some real sense, a cognitive structure.
 
 [^ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 
@@ -406,7 +406,7 @@ Recording [@museum_of_magnetic_sound_recording_time_2013].
 Let us start again. What does it mean to "have read" a book? Surely, when
 someone says "I too have read this book" they mean something more than the
 mechanical action of turning pages and moving one's eyes from left to right in
-a sequential manner. The acto of purchasing and owning the book is also
+a sequential manner. The act of purchasing and owning the book is also
 somewhat besides the point. A deeper structure is implied. To have read is to
 claim to internalize, to understand, and to form a mental image or opinion. But
 what exactly is internalized? It cannot be the whole text, verbatim. By reading
@@ -482,37 +482,44 @@ In refusing to resolve the tension between functional (or behaviorist) and
 formal (or structuralist) accounts of cognition, Wittgenstein's thought
 experiments suggest a model of textual activity that sees reading and writing
 as a movement between innate mental structures their external, media-bound
-representations. Although Wittgenstein does not see it in these terms, reading
-and writing for him happens at the interface of mental and physical boundaries.
-Reading and writing proper involve a measure of correspondence between mind
-states and paper-and-ink states.
+representations. Although Wittgenstein does not explain it in these terms,
+reading and writing for him happens at the interface of mental and physical
+boundaries. In other words, reading and writing proper involve a measure of
+"proper" correlation between internal mind states and external paper-and-ink
+(or voice and speech) states.
 
-To have read a book involves a certain facility with the text: in the way its
-structure can, with much practice and repetition, become readily available to
-the "mind's eye." I "see" a particular thought or image in relationship to the
-rest of the structure. What was then a series of unrelated vignettes, my mind
-stitches into some coherent whole. That structure is not in the mind alone: I
-have a "feeling" about the location of a thought on paper. The cognitive
-facility with the work as a mental construct accompanies a practical facility
-with the text as a physical artifact. I will "leaf through" a familiar book. I
-may not yet know what I am looking for, but I remember where the "sign posts"
-are. The mental facility of "having read something" is however severely
-curtailed by the limits of human cognitive apparatus. Even after teaching the
-same text for several decades, I have to "refresh" my knowledge of its
-contents. This sort of knowledge becomes easier with repetition, but I am also
-painfully aware of its impermanence. And fundamentally, the knowledge in my
-"mind's eye" constitutes a small fraction of the things I know "ready at hand."
-Most things that I know and have read are available to me on my book shelves,
-in my notebooks, online, and on my hard drives. I do not know them in a sense
-of remembering them---I know them in the sense of being able to find the
-information, to access it when needed, to evaluate sources, and recall my past
-(formed) reactions. And I suspect that most things I know and have read come to
-me in that externalized form. The amount of ideas accessible to me "at hand"
-must vastly outnumber the ideas in the "mind's eye." The hand and the inner eye
-work together to enter into what Barbara Herrnstein Smith calls "a circuit of
-reciprocal effectivity" [@smith_belief_1997, 54], except, in this case, both
-the speaker and the listener, reader and writer, are found in one of the same
-person.
+To have read a book, for example, involves a certain facility with the text: in
+the way its structure can, with much practice and repetition, become readily
+available to the "mind's eye." I "see" a particular thought or image in
+relationship to the rest of the structure. What was then a series of unrelated
+vignettes, my mind stitches into some coherent whole. That structure is not in
+the mind alone: I have a "feeling" about the location of that thought on paper.
+The cognitive facility with the work as a mental construct accompanies a
+practical facility with the text as a physical artifact. I will "leaf through"
+a familiar book. I may not yet know what I am looking for, but I remember where
+the "sign posts" are. The mental facility of "having read something" is however
+curtailed by the limits of human memory. Even after teaching the same text for
+several years in a row, I have to "refresh" my knowledge of its contents. This
+sort of knowledge becomes easier with repetition, but I am also painfully aware
+of its impermanence. Abandoning a text for several decades means to lose some
+facility in navigating it mentally and physically. I still "have read it," but
+with time "having read" begins to mean less than before. That structures of
+"having internalized" become a memory internalized structures. And that is a
+difficult thing to admit to oneself. We expect or at least talk as if knowledge
+has a semi-permanent cognitive purchase within the individual. But,
+fundamentally, I also must admit that the knowledge in my "mind's eye"
+constitutes only a small fraction of the things I know "ready at hand." Most
+things that I know and have read are available to me on my book shelves, in my
+notebooks, online, and on my hard drives. I do not know them in a sense of
+remembering them---I know them in the sense of being able to find the
+information if needed, to evaluate sources, and to recall a cascade of related
+past (formed) mental reactions. I suspect that most things I know and have read
+come to me in that condensed, externalized form. The amount of ideas accessible
+to me "at hand" must vastly outnumber the ideas in the "mind's eye." The hand
+and the inner eye work together to enter into what Barbara Herrnstein Smith
+calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
+in this case, both the speaker and the listener, reader and writer, are found
+in one of the same person.
 
 In thinking of cognitive structures inside and outside the natural brain-bound
 limits of the mind, Nietzsche and Wittgenstein anticipate a late-twentieth
