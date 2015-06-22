@@ -17,16 +17,18 @@ header-includes:
 ## Chapter 4: Letter at Hand
 `reading, writing, home, media being`
 
-Right away, let us dissmiss the common misonception about the origins of the
+Right away let us dissmiss the common misonception about the origins of the
 QWERTY keyboard. It did not gain that arrangement because. It is also not true
 that other layout necessarily achieve faster speeds like Dvorak or . This
 chapter is about keyboards however. It won't be a totalizing history, as
 before. Why so important? Why so not important now?
 
-### History
-### Dvorak
 ### Stenography
+
+### Dvorak
+
 ### Heidegger
+
 ### Extended Cognition
 
 Friedrich Nietzsche spoke of the modern man who "drags around with him a huge
@@ -83,8 +85,11 @@ example contains within them a bifurcated model, that puts some notion of inner
 "natural mind" into an often problematic relationship with technologies of
 externalized cognitive augmentation.
 
+
 ### Back to Dvorak
+
 I am trying
+
 ### History
 ### Dvorak
 ### Stenography
@@ -100,9 +105,6 @@ Keyboard
 At hand.
 Interface
 Lori Emmerson
-
-### Metaphors of Design
-John M. Carroll with Human Factors
 
 ### Extended Cognition
 

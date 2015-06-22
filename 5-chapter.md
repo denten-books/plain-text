@@ -465,7 +465,7 @@ the real artichoke by stripping it of its leaves," writes Wittgenstein
 [@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
 together, *are* the artichoke.
 
-At which point of peeling the artichoke, does the artichoke disappear into
+At which point of peeling the artichoke does the artichoke disappear into
 leafy particulates? Cognition, for Wittgenstein, works in the same way. Our
 mistake lies in attempting to reduce cognitive activity like "reading" to a set
 of either external (functional) attributes or internal (formal) mental
@@ -534,6 +534,8 @@ early 1910s. Wundt himself credits the creation of "folk" or, better yet,
 (1824--1903) and Heymann Steinthal (1823--99), German--Jewish philosophers and
 philologists of an earlier generation, both now for the most part forgotten in
 this lineage [@danziger_origins_1983].
+
+### 5.4 Ethno-Psychology
 
 In their programmatic 1860 introduction to the first issue of *Journal for
 Linguistics and Folk Psychology* (*Zeitschrift für Völkerpsychologie und
@@ -613,30 +615,14 @@ through technology to attain "lasting efficacy" (*Wirksamkeit*) conditioned
 through continual "knowledge of use" (*Kenntniß des Gebrauchs*)
 [@lazarus_einige_1865, 55].
 
-More than a century later, Donald Norman
+### 5.5 Vygotsky Circle (+Luria)
+
+### 5.6 Americans
 
 Michael Cole. p118
+More than a century later, Donald Norman. James Carroll.
 
-https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
-
-Impact on the study of textual artifact. If are are to take the hypothesis of
-extended cognition seriously, we must treat the tools of cognitive augmentation
-as seriously as we would our own mental development, in the traditional sense.
-
-The flattening of the knowledge realm. It is not the absence of topography. It
-is our ability to readily perceive topography, and to place ourselves within
-that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
-The surgeon should get more money because of the subjective experience of
-cutting people up. That part does not transfer. The technical literature is
-actually quite understandable. Incommensurability of subjective experience.
-Commensurability of knowledge. The fundamental problem of modern world is the
-problem of expertise.
-
-http://word.mvps.org/faqs/general/wordvswordperfect.htm
-http://wptoolbox.com/tips/MSWordToWP.html
-modal vs. other kinds of processing
-
-### 5.4 Home (Case Study)
+### 5.7 Home (a case study)
 
 The domestic space has always been, in some sense, an archival domain. The
 book shelf, the pantry, the wall, and the mantle: these are the locations where
@@ -667,8 +653,11 @@ Home, and home.
 
 Turn towards personal computing.
 
-Why Lazarus and Steinthal.
+Transparency. Window Systems Should Be Transparent by Rob Pike
 
+You don't have to buy this picture. The importance of this intellectual history
+ais that human-computer interaction as a field has its roots there. People who
+design software view their work as cognitive extension.
 
 [^ln4-halbwachs]: To this one may add the related by still parallel
 intellectual genealogy that passes through Henri Bergson, Émile Durkheim, and
@@ -678,9 +667,5 @@ influential now in the field of cultural memory studies.
 [^ln4-stein]: Translations are mine throughout, referenced were appropriate
 with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
 @diriwachter_volkerpsychologie_2004.
-
-
-Transparency. 
-Window Systems Should Be Transparent by Rob Pike
 
 ### Works Cited

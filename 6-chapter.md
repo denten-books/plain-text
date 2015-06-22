@@ -63,7 +63,7 @@ It has survived decades of alternatives touted as "better," "faster," "more
 usable," etc. etc. etc. That is the remarkable achievement of *nix / GNU etc.
 approach to creating human-centric software. As we architect new and ever more
 complex systems, we would do well to understand why Unix has endured, warts and
-all.  
+all.
 
 Plain text is a file format optimized for a human mind. It keeps the
 system available to view.
@@ -75,6 +75,29 @@ The debate over encryption erupted on Capitol Hill again Wednesday, with an FBI
 official testifying that law enforcement's challenge is working with tech
 companies "to build technological solutions to prevent encryption above all
 else."
+
+### Hyper Erudition
+
+Flattening of the knowledge realm.
+https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
+
+
+Impact on the study of textual artifact. If are are to take the hypothesis of
+extended cognition seriously, we must treat the tools of cognitive augmentation
+as seriously as we would our own mental development, in the traditional sense.
+
+The flattening of the knowledge realm. It is not the absence of topography. It
+is our ability to readily perceive topography, and to place ourselves within
+that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
+The surgeon should get more money because of the subjective experience of
+cutting people up. That part does not transfer. The technical literature is
+actually quite understandable. Incommensurability of subjective experience.
+Commensurability of knowledge. The fundamental problem of modern world is the
+problem of expertise.
+
+http://word.mvps.org/faqs/general/wordvswordperfect.htm
+http://wptoolbox.com/tips/MSWordToWP.html
+modal vs. other kinds of processing
 
 ### Marx and Robots 
 
@@ -746,7 +769,6 @@ mystifying black-box mechanism.
 
 Engineer vs. brick levi strauss?
 
-
 Derrida calls Marx "first thinkers of technics, or even, by far and from afar,
 of the tele-technology [@derrida_specters_2006, 213].
 
@@ -869,7 +891,10 @@ historically (where Lennon gets it right). You are not a gadget.
 
 ### 6.4 Parity
 
-### 6.5 Dissent
+### 6.5 Dissent and Disobedience
+
+phttp://www.ernestooroza.com/
+Technological Disobedience
 
 Creating SPACE. Physical space.
 
@@ -906,7 +931,7 @@ at MIT, suggests that citizens who do not follow all the laws are engaging in
 to alter its policies, without necessarily challenging its overall status.  
 http://newsoffice.mit.edu/2015/citizens-disobey-enact-change-0519
 
-### Man in the Middle
+### Human in the Middle
 
 Alice, Bob, Caryl.
 http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
@@ -914,11 +939,6 @@ Communication theory of secrecy systems, shannon
 
 Zimmermann responded by publishing the source code as a book, an act that was
 constitutionally protected as free speech. 
-
-### Disobedience
-
-phttp://www.ernestooroza.com/
-Technological Disobedience
 
 ### 6.6 Engelbart
 
@@ -951,29 +971,7 @@ the material g
 
 Warren Brodey Human Enhancement
 
-## Tech Appendix
-
-### Prepare How to run the terminal. What is it. And why?  Intro to POSIX
-
-### 1.1 Encoding Commands: pwd, ls, cd, cat, wc
-
-Where am I? `pwd`, `ls`, `cd` Bits, bytes, and characters: `wc`
- 
-### 1.2 Processing Commands: grep, awk, sed Hunting the whale.  ## 1.3 Recursive
-Encounters Vectors. SCP. 
-
-### 1.3 Digital
-`cat`
-`xxd`
-
-### 2.1 Medium and Message Fuzzing.
-
-### 2.2 Freedom of Information
-
-## Works Cited
 ### 5.1 Copy Machine
-
-This should be a chapter about Unix.
 
 We often think of literary works as completed products. *To the Lighthouse,*
 *Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
