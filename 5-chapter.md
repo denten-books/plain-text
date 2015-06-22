@@ -18,7 +18,7 @@ header-includes:
 ---
 
 ## Chapter 5: Recursive Encounters with Oneself
-`reading, writing, home, media being`
+`reading, writing, home, media being, culture, technology`
 
 ### 5.1 Librarians of Self
 
@@ -594,39 +594,28 @@ explicitly rejected anthropology as too "physiological" and too "climatic" to
 provide sufficient grounds for a study of *Volksgeist.* Their explicit aim was
 to make the "total of inner experience comprehensible"
 [@kalmar_volkerpsychologie_1987, 673-4]. They therefore considered cognates
-like "mental ethnology" before settling on *Völkerpsychologie*.  While not
-explicitly denying the social, the choice of "psychology" captures a specific
-concern with private mental life. Lazarus writes:
+like "mental ethnology" before settling on *Völkerpsychologie*. Cultural
+psychology therefore reflects a concern with both "subjective" and "objective"
+life of the spirit, in a mutual dialogue between a person's inner life, as a
+sequence of impressions and ideas, and the sum total of "concrete" and
+"objectified" or externalized manifestations of that inner life (like documents,
+buildings, and commercial products" [@lazarus_einige_1865, 53-55; also quoted
+in @kalmar_volkerpsychologie_1987, 679]. This model of culture itself relies on
+recursion, by which the common (*das Allgemeine*) and the personal (*das
+Persönliche* are throughout intertwined (*durchaus gleichgemischt*)
+[@lazarus_einige_1865, 55].
 
-> Der objective Geist ist, wie wir gesehen haben, der au der personlichen
-(subjectiven) ?hatigkeit der ?inzelen hervorgegangene, erzeutge und vorhandeue,
-als solcher den Personen thatsachling gegenuberstehende geistige Gehalt,
-welcher al Inhalt und Form des gistigen Lebens sick tund gibt.  In all habitual
-and national characteristic reflection and skill, in all national manners and
-forms, in all artistic practices and personal representations, Geist and
-nature, body and soul, tradition and present, the general and the personal are
-thoroughly intertwined. HAVE tOBIAS TRANSCRIBE. [@lazarus_einige_1865, 53-55;
-also quoted in @kalmar_volkerpsychologie_1987, 679].
+Technology plays an interesting role in this circle of internalizing and
+externalizing. Lazarus writes that "tools and machines appear between the
+extremes" of "symbolic personifications" (art works and documents) and purely
+spiritual elements (beliefs and convictions). The Spirit is "objectified"
+through technology to attain "lasting efficacy" (*Wirksamkeit*) conditioned
+through continual "knowledge of use" (*Kenntniß des Gebrauchs*)
+[@lazarus_einige_1865, 55].
 
-Nunmehr können wir versuchen, ein gedrängtes Bild von der gesammten Existenz-
-und Wirkungsweise des objectiven Geistes überhaupt zu entwerfen, in welchem
-alle Momente der Charakteristik verschiedener Genossenschaften und ihres
-objectiven Geistes gegeben sind.
+More than a century later, Donald Norman
 
-Der objective Geist ist, wie wir gesehen haben, der aus der persönlichen
-(subjectiven) Thätigkeit der Einzelnen hervorgegangene, erzeugte und
-vorhandene, als solcher den Personen thatsächlich gegenüberstehende geistige
-Gehalt, welcher als Inhalt und Form des geistigen Lebens sich kund gibt. Die
-beiden extremen Erscheinungen, in denen dieser objective Geist sich
-manifestirt, sind also diese. Auf der einen Seite stehen rein geistige
-Elemente: Anschauungen, Ueberzeugungen, Gesinnungen, Denkformen, Gefühlsweisen
-u.s.w.; sie sind Elemente des objectiven Geistes, in so fern sie im
-Volke verbreitet, dauernd und charakteristisch sind, als das Vorhandene dem
-einzelnen Geiste gegenüberstehen und auf ihn wirken; ihre Existenz aber, den
-Ort und die Art ihres Daseins haben diese Elemente dennoch nur in den
-persönlichen Subjecten, in den einzelnen Geistern, in deren subjectiver
-Thätigkeit sie eben als das Allgemeine in dem Individuellen auf concrete Weise
-enthalten sind.  Flattening of the knowledge domain. Hyper erudition.
+Michael Cole. p118
 
 https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
 
@@ -645,7 +634,7 @@ problem of expertise.
 
 http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
-modal vs. other kinds of processing 
+modal vs. other kinds of processing
 
 ### 5.4 Home (Case Study)
 
