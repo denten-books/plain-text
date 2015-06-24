@@ -16,12 +16,32 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
-I am able to now finally confront the ghostly apperation present throuhgout in
+Attributes ideas of autonomous technology to a Thomas, Carlyle, Charles
+Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Thoreau, mark Twain,
+Henry Adams, John Ruskin, William Morris, E. E. Cummings, George Orwell, Marcel
+Duchamp, and Kurt Vonnegut.
+
+"In one definition or another autonomous technology is now a significant
+transdisciplinary hypothesis in the natural and social sciences, the arts,
+journalism, and even the technical specialties themselves. But how can this
+be" [@winner, 19].
+
+Faustian spirit. Striving for control. "The proof of science is technology"
+[@winner, 25]. What can you actually do?
+
+Skepticism about technological agency in the face of "unintended" or "emergent"
+side effects of complex systems. If fracking for natural gas contributes to the
+increase of earthquakes, that does not mean that fracking somehow "has a mind"
+to destroy humanity by earthquakes.
+
+I am able to now finally confront the ghostly apparition present throughout in
 the background
-Much of what today goes by the term new materialsm is materialism in the sense
-of talking about and priveleging a certain idea of object-oriented
+Much of what today goes by the term new materialism is materialism in the sense
+of talking about and privileging a certain idea of object-oriented
 consciousness. Some go even as far as to elevate objects to the status of
 political and ethical agents, as when.
+
+Winner has it as noncomprehensibility instead of autonamism.
 
 Three figures: Heidegger, Marx, and Fanon.
 
@@ -29,10 +49,10 @@ We now reach the final and most speculative chapter of the book. Here, I can no
 longer rely on strictly historical examples to make my case. So far, I have
 shown that a notion of plain text is, in some real sense, engineered into the
 fabric of modern computing. I have argued that our daily encounter with the
-text, mediated by the screeen and the keyboard, cannot and should not be
-understood in mere instrumental terms. The technological system that envolops
-the creation and the transmissoin of thought is more than an instrument or a
-market. It constitutes a part of our cognitive appparatus. What are the values
+text, mediated by the screen and the keyboard, cannot and should not be
+understood in mere instrumental terms. The technological system that envelops
+the creation and the transmission of thought is more than an instrument or a
+market. It constitutes a part of our cognitive apparatus. What are the values
 that guide the development. Transparency, parity, room for dissent.
 
 I think the author misses the point. As far as I see it, Unix tools are
