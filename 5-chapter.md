@@ -382,15 +382,23 @@ texts, and literature. Under the hypothesis of extended cognition, thinking
 happens not in the brain alone, but at the interface between cognitive, social,
 and technological structures. And once we admit that cognition has an
 externalized, material form, we must accept it (at least in that extended
-portion) as a culturally- and historically- contingent artifact. This means
-that things like books, chapters, filing systems, and book indices, belong not
-to the history media or textual theory alone, but also to the theory of
-cognition, philosophy of mind, and yes, even pathology of the brain. The
-extension also implies that cognition as *has* a history. To the extent that
-media studies and literary theory deal with forms of media being, they enter
-cognitive science on equal grounds, not as mere illustration, metaphor, or
-supplement. Under the hypothesis of extended cognition, the personal bookshelf
-is, in some real sense, a cognitive structure.
+portion) as a culturally- and historically- contingent artifact and one that
+further occupies a privileged position among otherwise inorganic and dead
+furnishings that support human activity. That is to say that some **things**
+become a part of my mental world. I am more attached to those things, than
+to others. I rely on them to store parts of myself. They, in some real sense,
+form my "inner mental life" to the extent that other things do not.
+
+"possessions represent extensions of the self"
+@saxena "sentimental saving"
+
+Object Affect Fusion "refers to the psychological phenomena within
+obsessive-compulsive hoarding in which the individual appears to pair and fuse
+emotions associated with objects to the actual objects themselves. Possessions
+therefore falsely become symbolic tabernacles of affection information
+inevitably creating difficulties at the point of discard"
+[@kellett_does_2003, 458]. "Emotional attachment to objects are commonplace"
+[@kellett_does_2003, 458]
 
 [^ln4-recursive]: See also @breuer_paradox_1993, 559-580.
 
@@ -401,228 +409,22 @@ original.
 sound recording advertisements curated by the Museum of Magnetic Sound
 Recording [@museum_of_magnetic_sound_recording_time_2013].
 
-### 5.3 Knowledge at Hand
+### 5.3 Freedom of Information
 
-Let us start again. What does it mean to "have read" a book? Surely, when
-someone says "I too have read this book" they mean something more than the
-mechanical action of turning pages and moving one's eyes from left to right in
-a sequential manner. The act of purchasing and owning the book is also
-somewhat besides the point. A deeper structure is implied. To have read is to
-claim to internalize, to understand, and to form a mental image or opinion. But
-what exactly is internalized? It cannot be the whole text, verbatim. By reading
-we mean something other than rote memorization. In his *Blue and Brown Books*,
-written somewhere between the *Tractatus* and *Philosophical Investigations*,
-Ludwig Wittgenstein gives the example of a child who is asked to read, but who
-instead regurgitates the text from memory. Wittgenstein further asks his
-readers to imagine an experimental "human reading machine," which like the
-child "reads" by making sounds which sometimes do and sometimes do not
-correspond with the printed word. An observer not familiar with the mechanism
-of this experimental "reader," could be fooled into thinking the machine is
-reading. The coincidence between sound and word remains accidental, however. We
-would remain skeptical of this activity as reading even if our machine were to
-begin to correlate letters to appropriate sounds consistently
-[@wittgenstein_blue_1965, 120-1].
+"Mental climate of collecting"
+"To a book collector, you see, the true freedom of all books is somewhere on his
+shelves" [@benjamin_unpacking_1968, 64].
 
-In his characteristically cryptic manner, Wittgenstein explains his thought
-experiment by making yet another analogy:
-
-> If A tries to make B believe that he is able to read Cyrillic script,
-> cheating him by learning a Russian sentence by heart and then saying it while
-> looking at the printed sentence, we may certainly say that A knows he is
-> pretending, and that his not reading is characterized by a particular
-> personal experience [@wittgenstein_blue_1965, 120-1].
-
-But suppose the man really does know how to read Russian, although when he
-reads he has a peculiar feeling of knowing the words by heart. Should we regard
-his personal experience as the criterion distinguishing between reading and not
-reading in that case? And again, Wittgenstein expects us to answer in the
-negative. It seems then, that the functional performance of reading cannot
-determine the behavior alone. In each case, we had to check for the appropriate
-internalized mental state. Wittgenstein writes, "We here envision two
-mechanisms, the internal workings of which we can see, and this internal
-working is the real criterion for a person's reading or not reading. But in
-fact no such mechanisms are known to us in these cases"
-[@wittgenstein_blue_1965, 120]. As it turns out, the mental state alone is also
-insufficient to describe reading definitively. Here, Wittgenstein asks us to
-imagine a person under the influence of drugs who is shown a set of discrete
-strings composed of nonsensical characters. When shown some random string of
-nonsensical characters like `$%^&*`, for example, the drugged patient imagines
-he is reading some English word, like "above" or "stair," as if the
-typographical characters were meaningful. As far as the patient is concerned,
-he is reading. All the structural attributes of the action are there---the
-proper region of his brain is receiving stimulation; he follows the text with
-his eyes from left to right; and silently mouths the words. But this too is
-unacceptable: the patient merely imagines that he is reading
-[@wittgenstein_blue_1965, 122].
-
-In this way, neither the internal nor the external descriptions of the action
-seem adequate to encompass everything we mean by reading. And yet we do have a
-relatively clear picture of what reading properly entails, what it looks like,
-what it sounds like, how to do it, and how to teach others to do it. In
-building this chain of deferring analogies (from the reading child to the drug
-induced reading hallucination) we are acting as though "we had tried to find
-the real artichoke by stripping it of its leaves," writes Wittgenstein
-[@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
-together, *are* the artichoke.
-
-At which point of peeling the artichoke does the artichoke disappear into
-leafy particulates? Cognition, for Wittgenstein, works in the same way. Our
-mistake lies in attempting to reduce cognitive activity like "reading" to a set
-of either external (functional) attributes or internal (formal) mental
-structures. Yet neither of these are sufficient. Reading happens in the head
-and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
-
-> In the consideration of our problems one of the most dangerous ideas is the
-> idea that we think with, or in, our heads [...] 'Thinking takes place in the
-> head" really means only 'the head is connected with thinking."---Of course
-> one says also 'I think with my pen' and this localization is at least as good
-> [@wittgenstein_blue_1965, 116].
-
-In refusing to resolve the tension between functional (or behaviorist) and
-formal (or structuralist) accounts of cognition, Wittgenstein's thought
-experiments suggest a model of textual activity that sees reading and writing
-as a movement between innate mental structures their external, media-bound
-representations. Although Wittgenstein does not explain it in these terms,
-reading and writing for him happens at the interface of mental and physical
-boundaries. In other words, reading and writing proper involve a measure of
-"proper" correlation between internal mind states and external paper-and-ink
-(or voice and speech) states.
-
-To have read a book, for example, involves a certain facility with the text: in
-the way its structure can, with much practice and repetition, become readily
-available to the "mind's eye." I "see" a particular thought or image in
-relationship to the rest of the structure. What was then a series of unrelated
-vignettes, my mind stitches into some coherent whole. That structure is not in
-the mind alone: I have a "feeling" about the location of that thought on paper.
-The cognitive facility with the work as a mental construct accompanies a
-practical facility with the text as a physical artifact. I will "leaf through"
-a familiar book. I may not yet know what I am looking for, but I remember where
-the "sign posts" are. The mental facility of "having read something" is however
-curtailed by the limits of human memory. Even after teaching the same text for
-several years in a row, I have to "refresh" my knowledge of its contents. This
-sort of knowledge becomes easier with repetition, but I am also painfully aware
-of its impermanence. Abandoning a text for several decades means to lose some
-facility in navigating it mentally and physically. I still "have read it," but
-with time "having read" begins to mean less than before. That structures of
-"having internalized" become a memory internalized structures. And that is a
-difficult thing to admit to oneself. We expect or at least talk as if knowledge
-has a semi-permanent cognitive purchase within the individual. But,
-fundamentally, I also must admit that the knowledge in my "mind's eye"
-constitutes only a small fraction of the things I know "ready at hand." Most
-things that I know and have read are available to me on my book shelves, in my
-notebooks, online, and on my hard drives. I do not know them in a sense of
-remembering them---I know them in the sense of being able to find the
-information if needed, to evaluate sources, and to recall a cascade of related
-past (formed) mental reactions. I suspect that most things I know and have read
-come to me in that condensed, externalized form. The amount of ideas accessible
-to me "at hand" must vastly outnumber the ideas in the "mind's eye." The hand
-and the inner eye work together to enter into what Barbara Herrnstein Smith
-calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
-in this case, both the speaker and the listener, reader and writer, are found
-in one of the same person.
-
-In thinking of cognitive structures inside and outside the natural brain-bound
-limits of the mind, Nietzsche and Wittgenstein anticipate a late-twentieth
-century turn towards "extended" and "situated" cognition in the fields of
-psychology, cognitive studies, and most relevantly for this book, in the field
-of human-computer interaction (HCI). Donald Norman, a prominent figure in HCI,
-traces the concern with what he calls "cognitive artifacts" to the work of the
-German physiologist, Willhelm Wundt (1832--1920 who, among other ideas,
-pioneered the notion of "folk psychology [@norman_designing_1991, 3]" in the
-early 1910s. Wundt himself credits the creation of "folk" or, better yet,
-"ethno-" or "cultural psychology (*Völkerpsychologie*) to Moritz Lazarus
-(1824--1903) and Heymann Steinthal (1823--99), German--Jewish philosophers and
-philologists of an earlier generation, both now for the most part forgotten in
-this lineage [@danziger_origins_1983].
-
-### 5.4 Ethno-Psychology
-
-In their programmatic 1860 introduction to the first issue of *Journal for
-Linguistics and Folk Psychology* (*Zeitschrift für Völkerpsychologie und
-Sprachwissenschaft*), Lazarus and Steinthal declare a new discipline of study
-which combines "physical" and "mental ehtnology" [@lazarus_einleitende_1860,
-1]. Elsewhere, in search of making the Hegelian notion of *Geist* more
-concrete, the authors separate the Hegelian spirit into what they call they
-call purely "mental elements," like views, convictions, opinions, thoughts and
-feelings, and "symbolic embodiments of thought," like art work, documents,
-literature, built structures of all kinds, and industrial products. These
-"contain the objectified spirit in the narrow sense," as "*Geist* transferred
-into an object," which then has the potential to "arouse subjective [mental]
-activity" [@lazarus_einige_1865, 53-4].[^ln4-stein] In this way, "the movement
-of ideas includes an organic system for the generation of intellectual tools
-[*Erzeugung von geistigen Werkzeugen*], which help and reinforce one another"
-[@lazarus_einleitende_1860, 18]. In this light, cultural psychology emerges as
-a "third science" between natural sciences and history, "mediating" between
-universal law and individual human freedom [@lazarus_einleitende_1860, 19]. For
-Lazarus and Steinthal, cultural psychology offers something like a "physiology
-of human history." In contrast to the prevailing racial and Darwinist
-explanations of historical process, which arranged cultures along a
-hierarchical evolutionary pyramid (with Western civilization at its
-pinnacle),[^ln4-kalmar] the authors view national psychology as a
-historically-contingent and neutral interplay between individual mental states
-and externalized, common, material representations of spiritual life
-[*Darstellung des geistigen Inhaltes*] [@lazarus_einleitende_1860;
-@lazarus_einige_1865].
-
-[^ln4-kalmar]: The anthropologist Ivan Kalmar calls this view "ethnocentric
-evolutionism" [@kalmar_volkerpsychologie_1987, 680].
-
-In the twenty volumes of the journal's existence, Lazarus and Steinthal wrote
-several programmatic pieces similar to the ones quoted above, but, perhaps due
-to their marginalized academic status, they rarely had the chance to put the
-proposed research program into practice. Their legacy remains in the
-articulation of *Völkerpsychologie*, which points to a systematic study of both
-the social and the material aspects of shared mental life. Scholars involved in
-reconstructing the intellectual legacy of Lazarus and Steinthal usually
-emphasize the first of these directions, placing them early within an explicit
-lineage of social thought that connects to Georg Simmel, Max Weber, and Martin
-Buber on the German side, to the French sociology school of Émile Durkheim and
-Marcel Mauss, to the Soviet socio-linguistics of Alexander Veselovsky,
-Alexander Potebnja, Mikhail Bakhtin; and to the birth of Anglo-American
-anthropology through Bronisła Malinowski and Franz Boaz
-[@danziger_origins_1983; @kalmar_volkerpsychologie_1987; @kohnke_four_1990;
-@greenwood_volkerpsychologie_1999; @diriwachter_volkerpsychologie_2004].
-Remarkably, all of the above mentioned scholars, many of whom started
-significant intellectual schools of their own, mention the *Völkerpsychologie*
-of Lazarus, Steinthal, and Wundt as an important early influence.
-
-Much more work needs to be done to recover the intellectual legacy of
-*Völkerpsychologie*. The Canadian cultural historian and anthropologist Ivan
-Kalmar, who was one of the earliest contemporary voices to begin that work,
-laments that Lazarus and Steinthal would have been much better remembered by
-anthropologists today had they described their research program as a type
-anthropology, instead of psychology. Yet he explains also that the authors
-explicitly rejected anthropology as too "physiological" and too "climatic" to
-provide sufficient grounds for a study of *Volksgeist.* Their explicit aim was
-to make the "total of inner experience comprehensible"
-[@kalmar_volkerpsychologie_1987, 673-4]. They therefore considered cognates
-like "mental ethnology" before settling on *Völkerpsychologie*. Cultural
-psychology therefore reflects a concern with both "subjective" and "objective"
-life of the spirit, in a mutual dialogue between a person's inner life, as a
-sequence of impressions and ideas, and the sum total of "concrete" and
-"objectified" or externalized manifestations of that inner life (like documents,
-buildings, and commercial products" [@lazarus_einige_1865, 53-55; also quoted
-in @kalmar_volkerpsychologie_1987, 679]. This model of culture itself relies on
-recursion, by which the common (*das Allgemeine*) and the personal (*das
-Persönliche* are throughout intertwined (*durchaus gleichgemischt*)
-[@lazarus_einige_1865, 55].
-
-Technology plays an interesting role in this circle of internalizing and
-externalizing. Lazarus writes that "tools and machines appear between the
-extremes" of "symbolic personifications" (art works and documents) and purely
-spiritual elements (beliefs and convictions). The Spirit is "objectified"
-through technology to attain "lasting efficacy" (*Wirksamkeit*) conditioned
-through continual "knowledge of use" (*Kenntniß des Gebrauchs*)
-[@lazarus_einige_1865, 55].
-
-### 5.5 Vygotsky Circle (+Luria)
-
-### 5.6 Americans
-
-Michael Cole. p118
-More than a century later, Donald Norman. James Carroll.
+"The phenomenon of collecting [books] loses its meaning as it loses its
+personal owner" [@benjamin_unpacking_1968, 67]. "Ownership is the most intimate relationship
+that one can have to objects. Not that they come alive in him; it is he who
+lives with them. So I have erected on of his dwellings, with books at the
+building stones, before you, and now he is going to disappear inside, as is only
+fitting" [@benjamin_unpacking_1968, 67].
 
 ### 5.7 Home (a case study)
+
+What is the concept of self in Unix?
 
 The domestic space has always been, in some sense, an archival domain. The
 book shelf, the pantry, the wall, and the mantle: these are the locations where
@@ -668,4 +470,11 @@ influential now in the field of cultural memory studies.
 with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
 @diriwachter_volkerpsychologie_2004.
 
+/home : User home directories (optional)
+Purpose
+
+/home is a fairly standard concept, but it is clearly a site-specific filesystem. [9] The setup will differ from host to host. Therefore, no program should rely on this location. [10]
+Requirements
+
+User specific configuration files for applications are stored in the user's home directory in a file that starts with the '.' character (a "dot file"). If an application needs to create more than one dot file then they should be placed in a subdirectory with a name starting with a '.' character, (a "dot directory"). In this case the configuration files should not start with the '.' character. [11]
 ### Works Cited

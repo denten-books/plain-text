@@ -100,6 +100,7 @@ Potential reviewers
     Lev Manovich
     Rita Raley
     Ben Peters
+    [Caroline Bassett](http://www.sussex.ac.uk/profiles/24166)
 
 Send Book To
 ===========================

@@ -16,6 +16,8 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
+I am able to now finally confront the ghostly apperation present throuhgout in
+the background
 Much of what today goes by the term new materialsm is materialism in the sense
 of talking about and priveleging a certain idea of object-oriented
 consciousness. Some go even as far as to elevate objects to the status of
