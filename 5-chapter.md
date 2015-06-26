@@ -136,11 +136,17 @@ capacity for recursion [@hofstadter_i_2008]. As a species, we are perhaps
 uniquely capable of modeling (externalizing) our own behavior, of once again
 internalizing that model, and of subsequently altering our course of action to
 deviate (n+1) from that original, fixed, and now no longer fully congruent
-image of ourselves (n-1). But where does such modeling and externalizing take
-place? Beckett's play unfolds by the logic of media being. Krapp's library
-constitutes a literature and an archive of sorts, but unlike other literary
-structures, his documents imply the self as both subject and audience of
-communication. To put it plainly: Krapp is talking to himself.
+image of ourselves (n-1).[^ln5-james-recur]  But where does such modeling and
+externalizing take place? Beckett's play unfolds by the logic of media being.
+Krapp's library constitutes a literature and an archive of sorts, but unlike
+other literary structures, his documents imply the self as both subject and
+audience of communication. To put it plainly: Krapp is talking to himself.
+
+[^ln5-james-recur]: See for example @james_principles_1890, 234: "Every
+brain-state is partly determined by the nature of its entire past succession.
+Alter the latter in any part, and the brain-state must be somewhat different.
+Each present brain-state is a record in which the eye of Omniscience might
+read all the forgone history of its owner."
 
 Edmund Husserl called this mode of communication "subjective expression"
 [@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
@@ -293,7 +299,7 @@ natural human defences against the forces of amnesia, time, decay, and
 oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
-impermanence. We are simply not that good at remembering things, even when
+impermanence.[^ln5-james] We are simply not that good at remembering things, even when
 those things are ourselves. The synchronic self continually recedes into the
 past, threatening to dissolve conciousness within the great ocean of non-being.
 In an issue of *e-misférica* dedicated to the subject of archives, Diana Taylor
@@ -319,6 +325,18 @@ continually revisit one's own past representations: to label, to organize, to
 archive, to browse, and to re-encounter. These are private commitments, but
 also openly manufactured and monetized by media makers. "Remember forever,"
 also contains a threat, "lest you forget."
+
+[^ln5-james]: In @james_principles_1890, 233-4 we find: "For it is obvious and
+palpable that our state of mind is never precisely the same. Every thought we
+have of a given fact is, strictly speaking, unique, and only bears a
+resemblance of kind with our other thoughts of the same fact [...] Often we are
+ourselves stuck at the strange differences in our successive views of the same
+thing. We wonder how we ever could have opined as we did last month about a
+certain matter [...] What was unreal has grown real, and what was exciting is
+insipid [...] and as for the books, what was there to find so mysteriously
+significant in Goethe, or in John Mill so full of weight? Instead of all this,
+more zestful than ever is the work, the work; and fuller and dipper the import
+of common duties, and of common goods."
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -427,7 +445,17 @@ subject [@kellett_does_2003, 458]. Clinical psychology rightly defines such
 attachment with the view to their distortion. For compulsive hoarders,
 "possessions therefore falsely become symbolic tabernacles of affection
 information inevitably creating difficulties at the point of discard"
-[@kellett_does_2003, 458].  
+[@kellett_does_2003, 458]. Lita Furby, who wrote one of the earliest definative
+literature reviews on the subject in the 1970s, traces the origins of
+object-affect fusion to William James. In the *Principles of Psychology* James
+writes about what he calls the "emperical self," which comprises the unity of
+all that could be called me:
+
+> It is clear that between what a man calls me and what he simply calls mine,
+the line is difficult to drw. We fell and act about certain things that oure
+ours very much as we feel and act about ourselves. our fame, our chirldren, the
+owrk of our hands, may be as dear to us as our bodies are, and arouse ithe same
+feelings inand the same acts of reprisal if attacked.
 
 clear that 
 
@@ -539,22 +567,31 @@ of its impermanence.
 Abandoning a text for several decades means to lose some facility in navigating
 it mentally and physically. I still "have read it," but with time "having read"
 begins to mean less than before. That structures of "having internalized"
-become a memory of past internalized structures. And that is a difficult thing
-to admit to oneself. We expect or at least talk as if knowledge has a
-semi-permanent cognitive purchase within the individual. But, fundamentally, I
-also must accept that knowledge available to my "mind's eye" constitutes only a
-small fraction of the things I can know "ready at hand." Most of the things I
-know and have read are available to me on my book shelves, in my notebooks,
-online, and on my hard drives. I do not know them in a sense of remembering
-them---I know them in the sense of being able to find the information if
-needed, to evaluate sources, and to recall a cascade of related past (formed)
-mental reactions. I suspect that most things I know and have read come to me in
-that condensed, externalized form. The amount of ideas accessible to me "at
-hand" must vastly outnumber the ideas in the "mind's eye." The hand and the
-inner eye work together to enter into what Barbara Herrnstein Smith calls "a
-circuit of reciprocal effectivity" [@smith_belief_1997, 54], except, in this
-case, both the speaker and the listener, reader and writer, are found in one of
-the same person.
+become a memory of past internalized structures.[^ln5-james-memory] And that is
+a difficult thing to admit to oneself. We expect or at least talk as if
+knowledge has a semi-permanent cognitive purchase within the individual. But,
+fundamentally, I also must accept that knowledge available to my "mind's eye"
+constitutes only a small fraction of the things I can know "ready at hand."
+Most of the things I know and have read are available to me on my book shelves,
+in my notebooks, online, and on my hard drives. I do not know them in a sense
+of remembering them---I know them in the sense of being able to find the
+information if needed, to evaluate sources, and to recall a cascade of related
+past (formed) mental reactions. I suspect that most things I know and have read
+come to me in that condensed, externalized form. The amount of ideas accessible
+to me "at hand" must vastly outnumber the ideas in the "mind's eye." The hand
+and the inner eye work together to enter into what Barbara Herrnstein Smith
+calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
+in this case, both the speaker and the listener, reader and writer, are found
+in one of the same person.
+
+[^ln5-james-memory]: For example, see @james_principles_1890, 255-6: "Every
+definite image in the mind is steeped and dyed in the free  water that flows
+round it. With it goes the sense of its relations, near and remote, the dying
+echo of whence it came to us, the dawning sense of whither it is to lead [...]
+What is that shadowy scheme of the 'form' of an opera, play, or book, which
+remains in our mind and on which we pass judgment when the actual thing is
+done? [...] It is a feeling like any other, a feeling of what thoughts are next
+to arise, before they have arisen."
 
 For a vast swath of my own textual activity, I exchange information with
 myself. And if that is true (as it is certainly true in the process of writing,
