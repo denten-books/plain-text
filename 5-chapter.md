@@ -413,6 +413,25 @@ goes beyond utilitarian use value. It is a relationship that "studies and
 loves" objects "as the scene, the stage, of fate" [@benjamin_unpacking_1968,
 60].
 
+In the language of contemporary psychology, the collecting of books blends
+"instrumental" and "sentimental saving." The medical literature on hoarding,
+the disorder of collection, defines instrumental saving as an emotional
+attachment to objects that are seen to fulfill a specific purpose ("I might
+need it later,") and sentimental saving as attachment to objects that
+"represent extensions of self" [@frost_cognitive-behavioral_1996;
+@saxena_treatment_2007, 1144]. Object-affect fusion (OAF) identifies a dynamic
+by which an "individual appears to pair and fuse emotions associated with
+objects to the actual objects themselves" [@kellett_does_2003, 458]. "Emotional
+attachment to objects are commonplace," mentions an influential article on the
+subject [@kellett_does_2003, 458]. Clinical psychology rightly defines such
+attachment with the view to their distortion. For compulsive hoarders,
+"possessions therefore falsely become symbolic tabernacles of affection
+information inevitably creating difficulties at the point of discard"
+[@kellett_does_2003, 458].  
+
+clear that 
+
+
 What does it mean to "have read" a book in this light? Surely, when someone
 says "I too have read this book" they mean something more than the mechanical
 action of turning pages and moving one's eyes from left to right in a
@@ -547,10 +566,14 @@ In charting out that unfamiliar territory of the personal archive, I am
 confounded by known models of communication, advanced by thinkers like
 Ferdinand de Saussure, Roman Jacobson, and Claude Shannon, a model that assumes
 the existence of a "sender" and a "receiver," an "addressant" and an
-"addressee." The state of a media being implies a vast archive of private
+"addressee." The state of a media being implies a prodigious archive of private
 literature, where the traditional distinction between object and subject is
-collapsed. For Shannon's model in particular, which lies at the foundations of
-of modern communication practice,
+collapsed. Private interpretation of private archives: I do not yet know what
+such an activity entails, but, given my own daily phenomenological account of
+reading and writing, I suspect that it a prevalent mode of communication and
+one that involves a hermeneutics that is taught formally in schools and
+universities. Our time spent on interpreting a literature of another makes up
+for a small fraction of the time spent on understanding the literature of self.
 
 I pull on these variegated strains of related thought to assemble a bricolage
 of ideas that gives rise to media being---an artificial creature born out of
@@ -611,18 +634,6 @@ organic endowment," and considered it "a powerful element in the modern
 consciousness, an overt and exigent issue in our culture"
 [@trilling_sincerity_1972, 127-8].
 
-Yet, I do not think 
-Contemporary psychology has only recentaly began understand the impact
-"possessions represent extensions of the self"
-@saxena_treatment_2007 "sentimental saving"
-
-Object Affect Fusion "refers to the psychological phenomena within
-obsessive-compulsive hoarding in which the individual appears to pair and fuse
-emotions associated with objects to the actual objects themselves. Possessions
-therefore falsely become symbolic tabernacles of affection information
-inevitably creating difficulties at the point of discard"
-[@kellett_does_2003, 458]. "Emotional attachment to objects are commonplace"
-[@kellett_does_2003, 458]
 
 ### 5.3 Freedom of Information
 
