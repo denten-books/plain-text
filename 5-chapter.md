@@ -18,9 +18,9 @@ header-includes:
 ---
 
 ## Chapter 5: Recursive Encounters with Oneself
-`reading, writing, home, media being, culture, technology`
+`media being, home, human`
 
-### 5.1 Librarians of Self
+### 5.1 Librarians of the Self
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -232,13 +232,13 @@ years ago). *Krapp's Last Tape*, as it is conventionally interpreted, is a
 cautionary tale about "the last"---time, memory, desire, and nostalgia
 [@doherty_krapps_1982, 191-204]. But we forget that it is also a commentary
 about the "tape." Reel-to-reel recorders too will need further and
-progressively more expansive annotations, as the technology fades from
-collective memory. Thus, with the curtain drawn, we the audience, the readers,
-and the custodians of this work are implicated in Krapp's narcissistic archival
-habits. We reach for the volume, read, reread, annotate, and reshelve. *Krapp's
-Last Tape* is also a spool in our own collection---to read it again is to
-encounter a memory of one's own past reading: now a part of who I am, yet
-already not the text itself, perhaps only a fading memory of the text.
+progressively more expansive annotation as the technology fades from collective
+memory. Thus, with the curtain drawn, we the audience, readers, and custodians
+of the play are implicated in the process of Krapp's narcissistic archive
+making. We reach for the volume, read, reread, annotate, and reshelve.  As a
+textual artifact, *Krapp's Last Tape* is also a spool in our own collection. To
+read it again is to encounter a memory of one's own past reading: now a part of
+who I am, yet already not the text itself and not the same me.
 
 Staged at the dawn of personal audio recording, Beckett's play shifts the focus
 of the conversation about archives from the public to the private sphere.
@@ -267,8 +267,8 @@ archive has less to do with social power structures and more with the
 mechanisms of private identity formation, remembrance, and nostalgia. To mimic
 Derrida here, we could say that his collection is a recollection---it is not a
 house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
-homecoming [@_nostalgia_2015]. This chapter is about a type a house, where the
-librarians of the self commonly make a home.
+homecoming [@_nostalgia_2015]. This chapter will be about one such domicile,
+where the librarians of the self commonly make a home.
 
 ### 5.2 Media Being
 
@@ -314,10 +314,10 @@ for later after the departure of the visitor" [@sartre_being_1993, 104]?
 *Krapp's Last Tape* reminds us of the ubiquity of such appointments. "Remember
 their laughter forever," is not even about "them." As a marketing slogan, it
 encourages consumers to commit happy and private mental states into
-externalized storage. More than that, it implies an ongoing activity of
-continually re-remembering yourself that way from the past: to label, organize,
-to archive, to browse, and to encounter. These are private commitments, but
-also openly monetized and manufactured by media makers. "Remember forever,"
+externalized storage. More than that, it implies an ongoing commitment to
+continually revisit one's own past representations: to label, to organize, to
+archive, to browse, and to re-encounter. These are private commitments, but
+also openly manufactured and monetized by media makers. "Remember forever,"
 also contains a threat, "lest you forget."
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
@@ -325,8 +325,8 @@ Peirce wrote for the *Journal of Speculative Philosophy* in 1868
 [@peirce_consequences_1868, 156; also quoted in @weel_changing_2012, 14-5].
 This short piece on "some consequences of four incapacities," concludes with a
 tantalizing proposition, that, at the end of the nineteenth century,
-anticipates trends in philosophy of mind and knowledge at the end of the
-twentieth and in the beginning of the twenty-first. Peirce writes:
+anticipates the turn towards extended cognition in the second half of the
+twentieth. Peirce writes:
 
 > For as the fact that every thought is an external sign, taken in
 conjunction with the fact that life is a train of thought, proves that man is a
@@ -347,30 +347,30 @@ The "future thought of the community" suggests a model of knowledge formation
 that cannot be reduced to private mental life: social epistemology. Yet another
 idea implicit in these lines, takes the consistency of mental life to happen
 through externalized, although still somewhat private (individual), forms of
-mental persistence. This chapter can be taken as an extended prelude or a
-footnote to these lines, articulating a set of related propositions that, in
-complement to mechanisms of collective memory formation, identify pervasive but
-still not well-studied practices of personal self-persistence through storage
-media, in what I have been calling "media being".
+mental persistence. This chapter can be taken as an extended footnote to these
+lines, articulating a set of related propositions that, in complement to
+mechanisms of collective memory formation, identify pervasive but still not
+well-studied practices of personal self-persistence through storage media, in
+what I have been calling the state of "media being".
 
 The first of these propositions distinguishes a range of media structures that
 serve to externalize and to preserve private mental states. The second sees
-such structures as forms of extended cognition, where cognition should be taken
-not in its metaphorical sense, but as palpable, real-world activity,
-susceptible to the contingencies of geography, history, technology, and
-politics. The third, takes such material extensions of self to constitute a
-specialized form of literature, which, by contrast to other forms of
-communication, takes the self both as subject and object (sender and recipient,
-author and reader, playwright and audience) of transmission. Finally, and this
-is a matter of speculative thought, the idea of media being implies a pragmatic
-(ethical, political) stance towards cognitive extensions, treating them with
-the same care and concern we display towards conventional (intra-cranial)
-cognition proper. That is to say that if we accept the premises of media being
-(and extended cognition more broadly), we must afford them the same care we
-reserve for conventional cognitive structures, be it in the analogy to critical
-thinking or self-reflection. Fundamentally, as I will argue after Sartre, such
-externalized cognitive structures must at least remain transparent to the
-whatever agent capable of cognition.
+such structures as forms of extended cognition, where cognition should be
+understood not in its metaphorical sense, but as palpable, real-world activity,
+susceptible to the contingencies of time and place. The third, takes such
+material extensions of self to constitute a specialized form of literature,
+which, by contrast to other forms of communication, takes the self both as
+subject and object (sender and recipient, author and reader, playwright and
+audience) of transmission.  Finally, and this is a matter of speculative
+thought, the idea of media being implies a pragmatic (ethical, political)
+stance towards cognitive extensions, treating them with the same care and
+concern we display towards conventional (mind and brain) cognition proper. That
+is to say that if we accept the premises of media being (and extended cognition
+more broadly), we must afford them the same care we reserve for conventional
+cognitive structures, be it in the analogy to critical thinking or
+contemplative introspection. Fundamentally, as I will argue after Sartre, in
+order to be understood such externalized cognitive structures must at least
+remain visible to the whatever agent seeking to gain understanding.
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -379,18 +379,242 @@ prepared to continue this conversation on more empirical basis. The hypothesis
 of extended cognition, which brings externalized extensions of thought under
 the cognitive purview, has tremendous implications for the study of knowledge,
 texts, and literature. Under the hypothesis of extended cognition, thinking
-happens not in the brain alone, but at the interface between cognitive, social,
+happens not in the brain alone, but at the interface between mental, social,
 and technological structures. And once we admit that cognition has an
 externalized, material form, we must accept it (at least in that extended
 portion) as a culturally- and historically- contingent artifact and one that
 further occupies a privileged position among otherwise inorganic and dead
-furnishings that support human activity. That is to say that some **things**
-become a part of my mental world. I am more attached to those things, than
-to others. I rely on them to store parts of myself. They, in some real sense,
-form my "inner mental life" to the extent that other things do not.
+furnishings that support human activity. That is to say that some **things** do
+become a part of my mental world. I am more attached to those things, than to
+others. I rely on them to store parts of myself. They supply the furnishings of
+my inner life.
 
+These furnishing "come alive" only in the presence of the person who gives them
+meaning. The dynamic unfolds in quite distinct ways from other forms of social
+fetishism or totem-making, as described by Marx or Claude Lévi-Strauss for
+example, by which objects are endowed with a communal meaning. "The phenomenon
+of collecting [books] loses its meaning as it loses its personal owner," Walter
+Benjamin wrote in his famous essay on book collecting
+[@benjamin_unpacking_1968, 67]. In reflecting on what he calls the "mental
+climate" of book collecting, he writes:
+
+>Ownership is the most intimate relationship that one can have to objects. Not
+>that they come alive in him; it is he who lives with them. So I have erected
+>one of his dwellings, with books at the building stones, before you, and now
+>he is going to disappear inside, as is only fitting"
+>[@benjamin_unpacking_1968, 67].
+
+As ever, Benjamin intersts lie in the aura that attaches itself to inanimate
+objects. But in scanning these lines, the reader cannot help but suspect that
+by "ownership," Benjamin means some process outside of economic exchange: not
+the ownership of land or cattle, but a special mode of ownership reserved for
+cognitive artifacts. The "mysterious relationship to ownership" for Benjamin,
+goes beyond utilitarian use value. It is a relationship that "studies and
+loves" objects "as the scene, the stage, of fate" [@benjamin_unpacking_1968,
+60].
+
+What does it mean to "have read" a book in this light? Surely, when someone
+says "I too have read this book" they mean something more than the mechanical
+action of turning pages and moving one's eyes from left to right in a
+sequential manner. The blunt act of purchasing the book is also somewhat
+besides the point. Benjamin implies a deeper connection. To have read is to
+internalize, to understand, and to form a mental image or opinion. But what
+exactly is internalized? It cannot be the whole text, verbatim. By reading we
+mean something other than rote memorization. In his *Blue and Brown Books*,
+written somewhere between the *Tractatus* and *Philosophical Investigations*,
+Ludwig Wittgenstein gives the example of a child who is asked to read, but who
+instead regurgitates the text from memory. Wittgenstein further asks his
+readers to imagine an experimental "human reading machine," which like the
+child "reads" by making sounds which sometimes do and sometimes do not
+correspond with the printed word. An observer not familiar with the mechanism
+of this experimental "reader," could be fooled into thinking the machine is
+reading. The coincidence between sound and word remains accidental, however. We
+would remain skeptical of this activity as reading even if our machine were to
+begin to correlate letters to appropriate sounds consistently
+[@wittgenstein_blue_1965, 120-1].
+
+In his characteristically cryptic manner, Wittgenstein explains his thought
+experiment by making yet another analogy:
+
+> If A tries to make B believe that he is able to read Cyrillic script,
+> cheating him by learning a Russian sentence by heart and then saying it while
+> looking at the printed sentence, we may certainly say that A knows he is
+> pretending, and that his not reading is characterized by a particular
+> personal experience [@wittgenstein_blue_1965, 120-1].
+
+But suppose the man really does know how to read Russian, although when he
+reads he has a peculiar feeling of knowing the words by heart. Should we regard
+his personal experience as the criterion distinguishing between reading and not
+reading in that case? And again, Wittgenstein expects us to answer in the
+negative. It seems then, that the functional performance of reading cannot
+determine the behavior alone. In each case, we had to check for the appropriate
+internalized mental state. Wittgenstein writes, "We here envision two
+mechanisms, the internal workings of which we can see, and this internal
+working is the real criterion for a person's reading or not reading. But in
+fact no such mechanisms are known to us in these cases"
+[@wittgenstein_blue_1965, 120].
+
+As it turns out, the mental state alone is also insufficient to describe
+reading definitively. Here, Wittgenstein asks us to imagine a person under the
+influence of drugs who is shown a set of discrete strings composed of
+nonsensical characters. When shown some random string of nonsensical characters
+like `$%^&*`, for example, the drugged patient imagines he is reading some
+English word, like "above" or "stair," as if the typographical characters were
+meaningful. As far as the patient is concerned, he is reading. All the
+structural attributes of the action are there---the proper region of his brain
+is receiving stimulation; he follows the text with his eyes from left to right;
+and silently mouths the words. But this too is unacceptable: the patient merely
+imagines that he is reading [@wittgenstein_blue_1965, 122].
+
+In this way, neither the internal nor the external descriptions of the action
+seem adequate to encompass everything we mean by reading. And yet we do have a
+relatively clear picture of what reading properly entails, what it looks like,
+what it sounds like, how to do it, and how to teach others to do it. In
+building this chain of deferring analogies (from the reading child to the drug
+induced reading hallucination) we are acting as though "we had tried to find
+the real artichoke by stripping it of its leaves," writes Wittgenstein
+[@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
+together, *are* the artichoke. At which point of peeling the artichoke does the
+artichoke disappear into leafy particulates? It is a patently misguided
+question. The question of cognition, for Wittgenstein, fails in a similar way.
+Our mistake lies in attempting to reduce cognitive activity like "reading" to a
+set of either external (functional) attributes or internal (formal) mental
+structures. Yet neither of these are sufficient. Reading happens in the head
+and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
+
+> In the consideration of our problems one of the most dangerous ideas is the
+> idea that we think with, or in, our heads [...] 'Thinking takes place in the
+> head" really means only 'the head is connected with thinking."---Of course
+> one says also 'I think with my pen' and this localization is at least as good
+> [@wittgenstein_blue_1965, 116].
+
+In refusing to resolve the tension between functional (or behaviorist) and
+formal (or structuralist) accounts of cognition, Wittgenstein's thought
+experiments suggest a model of textual activity that sees reading and writing
+as a movement between innate mental structures their external, media-bound
+representations. Although Wittgenstein does not explain it in these terms,
+reading and writing for him happens at the interface of mental and physical
+boundaries. In other words, reading and writing proper involve a measure of
+"correct" correlation between internal mind states and external paper-and-ink
+states. This correlation I take to resemble Benjamin's "staging of fate." The
+moment of interface, on the stage of a bookshelf, is what unites the history of
+the book with the history of one's conciousness. It is exactly the encounter
+between the collective and the private. What "I know" and "we know" meets and
+intertwines on the page.
+
+To have read a book therefore involves a certain physical facility with the
+text: in the way its structure can, with much practice and repetition, become
+readily available to the "mind's eye." I "see" a particular thought or image in
+relationship to the rest of the structure. What was then a series of unrelated
+vignettes, my mind stitches into some coherent whole. That structure is not in
+the mind alone: I have a "feeling" about the location of that thought on paper.
+The cognitive facility with the work as a mental construct accompanies a
+applied manipulation of the text as a physical artifact. I will "leaf through"
+a familiar book. I may not yet know what I am looking for, but I remember where
+the "sign posts" are. The mental facility of "having read something" is however
+curtailed by the limits of human memory. Even after teaching the same text for
+several years in a row, I have to "refresh" my knowledge of its contents. This
+sort of knowledge becomes easier with repetition, but I am also painfully aware
+of its impermanence.
+
+Abandoning a text for several decades means to lose some facility in navigating
+it mentally and physically. I still "have read it," but with time "having read"
+begins to mean less than before. That structures of "having internalized"
+become a memory of past internalized structures. And that is a difficult thing
+to admit to oneself. We expect or at least talk as if knowledge has a
+semi-permanent cognitive purchase within the individual. But, fundamentally, I
+also must accept that knowledge available to my "mind's eye" constitutes only a
+small fraction of the things I can know "ready at hand." Most of the things I
+know and have read are available to me on my book shelves, in my notebooks,
+online, and on my hard drives. I do not know them in a sense of remembering
+them---I know them in the sense of being able to find the information if
+needed, to evaluate sources, and to recall a cascade of related past (formed)
+mental reactions. I suspect that most things I know and have read come to me in
+that condensed, externalized form. The amount of ideas accessible to me "at
+hand" must vastly outnumber the ideas in the "mind's eye." The hand and the
+inner eye work together to enter into what Barbara Herrnstein Smith calls "a
+circuit of reciprocal effectivity" [@smith_belief_1997, 54], except, in this
+case, both the speaker and the listener, reader and writer, are found in one of
+the same person.
+
+For a vast swath of my own textual activity, I exchange information with
+myself. And if that is true (as it is certainly true in the process of writing,
+not only books, but also in the genre of various "notes to self,") we are then
+faced here with a solipsistic literature and a literary analysis that differs
+markedly from the reading of public books: solipsistic criticism, a mode of
+engagement at once more common and less understood than the reading of others.
+In charting out that unfamiliar territory of the personal archive, I am
+confounded by known models of communication, advanced by thinkers like
+Ferdinand de Saussure, Roman Jacobson, and Claude Shannon, a model that assumes
+the existence of a "sender" and a "receiver," an "addressant" and an
+"addressee." The state of a media being implies a vast archive of private
+literature, where the traditional distinction between object and subject is
+collapsed. For Shannon's model in particular, which lies at the foundations of
+of modern communication practice,
+
+I pull on these variegated strains of related thought to assemble a bricolage
+of ideas that gives rise to media being---an artificial creature born out of
+the dialectical tension between mind and body, internal and external, immanence
+and transcendence, matter and spirit. However arbitrary the boundaries of
+Cartesian dualism may be, they lie at the fault lines between something vital
+and something human on the one side and something matter-bound and inorganic on
+the other. One does not have to make these boundaries essential or
+deterministic to perceive their perpetual importance in the conversation about
+knowledge and technology. In this way, Friedrich Nietzsche spoke of the modern
+man who "drags around with him a huge quantity of indigestible stones of
+knowledge." For Nietzsche the modern condition was defined by a profound
+incongruence between "interior" and "exterior" [@nietzsche_untimely_1997, 78].
+He writes, "We moderns, have nothing whatever of our own; only by replenishing
+and cramming ourselves with the ages, customs, arts, philosophies, religions,
+discoveries of others do we become anything worthy of notice, that is to say
+walking encyclopedias." These encyclopedias he calls "handbook[s] of inward
+culture for outward barbarians" [@nietzsche_untimely_1997, 79]. Nietzsche's
+metaphor is one of cultural "indigestion." The rocks that rattle within
+represent the detritus of knowledge that is not somehow fully assimilated into
+the individual psyche. In this Nietzsche also mirrors the concern of Plato's
+*Phaedrus*, where Thamus, the king of Thebes, is shown to be weary of not fully
+internalized and undigested knowledge. Responding to Theuth, the great
+god-inventor who brought Egyptians the gifts of arithmetic, geometry,
+astronomy, draughts, and writing among other arts, the king worries that
+writing in particular will harm rather than help his people. When it came to
+letters, Thamus comments:
+
+> Most ingenious Theuth [...] the father of letters, [you] have been led by
+your affection to ascribe to them a power the opposite of that which they
+really possess. For this invention will produce forgetfulness in the minds of
+those who learn to use it, because they will not practise their memory. Their
+trust in writing, produced by external characters which are no part of
+themselves, will discourage the use of their own memory within them. You have
+invented an elixir not of memory, but of reminding; and you offer your pupils
+the appearance  of wisdom, not true wisdom for they will read many things
+without instruction and will therefore seem to know many things, when they are
+for the most part ignorant [...] [@plato_plato:_1999, 563-4].
+
+That technologies of the written word are somehow corrupting our native
+cognitive capabilities, that the humanity (in certain parts of the world, that
+is) is becoming dependent on externalized cognitive aids, and that such
+dependence has wide-ranging social repercussions, are worries that have
+permeated Western popular culture since the days of Socrates. "I see within us
+all (myself included) the replacement of complex inner density with a new kind
+of self," Richard Foreman writes in an essay that accompanies his play *The
+Pancake People*. This new self is shallow, containing "less and less of an
+inner repertory of dense cultural inheritance" [@foreman_pancake_2005].
+Nicholas Carr echoes these words in his widely-cited 2008 article for the
+*Atlantic Monthly*, writing that "over the past few years I've had an
+uncomfortable sense that someone, or something, has been tinkering with my
+brain, remapping the neural circuitry, reprogramming the memory." "The deep
+reading that used to come naturally has become a struggle," Carr writes and
+concludes to suggest that online search engines are making us stupid
+[@carr_is_2008]. Lionel Trilling has described this reoccurring "anxiety about
+the machine" as "the sense of something intervening between man and his own
+organic endowment," and considered it "a powerful element in the modern
+consciousness, an overt and exigent issue in our culture"
+[@trilling_sincerity_1972, 127-8].
+
+Yet, I do not think 
+Contemporary psychology has only recentaly began understand the impact
 "possessions represent extensions of the self"
-@saxena "sentimental saving"
+@saxena_treatment_2007 "sentimental saving"
 
 Object Affect Fusion "refers to the psychological phenomena within
 obsessive-compulsive hoarding in which the individual appears to pair and fuse
@@ -400,27 +624,10 @@ inevitably creating difficulties at the point of discard"
 [@kellett_does_2003, 458]. "Emotional attachment to objects are commonplace"
 [@kellett_does_2003, 458]
 
-[^ln4-recursive]: See also @breuer_paradox_1993, 559-580.
-
-[^ln4-boring]: I suspect both would make for far more boring plays than the
-original.
-
-[^ln4-dupont]: All materials in this section come from an online archive of
-sound recording advertisements curated by the Museum of Magnetic Sound
-Recording [@museum_of_magnetic_sound_recording_time_2013].
-
 ### 5.3 Freedom of Information
 
-"Mental climate of collecting"
 "To a book collector, you see, the true freedom of all books is somewhere on his
 shelves" [@benjamin_unpacking_1968, 64].
-
-"The phenomenon of collecting [books] loses its meaning as it loses its
-personal owner" [@benjamin_unpacking_1968, 67]. "Ownership is the most intimate relationship
-that one can have to objects. Not that they come alive in him; it is he who
-lives with them. So I have erected on of his dwellings, with books at the
-building stones, before you, and now he is going to disappear inside, as is only
-fitting" [@benjamin_unpacking_1968, 67].
 
 ### 5.7 Home (a case study)
 
@@ -461,20 +668,37 @@ You don't have to buy this picture. The importance of this intellectual history
 ais that human-computer interaction as a field has its roots there. People who
 design software view their work as cognitive extension.
 
-[^ln4-halbwachs]: To this one may add the related by still parallel
+
+/home : User home directories (optional) Purpose
+
+/home is a fairly standard concept, but it is clearly a site-specific
+filesystem. [9] The setup will differ from host to host. Therefore, no program
+should rely on this location. [10] Requirements
+
+User specific configuration files for applications are stored in the user's
+home directory in a file that starts with the '.' character (a "dot file"). If
+an application needs to create more than one dot file then they should be
+placed in a subdirectory with a name starting with a '.' character, (a "dot
+directory"). In this case the configuration files should not start with the '.'
+character. [11]
+
+[^ln5-recursive]: See also @breuer_paradox_1993, 559-580.
+
+[^ln5-boring]: I suspect both would make for far more boring plays than the
+original.
+
+[^ln5-dupont]: All materials in this section come from an online archive of
+sound recording advertisements curated by the Museum of Magnetic Sound
+Recording [@museum_of_magnetic_sound_recording_time_2013].
+
+[^ln5-halbwachs]: To this one may add the related by still parallel
 intellectual genealogy that passes through Henri Bergson, Émile Durkheim, and
 Maurice Halbwachs to develop the related concept of "collective memory," so
 influential now in the field of cultural memory studies.
 
-[^ln4-stein]: Translations are mine throughout, referenced were appropriate
+[^ln5-stein]: Translations are mine throughout, referenced were appropriate
 with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
 @diriwachter_volkerpsychologie_2004.
 
-/home : User home directories (optional)
-Purpose
-
-/home is a fairly standard concept, but it is clearly a site-specific filesystem. [9] The setup will differ from host to host. Therefore, no program should rely on this location. [10]
-Requirements
-
-User specific configuration files for applications are stored in the user's home directory in a file that starts with the '.' character (a "dot file"). If an application needs to create more than one dot file then they should be placed in a subdirectory with a name starting with a '.' character, (a "dot directory"). In this case the configuration files should not start with the '.' character. [11]
+### 5.8 Anarchive
 ### Works Cited
