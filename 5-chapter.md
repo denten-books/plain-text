@@ -299,44 +299,40 @@ natural human defences against the forces of amnesia, time, decay, and
 oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
-impermanence.[^ln5-james] We are simply not that good at remembering things, even when
-those things are ourselves. The synchronic self continually recedes into the
-past, threatening to dissolve conciousness within the great ocean of non-being.
-In an issue of *e-misférica* dedicated to the subject of archives, Diana Taylor
-suggests as much when she writes that "perhaps the current rush to 'archive'
-has less to do with place/thing/practice and more with trying to save and
-preserve a sense of self as we face the uncertain future, emphasizing our
-agency in the selection and meaning making process that we fear threatens to
-outpace us" [@taylor_save_2012]. In this light, the making of lists, new years
-resolutions, the writing of diaries, self portraiture, and audio
-dictation---all these activities can be seen as orienting the subject towards
-the mirage of potential future selves. We are here confronted with a curious
-literature that takes the past self as its subject, the future self as object,
-and the present self as a guardian and archivist of that oath between past and
-future. Through Beckett we perceive the practice of what Sartre called an
-appointment with one's own sadness. "What will remain of my [interrupted]
-sadness," Sartre writes, "except that I obligingly promise it an appointment
-for later after the departure of the visitor" [@sartre_being_1993, 104]?
-*Krapp's Last Tape* reminds us of the ubiquity of such appointments. "Remember
-their laughter forever," is not even about "them." As a marketing slogan, it
-encourages consumers to commit happy and private mental states into
-externalized storage. More than that, it implies an ongoing commitment to
-continually revisit one's own past representations: to label, to organize, to
-archive, to browse, and to re-encounter. These are private commitments, but
-also openly manufactured and monetized by media makers. "Remember forever,"
-also contains a threat, "lest you forget."
+impermanence.[^ln5-james] We are simply not that good at remembering things,
+even when those things are ourselves. The synchronic self continually recedes
+into the past, threatening to dissolve conciousness within the great ocean of
+non-being. William James writes: "There are a few men who would not feel
+personally annihilated if a life-long construction of their hands or
+brains---say an entomological collection or an extensive work in
+manuscript---were suddenly swept away." James calls the loss of such
+identity-bound possessions "the shrinkage of personality" and "a portion
+conversion of ourselves to nothingness" [@james_principles_1890, 293]. In a
+recent issue of *e-misférica* dedicated to the subject of archives, Diana
+Taylor goes further to suggest that fears about personal impermanence motivate
+the contemporary concern with the archive. She writes that "perhaps the current
+rush to 'archive' has less to do with place/thing/practice and more with trying
+to save and preserve a sense of self as we face the uncertain future,
+emphasizing our agency in the selection and meaning making process that we fear
+threatens to outpace us" [@taylor_save_2012].
 
-[^ln5-james]: In @james_principles_1890, 233-4 we find: "For it is obvious and
-palpable that our state of mind is never precisely the same. Every thought we
-have of a given fact is, strictly speaking, unique, and only bears a
-resemblance of kind with our other thoughts of the same fact [...] Often we are
-ourselves stuck at the strange differences in our successive views of the same
-thing. We wonder how we ever could have opined as we did last month about a
-certain matter [...] What was unreal has grown real, and what was exciting is
-insipid [...] and as for the books, what was there to find so mysteriously
-significant in Goethe, or in John Mill so full of weight? Instead of all this,
-more zestful than ever is the work, the work; and fuller and dipper the import
-of common duties, and of common goods."
+In this light, the making of lists, new years resolutions, the writing of
+diaries, self portraiture, and audio dictation---all these activities can be
+seen as orienting the subject towards the mirage of potential future selves. We
+are here confronted with a curious literature that takes the past self as its
+subject, the future self as object, and the present self as a guardian and
+archivist of that oath between past and future. Through Beckett we perceive the
+practice of what Sartre called an appointment with one's own sadness. "What
+will remain of my [interrupted] sadness," Sartre writes, "except that I
+obligingly promise it an appointment for later after the departure of the
+visitor" [@sartre_being_1993, 104]?  *Krapp's Last Tape* reminds us of the
+ubiquity of such appointments. "Remember their laughter forever," is not even
+about "them." As a marketing slogan, it encourages consumers to commit happy
+and private mental states into externalized storage. More than that, it implies
+an ongoing commitment to continually revisit one's own past representations: to
+label, to organize, to archive, to browse, and to re-encounter. These are
+private commitments, but also openly manufactured and monetized by media
+makers. "Remember forever," also contains a threat, "lest you forget."
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -365,30 +361,39 @@ The "future thought of the community" suggests a model of knowledge formation
 that cannot be reduced to private mental life: social epistemology. Yet another
 idea implicit in these lines, takes the consistency of mental life to happen
 through externalized, although still somewhat private (individual), forms of
-mental persistence. This chapter can be taken as an extended footnote to these
-lines, articulating a set of related propositions that, in complement to
-mechanisms of collective memory formation, identify pervasive but still not
-well-studied practices of personal self-persistence through storage media, in
-what I have been calling the state of "media being".
+mental persistence. This chapter can be taken as an extended footnote on James
+and Peirce, particularly on the passages that intersect with Beckett's radio
+drama. All three of these writers articulate a philosophy of media being, which
+although not formalized, contains, in my attempt to consolidate it, a set of
+related propositions that, in complement to mechanisms of collective memory
+formation, identify pervasive but still not well-studied practices of personal
+self-persistence through storage media.
 
 The first of these propositions distinguishes a range of media structures that
 serve to externalize and to preserve private mental states. The second sees
-such structures as forms of extended cognition, where cognition should be
-understood not in its metaphorical sense, but as palpable, real-world activity,
+such structures as forms of extended cognition, where cognition is understood
+not in its metaphorical sense, but as palpable, real-world activity,
 susceptible to the contingencies of time and place. The third, takes such
 material extensions of self to constitute a specialized form of literature,
 which, by contrast to other forms of communication, takes the self both as
 subject and object (sender and recipient, author and reader, playwright and
-audience) of transmission.  Finally, and this is a matter of speculative
+audience) of transmission. Finally, and this is a matter of speculative
 thought, the idea of media being implies a pragmatic (ethical, political)
 stance towards cognitive extensions, treating them with the same care and
 concern we display towards conventional (mind and brain) cognition proper. That
-is to say that if we accept the premises of media being (and extended cognition
-more broadly), we must afford them the same care we reserve for conventional
+is to say that if we accept the premises of extended cognition broadly, we must
+afford the platforms of media being the same care we reserve for conventional
 cognitive structures, be it in the analogy to critical thinking or
-contemplative introspection. Fundamentally, as I will argue after Sartre, in
-order to be understood such externalized cognitive structures must at least
-remain visible to the whatever agent seeking to gain understanding.
+contemplative introspection. At the very least, if James is right about the
+psychological importance of the material self, then seemingly mundane tasks
+like organizing one's bookshelves or backing up one's documents, take on an
+urgent intellectual importance. More than that, I am compelled to view the
+material contexts of media being beyond the discussion about preservation.
+Fundamentally, the various cognitive artifacts of a material self must
+constitute a protected class of objects, which, unlike most other dead things,
+exist in the realm of ethics and aesthetics. If they are, as James and others
+suggest, a part of the mind, they properly participate in mental constructions
+like "clarity of thought," or "free thought" and "mind control."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -716,7 +721,6 @@ You don't have to buy this picture. The importance of this intellectual history
 ais that human-computer interaction as a field has its roots there. People who
 design software view their work as cognitive extension.
 
-
 /home : User home directories (optional) Purpose
 
 /home is a fairly standard concept, but it is clearly a site-specific
@@ -747,6 +751,18 @@ influential now in the field of cultural memory studies.
 [^ln5-stein]: Translations are mine throughout, referenced were appropriate
 with @kalmar_volkerpsychologie_1987. See also @danziger_origins_1983 and
 @diriwachter_volkerpsychologie_2004.
+
+[^ln5-james]: In @james_principles_1890, 233-4 we find: "For it is obvious and
+palpable that our state of mind is never precisely the same. Every thought we
+have of a given fact is, strictly speaking, unique, and only bears a
+resemblance of kind with our other thoughts of the same fact [...] Often we are
+ourselves stuck at the strange differences in our successive views of the same
+thing. We wonder how we ever could have opined as we did last month about a
+certain matter [...] What was unreal has grown real, and what was exciting is
+insipid [...] and as for the books, what was there to find so mysteriously
+significant in Goethe, or in John Mill so full of weight? Instead of all this,
+more zestful than ever is the work, the work; and fuller and deeper the import
+of common duties, and of common goods."
 
 ### 5.8 Anarchive
 ### Works Cited

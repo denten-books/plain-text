@@ -121,6 +121,17 @@ http://word.mvps.org/faqs/general/wordvswordperfect.htm
 http://wptoolbox.com/tips/MSWordToWP.html
 modal vs. other kinds of processing
 
+### Negation
+
+James: the aesthetic function is one of negation. To create art is to sculpt
+reality. Ethics is similar choice making [@james, 289].
+
+Automonous technology. Exploring all possibilities at once. Must negate some.
+That is ethics. James calls this the highest form: making choices. Where do
+these choices come from? What guides development?
+
+Humanism. Agency, delibiration, consensus, dissent.
+
 ### Marx and Robots 
 
 ### 4.5 Human Revealment (Heidegger + Conclusion)
