@@ -393,7 +393,7 @@ Fundamentally, the various cognitive artifacts of a material self must
 constitute a protected class of objects, which, unlike most other dead things,
 exist in the realm of ethics and aesthetics. If they are, as James and others
 suggest, a part of the mind, they properly participate in mental constructions
-like "clarity of thought," or "free thought" and "mind control."
+like "clarity of thought," or "free thought," or "critical thinking."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -403,14 +403,14 @@ of extended cognition, which brings externalized extensions of thought under
 the cognitive purview, has tremendous implications for the study of knowledge,
 texts, and literature. Under the hypothesis of extended cognition, thinking
 happens not in the brain alone, but at the interface between mental, social,
-and technological structures. And once we admit that cognition has an
+and technological structures. And if we concede that cognition has an
 externalized, material form, we must accept it (at least in that extended
 portion) as a culturally- and historically- contingent artifact and one that
 further occupies a privileged position among otherwise inorganic and dead
-furnishings that support human activity. That is to say that some **things** do
-become a part of my mental world. I am more attached to those things, than to
-others. I rely on them to store parts of myself. They supply the furnishings of
-my inner life.
+furnishings that support human activity. That is to say that some **things**
+become a cherished part of my mental world. I am more attached to those things,
+than to others. I rely on them to store parts of myself. They supply the
+furnishings of my inner life.
 
 These furnishing "come alive" only in the presence of the person who gives them
 meaning. The dynamic unfolds in quite distinct ways from other forms of social
@@ -436,34 +436,45 @@ goes beyond utilitarian use value. It is a relationship that "studies and
 loves" objects "as the scene, the stage, of fate" [@benjamin_unpacking_1968,
 60].
 
-In the language of contemporary psychology, the collecting of books blends
-"instrumental" and "sentimental saving." The medical literature on hoarding,
-the disorder of collection, defines instrumental saving as an emotional
-attachment to objects that are seen to fulfill a specific purpose ("I might
-need it later,") and sentimental saving as attachment to objects that
-"represent extensions of self" [@frost_cognitive-behavioral_1996;
-@saxena_treatment_2007, 1144]. Object-affect fusion (OAF) identifies a dynamic
-by which an "individual appears to pair and fuse emotions associated with
-objects to the actual objects themselves" [@kellett_does_2003, 458]. "Emotional
-attachment to objects are commonplace," mentions an influential article on the
-subject [@kellett_does_2003, 458]. Clinical psychology rightly defines such
-attachment with the view to their distortion. For compulsive hoarders,
-"possessions therefore falsely become symbolic tabernacles of affection
-information inevitably creating difficulties at the point of discard"
-[@kellett_does_2003, 458]. Lita Furby, who wrote one of the earliest definative
-literature reviews on the subject in the 1970s, traces the origins of
-object-affect fusion to William James. In the *Principles of Psychology* James
-writes about what he calls the "emperical self," which comprises the unity of
-all that could be called me:
+In the language of contemporary psychology, the collecting of books, to take an
+obvious example, blends "instrumental" and "sentimental saving." It may be
+useful to think about "the mysterious relationship" in its most extreme,
+distorted form. The medical literature on hoarding, the disorder of collection,
+defines instrumental saving as an emotional attachment to objects that are seen
+to fulfill a specific purpose ("I might need it later,") and sentimental saving
+as attachment to objects that "represent extensions of self"
+[@frost_cognitive-behavioral_1996; @saxena_treatment_2007, 1144]. Object-affect
+fusion (OAF) identifies a dynamic by which an "individual appears to pair and
+fuse emotions associated with objects to the actual objects themselves"
+[@kellett_does_2003, 458]. "Emotional attachment to objects are commonplace,"
+mentions an influential article on the subject [@kellett_does_2003, 458].  For
+compulsive hoarders, "possessions therefore falsely become symbolic tabernacles
+of affective information inevitably creating difficulties at the point of
+discard" [@kellett_does_2003, 458]. Kellett reports a case study of a woman
+unable to discard rubbish in the usual way, for whom, due to object-affect
+fusion the concept of recycling was "morally abhorrent." The only way she could
+get rid of anything, including rubbish, was to burn it the fireplace, which was
+continually lit for that purpose, and then to deform the partially melted
+objects with a mallet, battered beyond recognition and therefore stripped of
+identity and affect [@kellett_does_2003, 459-60].
+
+Freedom security consistency (Furby).
+Lita Furby, who wrote one of the earliest definitive literature reviews on the
+subject in the 1970s, traces the origins of object-affect fusion to William
+James. In the *Principles of Psychology* James writes about what he calls the
+"empirical self," which comprises the unity of all that could be called me:
 
 > It is clear that between what a man calls me and what he simply calls mine,
-the line is difficult to drw. We fell and act about certain things that oure
-ours very much as we feel and act about ourselves. our fame, our chirldren, the
-owrk of our hands, may be as dear to us as our bodies are, and arouse ithe same
-feelings inand the same acts of reprisal if attacked.
+the line is difficult to draw. We fell and act about certain things that are
+ours very much as we feel and act about ourselves. Our fame, our children, the
+work of our hands, may be as dear to us as our bodies are, and arouse the same
+feelings and the same acts of reprisal if attacked.
 
-clear that 
 
+Back to Beckett. 
+
+
+### Reading
 
 What does it mean to "have read" a book in this light? Surely, when someone
 says "I too have read this book" they mean something more than the mechanical
