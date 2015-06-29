@@ -300,21 +300,21 @@ oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
 impermanence.[^ln5-james] We are simply not that good at remembering things,
-even when those things are ourselves. The synchronic self continually recedes
-into the past, threatening to dissolve conciousness within the great ocean of
-non-being. William James writes: "There are a few men who would not feel
-personally annihilated if a life-long construction of their hands or
-brains---say an entomological collection or an extensive work in
-manuscript---were suddenly swept away." James calls the loss of such
-identity-bound possessions "the shrinkage of personality" and "a partial
-conversion of ourselves to nothingness" [@james_principles_1890, 293]. In a
-recent issue of *e-misférica* dedicated to the subject of archives, Diana
-Taylor goes further to suggest that fears about personal impermanence motivate
-the contemporary concern with the archive. She writes that "perhaps the current
-rush to 'archive' has less to do with place/thing/practice and more with trying
-to save and preserve a sense of self as we face the uncertain future,
-emphasizing our agency in the selection and meaning making process that we fear
-threatens to outpace us" [@taylor_save_2012].
+even when those things are ourselves. The self continually recedes into the
+past, threatening to dissolve conciousness within the great ocean of non-being.
+William James writes: "There are a few men who would not feel personally
+annihilated if a life-long construction of their hands or brains---say an
+entomological collection or an extensive work in manuscript---were suddenly
+swept away." James calls the loss of such identity-bound possessions "the
+shrinkage of personality" and "a partial conversion of ourselves to
+nothingness" [@james_principles_1890, 293]. In a recent issue of *e-misférica*
+dedicated to the subject of archives, Diana Taylor goes further to suggest that
+fears about personal impermanence motivate the contemporary concern with the
+archive. She writes that "perhaps the current rush to 'archive' has less to do
+with place/thing/practice and more with trying to save and preserve a sense of
+self as we face the uncertain future, emphasizing our agency in the selection
+and meaning making process that we fear threatens to outpace us"
+[@taylor_save_2012].
 
 In this light, the making of lists, new years resolutions, the writing of
 diaries, self portraiture, and audio dictation---all these activities can be
@@ -335,9 +335,8 @@ commitments, but also openly manufactured and monetized by media makers.
 "Remember forever," also contains a threat, "lest you forget." The content of
 the messages in the reflection is not really about "their laughter" at all.
 The advertisements for personal storage media ecourage their users to cherish
-their own memories, not their loved ones. Strictly speaking, in the loop
-between the listener and the recorder one encounters only the image of self
-reflection.
+their own memories, not their loved ones. Strictly speaking, the loop between a
+listener and a recorder transmits only the image of self reflection.
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -396,9 +395,10 @@ urgent intellectual importance. More than that, I am compelled to view the
 material contexts of media being beyond the discussion about preservation.
 Fundamentally, the various cognitive artifacts of a material self must
 constitute a protected class of objects, which, unlike most other dead things,
-exist in the realm of ethics and aesthetics. If they are, as James and others
-suggest, a part of the mind, they properly participate in mental constructions
-like "clarity of thought," or "free thought," or "critical thinking."
+participate in the realm of ethics and aesthetics. If these structures
+constitute an intergral part of the mind, as James and others suggest, they
+must also properly participate in intellectual ideals like "clarity of
+thought," "free thought," or "critical thinking."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -449,23 +449,23 @@ defines instrumental saving as an emotional attachment to objects that are seen
 to fulfill a specific purpose ("I might need it later,") and sentimental saving
 as attachment to objects that "represent extensions of self"
 [@frost_cognitive-behavioral_1996; @saxena_treatment_2007, 1144]. Object-affect
-fusion (OAF) identifies a dynamic by which an "individual appears to pair and
-fuse emotions associated with objects to the actual objects themselves"
-[@kellett_does_2003, 458]. "Emotional attachment to objects are commonplace,"
-mentions an influential article on the subject [@kellett_does_2003, 458].  For
+fusion (OAF) identifies a dynamic by which, in the words of Stephen Kellet and
+Kaaren Knight, an "individual appears to pair and fuse emotions associated with
+objects to the actual objects themselves" [@kellett_does_2003, 458]. For
 compulsive hoarders, "possessions therefore falsely become symbolic tabernacles
 of affective information inevitably creating difficulties at the point of
-discard" [@kellett_does_2003, 458]. Kellett reports a case study of a woman
-unable to discard rubbish in the usual way, for whom, due to object-affect
-fusion the concept of recycling was "morally abhorrent." The only way she could
-get rid of anything, including rubbish, was to burn it the fireplace, which was
-continually lit for that purpose, and then to deform the partially melted
-objects with a mallet, battered beyond recognition and therefore stripped of
-identity and affect [@kellett_does_2003, 459-60].
+discard" [@kellett_does_2003, 458]. Kellett and Knight report a case study of a
+woman unable to discard rubbish in the usual way, for whom, due to excessive
+object-affect fusion the concept of recycling was "morally abhorrent." The only
+way she could get rid of anything, including rubbish, was to burn it the
+fireplace, which was continually lit for that purpose, and then to deform the
+partially melted objects with a mallet, battered beyond recognition and
+therefore stripped of all identity and affect [@kellett_does_2003, 459-60].
 
-To be sure, the above makes for an extreme example of object--affect fusion,
-but also perfectly commonplace in its everyday form. The domestic space has
-always been, in some sense, an archival domain. The book shelf, the pantry, the
+To be sure, the literature on the subject mentions that fusion between objects
+and affect can and does routinely take place in its perfectly commonplace, non-
+pathological, everyday form.[^ln5-hoard] In this regard, we can view the
+domestic space as an archival domain of sorts. The book shelf, the pantry, the
 wall, and the mantle: these are the locations where the family imposes private
 order, organizes its material life, and into which it secretes its memories,
 preserving and curating artifacts from its own past. For the most part, these
@@ -474,9 +474,9 @@ anthropologists and cultural historians have began to document and to "read"
 such spaces. For example, in a chapter on immigrant domestic interiors,
 Svetlana Boym writes about these typically Soviet curio cabinets, which present
 "once a fragmentary biography of the inhabitant and a display of collective
-memory" [@boym_future_2002, 334]. "If there had been such a thing as Soviet
+memory" [@boym_future_2002, 334].  "If there had been such a thing as Soviet
 cultural unconscious," she writes in *Common Spaces*, it would have been
-structured like a communal apartment" [@boym_common_1995, 1610]. Similarly, in
+structured like a communal apartment" [@boym_common_1995, 1610].  Similarly, in
 "Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
 of contemporary American domestic space, a team of anthropologists (and a
 photographer) document, describe, and interpret the "domestic material worlds"
@@ -487,6 +487,9 @@ family's refrigirator:
 > magnets. And you know what? we go up to these pictures and the time and sort
 > of remark about who people are wand where we were and what we were doing and
 > how old people were [@arnold_life_2012, 51].
+
+[^ln5-hoard]: See for example @kellett_does_2003, 458: "Emotional attachment to
+objects are commonplace."
 
 "Assemblages of objects that families purposefully accumulate and arrange in
 them preserve and legitimize personal histories" [@arnold_life_2012, 161].
