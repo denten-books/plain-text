@@ -241,7 +241,7 @@ about the "tape." Reel-to-reel recorders too will need further and
 progressively more expansive annotation as the technology fades from collective
 memory. Thus, with the curtain drawn, we the audience, readers, and custodians
 of the play are implicated in the process of Krapp's narcissistic archive
-making. We reach for the volume, read, reread, annotate, and reshelve.  As a
+making. We reach for the volume, read, reread, annotate, and reshelve. As a
 textual artifact, *Krapp's Last Tape* is also a spool in our own collection. To
 read it again is to encounter a memory of one's own past reading: now a part of
 who I am, yet already not the text itself and not the same me.
@@ -270,11 +270,11 @@ receives neither grants nor visitors, and Krapp himself is hardly a proper
 heirs to continue his lineage. In contrast to the Freud Museum, his collection
 mostly consists of documents that have only a deeply personal significance. His
 archive has less to do with social power structures and more with the
-mechanisms of private identity formation, remembrance, and nostalgia. To mimic
-Derrida here, we could say that his collection is a recollection---it is not a
-house, but a yearning for a house: "nostalgia," from the Greek *nostos*, a
-homecoming [@_nostalgia_2015]. This chapter will be about one such domicile,
-where the librarians of the self commonly make a home.
+mechanisms of private identity formation, remembrance, and nostalgia. Krapp
+lives in and through his archive. To mimic Derrida here, we could say that his
+collection is a recollection. It is a yearning for a house: "nostalgia," from
+the Greek *nostos*, a homecoming [@_nostalgia_2015]. This chapter will be about
+one such domicile, where the librarians of the self commonly make a home.
 
 ### 5.2 Media Being
 
@@ -306,7 +306,7 @@ non-being. William James writes: "There are a few men who would not feel
 personally annihilated if a life-long construction of their hands or
 brains---say an entomological collection or an extensive work in
 manuscript---were suddenly swept away." James calls the loss of such
-identity-bound possessions "the shrinkage of personality" and "a portion
+identity-bound possessions "the shrinkage of personality" and "a partial
 conversion of ourselves to nothingness" [@james_principles_1890, 293]. In a
 recent issue of *e-misférica* dedicated to the subject of archives, Diana
 Taylor goes further to suggest that fears about personal impermanence motivate
@@ -326,13 +326,18 @@ practice of what Sartre called an appointment with one's own sadness. "What
 will remain of my [interrupted] sadness," Sartre writes, "except that I
 obligingly promise it an appointment for later after the departure of the
 visitor" [@sartre_being_1993, 104]?  *Krapp's Last Tape* reminds us of the
-ubiquity of such appointments. "Remember their laughter forever," is not even
-about "them." As a marketing slogan, it encourages consumers to commit happy
-and private mental states into externalized storage. More than that, it implies
-an ongoing commitment to continually revisit one's own past representations: to
-label, to organize, to archive, to browse, and to re-encounter. These are
-private commitments, but also openly manufactured and monetized by media
-makers. "Remember forever," also contains a threat, "lest you forget."
+ubiquity of such appointments. The aptly named Soundmirror ("remember their
+laughter forever"), encourages the home archivist to commit happy and private
+mental states into externalized storage. More than that, it implies an ongoing
+commitment to continually revisit one's own past representations: to label, to
+organize, to archive, to browse, and to re-encounter. These are private
+commitments, but also openly manufactured and monetized by media makers.
+"Remember forever," also contains a threat, "lest you forget." The content of
+the messages in the reflection is not really about "their laughter" at all.
+The advertisements for personal storage media ecourage their users to cherish
+their own memories, not their loved ones. Strictly speaking, in the loop
+between the listener and the recorder one encounters only the image of self
+reflection.
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -458,160 +463,41 @@ continually lit for that purpose, and then to deform the partially melted
 objects with a mallet, battered beyond recognition and therefore stripped of
 identity and affect [@kellett_does_2003, 459-60].
 
+To be sure, the above makes for an extreme example of object--affect fusion,
+but also perfectly commonplace in its everyday form. The domestic space has
+always been, in some sense, an archival domain. The book shelf, the pantry, the
+wall, and the mantle: these are the locations where the family imposes private
+order, organizes its material life, and into which it secretes its memories,
+preserving and curating artifacts from its own past. For the most part, these
+archives have remained obscured behind closed doors. Only recently have
+anthropologists and cultural historians have began to document and to "read"
+such spaces. For example, in a chapter on immigrant domestic interiors,
+Svetlana Boym writes about these typically Soviet curio cabinets, which present
+"once a fragmentary biography of the inhabitant and a display of collective
+memory" [@boym_future_2002, 334]. "If there had been such a thing as Soviet
+cultural unconscious," she writes in *Common Spaces*, it would have been
+structured like a communal apartment" [@boym_common_1995, 1610]. Similarly, in
+"Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
+of contemporary American domestic space, a team of anthropologists (and a
+photographer) document, describe, and interpret the "domestic material worlds"
+of 32 Los Angeles families. A 41 year old father has this to say about his
+family's refrigirator:
+
+> Here is our life on the refrigerator and all the collection of photos and
+> magnets. And you know what? we go up to these pictures and the time and sort
+> of remark about who people are wand where we were and what we were doing and
+> how old people were [@arnold_life_2012, 51].
+
+"Assemblages of objects that families purposefully accumulate and arrange in
+them preserve and legitimize personal histories" [@arnold_life_2012, 161].
+
 Back to Beckett.
 
-### 5.3 Freedom of Information
-
-Freedom security consistency (Furby). Control. Freedom.
-
-"To a book collector, you see, the true freedom of all books is somewhere on his
-shelves" [@benjamin_unpacking_1968, 64].
-
-Lita Furby, who wrote one of the earliest definitive literature reviews on the
-subject in the 1970s, traces the origins of object-affect fusion to William
-James. In the *Principles of Psychology* James writes about what he calls the
-"empirical self," which comprises the unity of all that could be called me:
-
-> It is clear that between what a man calls me and what he simply calls mine,
-the line is difficult to draw. We fell and act about certain things that are
-ours very much as we feel and act about ourselves. Our fame, our children, the
-work of our hands, may be as dear to us as our bodies are, and arouse the same
-feelings and the same acts of reprisal if attacked.
-
-### 5.4 Rereading
-
-What does it mean to "have read" a book in this light? Surely, when someone
-says "I too have read this book" they mean something more than the mechanical
-action of turning pages and moving one's eyes from left to right in a
-sequential manner. The blunt act of purchasing the book is also somewhat
-besides the point. Benjamin implies a deeper connection. To have read is to
-internalize, to understand, and to form a mental image or opinion. But what
-exactly is internalized? It cannot be the whole text, verbatim. By reading we
-mean something other than rote memorization. In his *Blue and Brown Books*,
-written somewhere between the *Tractatus* and *Philosophical Investigations*,
-Ludwig Wittgenstein gives the example of a child who is asked to read, but who
-instead regurgitates the text from memory. Wittgenstein further asks his
-readers to imagine an experimental "human reading machine," which like the
-child "reads" by making sounds which sometimes do and sometimes do not
-correspond with the printed word. An observer not familiar with the mechanism
-of this experimental "reader," could be fooled into thinking the machine is
-reading. The coincidence between sound and word remains accidental, however. We
-would remain skeptical of this activity as reading even if our machine were to
-begin to correlate letters to appropriate sounds consistently
-[@wittgenstein_blue_1965, 120-1].
-
-In his characteristically cryptic manner, Wittgenstein explains his thought
-experiment by making yet another analogy:
-
-> If A tries to make B believe that he is able to read Cyrillic script,
-> cheating him by learning a Russian sentence by heart and then saying it while
-> looking at the printed sentence, we may certainly say that A knows he is
-> pretending, and that his not reading is characterized by a particular
-> personal experience [@wittgenstein_blue_1965, 120-1].
-
-But suppose the man really does know how to read Russian, although when he
-reads he has a peculiar feeling of knowing the words by heart. Should we regard
-his personal experience as the criterion distinguishing between reading and not
-reading in that case? And again, Wittgenstein expects us to answer in the
-negative. It seems then, that the functional performance of reading cannot
-determine the behavior alone. In each case, we had to check for the appropriate
-internalized mental state. Wittgenstein writes, "We here envision two
-mechanisms, the internal workings of which we can see, and this internal
-working is the real criterion for a person's reading or not reading. But in
-fact no such mechanisms are known to us in these cases"
-[@wittgenstein_blue_1965, 120].
-
-As it turns out, the mental state alone is also insufficient to describe
-reading definitively. Here, Wittgenstein asks us to imagine a person under the
-influence of drugs who is shown a set of discrete strings composed of
-nonsensical characters. When shown some random string of nonsensical characters
-like `$%^&*`, for example, the drugged patient imagines he is reading some
-English word, like "above" or "stair," as if the typographical characters were
-meaningful. As far as the patient is concerned, he is reading. All the
-structural attributes of the action are there---the proper region of his brain
-is receiving stimulation; he follows the text with his eyes from left to right;
-and silently mouths the words. But this too is unacceptable: the patient merely
-imagines that he is reading [@wittgenstein_blue_1965, 122].
-
-In this way, neither the internal nor the external descriptions of the action
-seem adequate to encompass everything we mean by reading. And yet we do have a
-relatively clear picture of what reading properly entails, what it looks like,
-what it sounds like, how to do it, and how to teach others to do it. In
-building this chain of deferring analogies (from the reading child to the drug
-induced reading hallucination) we are acting as though "we had tried to find
-the real artichoke by stripping it of its leaves," writes Wittgenstein
-[@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
-together, *are* the artichoke. At which point of peeling the artichoke does the
-artichoke disappear into leafy particulates? It is a patently misguided
-question. The question of cognition, for Wittgenstein, fails in a similar way.
-Our mistake lies in attempting to reduce cognitive activity like "reading" to a
-set of either external (functional) attributes or internal (formal) mental
-structures. Yet neither of these are sufficient. Reading happens in the head
-and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
-
-> In the consideration of our problems one of the most dangerous ideas is the
-> idea that we think with, or in, our heads [...] 'Thinking takes place in the
-> head" really means only 'the head is connected with thinking."---Of course
-> one says also 'I think with my pen' and this localization is at least as good
-> [@wittgenstein_blue_1965, 116].
-
-In refusing to resolve the tension between functional (or behaviorist) and
-formal (or structuralist) accounts of cognition, Wittgenstein's thought
-experiments suggest a model of textual activity that sees reading and writing
-as a movement between innate mental structures their external, media-bound
-representations. Although Wittgenstein does not explain it in these terms,
-reading and writing for him happens at the interface of mental and physical
-boundaries. In other words, reading and writing proper involve a measure of
-"correct" correlation between internal mind states and external paper-and-ink
-states. This correlation I take to resemble Benjamin's "staging of fate." The
-moment of interface, on the stage of a bookshelf, is what unites the history of
-the book with the history of one's conciousness. It is exactly the encounter
-between the collective and the private. What "I know" and "we know" meets and
-intertwines on the page.
-
-To have read a book therefore involves a certain physical facility with the
-text: in the way its structure can, with much practice and repetition, become
-readily available to the "mind's eye." I "see" a particular thought or image in
-relationship to the rest of the structure. What was then a series of unrelated
-vignettes, my mind stitches into some coherent whole. That structure is not in
-the mind alone: I have a "feeling" about the location of that thought on paper.
-The cognitive facility with the work as a mental construct accompanies a
-applied manipulation of the text as a physical artifact. I will "leaf through"
-a familiar book. I may not yet know what I am looking for, but I remember where
-the "sign posts" are. The mental facility of "having read something" is however
-curtailed by the limits of human memory. Even after teaching the same text for
-several years in a row, I have to "refresh" my knowledge of its contents. This
-sort of knowledge becomes easier with repetition, but I am also painfully aware
-of its impermanence.
-
-Abandoning a text for several decades means to lose some facility in navigating
-it mentally and physically. I still "have read it," but with time "having read"
-begins to mean less than before. That structures of "having internalized"
-become a memory of past internalized structures.[^ln5-james-memory] And that is
-a difficult thing to admit to oneself. We expect or at least talk as if
-knowledge has a semi-permanent cognitive purchase within the individual. But,
-fundamentally, I also must accept that knowledge available to my "mind's eye"
-constitutes only a small fraction of the things I can know "ready at hand."
-Most of the things I know and have read are available to me on my book shelves,
-in my notebooks, online, and on my hard drives. I do not know them in a sense
-of remembering them---I know them in the sense of being able to find the
-information if needed, to evaluate sources, and to recall a cascade of related
-past (formed) mental reactions. I suspect that most things I know and have read
-come to me in that condensed, externalized form. The amount of ideas accessible
-to me "at hand" must vastly outnumber the ideas in the "mind's eye." The hand
-and the inner eye work together to enter into what Barbara Herrnstein Smith
-calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
-in this case, both the speaker and the listener, reader and writer, are found
-in one of the same person.
-
-For a vast swath of my own textual activity, I exchange information with
-myself. And if that is true (as it is certainly true in the process of writing,
-not only books, but also in the genre of various "notes to self,") we are then
-faced here with a solipsistic literature and a literary analysis that differs
-markedly from the reading of public books: solipsistic criticism, a mode of
-engagement at once more common and less understood than the reading of others.
-In charting out that unfamiliar territory of the personal archive, I am
-confounded by known models of communication, advanced by thinkers like
+We are then faced here with a solipsistic literature and a literary analysis
+that differs markedly from the reading of public books: solipsistic criticism,
+a mode of engagement at once more common and less understood than the reading
+of others.  In charting out that unfamiliar territory of the personal archive,
+I am confounded by known models of communication, advanced by thinkers like
 Ferdinand de Saussure, Roman Jacobson, and Claude Shannon, a model that assumes
 the existence of a "sender" and a "receiver," an "addressant" and an
 "addressee." The state of a media being implies a prodigious archive of private
@@ -623,38 +509,12 @@ one that involves a hermeneutics that is taught formally in schools and
 universities. Our time spent on interpreting a literature of another makes up
 for a small fraction of the time spent on understanding the literature of self.
 
-Reading is reading self.
-
 ### 5.5 Home (A Case Study)
 
 Personal computer.
 
 What is the concept of self in Unix?
 
-The domestic space has always been, in some sense, an archival domain. The
-book shelf, the pantry, the wall, and the mantle: these are the locations where
-the family imposes private order, organizes its material life, and into which
-it secretes its memories, preserving and curating artifacts from its own pest.
-In a chapter on immigrant domestic interiors, for example, Svetlana Boym writes
-about these typically Soviet curio cabinets, which present "once a fragmentary
-biography of the inhabitant and a display of collective memory"
-[@boym_future_2002, 334]. "If there had been such a thing as Soviet cultural
-unconscious," she writes in *Common Spaces*, it would have been structured like
-a communal apartment" [@boym_common_1995, 1610]. Similarly, in "Life at Home in
-the Twenty-First Century," a ground-breaking "ethnoarcheology" of contemporary
-American domestic space, a team of anthropologists (and a photographer)
-document, describe, and interpret the "domestic material worlds" of 32 Los
-Angeles families
-
-41 year old father.
-
-> Here is our life on the refrigerator and all the collection of photos and
-> magnets. And you know what? we go up to these pictures and the time and sort
-> of remark about who people are wand where we were and what we were doing and
-> how old people were [@arnold_life_2012, 51].
-
-"Assemblages of objects that families purposefully accumulate and arrange in
-them preserve and legitimize personal histories" [@arnold_life_2012, 161].
 
 Home, and home.
 

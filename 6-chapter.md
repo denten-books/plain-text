@@ -16,6 +16,18 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
+### 5.3 Freedom of Information
+
+Freedom security consistency (Furby). Control. Freedom.
+
+"To a book collector, you see, the true freedom of all books is somewhere on his
+shelves" [@benjamin_unpacking_1968, 64].
+
+Lita Furby, who wrote one of the earliest definitive literature reviews on the
+subject in the 1970s, traces the origins of object-affect fusion to William
+James. In the *Principles of Psychology* James writes about what he calls the
+"empirical self," which comprises the unity of all that could be called me:
+
 Attributes ideas of autonomous technology to a Thomas, Carlyle, Charles
 Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Thoreau, mark Twain,
 Henry Adams, John Ruskin, William Morris, E. E. Cummings, George Orwell, Marcel

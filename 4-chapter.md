@@ -82,6 +82,131 @@ the appearance  of wisdom, not true wisdom for they will read many things
 without instruction and will therefore seem to know many things, when they are
 for the most part ignorant [...] [@plato_plato:_1999, 563-4].
 
+### 5.4 Rereading
+
+What does it mean to "have read" a book in this light? Surely, when someone
+says "I too have read this book" they mean something more than the mechanical
+action of turning pages and moving one's eyes from left to right in a
+sequential manner. The blunt act of purchasing the book is also somewhat
+besides the point. Benjamin implies a deeper connection. To have read is to
+internalize, to understand, and to form a mental image or opinion. But what
+exactly is internalized? It cannot be the whole text, verbatim. By reading we
+mean something other than rote memorization. In his *Blue and Brown Books*,
+written somewhere between the *Tractatus* and *Philosophical Investigations*,
+Ludwig Wittgenstein gives the example of a child who is asked to read, but who
+instead regurgitates the text from memory. Wittgenstein further asks his
+readers to imagine an experimental "human reading machine," which like the
+child "reads" by making sounds which sometimes do and sometimes do not
+correspond with the printed word. An observer not familiar with the mechanism
+of this experimental "reader," could be fooled into thinking the machine is
+reading. The coincidence between sound and word remains accidental, however. We
+would remain skeptical of this activity as reading even if our machine were to
+begin to correlate letters to appropriate sounds consistently
+[@wittgenstein_blue_1965, 120-1].
+
+In his characteristically cryptic manner, Wittgenstein explains his thought
+experiment by making yet another analogy:
+
+> If A tries to make B believe that he is able to read Cyrillic script,
+> cheating him by learning a Russian sentence by heart and then saying it while
+> looking at the printed sentence, we may certainly say that A knows he is
+> pretending, and that his not reading is characterized by a particular
+> personal experience [@wittgenstein_blue_1965, 120-1].
+
+But suppose the man really does know how to read Russian, although when he
+reads he has a peculiar feeling of knowing the words by heart. Should we regard
+his personal experience as the criterion distinguishing between reading and not
+reading in that case? And again, Wittgenstein expects us to answer in the
+negative. It seems then, that the functional performance of reading cannot
+determine the behavior alone. In each case, we had to check for the appropriate
+internalized mental state. Wittgenstein writes, "We here envision two
+mechanisms, the internal workings of which we can see, and this internal
+working is the real criterion for a person's reading or not reading. But in
+fact no such mechanisms are known to us in these cases"
+[@wittgenstein_blue_1965, 120].
+
+As it turns out, the mental state alone is also insufficient to describe
+reading definitively. Here, Wittgenstein asks us to imagine a person under the
+influence of drugs who is shown a set of discrete strings composed of
+nonsensical characters. When shown some random string of nonsensical characters
+like `$%^&*`, for example, the drugged patient imagines he is reading some
+English word, like "above" or "stair," as if the typographical characters were
+meaningful. As far as the patient is concerned, he is reading. All the
+structural attributes of the action are there---the proper region of his brain
+is receiving stimulation; he follows the text with his eyes from left to right;
+and silently mouths the words. But this too is unacceptable: the patient merely
+imagines that he is reading [@wittgenstein_blue_1965, 122].
+
+In this way, neither the internal nor the external descriptions of the action
+seem adequate to encompass everything we mean by reading. And yet we do have a
+relatively clear picture of what reading properly entails, what it looks like,
+what it sounds like, how to do it, and how to teach others to do it. In
+building this chain of deferring analogies (from the reading child to the drug
+induced reading hallucination) we are acting as though "we had tried to find
+the real artichoke by stripping it of its leaves," writes Wittgenstein
+[@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
+together, *are* the artichoke. At which point of peeling the artichoke does the
+artichoke disappear into leafy particulates? It is a patently misguided
+question. The question of cognition, for Wittgenstein, fails in a similar way.
+Our mistake lies in attempting to reduce cognitive activity like "reading" to a
+set of either external (functional) attributes or internal (formal) mental
+structures. Yet neither of these are sufficient. Reading happens in the head
+and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
+
+> In the consideration of our problems one of the most dangerous ideas is the
+> idea that we think with, or in, our heads [...] 'Thinking takes place in the
+> head" really means only 'the head is connected with thinking."---Of course
+> one says also 'I think with my pen' and this localization is at least as good
+> [@wittgenstein_blue_1965, 116].
+
+In refusing to resolve the tension between functional (or behaviorist) and
+formal (or structuralist) accounts of cognition, Wittgenstein's thought
+experiments suggest a model of textual activity that sees reading and writing
+as a movement between innate mental structures their external, media-bound
+representations. Although Wittgenstein does not explain it in these terms,
+reading and writing for him happens at the interface of mental and physical
+boundaries. In other words, reading and writing proper involve a measure of
+"correct" correlation between internal mind states and external paper-and-ink
+states. This correlation I take to resemble Benjamin's "staging of fate." The
+moment of interface, on the stage of a bookshelf, is what unites the history of
+the book with the history of one's conciousness. It is exactly the encounter
+between the collective and the private. What "I know" and "we know" meets and
+intertwines on the page.
+
+To have read a book therefore involves a certain physical facility with the
+text: in the way its structure can, with much practice and repetition, become
+readily available to the "mind's eye." I "see" a particular thought or image in
+relationship to the rest of the structure. What was then a series of unrelated
+vignettes, my mind stitches into some coherent whole. That structure is not in
+the mind alone: I have a "feeling" about the location of that thought on paper.
+The cognitive facility with the work as a mental construct accompanies a
+applied manipulation of the text as a physical artifact. I will "leaf through"
+a familiar book. I may not yet know what I am looking for, but I remember where
+the "sign posts" are. The mental facility of "having read something" is however
+curtailed by the limits of human memory. Even after teaching the same text for
+several years in a row, I have to "refresh" my knowledge of its contents. This
+sort of knowledge becomes easier with repetition, but I am also painfully aware
+of its impermanence.
+
+Abandoning a text for several decades means to lose some facility in navigating
+it mentally and physically. I still "have read it," but with time "having read"
+begins to mean less than before. That structures of "having internalized"
+become a memory of past internalized structures.[^ln5-james-memory] And that is
+a difficult thing to admit to oneself. We expect or at least talk as if
+knowledge has a semi-permanent cognitive purchase within the individual. But,
+fundamentally, I also must accept that knowledge available to my "mind's eye"
+constitutes only a small fraction of the things I can know "ready at hand."
+Most of the things I know and have read are available to me on my book shelves,
+in my notebooks, online, and on my hard drives. I do not know them in a sense
+of remembering them---I know them in the sense of being able to find the
+information if needed, to evaluate sources, and to recall a cascade of related
+past (formed) mental reactions. I suspect that most things I know and have read
+come to me in that condensed, externalized form. The amount of ideas accessible
+to me "at hand" must vastly outnumber the ideas in the "mind's eye." The hand
+and the inner eye work together to enter into what Barbara Herrnstein Smith
+calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
+in this case, both the speaker and the listener, reader and writer, are found
+in one of the same person.
 ### Stenography
 
 ### Dvorak
