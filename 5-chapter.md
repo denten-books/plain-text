@@ -20,7 +20,7 @@ header-includes:
 ## Chapter 5: Recursive Encounters with Oneself
 `media being, home, human`
 
-### 5.1 Librarians of the Self
+### 5.1 Personal Archives
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -67,7 +67,7 @@ Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer feels fully congruent with his former self, "that
 stupid bastard" [@beckett_complete_2006, 221]. He sometimes has to consult a
 dictionary to understand what the voice on the tape says. At other times he
-cannot read his own handwriting. And often he simply loathes the voice from the
+cannt read his own handwriting. And often he simply loathes the voice from the
 past:
 
 > Hard to believe I was ever that young whelp. The voice! Jesus! And the
@@ -458,7 +458,15 @@ continually lit for that purpose, and then to deform the partially melted
 objects with a mallet, battered beyond recognition and therefore stripped of
 identity and affect [@kellett_does_2003, 459-60].
 
-Freedom security consistency (Furby).
+Back to Beckett.
+
+### 5.3 Freedom of Information
+
+Freedom security consistency (Furby). Control. Freedom.
+
+"To a book collector, you see, the true freedom of all books is somewhere on his
+shelves" [@benjamin_unpacking_1968, 64].
+
 Lita Furby, who wrote one of the earliest definitive literature reviews on the
 subject in the 1970s, traces the origins of object-affect fusion to William
 James. In the *Principles of Psychology* James writes about what he calls the
@@ -470,11 +478,7 @@ ours very much as we feel and act about ourselves. Our fame, our children, the
 work of our hands, may be as dear to us as our bodies are, and arouse the same
 feelings and the same acts of reprisal if attacked.
 
-
-Back to Beckett. 
-
-
-### Reading
+### 5.4 Rereading
 
 What does it mean to "have read" a book in this light? Surely, when someone
 says "I too have read this book" they mean something more than the mechanical
@@ -600,15 +604,6 @@ calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
 in this case, both the speaker and the listener, reader and writer, are found
 in one of the same person.
 
-[^ln5-james-memory]: For example, see @james_principles_1890, 255-6: "Every
-definite image in the mind is steeped and dyed in the free  water that flows
-round it. With it goes the sense of its relations, near and remote, the dying
-echo of whence it came to us, the dawning sense of whither it is to lead [...]
-What is that shadowy scheme of the 'form' of an opera, play, or book, which
-remains in our mind and on which we pass judgment when the actual thing is
-done? [...] It is a feeling like any other, a feeling of what thoughts are next
-to arise, before they have arisen."
-
 For a vast swath of my own textual activity, I exchange information with
 myself. And if that is true (as it is certainly true in the process of writing,
 not only books, but also in the genre of various "notes to self,") we are then
@@ -628,72 +623,11 @@ one that involves a hermeneutics that is taught formally in schools and
 universities. Our time spent on interpreting a literature of another makes up
 for a small fraction of the time spent on understanding the literature of self.
 
-I pull on these variegated strains of related thought to assemble a bricolage
-of ideas that gives rise to media being---an artificial creature born out of
-the dialectical tension between mind and body, internal and external, immanence
-and transcendence, matter and spirit. However arbitrary the boundaries of
-Cartesian dualism may be, they lie at the fault lines between something vital
-and something human on the one side and something matter-bound and inorganic on
-the other. One does not have to make these boundaries essential or
-deterministic to perceive their perpetual importance in the conversation about
-knowledge and technology. In this way, Friedrich Nietzsche spoke of the modern
-man who "drags around with him a huge quantity of indigestible stones of
-knowledge." For Nietzsche the modern condition was defined by a profound
-incongruence between "interior" and "exterior" [@nietzsche_untimely_1997, 78].
-He writes, "We moderns, have nothing whatever of our own; only by replenishing
-and cramming ourselves with the ages, customs, arts, philosophies, religions,
-discoveries of others do we become anything worthy of notice, that is to say
-walking encyclopedias." These encyclopedias he calls "handbook[s] of inward
-culture for outward barbarians" [@nietzsche_untimely_1997, 79]. Nietzsche's
-metaphor is one of cultural "indigestion." The rocks that rattle within
-represent the detritus of knowledge that is not somehow fully assimilated into
-the individual psyche. In this Nietzsche also mirrors the concern of Plato's
-*Phaedrus*, where Thamus, the king of Thebes, is shown to be weary of not fully
-internalized and undigested knowledge. Responding to Theuth, the great
-god-inventor who brought Egyptians the gifts of arithmetic, geometry,
-astronomy, draughts, and writing among other arts, the king worries that
-writing in particular will harm rather than help his people. When it came to
-letters, Thamus comments:
+Reading is reading self.
 
-> Most ingenious Theuth [...] the father of letters, [you] have been led by
-your affection to ascribe to them a power the opposite of that which they
-really possess. For this invention will produce forgetfulness in the minds of
-those who learn to use it, because they will not practise their memory. Their
-trust in writing, produced by external characters which are no part of
-themselves, will discourage the use of their own memory within them. You have
-invented an elixir not of memory, but of reminding; and you offer your pupils
-the appearance  of wisdom, not true wisdom for they will read many things
-without instruction and will therefore seem to know many things, when they are
-for the most part ignorant [...] [@plato_plato:_1999, 563-4].
+### 5.5 Home (A Case Study)
 
-That technologies of the written word are somehow corrupting our native
-cognitive capabilities, that the humanity (in certain parts of the world, that
-is) is becoming dependent on externalized cognitive aids, and that such
-dependence has wide-ranging social repercussions, are worries that have
-permeated Western popular culture since the days of Socrates. "I see within us
-all (myself included) the replacement of complex inner density with a new kind
-of self," Richard Foreman writes in an essay that accompanies his play *The
-Pancake People*. This new self is shallow, containing "less and less of an
-inner repertory of dense cultural inheritance" [@foreman_pancake_2005].
-Nicholas Carr echoes these words in his widely-cited 2008 article for the
-*Atlantic Monthly*, writing that "over the past few years I've had an
-uncomfortable sense that someone, or something, has been tinkering with my
-brain, remapping the neural circuitry, reprogramming the memory." "The deep
-reading that used to come naturally has become a struggle," Carr writes and
-concludes to suggest that online search engines are making us stupid
-[@carr_is_2008]. Lionel Trilling has described this reoccurring "anxiety about
-the machine" as "the sense of something intervening between man and his own
-organic endowment," and considered it "a powerful element in the modern
-consciousness, an overt and exigent issue in our culture"
-[@trilling_sincerity_1972, 127-8].
-
-
-### 5.3 Freedom of Information
-
-"To a book collector, you see, the true freedom of all books is somewhere on his
-shelves" [@benjamin_unpacking_1968, 64].
-
-### 5.7 Home (a case study)
+Personal computer.
 
 What is the concept of self in Unix?
 
@@ -775,5 +709,13 @@ significant in Goethe, or in John Mill so full of weight? Instead of all this,
 more zestful than ever is the work, the work; and fuller and deeper the import
 of common duties, and of common goods."
 
-### 5.8 Anarchive
+[^ln5-james-memory]: For example, see @james_principles_1890, 255-6: "Every
+definite image in the mind is steeped and dyed in the free  water that flows
+round it. With it goes the sense of its relations, near and remote, the dying
+echo of whence it came to us, the dawning sense of whither it is to lead [...]
+What is that shadowy scheme of the 'form' of an opera, play, or book, which
+remains in our mind and on which we pass judgment when the actual thing is
+done? [...] It is a feeling like any other, a feeling of what thoughts are next
+to arise, before they have arisen."
+
 ### Works Cited

@@ -132,6 +132,8 @@ these choices come from? What guides development?
 
 Humanism. Agency, delibiration, consensus, dissent.
 
+### 5.6 Anarchive
+
 ### Marx and Robots 
 
 ### 4.5 Human Revealment (Heidegger + Conclusion)

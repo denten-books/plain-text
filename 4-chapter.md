@@ -23,6 +23,65 @@ that other layout necessarily achieve faster speeds like Dvorak or . This
 chapter is about keyboards however. It won't be a totalizing history, as
 before. Why so important? Why so not important now?
 
+That technologies of the written word are somehow corrupting our native
+cognitive capabilities, that the humanity (in certain parts of the world, that
+is) is becoming dependent on externalized cognitive aids, and that such
+dependence has wide-ranging social repercussions, are worries that have
+permeated Western popular culture since the days of Socrates. "I see within us
+all (myself included) the replacement of complex inner density with a new kind
+of self," Richard Foreman writes in an essay that accompanies his play *The
+Pancake People*. This new self is shallow, containing "less and less of an
+inner repertory of dense cultural inheritance" [@foreman_pancake_2005].
+Nicholas Carr echoes these words in his widely-cited 2008 article for the
+*Atlantic Monthly*, writing that "over the past few years I've had an
+uncomfortable sense that someone, or something, has been tinkering with my
+brain, remapping the neural circuitry, reprogramming the memory." "The deep
+reading that used to come naturally has become a struggle," Carr writes and
+concludes to suggest that online search engines are making us stupid
+[@carr_is_2008]. Lionel Trilling has described this reoccurring "anxiety about
+the machine" as "the sense of something intervening between man and his own
+organic endowment," and considered it "a powerful element in the modern
+consciousness, an overt and exigent issue in our culture"
+[@trilling_sincerity_1972, 127-8].
+
+I pull on these variegated strains of related thought to assemble a bricolage
+of ideas that gives rise to media being---an artificial creature born out of
+the dialectical tension between mind and body, internal and external, immanence
+and transcendence, matter and spirit. However arbitrary the boundaries of
+Cartesian dualism may be, they lie at the fault lines between something vital
+and something human on the one side and something matter-bound and inorganic on
+the other. One does not have to make these boundaries essential or
+deterministic to perceive their perpetual importance in the conversation about
+knowledge and technology. In this way, Friedrich Nietzsche spoke of the modern
+man who "drags around with him a huge quantity of indigestible stones of
+knowledge." For Nietzsche the modern condition was defined by a profound
+incongruence between "interior" and "exterior" [@nietzsche_untimely_1997, 78].
+He writes, "We moderns, have nothing whatever of our own; only by replenishing
+and cramming ourselves with the ages, customs, arts, philosophies, religions,
+discoveries of others do we become anything worthy of notice, that is to say
+walking encyclopedias." These encyclopedias he calls "handbook[s] of inward
+culture for outward barbarians" [@nietzsche_untimely_1997, 79]. Nietzsche's
+metaphor is one of cultural "indigestion." The rocks that rattle within
+represent the detritus of knowledge that is not somehow fully assimilated into
+the individual psyche. In this Nietzsche also mirrors the concern of Plato's
+*Phaedrus*, where Thamus, the king of Thebes, is shown to be weary of not fully
+internalized and undigested knowledge. Responding to Theuth, the great
+god-inventor who brought Egyptians the gifts of arithmetic, geometry,
+astronomy, draughts, and writing among other arts, the king worries that
+writing in particular will harm rather than help his people. When it came to
+letters, Thamus comments:
+
+> Most ingenious Theuth [...] the father of letters, [you] have been led by
+your affection to ascribe to them a power the opposite of that which they
+really possess. For this invention will produce forgetfulness in the minds of
+those who learn to use it, because they will not practise their memory. Their
+trust in writing, produced by external characters which are no part of
+themselves, will discourage the use of their own memory within them. You have
+invented an elixir not of memory, but of reminding; and you offer your pupils
+the appearance  of wisdom, not true wisdom for they will read many things
+without instruction and will therefore seem to know many things, when they are
+for the most part ignorant [...] [@plato_plato:_1999, 563-4].
+
 ### Stenography
 
 ### Dvorak
