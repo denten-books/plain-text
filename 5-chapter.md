@@ -334,7 +334,7 @@ organize, to archive, to browse, and to re-encounter. These are private
 commitments, but also openly manufactured and monetized by media makers.
 "Remember forever," also contains a threat, "lest you forget." The content of
 the messages in the reflection is not really about "their laughter" at all.
-The advertisements for personal storage media ecourage their users to cherish
+The advertisements for personal storage media encourage their users to cherish
 their own memories, not their loved ones. Strictly speaking, the loop between a
 listener and a recorder transmits only the image of self reflection.
 
@@ -378,7 +378,7 @@ serve to externalize and to preserve private mental states. The second sees
 such structures as forms of extended cognition, where cognition is understood
 not in its metaphorical sense, but as palpable, real-world activity,
 susceptible to the contingencies of time and place. The third, takes such
-material extensions of self to constitute a specialized form of literature,
+material extensions of self to constitute a specialized form of archive-making,
 which, by contrast to other forms of communication, takes the self both as
 subject and object (sender and recipient, author and reader, playwright and
 audience) of transmission. Finally, and this is a matter of speculative
@@ -396,9 +396,9 @@ material contexts of media being beyond the discussion about preservation.
 Fundamentally, the various cognitive artifacts of a material self must
 constitute a protected class of objects, which, unlike most other dead things,
 participate in the realm of ethics and aesthetics. If these structures
-constitute an intergral part of the mind, as James and others suggest, they
-must also properly participate in intellectual ideals like "clarity of
-thought," "free thought," or "critical thinking."
+constitute an integral part of the mind, as James and others suggest, they must
+also properly participate in intellectual ideals like "clarity of thought,"
+"free thought," or "critical thinking."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -432,7 +432,7 @@ climate" of book collecting, he writes:
 >he is going to disappear inside, as is only fitting"
 >[@benjamin_unpacking_1968, 67].
 
-As ever, Benjamin intersts lie in the aura that attaches itself to inanimate
+As ever, Benjamin interests lie in the aura that attaches itself to inanimate
 objects. But in scanning these lines, the reader cannot help but suspect that
 by "ownership," Benjamin means some process outside of economic exchange: not
 the ownership of land or cattle, but a special mode of ownership reserved for
@@ -464,64 +464,94 @@ therefore stripped of all identity and affect [@kellett_does_2003, 459-60].
 
 To be sure, the literature on the subject mentions that fusion between objects
 and affect can and does routinely take place in its perfectly commonplace, non-
-pathological, everyday form.[^ln5-hoard] In this regard, we can view the
-domestic space as an archival domain of sorts. The book shelf, the pantry, the
-wall, and the mantle: these are the locations where the family imposes private
-order, organizes its material life, and into which it secretes its memories,
+pathological form.[^ln5-hoard] In this regard, we can view the domestic space
+as an everyday archival domain. The book shelf, the pantry, the wall, and the
+mantle: these are the locations where the family imposes private order,
+organizes its material life, and into which it secretes its memories,
 preserving and curating artifacts from its own past. For the most part, these
 archives have remained obscured behind closed doors. Only recently have
 anthropologists and cultural historians have began to document and to "read"
 such spaces. For example, in a chapter on immigrant domestic interiors,
 Svetlana Boym writes about these typically Soviet curio cabinets, which present
 "once a fragmentary biography of the inhabitant and a display of collective
-memory" [@boym_future_2002, 334].  "If there had been such a thing as Soviet
+memory" [@boym_future_2002, 334]. "If there had been such a thing as Soviet
 cultural unconscious," she writes in *Common Spaces*, it would have been
-structured like a communal apartment" [@boym_common_1995, 1610].  Similarly, in
+structured like a communal apartment" [@boym_common_1995, 1610]. Similarly, in
 "Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
 of contemporary American domestic space, a team of anthropologists (and a
 photographer) document, describe, and interpret the "domestic material worlds"
 of 32 Los Angeles families. A 41 year old father has this to say about his
-family's refrigirator:
+family's refrigerator:
 
 > Here is our life on the refrigerator and all the collection of photos and
 > magnets. And you know what? we go up to these pictures and the time and sort
 > of remark about who people are wand where we were and what we were doing and
 > how old people were [@arnold_life_2012, 51].
 
+The authors conclude to write that families purposefully accumulate and arrange
+"assemblages of objects," which "preserve and legitimize personal histories"
+[@arnold_life_2012, 161]. Such objects can be called fetishes, in that their
+value to the individual cannot be reduced to the material properties of the
+valued object. But, they are not fetishes in the way Marx understands the
+fetishism of commodities, by which the "social character of men's labour" can
+be "stamped upon" the product of that labor [@marx_marx-engels_1978, 321]. Nor
+are they property in the Lockean sense, by the virtue of their being
+intertwined with the labor of the body [@locke_second_1980, 19]. The objects of
+affect fusion are endowed with emotional and intellectual rather than market
+significance. Therefore, collections of such objects are often said to be
+"priceless" to the individual and, possessing no use or exchange value,
+"worthless" to everyone else.
+
+Setting aside, for the time being, the implications of object-affect fusion on
+our understanding of private property, we are for now faced with a more narrow
+problem of curating, reading, understanding, and living in solipsistic
+archives. The OAF suggests a practice of literary analysis that differs
+markedly from the interpretation of public books: solipsistic criticism. In
+charting out that unfamiliar territory of the personal archive, I am confounded
+by known models of communication, advanced by thinkers like Ferdinand de
+Saussure, Roman Jacobson, and Claude Shannon, a model that assumes the
+existence of a "sender" and a "receiver," an "addressant" and an "addressee."
+The state of a media being implies a prodigious archive of private literature,
+where the traditional distinction between object and subject is collapsed.
+Private interpretation of private archives: I do not yet know what such an
+activity entails, but, given my own daily phenomenological account of reading
+and writing, I suspect that it a prevalent mode of communication and one that
+involves a hermeneutics that is not taught formally in schools and
+universities. Our time spent browsing the archive of another makes up for a
+small fraction of the time spent on inhabiting the archive of the self.
+
 [^ln5-hoard]: See for example @kellett_does_2003, 458: "Emotional attachment to
 objects are commonplace."
 
-"Assemblages of objects that families purposefully accumulate and arrange in
-them preserve and legitimize personal histories" [@arnold_life_2012, 161].
+### 5.3 Home Directory
 
-Back to Beckett.
+Bookshelves are the one thing that are notably missing from the visual
+ethnography of the middle-class Los Angeles home in the twenty-first century.
+There are plenty of shelves and storage bins. These shelves hold what the
+authors of the study describe as "mountains of posessions:" toys, trophies,
+board games, china sets, collectibles, and remanants of obsolete media. That is
+not to say that the books themselves are missing. It is just that they are
+mixed into the
 
-We are then faced here with a solipsistic literature and a literary analysis
-that differs markedly from the reading of public books: solipsistic criticism,
-a mode of engagement at once more common and less understood than the reading
-of others.  In charting out that unfamiliar territory of the personal archive,
-I am confounded by known models of communication, advanced by thinkers like
-Ferdinand de Saussure, Roman Jacobson, and Claude Shannon, a model that assumes
-the existence of a "sender" and a "receiver," an "addressant" and an
-"addressee." The state of a media being implies a prodigious archive of private
-literature, where the traditional distinction between object and subject is
-collapsed. Private interpretation of private archives: I do not yet know what
-such an activity entails, but, given my own daily phenomenological account of
-reading and writing, I suspect that it a prevalent mode of communication and
-one that involves a hermeneutics that is taught formally in schools and
-universities. Our time spent on interpreting a literature of another makes up
-for a small fraction of the time spent on understanding the literature of self.
+Type                    | Number of Visible Artifacts
+------------------------+-----------------------------
+Books & Magazines       | 438
+Music CDs               | 212
+Toys                    | 139
+DVDs & VHS Tapes        | 90
+Shoes (pairs)           | 39
 
-### 5.5 Home (A Case Study)
+Table: Average Counts Per Los Angeles Family
 
-Personal computer.
+The need for virtual ehtnography of media home.
+
+Clutter.
+
+Turn towards personal computing. Personal computer.
+
+### 5.4 Personal Computing
 
 What is the concept of self in Unix?
-
-
-Home, and home.
-
-Turn towards personal computing.
 
 Transparency. Window Systems Should Be Transparent by Rob Pike
 
