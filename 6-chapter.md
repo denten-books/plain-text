@@ -18,6 +18,7 @@ header-includes:
 
 ### 5.3 Freedom of Information
 
+CONTOROL SECURITY FREEDOM
 Freedom security consistency (Furby). Control. Freedom.
 
 "To a book collector, you see, the true freedom of all books is somewhere on his

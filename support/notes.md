@@ -88,6 +88,7 @@ Potential reviewers
     Adriaan van der Weel
     Schnapp
     Patrik Svensson
+    Andrew Piper
     Lisa Gitelman (Columbia Ph.D.)
     Matt Gold
     Ted Underwood
@@ -101,6 +102,7 @@ Potential reviewers
     Rita Raley
     Ben Peters
     [Caroline Bassett](http://www.sussex.ac.uk/profiles/24166)
+    Henry Petroski!
 
 Send Book To
 ===========================

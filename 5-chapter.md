@@ -469,7 +469,7 @@ as an everyday archival domain. The book shelf, the pantry, the wall, and the
 mantle: these are the locations where the family imposes private order,
 organizes its material life, and into which it secretes its memories,
 preserving and curating artifacts from its own past. For the most part, these
-archives have remained obscured behind closed doors. Only recently have
+archives have remained obscured behind closed doors.[^ln5-obscured] Only recently have
 anthropologists and cultural historians have began to document and to "read"
 such spaces. For example, in a chapter on immigrant domestic interiors,
 Svetlana Boym writes about these typically Soviet curio cabinets, which present
@@ -504,34 +504,39 @@ significance. Therefore, collections of such objects are often said to be
 
 Setting aside, for the time being, the implications of object-affect fusion on
 our understanding of private property, we are for now faced with a more narrow
-problem of curating, reading, understanding, and living in solipsistic
-archives. The OAF suggests a practice of literary analysis that differs
-markedly from the interpretation of public books: solipsistic criticism. In
-charting out that unfamiliar territory of the personal archive, I am confounded
-by known models of communication, advanced by thinkers like Ferdinand de
-Saussure, Roman Jacobson, and Claude Shannon, a model that assumes the
-existence of a "sender" and a "receiver," an "addressant" and an "addressee."
-The state of a media being implies a prodigious archive of private literature,
-where the traditional distinction between object and subject is collapsed.
-Private interpretation of private archives: I do not yet know what such an
-activity entails, but, given my own daily phenomenological account of reading
-and writing, I suspect that it a prevalent mode of communication and one that
-involves a hermeneutics that is not taught formally in schools and
-universities. Our time spent browsing the archive of another makes up for a
-small fraction of the time spent on inhabiting the archive of the self.
+problem of curating, reading, understanding, and living in personal archives.
+The OAF suggests a practice of literary analysis that differs markedly from the
+interpretation of public books: solipsistic criticism. In charting out that
+unfamiliar territory of the personal archive, I am confounded by known models
+of communication, advanced by thinkers like Ferdinand de Saussure, Roman
+Jacobson, and Claude Shannon, a model that assumes the existence of a "sender"
+and a "receiver," an "addressant" and an "addressee." The state of a media
+being implies a prodigious archive of private literature, where the traditional
+distinction between object and subject is collapsed. Private interpretation of
+private archives: I do not yet know what such an activity entails, but, given
+my own daily phenomenological account of reading and writing, I suspect that it
+a prevalent mode of communication and one that involves a hermeneutics that is
+not taught formally in schools and universities. Our time spent browsing the
+archive of another makes up for a small fraction of the time spent on
+inhabiting the archive of the self.
 
 [^ln5-hoard]: See for example @kellett_does_2003, 458: "Emotional attachment to
 objects are commonplace."
 
-### 5.3 Home Directory
+[^ln5-obscured]: "The systematic doumentation of all the assemblages of goods
+burdening ordinary lived-in homes has never been done in the U.S. or any other
+modern industrial society" [@arnold_life_2012, 23].
+
+### 5.3 Furnishings of the Mind
 
 Bookshelves are the one thing that are notably missing from the visual
 ethnography of the middle-class Los Angeles home in the twenty-first century.
-There are plenty of shelves and storage bins. These shelves hold what the
-authors of the study describe as "mountains of posessions:" toys, trophies,
-board games, china sets, collectibles, and remanants of obsolete media. That is
-not to say that the books themselves are missing. It is just that they are
-mixed into the
+That is not to say that there are no books. The shelves pictured hold what the
+authors of the study describe as "mountains of possessions": toys, trophies,
+board games, china sets, collectibles, and remnants of obsolete storage media.
+Textual material forms a large portion of that complicated domestic mosaic.
+The households surveyed in painstaking detail contain on average 438 visible
+print artifacts, as compared to 212 CDs and 90 DVDs [@arnold_life_2012, 31].
 
 Type                    | Number of Visible Artifacts
 ------------------------+-----------------------------
@@ -541,17 +546,89 @@ Toys                    | 139
 DVDs & VHS Tapes        | 90
 Shoes (pairs)           | 39
 
-Table: Average Counts Per Los Angeles Family
+Table: Average Counts Per Los Angeles Family. From @arnold_life_2012, 31. From
+@arnold_life_2012, 31.
 
-The need for virtual ehtnography of media home.
+These relatively recent (circa 2001-2005) field observations reveal what media
+theorists have postulated.
 
-Clutter.
+TRANSITION
 
-Turn towards personal computing. Personal computer.
+History of the bookshelf.
 
-### 5.4 Personal Computing
+Book shelf as a data structure. One of the first things to note is that a book
+shelf is more than a piece of furniture. Formally, it is a data structure. The
+National Institute of Standards defines a data structure simply as "an
+organization of information," usually with a view towards "algorithm efficiency"
+and "conceptual unity" [@black_data_2004]. Efficiency, in this case, is used to
+stand in for as set of structural affordances. In this way, a "dictionary" is a
+data structure that stores "keys" and "values," allowing for operation like
+"new," "insert," "find," and "delete" [@black_dictionary_2004]. A "stack" by
+contrast is defined as a "collection of items in which only the most recently
+added item may be removed" [@black_stack_2004]. Note that these affordances
+exit on the level of formal, rather than physical structure. In other words:
+one may arrange a collection of objects (think books, for example) in a stack
+on desk, for example. One may also arrange them on a desk vertically, as a
+series. In both cases, the underlying physical conditions (books and desks)
+remain the same. Yet the formal arrangement of object changes what one can do
+with the collection. For example, books arranged vertically facility easy
+random access to any individual volume. One may take a book out without
+disturbing the overall arrangement. Books stacked up vertically make it
+difficult to access books on the bottom of the pile. Any movement affects the
+whole stack, which is a property of this sort of a data structure.
 
-What is the concept of self in Unix?
+With this in mind, note that a bookshelf itself is both a physical object (made
+of metal or wood) and an formal *way* of arranging things. This, perhaps more
+than any other example, highlights the ontological nature of form as an
+ordering entity that lies somewhere between the physical and the mental realms.
+Like the document--object model, the bookshelf can be thought of as a structure
+both concrete and universal. Despite the apparent ubiquity and importance of
+such order-making structures (like data tables, bookshelves, or lists) there is
+remarkably little written about them. I can find no definitive histories of a
+bookshelf for example (outside of Henry Petroski's groundbreaking
+@petroski_book_1999, written from the perspective of industrial design), either
+as a piece of furniture or as an organizing principle.[^ln5-petroski]
+
+[^ln5-petroski]: Petroski writes: "While reading on my chair late one evening I
+perceived, for whatever reason, the bookshelf beneath a row of books in a new
+light. I saw it as a piece of infrastructure, taken for granted if not
+neglected" [@petroski_book_1999, 71].
+
+The arrangement of books on a bookshelf, or of documents in a filing cabinet,
+brings with it a set of physical affordances. We make take some of these for
+granted, but they are not obvious in the least. The book spine and the shelf
+work together to facilitate search, discovery, and organization. Turn the books
+with their spine towards the wall and the personal library looses much of its
+meaning. The bookshelf gives unity to the archive. It places objects "of a
+kind" next to each other, amenable to the same material interface.
+Incidentally, the book and the library themselves can be thought of as data
+structures of sorts. Beyond their physical properties, they are also a way of
+arranging things. The library contains bookshelves, bookshelves books, books
+pages, pages words, and so on. Each of these structures comes with its own set
+of material affordances and interfaces. The word, the page, the book, the
+shelf, and the library work together to facilitate a variety of specific
+reading-related activities, while excluding others. These structures develop
+concomitantly. The contemporary book anticipates both the shelf and the
+library, for example. Note how the book falls flat, unless it is unusually
+thick, when alone on the bookshelf. Even several books, when placed together,
+stand ill at ease when not wedged within the fullness of the
+collection.[^ln5-sumo]
+
+Together, these material affordances create the infrastructure of reading. 
+
+The file folder. Directory structure. Also a data structure.
+
+Properties of a file folder. Names and permissions.
+
+Files belong to users and groups. Personal vs. shared computing.
+
+What is the concept of a user in Unix? User is also a file.
+
+- User belongs to groups and owns files.
+- User structure is hierarchichal, depending on the three levels of acccess:
+read, write, and execute.
+- Unix has preference for plain text as an interface to the human.
+
 
 Transparency. Window Systems Should Be Transparent by Rob Pike
 
@@ -610,5 +687,13 @@ What is that shadowy scheme of the 'form' of an opera, play, or book, which
 remains in our mind and on which we pass judgment when the actual thing is
 done? [...] It is a feeling like any other, a feeling of what thoughts are next
 to arise, before they have arisen."
+
+[^ln5-sumo]: Petroski writes: "The bookcase without a full complement of
+books is like a daydreaming student's notebook, its lines half filled with
+substance and half with space. The half-filled bookshelf is also half empty, of
+course, with books leaning left and right to form M's, N's, V's and W's to fill
+the voids between clusters of vertical and not-so-vertical I's"
+[@petroski_book_1999, 295].
+
 
 ### Works Cited
