@@ -32,7 +32,7 @@ of the play reasonably spans at least forty years.
 For theater audiences in 1958 (the date of the play's first production) the
 reel-to-reel recorder was still somewhat of a novelty item, but already
 beginning to make its way into American and European living rooms. These
-devices were expensive, costing the equivalent of thousands of dollars (when
+devices were expensive, costing the equivalent of thousands of US dollars (when
 adjusted for inflation). The expense of the device contributes to the image of
 Krapp as a man of independent means, who has perhaps fallen on some hard times:
 he is wearing ill-fitting trousers, a black sleeveless coat, and a "surprising
@@ -44,24 +44,24 @@ late 1940s and were universally marketed as "recorders" and not merely
 for archival preservation, with slogans like: "Remember their laughter forever,
 record it on 'Magnetic Ribbon,'" (from a 1946 advertisement for Soundmirror
 recorder by Brush) and "Make your cherished moments will last the years" (from
-a 1959 Dupont advertisement for Mylar tape). Where the earlier materials
-targeted radio broadcasting and office use, by 1950s the settings depicted on
-personal tape recorder advertisements shift location to spaces in the domestic,
-familial, and private spheres. The tape recorder at the time was offered as a
-device to record childhood birthdays, graduations, holidays, and school
-performances. "Fun times last a lifetime," declares another advertisement from
-Dupont. "Record this Christmas forever!" and "When there's no second chance,
-record with Acetate base tape!" The composite photographs in these
-advertisements often showed a device in use with a fairly large microphone,
-which upstages the recorder as the locus of family attention. Finally, the
-adverts suggest not just a means of preservation, but a mode of personal
-archiving practice. An advertisement for Apex circa 1963 shows a row of neatly
-arranged and labelled reels on a shelf, bragging "Who came up with the best way
-to label your tapes?" Another ad for Bell's Tape Transporter, circa 1959,
-depicts a couple in their living room, relaxing around a tape recorder and near
-a shelf-like piece of furniture holding reels and equipment in neat wooden
-compartments. "Build your own library of stereo tapes," reads the
-slogan.[^ln4-dupont]
+a 1959 Dupont advertisement for Mylar tape). Where the earlier advertising
+materials targeted radio broadcasting and office use, by 1950s the settings
+depicted on personal tape recorder advertisements shift location to spaces in
+the domestic, familial, and private spheres. The tape recorder at the time was
+offered as a device to record childhood birthdays, graduations, holidays, and
+school performances. "Fun times last a lifetime," declares another
+advertisement from Dupont. "Record this Christmas forever!" and "When there's
+no second chance, record with Acetate base tape!" The composite photographs in
+these advertisements often showed a device in use with a fairly large
+microphone, which upstages the recorder as the locus of family attention.
+Finally, the adverts suggest not just a means of preservation, but a mode of
+personal archiving practice. An advertisement for Apex circa 1963 shows a row
+of neatly arranged and labelled reels on a shelf, bragging "Who came up with
+the best way to label your tapes?" Another ad for Bell's Tape Transporter,
+circa 1959, depicts a couple in their living room, relaxing around a tape
+recorder and near a shelf-like piece of furniture holding reels and equipment
+in neat wooden compartments. "Build your own library of stereo tapes," reads
+the slogan.[^ln4-dupont]
 
 Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer feels fully congruent with his former self, "that
@@ -140,7 +140,8 @@ image of ourselves (n-1).[^ln5-james-recur]  But where does such modeling and
 externalizing take place? Beckett's play unfolds by the logic of media being.
 Krapp's library constitutes a literature and an archive of sorts, but unlike
 other literary structures, his documents imply the self as both subject and
-audience of communication. To put it plainly: Krapp is talking to himself.
+audience of communication. To put it plainly: Krapp is talking to himself, in
+the archive.
 
 [^ln5-james-recur]: See for example @james_principles_1890, 234: "Every
 brain-state is partly determined by the nature of its entire past succession.
@@ -148,8 +149,8 @@ Alter the latter in any part, and the brain-state must be somewhat different.
 Each present brain-state is a record in which the eye of Omniscience might
 read all the forgone history of its owner."
 
-Edmund Husserl called this mode of communication "subjective expression"
-[@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
+Edmund Husserl called such self-directed mode of communication "subjective
+expression" [@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
 @platt_reflexivity_1989]. Bertrand Russel called it similarly "egocentric
 particulars": words like "this" and "here" that depend on the time and location
 of the person doing the talking. Russel writes that "'this' depends upon the
@@ -238,13 +239,13 @@ years ago). *Krapp's Last Tape*, as it is conventionally interpreted, is a
 cautionary tale about "the last"---time, memory, desire, and nostalgia
 [@doherty_krapps_1982, 191-204]. But we forget that it is also a commentary
 about the "tape." Reel-to-reel recorders too will need further and
-progressively more expansive annotation as the technology fades from collective
+progressively more expansive annotation as the device fades from collective
 memory. Thus, with the curtain drawn, we the audience, readers, and custodians
 of the play are implicated in the process of Krapp's narcissistic archive
 making. We reach for the volume, read, reread, annotate, and reshelve. As a
 textual artifact, *Krapp's Last Tape* is also a spool in our own collection. To
 read it again is to encounter a memory of one's own past reading: now a part of
-who I am, yet already not the text itself and not the same me.
+who I am, yet already not the same text and not the same me.
 
 Staged at the dawn of personal audio recording, Beckett's play shifts the focus
 of the conversation about archives from the public to the private sphere.
@@ -264,39 +265,41 @@ commanded" [@derrida_archive_1995, 9]. In Derrida's understanding, the archive
 is thus both a location and a power structure. And ultimately, it is an
 institution, like the Freud Museum, where *Archive Fever" was first presented.
 
-Consider by contrast Krapp's dingy collection. It is hardly an institution---it
-receives neither grants nor visitors, and Krapp himself is hardly a proper
-*archon*: he throws the tapes down in anger, and unlike Freud, he leaves no
-heirs to continue his lineage. In contrast to the Freud Museum, his collection
-mostly consists of documents that have only a deeply personal significance. His
-archive has less to do with social power structures and more with the
-mechanisms of private identity formation, remembrance, and nostalgia. Krapp
-lives in and through his archive. To mimic Derrida here, we could say that his
-collection is a recollection. It is a yearning for a house: "nostalgia," from
-the Greek *nostos*, a homecoming [@_nostalgia_2015]. This chapter will be about
-one such domicile, where the librarians of the self commonly make a home.
+Consider by contrast Krapp's dingy collection. It is a house, but hardly an
+institution. It receives neither grants nor visitors, and Krapp himself is
+hardly a proper *archon*: he throws the tapes down in anger, and unlike Freud,
+he leaves no heirs to continue his lineage. By contrast to the Freud Museum,
+his collection consists mostly of documents that have only a personal
+significance. His archive has less to do with social power structures and more
+with the mechanisms of private identity formation, remembrance, and nostalgia.
+Krapp lives in and through his archive. To mimic Derrida here, we could say
+that his collection is a recollection. It is a yearning for a house:
+"nostalgia," from the Greek *nostos*, a homecoming [@_nostalgia_2015]. This
+chapter tells a story about one such domicile, where the contemporary
+librarians of the self commonly make a home.
 
 ### 5.2 Media Being
 
 Reading the play through the lens of media production gives us more than just
-notes on stage design. *Krapp's Last Tape* captures the mid-century movement
-between institutional and personal archiving practices. It reveals the play as
-a commentary on a particular mode of being and a sense of self that spans
+notes on stage design. *Krapp's Last Tape* captures the mid-century rise in
+commonplace personal archiving practices, which were too cumbersome and too
+costly to sustain only a few decades prior. The media lens reveals the play as
+a commentary on a particular mode of being, through a sense of self that spans
 externalized representations of archived consciousness: ledgers, spools, and
 filing cabinets. Where the institution harbors artifacts of collective memory,
 the private archive harbors personal artifacts, which make sense only
 indexically, in relationship to lived experience. It is perhaps for this reason
 that other people's diaries, family photo albums, and curio cabinets can be so
-painfully tedious to encounter. They are strictly meaningless to others. We can
-only relate to the pathos of curating such a collection. As librarians of self
-we take notes, keep journals, write to-do lists, and take self portraits to
-remember the way we were and to provide a sense of continuity with the way we
-are now. The collection sends a message to the future: remember this, this is
-who you are. It is here, in the personal archive, one encounters the fragility
-of mind's recall. Sounds, images, smells, and memories fade where the artifact
-endures. The personal archive can thus be seen as an attempt to shore up the
-natural human defences against the forces of amnesia, time, decay, and
-oblivion.
+obtusely tedious to encounter. They are strictly meaningless to others. We can
+only relate to the pathos of curating such a collection, not its meaning. As
+librarians of self we take our own notes, keep journals, write to-do lists, and
+take self portraits to remember the way we were and to provide a sense of
+continuity with the way we are now. The collection sends a message to the
+future: remember this, this is who you are. It is here, in the personal
+archive, one encounters the fragility of mind's recall. Sounds, images, smells,
+and memories fade where the artifact endures. The personal archive can thus be
+seen as an attempt to shore up the natural human defences against the forces of
+time, decay, amnesia, and oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
 impermanence.[^ln5-james] We are simply not that good at remembering things,
@@ -335,8 +338,8 @@ commitments, but also openly manufactured and monetized by media makers.
 "Remember forever," also contains a threat, "lest you forget." The content of
 the messages in the reflection is not really about "their laughter" at all.
 The advertisements for personal storage media encourage their users to cherish
-their own memories, not their loved ones. Strictly speaking, the loop between a
-listener and a recorder transmits only the image of self reflection.
+their own memories, not their loved ones. Strictly speaking, the personal
+recorder is a device for transmitting memories (and not events) across time.
 
 "It is that the word or sign man uses is the man himself," Charles Sanders
 Peirce wrote for the *Journal of Speculative Philosophy* in 1868
@@ -365,13 +368,13 @@ The "future thought of the community" suggests a model of knowledge formation
 that cannot be reduced to private mental life: social epistemology. Yet another
 idea implicit in these lines, takes the consistency of mental life to happen
 through externalized, although still somewhat private (individual), forms of
-mental persistence. This chapter can be taken as an extended footnote on James
-and Peirce, particularly on the passages that intersect with Beckett's radio
-drama. All three of these writers articulate a philosophy of media being, which
-although not formalized, contains, in my attempt to consolidate it, a set of
-related propositions that, in complement to mechanisms of collective memory
-formation, identify pervasive but still not well-studied practices of personal
-self-persistence through storage media.
+mental persistence. The concept of media being builds on the idea of
+self-consistency in James, Pierce, and Beckett. All three of these writers
+articulate a philosophy of media being, which although not formalized,
+contains, in my attempt to consolidate it, a set of related propositions that,
+in complement to mechanisms of collective memory formation, identify pervasive
+but still not well-studied practices of personal self-persistence through
+storage media.
 
 The first of these propositions distinguishes a range of media structures that
 serve to externalize and to preserve private mental states. The second sees
@@ -387,18 +390,18 @@ stance towards cognitive extensions, treating them with the same care and
 concern we display towards conventional (mind and brain) cognition proper. That
 is to say that if we accept the premises of extended cognition broadly, we must
 afford the platforms of media being the same care we reserve for conventional
-cognitive structures, be it in the analogy to critical thinking or
-contemplative introspection. At the very least, if James is right about the
-psychological importance of the material self, then seemingly mundane tasks
-like organizing one's bookshelves or backing up one's documents, take on an
-urgent intellectual importance. More than that, I am compelled to view the
-material contexts of media being beyond the discussion about preservation.
-Fundamentally, the various cognitive artifacts of a material self must
-constitute a protected class of objects, which, unlike most other dead things,
-participate in the realm of ethics and aesthetics. If these structures
-constitute an integral part of the mind, as James and others suggest, they must
-also properly participate in intellectual ideals like "clarity of thought,"
-"free thought," or "critical thinking."
+cognitive structures, be it in the analogy to critical thinking or to
+contemplative introspection. At the very least, if James, Pierce, and Beckett
+are right about the psychological importance of the material self, then
+seemingly mundane tasks like organizing one's bookshelves or backing up one's
+documents, should take on an urgent intellectual importance. More than that, I
+am compelled to view the material contexts of media being beyond the discussion
+about preservation. Fundamentally, the various cognitive artifacts of a
+material self must constitute a protected class of objects, which, unlike most
+other dead things, participate in the realm of ethics and aesthetics. If these
+structures embody an integral part of the mind, as James and others
+suggest, they must also properly participate in intellectual ideals like
+"clarity of thought," "free thought," or "critical thinking."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -409,22 +412,22 @@ the cognitive purview, has tremendous implications for the study of knowledge,
 texts, and literature. Under the hypothesis of extended cognition, thinking
 happens not in the brain alone, but at the interface between mental, social,
 and technological structures. And if we concede that cognition has an
-externalized, material form, we must accept it (at least in that extended
-portion) as a culturally- and historically- contingent artifact and one that
-further occupies a privileged position among otherwise inorganic and dead
-furnishings that support human activity. That is to say that some **things**
-become a cherished part of my mental world. I am more attached to those things,
-than to others. I rely on them to store parts of myself. They supply the
-furnishings of my inner life.
+externalized, material form (like bookshelves and tape recorders), we must
+accept it (at least in that extended portion) as a culturally- and
+historically- contingent artifact---one that further occupies a privileged
+position among otherwise inorganic and dead furnishings that support human
+activity. That is to say that some **things** can become a cherished part of my
+mental world. I am more attached to those things than to others. I rely on them
+to store parts of myself. They supply the outward furnishings of my inner life.
 
 These furnishing "come alive" only in the presence of the person who gives them
 meaning. The dynamic unfolds in quite distinct ways from other forms of social
 fetishism or totem-making, as described by Marx or Claude Lévi-Strauss for
-example, by which objects are endowed with a communal meaning. "The phenomenon
-of collecting [books] loses its meaning as it loses its personal owner," Walter
-Benjamin wrote in his famous essay on book collecting
-[@benjamin_unpacking_1968, 67]. In reflecting on what he calls the "mental
-climate" of book collecting, he writes:
+example, by which objects are endowed with a communal meaning through gift or
+market exchange. "The phenomenon of collecting [books] loses its meaning as it
+loses its personal owner," Walter Benjamin wrote in his famous essay on book
+collecting [@benjamin_unpacking_1968, 67]. In reflecting on what he calls the
+"mental climate" of book collecting, he writes:
 
 >Ownership is the most intimate relationship that one can have to objects. Not
 >that they come alive in him; it is he who lives with them. So I have erected
@@ -434,12 +437,13 @@ climate" of book collecting, he writes:
 
 As ever, Benjamin interests lie in the aura that attaches itself to inanimate
 objects. But in scanning these lines, the reader cannot help but suspect that
-by "ownership," Benjamin means some process outside of economic exchange: not
-the ownership of land or cattle, but a special mode of ownership reserved for
-cognitive artifacts. The "mysterious relationship to ownership" for Benjamin,
-goes beyond utilitarian use value. It is a relationship that "studies and
-loves" objects "as the scene, the stage, of fate" [@benjamin_unpacking_1968,
-60].
+by "ownership," Benjamin means some process outside of economic or even
+symbolic mechanisms of market exchange: not the ownership of land or cattle,
+but a special mode of ownership reserved for private cognitive artifacts. The
+"mysterious relationship to ownership" for Benjamin, goes beyond utilitarian
+use value. It is a relationship that "studies and loves" objects "as the scene,
+the stage, of fate" [@benjamin_unpacking_1968, 60]. A read book can be said to
+become property by the affective and intellectual fusion with the reader.
 
 In the language of contemporary psychology, the collecting of books, to take an
 obvious example, blends "instrumental" and "sentimental saving." It may be
@@ -456,32 +460,35 @@ compulsive hoarders, "possessions therefore falsely become symbolic tabernacles
 of affective information inevitably creating difficulties at the point of
 discard" [@kellett_does_2003, 458]. Kellett and Knight report a case study of a
 woman unable to discard rubbish in the usual way, for whom, due to excessive
-object-affect fusion the concept of recycling was "morally abhorrent." The only
-way she could get rid of anything, including rubbish, was to burn it the
+object-affect fusion, the concept of recycling was "morally abhorrent." The
+only way she could get rid of anything, including rubbish, was to burn it the
 fireplace, which was continually lit for that purpose, and then to deform the
 partially melted objects with a mallet, battered beyond recognition and
 therefore stripped of all identity and affect [@kellett_does_2003, 459-60].
 
-To be sure, the literature on the subject mentions that fusion between objects
-and affect can and does routinely take place in its perfectly commonplace, non-
-pathological form.[^ln5-hoard] In this regard, we can view the domestic space
-as an everyday archival domain. The book shelf, the pantry, the wall, and the
-mantle: these are the locations where the family imposes private order,
-organizes its material life, and into which it secretes its memories,
-preserving and curating artifacts from its own past. For the most part, these
-archives have remained obscured behind closed doors.[^ln5-obscured] Only recently have
-anthropologists and cultural historians have began to document and to "read"
-such spaces. For example, in a chapter on immigrant domestic interiors,
-Svetlana Boym writes about these typically Soviet curio cabinets, which present
-"once a fragmentary biography of the inhabitant and a display of collective
-memory" [@boym_future_2002, 334]. "If there had been such a thing as Soviet
-cultural unconscious," she writes in *Common Spaces*, it would have been
-structured like a communal apartment" [@boym_common_1995, 1610]. Similarly, in
-"Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
-of contemporary American domestic space, a team of anthropologists (and a
-photographer) document, describe, and interpret the "domestic material worlds"
-of 32 Los Angeles families. A 41 year old father has this to say about his
-family's refrigerator:
+To be sure, the literature on hoarding mentions that fusion between objects and
+affect can and does routinely take place in its perfectly commonplace, non-
+pathological forms.[^ln5-hoard] In this regard, we can view the domestic space
+as an everyday archival domain, imbued with emotional significance. Quote
+Bachelard here.
+
+The book
+shelf, the pantry, the wall, and the mantle: these are the locations where the
+family imposes private order, organizes its material life, and into which it
+secretes its memories, preserving and curating artifacts from its own past. For
+the most part, these archives have remained obscured behind closed
+doors.[^ln5-obscured] Only recently have anthropologists and cultural
+historians have began to document and to "read" such spaces. For example, in a
+chapter on immigrant domestic interiors, Svetlana Boym writes about these
+typically Soviet curio cabinets, which present "once a fragmentary biography of
+the inhabitant and a display of collective memory" [@boym_future_2002, 334].
+"If there had been such a thing as Soviet cultural unconscious," she writes in
+*Common Spaces*, it would have been structured like a communal apartment"
+[@boym_common_1995, 1610]. Similarly, in "Life at Home in the Twenty-First
+Century," a ground-breaking "ethnoarcheology" of contemporary American domestic
+space, a team of anthropologists (and a photographer) document, describe, and
+interpret the "domestic material worlds" of 32 Los Angeles families. A 41 year
+old father has this to say about his family's refrigerator:
 
 > Here is our life on the refrigerator and all the collection of photos and
 > magnets. And you know what? we go up to these pictures and the time and sort
@@ -490,23 +497,35 @@ family's refrigerator:
 
 The authors conclude to write that families purposefully accumulate and arrange
 "assemblages of objects," which "preserve and legitimize personal histories"
-[@arnold_life_2012, 161]. Such objects can be called fetishes, in that their
-value to the individual cannot be reduced to the material properties of the
-valued object. But, they are not fetishes in the way Marx understands the
-fetishism of commodities, by which the "social character of men's labour" can
-be "stamped upon" the product of that labor [@marx_marx-engels_1978, 321]. Nor
-are they property in the Lockean sense, by the virtue of their being
+[@arnold_life_2012, 161].[^ln5-arnold] Such objects can be called fetishes, in
+that their value to the individual cannot be reduced to the material properties
+of the valued object. But, they are not fetishes in the way Marx understands
+the fetishism of commodities, by which the "social character of men's labour"
+can be "stamped upon" the product of that labor [@marx_marx-engels_1978, 321].
+Nor are they property in the Lockean sense, by the virtue of their being
 intertwined with the labor of the body [@locke_second_1980, 19]. The objects of
 affect fusion are endowed with emotional and intellectual rather than market
 significance. Therefore, collections of such objects are often said to be
 "priceless" to the individual and, possessing no use or exchange value,
 "worthless" to everyone else.
 
+[^ln5-arnold]: Bookshelves are the one thing that are notably missing from the
+visual ethnography of the middle-class Los Angeles home in the twenty-first
+century.  That is not to say that there are no books. The shelves pictured hold
+what the authors of the study describe as "mountains of possessions": toys,
+trophies, board games, china sets, collectibles, and remnants of obsolete
+storage media.  Textual material forms a large portion of that complicated
+domestic mosaic.  The households surveyed in painstaking detail contain on
+average 438 visible print artifacts, as compared to 212 CDs and 90 DVDs
+[@arnold_life_2012, 31].
+
 Setting aside, for the time being, the implications of object-affect fusion on
 our understanding of private property, we are for now faced with a more narrow
 problem of curating, reading, understanding, and living in personal archives.
 The OAF suggests a practice of literary analysis that differs markedly from the
-interpretation of public books: solipsistic criticism. In charting out that
+interpretation of public books: solipsistic criticism. It is a practice already
+suggested in Michel Foucault's study of hupomnemata in Greco-Roman culture, now
+extended into the contemporary and the everyday. In charting out that
 unfamiliar territory of the personal archive, I am confounded by known models
 of communication, advanced by thinkers like Ferdinand de Saussure, Roman
 Jacobson, and Claude Shannon, a model that assumes the existence of a "sender"
@@ -529,65 +548,265 @@ modern industrial society" [@arnold_life_2012, 23].
 
 ### 5.3 Furnishings of the Mind
 
-Bookshelves are the one thing that are notably missing from the visual
-ethnography of the middle-class Los Angeles home in the twenty-first century.
-That is not to say that there are no books. The shelves pictured hold what the
-authors of the study describe as "mountains of possessions": toys, trophies,
-board games, china sets, collectibles, and remnants of obsolete storage media.
-Textual material forms a large portion of that complicated domestic mosaic.
-The households surveyed in painstaking detail contain on average 438 visible
-print artifacts, as compared to 212 CDs and 90 DVDs [@arnold_life_2012, 31].
+What does it mean to "have read" a book in this light? Surely, when someone
+says "I too have read this book" they mean something more than the mechanical
+action of turning pages and moving one's eyes from left to right in a
+sequential manner. The blunt act of purchasing the book is also somewhat
+besides the point. Benjamin implies a deeper connection. To have read is to
+internalize, to understand, and to form a mental image or opinion. But what
+exactly is internalized? It cannot be the whole text, verbatim. By reading we
+mean something other than rote memorization. In his *Blue and Brown Books*,
+written somewhere between the *Tractatus* and *Philosophical Investigations*,
+Ludwig Wittgenstein gives the example of a child who is asked to read, but who
+instead regurgitates the text from memory. Wittgenstein further asks his
+readers to imagine an experimental "human reading machine," which like the
+child "reads" by making sounds which sometimes do and sometimes do not
+correspond with the printed word. An observer not familiar with the mechanism
+of this experimental "reader," could be fooled into thinking the machine is
+reading. The coincidence between sound and word remains accidental, however. We
+would remain skeptical of this activity as reading even if our machine were to
+begin to correlate letters to appropriate sounds consistently
+[@wittgenstein_blue_1965, 120-1].
 
-Type                    | Number of Visible Artifacts
-------------------------+-----------------------------
-Books & Magazines       | 438
-Music CDs               | 212
-Toys                    | 139
-DVDs & VHS Tapes        | 90
-Shoes (pairs)           | 39
+In his characteristically cryptic manner, Wittgenstein explains his thought
+experiment by making yet another analogy:
 
-Table: Average Counts Per Los Angeles Family. From @arnold_life_2012, 31. From
-@arnold_life_2012, 31.
+> If A tries to make B believe that he is able to read Cyrillic script,
+> cheating him by learning a Russian sentence by heart and then saying it while
+> looking at the printed sentence, we may certainly say that A knows he is
+> pretending, and that his not reading is characterized by a particular
+> personal experience [@wittgenstein_blue_1965, 120-1].
 
-These relatively recent (circa 2001-2005) field observations reveal what media
-theorists have postulated.
+But suppose the man really does know how to read Russian, although when he
+reads he has a peculiar feeling of knowing the words by heart. Should we regard
+his personal experience as the criterion distinguishing between reading and not
+reading in that case? And again, Wittgenstein expects us to answer in the
+negative. It seems then, that the functional performance of reading cannot
+determine the behavior alone. In each case, we had to check for the appropriate
+internalized mental state. Wittgenstein writes, "We here envision two
+mechanisms, the internal workings of which we can see, and this internal
+working is the real criterion for a person's reading or not reading. But in
+fact no such mechanisms are known to us in these cases"
+[@wittgenstein_blue_1965, 120].
 
-TRANSITION
+As it turns out, the mental state alone is also insufficient to describe
+reading definitively. Here, Wittgenstein asks us to imagine a person under the
+influence of drugs who is shown a set of discrete strings composed of
+nonsensical characters. When shown some random string of nonsensical characters
+like `$%^&*`, for example, the drugged patient imagines he is reading some
+English word, like "above" or "stair," as if the typographical characters were
+meaningful. As far as the patient is concerned, he is reading. All the
+structural attributes of the action are there---the proper region of his brain
+is receiving stimulation; he follows the text with his eyes from left to right;
+and silently mouths the words. But this too is unacceptable: the patient merely
+imagines that he is reading [@wittgenstein_blue_1965, 122].
 
-History of the bookshelf.
+In this way, neither the internal nor the external descriptions of the action
+seem adequate to encompass everything we mean by reading. And yet we do have a
+relatively clear picture of what reading properly entails, what it looks like,
+what it sounds like, how to do it, and how to teach others to do it. In
+building this chain of deferring analogies (from the reading child to the drug
+induced reading hallucination) we are acting as though "we had tried to find
+the real artichoke by stripping it of its leaves," writes Wittgenstein
+[@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
+together, *are* the artichoke. At which point of peeling the artichoke does the
+artichoke disappear into leafy particulates? It is a patently misguided
+question. The question of cognition, for Wittgenstein, fails in a similar way.
+Our mistake lies in attempting to reduce cognitive activity like "reading" to a
+set of either external (functional) attributes or internal (formal) mental
+structures. Yet neither of these are sufficient. Reading happens in the head
+and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
 
-Book shelf as a data structure. One of the first things to note is that a book
-shelf is more than a piece of furniture. Formally, it is a data structure. The
-National Institute of Standards defines a data structure simply as "an
-organization of information," usually with a view towards "algorithm efficiency"
-and "conceptual unity" [@black_data_2004]. Efficiency, in this case, is used to
+> In the consideration of our problems one of the most dangerous ideas is the
+> idea that we think with, or in, our heads [...] 'Thinking takes place in the
+> head" really means only 'the head is connected with thinking."---Of course
+> one says also 'I think with my pen' and this localization is at least as good
+> [@wittgenstein_blue_1965, 116].
+
+In refusing to resolve the tension between functional (or behaviorist) and
+formal (or structuralist) accounts of cognition, Wittgenstein's thought
+experiments suggest a model of textual activity that sees reading and writing
+as a movement between innate mental structures their external, media-bound
+representations. Although Wittgenstein does not explain it in these terms,
+reading and writing for him happens at the interface of mental and physical
+boundaries. In other words, reading and writing proper involve a measure of
+"correct" correlation between internal mind states and external paper-and-ink
+states. This correlation I take to resemble Benjamin's "staging of fate." The
+moment of interface, on the stage of a bookshelf, is what unites the history of
+the book with the history of one's conciousness. It is exactly the encounter
+between the collective and the private. What "I know" and "we know" meets and
+intertwines on the page.
+
+To have read a book in this way involves a certain physical facility with the
+text: in the way its structure can, with much practice and repetition, become
+readily available to the "mind's eye." I "see" a particular thought or image in
+relationship to the rest of the structure. What was then a series of unrelated
+vignettes, my mind stitches into some coherent whole. That structure is not in
+the mind alone: I have a "feeling" about the location of that thought on paper.
+The cognitive facility with the work as a mental construct accompanies a
+applied manipulation of the text as a physical artifact. I will "leaf through"
+a familiar book. I may not yet know what I am looking for, but I remember where
+the "sign posts" are. The mental facility of "having read something" is however
+curtailed by the limits of human memory. Even after teaching the same text for
+several years in a row, I have to "refresh" my knowledge of its contents. This
+sort of knowledge becomes easier with repetition, but I am also painfully aware
+of its impermanence.
+
+Abandoning a text for several decades means to lose some facility in navigating
+it mentally and physically. I still "have read it," but with time "having read"
+begins to mean less than before. That structures of "having internalized"
+become a memory of past internalized structures.[^ln5-james-memory] And that is
+a difficult thing to admit to oneself. We expect or at least talk as if
+knowledge has a semi-permanent cognitive purchase within the individual. But,
+fundamentally, I also must accept that knowledge available to my "mind's eye"
+constitutes only a small fraction of the things I can know "ready at hand."
+Most of the things I know and have read are available to me on my book shelves,
+in my notebooks, online, and on my hard drives. I do not know them in a sense
+of remembering them---I know them in the sense of being able to find the
+information if needed, to evaluate sources, and to recall a cascade of related
+past (formed) mental reactions. I suspect that most things I know and have read
+come to me in that condensed, externalized form. The amount of ideas accessible
+to me "at hand" must vastly outnumber the ideas in the "mind's eye." The hand
+and the inner eye work together to enter into what Barbara Herrnstein Smith
+calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
+in this case, both the speaker and the listener, reader and writer, are found
+in one of the same person.
+
+I pull on these variegated strains of related thought to assemble a bricolage
+of ideas that gives rise to media being---an artificial creature born out of
+the dialectical tension between mind and body, internal and external, immanence
+and transcendence, matter and spirit. However arbitrary the boundaries of
+Cartesian dualism may be, they lie at the fault lines between something vital
+and something human on the one side and something dead and matter-bound on the
+other. One does not have to make these boundaries essential or deterministic to
+perceive their perpetual importance in the conversation about knowledge and
+technology. In this way, Friedrich Nietzsche spoke of the modern man who "drags
+around with him a huge quantity of indigestible stones of knowledge." For
+Nietzsche the modern condition was defined by a profound incongruence between
+"interior" and "exterior" [@nietzsche_untimely_1997, 78].  He writes, "We
+moderns, have nothing whatever of our own; only by replenishing and cramming
+ourselves with the ages, customs, arts, philosophies, religions, discoveries of
+others do we become anything worthy of notice, that is to say walking
+encyclopedias." These encyclopedias he calls "handbook[s] of inward culture for
+outward barbarians" [@nietzsche_untimely_1997, 79]. Nietzsche's metaphor is one
+of cultural "indigestion." The rocks that rattle within represent the detritus
+of knowledge that is not somehow fully assimilated into the individual psyche.
+
+We return then to the matter of congruence between deep and shallow structures
+discussed in the earlier chapters. The full bookshelves of a person who does
+not read, of the kind offered as a service by interior designers, are suspect
+in that they resemble Nietzsche's undigested rocks. They are mere outward
+pretense to internal structure. In this way the personal archive is governed by
+the appropriate interface between the inside and the outside. It depends on the
+reader-librarian's ability to effectively externalize and internalize mental
+constructs. The concept of the interface is instrumental to this activity. I
+take interface, in this case to mean something quite the opposite to Alexander
+Galloway's understanding of the same. In "The Interface Effect," an important
+and influential monograph in new media studies, Galloway defines interfaces as
+a process of fundamental "incompatibility" on the "mediating threshold between
+self and the world" [@galloway, viii]. As the title suggests, the interface,
+for Galloway is always an effect, rather than a thing. "The interface is a kind
+of a semiotic short circuit," Galloway writes [@galloway 38]. And, somewhat
+more tautologically, he at times defines it as "an interface between the edge
+and the center" [@galloway 40]. Pushing off of these definitions, I suggest
+instead the idea of brief commensurability.
+
+In its simplest and literal terms, an interface is a point of shared contact
+between two otherwise incommensurable systems. An elevator button, for example,
+is a quintessential interface between a human operator and the mechanism of the
+lift. For the duration of contact, a button allows the will of the operator to
+become one with the action of the machine. It is an interface designed to
+accept human input. But, from the elevator's designers point of view, a finger
+serves as an interface "into" the human. Designer thing quite a bit about
+buttons that fit the shape of the finger, along with the complex acculturation
+mechanisms that come with a history of humans pushing buttons in diverging
+contexts. In the combined operation of human and elevator it is, for a moment,
+difficult to pinpoint the exact physical boundaries of the contact. The
+interface is paper-thin, we may say. It happens when a thing slides into the
+other, and for a moment both become one: a shared physiology and a shared
+intentional apparatus. The archive, in that sense, is an point of contact
+between books and reader-librarians. The book too is a kind of interface
+between words and their interpreters. And words are a sort of a mechanism for
+commensurability between humans that diverge widely across time and space.
+
+The point of contact between humans and their archives
+
+my mind, a text, like the to-do list for example, is always a privileged
+symbolic representation. I say this because I think it, and because what I
+write can be said to represent the state of my mind. Or at least I want it to
+represent accurately the state of my mind. Even if I wanted to deceive you as
+to the state of my mind, the deception would at least represent my desire to
+deceive (we will deal with truly un-intentional texts also in the scope of the
+dissertation). A text is a snapshot of sorts, which captures a fleeting moment
+from the stream of private, internal, and generally invisible mental events in
+the shape of a symbolic (representational), but nevertheless tangible,
+material, externalized and therefore visible artifacts. By contrast, spoken
+language is never fully externalized. At the exact moment of utterance my
+speech is still a part of my body. It is inside of me literally: on its way
+out, but still inside, near the tongue and the palate, still contained within
+my larynx. But in typing these words (rather than merely speaking them) I
+intend to spend much effort to enforce the congruity between what I think and
+what you read, asynchronously, through the intermediacy of language, text, and
+word-processing software (in my case). That intermediacy between the mental and
+the written is a part of the interface, in a way that the "interface between
+science and the humanities" may signify a common boundary between two distinct
+disciplines. The literary interface is privileged not just because it encodes
+an aspect of one's mental world, but because in the moment of contact, it is an
+aspect of that mental world. And for that moment, it is as dear to me as a toe
+or a finger, or perhaps as a dream or a recollection.
+
+And finally, a literary interface is a material artifact. By this I mean that
+something like a pen, paper, a computer screen, or a keyboard is involved in
+the practice of using literary interfaces. Just like an elevator button,
+literary interfaces are physical objects. They come into being through usage,
+and make no sense as discrete objects, as in the case of the elevator control
+panel removed from the passenger and the mechanism of the elevator. Or rather,
+I should say that elevator buttons make no sense removed from the action of
+pressing buttons and transporting things and people between floors. An
+interface is a kind of a verbalized noun—its understanding must come not just
+in the examining the artifact, but in examining the artifact in action. Only in
+action can we observe the momentary unity between the literary, the cognitive,
+and the artifactual.
+
+One of the first things to note is that a book shelf is more than a piece of
+furniture. Formally, one can think of it also as a data structure. The National
+Institute of Standards defines a data structure simply as "an organization of
+information," usually with a view towards "algorithm efficiency" and
+"conceptual unity" [@black_data_2004]. Efficiency, in this case, is used to
 stand in for as set of structural affordances. In this way, a "dictionary" is a
 data structure that stores "keys" and "values," allowing for operation like
 "new," "insert," "find," and "delete" [@black_dictionary_2004]. A "stack" by
 contrast is defined as a "collection of items in which only the most recently
 added item may be removed" [@black_stack_2004]. Note that these affordances
 exit on the level of formal, rather than physical structure. In other words:
-one may arrange a collection of objects (think books, for example) in a stack
-on desk, for example. One may also arrange them on a desk vertically, as a
-series. In both cases, the underlying physical conditions (books and desks)
-remain the same. Yet the formal arrangement of object changes what one can do
-with the collection. For example, books arranged vertically facility easy
-random access to any individual volume. One may take a book out without
-disturbing the overall arrangement. Books stacked up vertically make it
-difficult to access books on the bottom of the pile. Any movement affects the
-whole stack, which is a property of this sort of a data structure.
+one may arrange a collection of objects (like books) in a stack on desk, for
+example. One may also arrange them on a desk vertically, as a series. In both
+cases, the underlying physical conditions (books and desks) remain the same.
+Yet the formal arrangement of object changes what one can do with the
+collection. For example, books arranged vertically facilitate easy random
+access to any individual volume. One may take a book out without disturbing the
+overall arrangement. Vertical stacks make it difficult to access books on the
+bottom of the pile. Any movement affects the whole stack, which could be an
+intentional property of this sort of a data structure (for example, if one
+wanted to purposefully prevent access to bottom-most objects).
 
 With this in mind, note that a bookshelf itself is both a physical object (made
 of metal or wood) and an formal *way* of arranging things. This, perhaps more
-than any other example, highlights the ontological nature of form as an
-ordering entity that lies somewhere between the physical and the mental realms.
-Like the document--object model, the bookshelf can be thought of as a structure
-both concrete and universal. Despite the apparent ubiquity and importance of
-such order-making structures (like data tables, bookshelves, or lists) there is
-remarkably little written about them. I can find no definitive histories of a
-bookshelf for example (outside of Henry Petroski's groundbreaking
-@petroski_book_1999, written from the perspective of industrial design), either
-as a piece of furniture or as an organizing principle.[^ln5-petroski]
+than any other example in our conversation so far, highlights the ontological
+nature of form as an ordering entity that lies somewhere between the physical
+and the mental realms. Like the document--object model, the bookshelf can be
+thought of as a structure both concrete and universal. Despite the apparent
+ubiquity and importance of such order-making structures (like data tables,
+bookshelves, or lists) there is remarkably little written about them. I can
+find no definitive histories of a bookshelf for example (outside of Henry
+Petroski's groundbreaking @petroski_book_1999, written from the perspective of
+industrial design), either as a piece of furniture or as an organizing
+principle.[^ln5-petroski] Even less is available on data structures like lists
+or data tables.
+
+Bennett, John L. The User Interface in Interactive Systems. In Annual Review of
+Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
+for Information Science. Washington, 1972, pp. 159-196.
 
 [^ln5-petroski]: Petroski writes: "While reading on my chair late one evening I
 perceived, for whatever reason, the bookshelf beneath a row of books in a new
@@ -595,26 +814,29 @@ light. I saw it as a piece of infrastructure, taken for granted if not
 neglected" [@petroski_book_1999, 71].
 
 The arrangement of books on a bookshelf, or of documents in a filing cabinet,
-brings with it a set of physical affordances. We make take some of these for
-granted, but they are not obvious in the least. The book spine and the shelf
-work together to facilitate search, discovery, and organization. Turn the books
-with their spine towards the wall and the personal library looses much of its
-meaning. The bookshelf gives unity to the archive. It places objects "of a
-kind" next to each other, amenable to the same material interface.
-Incidentally, the book and the library themselves can be thought of as data
-structures of sorts. Beyond their physical properties, they are also a way of
-arranging things. The library contains bookshelves, bookshelves books, books
-pages, pages words, and so on. Each of these structures comes with its own set
-of material affordances and interfaces. The word, the page, the book, the
-shelf, and the library work together to facilitate a variety of specific
-reading-related activities, while excluding others. These structures develop
-concomitantly. The contemporary book anticipates both the shelf and the
-library, for example. Note how the book falls flat, unless it is unusually
-thick, when alone on the bookshelf. Even several books, when placed together,
-stand ill at ease when not wedged within the fullness of the
-collection.[^ln5-sumo]
+brings with it a set of physical affordances. We may take some of these for
+granted, but they are not obvious in the least. For example, note how the book
+spine and the shelf work together to facilitate search, discovery, and
+organization within the collection (answering to the "efficiency" part of the
+suggested definition). Turn the books with their spine towards the wall and the
+personal library looses much of its meaning. The bookshelf gives unity to the
+archive. It places objects "of a kind" next to each other, amenable to the same
+material interface (answering to the "conceptual unity" part of the data
+structure definition). Incidentally, the book and the library in themselves are
+both objects and data structures. Beyond their physical properties, they
+provide for a way of arranging things. The library contains bookshelves,
+bookshelves books, books pages, pages words, and so on. Each of these
+structures comes with its own set of material affordances and interfaces. The
+word, the page, the book, the shelf, and the library work together to
+facilitate a variety of specific reading-related activities, while excluding
+others. These structures develop concomitantly. The contemporary book
+anticipates both the shelf and the library, for example. Note how the book
+falls flat, unless it is unusually thick, when alone on the bookshelf. Even
+several books, when placed together, stand ill at ease when not wedged within
+the fullness of the collection.[^ln5-sumo]
 
 Together, these material affordances create the infrastructure of reading. 
+Furnisshing and data structures. Interface. Conceptions of the human.
 
 The file folder. Directory structure. Also a data structure.
 

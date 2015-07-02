@@ -18,6 +18,8 @@ header-includes:
 
 ### 5.3 Freedom of Information
 
+Start with the clock manifesto.
+
 CONTOROL SECURITY FREEDOM
 Freedom security consistency (Furby). Control. Freedom.
 
@@ -53,6 +55,8 @@ Much of what today goes by the term new materialism is materialism in the sense
 of talking about and privileging a certain idea of object-oriented
 consciousness. Some go even as far as to elevate objects to the status of
 political and ethical agents, as when.
+
+Hypomnesis. Galloway interface p. 16. Foucault.
 
 Winner has it as noncomprehensibility instead of autonamism.
 
@@ -196,76 +200,6 @@ It was an interface of sorts, which has allowed us to bridge two separate
 mental worlds, mediated by a piece of paper. And yet how quickly we discard it!
 The interface itself is perhaps too thin and transparent to hold our (critical)
 attention.
-
-An interface is literally a point of contact. The elevator button, for example,
-is a quintessential interface between you and the mechanism of the elevator.
-The button allows the will of the operator to become one with the action of the
-machine. It is an interface designed to accept human input. But, from the
-elevator's point of view, the human finger is the interface to the human. In
-the combined operation of human and elevator it is thus difficult to pinpoint
-the exact physical boundaries of the contact. The interface is paper-thin, we
-may say—it happens when a thing slides into the other, and for a moment both
-become one: a shared physiology and a shared intentional apparatus. We could
-say that our to-do list is a point of contact between two people. But before
-being that, it was a point of contact between a person, a piece of paper, and
-writing. For the purposes of this dissertation, a literary interface is a
-specialized point of contact between the mental, the symbolic, and the
-technological modes of being.
-
-Let's examine the piece of paper more closely. A literary interface is first
-and foremost mediated by language. But language alone is not enough to
-constitute even a simple to-do list. We must also have writing—a way to record
-language for later recall or further dissemination. The to-do list also
-requires a pen and a piece of paper or any transferrable storage medium. I
-therefore insist on "literary" and not merely "textual" or "linguistic"
-interfaces, because my concern here is not with any individual text or
-utterance, but already with a system of such recorded texts or utterances—a
-physical, artifactual system, which encompasses a range of possible activities.
-These may include the ability to read and to write, but also to select,
-highlight, underline, format, annotate, review, redact, skim, commit to memory,
-store, archive, retrieve, search, borrow, lend, tag, comment, ruffle through
-the pages, digest, process (as in word processing), type, scribble, click,
-zoom, drag, drop, cut, and paste. It is this system as a whole that I propose
-to designate as "literary" (and this in contrary to some more specialized
-definitions of the same).
-
-A literary interface is secondly an artifact of mental (cognitive) activity. To
-my mind, a text, like the to-do list for example, is always a privileged
-symbolic representation. I say this because I think it, and because what I
-write can be said to represent the state of my mind. Or at least I want it to
-represent accurately the state of my mind. Even if I wanted to deceive you as
-to the state of my mind, the deception would at least represent my desire to
-deceive (we will deal with truly un-intentional texts also in the scope of the
-dissertation). A text is a snapshot of sorts, which captures a fleeting moment
-from the stream of private, internal, and generally invisible mental events in
-the shape of a symbolic (representational), but nevertheless tangible,
-material, externalized and therefore visible artifacts. By contrast, spoken
-language is never fully externalized. At the exact moment of utterance my
-speech is still a part of my body. It is inside of me literally: on its way
-out, but still inside, near the tongue and the palate, still contained within
-my larynx. But in typing these words (rather than merely speaking them) I
-intend to spend much effort to enforce the congruity between what I think and
-what you read, asynchronously, through the intermediacy of language, text, and
-word-processing software (in my case). That intermediacy between the mental and
-the written is a part of the interface, in a way that the "interface between
-science and the humanities" may signify a common boundary between two distinct
-disciplines. The literary interface is privileged not just because it encodes
-an aspect of one's mental world, but because in the moment of contact, it is an
-aspect of that mental world. And for that moment, it is as dear to me as a toe
-or a finger, or perhaps as a dream or a recollection.
-
-And finally, a literary interface is a material artifact. By this I mean that
-something like a pen, paper, a computer screen, or a keyboard is involved in
-the practice of using literary interfaces. Just like an elevator button,
-literary interfaces are physical objects. They come into being through usage,
-and make no sense as discrete objects, as in the case of the elevator control
-panel removed from the passenger and the mechanism of the elevator. Or rather,
-I should say that elevator buttons make no sense removed from the action of
-pressing buttons and transporting things and people between floors. An
-interface is a kind of a verbalized noun—its understanding must come not just
-in the examining the artifact, but in examining the artifact in action. Only in
-action can we observe the momentary unity between the literary, the cognitive,
-and the artifactual.
 
 "A text editor is often the primary interface between a user and the system,
 and the program with which most user time is spent. Accordingly, an editor has
