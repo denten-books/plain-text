@@ -18,7 +18,7 @@ header-includes:
 ---
 
 ## Chapter 5: Recursive Encounters with Oneself
-`media being, home, human`
+`media being, reading, home, human`
 
 ### 5.1 Personal Archives
 
@@ -469,26 +469,35 @@ therefore stripped of all identity and affect [@kellett_does_2003, 459-60].
 To be sure, the literature on hoarding mentions that fusion between objects and
 affect can and does routinely take place in its perfectly commonplace, non-
 pathological forms.[^ln5-hoard] In this regard, we can view the domestic space
-as an everyday archival domain, imbued with emotional significance. Quote
-Bachelard here.
-
-The book
-shelf, the pantry, the wall, and the mantle: these are the locations where the
-family imposes private order, organizes its material life, and into which it
-secretes its memories, preserving and curating artifacts from its own past. For
-the most part, these archives have remained obscured behind closed
-doors.[^ln5-obscured] Only recently have anthropologists and cultural
-historians have began to document and to "read" such spaces. For example, in a
-chapter on immigrant domestic interiors, Svetlana Boym writes about these
-typically Soviet curio cabinets, which present "once a fragmentary biography of
-the inhabitant and a display of collective memory" [@boym_future_2002, 334].
-"If there had been such a thing as Soviet cultural unconscious," she writes in
-*Common Spaces*, it would have been structured like a communal apartment"
-[@boym_common_1995, 1610]. Similarly, in "Life at Home in the Twenty-First
-Century," a ground-breaking "ethnoarcheology" of contemporary American domestic
-space, a team of anthropologists (and a photographer) document, describe, and
-interpret the "domestic material worlds" of 32 Los Angeles families. A 41 year
-old father has this to say about his family's refrigerator:
+as an everyday archival domain, imbued with emotional significance. In the
+words of Gaston Bachelors, who writes most evocatively on the subject, the home
+is where "a great many of our memories are housed, and if the house is a bit
+elaborate, if it has a cellar and a garret, nooks, and corridors, our memories
+have refuge that re all the more clearly delineated." "All our lives we come
+back to them in our daydreams," he concludes [@bachelard_poetics_1994, 8].  For
+Bachelard, the home is a place where we convert time into space. "To localize a
+memory in time is merely a matter for the biographer and only corresponds to a
+sort of an external history," he writes. For a hermeneutical understanding of
+an intimate, "internal" biography, the "localization in the spaces of our
+intimacy is more urgent than determining of dates." Here, in the home, "the
+finest specimens of fossilized duration" are made "concrete as a result of long
+sojourn" [@bachelard_poetics_1994, 9]. The book shelf, the pantry, the wall,
+and the mantle: these are the locations where the family imposes private order,
+organizes its material life, and into which it secretes its memories,
+preserving and curating artifacts from its own past. For the most part, these
+archives have remained obscured behind closed doors.[^ln5-obscured] Only
+recently have anthropologists and cultural historians have began to document
+and to "read" such spaces. For example, in a chapter on immigrant domestic
+interiors, Svetlana Boym writes about these typically Soviet curio cabinets,
+which present "once a fragmentary biography of the inhabitant and a display of
+collective memory" [@boym_future_2002, 334]. "If there had been such a thing as
+Soviet cultural unconscious," she writes in *Common Spaces*, it would have been
+structured like a communal apartment" [@boym_common_1995, 1610].  Similarly, in
+"Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
+of contemporary American domestic space, a team of anthropologists (and a
+photographer) document, describe, and interpret the "domestic material worlds"
+of 32 Los Angeles families. A 41 year old father has this to say about his
+family's refrigerator:
 
 > Here is our life on the refrigerator and all the collection of photos and
 > magnets. And you know what? we go up to these pictures and the time and sort
@@ -522,22 +531,25 @@ average 438 visible print artifacts, as compared to 212 CDs and 90 DVDs
 Setting aside, for the time being, the implications of object-affect fusion on
 our understanding of private property, we are for now faced with a more narrow
 problem of curating, reading, understanding, and living in personal archives.
-The OAF suggests a practice of literary analysis that differs markedly from the
-interpretation of public books: solipsistic criticism. It is a practice already
+The attachment of personal affect to private and privelged objects suggests a
+practice of literary analysis that differs markedly from the interpretation of
+public books, in a kind of a solipsistic criticism. It is a practice already
 suggested in Michel Foucault's study of hupomnemata in Greco-Roman culture, now
 extended into the contemporary and the everyday. In charting out that
 unfamiliar territory of the personal archive, I am confounded by known models
 of communication, advanced by thinkers like Ferdinand de Saussure, Roman
-Jacobson, and Claude Shannon, a model that assumes the existence of a "sender"
-and a "receiver," an "addressant" and an "addressee." The state of a media
-being implies a prodigious archive of private literature, where the traditional
-distinction between object and subject is collapsed. Private interpretation of
-private archives: I do not yet know what such an activity entails, but, given
-my own daily phenomenological account of reading and writing, I suspect that it
-a prevalent mode of communication and one that involves a hermeneutics that is
-not taught formally in schools and universities. Our time spent browsing the
-archive of another makes up for a small fraction of the time spent on
-inhabiting the archive of the self.
+Jacobson, and Claude Shannon: all models that divide the communicative act into
+"messages," "senders," "addressants," and "addressees." The object state of
+media being instead implies a prodigious archive of private literature, where
+the traditional distinction between subject and object collapses. Beckett's
+Krapp is both the sender and the reciever of a message, even then content of
+which strictly contains an image of the same subjective self. Private
+interpretation of private archives: I do not yet know what such an activity
+entails, but, given my own daily phenomenological account of reading and
+writing, I suspect it to be a prevalent mode of communication and one that
+involves a hermeneutics not taught formally in schools and universities. Our
+time spent browsing the archive of another makes up for a small fraction of the
+time spent on inhabiting the archive of the self.
 
 [^ln5-hoard]: See for example @kellett_does_2003, 458: "Emotional attachment to
 objects are commonplace."
@@ -551,9 +563,10 @@ modern industrial society" [@arnold_life_2012, 23].
 What does it mean to "have read" a book in this light? Surely, when someone
 says "I too have read this book" they mean something more than the mechanical
 action of turning pages and moving one's eyes from left to right in a
-sequential manner. The blunt act of purchasing the book is also somewhat
-besides the point. Benjamin implies a deeper connection. To have read is to
-internalize, to understand, and to form a mental image or opinion. But what
+sequential manner. The blunt act of purchasing the book must also be somewhat
+besides the point. In speaking of his library, Benjamin implies a deeper
+connection, which involves loving and knowing. To have read is to internalize,
+to understand, and to form a mental image or an emotional attachment. But what
 exactly is internalized? It cannot be the whole text, verbatim. By reading we
 mean something other than rote memorization. In his *Blue and Brown Books*,
 written somewhere between the *Tractatus* and *Philosophical Investigations*,
@@ -610,12 +623,13 @@ induced reading hallucination) we are acting as though "we had tried to find
 the real artichoke by stripping it of its leaves," writes Wittgenstein
 [@wittgenstein_blue_1965, 125]. Instead, the leaves themselves, when bundled
 together, *are* the artichoke. At which point of peeling the artichoke does the
-artichoke disappear into leafy particulates? It is a patently misguided
-question. The question of cognition, for Wittgenstein, fails in a similar way.
-Our mistake lies in attempting to reduce cognitive activity like "reading" to a
-set of either external (functional) attributes or internal (formal) mental
-structures. Yet neither of these are sufficient. Reading happens in the head
-and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
+artichoke disappear into leafy particulates? The form of the question itself
+misses the point. The question of cognition, for Wittgenstein, fails in a
+similar way. Our mistake lies in attempting to reduce cognitive activity like
+"reading" to a set of either external (functional) attributes or internal
+(formal) mental structures. Yet neither of these are sufficient. Reading
+happens in the head and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein
+explains that:
 
 > In the consideration of our problems one of the most dangerous ideas is the
 > idea that we think with, or in, our heads [...] 'Thinking takes place in the
@@ -623,19 +637,18 @@ and on the page [@wittgenstein_blue_1965, 16]. Wittgenstein explains that:
 > one says also 'I think with my pen' and this localization is at least as good
 > [@wittgenstein_blue_1965, 116].
 
-In refusing to resolve the tension between functional (or behaviorist) and
-formal (or structuralist) accounts of cognition, Wittgenstein's thought
-experiments suggest a model of textual activity that sees reading and writing
-as a movement between innate mental structures their external, media-bound
-representations. Although Wittgenstein does not explain it in these terms,
-reading and writing for him happens at the interface of mental and physical
-boundaries. In other words, reading and writing proper involve a measure of
-"correct" correlation between internal mind states and external paper-and-ink
-states. This correlation I take to resemble Benjamin's "staging of fate." The
-moment of interface, on the stage of a bookshelf, is what unites the history of
-the book with the history of one's conciousness. It is exactly the encounter
-between the collective and the private. What "I know" and "we know" meets and
-intertwines on the page.
+In refusing to resolve the tension between functional and formal accounts of
+cognition, Wittgenstein's thought experiments suggest a model of textual
+activity that sees reading and writing as a movement between innate mental
+structures their external, media-bound representations. Although Wittgenstein
+does not explain it in these terms, reading and writing for him happens at the
+interface of mental and physical boundaries. In other words, reading and
+writing proper involve a measure of "correct" correlation between internal mind
+states and external paper-and-ink states. This correlation I take to resemble
+Benjamin's "staging of fate." The moment of interface, on the stage of a
+bookshelf, is what unites the history of the book with the history of one's
+conciousness. It is exactly the encounter between the collective and the
+private. What "I know" and "we know" meets and intertwines on the page.
 
 To have read a book in this way involves a certain physical facility with the
 text: in the way its structure can, with much practice and repetition, become
@@ -650,7 +663,29 @@ the "sign posts" are. The mental facility of "having read something" is however
 curtailed by the limits of human memory. Even after teaching the same text for
 several years in a row, I have to "refresh" my knowledge of its contents. This
 sort of knowledge becomes easier with repetition, but I am also painfully aware
-of its impermanence.
+of its impermanence.[^ln5-nabokov]
+
+[^ln5-nabokov]: In this now widely cited passage on rereading, Nabokov writes:
+"Curiously enough, one cannot read a book: one can only reread it. A good
+reader, a major reader, an active and creative reader is a rereader.  And I
+shall tell you why. When we read a book for the first time the very process of
+laboriously moving our eyes from left to right, line after line, page after
+page, this complicated physical work upon the book, the very process of
+learning in terms of space and time what the book is about, this stands between
+us and artistic appreciation. When we look at a painting we do not have to move
+our eyes in a special way even if, as in a book, the picture contains elements
+of depth and development. The element of time does not really enter in a first
+contact with a painting. In reading a book, we must have time to acquaint
+ourselves with it. We have no physical organ (as we have the eye in regard to a
+painting) that takes in the whole picture and then can enjoy its details. But
+at a second, or third, or fourth reading we do, in a sense, behave towards a
+book as we do towards a painting. However, let us not confuse the physical eye,
+that monstrous masterpiece of evolution, with the mind, an even more monstrous
+achievement. A book, no matter what it is—a work of fiction or a work of
+science (the boundary line between the two is not as clear as is generally
+believed)—a book of fiction appeals first of all to the mind. The mind, the
+brain, the top of the tingling spine, is, or should be, the only instrument
+used upon a book" [@nabokov_lectures_2002, 3-4].
 
 Abandoning a text for several decades means to lose some facility in navigating
 it mentally and physically. I still "have read it," but with time "having read"
@@ -683,7 +718,7 @@ perceive their perpetual importance in the conversation about knowledge and
 technology. In this way, Friedrich Nietzsche spoke of the modern man who "drags
 around with him a huge quantity of indigestible stones of knowledge." For
 Nietzsche the modern condition was defined by a profound incongruence between
-"interior" and "exterior" [@nietzsche_untimely_1997, 78].  He writes, "We
+"interior" and "exterior" [@nietzsche_untimely_1997, 78]. He writes, "We
 moderns, have nothing whatever of our own; only by replenishing and cramming
 ourselves with the ages, customs, arts, philosophies, religions, discoveries of
 others do we become anything worthy of notice, that is to say walking
