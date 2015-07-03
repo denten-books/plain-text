@@ -560,26 +560,86 @@ modern industrial society" [@arnold_life_2012, 23].
 
 ### 5.3 Furnishings of the Mind
 
-What does it mean to "have read" a book in this light? Surely, when someone
-says "I too have read this book" they mean something more than the mechanical
-action of turning pages and moving one's eyes from left to right in a
-sequential manner. The blunt act of purchasing the book must also be somewhat
-besides the point. In speaking of his library, Benjamin implies a deeper
-connection, which involves loving and knowing. To have read is to internalize,
-to understand, and to form a mental image or an emotional attachment. But what
-exactly is internalized? It cannot be the whole text, verbatim. By reading we
-mean something other than rote memorization. In his *Blue and Brown Books*,
-written somewhere between the *Tractatus* and *Philosophical Investigations*,
-Ludwig Wittgenstein gives the example of a child who is asked to read, but who
-instead regurgitates the text from memory. Wittgenstein further asks his
-readers to imagine an experimental "human reading machine," which like the
-child "reads" by making sounds which sometimes do and sometimes do not
-correspond with the printed word. An observer not familiar with the mechanism
-of this experimental "reader," could be fooled into thinking the machine is
-reading. The coincidence between sound and word remains accidental, however. We
-would remain skeptical of this activity as reading even if our machine were to
-begin to correlate letters to appropriate sounds consistently
-[@wittgenstein_blue_1965, 120-1].
+What constitutes a literary archive? Initially, I want to answer something like
+"books and bookshelves" or "files and file folders." In other words, some
+assemblage of symbolic material: representation and matter. A librarian might
+also say "a catalog" or "metadata" that describes the stored objects. Yet, many
+archives, and especially private ones, exist without formal organization. Yet
+the librarian is correct in adding the third, formal, element to our minimal
+description. The archive has to be an arrangment of sorts. A pile of papers
+haphazardly piled into the waste basket would strain the definition of an
+archive. Unless, that is, someone decides to identify it as a collection. The
+bookshelf which supports books in a library, is in this way more than a piece
+of furniture.  Formally, one can think of it also as a data structure. The
+National Institute of Standards defines a data structure simply as "an
+organization of information," usually with a view towards "algorithm
+efficiency" and "conceptual unity" [@black_data_2004]. Efficiency, in this
+case, is used to stand in for as set of structural affordances. In this way, a
+"dictionary" is a data structure that stores "keys" and "values," allowing for
+operation like "new," "insert," "find," and "delete" [@black_dictionary_2004].
+A "stack" by contrast is defined as a "collection of items in which only the
+most recently added item may be removed" [@black_stack_2004]. Note that these
+affordances exit on the level of formal, rather than physical structure. In
+other words: one may arrange a collection of objects (like books) in a stack on
+desk, for example. One may also arrange them on a desk vertically, as a series.
+In both cases, the underlying physical conditions (books and desks) remain the
+same. Yet the formal arrangement of object changes what one can do with the
+collection. For example, books arranged vertically facilitate easy random
+access to any individual volume. One may take a book out without disturbing the
+overall arrangement. Vertical stacks make it difficult to access books on the
+bottom of the pile. Any movement affects the whole stack, which could be an
+intentional property of this sort of a data structure (for example, if one
+wanted to purposefully prevent access to bottom-most objects). The bookshelf
+itself is a physical object (made of metal or wood) and an formal *way* of
+arranging things. This, perhaps more than any other example in our conversation
+so far, highlights the ontological nature of form as an ordering entity that
+lies somewhere between the physical and the mental realms. Like the
+document--object model, the bookshelf can be thought of as a structure both
+concrete and universal.
+
+The arrangement of books on a bookshelf, or of documents in a filing cabinet,
+brings with it a set of physical affordances. We may take some of these for
+granted, but they are not obvious in the least. For example, note how the book
+spine and the shelf work together to facilitate search, discovery, and
+organization within the collection (answering to the "efficiency" part of the
+suggested definition). Turn the books with their spine towards the wall and the
+personal library looses much of its meaning. The bookshelf gives unity to the
+archive. It places objects "of a kind" next to each other, amenable to the same
+material interface (answering to the "conceptual unity" part of the data
+structure definition). Incidentally, the book and the library in themselves are
+both objects and data structures. Beyond their physical properties, they
+provide for a way of arranging things. The library contains bookshelves,
+bookshelves books, books pages, pages words, and so on. Each of these
+structures comes with its own set of material affordances and interfaces. The
+word, the page, the book, the shelf, and the library work together to
+facilitate a variety of specific reading-related activities, while excluding
+others. These structures develop concomitantly. The contemporary book
+anticipates both the shelf and the library, for example. Note how the book
+falls flat, unless it is unusually thick, when alone on the bookshelf. Even
+several books, when placed together, stand ill at ease when not wedged within
+the fullness of the collection.[^ln5-sumo]
+
+Together, these material, formal, and symbolic affordances create the
+infrastructure of reading. What does it mean to "have read" a book in the
+material fullness of the archive? Surely, when someone says "I too have read
+this book" they mean something more than the mechanical action of turning pages
+and moving one's eyes from left to right in a sequential manner. The blunt act
+of purchasing the book must also be somewhat besides the point. In speaking of
+his library, Benjamin implies a deeper connection, which involves loving and
+knowing. To have read is to internalize, to understand, and to form a mental
+image or an emotional attachment. But what exactly is internalized? It cannot
+be the whole text, verbatim. By reading we mean something other than rote
+memorization. In his *Blue and Brown Books*, written somewhere between the
+*Tractatus* and *Philosophical Investigations*, Ludwig Wittgenstein gives the
+example of a child who is asked to read, but who instead regurgitates the text
+from memory.  Wittgenstein further asks his readers to imagine an experimental
+"human reading machine," which like the child "reads" by making sounds which
+sometimes do and sometimes do not correspond with the printed word. An observer
+not familiar with the mechanism of this experimental "reader," could be fooled
+into thinking the machine is reading. The coincidence between sound and word
+remains accidental, however. We would remain skeptical of this activity as
+reading even if our machine were to begin to correlate letters to appropriate
+sounds consistently [@wittgenstein_blue_1965, 120-1].
 
 In his characteristically cryptic manner, Wittgenstein explains his thought
 experiment by making yet another analogy:
@@ -665,28 +725,6 @@ several years in a row, I have to "refresh" my knowledge of its contents. This
 sort of knowledge becomes easier with repetition, but I am also painfully aware
 of its impermanence.[^ln5-nabokov]
 
-[^ln5-nabokov]: In this now widely cited passage on rereading, Nabokov writes:
-"Curiously enough, one cannot read a book: one can only reread it. A good
-reader, a major reader, an active and creative reader is a rereader.  And I
-shall tell you why. When we read a book for the first time the very process of
-laboriously moving our eyes from left to right, line after line, page after
-page, this complicated physical work upon the book, the very process of
-learning in terms of space and time what the book is about, this stands between
-us and artistic appreciation. When we look at a painting we do not have to move
-our eyes in a special way even if, as in a book, the picture contains elements
-of depth and development. The element of time does not really enter in a first
-contact with a painting. In reading a book, we must have time to acquaint
-ourselves with it. We have no physical organ (as we have the eye in regard to a
-painting) that takes in the whole picture and then can enjoy its details. But
-at a second, or third, or fourth reading we do, in a sense, behave towards a
-book as we do towards a painting. However, let us not confuse the physical eye,
-that monstrous masterpiece of evolution, with the mind, an even more monstrous
-achievement. A book, no matter what it is—a work of fiction or a work of
-science (the boundary line between the two is not as clear as is generally
-believed)—a book of fiction appeals first of all to the mind. The mind, the
-brain, the top of the tingling spine, is, or should be, the only instrument
-used upon a book" [@nabokov_lectures_2002, 3-4].
-
 Abandoning a text for several decades means to lose some facility in navigating
 it mentally and physically. I still "have read it," but with time "having read"
 begins to mean less than before. That structures of "having internalized"
@@ -707,12 +745,12 @@ calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
 in this case, both the speaker and the listener, reader and writer, are found
 in one of the same person.
 
-I pull on these variegated strains of related thought to assemble a bricolage
-of ideas that gives rise to media being---an artificial creature born out of
-the dialectical tension between mind and body, internal and external, immanence
-and transcendence, matter and spirit. However arbitrary the boundaries of
-Cartesian dualism may be, they lie at the fault lines between something vital
-and something human on the one side and something dead and matter-bound on the
+I pull on these variegated strains of related thought to assemble a tesselation
+of ideas that give rise to media being---an artificial creature born out of the
+dialectical tension between mind and body, internal and external, immanence and
+transcendence, matter and spirit. However arbitrary the boundaries of Cartesian
+dualism may be, they lie at the fault lines between something vital and
+something human on the one side and something dead and matter-bound on the
 other. One does not have to make these boundaries essential or deterministic to
 perceive their perpetual importance in the conversation about knowledge and
 technology. In this way, Friedrich Nietzsche spoke of the modern man who "drags
@@ -731,147 +769,61 @@ We return then to the matter of congruence between deep and shallow structures
 discussed in the earlier chapters. The full bookshelves of a person who does
 not read, of the kind offered as a service by interior designers, are suspect
 in that they resemble Nietzsche's undigested rocks. They are mere outward
-pretense to internal structure. In this way the personal archive is governed by
-the appropriate interface between the inside and the outside. It depends on the
-reader-librarian's ability to effectively externalize and internalize mental
-constructs. The concept of the interface is instrumental to this activity. I
-take interface, in this case to mean something quite the opposite to Alexander
-Galloway's understanding of the same. In "The Interface Effect," an important
-and influential monograph in new media studies, Galloway defines interfaces as
-a process of fundamental "incompatibility" on the "mediating threshold between
-self and the world" [@galloway, viii]. As the title suggests, the interface,
-for Galloway is always an effect, rather than a thing. "The interface is a kind
-of a semiotic short circuit," Galloway writes [@galloway 38]. And, somewhat
-more tautologically, he at times defines it as "an interface between the edge
-and the center" [@galloway 40]. Pushing off of these definitions, I suggest
-instead the idea of brief commensurability.
+pretense to internal structure. Nietzsche must mean more than just external
+incongruence, however: something like "internalizing" without "digestion." What
+does he mean by "digestion," though? We are still left with a metaphor of
+"shallow" understanding, one in which the external structure of the book does
+not actually affect the "proper" internal change. We ingest without
+assimilation. What would "proper" assimilation involve? To ask the naively
+blunt question: what do we believe is transmitted in the "proper" reading of
+books? Why read at all? Whatever the answer may be (and I do not, at the
+moment, insist on any particular answer) it will likely involve some process of
+internalization, in a double movement between inside and outside. In the first
+stage of that construct, a writer finds some measure of correspondence between
+a mental state and the configuration of pixels on the screen (or ink on paper).
+In the second, the reader repeats the process in reverse. Note that I am
+intentionally avoiding the fallacy of authorial intent.  Whether one "intends"
+or not is somewhat besides the point. The strange and naked phenomenological
+"minimally viable" description of reading and writing points only to the desire
+to find a measure (however imperfect and ephemeral) of congruence.
+
+### 5.4 The Human Assumption
+
+For the above reasons, the question of interface, broached by media therists
+like Stephen Johnson, Alexander Galloway, and Lori Emerson, among others, is of
+vital importance to literary theory [@johnson_interface_1999;
+@galloway_interface_2012; @emerson_reading_2014]. Reading as congruence happens
+at the point of contact between fundamentally incompatible physical structures.
+To misunderstand the interface--to literally eat books, for example--precludes
+any further notion of interpretation (in whatever shape you believe it to take
+place). Yet a more radical consequence of "reading writing interfaces" (to
+borrow from Emerson), reclaims the materiality of literature into hermeneutics.
+That is but a complicated way of saying that the design of books, bookshelves,
+keyboards, and filing systems, cannot be dismissed as merely skilled labor of a
+carpenter or a technician. The interface *governs* interpretation.
 
 In its simplest and literal terms, an interface is a point of shared contact
-between two otherwise incommensurable systems. An elevator button, for example,
-is a quintessential interface between a human operator and the mechanism of the
-lift. For the duration of contact, a button allows the will of the operator to
-become one with the action of the machine. It is an interface designed to
-accept human input. But, from the elevator's designers point of view, a finger
-serves as an interface "into" the human. Designer thing quite a bit about
-buttons that fit the shape of the finger, along with the complex acculturation
-mechanisms that come with a history of humans pushing buttons in diverging
-contexts. In the combined operation of human and elevator it is, for a moment,
-difficult to pinpoint the exact physical boundaries of the contact. The
-interface is paper-thin, we may say. It happens when a thing slides into the
-other, and for a moment both become one: a shared physiology and a shared
-intentional apparatus. The archive, in that sense, is an point of contact
-between books and reader-librarians. The book too is a kind of interface
-between words and their interpreters. And words are a sort of a mechanism for
-commensurability between humans that diverge widely across time and space.
+between two otherwise incommensurable systems.[^ln5-interface] An elevator
+button, for example, is a quintessential interface between a human operator and
+the mechanism of the lift. For the duration of contact, a button allows the
+will of the operator to become one with the action of the machine. It is an
+interface designed to accept human input. But, from the elevator's designers
+point of view, a finger serves as an interface "into" the human. Engeneers and
+designers think quite a bit about buttons that fit the shape of the finger,
+along with the complex acculturation mechanisms that come with a history of
+humans pushing buttons in diverging contexts. In the combined operation of
+human and elevator it is, for a moment, difficult to pinpoint the exact
+physical boundaries of the contact. The interface is paper-thin, we may say. It
+happens when a thing fits another, and for a moment both become one: a shared
+physiology and a shared intentional apparatus. The archive, in that sense, is
+an point of contact between books and reader-librarians. The book too is a kind
+of interface between words and their interpreters. And words can be seen a sort
+of a mechanism for commensurability between humans that diverge widely across
+time and space.
 
-The point of contact between humans and their archives
+Reference Norman here. Interface implies the human.
 
-my mind, a text, like the to-do list for example, is always a privileged
-symbolic representation. I say this because I think it, and because what I
-write can be said to represent the state of my mind. Or at least I want it to
-represent accurately the state of my mind. Even if I wanted to deceive you as
-to the state of my mind, the deception would at least represent my desire to
-deceive (we will deal with truly un-intentional texts also in the scope of the
-dissertation). A text is a snapshot of sorts, which captures a fleeting moment
-from the stream of private, internal, and generally invisible mental events in
-the shape of a symbolic (representational), but nevertheless tangible,
-material, externalized and therefore visible artifacts. By contrast, spoken
-language is never fully externalized. At the exact moment of utterance my
-speech is still a part of my body. It is inside of me literally: on its way
-out, but still inside, near the tongue and the palate, still contained within
-my larynx. But in typing these words (rather than merely speaking them) I
-intend to spend much effort to enforce the congruity between what I think and
-what you read, asynchronously, through the intermediacy of language, text, and
-word-processing software (in my case). That intermediacy between the mental and
-the written is a part of the interface, in a way that the "interface between
-science and the humanities" may signify a common boundary between two distinct
-disciplines. The literary interface is privileged not just because it encodes
-an aspect of one's mental world, but because in the moment of contact, it is an
-aspect of that mental world. And for that moment, it is as dear to me as a toe
-or a finger, or perhaps as a dream or a recollection.
-
-And finally, a literary interface is a material artifact. By this I mean that
-something like a pen, paper, a computer screen, or a keyboard is involved in
-the practice of using literary interfaces. Just like an elevator button,
-literary interfaces are physical objects. They come into being through usage,
-and make no sense as discrete objects, as in the case of the elevator control
-panel removed from the passenger and the mechanism of the elevator. Or rather,
-I should say that elevator buttons make no sense removed from the action of
-pressing buttons and transporting things and people between floors. An
-interface is a kind of a verbalized noun—its understanding must come not just
-in the examining the artifact, but in examining the artifact in action. Only in
-action can we observe the momentary unity between the literary, the cognitive,
-and the artifactual.
-
-One of the first things to note is that a book shelf is more than a piece of
-furniture. Formally, one can think of it also as a data structure. The National
-Institute of Standards defines a data structure simply as "an organization of
-information," usually with a view towards "algorithm efficiency" and
-"conceptual unity" [@black_data_2004]. Efficiency, in this case, is used to
-stand in for as set of structural affordances. In this way, a "dictionary" is a
-data structure that stores "keys" and "values," allowing for operation like
-"new," "insert," "find," and "delete" [@black_dictionary_2004]. A "stack" by
-contrast is defined as a "collection of items in which only the most recently
-added item may be removed" [@black_stack_2004]. Note that these affordances
-exit on the level of formal, rather than physical structure. In other words:
-one may arrange a collection of objects (like books) in a stack on desk, for
-example. One may also arrange them on a desk vertically, as a series. In both
-cases, the underlying physical conditions (books and desks) remain the same.
-Yet the formal arrangement of object changes what one can do with the
-collection. For example, books arranged vertically facilitate easy random
-access to any individual volume. One may take a book out without disturbing the
-overall arrangement. Vertical stacks make it difficult to access books on the
-bottom of the pile. Any movement affects the whole stack, which could be an
-intentional property of this sort of a data structure (for example, if one
-wanted to purposefully prevent access to bottom-most objects).
-
-With this in mind, note that a bookshelf itself is both a physical object (made
-of metal or wood) and an formal *way* of arranging things. This, perhaps more
-than any other example in our conversation so far, highlights the ontological
-nature of form as an ordering entity that lies somewhere between the physical
-and the mental realms. Like the document--object model, the bookshelf can be
-thought of as a structure both concrete and universal. Despite the apparent
-ubiquity and importance of such order-making structures (like data tables,
-bookshelves, or lists) there is remarkably little written about them. I can
-find no definitive histories of a bookshelf for example (outside of Henry
-Petroski's groundbreaking @petroski_book_1999, written from the perspective of
-industrial design), either as a piece of furniture or as an organizing
-principle.[^ln5-petroski] Even less is available on data structures like lists
-or data tables.
-
-Bennett, John L. The User Interface in Interactive Systems. In Annual Review of
-Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
-for Information Science. Washington, 1972, pp. 159-196.
-
-[^ln5-petroski]: Petroski writes: "While reading on my chair late one evening I
-perceived, for whatever reason, the bookshelf beneath a row of books in a new
-light. I saw it as a piece of infrastructure, taken for granted if not
-neglected" [@petroski_book_1999, 71].
-
-The arrangement of books on a bookshelf, or of documents in a filing cabinet,
-brings with it a set of physical affordances. We may take some of these for
-granted, but they are not obvious in the least. For example, note how the book
-spine and the shelf work together to facilitate search, discovery, and
-organization within the collection (answering to the "efficiency" part of the
-suggested definition). Turn the books with their spine towards the wall and the
-personal library looses much of its meaning. The bookshelf gives unity to the
-archive. It places objects "of a kind" next to each other, amenable to the same
-material interface (answering to the "conceptual unity" part of the data
-structure definition). Incidentally, the book and the library in themselves are
-both objects and data structures. Beyond their physical properties, they
-provide for a way of arranging things. The library contains bookshelves,
-bookshelves books, books pages, pages words, and so on. Each of these
-structures comes with its own set of material affordances and interfaces. The
-word, the page, the book, the shelf, and the library work together to
-facilitate a variety of specific reading-related activities, while excluding
-others. These structures develop concomitantly. The contemporary book
-anticipates both the shelf and the library, for example. Note how the book
-falls flat, unless it is unusually thick, when alone on the bookshelf. Even
-several books, when placed together, stand ill at ease when not wedged within
-the fullness of the collection.[^ln5-sumo]
-
-Together, these material affordances create the infrastructure of reading. 
-Furnisshing and data structures. Interface. Conceptions of the human.
+### 5.5 Home
 
 The file folder. Directory structure. Also a data structure.
 
@@ -885,7 +837,6 @@ What is the concept of a user in Unix? User is also a file.
 - User structure is hierarchichal, depending on the three levels of acccess:
 read, write, and execute.
 - Unix has preference for plain text as an interface to the human.
-
 
 Transparency. Window Systems Should Be Transparent by Rob Pike
 
@@ -910,6 +861,17 @@ character. [11]
 
 [^ln5-boring]: I suspect both would make for far more boring plays than the
 original.
+
+[^ln5-petroski]: Despite the apparent ubiquity and importance of such
+order-making structures (like data tables, bookshelves, or lists) there is
+remarkably little written about them. I can find no definitive histories of a
+bookshelf for example (outside of Henry Petroski's groundbreaking
+@petroski_book_1999, written from the perspective of industrial design), either
+as a piece of furniture or as an organizing principle. Even less is available
+on data structures like lists or data tables.  Petroski writes: "While reading
+on my chair late one evening I perceived, for whatever reason, the bookshelf
+beneath a row of books in a new light. I saw it as a piece of infrastructure,
+taken for granted if not neglected" [@petroski_book_1999, 71].
 
 [^ln5-dupont]: All materials in this section come from an online archive of
 sound recording advertisements curated by the Museum of Magnetic Sound
@@ -952,5 +914,43 @@ course, with books leaning left and right to form M's, N's, V's and W's to fill
 the voids between clusters of vertical and not-so-vertical I's"
 [@petroski_book_1999, 295].
 
+[^ln5-interface]: I take interface, in this case, to mean something
+complementary to Alexander Galloway's understanding of the same. In "The
+Interface Effect," an influential monograph in new media studies, Galloway
+defines interfaces as a process of fundamental "incompatibility" on the
+"mediating threshold between self and the world" [@galloway, viii]. As the
+title suggests, the interface, for Galloway is always an effect, rather than a
+thing. "The interface is a kind of a semiotic short circuit," Galloway writes
+[@galloway 38]. It is for him "an interface between the edge and the center"
+[@galloway 40]. The Standards Dictionary published by the Institute of
+Electrical and Electronic Engeneers defines the interface as "the points where
+two or more physical systems or subsystems meet to transfer energy or
+information"
+
+[^ln5-nabokov]: In this now widely cited passage on rereading, Nabokov writes:
+"Curiously enough, one cannot read a book: one can only reread it. A good
+reader, a major reader, an active and creative reader is a rereader.  And I
+shall tell you why. When we read a book for the first time the very process of
+laboriously moving our eyes from left to right, line after line, page after
+page, this complicated physical work upon the book, the very process of
+learning in terms of space and time what the book is about, this stands between
+us and artistic appreciation. When we look at a painting we do not have to move
+our eyes in a special way even if, as in a book, the picture contains elements
+of depth and development. The element of time does not really enter in a first
+contact with a painting. In reading a book, we must have time to acquaint
+ourselves with it. We have no physical organ (as we have the eye in regard to a
+painting) that takes in the whole picture and then can enjoy its details. But
+at a second, or third, or fourth reading we do, in a sense, behave towards a
+book as we do towards a painting. However, let us not confuse the physical eye,
+that monstrous masterpiece of evolution, with the mind, an even more monstrous
+achievement. A book, no matter what it is—a work of fiction or a work of
+science (the boundary line between the two is not as clear as is generally
+believed)—a book of fiction appeals first of all to the mind. The mind, the
+brain, the top of the tingling spine, is, or should be, the only instrument
+used upon a book" [@nabokov_lectures_2002, 3-4].
+
+Bennett, John L. The User Interface in Interactive Systems. In Annual Review of
+Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
+for Information Science. Washington, 1972, pp. 159-196.
 
 ### Works Cited
