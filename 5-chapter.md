@@ -800,26 +800,47 @@ place). Yet a more radical consequence of "reading writing interfaces" (to
 borrow from Emerson), reclaims the materiality of literature into hermeneutics.
 That is but a complicated way of saying that the design of books, bookshelves,
 keyboards, and filing systems, cannot be dismissed as merely skilled labor of a
-carpenter or a technician. The interface *governs* interpretation.
+carpenter or a technician. The interface, as we will see, *governs*
+interpretation.
 
 In its simplest and literal terms, an interface is a point of shared contact
 between two otherwise incommensurable systems.[^ln5-interface] An elevator
 button, for example, is a quintessential interface between a human operator and
 the mechanism of the lift. For the duration of contact, a button allows the
-will of the operator to become one with the action of the machine. It is an
-interface designed to accept human input. But, from the elevator's designers
-point of view, a finger serves as an interface "into" the human. Engeneers and
-designers think quite a bit about buttons that fit the shape of the finger,
-along with the complex acculturation mechanisms that come with a history of
-humans pushing buttons in diverging contexts. In the combined operation of
-human and elevator it is, for a moment, difficult to pinpoint the exact
-physical boundaries of the contact. The interface is paper-thin, we may say. It
-happens when a thing fits another, and for a moment both become one: a shared
-physiology and a shared intentional apparatus. The archive, in that sense, is
-an point of contact between books and reader-librarians. The book too is a kind
-of interface between words and their interpreters. And words can be seen a sort
-of a mechanism for commensurability between humans that diverge widely across
-time and space.
+will of the operator to become one with the action of the machine. An elevator
+button is an object designed to fit the human hand. But, from the elevator's
+designers point of view, a finger serves as an interface "into" the human.
+Engeneers and designers think quite a bit about buttons that fit the shape of
+the finger, along with the complex acculturation mechanisms that come with a
+history of humans pushing buttons in diverging contexts. In the combined
+operation of human and elevator it is, for a moment, difficult to pinpoint the
+exact physical boundaries of the contact. The interface is paper-thin, we may
+say. It happens when a thing fits another, and for a moment both become one: a
+shared physiology and a shared intentional apparatus. The archive, in that
+sense, is an point of contact between books and reader-librarians. The book too
+is a kind of interface between words and their interpreters. And words can be
+seen a sort of a mechanism for commensurability between humans that diverge
+widely across time and space.
+
+As can already be intuited from the elevator example, the interface can be
+thought of as a momentary exchange between divering stystems. The Standards
+Dictionary published by the Institute of Electrical and Electronic Engeneers
+defines the interface as "the points where two or more physical systems or
+subsystems meet to transfer energy or information." An electrical plug and
+outlet are common household interfaces, which connect specific devices (like
+televisions and toasters) to the power grid. But who decides on the exact shape
+of the connection? Like many other interfaces, the material specifics of the
+wall plug are goverened by a convewntion. Which one. In this way, a device
+manufacturer can make certain assumptions about the connecting system. The
+makers of kitchen appliences can expect to encounter a certain shape of a plug,
+just as the electrician who installs wall outlets, expects most
+country-specific devices to fit into the standard. I highlight these simple
+example to make a point central to the argument this book. An interface
+contains an assumption about the otherwise incommesirable system. With this
+insight in hand we can return to the archive to observe that the material
+affordances of the archive, from the shape of the book, the height of the
+shelves, and the size of the pages, make an assumption about the human hand and
+mind.
 
 Reference Norman here. Interface implies the human.
 
@@ -922,10 +943,7 @@ defines interfaces as a process of fundamental "incompatibility" on the
 title suggests, the interface, for Galloway is always an effect, rather than a
 thing. "The interface is a kind of a semiotic short circuit," Galloway writes
 [@galloway 38]. It is for him "an interface between the edge and the center"
-[@galloway 40]. The Standards Dictionary published by the Institute of
-Electrical and Electronic Engeneers defines the interface as "the points where
-two or more physical systems or subsystems meet to transfer energy or
-information"
+[@galloway 40].
 
 [^ln5-nabokov]: In this now widely cited passage on rereading, Nabokov writes:
 "Curiously enough, one cannot read a book: one can only reread it. A good
