@@ -745,7 +745,7 @@ calls "a circuit of reciprocal effectivity" [@smith_belief_1997, 54], except,
 in this case, both the speaker and the listener, reader and writer, are found
 in one of the same person.
 
-I pull on these variegated strains of related thought to assemble a tesselation
+I pull on these variegated strains of related thought to assemble a tessellation
 of ideas that give rise to media being---an artificial creature born out of the
 dialectical tension between mind and body, internal and external, immanence and
 transcendence, matter and spirit. However arbitrary the boundaries of Cartesian
@@ -789,7 +789,7 @@ to find a measure (however imperfect and ephemeral) of congruence.
 
 ### 5.4 The Human Assumption
 
-For the above reasons, the question of interface, broached by media therists
+For the above reasons, the question of interface, broached by media theorists
 like Stephen Johnson, Alexander Galloway, and Lori Emerson, among others, is of
 vital importance to literary theory [@johnson_interface_1999;
 @galloway_interface_2012; @emerson_reading_2014]. Reading as congruence happens
@@ -810,7 +810,7 @@ the mechanism of the lift. For the duration of contact, a button allows the
 will of the operator to become one with the action of the machine. An elevator
 button is an object designed to fit the human hand. But, from the elevator's
 designers point of view, a finger serves as an interface "into" the human.
-Engeneers and designers think quite a bit about buttons that fit the shape of
+Engineers and designers think quite a bit about buttons that fit the shape of
 the finger, along with the complex acculturation mechanisms that come with a
 history of humans pushing buttons in diverging contexts. In the combined
 operation of human and elevator it is, for a moment, difficult to pinpoint the
@@ -822,29 +822,36 @@ is a kind of interface between words and their interpreters. And words can be
 seen a sort of a mechanism for commensurability between humans that diverge
 widely across time and space.
 
-As can already be intuited from the elevator example, the interface can be
-thought of as a momentary exchange between divering stystems. The Standards
-Dictionary published by the Institute of Electrical and Electronic Engeneers
+As can already be intuited from the elevator example, the interface provides a
+momentary point of meaningful contact between diverging systems. The Standards
+Dictionary published by the Institute of Electrical and Electronic Engineers
 defines the interface as "the points where two or more physical systems or
 subsystems meet to transfer energy or information." An electrical plug and
 outlet are common household interfaces, which connect specific devices (like
 televisions and toasters) to the power grid. But who decides on the exact shape
 of the connection? Like many other interfaces, the material specifics of the
-wall plug are goverened by a convewntion. Which one. In this way, a device
+wall plug are governed by convention. WHICH ONE? In this way, a device
 manufacturer can make certain assumptions about the connecting system. The
-makers of kitchen appliences can expect to encounter a certain shape of a plug,
+makers of kitchen appliances can expect to encounter a certain shape of a plug,
 just as the electrician who installs wall outlets, expects most
-country-specific devices to fit into the standard. I highlight these simple
-example to make a point central to the argument this book. An interface
-contains an assumption about the otherwise incommesirable system. With this
-insight in hand we can return to the archive to observe that the material
-affordances of the archive, from the shape of the book, the height of the
-shelves, and the size of the pages, make an assumption about the human hand and
-mind.
+country-specific devices to be compatible with his installation. I highlight
+these simple examples to make a point central to the argument this book. An
+interface contains a set of conventional assumptions about the otherwise
+incommensurable system. With this insight in hand we can return to the archive
+to ask what assumptions does it make about the archivist?
 
-Reference Norman here. Interface implies the human.
+It is at this point that I would like to leave Krapp's study to enter another
+home, in which today's librarians of self commonly seek shelter. All
+contemporary operating systems (from Androids, to Mac OS, Linux, and Windows)
+commonly archive all user-related files in the `home` directory.[^ln5-home]
+These include all media: text, documents, music, video, and images along with
+program-specific settings, browser history, themes, passwords, 
 
-### 5.5 Home
+[^ln5-home]: On many machines the home directory will simply bare the name of
+the logged in user.
+
+The history of the home directory can be traced to the earliest time
+sharing machines in the 1960s. 
 
 The file folder. Directory structure. Also a data structure.
 
@@ -855,7 +862,7 @@ Files belong to users and groups. Personal vs. shared computing.
 What is the concept of a user in Unix? User is also a file.
 
 - User belongs to groups and owns files.
-- User structure is hierarchichal, depending on the three levels of acccess:
+- User structure is hierarchical, depending on the three levels of acccess:
 read, write, and execute.
 - Unix has preference for plain text as an interface to the human.
 
