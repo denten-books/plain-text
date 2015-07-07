@@ -423,12 +423,13 @@ are right about the psychological importance of the material self, then
 seemingly mundane tasks like organizing one's bookshelves or backing up one's
 documents, should take on an urgent intellectual importance. More than that, I
 am compelled to view the material contexts of media being beyond the discussion
-about preservation. Fundamentally, the various cognitive artifacts of a
-material self must constitute a protected class of objects, which, unlike most
-other dead things, participate in the realm of ethics and aesthetics. If these
-structures embody an integral part of the mind, as James and others suggest,
-they must also properly participate in intellectual ideals like "clarity of
-thought," "free thought," or "critical thinking."
+about document preservation or self-preservation. Fundamentally, the various
+cognitive artifacts of a material self must constitute a protected class of
+objects, which, unlike most other dead things, participate in the realm of
+ethics and aesthetics. If these structures embody an integral part of the mind,
+as James and others suggest, they must also properly participate in
+intellectual ideals like "clarity of thought," "free thought," or "critical
+thinking."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
@@ -441,7 +442,7 @@ happens not in the brain alone, but at the interface between mental, social,
 and technological structures. And if we concede that cognition has an
 externalized, material form (like bookshelves and tape recorders), we must
 accept it (at least in that extended portion) as a culturally- and
-historically- contingent artifact---one that further occupies a privileged
+historically- contingent artifact---one that further occupies a distinguished
 position among otherwise inorganic and dead furnishings that support human
 activity. That is to say that some **things** can become a cherished part of my
 mental world. I am more attached to those things than to others. I rely on them
@@ -474,8 +475,8 @@ become property by the affective and intellectual fusion with the reader.
 
 In the language of contemporary psychology, the collecting of books, to take an
 obvious example, blends "instrumental" and "sentimental saving." It may be
-useful to think about "the mysterious relationship" in its most extreme,
-distorted form. The medical literature on hoarding, the disorder of collection,
+useful here to think about "the mysterious relationship" in its most extreme,
+distorted form. Medical literature on hoarding, the disorder of collection,
 defines instrumental saving as an emotional attachment to objects that are seen
 to fulfill a specific purpose ("I might need it later,") and sentimental saving
 as attachment to objects that "represent extensions of self"
@@ -497,34 +498,40 @@ To be sure, the literature on hoarding mentions that fusion between objects and
 affect can and does routinely take place in its perfectly commonplace, non-
 pathological forms.[^ln5-hoard] In this regard, we can view the domestic space
 as an everyday archival domain, imbued with emotional significance. In the
-words of Gaston Bachelors, who writes most evocatively on the subject, the home
+words of Gaston Bachelard, who writes most evocatively on the subject, the home
 is where "a great many of our memories are housed, and if the house is a bit
 elaborate, if it has a cellar and a garret, nooks, and corridors, our memories
 have refuge that re all the more clearly delineated." "All our lives we come
 back to them in our daydreams," he concludes [@bachelard_poetics_1994, 8].  For
-Bachelard, the home is a place where we convert time into space. "To localize a
+Bachelard, the home stages the conversion of time into space. "To localize a
 memory in time is merely a matter for the biographer and only corresponds to a
 sort of an external history," he writes. For a hermeneutical understanding of
 an intimate, "internal" biography, the "localization in the spaces of our
 intimacy is more urgent than determining of dates." Here, in the home, "the
 finest specimens of fossilized duration" are made "concrete as a result of long
 sojourn" [@bachelard_poetics_1994, 9]. The book shelf, the pantry, the wall,
-and the mantle: these are the locations where the family imposes private order,
-organizes its material life, and into which it secretes its memories,
-preserving and curating artifacts from its own past. For the most part, these
-archives have remained obscured behind closed doors.[^ln5-obscured] Only
-recently have anthropologists and cultural historians have began to document
-and to "read" such spaces. For example, in a chapter on immigrant domestic
-interiors, Svetlana Boym writes about these typically Soviet curio cabinets,
-which present "once a fragmentary biography of the inhabitant and a display of
-collective memory" [@boym_future_2002, 334]. "If there had been such a thing as
-Soviet cultural unconscious," she writes in *Common Spaces*, it would have been
-structured like a communal apartment" [@boym_common_1995, 1610].  Similarly, in
-"Life at Home in the Twenty-First Century," a ground-breaking "ethnoarcheology"
-of contemporary American domestic space, a team of anthropologists (and a
-photographer) document, describe, and interpret the "domestic material worlds"
-of 32 Los Angeles families. A 41 year old father has this to say about his
-family's refrigerator:
+and the mantle: these are the locations where a family can impose private
+order, organize its material life, and into which it secretes its memories,
+preserving and curating artifacts from its own past.
+
+Such private archives are difficult to unearth, as they usually remain hidden
+behind closed doors.[^ln5-obscured] Anthropologists and cultural historians
+have began to document and to "read" such spaces only recently. For example, in
+a chapter on immigrant domestic interiors, Svetlana Boym writes about these
+typically Soviet curio cabinets, which present "once a fragmentary biography of
+the inhabitant and a display of collective memory" [@boym_future_2002, 334].
+"If there had been such a thing as Soviet cultural unconscious," she writes in
+*Common Spaces*, it would have been structured like a communal apartment"
+[@boym_common_1995, 1610]. Similarly, in the *Life at Home in the Twenty-First
+Century*, a ground-breaking "ethnoarcheology" of contemporary American domestic
+space, a team of anthropologists (and a photographer) document, describe, and
+interpret the "domestic material worlds" of 32 Los Angeles families. According
+to the authors, the book represents one of the first systematic attempts to
+study the private space of the modern middle-class household in any culture.
+
+The book gives us valuable glimpses into the everyday psychology of media
+being. For example, a 41 year old father has this to say about his family's
+refrigerator:
 
 > Here is our life on the refrigerator and all the collection of photos and
 > magnets. And you know what? we go up to these pictures and the time and sort
@@ -537,8 +544,8 @@ The authors conclude to write that families purposefully accumulate and arrange
 that their value to the individual cannot be reduced to the material properties
 of the valued object. But, they are not fetishes in the way Marx understands
 the fetishism of commodities, by which the "social character of men's labour"
-can be "stamped upon" the product of that labor [@marx_marx-engels_1978, 321].
-Nor are they property in the Lockean sense, by the virtue of their being
+is "stamped upon" the product of that labor [@marx_marx-engels_1978, 321]. Nor
+are they property in the Lockean sense, by the virtue of their being
 intertwined with the labor of the body [@locke_second_1980, 19]. The objects of
 affect fusion are endowed with emotional and intellectual rather than market
 significance. Therefore, collections of such objects are often said to be
@@ -558,25 +565,26 @@ average 438 visible print artifacts, as compared to 212 CDs and 90 DVDs
 Setting aside, for the time being, the implications of object-affect fusion on
 our understanding of private property, we are for now faced with a more narrow
 problem of curating, reading, understanding, and living in personal archives.
-The attachment of personal affect to private and privelged objects suggests a
+The attachment of personal affect to private and privileged objects suggests a
 practice of literary analysis that differs markedly from the interpretation of
 public books, in a kind of a solipsistic criticism. It is a practice already
-suggested in Michel Foucault's study of hupomnemata in Greco-Roman culture, now
-extended into the contemporary and the everyday. In charting out that
-unfamiliar territory of the personal archive, I am confounded by known models
-of communication, advanced by thinkers like Ferdinand de Saussure, Roman
-Jacobson, and Claude Shannon: all models that divide the communicative act into
-"messages," "senders," "addressants," and "addressees." The object state of
-media being instead implies a prodigious archive of private literature, where
-the traditional distinction between subject and object collapses. Beckett's
-Krapp is both the sender and the reciever of a message, even then content of
-which strictly contains an image of the same subjective self. Private
-interpretation of private archives: I do not yet know what such an activity
-entails, but, given my own daily phenomenological account of reading and
-writing, I suspect it to be a prevalent mode of communication and one that
-involves a hermeneutics not taught formally in schools and universities. Our
-time spent browsing the archive of another makes up for a small fraction of the
-time spent on inhabiting the archive of the self.
+suggested in Michel Foucault's study of hypomnemata in Greco-Roman culture, now
+extended into the contemporary and the everyday [@foucault_self_1983, 415-430;
+@foucault_self_1998]. In charting out that unfamiliar territory of the personal
+archive, I am confounded by known models of communication, advanced by thinkers
+like Ferdinand de Saussure, Roman Jacobson, and Claude Shannon. These models
+universally envision the communicative act to comprise "messages," "senders,"
+"receivers," "addressants," and "addressees." The state of media being instead
+implies a prodigious archive of private literature, where the traditional
+distinction between subject and object collapses. Beckett's Krapp is both the
+sender and the receiver of a message, even then content of which strictly
+contains an image of the same subjective self. Private interpretation of
+private archives: I do not yet know what such an activity entails, but, given
+my own daily phenomenological account of reading and writing, I suspect it to
+be a prevalent mode of meaning making and one that involves hermeneutics that
+cannot be reduced to interpretation on the level of ideas involved. The care of
+intellectual furnishings must also involve a measure of physical manipulation:
+mental carpentry.
 
 [^ln5-hoard]: See for example @kellett_does_2003, 458: "Emotional attachment to
 objects are commonplace."
