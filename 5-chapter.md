@@ -67,7 +67,7 @@ Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer feels fully congruent with his former self, "that
 stupid bastard" [@beckett_complete_2006, 221]. He sometimes has to consult a
 dictionary to understand what the voice on the tape says. At other times he
-cannt read his own handwriting. And often he simply loathes the voice from the
+cannot read his own handwriting. And often he simply loathes the voice from the
 past:
 
 > Hard to believe I was ever that young whelp. The voice! Jesus! And the
@@ -77,15 +77,15 @@ past:
 > 221].
 
 Who is Krapp laughing with? There are at least three of him present on stage:
-the voice on the tape, the one who speaks and records now, and the implied one,
-to whom the recording is addressed. We do not, as a matter of everyday life,
-perceive our consciousness to be divided in such a way. Whatever is meant by the
-"unity of consciousness," it is here created through literary conceit, and on
-the stage, with an aid of a tape recorder. Beckett reminds us of the fragility
-of that illusion. The work (*Krapp's Last Tape*) gives unity to the
-multiplicity of individual character representations. For the reader, Krapp at
-all points of time, still equals Krapp. However, within the play's fictional
-world, Beckett breaks the unity into discrete yearly check-in points,
+the voice on the tape, the one who speaks into the microphone now, and the
+implied one, to whom the recording is addressed. We do not, as a matter of
+everyday life, perceive our consciousness to be divided in such a way. Whatever
+is meant by the "unity of consciousness," it is here created through literary
+conceit, and on the stage, with the aid of a tape recorder. Beckett reminds us
+of the fragility of that illusion. The work (*Krapp's Last Tape*) gives unity
+to the multiplicity of individual character representations. For the reader,
+Krapp at all points of time, still equals Krapp. However, within the play's
+fictional world, Beckett breaks the unity into discrete yearly check-in points,
 externalized onto magnetic storage media. The tape physically connects Krapp in
 time with his past and future selves. Sound recording collapses images of past
 and present self states, implied simultaneously on one at the same stage.
@@ -136,10 +136,10 @@ capacity for recursion [@hofstadter_i_2008]. As a species, we are perhaps
 uniquely capable of modeling (externalizing) our own behavior, of once again
 internalizing that model, and of subsequently altering our course of action to
 deviate (n+1) from that original, fixed, and now no longer fully congruent
-image of ourselves (n-1).[^ln5-james-recur]  But where does such modeling and
+image of ourselves (n-1).[^ln5-james-recur] But where does such modeling and
 externalizing take place? Beckett's play unfolds by the logic of media being.
 Krapp's library constitutes a literature and an archive of sorts, but unlike
-other literary structures, his documents imply the self as both subject and
+other literary structures, his documents imply a self as both subject and
 audience of communication. To put it plainly: Krapp is talking to himself, in
 the archive.
 
@@ -151,7 +151,7 @@ read all the forgone history of its owner."
 
 Edmund Husserl called such self-directed mode of communication "subjective
 expression" [@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
-@platt_reflexivity_1989]. Bertrand Russel called it similarly "egocentric
+@platt_reflexivity_1989]. Bertrand Russel called it likewise "egocentric
 particulars": words like "this" and "here" that depend on the time and location
 of the person doing the talking. Russel writes that "'this' depends upon the
 relation of the user of the word to the object with which the word is
@@ -223,7 +223,7 @@ seven inches in diameter and were often sold in flat rectangular storage
 sleeves, somewhere between 1/4 and 2 inches thick, depending on the tape
 format. Reading from the ledger, Krapp counts at least nine boxes. Spool five,
 recorded on his thirty-ninth birthday, is found in box three. Given modest
-storage-box capacity, we would expect about fifteen to twenty spools per box.
+storage-box capacity, we would expect some fifteen to twenty spools per box.
 Which means that after more than forty years of recording, Krapp would have
 accumulated on the order of several hundred reels, and at least as many hours
 of recording (assuming, conservatively, that his recording sessions lasted
@@ -253,36 +253,37 @@ Jacques Derrida's "Archive Fever," given as a lecture in 1994 during a
 conference entitled "Memory: The Question of Archives" and later published in
 *Diacritics*, remains perhaps the paradigmatic text in the tradition that takes
 the archive to be a predominately public space, subject to the power dynamics
-between institutional patrons and custodians. For Derrida, the archive "has the
-force of law, of a law which is the law of the house (*oikos*), of the house as
-place, domicile, family, lineage, or institution" [@derrida_archive_1995 , 12].
-Such a place preserves but also shelters the documents within. The archive
-remembers and forgets, as Kenneth E. Foote reminds us in the *American
-Archivist* [@foote_remember_1990]. Derrida goes further to recover the implicit
+between patrons and custodians. For Derrida, the archive "has the force of law,
+of a law which is the law of the house (*oikos*), of the house as place,
+domicile, family, lineage, or institution" [@derrida_archive_1995 , 12]. Such a
+place preserves but also shelters the documents within. The archive remembers
+and forgets, as Kenneth E. Foote reminds us in the *American Archivist*
+[@foote_remember_1990]. Derrida goes further to recover the implicit
 etymological roots of the word itself. "Archive" relates to *arkheion*:
 "initially a house, a domicile, and address," but also *archons*, or "those who
 commanded" [@derrida_archive_1995, 9]. In Derrida's understanding, the archive
 is thus both a location and a power structure. And ultimately, it is an
 institution, like the Freud Museum, where *Archive Fever" was first presented.
 
-Consider by contrast Krapp's dingy collection. It is a house, but hardly an
-institution. It receives neither grants nor visitors, and Krapp himself is
-hardly a proper *archon*: he throws the tapes down in anger, and unlike Freud,
-he leaves no heirs to continue his lineage. By contrast to the Freud Museum,
-his collection consists mostly of documents that have only a personal
-significance. His archive has less to do with social power structures and more
-with the mechanisms of private identity formation, remembrance, and nostalgia.
-Krapp lives in and through his archive. To mimic Derrida here, we could say
-that his collection is a recollection. It is a yearning for a house:
-"nostalgia," from the Greek *nostos*, a homecoming [@_nostalgia_2015]. This
-chapter tells a story about one such domicile, where the contemporary
-librarians of the self commonly make a home.
+Consider by contrast Krapp's dingy collection. It is a house, but one would
+strain credulity to call it an institution. It receives neither grants nor
+visitors. Krapp himself can hardly fulfill the role a proper *archon*: he
+throws the tapes down in anger, and unlike Freud, he leaves no heirs to
+continue his lineage. By contrast to the Freud Museum, his collection consists
+mostly of documents that have only a personal significance. His archive has
+less to do with social power structures and more with the mechanisms of private
+identity formation, remembrance, and nostalgia.  Krapp lives in and through his
+archive. To mimic Derrida here, we could say that his collection is a
+recollection. It is a yearning for a house: "nostalgia," from the Greek
+*nostos*, a homecoming [@_nostalgia_2015]. This chapter tells a story about one
+such domicile, where the contemporary librarians of the self commonly make a
+home.
 
 ### 5.2 Media Being
 
 Reading the play through the lens of media production gives us more than just
 notes on stage design. *Krapp's Last Tape* captures the mid-century rise in
-commonplace personal archiving practices, which were too cumbersome and too
+commonplace personal archiving practices, of the kind too cumbersome and too
 costly to sustain only a few decades prior. The media lens reveals the play as
 a commentary on a particular mode of being, through a sense of self that spans
 externalized representations of archived consciousness: ledgers, spools, and
@@ -291,15 +292,15 @@ the private archive harbors personal artifacts, which make sense only
 indexically, in relationship to lived experience. It is perhaps for this reason
 that other people's diaries, family photo albums, and curio cabinets can be so
 obtusely tedious to encounter. They are strictly meaningless to others. We can
-only relate to the pathos of curating such a collection, not its meaning. As
-librarians of self we take our own notes, keep journals, write to-do lists, and
-take self portraits to remember the way we were and to provide a sense of
-continuity with the way we are now. The collection sends a message to the
-future: remember this, this is who you are. It is here, in the personal
-archive, one encounters the fragility of mind's recall. Sounds, images, smells,
-and memories fade where the artifact endures. The personal archive can thus be
-seen as an attempt to shore up the natural human defences against the forces of
-time, decay, amnesia, and oblivion.
+only relate to the pathos of curating such a collection and not fully to its
+affective meaning. As librarians of self we take our own notes, keep journals,
+write to-do lists, and take self portraits to remember the way we were and to
+provide a sense of continuity with the way we are now. The collection sends a
+message to the future: remember this, this is who you are. It is here, in the
+personal archive, one encounters the fragility of mind's recall. Sounds,
+images, smells, and memories fade where the artifact endures. The personal
+archive can hence be seen as an attempt to shore up the natural human defences
+against the forces of time, decay, amnesia, and oblivion.
 
 The synchronic self occupies the present moment on a thin crest of biological
 impermanence.[^ln5-james] We are simply not that good at remembering things,
@@ -317,7 +318,8 @@ archive. She writes that "perhaps the current rush to 'archive' has less to do
 with place/thing/practice and more with trying to save and preserve a sense of
 self as we face the uncertain future, emphasizing our agency in the selection
 and meaning making process that we fear threatens to outpace us"
-[@taylor_save_2012].
+[@taylor_save_2012]. The diachronic self emerges out of the instinct for
+self-preservation.
 
 In this light, the making of lists, new years resolutions, the writing of
 diaries, self portraiture, and audio dictation---all these activities can be
@@ -330,24 +332,18 @@ will remain of my [interrupted] sadness," Sartre writes, "except that I
 obligingly promise it an appointment for later after the departure of the
 visitor" [@sartre_being_1993, 104]?  *Krapp's Last Tape* reminds us of the
 ubiquity of such appointments. The aptly named Soundmirror ("remember their
-laughter forever"), encourages the home archivist to commit happy and private
+laughter forever") encourages the home archivist to commit happy and private
 mental states into externalized storage. More than that, it implies an ongoing
 commitment to continually revisit one's own past representations: to label, to
-organize, to archive, to browse, and to re-encounter. These are private
-commitments, but also openly manufactured and monetized by media makers.
-"Remember forever," also contains a threat, "lest you forget." The content of
-the messages in the reflection is not really about "their laughter" at all.
-The advertisements for personal storage media encourage their users to cherish
-their own memories, not their loved ones. Strictly speaking, the personal
-recorder is a device for transmitting memories (and not events) across time.
+organize, to archive, to browse, and to re-encounter.
 
-"It is that the word or sign man uses is the man himself," Charles Sanders
-Peirce wrote for the *Journal of Speculative Philosophy* in 1868
-[@peirce_consequences_1868, 156; also quoted in @weel_changing_2012, 14-5].
-This short piece on "some consequences of four incapacities," concludes with a
-tantalizing proposition, that, at the end of the nineteenth century,
-anticipates the turn towards extended cognition in the second half of the
-twentieth. Peirce writes:
+These are private commitments, but also openly manufactured and monetized by
+media makers.  "Remember forever," also contains a threat, "lest you forget."
+The content of the memories in the reflection does not contain "their laughter"
+at all. "It is that the word or sign man uses is the man himself," Charles
+Sanders Peirce wrote for the *Journal of Speculative Philosophy* in 1868
+[@peirce_consequences_1868, 156; also quoted in @weel_changing_2012, 14-5]. The
+spool holds what Peirce called "the external sign of man." He writes:
 
 > For as the fact that every thought is an external sign, taken in
 conjunction with the fact that life is a train of thought, proves that man is a
@@ -361,20 +357,51 @@ From these premises he concludes to write that:
 > intellectual character of a thing [...] thought is what it is, only by virtue
 > of its addressing a future thought [...] In this way, the existence of
 > thought now, depends on what is to be hereafter; so that it has only a
-> potential existence, depended on the future thought of the community
-> [@peirce_consequences_1868, 157].
+> potential existence [@peirce_consequences_1868, 157].
 
-The "future thought of the community" suggests a model of knowledge formation
-that cannot be reduced to private mental life: social epistemology. Yet another
-idea implicit in these lines, takes the consistency of mental life to happen
-through externalized, although still somewhat private (individual), forms of
-mental persistence. The concept of media being builds on the idea of
-self-consistency in James, Pierce, and Beckett. All three of these writers
-articulate a philosophy of media being, which although not formalized,
-contains, in my attempt to consolidate it, a set of related propositions that,
-in complement to mechanisms of collective memory formation, identify pervasive
-but still not well-studied practices of personal self-persistence through
-storage media.
+From the idea of the externalized mental sign Peirce derives a model of
+dialogical communication in which the consistency or the "intellectual
+character of a thing" is insured through a series of short-circuited
+communicative acts, which take the self as source, address, and content of
+communication.
+
+| addressant (sender) | sign (message)   | addressee (receiver) |
+|---------------------|------------------|----------------------|
+| self                | self             | self                 |
+
+The very meaning of media, for Peirce, is set in the opposition to the
+immediate, or that which cannot be analyzed or explained. He calls the
+immediate, the Unintellectual. It runs "in a continuous stream through our
+lives," he writes. "It is the sum total of conciousness, whose mediation, which
+is the continuity of it, is brought about by a real effective force behind
+conciousness" [@peirce_consequences_1868, 149]. The immediate, or synchronic
+being, has, in this sense, no recourse to self-reflection. Self reflection, in
+the Cartesian sense, must already involve a splintering of conciousness into a
+subject and object---the thing that does the reflection and the thing reflected
+upon. The self that is left behind must, according to Peirce, be an
+externalized, material self. The continuity of the diachronic self therefore
+happen in the process of continual self abnegation. We secrete ourselves into
+an external physical sign, reflect, secrete again, and so on. Media, in that
+sense, is more than intervening substance or means to communication. For
+Peirce, it is the very continuity of consciousness. "It is hard for man to
+understand this," he writes, "because he persists in identifying himself with
+his will, his power over the animal organism, with brute force." But the
+organism is only an "instrument of thought." Instead, the identity of man
+consists in the "consistency of what he does and thinks." That consistency is
+"the intellectual character" of a human being, and not "the glassy essence" of
+synchronic consciousness so privileged in Cartesian tradition
+[@peirce_consequences_1868].
+
+I bring Peirce to bear on the discussion not to get lost in metaphysical
+commentary on Descartes, but to support the claim to media being as a common
+practice of material self persistence, which constitutes if not the
+determining, then at least an instrumental platform for the complex
+psychological dynamics of private mental life. The concept of media being
+builds on the idea of self-consistency in James, Pierce, and Beckett. All three
+of these writers articulate a psychology of the diachronic self through media
+being in a set of related propositions that, in complement to mechanisms of
+collective memory formation, identify pervasive but still not well-studied
+practices of personal self-persistence through storage media.
 
 The first of these propositions distinguishes a range of media structures that
 serve to externalize and to preserve private mental states. The second sees
@@ -399,9 +426,9 @@ am compelled to view the material contexts of media being beyond the discussion
 about preservation. Fundamentally, the various cognitive artifacts of a
 material self must constitute a protected class of objects, which, unlike most
 other dead things, participate in the realm of ethics and aesthetics. If these
-structures embody an integral part of the mind, as James and others
-suggest, they must also properly participate in intellectual ideals like
-"clarity of thought," "free thought," or "critical thinking."
+structures embody an integral part of the mind, as James and others suggest,
+they must also properly participate in intellectual ideals like "clarity of
+thought," "free thought," or "critical thinking."
 
 These are perhaps heady thoughts, to be met with a measure of skepticism
 towards the limits of literary theory, book history, and library science. After
