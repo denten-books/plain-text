@@ -15,7 +15,7 @@ header-includes:
 
 ## Motivation
 
-This book is a response to a particular situtation of a software engineer
+This book is a response to a particular situation of a software engineer
 encountering a literary scholar. For a long stretch of my professional life,
 these two roles remained separate from each other. I worked at one thing and I
 studied another. At the time, I simply did not think that code has anything to
@@ -23,29 +23,36 @@ do with poetry. With time, I grew to realize that they have everything to do
 with each other and saw that all forms of contemporary textuality, from sacred
 to profane, pass through some form of codified mediation. The machine consumed
 most of my waking hours. Initially, at the point of contact, the two selves
-spoke different languages. The basic mode of the book reflects a continuing
-reconciliation of vocabularies. It was and continues to be a disoncerting
-process, by which things dear and familiar to me, in both worlds, grew strange,
+spoke different languages. *Plain Text* enacts a reconciliation of
+vocabularies. It was and continues to be a disconcerting process, by which
+things dear and familiar to me, in both worlds, grew strange and unfamiliar,
 revealing themselves to be sometimes less than and sometimes more than I
 comfortably expected. Nothing could be assumed from the start. Field specific
 jargon, down to the naive foundations, had to be unpacked and examined for
 hidden assumptions that prevented congruence. I heard Lev Manovich once
 describe his massive image panoramas as an artifact of an alien life
 encountering the human condition. My other compatriot and sometimes mentor,
-Svetlana Boym, also considered her estrangement as a critical methodology. It
-is, I believe, an instrumental part of an immigrant's survival mechanism and
-his task: to obstinately retain the discomfort of the encounter. Estrangement,
-at the heart of immigrant or queer poetics, reconciles without seeking
-wholeness and integration.
+Svetlana Boym, also considered her estrangement as a methodology, applicable
+in life and in scholarship. Defamiliarization is, I believe, an instrumental
+part of an immigrant's survival mechanisms. It his task: to obstinately retain
+the discomfort of the encounter with the other. Estrangement, always at the
+heart of immigrant or queer poetics, reconciles without seeking wholeness and
+integration. I dedicate this book then to queers and immigrants, literal and
+figurative---spatial, literary, technological---to those being displaced
+unwillingly, to those exiled within and without, to those who understand the
+need for displacement, to those transgressing purposefully, and to those
+willing to trespass.
 
-My two selves converged on plain text as a primitive field of activity, where
-literary scholarship and software engineering intersect. Much of the book will
-be in the drawing out of what that entails. The reader should not however
-expect something like a complete history of character encoding. Rather, my
-argument progresses from the physical action of the mechanism, through the
-machine, and towards the human. It is but a single pass through a cavernous
-black box, leaving behind traces of illumination that can only reflect the
-vagrancies of the journey.
+My own self-conflicted trespassing converged on plain text as a primitive field
+of activity, where literary scholarship and software engineering intersect.
+Much of the book will be in the drawing out of what that plane entails. The
+reader should not however expect something like a complete history of character
+encoding or a survey of textual theory. Rather, my argument progresses from the
+action of the alphanumerical keyboard switch, through copper and silicon to the
+floating gate and the liquid crystal, and on towards the human. It is but a
+single possible pass through a cavernous black box: a recollection of a passage
+which left behind traces of illumination reflecting the vagrancies of the
+journey.
 
 ## Object of study
 
@@ -61,15 +68,15 @@ textuality includes much more than instructions for "font size" and "paragraph
 justification." Increasingly, devices that mediate literary activity encode
 specific models of governance and control.
 
-The central concern of the book is to dispel the illusion of verisimilitude
-between text on paper and text on the screen. The words may look the same, but
-the underlying material affordances of the medium differ in significant detail.
-As an obvious example, consider a news report that changes slightly based on
-the reader's location, or an e-book reader device that highlights popular
-passages. For a literary scholar, such instability of medium means analysis
-cannot be confined to reading for meaning alone. How will close reading
-persist, when the reading device reconfigures a text dynamically, to fit
-individual taste, mood, or politics? The formulation of this narrowly
+The central concern of the book is therefore to dispel the illusion of
+verisimilitude between text on paper and text on the screen. The words may look
+the same, but the underlying material affordances of the medium differ in
+significant detail. As an obvious example, consider a news report that changes
+slightly based on the reader's location, or an e-book reader device that
+highlights popular passages. For a literary scholar, such instability of medium
+means analysis cannot be confined to reading for meaning alone. How will close
+reading persist, when the reading device reconfigures a text dynamically, to
+fit individual taste, mood, or politics? The formulation of this narrowly
 literary-theoretical concern leads to the broader question of empowered
 human--computer interaction. Building on the work of scholars like Jerome
 McGann, Wendy Hui Kyong Chun, Katherine Hayles, Matthew Kirschenbaum, Lori
@@ -92,10 +99,10 @@ those terms are in everyday use. In clarifying usage, I ask those who may have
 considered themselves mere "users" to become close readers, thinkers, and
 makers of technology, able to apply the same critical acuity to reading code
 and device as they do to the close reading of prose and poetry. Ultimately, the
-book makes a case for the recovery of textual roots already latent in the
-mechanisms of modern computing.
+book makes a case for the recovery of textual roots latent in the machinery of
+contemporary computing.
 
-The book is structured along a trajectory that begins at the material
+I structured the book along a trajectory that begins at the material
 foundations of modern textual technology, moving from the stratum of circuit
 and silicon to reach up, through layers of abstraction (files, folders, and
 operating systems), towards the reader. In following that path, I reconstruct
