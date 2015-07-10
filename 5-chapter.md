@@ -16,38 +16,7 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
-### 6.1 Engelbart + Brodey
 
-Engelbart's lab adopted a conspicuously recursive methodology they called
-"bootstrapping," by which research into creating better research was done by
-enabling research [@engelbart_research_1968, 395]. Elsewhere, Engelbart
-explains bootstrapping "as a process wherein the results of a given effort are
-fed back into the activity in a reinforcing way, so that less internal energy
-is required to achieve bigger results faster." In that light, the production of
-the technical report quoted here was not an activity incidental and secondary
-to research, but was the stated object of research itself.  
-
-"A short computer
-program that is permanently resident or easily loaded into a computer and whose
-execution brings a larger program, such as an operating system or its loader,
-into memory" [@ieee_ieee_1990, 13].
-
-"the techniques being explored are implemented, studies, and evaluated with the
-advantage of intensive everyday use" [@engelbart_augmented_1973, 12].  Much
-later, in the 1990s, Engelbart 
-
-"They must bootstrap themselves into a new kind of ``think,'' into a new climate
-of man-machine interaction, in which men evolve intelligent machines and
-intelligent machines evolve men" [@brodey_human_1967, 86].
-
-Engelbart borrows the idea of "bootstrapping" from . The
-animation of inorganic matter
-
-the material g
-
-Warren Brodey Human Enhancement
-
-### Works Cited
 ### 5.1 The Human Assumption (Heidegger + marx)
 
 I can only begin to work of re-inscribing the A more careful analysis of
@@ -609,6 +578,34 @@ system available to view.
 
 ### 5.4 Freedom of Information
 
+Engelbart's lab adopted a conspicuously recursive methodology they called
+"bootstrapping," by which research into creating better research was done by
+enabling research [@engelbart_research_1968, 395]. Elsewhere, Engelbart
+explains bootstrapping "as a process wherein the results of a given effort are
+fed back into the activity in a reinforcing way, so that less internal energy
+is required to achieve bigger results faster." In that light, the production of
+the technical report quoted here was not an activity incidental and secondary
+to research, but was the stated object of research itself.
+
+"A short computer program that is permanently resident or easily loaded into a
+computer and whose execution brings a larger program, such as an operating
+system or its loader, into memory" [@ieee_ieee_1990, 13].
+
+"the techniques being explored are implemented, studies, and evaluated with the
+advantage of intensive everyday use" [@engelbart_augmented_1973, 12].  Much
+later, in the 1990s, Engelbar
+
+"They must bootstrap themselves into a new kind of ``think,'' into a new climate
+of man-machine interaction, in which men evolve intelligent machines and
+intelligent machines evolve men" [@brodey_human_1967, 86].
+
+Engelbart borrows the idea of "bootstrapping" from . The
+animation of inorganic matter
+
+the material g
+
+Warren Brodey Human Enhancement
+
 Start with the clock manifesto.
 
 CONTOROL SECURITY FREEDOM
@@ -720,3 +717,4 @@ to alter its policies, without necessarily challenging its overall status.
 http://newsoffice.mit.edu/2015/citizens-disobey-enact-change-0519
 
 
+### Works Cited

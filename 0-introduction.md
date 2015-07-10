@@ -13,7 +13,100 @@ header-includes:
 
 ---
 
-## Chapter 0: Introduction
+## Motivation
+
+This book is a response to a particular situtation of a software engineer
+encountering a literary scholar. For a long stretch of my professional life,
+these two roles remained separate from each other. I worked at one thing and I
+studied another. At the time, I simply did not think that code has anything to
+do with poetry. With time, I grew to realize that they have everything to do
+with each other and saw that all forms of contemporary textuality, from sacred
+to profane, pass through some form of codified mediation. The machine consumed
+most of my waking hours. Initially, at the point of contact, the two selves
+spoke different languages. The basic mode of the book reflects a continuing
+reconciliation of vocabularies. It was and continues to be a disoncerting
+process, by which things dear and familiar to me, in both worlds, grew strange,
+revealing themselves to be sometimes less than and sometimes more than I
+comfortably expected. Nothing could be assumed from the start. Field specific
+jargon, down to the naive foundations, had to be unpacked and examined for
+hidden assumptions that prevented congruence. I heard Lev Manovich once
+describe his massive image panoramas as an artifact of an alien life
+encountering the human condition. My other compatriot and sometimes mentor,
+Svetlana Boym, also considered her estrangement as a critical methodology. It
+is, I believe, an instrumental part of an immigrant's survival mechanism and
+his task: to obstinately retain the discomfort of the encounter. Estrangement,
+at the heart of immigrant or queer poetics, reconciles without seeking
+wholeness and integration.
+
+My two selves converged on plain text as a primitive field of activity, where
+literary scholarship and software engineering intersect. Much of the book will
+be in the drawing out of what that entails. The reader should not however
+expect something like a complete history of character encoding. Rather, my
+argument progresses from the physical action of the mechanism, through the
+machine, and towards the human. It is but a single pass through a cavernous
+black box, leaving behind traces of illumination that can only reflect the
+vagrancies of the journey.
+
+## Object of study
+
+Plain text is a file format and a frame of mind. As a file format, it contains
+nothing but a "pure sequence of character codes." In technical terms, it stands
+in opposition to *fancy text*: "text representation consisting of plain text
+plus added information."[^ln-uni] As a frame of mind, it indicates a preference
+for human-readable input and output, for computational tools that are simple
+and elegant, and for open systems that are transparent to the user. The book
+unfolds a history of and an argument for plain text. In making my case, I argue
+that "other information" routinely embedded in all forms of contemporary
+textuality includes much more than instructions for "font size" and "paragraph
+justification." Increasingly, devices that mediate literary activity encode
+specific models of governance and control.
+
+The central concern of the book is to dispel the illusion of verisimilitude
+between text on paper and text on the screen. The words may look the same, but
+the underlying material affordances of the medium differ in significant detail.
+As an obvious example, consider a news report that changes slightly based on
+the reader's location, or an e-book reader device that highlights popular
+passages. For a literary scholar, such instability of medium means analysis
+cannot be confined to reading for meaning alone. How will close reading
+persist, when the reading device reconfigures a text dynamically, to fit
+individual taste, mood, or politics? The formulation of this narrowly
+literary-theoretical concern leads to the broader question of empowered
+human--computer interaction. Building on the work of scholars like Jerome
+McGann, Wendy Hui Kyong Chun, Katherine Hayles, Matthew Kirschenbaum, Lori
+Emerson, Lisa Gitelman, and Johanna Drucker, I contend that textual legibility
+is becoming increasingly crucial to a critical understanding of what it means
+to remain human in a digital world.
+
+Software developers, graphic designers, system administrators, and project
+managers routinely architect technologies that have deep cultural significance,
+affecting a range of cultural practices: from the ways we relate to our family
+and friends to the formation of shared cultural archives. Because such
+"cultural techniques" are formative of our culture, supposedly technical
+decisions like choosing a text editor, a filing system, or a social networking
+platform cannot be adequately addressed in shallow instrumental terms limited
+to efficacy, speed, or performance. A secondary aim of this volume is therefore
+to convince computer "users" to view their computational environments as a
+literary system of sorts. I mean a "literary system" differently to what one
+might conventionally mistake for a "binary" or "digital" one, however imprecise
+those terms are in everyday use. In clarifying usage, I ask those who may have
+considered themselves mere "users" to become close readers, thinkers, and
+makers of technology, able to apply the same critical acuity to reading code
+and device as they do to the close reading of prose and poetry. Ultimately, the
+book makes a case for the recovery of textual roots already latent in the
+mechanisms of modern computing.
+
+The book is structured along a trajectory that begins at the material
+foundations of modern textual technology, moving from the stratum of circuit
+and silicon to reach up, through layers of abstraction (files, folders, and
+operating systems), towards the reader. In following that path, I reconstruct
+the passage of an electron from the mechanical action of the keyboard, to
+magnetic storage medium, and to liquid crystal, which, together, give rise to
+pixels, letters, words, books, and literature. In using this approach, my book
+introduces a method of textual microanalysis. Where distant reading perceives
+patterns across large-scale literary corpora, microanalysis breaks textuality
+down to its minute constituent components. It is at this level that I find that
+readers and writers are in danger of becoming fundamentally alienated from the
+immediate material contexts of their knowledge production.
 
 Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
 American Philosophical Society*, Frank Halstead notes that "it is hard to say
@@ -57,31 +150,7 @@ do well to take heed of textual building blocks at their foundation. Text
 matters because how it is encoded, transmitted, and stored decides who gets to
 decode, receive, and access.
 
-[^ln-char]: There are many caveats here, to be explored later. Follow along
-with exercises related to the discussion in the Technical Appendix.
-
-[^ln-human]: Recent theory challenges the conceptual boundaries between
-humans and machines in a concerted way. Perhaps, such boundaries were never
-that clearly articulated in the first place. It is also likely that other
-modalities of being are possible on the spectrum between human and machine, or
-human and complex system. We will have a chance to explore these possibilities
-in second half of the book. For now, I ask that the reader simply rely on the
-colloquial, pre-theoretical understanding of both person and instrument.
-However intertwined the hand and the hammer can become, there is an intuitive
-way in which a child can separate one from the other. There is deep-rooted
-instinct at work in that distinction, one that cannot and should not be
-dismissed as mere naiveté. The concept of a human is in itself a powerful
-theoretical construct, and, as I will argue throughout, one necessary, not only
-for the understanding of key concepts in literary theory and computer science,
-but also in articulating an ethics of critical computation.
-
-[^ln-meaning]: I write "meaning" in quotation marks, because the question of
-whether it makes sense to talk about meaning for artificial agents is a
-question that will remain unresolved, at least until the later chapters, when
-we have the chance to discuss notions of data and information as
-meaning-carrying units.
-
-### 0.1 In Search of a Subject
+### In Search of a Subject (Thesis)
 
 "Media determine our situation," Friedrich Kittler wrote in his seminal
 *Gramophone, Film, Typewriter* [@kittler_gramophone_1999, xxxix]. The book
@@ -162,235 +231,7 @@ draw on a multiplicity of historical practices that suggest an alternative mode
 of engagement with the computational environment, one in which literature has
 plenty to say.
 
-### 0.2 Microanalysis
-
-In a study on the construction of scientific knowledge, Bruno Latour and Steve
-Woolgar perform what they call an ethnography of a science lab, tracing the
-passage of ideas from applied experiment to literary production. For Woolgar
-and Latour a laboratory functions as a factory of sorts, ingesting matter and
-artifact to produce fact and inscription, beyond naive notions of
-knowledge-making and discovery [@latour_laboratory_1986]. A scientist could
-object that inscription-making is merely a by-product of the lab's research
-activity. Woolgar and Latour challenge that view in showing how laboratory
-participants closest to the material conditions of knowledge production are, at
-the same time, the most marginalized members of the research process. Lab
-technicians handle the matter of mass spectrometers and bioassays. Doctorate
-degree holders, by contrast, spend most of their time handling inscription
-devices like printers and computer consoles. Were we to observe the laboratory
-from the outside, as a black box of sorts, we would see the flow of
-instrumentation and matter inside and, after a period of gestation, a flow of
-inscriptions out.
-
-Although much cited in the study of culture, science, and technology,
-*Laboratory Life* has had curiously little impact on the study of literature,
-even though Latour and Woolgar borrowed much the other way around. In the 1986
-postscript to the American edition, they remark on the broad trend in literary
-theory toward treating texts as objects of interpretation, disavowing the kind
-of criticism aimed at the "real meaning of texts," at "what the text says,"
-"what really happened," or "what the authors intended"
-[@latour_laboratory_1986, 273]. Similarly, the authors want to aim research in
-the social study of science at the "contingent character of objectification
-practices." Science, in their view, is itself a type of literary system,
-"generating texts whose fate (status, value, utility, facticity) depends
-subsequently on interpretation" [@latour_laboratory_1986, 273]. Throughout the
-book, Woolgar and Latour use the term literature to mean something "inscribed,
-printed, or published," a combination of verbs that coincides with "literature"
-consistently throughout [@latour_laboratory_1986, 47-53]. Viewed as a work of
-literary theory, *Laboratory Life* reifies the research program started by the
-post-structuralists. Where Jacques Derrida could remark offhandedly that
-"everything is a text,"[^ln2-derrida] Woolgar and Latour make concrete the
-literal transformation of matter into text. No longer was literature an
-illustration of something that happens in the laboratory: Latour and Woolgar
-showed the laboratory functioning as an inscription-making machine.
-
-[^ln2-derrida]: This is a bit of a post-structuralist caricature, but it is not
-difficult to find direct sources expressing the idea. For example, see John
-Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
-Conversation with Jacques Derrida*, "I often describe deconstruction as
-something which happens. It's not purely linguistic, involving text or books.
-You can deconstruct gestures, choreography. That's why I enlarged the concept
-of text. Everything is a text" [@caputo_deconstruction_1996].
-
-The conventional way to understand Woolgar and Latour brings the interpreter
-into the laboratory, breaking the illusion of scientific objectivity: instead
-of "discovering" facts, scientists construct them (therefore, *social
-constructivism*). Paradoxically, as Latour and Woolgar worked to undermine the
-empirical unity of science (turning it into a kind of hermeneutics), they
-performed literary analysis as an empirical method. To "read" the laboratory,
-researchers observed the space in person, embedded into the fabric of its
-everyday activity. The laboratory becomes visible through a careful
-micro-ethnography. The reader examines a range of evidentiary materials on
-their way to literary output, like floor plans, research samples, dialog
-transcriptions, time sheets, and logbooks.
-
-To view Woolgar and Latour as scholars of literature (and not just of
-laboratories) is to open up the floodgates of textuality. The laboratory, the
-courthouse, the hospital---these institutions cannot be reduced to text, but
-the lesson of *Laboratory Life* is that they are, in part, literary systems.
-Beneath every scientific discovery, every popular song, every film, radio, or
-television serial, every art or architectural project, every political office,
-every legal judgment, every restaurant meal, every doctor's prescription, every
-website, and every machine manual---beneath that giant and perplexing pile of
-human activity lies a complex network of circulating textual documentation.
-Woolgar and Latour show that literary scholarship can involve more than just
-reading books, but also making visible that textual undercurrent: following it
-and mapping its movements across rooms and offices, all the while exposing the
-mechanisms of its mutation and locomotion. It is an exciting prospect: to view
-the hospital as a library, where cadres of physicians and administrators
-convert human stories into diagnoses, into controlled vocabularies, into files,
-into billable codes, into inscriptions, and into archives. Or to see the legal
-system as a process of literary discovery, where legions of attorneys and
-paralegals pore over terabytes of textual material, transforming inscription
-into evidence. That is not all these institutions are, but they are also that;
-and there is much work to be done there for a scholar of literature.
-
-Such textual proliferation comes at a cost. Until recently, the bread and
-butter of literary scholarship has been close reading. Close reading, like
-critical thinking, is an idea more easily performed than explained, because the
-details become contentious as soon as they are formalized.[^ln2-close] I will
-tread carefully, therefore, by committing myself to a broad definition of close
-reading that involves some notion of deliberate and reflective practice aimed
-at deep comprehension. The Partnership for Assessment of Readiness for College
-and Careers (PARCC), the organization responsible for the controversial
-Common Core standards being implemented in schools across the United States
-today, promotes close reading as "thorough," "methodical," and "analytical"
-practice that "enables students to reflect on the meanings of individual words
-and sentences; the order in which sentences unfold; and the development of
-ideas over the course of the text, which ultimately leads students to arrive at
-an understanding of the text as a whole" [@parcc_parcc_2012, 7]. The general
-movement here is from "text" on the page to "work" (text as a whole, in the
-language of the report). The model of textuality implicit in the institutional
-project of close reading assumes an environment of received literary canons,
-naturally accessible to the human intellect. For the duration of the "Gutenberg
-galaxy," the age of print, a well-educated person might have been expected to
-internalize some several hundred or perhaps thousands of major texts
-constituting the canon. Close reading was honed to operate on that naturalized
-scale.
-
-The expansion of the textual field and its relative liberation from physical
-media have radically increased the cognitive demands of literary engagement.
-The pipeline between text and work has lengthened considerably. On the one
-side, the matter of canon formation can no longer be relegated to stable,
-long-term systems of social filtering. Seen from the perspective of a literary
-interface, the database, the social stream, and the search engine are tools for
-dynamic, "on the fly," generative canon-formation. Consider the task of finding
-an unknown (to me) factoid online, about philosophy in the times of
-Andalusian Spain, for example. Where in the past I might have started with a
-subject catalog compiled by librarians, today I construct a search query, using
-resources that I believe will return a reasonably authoritative list of texts
-on the subject. The search engine, in effect, replaces (or rather complements)
-centuries-long processes of canon-formation. A near-instantaneous list of
-results now becomes my ephemeral, but nevertheless authoritative, collection of
-relevant literature.
-
-Each text in the returned list still requires the instrumentation of close,
-analytical interpretation. However, the same discipline of critical and
-reflective deliberation exercised on the level of an individual text needs to
-also be exercised on the level of procedurally generated search engine results:
-Where to search? Using what engine? How to construct the query? What are the
-implicit biases of the system?  The academic question of canon-formation
-transforms into a (not yet critical) practice of rapid, iterative, generative
-canon-making. Whatever ideals motivate close reading between "text" and "work"
-surely must drive the process on the level of dynamic corpus composition.
-
-The various practices of distant reading arise from the condition in which
-canons are no longer accessible, in their entirety, to the unaided (natural)
-human intellect. These include distant reading and macroanalysis in literary
-studies [@jockers_macroanalysis_2013; @moretti_distant_2013], culturomics in
-economy [@aiden_uncharted:_2014], e-discovery in law
-[@scheindlin_electronic_2004; @scheindlin_electronic_2009], automatic essay
-evaluation in education [@shermis_handbook_2013], and medical informatics in
-medicine [@shortliffe_biomedical_2013], among others. At the foundations of
-these nascent disciplines is a shared toolkit of statistical natural language
-processing [@manning_foundations_1999; @jurafsky_speech_2008], automatic
-summarization [@radev_centroid-based_2004; @nenkova_pyramid_2007], machine
-learning [@rasmussen_gaussian_2006; @flach_machine_2012], network analysis
-[@opsahl_node_2010; @szell_measuring_2010; @takhteyev_geography_2012], and
-topic modeling [@wallach_topic_2006; @blei_probabilistic_2012].
-
-![Micro, macro, and close reading.](images/micro.png)
-
-Where distant reading and macroanalysis are concerned with text aggregates,
-microanalysis, of the type suggested (but not carried out to its logical
-conclusion) by Kittler and Latour and Woolgar, occupies the other side of the
-text--work equation. Note that contrary to what one may intuit, distant reading
-often happens prior to close reading and not the other way around. In most
-cases, the reader must find the text before analyzing it. Canons, corpora,
-collections, libraries, and archives are all aggregates that mediate the
-process of discovery.
-
-Microanalysis, too, constitutes a study of mediation, but on the level of
-physical minutiae otherwise not observed in cursory exploration. The
-instruments of microanalysis may coincide with computational tools, designed to
-find hidden patterns lurking above or beneath a given document.[^ln2-iarkho] The
-micro-instrumentation might also include a screwdriver, a binding needle, or a
-soldering iron: sharp tools that help to pry open and to scrutinize otherwise
-magical textual black boxes.
-
-[^ln2-iarkho]: I borrow the term "microanalysis" from the largely forgotten
-Russian literary scholar and member of the Moscow Linguistic Circle, Boris
-Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
-writes: "I understand 'atomism' as a sort of an ideal aspiration, as an
-orientation toward the liminally small. But under no circumstances do I
-advocate working with hypothetical quantities, like molecules, atoms,
-positrons, and so on, which are located beyond the limits of perception. That
-this applied mythology gave us such splendid results in chemistry, should not
-conceal its true nature. Tomorrow, all such explanations of visible through the
-invisible could give way to other hypotheses, as was the case with their no
-less fertile predecessors (elemental spirits, phlogiston, and light ether). But
-the cell, the nucleus, and the chromosome endure as lasting accomplishments of
-microanalysis. I suggest to move as far as a microscope can reach, and no
-further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the most
-quantitatively inclined of the Russian Formalists, microanalysis involved
-systematic application of statistical methods to the study of literature.
-
-The pre-modern model of literary transmission assumes relatively short physical
-distances separating authors, texts, and readers. Were I to write these words
-in front of you, on paper, I would simply pass the page into your hands. In
-receiving this text, you could be fairly certain that no third party meddled in
-the process of passing the note. When communicating in this way, it makes sense
-to talk about notions like "authorial intent" and "fidelity to the original,"
-because the authors and their works are thought to occupy the same contiguous
-space and time. The advent of the cheap mechanical reproduction of print (for
-the sake of brevity let's say the printing press) has introduced a range of
-devices made to mediate between the author and the reader. Distance, time, and
-mediation subsequently weakened facile notions of authorial fidelity and
-intent. At the very least, we know that editorial practices, publishing
-markets, and communication technologies can introduce an unintended element of
-noise into the channel. At worst, long-distance, asynchronous communication is
-susceptible to "man-in-the-middle" attacks, by which the content of
-communication is maliciously altered by a third party [@needham_using_1978].
-
-Changing material conditions of textual transmission push against familiar
-literary critical ideas. For example, as the mechanical reproduction of print
-weakens the material basis for authorship attribution, the notion of authorship
-itself undergoes change. That is not say that the author is dead, as Barthes
-would have it. Authors continue to live and to collect royalties from the sale
-of their works. The weakening of the authorship function merely makes certain
-ways of talking about things like "authorial intent" and "fidelity to the
-original" difficult to sustain. Massively collaborative writing projects like
-Wikipedia and procedural narrative generation further erode ideas of authorial
-production based on individual human agency. Yet, it would be a mistake to
-believe that the myth of autopoiesis (the literature that "writes itself,"
-writing that writes, discourse that speaks, etc.)[^ln2-varela] can displace the
-myth of the author. A discipline of close attention to the atomic particulars
-of encoding, transmission, storage, and the decoding of text at the site if its
-application to the human condition ultimately aims to reclaim subjective
-agency, in motion.  This may seem strange at first: to recover the subject in
-the physical minutiae of the literary--technological encounter. Yet the point
-of contact is crucial, for it is here that the subject seems to disappear, in a
-compressed moment of time that needs to be unpacked with some precision.
-
-[^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
-5; @nuttall_new_2007, 6-25.
-
-[^ln2-survey]: I can only give anecdotal evidence here, as I often put this
-question before my graduate students at the beginning of the semester, with the
-reported results.
-
-[^ln2-close]: See [@lentricchia_close_2003] and [@fish_how_2011]. 
-
-### 0.3 Ghost in the Machine
+### Object of Study
 
 Why do we call some software an "application"? Not until the 1960s did the
 coinage "software application" enter the English language.[^ln2-app] Before
@@ -404,13 +245,6 @@ grammatical object (as in "the entity that is acted upon")
 [@allerton_generating_1978]. Where can one locate the field of literary,
 textual application to human experience? And what is at stake in drawing the
 field's boundaries?
-
-[^ln2-app]: In the *New York Times* archive, the phrase first appeared in 1985
-[@new_york_times_briefs_1984]. In the Google Books corpus the bigram appears
-first in *Astronautics & Aeronautics: A Publication of the American Institute
-of Aeronautics and Astronautics*, under the rubric of "Missile Guidance Systems
-Programming"
-[@american_institute_of_aeronautics_and_astronautics_astronautics_1965].
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concluded the last survey of Public Participation in the Arts conducted by the
@@ -474,15 +308,6 @@ whatever comes next. But, because the field of literary studies (like any
 discipline) has instituted these foundational taxonomies at a particular point
 of time, its institutions may have difficulty perceiving newly-emerged forms of
 literary evolution.
-
-[^ln2-internet]: The NEA study has this to say on the topic of What is
-responsible for the decline of literary reading?: "If the 2002 data represent a
-declining trend, it is tempting to suggest that fewer people are reading
-literature and now prefer visual and audio entertainment. Again, the
-data---both from SPPA and other sources---do not readily quantify this
-explanation [...] the Internet, however, could have played a role. During the
-time period when the literature participation rates declined, home Internet use
-soared" [@nea_reading_2004, 30].
 
 In his 2004 *Humanism and Democratic Criticism*, Edward Said wrote about the
 "fundamental irreconcilability between the aesthetic and the non-aesthetic,"
@@ -746,6 +571,203 @@ ready to move beyond the obvious tautology.
 
 
 
+
+### Methodology
+
+#### Microanalysis
+
+In a study on the construction of scientific knowledge, Bruno Latour and Steve
+Woolgar perform what they call an ethnography of a science lab, tracing the
+passage of ideas from applied experiment to literary production. For Woolgar
+and Latour a laboratory functions as a factory of sorts, ingesting matter and
+artifact to produce fact and inscription, beyond naive notions of
+knowledge-making and discovery [@latour_laboratory_1986]. A scientist could
+object that inscription-making is merely a by-product of the lab's research
+activity. Woolgar and Latour challenge that view in showing how laboratory
+participants closest to the material conditions of knowledge production are, at
+the same time, the most marginalized members of the research process. Lab
+technicians handle the matter of mass spectrometers and bioassays. Doctorate
+degree holders, by contrast, spend most of their time handling inscription
+devices like printers and computer consoles. Were we to observe the laboratory
+from the outside, as a black box of sorts, we would see the flow of
+instrumentation and matter inside and, after a period of gestation, a flow of
+inscriptions out.
+
+Although much cited in the study of culture, science, and technology,
+*Laboratory Life* has had curiously little impact on the study of literature,
+even though Latour and Woolgar borrowed much the other way around. In the 1986
+postscript to the American edition, they remark on the broad trend in literary
+theory toward treating texts as objects of interpretation, disavowing the kind
+of criticism aimed at the "real meaning of texts," at "what the text says,"
+"what really happened," or "what the authors intended"
+[@latour_laboratory_1986, 273]. Similarly, the authors want to aim research in
+the social study of science at the "contingent character of objectification
+practices." Science, in their view, is itself a type of literary system,
+"generating texts whose fate (status, value, utility, facticity) depends
+subsequently on interpretation" [@latour_laboratory_1986, 273]. Throughout the
+book, Woolgar and Latour use the term literature to mean something "inscribed,
+printed, or published," a combination of verbs that coincides with "literature"
+consistently throughout [@latour_laboratory_1986, 47-53]. Viewed as a work of
+literary theory, *Laboratory Life* reifies the research program started by the
+post-structuralists. Where Jacques Derrida could remark offhandedly that
+"everything is a text,"[^ln2-derrida] Woolgar and Latour make concrete the
+literal transformation of matter into text. No longer was literature an
+illustration of something that happens in the laboratory: Latour and Woolgar
+showed the laboratory functioning as an inscription-making machine.
+
+The conventional way to understand Woolgar and Latour brings the interpreter
+into the laboratory, breaking the illusion of scientific objectivity: instead
+of "discovering" facts, scientists construct them (therefore, *social
+constructivism*). Paradoxically, as Latour and Woolgar worked to undermine the
+empirical unity of science (turning it into a kind of hermeneutics), they
+performed literary analysis as an empirical method. To "read" the laboratory,
+researchers observed the space in person, embedded into the fabric of its
+everyday activity. The laboratory becomes visible through a careful
+micro-ethnography. The reader examines a range of evidentiary materials on
+their way to literary output, like floor plans, research samples, dialog
+transcriptions, time sheets, and logbooks.
+
+To view Woolgar and Latour as scholars of literature (and not just of
+laboratories) is to open up the floodgates of textuality. The laboratory, the
+courthouse, the hospital---these institutions cannot be reduced to text, but
+the lesson of *Laboratory Life* is that they are, in part, literary systems.
+Beneath every scientific discovery, every popular song, every film, radio, or
+television serial, every art or architectural project, every political office,
+every legal judgment, every restaurant meal, every doctor's prescription, every
+website, and every machine manual---beneath that giant and perplexing pile of
+human activity lies a complex network of circulating textual documentation.
+Woolgar and Latour show that literary scholarship can involve more than just
+reading books, but also making visible that textual undercurrent: following it
+and mapping its movements across rooms and offices, all the while exposing the
+mechanisms of its mutation and locomotion. It is an exciting prospect: to view
+the hospital as a library, where cadres of physicians and administrators
+convert human stories into diagnoses, into controlled vocabularies, into files,
+into billable codes, into inscriptions, and into archives. Or to see the legal
+system as a process of literary discovery, where legions of attorneys and
+paralegals pore over terabytes of textual material, transforming inscription
+into evidence. That is not all these institutions are, but they are also that;
+and there is much work to be done there for a scholar of literature.
+
+Such textual proliferation comes at a cost. Until recently, the bread and
+butter of literary scholarship has been close reading. Close reading, like
+critical thinking, is an idea more easily performed than explained, because the
+details become contentious as soon as they are formalized.[^ln2-close] I will
+tread carefully, therefore, by committing myself to a broad definition of close
+reading that involves some notion of deliberate and reflective practice aimed
+at deep comprehension. The Partnership for Assessment of Readiness for College
+and Careers (PARCC), the organization responsible for the controversial
+Common Core standards being implemented in schools across the United States
+today, promotes close reading as "thorough," "methodical," and "analytical"
+practice that "enables students to reflect on the meanings of individual words
+and sentences; the order in which sentences unfold; and the development of
+ideas over the course of the text, which ultimately leads students to arrive at
+an understanding of the text as a whole" [@parcc_parcc_2012, 7]. The general
+movement here is from "text" on the page to "work" (text as a whole, in the
+language of the report). The model of textuality implicit in the institutional
+project of close reading assumes an environment of received literary canons,
+naturally accessible to the human intellect. For the duration of the "Gutenberg
+galaxy," the age of print, a well-educated person might have been expected to
+internalize some several hundred or perhaps thousands of major texts
+constituting the canon. Close reading was honed to operate on that naturalized
+scale.
+
+The expansion of the textual field and its relative liberation from physical
+media have radically increased the cognitive demands of literary engagement.
+The pipeline between text and work has lengthened considerably. On the one
+side, the matter of canon formation can no longer be relegated to stable,
+long-term systems of social filtering. Seen from the perspective of a literary
+interface, the database, the social stream, and the search engine are tools for
+dynamic, "on the fly," generative canon-formation. Consider the task of finding
+an unknown (to me) factoid online, about philosophy in the times of
+Andalusian Spain, for example. Where in the past I might have started with a
+subject catalog compiled by librarians, today I construct a search query, using
+resources that I believe will return a reasonably authoritative list of texts
+on the subject. The search engine, in effect, replaces (or rather complements)
+centuries-long processes of canon-formation. A near-instantaneous list of
+results now becomes my ephemeral, but nevertheless authoritative, collection of
+relevant literature.
+
+Each text in the returned list still requires the instrumentation of close,
+analytical interpretation. However, the same discipline of critical and
+reflective deliberation exercised on the level of an individual text needs to
+also be exercised on the level of procedurally generated search engine results:
+Where to search? Using what engine? How to construct the query? What are the
+implicit biases of the system?  The academic question of canon-formation
+transforms into a (not yet critical) practice of rapid, iterative, generative
+canon-making. Whatever ideals motivate close reading between "text" and "work"
+surely must drive the process on the level of dynamic corpus composition.
+
+The various practices of distant reading arise from the condition in which
+canons are no longer accessible, in their entirety, to the unaided (natural)
+human intellect. These include distant reading and macroanalysis in literary
+studies [@jockers_macroanalysis_2013; @moretti_distant_2013], culturomics in
+economy [@aiden_uncharted:_2014], e-discovery in law
+[@scheindlin_electronic_2004; @scheindlin_electronic_2009], automatic essay
+evaluation in education [@shermis_handbook_2013], and medical informatics in
+medicine [@shortliffe_biomedical_2013], among others. At the foundations of
+these nascent disciplines is a shared toolkit of statistical natural language
+processing [@manning_foundations_1999; @jurafsky_speech_2008], automatic
+summarization [@radev_centroid-based_2004; @nenkova_pyramid_2007], machine
+learning [@rasmussen_gaussian_2006; @flach_machine_2012], network analysis
+[@opsahl_node_2010; @szell_measuring_2010; @takhteyev_geography_2012], and
+topic modeling [@wallach_topic_2006; @blei_probabilistic_2012].
+
+![Micro, macro, and close reading.](images/micro.png)
+
+Where distant reading and macroanalysis are concerned with text aggregates,
+microanalysis, of the type suggested (but not carried out to its logical
+conclusion) by Kittler and Latour and Woolgar, occupies the other side of the
+text--work equation. Note that contrary to what one may intuit, distant reading
+often happens prior to close reading and not the other way around. In most
+cases, the reader must find the text before analyzing it. Canons, corpora,
+collections, libraries, and archives are all aggregates that mediate the
+process of discovery.
+
+Microanalysis, too, constitutes a study of mediation, but on the level of
+physical minutiae otherwise not observed in cursory exploration. The
+instruments of microanalysis may coincide with computational tools, designed to
+find hidden patterns lurking above or beneath a given document.[^ln2-iarkho] The
+micro-instrumentation might also include a screwdriver, a binding needle, or a
+soldering iron: sharp tools that help to pry open and to scrutinize otherwise
+magical textual black boxes.
+
+The pre-modern model of literary transmission assumes relatively short physical
+distances separating authors, texts, and readers. Were I to write these words
+in front of you, on paper, I would simply pass the page into your hands. In
+receiving this text, you could be fairly certain that no third party meddled in
+the process of passing the note. When communicating in this way, it makes sense
+to talk about notions like "authorial intent" and "fidelity to the original,"
+because the authors and their works are thought to occupy the same contiguous
+space and time. The advent of the cheap mechanical reproduction of print (for
+the sake of brevity let's say the printing press) has introduced a range of
+devices made to mediate between the author and the reader. Distance, time, and
+mediation subsequently weakened facile notions of authorial fidelity and
+intent. At the very least, we know that editorial practices, publishing
+markets, and communication technologies can introduce an unintended element of
+noise into the channel. At worst, long-distance, asynchronous communication is
+susceptible to "man-in-the-middle" attacks, by which the content of
+communication is maliciously altered by a third party [@needham_using_1978].
+
+Changing material conditions of textual transmission push against familiar
+literary critical ideas. For example, as the mechanical reproduction of print
+weakens the material basis for authorship attribution, the notion of authorship
+itself undergoes change. That is not say that the author is dead, as Barthes
+would have it. Authors continue to live and to collect royalties from the sale
+of their works. The weakening of the authorship function merely makes certain
+ways of talking about things like "authorial intent" and "fidelity to the
+original" difficult to sustain. Massively collaborative writing projects like
+Wikipedia and procedural narrative generation further erode ideas of authorial
+production based on individual human agency. Yet, it would be a mistake to
+believe that the myth of autopoiesis (the literature that "writes itself,"
+writing that writes, discourse that speaks, etc.)[^ln2-varela] can displace the
+myth of the author. A discipline of close attention to the atomic particulars
+of encoding, transmission, storage, and the decoding of text at the site if its
+application to the human condition ultimately aims to reclaim subjective
+agency, in motion. This may seem strange at first: to recover the subject in
+the physical minutiae of the literary--technological encounter. Yet the point
+of contact is crucial, for it is here that the subject seems to disappear, in a
+compressed moment of time that needs to be unpacked with some precision.
+
 ### 0.4 Pragmatism
 
 What is the role of literary scholar in reflecting on the history of computing.
@@ -939,71 +961,7 @@ typesetting sweatshops, and international conglomerates that control vectors of
 literary distribution.
 
 
-## Theme and Argument
-
-Plain text is a file format and a frame of mind. As a file format, it contains
-nothing but a "pure sequence of character codes." In technical terms, it stands
-in opposition to *fancy text*: "text representation consisting of plain text
-plus added information."[^ln-uni] As a frame of mind, it indicates a preference
-for human-readable input and output, for computational tools that are simple
-and elegant, and for open systems that are transparent to the user. The book
-unfolds a history of and an argument for plain text. In making my case, I argue
-that "other information" routinely embedded in all forms of contemporary
-textuality includes much more than instructions for "font size" and "paragraph
-justification." Increasingly, devices that mediate literary activity encode
-specific models of governance and control.
-
-The central concern of the book is to dispel the illusion of verisimilitude
-between text on paper and text on the screen. The words may look the same, but
-the underlying material affordances of the medium differ in significant
-details. As an obvious example, consider a news report that changes slightly
-based on the reader's location, or an e-book reader device that highlights
-popular passages. For a literary scholar, such instability of medium means
-analysis cannot be confined to reading for meaning alone. How will close
-reading persist, when the reading device reconfigures a text dynamically, to
-fit individual taste, mood, or politics? The formulation of this narrowly
-literary-theoretical concern leads to the broader question of empowered
-human--computer interaction. Building on the work of scholars like Jerome
-McGann, Wendy Hui Kyong Chun, Katherine Hayles, Matthew Kirschenbaum, Lori
-Emerson, Lisa Gitelman, and Johanna Drucker, I contend that textual legibility
-is becoming increasingly crucial to a critical understanding of what it means
-to remain human in a digital world.
-
-Software developers, graphic designers, system administrators, and project
-managers routinely architect technologies that have deep cultural significance,
-affecting a range of cultural practices: from the ways we relate to our family
-and friends to the formation of shared cultural archives. Because such
-"cultural techniques" are formative of our culture, supposedly technical
-decisions like choosing a text editor, a filing system, or a social networking
-platform cannot be adequately addressed in shallow instrumental terms limited
-to efficacy, speed, or performance. A secondary aim of this volume is therefore
-to convince computer "users" to view their computational environments as a
-literary system of sorts. I mean a "literary system" differently to what one
-might conventionally mistake for a "binary" or "digital" one, however imprecise
-those terms are in everyday use. In clarifying usage, I ask those who may have
-considered themselves mere "users" to become close readers, thinkers, and
-makers of technology, able to apply the same critical acuity to reading code
-and device as they do to the close reading of prose and poetry. Ultimately, the
-book makes a case for the recovery of textual roots already latent in the
-mechanisms of modern computing.
-
-[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
-Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
-
-The book is structured along a trajectory that begins at the material
-foundations of modern textual technology, moving from the stratum of circuit
-and silicon to reach up, through layers of abstraction (files, folders, and
-operating systems), towards the reader. In following that path, I reconstruct
-the passage of an electron from the mechanical action of the keyboard, to
-magnetic storage medium, and to liquid crystal, which, together, give rise to
-pixels, letters, words, books, and literature. In using this approach, my book
-introduces a method of textual microanalysis. Where distant reading perceives
-patterns across large-scale literary corpora, microanalysis breaks textuality
-down to its minute constituent components. It is at this level that I find that
-readers and writers are in danger of becoming fundamentally alienated from the
-immediate material contexts of their knowledge production.
-
-## Field Significance
+### Field Significance
 
 The book seeks to redress a weakness in the field of digital humanities,
 particularly at the point of its relevance to literary studies. Scholarship at
@@ -1046,7 +1004,7 @@ systems). This property allows for a media archeology that can "lay bare" the
 device, making good on the implied archeological metaphor: involving
 excavation, surveying, and artifact discovery at the machine level.
 
-## Existing Literature
+### Existing Literature
 
 *Plain Text* makes a theoretical intervention in the cluster of media studies-
 and digital humanities-related fields that include science and technology
@@ -1124,7 +1082,7 @@ University Press, 2009). Ultimately, I argue in favor of a transformative use
 of technology in the humanities, with reciprocal effects that promise mutual
 enrichment.
 
-## Audience and Market
+### Audience and Market
 
 As is the case for most of my work, *Plain Text* appeals to several key
 audiences. The first comprises media scholars interested in the history of
@@ -1174,3 +1132,83 @@ could serve to supplement the main body of the work with a series of
 "experiments" that illustrate theoretical concepts in action, at the keyboard,
 making the text applicable to a greater variety of educational environments
 (beyond the conventional classroom).
+
+[^ln-char]: There are many caveats here, to be explored later. Follow along
+with exercises related to the discussion in the Technical Appendix.
+
+[^ln-human]: Recent theory challenges the conceptual boundaries between
+humans and machines in a concerted way. Perhaps, such boundaries were never
+that clearly articulated in the first place. It is also likely that other
+modalities of being are possible on the spectrum between human and machine, or
+human and complex system. We will have a chance to explore these possibilities
+in second half of the book. For now, I ask that the reader simply rely on the
+colloquial, pre-theoretical understanding of both person and instrument.
+However intertwined the hand and the hammer can become, there is an intuitive
+way in which a child can separate one from the other. There is deep-rooted
+instinct at work in that distinction, one that cannot and should not be
+dismissed as mere naiveté. The concept of a human is in itself a powerful
+theoretical construct, and, as I will argue throughout, one necessary, not only
+for the understanding of key concepts in literary theory and computer science,
+but also in articulating an ethics of critical computation.
+
+[^ln-meaning]: I write "meaning" in quotation marks, because the question of
+whether it makes sense to talk about meaning for artificial agents is a
+question that will remain unresolved, at least until the later chapters, when
+we have the chance to discuss notions of data and information as
+meaning-carrying units.
+
+[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
+Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
+
+[^ln2-derrida]: This is a bit of a post-structuralist caricature, but it is not
+difficult to find direct sources expressing the idea. For example, see John
+Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
+Conversation with Jacques Derrida*, "I often describe deconstruction as
+something which happens. It's not purely linguistic, involving text or books.
+You can deconstruct gestures, choreography. That's why I enlarged the concept
+of text. Everything is a text" [@caputo_deconstruction_1996].
+
+[^ln2-iarkho]: I borrow the term "microanalysis" from the largely forgotten
+Russian literary scholar and member of the Moscow Linguistic Circle, Boris
+Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
+writes: "I understand 'atomism' as a sort of an ideal aspiration, as an
+orientation toward the liminally small. But under no circumstances do I
+advocate working with hypothetical quantities, like molecules, atoms,
+positrons, and so on, which are located beyond the limits of perception. That
+this applied mythology gave us such splendid results in chemistry, should not
+conceal its true nature. Tomorrow, all such explanations of visible through the
+invisible could give way to other hypotheses, as was the case with their no
+less fertile predecessors (elemental spirits, phlogiston, and light ether). But
+the cell, the nucleus, and the chromosome endure as lasting accomplishments of
+microanalysis. I suggest to move as far as a microscope can reach, and no
+further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the most
+quantitatively inclined of the Russian Formalists, microanalysis involved
+systematic application of statistical methods to the study of literature.
+
+[^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
+5; @nuttall_new_2007, 6-25.
+
+[^ln2-survey]: I can only give anecdotal evidence here, as I often put this
+question before my graduate students at the beginning of the semester, with the
+reported results.
+
+[^ln2-close]: See [@lentricchia_close_2003] and [@fish_how_2011]. 
+
+[^ln2-app]: In the *New York Times* archive, the phrase first appeared in 1985
+[@new_york_times_briefs_1984]. In the Google Books corpus the bigram appears
+first in *Astronautics & Aeronautics: A Publication of the American Institute
+of Aeronautics and Astronautics*, under the rubric of "Missile Guidance Systems
+Programming"
+[@american_institute_of_aeronautics_and_astronautics_astronautics_1965].
+
+[^ln2-internet]: The NEA study has this to say on the topic of What is
+responsible for the decline of literary reading?: "If the 2002 data represent a
+declining trend, it is tempting to suggest that fewer people are reading
+literature and now prefer visual and audio entertainment. Again, the
+data---both from SPPA and other sources---do not readily quantify this
+explanation [...] the Internet, however, could have played a role. During the
+time period when the literature participation rates declined, home Internet use
+soared" [@nea_reading_2004, 30].
+
+
+### Works Cited
