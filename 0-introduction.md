@@ -132,7 +132,7 @@ heralded the advance of formalism, to studies on animal communication behavior,
 theater, semiotics, and, of course, to foundational texts in the philosophy of
 aesthetics and literary theory.
 
-## In Search of a Subject (Thesis)
+## In Search of a Subject
 
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln-char] Let these words soak in for a moment. I will spend the rest
@@ -248,7 +248,7 @@ draw on a multiplicity of historical practices that suggest an alternative mode
 of engagement with the computational environment, one in which literature has
 plenty to say.
 
-## Literary Boundaries
+### Field Boundaries
 
 My argument for considering modern computational devices in the lineage of
 literary technology cuts both ways. It also implies an argument for a broader
@@ -270,7 +270,7 @@ highlights the impact of algorithmic recommendation systems on literary
 consumption. In his account, large and centralized online retailers have the
 effect of flattening the mechanisms of canon-formation. Before Amazon, much of
 the world's publishing catalog remained hidden and out of print, inaccessible
-to the average reader.  In the manner described thoroughly in Pierre Bourdieu's
+to the average reader. In the manner described thoroughly in Pierre Bourdieu's
 *Distinction*, the reader must rely on social mechanisms of taste formation,
 filtered through institutions of higher learning and literary criticism and
 [@bourdieu_distinction:_1984]. Contemporary online booksellers instead rely on
@@ -287,41 +287,51 @@ sell well. With the movement of cultural goods online, that physical
 restriction is lifted. The cost of housing titles that do not sell well
 plummets. Consequently, under the new model, many more sales can happen in the
 "long tail" of the archive: in the dark and musty isles that were previously
-difficult to access, without the aid of expert guides. The role of these guides
+difficult to access without the aid of expert guides. The role of these guides
 was, therefore, to "separate the wheat from the chaff," that is precisely to
-place value on works "superior" and "long lasting," those that deserve to
-remain in print, in the accessible canon, in the "short head" of the archive.
+place value on works "superior" and "long lasting," from those that deserve to
+go out print in "long tail" of the archive.
 
 The ubiquitous availability of the deep archive, enabled by the network,
 storage, and search capabilities of computational devices, creates a condition
-of abundance. For Anderson, it heralds a "new economic model for the media and
-entertainment industries," one in which more activity happens in the "long
-tail" than in the "short head." Another way to put it  would be to say that
-technology brings with it a true democratization of the canon, a topic that
-Anderson's essay only begins to address. We could also say that the cluster of
-networking, storage, and search technologies brings with it a multiplicity of
-canons, or perhaps, the condition under which "the canon" paradoxically
-includes the totality of all things ever produced. Radical disintegration, in
-that sense, when carried far enough, is also radical consolidation. At first
-glance, it seems that "long tail" market dynamics usher a time of unmediated
-access to culture and knowledge. Yet a more careful analysis, one that will
-become more clear in the progression of *Plain Text*, would see a shift in
-the proprietors of mediation. The algorithms behind Amazon's suggestion engines
-rely on democratic patterns of mass consumption. It is important to remember
-however, that algorithms are not some sort of disembodied, autonomous agents.
-They do not write themselves. In the market of the long tail, the role of a
-literary critic (of the kind that writes book reviews) is now fulfilled by
-the programmer and (usually) his proxy, the algorithm.
+of democratic abundance. For Anderson, it heralds a "new economic model for the
+media and entertainment industries," one in which more activity happens in the
+"long tail" than in the "short head." Another way to put it would be to say
+that technology devalues expert knowledge a kind, a topic that Anderson's essay
+only begins to address. We could also say that the cluster of networking,
+storage, and search technologies bring with them a multiplicity of canons, or
+perhaps, the condition under which "the canon" paradoxically includes the
+totality of all things ever produced. Radical disintegration, in that sense,
+when carried far enough, is also radical consolidation. At first glance, it
+seems that "long tail" market dynamics usher a time of unmediated access to
+culture and knowledge. Yet a more careful analysis, one that will become more
+clear in the progression of the present text, would reveal a shift in the
+proprietors of mediation. The algorithms behind Amazon's suggestion engines
+seem to rely on "flat" and "democratic" patterns of mass consumption. It is
+important to remember however, that algorithms are not some sort of
+disembodied, autonomous agents. They do not write themselves. In the
+marketplace of the long tail, the role of a literary critic (of the kind that
+writes book reviews) is now fulfilled by the programmer and (usually) his
+proxy, the algorithm.
 
-The narrative of the long tail has since been [@benghozi_long_2010]
+Yet, I am not willing to cede expertise in the mechanics of literary life to
+those who are not intrinsically steeped in the study of things like
+narratology, canon formation, book history, textual criticism, or authorship
+studies (among many other similar possible topics). These mechanisms remain as
+relevant as ever, if not more so. Except, they can no longer be applied to the
+"short head." Within the long tail, multiple canons live and vie for attention.
+They each project their own sense of superiority and lasting value. To survive
+the literary scholar must assert presence in conversations that cut across
+specific "neighborhoods" of clustered value domains, which include the
+Literary, writ large, as one of the many readily available communities of
+readership.
 
-Cite the impact on scientific knowledge here too.
+### Literature within the Long Tail
 
-Canons, once unitary and monolithic, 
-
-The reading of short stories, novels, poetry, and plays is at grave risk,
-concluded the last survey of Public Participation in the Arts conducted by the
-Census Bureau on the behest of the National Endowments for the Arts (NEA):
+Under the "short head" model, the reading of short stories, novels, poetry, and
+plays appears to be at grave risk. The last survey of Public Participation in
+the Arts conducted by the Census Bureau on the behest of the National
+Endowments for the Arts (NEA) concludes that:
 
 > For the first time in modern history, less than half of the adult population
 > now reads literature, and those trends reflect a larger decline in other
@@ -446,8 +456,8 @@ archive. Rather than picky epicureans of high lit, I imagine my fellow
 travelers as voracious omnivores of text. This brief interjection about value
 is not meant to re-introduce, much less argue for a side in polarizing debates
 that set science against the humanities, positivism against relativism, or
-close reading against distant reading. In conceiving a field of activity to
-make space for this book, I cast my vote not for an ether/or but for an and.
+close against distant reading. In conceiving a field of activity to make space
+for this book, I cast my vote not for an ether/or but for an and.
 
 This is also not to say that I advocate ignorance, nor do I follow the Russian
 futurist poets, who at the beginning of the last century called on his peers to
@@ -464,7 +474,7 @@ submerged and unexcavated bottom.
 
 Texts multiply and produce other texts: that is more or less the point of
 Roland Barthes's 250-page exegesis of a 30-page short story by Honoré de
-Balzac.  Despite my fond appreciation of Barthes as a scholar, I suspect that
+Balzac. Despite my fond appreciation of Barthes as a scholar, I suspect that
 exponential growth and diminishing returns will eventually make (if not already
 have made) such relentlessly exegetic mode of scholarship unsustainable. There
 are, by my approximation, over 20,000 monographs on Balzac,[^ln2-balzac] and at
@@ -504,18 +514,18 @@ art and literature are ornaments on or neat illustrations of empirical accounts
 of human life" [@menand_dangers_2005, 10-17].
 
 To limit the literary to a historically contingent ideal of the aesthetic is to
-limit the project of literary analysis to a moralizing, prescriptive
-enterprise. A whole tradition of Marxist criticism reminds readers that
-prescription cannot be ideologically neutral. "Literature does not exist in the
-sense that insects do," Terry Eagleton writes in his introduction to literary
-theory. He concludes in writing that "value judgments by which it is
-constituted are historically variable, [... having] a close relation to social
-ideologies." For Eagleton, values are more than the simple assertion of private
-taste.  Instead, they refer to assumptions "by which certain social groups
-exercise and maintain control over others" [@eagleton_criticism_1976, 15-47].
-Who controls what? My interpretation of Marxist materialism is more literal
-than even Eagleton's. I am interested here in physical mechanisms of control,
-and not only in their more ephemeral ideological justifications.
+limit the project of literary analysis to a prescriptive enterprise. A whole
+tradition of Marxist criticism reminds readers that prescription cannot be
+ideologically neutral. "Literature does not exist in the sense that insects
+do," Terry Eagleton writes in his introduction to literary theory. He concludes
+in writing that "value judgments by which it is constituted are historically
+variable, [... having] a close relation to social ideologies." For Eagleton,
+values are more than the simple assertion of private taste.  Instead, they
+refer to assumptions "by which certain social groups exercise and maintain
+control over others" [@eagleton_criticism_1976, 15-47].  Who controls what? My
+interpretation of Marxist materialism is more literal than even Eagleton's. I
+am interested here in physical mechanisms of control, and not only in their
+more ephemeral ideological justifications.
 
 In trying to reconcile the NEA's dour prognoses with broad theoretical models
 and demographic trends that reflect a proliferation of textual material, I am
@@ -650,6 +660,12 @@ grammatical object (as in "the entity that is acted upon")
 [@allerton_generating_1978]. Where can one locate the field of literary,
 textual application to human experience? And what is at stake in drawing the
 field's boundaries?
+
+The narrative of the long tail has since been [@benghozi_long_2010]
+
+Cite the impact on scientific knowledge here too.
+
+Canons, once unitary and monolithic, 
 
 ## Methodology
 
