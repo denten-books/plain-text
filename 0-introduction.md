@@ -21,27 +21,27 @@ these two roles remained separate from each other. I worked at one thing and I
 studied another. At the time, I simply did not think that code has anything to
 do with poetry. With time, I grew to realize that they have everything to do
 with each other and saw that all forms of contemporary textuality, from sacred
-to profane, pass through some form of codified mediation. The machine consumed
-most of my waking hours. Initially, at the point of contact, the two selves
-spoke different languages. *Plain Text* enacts a reconciliation of
+to profane, pass through some form of codified mediation. Text and machine
+consumed most of my waking hours. Initially, at the point of contact, the two
+selves spoke different languages. *Plain Text* enacts a reconciliation of
 vocabularies. It was and continues to be a disconcerting process, by which
 things dear and familiar to me, in both worlds, grew strange and unfamiliar,
 revealing themselves to be sometimes less than and sometimes more than I
 comfortably expected. Nothing could be assumed from the start. Field specific
 jargon, down to the naive foundations, had to be unpacked and examined for
 hidden assumptions that prevented congruence. I heard Lev Manovich once
-describe his massive image panoramas as an artifact of an alien life
-encountering the human condition. My other compatriot and sometimes mentor,
-Svetlana Boym, also considered her estrangement as a methodology, applicable
-in life and in scholarship. Defamiliarization is, I believe, an instrumental
-part of an immigrant's survival mechanisms. It his task: to obstinately retain
-the discomfort of the encounter with the other. Estrangement, always at the
-heart of immigrant or queer poetics, reconciles without seeking wholeness and
-integration. I dedicate this book then to queers and immigrants, literal and
-figurative---spatial, literary, technological---to those being displaced
-unwillingly, to those exiled within and without, to those who understand the
-need for displacement, to those transgressing purposefully, and to those
-willing to trespass.
+describe his massive image panoramas as an artifact of an alien life in the
+process of observing the human condition. My other compatriot and sometimes
+mentor, Svetlana Boym, also considered her estrangement as a methodology,
+applicable to life and scholarship. Defamiliarization is, I believe, an
+instrumental part of an immigrant's survival mechanisms. It his task: to
+obstinately retain the discomfort of the encounter with the other.
+Estrangement, always at the heart of immigrant or queer poetics, reconciles
+without seeking wholeness and integration. I dedicate this book then to queers
+and immigrants, literal and figurative---spatial, literary, technological---to
+those being displaced unwillingly, to those exiled within and without, to those
+who understand the need for displacement, to those transgressing purposefully,
+and to those willing to trespass.
 
 My own self-conflicted trespassing converged on plain text as a primitive field
 of activity, where literary scholarship and software engineering intersect.
@@ -51,10 +51,10 @@ encoding or a survey of textual theory. Rather, my argument progresses from the
 action of the alphanumerical keyboard switch, through copper and silicon to the
 floating gate and the liquid crystal, and on towards the human. It is but a
 single possible pass through a cavernous black box: a recollection of a passage
-which left behind traces of illumination reflecting the vagrancies of the
+which left behind traces of illumination that reflect the vagrancies of the
 journey.
 
-## Object of study
+## Object of Study
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -106,21 +106,33 @@ I structured the book along a trajectory that begins at the material
 foundations of modern textual technology, moving from the stratum of circuit
 and silicon to reach up, through layers of abstraction (files, folders, and
 operating systems), towards the reader. In following that path, I reconstruct
-the passage of an electron from the mechanical action of the keyboard, to
-magnetic storage medium, and to liquid crystal, which, together, give rise to
-pixels, letters, words, books, and literature. In using this approach, my book
-introduces a method of textual microanalysis. Where distant reading perceives
-patterns across large-scale literary corpora, microanalysis breaks textuality
-down to its minute constituent components. It is at this level that I find that
-readers and writers are in danger of becoming fundamentally alienated from the
-immediate material contexts of their knowledge production.
+and make visible the underlying material conditions of knowledge production
+that give rise higher order phenomena like pixels, letters, words, books, and
+literature. In developing such an approach to study, my book introduces a
+method of textual microanalysis. Where distant reading perceives patterns
+across large-scale literary corpora, microanalysis breaks textuality down to
+its minute constituent components. It is at this level that I find that readers
+and writers are in danger of becoming fundamentally alienated from the
+immediate material contexts of their everyday literary activity.
 
-Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
-American Philosophical Society*, Frank Halstead notes that "it is hard to say
-to what particular field of the arts or sciences that signal code development
-pertains." "It is a matter somewhat related to the general art of cryptology,
-yet it is not wholly divorced from electrical engineering nor from general
-philology" [@halstead_genesis_1949, 456].
+Even though I did not intend for the book to serve as a complete history
+character encoding, the encoding of textuality constitutes its strong
+undercurrent. The challenge of writing and reading such a book lies in its
+inherently trans-disciplinary subject matter. Reflecting on the development of
+Morse Code in 1949 in the *Proceedings of the American Philosophical Society*,
+Frank Halstead notes that "it is hard to say to what particular field of the
+arts or sciences that signal code development pertains." "It is a matter
+somewhat related to the general art of cryptology, yet it is not wholly
+divorced from electrical engineering nor from general philology"
+[@halstead_genesis_1949, 456]. As if to echo this assessment, research for
+*Plain Text* led me to primary sources from archives that range from the
+proceedings of the Association for Computing Machinery (ACM), to the United
+States Patent and Trademark Office, to early Soviet publishing houses that
+heralded the advance of formalism, to studies on animal communication behavior,
+theater, semiotics, and, of course, to foundational texts in the philosophy of
+aesthetics and literary theory.
+
+## In Search of a Subject (Thesis)
 
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln-char] Let these words soak in for a moment. I will spend the rest
@@ -156,8 +168,6 @@ discursive formations like free speech, privacy, and deliberation online, would
 do well to take heed of textual building blocks at their foundation. Text
 matters because how it is encoded, transmitted, and stored decides who gets to
 decode, receive, and access.
-
-### In Search of a Subject (Thesis)
 
 "Media determine our situation," Friedrich Kittler wrote in his seminal
 *Gramophone, Film, Typewriter* [@kittler_gramophone_1999, xxxix]. The book
@@ -238,20 +248,76 @@ draw on a multiplicity of historical practices that suggest an alternative mode
 of engagement with the computational environment, one in which literature has
 plenty to say.
 
-### Object of Study
+## Literary Boundaries
 
-Why do we call some software an "application"? Not until the 1960s did the
-coinage "software application" enter the English language.[^ln2-app] Before
-that and well into the 1990s the far more common use of "application" was
-paired with "theory," as in "theory and application"---the two nouns occupying
-places on the opposing sides of the idea--practice continuum. Software, in the
-newer phrase, takes the place of theory---software application being the
-practical implementation of code, a theoretical set of instructions. The
-application of what to what? A "text app" would surely take a human as its
-grammatical object (as in "the entity that is acted upon")
-[@allerton_generating_1978]. Where can one locate the field of literary,
-textual application to human experience? And what is at stake in drawing the
-field's boundaries?
+My argument for considering modern computational devices in the lineage of
+literary technology cuts both ways. It also implies an argument for a broader
+definition of the literary, beyond "written work[s] valued for superior or
+lasting artistic merit," closer to the more catholic sense of "written works
+considered collectively" [@_literature_2015].
+
+Much is at stake in making that transition, not least of all, the relevance of
+literary studies in the age of the "long tail." In his now classic (or at least
+widely-cited) account of this term, borrowed from the language of statistics,[@
+Chris Anderson tells the story of two books about climbing tragedy, Joe
+Simpson's 1988, *Touching the Void* and Jon Krakauer's 1999, *Into Thin Air*
+[@anders. The older book received positive reviews, but was soon forgotten.
+The newer volume became a best seller, sparking a major revival in the sales of
+*Touching the Void*, to the point of the older book outselling the newer one by
+a large margin. Today, they are ranked #6,231 and #715 in the category of Books
+on Amazon.com, the world's largest book retailer. Anderson's narrative
+highlights the impact of algorithmic recommendation systems on literary
+consumption. In his account, large and centralized online retailers have the
+effect of flattening the mechanisms of canon-formation. Before Amazon, much of
+the world's publishing catalog remained hidden and out of print, inaccessible
+to the average reader.  In the manner described thoroughly in Pierre Bourdieu's
+*Distinction*, the reader must rely on social mechanisms of taste formation,
+filtered through institutions of higher learning and literary criticism and
+[@bourdieu_distinction:_1984]. Contemporary online booksellers instead rely on
+algorithmic means of fostering literary consumption. They suggest similar books
+and films based on the purchasing patterns of the community at large. This has
+the effect first of democratizing taste filtration mechanisms, and second of
+making the deep, and, previously inaccessible, archive continually available to
+the consumer, who may have previously relied on expert (human) recommendation
+to find new reading material. Under the old model, most sales (and therefore
+consumption) happened in the "short head" of the archive. The summer movie
+blockbuster exemplifies this trend. The movie theater, like the book store, is
+limited in its physical capacity to show films or to display titles that do not
+sell well. With the movement of cultural goods online, that physical
+restriction is lifted. The cost of housing titles that do not sell well
+plummets. Consequently, under the new model, many more sales can happen in the
+"long tail" of the archive: in the dark and musty isles that were previously
+difficult to access, without the aid of expert guides. The role of these guides
+was, therefore, to "separate the wheat from the chaff," that is precisely to
+place value on works "superior" and "long lasting," those that deserve to
+remain in print, in the accessible canon, in the "short head" of the archive.
+
+The ubiquitous availability of the deep archive, enabled by the network,
+storage, and search capabilities of computational devices, creates a condition
+of abundance. For Anderson, it heralds a "new economic model for the media and
+entertainment industries," one in which more activity happens in the "long
+tail" than in the "short head." Another way to put it  would be to say that
+technology brings with it a true democratization of the canon, a topic that
+Anderson's essay only begins to address. We could also say that the cluster of
+networking, storage, and search technologies brings with it a multiplicity of
+canons, or perhaps, the condition under which "the canon" paradoxically
+includes the totality of all things ever produced. Radical disintegration, in
+that sense, when carried far enough, is also radical consolidation. At first
+glance, it seems that "long tail" market dynamics usher a time of unmediated
+access to culture and knowledge. Yet a more careful analysis, one that will
+become more clear in the progression of *Plain Text*, would see a shift in
+the proprietors of mediation. The algorithms behind Amazon's suggestion engines
+rely on democratic patterns of mass consumption. It is important to remember
+however, that algorithms are not some sort of disembodied, autonomous agents.
+They do not write themselves. In the market of the long tail, the role of a
+literary critic (of the kind that writes book reviews) is now fulfilled by
+the programmer and (usually) his proxy, the algorithm.
+
+The narrative of the long tail has since been [@benghozi_long_2010]
+
+Cite the impact on scientific knowledge here too.
+
+Canons, once unitary and monolithic, 
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
 concluded the last survey of Public Participation in the Arts conducted by the
@@ -572,16 +638,22 @@ something like the "systemic application of textuality to human life," where
 textuality is understood as "the site of literary activity." But I am not yet
 ready to move beyond the obvious tautology.
 
+Why do we call some software an "application"? Not until the 1960s did the
+coinage "software application" enter the English language.[^ln2-app] Before
+that and well into the 1990s the far more common use of "application" was
+paired with "theory," as in "theory and application"---the two nouns occupying
+places on the opposing sides of the idea--practice continuum. Software, in the
+newer phrase, takes the place of theory---software application being the
+practical implementation of code, a theoretical set of instructions. The
+application of what to what? A "text app" would surely take a human as its
+grammatical object (as in "the entity that is acted upon")
+[@allerton_generating_1978]. Where can one locate the field of literary,
+textual application to human experience? And what is at stake in drawing the
+field's boundaries?
 
+## Methodology
 
-
-
-
-
-
-### Methodology
-
-#### Microanalysis
+### Microanalysis
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an ethnography of a science lab, tracing the
@@ -775,7 +847,7 @@ the physical minutiae of the literary--technological encounter. Yet the point
 of contact is crucial, for it is here that the subject seems to disappear, in a
 compressed moment of time that needs to be unpacked with some precision.
 
-### 0.4 Pragmatism
+### Pragmatism
 
 What is the role of literary scholar in reflecting on the history of computing.
 To unpack the metaphor throughout. Floating gate. Liquid crystal. Avalanche
@@ -920,7 +992,7 @@ phones, to laptops, and super computers, and to expose them to critical
 interrogation. The task of media archeology on the level of the operating
 system is a literary scholar's version of baking bread and smelting iron.
 
-### 0.5 Materialism
+### Materialism
 
 Finally, this book, and any notion of critical practice, owes a debt to the
 legacy of critical theory. In the past few decades, the project of critical
@@ -968,7 +1040,7 @@ typesetting sweatshops, and international conglomerates that control vectors of
 literary distribution.
 
 
-### Field Significance
+## Field Significance
 
 The book seeks to redress a weakness in the field of digital humanities,
 particularly at the point of its relevance to literary studies. Scholarship at
@@ -1011,7 +1083,7 @@ systems). This property allows for a media archeology that can "lay bare" the
 device, making good on the implied archeological metaphor: involving
 excavation, surveying, and artifact discovery at the machine level.
 
-### Existing Literature
+## Existing Literature
 
 *Plain Text* makes a theoretical intervention in the cluster of media studies-
 and digital humanities-related fields that include science and technology
@@ -1089,7 +1161,7 @@ University Press, 2009). Ultimately, I argue in favor of a transformative use
 of technology in the humanities, with reciprocal effects that promise mutual
 enrichment.
 
-### Audience and Market
+## Audience and Market
 
 As is the case for most of my work, *Plain Text* appeals to several key
 audiences. The first comprises media scholars interested in the history of
@@ -1218,4 +1290,4 @@ time period when the literature participation rates declined, home Internet use
 soared" [@nea_reading_2004, 30].
 
 
-### Works Cited
+## Works Cited
