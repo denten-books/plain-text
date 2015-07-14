@@ -15,44 +15,44 @@ header-includes:
 
 ## Digital Displacement
 
-This book is a response to a particular situation of a software engineer
-encountering a literary scholar. For a long stretch of my professional life,
-these two roles remained separate from each other. I worked at one thing and I
-studied another. At the time, I simply did not think that code has anything to
-do with poetry. With time, I grew to realize that they have everything to do
-with each other and saw that all forms of contemporary textuality, from sacred
-to profane, pass through some form of codified mediation. Text and machine
-consumed most of my waking hours. Initially, at the point of contact, the two
-selves spoke different languages. *Plain Text* enacts a reconciliation of
-vocabularies. It was and continues to be a disconcerting process, by which
-things dear and familiar to me, in both worlds, grew strange and unfamiliar,
-revealing themselves to be sometimes less than and sometimes more than I
-comfortably expected. Nothing could be assumed from the start. Field specific
-jargon, down to the naive foundations, had to be unpacked and examined for
-hidden assumptions that prevented congruence. I heard Lev Manovich once
-describe his massive image panoramas as an artifact of an alien life in the
-process of observing the human condition. My other compatriot and sometimes
-mentor, Svetlana Boym, also considers her estrangement as a methodology,
-applicable to life and scholarship. Defamiliarization is, I believe, an
-instrumental part of an immigrant's survival mechanism. It is his task: to
-obstinately retain the discomfort of the encounter with the other.
-Estrangement, always at the heart of immigrant or queer poetics, reconciles
-without seeking wholeness and integration. I dedicate this book then to queers
-and immigrants, literal and figurative---spatial, literary, technological---to
-those being displaced unwillingly, to those exiled within and without, to those
-who understand the need for displacement, to those transgressing purposefully,
-and to those willing to trespass.
+*Plain Text* enacts a reconciliation of vocabularies. As such, it is a response
+to a particular situation of a software engineer encountering a literary
+scholar. For a long stretch of my professional life, these two roles remained
+separate from each other. I worked at one thing and I studied another. At the
+time, I simply did not think that code has anything to do with poetry. With
+time, I realized that they have everything to do with each other and saw that
+all forms of contemporary textuality, from sacred to profane, pass through some
+form of codified mediation.
 
-My own self-conflicted trespassing converged on plain text as a primitive field
-of activity, where literary scholarship and software engineering intersect.
-Much of the book will be in the drawing out of what that plane entails. The
-reader should not however expect something like a complete history of character
-encoding or a survey of textual theory. Rather, my argument progresses from the
-action of the alphanumerical keyboard switch, through copper and silicon to the
-floating gate and the liquid crystal, and on towards the human. It is but a
-single possible pass through a cavernous black box: a recollection of a passage
-which left behind traces of illumination that reflect the vagrancies of the
-journey.
+Text and machine consumed most of my waking hours. Initially, at the point of
+contact, the two selves spoke different languages. It was and continues to be a
+disconcerting process, by which things dear and familiar to me, in both worlds,
+grew strange and unfamiliar, revealing themselves to be sometimes less than and
+sometimes more than I comfortably expected. Nothing could be assumed from the
+start. Field specific jargon, down to the naive foundations, had to be unpacked
+and examined for hidden assumptions that prevented congruence. I heard Lev
+Manovich once describe his massive image panoramas as an artifact of an alien
+life in the process of observing the human condition. My other compatriot and
+sometimes mentor, Svetlana Boym, also considers her estrangement as a
+methodology, applicable to life and scholarship. Defamiliarization plays an
+instrumental part of an immigrant's survival mechanism. The task of the
+digitally displaced: to obstinately retain the discomfort of the encounter with
+the other. Estrangement---always at the heart of immigrant or queer poetics---
+reconciles without seeking wholeness and integration. I dedicate this book then
+to queers and immigrants, literal and figurative---spatial, literary,
+technological---to those being displaced unwillingly, to those exiled within
+and without, to those who understand the need for displacement, to those
+transgressing purposefully, and to those willing to trespass.
+
+My own trespassing converged on plain text as a primitive field of activity,
+where literary scholarship and software engineering intersect. Much of the book
+will be in the drawing out of what that plane entails. The reader should not
+however expect something like a complete history of character encoding or a
+survey of textual theory. Rather, my argument progresses from the action of the
+alphanumerical keyboard switch, through copper and silicon to the floating gate
+and the liquid crystal, and on towards the human. It is but a single possible
+pass through a cavernous black box: a recollection of a passage which left
+behind traces of illumination that reflect the vagrancies of the journey.
 
 ## Object of Study
 
@@ -160,7 +160,7 @@ profoundly as text shifts its confines from paper to pixel. Forces of capital
 and control often exploit that gap, relying on technological obscurity and
 institutional momentum to promote their ends (for better or for worse).
 
-I contend here that some of the higher-level social ills of the contemporary
+I argue here that some of the higher-level social ills of the contemporary
 public sphere, mass surveillance or online censorship, for example, are related
 to our failure to come to terms with the changing conditions of digital
 textuality. A society that cares about the long-term preservation of complex
@@ -169,43 +169,8 @@ deliberation online, would do well to take heed of textual building blocks at
 their foundation. Text matters because how it is encoded, transmitted, and
 stored decides who gets to decode, receive, and access.
 
-"Media determine our situation," Friedrich Kittler wrote in his seminal
-*Gramophone, Film, Typewriter* [@kittler_gramophone_1999, xxxix]. The book
-channels its metaphysical angst about the changing conditions of literary
-production since the typewriter into the personal computer. Kittler concludes
-the book by writing that:
-
-> Under the conditions of high technology, literature has nothing more to say
-> [...] an automated discourse analysis has taken command [...] and while
-> professors are still reluctantly trading in their typewriters for word
-> processors, the NSA is preparing for the future: from nursery school
-> mathematics, which continues to be fully sufficient for books, to
-> charge-coupled devices, surface-wave filters, [and] digital signal
-> processors. [@kittler_gramophone_1999, 263]
-
-I share Kittler's interests in books, charges, waves, filters, and signals but
-not what his translators call his penchant for "technological apocalypse"
-[@kittler_gramophone_1999, xxxiv]. Those who knew Kittler personally often
-insist that his sometimes giddy transhumanism was rather a playful stance,
-performed in the spirit of Nietzschean irony [@conway_solving_1988]. Whatever
-the author's intention, Kittler's text leaves little room for apathy. Readers
-must either acquiesce to automated discourse or themselves take command. As
-Geoffrey Winthrop-Young and Michael Wutz put it, Kittler's work highlights the
-reader's inability to even pose (much less answer) "the question of the
-subject" [@kittler_gramophone_1999, xxxiv].
-
-I take Arno Schmidt's letter (which concludes Kittler's book), then, as an
-early waypoint and a provocation on the road to recovering the subject---a
-sense of communal "us" in Kittler's lament about data flows "once confined to
-books" but now increasingly "disappearing into black holes and black boxes
-[...] as artificial intelligences are bidding us farewell on the way to
-nameless high commands" [@kittler_gramophone_1999, as xxxix]. It does not have
-to be that way. For now, the action of the key press seems to vanish into a
-machined rabbit hole, only to reappear shortly as a remote alphanumeric
-character on someone else's screen. The task of microanalysis will be to
-reconstruct a measure of material context underlying textual production and
-dissemination. To trace the flows of governance and control that lurk beneath
-(and of which Kittler warns us) must mean more than passive apprehension of
+To trace the flows of governance and control that lurk beneath the text (and of
+which Friedrich Kittler warns us) must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life ("the sign about which
 Robinson Crusoe would make no mistake," in Lacan's words) [@lacan_seminar_1997,
 167], but rather it would entail the proactive deployment of tools like
@@ -248,8 +213,6 @@ draw on a multiplicity of historical practices that suggest an alternative mode
 of engagement with the computational environment, one in which literature has
 plenty to say.
 
-### Field Boundaries
-
 Why do we call some software an "application"? Not until the 1960s did the
 coinage "software application" enter the English language.[^ln2-app] Before
 that and well into the 1990s the far more common use of "application" was
@@ -261,117 +224,9 @@ application of what to what? A "text app" would surely take a human as its
 grammatical object (as in "the entity that is acted upon")
 [@allerton_generating_1978]. Where can one locate the field of literary,
 textual application to human experience? And what is at stake in drawing the
-field's boundaries? My argument for considering modern computational devices in
-the lineage of literary technology cuts both ways. It also implies an argument
-for a broader definition of the literary, beyond "written work[s] valued for
-superior or lasting artistic merit," closer to the more catholic sense of
-"written works considered collectively" [@_literature_2015].
+field's boundaries?
 
-Much is at stake in making that transition, not least of all, the relevance of
-literary studies in the age of the "long tail." In his now classic (or at least
-widely-cited) account of this term, borrowed from the language of statistics,[@
-Chris Anderson tells the story of two books about climbing tragedy, Joe
-Simpson's 1988, *Touching the Void* and Jon Krakauer's 1999, *Into Thin Air*
-[@anderson_long_2004; @anderson_long_2006]. The older book received positive
-reviews, but did not sell well. The newer volume became a best seller, sparking
-a major revival in the sales of *Touching the Void*, to the point of the older
-book outselling the newer one by the margin of two to one. (Today, they are
-ranked #6,231 and #715 respectively in the category of Books on Amazon.com, the
-world's largest book retailer.)
-
-Anderson's narrative highlights the impact of algorithmic recommendation
-systems on literary consumption. In his account, large and centralized online
-retailers have the effect of flattening the mechanisms of canon-formation.
-Before Amazon, much of the world's publishing catalog remained hidden and out
-of print, inaccessible to the average reader. In the manner described
-thoroughly in Pierre Bourdieu's *Distinction*, readers traditionally relied on
-social mechanisms of taste formation, filtered through institutions of higher
-learning and literary criticism [@bourdieu_distinction:_1984]. In addition to
-the social mechanisms of taste-formation, online booksellers facilitate
-cultural consumption by algorithmic means. Booksellers like Amazon suggest
-similar books and films based on the purchasing patterns of the community at
-large. This has the effect of making the deep and previously inaccessible
-archive continually available to the consumer, who may have previously relied
-on expert (human) recommendations to find relevant reading (or viewing)
-material.
-
-Under the old model, most sales (and therefore consumption) happened in the
-"short head" of the archive. The established canon was sold and read widely,
-along with a small selection of new best sellers. The summer movie blockbuster
-exemplifies the "short head" trend. Movie theaters, like book stores, are
-limited in their physical capacity to show films or to display titles that do
-not sell well. With the movement of cultural goods online, where storage is
-cheap, the physical constraints recede. The store is able to house titles
-located in the long tail of the sales distribution. Consequently, under the new
-model, communities of readership develop beyond the established hits: in the
-dark and musty isles that were previously difficult to access without the aid
-of expert guidance, or, rather one singular model of expertise is supplanted by
-many, which vary by community. In this way, some books sell well by the means
-of algorithmic recommendation systems, others are filtered through the
-traditional channels, and yet others through mechanisms of distinction that are
-particular to specific communities of reading and interpretation. That is to
-say that a fantasy novel can gain traction in ways different from that of a
-best-selling volume of serious non-fiction. Different still are the movements
-of popular celebrity biographies and technical manuals.
-
-The ubiquitous availability of the deep archive, enabled by the network,
-storage, and search capabilities of computational devices, creates a condition
-of democratic abundance. For Anderson, it heralds a "new economic model for the
-media and entertainment industries," one in which more activity happens in the
-"long tail" than in the "short head." Another way to put it would be to say
-that technology devalues expert knowledge a kind, a topic that Anderson's essay
-only begins to address. We could also say that the cluster of networking,
-storage, and search technologies brings with it a multiplicity of canons, or
-perhaps, the condition under which "the canon" paradoxically includes the
-totality of all things ever produced. Radical disintegration, in that sense,
-when carried far enough, is also radical consolidation. At first glance, it
-seems that market dynamics of the long tail kind usher a time of unmediated
-access to culture and knowledge. Yet a more careful analysis, one that will
-become more clear in the progression of the book, would reveal a shift in the
-proprietors of mediation. The very nature of expertise changes along with the
-material affordances that underlie cultural consumption.
-
-The algorithms behind Amazon's suggestion engines treat all consumption as a
-relatively flat field of consumer activity. The buying of consumer goods like
-baby food or digital cameras is tracked side by side with journal subscriptions
-and reading habits. These exist literally in the same database, and are
-governed through computational means aimed only at economic growth.  It is
-important to remember that algorithms (and economies) do not function as some
-sort of disembodied, autonomous agents. They are constructed, and despite
-advances in artificial intelligence cannot articulate their own teleological
-goals. The retail software engineer, along with his algorithm, now compete with
-the cultural critic for the role of taste makers.
-
-Yet, I am not willing to cede expertise in the mechanics of literary life to
-those who are not intrinsically interested in the non-consumption based aspects
-of literary production like hermeneutics, narratology, canon formation, book
-history, textual criticism, or authorship studies, among other concerns central
-to the study of literature. These mechanisms remain as relevant as ever, if not
-more so in the democratic abundance. Except, these can no longer be assumed to
-have a uniform quality. Multiple canons live and vie for attention within the
-long tail. Each of them projects its own sense of "superiority" and "lasting
-value." Each a literature in its own right. It has perhaps always been so, only
-now the marketplace dynamics of textual diffusion dominate to match the logic
-of cultural relativism in the intellectual sphere. In these conditions, the
-literary scholar participates in conversations that cut across specific
-"neighborhoods" of clustered value domains. The Literary, writ large, enters a
-crowded multitude of vital and vibrant communities of readership.
-
-### Literatures of the Long Tail
-
-The reading of short stories, novels, poetry, and plays appears to be at grave
-risk, but only from the point of view of the established canon. The last survey
-of Public Participation in the Arts conducted by the Census Bureau on the
-behest of the National Endowments for the Arts (NEA) concludes that:
-
-> For the first time in modern history, less than half of the adult population
-> now reads literature, and those trends reflect a larger decline in other
-> sorts of reading. Anyone who loves literature, or values the cultural,
-> intellectual, and political importance of active and engaged literacy [...]
-> will respond to this report with grave concern [@nea_reading_2004, vii].
-
-Contrary to the report's findings, numbers about textuality "in the wild" tell
-a different and an entirely more optimistic story.
+### Boundaries
 
 On an average day in 2008, at home, an average American read around 100,500
 words a day. At 250 words per page, that is around 402 printed pages. Between
@@ -395,23 +250,21 @@ much higher in some fields [@archambault_welcome_2005; @crespi_empirical_2008;
 @larsen_rate_2010]. The number of books published in the United States almost
 tripled from 2005 to 2009 [@bowker_u.s._2009].
 
-All measures point to a drastic expansion of the textual field. Something does
-not add up. As a society we are reading, writing, and publishing more each
-year. With these figures in mind, I ask: What is at risk, literature, or merely
-one of its many definitions? Does the diffusion of the textual field somehow
-cheapen the literary enterprise of art for art's sake, or protect it? What is
-the source of the contemporary metaphysical anxiety about the status of the
-literary text?
-
-In the 1990s, the ire of the metaphysically disaffected coursed against visual
-culture and television [@stephens_rise_1998; @merrin_television_1999]. A decade
-later it turned against the internet and computation, which to many looks to
-threaten the very foundations of humanity, or at least the humanities
-[@golumbia_cultural_2009; @fish_digital_2012;
-@marche_literature_2012].[^ln2-internet] Although in *Plain Text* I also unfold
-a critique of literary technology in a certain disempowered mode, I locate the
-source of the perceived metaphysical threat in the culture's profound
-alienation from the material contexts of literary production.
+All measures point to a drastic expansion of the textual field. At the same
+time, we are often told that reading of short stories, novels, poetry, and
+plays appears to be at grave risk [stephens_rise_1998; @merrin_television_1999;
+@nea_reading_2004; @golumbia_cultural_2009; @fish_digital_2012;
+@marche_literature_2012].[^ln2-internet] Something does not add up. As a
+society we are reading, writing, and publishing more each year. The
+reconciliation of vocabularies locates the source of the perceived metaphysical
+threat in the culture's profound alienation from the material contexts of
+literary production. The language of literary theory is supremely tuned to deal
+with symbols. Only after long reflection, on the order of centuries, do we
+begin to note the sheer strangeness of the textual interface: the medieval
+palimpsest, the stylus, and the goat parchment. Yet we cannot afford to care
+less about the keyboard and the screen today that we do about ink and paper.  A
+battle is quietly brewing for the soul of computing and hence for the control
+of our basic reading and writing apparatus.
 
 Where literacy thrives, the very nature of what constitutes a literary text (of
 any kind) has changed significantly with the advent of ubiquitous computing and
@@ -421,279 +274,33 @@ the second half of the twentieth century saw a major technological shift
 affecting the production, access, and distribution of knowledge, in a shift
 comparable in its consequences to those accompanying the spread of the
 Gutenberg printing press in the fifteenth century [@johns_piracy:_2009;
-@kovarik_revolutions_2011]. Yet for many readers and writers texts remain
-texts, and books, just books. I write *Plain Text* to break the illusion of the
-verisimilitude. To take materialism seriously is to acknowledge its intrinsic,
-dialectical connection with ideation. Changing material conditions necessitate
-a reconceptualization of the basic critical vocabulary. In this task, I must
-leave the comfortable confines of literature in its aesthetic and ideological
-modes. The concern with value formation, however important, gives way to the
-much more blunt concern with the naked machinations of (not yet) ideational
-power and control.
-
-In his 2004 *Humanism and Democratic Criticism*, Edward Said wrote about the
-"fundamental irreconcilability between the aesthetic and the non-aesthetic,"
-which must be sustained "as a necessary condition of our work as humanists."
-The aesthetic exists in opposition to "quotidian" experiences that we all
-share, Said writes: "To read Tolstoy, Mahfouz, or Melville, to listen to Bach,
-Duke Ellington, or Elliott Carter, is to do something different from reading
-the newspaper or listening to the taped music you get while the phone company
-or your doctor puts you on hold." In the background of the book's central
-concern with everyday literature at large is argument against a commonly
-articulated and necessary relationship between literature and aesthetics. To my
-mind, the distinction is impossible to define, let alone maintain in practice.
-Bias in favor of the aesthetic is bias in favor of a specific, historically and
-materially contingent idea of the aesthetic. That preconceived idea introduces
-blind spots into the study of literature at large, limiting the critical task
-in scope and relevance. In that light, textual diffusion threatens not the
-humanity (or the humanities), but the existing socioeconomic order that governs
-who gets to access, to interpret, and to archive literature as text and
-document. I begin with several propositions then: one, that the literary field,
-understood in broad terms, is expanding, and two, that with a quantitative
-expansion comes qualitative change in the material makeup of the literary
-field.
-
-When surveying the introductory literature on literature, the reader will
-invariably find a version of Said's "fundamental irreconcilability" position.
-For example, in Austin Warren and Renee Wellek's *Theory of Literature* the
-authors write that the "term 'literature' seems best if we limit it to the art
-of literature, that is, to imaginative literature [...] the main distinctions
-to be drawn are between the literary, the everyday, and the scientific uses of
-language" [@wellek_theory_1949, 22]. Similarly, Raymond Williams defines it to
-mean "mainly poems and plays and novels," as opposed to other kinds of
-"serious" writing that are "general," "discursive," or "the sub-literary"
-[@williams_keywords_1976, 152-153].[^ln2-engell] Sharing a bias in favor of
-aesthetic reading with my colleagues, I would rather spend my free time reading
-Kincaid or Coetzee than poring over arcane printer and telegraph manuals.
-Implicit in that bias is an idea---professed by Immanuel Kant, Friedrich
-Schiller, and, more recently, Tzvetan Todorov and Elaine Scarry---affirming the
-connection between beauty and justice, beauty and the good, beauty and the
-upright moral life. I wish to avoid disturbing the foundations of that
-intellectual edifice, and only want to point out that some find beauty in the
-strangest of places, and that texts---their movement within and across
-cultures---present many problems not exhausted by the ethic or the aesthetic
-realms. Reading fiction (of a kind) for pleasure (of a kind) may indeed be a
-vanishing pastime, but that is not to say that our society has gotten less
-interested in literature of all kinds. On the contrary, whole new disciplines
-have sprung up to deal with textual saturation: natural language processing,
-narrative generation, automatic translation and summarization, computational
-text analysis, discourse analysis, corpus linguistics, and the digital
-humanities among others.
-
-Matters always central to the field of literary studies remain vitally
-important to the functioning of modern society. Literary studies, when
-conceived broadly, provide fertile grounds for collaboration between diverse
-disciplines interested in the changing dynamics of narrative, interpretation,
-language, form, prosody, composition, dialog, discourse, story, genre,
-authorship, influence, and text. It is in this core conceptual cluster of
-operational terms that I want to locate a notion of poetics, poetics capable of
+@kovarik_revolutions_2011]. Matters always central to the field of literary
+studies remain vitally important to the functioning of modern society. Literary
+studies, when conceived broadly, provide fertile grounds for collaboration
+between diverse disciplines interested in the changing dynamics of narrative,
+interpretation, language, form, prosody, composition, dialog, discourse, story,
+genre, authorship, influence, and text. It is in this core conceptual cluster
+of operational terms that I want to locate a notion of poetics capable of
 addressing not only the machinations of poetry and prose, but also of pixel,
 code, string, script, inscription, list, document, file, record, project, and
-archive. Rather than picky epicureans of high lit, I imagine my fellow
-travelers as voracious omnivores of text. This brief interjection about value
-is not meant to re-introduce, much less argue for a side in polarizing debates
-that set science against the humanities, positivism against relativism, or
-close against distant reading. In conceiving a field of activity to make space
-for this book, I cast my vote not for an ether/or but for an and.
+archive.
 
-This is also not to say that I advocate ignorance, nor do I follow the Russian
-futurist poets, who at the beginning of the last century called on his peers to
-"cast Pushkin, Dostoevsky, Tolstoy, et al. overboard from the ship of
-Modernity" [@lawton_words_2005]. I hold instead that in the implicit pursuit of
-the subjectively beautiful discourse literary scholars may have ceded vast and
-fecund textual vistas to other disciplines. In privileging the aesthetic, the
-study of Literature has tied its fate to a vision of literature of a specific
-kind, holding a privileged form, sold in a preferential manner. Hampered by an
-artificially limited field of activity, the study of literature so conceived
-excavates a small, sacred patch of ground at the tip of an immense textual
-iceberg. The results of that strenuous activity sink to join the mass of its
-submerged and unexcavated bottom.
-
-Texts multiply and produce other texts: that is more or less the point of
-Roland Barthes's 250-page exegesis of a 30-page short story by Honoré de
-Balzac. Despite my fond appreciation of Barthes as a scholar, I suspect that
-exponential growth and diminishing returns will eventually make (if not already
-have made) such relentlessly exegetic mode of scholarship unsustainable. There
-are, by my approximation, over 20,000 monographs on Balzac,[^ln2-balzac] and at
-least as many scholarly articles on *S/Z*.[^ln2-barthes] The value of each new
-"Barthes" and his associated commentary plummets as texts multiply
-exponentially, quickly reaching the limits of human comprehension. There are no
-winners in such an arms race between "primary texts" and footnotes: only
-eventual irrelevance.
-
-[^ln2-balzac]: Search query `ti:Balzac` at OCLC Worldcat.
-[^ln2-barthes]: Search query `Barthes AND Balzac` using Google Scholar.
-
-Non-positivistic disciplines like literary studies lack a methodology for
-definitively settling any research program. For this reason, where the sciences
-usually defer to the "last word" on any given question, citation patterns in
-the humanities journals indicate that the humanities privilege historically
-established sources [@tenen_digital_2014]. Despite its stated aims of enlarging
-the canon, the logic of Said's eloquent defense of the aesthetic nevertheless
-continues a tradition of exclusionary distinction-making, which, before Said,
-denied writers like Naguib Mahfouz and musicians like Duke Ellington a place in
-the curriculum. The logic of exclusion on aesthetic basis places the critic in
-the awkward role of a taste-maker, limiting research to texts that in a sense
-were have made it into the curriculum. Scholars working on "lesser" or
-"unknown" texts and writers must expend considerable energy justifying the
-aesthetic merits of their chosen subject. At stake in the binary logic of
-aestheticism are the very notions of "beautiful" and "quotidian" as markers of
-prestige---notions that encourage disciplinary infighting, tug-of-war style, by
-which much energy is spent in struggling to pull material from one category
-into the other. In the meantime, the shoring up of the aesthetic detracts from
-the larger aims of literary scholarship, reducing literature to its ornamental
-function, as a "neat illustration" for otherwise empirical accounts of the
-human condition.[^ln2-menand]
-
-[^ln2-menand]: I am echoing Louis Menand's "the version of the humanities that
-would make many non-humanists most comfortable today is the version in which
-art and literature are ornaments on or neat illustrations of empirical accounts
-of human life" [@menand_dangers_2005, 10-17].
-
-To limit the literary to a historically contingent ideal of the aesthetic is to
-limit the project of literary analysis to a prescriptive enterprise. A whole
-tradition of Marxist criticism reminds readers that prescription cannot be
-ideologically neutral. "Literature does not exist in the sense that insects
-do," Terry Eagleton writes in his introduction to literary theory. He concludes
-in writing that "value judgments by which it is constituted are historically
-variable, [... having] a close relation to social ideologies." For Eagleton,
-values are more than the simple assertion of private taste.  Instead, they
-refer to assumptions "by which certain social groups exercise and maintain
-control over others" [@eagleton_criticism_1976, 15-47].  Who controls what? My
-interpretation of Marxist materialism is more literal than even Eagleton's. I
-am interested here in physical mechanisms of control, and not only in their
-more ephemeral ideological justifications.
-
-In trying to reconcile the NEA's dour prognoses with broad theoretical models
-and demographic trends that reflect a proliferation of textual material, I am
-confronted with two possible explanations. The writers of the report hint at
-the first themselves: to treat the ebb of literary reading (in a particular
-mode) as cause and symptom for the general decline of the arts (and perhaps of
-civilization itself). A much more hopeful outlook would have it that literary
-ecosystems have remained as vibrant and as diverse as ever. Material conditions
-for creative expression change (as in times of political oppression,
-pestilence, or war), where the spirit endures.
-
-The alternative to the first option would question the very definitions of
-literary reading. Consider the possibility of online or digital literature that
-evolves according to a logic of its own, where previous ideas of "genre" or
-"literary movements" no longer apply. To restrict literary reading to "novels,
-short stories, plays, and poetry" (as is done in the NEA report) is to deny
-some measure of literariness to song-writing, computer game-making, software
-design, and, in an obvious way, to non-fiction or, let's say, to essays of
-arbitrary length. Imagine, for example, excluding reality television from the
-survey on television habits, because the genre does not conform to some
-normative sense of what television should be. Do the literary survey-makers
-consider literature as a medium, like television, or a grab-bag of "serious
-genres" like comedy and drama? As it turns out: both. The authors concede the
-point in sometimes classifying readers by the number of books read in any
-genre, effectively equating literature with "books" [@nea_reading_2004]. But
-even that concession confuses form with function. What if "reading a book"
-begins to involve something other than moving one's eyes from left to right
-over sequentially numbered blocks of text?  Or what if books were more like
-pills or prosthetics, than parchment? The conundrum reveals a strong
-methodological bias favoring historically contingent (and likely modernist)
-conceptions of the literary. A report that initially looks like an objective,
-quantitative, descriptive analysis (that's the way things are) hides a
-qualitative, proscriptive program (that's the way they should be).
-
-[^ln2-engell]: See also @engell_teaching_1988.
-
-Starting with the late 1960s, a generation of scholars (Northrup Frye, Murray
-Krieger, and E. D. Hirsch, among others) took up the problem of value in
-literary criticism in a concerted fashion. Their conversation splintered into
-three camps: the separatists---those who viewed the production of value as a
-detriment to the discipline; the inseparatists (to coin a term)---those who
-believed that value creation is inseparable from the study of literature; and
-the compatibilists, or those who attempted to integrate the two opposing
-positions. Frye, for one, argued that value production should not be a part of
-the scholar's task, because the concept of value itself is "individual,
-unpredictable, variable, incommunicable, indemonstrable, and mainly an
-intuitive reaction to knowledge." "The more consistently one conceives of
-criticism as the pursuit of values," wrote Frye, "the more firmly one becomes
-attached to that great sect of anti-intellectualism" [@frye_value_1968, 317].
-Ever the dry wit, Frye wrote that one can pursue a sense of value no more than
-one can pursue a sense of happiness. Values, like happiness, are not end-goals
-in themselves, but rather "emotional reaction[s] to activity" and a "feeling we
-get from pursuing something else" [@frye_value_1968, 311].
-
-To this Murray Krieger responded by pointing out the inevitability of value
-formation in the work of even the most analytically inclined critic. Krieger
-writes: "The categories [of the literary, the poetic] define their subject and
-erect value criteria for admission, so that for the work to attain the
-definition is for it to qualify as a valued individual in a valued class. The
-work comes to be discovered, defined, and valued as poetry only by way of a
-preexisting generic characteristic which the critic began by adopting as his
-perspective" [@krieger_literary_1968, 292]. In other words, even for scholars
-like Frye, the process of valuation happens before the encounter with the text.
-In designating the poem as a poem, the critic already has brought with her a
-set of preconceived notions that distinguish what constitutes poetry, and what
-does not; who is in and who is out. From this viewpoint, abjuring the task of
-explicit value formation borders on the irresponsible.
-
-Critics like E. D. Hirsch offered a compromise between these two positions,
-arguing that although value-making contaminates all acts of interpretation, the
-scholar can and should adopt an interrogatory stance towards value creation as
-such, which ultimately allows her to "form new judgments of value and
-significance" [@hirsch_literary_1968, 331]. In this camp we also find
-"Contingencies of Value," by Barbara Herrnstein Smith, published in 1983. At
-the time, Smith urged her peers to make the examination of social
-value-creating mechanisms a part of their academic discipline. "What are
-commonly taken to be *signs* of literary value, are also its *springs*," Smith
-writes [@smith_contingencies_1983, 30]. And the springs unmistakably push the
-whole enterprise towards the Western, economically privileged model of the
-canon. Texts that persist in the teaching and the selling of literature survive
-as long as they do not radically subvert the prevailing ideology. Smith stops
-short of offering a way out. For even as the canon grows to include previously
-excluded voices, those voices take on the shape of soft acquiescence. The
-custodians of the Western canon "cannot grasp or acknowledge" that alternative
-forms of literariness and textuality can take on the functions of Dante or
-Homer for others [@hirsch_literary_1968, 1-35]. I am appropriately galvanized
-by Smith's fiery rhetoric, but must admit that not much has changed since the
-1980s. The compromise does not approach the very peculiarity of the question
-itself. Must we value the object of our study?
-
-To understand the peculiarity of the question, try asking: Does an
-anthropologist observing cock fighting, condone animal cruelty? Does a
-historian writing about war, sanction violence? Does a philosopher working on
-the problem of other minds, love solipsism? In each case, synonyms for
-value-making---loving, sanctioning, condoning---appear out of place,
-incongruent with the inquiry at hand. Something is rotten in the very
-formulation of the query. To put it differently: Must we study *only* what we
-value? I cannot think of a way to defend the answer to the affirmative. A
-zoology that singularly insists on the study of beautiful animals is itself a
-strange creature.[^ln2-zoo] A more radical compromise compels us to seek value
-in the importance of the inquiry itself: in the quality of the questions
-raised, and in the relevance of the answers given. If literary reading of a
-certain kind has the power ascribed to it by the NEA report (increased civic
-participation, etc.), literary humanities need not concern themselves with the
-protection of the literary. The survival of the field depends on the freedom of
-its cadres to pursue the literary function everywhere, indiscriminately. A more
-neutral and broad consideration of the literary domain can include and preserve all
-extant forms of textuality.
-
-[^ln2-zoo]: There are several studies that explore the effect of perceived
-aesthetics on zoology and conservation. See esp.  @stokes_things_2007;
-@frynta_are_2009. The short of it: cute animals get more funding.
-
-I mean by this something more than the emergence of new forms of "poetry" or
-the "novel," but also the emergence of literary art forms that would continue
-the set of poetry, novel, and whatever comes next.  But, because the field of
-literary studies (like any discipline) has instituted these foundational
-taxonomies at a particular point of time, its institutions may have difficulty
-perceiving newly-emerged forms of literary evolution.
-
-I am trying to burrow (impatiently, because the archive is thick, and the
-bedrock far) from a big idea, like literature, down to its more modest textual
-forms, and into the material substratum underlying all print media---paper,
-digital, or otherwise. For this, I need an operational definition of
-literature, free (to the extent it is possible) from its normative spectres:
-something like the "systemic application of textuality to human life," where
-textuality is understood as "the site of literary activity." But I am not yet
-ready to move beyond the obvious tautology.
-
-
-The narrative of the long tail has since been [@benghozi_long_2010]
+The accord between disparate vocabularies proceeds in the belief that the real
+cannot be removed from the ideal, nor the instrumental form the ethical or the
+aesthetic. Beauty can thrive in the strangest of places. Conversely, the
+understanding of literature presents the scholar with many problems not
+exhausted by the ethic or the aesthetic realms. To limit the literary to a
+historically contingent ideal of the aesthetic is to limit the project of
+literary analysis to one field of textual activity among many. Instead, I
+insist on extending poetics to all textual applications. Literature lives
+wherever text comes into contact with human life. These points of contact are
+never ideologically neutral, as Terry Eagleton often reminds. Where there are
+canons, there are value judgments which by definition stand in "close relation
+to social ideologies." For Eagleton, values are more than the simple assertion
+of private taste. Instead, they refer to assumptions "by which certain social
+groups exercise and maintain control over others" [@eagleton_criticism_1976,
+15-47]. Who controls what? *Plain Text* is finally an examination of physical
+control, enacted through device and text.
 
 ## Methodology
 
