@@ -976,11 +976,11 @@ the voids between clusters of vertical and not-so-vertical I's"
 complementary to Alexander Galloway's understanding of the same. In "The
 Interface Effect," an influential monograph in new media studies, Galloway
 defines interfaces as a process of fundamental "incompatibility" on the
-"mediating threshold between self and the world" [@galloway, viii]. As the
-title suggests, the interface, for Galloway is always an effect, rather than a
-thing. "The interface is a kind of a semiotic short circuit," Galloway writes
-[@galloway 38]. It is for him "an interface between the edge and the center"
-[@galloway 40].
+"mediating threshold between self and the world" [@galloway_interface_2012,
+viii]. As the title suggests, the interface, for Galloway is always an effect,
+rather than a thing. "The interface is a kind of a semiotic short circuit,"
+Galloway writes. It is for him "an interface between the edge and the center"
+[@galloway_interface_2012, 38-40].
 
 [^ln5-nabokov]: In this now widely cited passage on rereading, Nabokov writes:
 "Curiously enough, one cannot read a book: one can only reread it. A good
