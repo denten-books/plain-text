@@ -337,7 +337,7 @@ photo-detectors, RAW image formats, complementary metal–oxide–semiconductor
 (CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
 image manipulation techniques. Such a study is in peril of being misguided by
 theoretical models that have no basis on reality. It is not that theorists
-cannot say anything about photography without knowing its technichal
+cannot say anything about photography without knowing its technical
 foundations, but rather that they can say more when they do. To my mind, theory
 must be continually checked and refined against practice, just as practice must
 be continually checked and refined against generalized insight. Similarly, it
@@ -346,7 +346,7 @@ literary studies---word, text, narrative, discourse, author, story, book,
 archive---are thoroughly enmeshed in the underlying physical substratum of
 paper and pixel. The articulation of higher-level abstractions cannot attain
 its full expressive potential without a thick description of their lower-level
-base particulates. I encourage the reader to encounter the immedeate context of
+base particulates. I encourage the reader to encounter the immediate context of
 reading (and writing) anew. Throughout, I will connect habituated intuitions of
 the mind with such knowledge "at hand" and "fingertip knowledge."
 
@@ -354,45 +354,51 @@ In this approach to "doing" theory, *Plain Text* joins the experimental and
 material "turns" steering the academy toward critical practice, especially in
 fields long-dominated by purely theoretical reflection. The turn represents a
 generation's dissatisfaction with "armchair" philosophizing. Recall the burning
-armchair, the symbol of "experimental philosophy" movement proposed by Joshua
-Knobe and Shaun Nichols, who write that "many of the deepest questions of
-philosophy can only be properly addressed by immersion oneself in the messy,
-contingent, highly variable truths about how human being really are"
-[@knobe_experimental_2008, 3]. In the field of media and literary studies, it
-is almost impossible to avoid the influence of "archeology of knowledge," as
-advanced in its many permutations by Michel Foucault and his followers. Yet,
-such archeologies deal with "artifacts" and "excavations" only as metaphors for
-what remains, methodologically, a history of ideas.
+armchair, the symbol for experimental philosophy. Joshua Knobe and Shaun
+Nichols, some of the early proponents of the movement, explain that "many of
+the deepest questions of philosophy can only be properly addressed by immersion
+oneself in the messy, contingent, highly variable truths about how human being
+really are" [@knobe_experimental_2008, 3]. The rise of the many literary and
+media archeology laboratory and maker spaces in the academia can be seen as a
+part of the same trend, which "makes good" on the implicit metaphors of time,
+space, labor, and artifact.
 
-In the recent decade or so, a number of scholars began to "make good" on the
-archeological metaphor by turning their attention to actual artifacts and
-excavations, in what sometimes is called the history of craft or "artifactual
-knowledge." In preface to a recent volume on *Ways of Making and Knowing*,
-edited by Pamela Smith, Amy Meyers, and Harold Cook, the editors write that the
-"history of science is not a history of concepts, or at least not that alone,
-but a history of the making and using of objects to understand the world"
-[@smith_ways_2014, 12]. As a historian of science in the Early Modern period,
-Smith translates that insight in the laboratory, where along with her students
-she bakes bread and smelts iron to recreate long-lost artisanal techniques. The
-major insight from Smith and her colleagues is that traditional "book
-knowledge"---the kind of information that finds itself into novels, textbooks,
-and technical manuals---represents only a small part of the sum total of human
-expertise. Much of our knowledge is instead secreted into the artifacts and
-institutions where it unfolds through daily practice. For literary and media
-scholars interested in key operational concepts that means supplementing
-theoretical insight with a robust sense of curiosity about the world.
+In preface to a recent volume on *Ways of Making and Knowing*, edited by Pamela
+Smith, Amy Meyers, and Harold Cook, the editors write that the "history of
+science is not a history of concepts, or at least not that alone, but a history
+of the making and using of objects to understand the world" [@smith_ways_2014,
+12]. As a historian of science in the Early Modern period, Smith translates
+that insight in the laboratory, where along with her students she bakes bread
+and smelts iron to recreate long-lost artisanal techniques. The major insight
+from Smith and her colleagues is that traditional "book knowledge"---the kind
+of information that finds itself into novels, textbooks, and technical
+manuals---represents only a small part of the sum total of human expertise.
+Much of our knowledge is instead secreted into the artifacts and institutions
+where it unfolds through daily practice. For literary and media scholars
+interested in key operational concepts that means supplementing theoretical
+insight with a robust sense of curiosity about the world, in what Smith calls
+"artifactual knowledge."
 
-Digital technology, from typesetting software to e-book readers and word
-processors, shapes our everyday encounters with literature and textuality. That
-medium, as I will argue throughout, should not be taken as a value-neutral
-conduit of information. Typesetting software, e-book readers, and word
-processors contain in themselves implicit models of text and
-discourse-formation. They very literally contain system-level definitions of
-what a word is or what counts for a document. It is our job then to recover
-latent forms of textuality still extent on devices from mobile phones, to
-laptops, and super computers, and to expose them to critical interrogation. The
-task of media archeology on the level of the operating system is a literary
-scholar's version of baking bread and smelting iron.
+The artifactual knowledge related to digital technology---from typesetting
+software to e-book readers and word processors---shapes our everyday encounter
+with literature and textuality. That medium, as I will argue throughout, should
+not be taken as a value-neutral conduit of information. Neither do I advocate
+for technological determinism. Rather, I follow Lewis Mumford and Langdon
+Winner in the belief; that the implementation of technical systems of all kinds
+changes the exercise of political power in subtle and profound ways. Artifacts
+may not hold beliefs about politics. Political power is exercised through them.
+Stairs do not discriminate against the walking disabled, yet the failure to
+enforce accessibility does. Typesetting software, e-book readers, and word
+processors similarly contain in them implicit models of discourse-formation and
+accessibility. They must literally encode definitions of what a word is or what
+counts for a document on a system level. Contemporary documents may be
+structured to limit access by licence or geography, that is not to mention ab
+
+It is our job then to recover latent
+forms of textuality still extent on devices from mobile phones, to laptops, and
+super computers, and to expose them to critical interrogation. The task of
+media archeology on the level of the operating system is a literary scholar's
+version of baking bread and smelting iron.
 
 The idea that "meaning" is always in some sense "operational meaning" is a
 proposition implicit in several related philosophical traditions. The first of
