@@ -85,13 +85,13 @@ Potential reviewers
 ===========================
 
     Matt Jones
-    Adriaan van der Weel
+    *Adriaan van der Weel
     Schnapp
     Patrik Svensson
-    Andrew Piper
+    *Andrew Piper
     Lisa Gitelman (Columbia Ph.D.)
     Matt Gold
-    Ted Underwood
+    *Ted Underwood
     Hoyt Long
     Nancy Baym
     Gabriella Coleman
@@ -103,6 +103,8 @@ Potential reviewers
     Ben Peters
     [Caroline Bassett](http://www.sussex.ac.uk/profiles/24166)
     Henry Petroski!
+    *Alan Liu
+    *Kathleen Fitzpatrick
 
 Send Book To
 ===========================

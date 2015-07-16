@@ -383,41 +383,36 @@ The artifactual knowledge related to digital technology---from typesetting
 software to e-book readers and word processors---shapes our everyday encounter
 with literature and textuality. That medium, as I will argue throughout, should
 not be taken as a value-neutral conduit of information. Neither do I advocate
-for technological determinism. Rather, I follow Lewis Mumford and Langdon
-Winner in the belief; that the implementation of technical systems of all kinds
-changes the exercise of political power in subtle and profound ways. Artifacts
-may not hold beliefs about politics. Political power is exercised through them.
+for technological determinism. Instead, I follow Lewis Mumford and Langdon
+Winner in the insight that the implementation of technical systems changes the
+exercise of political power in subtle and profound ways. Artifacts cannot hold
+beliefs about politics. Political power is rather exercised through them.
 Stairs do not discriminate against the walking disabled, yet the failure to
 enforce accessibility does. Typesetting software, e-book readers, and word
 processors similarly contain in them implicit models of discourse-formation and
-accessibility. They must literally encode definitions of what a word is or what
-counts for a document on a system level. Contemporary documents may be
-structured to limit access by licence or geography, that is not to mention ab
+accessibility. Contemporary documents may be structured to limit access by
+licence, geography, or physical ability (as in the case with the sight
+impaired). It is a part of our job as literary and cultural critics then to
+expose and to make available to critical introspection the latent forms of
+textuality which manifest through the many conduits of the so-called new media:
+from mobile phones, to laptops, to ebook readers, to cloud computing services,
+and to super computers. To make literal the task of media archeology on the
+level of the device and the operating system is a media scholar's version of
+baking bread and smelting iron.
 
-It is our job then to recover latent
-forms of textuality still extent on devices from mobile phones, to laptops, and
-super computers, and to expose them to critical interrogation. The task of
-media archeology on the level of the operating system is a literary scholar's
-version of baking bread and smelting iron.
-
-The idea that "meaning" is always in some sense "operational meaning" is a
-proposition implicit in several related philosophical traditions. The first of
-these is pragmatism, broadly conceived. William James articulates that view
-when he writes that "reality is seen to be grounded in a perfect jungle of
-concrete expediencies" [@james_pragmatisms_1907]. For James (and, to some
-extent, for his fellow travelers in American pragmatism, Charles Sanders Peirce
-and John Dewey)[^ln-pragma-truth] the pragmatic answer to the question of truth
-could be reduced to the questions efficient causes and effects. In his essay
-"Pragmatism's Conception of Truth," James asks: "How will the truth be
-realized? What concrete difference will its being true make in anyone's actual
-life? What experiences will be different from those which would obtain if the
-belief were false?" Frank Ramsey, the young British philosopher close to Ludwig
-Wittgenstein, was influenced by the Americans and would later write that
-meaning "is to be defined by reference to the actions to which asserting it
-would lead" [@ramsey_foundations_2013, 155].
-
-[^ln-pragma-truth]: For a more thorough discussion on the topic see
-@seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
+That idea that "meaning" is always in some sense "operational meaning" is in
+itself a species of pragmatism. William James articulates that view when he
+writes that "reality is seen to be grounded in a perfect jungle of concrete
+expediencies" [@james_pragmatisms_1907]. For James for his fellow travellers,
+pragmatic truth answers always involved a discussion of efficient causes and
+effects.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth,"
+James asks: "How will the truth be realized? What concrete difference will its
+being true make in anyone's actual life? What experiences will be different
+from those which would obtain if the belief were false?" Frank Ramsey, the
+young British philosopher close to Ludwig Wittgenstein, was influenced by the
+Americans and would later write that meaning "is to be defined by reference to
+the actions to which asserting it would lead" [@ramsey_foundations_2013,
+155].[^ln-pragmatism]
 
 For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
@@ -435,101 +430,70 @@ fields lie in relation to specific communities of practice, which often do not
 in themselves employ a controlled vocabulary. What counts for "code" and
 "poetry" in one domain, like computer science, may not account for the very
 same in another domain, like creative writing. An engineer's evocation of code
-as poetry can diverge from a poet's.  There's no sense in trying to equivocate
+as poetry can diverge from a poet's. There's no sense in trying to equivocate
 divergent languages exactly, where concepts like "poetry" exist only in their
 social instantiation. The language of poetry morphs from literary period to
 literary period: those who write code by day and poetry by night might employ
-differing if not outright contradictory vocabularies.
+differing if not outright contradictory vocabularies. My aim throughout has
+been to find point of congruence between languages, where seemingly disparate
+communities of practitioners share a common sense of goal and purpose.
 
-[^ln-witt]: For more on the connection between Wittgenstein and James
-see @goodman_james_2004.
+Finally, *Plain Text* is an attempt to repay the debt of materialism. The
+contemporary life of the mind is supported by complicated systems and
+institutions which are often beyond an individual's ability of understanding or
+control. In almost a decade of teaching the foundations of computing in the
+humanities, I routinely encounter smart and sophisticated people who feel
+hopelessly alienated from the tools of their everyday intellectual activity. I
+suspect that much of the metaphysical angst directed against computation in
+general is really a symptom of that fundamental alienation. We stare into small
+black boxes for hours on end, suspecting, in the absence of other feedback,
+that our gaze is met in bad faith.
 
-The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
-perhaps most pronounced in the teacher colleges, where James and Dewey are
-still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[@brown_situated_1988, @lave_situated_1991] and
-"experiential learning"[@kolb_hegel_1981]: both terms denoting some sense of
-necessary synthesis between of knowing and doing. In the field of linguistics,
-philosophy of language, and communication studies, pragmatics are
-well-encapsulated by the "language-as-action tradition," which harkens back to
-the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
-[@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
-perhaps the paradigmatic formulation of the idea that words don't just mean
-things, but that they enact change in the world.
+Materialist critique and critical theory at their best aims to see "the human
+bottom of non-human things" [@horkheimer_critical_1982, 143]. Critical theory
+promises human emancipation, but as Max Horkheimer wrote, "the issue is not
+simply the theory of emancipation; it is the practice of it as well"
+[@horkheimer_critical_1982, 233]. Scholars like Alan Liu and Kathleen
+Fitzpatrick have recently began to turn the tools of critical theory towards
+the instrumental contexts of knowledge production [@liu_laws_2004;
+@fitzpatrick_planned_2011]. I join that tradition to argue that in treating the
+the instrumentation of intellectual production (and consumption) uncritically,
+all of us, readers and writers, accumulate an ethical debt, owed to ourselves
+and to the world. It is one thing, for example, to theorize about the free
+movement of literary tropes across cultures and continents, and quite another
+to have that sentiment appear in print behind paywalls inaccessible to most
+reading publics who have no means of affording institutional subscription
+rates. Similarly, the distinction between form and content identifies an
+important analytical distinction in the abstract, but instantiated in
+particular way as Microsoft Word (`.docx`) or Adobe Reader (`.pdf`) file
+formats, the same distinction to effect material divisions of labor between
+knowledge workers, editors, proofreaders, "offshore" typesetting
+shops,[^ln-sweatshop] and international conglomerates that control vectors of
+literary distribution. In enacting a reconciliation of vocabularies, my goal
+then is to reclaim some of the ordinary material contexts of everyday knowledge
+production, connecting them to long standing concerns in aesthetic theory,
+literary analyis, and social thought.
 
-When applied to task of writing media theory, history of science, or the
-philosophy of technology, the pragmatic tradition suggests we move beyond
-intellectual history, that is beyond mere words, into the examination of
-real-world materials, practices, and institutions that sustain ideas.
-
-Finally, this book, and any notion of critical practice, owes a debt to the
-legacy of critical theory. In the past few decades, the project of critical
-theory (and related "schools" like cultural studies) has lost some of its
-evocative power. Rather than rehashing a dry academic debate, allow me
-enumerate some reasons for its decline in my own thinking. The first is the
-movement's overt political goals. Patently the "stock" of Marxism, socialism,
-communism and related ideologies has declined. Major critical theorists like
-Roberto Unger and Michel Berube are now legitimately writing about the left's
-political crisis. Moreover, the political aspirations of critical theorists
-were always somewhat difficult to defend in the face of other, contradictory
-academic values like objectivity, neutrality, and critical thinking. However
-problematic those terms are in themselves, we must acknowledge that they
-represent a set of deeply-seated beliefs about the nature of scholarship.
-Already present in Socratic or Confucian models of rhetoric, these values place
-an emphasis on questioning received knowledge and on empowering students to
-arrive at their own conclusions. In that light, the task of critique should be
-to expose political assumptions rather than to promote a particular political
-ideology.
-
-As journals, departments, and libraries struggle financially, a whole industry
-of middlemen thrives on the monetization of knowledge that rightly belongs to
-the public domain. Libraries spend inordinate amount of money to essentially
-buy back the research produced within their own community. Academic journals
-that operate on principles of peer review and volunteer labor are then entered
-into private circulation. Prices of $30-60 per article in the humanities are
-not unusual. In perpetuating these conditions we reduce the notion of critique
-to a meaningless rhetorical trope. The examination of our own immediate
-material contexts of knowledge production and dissemination are crucial to
-conversations about "world literature," "public discourse," "collective
-memory," or "politics in the archive."
-
-*Plain Text* is an attempt to repay the debt of materialism. The alienation, as
-I will argue here, begins with the roots of my profession: namely the
-production of textuality in everyday life. It is quite likely that most of
-readers spend the majority of their waking hours in front of a personal
-computer, typing letters on a screen (among other things worthy of their own
-examination, but outside of the scope of this book). My goal then is to reclaim
-the ordinary material contexts of a dominant mode of knowledge production and
-dissemination. It is one thing to theorize about notions of form and content,
-and it is quite another to see how form and content are encoded in .txt and
-.pdf formats and to further how these distinctions then affect material
-divisions of labor between "knowledge workers," "content producers,"
-typesetting sweatshops, and international conglomerates that control vectors of
-literary distribution.
-
-What is the role of literary scholar in reflecting on the history of computing?
-To unpack the metaphor throughout. Floating gate. Liquid crystal. Avalanche
-injection. Stack overflow. But unpacking, in this case, must mean something
-more than explaining. It means making good on the metaphor.
 
 ## Method
 
-In a study on the construction of scientific knowledge, Bruno Latour and Steve
-Woolgar perform what they call an ethnography of a science lab by exposing the
-passage of ideas from applied experiment to literary production. For Woolgar
-and Latour a laboratory functions as a factory of sorts, ingesting matter and
-artifact to produce fact and inscription, beyond simplistic notions of
-knowledge-making and discovery [@latour_laboratory_1986]. A scientist could
-object that inscription-making is merely a by-product of the lab's research
-activity. Woolgar and Latour challenge that view in showing how laboratory
-participants closest to the material conditions of knowledge production are, at
-the same time, the most marginalized members of the research process. Lab
-technicians handle the matter of mass spectrometers and bioassays. Doctorate
-degree holders, by contrast, spend most of their time handling inscription
-devices like printers and computer consoles. Were we to observe the laboratory
-from the outside, as a black box of sorts, we would see the flow of
-instrumentation and matter inside and, after a period of gestation, a flow of
-inscriptions out.
+Methodologically, materialism of the sort I described above has naturally led
+me to sociological approaches to the study of knowledge formation. In a study
+on the construction of scientific knowledge, Bruno Latour and Steve Woolgar
+perform what they call an ethnography of a science lab by exposing the passage
+of ideas from applied experiment to literary production. For Woolgar and Latour
+a laboratory functions as a factory of sorts, ingesting matter and artifact to
+produce fact and inscription, beyond simplistic notions of knowledge-making and
+discovery [@latour_laboratory_1986]. A scientist could object that
+inscription-making is merely a by-product of the lab's research activity.
+Woolgar and Latour challenge that view in showing how laboratory participants
+closest to the material conditions of knowledge production are, at the same
+time, the most marginalized members of the research process. Lab technicians
+handle the matter of mass spectrometers and bioassays. Doctorate degree
+holders, by contrast, spend most of their time handling inscription devices
+like printers and computer consoles. Were we to observe the laboratory from the
+outside, as a black box of sorts, we would see the flow of instrumentation and
+matter inside and, after a period of gestation, a flow of inscriptions out.
 
 Although much cited in the study of culture, science, and technology,
 *Laboratory Life* has had curiously little impact on the study of literature,
@@ -706,4 +670,24 @@ the physical minutiae of the literary--technological encounter. Yet the point
 of contact is crucial, for it is here that the subject seems to disappear, in a
 compressed moment of time that needs to be unpacked with some precision.
 
+[^ln-sweatshop]: See @freeman_high_2000.
+
+[^ln-witt]: For more on the connection between Wittgenstein and James
+see @goodman_james_2004.
+
+[^ln-pragma-truth]: For a more thorough discussion on the topic see
+@seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
+
+[^ln-pragmatism]: The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
+perhaps most pronounced in the teacher colleges, where James and Dewey are
+still read widely, which could explain the ascendancy of such pedagogical terms
+as "situated cognition"[@brown_situated_1988, @lave_situated_1991] and
+"experiential learning"[@kolb_hegel_1981]: both terms denoting some sense of
+necessary synthesis between of knowing and doing. In the field of linguistics,
+philosophy of language, and communication studies, pragmatics are
+well-encapsulated by the "language-as-action tradition," which harkens back to
+the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
+[@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
+perhaps the paradigmatic formulation of the idea that words don't just mean
+things, but that they enact change in the world.
 ## Works Cited
