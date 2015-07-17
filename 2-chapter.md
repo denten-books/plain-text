@@ -21,6 +21,17 @@ header-includes:
 ## Chapter 2: Literature Down to the Pixel
 Keywords: `literature, value, control, microanalysis`
 
+In an ASCII-rendered plain text file, byte count corresponds to character
+count.[^ln-char] Let these words soak in for a moment. I will spend the rest of
+the book unpacking this idea. We will have to come to terms with what "plain
+text," "ASCII," and "bytes" really represent. But for now, a common-sense
+understanding of the terms should be enough to form the intuition that texts
+and characters are units of meaning that make sense to humans; and that bytes,
+by contrast, "make sense" for machines. Remarkably, the two modes of
+meaning-making gain a measure of equivalence under the singular condition of
+plain text (and even then, not always, and with many caveats).[^ln-human],
+[^ln-meaning]
+
 ### 5.2 Copy Text (textual criticism)
 
 The division of text into form and content makes a difference in more

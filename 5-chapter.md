@@ -16,6 +16,7 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
+Prosthetics.
 
 ### 5.1 The Human Assumption (Heidegger + marx)
 
