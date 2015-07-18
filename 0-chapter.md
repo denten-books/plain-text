@@ -19,44 +19,52 @@ header-includes:
 to a particular situation of a software engineer encountering a literary
 scholar. For a long stretch of my professional life, these two roles remained
 separate from each other. I worked at one thing and I studied another. At the
-time, I simply did not think that code has anything to do with poetry. With
-time, I realized that they have everything to do with each other and saw that
-all forms of contemporary textuality, from sacred to profane, pass through some
-form of codified mediation.
+time, I simply did not think that code has anything to do with poetry. The idea
+for the book came to me in a moment of realization, after I was asked one of
+those naive but fundamental questions, of the kind that can plunge research
+into a long and winding hole. Someone asked to explain what text is, when I
+understood, to my amazement, that despite my training as a literary scholar, I
+I understood very little about digital textuality, of the kind that surrounded
+me on a daily basis. And despite my professional experience as a programmer, I
+could not really explain the mechanisms by which keystrokes turned into pixels,
+and pixels into letters, and letters into words. I mean I knew it on some
+level, but also not at all. I was, despite my best efforts, surrounded by
+magical machines that played code and poetry, but I did not yet exactly know
+how.
 
-Text and code consumed most of my thought. Initially, at the point of contact,
-the two selves spoke different languages. It was and continues to be a
-disconcerting process, by which things dear and familiar to me, in both worlds,
-grew strange and unfamiliar, revealing themselves to be sometimes less than and
-sometimes more than I comfortably expected. Nothing could be assumed from the
-start. Field specific jargon, down to the naive foundations, had to be unpacked
-and examined for hidden assumptions that prevented congruence. I heard Lev
-Manovich once describe his massive image panoramas as an artifact of an alien
-life in the process of observing the human condition. My other compatriot and
-sometimes mentor, Svetlana Boym, also considers her estrangement as a
-methodology, applicable to life and scholarship. Defamiliarization plays an
-instrumental part of an immigrant's survival mechanism. The task of the
-digitally displaced becomes to obstinately retain the discomfort of the
-encounter with the machine. Estrangement---always at the heart of immigrant or
-queer poetics---reconciles without seeking wholeness and integration. I
-dedicate this book then to queers and immigrants, literal and
-figurative---spatial, literary, technological---to those being displaced
-unwillingly, to those exiled within and without, to those who understand the
-need for displacement, to those transgressing purposefully, and to those
-willing to trespass.
+Initially, at the point of contact, the two selves spoke different languages.
+It was and continues to be a disconcerting process, by which things dear and
+familiar to me, in both worlds, grew strange and unfamiliar, revealing
+themselves to be sometimes less than and sometimes more than I comfortably
+expected. Nothing could be assumed from the start. Field specific jargon, down
+to the naive foundations, had to be unpacked and examined for hidden
+assumptions that prevented congruence. Lev Manovich once described his massive
+image panoramas as an artifact of an alien life in the process of observing the
+human condition. My other compatriot and sometimes mentor, Svetlana Boym, also
+considers her estrangement as a methodology, applicable to life and
+scholarship. Defamiliarization plays an instrumental part of an immigrant's
+survival mechanism. The task of the digitally displaced similarly becomes to
+obstinately retain the discomfort of the encounter with the machine.
+Estrangement---always at the heart of immigrant or queer poetics---reconciles
+without seeking wholeness and integration. I dedicate this book then to queers
+and immigrants, literal and figurative---spatial, literary, technological---to
+those being displaced unwillingly, to those exiled within and without, to those
+who understand the need for displacement, to those who transgress purposefully,
+and to those willing to trespass.
 
-## Short Thesis
+## Thesis
 
 My own trespassing converged on plain text as a primitive field of activity,
 where literary scholarship and software engineering intersect. Much of the book
-will be in the drawing out of what that field entails. ThIS BOOK IS ABOUT THE
-IIMPACT OF TEXTUAL ENCODING ON LITERY THEROY. The reader should not however
-expect something like a complete history of character encoding or a survey of
-textual theory. Rather, my argument progresses from the action of the
-alphanumerical keyboard switch, through copper and silicon to the floating gate
-and the liquid crystal, and on towards the human. It is but a single possible
-pass through a cavernous black box: a recollection of a passage which left
-behind traces of illumination that reflect the vagrancies of the journey.
+will be in the drawing out of what that intersection entails. On some level,
+*Plain Text* is a book about the link between textual encoding and
+interpretation. The reader should not however expect a totalizing history of
+modern computing or a survey of textual theory. Rather, the argument progresses
+from the action of the alphanumerical keyboard switch, through copper and
+silicon to the floating gate and the liquid crystal, and on towards the human.
+It is but a single possible pass through a cavernous black box: a recollection
+of a passage which left behind traces of illumination that reflect the
+vagrancies of the journey.
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -64,69 +72,65 @@ in opposition to *fancy text*: "text representation consisting of plain text
 plus added information."[^ln-uni] Yet, plain text is not without its own forms
 of mediation. All matter-bound inscription must take on some added properties
 of its preferred medium, however contingent these may be. The simplicity of
-plain text signifies a systematic minimalism with the view toward human, as
-opposed to machine or system, legibility. In this encoded preference, plain
-text contains a model of humanity.
+plain text signifies systematic minimalism with the view towards human
+legibility, (and not towards that of a system or a machine). In this encoded
+preference for legibility of a specific kind, I argue that plain text contains
+a model of humanity. A part of the book's job will be to recover and to
+describe that model.
 
-As a frame of mind, the use of plain text implies a particular ethics of
-reading and writing. The book unfolds a history of and an argument *for* plain
-text, as a mode of preferred engagement---an interface---with the word. I argue
-that "other information" routinely embedded in all forms of contemporary
-textuality includes more than formal instructions for things like "font size"
-or "paragraph justification." Increasingly, devices that mediate literary
-activity encode specific forms of governance and control. Thus to read and to
-write in plain text is to signal a preference for legibility, for simple
-systems, and for computational and media environments that are open to
-introspection.
+As a frame of mind, the use of plain text implies an ethics of reading and
+writing. The book unfolds a history of and an argument *for* plain text, as a
+mode of preferred engagement---an interface---with the word. That engagement
+should be open for introspection, because "added information" routinely
+embedded in all forms of contemporary textuality can include more than
+innocuous instructions for document attributes like "font size" or "paragraph
+justification." Increasingly, devices that mediate literary activity encode
+specific forms of governance and control.
 
 To trace the flows of governance and control that lurk beneath the text, of the
 sort that Friedrich Kittler warns us, must mean more than passive apprehension
 of footprints indicating the "evanescent absence" of life.[^ln-lacan] Rather it
 entails the proactive deployment of tools like *tracert*, *pcap*, *ssh*, or
 *traceroute*. These tools "hop" across, "sniff" packets in, burrow through,
-survey, traverse, and flood network topographies, channeling itinerant streams
-of data back into mangroves of comprehension *for* readers and writers (as the
-very subjects whose loss Kittler laments). Only in these encrypted tunnels and
-secure shells can anything like the digital humanities take root.
+survey, traverse, and flood network topographies. Plain text channels itinerant
+streams of data back into mangroves of comprehension *for* readers and writers
+(as the very subjects whose loss Kittler laments). Only in such encrypted
+tunnels and secure shells can anything like the digital humanities take root.
 
-The book makes a case for the recovery of textual roots latent in the machinery
-of contemporary computing. Software developers, graphic designers, system
-administrators, and project managers architect technologies that affect social
-practice deeply: from the ways we relate to our family and friends to the
-formation of shared cultural archives. Because such "cultural techniques" are
-formative of our culture, supposedly technical decisions like choosing a text
-editor, a filing system, or a social networking platform cannot be adequately
-addressed in shallow instrumental terms limited to efficacy, speed, or
-performance. A secondary aim of this volume is therefore to convince computer
-"users" to view their computational environments as a literary system of sorts.
-I mean a "literary system" differently to what one might conventionally mistake
-for a "binary" or "digital" one, however imprecise those terms are in everyday
-use. In clarifying usage, I ask those who may have considered themselves mere
-"users" to become close readers, thinkers, and makers of technology, able to
-apply the same critical acuity to reading code and device as they do to the
-close reading of prose and poetry.
+The book further makes a case for the recovery of textual roots latent in the
+machinery of contemporary computing. From shaping the ways in which we relate
+to our family and friends to the design of shared cultural archives, software
+engineers routinely architect technologies that aim at nothing less than a
+deep transformation (often phrased as a "disruption") of the social fabric.
+Because such "cultural techniques" are formative of our culture, supposedly
+technical decisions like choosing a text editor, a filing system, or a social
+networking platform cannot be adequately addressed in shallow instrumental
+terms limited to efficacy, speed, or performance. A secondary aim of this
+volume is therefore to convince computer "users" to view their computational
+environments as a literary system of sorts. I mean a "literary system"
+differently to what one might conventionally mistake for a "binary" or
+"digital" one, however imprecise those terms are in everyday use. In clarifying
+usage, I ask those who may have considered themselves mere "users" to become
+close readers, thinkers, and makers of technology, able to apply the same
+critical acuity to reading code and device as they do to the close reading of
+prose and poetry.
 
-## Longer Thesis
-
-The central concern of the book is to dispel the illusion of verisimilitude
-between text on paper and text on the screen. The words may look the same, but
-the underlying material affordances of the medium differ in significant detail.
-As an obvious example, consider a news report that omits/adds important details
-based on the reader's location, or an e-book reader device that highlights
-popular passages. For a literary scholar, such instability of medium means
-analysis cannot be confined to reading for meaning alone. How will close
-reading persist, when the reading device reconfigures a text dynamically, to
-fit individual taste, mood, or politics? The formulation of this narrowly
-literary-theoretical concern leads to the broader question of empowered
-human--computer interaction. Building on the recent work of scholars like Wendy
-Hui Kyong Chun, Alexander Galloway, Matthew Kirschenbaum, Lori Emerson, and
-Lisa Gitelman, I contend that textual legibility is becoming increasingly
-crucial to a critical understanding of what it means to remain human in a
-digital world.
-
-Furthermore, I argue that some of the higher-level social ills of the
-contemporary public sphere, mass surveillance or online censorship, for
-example, are related to our failure to come to terms with the changing
+In that process, I hope the reader will find that not all texts are created
+equal. In print, traditional distinctions between form and content lie flat.
+The printing press firmly embeds letters into paper, leaving no space between
+ink and page. From the early days of the internet, media-minded critics like
+Jerome McGann [@mcgann_radiant_2004], Johanna Drucker [@drucker_digital_2001],
+and Katherine Hayles [@hayles_print_2004] have compelled literary scholars to
+re-evaluate textuality in its media-specific contexts. Their work reminds us
+that the flatness of digital text endures only as an illusion. A substantial
+gap separates presentation from source material. Low-level, operational
+intuitions governing textuality---ideas about form, content, style, letter, and
+word---change profoundly as text shifts its confines from paper to pixel.
+Forces of capital and control often exploit that gap, relying on technological
+obscurity and institutional momentum to promote their ends (for better or for
+worse). In *Plain Text*, I argue that some of the higher--level social ills of
+the contemporary public sphere---mass surveillance or online censorship, for
+example---are related to our failure to come to terms with the changing
 conditions of digital textuality. A society that cares about the long-term
 preservation of complex discursive formations like free speech, privacy,
 cultural heritage, or deliberation online, would do well to take heed of
@@ -134,60 +138,23 @@ textual building blocks at their foundation. Text matters because how it is
 encoded, transmitted, and stored decides who gets to decode, receive, and
 access.
 
-Not all texts are created equal. In print, traditional distinctions between
-form and content lie flat. The printing press firmly embeds letters into paper,
-leaving no space between ink and page. From the early days of the internet,
-media-minded critics like Jerome McGann [@mcgann_radiant_2004], Johanna Drucker
-[@drucker_digital_2001], and Katherine Hayles [@hayles_print_2004] have
-compelled literary scholars to re-evaluate textuality in its media-specific
-contexts. Their work reminds us that the flatness of digital text endures only
-as an illusion. A substantial gap separates presentation from source material.
-Low-level, operational intuitions governing textuality---ideas about form,
-content, style, letter, and word---change profoundly as text shifts its
-confines from paper to pixel. Forces of capital and control often exploit that
-gap, relying on technological obscurity and institutional momentum to promote
-their ends (for better or for worse).
+The central concern of the book is therefore to expose the illusion of
+verisimilitude between text on paper and text on the screen. The words may look
+the same, but the underlying material affordances of the medium differ in
+significant detail. As an obvious example, consider a news report that
+omits/adds important details based on the reader's location, or an e-book
+reader device that highlights popular passages. For a literary scholar, such
+instability of medium means analysis cannot be confined to reading for meaning
+alone. How will close reading persist, when the reading device reconfigures a
+text dynamically, to fit individual taste, mood, or politics? The formulation
+of this narrowly literary-theoretical concern leads to the broader question of
+empowered human--computer interaction. Building on the recent work of scholars
+like Wendy Hui Kyong Chun, Alexander Galloway, Matthew Kirschenbaum, Lori
+Emerson, and Lisa Gitelman, I contend that textual legibility is becoming
+increasingly crucial to a critical understanding of what it means to remain
+human in a digital world.
 
-Against technological determinism. Space for play and interpretation. Signal
-Kittler.
-
-"Algorithms are inherently fascistic, because they give the comforting illusion
-of an alterity to human affairs," Stephen Marche wrote in his widely discussed
-piece for the *Los Angeles Review of Books*. "Algorithms have replaced laws of
-human nature, the vital distinction being that nobody can read them," he
-concludes [@marche_literature_2012]. But although a number of prominent voices
-(that include Stephen Hawkins, Catherine Hayles, and Elon Musk) have
-independently echoed Marche's metaphysical concern about algorithmic alterity,
-his insistence on the elision of the subject does not strictly hold true in the
-practice of writing and reading algorithms. Writing and reading of algorithms
-entails forms of literacy complementary to what Marche must mean by "handmade
-insight." The question becomes not one of alterity (as codes and codices are
-always extraneous to the individual), but one of legibility. An algorithmic
-regime redraws the boundaries delineating human agency, influence, and
-prestige, transferring power towards a privileged class of readers and writers
-capable of comprehending and further emending this otherwise obscure form of
-regimental textuality. It is vital, then, that our notions of human literacy
-include the ability to read, write, and escape the machinations of automated
-discourse. We should read code towards these aims: not to fetishize algorithms,
-but to strip them of their mystical significance.
-
-We are accustomed to thinking of modern computing as a pinnacle of calculating,
-computational devices. That is the story the reader gets in Marche's essay, in
-Kittler's media history, and in David Golumbia's provocative *Cultural Logic of
-Computation.* The cultural logic of computation inevitably leads to a bleak
-vision of what Johanna Drucker calls "mathesis," the triumph of deterministic
-quantification over indeterminate, anti-positivist forces of the humanities.
-The historical links between computation and the military industrial complex
-cannot be denied. But the links are contingent rather than necessary
-connections. EXPAND THIS MORE ON HOW THIS PROJECT ANSWERS DETERMINISM. In
-moving towards a notion of critical computing, we are able to draw on a
-multiplicity of historical practices that suggest an alternative mode of
-engagement with the computational environment, one in which literature has
-plenty to say.
-
-To see as literary IS to see the human.
-
-## Why the fuck is this literature.
+## Expanding the Literary Field
 
 The challenge of writing and reading such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
@@ -204,7 +171,8 @@ that heralded the advance of formalism, to studies on animal communication
 behavior, theater, semiotics, and, of course, to foundational texts in the
 philosophy of aesthetics and literary theory.
 
-Why is this literature? >>>>Unpacking the metaphor.<<< Grammatically what to
+A skeptically minded reader may ask, what
+But this literature? >>>>Unpacking the metaphor.<<< Grammatically what to
 what? More literary stuff. Shklov and Bakhtin. Strange eyes.
 
 Why do we call some software an "application"? Not until the 1960s did the
@@ -227,7 +195,7 @@ content like sound and video---grew at a modest 5.4 percent per year. Reading,
 in decline until the advent of the internet, has tripled in the same period.
 Reading in print accounted for 26 percent of verbal information consumed in
 1960. That number fell to 9 percent in 2008, but the consumption of words
-      digitally increased to 27 percent of total consumption, which means that
+digitally increased to 27 percent of total consumption, which means that
 reading has increased its share of the overall household attention span
 [@bohn_how_2009; @hilbert_worlds_2011; @hilbert_info_2012]. The first decade of
 the twenty-first century saw a 20 percent increase in library visitation
@@ -675,5 +643,46 @@ the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
 [@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
 perhaps the paradigmatic formulation of the idea that words don't just mean
 things, but that they enact change in the world.
+
+## Technological Determinism
+
+Against technological determinism. Space for play and interpretation. Signal
+Kittler.
+
+"Algorithms are inherently fascistic, because they give the comforting illusion
+of an alterity to human affairs," Stephen Marche wrote in his widely discussed
+piece for the *Los Angeles Review of Books*. "Algorithms have replaced laws of
+human nature, the vital distinction being that nobody can read them," he
+concludes [@marche_literature_2012]. But although a number of prominent voices
+(that include Stephen Hawkins, Catherine Hayles, and Elon Musk) have
+independently echoed Marche's metaphysical concern about algorithmic alterity,
+his insistence on the elision of the subject does not strictly hold true in the
+practice of writing and reading algorithms. Writing and reading of algorithms
+entails forms of literacy complementary to what Marche must mean by "handmade
+insight." The question becomes not one of alterity (as codes and codices are
+always extraneous to the individual), but one of legibility. An algorithmic
+regime redraws the boundaries delineating human agency, influence, and
+prestige, transferring power towards a privileged class of readers and writers
+capable of comprehending and further emending this otherwise obscure form of
+regimental textuality. It is vital, then, that our notions of human literacy
+include the ability to read, write, and escape the machinations of automated
+discourse. We should read code towards these aims: not to fetishize algorithms,
+but to strip them of their mystical significance.
+
+We are accustomed to thinking of modern computing as a pinnacle of calculating,
+computational devices. That is the story the reader gets in Marche's essay, in
+Kittler's media history, and in David Golumbia's provocative *Cultural Logic of
+Computation.* The cultural logic of computation inevitably leads to a bleak
+vision of what Johanna Drucker calls "mathesis," the triumph of deterministic
+quantification over indeterminate, anti-positivist forces of the humanities.
+The historical links between computation and the military industrial complex
+cannot be denied. But the links are contingent rather than necessary
+connections. EXPAND THIS MORE ON HOW THIS PROJECT ANSWERS DETERMINISM. In
+moving towards a notion of critical computing, we are able to draw on a
+multiplicity of historical practices that suggest an alternative mode of
+engagement with the computational environment, one in which literature has
+plenty to say.
+
+To see as literary IS to see the human.
 
 ## Works Cited
