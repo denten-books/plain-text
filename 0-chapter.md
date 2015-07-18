@@ -171,9 +171,19 @@ that heralded the advance of formalism, to studies on animal communication
 behavior, theater, semiotics, and, of course, to foundational texts in the
 philosophy of aesthetics and literary theory.
 
-A skeptically minded reader may ask, what
-But this literature? >>>>Unpacking the metaphor.<<< Grammatically what to
-what? More literary stuff. Shklov and Bakhtin. Strange eyes.
+A skeptically minded reader may ask, what does that have to do with literature?
+The domain of the digital, after all, belongs to computer science. What can
+literary theory contribute to our understanding of digital textuality? To this
+I would have to answer: quite a bit. I began my education in literary studies
+with the guidance from the last generation of the Russian formalists. And as
+will become apparent later on in the book, it turns out that the history of
+literary formalism (and later, structuralism) shares common intellectual
+ancestry with software engineering. Both converge on the idea
+
+ancestry with software engineers, both similarly in search for document
+structure. More fundamentally, 
+
+Grammatically what to what? More literary stuff. Shklov and Bakhtin.
 
 Why do we call some software an "application"? Not until the 1960s did the
 coinage "software application" enter the English language.[^ln2-app] Before
