@@ -16,6 +16,47 @@ header-includes:
 ## Chapter 6: Engineering for Dissent
 `parity, transparency`
 
+## Technological Determinism
+
+Against technological determinism. Space for play and interpretation. Signal
+Kittler.
+
+"Algorithms are inherently fascistic, because they give the comforting illusion
+of an alterity to human affairs," Stephen Marche wrote in his widely discussed
+piece for the *Los Angeles Review of Books*. "Algorithms have replaced laws of
+human nature, the vital distinction being that nobody can read them," he
+concludes [@marche_literature_2012]. But although a number of prominent voices
+(that include Stephen Hawkins, Catherine Hayles, and Elon Musk) have
+independently echoed Marche's metaphysical concern about algorithmic alterity,
+his insistence on the elision of the subject does not strictly hold true in the
+practice of writing and reading algorithms. Writing and reading of algorithms
+entails forms of literacy complementary to what Marche must mean by "handmade
+insight." The question becomes not one of alterity (as codes and codices are
+always extraneous to the individual), but one of legibility. An algorithmic
+regime redraws the boundaries delineating human agency, influence, and
+prestige, transferring power towards a privileged class of readers and writers
+capable of comprehending and further emending this otherwise obscure form of
+regimental textuality. It is vital, then, that our notions of human literacy
+include the ability to read, write, and escape the machinations of automated
+discourse. We should read code towards these aims: not to fetishize algorithms,
+but to strip them of their mystical significance.
+
+We are accustomed to thinking of modern computing as a pinnacle of calculating,
+computational devices. That is the story the reader gets in Marche's essay, in
+Kittler's media history, and in David Golumbia's provocative *Cultural Logic of
+Computation.* The cultural logic of computation inevitably leads to a bleak
+vision of what Johanna Drucker calls "mathesis," the triumph of deterministic
+quantification over indeterminate, anti-positivist forces of the humanities.
+The historical links between computation and the military industrial complex
+cannot be denied. But the links are contingent rather than necessary
+connections. EXPAND THIS MORE ON HOW THIS PROJECT ANSWERS DETERMINISM. In
+moving towards a notion of critical computing, we are able to draw on a
+multiplicity of historical practices that suggest an alternative mode of
+engagement with the computational environment, one in which literature has
+plenty to say.
+
+To see as literary IS to see the human.
+
 Prosthetics.
 
 ### 5.1 The Human Assumption (Heidegger + marx)
