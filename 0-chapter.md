@@ -160,7 +160,7 @@ Emerson, and Lisa Gitelman, I contend that textual legibility is becoming
 increasingly crucial to a critical understanding of what it means to remain
 human in a digital world.
 
-## Methodology
+## Structure and Methodology
 
 The challenge of writing and reading such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
@@ -193,25 +193,221 @@ The first borrows from formalism, in a strategy of deliberate
 defamiliarization. The language of computation is rife with beautiful
 metaphors, which, with frequent use, loose their evocative and explenatory
 power. The task of the literary scholar becomes then to renew the stale
-metaphor: to rediscover it first, to examine it for parallelism that, as George
-Lakoff and Mark Johnson explain, structure one conceptual system in terms of
-another [@lakoff_metaphors_1980, 3-14]. Why do we call some software an
-"application" for example?[^ln-app] The application of what to what? I will ask
-that question in Chapter 5, where I argue that the very concept of application
-implies a model of software as applied to human life (and therefore contains a
-model of the human). Other metaphors are hidden: like the flows of the liquid
-crystal behind the ubiquitous acronym of "LCD", discussed in Chapter 2. What
-are these liquid crystals? And what does a state of textuality that is
-literally both liquid and crystallized tell us about digital literature? Yet
-other metaphors are contained in the vocabulary of literary theory. In Chapter
-3, I discuss the very notion of the formalist "literary device," again
-understood literally, as a mechanism for textual production.
+metaphor: to rediscover it first and to examine it for parallelisms that, as
+George Lakoff and Mark Johnson explain, structure one conceptual system in
+terms of another [@lakoff_metaphors_1980, 3-14]. Why do we call some software
+systems "applications" for example? The application of what to what? I will ask
+that question later one, in the passages where I argue that the very concept of
+application implies a model of software as applied to human life (and therefore
+contains a model of the human). Other metaphors are hidden: like the flows of
+the liquid crystal behind the ubiquitous acronym of "LCD". What happens to text
+in the flowing of the liquid crystal? Yet other metaphors hide in the
+vocabulary of literary theory. Elsewhere, I discuss the very notion of the
+formalist "literary device," understood literally, as a mechanism for textual
+production.
 
-The reciprocal motion.
-Grammatically what to what? More literary stuff. Shklov and Bakhtin.
+The reciprocal motion to such purposeful defamiliarization happens through a
+series of case studies. The function of a case study in an engineer's
+education, as Henry Petroski explains in his *Invention by Design*, is to
+understand the specific ways by which "engineers get from thought to thing"
+[@petroski_invention_1996, 3-7]. Following Petroski, I use case studies based
+on specific artifacts to illustrate the metaphors of literary computation. In
+this way, each chapter contains a deconstruction---a literal taking apart---of
+a device (or a grouping of similar devices). In the first chapter, that device
+is a copy machine, through which we are able to discuss the problem of digital
+copies. Subsequently, we will disassemble an LCD screen, that will help us get
+to conflicting properties of digital media as something simultaneously
+continuous (liquid) and discrete (crystal). In another chapter, we will take a
+look at the innards of an electronic book reader which will help unfold the
+discussion about depth and surface reading. Later on in the book, I will
+discuss the idea of personal archives as enacted through book shelves and
+filing systems. Finally, we will return to the concept of the human as seen
+through the lens of contemporary Unix-derived operating systems.
 
+Unlike defamiliarization, engineering case studies make the strange familiar.
+Through them, the device becomes known. The metaphor and the machine structure
+each chapter in this dual reciprocal movement between making strange and making
+familiar.
 
-## Structure
+## Theory and Practice
 
+The idea of moving conceptually between thought and thing is not new, nor is it
+confined to literary scholarship or software engineering. In writing *Plain
+Text* I was influenced by three broad, but related intellectual movements
+affecting wide swaths of the academia today.
+
+### Pragmatism
+
+The connection between "meaning" and "operational meaning," of the kind
+suggested by Petroski, is first and foremost a species of pragmatism. William
+James articulates that view clearly when he writes that "reality is seen to be
+grounded in a perfect jungle of concrete expediencies"
+[@james_pragmatisms_1907]. For James for his fellow travellers, pragmatic truth
+answers always involved a discussion of efficient causes and
+effects.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth,"
+James asks: "How will the truth be realized? What concrete difference will its
+being true make in anyone's actual life? What experiences will be different
+from those which would obtain if the belief were false?" Frank Ramsey, the
+young British philosopher close to Ludwig Wittgenstein, was influenced by the
+Americans and would later write that meaning "is to be defined by reference to
+the actions to which asserting it would lead" [@ramsey_foundations_2013,
+155].[^ln-pragmatism]
+
+For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
+"the author is dead" or "art is transcendent") beg the questions of "Where?,"
+"When?," "For whom?," and "What's at stake in maintaining that?" Following
+James's and Ramsey's pragmatic insight, I will proceed throughout with the
+conviction that abstract categories like "literature," "computation," and
+"text" cannot possibly be (although they often are) reduced to a number of
+essential, structural features. Rather, to borrow from a conversation on
+categories in Wittgenstein's *Philosophic Investigations*, categories denote a
+set of "family" practices, which may or may not share in any given familial
+characteristic [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To
+visualize the familial model, imagine a Venn diagram, where overlapping fields
+(of computation or textuality, in our case) intersect and diverge in a
+historically (culturally, practically) contingent and arbitrary ways. These
+fields lie in relation to specific communities of practice, which often do not
+in themselves employ a controlled vocabulary. What counts for "code" and
+"poetry" in one domain, like computer science, may not account for the very
+same in another domain, like creative writing. An engineer's evocation of code
+as poetry can diverge from a poet's.
+
+There's no sense in trying to further equivocate the differences between
+divergent languages. In other words, we must not get stuck arguing about
+definition, where those definitions exist only in their social instantiation.
+What counts as poetry, for example, can morphs from literary period to literary
+period. Those who write code by day and poetry by night might similarly employ
+differing if not outright contradictory definitions depending on their context.
+
+My aim throughout will be to find points of congruence between such disparate
+vocabularies, along with areas of contact between communities whose members
+share a common sense of goal and purpose. I am interested here in literal
+spaces where the practice of literary theory and the practice of software
+engineering intersect. The electronic book, the word processor, and the
+operating system are some of the loci of that encounter.
+
+### Experimentalism
+
+Two intellectual movements tangentially related to pragmatism played a more
+specific role in shaping my approach to writing *Plain Text*. The first is
+experimentalism.  Writing in the mid-19th century against the tradition of
+inductive "generalizers," Claude Bernard, a pioneer in experimental medicine,
+argues for the necessity of both theory and practice. "We cannot separate the
+two things," he writes, "head and hand." The "science of life" he writes, "is a
+superb and dazzlingly lighted hall which may be reached only by passing through
+a long and ghastly kitchen." "We shall reach really fruitful and luminous
+generalizations about vital phenomena only in so far as we ourselves experiment
+and, in hospitals, amphitheaters, or laboratories stir the fetid or throbbing
+ground of life" [@bernard_introduction_1957, 3-15]. It is my belief also that
+the lighted halls of contemporary literary and media theory can be best reached
+through the long and ghastly corridors of the scholar's workshop.
+
+Take the example of a media scholar analyzing the last two decades of film
+production or photography without grasping the fundamentals of electronic
+photo-detectors, RAW image formats, complementary metal–oxide–semiconductor
+(CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
+image manipulation techniques. Such a study is in peril of being misguided by
+theoretical models that have no basis on reality. It is not that theorists
+cannot say anything about photography without knowing its technical
+foundations, but rather that they can say more when they do. To my mind, theory
+must be continually checked and refined against practice, just as practice must
+be continually checked and refined against generalized insight. Similarly, it
+is my contention here that the fundamental theoretical concepts driving
+literary studies---word, text, narrative, discourse, author, story, book,
+archive---are thoroughly enmeshed in the underlying physical substratum of
+paper and pixel. The articulation of higher-level abstractions cannot attain
+its full expressive potential without a thick description of their lower-level
+base particulates. Throughout, readers will be encouraged to encounter the
+immediate context of their reading anew: to put down the book, to lean away
+from the screen, and too look at these objects with strange eyes. In this
+movement, I want to disrupt habituated intuitions of the mind, pitting them
+against knowledge "at hand" and fingertip knowledge: as when ruffling through
+the pages or typing at a keyboard.
+
+In this approach to "doing" theory, *Plain Text* joins the experimental and
+material "turns" steering the academy toward critical practice, especially in
+fields long-dominated by purely theoretical reflection. The turn represents a
+generation's dissatisfaction with "armchair" philosophizing. Recall the burning
+armchair, the symbol for experimental philosophy. Joshua Knobe and Shaun
+Nichols, some of the early proponents of the movement, explain that "many of
+the deepest questions of philosophy can only be properly addressed by immersion
+oneself in the messy, contingent, highly variable truths about how human being
+really are" [@knobe_experimental_2008, 3]. The emergence of laboratories,
+studios, and maker spaces as transformative ways of *doing* research in the
+humanities can be seen as part of the same trend. Such spaces reach for
+metaphors of activity of a kind that signify novel configurations between
+space, labor, idea, artifact, instrument, and inscription.
+
+For example, in preface to a recent volume on *Ways of Making and Knowing*,
+edited by Pamela Smith, Amy Meyers, and Harold Cook, the editors write that the
+"history of science is not a history of concepts, or at least not that alone,
+but a history of the making and using of objects to understand the world"
+[@smith_ways_2014, 12]. As a historian of science in the Early Modern period,
+Smith translates that insight in the laboratory, where along with her students
+she bakes bread and smelts iron to recreate long-lost artisanal techniques. The
+major insight from Smith and her colleagues holds that traditional "book
+knowledge"---the kind of information that finds itself into novels, textbooks,
+and technical manuals---represents only a small part of the sum total of human
+expertise.  Much of our knowledge is instead secreted into the artifacts and
+institutions where it unfolds through daily practice, in what Smith calls
+"artifactual knowledge."
+
+The artifactual knowledge related to digital technology---from typesetting
+software to e-book readers and word processors---shapes our everyday encounter
+with literature and textuality. That medium, as I will argue throughout, should
+not be taken as a value-neutral conduit of information. Neither do I advocate
+for technological determinism. Instead, I follow Lewis Mumford and Langdon
+Winner in the insight that the implementation of technical systems changes the
+exercise of political power in subtle and profound ways. Artifacts cannot hold
+beliefs about politics. Political power is rather exercised through them.
+Stairs do not discriminate against the walking disabled, yet the failure to
+enforce accessibility through specific architectural choices does. Typesetting
+software, e-book readers, and word processors similarly encode implicit
+communication models, ideas about deliberation, ethics of labor, discursive
+values, and models of human aptitude. Contemporary documents may thus be
+structured to limit access by licence, geography, or physical ability. A
+function of critique must therefore include the exposure of such implicit
+models to introspection, "laying bare" the logics by which devices serve to
+structure the human encounter. A media scholar's version of baking bread and
+smelting iron is to make literal the task of media archeology on the level of
+the device.
+
+### Materialism
+
+Finally, *Plain Text* is a concerted effort to repay the debt of materialism.
+The contemporary life of the mind is supported by complicated systems and
+institutions which are often beyond an individual's ability of understanding or
+control. In almost a decade of teaching the foundations of computing in the
+humanities, I routinely encounter smart and sophisticated people who feel
+hopelessly alienated from the tools of their everyday intellectual activity. I
+suspect that much of the metaphysical angst directed against computation in
+general is really a symptom of that basic alienation. Contemporary knowledge
+workers stare into small black boxes for a considerable part of their days,
+suspecting, in the absence of other feedback, that their gaze is met in bad
+faith.
+
+Critical theory at its best aims to see "the human bottom of non-human things"
+[@horkheimer_critical_1982, 143]. Materialist critique, in the Marxist
+tradition, promises human emancipation, but as Max Horkheimer wrote, "the issue
+is not simply the theory of emancipation; it is the practice of it as well"
+[@horkheimer_critical_1982, 233]. Scholars like Alan Liu and Kathleen
+Fitzpatrick have recently began to turn the tools of critical theory towards
+the instrumental contexts of knowledge production [@liu_laws_2004;
+@fitzpatrick_planned_2011]. I join them to argue that in treating the
+instruments of intellectual production (and consumption) uncritically, all of
+us, readers and writers, accumulate an ethical debt, owed to ourselves and to
+the world. It is one thing, for example, to theorize about the free movement of
+literary tropes across cultures and continents, and quite another to have that
+sentiment appear in print behind paywalls inaccessible to most reading publics
+who have no means of affording institutional subscription. Similarly, the
+distinction between form and content identifies an important analytical
+distinction in the abstract, but instantiated in particular ways as Microsoft
+Word (`.docx`) or Adobe Reader (`.pdf`) file formats, the same distinction
+effects a material division of labor between knowledge workers, editors,
+proofreaders, "offshore" typesetting shops,[^ln-sweatshop] and international
+conglomerates that control vectors of literary distribution. In enacting a
+reconciliation of vocabularies, my goal then is to reclaim some of the ordinary
+material contexts of everyday knowledge production, connecting them to long
+standing concerns in aesthetic theory, literary analysis, and social thought.
 
 ## Works Cited
