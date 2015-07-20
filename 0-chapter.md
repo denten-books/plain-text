@@ -187,141 +187,31 @@ engineering. Both converged on the idea of document structure and both borrowed
 heavily from the language of Hegelian aesthetics (as will become apparent in
 Chapter 3). The two communities have now diverged significantly in their ways
 of speaking, but could benefit immensely from a constructive dialog.
-Methodologically, I make two distinct moves to facilitate that interchange. 
+Methodologically, I make two distinct moves to facilitate that interchange.
 
 The first borrows from formalism, in a strategy of deliberate
-defamiliarization. The language of computer science is rife with beautiful
+defamiliarization. The language of computation is rife with beautiful
 metaphors, which, with frequent use, loose their evocative and explenatory
-power. 
+power. The task of the literary scholar becomes then to renew the stale
+metaphor: to rediscover it first, to examine it for parallelism that, as George
+Lakoff and Mark Johnson explain, structure one conceptual system in terms of
+another [@lakoff_metaphors_1980, 3-14]. Why do we call some software an
+"application" for example?[^ln-app] The application of what to what? I will ask
+that question in Chapter 5, where I argue that the very concept of application
+implies a model of software as applied to human life (and therefore contains a
+model of the human). Other metaphors are hidden: like the flows of the liquid
+crystal behind the ubiquitous acronym of "LCD", discussed in Chapter 2. What
+are these liquid crystals? And what does a state of textuality that is
+literally both liquid and crystallized tell us about digital literature? Yet
+other metaphors are contained in the vocabulary of literary theory. In Chapter
+3, I discuss the very notion of the formalist "literary device," again
+understood literally, as a mechanism for textual production.
 
-Why do we call some software an "application" for example? Not until the
-1960s did the coinage "software application" enter the English
-language.[^ln2-app] Before that and well into the 1990s the far more common use
-of "application" was paired with "theory," as in "theory and application"---the
-two nouns occupying places on the opposing sides of the idea--practice
-continuum. Software, in the newer phrase, takes the place of theory---the
-application being the practical implementation of code, a theoretical set of
-instructions. The application of what to what? A "text app" would surely take a
-human as its grammatical object (as in "the entity that is acted upon")
-[@allerton_generating_1978]. Where can one locate the field of literary,
-textual application to human experience? And what is at stake in drawing the
-field's boundaries?
-
-### Defamiliarization
-
-As I write these words, a ceiling-mounted smoke detector in the hallway outside
-of my apartment emits a shrill squeal every three minutes or so. And at every
-15 minutes, a pleasant female voice announces also "low battery." These
-precautions are stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013).
-The clause requiring a "distinct audible signal before the battery is incapable
-of operating" is not only required by law, it is *built into the device*. The
-device internalizes legislation in its programming. We obtain the condition
-where the two meanings of code---as governance and program
-instruction---coincide. Code equals code.
-
-These considerations are relevant as we consider the production of text at the
-level of the device. The formal concept of a "device," widely used in literary
-studies, is an artifact of an unfortunate translation from Russian. The word
-*priem* would be much better translated as "technique," in the sense of
-"method," "approach," or "procedure." The word "device" contains these meanings
-as well, but in modern usage, it usually carries a concrete connotation, as "an
-object, machine, or piece of equipment that has been made for a special
-purpose" (Merriam-Webster). "Laying bare the device," for Shklovsky, meant
-making explicit the implicit mechanism of the metaphor, particularly in cases
-where such metaphors turn "stale," "automatic," and "naturalized," that is,
-bereft of their original poetic and evocative power. One could write, for
-example, "a field of study," without much thought about figurative space.
-Viktor Shklovsky (who coined the phrase "laying bare the device [*priem*]")
-would have the reader pause to consider the implications. In which sense ideas
-resemble (or not) a field? The writer could draw our attention to the
-strangeness of the analogy were he to mention "mowing a verdant field of
-study," or better yet, showing someone in the process of mowing a field while
-discussing epistemology (or something along these lines). The unexpected
-transference of properties accentuates and renews a familiar image. In what
-sense could one "mow" a "verdant" "field" of ideas? Such unusual juxtapositions
-renew the peculiarity of the initial metaphor. The figure is "made strange"
-again, in what Shklovsky calls the technique of poetic "estrangement"
-[@shklovksy_sborniki_1917].
-
-When pursuing estrangement the author "lays bare" or "makes obvious" the
-metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
-Nabokov, a writer conspicuously aware of the formalist theoretical heritage,
-makes use of this move consistently and with relentless clinical precision. In
-the short story "A Guide to Berlin," to which D. Barton Johnson attributes our
-first glimpse at Nabokov's "mature virtuoso style [@johnson_guide_1979, 354],"
-Nabokov writes:
-
-> In front of the house where I live, a gigantic black pipe lies along the
-outer edge of the sidewalk. A couple of feet away, in the same file, lies
-another, then a third and a fourth---the street's iron entrails, still idle,
-not yet lowered into the ground, deep under the asphalt. For the first few days
-after they were unloaded, with a hollow clanging, from trucks, little boys
-would run on them, up and down, and crawl on all fours through those round
-tunnels, but a week later nobody was playing anymore and thick snow was falling
-instead; and now when, cautiously probing the treacherous glaze of the sidewalk
-with my thick rubber-heeled stick, I go out in the flat gray light of the
-morning, an even stripe of fresh snow stretches along the upper side of each
-black pipe [...] Today someone wrote "Otto" with his finger on the strip of
-virgin snow, and I thought how beautifully that name, with its two soft o's
-flanking the pair of gentle consonants suited the silent layer of snow upon
-that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27].
-
-The tightly wound vignette takes the formalist programmatic concern with
-"laying bare the device" to its logical and recursively structured conclusion.
-The pipes can be read as a metaphor for the literary device. Usually found
-beneath the street, they now sit idle and visible above the surface. Yet even
-when exposed, the device fails to captivate for long. Disused, it passes out
-sight, covered in snow. The narrator "probes the glaze" of the street,
-penetrating through to the surface level and in this also finds a palindrome,
-which not only resembles the pipes visually, but is in itself a
-surface-revealing inscription that makes pipe surface visible again, through
-the snow. Although the metaphoric pipe cannot reach beyond the page, the
-mimetic surface inscription draws attention to the word's visual shape and
-acoustics, inviting readers to perform the symmetry of its assonance and
-consonance. The reader forms the named round vowels and mouths its obstruents.
-"Otto" contorts the body to shape it in accordance with the sound image:
-reverse mimesis, the body as sound pipe. The moment of corporeal reenactment
-briefly transcends representational and paper-bound confines of the medium. The
-performance makes the "making of the literary technique obvious," obvious. In
-this lies the prevalent characteristic of Nabokov's mature work, which often
-seeks to lift off of the page through sheer recursion of literary technique,
-where each successive turn of the abstraction brings the word closer to the
-reader.
-
-Yet for all the language games, literary technique in the sense used by the
-formalists remains tied to the medium. Say someone were to ask: What lies
-beneath the text? The literal answer would have to be: paper or furniture.
-Reading for surface or depth at the level of representation can only begin to
-approach the material conditions of textual dissemination. Language contains
-traces of labor and implement implicit in the writing, binding, and the
-distribution of printed material. In this chapter, I would like to take the
-formalist program one step further, off of the page. My interests lie in books
-and documents as literal devices. When asked in the context of book history,
-the question of surface gains an instrumental dimension. Physical affordances
-of liquid crystal displays and magnetic storage differ drastically from those
-of goat skins or parchment. Yet surface representation maintains the illusion
-of self-similarity. I am concerned here with the particularities of that
-illusion. A poem, a novel, a physician's script, or a legal contract all still
-look like their paper counterparts, but increasingly they behave like gadgets.
-These reading and writing appliances do not mediate silently: they monitor,
-adjust, warn, and control.
-
-Like the smoke alarm, literary gadgets are governed and internalize government
-in ways that we have only begun to comprehend. And as will become apparent in
-the later sections of this chapter, some structural decisions in the making of
-such devices are explicitly designed to resist tampering, access, or
-interpretation. They obscure the flows of code and codex under the familiar
-guise of surface representation. This chapter will be longer than others,
-because it is central to my argument as a whole. I will spend much of it at the
-work of "teasing apart" the layers obscuring the underlying structure of the
-textual device, using historical sources, direct observation, and tools
-normally reserved for reverse-engineering of data objects.[^ln3-mechanisms]
-
-### Case Studies
-
-The reciprical motion.
+The reciprocal motion.
 Grammatically what to what? More literary stuff. Shklov and Bakhtin.
 
+
 ## Structure
+
 
 ## Works Cited

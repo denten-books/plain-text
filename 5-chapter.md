@@ -59,6 +59,20 @@ To see as literary IS to see the human.
 
 Prosthetics.
 
+This in the intro, cover application.
+[ln-app]: Not until the 1960s did the coinage "software application" enter the
+English language. Before that and well into the 1990s the far more common use
+of "application" was paired with "theory," as in "theory and application"---the
+two nouns occupying places on the opposing sides of the idea--practice
+continuum. Software, in the newer phrase, takes the place of theory---the
+application being the practical implementation of code, a theoretical set of
+instructions. In the *New York Times* archive, the phrase first appeared in
+1985 [@new_york_times_briefs_1984]. In the Google Books corpus the bigram
+appears first in *Astronautics & Aeronautics: A Publication of the American
+Institute of Aeronautics and Astronautics*, under the rubric of "Missile
+Guidance Systems Programming"
+[@american_institute_of_aeronautics_and_astronautics_astronautics_1965].  
+
 ### 5.1 The Human Assumption (Heidegger + marx)
 
 I can only begin to work of re-inscribing the A more careful analysis of
@@ -125,11 +139,10 @@ imagined commodity = algorithm labor = contracts, agreements
 Heidegger revealment.
 
 I am able to now finally confront the ghostly apparition present throughout in
-the background
-Much of what today goes by the term new materialism is materialism in the sense
-of talking about and privileging a certain idea of object-oriented
-consciousness. Some go even as far as to elevate objects to the status of
-political and ethical agents, as when.
+the background Much of what today goes by the term new materialism is
+materialism in the sense of talking about and privileging a certain idea of
+object-oriented consciousness. Some go even as far as to elevate objects to the
+status of political and ethical agents, as when.
 
 It is tempting to think that alienation come from phase one. Human displacement
 from the hand. Some notion of analog as natural and digital as artificial

@@ -410,12 +410,6 @@ reported results.
 
 [^ln2-close]: See [@lentricchia_close_2003] and [@fish_how_2011]. 
 
-[^ln2-app]: In the *New York Times* archive, the phrase first appeared in 1985
-[@new_york_times_briefs_1984]. In the Google Books corpus the bigram appears
-first in *Astronautics & Aeronautics: A Publication of the American Institute
-of Aeronautics and Astronautics*, under the rubric of "Missile Guidance Systems
-Programming"
-[@american_institute_of_aeronautics_and_astronautics_astronautics_1965].
 
 [^ln2-internet]: The NEA study has this to say on the topic of What is
 responsible for the decline of literary reading?: "If the 2002 data represent a
