@@ -302,31 +302,31 @@ ground of life" [@bernard_introduction_1957, 3-15]. It is my belief also that
 the lighted halls of contemporary literary and media theory can be best reached
 through the long and ghastly corridors of the scholar's workshop.
 
-Take the example of a media scholar analyzing the last two decades of film
-production or photography without grasping the fundamentals of electronic
-photo-detectors, RAW image formats, complementary metal–oxide–semiconductor
-(CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
-image manipulation techniques. Such a study is in peril of being misguided by
-theoretical models that have no basis on reality. It is not that theorists
-cannot say anything about photography without knowing its technical
-foundations, but rather that they can say more when they do. To my mind, theory
-must be continually checked and refined against practice, just as practice must
-be continually checked and refined against generalized insight. Similarly, it
-is my contention here that the fundamental theoretical concepts driving
-literary studies---word, text, narrative, discourse, author, story, book,
-archive---are thoroughly enmeshed in the underlying physical substratum of
-paper and pixel. The articulation of higher-level abstractions cannot attain
-its full expressive potential without a thick description of their lower-level
-base particulates. Throughout, readers will be encouraged to encounter the
-immediate context of their reading anew: to put down the book, to lean away
-from the screen, and too look at these objects with strange eyes. In this
-movement, I want to disrupt habituated intuitions of the mind, pitting them
-against knowledge "at hand" and fingertip knowledge: as when ruffling through
-the pages or typing at a keyboard.
+Take the hypothetical example of a media scholar analyzing the last two decades
+of film production or photography without grasping the fundamentals of
+electronic photo-detectors, RAW image formats, complementary
+metal–oxide–semiconductor (CMOS), digital editing tools, computer-generated
+imagery (CGI), or *Photoshop* image manipulation techniques. Such a study is in
+peril of being misguided by theoretical models that have no basis on reality.
+It is not that theorists cannot say anything about photography without knowing
+its technical foundations, but rather that they can say more when they do. To
+my mind, theory must be continually checked and refined against practice, just
+as practice must be continually checked and refined against generalized
+insight. Similarly, it is my contention here that the fundamental theoretical
+concepts driving literary studies---word, text, narrative, discourse, author,
+story, book, archive---are thoroughly enmeshed in the underlying physical
+substratum of paper and pixel. The articulation of higher-level abstractions
+cannot attain its full expressive potential without a thick description of
+their lower-level base particulates. Throughout, readers will be encouraged to
+encounter the immediate context of their reading anew: to put down the book, to
+lean away from the screen, and too look at these objects with strange eyes. In
+this movement, I want to disrupt habituated intuitions of the mind, pitting
+them against knowledge "at hand" and fingertip knowledge: as when ruffling
+through the pages or typing at a keyboard.
 
 In this approach to "doing" theory, *Plain Text* joins the experimental and
 material "turns" steering the academy toward critical practice, especially in
-fields long-dominated by purely theoretical reflection. The turn represents a
+fields long-dominated by purely speculative reflection. The turn represents a
 generation's dissatisfaction with "armchair" philosophizing. Recall the burning
 armchair, the symbol for experimental philosophy. Joshua Knobe and Shaun
 Nichols, some of the early proponents of the movement, explain that "many of
@@ -338,19 +338,20 @@ humanities can be seen as part of the same trend. Such spaces reach for
 metaphors of activity of a kind that signify novel configurations between
 space, labor, idea, artifact, instrument, and inscription.
 
-For example, in preface to a recent volume on *Ways of Making and Knowing*,
-edited by Pamela Smith, Amy Meyers, and Harold Cook, the editors write that the
-"history of science is not a history of concepts, or at least not that alone,
-but a history of the making and using of objects to understand the world"
-[@smith_ways_2014, 12]. As a historian of science in the Early Modern period,
-Smith translates that insight in the laboratory, where along with her students
-she bakes bread and smelts iron to recreate long-lost artisanal techniques. The
-major insight from Smith and her colleagues holds that traditional "book
-knowledge"---the kind of information that finds itself into novels, textbooks,
-and technical manuals---represents only a small part of the sum total of human
-expertise.  Much of our knowledge is instead secreted into the artifacts and
-institutions where it unfolds through daily practice, in what Smith calls
-"artifactual knowledge."
+As an example of what I have been calling here the "experimental turn" in the
+field of early modern history, consider preface to a recent volume on *Ways of
+Making and Knowing*, edited by Pamela Smith, Amy Meyers, and Harold Cook. The
+editors write that the "history of science is not a history of concepts, or at
+least not that alone, but a history of the making and using of objects to
+understand the world" [@smith_ways_2014, 12]. As a historian of science in the
+Early Modern period, Smith translates that insight in the laboratory, where
+along with her students she bakes bread and smelts iron to recreate long-lost
+artisanal techniques. The major insight from Smith and her colleagues holds
+that traditional "book knowledge"---the kind of information that finds itself
+into novels, textbooks, and technical manuals---represents only a small part of
+the sum total of human expertise. Much of our knowledge is instead secreted
+into the artifacts and institutions where it unfolds through daily practice, in
+what Smith calls "artifactual knowledge."
 
 The artifactual knowledge related to digital technology---from typesetting
 software to e-book readers and word processors---shapes our everyday encounter
@@ -390,24 +391,33 @@ Critical theory at its best aims to see "the human bottom of non-human things"
 [@horkheimer_critical_1982, 143]. Materialist critique, in the Marxist
 tradition, promises human emancipation, but as Max Horkheimer wrote, "the issue
 is not simply the theory of emancipation; it is the practice of it as well"
-[@horkheimer_critical_1982, 233]. Scholars like Alan Liu and Kathleen
-Fitzpatrick have recently began to turn the tools of critical theory towards
-the instrumental contexts of knowledge production [@liu_laws_2004;
+[@horkheimer_critical_1982, 233]. The echoes of experimental pragmatism
+resonate again in these words. Scholars like Alan Liu and Kathleen Fitzpatrick
+have recently began to turn the tools of critical theory towards the
+instrumental contexts of knowledge production [@liu_laws_2004;
 @fitzpatrick_planned_2011]. I join them to argue that in treating the
 instruments of intellectual production (and consumption) uncritically, all of
-us, readers and writers, accumulate an ethical debt, owed to ourselves and to
-the world. It is one thing, for example, to theorize about the free movement of
-literary tropes across cultures and continents, and quite another to have that
-sentiment appear in print behind paywalls inaccessible to most reading publics
-who have no means of affording institutional subscription. Similarly, the
-distinction between form and content identifies an important analytical
-distinction in the abstract, but instantiated in particular ways as Microsoft
-Word (`.docx`) or Adobe Reader (`.pdf`) file formats, the same distinction
-effects a material division of labor between knowledge workers, editors,
-proofreaders, "offshore" typesetting shops,[^ln-sweatshop] and international
-conglomerates that control vectors of literary distribution. In enacting a
-reconciliation of vocabularies, my goal then is to reclaim some of the ordinary
-material contexts of everyday knowledge production, connecting them to long
-standing concerns in aesthetic theory, literary analysis, and social thought.
+us---readers and writers---accumulate an ethical debt, owed to ourselves and to
+the world.
+
+It is one thing, for example, to theorize about the free movement of literary
+tropes across cultures and continents, and quite another to have that sentiment
+appear in print behind paywalls inaccessible to most reading publics who have
+no means of affording institutional subscription. Similarly, the theoretical
+distinction between form and content, when instantiated in specific file
+formats like Microsoft Word (`.docx`) or Adobe Reader (`.pdf`), can affect a
+material division of labor between editors, proofreaders, book sellers, and
+offshore typesetting shops.[^ln-sweatshop] One group trades "content" in the
+economy of prestige, another "formatting" in the economy of survival, yet
+another controls distribution in the market economy for profit. Such real world
+divisions remain obscured as long as the conversation about "form" and
+"content" persists in the abstract, without engagement at their material basis.
+In enacting a reconciliation of vocabularies, my goal then is to reclaim such
+ordinary material contexts of everyday knowledge production, connecting them to
+long standing concerns in aesthetic theory, literary analysis, and social
+thought. Yet because my own alienation was so profound, the task of rebuilding
+the material foundations recounted here was not an easy one. It begins with the
+recovery of immediate technical fundamentals in the early chapters and ends
+with the broader social impact of these particulates in the later chapters.
 
 ## Works Cited
