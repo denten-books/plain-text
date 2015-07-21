@@ -293,9 +293,6 @@ through it. I care.
 
 [^ln-sweatshop]: See @freeman_high_2000.
 
-[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign
-about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
-
 [^ln-witt]: For more on the connection between Wittgenstein and James
 see @goodman_james_2004.
 

@@ -373,9 +373,6 @@ question that will remain unresolved, at least until the later chapters, when
 we have the chance to discuss notions of data and information as
 meaning-carrying units.
 
-[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
-Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
-
 [^ln2-derrida]: This is a bit of a post-structuralist caricature, but it is not
 difficult to find direct sources expressing the idea. For example, see John
 Caputo quoting Jacques Derrida in his *Deconstruction in a Nutshell: A
