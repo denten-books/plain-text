@@ -291,26 +291,6 @@ with some precision.
 Come back to vocab. Not the difficulty of obscurity unfamiliar. Ima guide you
 through it. I care.
 
-[^ln-sweatshop]: See @freeman_high_2000.
-
-[^ln-witt]: For more on the connection between Wittgenstein and James
-see @goodman_james_2004.
-
-[^ln-pragma-truth]: For a more thorough discussion on the topic see
-@seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
-
-[^ln-pragmatism]: The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
-perhaps most pronounced in the teacher colleges, where James and Dewey are
-still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[@brown_situated_1988, @lave_situated_1991] and
-"experiential learning"[@kolb_hegel_1981]: both terms denoting some sense of
-necessary synthesis between of knowing and doing. In the field of linguistics,
-philosophy of language, and communication studies, pragmatics are
-well-encapsulated by the "language-as-action tradition," which harkens back to
-the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
-[@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
-perhaps the paradigmatic formulation of the idea that words don't just mean
-things, but that they enact change in the world.
 
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln-char] Let these words soak in for a moment. I will spend the rest of
