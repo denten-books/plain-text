@@ -372,8 +372,8 @@ Stairs do not discriminate against the walking disabled, yet the failure to
 enforce accessibility through specific architectural choices does. Typesetting
 software, e-book readers, and word processors similarly encode implicit
 communication models, ideas about deliberation, ethics of labor, discursive
-values, and views about "natural" human aptitude. In this way, Contemporary
-documents embody limits to access by licence, geography, or physical ability.
+values, and views about "natural" human aptitude. In this way, contemporary
+documents embody limits to access by license, geography, or physical ability.
 In our applied example, I may ask: To what extent does the book or device in
 front of you "permit" or "enable" access?
 
