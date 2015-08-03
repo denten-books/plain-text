@@ -10,6 +10,10 @@ header-includes:
 - \usepackage{ftnxtra}
 - \usepackage{titlesec}
 - \newcommand{\sectionbreak}{\clearpage}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \rhead{DRAFT (please do not distribute)}
+- \lhead{}
 
 ---
 
@@ -18,12 +22,12 @@ header-includes:
 *Plain Text* enacts a reconciliation of vocabularies. As such, it is a response
 to a particular situation of a software engineer encountering a literary
 scholar. For a long stretch of my professional life, these two roles remained
-separate from each other. I worked at one thing and I studied another. At the
-time, I simply did not think that code has anything to do with poetry. The idea
-for the book came to me in a moment of realization, after I was asked one of
-those naive but fundamental questions, of the kind that can plunge research
-into a long and winding hole. A childhood friend who loves books asked about
-the difference between text in print and text on the screen. It is in that
+separate from each other. I worked at one and I studied another. At the time, I
+simply did not think that code has anything to do with poetry. The idea for the
+book came to me in a moment of realization, after I was asked one of those
+naive but fundamental questions, of the kind that can plunge research into a
+long and winding hole. A childhood friend who loves books asked about the
+difference between text in print and text on the screen. It was in that
 struggle to articulate difference that I realized that some of my deepest
 assumptions about literature relied on the centuries-long stability of print
 media. And, despite my professional experience as a programmer, I could not
@@ -59,15 +63,15 @@ and to those willing to trespass.
 
 My own trespassing converged on plain text as a primitive field of activity,
 where literary scholarship and software engineering intersect. Much of the book
-will be in the drawing out of what that intersection entails. On some level,
-*Plain Text* is a book about the link between textual encoding and literary
-interpretation. The reader should not however expect a totalizing history of
-modern computing or a survey of textual theory. Rather, the argument progresses
-from the action of the alphanumerical keyboard switch, through copper and
-silicon to the floating gate and the liquid crystal, and on towards the human.
-It is but a single possible pass through a cavernous black box: a recollection
-of a passage which left behind traces of illumination, reflecting the
-vagrancies of the journey.
+will consist of the drawing out of what that intersection entails. On some
+level, *Plain Text* is a book about the link between textual encoding and
+literary interpretation. The reader should not however expect a totalizing
+history of modern computing or a survey of textual theory. Rather, the argument
+progresses from the action of the alphanumerical keyboard switch, through
+copper and silicon to the floating gate and the liquid crystal, and on towards
+the human.  It is but a single possible pass through a cavernous black box: a
+recollection of a passage which left behind traces of illumination, reflecting
+the vagrancies of the journey.
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -76,10 +80,10 @@ plus added information."[^ln-uni] Yet, plain text is not without its own forms
 of mediation. All matter-bound inscription must take on some added properties
 of its preferred medium, however contingent these may be. The simplicity of
 plain text signifies systematic minimalism with the view towards human
-legibility, (and not towards that of a system or a machine). In this encoded
-preference for legibility of a specific kind, I argue that plain text contains
-a model of humanity. A part of the book's job will be to recover and to
-describe that model.
+legibility, and not towards that of a system or a machine. In this encoded
+preference for legibility of a specific kind, plain text, I argue, contains a
+model of humanity. A part of the book's job will be to recover and to describe
+that model.
 
 As a frame of mind, the use of plain text signals an ethics of reading and
 writing. The book unfolds a history of and an argument for plain text, as a
@@ -114,7 +118,7 @@ choosing a text editor, a filing system, or a social networking platform cannot
 be adequately addressed in shallow instrumental terms limited to efficacy,
 speed, or performance. A secondary aim of this volume is therefore to convince
 computer "users" to view their computational environments as a literary system
-of sorts.  I mean a "literary system" differently to what one might
+of sorts. I mean a "literary system" as opposed to what one might
 conventionally mistake for a "binary" or "digital" one, however imprecise those
 terms are in everyday use. In clarifying usage, I ask those who may have
 considered themselves mere "users" to become close readers, thinkers, and
@@ -182,7 +186,7 @@ theory.
 A skeptically minded reader may ask, what does all of that have to do with
 literature?  The domain of the digital, after all, belongs to computer science.
 What can literary theory contribute to our understanding of digital textuality?
-To this I would have to answer: quite a bit. The history of literary formalism
+To this I would have to answer: a great deal. The history of literary formalism
 (and later, structuralism) shares common intellectual ancestry with software
 engineering. Both converged on the idea of document structure and both borrowed
 heavily from the language of Hegelian aesthetics (as will become apparent in
@@ -194,13 +198,13 @@ Methodologically, I make two distinct moves to facilitate that interchange.
 
 The first borrows from formalism, in a strategy of deliberate
 defamiliarization.  The language of computation is rife with beautiful
-metaphors, which, with frequent use, loose their evocative and explenatory
+metaphors, which, with frequent use, loose their evocative and explanatory
 power. The task of the literary scholar becomes then to renew the stale
 metaphor: to rediscover it first and to then examine it for parallelisms that,
 as George Lakoff and Mark Johnson explain, structure one conceptual system in
 terms of another [@lakoff_metaphors_1980, 3-14]. Why do we call some software
 systems "applications" for example? The application of what to what? Other
-metaphors are hidden: like the flows of the liquid crystal behind the
+metaphors are hidden: for instance, the flows of the liquid crystal behind the
 ubiquitous acronym of "LCD". Yet other metaphors are veiled in the vocabulary
 of literary theory. The very notion of the formalist "literary device," for
 example, when understood literally, points to a mechanism (a gadget) for
@@ -214,15 +218,15 @@ understand the ways by which one gets "from thought to thing"
 artifacts that illustrate or, rather, enact the related metaphors of literary
 computation. In this way, each chapter contains a deconstruction---a literal
 taking apart---of a device. In the first chapter, that device is a copy
-machine, through which we are able to discuss the problem of digital copies.
-Subsequently, we will disassemble an LCD screen. It will help us reveal the
+machine, through which I am able to discuss the problem of digital copies.
+Subsequently, I will disassemble an LCD screen. It will help reveal the
 conflicting properties of digital media as something simultaneously continuous
-(liquid) and discrete (crystal). In another chapter, we will take a look at the
+(liquid) and discrete (crystal). In another chapter, I will take a look at the
 innards of an electronic book reader, unfolding a discussion about depth and
 surface reading. Later on in the book, I will take up the idea of personal
-archives as embodied in book shelves and filing systems. Finally, we will
-return to the concept of the human as seen through the lens of the Unix
-operating system.
+archives as embodied in book shelves and filing systems. Finally, I will return
+to the concept of the human as seen through the lens of the Unix operating
+system.
 
 Unlike defamiliarization, the reverse engineering of devices aims to bring the
 obscure to light. My methodology thus lies in the dual complimentary movement
@@ -263,21 +267,20 @@ essential, structural features. Rather, to borrow from a conversation on
 categories in Wittgenstein's *Philosophic Investigations*, categories denote a
 set of "family" practices, which may or may not share in any given familial
 characteristic [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To
-visualize the familial model, imagine a Venn diagram, where overlapping fields
-(of computation or textuality, in our case) intersect and diverge in a
-historically (culturally, practically) contingent and arbitrary ways. These
-fields lie in relation to specific communities of practice, which often do not
-in themselves employ a controlled vocabulary. What counts for "code" and
+visualize the familial model, imagine a tree diagram, where the tangled
+branches of computation and textuality diverge and intersect in arbitrary ways.
+These fields lie in relation to specific communities of practice, which often
+do not in themselves employ a controlled vocabulary. What counts for "code" and
 "poetry" in one domain, like computer science, may not account for the same in
 another domain, like creative writing. An engineer's evocation of code as
-poetry can diverge from a poet's.
+poetry can differ from that of a poet's.
 
 There's no sense in trying to equivocate the differences between divergent
 languages. In other words, we must not get stuck arguing about definition,
-where those definitions exist only in their social instantiation.  What counts
-as poetry, for example, can morphs from literary period to literary period.
-Those who write code by day and poetry by night might similarly employ
-differing if not outright contradictory definitions depending on their context.
+where those definitions exist only in their social instantiation. The
+definitions of poetry change from literary period to literary period.  Those
+who write code by day and poetry by night might similarly employ differing if
+not outright contradictory definitions depending on their context.
 
 My aim throughout will be to find points of congruence between such disparate
 vocabularies, along with areas of contact between communities whose members
@@ -321,14 +324,14 @@ particulates.
 Luckily for us, reading and writing of texts are not esoteric activities. They
 are readily available for phenomenological introspection. I will therefore
 occasionally encourage the readers to encounter the immediate contexts of their
-reading anew: to put down the book, to lean away from the screen, and too look
+reading anew: to put down the book, to lean away from the screen, and to look
 at these objects with strange eyes. In this movement, I want to disrupt
 habituated intuitions of the mind, pitting them against knowledge "at hand" and
 fingertip knowledge: as when ruffling through the pages or typing at a
 keyboard. To what extent is the text "ephemeral," for example? (I take up this
 question at length in chapters 1-3). The question can be made more palpable by
 asking "what can be done with this text now?" Are the readers physically able
-to copy and paste? Do they have legal permissions to quote at length, to
+to copy and paste? Do they have *legal* permissions to quote at length, to
 perform publicly, or to otherwise remediate?
 
 In this approach to "doing" theory, *Plain Text* joins the experimental and
@@ -337,13 +340,13 @@ fields long-dominated by purely speculative reflection. The turn represents a
 generation's dissatisfaction with "armchair" philosophizing. Recall the burning
 armchair, the symbol for experimental philosophy. Joshua Knobe and Shaun
 Nichols, some of the early proponents of the movement, explain that "many of
-the deepest questions of philosophy can only be properly addressed by immersion
-oneself in the messy, contingent, highly variable truths about how human being
+the deepest questions of philosophy can only be properly addressed by immersing
+oneself in the messy, contingent, highly variable truths about how human beings
 really are" [@knobe_experimental_2008, 3]. The emergence of laboratories,
 studios, and maker spaces as transformative ways of *doing* research in the
-humanities constitute a part of the same trend. Such spaces reach for metaphors
-of activity that reconfigure existing relationships between space, labor, idea,
-artifact, instrument, and inscription.
+humanities constitutes a part of the same trend. Such spaces reach for metaphors
+of activity that reconfigure existing relationships between people, space,
+labor, idea, artifact, instrument, and inscription.
 
 As an example of what I have been calling here the "experimental turn" in the
 field of early modern history, consider the preface to a recent volume on *Ways
@@ -368,7 +371,7 @@ for technological determinism. Instead, I follow Lewis Mumford and Langdon
 Winner in the insight that the implementation of technical systems changes the
 exercise of political power in subtle and profound ways. Artifacts cannot hold
 beliefs about politics. Political power is rather exercised through them.
-Stairs do not discriminate against the walking disabled, yet the failure to
+Stairs do not discriminate against the mobility impared, yet the failure to
 enforce accessibility through specific architectural choices does. Typesetting
 software, e-book readers, and word processors similarly encode implicit
 communication models, ideas about deliberation, ethics of labor, discursive
@@ -390,12 +393,13 @@ Finally, *Plain Text* is a concerted effort to repay the debt of materialism.
 The contemporary life of the mind is supported by complex systems and by
 institutions that are often beyond an individual's powers of understanding and
 control. In almost a decade of teaching critical computing in the humanities, I
-routinely encounter smart and sophisticated people who feel hopelessly
-alienated from the tools of their everyday intellectual activity. I suspect
-that much of the metaphysical angst directed against computation in general is
-really a symptom of that basic alienation. Contemporary knowledge workers stare
-into small black boxes for a considerable part of their days, suspecting, in
-the absence of other feedback, that their gaze is met in bad faith.
+routinely encountered otherwise informed people who nevertheless felt
+hopelessly alienated from the tools of their everyday intellectual activity. I
+suspect that much of the metaphysical angst directed against computation in
+general is really a symptom of that basic alienation. Contemporary knowledge
+workers stare into small black boxes for a considerable part of their days,
+suspecting, in the absence of other feedback, that their gaze is met in bad
+faith.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. Materialist critique, in the Marxist
@@ -418,7 +422,7 @@ distinction between form and content, when instantiated in specific file
 formats like Microsoft Word (`.docx`) or Adobe Reader (`.pdf`), can affect a
 material division of labor between editors, proofreaders, book sellers, and
 offshore typesetting shops.[^ln-sweatshop] One group trades "content" in the
-economy of prestige, another "formatting" in the economy of survival, yet
+economy of prestige, another "formatting" in the economy of survival, while yet
 another controls distribution in the market economy for profit.
 
 Such real world divisions remain obscured as long as the conversation about
