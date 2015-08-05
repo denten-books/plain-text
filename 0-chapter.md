@@ -34,8 +34,8 @@ media. And, despite my professional experience as a programmer, I could not
 readily explain the mechanisms by which keystrokes turned into pixels, pixels
 into letters, and letters into words. I could recount much technical detail on
 some level, but my knowledge also had huge gaps and did not amount to a
-coherent story. I was, despite my best efforts, surrounded by magical machines
-that played code and poetry, but I did not yet exactly know how.
+coherent story. I was, despite my best efforts, surrounded by magical lanterns
+that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
 It was and continues to be a disconcerting process, by which things dear and
@@ -69,7 +69,7 @@ literary interpretation. The reader should not however expect a totalizing
 history of modern computing or a survey of textual theory. Rather, the argument
 progresses from the action of the alphanumerical keyboard switch, through
 copper and silicon to the floating gate and the liquid crystal, and on towards
-the human.  It is but a single possible pass through a cavernous black box: a
+the human. It is but a single possible pass through a cavernous black box: a
 recollection of a passage which left behind traces of illumination, reflecting
 the vagrancies of the journey.
 
@@ -168,6 +168,19 @@ human in a digital world.
 
 ## Structure and Methodology
 
+The book is structured along a trajectory that moves from the material
+substratum of circuit and silicon to reach up, through levels of software
+abstraction---files, folders, and operating systems---towards the reader. In
+following that path, I reconstruct the passage of an electron from the
+mechanical action of the keyboard, to magnetic storage medium, and to liquid
+crystal, that together give rise to pixels, letters, and words. In using this
+approach, my book introduces a method of literary microanalysis. Where distant
+reading perceives patterns across large-scale literary copora, microanalysis
+breaks textuality down to its minute constituent components. It is at this
+level, that I find that readers and writers are in danger of becoming
+fundamentally alienated from the immediate material contexts of knowledge
+production.
+
 The challenge of writing and reading such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
 in 1949 in the *Proceedings of the American Philosophical Society*, Frank
@@ -219,14 +232,13 @@ artifacts that illustrate or, rather, enact the related metaphors of literary
 computation. In this way, each chapter contains a deconstruction---a literal
 taking apart---of a device. In the first chapter, that device is a copy
 machine, through which I am able to discuss the problem of digital copies.
-Subsequently, I will disassemble an LCD screen. It will help reveal the
-conflicting properties of digital media as something simultaneously continuous
-(liquid) and discrete (crystal). In another chapter, I will take a look at the
-innards of an electronic book reader, unfolding a discussion about depth and
-surface reading. Later on in the book, I will take up the idea of personal
-archives as embodied in book shelves and filing systems. Finally, I will return
-to the concept of the human as seen through the lens of the Unix operating
-system.
+Subsequently, I disassemble an LCD screen. It helps reveal the conflicting
+properties of digital media as something simultaneously continuous (liquid) and
+discrete (crystal). In another chapter, I examine the innards of an electronic
+book reader, unfolding a discussion about depth and surface reading. Later on
+in the book, I take up the idea of personal archives as embodied in book
+shelves and filing systems. Finally, I return to the concept of the human as
+seen through the lens of the Unix operating system.
 
 Unlike defamiliarization, the reverse engineering of devices aims to bring the
 obscure to light. My methodology thus lies in the dual complimentary movement
