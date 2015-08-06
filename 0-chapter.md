@@ -102,25 +102,25 @@ has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
 literature thrives. But the advent of computational textuality also means that
 the reading of texts may also involve the proactive deployment of tools like
 *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*. These tools "hop" across,
-"sniff" packets in, burrow through, survey, traverse, and flood network
+"sniff" packets in, "burrow" through, "survey," "traverse," and "flood" network
 topographies. Plain text channels itinerant streams of data back into mangroves
-of comprehension *for* readers and writers (as the very subjects whose loss
-Kittler laments). Only in such encrypted tunnels and secure shells can anything
+of comprehension *for* readers and writers, as the very subjects whose loss
+Kittler laments. Only in such encrypted tunnels and secure shells can anything
 like the digital humanities take root.
 
 Consequently, the book makes a case for the recovery of textual roots latent in
 the machinery of contemporary computing. Software engineers routinely architect
-technologies that aim at nothing less than a deep transformation (often phrased
-as a "disruption") of the social fabric: from the design of social media to the
-formation of massive shared archives. Because such "cultural techniques" are
-formative of our culture as a whole, supposedly technical decisions like
-choosing a text editor, a filing system, or a social networking platform cannot
-be adequately addressed in shallow instrumental terms limited to efficacy,
-speed, or performance. A secondary aim of this volume is therefore to convince
-computer "users" to view their computational environments as a literary system
-of sorts. I mean a "literary system" as opposed to what one might
-conventionally mistake for a "binary" or "digital" one, however imprecise those
-terms are in everyday use. In clarifying usage, I ask those who may have
+technologies that aim at nothing less than a deep transformation---often
+phrased as a "disruption"---of the social fabric: from the design of social
+media to the formation of massive shared archives. Because such "cultural
+techniques" are formative of our culture as a whole, supposedly technical
+decisions like choosing a text editor, a filing system, or a social networking
+platform cannot be adequately addressed in shallow instrumental terms limited
+to efficacy, speed, or performance. A secondary aim of this volume is therefore
+to convince computer "users" to view their computational environments as a
+literary system of sorts. I mean a "literary system" as opposed to what one
+might conventionally mistake for a "binary" or "digital" one, however imprecise
+those terms are in everyday use. In clarifying usage, I ask those who may have
 considered themselves mere "users" to become close readers, thinkers, and
 makers of technology, able to apply the same critical acuity to reading code
 and device as they do to the close reading of prose and poetry.
@@ -136,9 +136,9 @@ that the flatness of digital text endures only as an illusion. A substantial
 gap separates the visible text from the source code that produces it.
 Low-level, operational intuitions governing textuality---ideas about form,
 content, style, letter, and word---change profoundly as text shifts its
-confines from paper to pixel.  Forces of capital and control often exploit that
+confines from paper to pixel. Forces of capital and control often exploit that
 gap, relying on technological obscurity and institutional momentum to promote
-their ends (for better or for worse).
+their ends, for better or for worse.
 
 In *Plain Text*, I argue that some of the higher--level social ills of the
 contemporary public sphere---mass surveillance or online censorship, for
@@ -168,18 +168,15 @@ human in a digital world.
 
 ## Structure and Methodology
 
-The book is structured along a trajectory that moves from the material
-substratum of circuit and silicon to reach up, through levels of software
-abstraction---files, folders, and operating systems---towards the reader. In
-following that path, I reconstruct the passage of an electron from the
-mechanical action of the keyboard, to magnetic storage medium, and to liquid
-crystal, that together give rise to pixels, letters, and words. In using this
-approach, my book introduces a method of literary microanalysis. Where distant
-reading perceives patterns across large-scale literary copora, microanalysis
-breaks textuality down to its minute constituent components. It is at this
-level, that I find that readers and writers are in danger of becoming
-fundamentally alienated from the immediate material contexts of knowledge
-production.
+The book is structured along a trajectory that follows the pathway of an
+electron from the material substratum of circuit and silicon to reach up,
+through levels of software abstraction: files, folders, and operating systems
+that give rise to pixels, letters, and words. In using this approach, my book
+introduces a method of literary microanalysis. Where distant reading perceives
+patterns across large-scale literary copora, microanalysis breaks textuality
+down to its minute constituent components. It is at this level, that I find
+that readers and writers are in danger of becoming fundamentally alienated from
+the immediate material contexts of knowledge production.
 
 The challenge of writing and reading such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
@@ -197,7 +194,7 @@ of course, to foundational texts in the philosophy of aesthetics and literary
 theory.
 
 A skeptically minded reader may ask, what does all of that have to do with
-literature?  The domain of the digital, after all, belongs to computer science.
+literature? The domain of the digital, after all, belongs to computer science.
 What can literary theory contribute to our understanding of digital textuality?
 To this I would have to answer: a great deal. The history of literary formalism
 (and later, structuralism) shares common intellectual ancestry with software
@@ -210,18 +207,17 @@ dialog.
 Methodologically, I make two distinct moves to facilitate that interchange.
 
 The first borrows from formalism, in a strategy of deliberate
-defamiliarization.  The language of computation is rife with beautiful
-metaphors, which, with frequent use, loose their evocative and explanatory
-power. The task of the literary scholar becomes then to renew the stale
-metaphor: to rediscover it first and to then examine it for parallelisms that,
-as George Lakoff and Mark Johnson explain, structure one conceptual system in
-terms of another [@lakoff_metaphors_1980, 3-14]. Why do we call some software
-systems "applications" for example? The application of what to what? Other
-metaphors are hidden: for instance, the flows of the liquid crystal behind the
-ubiquitous acronym of "LCD". Yet other metaphors are veiled in the vocabulary
-of literary theory. The very notion of the formalist "literary device," for
-example, when understood literally, points to a mechanism (a gadget) for
-textual dissemination.
+defamiliarization. The language of computation is rife with evocative
+metaphors, which, with frequent use, loose their explanatory power. The task of
+the literary scholar becomes then to renew the stale metaphor. Renewal involves
+rediscovery and examination in search for parallelisms that, as George Lakoff
+and Mark Johnson explain, structure one conceptual system in terms of another
+[@lakoff_metaphors_1980, 3-14]. Why do we call some software systems
+"applications" for example? The application of what to what? Other metaphors
+are hidden: for instance, the flows of the liquid crystal behind the ubiquitous
+"LCD" screen. The vocabulary of literary theory veils yet other key metaphors.
+The very notion of the formalist "literary device," for example, when
+understood literally, points to a mechanism, a gadget, for textual diffusion.
 
 The reciprocal motion to such purposeful defamiliarization passes through a
 series of case studies. The function of a case study in an engineer's
@@ -258,16 +254,16 @@ The connection between "meaning" and "operational meaning," of the kind
 suggested by Petroski, is first and foremost a species of pragmatism. William
 James articulates that view clearly when he writes that "reality is seen to be
 grounded in a perfect jungle of concrete expediencies"
-[@james_pragmatisms_1907]. For James for his fellow travellers, pragmatic truth
-answers always involved a discussion of efficient causes and
-effects.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth,"
-James asks: "How will the truth be realized? What concrete difference will its
-being true make in anyone's actual life? What experiences will be different
-from those which would obtain if the belief were false?" Frank Ramsey, the
-young British philosopher close to Ludwig Wittgenstein, was influenced by the
-Americans and would later write that meaning "is to be defined by reference to
-the actions to which asserting it would lead" [@ramsey_foundations_2013,
-155].[^ln-pragmatism]
+[@james_pragmatisms_1907]. For James and his fellow travellers truth was never
+abstract. It entailed causes and effects that operate in the
+world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
+asks: "How will the truth be realized? What concrete difference will its being
+true make in anyone's actual life? What experiences will be different from
+those which would obtain if the belief were false?" Frank Ramsey, the young
+British philosopher close to Ludwig Wittgenstein, was influenced by the
+Americans and would later write in a similar vein that meaning "is to be
+defined by reference to the actions to which asserting it would lead"
+[@ramsey_foundations_2013, 155].[^ln-pragmatism]
 
 For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
@@ -284,28 +280,22 @@ branches of computation and textuality diverge and intersect in arbitrary ways.
 These fields lie in relation to specific communities of practice, which often
 do not in themselves employ a controlled vocabulary. What counts for "code" and
 "poetry" in one domain, like computer science, may not account for the same in
-another domain, like creative writing. An engineer's evocation of code as
-poetry can differ from that of a poet's.
-
-There's no sense in trying to equivocate the differences between divergent
-languages. In other words, we must not get stuck arguing about definition,
-where those definitions exist only in their social instantiation. The
-definitions of poetry change from literary period to literary period.  Those
-who write code by day and poetry by night might similarly employ differing if
-not outright contradictory definitions depending on their context.
+another domain, like creative writing. An engineer's use of the words "code"
+and "poetry" differs from the poet's. And yet an engineer by day can become a
+poet by night.
 
 My aim throughout will be to find points of congruence between such disparate
 vocabularies, along with areas of contact between communities whose members
 share a common sense of goal and purpose. I am interested here in literal
 spaces where the practice of literary theory and the practice of software
 engineering intersect. The electronic book, the word processor, and the
-operating system are some of the loci of that encounter.
+operating system are some of the locations that stage the encounter.
 
 ### Experimentalism
 
-Two intellectual movements tangentially related to pragmatism further shaped my
-approach to writing *Plain Text*. The first is experimentalism.  Writing in the
-mid-19th century against the tradition of inductive "generalizers," Claude
+Two intellectual movements tangentially related to pragmatism further influence
+my approach to writing *Plain Text*. The first is experimentalism. Writing in
+the mid-19th century against the tradition of inductive "generalizers," Claude
 Bernard, was one of the first physicians to argue for the necessity of
 experimentation in medical practice. "We cannot separate the two things," he
 wrote, "head and hand." He goes on to write that "the science of life is a
@@ -318,31 +308,28 @@ the lighted halls of contemporary literary and media theory can be best reached
 through the long and ghastly corridors of the scholar's workshop.
 
 Take the hypothetical example of a media scholar analyzing the last two decades
-of film or photography without grasping the fundamentals of electronic
-photo-detectors, RAW image formats, complementary metal–oxide–semiconductor
-(CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
-image manipulation techniques. Such a study would be in peril of drawing
-theoretical conclusions that have tenuous purchase on reality. That is not to
-say that theorists have nothing to contribute to the conversation, but rather
-that they can contribute more when their thought is grounded in practice.
-Similarly, it is my contention here that the fundamental theoretical concepts
-driving literary studies---word, text, narrative, discourse, author, story,
-book, archive---are thoroughly enmeshed in the underlying physical substratum
-of paper and pixel (among their related practices and institutions). It follows
-that the articulation of higher-level abstractions cannot attain its full
-expressive potential without a thick description of their lower-level base
-particulates.
+of photography without grasping the fundamentals of electronic photo-detectors,
+RAW image formats, complementary metal–oxide–semiconductor (CMOS), digital
+editing tools, computer-generated imagery (CGI), or *Photoshop* image
+manipulation techniques. Such a study would be in peril of drawing theoretical
+conclusions that have tenuous purchase on reality. That is not to say that
+theorists have nothing to contribute to the conversation. Rather they can
+contribute more when their thought is grounded in practice. Similarly, it is my
+contention here that fundamental literary-theoretical concepts---such as word,
+text, narrative, discourse, author, story, book, archive---are thoroughly
+enmeshed in the underlying physical substratum of paper and pixel. It follows
+that any attempt to articulate the idea cannot attain its full expressive
+potential without a thick description of its base particulates.
 
 Luckily for us, reading and writing of texts are not esoteric activities. They
-are readily available for phenomenological introspection. I will therefore
-occasionally encourage the readers to encounter the immediate contexts of their
-reading anew: to put down the book, to lean away from the screen, and to look
-at these objects with strange eyes. In this movement, I want to disrupt
-habituated intuitions of the mind, pitting them against knowledge "at hand" and
-fingertip knowledge: as when ruffling through the pages or typing at a
-keyboard. To what extent is the text "ephemeral," for example? (I take up this
-question at length in chapters 1-3). The question can be made more palpable by
-asking "what can be done with this text now?" Are the readers physically able
+are readily available to phenomenological introspection. I will therefore
+occasionally encourage readers to encounter the immediate contexts of reading
+anew: to put down the book, to lean away from the screen, and to look at these
+objects with strange eyes. In this movement, I want to disrupt habituated
+intuitions of the mind, pitting them against knowledge "at hand" and fingertip
+knowledge: as when ruffling through the pages or typing at a keyboard. How
+ephemeral is the text, for example? The question can be made more palpable by
+asking: What can the reader do with this text, here and now? Are readers able
 to copy and paste? Do they have *legal* permissions to quote at length, to
 perform publicly, or to otherwise remediate?
 
@@ -354,11 +341,11 @@ armchair, the symbol for experimental philosophy. Joshua Knobe and Shaun
 Nichols, some of the early proponents of the movement, explain that "many of
 the deepest questions of philosophy can only be properly addressed by immersing
 oneself in the messy, contingent, highly variable truths about how human beings
-really are" [@knobe_experimental_2008, 3]. The emergence of laboratories,
-studios, and maker spaces as transformative ways of *doing* research in the
-humanities constitutes a part of the same trend. Such spaces reach for metaphors
-of activity that reconfigure existing relationships between people, space,
-labor, idea, artifact, instrument, and inscription.
+really are" [@knobe_experimental_2008, 3]. The emergence of spaces where
+research in the humanities *is done* exemplifies the same trend. In calling
+such locations a "laboratory," a "studio," or a "workshop, humanists reach for
+metaphors of new activity. Such metaphors reorganize relationships between
+people, space, labor, idea, artifact, instrument, and inscription.
 
 As an example of what I have been calling here the "experimental turn" in the
 field of early modern history, consider the preface to a recent volume on *Ways
@@ -366,52 +353,43 @@ of Making and Knowing*, edited by Pamela Smith, Amy Meyers, and Harold Cook.
 The editors write that the "history of science is not a history of concepts, or
 at least not that alone, but a history of the making and using of objects to
 understand the world" [@smith_ways_2014, 12]. Smith translates that insight in
-the laboratory, where along with her students she bakes bread and smelts iron
-to recreate long-lost artisanal techniques. The major insight from Smith and
-her colleagues holds that traditional "book knowledge"---the kind of
-information that finds itself into novels, textbooks, and technical
-manuals---represents only a small part of the sum total of human expertise.
-Much of our knowledge is instead secreted into the artifacts and institutions
-where it unfolds through daily practice, in what Smith calls "artifactual
-knowledge."
+the laboratory, where, together with her students, she bakes bread and smelts
+iron to recreate long-lost artisanal techniques. For those who experiment,
+"book knowledge" and "artifactual knowledge" relate in practice.
 
-The artifactual knowledge related to digital technology---from typesetting
-software to e-book readers and word processors---shapes our everyday encounter
-with literature and textuality. That medium, as I will argue throughout, should
-not be taken as a value-neutral conduit of information. Neither do I advocate
-for technological determinism. Instead, I follow Lewis Mumford and Langdon
-Winner in the insight that the implementation of technical systems changes the
-exercise of political power in subtle and profound ways. Artifacts cannot hold
-beliefs about politics. Political power is rather exercised through them.
-Stairs do not discriminate against the mobility impared, yet the failure to
-enforce accessibility through specific architectural choices does. Typesetting
-software, e-book readers, and word processors similarly encode implicit
-communication models, ideas about deliberation, ethics of labor, discursive
-values, and views about "natural" human aptitude. In this way, contemporary
-documents embody limits to access by license, geography, or physical ability.
-In our applied example, I may ask: To what extent does the book or device in
-front of you "permit" or "enable" access?
+Artifactual knowledge---from typesetting software to e-book readers and word
+processors---shapes our everyday encounter with literature. That technology,
+should not be taken as a value-neutral conduit of information. Neither do I
+advocate for technological determinism. Instead, I follow Lewis Mumford and
+Langdon Winner to argue that technology affects the exercise of politics in
+subtle and profound ways. Artifacts cannot hold beliefs about politics.
+Political power is rather exercised through them. Stairs do not discriminate
+against the mobility impaired, yet, the failure to enforce accessibility
+through specific architectural choices does. Typesetting software, e-book
+readers, and word processors similarly encode implicit communication models,
+ideas about deliberation, ethics of labor, discursive values, and views about
+"natural" human aptitude. In this way, contemporary documents enforce limits to
+access by license, geography, or physical ability. To what extent does the book
+in front of you "permit" or "enable" access?
 
-A function of critique must then include the explication of such implicit
-controls. Experimentalism "lays bare" the logistics by which mechanisms
-facilitate the human encounter. A media scholar's version of baking bread and
-smelting iron is to make literal the task of media archeology on the level of
-the device. We dig, unearth, and excavate in the field or by controlled
-experiment.
+Whatever the answer, a function of critique must include the explication of
+implicit physical control. Experimentalism "lays bare" the device. A media
+scholar's version of baking bread and smelting iron is to make literal the task
+of media archeology on the level of the mechanism. In *Plain Text* we will dig,
+unearth, and excavate literary machines.
 
 ### Materialism
 
-Finally, *Plain Text* is a concerted effort to repay the debt of materialism.
-The contemporary life of the mind is supported by complex systems and by
-institutions that are often beyond an individual's powers of understanding and
-control. In almost a decade of teaching critical computing in the humanities, I
-routinely encountered otherwise informed people who nevertheless felt
-hopelessly alienated from the tools of their everyday intellectual activity. I
-suspect that much of the metaphysical angst directed against computation in
-general is really a symptom of that basic alienation. Contemporary knowledge
-workers stare into small black boxes for a considerable part of their days,
-suspecting, in the absence of other feedback, that their gaze is met in bad
-faith.
+Finally, *Plain Text* constitutes a concerted effort to repay the debt of
+materialism.  Complex systems that support the life of the mind today lie
+beyond an individual's powers of control. In almost a decade of teaching
+critical computing in the humanities, I routinely encountered otherwise
+informed people who nevertheless felt hopelessly estranged from the tools of
+their everyday intellectual activity. I suspect that much of the metaphysical
+angst directed against computation in general is really a symptom of that basic
+alienation.  Contemporary knowledge workers stare into small black boxes for a
+considerable part of their days, suspecting, in the absence of other feedback,
+that their gaze is met in bad faith.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. Materialist critique, in the Marxist
