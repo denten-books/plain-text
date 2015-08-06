@@ -144,8 +144,8 @@ example---are related to our failure to come to terms with the changing
 conditions of digital textuality. A society that cares about the long-term
 preservation of complex discursive formations like free speech, privacy,
 cultural heritage, or deliberation online, would do well to take heed of
-textual building blocks at their foundation. Text matters because how it is
-encoded, transmitted, and stored decides who gets to decode, receive, and
+textual building blocks at their foundation. Plain text matters because how it
+is encoded, transmitted, and stored decides who gets to decode, receive, and
 access.
 
 The overarching concern of the book is therefore to expose the illusion of
@@ -172,24 +172,24 @@ and operating systems, which subsequently give rise to pixels, letters, and
 words. In using this approach, my book introduces a method of literary
 microanalysis. Where distant reading perceives patterns across large-scale
 literary copora, microanalysis breaks textuality down to its minute constituent
-components. It is at this level, that I find that readers and writers are in
-danger of becoming fundamentally alienated from the immediate material contexts
-of knowledge production.
+components. It is at this level, that I find readers and writers in danger of
+becoming fundamentally alienated from the immediate material contexts of
+knowledge production.
 
-The challenge of writing and reading such a book lies in its inherently
+The challenge of reading and writing such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
 in 1949 in the *Proceedings of the American Philosophical Society*, Frank
 Halstead writes about the difficulty of finding a home field in the arts or
-sciences for what he calls "code development: "It is a matter somewhat related
-to the general art of cryptology, yet it is not wholly divorced from electrical
-engineering nor from general philology" [@halstead_genesis_1949, 456].
-Research for *Plain Text* has led me to rare primary archival sources: from the
-proceedings of the Association for Computing Machinery (ACM) to the United
-States Patent and Trademark Office; from Bell Labs to early Soviet publishing
-houses that heralded the advance of formalism; from studies on animal
-communication behavior, to Unix manuals, to textbooks on semiotics, and, of
-course, to foundational texts in the philosophy of aesthetics and literary
-theory.
+sciences for what he calls "code development. "It is a matter somewhat related
+to the general art of cryptology," he writes, "yet it is not wholly divorced
+from electrical engineering nor from general philology"
+[@halstead_genesis_1949, 456]. Research for *Plain Text* has led me to rare
+primary archival sources: from the proceedings of the Association for Computing
+Machinery (ACM) to the United States Patent and Trademark Office; from Bell
+Labs to early Soviet publishing houses that heralded the advance of formalism;
+from studies on animal communication behavior, to Unix manuals, to textbooks on
+semiotics, and, of course, to foundational texts in the philosophy of
+aesthetics and literary theory.
 
 A skeptically minded reader may ask, what does all of that have to do with
 literature? The domain of the digital, after all, belongs to computer science.
@@ -197,7 +197,7 @@ What can literary theory contribute to our understanding of digital textuality?
 To this I would have to answer: a great deal. The history of literary formalism
 (and later, structuralism) shares common intellectual ancestry with software
 engineering. Both converged on the idea of document structure and both borrowed
-heavily from the language of Hegelian aesthetics, a topic I dissucss at length
+heavily from the language of Hegelian aesthetics, a topic I discuss at length
 in Chapter 3. Although the two communities have now diverged in their ways of
 speaking, they could benefit from entering into a constructive dialog.
 
@@ -205,36 +205,36 @@ Methodologically, I make two distinct moves to facilitate that interchange.
 
 The first borrows from formalism, in a strategy of deliberate
 defamiliarization. The language of computation is rife with evocative
-metaphors, which, with frequent use, lose their explanatory power. The task of
+metaphors, which lose their explanatory power with frequent use. The task of
 the literary scholar becomes then to renew the stale metaphor. Renewal involves
 close reading in search for parallelisms that, as George Lakoff and Mark
 Johnson explain, structure one conceptual system in terms of another
 [@lakoff_metaphors_1980, 3-14]. Why do we call some software systems
-"applications" for example? The application of what to what? Often, one must
-first recover the metaphor to understand it. This is the case with the liquid
-crystal, the substance at the core of liquid crystal displays (LCDs). Screen
-textuality manifests in a medium that is at once continuous (liquid) and
-discrete (crystal). How do these physical properties affect our understanding
-of the digital text? The very notion of the "literary device" points to a
-mechanism for textual diffusion. There are devices like e-book readers and
-"devices" like consonance and alliteration. Application, crystal, device: the
-familiar metaphor obscures the complexity of an image.
+"applications" for example? The application of what to what? Screen textuality
+manifests itself through a Display medium (LCD) that is at once continuous
+(Liquid) and discrete (Crystal). How do these physical properties affect our
+conceptual understanding of the digital text? The very notion of the "literary
+device" further points to a number of mechanisms for textual diffusion. There
+are devices like typewriters and e-book readers and "devices" like consonance
+and alliteration. Application, crystal, device: these familiar metaphors
+obscure the complexity of the conceptual systems involved. Each chapter of the
+book unfolds around a metaphor. Defamiliarization reclaims the metaphor for
+analysis.
 
-The reciprocal motion to such purposeful defamiliarization passes through a
-series of case studies. The function of a case study in an engineer's
-education, as Henry Petroski explains in his *Invention by Design*, is to
-understand the ways by which one gets "from thought to thing"
-[@petroski_invention_1996, 3-7]. Each of my chapters contains one or more
-artifacts that illustrate or, rather, enact the related metaphors of literary
-computation. In this way, each chapter contains a deconstruction---a literal
-taking apart---of a device. In the first chapter, that device is a copy
-machine, through which I am able to discuss the problem of digital copies.
-Subsequently, I disassemble an LCD screen. It helps reveal the conflicting
-properties of digital media as something simultaneously continuous (liquid) and
-discrete (crystal). In another chapter, I examine the innards of an electronic
-book reader, unfolding a discussion about depth and surface reading. Later on
-in the book, I take up the idea of personal archives as embodied in book
-shelves and filing systems. Finally, I return to the concept of the human as
+The reciprocal motion to defamiliarization passes through a series of case
+studies. The function of a case study in an engineer's education, as Henry
+Petroski explains in his *Invention by Design*, is to understand the ways by
+which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
+with a metaphor, each of my chapters also contains at least one "thought thing"
+and each enacts a deconstruction---a literal taking apart---of that device. In
+the first chapter, I disassemble a copy machine. It helps illustrate the
+problem of digital copies. Subsequently, I reverse engineer an LCD screen. The
+screen reveals the conflicting properties of digital media as something
+simultaneously continuous and discrete. In another chapter, I examine the
+innards of an electronic book reader to illustrate a discussion about depth and
+surface reading. Later on in the book, I analyze book and file storage systems,
+as the "furnishings of the mind," which tell us something about the way we
+externalize our thoughts. The book concludes with the concept of the human as
 seen through the lens of the Unix operating system.
 
 Unlike defamiliarization, the reverse engineering of devices aims to bring the
