@@ -225,17 +225,17 @@ The reciprocal motion to defamiliarization passes through a series of case
 studies. The function of a case study in an engineer's education, as Henry
 Petroski explains in his *Invention by Design*, is to understand the ways by
 which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
-with a metaphor, each of my chapters also contains at least one "thought thing"
-and each enacts a deconstruction---a literal taking apart---of that device. In
-the first chapter, I disassemble a copy machine. It helps illustrate the
-problem of digital copies. Subsequently, I reverse engineer an LCD screen. The
-screen reveals the conflicting properties of digital media as something
-simultaneously continuous and discrete. In another chapter, I examine the
-innards of an electronic book reader to illustrate a discussion about depth and
-surface reading. Later on in the book, I analyze book and file storage systems,
-as the "furnishings of the mind," which tell us something about the way we
-externalize our thoughts. The book concludes with the concept of the human as
-seen through the lens of the Unix operating system.
+with a metaphor, each of my chapters also contains at least one literary
+"thought thing" and each enacts a deconstruction---a literal taking apart---of
+that device. In the first chapter, I disassemble a copy machine. It helps
+illustrate the problem of digital copies. Subsequently, I reverse engineer an
+LCD screen. The screen reveals the conflicting properties of digital media as
+something simultaneously continuous and discrete. In another chapter, I examine
+the innards of an electronic book reader to illustrate a discussion about depth
+and surface reading. Later on in the book, I analyze book and file storage
+systems, as the furnishings of the mind, which tell us something about the way
+we externalize our thoughts. The book concludes with the concept of the human
+as seen through the lens of the Unix operating system.
 
 Unlike defamiliarization, the reverse engineering of devices aims to bring the
 obscure to light. My methodology thus lies in the dual complimentary movement
@@ -246,8 +246,7 @@ each chapter and the book.
 
 The idea of pitting thought against thing is not new, nor is it confined to
 literary scholarship or software engineering. In my approach to writing *Plain
-Text* I was influenced by three broad, but related intellectual movements
-affecting wide swaths of the academia today.
+Text* I was influenced by three broad, but related intellectual movements.
 
 ### Pragmatism
 
@@ -261,10 +260,9 @@ world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
 asks: "How will the truth be realized? What concrete difference will its being
 true make in anyone's actual life? What experiences will be different from
 those which would obtain if the belief were false?" Frank Ramsey, the young
-British philosopher close to Ludwig Wittgenstein, was influenced by the
-Americans and would later write in a similar vein that meaning "is to be
-defined by reference to the actions to which asserting it would lead"
-[@ramsey_foundations_2013, 155].[^ln-pragmatism]
+British philosopher close to Ludwig Wittgenstein who was influenced by the
+Americans, would later write in a similar vein about meaning as "defined by
+reference to the actions" [@ramsey_foundations_2013, 155].[^ln-pragmatism]
 
 For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
@@ -282,14 +280,13 @@ These fields lie in relation to specific communities of practice, which often
 do not in themselves employ a controlled vocabulary. What counts for "code" and
 "poetry" in one domain, like computer science, may not account for the same in
 another domain, like creative writing. An engineer's use of the words "code"
-and "poetry" differs from the poet's. And yet an engineer by day can become a
-poet by night.
+and "poetry" differs from that of a poet's. And yet an engineer by day can also
+be a poet by night. The changing contexts demand the corresponding shift in
+operational definitions.
 
 My aim throughout will be to find points of congruence between such disparate
 vocabularies, along with areas of contact between communities whose members
-share a common sense of goal and purpose. I am interested here in literal
-spaces where the practice of literary theory and the practice of software
-engineering intersect. The electronic book, the word processor, and the
+share a common purpose. The electronic book, the word processor, and the
 operating system are some of the locations that stage the encounter.
 
 ### Experimentalism
@@ -308,12 +305,12 @@ ground of life" [@bernard_introduction_1957, 3-15]. It is my belief also that
 the lighted halls of contemporary literary and media theory can be best reached
 through the long and ghastly corridors of the scholar's workshop.
 
-Take the hypothetical example of a media scholar analyzing the last two decades
+Take the hypothetical example of a media scholar analyzing the last few decades
 of photography without grasping the fundamentals of electronic photo-detectors,
-RAW image formats, complementary metal–oxide–semiconductor (CMOS), digital
+RAW image formats, complementary metal–oxide–semiconductors (CMOS), digital
 editing tools, computer-generated imagery (CGI), or *Photoshop* image
 manipulation techniques. Such a study would be in peril of drawing theoretical
-conclusions that have tenuous purchase on reality. That is not to say that
+conclusions that have tenuous purchase on reality. That is not to say that pure
 theorists have nothing to contribute to the conversation. Rather they can
 contribute more when their thought is grounded in practice. Similarly, it is my
 contention here that fundamental literary-theoretical concepts---such as word,
