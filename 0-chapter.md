@@ -319,15 +319,15 @@ enmeshed in the underlying physical substratum of paper and pixel. It follows
 that any attempt to articulate the idea cannot attain its full expressive
 potential without a thick description of its base particulates.
 
-Luckily for us, reading and writing of texts are not esoteric activities. They
-are readily available to phenomenological introspection. I will therefore
-occasionally encourage readers to encounter the immediate contexts of reading
-anew: to put down the book, to lean away from the screen, and to look at these
-objects with strange eyes. In this movement, I want to disrupt habituated
-intuitions of the mind, pitting them against knowledge "at hand" and fingertip
+Luckily for us, reading and writing are not esoteric activities. They are
+readily available to phenomenological introspection. I will therefore
+occasionally encourage readers to encounter the immediate context of their
+reading anew: to put down the book or to lean away from the screen and to look
+at them with strange eyes. In this movement, I want to disrupt the mind's
+habituated intuitions, pitting them against knowledge "at hand" and fingertip
 knowledge: as when ruffling through the pages or typing at a keyboard. How
-ephemeral is the text, for example? The question can be made more palpable by
-asking: What can the reader do with this text, here and now? Are readers able
+ephemeral are texts, for example? The question can be made more palpable by
+asking: What can the reader do with *this* text, here and now? Are readers able
 to copy and paste? Do they have *legal* permissions to quote at length, to
 perform publicly, or to otherwise remediate?
 
@@ -356,25 +356,26 @@ iron to recreate long-lost artisanal techniques. For those who experiment,
 "book knowledge" and "artifactual knowledge" relate in practice.
 
 Artifactual knowledge---from typesetting software to e-book readers and word
-processors---shapes our everyday encounter with literature. That technology,
+processors---shapes our everyday encounter with literature. That technology
 should not be taken as a value-neutral conduit of information. Neither do I
 advocate for technological determinism. Instead, I follow Lewis Mumford and
 Langdon Winner to argue that technology affects the exercise of politics in
 subtle and profound ways. Artifacts cannot hold beliefs about politics.
 Political power is rather exercised through them. Stairs do not discriminate
-against the mobility impaired, yet, the failure to enforce accessibility
-through specific architectural choices does. Typesetting software, e-book
-readers, and word processors similarly encode implicit communication models,
-ideas about deliberation, ethics of labor, discursive values, and views about
-"natural" human aptitude. In this way, contemporary documents enforce limits to
-access by license, geography, or physical ability. To what extent does the book
-in front of you "permit" or "enable" access?
+against the mobility impaired. The failure to enforce accessibility through
+specific architectural choices does. Typesetting software, e-book readers, and
+word processors similarly encode implicit communication models, ideas about
+deliberation, ethics of labor, discursive values, and views about "natural"
+human aptitude. In this way, contemporary documents enforce limits to access by
+license, geography, or physical ability. To what extent does the book in front
+of you "permit" or "enable" access?
 
-Whatever the answer, a function of critique must include the explication of
-implicit physical control. Experimentalism "lays bare" the device. A media
-scholar's version of baking bread and smelting iron is to make literal the task
-of media archeology on the level of the mechanism. In *Plain Text* we will dig,
-unearth, and excavate literary machines.
+Whatever the answer, a function of understanding the affordances of textual
+technology must include the explication of physical control. Experimentalism
+enables the critic to "lay bare" the device. A media scholar's version of
+baking bread and smelting iron is to make literal the task of media archeology
+on the level of the mechanism. In *Plain Text* we will dig, unearth, and
+excavate literary machines.
 
 ### Materialism
 
