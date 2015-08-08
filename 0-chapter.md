@@ -309,15 +309,15 @@ Take the hypothetical example of a media scholar analyzing the last few decades
 of photography without grasping the fundamentals of electronic photo-detectors,
 RAW image formats, complementary metal–oxide–semiconductors (CMOS), digital
 editing tools, computer-generated imagery (CGI), or *Photoshop* image
-manipulation techniques. Such a study would be in peril of drawing theoretical
-conclusions that have tenuous purchase on reality. That is not to say that pure
-theorists have nothing to contribute to the conversation. Rather they can
-contribute more when their thought is grounded in practice. Similarly, it is my
-contention here that fundamental literary-theoretical concepts---such as word,
-text, narrative, discourse, author, story, book, archive---are thoroughly
-enmeshed in the underlying physical substratum of paper and pixel. It follows
-that any attempt to articulate the idea cannot attain its full expressive
-potential without a thick description of its base particulates.
+manipulation techniques. Such a study would be in peril of being misguided by
+theories that have no basis in reality. That is not to say that pure theorists
+have nothing to contribute to the conversation. Rather they can contribute more
+when their thought is grounded in practice. Similarly, it is my contention here
+that fundamental literary-theoretical concepts---such as word, text, narrative,
+discourse, author, story, book, archive---are thoroughly enmeshed in the
+underlying physical substratum of paper and pixel. It follows that any attempt
+to articulate the idea cannot attain its full expressive potential without a
+thick description of its base particulates.
 
 Luckily for us, reading and writing are not esoteric activities. They are
 readily available to phenomenological introspection. I will therefore
@@ -380,50 +380,50 @@ excavate literary machines.
 ### Materialism
 
 Finally, *Plain Text* constitutes a concerted effort to repay the debt of
-materialism.  Complex systems that support the life of the mind today lie
-beyond an individual's powers of control. In almost a decade of teaching
+materialism. Complex systems that support the life of the mind today seem to
+lie beyond an individual's powers of control. In almost a decade of teaching
 critical computing in the humanities, I routinely encountered otherwise
 informed people who nevertheless felt hopelessly estranged from the tools of
 their everyday intellectual activity. I suspect that much of the metaphysical
 angst directed against computation in general is really a symptom of that basic
-alienation.  Contemporary knowledge workers stare into small black boxes for a
+alienation. Contemporary knowledge workers stare into small black boxes for a
 considerable part of their days, suspecting, in the absence of other feedback,
-that their gaze is met in bad faith.
+that the system meets their gaze in bad faith.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
-things" [@horkheimer_critical_1982, 143]. Materialist critique, in the Marxist
-tradition, promises nothing less than human emancipation. But as Max Horkheimer
-wrote, "the issue is not simply the theory of emancipation; it is the practice
-of it as well" [@horkheimer_critical_1982, 233]. The echoes of experimental
-pragmatism resonate again in these words. Recently, scholars like Alan Liu and
-Kathleen Fitzpatrick have began to turn the tools of critical theory towards
-the instrumental contexts of knowledge production [@liu_laws_2004;
+things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
+powerful tools for analysis and resistance against technological
+determinism.[^ln-determine] But as Max Horkheimer wrote, "the issue is not
+simply the theory of emancipation; it is the practice of it as well"
+[@horkheimer_critical_1982, 233]. The echoes of experimental pragmatism
+resonate again in these words. Recently, scholars like Alan Liu and Kathleen
+Fitzpatrick have began to turn the tools of critical theory towards the
+instrumental contexts of knowledge production [@liu_laws_2004;
 @fitzpatrick_planned_2011]. I join them to argue that in treating the
 instruments of intellectual production (and consumption) uncritically, all of
 us---readers and writers---accumulate an ethical debt, owed to ourselves and to
 the world.
 
+[^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
+agency of complex systems and (b) a practice of diminishing the scope of human
+freedoms by technological means.
+
 It is one thing, for example, to theorize about the free movement of literary
 tropes across cultures and continents, and quite another to have that sentiment
-appear in print behind paywalls inaccessible to most reading publics who have
-no means of affording institutional subscription. Similarly, the theoretical
-distinction between form and content, when instantiated in specific file
-formats like Microsoft Word (`.docx`) or Adobe Reader (`.pdf`), can affect a
-material division of labor between editors, proofreaders, book sellers, and
-offshore typesetting shops.[^ln-sweatshop] One group trades "content" in the
-economy of prestige, another "formatting" in the economy of survival, while yet
-another controls distribution in the market economy for profit.
+appear in print behind paywalls inaccessible to most reading publics.
+Similarly, a theoretical distinction between form and content, when
+instantiated in specific file formats like Microsoft Word (`.docx`) or Adobe
+Reader (`.pdf`), enacts a material division of labor between editors,
+proofreaders, book sellers, and offshore typesetting shops.[^ln-sweatshop] One
+group trades "content" in the economy of prestige, another "formatting" in the
+economy of survival, while yet another controls distribution in the market
+economy, for profit.
 
-Such real world divisions remain obscured as long as the conversation about
-distinctions like "form" and "content" persists in the abstract, without
-intervention at their material basis. In enacting a reconciliation of
-vocabularies, my goal then is to reclaim such ordinary material contexts of
-everyday knowledge production, connecting them to long standing concerns in
-aesthetic theory, literary analysis, and social thought. Yet because my own
-alienation was so profound, the task of rebuilding the material foundations
-recounted here was not an easy one. It begins with the recovery of immediate
-technical fundamentals in the early chapters and ends with the broader social
-impact of these particulates in the later chapters.
+Such divisions remain in place as long as distinctions like "form" and
+"content" persist in the abstract. Materialist critique cannot achieve its
+stated aims without purchase on the material world. My goals in this book
+therefore go beyond the reconciliation of vocabularies. *Plain Text* is a call
+to action.
 
 [^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
 Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
