@@ -23,7 +23,7 @@ header-includes:
 to a particular situation of a software engineer encountering a literary
 scholar. For a long stretch of my professional life, these two roles remained
 separate from each other. I worked at one and I studied another. At the time, I
-simply did not think that code has anything to do with poetry. The idea for the
+simply did not think that code had anything to do with poetry. The idea for the
 book came to me in a moment of realization, after I was asked one of those
 naive but fundamental questions, of the kind that can plunge research into a
 long and winding hole. A childhood friend who loves books asked about the
@@ -53,7 +53,7 @@ methodology, applicable to life and scholarship. Defamiliarization plays an
 instrumental part of an immigrant's survival mechanism. The digitally displaced
 similarly hold on to the discomfort of the encounter with the machine.
 Estrangement---always at the heart of immigrant or queer poetics---reconciles
-without seeking wholeness and integration. I dedicate this book then to queers
+without seeking wholeness or integration. I dedicate this book then to queers
 and immigrants, literal and figurative---spatial, literary, technological---to
 those being displaced unwillingly, to those exiled within and without, to those
 who understand the need for displacement, to those who transgress purposefully,
@@ -61,15 +61,8 @@ and to those willing to trespass.
 
 ## Thesis
 
-My own trespassing converged on plain text as a primitive field of activity,
-where literary scholarship and software engineering intersect. Much of the book
-will consist of the drawing out of what that intersection entails. On some
-level, *Plain Text* is a book about the link between textual encoding and
-literary interpretation. The reader should not however expect a totalizing
-history of modern computing or a survey of textual theory. Rather, the argument
-progresses from the action of the alphanumerical keyboard switch, through
-copper and silicon to liquid crystal and the floating gate, and on towards the
-human. It is but a single possible pass through a cavernous black box.
+My own trespassing converged on plain text as a primitive field of activity, at
+the crossroads of software engineering and the study of literature.
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -93,18 +86,19 @@ size" or "line spacing." Increasingly, devices that mediate literary activity
 encode specific forms of governance and control.
 
 To trace the flows of governance and control that lurk beneath the text, of the
-sort that Friedrich Kittler warns us, must mean more than passive apprehension
-of footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
-Kittler, who once wrote that "under conditions of high technology, literature
-has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
-literature thrives. But the advent of computational textuality also means that
-the reading of texts may also involve the proactive deployment of tools like
-*tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*. These tools "hop" across,
-"sniff" packets in, "burrow" through, "survey," "traverse," and "flood" network
-topographies. Plain text channels itinerant streams of data back into the
-mangroves of human comprehension. There, code becomes intelligible for the very
-subjects whose loss Kittler laments. Only in such encrypted tunnels and secure
-shells can anything like the digital humanities take root.
+sort that Friedrich Kittler warns us about, must mean more than passive
+apprehension of footprints indicating the "evanescent absence" of
+life.[^ln-lacan] Unlike Kittler, who once wrote that "under conditions of high
+technology, literature has nothing more to say,"[@kittler_gramophone_1999, 263]
+I believe that literature thrives. But the advent of computational textuality
+also means that the reading of texts may also involve the proactive deployment
+of tools like *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*. These tools
+"hop" across, "sniff" packets in, "burrow" through, "survey," "traverse," and
+"flood" network topographies. Plain text channels itinerant streams of data
+back into the mangroves of human comprehension. There, code becomes
+intelligible for the very subjects whose loss Kittler laments. Only in such
+encrypted tunnels and secure shells can anything like the digital humanities
+take root.
 
 Consequently, the book makes a case for the recovery of textual roots latent in
 the machinery of contemporary computing. Software engineers routinely architect
@@ -153,7 +147,7 @@ verisimilitude between text on paper and text on the screen. The words may look
 the same, but the underlying material affordances of the medium differ in
 significant detail. As an obvious example, consider a news report that omits or
 adds important details based on the reader's location, or an e-book reader
-device that highlights popular passages. For a literary scholar, such
+device that highlights popular passages. For a literary analyst, such
 instability of medium means analysis cannot be confined to reading for meaning
 alone. How will close reading persist, when the reading device reconfigures a
 text dynamically, to fit individual tastes, mood, or politics? The formulation
@@ -166,20 +160,24 @@ human in a digital world.
 
 ## Structure and Methodology
 
-The book is structured along a trajectory that follows the pathway of an
-electron from the material substratum of circuit and silicon to files, folders,
-and operating systems, which subsequently give rise to pixels, letters, and
-words. In using this approach, my book introduces a method of literary
-microanalysis. Where distant reading perceives patterns across large-scale
-literary copora, microanalysis breaks textuality down to its minute constituent
-components. It is at this level, that I find readers and writers in danger of
-becoming fundamentally alienated from the immediate material contexts of
-knowledge production.
+*Plain Text* is a book about textual encoding and interpretation. The reader
+should not however expect a totalizing history of modern computing or a survey
+of literary theory. Rather, the argument progresses from the action of the
+alphanumerical keyboard switch, through copper and silicon to liquid crystal
+and the floating gate, and on towards the human. It is but a single possible
+pass through a cavernous black box.
+
+In using this approach, my book introduces a method of literary microanalysis.
+Where distant reading perceives patterns across large-scale literary copora,
+microanalysis breaks textuality down to its minute constituent components. It
+is at this level, that I find readers and writers in danger of becoming
+fundamentally alienated from the immediate material contexts of knowledge
+production.
 
 The challenge of reading and writing such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
 in 1949 in the *Proceedings of the American Philosophical Society*, Frank
-Halstead writes about the difficulty of finding a home field in the arts or
+Halstead mentions the difficulty of finding a home field in the arts or
 sciences for what he calls "code development. "It is a matter somewhat related
 to the general art of cryptology," he writes, "yet it is not wholly divorced
 from electrical engineering nor from general philology"
@@ -188,20 +186,22 @@ primary archival sources: from the proceedings of the Association for Computing
 Machinery (ACM) to the United States Patent and Trademark Office; from Bell
 Labs to early Soviet publishing houses that heralded the advance of formalism;
 from studies on animal communication behavior, to Unix manuals, to textbooks on
-semiotics, and, of course, to foundational texts in the philosophy of
-aesthetics and literary theory.
+semiotics, and to foundational texts in the philosophy of aesthetics and
+literary theory.
 
 A skeptically minded reader may ask, what does all of that have to do with
 literature? The domain of the digital, after all, belongs to computer science.
 What can literary theory contribute to our understanding of digital textuality?
 To this I would have to answer: a great deal. The history of literary formalism
-(and later, structuralism) shares common intellectual ancestry with software
+and later, structuralism, shares common intellectual ancestry with software
 engineering. Both converged on the idea of document structure and both borrowed
-heavily from the language of Hegelian aesthetics, a topic I discuss at length
-in Chapter 3. Although the two communities have now diverged in their ways of
-speaking, they could benefit from entering into a constructive dialog.
+heavily from the language of Hegelian aesthetics.[^ln-hegel] Although the two
+communities have now diverged in their ways of speaking, they could benefit
+from entering into a constructive dialog.
 
-Methodologically, I make two distinct moves to facilitate that interchange.
+[^ln-hegel]: I discuss the topic at length in Chapter 3.
+
+Methodologically, I make two distinct moves to facilitate that conversation.
 
 The first borrows from formalism, in a strategy of deliberate
 defamiliarization. The language of computation is rife with evocative
