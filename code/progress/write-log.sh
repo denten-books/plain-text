@@ -25,10 +25,18 @@ wordCount=$(find $src -maxdepth 1 -name '*.md' -type f -print0 | xargs -0 cat | 
 total=$((wordCount - oldWords))
 
 # happy message
-echo "You wrote $total words since last time for a total of $wordCount. Well done, sir."
+if [ "$total" -gt 0 ]
+then
+    echo "You wrote $total words since last time for a total of $wordCount. Well done, sir."
+elif [ "$total" -lt 0 ]
+then
+    echo "You made your argument $total sharper. Your total now is a cool $wordCount. Well done, sir."
+else
+    echo "You lost nothing. You gained nothing. $total today for a total of $wordCount"
+fi
 
 # write to log if not zero
-if [ "$total" != 0 ]
+if [ "$total" -ne 0 ]
     then
         echo "$wordCount $total $stamp" >> $path/log.txt
 fi
