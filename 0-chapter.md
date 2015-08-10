@@ -177,8 +177,6 @@ is at this scale that I find readers and writers in danger of becoming
 fundamentally alienated from the immediate material contexts of knowledge
 production.
 
-### Materialism
-
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
 powerful tools for analysis and resistance against technological
@@ -217,7 +215,41 @@ of that basic alienation. Contemporary knowledge workers stare into small black
 boxes for a considerable part of their days, suspecting, in the absence of
 other feedback, that their gaze is met in bad faith.
 
-### Experimentalism
+Connecting theories of meaning making to the practices of meaning making offers
+a way out of the bad faith conundrum. Bad faith identifies a misaligned
+duplicity between thought and action. The solution to connect "meaning" and
+"operational meaning" is ultimately a species of pragmatism. William James
+articulates that view clearly when he writes that "reality is seen to be
+grounded in a perfect jungle of concrete expediencies"
+[@james_pragmatisms_1907]. For James and his fellow travellers truth can never
+be abstract. It also entails causes and effects that operate in the
+world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
+asks: "How will the truth be realized? What concrete difference will its being
+true make in anyone's actual life? What experiences will be different from
+those which would obtain if the belief were false?" Frank Ramsey, the young
+British philosopher close to Ludwig Wittgenstein would later write in a similar
+vein about meaning as "defined by reference to the actions"
+[@ramsey_foundations_2013, 155].[^ln-pragmatism]
+
+For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
+"the author is dead" or "art is transcendent") beg the questions of "Where?,"
+"When?," "For whom?," and "What's at stake in maintaining that?" Following the
+pragmatic insight of James and Ramsey, I will proceed with the conviction that
+abstract categories like "literature," "computation," and "text" cannot
+possibly be (although they often are) reduced to a number of essential,
+structural features. Rather, to borrow from Wittgenstein's *Philosophic
+Investigations*, categories denote a set of "family" practices that may or may
+not share in any given familial characteristic
+[@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
+model, imagine a tree diagram, where the tangled branches of computation and
+textuality diverge and intersect in arbitrary ways. These fields lie in
+relation to specific communities of practice, which often do not in themselves
+employ a controlled vocabulary. What counts for "code" and "poetry" in one
+domain, like computer science, may not account for the same in another domain,
+like creative writing. An engineer's use of the words "code" and "poetry"
+differs from that of a poet's. And yet an engineer by day can also become a
+poet by night. The changing contexts evoke the corresponding shift in
+operational definitions.
 
 As consequence of its commitment to engaged materialism, *Plain Text* shares in
 the experimental turn affecting a range of humanistic disciplines. Writing in
@@ -304,65 +336,14 @@ iron is to make literal the image suggested by media "archeology" on the level
 of the mechanism. In *Plain Text* we will dig through, unearth, and excavate
 literary machines.
 
-### Existential Pragmatism
-
-Connecting theories of meaning making to the practices of meaning making offers
-a way out of the bad faith conundrum. Bad faith identifies a misaligned
-duplicity between thought and action, transcendence and facticity. The solution
-to connect "meaning" and "operational meaning" is first and foremost a species
-of pragmatism. William James articulates that view clearly when he writes that
-"reality is seen to be grounded in a perfect jungle of concrete expediencies"
-[@james_pragmatisms_1907]. For James and his fellow travellers truth can never
-be abstract. It also entails causes and effects that operate in the
-world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
-asks: "How will the truth be realized? What concrete difference will its being
-true make in anyone's actual life? What experiences will be different from
-those which would obtain if the belief were false?" Frank Ramsey, the young
-British philosopher close to Ludwig Wittgenstein would later write in a similar
-vein about meaning as "defined by reference to the actions"
-[@ramsey_foundations_2013, 155].[^ln-pragmatism]
-
-For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
-"the author is dead" or "art is transcendent") beg the questions of "Where?,"
-"When?," "For whom?," and "What's at stake in maintaining that?" Following the
-pragmatic insight of James and Ramsey, I will proceed with the conviction that
-abstract categories like "literature," "computation," and "text" cannot
-possibly be (although they often are) reduced to a number of essential,
-structural features. Rather, to borrow from Wittgenstein's *Philosophic
-Investigations*, categories denote a set of "family" practices that may or may
-not share in any given familial characteristic
-[@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
-model, imagine a tree diagram, where the tangled branches of computation and
-textuality diverge and intersect in arbitrary ways. These fields lie in
-relation to specific communities of practice, which often do not in themselves
-employ a controlled vocabulary. What counts for "code" and "poetry" in one
-domain, like computer science, may not account for the same in another domain,
-like creative writing. An engineer's use of the words "code" and "poetry"
-differs from that of a poet's. And yet an engineer by day can also become a
-poet by night. The changing contexts evoke the corresponding shift in
-operational definitions.
-
-The project of "existential pragmatism" entails a reconciliation of conflicting
-vocabularies that influence action. In action, we discover the true purpose of
-our rhetoric. The reconciliation acquaints humans with their passions, is the
-way Sartre would put it [@sartre_being_1993, 797]. The congruence of
-vocabularies should not however lead to a conflation of terms. A dialectical
-tension between concepts and mechanisms that do not quite fit into one another
-is useful to preserve the vitality of the conversation. An imperfect congruence
-between instrumental vocabularies already allows seemingly disparate
-communities, like software engineers and literary scholars, to articulate a
-common sense of purpose and to enter into shared projects. By the end of the
-book we will also explore ways by which the preserved incongruence leaves space
-for dissent and exit out of complex technological systems.
-
 ## Structure
 
-*Plain Text* is a book about textual encoding and interpretation. The reader
-should not however expect a totalizing history of modern computing or a survey
-of literary theory. Rather, the argument progresses from the action of the
-alphanumerical keyboard switch, through copper and silicon, to liquid crystal
-and the floating gate, and on towards the human. It is but a single possible
-pass through a cavernous black box. [[ what to expect ]]
+Because The reader should not however expect a totalizing
+history of modern computing or a survey of literary theory. Rather, the
+argument progresses from the action of the alphanumerical keyboard switch,
+through copper and silicon, to liquid crystal and the floating gate, and on
+towards the human. It is but a single possible pass through a cavernous black
+box. [[ what to expect ]]
 
 The challenge of reading and writing such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
