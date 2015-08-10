@@ -17,36 +17,36 @@ header-includes:
 
 ---
 
-## Digital Displacement
+[[ go through for comma patrol ]]
 
-[[ go through commma patrol ]]
+## Digital Displacement
 
 *Plain Text* enacts a reconciliation of vocabularies. It is a response to a
 particular situation of a literary scholar encountering a field of software
 engineering. For a long stretch of my professional life, these two roles
-remained separate from each other. I worked at one and I studied another. At
+remained separate from one another. I worked at one and I studied another. At
 the time, I simply did not think that code had anything to do with poetry. The
 idea for the book came to me in a moment of realization after I was asked one
-of those naive but fundamental questions of the kind that can plunge research
-into a deep and winding [[hole]]. A childhood friend who loves books asked about
-the difference between text in print and text on the screen. It was in that
-struggle to articulate difference that I realized that some of my deepest
+of those naive but fundamental questions of the kind that can set research in
+motion down a long and winding path. A childhood friend who loves books asked
+about the difference between text in print and text on the screen. It was in
+that struggle to articulate difference that I realized that some of my deepest
 assumptions about literature relied on the centuries-long stability of print
 media. And, despite my professional experience as a programmer, I could not
 readily explain the mechanisms by which keystrokes turned into pixels, pixels
-into letters, and letters into words. I could recount much technical detail on
-some level, but my knowledge also had huge gaps and did not amount to a
-coherent story. I was, despite my best efforts, surrounded by magical lanterns
-that cast shadows of code and poetry.
+into letters, and letters into words. I could recount technical detail on some
+level, but my knowledge also had huge gaps. It did not amount to a coherent
+story. I was, despite my best efforts, surrounded by magical lanterns that cast
+shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
-It was and continues to be a disconcerting process, by which things dear and
+It was and continues to be a disconcerting process by which things dear and
 familiar to me, in both worlds, grew strange and unfamiliar, revealing
 themselves to be sometimes less than and sometimes more than I comfortably
 expected. Nothing could be assumed from the start. Field specific jargon, down
-to the naive foundations, had to be unpacked and examined for hidden
-assumptions that prevented congruence. With time, I understood that code and
-poetry have everything to do with each other.
+to the naive foundations, had to be examined for hidden assumptions that
+prevented congruence. With time, I understood that code and poetry have
+everything to do with one another.
 
 Lev Manovich once described his massive image panoramas as an artifact of an
 alien life in the process of observing the human condition. My other compatriot
@@ -61,7 +61,7 @@ those being displaced unwillingly, to those exiled within and without, to those
 who understand the need for displacement, to those who transgress purposefully,
 and to those willing to trespass.
 
-## Thesis
+## An Argument for Plain Text
 
 My own trespassing converged on plain text as a primitive field of activity, at
 the crossroads of software engineering and the study of literature.
@@ -72,21 +72,20 @@ in opposition to *fancy text*: "text representation consisting of plain text
 plus added information."[^ln-uni] Yet, plain text is not without its own forms
 of mediation. All matter-bound inscription must take on some added properties
 of its preferred medium, however contingent these may be. The simplicity of
-plain text signifies systematic minimalism with the view towards human
-legibility, and not towards that of a system or a machine. In this encoded
-preference for legibility of a specific kind, plain text contains a model of
-humanity.
+plain text signifies systematic minimalism with a view towards human legibility
+and not towards that of a system or a machine. In this encoded preference for
+legibility of a specific kind, plain text contains a model of humanity.
 
 As a frame of mind, the use of plain text signals an ethics of reading and
 writing. The book unfolds a history of and an argument for plain text as a mode
 of preferred engagement---an interface---with the word. That engagement, as I
 will argue, must be made available for inspection, because "added information"
 routinely embedded in all forms of contemporary textuality can include more
-than innocuous codification of document attributes like "font size" or "line
-spacing." Increasingly, devices that mediate literary activity encode specific
-forms of governance and control.
+than the innocuous codification of document attributes like "font size" or
+"line spacing." Increasingly, devices that mediate literary activity encode
+specific forms of governance and control.
 
-The overarching concern of the book is therefore to expose the illusion of
+The overarching aim of the book is therefore to expose the illusion of
 verisimilitude between text on paper and text on the screen. The words may look
 the same, but the underlying material affordances of the medium differ in
 significant detail. As an obvious example, consider a news report that omits or
@@ -106,44 +105,45 @@ sort that Friedrich Kittler warns us about, must mean more than passive
 apprehension of footprints indicating the "evanescent absence" of
 life.[^ln-lacan] Unlike Kittler, who once wrote that "under conditions of high
 technology, literature has nothing more to say,"[@kittler_gramophone_1999, 263]
-I believe that literature is trhiving [[ in ]]. But the advent of computational
-textuality also means that the reading of texts may also involve the proactive
-deployment of tools like *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*.
-[[TOLKIEN look at all these strange tools metaphors]] These tools "hop" across,
-"sniff" packets in, "burrow" through, "survey," "traverse," and "flood" network
-topographies. Plain text channels itinerant streams of data back into the
-mangroves of human comprehension. There, code becomes intelligible for the very
-subjects whose loss Kittler laments. Only in such encrypted tunnels and secure
-shells can anything like the digital humanities take root.
+I believe that literature continues to speak. And it does so loudly. But the
+advent of digital textuality also means that the reading of texts must involve
+tools for computational hermeneutics. For now, commands like *tracert*, *xxd*,
+*pcap*, *ssh*, and *traceroute* resemble arcane incantations that elicit
+hidden, symbolic action. Those who wield them gain the metaphorical power to
+"hop" across, to "sniff" packets in, to "burrow" through, to "survey," to
+"traverse," and to "flood" network topographies. Computational hermeneutics
+empower the reader to resist rigid models of received interpretation. Yet
+today, resistance remains within the purview of a few recalcitrant readers.
+Plain text aims to channel itinerant streams of data back into the mangroves of
+human agency and comprehension for all. There, code becomes intelligible for
+the very subjects whose loss Kittler laments. Only in such encrypted tunnels
+and secure shells can anything like the digital humanities take root.
 
-[[look at this sentence]] The book is an argument makes a case for the recovery
-of textual roots latent in the machinery of contemporary computing. Software
-engineers routinely architect technologies that aim at nothing less than a
-"disruption" of culture: from the design of social media to the formation of
-massive shared archives. Because "cultural techniques" are formative of our
-society as a whole, supposedly technical decisions like choosing a text editor,
-a filing system, or a social networking platform cannot adequately[[stronger]] be addressed
-in shallow instrumental terms limited to efficacy, speed, or performance. 
-[[ stronger form ]]]
-A secondary aim of this volume is therefore to convince computer "users" to
-view their computational environments as a literary system of sorts. I mean a
-"literary system" as opposed to what one might conventionally mistake for a
-"binary" or "digital" one, however imprecise those terms are in everyday use.
-In clarifying usage, I ask those who may have considered themselves mere
-"users" to become close readers, thinkers, and makers of technology, apt to
-apply the same critical acuity to reading code and device as they do to the
-close reading of prose and poetry. [[ CONSOLIDATE INTO ONE METHOD]]
+*Plain Text* makes a case for the recovery of textual roots latent in the
+machinery of contemporary computing. Software engineers routinely architect
+technologies that aim at nothing less than a "disruption" of culture: from the
+design of social media to the formation of massive shared archives.  Because
+"cultural techniques" are formative of our society as a whole, supposedly
+technical decisions like choosing a text editor, a filing system, or a social
+networking platform should not be addressed in shallow instrumental terms
+limited to efficacy, speed, or performance. Computational hermeneutics
+encourages "users" to become active readers, thinkers, and makers of
+technology. It views "binary" and "digital" environments as literary systems,
+amenable to the construction and the deconstruction of meaning. In clarifying
+usage, I ask those who may have considered themselves mere users to apply the
+same critical acuity to reading code and device as they do to the close reading
+of prose and poetry.
 
-In the process of close reading, I hope the reader will find that not all texts
-are created equal. In print, traditional distinctions between form and content
-lie flat. The printing press firmly embeds letters into paper, leaving no space
-between ink and page. From the early days of the internet, media-minded critics
-like Jerome McGann [@mcgann_radiant_2004], Johanna Drucker
+The reader up for the challenge of computational hermeneutics will find that
+not all texts are created equal. In print, traditional distinctions between
+form and content lie flat. The printing press firmly embeds letters into paper,
+leaving no space between ink and page. From the early days of the internet,
+media-minded critics like Jerome McGann [@mcgann_radiant_2004], Johanna Drucker
 [@drucker_digital_2001], and Katherine Hayles [@hayles_print_2004] have
 compelled literary scholars to re-evaluate textuality in its media-specific
 contexts. Their work reminds us that the flatness of digital text endures only
 as an illusion. A substantial gap separates the visible text from the source
-code that produces it. Low-level, operational intuitions governing
+code that produces it.  Low-level, operational intuitions governing
 textuality---ideas about form, content, style, letter, and word---change
 profoundly as text shifts its confines from paper to pixel.  Forces of capital
 and control often exploit that gap, relying on technological obscurity and
@@ -456,4 +456,4 @@ see @goodman_james_2004.
 agency of complex systems and (b) a practice of diminishing the scope of human
 freedoms by technological means.
 
-## Works Cited
+[[remove biblio]]
