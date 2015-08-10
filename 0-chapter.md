@@ -134,9 +134,9 @@ usage, I ask those who may have considered themselves mere users to apply the
 same critical acuity to reading code and device as they do to the close reading
 of prose and poetry.
 
-The reader up for the challenge of computational hermeneutics will find that
-not all texts are created equal. In print, traditional distinctions between
-form and content lie flat. The printing press firmly embeds letters into paper,
+The reader up to the challenge of computational hermeneutics will find that not
+all texts are created equal. In print, traditional distinctions between form
+and content lie flat. The printing press firmly embeds letters into paper,
 leaving no space between ink and page. From the early days of the internet,
 media-minded critics like Jerome McGann [@mcgann_radiant_2004], Johanna Drucker
 [@drucker_digital_2001], and Katherine Hayles [@hayles_print_2004] have
@@ -149,43 +149,42 @@ profoundly as text shifts its confines from paper to pixel.  Forces of capital
 and control often exploit that gap, relying on technological obscurity and
 institutional momentum to promote their ends, for better or for worse.
 
-[[Why does it matter? This book matters because. Add some stakes.]] In *Plain
-Text*, I argue that some of the higher--level [[dangers social ills?]] of the
-contemporary public sphere---mass surveillance or online censorship, for
-example---relate to our failure as a society to come to terms with the changing
-conditions of digital textuality. A society that cares about the long-term
-preservation of complex discursive formations like free speech, privacy, or
-online deliberation, would do well to take heed of textual building blocks at
-their foundation. Plain text matters because how it is encoded, transmitted,
-and stored decides who gets to decode, receive, and access.
+In *Plain Text*, I argue that some of the higher--level political afflictions
+of the contemporary public sphere---mass surveillance and online censorship,
+for example---relate to our failure as readers and writers to come to terms
+with the changing conditions of digital textuality. A society that cares about
+the long-term preservation of complex discursive formations like free speech,
+privacy, or online deliberation, would do well to take heed of textual building
+blocks at their foundation. Plain text matters because how it is encoded,
+transmitted, and stored decides who gets to decode, receive, and access.
 
 ## Theory and Practice
 
-[[ connect to what mmatter reduce the gap ]]
-The idea of pitting thought against thing is not new, nor is it confined to
-literary scholarship or software engineering. In my approach to writing *Plain
-Text* I was influenced by three broad, but related intellectual movements.
+The linkages between pure and practical reason elude easy characterization. In
+*Plain Text* I will continually seek out that difficult terrain on which
+literary--theoretical concepts attain material form in action. The word
+processor, the electronic book, and the operating system are some of the sites
+that set the stage for the encounter between theory and practice. In pitting
+theory and practice against each other, my work builds on related species of
+materialism, pragmatism, and experimentalism. Mine is not however a post-human
+materialism of the kind that privileges an object's point view. On the
+contrary, the book aims to remove the aura of fetishism that surrounds
+literary--computational artifacts. Influenced several strains in materialist
+thought, *Plain Text* introduces a method of literary microanalysis. Where
+distant reading perceives patterns across large-scale literary copora,
+microanalysis breaks textuality down into its minute constituent components. It
+is at this scale that I find readers and writers in danger of becoming
+fundamentally alienated from the immediate material contexts of knowledge
+production.
 
 ### Materialism
-
-Finally, *Plain Text* constitutes a concerted effort to repay the debt of
-materialism. Complex systems that support the life of the mind today seem to
-lie beyond an individual's powers of control. In almost a decade of teaching
-critical computing in the humanities, I routinely encountered otherwise
-informed people who nevertheless felt hopelessly estranged from the tools of
-their everyday intellectual activity. I suspect that much of the metaphysical
-angst directed against computation in general is really a symptom of that basic
-alienation. Contemporary knowledge workers stare into small black boxes for a
-considerable part of their days, suspecting, in the absence of other feedback,
-that their gaze is met in bad faith.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
 powerful tools for analysis and resistance against technological
 determinism.[^ln-determine] But as Max Horkheimer wrote, "the issue is not
 simply the theory of emancipation; it is the practice of it as well"
-[@horkheimer_critical_1982, 233]. The echoes of experimental pragmatism
-resonate again in these words. Recently, scholars like Alan Liu and Kathleen
+[@horkheimer_critical_1982, 233]. Recently, scholars like Alan Liu and Kathleen
 Fitzpatrick have began to turn the tools of critical theory towards the
 instrumental contexts of knowledge production [@liu_laws_2004;
 @fitzpatrick_planned_2011]. I join them to argue that in treating the
@@ -206,55 +205,22 @@ economy, for profit.
 
 Distinctions of labor will remain in place as long as the conversation about
 ideas like "form" and "content" persists in the abstract. Materialist critique
-cannot achieve its stated aims without purchase on the material world. My goals
-in this book therefore go beyond the reconciliation of vocabularies. *Plain
-Text* is a call to action.
-
-### Pragmatism
-
-The connection between "meaning" and "operational meaning," of the kind
-suggested by Petroski, is first and foremost a species of pragmatism. William
-James articulates that view clearly when he writes that "reality is seen to be
-grounded in a perfect jungle of concrete expediencies"
-[@james_pragmatisms_1907]. For James and his fellow travellers truth was never
-abstract. It entailed causes and effects that operate in the
-world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
-asks: "How will the truth be realized? What concrete difference will its being
-true make in anyone's actual life? What experiences will be different from
-those which would obtain if the belief were false?" Frank Ramsey, the young
-British philosopher close to Ludwig Wittgenstein would later write in a similar
-vein about meaning as "defined by reference to the actions"
-[@ramsey_foundations_2013, 155].[^ln-pragmatism]
-
-For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
-"the author is dead" or "art is transcendent") beg the questions of "Where?,"
-"When?," "For whom?," and "What's at stake in maintaining that?" Following the
-pragmatic insight of James and Ramsey, I will proceed with the conviction that
-abstract categories like "literature," "computation," and "text" cannot
-possibly be (although they often are) reduced to a number of essential,
-structural features. Rather, to borrow from Wittgenstein's *Philosophic
-Investigations*, categories denote a set of "family" practices that may or may
-not share in any given familial characteristic
-[@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
-model, imagine a tree diagram, where the tangled branches of computation and
-textuality diverge and intersect in arbitrary ways.  These fields lie in
-relation to specific communities of practice, which often do not in themselves
-employ a controlled vocabulary. What counts for "code" and "poetry" in one
-domain, like computer science, may not account for the same in another domain,
-like creative writing. An engineer's use of the words "code" and "poetry"
-differs from that of a poet's. And yet an engineer by day can also become a
-poet by night. The changing contexts entail the corresponding shift in
-operational definitions.
-
-My aim throughout will be to find points of congruence between instrumental
-vocabularies and between communities whose members share a common purpose. The
-electronic book, the word processor, and the operating system will set the
-stage for our encounter.
+cannot achieve its stated aims without purchase on the material world. *Plain
+Text* therefore constitutes a concerted effort to repay the debt of
+materialism. Complex systems that support the life of the mind today often lie
+beyond an individual's powers of understanding or control. In almost a decade
+of teaching critical computing in the humanities, I routinely encountered
+otherwise informed people who nevertheless felt hopelessly estranged from the
+tools of their everyday intellectual activity. I suspect that much of the
+metaphysical angst directed against computation in general is really a symptom
+of that basic alienation. Contemporary knowledge workers stare into small black
+boxes for a considerable part of their days, suspecting, in the absence of
+other feedback, that their gaze is met in bad faith.
 
 ### Experimentalism
 
-Two intellectual movements tangentially related to pragmatism further influence
-my approach to writing *Plain Text*. The first is experimentalism. Writing in
+As consequence of its commitment to engaged materialism, *Plain Text* shares in
+the experimental turn affecting a range of humanistic disciplines. Writing in
 the mid-19th century against the tradition of inductive "generalizers," Claude
 Bernard, was one of the first physicians to argue for the necessity of
 experimentation in medical practice. "We cannot separate the two things," he
@@ -338,7 +304,58 @@ iron is to make literal the image suggested by media "archeology" on the level
 of the mechanism. In *Plain Text* we will dig through, unearth, and excavate
 literary machines.
 
-## Structure and Method
+### Existential Pragmatism
+
+Connecting theories of meaning making to the practices of meaning making offers
+a way out of the bad faith conundrum. Bad faith identifies a misaligned
+duplicity between thought and action, transcendence and facticity. The solution
+to connect "meaning" and "operational meaning" is first and foremost a species
+of pragmatism. William James articulates that view clearly when he writes that
+"reality is seen to be grounded in a perfect jungle of concrete expediencies"
+[@james_pragmatisms_1907]. For James and his fellow travellers truth can never
+be abstract. It also entails causes and effects that operate in the
+world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
+asks: "How will the truth be realized? What concrete difference will its being
+true make in anyone's actual life? What experiences will be different from
+those which would obtain if the belief were false?" Frank Ramsey, the young
+British philosopher close to Ludwig Wittgenstein would later write in a similar
+vein about meaning as "defined by reference to the actions"
+[@ramsey_foundations_2013, 155].[^ln-pragmatism]
+
+For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
+"the author is dead" or "art is transcendent") beg the questions of "Where?,"
+"When?," "For whom?," and "What's at stake in maintaining that?" Following the
+pragmatic insight of James and Ramsey, I will proceed with the conviction that
+abstract categories like "literature," "computation," and "text" cannot
+possibly be (although they often are) reduced to a number of essential,
+structural features. Rather, to borrow from Wittgenstein's *Philosophic
+Investigations*, categories denote a set of "family" practices that may or may
+not share in any given familial characteristic
+[@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
+model, imagine a tree diagram, where the tangled branches of computation and
+textuality diverge and intersect in arbitrary ways. These fields lie in
+relation to specific communities of practice, which often do not in themselves
+employ a controlled vocabulary. What counts for "code" and "poetry" in one
+domain, like computer science, may not account for the same in another domain,
+like creative writing. An engineer's use of the words "code" and "poetry"
+differs from that of a poet's. And yet an engineer by day can also become a
+poet by night. The changing contexts evoke the corresponding shift in
+operational definitions.
+
+The project of "existential pragmatism" entails a reconciliation of conflicting
+vocabularies that influence action. In action, we discover the true purpose of
+our rhetoric. The reconciliation acquaints humans with their passions, is the
+way Sartre would put it [@sartre_being_1993, 797]. The congruence of
+vocabularies should not however lead to a conflation of terms. A dialectical
+tension between concepts and mechanisms that do not quite fit into one another
+is useful to preserve the vitality of the conversation. An imperfect congruence
+between instrumental vocabularies already allows seemingly disparate
+communities, like software engineers and literary scholars, to articulate a
+common sense of purpose and to enter into shared projects. By the end of the
+book we will also explore ways by which the preserved incongruence leaves space
+for dissent and exit out of complex technological systems.
+
+## Structure
 
 *Plain Text* is a book about textual encoding and interpretation. The reader
 should not however expect a totalizing history of modern computing or a survey
@@ -346,13 +363,6 @@ of literary theory. Rather, the argument progresses from the action of the
 alphanumerical keyboard switch, through copper and silicon, to liquid crystal
 and the floating gate, and on towards the human. It is but a single possible
 pass through a cavernous black box. [[ what to expect ]]
-
-In following that path, my book introduces a method of literary microanalysis.
-Where distant reading perceives patterns across large-scale literary copora,
-microanalysis breaks textuality down into its minute constituent components. It
-is at this level, that I find readers and writers in danger of becoming
-fundamentally alienated from the immediate material contexts of knowledge
-production.
 
 The challenge of reading and writing such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
