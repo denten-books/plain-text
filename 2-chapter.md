@@ -24,6 +24,8 @@ Keywords: `literature, value, control, microanalysis`
 
 ## Method
 
+Text as image.
+
 I take two things from Latour.
 
 ### Everything is lit (connect to computational as lit)
