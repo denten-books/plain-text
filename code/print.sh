@@ -24,7 +24,7 @@ while getopts ":d:p:m:" opt; do
     p)
       echo "printing $target.pdf to print-plates/" >&2
       pandoc --latex-engine=xelatex --filter pandoc-citeproc --csl \
-          csl/mla-note.csl -So print-plates/"$target".pdf "$source"
+          csl/mla-no-biblio.csl -So print-plates/"$target".pdf "$source"
       ;;
     m)
       echo "printing $target.md to print-plates/" >&2
