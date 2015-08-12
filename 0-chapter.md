@@ -19,7 +19,6 @@ header-includes:
 
 [[ do a pass for agency and passive voice ]]
 [[ add times to chapters ]]
-[[ highlight computational herm ]]
 [[ hermeneutics and history and excavating a past that has been missing ]]
 
 ## Digital Displacement
@@ -44,12 +43,12 @@ that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
 It was and continues to be a disconcerting process by which things dear and
-familiar to me, in both worlds, grew strange and unfamiliar, revealing
-themselves to be sometimes less than and sometimes more than I comfortably
-expected. Nothing could be assumed from the start. Field specific jargon, down
-to the naive foundations, had to be examined for hidden assumptions that
-prevented congruence. With time, I understood that code and poetry have
-everything to do with one another.
+familiar to me, in both worlds, grew strange and unfamiliar, showing themselves
+to be sometimes less than and sometimes more than I comfortably expected.
+Nothing could be assumed from the start. Field specific jargon, down to the
+naive foundations, had to be examined for hidden assumptions that prevented
+congruence. With time, I understood that code and poetry have everything to do
+with one another.
 
 Lev Manovich once described his massive image panoramas as an artifact of an
 alien life in the process of observing the human condition. My other compatriot
@@ -93,13 +92,13 @@ Matthew Kirschenbaum, and Lisa Gitelman, I contend that textual legibility is
 becoming increasingly crucial to a critical understanding of what it means to
 remain human in a digital world.
 
-The overarching aim of the book is theorefore to expose the illusion of
+The overarching aim of the book is therefore to expose the illusion of
 verisimilitude between text on paper and text on the screen. The words may look
 the same, but the underlying material affordances of the medium differ in
 significant detail. As an example, consider a news report that alters important
 details based on the reader's location. Imagine an e-book reader device that
 highlights popular passages of a novel in real time, shortening the less
-popular passages down to their alorithmically distilled summaries. For a
+popular passages down to their algorithmically distilled summaries. For a
 literary analyst, the instability of medium means analysis cannot be confined
 to reading for surface meaning alone. How will close reading persist when the
 reading device reconfigures the text to fit individual tastes, mood, or
@@ -111,24 +110,25 @@ Friedrich Kittler warns us about, must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
 Kittler, who once wrote that "under conditions of high technology, literature
 has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
-literature continues to speak volumes. Technology does not silence, it
-transforms the nature of literary phenomena. The instruments of literary
-analysis must consequently evolve to deal with new technological
-contingencies. Where text is encrypted, we can learn to decrypt. Where it is 
+literature continues to speak volumes. Technology does not silence---it
+transforms the nature of the literary phenomena. The instruments of literary
+analysis should consequently evolve to deal with new technological
+contingencies. Where texts are encrypted, we decrypt. If "automated discourse
+analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
+engineer analytical automatons that command on our behalf.
 
-The advent of digital textuality
-means that the reading of texts must involve tools for computational
-hermeneutics. For now, commands like *xxd*, *pcap*, *ssh*, and *traceroute*
-resemble arcane incantations that elicit hidden, symbolic action. Those who
-wield them gain the metaphorical power to "hop" across, to "sniff" packets, to
-"survey," to "traverse," and to "flood" network topographies. Computational
-hermeneutics empower the reader to resist hard-wired models of machine-bound
-interpretation.  Yet today, resistance remains within the purview of the few.
-Plain text aims to channel itinerant streams of data back into the mangroves of
-human agency and comprehension for all. There, code becomes intelligible for
-the very subjects whose loss Kittler laments. Only in such encrypted tunnels
-and secure shells can anything like the digital humanities take root.  very
-possibility of empowered human--computer interaction
+The advent of computational textuality necessitates a computational
+hermeneutics, which enables unfettered access to code, system, and network. For
+now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
+incantations that elicit hidden, symbolic action. Those who wield them gain the
+metaphorical power to "hop" across, to "sniff" packets, to "survey," to
+"traverse," and to "flood" network topographies. Computational hermeneutics
+empower the reader to resist hard-wired models of machine-bound interpretation.
+Yet today, resistance remains within the purview of the few. Plain text aims to
+channel itinerant streams of data back into the mangroves of human agency and
+comprehension for all. There, code becomes intelligible for the very subjects
+whose loss Kittler laments. Only in such encrypted tunnels and secure shells
+can anything like the digital humanities take root.
 
 *Plain Text* makes a historical case for the recovery of textual roots latent
 in the machinery of contemporary computing. Software engineers routinely
@@ -143,23 +143,22 @@ technology. It treats "binary" and "digital" environments as literary systems,
 amenable to the construction and the deconstruction of meaning. In clarifying
 usage, I ask those who may have considered themselves mere "users" to apply the
 same critical acuity to the understanding of code and device as they do to the
-close reading of prose and poetry. [[add history time]]
+close reading of prose and poetry.
 
-The reader that can rise to the challenge of computational hermeneutics will
-find that not all texts are created equal. In print, traditional distinctions
-between form and content lie flat. The printing press firmly embeds letters
-into paper, leaving no space between ink and page.  From the early days of the
-internet, media-minded critics like Jerome McGann [@mcgann_radiant_2004],
-Johanna Drucker [@drucker_digital_2001], and Katherine Hayles
-[@hayles_print_2004] have compelled literary scholars to re-evaluate textuality
-in its media-specific context. Their work reminds us that the flatness of
-digital text endures only as an illusion. A substantial gap separates the
-visible text from the source code that produces it. Low-level, operational
-intuitions governing textuality---ideas about form, content, style, letter, and
-word---change profoundly as text shifts its confines from paper to pixel.
-Forces of capital and control often exploit that gap, relying on technological
-obscurity and institutional momentum to promote their ends, for better or for
-worse.
+Computational hermeneutics show that not all texts are created equal. In print,
+traditional distinctions between form and content lie flat. The printing press
+firmly embeds letters into paper, leaving no space between ink and page.  From
+the early days of the internet, media-minded critics like Jerome McGann
+[@mcgann_radiant_2004], Johanna Drucker [@drucker_digital_2001], and Katherine
+Hayles [@hayles_print_2004] have compelled literary scholars to re-evaluate
+textuality in its media-specific context. Their work reminds us that the
+flatness of digital text endures only as an illusion. A substantial gap
+separates the visible text from the source code that produces it.  Low-level,
+operational intuitions governing textuality---ideas about form, content, style,
+letter, and word---change profoundly as text shifts its confines from paper to
+pixel. Forces of capital and control often exploit that gap, relying on
+technological obscurity and institutional momentum to promote their ends, for
+better or for worse.
 
 In *Plain Text*, I argue that some of the higher--level political afflictions
 of the contemporary public sphere---mass surveillance and online censorship,
@@ -171,8 +170,18 @@ building blocks at their foundation.
 
 ## Theory and Practice
 
-[[ I came to this approach. A couple of sentences about. Not a history of
-material thought. Tag digital labor.]]
+My approach to writing *Plain Text* stems from the desire to enact theory
+capable of addressing the grim picture Kittler paints at the end of his
+influential monograph.[^ln-kittler2] It would be easy to dismiss him as a
+technological romantic or a Luddite. He was neither. Instead I read the
+concluding chapters of *Gramophone, Film, Typewriter* as a call to action. When
+he writes that "media determine our situation,"[@kittler_gramophone_1999,
+xxxix] Kittler taunts his reader to choose between complicity or defiance. My
+answers to Kittler's challenge took shape as a species of pragmatic,
+experimental materialism. In what follows I explain some of the reasoning
+behind my choices, particularly as they relate to concomitant developments in
+materialist and experimental thought. Somewhat at odds with the stated aims of
+"new materialism," my attention to the materiality of literature tar. 
 
 ### Pragmatic Materialism
 
@@ -424,10 +433,10 @@ with a metaphor, each of my chapters also contains at least one literary
 "thought thing" and each enacts a deconstruction---a literal taking apart---of
 that device. In the first chapter, I disassemble a copy machine. It helps
 illustrate the problem of digital copies. Subsequently, I reverse engineer an
-LCD screen. The screen reveals the conflicting properties of digital media as
-something simultaneously continuous and discrete. In another chapter, I examine
-the innards of an electronic book reader to illustrate a discussion about depth
-and surface reading. In the later chapters, I analyze book and file storage
+LCD screen, exposing the conflicting properties of digital media as something
+simultaneously continuous and discrete. In another chapter, I examine the
+innards of an electronic book reader to illustrate a discussion about depth and
+surface reading. In the later chapters, I analyze book and file storage
 systems, considered as "furnishings of the mind" that tell us something about
 the way we externalize our thoughts. The book concludes with the concept of the
 human as seen through the lens of the Unix operating system.
@@ -446,7 +455,7 @@ embedded into storage media and text as it is seen on the screen. In the
 process, the chapters draw from the discussion between philosophers Gerard
 Genette and Nelson Goodman on the nature of textual copies. The copy machine
 which "sees" pages as monolithic images anchors the conversation in practice.
-The machine deconstruction reveals a crisis of authenticity, related to the
+The machine deconstruction unveils the crisis of authenticity related to the
 plummeting costs of digital reproduction. The supposedly "dead" authors
 continue to draw checks from singularly copyrighted work. Legal fictions are
 created to veil the emerging affordances of textual technology.
@@ -475,7 +484,7 @@ physically distinct strata. Along with the traditional distinctions of form and
 content we now find a control layer, which dynamically alters the mechanics of
 the literary encounter. The device alters itself to suit the reader. The
 history of the Document Object Model (DOM) dispels the illusion of flattened
-textuality, revealing the mechanisms of control embedded into all documents.
+textuality, exposing the mechanisms of control embedded into all documents.
 
 The fourth chapter reaches beyond the device to the human. I begin with a close
 reading of Beckett's *Krapp's Last Tape*. The title character makes yearly
@@ -536,6 +545,15 @@ things, but that they enact change in the world.
 see @goodman_james_2004.
 
 [^ln-sweatshop]: See @freeman_high_2000.
+
+[^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
+professors are still reluctantly trading in their typewriters for word
+processors, the NSA is preparing for the future: from nursery school
+mathematics, which continues to be fully sufficient for books, to
+charge-coupled devices, surface-wave filters, digital signal processors
+including the four basic forms of computation. Trenches, flashes of lightning,
+stars---storage, transmission, *the laying of cables*
+[@kittler_gramophone_1999, 263].
 
 [^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
 agency of complex systems and (b) a practice of diminishing the scope of human
