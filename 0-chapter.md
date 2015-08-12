@@ -81,56 +81,54 @@ plain text signifies systematic minimalism with a view towards human legibility
 and not towards that of a system or a machine.
 
 As a frame of mind, the use of plain text signals an ethics of reading and
-writing. Added information routinely embedded in all forms of contemporary
-textuality can include more than innocuous document attributes like "font size"
-or "line spacing." Increasingly, devices that mediate literary activity encode
-forms of governance and control, like the enforcement of censorship and
+writing with machines. Added information routinely embedded in all forms of
+contemporary textuality can include more than innocuous document attributes
+like "font size" or "line spacing." Increasingly, devices that mediate literary
+activity encode forms of governance, like the enforcement of censorship and
 intellectual property rights restrictions. The use of plain text therefore
-entails the making visible of implicit control structures. It implies that
-computational control is available for *computational hermeneutics*.
+entails the making visible of implicit governance structures. It implies that
+computational control is available for *computational hermeneutics*. Building
+on the recent work of scholars like Wendy Hui Kyong Chun, Alexander Galloway,
+Matthew Kirschenbaum, and Lisa Gitelman, I contend that textual legibility is
+becoming increasingly crucial to a critical understanding of what it means to
+remain human in a digital world.
 
-This book unfolds a history of and an argument for plain text. 
-
-of reading.  as a mode of preferred engagement---an interface---with the word.
-That interface, as I will argue, must be made visible. 
-
-
-[[Plain text matters because how it is encoded, transmitted, and stored decides
-who gets to decode, to receive, and to access.]]
-
-The overarching aim of the book is therefore to expose the illusion of
+The overarching aim of the book is theorefore to expose the illusion of
 verisimilitude between text on paper and text on the screen. The words may look
 the same, but the underlying material affordances of the medium differ in
-significant detail. As an obvious example, consider a news report that omits or
-adds important details based on the reader's location, or an e-book reader
-device that highlights popular passages. For a literary analyst, the
-instability of medium means analysis cannot be confined to reading for meaning
-alone. How will close reading persist when the reading device reconfigures a
-text dynamically to fit individual tastes, mood, or politics? The formulation
-of this narrowly literary--theoretical concern leads to the broader question of
-empowered human--computer interaction. Building on the recent work of scholars
-like Wendy Hui Kyong Chun, Alexander Galloway, Matthew Kirschenbaum, and Lisa
-Gitelman, I contend that textual legibility is becoming increasingly crucial to
-a critical understanding of what it means to remain human in a digital world.
+significant detail. As an example, consider a news report that alters important
+details based on the reader's location. Imagine an e-book reader device that
+highlights popular passages of a novel in real time, shortening the less
+popular passages down to their alorithmically distilled summaries. For a
+literary analyst, the instability of medium means analysis cannot be confined
+to reading for surface meaning alone. How will close reading persist when the
+reading device reconfigures the text to fit individual tastes, mood, or
+politics? How would we even agree on the fact that we are reading the same
+text? The very possibility of interpretation comes into question.
 
-[[[ flag that computation hermeneutics are mine ]] To trace the hidden flows of
-textual governance and control, of the sort that Friedrich Kittler warns us
-about, must mean more than passive apprehension of footprints indicating the
-"evanescent absence" of life.[^ln-lacan] Unlike Kittler, who once wrote that
-"under conditions of high technology, literature has nothing more to
-say,"[@kittler_gramophone_1999, 263] I believe that literature continues to
-speak volumes. [[unpack simple sentence]] But the advent of digital textuality
-also means that the reading of texts must involve tools for computational
+To trace the hidden flows of textual governance and control, of the sort that
+Friedrich Kittler warns us about, must mean more than passive apprehension of
+footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
+Kittler, who once wrote that "under conditions of high technology, literature
+has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
+literature continues to speak volumes. Technology does not silence, it
+transforms the nature of literary phenomena. The instruments of literary
+analysis must consequently evolve to deal with new technological
+contingencies. Where text is encrypted, we can learn to decrypt. Where it is 
+
+The advent of digital textuality
+means that the reading of texts must involve tools for computational
 hermeneutics. For now, commands like *xxd*, *pcap*, *ssh*, and *traceroute*
 resemble arcane incantations that elicit hidden, symbolic action. Those who
 wield them gain the metaphorical power to "hop" across, to "sniff" packets, to
 "survey," to "traverse," and to "flood" network topographies. Computational
 hermeneutics empower the reader to resist hard-wired models of machine-bound
-interpretation. Yet today, resistance remains within the purview of the few.
+interpretation.  Yet today, resistance remains within the purview of the few.
 Plain text aims to channel itinerant streams of data back into the mangroves of
 human agency and comprehension for all. There, code becomes intelligible for
 the very subjects whose loss Kittler laments. Only in such encrypted tunnels
-and secure shells can anything like the digital humanities take root.
+and secure shells can anything like the digital humanities take root.  very
+possibility of empowered human--computer interaction
 
 *Plain Text* makes a historical case for the recovery of textual roots latent
 in the machinery of contemporary computing. Software engineers routinely
