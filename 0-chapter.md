@@ -134,7 +134,7 @@ Because "cultural techniques" are formative of our society as a whole,
 supposedly technical decisions like choosing a text editor, a filing system, or
 a social networking platform cannot be addressed in shallow instrumental terms
 limited to efficacy, speed, or performance. Computational hermeneutics
-encourage "users" to become active readers, thinkers, tinkerers, and makers of
+encourages "users" to become active readers, thinkers, tinkerers, and makers of
 technology. It treats "binary" and "digital" environments as literary systems,
 amenable to the construction and the deconstruction of meaning. In clarifying
 usage, I ask those who may have considered themselves mere "users" to apply the
@@ -180,16 +180,16 @@ can be done to counteract media determinism? In what follows, I outline the
 intellectual lineages that frame my answer. The search for a hermeneutics
 capable of addressing Kittler's challenge took shape as a species of
 materialism that is both pragmatic and experimental. On the way, I found fellow
-travellers who advocate for a synthesis between theory and practice.
+travellers who advocate for a more perfect union between theory and practice.
 
 ### Pragmatic Materialism
 
 The shifting affordances of digital text challenge some of our deep-seated
-intuitions about literary theory. The word processor, the electronic book, and
-the operating system are some of the sites that stage the encounter between
-theory and practice. Influenced by several strains in materialist thought,
-*Plain Text* introduces a method of literary microanalysis. Where distant
-reading perceives patterns across large-scale literary copora, microanalysis
+intuitions about literature. The word processor, the electronic book, and the
+operating system are some of the sites that stage the encounter between
+literary theory and practice. Influenced by several strains in materialist
+thought, *Plain Text* introduces a method of textual microanalysis. Where
+distant reading perceives patterns across large-scale copora, microanalysis
 breaks textuality down into its minute constituent components. It is at this
 scale that I find readers and writers in danger of becoming fundamentally
 alienated from the immediate material contexts of knowledge production. Mine is
@@ -298,7 +298,7 @@ potential without a thick description of its base particulates.
 
 Luckily for us, reading and writing are not esoteric activities. They are
 readily available to phenomenological introspection. I will therefore
-occasionally encourage readers to encounter the immediate context of their
+occasionally encourage readers to encounter the immediate contexts of their
 reading anew: to put down the book or to lean away from the screen and to look
 at these textual artifacts with strange eyes. In this movement of the body, I
 want to disrupt the mind's habituated intuitions, pitting them against
@@ -348,10 +348,10 @@ way, contemporary documents enforce limits to access by license, geography, or
 physical ability.
 
 To what extent does the book in front of you "permit" or "enable" access?
-Whatever the answer, a function of interpreting the text must include the
+Whatever the answer, a function of understanding the text must include the
 explication of its physical affordances. Experimentalism enables the critic to
 "lay bare" the device. A literary scholar's version of baking bread and
-smelting iron is to make literal the image suggested by media "archeology" on
+smelting iron is to make literal the figure suggested by media "archeology" on
 the level of the mechanism. In *Plain Text* we will dig through, unearth, and
 excavate textual machines.
 
@@ -406,24 +406,26 @@ defamiliarization, or making strange. The second reciprocal movement emulates
 the practice of reverse engineering. Unlike defamiliarization, the reverse
 engineering of devices aims to bring the obscure to light. My methodology thus
 lies in the dual complimentary movement between making known and making
-strange. A metaphor and a machine help organize the book and each of its
+strange. The metaphor and the machine help organize the book and each of its
 chapters.
 
 The language of computation employs many vivid metaphors, which lose their
-evocative power with frequent use. The task of the literary scholar becomes
-then to renew the metaphor, in a process that involves close reading in search
-for parallelisms that, as George Lakoff and Mark Johnson explain, configure one
+evocative power with frequent use. The task of a literary scholar becomes then
+to renew the metaphor, in a process that involves close reading in search for
+parallelisms that, as George Lakoff and Mark Johnson explain, configure one
 conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do we
-call some software systems "applications" for example? The application of what
-to what? Screen textuality manifests itself through a **D**isplay medium (LCD)
-that is at once continuous (**L**iquid) and discrete (**C**rystal). How do
-these physical properties affect our conceptual understanding of the digital
-text? The very notion of the "literary device" further points to a number of
-mechanisms for textual diffusion. Texts move through devices like typewriters
-and e-book readers and "devices" like consonance and alliteration.
-Application, crystal, device: these familiar metaphors obscure the complexity
-of the conceptual systems involved. Defamiliarization reclaims the metaphor for
-analysis. Each chapter of the book unfolds around a metaphor.
+call some software programs "applications" for example? The application of what
+to what? The ubiquitous LCD screen, which usually renders our texts, disguises
+another metaphor, composed of Liquid and Crystal Displays. How do its physical
+properties, at once continuous (liquid) and discrete (crystalline) affect our
+conceptual understanding of the digital text? The very notion of the "literary
+device" further points to a number of mechanisms for textual diffusion. Texts
+move through devices like typewriters and e-book readers and "devices" like
+consonance and alliteration. Application, crystal, device: these ordinary
+metaphors obscure the complexity of the conceptual systems involved.
+Defamiliarization reclaims the metaphor for analysis. A metaphor unfolds within
+each of the book's chapters. Each chapter pursues the metaphor to its logical
+conclusion.
 
 The reciprocal motion to defamiliarization passes through a series of case
 studies. The function of a case study in an engineer's education, as Henry
@@ -435,91 +437,87 @@ apart---of that device. In the first chapter, I disassemble a copy machine. It
 helps illustrate the problem of digital copies. Subsequently, I reverse
 engineer an LCD screen, exposing the conflicting properties of digital media as
 something simultaneously continuous and discrete. In another chapter, I examine
-the innards of an electronic book reader to illustrate a discussion about depth
-and surface reading. In the later chapters, I analyze book and file storage
-systems, considered as "furnishings of the mind" that tell us something about
-the way we externalize our thoughts. The book concludes with the concept of the
-human as seen through the lens of the Unix operating system.
+the innards of an electronic book reader to illustrate the discussion about
+depth and surface reading. In the later chapters, I analyze book and file
+storage systems, considered as "furnishings of the mind" that tell us something
+about the way we externalize our thoughts. The book concludes with the concept
+of the human as encoded in the philosophy of the Unix operating system.
 
 ## From Keystroke to Pixel: Plan of the Present Work
 
-The passage from keystroke to pixel loosely structures the progression of the
-book.
-
-I begin with a few simple questions that lay the grounds for digital
-textuality: What exactly is a text? Where is it? How will we find it? My
-answers commence by developing a theory of "microanalysis," the closest
-possible kind of reading that pays attention to the material contexts of
-knowledge production. Microanalysis opens the gap between text as it is
-embedded into storage media and text as it is seen on the screen. In the
-process, the chapters draw from the discussion between philosophers Gerard
-Genette and Nelson Goodman on the nature of textual copies. The copy machine
-which "sees" pages as monolithic images anchors the conversation in practice.
-The machine deconstruction unveils the crisis of authenticity related to the
-plummeting costs of digital reproduction. The supposedly "dead" authors
-continue to draw checks from singularly copyrighted work. Legal fictions are
-created to veil the emerging affordances of textual technology.
+The passage from keystroke to pixel runs a thread through the book. I begin
+with a few simple questions that lay the grounds for digital textuality: What
+exactly is a text? Where is it?  How will we find it?  My answers commence by
+developing a theory of "microanalysis," the closest possible kind of reading
+that pays attention to the material contexts of knowledge production.
+Microanalysis opens the gap between text as it is embedded into storage media
+and text as it is seen on the screen. Drawing from the discussion between
+philosophers Gerard Genette and Nelson Goodman on the nature of textual copies,
+I take up "reading" from the perspective of a copy machine, which "sees" pages
+as monolithic images. The machine deconstruction unveils the crisis of
+authenticity related to the plummeting costs of digital reproduction. The
+supposedly "dead" authors continue to draw checks from copyrighted work. Legal
+fictions rise to veil the emerging affordances of textual technology.
 
 In the second chapter, I challenge conventional notions of digital media,
-discovering properties at once "discrete" and "continuous." Both are seen to
+discovering properties at once "discrete" and "continuous." Both conventionally
 threaten human capacity for comprehension. Which one is it, before or beyond
-the human? A discussion of Liquid Crystal Displays (LCDs) flows into a section
-that deals with digital representation from the perspective of analytic
-philosophy. My summary of that tradition shows that language and text are
-already in some sense "born digital," that is "reproducible" and
-"differentiated" throughout. Furthermore, digitality depends on "reliable
-processes of copying and preservation"---attributes that can mean something
-different to a philosopher than to a librarian. From these insights I take it
-that "being digital" is not an intrinsic ontological property, but rather
-structure imposed from without. A thing is not digital in itself---one makes
-use of something in a digital way. Materials from the history of telegraphy in
-the late ninetieth and early twentieth centuries help narrate the story of
-character encoding---a key hidden component of digital textuality.
+the human? A treatment of Liquid Crystal Displays (LCDs) illustrates that all
+text is already in some sense "born digital," that is, by formal definitions,
+"reproducible" and "differentiated" throughout. Furthermore, digitality depends
+on "reliable processes of copying and preservation"---attributes that can mean
+something different to a philosopher than to a librarian. From these insights I
+take it that "being digital" is not an intrinsic ontological property, but
+rather structure imposed from without. A thing is not digital in itself---one
+makes use of something in a digital way. Materials from the history of
+telegraphy in the late ninetieth and early twentieth centuries help narrate the
+story of character encoding---a key hidden component of digital textuality.
 
 I begin the book's third chapter by outlining a recent discussion on surface
-reading. I ask: What lies beneath the text, literally? Case studies form the
+reading. I ask: What lies beneath the text, literally? Case studies from the
 early history of removable storage media, ticker tape and floppy disk,
 elucidate the movement of text from human-legible inscription on the page and
 punch card to magnetic inscription invisible to the naked human eye. In print,
 form and content lie flat. On the screen, the two layers occupy physically
-distinct strata. The rise of the ubiquitous Document Object Model (DOM) in the
+distinct strata. The rise of the pervasive Document Object Model (DOM) in the
 twentieth century introduces a third layer which, in addition to form and
-content, encodes device control. The material history of DOM dispels the
-illusion of flattened textuality. The control layer dynamically structures the
-mechanics of the literary encounter. Text now carries both a message and a set
-instructions to alter the device. Consequently, I argue that the interpretation
-of texts must include the exposition of the control layer.
+content, encodes device control. The material history of the DOM dispels the
+illusion of flattened textuality. The control layer dynamically changes the
+mechanics of the literary encounter. Texts now carry both a message and a set
+instructions that alter the textual device. Consequently, I argue that literary
+interpretation must include the exposition of the control layer.
 
 The fourth chapter reaches beyond the device to the human. I begin with a close
 reading of Beckett's *Krapp's Last Tape*. The title character makes yearly
 audio recordings of himself, only to revisit them and to enter into a sort of
-dialog with his own voice from the past. I posit this encounter with the
-archive as Krapp's "media being" and suggest that such encounters are
-commonplace through similar practices of depositing "snapshots" of one's
-consciousness into files, bookshelves, and folders. Sartre's idea of an
-"appointment with oneself" helps us see this external structure of files,
-folders, and library furnishings as cognitive extension, in need of delicate
-pruning and arrangement. Documents, in this light, are shown to exist not as
-completed works, but as "vectors" that mutate and move through time and space.
-I ask: What is being externalized, communicated, and preserved? And answer: It
-is not simply a message, but the subject itself.
+dialog with his own voice from the past. I posit this archival encounter as
+Krapp's "media being" and suggest that such encounters are commonplace. Writers
+and book collectors regularly deposit "snapshots" of their consciousness into
+files, bookshelves, and folders. Jean-Paul Sartre's idea of an "appointment
+with oneself" helps us see this external construction of files, folders, and
+library furnishings as cognitive extension, in need of delicate pruning and
+arrangement. In this light, I show that documents exist not as completed works,
+but as "vectors" that mutate and move through time and space. Finally, I ask:
+What is being externalized, communicated, and preserved? And answer: It is not
+simply a message, but the subject itself.
 
-In the final chapter I tackle the apparent immateriality of digital text.
-Ephemeral media brings promise of epistemological (social) and even
+In the last chapter of the book I tackle the apparent immateriality of digital
+text. Ephemeral media brings promise of epistemological (social) and even
 phenomenological (personal) transformation. But it also has a major practical
 drawback. Inscription on magnetic tape cannot be assumed to correspond to the
 composite screen image. Forms of governance like Digital Rights Management
-(DRM) are embedded deep within the "data object" itself and further hidden from
+(DRM) are embedded deep within the "data object" itself. A type of
+steganography, or secret writing, hides the control layer from
 view---precluding, and sometimes making illegal outright, the possibility of
-interpretation. I conclude with a stark image that illustrates the contrast
+interpretation. The chapter ends with a stark image illustrating the contrast
 between screen surface and the underlying bit structure. To produce the image,
-I use reverse-engineering tools to inject malicious code into an Adobe Acrobat
-file (`.pdf`). The deformed text threatens to damage the literary device. A
-thick description of the literary device---the book---now as gadget and
-instrument, brings legibility to the fore of reading ethics. The design and
-usage of literary devices must itself become critical practice which, in
-complement to critical theory, can actively engineer for textual mechanisms
-that make individual dissent possible.
+I inject malicious code into an Adobe Acrobat file (`.pdf`). The deformed text
+threatens to damage the literary device. A thick description of the book, now
+as weapon and instrument, brings legibility to the fore of reading ethics. The
+design and usage of literary devices must itself become critical practice which
+can, in complement to critical theory, actively engineer for human agency. A
+discussion of technological dissent through the new humanisms of Hannah Arendt
+and Franz Fanon concludes the volume.
 
 [^ln-hegel]: I discuss the topic at length in Chapter 3.
 
