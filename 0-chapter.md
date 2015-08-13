@@ -17,10 +17,6 @@ header-includes:
 
 ---
 
-[[ do a pass for agency and passive voice ]]
-[[ add times to chapters ]]
-[[ hermeneutics and history and excavating a past that has been missing ]]
-
 ## Digital Displacement
 
 *Plain Text* enacts a reconciliation of vocabularies. It is a response to a
@@ -66,9 +62,9 @@ and to those willing to trespass.
 ## An Argument for Plain Text
 
 My own trespassing converged on plain text as a primitive field of activity, at
-the crossroads of software engineering and the study of literature. I found
-plain text to matter because how it is encoded, transmitted, and stored decides
-who gets to decode, to receive, and to access.
+the crossroads of software engineering and the study of literature. There, I
+found plain text to matter because how it is encoded, transmitted, and stored
+decides who gets to decode, to receive, and to access.
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -80,17 +76,17 @@ plain text signifies systematic minimalism with a view towards human legibility
 and not towards that of a system or a machine.
 
 As a frame of mind, the use of plain text signals an ethics of reading and
-writing with machines. Added information routinely embedded in all forms of
-contemporary textuality can include more than innocuous document attributes
-like "font size" or "line spacing." Increasingly, devices that mediate literary
-activity encode forms of governance, like the enforcement of censorship and
-intellectual property rights restrictions. The use of plain text therefore
-entails the making visible of implicit governance structures. It implies that
-computational control is available for *computational hermeneutics*. Building
-on the recent work of scholars like Wendy Hui Kyong Chun, Alexander Galloway,
-Matthew Kirschenbaum, and Lisa Gitelman, I contend that textual legibility is
-becoming increasingly crucial to a critical understanding of what it means to
-remain human in a digital world.
+writing. Added information routinely embedded in all forms of contemporary
+textuality can include more than innocuous document attributes like "font size"
+or "line spacing." Increasingly, devices that mediate literary activity encode
+forms of governance, like the enforcement of intellectual property rights and
+censorship. The use of plain text therefore entails the making visible of
+implicit governing structures. It implies also that computational control is
+available for *computational hermeneutics*. Building on the recent work of
+scholars like Wendy Hui Kyong Chun, Alexander Galloway, Matthew Kirschenbaum,
+and Lisa Gitelman, I contend that textual legibility is becoming increasingly
+crucial to a critical understanding of what it means to remain human in a
+digital world. 
 
 The overarching aim of the book is therefore to expose the illusion of
 verisimilitude between text on paper and text on the screen. The words may look
@@ -111,33 +107,33 @@ footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
 Kittler, who once wrote that "under conditions of high technology, literature
 has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
 literature continues to speak volumes. Technology does not silence---it
-transforms the nature of the literary phenomena. The instruments of literary
+transforms the nature of literary phenomena. The instruments of literary
 analysis should consequently evolve to deal with new technological
 contingencies. Where texts are encrypted, we decrypt. If "automated discourse
 analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
 engineer analytical automatons that command on our behalf.
 
 The advent of computational textuality necessitates a computational
-hermeneutics, which enables unfettered access to code, system, and network. For
+hermeneutics, which enables unfettered access to code, system, and device. For
 now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
 incantations that elicit hidden, symbolic action. Those who wield them gain the
 metaphorical power to "hop" across, to "sniff" packets, to "survey," to
 "traverse," and to "flood" network topographies. Computational hermeneutics
 empower the reader to resist hard-wired models of machine-bound interpretation.
-Yet today, resistance remains within the purview of the few. Plain text aims to
-channel itinerant streams of data back into the mangroves of human agency and
+Yet today, resistance remains within the purview of the few. Plain text
+channels itinerant streams of data back into the mangroves of human agency and
 comprehension for all. There, code becomes intelligible for the very subjects
 whose loss Kittler laments. Only in such encrypted tunnels and secure shells
 can anything like the digital humanities take root.
 
-*Plain Text* makes a historical case for the recovery of textual roots latent
+*Plain Text* makes a historical case for the recovery of textual thought latent
 in the machinery of contemporary computing. Software engineers routinely
 architect technologies that aim at nothing less than a "disruption" of culture:
 from the design of social media to the formation of massive shared archives.
 Because "cultural techniques" are formative of our society as a whole,
 supposedly technical decisions like choosing a text editor, a filing system, or
-a social networking platform should not be addressed in shallow instrumental
-terms limited to efficacy, speed, or performance. Computational hermeneutics
+a social networking platform cannot be addressed in shallow instrumental terms
+limited to efficacy, speed, or performance. Computational hermeneutics
 encourage "users" to become active readers, thinkers, tinkerers, and makers of
 technology. It treats "binary" and "digital" environments as literary systems,
 amenable to the construction and the deconstruction of meaning. In clarifying
@@ -152,13 +148,12 @@ the early days of the internet, media-minded critics like Jerome McGann
 [@mcgann_radiant_2004], Johanna Drucker [@drucker_digital_2001], and Katherine
 Hayles [@hayles_print_2004] have compelled literary scholars to re-evaluate
 textuality in its media-specific context. Their work reminds us that the
-flatness of digital text endures only as an illusion. A substantial gap
-separates the visible text from the source code that produces it.  Low-level,
-operational intuitions governing textuality---ideas about form, content, style,
-letter, and word---change profoundly as text shifts its confines from paper to
-pixel. Forces of capital and control often exploit that gap, relying on
-technological obscurity and institutional momentum to promote their ends, for
-better or for worse.
+flatness of *digital* text endures only as an illusion. Low-level, operational
+intuitions governing textuality---ideas about form, content, style, letter, and
+word---change profoundly as text shifts its confines from paper to pixel. A
+substantial gap separates the visible text from the source code that produces
+it. Forces of capital and political control exploit that gap, obscuring the
+workings of the device to achieve their ends.
 
 In *Plain Text*, I argue that some of the higher--level political afflictions
 of the contemporary public sphere---mass surveillance and online censorship,
@@ -166,22 +161,26 @@ for example---relate to our failure as readers and writers to come to terms
 with the changing conditions of digital textuality. A society that cares about
 the long-term preservation of complex discursive formations like free speech,
 privacy, or online deliberation, would do well to take heed of the textual
-building blocks at their foundation.
+building blocks at their foundation. The structure of discursive
+formations---documents and narratives---has long been at the center of both
+computer science and literary theory. Using primary sources from both
+disciplines, *Plain Text* ultimately uncovers the shared history of literary
+machines, bringing computation closer to its humanistic roots.
 
 ## Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Kittler paints at the end of his
-influential monograph.[^ln-kittler2] It would be easy to dismiss him as a
+influential monograph.[^ln-kittler2] It would be easy to dismiss Kittler as a
 technological romantic or a Luddite. He was neither. Instead I read the
 concluding chapters of *Gramophone, Film, Typewriter* as a call to action. When
-he writes that "media determine our situation,"[@kittler_gramophone_1999,
-xxxix] Kittler taunts his reader to choose between complicity or defiance. My
-answers to Kittler's challenge took shape as a species of pragmatic,
-experimental materialism. In what follows I explain some of the reasoning
-behind my choices, particularly as they relate to concomitant developments in
-materialist and experimental thought. Somewhat at odds with the stated aims of
-"new materialism," my attention to the materiality of literature tar. 
+Kittler writes that "media determine our situation,"[@kittler_gramophone_1999,
+xxxix] he challenges his reader to choose between complicity or defiance. What
+can be done to counteract media determinism? In what follows, I outline the
+intellectual lineages that frame my answer. The search for a hermeneutics
+capable of addressing Kittler's challenge took shape as a species of
+materialism that is both pragmatic and experimental. On the way, I found fellow
+travellers who advocate for a synthesis between theory and practice.
 
 ### Pragmatic Materialism
 
@@ -197,7 +196,7 @@ alienated from the immediate material contexts of knowledge production. Mine is
 not however a post-human materialism of the kind that privileges an object's
 point view. On the contrary, the book aims to remove the aura of fetishism that
 attaches itself to literary--computational artifacts and to complex systems
-that structure the textual encounter.
+that mediate the textual encounter.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
@@ -244,8 +243,8 @@ duplicity between thought and action. The solution to connect "meaning" with
 "operational meaning" is ultimately a species of pragmatism.  William James
 articulated that view concisely when he wrote that "reality is seen to be
 grounded in a perfect jungle of concrete expediencies"
-[@james_pragmatisms_1907]. For James and his fellow travellers truth could
-never be abstract. It also entailed causes and effects that operate in the
+[@james_pragmatisms_1907]. For James and other pragmatists, truth could not
+exist in the abstract. It entailed causes and effects that operate in the
 world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
 asked: "How will the truth be realized? What concrete difference will its being
 true make in anyone's actual life? What experiences will be different from
@@ -265,16 +264,16 @@ Investigations*, categories denote a set of "family" practices that may or may
 not share in any given familial characteristic
 [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
 model, imagine a tree diagram, where the tangled branches of computation and
-textuality intersect and diverge in arbitrary ways.
+textuality intersect and diverge in beautiful and arbitrary ways.
 
 ### Experimental Methods
 
-As consequence of its commitment to a pragmatic materialism, *Plain Text*
+As a consequence of its commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
 disciplines. Writing in the mid-19th century against the tradition of
-inductive "generalizers," Claude Bernard was one of the first physicians to
+"inductive generalizers," Claude Bernard was one of the first physicians to
 argue for the necessity of experimentation in medical practice. "We cannot
-separate the two things," he wrote, "head and hand." He goes on to write that
+separate the two things," he wrote, "head and hand." He went on to write that
 "the science of life is a superb and dazzlingly lighted hall which may be
 reached only by passing through a long and ghastly kitchen." "We shall reach
 really fruitful and luminous generalizations about vital phenomena only in so
@@ -283,11 +282,11 @@ laboratories stir the fetid or throbbing ground of life"
 [@bernard_introduction_1957, 3-15]. Today, the lighted halls of literary and
 media theory lead to the scholar's workshop.
 
-Take the hypothetical example of a media theorist analyzing the last few
+Take the hypothetical example of a media theorist commenting on the last few
 decades of photography without grasping the fundamentals of electronic
 photo-detectors, RAW image formats, complementary metal–oxide–semiconductors
 (CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
-image manipulation techniques. A study of that sort would be in peril of being
+image manipulation filters. A study of that sort would be in peril of being
 misguided by theories that have no basis in reality. That is not to say that
 theory has nothing to contribute to the conversation. Rather that theorists can
 contribute more when their thought is grounded in practice. Similarly, it is my
@@ -336,25 +335,25 @@ iron to recreate long--lost artisanal techniques. For those who experiment,
 
 Artifactual knowledge---from typesetting software to e-book readers and word
 processors---shapes our everyday encounter with literature. Such technologies
-should not be taken as value-neutral conduits of information. Neither do I
-advocate for technological determinism. Instead, I follow Lewis Mumford and
-Langdon Winner to argue that technology affects the exercise of politics in
-subtle and profound ways. Artifacts cannot hold beliefs about politics.
-Political power is rather exercised through them. Stairs do not discriminate
-against the mobility impaired. The failure to enforce accessibility through
-specific architectural choices does. Typesetting software, e-book readers, and
-word processors similarly encode implicit communication models, ideas about
-deliberation, ethics of labor, discursive values, and views about "natural"
-human aptitude for interpretation. In this way, contemporary documents enforce
-limits to access by license, geography, or physical ability. To what extent
-does the book in front of you "permit" or "enable" access?
+should not be taken as value-neutral conduits of information. I follow Lewis
+Mumford and Langdon Winner to argue that technology affects the exercise of
+textual politics in subtle and profound ways. Artifacts cannot hold beliefs
+about politics. Political power is rather exercised through them. Stairs do not
+discriminate against the mobility impaired. The failure to enforce
+accessibility through specific architectural choices does. Typesetting
+software, e-book readers, and word processors similarly encode implicit
+communication models, ideas about deliberation, ethics of labor, discursive
+values, and views about "natural" human aptitude for interpretation. In this
+way, contemporary documents enforce limits to access by license, geography, or
+physical ability.
 
+To what extent does the book in front of you "permit" or "enable" access?
 Whatever the answer, a function of interpreting the text must include the
 explication of its physical affordances. Experimentalism enables the critic to
-"lay bare" the device. A media scholar's version of baking bread and smelting
-iron is to make literal the image suggested by media "archeology" on the level
-of the mechanism. In *Plain Text* we will dig through, unearth, and excavate
-literary machines.
+"lay bare" the device. A literary scholar's version of baking bread and
+smelting iron is to make literal the image suggested by media "archeology" on
+the level of the mechanism. In *Plain Text* we will dig through, unearth, and
+excavate textual machines.
 
 ## The Metaphor and the Machine: Structuring Principles
 
@@ -367,7 +366,7 @@ An engineer's use of the words "code" and "poetry" differs from that of a
 poet's. And yet an engineer by day can also become a poet by night. The
 changing contexts evoke the corresponding shift in operational definitions.
 Consequently, in *Plain Text*, I do not attempt to write a totalizing history
-of modern computing or a survey of literary theory. Rather, the argument
+of modern computing nor a survey of literary theory. Rather, the argument
 progresses from the action of the alphanumerical keyboard switch, through
 copper and silicon, to liquid crystal and the floating gate, and on towards the
 human and the community. It is but a single possible pass through a cavernous
@@ -390,35 +389,36 @@ semiotics, and to foundational texts in the philosophy of aesthetics and
 literary theory.
 
 A skeptically minded reader may ask, what does all of that have to do with
-literature? The domain of the digital, after all, belongs to computer science.
+literature? Surely, the domain of the digital belongs to computer science.
 What can literary theory contribute to our understanding of digital textuality?
 My media archeological excavations reveal that the history of software
-engineering shares common intellectual ancestry with literary theory. [[ in the
-1920s ]] Both converged on the separation of form and content. Both attempted
-to articulate the idea of structure in documents and narratives. And both
-borrowed heavily from the language of Hegelian aesthetics.[^ln-hegel] Although
-the two communities have now diverged in their ways of speaking, they could
-benefit from entering into a constructive dialog.
+engineering shares common intellectual ancestry with literary theory. Both
+converged on the separation of form and content at the beginning of the
+twentieth century. Both articulated the idea of structure in documents and
+narratives. And both borrowed heavily from the language of Hegelian
+aesthetics.[^ln-hegel] The two communities have now diverged in their ways of
+speaking to the point of abandoning that shared legacy. *Plain Text* rebuilds a
+vocabulary common to both fields.
 
-Methodologically, I borrow from both fields to make two distinct moves that
-facilitate dialog. The first comes from literary formalism, in a strategy of
-deliberate defamiliarization, or making strange. The second reciprocal movement
-emulates the practice of reverse engineering. Unlike defamiliarization, the
-reverse engineering of devices aims to bring the obscure to light. My
-methodology thus lies in the dual complimentary movement between making known
-and making strange. A metaphor and a machine structure each chapter and the
-book.
+I make two distinct methodological moves that further facilitate dialog. The
+first comes from literary formalism, in a strategy of deliberate
+defamiliarization, or making strange. The second reciprocal movement emulates
+the practice of reverse engineering. Unlike defamiliarization, the reverse
+engineering of devices aims to bring the obscure to light. My methodology thus
+lies in the dual complimentary movement between making known and making
+strange. A metaphor and a machine help organize the book and each of its
+chapters.
 
 The language of computation employs many vivid metaphors, which lose their
 evocative power with frequent use. The task of the literary scholar becomes
 then to renew the metaphor, in a process that involves close reading in search
-for parallelisms that, as George Lakoff and Mark Johnson explain, structure one
+for parallelisms that, as George Lakoff and Mark Johnson explain, configure one
 conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do we
 call some software systems "applications" for example? The application of what
-to what?  Screen textuality manifests itself through a **D**isplay medium (LCD)
+to what? Screen textuality manifests itself through a **D**isplay medium (LCD)
 that is at once continuous (**L**iquid) and discrete (**C**rystal). How do
 these physical properties affect our conceptual understanding of the digital
-text?  The very notion of the "literary device" further points to a number of
+text? The very notion of the "literary device" further points to a number of
 mechanisms for textual diffusion. Texts move through devices like typewriters
 and e-book readers and "devices" like consonance and alliteration.
 Application, crystal, device: these familiar metaphors obscure the complexity
@@ -430,13 +430,13 @@ studies. The function of a case study in an engineer's education, as Henry
 Petroski explains in his *Invention by Design*, is to understand the ways by
 which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
 with a metaphor, each of my chapters also contains at least one literary
-"thought thing" and each enacts a deconstruction---a literal taking apart---of
-that device. In the first chapter, I disassemble a copy machine. It helps
-illustrate the problem of digital copies. Subsequently, I reverse engineer an
-LCD screen, exposing the conflicting properties of digital media as something
-simultaneously continuous and discrete. In another chapter, I examine the
-innards of an electronic book reader to illustrate a discussion about depth and
-surface reading. In the later chapters, I analyze book and file storage
+"thought thing." Each also enacts a deconstruction---a literal taking
+apart---of that device. In the first chapter, I disassemble a copy machine. It
+helps illustrate the problem of digital copies. Subsequently, I reverse
+engineer an LCD screen, exposing the conflicting properties of digital media as
+something simultaneously continuous and discrete. In another chapter, I examine
+the innards of an electronic book reader to illustrate a discussion about depth
+and surface reading. In the later chapters, I analyze book and file storage
 systems, considered as "furnishings of the mind" that tell us something about
 the way we externalize our thoughts. The book concludes with the concept of the
 human as seen through the lens of the Unix operating system.
@@ -460,31 +460,35 @@ plummeting costs of digital reproduction. The supposedly "dead" authors
 continue to draw checks from singularly copyrighted work. Legal fictions are
 created to veil the emerging affordances of textual technology.
 
-In Chapter 2, I challenges conventional notions of digital media, discovering
-properties at once "discrete" and "continuous." Both are seen to threaten human
-capacity for comprehension. Which one is it, before or beyond the human? A
-discussion of Liquid Crystal Displays (LCDs) flows into a section that deals
-with digital representation from the perspective of analytic philosophy. My
-summary of that tradition shows that language and text are already in some
-sense "born digital," that is "reproducible" and "differentiated" throughout.
-Furthermore, digitality depends on "reliable processes of copying and
-preservation"---attributes that can mean something different to a philosopher
-than to a librarian. From these insights I take it that "being digital" is not
-an intrinsic ontological condition, but rather [[ too dense ]] structure
-imposed from without.  Materials from the history of telegraphy help narrate
-the story of character encoding---a key hidden component of digital textuality.
+In the second chapter, I challenge conventional notions of digital media,
+discovering properties at once "discrete" and "continuous." Both are seen to
+threaten human capacity for comprehension. Which one is it, before or beyond
+the human? A discussion of Liquid Crystal Displays (LCDs) flows into a section
+that deals with digital representation from the perspective of analytic
+philosophy. My summary of that tradition shows that language and text are
+already in some sense "born digital," that is "reproducible" and
+"differentiated" throughout. Furthermore, digitality depends on "reliable
+processes of copying and preservation"---attributes that can mean something
+different to a philosopher than to a librarian. From these insights I take it
+that "being digital" is not an intrinsic ontological property, but rather
+structure imposed from without. A thing is not digital in itself---one makes
+use of something in a digital way. Materials from the history of telegraphy in
+the late ninetieth and early twentieth centuries help narrate the story of
+character encoding---a key hidden component of digital textuality.
 
-At the heart of the book and central to its argument, Chapter 3 begins by
-outlining a recent discussion on surface reading. I ask: What lies beneath the
-text, literally? Case studies in removable storage media, ticker tape and
-floppy disk, elucidate the movement of text from human-legible inscription on
-the page and punch card to magnetic inscription invisible to the naked human
-eye. In print, form and content lie flat. On the screen, the two layers occupy
-physically distinct strata. Along with the traditional distinctions of form and
-content we now find a control layer, which dynamically alters the mechanics of
-the literary encounter. The device alters itself to suit the reader. The
-history of the Document Object Model (DOM) dispels the illusion of flattened
-textuality, exposing the mechanisms of control embedded into all documents.
+I begin the book's third chapter by outlining a recent discussion on surface
+reading. I ask: What lies beneath the text, literally? Case studies form the
+early history of removable storage media, ticker tape and floppy disk,
+elucidate the movement of text from human-legible inscription on the page and
+punch card to magnetic inscription invisible to the naked human eye. In print,
+form and content lie flat. On the screen, the two layers occupy physically
+distinct strata. The rise of the ubiquitous Document Object Model (DOM) in the
+twentieth century introduces a third layer which, in addition to form and
+content, encodes device control. The material history of DOM dispels the
+illusion of flattened textuality. The control layer dynamically structures the
+mechanics of the literary encounter. Text now carries both a message and a set
+instructions to alter the device. Consequently, I argue that the interpretation
+of texts must include the exposition of the control layer.
 
 The fourth chapter reaches beyond the device to the human. I begin with a close
 reading of Beckett's *Krapp's Last Tape*. The title character makes yearly
@@ -505,17 +509,17 @@ Ephemeral media brings promise of epistemological (social) and even
 phenomenological (personal) transformation. But it also has a major practical
 drawback. Inscription on magnetic tape cannot be assumed to correspond to the
 composite screen image. Forms of governance like Digital Rights Management
-(DRM) can now be embedded deep within the structure of the "data object" itself
-and further hidden from view---precluding, and sometimes making illegal
-outright, the possibility of interpretation. I conclude with a stark image that
-illustrates the contrast between screen surface and the underlying bit
-structure. To produce the image, I use reverse-engineering tools to inject
-malicious code into an Adobe Acrobat file (`.pdf`). The deformed text threatens
-to damage the literary device. A thick description of the literary device---the
-book---now as gadget and instrument, brings legibility to the fore of reading
-ethics. The design and usage of literary devices must itself become critical
-practice which, in complement to critical theory, can actively engineer for
-textual mechanisms that make individual dissent possible.
+(DRM) are embedded deep within the "data object" itself and further hidden from
+view---precluding, and sometimes making illegal outright, the possibility of
+interpretation. I conclude with a stark image that illustrates the contrast
+between screen surface and the underlying bit structure. To produce the image,
+I use reverse-engineering tools to inject malicious code into an Adobe Acrobat
+file (`.pdf`). The deformed text threatens to damage the literary device. A
+thick description of the literary device---the book---now as gadget and
+instrument, brings legibility to the fore of reading ethics. The design and
+usage of literary devices must itself become critical practice which, in
+complement to critical theory, can actively engineer for textual mechanisms
+that make individual dissent possible.
 
 [^ln-hegel]: I discuss the topic at length in Chapter 3.
 
