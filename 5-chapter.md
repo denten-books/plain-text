@@ -772,4 +772,152 @@ to alter its policies, without necessarily challenging its overall status.
 http://newsoffice.mit.edu/2015/citizens-disobey-enact-change-0519
 
 
+### 6.2 Cryptography and Steganography
+
+Hobbes on secret knowledge (p43-44!)
+
+Where cryptography is the art of secret communication, steganography is the art
+of hiding the secret. "The purpose of steganography is to hide the very
+presence of communication by embedding messages into innocuous-looking objects,
+such as digital images," Jessica Fridrich and her colleagues write for the
+proceedings of the Society of Photographic Instrumentation Engineers,
+appropriately shortened to SPIE [@fridrich_searching_2004].
+
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or in the flow of liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality. In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.  ### 7.1 ITU
+
+Related to secrecy.  Plain language and Secret language (telegraph regulations
+1932).  "Plain language is that which presents an intelligible meaning in one
+or more of the languages authorized for international telegraph correspondence,
+each word and each expression having the meaning normally assigned to it in the
+language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is
+composed either of artificial words, or of real words not used in the meaning
+normally assigned to them in the language to which they belong and consequently
+not forming intelligeble phrases" [@itu_telegraph_1932, 12].
+
+Encrypted literature. Revealment and dissimulation. Notions of textuality as
+embroiled in contemporary ideas of privacy, secrecy, and transparency.
+Computation does not necessarily work for the military-industrial apparatus (as
+argued by Golumbia, Lennon, and McPherson).  Recovering and preserving
+textuality in computing.
+
+Brooks Act 1965.  Man in the middle attacks.
+
+Alice, Bob, Caryl.
+http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
+Communication theory of secrecy systems, shannon
+
+Zimmermann responded by publishing the source code as a book, an act that was
+constitutionally protected as free speech. 
+## 3.7 Spooky Action at a Distance
+
+Book as cultural conserve (@moreno_who_1953, 238). "Many of the robots have also the
+attribute in common of being able to affect human beings or other targets 'at a
+distance,' a book a radio or a television sender an entertain or teach at a
+distance, like a gun, a rocket and an atomic bomb can kill people and destroy
+at a distance. The book is a robot par excellence."
+
+IBM Format
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
+synchronized, the pause between each transmitted character can vary in length.
+For this reason ITA-2 includes two extra bits for indicating "start" and stop"
+elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
+where ones and zeros represent the absence and the presence of
+current[@itu_telegraph_1932, 36].
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally.
+
+ASCII.
+Plain text in Unix. Human readability. TROFF.
+
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan_unix_1978, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+
+"Robots have also the attribute in common of being able to affect human beings
+or other targets 'at a distance,' a book, a radio or a television sender can
+entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
+kill people and destroy at a distance. The book is a robot par
+excellence"[@moreno_who_1953, 238]. So wrote Jacob Moreno, a contemporary
+adversary of Sigmund Freud and one of the pioneers in sociology and group
+therapy.
+
+Zoomatics --- the relationship of man to man and the relation of man "to certain
+peculiar products of his mind, which when separated from him, can function
+independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
+first is sociometry. The second is "creative revolution." Robots = cultural
+conserves and machines. 238. "A book, a film, an atomic bomb, they do not
+perish in the human sense, the same capacity is always there, they can be
+reproduced ad infinitum. A book may have to be reprinted, a film copied on
+and off, but if anything perishes it is not their essence but some material
+entourage. Our human world is increasingly filled with robots." 239
+
+A text is a special type of a gun. It can be reduced to textual description,
+transmitted, and manufactured cheaply. As the pendulum of textual scholarship
+swings back from treating text as pure idea, the materialists must acknowledge
+the aberrant specificity of textual material. Text routinely separates from its
+physical medium. The ability to change form is what gives it the ability to act
+at a distance.
+
 ### Works Cited
+
