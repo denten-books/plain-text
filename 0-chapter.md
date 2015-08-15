@@ -12,7 +12,7 @@ header-includes:
 - \newcommand{\sectionbreak}{\clearpage}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
-- \rhead{DRAFT (please do not distribute)}
+- \rhead{draft copy | do not circulate}
 - \lhead{}
 
 ---
