@@ -110,13 +110,37 @@ of the communication act. I will give that practice a name, microanalysis, and
 a purpose: to uncover the energy gained or lost in the transformation from code
 to code and from medium to medium. I am concerned with energy because too often
 our foundational models of reading and interpretation take the text as a fixed
-given. Even in our most destabilizing readings, *S/Z* by Roland Barthes or
-Jacques Derrida's "Plato's Pharmacy", the materiality of the text is assumed to
-persevere. "We will take off here from the
-*Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader can
-count the lines" at the "precisely calculated center of the dialogue"
-[@derrida_dissemination_1981, 67]. Derrida asks the reader "to return to the
-text" 
+given. Even in our most destabilizing readings, like Jacques Derrida's "Plato's
+Pharmacy", the materiality of the text is assumed to persevere. "We will take
+off here from the *Phaedrus*," Derrida writes [@derrida_dissemination_1981,
+66]. "The reader can count the lines" at the "precisely calculated center of
+the dialogue" [@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida
+a definate beginning, middle, and end.  Derrida asks the reader "to return to
+the text," even when the text "remains forever imepreceptible"
+[@derrida_dissemination_1981, 63 & ].[^ln1-tranlsate] When Derrida talks in
+this usual way of a literary scholar, he uses the word "text" in two distinct
+ways: one, as an abstract metnal constract---the one that is forever
+impreceptible, and the physical one, which has a definite and stable
+topography.
+
+In the vision of post-structural poetics, the text comprises quicksand of
+unstable signifiers. In other words, we can only define a word with other
+words. Derrida writes about the "dissimulation of the woven texture," and "a
+web that envelops a web," and "an organism, idefinitely reenerating its own
+tissue behind the cutting trace, the decision of each reading"
+[@derrida_dissemination_1981, 63]. In *Plain Text*, I want to challenge the
+stability of the text as a physical artifact, and not just a mental construct.
+By the end of the book, we will see also that much is at stake in the material
+affordances of the literary artifact. The political struggle for meaning-making,
+that is the very opportunity to engage in the activity, begins with the text as
+a physical object. 
+
+
+[^ln1-translate]: "In our discussion of this text we have been using an
+authoritative French translation of Plato, the one published by Guillaume Bude.
+In the case of *Phaedrus*, the tranlation is by Leon Robin. We will continue to
+refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
+71]."
 
 reveal the labor it
 physically takes to ferry inscriptions across space. In searching for the
