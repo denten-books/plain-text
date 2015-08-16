@@ -20,7 +20,35 @@ header-includes:
 
 # Chapter 1: Literature Down to the Pixel
 
-## 1.1 Rabbit hole. Where does text reside?
+## 1.1 WYSINAWYG (What You See Is Not Always What You Get)
+
+I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
+magnetic storage the "enduring ephemeral," which "creates unforeseen
+degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
+the floating gate transistor,[^ln1-gate] where my text now lives, can be called
+the enduring ephemeral, I will call my liquid crystal display, where the text
+shows itself, fading persistence. This is not to believe (fearing the wrath of
+textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
+that text on the screen lacks materiality. Not at all. Only that it seems to
+drift from surface to surface, beyond the field of vision, in ways that erode
+trust in the general permanence of the literary system. If we are destined to
+dwell on surfaces, I do not know to which surface to attach my attention: the
+screen or the floating gate.
+
+I have before me at least two inscriptions: one as circuit state on my hard
+drive, and another as crystal phase on the screen. They denote the same idea,
+but in two distinct places. How did this duplicity come to be? And what impact
+does it have on the life of a mind? In an attempt to answer, I offer the
+following three historical preconditions for digital textuality. They are not
+meant as history, but rather as signposts to mark the journey ahead. The schema
+proceeds roughly as follows: first, content and control couple at the visible
+surface of removable storage media (ticker tape and punch card); second,
+inscription splits into input and output, retreating into magnetic storage to
+reemerge at last on screen, in the same guise, but also, as we suspect, somehow
+transformed: less solid and concealing something beneath the phantasmal shell
+of its former appearance.[^ln1-denning] We will not travel the length of the
+route in this chapter. Here we only need only to set the grounds that begin the
+journey.
 
 Where does text reside? If you are reading this book in print, you can point to
 the page and be fairly certain of the answer: here, on the page. If you are
@@ -28,19 +56,18 @@ reading the book on a *device*, things get more complicated. You can point to
 the screen and yet it would not be enough to say that the text resides there.
 The screen will go dark when the device loses power, but the text will
 persevere within, stored at another physical location. Deep within a device,
-the text will be embedded into into some sort of storage medium. Where the
-digital text resides will affect even those who prefer to read in print.  Like
-most literature today, print material is also "born digital." At some point, it
-occupied the same duplicitous position between storage medium and pixel. It
-will take us the rest of the book to point to the location of "digital" text.
+the text will be embedded into into some sort of a storage medium. Where the
+digital text resides affects even those who prefer to read in print. Like most
+literature today, print materials are also "born digital." At some point of
+time, they occupy the same duplicitous position between storage medium and
+pixel.
 
-Text, medium, and pixel: these words already require explanation. Few readers
-today will be able to give an account of a pixel's passage from keystroke to
-ink or pixel. The vast machinery that brings literature to life hides from the
-reader's view. Literature conceals. Even on the level of stylystics, writing
-well is meant to evoke a sense of ease where it is usually the product of
-painstaking labor. Let us hold on to that intuition for the duration of this
-chapter: writing conceals labor.
+Few readers today will be able to give an account of a pixel's passage from
+keystroke to ink or pixel. The vast machinery that brings literature to life
+hides from the reader's view. Literature conceals. Even on the level of
+stylistics, writing well is meant to evoke a sense of ease where it is usually
+the product of painstaking labor. Let us hold on to that intuition for the
+duration of this chapter: writing conceals labor.
 
 Literature hides the labor of readers and writers. In another sense, there is
 also the concealment of raw, physical energy that "goes into the word." The
@@ -49,10 +76,10 @@ back down. By definition, potential energy relates to the possibility of "work
 done." The rock can pull something up the hill as it is falling down, for
 example. What of the energy that went into the writing of these sentences? I
 spent a few *joules* compressing the springs under my keyboard. Many more went
-into my laptop as electric current. Why? To overcome matter's resistance to
-change. To preserve and to communicate this message *amperes*, the unit of
-electrical flow, struggled with *ohms*, the unit of the world's resistance to
-electronics.
+into my laptop as electric current. Why? To overcome matter's passive impedance
+of advancing change. To preserve and to communicate this message *amperes*, the
+unit of electrical flow, struggled with *ohms*, the unit of electrical
+resistance.
 
 There is energy too in the librarian's effort to archive a book, in the
 churning of a search engine to make it accessible to a reading public, and in
@@ -63,69 +90,39 @@ it---just a small part---left an imprint somewhere. It left a trace of ink on a
 page, magnetized a piece of tape, or shifted the configuration of the floating
 gate buried within the solid state drive. Finally, the potential energy
 remaining within the word began a chain of electrical reactions in the reader's
-brain, overcoming mental effort or doing "knowledge work."[@liu_laws_2004]
-Ultimately, writing serves to connect the electrical circuitry of at two
-neurological systems. Reading leaves the brain in a different state than
-before. Writing, in this light, involves the transmission of neural activity
-between hosts. When considered as a physical process, literature is a type of
-electroencephalography (EEG), or electric head writing.
+brain. The mental effort or reading and writing amounts to "knowledge
+work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
+circuitry of at two neurological systems. Reading leaves the brain in a
+different state than before. Writing, in this light, involves the transmission
+of neural activity between hosts. When considered as a physical process,
+literature is a type of electroencephalography (EEG), or electric head writing.
 
-The task of *Plain Text* will be to reveal the labor it physically takes to
-ferry inscriptions across space. This chapter will be about textual
-desinations. In searcing for the grounds of digital textuality, we will
-discover several key locations that stage the literary encounter.[^ln1-dirt]
+![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
 
-## 1.2 WYSINAWYG (What You See Is Not Always What You Get)
+Ferdinand de Saussure's famous communication circuit (pictured here) follows
+from head to head. The task of *Plain Text* will be to complicate that picture.
+The book traces the passage of a thought into an *inscription* etched into a
+*device*. At each stage, we will observe the process of encoding or decoding,
+by which one type of substance---a thought---is converted into another type, a
+word or the oscillation of an electrical current. I will present here a type of
+a materialist reading practice, which pays attention to the physical properties
+of the communication act. I will give that practice a name, microanalysis, and
+a purpose: to uncover the energy gained or lost in the transformation from code
+to code and from medium to medium. I am concerned with energy because too often
+our foundational models of reading and interpretation take the text as a fixed
+given. Even in our most destabilizing readings, *S/Z* by Roland Barthes or
+Jacques Derrida's "Plato's Pharmacy", the materiality of the text is assumed to
+persevere. "We will take off here from the
+*Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader can
+count the lines" at the "precisely calculated center of the dialogue"
+[@derrida_dissemination_1981, 67]. Derrida asks the reader "to return to the
+text" 
 
-I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
-magnetic storage the "enduring ephemeral," which "creates unforeseen
-degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
-the floating gate transistor,[^ln3-gate] where my text now lives, can be called
-the enduring ephemeral, I will call my liquid crystal display, where the text
-shows itself, fading persistence. This is not to believe (fearing the wrath of
-textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
-that text on the screen lacks materiality. Not at all. Only that it seems to
-drift from surface to surface, beyond the field of vision, in ways that erode
-trust in the general permanence of the literary system. If we are destined to
-dwell on surfaces, I do not know to which surface to attach my attention: the
-screen or the floating gate.
+reveal the labor it
+physically takes to ferry inscriptions across space. In searching for the
+grounds of digital textuality, we will discover that the duplicity of text
 
-[^ln3-gate]: Solid state memory devices like flash memory store information in
-capacitor "circuit states." This by contrast with electromagnetic storage that
-works by modulating electrical charge over a magnetic surface. Solid state
-capacitor storage was used in the earliest computers
-[@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage on consumer devices. In an early
-(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
-and Sze explain: "A structure has been proposed and fabricated in which
-semipermanent charge storage is possible. A floating gate is placed a small
-distance from an electron source. When an appropriately high field is applied
-through an outer gate, the floating gate charges up. The charges are stored
-even after the removal of the charging field due to much lower back transport
-probability [...] Such a device functions as a bistable memory with
-nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
-
-I have before me at least two inscriptions: one as circuit state on my hard
-drive, and another as crystal phase on the screen. They denote the same idea,
-but in two distinct places. How did this duplicity come to be? At which point
-in time did one text become two or more different things? In an attempt to
-answer, I offer the following three minimal historical preconditions. They are
-not meant as history, but they are needed for the work to be done in this
-chapter. The schema proceeds roughly as follows: first, content and control
-couple at the visible surface of removable storage media (ticker tape and punch
-card); second, inscription splits into input and output, retreating into
-magnetic storage to reemerge at last on screen, in the same guise, but also, as
-we suspect, somehow transformed: less solid and concealing something beneath
-the phantasmal shell of its former appearance.[^ln3-denning]
-
-[^ln3-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
-
-#### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
+### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg 1911 patent, simply titled
@@ -156,7 +153,7 @@ coupled message and control. The era of ticker tape punch cards can be thought
 to end with the mass-market introduction of IBM's Magnetic Tape/Selectric
 Typewriter in 1964.
 
-#### B: Magnetic tape, 1888--1968
+### B: Magnetic tape, 1888--1968
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun writes in her *Programmed Visions*, an
@@ -217,7 +214,7 @@ domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
 Magnetic storage remains, for all unassisted intents and purposes, a black
 slate.
 
-#### C: Screen, 1968--today
+### C: Screen, 1968--today
 
 By decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process of
@@ -1649,7 +1646,29 @@ dialectical motion of the real world and the dialectic of Hegel was placed upon
 its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
 
-[^ln-dirt]: Think of text as substance and literature as surface. The first is
+[^ln1-dirt]: Think of text as substance and literature as surface. The first is
 like dirt where the second is gound. We play with one on top of the other.
+
+[^ln1-gate]: Solid state memory devices like flash memory store information in
+capacitor "circuit states." This by contrast with electromagnetic storage that
+works by modulating electrical charge over a magnetic surface. Solid state
+capacitor storage was used in the earliest computers
+[@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage on consumer devices. In an early
+(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
+[^ln1-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].
 
 ### Works Cited

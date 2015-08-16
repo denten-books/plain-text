@@ -13,10 +13,102 @@ header-includes:
 
 ---
 
-## Chapter 6: Engineering for Dissent
+# Chapter 6: Engineering for Dissent
 `parity, transparency`
 
-## Technological Determinism
+## 5.1 Spooky Action at a Distance
+
+Book as cultural conserve (@moreno_who_1953, 238). "Many of the robots have also the
+attribute in common of being able to affect human beings or other targets 'at a
+distance,' a book a radio or a television sender an entertain or teach at a
+distance, like a gun, a rocket and an atomic bomb can kill people and destroy
+at a distance. The book is a robot par excellence."
+
+IBM Format
+
+By 1932 the ITU documents list two new standards, International Telegraphic
+Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
+The ITA formats, like the Baudot, represented latin characthers in a system of
+fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
+"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
+code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
+synchronized, the pause between each transmitted character can vary in length.
+For this reason ITA-2 includes two extra bits for indicating "start" and stop"
+elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
+where ones and zeros represent the absence and the presence of
+current[@itu_telegraph_1932, 36].
+
+By the 1960, multiple competing character encodings existed in the United
+States and globally.
+
+ASCII.
+Plain text in Unix. Human readability. TROFF.
+
+Further separation. On benefits of computer-aided document preparation. "The
+style or format of the document can be decoupled from its content; the only
+format control information that need be embedded is that describing textual
+categories and boundaries, such as titles, section headings, paragraphs, and
+the like [@kernighan_unix_1978, 2116]
+
+Plain and fancy Text Unix system. What you see is not what you get. What is
+plain text. Unix ideas of plain text. ASCII. From form and content to content,
+semantic markup, and typesetting. Semantic markup as part of the
+extra-linguistic meaning making.
+
+http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
+
+Semantic markup is interesting because it contains both material and ideal. The
+way textuality is encoded mediates between idea and matter. Mediation. Visible
+form and hidden form.
+
+The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
+text.o
+
+John Charles Ryle
+Expository Thoughts on the Gospels: For Family and Private Use. With the ...
+
+"One plain text is worth a thousand arguments."
+
+
+Words: Their Use and Abuse
+Say plain things in a plain way.
+
+Time and truth reconciling the moral and religious world to Shakespeare: the
+ By B. S. Naylor
+"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
+dostorted by Commentators and beclouded by Illustrators" (p64)
+
+"One plain text is worth a thousand"
+
+Signal Book, United States Army: 1916
+
+
+"Robots have also the attribute in common of being able to affect human beings
+or other targets 'at a distance,' a book, a radio or a television sender can
+entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
+kill people and destroy at a distance. The book is a robot par
+excellence"[@moreno_who_1953, 238]. So wrote Jacob Moreno, a contemporary
+adversary of Sigmund Freud and one of the pioneers in sociology and group
+therapy.
+
+Zoomatics --- the relationship of man to man and the relation of man "to certain
+peculiar products of his mind, which when separated from him, can function
+independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
+first is sociometry. The second is "creative revolution." Robots = cultural
+conserves and machines. 238. "A book, a film, an atomic bomb, they do not
+perish in the human sense, the same capacity is always there, they can be
+reproduced ad infinitum. A book may have to be reprinted, a film copied on
+and off, but if anything perishes it is not their essence but some material
+entourage. Our human world is increasingly filled with robots." 239
+
+A text is a special type of a gun. It can be reduced to textual description,
+transmitted, and manufactured cheaply. As the pendulum of textual scholarship
+swings back from treating text as pure idea, the materialists must acknowledge
+the aberrant specificity of textual material. Text routinely separates from its
+physical medium. The ability to change form is what gives it the ability to act
+at a distance.
+
+## 5.2 Technological Determinism
 
 Against technological determinism. Space for play and interpretation. Signal
 Kittler.
@@ -827,99 +919,7 @@ Communication theory of secrecy systems, shannon
 
 Zimmermann responded by publishing the source code as a book, an act that was
 constitutionally protected as free speech. 
-## 3.7 Spooky Action at a Distance
-
-Book as cultural conserve (@moreno_who_1953, 238). "Many of the robots have also the
-attribute in common of being able to affect human beings or other targets 'at a
-distance,' a book a radio or a television sender an entertain or teach at a
-distance, like a gun, a rocket and an atomic bomb can kill people and destroy
-at a distance. The book is a robot par excellence."
-
-IBM Format
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
-synchronized, the pause between each transmitted character can vary in length.
-For this reason ITA-2 includes two extra bits for indicating "start" and stop"
-elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
-where ones and zeros represent the absence and the presence of
-current[@itu_telegraph_1932, 36].
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally.
-
-ASCII.
-Plain text in Unix. Human readability. TROFF.
-
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan_unix_1978, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
-
-"Robots have also the attribute in common of being able to affect human beings
-or other targets 'at a distance,' a book, a radio or a television sender can
-entertain or teach at a distance, like a gun, a rocket and an atomic bomb can
-kill people and destroy at a distance. The book is a robot par
-excellence"[@moreno_who_1953, 238]. So wrote Jacob Moreno, a contemporary
-adversary of Sigmund Freud and one of the pioneers in sociology and group
-therapy.
-
-Zoomatics --- the relationship of man to man and the relation of man "to certain
-peculiar products of his mind, which when separated from him, can function
-independently." "Aggression coming from robots." [@moreno_who_1953, 237] The
-first is sociometry. The second is "creative revolution." Robots = cultural
-conserves and machines. 238. "A book, a film, an atomic bomb, they do not
-perish in the human sense, the same capacity is always there, they can be
-reproduced ad infinitum. A book may have to be reprinted, a film copied on
-and off, but if anything perishes it is not their essence but some material
-entourage. Our human world is increasingly filled with robots." 239
-
-A text is a special type of a gun. It can be reduced to textual description,
-transmitted, and manufactured cheaply. As the pendulum of textual scholarship
-swings back from treating text as pure idea, the materialists must acknowledge
-the aberrant specificity of textual material. Text routinely separates from its
-physical medium. The ability to change form is what gives it the ability to act
-at a distance.
-
-## 2.5 Fleas
+## 5.5 Fleas
 
 Plain text + fleas from the Unix book should go here.
 ### Works Cited
