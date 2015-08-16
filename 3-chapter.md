@@ -18,10 +18,12 @@ header-includes:
 
 ---
 
-# Chapter 2: Crisis of Authenticity
+# Chapter 3: Crisis of Authenticity
 Keywords: `content, form, formula, formatting`
 
-Bring in Trilling?
+Tie to the first two chapters. Easy multiplicity of documents.
+Bring in Trilling? Digitality as something imposed from without or imposed on
+us! Because the book is different it fucks with authenticity.
 
 ## 3.3 Form as Concrete and Universal
 

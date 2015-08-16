@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 1: We Have Always Been Digital"
+subtitle: "Chapter 2: We Have Always Been Digital"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -18,12 +18,14 @@ header-includes:
 
 ---
 
-# Chapter 3: Literature Down to the Pixel
+# Chapter 2: Literature Down to the Pixel
 Keywords: `digital, analog, binary, encoding, mediation`
 
 What's at stake? Quant. of information. We are talking about synchronizing time.
 Bring in Warren Brody's manifesto. TIME. And also digital is not about human.
 Bring it the too much info from Kenny Goldsmith.
+Digital text. What makes it digital? Because we have a device, does it mean
+that we are not digital? It is structure form the outside.
 
 ## 3.1 Digital Wake
 

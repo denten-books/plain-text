@@ -20,6 +20,9 @@ header-includes:
 # Chapter 4: Recursive Encounters with Oneself
 `media being, reading, home, human`
 
+Documents strongly connected with an idea of user and access. Strongly
+connected with an identity.
+
 ## 4.1 Personal Archives
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last

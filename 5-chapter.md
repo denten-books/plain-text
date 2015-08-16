@@ -16,6 +16,8 @@ header-includes:
 # Chapter 5: Engineering for Dissent
 `parity, transparency`
 
+Laws are created to mitigate the new affordances.
+
 ## 5.1 Spooky Action at a Distance
 
 Book as cultural conserve (@moreno_who_1953, 238). "Many of the robots have also the
@@ -922,6 +924,8 @@ constitutionally protected as free speech.
 
 Plain text + fleas from the Unix book should go here.
 
+## 5.3 Plain Text in Unix
+Plain text preveleges a certain etics of humanity.
 ## 5.3 Smart Contracts (A Legal Interlude)
 
 Legal fictions rise to veil the emerging affordances of
@@ -1392,3 +1396,6 @@ meccanico e la sensibilità numerica]
 ### Works Cited
 ### Works Cited
 
+## Living with Complex Systems
+
+The unix idea of plain idea.
