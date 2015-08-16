@@ -17,10 +17,10 @@ header-includes:
 
 ---
 
-## Chapter 4: Recursive Encounters with Oneself
+# Chapter 4: Recursive Encounters with Oneself
 `media being, reading, home, human`
 
-### 4.1 Personal Archives
+## 4.1 Personal Archives
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -279,7 +279,7 @@ recollection. It is a yearning for a house: "nostalgia," from the Greek
 such domicile, where the contemporary librarians of the self commonly make a
 home.
 
-### 4.2 Media Being
+## 4.2 Media Being
 
 Reading the play through the lens of media production gives us more than just
 notes on stage design. *Krapp's Last Tape* captures the mid-century rise in
@@ -593,7 +593,7 @@ objects are commonplace."
 burdening ordinary lived-in homes has never been done in the U.S. or any other
 modern industrial society" [@arnold_life_2012, 23].
 
-### 4.3 Furnishings of the Mind
+## 4.3 Furnishings of the Mind
 
 What constitutes a literary archive? Initially, I want to answer something like
 "books and bookshelves" or "files and file folders." In other words, some
@@ -912,6 +912,8 @@ to ask what assumptions does it make about the archivist? It is at this point
 that I would like to leave Krapp's study to enter another home, in which
 today's librarians of self commonly seek shelter.
 
+## 4.4 Unix Home
+
 [^ln5-recursive]: See also @breuer_paradox_1993, 559-580.
 
 [^ln5-boring]: I suspect both would make for far more boring plays than the
@@ -1008,4 +1010,4 @@ Bennett, John L. The User Interface in Interactive Systems. In Annual Review of
 Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
 for Information Science. Washington, 1972, pp. 159-196.
 
-### Works Cited
+

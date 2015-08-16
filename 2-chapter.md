@@ -18,10 +18,14 @@ header-includes:
 
 ---
 
-## Chapter 2: We Have Always Been Digital
+# Chapter 3: Literature Down to the Pixel
 Keywords: `digital, analog, binary, encoding, mediation`
 
-### 2.1 Digital Wake
+What's at stake? Quant. of information. We are talking about synchronizing time.
+Bring in Warren Brody's manifesto. TIME. And also digital is not about human.
+Bring it the too much info from Kenny Goldsmith.
+
+## 3.1 Digital Wake
 
 What does the digital look like? It looks blue for one---not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -104,7 +108,7 @@ aim here and throughout is to understand what is meant by its invocation: to
 "come to terms," to make visible, to disturb it, to denature, and to make it
 strange again.
 
-### 2.2 Motion Blur
+## 3.2 Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -261,7 +265,7 @@ practice of buying "digital cameras" or to promoting the "digital humanities"
 in name only. To perceive what is at stake, we must do much more to
 disambiguate digital cognates: electronic, binary, and computational.
 
-### 2.3 Continuity and Mediation
+## 3.3 We Have Always Been Digital
 
 Let us start with digital representation expressed more formally, as done in
 computer science, aesthetics, and the philosophy of information.
@@ -1127,4 +1131,36 @@ neural oscillations into their tempo, effectively synchronizing the brain's
 rhythms with those of the world around us" [@hickok_its_2015]. His study on the
 topic is forthcoming in *Psychological Science* in 2015.
 
+
+## 3.4 Hyper Erudition
+
+Writing on the state of
+twenty-first century poetics Craig Dowrkin speaks about poetry's "Malthusian limit."
+"Bound by discreptant rates of production and consumption, the readerly economy
+of poetry in the twenty-first century cannot avoid a catastrophic calculus: the
+rate of consumption quickly hits an arithmetic limit (any one person can only
+read so much), but the rate of production is increasing geometrically"
+[@dworkin_seja_2008, 9].
+
+Flattening of the knowledge realm.
+https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
+
+Impact on the study of textual artifact. If are are to take the hypothesis of
+extended cognition seriously, we must treat the tools of cognitive augmentation
+as seriously as we would our own mental development, in the traditional sense.
+
+The flattening of the knowledge realm. It is not the absence of topography. It
+is our ability to readily perceive topography, and to place ourselves within
+that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
+The surgeon should get more money because of the subjective experience of
+cutting people up. That part does not transfer. The technical literature is
+actually quite understandable. Incommensurability of subjective experience.
+Commensurability of knowledge. The fundamental problem of modern world is the
+problem of expertise.
+
+http://word.mvps.org/faqs/general/wordvswordperfect.htm
+http://wptoolbox.com/tips/MSWordToWP.html
+modal vs. other kinds of processing
+
+### Works Cited
 ### Works Cited
