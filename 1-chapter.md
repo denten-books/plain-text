@@ -35,16 +35,23 @@ instruction---coincide. Code equals code.
 The electronic book in my hand is one such device. It is also governed by codes
 both political and computational. And yet, I continue to read the book as if it
 was still an immutable object. I think of it still as an intimate artifact, a
-friend, wholly known to me and benign. This literary device is none of these
-things. It relays my reading habits to third parties. It changes itself as I
-sleep. It comes with a manual and terms of service. It *legislates* reading.
-The task of this chapter and of the monograph as a whole is to encounter the
-familiar book anew as a computational device. It is to imagine a hermeneutics
-capable of apprehending computation. Finally, it is to preserve as sense of
-human agency in the act of interpretation.
-
-First, we must locate the book. In this chapter, my concern will be with the
-location of the textual encounter and with a methodology that 
+friend even: wholly known to me and benign. The literary device is none of
+these things. It records my reading, sleeping, and consumption habits, relaying
+the logs to a third party. It reconfigures itself and "my" texts dynamically,
+at will. It comes with a manual and terms of service. In short, it *legislates*
+reading. The task of this chapter and of the monograph as a whole will be to
+encounter the familiar book anew as a computational device and to deal with the
+outcomes of that shift. It is to imagine a hermeneutics capable of apprehending
+computation. Finally, it is to preserve a sense of human agency in the act of
+interpretation. In this chapter, we will begin by ateempting to fix the
+location of the literary encounter in order to identify the very object of the
+book's study. I mean "location" in at least two different ways. The first
+entails finding the text in the machine. The second entails the search for
+spaces where such machines operate. Both senses, micro and macro, lead us to a
+historical archive of literary computational devices. Three such devices will
+emerge by the end of the chapter. I suspect they have fundamentally changed the
+nature of reading, but it will take me the rest of the book to confirm that
+suspcision.
 
 The formal concept of a "device," widely used in literary studies, is an
 artifact of an unfortunate translation from Russian. The word *priem* would be
