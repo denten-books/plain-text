@@ -32,29 +32,41 @@ device internalizes legislation in its programming. We obtain the condition
 where the two meanings of code---as governance and program
 instruction---coincide. Code equals code.
 
-These considerations are relevant as we consider the production of text at the
-level of the device. The formal concept of a "device," widely used in literary
-studies, is an artifact of an unfortunate translation from Russian. The word
-*priem* would be much better translated as "technique," in the sense of
-"method," "approach," or "procedure." The word "device" contains these meanings
-as well, but in modern usage, it usually carries a concrete connotation, as "an
-object, machine, or piece of equipment that has been made for a special
-purpose" (Merriam-Webster). "Laying bare the device," for Shklovsky, meant
-making explicit the implicit mechanism of the metaphor, particularly in cases
-where such metaphors turn "stale," "automatic," and "naturalized," that is,
-bereft of their original poetic and evocative power. One could write, for
-example, "a field of study," without much thought about figurative space.
-Viktor Shklovsky (who coined the phrase "laying bare the device [*priem*]")
-would have the reader pause to consider the implications. In which sense ideas
-resemble (or not) a field? The writer could draw our attention to the
-strangeness of the analogy were he to mention "mowing a verdant field of
-study," or better yet, showing someone in the process of mowing a field while
-discussing epistemology (or something along these lines). The unexpected
-transference of properties accentuates and renews a familiar image. In what
-sense could one "mow" a "verdant" "field" of ideas? Such unusual juxtapositions
-renew the peculiarity of the initial metaphor. The figure is "made strange"
-again, in what Shklovsky calls the technique of poetic "estrangement"
-[@shklovksy_sborniki_1917].
+The electronic book in my hand is one such device. It is also governed by codes
+both political and computational. And yet, I continue to read the book as if it
+was still an immutable object. I think of it still as an intimate artifact, a
+friend, wholly known to me and benign. This literary device is none of these
+things. It relays my reading habits to third parties. It changes itself as I
+sleep. It comes with a manual and terms of service. It *legislates* reading.
+The task of this chapter and of the monograph as a whole is to encounter the
+familiar book anew as a computational device. It is to imagine a hermeneutics
+capable of apprehending computation. Finally, it is to preserve as sense of
+human agency in the act of interpretation.
+
+First, we must locate the book. In this chapter, my concern will be with the
+location of the textual encounter and with a methodology that 
+
+The formal concept of a "device," widely used in literary studies, is an
+artifact of an unfortunate translation from Russian. The word *priem* would be
+much better translated as "technique," in the sense of "method," "approach," or
+"procedure." The word "device" contains these meanings as well, but in modern
+usage, it usually carries a concrete connotation, as "an object, machine, or
+piece of equipment that has been made for a special purpose" (Merriam-Webster).
+"Laying bare the device," for Shklovsky, meant making explicit the implicit
+mechanism of the metaphor, particularly in cases where such metaphors turn
+"stale," "automatic," and "naturalized," that is, bereft of their original
+poetic and evocative power. One could write, for example, "a field of study,"
+without much thought about figurative space.  Viktor Shklovsky (who coined the
+phrase "laying bare the device [*priem*]") would have the reader pause to
+consider the implications. In which sense ideas resemble (or not) a field? The
+writer could draw our attention to the strangeness of the analogy were he to
+mention "mowing a verdant field of study," or better yet, showing someone in
+the process of mowing a field while discussing epistemology (or something along
+these lines). The unexpected transference of properties accentuates and renews
+a familiar image. In what sense could one "mow" a "verdant" "field" of ideas?
+Such unusual juxtapositions renew the peculiarity of the initial metaphor. The
+figure is "made strange" again, in what Shklovsky calls the technique of poetic
+"estrangement" [@shklovksy_sborniki_1917].
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
