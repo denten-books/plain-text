@@ -16,7 +16,22 @@ header-includes:
 # Chapter 5: Engineering for Dissent
 `parity, transparency`
 
+In an ASCII-rendered plain text file, byte count corresponds to character
+count.[^ln-char] Let these words soak in for a moment. I will spend the rest of
+the book unpacking this idea. We will have to come to terms with what "plain
+text," "ASCII," and "bytes" really represent. But for now, a common-sense
+understanding of the terms should be enough to form the intuition that texts
+and characters are units of meaning that make sense to humans; and that bytes,
+by contrast, "make sense" for machines. Remarkably, the two modes of
+meaning-making gain a measure of equivalence under the singular condition of
+plain text (and even then, not always, and with many caveats).[^ln-human],
+[^ln-meaning]
+
 Laws are created to mitigate the new affordances.
+ I will spend much of it at the
+work of "teasing apart" the layers obscuring the underlying structure of the
+textual device, using historical sources, direct observation, and tools
+normally reserved for reverse-engineering of data objects.[^ln5-mechanisms]
 
 ## 5.1 Spooky Action at a Distance
 
@@ -1201,6 +1216,10 @@ mean to make the mechanisms of naked political control visible. For any sort of
 reading to commence, one would first need to peel away the DOMs and the
 OSIs---today a task fraught with legal consequence.
 
+## Living with Complex Systems
+
+The unix idea of plain idea.
+
 ## 5.4 Malicious Code Injection
 
 In presenting canonical models of document structure, it is my hope to convince
@@ -1309,23 +1328,23 @@ immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
 behavior" [@kirschenbaum_mechanisms_2012, 135].
 
-[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+[^ln5-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
-[^ln3-root]: @stoltz_is_2013
+[^ln5-root]: @stoltz_is_2013
 
-[^ln3-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+[^ln5-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
 International Organization for Standardization in 1984, as ISO 7498.
 
-[^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
+[^ln5-layers]: The full OSI protocol stack includes Application, Presentation,
 Session, Transport, Network, Data Link, and Physical layers
 [@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
 @day_revised_1995].
 
-[^ln3-smart]: For examples see @grundy_information_1994;
+[^ln5-smart]: For examples see @grundy_information_1994;
 @kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
 
-[^ln3-plato]: My reading of Plato would be impossible without help from the
+[^ln5-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
 originals side-by-side with translations, maps, dictionaries, and other
 parallel texts. Sources consulted on Plato's theory of forms include
@@ -1333,14 +1352,14 @@ parallel texts. Sources consulted on Plato's theory of forms include
 @woods_form_1993. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
 
-[^ln3-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+[^ln5-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
 @ohmori_memory_2015.
 
-[^ln3-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+[^ln5-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
 Italy."
 
-[^ln3-loom]: These dates, as is usually the case with periodization, are
+[^ln5-loom]: These dates, as is usually the case with periodization, are
 somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
 worker Basile Bouchon used "drill paper" to automate industrial drawlooms
 [@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
@@ -1351,13 +1370,13 @@ his lifelike mechanisms in the mid eighteenth century
 upon and popularized Bouchon's looms on an industrial scale around the same
 time.
 
-[^ln3-reading]: All of the technologies I list here exist today (in the second
+[^ln5-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
 
-[^ln3-translate]: Translations are mine, unless cited otherwise.
+[^ln5-translate]: Translations are mine, unless cited otherwise.
 
-[^ln3-barthes]: "The work is a fragment of substance," he writes. The work is
+[^ln5-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
 space of books," where the text is "a process of demonstration," "experienced
 only in an activity of production." He writes also that "the Text cannot stop
@@ -1365,7 +1384,7 @@ only in an activity of production." He writes also that "the Text cannot stop
 across (in particular, it can cut across the work, several works)"
 [@barthes_work_1978, 156-7].
 
-[^ln3-descartes]: It is difficult to resist quoting from Descartes's
+[^ln5-descartes]: It is difficult to resist quoting from Descartes's
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
 consider the things that people ordinarily think they understand best of all,
 namely the bodies that we touch and see. I don't mean bodies in general---for
@@ -1393,9 +1412,6 @@ meccanico e la sensibilità numerica]
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
-### Works Cited
+
 ### Works Cited
 
-## Living with Complex Systems
-
-The unix idea of plain idea.

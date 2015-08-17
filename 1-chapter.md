@@ -32,9 +32,9 @@ device internalizes legislation in its programming. We obtain the condition
 where the two meanings of code---as governance and program
 instruction---coincide. Code equals code.
 
-The electronic book in my hand is one such device. It is also governed by codes
-both political and computational. And yet, I continue to read the book as if it
-was still an immutable object. I think of it still as an intimate artifact, a
+The electronic book is one such device. It is also governed by codes both
+political and computational. And yet, I continue to read the book as if it was
+still an immutable object. I think of it still as an intimate artifact, a
 friend even: wholly known to me and benign. The literary device is none of
 these things. It records my reading, sleeping, and consumption habits, relaying
 the logs to a third party. It reconfigures itself and "my" texts dynamically,
@@ -43,15 +43,14 @@ reading. The task of this chapter and of the monograph as a whole will be to
 encounter the familiar book anew as a computational device and to deal with the
 outcomes of that shift. It is to imagine a hermeneutics capable of apprehending
 computation. Finally, it is to preserve a sense of human agency in the act of
-interpretation. In this chapter, we will begin by ateempting to fix the
+interpretation. In this chapter, we will begin by attempting to fix the
 location of the literary encounter in order to identify the very object of the
 book's study. I mean "location" in at least two different ways. The first
 entails finding the text in the machine. The second entails the search for
 spaces where such machines operate. Both senses, micro and macro, lead us to a
-historical archive of literary computational devices. Three such devices will
-emerge by the end of the chapter. I suspect they have fundamentally changed the
-nature of reading, but it will take me the rest of the book to confirm that
-suspcision.
+historical archive of literary computational devices. Three such devices, which
+have fundamentally changed the nature of reading, will emerge by the end of the
+chapter.
 
 The formal concept of a "device," widely used in literary studies, is an
 artifact of an unfortunate translation from Russian. The word *priem* would be
@@ -63,17 +62,17 @@ piece of equipment that has been made for a special purpose" (Merriam-Webster).
 mechanism of the metaphor, particularly in cases where such metaphors turn
 "stale," "automatic," and "naturalized," that is, bereft of their original
 poetic and evocative power. One could write, for example, "a field of study,"
-without much thought about figurative space.  Viktor Shklovsky (who coined the
+without much thought about figurative space. Viktor Shklovsky (who coined the
 phrase "laying bare the device [*priem*]") would have the reader pause to
 consider the implications. In which sense ideas resemble (or not) a field? The
-writer could draw our attention to the strangeness of the analogy were he to
-mention "mowing a verdant field of study," or better yet, showing someone in
-the process of mowing a field while discussing epistemology (or something along
-these lines). The unexpected transference of properties accentuates and renews
-a familiar image. In what sense could one "mow" a "verdant" "field" of ideas?
-Such unusual juxtapositions renew the peculiarity of the initial metaphor. The
-figure is "made strange" again, in what Shklovsky calls the technique of poetic
-"estrangement" [@shklovksy_sborniki_1917].
+writer could draw our attention to the strangeness of the analogy by mentioning
+"mowing a verdant field of study," for example, or better yet, by depicting
+someone in the process of mowing a field while discussing epistemology (or
+something along these lines). The unexpected transference of properties
+accentuates and renews a familiar image. In what sense could one "mow" a
+"verdant" "field" of ideas?  Such unusual juxtapositions renew the peculiarity
+of the initial metaphor. The figure is "made strange" again, in what Shklovsky
+calls the technique of poetic "estrangement" [@shklovksy_sborniki_1917].
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
@@ -139,15 +138,11 @@ These reading and writing appliances do not mediate silently: they monitor,
 adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
-in ways that we have only begun to comprehend. And as will become apparent in
-the later sections of this chapter, some structural decisions in the making of
-such devices are explicitly designed to resist tampering, access, or
+in ways that we have only begun to comprehend. And as will gradually become
+apparent for the duration of the book, some structural decisions in the making
+of such devices are explicitly designed to resist tampering, access, or
 interpretation. They obscure the flows of code and codex under the familiar
-guise of surface representation. This chapter will be longer than others,
-because it is central to my argument as a whole. I will spend much of it at the
-work of "teasing apart" the layers obscuring the underlying structure of the
-textual device, using historical sources, direct observation, and tools
-normally reserved for reverse-engineering of data objects.[^ln3-mechanisms]
+guise of surface representation.
 
 ## 1.2 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -175,9 +170,7 @@ surface of removable storage media (ticker tape and punch card); second,
 inscription splits into input and output, retreating into magnetic storage to
 reemerge at last on screen, in the same guise, but also, as we suspect, somehow
 transformed: less solid and concealing something beneath the phantasmal shell
-of its former appearance.[^ln1-denning] We will not travel the length of the
-route in this chapter. Here we only need only to set the grounds that begin the
-journey.
+of its former appearance.[^ln1-denning]
 
 Where does text reside? If you are reading this book in print, you can point to
 the page and be fairly certain of the answer: here, on the page. If you are
@@ -185,11 +178,11 @@ reading the book on a *device*, things get more complicated. You can point to
 the screen and yet it would not be enough to say that the text resides there.
 The screen will go dark when the device loses power, but the text will
 persevere within, stored at another physical location. Deep within a device,
-the text will be embedded into into some sort of a storage medium. Where the
-digital text resides affects even those who prefer to read in print. Like most
-literature today, print materials are also "born digital." At some point of
-time, they occupy the same duplicitous position between storage medium and
-pixel.
+the text will be embedded into into some sort of a storage medium, usually a
+magnetic or a "solid state" drive. Where the digital text resides affects even
+those who prefer to read in print. Like most literature today, print materials
+are also "born digital." At some point of time, they occupy the same
+duplicitous position between storage medium and pixel.
 
 Few readers today will be able to give an account of a pixel's passage from
 keystroke to ink or pixel. The vast machinery that brings literature to life
@@ -221,55 +214,79 @@ gate buried within the solid state drive. Finally, the potential energy
 remaining within the word began a chain of electrical reactions in the reader's
 brain. The mental effort or reading and writing amounts to "knowledge
 work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
-circuitry of at two neurological systems. Reading leaves the brain in a
+circuitry of at least two neurological systems. Reading leaves the brain in a
 different state than before. Writing, in this light, involves the transmission
 of neural activity between hosts. When considered as a physical process,
 literature is a type of electroencephalography (EEG), or electric head writing.
 
 ![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
 
-Ferdinand de Saussure's famous communication circuit (pictured here) follows
-from head to head. The task of *Plain Text* will be to complicate that picture.
-The book traces the passage of a thought into an *inscription* etched into a
-*device*. At each stage, we will observe the process of encoding or decoding,
-by which one type of substance---a thought---is converted into another type, a
-word or the oscillation of an electrical current. I will present here a type of
-a materialist reading practice, which pays attention to the physical properties
-of the communication act. I will give that practice a name, microanalysis, and
-a purpose: to uncover the energy gained or lost in the transformation from code
-to code and from medium to medium. I am concerned with energy because too often
-our foundational models of reading and interpretation take the text as a fixed
-given. Even in our most destabilizing readings, like Jacques Derrida's "Plato's
-Pharmacy", the materiality of the text is assumed to persevere. "We will take
-off here from the *Phaedrus*," Derrida writes [@derrida_dissemination_1981,
-66]. "The reader can count the lines" at the "precisely calculated center of
-the dialogue" [@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida
-a definate beginning, middle, and end.  Derrida asks the reader "to return to
-the text," even when the text "remains forever imepreceptible"
-[@derrida_dissemination_1981, 63 & ].[^ln1-tranlsate] When Derrida talks in
-this usual way of a literary scholar, he uses the word "text" in two distinct
-ways: one, as an abstract metnal constract---the one that is forever
-impreceptible, and the physical one, which has a definite and stable
-topography.
+Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
+here) follows from head to head. The task of *Plain Text* will be to complicate
+that picture by tracing the passage of thought further from *inscription* to a
+*device*. At each stage of the passage, we will observe the process of encoding
+and decoding, by which one type of substance---a thought---is converted into
+another type: a word or the oscillation of an electrical current. I will
+present here a type of a materialist reading practice, which pays attention to
+the physical properties of the communication act. I will give that practice a
+name---microanalysis---and a purpose: to uncover the energy gained or lost in the
+transformation from code to code and from medium to medium.
 
-In the vision of post-structural poetics, the text comprises quicksand of
-unstable signifiers. In other words, we can only define a word with other
-words. Derrida writes about the "dissimulation of the woven texture," and "a
-web that envelops a web," and "an organism, idefinitely reenerating its own
-tissue behind the cutting trace, the decision of each reading"
-[@derrida_dissemination_1981, 63]. In *Plain Text*, I want to challenge the
-stability of the text as a physical artifact, and not just a mental construct.
-By the end of the book, we will see also that much is at stake in the material
-affordances of the literary artifact. The political struggle for meaning-making,
-that is the very opportunity to engage in the activity, begins with the text as
-a physical object. In the West, it is easy to forget the blunt effectiveness of
-physcial control. The inequities of the global access to knowledge are much
-more obvious in the post-colonialr world, were readers must build their own
-infrastructures to preserve minimal access. The
+I am concerned with energy because too often our foundational models of reading
+and interpretation take the text as a fixed given. Even in our most
+destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
+materiality of the text is assumed to persevere. "We will take off here from
+the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
+can count the lines" at the "precisely calculated center of the dialogue"
+[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
+beginning, middle, and end.  Derrida asks the reader "to return to the text,"
+even when the text "remains forever imperceptible"
+[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
+this usual way of a literary scholar, he uses the word "text" in two distinct
+ways: one, as an abstract mental construct---the one that is "forever
+imperceptible," and the physical one, which has a definite and stable
+topography---the one to which we return with confidence.
+
+In the vision of post-structural poetics, the text in the abstract resembles
+the quicksand of unstable signifies. In other words, one can define a word only
+in relation to other words. In this way, Derrida describes texts as
+"dissimulation of the woven texture," "a web that envelops a web," and "an
+organism, indefinitely regenerating its own tissue behind the cutting trace,
+the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
+Text*, I want to further challenge the stability of the text as a physical
+artifact. The literary device reconfigures the text dynamically in the process
+of reading. Because the text is no longer fixed into a stable medium, we must
+do away with page numbers, for example. Pagination changes according to the
+size of the device. More intrusively, the reader cannot rely to encounter the
+same text upon return. The writer, the book seller, or the censor have the
+technological capacity to alter the text in real time, even as the book rests
+in hand or on a shelf.
+
+Much is at stake in the material affordances of the literary artifact. The
+political struggle for meaning-making, that is, the very opportunity to engage
+in the act of interpretation, begins with the text as a material object. In the
+West, it is easy to forget the blunt effectiveness of physical control. Books
+that are burned or locked up cannot be read at all. Global inequities of access
+to knowledge are much more obvious in the post-colonial world, where readers
+print their own books and build their own libraries to preserve access. Witness
+the so-called "shadow libraries" of Eastern Europe [@tenen_book_2014,
+@bodo_short_2014], the street book vendors of India and Pakistan
+[@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat* press of
+Nigeria under the conditions that have been described as "book famine"
+[@okiy_photocopying_2005, @nkiko_book_2014]. Yet despite the hardship, these
+practices are at least engaged in the proactive preservation of the literary
+sphere. Shadow libraries erect architectures of knowledge and create reading
+publics who own the means of textual diffusion. They make copies, write server
+software that aids in the distribution, and build archives.
+Elsewhere---here---such infrastructures are created for us. Consequently, they
+disappear from view. If indeed my intuition is correct and readers do not know
+what books are, how they are made, or what they are capable of, we are all
+living under the conditions of profound alienation. The alienation remains
+benign as long as we trust in the 
 
 [^ln1-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
-In the case of *Phaedrus*, the tranlation is by Leon Robin. We will continue to
+In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
 71]."
 
@@ -329,7 +346,7 @@ transforms into a (not yet critical) practice of rapid, iterative, generative
 canon-making. Whatever ideals motivate close reading between "text" and "work"
 surely must drive the process on the level of dynamic corpus composition.
 
-Examples of macroanalysis.  The various practices of distant reading arise from
+Examples of macroanalysis. The various practices of distant reading arise from
 the condition in which canons are no longer accessible, in their entirety, to
 the unaided (natural) human intellect. These include distant reading and
 macroanalysis in literary studies [@jockers_macroanalysis_2013;
@@ -344,17 +361,9 @@ machine learning [@rasmussen_gaussian_2006; @flach_machine_2012], network
 analysis [@opsahl_node_2010; @szell_measuring_2010; @takhteyev_geography_2012],
 and topic modeling [@wallach_topic_2006; @blei_probabilistic_2012].
 
-*Plain Text* compliments distant reading on yet another scale of analysis. The
-book is structured along a trajectory that begins at the material foundations
-of modern textual technology, moving from the stratum of circuit and silicon to
-reach up, through layers of abstraction (files, folders, and operating
-systems), towards the reader. In following that path, I aim to make visible
-material conditions of knowledge production that give rise higher order
-phenomena like pixels, letters, words, books, and literature. In developing
-such an approach to the study of textual phenomena, my book introduces a method
-of literary microanalysis. Where distant reading perceives patterns across
-large-scale corpora, microanalysis breaks literary systems down to their minute
-constituent components.
+Where distant reading perceives patterns across large-scale corpora,
+microanalysis breaks literary systems down to their minute constituent
+components.
 
 ![Micro, macro, and close reading.](images/micro.png)
 
@@ -412,25 +421,7 @@ encounter. Yet the point of contact is crucial, for it is here that the subject
 seems to disappear, in a compressed moment of time that needs to be unpacked
 with some precision.
 
-Come back to vocab. Not the difficulty of obscurity unfamiliar. Ima guide you
-through it. I care.
-
-
-In an ASCII-rendered plain text file, byte count corresponds to character
-count.[^ln-char] Let these words soak in for a moment. I will spend the rest of
-the book unpacking this idea. We will have to come to terms with what "plain
-text," "ASCII," and "bytes" really represent. But for now, a common-sense
-understanding of the terms should be enough to form the intuition that texts
-and characters are units of meaning that make sense to humans; and that bytes,
-by contrast, "make sense" for machines. Remarkably, the two modes of
-meaning-making gain a measure of equivalence under the singular condition of
-plain text (and even then, not always, and with many caveats).[^ln-human],
-[^ln-meaning]
-
-
-
-
-## 1.4 Where will we find it? Everywhre
+## 1.4 Where will we find it? Everywhere
 
 1. Methodologically, materialism of the sort described above has naturally led me
 to sociological approaches to the study of knowledge formation. In a study on
@@ -441,7 +432,7 @@ a laboratory functions as a factory of sorts, ingesting matter and artifact to
 produce fact and inscription, beyond simplistic notions of knowledge-making and
 discovery [@latour_laboratory_1986]. A cite of production. 
 
-Why am I readin Ltour. Becaue latour gives us a way to see much lit.
+Why am I reading Ltour. Because latour gives us a way to see much lit.
 
 Although much cited in the study of culture, science, and technology,
 *Laboratory Life* has had less of an impact on the study of literature, even
@@ -507,13 +498,13 @@ words a day. At 250 words per page, that is around 402 printed pages.  Between
 the years of 1980 and 2008, the consumption of information in bytes---a measure
 that would obviously privilege storage-heavy content like sound and
 video---grew at a modest 5.4 percent per year. Reading, in decline until the
-advent of the internet, has tripled in the same period.  Reading in print
-accounted for 26 percent of verbal information consumed in
-1960. That number fell to 9 percent in 2008, but the consumption of words
-      digitally increased to 27 percent of total consumption, which means that
-reading has increased its share of the overall household attention span
-[@bohn_how_2009; @hilbert_worlds_2011; @hilbert_info_2012]. The first decade of
-the twenty-first century saw a 20 percent increase in library visitation
+advent of the internet, has tripled in the same period. Reading in print
+accounted for 26 percent of verbal information consumed in 1960. That number
+fell to 9 percent in 2008, but the consumption of words digitally increased to
+27 percent of total consumption, which means that reading has increased its
+share of the overall household attention span [@bohn_how_2009;
+@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the twenty-first
+century saw a 20 percent increase in library visitation
 [@u.s._institute_of_museum_and_library_services_public_2010]. According to
 UNESCO data, literacy rates continue to rise globally, as the world calibrates
 imbalances of access along the lines of gender and geography
