@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 2: Literature Down to the Pixel"
+subtitle: "Chapter 1: Literature Down to the Pixel"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \newcommand{\sectionbreak}{\clearpage}
-- \rhead{DRAFT (please do not distribute)}
+- \rhead{DRAFT | do not circulate )}
 - \lhead{}
 
 ---
@@ -159,20 +159,24 @@ writing appliances do not mediate silently: they monitor, adjust, warn, and
 control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
-in ways that we have only begun to comprehend. The material affordances of the
-device influence the possibilities of interpretation.[^ln1-rmedium] Our
-theories of interpretation are built on several key assumptions attached to
-print media.  For example, in Hans-Georg Gadamer's seminal conception of art,
-the free play of the artistic mind is transformed into structure (*Gebilde)
-that is both "repeatable" and "permanent" [@gadamer_truth_1975, 110].
-Similarly, in *Interpretation Theory*, Paul Ricoeur writes about the "range of
-social and political changes" related to the invention of writing. Human
-discourse is "fixed" and thereby "preserved from destruction" in writing
-[@ricur_interpretation_1976, 26-8]. As will gradually become apparent for the
-duration of the book, the design choices that making of such devices are
-explicitly designed to resist tampering, access, or interpretation.  They
-obscure the flows of code and codex under the familiar guise of surface
-representation.
+structures in ways that we have only begun to comprehend. The material
+affordances of a textual device influence all higher-level functions of
+interpretation.[^ln1-rmedium] Our theories of interpretation are built on
+several key assumptions attached to print media. For example, in Hans-Georg
+Gadamer's seminal conception of art, the free play of the artistic mind is
+transformed into structure (*Gebilde) that is both "repeatable" and "permanent"
+[@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
+writes about the "range of social and political changes" related to the
+invention of writing. Human discourse is "fixed" and thereby "preserved from
+destruction" in writing [@ricur_interpretation_1976, 26-8]. The literary device
+offers no such permanence. It contains inscription of a qualitatively different
+kind from writing. Based on the blueprints for the universal Turing machine,
+the outlines of which will gradually come into focus, the reading device
+emulates a book. The engineering of literary artifacts conceal a number of
+design choices, that obscure the flows of code and codex under the familiar
+guise of surface representation. The digital book is not just a book. It is a
+machine--chameleon that serves other masters and other functions in the guise
+of a book.
 
 [^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
 from speaking to writing: "The most obvious change from speaking to writing
