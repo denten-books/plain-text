@@ -20,8 +20,6 @@ header-includes:
 
 # Chapter 1: Laying Bare the Device
 
-## 1.1 Literary Device as Gadget and Technique
-
 As I write these words, a ceiling-mounted smoke detector in the hallway outside
 of my apartment emits a shrill squeal every three minutes or so. And at every
 15 minutes, a pleasant female voice announces also "low battery." These
@@ -49,21 +47,23 @@ work, we must first locate its object of study. I mean "locate" in two
 complementary senses of the word. The first entails finding the text in the
 machine. Device reading happens on a screen which refreshes itself at a rate of
 60 cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. We will have to dig deeper to find the source for what is seen on
+ephemeral. We will have to dig deeper to find the source for what flashes on
 the screen. The second sense of "location" entails the search for spaces where
 literary devices operate. Note that I do not write "computers" or "electronic
 books." Literary devices are those machines that in themselves constitute a
 system for textual diffusion. They facilitate symbolic exchange.
 
 Both senses of locality, micro and macro, lead us to an archive in the history
-of literary computing.  With the above definitions in mind, I will argue that
+of literary computing. With the above definitions in mind, I will argue that
 all computing is in part a literary activity in that it participates in the
 circulation of written texts. We can therefore read the device as we would any
 other form of literature. More than "can," I will later argue for an ethics of
 computational reading, by which the device internals *must* be made available
-for analysis. Three devices, which have fundamentally changed the nature of the
+for analysis. Three devices that have fundamentally changed the nature of the
 literary encounter (reading and writing), will emerge by the end of the
 chapter.
+
+## 1.1 Literary Device as Gadget and Technique
 
 The formal concept of a "device," widely used in literary studies, is an
 artifact of an unfortunate translation from Russian. The word *priem* would be
@@ -71,21 +71,21 @@ much better translated as "technique," in the sense of "method," "approach," or
 "procedure." The word "device" contains these meanings as well, but in modern
 usage, it usually carries a concrete connotation, as "an object, machine, or
 piece of equipment that has been made for a special purpose" (Merriam-Webster).
-"Laying bare the device," for Shklovsky, meant making explicit the implicit
-mechanism of the metaphor, particularly in cases where such metaphors turn
-"stale," "automatic," and "naturalized," that is, bereft of their original
-poetic and evocative power. One could write, for example, "a field of study,"
-without much thought about figurative space. Viktor Shklovsky (who coined the
-phrase "laying bare the device [*priem*]") would have the reader pause to
-consider the implications. In which sense ideas resemble (or not) a field? The
-writer could draw our attention to the strangeness of the analogy by mentioning
-"mowing a verdant field of study," for example, or better yet, by depicting
-someone in the process of mowing a field while discussing epistemology (or
-something along these lines). The unexpected transference of properties
-accentuates and renews a familiar image. In what sense could one "mow" a
-"verdant" "field" of ideas?  Such unusual juxtapositions renew the peculiarity
-of the initial metaphor. The figure is "made strange" again, in what Shklovsky
-calls the technique of poetic "estrangement" [@shklovksy_sborniki_1917].
+"Laying bare the device," for Viktor Shklovsky, who coined the phrase, meant
+making explicit the implicit mechanism of the metaphor, particularly in cases
+where such metaphors turn "stale," "automatic," and "naturalized," that is,
+bereft of their original poetic and evocative power. One could write, for
+example, "a field of study," without much thought about figurative space.
+Shklovsky would have the reader pause to consider the implications. In which
+sense ideas resemble (or not) a field? The writer could draw our attention to
+the strangeness of the analogy by mentioning "mowing a verdant field of study,"
+for example, or better yet, by depicting someone in the process of mowing a
+field while discussing epistemology (or something along these lines). The
+unexpected transference of properties accentuates and renews a familiar image.
+In what sense could one "mow" a "verdant" "field" of ideas?  Such unusual
+juxtapositions renew the peculiarity of the initial metaphor. The figure is
+"made strange" again, in what Shklovsky calls the technique of poetic
+"estrangement" [@shklovksy_sborniki_1917].
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
