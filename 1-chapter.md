@@ -37,31 +37,31 @@ artifact, a friend even: wholly known to me and benign. The literary device is
 none of these things. It records my reading, sleeping, and consumption habits,
 relaying the logs to a third party. It reconfigures itself and "my" texts
 dynamically, at will. It comes with a manual and terms of service. In short, it
-*legislates* reading.
+*governs* reading.
 
 The task of *Plain Text* will be to encounter the book anew, as a computational
-device and to deal with the outcomes of that shift. It is to imagine a
-hermeneutics capable of apprehending literary computation. Finally, it is to
-preserve a sense of human agency in the interpretive act. To commence that
-work, we must first locate its object of study. I mean "locate" in two
-complementary senses of the word. The first entails finding the text in the
-machine. Device reading happens on a screen which refreshes itself at a rate of
-60 cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. We will have to dig deeper to find the source for what flashes on
-the screen. The second sense of "location" entails the search for spaces where
-literary devices operate. Note that I do not write "computers" or "electronic
-books." Literary devices are those machines that in themselves constitute a
-system for textual diffusion. They facilitate symbolic exchange.
+device. It is to imagine a hermeneutics capable of apprehending literary
+computation. Finally, it is to preserve a sense of human agency in the
+interpretive act. To commence that work, we must first locate its object of
+study. I mean "locate" in two complementary senses of the word. The first
+entails finding the text in the machine. Device reading happens on screen which
+refreshes itself at a rate of 60 cycles per second (Hertz). Screen textuality
+is therefore by definition ephemeral. We will have to dig deeper to find the
+source for text that flashes on the screen. The second sense of "location"
+entails the search for spaces where literary devices operate. Note that I do
+not write "computers" or "electronic books." Literary devices are those
+machines that in themselves constitute a system for textual diffusion. They
+facilitate symbolic exchange.
 
 Both senses of locality, micro and macro, lead us to an archive in the history
 of literary computing. With the above definitions in mind, I will argue that
-all computing is in part a literary activity in that it participates in the
-circulation of written texts. We can therefore read the device as we would any
-other form of literature. More than "can," I will later argue for an ethics of
-computational reading, by which the device internals *must* be made available
-for analysis. Three devices that have fundamentally changed the nature of the
-literary encounter (reading and writing), will emerge by the end of the
-chapter.
+all computing incorporates literary activity, in so far as it participates in
+the circulation of written texts. We can therefore read the device as we would
+any other form of literature. More than "can," I will later argue for an ethics
+of computational reading, by which the device internals *must* be made
+available for analysis. Three devices that have fundamentally changed the
+nature of the literary encounter (reading and writing), will emerge by the end
+of the chapter.
 
 ## 1.1 Literary Device as Gadget and Technique
 
@@ -82,14 +82,14 @@ the strangeness of the analogy by mentioning "mowing a verdant field of study,"
 for example, or better yet, by depicting someone in the process of mowing a
 field while discussing epistemology (or something along these lines). The
 unexpected transference of properties accentuates and renews a familiar image.
-In what sense could one "mow" a "verdant" "field" of ideas?  Such unusual
+In what sense could one "mow" a "verdant" "field" of ideas? Such unusual
 juxtapositions renew the peculiarity of the initial metaphor. The figure is
 "made strange" again, in what Shklovsky calls the technique of poetic
 "estrangement" [@shklovksy_sborniki_1917].
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
-metaphor, in drawing attention to its implicit, inner dynamics. Vladimir
-Nabokov, a writer conspicuously aware of the formalist theoretical heritage,
+metaphor by drawing attention to its implicit, inner dynamics. Vladimir
+Nabokov, a writer conspicuously aware of his literary--theoretical heritage,
 makes use of this move consistently and with relentless clinical precision. In
 the short story "A Guide to Berlin," to which D. Barton Johnson attributes our
 first glimpse at Nabokov's "mature virtuoso style [@johnson_guide_1979, 354],"
@@ -115,47 +115,74 @@ The tightly wound vignette takes the formalist programmatic concern with
 The pipes can be read as a metaphor for the literary device. Usually found
 beneath the street, they now sit idle and visible above the surface. Yet even
 when exposed, the device fails to captivate for long. Disused, it passes out
-sight, covered in snow. The narrator "probes the glaze" of the street,
-penetrating through to the surface level and in this also finds a palindrome,
-which not only resembles the pipes visually, but is in itself a
-surface-revealing inscription that makes pipe surface visible again, through
-the snow. Although the metaphoric pipe cannot reach beyond the page, the
-mimetic surface inscription draws attention to the word's visual shape and
-acoustics, inviting readers to perform the symmetry of its assonance and
-consonance. The reader forms the named round vowels and mouths its obstruents.
-"Otto" contorts the body to shape it in accordance with the sound image:
-reverse mimesis, the body as sound pipe. The moment of corporeal reenactment
-briefly transcends representational and paper-bound confines of the medium. The
-performance makes the "making of the literary technique obvious," obvious. In
-this lies the prevalent characteristic of Nabokov's mature work, which often
-seeks to lift off of the page through sheer recursion of literary technique,
-where each successive turn of the abstraction brings the word closer to the
-reader.
+sight, covered in snow. Concerned with surfaces, the narrator "probes the
+glaze" of the street. He finds a palindrome written in snow. "Otto" not only
+resembles the pipes visually, but is in itself a surface-revealing inscription
+that makes the pipes visible again, through the snow. Although the metaphoric
+pipe cannot reach beyond the page, the mimetic surface inscription draws
+attention to the word's visual shape and acoustics. It invites readers to
+perform the symmetry of its assonance and consonance as they pronounce the
+word. The round vowels and the interrupting obstruents of "Otto" contort the
+body in accordance with the sound image: reverse mimesis, the body as sound
+pipe. The moment of corporeal reenactment briefly transcends representational
+and paper-bound confines of the medium. The performance makes the "making of
+the literary technique obvious," obvious. In this lies the prevalent
+characteristic of Nabokov's mature work, which often seeks to lift off of the
+page through sheer recursion of literary technique, where each successive turn
+of the abstraction brings the word closer to the reader.
 
-Yet for all the language games, literary technique in the sense used by the
-formalists remains tied to the medium. Say someone were to ask: What lies
-beneath the text? The literal answer would have to be: paper or furniture.
-Reading for surface or depth at the level of representation can only begin to
-approach the material conditions of textual dissemination. Language contains
-traces of labor and implement implicit in the writing, binding, and the
-distribution of printed material. In this chapter, I would like to take the
-formalist program one step further, off of the page. My interests lie in books
-and documents as literal devices. When asked in the context of book history,
-the question of surface gains an instrumental dimension. Physical affordances
-of liquid crystal displays and magnetic storage differ drastically from those
-of goat skins or parchment. Yet surface representation maintains the illusion
-of self-similarity. I am concerned here with the particularities of that
-illusion. A poem, a novel, a physician's script, or a legal contract all still
-look like their paper counterparts, but increasingly they behave like gadgets.
-These reading and writing appliances do not mediate silently: they monitor,
-adjust, warn, and control.
+Yet for all the language games, the formalist conception of a literary device
+fails to reach the materiality of the written word. The formalists were
+primarily concerned with structure and sound.[^ln1-formal] Paper, the literal
+substance intervening between the two, remained for them a transparent medium.
+Concerned with the stripping of surfaces, the formalist and later the new
+critical research program stopped at the representational layer of the literary
+figure. In *Plain Text*, I would like to take the formalist program one step
+further, bringing it closer to a truly materialist poetics.
+
+My interests lie in books and documents as literal devices. When asked in the
+context of media history, the question of literary surfaces gains an
+instrumental dimension.  Physical affordances of liquid crystal displays and
+magnetic storage differ drastically from those of goat skins or parchment. Yet
+surface representation maintains the illusion of self-similarity. We are faced
+with with what is called *isomorphic* design, by which the digital page
+resembles print. That resemblance is in itself an unexamined metaphor. The
+principles of isomorphic design are meant to extend a visual metaphor from one
+medium to another. The reader already knows how to turn pages, for example. A
+book device therefore simulates pages to ease the cognitive transition to the
+new medium. But there is nothing page-like on the device. The metaphor conceals
+the structural rift between between paper and screen technology. I am concerned
+throughout with the particularities of that metaphor. A digital poem, a novel,
+a physician's script, or a legal contract all still look like their paper
+counterparts, but increasingly they behave like gadgets. These reading and
+writing appliances do not mediate silently: they monitor, adjust, warn, and
+control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
-in ways that we have only begun to comprehend. And as will gradually become
-apparent for the duration of the book, some structural decisions in the making
-of such devices are explicitly designed to resist tampering, access, or
-interpretation. They obscure the flows of code and codex under the familiar
-guise of surface representation.
+in ways that we have only begun to comprehend. The material affordances of the
+device influence the possibilities of interpretation.[^ln1-rmedium] Our
+theories of interpretation are built on several key assumptions attached to
+print media.  For example, in Hans-Georg Gadamer's seminal conception of art,
+the free play of the artistic mind is transformed into structure (*Gebilde)
+that is both "repeatable" and "permanent" [@gadamer_truth_1975, 110].
+Similarly, in *Interpretation Theory*, Paul Ricoeur writes about the "range of
+social and political changes" related to the invention of writing. Human
+discourse is "fixed" and thereby "preserved from destruction" in writing
+[@ricur_interpretation_1976, 26-8]. As will gradually become apparent for the
+duration of the book, the design choices that making of such devices are
+explicitly designed to resist tampering, access, or interpretation.  They
+obscure the flows of code and codex under the familiar guise of surface
+representation.
+
+[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
+from speaking to writing: "The most obvious change from speaking to writing
+concerns the relation between message and its medium or channel. At first
+glance, it concerns only this relation, but upon closer examination, the first
+alteration irradiates in every direction, affecting in decisive manner all the
+factors and functions" [@ricur_interpretation_1976, 25].
+
+[^ln1-formal]: I discuss the idea of form as structure and sound in greater
+detail in Chapter 3.
 
 ## 1.2 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -252,7 +279,7 @@ materiality of the text is assumed to persevere. "We will take off here from
 the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
 can count the lines" at the "precisely calculated center of the dialogue"
 [@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
-beginning, middle, and end.  Derrida asks the reader "to return to the text,"
+beginning, middle, and end. Derrida asks the reader "to return to the text,"
 even when the text "remains forever imperceptible"
 [@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
 this usual way of a literary scholar, he uses the word "text" in two distinct
@@ -294,8 +321,7 @@ software that aids in the distribution, and build archives.
 Elsewhere---here---such infrastructures are created for us. Consequently, they
 disappear from view. If indeed my intuition is correct and readers do not know
 what books are, how they are made, or what they are capable of, we are all
-living under the conditions of profound alienation. The alienation remains
-benign as long as we trust in the 
+operating under the conditions of profound alienation.
 
 [^ln1-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
