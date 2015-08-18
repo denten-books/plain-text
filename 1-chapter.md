@@ -34,22 +34,35 @@ instruction---coincide. Code equals code.
 
 The electronic book is one such device. It is also governed by codes both
 political and computational. And yet, I continue to read the book as if it was
-still an immutable object. I think of it still as an intimate artifact, a
-friend even: wholly known to me and benign. The literary device is none of
-these things. It records my reading, sleeping, and consumption habits, relaying
-the logs to a third party. It reconfigures itself and "my" texts dynamically,
-at will. It comes with a manual and terms of service. In short, it *legislates*
-reading. The task of this chapter and of the monograph as a whole will be to
-encounter the familiar book anew as a computational device and to deal with the
-outcomes of that shift. It is to imagine a hermeneutics capable of apprehending
-computation. Finally, it is to preserve a sense of human agency in the act of
-interpretation. In this chapter, we will begin by attempting to fix the
-location of the literary encounter in order to identify the very object of the
-book's study. I mean "location" in at least two different ways. The first
-entails finding the text in the machine. The second entails the search for
-spaces where such machines operate. Both senses, micro and macro, lead us to a
-historical archive of literary computational devices. Three such devices, which
-have fundamentally changed the nature of reading, will emerge by the end of the
+still an immutable, passive object. I think of it still as an intimate
+artifact, a friend even: wholly known to me and benign. The literary device is
+none of these things. It records my reading, sleeping, and consumption habits,
+relaying the logs to a third party. It reconfigures itself and "my" texts
+dynamically, at will. It comes with a manual and terms of service. In short, it
+*legislates* reading.
+
+The task of *Plain Text* will be to encounter the book anew, as a computational
+device and to deal with the outcomes of that shift. It is to imagine a
+hermeneutics capable of apprehending literary computation. Finally, it is to
+preserve a sense of human agency in the interpretive act. To commence that
+work, we must first locate its object of study. I mean "locate" in two
+complementary senses of the word. The first entails finding the text in the
+machine. Device reading happens on a screen which refreshes itself at a rate of
+60 cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. We will have to dig deeper to find the source for what is seen on
+the screen. The second sense of "location" entails the search for spaces where
+literary devices operate. Note that I do not write "computers" or "electronic
+books." Literary devices are those machines that in themselves constitute a
+system for textual diffusion. They facilitate symbolic exchange.
+
+Both senses of locality, micro and macro, lead us to an archive in the history
+of literary computing.  With the above definitions in mind, I will argue that
+all computing is in part a literary activity in that it participates in the
+circulation of written texts. We can therefore read the device as we would any
+other form of literature. More than "can," I will later argue for an ethics of
+computational reading, by which the device internals *must* be made available
+for analysis. Three devices, which have fundamentally changed the nature of the
+literary encounter (reading and writing), will emerge by the end of the
 chapter.
 
 The formal concept of a "device," widely used in literary studies, is an
