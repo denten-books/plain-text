@@ -1,7 +1,7 @@
 
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 4: Artificial Authenticity"
+subtitle: "Chapter 4: Copy Authenticity"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -24,6 +24,35 @@ Bring in Trilling? Digitality as something imposed from without or imposed on
 us! Because the book is different it fucks with authenticity.
 ## Gerard Genette and Nelson Goodman on the nature of textual copies,
 
+## 3.4 Hyper Erudition
+
+Writing on the state of
+twenty-first century poetics Craig Dowrkin speaks about poetry's "Malthusian limit."
+"Bound by discreptant rates of production and consumption, the readerly economy
+of poetry in the twenty-first century cannot avoid a catastrophic calculus: the
+rate of consumption quickly hits an arithmetic limit (any one person can only
+read so much), but the rate of production is increasing geometrically"
+[@dworkin_seja_2008, 9].
+
+Flattening of the knowledge realm.
+https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
+
+Impact on the study of textual artifact. If are are to take the hypothesis of
+extended cognition seriously, we must treat the tools of cognitive augmentation
+as seriously as we would our own mental development, in the traditional sense.
+
+The flattening of the knowledge realm. It is not the absence of topography. It
+is our ability to readily perceive topography, and to place ourselves within
+that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
+The surgeon should get more money because of the subjective experience of
+cutting people up. That part does not transfer. The technical literature is
+actually quite understandable. Incommensurability of subjective experience.
+Commensurability of knowledge. The fundamental problem of modern world is the
+problem of expertise.
+
+http://word.mvps.org/faqs/general/wordvswordperfect.htm
+http://wptoolbox.com/tips/MSWordToWP.html
+modal vs. other kinds of processing
 5.2 Copy Text (textual criticism)
 
 The division of text into form and content makes a difference in more

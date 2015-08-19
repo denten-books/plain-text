@@ -1,52 +1,12 @@
 ## Odds and Ends
 
-## 3.4 Hyper Erudition
-
-Writing on the state of
-twenty-first century poetics Craig Dowrkin speaks about poetry's "Malthusian limit."
-"Bound by discreptant rates of production and consumption, the readerly economy
-of poetry in the twenty-first century cannot avoid a catastrophic calculus: the
-rate of consumption quickly hits an arithmetic limit (any one person can only
-read so much), but the rate of production is increasing geometrically"
-[@dworkin_seja_2008, 9].
-
-Flattening of the knowledge realm.
-https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
-
-Impact on the study of textual artifact. If are are to take the hypothesis of
-extended cognition seriously, we must treat the tools of cognitive augmentation
-as seriously as we would our own mental development, in the traditional sense.
-
-The flattening of the knowledge realm. It is not the absence of topography. It
-is our ability to readily perceive topography, and to place ourselves within
-that discourse. The knowledge of the mechanic vs. the knowledge of a surgeon.
-The surgeon should get more money because of the subjective experience of
-cutting people up. That part does not transfer. The technical literature is
-actually quite understandable. Incommensurability of subjective experience.
-Commensurability of knowledge. The fundamental problem of modern world is the
-problem of expertise.
-
-http://word.mvps.org/faqs/general/wordvswordperfect.htm
-http://wptoolbox.com/tips/MSWordToWP.html
-modal vs. other kinds of processing
-
-### Works Cited
 
 ### Infinity
-See also @siegert_cacography_2011: "The step leading to from an analog, infinite set of signals to a finite and
-limitable set of selectible signals." Also Max Bense, Information Aesthetics.
 
-### Text
+See also @siegert_cacography_2011: "The step leading to from an analog,
+infinite set of signals to a finite and limitable set of selectible signals."
+Also Max Bense, Information Aesthetics.
 
-Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
-and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
-text is an "ordered hierarchy of content objects" [@derose]. Goodman and
-Genette.
-
-[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
-for resemblance between documents" 
-
-Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
 
 ### Scratch Collector
@@ -153,6 +113,7 @@ transform humanity. For Hegel, true art reaches for truth beyond visible forms,
 transcending the deterministic material universe. The early formalists rejected
 Hegel, emphasizing instead the text's outward formal properties as "devices"
 capable of revitalizing stale metaphors and ossified ways of thinking.
+
 ### Images note used
 
 ![Universal Turing machine as a device. Reconstructed by Mike Davey, circa

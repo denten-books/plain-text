@@ -21,6 +21,17 @@ header-includes:
 # Chapter 3: Control
 Keywords: `content, form, formula, formatting`
 
+### Text
+
+Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
+and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
+text is an "ordered hierarchy of content objects" [@derose]. Goodman and
+Genette.
+
+[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
+for resemblance between documents" 
+
+Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
 ## 3.3 Form as Concrete and Universal
 
@@ -727,6 +738,7 @@ of abstract objects."
 Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
+
 
 
 ## Works Cited
