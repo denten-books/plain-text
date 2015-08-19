@@ -20,38 +20,51 @@ header-includes:
 
 # Chapter 1: Laying Bare the Device
 
-As I write these words, a ceiling-mounted smoke detector in the hallway outside
-of my apartment emits a shrill squeal every three minutes or so. And at every
-15 minutes, a pleasant female voice announces also "low battery." These
-precautions are stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013).
-The clause requiring a "distinct audible signal before the battery is incapable
-of operating" is not only required by law, it is *built into the device*. The
-device internalizes legislation in its programming. We obtain the condition
-where the two meanings of code---as governance and program
-instruction---coincide. Code equals code.
+As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
+loud noise every three minutes or so. And at every 15 minutes, a pleasant
+female voice announces also "low battery." These precautions are stipulated by
+US National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
+"distinct audible signal before the battery is incapable of operating" is not
+only required by law, it is *built into the device*. The device internalizes
+legislation in its programming. We obtain the condition where the two meanings
+of code---as governance and program instruction---coincide. Code equals code.
 
-The electronic book is one such device. It is also governed by codes both
-political and computational. And yet, I continue to read the book as if it was
-still an immutable, passive object. I think of it still as an intimate
-artifact, a friend even: wholly known to me and benign. The literary device is
-none of these things. It records my reading, sleeping, and consumption habits,
-relaying the logs to a third party. It reconfigures itself and "my" texts
-dynamically, at will. It comes with a manual and terms of service. In short, it
-*governs* reading.
+I am not at home. But I know the alarm is happening because I receive
+notifications of it on another small computational device, next to my laptop.
+This device also contains most of my library. Despite the appearances, the
+electronic book on my desk has more in common with the smoke detector than it
+does with several paper volumes also scattered across my desk. Both devices
+embody printed circuit boards, capacitors, silicone chips, and resistors. Both
+draw electric current. Both require firmware updates. Both are connected to the
+network and both communicate, with remote data centers unknown to me and with
+each other. Both are governed by codes political and computational. And yet, I
+continue to read books as if they were still that familiar, immutable, passive
+objects: just books. I think of them still as intimate artifacts, friends even,
+wholly known to me, comforting, and benign. The literary device is none of
+these things. It records my reading, sleeping, and consumption habits. It
+reconfigures itself and "my" texts dynamically. It comes with a manual and
+terms of service. In short, it *governs* reading.
 
-The task of *Plain Text* will be to encounter the book anew, as a computational
-device. It is to imagine a hermeneutics capable of apprehending literary
-computation. Finally, it is to preserve a sense of human agency in the
-interpretive act. To commence that work, we must first locate its object of
-study. I mean "locate" in two complementary senses of the word. The first
-entails finding the text in the machine. Device reading happens on screen which
-refreshes itself at a rate of 60 cycles per second (Hertz). Screen textuality
-is therefore by definition ephemeral. We will have to dig deeper to find the
-source for text that flashes on the screen. The second sense of "location"
-entails the search for spaces where literary devices operate. Note that I do
-not write "computers" or "electronic books." Literary devices are those
-machines that in themselves constitute a system for textual diffusion. They
-facilitate symbolic exchange.
+In this book, we will encounter the literary artifact anew, discovering its
+possibilities as a device. We will imagine a hermeneutics capable of
+apprehending the emerging contingencies of literary computation. Finally, in
+*Plain Text*, I will argue for the preservation of human agency in the many
+everyday acts of human--computer interaction.
+
+The purpose of this chapter is to locate the object of literary study. I mean
+"object" literally, as a material thing that can be seen and touched. This is
+not a trivial task when it comes to digital literary artifacts.[^ln1-artifact]
+Device reading happens on screens that refresh theselves at a rate of around 60
+cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. We will have to dig deeper to find the text in the machine.
+Furthermore, the search for the literary artifact entails finding spaces of
+computational literary activity. Literary devices are those machines that in
+themselves constitute a system for textual diffusion. They facilitate symbolic
+exchange and they do so in distinct textual markets or ecosystems. The
+ecosystem of aesthetic discourse is one such market. But I am interested in
+others as well. The film studio, the hospital, the court house, the university:
+these are all locations of distinct literary activity. They are systems that
+propagate localized notions of document, style, authorship, value, and canon.
 
 Both senses of locality, micro and macro, lead us to an archive in the history
 of literary computing. With the above definitions in mind, I will argue that
