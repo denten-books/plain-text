@@ -53,60 +53,79 @@ everyday acts of human--computer interaction.
 
 The purpose of this chapter is to locate the object of literary study. I mean
 "object" literally, as a material thing that can be seen and touched. This is
-not a trivial task when it comes to digital literary artifacts.[^ln1-artifact]
-Device reading happens on screens that refresh theselves at a rate of around 60
-cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. We will have to dig deeper to find the text in the machine.
-Furthermore, the search for the literary artifact entails finding spaces of
-computational literary activity. Literary devices are those machines that in
-themselves constitute a system for textual diffusion. They facilitate symbolic
-exchange and they do so in distinct textual markets or ecosystems. The
-ecosystem of aesthetic discourse is one such market. But I am interested in
-others as well. The film studio, the hospital, the court house, the university:
-these are all locations of distinct literary activity. They are systems that
-propagate localized notions of document, style, authorship, value, and canon.
+not a trivial task when it comes to digital literary artifacts. Device reading
+happens on screens that refresh theselves at a rate of around 60 cycles per
+second (Hertz). Screen textuality is therefore by definition ephemeral. We will
+have to dig deeper to find the text in the machine. Furthermore, the search for
+the literary artifact entails finding spaces of computational literary
+activity. Literary devices are those machines that in themselves constitute a
+system for textual diffusion. They facilitate symbolic exchange and they do so
+in diverse textual ecosystems. The ecosystem of aesthetic discourse is one such
+market of exchange. But I am interested in others as well. The film studio, the
+hospital, the court house, the university: these are all locations of distinct
+literary activity. They are systems that propagate localized notions of
+document, style, authorship, value, and canon.
 
 Both senses of locality, micro and macro, lead us to an archive in the history
-of literary computing. With the above definitions in mind, I will argue that
-all computing incorporates literary activity, in so far as it participates in
-the circulation of written texts. We can therefore read the device as we would
-any other form of literature. More than "can," I will later argue for an ethics
-of computational reading, by which the device internals *must* be made
-available for analysis. Three devices that have fundamentally changed the
-nature of the literary encounter (reading and writing), will emerge by the end
-of the chapter.
+of literary computation. With the above definitions in mind, I will also
+maintain that all computing incorporates literary activity, in so far as it
+participates in the circulation of written texts. We can therefore read the
+device as we would other forms of literature. More than "can," I will argue for
+an ethics of computational reading, by which the device internals *must* be
+made available for analysis. Three such devices, which have fundamentally
+changed the nature of the literary encounter, will emerge by the end of this
+chapter.
 
 ## 1.1 Literary Device as Gadget and Technique
 
-The formal concept of a "device," widely used in literary studies, is an
-artifact of an unfortunate translation from Russian. The word *priem* would be
-much better translated as "technique," in the sense of "method," "approach," or
-"procedure." The word "device" contains these meanings as well, but in modern
-usage, it usually carries a concrete connotation, as "an object, machine, or
-piece of equipment that has been made for a special purpose" (Merriam-Webster).
-"Laying bare the device," for Viktor Shklovsky, who coined the phrase, meant
-making explicit the implicit mechanism of the metaphor, particularly in cases
-where such metaphors turn "stale," "automatic," and "naturalized," that is,
-bereft of their original poetic and evocative power. One could write, for
-example, "a field of study," without much thought about figurative space.
-Shklovsky would have the reader pause to consider the implications. In which
-sense ideas resemble (or not) a field? The writer could draw our attention to
-the strangeness of the analogy by mentioning "mowing a verdant field of study,"
-for example, or better yet, by depicting someone in the process of mowing a
-field while discussing epistemology (or something along these lines). The
-unexpected transference of properties accentuates and renews a familiar image.
-In what sense could one "mow" a "verdant" "field" of ideas? Such unusual
-juxtapositions renew the peculiarity of the initial metaphor. The figure is
-"made strange" again, in what Shklovsky calls the technique of poetic
-"estrangement" [@shklovksy_sborniki_1917].
+What is a literary device? The formal concept of a "device," widely used in
+literary studies, is an artifact of an unfortunate translation from Russian.
+The word *priem* would be much better translated as "technique," in the sense
+of "method," "approach," or "procedure." The word "device" contains these
+meanings as well, but in modern usage, it usually carries a concrete
+connotation, as "an object, machine, or piece of equipment that has been made
+for a special purpose" (Merriam-Webster). "Laying bare the device," for Viktor
+Shklovsky, the Russian formalist critic who coined the phrase, meant making
+explicit the implicit mechanism of the metaphor, particularly in cases where
+such metaphors turn "stale," "automatic," and "naturalized," that is, bereft of
+their original poetic and evocative power. One could write, for example, "a
+field of study," without much thought about figurative space. Shklovsky would
+have the reader pause to consider the implications. In what sense do ideas
+resemble (or not) a field? The poet could further make the metaphor strange.
+One could write "to mow a verdant field of literary study," for example,
+breaking and exposing the artifice of the initial metaphor. Better yet, an
+artist could depict a fictional character in the act act of mowing a field
+while discussing the relative merits of Tolstoy and Proust. The unexpected
+transference of properties between fields of study and fields of grass recovers
+the peculiarity of the initial metaphor. The figure is "made strange" again, in
+what Shklovsky calls the technique of poetic "estrangement"
+[@shklovksy_sborniki_1917].
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
-metaphor by drawing attention to its implicit, inner dynamics. Vladimir
-Nabokov, a writer conspicuously aware of his literary--theoretical heritage,
-makes use of this move consistently and with relentless clinical precision. In
-the short story "A Guide to Berlin," to which D. Barton Johnson attributes our
-first glimpse at Nabokov's "mature virtuoso style [@johnson_guide_1979, 354],"
-Nabokov writes:
+metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
+Johnson famously argued, do more than decorate---they structure everyday human
+activity. The metaphor shapes one system of conceptual relationships in terms
+of another [@lakoff_metaphors_1980, 3-14]. The Russian formalists of the early
+twentieth century did then have the cognitive vocabulary to connect mind and
+symbol, but they did understand estrangement as a matter of everyday practice,
+beyond language analysis. One of Shklovsky's central concerns was with the
+automatization of human experience, by which metaphors lose their evocative
+power through repeated use. Such metaphors become machines that transparently
+convey meaning, and, when habituated, disappear from view. The human, who
+according to a Kantian view of the world, should be actively structuring his or
+her experience, is now being passively structured by the mechanism.
+Estrangement de-automates the experience [@shklovksy_sborniki_1917,
+@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. It
+brings agency back to the structuring experience. Through defamiliarization,
+readers discover the governing principles of their action: free to accept some
+parts of the conceptual transference (the intellectual field *is* vast!) and to
+reject others (but we will not mow it).
+
+Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
+heritage, makes use of this move consistently and with relentless clinical
+precision. In the short story "A Guide to Berlin," to which D. Barton Johnson
+attributes our first glimpse at Nabokov's "mature virtuoso style
+[@johnson_guide_1979, 354]," Nabokov writes:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
@@ -145,17 +164,17 @@ page through sheer recursion of literary technique, where each successive turn
 of the abstraction brings the word closer to the reader.
 
 Yet for all the language games, the formalist conception of a literary device
-fails to reach the materiality of the written word. The formalists were
-primarily concerned with structure and sound.[^ln1-formal] Paper, the literal
-substance intervening between the two, remained for them a transparent medium.
-Concerned with the stripping of surfaces, the formalist and later the new
-critical research program stopped at the representational layer of the literary
-figure. In *Plain Text*, I would like to take the formalist program one step
-further, bringing it closer to a truly materialist poetics.
+does not quite reach to affect the materiality of the written word. The
+formalists were primarily concerned with structure and sound.[^ln1-formal]
+Paper, the literal substance intervening between the two, remained for them a
+transparent medium. Concerned with the stripping of surfaces, the formalist and
+later the new critical research program stopped at the representational layer
+of the literary figure. In *Plain Text*, I would like to take the formalist
+program one step further, bringing it closer to a truly materialist poetics.
 
 My interests lie in books and documents as literal devices. When asked in the
 context of media history, the question of literary surfaces gains an
-instrumental dimension.  Physical affordances of liquid crystal displays and
+instrumental dimension. Physical affordances of liquid crystal displays and
 magnetic storage differ drastically from those of goat skins or parchment. Yet
 surface representation maintains the illusion of self-similarity. We are faced
 with with what is called *isomorphic* design, by which the digital page
@@ -163,13 +182,13 @@ resembles print. That resemblance is in itself an unexamined metaphor. The
 principles of isomorphic design are meant to extend a visual metaphor from one
 medium to another. The reader already knows how to turn pages, for example. A
 book device therefore simulates pages to ease the cognitive transition to the
-new medium. But there is nothing page-like on the device. The metaphor conceals
-the structural rift between between paper and screen technology. I am concerned
-throughout with the particularities of that metaphor. A digital poem, a novel,
-a physician's script, or a legal contract all still look like their paper
-counterparts, but increasingly they behave like gadgets. These reading and
-writing appliances do not mediate silently: they monitor, adjust, warn, and
-control.
+new medium. But there is nothing inherently page-like within the device. The
+metaphor conceals the structural rift between between paper and screen
+technology. I am concerned throughout with the particularities of that
+concealment. A digital poem, a novel, a physician's script, or a legal contract
+all still look like their paper counterparts, but increasingly they behave like
+gadgets. These reading and writing appliances do not mediate silently: they
+monitor, adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 structures in ways that we have only begun to comprehend. The material
@@ -177,19 +196,26 @@ affordances of a textual device influence all higher-level functions of
 interpretation.[^ln1-rmedium] Our theories of interpretation are built on
 several key assumptions attached to print media. For example, in Hans-Georg
 Gadamer's seminal conception of art, the free play of the artistic mind is
-transformed into structure (*Gebilde) that is both "repeatable" and "permanent"
-[@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
-writes about the "range of social and political changes" related to the
-invention of writing. Human discourse is "fixed" and thereby "preserved from
-destruction" in writing [@ricur_interpretation_1976, 26-8]. The literary device
-offers no such permanence. It contains inscription of a qualitatively different
-kind from writing. Based on the blueprints for the universal Turing machine,
-the outlines of which will gradually come into focus, the reading device
-emulates a book. The engineering of literary artifacts conceal a number of
-design choices, that obscure the flows of code and codex under the familiar
-guise of surface representation. The digital book is not just a book. It is a
-machine--chameleon that serves other masters and other functions in the guise
-of a book.
+transformed into structure (*Gebilde*) that is both "repeatable" and
+"permanent" [@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*,
+Paul Ricoeur writes about the "range of social and political changes" related
+to the invention of writing. Human discourse is "fixed" and thereby "preserved
+from destruction" in writing [@ricur_interpretation_1976, 26-8].
+
+The literary device offers no such permanence. It contains inscription of a
+qualitatively different kind from writing. Based on the blueprints for the
+universal Turing machine, the outlines of which will gradually come into focus,
+the reading device merely emulates a book. The engineering of literary
+artifacts conceal a number of design choices, obscuring  the flows of code and
+codex under the familiar guise of surface representation. The digital book is
+not just a book. It is a universal Turing machine, a machine, that besides
+effecting the figures of reading and writing, holds the potential to effect all
+possible metaphors. The task of the literary scholar reading on the level of
+the device becomes to expose the conceptual system that governs the activity.
+It is finally to make it available to interpretation---that is to free play of
+ideas. I would like to know what happens in the metaphorical transference
+between the book and the device emulating the book. Knowing in that sense
+allows me consent, or, conversely, to resist elements of the imposed structure.
 
 [^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
 from speaking to writing: "The most obvious change from speaking to writing
@@ -279,15 +305,15 @@ literature is a type of electroencephalography (EEG), or electric head writing.
 ![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
 
 Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
-here) follows from head to head. The task of *Plain Text* will be to complicate
-that picture by tracing the passage of thought further from *inscription* to a
+here) follows from head to head. In *Plain Text*, I will complicate that
+picture by tracing the passage of thought further from *inscription* to a
 *device*. At each stage of the passage, we will observe the process of encoding
 and decoding, by which one type of substance---a thought---is converted into
 another type: a word or the oscillation of an electrical current. I will
 present here a type of a materialist reading practice, which pays attention to
 the physical properties of the communication act. I will give that practice a
-name---microanalysis---and a purpose: to uncover the energy gained or lost in the
-transformation from code to code and from medium to medium.
+name---microanalysis---and a purpose: to uncover the energy gained or lost in
+the transformation from code to code and from medium to medium.
 
 I am concerned with energy because too often our foundational models of reading
 and interpretation take the text as a fixed given. Even in our most
