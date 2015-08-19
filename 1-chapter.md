@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \newcommand{\sectionbreak}{\clearpage}
-- \rhead{DRAFT | do not circulate )}
+- \rhead{DRAFT | do not circulate }
 - \lhead{}
 
 ---
@@ -217,434 +217,15 @@ ideas. I would like to know what happens in the metaphorical transference
 between the book and the device emulating the book. Knowing in that sense
 allows me consent, or, conversely, to resist elements of the imposed structure.
 
-[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
-from speaking to writing: "The most obvious change from speaking to writing
-concerns the relation between message and its medium or channel. At first
-glance, it concerns only this relation, but upon closer examination, the first
-alteration irradiates in every direction, affecting in decisive manner all the
-factors and functions" [@ricur_interpretation_1976, 25].
+## 1.5 Universal Turing Machines
 
-[^ln1-formal]: I discuss the idea of form as structure and sound in greater
-detail in Chapter 3.
-
-## 1.2 WYSINAWYG (What You See Is Not Always What You Get)
-
-I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
-magnetic storage the "enduring ephemeral," which "creates unforeseen
-degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
-the floating gate transistor,[^ln1-gate] where my text now lives, can be called
-the enduring ephemeral, I will call my liquid crystal display, where the text
-shows itself, fading persistence. This is not to believe (fearing the wrath of
-textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
-that text on the screen lacks materiality. Not at all. Only that it seems to
-drift from surface to surface, beyond the field of vision, in ways that erode
-trust in the general permanence of the literary system. If we are destined to
-dwell on surfaces, I do not know to which surface to attach my attention: the
-screen or the floating gate.
-
-I have before me at least two inscriptions: one as circuit state on my hard
-drive, and another as crystal phase on the screen. They denote the same idea,
-but in two distinct places. How did this duplicity come to be? And what impact
-does it have on the life of a mind? In an attempt to answer, I offer the
-following three historical preconditions for digital textuality. They are not
-meant as history, but rather as signposts to mark the journey ahead. The schema
-proceeds roughly as follows: first, content and control couple at the visible
-surface of removable storage media (ticker tape and punch card); second,
-inscription splits into input and output, retreating into magnetic storage to
-reemerge at last on screen, in the same guise, but also, as we suspect, somehow
-transformed: less solid and concealing something beneath the phantasmal shell
-of its former appearance.[^ln1-denning]
-
-Where does text reside? If you are reading this book in print, you can point to
-the page and be fairly certain of the answer: here, on the page. If you are
-reading the book on a *device*, things get more complicated. You can point to
-the screen and yet it would not be enough to say that the text resides there.
-The screen will go dark when the device loses power, but the text will
-persevere within, stored at another physical location. Deep within a device,
-the text will be embedded into into some sort of a storage medium, usually a
-magnetic or a "solid state" drive. Where the digital text resides affects even
-those who prefer to read in print. Like most literature today, print materials
-are also "born digital." At some point of time, they occupy the same
-duplicitous position between storage medium and pixel.
-
-Few readers today will be able to give an account of a pixel's passage from
-keystroke to ink or pixel. The vast machinery that brings literature to life
-hides from the reader's view. Literature conceals. Even on the level of
-stylistics, writing well is meant to evoke a sense of ease where it is usually
-the product of painstaking labor. Let us hold on to that intuition for the
-duration of this chapter: writing conceals labor.
-
-Literature hides the labor of readers and writers. In another sense, there is
-also the concealment of raw, physical energy that "goes into the word." The
-work it takes to get a rock up a mountain gives it potential energy to roll
-back down. By definition, potential energy relates to the possibility of "work
-done." The rock can pull something up the hill as it is falling down, for
-example. What of the energy that went into the writing of these sentences? I
-spent a few *joules* compressing the springs under my keyboard. Many more went
-into my laptop as electric current. Why? To overcome matter's passive impedance
-of advancing change. To preserve and to communicate this message *amperes*, the
-unit of electrical flow, struggled with *ohms*, the unit of electrical
-resistance.
-
-There is energy too in the librarian's effort to archive a book, in the
-churning of a search engine to make it accessible to a reading public, and in
-the work of a truck driver who ferries information by road. The sum of these
-energies, which seem significant now in their accumulation, went into the
-writing of these words. Much of it dissipated as heat and light. And some of
-it---just a small part---left an imprint somewhere. It left a trace of ink on a
-page, magnetized a piece of tape, or shifted the configuration of the floating
-gate buried within the solid state drive. Finally, the potential energy
-remaining within the word began a chain of electrical reactions in the reader's
-brain. The mental effort or reading and writing amounts to "knowledge
-work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
-circuitry of at least two neurological systems. Reading leaves the brain in a
-different state than before. Writing, in this light, involves the transmission
-of neural activity between hosts. When considered as a physical process,
-literature is a type of electroencephalography (EEG), or electric head writing.
-
-![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
-
-Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
-here) follows from head to head. In *Plain Text*, I will complicate that
-picture by tracing the passage of thought further from *inscription* to a
-*device*. At each stage of the passage, we will observe the process of encoding
-and decoding, by which one type of substance---a thought---is converted into
-another type: a word or the oscillation of an electrical current. I will
-present here a type of a materialist reading practice, which pays attention to
-the physical properties of the communication act. I will give that practice a
-name---microanalysis---and a purpose: to uncover the energy gained or lost in
-the transformation from code to code and from medium to medium.
-
-I am concerned with energy because too often our foundational models of reading
-and interpretation take the text as a fixed given. Even in our most
-destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
-materiality of the text is assumed to persevere. "We will take off here from
-the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
-can count the lines" at the "precisely calculated center of the dialogue"
-[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
-beginning, middle, and end. Derrida asks the reader "to return to the text,"
-even when the text "remains forever imperceptible"
-[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
-this usual way of a literary scholar, he uses the word "text" in two distinct
-ways: one, as an abstract mental construct---the one that is "forever
-imperceptible," and the physical one, which has a definite and stable
-topography---the one to which we return with confidence.
-
-In the vision of post-structural poetics, the text in the abstract resembles
-the quicksand of unstable signifies. In other words, one can define a word only
-in relation to other words. In this way, Derrida describes texts as
-"dissimulation of the woven texture," "a web that envelops a web," and "an
-organism, indefinitely regenerating its own tissue behind the cutting trace,
-the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
-Text*, I want to further challenge the stability of the text as a physical
-artifact. The literary device reconfigures the text dynamically in the process
-of reading. Because the text is no longer fixed into a stable medium, we must
-do away with page numbers, for example. Pagination changes according to the
-size of the device. More intrusively, the reader cannot rely to encounter the
-same text upon return. The writer, the book seller, or the censor have the
-technological capacity to alter the text in real time, even as the book rests
-in hand or on a shelf.
-
-Much is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making, that is, the very opportunity to engage
-in the act of interpretation, begins with the text as a material object. In the
-West, it is easy to forget the blunt effectiveness of physical control. Books
-that are burned or locked up cannot be read at all. Global inequities of access
-to knowledge are much more obvious in the post-colonial world, where readers
-print their own books and build their own libraries to preserve access. Witness
-the so-called "shadow libraries" of Eastern Europe [@tenen_book_2014,
-@bodo_short_2014], the street book vendors of India and Pakistan
-[@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat* press of
-Nigeria under the conditions that have been described as "book famine"
-[@okiy_photocopying_2005, @nkiko_book_2014]. Yet despite the hardship, these
-practices are at least engaged in the proactive preservation of the literary
-sphere. Shadow libraries erect architectures of knowledge and create reading
-publics who own the means of textual diffusion. They make copies, write server
-software that aids in the distribution, and build archives.
-Elsewhere---here---such infrastructures are created for us. Consequently, they
-disappear from view. If indeed my intuition is correct and readers do not know
-what books are, how they are made, or what they are capable of, we are all
-operating under the conditions of profound alienation.
-
-[^ln1-translate]: "In our discussion of this text we have been using an
-authoritative French translation of Plato, the one published by Guillaume Bude.
-In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
-refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
-71]."
-
-## 1.3 How will we find it "microanalysis,"?
-
-Microanalysis opens the gap between text as it is embedded into storage media
-and text as it is seen on the screen. 
-
-the closest possible kind of reading
-that pays attention to the material contexts of knowledge production.
-
-Such textual proliferation comes at a cost. Until recently, the bread and
-butter of literary scholarship has been close reading. Close reading, like
-critical thinking, is an idea more easily performed than explained, because the
-details become contentious as soon as they are formalized.[^ln2-close] I will
-tread carefully, therefore, by committing myself to a broad definition of close
-reading that involves some notion of deliberate and reflective practice aimed
-at deep comprehension. The Partnership for Assessment of Readiness for College
-and Careers (PARCC), the organization responsible for the controversial
-Common Core standards being implemented in schools across the United States
-today, promotes close reading as "thorough," "methodical," and "analytical"
-practice that "enables students to reflect on the meanings of individual words
-and sentences; the order in which sentences unfold; and the development of
-ideas over the course of the text, which ultimately leads students to arrive at
-an understanding of the text as a whole" [@parcc_parcc_2012, 7]. The general
-movement here is from "text" on the page to "work" (text as a whole, in the
-language of the report). The model of textuality implicit in the institutional
-project of close reading assumes an environment of received literary canons,
-naturally accessible to the human intellect. For the duration of the "Gutenberg
-galaxy," the age of print, a well-educated person might have been expected to
-internalize some several hundred or perhaps thousands of major texts
-constituting the canon. Close reading was honed to operate on that naturalized
-scale.
-
-The expansion of the textual field has radically increased the cognitive
-demands of literary engagement. The pipeline between text and work has
-lengthened considerably. On the one side, the matter of canon formation can no
-longer be relegated to stable, long-term systems of social filtering. Seen from
-the perspective of a literary interface, the database, the social stream, and
-the search engine are tools for dynamic, "on the fly," generative
-canon-formation. Consider the task of finding an unknown (to me) factoid
-online, about philosophy in the times of Andalusian Spain, for example. Where
-in the past I might have started with a subject catalog compiled by librarians,
-today I construct a search query, using resources that I believe will return a
-reasonably authoritative list of texts on the subject. The search engine, in
-effect, replaces (or rather complements) centuries-long processes of
-canon-formation. A near-instantaneous list of results now becomes my ephemeral,
-but nevertheless authoritative, collection of relevant literature.
-
-Each text in the returned list still requires the instrumentation of close,
-analytical interpretation. However, the same discipline of critical and
-reflective deliberation exercised on the level of an individual text needs to
-also be exercised on the level of procedurally generated search engine results:
-Where to search? Using what engine? How to construct the query? What are the
-implicit biases of the system?  The academic question of canon-formation
-transforms into a (not yet critical) practice of rapid, iterative, generative
-canon-making. Whatever ideals motivate close reading between "text" and "work"
-surely must drive the process on the level of dynamic corpus composition.
-
-Examples of macroanalysis. The various practices of distant reading arise from
-the condition in which canons are no longer accessible, in their entirety, to
-the unaided (natural) human intellect. These include distant reading and
-macroanalysis in literary studies [@jockers_macroanalysis_2013;
-@moretti_distant_2013], culturomics in economy [@aiden_uncharted:_2014],
-e-discovery in law [@scheindlin_electronic_2004; @scheindlin_electronic_2009],
-automatic essay evaluation in education [@shermis_handbook_2013], and medical
-informatics in medicine [@shortliffe_biomedical_2013], among others. At the
-foundations of these nascent disciplines is a shared toolkit of statistical
-natural language processing [@manning_foundations_1999; @jurafsky_speech_2008],
-automatic summarization [@radev_centroid-based_2004; @nenkova_pyramid_2007],
-machine learning [@rasmussen_gaussian_2006; @flach_machine_2012], network
-analysis [@opsahl_node_2010; @szell_measuring_2010; @takhteyev_geography_2012],
-and topic modeling [@wallach_topic_2006; @blei_probabilistic_2012].
-
-Where distant reading perceives patterns across large-scale corpora,
-microanalysis breaks literary systems down to their minute constituent
-components.
-
-![Micro, macro, and close reading.](images/micro.png)
-
-Where distant reading and macroanalysis are concerned with text aggregates,
-microanalysis, of the type suggested (but not carried out to its logical
-conclusion) by Kittler and Latour and Woolgar, occupies the other side of the
-text--work equation. Note that contrary to what one may intuit, distant reading
-often happens prior to close reading and not the other way around. In most
-cases, the reader must find the text before analyzing it. Canons, corpora,
-collections, libraries, and archives are all aggregates that mediate the
-process of discovery. Microanalysis, too, constitutes a study of mediation, but
-on the level of physical minutiae otherwise not readily observed in cursory
-exploration. The instruments of microanalysis may coincide with computational
-tools, designed to find hidden patterns lurking above or beneath a given
-document.[^ln2-iarkho] The micro-instrumentation might also include a
-screwdriver, a binding needle, or a soldering iron: sharp tools that help to
-pry open and to scrutinize otherwise magical textual black boxes.
-
-The pre-modern model of literary transmission assumes relatively short physical
-distances separating authors, texts, and readers. Were I to write these words
-in front of you, on paper, I would simply pass the page into your hands. In
-receiving this text, you could be fairly certain that no third party meddled in
-the process of passing the note. When communicating in this way, it makes sense
-to talk about notions of strong "authorial intent" and "fidelity to the
-original," because authors and their works are thought to occupy the same
-contiguous space and time. The advent of cheap mechanical reproduction of print
-(for the sake of brevity let's say the printing press) has introduced a range
-of devices that mediate between the author and the reader. Distance, time, and
-mediation subsequently weaken facile notions of authorial fidelity or intent.
-At the very least, we know that editorial practices, publishing markets, and
-communication technologies can introduce an unintended element of noise into
-the channel. At the maximal break down of the communication act, long-distance,
-asynchronous communication is susceptible to "man-in-the-middle" attacks, by
-which a third party maliciously alters the content of communication
-[@needham_using_1978].
-
-Changing material conditions of textual transmission push against familiar
-literary critical ideas. For example, as the mechanical reproduction of print
-weakens the material basis for authorship attribution, the notion of authorship
-itself undergoes change. That is not say that the author is dead, as Barthes
-would have it. Authors continue to live and to collect royalties from the sale
-of their works. The weakening of the authorship function merely makes certain
-ways of talking about things like "authorial intent" and "fidelity to the
-original" difficult to sustain. Massively collaborative writing projects like
-Wikipedia and procedural narrative generation (machine writing) further erode
-ideas of authorial production based on individual human agency. Yet, it would
-be a mistake to believe that the myth of autopoiesis (the literature that
-"writes itself," writing that writes, discourse that speaks, etc.)[^ln2-varela]
-can displace the myth of the author. A discipline of close attention to the
-atomic particulars of encoding, transmission, storage, and the decoding of text
-at the site if its application to the human condition ultimately aims to
-reclaim subjective agency, in motion. This may seem strange at first: to
-recover the subject in the physical minutiae of the literary--technological
-encounter. Yet the point of contact is crucial, for it is here that the subject
-seems to disappear, in a compressed moment of time that needs to be unpacked
-with some precision.
-
-## 1.4 Where will we find it? Everywhere
-
-1. Methodologically, materialism of the sort described above has naturally led me
-to sociological approaches to the study of knowledge formation. In a study on
-the construction of scientific knowledge, Bruno Latour and Steve Woolgar
-perform what they call an ethnography of a science lab by exposing the passage
-of ideas from applied experiment to literary production. For Woolgar and Latour
-a laboratory functions as a factory of sorts, ingesting matter and artifact to
-produce fact and inscription, beyond simplistic notions of knowledge-making and
-discovery [@latour_laboratory_1986]. A cite of production. 
-
-Why am I reading Ltour. Because latour gives us a way to see much lit.
-
-Although much cited in the study of culture, science, and technology,
-*Laboratory Life* has had less of an impact on the study of literature, even
-though Latour and Woolgar borrowed much the other way around. In the 1986
-postscript to the American edition, they remark on the broad trend in literary
-theory toward treating texts as objects of interpretation, disavowing the kind
-of criticism aimed at the "real meaning of texts," at "what the text says,"
-"what really happened," or "what the authors intended"
-[@latour_laboratory_1986, 273]. Similarly, the authors wanted to aim research
-in the social study of science at the "contingent character of objectification
-practices." Science, in their view, is itself a type of literary system,
-"generating texts whose fate (status, value, utility, facticity) depends
-subsequently on interpretation" [@latour_laboratory_1986, 273]. Throughout the
-book, Woolgar and Latour use the term literature to mean something "inscribed,
-printed, or published," a combination of verbs that coincides with "literature"
-consistently throughout [@latour_laboratory_1986, 47-53]. Viewed as a work of
-literary theory, *Laboratory Life* reifies the research program began by the
-post-structuralists. Where Jacques Derrida could remark offhandedly that
-"everything is a text,"[^ln2-derrida] Woolgar and Latour make concrete the
-literal transformation of matter into text. No longer was literature an
-illustration of something that happens in the laboratory: Latour and Woolgar
-showed the laboratory itself to function as an inscription-making machine.
-
-The conventional way to understand Woolgar and Latour brings the interpreter
-into the laboratory, breaking the illusion of scientific objectivity: instead
-of "discovering" facts, scientists construct them (therefore, *social
-constructivism*). Paradoxically, as Latour and Woolgar worked to undermine the
-empirical unity of science (turning it into a kind of hermeneutics), they
-performed literary analysis as an empirical method. To "read" the laboratory,
-researchers observed the space in person, embedded into the fabric of its
-everyday activity. As ethnographers, Woolgar and Latour were interested in
-discovering models of objectivity (and science) that emanate from the practice
-doing science localized to the particular laboratory under observation. A
-theory of knowledge formation therefore becomes visible through ethnographic
-description. In the *Laboratory Life* the reader is asked to examines a range
-of evidentiary material along with published work. Floor plans, research
-samples, workflow diagrams, dialog transcriptions, time sheets, and logbooks
-all become a part of the epistemology.
-
-To view Woolgar and Latour as scholars of literature (and not just of
-laboratories) is to open up the floodgates of textuality. The laboratory, the
-courthouse, the hospital---these institutions cannot be reduced to text, but
-the lesson of *Laboratory Life* is that they are, in part, literary systems.
-Beneath every scientific discovery, every popular song, every film, radio, or
-television serial, every art or architectural project, every political office,
-every legal judgment, every restaurant meal, every doctor's prescription, every
-website, and every machine manual---beneath that giant and perplexing pile of
-human activity lies a complex network of circulating textual documentation.
-Woolgar and Latour show that literary scholarship can involve more than just
-reading books, but also making visible that textual undercurrent: following it
-and mapping its movements across rooms and offices, all the while exposing the
-mechanisms of its mutation and locomotion. It is an exciting prospect: to view
-the hospital as a library, where cadres of physicians and administrators
-convert human stories into diagnoses, into controlled vocabularies, into files,
-into billable codes, into inscriptions, and into archives. Or to see the legal
-system as a process of literary discovery, where legions of attorneys and
-paralegals pore over terabytes of textual material, transforming inscription
-into evidence. That is not all these institutions are, but they are also that;
-and there is much work to be done there for a scholar of literature.
-
-On an average day in 2008, at home, an average American read around 100,500
-words a day. At 250 words per page, that is around 402 printed pages.  Between
-the years of 1980 and 2008, the consumption of information in bytes---a measure
-that would obviously privilege storage-heavy content like sound and
-video---grew at a modest 5.4 percent per year. Reading, in decline until the
-advent of the internet, has tripled in the same period. Reading in print
-accounted for 26 percent of verbal information consumed in 1960. That number
-fell to 9 percent in 2008, but the consumption of words digitally increased to
-27 percent of total consumption, which means that reading has increased its
-share of the overall household attention span [@bohn_how_2009;
-@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the twenty-first
-century saw a 20 percent increase in library visitation
-[@u.s._institute_of_museum_and_library_services_public_2010]. According to
-UNESCO data, literacy rates continue to rise globally, as the world calibrates
-imbalances of access along the lines of gender and geography
-[@huebler_adult_2013]. By a conservative estimate, the number of scientific
-publications grows at about 4.7 percent per year, which means that the amount
-of published research roughly doubles every 15 years or so, and the figures are
-much higher in some fields [@archambault_welcome_2005; @crespi_empirical_2008;
-@larsen_rate_2010]. The number of books published in the United States almost
-tripled from 2005 to 2009 [@bowker_u.s._2009].
-
-All measures point to a drastic expansion of the textual field. At the same
-time, we are often told that reading of short stories, novels, poetry, and
-plays appears to be at grave risk [stephens_rise_1998; @merrin_television_1999;
-@nea_reading_2004; @golumbia_cultural_2009; @fish_digital_2012;
-@marche_literature_2012].[^ln2-internet] Something does not add up. As a
-society we are reading, writing, and publishing more each year. The
-reconciliation of vocabularies locates the source of the perceived metaphysical
-threat in the culture's profound alienation from the material contexts of
-literary production. The language of literary theory is supremely tuned to deal
-with symbols. Only after long reflection, on the order of centuries, do we
-begin to note the sheer strangeness of the textual interface: the medieval
-palimpsest, the stylus, and the goat parchment. Yet we cannot afford to care
-less about the keyboard and the screen today that we do about ink and paper.  A
-battle is quietly brewing for the soul of computing and hence for the control
-of our basic reading and writing apparatus.
-
-Where literacy thrives, the very nature of what constitutes a literary text (of
-any kind) has changed significantly with the advent of ubiquitous computing and
-its related techniques involving the internet, integrated circuits, magnetic
-storage, miniaturization, and search and suggest algorithms. By many accounts,
-the second half of the twentieth century saw a major technological shift
-affecting the production, access, and distribution of knowledge, in a shift
-comparable in its consequences to those accompanying the spread of the
-Gutenberg printing press in the fifteenth century [@johns_piracy:_2009;
-@kovarik_revolutions_2011]. Matters always central to the field of literary
-studies remain vitally important to the functioning of modern society. Literary
-studies, when conceived broadly, provide fertile grounds for collaboration
-between diverse disciplines interested in the changing dynamics of narrative,
-interpretation, language, form, prosody, composition, dialog, discourse, story,
-genre, authorship, influence, and text. It is in this core conceptual cluster
-of operational terms that I want to locate a notion of poetics capable of
-addressing not only the machinations of poetry and prose, but also of pixel,
-code, string, script, inscription, list, document, file, record, project, and
-archive.
-
-## 1.5 Content and Control
-
-Thesis the book is not just a book!
-
-With the site more broadly defined, we can begin the work of recovering the
-material contexts of literary production. I want to foreshadow now what will
-become the punchline of the whole book: namely that the ghost in the machine
-cannot be reduced to some vague notions of value---these amount to a
-distraction, which lies plainly upon the surface. The conspicuous ghostly
-apparition (indicating the absence of a living subject) is agency itself,
-which, for now, necrotically attaches itself to dead things like systems,
-mediums, and automated discourses. If all this talk of value, ghosts, and
-necromancy sounds familiar, the reader will not be surprised when I advance
+I want to foreshadow now what will become the punchline of the whole book:
+namely that the ghost in the machine cannot be reduced to some vague notions of
+value---these amount to a distraction, which lies plainly upon the surface. The
+conspicuous ghostly apparition (indicating the absence of a living subject) is
+agency itself, which, for now, necrotically attaches itself to dead things like
+systems, mediums, and automated discourses. If all this talk of value, ghosts,
+and necromancy sounds familiar, the reader will not be surprised when I advance
 Karl Marx as a preeminent theorist of the algorithm and someone able to help us
 reason through Kittler's computational conundrum. On towards Marx then (who
 will appear much later), through the machine that, although intimately familiar
@@ -965,93 +546,6 @@ changes its internals as it receives instructions to inform and to control. For
 now I ask only, Who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
-
-[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
-
-[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
-communication, the top-most layer of protocols and interface method is called
-the "application layer" and the bottom-most layer the "physical layer"
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
-being "responsible for encoding bits onto a transmission medium, whether wires,
-fiber optics, or radio broadcast, in ways that maximize the transmission rate
-and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
-
-[^ln2-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
-
-[^ln2-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
-
-[^ln2-alt]: "We have to think (in a completely novel way) the relation between
-a science and the ideology [...] the fact that such an investigation confronts
-us with the observation that every science, in the relationship it has with
-ideology it emerged from, can only be thought as a 'science of ideology, would
-disconcert us, were we not forewarned of the name of the *object* of knowledge,
-which can only exist in the form of ideology" [@althusser_reproduction_2014,
-46].
-
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
-statements like "ethnology-like any science-comes about within the element of
-discourse," and "this moment was that in which language invaded the universal
-problematic; that in which, in the absence of a center or origin, everything
-became discourse-provided we can agree on this word-that is to say, when
-everything became a system where the central signified, the original or
-transcendental signified, is never absolutely present outside a system of
-differences. The absence of the transcendental signified extends the domain and
-the interplay of signification ad infinitum" (278-294).
-
-[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
-flipping Hegel, who prioritized the transcendent spiritual over the physical
-and material forms of life, over "back to his feet." See for example
-@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
-a table out of it. Yet, for all that, the table continues to be that common,
-every-day thing, wood. But, so soon as it steps forth as a commodity, it is
-changes into something transcendent. It not only stands with its feed on the
-ground, but, in relation to all other commodities, it stands on its head, and
-evolves out of its wooden brain grotesque ideas, far more wonderful than
-'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
-dialectic of the concept itself became merely the conscious reflex of the
-dialectical motion of the real world and the dialectic of Hegel was placed upon
-its head; or rather, turned off its head, on which it was standing before, and
-placed on its feet again" (44).
-
-[^ln1-dirt]: Think of text as substance and literature as surface. The first is
-like dirt where the second is gound. We play with one on top of the other.
-
-[^ln1-gate]: Solid state memory devices like flash memory store information in
-capacitor "circuit states." This by contrast with electromagnetic storage that
-works by modulating electrical charge over a magnetic surface. Solid state
-capacitor storage was used in the earliest computers
-[@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage on consumer devices. In an early
-(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
-and Sze explain: "A structure has been proposed and fabricated in which
-semipermanent charge storage is possible. A floating gate is placed a small
-distance from an electron source. When an appropriately high field is applied
-through an outer gate, the floating gate charges up. The charges are stored
-even after the removal of the charging field due to much lower back transport
-probability [...] Such a device functions as a bistable memory with
-nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
-
-[^ln1-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
 
 ## 1.6 Three devices
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
@@ -1396,4 +890,249 @@ illusion of effortless textuality.
 
 
 
+
+## 1.2 WYSINAWYG (What You See Is Not Always What You Get)
+
+I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
+magnetic storage the "enduring ephemeral," which "creates unforeseen
+degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
+the floating gate transistor,[^ln1-gate] where my text now lives, can be called
+the enduring ephemeral, I will call my liquid crystal display, where the text
+shows itself, fading persistence. This is not to believe (fearing the wrath of
+textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
+that text on the screen lacks materiality. Not at all. Only that it seems to
+drift from surface to surface, beyond the field of vision, in ways that erode
+trust in the general permanence of the literary system. If we are destined to
+dwell on surfaces, I do not know to which surface to attach my attention: the
+screen or the floating gate.
+
+I have before me at least two inscriptions: one as circuit state on my hard
+drive, and another as crystal phase on the screen. They denote the same idea,
+but in two distinct places. How did this duplicity come to be? And what impact
+does it have on the life of a mind? In an attempt to answer, I offer the
+following three historical preconditions for digital textuality. They are not
+meant as history, but rather as signposts to mark the journey ahead. The schema
+proceeds roughly as follows: first, content and control couple at the visible
+surface of removable storage media (ticker tape and punch card); second,
+inscription splits into input and output, retreating into magnetic storage to
+reemerge at last on screen, in the same guise, but also, as we suspect, somehow
+transformed: less solid and concealing something beneath the phantasmal shell
+of its former appearance.[^ln1-denning]
+
+Where does text reside? If you are reading this book in print, you can point to
+the page and be fairly certain of the answer: here, on the page. If you are
+reading the book on a *device*, things get more complicated. You can point to
+the screen and yet it would not be enough to say that the text resides there.
+The screen will go dark when the device loses power, but the text will
+persevere within, stored at another physical location. Deep within a device,
+the text will be embedded into into some sort of a storage medium, usually a
+magnetic or a "solid state" drive. Where the digital text resides affects even
+those who prefer to read in print. Like most literature today, print materials
+are also "born digital." At some point of time, they occupy the same
+duplicitous position between storage medium and pixel.
+
+Few readers today will be able to give an account of a pixel's passage from
+keystroke to ink or pixel. The vast machinery that brings literature to life
+hides from the reader's view. Literature conceals. Even on the level of
+stylistics, writing well is meant to evoke a sense of ease where it is usually
+the product of painstaking labor. Let us hold on to that intuition for the
+duration of this chapter: writing conceals labor.
+
+Literature hides the labor of readers and writers. In another sense, there is
+also the concealment of raw, physical energy that "goes into the word." The
+work it takes to get a rock up a mountain gives it potential energy to roll
+back down. By definition, potential energy relates to the possibility of "work
+done." The rock can pull something up the hill as it is falling down, for
+example. What of the energy that went into the writing of these sentences? I
+spent a few *joules* compressing the springs under my keyboard. Many more went
+into my laptop as electric current. Why? To overcome matter's passive impedance
+of advancing change. To preserve and to communicate this message *amperes*, the
+unit of electrical flow, struggled with *ohms*, the unit of electrical
+resistance.
+
+There is energy too in the librarian's effort to archive a book, in the
+churning of a search engine to make it accessible to a reading public, and in
+the work of a truck driver who ferries information by road. The sum of these
+energies, which seem significant now in their accumulation, went into the
+writing of these words. Much of it dissipated as heat and light. And some of
+it---just a small part---left an imprint somewhere. It left a trace of ink on a
+page, magnetized a piece of tape, or shifted the configuration of the floating
+gate buried within the solid state drive. Finally, the potential energy
+remaining within the word began a chain of electrical reactions in the reader's
+brain. The mental effort or reading and writing amounts to "knowledge
+work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
+circuitry of at least two neurological systems. Reading leaves the brain in a
+different state than before. Writing, in this light, involves the transmission
+of neural activity between hosts. When considered as a physical process,
+literature is a type of electroencephalography (EEG), or electric head writing.
+
+![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
+
+Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
+here) follows from head to head. In *Plain Text*, I will complicate that
+picture by tracing the passage of thought further from *inscription* to a
+*device*. At each stage of the passage, we will observe the process of encoding
+and decoding, by which one type of substance---a thought---is converted into
+another type: a word or the oscillation of an electrical current. I will
+present here a type of a materialist reading practice, which pays attention to
+the physical properties of the communication act. I will give that practice a
+name---microanalysis---and a purpose: to uncover the energy gained or lost in
+the transformation from code to code and from medium to medium.
+
+I am concerned with energy because too often our foundational models of reading
+and interpretation take the text as a fixed given. Even in our most
+destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
+materiality of the text is assumed to persevere. "We will take off here from
+the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
+can count the lines" at the "precisely calculated center of the dialogue"
+[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
+beginning, middle, and end. Derrida asks the reader "to return to the text,"
+even when the text "remains forever imperceptible"
+[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
+this usual way of a literary scholar, he uses the word "text" in two distinct
+ways: one, as an abstract mental construct---the one that is "forever
+imperceptible," and the physical one, which has a definite and stable
+topography---the one to which we return with confidence.
+
+In the vision of post-structural poetics, the text in the abstract resembles
+the quicksand of unstable signifies. In other words, one can define a word only
+in relation to other words. In this way, Derrida describes texts as
+"dissimulation of the woven texture," "a web that envelops a web," and "an
+organism, indefinitely regenerating its own tissue behind the cutting trace,
+the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
+Text*, I want to further challenge the stability of the text as a physical
+artifact. The literary device reconfigures the text dynamically in the process
+of reading. Because the text is no longer fixed into a stable medium, we must
+do away with page numbers, for example. Pagination changes according to the
+size of the device. More intrusively, the reader cannot rely to encounter the
+same text upon return. The writer, the book seller, or the censor have the
+technological capacity to alter the text in real time, even as the book rests
+in hand or on a shelf.
+
+Much is at stake in the material affordances of the literary artifact. The
+political struggle for meaning-making, that is, the very opportunity to engage
+in the act of interpretation, begins with the text as a material object. In the
+West, it is easy to forget the blunt effectiveness of physical control. Books
+that are burned or locked up cannot be read at all. Global inequities of access
+to knowledge are much more obvious in the post-colonial world, where readers
+print their own books and build their own libraries to preserve access. Witness
+the so-called "shadow libraries" of Eastern Europe [@tenen_book_2014,
+@bodo_short_2014], the street book vendors of India and Pakistan
+[@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat* press of
+Nigeria under the conditions that have been described as "book famine"
+[@okiy_photocopying_2005, @nkiko_book_2014]. Yet despite the hardship, these
+practices are at least engaged in the proactive preservation of the literary
+sphere. Shadow libraries erect architectures of knowledge and create reading
+publics who own the means of textual diffusion. They make copies, write server
+software that aids in the distribution, and build archives.
+Elsewhere---here---such infrastructures are created for us. Consequently, they
+disappear from view. If indeed my intuition is correct and readers do not know
+what books are, how they are made, or what they are capable of, we are all
+operating under the conditions of profound alienation.
+
+[^ln1-translate]: "In our discussion of this text we have been using an
+authoritative French translation of Plato, the one published by Guillaume Bude.
+In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
+refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
+71]."
+
+
+## Notes
+
+[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
+from speaking to writing: "The most obvious change from speaking to writing
+concerns the relation between message and its medium or channel. At first
+glance, it concerns only this relation, but upon closer examination, the first
+alteration irradiates in every direction, affecting in decisive manner all the
+factors and functions" [@ricur_interpretation_1976, 25].
+
+[^ln1-formal]: I discuss the idea of form as structure and sound in greater
+detail in Chapter 3.
+
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer"
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
+being "responsible for encoding bits onto a transmission medium, whether wires,
+fiber optics, or radio broadcast, in ways that maximize the transmission rate
+and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln2-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+a science and the ideology [...] the fact that such an investigation confronts
+us with the observation that every science, in the relationship it has with
+ideology it emerged from, can only be thought as a 'science of ideology, would
+disconcert us, were we not forewarned of the name of the *object* of knowledge,
+which can only exist in the form of ideology" [@althusser_reproduction_2014,
+46].
+
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+statements like "ethnology-like any science-comes about within the element of
+discourse," and "this moment was that in which language invaded the universal
+problematic; that in which, in the absence of a center or origin, everything
+became discourse-provided we can agree on this word-that is to say, when
+everything became a system where the central signified, the original or
+transcendental signified, is never absolutely present outside a system of
+differences. The absence of the transcendental signified extends the domain and
+the interplay of signification ad infinitum" (278-294).
+
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
+
+[^ln1-dirt]: Think of text as substance and literature as surface. The first is
+like dirt where the second is gound. We play with one on top of the other.
+
+[^ln1-gate]: Solid state memory devices like flash memory store information in
+capacitor "circuit states." This by contrast with electromagnetic storage that
+works by modulating electrical charge over a magnetic surface. Solid state
+capacitor storage was used in the earliest computers
+[@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage on consumer devices. In an early
+(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
+[^ln1-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].
 
