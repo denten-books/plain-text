@@ -87,24 +87,25 @@ meanings as well, but in modern usage, it usually carries a concrete
 connotation, as "an object, machine, or piece of equipment that has been made
 for a special purpose" (Merriam-Webster). "Laying bare the device," for Viktor
 Shklovsky, the Russian formalist critic who coined the phrase, meant making
-explicit the implicit mechanism of the metaphor, particularly in cases where
+explicit the implied mechanism of the metaphor, particularly in cases where
 such metaphors turn "stale," "automatic," and "naturalized," that is, bereft of
 their original poetic and evocative power.
 
 One could write, for example, "a field of study," without much thought about
 figurative space. Shklovsky would have the reader pause to consider the
 implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
-not) a field? The poet could further make the metaphor strange. One could write
-"to scythe a verdant field of literary study," for example. The verb (to
-scythe) and the adjective (verdant) create an unexpected transference of
-qualities not present in the original image. They "break" the metaphor,
-exposing it as a conceit. To take the metaphor to its logical conclusion, a
-writer could depict a fictional character in the act of mowing a field of grass
-while discussing the relative merits of Tolstoy and Proust. The literary
-artifice actualizes the implied connections between field and field. The writer
-now shows what was merely told before. The technique of defamiliarization
-finally renews the figure: discarding the hardened clichés and suggesting novel
-linkages between the concepts.
+not) a field? The poet could further make the metaphor strange. For example, as
+a light-hearted example one could write: "to scythe a verdant field of literary
+study." The verb (to scythe) and the adjective (verdant) create an unexpected
+transference of qualities not present in the original image of the field. They
+"break" the metaphor, exposing it as a conceit. To take the metaphor to its
+logical conclusion, a writer could depict a fictional character in the act of
+mowing a field of grass while discussing the relative merits of Tolstoy and
+Proust. The literary artifice makes actual the implied connections between a
+field of grass and an intellectual field. The writer now shows what was merely
+told before. The technique of defamiliarization finally renews the figure:
+discarding the hardened clichés and suggesting novel linkages between the
+concepts.
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
@@ -127,16 +128,16 @@ view of the world, should be actively structuring his or her experience, is now
 being passively structured by the mechanism. Estrangement de-automates the
 experience [@shklovksy_sborniki_1917, @shklovsky_hod_1923,
 @boym_estrangement_1996, @holquist_minding_2005]. The interpretation of a
-metaphor recovers agency lost to the blind mechanization of thought.
-Through defamiliarization, readers discover the governing principles of their
-action: free to accept some parts of the conceptual transference (the
-intellectual field *is* vast!) and to reject others (but we will not mow it).
+metaphor recovers agency lost to the blind mechanization of thought. Through
+defamiliarization, readers discover the principles governing their action: free
+to accept some parts of the conceptual transference (the intellectual field
+*is* "verdant"!) and to reject others (but we will not "scythe" it).
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
-heritage, makes use of this move consistently and with relentless clinical
-precision. In the short story "A Guide to Berlin," to which D. Barton Johnson
-attributes our first glimpse at Nabokov's "mature virtuoso style
-[@johnson_guide_1979, 354]," Nabokov writes:
+heritage, used defamiliarization in the formalist vein often and with
+relentless clinical precision. In the short story "A Guide to Berlin," to which
+D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
+style [@johnson_guide_1979, 354]," Nabokov writes:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
@@ -159,20 +160,20 @@ The pipes can be read as a metaphor for the literary device. Usually found
 beneath the street, they now sit idle and visible above the surface. Yet even
 when exposed, the device fails to captivate for long. Disused, it passes out
 sight, covered in snow. Concerned with surfaces, the narrator "probes the
-glaze" of the street. He finds a palindrome written in snow. "Otto" not only
-resembles the pipes visually, but is in itself a surface-revealing inscription
-that makes the pipes visible again, through the snow. Although the metaphoric
-pipe cannot reach beyond the page, the mimetic surface inscription draws
-attention to the word's visual shape and acoustics. It invites readers to
-perform the symmetry of its assonance and consonance as they pronounce the
-word. The round vowels and the interrupting obstruents of "Otto" contort the
-body in accordance with the sound image: reverse mimesis, the body as sound
-pipe. The moment of corporeal reenactment briefly transcends representational
-and paper-bound confines of the medium. The performance makes the "making of
-the literary technique obvious," obvious. In this lies the prevalent
-characteristic of Nabokov's mature work, which often seeks to lift off of the
-page through sheer recursion of literary technique, where each successive turn
-of the abstraction brings the word closer to the reader.
+glaze" of the street. He finds a palindrome written in snow. The inscription
+"OTTO" not only resembles the pipes visually, but is in itself a
+surface-revealing inscription that makes the pipes visible again, through the
+snow. Although the metaphoric pipe cannot reach beyond the page, the mimetic
+surface inscription draws attention to the word's visual shape and acoustics.
+It invites readers to perform the symmetry of its assonance and consonance as
+they pronounce the word. The round vowels and the interrupting obstruents of
+"OTTO" contort the body in accordance with the sound image: reverse mimesis,
+the body as sound pipe. The moment of corporeal reenactment briefly transcends
+representational and paper-bound confines of the medium. The performance makes
+the "making of the literary technique obvious," obvious. In this, lies the
+prevalent characteristic of Nabokov's mature work, which often seeks to lift
+off of the page through sheer recursion of literary technique, where each
+successive turn of the abstraction brings the word closer to the reader.
 
 Yet for all the language games, the formalist conception of a literary device
 does not quite reach to affect the materiality of the written word. The
@@ -210,7 +211,7 @@ Gadamer's seminal conception of art, the free play of the artistic mind is
 transformed into structure (*Gebilde*) that is both "repeatable" and
 "permanent" [@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*,
 Paul Ricoeur writes about the "range of social and political changes" related
-to the invention of writing. Human discourse is is "fixed" and thereby "preserved
+to the invention of writing. Human discourse is "fixed" and thereby "preserved
 from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
 The literary device offers no such permanence. It contains inscription of a

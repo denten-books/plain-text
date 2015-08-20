@@ -37,7 +37,7 @@ read so much), but the rate of production is increasing geometrically"
 Flattening of the knowledge realm.
 https://medium.com/the-physics-arxiv-blog/the-extraordinary-growing-impact-of-the-history-of-science-642022a39d67
 
-Impact on the study of textual artifact. If are are to take the hypothesis of
+Impact on the study of textual artifact. If are to take the hypothesis of
 extended cognition seriously, we must treat the tools of cognitive augmentation
 as seriously as we would our own mental development, in the traditional sense.
 
