@@ -210,7 +210,7 @@ Gadamer's seminal conception of art, the free play of the artistic mind is
 transformed into structure (*Gebilde*) that is both "repeatable" and
 "permanent" [@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*,
 Paul Ricoeur writes about the "range of social and political changes" related
-to the invention of writing. Human human discourse is "fixed" and thereby "preserved
+to the invention of writing. Human discourse is is "fixed" and thereby "preserved
 from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
 The literary device offers no such permanence. It contains inscription of a
