@@ -239,8 +239,8 @@ suspecting, in the absence of other feedback, that their gaze is met in bad
 faith.
 
 Connecting *theories* of meaning--making to the *practices* of meaning--making
-offers a way out of the bad faith conundrum. Bad faith identifies a misaligned
-duplicity between thought and action. The solution to connect "meaning" with
+offers a way out of the bad faith conundrum. Bad faith identifies a
+misalignment between thought and action. The solution to connect "meaning" with
 "operational meaning" is ultimately a species of pragmatism.  William James
 articulated that view concisely when he wrote that "reality is seen to be
 grounded in a perfect jungle of concrete expediencies"
@@ -290,12 +290,13 @@ photo-detectors, RAW image formats, complementary metal–oxide–semiconductors
 image manipulation filters. A study of that sort would be in peril of being
 misguided by theories that have no basis in reality. That is not to say that
 theory has nothing to contribute to the conversation. Rather that theorists can
-contribute more when their thought is grounded in practice. Similarly, it is my
-contention here that fundamental literary-theoretical concepts---such as word,
-text, narrative, discourse, author, story, book, archive---are thoroughly
-enmeshed in the underlying physical substratum of paper and pixel. It follows
-that any attempt to articulate the idea cannot attain its full expressive
-potential without a thick description of its base particulates.
+contribute more when their thought is grounded in the material foundations of
+practice. Similarly, it is my contention here that the cardinal
+literary-theoretical concepts---such as word, text, narrative, discourse,
+author, story, book, archive---are thoroughly enmeshed in the underlying
+physical substratum of paper and pixel. It follows that any attempt to
+articulate the idea cannot attain its full expressive potential without a thick
+description of its base particulates.
 
 Luckily for us, reading and writing are not esoteric activities. They are
 readily available to phenomenological introspection. I will therefore

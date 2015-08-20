@@ -35,36 +35,37 @@ This device also contains most of my library. Despite the appearances, the
 electronic book on my desk has more in common with the smoke detector than it
 does with several paper volumes also scattered across my desk. Both devices
 embody printed circuit boards, capacitors, silicone chips, and resistors. Both
-draw electric current. Both require firmware updates. Both are connected to the
-network and both communicate, with remote data centers unknown to me and with
-each other. Both are governed by codes political and computational. And yet, I
-continue to read books as if they were still that familiar, immutable, passive
-objects: just books. I think of them still as intimate artifacts, friends even,
+draw electric current. Both require firmware updates. Both are governed by
+codes political and computational. Both are connected to the network and both
+communicate: with remote data centers and with each other. And yet, I continue
+to read electronic books as if they were familiar, immutable, and passive
+objects: just books. I think of them as intimate artifacts, friends even,
 wholly known to me, comforting, and benign. The literary device is none of
 these things. It records my reading, sleeping, and consumption habits. It
 reconfigures itself and "my" texts dynamically. It comes with a manual and
 terms of service. In short, it *governs* reading.
 
-In this book, we will encounter the literary artifact anew, discovering its
-possibilities as a device. We will imagine a hermeneutics capable of
-apprehending the emerging contingencies of literary computation. Finally, in
+In this book, we will encounter the digital literary artifact anew, discovering
+its possibilities as a device. We will imagine a hermeneutics capable of
+comprehending the emerging contingencies of literary computation. Finally, in
 *Plain Text*, I will argue for the preservation of human agency in the many
 everyday acts of human--computer interaction.
 
 The purpose of this chapter is to locate the object of literary study. I mean
 "object" literally, as a material thing that can be seen and touched. This is
 not a trivial task when it comes to digital literary artifacts. Device reading
-happens on screens that refresh theselves at a rate of around 60 cycles per
-second (Hertz). Screen textuality is therefore by definition ephemeral. We will
-have to dig deeper to find the text in the machine. Furthermore, the search for
-the literary artifact entails finding spaces of computational literary
-activity. Literary devices are those machines that in themselves constitute a
-system for textual diffusion. They facilitate symbolic exchange and they do so
-in diverse textual ecosystems. The ecosystem of aesthetic discourse is one such
-market of exchange. But I am interested in others as well. The film studio, the
-hospital, the court house, the university: these are all locations of distinct
-literary activity. They are systems that propagate localized notions of
-document, style, authorship, value, and canon.
+happens on screens that refresh themselves at a rate of around 60 cycles per
+second (Hertz). Screen textuality is therefore by definition ephemeral. It
+moves even as it appears to stand still. We will have to dig deeper to find the
+text in the machine. Furthermore, the search for the literary artifact entails
+finding spaces of computational literary activity. Literary devices are those
+machines that in themselves constitute a system for textual diffusion. They
+facilitate symbolic exchange and they do so in diverse textual ecosystems. The
+ecosystem of aesthetic discourse is one such market of exchange. But I am
+interested in others as well. The film studio, the hospital, the court house,
+the university: these are all locations of distinct literary activity. They are
+systems that propagate localized notions of document, style, authorship, value,
+and canon.
 
 Both senses of locality, micro and macro, lead us to an archive in the history
 of literary computation. With the above definitions in mind, I will also
@@ -88,38 +89,48 @@ for a special purpose" (Merriam-Webster). "Laying bare the device," for Viktor
 Shklovsky, the Russian formalist critic who coined the phrase, meant making
 explicit the implicit mechanism of the metaphor, particularly in cases where
 such metaphors turn "stale," "automatic," and "naturalized," that is, bereft of
-their original poetic and evocative power. One could write, for example, "a
-field of study," without much thought about figurative space. Shklovsky would
-have the reader pause to consider the implications. In what sense do ideas
-resemble (or not) a field? The poet could further make the metaphor strange.
-One could write "to mow a verdant field of literary study," for example,
-breaking and exposing the artifice of the initial metaphor. Better yet, an
-artist could depict a fictional character in the act act of mowing a field
-while discussing the relative merits of Tolstoy and Proust. The unexpected
-transference of properties between fields of study and fields of grass recovers
-the peculiarity of the initial metaphor. The figure is "made strange" again, in
-what Shklovsky calls the technique of poetic "estrangement"
-[@shklovksy_sborniki_1917].
+their original poetic and evocative power.
+
+One could write, for example, "a field of study," without much thought about
+figurative space. Shklovsky would have the reader pause to consider the
+implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
+not) a field? The poet could further make the metaphor strange. One could write
+"to scythe a verdant field of literary study," for example. The verb (to
+scythe) and the adjective (verdant) create an unexpected transference of
+qualities not present in the original image. They "break" the metaphor,
+exposing it as a conceit. To take the metaphor to its logical conclusion, a
+writer could depict a fictional character in the act of mowing a field of grass
+while discussing the relative merits of Tolstoy and Proust. The literary
+artifice actualizes the implied connections between field and field. The writer
+now shows what was merely told before. The technique of defamiliarization
+finally renews the figure: discarding the hardened clichés and suggesting novel
+linkages between the concepts.
 
 When pursuing estrangement the author "lays bare" or "makes obvious" the
 metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
 Johnson famously argued, do more than decorate---they structure everyday human
 activity. The metaphor shapes one system of conceptual relationships in terms
-of another [@lakoff_metaphors_1980, 3-14]. The Russian formalists of the early
-twentieth century did then have the cognitive vocabulary to connect mind and
-symbol, but they did understand estrangement as a matter of everyday practice,
-beyond language analysis. One of Shklovsky's central concerns was with the
-automatization of human experience, by which metaphors lose their evocative
-power through repeated use. Such metaphors become machines that transparently
-convey meaning, and, when habituated, disappear from view. The human, who
-according to a Kantian view of the world, should be actively structuring his or
-her experience, is now being passively structured by the mechanism.
-Estrangement de-automates the experience [@shklovksy_sborniki_1917,
-@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. It
-brings agency back to the structuring experience. Through defamiliarization,
-readers discover the governing principles of their action: free to accept some
-parts of the conceptual transference (the intellectual field *is* vast!) and to
-reject others (but we will not mow it).
+of another. For example, the military image of "fortification defence" implies
+a conceptual system structuring the "defence of an argument"
+[@lakoff_metaphors_1980, 3-14]. When defending the argument, a speaker acts in
+the way that resembles combat. A different metaphor would suggest a less
+combative mode of engagement between interlocutors.
+
+The Russian formalists of the early twentieth century did not quite have the
+contemporary cognitive vocabulary to connect mind and symbol, but they did
+understand estrangement as a matter of everyday practice, beyond language
+analysis. One of Shklovsky's central concerns was with the automatization of
+human experience, by which metaphors lose their evocative power through
+repeated use. Such metaphors become mere machines that convey meaning, and,
+when habituated, disappear from view. The human, who according to a Kantian
+view of the world, should be actively structuring his or her experience, is now
+being passively structured by the mechanism. Estrangement de-automates the
+experience [@shklovksy_sborniki_1917, @shklovsky_hod_1923,
+@boym_estrangement_1996, @holquist_minding_2005]. The interpretation of a
+metaphor recovers agency lost to the blind mechanization of thought.
+Through defamiliarization, readers discover the governing principles of their
+action: free to accept some parts of the conceptual transference (the
+intellectual field *is* vast!) and to reject others (but we will not mow it).
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, makes use of this move consistently and with relentless clinical
@@ -177,13 +188,13 @@ context of media history, the question of literary surfaces gains an
 instrumental dimension. Physical affordances of liquid crystal displays and
 magnetic storage differ drastically from those of goat skins or parchment. Yet
 surface representation maintains the illusion of self-similarity. We are faced
-with with what is called *isomorphic* design, by which the digital page
+with what is called *isomorphic* design, by which the digital page
 resembles print. That resemblance is in itself an unexamined metaphor. The
 principles of isomorphic design are meant to extend a visual metaphor from one
 medium to another. The reader already knows how to turn pages, for example. A
 book device therefore simulates pages to ease the cognitive transition to the
 new medium. But there is nothing inherently page-like within the device. The
-metaphor conceals the structural rift between between paper and screen
+metaphor conceals the structural rift between paper and screen
 technology. I am concerned throughout with the particularities of that
 concealment. A digital poem, a novel, a physician's script, or a legal contract
 all still look like their paper counterparts, but increasingly they behave like
@@ -199,7 +210,7 @@ Gadamer's seminal conception of art, the free play of the artistic mind is
 transformed into structure (*Gebilde*) that is both "repeatable" and
 "permanent" [@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*,
 Paul Ricoeur writes about the "range of social and political changes" related
-to the invention of writing. Human discourse is "fixed" and thereby "preserved
+to the invention of writing. Human human discourse is "fixed" and thereby "preserved
 from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
 The literary device offers no such permanence. It contains inscription of a
@@ -217,7 +228,7 @@ ideas. I would like to know what happens in the metaphorical transference
 between the book and the device emulating the book. Knowing in that sense
 allows me consent, or, conversely, to resist elements of the imposed structure.
 
-## 1.5 Universal Turing Machines
+## 1.2 Universal Turing Machines
 
 I want to foreshadow now what will become the punchline of the whole book:
 namely that the ghost in the machine cannot be reduced to some vague notions of
@@ -547,7 +558,7 @@ now I ask only, Who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
-## 1.6 Three devices
+## 1.3 Three devices
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
 
 "You must acknowledge that this is readable without special training," reads
@@ -891,7 +902,7 @@ illusion of effortless textuality.
 
 
 
-## 1.2 WYSINAWYG (What You See Is Not Always What You Get)
+## 1.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -925,7 +936,7 @@ reading the book on a *device*, things get more complicated. You can point to
 the screen and yet it would not be enough to say that the text resides there.
 The screen will go dark when the device loses power, but the text will
 persevere within, stored at another physical location. Deep within a device,
-the text will be embedded into into some sort of a storage medium, usually a
+the text will be embedded into some sort of a storage medium, usually a
 magnetic or a "solid state" drive. Where the digital text resides affects even
 those who prefer to read in print. Like most literature today, print materials
 are also "born digital." At some point of time, they occupy the same
