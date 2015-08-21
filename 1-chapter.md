@@ -295,6 +295,321 @@ machine that emulates a thought experiment.
 [^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
 @marche_literature_2012.
 
+### begin on Turing
+
+In his seminal 1937 paper "On Computable Numbers," Alan Turing describes an
+automatic machine (*a*-machine) capable of transposing the problem of
+calculability into "effective calculability." Where all previous calculators
+are special-purpose mechanisms, engineered to augment a specific type of
+computation, Turing thought of his device as a universal "*a*-machine." In
+theory (and it was conceived as a thought experiment, at first), it could
+imitate any other mechanism for calculation, because its internal composition
+could be reduced to a dynamic representational state (as opposed to a fixed,
+mechanical one). The device would receive input by means of a paper ribbon
+containing discrete symbolic inputs. At its bare minimum, the device would need
+only the ribbon, a means of "reading," and the means of "writing" the symbols
+onto the tape.  Mechanically, its movement could be restricted to one axis or
+to the movement of the tape through the mechanism.  What makes such a device a
+*universal* machine is its ability to internalize symbol as part of its
+mechanism. Symbolic input, in this case, can represent computable data (letters
+and numbers), but it can also function as control code ("move left," "erase
+mark") altering the movement of the mechanism.
+
+In fact, the Turing machine does not properly differentiate between content and
+control code. Its "internal state" (Turing uses terms of sentient awareness
+throughout) "is determined by *m*-configuration *q<sub>n</sub>* and the scanned
+symbol," where the *m*-configurations are defined as "a finite number of
+conditions" of a machine, which, in Turing's words, may be compared to "a man
+in the process of computing a real number" [@turing_computable_1937, 231]. The
+initial configuration plus the scanned symbol define the next internal state of
+the machine. The material and the symbolic fuse into one: here lies the essence
+of the universal Turing machine (UTM). Software is also hardware. In being able
+to internalize configuration as symbol, the *universal* Turing machine can in
+effect imitate all other special-purpose Turing machines. This transition of
+symbols into machine states effectively defines modern programming. A universal
+machine, unlike other, definitive, single-purpose and limited-state mechanisms
+(a clock for example), contains the ability to take on differing internal
+symbolic configurations. It can imitate a clock, an abacus, a scale, and, with
+time, Turing thought it could imitate humans as well.
+
+This ambiguity between hardware and software leads to some confusion in the
+critical literature, as evidenced by Lev Manovich's playful response to
+Kittler's "there is no software" argument. If I understand it correctly,
+Kittler's short but often cited essay picks up the thread of Kittler's earlier
+work to posit what he calls a "postmodern writing scene." "We do not write
+anymore," writes Kittler: "human-made writing passes through microscopically
+written inscriptions which, in contrast to all historical writing tools, are
+able to read and write by themselves" [@kittler_there_1995]. According to this
+schema, Kittler sees the paper-bound design blueprints of the first integrated
+microprocessor as the last "real" piece of writing. Everything written after
+that point is hardware (because software is hardware at that "microscopic"
+level).
+
+Manovich inverts Kittler's argument into "there is only software," by which he
+means that in a pragmatic sense, the affordances of a given medium are
+determined by software. A printed page begins to differ from a screen only when
+the readers are able to effect something on the screen that they could not on
+paper. To this end, Manovich encourages his readers to become active developers
+of software, rather than its passive consumers [@manovich_there_2011, 274]. In
+that, Manovich reasserts the possibility of writing in the silicon age. Kittler
+(who passed in 2011) could perhaps object to that line of reasoning in
+maintaining that chip architecture (the last written work) still determines (as
+foundation) all higher levels of textuality "floating" above the silicon
+bedrock. And no amount of learning to code would give an ordinary subject the
+resources required to write in silicon---a process so advanced and expensive as
+to be limited to a handful of international chip manufacturers. In opening a
+successive nested series of black boxes, the post-silicon writer hits the
+impenetrable bedrock of chip architecture. In such conditions, is it even
+worthwhile to follow Manovich's call for new literacies? Is writing still
+possible? If "there is no software," then no. Else if everything is software,
+then one can answer to the affirmative.
+
+This ontological complication has its roots deep in Cartesian dualism. The
+question of where do brains end and minds begin remains unresolved in cognitive
+science, for example. Similarly, at some imperceptible point software
+disappears into hardware. But before we ourselves get lost in that liminal
+space between matter and idea, let us recover a measure of oddity found in the
+now ubiquitous operation of Turing machines. First, note that Turing's original
+formulation happens at the level of a thought experiment. (Turing does not
+begin to build actual machines until his move to Princeton in 1936.) A
+universal Turing machine comes to life initially as an idea that can take on
+the structure of other ideas expressed symbolically. Second, note that though
+Turing describes his machine in the language of mathematics (where his most
+significant contribution lies), his description also contains the bare minimum
+of a mechanical device. No matter how symbolic a Turing machine aspires to be,
+no matter how ascendant to the realm of the ideal, it still needs a bare
+minimum of physical matter to function. And Turing's paper does contain the
+canonical description of that bare physical minimum.
+
+With the above two observations in mind, we can view abstracted universal
+Turing machines, as implemented in the Wireworld universe (a cellular automaton
+simulation), for example, or in Minecraft (a procedurally generated sand-box
+world-exploration game), as recursive, second-order ideational constructs,
+built on top of first-order physical mechanisms (a personal computer, in the
+case of Wireworld and Minecraft). We know this, because all *n+* order Turing
+machines are limited in computational power by the physical capabilities of
+that bottom-most device (the physical machine writing the simulation). The
+simulated UTM cannot outperform (in terms of cycles per second, instructions
+per cycle, or its capacity to hold a number of instructions) the machine doing
+the simulation. If we disregard the dizzying levels of recursion (a Turing
+machine, simulating a Turing machine, simulating a Turing machine and so on),
+we can begin to examine the turtle at the bottom, which has its head in the
+symbolic and its feet firmly in the material world.
+
+Literature in computer science tends to confront universal Turing machines as
+algorithms: in other words, as virtual, second-order symbolic representations.
+As consummate thinkers on the level of the symbol, computer scientists and
+literary scholars (unlike, say, electrical engineers or book binders) rarely
+need to pay heed to that strange bottom-most turtle.[^ln1-bottom] Yet it is
+impossible to entirely disassociate the implementation from the idea. In his
+review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
+mathematician whose work anticipated Turing's (independently) in several
+important aspects, wrote that "a human calculator, provided with pencil and
+paper and explicit instructions can be regarded as a kind of a Turing machine"
+[@church_computable_1937, 42-3; also cited in @petzold_annotated_2008, 63].
+Disregarding the broader, metaphysical implications of that statement, note for
+now the persistence of two essential implements required for the minimally
+viable operation of the Church--Turing human and machine calculators. Pen and
+paper persevere and assert themselves through the
+abstraction.[^ln1-abstraction]
+
+Forced to confront the universal Turing machine *as a mechanism*, the historian
+must acknowledge that it borrows from a number of extant designs, which,
+together and incrementally, give the UTM its physical form. A media history of
+the Turing machine as device differs from its intellectual history as symbolic,
+mathematical abstraction in interesting and instructive ways.[^ln1-turing]
+
+![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
+via a Turing machine."](images/turing-idea.png)
+
+Although Turing's original article did not include any drawings, he describes
+his "*a*-machine" in terms of paper tape medium, scanning, erasing, "writing
+down notes," "external operators," and "moves" of the mechanism. From the
+engineering standpoint, Turing's machine can be reduced (1) to the mechanism
+for "reading" and "writing" symbols onto and from paper storage media, and (2)
+to the paper tape storage medium itself (as seen in Mike Davey's
+reconstruction). In the United States, these elements would find prior art in
+mechanisms such as the "Numeral adding or subtracting attachment for
+type-writing machines" [@daugherty_numeral_1894], "Combined
+Type-writing and Computing Machine" [@degener_combined_1911], "Computing
+Attachment for Typewriters" [@wright_computing_1914], "Computing Mechanism"
+[@wright_computing_1915], and "Combined Type-writing and Adding Machine"
+[@ellis_combined_1914] among others.
+
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012. Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
+
+By the end of the nineteenth century a number of lesser mechanisms anticipate
+the functional elements of Turing's machine. And by 1936, when Turing
+publishes his paper on computable numbers, these inventions not only anticipate
+the modern computer, but are brought to mass market in the widespread
+manufacture of computing scales, dial recorders, electric tabulating machines,
+and computing typewriters made by companies like Underwood Computing Machine,
+Electromatic, and International Business Machines (IBM). Rather than a single
+eureka moment, the invention of the universal machine should be viewed as a
+gradual historical process that culminates in Turing's universal (and minimally
+viable) specifications.
+
+When viewed in the context of literary, book, and textual history (instead of
+the history of mathematics, for example), the universal Turing machine signifies a
+culmination of several broad, long-term trends that begin with the invention of
+writing itself. Since much has been written on the first two of these periods,
+I will outline them briefly with the intention of elucidating the third in
+greater detail:
+
+1. The mechanization of type and the accompanying normalization of language
+begins with the diffusion of movable type in China and Europe, circa 1040
+(China) and 1450 (Germany) [@mcluhan_gutenberg_1962; @he_diffusion_1994;
+@needham_shorter_1994, 1-34; @febvre_coming_2010]. With the invention of
+movable type and the typewriter, the variability of hand-written script can be
+normalized to a limited set of discrete characters. The process of
+normalization continues today as contemporary technologies like natural
+language processing and optical character recognition struggle to bring
+non-regularized writing systems under the computational umbrella.
+
+2. The development of distant writing (telegraphy) and remote communications,
+which, although extant in many early societies (as smoke and mirror signals,
+for example) accelerates dramatically at the beginning of the nineteenth
+century [@shaffner_telegraph_1859; @beauchamp_history_2001;
+@standage_victorian_2014]. When combined with the mechanization of type,
+telegraphy amplifies the range and the speed of geographical displacement
+enabled by the circulation of printed matter. The telegraph further weakens the
+authorial function in transposing writing from its immediate physical
+environment across vast geographical distances. The advent of telecommunication
+lengthens the chain of technological mediation between author and reader. In
+the absence of the identifying "hand," the telegraph clerk's and the censor's
+mark cannot be distinguished from the author's (a common literary plot device
+in the fiction of the period). The notion of a telegram's "fidelity" therefore
+becomes an attribute of the communication channel as a whole (instead of an
+attribute attached to authorial intent).
+
+3. Finally, the rise of Turing machines in the late nineteenth and early
+twentieth centuries elevates print from an intelligence-conveying medium to one
+of communication and control. "Content" intended for humans is now routinely
+mixed with "control codes" intended to alter the operation of the receiving
+device.
+
+It is this last and still current moment of historical development that is
+least theorized. A dominant tradition in the history of the human sciences
+follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
+Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
+of ideology, discourse, and representation. Where for Althusser "every science
+is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
+human sciences on the level of "positive unconscious," revealing unspoken
+"rules" that govern the formation of "theories, concepts, and objects of study"
+on the level of "scientific representation" [@foucault_order_1994, xi].
+
+There are a number of theoretical niceties here (that the reader may skip, if
+not interested in the history of Marxist thought). For example, the concept of
+ideology, in the orthodox Marxist schema of things, exists as a "political
+superstructure [...] to which correspond definite forms of social
+consciousness." In the Marxist model, ideology floats *above* the material
+base---the dominant mode of production---that "determines the general character
+of the social, political and spiritual processes of life"
+[@marx_contribution_1904, 11]. Althusser's influential contribution to this
+world view was to insist that ideology, although secondary to the mode of
+production, nevertheless assures its continual reproduction as a means of
+continuing subjugation and political control. Simply put, for Althusser, the
+ideological apparatus of the modern capitalist state ends up being "installed
+in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
+similar (although not equivalent) rhetorical move, Foucault envisions that
+beneath the "epistemological level" of human activity there exists an
+"archaeological layer," where representation "governs the mode of being of
+language, individuals, nature, and need itself" [@foucault_order_1994, 209].
+Ideology and representation, once determined, now determine. The rhetorical
+jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
+short history of the universal Turing machine runs counter to this top-heavy
+tradition of reading Marx in the inverse. As a device, the Turing machine fuses
+control and communication. Control is meant here bluntly, as physical circuit
+control, at the level of the mechanism and not at the attenuated level of
+ideology or representation.
+
+A number of inventions at the end of the nineteenth century pertain
+specifically to "circuit-controlling devices controlled by a traveling
+perforated strip or tape" [@cuttriss_telegraphy_1893]. Prior to perforated
+tape, the transmission of messages by telegraph required the presence of a
+skilled operator, able to transcribe messages from text to Morse code, and into
+the physical motion of a lever-operated circuit. In this system, the human
+operator acted as a mute interface between text and machine. The transcription
+of text into signal, and back onto paper, required the real-time presence of
+human encoders and decoders. The perforated tape decoupled the human from the
+machine. In US1187035 (1916) on "Telegraphy" Albert and Ralph Bumstead explain,
+"the object of our invention is to provide a system of telegraphy which does
+not require skilled operators for the transmission and reception of messages"
+[@bumstead_telegraphy_1916]. Instead, the message was transcribed into
+perforation via mechanical means and then fed into the device.  The tape
+mechanics of the typewriter could then be coupled with the electrics of the
+telegraph, with perforated tape acting as a mediator between the two "worlds"
+of mechanics and electricity. A number of devices emerged at the time with the
+aim of transforming the mechanical action of the typewriter into perforation,
+and, consequently, perforation into script, completing the circuit between
+automated "encoding" and "decoding." As one device converts human input into
+mechanical states, and into signal, another device converts the signal into
+mechanical states and into human-legible messages.
+
+What began as a trickle at the end of the nineteenth century ended in a flood
+at the beginning of the twentieth. A multitude of devices capitalized on the
+control capabilities of removable storage media. These included machines for
+tape-controlled telegraphic transmission [@wheatstone_improvement_1874;
+@murray_tape-controlled_1905; @bumstead_telegraphy_1916], tape-controlled
+printing [@creed_printing_1911], printing telegraphs
+[@hallden_printing-telegraph_1929], and remote broadcast programming devices
+for radio and television content [@vriendt_program_1934; @brown_automatic_1936;
+@brown_selective_1936]. With the invention of punch cards and perforated tape
+(also used in textile looms, as early as 1725), a message meant for another
+human became also a physical medium---bumps and holes---used to animate the
+mechanical movement of the transmission apparatus.
+
+For example, of the 33 asserted claims in the Bumstead brothers' patent, the
+first 13 relate to the "transmission of intelligence [...] adapted to initiate
+a succession of electrical impulses all of which have a character representing
+significance, a receiver adapted to detect variations in time intervals
+elapsing between successive impulses, a plurality of interpreting relays
+selectively actuated by said receiver, and a printed mechanism responsive for
+the combined action" [@bumstead_telegraphy_1916, 12-13]. Up to this point, the
+patent describes a device for transmission information, from type to print.
+Starting with clause 14, the language changes to describe a more general
+"telegraph system," involving "an impulse transmitter having means to vary the
+time intervals between successive transmitted impulses, each time interval
+having a character *representing significance*, a receiver responsive to said
+devices, and signal, *distributing*, *interpreting*, and recording devices
+responsive to the contiguous significant time intervals defined by the impulses
+[emphasis mine]" [@bumstead_telegraphy_1916, 14]. For the automated telegraph
+the control code and the message are one: that is, the arrangement of
+perforation on the ticker tape affects the internal mechanical configuration of
+the machine. Another way to put this would be to say that the state of the
+tape-driven telegraph machine at any given time is also, in part, a message
+meant for the human recipient.  The printing telegraph of Brothers Bumstead,
+along with their subsequents and antecedents, contain all the necessary parts
+for a Turing machine: discrete symbolic language, removable storage medium, and
+a device that can alter its internal state based on the reading and writing
+passing symbols.
+
+By 1905, Murray (of the Murray telegraph and alphabet) can write that "if we
+disregard the small class of telegrams that merely express emotions, *the
+essence of telegraphy is control* [emphasis mine]." He goes on to write that
+"telegraph systems, therefore, belong not to the class of producing or
+distributing, but to the class of controlling mechanisms"
+[@murray_setting_1905, 556].
+
+With this history in mind, I am interested in reformulating the metaphysical
+anxiety about literature and value formation in terms of text and control. If
+you are reading these words on a screen, my message has reached you through a
+long chain of transformations: from the mechanical action of my keyboard, to
+the arrangement of electrons on magnetic storage media, to the modulation of
+fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many
+third parties were involved in that act of communication. And some part of that
+message was used to control the electrical circuits of the device in your lap,
+in your hand, near to your eye, embedded, or embodied. Close reading limited to
+the parsing of content and representation risks missing the machinations of
+naked circuit control. It looks like you are reading a book, but this book
+changes its internals as it receives instructions to inform and to control. For
+now I ask only, Who controls the device? But were a book also a pill or fused
+with the neural circuitry of the brain, would you know what and whom you were
+reading?
+
 ## 1.3 Three devices
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
 
