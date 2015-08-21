@@ -237,72 +237,57 @@ more detailed discussion follows in 1.2.
 
 ## 1.2 Universal Turing Machines
 
-### The computer is not just a calculator
-
 What sort of a thing is a literary device? It is tempting to think of personal
 computers as glorified calculators. And in fact, that is often the popular
 image of computing, one that highlights the machine's ability to calculate. The
-computer reduces culture to ones and zeroes, thereby diminishing the human
-experience.[^ln1-pop] There is some truth to that position, but I would like to
-argue here that the connection between computing and calculation is but a piece
-of a larger story. The personal computer governing the production of textuality
-today emerged from an amalgamation of automated devices: among them the
-telegraph, the typewriter, and the calculator [^ln1-ceruzzi]. Each of these these machines
-left an imprint on the structure of our everyday engagement with computational
-devices.
-
-[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
-computer is a convergence of separate streams of information handling, each
-with its own rich tradition of technological history." "One could add other
-antecedents such as the development of radio, motion pictures, and photography"
-[@ceruzzi_computing_2012, 11].
+computer reduces culture to ones and zeroes (or so goes the story), thereby
+diminishing the human experience.[^ln1-pop] There is some truth to that
+position, but I would like to argue here that the connection between computing
+and calculation is but a piece of a larger story. The personal computer
+governing the production of textuality today emerged from an amalgamation of
+automated devices: among them the telegraph, the typewriter, and the
+calculator. Add to that add the loom, the music box, the radio, and the
+film camera [^ln1-ceruzzi]. Each of these these machines left an imprint on the
+structure of our everyday engagement with computational devices.
 
 It is important to keep these intertwined material lineages in mind because
 each brings with it a different set of values and priorities. As complex
-computational systems begin to play an ever larger part in our lives, from
-structuring family relations to health and nutrition (think social media and
+computational systems begin to play an ever greater part in our lives, from
+affecting family relations to health and nutrition (think social media and
 personal activity trackers), we are increasingly faced with a host of
-conflicting choices. In building such systems, do we privilege agency or
-efficiency, privacy or connectivity, elegance or complexity? These are not
-choices that should be left to a calculator. Systems, in themselves, do not
-contain values. Rather, values are imposed from without. The question then
-becomes one of ends and means. A calculator is most "efficient" when operating
-on binary data. Efficiency and complexity are goods for the task of
-calculation. A democratic vision of a just society places value on open
-deliberation and consensus building. Art calls for beauty. What we commonly
-call a computer is also, undeniably, a tool for social and political
-transformation: one used to make war and to create art. It is up to us to
-decide how.
-
-### The paradox of the Turing machine.
+conflicting choices. When building systems that structure human experience, do
+we privilege agency or efficiency, privacy or connectivity, elegance or
+complexity? These are not choices that should be left to a calculator. Systems,
+in themselves, do not contain values. Rather, values are imposed from without.
+The question then becomes one of ends and means. A calculator is most
+"efficient" when operating on binary data. Efficiency and complexity are goods
+for the task of calculation. A democratic vision of a just society places value
+on open deliberation and consensus building. Humans prefer to manipulate texts
+and images. Art calls for beauty. What we commonly call a computer is also,
+undeniably, a tool for social and personal transformation: one used to make war
+and to create art. It is up to us to decide which one and how.
 
 To encounter the computer as a literary device, one must first come to terms
 with its peculiar relationship to universal Turing machines. More than any
-other mechanism, the Turing machine defined the very limits of computation. But
-the Turing machine is also a controversial construct that continues to elicit
-debate. The debate concerns a paradox at the very heart of software
-engineering. In his seminal 1937 paper on computable numbers, Alan Turing, then
-a student at King's College, Turing imagined a physical machine to solve a
-theoretical problem. "We may compare a man in the process of computing a real
-number to a machine that is only capable of a finite number of conditions"
-[@turing_computable_1937, 231].
-
-@turing_computable_1937
+other mechanism, the Turing machine defined the very limits of computation.
+Since its inception, the Turing machine remains a controversial construct that
+continues to elicit debate. The debate concerns a paradox at the very heart of
+software engineering. In his seminal 1937 paper on computable numbers, Alan
+Turing, then a student at King's College, imagined a tangible machine to solve
+a theoretical problem. "We may compare a man in the process of computing a real
+number to a machine that is only capable of a finite number of conditions," he
+wrote [@turing_computable_1937, 231]. Spurred The machine imagined mathematical thought
+as a *mechanical process.* As Charles Petzold explains in his book-length
+annotation on Turing's paper, it is likel
 
 A thought experiment about computable numbers that imagines a machine. A
 machine that emulates a thought experiment.
 
-[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
-@marche_literature_2012.
-
-### begin on Turing
-
-In his seminal 1937 paper "On Computable Numbers," Alan Turing describes an
-automatic machine (*a*-machine) capable of transposing the problem of
-calculability into "effective calculability." Where all previous calculators
-are special-purpose mechanisms, engineered to augment a specific type of
-computation, Turing thought of his device as a universal "*a*-machine." In
-theory (and it was conceived as a thought experiment, at first), it could
+Alan Turing describes an automatic machine (*a*-machine) capable of transposing
+the problem of calculability into "effective calculability." Where all previous
+calculators are special-purpose mechanisms, engineered to augment a specific
+type of computation, Turing thought of his device as a universal "*a*-machine."
+In theory (and it was conceived as a thought experiment, at first), it could
 imitate any other mechanism for calculation, because its internal composition
 could be reduced to a dynamic representational state (as opposed to a fixed,
 mechanical one). The device would receive input by means of a paper ribbon
@@ -609,6 +594,15 @@ changes its internals as it receives instructions to inform and to control. For
 now I ask only, Who controls the device? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
+
+[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
+@marche_literature_2012.
+
+[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
+computer is a convergence of separate streams of information handling, each
+with its own rich tradition of technological history." "One could add other
+antecedents such as the development of radio, motion pictures, and photography"
+[@ceruzzi_computing_2012, 11].
 
 ## 1.3 Three devices
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
