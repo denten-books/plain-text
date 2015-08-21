@@ -222,47 +222,79 @@ artifacts conceal a number of design choices, obscuring  the flows of code and
 codex under the familiar guise of surface representation. The digital book is
 not just a book. It is a universal Turing machine, a machine, that besides
 effecting the figures of reading and writing, holds the potential to effect all
-possible metaphors. The task of the literary scholar reading on the level of
+possible metaphors.[^ln1-notquite] The task of the literary scholar reading on the level of
 the device becomes to expose the conceptual system that governs the activity.
 It is finally to make it available to interpretation---that is to free play of
 ideas. I would like to know what happens in the metaphorical transference
 between the book and the device emulating the book. Knowing in that sense
-allows me consent, or, conversely, to resist elements of the imposed structure.
+allows me consent, or, conversely, to resist elements of imposed structure.
+
+[^ln1-notquite]: To what extent a personal computer is a Turing machine is
+matter of contention. The Turing machine is a *thought experiment* that
+imagines a device. The PC is a device emulating a Turing machine. See
+@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
+more detailed discussion follows in 1.2.
 
 ## 1.2 Universal Turing Machines
 
-I want to foreshadow now what will become the punchline of the whole book:
-namely that the ghost in the machine cannot be reduced to some vague notions of
-value---these amount to a distraction, which lies plainly upon the surface. The
-conspicuous ghostly apparition (indicating the absence of a living subject) is
-agency itself, which, for now, necrotically attaches itself to dead things like
-systems, mediums, and automated discourses. If all this talk of value, ghosts,
-and necromancy sounds familiar, the reader will not be surprised when I advance
-Karl Marx as a preeminent theorist of the algorithm and someone able to help us
-reason through Kittler's computational conundrum. On towards Marx then (who
-will appear much later), through the machine that, although intimately familiar
-to every writer and consumer of text by touch, remains alien and alienating in
-its hidden possibilities, soothing and threatening all at once.
+### The computer is not just a calculator
 
-The personal computer governing the production of textuality today emerged from
-an amalgam of automated devices, chief among them the telegraph, the
-typewriter, and the calculator. In his seminal 1937 paper "On Computable
-Numbers," Alan Turing describes an automatic machine (*a*-machine) capable of
-transposing the problem of calculability into "effective calculability." Where
-all previous calculators are special-purpose mechanisms, engineered to augment
-a specific type of computation, Turing thought of his device as a universal
-"*a*-machine." In theory (and it was conceived as a thought experiment, at
-first), it could imitate any other mechanism for calculation, because its
-internal composition could be reduced to a dynamic representational state (as
-opposed to a fixed, mechanical one). The device would receive input by means of
-a paper ribbon containing discrete symbolic inputs. At its bare minimum, the
-device would need only the ribbon, a means of "reading," and the means of
-"writing" the symbols onto the tape. Mechanically, its movement could be
-restricted to one axis or to the movement of the tape through the mechanism.
-What makes such a device a *universal* machine is its ability to internalize
-symbol as part of its mechanism. Symbolic input, in this case, can represent
-computable data (letters and numbers), but it can also function as control code
-("move left," "erase mark") altering the movement of the mechanism.
+What sort of a thing is a literary device? It is tempting to think of personal
+computers as glorified calculators. And in fact, that is often the popular
+image of computing, one that highlights the machine's ability to calculate. The
+computer reduces culture to ones and zeroes, thereby diminishing the human
+experience.[^ln1-pop] There is some truth to that position, but I would like to
+argue here that the connection between computing and calculation is but a piece
+of a larger story. The personal computer governing the production of textuality
+today emerged from an amalgamation of automated devices: among them the
+telegraph, the typewriter, and the calculator. Each of these these machines
+left an imprint on the structure of our everyday engagement with computational
+devices.
+
+It is important to keep these intertwined material lineages in mind because
+each brings with it a different set of values and priorities. As complex
+computational systems begin to play an ever larger part in our lives, from
+structuring family relations to health and nutrition (think social media and
+personal activity trackers), we are increasingly faced with a host of
+conflicting choices. In building such systems, do we privilege agency or
+efficiency, privacy or connectivity, elegance or complexity? These are not
+choices that should be left to a calculator. Systems, in themselves, do not
+contain values. Rather, values are imposed from without. The question then
+becomes one of ends and means. A calculator is most "efficient" when operating
+on binary data. Efficiency and complexity are goods for the task of
+calculation. A democratic vision of a just society places value on open
+deliberation and consensus building. Art calls for beauty. What we commonly
+call a computer is also, undeniably, a tool for social and political
+transformation: one used to make war and to create art. It is up to us to
+decide how.
+
+### The paradox of the Turing machine.
+
+A thought experiment about computable numbers that imagines a machine. A
+machine that emulates a thought experiment.
+
+[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
+@marche_literature_2012.
+
+### begin on Turing
+
+In his seminal 1937 paper "On Computable Numbers," Alan Turing describes an
+automatic machine (*a*-machine) capable of transposing the problem of
+calculability into "effective calculability." Where all previous calculators
+are special-purpose mechanisms, engineered to augment a specific type of
+computation, Turing thought of his device as a universal "*a*-machine." In
+theory (and it was conceived as a thought experiment, at first), it could
+imitate any other mechanism for calculation, because its internal composition
+could be reduced to a dynamic representational state (as opposed to a fixed,
+mechanical one). The device would receive input by means of a paper ribbon
+containing discrete symbolic inputs. At its bare minimum, the device would need
+only the ribbon, a means of "reading," and the means of "writing" the symbols
+onto the tape.  Mechanically, its movement could be restricted to one axis or
+to the movement of the tape through the mechanism.  What makes such a device a
+*universal* machine is its ability to internalize symbol as part of its
+mechanism. Symbolic input, in this case, can represent computable data (letters
+and numbers), but it can also function as control code ("move left," "erase
+mark") altering the movement of the mechanism.
 
 In fact, the Turing machine does not properly differentiate between content and
 control code. Its "internal state" (Turing uses terms of sentient awareness
@@ -349,7 +381,7 @@ Literature in computer science tends to confront universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.
 As consummate thinkers on the level of the symbol, computer scientists and
 literary scholars (unlike, say, electrical engineers or book binders) rarely
-need to pay heed to that strange bottom-most turtle.[^ln2-bottom] Yet it is
+need to pay heed to that strange bottom-most turtle.[^ln1-bottom] Yet it is
 impossible to entirely disassociate the implementation from the idea. In his
 review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
 mathematician whose work anticipated Turing's (independently) in several
@@ -360,13 +392,13 @@ Disregarding the broader, metaphysical implications of that statement, note for
 now the persistence of two essential implements required for the minimally
 viable operation of the Church--Turing human and machine calculators. Pen and
 paper persevere and assert themselves through the
-abstraction.[^ln2-abstraction]
+abstraction.[^ln1-abstraction]
 
 Forced to confront the universal Turing machine *as a mechanism*, the historian
 must acknowledge that it borrows from a number of extant designs, which,
 together and incrementally, give the UTM its physical form. A media history of
 the Turing machine as device differs from its intellectual history as symbolic,
-mathematical abstraction in interesting and instructive ways.[^ln2-turing]
+mathematical abstraction in interesting and instructive ways.[^ln1-turing]
 
 ![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
 via a Turing machine."](images/turing-idea.png)
@@ -443,9 +475,9 @@ device.
 It is this last and still current moment of historical development that is
 least theorized. A dominant tradition in the history of the human sciences
 follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
-Derrida)[^ln2-derr] in analyzing mechanisms of structure and control in terms
+Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
 of ideology, discourse, and representation. Where for Althusser "every science
-is a science of ideology,"[^ln2-alt] Foucault posits his archeology of the
+is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
 human sciences on the level of "positive unconscious," revealing unspoken
 "rules" that govern the formation of "theories, concepts, and objects of study"
 on the level of "scientific representation" [@foucault_order_1994, xi].
@@ -468,7 +500,7 @@ beneath the "epistemological level" of human activity there exists an
 "archaeological layer," where representation "governs the mode of being of
 language, individuals, nature, and need itself" [@foucault_order_1994, 209].
 Ideology and representation, once determined, now determine. The rhetorical
-jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln2-flip] My
+jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
 short history of the universal Turing machine runs counter to this top-heavy
 tradition of reading Marx in the inverse. As a device, the Turing machine fuses
 control and communication. Control is meant here bluntly, as physical circuit
@@ -1042,14 +1074,26 @@ disappear from view. If indeed my intuition is correct and readers do not know
 what books are, how they are made, or what they are capable of, we are all
 operating under the conditions of profound alienation.
 
+I want to foreshadow now what will become the punchline of the whole book:
+namely that the ghost in the machine cannot be reduced to some vague notions of
+value---these amount to a distraction, which lies plainly upon the surface. The
+conspicuous ghostly apparition (indicating the absence of a living subject) is
+agency itself, which, for now, necrotically attaches itself to dead things like
+systems, mediums, and automated discourses. If all this talk of value, ghosts,
+and necromancy sounds familiar, the reader will not be surprised when I advance
+Karl Marx as a preeminent theorist of the algorithm and someone able to help us
+reason through Kittler's computational conundrum. On towards Marx then (who
+will appear much later), through the machine that, although intimately familiar
+to every writer and consumer of text by touch, remains alien and alienating in
+its hidden possibilities, soothing and threatening all at once.
+
+## Notes
+
 [^ln1-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
 In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
 71]."
-
-
-## Notes
 
 [^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
 from speaking to writing: "The most obvious change from speaking to writing
@@ -1061,13 +1105,13 @@ factors and functions" [@ricur_interpretation_1976, 25].
 [^ln1-formal]: I discuss the idea of form as structure and sound in greater
 detail in Chapter 3.
 
-[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+[^ln1-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
 Principle Researcher at Microsoft Research and then a professor at the
 University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
 appeared in the same volume of collected essays, @herken_universal_1988.
 
-[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+[^ln1-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
 the "application layer" and the bottom-most layer the "physical layer"
 [@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
@@ -1075,7 +1119,7 @@ being "responsible for encoding bits onto a transmission medium, whether wires,
 fiber optics, or radio broadcast, in ways that maximize the transmission rate
 and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
 
-[^ln2-abstraction]: This is a topic of some contention in the literature. In
+[^ln1-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
 software as one of the "three myths" of computer science. "As a practical
 matter, what we regard as computer instructions, and consequently what we
@@ -1084,13 +1128,13 @@ regard as computer programs, is determined by computers available," he writes
 abstract artifact, akin to a musical work [@irmak_software_2012]. See also
 @turner_programming_2013; @colburn_software_1999.
 
-[^ln2-turing]: The intellectual history of the Turing machine is well
+[^ln1-turing]: The intellectual history of the Turing machine is well
 established, in multiple works on the subject. It follows the Greek Diophantus,
 René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+[^ln1-alt]: "We have to think (in a completely novel way) the relation between
 a science and the ideology [...] the fact that such an investigation confronts
 us with the observation that every science, in the relationship it has with
 ideology it emerged from, can only be thought as a 'science of ideology, would
@@ -1098,7 +1142,7 @@ disconcert us, were we not forewarned of the name of the *object* of knowledge,
 which can only exist in the form of ideology" [@althusser_reproduction_2014,
 46].
 
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+[^ln1-derr]: See @derrida_writing_1978. I am alluding particularly to
 statements like "ethnology-like any science-comes about within the element of
 discourse," and "this moment was that in which language invaded the universal
 problematic; that in which, in the absence of a center or origin, everything
@@ -1108,7 +1152,7 @@ transcendental signified, is never absolutely present outside a system of
 differences. The absence of the transcendental signified extends the domain and
 the interplay of signification ad infinitum" (278-294).
 
-[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+[^ln1-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
 and material forms of life, over "back to his feet." See for example
 @marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
