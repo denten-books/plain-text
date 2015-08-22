@@ -274,67 +274,93 @@ exchange, one must first come to terms with its peculiar relationship to
 universal Turing machines.
 
 More than any other mechanism, the Turing machine defined the very limits of
-computation. Since its inception, the Turing machine remains a controversial
-construct that elicits academic debate. The debate concerns a paradox at the
-very heart of computer science and electrical engineering. The Turing machine
-is a hypothetical construct that imagines a physical device to solve a
-theoretical problem. In turn, the computer encorporates a physical device that
-emulates a hypothetical Turing machine. Computation thereofore emerges as a
-figure stuck in a recursive loop between the ideal and the physical worlds. It
-is a mechanism and an idea. The indeterminacy of computation makes the
-boundaries between hardware and software hard to determine. And no matter how
-hard computer science tries to escape into the realm of pure mathematics, the
-limits of physical engineering pull it back to the sphere of the applied.
+computation. Since its inception, the Turing machine has remained a
+controversial construct that elicits academic debate. The debate concerns a
+paradox at the very heart of computer science and electrical engineering.
+Turing imagined his machine as a physical device that solves a theoretical
+problem. Actual computers, in turn, emulate a hypotehtical Turing machine.
+Computation thereofore emerges as a figure stuck in the loop between the ideal
+and the physical worlds. It is part real mechanism and part unattainable idea.
+The indeterminacy of computation blures the boundaries between hardware and
+software. And no matter how hard computer science tries to escape into the
+realm of pure mathematics, the limits of physical engineering pull it back to
+the sphere of the applied.
 
 In his seminal 1937 paper on computable numbers, Alan Turing, then a student at
 King's College, did a strange thing for a mathematical journal. He imagined an
 applied machine to solve a theoretical problem. What that problem was (in the
-field of elementary number theory) is not as important as how he did it. "We
-may compare a man in the process of computing a real number to a machine that
-is only capable of a finite number of conditions," he wrote
-[@turing_computable_1937, 231]. These lines already contain the germ of a
-controversy. Turing suggestively asks his reader to compare computation, a
-human mental process, to the mechanical action of a machine. As Charles Petzold
-explaines in his book-length annotation on Turing's paper, Turing "makes
-reference to 'states of mind' that are analogous to machine states"
-[@petzold_annotated_2008, 67]. A
+field of elementary number theory) is not as important as how he proposed to
+solve it. "We may compare a man in the process of computing a real number to a
+machine that is only capable of a finite number of conditions," he wrote
+[@turing_computable_1937, 231]. Turing suggestively asks his reader to compare
+computation, a human mental process, to the mechanical action of a machine. As
+Charles Petzold explains in his book-length annotation on Turing's paper,
+Turing "makes reference to 'states of mind' that are analogous to machine
+states" [@petzold_annotated_2008, 67]. But the analogy itself is controversial.
+Neither mathematicians nor cognitive scientists agree on the extent to which
+states of mind can be compared to discrete machine states.
 
-A machine that emulates a thought experiment.
+Turing further imagines a machine "supplied with a 'tape' (the analogue of
+paper) running through it, and divided into sections (called 'squares') each
+capable of bearing a 'symbol'" [@turing_computable_1937, 231]. Much like a
+movie reel, the tape moves through the machine one section at a time. At each
+point only one section bearing one symbol can be said to be "in the machine."
+"We may call this square the 'scanned square,'" Turing writes, 
 
-Alan Turing describes an automatic machine (*a*-machine) capable of transposing
-the problem of calculability into "effective calculability." Where all previous
-calculators are special-purpose mechanisms, engineered to augment a specific
-type of computation, Turing thought of his device as a universal "*a*-machine."
-In theory (and it was conceived as a thought experiment, at first), it could
-imitate any other mechanism for calculation, because its internal composition
-could be reduced to a dynamic representational state (as opposed to a fixed,
-mechanical one). The device would receive input by means of a paper ribbon
-containing discrete symbolic inputs. At its bare minimum, the device would need
-only the ribbon, a means of "reading," and the means of "writing" the symbols
-onto the tape.  Mechanically, its movement could be restricted to one axis or
-to the movement of the tape through the mechanism.  What makes such a device a
-*universal* machine is its ability to internalize symbol as part of its
-mechanism. Symbolic input, in this case, can represent computable data (letters
-and numbers), but it can also function as control code ("move left," "erase
-mark") altering the movement of the mechanism.
+> The symbol on the scanned square may be called the "scanned symbol." The
+"scanned symbol" is the only one of which the machine is, so to speak,
+"directly aware" [@turing_computable_1937, 231].
 
-I would like to spend a moment to consider the mechanics of the Turing machine.
-In fact, the Turing machine does not properly differentiate between content and
-control code. Its "internal state" (Turing uses terms of sentient awareness
-throughout) "is determined by *m*-configuration *q<sub>n</sub>* and the scanned
-symbol," where the *m*-configurations are defined as "a finite number of
-conditions" of a machine, which, in Turing's words, may be compared to "a man
-in the process of computing a real number" [@turing_computable_1937, 231]. The
-initial configuration plus the scanned symbol define the next internal state of
-the machine. The material and the symbolic fuse into one: here lies the essence
-of the universal Turing machine (UTM). Software is also hardware. In being able
-to internalize configuration as symbol, the *universal* Turing machine can in
-effect imitate all other special-purpose Turing machines. This transition of
-symbols into machine states effectively defines modern programming. A universal
-machine, unlike other, definitive, single-purpose and limited-state mechanisms
-(a clock for example), contains the ability to take on differing internal
-symbolic configurations. It can imitate a clock, an abacus, a scale, and, with
-time, Turing thought it could imitate humans as well.
+The scanned symbols become a part of the machine's internal configuration. In
+Turing's words, "the machine can effective remember some of the symbols which
+it has 'seen' (scanned) previously" [@turing_computable_1937, 231]. The
+machine's "behavior" is therefore determined by its initial configuration (in
+the arrangement of tape and scanning apparatus) plus the scanned symbol. The
+Turing machine is therefore a machine that internalizes symbolic
+representation. In a sense, it transforms software (symbol) into hardware
+(configuration). The machine "reads" in the Platonic sense. It does not merely
+*scan over* the symbols or recite the blindly, in the way Socrates is worried
+about the rote recitation of Phaedrus, it becomes "aware." Consider by contrast
+the action of a film projector. Unlike the Turing machine, the projector does
+not internalize the film reel that moves through it. The Turing machine in
+effect gives us a concise definition of "reading" and "becoming aware." Proper
+reading involves the appropriate internalization of the symbol.
+
+In addition to "reading," Turing's device must be able to write. Turing writes
+that "in some configurations in which the scanned square is blank (*i.e.* bears
+no symbol) the machine rites down a new symbol on the scanned square"
+[@turing_computable_1937, 231]. The machine can also erase and move symbols to
+adjacent squares, one square at a time. Reading, writing, and symbolic
+manipulation are thus at the core of Turing's computation.
+
+The configuration of the machine determines the movement of the "reading" and
+"writing" apparatus along the surface of the tape. At its simplest incarnation,
+the tape moves along one dimension only: left or right. Thus some symbols that
+the machine reads are meant to represent computable numbers (the whole point of
+Turing's paper). Yet other symbols are meant as an instruction to the machine.
+Today, we would call such instructions "programs" or "control codes." The
+controls codes and the computed data form a part of the same continuous stream
+of information on the surface of the tape.
+
+Just as the Turing machine is able to convert symbolic representation into its
+internal configuration state, it can finally enact the opposite movement: by
+representing internal configuration states as symbols. This remarkable property
+allows for the creation for not just any machine, but what Turing calls a
+universal machine. Specific machine may be configured to preform addition or
+multiplication. But the multiplication machine could not, for example, be
+reconfigured for another purpose, because the physical movement of its
+internals is fixed in some way. The universal Turing machine *takes other
+machine configurations* as an input. Turing writes that "it is possible to
+invent a single machine which can compute any computable sequence"
+[@turing_computable_1937, 241]. In being able to internalize configuration as
+symbol, the *universal* Turing machine can in effect imitate all other
+special-purpose Turing machines. The transition of symbols into machine states
+effectively defines modern programming. A universal machine, unlike other,
+definitive, single-purpose and limited-state mechanisms (a clock for example),
+contains the ability to take on differing internal symbolic configurations. It
+can imitate a clock, an abacus, a scale. In a later paper linking computing
+machinery and intelligence, Turing implies it could emulate human thought as
+well [@turing_computing_1950].
 
 This ambiguity between hardware and software leads to some confusion in the
 critical literature, as evidenced by Lev Manovich's playful response to
@@ -348,6 +374,8 @@ schema, Kittler sees the paper-bound design blueprints of the first integrated
 microprocessor as the last "real" piece of writing. Everything written after
 that point is hardware (because software is hardware at that "microscopic"
 level).
+
+A machine that emulates a thought experiment.
 
 Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, the affordances of a given medium are
