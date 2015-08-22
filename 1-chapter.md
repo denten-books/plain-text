@@ -312,7 +312,7 @@ point only one section bearing one symbol can be said to be "in the machine."
 "directly aware" [@turing_computable_1937, 231].
 
 The scanned symbols become a part of the machine's internal configuration. In
-Turing's words, "the machine can effective remember some of the symbols which
+Turing's words, "the machine can effectively remember some of the symbols which
 it has 'seen' (scanned) previously" [@turing_computable_1937, 231]. The
 machine's "behavior" is therefore determined by its initial configuration (in
 the arrangement of tape and scanning apparatus) plus the scanned symbol. The
@@ -359,12 +359,20 @@ effectively defines modern programming. A universal machine, unlike other,
 definitive, single-purpose and limited-state mechanisms (a clock for example),
 contains the ability to take on differing internal symbolic configurations. It
 can imitate a clock, an abacus, a scale. In a later paper linking computing
-machinery and intelligence, Turing implies it could emulate human thought as
-well [@turing_computing_1950].
+machinery and intelligence, Turing implies it could eventually emulate human
+thought as well [@turing_computing_1950].
 
 ## 1.3 Hardware vs. Software
 
-This ambiguity between hardware and software leads to some confusion in the
+All Turing machines, however imperfect, occupy that ambiguous space between
+theory and practice. The personal computer, the hand-held "mobile" telephone,
+and the electronic book "reader" share in the legacy of Turing's computation.
+They are ideas and devices.[^ln1-caveat] And yet, the literature on Turing
+machines tends to encounter the 
+
+Why does it matter for literary scholarhship.
+
+The ambiguity between hardware and software leads to some controversy in the
 critical literature, as evidenced by Lev Manovich's playful response to
 Kittler's "there is no software" argument. If I understand it correctly,
 Kittler's short but often cited essay picks up the thread of Kittler's earlier
@@ -454,7 +462,22 @@ mathematical abstraction in interesting and instructive ways.[^ln1-turing]
 ![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
 via a Turing machine."](images/turing-idea.png)
 
-## 1.4 Pysical Properties of Turing Machine
+[^ln1-caveat]: The institutional distinctions between software engineering and
+computer science often hinge on the extent to which the discipline pays heed to
+the physical limitations of computing. As usual the situation on the ground is
+much more complicated, and the boundaries between software engineering and
+computer science are fast eroding. Still, North American students often have
+the choice to major in Computer Science or Software Engineering. It would not
+be unusual for the one faculty to be located in the School for Liberal Arts and
+Science and the other in the School of Engineering. Consider also the two major
+professional organizations: Institute for Electrical and Electronics Engineers
+(IEEE) and Association for Computing Machinery (ACM). See
+@glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
+@vessey_unified_2005.
+
+## 1.4 Physical Properties of Turing Machine
+
+To what extent not a turing machine. Infinite tape.
 
 Although Turing's original article did not include any drawings, he describes
 his "*a*-machine" in terms of paper tape medium, scanning, erasing, "writing
