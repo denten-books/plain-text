@@ -274,18 +274,32 @@ exchange, one must first come to terms with its peculiar relationship to
 universal Turing machines.
 
 More than any other mechanism, the Turing machine defined the very limits of
-computation.  Since its inception, the Turing machine remains a controversial
-construct that continues to elicit debate. The debate concerns a paradox at the
-very heart of software engineering. In his seminal 1937 paper on computable
-numbers, Alan Turing, then a student at King's College, imagined a tangible
-machine to solve a theoretical problem. "We may compare a man in the process of
-computing a real number to a machine that is only capable of a finite number of
-conditions," he wrote [@turing_computable_1937, 231]. Spurred The machine
-imagined mathematical thought as a *mechanical process.* As Charles Petzold
-explains in his book-length annotation on Turing's paper, it is likel
+computation. Since its inception, the Turing machine remains a controversial
+construct that elicits academic debate. The debate concerns a paradox at the
+very heart of computer science and electrical engineering. The Turing machine
+is a hypothetical construct that imagines a physical device to solve a
+theoretical problem. In turn, the computer encorporates a physical device that
+emulates a hypothetical Turing machine. Computation thereofore emerges as a
+figure stuck in a recursive loop between the ideal and the physical worlds. It
+is a mechanism and an idea. The indeterminacy of computation makes the
+boundaries between hardware and software hard to determine. And no matter how
+hard computer science tries to escape into the realm of pure mathematics, the
+limits of physical engineering pull it back to the sphere of the applied.
 
-A thought experiment about computable numbers that imagines a machine. A
-machine that emulates a thought experiment.
+In his seminal 1937 paper on computable numbers, Alan Turing, then a student at
+King's College, did a strange thing for a mathematical journal. He imagined an
+applied machine to solve a theoretical problem. What that problem was (in the
+field of elementary number theory) is not as important as how he did it. "We
+may compare a man in the process of computing a real number to a machine that
+is only capable of a finite number of conditions," he wrote
+[@turing_computable_1937, 231]. These lines already contain the germ of a
+controversy. Turing suggestively asks his reader to compare computation, a
+human mental process, to the mechanical action of a machine. As Charles Petzold
+explaines in his book-length annotation on Turing's paper, Turing "makes
+reference to 'states of mind' that are analogous to machine states"
+[@petzold_annotated_2008, 67]. A
+
+A machine that emulates a thought experiment.
 
 Alan Turing describes an automatic machine (*a*-machine) capable of transposing
 the problem of calculability into "effective calculability." Where all previous
