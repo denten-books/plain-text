@@ -246,13 +246,13 @@ position, but I would like to argue here that the connection between computing
 and calculation is but a piece of a larger story. The personal computer
 governing the production of textuality today emerged from an amalgamation of
 automated devices: among them the telegraph, the typewriter, and the
-calculator. Add to that add the loom, the music box, the radio, and the
-film camera [^ln1-ceruzzi]. Each of these these machines left an imprint on the
+calculator. Add to that list the loom, the music box, the radio, and the film
+camera [^ln1-ceruzzi]. Each of these these machines left an imprint on the
 structure of our everyday engagement with computational devices.
 
 It is important to keep these intertwined material lineages in mind because
 each brings with it a different set of values and priorities. As complex
-computational systems begin to play an ever greater part in our lives, from
+computational systems continue to play an ever greater part in our lives, from
 affecting family relations to health and nutrition (think social media and
 personal activity trackers), we are increasingly faced with a host of
 conflicting choices. When building systems that structure human experience, do
@@ -263,22 +263,26 @@ The question then becomes one of ends and means. A calculator is most
 "efficient" when operating on binary data. Efficiency and complexity are goods
 for the task of calculation. A democratic vision of a just society places value
 on open deliberation and consensus building. Humans prefer to manipulate texts
-and images. Art calls for beauty. What we commonly call a computer is also,
-undeniably, a tool for social and personal transformation: one used to make war
-and to create art. It is up to us to decide which one and how.
+and images. Undeniably, computers participate in social transformation: used to
+make war and to create art. What will your machine be optimized for? The
+passive voice points to the root of the problem. A computational mechanism that
+extends agency should embody values that correspond to the active agent of the
+action.
 
-To encounter the computer as a literary device, one must first come to terms
-with its peculiar relationship to universal Turing machines. More than any
-other mechanism, the Turing machine defined the very limits of computation.
-Since its inception, the Turing machine remains a controversial construct that
-continues to elicit debate. The debate concerns a paradox at the very heart of
-software engineering. In his seminal 1937 paper on computable numbers, Alan
-Turing, then a student at King's College, imagined a tangible machine to solve
-a theoretical problem. "We may compare a man in the process of computing a real
-number to a machine that is only capable of a finite number of conditions," he
-wrote [@turing_computable_1937, 231]. Spurred The machine imagined mathematical thought
-as a *mechanical process.* As Charles Petzold explains in his book-length
-annotation on Turing's paper, it is likel
+To encounter the computer as a *literary* device, optimized for symbolic
+exchange, one must first come to terms with its peculiar relationship to
+universal Turing machines.
+
+More than any other mechanism, the Turing machine defined the very limits of
+computation.  Since its inception, the Turing machine remains a controversial
+construct that continues to elicit debate. The debate concerns a paradox at the
+very heart of software engineering. In his seminal 1937 paper on computable
+numbers, Alan Turing, then a student at King's College, imagined a tangible
+machine to solve a theoretical problem. "We may compare a man in the process of
+computing a real number to a machine that is only capable of a finite number of
+conditions," he wrote [@turing_computable_1937, 231]. Spurred The machine
+imagined mathematical thought as a *mechanical process.* As Charles Petzold
+explains in his book-length annotation on Turing's paper, it is likel
 
 A thought experiment about computable numbers that imagines a machine. A
 machine that emulates a thought experiment.
@@ -300,6 +304,7 @@ mechanism. Symbolic input, in this case, can represent computable data (letters
 and numbers), but it can also function as control code ("move left," "erase
 mark") altering the movement of the mechanism.
 
+I would like to spend a moment to consider the mechanics of the Turing machine.
 In fact, the Turing machine does not properly differentiate between content and
 control code. Its "internal state" (Turing uses terms of sentient awareness
 throughout) "is determined by *m*-configuration *q<sub>n</sub>* and the scanned
@@ -945,9 +950,6 @@ flicker of the cathode ray or the flow of the liquid crystal, but only as long
 as the device draws power; and yet others that simply dissemble to create the
 illusion of effortless textuality.
 
-
-
-
 ## 1.4 WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
@@ -1099,8 +1101,6 @@ reason through Kittler's computational conundrum. On towards Marx then (who
 will appear much later), through the machine that, although intimately familiar
 to every writer and consumer of text by touch, remains alien and alienating in
 its hidden possibilities, soothing and threatening all at once.
-
-## Notes
 
 [^ln1-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
