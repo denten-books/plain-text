@@ -34,7 +34,7 @@ notifications of it on another small computational device, next to my laptop.
 This device also contains most of my library. Despite the appearances, the
 electronic book on my desk has more in common with the smoke detector than it
 does with several paper volumes also scattered across my desk. Both devices
-embody printed circuit boards, capacitors, silicone chips, and resistors. Both
+comprise printed circuit boards, capacitors, silicone chips, and resistors. Both
 draw electric current. Both require firmware updates. Both are governed by
 codes political and computational. Both are connected to the network and both
 communicate: with remote data centers and with each other. And yet, I continue
@@ -222,13 +222,14 @@ the reading device merely emulates a book. The engineering of literary
 artifacts conceal a number of design choices, obscuring  the flows of code and
 codex under the familiar guise of surface representation. The digital book is
 not just a book. It is a universal Turing machine, a machine, that besides
-effecting the figures of reading and writing, holds the potential to effect all
-possible metaphors.[^ln1-notquite] The task of the literary scholar reading on the level of
-the device becomes to expose the conceptual system that governs the activity.
-It is finally to make it available to interpretation---that is to free play of
-ideas. I would like to know what happens in the metaphorical transference
-between the book and the device emulating the book. Knowing in that sense
-allows me to consent, or, conversely, to resist elements of imposed structure.
+incorporating the figures of reading and writing, holds the potential to effect
+all possible metaphors.[^ln1-notquite] The task of the literary scholar reading
+on the level of the device becomes to expose the conceptual system that governs
+the activity.  It is finally to make it available to interpretation---that is
+to free play of ideas. I would like to know what happens in the metaphorical
+transference between the book and the device emulating the book. Knowing in
+that sense allows me to consent, or, conversely, to resist elements of imposed
+structure.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
@@ -271,13 +272,13 @@ extends agency should embody values that correspond to the active agent of the
 action.
 
 To confront the computer as a *literary* device, optimized for symbolic
-exchange, one must first come to terms with its peculiar relationship to
+exchange, one must first understand its peculiar relationship to
 universal Turing machines.
 
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Since its inception, the Turing machine has remained a
 controversial construct that elicits academic debate. The debate concerns a
-paradox at the very heart of computer science and electrical engineering.
+paradox at the heart of computer science and electrical engineering.
 Turing imagined his machine as a physical device that solves a theoretical
 problem. Actual computers, in turn, emulate a hypothetical Turing machine.
 Computation therefore emerges as a figure stuck in the loop between the ideal
@@ -322,17 +323,18 @@ representation. In a sense, it transforms software (symbol) into hardware
 (configuration). The machine "reads" in the Platonic sense. It does not merely
 *scan over* the symbols or recite the blindly, in the way Socrates is worried
 about the rote recitation of Phaedrus. Rather it becomes "aware." Consider by
-contrast the action of a film projector. Unlike the Turing machine, the
-projector does not internalize the film reel that moves through it. The Turing
-machine in effect gives us a concise definition of "reading" and "becoming
-aware." Proper reading involves the appropriate internalization of the symbol.
+contrast the action of a film projector. Unlike a Turing machine, the projector
+does not internalize the film reel that moves through it. The Turing machine in
+effect gives us a concise minimally viable definition of "reading" and
+"becoming aware." Proper reading involves the appropriate internalization of
+the symbol, for both human and machine.
 
 In addition to "reading," Turing's device must be able to write. Turing writes
 that "in some configurations in which the scanned square is blank (*i.e.* bears
 no symbol) the machine writes down a new symbol on the scanned square"
 [@turing_computable_1937, 231]. The machine can also erase and move symbols to
 adjacent squares, one square at a time. Reading, writing, and symbolic
-manipulation are thus mechanichal actions at the core of Turing's computation.
+manipulation are thus mechanical actions at the core of Turing's computation.
 
 The configuration of the machine determines the movement of the "reading" and
 "writing" apparatus along the surface of the tape. At its simplest incarnation,
@@ -347,15 +349,15 @@ Just as the Turing machine is able to convert symbolic representation into its
 internal configuration state, it can finally enact the opposite movement: by
 representing internal configuration state as symbol. This remarkable property
 allows for the creation for not just any machine, but what Turing calls a
-universal machine. A specific machine may be configured to preform addition or
-multiplication. But the multiplication machine could not, for example, be
-reconfigured for another purpose, because the physical movement of its
-internals is fixed. The universal Turing machine *takes other machine
+universal machine. A specific Turing machine may be configured to preform
+addition or multiplication. But the multiplication machine could not, for
+example, be reconfigured for another purpose, because the physical movement of
+its internals is fixed. The universal Turing machine *takes other machine
 configurations* as an input. Turing writes that "it is possible to invent a
 single machine which can compute any computable sequence"
 [@turing_computable_1937, 241]. In being able to internalize configuration as
-symbol, the *universal* Turing machine can in effect emulate all other
-special-purpose Turing machines.
+symbol, the *universal* Turing machine can emulate all other special-purpose
+Turing machines.
 
 The transition of symbols into machine states defines modern programming. A
 universal machine, unlike other, definitive, single-purpose and limited-state
@@ -370,18 +372,18 @@ itself. It can compute anything computable. Turing's "On Computable Numbers"
 belongs therefore to the annals of mathematical theory. Turing's paper
 continues to elicit debate because despite its mathematical language, the paper
 is riddled with metaphors of cognition. The machine compares to a human in the
-process of computation. Turing describe the state of the machine Turing uses
-terms like "states of mind," "awareness" and "memory." Without directly
-confronting the nature of human cognition, Turing hints at the idea of
-computation as a model for human thought in general. The literature on the
-so-called "computational theory of mind" cites Turing's work extensively with
-reason [@fodor_language_1975; @putnam_representation_1988]. Bracketing for the
-moment the mathematical and cognitive implications of Turing's work, I want to
-approach the Turing machine from the perspective of a book historian and a
-media scholar. If the Turing is to be taken at face value, not as an algorithm,
-but as a device, what kind of a machine would it be? What are its antecedents?
-Several key physical properties of Turing's hypothetical machine are of great
-importance to literary history.
+process of computation. Turing describes the state of the in terms of "states
+of mind," "awareness" and "memory." Without directly confronting the nature of
+human cognition, Turing hints at the idea of computation as a model for human
+thought in general. The literature on the so-called "computational theory of
+mind" cites Turing's work extensively with reason [@fodor_language_1975;
+@putnam_representation_1988]. Bracketing for the moment the mathematical and
+cognitive implications of Turing's work, I want to approach the Turing machine
+from the perspective of a book historian and a media scholar. If the Turing
+machine is to be taken at face value, not as an algorithm, but as a device,
+what kind of a machine would it be? What are its antecedents? The physical
+properties of Turing's hypothetical machine fundamentally alter the course of
+literary history.
 
 [^ln1-compete]: "We may hope that machines will eventually compete with men in
 all purely intellectual fields" [@turing_computing_1950, 460].
@@ -404,12 +406,12 @@ enacted simultaneously through the device. Where a book is a just a book, the
 simulated book fulfills other functions. As a universal Turing machine, the
 device has the potential to conjure multiple metaphors. This means simply that
 the digital book device is also a phone, an alarm clock, a typewriter, a
-surveillance system, and otherwise an instrument of state apparatus. Its
+surveillance system, and otherwise an instrument of governance. Its
 potential to simulate other machines is unbounded.
 
 Finally, the very metaphysical nature of Turing machines implies the
 irreversible admixture of matter, content, and control. When reading a paper
-and cloth book, one can clearly separate a) the physical properties of paper
+and cloth book, one can definitively isolate a) the physical properties of paper
 and cloth from b) the content of the book and from c) the legal and political
 elements governing the production of textuality. I write "separate" in the
 literal sense of recovering the blank paper, copying the content into another
@@ -421,17 +423,19 @@ input stream. If you recall, Turing specifies "mental states" of machine's
 Turing's minimally viable system, the machine sometimes reads and remembers
 numbers and at other times symbols that specify the movement of the scanning
 head, in actions like "erase the current cell" or "write out the last
-remembered digit."
+remembered digit." Control, in the Turing world and in our world too, can be
+reduced to symbolic control.
 
-Conversely, to encounter the universal Turing machine as a book means to
-recover they physical roots of computation. This entails.
-
-When viewed in the context of book history, the universal Turing machine
-signifies a culmination of several broad, long-term trends that begin with the
-invention of writing itself. The God of the Hebrew Bible etched his
-commandments into stone (Exodus 34:1). The tablets could be broken, but the
-word was immutable. The material history of textuality begins with the
-immutable word and ends the Turing machine. The turing machine anticipates 
+Conversely, to encounter the universal Turing machine as a book, a device for
+symbolic exchange, means to recover the physical roots of computation. When
+viewed in the context of book history, the universal Turing machine signifies a
+culmination of several broad, long-term trends that begin with the invention of
+writing itself. The God of the Hebrew Bible etched his commandments into stone
+(Exodus 34:1). Moses initially breaks the tablet, but the word remains
+immutable. The material history of literary computation begins with petrified
+words that endure forever, and ends with word as an electrical charge:
+animated, radiant, fluid, and iridescent [@mcgann_radiant_2001;
+@bryant_fluid_2002]. The turing machine anticipates 
 
 What happens to words when they are written and read on a machine adapted for
 universal computation? The
