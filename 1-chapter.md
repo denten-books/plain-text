@@ -429,18 +429,13 @@ reduced to symbolic control.
 Conversely, to encounter the universal Turing machine as a book, a device for
 symbolic exchange, means to recover the physical roots of computation. When
 viewed in the context of book history, the universal Turing machine signifies a
-culmination of several broad, long-term trends that begin with the invention of
-writing itself. The God of the Hebrew Bible etched his commandments into stone
-(Exodus 34:1). Moses initially breaks the tablet, but the word remains
-immutable. The material history of literary computation begins with petrified
-words that endure forever, and ends with word as an electrical charge:
-animated, radiant, fluid, and iridescent [@mcgann_radiant_2001;
-@bryant_fluid_2002]. The turing machine anticipates 
-
-What happens to words when they are written and read on a machine adapted for
-universal computation? The
-
-How does this relate to other chapters?
+consummation of several broad, long-term trends that begin with the invention
+of writing itself. The God of the Hebrew Bible etched his commandments into
+stone (Exodus 34:1). Moses broke the first set of tablets, but the word
+remained, for a time, immutable. The material history of literary computing
+begins with petrified words that endure forever, and ends with word as an
+electrical charge: animated, radiant, fluid, and iridescent
+[@mcgann_radiant_2001; @bryant_fluid_2002].
 
 1. The mechanization of type and the accompanying normalization of language
 begins with the diffusion of movable type in China and Europe, circa 1040
@@ -473,10 +468,6 @@ twentieth centuries elevates print from an intelligence-conveying medium to one
 of communication and control. "Content" intended for humans is now routinely
 mixed with "control codes" intended to alter the operation of the receiving
 device.
-
-1. The movement from paper to computer
-2. content and control and
-3. ephemerality of text
 
 It is this last and still current moment of historical development that is
 least theorized. A dominant tradition in the history of the human sciences
