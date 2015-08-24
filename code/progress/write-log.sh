@@ -19,7 +19,8 @@ oldWords=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
 # done
 
 # this makes even more sense to me, cat the files and count once
-wordCount=$(find $src -maxdepth 1 -name '*.md' -type f -print0 | xargs -0 cat | wc -w)
+# wordCount=$(find $src -maxdepth 1 -name '*.md' -type f -print0 | xargs -0 cat | wc -w)
+wordCount=$(wc -w $src/*md | tail -n 1 | sed 's/[a-z ]//g')
 
 # calculate number of words written
 total=$((wordCount - oldWords))
