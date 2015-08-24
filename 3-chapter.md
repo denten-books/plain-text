@@ -21,6 +21,153 @@ header-includes:
 # Chapter 3: Control
 Keywords: `content, form, formula, formatting`
 
+## 1.4 Hardware vs. Software
+
+All Turing machines, however imperfect, occupy that ambiguous space between
+theory and practice. The personal computer, the hand-held "mobile" telephone,
+and the electronic book "reader" share in the legacy of Turing's computation.
+They are ideas and devices.[^ln1-caveat]
+
+The ambiguity between hardware and software leads to some controversy in the
+critical literature, as evidenced by Lev Manovich's playful response to
+Kittler's "there is no software" argument. If I understand it correctly,
+Kittler's short but often cited essay picks up the thread of Kittler's earlier
+work to posit what he calls a "postmodern writing scene." "We do not write
+anymore," writes Kittler: "human-made writing passes through microscopically
+written inscriptions which, in contrast to all historical writing tools, are
+able to read and write by themselves" [@kittler_there_1995]. According to this
+schema, Kittler sees the paper-bound design blueprints of the first integrated
+microprocessor as the last "real" piece of writing. Everything written after
+that point is hardware (because software is hardware at that "microscopic"
+level).
+
+Manovich inverts Kittler's argument into "there is only software," by which he
+means that in a pragmatic sense, the affordances of a given medium are
+determined by software. A printed page begins to differ from a screen only when
+the readers are able to effect something on the screen that they could not on
+paper. To this end, Manovich encourages his readers to become active developers
+of software, rather than its passive consumers [@manovich_there_2011, 274]. In
+that, Manovich reasserts the possibility of writing in the silicon age. Kittler
+(who passed in 2011) could perhaps object to that line of reasoning in
+maintaining that chip architecture (the last written work) still determines (as
+foundation) all higher levels of textuality "floating" above the silicon
+bedrock. And no amount of learning to code would give an ordinary subject the
+resources required to write in silicon---a process so advanced and expensive as
+to be limited to a handful of international chip manufacturers. In opening a
+successive nested series of black boxes, the post-silicon writer hits the
+impenetrable bedrock of chip architecture. In such conditions, is it even
+worthwhile to follow Manovich's call for new literacies? Is writing still
+possible?
+
+The question of where do brains end and minds begin remains unresolved in
+cognitive science, for example. Similarly, at some imperceptible point software
+disappears into hardware. But before we ourselves get lost in that liminal
+space between matter and idea, let us recover a measure of oddity found in the
+now ubiquitous operation of Turing machines. First, note that Turing's original
+formulation happens at the level of a thought experiment. (Turing does not
+begin to build actual machines until his move to Princeton in 1936.) A
+universal Turing machine comes to life initially as an idea that can take on
+the structure of other ideas expressed symbolically. Second, note that though
+Turing describes his machine in the language of mathematics (where his most
+significant contribution lies), his description also contains the bare minimum
+of a mechanical device. No matter how symbolic a Turing machine aspires to be,
+no matter how ascendant to the realm of the ideal, it still needs a bare
+minimum of physical matter to function. And Turing's paper does contain the
+canonical description of that bare physical minimum.
+
+With the above two observations in mind, we can view abstracted universal
+Turing machines, as implemented in the Wireworld universe (a cellular automaton
+simulation), for example, or in Minecraft (a procedurally generated sand-box
+world-exploration game), as recursive, second-order ideational constructs,
+built on top of first-order physical mechanisms (a personal computer, in the
+case of Wireworld and Minecraft). We know this, because all *n+* order Turing
+machines are limited in computational power by the physical capabilities of
+that bottom-most device (the physical machine writing the simulation). The
+simulated UTM cannot outperform (in terms of cycles per second, instructions
+per cycle, or its capacity to hold a number of instructions) the machine doing
+the simulation. If we disregard the dizzying levels of recursion (a Turing
+machine, simulating a Turing machine, simulating a Turing machine and so on),
+we can begin to examine the turtle at the bottom, which has its head in the
+symbolic and its feet firmly in the material world.
+
+Literature in computer science tends to see universal Turing machines as
+algorithms: in other words, as virtual, second-order symbolic representations.
+As consummate thinkers on the level of the symbol, computer scientists and
+literary scholars (unlike, say, electrical engineers or book binders) rarely
+need to pay heed to that strange bottom-most turtle.[^ln1-bottom] Yet it is
+impossible to entirely disassociate the implementation from the idea. In his
+review of Turing's "On Computable Numbers" paper, Alonzo Church, the American
+mathematician whose work anticipated Turing's (independently) in several
+important aspects, wrote that "a human calculator, provided with pencil and
+paper and explicit instructions can be regarded as a kind of a Turing machine"
+[@church_computable_1937, 42-3; also cited in @petzold_annotated_2008, 63].
+Disregarding the broader, metaphysical implications of that statement, note for
+now the persistence of two essential implements required for the minimally
+viable operation of the Church--Turing human and machine calculators. Pen and
+paper persevere and assert themselves through the
+abstraction.[^ln1-abstraction]
+
+Forced to confront the universal Turing machine *as a mechanism*, the
+historian must acknowledge that it borrows from a number of extant designs,
+which, together and incrementally, give the UTM its physical form. A media
+history of the Turing machine as device differs from its intellectual history
+as symbolic, mathematical abstraction in interesting and instructive
+ways.[^ln1-turing]
+
+![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
+via a Turing machine."](images/turing-idea.png)
+
+[^ln1-caveat]: The institutional distinctions between software engineering and
+computer science often hinge on the extent to which the discipline pays heed to
+the physical limitations of computing. As usual the situation on the ground is
+much more complicated, and the boundaries between software engineering and
+computer science are fast eroding. Still, North American students often have
+the choice to major in Computer Science or Software Engineering. It would not
+be unusual for the one faculty to be located in the School for Liberal Arts and
+Science and the other in the School of Engineering. Consider also the two major
+professional organizations: Institute for Electrical and Electronics Engineers
+(IEEE) and Association for Computing Machinery (ACM). See
+@glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
+@vessey_unified_2005.
+
+## Marx upside down
+
+It is this last and still current moment of historical development that is
+least theorized. A dominant tradition in the history of the human sciences
+follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
+Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
+of ideology, discourse, and representation. Where for Althusser "every science
+is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
+human sciences on the level of "positive unconscious," revealing unspoken
+"rules" that govern the formation of "theories, concepts, and objects of study"
+on the level of "scientific representation" [@foucault_order_1994, xi].
+
+There are a number of theoretical niceties here (that the reader may skip, if
+not interested in the history of Marxist thought). For example, the concept of
+ideology, in the orthodox Marxist schema of things, exists as a "political
+superstructure [...] to which correspond definite forms of social
+consciousness." In the Marxist model, ideology floats *above* the material
+base---the dominant mode of production---that "determines the general character
+of the social, political and spiritual processes of life"
+[@marx_contribution_1904, 11]. Althusser's influential contribution to this
+world view was to insist that ideology, although secondary to the mode of
+production, nevertheless assures its continual reproduction as a means of
+continuing subjugation and political control. Simply put, for Althusser, the
+ideological apparatus of the modern capitalist state ends up being "installed
+in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
+similar (although not equivalent) rhetorical move, Foucault envisions that
+beneath the "epistemological level" of human activity there exists an
+"archaeological layer," where representation "governs the mode of being of
+language, individuals, nature, and need itself" [@foucault_order_1994, 209].
+Ideology and representation, once determined, now determine. The rhetorical
+jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
+short history of the universal Turing machine runs counter to this top-heavy
+tradition of reading Marx in the inverse. As a device, the Turing machine fuses
+control and communication. Control is meant here bluntly, as physical circuit
+control, at the level of the mechanism and not at the attenuated level of
+ideology or representation.
+
+
 ### Text
 
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,

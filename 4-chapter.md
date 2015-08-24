@@ -22,6 +22,18 @@ header-includes:
 Tie to the first two chapters. Easy multiplicity of documents.
 Bring in Trilling? Digitality as something imposed from without or imposed on
 us! Because the book is different it fucks with authenticity.
+
+## Authorship function
+
+The telegraph further weakens the
+authorial function in transposing writing from its immediate physical
+environment across vast geographical distances. The advent of telecommunication
+lengthens the chain of technological mediation between author and reader. In
+the absence of the identifying "hand," the telegraph clerk's and the censor's
+mark cannot be distinguished from the author's (a common literary plot device
+in the fiction of the period). The notion of a telegram's "fidelity" therefore
+becomes an attribute of the communication channel as a whole (instead of an
+attribute attached to authorial intent).
 ## Gerard Genette and Nelson Goodman on the nature of textual copies,
 
 ## 3.4 Hyper Erudition
