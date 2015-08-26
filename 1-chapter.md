@@ -18,6 +18,8 @@ header-includes:
 
 ---
 
+TODO: Too many devices and machines.
+
 # Chapter 1: Laying Bare the Device
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
@@ -30,18 +32,18 @@ legislation in its programming. We obtain the condition where the two meanings
 of code---as governance and program instruction---coincide. Code equals code.
 
 I am not at home. But I know the alarm is happening because I receive
-notifications of it on another small computational device, next to my laptop.
-This device also contains most of my library. Despite the appearances, the
-electronic book on my desk has more in common with the smoke detector than it
-does with several paper volumes also scattered across my desk. Both devices
-comprise printed circuit boards, capacitors, silicone chips, and resistors. Both
-draw electric current. Both require firmware updates. Both are governed by
-codes political and computational. Both are connected to the network and both
-communicate: with remote data centers and with each other. And yet, I continue
-to read electronic books as if they were familiar, immutable, and passive
-objects: just books. I think of them as intimate artifacts, friends even,
-wholly known to me, comforting, and benign. The literary device is none of
-these things. It records my reading, sleeping, and consumption habits. It
+notifications of it on another small computational appliance, next to my
+laptop. This appliance also contains most of my library. Despite the
+appearances, the electronic book on my desk has more in common with the smoke
+detector than it does with several paper volumes also scattered across my desk.
+Both devices comprise printed circuit boards, capacitors, silicone chips, and
+resistors.  Both draw electric current. Both require firmware updates. Both are
+governed by codes political and computational. Both are connected to the
+network and both communicate: with remote data centers and with each other. And
+yet, I continue to read electronic books as if they were familiar, immutable,
+and passive objects: just books. I think of them as intimate artifacts, friends
+even, wholly known to me, comforting, and benign. The literary device is none
+of these things. It records my reading, sleeping, and consumption habits. It
 reconfigures itself and "my" texts dynamically. It comes with a manual and
 terms of service. In short, it *governs* reading.
 
@@ -72,7 +74,7 @@ of literary computation. With the above definitions in mind, I will also
 maintain that all computing incorporates literary activity, in so far as it
 participates in the circulation of written texts. We can therefore read the
 device as we would other forms of literature. More than "can," I will argue for
-an ethics of computational reading, by which the device internals *must* be
+an ethics of computational reading, by which the machine internals *must* be
 made available for analysis. Three such devices, which have fundamentally
 changed the nature of the literary encounter, will emerge by the end of this
 chapter.
@@ -189,18 +191,18 @@ context of media history, the question of literary surfaces gains an
 instrumental dimension. Physical affordances of liquid crystal displays and
 magnetic storage differ drastically from those of goat skins or parchment. Yet
 surface representation maintains the illusion of self-similarity. We are faced
-with what is called *isomorphic* design, by which the digital page
-resembles print. That resemblance is in itself an unexamined metaphor. The
-principles of isomorphic design are meant to extend a visual metaphor from one
-medium to another. The reader already knows how to turn pages, for example. A
-book device therefore simulates pages to ease the cognitive transition to the
-new medium. But there is nothing inherently page-like within the device. The
-metaphor conceals the structural rift between paper and screen
-technology. I am concerned throughout with the particularities of that
-concealment. A digital poem, a novel, a physician's script, or a legal contract
-all still look like their paper counterparts, but increasingly they behave like
-gadgets. These reading and writing appliances do not mediate silently: they
-monitor, adjust, warn, and control.
+with what is called *skeuomorphic* design, by which the digital page resembles
+print. That resemblance is in itself an unexamined metaphor. The principles of
+skeuomorphic design are meant to extend a visual metaphor from one medium to
+another. The reader already knows how to turn pages, for example. A book device
+therefore simulates pages to ease the cognitive transition to the new medium.
+But there is nothing inherently page-like within the contraption. The metaphor
+conceals the structural rift between paper and screen technology. I am
+concerned throughout with the particularities of that concealment. A digital
+poem, a novel, a physician's script, or a legal contract all still look like
+their paper counterparts, but increasingly they behave like gadgets. These
+reading and writing appliances do not mediate silently: they monitor, adjust,
+warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 structures in ways that we have only begun to comprehend. The material
@@ -218,22 +220,22 @@ thereby "preserved from destruction" in writing [@ricur_interpretation_1976,
 The literary device offers no such permanence. It contains inscription of a
 qualitatively different kind from writing. Based on the blueprints for the
 universal Turing machine, the outlines of which will gradually come into focus,
-the reading device merely emulates a book. The engineering of literary
+the reading implement merely sumulates a book. The engineering of literary
 artifacts conceal a number of design choices, obscuring  the flows of code and
 codex under the familiar guise of surface representation. The digital book is
 not just a book. It is a universal Turing machine, a machine, that besides
 incorporating the figures of reading and writing, holds the potential to effect
 all possible metaphors.[^ln1-notquite] The task of the literary scholar reading
 on the level of the device becomes to expose the conceptual system that governs
-the activity.  It is finally to make it available to interpretation---that is
-to free play of ideas. I would like to know what happens in the metaphorical
-transference between the book and the device emulating the book. Knowing in
-that sense allows me to consent, or, conversely, to resist elements of imposed
+the activity. It is finally to make it available to interpretation---that is to
+free play of ideas. I would like to know what happens in the metaphorical
+transference between the book and the apparatus emulating the book. Knowing in
+that sense allows one to consent, or, conversely, to resist elements of imposed
 structure.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
-imagines a device. The PC is a device emulating a Turing machine. See
+imagines a machine. The PC is a machine emulating the thought experiment. See
 @putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
 more detailed discussion follows in 1.2.
 
@@ -247,7 +249,7 @@ diminishing the human experience.[^ln1-pop] There is some truth to that
 position, but I would like to argue here that the connection between computing
 and calculation is but a piece of a larger story. The personal computer
 governing the production of textuality today emerged from an amalgamation of
-automated devices: among them the telegraph, the typewriter, and the
+automated equipment: among them the telegraph, the typewriter, and the
 calculator. Add to that list the loom, the music box, the radio, and the film
 camera [^ln1-ceruzzi]. Each of these these machines left an imprint on the
 structure of our everyday engagement with computational devices.
@@ -278,12 +280,12 @@ universal Turing machines.
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Since its inception, the Turing machine has remained a
 controversial construct that elicits academic debate. The debate concerns a
-paradox at the heart of computer science and electrical engineering.
-Turing imagined his machine as a physical device that solves a theoretical
-problem. Actual computers, in turn, emulate a hypothetical Turing machine.
-Computation therefore emerges as a figure stuck in the loop between the ideal
-and the physical worlds. It is part real mechanism and part unattainable idea.
-The indeterminacy of computation blurs the boundaries between hardware and
+paradox at the heart of computer science and electrical engineering.  Turing
+imagined his machine as a physical mechanism that solves a theoretical problem.
+Actual computers, in turn, simulate a hypothetical Turing machine. Computation
+therefore emerges as a figure stuck in the loop between the ideal and the
+physical worlds. It is part real mechanism and part unattainable idea.  The
+indeterminacy of computation blurs the boundaries between hardware and
 software. And no matter how hard computer science tries to escape into the
 realm of pure mathematics, the limits of physical engineering pull it back to
 the sphere of the applied.
@@ -329,7 +331,7 @@ effect gives us a concise minimally viable definition of "reading" and
 "becoming aware." Proper reading involves the appropriate internalization of
 the symbol, for both human and machine.
 
-In addition to "reading," Turing's device must be able to write. Turing writes
+In addition to "reading," Turing's machine must be able to write. Turing writes
 that "in some configurations in which the scanned square is blank (*i.e.* bears
 no symbol) the machine writes down a new symbol on the scanned square"
 [@turing_computable_1937, 231]. The machine can also erase and move symbols to
@@ -356,7 +358,7 @@ its internals is fixed. The universal Turing machine *takes other machine
 configurations* as an input. Turing writes that "it is possible to invent a
 single machine which can compute any computable sequence"
 [@turing_computable_1937, 241]. In being able to internalize configuration as
-symbol, the *universal* Turing machine can emulate all other special-purpose
+symbol, the *universal* Turing machine can simulate all other special-purpose
 Turing machines.
 
 The transition of symbols into machine states defines modern programming. A
@@ -364,7 +366,7 @@ universal machine, unlike other, definitive, single-purpose and limited-state
 mechanisms (a clock for example), contains the ability to take on differing
 internal symbolic configurations. It can imitate a clock, an abacus, a scale.
 In a later paper linking computing machinery and intelligence, Turing implies
-it could eventually emulate human thought as well
+it could eventually simulate human thought as well
 [@turing_computing_1950].[^ln1-compete]
 
 The universal Turing machine (UTM) emerges, finally, as a model of computation
@@ -380,129 +382,29 @@ mind" cites Turing's work extensively with reason [@fodor_language_1975;
 @putnam_representation_1988]. Bracketing for the moment the mathematical and
 cognitive implications of Turing's work, I want to approach the Turing machine
 from the perspective of a book historian and a media scholar. If the Turing
-machine is to be taken at face value, not as an algorithm, but as a device,
-what kind of a machine would it be? What are its antecedents? The physical
-properties of Turing's hypothetical machine fundamentally alter the course of
-literary history.
-
-[^ln1-compete]: "We may hope that machines will eventually compete with men in
-all purely intellectual fields" [@turing_computing_1950, 460].
-
-## 1.3 Dual Impact on the Study of Literature and Computing
-
-To rediscover the digital book device as a computational literary artifact
-means coming to terms with it as as a universal Turing machine. This
-immediately entails understanding the simulated nature of the electronic text.
-The computer pretends to be a book. Everything that we know to be true of text
-in print---from the shape of the letters to the position of text on a page, to
-characters, words, sentences, paragraphs, sections, chapters, and manuscripts,
-to more abstract categories like poems, novels, plays, and short stories, to
-authors, styles, narratives, and discourses, in short to all textual constructs
-that have their dimensions in physical space (and that is all of them), the
-entire burden of literary theory---must be encountered again as a *simulation*.
-
-Furthermore, it means also gaining awareness of other simulations that are
-enacted simultaneously through the device. Where a book is a just a book, the
-simulated book fulfills other functions. As a universal Turing machine, the
-device has the potential to conjure multiple metaphors. This means simply that
-the digital book device is also a phone, an alarm clock, a typewriter, a
-surveillance system, and otherwise an instrument of governance. Its
-potential to simulate other machines is unbounded.
-
-Finally, the very metaphysical nature of Turing machines implies the
-irreversible admixture of matter, content, and control. When reading a paper
-and cloth book, one can definitively isolate a) the physical properties of paper
-and cloth from b) the content of the book and from c) the legal and political
-elements governing the production of textuality. I write "separate" in the
-literal sense of recovering the blank paper, copying the content into another
-medium, and removing indications of governance like the North American ISBN
-numbers and notices of intellectual property. The Turing machine by definition
-ingests both symbolic representation and machine control codes through the same
-input stream. If you recall, Turing specifies "mental states" of machine's
-"awareness" that include "scanned symbols" and "instructions for operation." In
-Turing's minimally viable system, the machine sometimes reads and remembers
-numbers and at other times symbols that specify the movement of the scanning
-head, in actions like "erase the current cell" or "write out the last
-remembered digit." Control, in the Turing world and in our world too, can be
-reduced to symbolic control.
-
-Conversely, to encounter the universal Turing machine as a book, a device for
-symbolic exchange, means to recover the physical roots of computation. When
-viewed in the context of book history, the universal Turing machine signifies a
-consummation of several broad, long-term trends that begin with the invention
-of writing itself. The God of the Hebrew Bible etched his commandments into
-stone (Exodus 34:1). Moses broke the first set of tablets, but the word
-remained, for a time, immutable. The material history of literary computing
-begins with petrified words that endure forever, and ends with word as an
-electrical charge: animated, radiant, fluid, and iridescent
-[@mcgann_radiant_2001; @bryant_fluid_2002].
-
-## 1.5 Rise of the Simulated Text
-
-I have only now began to understand the significance of Jean Baudrillard's
-thought for the twenty-first century. A theorist of the simulacrum, he is
-perhaps best remembered for his 
-
-> At the limit of an always increasing elimination of references and finalities,
-an ever-increasing loss of resemblances and designations, we find the digital
-and programmatic sign, whose "value" is purely *tactical*, at the intersection
-of other signals ("bits" of information/tests) whose structure is that of a
-micromolecular code of command and control [@baudrillard_selected_1988, 139-140].
-
-@baudrillard_ecstasy_1988
-
-1. The mechanization of type and the accompanying normalization of language
-begins with the diffusion of movable type in China and Europe, circa 1040
-(China) and 1450 (Germany) [@mcluhan_gutenberg_1962; @he_diffusion_1994;
-@needham_shorter_1994, 1-34; @febvre_coming_2010]. With the invention of
-movable type and the typewriter, the variability of hand-written script can be
-normalized to a limited set of discrete characters. The process of
-normalization continues today as contemporary technologies like natural
-language processing and optical character recognition struggle to bring
-non-regularized writing systems under the computational umbrella.
-
-2. The development of distant writing (telegraphy) and remote communications,
-which, although extant in many early societies (as smoke and mirror signals,
-for example) accelerates dramatically at the beginning of the nineteenth
-century [@shaffner_telegraph_1859; @beauchamp_history_2001;
-@standage_victorian_2014]. When combined with the mechanization of type,
-telegraphy amplifies the range and the speed of geographical displacement
-enabled by the circulation of printed matter.
-
-3. Finally, the rise of Turing machines in the late nineteenth and early
-twentieth centuries elevates print from an intelligence-conveying medium to one
-of communication and control. "Content" intended for humans is now routinely
-mixed with "control codes" intended to alter the operation of the receiving
-device.
+machine is to be taken at face value, not as an algorithm, but as an
+instrument, what kind of a machine would it be? What are its antecedents?
 
 Most of the minimal physical requirements to build a universal Turing machine
-are within reach. It requires first, a device capable of "scanning" and
-"erasing" a "finite number of symbols." Second, we would need what Turing calls
-"one-dimensional paper," divided into discrete squares "like a child's
-arithmetic book" [@turing_computable_1937, 249]. Here we run into one small
-problem: a true universal Turing machine would require a tape that is
-infinitely long. But let us set that limitation aside for the moment as well.
-Finally, we would need some sort of mechanism to advance tape through the
+were within reach in the 1930s. It would require first, an apparatus capable of
+"scanning" and "erasing" a "finite number of symbols." Second, we would need
+what Turing calls "one-dimensional paper," divided into discrete squares "like
+a child's arithmetic book" [@turing_computable_1937, 249].[^ln1-infinite]
+Furthermore, we would need some sort of mechanism to advance tape through the
 machine, or, alternatively, to propel the scanning mechanism along the length
-of the tape. Our creation would look roughly similar to the machine reconstructed
-by Mike Davey, displayed for a time in the Collection of Historical Scientific
-Instruments at Harvard University. It looks like something of a cross between a
-telegraph, a film projector, and a typewriter.
-
-![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
-2012. Displayed in the Collection of Historical Scientific Instruments,
-Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/212. Photograph by
-Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
+of the tape. Having assembled these elements, our creation would look roughly
+like a cross between a telegraph, a film projector, and a
+typewriter.[^ln1-davey]
 
 Were we to patent the Turing machine at the time of its theoretical inception
-(1936-37) in the United States, these elements would find prior art in
+(1936-37) in the United States, the above elements would find prior art in
 mechanisms such as the "Numeral adding or subtracting attachment for
 type-writing machines" [@daugherty_numeral_1894], "Combined Type-writing and
 Computing Machine" [@degener_combined_1911], "Computing Attachment for
 Typewriters" [@wright_computing_1914], "Computing Mechanism"
 [@wright_computing_1915], and "Combined Type-writing and Adding Machine"
 [@ellis_combined_1914] among others. All of these machines contain some
-combination of a reading and writinng "head," storage tape, and movement
+combination of a reading and writing "head," storage tape, and movement
 mechanism.
 
 By the end of the nineteenth century a number of lesser contraptions anticipate
@@ -521,26 +423,28 @@ specifically to "circuit-controlling devices controlled by a traveling
 perforated strip or tape" [@cuttriss_telegraphy_1893]. Prior to perforated
 tape, the transmission of messages by telegraph required the presence of a
 skilled operator, able to transcribe messages from text to Morse code, and into
-the physical motion of a lever-operated circuit. In this system, the human
-operator acted as a mute interface between text and machine. The transcription
-of text into signal, and back onto paper, required the real-time presence of
-human encoders and decoders. The perforated tape decoupled the human from the
-machine. In US1187035 (1916) on "Telegraphy" Albert and Ralph Bumstead explain,
-"the object of our invention is to provide a system of telegraphy which does
-not require skilled operators for the transmission and reception of messages"
+the physical motion of a lever-operated circuit. In the operation of early
+telegraphy, the human operator acted as a mute interface between text and
+telegraph. The transcription of text into signal, and back onto paper, required
+the real-time presence of human encoders and decoders.
+
+The perforated tape decoupled the human from the machine. In US1187035 (1916)
+on "Telegraphy", Albert and Ralph Bumstead explain: "the object of our
+invention is to provide a system of telegraphy which does not require skilled
+operators for the transmission and reception of messages"
 [@bumstead_telegraphy_1916]. Instead, the message was transcribed into
-perforation via mechanical means and then fed into the device.  The tape
+perforation via mechanical means and then fed into the mechanism. The tape
 mechanics of the typewriter could then be coupled with the electrics of the
 telegraph, with perforated tape acting as a mediator between the two "worlds"
-of mechanics and electricity. A number of devices emerged at the time with the
-aim of transforming the mechanical action of the typewriter into perforation,
-and, consequently, perforation into script, completing the circuit between
-automated "encoding" and "decoding." As one device converts human input into
-mechanical states, and into signal, another device converts the signal into
-mechanical states and into human-legible messages.
+of mechanics and electricity. A number of contraptions emerged at the time with
+the aim of transforming the mechanical action of the typewriter into
+perforation, and, consequently, perforation into script, completing the circuit
+between automated "encoding" and "decoding." As one machine converted human
+input into mechanical states, and into signal, another machine converted
+signals into mechanical states and thereon into human-legible messages.
 
 What began as a trickle at the end of the nineteenth century ended in a flood
-at the beginning of the twentieth. A multitude of devices capitalized on the
+at the beginning of the twentieth. A multitude of inventions capitalized on the
 control capabilities of removable storage media. These included machines for
 tape-controlled telegraphic transmission [@wheatstone_improvement_1874;
 @murray_tape-controlled_1905; @bumstead_telegraphy_1916], tape-controlled
@@ -584,10 +488,8 @@ essence of telegraphy is control* [emphasis mine]." He goes on to write that
 distributing, but to the class of controlling mechanisms"
 [@murray_setting_1905, 556].
 
-With this history in mind, I am interested in reformulating the metaphysical
-anxiety about literature and value formation in terms of text and control. If
-you are reading these words on a screen, my message has reached you through a
-long chain of transformations: from the mechanical action of my keyboard, to
+If you are reading these words on a screen, my message has reached you through
+a long chain of transformations: from the mechanical action of my keyboard, to
 the arrangement of electrons on magnetic storage media, to the modulation of
 fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many
 third parties were involved in that act of communication. And some part of that
@@ -596,7 +498,7 @@ in your hand, near to your eye, embedded, or embodied. Close reading limited to
 the parsing of content and representation risks missing the machinations of
 naked circuit control. It looks like you are reading a book, but this book
 changes its internals as it receives instructions to inform and to control. For
-now I ask only, Who controls the device? But were a book also a pill or fused
+now I ask only, Who controls the machine? But were a book also a pill or fused
 with the neural circuitry of the brain, would you know what and whom you were
 reading?
 
@@ -609,19 +511,102 @@ with its own rich tradition of technological history." "One could add other
 antecedents such as the development of radio, motion pictures, and photography"
 [@ceruzzi_computing_2012, 11].
 
+[^ln1-compete]: "We may hope that machines will eventually compete with men in
+all purely intellectual fields" [@turing_computing_1950, 460].
+
+[^ln1-infinite]: A true universal Turing machine would require a tape that is
+infinitely long.
+
+[^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
+Universitiy's Collection of Historical Scientific Instruments in 2012. He
+writes, "my goal in building this project was to create a machine that embodied
+the classic look and feel of the machine presented in Turing’s paper.  I wanted
+to build a machine that would be immediately recognizable as a Turing machine
+to someone familiar with Turing's work" [@davey_turing_2012].
+
+## 1.3 Dual Impact on the Study of Literature and Computing
+
+I have only now began to understand the importance of Jean Baudrillard's
+thought for the twenty-first century. Reading him at the end of the century
+prior, I understood his writing on simulacra as related to virtual realities of
+computer games, reality television, and amusement parks. Reading him today, one
+realizes the nature of the simulation as a much more pervasive phenomena, which
+affects more than ersatz entertainment. Simulation lies at the heart of the
+universal Turing machine, and the machine mediates experience ubiquitously. It
+interjects in simple everyday acts from drinking coffee in the morning (through
+brewing and payment systems) to going to bed (as alarm clock and night activity
+monitor). Baudrillard writes:
+
+> At the limit of an always increasing elimination of references and finalities,
+an ever-increasing loss of resemblances and designations, we find the digital
+and programmatic sign, whose "value" is purely *tactical*, at the intersection
+of other signals ("bits" of information/tests) whose structure is that of a
+micromolecular code of command and control [@baudrillard_selected_1988, 139-140].
+
+To rediscover the digital book device as a computational literary artifact
+means coming to terms with it as as a universal Turing machine. This
+immediately entails understanding the simulated nature of the electronic text.
+The computer pretends to be a book. Everything that we know to be true of text
+in print---from the shape of the letters to the position of text on a page, to
+characters, words, sentences, paragraphs, sections, chapters, and manuscripts,
+to more abstract categories like poems, novels, plays, and short stories, to
+authors, styles, narratives, and discourses, in short to all textual constructs
+that have their dimensions in physical space (and that is all of them), the
+entire burden of literary theory---must be encountered again as a *simulation*.
+
+Furthermore, it means also gaining awareness of other simulations that are
+enacted simultaneously through the device. Where a book is a just a book, the
+simulated book fulfills other functions. As a universal Turing machine, the
+device has the potential to conjure multiple metaphors. This means simply that
+the the literary artifact is also a phone, an alarm clock, a typewriter, a
+surveillance system, and otherwise an instrument of governance. Its potential
+to simulate other machines is unbounded.
+
+Finally, the very metaphysical nature of Turing machines implies the
+irreversible admixture of matter, content, and control. When reading a paper
+and cloth book, one can definitively isolate a) the physical properties of paper
+and cloth from b) the content of the book and from c) the legal and political
+elements governing the production of textuality. I write "separate" in the
+literal sense of recovering the blank paper, copying the content into another
+medium, and removing indications of governance like the North American ISBN
+numbers and notices of intellectual property. The Turing machine by definition
+ingests both symbolic representation and machine control codes through the same
+input stream. If you recall, Turing specifies "mental states" of machine's
+"awareness" that include "scanned symbols" and "instructions for operation." In
+Turing's minimally viable system, the machine sometimes reads and remembers
+numbers and at other times symbols that specify the movement of the scanning
+head, in actions like "erase the current cell" or "write out the last
+remembered digit." Control, in the Turing world and in our world too, can be
+reduced to symbolic control.
+
+Conversely, to encounter the universal Turing machine as a book, an instrument
+for symbolic exchange, means to recover the physical roots of computation. When
+viewed in the context of book history, the universal Turing machine signifies a
+consummation of several broad, long-term trends that begin with the invention
+of writing itself. The God of the Hebrew Bible etched his commandments into
+stone (Exodus 34:1). Moses broke the first set of tablets, but the word
+remained, for a time, immutable. The material history of literary computing
+begins with petrified words that endure forever, and ends with word as an
+electrical charge: animated, radiant, fluid, and iridescent
+[@mcgann_radiant_2001; @bryant_fluid_2002].
+
+## 1.4 Rise of Simulated Text
+
+Better connection here.
 As the chapter is about to take on the intellectual history of document
-structure, I propose we keep the above three devices at hand: Goldberg's
-Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of these,
-text structure and machine control lie before us for inspection. The second one
-is mute: a black slate. The last of these belongs to what Peter Denning calls
-the "third generation" of computer systems, an assemblage of storage, input,
-and output devices that continues to shape the contemporary human encounter
-with text. In this period, the inscription fractures into traces of disparate
-kind: some that fade from view to appear elsewhere in the system in a more
-enduring form, as an arrangement of floating gates; some that persist in the
-flicker of the cathode ray or the flow of the liquid crystal, but only as long
-as the device draws power; and yet others that simply dissemble to create the
-illusion of effortless textuality.
+structure, I propose we keep the follosing three appliances at hand: Goldberg's
+Controller, the IBM MT/ST, and Engelbart's Time Fob. 
+
+In the first of these, text structure and machine control lie before us for
+inspection. The second one is mute: a black slate. The last of these belongs to
+what Peter Denning calls the "third generation" of computer systems, an
+assemblage of storage, input, and output technologies that continue to shape
+the contemporary human encounter with text. In this period, the inscription
+fractures into traces of disparate kind: some that fade from view to appear
+elsewhere in the system in a more enduring form, as an arrangement of floating
+gates; some that persist in the flicker of the cathode ray or the flow of the
+liquid crystal, but only as long as the gadget draws power; and yet others that
+simply dissemble to create the illusion of effortless textuality.
 
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
 
@@ -731,7 +716,7 @@ their material substratum texts become both more fluid and more portable.
 Plainly put, the systematic barriers to copying, sharing, exchanging, editing,
 remixing, and disseminating texts are reduced to a minimum.
 
-Ersatz isomorphism (between disk storage and screen image) leads to the
+Ersatz skeuomorphism (between disk storage and screen image) leads to the
 reception of digital text as an ephemeral artifact. With the illusory role of
 the screen in mind, I propose 1968 as the year in which the contemporary
 textual condition takes its present form. On December 9, 1968 Douglas
@@ -928,11 +913,11 @@ therefore be taken at face value, by the unreliable phenomenological accounts
 alone. To bring his system into being, Engelbart convened what he called a
 "bootstrap community," which through recursive self-improvement could lift
 itself up towards a smarter, more efficient, and as the report's lexicon
-betrays, a more human way of working. To accomplish this, the group crafted new
-input and output devices. They wrote new programming languages, compilers to
-interpret them, and debuggers to troubleshoot. They invented word editors and
-format control languages. Here's how Engelbart diagrams a *part* of his
-text-manipulation language in the same report:
+betrays, a more human way of working. To accomplish this, the group crafted
+novel instruments for input and output. They wrote new programming languages,
+compilers to interpret them, and debuggers to troubleshoot. They invented word
+editors and format control languages. Here's how Engelbart diagrams a *part* of
+his text-manipulation language in the same report:
 
 !["State--chart portrayal of part of text--manipulation control language"
 [@engelbart_human_1969, 36].](images/engel-edit.png)
@@ -949,7 +934,9 @@ lightness of textual being comes at the price of legibility. Would new authors
 find the same ease in the complication of the mechanism? I suspect not unless
 they become an active part of a "bootstrapping community" of their own.
 
-## 1.6 WYSINAWYG (What You See Is Not Always What You Get)
+Connect to end of 1.3
+
+## 1.5 WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -1182,13 +1169,13 @@ placed on its feet again" (44).
 [^ln1-dirt]: Think of text as substance and literature as surface. The first is
 like dirt where the second is gound. We play with one on top of the other.
 
-[^ln1-gate]: Solid state memory devices like flash memory store information in
-capacitor "circuit states." This by contrast with electromagnetic storage that
-works by modulating electrical charge over a magnetic surface. Solid state
-capacitor storage was used in the earliest computers
-[@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+[^ln1-gate]: Solid state memory technology, flash memory for example, store
+information in capacitor "circuit states." This by contrast with
+electromagnetic storage that works by modulating electrical charge over a
+magnetic surface. Solid state capacitor storage was used in the earliest
+computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
 manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage on consumer devices. In an early
+began to replace electromagnetic storage in consumer electronics. In an early
 (1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
 and Sze explain: "A structure has been proposed and fabricated in which
 semipermanent charge storage is possible. A floating gate is placed a small

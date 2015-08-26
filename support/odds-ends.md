@@ -1,6 +1,37 @@
 ## Odds and Ends
 
 
+## History of Textuality
+
+1. The mechanization of type and the accompanying normalization of language
+begins with the diffusion of movable type in China and Europe, circa 1040
+(China) and 1450 (Germany) [@mcluhan_gutenberg_1962; @he_diffusion_1994;
+@needham_shorter_1994, 1-34; @febvre_coming_2010]. With the invention of
+movable type and the typewriter, the variability of hand-written script can be
+normalized to a limited set of discrete characters. The process of
+normalization continues today as contemporary technologies like natural
+language processing and optical character recognition struggle to bring
+non-regularized writing systems under the computational umbrella.
+
+2. The development of distant writing (telegraphy) and remote communications,
+which, although extant in many early societies (as smoke and mirror signals,
+for example) accelerates dramatically at the beginning of the nineteenth
+century [@shaffner_telegraph_1859; @beauchamp_history_2001;
+@standage_victorian_2014]. When combined with the mechanization of type,
+telegraphy amplifies the range and the speed of geographical displacement
+enabled by the circulation of printed matter.
+
+3. Finally, the rise of Turing machines in the late nineteenth and early
+twentieth centuries elevates print from an intelligence-conveying medium to one
+of communication and control. "Content" intended for humans is now routinely
+mixed with "control codes" intended to alter the operation of the receiving
+device.
+
+![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
+2012. Displayed in the Collection of Historical Scientific Instruments,
+Harvard University. Go Ask A.L.I.C.E. Exhibition, 9/11-12/20/12. Photograph by
+Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
+
 ### Infinity
 
 See also @siegert_cacography_2011: "The step leading to from an analog,
