@@ -601,9 +601,27 @@ as an electrical charge: animated, radiant, fluid, and iridescent
 
 ## 1.4 Rise of Simulated Text
 
-Better connection here.
+Through the ideal of a universal Turing machine, symbolism evolves into its
+final and totalizing form. By converting machine states into symbols, the
+Turing machine represents the ultimate negation of matter. It subsumes all
+lesser mechanisms amenable to computation---which some would say includes
+brains and universes.[ln1-brains] The universal Turing has the potential to
+mediate everywhere, yet, paradoxically, it's method of "mediation" abstracts
+from any notion of medium or intervening substance.
+
+Under the command and control regime of the Turing machine, text loses its
+adhesion to the world. Yet it is also the symbol, in its rawest form, that
+anchors the Turing machine to the confines of the physical universe. No matter
+the transcendental impulse, the universal Turing machine is confined to the
+minimal physical requirements: "tape," "symbol," "scanned square," "in the
+machine" [@turing_computable_1937, 231].
+
+[^ln1-brains]: For the first view see @putnam_minds_1960 and
+@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
+@dyson_turings_2012.
+
 As the chapter is about to take on the intellectual history of document
-structure, I propose we keep the follosing three appliances at hand: Goldberg's
+structure, I propose we keep the following three appliances at hand: Goldberg's
 Controller, the IBM MT/ST, and Engelbart's Time Fob. 
 
 In the first of these, text structure and machine control lie before us for
