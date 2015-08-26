@@ -274,21 +274,21 @@ extends agency should embody values that correspond to the active agent of the
 action.
 
 To confront the computer as a *literary* device, optimized for symbolic
-exchange, one must first understand its peculiar relationship to
-universal Turing machines.
+exchange, one must first understand its peculiar relationship to universal
+Turing machines.
 
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Since its inception, the Turing machine has remained a
 controversial construct that elicits academic debate. The debate concerns a
-paradox at the heart of computer science and electrical engineering.  Turing
-imagined his machine as a physical mechanism that solves a theoretical problem.
-Actual computers, in turn, simulate a hypothetical Turing machine. Computation
-therefore emerges as a figure stuck in the loop between the ideal and the
-physical worlds. It is part real mechanism and part unattainable idea.  The
-indeterminacy of computation blurs the boundaries between hardware and
-software. And no matter how hard computer science tries to escape into the
-realm of pure mathematics, the limits of physical engineering pull it back to
-the sphere of the applied.
+paradox that separates the practice of computer science from electrical
+engineering. Turing imagined his machine as a physical mechanism that solves a
+theoretical problem. Actual computers, in turn, simulate a hypothetical Turing
+machine. Computation therefore emerges as a figure stuck in the loop between
+the ideal and the physical worlds. It is part real mechanism and part
+unattainable idea.  The indeterminacy of computation blurs the boundaries
+between hardware and software. And no matter how hard computer science tries to
+escape into the realm of pure mathematics, the limits of physical engineering
+pull it back to the sphere of the applied.
 
 In his seminal 1937 paper on computable numbers, Alan Turing, then a student at
 King's College, did a strange thing for a mathematical journal. He imagined an
@@ -312,8 +312,8 @@ point only one section bearing one symbol can be said to be "in the machine."
 "We may call this square the 'scanned square,'" Turing writes,
 
 > The symbol on the scanned square may be called the "scanned symbol." The
-"scanned symbol" is the only one of which the machine is, so to speak,
-"directly aware" [@turing_computable_1937, 231].
+> "scanned symbol" is the only one of which the machine is, so to speak,
+> "directly aware" [@turing_computable_1937, 231].
 
 The scanned symbols become a part of the machine's internal configuration. In
 Turing's words, "the machine can effectively remember some of the symbols which
@@ -469,46 +469,47 @@ patent, the first 13 relate to the "transmission of intelligence,"
 > [@bumstead_telegraphy_1916, 12-13].
 
 What begins as a description of a mechanism for information transmittal, ends
-with a claim about hermeneutics. Starting with clause 14, the brothers begin to
-describe "a telegraph system" that capable of "transmitting impulses" at
-varying time intervals. In the language of the patent, the length of the time
-interval "represents significance," involving an automated receiver responsible
-for "distributing*, interpreting*, and recording." The printing mechanism is
-further "arranged to to print the interpretation of the signals which is made
-by the interpreting relays" [@bumstead_telegraphy_1916, 6].
+with a claim about hermeneutics of control. Starting with clause 14, the
+brothers begin to describe "a telegraph system" that capable of "transmitting
+impulses" at varying time intervals. In the language of the patent, the length
+of the time interval "represents significance," involving an automated receiver
+responsible for "distributing, interpreting, and recording." The printing
+mechanism is further "arranged to to print the interpretation of the signals
+which is made by the interpreting relays" [@bumstead_telegraphy_1916, 6]. The
+interpreting relays transform time intervals into a "typographical form"
+representing "a letter, a figure, or other characters," "in accordance with a
+code" [@bumstead_telegraphy_1916, 13]. Initially, the telegraph prints to
+"transmit intelligence." But the authors also understand that the varying time
+intervals could also signify other information, meant to actuate a variety of
+devices. By the middle of they patent they describe their telegraph as a
+general "controlling medium," which can power everything from typesetting
+machines to more general "sunflower switches." "Indeed the detector and the
+interpreting relay could be made to actuate a set of sunflower switches for an
+indicator without including a printer at all," the authors conclude
+[@bumstead_telegraphy_1916, 12]. For the automated telegraph control code and
+the message are one. The mechanism interprets some signal as figure and
+character and other signals as control code affecting the internal mechanical
+configuration of the device. The first type of code holds "significance" for
+humans and the second for the mechanism itself. It is "transmitting
+intelligence" in a sense of externalizing machine states and "interpreting" in
+the sense of mechanical reconfiguration of internal parts.
 
-For the automated telegraph control code and the message are one: that is, the
-arrangement of perforation on the ticker tape affects the internal mechanical
-configuration of the machine. Like the multitude of patents for similar
-mechanisms, the Bumstead brothers describe a tape-driven telegraph machine,
+Along with dozens of similar inventions patented around the turn of the
+twentieth century, Bumstead brothers describe a mechanism that function as a
+Turing machine with little modification. The automated telegraph, driven by
+ticker tape, and connected to a printer contain all the necessary requirements
+set out by Turing: a discrete symbolic language, the removable storage medium,
+and a device that can alter its internal states based on the reading and
+writing of scanned symbols. Like the Turing machine, the Bumstead telegraph is
+capable of recursion. Ultimately, it can produce and interpret its own control
+codes.
 
-at
-any given time is also, in part, a message meant for the human recipient.  The
-printing telegraph of Brothers Bumstead, along with their subsequents and
-antecedents, contain all the necessary parts for a Turing machine: discrete
-symbolic language, removable storage medium, and a device that can alter its
-internal state based on the reading and writing passing symbols.
-
-By 1905, Murray (of the Murray telegraph and alphabet) can write that "if we
-disregard the small class of telegrams that merely express emotions, *the
-essence of telegraphy is control* [emphasis mine]." He goes on to write that
-"telegraph systems, therefore, belong not to the class of producing or
-distributing, but to the class of controlling mechanisms"
+By 1905, Donald Murray, the inventor of the popular Murray telegraph, could
+write that "if we disregard the small class of telegrams that merely express
+emotions, *the essence of telegraphy is control* [emphasis mine]." He went on
+to write that "telegraph systems, therefore, belong not to the class of
+producing or distributing, but to the class of controlling mechanisms"
 [@murray_setting_1905, 556].
-
-If you are reading these words on a screen, my message has reached you through
-a long chain of transformations: from the mechanical action of my keyboard, to
-the arrangement of electrons on magnetic storage media, to the modulation of
-fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many
-third parties were involved in that act of communication. And some part of that
-message was used to control the electrical circuits of the device in your lap,
-in your hand, near to your eye, embedded, or embodied. Close reading limited to
-the parsing of content and representation risks missing the machinations of
-naked circuit control. It looks like you are reading a book, but this book
-changes its internals as it receives instructions to inform and to control. For
-now I ask only, Who controls the machine? But were a book also a pill or fused
-with the neural circuitry of the brain, would you know what and whom you were
-reading?
 
 [^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
 @marche_literature_2012.
@@ -536,14 +537,13 @@ to someone familiar with Turing's work" [@davey_turing_2012].
 
 I have only now began to understand the importance of Jean Baudrillard's
 thought for the twenty-first century. Reading him at the end of the century
-prior, I understood his writing on simulacra as related to virtual realities of
-computer games, reality television, and amusement parks. Reading him today, one
-realizes the nature of the simulation as a much more pervasive phenomena, which
-affects more than ersatz entertainment. Simulation lies at the heart of the
-universal Turing machine, and the machine mediates experience ubiquitously. It
-interjects in simple everyday acts from drinking coffee in the morning (through
-brewing and payment systems) to going to bed (as alarm clock and night activity
-monitor). Baudrillard writes:
+prior, I understood his writing on simulacra in relationship to ersatz
+entertainment: virtual reality, reality television, and amusement parks.
+Reading him today, one perceives the pervasive nature of simulation. The
+machine mediates experience ubiquitously, and the Turing machine is a universal
+machine simulator. It interjects in simple everyday acts from drinking coffee
+in the morning (through brewing and payment systems) to going to bed (as alarm
+clock and night activity monitor). Baudrillard writes:
 
 > At the limit of an always increasing elimination of references and finalities,
 an ever-increasing loss of resemblances and designations, we find the digital
@@ -566,36 +566,37 @@ Furthermore, it means also gaining awareness of other simulations that are
 enacted simultaneously through the device. Where a book is a just a book, the
 simulated book fulfills other functions. As a universal Turing machine, the
 device has the potential to conjure multiple metaphors. This means simply that
-the the literary artifact is also a phone, an alarm clock, a typewriter, a
+the literary artifact is also a phone, an alarm clock, a typewriter, a
 surveillance system, and otherwise an instrument of governance. Its potential
 to simulate other machines is unbounded.
 
 Finally, the very metaphysical nature of Turing machines implies the
 irreversible admixture of matter, content, and control. When reading a paper
-and cloth book, one can definitively isolate a) the physical properties of paper
-and cloth from b) the content of the book and from c) the legal and political
-elements governing the production of textuality. I write "separate" in the
-literal sense of recovering the blank paper, copying the content into another
-medium, and removing indications of governance like the North American ISBN
-numbers and notices of intellectual property. The Turing machine by definition
-ingests both symbolic representation and machine control codes through the same
-input stream. If you recall, Turing specifies "mental states" of machine's
-"awareness" that include "scanned symbols" and "instructions for operation." In
-Turing's minimally viable system, the machine sometimes reads and remembers
-numbers and at other times symbols that specify the movement of the scanning
-head, in actions like "erase the current cell" or "write out the last
-remembered digit." Control, in the Turing world and in our world too, can be
-reduced to symbolic control.
+and cloth book, one can definitively isolate a) the physical properties of
+paper and cloth from b) the content of the book and from c) the legal and
+political elements governing the production of textuality. I write "separate"
+in the literal sense of recovering the blank paper, copying the content into
+another medium, and removing indications of governance like the North American
+ISBN numbers and notices of intellectual property. The Turing machine by
+definition ingests both symbolic representation and machine control codes
+through the same input stream. If you recall, Turing specifies "mental states"
+of machine's "awareness" that include "scanned symbols" and "instructions for
+operation." In Turing's minimally viable system, the machine sometimes reads
+and remembers numbers and at other times symbols that specify the movement of
+the scanning head, in actions like "erase the current cell" or "write out the
+last remembered digit." Within the Turing world, which reduces all physical
+mechanisms to symbols, the symbol carries with it a message of symbolic
+control.
 
-Conversely, to encounter the universal Turing machine as a book, an instrument
-for symbolic exchange, means to recover the physical roots of computation. When
-viewed in the context of book history, the universal Turing machine signifies a
-consummation of several broad, long-term trends that begin with the invention
-of writing itself. The God of the Hebrew Bible etched his commandments into
-stone (Exodus 34:1). Moses broke the first set of tablets, but the word
-remained, for a time, immutable. The material history of literary computing
-begins with petrified words that endure forever, and ends with word as an
-electrical charge: animated, radiant, fluid, and iridescent
+Conversely, to encounter the universal Turing machine as a book---an instrument
+for symbolic exchange---means to recover the physical roots of computation.
+When viewed in the context of book history, the universal Turing machine
+signifies a consummation of several broad, long-term trends that begin with the
+invention of writing itself. The God of the Hebrew Bible etched his
+commandments into stone (Exodus 34:1). Moses broke the first set of tablets,
+but the word remained, for a time, immutable. The material history of literary
+computing begins with petrified words that endure forever, and ends with word
+as an electrical charge: animated, radiant, fluid, and iridescent
 [@mcgann_radiant_2001; @bryant_fluid_2002].
 
 ## 1.4 Rise of Simulated Text
@@ -1095,6 +1096,20 @@ reason through Kittler's computational conundrum. On towards Marx then (who
 will appear much later), through the machine that, although intimately familiar
 to every writer and consumer of text by touch, remains alien and alienating in
 its hidden possibilities, soothing and threatening all at once.
+
+If you are reading these words on a screen, my message has reached you through
+a long chain of transformations: from the mechanical action of my keyboard, to
+the arrangement of electrons on magnetic storage media, to the modulation of
+fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many
+third parties were involved in that act of communication. And some part of that
+message was used to control the electrical circuits of the device in your lap,
+in your hand, near to your eye, embedded, or embodied. Close reading limited to
+the parsing of content and representation risks missing the machinations of
+naked circuit control. It looks like you are reading a book, but this book
+changes its internals as it receives instructions to inform and to control. For
+now I ask only, Who controls the machine? But were a book also a pill or fused
+with the neural circuitry of the brain, would you know what and whom you were
+reading?
 
 [^ln1-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
