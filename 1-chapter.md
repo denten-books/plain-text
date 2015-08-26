@@ -424,7 +424,7 @@ perforated strip or tape" [@cuttriss_telegraphy_1893]. Prior to perforated
 tape, the transmission of messages by telegraph required the presence of a
 skilled operator, able to transcribe messages from text to Morse code, and into
 the physical motion of a lever-operated circuit. In the operation of early
-telegraphy, the human operator acted as a mute interface between text and
+telegraphy, the human operator acted as a mute interpreter between text and
 telegraph. The transcription of text into signal, and back onto paper, required
 the real-time presence of human encoders and decoders.
 
@@ -436,12 +436,14 @@ operators for the transmission and reception of messages"
 perforation via mechanical means and then fed into the mechanism. The tape
 mechanics of the typewriter could then be coupled with the electrics of the
 telegraph, with perforated tape acting as a mediator between the two "worlds"
-of mechanics and electricity. A number of contraptions emerged at the time with
-the aim of transforming the mechanical action of the typewriter into
-perforation, and, consequently, perforation into script, completing the circuit
-between automated "encoding" and "decoding." As one machine converted human
-input into mechanical states, and into signal, another machine converted
-signals into mechanical states and thereon into human-legible messages.
+of mechanics and electricity.
+
+A number of contraptions emerged at the time with the aim of transforming the
+mechanical action of the typewriter into perforation, and, consequently,
+perforation into script, completing the circuit between automated "encoding"
+and "decoding." As one machine converted human input into mechanical states,
+and into signal, another machine converted signals into mechanical states and
+thereon into human-legible messages.
 
 What began as a trickle at the end of the nineteenth century ended in a flood
 at the beginning of the twentieth. A multitude of inventions capitalized on the
@@ -456,30 +458,36 @@ for radio and television content [@vriendt_program_1934; @brown_automatic_1936;
 human became also a physical medium---bumps and holes---used to animate the
 mechanical movement of the transmission apparatus.
 
-For example, of the 33 asserted claims in the Bumstead brothers' patent, the
-first 13 relate to the "transmission of intelligence [...] adapted to initiate
-a succession of electrical impulses all of which have a character representing
-significance, a receiver adapted to detect variations in time intervals
-elapsing between successive impulses, a plurality of interpreting relays
-selectively actuated by said receiver, and a printed mechanism responsive for
-the combined action" [@bumstead_telegraphy_1916, 12-13]. Up to this point, the
-patent describes a device for transmission information, from type to print.
-Starting with clause 14, the language changes to describe a more general
-"telegraph system," involving "an impulse transmitter having means to vary the
-time intervals between successive transmitted impulses, each time interval
-having a character *representing significance*, a receiver responsive to said
-devices, and signal, *distributing*, *interpreting*, and recording devices
-responsive to the contiguous significant time intervals defined by the impulses
-[emphasis mine]" [@bumstead_telegraphy_1916, 14]. For the automated telegraph
-the control code and the message are one: that is, the arrangement of
-perforation on the ticker tape affects the internal mechanical configuration of
-the machine. Another way to put this would be to say that the state of the
-tape-driven telegraph machine at any given time is also, in part, a message
-meant for the human recipient. The printing telegraph of Brothers Bumstead,
-along with their subsequents and antecedents, contain all the necessary parts
-for a Turing machine: discrete symbolic language, removable storage medium, and
-a device that can alter its internal state based on the reading and writing
-passing symbols.
+For example, of the 33 asserted claims in the Bumstead brothers' "Telegraphy"
+patent, the first 13 relate to the "transmission of intelligence,"
+
+> [...] adapted to initiate a succession of electrical impulses all of which
+> have a character representing significance, a receiver adapted to detect
+> variations in time intervals elapsing between successive impulses, a
+> plurality of interpreting relays selectively actuated by said receiver, and a
+> printed mechanism responsive for the combined action
+> [@bumstead_telegraphy_1916, 12-13].
+
+What begins as a description of a mechanism for information transmittal, ends
+with a claim about hermeneutics. Starting with clause 14, the brothers begin to
+describe "a telegraph system" that capable of "transmitting impulses" at
+varying time intervals. In the language of the patent, the length of the time
+interval "represents significance," involving an automated receiver responsible
+for "distributing*, interpreting*, and recording." The printing mechanism is
+further "arranged to to print the interpretation of the signals which is made
+by the interpreting relays" [@bumstead_telegraphy_1916, 6].
+
+For the automated telegraph control code and the message are one: that is, the
+arrangement of perforation on the ticker tape affects the internal mechanical
+configuration of the machine. Like the multitude of patents for similar
+mechanisms, the Bumstead brothers describe a tape-driven telegraph machine,
+
+at
+any given time is also, in part, a message meant for the human recipient.  The
+printing telegraph of Brothers Bumstead, along with their subsequents and
+antecedents, contain all the necessary parts for a Turing machine: discrete
+symbolic language, removable storage medium, and a device that can alter its
+internal state based on the reading and writing passing symbols.
 
 By 1905, Murray (of the Murray telegraph and alphabet) can write that "if we
 disregard the small class of telegrams that merely express emotions, *the
