@@ -610,18 +610,56 @@ mediate everywhere, yet, paradoxically, it's method of "mediation" abstracts
 from any notion of medium or intervening substance.
 
 Under the command and control regime of the Turing machine, text loses its
-adhesion to the world. Yet it is also the symbol, in its rawest form, that
-anchors the Turing machine to the confines of the physical universe. No matter
-the transcendental impulse, the universal Turing machine is confined to the
-minimal physical requirements: "tape," "symbol," "scanned square," "in the
-machine" [@turing_computable_1937, 231].
+adhesion to the world. Yet it would be a mistake to think of it as wholly
+ethereal. The symbol itself, in its rawest form, anchors the Turing machine to
+the confines of the physical universe. No matter the transcendental impulse,
+the universal Turing machine cannot be abstracted beyond its minimal physical
+requirements: "tape," "symbol," "scanned square," "in the machine"
+[@turing_computable_1937, 231]. Note that these are also minimal physical
+requirements for interpretation: the ability to internalize and to externalize
+symbolically.[^ln1-inside]
 
-[^ln1-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
+A figure of computation emerges in the dual movement between symbol and
+machine: the machine that pushes the symbol towards the ethereal, and the
+symbol that pulls the machine back towards earth. This dynamic encapsulates the
+bargain at the center of computational media and the subject of this book. The
+machine frees representation from its material confines. The immateriality of
+of digital media entails real-world effects: the costs of replication plummet,
+for example. As a private individual, I am able to make thousands if not
+millions of copies of the text before you without spending so much as a single
+dime. Such levels of reproducibility would be unthinkable for most of the
+twentieth century. The machine weakens the bonds between symbol and its
+material context, allowing for rapid remediation. The lowered costs of
+remediation further reduce barriers to access and conveyance. Symbols that
+adhere lightly to their medium are easy to store and to transport. Witness the
+rise of massive, global public knowledge projects like online search engines
+and encyclopedias as a direct consequence. Such projects unfold the logic of
+immateriality, which moves towards totalizing knowledge and universal
+accessibility.[^ln1-google] In the condition where representation weighs
+nothing, one can immediately imagine a weightless totality of all
+representation, available immediately and everywhere.
 
-As the chapter is about to take on the intellectual history of document
-structure, I propose we keep the following three appliances at hand: Goldberg's
+[^ln1-google]: "Google's mission is to organize the world's information
+and make it universally accessible and useful" (@google_about_2015).
+
+The weightlessness of text has other side-effects which we will explore
+throughout the book. A text that adheres lightly to its medium is also
+difficult to contain. The governance of symbolic representation becomes
+difficult. This means less censorship but also a weakened notion of authorship
+and intellectual property. One does not own clouds.
+
+I understand that many readers will intuitively recoil at the suggestion. I can
+hear Johanna Drucker's wary and wise voice insisting on typographic materiality
+of the word, or Matthew Kirschenbaum's admonition that "every contact leaves a
+trace," and the call of Katerine Hayles for a "workable trace of materiality"
+[@drucker_digital_2001, @hayles_translating_2003,
+@kirschenbaum_mechanisms_2008, @drucker_letterpress_2008]. And they are
+correct, in a sense. The sign does not and cannot exist without a
+physical trace. We are however witnessing the palpable effects of symbolic
+bifurcation. The visible sign is indeed produced to mimic the properties of
+immaterial representation. Thus when when Michael Heim
+
+I propose we keep the following three appliances at hand: Goldberg's
 Controller, the IBM MT/ST, and Engelbart's Time Fob. 
 
 In the first of these, text structure and machine control lie before us for
@@ -634,6 +672,14 @@ elsewhere in the system in a more enduring form, as an arrangement of floating
 gates; some that persist in the flicker of the cathode ray or the flow of the
 liquid crystal, but only as long as the gadget draws power; and yet others that
 simply dissemble to create the illusion of effortless textuality.
+
+[^ln1-brains]: For the first view see @putnam_minds_1960 and
+@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
+@dyson_turings_2012.
+
+[^ln1-inside]: My definitions do imply a sort of a dualism, but not between
+mind and body---simply between inside and outsdie, self and other, I and not-I.
+This has been said before in many ways.
 
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
 

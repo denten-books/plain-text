@@ -1,7 +1,7 @@
 
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 4: Copy Authenticity"
+subtitle: "Chapter 4: Adhesion and Authenticity"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
