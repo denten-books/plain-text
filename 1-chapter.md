@@ -653,11 +653,26 @@ hear Johanna Drucker's wary and wise voice insisting on typographic materiality
 of the word, or Matthew Kirschenbaum's admonition that "every contact leaves a
 trace," and the call of Katerine Hayles for a "workable trace of materiality"
 [@drucker_digital_2001, @hayles_translating_2003,
-@kirschenbaum_mechanisms_2008, @drucker_letterpress_2008]. And they are
-correct, in a sense. The sign does not and cannot exist without a
-physical trace. We are however witnessing the palpable effects of symbolic
-bifurcation. The visible sign is indeed produced to mimic the properties of
-immaterial representation. Thus when when Michael Heim
+@kirschenbaum_mechanisms_2008, @drucker_letterpress_2008]. And they are all
+correct, in a sense. The sign does not and cannot exist without its physical
+manifestation. We are however witnessing the palpable effects of symbolic
+bifurcation. The sign splits in two: with one half, invisible, remaining firmly
+embedded int the material substratum and the other half, apparent, in a
+shimmering simulation on the screen.
+
+Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
+text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
+[and] contingent" they are both identifying real-world technological
+contingencies [@mccorduck_universal_1985, 51; @heim_electric_1987, 211]. And
+when Drucker, Hayles, and Kirschenbaum respond with hardened materialism, they
+are also describing real-world properties of electronic text. But the two camps
+are not speaking of the same phenomenon. The former group points to the screen
+as the impermanent and ephemeral state of the written word: like tomatoes
+suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter group
+responds, along with Matthew Kirschenbaum by pointing to "uniquely indelible
+nature of magnetic storage" [@kirschenbaum_mechanisms_2008]. Both camps agree
+that the screen and the drive are involved. And both would likely agree that it
+would be a mistake to conflate the one site for the other.;wq
 
 I propose we keep the following three appliances at hand: Goldberg's
 Controller, the IBM MT/ST, and Engelbart's Time Fob. 
