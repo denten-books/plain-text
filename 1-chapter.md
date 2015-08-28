@@ -623,56 +623,76 @@ A figure of computation emerges in the dual movement between symbol and
 machine: the machine that pushes the symbol towards the ethereal, and the
 symbol that pulls the machine back towards earth. This dynamic encapsulates the
 bargain at the center of computational media and the subject of this book. The
-machine frees representation from its material confines. The immateriality of
-of digital media entails real-world effects: the costs of replication plummet,
-for example. As a private individual, I am able to make thousands if not
-millions of copies of the text before you without spending so much as a single
-dime. Such levels of reproducibility would be unthinkable for most of the
-twentieth century. The machine weakens the bonds between symbol and its
-material context, allowing for rapid remediation. The lowered costs of
-remediation further reduce barriers to access and conveyance. Symbols that
+machine frees representation from its material confines. Yet the freedom is
+only simulated. Its price is the very opacity of the material context. Where
+words etched in paper or stone constituted a single site for textual activity,
+the digital word exists in a simulated environment physically apart from the
+underlying material substratum.
+
+The immateriality of of digital media entails real-world effects: the costs of
+replication plummet, for example. As a private individual, I am able to make
+thousands if not millions of copies of a text without spending so much as a
+dime. Hyper-reproducibility of the sort was unthinkable for most of the
+twentieth century. The machine allows for rapid remediation. The lowered costs
+of copying further reduce barriers to access and conveyance. Symbols that
 adhere lightly to their medium are easy to store and to transport. Witness the
 rise of massive, global public knowledge projects like online search engines
 and encyclopedias as a direct consequence. Such projects unfold the logic of
-immateriality, which moves towards totalizing knowledge and universal
-accessibility.[^ln1-google] In the condition where representation weighs
-nothing, one can immediately imagine a weightless totality of all
-representation, available immediately and everywhere.
+immateriality, which moves towards totalizing archives and universal
+accessibility.[^ln1-google] Under the conditions where representation weighs
+nothing, one imagines a weightless totality of all representation, available
+immediately and everywhere.
 
 [^ln1-google]: "Google's mission is to organize the world's information
 and make it universally accessible and useful" (@google_about_2015).
 
 The weightlessness of text has other side-effects which we will explore
 throughout the book. A text that adheres lightly to its medium is also
-difficult to contain. The governance of symbolic representation becomes
-difficult. This means less censorship but also a weakened notion of authorship
-and intellectual property. One does not own clouds.
+difficult to contain, making onerous the governance of symbolic representation.
+Traditional controls like censorship and intellectual property rights become
+difficult to sustain.
 
-I understand that many readers will intuitively recoil at the suggestion. I can
-hear Johanna Drucker's wary and wise voice insisting on typographic materiality
-of the word, or Matthew Kirschenbaum's admonition that "every contact leaves a
-trace," and the call of Katerine Hayles for a "workable trace of materiality"
-[@drucker_digital_2001, @hayles_translating_2003,
-@kirschenbaum_mechanisms_2008, @drucker_letterpress_2008]. And they are all
-correct, in a sense. The sign does not and cannot exist without its physical
-manifestation. We are however witnessing the palpable effects of symbolic
-bifurcation. The sign splits in two: with one half, invisible, remaining firmly
-embedded int the material substratum and the other half, apparent, in a
-shimmering simulation on the screen.
+Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
+Rather, the symbol splits in two: with one one half arising visibly, a
+weightless and apparent screen simulation, and the other half, opaque, etched
+into the hefty and hidden material contingencies of the device.
 
 Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
 text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
 [and] contingent" they are both identifying real-world technological
-contingencies [@mccorduck_universal_1985, 51; @heim_electric_1987, 211]. And
-when Drucker, Hayles, and Kirschenbaum respond with hardened materialism, they
-are also describing real-world properties of electronic text. But the two camps
-are not speaking of the same phenomenon. The former group points to the screen
-as the impermanent and ephemeral state of the written word: like tomatoes
-suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter group
-responds, along with Matthew Kirschenbaum by pointing to "uniquely indelible
-nature of magnetic storage" [@kirschenbaum_mechanisms_2008]. Both camps agree
-that the screen and the drive are involved. And both would likely agree that it
-would be a mistake to conflate the one site for the other.;wq
+affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
+@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
+which, when faced with the law prohibiting observant Jews from erasing God's
+name, rule that words on "screens, disks, and tapes" are not to be considered
+as writing, therefore sanctioning erasure. Other technological and
+legal fictions arise to restore a measure of "stickiness" to electronic media.
+For example, manufacturers commonly embed digital rights management circuits
+into video streaming devices to artificially limit the duplication of broadcast
+material. Similarly, electronic book sellers usually disable the reader's
+ability to copy and paste from the text. Such measures mimic some of the
+constraints associated with previous media regimes.
+
+When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
+respond to Heim and company with hardened materialism, they are also rightly
+identifying actual properties of electronic text. But the two camps are neither
+speaking of the same phenomenon nor at the same site. The former group points
+to the screen as the impermanent and ephemeral state of the written word: like
+tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
+group points to the "uniquely indelible nature of magnetic storage"
+[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
+"fundamental physical support" and "material substrates of computing"
+[@drucker_performative_2013]. Both locations are real. Neither can be reduced
+to the other. Both contain distinct constraints and affordances for action. 
+
+It will take us the rest of the book to come to terms with textuality in this
+bifurcated form. For now, we need only to agree on the observation that
+something has changed in the movement between static and computational text. I
+have argued so far (a) that the Turing machine stands at the root of
+computational textuality, (b) that the material history of Turing machines
+belongs equally to the history of text processing and to the history of machine
+control, and (d) that the computational sign ultimately splits into at least
+two distinct locations: the first conspicuous but ephemeral, the second
+enduring but opaque.
 
 I propose we keep the following three appliances at hand: Goldberg's
 Controller, the IBM MT/ST, and Engelbart's Time Fob. 
