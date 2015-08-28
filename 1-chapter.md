@@ -599,7 +599,7 @@ computing begins with petrified words that endure forever, and ends with word
 as an electrical charge: animated, radiant, fluid, and iridescent
 [@mcgann_radiant_2001; @bryant_fluid_2002].
 
-## 1.4 Rise of Simulated Text
+## 1.4 Splitting the Sign (Historical Preconditions)
 
 Through the ideal of a universal Turing machine, symbolism evolves into its
 final and totalizing form. By converting machine states into symbols, the
@@ -615,9 +615,7 @@ ethereal. The symbol itself, in its rawest form, anchors the Turing machine to
 the confines of the physical universe. No matter the transcendental impulse,
 the universal Turing machine cannot be abstracted beyond its minimal physical
 requirements: "tape," "symbol," "scanned square," "in the machine"
-[@turing_computable_1937, 231]. Note that these are also minimal physical
-requirements for interpretation: the ability to internalize and to externalize
-symbolically.[^ln1-inside]
+[@turing_computable_1937, 231].[^ln1-inside]
 
 A figure of computation emerges in the dual movement between symbol and
 machine: the machine that pushes the symbol towards the ethereal, and the
@@ -629,7 +627,7 @@ words etched in paper or stone constituted a single site for textual activity,
 the digital word exists in a simulated environment physically apart from the
 underlying material substratum.
 
-The immateriality of of digital media entails real-world effects: the costs of
+The immateriality of digital media entails real-world effects: the costs of
 replication plummet, for example. As a private individual, I am able to make
 thousands if not millions of copies of a text without spending so much as a
 dime. Hyper-reproducibility of the sort was unthinkable for most of the
@@ -643,19 +641,16 @@ accessibility.[^ln1-google] Under the conditions where representation weighs
 nothing, one imagines a weightless totality of all representation, available
 immediately and everywhere.
 
-[^ln1-google]: "Google's mission is to organize the world's information
-and make it universally accessible and useful" (@google_about_2015).
-
 The weightlessness of text has other side-effects which we will explore
-throughout the book. A text that adheres lightly to its medium is also
-difficult to contain, making onerous the governance of symbolic representation.
-Traditional controls like censorship and intellectual property rights become
-difficult to sustain.
+throughout the book. For example, a text that adheres lightly to its medium is
+also difficult to contain, making onerous the governance of symbolic
+representation. Traditional controls like censorship and intellectual property
+rights become difficult to sustain.
 
 Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
-Rather, the symbol splits in two: with one one half arising visibly, a
-weightless and apparent screen simulation, and the other half, opaque, etched
-into the hefty and hidden material contingencies of the device.
+Rather, the symbol splits in two: with one half arising visibly, a weightless
+and apparent screen simulation, and the other half, opaque, etched into the
+hefty and hidden material contingencies of the device.
 
 Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
 text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
@@ -664,7 +659,8 @@ affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
 @heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
 which, when faced with the law prohibiting observant Jews from erasing God's
 name, rule that words on "screens, disks, and tapes" are not to be considered
-as writing, therefore sanctioning erasure. Other technological and
+as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
+quoted @heim_electric_1987, 192]. Other technological and
 legal fictions arise to restore a measure of "stickiness" to electronic media.
 For example, manufacturers commonly embed digital rights management circuits
 into video streaming devices to artificially limit the duplication of broadcast
@@ -674,28 +670,105 @@ constraints associated with previous media regimes.
 
 When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
 respond to Heim and company with hardened materialism, they are also rightly
-identifying actual properties of electronic text. But the two camps are neither
-speaking of the same phenomenon nor at the same site. The former group points
-to the screen as the impermanent and ephemeral state of the written word: like
+identifying actual properties of electronic text. But the two camps speak
+neither of the same phenomenon nor at the same site. The former group points to
+the screen as the impermanent and ephemeral state of the written word: like
 tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
-group points to the "uniquely indelible nature of magnetic storage"
+group points instead to the "uniquely indelible nature of magnetic storage"
 [@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
 "fundamental physical support" and "material substrates of computing"
-[@drucker_performative_2013]. Both locations are real. Neither can be reduced
-to the other. Both contain distinct constraints and affordances for action. 
+[@drucker_performative_2013]. Both locations, the screen and the disk, are
+real. Neither can be reduced to the other. Both contain distinct constraints
+and affordances for action.
 
-It will take us the rest of the book to come to terms with textuality in this
-bifurcated form. For now, we need only to agree on the observation that
-something has changed in the movement between static and computational text. I
-have argued so far (a) that the Turing machine stands at the root of
+So far, I have argued (a) that the Turing machine stands at the root of
 computational textuality, (b) that the material history of Turing machines
 belongs equally to the history of text processing and to the history of machine
 control, and (d) that the computational sign ultimately splits into at least
 two distinct locations: the first conspicuous but ephemeral, the second
-enduring but opaque.
+enduring but opaque. It will take us the rest of the book to come to terms with
+textuality in this bifurcated form. For now, we need only to agree on the
+observation that something has changed in the movement between static and
+computational text. I write "static in computational" and not, for example,
+"print and digital," because "computation" is a word that best begins to
+describe the dynamics of the change. A computational device simulates text, and
+consequently all forms of symbolic representation. Furthermore, because
+universal Turing machines can be enacted by mechanical means alone, neither
+"electric" nor "digital" captures the essence of the simulation.
+
+The long history of the word proceeds in stages, from the immutable sign to the
+universal implement, capable of reproducing all symbolic representation
+dynamically. The universal Turing machine culminates the development of the
+symbol. Through it, the symbol gains its ideal form, capable of representing
+everything that can be represented. All further symbolic engines constitute
+lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
+itself is also limited to an ideal. It can only exist as a thought experiment.
+All real-world Turing machines must contain non-representational elements,
+dispelling the illusion of immateriality.
+
+Although much of contemporary popular discourse on computation speaks the
+language of disruption, the history of computational symbolism, of the sort I
+am suggesting here, must be seen as an evolutionary trajectory.
+
+If a symbol, something used to represent something else, elicits a type of an
+illusion, the universal symbolic machine enacts the ultimate illusion. It
+creates a phantasmal image of symbolism itself. The history of computing is
+thus a history of symbolism in the broadest possible meaning of the word which
+includes lyric poetry and symbolic logic. That history begins with the human
+capacity to externalize images. It proceeds with the invention of writing: a
+formal constraint on the image, adding a level of abstraction. A picture of the
+horse that looks like a horse can now be represented in five characters, which
+can further be recombined to form other images. The constraint on the number of
+symbolic "building blocks" proceeds with the diffusion of movable type in China
+and Europe, circa 1040 (China) and 1450 (Germany) [@mcluhan_gutenberg_1962;
+@he_diffusion_1994; @needham_shorter_1994, 1-34; @febvre_coming_2010].
+
+With the invention of movable type and the typewriter, the variability of
+hand-written script was further normalized to a set of discrete and
+reproducible characters.[^ln1-normal] A key stipulation for the Turing machine
+requires that "the number of symbols which can be printed is finite"
+[@turing_computable_1937, 249]. The mechanization of print begins to "lift" the
+letter from its medium, enabling the development of distant writing
+(telegraphy) and remote communications, which, although extant in many early
+societies (as smoke and mirror signals, for example) accelerates dramatically
+at the beginning of the nineteenth century [@shaffner_telegraph_1859;
+@beauchamp_history_2001; @standage_victorian_2014]. When combined with the
+mechanization of type, telegraphy amplifies the range and the speed of
+geographical displacement enabled by the circulation of printed matter.
+
+Finally, the rise of Turing machines in the late nineteenth and early twentieth
+centuries elevates print from an intelligence-conveying medium to one of
+communication and control. "Content" intended for humans is now routinely mixed
+with "control codes" intended to alter the operation of the receiving device.
+The Turing machine concludes the bifurcation of the sign, intertwining the
+histories of communication and control.
+
+[^ln1-google]: "Google's mission is to organize the world's information
+and make it universally accessible and useful" (@google_about_2015).
+
+[^ln1-brains]: For the first view see @putnam_minds_1960 and
+@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
+@dyson_turings_2012.
+
+[^ln1-inside]: Note that these are also minimal physical requirements for
+interpretation: the ability to internalize and to externalize symbolically. My
+definitions do imply a sort of a dualism, but not between mind and
+body---simply between inside and outsdie, self and other, I and not-I.  This
+has been said before in many ways.
+
+[^ln1-brain]: We will later entertain the (real) possibility of
+non-representational communication, suggested by early experiments in direct
+brain-to-brain or brain-to-machine interfaces.
+
+[^ln1-normal]: The process of normalization continues today as contemporary
+technologies like natural language processing and optical character recognition
+struggle to bring non-regularized writing systems under the computational
+umbrella.
+
+## 1.5 Rise of Simulated Text
 
 I propose we keep the following three appliances at hand: Goldberg's
-Controller, the IBM MT/ST, and Engelbart's Time Fob. 
+Controller, the IBM MT/ST, and Engelbart's Time Fob.
 
 In the first of these, text structure and machine control lie before us for
 inspection. The second one is mute: a black slate. The last of these belongs to
@@ -708,13 +781,6 @@ gates; some that persist in the flicker of the cathode ray or the flow of the
 liquid crystal, but only as long as the gadget draws power; and yet others that
 simply dissemble to create the illusion of effortless textuality.
 
-[^ln1-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
-
-[^ln1-inside]: My definitions do imply a sort of a dualism, but not between
-mind and body---simply between inside and outsdie, self and other, I and not-I.
-This has been said before in many ways.
 
 ### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
 
@@ -1044,7 +1110,7 @@ they become an active part of a "bootstrapping community" of their own.
 
 Connect to end of 1.3
 
-## 1.5 WYSINAWYG (What You See Is Not Always What You Get)
+## 1.6 WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
