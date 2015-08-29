@@ -736,8 +736,12 @@ at the beginning of the nineteenth century [@shaffner_telegraph_1859;
 mechanization of type, telegraphy amplifies the range and the speed of
 geographical displacement enabled by the circulation of printed matter.
 
-Finally, the rise of Turing machines in the late nineteenth and early twentieth
-centuries elevates print from an intelligence-conveying medium to one of
+Finally, the rise of universal Turing machines in the late nineteenth and early
+twentieth centuries definively severs the symbol from its material contexts.
+Textuality splits into simulated surface representation and underlying control
+code
+
+elevates print from an intelligence-conveying medium to one of
 communication and control. "Content" intended for humans is now routinely mixed
 with "control codes" intended to alter the operation of the receiving device.
 The Turing machine concludes the bifurcation of the sign, intertwining the
@@ -766,6 +770,8 @@ struggle to bring non-regularized writing systems under the computational
 umbrella.
 
 ## 1.5 Rise of Simulated Text
+
+Where the history the telegraph and the moveable type
 
 I propose we keep the following three appliances at hand: Goldberg's
 Controller, the IBM MT/ST, and Engelbart's Time Fob.
