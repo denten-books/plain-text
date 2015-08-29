@@ -18,8 +18,6 @@ header-includes:
 
 ---
 
-TODO: Too many devices and machines.
-
 # Chapter 1: Laying Bare the Device
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
@@ -33,7 +31,7 @@ of code---as governance and program instruction---coincide. Code equals code.
 
 I am not at home. But I know the alarm is happening because I receive
 notifications of it on another small computational appliance, next to my
-laptop. This appliance also contains most of my library. Despite the
+laptop. This appliance contains most of my book library. Despite the
 appearances, the electronic book on my desk has more in common with the smoke
 detector than it does with several paper volumes also scattered across my desk.
 Both devices comprise printed circuit boards, capacitors, silicone chips, and
@@ -44,40 +42,44 @@ yet, I continue to read electronic books as if they were familiar, immutable,
 and passive objects: just books. I think of them as intimate artifacts, friends
 even, wholly known to me, comforting, and benign. The literary device is none
 of these things. It records my reading, sleeping, and consumption habits. It
-reconfigures itself and "my" texts dynamically. It comes with a manual and
-terms of service. In short, it *governs* reading.
+comes with a manual and terms of service. In short, it *governs* reading. It
+attempts to dynamically reconfigure itself, "my" texts, and me.
 
 In this book, we will encounter the digital literary artifact anew, discovering
-its possibilities as a device. We will imagine a hermeneutics capable of
-comprehending the emerging contingencies of literary computation. Finally, in
-*Plain Text*, I will argue for the preservation of human agency in the many
-everyday acts of human--computer interaction.
+its differences from print and its possibilities as a computational device. We
+will imagine a hermeneutics capable of comprehending the emerging contingencies
+of literary computation. Finally, in *Plain Text*, I will argue for the
+preservation of human agency in the many everyday acts of human--computer
+interaction.
 
 The purpose of this chapter is to locate the object of literary study. I mean
-"object" literally, as a material thing that can be seen and touched. This is
-not a trivial task when it comes to digital literary artifacts. Device reading
-happens on screens that refresh themselves at a rate of around 60 cycles per
-second (Hertz). Screen textuality is therefore by definition ephemeral. It
-moves even as it appears to stand still. We will have to dig deeper to find the
-text in the machine. Furthermore, the search for the literary artifact entails
-finding spaces of computational literary activity. Literary devices are those
-machines that in themselves constitute a system for textual diffusion. They
-facilitate symbolic exchange and they do so in diverse textual ecosystems. The
-ecosystem of aesthetic discourse is one such market of exchange. But I am
-interested in others as well. The film studio, the hospital, the court house,
-the university: these are all locations of distinct literary activity. They are
+"object" literally, as a material thing on my desk that can be seen and
+touched. This is not a trivial task when it comes to digital literary
+artifacts. Device reading happens on screens that refresh themselves at a rate
+of around 60 cycles per second (Hertz). Screen textuality is therefore by
+definition ephemeral. It is technically an animation. It moves even as it
+appears to stand still. We will have to dig deeper to find the text in the
+machine. Furthermore, the search for the literary artifact entails finding
+spaces of computational literary activity.
+
+Literary devices are those machines that in themselves constitute a system for
+textual diffusion. They facilitate symbolic exchange and they do so in diverse
+textual ecosystems. The ecosystem of aesthetic discourse is one such market of
+exchange. But I am interested in others as well. The film studio, the hospital,
+the court house, and the university: these are are some of the locations of
+distinct literary activity. Like literature in the aesthetic realm, these are
 systems that propagate localized notions of document, style, authorship, value,
 and canon.
 
 Both senses of locality, micro and macro, lead us to an archive in the history
-of literary computation. With the above definitions in mind, I will also
-maintain that all computing incorporates literary activity, in so far as it
-participates in the circulation of written texts. We can therefore read the
-device as we would other forms of literature. More than "can," I will argue for
-an ethics of computational reading, by which the machine internals *must* be
-made available for analysis. Three such devices, which have fundamentally
-changed the nature of the literary encounter, will emerge by the end of this
-chapter.
+of literary computation. With the above preliminaries in mind, I will also
+maintain that all computation incorporates literary activity, in so far as it
+participates in the movement of written texts across time and space. We can
+therefore read the device as we would other forms of literature. More than
+"can," I will argue for an ethics of computational reading, by which the
+machine internals *must* be made available for analysis. Three such devices,
+which have fundamentally changed the nature of the literary encounter, will
+emerge by the end of the chapter.
 
 ## 1.1 Literary Device as Gadget and Technique
 
@@ -85,7 +87,7 @@ What is a literary device? The formal concept of a "device," widely used in
 literary studies, is an artifact of an unfortunate translation from Russian.
 The word *priem* would be much better translated as "technique," in the sense
 of "method," "approach," or "procedure." The word "device" contains these
-meanings as well, but in modern usage, it usually carries a concrete
+meanings as well, but in modern usage, it usually carries a more concrete
 connotation, as "an object, machine, or piece of equipment that has been made
 for a special purpose" (Merriam-Webster). "Laying bare the device," for Viktor
 Shklovsky, the Russian formalist critic who coined the phrase, meant making
@@ -96,20 +98,22 @@ their original poetic and evocative power.
 One could write, for example, "a field of study," without much thought about
 figurative space. Shklovsky would have the reader pause to consider the
 implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
-not) a field? The poet could further make the metaphor strange. For example, as
-a light-hearted example one could write: "to scythe a verdant field of literary
-study." The verb (to scythe) and the adjective (verdant) create an unexpected
-transference of qualities not present in the original image of the field. They
-"break" the metaphor, exposing it as a conceit. To take the metaphor to its
-logical conclusion, a writer could depict a fictional character in the act of
-mowing a field of grass while discussing the relative merits of Tolstoy and
-Proust. The literary artifice makes actual the implied connections between a
-field of grass and an intellectual field. The writer now shows what was merely
-told before. The technique of defamiliarization finally renews the figure:
-discarding the hardened clichés and suggesting novel linkages between the
-concepts.
+not) a field? The poet could further make the metaphor strange. To evoke a
+light-hearted illustration one could write: "to scythe a verdant field of
+literary study." The verb (to scythe) and the adjective (verdant) create an
+unexpected transference of qualities not present in the original image of the
+intellectual field. They added properties "break" the metaphor, exposing it's
+conceit. To take the metaphor to its logical conclusion, a writer could depict
+several fictional characters in the act of mowing a field of grass while
+discussing the relative merits of structuralism: a discussion about the field
+on a field. The literary artifice makes actual the implied connections between
+a field of grass and an intellectual field. The writer now shows what was
+merely told before. The technique of defamiliarization finally renews the
+figure: discarding the hardened clichés and suggesting novel linkages between
+constituent concepts: the intellectual chaff, the leaves of mental grass, the
+combines of thought.
 
-When pursuing estrangement the author "lays bare" or "makes obvious" the
+When pursuing estrangement the author "lays bare" and "makes obvious" the
 metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
 Johnson famously argued, do more than decorate---they structure everyday human
 activity. The metaphor shapes one system of conceptual relationships in terms
@@ -533,7 +537,7 @@ the classic look and feel of the machine presented in Turing’s paper.  I wante
 to build a machine that would be immediately recognizable as a Turing machine
 to someone familiar with Turing's work" [@davey_turing_2012].
 
-## 1.3 Dual Impact on the Study of Literature and Computing
+## 1.3 Splitting the Sign
 
 I have only now began to understand the importance of Jean Baudrillard's
 thought for the twenty-first century. Reading him at the end of the century
@@ -588,19 +592,6 @@ last remembered digit." Within the Turing world, which reduces all physical
 mechanisms to symbols, the symbol carries with it a message of symbolic
 control.
 
-Conversely, to encounter the universal Turing machine as a book---an instrument
-for symbolic exchange---means to recover the physical roots of computation.
-When viewed in the context of book history, the universal Turing machine
-signifies a consummation of several broad, long-term trends that begin with the
-invention of writing itself. The God of the Hebrew Bible etched his
-commandments into stone (Exodus 34:1). Moses broke the first set of tablets,
-but the word remained, for a time, immutable. The material history of literary
-computing begins with petrified words that endure forever, and ends with word
-as an electrical charge: animated, radiant, fluid, and iridescent
-[@mcgann_radiant_2001; @bryant_fluid_2002].
-
-## 1.4 Splitting the Sign (Historical Preconditions)
-
 Through the ideal of a universal Turing machine, symbolism evolves into its
 final and totalizing form. By converting machine states into symbols, the
 Turing machine represents the ultimate negation of matter. It subsumes all
@@ -641,9 +632,9 @@ accessibility.[^ln1-google] Under the conditions where representation weighs
 nothing, one imagines a weightless totality of all representation, available
 immediately and everywhere.
 
-The weightlessness of text has other side-effects which we will explore
-throughout the book. For example, a text that adheres lightly to its medium is
-also difficult to contain, making onerous the governance of symbolic
+The percieved weightlessness of text has other side-effects which we will
+explore throughout the book. For example, a text that adheres lightly to its
+medium is also difficult to contain, making onerous the governance of symbolic
 representation. Traditional controls like censorship and intellectual property
 rights become difficult to sustain.
 
@@ -660,13 +651,13 @@ affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
 which, when faced with the law prohibiting observant Jews from erasing God's
 name, rule that words on "screens, disks, and tapes" are not to be considered
 as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
-quoted @heim_electric_1987, 192]. Other technological and
-legal fictions arise to restore a measure of "stickiness" to electronic media.
-For example, manufacturers commonly embed digital rights management circuits
-into video streaming devices to artificially limit the duplication of broadcast
-material. Similarly, electronic book sellers usually disable the reader's
-ability to copy and paste from the text. Such measures mimic some of the
-constraints associated with previous media regimes.
+quoted @heim_electric_1987, 192]. Other technological and legal fictions arise
+to restore a measure of "stickiness" to electronic media.  For example,
+manufacturers commonly embed digital rights management circuits into video
+streaming devices to artificially limit the duplication of broadcast material.
+Similarly, electronic book sellers usually disable the reader's ability to copy
+and paste from the material. Such measures mimic some of the constraints
+associated with static, paper-and-ink media regimes.
 
 When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
 respond to Heim and company with hardened materialism, they are also rightly
@@ -674,78 +665,43 @@ identifying actual properties of electronic text. But the two camps speak
 neither of the same phenomenon nor at the same site. The former group points to
 the screen as the impermanent and ephemeral state of the written word: like
 tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
-group points instead to the "uniquely indelible nature of magnetic storage"
+points instead to the "uniquely indelible nature of magnetic storage"
 [@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
 "fundamental physical support" and "material substrates of computing"
 [@drucker_performative_2013]. Both locations, the screen and the disk, are
 real. Neither can be reduced to the other. Both contain distinct constraints
 and affordances for action.
 
-So far, I have argued (a) that the Turing machine stands at the root of
-computational textuality, (b) that the material history of Turing machines
-belongs equally to the history of text processing and to the history of machine
-control, and (d) that the computational sign ultimately splits into at least
-two distinct locations: the first conspicuous but ephemeral, the second
-enduring but opaque. It will take us the rest of the book to come to terms with
-textuality in this bifurcated form. For now, we need only to agree on the
-observation that something has changed in the movement between static and
-computational text. I write "static in computational" and not, for example,
-"print and digital," because "computation" is a word that best begins to
-describe the dynamics of the change. A computational device simulates text, and
-consequently all forms of symbolic representation. Furthermore, because
-universal Turing machines can be enacted by mechanical means alone, neither
-"electric" nor "digital" captures the essence of the simulation.
+The material substrates of computational text likewise carry real-world
+affordances and consequences. They are first and foremost hidden from view.
+Drives and tapes reside inside of black or aluminum boxes. If only because they
+carry electrical current and have the potential to catch fire, they are heavily
+regulated. They contain heavy and rare metals, often hazardous if touched or
+ingested. The computational part of the sign is sealed in miniaturized
+containers that prevent access and to resist tempering. These are but some of
+the realities of material text. It is text intertwined with machine internals
+and control code and it is often hermeneutically sealed to resist human
+interpretation.
 
-The long history of the word proceeds in stages, from the immutable sign to the
-universal implement, capable of reproducing all symbolic representation
-dynamically. The universal Turing machine culminates the development of the
-symbol. Through it, the symbol gains its ideal form, capable of representing
-everything that can be represented. All further symbolic engines constitute
-lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
-itself is also limited to an ideal. It can only exist as a thought experiment.
-All real-world Turing machines must contain non-representational elements,
-dispelling the illusion of immateriality.
+The bifurcated sign resides in two distinct locations, each entailing
+drastically differing affordances for reading.
 
-Although much of contemporary popular discourse on computation speaks the
-language of disruption, the history of computational symbolism, of the sort I
-am suggesting here, must be seen as an evolutionary trajectory.
+To summarize: so far, I have argued (a) that the Turing machine stands at the
+root of computational textuality, (b) that the material history of Turing
+machines belongs equally to the history of text processing and to the history
+of machine control, and (d) that the computational sign ultimately splits into
+at least two distinct locations: the first conspicuous but ephemeral, the
+second enduring but opaque. It will take us the rest of the book to come to
+terms with textuality in this bifurcated form. For now, we begin merely with
+the peculiarity of computational text. I write "computational text" and not,
+for example, "digital" or "electronic," because "computation" is a word that
+best describes the dynamics of the movement away from print. The computational
+device simulates text, and consequently all forms of symbolic representation.
+Furthermore, because universal Turing machines can be enacted by mechanical
+means alone, neither "electric" nor "digital" captures the essence of the
+simulation. Computational texts can take shape through non-digital and
+non-electronic devices.
 
-If a symbol, something used to represent something else, elicits a type of an
-illusion, the universal symbolic machine enacts the ultimate illusion. It
-creates a phantasmal image of symbolism itself. The history of computing is
-thus a history of symbolism in the broadest possible meaning of the word which
-includes lyric poetry and symbolic logic. That history begins with the human
-capacity to externalize images. It proceeds with the invention of writing: a
-formal constraint on the image, adding a level of abstraction. A picture of the
-horse that looks like a horse can now be represented in five characters, which
-can further be recombined to form other images. The constraint on the number of
-symbolic "building blocks" proceeds with the diffusion of movable type in China
-and Europe, circa 1040 (China) and 1450 (Germany) [@mcluhan_gutenberg_1962;
-@he_diffusion_1994; @needham_shorter_1994, 1-34; @febvre_coming_2010].
-
-With the invention of movable type and the typewriter, the variability of
-hand-written script was further normalized to a set of discrete and
-reproducible characters.[^ln1-normal] A key stipulation for the Turing machine
-requires that "the number of symbols which can be printed is finite"
-[@turing_computable_1937, 249]. The mechanization of print begins to "lift" the
-letter from its medium, enabling the development of distant writing
-(telegraphy) and remote communications, which, although extant in many early
-societies (as smoke and mirror signals, for example) accelerates dramatically
-at the beginning of the nineteenth century [@shaffner_telegraph_1859;
-@beauchamp_history_2001; @standage_victorian_2014]. When combined with the
-mechanization of type, telegraphy amplifies the range and the speed of
-geographical displacement enabled by the circulation of printed matter.
-
-Finally, the rise of universal Turing machines in the late nineteenth and early
-twentieth centuries definively severs the symbol from its material contexts.
-Textuality splits into simulated surface representation and underlying control
-code
-
-elevates print from an intelligence-conveying medium to one of
-communication and control. "Content" intended for humans is now routinely mixed
-with "control codes" intended to alter the operation of the receiving device.
-The Turing machine concludes the bifurcation of the sign, intertwining the
-histories of communication and control.
 
 [^ln1-google]: "Google's mission is to organize the world's information
 and make it universally accessible and useful" (@google_about_2015).
@@ -760,35 +716,91 @@ definitions do imply a sort of a dualism, but not between mind and
 body---simply between inside and outsdie, self and other, I and not-I.  This
 has been said before in many ways.
 
-[^ln1-brain]: We will later entertain the (real) possibility of
-non-representational communication, suggested by early experiments in direct
-brain-to-brain or brain-to-machine interfaces.
-
 [^ln1-normal]: The process of normalization continues today as contemporary
 technologies like natural language processing and optical character recognition
 struggle to bring non-regularized writing systems under the computational
 umbrella.
 
-## 1.5 Rise of Simulated Text
+## 1.4 Rise of Simulated Text
 
-Where the history the telegraph and the moveable type
+To encounter the universal Turing machine as a book---an instrument
+for symbolic exchange---means to recover the physical roots of computation.
+When viewed in the context of book history, the universal Turing machine
+signifies a consummation of several broad, long-term trends that begin with the
+invention of writing itself. The God of the Hebrew Bible etched his
+commandments into stone (Exodus 34:1). Moses broke the first set of tablets,
+but the word remained, for a time, immutable. The material history of literary
+computing begins with petrified words that endure forever, and ends with word
+as an electrical charge: animated, radiant, fluid, and iridescent
+[@mcgann_radiant_2001; @bryant_fluid_2002].
 
-I propose we keep the following three appliances at hand: Goldberg's
-Controller, the IBM MT/ST, and Engelbart's Time Fob.
+The long history of the word proceeds in stages, from the immutable sign to the
+universal implement, capable of reproducing all symbolic representation
+dynamically. The universal Turing machine culminates the development of the
+symbol. Through it, the symbol gains its ideal form, capable of representing
+everything that can be represented. All further symbolic engines constitute
+lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
+machine itself is also limited to an ideal. It can only exist as a thought
+experiment. All real-world Turing machines must contain non-representational
+elements, dispelling the illusion of immateriality.
 
-In the first of these, text structure and machine control lie before us for
-inspection. The second one is mute: a black slate. The last of these belongs to
-what Peter Denning calls the "third generation" of computer systems, an
-assemblage of storage, input, and output technologies that continue to shape
-the contemporary human encounter with text. In this period, the inscription
-fractures into traces of disparate kind: some that fade from view to appear
-elsewhere in the system in a more enduring form, as an arrangement of floating
-gates; some that persist in the flicker of the cathode ray or the flow of the
-liquid crystal, but only as long as the gadget draws power; and yet others that
-simply dissemble to create the illusion of effortless textuality.
+Although much of contemporary popular discourse on computation speaks the
+language of disruption, the history of computational symbolism, of the sort I
+am suggesting here, must be seen as an evolutionary trajectory.
 
+If a symbol, something used to represent something else, elicits a type of an
+illusion, the universal symbolic machine enacts the ultimate illusion. It
+creates a phantasmal image of symbolism itself. The history of computing is
+thus a history of symbolism in the broadest possible meaning of the word, which
+includes lyric poetry and symbolic logic. That history begins with the human
+capacity to externalize images. It proceeds with the invention of writing: a
+formal constraint on the image, adding a level of non-mimetic abstraction. A
+picture of the horse that looks like a horse can now be represented in five
+characters that can further be recombined to form other images. The constraint
+on the number of symbolic "building blocks" proceeds with the diffusion of
+movable type in China and Europe, circa 1040 (China) and 1450 (Germany)
+[@mcluhan_gutenberg_1962; @he_diffusion_1994; @needham_shorter_1994, 1-34;
+@febvre_coming_2010].
 
-### A. Removable storage media and automation, 1725--1964.[^ln3-loom]
+With the invention of movable type and the typewriter, the variability of
+hand-written script was further normalized to a set of discrete and
+reproducible characters.[^ln1-normal] A key stipulation for the Turing machine
+requires that "the number of symbols which can be printed is finite"
+[@turing_computable_1937, 249]. The mechanization of print begins to "lift" the
+letter from its medium, enabling the development of distant writing
+(telegraphy) and remote communications, which, although extant in many early
+societies (as smoke and mirror signals, for example) accelerates dramatically
+at the beginning of the nineteenth century [@shaffner_telegraph_1859;
+@beauchamp_history_2001; @standage_victorian_2014]. When combined with the
+mechanization of type, telegraphy amplifies the range and the speed of
+geographical displacement enabled by the circulation of printed matter. I do
+not pause much for these developments because they are well described in the
+literature.
+
+Finally, the rise of universal Turing machines in the late nineteenth and early
+twentieth centuries definitely severs the symbol from its material contexts.
+Textuality splits into simulated surface representation and underlying control
+code. Computation changes the nature of print from an intelligence-conveying
+medium to one of communication and control. "Content" intended for humans is
+now routinely mixed with "control codes" intended to alter the operation of the
+receiving device. The Turing machine achieves the bifurcation of the sign,
+intertwining the histories of telecommunications and code control. A
+computational document or a book arises as a subset of control devices: the
+essence of distant writing is control.
+
+As we embark to explore the consequences of simulated text, I propose we keep
+the following three landmark mechanisms in view as signpost along our journey:
+Goldberg's Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of
+these, text structure and machine control lie before us for inspection. The
+second one is mute: a black slate. The last of these belongs to what Peter
+Denning calls the "third generation" of computer systems---an assemblage of
+storage, input, and output technologies that continue to shape the contemporary
+human encounter with text today. These devices tell us a story of the fracture.
+Through them, a part of the sign fades from view as an arrangement of magnetic
+charge and floating gate. Another part appears as flicker of the cathode ray
+and the flow of the liquid crystal.
+
+### A. Removable storage media and automation, 1725--1964.[^ln1-loom]
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg 1911 patent, simply titled
@@ -1114,7 +1126,9 @@ lightness of textual being comes at the price of legibility. Would new authors
 find the same ease in the complication of the mechanism? I suspect not unless
 they become an active part of a "bootstrapping community" of their own.
 
-Connect to end of 1.3
+[^ln1-brain]: We will later entertain the (real) possibility of
+non-representational communication, suggested by early experiments in direct
+brain-to-brain or brain-to-machine interfaces.
 
 ## 1.6 WYSINAWYG (What You See Is Not Always What You Get)
 
