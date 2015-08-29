@@ -18,7 +18,20 @@ header-includes:
 
 ---
 
-Fix the tenses.
+TODO:
+1. Clearer sense of the argument in the intro. Archive. What am I doing with
+the archive?
+2. Fix the tenses, particularly in the Turing piece.
+3. Do "in this book" only once. The rest of the time concentrate on the
+chapter.
+4. Get rid of cuteness. "I have only began". "Feeling the wrath."
+5. Introduce 1.1 better. Device.
+6. Where is the printer?
+7. Remove the labor thing at the end of the chapter.
+8. Consider moving the summerize up.
+9. Add a few sentences about the typewriter.
+10. Expand the part on Turing that is all about symbol and materiality.
+11. Sponsored by NASA
 
 # Chapter 1: Laying Bare the Device
 
