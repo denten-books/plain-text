@@ -125,19 +125,23 @@ combative mode of engagement between interlocutors.
 
 The Russian formalists of the early twentieth century did not quite have the
 contemporary cognitive vocabulary to connect mind and symbol, but they did
-understand estrangement as a matter of everyday practice, beyond language
+understand estrangement as a matter of everyday practice, beyond linguistic
 analysis. One of Shklovsky's central concerns was with the automatization of
 human experience, by which metaphors lose their evocative power through
 repeated use. Such metaphors become mere machines that convey meaning, and,
-when habituated, disappear from view. The human, who according to a Kantian
-view of the world, should be actively structuring his or her experience, is now
-being passively structured by the mechanism. Estrangement de-automates the
-experience [@shklovksy_sborniki_1917, @shklovsky_hod_1923,
-@boym_estrangement_1996, @holquist_minding_2005]. The interpretation of a
-metaphor recovers agency lost to the blind mechanization of thought. Through
-defamiliarization, readers discover the principles governing their action: free
-to accept some parts of the conceptual transference (the intellectual field
-*is* "verdant"!) and to reject others (but we will not "scythe" it).
+when habituated, disappear from view. According to the Kantian view, in vogue
+in Russia at the time, the human proceed through life with the assumption of
+agency, structuring one's own experiences according to the principles of free
+will. Instead, the passive metaphor structures furtively, obscuring the free
+play of relationships involved.
+
+Estrangement de-automates the experience [@shklovksy_sborniki_1917,
+@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. The
+interpretation of a metaphor recovers agency lost to the blind mechanization of
+thought. Through defamiliarization, readers discover the principles governing
+their actions: free to accept some parts of the conceptual transference (the
+intellectual field *is* "verdant"!) and to reject others (but let us not "use
+combines" to "harvest" it).
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used defamiliarization in the formalist vein often and with
@@ -174,39 +178,47 @@ surface inscription draws attention to the word's visual shape and acoustics.
 It invites readers to perform the symmetry of its assonance and consonance as
 they pronounce the word. The round vowels and the interrupting obstruents of
 "OTTO" contort the body in accordance with the sound image: reverse mimesis,
-the body as sound pipe. The moment of corporeal reenactment briefly transcends
-representational and paper-bound confines of the medium. The performance makes
-the "making of the literary technique obvious," obvious. In this, lies the
-prevalent characteristic of Nabokov's mature work, which often seeks to lift
-off of the page through sheer recursion of literary technique, where each
-successive turn of the abstraction brings the word closer to the reader.
+the body as sound pipe. The moment of corporeal reenactment transcends
+representational and paper-bound confines of the medium. The pipes appear
+briefly on this side of the page. The performance makes the "making of the
+literary technique obvious," obvious. In this, lies the prevalent
+characteristic of Nabokov's mature work, which often seeks to rise above the
+word through sheer recursion of literary technique, where each successive turn
+of abstraction brings the buried symbol closer to the reader.
 
-Yet for all the language games, the formalist conception of a literary device
-does not quite reach to affect the materiality of the written word. The
-formalists were primarily concerned with structure and sound.[^ln1-formal]
-Paper, the literal substance intervening between the two, remained for them a
-transparent medium. Concerned with the stripping of surfaces, the formalist and
-later the new critical research program stopped at the representational layer
-of the literary figure. In *Plain Text*, I would like to take the formalist
-program one step further, bringing it closer to a truly materialist poetics.
+Yet for all the transcendent language games, the formalist's use of the
+literary device rarely enacted the opposition motion, down, towards the
+materiality of the written word. As I explain at length in the later chapters,
+formalists scholarship concerned matter primarily as structure and
+sound.[^ln1-formal] Paper, the literal substance intervening between the two,
+remained for them a transparent medium. Concerned with the stripping of
+surfaces, the formalist and later new critical research agendas stopped at the
+representational layer of the literary figure. In *Plain Text*, I would like to
+take the formalist program one step further, bringing it closer to a truly
+materialist poetics.
 
 My interests lie in books and documents as literal devices. When asked in the
 context of media history, the question of literary surfaces gains an
-instrumental dimension. Physical affordances of liquid crystal displays and
-magnetic storage differ drastically from those of goat skins or parchment. Yet
-surface representation maintains the illusion of self-similarity. We are faced
-with what is called *skeuomorphic* design, by which the digital page resembles
-print. That resemblance is in itself an unexamined metaphor. The principles of
+instrumental dimension. Physical affordances of liquid crystal displays (LCDs)
+and magnetic storage differ drastically from those of goat skins or parchment.
+Yet surface representation maintains the illusion of self-similarity. We are
+faced with what is called *skeuomorphic* design, by which the digital page
+resembles print. In this way, an electronic book reader on the screen may
+simulate the bent corner of a well-thumbed book. The skeuomorphic resemblance
+is in itself a metaphor worthy of critical examination. The principles of
 skeuomorphic design are meant to extend a visual metaphor from one medium to
 another. The reader already knows how to turn pages, for example. A book device
 therefore simulates pages to ease the cognitive transition to the new medium.
-But there is nothing inherently page-like within the contraption. The metaphor
-conceals the structural rift between paper and screen technology. I am
-concerned throughout with the particularities of that concealment. A digital
-poem, a novel, a physician's script, or a legal contract all still look like
-their paper counterparts, but increasingly they behave like gadgets. These
-reading and writing appliances do not mediate silently: they monitor, adjust,
-warn, and control.
+Instead of pushing unfamiliar buttons (yet another metaphor) to turn the page,
+the reader perform the more habituated motion of swiping across the screen.
+
+Observe however that there is nothing inherently page-like within the
+electronic contraption. The metaphor conceals the structural rift between paper
+and screen technology. I am concerned throughout with the particularities of
+that concealment. A digital poem, a novel, a physician's script, or a legal
+contract all still look like their paper counterparts, but increasingly they
+behave like *gadgets*. These reading and writing *appliances* do not mediate
+silently: they monitor, adjust, warn, and control.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 structures in ways that we have only begun to comprehend. The material
@@ -242,6 +254,9 @@ matter of contention. The Turing machine is a *thought experiment* that
 imagines a machine. The PC is a machine emulating the thought experiment. See
 @putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
 more detailed discussion follows in 1.2.
+
+[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
+experience, despite the overwhelming evidence for determinism.
 
 ## 1.2 Universal Turing Machines
 
