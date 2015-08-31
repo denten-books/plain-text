@@ -52,14 +52,13 @@ of these things. It records my reading, sleeping, and consumption habits. It
 comes with a manual and terms of service. In short, it *governs* reading. It
 attempts to dynamically reconfigure itself, "my" texts, and me.
 
-In this chapter, we will encounter the literary artifact anew, discovering its
-differences from print and its possibilities as a computational device. En
-route, we will begin to construct a hermeneutics capable of comprehending the
-emerging contingencies of literary computation. I will argue here (a) that the
-Turing machine stands at the root of *simulated textuality*, (b) that the
-material history of Turing machines belongs equally to the history of text
-processing and to the history of machine control, and (d) that the computed
-sign ultimately resides in at least two distinct locations: the first
+In this chapter, the literary artifact will come into view as a computational
+device. I will insist on our ability to read such devices with the aim of
+developing a hermeneutics of computational reading. Ultimately, I will argue
+(a) that the Turing machine stands at the root of *simulated textuality*, (b)
+that the material history of Turing machines belongs equally to the history of
+text processing and to the history of machine control, and (d) that the
+computed sign splits to reside in at least two distinct locations: the first
 conspicuous but ephemeral, the second enduring but opaque.
 
 It will take us the rest of the book to come to terms with textuality in this
@@ -68,8 +67,10 @@ text. I write "simulated text" and not, for example, "digital" or "electronic,"
 because simulation is the intended byproduct of computing. Because universal
 Turing machines can be enacted by mechanical means alone, neither "electric"
 nor "digital" captures the essence of the simulation. The computational device
-simulates text. Beyond "computability" we will ultimately understand it as a
-machine for universal symbolic manipulation.
+simulates text. Beyond "computability," we will confront computers as universal
+machines for the making of metaphors: metaphor machines. This property will
+allow us to perceive computation as a type of a literary activity,
+comprehensible in the lineage of symbolism and book history.
 
 The purpose of this chapter is to locate the object of literary study. I mean
 "object" literally, as a material thing on my desk that can be seen and
@@ -78,18 +79,21 @@ reading happens on screens that refresh themselves at a rate of around 60
 cycles per second (Hertz). Screen textuality is therefore by definition
 ephemeral. It is technically an animation. It moves even as it appears to stand
 still. Yet paradoxically, simulated text is also pervasive. Precisely because
-it adheres lightly to its medium, it spreads easily. Like the fine particles of
-glitter, it is difficult to contain. I will refer to this property of digital
-text as *textual diffusion*.
+it adheres lightly to its medium, it has a tendency to multiply and to spread
+widely. Like the fine particles of glitter, it is difficult to contain. I will
+refer to this property of digital text as *textual diffusion*.
 
-Lead us to an archive in the history of literary computation. With the above
-preliminaries in mind, I will also maintain that all computation incorporates
-literary activity, in so far as it participates in the movement of written
-texts across time and space. We can therefore read the device as we would other
-forms of literature. More than "can," I will argue for an ethics of
-computational reading, by which the machine internals *must* be made available
-for analysis. Three such devices, which have fundamentally changed the nature
-of the literary encounter, will emerge by the end of the chapter.
+The diffusion of simulated text will lead us to an archive of source materials
+somewhat unusual for a work on literary theory. In search for the location of
+the symbol, we will encounter a number of symbolic mechanisms that facilitate
+the production of all texts. They will be found on the pages of mathematical
+journals and in patent portfolios. Their ubiquity necessitates our attention.
+Three such mechanisms, which have fundamentally changed the nature of the
+literary encounter, will emerge by the end of the chapter.  Together, they tell
+the story of a bargain that defines human--computer interaction: to trade
+facility for comprehension, to take on added complexity in return for the
+illusion of transcendence, to exist within that illusion without understanding
+how it is made.
 
 ## 1.1 Literary Device as Gadget and Technique
 
@@ -267,7 +271,7 @@ more detailed discussion follows in 1.2.
 [^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
 experience, despite the overwhelming evidence for determinism.
 
-## 1.2 Universal Turing Machines
+## 1.2 Metaphor Machine
 
 What sort of a thing is a literary device? It is tempting to think of personal
 computers as glorified calculators. That is often the popular image of
