@@ -20,8 +20,7 @@ header-includes:
 
 TODO:
 - Fix the tenses, particularly in the Turing piece.
-- Where is the printer?
-- Add a few sentences about the typewriter.
+- Where is the printer and the typewriter?
 - Expand the part on Turing that is all about symbol and materiality.
 - Sponsored by NASA
 
@@ -124,17 +123,19 @@ implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
 not) a field? The poet could further make the metaphor strange. To evoke a
 light-hearted illustration one could write: "to scythe a verdant field of
 literary study." The verb (to scythe) and the adjective (verdant) create an
-unexpected transference of qualities not present in the original image of the
-intellectual field. They added properties "break" the metaphor, exposing it's
-conceit. To take the metaphor to its logical conclusion, a writer could depict
-several fictional characters in the act of mowing a field of grass while
-discussing the relative merits of structuralism: a discussion about the field
-on a field. The literary artifice makes actual the implied connections between
-a field of grass and an intellectual field. The writer now shows what was
-merely told before. The technique of defamiliarization finally renews the
-figure: discarding the hardened clichés and suggesting novel linkages between
-constituent concepts: the intellectual chaff, the leaves of mental grass, the
-combines of thought.
+unexpected transference of new qualities not present in the original image
+(intellectual field). The introduced qualities "break" or "overdetermine" the
+metaphor, exposing its conceit. The reader can discover "intellectual fields"
+for what they are: habituated metaphors, neither natural nor self-apparent. The
+metaphor is made strange again through purposeful defamiliarization. To take
+the technique to its logical conclusion, a writer could depict several
+fictional characters in the act of scything a field of grass while discussing
+the relative merits of structuralism: a discussion about the field on a field.
+Such literary artifice would make actual the implied connections between a
+fields of grass and fields of ideas. The writer now shows what was merely told
+before. The technique of defamiliarization finally renews the figure:
+discarding hardened clichés while suggesting novel linkages between constituent
+concepts: intellectual chaff, leaves of mental grass, the combines of thought.
 
 When pursuing estrangement the author "lays bare" and "makes obvious" the
 metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
@@ -146,25 +147,26 @@ a conceptual system structuring the "defence of an argument"
 the way that resembles combat. A different metaphor would suggest a less
 combative mode of engagement between interlocutors.
 
-The Russian formalists of the early twentieth century did not quite have the
+Russian formalists of the early twentieth century did not quite have the
 contemporary cognitive vocabulary to connect mind and symbol, but they did
 understand estrangement as a matter of everyday practice, beyond linguistic
 analysis. One of Shklovsky's central concerns was with the automatization of
 human experience, by which metaphors lose their evocative power through
 repeated use. Such metaphors become mere machines that convey meaning, and,
 when habituated, disappear from view. According to the Kantian view, in vogue
-in Russia at the time, the human proceed through life with the assumption of
-agency, structuring one's own experiences according to the principles of free
-will. Instead, the passive metaphor structures furtively, obscuring the free
-play of relationships involved.
-
-Estrangement de-automates the experience [@shklovksy_sborniki_1917,
-@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. The
-interpretation of a metaphor recovers agency lost to the blind mechanization of
-thought. Through defamiliarization, readers discover the principles governing
-their actions: free to accept some parts of the conceptual transference (the
-intellectual field *is* "verdant"!) and to reject others (but let us not "use
-combines" to "harvest" it).
+in Russia at the time, a reasoned being should proceed through life with the
+assumption of agency, structuring one's own experiences according to the
+principles of free will. The habituated metaphor instead structures furtively,
+obscuring the relationships involved. Consequently, estrangement emerges as a
+model of human liberation. It frees thought from the tyranny of automatism
+[@shklovksy_sborniki_1917, @shklovsky_hod_1923, @boym_estrangement_1996,
+@holquist_minding_2005]. Laying bare the mechanisms of the implicit metaphor
+recovers agency lost to the blind mechanization of thought. Through
+estrangement, readers discover the principles governing their actions: free to
+accept some parts of the conceptual transference (the intellectual field *is*
+"verdant"!) and to reject others (but let us not "use combines" to "harvest"
+it). And perhaps the field should not be a field at all: it could be a meadow
+or a forest.
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used defamiliarization in the formalist vein often and with
@@ -191,57 +193,75 @@ The tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical and recursively structured conclusion.
 The pipes can be read as a metaphor for the literary device. Usually found
 beneath the street, they now sit idle and visible above the surface. Yet even
-when exposed, the device fails to captivate for long. Disused, it passes out
-sight, covered in snow. Concerned with surfaces, the narrator "probes the
-glaze" of the street. He finds a palindrome written in snow. The inscription
-"OTTO" not only resembles the pipes visually, but is in itself a
-surface-revealing inscription that makes the pipes visible again, through the
-snow. Although the metaphoric pipe cannot reach beyond the page, the mimetic
-surface inscription draws attention to the word's visual shape and acoustics.
-It invites readers to perform the symmetry of its assonance and consonance as
-they pronounce the word. The round vowels and the interrupting obstruents of
-"OTTO" contort the body in accordance with the sound image: reverse mimesis,
-the body as sound pipe. The moment of corporeal reenactment transcends
-representational and paper-bound confines of the medium. The pipes appear
-briefly on this side of the page. The performance makes the "making of the
-literary technique obvious," obvious. In this, lies the prevalent
-characteristic of Nabokov's mature work, which often seeks to rise above the
-word through sheer recursion of literary technique, where each successive turn
-of abstraction brings the buried symbol closer to the reader.
+when exposed, the device fails to captivate for long. Disused, it once again
+passes out sight, covered in snow. Concerned with surfaces, the narrator
+"probes the glaze" of the street. He finds a palindrome written in snow. The
+inscription "OTTO" not only resembles the pipes visually, but is in itself a
+surface-revealing inscription that makes the pipes visible again. Although the
+metaphoric pipe does not reach beyond the page, the mimetic surface inscription
+draws attention to the word's visual shape and acoustics. It invites readers to
+perform the symmetry of its assonance and consonance as they pronounce the
+word. The round vowels and the interrupting obstruents of "OTTO" contort the
+body in accordance with the sound image: reverse mimesis, the body as sound
+pipe. The moment of corporeal reenactment transcends representational and
+paper-bound confines of the medium. The pipes appear briefly on this side of
+the page. The performance makes the "making of the literary technique obvious,"
+obvious. In this, lies the prevalent characteristic of Nabokov's mature work,
+which often seeks to rise above the word through sheer recursion of literary
+technique, where each successive turn of abstraction brings the buried symbol
+closer to the reader.
 
-Yet for all the transcendent language games, the formalist's use of the
-literary device rarely enacted the opposition motion, down, towards the
-materiality of the written word. As I explain at length in the later chapters,
-formalists scholarship concerned matter primarily as structure and
-sound.[^ln1-formal] Paper, the literal substance intervening between the two,
-remained for them a transparent medium. Concerned with the stripping of
-surfaces, the formalist and later new critical research agendas stopped at the
-representational layer of the literary figure. I would like to take the
-formalist program one step further, bringing it closer to a truly materialist
-poetics.
+Yet for all the transcendent language games, the formalist use of the literary
+device rarely enacted the opposite motion, down, towards the materiality of the
+written word.[^ln1-formal] Paper remained for them a transparent medium.
+Concerned with the stripping of surfaces, the formalist research agenda stopped
+at the representational layer of the literary figure. Trained and inspired by
+the formalists, I would like to take estrangement one step further, bringing it
+closer to a truly materialist poetics. In this chapter, we will attempt to
+expose the hidden pipe-works of interpretation.
 
-My interests lie in books and documents as literal devices. When asked in the
-context of media history, the question of literary surfaces gains an
-instrumental dimension. Physical affordances of liquid crystal displays (LCDs)
-and magnetic storage differ drastically from those of goat skins or parchment.
-Yet surface representation maintains the illusion of self-similarity. We are
-faced with what is called *skeuomorphic* design, by which the digital page
-resembles print. In this way, an electronic book reader on the screen may
-simulate the bent corner of a well-thumbed book. The skeuomorphic resemblance
-is in itself a metaphor worthy of critical examination. The principles of
-skeuomorphic design are meant to extend a visual metaphor from one medium to
-another. The reader already knows how to turn pages, for example. A book device
-therefore simulates pages to ease the cognitive transition to the new medium.
-Instead of pushing unfamiliar buttons (yet another metaphor) to turn the page,
-the reader perform the more habituated motion of swiping across the screen.
+Let us use the opportunity of an imperfect translation to our advantage. My
+interests lie in books and documents as literal devices. When asked in the
+context of media and book history, the question of literary surfaces gains an
+instrumental dimension. We read at the surface. We etch inscriptions deep
+within the bowls of a machine.
 
-Observe however that there is nothing inherently page-like within the
-electronic contraption. The metaphor conceals the structural rift between paper
-and screen technology. I am concerned throughout with the particularities of
-that concealment. A digital poem, a novel, a physician's script, or a legal
-contract all still look like their paper counterparts, but increasingly they
-behave like *gadgets*. These reading and writing *appliances* do not mediate
-silently: they monitor, adjust, warn, and control.
+Physical affordances of liquid crystal displays (LCDs) and magnetic storage
+differ drastically from those of goat skins or parchment. Yet surface
+representation maintains the illusion of self-similarity. We are faced with
+what is called *skeuomorphic* design, by which digital pages resemble print. In
+this way, an electronic book reader simulates the bent corner of a well-thumbed
+book. The skeuomorphic resemblance itself constitutes a metaphor worthy of
+critical examination. The principles of skeuomorphic design extend a visual
+metaphor from one medium to another. The reader already knows how to turn pages
+of a book. A book device therefore simulates pages to ease the burden of
+cognitive transition from one medium to another. Instead of pushing unfamiliar
+buttons (yet another metaphor) to turn the page, readers perform the more
+habituated motion of swiping across the screen. The gliding motion
+performs a kinetic metaphor, transposing properties of paper to glass.
+
+There is nothing inherently page-like about stiff slabs of glass and silicone.
+The metaphor of "turing the page by swiping across the screen" conceals the
+structural rift between media. Why would readers engage in such a charade? Why
+not simply make use of novel interfaces afforded by new technology? The
+literature from the field of human--computer interaction suggests a formalist
+answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
+@spolsky_user_2001]. The initial effort it takes to learn to read in a new
+environment may discourage many potential readers from adopting a new
+technology. Smart designers therefore rely on habituated practice, the turning
+of pages in our case, to minimize the "friction" of adoption. Although an
+"electronic book reader" contains no pages as such, it extends the metaphor of
+pages to electronic reading. The usability metaphor comes at a cost of
+concealment. A digital poem, a novel, a physician's script, or a legal contract
+may resemble their paper counterparts. But the metaphor of "turing pages" is
+but one simulation among the devices's many possibilities. When imitating
+pages, the reading *appliance* also monitors, adjusts, warns, and controls. In
+return for usability it dissembles. It makes obvious certain metaphors while
+hiding others.
+
+Or perhaps it would be more correct to say that the device bears the burden of
+metaphors (like the turning of the pages), where some actions remain unmediated
+through the plain excercise of raw power.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 structures in ways that we have only begun to comprehend. The material
