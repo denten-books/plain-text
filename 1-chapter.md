@@ -38,62 +38,71 @@ of code---as governance and program instruction---coincide. Code equals code.
 
 I am not at home. But I know the alarm is happening because I receive
 notifications of it on another small computational appliance, next to my
-laptop. This appliance contains most of my book library. Despite the
-appearances, the electronic book on my desk has more in common with the smoke
-detector than it does with several paper volumes also scattered across my desk.
-Both devices comprise printed circuit boards, capacitors, silicone chips, and
-resistors.  Both draw electric current. Both require firmware updates. Both are
-governed by codes political and computational. Both are connected to the
-network and both communicate: with remote data centers and with each other. And
-yet, I continue to read electronic books as if they were familiar, immutable,
-and passive objects: just books. I think of them as intimate artifacts, friends
-even, wholly known to me, comforting, and benign. The literary device is none
-of these things. It records my reading, sleeping, and consumption habits. It
-comes with a manual and terms of service. In short, it *governs* reading. It
-attempts to dynamically reconfigure itself, "my" texts, and me.
+laptop. This appliance also contains most of my book library. Despite the
+appearances, the electronic book reader-library next to my computer has more in
+common with the smoke detector than it does with several paper volumes also
+scattered across my desk. Both devices comprise printed circuit boards,
+capacitors, silicone chips, and resistors. Both draw electric current. Both
+require firmware updates. Both are governed by codes political and
+computational. Both are connected to the network and both communicate: with
+remote data centers and with each other. And yet, I continue to read electronic
+books as if they were familiar, immutable, and passive objects: just books. I
+think of them as intimate artifacts---friends even---wholly known to me,
+comforting, and benign. The literary device is none of these things. It records
+my reading, sleeping, and consumption habits. It comes with a manual and terms
+of service. In short, it *governs* reading. At times, it reconfigures itself
+dynamically, affecting all content I have delegated to the device: books,
+memories, pictures, words, and thoughts.
 
-In this chapter, the literary artifact will come into view as a computational
-device. I will insist on our ability to read such devices with the aim of
-developing a hermeneutics of computational reading. Ultimately, I will argue
-(a) that the Turing machine stands at the root of *simulated textuality*, (b)
-that the material history of Turing machines belongs equally to the history of
-text processing and to the history of machine control, and (d) that the
-computed sign splits to reside in at least two distinct locations: the first
-conspicuous but ephemeral, the second enduring but opaque.
+In this chapter, the literary artifact on my desk will come into view as a
+computational device. I will insist on our ability to read such devices with
+the aim of developing a hermeneutics of computational reading. Ultimately, I
+will argue (a) that the computer, exemplified by the Turing machine, stands at
+the root of *simulated textuality*, (b) that the material history computing
+belongs equally to the history of text processing as it does to the history of
+machine control, and (c) that the simulated sign splits to reside in at least
+two distinct locations, screen and storage medium: the first conspicuous but
+ephemeral, the second enduring but opaque. Any reference to the "illusion" of
+the simulated text, as opposed to print, has roots in such ambiguity of
+location.
 
-It will take us the rest of the book to come to terms with textuality in this
-bifurcated form. For now, we begin merely with the peculiarity of simulated
-text. I write "simulated text" and not, for example, "digital" or "electronic,"
-because simulation is the intended byproduct of computing. Because universal
-Turing machines can be enacted by mechanical means alone, neither "electric"
-nor "digital" captures the essence of the simulation. The computational device
-simulates text. Beyond "computability," we will confront computers as universal
-machines for the making of metaphors: metaphor machines. This property will
-allow us to perceive computation as a type of a literary activity,
-comprehensible in the lineage of symbolism and book history.
+It will take us the rest of the book to come to terms with ambiguous textuality
+in its bifurcated form. For now, we begin merely with the peculiarity of its
+location. It exists at multiple sites at the same time. The purpose of this
+chapter is to locate the object of literary study. I mean "object" literally,
+as a material thing that can be seen and touched and found on desks. This is
+not a trivial endeavor when it comes to simulated text. Device reading happens
+on screens that refresh themselves at a rate of around 60 cycles per second
+(Hertz). Screen textuality is therefore by definition ephemeral. It is
+technically an animation. It moves even as it appears to stand still. Yet
+paradoxically, simulated text is also pervasive. Precisely because it adheres
+lightly to its medium, it has a tendency to multiply and to spread widely. Like
+the fine particles of glitter, it is difficult to contain. The simulated text
+falls apart into bits and pixels that tumble about the system.
 
-The purpose of this chapter is to locate the object of literary study. I mean
-"object" literally, as a material thing on my desk that can be seen and
-touched. This is not a trivial endeavor when it comes to simulated text. Device
-reading happens on screens that refresh themselves at a rate of around 60
-cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. It is technically an animation. It moves even as it appears to stand
-still. Yet paradoxically, simulated text is also pervasive. Precisely because
-it adheres lightly to its medium, it has a tendency to multiply and to spread
-widely. Like the fine particles of glitter, it is difficult to contain. I will
-refer to this property of digital text as *textual diffusion*.
+A word about the vocabulary: I will often refer to the glitter-like persistence
+of simulated text as "textual diffusion." And I will usually prefer "simulated
+text" over "digital" or "electronic," because simulation is the real intended
+after-effect of computing. As we will later see, Universal Turing machines can
+even be enacted by mechanical means alone. Thus neither "electronic" nor
+"digital" captures the essence of the simulation. Beyond "computability," we
+will confront computers as machines for textual diffusion. We will encounter
+them as ultimate metaphor machines: universal devices designed for the making
+of all possible metaphors.
 
 The diffusion of simulated text will lead us to an archive of source materials
-somewhat unusual for a work on literary theory. In search for the location of
-the symbol, we will encounter a number of symbolic mechanisms that facilitate
-the production of all texts. They will be found on the pages of mathematical
-journals and in patent portfolios. Their ubiquity necessitates our attention.
-Three such mechanisms, which have fundamentally changed the nature of the
-literary encounter, will emerge by the end of the chapter.  Together, they tell
-the story of a bargain that defines human--computer interaction: to trade
-facility for comprehension, to take on added complexity in return for the
-illusion of transcendence, to exist within that illusion without understanding
-how it is made.
+somewhat unusual for a work on literary theory. It will allow us to perceive
+computation as a type of a literary activity, comprehensible in the lineage of
+symbolism and book history. In search for the location of the symbol, we will
+encounter a number of symbolic mechanisms that facilitate the production of all
+texts. They will be found on the pages of mathematical journals and in patent
+portfolios. Their ubiquity necessitates our attention. Three such mechanisms,
+which have fundamentally changed the nature of the literary encounter, will
+emerge by the end of the chapter. Together, they tell the story of a bargain
+that defines human--computer interaction: to trade facility for comprehension,
+to take on added complexity in return for the illusion of material
+transcendence, and to exist within that illusion without understanding how it
+is made.
 
 ## 1.1 Literary Device as Gadget and Technique
 
