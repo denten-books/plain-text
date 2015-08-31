@@ -116,6 +116,10 @@ Galloway
 For book blurb
 ===========================
 
+Negroponte. Lessig. Unger. 
+
+Barbara Smith.
+
     CS: Kernighan. McKewan. Hershcberg. Blei.
     LIT:
     MEDIA STUDIES:

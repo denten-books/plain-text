@@ -57,7 +57,7 @@ heart of immigrant or queer poetics---reconciles without seeking wholeness or
 integration. I dedicate this book then to queers and immigrants, literal and
 figurative---spatial, literary, technological---to those being displaced
 unwillingly, to those exiled within and without, to those who understand the
-need for displacement, to those who transgress purposefully, and to those
+need for self-displacement, to those who transgress purposefully, and to those
 willing to trespass.
 
 ## An Argument for Plain Text

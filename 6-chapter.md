@@ -16,6 +16,8 @@ header-includes:
 # Chapter 5: Engineering for Dissent
 `parity, transparency`
 
+Need for digital migration. Self displacement.
+
 In an ASCII-rendered plain text file, byte count corresponds to character
 count.[^ln-char] Let these words soak in for a moment. I will spend the rest of
 the book unpacking this idea. We will have to come to terms with what "plain
