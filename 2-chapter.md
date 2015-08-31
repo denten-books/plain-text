@@ -28,6 +28,15 @@ Digital text. What makes it digital? Because we have a device, does it mean
 that we are not digital? It is structure form the outside.
 What changes?
 
+Literary devices are those machines that in themselves constitute a system for
+textual diffusion. They facilitate symbolic exchange and they do so in diverse
+textual ecosystems. The ecosystem of aesthetic discourse is one such market of
+exchange. But I am interested in others as well. The film studio, the hospital,
+the court house, and the university: these are are some of the locations of
+distinct literary activity. Like literature in the aesthetic realm, these are
+systems that propagate localized notions of document, style, authorship, value,
+and canon.
+
 ## 3.1 Digital Wake
 
 What does the digital look like? It looks blue for one---not just any kind of

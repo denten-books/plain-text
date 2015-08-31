@@ -19,19 +19,11 @@ header-includes:
 ---
 
 TODO:
-1. Clearer sense of the argument in the intro. Archive. What am I doing with
-the archive?
-2. Fix the tenses, particularly in the Turing piece.
-3. Do "in this book" only once. The rest of the time concentrate on the
-chapter.
-4. Get rid of cuteness. "I have only began". "Feeling the wrath."
-5. Introduce 1.1 better. Device.
-6. Where is the printer?
-7. Remove the labor thing at the end of the chapter.
-8. Consider moving the summerize up.
-9. Add a few sentences about the typewriter.
-10. Expand the part on Turing that is all about symbol and materiality.
-11. Sponsored by NASA
+- Fix the tenses, particularly in the Turing piece.
+- Where is the printer?
+- Add a few sentences about the typewriter.
+- Expand the part on Turing that is all about symbol and materiality.
+- Sponsored by NASA
 
 # Chapter 1: Laying Bare the Device
 
@@ -60,41 +52,44 @@ of these things. It records my reading, sleeping, and consumption habits. It
 comes with a manual and terms of service. In short, it *governs* reading. It
 attempts to dynamically reconfigure itself, "my" texts, and me.
 
-In this book, we will encounter the digital literary artifact anew, discovering
-its differences from print and its possibilities as a computational device. We
-will imagine a hermeneutics capable of comprehending the emerging contingencies
-of literary computation. Finally, in *Plain Text*, I will argue for the
-preservation of human agency in the many everyday acts of human--computer
-interaction.
+In this chapter, we will encounter the literary artifact anew, discovering its
+differences from print and its possibilities as a computational device. En
+route, we will begin to construct a hermeneutics capable of comprehending the
+emerging contingencies of literary computation. I will argue here (a) that the
+Turing machine stands at the root of *simulated textuality*, (b) that the
+material history of Turing machines belongs equally to the history of text
+processing and to the history of machine control, and (d) that the computed
+sign ultimately resides in at least two distinct locations: the first
+conspicuous but ephemeral, the second enduring but opaque.
+
+It will take us the rest of the book to come to terms with textuality in this
+bifurcated form. For now, we begin merely with the peculiarity of simulated
+text. I write "simulated text" and not, for example, "digital" or "electronic,"
+because simulation is the intended byproduct of computing. Because universal
+Turing machines can be enacted by mechanical means alone, neither "electric"
+nor "digital" captures the essence of the simulation. The computational device
+simulates text. Beyond "computability" we will ultimately understand it as a
+machine for universal symbolic manipulation.
 
 The purpose of this chapter is to locate the object of literary study. I mean
 "object" literally, as a material thing on my desk that can be seen and
-touched. This is not a trivial task when it comes to digital literary
-artifacts. Device reading happens on screens that refresh themselves at a rate
-of around 60 cycles per second (Hertz). Screen textuality is therefore by
-definition ephemeral. It is technically an animation. It moves even as it
-appears to stand still. We will have to dig deeper to find the text in the
-machine. Furthermore, the search for the literary artifact entails finding
-spaces of computational literary activity.
+touched. This is not a trivial endeavor when it comes to simulated text. Device
+reading happens on screens that refresh themselves at a rate of around 60
+cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. It is technically an animation. It moves even as it appears to stand
+still. Yet paradoxically, simulated text is also pervasive. Precisely because
+it adheres lightly to its medium, it spreads easily. Like the fine particles of
+glitter, it is difficult to contain. I will refer to this property of digital
+text as *textual diffusion*.
 
-Literary devices are those machines that in themselves constitute a system for
-textual diffusion. They facilitate symbolic exchange and they do so in diverse
-textual ecosystems. The ecosystem of aesthetic discourse is one such market of
-exchange. But I am interested in others as well. The film studio, the hospital,
-the court house, and the university: these are are some of the locations of
-distinct literary activity. Like literature in the aesthetic realm, these are
-systems that propagate localized notions of document, style, authorship, value,
-and canon.
-
-Both senses of locality, micro and macro, lead us to an archive in the history
-of literary computation. With the above preliminaries in mind, I will also
-maintain that all computation incorporates literary activity, in so far as it
-participates in the movement of written texts across time and space. We can
-therefore read the device as we would other forms of literature. More than
-"can," I will argue for an ethics of computational reading, by which the
-machine internals *must* be made available for analysis. Three such devices,
-which have fundamentally changed the nature of the literary encounter, will
-emerge by the end of the chapter.
+Lead us to an archive in the history of literary computation. With the above
+preliminaries in mind, I will also maintain that all computation incorporates
+literary activity, in so far as it participates in the movement of written
+texts across time and space. We can therefore read the device as we would other
+forms of literature. More than "can," I will argue for an ethics of
+computational reading, by which the machine internals *must* be made available
+for analysis. Three such devices, which have fundamentally changed the nature
+of the literary encounter, will emerge by the end of the chapter.
 
 ## 1.1 Literary Device as Gadget and Technique
 
@@ -208,9 +203,9 @@ formalists scholarship concerned matter primarily as structure and
 sound.[^ln1-formal] Paper, the literal substance intervening between the two,
 remained for them a transparent medium. Concerned with the stripping of
 surfaces, the formalist and later new critical research agendas stopped at the
-representational layer of the literary figure. In *Plain Text*, I would like to
-take the formalist program one step further, bringing it closer to a truly
-materialist poetics.
+representational layer of the literary figure. I would like to take the
+formalist program one step further, bringing it closer to a truly materialist
+poetics.
 
 My interests lie in books and documents as literal devices. When asked in the
 context of media history, the question of literary surfaces gains an
@@ -574,15 +569,14 @@ appropriate internalization of the symbol, for both human and machine.
 
 ## 1.3 Splitting the Sign
 
-I have only now began to understand the importance of Jean Baudrillard's
-thought for the twenty-first century. Reading him at the end of the century
-prior, I understood his writing on simulacra in relationship to ersatz
-entertainment: virtual reality, reality television, and amusement parks.
-Reading him today, one perceives the pervasive nature of simulation. The
-machine mediates experience ubiquitously, and the Turing machine is a universal
-machine simulator. It interjects in simple everyday acts from drinking coffee
-in the morning (through brewing and payment systems) to going to bed (as alarm
-clock and night activity monitor). Baudrillard writes:
+Reading Jean Baudrillard at the end of the century prior, I understood his
+writing on simulacra in relationship to ersatz entertainment: virtual reality,
+reality television, and amusement parks.  Reading him today, one perceives the
+pervasive nature of simulation. The machine mediates experience ubiquitously,
+and the Turing machine is a universal machine simulator. It interjects in
+simple everyday acts from drinking coffee in the morning (through brewing and
+payment systems) to going to bed (as alarm clock and night activity monitor).
+Baudrillard writes:
 
 > At the limit of an always increasing elimination of references and finalities,
 an ever-increasing loss of resemblances and designations, we find the digital
@@ -599,7 +593,8 @@ characters, words, sentences, paragraphs, sections, chapters, and manuscripts,
 to more abstract categories like poems, novels, plays, and short stories, to
 authors, styles, narratives, and discourses, in short to all textual constructs
 that have their dimensions in physical space (and that is all of them), the
-entire burden of literary theory---must be encountered again as a *simulation*.
+entire burden of literary theory---must be reconstructed again as a
+*simulation*.
 
 Furthermore, it means also gaining awareness of other simulations that are
 enacted simultaneously through the device. Where a book is a just a book, the
@@ -721,22 +716,6 @@ interpretation.
 The bifurcated sign resides in two distinct locations, each entailing
 drastically differing affordances for reading.
 
-To summarize: so far, I have argued (a) that the Turing machine stands at the
-root of computational textuality, (b) that the material history of Turing
-machines belongs equally to the history of text processing and to the history
-of machine control, and (d) that the computational sign ultimately splits into
-at least two distinct locations: the first conspicuous but ephemeral, the
-second enduring but opaque. It will take us the rest of the book to come to
-terms with textuality in this bifurcated form. For now, we begin merely with
-the peculiarity of computational text. I write "computational text" and not,
-for example, "digital" or "electronic," because "computation" is a word that
-best describes the dynamics of the movement away from print. The computational
-device simulates text, and consequently all forms of symbolic representation.
-Furthermore, because universal Turing machines can be enacted by mechanical
-means alone, neither "electric" nor "digital" captures the essence of the
-simulation. Computational texts can take shape through non-digital and
-non-electronic devices.
-
 
 [^ln1-google]: "Google's mission is to organize the world's information
 and make it universally accessible and useful" (@google_about_2015).
@@ -758,15 +737,15 @@ umbrella.
 
 ## 1.4 Rise of Simulated Text
 
-To encounter the universal Turing machine as a book---an instrument
-for symbolic exchange---means to recover the physical roots of computation.
-When viewed in the context of book history, the universal Turing machine
-signifies a consummation of several broad, long-term trends that begin with the
-invention of writing itself. The God of the Hebrew Bible etched his
-commandments into stone (Exodus 34:1). Moses broke the first set of tablets,
-but the word remained, for a time, immutable. The material history of literary
-computing begins with petrified words that endure forever, and ends with word
-as an electrical charge: animated, radiant, fluid, and iridescent
+To see the universal Turing machine as a book---an instrument for symbolic
+exchange---means to recover the physical roots of computation.  When viewed in
+the context of book history, the universal Turing machine signifies a
+consummation of several broad, long-term trends that begin with the invention
+of writing itself. The God of the Hebrew Bible etched his commandments into
+stone (Exodus 34:1). Moses broke the first set of tablets, but the word
+remained, for a time, immutable. The material history of literary computing
+begins with petrified words that endure forever, and ends with word as an
+electrical charge: animated, radiant, fluid, and iridescent
 [@mcgann_radiant_2001; @bryant_fluid_2002].
 
 The long history of the word proceeds in stages, from the immutable sign to the
@@ -1172,13 +1151,12 @@ magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
 the floating gate transistor,[^ln1-gate] where my text now lives, can be called
 the enduring ephemeral, I will call my liquid crystal display, where the text
-shows itself, fading persistence. This is not to believe (fearing the wrath of
-textual thinkers like Jerome McGann, Johanna Drucker, and Katherine Hayles)
-that text on the screen lacks materiality. Not at all. Only that it seems to
-drift from surface to surface, beyond the field of vision, in ways that erode
-trust in the general permanence of the literary system. If we are destined to
-dwell on surfaces, I do not know to which surface to attach my attention: the
-screen or the floating gate.
+shows itself, fading persistence. This is not to believe that text on the
+screen lacks materiality. Not at all. Only that it seems to drift from surface
+to surface, beyond the field of vision, in ways that erode trust in the general
+permanence of the literary system. If we are destined to dwell on surfaces, I
+do not know to which surface to attach my attention: the screen or the floating
+gate.
 
 I have before me at least two inscriptions: one as circuit state on my hard
 drive, and another as crystal phase on the screen. They denote the same idea,
@@ -1211,77 +1189,6 @@ hides from the reader's view. Literature conceals. Even on the level of
 stylistics, writing well is meant to evoke a sense of ease where it is usually
 the product of painstaking labor. Let us hold on to that intuition for the
 duration of this chapter: writing conceals labor.
-
-Literature hides the labor of readers and writers. In another sense, there is
-also the concealment of raw, physical energy that "goes into the word." The
-work it takes to get a rock up a mountain gives it potential energy to roll
-back down. By definition, potential energy relates to the possibility of "work
-done." The rock can pull something up the hill as it is falling down, for
-example. What of the energy that went into the writing of these sentences? I
-spent a few *joules* compressing the springs under my keyboard. Many more went
-into my laptop as electric current. Why? To overcome matter's passive impedance
-of advancing change. To preserve and to communicate this message *amperes*, the
-unit of electrical flow, struggled with *ohms*, the unit of electrical
-resistance.
-
-There is energy too in the librarian's effort to archive a book, in the
-churning of a search engine to make it accessible to a reading public, and in
-the work of a truck driver who ferries information by road. The sum of these
-energies, which seem significant now in their accumulation, went into the
-writing of these words. Much of it dissipated as heat and light. And some of
-it---just a small part---left an imprint somewhere. It left a trace of ink on a
-page, magnetized a piece of tape, or shifted the configuration of the floating
-gate buried within the solid state drive. Finally, the potential energy
-remaining within the word began a chain of electrical reactions in the reader's
-brain. The mental effort or reading and writing amounts to "knowledge
-work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
-circuitry of at least two neurological systems. Reading leaves the brain in a
-different state than before. Writing, in this light, involves the transmission
-of neural activity between hosts. When considered as a physical process,
-literature is a type of electroencephalography (EEG), or electric head writing.
-
-![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
-
-Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
-here) follows from head to head. In *Plain Text*, I will complicate that
-picture by tracing the passage of thought further from *inscription* to a
-*device*. At each stage of the passage, we will observe the process of encoding
-and decoding, by which one type of substance---a thought---is converted into
-another type: a word or the oscillation of an electrical current. I will
-present here a type of a materialist reading practice, which pays attention to
-the physical properties of the communication act. I will give that practice a
-name---microanalysis---and a purpose: to uncover the energy gained or lost in
-the transformation from code to code and from medium to medium.
-
-I am concerned with energy because too often our foundational models of reading
-and interpretation take the text as a fixed given. Even in our most
-destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
-materiality of the text is assumed to persevere. "We will take off here from
-the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
-can count the lines" at the "precisely calculated center of the dialogue"
-[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
-beginning, middle, and end. Derrida asks the reader "to return to the text,"
-even when the text "remains forever imperceptible"
-[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
-this usual way of a literary scholar, he uses the word "text" in two distinct
-ways: one, as an abstract mental construct---the one that is "forever
-imperceptible," and the physical one, which has a definite and stable
-topography---the one to which we return with confidence.
-
-In the vision of post-structural poetics, the text in the abstract resembles
-the quicksand of unstable signifies. In other words, one can define a word only
-in relation to other words. In this way, Derrida describes texts as
-"dissimulation of the woven texture," "a web that envelops a web," and "an
-organism, indefinitely regenerating its own tissue behind the cutting trace,
-the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
-Text*, I want to further challenge the stability of the text as a physical
-artifact. The literary device reconfigures the text dynamically in the process
-of reading. Because the text is no longer fixed into a stable medium, we must
-do away with page numbers, for example. Pagination changes according to the
-size of the device. More intrusively, the reader cannot rely on finding the
-same text upon return. The writer, the book seller, or the censor have the
-technological capacity to alter the text in real time, even as the book rests
-in hand or on a shelf.
 
 Much is at stake in the material affordances of the literary artifact. The
 political struggle for meaning-making, that is, the very opportunity to engage

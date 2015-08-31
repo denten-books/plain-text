@@ -34,6 +34,79 @@ the work of "teasing apart" the layers obscuring the underlying structure of
 the textual device, using historical sources, direct observation, and tools
 normally reserved for reverse-engineering of data objects.[^ln5-mechanisms]
 
+## Labor, Energy
+
+Literature hides the labor of readers and writers. In another sense, there is
+also the concealment of raw, physical energy that "goes into the word." The
+work it takes to get a rock up a mountain gives it potential energy to roll
+back down. By definition, potential energy relates to the possibility of "work
+done." The rock can pull something up the hill as it is falling down, for
+example. What of the energy that went into the writing of these sentences? I
+spent a few *joules* compressing the springs under my keyboard. Many more went
+into my laptop as electric current. Why? To overcome matter's passive impedance
+of advancing change. To preserve and to communicate this message *amperes*, the
+unit of electrical flow, struggled with *ohms*, the unit of electrical
+resistance.
+
+There is energy too in the librarian's effort to archive a book, in the
+churning of a search engine to make it accessible to a reading public, and in
+the work of a truck driver who ferries information by road. The sum of these
+energies, which seem significant now in their accumulation, went into the
+writing of these words. Much of it dissipated as heat and light. And some of
+it---just a small part---left an imprint somewhere. It left a trace of ink on a
+page, magnetized a piece of tape, or shifted the configuration of the floating
+gate buried within the solid state drive. Finally, the potential energy
+remaining within the word began a chain of electrical reactions in the reader's
+brain. The mental effort or reading and writing amounts to "knowledge
+work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
+circuitry of at least two neurological systems. Reading leaves the brain in a
+different state than before. Writing, in this light, involves the transmission
+of neural activity between hosts. When considered as a physical process,
+literature is a type of electroencephalography (EEG), or electric head writing.
+
+![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
+
+Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
+here) follows from head to head. In *Plain Text*, I will complicate that
+picture by tracing the passage of thought further from *inscription* to a
+*device*. At each stage of the passage, we will observe the process of encoding
+and decoding, by which one type of substance---a thought---is converted into
+another type: a word or the oscillation of an electrical current. I will
+present here a type of a materialist reading practice, which pays attention to
+the physical properties of the communication act. I will give that practice a
+name---microanalysis---and a purpose: to uncover the energy gained or lost in
+the transformation from code to code and from medium to medium.
+
+I am concerned with energy because too often our foundational models of reading
+and interpretation take the text as a fixed given. Even in our most
+destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
+materiality of the text is assumed to persevere. "We will take off here from
+the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
+can count the lines" at the "precisely calculated center of the dialogue"
+[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
+beginning, middle, and end. Derrida asks the reader "to return to the text,"
+even when the text "remains forever imperceptible"
+[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
+this usual way of a literary scholar, he uses the word "text" in two distinct
+ways: one, as an abstract mental construct---the one that is "forever
+imperceptible," and the physical one, which has a definite and stable
+topography---the one to which we return with confidence.
+
+In the vision of post-structural poetics, the text in the abstract resembles
+the quicksand of unstable signifies. In other words, one can define a word only
+in relation to other words. In this way, Derrida describes texts as
+"dissimulation of the woven texture," "a web that envelops a web," and "an
+organism, indefinitely regenerating its own tissue behind the cutting trace,
+the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
+Text*, I want to further challenge the stability of the text as a physical
+artifact. The literary device reconfigures the text dynamically in the process
+of reading. Because the text is no longer fixed into a stable medium, we must
+do away with page numbers, for example. Pagination changes according to the
+size of the device. More intrusively, the reader cannot rely on finding the
+same text upon return. The writer, the book seller, or the censor have the
+technological capacity to alter the text in real time, even as the book rests
+in hand or on a shelf.
+
 ## 5.1 Spooky Action at a Distance
 
 Book as cultural conserve (@moreno_who_1953, 238). "Many of the robots have also the
