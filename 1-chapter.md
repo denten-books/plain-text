@@ -271,37 +271,36 @@ and controls. In return for usability it simulates and dissembles. The
 exposition of the metaphor reminds us of the compromise between two conceptual
 systems. It reveals real material affordances behind the symbol.
 
-The simulation conceals structuring principles large and small. Some of these
-may remain inconsequential, like the limit on how many keys can be pressed at
-once without overwhelming the circuitry of the keyboard. Others are deeply si
-
-like the data Like the smoke alarm, literary gadgets
+The simulation conceals structuring principles large and small. Some of the
+concealed details may remain inconsequential, like the limit on how many keys
+can be pressed at once without overwhelming the circuitry of the keyboard.
+Other concealed details are of paramaount importance, like digital rights
+management chips and censorship filters. Like the smoke alarm, literary gadgets
 are governed and internalize government structures in ways that we have only
 begun to comprehend. The material affordances of device--bound textuality
 influence all higher-level functions of interpretation.[^ln1-rmedium] Yet,
 available theories of interpretation build on properties and assumptions
 attached to print media. For example, in Hans-Georg Gadamer's seminal
-conception of art, the free play of the artistic mind is transformed into
-material structure (*Gebilde*) that is both "repeatable" and "permanent"
+conception of art, the free play of the artistic mind transforms into material
+structure (*Gebilde*) that is both "repeatable" and "permanent"
 [@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
 writes about the "range of social and political changes" related to the
 invention of writing. For Ricoeur, human discourse is "fixed" and thereby
 "preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
-The literary device offers no such permanence. It contains inscription of a
-qualitatively different type. The computational reading implement, as we will
-observe in detail, merely simulates a book. The engineering of literary
-artifacts conceals a number of design choices, obscuring the flows of code and
-codex under the familiar guise of surface representation. The digital book is
-not just a book. It is a universal Turing machine, which, besides incorporating
-the metaphors of reading and writing, holds the potential to enact all possible
+The literary device offers no such permanence, neither in sumulation nor in
+diffusion. The very meanings of "fixed," "permanent," and "repeatable" change
+with the medium. The engineering of literary artifacts conceals a number of
+design choices, obscuring the flows of code and codex under the familiar guise
+of surface representation. The digital book does not just simulate a book.
+Being a type of a Turing machine, it holds the potential to embody all possible
 metaphors.[^ln1-notquite] The task of the literary scholar reading on the level
 of the device becomes to make the figure available for interpretation. It is to
-apprehend its revealed mechanics. What happens in the metaphorical transference
-between the book and the apparatus emulating the book? Estrangement, the
-exegesis of the metaphor, reveals mechanisms of governance shaping mental
-experience. Device hermeneutics allow one to consent, or, conversely, to resist
-elements of imposed structure.
+apprehend its revealed mechanics.  What happens in the metaphorical
+transference between the book and the apparatus simulating the book?
+Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
+shaping mental experience. Device hermeneutics allow one to consent, or,
+conversely, to resist elements of imposed structure.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
