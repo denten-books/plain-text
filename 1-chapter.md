@@ -61,9 +61,8 @@ the root of *simulated textuality*, (b) that the material history computing
 belongs equally to the history of text processing as it does to the history of
 machine control, and (c) that the simulated sign splits to reside in at least
 two distinct locations, screen and storage medium: the first conspicuous but
-ephemeral, the second enduring but opaque. Any reference to the "illusion" of
-the simulated text, as opposed to print, has roots in such ambiguity of
-location.
+ephemeral, the second enduring but opaque. The "illusion of the simulated text"
+identifies an incongruity between the two sites.
 
 It will take us the rest of the book to come to terms with ambiguous textuality
 in its bifurcated form. For now, we begin merely with the peculiarity of its
@@ -77,31 +76,31 @@ technically an animation. It moves even as it appears to stand still. Yet
 paradoxically, simulated text is also pervasive. Precisely because it adheres
 lightly to its medium, it has a tendency to multiply and to spread widely. Like
 the fine particles of glitter, it is difficult to contain. The simulated text
-falls apart into bits and pixels that tumble about the system.
+falls apart into bits and pixels that replicate and tumble about the system.
 
-A word about the vocabulary: I will often refer to the glitter-like persistence
-of simulated text as "textual diffusion." And I will usually prefer "simulated
-text" over "digital" or "electronic," because simulation is the real intended
-after-effect of computing. As we will later see, Universal Turing machines can
-even be enacted by mechanical means alone. Thus neither "electronic" nor
-"digital" captures the essence of the simulation. Beyond "computability," we
-will confront computers as machines for textual diffusion. We will encounter
-them as ultimate metaphor machines: universal devices designed for the making
-of all possible metaphors.
+A word about the vocabulary: I will refer to the glitter-like persistence of
+simulated text as *textual diffusion.* And I will usually prefer *simulated
+text* over "digital" or "electronic," because simulation is the real intended
+after-effect of computing. As we will later see, universal Turing machines can
+be enacted by mechanical means alone. Thus neither "electronic" nor "digital"
+captures the essence of the simulation. Beyond "computability," we will
+confront computers as machines for textual simulation and diffusion. We will
+encounter them as *metaphor machines*: universal devices designed for the
+making of all possible metaphors.
 
 The diffusion of simulated text will lead us to an archive of source materials
 somewhat unusual for a work on literary theory. It will allow us to perceive
 computation as a type of a literary activity, comprehensible in the lineage of
 symbolism and book history. In search for the location of the symbol, we will
-encounter a number of symbolic mechanisms that facilitate the production of all
-texts. They will be found on the pages of mathematical journals and in patent
-portfolios. Their ubiquity necessitates our attention. Three such mechanisms,
-which have fundamentally changed the nature of the literary encounter, will
-emerge by the end of the chapter. Together, they tell the story of a bargain
-that defines human--computer interaction: to trade facility for comprehension,
-to take on added complexity in return for the illusion of material
-transcendence, and to exist within that illusion without understanding how it
-is made.
+encounter a number of symbol-manipulating devices that facilitate the
+production of text. These will be found on the pages of mathematical journals
+and in patent portfolios. Their ubiquity necessitates our attention. Three such
+devices, which have fundamentally changed the nature of the literary encounter,
+will emerge by the end of the chapter. Together, they tell the story of a
+bargain that defines human--computer interaction: to trade facility for
+comprehension, to take on added complexity in return for the illusion of
+material transcendence, and to exist within that illusion without understanding
+how it is made.
 
 ## 1.1 Literary Device as Gadget and Technique
 
@@ -211,34 +210,33 @@ which often seeks to rise above the word through sheer recursion of literary
 technique, where each successive turn of abstraction brings the buried symbol
 closer to the reader.
 
-Yet for all the transcendent language games, the formalist use of the literary
-device rarely enacted the opposite motion, down, towards the materiality of the
-written word.[^ln1-formal] Paper remained for them a transparent medium.
-Concerned with the stripping of surfaces, the formalist research agenda stopped
-at the representational layer of the literary figure. Trained and inspired by
-the formalists, I would like to take estrangement one step further, bringing it
-closer to a truly materialist poetics. In this chapter, we will attempt to
-expose the hidden pipe-works of interpretation.
-
-Let us use the opportunity of an imperfect translation to our advantage. My
-interests lie in books and documents as literal devices. When asked in the
+Inspired by the formalists, I would like to extend the technique of
+estrangement to books and documents as literal devices. When asked in the
 context of media and book history, the question of literary surfaces gains an
-instrumental dimension. We read at the surface. We etch inscriptions deep
-within the bowls of a machine.
+instrumental dimension. Habit hides the peculiarity of our everyday interfaces
+with the word. We read at the surface. We etch inscriptions deep within the
+bowels of a machine. When enacted on the level of the physical device,
+estrangement parallels the practice of reverse engineering. Both aim to reveal
+internals that structure experience, made opaque through artifice and
+habituation. I imagine here a kind of critical practice that reverses the
+principles of good interface design. What design aims to make easy and
+ordinary, defamiliarization makes difficult and strange. Materialist poetics
+expose the price paid for literary facility.
 
-Physical affordances of liquid crystal displays (LCDs) and magnetic storage
-differ drastically from those of goat skins or parchment. Yet surface
-representation maintains the illusion of self-similarity. We are faced with
-what is called *skeuomorphic* design, by which digital pages resemble print. In
-this way, an electronic book reader simulates the bent corner of a well-thumbed
-book. The skeuomorphic resemblance itself constitutes a metaphor worthy of
-critical examination. The principles of skeuomorphic design extend a visual
-metaphor from one medium to another. The reader already knows how to turn pages
-of a book. A book device therefore simulates pages to ease the burden of
-cognitive transition from one medium to another. Instead of pushing unfamiliar
-buttons (yet another metaphor) to turn the page, readers perform the more
-habituated motion of swiping across the screen. The gliding motion
-performs a kinetic metaphor, transposing properties of paper to glass.
+For example, we know that physical affordances of liquid crystal displays
+(LCDs) and magnetic storage differ drastically from those of goat skins or
+parchment. Yet digital surface representation maintains the illusion of
+self-similarity. We are faced with what is called *skeuomorphic* design, by
+which screen reading resembles print. In this way, an electronic book reader
+simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
+itself constitutes a metaphor worthy of critical examination. The principles of
+skeuomorphic design extend a visual metaphor from one medium to another. The
+reader already knows how to turn pages of a book. A book device therefore
+simulates pages to ease the burden of cognitive transition from one medium to
+another. Instead of pushing unfamiliar buttons (yet another metaphor) to turn
+the page, readers perform the more habituated motion of swiping across the
+screen. The gliding motion enacts a kinetic metaphor, transposing properties of
+paper to glass.
 
 There is nothing inherently page-like about stiff slabs of glass and silicone.
 The metaphor of "turing the page by swiping across the screen" conceals the
@@ -254,14 +252,22 @@ of pages in our case, to minimize the "friction" of adoption. Although an
 pages to electronic reading. The usability metaphor comes at a cost of
 concealment. A digital poem, a novel, a physician's script, or a legal contract
 may resemble their paper counterparts. But the metaphor of "turing pages" is
-but one simulation among the devices's many possibilities. When imitating
-pages, the reading *appliance* also monitors, adjusts, warns, and controls. In
-return for usability it dissembles. It makes obvious certain metaphors while
-hiding others.
+but one simulation among the device's many possibilities. When imitating pages,
+the reading *appliance* also monitors, adjusts, warns, and controls. In return
+for usability it dissembles. The metaphor is a compromise between two
+conceptual systems. It obscures real material affordances behind a symbol.
 
-Or perhaps it would be more correct to say that the device bears the burden of
-metaphors (like the turning of the pages), where some actions remain unmediated
-through the plain excercise of raw power.
+Readers bear the burden of conceptual transference (like the turning of pages).
+In pretending to turn "pages," a reader loses sight of the structures producing
+the simulation. Some would object that such structures are irrelevant or not
+interesting: one does not need to be a mechanic to drive a car, as the saying
+goes. Yet, particularly in the case of literary devices, the concealed
+mechanisms concern the structuring of privileged cognitive, as opposed to
+other, let us say more pedestrian, facilities. If an automobile extends the
+foot, the book extends the brain. It structures mental activity. The simulated
+text ultimately enacts a number of cognitive metaphors. If we are to value
+anything like interpretation or critical reason, we must certainly value them
+at the physical sites of mental extension.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 structures in ways that we have only begun to comprehend. The material
@@ -269,12 +275,12 @@ affordances of device--bound textuality influence all higher-level functions of
 interpretation.[^ln1-rmedium] Yet, available theories of interpretation build
 on properties and assumptions attached to print media. For example, in
 Hans-Georg Gadamer's seminal conception of art, the free play of the artistic
-mind is transformed into structure (*Gebilde*) that is both "repeatable" and
-"permanent" [@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*,
-Paul Ricoeur writes about the "range of social and political changes" related
-to the invention of writing. For Ricoeur, human discourse is "fixed" and
-thereby "preserved from destruction" in writing [@ricur_interpretation_1976,
-26-8].
+mind is transformed into material structure (*Gebilde*) that is both
+"repeatable" and "permanent" [@gadamer_truth_1975, 110]. Similarly, in
+*Interpretation Theory*, Paul Ricoeur writes about the "range of social and
+political changes" related to the invention of writing. For Ricoeur, human
+discourse is "fixed" and thereby "preserved from destruction" in writing
+[@ricur_interpretation_1976, 26-8].
 
 The literary device offers no such permanence. It contains inscription of a
 qualitatively different type. The computational reading implement, as we will
@@ -285,11 +291,11 @@ not just a book. It is a universal Turing machine, which, besides incorporating
 the metaphors of reading and writing, holds the potential to enact all possible
 metaphors.[^ln1-notquite] The task of the literary scholar reading on the level
 of the device becomes to make the figure available for interpretation. It is to
-apprehend its revealed mechanics. And, it is to ask: What happens in the
-metaphorical transference between the book and the apparatus emulating the
-book? Literary criticism in the sense I describe here, allows one to perceive
-structures of governance: to consent, or, conversely, to resist elements of
-imposed structure.
+apprehend its revealed mechanics. What happens in the metaphorical transference
+between the book and the apparatus emulating the book? Estrangement, the
+exegesis of the metaphor, reveals mechanisms of governance that structure
+mental experience. Device hermeneutics allow one to consent, or, conversely, to
+resist elements of imposed structure.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
@@ -1283,9 +1289,6 @@ concerns the relation between message and its medium or channel. At first
 glance, it concerns only this relation, but upon closer examination, the first
 alteration irradiates in every direction, affecting in decisive manner all the
 factors and functions" [@ricur_interpretation_1976, 25].
-
-[^ln1-formal]: I discuss the idea of form as structure and sound in greater
-detail in Chapter 3.
 
 [^ln1-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
