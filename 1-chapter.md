@@ -215,12 +215,12 @@ context of media and book history, the question of literary surfaces gains an
 instrumental dimension. Habit hides the peculiarity of our everyday interfaces
 with the word. We read at the surface. We etch inscriptions deep within the
 bowels of a machine. When enacted on the level of the physical device,
-estrangement parallels the practice of reverse engineering. Both aim to reveal
-internals that structure experience, made opaque through artifice and
-habituation. I imagine here a kind of critical practice that reverses the
-principles of good interface design. What design aims to make easy and
-ordinary, defamiliarization makes difficult and strange. Materialist poetics
-expose the price paid for literary facility.
+estrangement parallels the practice of literary theory and reverse engineering.
+Both aim to reveal internals that structure experience, made opaque through
+artifice and habituation. I imagine here a kind of critical practice that
+reverses the principles of good interface design. What design aims to make easy
+and ordinary, defamiliarization makes difficult and strange. Materialist
+poetics expose the price paid for literary facility.
 
 For example, we know that physical affordances of liquid crystal displays
 (LCDs) and magnetic storage differ drastically from those of goat skins or
@@ -237,25 +237,6 @@ the page, readers perform the more habituated motion of swiping across the
 screen. The gliding motion enacts a kinetic metaphor, transposing properties of
 paper to glass.
 
-There is nothing inherently page-like about stiff slabs of glass and silicone.
-The metaphor of "turing the page by swiping across the screen" conceals the
-structural rift between media. Why would readers engage in such a charade? Why
-not simply make use of novel interfaces afforded by new technology? The
-literature from the field of human--computer interaction suggests a formalist
-answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
-@spolsky_user_2001]. The initial effort it takes to learn to read in a new
-environment may discourage many potential readers from adopting a new
-technology. Smart designers therefore rely on habituated practice, the turning
-of pages in our case, to minimize the "friction" of adoption. Although an
-"electronic book reader" contains no pages as such, it extends the metaphor of
-pages to electronic reading. The usability metaphor comes at a cost of
-concealment. A digital poem, a novel, a physician's script, or a legal contract
-may resemble their paper counterparts. But the metaphor of "turing pages" is
-but one simulation among the device's many possibilities. When imitating pages,
-the reading *appliance* also monitors, adjusts, warns, and controls. In return
-for usability it dissembles. The metaphor is a compromise between two
-conceptual systems. It obscures real material affordances behind a symbol.
-
 Readers bear the burden of conceptual transference (like the turning of pages).
 In pretending to turn "pages," a reader loses sight of the structures producing
 the simulation. Some would object that such structures are irrelevant or not
@@ -268,18 +249,44 @@ ultimately enacts a number of cognitive metaphors. If we are to value anything
 like interpretation or critical reason, we must certainly value them at the
 physical site of mental extension.
 
-Like the smoke alarm, literary gadgets are governed and internalize government
-structures in ways that we have only begun to comprehend. The material
-affordances of device--bound textuality influence all higher-level functions of
-interpretation.[^ln1-rmedium] Yet, available theories of interpretation build
-on properties and assumptions attached to print media. For example, in
-Hans-Georg Gadamer's seminal conception of art, the free play of the artistic
-mind is transformed into material structure (*Gebilde*) that is both
-"repeatable" and "permanent" [@gadamer_truth_1975, 110]. Similarly, in
-*Interpretation Theory*, Paul Ricoeur writes about the "range of social and
-political changes" related to the invention of writing. For Ricoeur, human
-discourse is "fixed" and thereby "preserved from destruction" in writing
-[@ricur_interpretation_1976, 26-8].
+More than superficial embellishment, the skeuomorphic metaphor structures all
+meaning-carrying units from letters, to words, paragraphs, chapters, books, and
+pages. In our example, we know that there is nothing inherently page-like about
+stiff slabs of glass and silicone. The metaphor of "turing the page by swiping
+across the screen" conceals the structural rift between media. Why would
+readers engage in such a charade? Why not simply make use of novel interfaces
+afforded by new technology? The literature from the field of human--computer
+interaction suggests a formalist answer: habituation [@carroll_metaphor_1982;
+@carroll_interface_1987; @spolsky_user_2001]. The initial effort it takes to
+learn to read in a new environment may discourage many potential readers from
+adopting a new technology. Smart designers therefore rely on habituated
+practice, the turning of pages in our case, to minimize the "friction" of
+adoption. Although an "electronic book reader" contains no pages as such, it
+extends the metaphor of pages to electronic reading. The usability metaphor
+comes at a cost of concealment. A digital poem, a novel, a physician's script,
+or a legal contract may resemble their paper counterparts. But the metaphor of
+"turing pages" is but one simulation among the device's many possibilities.
+When imitating pages, the reading *appliance* also monitors, adjusts, warns,
+and controls. In return for usability it simulates and dissembles. The
+exposition of the metaphor reminds us of the compromise between two conceptual
+systems. It reveals real material affordances behind the symbol.
+
+The simulation conceals structuring principles large and small. Some of these
+may remain inconsequential, like the limit on how many keys can be pressed at
+once without overwhelming the circuitry of the keyboard. Others are deeply si
+
+like the data Like the smoke alarm, literary gadgets
+are governed and internalize government structures in ways that we have only
+begun to comprehend. The material affordances of device--bound textuality
+influence all higher-level functions of interpretation.[^ln1-rmedium] Yet,
+available theories of interpretation build on properties and assumptions
+attached to print media. For example, in Hans-Georg Gadamer's seminal
+conception of art, the free play of the artistic mind is transformed into
+material structure (*Gebilde*) that is both "repeatable" and "permanent"
+[@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
+writes about the "range of social and political changes" related to the
+invention of writing. For Ricoeur, human discourse is "fixed" and thereby
+"preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
 The literary device offers no such permanence. It contains inscription of a
 qualitatively different type. The computational reading implement, as we will
