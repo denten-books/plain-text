@@ -264,10 +264,10 @@ interesting: one does not need to be a mechanic to drive a car, as the saying
 goes. Yet, particularly in the case of literary devices, the concealed
 mechanisms concern the structuring of privileged cognitive, as opposed to
 other, let us say more pedestrian, facilities. If an automobile extends the
-foot, the book extends the brain. It structures mental activity. The simulated
-text ultimately enacts a number of cognitive metaphors. If we are to value
-anything like interpretation or critical reason, we must certainly value them
-at the physical sites of mental extension.
+foot, the book extends the brain. It shapes mental activity. The simulated text
+ultimately enacts a number of cognitive metaphors. If we are to value anything
+like interpretation or critical reason, we must certainly value them at the
+physical site of mental extension.
 
 Like the smoke alarm, literary gadgets are governed and internalize government
 structures in ways that we have only begun to comprehend. The material
@@ -293,9 +293,9 @@ metaphors.[^ln1-notquite] The task of the literary scholar reading on the level
 of the device becomes to make the figure available for interpretation. It is to
 apprehend its revealed mechanics. What happens in the metaphorical transference
 between the book and the apparatus emulating the book? Estrangement, the
-exegesis of the metaphor, reveals mechanisms of governance that structure
-mental experience. Device hermeneutics allow one to consent, or, conversely, to
-resist elements of imposed structure.
+exegesis of the metaphor, reveals mechanisms of governance shaping mental
+experience. Device hermeneutics allow one to consent, or, conversely, to resist
+elements of imposed structure.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
@@ -318,24 +318,24 @@ is but a piece of a larger story. The personal computer governing the
 production of textuality today emerged from an amalgamation of automated
 equipment: among them the telegraph, the typewriter, and the calculator. Add to
 that list the loom, the music box, the radio, and the film camera
-[^ln1-ceruzzi]. Each of these machines left an imprint on the structure of our
-everyday engagement with computational devices.
+[^ln1-ceruzzi]. Each of these machines left an imprint on our everyday
+engagement with computational devices.
 
-It is important to keep these intertwined material lineages in mind because
-each brings with it a different set of values and priorities. As complex
-computational systems continue to play an ever greater part in our lives, from
-affecting family relations to health and nutrition (think social media and
-personal activity trackers), we are increasingly faced with a host of
-conflicting choices. When building systems that structure human experience, do
-we privilege agency or efficiency, privacy or connectivity, elegance or
-complexity? These are not choices that should be left to a calculator. Systems,
-in themselves, do not contain values. Rather, values are imposed from without.
+It is important to keep the intertwined material lineages of computation in
+mind because each brings with it a different set of values and priorities. As
+complex computational systems continue to play an ever greater part in our
+lives, from affecting family relations to health and nutrition (think social
+media and personal activity trackers), we are increasingly faced with a host of
+conflicting choices. When building systems that give form to human experience,
+should we privilege agency or efficiency, privacy or connectivity, elegance or
+complexity? These are not choices that can be left to a calculator. Systems, in
+themselves, do not contain values. Rather, values are imposed from without.
 The question then becomes one of ends and means. A calculator is most
 "efficient" when operating on binary data. Efficiency and complexity are goods
 for the task of calculation. A democratic vision of a just society places value
 on open deliberation and consensus building. Humans prefer to manipulate texts
 and images. Undeniably, computers participate in social transformation: used to
-make war and to create art. What is your machine optimized for? The passive
+make war and to create art. What are our machines optimized for? The passive
 voice points to the root of the problem. A computational mechanism that extends
 agency should embody values that correspond to the agent of the action.
 
