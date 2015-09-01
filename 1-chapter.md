@@ -62,7 +62,7 @@ belongs equally to the history of text processing as it does to the history of
 machine control, and (c) that the simulated sign splits to reside in at least
 two distinct locations, screen and storage medium: the first conspicuous but
 ephemeral, the second enduring but opaque. The "illusion of the simulated text"
-identifies an incongruity between the two sites.
+identifies an incongruity between the two sites of reading.
 
 It will take us the rest of the book to come to terms with ambiguous textuality
 in its bifurcated form. For now, we begin merely with the peculiarity of its
@@ -78,15 +78,15 @@ lightly to its medium, it has a tendency to multiply and to spread widely. Like
 the fine particles of glitter, it is difficult to contain. The simulated text
 falls apart into bits and pixels that replicate and tumble about the system.
 
-A word about the vocabulary: I will refer to the glitter-like persistence of
-simulated text as *textual diffusion.* And I will usually prefer *simulated
-text* over "digital" or "electronic," because simulation is the real intended
-after-effect of computing. As we will later see, universal Turing machines can
-be enacted by mechanical means alone. Thus neither "electronic" nor "digital"
-captures the essence of the simulation. Beyond "computability," we will
-confront computers as machines for textual simulation and diffusion. We will
-encounter them as *metaphor machines*: universal devices designed for the
-making of all possible metaphors.
+A word about the vocabulary: *textual diffusion* refers to the glitter-like
+persistence of simulated text. And I will usually prefer *simulated* or
+*computed* text over other descriptors like "digital" or "electronic," because
+simulation is the real intended after-effect of computing. As we will later
+see, computational machines can be enacted by mechanical means alone. Thus
+neither "electronic" nor "digital" captures the essence of the simulation.
+Beyond "computability," we will confront computers as machines for textual
+simulation and diffusion. We will encounter them as *metaphor machines*:
+universal devices designed for the making of all possible metaphors.
 
 The diffusion of simulated text will lead us to an archive of source materials
 somewhat unusual for a work on literary theory. It will allow us to perceive
@@ -98,9 +98,8 @@ and in patent portfolios. Their ubiquity necessitates our attention. Three such
 devices, which have fundamentally changed the nature of the literary encounter,
 will emerge by the end of the chapter. Together, they tell the story of a
 bargain that defines human--computer interaction: to trade facility for
-comprehension, to take on added complexity in return for the illusion of
-material transcendence, and to exist within that illusion without understanding
-how it is made.
+comprehension, to complicate in return for the illusion of simplicity, and to
+exist within that illusion without understanding how it is made.
 
 ## 1.1 Literary Device as Gadget and Technique
 
