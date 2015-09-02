@@ -302,17 +302,6 @@ Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
 shaping mental experience. Device hermeneutics allow one to consent, or,
 conversely, to resist elements of imposed structure.
 
-[^ln1-notquite]: To what extent a personal computer is a Turing machine is
-matter of contention. The Turing machine is a *thought experiment* that
-imagines a machine. The PC is a machine emulating the thought experiment. See
-@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
-more detailed discussion follows in 1.2.
-
-[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
-experience, despite the overwhelming evidence for determinism.
-
-## 1.2 Metaphor Machine
-
 What sort of a thing is a literary device? It is tempting to think of personal
 computers as glorified calculators. That is often the popular image of
 computing, one that highlights the machine's ability to calculate. The computer
@@ -333,55 +322,80 @@ lives, from affecting family relations to health and nutrition (think social
 media and personal activity trackers), we are increasingly faced with a host of
 conflicting choices. When building systems that give form to human experience,
 should we privilege agency or efficiency, privacy or connectivity, elegance or
-complexity? These are not choices that can be left to a calculator. Systems, in
-themselves, do not contain values. Rather, values are imposed from without.
-The question then becomes one of ends and means. A calculator is most
-"efficient" when operating on binary data. Efficiency and complexity are goods
-for the task of calculation. A democratic vision of a just society places value
-on open deliberation and consensus building. Humans prefer to manipulate texts
-and images. Undeniably, computers participate in social transformation: used to
-make war and to create art. What are our machines optimized for? The passive
-voice points to the root of the problem. A computational mechanism that extends
-agency should embody values that correspond to the agent of the action.
+complexity? These are not choices that can be left to a calculator. Systems,
+left to their own devices, cannot produce values. Rather, values are imposed
+from without. The question then becomes one of ends and means. A calculator is
+most "efficient" when operating on binary data. Efficiency and complexity are
+goods for the task of calculation. Humans prefer to manipulate texts and
+images. A democratic vision of a just society places value on open deliberation
+and consensus building. Undeniably, computers participate in social
+transformation: used to make war and to create art. What are our machines
+optimized for? The passive voice points to the root of the problem. A
+computational mechanism that extends agency should embody values that
+correspond to the agent of the action. In other words, we must be able to
+project our values through the machine, and not the other way around. What
+seems like a technologically determined inevitability is often simply the
+projection of values from without. It is social and political, not
+technological determinism.
+
+[^ln1-notquite]: To what extent a personal computer is a Turing machine is
+matter of contention. The Turing machine is a *thought experiment* that
+imagines a machine. The PC is a machine emulating the thought experiment. See
+@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
+more detailed discussion follows in 1.2.
+
+[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
+experience, despite the overwhelming evidence for determinism.
+
+## 1.2 Metaphor Machine
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
-Turing machines.
+Turing machines. And to understand the history of the Turing machine, we must
+see it in a wider cultural context, beyond journals of mathematics where it was
+first discussed. In what follows, I shall draw two, as yet unexplored, lineages
+that lead to Turing's seminal essay on computable numbers: the first
+intellectual, stemming back to his tutelage under Ludwig Wittgenstein, and the
+second material, noticing the physical similarities between Turing's design a
+number of concomitant developments in printing and communication technologies
+of the time.
+
+### 1.2.1  What It Is
 
 More than any other mechanism, the Turing machine defined the very limits of
-computation. Since its inception, the Turing machine has remained a
-controversial construct. At the heart of the controversy lies a paradox that
-among other goings, separates the theoretical discipline of computer science
-from the applied practice of electrical engineering. Turing imagined his
+computation. Yet it is also a source of considerable debate, misunderstanding,
+and controversy, because it poses a fundamental  paradox. Turing imagined his
 machine as a physical mechanism solving a theoretical problem. Actual
-computers, in turn, simulate a hypothetical Turing machine. Computation
-therefore emerges as a figure stuck in the loop between the ideal and the
-physical worlds. It is part real mechanism and part unattainable idea.  The
-indeterminacy of computation blurs the boundaries between hardware and
-software. And no matter how hard computer science tries to escape into the
-realm of pure mathematics, the limits of physical engineering pull it back to
-the sphere of the applied.
+computers, in turn, simulate hypothetical Turing machines. You can see how
+this may get confusing. Computation emerges as a figure stuck in the loop
+between the ideal and the physical worlds. It is part real mechanism and part
+unattainable idea; part physics and part metaphysics. The indeterminacy of
+computation blurs the boundaries between hardware and software. And no matter
+how hard computer science tries to escape into the realm of pure mathematics,
+the limits of physical engineering pull it back to the sphere of the
+applied.[^ln1-cs]
 
 In his seminal 1937 paper on computable numbers, Alan Turing, then a student at
-King's College, did a strange thing for a mathematical journal. He imagined a
-mechanism that solves a theoretical problem. What that problem was (in the
-field of elementary number theory) is not as important as how he proposed to
-solve it. "We may compare a man in the process of computing a real number to a
-machine that is only capable of a finite number of conditions," he wrote
-[@turing_computable_1937, 231]. Turing suggestively asked his reader to compare
-computation, a human mental process, to the mechanical action of a machine. As
-Charles Petzold explains in his book-length annotation on Turing's paper,
-Turing "makes reference to 'states of mind' that are analogous to machine
-states" [@petzold_annotated_2008, 67]. But the analogy itself is controversial.
-Neither mathematicians nor cognitive scientists agree on the extent to which
-states of mind can be compared to discrete machine states.
+King's College, proposed a peculiar solution to appear in mathematical journal.
+He imagined a mechanism that solves a theoretical problem. What that problem
+was (in the field of elementary number theory) is not as important as how he
+proposed to solve it. Turing begins suggestively: "we may compare a man in the
+process of computing a real number to a machine that is only capable of a
+finite number of conditions." [@turing_computable_1937, 231]. In effect, he
+asks his readers to compare computation, a human mental process, to the
+mechanical action of a machine. As Charles Petzold explained it in his
+book-length annotation on Turing's paper, Turing "makes reference to 'states of
+mind' that are analogous to machine states" [@petzold_annotated_2008, 67]. But
+the analogy itself leads to contention. Neither mathematicians nor cognitive
+scientists agree on the extent to which states of mind can be compared to
+discrete machine states.
 
-Turing further imagined a machine "supplied with a 'tape' (the analogue of
+Turing further imagines a machine "supplied with a 'tape' (the analogue of
 paper) running through it, and divided into sections (called 'squares') each
 capable of bearing a 'symbol'" [@turing_computable_1937, 231]. Much like a
-movie reel, the tape moves through the machine one section at a time. At each
+movie reel, the tape moves through the mechanism one section at a time. At each
 point only one section bearing one symbol can be said to be "in the machine."
-"We may call this square the 'scanned square,'" Turing wrote,
+"We may call this square the 'scanned square,'" Turing writes,
 
 > The symbol on the scanned square may be called the "scanned symbol." The
 > "scanned symbol" is the only one of which the machine is, so to speak,
@@ -391,15 +405,24 @@ The scanned symbols become a part of the machine's internal configuration. In
 Turing's words, "the machine can effectively remember some of the symbols which
 it has 'seen' (scanned) previously" [@turing_computable_1937, 231]. The
 machine's "behavior" is therefore determined by its initial configuration (in
-the arrangement of tape and scanning apparatus) plus the scanned symbol. The
-Turing machine is therefore a machine capable of internalizing symbolic
-representation. In a sense, it transforms software (symbol) into hardware
-(configuration). If the machine "reads," it reads in the Platonic sense in that
-does not merely *scan over* the symbols or recite them blindly, in the way
-Socrates is worried about rote recitation in *Phaedrus*. Rather it becomes
-"aware." Consider by contrast the action of a film projector. Unlike a Turing
-machine, the projector does not internalize film reels. The film reel leaves
-nothing behind as it leaves the apparatus.[^ln1-reading]
+the arrangement of tape and scanning apparatus) plus the scanned symbol.
+
+We imagine then a device not unlike a telegraph or a film projector, which
+ingests reels of tape. But unlike telegraphs or film projectors, the ingested
+symbolic representation becomes effectively, by definition, a part of the
+machine's internal configuration. Remember that in constructing his
+contraption, Turing has a human in mind. A child in the process of reading or
+doing mathematics similarly "ingests" symbols. These symbols really do become a
+part of the mental apparatus, affecting a change in brain states on some real
+and empirically observable neurological level. Turing's machine is capable of
+similar internalization.
+
+Where the child converts symbol into brain states, the machine transforms
+software (symbol) into hardware (configuration). The machine does not just
+scan, it "reads" in the Platonic sense. It internalizes and becomes "aware."
+Consider by contrast the action of a film projector. Unlike a Turing machine,
+the projector does not internalize film reels. The film reel passes through
+without leaving a trace on the mechanism.[^ln1-reading]
 
 In addition to "reading," Turing's machine must be able to write. Turing wrote
 that "in some configurations in which the scanned square is blank (*i.e.* bears
@@ -408,53 +431,259 @@ no symbol) the machine writes down a new symbol on the scanned square"
 adjacent squares, one square at a time. Reading, writing, and symbolic
 manipulation are thus mechanical actions at the core of Turing's computation.
 
-The configuration of the machine determines the movement of the "reading" and
-"writing" apparatus along the surface of the tape. At its simplest incarnation,
-the tape moves along one dimension only: left or right. Thus some of the
-scanned symbols are meant to represent computable numbers (the whole point of
-Turing's paper). Yet other symbols are meant as machine instructions. They
-direct the movement of the reading and writing head. They tell the machine to
-"write," "scan," or "erase" symbols. Today, we would call such instructions
+The configuration state of the machine determines the movement of the "reading"
+and "writing" apparatus along the surface of the tape. At its simplest
+incarnation, the tape moves along one dimension only: left or right. Thus some
+of the scanned symbols are meant to represent computable numbers (the whole
+point of Turing's paper). Yet other symbols are meant as machine instructions.
+They direct the movement of the reading and writing head. They tell the machine
+to "write," "scan," or "erase" symbols. Today, we would call such instructions
 "programs" or "control codes." The control codes and the computed data form a
 part of the same continuous stream of information.
 
 Just as the Turing machine is able to convert symbolic representation into
-internal configuration states, it can finally enact the opposite movement, by
-representing internal configuration states as symbol. This remarkable property
-allows for the creation of what Turing calls a class of universal machines.
-Specific Turing machines could be configured to preform actions like addition
-or multiplication. But the multiplication machine could not, for example, be
-reconfigured for another purpose, because the physical movement of its
-internals is fixed. In addition to scanning symbols, the universal Turing
+internal configuration states, it can conversely enact the opposite movement, by
+representing internal configuration states symbolically. This remarkable
+property allows for the creation of what Turing calls a class of universal
+machines. Specific Turing machines could be configured to preform actions like
+addition or multiplication. But the multiplication machine could not, for
+example, be reconfigured for another purpose, because the physical movement of
+its internals is fixed. In addition to scanning symbols, the universal Turing
 machine has the ability to internalize *other machine configurations*. Turing
 explains that "it is possible to invent a single machine which can compute any
 computable sequence" [@turing_computable_1937, 241]. In being able to
 internalize configuration as symbol, the *universal* Turing machine can
 simulate all other special-purpose Turing machines.
 
-The transition of symbols into machine states defines modern programming. A
-universal machine, unlike other, definitive, single-purpose and limited-state
-mechanisms (a clock for example), contains the ability to take on differing
-internal symbolic configurations. It can imitate a clock, an abacus, a scale, a
-book. In a later paper linking computing machinery and intelligence, Turing
-implies it could eventually simulate human thought as well
-[@turing_computing_1950].[^ln1-compete]
+The transition of symbols into machine states (and the other way around)
+defines modern programming. A universal machine, unlike other, definitive,
+single-purpose and limited-state mechanisms (a clock for example), contains the
+ability to take on differing internal symbolic configurations. It can imitate a
+clock, an abacus, a scale, a book. In a later paper linking computing machinery
+and intelligence, Turing implies it could eventually simulate human thought as
+well [@turing_computing_1950].[^ln1-compete]
 
 The universal Turing machine (UTM) emerges, finally, as a model of computation
-itself. It can compute anything computable. Turing's "On Computable Numbers"
-belongs therefore to the annals of mathematical theory. Turing's paper
-continues to elicit debate because despite its mathematical language, the paper
-is riddled with metaphors of cognition. The machine compares to a human in the
-process of computation. Turing describes machine states in terms of "states of
-mind," "awareness" and "memory." Without directly confronting the nature of
-human cognition, Turing hints at the idea of computation as a model for human
-thought in general. The literature on the so-called "computational theory of
-mind" cites Turing's work extensively for this reason [@fodor_language_1975;
-@putnam_representation_1988]. Bracketing for the moment the mathematical and
-cognitive implications of Turing's work, I want to approach the Turing machine
-from the perspective of a book historian and a media scholar. If the Turing
-machine is to be taken at face value, not as an algorithm, but as an
-instrument, what kind of a machine would it be? What are its antecedents?
+itself. It can compute anything computable. In substituting the concept of
+computability with "effective computability" Turing's paper belongs to the
+annals of mathematical theory. But, it continues to elicit response widely
+because much of it contains tantalizing possibilities that bare on symbolic
+manipulation more generally. The paper is riddled with metaphors of cognition,
+for example. From the beginning we are asked to consider the similarity between
+humans and machines in the process of computation. Turing consistently
+describes machine states in terms of "states of mind," "awareness," and
+"memory." Without confronting the nature of human cognition directly, Turing
+hints at the idea of computation as a model for human thought. The literature
+on the so-called "computational theory of mind" cites Turing's work extensively
+for this reason [@fodor_language_1975; @putnam_representation_1988].
+
+### 1.2.2 Intellectual Context
+
+The paper should hold interest for literary scholars because it presents a
+minimally viable model for generalized symbolic manipulation. Although the
+thought experiment it describes solves a mathematical problem, the thought
+experiment itself has its roots in the conversation about comprehension,
+central to the question of meaning-making in art and culture.
+
+Turing attended Wittgenstein's Lectures on the Foundations of Mathematics at
+Cambridge University in 1939 (Diamond 1976, 7). From the notes complied and
+published by Cora Diamond, it is clear that Turing was a vociferous presence in
+the class. His name is mentioned 86 times in the text (more than any other
+student by a wide margin).  At some point of the course Wittgenstein concludes
+his lecture in saying: "Unfortunately, Turing will be away from the next
+lecture, and therefore that lecture will have to be somewhat parenthetical. For
+it is not good my getting the rest to agree to something that Turing would not
+agree to" (67-68).  The lectures touch upon the subject of "logical machinery"
+obliquely. Wittgenstein believes the term itself to be misleading. "The idea of
+logical machinery would suppose that there was something behind our symbols.
+Thus, there are certain cogwheels behind the dial of a clock which produce the
+following movement [...] Similarly, one might think that there is a machinery
+behind the symbols—that behind '(x). ƒx' and 'ƒa' is a machinery which explains
+why one must follow from the other. A Chinese man1 who just sees the symbols
+wouldn't see this machinery. But we who see the machinery see that if there is
+(x). ƒx, there must must be ƒa" (194). 	In the period of 1942-1944,
+Wittgenstein's oblique references to a mechanistic theory of the mind gain a
+more concrete shape: "Does a calculating machine calculate?" (257). The
+question of discursive reading machines of the earlier period, becomes here a
+question of mathematics. And in a similar fashion to his earlier examples,
+Wittgenstein imagines a human calculating machine that could be trained to
+follow the rules of inference blindly, and which is able to "nod its head after
+every correctly drawn conclusion" and to "shake its head at a mistake and
+stopped calculating."  Outside of this capacity this creature would otherwise
+be a perfect imbecile, writes Wittgenstein (258). The possibility of such
+automata hints not only at the mechanization of mathematics (only an enigmatic
+fragment of the sentence here from Wittgenstein on 372), but also at
+mechanization of thought in general.  But could such an automaton be
+calculating (and by extension, thinking)? What if it feels like it is, but is
+not (420)? Conversely, what if we ourselves calculate properly, and yet feel
+like so many automatons, under spell of an unknown deity (422)? This line of
+questioning was certainly already familiar to those students of Wittgenstein
+who attended his earlier lectures at Cambridge, and who undoubtedly have
+participated in his reading-related thought experiments.  Wittgenstein's
+reading and calculating machines were meant to challenge the very notions of
+reading and calculating. But, in his seminal 1936 essay On Computable Numbers,2
+Alan Turing envisions an actual machine that calculates as a matter of
+mathematical principle.3 The machine is fed tape, which Turing imagines to be
+divided into sections called "squares", each "capable of bearing a 'symbol'"
+(Turing 1936, 2). Such symbols would comprise "a state of mind,"4 which in turn
+could be said to govern the behavior of the mechanism.  Furthermore, this
+machine would be capable of "computing any computable sequence." The paper
+broke new ground in mathematics by proving David Hilbert's Entscheidungsproblem
+to be algorithmically unsolvable.5  But for our purposes, it is enough to note
+that in the same paper, Turing envisions a model of human computation, by which
+"we may compare a man in the process of computation to a machine which is only
+capable of a finite number of conditions" (2). The idea is that at some
+pre-conscious moment of calculation (of 2+2, for example), the human subject
+executes some nevertheless formulaic and meaningless rules. And precisely
+because these rules are formulaic and meaningless, a machine capable of
+following any general algorithm (a-machine) could conceivably follow them as
+well.  From this Turing concludes that a) the human mind, at some basic level,
+is a type of a machine, and that b) a machine, supplied with enough tape
+(memory, information) would be able to simulate any act of human cognition.
+The machine capable of computing any computable sequence is capable of thinking
+any thinkable thought—that is the shocking conclusion of Turing's essay.  The
+consequences of that argument went on to shape the field of artificial
+intelligence research for decades to come.  In the 1950 "Computing Machinery
+and Intelligence," which appeared in the journal Mind, Turing returned to the
+problem of machine and human intelligence explicitly (Turing 1950). Here,
+Turing proposes to reformulate Wittgenstein's original question (Can machines
+think?) into what he calls the "imitation game." The format would surely please
+his former professor: three people—a man, a woman, and an interrogator of
+either sex—would communicate by teletype. The object of the game for the
+interrogator is to determine the gender of the individual behind the screen.
+The object of the game for the other two participants is to fool the
+interrogator. And here is the twist: the part of one of the participants (not
+the interrogator) would be played by a machine. The question "Can a machine
+think?" becomes then, "Will the interrogator decide wrongly as often when the
+game is played like this as he does when the game is played between a man and a
+woman?" (Turing 1950, 433).  The striking transposition of the cognitive
+activity (thinking) into its functional discursive equivalent (misrepresenting
+one's identity in writing) echoes Wittgenstein's playful thought experiments.
+The machine that thinks is a machine that tells tall-tales. On this view, a
+convincing imitation of thought is thought. We would simply not be able to
+prove otherwise, without peeking behind the teletype screen to see who or what
+is doing the typing. In that sense, Turing returns to Wittgenstein's refusal to
+locate the mark of the cognitive within any given organ or activity. Thought is
+simply that which looks (sounds, reads) like thought—it is a game that we play,
+and a game that could conceivably be played by other entities, mechanical or
+otherwise. For our purposes, it is interesting to note that Turing's chatbot
+does not simply compute or calculate. It is a literary machine. It does not
+just imitate human logic or speech. Instead, it imitates (performs!) fibbing.
+It is able to imagine a fictional story about an alternative identity, and
+ultimately to convince its reader of the story's veracity. In this shift from
+the cognitive to the discursive, Turing follows the trajectory of
+Wittgenstein's thought experimentation. Moreover, the game is tinged with
+distinctly sexual overtones, and in the context of an interrogation. It is a
+game in which winning means transgressing either one's gender or one's species,
+all the while maintaining a straight face. The proposed language game is not
+simply conversational, it is suspenseful and subversive, having the force of a
+mystery, a detective novel, or a legal drama.6 At one point of the essay Turing
+answers what he calls "the argument from consciousness," quoting one Professor
+Jefferson in saying that it is not "until a machine can write a sonnet or
+compose a concerto because of thoughts and emotions felt, and not by the chance
+fall of symbols, could we agree that machine equals brain—that is, not only
+write it but know that it had written it. No mechanism could feel (and not
+merely artificially signal, an easy contrivance) pleasure at its successes,
+grieve when its valves fuse, be warmed by flattery, be made miserable by its
+mistakes, be charmed by sex, be angry or depressed when it cannot get what it
+wants" (446). In response Turing scripts the following conversation:
+Interrogator: In the first line of your sonnet which reads 'Shall I compare
+thee to 	a summer's day' would not 'a spring day' do as well or better?
+Witness: It would not scan.  Interrogator: How about 'a winter's day.' That
+would scan all right.  Witness: Yes, but nobody want to be compared to a
+winter's day.  Interrogator: Would you say Mr. Pickwick reminded you of
+Christmas?  Witness: In a way.  Interrogator: Yet Christmas is a winter's day,
+and I do not think Mr. Pickwick 	would mind the comparison.  Witness: I
+don't think you're serious. By a winter's day one means a typical 	winter's
+day, rather than a special one like Christmas. (447)
+
+Were the part of the Witness played by a machine, the effect could not be
+dismissed as "an easy contrivance," Turing argues (447). And it is not
+necessary to know what or where consciousness is to have a conversation like
+that with a human or a machine, and to be sure that we are speaking with a
+conscious being. Here, the Turing Test is literally a conversation of the
+author with his critic. The author passes the test because he (or she or it) is
+reflective about the nature of his work. Whatever and wherever his
+consciousness is, it contains second-order convictions about its own creative
+processes.  The Turing test is often interpreted simply as a functional test of
+intelligence: if it looks like a duck and quacks like a duck, it is a duck. I
+hope I am being fair to Daniel Dennett, when I put him forth a representative
+of this school of interpretation. In his 1985 essay on the subject Dennett
+writes, "Turing test, conceived as he conceived it, is plenty strong enough as
+a test of thinking [...] Of course, there is nothing sacred about the
+particular conversation game chosen by Turing for his test; it is just a
+cannily chosen test of more general intelligence. The assumption Turing was
+prepared to make was this: Nothing could possibly pass the Turing test by
+winning the imitation game without being able to perform indefinitely many
+other clearly intelligent actions" (Dennett 2004, 298). In that sense Dennett
+takes Turing as advocating only a stronger version of the Cartesian imitation
+test. Descartes writes in his 1637 Discourse on Method: If there were such
+machines having the organs and the shape of a monkey or some other animal that
+lacked reason, we would have no way of recognizing that they were not entirely
+of the same nature as these animals; whereas if there were any such machines
+that bore a resemblance to our bodies and imitated our action as far as this is
+practically feasible, we would always have two very certain means of
+recognizing that they were not at all, for that reason, true men. The first is
+that they could never use words or other signs, or put them together as we do
+in order to declare our thoughts to others. For one can well conceive of a
+machine being so made that it utters words, and even that it utters words
+appropriate to the bodily actions that will cause some change it its organs
+(such as, if on touches it in a certain place, it asks what one wants to say to
+it, or, if in another place, it cries out that one is hurting it, and the
+like). But it could not arrange its words differently so as to respond to the
+sense of all that will be said in its presence, as even the dullest men can
+do.7
+
+That is to say that we may be confused by an artificial monkey, but not so much
+by an artificial human: the machine will betray its naivete in conversation.
+But it is also likely that a human (take me for example) could not respond to
+the sense of all that could be said in my presence. I may not know how to act
+appropriately at a state dinner, or on a cricket field (not knowing the exact
+rules of engagement in these situations), for example.  I suppose a charitable
+reading of Dennett and Descartes would take a range of human
+responses—including shame or embarrassment—as acceptable. After all, a faux pas
+at a state dinner is still a very human failing. The question then becomes,
+what is an appropriate response to a faux pax? Could a computer imitate shame
+and embarrassment? Where Descartes sees an epistemological break-down (the
+machine does not have access to the seemingly limitless store of appropriate
+human responses), Turing sees a seemingly limitless machine-accessible data
+bank. The litmus test of intelligence cannot then hinge on the amount of
+information available to the test subject, because machines are likely to
+exceed humans in that capacity. Nor can it hinge on some vague notion of an
+"appropriate response." We cannot for example, take a Gallup poll of what we
+consider to be proper human-like behavior, and declare all other responses
+outside of the human experience (Turing 1950, 433). By extension, convincing a
+critical mass of casual participants in a Turing test would not provide an
+acceptable answer either (as Dennett seems to imply).  Instead of appealing to
+normative populism, Turing proposes to dispense with the question of
+intelligence altogether, and to replace it with his imitation game. The game
+tells us nothing about intelligence or machinery. Turing goes as far as to
+suggest that the winning strategy for the machine may not even be to act like a
+human at all (Turing 1950, 434). The machine "wins" when it manages to
+misrepresent its assigned gender convincingly, and not the artifice of its
+sentience (as is the common perception of the Turing test). "What will happen
+when a machine takes the part of A in the game?" Turing himself asks. "Will the
+interrogator decide wrongly as often when the game is played like this as he
+does when the game is played between a man and a woman?" (433). These questions
+treat the encounter between man and woman, human and machine, as a discursive
+event. In that context, the experiment simply questions our "game-play" within
+a given social context. A formal model of cognition is not required to
+participate. The question "Can machines think?" becomes, "Would you play this
+game with a computer and how?" In this substitution Turing is aligned more
+closely with Wittgenstein's elusive and moderate position than with those who
+advocate a stronger version of strict functionalism. And it is perhaps an
+unfortunate turn in the history of AI research that Turing's imitation game
+passed from being transgressive gender play to the "Turing Test"—which has much
+more in common with the Cartesian model of intelligence assessment, and much
+less with the inherited legacy of Wittgenstein's thought experimentation.
+
+## 1.3 Control
+
+Bracketing for the moment the mathematical and cognitive implications of
+Turing's work, I want to approach the Turing machine from the perspective of a
+book historian and a media scholar. If the Turing machine is to be taken at
+face value, not as an algorithm, but as an instrument, what kind of a machine
+would it be? What are its antecedents?
 
 Most of the minimal physical requirements to build a universal Turing machine
 were within reach in the 1930s, at the time Turing authored his influential
@@ -611,7 +840,11 @@ to someone familiar with Turing's work" [@davey_turing_2012].
 definition of "reading" and "becoming aware." Proper reading involves the
 appropriate internalization of the symbol, for both human and machine.
 
-## 1.3 Splitting the Sign
+[^ln1-cs]: Two separate departments offersing competing degrees in software
+engineering and computer science is a common occurance in North American
+universities.
+
+## 1.4 Splitting the Sign
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: virtual reality,
@@ -779,7 +1012,7 @@ technologies like natural language processing and optical character recognition
 struggle to bring non-regularized writing systems under the computational
 umbrella.
 
-## 1.4 Rise of Simulated Text
+## 1.5 Rise of Simulated Text
 
 To see the universal Turing machine as a book---an instrument for symbolic
 exchange---means to recover the physical roots of computation.  When viewed in

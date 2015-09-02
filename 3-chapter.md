@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 2: Form and Content"
+subtitle: "Chapter 3: Metaphor Machine"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -18,7 +18,7 @@ header-includes:
 
 ---
 
-# Chapter 3: Control
+# Chapter 3: Metaphor Machine
 Keywords: `content, form, formula, formatting`
 
 ## 1.4 Hardware vs. Software

@@ -107,9 +107,9 @@ Friedrich Kittler warns us about, must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
 Kittler, who once wrote that "under conditions of high technology, literature
 has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
-literature continues to speak volumes. Technology does not silence---it
-transforms the nature of literary phenomena. The instruments of literary
-analysis should consequently evolve to deal with new technological
+literature continues to have a voice in modern life. Technology does not
+silence---it transforms the nature of literary phenomena. The instruments of
+literary analysis should consequently evolve to deal with new technological
 contingencies. Where texts are encrypted, we decrypt. If "automated discourse
 analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
 engineer analytical automatons that command on our behalf.
