@@ -360,11 +360,11 @@ second material, noticing the physical similarities between Turing's design a
 number of concomitant developments in printing and communication technologies
 of the time.
 
-### 1.2.1  What It Is
+### 1.2.1 What It Is
 
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Yet it is also a source of considerable debate, misunderstanding,
-and controversy, because it poses a fundamental  paradox. Turing imagined his
+and controversy, because it poses a fundamental paradox. Turing imagined his
 machine as a physical mechanism solving a theoretical problem. Actual
 computers, in turn, simulate hypothetical Turing machines. You can see how
 this may get confusing. Computation emerges as a figure stuck in the loop
@@ -480,122 +480,176 @@ for this reason [@fodor_language_1975; @putnam_representation_1988].
 ### 1.2.2 Intellectual Context
 
 The paper should hold interest for literary scholars because it presents a
-minimally viable model for generalized symbolic manipulation. Although the
-thought experiment it describes solves a mathematical problem, the thought
-experiment itself has its roots in the conversation about comprehension,
-central to the question of meaning-making in art and culture.
+minimally viable model for generalized symbolic manipulation: reading and
+writing. Although the thought experiment it describes solves a mathematical
+problem, the thought experiment itself has its roots in a more general
+conversation about the nature of comprehension, central to the question of
+meaning-making in art and culture.  The conversations between Alan Turing and
+Ludwig Wittgenstein of the paper are instructive in this regard.
 
+The problem of reading machines, in its contemporary form, was probably first
+introduced by Wittgenstein in his *Philosophical Grammar*, written in the
+period between 1931 and 1933.
+
+1 In my reconstruction of the problem, we are going to
+see Wittgenstein’s continual return to the problem of machine intelligence
+throughout his early and late writings: first in The Blue and Brown Books
+(compiled in the early 1930s), then in his lectures and remarks on the
+foundations of psychology and mathematics from the late 1930s, and finally in
+the Philosophical Investigations (written between 1945 and 1949). As always,
+working with Wittgenstein  is complicated by the inherently ad-hoc nature of
+much of his published work, which comes to us by and large in the form of
+second-hand dictation and lecture notes. As if to anticipate this difficulty,
+in a letter to Bertrand Russell accompanying the manuscript of the The Blue and
+Brown Books (a collection of notes that form the basis for his Philosophical
+Investigations) Wittgenstein writes, "I think it's very difficult to understand
+[these notes], as so many points are just hinted at. They are meant only for
+the people who heard the lectures."2  In the first section of my paper, I will
+attempt to assemble these hints into something resembling a coherent argument,
+which spans almost the entirety of Wittgenstein’s academic career.  In The Blue
+and Brown Books, the matter of machine intelligence comes up in a discussion
+about (and Wittgenstein's repudiation of) Cartesian mind-body dualism. The mind
+seems to us to exist in what Wittgenstein calls "the upper strata of the
+atmosphere, as opposed to the material phenomena which happen on the ground"
+(1960, 47). In such a model, the mind is an ethereal substance that emerges
+when "the material phenomena reach a certain degree of complexity" (47). And
+there is some obvious truth to this position, writes Wittgenstein: simple
+organisms do not "speak, or write, or discuss," whereas humans do. But if
+complexity is all that is required for the mind to emerge, would we not expect
+other complex mechanisms to possess the same sentient qualities? Would not
+complex machines also be able to speak, write, and discuss like humans? Is it
+possible for a machine to think? Wittgenstein writes: The trouble which is
+expressed in this question is not really that we don't yet know a machine which
+could do the job. The question is not analogous to that which someone might
+have asked a hundred years ago: 'Can a machine liquefy a gas?' The trouble is
+rather that the sentence, 'A machine thinks (perceives, wishes)': seems somehow
+nonsensical. It is as though we had asked 'Has the number 3 a color?' (47)
+
+In other words, could thought even be considered as a property belonging to a machine? To answer that question, we must first agree on what we mean by "thought". "Where does thinking take place?" Wittgenstein asks in an approach to that problem. On paper, is one possible answer. In our bodies. In our brains. But none of these localities are exhaustive; none of them can stake the claim of being THE location of thinking (16). Wittgenstein writes: "In the consideration of our problems one of the most dangerous ideas is the idea that we think with, or in, our heads [...] 'Thinking takes place in the head' really means only 'the head is connected with thinking.'—Of course one says also 'I think with my pen' and this localization is at least as good" (106).  Does a machine that can doodle in contemplation, think?  Or, does it think when its internal circuitry begins to resemble the human brain?  For Wittgenstein, neither definition is satisfactory.
+	The external description of thought is insufficient, because we can imagine cases where the presentation alone does not fully rise to our understanding of the process itself. Wittgenstein gives the example of a child who is asked to read, but who instead regurgitates the text from memory. Intuitively, we feel that this is not "reading" proper. In a similar case, Wittgenstein asks his readers to imagine an experimental "human reading machine" (his words, not mine), which like the child in the previous example can produce sounds upon seeing a text, but these sounds often do not correspond with the words on the page. Such an automaton cannot read per se, although occasionally the sounds it produces do coincide with the printed word. Suppose then that upon seeing such an experiment, a newcomer comments: "This person is reading." The scientist who has set up the experiment would respond: "No he is not. It is a mere accident." But what shall we say when such a biological machine begins to consistently correspond letters to appropriate sounds. Has it learned to read? And at what point does mere coincidence pass into conscious action (120-121)? In his characteristically cryptic manner, Wittgenstein defers the question by the means of yet another analogy. "If A tries to make B believe that he is able to read Cyrillic script, cheating him by learning a Russian sentence by heart and then saying it while looking at the printed sentence, we may certainly say that A knows he is pretending, and that his not reading is characterized by a particular personal experience" (121). But suppose the man really does know how to read Russian, although when he reads he has a peculiar feeling of knowing the words by heart. Should we regard his personal experience as the criterion distinguishing between reading and not reading in that case? And again, Wittgenstein expects us to answer in the negative.  
+	It seems then, that the external presentation alone is not sufficient to determine whether the person is reading or not.  In each case, we had to check for the appropriate mental state.  Wittgenstein writes, "We here envision two mechanisms, the internal workings of which we can see, and this internal working is the real criterion for a person's reading or not reading. But in fact no such mechanisms are known to us in these cases" (120).  And it turns out that the appropriate mental state alone is also insufficient to describe thought definitively. Here, Wittgenstein asks us to imagine a person under the influence of drugs who is shown a set of discrete strings composed of nonsensical characters. When shown the string $%^&* for example, the drugged patient reads "above," as if the typographical characters were meaningful and in English.  As far as the patient is concerned, she is reading.  All the formal attributes of the action are there—the proper region of her brain is receiving stimulation, she follows the text with her eyes from left to right, silently mouthing the words, and so on.  But this cannot be reading as we know it: the woman is simply imagining that she is reading (122).  Thus, neither the internal nor the external  descriptions of the action seem adequate to encompass everything we mean by reading. And yet we do have a relatively clear picture of what reading properly entails, what it looks like, what it sounds like, how to do it, and how to teach others to do it.  
+	In building this chain of deferring analogies (from the reading child to the drug-induced reading hallucination) we are acting as though "we had tried to find the real artichoke by stripping it of its leaves," writes Wittgenstein (125). The moral of the story is that the leaves, taken together, are the artichoke. The explication of the word "reading' for Wittgenstein involves describing a set of characteristic features, some of which may be mutated, deformed, or missing altogether. What we are dealing with here is a family or a genus of behaviors that fall under a particular rubric. Our work then, similar to a botanist's, is to describe rather than to explain such features. "Suppose I wish to produce in someone a mental image of the inside of a particular eighteenth-century room which he is prevented from entering," Wittgenstein writes. "I therefore adopt this method: I show him the house from the outside, pointing out the windows of the room in question, I further lead him into other rooms of the same period" and so on (125). No single feature defines the room, it seems. Instead, we observe a range of facades, a range of decors, a range of configurations. Taken together these serve as an instrumental category—rooms of the 18th century—that is useful in talking about, visiting, preserving, or living in 18th-century rooms. By analogy, the mind is hermeneutically sealed to outside observers.  The best we can do is to examine other, similar minds in similar situations. To think, to read, to write, is to play a particular part in the appropriate cultural and linguistic context—a part that we learn as a result of continuing practice and acculturation. "Could a machine think?" Wittgenstein asks again in the Philosophical Investigations, "Could it be in pain?" 
+Well, is the human body to be called such a machine? It surely comes as close as possible to being such a machine. But a machine surely cannot think!—Is that an empirical statement? No. We only say it about human beings and about those similar to them, 'they think.' We also say it of dolls and no doubt of spirits too. Look at the word 'to think' as a tool (2003, 359-360).
+
+Wittgenstein seems here to be offering a pragmatic answer to the question of machine intelligence: we are more likely to ascribe thought to an anthropomorphic machine. But that tells us more about human psychology than machine cognition (or cognition in general). From the onset of the conversation that question was deferred by a chain of analogies, which took us from thinking machines, to eloquent amoebas, and to human reading automata. For those familiar with Wittgenstein's thought, we arrive then at a fairly expected conclusion: cognitive processes like thinking and reading are defined through usage, in a descriptive rather than a proscriptive manner. In that sense, we can already anticipate the pragmatic attitude towards artificial intelligence of those, who like Alan Turing, have advocated a set of purely functional litmus tests as criteria for ascertaining intelligence of non-human entities. On that view, the given activity does not have to correspond to any state or a definition. It must merely enter the stream of appropriate social practice. 
+	Unexpected however, are several odd and persistent features of Wittgenstein’s thought on artificial intelligence. The first is a willful blurring of the boundary between the human and the mechanical. From Philosophical Grammar to Philosophical Investigations Wittgenstein speaks of the human body as a kind of a machine, and of machines as a type of a body.3 To what extent do such statements function as a metaphor or as a provocation is unclear in the context of our discussion, though the second feature comes into a much sharper relief. In almost every passage I have examined here Wittgenstein's thought experiments appeal to our intuitions about specifically discursive (rather than generally cognitive) actions.  What began as a general discussion concerning the Cartesian mind-body dualism, unfolded almost entirely through examples that involve reading and writing automata.  As we shall see later, such a slide from the cognitive to the discursive will come to define the conversation about machine intelligence. This strain of thought in the literature on the (artificial) mind takes thinking machines to be primarily machines that read and write, with the hope that what holds true for reading and writing will also hold true for thinking in general. But, nothing has been said so far about the connection between thinking, reading, and writing. That elision has passed on from Wittgenstein to his students, in a line of reasoning that is particularly prevalent in Alan Turing's foundational work on artificial intelligence (the subject of the next section).
 Turing attended Wittgenstein's Lectures on the Foundations of Mathematics at
-Cambridge University in 1939 (Diamond 1976, 7). From the notes complied and
-published by Cora Diamond, it is clear that Turing was a vociferous presence in
-the class. His name is mentioned 86 times in the text (more than any other
-student by a wide margin).  At some point of the course Wittgenstein concludes
-his lecture in saying: "Unfortunately, Turing will be away from the next
-lecture, and therefore that lecture will have to be somewhat parenthetical. For
-it is not good my getting the rest to agree to something that Turing would not
-agree to" (67-68).  The lectures touch upon the subject of "logical machinery"
-obliquely. Wittgenstein believes the term itself to be misleading. "The idea of
-logical machinery would suppose that there was something behind our symbols.
-Thus, there are certain cogwheels behind the dial of a clock which produce the
-following movement [...] Similarly, one might think that there is a machinery
-behind the symbols—that behind '(x). ƒx' and 'ƒa' is a machinery which explains
-why one must follow from the other. A Chinese man1 who just sees the symbols
-wouldn't see this machinery. But we who see the machinery see that if there is
-(x). ƒx, there must must be ƒa" (194). 	In the period of 1942-1944,
-Wittgenstein's oblique references to a mechanistic theory of the mind gain a
-more concrete shape: "Does a calculating machine calculate?" (257). The
-question of discursive reading machines of the earlier period, becomes here a
-question of mathematics. And in a similar fashion to his earlier examples,
-Wittgenstein imagines a human calculating machine that could be trained to
-follow the rules of inference blindly, and which is able to "nod its head after
-every correctly drawn conclusion" and to "shake its head at a mistake and
-stopped calculating."  Outside of this capacity this creature would otherwise
-be a perfect imbecile, writes Wittgenstein (258). The possibility of such
-automata hints not only at the mechanization of mathematics (only an enigmatic
-fragment of the sentence here from Wittgenstein on 372), but also at
-mechanization of thought in general.  But could such an automaton be
-calculating (and by extension, thinking)? What if it feels like it is, but is
-not (420)? Conversely, what if we ourselves calculate properly, and yet feel
-like so many automatons, under spell of an unknown deity (422)? This line of
-questioning was certainly already familiar to those students of Wittgenstein
-who attended his earlier lectures at Cambridge, and who undoubtedly have
-participated in his reading-related thought experiments.  Wittgenstein's
-reading and calculating machines were meant to challenge the very notions of
-reading and calculating. But, in his seminal 1936 essay On Computable Numbers,2
-Alan Turing envisions an actual machine that calculates as a matter of
-mathematical principle.3 The machine is fed tape, which Turing imagines to be
-divided into sections called "squares", each "capable of bearing a 'symbol'"
-(Turing 1936, 2). Such symbols would comprise "a state of mind,"4 which in turn
-could be said to govern the behavior of the mechanism.  Furthermore, this
-machine would be capable of "computing any computable sequence." The paper
-broke new ground in mathematics by proving David Hilbert's Entscheidungsproblem
-to be algorithmically unsolvable.5  But for our purposes, it is enough to note
-that in the same paper, Turing envisions a model of human computation, by which
-"we may compare a man in the process of computation to a machine which is only
-capable of a finite number of conditions" (2). The idea is that at some
-pre-conscious moment of calculation (of 2+2, for example), the human subject
-executes some nevertheless formulaic and meaningless rules. And precisely
-because these rules are formulaic and meaningless, a machine capable of
-following any general algorithm (a-machine) could conceivably follow them as
-well.  From this Turing concludes that a) the human mind, at some basic level,
-is a type of a machine, and that b) a machine, supplied with enough tape
-(memory, information) would be able to simulate any act of human cognition.
-The machine capable of computing any computable sequence is capable of thinking
-any thinkable thought—that is the shocking conclusion of Turing's essay.  The
-consequences of that argument went on to shape the field of artificial
-intelligence research for decades to come.  In the 1950 "Computing Machinery
-and Intelligence," which appeared in the journal Mind, Turing returned to the
-problem of machine and human intelligence explicitly (Turing 1950). Here,
-Turing proposes to reformulate Wittgenstein's original question (Can machines
-think?) into what he calls the "imitation game." The format would surely please
-his former professor: three people—a man, a woman, and an interrogator of
-either sex—would communicate by teletype. The object of the game for the
-interrogator is to determine the gender of the individual behind the screen.
-The object of the game for the other two participants is to fool the
-interrogator. And here is the twist: the part of one of the participants (not
-the interrogator) would be played by a machine. The question "Can a machine
-think?" becomes then, "Will the interrogator decide wrongly as often when the
-game is played like this as he does when the game is played between a man and a
-woman?" (Turing 1950, 433).  The striking transposition of the cognitive
-activity (thinking) into its functional discursive equivalent (misrepresenting
-one's identity in writing) echoes Wittgenstein's playful thought experiments.
-The machine that thinks is a machine that tells tall-tales. On this view, a
-convincing imitation of thought is thought. We would simply not be able to
-prove otherwise, without peeking behind the teletype screen to see who or what
-is doing the typing. In that sense, Turing returns to Wittgenstein's refusal to
-locate the mark of the cognitive within any given organ or activity. Thought is
-simply that which looks (sounds, reads) like thought—it is a game that we play,
-and a game that could conceivably be played by other entities, mechanical or
-otherwise. For our purposes, it is interesting to note that Turing's chatbot
-does not simply compute or calculate. It is a literary machine. It does not
-just imitate human logic or speech. Instead, it imitates (performs!) fibbing.
-It is able to imagine a fictional story about an alternative identity, and
-ultimately to convince its reader of the story's veracity. In this shift from
-the cognitive to the discursive, Turing follows the trajectory of
-Wittgenstein's thought experimentation. Moreover, the game is tinged with
-distinctly sexual overtones, and in the context of an interrogation. It is a
-game in which winning means transgressing either one's gender or one's species,
-all the while maintaining a straight face. The proposed language game is not
-simply conversational, it is suspenseful and subversive, having the force of a
-mystery, a detective novel, or a legal drama.6 At one point of the essay Turing
-answers what he calls "the argument from consciousness," quoting one Professor
-Jefferson in saying that it is not "until a machine can write a sonnet or
-compose a concerto because of thoughts and emotions felt, and not by the chance
-fall of symbols, could we agree that machine equals brain—that is, not only
-write it but know that it had written it. No mechanism could feel (and not
-merely artificially signal, an easy contrivance) pleasure at its successes,
-grieve when its valves fuse, be warmed by flattery, be made miserable by its
-mistakes, be charmed by sex, be angry or depressed when it cannot get what it
-wants" (446). In response Turing scripts the following conversation:
-Interrogator: In the first line of your sonnet which reads 'Shall I compare
-thee to 	a summer's day' would not 'a spring day' do as well or better?
-Witness: It would not scan.  Interrogator: How about 'a winter's day.' That
-would scan all right.  Witness: Yes, but nobody want to be compared to a
-winter's day.  Interrogator: Would you say Mr. Pickwick reminded you of
-Christmas?  Witness: In a way.  Interrogator: Yet Christmas is a winter's day,
-and I do not think Mr. Pickwick 	would mind the comparison.  Witness: I
-don't think you're serious. By a winter's day one means a typical 	winter's
-day, rather than a special one like Christmas. (447)
+Cambridge University in 1939 [@wittgenstein_wittgensteins_1976, 7]. From the
+notes complied and published by Cora Diamond, it is clear that Turing was a
+vociferous presence in the class. His name is mentioned 86 times in the text,
+more than any other student by a wide margin. At some point of the course
+Wittgenstein concludes his lecture in saying: "Unfortunately, Turing will be
+away from the next lecture, and therefore that lecture will have to be somewhat
+parenthetical. For it is not good my getting the rest to agree to something
+that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
+
+The lectures touch upon the subject of "logical machinery" obliquely.
+Wittgenstein believes the term itself to be misleading. He writes:
+
+> The idea of logical machinery would suppose that there was something behind
+> our symbols. Thus, there are certain cogwheels behind the dial of a clock
+> which produce the following movement [...] Similarly, one might think that
+> there is a machinery behind the symbols---that behind '(x). ƒx' and 'ƒa' is a
+> machinery which explains why one must follow from the other. A Chinese man
+> who just sees the symbols wouldn't see this machinery.[^ln1-chinese] But we
+> who see the machinery see that if there is (x). ƒx, there must must be ƒa
+> [@wittgenstein_wittgensteins_1976, 194].
+
+In the period of 1942--44, Wittgenstein's oblique references to a mechanistic
+theory of the mind gain a more concrete shape. "Does a calculating machine
+calculate?" he asks in his *Remarks on the Foundations of Mathematics*
+[@wittgenstein_remarks_1978, 257]. The question of discursive reading machines
+of the earlier period, becomes here a question of mathematics.  And in a
+similar fashion to his earlier examples, Wittgenstein imagines a human
+calculating machine that could be trained to follow the rules of inference
+blindly, and which is able to "nod its head after every correctly drawn
+conclusion" and to "shake its head at a mistake and stopped calculating."
+Outside of this capacity this creature would otherwise be a perfect imbecile,
+writes Wittgenstein (258). The possibility of such automata hints not only at
+the mechanization of mathematics (only an enigmatic fragment of the sentence
+here from Wittgenstein on 372), but also at mechanization of thought in
+general.  But could such an automaton be calculating (and by extension,
+thinking)? What if it feels like it is, but is not (420)?  Conversely, what if
+we ourselves calculate properly, and yet feel like so many automatons, under
+spell of an unknown deity (422)? This line of questioning was certainly already
+familiar to those students of Wittgenstein who attended his earlier lectures at
+Cambridge, and who undoubtedly have participated in his reading-related thought
+experiments.  Wittgenstein's reading and calculating machines were meant to
+challenge the very notions of reading and calculating.  But, in his seminal
+1936 essay On Computable Numbers,2 Alan Turing envisions an actual machine that
+calculates as a matter of mathematical principle.3 The machine is fed tape,
+which Turing imagines to be divided into sections called "squares", each
+"capable of bearing a 'symbol'" (Turing 1936, 2). Such symbols would comprise
+"a state of mind,"4 which in turn could be said to govern the behavior of the
+mechanism.  Furthermore, this machine would be capable of "computing any
+computable sequence." The paper broke new ground in mathematics by proving
+David Hilbert's Entscheidungsproblem to be algorithmically unsolvable.5  But
+for our purposes, it is enough to note that in the same paper, Turing envisions
+a model of human computation, by which "we may compare a man in the process of
+computation to a machine which is only capable of a finite number of
+conditions" (2). The idea is that at some pre-conscious moment of calculation
+(of 2+2, for example), the human subject executes some nevertheless formulaic
+and meaningless rules. And precisely because these rules are formulaic and
+meaningless, a machine capable of following any general algorithm (a-machine)
+could conceivably follow them as well.  From this Turing concludes that a) the
+human mind, at some basic level, is a type of a machine, and that b) a machine,
+supplied with enough tape (memory, information) would be able to simulate any
+act of human cognition.  The machine capable of computing any computable
+sequence is capable of thinking any thinkable thought—that is the shocking
+conclusion of Turing's essay.  The consequences of that argument went on to
+shape the field of artificial intelligence research for decades to come. In the
+1950 "Computing Machinery and Intelligence," which appeared in the journal
+Mind, Turing returned to the problem of machine and human intelligence
+explicitly (Turing 1950). Here, Turing proposes to reformulate Wittgenstein's
+original question (Can machines think?) into what he calls the "imitation
+game." The format would surely please his former professor: three people—a man,
+a woman, and an interrogator of either sex—would communicate by teletype. The
+object of the game for the interrogator is to determine the gender of the
+individual behind the screen.  The object of the game for the other two
+participants is to fool the interrogator. And here is the twist: the part of
+one of the participants (not the interrogator) would be played by a machine.
+The question "Can a machine think?" becomes then, "Will the interrogator decide
+wrongly as often when the game is played like this as he does when the game is
+played between a man and a woman?" (Turing 1950, 433).  The striking
+transposition of the cognitive activity (thinking) into its functional
+discursive equivalent (misrepresenting one's identity in writing) echoes
+Wittgenstein's playful thought experiments.  The machine that thinks is a
+machine that tells tall-tales. On this view, a convincing imitation of thought
+is thought. We would simply not be able to prove otherwise, without peeking
+behind the teletype screen to see who or what is doing the typing. In that
+sense, Turing returns to Wittgenstein's refusal to locate the mark of the
+cognitive within any given organ or activity. Thought is simply that which
+looks (sounds, reads) like thought—it is a game that we play, and a game that
+could conceivably be played by other entities, mechanical or otherwise. For our
+purposes, it is interesting to note that Turing's chatbot does not simply
+compute or calculate. It is a literary machine. It does not just imitate human
+logic or speech. Instead, it imitates (performs!) fibbing.  It is able to
+imagine a fictional story about an alternative identity, and ultimately to
+convince its reader of the story's veracity. In this shift from the cognitive
+to the discursive, Turing follows the trajectory of Wittgenstein's thought
+experimentation. Moreover, the game is tinged with distinctly sexual overtones,
+and in the context of an interrogation. It is a game in which winning means
+transgressing either one's gender or one's species, all the while maintaining a
+straight face. The proposed language game is not simply conversational, it is
+suspenseful and subversive, having the force of a mystery, a detective novel,
+or a legal drama.6 At one point of the essay Turing answers what he calls "the
+argument from consciousness," quoting one Professor Jefferson in saying that it
+is not "until a machine can write a sonnet or compose a concerto because of
+thoughts and emotions felt, and not by the chance fall of symbols, could we
+agree that machine equals brain—that is, not only write it but know that it had
+written it. No mechanism could feel (and not merely artificially signal, an
+easy contrivance) pleasure at its successes, grieve when its valves fuse, be
+warmed by flattery, be made miserable by its mistakes, be charmed by sex, be
+angry or depressed when it cannot get what it wants" (446). In response Turing
+scripts the following conversation: Interrogator: In the first line of your
+sonnet which reads 'Shall I compare thee to 	a summer's day' would not 'a
+spring day' do as well or better?  Witness: It would not scan.  Interrogator:
+How about 'a winter's day.' That would scan all right.  Witness: Yes, but
+nobody want to be compared to a winter's day.  Interrogator: Would you say Mr.
+Pickwick reminded you of Christmas?  Witness: In a way.  Interrogator: Yet
+Christmas is a winter's day, and I do not think Mr. Pickwick would mind the
+comparison.  Witness: I don't think you're serious. By a winter's day one means
+a typical winter's day, rather than a special one like Christmas. (447)
 
 Were the part of the Witness played by a machine, the effect could not be
 dismissed as "an easy contrivance," Turing argues (447). And it is not
@@ -676,6 +730,9 @@ unfortunate turn in the history of AI research that Turing's imitation game
 passed from being transgressive gender play to the "Turing Test"—which has much
 more in common with the Cartesian model of intelligence assessment, and much
 less with the inherited legacy of Wittgenstein's thought experimentation.
+
+[^ln1-chinese]: This line is a likely source for John Searle's famouse "Chinese
+Room" experiment [@searle_minds_1980].
 
 ## 1.3 Control
 
