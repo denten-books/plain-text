@@ -20,36 +20,42 @@ header-includes:
 
 # Chapter 1: Laying Bare the Device
 
+## 1.1 Prelude
+
 "The weakest point in our present day universe is the incapacity of man to meet
 the machine, the culture conserve, or the robot, other than through submission,
 actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
 the Austrian-American psychiatrist, Jacob L. Moreno between the years of 1934
-and 1953, in his now seldomly read classic, *Who Shall Survive?* He is
-remembered today as a pioneer of group therapy, an early critic of Freud and
-socialism. Sociologists also occasionally mention his work as precursor to
-network analysis. His books contain beautiful diagrams, sprouting nodes and
-edges, with titles like "Structure of a Cottage Family," "A Handicraft Group,"
-and "The Civilian Social Atom." Yet Moreno was also a humanist and a
-philosopher of technology and culture. In opposition to euginics, popular at
-the time, his answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953,
-245].
+and 1953, in his now seldom read classic, *Who Shall Survive?* He is remembered
+today as a pioneer of group therapy, an early critic of Freud and socialism.
+Sociologists also occasionally mention his work as precursor to network
+analysis. His books contain beautiful diagrams, sprouting nodes and edges, with
+titles like "Structure of a Cottage Family," "A Handicraft Group," and "The
+Civilian Social Atom." Yet Moreno was also a humanist and a philosopher of
+technology and culture. In opposition to eugenics, popular at the time, his
+answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953, 245].
 
 Humanity, according to Moreno, faced two major threats: one embodied in the
-aggression from other human beings, and two, from the aggresion of robots or,
-what Moreno called alternatively, the "cultural conserve" and the "zootechnical
+aggression from other human beings, and two, from the aggression of robots or,
+what Moreno called alternatively the "cultural conserve" and the "zootechnical
 animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more than automated
-creatures. "Machine rule" encompossed all devices, social structures, and
+creatures. "Machine rule" encompassed all devices, social structures, and
 products of the mind that diminished creativity. He wrote: "these methods have
-always amoutned simply to this---to neglect and abandon the genuine and
+always amounted simply to this---to neglect and abandon the genuine and
 outstanding creative process [...] to extinguish all the active, living
 moments, and to strive towards one unchangeable goal: the illusion of the
 finished, perfected product whose assumed perfectibility was an excuse [...]
 for forsaking its past, for preferring one partial phenomenon to the whole
-reality" [@moreno_who_1953, 233]. Such comforting shortcuts reduce humans to
-"machine-addicts," residing in a "jungle of robots" that threatens to crowd out
-all human activity. "The eugenic dreamer and the technological dreamer have one
-idea in common," Moreno wrote, "to substitute and hasten the slow process of
-nature:" 
+reality" [@moreno_who_1953, 233]. The "illusion of the perfected product"
+reduces humans to "machine-addicts," residing in a "jungle of robots" that
+threatens to crowd out all human activity.
+
+In the name of comfort, safety, and prolonged life, technologists and
+population planners disempower the very subjects whose lives they claim to
+preserve. The zootechnical animal substitutes human ability to set goals for
+the promised certainty of a better future. "The eugenic dreamer and the
+technological dreamer have one idea in common," Moreno wrote, "to substitute
+and hasten the slow process of nature:"
 
 > Once the creative process is encapsulated in a book it is *given*; it can be
 recapitulated eternally by everybody without the effort of creating anew.  Once
@@ -58,27 +64,60 @@ can be turned out in infinite numbers practically without effort [...] Once
 that miraculous eugenic formula will be found a human society will be given
 prefect and smooth at birth, like a book of a press [@moreno_who_1953, 236].
 
-Human relationship to
-mechanized "dead" thought was at the center of his practice.
+Like Socrates, from Plato's *Phaedrus*, Moreno distrusts the rote mechanization
+of thought itself. All forms of externalized algorithmic rule fall under
+suspicion: from central planning, to corporate governance, to machine code, and
+legal codex. All such mechanisms serve to externalize and to "conserve"
+volition, at a given point of time. With time, such volition governs without
+consensus or comprehension. Such shards of externalized volition, embodied in
+laws, books, and institutions, proliferate and multiply. Moreno writes:
 
-"Many of the domesticated robots are blessed with the attribute of become
+> Once off the press, the parent, the producer, the author
+is immaterial; the book goes to all places and to all people, it does not care
+where it is read and by whom. Many robots have further in common the attribute
+of comparative immortality. A book, a film, an atomic bomb, they do not perish
+in the human sense, the same capacity is always there, they can be reproduced
+*ad infinitum* [...] Our human world is increasingly filled with robots and
+there seems to be no end to new forms and new developments [@moreno_who_1953,
+239].
+
+In the aftermath of World War II, Moreno expands the first edition of his book
+to include the ultimate automaton, the atomic bomb. "Mankind has been awakened
+form a dream," he writes. The atomic bomb gives humanity a glimpse of its
+common enemy. Technology, in Moreno's sense, does not determine the present
+situation. Rather, an actor in possession of fossilized volition, it competes,
+in Darwinian sense, with living actors. Once set in motion, voluntarily, the
+war machine, like all cultural conserves, continues to do the bidding past
+generations. These structures may no longer be needed or wanted, but because
+they are inorganic, they persist to shape the social and the mental worlds to
+come. Moreno explains:
+
+> Many of the domesticated robots are blessed with the attribute of become
 labor-saving devices, which has, however the unpleasant consequence that they
-at time reduce the need for creating, promoting with leisure also intertia.
-[...] Many of the robots have also the attribute in common of bewing able to
+at time reduce the need for creating, promoting with leisure also inertia.
+[...] Many of the robots have also the attribute in common of being able to
 affect human beings or other "targets at a distance," a book, a radio or a
 television sender can entertain or teach at a distance, like a gun, a rocket
 and an atomic bomb can kill people and destroy at a distance. The book is a
-robot par excellence. 
+robot par excellence [@moreno_who_1953, 238].
 
-Once off the press, the parent, the producer, the author
-is immaterial; the book goes to all places and to all people, it doe not care
-where it is read and by whom. Many robots have further in common the attribute
-of comparative immortality. A book, a film, an atomic bomb, they do not perish
-in the human sense, the same capacity is always there, they can be reproduced *ad
-infinitum. [...] Our human world is incresingly filled with robots there there
-seems to be no ned to new forms and new developments. Since man cam outof the
-jungle, its master, he did not have a similar maze of threats to face---the
-jungle of robots" [@moreno_who_1953, 239].
+The inertia of past decisions, embodied in extant mechanisms ultimately poses a
+threat for human survival. For Moreno, the real competition for survival was
+not between individuals, sects, races, or nations, but between humanity and its
+zombie-like past automatons. The only way to compete with the robot was for him
+to expand the human "cultural capacity for creation." The biological being has
+only this one advantage over the zootechnical animal: spontaneity. But the
+capacity to free will and to creation has to be preserved and advanced through
+training. Moreno's therapy practice was built on the principle of spontaneity,
+aimed at the construction of communities that acknowledge and preserve
+individual agency. As far as I can tell from the records, the practice involved
+group improvisation, in what Moreno called the "techniques of freedom" that
+that that aims to "balance spontaneous social forces to the greatest possible
+harmony an unity of all" [@moreno_who_1953, 8].
+
+I leave Moreno here, with thoughts of weaponized
+
+## 1.2 Literary Device as Gadget and Technique
 
 universal Turing machine as a book---an instrument for symbolic
 exchange---means to recover the physical roots of computation.  When viewed in
@@ -113,8 +152,6 @@ includes lyric poetry and symbolic logic.
 In this chapter I would like to convince the reader to view text, in all its
 computationally-mediated forms---files, "print outs, "web pages," electronic
 books---as a device.
-
-## 1.1 Literary Device as Gadget and Technique
 
 What is a literary device? The formal concept of a "device," widely used in
 literary studies, is an artifact of an unfortunate translation from Russian.
@@ -360,7 +397,7 @@ more detailed discussion follows in 1.2.
 [^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
 experience, despite the overwhelming evidence for determinism.
 
-## 1.2 The Nature of the Simulation
+## 1.3 The Nature of the Simulation
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
@@ -376,7 +413,7 @@ light: not as byproduct of quantification, but as a universal symbol
 manipulator, a metaphor machine: a machine for the ingesting and regurgitating
 metaphors.
 
-## 1.3 What It Is
+## 1.4 What It Is
 
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Yet it is also a source of considerable debate, misunderstanding,
@@ -493,7 +530,7 @@ hints at the idea of computation as a model for human thought. The literature
 on the so-called "computational theory of mind" cites Turing's work extensively
 for this reason [@fodor_language_1975; @putnam_representation_1988].
 
-## 1.4 Intellectual Context (intellectual history)
+## 1.5 Intellectual Context
 
 Turing's paper should hold interest for literary scholars because it presents a
 minimally viable model for generalized symbolic manipulation: reading and
@@ -716,7 +753,7 @@ Imitation game == mimesis, simulation.
 [^ln1-chinese]: This line is a likely source for John Searle's famouse "Chinese
 Room" experiment [@searle_minds_1980].
 
-## 1.5 Content and Control (material history)
+## 1.6 Content and Control (Material Context)
 
 All Turing machines, however imperfect, occupy that ambiguous space between
 theory and practice. The personal computer, the hand-held "mobile" telephone,
@@ -990,7 +1027,7 @@ appropriate internalization of the symbol, for both human and machine.
 engineering and computer science is a common occurance in North American
 universities.
 
-## 1.6 Splitting the Sign
+## 1.7 Splitting the Sign
 
 That history begins with the human capacity to externalize images. It proceeds
 with the invention of writing: a formal constraint on the image, adding a level
