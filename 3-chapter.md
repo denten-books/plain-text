@@ -22,9 +22,9 @@ Tie to the first two chapters. Easy multiplicity of documents.
 Bring in Trilling? Digitality as something imposed from without or imposed on
 us! Because the book is different it fucks with authenticity.
 
-# Chapter 2: Splitting the Sign
+# Chapter 3: Splitting the Sign
 
-### 1.3.2 WYSINAWYG (What You See Is Not Always What You Get)
+## 3.1 WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen

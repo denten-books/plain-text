@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 3: Simulated Text"
+subtitle: "Chapter 2: Simulated Text"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -18,9 +18,9 @@ header-includes:
 
 ---
 
-# Chapter 3: Simulated Text
+# Chapter 2: Simulated Text
 
-## 1.3 Metaphor Machine
+## 2.1 Metaphor Machine
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: virtual reality,
@@ -187,7 +187,7 @@ technologies like natural language processing and optical character recognition
 struggle to bring non-regularized writing systems under the computational
 umbrella.
 
-## 3.3 Form as Concrete and Universal
+## 2.2 Form as Concrete and Universal
 
 What does it mean to have "depth" in writing? Understood literally, the
 question has lead us to the various surfaces on which inscription can take
@@ -402,7 +402,7 @@ matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conciet and device, where the embodied
 meets the ideal.
 
-## 3.4 Sound and Formula
+## 2.3 Sound and Formula
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -672,7 +672,7 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning," in these not at all futuristic conditions,[^ln3-reading]
 involves turning hermeneutics into reverse engineering.
 
-## 3.5 Document Object Model (DOM)
+## 2.4 Document Object Model (DOM)
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -895,7 +895,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 
 
 
-## Marx upside down
+## 2.5 Marx upside down
 
 It is this last and still current moment of historical development that is
 least theorized. A dominant tradition in the history of the human sciences

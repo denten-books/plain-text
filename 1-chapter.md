@@ -115,7 +115,17 @@ group improvisation, in what Moreno called the "techniques of freedom" that
 that that aims to "balance spontaneous social forces to the greatest possible
 harmony an unity of all" [@moreno_who_1953, 8].
 
-I leave Moreno here, with thoughts of weaponized
+I leave Moreno here, with thoughts of hydrogen bombs and weaponized books.
+Indeed the book makes for an excellent robot. If a conversation is a temporary
+communicattive link between two people, a book is a device for delayed
+conversation. It affects targets at a distance, decaupling readers and writers
+in time and space. In this chapter, my aim is to convince my reader to
+encounter the book anew, as machine and device. The device-like property of
+computed text in particular, as opposed to print, holds severe consequences for
+the practices of reading, writing, and interpretation. But before we can begin
+to disccuss those consequences, we must understand the nature of the
+bibliographic illusion. To percieve the thingness of "digital" text is to
+see it in context of the history of computation.
 
 ## 1.2 Literary Device as Gadget and Technique
 

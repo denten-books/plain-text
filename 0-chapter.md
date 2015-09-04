@@ -69,9 +69,9 @@ The diffusion of simulated text will lead us to an archive of source materials
 somewhat unusual for a work on literary theory. It will allow us to perceive
 computation as a type of a literary activity, comprehensible in the lineage of
 symbolism and book history. In search for the location of the symbol, we will
-encounter a number of symbol-manipulating devices that facilitate the
-production of text. These will be found on the pages of mathematical journals
-and in patent portfolios. Their ubiquity necessitates our attention. Three such
+explore a number of symbol-manipulating devices that facilitate the production
+of text. These will be found on the pages of mathematical journals and in
+patent portfolios. Their ubiquity necessitates our attention. Three such
 devices, which have fundamentally changed the nature of the literary encounter,
 will emerge by the end of the chapter. Together, they tell the story of a
 bargain that defines human--computer interaction: to trade facility for
