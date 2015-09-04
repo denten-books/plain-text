@@ -25,11 +25,40 @@ the machine, the culture conserve, or the robot, other than through submission,
 actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
 the Austrian-American psychiatrist, Jacob L. Moreno between the years of 1934
 and 1953, in his now seldomly read classic, *Who Shall Survive?* He is
-remembered today as a pioneer of group therapy. Sociologists also occasionally
-mention his work as an early precursor to network analysis. His books contains
-beautiful diagrams, sprouting nodes and edges, with titles like "Structure of a
-Cottage Family," "A Handicraft Group," and "The Civilian Social Atom." Yet
-Moreno was also a philosopher of technology and culture. Human relationship to
+remembered today as a pioneer of group therapy, an early critic of Freud and
+socialism. Sociologists also occasionally mention his work as precursor to
+network analysis. His books contain beautiful diagrams, sprouting nodes and
+edges, with titles like "Structure of a Cottage Family," "A Handicraft Group,"
+and "The Civilian Social Atom." Yet Moreno was also a humanist and a
+philosopher of technology and culture. In opposition to euginics, popular at
+the time, his answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953,
+245].
+
+Humanity, according to Moreno, faced two major threats: one embodied in the
+aggression from other human beings, and two, from the aggresion of robots or,
+what Moreno called alternatively, the "cultural conserve" and the "zootechnical
+animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more than automated
+creatures. "Machine rule" encompossed all devices, social structures, and
+products of the mind that diminished creativity. He wrote: "these methods have
+always amoutned simply to this---to neglect and abandon the genuine and
+outstanding creative process [...] to extinguish all the active, living
+moments, and to strive towards one unchangeable goal: the illusion of the
+finished, perfected product whose assumed perfectibility was an excuse [...]
+for forsaking its past, for preferring one partial phenomenon to the whole
+reality" [@moreno_who_1953, 233]. Such comforting shortcuts reduce humans to
+"machine-addicts," residing in a "jungle of robots" that threatens to crowd out
+all human activity. "The eugenic dreamer and the technological dreamer have one
+idea in common," Moreno wrote, "to substitute and hasten the slow process of
+nature:" 
+
+> Once the creative process is encapsulated in a book it is *given*; it can be
+recapitulated eternally by everybody without the effort of creating anew.  Once
+a machine for a certain pattern of performance is invented a certain produce
+can be turned out in infinite numbers practically without effort [...] Once
+that miraculous eugenic formula will be found a human society will be given
+prefect and smooth at birth, like a book of a press [@moreno_who_1953, 236].
+
+Human relationship to
 mechanized "dead" thought was at the center of his practice.
 
 "Many of the domesticated robots are blessed with the attribute of become
@@ -39,7 +68,9 @@ at time reduce the need for creating, promoting with leisure also intertia.
 affect human beings or other "targets at a distance," a book, a radio or a
 television sender can entertain or teach at a distance, like a gun, a rocket
 and an atomic bomb can kill people and destroy at a distance. The book is a
-robot par excellence. Once off the press, the parent, the producer, the author
+robot par excellence. 
+
+Once off the press, the parent, the producer, the author
 is immaterial; the book goes to all places and to all people, it doe not care
 where it is read and by whom. Many robots have further in common the attribute
 of comparative immortality. A book, a film, an atomic bomb, they do not perish
