@@ -132,7 +132,7 @@ businessmen, and media theorists. What looks like a book is indeed also a gun
 and a trigger. I mean this literally: it comprises a part of the same
 computational platform that powers drones and aircraft carriers. Today, the
 servers that belong to one of the world's largest purveyors of literature are
-shared by also by air traffic control the National Security Administration.
+shared also by air traffic control the National Security Administration.
 
 In these conditions we---humanists, historians, philologists---must reconsider
 the easy relationship we had with the material conditions of textuality. The
@@ -140,46 +140,17 @@ bibliographic illusion veils device internals. Yet the book as a computed
 object no longer plays by the same rules as print. The universal Turing
 machine, from which all computational devices inherit, is ultimately a species
 of a control mechanism. Yet the Turing machine, and subsequently all computers,
-belong, in part, to the long history of the book. We therefore face two
-challenges in this chapter: one to rediscover the book in the history of
-computation, and two, to place computation in the wider context of book
-history.
+belong also, in part, to the long history of the book. To preserve agency and
+to break the inertia of leisurely reading, we must rediscover the book as a
+device; to call it forth for what it is and always was: a robot for
+reconfiguring thought at a distance; and to bring it back under their purview of
+interpretation.
+
+I therefore offer two pre-histories in this chapter, one that uncovers the
+universal machine as an idea closely related to books and reading, and another
+that sees books as part of a lineage of control devices.
 
 ## 1.2 Literary Device as Gadget and Technique
-
-universal Turing machine as a book---an instrument for symbolic
-exchange---means to recover the physical roots of computation.  When viewed in
-the context of book history, the universal Turing machine signifies a
-consummation of several broad, long-term trends that begin with the invention
-of writing itself. The God of the Hebrew Bible etched his commandments into
-stone (Exodus 34:1). Moses broke the first set of tablets, but the word
-remained, for a time, immutable. The material history of literary computing
-begins with petrified words that endure forever, and ends with word as an
-electrical charge: animated, radiant, fluid, and iridescent
-[@mcgann_radiant_2001; @bryant_fluid_2002].
-
-The long history of the word proceeds in stages, from the immutable sign to the
-universal implement, capable of reproducing all symbolic representation
-dynamically. The universal Turing machine culminates the development of the
-symbol. Through it, the symbol gains its ideal form, capable of representing
-everything that can be represented. All further symbolic engines constitute
-lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
-machine itself is also limited to an ideal. It can only exist as a thought
-experiment. All real-world Turing machines must contain non-representational
-elements, dispelling the illusion of immateriality.
-
-Although much of contemporary popular discourse on computation speaks the
-language of disruption, the history of computational symbolism, of the sort I
-am suggesting here, must be seen as an evolutionary trajectory.
-
-If a symbol, something used to represent something else, elicits a type of an
-illusion, the universal symbolic machine enacts the ultimate illusion. It
-creates a phantasmal image of symbolism itself. The history of computing is
-thus a history of symbolism in the broadest possible meaning of the word, which
-includes lyric poetry and symbolic logic. 
-In this chapter I would like to convince the reader to view text, in all its
-computationally-mediated forms---files, "print outs, "web pages," electronic
-books---as a device.
 
 What is a literary device? The formal concept of a "device," widely used in
 literary studies, is an artifact of an unfortunate translation from Russian.
@@ -318,7 +289,7 @@ paper to glass.
 Readers bear the burden of conceptual transference (like the turning of pages).
 In pretending to turn "pages," a reader loses sight of the structures producing
 the simulation. Some would object that such structures are irrelevant or not
-interesting: one does not need to be a mechanic to drive a car, as the saying
+interesting: "one does not need to be a mechanic to drive a car," as the saying
 goes. Yet, particularly in the case of literary devices, the concealed
 mechanisms concern the structuring of privileged cognitive, as opposed to
 other, let us say more pedestrian, facilities. If an automobile extends the
@@ -352,7 +323,7 @@ systems. It reveals real material affordances behind the symbol.
 The simulation conceals structuring principles large and small. Some of the
 concealed details may remain inconsequential, like the limit on how many keys
 can be pressed at once without overwhelming the circuitry of the keyboard.
-Other concealed details are of paramaount importance, like digital rights
+Other concealed details are of paramount importance, like digital rights
 management chips and censorship filters. Like the smoke alarm, literary gadgets
 are governed and internalize government structures in ways that we have only
 begun to comprehend. The material affordances of device--bound textuality
@@ -366,7 +337,7 @@ writes about the "range of social and political changes" related to the
 invention of writing. For Ricoeur, human discourse is "fixed" and thereby
 "preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
-The literary device offers no such permanence, neither in sumulation nor in
+The literary device offers no such permanence, neither in simulation nor in
 diffusion. The very meanings of "fixed," "permanent," and "repeatable" change
 with the medium. The engineering of literary artifacts conceals a number of
 design choices, obscuring the flows of code and codex under the familiar guise
@@ -720,7 +691,7 @@ familiar to those students of Wittgenstein who attended his earlier lectures at
 Cambridge, and who undoubtedly have participated in his reading-related thought
 experiments.  Wittgenstein's reading and calculating machines were meant to
 challenge the very notions of reading and calculating.  But, in his seminal
-1936 essay On Computable Numbers,2 
+1936 essay On Computable Numbers,2
 
 Turing returned to the problem of machine and human intelligence explicitly
 (Turing 1950). Here, Turing proposes to reformulate Wittgenstein's original
@@ -744,7 +715,7 @@ returns to Wittgenstein's refusal to locate the mark of the cognitive within
 any given organ or activity. Thought is simply that which looks (sounds, reads)
 like thought—it is a game that we play, and a game that could conceivably be
 played by other entities, mechanical or otherwise. For our purposes, it is
-interesting to note that Turing's chatbot does not simply compute or calculate.
+interesting to note that Turing's chat-bot does not simply compute or calculate.
 It is a literary machine. It does not just imitate human logic or speech.
 Instead, it imitates (performs!) fibbing.  It is able to imagine a fictional
 story about an alternative identity, and ultimately to convince its reader of
@@ -781,6 +752,39 @@ Room" experiment [@searle_minds_1980].
 
 ## 1.5 Content and Control (Material Context)
 
+The God of the Hebrew Bible etched his commandments into stone (Exodus 34:1).
+Moses broke the first set of tablets, but the word remained, for a time,
+immutable. The material history of literary computing begins with petrified
+words that endure forever, and ends with word as an electrical charge:
+animated, radiant, fluid, and iridescent [@mcgann_radiant_2001;
+@bryant_fluid_2002].
+
+exchange---means to recover the physical roots of computation.  When viewed in
+the context of book history, the universal Turing machine signifies a
+consummation of several broad, long-term trends that begin with the invention
+of writing itself. 
+
+The long history of the word proceeds in stages, from the immutable sign to the
+universal implement, capable of reproducing all symbolic representation
+dynamically. The universal Turing machine culminates the development of the
+symbol. Through it, the symbol gains its ideal form, capable of representing
+everything that can be represented. All further symbolic engines constitute
+lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
+machine itself is also limited to an ideal. It can only exist as a thought
+experiment. All real-world Turing machines must contain non-representational
+elements, dispelling the illusion of immateriality.
+
+Although much of contemporary popular discourse on computation speaks the
+language of disruption, the history of computational symbolism, of the sort I
+am suggesting here, must be seen as an evolutionary trajectory.
+
+If a symbol, something used to represent something else, elicits a type of an
+illusion, the universal symbolic machine enacts the ultimate illusion. It
+creates a phantasmal image of symbolism itself. The history of computing is
+thus a history of symbolism in the broadest possible meaning of the word, which
+includes lyric poetry and symbolic logic.  In this chapter I would like to
+convince the reader to view text, in all its computationally-mediated
+forms---files, "print outs, "web pages," electronic books---as a device.
 All Turing machines, however imperfect, occupy that ambiguous space between
 theory and practice. The personal computer, the hand-held "mobile" telephone,
 and the electronic book "reader" share in the legacy of Turing's computation.
