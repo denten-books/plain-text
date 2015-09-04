@@ -26,12 +26,11 @@ actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
 the Austrian-American psychiatrist, Jacob L. Moreno between the years of 1934
 and 1953, in his now seldomly read classic, *Who Shall Survive?* He is
 remembered today as a pioneer of group therapy. Sociologists also occasionally
-mention his work as an early precursor to network analysis. His books contain
+mention his work as an early precursor to network analysis. His books contains
 beautiful diagrams, sprouting nodes and edges, with titles like "Structure of a
 Cottage Family," "A Handicraft Group," and "The Civilian Social Atom." Yet
-Moreno was also a philosopher of technology and culture. The question at
-
-"`
+Moreno was also a philosopher of technology and culture. Human relationship to
+mechanized "dead" thought was at the center of his practice.
 
 "Many of the domesticated robots are blessed with the attribute of become
 labor-saving devices, which has, however the unpleasant consequence that they
