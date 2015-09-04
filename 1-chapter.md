@@ -35,11 +35,11 @@ Civilian Social Atom." Yet Moreno was also a humanist and a philosopher of
 technology and culture. In opposition to eugenics, popular at the time, his
 answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953, 245].
 
-Humanity, according to Moreno, faced two major threats: one embodied in the
-aggression from other human beings, and two, from the aggression of robots or,
+Humanity, according to Moreno, faced two major threats: first embodied in the
+aggression from other human beings, and second, in the aggression of robots or,
 what Moreno called alternatively the "cultural conserve" and the "zootechnical
-animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more than automated
-creatures. "Machine rule" encompassed all devices, social structures, and
+animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more than mechanized
+automatons. "Machine rule" encompassed all devices, social structures, and
 products of the mind that diminished creativity. He wrote: "these methods have
 always amounted simply to this---to neglect and abandon the genuine and
 outstanding creative process [...] to extinguish all the active, living
@@ -117,15 +117,33 @@ harmony an unity of all" [@moreno_who_1953, 8].
 
 I leave Moreno here, with thoughts of hydrogen bombs and weaponized books.
 Indeed the book makes for an excellent robot. If a conversation is a temporary
-communicattive link between two people, a book is a device for delayed
-conversation. It affects targets at a distance, decaupling readers and writers
-in time and space. In this chapter, my aim is to convince my reader to
-encounter the book anew, as machine and device. The device-like property of
-computed text in particular, as opposed to print, holds severe consequences for
-the practices of reading, writing, and interpretation. But before we can begin
-to disccuss those consequences, we must understand the nature of the
-bibliographic illusion. To percieve the thingness of "digital" text is to
-see it in context of the history of computation.
+communicative link between two people, a book is a device for delayed
+conversation. It affects targets at a distance, decoupling readers and writers
+in time and space. We are habituated to see the book as a simple thing made of
+ink, cloth, and paper. In this chapter, my aim is to convince the reader to
+encounter the book anew as a complex system. The device-like property of
+computed text in particular, when compared to print, holds severe consequences
+for the practices of reading, writing, and interpretation. Where in the 1930s
+one could view Moreno book--bomb as a fanciful, technophobic even, view of
+literary technology, a century later his concern seems pressing and prescient.
+The unintended consequences of automated agents, from artificial intelligence
+to market trading algorithms, are beginning to worry prominent scientists,
+businessmen, and media theorists. What looks like a book is indeed also a gun
+and a trigger. I mean this literally: it comprises a part of the same
+computational platform that powers drones and aircraft carriers. Today, the
+servers that belong to one of the world's largest purveyors of literature are
+shared by also by air traffic control the National Security Administration.
+
+In these conditions we---humanists, historians, philologists---must reconsider
+the easy relationship we had with the material conditions of textuality. The
+bibliographic illusion veils device internals. Yet the book as a computed
+object no longer plays by the same rules as print. The universal Turing
+machine, from which all computational devices inherit, is ultimately a species
+of a control mechanism. Yet the Turing machine, and subsequently all computers,
+belong, in part, to the long history of the book. We therefore face two
+challenges in this chapter: one to rediscover the book in the history of
+computation, and two, to place computation in the wider context of book
+history.
 
 ## 1.2 Literary Device as Gadget and Technique
 
@@ -423,8 +441,6 @@ light: not as byproduct of quantification, but as a universal symbol
 manipulator, a metaphor machine: a machine for the ingesting and regurgitating
 metaphors.
 
-## 1.4 What It Is
-
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Yet it is also a source of considerable debate, misunderstanding,
 and controversy, because it poses a fundamental paradox. Turing imagined his
@@ -540,7 +556,7 @@ hints at the idea of computation as a model for human thought. The literature
 on the so-called "computational theory of mind" cites Turing's work extensively
 for this reason [@fodor_language_1975; @putnam_representation_1988].
 
-## 1.5 Intellectual Context
+## 1.4 Intellectual Context
 
 Turing's paper should hold interest for literary scholars because it presents a
 minimally viable model for generalized symbolic manipulation: reading and
@@ -763,7 +779,7 @@ Imitation game == mimesis, simulation.
 [^ln1-chinese]: This line is a likely source for John Searle's famouse "Chinese
 Room" experiment [@searle_minds_1980].
 
-## 1.6 Content and Control (Material Context)
+## 1.5 Content and Control (Material Context)
 
 All Turing machines, however imperfect, occupy that ambiguous space between
 theory and practice. The personal computer, the hand-held "mobile" telephone,
@@ -1037,7 +1053,7 @@ appropriate internalization of the symbol, for both human and machine.
 engineering and computer science is a common occurance in North American
 universities.
 
-## 1.7 Splitting the Sign
+## 1.6 Splitting the Sign
 
 That history begins with the human capacity to externalize images. It proceeds
 with the invention of writing: a formal constraint on the image, adding a level
