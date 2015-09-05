@@ -553,16 +553,16 @@ should not count as "reading" proper. Reading, Wittgenstein suggests, involves
 some correlation between internal and external states.
 
 To further probe our intuitions in that regard, Wittgenstein asks his readers
-to imagine an experimental "human reading machine," which somewhat unlike the
+to imagine an experimental "human reading machine," which, somewhat unlike the
 child in the previous example, produces random sounds when following a text.
 Most of the time, the randomized sounds do not correspond with the words on the
 page. But sometimes they do, by accident. In that case, a newcomer observing
-the experiment may mistake the accidental correspondence for reading proper.
-The scientist who knows how the machine works would obviously object. But what
-would we say if such a "biological machine" were to correspond letters to
-appropriate sounds with greater frequency, asks Wittgenstein. Has it learned to
-read? And does consistent coincidence differ from conscious, concerted action
-[@wittgeFIX, 120-121]?
+the experiment could mistake the accidental correspondence for reading proper.
+The scientist who knows how the machine works would obviously object to the
+layman's assessment. But what would we say if such a "biological machine" were
+to correspond letters to appropriate sounds with greater frequency, asks
+Wittgenstein. Has it learned to read? And does consistent coincidence differ
+from conscious, concerted action [@wittgeFIX, 120-121]?
 
 In his characteristically cryptic manner, Wittgenstein defers the question by
 the means of yet another analogy:
@@ -642,21 +642,7 @@ machine cognition (or cognition in general). From the onset of the conversation
 that question was deferred by a chain of analogies, which took us from thinking
 machines, to eloquent amoebas, and to human reading automata.
 
-For those familiar with Wittgenstein's thought, we arrive then at a fairly
-expected conclusion: cognitive processes like thinking and reading are defined
-through usage, in a descriptive rather than a proscriptive manner. In that
-sense, we can already anticipate the pragmatic attitude towards artificial
-intelligence of those, who like Alan Turing, have advocated a set of purely
-functional litmus tests as criteria for ascertaining intelligence of non-human
-entities. On that view, the given activity does not have to correspond to any
-state or a definition. It must merely enter the stream of appropriate social
-practice.
-
-Unexpected however, are several odd and persistent features of Wittgenstein's
-thought on artificial intelligence. The first is a willful blurring of the
-boundary between the human and the mechanical. From *Philosophical Grammar* to
-*Philosophical Investigations*,  Wittgenstein speaks of the human body as a
-kind of a machine, and of machines as a type of a body.3 To what extent do such
+For those familiar and of machines as a type of a body.3 To what extent do such
 statements function as a metaphor or as a provocation is unclear in the context
 of our discussion, though the second feature comes into a much sharper relief.
 In almost every passage I have examined here Wittgenstein's thought experiments
@@ -770,7 +756,10 @@ Christmas is a winter's day, and I do not think Mr. Pickwick would mind the
 comparison.  Witness: I don't think you're serious. By a winter's day one means
 a typical winter's day, rather than a special one like Christmas. (447)
 
-Imitation game == mimesis, simulation.
+Add Plato. Reading is proper internalization. Interpretation is the scanned
+symbol + state of the machine.
+
+Literature as imitation game == mimesis, simulation.
 
 [^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
 Room" experiment [@searle_minds_1980].
