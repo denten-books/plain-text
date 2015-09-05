@@ -48,7 +48,8 @@ finished, perfected product whose assumed perfectibility was an excuse [...]
 for forsaking its past, for preferring one partial phenomenon to the whole
 reality" [@moreno_who_1953, 233]. The "illusion of the perfected product"
 reduces humans to "machine-addicts," residing in a "jungle of robots" that
-threatens to crowd out all human activity.
+threatens to crowd out all spotanious activity. Through robots, life becomes a
+script.
 
 In the name of comfort, safety, and prolonged life, technologists and
 population planners disempower the very subjects whose lives they claim to
@@ -64,7 +65,7 @@ can be turned out in infinite numbers practically without effort [...] Once
 that miraculous eugenic formula will be found a human society will be given
 prefect and smooth at birth, like a book of a press [@moreno_who_1953, 236].
 
-Like Socrates, from Plato's *Phaedrus*, Moreno distrusts the rote mechanization
+Like Socrates from Plato's *Phaedrus*, Moreno distrusts the rote mechanization
 of thought itself. All forms of externalized algorithmic rule fall under
 suspicion: from central planning, to corporate governance, to machine code, and
 legal codex. All such mechanisms serve to externalize and to "conserve"
@@ -81,16 +82,16 @@ in the human sense, the same capacity is always there, they can be reproduced
 there seems to be no end to new forms and new developments [@moreno_who_1953,
 239].
 
-In the aftermath of World War II, Moreno expands the first edition of his book
+In the aftermath of World War II, Moreno expanded the first edition of his book
 to include the ultimate automaton, the atomic bomb. "Mankind has been awakened
 form a dream," he writes. The atomic bomb gives humanity a glimpse of its
-common enemy. Technology, in Moreno's sense, does not determine the present
-situation. Rather, an actor in possession of fossilized volition, it competes,
-in Darwinian sense, with living actors. Once set in motion, voluntarily, the
-war machine, like all cultural conserves, continues to do the bidding past
-generations. These structures may no longer be needed or wanted, but because
-they are inorganic, they persist to shape the social and the mental worlds to
-come. Moreno explains:
+common enemy. Technology, for Moreno, does not determine the present situation.
+Rather, a mindless actor in possession of fossilized volition, it competes, in
+Darwinian sense, with living actors. Once set in motion, voluntarily, by
+humans, the war machine and the book alike, as all cultural conserves, continue
+to do their bidding. These structures may no longer be needed or wanted, but
+because they are inorganic, they persist to shape the social and the mental
+worlds to come. Moreno explains:
 
 > Many of the domesticated robots are blessed with the attribute of become
 labor-saving devices, which has, however the unpleasant consequence that they
@@ -101,54 +102,59 @@ television sender can entertain or teach at a distance, like a gun, a rocket
 and an atomic bomb can kill people and destroy at a distance. The book is a
 robot par excellence [@moreno_who_1953, 238].
 
-The inertia of past decisions, embodied in extant mechanisms ultimately poses a
-threat for human survival. For Moreno, the real competition for survival was
-not between individuals, sects, races, or nations, but between humanity and its
-zombie-like past automatons. The only way to compete with the robot was for him
-to expand the human "cultural capacity for creation." The biological being has
-only this one advantage over the zootechnical animal: spontaneity. But the
-capacity to free will and to creation has to be preserved and advanced through
-training. Moreno's therapy practice was built on the principle of spontaneity,
-aimed at the construction of communities that acknowledge and preserve
-individual agency. As far as I can tell from the records, the practice involved
-group improvisation, in what Moreno called the "techniques of freedom" that
-that that aims to "balance spontaneous social forces to the greatest possible
-harmony an unity of all" [@moreno_who_1953, 8].
+The inertia of past decisions embodied in extant mechanisms ultimately poses a
+threat for human survival. For Moreno, the real competition for survival
+happens not between persons, sects, races, or nations, but between humanity and
+its zombie-like automatons from the past. The only way to compete with the
+robot was for him to expand the human cultural capacity for creation. The
+biological being has only this one advantage over the zootechnical animal:
+spontaneity. But the capacity to free will and to creation has to be
+continuously guarded against lethargy and advanced through training. The
+machines of yore ease the burden of creation. In reducing labor, they enfeeble
+the creative capacity. Moreno's therapy practice was therefoe built on the
+principle of spontaneity training, aimed at the construction of communities
+that acknowledge and preserve individual agency. As far as I can tell from the
+records, the practice involved group improvisation, in what Moreno called the
+"techniques of freedom," which aimed to "balance spontaneous social forces to
+the greatest possible harmony an unity of all" [@moreno_who_1953, 8].
 
-I leave Moreno here, with thoughts of hydrogen bombs and weaponized books.
-Indeed the book makes for an excellent robot. If a conversation is a temporary
-communicative link between two people, a book is a device for delayed
-conversation. It affects targets at a distance, decoupling readers and writers
-in time and space. We are habituated to see the book as a simple thing made of
-ink, cloth, and paper. In this chapter, my aim is to convince the reader to
-encounter the book anew as a complex system. The device-like property of
-computed text in particular, when compared to print, holds severe consequences
-for the practices of reading, writing, and interpretation. Where in the 1930s
-one could view Moreno book--bomb as a fanciful, technophobic even, view of
-literary technology, a century later his concern seems pressing and prescient.
-The unintended consequences of automated agents, from artificial intelligence
-to market trading algorithms, are beginning to worry prominent scientists,
-businessmen, and media theorists. What looks like a book is indeed also a gun
-and a trigger. I mean this literally: it comprises a part of the same
-computational platform that powers drones and aircraft carriers. Today, the
-servers that belong to one of the world's largest purveyors of literature are
-shared also by air traffic control the National Security Administration.
+I leave Moreno here, with thoughts of hydrogen bombs and books, considered as
+part of the same mechanized plane. The book does make for an excellent robot.
+If a conversation is a temporary communicative link between two people, a book
+is a device for delayed conversation. It affects targets at a distance,
+decoupling readers and writers in time and space. We are habituated to see the
+book as a simple thing made of ink, cloth, and paper. It never was so. In this
+chapter, my aim is to convince the reader to encounter the book anew as a
+complex system. The device-like property of computed text especially, when
+compared to print, holds severe consequences for the practices of reading,
+writing, and interpretation.
+
+Where in the 1930s one could view Moreno book--bomb as a fanciful, technophobic
+even, view of literary technology, a century later his concern seems pressing
+and prescient. The unintended consequences of disembodied and automated agency,
+from artificially intelligent personal assistants to market trading algorithms,
+are beginning to worry prominent scientists, businessmen, and media theorists.
+What looks like a book really is also a gun and a trigger. I mean this
+literally: it comprises a part of the same computational platform that powers
+drones and aircraft carriers. Today, the "servers" that serve the world's
+largest purveyors of literature service also air traffic control and the
+National Security Administration.
 
 In these conditions we---humanists, historians, philologists---must reconsider
-the easy relationship we had with the material conditions of textuality. The
-bibliographic illusion veils device internals. Yet the book as a computed
-object no longer plays by the same rules as print. The universal Turing
-machine, from which all computational devices inherit, is ultimately a species
-of a control mechanism. Yet the Turing machine, and subsequently all computers,
-belong also, in part, to the long history of the book. To preserve agency and
-to break the inertia of leisurely reading, we must rediscover the book as a
-device; to call it forth for what it is and always was: a robot for
-reconfiguring thought at a distance; and to bring it back under their purview of
+the easy relationship we enjoyed with pen and paper, the material conditions of
+textuality. The siumlated book no longer plays by the same rules as print. The
+bibliographic illusion veils device internals. The universal Turing machine,
+from which all computational devices inherit, reveals itself ultimately as a
+species of control mechanisms. Yet the Turing machine, and subsequently all
+computers, belong also, in part, to the long history of the book. To preserve
+agency and to break the inertia of leisurely reading, we must rediscover the
+book as a device; to call it forth for what it is and always was---a robot for
+effecting thought at a distance; and to bring it back under the purview of
 interpretation.
 
-I therefore offer two pre-histories in this chapter, one that uncovers the
-universal machine as an idea closely related to books and reading, and another
-that sees books as part of a lineage of control devices.
+I offer two pre-histories in this chapter, one that uncovers the universal
+machine as an idea closely related to books and reading, and another that sees
+it as sharing in the lineage of control devices.
 
 ## 1.2 Literary Device as Gadget and Technique
 
