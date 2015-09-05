@@ -414,9 +414,8 @@ intellectual, stemming back to his tutelage under Ludwig Wittgenstein, and the
 second material, highlighting the physical similarities between Turing's design
 and a number of concomitant developments in printing and communication. This
 history is important because it allows us to see the simulated book in a new
-light: not as byproduct of quantification, but as a universal symbol
-manipulator, a metaphor machine: a machine for the ingesting and regurgitating
-metaphors.
+light: not as byproduct of quantification, but as a metaphor machine,
+capable of universal symbol manipulation.
 
 More than any other mechanism, the Turing machine defined the very limits of
 computation. Yet it is also a source of considerable debate, misunderstanding,
@@ -545,77 +544,94 @@ Ludwig Wittgenstein are instructive in this regard. A reconstruction of that
 conversation will help us perceive the extent to which Turing's machines were
 conceived as a type of intelligent reading and writing simulators.
 
-Wittgenstein first introduces the problem of reading machines in his
-*Philosophical Grammar*, written in the period between 1931 and 1933
-[@wittgenstein_remarks_1978, 1-33]. Wittgenstein gives the example of a child
-who is asked to read, but who instead regurgitates the text from memory.
-Intuitively, we feel that this is not "reading" proper. In a similar case,
-Wittgenstein asks his readers to imagine an experimental "human reading
-machine" (his words, not mine), which like the child in the previous example
-can produce sounds upon seeing a text, but these sounds often do not correspond
-with the words on the page. Such an automaton cannot read per se, although
-occasionally the sounds it produces do coincide with the printed word. Suppose
-then that upon seeing such an experiment, a newcomer comments: "This person is
-reading." The scientist who has set up the experiment would respond: "No he is
-not. It is a mere accident." But what shall we say when such a biological
-machine begins to consistently correspond letters to appropriate sounds. Has it
-learned to read? And at what point does mere coincidence pass into conscious
-action (120-121)? In his characteristically cryptic manner, Wittgenstein defers
-the question by the means of yet another analogy. "If A tries to make B believe
-that he is able to read Cyrillic script, cheating him by learning a Russian
-sentence by heart and then saying it while looking at the printed sentence, we
-may certainly say that A knows he is pretending, and that his not reading is
-characterized by a particular personal experience" (121).  But suppose the man
-really does know how to read Russian, although when he reads he has a peculiar
-feeling of knowing the words by heart.  Should we regard his personal
-experience as the criterion distinguishing between reading and not reading in
-that case? And again, Wittgenstein expects us to answer in the negative.  It
-seems then, that the external presentation alone is not sufficient to determine
-whether the person is reading or not.  In each case, we had to check for the
-appropriate mental state.  Wittgenstein writes, "We here envision two
+Wittgenstein broached the problem of reading machines sometime between 1931 and
+1933, and it shows up in various of his writings in multiple forms
+[@wittgenstein_remarks_1978, 1-33]. In his *Philosophical Grammar*,
+Wittgenstein gives the example of a child who is asked to read, but who instead
+recites the text from memory. Intuitively, we feel that such rote regurgitation
+should not count as "reading" proper. Reading, Wittgenstein suggests, involves
+some correlation between internal and external states.
+
+To further probe our intuitions in that regard, Wittgenstein asks his readers
+to imagine an experimental "human reading machine," which somewhat unlike the
+child in the previous example, produces random sounds when following a text.
+Most of the time, the randomized sounds do not correspond with the words on the
+page. But sometimes they do, by accident. In that case, a newcomer observing
+the experiment may mistake the accidental correspondence for reading proper.
+The scientist who knows how the machine works would obviously object. But what
+would we say if such a "biological machine" were to correspond letters to
+appropriate sounds with greater frequency, asks Wittgenstein. Has it learned to
+read? And does consistent coincidence differ from conscious, concerted action
+[@wittgeFIX, 120-121]?
+
+In his characteristically cryptic manner, Wittgenstein defers the question by
+the means of yet another analogy:
+
+> If A tries to make B believe that he is able to read Cyrillic script,
+> cheating him by learning a Russian sentence by heart and then saying it while
+> looking at the printed sentence, we may certainly say that A knows he is
+> pretending, and that his not reading is characterized by a particular
+> personal experience" [@wittgensteinFIX, 121].
+
+But suppose subject A really does know how to read Russian, although when he
+reads he has a peculiar feeling of knowing the words by heart. Should we
+regard his personal experience as the criterion distinguishing between reading
+and not reading in that case? And again, Wittgenstein expects us to answer in
+the negative.
+
+It seems then, that the external presentation alone is not sufficient to
+determine whether the person is reading or not. In each case, we had to check
+for the appropriate mental state. Wittgenstein writes, "We here envision two
 mechanisms, the internal workings of which we can see, and this internal
 working is the real criterion for a person's reading or not reading.  But in
-fact no such mechanisms are known to us in these cases" (120).  And it turns
-out that the appropriate mental state alone is also insufficient to describe
-thought definitively. Here, Wittgenstein asks us to imagine a person under the
-influence of drugs who is shown a set of discrete strings composed of
-nonsensical characters. When shown the string $%^&* for example, the drugged
-patient reads "above," as if the typographical characters were meaningful and
-in English.  As far as the patient is concerned, she is reading.  All the
-formal attributes of the action are there—the proper region of her brain is
-receiving stimulation, she follows the text with her eyes from left to right,
-silently mouthing the words, and so on.  But this cannot be reading as we know
-it: the woman is simply imagining that she is reading (122).  Thus, neither the
-internal nor the external  descriptions of the action seem adequate to
-encompass everything we mean by reading. And yet we do have a relatively clear
-picture of what reading properly entails, what it looks like, what it sounds
-like, how to do it, and how to teach others to do it.  In building this chain
-of deferring analogies (from the reading child to the drug-induced reading
-hallucination) we are acting as though "we had tried to find the real artichoke
-by stripping it of its leaves," writes Wittgenstein (125). The moral of the
-story is that the leaves, taken together, are the artichoke. The explication of
-the word "reading' for Wittgenstein involves describing a set of characteristic
-features, some of which may be mutated, deformed, or missing altogether. What
-we are dealing with here is a family or a genus of behaviors that fall under a
-particular rubric. Our work then, similar to a botanist's, is to describe
-rather than to explain such features. "Suppose I wish to produce in someone a
-mental image of the inside of a particular eighteenth-century room which he is
-prevented from entering," Wittgenstein writes. "I therefore adopt this method:
-I show him the house from the outside, pointing out the windows of the room in
-question, I further lead him into other rooms of the same period" and so on
-(125). No single feature defines the room, it seems. Instead, we observe a
-range of facades, a range of decors, a range of configurations. Taken together
-these serve as an instrumental category—rooms of the 18th century—that is
-useful in talking about, visiting, preserving, or living in 18th-century rooms.
-By analogy, the mind is hermeneutically sealed to outside observers.  The best
-we can do is to examine other, similar minds in similar situations. To think,
-to read, to write, is to play a particular part in the appropriate cultural and
-linguistic context—a part that we learn as a result of continuing practice and
-acculturation. "Could a machine think?" Wittgenstein asks again in the
+fact no such mechanisms are known to us in these cases" [@wittgensteinFIX,
+120]. And it turns out that the appropriate mental state alone is also
+insufficient to describe thought definitively. Here, Wittgenstein asks us to
+imagine a person under the influence of drugs who is shown a set of discrete
+strings composed of nonsensical characters. When shown "$%^&*" for example, the
+drugged patient reads "above," as if the typographical characters were
+meaningful and in English. Moreover, the delusion persists. The patient
+consistently reads "above" through the muddle. As far as the patient is
+concerned, she is reading.  All the formal attributes of the action are
+there---the proper region of her brain receives stimulation, she follows the
+text with her eyes from left to right, silently mouthing the words, and so on.
+But this cannot be reading as we know it: the woman is simply imagining that
+she is reading (122).  Thus, neither the internal nor the external descriptions
+of the action seem adequate to encompass everything we mean by reading. And yet
+we do have a relatively clear picture of what reading properly entails, what it
+looks like, what it sounds like, how to do it, and how to teach others to do
+it.
+
+In building this chain of deferring analogies (from the reading child to the
+drug-induced reading hallucination) we are acting as though "we had tried to
+find the real artichoke by stripping it of its leaves," writes Wittgenstein
+(125). The moral of the story is that the leaves, taken together, are the
+artichoke. The explication of the word "reading' for Wittgenstein involves
+describing a set of characteristic features, some of which may be mutated,
+deformed, or missing altogether. What we are dealing with here is a family or a
+genus of behaviors that fall under a particular rubric. Our work then, similar
+to a botanist's, is to describe rather than to explain such features. He
+writes:
+
+> Suppose I wish to produce in someone a mental image of the inside of a
+> particular eighteenth-century room which he is prevented from entering. I
+> therefore adopt this method: I show him the house from the outside, pointing
+> out the windows of the room in question, I further lead him into other rooms
+> of the same period and so on [@wittgenFIX, 125].
+
+No single feature defines the room, it seems. Instead, we observe a range of
+facades, a range of decors, a range of configurations. Taken together these
+serve as an instrumental category---rooms of the 18th century---that is useful
+in talking about, visiting, preserving, or living in 18th-century rooms. By
+analogy, the mind is hermeneutically sealed to outside observers.  The best we
+can do is to examine other, similar minds in similar situations. To think, to
+read, to write, is to play a particular part in the appropriate cultural and
+linguistic context---a part that we learn as a result of continuing practice
+and acculturation. "Could a machine think?" Wittgenstein asks again in the
 Philosophical Investigations, "Could it be in pain?" Well, is the human body to
 be called such a machine? It surely comes as close as possible to being such a
-machine. But a machine surely cannot think!—Is that an empirical statement? No.
-We only say it about human beings and about those similar to them, 'they
+machine. But a machine surely cannot think!---Is that an empirical statement?
+No.  We only say it about human beings and about those similar to them, 'they
 think.' We also say it of dolls and no doubt of spirits too. Look at the word
 'to think' as a tool (2003, 359-360).
 
@@ -624,27 +640,30 @@ machine intelligence: we are more likely to ascribe thought to an
 anthropomorphic machine. But that tells us more about human psychology than
 machine cognition (or cognition in general). From the onset of the conversation
 that question was deferred by a chain of analogies, which took us from thinking
-machines, to eloquent amoebas, and to human reading automata. For those
-familiar with Wittgenstein's thought, we arrive then at a fairly expected
-conclusion: cognitive processes like thinking and reading are defined through
-usage, in a descriptive rather than a proscriptive manner. In that sense, we
-can already anticipate the pragmatic attitude towards artificial intelligence
-of those, who like Alan Turing, have advocated a set of purely functional
-litmus tests as criteria for ascertaining intelligence of non-human entities.
-On that view, the given activity does not have to correspond to any state or a
-definition. It must merely enter the stream of appropriate social practice.
-Unexpected however, are several odd and persistent features of Wittgenstein’s
+machines, to eloquent amoebas, and to human reading automata.
+
+For those familiar with Wittgenstein's thought, we arrive then at a fairly
+expected conclusion: cognitive processes like thinking and reading are defined
+through usage, in a descriptive rather than a proscriptive manner. In that
+sense, we can already anticipate the pragmatic attitude towards artificial
+intelligence of those, who like Alan Turing, have advocated a set of purely
+functional litmus tests as criteria for ascertaining intelligence of non-human
+entities. On that view, the given activity does not have to correspond to any
+state or a definition. It must merely enter the stream of appropriate social
+practice.
+
+Unexpected however, are several odd and persistent features of Wittgenstein's
 thought on artificial intelligence. The first is a willful blurring of the
-boundary between the human and the mechanical. From Philosophical Grammar to
-Philosophical Investigations Wittgenstein speaks of the human body as a kind of
-a machine, and of machines as a type of a body.3 To what extent do such
+boundary between the human and the mechanical. From *Philosophical Grammar* to
+*Philosophical Investigations*,  Wittgenstein speaks of the human body as a
+kind of a machine, and of machines as a type of a body.3 To what extent do such
 statements function as a metaphor or as a provocation is unclear in the context
 of our discussion, though the second feature comes into a much sharper relief.
 In almost every passage I have examined here Wittgenstein's thought experiments
 appeal to our intuitions about specifically discursive (rather than generally
 cognitive) actions.  What began as a general discussion concerning the
 Cartesian mind-body dualism, unfolded almost entirely through examples that
-involve reading and writing automata.  As we shall see later, such a slide from
+involve reading and writing automata. As we shall see later, such a slide from
 the cognitive to the discursive will come to define the conversation about
 machine intelligence. This strain of thought in the literature on the
 (artificial) mind takes thinking machines to be primarily machines that read
@@ -652,17 +671,17 @@ and write, with the hope that what holds true for reading and writing will also
 hold true for thinking in general. But, nothing has been said so far about the
 connection between thinking, reading, and writing. That elision has passed on
 from Wittgenstein to his students, in a line of reasoning that is particularly
-prevalent in Alan Turing's foundational work on artificial intelligence (the
-subject of the next section).  Turing attended Wittgenstein's Lectures on the
-Foundations of Mathematics at Cambridge University in 1939
-[@wittgenstein_wittgensteins_1976, 7]. From the notes complied and published by
-Cora Diamond, it is clear that Turing was a vociferous presence in the class.
-His name is mentioned 86 times in the text, more than any other student by a
-wide margin. At some point of the course Wittgenstein concludes his lecture in
-saying: "Unfortunately, Turing will be away from the next lecture, and
-therefore that lecture will have to be somewhat parenthetical. For it is not
-good my getting the rest to agree to something that Turing would not agree to"
-[@wittgenstein_wittgensteins_1976, 67-68].
+prevalent in Alan Turing's work later work on artificial intelligence.
+
+Turing attended Wittgenstein's Lectures on the Foundations of Mathematics at
+Cambridge University in 1939 [@wittgenstein_wittgensteins_1976, 7]. From the
+notes complied and published by Cora Diamond, it is clear that Turing was a
+vociferous presence in the class. His name is mentioned 86 times in the text,
+more than any other student by a wide margin. At some point of the course
+Wittgenstein concludes his lecture in saying: "Unfortunately, Turing will be
+away from the next lecture, and therefore that lecture will have to be somewhat
+parenthetical. For it is not good my getting the rest to agree to something
+that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
 
 The lectures touch upon the subject of "logical machinery" obliquely.
 Wittgenstein believes the term itself to be misleading. He writes:
@@ -697,7 +716,7 @@ familiar to those students of Wittgenstein who attended his earlier lectures at
 Cambridge, and who undoubtedly have participated in his reading-related thought
 experiments.  Wittgenstein's reading and calculating machines were meant to
 challenge the very notions of reading and calculating.  But, in his seminal
-1936 essay On Computable Numbers,2
+1936 essay "On Computable Numbers" 2
 
 Turing returned to the problem of machine and human intelligence explicitly
 (Turing 1950). Here, Turing proposes to reformulate Wittgenstein's original
@@ -742,7 +761,7 @@ easy contrivance) pleasure at its successes, grieve when its valves fuse, be
 warmed by flattery, be made miserable by its mistakes, be charmed by sex, be
 angry or depressed when it cannot get what it wants" (446). In response Turing
 scripts the following conversation: Interrogator: In the first line of your
-sonnet which reads 'Shall I compare thee to 	a summer's day' would not 'a
+sonnet which reads 'Shall I compare thee to a summer's day' would not 'a
 spring day' do as well or better?  Witness: It would not scan.  Interrogator:
 How about 'a winter's day.' That would scan all right.  Witness: Yes, but
 nobody want to be compared to a winter's day.  Interrogator: Would you say Mr.
@@ -753,10 +772,15 @@ a typical winter's day, rather than a special one like Christmas. (447)
 
 Imitation game == mimesis, simulation.
 
-[^ln1-chinese]: This line is a likely source for John Searle's famouse "Chinese
+[^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
 Room" experiment [@searle_minds_1980].
 
 ## 1.5 Content and Control (Material Context)
+
+exchange---means to recover the physical roots of computation.  When viewed in
+the context of book history, the universal Turing machine signifies a
+consummation of several broad, long-term trends that begin with the invention
+of writing itself.
 
 The God of the Hebrew Bible etched his commandments into stone (Exodus 34:1).
 Moses broke the first set of tablets, but the word remained, for a time,
@@ -764,11 +788,6 @@ immutable. The material history of literary computing begins with petrified
 words that endure forever, and ends with word as an electrical charge:
 animated, radiant, fluid, and iridescent [@mcgann_radiant_2001;
 @bryant_fluid_2002].
-
-exchange---means to recover the physical roots of computation.  When viewed in
-the context of book history, the universal Turing machine signifies a
-consummation of several broad, long-term trends that begin with the invention
-of writing itself. 
 
 The long history of the word proceeds in stages, from the immutable sign to the
 universal implement, capable of reproducing all symbolic representation
@@ -1033,38 +1052,6 @@ to write that "telegraph systems, therefore, belong not to the class of
 producing or distributing, but to the class of controlling mechanisms"
 [@murray_setting_1905, 556].
 
-[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
-@marche_literature_2012.
-
-[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
-computer is a convergence of separate streams of information handling, each
-with its own rich tradition of technological history." "One could add other
-antecedents such as the development of radio, motion pictures, and photography"
-[@ceruzzi_computing_2012, 11].
-
-[^ln1-compete]: "We may hope that machines will eventually compete with men in
-all purely intellectual fields" [@turing_computing_1950, 460].
-
-[^ln1-infinite]: A true universal Turing machine would require a tape that is
-infinitely long.
-
-[^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
-Universitiy's Collection of Historical Scientific Instruments in 2012. He
-writes, "my goal in building this project was to create a machine that embodied
-the classic look and feel of the machine presented in Turing’s paper.  I wanted
-to build a machine that would be immediately recognizable as a Turing machine
-to someone familiar with Turing's work" [@davey_turing_2012].
-
-[^ln1-reading]:The Turing machine in effect gives us a concise minimally viable
-definition of "reading" and "becoming aware." Proper reading involves the
-appropriate internalization of the symbol, for both human and machine.
-
-[^ln1-cs]: Two separate departments offersing competing degrees in software
-engineering and computer science is a common occurance in North American
-universities.
-
-## 1.6 Splitting the Sign
-
 That history begins with the human capacity to externalize images. It proceeds
 with the invention of writing: a formal constraint on the image, adding a level
 of non-mimetic abstraction. A picture of the horse that looks like a horse can
@@ -1099,4 +1086,36 @@ receiving device. The Turing machine achieves the bifurcation of the sign,
 intertwining the histories of telecommunications and code control. A
 computational document or a book arises as a subset of control devices: the
 essence of distant writing is control.
+
+Return to Moreno.
+
+[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
+@marche_literature_2012.
+
+[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
+computer is a convergence of separate streams of information handling, each
+with its own rich tradition of technological history." "One could add other
+antecedents such as the development of radio, motion pictures, and photography"
+[@ceruzzi_computing_2012, 11].
+
+[^ln1-compete]: "We may hope that machines will eventually compete with men in
+all purely intellectual fields" [@turing_computing_1950, 460].
+
+[^ln1-infinite]: A true universal Turing machine would require a tape that is
+infinitely long.
+
+[^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
+Universitiy's Collection of Historical Scientific Instruments in 2012. He
+writes, "my goal in building this project was to create a machine that embodied
+the classic look and feel of the machine presented in Turing’s paper.  I wanted
+to build a machine that would be immediately recognizable as a Turing machine
+to someone familiar with Turing's work" [@davey_turing_2012].
+
+[^ln1-reading]:The Turing machine in effect gives us a concise minimally viable
+definition of "reading" and "becoming aware." Proper reading involves the
+appropriate internalization of the symbol, for both human and machine.
+
+[^ln1-cs]: Two separate departments offersing competing degrees in software
+engineering and computer science is a common occurance in North American
+universities.
 
