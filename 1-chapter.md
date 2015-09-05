@@ -540,7 +540,7 @@ writing. Although the thought experiment it describes solves a mathematical
 problem, the thought experiment itself has roots in a more general conversation
 about the nature of interpretation, central to the questions of meaning-making
 in art and culture. The conversations between Alan Turing and Ludwig
-Wittgenstein are instructive in this regard.  Wittgenstein broached the problem
+Wittgenstein are instructive in this regard. Wittgenstein broached the problem
 of reading machines first in *The Blue and Brown Books* along with
 *Philosophical Grammar* (all compiled in the early 1930s), then in his lectures
 and remarks on the foundations of psychology and mathematics from the late
@@ -579,39 +579,38 @@ called the *expression* of thought. Yet neither can offer the definitive
 location where thinking happens. Rather, Wittgenstein suggests, we are
 witnessing a metaphor: some set of correlations between two distinct
 activities. And it may be that the correlations themselves are what we mean by
-thinking. Neither brain nor paper make sense as *the* site of cognition in
-isolation, just like it would not make sense to interrupt a metaphor---"that
-memory the warder of the ~brain~ (from *Macbeth)---and then look for it in the
+"thought." Neither brain nor paper make sense as *the* site of cognition in
+isolation, just like it would not make sense to interrupt a metaphor---"memory
+the warder of the ~brain~ (from *Macbeth)---and then look for it in the
 remaining snippet.
 
 Our difficulty in locating the definitive site of thought points to the
 inadequacy of Cartesian dualism between body and mind. Neither physical nor
 mental descriptions of thought are sufficient to locate the site of cognition,
-Wittgenstein argues. As an example of such a difficulty, and likely having a
-passage from Descartes in mind,[^ln1-descartes] Wittgenstein asks, "Can a
-machine think" [@wittgenstein_blue_1965, 16]? But the problem, as Wittgenstein
-explains, is not one of finding a machine that can do the job---of manipulating
-signs for example. The problem lies in the ability of a machine to enact the
-full metaphor. The manipulation of signs must correspond to something else.
-Severed from some other, analogical structure, the "blind" manipulation of
-signs is a meaningless actvity. Meaning, Wittgenstein seems to suggest, resides
-simply in this analogy between something (manipulation of signs) and something
-else (the internal state of the mechanism).
+Wittgenstein argues. As an example of such a difficulty and likely having a
+passage from Descartes in mind[^ln1-descartes] Wittgenstein asks, "Can a
+machine think" [@wittgenstein_blue_1965, 16]? The problem, as he explains, is
+not one of finding a machine that can do the job---of manipulating signs, for
+example. It lies in the ability of a machine to enact the both sides of the
+metaphor. The manipulation of signs must correspond to something else. Severed
+from some other analogical structure the "blind" manipulation of signs is a
+meaningless actvity. Meaning, Wittgenstein seems to suggest, resides simply in
+this analogy between something (symbol) and something else (mechanism).
 
 Wittgenstein extends his thought experiments about reading machines in his
 *Brown Notebook.* Let us study the word "reading," he suggests. By reading, he
 means the activity of "translating script into sounds," "of writing according
 to dictation," or "of copying in writing a page of print"
-[@wittgenstein_blue_1965, 119]. Reading once again is first "mechanical"
-reading, without a sense of "understanding" or interpretation. What happens
-when an average child reads a newspaper, for example? "His eyes glide along the
-printed words, he pronounces them aloud or to himself, but other words he
-pronounces after having seen their first few letters only, other again he reads
-out letter by letter." The child acts as a "reading machine" when he pays no
-attention to what he reads, even when he speaks the words out loud. Yet he
-reads "faultlessly like a reliable machine." Another child merely pretends
-to read. He guesses at the words, and on occasion repeats things "by heart",
-without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
+[@wittgenstein_blue_1965, 119]. Reading once again is "mechanical" reading,
+without a sense of "understanding" or interpretation. What happens when an
+average child reads a newspaper, for example? "His eyes glide along the printed
+words, he pronounces them aloud or to himself, but other words he pronounces
+after having seen their first few letters only, other again he reads out letter
+by letter." The child acts as a "reading machine" when he pays no attention to
+what he reads, even when he speaks the words out loud. Yet he reads
+"faultlessly like a reliable machine." Another child merely pretends to read.
+He guesses at the words, and on occasion repeats things "by heart", without
+actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
 
 Wittgenstein continues to complicate such edge cases, challenging his
 audience's intuitions of what it means to read and to understand. He gives also
@@ -619,26 +618,31 @@ the example of the hallucinating patient, who "reads" what to us looks like
 gibberish, and the case of man who fakes reading Cyrillic by memorizing the
 lines phonetically. He talks of machines too, which produce random sounds that
 occasionally, by accident, correspond to some existing texts. In each case, we
-envision two mechanisms, one visible and external and one internal. Often, we
-privelege that internal mechanism as some sorot of "real criterion for a
-person's reading or not reading." But in fact no such internal, private
-mechanisms can be known to us or communicated to others properly
-[@wittgenstein_blue_1965, 120]. We once again only intuit some "correct"
-correspondence between internal states and external signs.
+envision two mechanisms, one visible and external and one hidden and internal.
+To read, it seems that the reader must do more than act out the action of
+reading. Instead, we privelege some notion of inward-facing signs of
+comprehension as the "real criterion for a person's reading or not reading."
+But in fact no such internal, private mechanisms can be known to us or
+communicated to others properly [@wittgenstein_blue_1965, 120]. Once again, we
+only intuit some "correct" correspondence between internal states and external
+signs. A reading pupil must convince his teacher that the words had the
+intended effect. But, paradoxically, that state cannot be communicated but
+through more words.
 
-Ultimately, on the last page of his notebooks, Wittgenstein describes the
+In the conclusion to his notebooks, Wittgenstein ultimately describes the
 mechanisms of reading as an "indirect way of transmitting a feeling."
-"Something that we can never know happens at the other end" of communication
-Communication, we would say now, is always mediated through signs. By the end
-of the notebooks, Wittgenstein imagines also the possibility of unmediated,
-"direct" non-semiotic mode communication in the direct transmission of feeling
-from one person to another [@wittgenstein_blue_1965, 185].
+"Something that we can never know happens at the other end" of the
+communication act. Communication, as we would say today, is always mediated.
+In conclusion, Wittgenstein imagines the possibility of unmediated, "direct"
+modes communication, capable of transmitting feelings from one person to
+another [@wittgenstein_blue_1965, 185].
 
-The thought experiments in *The Blue and Brown Notebooks* do not amount to a
-coherent theory of communication, semiotics, or the mind. They do however
+Thought experiments in *The Blue and Brown Notebooks* do not amount to a
+cohesive theory of communication, semiotics, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
 Turing and subsequently passed into the foundations of computer science. The
-notebooks begin and end with the interpretation of text.
+notebooks begin and end aslo with the interpretation of text. Wittgentein's
+experimental thought machines prefigure the modern computer.
 
 ### *Philosophical Grammar*
 
