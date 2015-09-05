@@ -537,29 +537,65 @@ for this reason [@fodor_language_1975; @putnam_representation_1988].
 Turing's paper should hold interest for literary scholars because it presents a
 minimally viable model for generalized symbolic manipulation: reading and
 writing. Although the thought experiment it describes solves a mathematical
-problem, the thought experiment itself has its roots in a more general
-conversation about the nature of interpretation, central to the questions of
-meaning-making in art and culture. The conversations between Alan Turing and
-Ludwig Wittgenstein are instructive in this regard. A historical reconstruction
-of that conversation, across both writers' lecture notes and publications, will
-help us perceive the extent to which Turing's machines were conceived as a type
-of intelligent reading and writing simulators.
+problem, the thought experiment itself has roots in a more general conversation
+about the nature of interpretation, central to the questions of meaning-making
+in art and culture. The conversations between Alan Turing and Ludwig
+Wittgenstein are instructive in this regard.  Wittgenstein broached the problem
+of reading machines first in *The Blue and Brown Books* along with
+*Philosophical Grammar* (all compiled in the early 1930s), then in his lectures
+and remarks on the foundations of psychology and mathematics from the late
+1930s, and finally in *Philosophical Investigations*, (written between 1945 and
+1949). To give you a sense of the timeline: Alan Turing's paper on computable
+numbers appeared in print in 1936 and his "Computing Machinery and
+Intelligence" in 1950. A historical reconstruction of that conversation, across
+both writers' notes and publications, will help us perceive the extent to which
+Turing's machines were conceived as a type of intelligent reading and writing
+simulators.[^ln1-notes]
 
-Wittgenstein broached the problem of reading machines first in *The Blue and
-Brown Books* (compiled in the early 1930s), then in his lectures and remarks on
-the foundations of psychology and mathematics from the late 1930s, and finally
-in *Philosophical Investigations*, (written between 1945 and 1949). To give you
-a sense of the timeline, Alan Turing's paper on computable numbers appeared in
-print in 1936 and his "Computing Machinery and Intelligence" in 1950.
+The *Blue and Brown Notebooks* comprise "some notes to my pupils, so that they
+may have something to carry home with them, in their hands if not their brains"
+[@wittgenstein_blue_1965, vii]. "The Blue Book" begins with a question of
+interpretation: "What is a meaning of a word?" From the start, Wittgenstein
+cautions his students against choosing the easy answer, which holds that
+meaning resides in the head. Wittgenstein writes:
 
-As always, working with Wittgenstein is complicated by the inherently ad-hoc
-nature of much of his published work, which comes to us by and large in the
-form of second-hand notes.[^ln1-notes] To tell a coherent story about the
-origins of the reading machine, I will attempt to assemble into
-something resembling a coherent argument, which spans almost the entirety of
-Wittgenstein’s academic career.  
+> It is misleading then to talk of thinking as of a "mental activity". We may
+> say that thinking is essentially the activity of operating with signs. This
+> activity is performed by the hand, when we think by writing; by the mouth and
+> larynx, when we think by speaking; and if we think by imaging signs or
+> pictures, I can give you no agent that thinks. If then you say that in such
+> cases the mind thinks, I would only draw your attention to the fact that you
+> are using metaphor, that here the mind is the agent in a different sense from
+> that in which the hand can be said to be the agent in writing.
 
-In his *Philosophical Grammar*, Wittgenstein gives the example of a child who
+The "locality of thought" poses a problem by analogy. Wittgenstein explains
+that when we see a sentence on paper, the external manifestation of a thought,
+we assume that some analogous structure exists somewhere in the brain. Perhaps,
+Wittgenstein speculates, we could even observe the brain directly, in the
+process of writing. Both phenomena, brain- and paper- bound, could properly be
+called the *expression* of thought. Yet neither can offer the definitive
+location. Rather, Wittgenstein suggests, we are witnessing a metaphor: some set
+of correlations between two distinct activities. And it may be that the
+correlations themselves are what we mean by thinking. Neither brain nor paper
+make sense as *the* site of cognition in isolation, just like it would not make
+sense to interrupt a metaphor---"that memory the warder of the ..." (from
+*Macbeth)---and then look for it in the missing half.
+
+Our difficulty in locating the definitive site of thought points to the
+inadequacy of Cartesian dualism between body and mind. Neither physical nor
+mental descriptions of thought are sufficient to locate the site of cognition,
+Wittgenstein argues. As an example of such a difficulty, and likely having a
+passage from Descartes in mind,[^ln1-descartes] Wittgenstein asks, "Can a
+machine think" [@wittgenstein_blue_1965, 16]? But the problem, as Wittgenstein
+explains, is not one of finding a machine that can do the job, of manipulating
+signs for example. The problem, as I understand the author from these
+evoccative but terse thought experiments, is one of whether the machine is able
+to enact the full metaphor. It seems that the manipulation of signs is severed
+from some other, analogical structure.
+
+In his *Philosophical Grammar*, compiled around the same
+
+Wittgenstein gives the example of a child who
 is asked to read, but who instead recites the text from memory.  Intuitively,
 we feel that such rote regurgitation should not count as "reading" proper.
 Reading, Wittgenstein suggests, involves some correlation between internal and
@@ -799,12 +835,24 @@ Literature as imitation game == mimesis, simulation.
 [^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
 Room" experiment [@searle_minds_1980].
 
-[^ln1-notes]: As if to anticipate this difficulty, in a letter to Bertrand
-Russell accompanying the manuscript of *The Blue and Brown Books*, a
-collection of notes that form the basis for his *Philosophical Investigations*,
-Wittgenstein writes: "I think it's very difficult to understand [these notes],
-as so many points are just hinted at. They are meant only for the people who
-heard the lectures" [@wittgenstein_blue_1965, vii].
+[^ln1-notes]: As always, working with Wittgenstein is complicated by the
+inherently ad-hoc nature of his published work. Much of it comes to us in the
+form of disjointed second-hand notes and dictations. As if to anticipate this
+difficulty, in a letter to Bertrand Russell accompanying the manuscript of *The
+Blue and Brown Books*, a collection of notes that form the basis for his
+*Philosophical Investigations*, Wittgenstein writes: "I think it's very
+difficult to understand [these notes], as so many points are just hinted at.
+They are meant only for the people who heard the lectures"
+[@wittgenstein_blue_1965, vii].
+
+[^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If there
+were such machines having the organs and the shape of a monkey or some other
+animal that lacked reason, we would have no way of recognizing that they were
+not entirely of the same nature as these animals; whereas if there were any
+such machines that bore a resemblance to our bodies and imitated our action as
+far as this is practically feasible, we would always have two very certain
+means of recognizing that they were not at all, for that reason, true men."
+Also quoted in @dennett_can_2004, 297.
 
 ## 1.5 Content and Control (Material Context)
 
