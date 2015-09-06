@@ -621,7 +621,7 @@ lines phonetically. He talks of machines too, which produce random sounds that
 occasionally, by accident, correspond to some existing texts. In each case, we
 envision two mechanisms, Wittgenstein writes, one visible and external and one
 hidden and internal. To read, the reader must do more than go through the
-motions of reading. Instead, we privelege the inward-facing signs of
+motions of reading. Instead, we privilege the inward-facing signs of
 comprehension as the "real criterion for a person's reading or not reading."
 The physical motions, of gliding one's eyes across the page and saying the
 words out loud, must connect in some way with appropriate internal, mental
@@ -632,8 +632,8 @@ others properly [@wittgenstein_blue_1965, 120]. We can only intuit the reader's
 private experience of reading, or whether such reading attains the desired
 correspondence between inward state and outward sign. A reading pupil must
 convince his teacher that the scanned sign had the intended effect. This
-requires more words in a sort of a broken hermeunitic spiral, stuck in a
-communication feedback loop that cannot quite complete the curcuit.
+requires more words in a sort of a broken hermeneutic spiral, stuck in a
+communication feedback loop that cannot quite complete the circuit.
 
 Wittgenstein finally describes the mechanisms of reading as an "indirect way
 of transmitting a feeling." "Something that we can never know happens at the
@@ -647,17 +647,39 @@ Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of communication, semiotics, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
 Turing and subsequently passed into the foundations of computer science.
-Wittgentein's experimental thought machines prefigure the modern computer.
-Wittgestein conjuers these fanatastical broken machines ultimately to address
+Wittgenstein's experimental thought machines prefigure the modern computer.
+Wittgenstein conquers these fantastical broken machines ultimately to address
 the problem of symbolic interpretation.
 
 ### *Philosophical Grammar*
 
-In *Philosophical Grammar,* written around the same time as the *Blue and Brown
-Notebooks*,
+*Philosophical Grammar,* written around the same time as the *Blue and Brown
+Notebooks*, gives us another into the pre-history of the literary device. It
+begins a gain with a problem of "understanding" and "not understanding." "To
+understand language," Wittgenstein writes, "is take in symbolism as a whole"
+[@wittgenstein_philosophical_1974, 5]. From the very first passages,
+Wittgenstein envisions understanding as a type of trans-mediation. In comparing
+the understanding of propositions to music, he writes, "I can only translate
+the musical picture into a picture in another medium"
+[@wittgenstein_philosophical_1974, 5]. Consequently the pianola, a type of a
+player piano, emerges as one of the images central to Wittgenstein's thought of
+the period.
 
-"'To understand language'---to take in symbolism as a whole"
-[@wittgenstein_philosophical_1974, 5].
+"Aren't our sentences part of a mechanism? A in a pianola?" Wittgenstein asks
+in the early passages. "But suppose it is in bad condition? So it is not the
+effect but the purpose of the signs (the holes in the pianola roll). Their
+purpose *within* the mechanism" [@wittgenstein_philosophical_1974, 10].
+Wittgenstein elaborates a few pages later:
+
+> The sentences that we utter have a particular purpose, they are to produce
+certain effects. They are parts of a mechanism, perhaps a psychological
+mechanism, and the words of the sentences are also parts of the mechanism
+(levers, cogwheels, and so on). The example that seems to illustrate what we're
+thinking of here is an automatic music player, a pianola. It contains a roll,
+rollers, etc., on which the piece of music is written is some kind of notation
+(the position of holes, pegs, and so on). It's as if the written sign gave
+orders which are carried out by keys and hammers
+[@wittgenstein_philosophical_1974, 69].
 
 "In our study of symbolism, there is no foreground and background; it isn't a
 matter of a tangible sign, with an accomponying intangible power of
@@ -681,7 +703,7 @@ picture, but something else, the thing that cannot be further interpretated" 145
 "Though we speak of thought and its expression, the thought is not a kind of a
 condition that the sentence produces as a potion might. And communication by
 language is not a process by which I use a drug to produce in others the same
-pains I have in myself. 
+pains I have in myself.
 
 Parenthetical: "What sort of process might be called "thought transference" or
 "thought reading." 107.
