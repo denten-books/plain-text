@@ -579,10 +579,10 @@ called the *expression* of thought. Yet neither can offer the definitive
 location where thinking happens. Rather, Wittgenstein suggests, we are
 witnessing a metaphor: some set of correlations between two distinct
 activities. And it may be that the correlations themselves are what we mean by
-"thought." Neither brain nor paper make sense as *the* site of cognition in
-isolation, just like it would not make sense to interrupt a metaphor---"memory
-the warder of the ~brain~ (from *Macbeth)---and then look for it in the
-remaining snippet.
+"thought." Neither brain nor paper make sense as *the* site of cognition by
+itself, just like it would not make sense to interrupt a metaphor---"memory the
+warder of the ~brain~ (from *Macbeth)---and then look for it in the remaining
+snippet.
 
 Our difficulty in locating the definitive site of thought points to the
 inadequacy of Cartesian dualism between body and mind. Neither physical nor
@@ -592,15 +592,16 @@ passage from Descartes in mind[^ln1-descartes] Wittgenstein asks, "Can a
 machine think" [@wittgenstein_blue_1965, 16]? The problem, as he explains, is
 not one of finding a machine that can do the job---of manipulating signs, for
 example. It lies in the ability of a machine to enact the both sides of the
-metaphor. The manipulation of signs must correspond to something else. Severed
-from some other analogical structure the "blind" manipulation of signs is a
-meaningless actvity. Meaning, Wittgenstein seems to suggest, resides simply in
-this analogy between something (symbol) and something else (mechanism).
+metaphoric equation. "Doing the job," the manipulation of signs, must
+correspond to something else. Severed from some other analogical structure, the
+"blind" manipulation of signs is a meaningless actvity. Meaning, Wittgenstein
+seems to suggest, resides simply in this analogy between something (symbol) and
+something else (mechanism).
 
 Wittgenstein extends his thought experiments about reading machines in his
-*Brown Notebook.* Let us study the word "reading," he suggests. By reading, he
-means the activity of "translating script into sounds," "of writing according
-to dictation," or "of copying in writing a page of print"
+*Brown Notebook.* Let us study the word "reading," he suggests early on. By
+reading, he means the activity of "translating script into sounds," "of writing
+according to dictation," or "of copying in writing a page of print"
 [@wittgenstein_blue_1965, 119]. Reading once again is "mechanical" reading,
 without a sense of "understanding" or interpretation. What happens when an
 average child reads a newspaper, for example? "His eyes glide along the printed
@@ -614,35 +615,41 @@ actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
 
 Wittgenstein continues to complicate such edge cases, challenging his
 audience's intuitions of what it means to read and to understand. He gives also
-the example of the hallucinating patient, who "reads" what to us looks like
+the example of a hallucinating patient, who "reads" what to us looks like
 gibberish, and the case of man who fakes reading Cyrillic by memorizing the
 lines phonetically. He talks of machines too, which produce random sounds that
 occasionally, by accident, correspond to some existing texts. In each case, we
-envision two mechanisms, one visible and external and one hidden and internal.
-To read, it seems that the reader must do more than act out the action of
-reading. Instead, we privelege some notion of inward-facing signs of
+envision two mechanisms, Wittgenstein writes, one visible and external and one
+hidden and internal. To read, the reader must do more than go through the
+motions of reading. Instead, we privelege the inward-facing signs of
 comprehension as the "real criterion for a person's reading or not reading."
-But in fact no such internal, private mechanisms can be known to us or
-communicated to others properly [@wittgenstein_blue_1965, 120]. Once again, we
-only intuit some "correct" correspondence between internal states and external
-signs. A reading pupil must convince his teacher that the words had the
-intended effect. But, paradoxically, that state cannot be communicated but
-through more words.
+The physical motions, of gliding one's eyes across the page and saying the
+words out loud, must connect in some way with appropriate internal, mental
+representations.
 
-In the conclusion to his notebooks, Wittgenstein ultimately describes the
-mechanisms of reading as an "indirect way of transmitting a feeling."
-"Something that we can never know happens at the other end" of the
-communication act. Communication, as we would say today, is always mediated.
-In conclusion, Wittgenstein imagines the possibility of unmediated, "direct"
-modes communication, capable of transmitting feelings from one person to
-another [@wittgenstein_blue_1965, 185].
+But in fact no such internal mechanisms can be known to us or communicated to
+others properly [@wittgenstein_blue_1965, 120]. We can only intuit the reader's
+private experience of reading, or whether such reading attains the desired
+correspondence between inward state and outward sign. A reading pupil must
+convince his teacher that the scanned sign had the intended effect. This
+requires more words in a sort of a broken hermeunitic spiral, stuck in a
+communication feedback loop that cannot quite complete the curcuit.
+
+Wittgenstein finally describes the mechanisms of reading as an "indirect way
+of transmitting a feeling." "Something that we can never know happens at the
+other end" of the communication act. Communication, as we would say today, is
+always mediated.  In conclusion of the notebooks, Wittgenstein imagines the
+possibility of unmediated, "direct" modes communication, capable of
+transmitting feelings from one person to another [@wittgenstein_blue_1965,
+185].
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
-cohesive theory of communication, semiotics, or the mind. They do however
+cohesive model of communication, semiotics, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
-Turing and subsequently passed into the foundations of computer science. The
-notebooks begin and end aslo with the interpretation of text. Wittgentein's
-experimental thought machines prefigure the modern computer.
+Turing and subsequently passed into the foundations of computer science.
+Wittgentein's experimental thought machines prefigure the modern computer.
+Wittgestein conjuers these fanatastical broken machines ultimately to address
+the problem of symbolic interpretation.
 
 ### *Philosophical Grammar*
 
