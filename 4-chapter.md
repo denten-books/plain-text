@@ -249,6 +249,8 @@ archive.
 
 ## 1.3 Microanalysis
 
+Moreno on microanalysis!
+
 Microanalysis opens the gap between text as it is embedded into storage media
 and text as it is seen on the screen. 
 

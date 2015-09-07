@@ -20,8 +20,6 @@ header-includes:
 
 # Chapter 1: Laying Bare the Device
 
-## 1.1 Prelude
-
 "The weakest point in our present day universe is the incapacity of man to meet
 the machine, the culture conserve, or the robot, other than through submission,
 actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
@@ -48,7 +46,7 @@ finished, perfected product whose assumed perfectibility was an excuse [...]
 for forsaking its past, for preferring one partial phenomenon to the whole
 reality" [@moreno_who_1953, 233]. The "illusion of the perfected product"
 reduces humans to "machine-addicts," residing in a "jungle of robots" that
-threatens to crowd out all spotanious activity. Through robots, life becomes a
+threatens to suffocate all spotanious activity. Through robots, life becomes a
 script.
 
 In the name of comfort, safety, and prolonged life, technologists and
@@ -71,9 +69,9 @@ suspicion: from central planning, to corporate governance, to machine code, and
 legal codex. Such mechanisms serve to externalize and to "conserve" volition,
 at a given point of time. With time, mechanized volition governs without
 consensus or comprehension. Splintered from its source, externalized volition
-staggers forth, zombie-like, through laws, books, and social institutions.
-With life-spans that span generations, images of the past proliferate and crowd
-out the present. Moreno writes:
+staggers forth, *golem*-like, through laws, books, and social institutions.  With
+life-spans that span generations, images of the past proliferate and crowd out
+the present. Moreno writes:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -84,19 +82,17 @@ out the present. Moreno writes:
 > seems to be no end to new forms and new developments [@moreno_who_1953, 239].
 
 In the aftermath of World War II, Moreno expanded the first edition of his book
-to include the ultimate automaton, the atomic bomb. "Mankind has been awakened
+to consider the ultimate automaton, the atomic bomb. "Mankind has been awakened
 from a dream," he writes. The atomic bomb gives humanity a glimpse of its
 common enemy. Technology, for Moreno, does not determine the present situation.
 Rather, a mindless actor in possession of fossilized volition, it competes, in
 Darwinian sense, with living actors. Once set in motion, voluntarily, by
-humans, the war machine and the book alike, as all cultural conserves, continue
-to do their bidding. These structures may no longer be needed or wanted, but
-because they are inorganic, they persist to shape the social and the mental
-worlds to come. Moreno explains:
+humans, the war machine and the book alike continue to do their bidding. These
+structures may no longer be needed or wanted, but because they are inorganic,
+they persist to shape the social and the mental worlds to come. Moreno
+explains:
 
-[CHECK THIS QUOTE]
-
-> Many of the domesticated robots are blessed with the attribute of become
+> Many of the domesticated robots are blessed with the attribute of becoming
 labor-saving devices, which has, however the unpleasant consequence that they
 at time reduce the need for creating, promoting with leisure also inertia.
 [...] Many of the robots have also the attribute in common of being able to
@@ -108,21 +104,21 @@ robot par excellence [@moreno_who_1953, 238].
 The inertia of past decisions embodied in extant mechanisms ultimately poses a
 threat for human survival. For Moreno, the real competition for survival
 happens not between persons, sects, races, or nations, but between humanity and
-its zombie-like automatons from the past. The only way to compete with the
-robot was for him to expand the human cultural capacity for creation. The
-biological being has only this one advantage over the zootechnical animal:
-spontaneity. But the capacity to free will and to creation has to be
-continuously guarded against lethargy and advanced through training. The
-machines of yore ease the burden of creation. In reducing labor, they enfeeble
-the creative capacity. Moreno's therapy practice was therefore built on the
-principle of spontaneity training, aimed at the construction of communities
-that acknowledge and preserve individual agency. As far as I can tell from the
-records, the practice involved group improvisation, in what Moreno called the
-"techniques of freedom," which aimed to "balance spontaneous social forces to
-the greatest possible harmony an unity of all" [@moreno_who_1953, 8].
+its automatons from the past. The only way to compete with the robot was for
+him to expand the human cultural capacity for creation. The biological being
+has only this one advantage over the zootechnical animal: spontaneity. But the
+capacity to free will and to creation has to be continuously guarded against
+lethargy and advanced through training. The machines of yore ease the burden of
+creation. In reducing labor, they enfeeble the creative capacity. Moreno's
+therapy practice was therefore built on the principle of spontaneity training,
+aimed at the construction of communities that acknowledge and preserve
+individual agency. As far as I can tell from the records, the practice involved
+group improvisation, in what Moreno called the "techniques of freedom," which
+aimed to "balance spontaneous social forces to the greatest possible harmony an
+unity of all" [@moreno_who_1953, 8].
 
 I leave Moreno here, with thoughts of hydrogen bombs and books occupying the
-same plane of mechanization. The book does make for an excellent robot.  If a
+same plane of mechanization. The book does make for an excellent robot. If a
 conversation is a temporary communicative link between two people, a book is a
 device for delayed conversation. It affects targets at a distance, decoupling
 readers and writers in time and space. We are habituated to see the book as a
@@ -131,7 +127,7 @@ chapter, my aim is to encounter the book anew as a complex system. The
 device-like property of computed text especially, when compared to print, holds
 severe consequences for the practices of reading, writing, and interpretation.
 
-Where in the 1930s one could view Moreno book--bomb as a
+When in the 1930s one could view Moreno book--bombs as a
 fanciful---technophobic even---view of literary technology, a century later his
 concern appears pressing and prescient. The unintended consequences of
 disembodied and automated agency, from artificially intelligent personal
@@ -140,26 +136,24 @@ media theorists. What looks like a book indeed functions as a gun and a
 trigger. I mean this literally: it comprises a part of the same computational
 platform that powers drones and aircraft carriers. Today, the "servers" that
 serve the world's largest purveyors of literature service also air traffic
-control and the National Security Administration.
+control and the National Security Administration [@soyata_combat:_2012;
+@logicworks_government_2015].
 
 In these conditions we---humanists, historians, philologists---must reconsider
 the easy relationship we enjoyed with pen and paper, the material conditions of
-textuality. The siumlated book no longer plays by the same rules as print. The
+textuality. The simulated book no longer plays by the same rules as print. The
 bibliographic illusion veils device internals. The universal Turing machine,
 from which all computational devices inherit, reveals itself ultimately as a
 species of control mechanisms. Yet the Turing machine, and subsequently all
-computers, belong also, in part, to the long history of the book. To preserve
-agency and to break the inertia of leisurely reading, we must rediscover the
-book as a device; to call it forth for what it is and always was---a robot for
-effecting thought at a distance; and to bring it back under the purview of
-interpretation.
+computers, belong also, in part, to the long history of the book. In this
+chapter, I draw several pre-histories of the literary device, first as a formal
+technique, then as an thought experiment, and finally as a control mechanism.
+To preserve agency and to break the inertia of leisurely reading, we must
+rediscover the book as a device; to call it forth for what it is and always
+was---a robot for effecting thought at a distance; and to bring it back under
+the purview of interpretation.
 
-In this chapter, I draw several pre-histories of
-I offer two pre-histories in this chapter, one that uncovers the universal
-machine as an idea closely related to books and reading, and another that sees
-it as sharing in the lineage of control devices.
-
-## 1.2 Literary Device as Gadget and Technique
+## 1.1 Technique
 
 What is a literary device? The formal concept of a "device," widely used in
 literary studies, is an artifact of an unfortunate translation from Russian.
@@ -354,7 +348,7 @@ of surface representation. The digital book does not just simulate a book.
 Being a type of a Turing machine, it holds the potential to embody all possible
 metaphors.[^ln1-notquite] The task of the literary scholar reading on the level
 of the device becomes to make the figure available for interpretation. It is to
-apprehend its revealed mechanics.  What happens in the metaphorical
+apprehend its revealed mechanics. What happens in the metaphorical
 transference between the book and the apparatus simulating the book?
 Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
 shaping mental experience. Device hermeneutics allow one to consent, or,
@@ -405,7 +399,7 @@ more detailed discussion follows in 1.2.
 [^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
 experience, despite the overwhelming evidence for determinism.
 
-## 1.3 The Nature of the Simulation
+## 1.2 Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
@@ -424,14 +418,13 @@ More than any other mechanism, the Turing machine defined the very limits of
 computation. Yet it is also a source of considerable debate, misunderstanding,
 and controversy, because it poses a fundamental paradox. Turing imagined his
 machine as a physical mechanism solving a theoretical problem. Actual
-computers, in turn, simulate hypothetical Turing machines. You can see how
-this may get confusing. Computation emerges as a figure stuck in the loop
-between the ideal and the physical worlds. It is part real mechanism and part
-unattainable idea; part physics and part metaphysics. The indeterminacy of
-computation blurs the boundaries between hardware and software. And no matter
-how hard computer science tries to escape into the realm of pure mathematics,
-the limits of physical engineering pull it back to the sphere of the
-applied.[^ln1-cs]
+computers, in turn, simulate hypothetical Turing machines. You can see how this
+may get confusing. Computation traces a figure stuck in the loop between the
+ideal and the physical worlds. It is part real mechanism and part unattainable
+idea; part physics and part metaphysics. The indeterminacy of computation blurs
+the boundaries between hardware and software. And no matter how hard computer
+science tries to escape into the realm of pure mathematics, the limits of
+physical engineering pull it back to the sphere of the applied.[^ln1-cs]
 
 In his seminal 1937 paper on computable numbers, Alan Turing, then a student at
 King's College, proposed a peculiar solution to appear in mathematical journal.
@@ -521,8 +514,8 @@ clock, an abacus, a scale, a book. In a later paper linking computing machinery
 and intelligence, Turing implies it could eventually simulate human thought as
 well [@turing_computing_1950].[^ln1-compete]
 
-The universal Turing machine (UTM) emerges, finally, as a model of computation
-itself. It can compute anything computable. In substituting the concept of
+The universal Turing machine (UTM) finally encapsulates a model of computation
+itself. The UTM can compute anything computable. In substituting the concept of
 computability with "effective computability" Turing's paper belongs to the
 annals of mathematical theory. But, it continues to elicit response widely
 because much of it contains tantalizing possibilities that bare on symbolic
@@ -534,8 +527,6 @@ describes machine states in terms of "states of mind," "awareness," and
 hints at the idea of computation as a model for human thought. The literature
 on the so-called "computational theory of mind" cites Turing's work extensively
 for this reason [@fodor_language_1975; @putnam_representation_1988].
-
-## 1.4 Intellecutal Context
 
 Turing's paper should hold interest for literary scholars because it presents a
 minimally viable model for generalized symbolic manipulation: reading and
@@ -664,15 +655,17 @@ understand language," Wittgenstein writes, "is take in symbolism as a whole"
 Wittgenstein envisions understanding as a type of trans-mediation. In comparing
 the understanding of propositions to music, he writes, "I can only translate
 the musical picture into a picture in another medium"
-[@wittgenstein_philosophical_1974, 5]. Consequently, the pianola, a type of a
-player piano, emerges as one of the images central to Wittgenstein's thought of
-the period.
+[@wittgenstein_philosophical_1974, 5]. Consequently, Wittgenstein continually
+returns to the pianola, a type of a player piano, to illustrate key concepts in
+his lectures and writing of the "middle" period (between his *Tractatus* and
+*Philosophical Investigations*).
 
-"Aren't our sentences parts of a mechanism? A in a pianola?" Wittgenstein asks
-in the early passages. "But suppose it is in bad condition? So it is not the
-effect but the purpose of the signs (the holes in the pianola roll). Their
-purpose *within* the mechanism" [@wittgenstein_philosophical_1974, 10].
-Wittgenstein elaborates a few pages later:
+For example, in the early passages of *Philosophical Grammar*, Wittgenstein
+writes: "Aren't our sentences parts of a mechanism? A in a pianola? But suppose
+it is in bad condition?  So it is not the effect but the purpose of the signs
+(the holes in the pianola roll). Their purpose *within* the mechanism"
+[@wittgenstein_philosophical_1974, 10]. Wittgenstein elaborates a few pages
+later:
 
 > The sentences that we utter have a particular purpose, they are to produce
 certain effects. They are parts of a mechanism, perhaps a psychological
@@ -685,15 +678,15 @@ orders which are carried out by keys and hammers
 [@wittgenstein_philosophical_1974, 69].
 
 As was the case with reading automata in *The Blue and Brown Notebooks*,
-Wittgenstein again substitute a mechanical mechanism for the process of
-symbolic interpretation. On this view, words and music notation alike, have "a
-purpose" to elicit some "effects" in the reader/player. But as before, we
-cannot expect the mechanism of interpretation to function properly, nor do we
-have a reliable way to check its operation. "Suppose the pianola is in bad
-condition," Wittgenstein retorts. The signs on the rolls produces "hisses and
-bangs" instead of notes. One could object that the notes were meant only to
-service a mechanism in perfect working order. By analogy, "the sense of an
-order is its effect on an obedient man" [@wittgenstein_philosophical_1974,
+Wittgenstein again substitute a physical mechanism for the process of symbolic
+interpretation. On this view, words and music notation alike, have "a purpose"
+to elicit some "effects" in the reader/player. But as before, we cannot always
+expect the mechanism of interpretation to function properly, nor do we have a
+reliable way to check its operation. "Suppose the pianola is in bad condition,"
+Wittgenstein repeats. The signs on the roll could produce "hisses and bangs"
+instead of music, for example. One could object that notes are always meant
+to play on a mechanism in perfect working order. By analogy, "the sense of
+an order is its effect on an obedient man" [@wittgenstein_philosophical_1974,
 60-70]. The pianola exemplifies what will come into a much starker contrast
 later in this chapter: that the mechanisms of symbolic communication ultimately
 belong to a class of controlling devices and that through them it becomes
@@ -701,30 +694,24 @@ impossible to isolate anything like an order (code, instruction, etc.) from
 content (message, information, etc.).
 
 When drawing the analogy between mental and mechanical precesses, Wittgenstein
-explicitly regents the model of language as a "psychophysical" mechanism.
+explicitly rejects the model of language as a "psychophysical" mechanism.
 Rather, as the title of the work suggests, Wittgenstein is in search for the
 "grammar" governing the engagement: between speakers and listeners, readers and
 writers, player pianos and musical scores. By the end of the work, grammar
 emerges as a set of "conventions." Wittgenstein complicates the mechanism by
-inserting an extra layer of "rules" that mediate between symbol and machine
-or mental state. A convention may be included in a chart, for example. And it
-is possible that "there is a part of the mechanism which resembles the chart,
-and is inserted between the language-part of the mechanism and the rest of it"
-[@wittgenstein_philosophical_1974, 190]. In this way, we can move away from
-speaking of "intended effects" or "proper abidance," and rather concentrate on
-this mediating layer that describes the rules of engagement.
-
-"Imagine a language consisting of commands," Wittgenstein writes in conclusion.
-It is to direct a human "forwards," "back," "right," and "left," "quickly" and
-"slowly." The grammar, like a table of correspondences, "explains the meaning of
-the signs. It is a program. It translates arbitrary symbolic notion into
-physical action.
-
-"But if thinking consists only in writing or speaking, why shouldn't a machine
-do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?
-Could it have internal states? "It is a travesty of the truth to say: thinking
-is an activity of our mind, as writing is an activity of the
-hand" [@wittgenstein_philosophical_1974, 17].
+inserting an extra layer of "rules" that mediate between symbol and machine or
+mental state. A convention could be included in a chart, for example. And it is
+possible that "there is a part of the mechanism which resembles the chart, and
+is inserted between the language-part of the mechanism and the rest of it"
+[@wittgenstein_philosophical_1974, 190]. "Imagine a language consisting of
+commands," Wittgenstein writes in conclusion.  It is to direct a human
+"forwards," "back," "right," and "left," "quickly" and "slowly"
+[@wittgenstein_philosophical_1974, 197] The grammar, like a table of
+correspondences, explains the meaning of the signs. Today, we would call it a
+"program." The translates arbitrary symbolic notion into physical action.  In
+this way, we can move away from speaking of "intended effects" or "proper
+abidance," and rather concentrate on this mediating layer that describes the
+rules of engagement.
 
 ### Lectures and Remarks
 
@@ -758,7 +745,7 @@ law is compulsory. What we would now call "an algorithm" compels predictable
 execution.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
-mechanism, also at the core of meaning making in mathematics.  "If I show you
+mechanism, also at the core of meaning making in mathematics. "If I show you
 the mechanism behind the [watch] dial, you will be able to predict the movement
 of the hour hand for any given movement of the minute hand," Wittgenstein
 writes.  "And you will not be sceptical." Yet even there, we would be making an
@@ -802,14 +789,14 @@ states and external symbolic representations. Second, Wittgenstein discusses
 symbolic representation in terms of desired effects, that is, ultimately a type
 of a remote control mechanism. And finally, Wittgestein imagines a mediating
 layer that holds the rules for translation between state and symbol. All of
-these features, along with a penchant for ambigusous thought experiment, pass
-directly from Wittgestein's to Turing. Turing, in effect, attepts to clean up
-after his teacher's profusion of broken interpreting machines. Instead, he
-gives us one thought experiment, which encomposses all possible center and edge
+these features, along with a penchant for ambigusous thought experimentation,
+pass directly from Wittgestein's to Turing. Turing, in effect, attepts to clean
+up after his teacher's profusion of broken interpretation machines. Instead, he
+gives us one thought experiment, encompossing all possible center and edge
 cases. In addition, Turing describes the minimal physical requirements needed
 to actually build such a contraption.
 
-## 1.5 Material Context
+## 1.3 Mechanism
 
 So far, we have confronted the literary device as an idea: imagined first as in
 the methodological contexts of formalist literary analysis and then as a

@@ -190,6 +190,12 @@ umbrella.
 
 ### Turing's *Computing Machinery and Intelligence*
 
+"But if thinking consists only in writing or speaking, why shouldn't a machine
+do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?
+Could it have internal states? "It is a travesty of the truth to say: thinking
+is an activity of our mind, as writing is an activity of the
+hand" [@wittgenstein_philosophical_1974, 17].
+
 Wittgenstein's conversations with Turing about the ways by which physical
 states pass into the symbolic ones and the other way around, prefigure the
 operation of the universal Turing machine. The Turing machine occupies exactly
@@ -242,7 +248,7 @@ drama. At one point of the essay Turing answers what he calls "the argument
 from consciousness," quoting one Professor Jefferson in saying that it is not
 "until a machine can write a sonnet or compose a concerto because of thoughts
 and emotions felt, and not by the chance fall of symbols, could we agree that
-machine equals brain—that is, not only write it but know that it had written
+machine equals brain---that is, not only write it but know that it had written
 it. No mechanism could feel (and not merely artificially signal, an easy
 contrivance) pleasure at its successes, grieve when its valves fuse, be warmed
 by flattery, be made miserable by its mistakes, be charmed by sex, be angry or
