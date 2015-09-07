@@ -937,19 +937,6 @@ ways.[^ln1-turing]
 ![Universal Turing machine as an idea. "Nick Gardner's Wireworld multiplier,
 via a Turing machine."](images/turing-idea.png)
 
-[^ln1-caveat]: The institutional distinctions between software engineering and
-computer science often hinge on the extent to which the discipline pays heed to
-the physical limitations of computing. As usual the situation on the ground is
-much more complicated, and the boundaries between software engineering and
-computer science are fast eroding. Still, North American students often have
-the choice to major in Computer Science or Software Engineering. It would not
-be unusual for the one faculty to be located in the School for Liberal Arts and
-Science and the other in the School of Engineering. Consider also the two major
-professional organizations: Institute for Electrical and Electronics Engineers
-(IEEE) and Association for Computing Machinery (ACM). See
-@glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
-@vessey_unified_2005.
-
 Bracketing for the moment the mathematical and cognitive implications of
 Turing's work, I want to approach the Turing machine from the perspective of a
 book historian and a media scholar. If the Turing machine is to be taken at
@@ -1120,8 +1107,6 @@ intertwining the histories of telecommunications and code control. A
 computational document or a book arises as a subset of control devices: the
 essence of distant writing is control.
 
-Return to Moreno.
-
 [^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
 @marche_literature_2012.
 
@@ -1152,4 +1137,16 @@ appropriate internalization of the symbol, for both human and machine.
 engineering and computer science is a common occurance in North American
 universities.
 
+[^ln1-caveat]: The institutional distinctions between software engineering and
+computer science often hinge on the extent to which the discipline pays heed to
+the physical limitations of computing. As usual the situation on the ground is
+much more complicated, and the boundaries between software engineering and
+computer science are fast eroding. Still, North American students often have
+the choice to major in Computer Science or Software Engineering. It would not
+be unusual for the one faculty to be located in the School for Liberal Arts and
+Science and the other in the School of Engineering. Consider also the two major
+professional organizations: Institute for Electrical and Electronics Engineers
+(IEEE) and Association for Computing Machinery (ACM). See
+@glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
+@vessey_unified_2005.
 

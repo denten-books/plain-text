@@ -116,7 +116,7 @@ Galloway
 For book blurb
 ===========================
 
-Negroponte. Lessig. Unger. 
+Negroponte. Lessig. Unger. Harry Lewis.
 
 Barbara Smith.
 
