@@ -1011,25 +1011,24 @@ mechanics of the typewriter could then be coupled with the electrics of the
 telegraph, with perforated tape acting as a mediator between the two "worlds"
 of mechanics and electricity.
 
-A number of contraptions emerged at the time with the aim of transforming the
+A number of contraptions emerged at the time with the aim of transfiguring the
 mechanical action of the typewriter into perforation, and, consequently,
 perforation into script, completing the circuit between automated "encoding"
 and "decoding." As one machine converted human input into mechanical states,
 and into signal, another machine converted signals into mechanical states and
 thereon into human-legible messages.
 
-What began as a trickle at the end of the nineteenth century ended in a flood
-at the beginning of the twentieth. A multitude of inventions capitalized on the
-control capabilities of removable storage media. These included machines for
-tape-controlled telegraphic transmission [@wheatstone_improvement_1874;
-@murray_tape-controlled_1905; @bumstead_telegraphy_1916], tape-controlled
-printing [@creed_printing_1911], printing telegraphs
-[@hallden_printing-telegraph_1929], and remote broadcast programming devices
-for radio and television content [@vriendt_program_1934; @brown_automatic_1936;
-@brown_selective_1936]. With the invention of punch cards and perforated tape
-(also used in textile looms, as early as 1725), a message meant for another
-human became also a physical medium---bumps and holes---used to animate the
-mechanical movement of the transmission apparatus.
+A multitude of inventions capitalized on the control capabilities of removable
+storage media by the beginning of the of the twentieth century. These included
+machines for tape-controlled telegraphic transmission
+[@wheatstone_improvement_1874; @murray_tape-controlled_1905;
+@bumstead_telegraphy_1916], tape-controlled printing [@creed_printing_1911],
+printing telegraphs [@hallden_printing-telegraph_1929], and remote broadcast
+programming devices for radio and television content [@vriendt_program_1934;
+@brown_automatic_1936; @brown_selective_1936]. With the invention of punch
+cards and perforated tape (also used in textile looms, as early as 1725), a
+message meant for another human became also a physical medium---bumps and
+holes---used to animate the mechanical movement of the transmission apparatus.
 
 For example, of the 33 asserted claims in the Bumstead brothers' "Telegraphy"
 patent, the first 13 relate to the "transmission of intelligence,"
@@ -1043,7 +1042,7 @@ patent, the first 13 relate to the "transmission of intelligence,"
 
 What begins as a description of a mechanism for information transmittal, ends
 with a claim about hermeneutics of control. Starting with clause 14, the
-brothers begin to describe "a telegraph system" that capable of "transmitting
+brothers begin to describe "a telegraph system" capable of "transmitting
 impulses" at varying time intervals. In the language of the patent, the length
 of the time interval "represents significance," involving an automated receiver
 responsible for "distributing, interpreting, and recording." The printing
@@ -1056,51 +1055,53 @@ code" [@bumstead_telegraphy_1916, 13]. Initially, the telegraph prints to
 intervals could also signify other information, meant to actuate a variety of
 devices.
 
-By the middle of their patent, they begin to describe their telegraph as a
-general "controlling medium," which can power everything from typesetting
-machines to more general "sunflower switches." "Indeed the detector and the
-interpreting relay could be made to actuate a set of sunflower switches for an
-indicator without including a printer at all," the authors conclude
-[@bumstead_telegraphy_1916, 12]. For the automated telegraph, control code and
-the message are one. The mechanism interprets some signals as figure and
-character and other signals as control code affecting the internal mechanical
-configuration of the device. The first type of code holds "significance" for
-humans, where the second for the mechanism itself. It is "transmitting
-intelligence" in a sense of externalizing machine states and "interpreting" in
-the sense of mechanical reconfiguration of internal parts.
+By the middle of the patent, the brothers describe their telegraph as a general
+"controlling medium," which can power everything from typesetting machines to
+more general "sunflower switches." "Indeed the detector and the interpreting
+relay could be made to actuate a set of sunflower switches for an indicator
+without including a printer at all," the authors conclude
+[@bumstead_telegraphy_1916, 12].
 
-Along with dozens of similar inventions patented around the turn of the
+Along with hundreds of similar inventions patented around the turn of the
 twentieth century, Bumstead brothers describe a mechanism that could function
 as a Turing machine with little modification. The automated telegraph, driven
 by ticker tape, and connected to a printer contain all the necessary
 requirements set out by Turing: a discrete symbolic language, the removable
 storage medium, and a device that can alter its internal states based on the
-reading and writing of scanned symbols. Like the Turing machine, the Bumstead
-telegraph is capable of recursion. Ultimately, it can produce and interpret its
-own control codes. By 1905, Donald Murray, the inventor of the popular Murray
-telegraph, could write that "if we disregard the small class of telegrams that
-merely express emotions, *the essence of telegraphy is control* [emphasis
-mine]." He wrote also that "telegraph systems, therefore, belong not to the
-class of producing or distributing, but to the class of controlling mechanisms"
-[@murray_setting_1905, 556].
+reading and writing of scanned symbols. They are able "read" and "write" and
+otherwise manipulate symbolic representation, they ingest tape, and they
+convert covert symbol into internal structure. Like the Turing machine, the
+Bumstead telegraph is capable of recursion: ultimately, it can produce and
+interpret its own control codes. By 1905, Donald Murray, the inventor of the
+popular Murray telegraph, could write that "if we disregard the small class of
+telegrams that merely express emotions, *the essence of telegraphy is control*
+[emphasis mine]." He wrote also that "telegraph systems, therefore, belong not
+to the class of producing or distributing, but to the class of controlling
+mechanisms" [@murray_setting_1905, 556]. For the automated telegraph, control
+code and the message are one. The mechanism interprets some signals as figure
+and character and other signals as control code affecting the internal
+mechanical configuration of the device. The first type of code holds
+"significance" for humans, where the second for the mechanism itself. It is
+"transmitting intelligence" in a sense of externalizing machine states and
+"interpreting" in the sense of mechanical reconfiguration of internal parts.
 
-To rediscover the digital book device as a computational literary artifact
-means coming to terms with it as as a universal Turing machine. This entails
-understanding the simulated nature of the electronic text. The computer
-pretends to be a book. Everything that we know to be true of text in
-print---from the shape of the letters to the position of text on a page, to
-characters, words, sentences, paragraphs, sections, chapters, and manuscripts,
-to more abstract categories like poems, novels, plays, and short stories, to
-authors, styles, narratives, and discourses, in short to all textual constructs
-that have their dimensions in physical space (and that is all of them), the
-entire burden of literary theory---must be reconstructed again as a
-*simulation*.
+To rediscover the book in the guise of a computational literary artifact means
+coming to terms with it as a robot---a device for remote machine control. It
+entails seeing through to the simulated nature of the electronic text.
+Everything that we know to be true of text in print---from the shape of the
+letters to the position of text on a page, to characters, words, sentences,
+paragraphs, sections, chapters, and manuscripts, to more abstract categories
+like poems, novels, plays, and short stories, to authors, styles, narratives,
+and discourses, in short to all textual constructs that have their dimensions
+in physical space (and that is all of them), the entire burden of literary
+theory---must be reconstructed again as a *simulation*.
 
 Furthermore, it means also gaining awareness of other simulations that are
 enacted simultaneously through the device. Where a book is a just a book, the
 simulated book fulfills other functions. As a universal Turing machine, the
-device has the potential to conjure multiple metaphors. This means simply that
-the literary artifact is also a phone, an alarm clock, a typewriter, a
+device has the potential to conjure multiple metaphors. The universal machine
+is a machine for making all possible metaphors. It can simulate a book, a
+telephone, an alarm clock, a calculator, a typewriter, a censor, a surveyor, a
 surveillance system, and otherwise an instrument of governance. Its potential
 to simulate other machines is unbounded.
 
@@ -1126,15 +1127,16 @@ thus a history of symbolism in the broadest possible meaning of the word, which
 includes lyric poetry and symbolic logic. The difficult truth for the
 contemporary reader is that the computational metaphor, embodied on the level
 of the device, resists interpretation by conventional means. Metaphors of
-computation frame the deep structure of our basic everyday interaction with
+computation frame deep structure affecting basic everyday interaction with
 computers. As with all metaphors, nothing is what it seems: to "save" a
 document, to "copy" it and to "delete" it, to "surf" or to "browse" the
-internet, to "turn the page," to "bookmark," to "highlight," and ultimately to
+internet, to "run" a program, the softness of software and the hardness of
+hardware, to "turn the page," to "bookmark," to "highlight," and ultimately to
 "read a book"---these are all metaphors that obscure the underlying material
-realities of the action. The metaphors ingratiate themselves to us in daily
-use. With time they disappear from view: invisible metaphors of invisibility.
-When habituated, they alienate us from the word. A new wave of estrangement is
-needed to once again make visible the literary device.
+conditions of symbolic exchange. The metaphors ingratiate themselves to us in
+daily use. With time they disappear from view: invisible metaphors of
+invisibility.  When habituated, they alienate us from the symbol. A new wave of
+estrangement is needed to rouse it from its metaphorical slumber.
 
 [^ln1-google]: "Google's mission is to organize the world's information
 and make it universally accessible and useful" (@google_about_2015).
