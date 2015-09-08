@@ -46,7 +46,7 @@ finished, perfected product whose assumed perfectibility was an excuse [...]
 for forsaking its past, for preferring one partial phenomenon to the whole
 reality" [@moreno_who_1953, 233]. The "illusion of the perfected product"
 reduces humans to "machine-addicts," residing in a "jungle of robots" that
-threatens to suffocate all spotanious activity. Through robots, life becomes a
+threatens to suffocate all spontaneous activity. Through robots, life becomes a
 script.
 
 In the name of comfort, safety, and prolonged life, technologists and
@@ -388,7 +388,7 @@ project our values through the machine, and not the other way around. What
 seems like a technologically determined inevitability is often simply the
 imposition of values from without. It is an attempt to social and political,
 not technological determinism. In most cases, it is possible to trace the root
-of imposition to specific govening agents, agencies, or incorporations.
+of imposition to specific governing agents, agencies, or incorporations.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
@@ -606,7 +606,7 @@ not one of finding a machine that can do the job---of manipulating signs, for
 example. It lies in the ability of a machine to enact the both sides of the
 metaphoric equation. "Doing the job," the manipulation of signs, must
 correspond to something else. Severed from some other analogical structure, the
-"blind" manipulation of signs is a meaningless actvity. Meaning, Wittgenstein
+"blind" manipulation of signs is a meaningless activity. Meaning, Wittgenstein
 seems to suggest, resides simply in this analogy between something (symbol) and
 something else (mechanism).
 
@@ -735,16 +735,17 @@ to elicit some "effects" in the reader/player. But as before, we cannot always
 expect the mechanism of interpretation to function properly, nor do we have a
 reliable way to check its operation. "Suppose the pianola is in bad condition,"
 Wittgenstein repeats. The signs on the roll could produce "hisses and bangs"
-instead of music, for example. One could object that notes are always meant
-to play on a mechanism in perfect working order. By analogy, "the sense of
-an order is its effect on an obedient man" [@wittgenstein_philosophical_1974,
-60-70]. The pianola exemplifies what will come into a much starker contrast
-later in this chapter: that the mechanisms of symbolic communication ultimately
-belong to a class of controlling devices and that through them it becomes
-impossible to isolate anything like an order (code, instruction, etc.) from
-content (message, information, etc.).
+instead of music, for example. One could object that notes are always "meant"
+to play on a mechanism in perfect working order. But to explain what is meant,
+we would need to draw yet another diagram. By analogy, the "sense" of an
+"order" lies in its "effect on an obedient man"
+[@wittgenstein_philosophical_1974, 60-70]. The pianola exemplifies what will
+come into a much starker contrast later in this chapter: that the mechanisms of
+symbolic communication ultimately belong to a class of controlling devices.
+Metaphors control in the sense of mediating state changes between two disparate
+conceptual systems.
 
-When drawing the analogy between mental and mechanical precesses, Wittgenstein
+When drawing the analogy between mental and mechanical processes, Wittgenstein
 explicitly rejects the model of language as a "psychophysical" mechanism.
 Rather, as the title of the work suggests, Wittgenstein is in search for the
 "grammar" governing the engagement: between speakers and listeners, readers and
@@ -759,9 +760,9 @@ commands," Wittgenstein writes in conclusion.  It is to direct a human
 "forwards," "back," "right," and "left," "quickly" and "slowly"
 [@wittgenstein_philosophical_1974, 197] The grammar, like a table of
 correspondences, explains the meaning of the signs. Today, we would call it a
-"program." The translates arbitrary symbolic notion into physical action.  In
-this way, we can move away from speaking of "intended effects" or "proper
-abidance," and rather concentrate on this mediating layer that describes the
+"program." Programs translate arbitrary symbolic notation into physical action.
+In this way, we can move away from speaking of "intended effects" or "proper
+obedience," and rather concentrate on the mediating layer that describes the
 rules of engagement.
 
 ### Lectures and Remarks
@@ -786,30 +787,30 @@ something behind our symbols" [@wittgenstein_wittgensteins_1976, 194]. We
 imagine logic to be a sort of a "rigid mechanism" that can only turn this way
 or the other. "Any rule can be imagined to be a description of a
 mechanism---even the rule which says a pawn must not be moved in a certain
-way," Wittgenstein writes. The parts of the mechanism subsequently exist in a
-causal relationship to one another. Pushing this or that lever will *always*
-result in such and such movement, because of the way the mechanical parts are
-connected. We say that the mechanism is rigid or the law is inexorable, when
-the results of an action are absolutely fixed. Wittgenstein calls such a
-relationships "super-hardness." Where a judge can be lenient, he explains, the
-law is compulsory. What we would now call "an algorithm" compels predictable
-execution.
+way," Wittgenstein writes [@wittgenstein_wittgensteins_1976, 282]. The parts of
+the mechanism subsequently exist in a causal relationship to one another.
+Pushing this or that lever will *always* result in such and such movement,
+because of the way the mechanical parts are connected. We say that the
+mechanism is rigid or the law is inexorable, when the results of an action are
+absolutely fixed. Wittgenstein calls such a relationships "super-hardness."
+Where a judge can be lenient, he explains, the law is compulsory. What we would
+now call "an algorithm" compels predictable execution.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
 the mechanism behind the [watch] dial, you will be able to predict the movement
 of the hour hand for any given movement of the minute hand," Wittgenstein
-writes.  "And you will not be sceptical." Yet even there, we would be making an
+writes. "And you will not be sceptical." Yet even there, we would be making an
 assumption about a mechanism that functions well. "For instance, I may drop the
 clock" Wittgenstein explains, "so that the machinery is broken, or a lighting
 may strike it [@wittgenstein_wittgensteins_1976, 195]. How are we to know if
 the mechanism functions properly or not? For that we would need "a picture" or
 some sort of schematics that describe what the proper mechanism should look
-like. The mechanism is in fact itself a type of "a symbol" for the perfected
-behaviour of the sort that we expect. Where we tried to find the mechanism
+like. The mechanism is in fact itself a type of a symbol for the perfected
+behavior of the sort that we expect. Where we tried to find the mechanism
 behind the symbol, we found also the symbol behind the mechanism. Once again we
-encounter the spiral between intent and effect, which never quite manage to
-explain each other.
+encounter the spiral of interpretation between intent and effect, which never
+quite manage to explain each other.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
 recursive conundrum. The foundations of mathematics rely on some such mutually
@@ -821,31 +822,39 @@ fields of human activity, from literature to psychology and mathematics.
 In all of these fields, Wittgenstein finds an implicit analogy between "symbol"
 and "mechanism." A type of metaphor, the analogy itself is atomic. It cannot be
 split further into something like "sign" and "referent" or the "signifier" and
-the "signified." In his lectures on aesthetics, Wittgenstein describes such a
+the "signified." Considered apart, the two parts of the metaphor are strictly
+meaningless. In his lectures on aesthetics, Wittgenstein describes such a
 semiotic relationship as the "concomitance between mechanism and its trace"
 [@wittgenstein_lectures_1966, 16]. In giving an account of one's aesthetic
 judgment, the best we can do is to "trace a mechanism"
 [@wittgenstein_lectures_1966, 13].
 
-It would be a mistake to reduce Wittgenstein's semiotics to the mechanichal
+It would be a mistake to reduce Wittgenstein's semiotics to the mechanical
 theory of the mind. Rather, in presenting his students and readers with a
 number of hypothetical machines, Wittgenstein attempts to discover the rule
-book of what he later calls the language game. Much has been written on this
-aspect of Wittgenstein's thought. In the context of our conversation,
-Wittgenstein's "middle period" is important for its direct influence on
-Turing's model of computation. Several prominent charactheristics pass from
-Wittgenstein's reading machines to Turing's universals. First, the symbolic
-machine emerges from the metaphor-like corrspondance between internal machine
-states and external symbolic representations. Second, Wittgenstein discusses
-symbolic representation in terms of desired effects, that is, ultimately a type
-of a remote control mechanism. And finally, Wittgestein imagines a mediating
-layer that holds the rules for translation between state and symbol. All of
-these features, along with a penchant for ambigusous thought experimentation,
-pass directly from Wittgestein's to Turing. Turing, in effect, attepts to clean
-up after his teacher's profusion of broken interpretation machines. Instead, he
-gives us one thought experiment, encompossing all possible center and edge
-cases. In addition, Turing describes the minimal physical requirements needed
-to actually build such a contraption.
+book of what he later calls the language game---or at lest to suggest that such
+a rulebook might exist. Much has been written on this aspect of Wittgenstein's
+thought and its relation to Bertrand Russel's symbolic logic. In the context of
+our conversation, Wittgenstein's "middle period" (between his *Tractatus* and
+*Philosophical Investigations*) is important for its direct influence on
+Turing's model of computation.
+
+Several prominent characteristics pass from Wittgenstein's reading machines to
+Turing's universals. First, the symbolic machine emerges from the metaphor-like
+correspondence between internal machine state and external symbolic
+representation. Second, Wittgenstein discusses symbolic representation in terms
+of its delayed effects, that is, ultimately, a type of a remote control
+mechanism. And finally, Wittgenstein imagines a mediating layer that holds the
+rules for translation between state and symbol. All of these features, along
+with a penchant for ambiguous thought experimentation, pass directly from
+Wittgenstein to Turing. Turing consequently attempts to clean up after his
+teacher's profusion of broken interpretation machines. Instead, he gives us one
+thought experiment, encompassing all possible center and edge cases. In
+addition, Turing describes the minimal physical requirements needed to actually
+build such a contraption. Turing imagines the universal metaphor machine, given
+the right requirements, able to convert any symbolic input into the
+corresponding physical state of the mechanism. It is a machine that "traces the
+mechanism" of all other metaphoric mechanisms.
 
 ## 1.3 Mechanism
 
