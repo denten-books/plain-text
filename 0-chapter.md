@@ -78,7 +78,7 @@ bargain that defines human--computer interaction: to trade facility for
 comprehension, to complicate in return for the illusion of simplicity, and to
 exist within that illusion without understanding how it is made.
 
-## An Argument for Plain Text
+## Computed Textuality
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -97,10 +97,9 @@ forms of governance, like the enforcement of intellectual property rights and
 censorship. The use of plain text therefore entails the making visible of
 implicit governing structures. It implies also that computational control is
 available for *computational hermeneutics*. Building on the recent work of
-scholars like Wendy Hui Kyong Chun, Alexander Galloway, Matthew Kirschenbaum,
-and Lisa Gitelman, I contend that textual legibility is becoming increasingly
-crucial to a critical understanding of what it means to remain human in a
-digital world.
+scholars like Wendy Hui Kyong Chun, Alexander Galloway, and Lisa Gitelman, I
+contend that textual legibility is becoming increasingly crucial to a critical
+understanding of what it means to remain human in a digital world.
 
 The overarching aim of the book is therefore to expose the illusion of
 verisimilitude between text on paper and text on the screen. The words may look
@@ -120,7 +119,7 @@ Friedrich Kittler warns us about, must mean more than passive apprehension of
 footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
 Kittler, who once wrote that "under conditions of high technology, literature
 has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
-literature continues to have a voice in modern life. Technology does not
+literature continues to have a voice in contemporary life. Technology does not
 silence---it transforms the nature of literary phenomena. The instruments of
 literary analysis should consequently evolve to deal with new technological
 contingencies. Where texts are encrypted, we decrypt. If "automated discourse
@@ -139,6 +138,98 @@ channels itinerant streams of data back into the mangroves of human agency and
 comprehension for all. There, code becomes intelligible for the very subjects
 whose loss Kittler laments. Only in such encrypted tunnels and secure shells
 can anything like the digital humanities take root.
+
+In drawing the history of the universal Turing machine, we will observe the
+evolution of symbolism into its final and totalizing form. By converting
+machine states into symbols, the Turing machine represents the ultimate
+negation of matter. It subsumes all lesser mechanisms amenable to
+computation---which some would say includes brains and universes.[ln1-brains]
+The universal Turing machine has the potential to mediate everywhere, yet,
+paradoxically, it's method of "mediation" abstracts from any notion of medium
+or intervening substance.
+
+Under the command and control regime of the Turing machine, text loses its
+adhesion to the world. Yet it would be a mistake to think of it as wholly
+ethereal. The symbol itself, in its rawest form, anchors the Turing machine to
+the confines of the physical universe. No matter the transcendental impulse,
+the universal Turing machine cannot be abstracted beyond its minimal physical
+requirements: "tape," "symbol," "scanned square," "in the machine"
+[@turing_computable_1937, 231].[^ln1-inside]
+
+A figure of computation emerges in the dual movement between symbol and
+machine: the machine that pushes the symbol towards the ethereal, and the
+symbol that pulls the machine back towards earth. This dynamic encapsulates the
+bargain at the center of computational media, explored for the duration of the
+book. The machine frees symbolic representation from its material confines. The
+price of freedom is the very opacity of the material context. Where words etched
+in paper or stone constituted a single site for textual activity, the digital
+word exists in a simulated environment physically apart from the underlying
+material substratum. Freedom reveals itself as a simulation.
+
+The seeming immateriality of digital media entails real-world effects: the
+costs of replication plummet, for example. Computational text can be copied
+effortlessly, with minimal cost, and with near-perfect fidelity.
+Hyper-reproducibility of the sort was unthinkable for most of the twentieth
+century. The machine allows for rapid remediation. Lowered costs of copying
+further reduce barriers to access and conveyance. Symbols that adhere lightly
+to their medium are easy to store and to transport. Witness the rise of
+massive, global public knowledge projects like online search engines and
+encyclopedias as a direct consequence. Such projects unfold the logic of
+immateriality, which moves towards totalizing archives and universal
+accessibility.[^ln1-google] When representation appears to weigh nothing, one
+imagines a weightless totality of all representation, available immediately and
+everywhere. The perceived weightlessness of text has other side-effects as
+well. For example, a text that adheres lightly to its medium is also difficult
+to contain, making onerous the governance of symbolic representation and
+weakening traditional controls like censorship and intellectual property
+rights.
+
+Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
+Rather, the symbol splits in two: with one half arising visibly, a weightless
+and apparent screen simulation, and the other half, opaque, etched into the
+hefty and hidden material contingencies of the device.
+
+Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
+text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
+[and] contingent" they are both identifying real-world technological
+affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
+@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
+which, when faced with the law prohibiting observant Jews from erasing God's
+name, rule that words on "screens, disks, and tapes" are not to be considered
+as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
+quoted @heim_electric_1987, 192]. Other technological and legal fictions rise
+to restore a measure of "stickiness" to electronic media. For example,
+manufacturers commonly embed digital rights management circuits into video
+streaming devices to artificially limit the duplication of broadcast material.
+Similarly, electronic book sellers usually disable the reader's ability to copy
+and paste from the material. Such measures mimic some of the constraints
+associated with static, paper-and-ink media regimes.
+
+When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
+respond to Heim and company with hardened materialism, they are also rightly
+identifying actual properties of electronic text. But the two camps speak
+neither of the same phenomenon nor at the same site. The former group points to
+the screen as the impermanent and ephemeral state of the written word: like
+tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
+points instead to the "uniquely indelible nature of magnetic storage"
+[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
+"fundamental physical support" and "material substrates of computing"
+[@drucker_performative_2013]. Both locations, the screen and the disk, are
+real. Neither can be reduced to the other. Both contain distinct constraints
+and affordances for action.
+
+The material substrates of computational text likewise carry real-world
+affordances and consequences. They are first and foremost hidden from view.
+Drives and tapes reside inside of black or aluminum boxes. If only because they
+carry electrical current and have the potential to catch fire, they are
+regulated. They contain heavy and rare metals, often hazardous if touched or
+ingested. The computational part of the sign is sealed in miniaturized
+containers that prevent access and to resist tempering. These are but some of
+the realities of material text. It is text intertwined with machine internals
+and control code and it is often hermeneutically sealed to resist human
+interpretation.
+
+## An Argument for Plain Text
 
 *Plain Text* makes a historical case for the recovery of textual thought latent
 in the machinery of contemporary computing. Software engineers routinely
@@ -159,7 +250,7 @@ Computational hermeneutics show that not all texts are created equal. In print,
 traditional distinctions between form and content lie flat. The printing press
 firmly embeds letters into paper, leaving no space between ink and page.  From
 the early days of the internet, media-minded critics like Jerome McGann
-[@mcgann_radiant_2004], Johanna Drucker [@drucker_digital_2001], and Katherine
+[@mcgann_radiant_2001], Johanna Drucker [@drucker_digital_2001], and Katherine
 Hayles [@hayles_print_2004] have compelled literary scholars to re-evaluate
 textuality in its media-specific context. Their work reminds us that the
 flatness of *digital* text endures only as an illusion. Low-level, operational
@@ -279,6 +370,10 @@ not share in any given familial characteristic
 [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
 model, imagine a tree diagram, where the tangled branches of computation and
 textuality intersect and diverge in beautiful and arbitrary ways.
+
+[^ln1-brains]: For the first view see @putnam_minds_1960 and
+@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
+@dyson_turings_2012.
 
 ### Experimental Methods
 
@@ -458,6 +553,9 @@ storage systems, considered as "furnishings of the mind" that tell us something
 about the way we externalize our thoughts. The book concludes with the concept
 of the human as encoded in the philosophy of the Unix operating system.
 
+[^ln1-google]: "Google's mission is to organize the world's information
+and make it universally accessible and useful" [@google_about_2015].
+
 ## From Keystroke to Pixel: Plan of the Present Work
 
 The passage from keystroke to pixel runs a thread through the book. I begin
@@ -575,6 +673,7 @@ stars---storage, transmission, *the laying of cables*
 [^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
 agency of complex systems and (b) a practice of diminishing the scope of human
 freedoms by technological means.
+
 ## Digital Displacement
 
 *Plain Text* enacts a reconciliation of vocabularies. It is a response to a
