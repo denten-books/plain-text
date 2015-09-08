@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 3: Splitting the Sign"
+subtitle: "Chapter 2: Splitting the Sign"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -22,7 +22,35 @@ Tie to the first two chapters. Easy multiplicity of documents.
 Bring in Trilling? Digitality as something imposed from without or imposed on
 us! Because the book is different it fucks with authenticity.
 
-# Chapter 3: Splitting the Sign
+The possibility of text that reconfigures itself.
+
+# Chapter 2: Splitting the Sign
+
+The bifurcated sign resides in two distinct locations, each entailing
+drastically differing affordances for reading.
+
+The long history of the word proceeds in stages, from the immutable sign to the
+universal implement, capable of reproducing all symbolic representation
+dynamically. The universal Turing machine culminates the development of the
+symbol. Through it, the symbol gains its ideal form, capable of representing
+everything that can be represented. All further symbolic engines constitute
+lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
+machine itself is also limited to an ideal. It can only exist as a thought
+experiment. All real-world Turing machines must contain non-representational
+elements, dispelling the illusion of immateriality.
+
+When viewed in the context of book history, the universal Turing machine
+signifies a consummation of several broad, long-term trends that begin with the
+invention of writing itself. The God of the Hebrew Bible etched his
+commandments into stone (Exodus 34:1). Moses broke the first set of tablets,
+but the word remained, for a time, immutable. The material history of literary
+computing begins with petrified words that endure forever, and ends with word
+as an electrical charge: animated, radiant, fluid, and iridescent
+[@mcgann_radiant_2001; @bryant_fluid_2002].
+
+Although much of contemporary popular discourse on computation speaks the
+language of disruption, the history of computational symbolism, of the sort I
+am suggesting here, must be seen as an evolutionary trajectory.
 
 ## 3.1 WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -207,30 +235,6 @@ dialectical motion of the real world and the dialectic of Hegel was placed upon
 its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
 
-[^ln1-dirt]: Think of text as substance and literature as surface. The first is
-like dirt where the second is gound. We play with one on top of the other.
-
-[^ln1-gate]: Solid state memory technology, flash memory for example, store
-information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over a
-magnetic surface. Solid state capacitor storage was used in the earliest
-computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage in consumer electronics. In an early
-(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
-and Sze explain: "A structure has been proposed and fabricated in which
-semipermanent charge storage is possible. A floating gate is placed a small
-distance from an electron source. When an appropriately high field is applied
-through an outer gate, the floating gate charges up. The charges are stored
-even after the removal of the charging field due to much lower back transport
-probability [...] Such a device functions as a bistable memory with
-nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
-
-[^ln1-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
 
 As we embark to explore the consequences of simulated text, I propose we keep
 the following three landmark mechanisms in view as signpost along our journey:
@@ -1355,3 +1359,27 @@ mean to make the mechanisms of naked political control visible. For any sort of
 reading to commence, one would first need to peel away the DOMs and the
 OSIs---today a task fraught with legal consequence.
 
+[^ln1-dirt]: Think of text as substance and literature as surface. The first is
+like dirt where the second is gound. We play with one on top of the other.
+
+[^ln1-gate]: Solid state memory technology, flash memory for example, store
+information in capacitor "circuit states." This by contrast with
+electromagnetic storage that works by modulating electrical charge over a
+magnetic surface. Solid state capacitor storage was used in the earliest
+computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage in consumer electronics. In an early
+(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
+[^ln1-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].

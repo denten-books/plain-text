@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 2: Simulated Text"
+subtitle: "Chapter 3: Simulated Text"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -18,7 +18,7 @@ header-includes:
 
 ---
 
-# Chapter 2: Simulated Text
+# Chapter 3: Simulated Text
 
 ## 2.1 Metaphor Machine
 
@@ -37,156 +37,11 @@ and programmatic sign, whose "value" is purely *tactical*, at the intersection
 of other signals ("bits" of information/tests) whose structure is that of a
 micromolecular code of command and control [@baudrillard_selected_1988, 139-140].
 
-To rediscover the digital book device as a computational literary artifact
-means coming to terms with it as as a universal Turing machine. This
-immediately entails understanding the simulated nature of the electronic text.
-The computer pretends to be a book. Everything that we know to be true of text
-in print---from the shape of the letters to the position of text on a page, to
-characters, words, sentences, paragraphs, sections, chapters, and manuscripts,
-to more abstract categories like poems, novels, plays, and short stories, to
-authors, styles, narratives, and discourses, in short to all textual constructs
-that have their dimensions in physical space (and that is all of them), the
-entire burden of literary theory---must be reconstructed again as a
-*simulation*.
+### Ephemeral text
 
-Furthermore, it means also gaining awareness of other simulations that are
-enacted simultaneously through the device. Where a book is a just a book, the
-simulated book fulfills other functions. As a universal Turing machine, the
-device has the potential to conjure multiple metaphors. This means simply that
-the literary artifact is also a phone, an alarm clock, a typewriter, a
-surveillance system, and otherwise an instrument of governance. Its potential
-to simulate other machines is unbounded.
-
-Finally, the very metaphysical nature of Turing machines implies the
-irreversible admixture of matter, content, and control. When reading a paper
-and cloth book, one can definitively isolate a) the physical properties of
-paper and cloth from b) the content of the book and from c) the legal and
-political elements governing the production of textuality. I write "separate"
-in the literal sense of recovering the blank paper, copying the content into
-another medium, and removing indications of governance like the North American
-ISBN numbers and notices of intellectual property. The Turing machine by
-definition ingests both symbolic representation and machine control codes
-through the same input stream. If you recall, Turing specifies "mental states"
-of machine's "awareness" that include "scanned symbols" and "instructions for
-operation." In Turing's minimally viable system, the machine sometimes reads
-and remembers numbers and at other times symbols that specify the movement of
-the scanning head, in actions like "erase the current cell" or "write out the
-last remembered digit." Within the Turing world, which reduces all physical
-mechanisms to symbols, the symbol carries with it a message of symbolic
-control.
-
-Through the ideal of a universal Turing machine, symbolism evolves into its
-final and totalizing form. By converting machine states into symbols, the
-Turing machine represents the ultimate negation of matter. It subsumes all
-lesser mechanisms amenable to computation---which some would say includes
-brains and universes.[ln1-brains] The universal Turing has the potential to
-mediate everywhere, yet, paradoxically, it's method of "mediation" abstracts
-from any notion of medium or intervening substance.
-
-Under the command and control regime of the Turing machine, text loses its
-adhesion to the world. Yet it would be a mistake to think of it as wholly
-ethereal. The symbol itself, in its rawest form, anchors the Turing machine to
-the confines of the physical universe. No matter the transcendental impulse,
-the universal Turing machine cannot be abstracted beyond its minimal physical
-requirements: "tape," "symbol," "scanned square," "in the machine"
-[@turing_computable_1937, 231].[^ln1-inside]
-
-A figure of computation emerges in the dual movement between symbol and
-machine: the machine that pushes the symbol towards the ethereal, and the
-symbol that pulls the machine back towards earth. This dynamic encapsulates the
-bargain at the center of computational media and the subject of this book. The
-machine frees representation from its material confines. Yet the freedom is
-only simulated. Its price is the very opacity of the material context. Where
-words etched in paper or stone constituted a single site for textual activity,
-the digital word exists in a simulated environment physically apart from the
-underlying material substratum.
-
-The immateriality of digital media entails real-world effects: the costs of
-replication plummet, for example. As a private individual, I am able to make
-thousands if not millions of copies of a text without spending so much as a
-dime. Hyper-reproducibility of the sort was unthinkable for most of the
-twentieth century. The machine allows for rapid remediation. The lowered costs
-of copying further reduce barriers to access and conveyance. Symbols that
-adhere lightly to their medium are easy to store and to transport. Witness the
-rise of massive, global public knowledge projects like online search engines
-and encyclopedias as a direct consequence. Such projects unfold the logic of
-immateriality, which moves towards totalizing archives and universal
-accessibility.[^ln1-google] Under the conditions where representation weighs
-nothing, one imagines a weightless totality of all representation, available
-immediately and everywhere.
-
-The percieved weightlessness of text has other side-effects which we will
-explore throughout the book. For example, a text that adheres lightly to its
-medium is also difficult to contain, making onerous the governance of symbolic
-representation. Traditional controls like censorship and intellectual property
-rights become difficult to sustain.
-
-Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
-Rather, the symbol splits in two: with one half arising visibly, a weightless
-and apparent screen simulation, and the other half, opaque, etched into the
-hefty and hidden material contingencies of the device.
-
-Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
-text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
-[and] contingent" they are both identifying real-world technological
-affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
-@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
-which, when faced with the law prohibiting observant Jews from erasing God's
-name, rule that words on "screens, disks, and tapes" are not to be considered
-as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
-quoted @heim_electric_1987, 192]. Other technological and legal fictions arise
-to restore a measure of "stickiness" to electronic media.  For example,
-manufacturers commonly embed digital rights management circuits into video
-streaming devices to artificially limit the duplication of broadcast material.
-Similarly, electronic book sellers usually disable the reader's ability to copy
-and paste from the material. Such measures mimic some of the constraints
-associated with static, paper-and-ink media regimes.
-
-When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
-respond to Heim and company with hardened materialism, they are also rightly
-identifying actual properties of electronic text. But the two camps speak
-neither of the same phenomenon nor at the same site. The former group points to
-the screen as the impermanent and ephemeral state of the written word: like
-tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
-points instead to the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
-"fundamental physical support" and "material substrates of computing"
-[@drucker_performative_2013]. Both locations, the screen and the disk, are
-real. Neither can be reduced to the other. Both contain distinct constraints
-and affordances for action.
-
-The material substrates of computational text likewise carry real-world
-affordances and consequences. They are first and foremost hidden from view.
-Drives and tapes reside inside of black or aluminum boxes. If only because they
-carry electrical current and have the potential to catch fire, they are heavily
-regulated. They contain heavy and rare metals, often hazardous if touched or
-ingested. The computational part of the sign is sealed in miniaturized
-containers that prevent access and to resist tempering. These are but some of
-the realities of material text. It is text intertwined with machine internals
-and control code and it is often hermeneutically sealed to resist human
-interpretation.
 
 The bifurcated sign resides in two distinct locations, each entailing
 drastically differing affordances for reading.
-
-[^ln1-google]: "Google's mission is to organize the world's information
-and make it universally accessible and useful" (@google_about_2015).
-
-[^ln1-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
-
-[^ln1-inside]: Note that these are also minimal physical requirements for
-interpretation: the ability to internalize and to externalize symbolically. My
-definitions do imply a sort of a dualism, but not between mind and
-body---simply between inside and outsdie, self and other, I and not-I.  This
-has been said before in many ways.
-
-[^ln1-normal]: The process of normalization continues today as contemporary
-technologies like natural language processing and optical character recognition
-struggle to bring non-regularized writing systems under the computational
-umbrella.
-
 
 ### Turing's *Computing Machinery and Intelligence*
 
