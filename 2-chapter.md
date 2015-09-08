@@ -141,25 +141,6 @@ Literature as imitation game == mimesis, simulation.
 [^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
 Room" experiment [@searle_minds_1980].
 
-[^ln1-notes]: As always, working with Wittgenstein is complicated by the
-inherently ad-hoc nature of his published work. Much of it comes to us in the
-form of disjointed second-hand notes and dictations. As if to anticipate this
-difficulty, in a letter to Bertrand Russell accompanying the manuscript of *The
-Blue and Brown Books*, a collection of notes that form the basis for his
-*Philosophical Investigations*, Wittgenstein writes: "I think it's very
-difficult to understand [these notes], as so many points are just hinted at.
-They are meant only for the people who heard the lectures"
-[@wittgenstein_blue_1965, vii].
-
-[^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If there
-were such machines having the organs and the shape of a monkey or some other
-animal that lacked reason, we would have no way of recognizing that they were
-not entirely of the same nature as these animals; whereas if there were any
-such machines that bore a resemblance to our bodies and imitated our action as
-far as this is practically feasible, we would always have two very certain
-means of recognizing that they were not at all, for that reason, true men."
-Also quoted in @dennett_can_2004, 297.
-
 [^ln1-enigma]: See the enigmatic fragment on @wittgenstein_remarks_1978, 372.
 
 ## 2.2 Form as Concrete and Universal
