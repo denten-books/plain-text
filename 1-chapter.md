@@ -482,7 +482,7 @@ Consider by contrast the action of a film projector. Unlike a Turing machine,
 the projector does not internalize film reels. The film reel passes through
 without leaving a trace within the mechanism.[^ln1-reading]
 
-In addition to "reading," Turing's machine must be able to write. Turing wrote
+In addition to "reading," Turing's machine must be able to write. Turing writes
 that "in some configurations in which the scanned square is blank (*i.e.* bears
 no symbol) the machine writes down a new symbol on the scanned square"
 [@turing_computable_1937, 231]. The machine can also erase and move symbols to
