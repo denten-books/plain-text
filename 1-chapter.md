@@ -143,7 +143,7 @@ the easy relationship we enjoyed with pen and paper, the material conditions of
 textuality. The simulated book no longer plays by the same rules as print. The
 bibliographic illusion veils device internals. The universal Turing machine,
 from which all computational devices inherit, reveals itself ultimately as a
-species of control mechanisms. Yet the Turing machine, and subsequently all
+species of control mechanism. Yet the Turing machine, and subsequently all
 computers, belong also, in part, to the long history of the book. In this
 chapter, I draw several pre-histories of the literary device, first as a formal
 technique, then as an thought experiment, and finally as a control mechanism.
