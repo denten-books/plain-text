@@ -33,12 +33,12 @@ Civilian Social Atom." Yet Moreno was also a humanist and a philosopher of
 technology and culture. In opposition to eugenics, popular at the time, his
 answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953, 245].
 
-Humanity, according to Moreno, faced two major threats: first embodied in the
+Humanity, according to Moreno, faces two major threats: first embodied in the
 aggression from other human beings, and second, in the aggression of robots or,
 what Moreno called alternatively the "cultural conserve" and the "zootechnical
-animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more than mechanized
-automatons. "Machine rule" encompassed all devices, social structures, and
-products of the mind that diminished creativity. He wrote: "these methods have
+animal" [@moreno_who_1953, 237]. Robots, for Moreno, are more than mechanized
+automatons. "Machine rule" encompasses all devices, social structures, and
+products of the mind that diminished creativity. He writes: "these methods have
 always amounted simply to this---to neglect and abandon the genuine and
 outstanding creative process [...] to extinguish all the active, living
 moments, and to strive towards one unchangeable goal: the illusion of the
@@ -53,8 +53,8 @@ In the name of comfort, safety, and prolonged life, technologists and
 population planners disempower the very subjects whose lives they claim to
 preserve. The zootechnical animal substitutes human ability to set goals for
 the promised certainty of a better future. "The eugenic dreamer and the
-technological dreamer have one idea in common," Moreno wrote, "to substitute
-and hasten the slow process of nature:"
+technological dreamer have one idea in common," Moreno writes, "to substitute
+and hasten the slow process of nature":
 
 > Once the creative process is encapsulated in a book it is *given*; it can be
 recapitulated eternally by everybody without the effort of creating anew.  Once
@@ -63,15 +63,14 @@ can be turned out in infinite numbers practically without effort [...] Once
 that miraculous eugenic formula will be found a human society will be given
 prefect and smooth at birth, like a book of a press [@moreno_who_1953, 236].
 
-Like Socrates from Plato's *Phaedrus*, Moreno distrusts the rote mechanization
-of thought itself. All forms of externalized algorithmic rule fall under
+Like Socrates from Plato's *Phaedrus*, Moreno distrusts rote mechanization of
+thought itself. All forms of externalized algorithmic rule fall under
 suspicion: from central planning, to corporate governance, to machine code, and
 legal codex. Such mechanisms serve to externalize and to "conserve" volition,
 at a given point of time. With time, mechanized volition governs without
-consensus or comprehension. Splintered from its source, externalized volition
-staggers forth, *golem*-like, through laws, books, and social institutions.  With
-life-spans that span generations, images of the past proliferate and crowd out
-the present. Moreno writes:
+consensus or comprehension. Splintered from its source, it staggers forth,
+*golem*-like, through laws, books, and social institutions. Near immortal,
+images of the past proliferate and crowd out the present. Moreno writes:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -107,7 +106,7 @@ happens not between persons, sects, races, or nations, but between humanity and
 its automatons from the past. The only way to compete with the robot was for
 him to expand the human cultural capacity for creation. The biological being
 has only this one advantage over the zootechnical animal: spontaneity. But the
-capacity to free will and to creation has to be continuously guarded against
+capacity for free will and for creation has to be continuously guarded against
 lethargy and advanced through training. The machines of yore ease the burden of
 creation. In reducing labor, they enfeeble the creative capacity. Moreno's
 therapy practice was therefore built on the principle of spontaneity training,
@@ -200,23 +199,23 @@ combative mode of engagement between interlocutors.
 Russian formalists of the early twentieth century did not quite have the
 contemporary cognitive vocabulary to connect mind and symbol, but they did
 understand estrangement as a matter of everyday practice, beyond linguistic
-analysis. One of Shklovsky's central concerns was with the automatization of
-human experience, by which metaphors lose their evocative power through
-repeated use. Such metaphors become mere machines that convey meaning, and,
-when habituated, disappear from view. According to the Kantian view, in vogue
-in Russia at the time, a reasoned being should proceed through life with the
-assumption of agency, structuring one's own experiences according to the
-principles of free will. The habituated metaphor instead structures furtively,
-obscuring the relationships involved. Consequently, estrangement emerges as a
-model of human liberation. It frees thought from the tyranny of automatism
-[@shklovksy_sborniki_1917, @shklovsky_hod_1923, @boym_estrangement_1996,
-@holquist_minding_2005]. Laying bare the mechanisms of the implicit metaphor
-recovers agency lost to the blind mechanization of thought. Through
-estrangement, readers discover the principles governing their actions: free to
-accept some parts of the conceptual transference (the intellectual field *is*
-"verdant"!) and to reject others (but let us not "use combines" to "harvest"
-it). And perhaps the field should not be a field at all: it could be a meadow
-or a forest.
+analysis. Similarly to Moreno, one of Shklovsky's central concerns was with the
+automatization of human experience, by which metaphors lose their evocative
+power through repeated use. Such metaphors become mere machines that convey
+meaning, and, when habituated, disappear from view. According to the Kantian
+view, in vogue in Russia at the time, a reasoned being should proceed through
+life with the assumption of agency, structuring one's own experiences according
+to the principles of free will. The habituated metaphor instead structures
+furtively, obscuring the relationships involved. Consequently, estrangement
+emerges as a model of human liberation. It frees thought from the tyranny of
+automatism [@shklovksy_sborniki_1917, @shklovsky_hod_1923,
+@boym_estrangement_1996, @holquist_minding_2005]. Laying bare the mechanisms of
+the implicit metaphor recovers agency lost to the blind mechanization of
+thought. Through estrangement, readers discover the principles governing their
+actions: free to accept some parts of the conceptual transference (the
+intellectual field *is* "verdant"!) and to reject others (but let us not "use
+combines" to "harvest" it). And perhaps the field should not be a field at all:
+it could be a meadow or a forest.
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used defamiliarization in the formalist vein often and with
@@ -272,7 +271,7 @@ Both aim to reveal internals that structure experience, made opaque through
 artifice and habituation. I imagine here a kind of critical practice that
 reverses the principles of good interface design. What design aims to make easy
 and ordinary, defamiliarization makes difficult and strange. Materialist
-poetics expose the price paid for literary facility.
+poetics expose the price paid for the facility of computed text.
 
 For example, we know that physical affordances of liquid crystal displays
 (LCDs) and magnetic storage differ drastically from those of goat skins or
@@ -325,11 +324,11 @@ systems. It reveals real material affordances behind the symbol.
 
 The simulation conceals structuring principles large and small. Some of the
 concealed details may remain inconsequential, like the limit on how many keys
-can be pressed at once without overwhelming the circuitry of the keyboard.
-Other concealed details are of paramount importance, like digital rights
-management chips and censorship filters. Like the smoke alarm, literary gadgets
-are governed and internalize government structures in ways that we have only
-begun to comprehend. The material affordances of device--bound textuality
+can be pressed at once without overwhelming the circuitry of keyboard when
+typing. Other concealed details are of paramount importance, like digital
+rights management chips and censorship filters. Like the smoke alarm, literary
+gadgets are governed and internalize government structures in ways that we have
+only begun to comprehend. The material affordances of device--bound textuality
 influence all higher-level functions of interpretation.[^ln1-rmedium] Yet,
 available theories of interpretation build on properties and assumptions
 attached to print media. For example, in Hans-Georg Gadamer's seminal
@@ -387,8 +386,9 @@ computational mechanism that extends agency should embody values that
 correspond to the agent of the action. In other words, we must be able to
 project our values through the machine, and not the other way around. What
 seems like a technologically determined inevitability is often simply the
-projection of values from without. It is social and political, not
-technological determinism.
+imposition of values from without. It is an attempt to social and political,
+not technological determinism. In most cases, it is possible to trace the root
+of imposition to specific govening agents, agencies, or incorporations.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
@@ -398,6 +398,13 @@ more detailed discussion follows in 1.2.
 
 [^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
 experience, despite the overwhelming evidence for determinism.
+
+[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
+from speaking to writing: "The most obvious change from speaking to writing
+concerns the relation between message and its medium or channel. At first
+glance, it concerns only this relation, but upon closer examination, the first
+alteration irradiates in every direction, affecting in decisive manner all the
+factors and functions" [@ricur_interpretation_1976, 25].
 
 ## 1.2 Thought Experiment
 

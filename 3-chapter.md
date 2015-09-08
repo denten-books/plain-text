@@ -138,13 +138,6 @@ In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
 71]."
 
-[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
-from speaking to writing: "The most obvious change from speaking to writing
-concerns the relation between message and its medium or channel. At first
-glance, it concerns only this relation, but upon closer examination, the first
-alteration irradiates in every direction, affecting in decisive manner all the
-factors and functions" [@ricur_interpretation_1976, 25].
-
 [^ln1-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
 Principle Researcher at Microsoft Research and then a professor at the
