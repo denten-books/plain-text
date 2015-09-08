@@ -863,13 +863,14 @@ algorithms: in other words, as virtual, second-order symbolic representations.
 Yet it is impossible to entirely disassociate the implementation from the idea.
 In his review of Turing's "On Computable Numbers" paper, Alonzo Church, the
 American mathematician whose work anticipated Turing's (independently) in
-several important aspects, wrote that "a human calculator, provided with pencil
-and paper and explicit instructions can be regarded as a kind of a Turing
-machine" [@church_computable_1937, 42-3; also cited in @petzold_annotated_2008,
-63]. Disregarding the broader, metaphysical implications of that statement,
-note for now the persistence of two essential implements required for the
-minimally viable operation of the Church--Turing human and machine calculators.
-Pen and paper assert themselves through the abstraction.[^ln1-abstraction]
+several important aspects, later wrote that "a human calculator, provided with
+pencil and paper and explicit instructions can be regarded as a kind of a
+Turing machine" [@church_computable_1937, 42-3; also cited in
+@petzold_annotated_2008, 63]. Disregarding the broader, metaphysical
+implications of that statement, note for now the persistence of two essential
+implements required for the minimally viable operation of the Church--Turing
+human and machine calculators. Pen and paper assert themselves through the
+abstraction.[^ln1-abstraction]
 
 What are we to make of universal Turing machines implemented in virtual worlds
 like *Wireworld* (a cellular automaton simulation), or *Minecraft* (a procedurally
@@ -878,23 +879,23 @@ generated sand-box world-exploration game)?
 ![Universal Turing machine as an idea. "Nick Gardner's *Wireworld* multiplier,
 via a Turing machine."](images/turing-idea.png)
 
-At the very least, we must admit that such simulations cannot rest on turtles
-all the way down, unless that is, one believes that the universe itself is a
-type of a Turing machine [@deutsch_quantum_1985; @lloyd_ultimate_2000;
-@piccinini_computational_2007]. At some point, the virtual world simulation
-meets the limitations of the physical world. Until physicists agree on the
-ultimate nature of the universe as computation (or not), we continue to assume
-that Turing simulations comprise second-order ideational constructs, floating
-on top of first-order physical mechanisms. In the case of *Wireworld* and
-*Minecraft* the simulation "runs" on personal computers. The physical
-capabilities of the bottom-most device limit the computation power of all *n+1*
-order Turing simulations. Consequently, the simulated UTM cannot outperform (in
-terms of cycles per second, instructions per cycle, or its capacity to hold a
-number of instructions) the machine running the simulation. The bottom-most
-turtle may have its head in the clouds, but its feet rest firmly in the
-material world.
+At the very least, we must admit that such simulations cannot rest on the
+proverbial "turtles all the way down," unless that is, one believes that the
+universe itself is a type of a Turing machine [@deutsch_quantum_1985;
+@lloyd_ultimate_2000; @piccinini_computational_2007]. At some point, the
+virtual world simulation meets the limitations of the physical world. Until
+physicists agree on the ultimate nature of the universe as computation (or
+not), we continue to assume that Turing simulations comprise second-order
+ideational constructs, floating on top of first-order physical mechanisms. In
+the case of *Wireworld* and *Minecraft* the simulation "runs" on personal
+computers. The physical capabilities of the bottom-most device limit the
+computation power of all *n+1* order Turing simulations. Consequently, the
+simulated UTM cannot outperform (in terms of cycles per second, instructions
+per cycle, or its capacity to hold a number of instructions) the machine
+executing the simulation. The bottom-most turtle may have its head in the
+clouds, but its feet rest firmly on the ground.
 
-The exact space where the symbolic meets the literal is difficult to identify
+The exact plane where the symbolic meets the literal is difficult to identify
 definitively. At some imperceptible point software disappears into hardware.
 Such ambiguity between hardware and software leads to some controversy in the
 critical literature, as evidenced by Lev Manovich's playful response to
@@ -911,24 +912,26 @@ level).
 
 Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, the affordances of a given medium are
-determined by software. A printed page begins to differ from a screen only when
-the readers are able to effect something on the screen that they could not on
-paper. To this end, Manovich encourages his readers to become active developers
-of software, rather than its passive consumers [@manovich_there_2011, 274]. In
-that, Manovich reasserts the possibility of writing in the silicon age. Kittler
-(who passed in 2011) could perhaps object to that line of reasoning in
-maintaining that chip architecture (the last written work) still determines (as
-foundation) all higher levels of textuality "floating" above the silicon
-bedrock. And no amount of learning to code would give an ordinary subject the
-resources required to write in silicon---a process so advanced and expensive as
-to be limited to a handful of international chip manufacturers. In opening a
-successive nested series of black boxes, the post-silicon writer hits the
-impenetrable bedrock of chip architecture.
+determined by software. A printed page begins to differ from its computed
+analogy only when readers are able to effect something on the screen that they
+could not on paper. To this end, Manovich encourages his readers to become
+active developers of software, rather than its passive consumers
+[@manovich_there_2011, 274]. In that, Manovich reasserts the possibility of
+writing in the silicon age. Kittler (who passed in 2011) could perhaps object
+to that line of reasoning in maintaining that chip architecture (the last
+written work, according to him) still determines, as foundation, all higher
+levels of textuality "floating" above the silicon bedrock. And no amount of
+learning to code would give an ordinary subject the resources required to write
+in silicon---a process so advanced and expensive as to be limited to a handful
+of international chip manufacturers. In opening a series of nested black boxes,
+the post-silicon writer hits the impenetrable casket of chip architecture. Few
+of today's engineer-writers are able to work on such deeply-embedded hardware
+level.
 
-Before we ourselves get lost in that liminal space between matter and idea, let
+Before we ourselves get lost in the liminal space between matter and idea, let
 us recover a measure of oddity found in the now ubiquitous operation of Turing
 machines. Remember that Turing's original description of the Turing machine
-derives from a legacy of thought experimentation. Turing does not begin to
+derived from a legacy of thought experimentation. Turing does not begin to
 build actual machines until his move to Princeton in 1936. A universal Turing
 machine comes to life initially as an idea that can take on the structure of
 other ideas expressed symbolically. And though Turing describes his machine in
@@ -938,20 +941,22 @@ how symbolic a Turing machine aspires to be, no matter how ascendant to the
 realm of the ideal, it remains rooted in the mechanics of reading, writing, and
 interpretation.
 
-So far, we have confronted the literary device as an idea: imagined first in
-the methodological contexts of formalist literary analysis and then as a
-thought experiment about generalized symbolic manipulation. But the idea cannot
-exist without some physical manifestation. Forced to encounter the universal
-Turing machine *as a mechanism*, the media historian will find that it borrows
-from a number of extant designs, which, together and incrementally, give the
-UTM its physical form. A media history of the Turing machine as device differs
-from its intellectual history as symbolic, mathematical abstraction in
-interesting and instructive ways.[^ln1-turing] Bracketing for the moment the
-mathematical and cognitive implications of Turing's work, I want to approach
-the Turing machine from the perspective of a book historian and a media
-scholar. If the Turing machine is to be taken at face value, not as an
-algorithm, but as an instrument, what kind of a machine would it be? What are
-its antecedents?
+So far, we too have confronted the literary device only as an idea: imagined
+first in the methodological contexts of formalist literary analysis and then as
+a thought experiment about generalized symbolic manipulation. But from a
+strictly materialist point of view, ideas cannot exist without some physical
+underpinnings. Forced to encounter the universal Turing machine *as a
+mechanism*, the media historian will find that it borrows from a number of
+extant designs, which, together and incrementally, give the UTM its physical
+form.
+
+A media history of the Turing machine as device differs from its intellectual
+history as symbolic, mathematical abstraction in interesting and instructive
+ways.[^ln1-turing] Bracketing for the moment the mathematical and cognitive
+implications of Turing's work, I want to approach the Turing machine from the
+perspective of a book historian and a media scholar. If the Turing machine is
+to be taken at face value, not as an algorithm, but as an instrument, what kind
+of a machine would it be? What are its antecedents?
 
 Most of the minimal physical requirements to build a universal Turing machine
 were within reach in the 1930s, at the time Turing authored his influential
@@ -959,22 +964,21 @@ paper. In practice, his proposal would require first, an apparatus capable of
 "scanning" and "erasing" a "finite number of symbols." Second, we would need
 what Turing calls "one-dimensional paper," divided into discrete squares "like
 a child's arithmetic book" [@turing_computable_1937, 249].[^ln1-infinite]
-Furthermore, we would need some sort of mechanism to advance tape through the
+Furthermore, we would need some sort of a mechanism to advance tape through the
 machine, or, alternatively, to propel the scanning mechanism along the length
 of the tape. Having assembled these elements, our creation would look roughly
 like a cross between a telegraph, a film projector, and a
 typewriter.[^ln1-davey]
 
-Were we to patent the Turing machine at the time of its theoretical inception
-(1936-37) in the United States, the above elements would find prior art in
-mechanisms such as the "Numeral adding or subtracting attachment for
-type-writing machines" [@daugherty_numeral_1894], "Combined Type-writing and
-Computing Machine" [@degener_combined_1911], "Computing Attachment for
-Typewriters" [@wright_computing_1914], "Computing Mechanism"
-[@wright_computing_1915], and "Combined Type-writing and Adding Machine"
-[@ellis_combined_1914] among others. All of these machines contain some
-combination of a reading and writing "head," storage tape, and movement
-mechanism.
+Were we to patent the Turing machine in the United States, at the time of its
+conception (1936-37), the above elements would find prior art in mechanisms
+such as the "Numeral adding or subtracting attachment for type-writing
+machines" [@daugherty_numeral_1894], "Combined Type-writing and Computing
+Machine" [@degener_combined_1911], "Computing Attachment for Typewriters"
+[@wright_computing_1914], "Computing Mechanism" [@wright_computing_1915], and
+"Combined Type-writing and Adding Machine" [@ellis_combined_1914] among others.
+All of these machines contain some combination of a reading and writing "head,"
+storage tape, and movement mechanism.
 
 By the end of the nineteenth century a number of lesser contraptions anticipate
 the functional elements of Turing's machine. And by 1936, when Turing publishes
