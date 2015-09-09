@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 2: Splitting the Sign"
+subtitle: "Chapter 3: Fading Persistance (Splitting the Sign)"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -24,7 +24,7 @@ us! Because the book is different it fucks with authenticity.
 
 The possibility of text that reconfigures itself.
 
-# Chapter 2: Splitting the Sign
+# Chapter 2: Fading Persistance
 
 The bifurcated sign resides in two distinct locations, each entailing
 drastically differing affordances for reading.

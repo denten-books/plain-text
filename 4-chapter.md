@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 4: Textual Diffusion
+subtitle: "Chapter 4: Literature Down to the Pixel"
 Literature Down to the Pixel"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl

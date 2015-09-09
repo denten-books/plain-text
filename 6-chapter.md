@@ -1,5 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction"
+subtitle: "Chapter 6: Engineering for Dissent"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -14,7 +15,6 @@ header-includes:
 ---
 
 # Chapter 5: Engineering for Dissent
-`parity, transparency`
 
 RETURN TO MORENO
 
