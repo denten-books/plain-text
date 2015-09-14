@@ -36,9 +36,9 @@ answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953, 245].
 Humanity, according to Moreno, faces two major threats: first embodied in the
 aggression from other human beings, and second, in the aggression of robots or,
 what Moreno called alternatively the "cultural conserve" and the "zootechnical
-animal" [@moreno_who_1953, 237]. Robots, for Moreno, are more than mechanized
+animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more than mechanized
 automatons. "Machine rule" encompasses all devices, social structures, and
-products of the mind that diminished creativity. He writes: "these methods have
+products of the mind that diminished creativity. He wrote: "these methods have
 always amounted simply to this---to neglect and abandon the genuine and
 outstanding creative process [...] to extinguish all the active, living
 moments, and to strive towards one unchangeable goal: the illusion of the
@@ -53,7 +53,7 @@ In the name of comfort, safety, and prolonged life, technologists and
 population planners disempower the very subjects whose lives they claim to
 preserve. The zootechnical animal substitutes human ability to set goals for
 the promised certainty of a better future. "The eugenic dreamer and the
-technological dreamer have one idea in common," Moreno writes, "to substitute
+technological dreamer have one idea in common," Moreno wrote, "to substitute
 and hasten the slow process of nature":
 
 > Once the creative process is encapsulated in a book it is *given*; it can be
@@ -63,14 +63,14 @@ can be turned out in infinite numbers practically without effort [...] Once
 that miraculous eugenic formula will be found a human society will be given
 prefect and smooth at birth, like a book of a press [@moreno_who_1953, 236].
 
-Like Socrates from Plato's *Phaedrus*, Moreno distrusts rote mechanization of
+Like Socrates from Plato's *Phaedrus*, Moreno distrusted rote mechanization of
 thought itself. All forms of externalized algorithmic rule fall under
 suspicion: from central planning, to corporate governance, to machine code, and
 legal codex. Such mechanisms serve to externalize and to "conserve" volition,
 at a given point of time. With time, mechanized volition governs without
 consensus or comprehension. Splintered from its source, it staggers forth,
 *golem*-like, through laws, books, and social institutions. Near immortal,
-images of the past proliferate and crowd out the present. Moreno writes:
+images of the past proliferate and crowd out the present. Moreno wrote:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -82,14 +82,14 @@ images of the past proliferate and crowd out the present. Moreno writes:
 
 In the aftermath of World War II, Moreno expanded the first edition of his book
 to consider the ultimate automaton, the atomic bomb. "Mankind has been awakened
-from a dream," he writes. The atomic bomb gives humanity a glimpse of its
-common enemy. Technology, for Moreno, does not determine the present situation.
+from a dream," he wrote. The atomic bomb gives humanity a glimpse of its common
+enemy. Technology, for Moreno, does not determine the present situation.
 Rather, a mindless actor in possession of fossilized volition, it competes, in
 Darwinian sense, with living actors. Once set in motion, voluntarily, by
 humans, the war machine and the book alike continue to do their bidding. These
 structures may no longer be needed or wanted, but because they are inorganic,
 they persist to shape the social and the mental worlds to come. Moreno
-explains:
+explained:
 
 > Many of the domesticated robots are blessed with the attribute of becoming
 labor-saving devices, which has, however the unpleasant consequence that they
@@ -100,21 +100,21 @@ television sender can entertain or teach at a distance, like a gun, a rocket
 and an atomic bomb can kill people and destroy at a distance. The book is a
 robot par excellence [@moreno_who_1953, 238].
 
-The inertia of past decisions embodied in extant mechanisms ultimately poses a
-threat for human survival. For Moreno, the real competition for survival
-happens not between persons, sects, races, or nations, but between humanity and
-its automatons from the past. The only way to compete with the robot was for
-him to expand the human cultural capacity for creation. The biological being
-has only this one advantage over the zootechnical animal: spontaneity. But the
-capacity for free will and for creation has to be continuously guarded against
-lethargy and advanced through training. The machines of yore ease the burden of
-creation. In reducing labor, they enfeeble the creative capacity. Moreno's
-therapy practice was therefore built on the principle of spontaneity training,
-aimed at the construction of communities that acknowledge and preserve
-individual agency. As far as I can tell from the records, the practice involved
-group improvisation, in what Moreno called the "techniques of freedom," which
-aimed to "balance spontaneous social forces to the greatest possible harmony an
-unity of all" [@moreno_who_1953, 8].
+For Moreno, the inertia of past decisions embodied in extant mechanisms
+ultimately posed a threat for human survival. On this view, the real
+competition for survival happens not between persons, sects, races, or nations,
+but between humanity and its automatons from the past. The only way to compete
+with the robot was for him to expand the human cultural capacity for creation.
+The biological being has only this one advantage over the zootechnical animal:
+spontaneity. But the capacity for free will and for creation has to be
+continuously guarded against lethargy and advanced through training. The
+machines of yore ease the burden of creation. In reducing labor, they enfeeble
+the creative capacity. Moreno's therapy practice was therefore built on the
+principle of spontaneity training, aimed at the construction of communities
+that acknowledge and preserve individual agency. As far as I can tell from the
+records, the practice involved group improvisation, in what Moreno called the
+"techniques of freedom," which aimed to "balance spontaneous social forces to
+the greatest possible harmony an unity of all" [@moreno_who_1953, 8].
 
 I leave Moreno here, with thoughts of hydrogen bombs and books occupying the
 same plane of mechanization. The book does make for an excellent robot. If a
@@ -126,31 +126,37 @@ chapter, my aim is to encounter the book anew as a complex system. The
 device-like property of computed text especially, when compared to print, holds
 severe consequences for the practices of reading, writing, and interpretation.
 
-When in the 1930s one could view Moreno book--bombs as a
-fanciful---technophobic even---view of literary technology, a century later his
-concern appears pressing and prescient. The unintended consequences of
-disembodied and automated agency, from artificially intelligent personal
-assistants to market trading algorithms, worry scientists, legislators, and
-media theorists. What looks like a book indeed functions as a gun and a
-trigger. I mean this literally: it comprises a part of the same computational
-platform that powers drones and aircraft carriers. Today, the "servers" that
-serve the world's largest purveyors of literature service also air traffic
-control and the National Security Administration [@soyata_combat:_2012;
-@logicworks_government_2015].
+If the book, as Moreno suggested, was always a strange robot, it is all the
+more strange as a device that draws electricity. When in the 1930s one could
+view Moreno book--bombs as a fanciful---technophobic even---view of literary
+technology, a century later his concern appears pressing and prescient. The
+unintended consequences of disembodied and automated agency, from artificially
+intelligent personal assistants to market trading algorithms, worry scientists,
+legislators, and media theorists. What looks like a book today indeed can
+function as a gun and a trigger. I mean this literally: it comprises a part of
+the same computational platform that powers drones and aircraft carriers.
+Today, the "servers" that serve the world's largest purveyors of literature
+service also air traffic control and the National Security Administration
+[@soyata_combat:_2012; @logicworks_government_2015].
 
 In these conditions we---humanists, historians, philologists---must reconsider
-the easy relationship we enjoyed with pen and paper, the material conditions of
-textuality. The simulated book no longer plays by the same rules as print. The
-bibliographic illusion veils device internals. The universal Turing machine,
-from which all computational devices inherit, reveals itself ultimately as a
-species of control mechanism. Yet the Turing machine, and subsequently all
+the easy relationship we enjoyed with the material conditions of textuality.
+The simulated book, as I will call it here, and, alternatively, the computed
+literary artifact, no longer plays by the same rules as print. The
+bibliographic illusion veils machine internals. The universal Turing machine,
+from which all computational devices inherit, will reveal itself ultimately as
+a form of simulated governance. Yet the Turing machine, and subsequently all
 computers, belong also, in part, to the long history of the book. In this
 chapter, I draw several pre-histories of the literary device, first as a formal
 technique, then as an thought experiment, and finally as a control mechanism.
 To preserve agency and to break the inertia of leisurely reading, we must
 rediscover the book as a device; to call it forth for what it is and always
 was---a robot for effecting thought at a distance; and to bring it back under
-the purview of interpretation.
+the purview of interpretation. My approach to the problem of "digital"
+literature lies such dual movement between making strange and making familiar.
+To discover the object anew is to strip it of its ideational content---to
+dispel the fetish. To understand it is to imbue it with new meaning and
+subjectivity.
 
 ## 1.1 Technique
 
@@ -303,7 +309,7 @@ physical site of mental extension.
 More than superficial embellishment, the skeuomorphic metaphor structures all
 meaning-carrying units from letters, to words, paragraphs, chapters, books, and
 pages. In our example, we know that there is nothing inherently page-like about
-stiff slabs of glass and silicone. The metaphor of "turing the page by swiping
+stiff slabs of glass and silicone. The metaphor of "turning the page by swiping
 across the screen" conceals the structural rift between media. Why would
 readers engage in such a charade? Why not simply make use of novel interfaces
 afforded by new technology? The literature from the field of human--computer
@@ -316,7 +322,7 @@ adoption. Although an "electronic book reader" contains no pages as such, it
 extends the metaphor of pages to electronic reading. The usability metaphor
 comes at a cost of concealment. A digital poem, a novel, a physician's script,
 or a legal contract may resemble their paper counterparts. But the metaphor of
-"turing pages" is but one simulation among the device's many possibilities.
+"turning pages" is but one simulation among the device's many possibilities.
 When imitating pages, the reading *appliance* also monitors, adjusts, warns,
 and controls. In return for usability it simulates and dissembles. The
 exposition of the metaphor reminds us of the compromise between two conceptual
@@ -412,41 +418,106 @@ To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
 Turing machines. And to understand the history of the Turing machine, we must
 see it in a wider cultural context, beyond the mathematical literature where it
-was first discussed. In what follows, I shall draw two as yet unexplored
-lineages that lead to Turing's seminal essay on computable numbers: the first
-intellectual, stemming back to his tutelage under Ludwig Wittgenstein, and the
-second material, highlighting the physical similarities between Turing's design
-and a number of concomitant developments in printing and communication. This
-history is important because it allows us to see the simulated book in a new
-light: not as byproduct of quantification, but as a metaphor machine,
-capable of universal symbol manipulation.
+was first discussed.
 
-More than any other mechanism, the Turing machine defined the very limits of
-computation. Yet it is also a source of considerable debate, misunderstanding,
-and controversy, because it poses a fundamental paradox. Turing imagined his
-machine as a physical mechanism solving a theoretical problem. Actual
-computers, in turn, simulate hypothetical Turing machines. You can see how this
-may get confusing. Computation traces a figure somewhere between the ideal and
-the physical worlds. It is part real mechanism and part unattainable idea; part
-physics and part metaphysics. The indeterminacy of computation blurs the
-boundaries between hardware and software. And no matter how hard computer
-science tries to escape into the realm of pure mathematics, the limits of
-physical engineering pull it back to the sphere of the applied.[^ln1-cs]
+In what follows, I shall draw two as yet unexplored lineages that lead to
+Turing's seminal essay on computable numbers: the first intellectual, stemming
+back to his tutelage under Ludwig Wittgenstein, and the second material,
+highlighting the physical similarities between Turing's design and a number of
+concomitant developments in printing and communication. This history is
+important because it allows us to see the simulated book in a new light: not as
+byproduct of quantification, but as a metaphor machine, capable of universal
+symbol manipulation.
 
-In his seminal 1937 paper on computable numbers, Alan Turing, then a student at
-King's College, proposed a peculiar solution to appear in mathematical journal.
-He imagined a mechanism that solves a theoretical problem. What that problem
-was (in the field of elementary number theory) is not as important as how he
-proposed to solve it. Turing begins suggestively: "we may compare a man in the
-process of computing a real number to a machine that is only capable of a
-finite number of conditions." [@turing_computable_1937, 231]. In effect, he
-asks his readers to compare computation, a human mental process, to the
-mechanical action of a machine. As Charles Petzold explained it in his
-book-length annotation on Turing's paper, Turing "makes reference to 'states of
-mind' that are analogous to machine states" [@petzold_annotated_2008, 67]. But
-the analogy itself leads to contention. Neither mathematicians nor cognitive
-scientists agree on the extent to which states of mind can be compared to
-discrete machine states.
+Turing's paper should hold interest for literary scholars because it presents a
+minimally viable model for generalized symbolic manipulation: reading and
+writing. Although the thought experiment it describes solves a mathematical
+problem, the thought experiment itself has roots in a more general conversation
+about the nature of interpretation, central to the questions of meaning-making
+in art and culture.
+
+### Alan Turing's "On Computable Numbers"
+
+In his seminal 1936 paper on computable numbers, Alan Turing, then a student at
+King's College, proposed a peculiar thought experiment to appear on the pages
+of mathematical journal. The experiment addressed a problem in the field of
+elementary number theory. But the problem turned out to be less important than
+the general shape of his solution.[^ln1-anticipate] He imagined a mechanism
+that solves a theoretical problem. His solution thus touched upon not just the
+theory of mathematics, but the nature of symbolic thought itself. His imagined
+machine was ultimately a generalized reader and writer. It had a sentience.
+His later work suggests that he meant it to define sentience beyond computation
+[@turing_computing_1950], but then, on the eve of another world war, Turing
+imagined a thing that could explore the limits of theory, and a theory that
+brought into being an entirely new class of things.
+
+Turing's paper continues to be a source of considerable debate,
+misunderstanding, and controversy.[^ln1-haigh] Consider the following attempts
+at a definition:
+
+> "a notional computing machine for performing simple reading, writing, and
+> shifting operations in accordance with a prescribed set of rules, invoked in
+> theories of computability and automata" [_turing_2015].
+
+> a criterion [...] that is shall be possible to to devise a computing machine,
+> occupying a finite space, and with working parts of finite size
+[@church_review_1937, 42].
+
+> a human calculator, provided with pencil and paper and explicit instructions,
+can be regarded as a kind of Turing machine [@church_review_1937, 43].
+
+> To understand a Turing machine we need only know its table of commands
+> [@kemeny_man_1955;  _turing_2015].
+
+> A Turing machine plus random elements is a reasonable model for the human
+brain [@putnam_issues_1961, 39].
+
+> No Turing machine has ever been physically constructed or realized in
+hardware as a device for its own sake, but general-purpose digital computers
+have been programmed to simulate Turing machines [@jordain_condensed_1969, 550;
+@_turing_2015]
+
+The Oxford English Dictionary discusses the concept in terms of "a notational
+machine." It "performs operations" according to "a prescribed set of rules." In
+short it seems like a thing, not unlike a steam engine or a mechanized doll. By
+contrast, Alonzo Church, who was one of the first to read and to respond to the
+paper, describes it as a "criterion" for building a machine, not the machine
+itself. More confusingly, it seems that a human armed with a pen and paper
+already satisfies Turing's criteria. Writing for the *Scientific American* in
+the fifties, John Kemeny likens it to a "table of commands." Now it seems that
+the machine is neither device nor human but an algorithm or a set of
+instructions. A decade later, Hilary Putnam along with a number of prominent
+philosophers of mind return to Turing's paper to find a model of human
+cognition. Writing for one of the earliest encyclopedias on computing, Philip
+Jordain encapsulates the paradox at the heart of Turing computation: it is a
+device that can never be constructed, yet all other computers are programmed to
+in its image. A mechanism, an idea, an algorithm---imitating a human or
+imitated by humans---an impossible ideal or just a ordinary person holding a
+pencil, the Turing machine traces a figure somewhere between the ideal and the
+physical worlds. It is part real mechanism and part dream; part physics and
+part metaphysics.
+
+The indeterminacy of computation blurs the boundaries between the physical and
+the symbolic worlds. Turing continues to strike a controversial figure, exactly
+at such fault lines separating theory and practice: computer science and
+electrical engineering. The Turing machine "abstracts away from the complexity
+of real computer architectures," Thomas Haigh writes for the *Communications of
+Computing Machinery*. The historian should avoid confusi hardware and softwrae,
+he concludes [@haigh_actually_2014]. 
+
+matter how hard computer science tries to escape into the
+realm of pure mathematics, the limits of physical engineering pull it back to
+the sphere of the applied.[^ln1-cs]
+
+Turing begins suggestively: "we may compare a man in the process of computing a
+real number to a machine that is only capable of a finite number of
+conditions." [@turing_computable_1937, 231]. In effect, he asks his readers to
+compare computation, a human mental process, to the mechanical action of a
+machine. As Charles Petzold explained it in his book-length annotation on
+Turing's paper, Turing "makes reference to 'states of mind' that are analogous
+to machine states" [@petzold_annotated_2008, 67]. But the analogy itself leads
+to contention. Neither mathematicians nor cognitive scientists agree on the
+extent to which states of mind can be compared to discrete machine states.
 
 Turing further imagines a machine "supplied with a 'tape' (the analogue of
 paper) running through it, and divided into sections (called 'squares') each
@@ -535,12 +606,13 @@ hints at the idea of computation as a model for human thought. The literature
 on the so-called "computational theory of mind" cites Turing's work extensively
 for this reason [@fodor_language_1975; @putnam_representation_1988].
 
-Turing's paper should hold interest for literary scholars because it presents a
-minimally viable model for generalized symbolic manipulation: reading and
-writing. Although the thought experiment it describes solves a mathematical
-problem, the thought experiment itself has roots in a more general conversation
-about the nature of interpretation, central to the questions of meaning-making
-in art and culture.
+[^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a year
+later, Turing's mathematical insight was anticipated by concomitant work in the
+field [@church_review_1937].
+
+[^ln1-haigh]: See for example @haigh_actually_2014.
+
+### Wittgenstein's *The Blue and Brown Notebooks*
 
 The conversations between Alan Turing and Ludwig Wittgenstein are instructive
 in this regard. Wittgenstein broached the problem of reading machines first in
@@ -563,9 +635,6 @@ Blue and Brown Books*, a collection of notes that form the basis for his
 difficult to understand [these notes], as so many points are just hinted at.
 They are meant only for the people who heard the lectures"
 [@wittgenstein_blue_1965, vii].
-
-### *The Blue and Brown Notebooks*
-
 The *Blue and Brown Notebooks* comprise "some notes to my pupils, so that they
 may have something to carry home with them, in their hands if not their brains"
 [@wittgenstein_blue_1965, vii]. "The Blue Book" begins with a question of
@@ -674,7 +743,7 @@ far as this is practically feasible, we would always have two very certain
 means of recognizing that they were not at all, for that reason, true men."
 Also quoted in @dennett_can_2004, 297.
 
-### *Philosophical Grammar*
+### Wittgenstein's *Philosophical Grammar*
 
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another into the pre-history of the literary device. It
@@ -765,7 +834,7 @@ In this way, we can move away from speaking of "intended effects" or "proper
 obedience," and rather concentrate on the mediating layer that describes the
 rules of engagement.
 
-### Lectures and Remarks
+### Turing and Wittgenstein
 
 Alan Turing attended Wittgenstein's Lectures on the Foundations of Mathematics
 at Cambridge University in 1939 [@wittgenstein_wittgensteins_1976, 7]. From the
