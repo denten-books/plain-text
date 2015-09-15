@@ -452,8 +452,8 @@ imagined a thing that could explore the limits of theory, and a theory that
 brought into being an entirely new class of things.
 
 Turing's paper continues to be a source of considerable debate,
-misunderstanding, and controversy.[^ln1-haigh] Consider the following attempts
-at a definition:
+misunderstanding, and controversy.[^ln1-haigh] Consider the following range of
+observations:
 
 > "a notional computing machine for performing simple reading, writing, and
 > shifting operations in accordance with a prescribed set of rules, invoked in
