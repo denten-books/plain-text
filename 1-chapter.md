@@ -620,6 +620,8 @@ field [@church_review_1937].
 
 ### Wittgenstein's *The Blue and Brown Notebooks*
 
+[FIX THIS]
+
 The conversations between Alan Turing and Ludwig Wittgenstein are instructive
 in this regard. Wittgenstein broached the problem of reading machines first in
 *The Blue and Brown Books* along with *Philosophical Grammar* (all compiled in
