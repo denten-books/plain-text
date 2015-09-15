@@ -576,7 +576,6 @@ modular atomic components, can be viewed as an attempt to move painting from an
 analog to a digital art form. The digital image, reduced to pixels of uniform
 shape and size, takes the logic of cubism to its conclusion.
 
-
 An interesting corollary to the continuous property of analog systems is our
 inability to duplicate their states exactly. I can approximate the pressure
 someone else puts on their bicycle handlebars with some arbitrary measure of

@@ -425,7 +425,7 @@ Turing's seminal essay on computable numbers: the first intellectual, stemming
 back to his tutelage under Ludwig Wittgenstein, and the second material,
 highlighting the physical similarities between Turing's design and a number of
 concomitant developments in printing and communication. To read Turing and
-Wittgestein together is to recover a legacy of humanities computing that often
+Wittgenstein together is to recover a legacy of humanities computing that often
 gets overlooked in the critical literature on the subject. This history is
 important because it allows us to see the simulated book in a new light: not as
 byproduct of quantification, but as a metaphor machine, capable of universal
@@ -483,13 +483,16 @@ volition (I want toast) to an inanimate object. Should I die in the process of
 toast-making, the toaster will still carry the action of making toast to its
 logical conclusion.
 
-Delay and displacement of human will reside at the heart of humanity's unease
+Delay and displacement of human will reside at the center of humanity's unease
 with computation. But, note that such remote volitional properties are not
-confined to the autonomous movement of mechanisms. The problem of symbolic
-displacement presents itself already in the invention of writing. Recall for
-example the famous *pharmakon* passage from Plato's *Phaedrus*, discussed so
-eloquently in Jacques Derrida's *Dissemination*. At the conclusion of the
-dialog, King Thamus objects to the technology (*ta tekhnēs*) of the written
+confined to the autonomous movement of mechanisms---and that is also Moreno's
+insight, which places books and robots on the same plane of analysis. The
+problem of symbolic displacement presents itself already in the invention of
+writing.
+
+Recall for example the famous *pharmakon* passage from Plato's *Phaedrus*,
+discussed eloquently in Jacques Derrida's *Dissemination*. At the conclusion of
+the dialog, King Thamus objects to the technology (*ta tekhnēs*) of the written
 word, as he believes it will foster forgetfulness in the people who use it.
 Plato writes: "Their faith in extrinsic writing [*graphō exōthen*], through
 othered marks [*allotrion tupōn*] will diminish their intrinsic [*endothen
@@ -497,21 +500,26 @@ autous*] capacity to remember" [@plato_plato_????].[^ln1-platotr] Plato thus
 contrasts the exterior figure [*graphō exōthen*] with the intrinsic
 [*endothen*] human capacity to remember. The Greek *tupōn*, related to the
 English "type," literally means an impression. And in this case it is "othered"
-[*allotrion*]: it comes from without. It is such remote impression of others'
-thoughts that Thamus finds objectionable. True memory and thought for him must
-come from within. This is why Socrates asks Phaedrus to stop reciting a speech
-the young man heard earlier and memorized. Mechanical reproduction by rote
-memory does not equate to what we would call today "critical thinking." The
-symbol must be properly internalized, leaving an appropriate change in the
-mental state. And this mechanism of internalization is what Turing describes in
-his paper.
+[*allotrion*], as in, it comes from without. Like Jacob Moreno after him,
+Thamus find such remote thought impression problematic. True memory and thought
+for them both must come from within. It must be autopoietic not allopoietic, in
+other words. This is why Socrates asks Phaedrus to stop reciting a speech the
+young man heard earlier and memorized. Mechanical reproduction by rote does not
+equate to what we would today call "critical thinking." To truly understand,
+the reader must properly reproduce and internalize a stream of symbolic
+information contained in a book or a speech. As we shall see, much can go wrong
+in that process, but we expect for reading to ultimately leave an appropriate
+impression on the reader's mental state. But what is appropriate or proper?
+Wittgenstein struggles to answer that question in his lectures in variety of
+often comical ways. Turing machine enacts it with blunt force. It literally
+ingests the symbol, incorporating as part of its internal structure.
 
 I revisit the lines from Plato's well-worn dialogue because Turing's paper
 presents considerable difficulties to the non-mathematically-inclined reader.
 Yet it becomes more accessible when considered in the philosophic lineage of
 Plato, Wittgenstein, and Derrida: all three concerned with the movement of
 inscription between internal and external spaces. I want us to view computers
-and programming as a continuation of a persistant thought about the ultimate
+and programming as a continuation of a persistent thought about the ultimate
 nature of understanding. What does it mean to understand?---that is the larger
 question that Turing addresses. As we will see in the following passages, a
 direct connection exists between Wittgenstein's hermeneutics and Turing's ideas
@@ -523,9 +531,9 @@ background of formalism and structuralism, developing in Europe at the same
 time.
 
 It is precisely because Turing paper left so much non-mathematical residue in
-the wake of its publication that it continued to be a source of debate,
-misunderstanding, and controversy over time and to the present day. Consider
-the following attempts to describe the essence of Turing computation:
+the wake of its publication that it continues to be a source of debate,
+misunderstanding, and controversy to the present day. Consider the following
+attempts to describe the essence of Turing computation:
 
 > Turing machine, n. A notional computing machine for performing simple
 > reading, writing, and shifting operations in accordance with a prescribed set
@@ -549,22 +557,23 @@ hardware as a device for its own sake, but general-purpose digital computers
 have been programmed to simulate Turing machines [@jordain_condensed_1969, 550;
 @_turing_2015]
 
+In reading the above passages, one discovers a range of possible definitions.
 The *Oxford English Dictionary* discusses Turing's original experiment in terms
 of "a notational machine." It "performs operations" according to "a prescribed
-set of rules." In short, the machine seems like a thing, not unlike a steam
-engine or a mechanized doll. By contrast, Alonzo Church, who was one of the
-first to read and to respond to the paper, describes it as a "criterion" for
-building a machine, not the machine itself. More confusingly, it seems that a
-human armed with a pen and paper can already satisfy Turing's criteria. Writing
-for the *Scientific American* in the fifties, John Kemeny likens it to a "table
-of commands." In his reflection, it seems neither a device nor a human being
-but an algorithm or a set of instructions. A decade later, Hilary Putnam (along
-with a number of prominent philosophers of mind) returns to Turing's paper to
-find a model of human cognition. To this day, a number of scholars view the
-Turing machine as a minimally viable description of intelligence. Writing for
-one of the earliest encyclopedias on computing, Philip Jordain encapsulates the
-paradox at the heart of Turing computation: it is a device that can never be
-constructed, yet all other computers are programmed in its image.
+set of rules." In short, the machine at least seems like a machine, not unlike
+a steam engine or a mechanized doll. By contrast, Alonzo Church, who was one of
+the first to read and to respond to Turing's paper, describes it as a
+"criterion" for building a machine, not the machine itself. More confusingly,
+it seems that a human armed with a pen and paper can already satisfy Turing's
+criteria. Writing for the *Scientific American* in the fifties, John Kemeny
+likens it to a "table of commands." In his reflection, it seems neither a
+device nor a human being but an algorithm or a set of instructions. A decade
+later, Hilary Putnam (along with a number of prominent philosophers of mind)
+returns to Turing's paper to find a model of human
+cognition.[@fodor_language_1975; @putnam_representation_1988]. Writing for one
+of the earliest encyclopedias on computing, Philip Jordain finally encapsulates
+the paradox at the heart of Turing computation: it is a device that can never
+be constructed, yet all other computers are programmed in its image.
 
 A mechanism, an idea, an algorithm---imitating a human or imitated by
 humans---an impossible ideal or just a ordinary person holding a pencil, the
@@ -665,19 +674,25 @@ clock, an abacus, a scale, a book. In a later paper linking computing machinery
 and intelligence, Turing implies it could eventually simulate human thought as
 well [@turing_computing_1950].[^ln1-compete]
 
+[WORK ON THIS TRANSITION]
+
 The universal Turing machine (UTM) finally encapsulates a model of computation
 itself. The UTM can compute anything computable. In substituting the concept of
 computability with "effective computability" Turing's paper belongs to the
-annals of mathematical theory. But, it continues to elicit response widely
-because much of it contains tantalizing possibilities that bare on symbolic
-manipulation more generally. The paper is riddled with metaphors of cognition,
-for example. From the beginning we are asked to consider the similarity between
-humans and machines in the process of computation. Turing consistently
-describes machine states in terms of "states of mind," "awareness," and
-"memory." Without confronting the nature of human cognition directly, Turing
-hints at the idea of computation as a model for human thought. The literature
-on the so-called "computational theory of mind" cites Turing's work extensively
-for this reason [@fodor_language_1975; @putnam_representation_1988].
+annals of mathematical theory. But, it continues to elicit conflicting
+responses widely because much of it contains tantalizing possibilities that
+bare on symbolic manipulation more generally. The paper is riddled with
+metaphors of cognition, for example. From the beginning we are asked to
+consider the similarity between humans and machines in the process of
+computation. Turing consistently describes machine states in terms of "states
+of mind," "awareness," and "memory." All of these descriptions capture some
+part of Turing's idea. But it eludes them also, because it does not fit neatly
+into a reductive history of a given discipline: neither computer science, nor
+cognitive science, nor mathematics.  In connecting Turing to Wittgenstein, we
+will perceive it ultimately as an experimental, ludic even, enterprise. Like
+Turing's imitation game, which comes decades later, the Turing machine
+constitutes a simulation. It by analogy, and it also is capable of simulating
+all other symbolic systems, from intelligence, to calculus, and literature.
 
 [^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a year
 later, Turing's mathematical insight was anticipated by concomitant work in the
