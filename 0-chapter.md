@@ -65,19 +65,6 @@ Beyond "computability," we will confront computers as machines for textual
 simulation and diffusion. We will encounter them as *metaphor machines*:
 universal devices designed for the making of all possible metaphors.
 
-The diffusion of simulated text will lead us to an archive of source materials
-somewhat unusual for a work on literary theory. It will allow us to perceive
-computation as a type of a literary activity, comprehensible in the lineage of
-symbolism and book history. In search for the location of the symbol, we will
-explore a number of symbol-manipulating devices that facilitate the production
-of text. These will be found on the pages of mathematical journals and in
-patent portfolios. Their ubiquity necessitates our attention. Three such
-devices, which have fundamentally changed the nature of the literary encounter,
-will emerge by the end of the chapter. Together, they tell the story of a
-bargain that defines human--computer interaction: to trade facility for
-comprehension, to complicate in return for the illusion of simplicity, and to
-exist within that illusion without understanding how it is made.
-
 ## Computed Textuality
 
 Plain text is a file format and a frame of mind. As a file format, it contains
@@ -139,10 +126,10 @@ comprehension for all. There, code becomes intelligible for the very subjects
 whose loss Kittler laments. Only in such encrypted tunnels and secure shells
 can anything like the digital humanities take root.
 
-In drawing the history of the universal Turing machine, we will observe the
-evolution of symbolism into its final and totalizing form. By converting
-machine states into symbols, the Turing machine represents the ultimate
-negation of matter. It subsumes all lesser mechanisms amenable to
+In drawing the history of the book as a universal Turing machine, we will
+observe the evolution of symbolism into its final and totalizing form. By
+converting machine states into symbols, the Turing machine represents the
+ultimate negation of matter. It subsumes all lesser mechanisms amenable to
 computation---which some would say includes brains and universes.[ln1-brains]
 The universal Turing machine has the potential to mediate everywhere, yet,
 paradoxically, it's method of "mediation" abstracts from any notion of medium

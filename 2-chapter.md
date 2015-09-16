@@ -37,6 +37,19 @@ and programmatic sign, whose "value" is purely *tactical*, at the intersection
 of other signals ("bits" of information/tests) whose structure is that of a
 micromolecular code of command and control [@baudrillard_selected_1988, 139-140].
 
+The diffusion of simulated text will lead us to an archive of source materials
+somewhat unusual for a work on literary theory. It will allow us to perceive
+computation as a type of a literary activity, comprehensible in the lineage of
+symbolism and book history. In search for the location of the symbol, we will
+explore a number of symbol-manipulating devices that facilitate the production
+of text. These will be found on the pages of mathematical journals and in
+patent portfolios. Their ubiquity necessitates our attention. Three such
+devices, which have fundamentally changed the nature of the literary encounter,
+will emerge by the end of the chapter. Together, they tell the story of a
+bargain that defines human--computer interaction: to trade facility for
+comprehension, to complicate in return for the illusion of simplicity, and to
+exist within that illusion without understanding how it is made.
+
 ### Ephemeral text
 
 
