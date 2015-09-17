@@ -16,7 +16,10 @@ header-includes:
 
 # Chapter 5: Engineering for Dissent
 
+
 RETURN TO MORENO
+
+Colonized by technology. Fanon.
 
 Need for digital migration. Self displacement.
 
