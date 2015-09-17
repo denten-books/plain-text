@@ -162,7 +162,7 @@ a social networking platform cannot be addressed in shallow instrumental terms
 limited to efficacy, speed, or performance. Complex computational systems do
 not give rise to values any more than financial markets do. I find the argument
 to the contrary both pervasive and deeply reactionary. Among the many available
-visions of human--computer interaction, we must chose one that confirms to a
+visions of human--computer interaction, we can chose one that confirms to a
 reasoned ethos, emanating from the human side of the question, whatever the
 reader's politics. Computational hermeneutics encourages "users" to become
 active thinkers, tinkerers, and makers of technology. It treats "binary" and
@@ -209,7 +209,7 @@ infrastructures: they duplicate, distribute, and archive. In the economies that
 reached later stages of capitalism, such infrastructures are commodified.
 Consequently, they disappear from view. For many readers, the technologies that
 support reading, writing, and interpretation have passed from tools to fetish.
-We have tender feelings for them and cradle them in our laps.  No longer
+We have tender feelings for them and cradle them in our laps. No longer
 comprehensible by the way of the pen or the printing press we imbue them with
 magical powers and thus exist in the state of profound alienation from the
 conditions closet to our mental activity.
@@ -240,13 +240,14 @@ literary analysis should consequently evolve to deal with new technological
 contingencies. Where texts are encrypted, we decrypt. If "automated discourse
 analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
 engineer analytical automatons that command on our behalf. Such small acts of
-resistance can recover a measure of agency from the determinism of... take your
-pick: markets, complex systems, unconscious drives, monistic universes, social
-networks, technology, the singularity, gravity, bureaucracy, war... The
-possibility of human erasure "like the face drawn in the sand at the edge of
-the sea" [@foucault_order_1994, 387], compels not the strengthening of one's
-commitment to anti-humanism, but the need to mobilize whatever modest means of
-agency still available to counteract determinism in all its forms.
+resistance can recover a measure of agency from the determinism of---take your
+pick: markets, complex systems, unconscious drives, monistic universes, gaia
+science, social networks, technology, the singularity, bureaucracy, war.
+Indeed, the possibility of human erasure is all too easy, "like the face drawn
+in the sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility
+of life compels not the wager on one's commitment to anti-humanism, but the
+need to mobilize whatever modest available means to preserve agency, against
+odds.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to code, system, and device. For
@@ -256,32 +257,34 @@ metaphorical power to "hop" across, to "sniff" packets, to "survey," to
 "traverse," and to "flood" network topographies. Computational hermeneutics
 empower the reader to resist hard-wired models of machine-bound interpretation.
 Yet today, resistance remains within the purview of the few. Plain text
-channels itinerant streams of data back into the mangroves of human agency and
-comprehension for all. There, code becomes intelligible for the very subjects
-whose loss Kittler laments. Only in such encrypted tunnels and secure shells
-can anything like the digital humanities take root.
+channels itinerant streams of data back into the tidal pools of human agency
+and comprehension for all. There, code becomes intelligible for the very
+subjects whose loss Kittler laments. Only in such encrypted tunnels and secure
+shells can anything like the digital humanities take root. I am resorting to
+metaphor here as a place holder for things that I cannot yet describe fully.
+Think about them as borrowings against future chapters. Given space, the
+metaphor will give way to precise description.
 
 Computational hermeneutics show that not all texts are created equal. In print,
 traditional distinctions between form and content lie flat. The printing press
-firmly embeds letters into paper, leaving no space between ink and page.  From
-the early days of the internet, media-minded critics like Jerome McGann
-[@mcgann_radiant_2001], Johanna Drucker [@drucker_digital_2001], and Katherine
-Hayles [@hayles_print_2004] have compelled literary scholars to re-evaluate
-textuality in its media-specific context. Their work reminds us that the
-flatness of *digital* text endures only as an illusion. Low-level, operational
-intuitions governing textuality---ideas about form, content, style, letter, and
-word---change profoundly as text shifts its confines from paper to pixel. A
-substantial gap separates the visible text from the source code that produces
-it. Forces of capital and political control exploit that gap, obscuring the
-workings of the device to achieve their ends.
+firmly embeds letters into paper, leaving no space between ink and page.
+Media-minded critics like Jerome McGann [@mcgann_radiant_2001], Johanna Drucker
+[@drucker_digital_2001], and Katherine Hayles [@hayles_print_2004] urge
+literary scholars to re-evaluate textuality in its media-specific context.
+Their work reminds us that the flatness of *digital* text endures only as an
+illusion. Low-level, operational intuitions governing textuality---ideas about
+form, content, style, letter, and word---change profoundly as text shifts its
+confines from paper to pixel. A substantial gap separates the visible text from
+the source code that produces it. Forces of capital and control exploit that
+gap, obscuring the workings of the device.
 
-In *Plain Text*, I argue that some of the higher--level political afflictions
-of the contemporary public sphere---mass surveillance and online censorship,
-for example---relate to our failure as readers and writers to come to terms
-with the changing conditions of digital textuality. A society that cares about
-the long-term preservation of complex discursive formations like free speech,
-privacy, or online deliberation, would do well to take heed of the textual
-building blocks at their foundation. The structure of discursive
+In *Plain Text*, I will argue that some of the higher--level political
+afflictions of the contemporary public sphere---mass surveillance and online
+censorship, for example---relate to our failure as readers and writers to come
+to terms with the changing conditions of digital textuality. A society that
+cares about the long-term preservation of complex discursive formations like
+free speech, privacy, or online deliberation, would do well to take heed of the
+textual building blocks at their foundation. The structure of discursive
 formations---documents and narratives---has long been at the center of both
 computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
@@ -353,9 +356,9 @@ routinely encountered otherwise informed people who nevertheless felt
 hopelessly estranged from the tools of their everyday intellectual activity. I
 suspect that much of the metaphysical angst directed against computation in
 general is really a symptom of that basic alienation. Contemporary knowledge
-workers stare into small black boxes for a considerable part of their days,
-suspecting, in the absence of other feedback, that their gaze is met in bad
-faith.
+workers stare into rectangular black boxes for a considerable part of their
+days, suspecting, in the absence of other feedback, that their gaze is met in
+bad faith.
 
 Connecting *theories* of meaning--making to the *practices* of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
