@@ -91,33 +91,75 @@ those who prefer to read in print. Like most literature today, print materials
 are also "born digital." At some point of time, they occupy the same
 duplicitous position between storage medium and pixel.
 
+The seeming immateriality of digital media entails real-world effects: the
+costs of replication plummet, for example. Computational text can be copied
+effortlessly, with minimal cost, and with near-perfect fidelity.
+Hyper-reproducibility of the sort was unthinkable for most of the twentieth
+century. The machine allows for rapid remediation. Lowered costs of copying
+further reduce barriers to access and conveyance. Symbols that adhere lightly
+to their medium are easy to store and to transport. Witness the rise of
+massive, global public knowledge projects like online search engines and
+encyclopedias as a direct consequence. Such projects unfold the logic of
+immateriality, which moves towards totalizing archives and universal
+accessibility.[^ln1-google] When representation appears to weigh nothing, one
+imagines a weightless totality of all representation, available immediately and
+everywhere. The perceived weightlessness of text has other side-effects as
+well. For example, a text that adheres lightly to its medium is also difficult
+to contain, making onerous the governance of symbolic representation and
+weakening traditional controls like censorship and intellectual property
+rights.
+
+Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
+Rather, the symbol splits in two: with one half arising visibly, a weightless
+and apparent screen simulation, and the other half, opaque, etched into the
+hefty and hidden material contingencies of the device.
+
+Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
+text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
+[and] contingent" they are both identifying real-world technological
+affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
+@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
+which, when faced with the law prohibiting observant Jews from erasing God's
+name, rule that words on "screens, disks, and tapes" are not to be considered
+as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
+quoted @heim_electric_1987, 192]. Other technological and legal fictions rise
+to restore a measure of "stickiness" to electronic media. For example,
+manufacturers commonly embed digital rights management circuits into video
+streaming devices to artificially limit the duplication of broadcast material.
+Similarly, electronic book sellers usually disable the reader's ability to copy
+and paste from the material. Such measures mimic some of the constraints
+associated with static, paper-and-ink media regimes.
+
+When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
+respond to Heim and company with hardened materialism, they are also rightly
+identifying actual properties of electronic text. But the two camps speak
+neither of the same phenomenon nor at the same site. The former group points to
+the screen as the impermanent and ephemeral state of the written word: like
+tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
+points instead to the "uniquely indelible nature of magnetic storage"
+[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
+"fundamental physical support" and "material substrates of computing"
+[@drucker_performative_2013]. Both locations, the screen and the disk, are
+real. Neither can be reduced to the other. Both contain distinct constraints
+and affordances for action.
+
+The material substrates of computational text likewise carry real-world
+affordances and consequences. They are first and foremost hidden from view.
+Drives and tapes reside inside of black or aluminum boxes. If only because they
+carry electrical current and have the potential to catch fire, they are
+regulated. They contain heavy and rare metals, often hazardous if touched or
+ingested. The computational part of the sign is sealed in miniaturized
+containers that prevent access and to resist tempering. These are but some of
+the realities of material text. It is text intertwined with machine internals
+and control code and it is often hermeneutically sealed to resist human
+interpretation.
+
 Few readers today will be able to give an account of a pixel's passage from
 keystroke to ink or pixel. The vast machinery that brings literature to life
 hides from the reader's view. Literature conceals. Even on the level of
 stylistics, writing well is meant to evoke a sense of ease where it is usually
 the product of painstaking labor. Let us hold on to that intuition for the
 duration of this chapter: writing conceals labor.
-
-Much is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making, that is, the very opportunity to engage
-in the act of interpretation, begins with the text as a material object. In the
-West, it is easy to forget the blunt effectiveness of physical control. Books
-that are burned or locked up cannot be read at all. Global inequities of access
-to knowledge are much more obvious in the post-colonial world, where readers
-print their own books and build their own libraries to preserve access. Witness
-the so-called "shadow libraries" of Eastern Europe [@tenen_book_2014,
-@bodo_short_2014], the street book vendors of India and Pakistan
-[@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat* press of
-Nigeria under the conditions that have been described as "book famine"
-[@okiy_photocopying_2005, @nkiko_book_2014]. Yet despite the hardship, these
-practices are at least engaged in the proactive preservation of the literary
-sphere. Shadow libraries erect architectures of knowledge and create reading
-publics who own the means of textual diffusion. They make copies, write server
-software that aids in the distribution, and build archives.
-Elsewhere---here---such infrastructures are created for us. Consequently, they
-disappear from view. If indeed my intuition is correct and readers do not know
-what books are, how they are made, or what they are capable of, we are all
-operating under the conditions of profound alienation.
 
 I want to foreshadow now what will become the punchline of the whole book:
 namely that the ghost in the machine cannot be reduced to some vague notions of
@@ -131,34 +173,6 @@ reason through Kittler's computational conundrum. On towards Marx then (who
 will appear much later), through the machine that, although intimately familiar
 to every writer and consumer of text by touch, remains alien and alienating in
 its hidden possibilities, soothing and threatening all at once.
-
-It will take us the rest of the book to come to terms with ambiguous textuality
-in its bifurcated form. For now, we begin merely with the peculiarity of its
-location. It exists at multiple sites at the same time. The purpose of this
-chapter is to locate the object of literary study. I mean "object" literally,
-as a material thing that can be seen and touched and found on desks. This is
-not a trivial endeavor when it comes to simulated text. Device reading happens
-on screens that refresh themselves at a rate of around 60 cycles per second
-(Hertz). Screen textuality is therefore by definition ephemeral. It is
-technically an animation. It moves even as it appears to stand still. Yet
-paradoxically, simulated text is also pervasive. Precisely because it adheres
-lightly to its medium, it has a tendency to multiply and to spread widely. Like
-the fine particles of glitter, it is difficult to contain. The simulated text
-falls apart into bits and pixels that replicate and tumble about the system.
-
-If you are reading these words on a screen, my message has reached you through
-a long chain of transformations: from the mechanical action of my keyboard, to
-the arrangement of electrons on magnetic storage media, to the modulation of
-fiber-optic signal, to the shimmer of the flowing liquid crystal. Many, many
-third parties were involved in that act of communication. And some part of that
-message was used to control the electrical circuits of the device in your lap,
-in your hand, near to your eye, embedded, or embodied. Close reading limited to
-the parsing of content and representation risks missing the machinations of
-naked circuit control. It looks like you are reading a book, but this book
-changes its internals as it receives instructions to inform and to control. For
-now I ask only, Who controls the machine? But were a book also a pill or fused
-with the neural circuitry of the brain, would you know what and whom you were
-reading?
 
 [^ln1-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.

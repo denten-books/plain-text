@@ -493,7 +493,7 @@ of writing. Recall for example the famous *pharmakon* passage from Plato's
 conclusion of the dialog, King Thamus objects to the technology (*ta tekhnēs*)
 of the written word, as he believes it will foster forgetfulness in the people
 who use it.  Plato writes: "Their faith in extrinsic writing [*graphō
-exōthen*], through othered marks [*allotrion tupōn*] will diminish their
+exōthen*], by means of foreign impressions[*allotrion tupōn*] will diminish their
 intrinsic [*endothen autous*] capacity to remember"
 [@plato_plato_????].[^ln1-platotr] Plato thus contrasts the exterior figure
 [*graphō exōthen*] with the intrinsic [*endothen*] human capacity to remember.
@@ -718,8 +718,8 @@ preserve some of the interesting characteristics of the original Greek. In
 particular, note the parallelism between *exōthen* and *endothen*, the
 ambiguity of *allotrion*, as something that comes from another, and the subtle
 slide between *graphō* (letter, figure, writing) and *tupōn* (type, impression,
-trace). I extend my gratitude to Simos Zenios and Stathis Gourgouris for our
-in-depth discussions of the translations.
+trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios, and Guy
+Smoot for their help with the Greek translations.
 
 [^ln1-turingcog]: Turing's later work suggests that his use of cognitive language
 throughout "On Computable Numbers" was not accidental, and that he meant it to
@@ -1322,6 +1322,32 @@ daily use. With time they disappear from view: invisible metaphors of
 invisibility.  When habituated, they alienate us from the symbol. A new wave of
 estrangement is needed to rouse it from its metaphorical slumber.
 
+In drawing the history of the book as a universal Turing machine, we will
+observe the evolution of symbolism into its final and totalizing form. By
+converting machine states into symbols, the Turing machine represents the
+ultimate negation of matter. It subsumes all lesser mechanisms amenable to
+computation---which some would say includes brains and universes.[ln1-brains]
+The universal Turing machine has the potential to mediate everywhere, yet,
+paradoxically, it's method of "mediation" abstracts from any notion of medium
+or intervening substance.
+
+Under the command and control regime of the Turing machine, text loses its
+adhesion to the world. Yet it would be a mistake to think of it as wholly
+ethereal. The symbol itself, in its rawest form, anchors the Turing machine to
+the confines of the physical universe. No matter the transcendental impulse,
+the universal Turing machine cannot be abstracted beyond its minimal physical
+requirements: "tape," "symbol," "scanned square," "in the machine"
+[@turing_computable_1937, 231].[^ln1-inside]
+
+A figure of computation emerges in the dual movement between symbol and
+machine: the machine that pushes the symbol towards the ethereal, and the
+symbol that pulls the machine back towards earth. This dynamic encapsulates the
+bargain at the center of computational media, explored for the duration of the
+book. The machine frees symbolic representation from its material confines. The
+price of freedom is the very opacity of the material context. Where words etched
+in paper or stone constituted a single site for textual activity, the digital
+word exists in a simulated environment physically apart from the underlying
+material substratum. Freedom reveals itself as a simulation.
 [^ln1-google]: "Google's mission is to organize the world's information
 and make it universally accessible and useful" (@google_about_2015).
 
