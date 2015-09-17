@@ -73,70 +73,72 @@ replicate and tumble about the system.
 
 My challenge in this book lies in the relative paucity of our critical
 vocabulary. We have many theoretical models to address literary phenomena on
-the macro scale: period, genre, world literature. Yet the particulates of
-literary production and dissemination on the micro scale go for the most part
-unnamed. To come to terms with the book as a device; to come to understand the
-nature of the text simulation; to perceive the particularity of the computed
-sign; to find the right words to do it: these are roughly the aims of *Plain
-Text*.
+the macro scale: period, genre, style, affect, world literature, etc. Yet the
+particulates of literary production and dissemination on the micro scale go for
+the most part unnamed. To come to terms with the book as a device; to come to
+understand the nature of the text simulation; to perceive the particularity of
+the computed sign; to find the right words to do it: these are roughly the aims
+of *Plain Text*.
 
 ## Simulated Text
 
-A concern with the contemporary conditions of simulated textuality will lead us
-to a rich archive from the history of literary theory, semiotics, telegraphy,
-and electrical engineering from the middle of the nineteenth to the middle of
-the twentieth centuries. For text to render on the screen properly it must be
+A concern with the contemporary conditions of simulated textuality lead us to a
+rich archive from the history of literary theory, semiotics, telegraphy, and
+electrical engineering from the middle of the nineteenth to the middle of the
+twentieth centuries. For text to render on the screen properly it must be
 "encoded" or "translated" from machine-transmittable code into human-readable
-shape. Morse, Hughes, and Baudot alphabets are just some of the encoding
+shape. Morse, Hughes, and Baudot alphabets were just some of the early encoding
 schemas that make such translation possible. Encoding constitutes a primitive
 field of textual activity, at the crossroads of software engineering and the
-study of literature. It matters because how text is encoded, transmitted, and
-stored decides who gets to decode, to receive, and to access.
+study of literature. Encoding matters because how text is encoded, transmitted,
+and stored decides who gets to decode, to receive, and to access.
 
 In drawing the history of character encoding, I want to describe gains and
-losses accrued in the process of encoding. And among a multitude of
-compromises, *legibility* stands as the one that entails all others. I am going
-to repeat a version of the same thesis for the duration of the manuscript:
-without legibility there can be no understanding. Most attempts to articulate a
-liberal ethos, whether built on consensus, narrative, discourse, or contract
-law, presuppose legibility. Without legibility there can be no consensus,
-narrative, discourse or contract. Yet, since the Gutenberg press and the
-vernacular reforms of Martin Luther, Western thought takes legibility for
-granted. This is because until the advent of the simulated text, print has
-remained a remarkably stable medium. Attempts to silence print through book
-burning or censorship are viscerally obvious and met with nearly universal
-disapproval. The advent of computed text and device textuality threatens to
-return us to pre-Lutheran times, where legibility was the domain of the select
-few and interpretation the privilege of the chosen. It pains me to write these
-words because they seem to me at once too dire, obvious, and true.
+losses accrued in the process of translation between machine and human
+languages. And among a multitude of compromises, *legibility* stands as the one
+that entails all others. I am going to repeat a version of the same thesis for
+the duration of the manuscript: without legibility there can be no
+understanding. Most attempts to articulate a liberal ethos, whether built on
+consensus, narrative, discourse, or contract law, presuppose legibility.
+Without legibility there can be no consensus, narrative, discourse or contract.
+Yet, since the Gutenberg press and the vernacular reforms of Martin Luther,
+Western thought takes legibility for granted. This is because until the advent
+of the simulated text, print has remained a remarkably stable medium. Attempts
+to silence print through book burning or censorship are viscerally obvious and
+met with nearly universal disapproval. The advent of computed text and device
+textuality threatens to return us to pre-Lutheran times, where legibility was
+the domain of the select few and interpretation the privilege of the chosen. It
+pains me to write these words because they seem to me at once too dire,
+obvious, and true.
 
 The illusion of ephemerality comes at a price of legibility. "Software's
 ghostly presence produces and defies apprehension," Wendy Chun writes in her
 *Programmed Visions* [@chun_programmed_2011, 3]. But what happens when all text
-is a type of software? Friedrich Kittler ends his book making a similar
-suggestion. In his vision, literature is finally defeated by military-grade
+is a type of software? Friedrich Kittler ends his book making on a similar
+note. In his vision, literature has been finally defeated by military-grade
 encryption, obfuscation, and secrecy [@kittler_gramophone_1999, 263]. Unlike
-censorship, such modes of control over the circulation of texts are less
-obvious and more pervasive. The simulation-producing nature of computed text
-helps preserve the outward appearance of printed text, while concealing the
-specifics of governance. I mean governance in the most direct way possible, as
-a mode of physical control and a barrier to a meaning-carrying layer of the
-text, often inaccessible to the reader. The difficulty of *Plain Text* will be
-in the describing of such emerging technological contingencies along with
-finding affordances for resistance.
+censorship or the burning of book, such modes of symbolic control (governance
+*over* the sign) are less obvious and more pervasive. The simulation-producing
+nature of computed text helps preserve the outward appearance of printed text,
+while concealing the specifics of control. I mean control in the most direct
+way possible, as a mode of physical governance and barrier to access. The
+difficulty of *Plain Text* will be in the describing of such emerging but often
+concealed technological contingencies along. It will be in the search of
+affordances for resistance.
 
-The rise of the critical practice in the humanities: minimal computing,
-critical making, and forensic reading affirm the possibility interpretation in
-the digital age. I select plain text, in the title of the book, as a
-long-standing mode of computation most closely align to that project. Plain
-text identifies a file format and a frame of mind. As a file format, it
-contains nothing but a "pure sequence of character codes." In technical terms,
-it stands in opposition to *fancy text*: "text representation consisting of
-plain text plus added information."[^ln-uni] Yet, plain text is not without its
-own forms of mediation. All matter-bound inscription must take on some added
-properties of its preferred medium, however contingent these may be. The
+The rise of critical practice in the humanities---minimal computing, critical
+making, and forensic reading---affirm the possibility of interpretation, and
+this at a time when reading intensifies. Humans today read more than ever and
+increasingly that reading passes through some for of a computational device. I
+select plain text, mentioned in the title of the book, to represent a
+long-standing mode of interacting with computers most closely aligned to the
+stated aims of the volume. Plain text identifies a file format and a frame of
+mind. As a file format, it contains nothing but a "pure sequence of character
+codes." In technical terms, it stands in opposition to *fancy text*: "text
+representation consisting of plain text plus added information."[^ln-uni] The
 simplicity of plain text signifies systematic minimalism with a view towards
-human legibility and not towards that of a system or a machine.
+human comprehension. It privileges legibility over all other ideals that may
+optimize for the good of the system or the machine.
 
 As a frame of mind, the use of plain text signals an ethics of reading and
 writing. Added information routinely embedded in all forms of contemporary
@@ -147,8 +149,8 @@ censorship. The use of plain text therefore entails the making visible of
 implicit governing structures. It implies also that computational control is
 available for *computational hermeneutics*. Building on the recent work of
 scholars like Wendy Hui Kyong Chun, Alexander Galloway, and Lisa Gitelman, I
-contend that textual legibility is becoming increasingly crucial to a critical
-understanding of what it means to remain human in a digital world.
+contend that we as readers of code and content are witnessing the erosion of
+legibility and that we should do something about it.
 
 *Plain Text* makes a historical case for the recovery of textual thought latent
 in the machinery of contemporary computing. Software engineers routinely
@@ -157,48 +159,54 @@ from the design of social media to the formation of massive shared archives.
 Because "cultural techniques" are formative of our society as a whole,
 supposedly technical decisions like choosing a text editor, a filing system, or
 a social networking platform cannot be addressed in shallow instrumental terms
-limited to efficacy, speed, or performance. Computational hermeneutics
-encourages "users" to become active readers, thinkers, tinkerers, and makers of
-technology. It treats "binary" and "digital" environments as literary systems,
-amenable to the construction and the deconstruction of meaning. In clarifying
-usage, I ask those who may have considered themselves mere "users" to apply the
-same critical acuity to the understanding of code and device as they do to the
-close reading of prose and poetry.
+limited to efficacy, speed, or performance. Complex computational systems
+cannot give rise to values any more than financial markets can. I find the
+argument to the contrary both pervasive and deeply reactionary. Among the many
+available visions of human--computer interaction, we must chose one that
+confirms to a reasoned ethos, whatever the reader's politics. Computational
+hermeneutics encourages "users" to become active readers, thinkers, tinkerers,
+and makers of technology. It treats "binary" and "digital" environments as
+literary systems, amenable to the construction and the deconstruction of
+meaning. In clarifying usage, I ask those who may have considered themselves
+mere "users" to apply the same critical acuity to the understanding of code and
+device as they do to the close reading of prose and poetry.
 
-If you are reading these words on a screen, my message has reached you through
-a long chain of transformations: from the mechanical action of the keyboard, to
-the arrangement of electrons on magnetic storage media, to the modulation of
-fiber-optic signal, to the shimmer of the flowing liquid crystal on the screen.
-Many, many third parties were involved in that act of communication. Parts of
-the transmitted message was used to control the electrical circuits of the
-device in your lap, in your hand, near to your eye, embedded, or embodied.
-Close reading limited to the parsing of visible content risks missing the
-concealed machinations of naked circuit control. It looks like you are reading
-a book, but this book changes its internals as it receives instructions to
-inform and to control. For now I ask only, Who controls the machine? But were a
-book also a pill or fused with the neural circuitry of the brain, would you
-know what and whom you were reading?
+Even if you are not reading these words through a screen, my message has
+reached you through a long chain of symbolic transformations: from the
+mechanical action of the keyboard, to the arrangement of electrons on magnetic
+storage media, to the modulation of fiber-optic signal, to the shimmer of the
+flowing liquid crystal displays. Parts of the transmitted message not apparent
+on the page were used to control the electrical circuits of the device in your
+lap, in your hand, near to your eye, embedded, or embodied. Close reading
+limited to the parsing of visible content risks missing the concealed
+machinations of naked circuit control. It looks like you are reading a book,
+but this book changes its internals as it receives instructions to inform and
+to control. For now I ask only, Who controls the machine? But were a book also
+a pill or fused with the neural circuitry of the brain, would you know what and
+whom you were reading?
 
 Much is at stake in the material affordances of the literary artifact. The
 political struggle for meaning-making, that is, the very opportunity to engage
 in the act of interpretation, begins with the text as a material object. In the
 West, it is easy to forget the blunt effectiveness of physical control. Books
-that are burned or locked up cannot be read at all. Global inequities of access
-to knowledge are much more obvious in the post-colonial world, where readers
-print their own books and build their own libraries to preserve access. Witness
-the so-called "shadow libraries" of Eastern Europe [@tenen_book_2014,
-@bodo_short_2014], the street book vendors of India and Pakistan
-[@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat* press of
-Nigeria under the conditions that have been described as "book famine"
-[@okiy_photocopying_2005, @nkiko_book_2014]. Yet despite the hardship, these
-practices engage in the proactive preservation of the literary sphere. Shadow
-libraries erect architectures of knowledge and create reading publics who own
-the means of textual diffusion. They make copies, write server software that
-aids in the distribution, and build archives.  Elsewhere---here---such
-infrastructures are created for us. Consequently, they disappear from view. If
-indeed my intuition is correct and readers no longer can explain how simulated
-books work, how they are made, or what they are capable of, we are all
-operating under the conditions of profound alienation.
+that are burned or redacted cannot be read at all. Elsewhere, global inequities
+of access to knowledge compel readers to print their own books and build their
+own libraries. Witness the so-called "shadow libraries" of Eastern Europe
+[@tenen_book_2014, @bodo_short_2014], the street book vendors of India and
+Pakistan [@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat*
+press of Nigeria under the conditions that have been described as "book famine"
+[@okiy_photocopying_2005, @nkiko_book_2014]. Such practices engage in the
+proactive preservation of the literary sphere. Shadow libraries and informal
+book exchange networks create reading publics who own the means of textual
+dissemination. Under duress, readers build homemade knowledge infrastructures:
+they duplicate, distribute, and archive. In the economies that reached later
+stages of capitalism, such infrastructures are commodified. Consequently, they
+disappear from view. For many readers, the technologies that support reading,
+writing, and interpretation have passed from tools to fetish. No longer
+comprehensible by the way of the pen or the printing press they are imbued with
+magical powers.
+
+capable of, we are all operating under the conditions of profound alienation.
 
 The overarching aim of the book is therefore to expose the illusion of
 verisimilitude between text on paper and text on the screen. The words may look
