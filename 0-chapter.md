@@ -148,9 +148,9 @@ forms of governance, like the enforcement of intellectual property rights and
 censorship. The use of plain text therefore entails the making visible of
 implicit governing structures. It suggests also that computational control is
 available for *computational hermeneutics*. Building on the recent work of
-scholars like Wendy Hui Kyong Chun, Matthew Kirschenbaum, and Lisa Gitelman, I
-contend that we as readers of code and content are witnessing the erosion of
-legibility; and that we should do something about it.
+scholars like Wendy Hui Kyong Chun, Johanna Drucker, Lisa Gitelman, and Matthew
+Kirschenbaum, I contend that we as readers of code and content are witnessing
+the erosion of legibility; and that we should do something about it.
 
 *Plain Text* makes a historical case for the recovery of textual thought latent
 in the machinery of contemporary computing. Software engineers routinely
@@ -242,11 +242,11 @@ analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
 engineer analytical automatons that command on our behalf. Such small acts of
 resistance can recover a measure of agency from the determinism of... take your
 pick: markets, complex systems, unconscious drives, monistic universes, social
-networks, technology, nature, bureaucracy, war... The possibility of human
-erasure "like the face drawn in the sand at the edge of the sea"
-[@foucault_order_1994, 387], compels not the strengthening of one's commitment
-to anti-humanism, but the need to mobilize whatever modest means of agency
-still available to counteract determinism in all its forms.
+networks, technology, the singularity, gravity, bureaucracy, war... The
+possibility of human erasure "like the face drawn in the sand at the edge of
+the sea" [@foucault_order_1994, 387], compels not the strengthening of one's
+commitment to anti-humanism, but the need to mobilize whatever modest means of
+agency still available to counteract determinism in all its forms.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to code, system, and device. For
