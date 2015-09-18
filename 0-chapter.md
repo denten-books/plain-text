@@ -148,9 +148,9 @@ forms of governance, like the enforcement of intellectual property rights and
 censorship. The use of plain text therefore entails the making visible of
 implicit governing structures. It suggests also that computational control is
 available for *computational hermeneutics*. Building on the recent work of
-scholars like Wendy Hui Kyong Chun, Johanna Drucker, Lisa Gitelman, and Matthew
-Kirschenbaum, I contend that we as readers of code and content are witnessing
-the erosion of legibility; and that we should do something about it.
+scholars like Wendy Kyong Chun, Tung-Hui Hu, Lisa Gitelman, and Lev Manovich, I
+contend that we as readers of code and content are witnessing the erosion of
+legibility; and that we should do something about it.
 
 *Plain Text* makes a historical case for the recovery of textual thought latent
 in the machinery of contemporary computing. Software engineers routinely
@@ -162,7 +162,7 @@ a social networking platform cannot be addressed in shallow instrumental terms
 limited to efficacy, speed, or performance. Complex computational systems do
 not give rise to values any more than financial markets do. I find the argument
 to the contrary both pervasive and deeply reactionary. Among the many available
-visions of human--computer interaction, we must chose one that confirms to a
+visions of human--computer interaction, we can chose one that confirms to a
 reasoned ethos, emanating from the human side of the question, whatever the
 reader's politics. Computational hermeneutics encourages "users" to become
 active thinkers, tinkerers, and makers of technology. It treats "binary" and
@@ -209,7 +209,7 @@ infrastructures: they duplicate, distribute, and archive. In the economies that
 reached later stages of capitalism, such infrastructures are commodified.
 Consequently, they disappear from view. For many readers, the technologies that
 support reading, writing, and interpretation have passed from tools to fetish.
-We have tender feelings for them and cradle them in our laps.  No longer
+We have tender feelings for them and cradle them in our laps. No longer
 comprehensible by the way of the pen or the printing press we imbue them with
 magical powers and thus exist in the state of profound alienation from the
 conditions closet to our mental activity.
@@ -240,13 +240,14 @@ literary analysis should consequently evolve to deal with new technological
 contingencies. Where texts are encrypted, we decrypt. If "automated discourse
 analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
 engineer analytical automatons that command on our behalf. Such small acts of
-resistance can recover a measure of agency from the determinism of... take your
-pick: markets, complex systems, unconscious drives, monistic universes, social
-networks, technology, the singularity, gravity, bureaucracy, war... The
-possibility of human erasure "like the face drawn in the sand at the edge of
-the sea" [@foucault_order_1994, 387], compels not the strengthening of one's
-commitment to anti-humanism, but the need to mobilize whatever modest means of
-agency still available to counteract determinism in all its forms.
+resistance can recover a measure of agency from the determinism of---take your
+pick: markets, complex systems, unconscious drives, monistic universes, gaia
+science, social networks, technology, the singularity, bureaucracy, war.
+Indeed, the possibility of human erasure is all too easy, "like the face drawn
+in the sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility
+of life compels not the wager on one's commitment to anti-humanism, but the
+need to mobilize whatever modest available means to preserve agency, against
+odds.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to code, system, and device. For
@@ -256,32 +257,34 @@ metaphorical power to "hop" across, to "sniff" packets, to "survey," to
 "traverse," and to "flood" network topographies. Computational hermeneutics
 empower the reader to resist hard-wired models of machine-bound interpretation.
 Yet today, resistance remains within the purview of the few. Plain text
-channels itinerant streams of data back into the mangroves of human agency and
-comprehension for all. There, code becomes intelligible for the very subjects
-whose loss Kittler laments. Only in such encrypted tunnels and secure shells
-can anything like the digital humanities take root.
+channels itinerant streams of data back into the tidal pools of human agency
+and comprehension for all. There, code becomes intelligible for the very
+subjects whose loss Kittler laments. Only in such encrypted tunnels and secure
+shells can anything like the digital humanities take root. I am resorting to
+metaphor here as a place holder for things that I cannot yet describe fully.
+Think about them as borrowings against future chapters. Given space, the
+metaphor will give way to precise description.
 
 Computational hermeneutics show that not all texts are created equal. In print,
 traditional distinctions between form and content lie flat. The printing press
-firmly embeds letters into paper, leaving no space between ink and page.  From
-the early days of the internet, media-minded critics like Jerome McGann
-[@mcgann_radiant_2001], Johanna Drucker [@drucker_digital_2001], and Katherine
-Hayles [@hayles_print_2004] have compelled literary scholars to re-evaluate
-textuality in its media-specific context. Their work reminds us that the
-flatness of *digital* text endures only as an illusion. Low-level, operational
-intuitions governing textuality---ideas about form, content, style, letter, and
-word---change profoundly as text shifts its confines from paper to pixel. A
-substantial gap separates the visible text from the source code that produces
-it. Forces of capital and political control exploit that gap, obscuring the
-workings of the device to achieve their ends.
+firmly embeds letters into paper, leaving no space between ink and page.
+Media-minded critics like Johanna Drucker [@drucker_digital_2001], Katherine
+Hayles [@hayles_print_2004], Matthew Kirschenbaum, and Jerome McGann
+[@mcgann_radiant_2001] urge literary scholars to re-evaluate textuality in its
+media-specific context.  Their work reminds us that the flatness of *digital*
+text endures only as an illusion. Low-level, operational intuitions governing
+textuality---ideas about form, content, style, letter, and word---change
+profoundly as text shifts its confines from paper to pixel. A substantial gap
+separates the visible text from the source code that produces it. Forces of
+capital and control exploit that gap, obscuring the workings of the device.
 
-In *Plain Text*, I argue that some of the higher--level political afflictions
-of the contemporary public sphere---mass surveillance and online censorship,
-for example---relate to our failure as readers and writers to come to terms
-with the changing conditions of digital textuality. A society that cares about
-the long-term preservation of complex discursive formations like free speech,
-privacy, or online deliberation, would do well to take heed of the textual
-building blocks at their foundation. The structure of discursive
+In *Plain Text*, I will argue that some of the higher--level political
+afflictions of the contemporary public sphere---mass surveillance and online
+censorship, for example---relate to our failure as readers and writers to come
+to terms with the changing conditions of digital textuality. A society that
+cares about the long-term preservation of complex discursive formations like
+free speech, privacy, or online deliberation, would do well to take heed of the
+textual building blocks at their foundation. The structure of discursive
 formations---documents and narratives---has long been at the center of both
 computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
@@ -295,9 +298,9 @@ influential monograph.[^ln-kittler2] It would be easy to dismiss Kittler as a
 technological romantic or a Luddite. He was neither. Instead I read the
 concluding chapters of *Gramophone, Film, Typewriter* as a call to action. When
 Kittler writes that "media determine our situation,"[@kittler_gramophone_1999,
-xxxix] he challenges his reader to choose between complicity or defiance. What
-can be done to counteract media determinism? In what follows, I outline the
-intellectual lineages that frame my answer. The search for a hermeneutics
+xxxix] he challenges his reader to choose between complicity and defiance. What
+can be done to counteract technological determinism? In what follows, I outline
+the intellectual lineages that frame my answer. The search for a hermeneutics
 capable of addressing Kittler's challenge took shape as a species of
 materialism that is both pragmatic and experimental. On the way, I found fellow
 travellers who advocate for a more perfect union between theory and practice.
@@ -323,13 +326,13 @@ things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
 powerful tools for analysis and resistance against technological
 determinism.[^ln-determine] But as Max Horkheimer wrote, "the issue is not
 simply the theory of emancipation; it is the practice of it as well"
-[@horkheimer_critical_1982, 233]. Recently, scholars like Alan Liu and Kathleen
-Fitzpatrick have began to turn the tools of critical theory towards the
-instrumental contexts of knowledge production [@liu_laws_2004;
-@fitzpatrick_planned_2011]. I join them to argue that in treating the
-instruments of intellectual production (and consumption) uncritically, all of
-us---readers and writers---accumulate an ethical debt, owed to ourselves and to
-the world.
+[@horkheimer_critical_1982, 233]. Recently, scholars like Kathleen Fitzpatrick,
+Tiziana Terranova, and Trebor Scholz have began to turn the tools of critical
+theory towards the instrumental contexts of knowledge production
+[@liu_laws_2004; @fitzpatrick_planned_2011]. I join them to argue that in
+treating the instruments of intellectual production (and consumption)
+uncritically, all of us---readers and writers---accumulate an ethical debt,
+owed to ourselves and to the world.
 
 For example, it is one thing to theorize about the free movement of literary
 tropes across cultures and continents, and quite another to have that sentiment
@@ -353,14 +356,14 @@ routinely encountered otherwise informed people who nevertheless felt
 hopelessly estranged from the tools of their everyday intellectual activity. I
 suspect that much of the metaphysical angst directed against computation in
 general is really a symptom of that basic alienation. Contemporary knowledge
-workers stare into small black boxes for a considerable part of their days,
-suspecting, in the absence of other feedback, that their gaze is met in bad
-faith.
+workers stare into rectangular black boxes for a considerable part of their
+days, suspecting, in the absence of other feedback, that their gaze is met in
+bad faith.
 
 Connecting *theories* of meaning--making to the *practices* of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
 misalignment between thought and action. The solution to connect "meaning" with
-"operational meaning" belongs to a species of pragmatism.  William James
+"operational meaning" belongs to a species of pragmatism. William James
 articulated that view concisely when he wrote that "reality is seen to be
 grounded in a perfect jungle of concrete expediencies"
 [@james_pragmatisms_1907]. For James and other pragmatists, truth could not
