@@ -414,10 +414,10 @@ decades of photography without grasping the fundamentals of electronic
 photo-detectors, RAW image formats, complementary metal–oxide–semiconductors
 (CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
 image manipulation filters. A study of that sort would be in peril of being
-misguided by theories that have no basis in reality. That is not to say that
-theory has nothing to contribute to the conversation. Rather that theorists can
-contribute more when their thought is grounded in the material foundations of
-practice. Similarly, it is my contention here that the cardinal
+misguided by fanciful theories that have no basis in reality. That is not to
+say that theory has nothing to contribute to the conversation. Rather that
+theorists can contribute more when their thought is grounded in the material
+foundations of practice. Similarly, it is my contention here that the cardinal
 literary-theoretical concepts---such as word, text, narrative, discourse,
 author, story, book, archive---are thoroughly enmeshed in the underlying
 physical substratum of paper and pixel. It follows that any attempt to
@@ -734,4 +734,3 @@ figurative---spatial, literary, technological---to those being displaced
 unwillingly, to those exiled within and without, to those who understand the
 need for self-displacement, to those who transgress purposefully, and to those
 willing to trespass.
-
