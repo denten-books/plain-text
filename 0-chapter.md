@@ -125,7 +125,7 @@ difficulty of *Plain Text* will be in the describing of such emerging but often
 concealed technological contingencies. It will be in the finding the right
 words and the affordances for dissent.
 
-The rise of critical practice in the humanities---such recent develpments as
+The rise of critical practice in the humanities---such recent developments as
 minimal computing, critical making, and forensic reading---affirm the
 possibility of interpretation under the sign of the simulated text. Humans
 today read more than ever and increasingly that reading passes through some
@@ -200,7 +200,7 @@ of access to knowledge compel readers to print their own books and build their
 own libraries. Witness the so-called "shadow libraries" of Eastern Europe
 [@tenen_book_2014, @bodo_short_2014], the street book vendors of India and
 Pakistan [@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat*
-press of Nigeria under cicumstances that have been described as "book famine"
+press of Nigeria under circumstances that have been described as "book famine"
 [@okiy_photocopying_2005, @nkiko_book_2014]. Such practices engage in the
 proactive preservation of the literary sphere. Shadow libraries and informal
 book exchange networks create reading publics who own the means of textual
