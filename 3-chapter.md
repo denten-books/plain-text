@@ -1,6 +1,6 @@
 ---
 title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 3: Fading Persistance (Splitting the Sign)"
+subtitle: "Chapter 3: Solid States (Splitting the Sign)"
 author: "Dennis Tenen"
 style: csl/chicago-note.csl
 bibliography: plain-text.bib
@@ -24,7 +24,7 @@ us! Because the book is different it fucks with authenticity.
 
 The possibility of text that reconfigures itself.
 
-# Chapter 2: Fading Persistance
+# Chapter 2: Solid States
 
 The bifurcated sign resides in two distinct locations, each entailing
 drastically differing affordances for reading.
@@ -661,7 +661,7 @@ another approach will compare multiple editions of the same text to derive a
 possible meta-text, preserving all extant variations. Yet others will simply
 rely on their judgment to produce what they believe is a "true" text based on a
 number of personal and eclectic considerations [@bowers_rationale_1950,
-@bowers_shakespeares_1954, @mcgann_radiant_2004]. Such approaches to textual
+@bowers_shakespeares_1954, @mcgann_radiant_2001]. Such approaches to textual
 criticism have at least this one thing in common: behind the fuzzy profusion of
 textual material they perceive the outlines of a single, unified work. As G.
 Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
