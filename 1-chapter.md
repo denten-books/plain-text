@@ -172,29 +172,31 @@ Today, the "servers" that serve the world's largest purveyors of literature
 service also air traffic control and the National Security Administration
 [@soyata_combat:_2012; @logicworks_government_2015].
 
-In these conditions we---humanists, historians, philologists---must reconsider
-the easy relationship we enjoyed with the material conditions of textuality.
-The simulated book, as I will call it here, and, alternatively, the computed
-literary artifact, no longer plays by the same rules as print. The
-bibliographic illusion veils machine internals. The universal Turing machine,
-from which all computational devices inherit, will reveal itself ultimately as
-a form of simulated governance. Yet the Turing machine, and subsequently all
-computers, belong also, in part, to the long history of the book. In this
-chapter, I draw several pre-histories of the literary device, first as a formal
-technique, then as an thought experiment, and finally as a control mechanism.
-To preserve agency and to break the inertia of leisurely reading, we must
-rediscover the book as a device; to call it forth for what it is and always
-was---a robot for effecting thought at a distance; and to bring it back under
-the purview of interpretation. My approach to the problem of "digital"
-literature lies such dual movement between making strange and making familiar.
-To discover the object anew is to strip it of its ideational content---to
-dispel the fetish. To understand it is to imbue it with new meaning and
-subjectivity.
+These conditions compel us---humanists, historians, philologists---to
+reconsider the easy relationship we have enjoyed with the material conditions
+of textuality since the Gutenberg press. The "simulated book," as I will call
+it here, and, alternatively, the "computed literary artifact," no longer plays
+by the same rules as print. The bibliographic illusion veils machine internals.
+The universal Turing machine, from which all computational devices inherit,
+will reveal itself ultimately as a form of governance. To make the particulars
+of computational governance comprehensible, I will also argue that the Turing
+machine, and subsequently all computers, belong to the long history of the
+book. They gain meaning for us not as mathematical abstraction, but as
+mechanisms of generalized symbolic manipulation: related to pen, paper,
+typewriter, and telegraph.
 
-In this chapter, my aim is to encounter the book anew as a mechanism and
-complex system. The device-like property of computed text especially, when
-compared to print, holds severe consequences for the practices of reading,
-writing, and interpretation.
+In this chapter, I draw several pre-histories of the literary device, first as
+a formal technique, then as an thought experiment, and finally as a control
+mechanism.  To preserve agency and to break the inertia of leisurely reading,
+we must rediscover the book as a device; to call it forth for what it is and
+always was---a robot for effecting thought at a distance; and to bring it back
+under the purview of interpretation. My approach to the problem of "digital"
+literature lies such dual movement between making strange and making familiar.
+To discover the object again is to strip it of its ideational content---to
+dispel the fetish. To understand it is to imbue it with new meaning and
+subjectivity. In this chapter, we shall encounter the book anew as a mechanism
+and complex system. The device-like property of computed text implies severe
+consequences for the practices of reading, writing, and interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
 most worthy of thought and questioning remains the mystery of
@@ -211,7 +213,7 @@ valid today?
 
 What sort of a thing is a literary device? The formal concept of a "device,"
 widely used in literary studies, is an artifact of an unfortunate translation
-from Russian.  The word *priem* would be much better translated as "technique,"
+from Russian. The word *priem* would be much better translated as "technique,"
 in the sense of "method," "approach," or "procedure." The word "device"
 contains these meanings as well, but in modern usage, it usually carries a more
 concrete connotation, as "an object, machine, or piece of equipment that has
@@ -319,7 +321,7 @@ Inspired by the formalists, I would like to extend the technique of
 estrangement to books and documents as literal devices. When asked in the
 context of media and book history, the question of literary surfaces gains an
 instrumental dimension. Habit hides the peculiarity of our everyday interfaces
-with the word. We read at the surface. We etch inscriptions deep within the
+with the word. We read at the surface; we etch inscriptions deep within the
 bowels of a machine. When enacted on the level of the physical device,
 estrangement parallels the practice of literary theory and reverse engineering.
 Both aim to reveal internals that structure experience, made opaque through
@@ -394,19 +396,18 @@ writes about the "range of social and political changes" related to the
 invention of writing. For Ricoeur, human discourse is "fixed" and thereby
 "preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
-The literary device offers no such permanence, neither in simulation nor in
-diffusion. The very meanings of "fixed," "permanent," and "repeatable" change
-with the medium. The engineering of literary artifacts conceals a number of
-design choices, obscuring the flows of code and codex under the familiar guise
-of surface representation. The digital book does not just simulate a book.
-Being a type of a Turing machine, it holds the potential to embody all possible
-metaphors.[^ln1-notquite] The task of the literary scholar reading on the level
-of the device becomes to make the figure available for interpretation. It is to
-apprehend its revealed mechanics. What happens in the metaphorical
-transference between the book and the apparatus simulating the book?
-Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
-shaping mental experience. Device hermeneutics allow one to consent, or,
-conversely, to resist elements of imposed structure.
+The literary device offers no such permanence. The very meanings of the words
+"fixed," "permanent," and "repeatable" change with the medium. The engineering
+of literary artifacts conceals a number of design choices, obscuring the flows
+of code and codex under the familiar guise of surface representation. The
+digital book does not just simulate a book.  Being a type of a Turing machine,
+it holds the potential to embody all possible metaphors.[^ln1-notquite] The
+task of the literary scholar reading on the level of the device becomes to make
+the figure available for interpretation. It is to apprehend its revealed
+mechanics. What happens in the metaphorical transference between the book and
+the apparatus simulating the book?  Estrangement, the exegesis of the metaphor,
+reveals mechanisms of governance shaping mental experience. Device hermeneutics
+allow one to consent, or, conversely, to resist elements of imposed structure.
 
 It is tempting to think of personal computers as glorified calculators. That is
 often the popular image of computing, one that highlights the machine's ability
@@ -436,13 +437,13 @@ images. A democratic vision of a just society places value on open deliberation
 and consensus building. Undeniably, computers participate in social
 transformation: used to make war and to create art. What are our machines
 optimized for? The passive voice points to the root of the problem. A
-computational mechanism that extends agency should embody values that
-correspond to the agent of the action. In other words, we should be able to
-project our values through the machine, and not the other way around. What
-seems like a technologically determined inevitability is often simply the
-imposition of values from without. It is an attempt to social and political,
-not technological determinism. In most cases, it is possible to trace the root
-of imposition to specific governing agents, agencies, or incorporations.
+computational mechanism that extends agency should embody values that emanate
+from the agent. In other words, one should be able to project values through
+the machine, and not the other way around. What seems like a technologically
+determined inevitability is often simply the imposition of another's will from
+without. It is an attempt to social and political, not technological
+determinism. In most cases, it is possible to trace the root of imposition to
+specific governing agents, agencies, or incorporations.
 
 [^ln1-notquite]: To what extent a personal computer is a Turing machine is
 matter of contention. The Turing machine is a *thought experiment* that
