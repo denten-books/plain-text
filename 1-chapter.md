@@ -633,13 +633,13 @@ humans---an impossible ideal or just a ordinary person holding a pencil, the
 Turing machine traces a figure somewhere between the ideal and the physical
 worlds. The indeterminacy of computation blurs the boundaries between the
 physical and the symbolic worlds. Turing continues to strike a controversial
-figure at the fault lines separating theory from practice: computer science
-and electrical engineering. The Turing machine "abstracts away from the
-complexity of real computer architectures," Thomas Haigh writes for the
-*Communications of Computing Machinery*. The historian should avoid confusing
-hardware and software, he concludes [@haigh_actually_2014]. No matter how hard
-computer science tries to escape into the realm of pure mathematics, Haigh
-suggests, the limits of physical engineering pull it back to the sphere of the
+figure at the fault lines separating theory from practice: computer science and
+electrical engineering. The Turing machine "abstracts away from the complexity
+of real computer architectures," Thomas Haigh writes for the *Communications of
+Computing Machinery*. The historian should avoid confusing hardware and
+software, he concludes [@haigh_actually_2014]. No matter how hard computer
+science tries to escape into the realm of pure mathematics, Haigh suggests, the
+limits of physical engineering pull it back to the sphere of the
 applied.[^ln1-cs] Part real mechanism and part dream; part physics and part
 metaphysics, the Turing machine should be encountered on its own terms. Let us
 take the moment to read the paper and to place it into the intellectual context
@@ -784,10 +784,11 @@ define sentience more generally [@turing_computing_1950].
 
 ### Wittgenstein's *The Blue and Brown Notebooks*
 
-[FIX THIS]
+The conversations between Alan Turing and Ludwig Wittgenstein in the years
+between 1931-1938 give us a glimpse into the intellectual history of the Turing
+machine.
 
-The conversations between Alan Turing and Ludwig Wittgenstein are instructive
-in this regard. Wittgenstein broached the problem of reading machines first in
+Wittgenstein broached the problem of reading machines first in
 *The Blue and Brown Books* along with *Philosophical Grammar* (all compiled in
 the early 1930s), then in his lectures and remarks on the foundations of
 psychology and mathematics from the late 1930s, and finally in *Philosophical
@@ -807,6 +808,7 @@ Blue and Brown Books*, a collection of notes that form the basis for his
 difficult to understand [these notes], as so many points are just hinted at.
 They are meant only for the people who heard the lectures"
 [@wittgenstein_blue_1965, vii].
+
 The *Blue and Brown Notebooks* comprise "some notes to my pupils, so that they
 may have something to carry home with them, in their hands if not their brains"
 [@wittgenstein_blue_1965, vii]. "The Blue Book" begins with a question of
@@ -1008,15 +1010,18 @@ rules of engagement.
 
 ### Turing and Wittgenstein
 
-Alan Turing attended Wittgenstein's Lectures on the Foundations of Mathematics
-at Cambridge University in 1939 [@wittgenstein_wittgensteins_1976, 7]. From the
-notes complied and published by Cora Diamond, it is clear that Turing was a
-vociferous presence in the class. His name is mentioned 86 times in the text,
-more than any other student by a wide margin. At some point of the course
-Wittgenstein concludes his lecture in saying: "Unfortunately, Turing will be
-away from the next lecture, and therefore that lecture will have to be somewhat
-parenthetical. For it is not good my getting the rest to agree to something
-that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
+Alan Turing met Wittgenstein's at King's College in 
+
+Lectures on the Foundations of Mathematics at
+Cambridge University in sometime between 1929
+[@wittgenstein_wittgensteins_1976, 7]. From the notes complied and published by
+Cora Diamond, it is clear that Turing was a vociferous presence in the class.
+His name is mentioned 86 times in the text, more than any other student by a
+wide margin. At some point of the course Wittgenstein concludes his lecture in
+saying: "Unfortunately, Turing will be away from the next lecture, and
+therefore that lecture will have to be somewhat parenthetical. For it is not
+good my getting the rest to agree to something that Turing would not agree to"
+[@wittgenstein_wittgensteins_1976, 67-68].
 
 Like the notebooks beforehand, Wittgenstein structures his lectures around the
 problem of symbolic interpretation. "I am going to talk about the interrelation
