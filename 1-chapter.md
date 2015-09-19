@@ -24,14 +24,15 @@ header-includes:
 the machine, the culture conserve, or the robot, other than through submission,
 actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
 the Austrian-American psychiatrist, Jacob L. Moreno between the years of 1934
-and 1953, in his now seldom read classic, *Who Shall Survive?* He is remembered
-today as a pioneer of group therapy, an early critic of Freud and socialism.
-Sociologists also occasionally mention his work as precursor to network
-analysis. His books contain beautiful diagrams, sprouting nodes and edges, with
-titles like "Structure of a Cottage Family," "A Handicraft Group," and "The
-Civilian Social Atom." Yet Moreno was also a humanist and a philosopher of
-technology and culture. In opposition to eugenics, popular at the time, his
-answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953, 245].
+and 1953, in his idiosyncratic, sprawling, and now seldom read volume, *Who
+Shall Survive?* He is remembered today as a pioneer of group therapy and an
+early critic of Freud and socialism. Sociologists have also recently
+rediscovered his work as precursor to network analysis. His books contain
+beautiful diagrams, sprouting nodes and edges, with titles like "Structure of a
+Cottage Family," "A Handicraft Group," and "The Civilian Social Atom." Yet
+Moreno was also a humanist and a philosopher of technology and culture. In
+opposition to eugenics, popular at the time, his answer to "Who Shall Survive?"
+was "everyone" [@moreno_who_1953, 245].
 
 Humanity, according to Moreno, faces two major threats: first embodied in the
 aggression from other human beings, and second, in the aggression of robots or,
@@ -64,13 +65,14 @@ that miraculous eugenic formula will be found a human society will be given
 prefect and smooth at birth, like a book of a press [@moreno_who_1953, 236].
 
 Like Socrates from Plato's *Phaedrus*, Moreno distrusted rote mechanization of
-thought itself. All forms of externalized algorithmic rule fall under
+thought itself. All forms of externalized algorithmic rule fell under
 suspicion: from central planning, to corporate governance, to machine code, and
-legal codex. Such mechanisms serve to externalize and to "conserve" volition,
-at a given point of time. With time, mechanized volition governs without
-consensus or comprehension. Splintered from its source, it staggers forth,
-*golem*-like, through laws, books, and social institutions. Near immortal,
-images of the past proliferate and crowd out the present. Moreno wrote:
+legal codex. For Moreno, such mechanisms served to externalize and to
+"conserve" volition, at a given point of time. With time, mechanized volition
+governs without consensus or comprehension. Splintered from its source, it
+staggers forth, *golem*-like, through laws, books, and social institutions.
+Near immortal, images of the past proliferate and crowd out the present. Moreno
+wrote:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -86,10 +88,9 @@ from a dream," he wrote. The atomic bomb gives humanity a glimpse of its common
 enemy. Technology, for Moreno, does not determine the present situation.
 Rather, a mindless actor in possession of fossilized volition, it competes, in
 Darwinian sense, with living actors. Once set in motion, voluntarily, by
-humans, the war machine and the book alike continue to do their bidding. These
-structures may no longer be needed or wanted, but because they are inorganic,
-they persist to shape the social and the mental worlds to come. Moreno
-explained:
+humans, the war machine and the book alike continue to do their bidding
+blindly. Such structures persist to shape the social and the mental worlds to
+come. Moreno explained:
 
 > Many of the domesticated robots are blessed with the attribute of becoming
 labor-saving devices, which has, however the unpleasant consequence that they
@@ -104,34 +105,66 @@ For Moreno, the inertia of past decisions embodied in extant mechanisms
 ultimately posed a threat for human survival. On this view, the real
 competition for survival happens not between persons, sects, races, or nations,
 but between humanity and its automatons from the past. The only way to compete
-with the robot was for him to expand the human cultural capacity for creation.
-The biological being has only this one advantage over the zootechnical animal:
-spontaneity. But the capacity for free will and for creation has to be
-continuously guarded against lethargy and advanced through training. The
-machines of yore ease the burden of creation. In reducing labor, they enfeeble
-the creative capacity. Moreno's therapy practice was therefore built on the
-principle of spontaneity training, aimed at the construction of communities
-that acknowledge and preserve individual agency. As far as I can tell from the
-records, the practice involved group improvisation, in what Moreno called the
+with the robot was for him was to expand the human cultural capacity for
+creation. The biological being has only this one advantage over the
+zootechnical animal: spontaneity. But the capacity for freedom has to be
+continuously guarded against lethargy, Moreno argued. The machines of yore ease
+the burden of creativity. In reducing labor, they enfeeble the capacity for
+poiesis. Moreno's therapy practice was therefore built on the principle of
+spontaneity training, aimed at the construction of communities that acknowledge
+and preserve individual agency. As far as I can tell from the records, the
+practice involved group improvisation and role-play, in what Moreno called the
 "techniques of freedom," which aimed to "balance spontaneous social forces to
 the greatest possible harmony an unity of all" [@moreno_who_1953, 8].
 
-I leave Moreno here, with thoughts of hydrogen bombs and books occupying the
-same plane of mechanization. The book does make for an excellent robot. If a
-conversation is a temporary communicative link between two people, a book is a
-device for delayed conversation. It affects targets at a distance, decoupling
-readers and writers in time and space. We are habituated to see the book as a
-simple thing made of ink, cloth, and paper. It was never that simple. In this
-chapter, my aim is to encounter the book anew as a complex system. The
-device-like property of computed text especially, when compared to print, holds
-severe consequences for the practices of reading, writing, and interpretation.
+I leave Moreno's text here, with perplexing thoughts of hydrogen bombs and
+books occupying the same plane of analysis. How can a book be compared to a
+gun: one an instrument of peace and edification, the other of war and
+destruction? When considered in the contemporary context, several features of
+Moreno's provocation come into a sharper relief. 
 
-If the book, as Moreno suggested, was always a strange robot, it is all the
-more strange as a device that draws electricity. When in the 1930s one could
-view Moreno book--bombs as a fanciful---technophobic even---view of literary
-technology, a century later his concern appears pressing and prescient. The
-unintended consequences of disembodied and automated agency, from artificially
-intelligent personal assistants to market trading algorithms, worry scientists,
+I locate first in the symbolic, representational nature of robotics. It is an
+odd way to phrase it, but we would reasonably say that a bomb signifies
+malicious intent. Following the new critics, it has become unfashionable to
+speak of similarly of intention in literary studies. When it comes to books,
+the critical intuition is to treat any conjecture about authorial intent as a
+fallacy [@wimsatt_verbal_1954]. But when it comes to war, our intuitions are
+reversed. To understand an act of aggression is to assign responsibility and to
+draw inference about its intentions. Moreno asks us to confront the book once
+again as a volitional object. Even if we cannot "read" the author's mind, we
+can similarly assign a measure of agency to the author. Failing an account of
+causes and effects involved, we are left to ascribe volition to inanimate
+objects and meaning making to chance. The intentional fallacy frees the critic
+to concentrate on the pertinent and readily observable attributes of the text.
+But it also obscures agency, imbuing the letter with an anthropomorphic
+quality, sliding into active voice, where texts mean and languages "speak
+themselves."[^ln1-auto]
+
+The above is not meant to buoy the notion of authorial intent. Rather, Moreno's
+jarring parallelism between books and bombs reminds the reader that both
+constitute a species of displaced agency, a problem long in the background of
+Western liberal thought.[^ln1-consensus] In this light, the contemporary
+cultural anxiety about artificial intelligence and robotics comprises a part of
+larger problematics related to action delayed in time an space by symbolic
+means. The technology of the word decouples readers from writers. Once
+decoupled, such seemingly autonomous actors clutter the social sphere,
+continuing to structure human experience in the absence of the originating
+accord. It is again a curious way of putting things, but not unusual in the
+larger context of post-Kantian humanism at the turn of the twentieth century.
+In Moreno's words we hear more than an echo of Marx's fetishism of commodities,
+by which "definite social relation between men" assumes "the fantastic form of
+a relation between things" [@marx_capital_1967, 72]. Moreno arrives at a
+similar conclusion by another logic. In drawing some of the earliest examples
+of social network analysis maps, he finds and objects to the presence of things
+in the position of social actors.
+
+Moreno helps us see the book in a new light. If it was always, as he writes, a
+in part, a robot for enacting action at a distance, it is all the more robotic
+as a device that draws electricity. When in the 1930s one could view Moreno
+book--bombs as a fanciful---technophobic even---view of literary technology, a
+century later his concern appears pressing and prescient. The unintended
+consequences of disembodied and automated agency, from artificially intelligent
+personal assistants to market trading algorithms, worry scientists,
 legislators, and media theorists. What looks like a book today indeed can
 function as a gun and a trigger. I mean this literally: it comprises a part of
 the same computational platform that powers drones and aircraft carriers.
@@ -157,6 +190,22 @@ literature lies such dual movement between making strange and making familiar.
 To discover the object anew is to strip it of its ideational content---to
 dispel the fetish. To understand it is to imbue it with new meaning and
 subjectivity.
+
+In this chapter, my aim is to encounter the book anew as a mechanism and
+complex system. The device-like property of computed text especially, when
+compared to print, holds severe consequences for the practices of reading,
+writing, and interpretation.
+
+[^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
+most worthy of thought and questioning remains the mystery of
+language---wherein our entire reflection has to gather itself---above all when
+it dawns on us that language is not a work of human beings: language speaks."
+See also @blanchot_work_1995, 41.
+
+[^ln1-consensus]: The literature on consensual governance, for example, going
+back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
+consent. Roughly: What makes whatever compacts made by past generations still
+valid today?
 
 ## 1.1 Technique
 
@@ -495,7 +544,7 @@ of the written word, as he believes it will foster forgetfulness in the people
 who use it.  Plato writes: "Their faith in extrinsic writing [*graphō
 exōthen*], by means of foreign impressions[*allotrion tupōn*] will diminish their
 intrinsic [*endothen autous*] capacity to remember"
-[@plato_plato_????].[^ln1-platotr] Plato thus contrasts the exterior figure
+[@plato_plato:_1999].[^ln1-platotr] Plato thus contrasts the exterior figure
 [*graphō exōthen*] with the intrinsic [*endothen*] human capacity to remember.
 The Greek *tupōn*, related to the English "type," literally means an
 impression. And in this case it is "othered" [*allotrion*], as in, it comes
