@@ -121,7 +121,7 @@ I leave Moreno's text here, with perplexing thoughts of hydrogen bombs and
 books occupying the same plane of analysis. How can a book be compared to a
 gun: one an instrument of peace and edification, the other of war and
 destruction? When considered in the contemporary context, several features of
-Moreno's provocation come into a sharper relief. 
+Moreno's provocation come into a sharper relief.
 
 I locate first in the symbolic, representational nature of robotics. It is an
 odd way to phrase it, but we would reasonably say that a bomb signifies
@@ -133,7 +133,7 @@ reversed. To understand an act of aggression is to assign responsibility and to
 draw inference about its intentions. Moreno asks us to confront the book once
 again as a volitional object. Even if we cannot "read" the author's mind, we
 can similarly assign a measure of agency to the author. Failing an account of
-causes and effects involved, we are left to ascribe volition to inanimate
+causes and effects involved we are left to ascribe volition to inanimate
 objects and meaning making to chance. The intentional fallacy frees the critic
 to concentrate on the pertinent and readily observable attributes of the text.
 But it also obscures agency, imbuing the letter with an anthropomorphic
@@ -147,56 +147,55 @@ Western liberal thought.[^ln1-consensus] In this light, the contemporary
 cultural anxiety about artificial intelligence and robotics comprises a part of
 larger problematics related to action delayed in time an space by symbolic
 means. The technology of the word decouples readers from writers. Once
-decoupled, such seemingly autonomous actors clutter the social sphere,
-continuing to structure human experience in the absence of the originating
-accord. It is again a curious way of putting things, but not unusual in the
-larger context of post-Kantian humanism at the turn of the twentieth century.
-In Moreno's words we hear more than an echo of Marx's fetishism of commodities,
-by which "definite social relation between men" assumes "the fantastic form of
-a relation between things" [@marx_capital_1967, 72]. Moreno arrives at a
-similar conclusion by another logic. In drawing some of the earliest examples
-of social network analysis maps, he finds and objects to the presence of things
-in the position of social actors.
+decoupled, seemingly autonomous actors---books and robots---clutter the social
+sphere, continuing to structure human experience in the absence of the
+originating accord. It is again a curious way of putting things, but not
+unusual in the larger context of post-Kantian humanism at the turn of the
+twentieth century.  In Moreno's words we hear more than an echo of Marx's
+fetishism of commodities, by which "definite social relation between men"
+assumes "the fantastic form of a relation between things" [@marx_capital_1967,
+72]. Moreno arrives at a similar conclusion by another logic. In creating some
+of the earliest examples of social network graphs, he finds (and objects to)
+the presence of things in the position of social actors.
 
 Moreno helps us see the book in a new light. If it was always, as he writes, a
-in part, a robot for enacting action at a distance, it is all the more robotic
-as a device that draws electricity. When in the 1930s one could view Moreno
-book--bombs as a fanciful---technophobic even---view of literary technology, a
+a robot for enacting action at a distance, it is all the more robotic as a
+device that draws electricity. When in the 1930s one could view Moreno
+book-bombs as a fanciful---technophobic even---view of literary technology, a
 century later his concern appears pressing and prescient. The unintended
 consequences of disembodied and automated agency, from artificially intelligent
 personal assistants to market trading algorithms, worry scientists,
-legislators, and media theorists. What looks like a book today indeed can
-function as a gun and a trigger. I mean this literally: it comprises a part of
-the same computational platform that powers drones and aircraft carriers.
-Today, the "servers" that serve the world's largest purveyors of literature
-service also air traffic control and the National Security Administration
+legislators, and media theorists. What looks like a book today indeed takes on
+the functions of gun and trigger. I mean this literally: the simulated text
+comprises a part of the same computational platform that powers drones and
+aircraft carriers. Today, "servers" that serve the world's largest purveyors of
+literature service also air traffic control and covert intelligence
 [@soyata_combat:_2012; @logicworks_government_2015].
 
 These conditions compel us---humanists, historians, philologists---to
 reconsider the easy relationship we have enjoyed with the material conditions
-of textuality since the Gutenberg press. The "simulated book," as I will call
-it here, and, alternatively, the "computed literary artifact," no longer plays
-by the same rules as print. The bibliographic illusion veils machine internals.
-The universal Turing machine, from which all computational devices inherit,
-will reveal itself ultimately as a form of governance. To make the particulars
-of computational governance comprehensible, I will also argue that the Turing
-machine, and subsequently all computers, belong to the long history of the
-book. They gain meaning for us not as mathematical abstraction, but as
-mechanisms of generalized symbolic manipulation: related to pen, paper,
+of textuality since the Gutenberg press. "Simulated text," as I have been
+calling it here, and, alternatively, the "computed literary artifact," no
+longer plays by the same rules as print. The bibliographic illusion veils
+machine internals. The universal Turing machine, from which all computational
+devices inherit, will reveal itself ultimately as a form of governance. To make
+the particulars of computational governance comprehensible, I will also argue
+that the Turing machine, and subsequently all computers, belong to the long
+history of the book. They gain meaning for us not as mathematical abstraction,
+but as mechanisms of generalized symbolic manipulation: related to pen, paper,
 typewriter, and telegraph.
 
 In this chapter, I draw several pre-histories of the literary device, first as
 a formal technique, then as an thought experiment, and finally as a control
-mechanism.  To preserve agency and to break the inertia of leisurely reading,
-we must rediscover the book as a device; to call it forth for what it is and
-always was---a robot for effecting thought at a distance; and to bring it back
-under the purview of interpretation. My approach to the problem of "digital"
-literature lies such dual movement between making strange and making familiar.
-To discover the object again is to strip it of its ideational content---to
-dispel the fetish. To understand it is to imbue it with new meaning and
-subjectivity. In this chapter, we shall encounter the book anew as a mechanism
-and complex system. The device-like property of computed text implies severe
-consequences for the practices of reading, writing, and interpretation.
+mechanism. To preserve a sense of human agency and to break the inertia of
+leisurely reading, we must rediscover the book as a device; to call it forth
+for what it is and always was---a robot for effecting thought at a distance;
+and to bring it back under the purview of interpretation. My approach to the
+problem of "digital" literature lies the dual movement between making strange
+and making familiar. To discover the object again is to strip it of its
+ideational content---to dispel the fetish. To understand it is to imbue it with
+new meaning and subjectivity. In this chapter, we shall encounter the book anew
+as a mechanism and complex system.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
 most worthy of thought and questioning remains the mystery of
@@ -340,44 +339,47 @@ itself constitutes a metaphor worthy of critical examination. The principles of
 skeuomorphic design extend a visual metaphor from one medium to another. The
 reader already knows how to turn pages of a book. A book device therefore
 simulates pages to ease the burden of cognitive transition from one medium to
-another. Instead of pushing unfamiliar buttons (yet another metaphor) to turn
+another. Instead of pushing unfamiliar buttons (yet another analogy) to turn
 the page, readers perform the more habituated motion of swiping across the
 screen. The gliding motion enacts a kinetic metaphor, transposing properties of
 paper to glass.
 
-Readers bear the burden of conceptual transference (like the turning of pages).
-In pretending to turn "pages," a reader loses sight of the structures producing
-the simulation. Some would object that such structures are irrelevant or not
-interesting: "one does not need to be a mechanic to drive a car," as the saying
-goes. Yet, particularly in the case of literary devices, the concealed
-mechanisms concern the structuring of privileged cognitive, as opposed to
-other, let us say more pedestrian, facilities. If an automobile extends the
-foot, the book extends the brain. It shapes mental activity. The simulated text
-ultimately enacts a number of cognitive metaphors. If we are to value anything
-like interpretation or critical reason, we must certainly value them at the
-physical site of mental extension.
+Readers bear the burden of conceptual transference. In pretending to turn
+"pages," a reader loses sight of the structures producing the simulation. Some
+would object that such structures are irrelevant or not interesting: "one does
+not need to be a mechanic to drive a car," as the saying goes. Yet,
+particularly in the case of literary devices, the concealed mechanisms concern
+the structuring of privileged cognitive, as opposed to other, let us say more
+pedestrian, facilities. If an automobile extends the foot, the book extends the
+brain. It shapes mental activity. The simulated text ultimately enacts a number
+of cognitive metaphors. If we are to value anything like interpretation or
+critical reason, we must certainly value them at the physical site of mental
+extension.
 
 More than superficial embellishment, the skeuomorphic metaphor structures all
-meaning-carrying units from letters, to words, paragraphs, chapters, books, and
-pages. In our example, we know that there is nothing inherently page-like about
-stiff slabs of glass and silicone. The metaphor of "turning the page by swiping
-across the screen" conceals the structural rift between media. Why would
-readers engage in such a charade? Why not simply make use of novel interfaces
-afforded by new technology? The literature from the field of human--computer
-interaction suggests a formalist answer: habituation [@carroll_metaphor_1982;
-@carroll_interface_1987; @spolsky_user_2001]. The initial effort it takes to
-learn to read in a new environment may discourage many potential readers from
-adopting a new technology. Smart designers therefore rely on habituated
-practice, the turning of pages in our case, to minimize the "friction" of
-adoption. Although an "electronic book reader" contains no pages as such, it
-extends the metaphor of pages to electronic reading. The usability metaphor
-comes at a cost of concealment. A digital poem, a novel, a physician's script,
-or a legal contract may resemble their paper counterparts. But the metaphor of
-"turning pages" is but one simulation among the device's many possibilities.
-When imitating pages, the reading *appliance* also monitors, adjusts, warns,
-and controls. In return for usability it simulates and dissembles. The
-exposition of the metaphor reminds us of the compromise between two conceptual
-systems. It reveals real material affordances behind the symbol.
+meaning-carrying units: from letters, to words, paragraphs, chapters, books,
+and pages. In our example, we know that there is nothing inherently page-like
+about stiff slabs of glass and silicone. The metaphor of "turning the page by
+swiping across the screen" conceals the structural rift between media. Why
+would readers engage in such a charade? Why not simply make use of novel
+interfaces afforded by new technology? The literature from the field of
+human--computer interaction suggests a formalist answer: habituation
+[@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
+initial effort it takes to learn to read in a new environment may discourage
+many potential readers from adopting a new technology. Smart designers
+therefore rely on acculturated practice, the turning of pages in our case, to
+minimize the "friction" of adoption. Although an "electronic book reader"
+contains no pages as such, it extends the metaphor of pages to electronic
+reading.
+
+The usability metaphor comes at a cost of concealment. A digital poem, a novel,
+a physician's script, or a legal contract may resemble their paper
+counterparts. But the metaphor of "turning pages" is but one simulation among
+the device's many possibilities. When imitating pages, the reading *appliance*
+also monitors, adjusts, warns, and controls. In return for usability it
+simulates and dissembles. The exposition of the metaphor reminds us of the
+compromise between two conceptual systems. It reveals real material affordances
+behind the symbol.
 
 The simulation conceals structuring principles large and small. Some of the
 concealed details may remain inconsequential, like the limit on how many keys
@@ -465,9 +467,9 @@ factors and functions" [@ricur_interpretation_1976, 25].
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
-Turing machines. And to understand the history of Turing machines, we must see
-them in a wider cultural context, beyond the mathematical literature where they
-were first introduced.
+Turing machines. And to understand the history of Turing machines, it is best
+we view them in a wider cultural context, beyond the mathematical literature
+where they were first introduced.
 
 In what follows, I shall draw two as yet unexplored lineages that lead to
 Turing's seminal essay on computable numbers: the first intellectual, stemming
@@ -480,9 +482,9 @@ important because it allows us to see the simulated book in a new light: not as
 byproduct of quantification, but as a metaphor machine, capable of universal
 symbolic manipulation.
 
-Turing machines should hold interest for literary scholars *because* they
-present a minimally viable model for generalized symbolic manipulation: reading
-and writing. Although the thought experiment they embody solves a mathematical
+Turing machines should hold interest for literary scholars because they present
+a minimally viable model for generalized symbolic manipulation: reading and
+writing. Although the thought experiment they embody solves a mathematical
 problem, the thought experiment itself has roots in a more general conversation
 about the nature of interpretation, central to questions of meaning-making in
 art and culture.
@@ -496,46 +498,46 @@ that solves a theoretical problem. His solution thus touched upon not just the
 theory of mathematics, but on the *action* of symbolic thought in the world.
 His imagined machine could read, write, and in some sense, understand symbols.
 In other words, it was able to transition from some form of representational,
-internal "mental" state into the corresponding non-representational external
-state of the mechanism. The outlines of that mechanism will come into focus in
-his section.[^ln1-turingcog]
+external shape of the symbol into the corresponding non-representational
+internal state of the mechanism. The outlines of that mechanism will come into
+focus in his section.[^ln1-turingcog]
 
 Let us be clear about one point at the outset: Turing did not "invent" the
 computer. Rather I see his hypothetical machine as the culmination of a
-long-standing thought experiment, passed to him through Wittgenstein's
-lectures. It presents a minimally viable blueprint for a class of already
-existing devices, used for communication and control. Turing's minimally viable
-schematics gave a succinct formula to what we now call simply "programming" and
-"computers."
+long-standing thought experiment concerning the nature of interpretation,
+passed to him through Wittgenstein's lectures. It presents a minimally viable
+blueprint for a class of already existing devices, used for communication and
+control. Turing's minimally viable schematics gave a succinct formula to what
+we now call simply "programming" and "computers."
 
-Consider the nature of programming devices as a practice related to the general
-deferment of volition by symbolic means: as in "last will and testament" or a
-to-do list or a legal injunction. All of these cases could be viewed as a
-delayment of living will. Someone wants you to do something in their absence:
-to buy milk or to spend their fortune in a certain way. Machines can be thought
-of as an extension of that same practice. To "program" a rudimentary toaster,
-for example, is to displace some measure of volition (I want toast) to an
-inanimate object. Should I die in the process of toast-making, the toaster will
-still carry the action of making toast to its logical conclusion. Common to all
-of these examples is a lengthening of the cause an effect chain. Under regular
-circumstances, the desire to do something process an immediate corresponding
-action in the world. "Programming" in that sense delays the execution of
-desire. I want toast now, but I will program a toaster to make it tomorrow. The
-toaster acts as an executor of my will.
+Consider the essence of programming devices as a practice related to the
+general deferment of volition by symbolic means, as in "last will and
+testament" or a to-do list or a legal injunction. Someone wants you to do
+something: turn left then right, buy milk, invest into real estate, or, in the
+case of literature, feel compassion. Machines can be thought of as an extension
+of that same practice. To "program" a rudimentary toaster, for example, is to
+displace some measure of volition (I want toast) to an inanimate object. Should
+I die in the process of toast-making, the toaster will still carry the action
+of making toast to its logical conclusion. Common to all of these examples is a
+lengthening of the cause an effect chain. Under regular circumstances, the
+desire to do something produces an immediate corresponding action in the world.
+You reach for an apple. You take a bite. "Programming" in that sense delays the
+execution of desire. I want toast now, but I will program a toaster to make it
+tomorrow. The toaster acts as an executor of my will.
 
-Were we to use Jacob Moreno's language, we could say that a programmed machine
-symbolizes that "conserved" fraction of human volition. It represents and
-enacts the originating desire, able to continue performing an action
-independently, in the absence of the "programmer." In that way the machine
-could be said to "conserve" volition. Delay and displacement of that sort
-resides at the center of humanity's unease with automata, robotics, and
-computation. The worry is not only that the machine will begin to act
-independently, the plot of many a science fiction novel, but that it will
-continue acting without cessation. Note however that such remote volitional
-properties are not confined to the autonomous movement of mechanisms. Moreno's
-initially disconcerting proposition to treat books and robots on the same plane
-of analysis makes sense if treated in the context of---what should we call
-it?---history of representation.
+In Moreno's language, we could say that a programmed machine symbolizes that
+"conserved" fraction of the will to do something. It represents and enacts the
+originating desire, able to continue performing an action independently, in the
+absence of the "programmer." In that way the machine could be said to
+"conserve" volition. Delay and displacement of that sort resides at the center
+of humanity's unease with automata, robotics, and computation. The worry is not
+only that the machine will begin to act independently---the plot of many a
+science fiction novel---but that it will continue acting without cessation.
+Note however that such remote volitional properties are not confined to the
+autonomous movement of a mechanism. Moreno's initially disconcerting
+proposition to treat books and robots on the same plane of analysis makes sense
+if viewed in the context of---what should we call it?---history of symbolism
+and representation.
 
 The problem of symbolic displacement already presents itself in the invention
 of writing. Recall for example the famous *pharmakon* passage from Plato's
@@ -543,41 +545,43 @@ of writing. Recall for example the famous *pharmakon* passage from Plato's
 conclusion of the dialog, King Thamus objects to the technology (*ta tekhnēs*)
 of the written word, as he believes it will foster forgetfulness in the people
 who use it.  Plato writes: "Their faith in extrinsic writing [*graphō
-exōthen*], by means of foreign impressions[*allotrion tupōn*] will diminish their
-intrinsic [*endothen autous*] capacity to remember"
+exōthen*], by means of foreign impressions [*allotrion tupōn*] will diminish
+their intrinsic [*endothen autous*] capacity to remember"
 [@plato_plato:_1999].[^ln1-platotr] Plato thus contrasts the exterior figure
 [*graphō exōthen*] with the intrinsic [*endothen*] human capacity to remember.
 The Greek *tupōn*, related to the English "type," literally means an
-impression. And in this case it is "othered" [*allotrion*], as in, it comes
-from without. Like Jacob Moreno after him, Thamus find such remote thought
-impression problematic. True memory and thought for them both must come from
-within. It must be autopoietic not allopoietic, in other words. This is why
-Socrates asks Phaedrus to stop reciting a speech the young man heard earlier
-and memorized. Mechanical reproduction by rote does not equate to what we would
+impression. And in this case it is "foreign" or "othered" [*allotrion*].  It
+comes from without. Like Moreno after him, Thamus finds such remote thought
+typography problematic. True memory and thought for them both must come from
+within. It must be autopoietic not allopoietic. This is why Socrates asks
+Phaedrus to stop reciting a speech the young man heard earlier and memorized.
+Mechanical reproduction by rote does not in any sense equate to what we would
 today call "critical thinking." To truly understand, the reader must properly
-reproduce and internalize a stream of symbolic information contained in a book
-or a speech. As we shall see, much can go wrong in that process, but we expect
-for reading to ultimately leave an appropriate impression on the reader's
-mental state. But what is appropriate or proper?  Wittgenstein struggles to
-answer that question in his lectures in variety of often comical ways. Turing
-machine enacts it with blunt force. It literally ingests the symbol,
-incorporating as part of its internal structure.
+internalize a stream of symbolic information contained in a book or a speech.
+As we shall see, much can go wrong in that process, but we expect for reading
+to ultimately leave an appropriate impression [*tupōn*] on the reader's mental
+state. But what is appropriate or proper?  Wittgenstein struggles to answer
+that question in his lectures, where Turing machine enacts it with blunt force.
+The Turing machine ingests symbols, incorporating them as part of its internal
+structure.
 
 I revisit the lines from Plato's well-worn dialogue because Turing's paper
 presents considerable difficulties to the non-mathematically-inclined reader.
 Yet it becomes more accessible when considered in the philosophic lineage of
 Plato, Wittgenstein, and Derrida: all three concerned with the movement of
 inscription between internal and external spaces. I want us to view computers
-and programming as a continuation of a persistent thought about the ultimate
-nature of understanding. What does it mean to understand?---that is the larger
-question that Turing addresses. As we will see in the following passages, a
-direct connection exists between Wittgenstein's hermeneutics and Turing's ideas
-about computation. Steeped in the intellectual context of Cambridge, the
-evolution of their thought overlaps the search for intrinsic structure in
-fields as diverse as literary studies and anthropology. Turing's ideas about
-symbolic manipulation acquire a new meaning when considered against the
-background of formalism and structuralism, developing in Europe at the same
-time.
+and programming not only as products of electrical engineering but also as part
+of a persistent thought in Western culture about the ultimate relation between
+symbol and comprehension.
+
+What does it mean to understand a sign?---that is the larger question that
+Turing addresses. And, as we will see in the following passages, a direct
+connection exists between Wittgenstein's hermeneutics and Turing's ideas about
+computation. Steeped in the intellectual context of Cambridge, the evolution of
+their thought overlaps the search for intrinsic structure in fields as diverse
+as literary studies and anthropology. Turing's ideas about symbolic
+manipulation acquire a new meaning when considered against the background of
+formalism and structuralism, developing in Europe at the same time.
 
 It is precisely because Turing paper left so much non-mathematical residue in
 the wake of its publication that it continues to be a source of debate,
@@ -629,7 +633,7 @@ humans---an impossible ideal or just a ordinary person holding a pencil, the
 Turing machine traces a figure somewhere between the ideal and the physical
 worlds. The indeterminacy of computation blurs the boundaries between the
 physical and the symbolic worlds. Turing continues to strike a controversial
-figure, at the fault lines separating theory from practice: computer science
+figure at the fault lines separating theory from practice: computer science
 and electrical engineering. The Turing machine "abstracts away from the
 complexity of real computer architectures," Thomas Haigh writes for the
 *Communications of Computing Machinery*. The historian should avoid confusing
@@ -637,7 +641,9 @@ hardware and software, he concludes [@haigh_actually_2014]. No matter how hard
 computer science tries to escape into the realm of pure mathematics, Haigh
 suggests, the limits of physical engineering pull it back to the sphere of the
 applied.[^ln1-cs] Part real mechanism and part dream; part physics and part
-metaphysics, the Turing machine should be encountered on its own terms.
+metaphysics, the Turing machine should be encountered on its own terms. Let us
+take the moment to read the paper and to place it into the intellectual context
+of the development of Turing's thought.
 
 ### Alan Turing's "On Computable Numbers"
 
@@ -681,10 +687,11 @@ internalization.
 
 Where the child converts symbol into brain states, the machine transforms
 software (symbol) into hardware (configuration). The machine does not just
-scan, it "reads" in the Platonic sense. It internalizes and becomes "aware."
-Consider by contrast the action of a film projector. Unlike a Turing machine,
-the projector does not internalize film reels. The film reel passes through
-without leaving a trace within the mechanism.[^ln1-reading]
+scan, it "reads" in the Platonic sense, able to convert ideal forms into their
+specific instantiations. It becomes "aware," in Turing's words. Consider by
+contrast the action of a film projector. Unlike a Turing machine, the projector
+does not internalize film reels. The film reel passes through without leaving a
+trace within the mechanism.[^ln1-reading]
 
 In addition to "reading," Turing's machine must be able to write. Turing writes
 that "in some configurations in which the scanned square is blank (*i.e.* bears
@@ -704,18 +711,18 @@ direct the movement of the reading and writing head. They tell the machine to
 part of the same continuous stream of information.
 
 Just as the Turing machine is able to convert symbolic representation into
-internal configuration states, it can conversely enact the opposite movement, by
-representing internal configuration states symbolically. This remarkable
+internal configuration states, it can conversely enact the opposite movement,
+by representing internal configuration states symbolically. This remarkable
 property allows for the creation of what Turing calls a class of universal
 machines. Specific Turing machines could be configured to preform actions like
 addition or multiplication. But the multiplication machine could not, for
 example, be reconfigured for another purpose, because the physical movement of
-its internals is fixed. In addition to scanning symbols, the universal Turing
-machine has the ability to internalize *other machine configurations*. Turing
-explains that "it is possible to invent a single machine which can compute any
-computable sequence" [@turing_computable_1937, 241]. In being able to
-internalize configuration as symbol, the *universal* Turing machine can
-simulate all other special-purpose Turing machines.
+its internals is fixed. An adding machine can only add. But the universal
+Turing machine can do more than scan symbols: it has the ability to internalize
+*other machine configurations*. Such a machine can "compute any computable
+sequence" [@turing_computable_1937, 241]. In being able to internalize physical
+configuration as symbol, the *universal* Turing machine can simulate all other
+special-purpose Turing machines.
 
 The transition of symbols into machine states (and the other way around)
 defines modern programming. A universal machine, unlike other, definitive,
@@ -737,27 +744,27 @@ computation. Turing consistently describes machine states in terms of "states
 of mind," "awareness," and "memory." All of these descriptions capture some
 part of Turing's idea. But it eludes them also, because it does not fit neatly
 into a reductive history of a given discipline: neither computer science, nor
-cognitive science, nor mathematics.  In connecting Turing to Wittgenstein, we
+cognitive science, nor mathematics. In connecting Turing to Wittgenstein, we
 will perceive it ultimately as an experimental, ludic even, enterprise. Like
-Turing's imitation game, which comes decades later, the Turing machine
-constitutes a simulation. It by analogy, and it also is capable of simulating
-all other symbolic systems, from intelligence, to calculus, and literature.
+Turing's imitation game, which came decades later, the Turing machine
+constituted a simulation, capable of imitating all other symbolic systems, from
+intelligence, to calculus, and literature.
 
 Reconstructing the influence of Wittgenstein's thought on Turing confirms the
 place of Turing's "On Computability" in the conversation about language, pain,
 and cognition. Seen in the light of Wittgenstein's philosophy, Turing's work
 and consequently the early history of computing acquires a broader connotation,
-beyond the narrow confines of the *Entscheidungsproblem* the paper paper was
-meant to address explicitly. In 1936, on the eve of World War II, Turing
-imagined more than a formula: it was a thing that could explore the limits of
-theory, and a theory that identified a new class of emerging things. Through
-Turing's well-documented involvement in Government Code and Cypher School
-(GC&CS) at Bletchley Park, actual Turing machines changed the nature of war:
-used at first to break encrypted military communications and then to compute
-missile trajectories. But as I will argue here, Turing machines also changed
-humanity's relationship with symbolic thought. And unless we understand
-Turing's legacy beyond war-making, we risk limiting its creative potential to
-mechanisms of destruction.
+beyond the narrow confines of the *Entscheidungsproblem*, the problem the paper
+addressed explicitly. In 1936, on the eve of World War II, Turing imagined more
+than a formula: it was a thing that could explore the limits of theory, and a
+theory that identified a new class of emerging things. Through Turing's
+well-documented involvement in Government Code and Cypher School (GC&CS) at
+Bletchley Park, actual Turing machines changed the nature of war: used at first
+to break encrypted military communications and then to compute missile
+trajectories. But as I will argue here, Turing machines also changed humanity's
+relationship with symbolic thought. And unless we understand Turing's legacy
+beyond war-making, we risk limiting its creative potential to mechanisms of
+destruction.
 
 [^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a year
 later, Turing's mathematical insight was anticipated by concomitant work in the
