@@ -5,48 +5,42 @@
 # initialize
 src=/home/denten/gDrive/papers/projects/workbench/plain-text/
 path=/home/denten/gDrive/papers/projects/workbench/plain-text/code/progress
-toDate="$(date -d +"%Y%m%d)"
+toDate=$(date +"%Y%m%d")
 
 # grab the last date
 lastDate=$(tail -1 $path/log.txt | cut -f 3 -d ' ')
 
+# if the same day, delete the last entry
+if [ "$toDate" -eq "$lastDate" ];
+then
+    # cut the last entry
+    tail -n 1 $path/log.txt | wc -c | xargs -I {} truncate $path/log.txt -s -{}
+fi
+
 # grab old word count from log
-oldWords=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
+oldTotal=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
 
 # grab new word count
 # wc output is messy, tail and sed to cut the number
-newWords=$(wc -w $src/*md | tail -n 1 | sed 's/[a-z ]//g')
+newTotal=$(wc -w $src/*md | tail -n 1 | sed 's/[a-z ]//g')
 
 # calculate number of words written
-totalWords=$((newWords - oldWords))
-
-# add up all the words from today
-if [ $toDate -eq $lastDate ];
-then
-    # add the words
-    # cut the last entry
-    tail -n 1 test.md | wc -c | xargs -I {} truncate test.md -s -{}
-    # record new number
-elif [ $todate -gt $lastdate ]
-    # start a new count
-then
-else
-    echo "Something went wrong. Today's date is less then the last recorded date."
-fi
+newToday=$((newTotal - oldTotal))
 
 # display a message
-if [ "$total" -gt 0 ]
+if [ "$newToday" -eq 0 ]
 then
-    echo "You wrote $total words since last time for a total of $wordCount. Well done, sir."
-elif [ "$total" -lt 0 ]
+    echo "You lost nothing. You gained nothing. $newToday today for a total of $newTotal"
+elif [ "$newToday" -gt 0 ]
 then
-    echo "You made your argument $total sharper. Your total now is a cool $wordCount. Well done, sir."
-else
-    echo "You lost nothing. You gained nothing. $total today for a total of $wordCount"
+    echo "You wrote $newToday since yesterday, for a total of $newTotal."
+elif [ "$newToday" -lt 0 ]
+then
+    echo "You made your argument $newToday sharper since yesterday. Your total now is $newTotal. "
 fi
 
 # write to log if not zero
-if [ "$total" -ne 0 ]
+if [ "$newToday" -ne 0 ]
     then
-        echo "$wordCount $total $todate" >> $path/log.txt
+        echo "$newTotal $newToday $toDate" >> $path/log.txt
 fi

@@ -798,7 +798,6 @@ where by the 1930s Wittgenstein "monopolized the discussion," even in the
 presence of prominent philosophers like George Edward Moore
 [@duncan-jones_g._1958, 25].
 
-
 historical reconstruction of that conversation, across both writers'
 notes and publications, will help us perceive the extent to which Turing's
 machines were conceived as a type of intelligent reading and writing
