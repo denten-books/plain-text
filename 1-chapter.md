@@ -809,7 +809,7 @@ connections between Turing's early work on computation and Wittgenstein's
 "middle period," between his *Tractatus* and *Philosophical Investigations*.
 The two thinkers occupy the same vibrant intellectual milieu in Cambridge for
 the best part of the decade. Their work during this period shows a significant
-thematic overlap, which although aknowledged, recieves scant attention in the
+thematic overlap, which although acknowledged, receives scant attention in the
 critical literature.[^ln1-cope]
 
 [^ln1-cope]: See for example @copeland_what_2000 and @wagner_wittgenstein_2005.
@@ -1013,20 +1013,21 @@ In this way, we can move away from speaking of "intended effects" or "proper
 obedience," and rather concentrate on the mediating layer that describes the
 rules of engagement.
 
-### Turing and Wittgenstein
+### Lectures on the Foundation of Mathematics
 
-Alan Turing met Wittgenstein's at King's College in 
-
-Lectures on the Foundations of Mathematics at
-Cambridge University in sometime between 1929
-[@wittgenstein_wittgensteins_1976, 7]. From the notes complied and published by
-Cora Diamond, it is clear that Turing was a vociferous presence in the class.
-His name is mentioned 86 times in the text, more than any other student by a
-wide margin. At some point of the course Wittgenstein concludes his lecture in
-saying: "Unfortunately, Turing will be away from the next lecture, and
-therefore that lecture will have to be somewhat parenthetical. For it is not
-good my getting the rest to agree to something that Turing would not agree to"
-[@wittgenstein_wittgensteins_1976, 67-68].
+Turing met Wittgenstein's at King's College sometime in the 1930s. Although
+there are no records of them meeting explicitly until Turing's attendance of
+Wittgenstein's lectures on the foundation of mathematics in 1939
+[@wittgenstein_wittgensteins_1976, 7], both men's work exhibits sustained
+attention to computing machines narrowly and to the mechanical manipulation of
+symbols more generally. From the notes on Wittgenstein's lectures complied and
+published by Cora Diamond, it is clear that Turing was a vociferous presence in
+the class. His name is mentioned eighty-six times in the text, more than any
+other student by a wide margin.[^ln1-margin] At some point of the course
+Wittgenstein concludes his lecture in saying: "Unfortunately, Turing will be
+away from the next lecture, and therefore that lecture will have to be somewhat
+parenthetical. For it is not good my getting the rest to agree to something
+that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
 
 Like the notebooks beforehand, Wittgenstein structures his lectures around the
 problem of symbolic interpretation. "I am going to talk about the interrelation
@@ -1106,7 +1107,10 @@ the right requirements, able to convert any symbolic input into the
 corresponding physical state of the mechanism. It is a machine that "traces the
 mechanism" of all other metaphoric mechanisms.
 
-## 1.3 Mechanism
+[^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
+attributed to his later prominence.
+
+## 1.3 Towards the Mechanism (Conclusion)
 
 Literature in computer science tends to see universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.
@@ -1388,10 +1392,10 @@ daily use. With time they disappear from view: invisible metaphors of
 invisibility.  When habituated, they alienate us from the symbol. A new wave of
 estrangement is needed to rouse it from its metaphorical slumber.
 
-In drawing the history of the book as a universal Turing machine, we will
-observe the evolution of symbolism into its final and totalizing form. By
-converting machine states into symbols, the Turing machine represents the
-ultimate negation of matter. It subsumes all lesser mechanisms amenable to
+In drawing the history of the book as a universal Turing machine, we observe
+the evolution of symbolism into its final and totalizing form. By converting
+machine states into symbols, the Turing machine represents the ultimate
+negation of matter. It subsumes all lesser mechanisms amenable to
 computation---which some would say includes brains and universes.[ln1-brains]
 The universal Turing machine has the potential to mediate everywhere, yet,
 paradoxically, it's method of "mediation" abstracts from any notion of medium
@@ -1414,6 +1418,7 @@ price of freedom is the very opacity of the material context. Where words etched
 in paper or stone constituted a single site for textual activity, the digital
 word exists in a simulated environment physically apart from the underlying
 material substratum. Freedom reveals itself as a simulation.
+
 [^ln1-google]: "Google's mission is to organize the world's information
 and make it universally accessible and useful" (@google_about_2015).
 
