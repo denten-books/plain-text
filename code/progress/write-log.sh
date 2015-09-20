@@ -1,31 +1,40 @@
 #!/bin/bash
+# This script counts the words of all the markdown files in a given directory
+# on a given day.
 
+# initialize
 src=/home/denten/gDrive/papers/projects/workbench/plain-text/
 path=/home/denten/gDrive/papers/projects/workbench/plain-text/code/progress
-stamp="$(date --iso-8601)"
+toDate="$(date -d +"%Y%m%d)"
 
-# grab old words from log
+# grab the last date
+lastDate=$(tail -1 $path/log.txt | cut -f 3 -d ' ')
+
+# grab old word count from log
 oldWords=$(tail -1 $path/log.txt | cut -f 1 -d ' ')
 
-# count all .md files in the root dir one level deep
-# for f in $(find $src -maxdepth 1 -name '*.md'); do wc -w < "$f" >> $path/tmp.txt; done
-#
-# a better solution from
-# http://stackoverflow.com/questions/30950035/iterate-over-specific-files-in-a-directory-using-bash-find
-# wordCount=0
-# for f in "$src"/*.md; do
-#     c=$(wc -w < "$f")
-#     wordCount=$((wordCount + c))
-# done
-
-# this makes even more sense to me, cat the files and count once
-# wordCount=$(find $src -maxdepth 1 -name '*.md' -type f -print0 | xargs -0 cat | wc -w)
-wordCount=$(wc -w $src/*md | tail -n 1 | sed 's/[a-z ]//g')
+# grab new word count
+# wc output is messy, tail and sed to cut the number
+newWords=$(wc -w $src/*md | tail -n 1 | sed 's/[a-z ]//g')
 
 # calculate number of words written
-total=$((wordCount - oldWords))
+totalWords=$((newWords - oldWords))
 
-# happy message
+# add up all the words from today
+if [ $toDate -eq $lastDate ];
+then
+    # add the words
+    # cut the last entry
+    tail -n 1 test.md | wc -c | xargs -I {} truncate test.md -s -{}
+    # record new number
+elif [ $todate -gt $lastdate ]
+    # start a new count
+then
+else
+    echo "Something went wrong. Today's date is less then the last recorded date."
+fi
+
+# display a message
 if [ "$total" -gt 0 ]
 then
     echo "You wrote $total words since last time for a total of $wordCount. Well done, sir."
@@ -39,5 +48,5 @@ fi
 # write to log if not zero
 if [ "$total" -ne 0 ]
     then
-        echo "$wordCount $total $stamp" >> $path/log.txt
+        echo "$wordCount $total $todate" >> $path/log.txt
 fi
