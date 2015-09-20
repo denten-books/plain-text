@@ -1,5 +1,4 @@
 # Chapter 4: Recursive Encounters with Oneself
-`media being, reading, home, human`
 
 Documents strongly connected with an idea of user and access. Strongly
 connected with an identity.
@@ -993,5 +992,3 @@ used upon a book" [@nabokov_lectures_2002, 3-4].
 Bennett, John L. The User Interface in Interactive Systems. In Annual Review of
 Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
 for Information Science. Washington, 1972, pp. 159-196.
-
-

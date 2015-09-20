@@ -1,12 +1,10 @@
+# Chapter 3: Solid States (Splitting the Sign)
+
 Tie to the first two chapters. Easy multiplicity of documents.
 Bring in Trilling? Digitality as something imposed from without or imposed on
 us! Because the book is different it fucks with authenticity.
 
 The possibility of text that reconfigures itself.
-
-# Chapter 3: Solid States (Splitting the Sign)"
-
-# Chapter 2: Solid States
 
 The bifurcated sign resides in two distinct locations, each entailing
 drastically differing affordances for reading.

@@ -23,6 +23,43 @@ the work of "teasing apart" the layers obscuring the underlying structure of
 the textual device, using historical sources, direct observation, and tools
 normally reserved for reverse-engineering of data objects.[^ln5-mechanisms]
 
+## 2.5 Marx upside down
+
+It is this last and still current moment of historical development that is
+least theorized. A dominant tradition in the history of the human sciences
+follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
+Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
+of ideology, discourse, and representation. Where for Althusser "every science
+is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
+human sciences on the level of "positive unconscious," revealing unspoken
+"rules" that govern the formation of "theories, concepts, and objects of study"
+on the level of "scientific representation" [@foucault_order_1994, xi].
+
+There are a number of theoretical niceties here (that the reader may skip, if
+not interested in the history of Marxist thought). For example, the concept of
+ideology, in the orthodox Marxist schema of things, exists as a "political
+superstructure [...] to which correspond definite forms of social
+consciousness." In the Marxist model, ideology floats *above* the material
+base---the dominant mode of production---that "determines the general character
+of the social, political and spiritual processes of life"
+[@marx_contribution_1904, 11]. Althusser's influential contribution to this
+world view was to insist that ideology, although secondary to the mode of
+production, nevertheless assures its continual reproduction as a means of
+continuing subjugation and political control. Simply put, for Althusser, the
+ideological apparatus of the modern capitalist state ends up being "installed
+in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
+similar (although not equivalent) rhetorical move, Foucault envisions that
+beneath the "epistemological level" of human activity there exists an
+"archaeological layer," where representation "governs the mode of being of
+language, individuals, nature, and need itself" [@foucault_order_1994, 209].
+Ideology and representation, once determined, now determine. The rhetorical
+jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
+short history of the universal Turing machine runs counter to this top-heavy
+tradition of reading Marx in the inverse. As a device, the Turing machine fuses
+control and communication. Control is meant here bluntly, as physical circuit
+control, at the level of the mechanism and not at the attenuated level of
+ideology or representation.
+
 ## Labor, Energy
 
 Literature hides the labor of readers and writers. In another sense, there is
@@ -1007,199 +1044,4 @@ Plain text preveleges a certain etics of humanity.
 ## 5.5 Living with Complex Systems
 
 The unix idea of plain idea.
-
-## 5.4 Malicious Code Injection
-
-In presenting canonical models of document structure, it is my hope to convince
-the reader of the very real and literal sense of depth manufactured into the
-structure of the contemporary Document Object Model. This includes print,
-because even in that mode, publishing practices today rely on some of the same
-machinery described in this chapter.
-
-The attached documents illustrate my thesis in practice. In the first image the
-reader will find a visual "dotplot" representation of Laurence Sterne's *The
-Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file format. To
-produce the image, I use the Helfman's self-similarity dotplot approach. Dotplots,
-as Helfman explains, "reveal similarity structures in data regardless of format
-and in text and software regardless of language" [@helfman_dotplot_1996]. They
-can be used for authorship identification, plagiarism detection, or to find
-similarity in genetic material. The following, is a simple dotplot from
-Shakespeare:
-
-+----+---+---+---+----+---+---+
-|    |to |be |or |not |to |be |
-+====+===+===+===+====+===+===+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-|or  |   |   | • |    |   |   |
-+----+---+---+---+----+---+---+
-|not |   |   |   | •  |   |   |
-+----+---+---+---+----+---+---+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-
-Table: "Six words of Shakespeare." @helfman_dotplot_1996
-
-When applied to raw, binary data, self-similarity plots can be used to study
-data structures, to identify security threats, and to reverse engineer unknown
-file types. Note that, at this level, we are not observing patterns of meaning
-(as repetition of words or word clusters), but rather structural patterns in
-the underlying bit structure. We cannot tell from the image what these types
-mean, only that they are structured in a particular way. Structure, in this
-sense indicates architecture by human hand. We expect random, encoded or
-encrypted, data to render as undifferentiated patternless noise. Different file
-formats, like the common `.docx` and `.mobi` will therefore leave a
-recognizable signature, even when corrupted. The sparse topography of the
-`.txt` file in the first image indicates a relative paucity in bit types. Plain
-text formats are limited to human-legible UTF-8 or ASCII character sets (used
-to to encode the `.txt` file). The square on the lower right likely represents
-lower case letters, with the other two squares showing capitals and
-punctuation.
-
-The second image (Fig. 12) shows the same novel encoded into the popular
-Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
-device, for example. While the plain text signature is still present, other
-structures now also come into view. These are not human-legible under closer
-examination (using a hex-editor for example) because the data is encrypted. The
-plain text characters remaining comprise snippets of code, and some light
-header and footer information, identifying the file to reader applications.
-
-To produce the third image (Fig. 13), I encode the plain text version of the
-novel into the Portable Document Format (`.pdf`), another commonly circulated
-binary format for document storage. In an additional step, I use code injection
-techniques outlined in @rahman_getting_2010, @stevens_malicious_2011, and
-@maiorca_looking_2013 to introduce a malicious script into the header of the
-file. Depending on the version of the reader's Adobe Acrobat Reader, the code
-will execute when opening the document, with the potential of causing
-significant corruption to the system. The injection is clearly visible in the
-image, manifesting as a "cavity" of un-encrypted characters. Steps
-could be taken to further mask the malicious script, blending it with the
-background encrypted bit structure (shown as speckled noise), which would make
-the injection more difficult to detect.
-
-!["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt` format.
-Unaltered.](images/txt.png)
-
-!["Binary file structure II." Laurence Sterne's *Tristram Shandy*, in `.mobi` format.
-Unaltered.](images/mobi.png)
-
-!["Binary file structure III." Malicious code injection into the text of Laurence
-Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating presence of
-injected code.](images/pdf.png)
-
-In conclusion, I do not mean to imply that the "closest possible" reading of
-this sort, at the circuit and magnetic storage level, will somehow come to
-supplement reading at the surface for meaning and representation. Microanalysis
-is meant to complement close reading: giving it proper scope in time and space
-for its operation. But reading at the surface alone also risks losing sight of
-the naked struggle for power and control at the device level. The machine *can*
-determine the message when unchecked. In these conditions, reading without
-depth may struggle to even locate its object of study, as surface
-representations change dynamically, tailoring themselves to fit the reader's
-mood, to match the environment, or to please some remote censor. Best, Marcus,
-and Sontag are right in treating claims to symptomatic reading with suspicion,
-as claims to power. The reader of depth divines secret knowledge, with or
-without merit, creating an imbalance of interpretation. Critical reading in all
-dimensions must therefore begin with the ethics of mutual legibility. It
-succeeds when readers reclaim the underlying material conditions of their
-meaning making. The very architects of the "smart" literary device tell us: the
-answer to the machine remains in the machine.
-
-[^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
-in the history of writing technologies in that they present a premeditated
-material environment built and engineered to propagate an illusion of
-immateriality; the digital nature of computational representation is precisely
-what enables this illusion---or else call it a working model---of immaterial
-behavior" [@kirschenbaum_mechanisms_2012, 135].
-
-[^ln5-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
-@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
-
-[^ln5-root]: @stoltz_is_2013
-
-[^ln5-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
-International Organization for Standardization in 1984, as ISO 7498.
-
-[^ln5-layers]: The full OSI protocol stack includes Application, Presentation,
-Session, Transport, Network, Data Link, and Physical layers
-[@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
-@day_revised_1995].
-
-[^ln5-smart]: For examples see @grundy_information_1994;
-@kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
-
-[^ln5-plato]: My reading of Plato would be impossible without help from the
-Perseus Digital Library Project, which allows the reader to explore the Greek
-originals side-by-side with translations, maps, dictionaries, and other
-parallel texts. Sources consulted on Plato's theory of forms include
-@hegel_philosophy_1870; @rist_platos_1975; @dixsaut_ousia_1991;
-@woods_form_1993. I would also like to thank Stathis Gourgouris for his
-generous comments on these passages.
-
-[^ln5-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
-@ohmori_memory_2015.
-
-[^ln5-busa]: See for example @hockey_history_2004, "Father Busa has stories of
-truckloads of punched cards being transported from one center to another in
-Italy."
-
-[^ln5-loom]: These dates, as is usually the case with periodization, are
-somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
-worker Basile Bouchon used "drill paper" to automate industrial drawlooms
-[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
-honors could also go to the brothers Banū Mūsā, ninth-century automata
-inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
-his lifelike mechanisms in the mid eighteenth century
-[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
-upon and popularized Bouchon's looms on an industrial scale around the same
-time.
-
-[^ln5-reading]: All of the technologies I list here exist today (in the second
-decade of the twenty-first century) commercially, much beyond the prototype
-stage.
-
-[^ln5-translate]: Translations are mine, unless cited otherwise.
-
-[^ln5-barthes]: "The work is a fragment of substance," he writes. The work is
-"moderately symbolic" where text is "radically symbolic." The work "occupies
-space of books," where the text is "a process of demonstration," "experienced
-only in an activity of production." He writes also that "the Text cannot stop
-(for example, on a library shelf); its constitutive movement is that of cutting
-across (in particular, it can cut across the work, several works)"
-[@barthes_work_1978, 156-7].
-
-[^ln5-descartes]: It is difficult to resist quoting from Descartes's
-*Meditations on First Philosophy* when discussing idealism. He writes: "Let us
-consider the things that people ordinarily think they understand best of all,
-namely the bodies that we touch and see. I don't mean bodies in general---for
-our general thoughts are apt to be confused---but one particular body: this
-piece of wax, for example. It has just been taken from the honeycomb; it still
-tastes of honey and has the scent of the flowers from which the honey was
-gathered; its color, shape and size are plain to see; it is hard, cold and can
-be handled easily; if you rap it with your knuckle it makes a sound. In short,
-it has everything that seems to be needed for a body to be known perfectly
-clearly. But as I speak these words I hold the wax near to the fire, and look!
-The taste and smell vanish, the color changes, the shape is lost, the size
-increases; the wax becomes liquid and hot; you can hardly touch it, and it no
-longer makes a sound when you strike it. But is it still the same wax? Of
-course it is; no one denies this. So what was it about the wax that I
-understood so clearly? Evidently it was not any of the features that the senses
-told me of; for all of them---brought to me through taste, smell, sight, touch
-or hearing---have now altered, yet it is still the same wax."
-
-[^ln3-marinetti]: "Il nostro amore crescente per la materia, la volontà di
-penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
-motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
-meccanico e la sensibilità numerica]
-
-[^ln3-echenbaum]: "Что касается 'формы', то формалистам было важно только
-повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
-своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
-ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
-
-### Works Cited
 
