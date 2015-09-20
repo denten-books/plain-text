@@ -784,20 +784,25 @@ define sentience more generally [@turing_computing_1950].
 
 ### Wittgenstein's *The Blue and Brown Notebooks*
 
-The conversations between Alan Turing and Ludwig Wittgenstein in the years
-between 1931-1938 give us a glimpse into the intellectual history of the Turing
-machine.
+The nexus between Alan Turing and Ludwig Wittgenstein in the years between
+1931-1939 at King's College, Cambridge gives us a glimpse into the intellectual
+context of the Turing machine. Wittgenstein broached the problem of reading
+machines first in *The Blue and Brown Books* along with *Philosophical Grammar*
+(all compiled in the early 1930s), then in his lectures and remarks on the
+foundations of psychology and mathematics from the late 1930s, and finally in
+*Philosophical Investigations*, (written between 1945 and 1949). To give you a
+sense of the timeline: Alan Turing's entered King's College in 1931
+[@hodges_alan_2007, 78], his paper on computable numbers appeared in print in
+1936. It is likely that the two philosophers met at the Moral Science Club,
+where by the 1930s Wittgenstein "monopolized the discussion," even in the
+presence of prominent philosophers like George Edward Moore
+[@duncan-jones_g._1958, 25].
 
-Wittgenstein broached the problem of reading machines first in
-*The Blue and Brown Books* along with *Philosophical Grammar* (all compiled in
-the early 1930s), then in his lectures and remarks on the foundations of
-psychology and mathematics from the late 1930s, and finally in *Philosophical
-Investigations*, (written between 1945 and 1949). To give you a sense of the
-timeline: Alan Turing's paper on computable numbers appeared in print in 1936
-and his "Computing Machinery and Intelligence" in 1950. A historical
-reconstruction of that conversation, across both writers' notes and
-publications, will help us perceive the extent to which Turing's machines were
-conceived as a type of intelligent reading and writing simulators.[^ln1-notes]
+
+historical reconstruction of that conversation, across both writers'
+notes and publications, will help us perceive the extent to which Turing's
+machines were conceived as a type of intelligent reading and writing
+simulators.[^ln1-notes]
 
 [^ln1-notes]: As always, working with Wittgenstein is complicated by the
 inherently ad-hoc nature of his published work. Much of it comes to us in the
