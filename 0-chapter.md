@@ -2,12 +2,6 @@
 
 Fix for the new plan:
 
-1. Book as Device
-2. Sign Splits
-    a. Screen (digi)
-    b. Home (content)
-    c. Control (copy, formatting)
-
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
 female voice announces also "low battery." These precautions are stipulated by
@@ -91,30 +85,30 @@ the duration of the manuscript: without legibility there can be no
 understanding. Most attempts to articulate a liberal ethos, whether built on
 consensus, narrative, discourse, or contract law, presuppose legibility.
 Without legibility there can be no consensus, narrative, discourse or contract.
-Yet, since the Gutenberg press and the vernacular reforms of Martin Luther,
-Western thought takes legibility for granted. This is because until the advent
-of the simulated text, print has remained a remarkably stable medium. Attempts
-to silence print through book burning or censorship are viscerally obvious and
-met with nearly universal disapproval. The advent of computed text and device
-textuality threatens to return us to pre-Lutheran times, where legibility was
-the domain of the select few and interpretation the privilege of the chosen. It
-pains me to write these words because they seem to me at once too dire,
-obvious, and true.
+Yet, ever since the Gutenberg press and the vernacular reforms of Martin
+Luther, Western thought has taken legibility for granted. This is because until
+the advent of simulated text, print has remained a remarkably stable medium.
+Attempts to silence print through book burning or censorship are viscerally
+obvious and met with nearly universal disapproval. Device textuality threatens
+to return us to pre-Lutheran times, where legibility was the domain of the
+select few and interpretation the privilege of the chosen. It pains me to write
+these words because they seem to me at once too dire, obvious, and true.
 
-The illusion of ephemerality comes at a price of legibility. "Software's
-ghostly presence produces and defies apprehension," Wendy Chun writes in her
-*Programmed Visions* [@chun_programmed_2011, 3]. But what happens when all text
-is a type of software? Friedrich Kittler ends his book making on a similar
-note. In his vision, literature has been finally defeated by military-grade
-encryption, secrecy, and obfuscation [@kittler_gramophone_1999, 263]. Unlike
-censorship or the burning of books, such modes of symbolic control (governance
-*over* the sign) are less obvious and more pervasive. The simulation-producing
-nature of computed text helps preserve the outward appearance of printed text,
-while concealing the specifics of control. I mean control in the most direct
-way possible, as a mode of physical governance and barrier to access. The
-difficulty of *Plain Text* will be in the describing of such emerging but often
-concealed technological contingencies. It will be in the finding the right
-words and the affordances for dissent.
+The illusion of ephemerality that follows simulation comes at a price of
+legibility. "Software's ghostly presence produces and defies apprehension,"
+Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
+what happens when all text is a type of software? Friedrich Kittler ends his
+book making on a similar note. In his vision, literature has finally been
+defeated by military-grade encryption, secrecy, and obfuscation
+[@kittler_gramophone_1999, 263]. Unlike censorship or the burning of books,
+such modes of governance *over* the sign are less obvious and more pervasive.
+The simulation-producing nature of computed text helps preserve the outward
+appearance of printed text, while concealing the specifics of control. I mean
+control in the most direct way possible, as a mode of physical regulation and
+barrier to access. The difficulty of *Plain Text* will be in the describing of
+such emerging but often concealed technological contingencies. It will be in
+the finding the right words and in articulating the remaining affordances for
+dissent.
 
 The rise of critical practice in the humanities---such recent developments as
 minimal computing, critical making, and forensic reading---affirm the
@@ -154,7 +148,7 @@ limited to efficacy, speed, or performance. Complex computational systems do
 not give rise to values any more than financial markets do. I find the argument
 to the contrary both pervasive and deeply reactionary. Among the many available
 visions of human--computer interaction, we can chose one that confirms to a
-reasoned ethos, emanating from the human side of the question, whatever the
+reasoned ethos, emanating from the human side of the question---whatever the
 reader's politics. Computational hermeneutics encourages "users" to become
 active thinkers, tinkerers, and makers of technology. It treats "binary" and
 "digital" environments as literary systems, amenable to the construction and
@@ -183,9 +177,9 @@ machine? But were a book also a pill or fused with the neural circuitry of the
 brain, would you know what and whom you were reading?
 
 Much is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making, that is, the very opportunity to engage
+political struggle for meaning-making, that is the very opportunity to engage
 in the act of interpretation, begins with text as a material object. In the
-West, it is easy to forget the blunt effectiveness of physical control. Books
+West, it is easy to forget the blunt effectiveness of physical control.  Books
 that are burned or redacted cannot be read at all. Elsewhere, global inequities
 of access to knowledge compel readers to print their own books and build their
 own libraries. Witness the so-called "shadow libraries" of Eastern Europe
@@ -194,7 +188,7 @@ Pakistan [@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat*
 press of Nigeria under circumstances that have been described as "book famine"
 [@okiy_photocopying_2005, @nkiko_book_2014]. Such practices engage in the
 proactive preservation of the literary sphere. Shadow libraries and informal
-book exchange networks create reading publics who own the means of textual
+book exchange networks create reading publics who affect the means of textual
 production and dissemination. Under duress, readers build homemade knowledge
 infrastructures: they duplicate, distribute, and archive. In the economies that
 reached later stages of capitalism, such infrastructures are commodified.
@@ -218,11 +212,11 @@ reading device reconfigures the text to fit individual tastes, mood, or
 politics? How would we even agree on the fact that we are reading the same
 text? The very feasibility of interpretation comes into question.
 
-To trace the hidden flows of textual governance and control, of the sort that
-Friedrich Kittler warns us about, must mean more than passive apprehension of
-signs indicating the "evanescent absence" of life.[^ln-lacan] I write *Plain
-Text* with fatigue in response to the pervasive post- or anti- humanism that
-grips contemporary criticism of technology. Unlike Kittler, who once wrote that
+To trace the hidden flows of textual regulation, of the sort that Friedrich
+Kittler warns us about, must mean more than passive apprehension of signs
+indicating the "evanescent absence" of life.[^ln-lacan] I write *Plain Text* in
+fatigued response to the pervasive post- or anti- humanism that grips
+contemporary criticism of technology. Unlike Kittler, who once wrote that
 "under conditions of high technology, literature has nothing more to
 say,"[@kittler_gramophone_1999, 263] I believe that literature and literary
 analysis continue to have a voice in contemporary life. Technology does not
@@ -232,13 +226,13 @@ contingencies. Where texts are encrypted, we decrypt. If "automated discourse
 analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
 engineer analytical automatons that command on our behalf. Such small acts of
 resistance can recover a measure of agency from the determinism of---take your
-pick: markets, complex systems, unconscious drives, monistic universes, gaia
+pick: markets, complex systems, unconscious drives, monistic universes, *gaia*
 science, social networks, technology, the singularity, bureaucracy, war.
-Indeed, the possibility of human erasure is all too easy, "like the face drawn
-in the sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility
-of life compels not the wager on one's commitment to anti-humanism, but the
-need to mobilize whatever modest available means to preserve agency, against
-odds.
+Indeed, the possibility of human erasure never strays far from reach, "like the
+face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387]. The
+fragility of life compels not the wager on one's commitment to anti-humanism,
+but the need to mobilize whatever modest available means to preserve a sense of
+agency, against great odds.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to code, system, and device. For
@@ -459,12 +453,12 @@ Mumford and Langdon Winner to argue that technology affects the exercise of
 textual politics in subtle and profound ways. Artifacts cannot hold beliefs
 about politics. Political power is rather exercised through them. Stairs do not
 discriminate against the mobility impaired. The failure to enforce
-accessibility through specific architectural choices does. Typesetting
-software, e-book readers, and word processors similarly encode implicit
-communication models, ideas about deliberation, ethics of labor, discursive
-values, and views about "natural" human aptitude for interpretation. In this
-way, contemporary documents enforce limits to access by license, geography, or
-physical ability.
+accessibility through specific legal and architectural choices does.
+Typesetting software, e-book readers, and word processors similarly encode
+implicit communication models, ideas about deliberation, ethics of labor,
+discursive values, and views about "natural" human aptitude for interpretation.
+In this way, contemporary documents enforce limits to access by license,
+geography, or physical ability.
 
 To what extent does the book in front of you "permit" or "enable" access?
 Whatever the answer, a function of understanding the text must include the
@@ -474,8 +468,9 @@ smelting iron is to make literal the figure suggested by media "archeology" on
 the level of the mechanism. In *Plain Text* we will dig through, unearth, and
 excavate textual machines.
 
-
 ## Microanalysis
+
+Why am I reading Ltour. Because latour gives us a way to see much lit.
 
 In a study on the construction of scientific knowledge, Bruno Latour and Steve
 Woolgar perform what they call an ethnography of a science lab by exposing the
@@ -483,8 +478,6 @@ passage of ideas from applied experiment to literary production. For Woolgar
 and Latour a laboratory functions as a factory of sorts, ingesting matter and
 artifact to produce fact and inscription, beyond simplistic notions of
 knowledge-making and discovery [@latour_laboratory_1986]. A cite of production. 
-
-Why am I reading Ltour. Because latour gives us a way to see much lit.
 
 Although much cited in the study of culture, science, and technology,
 *Laboratory Life* has had less of an impact on the study of literature, even
@@ -601,7 +594,6 @@ of operational terms that I want to locate a notion of poetics capable of
 addressing not only the machinations of poetry and prose, but also of pixel,
 code, string, script, inscription, list, document, file, record, project, and
 archive.
-
 
 Moreno on microanalysis!
 
