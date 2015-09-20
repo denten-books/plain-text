@@ -465,7 +465,7 @@ symbolic manipulation.
 Turing machines should hold interest for literary scholars because they present
 a minimally viable model for generalized symbolic manipulation: reading and
 writing. Although the thought experiment they embody solves a mathematical
-problem, the thought experiment itself has roots in a more general conversation
+problem, the thought experiment itself has roots in a more general discussion
 about the nature of interpretation, central to questions of meaning-making in
 art and culture.
 
@@ -772,33 +772,54 @@ machines first in *The Blue and Brown Books* along with *Philosophical Grammar*
 foundations of psychology and mathematics from the late 1930s, and finally in
 *Philosophical Investigations*, (written between 1945 and 1949). To give you a
 sense of the timeline: Alan Turing's entered King's College in 1931
-[@hodges_alan_2007, 78], his paper on computable numbers appeared in print in
-1936. It is likely that the two philosophers met at the Moral Science Club,
+[@hodges_alan_2007, 78] and his paper on computable numbers appeared in print
+in 1936. It is likely that the two philosophers met at the Moral Science Club,
 where by the 1930s Wittgenstein "monopolized the discussion," even in the
 presence of prominent philosophers like George Edward Moore
-[@duncan-jones_g._1958, 25].
+[@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on the
+foundations of mathematics in 1939.
 
-historical reconstruction of that conversation, across both writers'
-notes and publications, will help us perceive the extent to which Turing's
-machines were conceived as a type of intelligent reading and writing
-simulators.[^ln1-notes]
+Andrew Hodges, the Oxford mathematician and Turing's biographer, attributes
+Turing's engagement with the mechanical basis of mathematical proof to the
+tutelage of Cambridge mathematicians Max Newman and G.H. Hardy. Hodges writes
+that in the summer of 1935, Turing "dreamed of machines." The idea of bridging
+mathematics to the physical world by a mechanical process "revolved in Alan's
+mind" [@hodges_alan_1983]. That may have been. However, reading Turing in the
+context of Wittgenstein's notes and lectures suggests a parallel, if not an
+alternative intellectual lineage.
 
-[^ln1-notes]: As always, working with Wittgenstein is complicated by the
-inherently ad-hoc nature of his published work. Much of it comes to us in the
-form of disjointed second-hand notes and dictations. As if to anticipate this
-difficulty, in a letter to Bertrand Russell accompanying the manuscript of *The
-Blue and Brown Books*, a collection of notes that form the basis for his
-*Philosophical Investigations*, Wittgenstein writes: "I think it's very
-difficult to understand [these notes], as so many points are just hinted at.
-They are meant only for the people who heard the lectures"
-[@wittgenstein_blue_1965, vii].
+As we shall see, there is a remarkable consistency between the multitude of
+Wittgenstein's "broken" reading machines and Turing's universal symbolic
+manipulator. The parallel is even more striking when one considers Turing's
+later work on the "imitation game" as a litmus test for artificial
+intelligence, echoing Wittgenstein's interest in functional language games. The
+mathematical formulae in Turing's papers should not obscure the writer's
+preoccupation with hermeneutics more generally. For example, literature on
+Turing's intelligence test usually ignores the long discursive passages
+analyzing poetry in the original paper.
 
-The *Blue and Brown Notebooks* comprise "some notes to my pupils, so that they
-may have something to carry home with them, in their hands if not their brains"
-[@wittgenstein_blue_1965, vii]. "The Blue Book" begins with a question of
-interpretation: "What is a meaning of a word?" From the start, Wittgenstein
-cautions his students against choosing the easy answer, which holds that
-meaning resides in the head. Wittgenstein writes:
+If we take Turing machines to stand in as a kind of a universal symbol for
+computation itself, capable of transforming the practice of arts and letters in
+almost every field of aesthetic and intellectual activity, it becomes paramount
+to view them outside of the narrow confines of mathematical theory.
+Understanding Turing machines within the history of symbolic interpretation
+more broadly, brings computing closer to the light of cultural criticism. The
+bulk of this chapter is therefore concerned with drawing the intertextual
+connections between Turing's early work on computation and Wittgenstein's
+"middle period," between his *Tractatus* and *Philosophical Investigations*.
+The two thinkers occupy the same vibrant intellectual milieu in Cambridge for
+the best part of the decade. Their work during this period shows a significant
+thematic overlap, which although aknowledged, recieves scant attention in the
+critical literature.[^ln1-cope]
+
+[^ln1-cope]: See for example @copeland_what_2000 and @wagner_wittgenstein_2005.
+
+Wittgenstein wrote that his *Blue and Brown Notebooks* comprise "some notes to
+my pupils, so that they may have something to carry home with them, in their
+hands if not their brains" [@wittgenstein_blue_1965, vii].[^ln1-notes] "The
+Blue Book" begins with a question of interpretation: "What is a meaning of a
+word?" From the start, Wittgenstein cautions his students against choosing the
+easy answer, which holds that meaning resides in the head. Wittgenstein writes:
 
 > It is misleading then to talk of thinking as of a "mental activity". We may
 > say that thinking is essentially the activity of operating with signs. This
@@ -1065,9 +1086,8 @@ number of hypothetical machines, Wittgenstein attempts to discover the rule
 book of what he later calls the language game---or at lest to suggest that such
 a rulebook might exist. Much has been written on this aspect of Wittgenstein's
 thought and its relation to Bertrand Russel's symbolic logic. In the context of
-our conversation, Wittgenstein's "middle period" (between his *Tractatus* and
-*Philosophical Investigations*) is important for its direct influence on
-Turing's model of computation.
+our conversation, Wittgenstein's "middle period" is important for its direct
+influence on Turing's model of computation.
 
 Several prominent characteristics pass from Wittgenstein's reading machines to
 Turing's universals. First, the symbolic machine emerges from the metaphor-like
