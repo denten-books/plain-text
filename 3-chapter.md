@@ -1,28 +1,10 @@
----
-title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 3: Solid States (Splitting the Sign)"
-author: "Dennis Tenen"
-style: csl/chicago-note.csl
-bibliography: plain-text.bib
-toc: true
-documentclass: article
-cover-image: images/steno.png
-header-includes:
-- \usepackage{ftnxtra}
-- \usepackage{titlesec}
-- \usepackage{fancyhdr}
-- \pagestyle{fancy}
-- \newcommand{\sectionbreak}{\clearpage}
-- \rhead{DRAFT | do not circulate }
-- \lhead{}
-
----
-
 Tie to the first two chapters. Easy multiplicity of documents.
 Bring in Trilling? Digitality as something imposed from without or imposed on
 us! Because the book is different it fucks with authenticity.
 
 The possibility of text that reconfigures itself.
+
+# Chapter 3: Solid States (Splitting the Sign)"
 
 # Chapter 2: Solid States
 

@@ -1,22 +1,3 @@
----
-title: "Plain Text: The Poetics of Human-Computer Interaction"
-author: "Dennis Tenen"
-style: csl/chicago-note.csl
-bibliography: plain-text.bib
-toc: true
-documentclass: article
-cover-image: images/steno.png
-header-includes:
-- \usepackage{ftnxtra}
-- \usepackage{titlesec}
-- \newcommand{\sectionbreak}{\clearpage}
-- \usepackage{fancyhdr}
-- \pagestyle{fancy}
-- \rhead{draft copy | do not circulate}
-- \lhead{}
-
----
-
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
 female voice announces also "low battery." These precautions are stipulated by

@@ -1,23 +1,3 @@
----
-title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
-subtitle: "Chapter 2: Simulated Text"
-author: "Dennis Tenen"
-style: csl/chicago-note.csl
-bibliography: plain-text.bib
-toc: true
-documentclass: article
-cover-image: images/steno.png
-header-includes:
-- \usepackage{ftnxtra}
-- \usepackage{titlesec}
-- \usepackage{fancyhdr}
-- \pagestyle{fancy}
-- \newcommand{\sectionbreak}{\clearpage}
-- \rhead{DRAFT | do not circulate }
-- \lhead{}
-
----
-
 # Chapter 2: Simulated Text
 
 ## 2.1 Metaphor Machine
