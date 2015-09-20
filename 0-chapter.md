@@ -1,3 +1,13 @@
+# Introduction
+
+Fix for the new plan:
+
+1. Book as Device
+2. Sign Splits
+    a. Screen (digi)
+    b. Home (content)
+    c. Control (copy, formatting)
+
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
 female voice announces also "low battery." These precautions are stipulated by
