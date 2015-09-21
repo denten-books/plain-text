@@ -1,173 +1,460 @@
 # Chapter 2: Splitting the Sign
 
-Tie to the first two chapters. Easy multiplicity of documents.
-Bring in Trilling? Digitality as something imposed from without or imposed on
-us! Because the book is different it fucks with authenticity.
+I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
+magnetic storage the "enduring ephemeral," which "creates unforeseen
+degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
+the floating gate transistor,[^ln1-gate] where my text now lives, can be called
+the enduring ephemeral, I will call my liquid crystal display, where the text
+shows itself, fading persistence. This is not to believe that text on the
+screen lacks materiality. Only that it seems to drift from surface to surface,
+beyond the field of vision, in ways that erode trust in the general permanence
+of the literary system. If we are destined to dwell on surfaces, I do not know
+to which surface to attach my attention: the screen or the floating gate.
 
-The possibility of text that reconfigures itself.
+In this paper, I would like to 
 
-The bifurcated sign resides in two distinct locations, each entailing
-drastically differing affordances for reading.
+## 2.1 WYSINAWYG (What You See Is Not Always What You Get)
 
-The long history of the word proceeds in stages, from the immutable sign to the
-universal implement, capable of reproducing all symbolic representation
-dynamically. The universal Turing machine culminates the development of the
-symbol. Through it, the symbol gains its ideal form, capable of representing
-everything that can be represented. All further symbolic engines constitute
-lesser versions of the universal archetype.[^ln1-brain] Yet the archetype
-machine itself is also limited to an ideal. It can only exist as a thought
-experiment. All real-world Turing machines must contain non-representational
-elements, dispelling the illusion of immateriality.
+Where does text reside? If you are reading this book in print, you can point to
+the page and be fairly certain of the answer: here, on the page. If you are
+reading the book on a *device*, things get more complicated. You can point to
+the screen and yet it would not be enough to say that the text resides there.
+The screen will go dark when the device loses power, but the text will
+persevere within, stored at another physical location. Deep within a device,
+the text lodges itself into some sort of a storage medium, usually a magnetic
+or a "solid state" drive. I have before me at least two inscriptions: one as
+circuit state on my hard drive, and another as crystal phase on the screen.
+They denote the same idea, but in two distinct places. How did this duplicity
+come to be? And what impact does it have on the life of a mind?
 
-When viewed in the context of book history, the universal Turing machine
-signifies a consummation of several broad, long-term trends that begin with the
-invention of writing itself. The God of the Hebrew Bible etched his
-commandments into stone (Exodus 34:1). Moses broke the first set of tablets,
-but the word remained, for a time, immutable. The material history of literary
-computing begins with petrified words that endure forever, and ends with word
-as an electrical charge: animated, radiant, fluid, and iridescent
-[@mcgann_radiant_2001; @bryant_fluid_2002].
+Once we encounter the book as a computational device, we must come to terms
+with the simulated nature of screen textuality. Matter, form, and content lie
+flat on the printed page. Print interfaces are paper thin, we might say. Ink
+adheres to paper in the way that pixels do not to screens. The bifurcated sign
+resides in two distinct locations, each entailing drastically differing
+affordances for reading. This affects even those who prefer to read in print.
+Like most literature today, print materials are also "born digital." At some
+point of time, they occupy the same duplicitous position between storage medium
+and pixel.
 
-Although much of contemporary popular discourse on computation speaks the
-language of disruption, the history of computational symbolism, of the sort I
-am suggesting here, must be seen as an evolutionary trajectory.
+Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
+text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
+[and] contingent" they are both identifying real-world technological
+affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
+@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
+which, when faced with the law prohibiting observant Jews from erasing God's
+name, rule that words on "screens, disks, and tapes" are not to be considered
+as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
+quoted @heim_electric_1987, 192]. Other technological and legal fictions rise
+to restore a measure of "stickiness" to electronic media. For example,
+manufacturers commonly embed digital rights management circuits into video
+streaming devices to artificially limit the duplication of broadcast material.
+Similarly, electronic book sellers usually disable the reader's ability to copy
+and paste from the material. Such measures mimic some of the constraints
+associated with static, paper-and-ink media regimes.
 
-## 2.1 Metaphor Machine
+When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
+respond to Heim and company with hardened materialism, they are also rightly
+identifying actual properties of electronic text. But the two camps speak
+neither of the same phenomenon nor at the same site. The former group points to
+the screen as the impermanent and ephemeral state of the written word: like
+tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
+points instead to the "uniquely indelible nature of magnetic storage"
+[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
+"fundamental physical support" and "material substrates of computing"
+[@drucker_performative_2013]. Both locations, the screen and the disk, are
+real. Neither can be reduced to the other. Both contain distinct constraints
+and affordances for action.
 
-Reading Jean Baudrillard at the end of the century prior, I understood his
-writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. But I think now that I then
-failied to pecieve the pervasive nature of simulation. Computation, the
-ultimate metaphor machine, mediates experience ubiquitously. It interjects in
-simple everyday acts from drinking coffee in the morning, through brewing and
-payment systems, to going to bed as alarm clock and night activity monitor.
+The seeming immateriality of digital media entails real-world effects: the
+costs of replication plummet, for example. Computational text can be copied
+effortlessly, with minimal cost, and with near-perfect fidelity.
+Hyper-reproducibility of the sort was unthinkable for most of the twentieth
+century. The machine allows for rapid remediation. Lowered costs of copying
+further reduce barriers to access and conveyance. Symbols that adhere lightly
+to their medium are easy to store and to transport. Witness the rise of
+massive, global public knowledge projects like online search engines and
+encyclopedias as a direct consequence. Such projects unfold the logic of
+immateriality, which moves towards totalizing archives and universal
+accessibility.[^ln1-google] When representation appears to weigh nothing, one
+imagines a weightless totality of all representation, available immediately and
+everywhere. The perceived weightlessness of text has other side-effects as
+well. For example, a text that adheres lightly to its medium is also difficult
+to contain, making onerous the governance of symbolic representation and
+weakening traditional controls like censorship and intellectual property
+rights.
 
-Baudrillard writes:
+Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
+Rather, the symbol splits in two: with one half arising visibly, a weightless
+and apparent screen simulation, and the other half, opaque, etched into the
+hefty and hidden material contingencies of the device. The material substrates
+of computational text likewise carry real-world affordances and consequences.
+They are first and foremost hidden from view. Drives and tapes reside inside of
+black or aluminum boxes. If only because they carry electrical current and have
+the potential to catch fire, they are regulated. They contain heavy and rare
+metals, often hazardous if touched or ingested. The computational part of the
+sign is sealed in miniaturized containers that prevent access and to resist
+tempering. These are but some of the realities of material text. It is text
+intertwined with machine internals and control code and it is often
+hermeneutically sealed to resist human interpretation.
 
-> At the limit of an always increasing elimination of references and finalities,
-an ever-increasing loss of resemblances and designations, we find the digital
-and programmatic sign, whose "value" is purely *tactical*, at the intersection
-of other signals ("bits" of information/tests) whose structure is that of a
-micromolecular code of command and control [@baudrillard_selected_1988, 139-140].
+Give an account of a pixel's passage from
+keystroke to ink or pixel. The vast machinery that brings literature to life
+hides from the reader's view. Literature conceals. Even on the level of
+stylistics, writing well is meant to evoke a sense of ease where it is usually
+the product of painstaking labor. Let us hold on to that intuition for the
+duration of this chapter: writing conceals labor.
 
-The diffusion of simulated text will lead us to an archive of source materials
-somewhat unusual for a work on literary theory. It will allow us to perceive
-computation as a type of a literary activity, comprehensible in the lineage of
-symbolism and book history. In search for the location of the symbol, we will
-explore a number of symbol-manipulating devices that facilitate the production
-of text. These will be found on the pages of mathematical journals and in
-patent portfolios. Their ubiquity necessitates our attention. Three such
-devices, which have fundamentally changed the nature of the literary encounter,
-will emerge by the end of the chapter. Together, they tell the story of a
-bargain that defines human--computer interaction: to trade facility for
-comprehension, to complicate in return for the illusion of simplicity, and to
-exist within that illusion without understanding how it is made.
+In answer, I offer the following three historical preconditions for digital
+textuality. They are not meant as history, but rather as signposts to mark the
+journey ahead. The schema proceeds roughly as follows: first, content and
+control couple at the visible surface of removable storage media (ticker tape
+and punch card); second, inscription splits into input and output, retreating
+into magnetic storage to reemerge at last on the screen, in the same guise, but
+also, as we suspect, somehow transformed: less solid and concealing something
+beneath the phantasmal shell of its former appearance.[^ln1-denning]
 
-### Ephemeral text
+As we embark to explore the consequences of simulated text, I propose we keep
+the following three landmark mechanisms in view as signpost along our journey:
+Goldberg's Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of
+these, text structure and machine control lie before us for inspection. The
+second one is mute: a black slate. The last of these belongs to what Peter
+Denning calls the "third generation" of computer systems---an assemblage of
+storage, input, and output technologies that continue to shape the contemporary
+human encounter with text today. These devices tell us a story of a fracture.
+Through them, a part of the sign fades from view as an arrangement of magnetic
+charge and floating gate. Another part appears as flicker of the cathode ray
+and the flow of the liquid crystal.
+
+### A. Removable storage media and automation, 1725--1964.[^ln1-loom]
+
+"You must acknowledge that this is readable without special training," reads
+the schematic illustration to a Goldberg 1911 patent, simply titled
+"Controller." "My invention relates to all controllers," Goldberg writes.
+Furthermore, the object of his invention is "to provide a mechanism operable by
+a control sheet which is legible to every person having sufficient education to
+enable him to read." Goldberg illustrates his invention in attaching to his
+patent "a control sheet in which the control characters are in the form of the
+letters of the ordinary English alphabet"  [@goldberg_controller_1915]. Rather
+than using ticker tape, Goldberg uses perforations that form letters. On
+Goldberg's control sheets, the language of machines and the language of humans
+coincide.
+
+![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
+
+The Controller never caught on, but the patent makes it clear that Goldberg,
+among others, was aware of the problem: the mechanization of type, automation,
+and remote control required specialized training. With the advent of the
+automated telegraph, content meant for people was now being intermixed with
+machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
+using cards, perforated in the shape of the English alphabet. Besides carrying
+(human-readable) content, the perforations do "double duty" to mechanically
+manipulate the machine's "blocks," "handles," "terminal blades," and "plungers"
+[@goldberg_controller_1915]. Early paper-based storage media, from Morse
+code-based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
+punch cards that powered weaving looms, player pianos, and census tabulators
+coupled message and control. The era of ticker tape punch cards can be thought
+to end with the mass-market introduction of IBM's Magnetic Tape/Selectric
+Typewriter in 1964.
+
+### B. Magnetic tape, 1888--1968
+
+"Historically unforeseen, barely a thing, software's ghostly presence produces
+and defies apprehension," Wendy Chun writes in her *Programmed Visions*, an
+influential monograph that continues to shape the field of software studies.
+She quotes several prominent computer scientists and media historians to the
+same effect. But what gives software its ephemeral quality? Embossed onto
+ticker tape or punched into the card, early software protrudes through the
+medium. In the age of the telegraph, the largest barrier to the comprehension
+of software was encoding. But once the cipher is known and the format
+identified, the inscription makes itself visible to view. Early programmable
+media could hardly be called ephemeral or immaterial. Anecdotes circulate in
+the digital humanities circles of Father Roberto Busa, an early (post-WWII)
+pioneer in the field of computational philology, carting his punch cards around
+Italy on a truck.[^ln3-busa] Code before its electromagnetic period was
+burdensome, fragile, unwieldy, and, most of all, visible.
+
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
+under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
+
+The principles of magnetic recording were developed by Oberlin Smith (among
+others), the American engineer who also filed several inventions related to
+weaving looms at the end of the nineteenth century. In 1888, inspired by
+Edison's mechanical phonograph, Smith made public his experiments with an
+"electrical method" of sound recording using a "magnetized cord" (cotton mixed
+with hardened steel dust) as a recording medium. These experiments were later
+put into practice by Valdemar Poulsen of Denmark, who patented several
+influential designs for a magnetic wire recorder [@smith_possible_1888;
+@poulsen_method_1900; @engel_1888-1988_1988; @thiele_magnetic_1988;
+@daniel_magnetic_1998; @vasic_coding_2004].
+
+In 1964, IBM combined magnetic tape storage with its *Selectric* line of
+electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
+typewriters to the mass market. Writing for the *Encyclopedia of Library and
+Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
+first word processors, defined by the ability to record strokes and to print
+them onto paper *as a separate operation* [@eisenberg_word_1992]. The
+separation of input and output allows for word processing as such. An article
+in the *IBM Journal for Research and Development* explains that the real
+significance of the MT/ST workstation was in the introduction of new "power
+typing" technologies: "For the first time the typist could type at 'rough
+draft' speed, 'backspace and strike over' errors, and not worry about the
+pressure of mistakes made at the end of the page" [@may_ibm_1981, 742].
+
+We may think of word processing as a temporal extension of the page. Words on
+magnetic storage media begin to exist in the ephemeral state, giving the typist
+an opportunity to edit and emend *before* commitment to paper, in its immutable
+form, and as a separate operation, removed from the immediate process of
+inscription. The very invention of word processing thus corresponds to the
+decline of text into ephemera. What was visible through a hole punch on ticker
+tape, was now submerged into tape. The tape no longer afforded human legibility
+nor comprehension. Encoding used by MT/ST retained the familiar (from the
+earlier sections) underlying structure (7-bit encoding, in this case) which, on
+tape, ceased to be recoverable by the naked eye. The inscription lay literally
+beyond (human) sense. We lack the perceptual apparatus to perceive "magnetic
+domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
+Magnetic storage remains, for all unassisted intents and purposes, a black
+slate.
+
+### C. Screen, 1968--today
+
+By decoupling input and output, magnetic storage and solid state media afford
+the injection of time and space, in arbitrary intervals, between the process of
+inscription and comprehension. Content, coupled with control code, sinks
+beneath the matte surface of electrical charge. The final movement in the
+emergence of automated discourse reintroduces the illusion of immediacy into
+the process of inscription. Text, invisible in its material substratum,
+reappears on the screen, but, crucially, it no longer corresponds to its mirror
+inscription. This property is as perilous as it is liberating: perilous,
+because the flows of power and control can now be submerged under the
+shimmering surface of the screen, and liberating, because loosely coupled to
+their material substratum texts become both more fluid and more portable.
+Plainly put, the systematic barriers to copying, sharing, exchanging, editing,
+remixing, and disseminating texts are reduced to a minimum.
+
+Ersatz skeuomorphism (between disk storage and screen image) leads to the
+reception of digital text as an ephemeral artifact. With the illusory role of
+the screen in mind, I propose 1968 as the year in which the contemporary
+textual condition takes its present form. On December 9, 1968 Douglas
+Engelbart, then founder and primary investigator at the NASA- and ARPA-funded
+Augmentation Research Center lab at the Stanford Research Institute, gave what
+later became known colloquially as "the mother of all demos
+[@tweney_mother_2008]" before an audience of roughly one thousand or so
+computer professionals attending the Fall Joint Computer Conference held at the
+Convention Center in San Francisco [@rogers_demo_2005]. The demo announced the
+arrival of almost every technology prophesied by Vannevar Bush in his
+influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a little
+over an hour,  through a headset, in a prerecorded address, Engelbart features
+functional (live) prototypes of the following: graphical user interfaces, video
+conferencing, remote camera monitoring, links and hypertext, version control,
+text search, image manipulation, windows-based user interfaces, digital slides,
+networked machines, mouse, stylus, and joystick inputs, and "what you see is
+what you get" (WYSIWYG) word processing.
+
+!["NOW IS THE TIME FOB." Schematics for a "display system"
+[@engelbart_x-y_1970].](images/engel.png)
+
+In his report to NASA, which sponsored research on "intellect augmentation"
+along with DARPA, Engelbart describes his lab as a group of scientists
+"developing an experimental laboratory around an interactive, multiconsole
+computer-display system" and "working to learn the principles by which
+interactive computer aids can augment the intellectual capability of the
+subjects" [@engelbart_human_1969, 1]. Cathode Ray Tube (CRT) displays were
+central to this research mission. In one of many patents that came out of
+"intellect augmentation" laboratory, Engelbart pictures the "display system" as
+a workstation that combines a typewriter, a CRT, and a mouse. The system is
+frozen in mid-action, with the words "THE TIME IS NOW FOB" prominently
+displayed on the screen. Although Engelbart does not explain the message, the
+system's user is evidently in the process of editing a sentence and about to
+correct the nonsensical FOB into a FOR. Engelbart writes, "One of the
+potentially most promising means for delivering and receiving information to
+and from digital computers involves the display of computer outputs as visual
+representation on a cathode ray tube and the alternation of the display by
+human operator in order to deliver instructions to the computer"
+[@engelbart_x-y_1970].
+
+The CRT closes the circuit between human and machine, with a few caveats. In
+practice, the short-lived screen-less word processors (like the IBM MT/ST)
+necessitated for the cognitively arduous task of continuously keeping the
+underlying document structure in the mind's eye. The CRT lifts that burden by
+unfolding the structure topographically, allowing for spatial navigation along
+the document---restoring, in a sense, the natural affordances of print. Data
+becomes visible again. Moreover, represented in the shimmer of the cathode ray,
+it attaches itself lightly to the retina. Users trying out this way of writing
+for the first time report that the screen liberates them from the material
+confines of print textuality. One user, possibly Engelbart himself, writes the
+following:[^ln3-follow]
+
+[^ln3-follow]: I reproduce the text verbatim and preserving the line breaks,
+since formatting is an important part of the reported experience.
+
+```
+    1B2B1 "To accommodate and preserve a thought or
+    piece of information that isn't related to the work
+    of the moment, one can very quickly and easily
+    insert a note within the structure of a file at such
+    a place that it will nether get in the way nor get
+    lost.
+
+    1B2B2 "Later, working in another part of the file,
+    he can almost instantly (e.g. within two seconds)
+    return to the place where he temporarily is storing
+    such notes, to modify or add to any of them.
+
+    1B2B3 "As any such miscellaneous thought develops,
+    it is easy (and delightful) to reshape the structure
+    and content of its discussion material.
+```
+
+Engelbart, interested in collecting empirical phenomenological accounts of the
+system, records what must count as several of the most evocative passages to
+appear on the pages of a NASA technical report. In the "Results and Discussion"
+section an anonymous user continues to report:
+
+```
+1B4 "I find that I can express myself better, if I can
+make all the little changes and experiments with wording
+and structure as they occur to me." [Here the user
+experiments a little with using structural decomposition
+of a complex sentence.]
+```
+
+A deconstruction indeed follows, as the author begins to deviate from the
+conventions of the technical report. The numbered passages, and unexpected
+enjambment, heightens the staccato quality of the prose, which at times reaches
+towards the lyric:
 
 
-The bifurcated sign resides in two distinct locations, each entailing
-drastically differing affordances for reading.
+```
+    1B4A "I find that I write faster and more freely,
 
-### Turing's *Computing Machinery and Intelligence*
+        1B4A1 "pouring thoughts and trial words on the
+        screen with much less inhibition,
 
-"But if thinking consists only in writing or speaking, why shouldn't a machine
-do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?
-Could it have internal states? "It is a travesty of the truth to say: thinking
-is an activity of our mind, as writing is an activity of the
-hand" [@wittgenstein_philosophical_1974, 17].
+        1B4A2 "finding it easy to repair mistakes or wrong
+        choices
 
-Wittgenstein's conversations with Turing about the ways by which physical
-states pass into the symbolic ones and the other way around, prefigure the
-operation of the universal Turing machine. The Turing machine occupies exactly
-the described ambiguous state between symbol and mechanism.
+            1B4A22 "so while capturing a thought I don't
+            have to inhibit the outpouring of thought and
+            action to do it with particular correctness,
 
-This line of questioning was certainly already familiar to those students of
-Wittgenstein who attended his earlier lectures at Cambridge, and who
-undoubtedly have participated in his reading-related thought experiments.
-Wittgenstein's reading and calculating machines were meant to challenge the
-very notions of reading and calculating.
+        1B4A3 "finding that several trials at the right
+        wording can be done very quickly
 
-Turing returned to the problem of machine and human intelligence explicitly
-[@turing_computing_1950]. Here, Turing proposes to reformulate Wittgenstein's
-original question (Can machines think?) into what he calls the "imitation
-game." The format would surely please his former professor: three people---a
-man, a woman, and an interrogator of either sex---would communicate by
-teletype. The object of the game for the interrogator is to determine the
-gender of the individual behind the screen. The object of the game for the
-other two participants is to fool the interrogator. And here is the twist: the
-part of one of the participants (not the interrogator) would be played by a
-machine.
+            1B4A3A "so I can experiment, easily take a look
+            and see how a new version strikes me--and often
+            the first unworried attempt at a way to express
+            something turn out to be satisfactory, or at
+            least to require only minor touch up.
 
-The question "Can a machine think?" becomes then, "Will the interrogator decide
-wrongly as often when the game is played like this as he does when the game is
-played between a man and a woman?" [@turing_computing_1950, 433]. The striking
-transposition of the cognitive activity (thinking) into its functional
-discursive equivalent (misrepresenting one's identity in writing) echoes
-Wittgenstein's playful thought experiments. The machine that thinks is a
-machine that tells tall-tales. On this view, a convincing imitation of thought
-is thought. We would simply not be able to prove otherwise, without peeking
-behind the teletype screen to see who or what is doing the typing. In that
-sense, Turing returns to Wittgenstein's refusal to locate the mark of the
-cognitive within any given organ or activity. Thought is simply that which
-looks (sounds, reads) like thought---it is a game that we play, and a game that
-could conceivably be played by other entities, mechanical or otherwise. For our
-purposes, it is interesting to note that Turing's chat-bot does not simply
-compute or calculate.  It is a literary machine. It does not just imitate human
-logic or speech.  Instead, it imitates (performs!) fibbing. It is able to
-imagine a fictional story about an alternative identity, and ultimately to
-convince its reader of the story's veracity.
+        1B4A4 "Finding that where I might otherwise
+        hesitate in search of the right word, I now pour out
+        a succession of potentially appropriate words,
+        leaving them all the while the rest of the
+        statement takes shape. Then I select from among
+        them, or replace them all, or else merely change the
+        list a it and wait for a later movement of the
+        spirit.
+```
 
-In the shift from the cognitive to the discursive, Turing follows the
-trajectory of Wittgenstein's thought experimentation. Moreover, the game is
-tinged with distinctly sexual overtones, and in the context of an
-interrogation. It is a game in which winning means transgressing either one's
-gender or one's species, all the while maintaining a straight face. The
-proposed language game is not simply conversational, it is suspenseful and
-subversive, having the force of a mystery, a detective novel, or a legal
-drama. At one point of the essay Turing answers what he calls "the argument
-from consciousness," quoting one Professor Jefferson in saying that it is not
-"until a machine can write a sonnet or compose a concerto because of thoughts
-and emotions felt, and not by the chance fall of symbols, could we agree that
-machine equals brain---that is, not only write it but know that it had written
-it. No mechanism could feel (and not merely artificially signal, an easy
-contrivance) pleasure at its successes, grieve when its valves fuse, be warmed
-by flattery, be made miserable by its mistakes, be charmed by sex, be angry or
-depressed when it cannot get what it wants" [@turing_computing_1950, 446].
+When input and output coincide in time, as they do on paper, mistakes can be
+costly. The writer must commit to making an inscription and, once made, the
+inscription gains permanence in a way that is difficult to correct. One can
+erase, removing a layer of physical material, or cover up, adding a layer of
+white ink to repair the damage. Engelbart's anonymous writer reports a feeling
+of freedom from such commitment to physical medium. He or she can simply
+"backspace" and start over. The contemporary reader may take such things for
+granted now, but imagine trying to write in that way for the first time.
+Writing "comes easy," becomes "uninhibited," and it "pours out" experimentally.
+Rather than manipulate language mentally, the writer "pours" the words onto the
+screen and then "selects" the right one, without hesitation. The highly
+hierarchical and blocky paragraph structure, along with its repetitive refrain,
+"finding" and "I find that," gives the prose a hypnotic drive forward, which
+matches the reported experience of liberation. Anonymous continues:
 
-In response Turing scripts the following conversation: 
+```
+    1B4B "I find that,
 
-> Interrogator: In the first line of your sonnet which reads 'Shall I compare
-thee to a summer's day' would not 'a spring day' do as well or better?
+        1B4B1 "being much more aware of
 
-> Witness: It would not scan.
+            1B4B1A "the relationships among the phrases of a
+            sentence,
 
-> Interrogator: How about 'a winter's day.' That
-would scan all right.
+            1B4B1B "among the statements of a list,
 
-> Witness: Yes, but nobody want to be compared to a
-winter's day.
+            1B4B1C "and among the various level and members
+            of a branch,
 
-> Interrogator: Would you say Mr.  Pickwick reminded you of Christmas?
+        1B4B2 "being able
 
-> Witness: In a way.
+            1B4B2A "to view them in different ways,
 
-> Interrogator: Yet Christmas is a winter's day, and I do not think
-Mr. Pickwick would mind the comparison.
+            1B4B2B "to rearrange them easily,
 
-> Witness: I don't think you're serious.
-By a winter's day one means a typical winter's day, rather than a special one
-like Christmas [@turing_computing_1950, 447].
+            1B4B2C "to experiment with certain special
+            portrayals,
 
-Add Plato. Reading is proper internalization. Interpretation is the scanned
-symbol + state of the machine.
+                1B4B2C1 "not available easily in unstructured data
 
-Literature as imitation game == mimesis, simulation.
+                1B4B2C2 "or usable without the CRT display,
 
-[^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
-Room" experiment [@searle_minds_1980].
+        1B4B3 "and being aware that
 
-[^ln1-enigma]: See the enigmatic fragment on @wittgenstein_remarks_1978, 372.
+            1B4B3A "I can (and am seeking to) develop still
+            further special conventions and computer aids
+
+            1B4B3B "to make even more of this available and
+            easy,
+
+        1B4B4 "all tend to increase
+
+            1B4B4A "my interest and experimentation
+
+            1B4B4B "and my conviction that this is but a
+            peek at what is to come soon.
+```
+
+The passages are too contrived to be spontaneous admissions of phenomenological
+experience. Despite the experimental structure, the passages contain a
+well-formed rhetorical message advancing key elements of Engelbart's research
+program, which aimed to develop new data structures in combination with new
+ways of displaying them. Yet I cannot help but be carried away by the fluency
+of the prose and by the sheer audacity of the project. Here's someone who has
+not only glimpsed the future, but has also brought it into being. The
+contemporary author can drag and drop passages around with more facility, but
+he has not himself structured his cognitive environment. In Engelbart's terms,
+someone else has augmented the author's intellect, in ways that may or may not
+fit the individual psyche. That feeling of effortless textuality cannot
+therefore be taken at face value, by the unreliable phenomenological accounts
+alone. To bring his system into being, Engelbart convened what he called a
+"bootstrap community," which through recursive self-improvement could lift
+itself up towards a smarter, more efficient, and as the report's lexicon
+betrays, a more human way of working. To accomplish this, the group crafted
+novel instruments for input and output. They wrote new programming languages,
+compilers to interpret them, and debuggers to troubleshoot. They invented word
+editors and format control languages. Here's how Engelbart diagrams a *part* of
+his text-manipulation language in the same report:
+
+!["State--chart portrayal of part of text--manipulation control language"
+[@engelbart_human_1969, 36].](images/engel-edit.png)
+
+The diagram shows much attention to the detail of and love for the writing
+craft. But there is also much complexity. It is near impenetrable. In building
+their own tools, Engelbart's team lifted themselves up by the bootstraps. But
+it was not the machine that lifted them up---it was the process of creating the
+machine. The very metaphor of bootstrapping suggests the impossibility of using
+one's bootstraps to pull others out of the Platonic cave. As a side effect of
+that effort, text, before readily apparent on the page, now enters a complex
+system of executable code and control structure. The perception of material
+lightness of textual being comes at the price of legibility. Would new authors
+find the same ease in the complication of the mechanism? I suspect not unless
+they become an active part of a "bootstrapping community" of their own.
+
+[^ln1-brain]: We will later entertain the (real) possibility of
+non-representational communication, suggested by early experiments in direct
+brain-to-brain or brain-to-machine interfaces.
 
 ## 2.2 Form as Concrete and Universal
 
@@ -875,539 +1162,6 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## 3.1 WYSINAWYG (What You See Is Not Always What You Get)
-
-I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
-magnetic storage the "enduring ephemeral," which "creates unforeseen
-degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
-the floating gate transistor,[^ln1-gate] where my text now lives, can be called
-the enduring ephemeral, I will call my liquid crystal display, where the text
-shows itself, fading persistence. This is not to believe that text on the
-screen lacks materiality. Not at all. Only that it seems to drift from surface
-to surface, beyond the field of vision, in ways that erode trust in the general
-permanence of the literary system. If we are destined to dwell on surfaces, I
-do not know to which surface to attach my attention: the screen or the floating
-gate.
-
-I have before me at least two inscriptions: one as circuit state on my hard
-drive, and another as crystal phase on the screen. They denote the same idea,
-but in two distinct places. How did this duplicity come to be? And what impact
-does it have on the life of a mind? In an attempt to answer, I offer the
-following three historical preconditions for digital textuality. They are not
-meant as history, but rather as signposts to mark the journey ahead. The schema
-proceeds roughly as follows: first, content and control couple at the visible
-surface of removable storage media (ticker tape and punch card); second,
-inscription splits into input and output, retreating into magnetic storage to
-reemerge at last on screen, in the same guise, but also, as we suspect, somehow
-transformed: less solid and concealing something beneath the phantasmal shell
-of its former appearance.[^ln1-denning]
-
-Where does text reside? If you are reading this book in print, you can point to
-the page and be fairly certain of the answer: here, on the page. If you are
-reading the book on a *device*, things get more complicated. You can point to
-the screen and yet it would not be enough to say that the text resides there.
-The screen will go dark when the device loses power, but the text will
-persevere within, stored at another physical location. Deep within a device,
-the text will be embedded into some sort of a storage medium, usually a
-magnetic or a "solid state" drive. Where the digital text resides affects even
-those who prefer to read in print. Like most literature today, print materials
-are also "born digital." At some point of time, they occupy the same
-duplicitous position between storage medium and pixel.
-
-The seeming immateriality of digital media entails real-world effects: the
-costs of replication plummet, for example. Computational text can be copied
-effortlessly, with minimal cost, and with near-perfect fidelity.
-Hyper-reproducibility of the sort was unthinkable for most of the twentieth
-century. The machine allows for rapid remediation. Lowered costs of copying
-further reduce barriers to access and conveyance. Symbols that adhere lightly
-to their medium are easy to store and to transport. Witness the rise of
-massive, global public knowledge projects like online search engines and
-encyclopedias as a direct consequence. Such projects unfold the logic of
-immateriality, which moves towards totalizing archives and universal
-accessibility.[^ln1-google] When representation appears to weigh nothing, one
-imagines a weightless totality of all representation, available immediately and
-everywhere. The perceived weightlessness of text has other side-effects as
-well. For example, a text that adheres lightly to its medium is also difficult
-to contain, making onerous the governance of symbolic representation and
-weakening traditional controls like censorship and intellectual property
-rights.
-
-Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
-Rather, the symbol splits in two: with one half arising visibly, a weightless
-and apparent screen simulation, and the other half, opaque, etched into the
-hefty and hidden material contingencies of the device.
-
-Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
-text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
-[and] contingent" they are both identifying real-world technological
-affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
-@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
-which, when faced with the law prohibiting observant Jews from erasing God's
-name, rule that words on "screens, disks, and tapes" are not to be considered
-as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
-quoted @heim_electric_1987, 192]. Other technological and legal fictions rise
-to restore a measure of "stickiness" to electronic media. For example,
-manufacturers commonly embed digital rights management circuits into video
-streaming devices to artificially limit the duplication of broadcast material.
-Similarly, electronic book sellers usually disable the reader's ability to copy
-and paste from the material. Such measures mimic some of the constraints
-associated with static, paper-and-ink media regimes.
-
-When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
-respond to Heim and company with hardened materialism, they are also rightly
-identifying actual properties of electronic text. But the two camps speak
-neither of the same phenomenon nor at the same site. The former group points to
-the screen as the impermanent and ephemeral state of the written word: like
-tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
-points instead to the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
-"fundamental physical support" and "material substrates of computing"
-[@drucker_performative_2013]. Both locations, the screen and the disk, are
-real. Neither can be reduced to the other. Both contain distinct constraints
-and affordances for action.
-
-The material substrates of computational text likewise carry real-world
-affordances and consequences. They are first and foremost hidden from view.
-Drives and tapes reside inside of black or aluminum boxes. If only because they
-carry electrical current and have the potential to catch fire, they are
-regulated. They contain heavy and rare metals, often hazardous if touched or
-ingested. The computational part of the sign is sealed in miniaturized
-containers that prevent access and to resist tempering. These are but some of
-the realities of material text. It is text intertwined with machine internals
-and control code and it is often hermeneutically sealed to resist human
-interpretation.
-
-Few readers today will be able to give an account of a pixel's passage from
-keystroke to ink or pixel. The vast machinery that brings literature to life
-hides from the reader's view. Literature conceals. Even on the level of
-stylistics, writing well is meant to evoke a sense of ease where it is usually
-the product of painstaking labor. Let us hold on to that intuition for the
-duration of this chapter: writing conceals labor.
-
-I want to foreshadow now what will become the punchline of the whole book:
-namely that the ghost in the machine cannot be reduced to some vague notions of
-value---these amount to a distraction, which lies plainly upon the surface. The
-conspicuous ghostly apparition (indicating the absence of a living subject) is
-agency itself, which, for now, necrotically attaches itself to dead things like
-systems, mediums, and automated discourses. If all this talk of value, ghosts,
-and necromancy sounds familiar, the reader will not be surprised when I advance
-Karl Marx as a preeminent theorist of the algorithm and someone able to help us
-reason through Kittler's computational conundrum. On towards Marx then (who
-will appear much later), through the machine that, although intimately familiar
-to every writer and consumer of text by touch, remains alien and alienating in
-its hidden possibilities, soothing and threatening all at once.
-
-[^ln1-translate]: "In our discussion of this text we have been using an
-authoritative French translation of Plato, the one published by Guillaume Bude.
-In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
-refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
-71]."
-
-[^ln1-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
-Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
-Principle Researcher at Microsoft Research and then a professor at the
-University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
-appeared in the same volume of collected essays, @herken_universal_1988.
-
-[^ln1-bottom]: For example, in the Open Systems Interconnection (OSI) model of
-communication, the top-most layer of protocols and interface method is called
-the "application layer" and the bottom-most layer the "physical layer"
-[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
-being "responsible for encoding bits onto a transmission medium, whether wires,
-fiber optics, or radio broadcast, in ways that maximize the transmission rate
-and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
-
-[^ln1-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
-
-[^ln1-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
-
-[^ln1-alt]: "We have to think (in a completely novel way) the relation between
-a science and the ideology [...] the fact that such an investigation confronts
-us with the observation that every science, in the relationship it has with
-ideology it emerged from, can only be thought as a 'science of ideology, would
-disconcert us, were we not forewarned of the name of the *object* of knowledge,
-which can only exist in the form of ideology" [@althusser_reproduction_2014,
-46].
-
-[^ln1-derr]: See @derrida_writing_1978. I am alluding particularly to
-statements like "ethnology-like any science-comes about within the element of
-discourse," and "this moment was that in which language invaded the universal
-problematic; that in which, in the absence of a center or origin, everything
-became discourse-provided we can agree on this word-that is to say, when
-everything became a system where the central signified, the original or
-transcendental signified, is never absolutely present outside a system of
-differences. The absence of the transcendental signified extends the domain and
-the interplay of signification ad infinitum" (278-294).
-
-[^ln1-flip]: There is a long-standing joke in Marxist literature that involves
-flipping Hegel, who prioritized the transcendent spiritual over the physical
-and material forms of life, over "back to his feet." See for example
-@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
-a table out of it. Yet, for all that, the table continues to be that common,
-every-day thing, wood. But, so soon as it steps forth as a commodity, it is
-changes into something transcendent. It not only stands with its feed on the
-ground, but, in relation to all other commodities, it stands on its head, and
-evolves out of its wooden brain grotesque ideas, far more wonderful than
-'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
-dialectic of the concept itself became merely the conscious reflex of the
-dialectical motion of the real world and the dialectic of Hegel was placed upon
-its head; or rather, turned off its head, on which it was standing before, and
-placed on its feet again" (44).
-
-
-As we embark to explore the consequences of simulated text, I propose we keep
-the following three landmark mechanisms in view as signpost along our journey:
-Goldberg's Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of
-these, text structure and machine control lie before us for inspection. The
-second one is mute: a black slate. The last of these belongs to what Peter
-Denning calls the "third generation" of computer systems---an assemblage of
-storage, input, and output technologies that continue to shape the contemporary
-human encounter with text today. These devices tell us a story of the fracture.
-Through them, a part of the sign fades from view as an arrangement of magnetic
-charge and floating gate. Another part appears as flicker of the cathode ray
-and the flow of the liquid crystal.
-
-### A. Removable storage media and automation, 1725--1964.[^ln1-loom]
-
-"You must acknowledge that this is readable without special training," reads
-the schematic illustration to a Goldberg 1911 patent, simply titled
-"Controller." "My invention relates to all controllers," Goldberg writes.
-Furthermore, the object of his invention is "to provide a mechanism operable by
-a control sheet which is legible to every person having sufficient education to
-enable him to read." Goldberg illustrates his invention in attaching to his
-patent "a control sheet in which the control characters are in the form of the
-letters of the ordinary English alphabet"  [@goldberg_controller_1915]. Rather
-than using ticker tape, Goldberg uses perforations that form letters. On
-Goldberg's control sheets, the language of machines and the language of humans
-coincide.
-
-![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
-
-The Controller never caught on, but the patent makes it clear that Goldberg,
-among others, was aware of the problem: the mechanization of type, automation,
-and remote control required specialized training. With the advent of the
-automated telegraph, content meant for people was now being intermixed with
-machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
-using cards, perforated in the shape of the English alphabet. Besides carrying
-(human-readable) content, the perforations do "double duty" to mechanically
-manipulate the machine's "blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915]. Early paper-based storage media, from Morse
-code-based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
-punch cards that powered weaving looms, player pianos, and census tabulators
-coupled message and control. The era of ticker tape punch cards can be thought
-to end with the mass-market introduction of IBM's Magnetic Tape/Selectric
-Typewriter in 1964.
-
-### B. Magnetic tape, 1888--1968
-
-"Historically unforeseen, barely a thing, software's ghostly presence produces
-and defies apprehension," Wendy Chun writes in her *Programmed Visions*, an
-influential monograph that continues to shape the field of software studies.
-She quotes several prominent computer scientists and media historians to the
-same effect. But what gives software its ephemeral quality? Embossed onto
-ticker tape or punched into the card, early software protrudes through the
-medium. In the age of the telegraph, the largest barrier to the comprehension
-of software was encoding. But once the cipher is known and the format
-identified, the inscription makes itself visible to view. Early programmable
-media could hardly be called ephemeral or immaterial. Anecdotes circulate in
-the digital humanities circles of Father Roberto Busa, an early (post-WWII)
-pioneer in the field of computational philology, carting his punch cards around
-Italy on a truck.[^ln3-busa] Code before its electromagnetic period was
-burdensome, fragile, unwieldy, and, most of all, visible.
-
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
-under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
-
-The principles of magnetic recording were developed by Oberlin Smith (among
-others), the American engineer who also filed several inventions related to
-weaving looms at the end of the nineteenth century. In 1888, inspired by
-Edison's mechanical phonograph, Smith made public his experiments with an
-"electrical method" of sound recording using a "magnetized cord" (cotton mixed
-with hardened steel dust) as a recording medium. These experiments were later
-put into practice by Valdemar Poulsen of Denmark, who patented several
-influential designs for a magnetic wire recorder [@smith_possible_1888;
-@poulsen_method_1900; @engel_1888-1988_1988; @thiele_magnetic_1988;
-@daniel_magnetic_1998; @vasic_coding_2004].
-
-In 1964, IBM combined magnetic tape storage with its *Selectric* line of
-electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
-typewriters to the mass market. Writing for the *Encyclopedia of Library and
-Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
-first word processors, defined by the ability to record strokes and to print
-them onto paper *as a separate operation* [@eisenberg_word_1992]. The
-separation of input and output allows for word processing as such. An article
-in the *IBM Journal for Research and Development* explains that the real
-significance of the MT/ST workstation was in the introduction of new "power
-typing" technologies: "For the first time the typist could type at 'rough
-draft' speed, 'backspace and strike over' errors, and not worry about the
-pressure of mistakes made at the end of the page" [@may_ibm_1981, 742].
-
-We may think of word processing as a temporal extension of the page. Words on
-magnetic storage media begin to exist in the ephemeral state, giving the typist
-an opportunity to edit and emend *before* commitment to paper, in its immutable
-form, and as a separate operation, removed from the immediate process of
-inscription. The very invention of word processing thus corresponds to the
-decline of text into ephemera. What was visible through a hole punch on ticker
-tape, was now submerged into tape. The tape no longer afforded human legibility
-nor comprehension. Encoding used by MT/ST retained the familiar (from the
-earlier sections) underlying structure (7-bit encoding, in this case) which, on
-tape, ceased to be recoverable by the naked eye. The inscription lay literally
-beyond (human) sense. We lack the perceptual apparatus to perceive "magnetic
-domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
-Magnetic storage remains, for all unassisted intents and purposes, a black
-slate.
-
-### C. Screen, 1968--today
-
-By decoupling input and output, magnetic storage and solid state media afford
-the injection of time and space, in arbitrary intervals, between the process of
-inscription and comprehension. Content, coupled with control code, sinks
-beneath the matte surface of electrical charge. The final movement in the
-emergence of automated discourse reintroduces the illusion of immediacy into
-the process of inscription. Text, invisible in its material substratum,
-reappears on the screen, but, crucially, it no longer corresponds to its mirror
-inscription. This property is as perilous as it is liberating: perilous,
-because the flows of power and control can now be submerged under the
-shimmering surface of the screen, and liberating, because loosely coupled to
-their material substratum texts become both more fluid and more portable.
-Plainly put, the systematic barriers to copying, sharing, exchanging, editing,
-remixing, and disseminating texts are reduced to a minimum.
-
-Ersatz skeuomorphism (between disk storage and screen image) leads to the
-reception of digital text as an ephemeral artifact. With the illusory role of
-the screen in mind, I propose 1968 as the year in which the contemporary
-textual condition takes its present form. On December 9, 1968 Douglas
-Engelbart, then founder and primary investigator at the NASA- and ARPA-funded
-Augmentation Research Center lab at the Stanford Research Institute, gave what
-later became known colloquially as "the mother of all demos
-[@tweney_mother_2008]" before an audience of roughly one thousand or so
-computer professionals attending the Fall Joint Computer Conference held at the
-Convention Center in San Francisco [@rogers_demo_2005]. The demo announced the
-arrival of almost every technology prophesied by Vannevar Bush in his
-influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a little
-over an hour,  through a headset, in a prerecorded address, Engelbart features
-functional (live) prototypes of the following: graphical user interfaces, video
-conferencing, remote camera monitoring, links and hypertext, version control,
-text search, image manipulation, windows-based user interfaces, digital slides,
-networked machines, mouse, stylus, and joystick inputs, and "what you see is
-what you get" (WYSIWYG) word processing.
-
-!["NOW IS THE TIME FOB." Schematics for a "display system"
-[@engelbart_x-y_1970].](images/engel.png)
-
-In his report to NASA, which sponsored research on "intellect augmentation"
-along with DARPA, Engelbart describes his lab as a group of scientists
-"developing an experimental laboratory around an interactive, multiconsole
-computer-display system" and "working to learn the principles by which
-interactive computer aids can augment the intellectual capability of the
-subjects" [@engelbart_human_1969, 1]. Cathode Ray Tube (CRT) displays were
-central to this research mission. In one of many patents that came out of
-"intellect augmentation" laboratory, Engelbart pictures the "display system" as
-a workstation that combines a typewriter, a CRT, and a mouse. The system is
-frozen in mid-action, with the words "THE TIME IS NOW FOB" prominently
-displayed on the screen. Although Engelbart does not explain the message, the
-system's user is evidently in the process of editing a sentence and about to
-correct the nonsensical FOB into a FOR. Engelbart writes, "One of the
-potentially most promising means for delivering and receiving information to
-and from digital computers involves the display of computer outputs as visual
-representation on a cathode ray tube and the alternation of the display by
-human operator in order to deliver instructions to the computer"
-[@engelbart_x-y_1970].
-
-The CRT closes the circuit between human and machine, with a few caveats. In
-practice, the short-lived screen-less word processors (like the IBM MT/ST)
-necessitated for the cognitively arduous task of continuously keeping the
-underlying document structure in the mind's eye. The CRT lifts that burden by
-unfolding the structure topographically, allowing for spatial navigation along
-the document---restoring, in a sense, the natural affordances of print. Data
-becomes visible again. Moreover, represented in the shimmer of the cathode ray,
-it attaches itself lightly to the retina. Users trying out this way of writing
-for the first time report that the screen liberates them from the material
-confines of print textuality. One user, possibly Engelbart himself, writes the
-following:[^ln3-follow]
-
-[^ln3-follow]: I reproduce the text verbatim and preserving the line breaks,
-since formatting is an important part of the reported experience.
-
-```
-    1B2B1 "To accommodate and preserve a thought or
-    piece of information that isn't related to the work
-    of the moment, one can very quickly and easily
-    insert a note within the structure of a file at such
-    a place that it will nether get in the way nor get
-    lost.
-
-    1B2B2 "Later, working in another part of the file,
-    he can almost instantly (e.g. within two seconds)
-    return to the place where he temporarily is storing
-    such notes, to modify or add to any of them.
-
-    1B2B3 "As any such miscellaneous thought develops,
-    it is easy (and delightful) to reshape the structure
-    and content of its discussion material.
-```
-
-Engelbart, interested in collecting empirical phenomenological accounts of the
-system, records what must count as several of the most evocative passages to
-appear on the pages of a NASA technical report. In the "Results and Discussion"
-section an anonymous user continues to report:
-
-```
-1B4 "I find that I can express myself better, if I can
-make all the little changes and experiments with wording
-and structure as they occur to me." [Here the user
-experiments a little with using structural decomposition
-of a complex sentence.]
-```
-
-A deconstruction indeed follows, as the author begins to deviate from the
-conventions of the technical report. The numbered passages, and unexpected
-enjambment, heightens the staccato quality of the prose, which at times reaches
-towards the lyric:
-
-
-```
-    1B4A "I find that I write faster and more freely,
-
-        1B4A1 "pouring thoughts and trial words on the
-        screen with much less inhibition,
-
-        1B4A2 "finding it easy to repair mistakes or wrong
-        choices
-
-            1B4A22 "so while capturing a thought I don't
-            have to inhibit the outpouring of thought and
-            action to do it with particular correctness,
-
-        1B4A3 "finding that several trials at the right
-        wording can be done very quickly
-
-            1B4A3A "so I can experiment, easily take a look
-            and see how a new version strikes me--and often
-            the first unworried attempt at a way to express
-            something turn out to be satisfactory, or at
-            least to require only minor touch up.
-
-        1B4A4 "Finding that where I might otherwise
-        hesitate in search of the right word, I now pour out
-        a succession of potentially appropriate words,
-        leaving them all the while the rest of the
-        statement takes shape. Then I select from among
-        them, or replace them all, or else merely change the
-        list a it and wait for a later movement of the
-        spirit.
-```
-
-When input and output coincide in time, as they do on paper, mistakes can be
-costly. The writer must commit to making an inscription and, once made, the
-inscription gains permanence in a way that is difficult to correct. One can
-erase, removing a layer of physical material, or cover up, adding a layer of
-white ink to repair the damage. Engelbart's anonymous writer reports a feeling
-of freedom from such commitment to physical medium. He or she can simply
-"backspace" and start over. The contemporary reader may take such things for
-granted now, but imagine trying to write in that way for the first time.
-Writing "comes easy," becomes "uninhibited," and it "pours out" experimentally.
-Rather than manipulate language mentally, the writer "pours" the words onto the
-screen and then "selects" the right one, without hesitation. The highly
-hierarchical and blocky paragraph structure, along with its repetitive refrain,
-"finding" and "I find that," gives the prose a hypnotic drive forward, which
-matches the reported experience of liberation. Anonymous continues:
-
-```
-    1B4B "I find that,
-
-        1B4B1 "being much more aware of
-
-            1B4B1A "the relationships among the phrases of a
-            sentence,
-
-            1B4B1B "among the statements of a list,
-
-            1B4B1C "and among the various level and members
-            of a branch,
-
-        1B4B2 "being able
-
-            1B4B2A "to view them in different ways,
-
-            1B4B2B "to rearrange them easily,
-
-            1B4B2C "to experiment with certain special
-            portrayals,
-
-                1B4B2C1 "not available easily in unstructured data
-
-                1B4B2C2 "or usable without the CRT display,
-
-        1B4B3 "and being aware that
-
-            1B4B3A "I can (and am seeking to) develop still
-            further special conventions and computer aids
-
-            1B4B3B "to make even more of this available and
-            easy,
-
-        1B4B4 "all tend to increase
-
-            1B4B4A "my interest and experimentation
-
-            1B4B4B "and my conviction that this is but a
-            peek at what is to come soon.
-```
-
-The passages are too contrived to be spontaneous admissions of phenomenological
-experience. Despite the experimental structure, the passages contain a
-well-formed rhetorical message advancing key elements of Engelbart's research
-program, which aimed to develop new data structures in combination with new
-ways of displaying them. Yet I cannot help but be carried away by the fluency
-of the prose and by the sheer audacity of the project. Here's someone who has
-not only glimpsed the future, but has also brought it into being. The
-contemporary author can drag and drop passages around with more facility, but
-he has not himself structured his cognitive environment. In Engelbart's terms,
-someone else has augmented the author's intellect, in ways that may or may not
-fit the individual psyche. That feeling of effortless textuality cannot
-therefore be taken at face value, by the unreliable phenomenological accounts
-alone. To bring his system into being, Engelbart convened what he called a
-"bootstrap community," which through recursive self-improvement could lift
-itself up towards a smarter, more efficient, and as the report's lexicon
-betrays, a more human way of working. To accomplish this, the group crafted
-novel instruments for input and output. They wrote new programming languages,
-compilers to interpret them, and debuggers to troubleshoot. They invented word
-editors and format control languages. Here's how Engelbart diagrams a *part* of
-his text-manipulation language in the same report:
-
-!["State--chart portrayal of part of text--manipulation control language"
-[@engelbart_human_1969, 36].](images/engel-edit.png)
-
-The diagram shows much attention to the detail of and love for the writing
-craft. But there is also much complexity. It is near impenetrable. In building
-their own tools, Engelbart's team lifted themselves up by the bootstraps. But
-it was not the machine that lifted them up---it was the process of creating the
-machine. The very metaphor of bootstrapping suggests the impossibility of using
-one's bootstraps to pull others out of the Platonic cave. As a side effect of
-that effort, text, before readily apparent on the page, now enters a complex
-system of executable code and control structure. The perception of material
-lightness of textual being comes at the price of legibility. Would new authors
-find the same ease in the complication of the mechanism? I suspect not unless
-they become an active part of a "bootstrapping community" of their own.
-
-[^ln1-brain]: We will later entertain the (real) possibility of
-non-representational communication, suggested by early experiments in direct
-brain-to-brain or brain-to-machine interfaces.
-
 ## 2.5 Malicious Code Injection
 
 In presenting canonical models of document structure, it is my hope to convince
@@ -1509,6 +1263,8 @@ succeeds when readers reclaim the underlying material conditions of their
 meaning making. The very architects of the "smart" literary device tell us: the
 answer to the machine remains in the machine.
 
+## Notes
+
 [^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
@@ -1601,9 +1357,75 @@ meccanico e la sensibilità numerica]
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-### Works Cited
+[^ln1-translate]: "In our discussion of this text we have been using an
+authoritative French translation of Plato, the one published by Guillaume Bude.
+In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
+refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
+71]."
 
-### Text
+[^ln1-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln1-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer"
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
+being "responsible for encoding bits onto a transmission medium, whether wires,
+fiber optics, or radio broadcast, in ways that maximize the transmission rate
+and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln1-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln1-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln1-alt]: "We have to think (in a completely novel way) the relation between
+a science and the ideology [...] the fact that such an investigation confronts
+us with the observation that every science, in the relationship it has with
+ideology it emerged from, can only be thought as a 'science of ideology, would
+disconcert us, were we not forewarned of the name of the *object* of knowledge,
+which can only exist in the form of ideology" [@althusser_reproduction_2014,
+46].
+
+[^ln1-derr]: See @derrida_writing_1978. I am alluding particularly to
+statements like "ethnology-like any science-comes about within the element of
+discourse," and "this moment was that in which language invaded the universal
+problematic; that in which, in the absence of a center or origin, everything
+became discourse-provided we can agree on this word-that is to say, when
+everything became a system where the central signified, the original or
+transcendental signified, is never absolutely present outside a system of
+differences. The absence of the transcendental signified extends the domain and
+the interplay of signification ad infinitum" (278-294).
+
+[^ln1-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
+
+## Odds and Ends
 
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
 and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A

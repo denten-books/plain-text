@@ -215,6 +215,29 @@ closest possible reading.
 
 ## "reading" from the perspective of a copy machine
 
+I want to foreshadow now what
+will become the punchline of the whole book: namely that the ghost in the
+machine cannot be reduced to some vague notions of value---these amount to a
+distraction, which lies plainly upon the surface. The conspicuous ghostly
+apparition (indicating the absence of a living subject) is agency itself,
+which, for now, necrotically attaches itself to dead things like systems,
+mediums, and automated discourses. If all this talk of value, ghosts, and
+necromancy sounds familiar, the reader will not be surprised when I advance
+Karl Marx as a preeminent theorist of the algorithm and someone able to help us
+reason through Kittler's computational conundrum. On towards Marx then (who
+will appear much later), through the machine that, although intimately familiar
+to every writer and consumer of text by touch, remains alien and alienating in
+its hidden possibilities, soothing and threatening all at once.  
+
+
+When viewed in the context of book history, the universal Turing machine
+signifies a consummation of several broad, long-term trends that begin with the
+invention of writing itself.  The material history of literary
+computing begins with petrified words that endure forever, and ends with word
+as an electrical charge: animated, radiant, fluid, and iridescent
+[@mcgann_radiant_2001; @bryant_fluid_2002].
+Device. Splits All type is moveable type. At the same tim
+
 which "sees" pages
 as monolithic images. 
 
