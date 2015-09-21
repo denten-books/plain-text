@@ -468,7 +468,9 @@ smelting iron is to make literal the figure suggested by media "archeology" on
 the level of the mechanism. In *Plain Text* we will dig through, unearth, and
 excavate textual machines.
 
-## Microanalysis
+### Microanalysis
+
+Object of study.
 
 Why am I reading Ltour. Because latour gives us a way to see much lit.
 
