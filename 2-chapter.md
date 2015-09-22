@@ -22,17 +22,52 @@ themselves belong to the history of the book: both in the lineage of thought
 about symbolic interpretation and as a mechanism for the communication of
 symbols.
 
-In this chapter, I would like begin exploring some of the consequences of
-device-bound textuality. Most of what we read today passes through some form of
-digital being. Even if you are reading something in the form of a tradition
-paper-and
+Once we encounter the book as a computational device, we can begin to come to
+terms with the simulated nature of screen textuality. Matter, form, and content
+lie flat on the printed page. Print interfaces are paper thin, we might say.
+Ink adheres to paper in the way that pixels do not to screens. The splintered
+sign resides in at least two distinct locations, each entailing drastically
+differing affordances for reading, writing, and interpretation.
 
-Once we encounter the book as a computational device, we must come to terms
-with the simulated nature of screen textuality. Matter, form, and content lie
-flat on the printed page. Print interfaces are paper thin, we might say. Ink
-adheres to paper in the way that pixels do not to screens. The splintered sign
-resides in at least two distinct locations, each entailing drastically
-differing affordances for reading.
+Where does text reside? If you are reading this book in print, you can point to
+the page and be fairly certain of the answer: here, on the page. If you are
+reading the book on a *device*, things get more complicated. You can point to
+the screen and yet it would not be enough to say that the text resides there.
+The screen will go dark when the device loses power, but the text will
+persevere within, stored at another physical location. Deep within a device,
+the text lodges itself into some sort of a storage medium, usually a magnetic
+or a "solid state" drive. I have before me at least two inscriptions: one as
+circuit state on my hard drive, and another as crystal phase on the screen.
+They denote the same idea, but in two distinct places. How did this duplicity
+come to be? And what impact does it have on the life of a mind?
+
+This chapter concerns itself with the structure of the simulated sign. My
+interests here lie with form: both as a conflicted concept in literary theory
+and as a historical condition that now guides the production of all digital
+text. This chapter is in part a story of how engineers of the mid-twentieth
+century and onwards formalized the logical relationship between the components
+of any given document. That structure continues to inform textual media from
+web pages, to electronic books, and other document formats. The chapter is also
+therefore in part a history of formalism itself. You may think of it as a
+meeting of two formalisms: one literary and one computational. Athough there
+are few direct intertextual links between the two traditions, there is much to
+suggest an inderect influence linkied to common sources. The two overlap
+historically. As literary formalism subsides in the decades following World War
+II, a new computational formalism emerges in the nascent discipline of computer
+science. The conditions of screen textuality demand a reexamination of document
+structure. In the late 1960s and early 1970s engineers confront the problem of
+representing paper docomunts on a computer screen.
+
+The extension of formalism to the screen, on the level of document structure,
+is a significant milestone in the material history of text. The research
+program of 
+
+textuality. Most of what we read today passes through some form of digital
+being. Even if you are reading something on paper, it is likely that your text
+was prepared digitally, in a process that includes proofreading, typesetting,
+graphic design, and other forms of remidiation. For this reason, it is
+absolutely crucial that we identify the material divergences of print and
+computed text. 
 
 Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
 text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
@@ -72,19 +107,9 @@ points instead to the "uniquely indelible nature of magnetic storage"
 [@drucker_performative_2013]. Both locations, the screen and the disk, are
 real. Neither can be reduced to the other. Both contain distinct constraints
 and affordances for action.
+
 ## 2.1 WYSINAWYG (What You See Is Not Always What You Get)
 
-Where does text reside? If you are reading this book in print, you can point to
-the page and be fairly certain of the answer: here, on the page. If you are
-reading the book on a *device*, things get more complicated. You can point to
-the screen and yet it would not be enough to say that the text resides there.
-The screen will go dark when the device loses power, but the text will
-persevere within, stored at another physical location. Deep within a device,
-the text lodges itself into some sort of a storage medium, usually a magnetic
-or a "solid state" drive. I have before me at least two inscriptions: one as
-circuit state on my hard drive, and another as crystal phase on the screen.
-They denote the same idea, but in two distinct places. How did this duplicity
-come to be? And what impact does it have on the life of a mind?
 
 In this section, I would like to give a short historical account of a letter's
 passage from keystroke to pixel. The movement proceeds in three stages, as
@@ -97,8 +122,6 @@ devices, the invention of magnetic tape submerged the mixed stream of letters
 and control codes into an inscrutable substance. Finally, by the mid-twentieth
 century, the screen emerged to simulate a measure of legibility lost in the
 transition.
-
-
 
 The seeming immateriality of digital media entails real-world effects: the
 costs of replication plummet, for example. Computational text can be copied
