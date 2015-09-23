@@ -1,4 +1,6 @@
-# Chapter 2: Splitting the Sign
+# Chapter 2: WYSINAWYG (What You See Is Not Always What You Get)
+
+## Intro
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -21,7 +23,7 @@ machines. Finally, I argued that Turing machines themselves belong to the
 history of the book, both in the lineage of thought about symbolic
 interpretation and as mechanisms for their transmission.
 
-Once we see the digital document it all of its forms for what it is, a
+Once we see the digital document in all of its forms for what it is, a
 computational device, we can begin to come to terms with the simulated nature
 of screen textuality. Ask yourself a simple question: Where does text reside?
 In print, one can point to the page and be fairly certain of the answer: here,
@@ -54,25 +56,44 @@ disks" as the "fundamental physical support" and "material substrates of
 computing" [@drucker_performative_2013]. The hard drive and the screen splinter
 the sign between depth and surface, archive and projection.
 
-How did this duplicity come to be? And what impact does it have on the life of
-the mind? This chapter concerns itself with the structure of the simulated
+Form and content lie flat on the printed page. Print interfaces are paper thin,
+we might say. Ink adheres to paper in the way that pixels do not to screens.
+The splintered sign complicates the traditional structuralist destinctions
+between form and content. The computed sign reresides in at least two distinct
+locations, each entailing drastically differing affordances for reading,
+writing, and interpretation. Were we to untangle the tightly wound coil of the
+circuit, we would find ample distance between the archive and the projection.
+Where print is flat computed text resides in several level in multiple
+dimensions [@halyes code is flat].
+
+How did this multiplicity come to be? What fits into the space between the
+visible sign and the stored inscription? The purpose of this chapter is to open
+the space between 
+
+
+concerned here form.  Form leads us to surface and depth, shape and formula,
+content and structure.
+
 sign. I mean structure in the sense of a its formal properties, like its shape
 and position of the screen. And I mean it also in the sense of a formula that
-gives rise to letters, words, and pages. Textual primitives of that sort
-exhibit remarkable historical stability. One rarely sees a sentence span the
-paragraph for example. Nor would a contemporary reader expect to encounter
-pages of different length in the same volume. The production of text is guided
-by long-standing historical conventions, that have developed over centuries.
-Semantic and decorative units on a page exist within a strict hierarchy, so
-familiar to us as to become almost invisible. A well made book fades into the
-background in the process of reading. The paper, the fonts, the margins
-disappear from view, as they should. But when the sign split in the way I have
-suggested above, in process that happened gradually in the twentieth century, a
-new generation of typesetters and bookbinders were faced with a new reality.
-None of the material restrictions related to print applied to projected text.
-The computed book presented new possibilities and new constraints. I suggest in
-this chapter that this time was, after the literary formalisms of early
-modernism, the second flourishing of literary formalism
+gives rise to letters, words, and pages, 
+
+Textual primitives of that sort exhibit remarkable historical stability. One
+rarely finds a sentence that spans several paragraphs, for example. Nor would a
+contemporary reader expect to encounter pages of different length in the same
+volume. Long-standing historical conventions continue to guide the production
+of printed text. Semantic and decorative units on a page exist within a strict
+hierarchy, so familiar to us as to become almost invisible. A well made book
+fades into the background in the process of reading. The paper, the fonts, the
+margins disappear from view. We will have to do some work to bring them back in
+to light. In this chapter, I trace the develpment of the simulated sign
+
+when the sign split in the way I have
+suggested above, in process that happened gradually over the course of the
+twentieth century, a generation of typesetters and bookbinders were faced with
+a new reality. None of the material restrictions related to print applied to
+simulated text. The computed book presented new challenges and new
+possibilities. A
 
 Fundamental to the study of literature, the very idea of form presents
 some interesting theoretical problems. It has a long and conflicting history,
@@ -98,7 +119,7 @@ screen.
 
 The extension of formalism to the screen, on the level of document structure,
 is a significant milestone in the material history of text. The research
-program of 
+program of
 
 textuality. Most of what we read today passes through some form of digital
 being. Even if you are reading something on paper, it is likely that your text
@@ -119,8 +140,7 @@ impossible to prevent users from capturing the visual output. Once released,
 the projection can be ca
 
 
-## 2.1 WYSINAWYG (What You See Is Not Always What You Get)
-
+## 2.1 Markers of Legibility
 
 In this section, I would like to give a short historical account of a letter's
 passage from keystroke to pixel. The movement proceeds in three stages, as
@@ -166,12 +186,12 @@ tempering. These are but some of the realities of material text. It is text
 intertwined with machine internals and control code and it is often
 hermeneutically sealed to resist human interpretation.
 
-Give an account of a pixel's passage from
-keystroke to ink or pixel. The vast machinery that brings literature to life
-hides from the reader's view. Literature conceals. Even on the level of
-stylistics, writing well is meant to evoke a sense of ease where it is usually
-the product of painstaking labor. Let us hold on to that intuition for the
-duration of this chapter: writing conceals labor.
+Give an account of a pixel's passage from keystroke to ink or pixel. The vast
+machinery that brings literature to life hides from the reader's view.
+Literature conceals. Even on the level of stylistics, writing well is meant to
+evoke a sense of ease where it is usually the product of painstaking labor. Let
+us hold on to that intuition for the duration of this chapter: writing conceals
+labor.
 
 In answer, I offer the following three historical preconditions for digital
 textuality. They are not meant as history, but rather as signposts to mark the
@@ -524,7 +544,8 @@ they become an active part of a "bootstrapping community" of their own.
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
-## 2.2 Form as Concrete and Universal
+## Formalisms
+### 2.2 Form as Concrete and Universal
 
 What does it mean to have "depth" in writing? Understood literally, the
 question has lead us to the various surfaces on which inscription can take
@@ -739,7 +760,7 @@ matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conciet and device, where the embodied
 meets the ideal.
 
-## 2.3 Sound and Formula
+### 2.3 Sound and Formula
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -1009,7 +1030,7 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning," in these not at all futuristic conditions,[^ln3-reading]
 involves turning hermeneutics into reverse engineering.
 
-## 2.4 Document Object Model (DOM)
+### 2.4 Document Object Model (DOM)
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
