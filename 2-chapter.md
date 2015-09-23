@@ -12,51 +12,89 @@ permanence of the literary system. If we are destined to dwell on surfaces, I
 do not know to which surface to attach my attention: the screen or the floating
 gate.
 
-In Chapter One of *Plain Text*, we have encountered the book as a device. I
-have argued that the intellectual roots of a literary device can be traced to
-several ideas emerging at the turn of the twentieth century. We saw it first as
-a formal device: a technique for defamiliarizing or making strange habituated
-metaphors. We then saw it as a literal device, related to the operation of
-universal Turing machines. Finally, I have argued that Turing machines
-themselves belong to the history of the book: both in the lineage of thought
-about symbolic interpretation and as a mechanism for the communication of
-symbols.
+In Chapter One of *Plain Text*, we encountered the book as a device. I traced
+the intellectual roots of the literary artifact to several ideas emerging at
+the turn of the twentieth century. We saw it first as a formal device: a
+technique for defamiliarizing or making strange habituated metaphors. We then
+saw it as a literal device, related to the operation of universal Turing
+machines. Finally, I argued that Turing machines themselves belong to the
+history of the book, both in the lineage of thought about symbolic
+interpretation and as mechanisms for their transmission.
 
-Once we encounter the book as a computational device, we can begin to come to
-terms with the simulated nature of screen textuality. Matter, form, and content
-lie flat on the printed page. Print interfaces are paper thin, we might say.
-Ink adheres to paper in the way that pixels do not to screens. The splintered
-sign resides in at least two distinct locations, each entailing drastically
-differing affordances for reading, writing, and interpretation.
+Once we see the digital document it all of its forms for what it is, a
+computational device, we can begin to come to terms with the simulated nature
+of screen textuality. Ask yourself a simple question: Where does text reside?
+In print, one can point to the page and be fairly certain of the answer: here,
+on the page. Computation complicates matters significantly. One can point to
+the screen, yet it would not be enough to say that the text resides there. The
+screen remains in flux. It is a site of projection and has no permanence. The
+projection emanates from a storage medium within. It passes through multiple
+filters and transformations. We therefore observe the figure stretch before us
+across at least two sites of inscription. The sign splits, expressed in the
+configuration of magnetic pulse and circuit state at one end, in the phases of
+liquid crystal on screen at the other. Both locations afford distinct
+constraints to reading, writing, and interpretation.
 
-Where does text reside? If you are reading this book in print, you can point to
-the page and be fairly certain of the answer: here, on the page. If you are
-reading the book on a *device*, things get more complicated. You can point to
-the screen and yet it would not be enough to say that the text resides there.
-The screen will go dark when the device loses power, but the text will
-persevere within, stored at another physical location. Deep within a device,
-the text lodges itself into some sort of a storage medium, usually a magnetic
-or a "solid state" drive. I have before me at least two inscriptions: one as
-circuit state on my hard drive, and another as crystal phase on the screen.
-They denote the same idea, but in two distinct places. How did this duplicity
-come to be? And what impact does it have on the life of a mind?
+Thus when Michael Heim refers to the "ephemeral quality" of the electronic text
+or when Pamela McCorduck describes it as "impermanent, flimsy, malleable, [and]
+contingent" they identify real-world attributes of digital inscription, at the
+site of its projection. McCorduck tells the story of a rabbinate court, which,
+when faced with the law prohibiting observant Jews from erasing God's name,
+rule that words on "screens, disks, and tapes" are not to be considered as
+writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
+quoted @heim_electric_1987, 192]. Conversely, when scholars like Johnna
+Drucker, Katherine Hayles, and Matthew Kirschenbaum respond to Heim and company
+with hardened materialism, they are also rightly describing properties of
+digital inscription, at the site of its archival immanence. The two camps
+disagree because they speak neither of the same phenomenon nor at the same
+location. The former group notices the ephemeral, transcendent state of the
+projected word. The latter points instead to the "uniquely indelible nature of
+magnetic storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and
+disks" as the "fundamental physical support" and "material substrates of
+computing" [@drucker_performative_2013]. The hard drive and the screen splinter
+the sign between depth and surface, archive and projection.
 
-This chapter concerns itself with the structure of the simulated sign. My
-interests here lie with form: both as a conflicted concept in literary theory
-and as a historical condition that now guides the production of all digital
-text. This chapter is in part a story of how engineers of the mid-twentieth
-century and onwards formalized the logical relationship between the components
-of any given document. That structure continues to inform textual media from
-web pages, to electronic books, and other document formats. The chapter is also
-therefore in part a history of formalism itself. You may think of it as a
-meeting of two formalisms: one literary and one computational. Athough there
-are few direct intertextual links between the two traditions, there is much to
-suggest an inderect influence linkied to common sources. The two overlap
-historically. As literary formalism subsides in the decades following World War
-II, a new computational formalism emerges in the nascent discipline of computer
-science. The conditions of screen textuality demand a reexamination of document
-structure. In the late 1960s and early 1970s engineers confront the problem of
-representing paper docomunts on a computer screen.
+How did this duplicity come to be? And what impact does it have on the life of
+the mind? This chapter concerns itself with the structure of the simulated
+sign. I mean structure in the sense of a its formal properties, like its shape
+and position of the screen. And I mean it also in the sense of a formula that
+gives rise to letters, words, and pages. Textual primitives of that sort
+exhibit remarkable historical stability. One rarely sees a sentence span the
+paragraph for example. Nor would a contemporary reader expect to encounter
+pages of different length in the same volume. The production of text is guided
+by long-standing historical conventions, that have developed over centuries.
+Semantic and decorative units on a page exist within a strict hierarchy, so
+familiar to us as to become almost invisible. A well made book fades into the
+background in the process of reading. The paper, the fonts, the margins
+disappear from view, as they should. But when the sign split in the way I have
+suggested above, in process that happened gradually in the twentieth century, a
+new generation of typesetters and bookbinders were faced with a new reality.
+None of the material restrictions related to print applied to projected text.
+The computed book presented new possibilities and new constraints. I suggest in
+this chapter that this time was, after the literary formalisms of early
+modernism, the second flourishing of literary formalism
+
+Fundamental to the study of literature, the very idea of form presents
+some interesting theoretical problems. It has a long and conflicting history,
+which I cannot hope to summarize here. What I can do, however, is to point at
+some common inconsistencies in the literature about form.
+
+Form interests me both as a conflicted as a conflicted concept in literary
+theory and as a historical condition that now guides the production of all
+digital text. This chapter is in part a story of how engineers of the
+mid-twentieth century and onwards formalized the logical relationship between
+the components of any given document. That structure continues to inform
+textual media from web pages, to electronic books, and other document formats.
+The chapter is also therefore in part a history of formalism itself. You may
+think of it as a meeting of two formalisms: one literary and one computational.
+Though there are few direct intertextual links between the two traditions,
+there is much to suggest an indirect influence linked to common sources. The
+two overlap historically. As literary formalism subsides in the decades
+following World War II, a new computational formalism emerges in the nascent
+discipline of computer science. The conditions of screen textuality demand a
+reexamination of document structure. In the late 1960s and early 1970s
+engineers confront the problem of representing paper documents on a computer
+screen.
 
 The extension of formalism to the screen, on the level of document structure,
 is a significant milestone in the material history of text. The research
@@ -69,44 +107,17 @@ graphic design, and other forms of remidiation. For this reason, it is
 absolutely crucial that we identify the material divergences of print and
 computed text. 
 
-Thus when when Michael Heim refers to the "ephemeral quality" of the electronic
-text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
-[and] contingent" they are both identifying real-world technological
-affordances of simulated screen textuality [@mccorduck_universal_1985, 51;
-@heim_electric_1987, 211]. McCorduck tells the story of a rabbinate court,
-which, when faced with the law prohibiting observant Jews from erasing God's
-name, rule that words on "screens, disks, and tapes" are not to be considered
-as writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
-quoted @heim_electric_1987, 192]. Other technological and legal fictions rise
-to restore a measure of "stickiness" to electronic media. For example,
-manufacturers commonly embed digital rights management circuits into video
-streaming devices to artificially limit the duplication of broadcast material.
-Similarly, electronic book sellers usually disable the reader's ability to copy
-and paste from the material. Such measures mimic some of the constraints
-associated with static, paper-and-ink media regimes.
+Technological and legal fictions rise to restore a measure of
+"stickiness" to text in its ephemeral form. For example, manufacturers commonly
+embed digital rights management circuits into video streaming devices to
+artificially limit the duplication of broadcast material. Similarly, electronic
+book sellers usually disable the reader's ability to copy and paste from the
+material. Such measures mimic some of the constraints associated with static,
+paper-and-ink-bound media regimes. Device makers can and often do attempt to
+prohibit copying on the level of hardware and software, but it is almost
+impossible to prevent users from capturing the visual output. Once released,
+the projection can be ca
 
-Thus when Michael Heim refers to the "ephemeral quality" of the electronic text
-or when Pamela McCorduck describes it as "impermanent, flimsy, malleable, [and]
-contingent" they identify real-world capabilities of simulated screen
-textuality. And when scholars like Johnna Drucker, Katherine Hayles, and
-Matthew Kirschenbaum respond with hardened materialism, they are also rightly
-describing physical properties of the archived inscription. But the two camps
-speak neither of the same phenomenon nor at the same site. The hard drive and
-the screen splinter the sign between depth and surface. Both locations afford
-distinct constraints to access, storage, and interpretation.
-
-When scholars like Johnna Drucker, Katherine Hayles, and Matthew Kirschenbaum
-respond to Heim and company with hardened materialism, they are also rightly
-identifying actual properties of electronic text. But the two camps speak
-neither of the same phenomenon nor at the same site. The former group points to
-the screen as the impermanent and ephemeral state of the written word: like
-tomatoes suspended in aspic, writes Heim [@heim_electric_1987, ix]. The latter
-points instead to the "uniquely indelible nature of magnetic storage"
-[@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
-"fundamental physical support" and "material substrates of computing"
-[@drucker_performative_2013]. Both locations, the screen and the disk, are
-real. Neither can be reduced to the other. Both contain distinct constraints
-and affordances for action.
 
 ## 2.1 WYSINAWYG (What You See Is Not Always What You Get)
 

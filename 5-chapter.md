@@ -1,5 +1,12 @@
 # Chapter 5: Engineering for Dissent (Control)
 
+Matter, form, and content lie flat on the printed page. Print interfaces are
+paper thin, we might say. Ink adheres to paper in the way that pixels do not to
+screens. The splintered sign resides in at least two distinct locations, each
+entailing drastically differing affordances for reading, writing, and
+interpretation. Were we to untangle the tightly wound coil of the circuit, we
+would find ample distance between the archive and the projection.
+
 ## Gerard Genette and Nelson Goodman on the nature of textual copies,
 
 ## 3.4 Hyper Erudition
