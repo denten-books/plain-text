@@ -33,8 +33,8 @@ screen remains in flux. It is a site of projection and has no permanence. The
 projection emanates from a storage medium within. It passes through multiple
 filters and transformations. We therefore observe the figure stretch before us
 across at least two sites of inscription. The sign splits, expressed in the
-configuration of magnetic pulse and circuit state at one end, in the phases of
-liquid crystal on screen at the other. Both locations afford distinct
+configuration of magnetic pulse and circuit state at one end and in the phases
+of liquid crystal on screen at the other. Both locations afford distinct
 constraints to reading, writing, and interpretation.
 
 Thus when Michael Heim refers to the "ephemeral quality" of the electronic text
@@ -42,19 +42,19 @@ or when Pamela McCorduck describes it as "impermanent, flimsy, malleable, [and]
 contingent" they identify real-world attributes of digital inscription, at the
 site of its projection. McCorduck tells the story of a rabbinate court, which,
 when faced with the law prohibiting observant Jews from erasing God's name,
-rule that words on "screens, disks, and tapes" are not to be considered as
-writing, therefore sanctioning erasure [@mccorduck_universal_1985, 51; also
-quoted @heim_electric_1987, 192]. Conversely, when scholars like Johnna
-Drucker, Katherine Hayles, and Matthew Kirschenbaum respond to Heim and company
-with hardened materialism, they are also rightly describing properties of
-digital inscription, at the site of its archival immanence. The two camps
-disagree because they speak neither of the same phenomenon nor at the same
-location. The former group notices the ephemeral, transcendent state of the
-projected word. The latter points instead to the "uniquely indelible nature of
-magnetic storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and
-disks" as the "fundamental physical support" and "material substrates of
-computing" [@drucker_performative_2013]. The hard drive and the screen splinter
-the sign between depth and surface, archive and projection.
+rule that words on the screen are not to be considered as writing, therefore
+sanctioning erasure [@mccorduck_universal_1985, 51; also quoted
+@heim_electric_1987, 192]. Conversely, when scholars like Johnna Drucker,
+Katherine Hayles, and Matthew Kirschenbaum respond to Heim and company with
+hardened materialism, they are also rightly describing properties of digital
+inscription, at the site of its archival immanence. The two camps disagree
+because they speak neither of the same phenomenon nor at the same location. The
+former group notices the ephemeral, transcendent state of the projected word.
+The latter points instead to the "uniquely indelible nature of magnetic
+storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
+"fundamental physical support" and "material substrates of computing"
+[@drucker_performative_2013]. The hard drive and the screen splinter the sign
+between surface and depth, projection and archive.
 
 Form and content lie flat on the printed page. Print interfaces are paper thin,
 we might say. Ink adheres to paper in the way that pixels do not to screens.
@@ -63,21 +63,23 @@ between form and content. The computed sign resides in at least two distinct
 locations, each entailing drastically differing affordances for reading,
 writing, and interpretation. Were we to untangle the tightly wound coil of the
 circuit, we would find ample distance between the archive and the projection.
-Where print is flat computed text resides in several level in multiple
+Where print is flat, computed text resides at several levels and along multiple
 dimensions [@halyes code is flat].
 
-How did this multiplicity come to be? The purpose of this chapter is to open
-the space between the visible sign and the stored inscription. I am interested
-here in the long history of formalism. in the binaries of
+How did this multiplicity come to be? And what effect does it have on the life
+of the mind? The purpose of this chapter is to open the space between the
+visible sign and the stored inscription.
+
+I am interested here in the long history of formalism. in the binaries of
 surface and depth, shape and formula, content and structure.
 
-1. Form is fundamentally misunderstood. 
+1. Form is fundamentally misunderstood.
 2. From Plato to Hegel to the Russian formalists, form is used to designate
 both external shape and internal structure, or formula.
 3. The story of how the sign splits
-3. The document object model represents an advance in formalism. From two to
+4. The document object model represents an advance in formalism. From two to
 three.
-4. Formatting, structure, and control emerge as the mediating layer between
+5. Formatting, structure, and control emerge as the mediating layer between
 text as image and text as code.
 
 Textual primitives that give rise to letters, words, and pages, exhibit
@@ -89,12 +91,11 @@ on a page exist within a strict hierarchy, so familiar to us as to become
 almost invisible. A well made book fades into the background in the process of
 reading. The paper, the fonts, the margins disappear from view. 
 
-Besides the
-history when the sign split in the way I have suggested above, in process that
-happened gradually over the course of the twentieth century, a generation of
-typesetters and bookbinders were faced with a new reality. None of the material
-restrictions related to print applied to simulated text. The computed book
-presented new challenges and new possibilities. A
+Besides the history when the sign split in the way I have suggested above, in
+process that happened gradually over the course of the twentieth century, a
+generation of typesetters and bookbinders were faced with a new reality. None
+of the material restrictions related to print applied to simulated text. The
+computed book presented new challenges and new possibilities. A
 
 Fundamental to the study of literature, the very idea of form presents
 some interesting theoretical problems. It has a long and conflicting history,
