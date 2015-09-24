@@ -58,42 +58,43 @@ the sign between depth and surface, archive and projection.
 
 Form and content lie flat on the printed page. Print interfaces are paper thin,
 we might say. Ink adheres to paper in the way that pixels do not to screens.
-The splintered sign complicates the traditional structuralist destinctions
-between form and content. The computed sign reresides in at least two distinct
+The splintered sign complicates the traditional structuralist distinctions
+between form and content. The computed sign resides in at least two distinct
 locations, each entailing drastically differing affordances for reading,
 writing, and interpretation. Were we to untangle the tightly wound coil of the
 circuit, we would find ample distance between the archive and the projection.
 Where print is flat computed text resides in several level in multiple
 dimensions [@halyes code is flat].
 
-How did this multiplicity come to be? What fits into the space between the
-visible sign and the stored inscription? The purpose of this chapter is to open
-the space between 
+How did this multiplicity come to be? The purpose of this chapter is to open
+the space between the visible sign and the stored inscription. I am interested
+here in the long history of formalism. in the binaries of
+surface and depth, shape and formula, content and structure.
 
+1. Form is fundamentally misunderstood. 
+2. From Plato to Hegel to the Russian formalists, form is used to designate
+both external shape and internal structure, or formula.
+3. The story of how the sign splits
+3. The document object model represents an advance in formalism. From two to
+three.
+4. Formatting, structure, and control emerge as the mediating layer between
+text as image and text as code.
 
-concerned here form.  Form leads us to surface and depth, shape and formula,
-content and structure.
+Textual primitives that give rise to letters, words, and pages, exhibit
+remarkable historical stability. One rarely finds a sentence that spans several
+paragraphs, for example. Nor would a contemporary reader expect to encounter
+pages of different length in the same volume. Long-standing historical
+conventions guide the production of printed text. Semantic and decorative units
+on a page exist within a strict hierarchy, so familiar to us as to become
+almost invisible. A well made book fades into the background in the process of
+reading. The paper, the fonts, the margins disappear from view. 
 
-sign. I mean structure in the sense of a its formal properties, like its shape
-and position of the screen. And I mean it also in the sense of a formula that
-gives rise to letters, words, and pages, 
-
-Textual primitives of that sort exhibit remarkable historical stability. One
-rarely finds a sentence that spans several paragraphs, for example. Nor would a
-contemporary reader expect to encounter pages of different length in the same
-volume. Long-standing historical conventions continue to guide the production
-of printed text. Semantic and decorative units on a page exist within a strict
-hierarchy, so familiar to us as to become almost invisible. A well made book
-fades into the background in the process of reading. The paper, the fonts, the
-margins disappear from view. We will have to do some work to bring them back in
-to light. In this chapter, I trace the develpment of the simulated sign
-
-when the sign split in the way I have
-suggested above, in process that happened gradually over the course of the
-twentieth century, a generation of typesetters and bookbinders were faced with
-a new reality. None of the material restrictions related to print applied to
-simulated text. The computed book presented new challenges and new
-possibilities. A
+Besides the
+history when the sign split in the way I have suggested above, in process that
+happened gradually over the course of the twentieth century, a generation of
+typesetters and bookbinders were faced with a new reality. None of the material
+restrictions related to print applied to simulated text. The computed book
+presented new challenges and new possibilities. A
 
 Fundamental to the study of literature, the very idea of form presents
 some interesting theoretical problems. It has a long and conflicting history,
