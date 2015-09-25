@@ -94,9 +94,9 @@ length in the same tome. Long-standing historical conventions guide the
 production of printed text. Semantic and decorative units on a page exist
 within a strict hierarchy, so familiar to us as to become almost invisible. No
 serious academic book will be typeset in cursive font, for example. But unless
-something out of the ordinary stands out, the reader will tend to gloss such
-inconsequential details of formatting in favor of content. A well designed book
-fades from view during reading.
+something out of the ordinary attracts attention, the reader will tend to gloss
+the "inconsequential" details of formatting in favor of content. The material
+contexts of a well designed book fade from view during reading.
 
 For a few decades after the advent of magnetic storage media but before screen
 technology, the outward shape of the sign disappeared altogether. It is
@@ -137,21 +137,25 @@ printed page. The "final printing" combines roughly the "prepared copy" with
 materials from the time often speak of three distinct human operators that
 could be responsible for each stage of the production: one entering the copy,
 one specifying to control codes, and one responsible for handling the paper
-output.
+output. The there machine operators could hypothetically know nothing about
+each other or about the details about their irrespective trades. The typist
+would perceive only elements of the copy; the typesetter or the controller only
+formatting and control codes; and the printer only the interpolated results.
 
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
-innovations. A consultant writing for the *IBM Journal* in 1968 describes the
-"evolution of composition" that proceed from handwriting, to wood engraving,
-movable type, letterpress, and, finally, to the IBM MT/SC. "The IBM Selectric
-Composer provides a new approach to the printing process in this evolution," he
-writes. With this machine the author can once again write books "without the
-assistance of specialists," he concludes [@frutiger, 10].
+contributions to the history of print. A consultant writing for the *IBM
+Journal* in 1968 describes the "evolution of composition" that proceeded from
+handwriting, to wood engraving, movable type, letterpress, and, finally, to the
+IBM MT/SC. "The IBM Selectric Composer provides a new approach to the printing
+process in this evolution," he writes. With this machine the author can once
+again write books "without the assistance of specialists," he concludes
+[@frutiger, 10].
 
-The gap between writing and seeing is what gave rise to the ephemeral quality
-of digital text. Intermediate storage media shelter the word temporarily,
+The gap between writing and seeing is what gives rise to the ephemeral quality
+of digital text. Intermediate storage media shelters the word temporarily,
 before it attaches itself to a "sticky" medium like paper. In this intermediate
-form it can be edited, altered, and otherwise remediated. The spatial
+form it can be edited, altered, and otherwise remediated. However, the spatial
 elongation of the sign comes at a cost. Submerged in the passage between screen
 and paper, the inscription passes from view. In its ephemeral form it is also
 no longer legible to the naked human eye. It reappears again on the screen
@@ -174,17 +178,15 @@ interpretation. To understand their operation we must reconsider our easy
 dismissal of "mere formatting." Formatting, long a marginal concept in
 literary interpretation is central to computational hermeneutics.
 
-## 2.1 Formalisms
+Peeling apart the layers of simulated text reveals at least three distinct
+composites: first, the unadorned content which carries most of the semantic
+burden; second, the material layer or the medium that fixes the inscription,
+and finally, for the lack of a better word, formatting. But far from an
+inconsequential embellishment, formatting essentially governs the interface
+between meaning and matter, thought and page. It has the capability to
+embellish, to govern, to obscure, to censor, and to emend.
 
-I think of this chapter as a meeting of two formalisms: one literary and one
-computational.  Though there are few direct intertextual links between the two
-traditions, there is much to suggest an indirect influence linked to common
-sources. The two overlap historically. As literary formalism subsides in the
-decades following World War II, a new computational formalism emerges in the
-nascent discipline of computer science. The conditions of screen textuality
-demand a reexamination of document structure. In the late 1960s and early 1970s
-engineers confront the problem of representing paper documents on a computer
-screen.
+## 2.1 Formalisms
 
 ### Form as Concrete and Universal
 
