@@ -60,11 +60,11 @@ partition the sign between surface and depth, projection and archive.
 Form and content lie flat on the printed page. Print interfaces are paper thin,
 we might say. Ink adheres to paper in the way that pixels do not to screens.
 The splintered sign complicates the traditional structuralist distinctions
-between form and content. The computed sign resides in at least two distinct
-locations, each entailing drastically differing affordances for reading,
-writing, and interpretation. Were we to untangle the tightly wound coil of the
-circuit, we would find ample distance between the archive and the projection.
-Where print is flat, computed text resides at several levels and along multiple
+between form and content. The computed sign occupies at least two distinct
+spaces, each entailing drastically differing affordances for reading, writing,
+and interpretation. Were we to untangle the tightly wound coil of the circuit,
+we would find ample distance between the archive and the projection.  Where
+print is flat, computed text resides at several levels and along multiple
 dimensions [@halyes code is flat].
 
 How did this multiplicity come to be? And what effect does it have on the life
@@ -86,17 +86,17 @@ formalism, related to, yet categorically distinct from formalism in literary
 studies. The changing conditions of literary production necessitated a thorough
 reevaluation of textual primitives that give rise to letters, words, and pages.
 
-The structure of textual artifacts from a simple leaflet to a novel in multiple
-volumes has remained remarkably stable since the invention of movable type. One
-rarely finds a sentence that spans several paragraphs, for example. Nor would a
-contemporary reader expect to encounter pages of different length in the same
-tome. Long-standing historical conventions guide the production of printed
-text. Semantic and decorative units on a page exist within a strict hierarchy,
-so familiar to us as to become almost invisible. No serious academic book will
-be typeset in cursive font, for example. But unless something out of the
-ordinary stands out, the reader will tend to gloss such inconsequential details
-of formatting in favor of the content. A well designed book will fade from view
-during reading.
+The structure of textual artifacts---from a simple leaflet to a novel in
+multiple volumes---has remained remarkably stable since the invention of
+movable type. One rarely finds a sentence that spans several paragraphs, for
+example. Nor would a contemporary reader expect to encounter pages of different
+length in the same tome. Long-standing historical conventions guide the
+production of printed text. Semantic and decorative units on a page exist
+within a strict hierarchy, so familiar to us as to become almost invisible. No
+serious academic book will be typeset in cursive font, for example. But unless
+something out of the ordinary stands out, the reader will tend to gloss such
+inconsequential details of formatting in favor of content. A well designed book
+fades from view during reading.
 
 For a few decades after the advent of magnetic storage media but before screen
 technology, the outward shape of the sign disappeared altogether. It is
@@ -120,50 +120,46 @@ control" unit to separate the input from the output. Final printing would be
 accomplished by:
 
 > mounting the original tape and the correction tape, if any, on the
-two-station reader output unit, setting the pitch, leading, impression control
-and dead key space of the composer unit to the desire values, and entering
-set-up instructions on the console control (e.g., one-station or two-station
-tape read, depending on whether the correction tape is present; line count
-instructions for the format control and space to be left for pictures, etc.;
-special format instructions; and any required control codes known to be omitted
-from the input tape. During printing, the operator changes type elements when
-necessary, loads paper as required, and makes and enters hyphenation decisions
-if justified copy is being printed [@bishop, 382].
+> two-station reader output unit, setting the pitch, leading, impression
+> control and dead key space of the composer unit to the desire values, and
+> entering set-up instructions on the console control (e.g., one-station or
+> two-station tape read, depending on whether the correction tape is present;
+> line count instructions for the format control and space to be left for
+> pictures, etc.; special format instructions; and any required control codes
+> known to be omitted from the input tape. During printing, the operator
+> changes type elements when necessary, loads paper as required, and makes and
+> enters hyphenation decisions if justified copy is being printed [@bishop,
+> 382].
 
 The tape unit and the control unit thus intervene between the keyboard and the
 printed page. The "final printing" combines roughly the "prepared copy" with
 "control and reference codes" and "printer output" [@bishop; @may]. The
 materials from the time often speak of three distinct human operators that
 could be responsible for each stage of the production: one entering the copy,
-one specifying to control codes, and one responsible for handling paper.
+one specifying to control codes, and one responsible for handling the paper
+output.
 
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
 innovations. A consultant writing for the *IBM Journal* in 1968 describes the
 "evolution of composition" that proceed from handwriting, to wood engraving,
-movable type, letterpress, and, finally, the IBM MT/SC. "The IBM Selectric
+movable type, letterpress, and, finally, to the IBM MT/SC. "The IBM Selectric
 Composer provides a new approach to the printing process in this evolution," he
 writes. With this machine the author can once again write books "without the
 assistance of specialists," he concludes [@frutiger, 10].
 
-The advent of the screen restored a measure of immediate
-correspondence between words visible and words in process.
-
-The gap between writing and seeing is what gives rise to the ephemeral
-quality of digital text. The magnetic tape gave the word a temporary home.
-There it is not yet committed to a "sticky" medium like paper. It can be edited,
-altered, and otherwise remediated. Yet that new, fluid home also has a
-significant downside. It is not legible to humans. Submerged into a magnetic
-medium, the word disappears from view. It reappears again on the screen
+The gap between writing and seeing is what gave rise to the ephemeral quality
+of digital text. Intermediate storage media shelter the word temporarily,
+before it attaches itself to a "sticky" medium like paper. In this intermediate
+form it can be edited, altered, and otherwise remediated. The spatial
+elongation of the sign comes at a cost. Submerged in the passage between screen
+and paper, the inscription passes from view. In its ephemeral form it is also
+no longer legible to the naked human eye. It reappears again on the screen
 already altered by the intervention of the control unit. The consequences of
-that intervention are immense.  What began as several supplemental control
+that intervention are immense. What began as several supplemental control
 characters for formatting grew into a universal language for symbolic
 manipulation of automated devices. The liberating, ephemeral qualities of
-digital text therefore come at a cost of legibility. And, and as computational
-devices begin to play an ever greater part in mediating human experience more
-generally, and reading in particular the need for an explication of that
-previously inconsequential layer of "mere formatting" becomes ever more
-pressing.
+digital text therefore come at a cost of legibility.
 
 Technological and legal fictions rise to restore a measure of "stickiness" to
 text in its ephemeral form. For example, manufacturers commonly embed digital
@@ -178,6 +174,8 @@ interpretation. To understand their operation we must reconsider our easy
 dismissal of "mere formatting." Formatting, long a marginal concept in
 literary interpretation is central to computational hermeneutics.
 
+## 2.1 Formalisms
+
 I think of this chapter as a meeting of two formalisms: one literary and one
 computational.  Though there are few direct intertextual links between the two
 traditions, there is much to suggest an indirect influence linked to common
@@ -188,7 +186,6 @@ demand a reexamination of document structure. In the late 1960s and early 1970s
 engineers confront the problem of representing paper documents on a computer
 screen.
 
-## 2.1 Formalisms
 ### Form as Concrete and Universal
 
 What does it mean to have "depth" in writing? Understood literally, the
