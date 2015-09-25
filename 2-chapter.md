@@ -186,9 +186,13 @@ inconsequential embellishment, formatting essentially governs the interface
 between meaning and matter, thought and page. It has the capability to
 embellish, to govern, to obscure, to censor, and to emend.
 
-## 2.1 Formalisms
+## Formal Binaries
 
 ### Form as Concrete and Universal
+
+With the above initial considerations in mind, let us revisit a few related and
+foundational binaries in literary studies, namely: surface and depth, form and
+content, immanence and transcendence, concrete and universal.
 
 What does it mean to have "depth" in writing? Understood literally, the
 question has lead us to the various surfaces on which inscription can take
