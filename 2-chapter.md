@@ -30,12 +30,13 @@ In print, one can point to the page and be fairly certain of the answer: here,
 on the page. Computation complicates matters significantly. One can point to
 the screen, yet it would not be enough to say that the text resides there. The
 screen remains in flux. It is a site of projection and has no permanence. The
-projection emanates from a storage medium within. It passes through multiple
-filters and transformations. We therefore observe the figure stretch before us
-across at least two sites of inscription. The sign splits, expressed in the
-configuration of magnetic pulse and circuit state at one end and in the phases
-of liquid crystal on screen at the other. Both locations afford distinct
-constraints to reading, writing, and interpretation.
+projection emanates from the storage medium within, passing through multiple
+filters and transformations on the way to the screen. We therefore observe the
+figure stretch before us across at least two sites of inscription. The sign
+stretches and splits, expressed in the configuration of magnetic pulse and
+circuit state at one end and in the phases of liquid crystal on screen at the
+other. Both locations afford distinct constraints to reading, writing, and
+interpretation.
 
 Thus when Michael Heim refers to the "ephemeral quality" of the electronic text
 or when Pamela McCorduck describes it as "impermanent, flimsy, malleable, [and]
@@ -47,14 +48,14 @@ sanctioning erasure [@mccorduck_universal_1985, 51; also quoted
 @heim_electric_1987, 192]. Conversely, when scholars like Johnna Drucker,
 Katherine Hayles, and Matthew Kirschenbaum respond to Heim and company with
 hardened materialism, they are also rightly describing properties of digital
-inscription, at the site of its archival immanence. The two camps disagree
-because they speak neither of the same phenomenon nor at the same location. The
-former group notices the ephemeral, transcendent state of the projected word.
-The latter points instead to the "uniquely indelible nature of magnetic
-storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and disks" as the
-"fundamental physical support" and "material substrates of computing"
-[@drucker_performative_2013]. The hard drive and the screen splinter the sign
-between surface and depth, projection and archive.
+inscription, but this time at the site of its archival immanence. The two camps
+disagree because they speak neither of the same phenomenon nor at the same
+location. The former group notices the ephemeral, transcendent state of the
+projected word. The latter points instead to the "uniquely indelible nature of
+magnetic storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and
+disks" as the "fundamental physical support" and "material substrates of
+computing" [@drucker_performative_2013]. The hard drive and the screen
+partition the sign between surface and depth, projection and archive.
 
 Form and content lie flat on the printed page. Print interfaces are paper thin,
 we might say. Ink adheres to paper in the way that pixels do not to screens.
@@ -67,58 +68,97 @@ Where print is flat, computed text resides at several levels and along multiple
 dimensions [@halyes code is flat].
 
 How did this multiplicity come to be? And what effect does it have on the life
-of the mind? The purpose of this chapter is to open the space between the
-visible sign and the archived inscription. I will begin by identifying a
-feature of formalist thought that has long gave me pause. The very idea of
-form, central to literary analysis, contains two conflicting concepts. Going
-back to Plato, Hegel, and the reception of Russian formalists, the English
-"form" sometimes refers to the material, outward, and apparent shape of
-something said or pictured. Yet just as often, critics mean to say form in the
-sense of a Platonic ideal: abstracted from matter, inward-facing, and in need
-of explication. Form in that sense is closer to the idea of an algorithm of a
-formula.
+of the mind? The purpose of this chapter is to open space between the visible
+sign and the archived inscription. I will begin by identifying a feature of
+formalist thought that has long given me pause. The very concept of form,
+central to literary analysis, contains in it two conflicting ideas. Going back
+to translations of Plato, Hegel, and the Russian formalists, the English "form"
+renders at times the material, outward, and apparent shape of something said or
+pictured. Yet just as often, critics use form in the sense of a Platonic ideal:
+abstracted from matter, inward-facing, and in need of explication. Form in that
+sense is closer to the idea of an algorithm of a formula.
 
 The two senses of "form" matter because they are crucial to understanding the
-contemporary, bifurcated condition of the sign. I end the chapter with a
-reconstructtion of a crucial moment in the history of literary technology. The
-middle of the twentieth century saw the birth of a new formalism, related to
-yet categorically distinct from formalism in literary studies. The changing
-conditions of literary production necessitated a complete reevaluation of
-textual primitives that give rise to letters, words, and pages. Document
-structure concived in these terms remained remarkably stable since the
-invention of movable type. One rarely finds a sentence that spans several
-paragraphs, for example. Nor would a contemporary reader expect to encounter
-pages of different length in the same volume. Long-standing historical
-conventions guide the production of printed text. Semantic and decorative units
-on a page exist within a strict hierarchy, so familiar to us as to become
-almost invisible. No serious academic book will be typeset in cursive font, but
-unless something out of the ordinary stands out, the reader will tend to gloss
-such details over to privelege the content.
+contemporary, splintered condition of the sign. The discussion of form leads us
+to the reconstruction of a crucial moment in the history of literary
+technology. The middle of the twentieth century saw the birth of a new
+formalism, related to, yet categorically distinct from formalism in literary
+studies. The changing conditions of literary production necessitated a thorough
+reevaluation of textual primitives that give rise to letters, words, and pages.
+
+The structure of textual artifacts from a simple leaflet to a novel in multiple
+volumes has remained remarkably stable since the invention of movable type. One
+rarely finds a sentence that spans several paragraphs, for example. Nor would a
+contemporary reader expect to encounter pages of different length in the same
+tome. Long-standing historical conventions guide the production of printed
+text. Semantic and decorative units on a page exist within a strict hierarchy,
+so familiar to us as to become almost invisible. No serious academic book will
+be typeset in cursive font, for example. But unless something out of the
+ordinary stands out, the reader will tend to gloss such inconsequential details
+of formatting in favor of the content. A well designed book will fade from view
+during reading.
 
 For a few decades after the advent of magnetic storage media but before screen
-technology, the outward shape of the sign disappeared alltogether. It is
+technology, the outward shape of the sign disappeared altogether. It is
 difficult to fathom now, but at the time after the introduction of magnetic
 tape in the 1960s but before the wide-spread advent of cathode ray tube
 displays in the 1980s, the typewriter operator and the computer programmer were
-often expected to manipulate text blindly. Where the page or the punchcard
-provided immedeate visual feedback a decade prior, the very idea of word
-processing separated input from output. The word could be processed or altered
-with codes that controlled attributtes like indent size or justification
-*before* committing ink to paper. The tape unit and the control unit intervened
-between the keyboard and the printed page. The advent of the screen restored a
-measure of immedeate correspondencde between words visible and words in
-process.
+often expected to manipulate text blindly. Where the page or the punch card
+gave immediate visual feedback, the combination of magnetic tape and screen
+separated input from output. The word could be "processed" or altered with
+codes that controlled attributes like indent size or justification *before*
+committing ink to paper. A paper describing the popular IBM Magnetic Tape
+Selectric Typewriter (MT/ST) introduced in 1964 describes the novelty of the
+system as follows:
 
-The gap between writing and seeing is what gives rise to the emephemaral
+> It could be emphasized for the first time that the typist could type at
+> "rough draft" speed, "backspace and strike over" errors, and not worry about
+> the pressure of mistakes made at the end of the page [@may, 742].
+
+The IBM Magnetic Tape Selectric Composer (MT/SC) further added a "programmable
+control" unit to separate the input from the output. Final printing would be
+accomplished by:
+
+> mounting the original tape and the correction tape, if any, on the
+two-station reader output unit, setting the pitch, leading, impression control
+and dead key space of the composer unit to the desire values, and entering
+set-up instructions on the console control (e.g., one-station or two-station
+tape read, depending on whether the correction tape is present; line count
+instructions for the format control and space to be left for pictures, etc.;
+special format instructions; and any required control codes known to be omitted
+from the input tape. During printing, the operator changes type elements when
+necessary, loads paper as required, and makes and enters hyphenation decisions
+if justified copy is being printed [@bishop, 382].
+
+The tape unit and the control unit thus intervene between the keyboard and the
+printed page. The "final printing" combines roughly the "prepared copy" with
+"control and reference codes" and "printer output" [@bishop; @may]. The
+materials from the time often speak of three distinct human operators that
+could be responsible for each stage of the production: one entering the copy,
+one specifying to control codes, and one responsible for handling paper.
+
+Researchers working on these early IBM word processing machines saw the
+separation of print into such distinct strata as one of their major
+innovations. A consultant writing for the *IBM Journal* in 1968 describes the
+"evolution of composition" that proceed from handwriting, to wood engraving,
+movable type, letterpress, and, finally, the IBM MT/SC. "The IBM Selectric
+Composer provides a new approach to the printing process in this evolution," he
+writes. With this machine the author can once again write books "without the
+assistance of specialists," he concludes [@frutiger, 10].
+
+The advent of the screen restored a measure of immediate
+correspondence between words visible and words in process.
+
+The gap between writing and seeing is what gives rise to the ephemeral
 quality of digital text. The magnetic tape gave the word a temporary home.
-There it is not yet commited to a "sticky" medium like paper. It can be edited,
-altered, and otherwise remidiated. Yet that new, fluid home also has a
+There it is not yet committed to a "sticky" medium like paper. It can be edited,
+altered, and otherwise remediated. Yet that new, fluid home also has a
 significant downside. It is not legible to humans. Submerged into a magnetic
-medium, the word dissappears from view. It reappears again on the screen
+medium, the word disappears from view. It reappears again on the screen
 already altered by the intervention of the control unit. The consequences of
 that intervention are immense.  What began as several supplemental control
-characters for formatting grew into a unveral language for symbolic
-manipulation of automated devices. The liberating, ephemaral qualities of
+characters for formatting grew into a universal language for symbolic
+manipulation of automated devices. The liberating, ephemeral qualities of
 digital text therefore come at a cost of legibility. And, and as computational
 devices begin to play an ever greater part in mediating human experience more
 generally, and reading in particular the need for an explication of that
@@ -131,12 +171,12 @@ rights management circuits into video streaming devices to artificially limit
 the duplication of broadcast material. Similarly, electronic book sellers
 usually disable the reader's ability to copy and paste from the material. Such
 measures mimic some of the constraints associated with static,
-paper-and-ink-bound media regimes. Crucially for the practices of unincumbered
+paper-and-ink-bound media regimes. Crucially for the practices of unencumbered
 critical thought, control structures exist in the hidden gap between the two
 parts of the splintered sign. They ultimately control the structure of
 interpretation. To understand their operation we must reconsider our easy
-dismissial of "mere formatting." Formatting, long a marginal concept in
-literary interpetationis central to computational hermeneutics.
+dismissal of "mere formatting." Formatting, long a marginal concept in
+literary interpretation is central to computational hermeneutics.
 
 I think of this chapter as a meeting of two formalisms: one literary and one
 computational.  Though there are few direct intertextual links between the two
