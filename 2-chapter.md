@@ -148,61 +148,59 @@ production was formalized into something called the Document Object Model
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
 contributions to the history of print. A consultant writing for the *IBM
-Journal* in 1968 describes the "evolution of composition" that proceeded from
+Journal* in 1968 described the "evolution of composition" that proceeded from
 handwriting, to wood engraving, movable type, letterpress, and, finally, to the
 IBM MT/SC. "The IBM Selectric Composer provides a new approach to the printing
-process in this evolution," he writes. With this machine the author can once
-again write books "without the assistance of specialists," he concludes
+process in this evolution," he wrote. The machine empowered the writer to once
+again write books "without the assistance of specialists," he concluded
 [@frutiger, 10]. Marketing language aside, the emergence of the Document Object
-Model constitutes a milestone in the history of the printed word. The DOM
+Model constituted a milestone in the history of the printed word. The DOM
 continues to inform document structure today, affecting almost every aspect of
 text presentation from web pages to commercial print typesetters.
 
 The gap between input and output is what gives rise to the ephemeral quality of
 digital text. Temporary storage media located on the way from keyboard to page
-or screen allows for rapid and frequent remidiation. It keeps the ink in
-motion, unattached to a "sticky" medium like paper. However, the spatial
-elongation of the sign also comes at a cost. Submerged in the passage between
-keyboard and screen or paper, the inscription passes from view. In its
-ephemeral "liquid" form it is also no longer legible to the naked human eye. It
-reappears again on the screen or page already "processed," that is, altered by
-the intervention of the control unit. Writing or reading on a device can no
-longer remain a solitary activity. Machine operators far removed from the site
-of interpretation intervene to mediate the encounter between reader and text.
+or screen allows for rapid and frequent remediation. It keeps the ink in motion
+unattached to a "sticky" medium like paper. However, the spatial elongation of
+the sign also comes at a cost. Submerged in the passage between keyboard and
+screen or paper, the inscription passes from view. In its ephemeral "liquid"
+form it is also no longer legible to the naked human eye. It reappears again on
+the screen or page already "processed," that is, altered by the intervention of
+the "control unit." Writing or reading on a device can thus no longer remain a
+solitary activity. Machine operators far removed from the site of
+interpretation intervene to mediate the encounter between reader/writer, and
+text.
 
-The consequences of that intervention are immense. What began as several
-supplemental control characters for formatting grew into a language for
-symbolic manipulation of automated devices. Technological and legal fictions
-rise to restore a measure of "stickiness" to text in its ephemeral form. For
-example, manufacturers commonly embed digital rights management circuits into
-video streaming devices to artificially limit the duplication of broadcast
-material. Similarly, electronic book sellers usually disable the reader's
-ability to copy and paste from the material. Such measures mimic some of the
+The consequences of that intervention are immense. With time, supplemental
+"control characters" designed to format documents fused with programming
+languages, capable of generalized device control. Technological and legal
+fictions rise to restore a measure of "stickiness" to text in its ephemeral
+form. For example, manufacturers commonly embed digital rights management
+circuits into video streaming devices to artificially limit the duplication of
+broadcast material. Similarly, electronic book sellers often prevent readers
+from copying and pasting words on the page. Such measures mimic some of the
 constraints associated with static, paper-and-ink-bound media regimes.
 Crucially for the practices of unencumbered critical thought, control
 structures exist in the hidden gap between the two parts of the splintered
-sign. They ultimately affect the structure of interpretation. To understand
-their inner workings we must reconsider our easy dismissal of "mere
-formatting." In the language of the Document Object Model, the formatting layer
-contains the essence of "machine control." Long a marginal concept in literary
-interpretation, formatting is therefore central to practice of computational
-hermeneutics. Far from mere inconsequential embellishment, formatting governs
-the interface between meaning and matter, thought and page. It has the
-capability to embellish, to obscure, to censor, to govern, and to emend.
+sign. Ultimately, the "control" layer is capable of affecting more than print
+design. It shapes the very structure of interpretation. In the language of the
+Document Object Model, the formatting layer contains the essence of "machine
+control." Long a marginal concept in literary theory, formatting is therefore
+central to the practice of computational hermeneutics. Far from mere
+inconsequential embellishment, formatting governs the interface between meaning
+and matter, thought and page. It has the capability to embellish, to obscure,
+to censor, to govern, and to emend.
 
 ## 2.1 Form as Concrete and Universal
 
-I began the chapter in asking the reader to answer a seemingly innoquous
-question: where does 
-Understood literally, the question has lead us to the various surfaces on
-which inscription can take hold. With the device at hand, we can now consider
-the problem of textual duplicity figuratively, as data object. The model of
-textuality implicit in that object belongs to the history of ideas not usually
-apparent in its everyday use. We may write texts in one way, but talk about
-them in another. My admittedly difficult task here will be to bring the
-traditions of interpreting texts and designing textual systems closer together:
-to perceive a point convergence on document structure between usually disparate
-languages of literary theory and computer science.
+I began the chapter in asking the reader to answer a seemingly innocuous
+question: Where does the computed sign reside? The outlines of an answer led us
+to multiple sites of inscription, some visible and some hidden, some legible
+and others protected from view. I have suggested also that that the familiar
+distinction between form and content fails to capture the crucial "formatting
+and control" layer of the computed sign. My challenge in this chapter lies in
+articulating a point convergence between two complimentary formalisms: literary
+and computational. But the concept
 
 In talking about texts of all kinds, literary scholars and computer scientists
 often make a distinction between form and content. "Classical art, in a word,
@@ -211,14 +209,14 @@ content" [@collingwood_form_1929, 335]. In a much more recent work on
 computational text generation, Kathleen McKeown writes that to produce
 discourse, writers and speakers "must decide what to say and how to present it
 effectively." A machine that generates text should, among other things, be able
-to determine the "content and textual shape" of what needs to be said or written
-[@mckeown_text_1992, 1]. Similarly, in her influential essay "Print Is Flat,
-Code Is Deep," Katherine Hayles writes about "the interplay between a text's
-physical characteristics and its signifying strategies" [@hayles_print_2004,
-72]. In each case, the model underlying textual production involves the
-bifurcation between some notions of outward shape and inward meaning.
-Interpretation, under this model, usually involves moving beyond the apparent
-form to the implicit ideational content.
+to determine the "content and textual shape" of what needs to be said or
+written [@mckeown_text_1992, 1]. Similarly, in her influential essay "Print Is
+Flat, Code Is Deep," Katherine Hayles writes about "the interplay between a
+text's physical characteristics and its signifying strategies"
+[@hayles_print_2004, 72]. In each case, the model underlying textual production
+involves the bifurcation between some notions of outward shape and inward
+meaning.  Interpretation, under this model, usually involves moving beyond the
+apparent form to the implicit ideational content.
 
 Although the distinction between form and content is somewhat naturalized in
 literary and linguistic discourse, the concept of form is often used in another
