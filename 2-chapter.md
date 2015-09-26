@@ -190,24 +190,19 @@ hermeneutics. Far from mere inconsequential embellishment, formatting governs
 the interface between meaning and matter, thought and page. It has the
 capability to embellish, to obscure, to censor, to govern, and to emend.
 
-## Formal Binaries
+## 2.1 Form as Concrete and Universal
 
-### Form as Concrete and Universal
-
-With the above initial considerations in mind, let us revisit a few related and
-foundational binaries in literary studies, namely: surface and depth, form and
-content, immanence and transcendence, concrete and universal.
-
-What does it mean to have "depth" in writing? Understood literally, the
-question has lead us to the various surfaces on which inscription can take
-hold. With the device at hand, we can now consider the problem of textual
-duplicity figuratively, as data object. The model of textuality implicit in
-that object belongs to the history of ideas not usually apparent in its
-everyday use. We may write texts in one way, but talk about them in another. My
-admittedly difficult task here will be to bring the traditions of interpreting
-texts and designing textual systems closer together: to perceive a point
-convergence on document structure between usually disparate languages of
-literary theory and computer science.
+I began the chapter in asking the reader to answer a seemingly innoquous
+question: where does 
+Understood literally, the question has lead us to the various surfaces on
+which inscription can take hold. With the device at hand, we can now consider
+the problem of textual duplicity figuratively, as data object. The model of
+textuality implicit in that object belongs to the history of ideas not usually
+apparent in its everyday use. We may write texts in one way, but talk about
+them in another. My admittedly difficult task here will be to bring the
+traditions of interpreting texts and designing textual systems closer together:
+to perceive a point convergence on document structure between usually disparate
+languages of literary theory and computer science.
 
 In talking about texts of all kinds, literary scholars and computer scientists
 often make a distinction between form and content. "Classical art, in a word,
@@ -411,7 +406,7 @@ matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conciet and device, where the embodied
 meets the ideal.
 
-### Sound and Formula
+## 2.2 Sound and Formula
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -681,7 +676,7 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning," in these not at all futuristic conditions,[^ln3-reading]
 involves turning hermeneutics into reverse engineering.
 
-### Document Object Model (DOM)
+## 2.3 Document Object Model (DOM)
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -901,7 +896,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## 2.1 Mark of Legibility
+## 2.4 Legibile Sign
 
 In this section, I would like to give a short historical account of a letter's
 passage from keystroke to pixel. The movement proceeds in three stages, as
@@ -1305,7 +1300,7 @@ they become an active part of a "bootstrapping community" of their own.
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
-## 2.3 Malicious Code Injection
+## 2.5 Malicious Code Injection
 
 In presenting canonical models of document structure, it is my hope to convince
 the reader of the very real and literal sense of depth manufactured into the
@@ -1577,4 +1572,9 @@ Genette.
 for resemblance between documents" 
 
 Drucker "the totalizing drive of the digital [@drucker2001, 145]."
+
+
+With the above initial considerations in mind, let us revisit a few related and
+foundational binaries in literary studies, namely: surface and depth, form and
+content, immanence and transcendence, concrete and universal.
 
