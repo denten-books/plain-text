@@ -61,9 +61,9 @@ Form and content lie flat on the printed page. Print interfaces are paper thin,
 we might say. Ink adheres to paper in the way that pixels do not to screens.
 The splintered sign complicates the traditional structuralist distinctions
 between form and content. The computed sign occupies at least two distinct
-spaces, each entailing drastically differing affordances for reading, writing,
+spaces, each entailing drastically differing accordances for reading, writing,
 and interpretation. Were we to untangle the tightly wound coil of the circuit,
-we would find ample distance between the archive and the projection.  Where
+we would find ample distance between the archive and the projection. Where
 print is flat, computed text resides at several levels and along multiple
 dimensions [@halyes code is flat].
 
@@ -72,24 +72,25 @@ of the mind? The purpose of this chapter is to open space between the visible
 sign and the archived inscription. I will begin by identifying a feature of
 formalist thought that has long given me pause. The very concept of form,
 central to literary analysis, contains in it two conflicting ideas. Going back
-to translations of Plato, Hegel, and the Russian formalists, the English "form"
+to reception of Plato, Hegel, and the Russian formalists, the English "form"
 renders at times the material, outward, and apparent shape of something said or
 pictured. Yet just as often, critics use form in the sense of a Platonic ideal:
 abstracted from matter, inward-facing, and in need of explication. Form in that
 sense is closer to the idea of an algorithm of a formula.
 
-The two senses of "form" matter because they are crucial to understanding the
-contemporary, splintered condition of the sign. The discussion of form leads us
-to the reconstruction of a crucial moment in the history of literary
-technology. The middle of the twentieth century saw the birth of a new
-formalism, related to, yet categorically distinct from formalism in literary
-studies. The changing conditions of literary production necessitated a thorough
-reevaluation of textual primitives that give rise to letters, words, and pages.
+To understand the physical peculiarity of the computed sign we will have to
+separate the two historical senses of "form" in aesthetic theory. The
+explication of theoretical terms will lead us to the reconstruction of a
+crucial moment in the material history of literary technology. The middle of
+the twentieth century saw the birth of a new formalism, related to, yet
+categorically distinct from formalism in literary studies. The changing
+conditions of literary production necessitated a thorough reevaluation of
+textual primitives that give rise to letters, words, and pages.
 
 The structure of textual artifacts---from a simple leaflet to a novel in
 multiple volumes---has remained remarkably stable since the invention of
 movable type. One rarely finds a sentence that spans several paragraphs, for
-example. Nor would a contemporary reader expect to encounter pages of different
+example. Nor would a contemporary reader expect to find pages of different
 length in the same tome. Long-standing historical conventions guide the
 production of printed text. Semantic and decorative units on a page exist
 within a strict hierarchy, so familiar to us as to become almost invisible. No
@@ -121,7 +122,7 @@ accomplished by:
 
 > mounting the original tape and the correction tape, if any, on the
 > two-station reader output unit, setting the pitch, leading, impression
-> control and dead key space of the composer unit to the desire values, and
+> control and dead key space of the composer unit to the desired values, and
 > entering set-up instructions on the console control (e.g., one-station or
 > two-station tape read, depending on whether the correction tape is present;
 > line count instructions for the format control and space to be left for
@@ -137,10 +138,12 @@ printed page. The "final printing" combines roughly the "prepared copy" with
 materials from the time often speak of three distinct human operators that
 could be responsible for each stage of the production: one entering the copy,
 one specifying to control codes, and one responsible for handling the paper
-output. The there machine operators could hypothetically know nothing about
-each other or about the details about their irrespective trades. The typist
-would perceive only elements of the copy; the typesetter or the controller only
-formatting and control codes; and the printer only the interpolated results.
+output. The machine operators could hypothetically work in isolation from one
+another. The typist would see only elements of the copy; the typesetter or the
+controller only formatting and control codes; and the printer only the
+interpolated results. The relationship between such distinct layers of print
+production was formalized into something called the Document Object Model
+(DOM).
 
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
@@ -150,41 +153,42 @@ handwriting, to wood engraving, movable type, letterpress, and, finally, to the
 IBM MT/SC. "The IBM Selectric Composer provides a new approach to the printing
 process in this evolution," he writes. With this machine the author can once
 again write books "without the assistance of specialists," he concludes
-[@frutiger, 10].
+[@frutiger, 10]. Marketing language aside, the emergence of the Document Object
+Model constitutes a milestone in the history of the printed word. The DOM
+continues to inform document structure today, affecting almost every aspect of
+text presentation from web pages to commercial print typesetters.
 
-The gap between writing and seeing is what gives rise to the ephemeral quality
-of digital text. Intermediate storage media shelters the word temporarily,
-before it attaches itself to a "sticky" medium like paper. In this intermediate
-form it can be edited, altered, and otherwise remediated. However, the spatial
-elongation of the sign comes at a cost. Submerged in the passage between screen
-and paper, the inscription passes from view. In its ephemeral form it is also
-no longer legible to the naked human eye. It reappears again on the screen
-already altered by the intervention of the control unit. The consequences of
-that intervention are immense. What began as several supplemental control
-characters for formatting grew into a universal language for symbolic
-manipulation of automated devices. The liberating, ephemeral qualities of
-digital text therefore come at a cost of legibility.
+The gap between input and output is what gives rise to the ephemeral quality of
+digital text. Temporary storage media located on the way from keyboard to page
+or screen allows for rapid and frequent remidiation. It keeps the ink in
+motion, unattached to a "sticky" medium like paper. However, the spatial
+elongation of the sign also comes at a cost. Submerged in the passage between
+keyboard and screen or paper, the inscription passes from view. In its
+ephemeral "liquid" form it is also no longer legible to the naked human eye. It
+reappears again on the screen or page already "processed," that is, altered by
+the intervention of the control unit. Writing or reading on a device can no
+longer remain a solitary activity. Machine operators far removed from the site
+of interpretation intervene to mediate the encounter between reader and text.
 
-Technological and legal fictions rise to restore a measure of "stickiness" to
-text in its ephemeral form. For example, manufacturers commonly embed digital
-rights management circuits into video streaming devices to artificially limit
-the duplication of broadcast material. Similarly, electronic book sellers
-usually disable the reader's ability to copy and paste from the material. Such
-measures mimic some of the constraints associated with static,
-paper-and-ink-bound media regimes. Crucially for the practices of unencumbered
-critical thought, control structures exist in the hidden gap between the two
-parts of the splintered sign. They ultimately control the structure of
-interpretation. To understand their operation we must reconsider our easy
-dismissal of "mere formatting." Formatting, long a marginal concept in
-literary interpretation is central to computational hermeneutics.
-
-Peeling apart the layers of simulated text reveals at least three distinct
-composites: first, the unadorned content which carries most of the semantic
-burden; second, the material layer or the medium that fixes the inscription,
-and finally, for the lack of a better word, formatting. But far from an
-inconsequential embellishment, formatting essentially governs the interface
-between meaning and matter, thought and page. It has the capability to
-embellish, to govern, to obscure, to censor, and to emend.
+The consequences of that intervention are immense. What began as several
+supplemental control characters for formatting grew into a language for
+symbolic manipulation of automated devices. Technological and legal fictions
+rise to restore a measure of "stickiness" to text in its ephemeral form. For
+example, manufacturers commonly embed digital rights management circuits into
+video streaming devices to artificially limit the duplication of broadcast
+material. Similarly, electronic book sellers usually disable the reader's
+ability to copy and paste from the material. Such measures mimic some of the
+constraints associated with static, paper-and-ink-bound media regimes.
+Crucially for the practices of unencumbered critical thought, control
+structures exist in the hidden gap between the two parts of the splintered
+sign. They ultimately affect the structure of interpretation. To understand
+their inner workings we must reconsider our easy dismissal of "mere
+formatting." In the language of the Document Object Model, the formatting layer
+contains the essence of "machine control." Long a marginal concept in literary
+interpretation, formatting is therefore central to practice of computational
+hermeneutics. Far from mere inconsequential embellishment, formatting governs
+the interface between meaning and matter, thought and page. It has the
+capability to embellish, to obscure, to censor, to govern, and to emend.
 
 ## Formal Binaries
 
@@ -681,16 +685,15 @@ involves turning hermeneutics into reverse engineering.
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
-Document Object Model (which structures the presentation of text everywhere
-from web browsers to commercial print typesetters), the literary-theoretical
-concept of "form" can mean both "class" and "instance" (object-oriented
-programming), or "set" and "object" (set theory), or "type" and "term" (type
-theory). Although literature in computer science rarely operates in the mode of
-intellectual history, computer-aided text editors internalized a model of
-document structure remarkably similar to the one suggested by Hegelian
-aesthetics, and in terms of physical (media), form (formatting), and content
-(text) levels of analysis. The Document Object Model weaves the language of the
-Hegelian universal into the fabric of modern computing.
+Document Object Model, the literary-theoretical concept of "form" can mean both
+"class" and "instance" (object-oriented programming), or "set" and "object"
+(set theory), or "type" and "term" (type theory). Although literature in
+computer science rarely operates in the mode of intellectual history,
+computer-aided text editors internalized a model of document structure
+remarkably similar to the one suggested by Hegelian aesthetics, and in terms of
+physical (media), form (formatting), and content (text) levels of analysis. The
+Document Object Model weaves the language of the Hegelian universal into the
+fabric of modern computing.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
