@@ -173,73 +173,78 @@ the computed sign. In the following sections I would like to dwell on the
 curious contradiction at the heart of formalism itself. Historically, form has
 been used to signify both the material shape of the sign and the idealized
 archetypal "rule book" for its creation. The two senses matter because they
-lead to entirely different strategies of interpretation.
+lead to opposing strategies of interpretation. One seeks to describe, the other
+to explain; one to perceive, the other to reveal.
 
-The outward shape suggests an emphasis on what Susan Sontag deemed the "sensory
-experience" or the "erotics" of art. In her now classic 1966 essay "Against
-Interpretation," Sontag posits transparence as the "highest, most liberating
-value in art and in criticism today." "Transparence means experiencing the
-luminousness of the thing in itself, of things being what they are" she
-explains [@sontag, 9]. Rather than to show what a work of art *means*, Sontag
-urges critics to show "how it is" and "that it is" [@sontag, 10]. To make her
-argument Sontag relies on the distinction between "meaning" or "content" and
-"form" or the "sensory experience" of the work. Interpretation at the level of
-meaning and content is an intellectual and, for Sontag, a reactionary activity
-that aims to find "the maximum amount of content" within. It is reactionary,
-because it serves only to multiply the available "levels of analysis." In
-explicating the work of art the critic essentially creates alternatives copies
-of the original. In this way, Dante's *Inferno* could be experienced again and
-again, with each reading adding to the complexity of the work. To "design," in
-her words, a work of art that can be experienced in this way, on multiple
-levels, might have been "creative" and "revolutionary" in the age of aesthetic
-paucity, when creativity and interpretation were limited to few privileged
-individuals. By contrast, Sontag believes that her times are a period of
-abundance. "Think of the sheer multiplication of works of art available to all
-of us," she writes. Contemporary culture is based on "excess" and "material
-plenitude" which dull the senses. In such conditions, the production of further
-critical variations on the theme only adds to the dulling clutter.
+The distinction between "form" and "content" is one of the basic binaries in
+any formalism, mobilized often in literary criticism and computer science
+alike. "Classical art, in a word, stands for form," R.G.  Collingwood wrote in
+1929, and "romantic art for content" [@collingwood_form_1929, 335]. In a much
+more recent work on computational text generation, Kathleen McKeown writes that
+to produce discourse, writers and speakers "must decide what to say and how to
+present it effectively." A machine that generates text should, among other
+things, be able to determine the "content and textual shape" of what needs to
+be said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
+"Print Is Flat, Code Is Deep," Katherine Hayles writes about "the interplay
+between a text's physical characteristics and its signifying strategies"
+[@hayles_print_2004, 72].
+
+Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
+deemed the "sensory experience" or the "erotics" of art. In her now classic
+1966 essay "Against Interpretation," Sontag posits transparence as the
+"highest, most liberating value in art and in criticism today." "Transparence
+means experiencing the luminousness of the thing in itself, of things being
+what they are" she explains [@sontag, 9]. Rather than to show what a work of
+art *means*, Sontag urges critics to show "how it is" and "that it is"
+[@sontag, 10]. To make her argument Sontag relies on the distinction between
+"meaning" or "content" and "form" or the "sensory experience" of the work.
+Interpretation at the level of meaning and content is an intellectual and, for
+Sontag, a reactionary activity that aims to find "the maximum amount of
+content" within. It is reactionary, because it serves only to multiply the
+available "levels of analysis." In explicating the work of art the critic
+essentially creates alternatives copies of the original. In this way, Dante's
+*Inferno* could be experienced again and again, with each reading adding to the
+complexity of the work. In her words, to "design" a work of art that can be
+experienced in this way, on multiple levels, might have been "creative" and
+"revolutionary" in the age of aesthetic paucity, when creativity and
+interpretation were limited to few privileged individuals. By contrast, Sontag
+believes that her times are a period of creative abundance. "Think of the sheer
+multiplication of works of art available to all of us," she writes.
+Contemporary culture is based on "excess" and "material plenitude" which dull
+the senses. In such conditions, the production of further critical variations
+on the theme only adds to the dulling clutter.
 
 By "interpretation," Sontag means a "conscious act of the mind" which
 illustrates a "certain code," or "certain rules" of engagement. It is, for her,
 "virtually" a type of translation. The critic "transforms" and "revamps" the
-text: X turns out to be A, Y turns out to be B, and so on [@sontag, 3].
+text: X turns out to be A, Y turns out to be B, and so on [@sontag, 3]. And by
+"form" Sontag means something like the apparent, perceptual properties of the
+work: this sentence is long, for example. And this one short. A critic could
+say that the sentence length means something, but Sontag wants to stop short of
+meaning making. A discipline of careful perception---of paying
+attention---rather sharpens the reader's sensibilities.
 
-In talking about texts of all kinds, literary scholars and computer scientists
-often make a distinction between form and content. "Classical art, in a word,
-stands for form," R.G.  Collingwood wrote in 1929, and "romantic art for
-content" [@collingwood_form_1929, 335]. In a much more recent work on
-computational text generation, Kathleen McKeown writes that to produce
-discourse, writers and speakers "must decide what to say and how to present it
-effectively." A machine that generates text should, among other things, be able
-to determine the "content and textual shape" of what needs to be said or
-written [@mckeown_text_1992, 1]. Similarly, in her influential essay "Print Is
-Flat, Code Is Deep," Katherine Hayles writes about "the interplay between a
-text's physical characteristics and its signifying strategies"
-[@hayles_print_2004, 72]. In each case, the model underlying textual production
-involves the bifurcation between some notions of outward shape and inward
-meaning.  Interpretation, under this model, usually involves moving beyond the
-apparent form to the implicit ideational content.
+The history of interpretation Sontag objects to is one that privileges content
+over form. The very words "explication" and "exegesis" imply the movement from
+inside to the outside. For a psychoanalytical critic interpretation in that
+sense may mean revealing the hidden psychological drives that give rise to the
+particular form of the expression. A Marxist critic may instead look for the
+concealed operation of this or that ideology. Fredrick Jameson, a prominent
+Marxist critic, writes for example:
 
-Although the distinction between form and content is somewhat naturalized in
-literary and linguistic discourse, the concept of form is often used in another
-way, which seems initially to contradict the naturalized bifurcation. When we
-think of Shakespeare's *Hamlet*, for example, whatever is meant by "the form"
-of the play belongs neither to its material substance (pixel or paper) nor to
-the ideational content of the work. Form lies somewhere between the two worlds:
-it is in the shape of the letters, in the structure of the narrative, and in
-the prosody of the word. Form, in that sense, does not determine, because we do
-not quite know which of these elements belong to the content of the play and
-which are the contingent material artifacts of the printing process: the way
-the fonts look, for example, or the way lines break on the page. Some matters
-of form matter to us as readers (line breaks), and others do not (font
-kerning). Three things seem to be in play rather than two: matter, form, and
-content. And of these, form sometimes falls into the category of meaningless
-matter and sometimes into semantic-carrying ideation: form, the indeterminate.
+> Thus the process of criticism is, not so much the interpretation of
+content, as it is a revealing of it, a laying bare, a restoration of the
+original message, the original experience, beneath the distortions of the
+various kinds of censorship that have been at work upon it; and this revelation
+takes the form of an explanation of why the content was so distorted and is
+thus inseparable from a description of the mechanisms of the censorship itself
+[@jameson-marxism-firm, 404].
 
-Let's dwell on the history of form for a few paragraphs. I'll give you the
-standard (if necessarily abridged) version first, and then return to revise and
-complicate. The traditional binary model, as I will argue, does not
-sufficiently capture the grounds for literary microanalysis, which requires an
+Heidegger revealing. Heidegger matter form. Form as something that structures
+matter.
+
+Confusion.
+
 understanding of form both as abstracted formula (technique, template, pattern)
 and concrete device (apparatus, gadget, appliance). Like Hayles and McKeown I
 need to retain a distinction between the what (physical strategies) and the how
@@ -403,8 +408,24 @@ stratified form, from the material affordances of screen and magnetic storage
 technology in the late 1960s. The question of textual depth then gains an extra
 dimension. Where we began with binaries of depth and surface, meaning and
 matter, we end with a third: the synthetic document itself that combines
-formula and location, shape and thought, conciet and device, where the embodied
+formula and location, shape and thought, conceit and device, where the embodied
 meets the ideal.
+
+Although the distinction between form and content is somewhat naturalized in
+literary and linguistic discourse, the concept of form is also often used in
+another way, which contradict the earlier sense set in opposition to meaning
+and content. When we think of Shakespeare's *Hamlet*, for example, whatever is
+meant by the "form" of the play belongs neither to its physical medium (pixel
+or paper) nor to the ideational content of the work. Form, in that sense, lies
+somewhere between the two worlds: it is in the shape of the letters, in the
+structure of the narrative, and in the prosody of the word. We do not quite
+know which of these elements belong to the content of the play and which are
+the contingent material artifacts of the printing process: the way the fonts
+look, for example, or the way lines break on the page. Some matters of form
+matter to us as readers (line breaks), and others do not (font kerning). Three
+things seem to be in play rather than two: matter, form, and content. And of
+these, form sometimes falls into the category of meaningless matter and
+sometimes into semantic-carrying ideation: form, the indeterminate.
 
 ## 2.2 Sound and Formula
 
@@ -896,7 +917,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## 2.4 Legibile Sign
+## 2.4 Mark of Transparency
 
 In this section, I would like to give a short historical account of a letter's
 passage from keystroke to pixel. The movement proceeds in three stages, as
