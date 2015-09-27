@@ -1,7 +1,5 @@
 # Chapter 2: WYSINAWYG (What You See Is Not Always What You Get)
 
-## Intro
-
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
@@ -28,15 +26,14 @@ computational device, we can begin to come to terms with the simulated nature
 of screen textuality. Ask yourself a simple question: Where does text reside?
 In print, one can point to the page and be fairly certain of the answer: here,
 on the page. Computation complicates matters significantly. One can point to
-the screen, yet it would not be enough to say that the text resides there. The
-screen remains in flux. It is a site of projection and has no permanence. The
-projection emanates from the storage medium within, passing through multiple
-filters and transformations on the way to the screen. We therefore observe the
-figure stretch before us across at least two sites of inscription. The sign
-stretches and splits, expressed in the configuration of magnetic pulse and
-circuit state at one end and in the phases of liquid crystal on screen at the
-other. Both locations afford distinct constraints to reading, writing, and
-interpretation.
+the screen, yet it would not be enough to say that the text *is* there. The
+screen remains in flux. It is a site of temporary projection. The projection
+emanates from the storage medium within, passing through multiple filters and
+transformations on the way to the screen. We therefore observe the figure
+stretch before us across at least two sites of inscription. The sign stretches
+and splits, expressed in the configuration of magnetic pulse and circuit state
+at one end and in the phases of liquid crystal on screen at the other. Both
+locations afford distinct constraints to reading, writing, and interpretation.
 
 Thus when Michael Heim refers to the "ephemeral quality" of the electronic text
 or when Pamela McCorduck describes it as "impermanent, flimsy, malleable, [and]
@@ -50,7 +47,7 @@ Katherine Hayles, and Matthew Kirschenbaum respond to Heim and company with
 hardened materialism, they are also rightly describing properties of digital
 inscription, but this time at the site of its archival immanence. The two camps
 disagree because they speak neither of the same phenomenon nor at the same
-location. The former group notices the ephemeral, transcendent state of the
+site. The former group notices the ephemeral, transcendent state of the
 projected word. The latter points instead to the "uniquely indelible nature of
 magnetic storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and
 disks" as the "fundamental physical support" and "material substrates of
@@ -60,12 +57,12 @@ partition the sign between surface and depth, projection and archive.
 Form and content lie flat on the printed page. Print interfaces are paper thin,
 we might say. Ink adheres to paper in the way that pixels do not to screens.
 The splintered sign complicates the traditional structuralist distinctions
-between form and content. The computed sign occupies at least two distinct
-spaces, each entailing drastically differing accordances for reading, writing,
-and interpretation. Were we to untangle the tightly wound coil of the circuit,
-we would find ample distance between the archive and the projection. Where
-print is flat, computed text resides at several levels and along multiple
-dimensions [@halyes code is flat].
+between form and content. It occupies at least two distinct sites, each
+entailing drastically differing accordances for reading, writing, and
+interpretation. Were we to untangle the tightly wound coil of the circuit, we
+would find ample distance between the hard drive and the screen. Where print is
+flat, computed text resides at several levels and along multiple dimensions
+[@halyes code is flat].
 
 How did this multiplicity come to be? And what effect does it have on the life
 of the mind? The purpose of this chapter is to open space between the visible
@@ -74,18 +71,19 @@ formalist thought that has long given me pause. The very concept of form,
 central to literary analysis, contains in it two conflicting ideas. Going back
 to reception of Plato, Hegel, and the Russian formalists, the English "form"
 renders at times the material, outward, and apparent shape of something said or
-pictured. Yet just as often, critics use form in the sense of a Platonic ideal:
-abstracted from matter, inward-facing, and in need of explication. Form in that
-sense is closer to the idea of an algorithm of a formula.
+pictured. Yet just as often, critics use "form" in the sense of a Platonic
+ideal: abstracted from matter, inward-facing, and in need of explication. Form
+in that sense is closer to the idea of an algorithm of a formula. It is the
+lasting hidden archetype that gives rise to temporary outward appearances.
 
-To understand the physical peculiarity of the computed sign we will have to
-separate the two historical senses of "form" in aesthetic theory. The
-explication of theoretical terms will lead us to the reconstruction of a
-crucial moment in the material history of literary technology. The middle of
-the twentieth century saw the birth of a new formalism, related to, yet
-categorically distinct from formalism in literary studies. The changing
-conditions of literary production necessitated a thorough reevaluation of
-textual primitives that give rise to letters, words, and pages.
+To grasp the peculiarity of the computed sign stretched between the sites of
+archive and projection, we will have to revisit the language of formalism. A
+treatment of theoretical terms will lead us to the reconstruction of a critical
+moment in the material history of literary technology. As I will argue in this
+chapter, the middle of the twentieth century saw the birth of a new formalism,
+related to, yet categorically distinct from formalism in literary studies. The
+changing conditions of literary production necessitated a thorough reevaluation
+of textual primitives that give rise to letters, words, and pages.
 
 The structure of textual artifacts---from a simple leaflet to a novel in
 multiple volumes---has remained remarkably stable since the invention of
@@ -137,7 +135,7 @@ printed page. The "final printing" combines roughly the "prepared copy" with
 "control and reference codes" and "printer output" [@bishop; @may]. The
 materials from the time often speak of three distinct human operators that
 could be responsible for each stage of the production: one entering the copy,
-one specifying to control codes, and one responsible for handling the paper
+one specifying the control codes, and one responsible for handling the paper
 output. The machine operators could hypothetically work in isolation from one
 another. The typist would see only elements of the copy; the typesetter or the
 controller only formatting and control codes; and the printer only the
@@ -145,62 +143,66 @@ interpolated results. The relationship between such distinct layers of print
 production was formalized into something called the Document Object Model
 (DOM).
 
+![DIAGRAM from MT/SC]
+
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
-contributions to the history of print. A consultant writing for the *IBM
-Journal* in 1968 described the "evolution of composition" that proceeded from
-handwriting, to wood engraving, movable type, letterpress, and, finally, to the
-IBM MT/SC. "The IBM Selectric Composer provides a new approach to the printing
-process in this evolution," he wrote. The machine empowered the writer to once
-again write books "without the assistance of specialists," he concluded
-[@frutiger, 10]. Marketing language aside, the emergence of the Document Object
-Model constituted a milestone in the history of the printed word. The DOM
-continues to inform document structure today, affecting almost every aspect of
-text presentation from web pages to commercial print typesetters.
-
-The gap between input and output is what gives rise to the ephemeral quality of
-digital text. Temporary storage media located on the way from keyboard to page
-or screen allows for rapid and frequent remediation. It keeps the ink in motion
-unattached to a "sticky" medium like paper. However, the spatial elongation of
-the sign also comes at a cost. Submerged in the passage between keyboard and
-screen or paper, the inscription passes from view. In its ephemeral "liquid"
-form it is also no longer legible to the naked human eye. It reappears again on
-the screen or page already "processed," that is, altered by the intervention of
-the "control unit." Writing or reading on a device can thus no longer remain a
-solitary activity. Machine operators far removed from the site of
-interpretation intervene to mediate the encounter between reader/writer, and
-text.
-
-The consequences of that intervention are immense. With time, supplemental
-"control characters" designed to format documents fused with programming
-languages, capable of generalized device control. Technological and legal
-fictions rise to restore a measure of "stickiness" to text in its ephemeral
-form. For example, manufacturers commonly embed digital rights management
-circuits into video streaming devices to artificially limit the duplication of
-broadcast material. Similarly, electronic book sellers often prevent readers
-from copying and pasting words on the page. Such measures mimic some of the
-constraints associated with static, paper-and-ink-bound media regimes.
-Crucially for the practices of unencumbered critical thought, control
-structures exist in the hidden gap between the two parts of the splintered
-sign. Ultimately, the "control" layer is capable of affecting more than print
-design. It shapes the very structure of interpretation. In the language of the
-Document Object Model, the formatting layer contains the essence of "machine
-control." Long a marginal concept in literary theory, formatting is therefore
-central to the practice of computational hermeneutics. Far from mere
-inconsequential embellishment, formatting governs the interface between meaning
-and matter, thought and page. It has the capability to embellish, to obscure,
-to censor, to govern, and to emend.
+contributions to the history of print writ large. A consultant writing for the
+*IBM Journal* in 1968 imagines the "evolution of composition" that proceeded
+from handwriting, to wood engraving, movable type, letterpress, and, finally,
+to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
+printing process in this evolution," he writes. He concludes to say that the
+IBM Composer finally empowers the writer to once again write books "without the
+assistance of specialists" [@frutiger, 10]. Marketing language aside, the
+emergence of the layered Document Object Model constituted a major milestone in
+the history of the printed word. Whatever model of semiotics one subscribed to
+in the late 1960s, the DOM fixed the shape of the sign in accordance to
+emerging technology. The document object model continues to structure
+contemporary text in all its forms: from print typesetting software to web
+pages. It gives the material basis to the conditions of contemporary text
+production.
 
 ## 2.1 Form as Concrete and Universal
 
 I began the chapter in asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led us
 to multiple sites of inscription, some visible and some hidden, some legible
-and others protected from view. I have suggested also that that the familiar
-distinction between form and content fails to capture the crucial "formatting
-and control" layer of the computed sign. My challenge in this chapter lies in
-articulating a point convergence between two complimentary formalisms: literary
-and computational. But the concept
+and others opaque. I have suggested also that the familiar distinction between
+form and content fails to capture the crucial "formatting and control" layer of
+the computed sign. In the following sections I would like to dwell on the
+curious contradiction at the heart of formalism itself. Historically, form has
+been used to signify both the material shape of the sign and the idealized
+archetypal "rule book" for its creation. The two senses matter because they
+lead to entirely different strategies of interpretation.
+
+The outward shape suggests an emphasis on what Susan Sontag deemed the "sensory
+experience" or the "erotics" of art. In her now classic 1966 essay "Against
+Interpretation," Sontag posits transparence as the "highest, most liberating
+value in art and in criticism today." "Transparence means experiencing the
+luminousness of the thing in itself, of things being what they are" she
+explains [@sontag, 9]. Rather than to show what a work of art *means*, Sontag
+urges critics to show "how it is" and "that it is" [@sontag, 10]. To make her
+argument Sontag relies on the distinction between "meaning" or "content" and
+"form" or the "sensory experience" of the work. Interpretation at the level of
+meaning and content is an intellectual and, for Sontag, a reactionary activity
+that aims to find "the maximum amount of content" within. It is reactionary,
+because it serves only to multiply the available "levels of analysis." In
+explicating the work of art the critic essentially creates alternatives copies
+of the original. In this way, Dante's *Inferno* could be experienced again and
+again, with each reading adding to the complexity of the work. To "design," in
+her words, a work of art that can be experienced in this way, on multiple
+levels, might have been "creative" and "revolutionary" in the age of aesthetic
+paucity, when creativity and interpretation were limited to few privileged
+individuals. By contrast, Sontag believes that her times are a period of
+abundance. "Think of the sheer multiplication of works of art available to all
+of us," she writes. Contemporary culture is based on "excess" and "material
+plenitude" which dull the senses. In such conditions, the production of further
+critical variations on the theme only adds to the dulling clutter.
+
+By "interpretation," Sontag means a "conscious act of the mind" which
+illustrates a "certain code," or "certain rules" of engagement. It is, for her,
+"virtually" a type of translation. The critic "transforms" and "revamps" the
+text: X turns out to be A, Y turns out to be B, and so on [@sontag, 3].
 
 In talking about texts of all kinds, literary scholars and computer scientists
 often make a distinction between form and content. "Classical art, in a word,
@@ -1305,6 +1307,39 @@ the reader of the very real and literal sense of depth manufactured into the
 structure of the contemporary Document Object Model. This includes print,
 because even in that mode, publishing practices today rely on some of the same
 machinery described in this chapter.
+
+The gap between input and output is what gives rise to the ephemeral quality of
+digital text. Temporary storage media located on the way from keyboard to page
+or screen allows for rapid and frequent remediation. It keeps the ink in motion
+unattached to a "sticky" medium like paper. However, the spatial elongation of
+the sign also comes at a cost. Submerged in the passage between keyboard and
+screen or paper, the inscription passes from view. In its ephemeral "liquid"
+form it is also no longer legible to the naked human eye. It reappears again on
+the screen or page already "processed," that is, altered by the intervention of
+the "control unit." Writing or reading on a device can thus no longer remain a
+solitary activity. Machine operators far removed from the site of
+interpretation intervene to mediate the encounter between reader/writer, and
+text.
+
+The consequences of that intervention are immense. With time, supplemental
+"control characters" designed to format documents fused with programming
+languages, capable of generalized device control. Technological and legal
+fictions rise to restore a measure of "stickiness" to text in its ephemeral
+form. For example, manufacturers commonly embed digital rights management
+circuits into video streaming devices to artificially limit the duplication of
+broadcast material. Similarly, electronic book sellers often prevent readers
+from copying and pasting words on the page. Such measures mimic some of the
+constraints associated with static, paper-and-ink-bound media regimes.
+Essential for the practices of unencumbered critical thought, control
+structures exist in the hidden gap between the two parts of the splintered
+sign. Ultimately, the "control" layer is capable of affecting more than print
+design. It shapes the very structure of interpretation. In the language of the
+Document Object Model, the formatting layer contains the essence of "machine
+control." Long a marginal concept in literary theory, formatting is therefore
+central to the practice of computational hermeneutics. Far from mere
+inconsequential embellishment, formatting governs the interface between meaning
+and matter, thought and page. It has the capability to embellish, to obscure,
+to censor, to govern, and to emend.
 
 The attached documents illustrate my thesis in practice. In the first image the
 reader will find a visual "dotplot" representation of Laurence Sterne's *The
