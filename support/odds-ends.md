@@ -1,5 +1,18 @@
 ## Odds and Ends
 
+Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
+and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
+text is an "ordered hierarchy of content objects" [@derose]. Goodman and
+Genette.
+
+[@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
+for resemblance between documents" 
+
+Drucker "the totalizing drive of the digital [@drucker2001, 145]."
+
+foundational binaries in literary studies, namely: surface and depth, form and
+content, immanence and transcendence, concrete and universal.
+
 
 ## History of Textuality
 
