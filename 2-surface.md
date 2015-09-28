@@ -1,5 +1,6 @@
-# Chapter 2: Transparency
+# Chapter 2: Surface
 
+## Intro
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -139,7 +140,7 @@ separation of the sign from its immedeate material contexts constituted a major
 milestone in the history of writing and textuality.
 
 In this chapter, I would like to give a historical account of a letter's
-passage from keystroke to pixel. The movement proceeds in three stages, as
+passage from paper to pixel. The movement proceeds in three stages, as
 illustrated by three specific devices: first the mechanization of type reached
 its apogee in the telegraph at the end of the nineteenth century. With the
 advent of telegraphy, "content" meant for humans began to intertwine with
@@ -150,72 +151,29 @@ and control codes into an inscrutable substance. Finally, by the mid-twentieth
 century, the screen emerged to simulate a measure of legibility lost in the
 transition.
 
-The seeming immateriality of digital media entails real-world effects: the
-costs of replication plummet, for example. Computational text can be copied
-effortlessly, with minimal cost, and with near-perfect fidelity.
-Hyper-reproducibility of the sort was unthinkable for most of the twentieth
-century. The machine allows for rapid remediation. Lowered costs of copying
-further reduce barriers to access and conveyance. Symbols that adhere lightly
-to their medium are easy to store and to transport. Witness the rise of
-massive, global public knowledge projects like online search engines and
-encyclopedias as a direct consequence. Such projects unfold the logic of
-immateriality, which moves towards totalizing archives and universal
-accessibility.[^ln1-google] When representation appears to weigh nothing, one
-imagines a weightless totality of all representation, available immediately and
-everywhere. The perceived weightlessness of text has other side-effects as
-well. For example, a text that adheres lightly to its medium is also difficult
-to contain, making onerous the governance of symbolic representation and
-weakening traditional controls like censorship and intellectual property
-rights.
-
-Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
-Rather, the symbol splits in two: with one half arising visibly, a weightless
-and apparent screen simulation, and the other half, opaque, etched into the
-hefty and hidden material contingencies of the device. The material substrates
-of computational text likewise carry real-world affordances and consequences.
-They are first and foremost hidden from view. Drives and tapes reside inside of
-black or aluminum boxes. If only because they carry electrical current and have
-the potential to catch fire, they are regulated. They contain heavy and rare
-metals, often hazardous if touched or ingested. The computational part of the
-sign is sealed in miniaturized containers that prevent access and to resist
-tempering. These are but some of the realities of material text. It is text
-intertwined with machine internals and control code and it is often
-hermeneutically sealed to resist human interpretation.
-
-[^ln1-google]: "Google's mission is to organize the world's information and
-make it universally accessible and useful" (@google_about_2015).  See also
-Johanna Drucker's discussion on "the totalizing drive of the digital" in
-[@drucker2001, 145].
-
 ## WYSINAWYG (What You See Is Not Always What You Get)
 
-Give an account of a pixel's passage from keystroke to ink or pixel. The vast
-machinery that brings literature to life hides from the reader's view.
-Literature conceals. Even on the level of stylistics, writing well is meant to
-evoke a sense of ease where it is usually the product of painstaking labor. Let
-us hold on to that intuition for the duration of this chapter: writing conceals
-labor.
+Where does computed text reside? I offer the following three historical
+preconditions for digital textuality. They are not meant as history, but rather
+as signposts to mark the journey ahead. The schema proceeds roughly as follows:
+first, content and control couple at the visible surface of removable storage
+media (ticker tape and punch card); second, inscription splits into input and
+output, retreating into magnetic storage to reemerge at last on the screen, in
+the same guise, but also, as we suspect, somehow transformed: less solid and
+concealing something beneath the phantasmal shell of its former
+appearance.[^ln1-denning]
 
-In answer, I offer the following three historical preconditions for digital
-textuality. They are not meant as history, but rather as signposts to mark the
-journey ahead. The schema proceeds roughly as follows: first, content and
-control couple at the visible surface of removable storage media (ticker tape
-and punch card); second, inscription splits into input and output, retreating
-into magnetic storage to reemerge at last on the screen, in the same guise, but
-also, as we suspect, somehow transformed: less solid and concealing something
-beneath the phantasmal shell of its former appearance.[^ln1-denning]
-
-As we embark to explore the consequences of simulated text, I propose we keep
-the following three landmark mechanisms in view as signpost along our journey:
-Goldberg's Controller, the IBM MT/ST, and Engelbart's Time Fob. In the first of
-these, text structure and machine control lie before us for inspection. The
-second one is mute: a black slate. The last of these belongs to what Peter
-Denning calls the "third generation" of computer systems---an assemblage of
-storage, input, and output technologies that continue to shape the contemporary
-human encounter with text today. These devices tell us a story of a fracture.
-Through them, a part of the sign fades from view as an arrangement of magnetic
-charge and floating gate. Another part appears as flicker of the cathode ray
-and the flow of the liquid crystal.
+As we embark to explore the consequences of computed, simulted text, I propose
+we keep the following three landmark mechanisms in view as signpost along our
+journey: Goldberg's Controller, the IBM MT/SC, and Engelbart's Time Fob. In the
+first of these, text structure and machine control lie before us for
+inspection. The second one is mute: a black slate. The last of these belongs to
+what Peter Denning calls the "third generation" of computer systems---an
+assemblage of storage, input, and output technologies that continue to shape
+the contemporary human encounter with text today. These devices tell us a story
+of a fracture.  Through them, a part of the sign fades from view as an
+arrangement of magnetic charge and floating gate. Another part appears as
+flicker of the cathode ray and the flow of the liquid crystal.
 
 ### A. Removable storage media and automation, 1725--1964.[^ln1-loom]
 
@@ -547,7 +505,233 @@ they become an active part of a "bootstrapping community" of their own.
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
-## 2.4 Malicious Code Injection (Conclusion)
+## Document Object Model (DOM)
+
+It is in this tripartite sense of matter, form, and idea that one can best
+understand the structure of modern "digital" documents. In the language of the
+Document Object Model, the literary-theoretical concept of "form" can mean both
+"class" and "instance" (object-oriented programming), or "set" and "object"
+(set theory), or "type" and "term" (type theory). Although literature in
+computer science rarely operates in the mode of intellectual history,
+computer-aided text editors internalized a model of document structure
+remarkably similar to the one suggested by Hegelian aesthetics, and in terms of
+physical (media), form (formatting), and content (text) levels of analysis. The
+Document Object Model weaves the language of the Hegelian universal into the
+fabric of modern computing.
+
+Describing *EDIT*, one of the first editors designed for the GE635 36-bit
+mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
+publication editor is divided into three related sections, the document layout
+facility, the editing facility, and the printing facility"
+[@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
+contains such things as justification, indentation, and spacing. These
+"primitive requests" can be combined to describe more complex "structures of
+the printed text." The creators of *QED*, another influential early text editor
+(created for the SDS-930 time-sharing system at Berkeley) similarly encourage
+the user "to think in terms of structure" of the text. Both *QED* and *EDIT*
+begin to separate content and formatting for later recombination and imprinting
+onto external storage media. Kaiman explains that "the user types the document
+layout file and the text file, then produces a proof or master copy of the text
+by printing the text according to the directions of the layout file. The text
+file contains layout marks to be interpreted by the layout file." "Text," in
+this schema, constitutes content meaningful only to the user, whereas layout
+contains some elements meaningful to the human and some elements as code
+instructions intended for device control. The notion of "formatting" therefore
+mediates between the logical (semantic) and layout (stylistic) structural
+representations.
+
+![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
+
+A seminal paper in the field of structured documents proposes the following
+model. First, "a document is an object composed of a hierarchy of primitive
+objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
+the start: composability and hierarchy. A document is a thing made up of other
+objects, like sentences and paragraphs. Furthermore, these things stand in a
+hierarchical relationship to each other. Paragraphs contain sentences, and not
+the other way around, for example.
+
+Second, "each object is an instance of a class." Document level classes include
+"letters," "theses," "recommendation," and "papers for a particular journal."
+Lower-level classes include sections, paragraphs, footnotes, and so on.
+
+Finally, "objects are further classified as either abstract or concrete." By
+this, the writers mean abstract or "logical" objects, like words and ideas. In
+describing FORMAT, an important early (circa 1968) "general-purpose" text
+processor (written in FORTRAN IV for OS/360 devices), George Berns describes
+the program's input as "free-form" (literally, free of form) in that it is
+"entirely free of positional restraint [@berns_format_1968, 85;
+@berns_description_1969, 141]." Text free of positional restraint, in that way,
+can be described in terms of "content," in contrast to "formatted" objects made
+"concrete," that is positioned in "one or more two-dimensional *page spaces*
+and represent[ing] possible formatted images of abstract objects
+[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
+other words, gives physical shape, layout, or style to the instantiation of
+abstract universal classes like paragraphs and sentences. Concrete objects are
+abstract paragraphs and sentences "laid out" in page space.
+
+Here is where things should get interesting for a scholar of textuality. The
+Document Object Model further gives rise to three "operations," tied to the
+"domain and range" of its constituent objects. *Editing*, in this model,
+comprises operations that move from abstract to abstract, or, from concrete to
+concrete domains.
+
++------------------------+--------------+-------------------------------+
+| Operation              | Type         | Example                       |
++========================+==============+===============================+
+| abstract to abstract   | Editing      | spelling correction \newline  |
+| concrete to concrete   |              | move (data) table   \newline  |
+|                        |              |                               |
++------------------------+--------------+-------------------------------+
+| abstract to concrete   | Formatting   | apply font   \newline         |
+|                        |              | break into pages \newline     |
++------------------------+--------------+-------------------------------+
+| concrete to abstract   | Recognition  | optical character             |
+| \newline               |              |   recognition  \newline       |
+|                        |              | page layout analysis \newline |
++------------------------+--------------+-------------------------------+
+| concrete to output     | Viewing      | print to paper \newline       |
+| \newline               |              | publish to web \newline       |
++------------------------+--------------+-------------------------------+
+| concrete to storage    | Filing       | save file    \newline         |
+|                        |              | shelve book                   |
++------------------------+--------------+-------------------------------+
+
+Table: Object operation types under the Document Object Model
+[@furuta_document_1982, 419-20].
+
+Spelling correction, for example, constitutes an editing manipulation where
+abstract objects are modified into other abstract objects. Moving footnotes to
+endnotes, or shifting data tables around the document would count as editing of
+the "concrete to concrete" type. The authors define *formatting* as giving
+concrete shape to ideas in the transformation between abstract and concrete
+objects. Italicizing a word, for example, gives the idea of "emphasis" a
+slanted form. The act of breaking a document into pages gives shape (and a
+specific number of lines, for example) to the idea of a page.
+
+The authors hint at, but do not discuss the opposite movement, from "concrete
+to abstract" entities, as would be done in the process of optical character
+recognition (OCR). An important part of the digitization process, OCR "lifts"
+ideational content from the page image. Without OCR, common document formats
+like `.pdf` and `.tiff` therefore remain *merely visual representations*. They
+do not, at that stage, contain text or "abstract objects" as such. They are
+just pictures. Similar to how humans must "read" a text first in order to
+understand it, OCR attempts to "recognize" textual content from the image as a
+first step to further manipulation. Leaving aside the question of machine
+"understanding," recognition in this case implies more narrowly the
+conversation of image into text. This implies also that textuality occupies a
+distinct and privileged category in document epistemology, from the point of
+view of the machine. Another way to think about machine text would be to
+describe "images" as one type of "internal data structure" and text as another,
+more "structured" and "more internal," mode of representation. Consider that in
+the hierarchical Document Object Model images can contain text, but text
+cannot contain images. Text, in that sense, lies at the innermost location in
+series of nested "outer" containers. Lacking a model of "comprehension" or
+"understanding," the Document Object Model merely posits text as "content" only
+in the sense of it being the "innermost" object of recognition.
+
+The "recognition" of characters does not, however, fully capture the variety of
+abstract document objects, which besides letters and words include paragraphs,
+tables, titles, and footnotes. These also count as "content." It is essential
+therefore to know "where text resides on the page," since some elements of
+positioning in themselves can carry meaning. For instance, proper names could
+carry different connotations depending on their location in the text. A name in
+the "author field" means something distinct from any other name mentioned in
+the body of the document. Lawrence O'Gorman, an influential researcher in the
+field of document image processing, calls the recognition of this sort of
+object, at the intersection of concrete and universal, "document lay-out
+understanding," which consists of "functional labeling of blocks [...]
+distinguished in some way by their physical features (such as by font size) and
+by the 'meaning' of the block [@ogorman_document_1993, 1162-63;
+@ogorman_document_1995, 82-99 (in the reconstructed edition)]." But note also
+that document layout (alternatively "formatting" or the arrangement of
+"concrete objects") could also incorporate meaningless (to humans) structures,
+such as the incidental "rivers" of empty space formed between the words. That
+sort of concrete structure goes "unrecognized" because it does not correspond
+to any abstract objects.
+
+![Method for extracting document structure based on "nearest-neighbor clustering
+of page components" [@ogorman_document_1993, 1164].](images/docstrum.png)
+
+Finally, the Document Object Model defines *viewing* as the movement from
+concrete objects to output device. This could include printing the document
+onto paper, or publishing it online, for example. It is at this moment that the
+full weight of Hegelian "universal concrete" makes itself known. The "concrete"
+object in the Document Object Model is still only a *description* of the
+two-dimensional space and represents some "possible formatted images of
+abstract objects."[^ln3-dom] To repeat: the concrete object represents
+"possible" formatted images, and not yet actual formatted images! To actualize
+materially, the document must be fixed and flattened back out onto a medium
+such as a screen or paper. These media have actual dimensions. In this way, a
+footnote placed at the bottom of the page at the level of concrete object can
+then be rendered at the bottom of an A1 (841mm × 1,189mm) size piece of paper
+or at the bottom of a much smaller A4-sized sheet (210mm × 297mm).[^ln3-iso216]
+
+In yet another formative paper in the history of contemporary textuality, Brian
+Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
+1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
+Kernighan reports modifying the original program to produce output for a
+greater variety of typesetters. Kernighan explains, "TROFF produces its output
+in a device-independent form," and its output "must be processed by a drive for
+that device to produce printed output" [@kernighan_troff_1992].
+
+This stage flattens out the layers of ideas and visual style, to render them
+and to make them visible on screen or page [@furuta_document_1982, 419-20;
+@kimura_structure_1984]. Similar to Hegel's "universal concrete," the
+"formatting layer" in the Document Object Model bridges the gap between ideas
+and matter. Formatting is where ideas connect to physical shape. This is a most
+delicate operation, for in giving shape to abstract ideas formatting does
+something more notable than mere application of visual style. Formatter
+designers from TROFF to FORMAT consistently describe their programs in explicit
+terms of instrumental control. Berns, for example, explains that "text control"
+as implemented in FORMAT aims to accomplish four "basic" tasks: "to read the
+input, to interpret and convert the input as required; to keep the document
+flowing smoothly from line to line, column to column, and page to page, unless
+otherwise instructed, and to break this automatic flow as directed"
+[@berns_description_1969].
+
+Because formatting governs both meaning-carrying and purely decorative
+elements, text control can involve operations like "replace word," "make
+invisible," or "insert file." These commands intertwine with "free-form"
+abstract and ideational content at the formatting level, to come into being in
+the "viewing" stage of text processing, where the layers flatten across "a
+two-dimensional space" in view of the user. SCRIPT and the related Generalized
+Markup Language (GML) developed in the late 1960s by IBM (originally for use on
+the CP67/CMS time-sharing system), and now at the basis of ubiquitous XML and
+HTML markup languages through ISO 8879, describes a number of such text
+transformations that occur to "generate the proper output form." In formatting,
+SCRIPT represents the "logical topology" of text in its "canonical form" to
+produce an "intermediate data structure," which it then "'unfolds' all at once"
+by "'peeling' the data structure one level at a time" [@madnick_script_1968,
+97]. As plain text, text control, and user command flows intertwine, the
+structure of data on the disk no longer corresponds to what is visible at the
+level of user terminal or line printer. Unlike many of the modern text editors,
+SCRIPT, TROFF, and FORMAT make all of the laminate components in their
+onion-like layered structure available to users for examination. But as we will
+see shortly, the condition of complete system visibility persists only for a
+short period in history. Once incorporated, the Document Object Model gains a
+measure of opacity and even legal protection from "unauthorized access" to
+protected innermost document layers.
+
+Whatever model of semiotics one subscribed to in the late 1960s, the DOM fixed
+the shape of the sign in accordance to emerging technology. The document object
+model continues to structure contemporary text in all its forms: from print
+typesetting software to web pages. It gives the material basis to the
+conditions of contemporary text production.
+
+!["System Command and Data Flow." Data structures at "disk file" level do not
+necessarily correspond to text structures at "user terminal" or "line printer"
+levels [@madnick_script_1968, 98].](images/script.png)
+
+[^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
+one or more two dimensional page spaces and represent possible formatted images
+of abstract objects."
+
+[^ln3-iso216]: A series of paper sizes are governed by the International
+Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
+8.27in × 11.7in respectively
+[@international_organization_for_standardization_writing_1975].
+
+## Malicious Code Injection (Conclusion)
 
 In presenting canonical models of document structure, it is my hope to convince
 the reader of the very real and literal sense of depth manufactured into the
