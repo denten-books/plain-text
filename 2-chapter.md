@@ -164,6 +164,8 @@ production.
 
 ## 2.1 Form as Concrete and Universal
 
+### Establish the binary
+
 I began the chapter in asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led us
 to multiple sites of inscription, some visible and some hidden, some legible
@@ -189,104 +191,7 @@ be said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
 between a text's physical characteristics and its signifying strategies"
 [@hayles_print_2004, 72].
 
-Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
-deemed the "sensory experience" or the "erotics" of art. In her now classic
-1966 essay "Against Interpretation," Sontag posits transparence as the
-"highest, most liberating value in art and in criticism today." "Transparence
-means experiencing the luminousness of the thing in itself, of things being
-what they are" she explains [@sontag, 9]. Rather than to show what a work of
-art *means*, Sontag urges critics to show "how it is" and "that it is"
-[@sontag, 10]. To make her argument Sontag relies on the distinction between
-"meaning" or "content" and "form" or the "sensory experience" of the work.
-Interpretation at the level of meaning and content is an intellectual and, for
-Sontag, a reactionary activity that aims to find "the maximum amount of
-content" within. It is reactionary, because it serves only to multiply the
-available "levels of analysis." In explicating the work of art the critic
-essentially creates alternatives copies of the original. In this way, Dante's
-*Inferno* could be experienced again and again, with each reading adding to the
-complexity of the work. In her words, to "design" a work of art that can be
-experienced in this way, on multiple levels, might have been "creative" and
-"revolutionary" in the age of aesthetic paucity, when creativity and
-interpretation were limited to few privileged individuals. By contrast, Sontag
-believes that her times are a period of creative abundance. "Think of the sheer
-multiplication of works of art available to all of us," she writes.
-Contemporary culture is based on "excess" and "material plenitude" which dull
-the senses. In such conditions, the production of further critical variations
-on the theme only adds to the dulling clutter.
-
-By "interpretation," Sontag means a "conscious act of the mind" which
-illustrates a "certain code," or "certain rules" of engagement. It is, for her,
-"virtually" a type of translation. The critic "transforms" and "revamps" the
-text: X turns out to be A, Y turns out to be B, and so on [@sontag, 3]. And by
-"form" Sontag means something like the apparent, perceptual properties of the
-work: this sentence is long, for example. And this one short. A critic could
-say that the sentence length means something, but Sontag wants to stop short of
-meaning making. A discipline of careful perception---of paying
-attention---rather sharpens the reader's sensibilities.
-
-The history of interpretation Sontag objects to is one that privileges content
-over form. The very words "explication" and "exegesis" imply the movement from
-inside to the outside. For a psychoanalytical critic interpretation in that
-sense may mean revealing the hidden psychological drives that give rise to the
-particular form of the expression. A Marxist critic may instead look for the
-concealed operation of this or that ideology. Fredrick Jameson, a prominent
-Marxist critic, writes for example:
-
-> Thus the process of criticism is, not so much the interpretation of
-content, as it is a revealing of it, a laying bare, a restoration of the
-original message, the original experience, beneath the distortions of the
-various kinds of censorship that have been at work upon it; and this revelation
-takes the form of an explanation of why the content was so distorted and is
-thus inseparable from a description of the mechanisms of the censorship itself
-[@jameson-marxism-firm, 404].
-
-Heidegger revealing. Heidegger matter form. Form as something that structures
-matter.
-
-Confusion.
-
-understanding of form both as abstracted formula (technique, template, pattern)
-and concrete device (apparatus, gadget, appliance). Like Hayles and McKeown I
-need to retain a distinction between the what (physical strategies) and the how
-(signifying strategies) of the literary device.
-
-G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy between
-form and content in the literature on aesthetics. In his *Lectures on
-Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
-between its ideational, spiritual content and "the configuration of sensuous
-material" [@hegel_hegels_1998, 70]. Whole books have been written on Hegel's
-rather technical and sometimes idiosyncratic vocabulary. Rather than define
-terms precisely, Hegel likes to bombard his reader with semantic cognates. On
-the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
-(*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
-(*Geist*). All of these convey a movement inward to a location (if it can be
-called such) beyond the physical world, accessible only to the spirit (*Geist*)
-or mind (*Gedanken*, *Verstand*). On the side of "form" (same in German), Hegel
-accumulates words like expression (*Ausdruck*) and presentation
-(*Darstellung*), but also lines, curves, surfaces, carvings, colors, tones,
-word sounds, and generally matter or material (*Linien*, *Krümmungen*,
-*Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*)
-[@hegel_werke:_1986, *Einleitung*]. The semantic cluster related to "forms"
-conveys physical (palpable, of this world) and outward-facing properties,
-available for examination to the senses (*Sinne*).
-
-In comparing the dominant aesthetic modes of classical and Romantic periods,
-Hegel posits Romanticism as an art that seeks to disengage itself from matter,
-reaching the realm of pure self-reflective Spirit. Romanticism, in his words,
-is "freed from this immediate existence which must be set down as negative,
-overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
-writes: "Poetry is the universal art of the spirit which has become free in
-itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space [*sic*] and
-the inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
-"inwardness celebrates its triumph over the external and manifests its victory
-in and on the external itself, whereby what is apparent to the senses alone
-sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
-way, triumph over the external, material world, reaching, at its apex, what he
-calls the stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
-[@hegel_werke:_1986]. The idea overcomes matter to become both free from the
-constraints of the deterministic physical universe, yet gaining a measure of
-solidity in its tangible instantiation.
+### Plato
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
@@ -355,6 +260,46 @@ the "universal lasting ideal" of all shuttles: exactly the opposite of
 *eidos* and *phantazomenōn* were reasonably translated into English as "form,"
 indicating a fundamental overloading of the concept.[^ln3-plato]
 
+### Hegel
+
+G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy between
+form and content in the literature on aesthetics. In his *Lectures on
+Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
+between its ideational, spiritual content and "the configuration of sensuous
+material" [@hegel_hegels_1998, 70]. Whole books have been written on Hegel's
+rather technical and sometimes idiosyncratic vocabulary. Rather than define
+terms precisely, Hegel likes to bombard his reader with semantic cognates. On
+the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
+(*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
+(*Geist*). All of these convey a movement inward to a location (if it can be
+called such) beyond the physical world, accessible only to the spirit (*Geist*)
+or mind (*Gedanken*, *Verstand*). On the side of "form" (same in German), Hegel
+accumulates words like expression (*Ausdruck*) and presentation
+(*Darstellung*), but also lines, curves, surfaces, carvings, colors, tones,
+word sounds, and generally matter or material (*Linien*, *Krümmungen*,
+*Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*)
+[@hegel_werke:_1986, *Einleitung*]. The semantic cluster related to "forms"
+conveys physical (palpable, of this world) and outward-facing properties,
+available for examination to the senses (*Sinne*).
+
+In comparing the dominant aesthetic modes of classical and Romantic periods,
+Hegel posits Romanticism as an art that seeks to disengage itself from matter,
+reaching the realm of pure self-reflective Spirit. Romanticism, in his words,
+is "freed from this immediate existence which must be set down as negative,
+overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
+writes: "Poetry is the universal art of the spirit which has become free in
+itself and which is not tied down for its realization to external sensuous
+material; instead, it launches out exclusively in the inner space [*sic*] and
+the inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
+"inwardness celebrates its triumph over the external and manifests its victory
+in and on the external itself, whereby what is apparent to the senses alone
+sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
+way, triumph over the external, material world, reaching, at its apex, what he
+calls the stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
+[@hegel_werke:_1986]. The idea overcomes matter to become both free from the
+constraints of the deterministic physical universe, yet gaining a measure of
+solidity in its tangible instantiation.
+
 Several lines in Hegel's own exposition on Plato's idealism give us a glimpse
 of his struggle with the Platonic concept of form. In his "Lectures on
 Philosophy," Hegel writes: "The Idea is nothing but what is current with us
@@ -411,23 +356,8 @@ matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conceit and device, where the embodied
 meets the ideal.
 
-Although the distinction between form and content is somewhat naturalized in
-literary and linguistic discourse, the concept of form is also often used in
-another way, which contradict the earlier sense set in opposition to meaning
-and content. When we think of Shakespeare's *Hamlet*, for example, whatever is
-meant by the "form" of the play belongs neither to its physical medium (pixel
-or paper) nor to the ideational content of the work. Form, in that sense, lies
-somewhere between the two worlds: it is in the shape of the letters, in the
-structure of the narrative, and in the prosody of the word. We do not quite
-know which of these elements belong to the content of the play and which are
-the contingent material artifacts of the printing process: the way the fonts
-look, for example, or the way lines break on the page. Some matters of form
-matter to us as readers (line breaks), and others do not (font kerning). Three
-things seem to be in play rather than two: matter, form, and content. And of
-these, form sometimes falls into the category of meaningless matter and
-sometimes into semantic-carrying ideation: form, the indeterminate.
 
-## 2.2 Sound and Formula
+### 2.2 Sound and Formula (Formalist)
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -697,6 +627,83 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning," in these not at all futuristic conditions,[^ln3-reading]
 involves turning hermeneutics into reverse engineering.
 
+### Sontag
+
+Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
+deemed the "sensory experience" or the "erotics" of art. In her now classic
+1966 essay "Against Interpretation," Sontag posits transparence as the
+"highest, most liberating value in art and in criticism today." "Transparence
+means experiencing the luminousness of the thing in itself, of things being
+what they are" she explains [@sontag, 9]. Rather than to show what a work of
+art *means*, Sontag urges critics to show "how it is" and "that it is"
+[@sontag, 10]. To make her argument Sontag relies on the distinction between
+"meaning" or "content" on the one hand and "form" or the "sensory experience"
+of the work on the other. Form, in this sense, mirrors McKeown's "shape" and
+the "text's physical characteristcs" of Hayles.
+
+Interpretation at the level of meaning and content for Sontag is an
+intellectual and ultimately reactionary activity. It aims to find "the maximum
+amount of content" within. It is reactionary because it serves only to multiply
+the available "levels of analysis." In explicating the work of art, the critic
+essentially creates alternative and diverging copies of the original. Each
+layer of criticsm adds to the content of the work. In Sontag's words, to
+"design" a work of art that can be experienced in this way, on multiple levels,
+might have been "creative" and "revolutionary" in the age of aesthetic paucity,
+when creativity and interpretation were limited to a few privileged
+individuals. By contrast, Sontag believes that her times are a period of
+creative abundance. "Think of the sheer multiplication of works of art
+available to all of us," she writes.  Contemporary culture is based on "excess"
+and "material plenitude" which dull the senses. In such conditions, the
+production of further critical variations on the theme only adds to the dulling
+clutter.
+
+By "interpretation," Sontag means a "conscious act of the mind" which
+illustrates a "certain code," or "certain rules" of engagement. It is, for her,
+"virtually" a type of translation. The critic "transforms" and "revamps" the
+text: X turns out to be A, Y turns out to be B, and so on [@sontag, 3]. And by
+"form" Sontag means something like the apparent, perceptual properties of the
+work: this sentence is long, for example. And this one short. A critic could
+say that the sentence length means something, but Sontag wants to stop short of
+meaning making. A discipline of careful perception---of paying
+attention---rather sharpens the reader's sensibilities.
+
+### Jameson, Marcus, Best.
+
+The history of interpretation Sontag objects to is one that privileges content
+over form. The very words "explication" and "exegesis" imply the movement from
+inside to the outside. For a psychoanalytical critic interpretation in that
+sense may mean revealing the hidden psychological drives that give rise to a
+particular form of an expression. A Marxist critic may instead look for the
+concealed operation of this or that ideology. Fredrick Jameson, a prominent
+Marxist critic, writes for example:
+
+> Thus the process of criticism is, not so much the interpretation of
+content, as it is a revealing of it, a laying bare, a restoration of the
+original message, the original experience, beneath the distortions of the
+various kinds of censorship that have been at work upon it; and this revelation
+takes the form of an explanation of why the content was so distorted and is
+thus inseparable from a description of the mechanisms of the censorship itself
+[@jameson-marxism-firm, 404].
+
+### Conclusion
+
+
+Although the distinction between form and content is somewhat naturalized in
+literary and linguistic discourse, the concept of form is also often used in
+another way, which contradict the earlier sense set in opposition to meaning
+and content. When we think of Shakespeare's *Hamlet*, for example, whatever is
+meant by the "form" of the play belongs neither to its physical medium (pixel
+or paper) nor to the ideational content of the work. Form, in that sense, lies
+somewhere between the two worlds: it is in the shape of the letters, in the
+structure of the narrative, and in the prosody of the word. We do not quite
+know which of these elements belong to the content of the play and which are
+the contingent material artifacts of the printing process: the way the fonts
+look, for example, or the way lines break on the page. Some matters of form
+matter to us as readers (line breaks), and others do not (font kerning). Three
+things seem to be in play rather than two: matter, form, and content. And of
+these, form sometimes falls into the category of meaningless matter and
+sometimes into semantic-carrying ideation: form, the indeterminate.
+
 ## 2.3 Document Object Model (DOM)
 
 It is in this tripartite sense of matter, form, and idea that one can best
@@ -917,7 +924,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## 2.4 Mark of Transparency
+## 2.4 Mark of Transparency (Disappear)
 
 In this section, I would like to give a short historical account of a letter's
 passage from keystroke to pixel. The movement proceeds in three stages, as
