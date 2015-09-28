@@ -554,9 +554,6 @@ storage systems, considered as "furnishings of the mind" that tell us something
 about the way we externalize our thoughts. The book concludes with the concept
 of the human as encoded in the philosophy of the Unix operating system.
 
-[^ln1-google]: "Google's mission is to organize the world's information
-and make it universally accessible and useful" [@google_about_2015].
-
 ## Plan of the Present Work
 
 The passage from keystroke to pixel runs a thread through the book. I begin

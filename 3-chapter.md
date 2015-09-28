@@ -1,6 +1,26 @@
-## 3 Form
+# Chapter 3: Form
 
 Literary Formalisms
+
+Marketing language aside, the
+emergence of the layered Document Object Model constituted a major milestone in
+the history of the printed word. Whatever model of semiotics one subscribed to
+in the late 1960s, the DOM fixed the shape of the sign in accordance to
+emerging technology. The document object model continues to structure
+contemporary text in all its forms: from print typesetting software to web
+pages. It gives the material basis to the conditions of contemporary text
+production.
+
+To grasp the peculiarity of the computed
+sign stretched between the sites of archive and projection, we will have to
+revisit the language of formalism. A treatment of theoretical terms will lead
+us to the reconstruction of a critical moment in the material history of
+literary technology. As I will argue in this chapter, the middle of the
+twentieth century saw the birth of a new formalism, related to, yet
+categorically distinct from formalism in literary studies. The changing
+conditions of literary production necessitated a thorough reevaluation of
+textual primitives that give rise to letters, words, and pages.
+
 
 I will begin by identifying a feature of formalist thought that has long given
 me pause. The very concept of form, central to literary analysis, contains in

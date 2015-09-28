@@ -8,7 +8,6 @@ Genette.
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
 for resemblance between documents" 
 
-Drucker "the totalizing drive of the digital [@drucker2001, 145]."
 
 foundational binaries in literary studies, namely: surface and depth, form and
 content, immanence and transcendence, concrete and universal.

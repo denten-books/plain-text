@@ -1421,9 +1421,6 @@ in paper or stone constituted a single site for textual activity, the digital
 word exists in a simulated environment physically apart from the underlying
 material substratum. Freedom reveals itself as a simulation.
 
-[^ln1-google]: "Google's mission is to organize the world's information
-and make it universally accessible and useful" (@google_about_2015).
-
 [^ln1-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.

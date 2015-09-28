@@ -1,6 +1,5 @@
 # Chapter 2: Transparency
 
-WYSINAWYG (What You See Is Not Always What You Get)
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -68,26 +67,18 @@ flat, computed text resides at several levels and along multiple dimensions
 
 How did this multiplicity come to be? And what effect does it have on the life
 of the mind? The purpose of this chapter is to open space between the visible
-sign and the archived inscription. To grasp the peculiarity of the computed sign stretched between the sites of
-archive and projection, we will have to revisit the language of formalism. A
-treatment of theoretical terms will lead us to the reconstruction of a critical
-moment in the material history of literary technology. As I will argue in this
-chapter, the middle of the twentieth century saw the birth of a new formalism,
-related to, yet categorically distinct from formalism in literary studies. The
-changing conditions of literary production necessitated a thorough reevaluation
-of textual primitives that give rise to letters, words, and pages.
-
-The structure of textual artifacts---from a simple leaflet to a novel in
-multiple volumes---has remained remarkably stable since the invention of
-movable type. One rarely finds a sentence that spans several paragraphs, for
-example. Nor would a contemporary reader expect to find pages of different
-length in the same tome. Long-standing historical conventions guide the
-production of printed text. Semantic and decorative units on a page exist
-within a strict hierarchy, so familiar to us as to become almost invisible. No
-serious academic book will be typeset in cursive font, for example. But unless
-something out of the ordinary attracts attention, the reader will tend to gloss
-the "inconsequential" details of formatting in favor of content. The material
-contexts of a well designed book fade from view during reading.
+sign and the archived inscription. The structure of textual artifacts---from a
+simple leaflet to a novel in multiple volumes---has remained remarkably stable
+since the invention of movable type. One rarely finds a sentence that spans
+several paragraphs, for example. Nor would a contemporary reader expect to find
+pages of different length in the same tome. Long-standing historical
+conventions guide the production of printed text. Semantic and decorative units
+on a page exist within a strict hierarchy, so familiar to us as to become
+almost invisible. No book of serious non-fiction will be typeset in cursive
+font, for example. But unless something out of the ordinary attracts attention,
+the reader will tend to gloss the "inconsequential" details of formatting in
+favor of content. The material contexts of a well designed book fade from view
+during reading.
 
 For a few decades after the advent of magnetic storage media but before screen
 technology, the outward shape of the sign disappeared altogether. It is
@@ -131,9 +122,7 @@ one specifying the control codes, and one responsible for handling the paper
 output. The machine operators could hypothetically work in isolation from one
 another. The typist would see only elements of the copy; the typesetter or the
 controller only formatting and control codes; and the printer only the
-interpolated results. The relationship between such distinct layers of print
-production was formalized into something called the Document Object Model
-(DOM).
+interpolated results.
 
 ![DIAGRAM from MT/SC]
 
@@ -146,17 +135,10 @@ to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
 printing process in this evolution," he writes. He concludes to say that the
 IBM Composer finally empowers the writer to once again write books "without the
 assistance of specialists" [@frutiger, 10]. Marketing language aside, the
-emergence of the layered Document Object Model constituted a major milestone in
-the history of the printed word. Whatever model of semiotics one subscribed to
-in the late 1960s, the DOM fixed the shape of the sign in accordance to
-emerging technology. The document object model continues to structure
-contemporary text in all its forms: from print typesetting software to web
-pages. It gives the material basis to the conditions of contemporary text
-production.
+separation of the sign from its immedeate material contexts constituted a major
+milestone in the history of writing and textuality.
 
-## 2.2 Mark of Transparency (Disappear)
-
-In this section, I would like to give a short historical account of a letter's
+In this chapter, I would like to give a historical account of a letter's
 passage from keystroke to pixel. The movement proceeds in three stages, as
 illustrated by three specific devices: first the mechanization of type reached
 its apogee in the telegraph at the end of the nineteenth century. With the
@@ -199,6 +181,13 @@ sign is sealed in miniaturized containers that prevent access and to resist
 tempering. These are but some of the realities of material text. It is text
 intertwined with machine internals and control code and it is often
 hermeneutically sealed to resist human interpretation.
+
+[^ln1-google]: "Google's mission is to organize the world's information and
+make it universally accessible and useful" (@google_about_2015).  See also
+Johanna Drucker's discussion on "the totalizing drive of the digital" in
+[@drucker2001, 145].
+
+## WYSINAWYG (What You See Is Not Always What You Get)
 
 Give an account of a pixel's passage from keystroke to ink or pixel. The vast
 machinery that brings literature to life hides from the reader's view.
