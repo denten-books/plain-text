@@ -163,17 +163,18 @@ the same guise, but also, as we suspect, somehow transformed: less solid and
 concealing something beneath the phantasmal shell of its former
 appearance.[^ln1-denning]
 
-As we embark to explore the consequences of computed, simulted text, I propose
-we keep the following three landmark mechanisms in view as signpost along our
-journey: Goldberg's Controller, the IBM MT/SC, and Engelbart's Time Fob. In the
-first of these, text structure and machine control lie before us for
-inspection. The second one is mute: a black slate. The last of these belongs to
-what Peter Denning calls the "third generation" of computer systems---an
-assemblage of storage, input, and output technologies that continue to shape
-the contemporary human encounter with text today. These devices tell us a story
-of a fracture.  Through them, a part of the sign fades from view as an
-arrangement of magnetic charge and floating gate. Another part appears as
-flicker of the cathode ray and the flow of the liquid crystal.
+As we embark to explore the consequences of computed text, I propose we keep
+the following three landmark mechanisms in view as signpost along our journey:
+Goldberg's Controller, the IBM MT/SC, and Engelbart's *Time Fob*. In the first
+of these, text structure and machine control lie before us for inspection. The
+second one is mute: a black slate. The last of these belongs to what Peter
+Denning calls the "third generation" of computer systems---an assemblage of
+storage, input, and output technologies that continue to shape the contemporary
+human encounter with text today. These devices tell us a story of a fracture.
+Through them, a part of the sign fades from view as an arrangement of magnetic
+charge and floating gate at the site of the archive. It reappears at the site
+of projection in the flicker of the cathode ray and the flow of the liquid
+crystal.
 
 ### A. Removable storage media and automation, 1725--1964.[^ln1-loom]
 
@@ -193,18 +194,18 @@ coincide.
 
 The Controller never caught on, but the patent makes it clear that Goldberg,
 among others, was aware of the problem: the mechanization of type, automation,
-and remote control required specialized training. With the advent of the
-automated telegraph, content meant for people was now being intermixed with
-machine-controlling code. To combat mutual unintelligibility, Goldberg imagines
-using cards, perforated in the shape of the English alphabet. Besides carrying
-(human-readable) content, the perforations do "double duty" to mechanically
-manipulate the machine's "blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915]. Early paper-based storage media, from Morse
-code-based ticker tape systems, to the telegraphs of Hughes and Baudot, and to
-punch cards that powered weaving looms, player pianos, and census tabulators
-coupled message and control. The era of ticker tape punch cards can be thought
-to end with the mass-market introduction of IBM's Magnetic Tape/Selectric
-Typewriter in 1964.
+and remote control of machines required specialized training. With the advent
+of the automated telegraph, content meant for people was now being intermixed
+with machine-controlling code. To combat mutual unintelligibility, Goldberg
+imagines using cards, perforated in the shape of the English alphabet. Besides
+carrying (human-readable) content, the perforations do "double duty" to
+mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
+and "plungers" [@goldberg_controller_1915]. Early paper-based storage media,
+from Morse code-based ticker tape systems, to the telegraphs of Hughes and
+Baudot, and to punch cards that powered weaving looms, player pianos, and
+census tabulators coupled message and control. The era of ticker tape punch
+cards can be thought to end with the mass-market introduction of IBM's Magnetic
+Tape/Selectric Typewriter in 1964.
 
 ### B. Magnetic tape, 1888--1968
 
@@ -214,14 +215,17 @@ influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
 same effect. But what gives software its ephemeral quality? Embossed onto
 ticker tape or punched into the card, early software protrudes through the
-medium. In the age of the telegraph, the largest barrier to the comprehension
-of software was encoding. But once the cipher is known and the format
-identified, the inscription makes itself visible to view. Early programmable
-media could hardly be called ephemeral or immaterial. Anecdotes circulate in
-the digital humanities circles of Father Roberto Busa, an early (post-WWII)
-pioneer in the field of computational philology, carting his punch cards around
-Italy on a truck.[^ln3-busa] Code before its electromagnetic period was
-burdensome, fragile, unwieldy, and, most of all, visible.
+medium. In the age of the telegraph, the biggest barrier to the comprehension
+of software was encoding. Morse code and similar alphabet conventions left a
+visible mark on the paper. Once the convention identified, it could be
+translated back into natural language.
+
+Early programmable media could hardly be called ephemeral or immaterial.
+Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
+the early (post-WWII) pioneer in the field of computational philology, carting
+his punch cards around Italy on a truck.[^ln3-busa] Code before its
+electromagnetic period was burdensome, fragile, unwieldy, and, most of all,
+visible.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
@@ -505,7 +509,7 @@ they become an active part of a "bootstrapping community" of their own.
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
-## Document Object Model (DOM)
+## Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -731,7 +735,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## Malicious Code Injection (Conclusion)
+## Malicious Code Injection
 
 In presenting canonical models of document structure, it is my hope to convince
 the reader of the very real and literal sense of depth manufactured into the
