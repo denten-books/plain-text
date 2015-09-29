@@ -96,7 +96,7 @@ system as follows:
 
 > It could be emphasized for the first time that the typist could type at
 > "rough draft" speed, "backspace and strike over" errors, and not worry about
-> the pressure of mistakes made at the end of the page [@may, 742].
+> the pressure of mistakes made at the end of the page [@may_ibm_1981, 742].
 
 The IBM Magnetic Tape Selectric Composer (MT/SC) further added a "programmable
 control" unit to separate the input from the output. Final printing would be
@@ -161,23 +161,271 @@ media (ticker tape and punch card); second, inscription splits into input and
 output, retreating into magnetic storage to reemerge at last on the screen, in
 the same guise, but also, as we suspect, somehow transformed: less solid and
 concealing something beneath the phantasmal shell of its former
-appearance.[^ln1-denning]
+appearance.
 
 As we embark to explore the consequences of computed text, I propose we keep
 the following three landmark mechanisms in view as signpost along our journey:
-Goldberg's Controller, the IBM MT/SC, and Engelbart's *Time Fob*. In the first
-of these, text structure and machine control lie before us for inspection. The
-second one is mute: a black slate. The last of these belongs to what Peter
-Denning calls the "third generation" of computer systems---an assemblage of
-storage, input, and output technologies that continue to shape the contemporary
-human encounter with text today. These devices tell us a story of a fracture.
-Through them, a part of the sign fades from view as an arrangement of magnetic
-charge and floating gate at the site of the archive. It reappears at the site
-of projection in the flicker of the cathode ray and the flow of the liquid
-crystal.
+Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*. In the
+first of these, text structure and machine control lie before us for
+inspection. The second one is mute: a black slate. The last of these belongs to
+what Peter Denning calls the "third generation" of computer systems---an
+assemblage of storage, input, and output technologies that continue to shape
+the contemporary human encounter with text today.[^ln1-denning] These devices
+tell the story of a fracture.  Through them, a part of the sign fades from view
+into an arrangement of magnetic charge and floating gate at the site of the
+archive.  Another part appears at the site of projection in the flicker of the
+cathode ray and the flow of the liquid crystal.
 
-### A. Removable storage media and automation, 1725--1964.[^ln1-loom]
+### A. Automation, 1725--1964.[^ln1-loom]
 
+The turn of the twentieth century represents a pivotal moment in the history of
+symbolic communication. The advent of programmable media---punch cards and
+ticker tape---coupled natural language alphabets with machine control code.
+Following the invention of the Morse alphabet in the first half of the
+nineteenth century, a number of formats were proposed to encode human languages
+into binary formats, that could further be converted into the modulation of an
+electrical signal for transmission.
+
+The Morse alphabet, co-developed between a number of American and British
+inventors in the first half of the nineteenth century, had the advantage of a
+tighter and a more robust encoding scheme, that was much easier to calibrate
+between the sender and the receiver. The 1865 ITU rules required a silence
+equal to three dots (same as one dash) to indicate the space between two
+letters, and a silence equivalent to four dots (later changed to seven) to
+indicate the space between words. Although Morse code can be expressed in terms
+of ones and zeros (binary), it is technically a ternary code making use of at
+least three elements: dots, dashes, and silences of various length.
+Furthermore, note that Morse code, like the Hughes, is a type of a "variable
+length" format, where encoded characters in sequences (of dots and dashes) that
+vary in length: from one dash for "T" to six dots that stand for the number
+six. Variable length codes were ill-suited for automated telegraphy. Although
+proscribed to a fixed length, the actual length of silence could vary with the
+vagrancies of the transmitting medium. Cross talk between wires and weather
+interferences were common, which meant that communicating in Morse still
+required a human operator for efficient deciphering. In a long-chain of
+mediation telegraph operator, code, and machine, the human posed a limiting
+factor. By the late 1920s the "Morse men" were being replaced with more
+efficient automated devices.
+
+Writing in 1929 for the journal *American Speech*, Hervey Brackbill lamented
+the demise of a language associated with human-driven, Morse code telegraph
+operation. "Morse telegraphy is commonly referred to as a 'game,' and the
+operator 'works a wire.'" The operator tapping on a semi-automatic key "uses a
+bug." Brackbill wrote, "the first instruments, with their long slender levers
+and springs, looked very much like a sprawling bug." They have trade names like
+"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
+[@brackbill_telegraphers_1929, 287-288]. Operators using "straight keys"
+achieved speeds upwards of 25--30 words per minute, limited by the shortest
+possible length of the smallest transmitted unit (a dot), fixed by the American
+and the International Morse Code conventions to 1/24 of a second in duration.
+
+The physical limits of the code suggest a theoretical upper limit for
+transmission speed of around 49 words per minute---a rate further limited by
+the operator's manual dexterity [@mcnicol_american_1913, 207;
+@u.s._bureau_of_labor_statistics_displacement_1932; @halstead_genesis_1949].
+Telegraph operators working a "hand sender" commonly developed partial
+paralysis of wrist or arm, commonly known as a "glass arm"
+[@brackbill_telegraphers_1929;
+@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a
+"ham" or a "bum" when he "fell down" or made errors in sending.  To "put
+someone under the table" in sender's lingo was to transmit faster that the
+receiver ability to transcribe. The "reader" was "burnt up" when he fell
+behind. He had to "break," or interrupt the sender to ask for repetition. To
+"paste" someone meant to transmit at high speeds to deliberately burn him up or
+put him under the table [@brackbill_telegraphers_1929]. 
+
+Around the turn of the twentieth century, companies like Western Electric,
+Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
+use of a horizontal switch capable of emitting a rapid succession of dots to
+one side of the action, and dashes to the other [@martin_telegraphic_1904;
+@boyd_telegraph-key_1916]. A bug was said to "run away" when adjusted for too
+high of a speed. The Vibroplex keys would significantly alter the “fist,” or
+the transmission style of the operator, allowing for speeds that approached 50
+words per minute (and above, if not following the minimum signal length
+specifications) [@mcnicol_american_1913, 209; @halstead_genesis_1949].
+
+By the 1930s, devices variously known as "printer telegraphs,"
+"teletypewriters," and "teletypes" displaced Morse code telegraphy as the
+dominant mode of commercial communication. The monthly "Labor Review" report
+published by the U.S. Bureau of Labor Statistics in March of 1932 estimates
+more than a 50 percent drop in the number of Morse code operators between the
+years of 1915 and 1931. Morse operators referred to the tele-typists on the
+sending side as "punchers" and on the receiving side as "printer
+men."[^ln1-printermen] The printer men responsible for assembling pages from
+ticker tape were called "pasters" and sometimes, derisively, as "paperhangers"
+[@brackbill_telegraphers_1929]. Where, in the Morse code machine, a
+human-operator was responsible for translating language into code, teletype
+automated the process completely. The human operator could simply enter printed
+characters into the machine directly, using a keyboard. The teletype would then
+transcode the input into transmitted signal and then back from the signal onto
+paper on the receiving end.
+
+[^ln1-printermen]: According to the U.S. Department of Labor statistics, women
+comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
+of automated telegraphy). By 1931 women comprised 64 percent of printer and
+Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
+514].
+
+As telegraphy spanned national boundaries, agreements were needed to
+standardize conventions for equipment and message encoding
+[@international_telegraph_union_journal_1899, 82-91]. Such agreements were
+handled on a regional, ad-hoc basis until 1865, with the creation of the
+International Telegraph Union (ITU). The International Telegraph Conference in
+Paris, held between March 1 and May 17 of 1865, adopted the use of a modified
+Morse code character set, containing 33 Latin letters (including characters
+from the French, German, and Spanish alphabets), 10 numbers (0--9), 14
+punctuation marks (including a fraction bar), and 10 control codes (including
+"end of service," "attention," and "error")
+[@international_telegraph_union_documents_1865].
+
+During the International Telegraph Conference in Lisbon, held in the summer of
+1908, the ITU specified two additional formats: Hughes and Baudot.
+
+![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
+
+The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
+by the American Royal E. House, was a capricious machine that relied on a
+tuning mechanism to transmit individual characters. Inspired by the player
+piano, the Hughes telegraph even looked like a piano, complete with a keyboard
+and a rotating drum, commonly used in music boxes. The sending device struck a
+tone which, when transmitted by electrical current, would initiate the rotation
+of a similar drum in the receiving apparatus "at the pleasure of the distant
+operator," in Hughes's words. The length of time between the initial
+synchronization signal and the struck chord corresponded to a letter, which the
+machine then printed to tape using a letter wheel. Hughes referred to the
+device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
+hints at the fragility of the device. The message becomes impossible to
+decipher should the sending drum and the receiving drum fall out of sync
+[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
+20-21].
+
+The automation of the telegraph necessitated new encoding formats, chief among
+them the Baudot code, standardized in 1908 by the ITU. The significant
+difference between Hughes and Morse encodings on the one hand and Baudot on the
+other remains the fact that Baudot constitutes a fixed-length code. The
+invention of fixed-length ciphers lies in the sixth book of Francis Bacon's *De
+augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an encyclopedic
+treatise on the "partition of sciences" written in the form of a letter to King
+James in 1623. Book Six of Bacon's systematic account of the sciences is
+dedicated to speech, speaking, writing, grammar (literary and philosophical),
+poetry (meter and verse), and, most relevant to our discussion, "the knowledge
+of ciphers." Here Bacon boasts of inventing a "highest degree of cipher” that
+can signify "all in all" (omnia per omnia). Bacon proceeds to describe a
+"fivefold," "bi-literarie” alphabet, which encodes each letter of the English
+language using a string of As and Bs five-letters long. The letter A, for
+example, becomes "aaaaa." B becomes "aaaab," C "aaaba," and so on to Z,
+represented as "babbb." "Neither is this a small matter," Bacon writes:
+
+> These Cypher-Characters have, and may performe: For by this *Art* a way is
+opened, whereby a man may expresse and signifie the intentions of his minde, at
+any distance of place, by objects which may be presented to the eye, an
+accommodated to the eare: provided those objects be capable of a twofold
+difference only; as by Bells, by Trumpets, by Lights and Torches, by the
+report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
+266].
+
+Although the discovery of binary arithmetic rightly belongs to Gottfried
+Leibniz, who, influenced by hexagrams in the *I Ching*, articulated his own
+system in his *Explication de l'Arithmétique Binaire* (written in 1679 and
+published in 1703) [@leibnitz_explication_1703], Bacon should take the credit
+for articulating a system for fixed-length binary encoding. His "two-fold
+difference" did have the effect of enabling humans to "express and signify"
+thoughts at virtually "any distance and place." The fixed-length property of
+Bacon's cipher, later implemented in the 5-bit Baudot code, signaled the
+beginning of the modern era of serial communications
+[@jennings_annotated_2004]. Baudot and the related Murray alphabets
+[^ln1-murray] were designed specifically with automation in mind. Both being
+fixed-length alphabets, the Baudot in particular did away with the "unison"
+signal that separated letters in Morse, since the signals could be divided into
+letters by count (every five codes representing a single character).
+Additionally, the Murray code was more compact than Morse and especially more
+economical than Hughes, which used up to 54 measures of silence to send a
+signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
+code occupied 22 measures. By contrast, all Baudot and Murray characters were a
+mere five units in length, with the maximum of ten used to switch the receiving
+device into "figure" or "capital letter" states (for the total of ten units)
+[@murray_setting_1905; @beauchamp_history_2001 380-397].
+
+![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
+[@murray_setting_1905].](images/murray-keyboard.png)
+
+As the volume of transmissions increased, human operators were simply not fast
+enough to keep up with the demand of encoding and decoding messages into and
+from Morse code. The rise of printing telegraphs answered the demand of
+increased information exchange. The great variety of printing telegraph designs
+at the turn of the twentieth century all attempted to solve the problem of
+automating the encoding and decoding mechanisms of transmission, with the goal
+of speeding up and increasing the volume of possible communication.[^ln-cables]
+Murray writes: "It is the object of machine telegraphy not only to increase the
+saving of telegraph wire […] but also to reduce the labor cost of translation
+and writing by the use of suitable machines" [@murray_setting_1905, 557].
+Baudot's and Murray's codes were not only shorter, they were simpler and less
+error-prone, resulting in less complicated and more durable devices. By the end
+of the nineteenth century a number of devices were in use internationally,
+making it possible to decouple the real-time encoding of text into code from
+the operation of the machine. A tape containing the message could be prepared
+in advance, fed into the telegraph, and printed in human-legible form on the
+receiving end.
+
+Several engineering solutions emerged to transcend the limits of human
+information processing. The automated printing telegraph decoupled encoding
+from transmission. It then became possible to prepare messages in advance, in
+volume, and to run the messages through a machine without human assistance. At
+that point, telegraph diverged from the telephone to become a device of
+asynchronous communication, displacing the act of communication in time as it
+did in space. But even with the advent of removable storage media, the
+bandwidth, or the "information density," of the system was limited by the
+number and the size of available cables. Independent developments in
+communication technology led to a range of techniques known as
+"multiplexing"---ways of sharing the same wire to send multiple messages.
+Multiplexing at the time fell into two broad approaches: time-division and
+pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
+Pulse-amplitude modulation involved filling the available space (bandwidth)
+with simultaneous signals of different types: sending multiple signals at
+differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
+modulation was difficult to implement initially. Cross-channel noise and device
+sensitivity hampered reliable reception and decoding across multiple
+simultaneous wave frequencies.
+
+Emile Baudot was one of the first engineers to notice that the prevailing Morse
+and Hughes telegraph systems failed to make full use of the time allotted for
+message transmission. The Hughes code in particular made extensive use of long
+silences, which could be condensed to extract more utility from the channel.
+Baudot-type multiplexers made use of synchronized rotating mechanisms both of
+the sending and the receiving end, to distribute units of time among multiple
+operators. Figure 6 shows a scheme for a duplex printing telegraph, for
+example. A single rotation of the synchronization device (known as the
+"distributor") was thereby divided into two units of five segments each, each
+corresponding to a distinct channel of communication. Two operators could
+therefore share the same channel to transmit two different messages.
+
+![Multiple Printing Telegraph, 1905
+[@murray_setting_1905].](images/multiplex.png)
+
+The maintaining of unison became of paramount importance in such multiplexed
+systems. The operators of a time-shared device needed to know when it was their
+turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
+mechanism to indicate turns to individual operators, and in some devices,
+locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
+four operators would engage in an intricate dance of fingers, keys, tappers,
+and signals, synchronized by the rotation of the telegraph distributor.
+
+Synchronization was also needed for Morse code devices, to distinguish
+non-meaning carrying silence (the receiver is turned off) from the
+meaning-carrying one (the receiver pauses to indicate a dot). The receiving
+device needed a measure (duration) of silence to differentiate between "dots"
+and spaces between words, both indicated by silences of different length. But
+if the devices went out of sync, or if communication lagged for some reason,
+the coherence of the message faltered. Sending and receiving machines had to be
+tuned to a cadence of common information exchange. The system of operators,
+transmitters, and receivers, was, in aggregate, tuned to a specific but
+arbitrary rhythm by which certain messages made sense only in particular (also
+arbitrary) units of time. In early telegraphy, these units of time were slower
+than natural human time, enough so for the operator to remain idle. Later
+systems increased the pace to a rhythm beyond natural human abilities of
+comprehension, to a point where human operators could no longer decipher the
+signal without machine assistance. In the language of wiremen, the bugs were
+"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg 1911 patent, simply titled
 "Controller." "My invention relates to all controllers," Goldberg writes.
@@ -249,15 +497,12 @@ typewriters to the mass market. Writing for the *Encyclopedia of Library and
 Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
 first word processors, defined by the ability to record strokes and to print
 them onto paper *as a separate operation* [@eisenberg_word_1992]. The
-separation of input and output allows for word processing as such. An article
-in the *IBM Journal for Research and Development* explains that the real
-significance of the MT/ST workstation was in the introduction of new "power
-typing" technologies: "For the first time the typist could type at 'rough
-draft' speed, 'backspace and strike over' errors, and not worry about the
-pressure of mistakes made at the end of the page" [@may_ibm_1981, 742].
+separation of input and output in effect defines word processing. The magnetic
+tape gives temporary shelter to the word. There it can be processed before
+commiting to a more permanent medium.
 
-We may think of word processing as a temporal extension of the page. Words on
-magnetic storage media begin to exist in the ephemeral state, giving the typist
+We may therefore think of word processing as a temporal extension of the page.
+Words on magnetic storage media exist in what seems;qephemeral state, giving the typist
 an opportunity to edit and emend *before* commitment to paper, in its immutable
 form, and as a separate operation, removed from the immediate process of
 inscription. The very invention of word processing thus corresponds to the
@@ -508,232 +753,6 @@ they become an active part of a "bootstrapping community" of their own.
 [^ln1-brain]: We will later entertain the (real) possibility of
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
-
-## Document Object Model
-
-It is in this tripartite sense of matter, form, and idea that one can best
-understand the structure of modern "digital" documents. In the language of the
-Document Object Model, the literary-theoretical concept of "form" can mean both
-"class" and "instance" (object-oriented programming), or "set" and "object"
-(set theory), or "type" and "term" (type theory). Although literature in
-computer science rarely operates in the mode of intellectual history,
-computer-aided text editors internalized a model of document structure
-remarkably similar to the one suggested by Hegelian aesthetics, and in terms of
-physical (media), form (formatting), and content (text) levels of analysis. The
-Document Object Model weaves the language of the Hegelian universal into the
-fabric of modern computing.
-
-Describing *EDIT*, one of the first editors designed for the GE635 36-bit
-mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
-publication editor is divided into three related sections, the document layout
-facility, the editing facility, and the printing facility"
-[@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
-contains such things as justification, indentation, and spacing. These
-"primitive requests" can be combined to describe more complex "structures of
-the printed text." The creators of *QED*, another influential early text editor
-(created for the SDS-930 time-sharing system at Berkeley) similarly encourage
-the user "to think in terms of structure" of the text. Both *QED* and *EDIT*
-begin to separate content and formatting for later recombination and imprinting
-onto external storage media. Kaiman explains that "the user types the document
-layout file and the text file, then produces a proof or master copy of the text
-by printing the text according to the directions of the layout file. The text
-file contains layout marks to be interpreted by the layout file." "Text," in
-this schema, constitutes content meaningful only to the user, whereas layout
-contains some elements meaningful to the human and some elements as code
-instructions intended for device control. The notion of "formatting" therefore
-mediates between the logical (semantic) and layout (stylistic) structural
-representations.
-
-![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
-
-A seminal paper in the field of structured documents proposes the following
-model. First, "a document is an object composed of a hierarchy of primitive
-objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
-the start: composability and hierarchy. A document is a thing made up of other
-objects, like sentences and paragraphs. Furthermore, these things stand in a
-hierarchical relationship to each other. Paragraphs contain sentences, and not
-the other way around, for example.
-
-Second, "each object is an instance of a class." Document level classes include
-"letters," "theses," "recommendation," and "papers for a particular journal."
-Lower-level classes include sections, paragraphs, footnotes, and so on.
-
-Finally, "objects are further classified as either abstract or concrete." By
-this, the writers mean abstract or "logical" objects, like words and ideas. In
-describing FORMAT, an important early (circa 1968) "general-purpose" text
-processor (written in FORTRAN IV for OS/360 devices), George Berns describes
-the program's input as "free-form" (literally, free of form) in that it is
-"entirely free of positional restraint [@berns_format_1968, 85;
-@berns_description_1969, 141]." Text free of positional restraint, in that way,
-can be described in terms of "content," in contrast to "formatted" objects made
-"concrete," that is positioned in "one or more two-dimensional *page spaces*
-and represent[ing] possible formatted images of abstract objects
-[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
-other words, gives physical shape, layout, or style to the instantiation of
-abstract universal classes like paragraphs and sentences. Concrete objects are
-abstract paragraphs and sentences "laid out" in page space.
-
-Here is where things should get interesting for a scholar of textuality. The
-Document Object Model further gives rise to three "operations," tied to the
-"domain and range" of its constituent objects. *Editing*, in this model,
-comprises operations that move from abstract to abstract, or, from concrete to
-concrete domains.
-
-+------------------------+--------------+-------------------------------+
-| Operation              | Type         | Example                       |
-+========================+==============+===============================+
-| abstract to abstract   | Editing      | spelling correction \newline  |
-| concrete to concrete   |              | move (data) table   \newline  |
-|                        |              |                               |
-+------------------------+--------------+-------------------------------+
-| abstract to concrete   | Formatting   | apply font   \newline         |
-|                        |              | break into pages \newline     |
-+------------------------+--------------+-------------------------------+
-| concrete to abstract   | Recognition  | optical character             |
-| \newline               |              |   recognition  \newline       |
-|                        |              | page layout analysis \newline |
-+------------------------+--------------+-------------------------------+
-| concrete to output     | Viewing      | print to paper \newline       |
-| \newline               |              | publish to web \newline       |
-+------------------------+--------------+-------------------------------+
-| concrete to storage    | Filing       | save file    \newline         |
-|                        |              | shelve book                   |
-+------------------------+--------------+-------------------------------+
-
-Table: Object operation types under the Document Object Model
-[@furuta_document_1982, 419-20].
-
-Spelling correction, for example, constitutes an editing manipulation where
-abstract objects are modified into other abstract objects. Moving footnotes to
-endnotes, or shifting data tables around the document would count as editing of
-the "concrete to concrete" type. The authors define *formatting* as giving
-concrete shape to ideas in the transformation between abstract and concrete
-objects. Italicizing a word, for example, gives the idea of "emphasis" a
-slanted form. The act of breaking a document into pages gives shape (and a
-specific number of lines, for example) to the idea of a page.
-
-The authors hint at, but do not discuss the opposite movement, from "concrete
-to abstract" entities, as would be done in the process of optical character
-recognition (OCR). An important part of the digitization process, OCR "lifts"
-ideational content from the page image. Without OCR, common document formats
-like `.pdf` and `.tiff` therefore remain *merely visual representations*. They
-do not, at that stage, contain text or "abstract objects" as such. They are
-just pictures. Similar to how humans must "read" a text first in order to
-understand it, OCR attempts to "recognize" textual content from the image as a
-first step to further manipulation. Leaving aside the question of machine
-"understanding," recognition in this case implies more narrowly the
-conversation of image into text. This implies also that textuality occupies a
-distinct and privileged category in document epistemology, from the point of
-view of the machine. Another way to think about machine text would be to
-describe "images" as one type of "internal data structure" and text as another,
-more "structured" and "more internal," mode of representation. Consider that in
-the hierarchical Document Object Model images can contain text, but text
-cannot contain images. Text, in that sense, lies at the innermost location in
-series of nested "outer" containers. Lacking a model of "comprehension" or
-"understanding," the Document Object Model merely posits text as "content" only
-in the sense of it being the "innermost" object of recognition.
-
-The "recognition" of characters does not, however, fully capture the variety of
-abstract document objects, which besides letters and words include paragraphs,
-tables, titles, and footnotes. These also count as "content." It is essential
-therefore to know "where text resides on the page," since some elements of
-positioning in themselves can carry meaning. For instance, proper names could
-carry different connotations depending on their location in the text. A name in
-the "author field" means something distinct from any other name mentioned in
-the body of the document. Lawrence O'Gorman, an influential researcher in the
-field of document image processing, calls the recognition of this sort of
-object, at the intersection of concrete and universal, "document lay-out
-understanding," which consists of "functional labeling of blocks [...]
-distinguished in some way by their physical features (such as by font size) and
-by the 'meaning' of the block [@ogorman_document_1993, 1162-63;
-@ogorman_document_1995, 82-99 (in the reconstructed edition)]." But note also
-that document layout (alternatively "formatting" or the arrangement of
-"concrete objects") could also incorporate meaningless (to humans) structures,
-such as the incidental "rivers" of empty space formed between the words. That
-sort of concrete structure goes "unrecognized" because it does not correspond
-to any abstract objects.
-
-![Method for extracting document structure based on "nearest-neighbor clustering
-of page components" [@ogorman_document_1993, 1164].](images/docstrum.png)
-
-Finally, the Document Object Model defines *viewing* as the movement from
-concrete objects to output device. This could include printing the document
-onto paper, or publishing it online, for example. It is at this moment that the
-full weight of Hegelian "universal concrete" makes itself known. The "concrete"
-object in the Document Object Model is still only a *description* of the
-two-dimensional space and represents some "possible formatted images of
-abstract objects."[^ln3-dom] To repeat: the concrete object represents
-"possible" formatted images, and not yet actual formatted images! To actualize
-materially, the document must be fixed and flattened back out onto a medium
-such as a screen or paper. These media have actual dimensions. In this way, a
-footnote placed at the bottom of the page at the level of concrete object can
-then be rendered at the bottom of an A1 (841mm × 1,189mm) size piece of paper
-or at the bottom of a much smaller A4-sized sheet (210mm × 297mm).[^ln3-iso216]
-
-In yet another formative paper in the history of contemporary textuality, Brian
-Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
-1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
-Kernighan reports modifying the original program to produce output for a
-greater variety of typesetters. Kernighan explains, "TROFF produces its output
-in a device-independent form," and its output "must be processed by a drive for
-that device to produce printed output" [@kernighan_troff_1992].
-
-This stage flattens out the layers of ideas and visual style, to render them
-and to make them visible on screen or page [@furuta_document_1982, 419-20;
-@kimura_structure_1984]. Similar to Hegel's "universal concrete," the
-"formatting layer" in the Document Object Model bridges the gap between ideas
-and matter. Formatting is where ideas connect to physical shape. This is a most
-delicate operation, for in giving shape to abstract ideas formatting does
-something more notable than mere application of visual style. Formatter
-designers from TROFF to FORMAT consistently describe their programs in explicit
-terms of instrumental control. Berns, for example, explains that "text control"
-as implemented in FORMAT aims to accomplish four "basic" tasks: "to read the
-input, to interpret and convert the input as required; to keep the document
-flowing smoothly from line to line, column to column, and page to page, unless
-otherwise instructed, and to break this automatic flow as directed"
-[@berns_description_1969].
-
-Because formatting governs both meaning-carrying and purely decorative
-elements, text control can involve operations like "replace word," "make
-invisible," or "insert file." These commands intertwine with "free-form"
-abstract and ideational content at the formatting level, to come into being in
-the "viewing" stage of text processing, where the layers flatten across "a
-two-dimensional space" in view of the user. SCRIPT and the related Generalized
-Markup Language (GML) developed in the late 1960s by IBM (originally for use on
-the CP67/CMS time-sharing system), and now at the basis of ubiquitous XML and
-HTML markup languages through ISO 8879, describes a number of such text
-transformations that occur to "generate the proper output form." In formatting,
-SCRIPT represents the "logical topology" of text in its "canonical form" to
-produce an "intermediate data structure," which it then "'unfolds' all at once"
-by "'peeling' the data structure one level at a time" [@madnick_script_1968,
-97]. As plain text, text control, and user command flows intertwine, the
-structure of data on the disk no longer corresponds to what is visible at the
-level of user terminal or line printer. Unlike many of the modern text editors,
-SCRIPT, TROFF, and FORMAT make all of the laminate components in their
-onion-like layered structure available to users for examination. But as we will
-see shortly, the condition of complete system visibility persists only for a
-short period in history. Once incorporated, the Document Object Model gains a
-measure of opacity and even legal protection from "unauthorized access" to
-protected innermost document layers.
-
-Whatever model of semiotics one subscribed to in the late 1960s, the DOM fixed
-the shape of the sign in accordance to emerging technology. The document object
-model continues to structure contemporary text in all its forms: from print
-typesetting software to web pages. It gives the material basis to the
-conditions of contemporary text production.
-
-!["System Command and Data Flow." Data structures at "disk file" level do not
-necessarily correspond to text structures at "user terminal" or "line printer"
-levels [@madnick_script_1968, 98].](images/script.png)
-
-[^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
-one or more two dimensional page spaces and represent possible formatted images
-of abstract objects."
-
-[^ln3-iso216]: A series of paper sizes are governed by the International
-Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
-8.27in × 11.7in respectively
-[@international_organization_for_standardization_writing_1975].
 
 ## Malicious Code Injection
 
