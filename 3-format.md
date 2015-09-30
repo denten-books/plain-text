@@ -1,4 +1,26 @@
 # Chapter 3: Format
+`form, format, formula, representation`
+
+In this chapter I would like to consider two ideas related to
+non-representational methods for communication. Order on the level of ideology
+and representation. Ideology as superstructure but submerged and inacessible.
+
+The defference between a restraining order and physical restrstraings. The
+order stands for something. The restraints enact the symbol. They do not stand
+for restraint, they *are* restraint. Formatting in that sense. Deep dive into
+format.
+
+The second and more radical idea related to non-representational elements of
+communication lies in the possibility of "direct" brain-to-brain interfaces.
+F16. Joystic that feels. The electrical system we saw emerge in chapters one
+and two can be wired directly in the the central nervious system. Not science
+fiction. But note that communication is only direct in the sense that the
+sender and the reciever of such a message do not have recourse to external
+represenation. Yet, such communication would still be subject to conditions we
+have already explored in the telegraph chapter. Somthing has to mediate: to
+translate between brain impulses and the transmission apparatus. Such "direct"
+communicaito would therefore still be mediated. Can literature survive non
+representation. I want to imagine.
 
 ## Literary
 
@@ -789,3 +811,4 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
+## Non-representational Literature

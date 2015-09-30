@@ -897,7 +897,7 @@ to ask what assumptions does it make about the archivist? It is at this point
 that I would like to leave Krapp's study to enter another home, in which
 today's librarians of self commonly seek shelter.
 
-## 4.4 Unix Home
+## 4.4 Unix Home (Shelves, Selves)
 
 [^ln5-recursive]: See also @breuer_paradox_1993, 559-580.
 
