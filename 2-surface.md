@@ -179,17 +179,21 @@ cathode ray and the flow of the liquid crystal.
 ### A. Automation, 1725--1964.[^ln1-loom]
 
 The turn of the twentieth century represents a pivotal moment in the history of
-symbolic communication. The advent of programmable media---punch cards and
-ticker tape---coupled natural language alphabets with machine control code.
-Following the invention of the Morse alphabet in the first half of the
-nineteenth century, a number of formats were proposed to encode human languages
-into binary formats, that could further be converted into the modulation of an
-electrical signal for transmission.
+of the sign. The advent of programmable media---punch cards and ticker
+tape---coupled natural language alphabets with machine control code.  Reduced
+to descrete, repeatable alphabets and converted into the modulation of an
+electrical signal, "natural" human languages could now be used not only to
+transmit messages across distance, but to control and to automate devices
+remotely.
 
-The Morse alphabet, co-developed between a number of American and British
-inventors in the first half of the nineteenth century, had the advantage of a
-tighter and a more robust encoding scheme, that was much easier to calibrate
-between the sender and the receiver. The 1865 ITU rules required a silence
+Among a multitude of proposed schemas for translating 
+
+Morse alphabet 
+
+, co-developed between a number of American and British
+inventors in the first half of the nineteenth century, 
+
+. The 1865 ITU rules required a silence
 equal to three dots (same as one dash) to indicate the space between two
 letters, and a silence equivalent to four dots (later changed to seven) to
 indicate the space between words. Although Morse code can be expressed in terms
@@ -232,7 +236,7 @@ someone under the table" in sender's lingo was to transmit faster that the
 receiver ability to transcribe. The "reader" was "burnt up" when he fell
 behind. He had to "break," or interrupt the sender to ask for repetition. To
 "paste" someone meant to transmit at high speeds to deliberately burn him up or
-put him under the table [@brackbill_telegraphers_1929]. 
+put him under the table [@brackbill_telegraphers_1929].
 
 Around the turn of the twentieth century, companies like Western Electric,
 Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
