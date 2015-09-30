@@ -1,10 +1,11 @@
-# Chapter 3: Simulation, Time, Speed
+# Chapter 3: Literature Down to the Pixel
 
-
-## Literature Down to the Pixel
+`simulation, time, projection`
 
 Talk here about mediation. Unmediated communication. Non-representational.
 Direct brain to brain.
+
+## Multiplexing
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank Halstead
 noted that "the practical upper limits of speed will also be limited by the
@@ -12,6 +13,81 @@ ability of some human beings to operate a keyboard, until such time as
 electrical connection be made direct with the receiver's central nervous
 system" [@halstead_genesis_1949, 451].
 
+The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
+by the American Royal E. House, was a capricious machine that relied on a
+tuning mechanism to transmit individual characters. Inspired by the player
+piano, the Hughes telegraph even looked like a piano, complete with a keyboard
+and a rotating drum, commonly used in music boxes. The sending device struck a
+tone which, when transmitted by electrical current, would initiate the rotation
+of a similar drum in the receiving apparatus "at the pleasure of the distant
+operator," in Hughes's words. The length of time between the initial
+synchronization signal and the struck chord corresponded to a letter, which the
+machine then printed to tape using a letter wheel. Hughes referred to the
+device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
+hints at the fragility of the device. The message became impossible to decipher
+should the sending drum and the receiving drum fall out of sync
+[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
+20-21].
+
+Emile Baudot was one of the first engineers to notice that the prevailing Morse
+and Hughes telegraph systems failed to make full use of the time allotted for
+message transmission. The Hughes code in particular made extensive use of long
+silences, which could be condensed to extract more utility from the channel.
+Baudot-type multiplexers made use of synchronized rotating mechanisms both of
+the sending and the receiving end, to distribute units of time among multiple
+operators. Figure 6 shows a scheme for a duplex printing telegraph, for
+example. A single rotation of the synchronization device (known as the
+"distributor") was thereby divided into two units of five segments each, each
+corresponding to a distinct channel of communication. Two operators could
+therefore share the same channel to transmit two different messages.
+
+![Multiple Printing Telegraph, 1905
+[@murray_setting_1905].](images/multiplex.png)
+
+The maintaining of unison became of paramount importance in such multiplexed
+systems. The operators of a time-shared device needed to know when it was their
+turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
+mechanism to indicate turns to individual operators, and in some devices,
+locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
+four operators would engage in an intricate dance of fingers, keys, tappers,
+and signals, synchronized by the rotation of the telegraph distributor.
+
+Synchronization was also needed for Morse code devices, to distinguish
+non-meaning carrying silence (the receiver is turned off) from the
+meaning-carrying one (the receiver pauses to indicate a dot). The receiving
+device needed a measure (duration) of silence to differentiate between "dots"
+and spaces between words, both indicated by silences of different length. But
+if the devices went out of sync, or if communication lagged for some reason,
+the coherence of the message faltered. Sending and receiving machines had to be
+tuned to a cadence of common information exchange. The system of operators,
+transmitters, and receivers, was, in aggregate, tuned to a specific but
+arbitrary rhythm by which certain messages made sense only in particular (also
+arbitrary) units of time. In early telegraphy, these units of time were slower
+than natural human time, enough so for the operator to remain idle. Later
+systems increased the pace to a rhythm beyond natural human abilities of
+comprehension, to a point where human operators could no longer decipher the
+signal without machine assistance. In the language of wiremen, the bugs were
+"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
+
+Several engineering solutions emerged to transcend the limits of human
+information processing. The automated printing telegraph decoupled encoding
+from transmission. It then became possible to prepare messages in advance, in
+volume, and to run the messages through a machine without human assistance. At
+that point, telegraph diverged from the telephone to become a device of
+asynchronous communication, displacing the act of communication in time as it
+did in space. But even with the advent of removable storage media, the
+bandwidth, or the "information density," of the system was limited by the
+number and the size of available cables. Independent developments in
+communication technology led to a range of techniques known as
+"multiplexing"---ways of sharing the same wire to send multiple messages.
+Multiplexing at the time fell into two broad approaches: time-division and
+pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
+Pulse-amplitude modulation involved filling the available space (bandwidth)
+with simultaneous signals of different types: sending multiple signals at
+differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
+modulation was difficult to implement initially. Cross-channel noise and device
+sensitivity hampered reliable reception and decoding across multiple
+simultaneous wave frequencies.
 
 ## 2.1 Metaphor Machine
 
