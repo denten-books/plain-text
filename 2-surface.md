@@ -220,36 +220,15 @@ using a "key" which when depressed vertically would complete an electrical
 curcuit to produce the signal. Writing in 1929 for the journal *American
 Speech*, Hervey Brackbill preserved some of the specialized language associated
 with Morse code culture. "Morse telegraphy is commonly referred to as a 'game,'
-and the operator 'works a wire,'" he wrote.  An operator tapping on a
-semi-automatic key "uses a bug." "The first instruments," Brackbill wrote,
-"with their long slender levers and springs, looked very much like a sprawling
-bug." They have trade names like "Lighting Bug," "Gold Bug," and "Cootie" (for
-a small model) [@brackbill_telegraphers_1929, 287-288]. Operators using
-"straight keys" practically achieved speeds upwards of 25--30 words per minute,
-limited by the shortest possible length of the smallest transmitted unit (a
-dot), fixed by the American and the International Morse Code conventions to
-1/24 of a second in duration.
-
-Although the convention stipulated a fixed length, the actual length of the
-silence between the meaning-carrying units of Morse code could vary greatly
-with the vagrancies of the transmitting medium.  Cross talk between wires and
-weather interferences were common, which meant that communicating in Morse
-still required a human operator for efficient ciphering and deciphering. In a
-long-chain of mediation telegraph operator, code, and machine, the human posed
-a limiting factor. The physical constraingts of Morse code put the theoretical
-upper limit for transmission speed of around 49 words per minute---a rate
-further limited by the operator's manual dexterity [@mcnicol_american_1913,
-207; @u.s._bureau_of_labor_statistics_displacement_1932;
-@halstead_genesis_1949]. Telegraph operators working a "hand sender" commonly
-developed partial paralysis of wrist or arm, commonly known as a "glass arm"
-[@brackbill_telegraphers_1929;
-@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a
-"ham" or a "bum" when he "fell down" or made errors in sending. To "put someone
-under the table" in sender's lingo was to transmit faster that the receiver
-ability to transcribe. The "reader" was "burnt up" when he fell behind. He had
-to "break," or interrupt the sender to ask for repetition. To "paste" someone
-meant to transmit at high speeds to deliberately burn him up or put him under
-the table [@brackbill_telegraphers_1929].
+and the operator 'works a wire,'" he wrote.  An operator tapping a key "uses a
+bug." "The first instruments," Brackbill wrote, "with their long slender levers
+and springs, looked very much like a sprawling bug." They have trade names like
+"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
+[@brackbill_telegraphers_1929, 287-288]. Operators using "straight keys"
+practically achieved speeds upwards of 25--30 words per minute, limited by the
+shortest possible length of the smallest transmitted unit (a dot), fixed by the
+American and the International Morse Code conventions to 1/24 of a second in
+duration.
 
 Around the turn of the twentieth century, companies like Western Electric,
 Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
@@ -259,35 +238,40 @@ one side of the action, and dashes to the other [@martin_telegraphic_1904;
 high of a speed. The Vibroplex keys would significantly alter the "fist," or
 the transmission style of the operator, allowing for speeds that approached 50
 words per minute (and above, if not following the minimum signal length
-specifications) [@mcnicol_american_1913, 209; @halstead_genesis_1949].  
+specifications) [@mcnicol_american_1913, 209; @halstead_genesis_1949].  Despite
+the improvements, Morse code was showing its age. Although the convention
+stipulated fixed length, the actual length of the silence between the
+meaning-carrying units of Morse code could vary greatly with the vagrancies of
+the transmitting medium. Cross talk between wires and weather interferences
+were common, which meant that communicating in Morse still required a human
+operator for efficient ciphering and deciphering of the transmisison. In a
+long-chain of mediation telegraph operator, code, and machine, the human posed
+a limiting factor. 
 
-By the late 1920s the "Morse men" were being replaced with more efficient
-automated devices. By the 1930s, devices variously known as "printer
-telegraphs," "teletypewriters," and "teletypes" displaced Morse code telegraphy
-as the dominant mode of commercial communication. The monthly "Labor Review"
-report published by the U.S. Bureau of Labor Statistics in March of 1932
-estimates more than a 50 percent drop in the number of Morse code operators
-between the years of 1915 and 1931. Morse operators referred to the
-tele-typists on the sending side as "punchers" and on the receiving side as
-"printer men."[^ln1-printermen] The printer men responsible for assembling
-pages from ticker tape were called "pasters" and sometimes, derisively, as
-"paperhangers" [@brackbill_telegraphers_1929]. Where, in the Morse code
-machine, a human-operator was responsible for translating language into code,
-teletype automated the process completely. The human operator could simply
-enter printed characters into the machine directly, using a keyboard. The
-teletype would then transcode the input into transmitted signal and then back
-from the signal onto paper on the receiving end.
+The physical constraingts of Morse code put the theoretical upper limit for
+transmission speed of around 49 words per minute---a rate further limited by
+the operator's manual dexterity [@mcnicol_american_1913, 207;
+@u.s._bureau_of_labor_statistics_displacement_1932; @halstead_genesis_1949].
+Telegraph operators working a "hand sender" commonly developed partial
+paralysis of wrist or arm, commonly known as a "glass arm"
+[@brackbill_telegraphers_1929;
+@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a
+"ham" or a "bum" when he "fell down" or made errors in sending. To "put someone
+under the table" in sender's lingo was to transmit faster that the receiver
+ability to transcribe. The "reader" was "burnt up" when he fell behind. He had
+to "break," or interrupt the sender to ask for repetition. To "paste" someone
+meant to transmit at high speeds to deliberately burn him up or put him under
+the table [@brackbill_telegraphers_1929].
 
-[^ln1-printermen]: According to the U.S. Department of Labor statistics, women
-comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
-of automated telegraphy). By 1931 women comprised 64 percent of printer and
-Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
-514].
-
-During the International Telegraph Conference in Lisbon, held in the summer of
-1908, the ITU specified two additional formats: Hughes and Baudot.
+The International Telegraph Conference in Lisbon, held in the summer of 1908,
+ratified two additional alphabet standards for international use: Hughes and
+Baudot.
 
 ![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
+
+Both of the new systems allowed for fully autonomous operation. The message
+could be keyed into ticker tape by a human operator and then fed into the
+machine at a separate stage of transmission. In this sense, teletype
 
 The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
 by the American Royal E. House, was a capricious machine that relied on a
@@ -304,22 +288,46 @@ hints at the fragility of the device. The message becomes impossible to
 decipher should the sending drum and the receiving drum fall out of sync
 [@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
 20-21].
+By the late 1920s the "Morse men" were being replaced with more efficient
+automated devices. By the 1930s, devices variously known as "printer
+telegraphs," "teletypewriters," and "teletypes" displaced Morse code telegraphy
+as the dominant mode of commercial communication. The monthly "Labor Review"
+report published by the U.S. Bureau of Labor Statistics in March of 1932
+estimates more than a 50 percent drop in the number of Morse code operators
+between the years of 1915 and 1931. Morse operators referred to the
+tele-typists on the sending side as "punchers" and on the receiving side as
+"printer men."[^ln1-printermen] The printer men responsible for assembling
+pages from ticker tape were called "pasters" and sometimes, derisively, as
+"paperhangers" [@brackbill_telegraphers_1929]. Where, in the Morse code
+machine, a human-operator was responsible for translating language into code,
+teletype automated the process completely. The human operator could simply
+enter printed characters into the machine directly, using a keyboard similar to
+the typewriter. The teletype would then transcode the input into transmitted
+signal and then back from the signal onto paper on the receiving end.
+
+[^ln1-printermen]: According to the U.S. Department of Labor statistics, women
+comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
+of automated telegraphy). By 1931 women comprised 64 percent of printer and
+Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
+514].
+
 
 The automation of the telegraph necessitated new encoding formats, chief among
-them the Baudot code, standardized in 1908 by the ITU. The significant
-difference between Hughes and Morse encodings on the one hand and Baudot on the
-other remains the fact that Baudot constitutes a fixed-length code. The
-invention of fixed-length ciphers lies in the sixth book of Francis Bacon's *De
-augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an encyclopedic
-treatise on the "partition of sciences" written in the form of a letter to King
-James in 1623. Book Six of Bacon's systematic account of the sciences is
-dedicated to speech, speaking, writing, grammar (literary and philosophical),
-poetry (meter and verse), and, most relevant to our discussion, "the knowledge
-of ciphers." Here Bacon boasts of inventing a "highest degree of cipher” that
-can signify "all in all" (omnia per omnia). Bacon proceeds to describe a
-"fivefold," "bi-literarie” alphabet, which encodes each letter of the English
-language using a string of As and Bs five-letters long. The letter A, for
-example, becomes "aaaaa." B becomes "aaaab," C "aaaba," and so on to Z,
+them the Baudot code, standardized in 1908 by the ITU. 
+
+The significant difference between Hughes and Morse encodings on the one hand
+and Baudot on the other remains the fact that Baudot constitutes a fixed-length
+code. The invention of fixed-length ciphers lies in the sixth book of Francis
+Bacon's *De augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an
+encyclopedic treatise on the "partition of sciences" written in the form of a
+letter to King James in 1623. Book Six of Bacon's systematic account of the
+sciences is dedicated to speech, speaking, writing, grammar (literary and
+philosophical), poetry (meter and verse), and, most relevant to our discussion,
+"the knowledge of ciphers." Here Bacon boasts of inventing a "highest degree of
+cipher” that can signify "all in all" (omnia per omnia). Bacon proceeds to
+describe a "fivefold," "bi-literarie” alphabet, which encodes each letter of
+the English language using a string of As and Bs five-letters long. The letter
+A, for example, becomes "aaaaa." B becomes "aaaab," C "aaaba," and so on to Z,
 represented as "babbb." "Neither is this a small matter," Bacon writes:
 
 > These Cypher-Characters have, and may performe: For by this *Art* a way is
