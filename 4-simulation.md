@@ -1,4 +1,4 @@
-# Chapter 3: Simulation
+# Chapter 3: Simulation, Time, Speed
 
 
 ## Literature Down to the Pixel

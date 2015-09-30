@@ -1,6 +1,6 @@
-# Chapter 2: Surface
+# Chapter 2: Surface, Legibility
 
-## Intro
+`surface, legibility, encoding`
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -111,21 +111,21 @@ accomplished by:
 > pictures, etc.; special format instructions; and any required control codes
 > known to be omitted from the input tape. During printing, the operator
 > changes type elements when necessary, loads paper as required, and makes and
-> enters hyphenation decisions if justified copy is being printed [@bishop,
-> 382].
+> enters hyphenation decisions if justified copy is being printed
+[@bishop_development_1968, 382].
 
 The tape unit and the control unit thus intervene between the keyboard and the
 printed page. The "final printing" combines roughly the "prepared copy" with
-"control and reference codes" and "printer output" [@bishop; @may]. The
-materials from the time often speak of three distinct human operators that
-could be responsible for each stage of the production: one entering the copy,
-one specifying the control codes, and one responsible for handling the paper
-output. The machine operators could hypothetically work in isolation from one
-another. The typist would see only elements of the copy; the typesetter or the
-controller only formatting and control codes; and the printer only the
-interpolated results.
+"control and reference codes" and "printer output" [@bishop_development_1968;
+@may_ibm_1981]. The materials from the time often speak of three distinct human
+operators that could be responsible for each stage of the production: one
+entering the copy, one specifying the control codes, and one responsible for
+handling the paper output. The machine operators could hypothetically work in
+isolation from one another. The typist would see only elements of the copy; the
+typesetter or the controller only formatting and control codes; and the printer
+only the interpolated results.
 
-![DIAGRAM from MT/SC]
+!["Block diagram of MT/SC system [@bishop_development_1968, 381].](images/mt-sc.png)
 
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
@@ -164,7 +164,7 @@ concealing something beneath the phantasmal shell of its former
 appearance.
 
 As we embark to explore the consequences of computed text, I propose we keep
-the following three landmark mechanisms in view as signpost along our journey:
+the following three landmark mechanisms in view as signposts along our journey:
 Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*. In the
 first of these, text structure and machine control lie before us for
 inspection. The second one is mute: a black slate. The last of these belongs to
@@ -173,114 +173,116 @@ assemblage of storage, input, and output technologies that continue to shape
 the contemporary human encounter with text today.[^ln1-denning] These devices
 tell the story of a fracture.  Through them, a part of the sign fades from view
 into an arrangement of magnetic charge and floating gate at the site of the
-archive.  Another part appears at the site of projection in the flicker of the
+archive. Another part appears at the site of projection in the flicker of the
 cathode ray and the flow of the liquid crystal.
 
-### A. Automation, 1725--1964.[^ln1-loom]
+### A. Teletype, 1910--1964.
 
-The turn of the twentieth century represents a pivotal moment in the history of
-of the sign. The advent of programmable media---punch cards and ticker
-tape---coupled natural language alphabets with machine control code.  Reduced
-to descrete, repeatable alphabets and converted into the modulation of an
-electrical signal, "natural" human languages could now be used not only to
-transmit messages across distance, but to control and to automate devices
-remotely.
-
-Among a multitude of proposed schemas for translating 
-
-Morse alphabet 
-
-, co-developed between a number of American and British
-inventors in the first half of the nineteenth century, 
-
-. The 1865 ITU rules required a silence
-equal to three dots (same as one dash) to indicate the space between two
-letters, and a silence equivalent to four dots (later changed to seven) to
-indicate the space between words. Although Morse code can be expressed in terms
-of ones and zeros (binary), it is technically a ternary code making use of at
-least three elements: dots, dashes, and silences of various length.
-Furthermore, note that Morse code, like the Hughes, is a type of a "variable
-length" format, where encoded characters in sequences (of dots and dashes) that
-vary in length: from one dash for "T" to six dots that stand for the number
-six. Variable length codes were ill-suited for automated telegraphy. Although
-proscribed to a fixed length, the actual length of silence could vary with the
-vagrancies of the transmitting medium. Cross talk between wires and weather
-interferences were common, which meant that communicating in Morse still
-required a human operator for efficient deciphering. In a long-chain of
-mediation telegraph operator, code, and machine, the human posed a limiting
-factor. By the late 1920s the "Morse men" were being replaced with more
-efficient automated devices.
-
-Writing in 1929 for the journal *American Speech*, Hervey Brackbill lamented
-the demise of a language associated with human-driven, Morse code telegraph
-operation. "Morse telegraphy is commonly referred to as a 'game,' and the
-operator 'works a wire.'" The operator tapping on a semi-automatic key "uses a
-bug." Brackbill wrote, "the first instruments, with their long slender levers
-and springs, looked very much like a sprawling bug." They have trade names like
-"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
-[@brackbill_telegraphers_1929, 287-288]. Operators using "straight keys"
-achieved speeds upwards of 25--30 words per minute, limited by the shortest
-possible length of the smallest transmitted unit (a dot), fixed by the American
-and the International Morse Code conventions to 1/24 of a second in duration.
-
-The physical limits of the code suggest a theoretical upper limit for
-transmission speed of around 49 words per minute---a rate further limited by
-the operator's manual dexterity [@mcnicol_american_1913, 207;
-@u.s._bureau_of_labor_statistics_displacement_1932; @halstead_genesis_1949].
-Telegraph operators working a "hand sender" commonly developed partial
-paralysis of wrist or arm, commonly known as a "glass arm"
-[@brackbill_telegraphers_1929;
-@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a
-"ham" or a "bum" when he "fell down" or made errors in sending.  To "put
-someone under the table" in sender's lingo was to transmit faster that the
-receiver ability to transcribe. The "reader" was "burnt up" when he fell
-behind. He had to "break," or interrupt the sender to ask for repetition. To
-"paste" someone meant to transmit at high speeds to deliberately burn him up or
-put him under the table [@brackbill_telegraphers_1929].
-
-Around the turn of the twentieth century, companies like Western Electric,
-Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
-use of a horizontal switch capable of emitting a rapid succession of dots to
-one side of the action, and dashes to the other [@martin_telegraphic_1904;
-@boyd_telegraph-key_1916]. A bug was said to "run away" when adjusted for too
-high of a speed. The Vibroplex keys would significantly alter the “fist,” or
-the transmission style of the operator, allowing for speeds that approached 50
-words per minute (and above, if not following the minimum signal length
-specifications) [@mcnicol_american_1913, 209; @halstead_genesis_1949].
-
-By the 1930s, devices variously known as "printer telegraphs,"
-"teletypewriters," and "teletypes" displaced Morse code telegraphy as the
-dominant mode of commercial communication. The monthly "Labor Review" report
-published by the U.S. Bureau of Labor Statistics in March of 1932 estimates
-more than a 50 percent drop in the number of Morse code operators between the
-years of 1915 and 1931. Morse operators referred to the tele-typists on the
-sending side as "punchers" and on the receiving side as "printer
-men."[^ln1-printermen] The printer men responsible for assembling pages from
-ticker tape were called "pasters" and sometimes, derisively, as "paperhangers"
-[@brackbill_telegraphers_1929]. Where, in the Morse code machine, a
-human-operator was responsible for translating language into code, teletype
-automated the process completely. The human operator could simply enter printed
-characters into the machine directly, using a keyboard. The teletype would then
-transcode the input into transmitted signal and then back from the signal onto
-paper on the receiving end.
-
-[^ln1-printermen]: According to the U.S. Department of Labor statistics, women
-comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
-of automated telegraphy). By 1931 women comprised 64 percent of printer and
-Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
-514].
+The turn of the twentieth century was a pivotal period in the history of
+computing and communications. The advent of programmable media---punch cards
+and ticker tape---coupled natural language alphabets with machine control
+code.[^ln1-loom] Reduced to discrete and reliably reproducible alphabets, the
+so called "natural languages" could now be converted into the modulation of
+electrical signal. Language in such a transitive state became more mobile than
+ever before. It could be transmitted efficiently across vast distances.
+Moreover, the mechanization of type introduced new "control" characters into
+circulation, intended to affect machine state changes at a distance. Initially,
+such state changes were simple: "begin transmission," "switch to French,"
+"start new line." With time, these control codes developed into what we now
+know as a programming language. At the turn of the century, the language of
+people and the language of machines entered into the same stream of
+communications.
 
 As telegraphy spanned national boundaries, agreements were needed to
 standardize conventions for equipment and message encoding
 [@international_telegraph_union_journal_1899, 82-91]. Such agreements were
 handled on a regional, ad-hoc basis until 1865, with the creation of the
 International Telegraph Union (ITU). The International Telegraph Conference in
-Paris, held between March 1 and May 17 of 1865, adopted the use of a modified
-Morse code character set, containing 33 Latin letters (including characters
-from the French, German, and Spanish alphabets), 10 numbers (0--9), 14
-punctuation marks (including a fraction bar), and 10 control codes (including
-"end of service," "attention," and "error")
-[@international_telegraph_union_documents_1865].
+Paris, held between March 1 and May 17 of 1865, adopted, among other things,
+the use of a modified Morse code character set, containing 33 Latin letters
+(including characters from the French, German, and Spanish alphabets), 10
+numbers (0--9), 14 punctuation marks (including a fraction bar), and 10 control
+codes (including "end of service," "attention," and "error")
+[@international_telegraph_union_documents_1865]. In specifying the conversion
+tables for the Morse alphabet, the 1865 ITU rules required a silence equal to
+three dots (same as one dash) to indicate the space between two letters, and a
+silence equivalent to four dots (later changed to seven) to indicate the space
+between words.
+
+Although Morse code can be expressed in terms of ones and zeros (binary), it is
+technically a ternary code making use of at least three elements: dots, dashes,
+and silences of various length. Furthermore, note that in Morse code a single
+letter could be expressed as a series of dots and dashes of variable length:
+from one dash that stands for letter "t" to six dots that stand for the number
+six. The transmission of variable length codes required the presence of a human
+operator who could "translate" form natrual language to the machine alphabet,
+using a "key" which when depressed vertically would complete an electrical
+curcuit to produce the signal. Writing in 1929 for the journal *American
+Speech*, Hervey Brackbill preserved some of the specialized language associated
+with Morse code culture. "Morse telegraphy is commonly referred to as a 'game,'
+and the operator 'works a wire,'" he wrote.  An operator tapping on a
+semi-automatic key "uses a bug." "The first instruments," Brackbill wrote,
+"with their long slender levers and springs, looked very much like a sprawling
+bug." They have trade names like "Lighting Bug," "Gold Bug," and "Cootie" (for
+a small model) [@brackbill_telegraphers_1929, 287-288]. Operators using
+"straight keys" practically achieved speeds upwards of 25--30 words per minute,
+limited by the shortest possible length of the smallest transmitted unit (a
+dot), fixed by the American and the International Morse Code conventions to
+1/24 of a second in duration.
+
+Although the convention stipulated a fixed length, the actual length of the
+silence between the meaning-carrying units of Morse code could vary greatly
+with the vagrancies of the transmitting medium.  Cross talk between wires and
+weather interferences were common, which meant that communicating in Morse
+still required a human operator for efficient ciphering and deciphering. In a
+long-chain of mediation telegraph operator, code, and machine, the human posed
+a limiting factor. The physical constraingts of Morse code put the theoretical
+upper limit for transmission speed of around 49 words per minute---a rate
+further limited by the operator's manual dexterity [@mcnicol_american_1913,
+207; @u.s._bureau_of_labor_statistics_displacement_1932;
+@halstead_genesis_1949]. Telegraph operators working a "hand sender" commonly
+developed partial paralysis of wrist or arm, commonly known as a "glass arm"
+[@brackbill_telegraphers_1929;
+@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a
+"ham" or a "bum" when he "fell down" or made errors in sending. To "put someone
+under the table" in sender's lingo was to transmit faster that the receiver
+ability to transcribe. The "reader" was "burnt up" when he fell behind. He had
+to "break," or interrupt the sender to ask for repetition. To "paste" someone
+meant to transmit at high speeds to deliberately burn him up or put him under
+the table [@brackbill_telegraphers_1929].
+
+Around the turn of the twentieth century, companies like Western Electric,
+Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
+use of a horizontal switch capable of emitting a rapid succession of dots to
+one side of the action, and dashes to the other [@martin_telegraphic_1904;
+@boyd_telegraph-key_1916]. A bug was said to "run away" when adjusted for too
+high of a speed. The Vibroplex keys would significantly alter the "fist," or
+the transmission style of the operator, allowing for speeds that approached 50
+words per minute (and above, if not following the minimum signal length
+specifications) [@mcnicol_american_1913, 209; @halstead_genesis_1949].  
+
+By the late 1920s the "Morse men" were being replaced with more efficient
+automated devices. By the 1930s, devices variously known as "printer
+telegraphs," "teletypewriters," and "teletypes" displaced Morse code telegraphy
+as the dominant mode of commercial communication. The monthly "Labor Review"
+report published by the U.S. Bureau of Labor Statistics in March of 1932
+estimates more than a 50 percent drop in the number of Morse code operators
+between the years of 1915 and 1931. Morse operators referred to the
+tele-typists on the sending side as "punchers" and on the receiving side as
+"printer men."[^ln1-printermen] The printer men responsible for assembling
+pages from ticker tape were called "pasters" and sometimes, derisively, as
+"paperhangers" [@brackbill_telegraphers_1929]. Where, in the Morse code
+machine, a human-operator was responsible for translating language into code,
+teletype automated the process completely. The human operator could simply
+enter printed characters into the machine directly, using a keyboard. The
+teletype would then transcode the input into transmitted signal and then back
+from the signal onto paper on the receiving end.
+
+[^ln1-printermen]: According to the U.S. Department of Labor statistics, women
+comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
+of automated telegraphy). By 1931 women comprised 64 percent of printer and
+Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
+514].
 
 During the International Telegraph Conference in Lisbon, held in the summer of
 1908, the ITU specified two additional formats: Hughes and Baudot.

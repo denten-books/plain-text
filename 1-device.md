@@ -1,6 +1,6 @@
-# Chapter 1: Device
+# Chapter 1: Laying Bare the Device
 
-## Laying Bare the Device
+`book, device, computation, control`
 
 "The weakest point in our present day universe is the incapacity of man to meet
 the machine, the culture conserve, or the robot, other than through submission,
