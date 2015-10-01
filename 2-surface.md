@@ -315,13 +315,16 @@ language was legibility. The translation between human alphabet and machine
 transmittable code required first a cadre of specially trained machine
 operators, and then specialized equipment which automated the process of
 translation itself. As Bacon's early writings on the language arts suggest, the
-roots of telegraphy lie in secret writing: cypher-making and cryptography.
+roots of telegraphy lie in secret writing: cypher-making and cryptography. And
+because the art of cryptography is intimately linked with war-time
+communications, the peace-time encoding of language for machine use was
+immediately perceived as a matter national security.
 
 The Final Protocol to the Telegraph Regulations, ratified in Madrid in 1932 by
 the governments of more than seventy countries including Germany, Brazil, Cuba,
 Egypt, Empire d'Ethiopie, France, Japan, the United Kingdom of Great Britain,
 United States of America, and Union of Soviet Socialist Republics, included a
-special provision deliniating the difference betwen transmitting "plain," and
+special provision delineating the difference between transmitting "plain," and
 "secret" language. The protocols further divided "secret languages" into "code"
 and "cypher" categories. According to the language of the protocol, "plain
 language is that which presents an intelligible meaning in one or more of the
@@ -330,20 +333,20 @@ each expression having the meaning normally assigned to it in the language to
 which it belongs" [@itu_telegraph_1932, 12]. By contrast, the regulations
 specified "code language" as text "composed either of artificial words, or of
 real words not used in the meaning normally assigned to them in the language to
-which they belong and consequently not forming intelligeble phrases"
+which they belong and consequently not forming intelligible phrases"
 [@itu_telegraph_1932, 12]. Codes were not permitted to contain more than five
-characthers and were charged at 6/10th of the agreed tariff rate. Upon request,
+characters and were charged at 6/10th of the agreed tariff rate. Upon request,
 the sender of the telegram in code language was required to "produce the code
 from which the text or part of the text of the telegram has been compiled"
-[@itu_telegraph_1932, 13]. Ohterwise, the language was considered to be a
+[@itu_telegraph_1932, 13]. Otherwise, the language was considered to be a
 secret "cypher," defined as "groups or series of Arabic figures with a secret
-meaning." .
+meaning."
 
 According to the terms of the convention, all administrations agree to accept
-and to pass telegrams in plain lanaguage through their jurisdiction. The
+and to pass telegrams in plain language through their jurisdiction. The
 undesigned agreed also to allow secret communication to pass in transit through
 their territory, although they were allowed also to refuse to admit them "both in
-acceptance and in delivery."
+acceptance and in delivery" [@itu_telegraph_1932, 13].
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg 1911 patent, simply titled
