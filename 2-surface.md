@@ -176,6 +176,8 @@ into an arrangement of magnetic charge and floating gate at the site of the
 archive. Another part appears at the site of projection in the flicker of the
 cathode ray and the flow of the liquid crystal.
 
+### A. Teletype, 1910--1964
+
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
 The advent of programmable media---punch cards and ticker tape---coupled
@@ -268,18 +270,18 @@ fully autonomous telegraph operation.
 This new generation of printing telegraphs could be "programmed" using
 removable storage media, in a way that a player piano is "programmed" to play a
 piece by means of a music roll. The printing telegraph decoupled the act of
-writing and reading from the act of transmission, just like the music roll
-decouples the act of playing the piano from the performance. Using external
-storage media like ticker tape and punch cards, a message could be prepared in
-advance and "fed" into the mechanism for transmission at rates far exceeded the
-possibilities of hand-operated Morse telegraphy. Unlike the Morse alphabet
-which varied in length, the Baudot in particular fixed the length of the
-encoding to five spaces or "bits." Five "off" and "on" spaces allowed for
-2^5=32 permutations. After encoding the common Latin characters, the schema
-left space for several special "control" characters. The "character space"
-could further be expanded by switching the receiving mechanism into a special
-"control mode" in which every combination of five bits represented an
-individual control character (instead of a letter).
+writing and reading from the act of transmission, similar to the way the
+perforated music roll decouples the act of playing the piano from the
+performance. Using external storage media like ticker tape and punch cards, a
+message could be prepared in advance and "fed" into the mechanism for
+transmission at rates far exceeded the possibilities of hand-operated Morse
+telegraphy. Unlike the Morse alphabet which varied in length, the Baudot in
+particular fixed the length of the encoding to five spaces or "bits." Five
+"off" and "on" spaces allowed for 2^5=32 permutations. After encoding the
+common Latin characters, the schema left space for several special "control"
+characters. The "character space" could further be expanded by switching the
+receiving mechanism into a special "control mode" in which every combination of
+five bits represented an individual control character (instead of a letter).
 
 The invention of fixed-length ciphers lies in the sixth book of Francis Bacon's
 *De augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an
@@ -304,9 +306,44 @@ report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
 
 Writing at the dawn of the Enlightenment, Bacon perceived the essence of
 telegraphy: to express and to signify the intentions of the human mind at a
-distance.
+distance. The Morse and the Baudot codes paved the way for the automation of
+human language. The great proliferation of scripts and alphabets was finally
+reduced to thirty-two discrete and reproduced characters. So automated, type
+could be converted into an electrical signal, sent over great distances, and
+used to program machines remotely. The price for these new affordances given to
+language was legibility. The translation between human alphabet and machine
+transmittable code required first a cadre of specially trained machine
+operators, and then specialized equipment which automated the process of
+translation itself. As Bacon's early writings on the language arts suggest, the
+roots of telegraphy lie in secret writing: cypher-making and cryptography.
 
-### A. Teletype, 1910--1964.
+The Final Protocol to the Telegraph Regulations, ratified in Madrid in 1932 by
+the governments of more than seventy countries including Germany, Brazil, Cuba,
+Egypt, Empire d'Ethiopie, France, Japan, the United Kingdom of Great Britain,
+United States of America, and Union of Soviet Socialist Republics, included a
+special provision deliniating the difference betwen transmitting "plain," and
+"secret" language. The protocols further divided "secret languages" into "code"
+and "cypher" categories. According to the language of the protocol, "plain
+language is that which presents an intelligible meaning in one or more of the
+languages authorized for international telegraph correspondence, each word and
+each expression having the meaning normally assigned to it in the language to
+which it belongs" [@itu_telegraph_1932, 12]. By contrast, the regulations
+specified "code language" as text "composed either of artificial words, or of
+real words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligeble phrases"
+[@itu_telegraph_1932, 12]. Codes were not permitted to contain more than five
+characthers and were charged at 6/10th of the agreed tariff rate. Upon request,
+the sender of the telegram in code language was required to "produce the code
+from which the text or part of the text of the telegram has been compiled"
+[@itu_telegraph_1932, 13]. Ohterwise, the language was considered to be a
+secret "cypher," defined as "groups or series of Arabic figures with a secret
+meaning." .
+
+According to the terms of the convention, all administrations agree to accept
+and to pass telegrams in plain lanaguage through their jurisdiction. The
+undesigned agreed also to allow secret communication to pass in transit through
+their territory, although they were allowed also to refuse to admit them "both in
+acceptance and in delivery."
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg 1911 patent, simply titled
@@ -403,7 +440,7 @@ first word processors, defined by the ability to record strokes and to print
 them onto paper *as a separate operation* [@eisenberg_word_1992]. The
 separation of input and output in effect defines word processing. The magnetic
 tape gives temporary shelter to the word. There it can be processed before
-commiting to a more permanent medium.
+committing to a more permanent medium.
 
 We may therefore think of word processing as a temporal extension of the page.
 Words on magnetic storage media exist in what seems;qephemeral state, giving the typist

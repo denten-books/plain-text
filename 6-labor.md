@@ -962,18 +962,11 @@ the illusion of disempowerment. I view "control" in that sense not as an
 ideology, but as the ability to physically alter the material conditions of
 literary production, dissemination, and consumption. The transition from
 mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.  ### 7.1 ITU
+content and code as control.  
 
-Related to secrecy.  Plain language and Secret language (telegraph regulations
-1932).  "Plain language is that which presents an intelligible meaning in one
-or more of the languages authorized for international telegraph correspondence,
-each word and each expression having the meaning normally assigned to it in the
-language to which it belongs" [@itu_telegraph_1932, 12]. "Code language is
-composed either of artificial words, or of real words not used in the meaning
-normally assigned to them in the language to which they belong and consequently
-not forming intelligeble phrases" [@itu_telegraph_1932, 12].
+### 7.1 ITU
 
-Encrypted literature. Revealment and dissimulation. Notions of textuality as
+Related to secrecy.  Encrypted literature. Revealment and dissimulation. Notions of textuality as
 embroiled in contemporary ideas of privacy, secrecy, and transparency.
 Computation does not necessarily work for the military-industrial apparatus (as
 argued by Golumbia, Lennon, and McPherson).  Recovering and preserving
@@ -991,7 +984,9 @@ constitutionally protected as free speech.
 Plain text + fleas from the Unix book should go here.
 
 ## 5.3 Plain Text in Unix
+
 Plain text preveleges a certain etics of humanity.
+
 ## 5.5 Living with Complex Systems
 
 The unix idea of plain idea.
