@@ -272,17 +272,14 @@ writing and reading from the act of transmission, just like the music roll
 decouples the act of playing the piano from the performance. Using external
 storage media like ticker tape and punch cards, a message could be prepared in
 advance and "fed" into the mechanism for transmission at rates far exceeded the
-possibilities of hand-operated Morse telegraphy. The automation of the
-telegraph necessitated new encoding formats, chief among them the Baudot code,
-standardized in 1908 by the International Telegraph Union.
-
-Unlike the Morse alphabet which varied in length, Baudot fixed the length of
-the encoding to five spaces or "bits." Five "off" and "on" spaces allowed for
-2^5=32 permutations, which, after encoding the common Latin characters left
-space for several special "control" characters. The "character space" could
-further be expanded by switching the receiving mechanism into a special
+possibilities of hand-operated Morse telegraphy. Unlike the Morse alphabet
+which varied in length, the Baudot in particular fixed the length of the
+encoding to five spaces or "bits." Five "off" and "on" spaces allowed for
+2^5=32 permutations. After encoding the common Latin characters, the schema
+left space for several special "control" characters. The "character space"
+could further be expanded by switching the receiving mechanism into a special
 "control mode" in which every combination of five bits represented an
-individual control character.
+individual control character (instead of a letter).
 
 The invention of fixed-length ciphers lies in the sixth book of Francis Bacon's
 *De augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an
@@ -291,11 +288,11 @@ letter to King James in 1623. Book Six of Bacon's systematic account of the
 sciences is dedicated to speech, speaking, writing, grammar (literary and
 philosophical), poetry (meter and verse), and, most relevant to our discussion,
 "the knowledge of ciphers." Here Bacon boasts of inventing a "highest degree of
-cipher” that can signify "all in all" (*omnia per omnia*). Bacon proceeds to
-describe a "fivefold," "bi-literarie” alphabet, which encodes each letter of
+cipher” that can signify "all in all" (*omnia per omnia*). Bacon proceeded to
+describe a "fivefold," "bi-literarie" alphabet, which encodes each letter of
 the English language using a five-letter long string of As and Bs. The letter
-A, for example, becomes "aaaaa." B becomes "aaaab," C "aaaba," and so on to Z,
-represented as "babbb." "Neither is this a small matter," Bacon writes:
+A, for example, became "aaaaa." B became "aaaab," C "aaaba," and so on to Z,
+rendered as "babbb." "Neither is this a small matter," Bacon wrote:
 
 > These Cypher-Characters have, and may performe: For by this *Art* a way is
 opened, whereby a man may expresse and signifie the intentions of his minde, at
@@ -305,59 +302,18 @@ difference only; as by Bells, by Trumpets, by Lights and Torches, by the
 report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
 266].
 
-Although the discovery of binary arithmetic rightly belongs to Gottfried
-Leibniz, who, influenced by hexagrams in the *I Ching*, articulated his own
-system in his *Explication de l'Arithmétique Binaire* (written in 1679 and
-published in 1703) [@leibnitz_explication_1703], Bacon should take the credit
-for articulating a system for fixed-length binary encoding. His "two-fold
-difference" did have the effect of enabling humans to "express and signify"
-thoughts at virtually "any distance and place." The fixed-length property of
-Bacon's cipher, later implemented in the 5-bit Baudot code, signaled the
-beginning of the modern era of serial communications
-[@jennings_annotated_2004]. Baudot and the related Murray alphabets
-[^ln1-murray] were designed specifically with automation in mind. Both being
-fixed-length alphabets, the Baudot in particular did away with the "unison"
-signal that separated letters in Morse, since the signals could be divided into
-letters by count (every five codes representing a single character).
-Additionally, the Murray code was more compact than Morse and especially more
-economical than Hughes, which used up to 54 measures of silence to send a
-signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
-code occupied 22 measures. By contrast, all Baudot and Murray characters were a
-mere five units in length, with the maximum of ten used to switch the receiving
-device into "figure" or "capital letter" states (for the total of ten units)
-[@murray_setting_1905; @beauchamp_history_2001 380-397].
-
-![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
-[@murray_setting_1905].](images/murray-keyboard.png)
-
-As the volume of transmissions increased, human operators were simply not fast
-enough to keep up with the demand of encoding and decoding messages into and
-from Morse code. The rise of printing telegraphs answered the demand of
-increased information exchange. The great variety of printing telegraph designs
-at the turn of the twentieth century all attempted to solve the problem of
-automating the encoding and decoding mechanisms of transmission, with the goal
-of speeding up and increasing the volume of possible communication.[^ln-cables]
-
-Donald Murray, the entrepreneur and the inventor of the popular Murray
-telegraph, writes: "It is the object of machine telegraphy not only to increase
-the saving of telegraph wire [...] but also to reduce the labor cost of
-translation and writing by the use of suitable machines" [@murray_setting_1905,
-557]. Baudot's and Murray's codes were not only shorter, they were simpler and
-less error-prone, resulting in less complicated and more durable devices. By
-the end of the nineteenth century a number of devices were in use
-internationally, making it possible to decouple the real-time encoding of text
-into code from the operation of the machine. A tape containing the message
-could be prepared in advance, fed into the telegraph, and printed in
-human-legible form on the receiving end.
+Writing at the dawn of the Enlightenment, Bacon perceived the essence of
+telegraphy: to express and to signify the intentions of the human mind at a
+distance.
 
 ### A. Teletype, 1910--1964.
 
 "You must acknowledge that this is readable without special training," reads
 the schematic illustration to a Goldberg 1911 patent, simply titled
 "Controller." "My invention relates to all controllers," Goldberg writes.
-Furthermore, the object of his invention is "to provide a mechanism operable by
-a control sheet which is legible to every person having sufficient education to
-enable him to read." Goldberg illustrates his invention in attaching to his
+Furthermore, the object of his invention was "to provide a mechanism operable
+by a control sheet which is legible to every person having sufficient education
+to enable him to read." Goldberg illustrates his invention in attaching to his
 patent "a control sheet in which the control characters are in the form of the
 letters of the ordinary English alphabet"  [@goldberg_controller_1915]. Rather
 than using ticker tape, Goldberg uses perforations that form letters. On

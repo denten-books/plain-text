@@ -89,6 +89,49 @@ modulation was difficult to implement initially. Cross-channel noise and device
 sensitivity hampered reliable reception and decoding across multiple
 simultaneous wave frequencies.
 
+Although the discovery of binary arithmetic rightly belongs to
+Gottfried Leibniz, who, influenced by hexagrams in the *I Ching*, articulated
+his own system in his *Explication de l'Arithmétique Binaire* (written in 1679
+and published in 1703) [@leibnitz_explication_1703], Bacon should take the
+credit for articulating a system for fixed-length binary encoding. The
+fixed-length property of Bacon's cipher, later implemented in the 5-bit Baudot
+code, signaled the beginning of the modern era of serial communications
+[@jennings_annotated_2004]. Baudot and the related Murray alphabets
+[^ln1-murray] were designed specifically with automation in mind. Both being
+fixed-length alphabets, the Baudot in particular did away with the "end of
+charachter" that separated letters in Morse. Fsignals could be divided
+into letters by count (every five codes representing a single character).
+Additionally, the Murray code was more compact than Morse and especially more
+economical than Hughes, which used up to 54 measures of silence to send a
+signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
+code occupied 22 measures. By contrast, all Baudot and Murray characters were a
+mere five units in length, with the maximum of ten used to switch the receiving
+device into "figure" or "capital letter" states (for the total of ten units)
+[@murray_setting_1905; @beauchamp_history_2001 380-397].
+
+![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
+[@murray_setting_1905].](images/murray-keyboard.png)
+
+As the volume of transmissions increased, human operators were simply not fast
+enough to keep up with the demand of encoding and decoding messages into and
+from Morse code. The rise of printing telegraphs answered the demand of
+increased information exchange. The great variety of printing telegraph designs
+at the turn of the twentieth century all attempted to solve the problem of
+automating the encoding and decoding mechanisms of transmission, with the goal
+of speeding up and increasing the volume of possible communication.[^ln-cables]
+
+Donald Murray, the entrepreneur and the inventor of the popular Murray
+telegraph, writes: "It is the object of machine telegraphy not only to increase
+the saving of telegraph wire [...] but also to reduce the labor cost of
+translation and writing by the use of suitable machines" [@murray_setting_1905,
+557]. Baudot's and Murray's codes were not only shorter, they were simpler and
+less error-prone, resulting in less complicated and more durable devices. By
+the end of the nineteenth century a number of devices were in use
+internationally, making it possible to decouple the real-time encoding of text
+into code from the operation of the machine. A tape containing the message
+could be prepared in advance, fed into the telegraph, and printed in
+human-legible form on the receiving end.
+
 ## 2.1 Metaphor Machine
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
