@@ -1,6 +1,6 @@
-# Chapter 2: Surface, Legibility
+# Chapter 2: Surface
 
-`surface, legibility, encoding`
+`legibility, encoding`
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
