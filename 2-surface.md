@@ -314,33 +314,35 @@ used to program machines remotely. The price for these new affordances given to
 language was legibility. The translation between human alphabet and machine
 transmittable code required first a cadre of specially trained machine
 operators, and then specialized equipment which automated the process of
-translation itself. As Bacon's early writings on the language arts suggest, the
-roots of telegraphy lie in secret writing: cypher-making and cryptography. And
-because the art of cryptography is intimately linked with war-time
-communications, the peace-time encoding of language for machine use was
-immediately perceived as a matter national security.
+translation itself.
 
-The Final Protocol to the Telegraph Regulations, ratified in Madrid in 1932 by
-the governments of more than seventy countries including Germany, Brazil, Cuba,
-Egypt, Empire d'Ethiopie, France, Japan, the United Kingdom of Great Britain,
-United States of America, and Union of Soviet Socialist Republics, included a
-special provision delineating the difference between transmitting "plain," and
-"secret" language. The protocols further divided "secret languages" into "code"
-and "cypher" categories. According to the language of the protocol, "plain
-language is that which presents an intelligible meaning in one or more of the
-languages authorized for international telegraph correspondence, each word and
-each expression having the meaning normally assigned to it in the language to
-which it belongs" [@itu_telegraph_1932, 12]. By contrast, the regulations
-specified "code language" as text "composed either of artificial words, or of
-real words not used in the meaning normally assigned to them in the language to
-which they belong and consequently not forming intelligible phrases"
-[@itu_telegraph_1932, 12]. Codes were not permitted to contain more than five
-characters and were charged at 6/10th of the agreed tariff rate. Upon request,
-the sender of the telegram in code language was required to "produce the code
-from which the text or part of the text of the telegram has been compiled"
-[@itu_telegraph_1932, 13]. Otherwise, the language was considered to be a
-secret "cypher," defined as "groups or series of Arabic figures with a secret
-meaning."
+As Bacon's early writings on the language arts suggest, the roots of telegraphy
+lie in cypher-making and cryptography. For this reason, the encoding of human
+languages for machine use was always intimately connected to war-time,
+diplomatic, and otherwise secret communications. The seemingly innocous problem
+of machine translation was therefore from the beginning entangles with the
+question of access and legibility: who gets to understand the encoded message
+and when? For example, the Final Protocol to the Telegraph Regulations,
+ratified in Madrid in 1932 by the governments of more than seventy countries
+including Germany, Brazil, Cuba, Egypt, Empire d'Ethiopie, France, Japan, the
+United Kingdom of Great Britain, United States of America, and Union of Soviet
+Socialist Republics, included a special provision delineating the difference
+between transmitting "plain," and "secret" language. The protocols further
+divided "secret languages" into "code" and "cypher" categories. According to
+the language of the protocol, "plain language is that which presents an
+intelligible meaning in one or more of the languages authorized for
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@itu_telegraph_1932, 12]. By contrast, the regulations specified "code
+language" as text "composed either of artificial words, or of real words not
+used in the meaning normally assigned to them in the language to which they
+belong and consequently not forming intelligible phrases" [@itu_telegraph_1932,
+12]. Codes were not permitted to contain more than five characters and were
+charged at 6/10th of the agreed tariff rate. Upon request, the sender of the
+telegram in code language was required to "produce the code from which the text
+or part of the text of the telegram has been compiled" [@itu_telegraph_1932,
+13]. Otherwise, the language was considered to be a secret "cypher," defined as
+"groups or series of Arabic figures with a secret meaning."
 
 According to the terms of the convention, all administrations agree to accept
 and to pass telegrams in plain language through their jurisdiction. The
