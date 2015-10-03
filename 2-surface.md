@@ -158,15 +158,15 @@ preconditions for digital textuality. They are not meant as history, but rather
 as signposts to mark the journey ahead. The schema proceeds roughly as follows:
 first, content and control couple at the visible surface of removable storage
 media (ticker tape and punch card); second, inscription splits into input and
-output, retreating into magnetic storage to reemerge at last on the screen, in
-the same guise, but also, as we suspect, somehow transformed: less solid and
-concealing something beneath the phantasmal shell of its former
+output, retreating into magnetic storage; to reemerge at third and last on the
+screen in the same guise, but also, as we suspect, somehow transformed: less
+solid and concealing something beneath the phantasmal shell of its former
 appearance.
 
 As we embark to explore the consequences of computed text, I propose we keep
-the following three landmark mechanisms in view as signposts along our journey:
-Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*. In the
-first of these, text structure and machine control lie before us for
+the following three landmark mechanisms in view as milestones along our
+journey: Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*.
+In the first of these, text structure and machine control lie before us for
 inspection. The second one is mute: a black slate. The last of these belongs to
 what Peter Denning calls the "third generation" of computer systems---an
 assemblage of storage, input, and output technologies that continue to shape
@@ -176,7 +176,7 @@ into an arrangement of magnetic charge and floating gate at the site of the
 archive. Another part appears at the site of projection in the flicker of the
 cathode ray and the flow of the liquid crystal.
 
-### A. Teletype
+### A. Teletype (Input)
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
@@ -290,7 +290,7 @@ letter to King James in 1623. Book Six of Bacon's systematic account of the
 sciences is dedicated to speech, speaking, writing, grammar (literary and
 philosophical), poetry (meter and verse), and, most relevant to our discussion,
 "the knowledge of ciphers." Here Bacon boasts of inventing a "highest degree of
-cipher” that can signify "all in all" (*omnia per omnia*). Bacon proceeded to
+cipher" that can signify "all in all" (*omnia per omnia*). Bacon proceeded to
 describe a "fivefold," "bi-literarie" alphabet, which encodes each letter of
 the English language using a five-letter long string of As and Bs. The letter
 A, for example, became "aaaaa." B became "aaaab," C "aaaba," and so on to Z,
@@ -304,32 +304,32 @@ difference only; as by Bells, by Trumpets, by Lights and Torches, by the
 report of Muskets, an any instruments of like nature [@bacon_advancement_1987,
 266].
 
-Writing at the dawn of the Enlightenment, Bacon perceived the essence of
-telegraphy: to express and to signify the intentions of the human mind at a
-distance. The Morse and the Baudot codes paved the way for the automation of
-human language. The great proliferation of scripts and alphabets was finally
-reduced to thirty-two discrete and reproduced characters. So automated, type
-could be converted into an electrical signal, sent over great distances, and
-used to program machines remotely. The price for these new affordances given to
-language was legibility. The translation between human alphabet and machine
-transmittable code required first a cadre of specially trained machine
-operators, and then specialized equipment which automated the process of
-translation itself.
+Writing near two centuries after the advent of the Gutenberg press, Bacon
+perceived the essence of telegraphy: to express and to signify the intentions
+of the human mind at a distance. The Morse and the Baudot codes paved the way
+for the automation of human language. The great proliferation of scripts and
+alphabets was finally reduced to thirty-two discrete and reproducible
+characters. So regularized, type could be converted into electrical signal,
+sent over great distances, and used to program machines remotely. The price for
+these new affordances given to language was legibility. The translation between
+human alphabet and machine transmittable code required first a cadre of
+specially trained machine operators, and then specialized equipment which
+automated the process of translation itself.
 
 As Bacon's early writings on the language arts suggest, the roots of telegraphy
 lie in cypher-making and cryptography. For this reason, the encoding of human
 languages for machine use was always intimately connected to war-time,
-diplomatic, and otherwise secret communications. The seemingly innocous problem
-of machine translation was therefore from the beginning intertwined with the
-question of access and legibility: who gets to understand the encoded message
-and when? For example, the Final Protocol to the Telegraph Regulations,
+diplomatic, and otherwise secret communications. The seemingly innocuous
+problem of machine translation was therefore from the beginning intertwined
+with the question of access and legibility: who gets to understand the encoded
+message and when? For example, the Final Protocol to the Telegraph Regulations,
 ratified in Madrid in 1932 by the governments of more than seventy countries
 including Germany, Brazil, Cuba, Egypt, Empire d'Ethiopie, France, Japan, the
 United Kingdom of Great Britain, United States of America, and Union of Soviet
 Socialist Republics, included a special provision delineating the difference
 between transmitting "plain," and "secret" language. The protocols further
-divided "secret languages" into "code" and "cypher" categories. According to
-the language of the protocol, "plain language is that which presents an
+grouped "secret languages" into "code" and "cypher" categories. According to
+the language of the protocol, "plain language" was that "which presents an
 intelligible meaning in one or more of the languages authorized for
 international telegraph correspondence, each word and each expression having
 the meaning normally assigned to it in the language to which it belongs"
@@ -350,9 +350,12 @@ undesigned agreed also to allow secret communication to pass in transit through
 their territory, although they were allowed also to refuse to admit them "both in
 acceptance and in delivery" [@itu_telegraph_1932, 13].
 
-A number of American patents at the dusk of Morse age attempted to adress the
-challenge of illegibility of machine code. "You must acknowledge that this is
-readable without special training," reads the caption to a schematic
+A number of American patents at the dusk of Morse age attempted to address the
+challenge of illegibility of machine code. Code obscured intended meaning,
+which in international communication had implications for national security.
+But code also presented a barrier to human understanding. It was was difficult
+to encode and to decode without special training. "You must acknowledge that
+this is readable without special training," reads the caption to a schematic
 illustration for a "controller," patented by H.E. Goldberg in 1911. "My
 invention relates to all controllers," Goldberg writes. The object of
 Goldberg's controller was "to provide a mechanism operable by a control sheet
@@ -360,24 +363,16 @@ which is legible to every person having sufficient education to enable him to
 read." Goldberg illustrates his invention in attaching to his patent "a control
 sheet in which the control characters are in the form of the letters of the
 ordinary English alphabet" [@goldberg_controller_1915]. Rather than using
-ticker tape, Goldberg proposes the use of perforations that while capable of
-actuating machine levers also form letters. On Goldberg's control sheets, the
-language of machines and the language of humans coincide.
+ticker tape, Goldberg proposed the use of perforations that while capable of
+actuating machine levers also formed letters. To counteract the
+unintelligibility of code, Goldberg imagines using cards, perforated in the
+shape of the English alphabet. Thus besides carrying human-readable content,
+Goldberg's cards did "double duty" to mechanically manipulate the machine's
+"blocks," "handles," "terminal blades," and "plungers"
+[@goldberg_controller_1915].  On Goldberg's control sheets, the language of
+machines and the language of humans coincided at one and the same plane.
 
 ![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
-
-The Controller never caught on, but the patent makes it clear that Goldberg,
-among others, was aware of the problem: the mechanization of type, automation,
-and remote control of machines required specialized training. With the advent
-of the automated telegraph, content meant for people was now being intermixed
-with machine-controlling code. To combat mutual unintelligibility, Goldberg
-imagines using cards, perforated in the shape of the English alphabet. Besides
-carrying (human-readable) content, the perforations do "double duty" to
-mechanically manipulate the machine's "blocks," "handles," "terminal blades,"
-and "plungers" [@goldberg_controller_1915]. Early paper-based storage media,
-from Morse code-based ticker tape systems, to the telegraphs of Hughes and
-Baudot, and to punch cards that powered weaving looms, player pianos, and
-census tabulators coupled message and control. 
 
 By the late 1920s the "Morse men" were being replaced with more efficient
 automated devices. By the 1930s, devices variously known as "printer
@@ -389,14 +384,33 @@ between the years of 1915 and 1931. Morse operators referred to the
 tele-typists on the sending side as "punchers" and on the receiving side as
 "printer men."[^ln1-printermen] The printer men responsible for assembling
 pages from ticker tape were called "pasters" and sometimes, derisively, as
-"paperhangers" [@brackbill_telegraphers_1929]. Where, in the Morse code
-machine, a human-operator was responsible for translating language into code,
-teletype automated the process completely. The human operator could simply
+"paperhangers" [@brackbill_telegraphers_1929]. Where Morse code telegraphy
+required the mediation of a human-operator responsible for translating language
+into code, teletype automated the process entirely. The operator could simply
 enter printed characters into the machine directly, using a keyboard similar to
-the typewriter. The teletype would then transcode the input into transmitted
-signal and then back from the signal onto paper on the receiving end. The era
-of ticker tape punch cards can be thought to end with the mass-market
-introduction of IBM's Magnetic Tape/Selectric Typewriter in 1964.
+the typewriter, by that time widely in business use. The teletype would then
+automatically transcode the input into transmitted signal and then back from
+the signal onto paper on the receiving end. Operators did not need to concern
+themselves with machine code at all. They saw only the familiar alphabet
+letters.
+
+With the advent of the automated telegraph, content meant for people was now
+routinely being intermixed with code meant to control machine devices remotely.
+Such remote control capabilities were used for everything from programming
+radio stations to advertising billboards and knitting machines
+[@hough_wired_1931; @adler_knitting_1933; @casper_remote_1934]. Early
+paper-based storage media, from Morse code-based ticker tape systems, to the
+telegraphs of Hughes and Baudot, and to punch cards that powered weaving looms,
+player pianos, and census tabulators coupled natural language with machine
+control. The concern with the legibility of machine code emerges during the
+first few decades of the twentieth century. For the first time in the history
+of writing, the alphanumerical sign splits between human- and machine- readable
+inscription. For a time, the inscription remains visible at the surface of the
+control sheet, as perforated figure, punched through the medium. 
+
+The era of ticker tape punch cards can be thought to end with the mass-market
+introduction of IBM's Magnetic Tape/Selectric Typewriter in 1964. Magnetic
+storage media further submerges the inscription beneath an inscrutable facade.
 
 [^ln1-printermen]: According to the U.S. Department of Labor statistics, women
 comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
@@ -404,7 +418,7 @@ of automated telegraphy). By 1931 women comprised 64 percent of printer and
 Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
 514].
 
-### B. Magnetic tape
+### B. Magnetic tape (Storage)
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun writes in her *Programmed Visions*, an
@@ -465,7 +479,7 @@ domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
 Magnetic storage remains, for all unassisted intents and purposes, a black
 slate.
 
-### C. Screen, 1968--today
+### C. Screen, (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process of
