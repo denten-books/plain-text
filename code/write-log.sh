@@ -1,0 +1,1 @@
+/home/denten/bin/write-support/write-log.sh
