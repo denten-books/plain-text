@@ -1,6 +1,6 @@
 # Chapter 2: Surface
 
-`legibility, encoding`
+`inscription, encoding, legibility`
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -136,7 +136,7 @@ to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
 printing process in this evolution," he writes. He concludes to say that the
 IBM Composer finally empowers the writer to once again write books "without the
 assistance of specialists" [@frutiger, 10]. Marketing language aside, the
-separation of the sign from its immedeate material contexts constituted a major
+separation of the sign from its immediate material contexts constituted a major
 milestone in the history of writing and textuality.
 
 In this chapter, I would like to give a historical account of a letter's
@@ -433,8 +433,8 @@ translated back into natural language.
 
 Early programmable media could hardly be called ephemeral or immaterial.
 Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
-the early (post-WWII) pioneer in the field of computational philology, carting
-his punch cards around Italy on a truck.[^ln3-busa] Code before its
+the early pioneer in the field of computational philology, carting his punch
+cards around Italy on a truck in the 1960s.[^ln2-busa] Code before its
 electromagnetic period was burdensome, fragile, unwieldy, and, most of all,
 visible.
 
@@ -453,13 +453,13 @@ Magnetic recording on wire or plastic tape offered several advantages over
 mechanical perforation. It was more durable than paper, it could fit more
 information per square inch, and, most importantly, it was reusable. "One of
 the important advantages of magnetic recording is that the record may be erased
-if desired, and a new record made in its place," Marving Camras, a physisist
+if desired, and a new record made in its place," Marvin Camras, a physicist
 with the Armour Research Foundation writes in 1948 [@camras, 505]. Addressing
 the Franklin Institute on December 16th of 1908 Charles Fankhauser, the
-inventor of the Telegraphone, said the following: 
+inventor of the telegraphone, said the following: 
 
 "To transport human speech over a distance of one thousand miles is a wonderful
-achievment. How much more wonderful, then, is the achievment that makes
+achievement. How much more wonderful, then, is the achievement that makes
 possible [...] its storage at the receiving end, so that the exact sentence,
 the exact intonation of the voice, the exact timbre may be reproduced over and
 over again, an endless number of times." [39]
@@ -541,6 +541,10 @@ competitive advantages of magnetic recording sheet material, e.g., ease in
 correction, economy in reuse, simplicity of equipment, compactness of recorded
 data, etc." [@youngquist_magnetic_1961, 1] 
 
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy."
+
 ### C. Screen, (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
@@ -607,9 +611,9 @@ becomes visible again. Moreover, represented in the shimmer of the cathode ray,
 it attaches itself lightly to the retina. Users trying out this way of writing
 for the first time report that the screen liberates them from the material
 confines of print textuality. One user, possibly Engelbart himself, writes the
-following:[^ln3-follow]
+following:[^ln2-follow]
 
-[^ln3-follow]: I reproduce the text verbatim and preserving the line breaks,
+[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience.
 
 ```
@@ -774,7 +778,7 @@ lightness of textual being comes at the price of legibility. Would new authors
 find the same ease in the complication of the mechanism? I suspect not unless
 they become an active part of a "bootstrapping community" of their own.
 
-[^ln1-brain]: We will later entertain the (real) possibility of
+[^ln2-brain]: We will later entertain the (real) possibility of
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
@@ -912,30 +916,30 @@ succeeds when readers reclaim the underlying material conditions of their
 meaning making. The very architects of the "smart" literary device tell us: the
 answer to the machine remains in the machine.
 
-[^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
+[^ln2-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
 immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
 behavior" [@kirschenbaum_mechanisms_2012, 135].
 
-[^ln5-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+[^ln2-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
-[^ln5-root]: @stoltz_is_2013
+[^ln2-root]: @stoltz_is_2013
 
-[^ln5-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+[^ln2-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
 International Organization for Standardization in 1984, as ISO 7498.
 
-[^ln5-layers]: The full OSI protocol stack includes Application, Presentation,
+[^ln2-layers]: The full OSI protocol stack includes Application, Presentation,
 Session, Transport, Network, Data Link, and Physical layers
 [@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
 @day_revised_1995].
 
-[^ln5-smart]: For examples see @grundy_information_1994;
+[^ln2-smart]: For examples see @grundy_information_1994;
 @kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
 
-[^ln5-plato]: My reading of Plato would be impossible without help from the
+[^ln2-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
 originals side-by-side with translations, maps, dictionaries, and other
 parallel texts. Sources consulted on Plato's theory of forms include
@@ -943,14 +947,14 @@ parallel texts. Sources consulted on Plato's theory of forms include
 @woods_form_1993. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
 
-[^ln5-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
 @ohmori_memory_2015.
 
-[^ln5-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
 Italy."
 
-[^ln5-loom]: These dates, as is usually the case with periodization, are
+[^ln2-loom]: These dates, as is usually the case with periodization, are
 somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
 worker Basile Bouchon used "drill paper" to automate industrial drawlooms
 [@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
@@ -961,13 +965,13 @@ his lifelike mechanisms in the mid eighteenth century
 upon and popularized Bouchon's looms on an industrial scale around the same
 time.
 
-[^ln5-reading]: All of the technologies I list here exist today (in the second
+[^ln2-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
 
-[^ln5-translate]: Translations are mine, unless cited otherwise.
+[^ln2-translate]: Translations are mine, unless cited otherwise.
 
-[^ln5-barthes]: "The work is a fragment of substance," he writes. The work is
+[^ln2-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
 space of books," where the text is "a process of demonstration," "experienced
 only in an activity of production." He writes also that "the Text cannot stop
@@ -975,7 +979,7 @@ only in an activity of production." He writes also that "the Text cannot stop
 across (in particular, it can cut across the work, several works)"
 [@barthes_work_1978, 156-7].
 
-[^ln5-descartes]: It is difficult to resist quoting from Descartes's
+[^ln2-descartes]: It is difficult to resist quoting from Descartes's
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
 consider the things that people ordinarily think they understand best of all,
 namely the bodies that we touch and see. I don't mean bodies in general---for
@@ -994,29 +998,29 @@ understood so clearly? Evidently it was not any of the features that the senses
 told me of; for all of them---brought to me through taste, smell, sight, touch
 or hearing---have now altered, yet it is still the same wax."
 
-[^ln3-marinetti]: "Il nostro amore crescente per la materia, la volontà di
+[^ln2-marinetti]: "Il nostro amore crescente per la materia, la volontà di
 penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
 motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
 meccanico e la sensibilità numerica]
 
-[^ln3-echenbaum]: "Что касается 'формы', то формалистам было важно только
+[^ln2-echenbaum]: "Что касается 'формы', то формалистам было важно только
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-[^ln1-translate]: "In our discussion of this text we have been using an
+[^ln2-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
 In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
 71]."
 
-[^ln1-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
 Principle Researcher at Microsoft Research and then a professor at the
 University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
 appeared in the same volume of collected essays, @herken_universal_1988.
 
-[^ln1-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
 the "application layer" and the bottom-most layer the "physical layer"
 [@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
@@ -1024,7 +1028,7 @@ being "responsible for encoding bits onto a transmission medium, whether wires,
 fiber optics, or radio broadcast, in ways that maximize the transmission rate
 and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
 
-[^ln1-abstraction]: This is a topic of some contention in the literature. In
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
 software as one of the "three myths" of computer science. "As a practical
 matter, what we regard as computer instructions, and consequently what we
@@ -1033,13 +1037,13 @@ regard as computer programs, is determined by computers available," he writes
 abstract artifact, akin to a musical work [@irmak_software_2012]. See also
 @turner_programming_2013; @colburn_software_1999.
 
-[^ln1-turing]: The intellectual history of the Turing machine is well
+[^ln2-turing]: The intellectual history of the Turing machine is well
 established, in multiple works on the subject. It follows the Greek Diophantus,
 René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln1-alt]: "We have to think (in a completely novel way) the relation between
+[^ln2-alt]: "We have to think (in a completely novel way) the relation between
 a science and the ideology [...] the fact that such an investigation confronts
 us with the observation that every science, in the relationship it has with
 ideology it emerged from, can only be thought as a 'science of ideology, would
@@ -1047,7 +1051,7 @@ disconcert us, were we not forewarned of the name of the *object* of knowledge,
 which can only exist in the form of ideology" [@althusser_reproduction_2014,
 46].
 
-[^ln1-derr]: See @derrida_writing_1978. I am alluding particularly to
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
 statements like "ethnology-like any science-comes about within the element of
 discourse," and "this moment was that in which language invaded the universal
 problematic; that in which, in the absence of a center or origin, everything
@@ -1057,7 +1061,7 @@ transcendental signified, is never absolutely present outside a system of
 differences. The absence of the transcendental signified extends the domain and
 the interplay of signification ad infinitum" (278-294).
 
-[^ln1-flip]: There is a long-standing joke in Marxist literature that involves
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
 and material forms of life, over "back to his feet." See for example
 @marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
@@ -1071,4 +1075,3 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed upon
 its head; or rather, turned off its head, on which it was standing before, and
 placed on its feet again" (44).
-
