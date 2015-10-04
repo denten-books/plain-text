@@ -421,14 +421,14 @@ Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
 ### B. Magnetic tape (Storage)
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
-and defies apprehension," Wendy Chun writes in her *Programmed Visions*, an
+and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
 influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
 same effect. But what gives software its ephemeral quality? Embossed onto
 ticker tape or punched into the card, early software protrudes through the
 medium. In the age of the telegraph, the biggest barrier to the comprehension
 of software was encoding. Morse code and similar alphabet conventions left a
-visible mark on the paper. Once the convention identified, it could be
+visible mark on the paper. Once the machine alphabet identified, it could be
 translated back into natural language.
 
 Early programmable media could hardly be called ephemeral or immaterial.
@@ -437,11 +437,6 @@ the early (post-WWII) pioneer in the field of computational philology, carting
 his punch cards around Italy on a truck.[^ln3-busa] Code before its
 electromagnetic period was burdensome, fragile, unwieldy, and, most of all,
 visible.
-
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
-under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), the American engineer who also filed several inventions related to
@@ -454,6 +449,56 @@ influential designs for a magnetic wire recorder [@smith_possible_1888;
 @poulsen_method_1900; @engel_1888-1988_1988; @thiele_magnetic_1988;
 @daniel_magnetic_1998; @vasic_coding_2004].
 
+Magnetic recording on wire or plastic tape offered several advantages over
+mechanical perforation. It was more durable than paper, it could fit more
+information per square inch, and, most importantly, it was reusable. "One of
+the important advantages of magnetic recording is that the record may be erased
+if desired, and a new record made in its place," Marving Camras, a physisist
+with the Armour Research Foundation writes in 1948 [@camras, 505]. Addressing
+the Franklin Institute on December 16th of 1908 Charles Fankhauser, the
+inventor of the Telegraphone, said the following: 
+
+"To transport human speech over a distance of one thousand miles is a wonderful
+achievment. How much more wonderful, then, is the achievment that makes
+possible [...] its storage at the receiving end, so that the exact sentence,
+the exact intonation of the voice, the exact timbre may be reproduced over and
+over again, an endless number of times." [39]
+
+Comparing magnetic recording to the invention of the Gutenberg press,
+Fankhouser writes:
+
+"It is my belief that what type has been to the spoken word, the telegraphone
+will be to the electrically transmitted word [...] As printing spread learning
+tand civilization among the peoples of the earth and influenced knowledge and
+intercourse among men, so I believe the telegraphone will influence and spread
+electrical communication among men" [40].
+
+"It has always been a drawback to the general use of the telephone, that the
+messages transmitted have been wholly evanescent, that it has been impossible
+to preserve or present an authentic record of conversation over the wire.
+
+"How vastly may be increased the ease of methods of reading to the sick, the
+infirm, the aged [...] A book can be read to the sighless or the invalid by the
+machine, while the patient lies in bed. Lectures, concerts, recitations---what
+one wishes, may be had at will. Skilled readers or expert elocution teachers
+could be employed to read into the wires entire libraries [...] The busy and
+over-worked man may listen to this favorite author, and soothe himself into a
+state of restfulness, avoiding entireld the strain and fatigue insidental to
+reading a book." [44].
+
+"...there has always been a gap
+
+Writing 
+@camras
+
+Magnetic recording gets big in the 1950s.
+[@dee, 1775]
+
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
+under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
+
 In 1964, IBM combined magnetic tape storage with its *Selectric* line of
 electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
 typewriters to the mass market. Writing for the *Encyclopedia of Library and
@@ -465,19 +510,19 @@ tape gives temporary shelter to the word. There it can be processed before
 committing to a more permanent medium.
 
 We may therefore think of word processing as a temporal extension of the page.
-Words on magnetic storage media exist in what seems;qephemeral state, giving the typist
-an opportunity to edit and emend *before* commitment to paper, in its immutable
-form, and as a separate operation, removed from the immediate process of
-inscription. The very invention of word processing thus corresponds to the
-decline of text into ephemera. What was visible through a hole punch on ticker
-tape, was now submerged into tape. The tape no longer afforded human legibility
-nor comprehension. Encoding used by MT/ST retained the familiar (from the
-earlier sections) underlying structure (7-bit encoding, in this case) which, on
-tape, ceased to be recoverable by the naked eye. The inscription lay literally
-beyond (human) sense. We lack the perceptual apparatus to perceive "magnetic
-domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
-Magnetic storage remains, for all unassisted intents and purposes, a black
-slate.
+Words on magnetic storage media exist in what seems;qephemeral state, giving
+the typist an opportunity to edit and emend *before* commitment to paper, in
+its immutable form, and as a separate operation, removed from the immediate
+process of inscription. The very invention of word processing thus corresponds
+to the decline of text into ephemera. What was visible through a hole punch on
+ticker tape, was now submerged into tape. The tape no longer afforded human
+legibility nor comprehension. Encoding used by MT/ST retained the familiar
+(from the earlier sections) underlying structure (7-bit encoding, in this case)
+which, on tape, ceased to be recoverable by the naked eye. The inscription lay
+literally beyond (human) sense. We lack the perceptual apparatus to perceive
+"magnetic domains" and "polarities"[^ln3-magnet] that take place of visible
+alphabets.  Magnetic storage remains, for all unassisted intents and purposes,
+a black slate.
 
 !["Images formed by a negative voltage," from Electrographic Printer by Epstein and Innes [@epstein_electrographic_1961]](images magnetic-letter.png)
 
