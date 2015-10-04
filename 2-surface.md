@@ -479,6 +479,23 @@ domains" and "polarities"[^ln3-magnet] that take place of visible alphabets.
 Magnetic storage remains, for all unassisted intents and purposes, a black
 slate.
 
+!["Images formed by a negative voltage," from Electrographic Printer by Epstein and Innes [@epstein_electrographic_1961]](images magnetic-letter.png)
+
+"invisible magnetic record" US3031651A [@rosen_magnetic_1962, 1]
+
+"Magnetic recording tape is often criticized because the recorded signals are
+invisible, and the criticism has been strong enough to deny it certain
+important markets. For example, this has been a major factor in hampering sales
+efforts at substituting magnetic recording tape and card equipment for punched
+tape and card equipment which presently is dominant in automatic digital
+data--handling systems. Although magnetic recording devices are faster and more
+troublefree, potential customers have often balked at losing the ability to
+check recorded information visually. It has been suggested that the information
+be printed in ink alongside the magnetic signals, but his vitiates major
+competitive advantages of magnetic recording sheet material, e.g., ease in
+correction, economy in reuse, simplicity of equipment, compactness of recorded
+data, etc." [@youngquist_magnetic_1961, 1] 
+
 ### C. Screen, (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
@@ -514,8 +531,7 @@ text search, image manipulation, windows-based user interfaces, digital slides,
 networked machines, mouse, stylus, and joystick inputs, and "what you see is
 what you get" (WYSIWYG) word processing.
 
-!["NOW IS THE TIME FOB." Schematics for a "display system"
-[@engelbart_x-y_1970].](images/engel.png)
+!["NOW IS THE TIME FOB." Schematics for a "display system" [@engelbart_x-y_1970].](images/engel.png)
 
 In his report to NASA, which sponsored research on "intellect augmentation"
 along with DARPA, Engelbart describes his lab as a group of scientists
