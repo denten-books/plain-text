@@ -551,6 +551,20 @@ tape may be coded directing the calculator to compute the values of *f(x)* and
 record them by means of one of th efour output punches, mounted on the right
 wing of the machine" [@staff_description_1949, 34].
 
+I go significant technichal detail here to make sure that the contemporary
+reader understand what I describe as the "splitting of the sign" or the
+"multiple locations of the inscription" not as a metaphor, but literally.  The
+movement of the sign through the computational machine necessitated its
+frequent "phase transition" across multiple surfaces. In the Mark III, each
+sign was stored on the magnetic tape in duplicate, checked on paper print outs,
+transferred to a temporary "slow" spinning magnetic drum, and transferred again
+to the fast "internal" storage drum for caluclation. The results of calculation
+made the same ardous journey out from the calculation drum to the "publication
+ready" printer. Each phase transition held the opportunity for errro: from drum
+to drum, from drum to tape, and from tape to paper. Error checking was
+therefore necessary at each step to ensure equivalence between the copied
+material.
+
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
 a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
