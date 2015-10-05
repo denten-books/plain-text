@@ -454,37 +454,45 @@ mechanical perforation. It was more durable than paper, it could fit more
 information per square inch, and, most importantly, it was reusable. "One of
 the important advantages of magnetic recording is that the record may be erased
 if desired, and a new record made in its place," Marvin Camras, a physicist
-with the Armour Research Foundation writes in 1948 [@camras, 505]. Addressing
-the Franklin Institute on December 16th of 1908 Charles Fankhauser, the
-inventor of the telegraphone, said the following: 
+with the Armour Research Foundation writes in 1948 [@camras, 505]. At the turn
+of the century, most of the developments in magnetic storage were aimed at
+sound recording. The use of magnetic medium for the storage of data did not
+take off in earnest until the 1950s. Yet, some of the early engineers
+advancing electro-magnetic storage and recording technology already conceived
+of their work as having impact on knowledge production broadly and on the
+history of the book in particular. Addressing the Franklin Institute on
+December 16th of 1908 Charles Fankhauser, the inventor of the telegraphone,
+said the following:
 
-"To transport human speech over a distance of one thousand miles is a wonderful
-achievement. How much more wonderful, then, is the achievement that makes
-possible [...] its storage at the receiving end, so that the exact sentence,
-the exact intonation of the voice, the exact timbre may be reproduced over and
-over again, an endless number of times." [39]
+> To transport human speech over a distance of one thousand miles is a
+> wonderful achievement. How much more wonderful, then, is the achievement that
+> makes possible [...] its storage at the receiving end, so that the exact
+> sentence, the exact intonation of the voice, the exact timbre may be
+> reproduced over and over again, an endless number of times." [39]
 
 Comparing magnetic recording to the invention of the Gutenberg press,
-Fankhouser writes:
+Fankhauser went on to say:
 
-"It is my belief that what type has been to the spoken word, the telegraphone
-will be to the electrically transmitted word [...] As printing spread learning
-tand civilization among the peoples of the earth and influenced knowledge and
-intercourse among men, so I believe the telegraphone will influence and spread
-electrical communication among men" [40].
+> It is my belief that what type has been to the spoken word, the telegraphone
+> will be to the electrically transmitted word [...] As printing spread
+> learning and civilization among the peoples of the earth and influenced
+> knowledge and intercourse among men, so I believe the telegraphone will
+> influence and spread electrical communication among men" [40].
 
-"It has always been a drawback to the general use of the telephone, that the
-messages transmitted have been wholly evanescent, that it has been impossible
-to preserve or present an authentic record of conversation over the wire.
+In that speech, Fankhauser laments what he calls the "evanescence" of telegraph
+and telephone communications. The telephone fails to preserve "an authentic
+record of the conversion over the wire" [40]. Fankhauser imagines his
+telegraphone in use by "the sick, the infirm, and the aged:"
 
-"How vastly may be increased the ease of methods of reading to the sick, the
-infirm, the aged [...] A book can be read to the sighless or the invalid by the
-machine, while the patient lies in bed. Lectures, concerts, recitations---what
-one wishes, may be had at will. Skilled readers or expert elocution teachers
-could be employed to read into the wires entire libraries [...] The busy and
-over-worked man may listen to this favorite author, and soothe himself into a
-state of restfulness, avoiding entireld the strain and fatigue insidental to
-reading a book." [44].
+> A book can be read to the sightless or the invalid by the machine, while the
+patient lies in bed. Lectures, concerts, recitations---what one wishes, may be
+had at will.  Skilled readers or expert elocution teachers could be employed to
+read into the wires entire libraries [40?].
+
+Anticipating the popularity of twenty-first century audio media formats like
+the podcast and the audio book, Fankhauser imagines the tired workers who
+"sooth themselves into a state of restfulness" by listening to their favorite
+authors.
 
 "...there has always been a gap
 
