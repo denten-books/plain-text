@@ -151,8 +151,6 @@ and control codes into an inscrutable substance. Finally, by the mid-twentieth
 century, the screen emerged to simulate a measure of legibility lost in the
 transition.
 
-## WYSINAWYG (What You See Is Not Always What You Get)
-
 Where does computed text reside? I offer the following three historical
 preconditions for digital textuality. They are not meant as history, but rather
 as signposts to mark the journey ahead. The schema proceeds roughly as follows:
@@ -176,7 +174,7 @@ into an arrangement of magnetic charge and floating gate at the site of the
 archive. Another part appears at the site of projection in the flicker of the
 cathode ray and the flow of the liquid crystal.
 
-### A. Teletype (Input)
+## A. Teletype (Input)
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
@@ -418,7 +416,7 @@ of automated telegraphy). By 1931 women comprised 64 percent of printer and
 Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
 514].
 
-### B. Magnetic tape (Storage)
+## B. Magnetic tape (Storage)
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -457,10 +455,10 @@ if desired, and a new record made in its place," Marvin Camras, a physicist
 with the Armour Research Foundation writes in 1948 [@camras, 505]. At the turn
 of the century, most of the developments in magnetic storage were aimed at
 sound recording. The use of magnetic medium for the storage of data did not
-take off in earnest until the 1950s. Yet, some of the early engineers
-advancing electro-magnetic storage and recording technology already conceived
-of their work as having impact on knowledge production broadly and on the
-history of the book in particular. Addressing the Franklin Institute on
+take off in earnest until the 1950s [@dee, 1775]. Yet, some of the early
+engineers advancing electro-magnetic storage and recording technology already
+conceived of their work as having impact on knowledge production broadly and on
+the history of the book in particular. Addressing the Franklin Institute on
 December 16th of 1908 Charles Fankhauser, the inventor of the telegraphone,
 said the following:
 
@@ -468,7 +466,8 @@ said the following:
 > wonderful achievement. How much more wonderful, then, is the achievement that
 > makes possible [...] its storage at the receiving end, so that the exact
 > sentence, the exact intonation of the voice, the exact timbre may be
-> reproduced over and over again, an endless number of times." [39]
+> reproduced over and over again, an endless number of times"
+[@fankhauser_telegraphone_1909, 39]
 
 Comparing magnetic recording to the invention of the Gutenberg press,
 Fankhauser went on to say:
@@ -477,30 +476,80 @@ Fankhauser went on to say:
 > will be to the electrically transmitted word [...] As printing spread
 > learning and civilization among the peoples of the earth and influenced
 > knowledge and intercourse among men, so I believe the telegraphone will
-> influence and spread electrical communication among men" [40].
+> influence and spread electrical communication among men"
+[@fankhauser_telegraphone_1909, 40].
 
 In that speech, Fankhauser laments what he calls the "evanescence" of telegraph
 and telephone communications. The telephone fails to preserve "an authentic
-record of the conversion over the wire" [40]. Fankhauser imagines his
-telegraphone in use by "the sick, the infirm, and the aged:"
+record of the conversion over the wire" [@fankhauser_telegraphone_1909, 40].
+Fankhauser imagines his telegraphone in use by "the sick, the infirm, and the
+aged:"
 
 > A book can be read to the sightless or the invalid by the machine, while the
 patient lies in bed. Lectures, concerts, recitations---what one wishes, may be
-had at will.  Skilled readers or expert elocution teachers could be employed to
-read into the wires entire libraries [40?].
+had at will. Skilled readers or expert elocution teachers could be employed to
+read into the wires entire libraries [@fankhauser_telegraphone_1909, 44].
 
 Anticipating the popularity of twenty-first century audio media formats like
-the podcast and the audio book, Fankhauser imagines the tired workers who
-"sooth themselves into a state of restfulness" by listening to their favorite
-authors.
+the podcast and the audio book, Fankhauser imagines "tired and jaded" workers
+who "sooth themselves into a state of restfulness" by listening to their
+favorite authors. Poulsen's "electric writing" will finally emerge "as clear
+and as distinct as the writing by hand, an absolutely legal and conclusive
+record" [@fankhauser_telegraphone_1909, 41].
 
-"...there has always been a gap
+The use of magnetic tape for data processing begins in earnest in the 1950s.
+The state of the art relay calculator commissioned by the Bureau of Ordinance
+of the Navy Department in 1944 and built by the Harvard Computation laboratory
+in 1947 made use of standard telegraph "tape readers and punchers," adapted for
+computation with the aid of engineers from Western Union Telegraph Company
+[@staff_description_1949, 1-40].[^ln2-punch] The relay calculator was equipped
+with a number of Teletype Model 12A tape readers and Model 10B perforators,
+using 11/16-inch wide paper tape with "five intelligence holes." The readers
+and punches were capable of operating at 600 operations per minute. Four Model
+15 Page-Printers gave the means to compare the printed characters with the
+   digits stored in the ticker tape-based controlling print register. In this
+setup, the numerical inscription was therefore already split between input and
+output channels: with input stored on ticker tape and output on the  printed
+page, for verification.
 
-Writing 
-@camras
+The next generation Mark III Calculator, commissioned by the Navy's Bureau of
+Ordinance in 1948 and completed in 1950 at Harvard used instead a combination
+of magnetic drum and tape. The surface of the drum was coated with a "thin film
+composed of finely divided magnetic oxides of iron suspended in a plastic
+lacquer, and applied to the drums with an artist's air brush"
+[@staff_description_1952, 1]. The machine used twenty-five such drums, rotating
+at 6900 rpm and each capable of storing 240 binary digits. In addition to the
+fast "internal storage" drums, the "floor plan" included eight slow "external
+storage" tape-read mechanisms. Following the Turing model, the tapes extended
+the storage capabilities of the machine. Operators could prepare tape with
+information that would then make its way onto the internal magnetic drive for
+for data calculation and machine sequencing and control. Mark III was further
+equipped with five printers "for presenting computed results in a form suitable
+for publication. The printers were capable of determining the "number of digits
+to be printed, the intercolumnar and interlinear spacing, and other items
+related to the typography of the printed page" [@staff_description_1952, 1-40].
 
-Magnetic recording gets big in the 1950s.
-[@dee, 1775]
+Data was recorded on tape using binary numerical notation. To enter the number
+onto tape, the operator used the "numerical tape preparation table," an actual
+piece of furniture separate from the main machine. The tape stored the data
+long two channels, running the length of the tape. Each number was entered
+twice, first into Channel A and then into Channel B. This was done to prevent
+errors, since the operator worked blindly, without being able to see whether
+the intended mark registered properly on magnetic tape. A signal would sound if
+the first quantity did not match the second and the operator would have to
+reenter the mismatched digits [@staff_description_1952, 143-88]. To "ensure
+completely reliable results" the operator could use one of the five attached
+Underwood Electric teletypes to print all of the tape's columns and confirm
+visually.
+
+[^ln2-punch]: "Two means are available for preparing the functional tapes
+required for the operation of the interpolators. First, when the tabular values
+of *f(x)* have been previously published, they may be copied on the keys of the
+functional tape preparation unit [...] and the tape produced by the punches
+associated with this unit, under manual control. Second, as suitable contol
+tape may be coded directing the calculator to compute the values of *f(x)* and
+record them by means of one of th efour output punches, mounted on the right
+wing of the machine" [@staff_description_1949, 34].
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
@@ -553,7 +602,7 @@ data, etc." [@youngquist_magnetic_1961, 1]
 truckloads of punched cards being transported from one center to another in
 Italy."
 
-### C. Screen, (Output)
+## C. Screen, (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process of
@@ -790,7 +839,7 @@ they become an active part of a "bootstrapping community" of their own.
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
-## Malicious Code Injection
+## WYSINAWYG (What You See Is Not Always What You Get)
 
 In presenting canonical models of document structure, it is my hope to convince
 the reader of the very real and literal sense of depth manufactured into the
