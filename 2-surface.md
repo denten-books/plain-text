@@ -544,57 +544,53 @@ further "ensure completely reliable results" the operator could use one of the
 five attached Underwood Electric teletypes to print all of the tape's columns
 and confirm visually.
 
-I d
-
 I go significant technichal detail here to make sure that the contemporary
 reader understand what I describe as the "splitting of the sign" or the
-"multiple locations of the inscription" not as a metaphor, but literally.  The
-movement of the sign through the computational machine necessitated its
-frequent "phase transition" across multiple surfaces. In the Mark III, each
-sign was stored on the magnetic tape in duplicate, checked on paper print outs,
-transferred to a temporary "slow" spinning magnetic drum, and transferred again
-to the fast "internal" storage drum for caluclation. The results of calculation
-made the same ardous journey out from the calculation drum to the "publication
-ready" printer. Each phase transition held the opportunity for errro: from drum
-to drum, from drum to tape, and from tape to paper. Error checking was
-therefore necessary at each step to ensure equivalence between the copied
-material.
+"multiple locations of the inscription" not as a metaphor, but literally. Where
+the typewriter or the whole punch transfered the inscription from keyboard to
+tape immedeatly, at the stroke of hammer and key, early electromagnetic devices
+compounded the inscription across multiple surfaces. The movement of the
+computed sign necessitated multiple "phase transitions" between media: from
+drum to tape, from one channel of the tape to another, and from tape to paper.
+Upon entry, it disappeared from view, onto a magnetic surface that resists
+direct observation. The computed sign was displaced in time and space,
+undergoing a number of tranformations in the process. These transformations in
+efect constitute what we mean by the "processing" part of "word processing."
+In the first stage of its development, the processed sign was mixed with
+control code. In the second stage it disappeared from view and transformed.
 
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
-under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
+Advances in magnetic storage used for audio recording and in supercomputer
+applications like the Mark III found their way into the business and home
+office a decade later, in the 1960s. In 1964, IBM combined magnetic tape
+storage with its *Selectric* line of electric typewriters, introducing the
+Magnetic Tape Selectric (MT/ST) line of typewriters to the mass market. Writing
+for the *Encyclopedia of Library and Information Science* in 1992, Daniel
+Eisenberg mentions the MT/ST as one of the first word processors, defined by
+the ability to record strokes and to print them onto paper *as a separate
+operation* [@eisenberg_word_1992]. Just as we saw with the Mark III, the MT/ST
+used magnetic tape for temporary storage.  
 
-In 1964, IBM combined magnetic tape storage with its *Selectric* line of
-electric typewriters, introducing the Magnetic Tape Selectric (MT/ST) line of
-typewriters to the mass market. Writing for the *Encyclopedia of Library and
-Information Science* in 1992, Daniel Eisenberg mentions the MT/ST as one of the
-first word processors, defined by the ability to record strokes and to print
-them onto paper *as a separate operation* [@eisenberg_word_1992]. The
-separation of input and output in effect defines word processing. The magnetic
-tape gives temporary shelter to the word. There it can be processed before
-committing to a more permanent medium.
+What was gained in the effect of liberating text, if only for a few moments,
+from the "permanent" confines of immutable media like ink and paper, was gotten
+at the price of legibility. Encoding used by the IBM MT/ST typewriter retained
+the familiar underlying structure of a 7-bit encoding scheme, not so
+dissimilar from Bacon's secret writing. But on tape, the encoding scheme ceased
+to be recoverable by the naked eye. The inscription lay literally beyond human
+sense, as we lack the perceptual apparatus to perceive "magnetic domains" and
+"polarities"[^ln3-magnet] that take place of visible alphabets. The developers
+of these early systems saw the problem of congruence immediately. The operator
+needed to be sure that the input correspond to the stored quantity. But the
+only way to check the stored quantity was to once again transform it into
+another inscription. 
 
-We may therefore think of word processing as a temporal extension of the page.
-Words on magnetic storage media exist in what seems;qephemeral state, giving
-the typist an opportunity to edit and emend *before* commitment to paper, in
-its immutable form, and as a separate operation, removed from the immediate
-process of inscription. The very invention of word processing thus corresponds
-to the decline of text into ephemera. What was visible through a hole punch on
-ticker tape, was now submerged into tape. The tape no longer afforded human
-legibility nor comprehension. Encoding used by MT/ST retained the familiar
-(from the earlier sections) underlying structure (7-bit encoding, in this case)
-which, on tape, ceased to be recoverable by the naked eye. The inscription lay
-literally beyond (human) sense. We lack the perceptual apparatus to perceive
-"magnetic domains" and "polarities"[^ln3-magnet] that take place of visible
-alphabets.  Magnetic storage remains, for all unassisted intents and purposes,
-a black slate.
+The engineers working on Mark III attempted to solve the problem of congruence
+by asking the operator to input quantities twice. Other solutions included
+making the magnetic mark more visible. For example, the "magnetic reader"
+patented by Robert Youngquist and Robert Hanes in 1962 promised a "device for
+visual observation of magnetic symbols recorded on a magnetic recording medium
+in tape or sheet form." Youngquist and Hanes wrote:
 
-!["Images formed by a negative voltage," from Electrographic Printer by Epstein and Innes [@epstein_electrographic_1961]](images magnetic-letter.png)
-
-"invisible magnetic record" US3031651A [@rosen_magnetic_1962, 1]
-
-"Magnetic recording tape is often criticized because the recorded signals are
+> Magnetic recording tape is often criticized because the recorded signals are
 invisible, and the criticism has been strong enough to deny it certain
 important markets. For example, this has been a major factor in hampering sales
 efforts at substituting magnetic recording tape and card equipment for punched
@@ -602,10 +598,29 @@ tape and card equipment which presently is dominant in automatic digital
 data--handling systems. Although magnetic recording devices are faster and more
 troublefree, potential customers have often balked at losing the ability to
 check recorded information visually. It has been suggested that the information
-be printed in ink alongside the magnetic signals, but his vitiates major
+be printed in ink alongside the magnetic signals, but this vitiates major
 competitive advantages of magnetic recording sheet material, e.g., ease in
 correction, economy in reuse, simplicity of equipment, compactness of recorded
 data, etc." [@youngquist_magnetic_1961, 1] 
+
+The magnetic reader comprised a flat box that resembles a book. Youngquist and
+Hanes proposed to fill the lid or top plate of that box with a transparent
+liquid to host "visible, weakly ferromagnetic crystals." When sandwich between
+the two plates, a piece of magnetic tape would activate the crystals to align
+with the embedded inscription. The top plate would reveal the "visible
+outlines" of the magnetic symbol [@youngquist_magnetic_1961, 1].
+
+!["The positioning of a magnetic recording card for visual observation of
+symbols recorded thereon," from [@youngquist_magnetic_1961, 1]](youngquist.png)
+
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist
+under GNU Free Documentation License, Version
+1.2.](images/ibm-card.png)
+
+!["Images formed by a negative voltage," from Electrographic Printer by Epstein
+and Innes [@epstein_electrographic_1961]](images/magnetic-letter.png)
 
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
