@@ -455,12 +455,12 @@ if desired, and a new record made in its place," Marvin Camras, a physicist
 with the Armour Research Foundation writes in 1948 [@camras, 505]. At the turn
 of the century, most of the developments in magnetic storage were aimed at
 sound recording. The use of magnetic medium for the storage of data did not
-take off in earnest until the 1950s [@dee, 1775]. Yet, some of the early
+take off in earnest until the 1950s [@dee, 1775]. Yet some of the early
 engineers advancing electro-magnetic storage and recording technology already
 conceived of their work as having impact on knowledge production broadly and on
 the history of the book in particular. Addressing the Franklin Institute on
-December 16th of 1908 Charles Fankhauser, the inventor of the telegraphone,
-said the following:
+December 16th of 1908 Charles Fankhauser, the inventor of the electromagnetic
+"telegraphone," said the following:
 
 > To transport human speech over a distance of one thousand miles is a
 > wonderful achievement. How much more wonderful, then, is the achievement that
@@ -497,59 +497,54 @@ favorite authors. Poulsen's "electric writing" will finally emerge "as clear
 and as distinct as the writing by hand, an absolutely legal and conclusive
 record" [@fankhauser_telegraphone_1909, 41].
 
-The use of magnetic tape for data processing begins in earnest in the 1950s.
-The state of the art relay calculator commissioned by the Bureau of Ordinance
-of the Navy Department in 1944 and built by the Harvard Computation laboratory
-in 1947 made use of standard telegraph "tape readers and punchers," adapted for
-computation with the aid of engineers from Western Union Telegraph Company
-[@staff_description_1949, 1-40].[^ln2-punch] The relay calculator was equipped
-with a number of Teletype Model 12A tape readers and Model 10B perforators,
-using 11/16-inch wide paper tape with "five intelligence holes." The readers
-and punches were capable of operating at 600 operations per minute. Four Model
-15 Page-Printers gave the means to compare the printed characters with the
-   digits stored in the ticker tape-based controlling print register. In this
-setup, the numerical inscription was therefore already split between input and
-output channels: with input stored on ticker tape and output on the  printed
-page, for verification.
+The use of magnetic tape for data storage and processing begins in earnest in
+the 1950s. For example, the state of the art relay calculator commissioned by
+the Bureau of Ordinance of the Navy Department in 1944 and built by the Harvard
+Computation laboratory in 1947 still made use of standard telegraph "tape
+readers and punchers," adapted for computation with the aid of engineers from
+Western Union Telegraph Company [@staff_description_1949, 1-40].[^ln2-punch]
+The relay calculator was equipped with a number of Teletype Model 12A tape
+readers and Model 10B perforators, using 11/16-inch wide paper tape with "five
+intelligence holes." The readers and punches were capable of operating at 600
+operations per minute. Four Model 15 Page-Printers gave the means to compare
+the printed characters with the digits stored in the ticker tape-based
+controlling print register. In this setup, the numerical inscription was
+therefore already split between input and output channels: with input stored on
+ticker tape and output on the printed page, for verification.
 
 The next generation Mark III Calculator, commissioned by the Navy's Bureau of
-Ordinance in 1948 and completed in 1950 at Harvard used instead a combination
-of magnetic drum and tape. The surface of the drum was coated with a "thin film
-composed of finely divided magnetic oxides of iron suspended in a plastic
-lacquer, and applied to the drums with an artist's air brush"
-[@staff_description_1952, 1]. The machine used twenty-five such drums, rotating
-at 6900 rpm and each capable of storing 240 binary digits. In addition to the
-fast "internal storage" drums, the "floor plan" included eight slow "external
-storage" tape-read mechanisms. Following the Turing model, the tapes extended
-the storage capabilities of the machine. Operators could prepare tape with
-information that would then make its way onto the internal magnetic drive for
-for data calculation and machine sequencing and control. Mark III was further
-equipped with five printers "for presenting computed results in a form suitable
-for publication. The printers were capable of determining the "number of digits
-to be printed, the intercolumnar and interlinear spacing, and other items
-related to the typography of the printed page" [@staff_description_1952, 1-40].
+Ordinance in 1948 and completed in 1950 at Harvard jettisoned tape in favor of
+magnetic drum and tape. The drum provided for limited but fast "internal"
+storage, where the tape was slower but easily swapped and extended to many
+reels. The surface of the magnetic drums was coated with a "thin film composed
+of finely divided magnetic oxides of iron suspended in a plastic lacquer, and
+applied to the drums with an artist's air brush" [@staff_description_1952, 1].
+The machine used twenty-five such drums, rotating at 6900 rpm and each capable
+of storing 240 binary digits. In addition to the fast "internal storage" drums,
+the "floor plan" included eight slow "external storage" tape-read mechanisms.
+Following the Turing model, the tapes extended the storage capabilities of the
+machine. Operators could prepare tape with information that would then make its
+way onto the internal magnetic drums for for data calculation and machine
+sequencing and control. Mark III was further equipped with five printers "for
+presenting computed results in a form suitable for publication. The printers
+were capable of determining the "number of digits to be printed, the
+intercolumnar and interlinear spacing, and other items related to the
+typography of the printed page" [@staff_description_1952, 1-40].
 
 Data was recorded on tape using binary numerical notation. To enter the number
 onto tape, the operator used the "numerical tape preparation table," an actual
-piece of furniture separate from the main machine. The tape stored the data
-long two channels, running the length of the tape. Each number was entered
-twice, first into Channel A and then into Channel B. This was done to prevent
-errors, since the operator worked blindly, without being able to see whether
-the intended mark registered properly on magnetic tape. A signal would sound if
-the first quantity did not match the second and the operator would have to
-reenter the mismatched digits [@staff_description_1952, 143-88]. To "ensure
-completely reliable results" the operator could use one of the five attached
-Underwood Electric teletypes to print all of the tape's columns and confirm
-visually.
+piece of furniture separate from the main machine. The data was stored on tape
+along two channels, running the length of the tape. The operator entered each
+number twice, first into Channel A and then into Channel B. This was done to
+prevent errors, since the operator worked blindly, without being able to see
+whether the intended mark registered properly on magnetic tape. A signal would
+sound if the first quantity did not match the second and the operator would
+have to reenter the mismatched digits [@staff_description_1952, 143-88]. To
+further "ensure completely reliable results" the operator could use one of the
+five attached Underwood Electric teletypes to print all of the tape's columns
+and confirm visually.
 
-[^ln2-punch]: "Two means are available for preparing the functional tapes
-required for the operation of the interpolators. First, when the tabular values
-of *f(x)* have been previously published, they may be copied on the keys of the
-functional tape preparation unit [...] and the tape produced by the punches
-associated with this unit, under manual control. Second, as suitable contol
-tape may be coded directing the calculator to compute the values of *f(x)* and
-record them by means of one of th efour output punches, mounted on the right
-wing of the machine" [@staff_description_1949, 34].
+I d
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
@@ -601,6 +596,15 @@ data, etc." [@youngquist_magnetic_1961, 1]
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
 Italy."
+
+[^ln2-punch]: "Two means are available for preparing the functional tapes
+required for the operation of the interpolators. First, when the tabular values
+of *f(x)* have been previously published, they may be copied on the keys of the
+functional tape preparation unit [...] and the tape produced by the punches
+associated with this unit, under manual control. Second, as suitable contol
+tape may be coded directing the calculator to compute the values of *f(x)* and
+record them by means of one of th efour output punches, mounted on the right
+wing of the machine" [@staff_description_1949, 34].
 
 ## C. Screen, (Output)
 
