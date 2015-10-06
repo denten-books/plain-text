@@ -537,58 +537,66 @@ piece of furniture separate from the main machine. The data was stored on tape
 along two channels, running the length of the tape. The operator entered each
 number twice, first into Channel A and then into Channel B. This was done to
 prevent errors, since the operator worked blindly, without being able to see
-whether the intended mark registered properly on magnetic tape. A signal would
-sound if the first quantity did not match the second and the operator would
-have to reenter the mismatched digits [@staff_description_1952, 143-88]. To
-further "ensure completely reliable results" the operator could use one of the
-five attached Underwood Electric teletypes to print all of the tape's columns
-and confirm visually.
+whether the intended mark registered properly on magnetic tape. An error bell
+would sound if the first quantity did not match the second, in which case the
+operator would have to reenter the mismatched digits [@staff_description_1952,
+143-88]. To further "ensure completely reliable results" the operator could
+use one of the five attached Underwood Electric teletypes to print all of the
+tape's columns and confirm visually.
 
-I go significant technichal detail here to make sure that the contemporary
-reader understand what I describe as the "splitting of the sign" or the
+I cover significant technical detail above to make sure that the contemporary
+reader understands what I describe as the "splitting of the sign" or the
 "multiple locations of the inscription" not as a metaphor, but literally. Where
 the typewriter or the whole punch transfered the inscription from keyboard to
-tape immedeatly, at the stroke of hammer and key, early electromagnetic devices
+paper directly, at the stroke of hammer and key, early electromagnetic devices
 compounded the inscription across multiple surfaces. The movement of the
 computed sign necessitated multiple "phase transitions" between media: from
 drum to tape, from one channel of the tape to another, and from tape to paper.
-Upon entry, it disappeared from view, onto a magnetic surface that resists
-direct observation. The computed sign was displaced in time and space,
-undergoing a number of tranformations in the process. These transformations in
-efect constitute what we mean by the "processing" part of "word processing."
-In the first stage of its development, the processed sign was mixed with
-control code. In the second stage it disappeared from view and transformed.
+Upon key press, the sign disappears from view, onto a magnetic surface that
+resists direct observation. The computed sign was displaced in time and space,
+undergoing a number of transformations in the process. These transformations in
+effect constitute what we mean by the "processing" part of "word processing."
+In the first stage of its development, the processed sign mixes with machine
+control code. In the second stage, it disappears from view.
 
-Advances in magnetic storage used for audio recording and in supercomputer
-applications like the Mark III found their way into the business and home
-office a decade later, in the 1960s. In 1964, IBM combined magnetic tape
-storage with its *Selectric* line of electric typewriters, introducing the
+Advances in magnetic storage in the field of audio recording and in
+supercomputer applications like the Mark III found their way into the business
+and home offices a decade later, in the 1960s. In 1964, IBM combined magnetic
+tape storage with its *Selectric* line of electric typewriters, introducing the
 Magnetic Tape Selectric (MT/ST) line of typewriters to the mass market. Writing
 for the *Encyclopedia of Library and Information Science* in 1992, Daniel
 Eisenberg mentions the MT/ST as one of the first word processors, defined by
 the ability to record strokes and to print them onto paper *as a separate
-operation* [@eisenberg_word_1992]. Just as we saw with the Mark III, the MT/ST
-used magnetic tape for temporary storage.  
+operation* [@eisenberg_word_1992]. Built on a simpler architecture than its
+supercomputer cousins, the MT/ST used a single tape read/write mechanism. An
+advertisement in the American Bar Association circa 1968 calls it the $10,000
+typewriter that "is worth every penny." Before, the typist would have to stop
+and erase every mistake, the copy reads. But with IBM MT/ST it is possible to
+to "backspace, retype, and keep going." The mistake is changed on magnetic
+tape, "where all typing is recorded and played back correctly at incredible
+speed" [@aba 1966, 998]. But just as it was with Mark III, the data stored on
+the magnetic tape was absolutely invisible to the typist. At the time, the only
+way to verify the magnetic inscription was to print it out.
 
-What was gained in the effect of liberating text, if only for a few moments,
-from the "permanent" confines of immutable media like ink and paper, was gotten
-at the price of legibility. Encoding used by the IBM MT/ST typewriter retained
-the familiar underlying structure of a 7-bit encoding scheme, not so
-dissimilar from Bacon's secret writing. But on tape, the encoding scheme ceased
-to be recoverable by the naked eye. The inscription lay literally beyond human
-sense, as we lack the perceptual apparatus to perceive "magnetic domains" and
-"polarities"[^ln3-magnet] that take place of visible alphabets. The developers
-of these early systems saw the problem of congruence immediately. The operator
-needed to be sure that the input correspond to the stored quantity. But the
-only way to check the stored quantity was to once again transform it into
-another inscription. 
+What was gained in the freeing of text from the confines of immutable media
+like ink and paper, was gotten at the price of legibility.  Encoding used by
+the IBM MT/ST typewriter retained the familiar underlying structure of a 7-bit
+encoding scheme, not dissimilar from Bacon's secret writing. But on tape, the
+encoding scheme ceased to be recoverable by the naked eye. The inscription lay
+literally beyond human sense. On tape, "magnetic domains" and "polarities"take
+place of visible alphabets.[^ln2-magnet] The developers of these early systems
+recognized the problem of congruence between the visible and the invisible
+sign. The machine operator needed to ensure that the input correspond to the
+stored quantity. But the only way to check the stored quantity was to once
+again transform it into another inscription. Direct access to the site of
+storage was near-impossible.
 
-The engineers working on Mark III attempted to solve the problem of congruence
-by asking the operator to input quantities twice. Other solutions included
-making the magnetic mark more visible. For example, the "magnetic reader"
-patented by Robert Youngquist and Robert Hanes in 1962 promised a "device for
-visual observation of magnetic symbols recorded on a magnetic recording medium
-in tape or sheet form." Youngquist and Hanes wrote:
+The engineers working on Mark III attempted to address the problem of
+congruence by asking the operator to input quantities twice. Other solutions
+included making the magnetic mark more visible. For example, the "magnetic
+reader" patented by Robert Youngquist and Robert Hanes in 1962 promised a
+"device for visual observation of magnetic symbols recorded on a magnetic
+recording medium in tape or sheet form." Youngquist and Hanes wrote:
 
 > Magnetic recording tape is often criticized because the recorded signals are
 invisible, and the criticism has been strong enough to deny it certain
@@ -601,17 +609,21 @@ check recorded information visually. It has been suggested that the information
 be printed in ink alongside the magnetic signals, but this vitiates major
 competitive advantages of magnetic recording sheet material, e.g., ease in
 correction, economy in reuse, simplicity of equipment, compactness of recorded
-data, etc." [@youngquist_magnetic_1961, 1] 
+data, etc." [@youngquist_magnetic_1961, 1]
 
 The magnetic reader comprised a flat box that resembles a book. Youngquist and
-Hanes proposed to fill the lid or top plate of that box with a transparent
-liquid to host "visible, weakly ferromagnetic crystals." When sandwich between
-the two plates, a piece of magnetic tape would activate the crystals to align
-with the embedded inscription. The top plate would reveal the "visible
-outlines" of the magnetic symbol [@youngquist_magnetic_1961, 1].
+Hanes proposed to fill the cover plate of their box with a transparent liquid
+to host "visible, weakly ferromagnetic crystals." When sandwiched between the
+two plates, a piece of magnetic tape would activate the crystals to align with
+the embedded inscription. In this way, the top plate would reveal the "visible
+outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 
 !["The positioning of a magnetic recording card for visual observation of
 symbols recorded thereon," from [@youngquist_magnetic_1961, 1]](youngquist.png)
+
+Electrographic printer.
+
+The next generation of MT/SC
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
