@@ -625,14 +625,24 @@ symbols recorded thereon," from [@youngquist_magnetic_1961, 1]](youngquist.png)
 
 The potential incongruence between invisible data stroage and its apparent
 representation was a key problem in the decades perceeding the advent of the
-screen simulation.
+screen simulation. In a patent filed in 1954 on the behalf of the Borroughs
+Coproration of Detroit, Michigan Herman Epstein and Frank Innes describe an
+"electrographic printer," involving an "electrical method and apparatus for
+making electrostatic images on a dielectric surface by electrical means which
+may be rendered permanently visible" [@epstein_electrographic_1961, 1]. The
+electrographic printer anticipates the modern photocopier. Rather than storing
+data in code, the inventors imagine forming letter shapes directly on the
+surface of magnetic tape. A small printing head would convert binary input into
+a five-by-seven grid of magnetic charges, capable of rendering the English
+alphabet. The magnetic image could then be combined with a recording medium
+having the "correct physical properties to adhere to the electrostatic latent
+images" [@epstein_electrographic_1961, 2].
+
+!["Images formed by a negative voltage," from Electrographic Printer by Epstein
+and Innes [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
 
 The next generation of IBM Magnetic Selectric 
 
-!["Images formed by a negative voltage," from Electrographic Printer by Epstein
-and Innes [@epstein_electrographic_1961]](images/magnetic-letter.png)
-
-Electrographic printer.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/SC) in 1969. "A simple relationship could be maintained between
