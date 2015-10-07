@@ -1,27 +1,6 @@
 # Chapter 3: Format
 `form, format, formula, representation`
 
-In this chapter I would like to consider two ideas related to
-non-representational methods for communication. Order on the level of ideology
-and representation. Ideology as superstructure but submerged and inacessible.
-
-The defference between a restraining order and physical restrstraings. The
-order stands for something. The restraints enact the symbol. They do not stand
-for restraint, they *are* restraint. Formatting in that sense. Deep dive into
-format.
-
-The second and more radical idea related to non-representational elements of
-communication lies in the possibility of "direct" brain-to-brain interfaces.
-F16. Joystic that feels. The electrical system we saw emerge in chapters one
-and two can be wired directly in the the central nervious system. Not science
-fiction. But note that communication is only direct in the sense that the
-sender and the reciever of such a message do not have recourse to external
-represenation. Yet, such communication would still be subject to conditions we
-have already explored in the telegraph chapter. Somthing has to mediate: to
-translate between brain impulses and the transmission apparatus. Such "direct"
-communicaito would therefore still be mediated. Can literature survive non
-representation. I want to imagine.
-
 ## Literary
 
 To grasp the peculiarity of the computed sign stretched between the sites of
@@ -812,3 +791,318 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 [@international_organization_for_standardization_writing_1975].
 
 ## Non-representational Literature
+
+In this chapter I would like to consider two ideas related to
+non-representational methods for communication. Order on the level of ideology
+and representation. Ideology as superstructure but submerged and inacessible.
+
+The defference between a restraining order and physical restrstraings. The
+order stands for something. The restraints enact the symbol. They do not stand
+for restraint, they *are* restraint. Formatting in that sense. Deep dive into
+format.
+
+The second and more radical idea related to non-representational elements of
+communication lies in the possibility of "direct" brain-to-brain interfaces.
+F16. Joystic that feels. The electrical system we saw emerge in chapters one
+and two can be wired directly in the the central nervious system. Not science
+fiction. But note that communication is only direct in the sense that the
+sender and the reciever of such a message do not have recourse to external
+represenation. Yet, such communication would still be subject to conditions we
+have already explored in the telegraph chapter. Somthing has to mediate: to
+translate between brain impulses and the transmission apparatus. Such "direct"
+communicaito would therefore still be mediated. Can literature survive non
+representation. I want to imagine.
+
+## WYSINAWYG (What You See Is Not Always What You Get)
+
+In presenting canonical models of document structure, it is my hope to convince
+the reader of the very real and literal sense of depth manufactured into the
+structure of the contemporary Document Object Model. This includes print,
+because even in that mode, publishing practices today rely on some of the same
+machinery described in this chapter.
+
+The gap between input and output is what gives rise to the ephemeral quality of
+digital text. Temporary storage media located on the way from keyboard to page
+or screen allows for rapid and frequent remediation. It keeps the ink in motion
+unattached to a "sticky" medium like paper. However, the spatial elongation of
+the sign also comes at a cost. Submerged in the passage between keyboard and
+screen or paper, the inscription passes from view. In its ephemeral "liquid"
+form it is also no longer legible to the naked human eye. It reappears again on
+the screen or page already "processed," that is, altered by the intervention of
+the "control unit." Writing or reading on a device can thus no longer remain a
+solitary activity. Machine operators far removed from the site of
+interpretation intervene to mediate the encounter between reader/writer, and
+text.
+
+The consequences of that intervention are immense. With time, supplemental
+"control characters" designed to format documents fused with programming
+languages, capable of generalized device control. Technological and legal
+fictions rise to restore a measure of "stickiness" to text in its ephemeral
+form. For example, manufacturers commonly embed digital rights management
+circuits into video streaming devices to artificially limit the duplication of
+broadcast material. Similarly, electronic book sellers often prevent readers
+from copying and pasting words on the page. Such measures mimic some of the
+constraints associated with static, paper-and-ink-bound media regimes.
+Essential for the practices of unencumbered critical thought, control
+structures exist in the hidden gap between the two parts of the splintered
+sign. Ultimately, the "control" layer is capable of affecting more than print
+design. It shapes the very structure of interpretation. In the language of the
+Document Object Model, the formatting layer contains the essence of "machine
+control." Long a marginal concept in literary theory, formatting is therefore
+central to the practice of computational hermeneutics. Far from mere
+inconsequential embellishment, formatting governs the interface between meaning
+and matter, thought and page. It has the capability to embellish, to obscure,
+to censor, to govern, and to emend.
+
+The attached documents illustrate my thesis in practice. In the first image the
+reader will find a visual "dotplot" representation of Laurence Sterne's *The
+Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file format. To
+produce the image, I use the Helfman's self-similarity dotplot approach. Dotplots,
+as Helfman explains, "reveal similarity structures in data regardless of format
+and in text and software regardless of language" [@helfman_dotplot_1996]. They
+can be used for authorship identification, plagiarism detection, or to find
+similarity in genetic material. The following, is a simple dotplot from
+Shakespeare:
+
++----+---+---+---+----+---+---+
+|    |to |be |or |not |to |be |
++====+===+===+===+====+===+===+
+|to  | • |   |   |    | • |   |
++----+---+---+---+----+---+---+
+|be  |   | • |   |    |   | • |
++----+---+---+---+----+---+---+
+|or  |   |   | • |    |   |   |
++----+---+---+---+----+---+---+
+|not |   |   |   | •  |   |   |
++----+---+---+---+----+---+---+
+|to  | • |   |   |    | • |   |
++----+---+---+---+----+---+---+
+|be  |   | • |   |    |   | • |
++----+---+---+---+----+---+---+
+
+Table: "Six words of Shakespeare." @helfman_dotplot_1996
+
+When applied to raw, binary data, self-similarity plots can be used to study
+data structures, to identify security threats, and to reverse engineer unknown
+file types. Note that, at this level, we are not observing patterns of meaning
+(as repetition of words or word clusters), but rather structural patterns in
+the underlying bit structure. We cannot tell from the image what these types
+mean, only that they are structured in a particular way. Structure, in this
+sense indicates architecture by human hand. We expect random, encoded or
+encrypted, data to render as undifferentiated patternless noise. Different file
+formats, like the common `.docx` and `.mobi` will therefore leave a
+recognizable signature, even when corrupted. The sparse topography of the
+`.txt` file in the first image indicates a relative paucity in bit types. Plain
+text formats are limited to human-legible UTF-8 or ASCII character sets (used
+to to encode the `.txt` file). The square on the lower right likely represents
+lower case letters, with the other two squares showing capitals and
+punctuation.
+
+The second image (Fig. 12) shows the same novel encoded into the popular
+Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
+device, for example. While the plain text signature is still present, other
+structures now also come into view. These are not human-legible under closer
+examination (using a hex-editor for example) because the data is encrypted. The
+plain text characters remaining comprise snippets of code, and some light
+header and footer information, identifying the file to reader applications.
+
+To produce the third image (Fig. 13), I encode the plain text version of the
+novel into the Portable Document Format (`.pdf`), another commonly circulated
+binary format for document storage. In an additional step, I use code injection
+techniques outlined in @rahman_getting_2010, @stevens_malicious_2011, and
+@maiorca_looking_2013 to introduce a malicious script into the header of the
+file. Depending on the version of the reader's Adobe Acrobat Reader, the code
+will execute when opening the document, with the potential of causing
+significant corruption to the system. The injection is clearly visible in the
+image, manifesting as a "cavity" of un-encrypted characters. Steps
+could be taken to further mask the malicious script, blending it with the
+background encrypted bit structure (shown as speckled noise), which would make
+the injection more difficult to detect.
+
+!["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt` format.
+Unaltered.](images/txt.png)
+
+!["Binary file structure II." Laurence Sterne's *Tristram Shandy*, in `.mobi` format.
+Unaltered.](images/mobi.png)
+
+!["Binary file structure III." Malicious code injection into the text of Laurence
+Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating presence of
+injected code.](images/pdf.png)
+
+In conclusion, I do not mean to imply that the "closest possible" reading of
+this sort, at the circuit and magnetic storage level, will somehow come to
+supplement reading at the surface for meaning and representation. Microanalysis
+is meant to complement close reading: giving it proper scope in time and space
+for its operation. But reading at the surface alone also risks losing sight of
+the naked struggle for power and control at the device level. The machine *can*
+determine the message when unchecked. In these conditions, reading without
+depth may struggle to even locate its object of study, as surface
+representations change dynamically, tailoring themselves to fit the reader's
+mood, to match the environment, or to please some remote censor. Best, Marcus,
+and Sontag are right in treating claims to symptomatic reading with suspicion,
+as claims to power. The reader of depth divines secret knowledge, with or
+without merit, creating an imbalance of interpretation. Critical reading in all
+dimensions must therefore begin with the ethics of mutual legibility. It
+succeeds when readers reclaim the underlying material conditions of their
+meaning making. The very architects of the "smart" literary device tell us: the
+answer to the machine remains in the machine.
+
+[^ln2-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
+in the history of writing technologies in that they present a premeditated
+material environment built and engineered to propagate an illusion of
+immateriality; the digital nature of computational representation is precisely
+what enables this illusion---or else call it a working model---of immaterial
+behavior" [@kirschenbaum_mechanisms_2012, 135].
+
+[^ln2-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+@conti_visual_2008; and @kirschenbaum_mechanisms_2012.
+
+[^ln2-root]: @stoltz_is_2013
+
+[^ln2-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+International Organization for Standardization in 1984, as ISO 7498.
+
+[^ln2-layers]: The full OSI protocol stack includes Application, Presentation,
+Session, Transport, Network, Data Link, and Physical layers
+[@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
+@day_revised_1995].
+
+[^ln2-smart]: For examples see @grundy_information_1994;
+@kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
+
+[^ln2-plato]: My reading of Plato would be impossible without help from the
+Perseus Digital Library Project, which allows the reader to explore the Greek
+originals side-by-side with translations, maps, dictionaries, and other
+parallel texts. Sources consulted on Plato's theory of forms include
+@hegel_philosophy_1870; @rist_platos_1975; @dixsaut_ousia_1991;
+@woods_form_1993. I would also like to thank Stathis Gourgouris for his
+generous comments on these passages.
+
+[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+@ohmori_memory_2015.
+
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy."
+
+[^ln2-loom]: These dates, as is usually the case with periodization, are
+somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
+worker Basile Bouchon used "drill paper" to automate industrial drawlooms
+[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
+honors could also go to the brothers Banū Mūsā, ninth-century automata
+inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
+his lifelike mechanisms in the mid eighteenth century
+[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
+upon and popularized Bouchon's looms on an industrial scale around the same
+time.
+
+[^ln2-reading]: All of the technologies I list here exist today (in the second
+decade of the twenty-first century) commercially, much beyond the prototype
+stage.
+
+[^ln2-translate]: Translations are mine, unless cited otherwise.
+
+[^ln2-barthes]: "The work is a fragment of substance," he writes. The work is
+"moderately symbolic" where text is "radically symbolic." The work "occupies
+space of books," where the text is "a process of demonstration," "experienced
+only in an activity of production." He writes also that "the Text cannot stop
+(for example, on a library shelf); its constitutive movement is that of cutting
+across (in particular, it can cut across the work, several works)"
+[@barthes_work_1978, 156-7].
+
+[^ln2-descartes]: It is difficult to resist quoting from Descartes's
+*Meditations on First Philosophy* when discussing idealism. He writes: "Let us
+consider the things that people ordinarily think they understand best of all,
+namely the bodies that we touch and see. I don't mean bodies in general---for
+our general thoughts are apt to be confused---but one particular body: this
+piece of wax, for example. It has just been taken from the honeycomb; it still
+tastes of honey and has the scent of the flowers from which the honey was
+gathered; its color, shape and size are plain to see; it is hard, cold and can
+be handled easily; if you rap it with your knuckle it makes a sound. In short,
+it has everything that seems to be needed for a body to be known perfectly
+clearly. But as I speak these words I hold the wax near to the fire, and look!
+The taste and smell vanish, the color changes, the shape is lost, the size
+increases; the wax becomes liquid and hot; you can hardly touch it, and it no
+longer makes a sound when you strike it. But is it still the same wax? Of
+course it is; no one denies this. So what was it about the wax that I
+understood so clearly? Evidently it was not any of the features that the senses
+told me of; for all of them---brought to me through taste, smell, sight, touch
+or hearing---have now altered, yet it is still the same wax."
+
+[^ln2-marinetti]: "Il nostro amore crescente per la materia, la volontà di
+penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
+motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
+meccanico e la sensibilità numerica]
+
+[^ln2-echenbaum]: "Что касается 'формы', то формалистам было важно только
+повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
+своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
+ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
+
+[^ln2-translate]: "In our discussion of this text we have been using an
+authoritative French translation of Plato, the one published by Guillaume Bude.
+In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
+refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
+71]."
+
+[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
+Principle Researcher at Microsoft Research and then a professor at the
+University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
+appeared in the same volume of collected essays, @herken_universal_1988.
+
+[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+communication, the top-most layer of protocols and interface method is called
+the "application layer" and the bottom-most layer the "physical layer"
+[@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
+being "responsible for encoding bits onto a transmission medium, whether wires,
+fiber optics, or radio broadcast, in ways that maximize the transmission rate
+and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
+
+[^ln2-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln2-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+a science and the ideology [...] the fact that such an investigation confronts
+us with the observation that every science, in the relationship it has with
+ideology it emerged from, can only be thought as a 'science of ideology, would
+disconcert us, were we not forewarned of the name of the *object* of knowledge,
+which can only exist in the form of ideology" [@althusser_reproduction_2014,
+46].
+
+[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+statements like "ethnology-like any science-comes about within the element of
+discourse," and "this moment was that in which language invaded the universal
+problematic; that in which, in the absence of a center or origin, everything
+became discourse-provided we can agree on this word-that is to say, when
+everything became a system where the central signified, the original or
+transcendental signified, is never absolutely present outside a system of
+differences. The absence of the transcendental signified extends the domain and
+the interplay of signification ad infinitum" (278-294).
+
+[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+flipping Hegel, who prioritized the transcendent spiritual over the physical
+and material forms of life, over "back to his feet." See for example
+@marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
+a table out of it. Yet, for all that, the table continues to be that common,
+every-day thing, wood. But, so soon as it steps forth as a commodity, it is
+changes into something transcendent. It not only stands with its feed on the
+ground, but, in relation to all other commodities, it stands on its head, and
+evolves out of its wooden brain grotesque ideas, far more wonderful than
+'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
+dialectic of the concept itself became merely the conscious reflex of the
+dialectical motion of the real world and the dialectic of Hegel was placed upon
+its head; or rather, turned off its head, on which it was standing before, and
+placed on its feet again" (44).
