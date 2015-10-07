@@ -424,23 +424,43 @@ Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
 influential monograph that continues to shape the field of software studies.
 She quotes several prominent computer scientists and media historians to the
-same effect. But what gives software its ephemeral quality? Embossed onto
-ticker tape or punched into the card, early software protrudes through the
-medium. In the age of the telegraph, the biggest barrier to the comprehension
-of software was encoding. Morse code and similar alphabet conventions left a
-visible mark on the paper. Once the machine alphabet identified, it could be
-translated back into natural language.
+same effect. But what gives software its ephemeral quality? 
 
-Early programmable media could hardly be called ephemeral or immaterial.
-Anecdotes circulate in the digital humanities circles of Father Roberto Busa,
-the early pioneer in the field of computational philology, carting his punch
-cards around Italy on a truck in the 1960s.[^ln2-busa] Code before its
-electromagnetic period was burdensome, fragile, unwieldy, and, most of all,
-visible.
+Embossed onto ticker tape or punched into the card, early software protruded
+through the medium. In the age of the telegraph, the biggest barrier to the
+comprehension of software was encoding. Morse code and similar alphabet
+conventions left a visible mark on the paper. Once the machine alphabet
+identified, it could be translated back into natural language. The ticker tape
+gave the means to translate human language into an electronic signal. Once
+mechanized the signal could be used to communicate and control machines
+remotely. Early programmable media could hardly be called ephemeral or
+immaterial.  Anecdotes circulate in the digital humanities circles of Father
+Roberto Busa, the early pioneer in the field of computational philology,
+carting his punch cards around Italy on a truck in the 1960s.[^ln2-busa] Code
+before its electromagnetic period was burdensome, fragile, and unwieldy. Just
+like writing with pen and paper, making an error in ticker tape entry required
+cumbersome corrections and sometimes wholesale re-entry of lines or pages. On
+the surface of ticker tape, the inscription still made a strong commitment to
+the medium. Once commited to paper it was near-immutable. 
 
-The principles of magnetic recording were developed by Oberlin Smith (among
-others), the American engineer who also filed several inventions related to
-weaving looms at the end of the nineteenth century. In 1888, inspired by
+The magnetic tape changed the nature of the commitment. Before printing on
+paper, the typest could manipulate words "in memory," on a medium that could be
+easily erased and rewritten. The magnetic charge adhered lightly to its
+surface. The "light touch" of the magnetic inscription gave the word its
+emphemeral quality. The touch was light enough as to be nearly impreceptible to
+unaided human perception. In applications like law and banking, where the
+fidelity between input, storage, and output were absolutely crucial, the
+illegible property of magnetic storage posed a significant engineering
+challenge. In this section, I would like to describe a few devices that
+attempted to address the problem of illegibility. After the advent of teletype,
+but before the screen, these creators of these machines used a variety of
+strategies to restore a measure of congruence between paper inscription and
+magnetic representation. Legibility, as these devices show, was one of the
+problems driving innovation.
+
+The principles of magnetic recording were developed by Oberlin Smith
+(among others), the American engineer who also filed several inventions related
+to weaving looms at the end of the nineteenth century. In 1888, inspired by
 Edison's mechanical phonograph, Smith made public his experiments with an
 "electrical method" of sound recording using a "magnetized cord" (cotton mixed
 with hardened steel dust) as a recording medium. These experiments were later
@@ -454,7 +474,7 @@ mechanical perforation. It was more durable than paper, it could fit more
 information per square inch, and, most importantly, it was reusable. "One of
 the important advantages of magnetic recording is that the record may be erased
 if desired, and a new record made in its place," Marvin Camras, a physicist
-with the Armour Research Foundation writes in 1948 [@camras, 505]. At the turn
+with the Armour Research Foundation wrote in 1948 [@camras, 505]. At the turn
 of the century, most of the developments in magnetic storage were aimed at
 sound recording. The use of magnetic medium for the storage of data did not
 take off in earnest until the 1950s [@dee, 1775]. Yet some of the early
@@ -497,22 +517,24 @@ the podcast and the audio book, Fankhauser imagines "tired and jaded" workers
 who "sooth themselves into a state of restfulness" by listening to their
 favorite authors. Poulsen's "electric writing" will finally emerge "as clear
 and as distinct as the writing by hand, an absolutely legal and conclusive
-record" [@fankhauser_telegraphone_1909, 41].
+record," Fankhauser concluded [@fankhauser_telegraphone_1909, 41].
 
-The use of magnetic tape for data storage and processing begins in earnest in
-the 1950s. For example, the state of the art relay calculator commissioned by
-the Bureau of Ordinance of the Navy Department in 1944 and built by the Harvard
-Computation laboratory in 1947 still made use of standard telegraph "tape
-readers and punchers," adapted for computation with the aid of engineers from
-Western Union Telegraph Company [@staff_description_1949, 1-40].[^ln2-punch]
-The relay calculator was equipped with a number of Teletype Model 12A tape
-readers and Model 10B perforators, using 11/16-inch wide paper tape with "five
-intelligence holes." The readers and punches were capable of operating at 600
-operations per minute. Four Model 15 Page-Printers gave the means to compare
-the printed characters with the digits stored in the ticker tape-based
-controlling print register. In this setup, the numerical inscription was
-therefore already split between input and output channels: with input stored on
-ticker tape and output on the printed page, for verification.
+In the first decade of the twentieth century, Fankhauser imagined magnetic
+storage as an audio format, combining the best of telegraphy and telephony in
+once device. For the purposes of data storage, magnetic tape technology did not
+mature until the 1950s. For example, the state of the art relay calculator
+commissioned by the Bureau of Ordinance of the Navy Department in 1944 and
+built by the Harvard Computation laboratory in 1947 still made use of standard
+telegraph "tape readers and punchers," adapted for computation with the aid of
+engineers from Western Union Telegraph Company [@staff_description_1949,
+1-40].[^ln2-punch] The relay calculator was equipped with a number of Teletype
+Model 12A tape readers and Model 10B perforators, using 11/16-inch wide paper
+tape with "five intelligence holes." The readers and punches were capable of
+running at 600 operations per minute. Four Model 15 Page-Printers gave the
+means to compare the printed characters with the digits stored in the ticker
+tape-based controlling print register. In this setup, the numerical inscription
+was therefore already split between input and output channels: with input
+stored on ticker tape and output on the printed page, for verification.
 
 The next generation Mark III Calculator, commissioned by the Navy's Bureau of
 Ordinance in 1948 and completed in 1950 at Harvard jettisoned tape in favor of
@@ -560,6 +582,24 @@ undergoing a number of transformations in the process. These transformations in
 effect constitute what we mean by the "processing" part of "word processing."
 In the first stage of its development, the processed sign mixes with machine
 control code. In the second stage, it disappears from view.
+
+The potential incongruence between invisible data stroage and its apparent
+representation was a key problem in the decades perceeding the advent of the
+screen simulation. In a patent filed in 1954 on the behalf of the Borroughs
+Coproration of Detroit, Michigan Herman Epstein and Frank Innes describe an
+"electrographic printer," involving an "electrical method and apparatus for
+making electrostatic images on a dielectric surface by electrical means which
+may be rendered permanently visible" [@epstein_electrographic_1961, 1]. The
+electrographic printer anticipates the modern photocopier. Rather than storing
+data in code, the inventors imagine forming letter shapes directly on the
+surface of magnetic tape. A small printing head would convert binary input into
+a five-by-seven grid of magnetic charges, capable of rendering the English
+alphabet. The magnetic image could then be combined with a recording medium
+having the "correct physical properties to adhere to the electrostatic latent
+images" [@epstein_electrographic_1961, 2].
+
+!["Images formed by a negative voltage," from Electrographic Printer by Epstein
+and Innes [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
 
 Advances in magnetic storage in the field of audio recording and in
 supercomputer applications like the Mark III found their way into the business
@@ -623,29 +663,34 @@ outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 !["The positioning of a magnetic recording card for visual observation of
 symbols recorded thereon," from [@youngquist_magnetic_1961, 1]](youngquist.png)
 
-The potential incongruence between invisible data stroage and its apparent
-representation was a key problem in the decades perceeding the advent of the
-screen simulation. In a patent filed in 1954 on the behalf of the Borroughs
-Coproration of Detroit, Michigan Herman Epstein and Frank Innes describe an
-"electrographic printer," involving an "electrical method and apparatus for
-making electrostatic images on a dielectric surface by electrical means which
-may be rendered permanently visible" [@epstein_electrographic_1961, 1]. The
-electrographic printer anticipates the modern photocopier. Rather than storing
-data in code, the inventors imagine forming letter shapes directly on the
-surface of magnetic tape. A small printing head would convert binary input into
-a five-by-seven grid of magnetic charges, capable of rendering the English
-alphabet. The magnetic image could then be combined with a recording medium
-having the "correct physical properties to adhere to the electrostatic latent
-images" [@epstein_electrographic_1961, 2].
+Yet the problem remained. Data arrangement along the length of the magnetic
+tape was fundamentally different from data arranged on paper. The next
+generation of IBM Magnetic Selectric typewriters added a "composer" control
+unit to further manipulate storage data for meaningful output. The original IBM
+Composer unit achieved margin justification by asking the operator to type each
+line twice: "one rough typing to determine a line would contain, and a second
+justified typing" [@morgan_ibm_1968, 69]. After the "first typing," an
+indicator mechanism helped the operator calculate the variable spacing needed
+to achieve paragraph justification. The formatting and content of each line thus
+required separate passes to achieve the desired result. IBM's Magnetic Tape
+Selectric Composer (MT/SC) combined the typing capabilities of the Selectric
+line of typewriters, with the Magnetic Tape storage unit of the MT/ST unit,
+with the formatting capabilities of the Composer. Rather than having the
+operator type each line twice, the MT/SC system printed the entered text
+twice: once on the "input station printout" which showed both the content and
+the control codes, printed in red ink, and the second time as the final
+"Composer output" printout, which presented the final typeset copy. The output
+operator would still have to intervene manually however, to make decisions about
+paper loading, type font changes, and hyphenation decisions. What was once, a
+monolithic unit on the page was thereby systematically separated into several
+distinct layers in the process of composition. 
 
-!["Images formed by a negative voltage," from Electrographic Printer by Epstein
-and Innes [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
-
-The next generation of IBM Magnetic Selectric 
-
+Like other devices of this generation, the MT/SC was blind. Error checking
+happened by monitoring a control panel consisting of "11 display lights" and by
+th input station printout.
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/SC) in 1969. "A simple relationship could be maintained between
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
 a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist
 under GNU Free Documentation License, Version
 1.2.](images/ibm-card.png)
@@ -658,9 +703,9 @@ Italy."
 required for the operation of the interpolators. First, when the tabular values
 of *f(x)* have been previously published, they may be copied on the keys of the
 functional tape preparation unit [...] and the tape produced by the punches
-associated with this unit, under manual control. Second, as suitable contol
+associated with this unit, under manual control. Second, as suitable control
 tape may be coded directing the calculator to compute the values of *f(x)* and
-record them by means of one of th efour output punches, mounted on the right
+record them by means of one of the four output punches, mounted on the right
 wing of the machine" [@staff_description_1949, 34].
 
 ## C. Screen, (Output)
