@@ -552,9 +552,9 @@ reader understands what I describe as the "splitting of the sign" or the
 the typewriter or the whole punch transfered the inscription from keyboard to
 paper directly, at the stroke of hammer and key, early electromagnetic devices
 compounded the inscription across multiple surfaces. The movement of the
-computed sign necessitated multiple "phase transitions" between media: from
+computed sign necessitated manifold "phase transitions" between media: from
 drum to tape, from one channel of the tape to another, and from tape to paper.
-Upon key press, the sign disappears from view, onto a magnetic surface that
+Upon key press, the sign now disappeared from view onto a magnetic surface that
 resists direct observation. The computed sign was displaced in time and space,
 undergoing a number of transformations in the process. These transformations in
 effect constitute what we mean by the "processing" part of "word processing."
@@ -585,17 +585,17 @@ like ink and paper, was gotten at the price of legibility.  Encoding used by
 the IBM MT/ST typewriter retained the familiar underlying structure of a 7-bit
 encoding scheme, not dissimilar from Bacon's secret writing. But on tape, the
 encoding scheme ceased to be recoverable by the naked eye. The inscription lay
-literally beyond human sense. On tape, "magnetic domains" and "polarities"take
-place of visible alphabets.[^ln2-magnet] The developers of these early systems
-recognized the problem of congruence between the visible and the invisible
-sign. The machine operator needed to ensure that the input correspond to the
-stored quantity. But the only way to check the stored quantity was to once
-again transform it into another inscription. Direct access to the site of
-storage was near-impossible.
+literally beyond human sense. On tape, "magnetic domains" and "polarities" took
+place of visible, albeit encoded, alphabets.[^ln2-magnet] The developers of
+these early systems recognized the problem of congruence between the visible
+and the invisible sign. The machine operator needed to ensure that the input
+correspond to the stored quantity. But the only way to check the stored
+quantity was to once again transform it into another inscription. Direct access
+to the site of storage was near-impossible.
 
 The engineers working on Mark III attempted to address the problem of
 congruence by asking the operator to input quantities twice. Other solutions
-included making the magnetic mark more visible. For example, the "magnetic
+included making the magnetic mark more apparent. For example, the "magnetic
 reader" patented by Robert Youngquist and Robert Hanes in 1962 promised a
 "device for visual observation of magnetic symbols recorded on a magnetic
 recording medium in tape or sheet form." Youngquist and Hanes wrote:
@@ -623,18 +623,22 @@ outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 !["The positioning of a magnetic recording card for visual observation of
 symbols recorded thereon," from [@youngquist_magnetic_1961, 1]](youngquist.png)
 
-Electrographic printer.
+The potential incongruence between invisible data stroage and its apparent
+representation was a key problem in the decades perceeding the advent of the
+screen simulation.
 
-The next generation of MT/SC
-
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
-Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist
-under GNU Free Documentation License, Version
-1.2.](images/ibm-card.png)
+The next generation of IBM Magnetic Selectric 
 
 !["Images formed by a negative voltage," from Electrographic Printer by Epstein
 and Innes [@epstein_electrographic_1961]](images/magnetic-letter.png)
+
+Electrographic printer.
+
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/SC) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist
+under GNU Free Documentation License, Version
+1.2.](images/ibm-card.png)
 
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
