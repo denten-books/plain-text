@@ -430,37 +430,39 @@ Embossed onto ticker tape or punched into the card, early software protruded
 through the medium. In the age of the telegraph, the biggest barrier to the
 comprehension of software was encoding. Morse code and similar alphabet
 conventions left a visible mark on the paper. Once the machine alphabet
-identified, it could be translated back into natural language. The ticker tape
-gave the means to translate human language into an electronic signal. Once
-mechanized the signal could be used to communicate and control machines
-remotely. Early programmable media could hardly be called ephemeral or
-immaterial.  Anecdotes circulate in the digital humanities circles of Father
-Roberto Busa, the early pioneer in the field of computational philology,
-carting his punch cards around Italy on a truck in the 1960s.[^ln2-busa] Code
-before its electromagnetic period was burdensome, fragile, and unwieldy. Just
-like writing with pen and paper, making an error in ticker tape entry required
-cumbersome corrections and sometimes wholesale re-entry of lines or pages. On
-the surface of ticker tape, the inscription still made a strong commitment to
-the medium. Once commited to paper it was near-immutable. 
+identified, it could be translated back into natural language using a simple
+lookup table. The ticker tape gave the means to translate human language into
+an electronic signal. Once mechanized the signal could be used to communicate
+and to control machines remotely. But we would hardly call early programmable
+media ephemeral or immaterial. Anecdotes circulate in the digital humanities
+circles about Father Roberto Busa, the early pioneer in the field of
+computational philology, who in the 1960s carted his punch cards around Italy
+on a truck.[^ln2-busa] Code before its electromagnetic period was fragile and
+unwieldy. Just like writing with pen and paper, making an error on ticker tape
+entry required cumbersome corrections and sometimes wholesale re-entry of lines
+or pages. On the surface of ticker tape, the inscription still made a strong
+commitment to the medium. Once committed to paper it was near-immutable. 
 
-The magnetic tape changed the nature of the commitment. Before printing on
-paper, the typest could manipulate words "in memory," on a medium that could be
-easily erased and rewritten. The magnetic charge adhered lightly to its
-surface. The "light touch" of the magnetic inscription gave the word its
-emphemeral quality. The touch was light enough as to be nearly impreceptible to
-unaided human perception. In applications like law and banking, where the
-fidelity between input, storage, and output were absolutely crucial, the
-illegible property of magnetic storage posed a significant engineering
-challenge. In this section, I would like to describe a few devices that
-attempted to address the problem of illegibility. After the advent of teletype,
-but before the screen, these creators of these machines used a variety of
-strategies to restore a measure of congruence between paper inscription and
-magnetic representation. Legibility, as these devices show, was one of the
-problems driving innovation.
+Magnetic tape changed the nature of the commitment between inscription and
+medium. It gave a temporary home to the word, where the word could be changed
+and manipulated before committing to paper. A typist using the new generation
+of magnetically-enabled devices could manipulate words "in memory," on a medium
+that could be easily erased and rewritten. The magnetic charge adheres lightly
+to the tape surface. The "light touch" of the magnetic inscription gave the
+word its ephemeral quality. But it was also light enough as to be nearly
+imperceptible. In applications like law and banking, where the fidelity between
+input, storage, and output were absolutely crucial, the illegible property of
+magnetic storage posed a significant engineering challenge. In this section, I
+would like to describe a few devices that attempted to address the problem of
+illegibility. After the advent of teletype, but before the screen, the creators
+of these machines used a variety of strategies to restore a measure of
+congruence between visible paper inscription and the invisible magnetic
+representation. Legibility, as these devices show, was one of the problems
+driving innovation.
 
-The principles of magnetic recording were developed by Oberlin Smith
-(among others), the American engineer who also filed several inventions related
-to weaving looms at the end of the nineteenth century. In 1888, inspired by
+The principles of magnetic recording were developed by Oberlin Smith (among
+others), the American engineer who also filed several inventions related to
+weaving looms at the end of the nineteenth century. In 1888, inspired by
 Edison's mechanical phonograph, Smith made public his experiments with an
 "electrical method" of sound recording using a "magnetized cord" (cotton mixed
 with hardened steel dust) as a recording medium. These experiments were later
@@ -470,17 +472,17 @@ influential designs for a magnetic wire recorder [@smith_possible_1888;
 @daniel_magnetic_1998; @vasic_coding_2004].
 
 Magnetic recording on wire or plastic tape offered several advantages over
-mechanical perforation. It was more durable than paper, it could fit more
-information per square inch, and, most importantly, it was reusable. "One of
+mechanical perforation. Tape was more durable than paper; it could fit more
+information per square inch; and, most importantly, it was reusable. "One of
 the important advantages of magnetic recording is that the record may be erased
 if desired, and a new record made in its place," Marvin Camras, a physicist
-with the Armour Research Foundation wrote in 1948 [@camras, 505]. At the turn
+with the Armour Research Foundation, wrote in 1948 [@camras, 505]. At the turn
 of the century, most of the developments in magnetic storage were aimed at
 sound recording. The use of magnetic medium for the storage of data did not
 take off in earnest until the 1950s [@dee, 1775]. Yet some of the early
-engineers advancing electro-magnetic storage and recording technology already
-conceived of their work as having impact on knowledge production broadly and on
-the history of the book in particular. Addressing the Franklin Institute on
+developers of electro-magnetic storage and recording technology already
+conceived of their work as having an impact on knowledge production broadly and
+on the history of the book in particular. Addressing the Franklin Institute on
 December 16th of 1908 Charles Fankhauser, the inventor of the electromagnetic
 "telegraphone," said the following:
 
@@ -521,82 +523,101 @@ record," Fankhauser concluded [@fankhauser_telegraphone_1909, 41].
 
 In the first decade of the twentieth century, Fankhauser imagined magnetic
 storage as an audio format, combining the best of telegraphy and telephony in
-once device. For the purposes of data storage, magnetic tape technology did not
-mature until the 1950s. For example, the state of the art relay calculator
-commissioned by the Bureau of Ordinance of the Navy Department in 1944 and
-built by the Harvard Computation laboratory in 1947 still made use of standard
-telegraph "tape readers and punchers," adapted for computation with the aid of
-engineers from Western Union Telegraph Company [@staff_description_1949,
-1-40].[^ln2-punch] The relay calculator was equipped with a number of Teletype
-Model 12A tape readers and Model 10B perforators, using 11/16-inch wide paper
-tape with "five intelligence holes." The readers and punches were capable of
-running at 600 operations per minute. Four Model 15 Page-Printers gave the
-means to compare the printed characters with the digits stored in the ticker
-tape-based controlling print register. In this setup, the numerical inscription
-was therefore already split between input and output channels: with input
-stored on ticker tape and output on the printed page, for verification.
+once device. For the purposes of data storage, magnetic recording technology
+did not mature until the 1950s, when advances in composite plastics made it
+possible to manufacture tape cheaper and more durable than its paper
+alternatives. The state of the art relay calculator commissioned by the Bureau
+of Ordinance of the Navy Department in 1944 and built by the Harvard
+Computation laboratory in 1947 still made use of standard issue telegraph "tape
+readers and punchers," adapted for computation with the aid of engineers from
+Western Union Telegraph Company [@staff_description_1949, 1-40].[^ln2-punch]
+The relay calculator was equipped with a number of Teletype Model 12A tape
+readers and Model 10B perforators, using 11/16-inch wide paper tape,
+partitioned into "five intelligence holes." To give you a sense of the
+machine's storage capacity, each quantity entered for computation took up
+thirteen lines of code [@staff_description_1949, 30]. The readers and punches
+were capable of running at 600 operations per minute. Four Model 15
+Page-Printers gave the means to compare the printed characters with the digits
+stored in the ticker tape-based controlling print register. In this setup, the
+numerical inscription was therefore already split between input and output
+channels: with input stored on ticker tape and output on the printed page for
+verification.
 
-The next generation Mark III Calculator, commissioned by the Navy's Bureau of
-Ordinance in 1948 and completed in 1950 at Harvard jettisoned tape in favor of
-magnetic drum and tape. The drum provided for limited but fast "internal"
-storage, where the tape was slower but easily swapped and extended to many
-reels. The surface of the magnetic drums was coated with a "thin film composed
-of finely divided magnetic oxides of iron suspended in a plastic lacquer, and
-applied to the drums with an artist's air brush" [@staff_description_1952, 1].
-The machine used twenty-five such drums, rotating at 6900 rpm and each capable
-of storing 240 binary digits. In addition to the fast "internal storage" drums,
-the "floor plan" included eight slow "external storage" tape-read mechanisms.
-Following the Turing model, the tapes extended the storage capabilities of the
-machine. Operators could prepare tape with information that would then make its
-way onto the internal magnetic drums for for data calculation and machine
-sequencing and control. Mark III was further equipped with five printers "for
-presenting computed results in a form suitable for publication. The printers
-were capable of determining the "number of digits to be printed, the
-intercolumnar and interlinear spacing, and other items related to the
+The Mark III Calculator which followed the Harvard Computation Laboratory's
+earlier efforts was likewise commissioned by the Navy's Bureau of Ordinance. It
+was completed in 1950. The Mark III "organization" (we would say "architecture"
+today) jettisoned tape in favor of multiple magnetic drums and a system of
+reel-to-reel tape recorders. The drums, limited in their storage capacity,
+revolved at much faster speeds than tape. They were used for fast, temporary,
+internal storage.  The surface of the magnetic drums was coated with a "thin
+film composed of finely divided magnetic oxides of iron suspended in a plastic
+lacquer, and applied to the drums with an artist's air brush"
+[@staff_description_1952, 1]. Mark III employed twenty-five such drums,
+rotating at 6900 rpm and each capable of storing 240 binary digits. 
+
+In addition to the fast "internal storage" drums, the "floor plan" included
+eight slow "external storage" tape-read mechanisms. Tape was slower than drums
+but cheaper and easily extensible to multiple reels, answering the ideals of
+the Turing device, which called for "infinite tape." In practice, the tape was
+not infinite, but merely long enough to answer the needs of military
+computation. Unlike the drums, the tape was easily removable. Operators could
+prepare tape in advance at the alloted Instructional Tape Preparation Table.
+The information on tape would then be transferred to a slow moving drum and
+transferred again to the fast-moving internal drum for data calculation,
+machine sequencing, and control. Mark III was further equipped with five
+printers "for presenting computed results in a form suitable for publication."
+The printers were capable of determining the "number of digits to be printed,
+the intercolumnar and interlinear spacing, and other items related to the
 typography of the printed page" [@staff_description_1952, 1-40].
 
 Data was recorded on tape using binary numerical notation. To enter the number
-onto tape, the operator used the "numerical tape preparation table," an actual
+onto tape, the operator sat at the "numerical tape preparation table," another
 piece of furniture separate from the main machine. The data was stored on tape
 along two channels, running the length of the tape. The operator entered each
 number twice, first into Channel A and then into Channel B. This was done to
 prevent errors, since the operator worked blindly, without being able to see
-whether the intended mark registered properly on magnetic tape. An error bell
-would sound if the first quantity did not match the second, in which case the
+whether the intended mark registered properly upon first entry. An error bell
+would sound when the first quantity did not match the second, in which case the
 operator would have to reenter the mismatched digits [@staff_description_1952,
-143-88]. To further "ensure completely reliable results" the operator could
-use one of the five attached Underwood Electric teletypes to print all of the
+143-88]. To further "ensure completely reliable results" the operator could use
+one of the five attached Underwood Electric teletypes to print all of the
 tape's columns and confirm visually.
 
-I cover significant technical detail above to make sure that the contemporary
-reader understands what I describe as the "splitting of the sign" or the
-"multiple locations of the inscription" not as a metaphor, but literally. Where
-the typewriter or the whole punch transfered the inscription from keyboard to
-paper directly, at the stroke of hammer and key, early electromagnetic devices
-compounded the inscription across multiple surfaces. The movement of the
-computed sign necessitated manifold "phase transitions" between media: from
-drum to tape, from one channel of the tape to another, and from tape to paper.
-Upon key press, the sign now disappeared from view onto a magnetic surface that
-resists direct observation. The computed sign was displaced in time and space,
-undergoing a number of transformations in the process. These transformations in
-effect constitute what we mean by the "processing" part of "word processing."
-In the first stage of its development, the processed sign mixes with machine
-control code. In the second stage, it disappears from view.
+I cover significant technical detail throughout to make sure that the
+contemporary reader understands what I describe as the "splitting of the sign"
+or the "multiple locations of the inscription" not as a metaphor, but
+literally. Where the typewriter or the whole punch transfered the inscription
+from keyboard to paper directly, at the stroke of hammer and key, early
+electromagnetic devices compounded the inscription across multiple surfaces.
+The movement of the computed sign necessitated manifold "phase transitions"
+between media: from one channel of the tape to another, from tape to drum, from
+a slow drum to a fast one, and from drum and tape to paper. Where before, on
+ticker tape, the inscription remained visible, at least before it entered the
+wires as electrical signal, it now disappeared from view soon after the key
+press. Submerged into magnetic surface it began to resist direct observation.
+The computed sign underwent a number of transformations in the process of
+displacement in time and in space. You could prepare tape today, compute it
+tomorrow, and transmit it the day after. The transformation of the inscription
+from one medium to another, from one format into another in effect constitute
+what we mean by the "processing" part of "word processing." Telegraphy forever
+intertwined the symbol with machine control. Magnetic storage made it
+invisible.
 
-The potential incongruence between invisible data stroage and its apparent
-representation was a key problem in the decades perceeding the advent of the
+The potential incongruence between invisible data storage and its apparent
+representation was a key problem in the decades preceding the advent of the
 screen simulation. In a patent filed in 1954 on the behalf of the Borroughs
-Coproration of Detroit, Michigan Herman Epstein and Frank Innes describe an
+Corporation of Detroit, Michigan Herman Epstein and Frank Innes describe an
 "electrographic printer," involving an "electrical method and apparatus for
 making electrostatic images on a dielectric surface by electrical means which
 may be rendered permanently visible" [@epstein_electrographic_1961, 1]. The
-electrographic printer anticipates the modern photocopier. Rather than storing
-data in code, the inventors imagine forming letter shapes directly on the
-surface of magnetic tape. A small printing head would convert binary input into
-a five-by-seven grid of magnetic charges, capable of rendering the English
-alphabet. The magnetic image could then be combined with a recording medium
-having the "correct physical properties to adhere to the electrostatic latent
-images" [@epstein_electrographic_1961, 2].
+electrographic printer anticipated the modern photocopier. Rather than storing
+data in code, the inventors imagined forming letter shapes directly on the
+surface of magnetic tape, in a kind of a magnetic figure. A small printing head
+would convert binary input into a five-by-seven grid of charges, capable of
+rendering the English alphabet. The magnetic image could then be combined with
+a recording medium having the "correct physical properties to adhere to the
+electrostatic latent images" [@epstein_electrographic_1961, 2]. A light dusting
+of powder ink would reveal the hidden magnetic image.
 
 !["Images formed by a negative voltage," from Electrographic Printer by Epstein
 and Innes [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
@@ -610,15 +631,15 @@ for the *Encyclopedia of Library and Information Science* in 1992, Daniel
 Eisenberg mentions the MT/ST as one of the first word processors, defined by
 the ability to record strokes and to print them onto paper *as a separate
 operation* [@eisenberg_word_1992]. Built on a simpler architecture than its
-supercomputer cousins, the MT/ST used a single tape read/write mechanism. An
-advertisement in the American Bar Association circa 1968 calls it the $10,000
-typewriter that "is worth every penny." Before, the typist would have to stop
-and erase every mistake, the copy reads. But with IBM MT/ST it is possible to
-to "backspace, retype, and keep going." The mistake is changed on magnetic
-tape, "where all typing is recorded and played back correctly at incredible
-speed" [@aba 1966, 998]. But just as it was with Mark III, the data stored on
-the magnetic tape was absolutely invisible to the typist. At the time, the only
-way to verify the magnetic inscription was to print it out.
+supercomputer cousins, the MT/ST used a single tape read and write mechanism.
+An advertisement in the American Bar Association circa 1968 calls it the
+$10,000 typewriter that is "worth every penny." Before, the typist would have
+to stop and erase every mistake, the copy reads. But with IBM MT/ST it is
+possible to to "backspace, retype, and keep going." The mistake is changed on
+magnetic tape, "where all typing is recorded and played back correctly at
+incredible speed" [@aba 1966, 998]. But just as it was with Mark III, the data
+stored on the magnetic tape was absolutely invisible to the typist. At the
+time, the only way to verify the magnetic inscription was to print it out.
 
 What was gained in the freeing of text from the confines of immutable media
 like ink and paper, was gotten at the price of legibility.  Encoding used by
