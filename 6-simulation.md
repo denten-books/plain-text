@@ -1626,4 +1626,26 @@ neural oscillations into their tempo, effectively synchronizing the brain's
 rhythms with those of the world around us" [@hickok_its_2015]. His study on the
 topic is forthcoming in *Psychological Science* in 2015.
 
+John Eberhard from the Institute of Applied Technology, National Bureau of
+Standards speaking in 1967 at the Electronic Composition in Printing symposium
+at Gaithersburg Laboratories.
+
+@technology_electronic_1968, 1
+
+I happen to be a humanist among the physical scientists here at the National
+Bureau of Standards. Begins with a quote from Marshall McLuhan. "He who does
+his work like a machine, grows a heart like a machine in his breast, and he who
+carries a heart of the machine in his breast losses his simplicity. He who has
+lost his simplicity, becomes unsure of the strivings of his soul."
+
+"It is a long way from standards like the alphabet to standards like privacy
+with the respect to the use of computers."
+
+"We are concerned not only with nuts and bolts and screw threads or with the
+standards related to the phenomena of matter and materials. We are becoming
+increasingly concerned about man and about how man becomes a part of this
+measuring system" [2].
+
+Heidegger would be good here.
+
 
