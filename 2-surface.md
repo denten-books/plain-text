@@ -4,26 +4,9 @@
 
 ## Intro
 
-I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
-magnetic storage the "enduring ephemeral," which "creates unforeseen
-degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
-the floating gate transistor,[^ln1-gate] where my text now lives, can be called
-the enduring ephemeral, I will call my liquid crystal display, where the text
-shows itself, fading persistence. This is not to believe that digital text can
-transcend its material contexts. Only that it seems to drift from surface to
-surface, beyond the field of vision, in ways that erode trust in the general
-permanence of the literary system. If we are destined to dwell on surfaces, I
-do not know to which surface to attach my attention: the screen or the floating
-gate.
+I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls magnetic storage the "enduring ephemeral," which "creates unforeseen degenerative links between humans and machines" [@chun_enduring_2008, 148]. If the floating gate transistor,[^ln1-gate] where my text now lives, can be called the enduring ephemeral, I will call my liquid crystal display, where the text shows itself, fading persistence. This is not to believe that digital text can transcend its material contexts. Only that it seems to drift from surface to surface, beyond the field of vision, in ways that erode trust in the general permanence of the literary system. If we are destined to dwell on surfaces, I do not know to which surface to attach my attention: the screen or the floating gate.
 
-In Chapter One of *Plain Text*, we encountered the book as a device. I traced
-the intellectual roots of the literary artifact to several ideas emerging at
-the turn of the twentieth century. We saw it first as a formal device: a
-technique for defamiliarizing or making strange habituated metaphors. We then
-saw it as a literal device, related to the operation of universal Turing
-machines. Finally, I argued that Turing machines themselves belong to the
-history of the book, both in the lineage of thought about symbolic
-interpretation and as mechanisms for their transmission.
+In Chapter One of *Plain Text*, we encountered the book as a device. I traced the intellectual roots of the literary artifact to several ideas emerging at the turn of the twentieth century. We saw it first as a formal device: a technique for defamiliarizing or making strange habituated metaphors. We then saw it as a literal device, related to the operation of universal Turing machines. Finally, I argued that Turing machines themselves belong to the history of the book, both in the lineage of thought about symbolic interpretation and as mechanisms for their transmission.
 
 Once we see the digital document in all of its forms for what it is, a
 computational device, we can begin to come to terms with the simulated nature
