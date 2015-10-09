@@ -555,7 +555,7 @@ temporary, internal storage.  The surface of the magnetic drums was coated
 with a "thin film composed of finely divided magnetic oxides of iron suspended
 in a plastic lacquer, and applied to the drums with an artist's air brush"
 [@staff_description_1952, 1]. Mark III employed twenty-five such drums,
-rotating at 6900 rpm and each capable of storing 240 binary digits. 
+rotating at 6900 rpm and each capable of storing 240 binary digits.
 
 In addition to the fast "internal storage" drums, the "floor plan" included
 eight slow "external storage" tape-read mechanisms. Tape was slower than drums
@@ -596,30 +596,32 @@ between media: from one channel of the tape to another, from tape to drum,
 from a slow drum to a fast one, and from drum and tape to paper. Where before,
 on ticker tape, the inscription remained visible, at least before it entered
 the wires as electrical signal, it now disappeared from view soon after the
-key press. Submerged into magnetic surface it began to resist direct
-observation.  The computed sign underwent a number of transformations in the
-process of displacement in time and in space. You could prepare tape today,
-compute it tomorrow, and transmit it the day after. The transformation of the
-inscription from one medium to another, from one format into another in effect
-constitute what we mean by the "processing" part of "word processing."
-Telegraphy forever intertwined the symbol with machine control. Magnetic
-storage made it invisible.
+key press. Submerged under magnetic surface inscriptions multiply, diffuse,
+and resist direct observation. The computed sign undergoes a number of chanes
+in the process of displacement in time and in space. Using Mark III or similar
+tape-driven devices an operator could prepare tape today, process it tomorrow,
+derive the necessary calculations and transmit them the day after. The
+diffusion of the inscription from one medium to another, from one format into
+another in effect constitutes what we mean by the "processing" part of "word
+processing." Telegraphy forever entwined symbol and machine control. Magnetic
+storage made the new compund figure invisible.
 
 The potential incongruence between invisible data storage and its apparent
-representation was a key problem in the decades preceding the advent of the
-screen simulation. In a patent filed in 1954 on the behalf of the Borroughs
+representation was a key problem in the decades preceding the advent of screen
+simulation. In a patent filed in 1954 on the behalf of the Borroughs
 Corporation of Detroit, Michigan Herman Epstein and Frank Innes describe an
 "electrographic printer," involving an "electrical method and apparatus for
 making electrostatic images on a dielectric surface by electrical means which
 may be rendered permanently visible" [@epstein_electrographic_1961, 1]. The
 electrographic printer anticipated the modern photocopier. Rather than storing
 data in code, the inventors imagined forming letter shapes directly on the
-surface of magnetic tape, in a kind of a magnetic figure. A small printing
-head would convert binary input into a five-by-seven grid of charges, capable
-of rendering the English alphabet. The magnetic image could then be combined
-with a recording medium having the "correct physical properties to adhere to
-the electrostatic latent images" [@epstein_electrographic_1961, 2]. A light
-dusting of powder ink would reveal the hidden magnetic image.
+surface of magnetic tape, in a kind of a magnetic tracing of each character. A
+small printing head would convert binary input into a five-by-seven grid of
+charges, capable of rendering the English alphabet. The magnetic image could
+then be combined with a recording medium having the "correct physical
+properties to adhere to the electrostatic latent images"
+[@epstein_electrographic_1961, 2]. A light dusting of powder ink would reveal
+the hidden magnetic image.
 
 !["Images formed by a negative voltage," from Electrographic Printer by Epstein and Innes [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
 
@@ -630,29 +632,29 @@ tape storage with its *Selectric* line of electric typewriters, introducing
 the Magnetic Tape Selectric (MT/ST) line of typewriters to the mass market.
 Writing for the *Encyclopedia of Library and Information Science* in 1992,
 Daniel Eisenberg mentions the MT/ST as one of the first word processors,
-defined by the ability to record strokes and to print them onto paper *as a
-separate operation* [@eisenberg_word_1992]. Built on a simpler architecture
+defined by the ability to record strokes and to print them onto paper as a
+separate operation [@eisenberg_word_1992]. Built on a simpler architecture
 than its supercomputer cousins, the MT/ST used a single tape read and write
-mechanism.  An advertisement in the American Bar Association circa 1968 calls
+mechanism. An advertisement in the American Bar Association circa 1968 calls
 it the $10,000 typewriter that is "worth every penny." Before, the typist
 would have to stop and erase every mistake, the copy reads. But with IBM MT/ST
 it is possible to to "backspace, retype, and keep going." The mistake is
 changed on magnetic tape, "where all typing is recorded and played back
 correctly at incredible speed" [@association_aba_1976, 998]. But just as it
-was with Mark III, the data stored on the magnetic tape was absolutely
+was with the Mark III, information stored on the magnetic tape was absolutely
 invisible to the typist. At the time, the only way to verify the magnetic
 inscription was to print it out.
 
 What was gained in the freeing of text from the confines of immutable media
-like ink and paper, was gotten at the price of legibility.  Encoding used by
+like ink and paper, was gotten at the price of legibility. Encoding used by
 the IBM MT/ST typewriter retained the familiar underlying structure of a 7-bit
 encoding scheme, not dissimilar from Bacon's secret writing. But on tape, the
 encoding scheme ceased to be recoverable by the naked eye. The inscription lay
 literally beyond human sense. On tape, "magnetic domains" and "polarities"
-took place of visible, albeit encoded, alphabets.[^ln2-magnet] The developers
-of these early systems recognized the problem of congruence between the
-visible and the invisible sign. The machine operator needed to ensure that the
-input correspond to the stored quantity. But the only way to check the stored
+took place of visible albeit encoded alphabets.[^ln2-magnet] The developers of
+these early systems recognized the problem of congruence between the visible
+and the invisible sign. The machine operator needed to ensure that the input
+correspond to the stored quantity. But the only way to check the stored
 quantity was to once again transform it into another inscription. Direct
 access to the site of storage was near-impossible.
 
@@ -688,28 +690,30 @@ outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 symbols recorded thereon," from [@youngquist_magnetic_1961,
 1]](youngquist.png)
 
-Yet the problem remained. Data arrangement along the length of the magnetic
-tape was fundamentally different from data arranged on paper. The next
-generation of IBM Magnetic Selectric typewriters added a "composer" control
-unit to further manipulate storage data for meaningful output. The original
-IBM Composer unit achieved margin justification (its chief innovation over the
-typewriter) by asking the operator to type each line twice: "one rough typing
-to determine what a line would contain, and a second justified typing"
-[@morgan_ibm_1968, 69]. After the "first typing," an indicator mechanism
-helped the operator calculate the variable spacing needed to achieve paragraph
-justification. The formatting and content of each line thus required separate
-passes to achieve the desired result. IBM's Magnetic Tape Selectric Composer
-(MT/SC) combined the typing capabilities of the Selectric line of typewriters,
-with the Magnetic Tape storage unit of the MT/ST unit, with the formatting
-capabilities of the Composer. Rather than having the operator type each line
-twice, the MT/SC system printed the entered text twice: once on the "input
-station printout" which showed both the content and the control codes, printed
-in red ink, and the second time as the final "Composer output" printout, which
-presented the final typeset copy. The output operator would still have to
-intervene manually, however, to make decisions about paper loading, type font
-changes, and hyphenation decisions.  What was once a monolithic unit on the
-page was thereby systematically separated into several distinct layers in the
-process of composition. 
+Yet the problem remained. Data arrangement along the length of the narrow
+magnetic tape had a fundamentally differing structure from data arranged on a
+broad sheet of paper. The next generation of IBM Magnetic Selectric
+typewriters added a "composer" control unit to further adress that difference.
+The IBM Composer could restore some of the formatting lost in the transition
+between paper and magnit. It added capabilities for margin control and text
+justification. The original IBM Composer unit achieved margin justification
+(its chief innovation over the typewriter) by asking the operator to type each
+line twice: "one rough typing to determine what a line would contain, and a
+second justified typing" [@morgan_ibm_1968, 69]. After the "first typing," an
+indicator mechanism helped the operator calculate the variable spacing needed
+to achieve paragraph justification. The formatting and content of each line
+thus required separate input passes to achieve the desired result. IBM's
+Magnetic Tape Selectric Composer (MT/SC) combined the typing capabilities of
+the Selectric line of typewriters, magnetic tape from the MT/ST line, and the
+formatting capabilities of the Composer. Rather than having the operator type
+each line twice, the MT/SC system printed the entered text twice: once on the
+"input station printout" which showed both the content and the control codes
+printed in red ink, and the second time as the final "Composer output"
+printout, which presented the final typeset copy. The output operator would
+still have to intervene manually, however, to make decisions about paper
+loading, type font changes, and hyphenation decisions. What was once a
+monolithic unit on the page was thereby systematically separated into several
+distinct layers in the process of decomposition and composition.
 
 Like other devices of this generation, the IBM MT/SC suffered from the problem
 of invisible storage. Error checking on paper via multiple printouts was aided
@@ -717,23 +721,25 @@ by a control panel consisting of "11 display lights." The configuration of
 lights could be used to "peek" at the underlying data storage during otherwise
 blind entry. In an attempt to achieve greater congruence between visible data
 and data archived on the magnetic medium, IBM briefly explored the idea of
-using magnetic cards instead of tape. Where on tape, information had to be
+using magnetic cards instead of tape. Where on tape information had to be
 stored serially, as one long column of codes, on a magnetic card the spatial
 relation between elements could be preserved. The 1968 patent for "Data
 Reading, Recording, and Positioning System" describes a method for arranging
 information on such a card "recording and playback system which accurately
 positions each character recorded relative to each previous character recorded
-[@clancy_data_1970, 1]. In in 1969 IBM further refined the Selectric Composer
-line to make use of magnetic cards instead of magnetic tape. Later, in 1981,
-reflecting on the evolution of word processing in the 1960s Frederick May
-whose name appears on several of IBM's patents from the period wrote:
+[@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage units
+into its  Selectric Composer line of word processors. Fredrick May, whose name
+often appears on word processing related patents form this period, would later
+reflect on magnetic cards, writing that a "major reason for the choice of a
+magnetic card for the recording of medium was the simple relationship that
+could be maintained between a typed page and a recorded card" [@may_ibm_1981,
+743]. The card could be thought of as a miniature page, making the magnetic
+card a "unit of record of storage of a typed page" [@may_ibm_1981, 743].
 
-> A major reason for the choice of a magnetic card for the recording of medium
-> was the simple relationship that could be maintained between a typed page
-> and a recorded card. In effect this relationship made the magnetic card
-> a unit of record of storage of a typed page [@may_ibm_1981, 743].
-
-![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
+![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
+Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
+a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist
+under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
 Despite these improvements, the card remained an opaque slate. Speaking at the
 1967 symposium on electronic composition in printing, Jon Haley, staff
@@ -741,10 +747,13 @@ director of the Congressional Joint Committee on printing, put it this way:
 "compromises with legibility [...] had been made for the sake of pure speed in
 composition and dissemination of the end product [@technology_electronic_1968,
 48]. The automation of type made the word faster. The magnetic storage made it
-lighter and more compact. It allowed for processing before commitment. But
-these gains were made at the cost of visibility. The consequences of that
-bargain will become apparent later.
- 
+lighter and more compact. It allowed for processing before commitment to a
+paper medium. But these gains were made at the cost of legibility. As we shall
+see later, the illegibility of magnetic storage and later solid state storage
+media will have tremendous social and political consequences for the republic
+of letters. For the first time in history, the congruence between the archived
+and the visible record could not be guaranteed.
+
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
 Italy."
