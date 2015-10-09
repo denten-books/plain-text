@@ -418,7 +418,7 @@ of automated telegraphy). By 1931 women comprised 64 percent of printer and
 Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
 514].
 
-## B. Magnetic tape (Storage)
+## B. Magnetic Tape (Storage)
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -597,14 +597,14 @@ from a slow drum to a fast one, and from drum and tape to paper. Where before,
 on ticker tape, the inscription remained visible, at least before it entered
 the wires as electrical signal, it now disappeared from view soon after the
 key press. Submerged under magnetic surface inscriptions multiply, diffuse,
-and resist direct observation. The computed sign undergoes a number of chanes
+and resist direct observation. The computed sign undergoes a number of changes
 in the process of displacement in time and in space. Using Mark III or similar
 tape-driven devices an operator could prepare tape today, process it tomorrow,
 derive the necessary calculations and transmit them the day after. The
 diffusion of the inscription from one medium to another, from one format into
 another in effect constitutes what we mean by the "processing" part of "word
 processing." Telegraphy forever entwined symbol and machine control. Magnetic
-storage made the new compund figure invisible.
+storage made the new compound figure invisible.
 
 The potential incongruence between invisible data storage and its apparent
 representation was a key problem in the decades preceding the advent of screen
@@ -623,7 +623,9 @@ properties to adhere to the electrostatic latent images"
 [@epstein_electrographic_1961, 2]. A light dusting of powder ink would reveal
 the hidden magnetic image.
 
-!["Images formed by a negative voltage," from Electrographic Printer by Epstein and Innes [@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
+!["Images formed by a negative voltage," from Electrographic Printer by
+Epstein and Innes
+[@epstein_electrographic_1961]](images/magnetic-alphabet-epstein.png)
 
 Advances in magnetic storage in the field of audio recording and in
 supercomputer applications like the Mark III found their way into the business
@@ -693,9 +695,9 @@ symbols recorded thereon," from [@youngquist_magnetic_1961,
 Yet the problem remained. Data arrangement along the length of the narrow
 magnetic tape had a fundamentally differing structure from data arranged on a
 broad sheet of paper. The next generation of IBM Magnetic Selectric
-typewriters added a "composer" control unit to further adress that difference.
+typewriters added a "composer" control unit to further address that difference.
 The IBM Composer could restore some of the formatting lost in the transition
-between paper and magnit. It added capabilities for margin control and text
+between paper and magnet. It added capabilities for margin control and text
 justification. The original IBM Composer unit achieved margin justification
 (its chief innovation over the typewriter) by asking the operator to type each
 line twice: "one rough typing to determine what a line would contain, and a
@@ -748,11 +750,15 @@ director of the Congressional Joint Committee on printing, put it this way:
 composition and dissemination of the end product [@technology_electronic_1968,
 48]. The automation of type made the word faster. The magnetic storage made it
 lighter and more compact. It allowed for processing before commitment to a
-paper medium. But these gains were made at the cost of legibility. As we shall
-see later, the illegibility of magnetic storage and later solid state storage
-media will have tremendous social and political consequences for the republic
-of letters. For the first time in history, the congruence between the archived
-and the visible record could not be guaranteed.
+paper medium. But these gains were made at the cost of legibility. The move to
+magnetic and later solid state storage media would have tremendous social and
+political consequences for the republic of letters. Magnetic storage reduces
+the costs of copying, in a sense freeing the word from its more permanent
+material confines, creating the illusion of ephemerality. Yet, the material
+properties of magnetic tape itself prevent direct access. They separate
+readers into those able to effect the mixture of content and control that
+shapes the literary encounter and those who observe passively, at the
+shimmering surface of archival projection.
 
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
@@ -767,7 +773,7 @@ suitable control tape may be coded directing the calculator to compute the
 values of *f(x)* and record them by means of one of the four output punches,
 mounted on the right wing of the machine" [@staff_description_1949, 34].
 
-## C. Screen, (Output)
+## C. Screen (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process
@@ -776,12 +782,13 @@ beneath the matte surface of electrical charge. The final movement in the
 emergence of automated discourse reintroduces the illusion of immediacy into
 the process of inscription. Text, invisible in its material substratum,
 reappears on the screen, but, crucially, it no longer corresponds to its
-mirror inscription. This property is as perilous as it is liberating:
-perilous, because the flows of power and control can now be submerged under
-the shimmering surface of the screen, and liberating, because loosely coupled
-to their material substratum texts become both more fluid and more portable.
+mirrored inscription. This property is as perilous as it is liberating:
+perilous, because the flows of power and control can now be submerged beneath
+the visible surface of the screen, and liberating, because loosely coupled to
+their material substratum texts become both more fluid and more portable.
 Plainly put, the systematic barriers to copying, sharing, exchanging, editing,
-remixing, and disseminating texts are reduced to a minimum.
+remixing, and disseminating texts are reduced to a minimum, while the costs of
+comprehension increase.
 
 Ersatz skeuomorphism (between disk storage and screen image) leads to the
 reception of digital text as an ephemeral artifact. With the illusory role of
