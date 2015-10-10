@@ -215,9 +215,9 @@ and silences of various length. Furthermore, note that in Morse code a single
 letter could be expressed as a series of dots and dashes of variable length:
 from one dash that stands for letter "t" to six dots that stand for the number
 six. The transmission of variable length codes required the presence of a human
-operator who could "translate" form natrual language to the machine alphabet,
+operator who could "translate" form natural language to the machine alphabet,
 using a "key" which when depressed vertically would complete an electrical
-curcuit to produce the signal. Writing in 1929 for the journal *American
+circuit to produce the signal. Writing in 1929 for the journal *American
 Speech*, Hervey Brackbill preserved some of the specialized language associated
 with Morse code culture. "Morse telegraphy is commonly referred to as a 'game,'
 and the operator 'works a wire,'" he wrote. An operator tapping a key "uses a
@@ -245,7 +245,7 @@ convention stipulated fixed length, the actual length of the silence between the
 meaning-carrying units of Morse code could vary greatly with the vagrancies of
 the transmitting medium. Cross talk between wires and weather interferences were
 common, which meant that communicating in Morse still required a human operator
-for efficient ciphering and deciphering of the transmisison. In a long-chain of
+for efficient ciphering and deciphering of the transmission. In a long-chain of
 mediation telegraph operator, code, and machine, the human posed a limiting
 factor.
 
@@ -793,23 +793,44 @@ systematic barriers to copying, sharing, exchanging, editing, remixing, and
 disseminating texts are reduced to a minimum, while the barriers to
 comprehension increase.
 
-Denning
-I propose 1968 as the year in which the contemporary textual condition takes
-its present form. On December 9, 1968 Douglas Engelbart, then founder and
-primary investigator at the NASA- and ARPA-funded Augmentation Research Center
-lab at the Stanford Research Institute, gave what later became known
-colloquially as "the mother of all demos [@tweney_mother_2008]" before an
-audience of roughly one thousand or so computer professionals attending the
-Fall Joint Computer Conference held at the Convention Center in San Francisco
-[@rogers_demo_2005].  The demo announced the arrival of almost every
-technology prophesied by Vannevar Bush in his influential 1945 piece for *The
-Atlantic* [@bush_as_1945]. Speaking a little over an hour,  through a headset,
-in a prerecorded address, Engelbart features functional (live) prototypes of
-the following: graphical user interfaces, video conferencing, remote camera
-monitoring, links and hypertext, version control, text search, image
-manipulation, windows-based user interfaces, digital slides, networked
-machines, mouse, stylus, and joystick inputs, and "what you see is what you
-get" (WYSIWYG) word processing.
+I nominate the year 1968 as the year in which the contemporary textual
+condition takes its present, completed form. Subsequent generations of
+computational devices change in terms of size, speed, ubiquity but retain
+essentially the same architecture, which utilizes (a) programmable storage
+media (b) magnetic, solid state, and other forms of opaque internal memory and
+(c) keyboards and screen displays for human-machine interaction. The addition
+of the screen completed the circuit between human-initiated input and
+human-legible output. The screen solved the problem of magnetic illegibility.
+Using the screen, the reader and the typist could now "open a window" onto the
+submerged world of magnetic storage. The screen monitors and displays.
+
+In theory, the screen updates multiple times per second to give an accurate
+up-to-the moment view of the system's hidden internal state. In practice, the
+machine operator must have trust in the system design to render its internal
+states faithfully. And because system control characters grew from several
+machine instructions in the first decades of the twentieth century to
+complicated and infinitely "Turing-complete" programming languages by the
+1950s, much of the systems internals are habitually hidden from the average
+machine user. For convenience's sake, and later for loftier reasons like
+intellectual rights management and system security, the user is given access
+to partial, simulated representations of machine internals. Such compromise
+informs the system architecture of most consumer devices, from digital cameras
+to mobile phones, and to electronic book readers.
+
+On December 9, 1968 Douglas Engelbart, then founder and primary investigator
+at the NASA- and ARPA-funded Augmentation Research Center lab at the Stanford
+Research Institute, gave what later became known colloquially as "the mother
+of all demos [@tweney_mother_2008]" before an audience of roughly one thousand
+or so computer professionals attending the Fall Joint Computer Conference held
+at the Convention Center in San Francisco [@rogers_demo_2005].  The demo
+announced the arrival of almost every technology prophesied by Vannevar Bush
+in his influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a
+little over an hour,  through a headset, in a prerecorded address, Engelbart
+features functional (live) prototypes of the following: graphical user
+interfaces, video conferencing, remote camera monitoring, links and hypertext,
+version control, text search, image manipulation, windows-based user
+interfaces, digital slides, networked machines, mouse, stylus, and joystick
+inputs, and "what you see is what you get" (WYSIWYG) word processing.
 
 !["NOW IS THE TIME FOB." Schematics for a "display system" [@engelbart_x-y_1970].](images/engel.png) 
 
