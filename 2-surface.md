@@ -781,33 +781,38 @@ of inscription and comprehension. Content, coupled with control code, sinks
 beneath the matte surface of electrical charge. The final movement in the
 emergence of automated discourse reintroduces the illusion of immediacy into
 the process of inscription. Text, invisible in its material substratum,
-reappears on the screen, but, crucially, it no longer corresponds to its
-mirrored inscription. This property is as perilous as it is liberating:
-perilous, because the flows of power and control can now be submerged beneath
-the visible surface of the screen, and liberating, because loosely coupled to
-their material substratum texts become both more fluid and more portable.
-Plainly put, the systematic barriers to copying, sharing, exchanging, editing,
-remixing, and disseminating texts are reduced to a minimum, while the costs of
-comprehension increase.
+reappears on the screen, but, crucially, the correspondence between the
+archived and the projected inscription can no longer be guaranteed. The very
+admixture of formatting and control code which we saw emerge in the first
+stage of the movement towards simulation, remains out of sight. The simulation
+is as perilous as it is liberating: perilous, because the flows of power and
+control can now be submerged beneath the visible surface of the screen, and
+liberating, because loosely coupled to their material substratum texts become
+both more fluid and more portable. Plainly put, the systematic barriers to
+copying, sharing, exchanging, editing, remixing, and disseminating texts are
+reduced to a minimum, while the barriers to comprehension increase.
 
-Ersatz skeuomorphism (between disk storage and screen image) leads to the
-reception of digital text as an ephemeral artifact. With the illusory role of
-the screen in mind, I propose 1968 as the year in which the contemporary
-textual condition takes its present form. On December 9, 1968 Douglas
-Engelbart, then founder and primary investigator at the NASA- and ARPA-funded
-Augmentation Research Center lab at the Stanford Research Institute, gave what
-later became known colloquially as "the mother of all demos
-[@tweney_mother_2008]" before an audience of roughly one thousand or so
-computer professionals attending the Fall Joint Computer Conference held at
-the Convention Center in San Francisco [@rogers_demo_2005]. The demo announced
-the arrival of almost every technology prophesied by Vannevar Bush in his
-influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a little
-over an hour,  through a headset, in a prerecorded address, Engelbart features
-functional (live) prototypes of the following: graphical user interfaces,
-video conferencing, remote camera monitoring, links and hypertext, version
-control, text search, image manipulation, windows-based user interfaces,
-digital slides, networked machines, mouse, stylus, and joystick inputs, and
-"what you see is what you get" (WYSIWYG) word processing.
+Observed at the site of the projection, on a screen, the inscription rightly
+appears as an ephemeral artifact. The electric word flows and flickers. The
+screen 
+
+With the illusory role of the screen in mind, I
+propose 1968 as the year in which the contemporary textual condition takes its
+present form. On December 9, 1968 Douglas Engelbart, then founder and primary
+investigator at the NASA- and ARPA-funded Augmentation Research Center lab at
+the Stanford Research Institute, gave what later became known colloquially as
+"the mother of all demos [@tweney_mother_2008]" before an audience of roughly
+one thousand or so computer professionals attending the Fall Joint Computer
+Conference held at the Convention Center in San Francisco [@rogers_demo_2005].
+The demo announced the arrival of almost every technology prophesied by
+Vannevar Bush in his influential 1945 piece for *The Atlantic*
+[@bush_as_1945]. Speaking a little over an hour,  through a headset, in a
+prerecorded address, Engelbart features functional (live) prototypes of the
+following: graphical user interfaces, video conferencing, remote camera
+monitoring, links and hypertext, version control, text search, image
+manipulation, windows-based user interfaces, digital slides, networked
+machines, mouse, stylus, and joystick inputs, and "what you see is what you
+get" (WYSIWYG) word processing.
 
 !["NOW IS THE TIME FOB." Schematics for a "display system" [@engelbart_x-y_1970].](images/engel.png) 
 
@@ -1012,6 +1017,10 @@ own.
 [^ln2-brain]: We will later entertain the (real) possibility of
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
+
+[^ln1-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].
 
 ## Microanalysis
 
