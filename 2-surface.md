@@ -58,43 +58,43 @@ disks" as the "fundamental physical support" and "material substrates of
 computing" [@drucker_performative_2013]. The hard drive and the screen
 partition the sign between surface and depth, projection and archive.
 
-Form and content lie flat on the printed page. Print interfaces are paper thin,
-we might say. Ink adheres to paper in the way that pixels do not to screens.
-The splintered sign complicates the traditional structuralist distinctions
-between form and content. It occupies at least two distinct sites, each
-entailing drastically differing accordances for reading, writing, and
-interpretation. Were we to untangle the tightly wound coil of the circuit, we
-would find ample distance between the hard drive and the screen. Where print is
-flat, computed text resides at several levels and along multiple dimensions
-[@halyes code is flat].
+Form and content lie flat on the printed page. Print interfaces are paper
+thin, we might say. Ink adheres to paper in the way that pixels do not to
+screens.  The splintered sign complicates the traditional structuralist
+distinctions between form and content. It occupies at least two distinct
+sites, each entailing drastically differing accordances for reading, writing,
+and interpretation. Were we to untangle the tightly wound coil of the circuit,
+we would find ample distance between the hard drive and the screen. Where
+print is flat, computed text resides at several levels and along multiple
+dimensions [@halyes code is flat].
 
 How did this multiplicity come to be? And what effect does it have on the life
 of the mind? The purpose of this chapter is to open space between the visible
 sign and the archived inscription. The structure of textual artifacts---from a
 simple leaflet to a novel in multiple volumes---has remained remarkably stable
 since the invention of movable type. One rarely finds a sentence that spans
-several paragraphs, for example. Nor would a contemporary reader expect to find
-pages of different length in the same tome. Long-standing historical
-conventions guide the production of printed text. Semantic and decorative units
-on a page exist within a strict hierarchy, so familiar to us as to become
-almost invisible. No book of serious non-fiction will be typeset in cursive
-font, for example. But unless something out of the ordinary attracts attention,
-the reader will tend to gloss the "inconsequential" details of formatting in
-favor of content. The material contexts of a well designed book fade from view
-during reading.
+several paragraphs, for example. Nor would a contemporary reader expect to
+find pages of different length in the same tome. Long-standing historical
+conventions guide the production of printed text. Semantic and decorative
+units on a page exist within a strict hierarchy, so familiar to us as to
+become almost invisible. No book of serious non-fiction will be typeset in
+cursive font, for example. But unless something out of the ordinary attracts
+attention, the reader will tend to gloss the "inconsequential" details of
+formatting in favor of content. The material contexts of a well designed book
+fade from view during reading.
 
 For a few decades after the advent of magnetic storage media but before screen
 technology, the outward shape of the sign disappeared altogether. It is
 difficult to fathom now, but at the time after the introduction of magnetic
 tape in the 1960s but before the wide-spread advent of cathode ray tube
-displays in the 1980s, the typewriter operator and the computer programmer were
-often expected to manipulate text blindly. Where the page or the punch card
-gave immediate visual feedback, the combination of magnetic tape and screen
-separated input from output. The word could be "processed" or altered with
-codes that controlled attributes like indent size or justification *before*
-committing ink to paper. A paper describing the popular IBM Magnetic Tape
-Selectric Typewriter (MT/ST) introduced in 1964 describes the novelty of the
-system as follows:
+displays in the 1980s, the typewriter operator and the computer programmer
+were often expected to manipulate text blindly. Where the page or the punch
+card gave immediate visual feedback, the combination of magnetic tape and
+screen separated input from output. The word could be "processed" or altered
+with codes that controlled attributes like indent size or justification
+*before* committing ink to paper. A paper describing the popular IBM Magnetic
+Tape Selectric Typewriter (MT/ST) introduced in 1964 describes the novelty of
+the system as follows:
 
 > It could be emphasized for the first time that the typist could type at
 > "rough draft" speed, "backspace and strike over" errors, and not worry about
@@ -119,13 +119,13 @@ accomplished by:
 The tape unit and the control unit thus intervene between the keyboard and the
 printed page. The "final printing" combines roughly the "prepared copy" with
 "control and reference codes" and "printer output" [@bishop_development_1968;
-@may_ibm_1981]. The materials from the time often speak of three distinct human
-operators that could be responsible for each stage of the production: one
-entering the copy, one specifying the control codes, and one responsible for
-handling the paper output. The machine operators could hypothetically work in
-isolation from one another. The typist would see only elements of the copy; the
-typesetter or the controller only formatting and control codes; and the printer
-only the interpolated results.
+@may_ibm_1981]. The materials from the time often speak of three distinct
+human operators that could be responsible for each stage of the production:
+one entering the copy, one specifying the control codes, and one responsible
+for handling the paper output. The machine operators could hypothetically work
+in isolation from one another. The typist would see only elements of the copy;
+the typesetter or the controller only formatting and control codes; and the
+printer only the interpolated results.
 
 !["Block diagram of MT/SC system [@bishop_development_1968, 381].](images/mt-sc.png)
 
@@ -136,10 +136,10 @@ contributions to the history of print writ large. A consultant writing for the
 from handwriting, to wood engraving, movable type, letterpress, and, finally,
 to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
 printing process in this evolution," he writes. He concludes to say that the
-IBM Composer finally empowers the writer to once again write books "without the
-assistance of specialists" [@frutiger, 10]. Marketing language aside, the
-separation of the sign from its immediate material contexts constituted a major
-milestone in the history of writing and textuality.
+IBM Composer finally empowers the writer to once again write books "without
+the assistance of specialists" [@frutiger, 10]. Marketing language aside, the
+separation of the sign from its immediate material contexts constituted a
+major milestone in the history of writing and textuality.
 
 In this chapter, I would like to give a historical account of a letter's
 passage from paper to pixel. The movement proceeds in three stages, as
@@ -154,110 +154,111 @@ century, the screen emerged to simulate a measure of legibility lost in the
 transition.
 
 Where does computed text reside? I offer the following three historical
-preconditions for digital textuality. They are not meant as history, but rather
-as signposts to mark the journey ahead. The schema proceeds roughly as follows:
-first, content and control couple at the visible surface of removable storage
-media (ticker tape and punch card); second, inscription splits into input and
-output, retreating into magnetic storage; to reemerge at third and last on the
-screen in the same guise, but also, as we suspect, somehow transformed: less
-solid and concealing something beneath the phantasmal shell of its former
-appearance.
+preconditions for digital textuality. They are not meant as history, but
+rather as signposts to mark the journey ahead. The schema proceeds roughly as
+follows: first, content and control couple at the visible surface of removable
+storage media (ticker tape and punch card); second, inscription splits into
+input and output, retreating into magnetic storage; to reemerge at third and
+last on the screen in the same guise, but also, as we suspect, somehow
+transformed: less solid and concealing something beneath the phantasmal shell
+of its former appearance.
 
 As we embark to explore the consequences of computed text, I propose we keep
 the following three landmark mechanisms in view as milestones along our
 journey: Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*.
 In the first of these, text structure and machine control lie before us for
-inspection. The second one is mute: a black slate. The last of these belongs to
-what Peter Denning calls the "third generation" of computer systems---an
+inspection. The second one is mute: a black slate. The last of these belongs
+to what Peter Denning calls the "third generation" of computer systems---an
 assemblage of storage, input, and output technologies that continue to shape
 the contemporary human encounter with text today.[^ln1-denning] These devices
-tell the story of a fracture.  Through them, a part of the sign fades from view
-into an arrangement of magnetic charge and floating gate at the site of the
-archive. Another part appears at the site of projection in the flicker of the
-cathode ray and the flow of the liquid crystal.
+tell the story of a fracture.  Through them, a part of the sign fades from
+view into an arrangement of magnetic charge and floating gate at the site of
+the archive. Another part appears at the site of projection in the flicker of
+the cathode ray and the flow of the liquid crystal.
 
 ## A. Teletype (Input)
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
-The advent of programmable media---punch cards and ticker tape---coupled natural
-language alphabets with machine control code.[^ln1-loom] Reduced to discrete and
-reliably reproducible alphabets, the so called "natural languages" could now be
-converted into the modulation of electrical signal. Language in such a
-transitive state became more mobile than ever before. It could be transmitted
-efficiently across vast distances. Moreover, the mechanization of type
-introduced new "control" characters into circulation, intended to affect machine
-state changes at a distance. Initially, such state changes were simple: "begin
-transmission," "sound error bell," "start new line." With time, these control
-codes developed into what we now know as a programming language. At the turn of
-the century, the language of people and the language of machines entered into
-the same stream of communications.
+The advent of programmable media---punch cards and ticker tape---coupled
+natural language alphabets with machine control code.[^ln1-loom] Reduced to
+discrete and reliably reproducible alphabets, the so called "natural
+languages" could now be converted into the modulation of electrical signal.
+Language in such a transitive state became more mobile than ever before. It
+could be transmitted efficiently across vast distances. Moreover, the
+mechanization of type introduced new "control" characters into circulation,
+intended to affect machine state changes at a distance. Initially, such state
+changes were simple: "begin transmission," "sound error bell," "start new
+line." With time, these control codes developed into what we now know as a
+programming language. At the turn of the century, the language of people and
+the language of machines entered into the same stream of communications.
 
-As telegraphy spanned national boundaries, agreements were needed to standardize
-conventions for equipment and message encoding
+As telegraphy spanned national boundaries, agreements were needed to
+standardize conventions for equipment and message encoding
 [@international_telegraph_union_journal_1899, 82-91]. Such agreements were
 handled on a regional, ad-hoc basis until 1865, with the creation of the
 International Telegraph Union (ITU). The International Telegraph Conference in
-Paris, held between March 1 and May 17 of 1865, adopted, among other things, the
-use of a modified Morse code character set, containing 33 Latin letters
+Paris, held between March 1 and May 17 of 1865, adopted, among other things,
+the use of a modified Morse code character set, containing 33 Latin letters
 (including characters from the French, German, and Spanish alphabets), 10
-numbers (0--9), 14 punctuation marks (including a fraction bar), and 10 control
-codes (including "end of service," "attention," and "error")
+numbers (0--9), 14 punctuation marks (including a fraction bar), and 10
+control codes (including "end of service," "attention," and "error")
 [@international_telegraph_union_documents_1865]. In specifying the conversion
 tables for the Morse alphabet, the 1865 ITU rules required a silence equal to
 three dots (same as one dash) to indicate the space between two letters, and a
 silence equivalent to four dots (later changed to seven) to indicate the space
 between words.
 
-Although Morse code can be expressed in terms of ones and zeros (binary), it is
-technically a ternary code making use of at least three elements: dots, dashes,
-and silences of various length. Furthermore, note that in Morse code a single
-letter could be expressed as a series of dots and dashes of variable length:
-from one dash that stands for letter "t" to six dots that stand for the number
-six. The transmission of variable length codes required the presence of a human
-operator who could "translate" form natural language to the machine alphabet,
-using a "key" which when depressed vertically would complete an electrical
-circuit to produce the signal. Writing in 1929 for the journal *American
-Speech*, Hervey Brackbill preserved some of the specialized language associated
-with Morse code culture. "Morse telegraphy is commonly referred to as a 'game,'
-and the operator 'works a wire,'" he wrote. An operator tapping a key "uses a
-bug." "The first instruments," Brackbill wrote, "with their long slender levers
-and springs, looked very much like a sprawling bug." They have trade names like
-"Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
-[@brackbill_telegraphers_1929, 287-288]. Operators using "straight keys"
-practically achieved speeds upwards of 25--30 words per minute, limited by the
-shortest possible length of the smallest transmitted unit (a dot), fixed by the
-American and the International Morse Code conventions to 1/24 of a second in
-duration.
+Although Morse code can be expressed in terms of ones and zeros (binary), it
+is technically a ternary code making use of at least three elements: dots,
+dashes, and silences of various length. Furthermore, note that in Morse code a
+single letter could be expressed as a series of dots and dashes of variable
+length: from one dash that stands for letter "t" to six dots that stand for
+the number six. The transmission of variable length codes required the
+presence of a human operator who could "translate" form natural language to
+the machine alphabet, using a "key" which when depressed vertically would
+complete an electrical circuit to produce the signal. Writing in 1929 for the
+journal *American Speech*, Hervey Brackbill preserved some of the specialized
+language associated with Morse code culture. "Morse telegraphy is commonly
+referred to as a 'game,' and the operator 'works a wire,'" he wrote. An
+operator tapping a key "uses a bug." "The first instruments," Brackbill wrote,
+"with their long slender levers and springs, looked very much like a sprawling
+bug." They have trade names like "Lighting Bug," "Gold Bug," and "Cootie" (for
+a small model) [@brackbill_telegraphers_1929, 287-288]. Operators using
+"straight keys" practically achieved speeds upwards of 25--30 words per
+minute, limited by the shortest possible length of the smallest transmitted
+unit (a dot), fixed by the American and the International Morse Code
+conventions to 1/24 of a second in duration.
 
 Around the turn of the twentieth century, companies like Western Electric,
-Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made use
-of a horizontal switch capable of emitting a rapid succession of dots to one
-side of the action, and dashes to the other [@martin_telegraphic_1904;
+Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
+use of a horizontal switch capable of emitting a rapid succession of dots to
+one side of the action, and dashes to the other [@martin_telegraphic_1904;
 @boyd_telegraph-key_1916]. A bug was said to "run away" when adjusted for too
-high of a speed. The Vibroplex keys would significantly alter the "fist," or the
-transmission style of the operator, allowing for speeds that approached 50 words
-per minute (and above, if not following the minimum signal length
+high of a speed. The Vibroplex keys would significantly alter the "fist," or
+the transmission style of the operator, allowing for speeds that approached 50
+words per minute (and above, if not following the minimum signal length
 specifications) [@mcnicol_american_1913, 207;
 @u.s._bureau_of_labor_statistics_displacement_1932; @halstead_genesis_1949].
 Despite the improvements, Morse code was showing its age. Although the
-convention stipulated fixed length, the actual length of the silence between the
-meaning-carrying units of Morse code could vary greatly with the vagrancies of
-the transmitting medium. Cross talk between wires and weather interferences were
-common, which meant that communicating in Morse still required a human operator
-for efficient ciphering and deciphering of the transmission. In a long-chain of
-mediation telegraph operator, code, and machine, the human posed a limiting
-factor.
+convention stipulated fixed length, the actual length of the silence between
+the meaning-carrying units of Morse code could vary greatly with the
+vagrancies of the transmitting medium. Cross talk between wires and weather
+interferences were common, which meant that communicating in Morse still
+required a human operator for efficient ciphering and deciphering of the
+transmission. In a long-chain of mediation telegraph operator, code, and
+machine, the human posed a limiting factor.
 
-Telegraph operators working a "hand sender" commonly developed partial paralysis
-of wrist or arm, commonly known as a "glass arm" [@brackbill_telegraphers_1929;
-@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a "ham"
-or a "bum" when he "fell down" or made errors in sending. To "put someone under
-the table" in sender's lingo was to transmit faster that the receiver ability to
-transcribe. The "reader" was "burnt up" when he fell behind. He had to "break,"
-or interrupt the sender to ask for repetition. To "paste" someone meant to
-transmit at high speeds to deliberately burn him up or put him under the table
-[@brackbill_telegraphers_1929].
+Telegraph operators working a "hand sender" commonly developed partial
+paralysis of wrist or arm, commonly known as a "glass arm"
+[@brackbill_telegraphers_1929;
+@u.s._bureau_of_labor_statistics_displacement_1932]. A sender was called a
+"ham" or a "bum" when he "fell down" or made errors in sending. To "put
+someone under the table" in sender's lingo was to transmit faster that the
+receiver ability to transcribe. The "reader" was "burnt up" when he fell
+behind. He had to "break," or interrupt the sender to ask for repetition. To
+"paste" someone meant to transmit at high speeds to deliberately burn him up
+or put him under the table [@brackbill_telegraphers_1929].
 
 The International Telegraph Conference in Lisbon, held in the summer of 1908,
 ratified two additional alphabet standards for international use: Hughes and
@@ -266,21 +267,22 @@ fully autonomous telegraph operation.
 
 ![Table of Alphabets, 1901 [@vansize_new_1901, 23].](images/alphabets-vansize.png)
 
-This new generation of printing telegraphs could be "programmed" using removable
-storage media, in a way that a player piano is "programmed" to play a piece by
-means of a music roll. The printing telegraph decoupled the act of writing and
-reading from the act of transmission, similar to the way the perforated music
-roll decouples the act of playing the piano from the performance. Using external
-storage media like ticker tape and punch cards, a message could be prepared in
-advance and "fed" into the mechanism for transmission at rates far exceeded the
-possibilities of hand-operated Morse telegraphy. Unlike the Morse alphabet which
-varied in length, the Baudot in particular fixed the length of the encoding to
-five spaces or "bits." Five "off" and "on" spaces allowed for 2^5=32
-permutations. After encoding the common Latin characters, the schema left space
-for several special "control" characters. The "character space" could further be
-expanded by switching the receiving mechanism into a special "control mode" in
-which every combination of five bits represented an individual control character
-(instead of a letter).
+This new generation of printing telegraphs could be "programmed" using
+removable storage media, in a way that a player piano is "programmed" to play
+a piece by means of a music roll. The printing telegraph decoupled the act of
+writing and reading from the act of transmission, similar to the way the
+perforated music roll decouples the act of playing the piano from the
+performance. Using external storage media like ticker tape and punch cards, a
+message could be prepared in advance and "fed" into the mechanism for
+transmission at rates far exceeded the possibilities of hand-operated Morse
+telegraphy. Unlike the Morse alphabet which varied in length, the Baudot in
+particular fixed the length of the encoding to five spaces or "bits." Five
+"off" and "on" spaces allowed for 2^5=32 permutations. After encoding the
+common Latin characters, the schema left space for several special "control"
+characters. The "character space" could further be expanded by switching the
+receiving mechanism into a special "control mode" in which every combination
+of five bits represented an individual control character (instead of a
+letter).
 
 The invention of fixed-length ciphers lies in the sixth book of Francis Bacon's
 *De augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an
@@ -894,8 +896,8 @@ pretending to be another, in an act which gives rise to the ephemeral
 illusion.
 
 Humans reading and writing on the screen for the first time reported a feeling
-of freedom and liberation. An anonymous report included in Engelbart's
-writes the following:[^ln2-follow]
+of freedom and liberation from paper. An anonymous report included in
+Engelbart's writes the following:[^ln2-follow]
 
 [^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience.
@@ -918,10 +920,18 @@ since formatting is an important part of the reported experience.
     and content of its discussion material.
 ```
 
-Engelbart, interested in collecting empirical phenomenological accounts of the
-system, records what must count as several of the most evocative passages to
+In other words, what we normally perceive as an ordered, continuous activity
+of writing one word after the other, can now be performed in a more modular,
+disjointed fashion. The affordances of visual word processing are structural
+in nature. The author can think two thoughts at the same time if you will,
+documenting both at different parts of the file. The word processor that can
+combine multiple streams of thought, the author suggests, better resembles the
+natural, spontaneous operation of the human mind.
+
+Interested in collecting empirical phenomenological accounts of the system,
+Engelbart records what must count as some the most evocative passages to
 appear on the pages of a NASA technical report. In the "Results and
-Discussion" section an anonymous user continues to report:
+Discussion" section the anonymous user writes:
 
 ```
 1B4 "I find that I can express myself better, if I can
@@ -1074,3 +1084,14 @@ electronic computing" outlined in Peter Denning's "theory of operating systems"
 
 
 ## Bootstrapping
+
+p5
+
+The "bootstrap group the interesting (recursive) assignment of developing
+tools and techniques to make it more effective at carrying out its assignment.
+Its tangible product is a constantly improving augmentation system for use in
+developing and studying augmentation systems. This system can be
+transferred---as a whole or by pieces of concept, principle and technique---to
+help others develop augmentation systems for many other disciplines and
+activities."
+
