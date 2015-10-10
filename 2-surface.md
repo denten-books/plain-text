@@ -820,50 +820,80 @@ to mobile phones, and to electronic book readers.
 On December 9, 1968 Douglas Engelbart, then founder and primary investigator
 at the NASA- and ARPA-funded Augmentation Research Center lab at the Stanford
 Research Institute, gave what later became known colloquially as "the mother
-of all demos [@tweney_mother_2008]" before an audience of roughly one thousand
-or so computer professionals attending the Fall Joint Computer Conference held
-at the Convention Center in San Francisco [@rogers_demo_2005].  The demo
-announced the arrival of almost every technology prophesied by Vannevar Bush
-in his influential 1945 piece for *The Atlantic* [@bush_as_1945]. Speaking a
-little over an hour,  through a headset, in a prerecorded address, Engelbart
-features functional (live) prototypes of the following: graphical user
-interfaces, video conferencing, remote camera monitoring, links and hypertext,
-version control, text search, image manipulation, windows-based user
-interfaces, digital slides, networked machines, mouse, stylus, and joystick
-inputs, and "what you see is what you get" (WYSIWYG) word processing.
+of all demos [@tweney_mother_2008]" before the audience of roughly one
+thousand or so computer professionals attending the Joint Computer Conference
+held at the Convention Center in San Francisco [@rogers_demo_2005]. The flyer
+advertising the event described it as follows:
 
-!["NOW IS THE TIME FOB." Schematics for a "display system" [@engelbart_x-y_1970].](images/engel.png) 
+> This session is entirely devoted to a presentation by Dr. Engelbart on a
+> computer-based, interactive, multiconsole display system which is being
+> developed at Stanford Research Institute under the sponsorship of ARPA, NASA
+> and RADC. The system is being used as an experimental laboratory for
+> investigating principles by which interactive computer aids can augment
+> intellectual capability. The techniques which are being described will,
+> themselves, be used to augment the presentation. The session will use an
+> on-line, closed circuit television hook-up to the SRI computing system in
+> Menlo Park. Following the presentation remote terminals to the system, in
+> operation, may be viewed during the remainder of the conference in a special
+> room set aside for that purpose [@engelbart_doug_1968].
 
-In his report to NASA, which sponsored research on "intellect augmentation"
-along with DARPA, Engelbart describes his lab as a group of scientists
-"developing an experimental laboratory around an interactive, multiconsole
-computer-display system" and "working to learn the principles by which
-interactive computer aids can augment the intellectual capability of the
-subjects" [@engelbart_human_1969, 1]. Cathode Ray Tube (CRT) displays were
-central to this research mission. In one of many patents that came out of
-"intellect augmentation" laboratory, Engelbart pictures the "display system"
-as a workstation that combines a typewriter, a CRT, and a mouse. The system is
-frozen in mid-action, with the words "THE TIME IS NOW FOB" prominently
-displayed on the screen. Although Engelbart does not explain the message, the
-system's user is evidently in the process of editing a sentence and about to
-correct the nonsensical FOB into a FOR. Engelbart writes, "One of the
-potentially most promising means for delivering and receiving information to
-and from digital computers involves the display of computer outputs as visual
-representation on a cathode ray tube and the alternation of the display by
-human operator in order to deliver instructions to the computer"
-[@engelbart_x-y_1970].
+The demo announced the arrival of almost every technology prophesied by
+Vannevar Bush in his influential 1945 piece for *The Atlantic*, "As We May
+Think" [@bush_as_1945]. During his one hour or so lecture, Engelbart features
+functional  prototypes of the following: graphical user interfaces, video
+conferencing, remote camera monitoring, links and hypertext, version control,
+text search, image manipulation, windows-based user interfaces, digital
+slides, networked machines, mouse, stylus, and joystick inputs, and "what you
+see is what you get" (WYSIWYG) word processing.
 
-The CRT closes the circuit between human and machine, with a few caveats. In
-practice, the short-lived screen-less word processors (like the IBM MT/ST)
-necessitated for the cognitively arduous task of continuously keeping the
-underlying document structure in the mind's eye. The CRT lifts that burden by
-unfolding the structure topographically, allowing for spatial navigation along
-the document---restoring, in a sense, the natural affordances of print. Data
-becomes visible again. Moreover, represented in the shimmer of the cathode
-ray, it attaches itself lightly to the retina. Users trying out this way of
-writing for the first time report that the screen liberates them from the
-material confines of print textuality. One user, possibly Engelbart himself,
-writes the following:[^ln2-follow]
+In his report to NASA, the agency which sponsored the research, Engelbart
+describes his lab as a group of scientists "developing an experimental
+laboratory around an interactive, multiconsole computer-display system" and
+"working to learn the principles by which interactive computer aids can
+augment the intellectual capability of the subjects" [@engelbart_human_1969,
+1]. Cathode Ray Tube (CRT) displays were central to this research mission. In
+one of many patents that came out of "intellect augmentation" laboratory,
+Engelbart pictures the "display system" as a workstation that combines a
+typewriter, a CRT, and a mouse. The system is frozen in mid-action, with the
+words "THE TIME IS NOW FOB" prominently displayed on the screen.  Although
+Engelbart does not explain the message,[^ln1-timefob] the system's user is
+evidently in the process of editing a sentence and about to correct the
+nonsensical FOB into a FOR. Engelbart writes, "One of the potentially most
+promising means for delivering and receiving information to and from digital
+computers involves the display of computer outputs as visual representation on
+a cathode ray tube and the alternation of the display by human operator in
+order to deliver instructions to the computer" [@engelbart_x-y_1970].
+
+!["NOW IS THE TIME FOB." Schematics for a "display system"
+[@engelbart_x-y_1970].](images/engel.png)
+
+[^ln1-timefob]: The source for the cryptic phrase is likely
+@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
+political campaign, and it was then for the first time that the well known
+sentence was inaugurated,---'Now is the time for all good men to come to the
+aid of the party;' also the opening sentence of the Declaration of
+Independence [...] were repeated many times in order to test the speed of the
+machine."
+
+The short-lived screenless word processors of the early 1960s (like the IBM
+MT/ST) necessitated the cognitively arduous task of continuously keeping the
+underlying document structure in the mind's eye. The screen removes that
+burden by reconstructing the document structure topographically. In a sense it
+restores space to data stored in ad-hoc ways along the hidden surface of
+magnetic or solid state storage media. The contemporary "digital" document may
+resemble a page on the screen, but beneath it, it is a jumble of bits, split
+into the various regions of internal memory. The screen attempts to restore
+unity. It recreates some of the natural affordances of print, like "turning
+the page" and "bookmarking." But these actions are mere simulations of paper
+formats like books, newspapers, and magazines. While giving the machine
+operator some familiar visual cues from the world of paper and ink, the
+simulation itself follows the laws of physics that govern magnets and
+electricity. The simulated text is not so much immaterial, as it hides its
+true material contexts while simulating others. It is one time of matter
+pretending to be another, in an act which gives rise to the ephemeral
+illusion. Users trying out this way of writing for the first time report that
+the screen liberates them from the material confines of print textuality.  One
+user, possibly Engelbart himself, writes the following:[^ln2-follow]
 
 [^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience.
