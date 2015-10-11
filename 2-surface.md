@@ -849,22 +849,23 @@ slides, networked machines, mouse, stylus, and joystick inputs, and "what you
 see is what you get" (WYSIWYG) word processing.
 
 In his report to NASA, the agency which sponsored the research, Engelbart
-describes his lab as a group of scientists "developing an experimental
+described his lab as a group of scientists "developing an experimental
 laboratory around an interactive, multiconsole computer-display system" and
 "working to learn the principles by which interactive computer aids can
 augment the intellectual capability of the subjects" [@engelbart_human_1969,
 1]. Cathode Ray Tube (CRT) displays were central to this research mission. In
 one of many patents that came out of "intellect augmentation" laboratory,
-Engelbart pictures the "display system" as a workstation that combines a
-typewriter, a CRT, and a mouse. The system is frozen in mid-action, with the
-words "THE TIME IS NOW FOB" prominently displayed on the screen.  Although
-Engelbart does not explain the message,[^ln1-timefob] the system's user is
-evidently in the process of editing a sentence and about to correct the
-nonsensical FOB into a FOR. Engelbart writes, "One of the potentially most
-promising means for delivering and receiving information to and from digital
-computers involves the display of computer outputs as visual representation on
-a cathode ray tube and the alternation of the display by human operator in
-order to deliver instructions to the computer" [@engelbart_x-y_1970].
+Engelbart pictured the "display system" as a workstation that combines a
+typewriter, a CRT screen, and a mouse. The patent illustration show the
+workstation in action, with the words "THE TIME IS NOW FOB" prominently
+displayed on the screen.  Although Engelbart does not explain the
+message,[^ln1-timefob] the system's user is evidently in the process of
+editing a sentence and about to correct the nonsensical FOB into a FOR.
+Engelbart writes, "One of the potentially most promising means for delivering
+and receiving information to and from digital computers involves the display
+of computer outputs as visual representation on a cathode ray tube and the
+alternation of the display by human operator in order to deliver instructions
+to the computer" [@engelbart_x-y_1970].
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
 [@engelbart_x-y_1970].](images/engel.png)
