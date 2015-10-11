@@ -944,9 +944,9 @@ experiments a little with using structural decomposition
 of a complex sentence.]
 ```
 
-A deconstruction indeed follows, as the author begins to deviate from the
-conventions of the technical report. The numbered passages, and unexpected
-enjambment, heightens the staccato quality of the prose, which at times reaches
+A decomposition follows indeed, as the author deviates dramatically from the
+conventions of a technical report. Numbered passages along with unexpected
+enjambment heighten the staccato quality of the prose, which at times reaches
 towards the lyric:
 
 ```
@@ -981,21 +981,23 @@ towards the lyric:
         spirit.
 ```
 
-When input and output coincide in time, as they do on paper, mistakes can be
-costly. The writer must commit to making an inscription and, once made, the
-inscription gains permanence in a way that is difficult to correct. One can
-erase, removing a layer of physical material, or cover up, adding a layer of
-white ink to repair the damage. Engelbart's anonymous writer reports a feeling
-of freedom from such commitment to physical medium. He or she can simply
-"backspace" and start over. The contemporary reader may take such things for
-granted now, but imagine trying to write in that way for the first time.
-Writing "comes easy," becomes "uninhibited," and it "pours out"
-experimentally.  Rather than manipulate language mentally, the writer "pours"
-the words onto the screen and then "selects" the right one, without
-hesitation. The highly hierarchical and blocky paragraph structure, along with
-its repetitive refrain, "finding" and "I find that," gives the prose a
-hypnotic drive forward, which matches the reported experience of liberation.
-Anonymous continues:
+When input and output coincide in time, as they do on paper, mistakes are
+costly. Once inscribed, the sign gains permanence. It is difficult to emend.
+An eraser of some sort can help remove a layer of physical material.
+Alternatively, writers use white ink to restore the surface. Engelbart's
+anonymous subject reports the feeling of freedom from such commitment to a
+physical medium. He or she can simply "backspace" and start over. The previous
+generation of word processors allowed for dynamic erasure, but with the
+introduction of the screen the writer could now follow along and "see" the
+changes in real time. Freed from the immediate commitment to a more permanent
+medium writing "comes easy" and "uninhibited." Instead of carefully selecting
+the right words for the final draft the writer "pours" them all out and then
+"selects" the ones that seem appropriate, without hesitation. The highly
+hierarchical and blocky paragraph structure, along with its repetitive
+refrain, "finding" and "I find that," gives the prose a hypnotic drive
+forward. The cadence matches the reported experience of liberation.
+
+Anonymous continues to report:
 
 ```
     1B4B "I find that,
@@ -1039,21 +1041,40 @@ Anonymous continues:
             peek at what is to come soon.
 ```
 
-The passages are too contrived to be spontaneous admissions of
-phenomenological experience. Despite the experimental structure, the passages
-contain a well-formed rhetorical message advancing key elements of Engelbart's
-research program, which aimed to develop new data structures in combination
-with new ways of displaying them. Yet I cannot help but be carried away by the
-fluency of the prose and by the sheer audacity of the project. Here's someone
-who has not only glimpsed the future, but has also brought it into being. The
-contemporary author can drag and drop passages around with more facility, but
-he has not himself structured his cognitive environment. In Engelbart's terms,
-someone else has augmented the author's intellect, in ways that may or may not
-fit the individual psyche. That feeling of effortless textuality cannot
-therefore be taken at face value, by the unreliable phenomenological accounts
-alone. To bring his system into being, Engelbart convened what he called a
-"bootstrap community," which through recursive self-improvement could lift
-itself up towards a smarter, more efficient, and as the report's lexicon
+The passages appear too contrived to be spontaneous admissions of
+phenomenological experience. Despite their experimental structure, the words
+advance key elements of Engelbart's research program, which aimed to develop
+new data structures in combination with new ways of displaying them. Yet I
+cannot help but be carried away by the fluency of the prose and by the sheer
+audacity of the project. Engelbart's research into intellect augmentation
+creates tools that augment research. In an image that evokes Baron Münchhausen
+pulling himself out of a swamp by his own bootstraps, Engelbart describes the
+methodology employed by his lab as "bootstrapping." Bootstrapping for
+Engelbart involves the recursive strategy of "developing tools and techniques"
+to develop better tools and techniques. The "tangible product" of such an
+activity is "a constantly improving augmentation system for use in developing
+and studying augmentation systems." It is an appealing vision, but only as
+long as it remains recursive. The lab benefits from creating *its own* tools
+and methods. Yet Engelbart also believes that tools and methods emanating from
+his research have a more universal appeal. He hopes that his system "can be
+transferred---as a whole or by pieces of concept, principle and technique---to
+help others develop augmentation systems for many other disciplines and
+activities." Undoubtedly, Engelbart's ideas about intellect augmentation have
+had a broad impact on knowledge work across disciplines. Yet in transferring
+the elements of his designs, Engelbart's vision also loses the property of
+self determination. It no longer involves a community pulling itself out of a
+swamp by its bootstrap. Rather it is augmentation enforced from without,
+adhering to values and principles no longer comprehensible to the thing being
+augmented.
+
+The contemporary author can drag and drop passages around with more facility,
+but he has not himself structured his cognitive environment. In Engelbart's
+terms, someone else has augmented the author's intellect, in ways that may or
+may not fit the individual psyche.  That feeling of effortless textuality
+cannot therefore be taken at face value, by the unreliable phenomenological
+accounts alone. To bring his system into being, Engelbart convened what he
+called a "bootstrap community," which through recursive self-improvement could
+lift itself up towards a smarter, more efficient, and as the report's lexicon
 betrays, a more human way of working. To accomplish this, the group crafted
 novel instruments for input and output. They wrote new programming languages,
 compilers to interpret them, and debuggers to troubleshoot. They invented word
@@ -1083,7 +1104,6 @@ brain-to-brain or brain-to-machine interfaces.
 [^ln1-denning]: These stages correspond roughly to the "three generations of
 electronic computing" outlined in Peter Denning's "theory of operating systems"
 [@denning_third_1971].
-
 
 ## WYSINAWYG (What You See Is Not Always What You Get)
 
@@ -1267,14 +1287,6 @@ his lifelike mechanisms in the mid eighteenth century
 [@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
 upon and popularized Bouchon's looms on an industrial scale around the same
 time.
-
-The "bootstrap group the interesting (recursive) assignment of developing
-tools and techniques to make it more effective at carrying out its assignment.
-Its tangible product is a constantly improving augmentation system for use in
-developing and studying augmentation systems. This system can be
-transferred---as a whole or by pieces of concept, principle and technique---to
-help others develop augmentation systems for many other disciplines and
-activities."
 
 [^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience.
