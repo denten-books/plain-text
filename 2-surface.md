@@ -1276,19 +1276,6 @@ transferred---as a whole or by pieces of concept, principle and technique---to
 help others develop augmentation systems for many other disciplines and
 activities."
 
-For now I ask only: Where does the sign reside? The complexity of the answer
-belies the alienation of the literary condition particular only to pre-modern
-and post-modern societies. The average reader today is privy only to the
-surface phenomena of literacy. To rectify the situation is to acknowledge that
-all strategies of interpretation from simple reading to literary analysis
-continue to rely on an implicit model of semiotics, the shape of the
-inscription, which no longer corresponds to the underlying material reality.
-Not seeing implies not knowing. The condition presents a grave danger to
-communities whose norms and practices that rely on the free flow of
-information between their members. Whatever the political goals, we must also
-become a bootstrapping community, capable of affecting the means of
-intellectual its own intellectual production.
-
 [^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience.
 

@@ -125,6 +125,8 @@ Barbara Smith.
     MEDIA STUDIES:
     DH:
 Unger?
+Drucker
+Neal Stephenson
 
 Write the companion on githubpages + ipython + nbivewer + asciicinema notebook!
 
