@@ -811,13 +811,13 @@ up-to-the moment view of the system's hidden internal state. In practice, the
 machine operator must have trust in the system design to render its internal
 states faithfully. And because system control characters grew from several
 machine instructions in the first decades of the twentieth century to
-complicated and infinitely "Turing-complete" programming languages by the
-1950s, much of the systems internals are habitually hidden from the average
-machine user. For convenience's sake, and later for loftier reasons like
-intellectual rights management and system security, the user is given access
-to partial, simulated representations of machine internals. Such compromise
-informs the system architecture of most consumer devices, from digital cameras
-to mobile phones, and to electronic book readers.
+complicated and infinitely extensible "Turing-complete" programming languages
+by the 1950s, much of the systems internals are habitually hidden from the
+average machine user. For convenience's sake, and later for loftier reasons
+like intellectual rights management and system security, the user is given
+access to partial, simulated representations of machine internals. Such
+compromise informs the system architecture of most consumer devices, from
+digital cameras to mobile phones, and to electronic book readers.
 
 On December 9, 1968 Douglas Engelbart, then founder and primary investigator
 at the NASA- and ARPA-funded Augmentation Research Center lab at the Stanford
@@ -1083,7 +1083,7 @@ electronic computing" outlined in Peter Denning's "theory of operating systems"
 [@denning_third_1971].
 
 
-## Bootstrapping
+## Conclusion
 
 p5
 
@@ -1094,4 +1094,17 @@ developing and studying augmentation systems. This system can be
 transferred---as a whole or by pieces of concept, principle and technique---to
 help others develop augmentation systems for many other disciplines and
 activities."
+
+For now I ask only: Where does the sign reside? The complexity of the answer
+belies the alienation of the literary condition particular only to pre-modern
+and post-modern societies. The average reader today is privy only to the
+surface phenomena of literacy. To rectify the situation is to acknowledge that
+all strategies of interpretation from simple reading to literary analysis
+continue to rely on an implicit model of semiotics, the shape of the
+inscription, which no longer corresponds to the underlying material reality.
+Not seeing implies not knowing. The condition presents a grave danger to
+communities whose norms and practices that rely on the free flow of
+information between their members. Whatever the political goals, we must also
+become a bootstrapping community, capable of affecting the means of
+intellectual its own intellectual production.
 
