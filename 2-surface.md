@@ -1067,35 +1067,41 @@ swamp by its bootstrap. Rather it is augmentation enforced from without,
 adhering to values and principles no longer comprehensible to the thing being
 augmented.
 
-The contemporary author can drag and drop passages around with more facility,
-but he has not himself structured his cognitive environment. In Engelbart's
-terms, someone else has augmented the author's intellect, in ways that may or
-may not fit the individual psyche.  That feeling of effortless textuality
-cannot therefore be taken at face value, by the unreliable phenomenological
-accounts alone. To bring his system into being, Engelbart convened what he
-called a "bootstrap community," which through recursive self-improvement could
-lift itself up towards a smarter, more efficient, and as the report's lexicon
-betrays, a more human way of working. To accomplish this, the group crafted
-novel instruments for input and output. They wrote new programming languages,
-compilers to interpret them, and debuggers to troubleshoot. They invented word
-editors and format control languages. Here's how Engelbart diagrams a *part*
-of his text-manipulation language in the same report:
+Contemporary word processors enable authors to drag and drop passages with
+unprecedented facility. But the authors do not comprise a "bootstrapping
+community" of the kind Engelbart imagined for his own laboratory. The
+contemporary author *is bootstrapped* passively to whatever dominant vision of
+"intellect augmentation." They very discussion about what "intellect
+augmentation" means, passes from view as the tools of augmentation become
+naturalized and commodified.
+
+To bring his system into being, Engelbart convened a bootstrap community which
+through recursive self-improvement could lift itself up towards a smarter,
+more efficient, more human way of doing research. To accomplish their task,
+the group crafted novel instruments for input and output.  They wrote new
+programming languages, compilers to interpret them, and debuggers to
+troubleshoot. They invented word editors and format control languages. Here's
+how Engelbart diagrams a *part* of his text-manipulation language in the same
+report:
 
 !["State--chart portrayal of part of text--manipulation control language"
 [@engelbart_human_1969, 36].](images/engel-edit.png)
 
-The diagram shows much attention to the detail of and love for the writing
-craft. But there is also much complexity. It is near impenetrable. In building
-their own tools, Engelbart's team lifted themselves up by the bootstraps. But
-it was not the machine that lifted them up---it was the process of creating
-the machine. The very metaphor of bootstrapping suggests the impossibility of
-using one's bootstraps to pull others out of the Platonic cave. As a side
-effect of that effort, text, before readily apparent on the page, now enters a
-complex system of executable code and control structure. The perception of
-material lightness of textual being comes at the price of legibility. Would
-new authors find the same ease in the complication of the mechanism? I suspect
-not unless they become an active part of a "bootstrapping community" of their
-own.
+The diagram shows care and love for the craft of writing. But there is also
+complexity. The feeling of transcendence the anonymous author describes in
+using the system engages a sophisticated mechanism. But it was not the
+mechanism that lifted the community up, it was the process of creating it.
+Engaged in a methodical discipline of self-reflection the architects of
+intellect augmentation followed traditional Delphic ideals of self actuation.
+The very metaphor of bootstrapping suggests the impossibility of using one's
+bootstraps to pull others out of the Platonic cave. Engelbart's liberatory
+research program therefore left another less lofty imprint on the everyday
+practice of modern intellectual life. Text, which before the advent of the
+cathode ray was readily apparent on the page in all of its fullness, finally
+entered a complex system of executable code and control structure. The
+material lightness of textual being came at the price of legibility. Would new
+authors find the same ease in the complication of the mechanism? I suspect not
+unless they become an active part of a "bootstrapping community" of their own.
 
 [^ln2-brain]: We will later entertain the (real) possibility of
 non-representational communication, suggested by early experiments in direct
@@ -1107,11 +1113,21 @@ electronic computing" outlined in Peter Denning's "theory of operating systems"
 
 ## WYSINAWYG (What You See Is Not Always What You Get)
 
-In presenting canonical models of document structure, it is my hope to convince
-the reader of the very real and literal sense of depth manufactured into the
-structure of the contemporary Document Object Model. This includes print,
-because even in that mode, publishing practices today rely on some of the same
-machinery described in this chapter.
+In drawing on the pre-history of digital inscription, it is my hope to
+convince the reader of the very literal sense of depth manufactured into the
+structure of contemporary word processing. Even print materials, which seem to
+escape computational complexity, must follow the path of literary production I
+have described above. With few exceptions, every transmitted sign today
+recapitulates the history of simulated semiotics. The inscription is first
+intertwined with code for machine control. It then disappears into an opaque
+storage medium. And finally, it emerges again, as a screen simulation.  In its
+advanced form, the simulation usurps the simulated. As some modes of reading
+and writing pass from use, like the typewriter, aspects of typewriting carry
+forth. The page too may at some point cease to identify a material unit of
+information, while the word processor and the electronic book reader continue
+to simulate digital pages. Similarly, actions like "scrolling a page" contain
+simulated models of physical interaction, like unfolding a scroll, no longer
+palpable to the average user.
 
 The gap between input and output is what gives rise to the ephemeral quality of
 digital text. Temporary storage media located on the way from keyboard to page
