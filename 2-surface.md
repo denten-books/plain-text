@@ -1330,7 +1330,7 @@ screwdriver, a binding needle, or a soldering iron: sharp tools that help to
 pry open and to scrutinize otherwise magical textual black boxes.
 
 Extant models of literary transmission assume movement through passive and
-imitable media. Paper offers the document of record, which, once archived,
+immutable media. Paper offers the document of record, which, once archived,
 does not change its contents. By using forensic techniques like genetic
 criticism, it is therefore possible to reconstruct if not "authorial intent,"
 then at least a trace of the author's hand. In some contexts, we may even
@@ -1370,24 +1370,4 @@ literary--technological encounter. Yet the point of contact is crucial, for it
 is here that the subject seems to disappear, in a compressed moment of time
 that needs to be unpacked with some precision.
 
-[^ln2-gate]: Solid state memory technology, flash memory for example, store
-information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over a
-magnetic surface. Solid state capacitor storage was used in the earliest
-computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage in consumer electronics. In an early
-(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
-and Sze explain: "A structure has been proposed and fabricated in which
-semipermanent charge storage is possible. A floating gate is placed a small
-distance from an electron source. When an appropriately high field is applied
-through an outer gate, the floating gate charges up. The charges are stored
-even after the removal of the charging field due to much lower back transport
-probability [...] Such a device functions as a bistable memory with
-nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
-
-[^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
-5; @nuttall_new_2007, 6-25.
 
