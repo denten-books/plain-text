@@ -1143,7 +1143,7 @@ interpretation intervene to mediate the encounter between reader/writer, and
 text.
 
 The consequences of that intervention are immense. With time, supplemental
-"control characters" designed to format documents fused with programming
+"control characters" designed to format documents fuse with programming
 languages, capable of generalized device control. Technological and legal
 fictions rise to restore a measure of "stickiness" to text in its ephemeral
 form. For example, manufacturers commonly embed digital rights management
@@ -1151,26 +1151,27 @@ circuits into video streaming devices to artificially limit the duplication of
 broadcast material. Similarly, electronic book sellers often prevent readers
 from copying and pasting words on the page. Such measures mimic some of the
 constraints associated with static, paper-and-ink-bound media regimes.
-Essential for the practices of unencumbered critical thought, control
-structures exist in the hidden gap between the two parts of the splintered
-sign. Ultimately, the "control" layer is capable of affecting more than print
-design. It shapes the very structure of interpretation. In the language of the
-Document Object Model, the formatting layer contains the essence of "machine
-control." Long a marginal concept in literary theory, formatting is therefore
-central to the practice of computational hermeneutics. Far from mere
-inconsequential embellishment, formatting governs the interface between meaning
-and matter, thought and page. It has the capability to embellish, to obscure,
-to censor, to govern, and to emend.
 
-The attached documents illustrate my thesis in practice. In the first image the
-reader will find a visual "dotplot" representation of Laurence Sterne's *The
-Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file format. To
-produce the image, I use the Helfman's self-similarity dotplot approach. Dotplots,
-as Helfman explains, "reveal similarity structures in data regardless of format
-and in text and software regardless of language" [@helfman_dotplot_1996]. They
-can be used for authorship identification, plagiarism detection, or to find
-similarity in genetic material. The following, is a simple dotplot from
-Shakespeare:
+Essential for the practices of unencumbered critical thought, control
+structures exist in the gaps between parts of the splintered sign.
+Ultimately, the "control" layer is capable of affecting more than print
+design. It shapes the very structure of interpretation. The seemingly
+innocuous formatting layer contains the essence of machine control. Long a
+marginal concept in literary theory, formatting is therefore central to the
+practice of computational hermeneutics. Far from mere inconsequential
+embellishment, formatting governs the interface between meaning and matter,
+thought and page. It has the capability to embellish, to obscure, to censor,
+to govern, and to emend.
+
+The attached documents illustrate my thesis in practice. In the first image
+the reader will find a visual "dotplot" representation of Laurence Sterne's
+*The Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file
+format. To produce the image, I use the Helfman's self-similarity dotplot
+approach. Dotplots, as Helfman explains, "reveal similarity structures in data
+regardless of format and in text and software regardless of language"
+[@helfman_dotplot_1996]. They can be used for authorship identification,
+plagiarism detection, or to find similarity in genetic material. The
+following, is a simple dotplot from Shakespeare:
 
 +----+---+---+---+----+---+---+
 |    |to |be |or |not |to |be |
@@ -1194,17 +1195,16 @@ When applied to raw, binary data, self-similarity plots can be used to study
 data structures, to identify security threats, and to reverse engineer unknown
 file types. Note that, at this level, we are not observing patterns of meaning
 (as repetition of words or word clusters), but rather structural patterns in
-the underlying bit structure. We cannot tell from the image what these types
-mean, only that they are structured in a particular way. Structure, in this
-sense indicates architecture by human hand. We expect random, encoded or
-encrypted, data to render as undifferentiated patternless noise. Different file
-formats, like the common `.docx` and `.mobi` will therefore leave a
-recognizable signature, even when corrupted. The sparse topography of the
-`.txt` file in the first image indicates a relative paucity in bit types. Plain
-text formats are limited to human-legible UTF-8 or ASCII character sets (used
-to to encode the `.txt` file). The square on the lower right likely represents
-lower case letters, with the other two squares showing capitals and
-punctuation.
+the underlying bit structure. We cannot tell from the image what these
+structures mean, only that they have a particular shape. Structure, in this
+sense, indicates architecture by human hand. We expect random data to render
+into undifferentiated patternless noise. By contrast, file formats, like the
+common `.docx` and `.mobi` files, will leave a recognizable signature, even
+when corrupted. The sparse topography of the `.txt` file in the first image
+indicates a relative paucity in bit types.  Plain text formats are limited to
+human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
+file). The square on the lower right likely represents lower case letters,
+with the other two squares showing capitals and punctuation.
 
 The second image (Fig. 12) shows the same novel encoded into the popular
 Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
