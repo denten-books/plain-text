@@ -1369,5 +1369,3 @@ seem strange at first: to recover the subject in the physical minutiae of the
 literary--technological encounter. Yet the point of contact is crucial, for it
 is here that the subject seems to disappear, in a compressed moment of time
 that needs to be unpacked with some precision.
-
-
