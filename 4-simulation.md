@@ -1105,15 +1105,6 @@ creating one's own time: taking control of prosody, rhythm, meter, and cadence.
 
 [^ln1-ndc]: Also known as the "single current" or "single Morse" system.
 
-[^ln1-bacon]: This volume is also commonly translated as "Of the Dignity and
-Advancement of Learning," following the Spedding edition. The first two books
-of *The Advancement* appeared first in 1605. Together with books 6-9 published
-in Latin in 1623 they are sometimes referred to as "Of the Advancement and
-Proficience of Learning or the Partitions of Sciences," following the Oxford
-1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
-Oxford Collected Works, containing *The Advancement*, is not out at the time of
-my writing this chapter (2015).
-
 [^ln1-murray]: The Australian Donald Murray improved on the Baudot system to
 minimize the amount of "designed to punch as few holes as possible," allotting
 fewer perforations to common English letters (@murray_setting_1905, 567).

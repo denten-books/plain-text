@@ -172,7 +172,7 @@ In the first of these, text structure and machine control lie before us for
 inspection. The second one is mute: a black slate. The last of these belongs
 to what Peter Denning calls the "third generation" of computer systems---an
 assemblage of storage, input, and output technologies that continue to shape
-the contemporary human encounter with text today.[^ln1-denning] These devices
+the contemporary human encounter with text today.[^ln2-denning] These devices
 tell the story of a fracture. Through them, the sign fades from view into an
 arrangement of magnetic charge and floating gate at the site of storage.
 Another phantasmal sign appears at the site of projection.
@@ -184,17 +184,17 @@ Another phantasmal sign appears at the site of projection.
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
 The advent of programmable media---punch cards and ticker tape---coupled
-natural language alphabets with machine control code.[^ln1-loom] Reduced to
-discrete and reliably reproducible alphabets, the so called "natural
-languages" could now be converted into the modulation of electrical signal.
-Language in such a transitive state became more mobile than ever before. It
-could be transmitted efficiently across vast distances. Moreover, the
-mechanization of type introduced new "control" characters into circulation,
-intended to affect machine state changes at a distance. Initially, such state
-changes were simple: "begin transmission," "sound error bell," "start new
-line." With time, these control codes developed into what we now know as a
-programming language. At the turn of the century, the language of people and
-the language of machines entered into the same stream of communications.
+natural language alphabets with machine control code. Reduced to discrete and
+reliably reproducible alphabets, the so called "natural languages" could now
+be converted into the modulation of electrical signal.  Language in such a
+transitive state became more mobile than ever before. It could be transmitted
+efficiently across vast distances. Moreover, the mechanization of type
+introduced new "control" characters into circulation, intended to affect
+machine state changes at a distance. Initially, such state changes were
+simple: "begin transmission," "sound error bell," "start new line." With time,
+these control codes developed into what we now know as a programming language.
+At the turn of the century, the language of people and the language of
+machines entered into the same stream of communications.
 
 As telegraphy spanned national boundaries, agreements were needed to
 standardize conventions for equipment and message encoding
@@ -276,7 +276,7 @@ a piece by means of a music roll. The printing telegraph decoupled the act of
 writing and reading from the act of transmission, similar to the way the
 perforated music roll decouples the act of playing the piano from the
 performance. Using external storage media like ticker tape and punch cards, a
-message could be prepared in advance and "fed" into the mechanism for
+message could be prepared in advance to be "fed" into the mechanism for
 transmission at rates far exceeded the possibilities of hand-operated Morse
 telegraphy. Unlike the Morse alphabet which varied in length, the Baudot in
 particular fixed the length of the encoding to five spaces or "bits." Five
@@ -288,7 +288,7 @@ of five bits represented an individual control character (instead of a
 letter).
 
 The invention of fixed-length ciphers lies in the sixth book of Francis Bacon's
-*De augmentis scientiarum* (*Division of the Sciences*),[^ln1-bacon] an
+*De augmentis scientiarum* (*Division of the Sciences*),[^ln2-bacon] an
 encyclopedic treatise on the "partition of sciences" written in the form of a
 letter to King James in 1623. Book Six of Bacon's systematic account of the
 sciences is dedicated to speech, speaking, writing, grammar (literary and
@@ -309,74 +309,59 @@ as "babbb." "Neither is this a small matter," Bacon wrote:
 > 266].
 
 Writing near two centuries after the advent of the Gutenberg press, Bacon
-perceived the essence of telegraphy: to express and to signify the intentions of
-the human mind at a distance. The Morse and the Baudot codes paved the way for
-the automation of human language. The great proliferation of scripts and
+perceived the essence of telegraphy: to express and to signify the intentions
+of the human mind at a distance. The Morse and the Baudot codes paved the way
+for the automation of human language. The proliferation of scripts and
 alphabets was finally reduced to thirty-two discrete and reproducible
-characters. So regularized, type could be converted into electrical signal, sent
-over great distances, and used to program machines remotely. The price for these
-new affordances given to language was legibility. The translation between human
-alphabet and machine transmittable code required first a cadre of specially
-trained machine operators, and then specialized equipment which automated the
-process of translation itself.
+characters. So regularized, type could be converted into electrical signal,
+sent over great distances, and used to program machines remotely. The price
+for these new affordances given to language was legibility. The translation
+between human alphabet and machine transmittable code required first a cadre
+of specially trained machine operators, and then specialized equipment which
+automated the process of translation itself.
 
-As Bacon's early writings on the language arts suggest, the roots of telegraphy
-lie in cypher-making and cryptography. For this reason, the encoding of human
-languages for machine use was always intimately connected to war-time,
-diplomatic, and otherwise secret communications. The seemingly innocuous problem
-of machine translation was therefore from the beginning intertwined with the
-question of access and legibility: who gets to understand the encoded message
-and when? For example, the Final Protocol to the Telegraph Regulations, ratified
-in Madrid in 1932 by the governments of more than seventy countries including
-Germany, Brazil, Cuba, Egypt, Empire d'Ethiopie, France, Japan, the United
-Kingdom of Great Britain, United States of America, and Union of Soviet
-Socialist Republics, included a special provision delineating the difference
-between transmitting "plain," and "secret" language. The protocols further
-grouped "secret languages" into "code" and "cypher" categories. According to the
-language of the protocol, "plain language" was that "which presents an
+As Bacon's early writings on the language arts suggest, the roots of
+telegraphy lie in cypher-making and cryptography. For this reason, the
+encoding of human languages for machine use was always intimately connected to
+war-time, diplomatic, and otherwise secret communications. The seemingly
+innocuous problem of machine translation was therefore from the beginning
+intertwined with the question of access and legibility: who gets to understand
+the encoded message and when? For example, the Final Protocol to the Telegraph
+Regulations, ratified in Madrid in 1932 by the governments of more than
+seventy countries including Germany, Brazil, Cuba, Egypt, Empire d'Ethiopie,
+France, Japan, the United Kingdom of Great Britain, United States of America,
+and Union of Soviet Socialist Republics, included a special provision
+delineating the difference between transmitting "plain," and "secret"
+language.
+
+The protocols further grouped "secret languages" into "code" and "cypher"
+categories. The protocol defines "plain language" as words which present "an
 intelligible meaning in one or more of the languages authorized for
-international telegraph correspondence, each word and each expression having the
-meaning normally assigned to it in the language to which it belongs"
-[@itu_telegraph_1932, 12]. By contrast, the regulations specified "code
-language" as text "composed either of artificial words, or of real words not
-used in the meaning normally assigned to them in the language to which they
-belong and consequently not forming intelligible phrases" [@itu_telegraph_1932,
-12]. Codes were not permitted to contain more than five characters and were
-charged at 6/10th of the agreed tariff rate. Upon request, the sender of the
-telegram in code language was required to "produce the code from which the text
-or part of the text of the telegram has been compiled" [@itu_telegraph_1932,
-13]. Otherwise, the language was considered to be a secret "cypher," defined as
-"groups or series of Arabic figures with a secret meaning."
+international telegraph correspondence, each word and each expression having
+the meaning normally assigned to it in the language to which it belongs"
+[@itu_telegraph_1932, 12]. By contrast, the regulations defined "code
+language" to mean messages "composed either of artificial words, or of real
+words not used in the meaning normally assigned to them in the language to
+which they belong and consequently not forming intelligible phrases"
+[@itu_telegraph_1932, 12]. Codes were not permitted to contain more than five
+characters and were charged at 6/10th of the agreed tariff rate. Upon request,
+the sender of the telegram in code language was required to "produce the code
+from which the text or part of the text of the telegram has been compiled"
+[@itu_telegraph_1932, 13]. Otherwise, the language was considered to be a
+secret "cypher," defined as "groups or series of Arabic figures with a secret
+meaning." The terms of the convention binded all participants to agree to
+accept and to pass telegrams in plain language through their jurisdictions.
+The undesigned also agreed to let secret communications pass in transit
+through their territory, although they were not obligated to accept or to help
+deliver such messages" [@itu_telegraph_1932, 13].
 
-According to the terms of the convention, all administrations agree to accept
-and to pass telegrams in plain language through their jurisdiction. The
-undesigned agreed also to allow secret communication to pass in transit
-through their territory, although they were allowed also to refuse to admit
-them "both in acceptance and in delivery" [@itu_telegraph_1932, 13].
-
-A number of American patents at the dusk of Morse age attempted to address the
-challenge of illegibility of machine code. Code obscured intended meaning,
-which in international communication had implications for national security.
-But code also presented a barrier to human understanding. It was was difficult
-to encode and to decode without special training. "You must acknowledge that
-this is readable without special training," reads the caption to a schematic
-illustration for a "controller," patented by H.E. Goldberg in 1911. "My
-invention relates to all controllers," Goldberg writes. The object of
-Goldberg's controller was "to provide a mechanism operable by a control sheet
-which is legible to every person having sufficient education to enable him to
-read." Goldberg illustrates his invention in attaching to his patent "a
-control sheet in which the control characters are in the form of the letters
-of the ordinary English alphabet" [@goldberg_controller_1915]. Rather than
-using ticker tape, Goldberg proposed the use of perforations that while
-capable of actuating machine levers also formed letters. To counteract the
-unintelligibility of code, Goldberg imagines using cards, perforated in the
-shape of the English alphabet.  Thus besides carrying human-readable content,
-Goldberg's cards did "double duty" to mechanically manipulate the machine's
-"blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915].  On Goldberg's control sheets, the language of
-machines and the language of humans coincided at one and the same plane.
-
-![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
+Automated writing posed the familiar challenge of secret communications anew,
+both as a matter of political governance and technological affordance. Machine
+code obscured intended meaning. In the context of international
+communications, code languages posed a challenge to national security. But
+code also presented a technical barrier to participation. The act of encoding
+and decoding messages required specialized training, adding cost and reducing
+the potential speed of telegraphy down to the pace of human comprehension.
 
 By the late 1920s the "Morse men" were being replaced with more efficient
 automated devices. By the 1930s, devices variously known as "printer
@@ -386,42 +371,71 @@ telegraphy as the dominant mode of commercial communication. The monthly
 March of 1932 estimates more than a 50 percent drop in the number of Morse
 code operators between the years of 1915 and 1931. Morse operators referred to
 the tele-typists on the sending side as "punchers" and on the receiving side
-as "printer men."[^ln1-printermen] The printer men responsible for assembling
+as "printer men."[^ln2-printermen] The printer men responsible for assembling
 pages from ticker tape were called "pasters" and sometimes, derisively, as
 "paperhangers" [@brackbill_telegraphers_1929]. Where Morse code telegraphy
 required the mediation of a human-operator responsible for translating
 language into code, teletype automated the process entirely. The operator
 could simply enter printed characters into the machine directly, using a
-keyboard similar to the typewriter, by that time widely in business use. The
-teletype would then automatically transcode the input into transmitted signal
-and then back from the signal onto paper on the receiving end. Operators did
-not need to concern themselves with machine code at all. They saw only the
-familiar alphabet letters.
+keyboard similar to the typewriter, by that time widely available in business
+use. The teletype would then automatically transcode the input into
+transmitted signal and then back from the signal onto paper on the receiving
+end. Operators did not need to concern themselves with the particulars of
+machine code at all. The machine control layer of communication began to
+recede out of sight.
 
 With the advent of the automated telegraph, content meant for people was now
 routinely being intermixed with code meant to control machine devices
-remotely.  Such remote control capabilities were used for everything from
+remotely. Such remote control capabilities were used for everything from
 programming radio stations to advertising billboards and knitting machines
 [@hough_wired_1931; @adler_knitting_1933; @casper_remote_1934]. Early
 paper-based storage media, from Morse code-based ticker tape systems, to the
 telegraphs of Hughes and Baudot, and to punch cards that powered weaving
 looms, player pianos, and census tabulators coupled natural language with
-machine control. The concern with the legibility of machine code emerges
+machine control. The concern with the legibility of machine code thus emerges
 during the first few decades of the twentieth century. For the first time in
 the history of writing, the alphanumerical sign splits between human- and
 machine- readable inscription. For a time, the inscription remains visible at
 the surface of the control sheet, as perforated figure, punched through the
 medium.
 
-The era of ticker tape punch cards can be thought to end with the mass-market
-introduction of IBM's Magnetic Tape/Selectric Typewriter in 1964. Magnetic
-storage media further submerges the inscription beneath an inscrutable facade.
+![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
-[^ln1-printermen]: According to the U.S. Department of Labor statistics, women
+"You must acknowledge that this is readable without special training," reads
+the caption to a schematic illustration for a "controller," patented by H.E.
+Goldberg in 1911. "My invention relates to all controllers," Goldberg writes.
+The object of Goldberg's controller was "to provide a mechanism operable by a
+control sheet which is legible to every person having sufficient education to
+enable him to read." Goldberg illustrates his invention in attaching to his
+patent "a control sheet in which the control characters are in the form of the
+letters of the ordinary English alphabet" [@goldberg_controller_1915]. Rather
+than using ticker tape, Goldberg proposed the use of perforations that while
+capable of actuating machine levers also formed letters. To counteract the
+unintelligibility of code, Goldberg imagines using cards, perforated in the
+shape of the English alphabet.  Thus besides carrying human-readable content,
+Goldberg's cards did "double duty" to mechanically manipulate the machine's
+"blocks," "handles," "terminal blades," and "plungers"
+[@goldberg_controller_1915].
+
+On Goldberg's control sheets, the language of machines and the language of
+humans coincided on one and the same plane, but only for a time. Magnetic
+tape, mute and inscrutable, soon replaced punch card and ticker tape as the
+preferred medium for data storage.
+
+[^ln2-printermen]: According to the U.S. Department of Labor statistics, women
 comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
 of automated telegraphy). By 1931 women comprised 64 percent of printer and
 Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
 514].
+
+[^ln2-bacon]: This volume is also commonly translated as "Of the Dignity and
+Advancement of Learning," following the Spedding edition. The first two books
+of *The Advancement* appeared first in 1605. Together with books 6-9 published
+in Latin in 1623 they are sometimes referred to as "Of the Advancement and
+Proficience of Learning or the Partitions of Sciences," following the Oxford
+1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
+Oxford Collected Works, containing *The Advancement*, is not out at the time of
+my writing this chapter (2015).
 
 ## B. Magnetic Tape (Storage)
 
@@ -453,18 +467,16 @@ Magnetic tape changed the nature of the commitment between inscription and
 medium. It gave a temporary home to the word, where the word could be changed
 and manipulated before committing to paper. A typist using the new generation
 of magnetically-enabled devices could manipulate words "in memory," on a
-medium that could be easily erased and rewritten. The magnetic charge adheres
-lightly to the tape surface. The "light touch" of the magnetic inscription
-gave the word its ephemeral quality. But it was also light enough as to be
-nearly imperceptible. In applications like law and banking, where the fidelity
+medium that could be easily erased and rewritten. The magnetic charge adhered
+lightly to tape surface. The "light touch" of the magnetic inscription gave
+the word its ephemeral quality. But it was also light enough as to be nearly
+imperceptible. In applications like law and banking, where the fidelity
 between input, storage, and output were absolutely crucial, the illegible
-property of magnetic storage posed a significant engineering challenge. In
-this section, I would like to describe a few devices that attempted to address
-the problem of illegibility. After the advent of teletype, but before the
-screen, the creators of these machines used a variety of strategies to restore
-a measure of congruence between visible paper inscription and the invisible
-magnetic representation. Legibility, as these devices show, was one of the
-problems driving innovation.
+property of magnetic storage posed a significant engineering challenge. After
+the advent of teletype, but before the screen, machine-makers employed a
+variety of mechanisms to restore a measure of congruence between invisible
+magnetic inscription and visible paper representation. The reader will
+encounter several such devices here, in this section.
 
 The principles of magnetic recording were developed by Oberlin Smith (among
 others), the American engineer who also filed several inventions related to
@@ -527,7 +539,7 @@ the podcast and the audio book, Fankhauser imagines "tired and jaded" workers
 who "sooth themselves into a state of restfulness" by listening to their
 favorite authors. Poulsen's "electric writing" will finally emerge "as clear
 and as distinct as the writing by hand, an absolutely legal and conclusive
-record," Fankhauser concluded [@fankhauser_telegraphone_1909, 41].
+record," Fankhauser concludes [@fankhauser_telegraphone_1909, 41].
 
 In the first decade of the twentieth century, Fankhauser imagined magnetic
 storage as an audio format, combining the best of telegraphy and telephony in
@@ -568,15 +580,17 @@ eight slow "external storage" tape-read mechanisms. Tape was slower than drums
 but cheaper and easily extensible to multiple reels, answering the ideals of
 the Turing device, which called for "infinite tape." In practice, the tape was
 not infinite, but merely long enough to answer the needs of military
-computation. Unlike the drums, the tape was easily removable. Operators could
-prepare tape in advance at the alloted Instructional Tape Preparation Table.
-The information on tape would then be transferred to a slow moving drum and
-transferred again to the fast-moving internal drum for data calculation,
-machine sequencing, and control. Mark III was further equipped with five
-printers "for presenting computed results in a form suitable for publication."
-The printers were capable of determining the "number of digits to be printed,
-the intercolumnar and interlinear spacing, and other items related to the
-typography of the printed page" [@staff_description_1952, 1-40].
+computation. By contrast to stationary drums built into the machine, tape was
+portable. Operators could prepare tape in advance, in a different room, at the
+alloted Instructional Tape Preparation Table. The information on tape would
+then be transferred to a slow moving magnetic drum, and, when the two drums
+matched in speed, transferred again to the fast-moving internal drum for data
+calculation, machine sequencing, and control. Mark III was further equipped
+with five printers "for presenting computed results in a form suitable for
+publication." The printers were capable of determining the "number of digits
+to be printed, the intercolumnar and interlinear spacing, and other items
+related to the typography of the printed page" [@staff_description_1952,
+1-40].
 
 Data was recorded on tape using binary numerical notation. To enter the number
 onto tape, the operator sat at the "numerical tape preparation table," another
@@ -591,9 +605,9 @@ the operator would have to reenter the mismatched digits
 results" the operator could use one of the five attached Underwood Electric
 teletypes to print all of the tape's columns and confirm visually.
 
-I cover significant technical detail throughout to make sure that the
-contemporary reader understands what I describe as the "splitting of the sign"
-or the "multiple locations of the inscription" not as a metaphor, but
+I cover significant technical detail throughout the chapter to make sure that
+the contemporary reader understands what I describe as the "splitting of the
+sign" or the "multiple locations of the inscription" not as a metaphor, but
 literally. Where the typewriter or the whole punch transfered the inscription
 from keyboard to paper directly, at the stroke of hammer and key, early
 electromagnetic devices compounded the inscription across multiple surfaces.
@@ -601,19 +615,20 @@ The movement of the computed sign necessitated manifold "phase transitions"
 between media: from one channel of the tape to another, from tape to drum,
 from a slow drum to a fast one, and from drum and tape to paper. Where before,
 on ticker tape, the inscription remained visible, at least before it entered
-the wires as electrical signal, it now disappeared from view soon after the
-key press. Submerged under magnetic surface inscriptions multiply, diffuse,
-and resist direct observation. The computed sign undergoes a number of changes
-in the process of displacement in time and in space. Using Mark III or similar
-tape-driven devices an operator could prepare tape today, process it tomorrow,
-derive the necessary calculations and transmit them the day after. The
-diffusion of the inscription from one medium to another, from one format into
-another in effect constitutes what we mean by the "processing" part of "word
-processing." Telegraphy forever entwined symbol and machine control. Magnetic
-storage made the new compound figure invisible.
+the wires as electrical signal, it now disappeared from view soon after key
+press. Submerged under magnetic surface inscriptions multiply, diffuse, and
+resist direct observation. The computed sign undergoes a number of changes in
+the process of displacement in time and in space. When using the Mark III or
+similar tape-driven devices an operator could prepare tape today, process it
+tomorrow, derive the necessary calculations and transmit them the day after.
+The diffusion of the inscription from one medium to another, from one format
+into another in effect constitutes what we mean by the "processing" part of
+"word processing." Telegraphy forever entwined symbol and machine control.
+Magnetic storage further stretched the inscription across multiple recording
+surfaces, concealing it in the process.
 
-The potential incongruence between invisible data storage and its apparent
-representation was a key problem in the decades preceding the advent of screen
+The potential incongruence between covert data storage and its apparent
+representation posed a problem in the decades preceding the advent of screen
 simulation. In a patent filed in 1954 on the behalf of the Borroughs
 Corporation of Detroit, Michigan Herman Epstein and Frank Innes describe an
 "electrographic printer," involving an "electrical method and apparatus for
@@ -636,22 +651,28 @@ Epstein and Innes
 Advances in magnetic storage in the field of audio recording and in
 supercomputer applications like the Mark III found their way into the business
 and home offices a decade later, in the 1960s. In 1964, IBM combined magnetic
-tape storage with its *Selectric* line of electric typewriters, introducing
-the Magnetic Tape Selectric (MT/ST) line of typewriters to the mass market.
-Writing for the *Encyclopedia of Library and Information Science* in 1992,
-Daniel Eisenberg mentions the MT/ST as one of the first word processors,
-defined by the ability to record strokes and to print them onto paper as a
-separate operation [@eisenberg_word_1992]. Built on a simpler architecture
-than its supercomputer cousins, the MT/ST used a single tape read and write
-mechanism. An advertisement in the American Bar Association circa 1968 calls
-it the $10,000 typewriter that is "worth every penny." Before, the typist
-would have to stop and erase every mistake, the copy reads. But with IBM MT/ST
-it is possible to to "backspace, retype, and keep going." The mistake is
-changed on magnetic tape, "where all typing is recorded and played back
-correctly at incredible speed" [@association_aba_1966, 998]. But just as it
-was with the Mark III, information stored on the magnetic tape was absolutely
-invisible to the typist. At the time, the only way to verify the magnetic
-inscription was to print it out.
+tape storage with its *Selectric* line of electric typewriters. The Selectric
+typewriter is notable because it was one of the first typewriters to transform
+the mechanical action of the keyboard into binary electric signal. For this
+reason, it could serve as an input device for a variety of early computing
+platforms. Combined with magnetic tape storage into the MT/ST unit, the
+Selectric typewriter become one of the first true word processors
+[@eisenberg_word_1992]. Word processing, in contemporary sense, identifies the
+ability to record strokes and to print them onto paper in separate stages.
+Temporary magnetic media storage is what enabled the gap between input and
+output.
+
+Built on a simpler architecture than its supercomputer cousins, the MT/ST used
+a single tape read and write mechanism. An advertisement in the American Bar
+Association circa 1968 calls it the $10,000 typewriter that is "worth every
+penny." Before, the typist would have to stop and erase every mistake, the
+copy reads. But with IBM MT/ST it is possible to to "backspace, retype, and
+keep going." The mistake is changed on magnetic tape, "where all typing is
+recorded and played back correctly at incredible speed"
+[@association_aba_1966, 998]. But just as it was with the Mark III,
+information stored on the magnetic tape was absolutely invisible to the
+typist. At the time, the only way to verify the magnetic inscription was to
+print it out.
 
 What was gained in the freeing of text from the confines of immutable media
 like ink and paper, was gotten at the price of legibility. Encoding used by
@@ -710,18 +731,43 @@ line twice: "one rough typing to determine what a line would contain, and a
 second justified typing" [@morgan_ibm_1968, 69]. After the "first typing," an
 indicator mechanism helped the operator calculate the variable spacing needed
 to achieve paragraph justification. The formatting and content of each line
-thus required separate input passes to achieve the desired result. IBM's
-Magnetic Tape Selectric Composer (MT/SC) combined the typing capabilities of
-the Selectric line of typewriters, magnetic tape from the MT/ST line, and the
-formatting capabilities of the Composer. Rather than having the operator type
-each line twice, the MT/SC system printed the entered text twice: once on the
-"input station printout" which showed both the content and the control codes
-printed in red ink, and the second time as the final "Composer output"
-printout, which presented the final typeset copy. The output operator would
-still have to intervene manually, however, to make decisions about paper
-loading, type font changes, and hyphenation decisions. What was once a
-monolithic unit on the page was thereby systematically separated into several
-distinct layers in the process of decomposition and composition.
+thus required separate input passes to achieve the desired result.
+
++-------------------+---------------+-------------------------------+
+|  Model            | Year          | Technologies                  |
++===================+===============+===============================+
+| Selectric         |               | - electric                    |
+| Typewriter        | 1961          | - binary code                 |
+|                   |               | - replaceable font element    |
++-------------------+---------------+-------------------------------+
+| MT/ST             | 1964          | - magnetic tape               |
+|                   |               | - Selectric typewriter        |
++-------------------+---------------+-------------------------------+
+| Selectric         | 1966          | - justification               |
+| Composer          |               | - spacing                     |
+|                   |               | - typesetting                 |
++-------------------+---------------+-------------------------------+
+| MT/SC             | 1968          | - magnetic tape               |
+|                   |               | - Selectric typewriter        |
+|                   |               | - Composer                    |
++-------------------+---------------+-------------------------------+
+| MC/ST             | 1969          | - magnetic card               |
+|                   |               | - Selectric typewriter        |
++-------------------+---------------+-------------------------------+
+
+Table: Generations of IBM Selectric line of word processors.
+
+IBM's Magnetic Tape Selectric Composer (MT/SC) combined the typing
+capabilities of the Selectric line of typewriters, magnetic tape from the
+MT/ST line, and the formatting capabilities of the Composer. Rather than
+having the operator type each line twice, the MT/SC system printed the entered
+text twice: once on the "input station printout" which showed both the content
+and the control codes printed in red ink, and the second time as the final
+"Composer output" printout, which presented the final typeset copy. The output
+operator would still have to intervene manually, however, to make decisions
+about paper loading, type font changes, and hyphenation decisions. What was
+once a monolithic unit on the page was thereby systematically separated into
+several distinct layers in the process of composition and decomposition.
 
 Like other devices of this generation, the IBM MT/SC suffered from the problem
 of invisible storage. Error checking on paper via multiple printouts was aided
@@ -734,41 +780,70 @@ stored serially, as one long column of codes, on a magnetic card the spatial
 relation between elements could be preserved. The 1968 patent for "Data
 Reading, Recording, and Positioning System" describes a method for arranging
 information on such a card "recording and playback system which accurately
-positions each character recorded relative to each previous character recorded
-[@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage units
-into its  Selectric Composer line of word processors. Fredrick May, whose name
-often appears on word processing related patents form this period, would later
-reflect on magnetic cards, writing that a "major reason for the choice of a
-magnetic card for the recording of medium was the simple relationship that
-could be maintained between a typed page and a recorded card" [@may_ibm_1981,
-743]. The card could be thought of as a miniature page, making the magnetic
-card a "unit of record of storage of a typed page" [@may_ibm_1981, 743].
+positions each character recorded relative to each previous character
+recorded" [@clancy_data_1970, 1]. In 1969 IBM introduced magnetic card storage
+units into its Selectric Composer line of word processors. Fredrick May, whose
+name often appears on word processing related patents form this period, would
+later reflect on magnetic cards, writing that a "major reason for the choice
+of a magnetic card for the recording of medium was the simple relationship
+that could be maintained between a typed page and a recorded card"
+[@may_ibm_1981, 743]. The card could be thought of as a miniature page, making
+the magnetic card a "unit of record of storage of a typed page"
+[@may_ibm_1981, 743].
 
 ![IBM Mag Card II, introduced in 1969 for use in the Magnetic Card/Selectric
 Typewriter (MC/ST) in 1969. "A simple relationship could be maintained between
-a typed page and a recorded card" [@may_ibm_1981, 744].  Image by Pointillist
+a typed page and a recorded card" [@may_ibm_1981, 744]. Image by Pointillist
 under GNU Free Documentation License, Version 1.2.](images/ibm-card.png)
 
-Despite these improvements, the card remained an opaque slate. Speaking at the
-1967 symposium on electronic composition in printing, Jon Haley, staff
-director of the Congressional Joint Committee on printing, put it this way:
-"compromises with legibility [...] had been made for the sake of pure speed in
-composition and dissemination of the end product [@technology_electronic_1967,
-48]. The automation of type made the word faster. The magnetic storage made it
-lighter and more compact. It allowed for processing before commitment to a
-paper medium. But these gains were made at the cost of legibility. The move to
+The Mag Card soon passed from use due to its limited storage capabilities and
+a capricious feeding mechanism. The card offered a measure of topographic
+similarity between page and stored signal. Yet, like all magnetic media it
+remained resistant to direct observation. Speaking at the 1967 symposium on
+electronic composition in printing, Jon Haley, staff director of the
+Congressional Joint Committee on printing, put it this way: "compromises with
+legibility [...] had been made for the sake of pure speed in composition and
+dissemination of the end product [@technology_electronic_1967, 48]. The
+automation of type made the word faster. The magnetic storage made it lighter
+and more compact. It allowed for processing before commitment to a paper
+medium. But these gains were made at the cost of legibility. The move to
 magnetic and later solid state storage media would have tremendous social and
-political consequences for the republic of letters. Magnetic storage reduces
+political consequences for the republic of letters. Magnetic storage reduced
 the costs of copying, in a sense freeing the word from its more permanent
 material confines, creating the illusion of ephemerality. Yet, the material
-properties of magnetic tape itself prevent direct access. They separate
-readers into those able to effect the mixture of content and control that
-shapes the literary encounter and those who observe passively, at the
+properties of magnetic tape itself continued to prevent direct access. They
+separated readers into those able to effect the mixture of content and control
+that shapes the literary encounter and those who observed passively, at the
 shimmering surface of archival projection.
 
 [^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
 truckloads of punched cards being transported from one center to another in
 Italy."
+
+[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+@ohmori_memory_2015.
+
+[^ln2-loom]: These dates, as is usually the case with periodization, are
+somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
+worker Basile Bouchon used "drill paper" to automate industrial drawlooms
+[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
+honors could also go to the brothers Banū Mūsā, ninth-century automata
+inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
+his lifelike mechanisms in the mid eighteenth century
+[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
+upon and popularized Bouchon's looms on an industrial scale around the same
+time.
+
+[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
+since formatting is an important part of the reported experience.
+
+[^ln1-timefob]: The source for the cryptic phrase is likely
+@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
+political campaign, and it was then for the first time that the well known
+sentence was inaugurated,---'Now is the time for all good men to come to the
+aid of the party;' also the opening sentence of the Declaration of
+Independence [...] were repeated many times in order to test the speed of the
+machine."
 
 [^ln2-punch]: "Two means are available for preparing the functional tapes
 required for the operation of the interpolators. First, when the tabular
@@ -863,7 +938,7 @@ Engelbart pictured the "display system" as a workstation that combines a
 typewriter, a CRT screen, and a mouse. The patent schematics show the
 workstation in action, with the words "NOW IS THE TIME FOB" prominently
 displayed on the screen. Although Engelbart does not explain the meaning of
-the message,[^ln1-timefob] the system's user is evidently in the process of
+the message,[^ln2-timefob] the system's user is evidently in the process of
 editing a sentence and about to correct the nonsensical FOB into a FOR.
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
@@ -1111,7 +1186,7 @@ unless they become an active part of a "bootstrapping community" of their own.
 non-representational communication, suggested by early experiments in direct
 brain-to-brain or brain-to-machine interfaces.
 
-[^ln1-denning]: These stages correspond roughly to the "three generations of
+[^ln2-denning]: These stages correspond roughly to the "three generations of
 electronic computing" outlined in Peter Denning's "theory of operating systems"
 [@denning_third_1971].
 

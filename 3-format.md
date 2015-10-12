@@ -956,35 +956,6 @@ parallel texts. Sources consulted on Plato's theory of forms include
 @woods_form_1993. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
 
-[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
-@ohmori_memory_2015.
-
-[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
-truckloads of punched cards being transported from one center to another in
-Italy."
-
-[^ln2-loom]: These dates, as is usually the case with periodization, are
-somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
-worker Basile Bouchon used "drill paper" to automate industrial drawlooms
-[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
-honors could also go to the brothers Banū Mūsā, ninth-century automata
-inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
-his lifelike mechanisms in the mid eighteenth century
-[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
-upon and popularized Bouchon's looms on an industrial scale around the same
-time.
-
-[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
-since formatting is an important part of the reported experience.
-
-[^ln1-timefob]: The source for the cryptic phrase is likely
-@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
-political campaign, and it was then for the first time that the well known
-sentence was inaugurated,---'Now is the time for all good men to come to the
-aid of the party;' also the opening sentence of the Declaration of
-Independence [...] were repeated many times in order to test the speed of the
-machine."
-
 [^ln2-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
