@@ -1,4 +1,4 @@
-# Chapter 2: Surface
+# Chapter 2: Surfaces
 
 `inscription, encoding, legibility`
 
@@ -7,7 +7,7 @@
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
-the floating gate transistor,[^ln1-gate] where my text now lives, can be called
+the floating gate transistor,[^ln2-gate] where my text now lives, can be called
 the enduring ephemeral, I will call my liquid crystal display, where the text
 shows itself, fading persistence. This is not to believe that digital text can
 transcend its material contexts. Only that it seems to drift from surface to
@@ -66,22 +66,22 @@ sites, each entailing drastically differing accordances for reading, writing,
 and interpretation. Were we to untangle the tightly wound coil of the circuit,
 we would find ample distance between the hard drive and the screen. Where
 print is flat, computed text resides at several levels and along multiple
-dimensions [@halyes code is flat].
+dimensions.[^ln2-hayles]
 
 How did this multiplicity come to be? And what effect does it have on the life
-of the mind? The purpose of this chapter is to open space between the visible
-sign and the archived inscription. The structure of textual artifacts---from a
-simple leaflet to a novel in multiple volumes---has remained remarkably stable
-since the invention of movable type. One rarely finds a sentence that spans
-several paragraphs, for example. Nor would a contemporary reader expect to
-find pages of different length in the same tome. Long-standing historical
-conventions guide the production of printed text. Semantic and decorative
-units on a page exist within a strict hierarchy, so familiar to us as to
-become almost invisible. No book of serious non-fiction will be typeset in
-cursive font, for example. But unless something out of the ordinary attracts
-attention, the reader will tend to gloss the "inconsequential" details of
-formatting in favor of content. The material contexts of a well designed book
-fade from view during reading.
+of the mind? The purpose of this chapter is to make visible the gap between
+projected sign and archived inscription. The structure of textual
+artifacts---from a simple leaflet to a novel in multiple volumes---has
+remained remarkably stable since the invention of movable type. One rarely
+finds a sentence that spans several paragraphs, for example. Nor would a
+contemporary reader expect to find pages of different length in the same tome.
+Long-standing historical conventions guide the production of printed text.
+Semantic and decorative units on a page exist within a strict hierarchy, so
+familiar to us as to become almost invisible. No book of serious non-fiction
+will be typeset in cursive font, for example. But unless something out of the
+ordinary attracts attention, the reader will tend to gloss the
+"inconsequential" details of formatting in favor of content. The material
+contexts of a well designed book fade from view during reading.
 
 For a few decades after the advent of magnetic storage media but before screen
 technology, the outward shape of the sign disappeared altogether. It is
@@ -127,7 +127,7 @@ in isolation from one another. The typist would see only elements of the copy;
 the typesetter or the controller only formatting and control codes; and the
 printer only the interpolated results.
 
-!["Block diagram of MT/SC system [@bishop_development_1968, 381].](images/mt-sc.png)
+!["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
 
 Researchers working on these early IBM word processing machines saw the
 separation of print into such distinct strata as one of their major
@@ -137,31 +137,33 @@ from handwriting, to wood engraving, movable type, letterpress, and, finally,
 to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
 printing process in this evolution," he writes. He concludes to say that the
 IBM Composer finally empowers the writer to once again write books "without
-the assistance of specialists" [@frutiger, 10]. Marketing language aside, the
-separation of the sign from its immediate material contexts constituted a
-major milestone in the history of writing and textuality.
+the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
+aside, the separation of the sign from its immediate material contexts
+constituted a major milestone in the history of writing and textuality.
 
 In this chapter, I would like to give a historical account of a letter's
-passage from paper to pixel. The movement proceeds in three stages, as
-illustrated by three specific devices: first the mechanization of type reached
-its apogee in the telegraph at the end of the nineteenth century. With the
-advent of telegraphy, "content" meant for humans began to intertwine with
-"control codes" used to operate machines remotely. Second, where the ticker
-tape and the punch card were still legible without specialized "reader"
-devices, the invention of magnetic tape submerged the mixed stream of letters
-and control codes into an inscrutable substance. Finally, by the mid-twentieth
-century, the screen emerged to simulate a measure of legibility lost in the
-transition.
+passage from paper to pixel. The movement proceeds in three stages:
 
-Where does computed text reside? I offer the following three historical
-preconditions for digital textuality. They are not meant as history, but
-rather as signposts to mark the journey ahead. The schema proceeds roughly as
-follows: first, content and control couple at the visible surface of removable
-storage media (ticker tape and punch card); second, inscription splits into
-input and output, retreating into magnetic storage; to reemerge at third and
-last on the screen in the same guise, but also, as we suspect, somehow
-transformed: less solid and concealing something beneath the phantasmal shell
-of its former appearance.
+1. The mechanization of type reached its apogee in the telegraph at the end of
+the nineteenth century. With the advent of telegraphy, "content" meant for
+humans began to intertwine with "control codes" used to operate machines
+remotely. Content and control couple at the visible surface of programmable
+storage media (ticker tape and punch card).
+
+2. Where the ticker tape and the punch card were legible without specialized
+"reader" devices, the use of magnetic tape submerged the mixed stream of
+letters and control codes into an inscrutable substance. Until the late 1960s,
+machine operators work "blindly," using complicated workarounds to verify
+equivalence between input, storage, and output. Writing involves multiple
+"typings" and reading specialized devices that give access to magnetic
+storage.
+
+3. The addition of Cathode Ray Tube (CRT) displays to the pathway of a sign
+through the computational system restores a measure of legibility lost to
+magnetic storage media. The familiar sign reemerges on the screen, but
+crucially, it now constitutes a simulation of the archived inscription. Typing
+a word on keyboard produces one sort of a structure on tape or disk and
+another on the screen. The two are related but not equivalent.
 
 As we embark to explore the consequences of computed text, I propose we keep
 the following three landmark mechanisms in view as milestones along our
@@ -171,10 +173,11 @@ inspection. The second one is mute: a black slate. The last of these belongs
 to what Peter Denning calls the "third generation" of computer systems---an
 assemblage of storage, input, and output technologies that continue to shape
 the contemporary human encounter with text today.[^ln1-denning] These devices
-tell the story of a fracture.  Through them, a part of the sign fades from
-view into an arrangement of magnetic charge and floating gate at the site of
-the archive. Another part appears at the site of projection in the flicker of
-the cathode ray and the flow of the liquid crystal.
+tell the story of a fracture. Through them, the sign fades from view into an
+arrangement of magnetic charge and floating gate at the site of storage.
+Another phantasmal sign appears at the site of projection.
+
+[^ln2-hayles]: See also @hayles_print_2004.
 
 ## A. Teletype (Input)
 
@@ -479,15 +482,16 @@ mechanical perforation. Tape was more durable than paper; it could fit more
 information per square inch; and, most importantly, it was reusable. "One of
 the important advantages of magnetic recording is that the record may be
 erased if desired, and a new record made in its place," Marvin Camras, a
-physicist with the Armour Research Foundation, wrote in 1948 [@camras, 505].
-At the turn of the century, most of the developments in magnetic storage were
-aimed at sound recording. The use of magnetic medium for the storage of data
-did not take off in earnest until the 1950s [@dee, 1775]. Yet some of the
-early developers of electro-magnetic storage and recording technology already
-conceived of their work as having an impact on knowledge production broadly
-and on the history of the book in particular. Addressing the Franklin
-Institute on December 16th of 1908 Charles Fankhauser, the inventor of the
-electromagnetic "telegraphone," said the following:
+physicist with the Armour Research Foundation, wrote in 1948
+[@camras_magnetic_1948, 505]. At the turn of the century, most of the
+developments in magnetic storage were aimed at sound recording. The use of
+magnetic medium for the storage of data did not take off in earnest until the
+1950s [@dee_magnetic_2008, 1775]. Yet some of the early developers of
+electro-magnetic storage and recording technology already conceived of their
+work as having an impact on knowledge production broadly and on the history of
+the book in particular. Addressing the Franklin Institute on December 16th of
+1908 Charles Fankhauser, the inventor of the electromagnetic "telegraphone,"
+said the following:
 
 > To transport human speech over a distance of one thousand miles is a
 > wonderful achievement. How much more wonderful, then, is the achievement
@@ -644,7 +648,7 @@ it the $10,000 typewriter that is "worth every penny." Before, the typist
 would have to stop and erase every mistake, the copy reads. But with IBM MT/ST
 it is possible to to "backspace, retype, and keep going." The mistake is
 changed on magnetic tape, "where all typing is recorded and played back
-correctly at incredible speed" [@association_aba_1976, 998]. But just as it
+correctly at incredible speed" [@association_aba_1966, 998]. But just as it
 was with the Mark III, information stored on the magnetic tape was absolutely
 invisible to the typist. At the time, the only way to verify the magnetic
 inscription was to print it out.
@@ -692,7 +696,7 @@ outlines" of the underlying magnetic symbol [@youngquist_magnetic_1961, 1].
 
 !["The positioning of a magnetic recording card for visual observation of
 symbols recorded thereon," from [@youngquist_magnetic_1961,
-1]](youngquist.png)
+1]](images/youngquist.png)
 
 Yet the problem remained. Data arrangement along the length of the narrow
 magnetic tape had a fundamentally differing structure from data arranged on a
@@ -749,7 +753,7 @@ Despite these improvements, the card remained an opaque slate. Speaking at the
 1967 symposium on electronic composition in printing, Jon Haley, staff
 director of the Congressional Joint Committee on printing, put it this way:
 "compromises with legibility [...] had been made for the sake of pure speed in
-composition and dissemination of the end product [@technology_electronic_1968,
+composition and dissemination of the end product [@technology_electronic_1967,
 48]. The automation of type made the word faster. The magnetic storage made it
 lighter and more compact. It allowed for processing before commitment to a
 paper medium. But these gains were made at the cost of legibility. The move to
@@ -1290,3 +1294,25 @@ seem strange at first: to recover the subject in the physical minutiae of the
 literary--technological encounter. Yet the point of contact is crucial, for it
 is here that the subject seems to disappear, in a compressed moment of time
 that needs to be unpacked with some precision.
+
+[^ln2-gate]: Solid state memory technology, flash memory for example, store
+information in capacitor "circuit states." This by contrast with
+electromagnetic storage that works by modulating electrical charge over a
+magnetic surface. Solid state capacitor storage was used in the earliest
+computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage in consumer electronics. In an early
+(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
+[^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
+5; @nuttall_new_2007, 6-25.
+
