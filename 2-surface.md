@@ -1261,3 +1261,22 @@ archeology at all layers and sites of the inscription. Close reading, long a
 corner stone of literary analysis, must develop to become the closest possible
 kind of reading.
 
+
+[^ln2-gate]: Solid state memory technology, flash memory for example, store
+information in capacitor "circuit states." This by contrast with
+electromagnetic storage that works by modulating electrical charge over a
+magnetic surface. Solid state capacitor storage was used in the earliest
+computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage in consumer electronics. In an early
+(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+

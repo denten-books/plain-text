@@ -1,5 +1,37 @@
 # Chapter 3: Format
-`form, format, formula, representation`
+`form, format, formula`
+
+> Il faut nous laver de la littérature. Nous voulons être hommes avant tout,
+être humains. Il n'y a pas de formes ou de forme. Il n'y a que le
+jaillissement de la vie [@artaud_uvres_1980, 204].
+
+The difference between a restraining order and physical restraints is one of
+brute force. The restraining order represents the calling forth of power. The
+physical restraint is non-representational enactment of power. Like all
+violence it does not stand for anything. It is an arrangement, a
+rearrangement, of matter.
+
+Empty of content, arrangement
+
+Formatting in that sense. Deep dive
+into format.
+
+## Speculative Formalism
+
+Speculative formalism involves imagining structures on the cusp of being. The 
+
+
+The second and more radical idea related to non-representational elements of
+communication lies in the possibility of "direct" brain-to-brain interfaces.
+F16. Joystick that feels. The electrical system we saw emerge in chapters one
+and two can be wired directly in the central nervous system. Not science
+fiction. But note that communication is only direct in the sense that the
+sender and the receiver of such a message do not have recourse to external
+representation. Yet, such communication would still be subject to conditions we
+have already explored in the telegraph chapter. Something has to mediate: to
+translate between brain impulses and the transmission apparatus. Such "direct"
+communication would therefore still be mediated. Can literature survive non
+representation. I want to imagine.
 
 ## Form and Content
 
@@ -791,32 +823,6 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 [@international_organization_for_standardization_writing_1975].
 
 
-## Speculative Formalism: Non-representation
-
-Speculative formalism: imagining structures on the cusp of being.
-In this chapter I would like to consider two ideas related to
-non-representational methods for communication. Order on the level of ideology
-and representation. Ideology as superstructure but submerged and inaccessible.
-
-The deference between a restraining order and physical restraints. The
-order stands for something. The restraints enact the symbol. They do not stand
-for restraint, they *are* restraint. Formatting in that sense. Deep dive into
-format.
-
-The second and more radical idea related to non-representational elements of
-communication lies in the possibility of "direct" brain-to-brain interfaces.
-F16. Joystick that feels. The electrical system we saw emerge in chapters one
-and two can be wired directly in the central nervous system. Not science
-fiction. But note that communication is only direct in the sense that the
-sender and the receiver of such a message do not have recourse to external
-representation. Yet, such communication would still be subject to conditions we
-have already explored in the telegraph chapter. Something has to mediate: to
-translate between brain impulses and the transmission apparatus. Such "direct"
-communication would therefore still be mediated. Can literature survive non
-representation. I want to imagine.
-
-
-
 ## Code Injection
 
 Essential for the practices of unencumbered critical thought, control
@@ -1060,28 +1066,9 @@ ground, but, in relation to all other commodities, it stands on its head, and
 evolves out of its wooden brain grotesque ideas, far more wonderful than
 'table-turning' ever was" (320). See also @engels_ludwig_1941: "Thereby the
 dialectic of the concept itself became merely the conscious reflex of the
-dialectical motion of the real world and the dialectic of Hegel was placed upon
-its head; or rather, turned off its head, on which it was standing before, and
-placed on its feet again" (44).
-p5
-
-[^ln2-gate]: Solid state memory technology, flash memory for example, store
-information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over a
-magnetic surface. Solid state capacitor storage was used in the earliest
-computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage in consumer electronics. In an early
-(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
-and Sze explain: "A structure has been proposed and fabricated in which
-semipermanent charge storage is possible. A floating gate is placed a small
-distance from an electron source. When an appropriately high field is applied
-through an outer gate, the floating gate charges up. The charges are stored
-even after the removal of the charging field due to much lower back transport
-probability [...] Such a device functions as a bistable memory with
-nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+dialectical motion of the real world and the dialectic of Hegel was placed
+upon its head; or rather, turned off its head, on which it was standing
+before, and placed on its feet again" (44).  p5
 
 [^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
 5; @nuttall_new_2007, 6-25.
