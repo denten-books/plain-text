@@ -1273,7 +1273,6 @@ archeology at all layers and sites of the inscription. Close reading, long a
 corner stone of literary analysis, must develop to become the closest possible
 kind of reading.
 
-
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with
 electromagnetic storage that works by modulating electrical charge over a

@@ -1,39 +1,19 @@
 # Chapter 3: Projection
 
-`simulation, time, projection`
+`metaphor, simulation, digital`
 
-## 3.1 Metaphor Machine
-
-Reading Jean Baudrillard at the end of the century prior, I understood his
-writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Computer, the ultimate metaphor
-machine, mediates experience ubiquitously. It interjects in simple everyday
-acts from drinking coffee in the morning, through brewing and payment systems,
-to going to bed as alarm clock and night activity monitor.
-
-Baudrillard writes:
-
-> At the limit of an always increasing elimination of references and
-> finalities, an ever-increasing loss of resemblances and designations, we
-> find the digital and programmatic sign, whose "value" is purely *tactical*,
-> at the intersection of other signals ("bits" of information/tests) whose
-> structure is that of a micromolecular code of command and control
-> [@baudrillard_selected_1988, 139-140].
-
-Wittgenstein: pretending to read. Pretending to understand. Turing's answer
-the imitation game.
-
-Realizing desktop metaphors on a computer
-20140091134A1
-
-John Carrol on Metaphor and the Cognitive Representation of Computer systems
-
-
-The metaphor machine: A database method for creativity support
-Author links open the overlay panel. Numbers correspond to the affiliation
-list which can be exposed by using the show more link.
-Lawrence F Young
+To grasp the peculiarity of the computed sign stretched between the sites of
+archive and projection we will have to build a shared sense of vocabulary,
+which includes terms both technical and literary critical. The following three
+chapters trace the passage of the inscription, beginning with its apparent,
+outward shape on the screen. The screen has this one major peculiarity: it
+refreshes itself multiple times per second. Thus even things that appear to
+stand still are in reality animated. Instead of an immutable sign as it would
+appear in stone or on paper, we are observing the sign in motion. To refer to
+the "illusion" of digital textuality is therefore to identify a key property
+of projection. To place text to the screen is to bring it closer to the moving
+image. But what does it mean to parse seemingly static words from a
+fundamentally dynamic medium? In this chapter,
 
 ## 3.2 Digital Wake
 
@@ -1170,4 +1150,37 @@ language of disruption, the history of computational symbolism, of the sort I
 am suggesting here, must be seen as an evolutionary trajectory.
 
 
-## Literature Down to the Pixel
+
+## 3.1 Metaphor Machine
+
+Reading Jean Baudrillard at the end of the century prior, I understood his
+writing on simulacra in relationship to ersatz entertainment: amusement parks,
+virtual reality, reality television, and the like. I am only now beginning to
+comprehend the extent of the simulation. Computer, the ultimate metaphor
+machine, mediates experience ubiquitously. It interjects in simple everyday
+acts from drinking coffee in the morning, through brewing and payment systems,
+to going to bed as alarm clock and night activity monitor.
+
+Baudrillard writes:
+
+> At the limit of an always increasing elimination of references and
+> finalities, an ever-increasing loss of resemblances and designations, we
+> find the digital and programmatic sign, whose "value" is purely *tactical*,
+> at the intersection of other signals ("bits" of information/tests) whose
+> structure is that of a micromolecular code of command and control
+> [@baudrillard_selected_1988, 139-140].
+
+Wittgenstein: pretending to read. Pretending to understand. Turing's answer
+the imitation game.
+
+Realizing desktop metaphors on a computer
+20140091134A1
+
+John Carrol on Metaphor and the Cognitive Representation of Computer systems
+
+
+The metaphor machine: A database method for creativity support
+Author links open the overlay panel. Numbers correspond to the affiliation
+list which can be exposed by using the show more link.
+Lawrence F Young
+

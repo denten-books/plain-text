@@ -35,8 +35,7 @@ representation. I want to imagine.
 
 ## Form and Content
 
-To grasp the peculiarity of the computed sign stretched between the sites of
-archive and projection, we will have to revisit the language of formalism. A
+A
 treatment of theoretical terms will lead us to the reconstruction of a critical
 moment in the material history of literary technology. As I will argue in this
 chapter, the middle of the twentieth century saw the birth of a new formalism,
