@@ -1,21 +1,55 @@
 # Chapter 3: Projection
 
-`metaphor, simulation, digital`
+`digital, medium, mode`
 
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared sense of vocabulary,
 which includes terms both technical and literary critical. The following three
-chapters trace the passage of the inscription, beginning with its apparent,
-outward shape on the screen. The screen has this one major peculiarity: it
-refreshes itself multiple times per second. Thus even things that appear to
-stand still are in reality animated. Instead of an immutable sign as it would
-appear in stone or on paper, we are observing the sign in motion. To refer to
-the "illusion" of digital textuality is therefore to identify a key property
-of projection. To place text to the screen is to bring it closer to the moving
-image. But what does it mean to parse seemingly static words from a
-fundamentally dynamic medium? In this chapter,
+chapters trace the passage of the inscription through the computational
+device, beginning with its apparent, outward shape on the screen. The screen
+has this one major peculiarity: it refreshes itself multiple times per second.
+Thus even those shapes that appear to stand still on the screen move in the
+realm beyond the threshold of human perception. We are vaguely aware of this
+movement: it is commonly visible when a screen appears on another screen, as
+it does in documentary films that show someone in the process of typing at the
+computer terminal or watching television. The difference in the flicker rates
+between the projector showing the image and the projector "in the frame" is
+what produces the characteristic horizontal interference pattern. The illusion
+of motion is key to understanding the mechanics of cinema, but what does it
+mean to perceive seemingly static words against the background of a
+fundamentally dynamic medium?  Instead of a static and immutable sign etched
+in stone or on paper, we observe the sign in motion. To refer to the
+"illusion" of digital textuality is therefore to identify a key property of
+projection. To place text on the screen is to bring it closer to the moving
+image.
 
-## 3.2 Digital Wake
+In this chapter, I bring archival material---blueprints, phenomenological
+accounts, and debates the philosophy of aesthetics---to bare on the question
+of projection. The nature of "digital" experience, as I will argue, depends on
+some notion of "natural" and "analog" mode of human perception. The change of
+*medium*, from paper to pixel, entails a corresponding change in the *mode* of
+perception. The projection "attunes" if you will the viewer to the message.
+By attunement I mean something analogous to what Marcel Mauss called the
+"techniques of the body" [@mauss_techniques_2006, 78]: the way in which we sit
+for example, the position of the hands, the head, or the movement of the eyes.
+The mode structures experience, not the what, but the how. Initially, we must
+simply know how to perceive: to look, to smell, or to listen. The modality
+tells us the register of the message. Where to look for it and how to identify
+the signifying elements. In refined arts it goes further to more strictly
+govern the techniques of perception: you must neither speak nor cough during a
+classical recital, for example. You can look but not touch artwork in a
+museum. As these examples show, the modality of communication ultimately
+constitutes a corporeal technique. It governs the body. And for this reason
+the change in modalities must always be perceived as a claim on the body. In
+this lies the ultimate difference between analog and digital media. The shift
+from one to the other affects not the message but the mode of perception. It
+is as if someone has asked you to read a book or to watch a film in an
+unfamiliar and uncomfortable chair. The mode of digital perception similarly
+contorts the body into new and unfamiliar shapes. I begin then with popular
+intuition about the digital which lead us to the technical particulates of the
+projection and finally to aesthetics of perception.
+
+## Digital Wake (My Two Terminators)
 
 What does the digital look like? It looks blue for one---not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -114,7 +148,7 @@ distinct literary activity. Like literature in the aesthetic realm, these are
 systems that propagate localized notions of document, style, authorship, value,
 and canon.
 
-## 3.3 Motion Blur
+## Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -250,29 +284,30 @@ an unevenly sampled landscape of variegated visual topographies, achieving a
 measure of arbitrary synchronicity between human and machine.
 
 Conventional notions of digital being further conflate the discrete nature of
-digital media with human debasement, following the logic by which the perceived
-material impoverishment in one sphere leads to the implied spiritual
-impoverishment in the other.  The sentiment is everywhere in the popular press,
-having deep intellectual roots in the history of thinking about technology.
-Philosophers of technology from Heidegger to Kittler advance a powerful
-"hermeneutics of suspicion" towards mechanization, digitization, and the
-subsequent computability of human experience. To take that tradition seriously
-is to direct hermeneutic suspicion to aspects of digital being that have
-meaningful socio-political consequences.  If, as the case of motion blur
+digital media with human debasement, following the logic by which the
+perceived material impoverishment in one sphere leads to the implied spiritual
+impoverishment in the other.  The sentiment is everywhere in the popular
+press, having deep intellectual roots in the history of thinking about
+technology.  Philosophers of technology from Heidegger to Kittler advance a
+powerful "hermeneutics of suspicion" towards mechanization, digitization, and
+the subsequent computability of human experience. To take that tradition
+seriously is to direct hermeneutic suspicion to aspects of digital being that
+have meaningful socio-political consequences.  If, as the case of motion blur
 suggests, human experience is already and always "born digital," that is,
-discrete and differentiated throughout, we must find ways of advancing critique
-along theoretical distinctions that better capture the instrumental reality of
-media practice. Nostalgia for "analog" oneness and continuity should itself
-fall under the critical purview, examined alongside media marketing slogans
-advertising gapless playback and lossless file formats.  Digitality, as I will
-argue for the duration of the book, constitutes a part of the human condition
-worthy of conservation. But, what I mean by "digital being" relates to the
-practice of buying "digital cameras" or to promoting the "digital humanities"
-in name only. To perceive what is at stake, we must do much more to
-disambiguate digital cognates: electronic, binary, and computational.
+discrete and differentiated throughout, we must find ways of advancing
+critique along theoretical distinctions that better capture the instrumental
+reality of media practice. Nostalgia for "analog" oneness and continuity
+should itself fall under the critical gaze, examined alongside media marketing
+slogans advertising gapless playback and lossless file formats. Digitality, as
+I will argue for the duration of the book, constitutes a part of the human
+condition worthy of conservation. But, what I mean by "digital being" relates
+to the practice of buying "digital cameras" or to promoting the "digital
+humanities" in name only. To perceive what is at stake, we must do much more
+to disambiguate the digital cognates: electronic, binary, and computational.
 
-## 3.4 We Have Always Been Digital
+## We Have Always Been Digital
 
+Weak transition.
 Let us start with digital representation expressed more formally, as done in
 computer science, aesthetics, and the philosophy of information.
 
@@ -536,18 +571,18 @@ Telegraph*, an anonymous author unfolds normative neoplatonic rhetoric in a
 similar argument on the importance of discrete differentiation:
 
 > Whenever two persons are brought into sympathetic relations, either by
-corporeal contact or through those refined media which pervade the Universe and
-serve as the airy vehicles of thought, they mutually feel the presence of each
-other, while the mind which is gifted with the greater degree of activity and
-power at once becomes the proximate cause and fountain of inspiration to the
-other. Thus from sources superior to ourselves, the very elements of life and
-thought flow into us, and every living thing, according to its nature and
-discrete degree, derives a kind of inspiration from that which is above. In
-order to facilitate the transmission of impressions in this way, the recipient
-must be willing to receive instruction and assume the passive or negative
-relation of a learner; otherwise he will be likely to resist, unconsciously,
-the infusion of foreign impressions and Divine ideas [@brittan_spiritual_1854,
-169].
+> corporeal contact or through those refined media which pervade the Universe
+> and serve as the airy vehicles of thought, they mutually feel the presence
+> of each other, while the mind which is gifted with the greater degree of
+> activity and power at once becomes the proximate cause and fountain of
+> inspiration to the other. Thus from sources superior to ourselves, the very
+> elements of life and thought flow into us, and every living thing, according
+> to its nature and discrete degree, derives a kind of inspiration from that
+> which is above. In order to facilitate the transmission of impressions in
+> this way, the recipient must be willing to receive instruction and assume
+> the passive or negative relation of a learner; otherwise he will be likely
+> to resist, unconsciously, the infusion of foreign impressions and Divine
+> ideas [@brittan_spiritual_1854, 169].
 
 Following Swedenborg, the telegraph spiritualists conceive the discrete quality
 of human experience as essential to the Christian hierarchy of the
@@ -649,7 +684,6 @@ instance, a signboard may extend over 10 feet and 100 years," Murray writes.
 Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
 over half a second and 500 miles" [@murray_setting_1905, 86].
 
-
 [^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
 "systematic logic in the dominant cultural technique," representative of the
 "order of digital signals" [@siegert_cacography_2011, 41]. Although not
@@ -720,8 +754,8 @@ of "meaning" to be sure, but for Uexküll it is enough to maintain that meaning
 arises out of the subject's interaction with its environment. The subject and
 object are brought into what Uexküll calls harmony:
 
-> If the flower were not bee-like  
-> If the bee were not flower-like  
+> If the flower were not bee-like
+> If the bee were not flower-like
 > The harmony would never succeed [@uexkull_foray_2010, 198].
 
 Similarly, the pea and the pea weevil achieve harmony through "meaning
@@ -909,8 +943,7 @@ measuring system" [2].
 
 Heidegger would be good here.
 
-
-
+Media
 ## Multiplexing
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank Halstead
@@ -1038,149 +1071,73 @@ into code from the operation of the machine. A tape containing the message
 could be prepared in advance, fed into the telegraph, and printed in
 human-legible form on the receiving end.
 
-## Turing's *Computing Machinery and Intelligence*
 
-"But if thinking consists only in writing or speaking, why shouldn't a machine
-do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?
-Could it have internal states? "It is a travesty of the truth to say: thinking
-is an activity of our mind, as writing is an activity of the
-hand" [@wittgenstein_philosophical_1974, 17].
+## Medium not the Message (attunement)
 
-Wittgenstein's conversations with Turing about the ways by which physical
-states pass into the symbolic ones and the other way around, prefigure the
-operation of the universal Turing machine. The Turing machine occupies exactly
-the described ambiguous state between symbol and mechanism.
+What matters is that the medium is largely independent from the type of
+information stored on it, and this contrary to Marshall McLuhan infamous "the
+medium is the message" dictum.15 The world itself "medium" is misleading in
+this context. We could for example say that paint is the medium of painting.
+But what about the photograph of a painting? Or its digital reproduction? The
+situation is even more confusing when we begin thinking about music, for
+example. What is the medium for J.S.  Bach's Double Violin Concerto: the
+violin or the music sheet which contains the score? We are on yet more
+precarious terrain when considering hybrid "media," like film or television
+that are comprised of multiple sources and that use multiple modes of
+transmission.  The confusion enters the conversation when we conflate the
+modality of the information (e.g. music, image, text) with the physical
+channel of its transmission (the medium proper). Modality may very well be the
+message. Thus, it may be true that when one plays the violin, the music can be
+said to express itself in musical terms. But not the violin! I could use a
+violin to transmit a picture of an orchestra over a dial-up modem, for
+example. This would only involve the question of how to encode the visual
+information into a state transmittable by the violin (a primarily auditory
+instrument).  The channel of communication—the medium proper—is in fact,
+information-agnostic. That is to say that it has no preference about the
+message being transmitted (nor can it have a preference for anything at all,
+formally speaking—preference being a property we ascribe to objects that are
+at least animate). We could therefore transmit a sonata by playing a violin,
+as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
+peer-to-peer network. In each case, the information transmitted remains more
+or less the same, depending on the quality of your violin playing, the
+fidelity of your speakers, or the compression ratio of your digital encoding.
+It would be wrong too to consider any of these sources as somehow primal, with
+others being something like "mere copies" of the original. We could for
+example, start by composing music on paper. Alternatively, we could first play
+a piece of music and then transcribe it into musical notation. In an extreme
+but perfectly plausible case, we could compose by magnetizing a length of
+ferrous tape first, and only then play the violin to reproduce what we have
+"written." The medium does not know anything about the message. The way in
+which we store, access, and retrieve the encoded information is determined by
+the medium, however. We are the ones being shaped by the media. I do mean this
+rather literally: the stage directions for Krapp's Last Tape would be very
+different were Krapp writing a diary, or browsing his online social networking
+profile, or if he were to embed a memory chip in his brain that was able to
+store and retrieve the same messages from his thirty-nine year-old self as the
+tape-recorder. The actor's body would move differently in each of these
+cases—his senses and his thought would be altered in many subtle ways,
+depending on the channel of communication.
 
-This line of questioning was certainly already familiar to those students of
-Wittgenstein who attended his earlier lectures at Cambridge, and who
-undoubtedly have participated in his reading-related thought experiments.
-Wittgenstein's reading and calculating machines were meant to challenge the
-very notions of reading and calculating.
-
-Turing returned to the problem of machine and human intelligence explicitly
-[@turing_computing_1950]. Here, Turing proposes to reformulate Wittgenstein's
-original question (Can machines think?) into what he calls the "imitation
-game." The format would surely please his former professor: three people---a
-man, a woman, and an interrogator of either sex---would communicate by
-teletype. The object of the game for the interrogator is to determine the
-gender of the individual behind the screen. The object of the game for the
-other two participants is to fool the interrogator. And here is the twist: the
-part of one of the participants (not the interrogator) would be played by a
-machine.
-
-The question "Can a machine think?" becomes then, "Will the interrogator decide
-wrongly as often when the game is played like this as he does when the game is
-played between a man and a woman?" [@turing_computing_1950, 433]. The striking
-transposition of the cognitive activity (thinking) into its functional
-discursive equivalent (misrepresenting one's identity in writing) echoes
-Wittgenstein's playful thought experiments. The machine that thinks is a
-machine that tells tall-tales. On this view, a convincing imitation of thought
-is thought. We would simply not be able to prove otherwise, without peeking
-behind the teletype screen to see who or what is doing the typing. In that
-sense, Turing returns to Wittgenstein's refusal to locate the mark of the
-cognitive within any given organ or activity. Thought is simply that which
-looks (sounds, reads) like thought---it is a game that we play, and a game that
-could conceivably be played by other entities, mechanical or otherwise. For our
-purposes, it is interesting to note that Turing's chat-bot does not simply
-compute or calculate.  It is a literary machine. It does not just imitate human
-logic or speech.  Instead, it imitates (performs!) fibbing. It is able to
-imagine a fictional story about an alternative identity, and ultimately to
-convince its reader of the story's veracity.
-
-In the shift from the cognitive to the discursive, Turing follows the
-trajectory of Wittgenstein's thought experimentation. Moreover, the game is
-tinged with distinctly sexual overtones, and in the context of an
-interrogation. It is a game in which winning means transgressing either one's
-gender or one's species, all the while maintaining a straight face. The
-proposed language game is not simply conversational, it is suspenseful and
-subversive, having the force of a mystery, a detective novel, or a legal
-drama. At one point of the essay Turing answers what he calls "the argument
-from consciousness," quoting one Professor Jefferson in saying that it is not
-"until a machine can write a sonnet or compose a concerto because of thoughts
-and emotions felt, and not by the chance fall of symbols, could we agree that
-machine equals brain---that is, not only write it but know that it had written
-it. No mechanism could feel (and not merely artificially signal, an easy
-contrivance) pleasure at its successes, grieve when its valves fuse, be warmed
-by flattery, be made miserable by its mistakes, be charmed by sex, be angry or
-depressed when it cannot get what it wants" [@turing_computing_1950, 446].
-
-In response Turing scripts the following conversation: 
-
-> Interrogator: In the first line of your sonnet which reads 'Shall I compare
-thee to a summer's day' would not 'a spring day' do as well or better?
-
-> Witness: It would not scan.
-
-> Interrogator: How about 'a winter's day.' That
-would scan all right.
-
-> Witness: Yes, but nobody want to be compared to a
-winter's day.
-
-> Interrogator: Would you say Mr.  Pickwick reminded you of Christmas?
-
-> Witness: In a way.
-
-> Interrogator: Yet Christmas is a winter's day, and I do not think
-Mr. Pickwick would mind the comparison.
-
-> Witness: I don't think you're serious.
-By a winter's day one means a typical winter's day, rather than a special one
-like Christmas [@turing_computing_1950, 447].
-
-Add Plato. Reading is proper internalization. Interpretation is the scanned
-symbol + state of the machine.
-
-Literature as imitation game == mimesis, simulation.
-
-[^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
-Room" experiment [@searle_minds_1980].
-
-[^ln1-enigma]: See the enigmatic fragment on @wittgenstein_remarks_1978, 372.
-
-Tie to the first two chapters. Easy multiplicity of documents.  Digitality as
-something imposed from without or imposed on us! Because the book is different
-it fucks with authenticity.
-
-The possibility of text that reconfigures itself.
-
-
-Although much of contemporary popular discourse on computation speaks the
-language of disruption, the history of computational symbolism, of the sort I
-am suggesting here, must be seen as an evolutionary trajectory.
-
-
-
-## 3.1 Metaphor Machine
-
-Reading Jean Baudrillard at the end of the century prior, I understood his
-writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Computer, the ultimate metaphor
-machine, mediates experience ubiquitously. It interjects in simple everyday
-acts from drinking coffee in the morning, through brewing and payment systems,
-to going to bed as alarm clock and night activity monitor.
-
-Baudrillard writes:
-
-> At the limit of an always increasing elimination of references and
-> finalities, an ever-increasing loss of resemblances and designations, we
-> find the digital and programmatic sign, whose "value" is purely *tactical*,
-> at the intersection of other signals ("bits" of information/tests) whose
-> structure is that of a micromolecular code of command and control
-> [@baudrillard_selected_1988, 139-140].
-
-Wittgenstein: pretending to read. Pretending to understand. Turing's answer
-the imitation game.
-
-Realizing desktop metaphors on a computer
-20140091134A1
-
-John Carrol on Metaphor and the Cognitive Representation of Computer systems
-
-
-The metaphor machine: A database method for creativity support
-Author links open the overlay panel. Numbers correspond to the affiliation
-list which can be exposed by using the show more link.
-Lawrence F Young
+The separation between mode and medium allows us to retain a certain clarity of
+vision in a rather muddled conversation about "media history." Modalities such
+as visual arts, music or literature do not necessarily evolve, in the normative
+sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
+optical linear perspective in 1425. But the normative evolution of art could
+only make sense only against some concrete pragmatic goals, which the aesthetic
+realm lacks by definition. Nothing is gained or lost when the fashion changes
+from square-toed to pointy-toed shoes, and then back again—to use an example
+that would surely please Mr. Krapp. Neither is "better" or "worse" for the
+participants in that sphere of cultural activity. By contrast, the concept of
+the medium does contain some sense of normative valuation, also by definition.
+That is to say that the medium has a job, which is to facilitate the storage,
+the transmission, and the retrieval of information. And there is such a thing
+as doing this job better or more efficiently. More is always better in this
+case: more storage, faster access, more reliable transmission. When the quality
+of the information is not sacrificed, there are no instances were less would be
+preferable by anyone with limited time and resources. For example, I would like
+to be able to read or write faster. I value both of these activities, but my
+time to perform them is limited by my lifespan. Assuming I could gain speed
+without any degradation in clarity or comprehension, and barring any
+psychological ill effects, the idea of more in this case must be a good onto
+itself.
 

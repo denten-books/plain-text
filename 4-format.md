@@ -11,6 +11,8 @@ physical restraint is non-representational enactment of power. Like all
 violence it does not stand for anything. It is an arrangement, a
 rearrangement, of matter.
 
+Formatting as something that structures experience.
+
 Empty of content, arrangement
 
 Formatting in that sense. Deep dive
@@ -822,6 +824,39 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 [@international_organization_for_standardization_writing_1975].
 
 
+
+## 3.1 Metaphor Machine
+
+Reading Jean Baudrillard at the end of the century prior, I understood his
+writing on simulacra in relationship to ersatz entertainment: amusement parks,
+virtual reality, reality television, and the like. I am only now beginning to
+comprehend the extent of the simulation. Computer, the ultimate metaphor
+machine, mediates experience ubiquitously. It interjects in simple everyday
+acts from drinking coffee in the morning, through brewing and payment systems,
+to going to bed as alarm clock and night activity monitor.
+
+Baudrillard writes:
+
+> At the limit of an always increasing elimination of references and
+> finalities, an ever-increasing loss of resemblances and designations, we
+> find the digital and programmatic sign, whose "value" is purely *tactical*,
+> at the intersection of other signals ("bits" of information/tests) whose
+> structure is that of a micromolecular code of command and control
+> [@baudrillard_selected_1988, 139-140].
+
+Wittgenstein: pretending to read. Pretending to understand. Turing's answer
+the imitation game.
+
+Realizing desktop metaphors on a computer
+20140091134A1
+
+John Carrol on Metaphor and the Cognitive Representation of Computer systems
+
+The metaphor machine: A database method for creativity support
+Author links open the overlay panel. Numbers correspond to the affiliation
+list which can be exposed by using the show more link.
+Lawrence F Young
+
 ## Code Injection
 
 Essential for the practices of unencumbered critical thought, control
@@ -1071,3 +1106,4 @@ before, and placed on its feet again" (44).  p5
 
 [^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
 5; @nuttall_new_2007, 6-25.
+
