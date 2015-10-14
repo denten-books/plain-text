@@ -1,8 +1,6 @@
-# Chapter 2: Surfaces
+# Chapter 2: Splitting the Sign
 
 `inscription, encoding, legibility`
-
-## Intro
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen

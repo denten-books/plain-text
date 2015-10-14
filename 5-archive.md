@@ -1,11 +1,10 @@
 # Chapter 4: Archive
 
-Recursive Encounters with Oneself (Solid States of Archival Being)
 
 Documents strongly connected with an idea of user and access. Strongly
 connected with an identity.
 
-## 4.1 Personal Archives
+## 4.1 Recursive Encounters with Oneself (Solid States of Archival Being)
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on

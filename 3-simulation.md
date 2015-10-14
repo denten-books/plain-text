@@ -1,4 +1,4 @@
-# Chapter 4: Literature Down to the Pixel
+# Chapter 3: Projection
 
 `simulation, time, projection`
 
