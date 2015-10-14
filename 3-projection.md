@@ -1,286 +1,41 @@
-# Chapter 4: Literature Down to the Pixel
+# Chapter 3: Projection
 
 `simulation, time, projection`
 
-## Talk here about mediation. Unmediated communication. Non-representational.
-Direct brain to brain.
-
-## Multiplexing
-
-In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank Halstead
-noted that "the practical upper limits of speed will also be limited by the
-ability of some human beings to operate a keyboard, until such time as
-electrical connection be made direct with the receiver's central nervous
-system" [@halstead_genesis_1949, 451].
-
-The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
-by the American Royal E. House, was a capricious machine that relied on a
-tuning mechanism to transmit individual characters. Inspired by the player
-piano, the Hughes telegraph even looked like a piano, complete with a keyboard
-and a rotating drum, commonly used in music boxes. The sending device struck a
-tone which, when transmitted by electrical current, would initiate the rotation
-of a similar drum in the receiving apparatus "at the pleasure of the distant
-operator," in Hughes's words. The length of time between the initial
-synchronization signal and the struck chord corresponded to a letter, which the
-machine then printed to tape using a letter wheel. Hughes referred to the
-device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
-hints at the fragility of the device. The message became impossible to decipher
-should the sending drum and the receiving drum fall out of sync
-[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
-20-21].
-
-Emile Baudot was one of the first engineers to notice that the prevailing Morse
-and Hughes telegraph systems failed to make full use of the time allotted for
-message transmission. The Hughes code in particular made extensive use of long
-silences, which could be condensed to extract more utility from the channel.
-Baudot-type multiplexers made use of synchronized rotating mechanisms both of
-the sending and the receiving end, to distribute units of time among multiple
-operators. Figure 6 shows a scheme for a duplex printing telegraph, for
-example. A single rotation of the synchronization device (known as the
-"distributor") was thereby divided into two units of five segments each, each
-corresponding to a distinct channel of communication. Two operators could
-therefore share the same channel to transmit two different messages.
-
-![Multiple Printing Telegraph, 1905
-[@murray_setting_1905].](images/multiplex.png)
-
-The maintaining of unison became of paramount importance in such multiplexed
-systems. The operators of a time-shared device needed to know when it was their
-turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
-mechanism to indicate turns to individual operators, and in some devices,
-locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
-four operators would engage in an intricate dance of fingers, keys, tappers,
-and signals, synchronized by the rotation of the telegraph distributor.
-
-Synchronization was also needed for Morse code devices, to distinguish
-non-meaning carrying silence (the receiver is turned off) from the
-meaning-carrying one (the receiver pauses to indicate a dot). The receiving
-device needed a measure (duration) of silence to differentiate between "dots"
-and spaces between words, both indicated by silences of different length. But
-if the devices went out of sync, or if communication lagged for some reason,
-the coherence of the message faltered. Sending and receiving machines had to be
-tuned to a cadence of common information exchange. The system of operators,
-transmitters, and receivers, was, in aggregate, tuned to a specific but
-arbitrary rhythm by which certain messages made sense only in particular (also
-arbitrary) units of time. In early telegraphy, these units of time were slower
-than natural human time, enough so for the operator to remain idle. Later
-systems increased the pace to a rhythm beyond natural human abilities of
-comprehension, to a point where human operators could no longer decipher the
-signal without machine assistance. In the language of wiremen, the bugs were
-"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
-
-Several engineering solutions emerged to transcend the limits of human
-information processing. The automated printing telegraph decoupled encoding
-from transmission. It then became possible to prepare messages in advance, in
-volume, and to run the messages through a machine without human assistance. At
-that point, telegraph diverged from the telephone to become a device of
-asynchronous communication, displacing the act of communication in time as it
-did in space. But even with the advent of removable storage media, the
-bandwidth, or the "information density," of the system was limited by the
-number and the size of available cables. Independent developments in
-communication technology led to a range of techniques known as
-"multiplexing"---ways of sharing the same wire to send multiple messages.
-Multiplexing at the time fell into two broad approaches: time-division and
-pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
-Pulse-amplitude modulation involved filling the available space (bandwidth)
-with simultaneous signals of different types: sending multiple signals at
-differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
-modulation was difficult to implement initially. Cross-channel noise and device
-sensitivity hampered reliable reception and decoding across multiple
-simultaneous wave frequencies.
-
-Although the discovery of binary arithmetic rightly belongs to
-Gottfried Leibniz, who, influenced by hexagrams in the *I Ching*, articulated
-his own system in his *Explication de l'Arithmétique Binaire* (written in 1679
-and published in 1703) [@leibnitz_explication_1703], Bacon should take the
-credit for articulating a system for fixed-length binary encoding. The
-fixed-length property of Bacon's cipher, later implemented in the 5-bit Baudot
-code, signaled the beginning of the modern era of serial communications
-[@jennings_annotated_2004]. Baudot and the related Murray alphabets
-[^ln1-murray] were designed specifically with automation in mind. Both being
-fixed-length alphabets, the Baudot in particular did away with the "end of
-charachter" that separated letters in Morse. Fsignals could be divided
-into letters by count (every five codes representing a single character).
-Additionally, the Murray code was more compact than Morse and especially more
-economical than Hughes, which used up to 54 measures of silence to send a
-signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
-code occupied 22 measures. By contrast, all Baudot and Murray characters were a
-mere five units in length, with the maximum of ten used to switch the receiving
-device into "figure" or "capital letter" states (for the total of ten units)
-[@murray_setting_1905; @beauchamp_history_2001 380-397].
-
-![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
-[@murray_setting_1905].](images/murray-keyboard.png)
-
-As the volume of transmissions increased, human operators were simply not fast
-enough to keep up with the demand of encoding and decoding messages into and
-from Morse code. The rise of printing telegraphs answered the demand of
-increased information exchange. The great variety of printing telegraph designs
-at the turn of the twentieth century all attempted to solve the problem of
-automating the encoding and decoding mechanisms of transmission, with the goal
-of speeding up and increasing the volume of possible communication.[^ln-cables]
-
-Donald Murray, the entrepreneur and the inventor of the popular Murray
-telegraph, writes: "It is the object of machine telegraphy not only to increase
-the saving of telegraph wire [...] but also to reduce the labor cost of
-translation and writing by the use of suitable machines" [@murray_setting_1905,
-557]. Baudot's and Murray's codes were not only shorter, they were simpler and
-less error-prone, resulting in less complicated and more durable devices. By
-the end of the nineteenth century a number of devices were in use
-internationally, making it possible to decouple the real-time encoding of text
-into code from the operation of the machine. A tape containing the message
-could be prepared in advance, fed into the telegraph, and printed in
-human-legible form on the receiving end.
-
-## 2.1 Metaphor Machine
+## 3.1 Metaphor Machine
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. But I think now that I then
-failied to pecieve the pervasive nature of simulation. Computation, the
-ultimate metaphor machine, mediates experience ubiquitously. It interjects in
-simple everyday acts from drinking coffee in the morning, through brewing and
-payment systems, to going to bed as alarm clock and night activity monitor.
+virtual reality, reality television, and the like. I am only now beginning to
+comprehend the extent of the simulation. Computer, the ultimate metaphor
+machine, mediates experience ubiquitously. It interjects in simple everyday
+acts from drinking coffee in the morning, through brewing and payment systems,
+to going to bed as alarm clock and night activity monitor.
 
 Baudrillard writes:
 
-> At the limit of an always increasing elimination of references and finalities,
-an ever-increasing loss of resemblances and designations, we find the digital
-and programmatic sign, whose "value" is purely *tactical*, at the intersection
-of other signals ("bits" of information/tests) whose structure is that of a
-micromolecular code of command and control [@baudrillard_selected_1988, 139-140].
+> At the limit of an always increasing elimination of references and
+> finalities, an ever-increasing loss of resemblances and designations, we
+> find the digital and programmatic sign, whose "value" is purely *tactical*,
+> at the intersection of other signals ("bits" of information/tests) whose
+> structure is that of a micromolecular code of command and control
+> [@baudrillard_selected_1988, 139-140].
 
-The diffusion of simulated text will lead us to an archive of source materials
-somewhat unusual for a work on literary theory. It will allow us to perceive
-computation as a type of a literary activity, comprehensible in the lineage of
-symbolism and book history. In search for the location of the symbol, we will
-explore a number of symbol-manipulating devices that facilitate the production
-of text. These will be found on the pages of mathematical journals and in
-patent portfolios. Their ubiquity necessitates our attention. Three such
-devices, which have fundamentally changed the nature of the literary encounter,
-will emerge by the end of the chapter. Together, they tell the story of a
-bargain that defines human--computer interaction: to trade facility for
-comprehension, to complicate in return for the illusion of simplicity, and to
-exist within that illusion without understanding how it is made.
+Wittgenstein: pretending to read. Pretending to understand. Turing's answer
+the imitation game.
 
-### Ephemeral text
+Realizing desktop metaphors on a computer
+20140091134A1
+
+John Carrol on Metaphor and the Cognitive Representation of Computer systems
 
 
-The bifurcated sign resides in two distinct locations, each entailing
-drastically differing affordances for reading.
+The metaphor machine: A database method for creativity support
+Author links open the overlay panel. Numbers correspond to the affiliation
+list which can be exposed by using the show more link.
+Lawrence F Young
 
-### Turing's *Computing Machinery and Intelligence*
-
-"But if thinking consists only in writing or speaking, why shouldn't a machine
-do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?
-Could it have internal states? "It is a travesty of the truth to say: thinking
-is an activity of our mind, as writing is an activity of the
-hand" [@wittgenstein_philosophical_1974, 17].
-
-Wittgenstein's conversations with Turing about the ways by which physical
-states pass into the symbolic ones and the other way around, prefigure the
-operation of the universal Turing machine. The Turing machine occupies exactly
-the described ambiguous state between symbol and mechanism.
-
-This line of questioning was certainly already familiar to those students of
-Wittgenstein who attended his earlier lectures at Cambridge, and who
-undoubtedly have participated in his reading-related thought experiments.
-Wittgenstein's reading and calculating machines were meant to challenge the
-very notions of reading and calculating.
-
-Turing returned to the problem of machine and human intelligence explicitly
-[@turing_computing_1950]. Here, Turing proposes to reformulate Wittgenstein's
-original question (Can machines think?) into what he calls the "imitation
-game." The format would surely please his former professor: three people---a
-man, a woman, and an interrogator of either sex---would communicate by
-teletype. The object of the game for the interrogator is to determine the
-gender of the individual behind the screen. The object of the game for the
-other two participants is to fool the interrogator. And here is the twist: the
-part of one of the participants (not the interrogator) would be played by a
-machine.
-
-The question "Can a machine think?" becomes then, "Will the interrogator decide
-wrongly as often when the game is played like this as he does when the game is
-played between a man and a woman?" [@turing_computing_1950, 433]. The striking
-transposition of the cognitive activity (thinking) into its functional
-discursive equivalent (misrepresenting one's identity in writing) echoes
-Wittgenstein's playful thought experiments. The machine that thinks is a
-machine that tells tall-tales. On this view, a convincing imitation of thought
-is thought. We would simply not be able to prove otherwise, without peeking
-behind the teletype screen to see who or what is doing the typing. In that
-sense, Turing returns to Wittgenstein's refusal to locate the mark of the
-cognitive within any given organ or activity. Thought is simply that which
-looks (sounds, reads) like thought---it is a game that we play, and a game that
-could conceivably be played by other entities, mechanical or otherwise. For our
-purposes, it is interesting to note that Turing's chat-bot does not simply
-compute or calculate.  It is a literary machine. It does not just imitate human
-logic or speech.  Instead, it imitates (performs!) fibbing. It is able to
-imagine a fictional story about an alternative identity, and ultimately to
-convince its reader of the story's veracity.
-
-In the shift from the cognitive to the discursive, Turing follows the
-trajectory of Wittgenstein's thought experimentation. Moreover, the game is
-tinged with distinctly sexual overtones, and in the context of an
-interrogation. It is a game in which winning means transgressing either one's
-gender or one's species, all the while maintaining a straight face. The
-proposed language game is not simply conversational, it is suspenseful and
-subversive, having the force of a mystery, a detective novel, or a legal
-drama. At one point of the essay Turing answers what he calls "the argument
-from consciousness," quoting one Professor Jefferson in saying that it is not
-"until a machine can write a sonnet or compose a concerto because of thoughts
-and emotions felt, and not by the chance fall of symbols, could we agree that
-machine equals brain---that is, not only write it but know that it had written
-it. No mechanism could feel (and not merely artificially signal, an easy
-contrivance) pleasure at its successes, grieve when its valves fuse, be warmed
-by flattery, be made miserable by its mistakes, be charmed by sex, be angry or
-depressed when it cannot get what it wants" [@turing_computing_1950, 446].
-
-In response Turing scripts the following conversation: 
-
-> Interrogator: In the first line of your sonnet which reads 'Shall I compare
-thee to a summer's day' would not 'a spring day' do as well or better?
-
-> Witness: It would not scan.
-
-> Interrogator: How about 'a winter's day.' That
-would scan all right.
-
-> Witness: Yes, but nobody want to be compared to a
-winter's day.
-
-> Interrogator: Would you say Mr.  Pickwick reminded you of Christmas?
-
-> Witness: In a way.
-
-> Interrogator: Yet Christmas is a winter's day, and I do not think
-Mr. Pickwick would mind the comparison.
-
-> Witness: I don't think you're serious.
-By a winter's day one means a typical winter's day, rather than a special one
-like Christmas [@turing_computing_1950, 447].
-
-Add Plato. Reading is proper internalization. Interpretation is the scanned
-symbol + state of the machine.
-
-Literature as imitation game == mimesis, simulation.
-
-[^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
-Room" experiment [@searle_minds_1980].
-
-[^ln1-enigma]: See the enigmatic fragment on @wittgenstein_remarks_1978, 372.
-
-Tie to the first two chapters. Easy multiplicity of documents.  Digitality as
-something imposed from without or imposed on us! Because the book is different
-it fucks with authenticity.
-
-The possibility of text that reconfigures itself.
-
-
-Although much of contemporary popular discourse on computation speaks the
-language of disruption, the history of computational symbolism, of the sort I
-am suggesting here, must be seen as an evolutionary trajectory.
-
-## 3.1 Digital Wake
+## 3.2 Digital Wake
 
 What does the digital look like? It looks blue for one---not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -379,7 +134,7 @@ distinct literary activity. Like literature in the aesthetic realm, these are
 systems that propagate localized notions of document, style, authorship, value,
 and canon.
 
-## 3.2 Motion Blur
+## 3.3 Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -536,7 +291,7 @@ practice of buying "digital cameras" or to promoting the "digital humanities"
 in name only. To perceive what is at stake, we must do much more to
 disambiguate digital cognates: electronic, binary, and computational.
 
-## 3.3 We Have Always Been Digital
+## 3.4 We Have Always Been Digital
 
 Let us start with digital representation expressed more formally, as done in
 computer science, aesthetics, and the philosophy of information.
@@ -1175,3 +930,244 @@ measuring system" [2].
 Heidegger would be good here.
 
 
+
+## Multiplexing
+
+In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank Halstead
+noted that "the practical upper limits of speed will also be limited by the
+ability of some human beings to operate a keyboard, until such time as
+electrical connection be made direct with the receiver's central nervous
+system" [@halstead_genesis_1949, 451].
+
+The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
+by the American Royal E. House, was a capricious machine that relied on a
+tuning mechanism to transmit individual characters. Inspired by the player
+piano, the Hughes telegraph even looked like a piano, complete with a keyboard
+and a rotating drum, commonly used in music boxes. The sending device struck a
+tone which, when transmitted by electrical current, would initiate the rotation
+of a similar drum in the receiving apparatus "at the pleasure of the distant
+operator," in Hughes's words. The length of time between the initial
+synchronization signal and the struck chord corresponded to a letter, which the
+machine then printed to tape using a letter wheel. Hughes referred to the
+device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
+hints at the fragility of the device. The message became impossible to decipher
+should the sending drum and the receiving drum fall out of sync
+[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
+20-21].
+
+Emile Baudot was one of the first engineers to notice that the prevailing Morse
+and Hughes telegraph systems failed to make full use of the time allotted for
+message transmission. The Hughes code in particular made extensive use of long
+silences, which could be condensed to extract more utility from the channel.
+Baudot-type multiplexers made use of synchronized rotating mechanisms both of
+the sending and the receiving end, to distribute units of time among multiple
+operators. Figure 6 shows a scheme for a duplex printing telegraph, for
+example. A single rotation of the synchronization device (known as the
+"distributor") was thereby divided into two units of five segments each, each
+corresponding to a distinct channel of communication. Two operators could
+therefore share the same channel to transmit two different messages.
+
+![Multiple Printing Telegraph, 1905
+[@murray_setting_1905].](images/multiplex.png)
+
+The maintaining of unison became of paramount importance in such multiplexed
+systems. The operators of a time-shared device needed to know when it was their
+turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
+mechanism to indicate turns to individual operators, and in some devices,
+locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
+four operators would engage in an intricate dance of fingers, keys, tappers,
+and signals, synchronized by the rotation of the telegraph distributor.
+
+Synchronization was also needed for Morse code devices, to distinguish
+non-meaning carrying silence (the receiver is turned off) from the
+meaning-carrying one (the receiver pauses to indicate a dot). The receiving
+device needed a measure (duration) of silence to differentiate between "dots"
+and spaces between words, both indicated by silences of different length. But
+if the devices went out of sync, or if communication lagged for some reason,
+the coherence of the message faltered. Sending and receiving machines had to be
+tuned to a cadence of common information exchange. The system of operators,
+transmitters, and receivers, was, in aggregate, tuned to a specific but
+arbitrary rhythm by which certain messages made sense only in particular (also
+arbitrary) units of time. In early telegraphy, these units of time were slower
+than natural human time, enough so for the operator to remain idle. Later
+systems increased the pace to a rhythm beyond natural human abilities of
+comprehension, to a point where human operators could no longer decipher the
+signal without machine assistance. In the language of wiremen, the bugs were
+"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
+
+Several engineering solutions emerged to transcend the limits of human
+information processing. The automated printing telegraph decoupled encoding
+from transmission. It then became possible to prepare messages in advance, in
+volume, and to run the messages through a machine without human assistance. At
+that point, telegraph diverged from the telephone to become a device of
+asynchronous communication, displacing the act of communication in time as it
+did in space. But even with the advent of removable storage media, the
+bandwidth, or the "information density," of the system was limited by the
+number and the size of available cables. Independent developments in
+communication technology led to a range of techniques known as
+"multiplexing"---ways of sharing the same wire to send multiple messages.
+Multiplexing at the time fell into two broad approaches: time-division and
+pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
+Pulse-amplitude modulation involved filling the available space (bandwidth)
+with simultaneous signals of different types: sending multiple signals at
+differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
+modulation was difficult to implement initially. Cross-channel noise and device
+sensitivity hampered reliable reception and decoding across multiple
+simultaneous wave frequencies.
+
+Although the discovery of binary arithmetic rightly belongs to
+Gottfried Leibniz, who, influenced by hexagrams in the *I Ching*, articulated
+his own system in his *Explication de l'Arithmétique Binaire* (written in 1679
+and published in 1703) [@leibnitz_explication_1703], Bacon should take the
+credit for articulating a system for fixed-length binary encoding. The
+fixed-length property of Bacon's cipher, later implemented in the 5-bit Baudot
+code, signaled the beginning of the modern era of serial communications
+[@jennings_annotated_2004]. Baudot and the related Murray alphabets
+[^ln1-murray] were designed specifically with automation in mind. Both being
+fixed-length alphabets, the Baudot in particular did away with the "end of
+charachter" that separated letters in Morse. Fsignals could be divided
+into letters by count (every five codes representing a single character).
+Additionally, the Murray code was more compact than Morse and especially more
+economical than Hughes, which used up to 54 measures of silence to send a
+signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
+code occupied 22 measures. By contrast, all Baudot and Murray characters were a
+mere five units in length, with the maximum of ten used to switch the receiving
+device into "figure" or "capital letter" states (for the total of ten units)
+[@murray_setting_1905; @beauchamp_history_2001 380-397].
+
+![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
+[@murray_setting_1905].](images/murray-keyboard.png)
+
+As the volume of transmissions increased, human operators were simply not fast
+enough to keep up with the demand of encoding and decoding messages into and
+from Morse code. The rise of printing telegraphs answered the demand of
+increased information exchange. The great variety of printing telegraph designs
+at the turn of the twentieth century all attempted to solve the problem of
+automating the encoding and decoding mechanisms of transmission, with the goal
+of speeding up and increasing the volume of possible communication.[^ln-cables]
+
+Donald Murray, the entrepreneur and the inventor of the popular Murray
+telegraph, writes: "It is the object of machine telegraphy not only to increase
+the saving of telegraph wire [...] but also to reduce the labor cost of
+translation and writing by the use of suitable machines" [@murray_setting_1905,
+557]. Baudot's and Murray's codes were not only shorter, they were simpler and
+less error-prone, resulting in less complicated and more durable devices. By
+the end of the nineteenth century a number of devices were in use
+internationally, making it possible to decouple the real-time encoding of text
+into code from the operation of the machine. A tape containing the message
+could be prepared in advance, fed into the telegraph, and printed in
+human-legible form on the receiving end.
+
+## Turing's *Computing Machinery and Intelligence*
+
+"But if thinking consists only in writing or speaking, why shouldn't a machine
+do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?
+Could it have internal states? "It is a travesty of the truth to say: thinking
+is an activity of our mind, as writing is an activity of the
+hand" [@wittgenstein_philosophical_1974, 17].
+
+Wittgenstein's conversations with Turing about the ways by which physical
+states pass into the symbolic ones and the other way around, prefigure the
+operation of the universal Turing machine. The Turing machine occupies exactly
+the described ambiguous state between symbol and mechanism.
+
+This line of questioning was certainly already familiar to those students of
+Wittgenstein who attended his earlier lectures at Cambridge, and who
+undoubtedly have participated in his reading-related thought experiments.
+Wittgenstein's reading and calculating machines were meant to challenge the
+very notions of reading and calculating.
+
+Turing returned to the problem of machine and human intelligence explicitly
+[@turing_computing_1950]. Here, Turing proposes to reformulate Wittgenstein's
+original question (Can machines think?) into what he calls the "imitation
+game." The format would surely please his former professor: three people---a
+man, a woman, and an interrogator of either sex---would communicate by
+teletype. The object of the game for the interrogator is to determine the
+gender of the individual behind the screen. The object of the game for the
+other two participants is to fool the interrogator. And here is the twist: the
+part of one of the participants (not the interrogator) would be played by a
+machine.
+
+The question "Can a machine think?" becomes then, "Will the interrogator decide
+wrongly as often when the game is played like this as he does when the game is
+played between a man and a woman?" [@turing_computing_1950, 433]. The striking
+transposition of the cognitive activity (thinking) into its functional
+discursive equivalent (misrepresenting one's identity in writing) echoes
+Wittgenstein's playful thought experiments. The machine that thinks is a
+machine that tells tall-tales. On this view, a convincing imitation of thought
+is thought. We would simply not be able to prove otherwise, without peeking
+behind the teletype screen to see who or what is doing the typing. In that
+sense, Turing returns to Wittgenstein's refusal to locate the mark of the
+cognitive within any given organ or activity. Thought is simply that which
+looks (sounds, reads) like thought---it is a game that we play, and a game that
+could conceivably be played by other entities, mechanical or otherwise. For our
+purposes, it is interesting to note that Turing's chat-bot does not simply
+compute or calculate.  It is a literary machine. It does not just imitate human
+logic or speech.  Instead, it imitates (performs!) fibbing. It is able to
+imagine a fictional story about an alternative identity, and ultimately to
+convince its reader of the story's veracity.
+
+In the shift from the cognitive to the discursive, Turing follows the
+trajectory of Wittgenstein's thought experimentation. Moreover, the game is
+tinged with distinctly sexual overtones, and in the context of an
+interrogation. It is a game in which winning means transgressing either one's
+gender or one's species, all the while maintaining a straight face. The
+proposed language game is not simply conversational, it is suspenseful and
+subversive, having the force of a mystery, a detective novel, or a legal
+drama. At one point of the essay Turing answers what he calls "the argument
+from consciousness," quoting one Professor Jefferson in saying that it is not
+"until a machine can write a sonnet or compose a concerto because of thoughts
+and emotions felt, and not by the chance fall of symbols, could we agree that
+machine equals brain---that is, not only write it but know that it had written
+it. No mechanism could feel (and not merely artificially signal, an easy
+contrivance) pleasure at its successes, grieve when its valves fuse, be warmed
+by flattery, be made miserable by its mistakes, be charmed by sex, be angry or
+depressed when it cannot get what it wants" [@turing_computing_1950, 446].
+
+In response Turing scripts the following conversation: 
+
+> Interrogator: In the first line of your sonnet which reads 'Shall I compare
+thee to a summer's day' would not 'a spring day' do as well or better?
+
+> Witness: It would not scan.
+
+> Interrogator: How about 'a winter's day.' That
+would scan all right.
+
+> Witness: Yes, but nobody want to be compared to a
+winter's day.
+
+> Interrogator: Would you say Mr.  Pickwick reminded you of Christmas?
+
+> Witness: In a way.
+
+> Interrogator: Yet Christmas is a winter's day, and I do not think
+Mr. Pickwick would mind the comparison.
+
+> Witness: I don't think you're serious.
+By a winter's day one means a typical winter's day, rather than a special one
+like Christmas [@turing_computing_1950, 447].
+
+Add Plato. Reading is proper internalization. Interpretation is the scanned
+symbol + state of the machine.
+
+Literature as imitation game == mimesis, simulation.
+
+[^ln1-chinese]: This line is a likely source for John Searle's famous "Chinese
+Room" experiment [@searle_minds_1980].
+
+[^ln1-enigma]: See the enigmatic fragment on @wittgenstein_remarks_1978, 372.
+
+Tie to the first two chapters. Easy multiplicity of documents.  Digitality as
+something imposed from without or imposed on us! Because the book is different
+it fucks with authenticity.
+
+The possibility of text that reconfigures itself.
+
+
+Although much of contemporary popular discourse on computation speaks the
+language of disruption, the history of computational symbolism, of the sort I
+am suggesting here, must be seen as an evolutionary trajectory.
+
+
+## Literature Down to the Pixel

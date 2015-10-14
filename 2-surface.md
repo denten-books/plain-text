@@ -165,6 +165,20 @@ crucially, it now constitutes a simulation of the archived inscription. Typing
 a word on keyboard produces one sort of a structure on tape or disk and
 another on the screen. The two are related but not equivalent.
 
+The diffusion of simulated text through the Turing machine will lead us to an
+archive of source materials somewhat unusual for a work on literary theory. It
+will allow us to perceive computation as a type of a literary activity,
+comprehensible in the lineage of symbolism and book history. In search for the
+location of the symbol, we will explore a number of symbol-manipulating
+devices that facilitate the production of text. These will be found on the
+pages of mathematical journals and in patent portfolios. Their ubiquity
+necessitates our attention. Several such devices, which have fundamentally
+changed the nature of the literary encounter, will emerge by the end of the
+chapter. Together, they tell the story of a bargain that defines
+human--computer interaction: to trade facility for comprehension, to
+complicate in return for the illusion of simplicity, and to exist within that
+illusion without understanding how it is made.
+
 As we embark to explore the consequences of computed text, I propose we keep
 the following three landmark mechanisms in view as milestones along our
 journey: Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*.
