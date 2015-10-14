@@ -17,11 +17,11 @@ between the projector showing the image and the projector "in the frame" is
 what produces the characteristic horizontal interference pattern. The illusion
 of motion is key to understanding the mechanics of cinema, but what does it
 mean to perceive seemingly static words against the background of a
-fundamentally dynamic medium?  Instead of a static and immutable sign etched
-in stone or on paper, we observe the sign in motion. To refer to the
-"illusion" of digital textuality is therefore to identify a key property of
+fundamentally dynamic medium? Instead of a static and immutable sign etched in
+stone or on paper we observe the sign in motion. To refer to the "illusion" of
+digital textuality is therefore to identify the dynamic property of
 projection. To place text on the screen is to bring it closer to the moving
-image.
+image. To put it another way: we are now reading books on cinema screens.
 
 In this chapter, I bring archival material---blueprints, phenomenological
 accounts, and debates the philosophy of aesthetics---to bare on the question
@@ -30,24 +30,27 @@ some notion of "natural" and "analog" mode of human perception. The change of
 *medium*, from paper to pixel, entails a corresponding change in the *mode* of
 perception. The projection "attunes" if you will the viewer to the message.
 By attunement I mean something analogous to what Marcel Mauss called the
-"techniques of the body" [@mauss_techniques_2006, 78]: the way in which we sit
+"techniques of the body" [@mauss_techniques_2006, 78], the way in which we sit
 for example, the position of the hands, the head, or the movement of the eyes.
-The mode structures experience, not the what, but the how. Initially, we must
-simply know how to perceive: to look, to smell, or to listen. The modality
-tells us the register of the message. Where to look for it and how to identify
-the signifying elements. In refined arts it goes further to more strictly
-govern the techniques of perception: you must neither speak nor cough during a
-classical recital, for example. You can look but not touch artwork in a
-museum. As these examples show, the modality of communication ultimately
-constitutes a corporeal technique. It governs the body. And for this reason
-the change in modalities must always be perceived as a claim on the body. In
-this lies the ultimate difference between analog and digital media. The shift
-from one to the other affects not the message but the mode of perception. It
-is as if someone has asked you to read a book or to watch a film in an
-unfamiliar and uncomfortable chair. The mode of digital perception similarly
-contorts the body into new and unfamiliar shapes. I begin then with popular
-intuition about the digital which lead us to the technical particulates of the
-projection and finally to aesthetics of perception.
+The mode structures experience: not the what, but the how.
+
+Initially, we must simply know how to perceive: to look, to smell, or to
+listen. The modality tells us "the register" of the message. Where to look for
+it and how to identify the signifying elements. In refined arts it goes
+further to more strictly govern the techniques of perception: you must neither
+speak nor cough during a classical recital, for example. One can look at but
+not touch artwork in a museum. As these examples show, the modality of
+communication ultimately demands corporeal compliance. It governs the body.
+For this reason, the change in modalities must always be perceived as a claim
+on the body. In this lies the starkest difference between analog and digital
+media. The shift from one to the other affects not the message but the mode of
+perception. It is as if someone has asked you to read a book or to watch a
+film in a stranger's armchair. It feels off in a way that is difficult to
+explain. The mode of digital perception similarly contorts the body into new
+and unfamiliar shapes. I begin then with popular intuitions about the digital.
+The "two terminators" of the introductory section lead us to the technical
+particulates of the projection and finally to the discussion on the aesthetics
+of digital perception.
 
 ## Digital Wake (My Two Terminators)
 
