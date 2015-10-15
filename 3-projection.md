@@ -118,22 +118,68 @@ therefore reductive and deterministic, but also shiny, smooth, perfect, and
 liquid in the way that threatens to drown out and to transcend (instead of
 reducing or determining) everything susceptible to the patina of time,
 everything having distinct shape and anatomy. Think here about the transition
-between *The Terminator* and *Terminator 2*, where the "bad" robot that sets
-out to destroy humanity is cast at first in the guise of an animatronic
+between films *The Terminator* and *Terminator 2*, where the "bad" robot that
+sets out to destroy humanity is cast at first in the guise of an animatronic
 mechanism, but then as an amorphous puddle of mercury that makes the original
 mechanical Arnold look like a friend and savior. The first terminates with
 shotguns and tire irons, where the second morphs into human shapes and pours
 itself inside, threatening life from within.
 
-Like the terminators of yesteryear, digital sprites and bogeymen lose their
-hold over popular imagination. Digital photography, digital clocks, and
-digital humanities already ring archaic in their futuristic ambition, going the
-way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
--tron. The digital dissolves into the everyday as all clocks, all books, all
-texts, and all human activity passes through some form of "digital being." My
-aim here and throughout is to understand what is meant by its invocation: to
-"come to terms," to make visible, to disturb it, to denature, and to make it
-strange again.
+Although the property of something being digital plays a central role in the
+formation of new compounds like "digital media," "digital humanities," or the
+"digital divide," the very idea of what "digitality" involves ranges from
+everything related to digits and computers to grandiose theories about the
+ultimately discrete nature of the universe itself.[^ln3-digital] "Languages
+are not codes," David Golumbia writes in his influential monograph *The
+Cultural Logic of Computation*. Human language practice therefore should not
+be reduced to a "single correct interpretation" or "at the absolute limit, a
+determinate number of discrete interpretations" [@golumbia_cultural_2009,
+291]. "To submit a phenomenon to computation," Golumbia writes, "is to striate
+otherwise-smooth details, analog details" [@golumbia_cultural_2009, 159].
+
+At the same time, digital artifacts fall under suspicion for smoothing out
+difference and thereby for betraying some essential, wonderfully messy
+property of being human. In his essay against digital humanities, Stephen
+Marche writes:
+
+> Meaning is mushy. Meaning falls apart. Meaning is often ugly, stewed out of
+> weakness and failure. It is as human as the body, full of crevices and prey
+> to diseases. It requires courage and a certain comfort with impurity to live
+> with. Retreat from the smoothness of technology is not an available option,
+> even if it were desirable. The disbanding of the papers has already
+> occurred, a splendid fluttering of the world's texts to the winds. We will
+> have to gather them all together somehow. But the possibility of a complete,
+> instantly accessible, professionally verified and explicated, free global
+> library is more than just a dream. Through the perfection of our smooth
+> machines, we will soon be able to read anything, anywhere, at any time.
+>
+>Insight remains handmade [@marche_literature_2012].
+
+Stanley Fish, another prominent critic of the digital humanities, contrasts
+two "visions" of the humanities. The first exists within the "linear, temporal
+medium in the context of which knowledge is discrete, partial and
+situated---knowledge at this time and this place experienced by this limited
+being. The second, digital one, imagines a "steady yet dynamic state where
+there is movement and change, but no center, no beginning and end, just all
+middle." The digital vision is meant to deliver us from linearity and from
+time itself, Fish argues [@fish_digital_2012]. For Fish, the digital fails
+because it does not offer enough difference.
+
+Whether too discrete or too continuous, the critics agree on the danger of
+digitization. Digital being takes place of determinism and mechanization in
+the role of the age-old opponent to humanism. But what exactly is at stake in
+the move between analog and digital modes of representation? The conflicting
+properties of digital media point to a deeper anxiety that cannot be reduced
+to the binary between discrete and continuous qualities of perception. To get
+to the bottom of the contemporary unease with digitization, we will first
+examine some of the material contexts that support the propagation of digital
+media. We will then look at a few formal, theoretical attempts to describe the
+particularity of digital representation. Finally, we will have the chance to
+examine the specifics by which digital media necessitates a change in the
+"mode" of apprehension.
+
+[^ln3-digital]: For a summary of digital physics and metaphysics see
+@steinhart_digital_1998 and @floridi_against_2009.
 
 ## Motion Blur
 
@@ -1127,4 +1173,16 @@ time to perform them is limited by my lifespan. Assuming I could gain speed
 without any degradation in clarity or comprehension, and barring any
 psychological ill effects, the idea of more in this case must be a good onto
 itself.
+
+## Metaphor
+
+Like the terminators of yesteryear, digital sprites and bogeymen lose their
+hold over popular imagination. Digital photography, digital clocks, and
+digital humanities already ring archaic in their futuristic ambition, going the
+way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
+-tron. The digital dissolves into the everyday as all clocks, all books, all
+texts, and all human activity passes through some form of "digital being." My
+aim here and throughout is to understand what is meant by its invocation: to
+"come to terms," to make visible, to disturb it, to denature, and to make it
+strange again.
 
