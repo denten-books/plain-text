@@ -56,46 +56,46 @@ perception.
 
 What does the digital look like? It looks blue for one---not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
-white, to translucent with starburst-like overtones. An online image search for
-the word "digital" produces many sharp, sterile visuals of that kind.  Abstract
-geometrical patterns predominate in the first dozen or so search results: often
-forming curved, three-dimensional tunnels or lines that resemble circuit
-boards. There are things too of course, cheap and expensive consumer things
-like scanners, flash cards, circuit boards, and backup drives, but most of all
-it is cameras---digital cameras, the very idea of which is meant to stand in
-stark contrast to "traditional film photography." Few marketplace objects
-exhibit such a strong sense of the opposition between the digital and the
-analog as a consumer camera. These search pages also contain the outdated
-clichés of yesterday's digital detritus: digital clocks, purple lightning
-bolts, and the abstract chrome landscapes made widely available by graphic
-editing software in the 1990s. There are numbers. The preferred arrangement is
-in a torrential grid---the matrix---descending in the background, behind a
-generic humanoid form, also translucent. Or better yet: alphanumeric characters
-comprising a globe or a face. Ones and zeros are best arranged as an unending
-string, which runs at a slight angle on the Z-axis and beyond the frame,
-foregrounding whatever object that is meant to take on the digital as a
-property: the digital wake.
+white, to translucent with starburst-like overtones. An online image search
+for the word "digital" produces many sharp, sterile visuals of that kind.
+Abstract geometrical patterns predominate in the first dozen or so search
+results: often forming curved, three-dimensional tunnels or lines that
+resemble circuit boards. There are things too of course, cheap and expensive
+consumer things like scanners, flash cards, circuit boards, and backup drives,
+but most of all it is cameras---digital cameras, the very idea of which is
+meant to stand in stark contrast to "traditional film photography." Few
+marketplace objects exhibit such a strong sense of the opposition between the
+digital and the analog as a consumer camera. These search pages also contain
+the outdated clichés of yesterday's digital detritus: digital clocks, purple
+lightning bolts, and the abstract chrome landscapes made widely available by
+graphic editing software in the 1990s. There are numbers. The preferred
+arrangement is in a torrential grid---the matrix---descending in the
+background, behind a generic humanoid form, also translucent. Or better yet:
+alphanumeric characters comprising a globe or a face. Ones and zeros are best
+arranged as an unending string, which runs at a slight angle on the Z-axis and
+beyond the frame, foregrounding whatever object that is meant to take on the
+digital as a property: the digital wake.
 
-When we constrict the image-search chronologically to the twenty-first century,
-we see these cool-blue images give way to a more varied palette: bright prime
-greens, yellows, and reds in retro-geometric pixelated shapes. Pixels take the
-place of numbers here---not the small, invisible pixels of contemporary
-computer screens, but the large and boxy pixels that by their very visible
-boxiness flaunt the digital being of the image. Such an image alludes to the
-time when pixels really did stand out as individual units---the technology not
-being refined enough to produce the illusion of visual continuity. This faux
-lo-fi aesthetic likely appeals to the romantic nostalgia many feel for the
-early days of computing, and yet it also works as an assertion of independence
-from that history. No longer shall the digital serve to emulate reality, nor be
-judged merely by its degree of lifelike verisimilitude. The blocky world of
-Markus Persson's *Minecraft* (2009) stands in antithesis to the magical realism
-of Cyan's *Myst* (1995), the best-selling graphic-adventure PC game of the
-twentieth century. Where the critics lauded the latter for its moody and
-atmospheric photo-realistic environments, the former embraces the playful,
-8-bit, low-fidelity aesthetic of gaming consoles from the 1980s. The
-pseudo-pixelated world of Minecraft encourages its inhabitants to experiment
-with deconstruction, producing cubist landscapes that foreground the
-discontinuity of form and surface.
+When we constrict the image-search chronologically to the twenty-first
+century, we see these cool-blue images give way to a more varied palette:
+bright prime greens, yellows, and reds in retro-geometric pixelated shapes.
+Pixels take the place of numbers here---not the small, invisible pixels of
+contemporary computer screens, but the large and boxy pixels that by their
+very visible boxiness flaunt the digital being of the image. Such an image
+alludes to the time when pixels really did stand out as individual units---the
+technology not being refined enough to produce the illusion of visual
+continuity. This faux lo-fi aesthetic likely appeals to the romantic nostalgia
+many feel for the early days of computing, and yet it also works as an
+assertion of independence from that history. No longer shall the digital serve
+to emulate reality, nor be judged merely by its degree of lifelike
+verisimilitude. The blocky world of Markus Persson's *Minecraft* (2009) stands
+in antithesis to the magical realism of Cyan's *Myst* (1995), the best-selling
+graphic-adventure PC game of the twentieth century. Where the critics lauded
+the latter for its moody and atmospheric photo-realistic environments, the
+former embraces the playful, 8-bit, low-fidelity aesthetic of gaming consoles
+from the 1980s. The pseudo-pixelated world of Minecraft encourages its
+inhabitants to experiment with deconstruction, producing cuboid landscapes
+that foreground discontinuity of form and surface.
 
 The iconography of the digital works in the other direction too, by approaching
 and challenging the perceived continuity of the analog world. Liquid-metal
@@ -117,39 +117,23 @@ intuitions about "the digital" as something at once discrete, angular, and
 therefore reductive and deterministic, but also shiny, smooth, perfect, and
 liquid in the way that threatens to drown out and to transcend (instead of
 reducing or determining) everything susceptible to the patina of time,
-everything having distinct shape and anatomy. (Think here about the transition
+everything having distinct shape and anatomy. Think here about the transition
 between *The Terminator* and *Terminator 2*, where the "bad" robot that sets
 out to destroy humanity is cast at first in the guise of an animatronic
 mechanism, but then as an amorphous puddle of mercury that makes the original
 mechanical Arnold look like a friend and savior. The first terminates with
 shotguns and tire irons, where the second morphs into human shapes and pours
-itself inside, threatening life from within.)
+itself inside, threatening life from within.
 
 Like the terminators of yesteryear, digital sprites and bogeymen lose their
 hold over popular imagination. Digital photography, digital clocks, and
 digital humanities already ring archaic in their futuristic ambition, going the
 way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
--tron.  The digital dissolves into the everyday as all clocks, all books, all
+-tron. The digital dissolves into the everyday as all clocks, all books, all
 texts, and all human activity passes through some form of "digital being." My
 aim here and throughout is to understand what is meant by its invocation: to
 "come to terms," to make visible, to disturb it, to denature, and to make it
 strange again.
-
-What's at stake? Quant. of information. We are talking about synchronizing time.
-Bring in Warren Brody's manifesto. TIME. And also digital is not about human.
-Bring it the too much info from Kenny Goldsmith.
-Digital text. What makes it digital? Because we have a device, does it mean
-that we are not digital? It is structure form the outside.
-What changes?
-
-Literary devices are those machines that in themselves constitute a system for
-textual diffusion. They facilitate symbolic exchange and they do so in diverse
-textual ecosystems. The ecosystem of aesthetic discourse is one such market of
-exchange. But I am interested in others as well. The film studio, the hospital,
-the court house, and the university: these are are some of the locations of
-distinct literary activity. Like literature in the aesthetic realm, these are
-systems that propagate localized notions of document, style, authorship, value,
-and canon.
 
 ## Motion Blur
 
