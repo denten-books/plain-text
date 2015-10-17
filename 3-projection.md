@@ -125,22 +125,22 @@ mechanical Arnold look like a friend and savior. The first terminates with
 shotguns and tire irons, where the second morphs into human shapes and pours
 itself inside, threatening life from within.
 
-Although the property of something being digital plays a central role in the
-formation of new compounds like "digital media," "digital humanities," or the
-"digital divide," the very idea of what "digitality" involves ranges from
-everything related to digits and computers to grandiose theories about the
-ultimately discrete nature of the universe itself.[^ln3-digital] "Languages
-are not codes," David Golumbia writes in his influential monograph *The
-Cultural Logic of Computation*. Human language practice therefore should not
-be reduced to a "single correct interpretation" or "at the absolute limit, a
-determinate number of discrete interpretations" [@golumbia_cultural_2009,
-291]. "To submit a phenomenon to computation," Golumbia writes, "is to striate
-otherwise-smooth details, analog details" [@golumbia_cultural_2009, 159].
-
-At the same time, digital artifacts fall under suspicion for smoothing out
-difference and thereby for betraying some essential, wonderfully messy
-property of being human. In his essay against digital humanities, Stephen
-Marche writes:
+Although the quality of being digital plays a central role in the formation of
+new compounds like "digital media," "digital humanities," or the "digital
+divide," the very idea of what it means often contains entirely conflicting
+qualities. For some, digitality stands in opposition to the notion of
+naturally "analog" human experience. On this view, digital media reduce
+"fuzzy" and indeterminate human experience to something binary and
+deterministic. For example, "languages are not codes," David Golumbia writes
+in his influential monograph *The Cultural Logic of Computation*. Human
+language practice therefore should not be reduced to a "single correct
+interpretation" or "at the absolute limit, a determinate number of discrete
+interpretations" [@golumbia_cultural_2009, 291]. "To submit a phenomenon to
+computation," Golumbia writes, "is to striate otherwise-smooth details, analog
+details" [@golumbia_cultural_2009, 159]. In other words, digital artifacts
+fall under suspicion for smoothing out difference and thereby for betraying
+some essential, wonderfully messy property of being human. In his essay
+against digital humanities, Stephen Marche writes in a similar vein:
 
 > Meaning is mushy. Meaning falls apart. Meaning is often ugly, stewed out of
 > weakness and failure. It is as human as the body, full of crevices and prey
@@ -155,15 +155,25 @@ Marche writes:
 >
 >Insight remains handmade [@marche_literature_2012].
 
-Stanley Fish, another prominent critic of the digital humanities, contrasts
-two "visions" of the humanities. The first exists within the "linear, temporal
-medium in the context of which knowledge is discrete, partial and
-situated---knowledge at this time and this place experienced by this limited
-being. The second, digital one, imagines a "steady yet dynamic state where
-there is movement and change, but no center, no beginning and end, just all
-middle." The digital vision is meant to deliver us from linearity and from
-time itself, Fish argues [@fish_digital_2012]. For Fish, the digital fails
-because it does not offer enough difference.
+Stanley Fish, another prominent critic of the digital humanities, finds the
+opposite problem. In contrasting two "visions" of the humanities, digits and
+computation fall under suspicion for being too undifferentiated. The
+traditional humanities for Fish exist within the "linear, temporal medium in
+the context of which knowledge is discrete, partial and situated---knowledge
+at this time and this place experienced by this limited being." By contrast,
+the digital humanities imagine a "steady yet dynamic state where there is
+movement and change, but no center, no beginning and end, just all middle."
+The digital vision is meant to deliver us from linearity and from time itself,
+Fish argues [@fish_digital_2012]. For Fish, the digital fails because it does
+not offer *enough* difference:
+
+> Delivered from linearity, from time-bound, sharply delineated meanings, from
+> mortality, from death, everyone, no longer a one, will revel in and
+> participate in the universal dance, a "mystical dance" of "mazes intricate,
+> / Eccentric, intervolved, yet regular / Then most when most irregular they
+> seem, / And in their motions harmony divine / So smooths her charming tones,
+> that God's own ear / Listens delighted. (John Milton, "Paradise Lost," V,
+> 620, 622-627)
 
 Whether too discrete or too continuous, the critics agree on the danger of
 digitization. Digital being takes place of determinism and mechanization in
@@ -176,7 +186,7 @@ examine some of the material contexts that support the propagation of digital
 media. We will then look at a few formal, theoretical attempts to describe the
 particularity of digital representation. Finally, we will have the chance to
 examine the specifics by which digital media necessitates a change in the
-"mode" of apprehension.
+"mode" of specifically digital apprehension.
 
 [^ln3-digital]: For a summary of digital physics and metaphysics see
 @steinhart_digital_1998 and @floridi_against_2009.

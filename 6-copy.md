@@ -1,6 +1,7 @@
 # Chapter 6: Copy, Labor
 # Chapter 7: Literature Down to the Pixel
 
+
 ## Intro
 
 The reading of short stories, novels, poetry, and plays is at grave risk,
@@ -1900,4 +1901,352 @@ the textual device, using historical sources, direct observation, and tools
 normally reserved for reverse-engineering of data objects.[^ln5-mechanisms]
 
 ## Arendt and Fanon
+
+
+## 5.3 Plain Text in Unix
+
+Plain text privileges a certain tics of humanity.
+
+
+## 5.2 Technological Determinism
+
+Against technological determinism. Space for play and interpretation. Signal
+Kittler.
+
+"Algorithms are inherently fascistic, because they give the comforting illusion
+of an alterity to human affairs," Stephen Marche wrote in his widely discussed
+piece for the *Los Angeles Review of Books*. "Algorithms have replaced laws of
+human nature, the vital distinction being that nobody can read them," he
+concludes [@marche_literature_2012]. But although a number of prominent voices
+(that include Stephen Hawkins, Catherine Hayles, and Elon Musk) have
+independently echoed Marche's metaphysical concern about algorithmic alterity,
+his insistence on the elision of the subject does not strictly hold true in the
+practice of writing and reading algorithms. Writing and reading of algorithms
+entails forms of literacy complementary to what Marche must mean by "handmade
+insight." The question becomes not one of alterity (as codes and codices are
+always extraneous to the individual), but one of legibility. An algorithmic
+regime redraws the boundaries delineating human agency, influence, and
+prestige, transferring power towards a privileged class of readers and writers
+capable of comprehending and further emending this otherwise obscure form of
+regimental textuality. It is vital, then, that our notions of human literacy
+include the ability to read, write, and escape the machinations of automated
+discourse. We should read code towards these aims: not to fetishize algorithms,
+but to strip them of their mystical significance.
+
+We are accustomed to thinking of modern computing as a pinnacle of calculating,
+computational devices. That is the story the reader gets in Marche's essay, in
+Kittler's media history, and in David Golumbia's provocative *Cultural Logic of
+Computation.* The cultural logic of computation inevitably leads to a bleak
+vision of what Johanna Drucker calls "mathesis," the triumph of deterministic
+quantification over indeterminate, anti-positivist forces of the humanities.
+The historical links between computation and the military industrial complex
+cannot be denied. But the links are contingent rather than necessary
+connections. EXPAND THIS MORE ON HOW THIS PROJECT ANSWERS DETERMINISM. In
+moving towards a notion of critical computing, we are able to draw on a
+multiplicity of historical practices that suggest an alternative mode of
+engagement with the computational environment, one in which literature has
+plenty to say.
+
+To see as literary IS to see the human.
+
+Prosthetics.
+
+This in the intro, cover application.
+[ln-app]: Not until the 1960s did the coinage "software application" enter the
+English language. Before that and well into the 1990s the far more common use
+of "application" was paired with "theory," as in "theory and application"---the
+two nouns occupying places on the opposing sides of the idea--practice
+continuum. Software, in the newer phrase, takes the place of theory---the
+application being the practical implementation of code, a theoretical set of
+instructions. In the *New York Times* archive, the phrase first appeared in
+1985 [@new_york_times_briefs_1984]. In the Google Books corpus the bigram
+appears first in *Astronautics & Aeronautics: A Publication of the American
+Institute of Aeronautics and Astronautics*, under the rubric of "Missile
+Guidance Systems Programming"
+[@american_institute_of_aeronautics_and_astronautics_astronautics_1965].  
+
+### 5.2 Home
+
+[^ln5-home]: On many machines the home directory will simply bare the name of
+the logged in user.
+
+The history of the home directory can be traced to the earliest time
+sharing machines in the 1960s. 
+
+The file folder. Directory structure. Also a data structure.
+
+Properties of a file folder. Names and permissions.
+
+Files belong to users and groups. Personal vs. shared computing.
+
+What is the concept of a user in Unix? User is also a file.
+
+- User belongs to groups and owns files.
+- User structure is hierarchical, depending on the three levels of acccess:
+read, write, and execute.
+- Unix has preference for plain text as an interface to the human.
+
+Transparency. Window Systems Should Be Transparent by Rob Pike
+
+You don't have to buy this picture. The importance of this intellectual history
+ais that human-computer interaction as a field has its roots there. People who
+design software view their work as cognitive extension.
+
+/home : User home directories (optional) Purpose
+
+/home is a fairly standard concept, but it is clearly a site-specific
+filesystem. [9] The setup will differ from host to host. Therefore, no program
+should rely on this location. [10] Requirements
+
+User specific configuration files for applications are stored in the user's
+home directory in a file that starts with the '.' character (a "dot file"). If
+an application needs to create more than one dot file then they should be
+placed in a subdirectory with a name starting with a '.' character, (a "dot
+directory"). In this case the configuration files should not start with the '.'
+character. [11]
+
+All contemporary operating
+systems (from Androids, to Mac OS, Linux, and Windows) commonly archive all
+user-related files in the `home` directory.[^ln5-home] These include all media:
+text, documents, music, video, and images along with program-specific settings,
+browser history, themes, passwords, 
+
+We now reach the final and most speculative chapter of the book. Here, I can no
+longer rely on strictly historical examples to make my case. So far, I have
+shown that a notion of plain text is, in some real sense, engineered into the
+fabric of modern computing. I have argued that our daily encounter with the
+text, mediated by the screen and the keyboard, cannot and should not be
+understood in mere instrumental terms. The technological system that envelops
+the creation and the transmission of thought is more than an instrument or a
+market. It constitutes a part of our cognitive apparatus. What are the values
+that guide the development. Transparency, parity, room for dissent.
+
+I think the author misses the point. As far as I see it, Unix tools are
+optimized for one thing: the human user. If `ls` is bloated, it is only bloated
+from the system point of view. As a user, I only see a small command that is
+quick and consistent (to a reasonable extent) with other tools. I don't need to
+know about 39 flags--that complexity is hidden for power users, and revealed
+with time, as I need to accomplish more complex tasks. For now, I only use and
+"see" two or three. And if more is needed, the program is small enough to be
+reasonably well documented. `man ls` perhaps with `grep` is all most people
+need.
+
+This brings me to the second point. "Streams of  text." Just like `ls`, streams
+of text are an optimal format/convention for humans. Many other things are
+better at being more compact or more efficient etc. But as formats and
+conventions proliferate, streams of plain text remain: readable and universal.
+Humans will ALWAYS be able to work with text. It is something that all humans
+kind of agreed upon--which cannot be said for any other formats or standards,
+which can offer various technical benefits at the expense of longevity,
+universality, and readability.
+
+These two features (`ls` being relatively light and text streamy) leads to the
+"bootstrapping" effects sought after by the first generation of Unix
+developers. Learning about pipes and filters in one part of the system is
+applicable to all others. These tools scale with your level of expertise. They
+grow with you because despite the small quirks, there's a remarkable
+consistency of interface: text! Consequently `ls` (along with many other core
+tools) is implemented in the same way across a staggering variety of platforms.
+It has survived decades of alternatives touted as "better," "faster," "more
+usable," etc. etc. etc. That is the remarkable achievement of *nix / GNU etc.
+approach to creating human-centric software. As we architect new and ever more
+complex systems, we would do well to understand why Unix has endured, warts and
+all.
+
+Plain text is a file format optimized for a human mind. It keeps the
+system available to view.
+
+### 5.3 Fanon + arendt
+
+### 5.4 Freedom of Information
+
+Engelbart's lab adopted a conspicuously recursive methodology they called
+"bootstrapping," by which research into creating better research was done by
+enabling research [@engelbart_research_1968, 395]. Elsewhere, Engelbart
+explains bootstrapping "as a process wherein the results of a given effort are
+fed back into the activity in a reinforcing way, so that less internal energy
+is required to achieve bigger results faster." In that light, the production of
+the technical report quoted here was not an activity incidental and secondary
+to research, but was the stated object of research itself.
+
+"A short computer program that is permanently resident or easily loaded into a
+computer and whose execution brings a larger program, such as an operating
+system or its loader, into memory" [@ieee_ieee_1990, 13].
+
+"the techniques being explored are implemented, studies, and evaluated with the
+advantage of intensive everyday use" [@engelbart_augmented_1973, 12].  Much
+later, in the 1990s, Engelbar
+
+"They must bootstrap themselves into a new kind of ``think,'' into a new climate
+of man-machine interaction, in which men evolve intelligent machines and
+intelligent machines evolve men" [@brodey_human_1967, 86].
+
+Engelbart borrows the idea of "bootstrapping" from . The
+animation of inorganic matter
+
+the material g
+
+Warren Brodey Human Enhancement
+
+Start with the clock manifesto.
+
+CONTOROL SECURITY FREEDOM
+Freedom security consistency (Furby). Control. Freedom.
+
+"To a book collector, you see, the true freedom of all books is somewhere on his
+shelves" [@benjamin_unpacking_1968, 64].
+
+Lita Furby, who wrote one of the earliest definitive literature reviews on the
+subject in the 1970s, traces the origins of object-affect fusion to William
+James. In the *Principles of Psychology* James writes about what he calls the
+"empirical self," which comprises the unity of all that could be called me:
+
+Attributes ideas of autonomous technology to a Thomas, Carlyle, Charles
+Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Thoreau, mark Twain,
+Henry Adams, John Ruskin, William Morris, E. E. Cummings, George Orwell, Marcel
+Duchamp, and Kurt Vonnegut.
+
+"In one definition or another autonomous technology is now a significant
+transdisciplinary hypothesis in the natural and social sciences, the arts,
+journalism, and even the technical specialties themselves. But how can this
+be" [@winner, 19].
+
+Faustian spirit. Striving for control. "The proof of science is technology"
+[@winner, 25]. What can you actually do?
+
+Skepticism about technological agency in the face of "unintended" or "emergent"
+side effects of complex systems. If fracking for natural gas contributes to the
+increase of earthquakes, that does not mean that fracking somehow "has a mind"
+to destroy humanity by earthquakes.
+
+Hypomnesis. Galloway interface p. 16. Foucault.
+
+Winner has it as noncomprehensibility instead of autonamism.
+
+
+Cleartext in encryption. The Circle. PARITY of encryption.
+http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
+
+The debate over encryption erupted on Capitol Hill again Wednesday, with an FBI
+official testifying that law enforcement's challenge is working with tech
+companies "to build technological solutions to prevent encryption above all
+else."
+
+Ethics and Aesthetics
+
+James: the aesthetic function is one of negation. To create art is to sculpt
+reality. Ethics is similar choice making [@james, 289].
+
+Automonous technology. Exploring all possibilities at once. Must negate some.
+That is ethics. James calls this the highest form: making choices. Where do
+these choices come from? What guides development?
+
+Humanism. Agency, delibiration, consensus, dissent.
+
+
+for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
+developed of these. Engineering for dissent. The ability to create shared goals
+and to exit. engagement with shared project. The subject of my next book. 
+
+Metaphysical Dread about Computation Brian Lennon and Golumbia. The argument
+basically boils down to the cultural logic of computation being complicit in
+the military industrial complex. That complicity manifests itself in a shared
+set of tools. By that logic: the we should also condemn the libraries' efforts
+to help up archive and store information. Condemn the poets for using metaphors
+because these are also used in advertising. Something perverse about that: it
+is as if we would worry about knowledge because knowledge is used for
+mechanisms of control.
+
+Deeper metaphysical dread about computation, that should be understood
+historically (where Lennon gets it right). You are not a gadget.
+
+phttp://www.ernestooroza.com/
+Technological Disobedience
+
+Creating SPACE. Physical space.
+
+Sartre?  Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
+Mumford Condition of Man?
+
+Yet, to make the subjective experience strange again is to look at it through
+the eyes of a stranger. Makhail Bakhtin writes (in what I think is a previously
+untranslated passage):
+
+Ethics of legibility.
+
+> It is not I who looks out from the inside, but I look at myself with the eyes
+of the world, strange eyes; I am possessed by another. There is no integrity of
+internal and external here. To glimpse my own preocular image. The naive
+confluence of self and the other in the mirror image. The surplus of the other.
+There is no point of view outside of myself; I cannot access my own internal
+image. From my eyes stare a stranger's eyes [@"The Man by the Mirror," Mikhail
+Bakhtin]
+
+[^ln7-bakhtin]: I reproduce the passage here it its entirety: "Falsehood and
+deception, unavoidably peering out of their own correlation. The external image
+of thought, feeling, the external image of the soul. It is not I who looks out
+from the inside, but I look at myself with the eyes of the world, strange eyes;
+I am possessed by another. There is no integrity of internal and external here.
+To glimpse my own preocular image. The naive confluence of self and the other
+in the mirror image. The surplus of the other. There is no point of view
+outside of myself; I cannot access my own internal image. From my eyes stare a
+stranger's eyes." 
+
+> The study, conducted by Lily Tsai, an associate professor of political science
+at MIT, suggests that citizens who do not follow all the laws are engaging in
+“constructive noncompliance” — acts that are intended to prompt the government
+to alter its policies, without necessarily challenging its overall status.  
+http://newsoffice.mit.edu/2015/citizens-disobey-enact-change-0519
+
+
+### 6.2 Cryptography and Steganography
+
+Hobbes on secret knowledge (p43-44!)
+
+Where cryptography is the art of secret communication, steganography is the art
+of hiding the secret. "The purpose of steganography is to hide the very
+presence of communication by embedding messages into innocuous-looking objects,
+such as digital images," Jessica Fridrich and her colleagues write for the
+proceedings of the Society of Photographic Instrumentation Engineers,
+appropriately shortened to SPIE [@fridrich_searching_2004].
+
+The real danger comes not from a metaphysical source, but from the superficial
+similarity of print and pixel. Where the pen or the typewriter inscribe the
+image directly into their paper medium, digital type passes through a series of
+transformations between the keystroke and its corresponding pulse of the
+cathode ray, or in the flow of liquid crystal. Secrecy and surveillance
+technologies that rightly worry Kittler exist in the gap between text as medium
+and text as content. They threaten literature (the something to be said) only
+in so far as the mechanisms of literary production (how it is said) remain
+hidden from the critical view. When the veil is lifted, we can begin to reclaim
+the passage of textuality. In this process, technology remains a relatively
+neutral conduit, enabling liberation and oppression alike. The physical control
+of expression cannot and should not be reduced to something as seemingly
+self-contingent as "the conditions of high technology." Systems of control
+naturally obscure the pathways of agency. Letting go of agency as a critical
+concept plays into the hand of those (human agents) that benefit directly from
+the illusion of disempowerment. I view "control" in that sense not as an
+ideology, but as the ability to physically alter the material conditions of
+literary production, dissemination, and consumption. The transition from
+mechanical typewriter to electrical word processor precisely couples code as
+content and code as control.  
+
+### 7.1 ITU
+
+Related to secrecy.  Encrypted literature. Revealment and dissimulation. Notions of textuality as
+embroiled in contemporary ideas of privacy, secrecy, and transparency.
+Computation does not necessarily work for the military-industrial apparatus (as
+argued by Golumbia, Lennon, and McPherson).  Recovering and preserving
+textuality in computing.
+
+Brooks Act 1965.  Man in the middle attacks.
+
+Alice, Bob, Caryl.
+http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
+Communication theory of secrecy systems, shannon
+
+Zimmermann responded by publishing the source code as a book, an act that was
+constitutionally protected as free speech. 
+
+Plain text + fleas from the Unix book should go here.
 
