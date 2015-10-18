@@ -494,21 +494,22 @@ iris movement. When viewed up close, the same several inches on the screen
 represent a much larger angle, forcing the iris to move further laterally.
 
 The human visual system is particularly adapt at tracking smooth, horizontal
-movement, cognitively anticipating the perceived trajectory of a moving object,
-while stabilizing the retinal image and keeping it at the center of the fovea
-in what is called "smooth pursuit" lateral eye movement
+movement, cognitively anticipating the perceived trajectory of a moving
+object, while stabilizing the retinal image and keeping it at the center of
+the fovea in what is called "smooth pursuit" lateral eye movement
 [@rottach_comparison_1996; @purves_types_2001;
 @didyk_perceptually-motivated_2010]. The "sample and hold" nature of the LCD
 display frustrates the cognitive assumption of smooth movement. The object's
 anticipated location does not correspond to its actual trajectory on the
-screen, which appears to the eye as motion blur. To complicate matters further,
-the phase transitions of the liquid crystal medium are not instantaneous. The
-individual pixel "fades" instead of vanishing at once, leaving a physical (and
-not merely a perceptual) trail of not-quite transitioned pixels in the wake of
-object movement [@kurita_moving_2001; @pan_lcd_2005]. The motion blur is
-exacerbated when viewing traditional film shot at 24 frames per second, since
-even at high display sampling rates, the moving object appears at discrete
-stationary locations punctuated by gaps in on-screen movement.
+screen, which appears to the eye as motion blur. To complicate matters
+further, the phase transitions of the liquid crystal medium are not
+instantaneous. The individual pixel "fades" instead of vanishing at once,
+leaving a physical (and not merely a perceptual) trail of not-quite
+transitioned pixels in the wake of object movement [@kurita_moving_2001;
+@pan_lcd_2005]. The motion blur is exacerbated when viewing traditional film
+shot at 24 frames per second, since even at high display sampling rates, the
+moving object appears at discrete stationary locations punctuated by gaps in
+on-screen movement.
 
 To compensate for motion blur, LCD manufacturers introduced MCFI, by which the
 television itself inserts extra computed frames in between the original stock
@@ -518,23 +519,23 @@ the viewer, the effectively higher sample rates carry a major, unintended side
 effect. Most viewers associate sampling rates of 40Hz and above with daytime
 soap operas, which were, for a time, shot on lower quality video equipment as
 opposed to expensive film equipment in use by the big-budget film industry.
-Film is expensive because film cameras work by fixing the image onto the medium
-through a photochemical process. Like traditional film photography, raw footage
-must be developed and processed properly before it can be used for editing,
-playback, and distribution. Video and more modern, digital recorders, by
-contrast, transform light into fluctuations of the magnetic field, storing the
-results on magnetic tape. The transducer (tape head) reads and writes directly
-from and to tape, making magnetic storage significantly more compact and less
-expensive than film, as it does not require chemical processing for playback
-[@edgerton_columbia_2009]. Crucially for our story, video recorders operate at
-60 frames per second, a recording resolution that together with a distinctive
-color profile and audio aberration signatures give rise to what viewers
-perceive as that "cheap video" look. By inserting extra frames into the moving
-image, modern televisions in effect alter the expensive, slow format to match
-its faster, cheaper video equivalent. The net improvement in sampling degrades
-the perceived quality of the original. (It would be interesting to try to
-create the reverse effect by reducing the fidelity of a "cheap" soap opera
-video feed to 24 frames per second.)
+Film is expensive because film cameras work by fixing the image onto the
+medium through a photochemical process. Like traditional film photography, raw
+footage must be developed and processed properly before it can be used for
+editing, playback, and distribution. Video and more modern, digital recorders,
+by contrast, transform light into fluctuations of the magnetic field, storing
+the results on magnetic tape. The transducer (tape head) reads and writes
+directly from and to tape, making magnetic storage significantly more compact
+and less expensive than film, as it does not require chemical processing for
+playback [@edgerton_columbia_2009]. Crucially for our story, video recorders
+operate at 60 frames per second, a recording resolution that together with a
+distinctive color profile and audio aberration signatures give rise to what
+viewers perceive as that "cheap video" look. By inserting extra frames into
+the moving image, modern televisions in effect alter the expensive, slow
+format to match its faster, cheaper video equivalent. The net improvement in
+sampling degrades the perceived quality of the original. (It would be
+interesting to try to create the reverse effect by reducing the fidelity of a
+"cheap" soap opera video feed to 24 frames per second.)
 
 The soap opera effect suggests a few questions for the media scholar.
 
@@ -542,11 +543,11 @@ First, it challenges the easy equivalence between "digital" and "discrete"
 properties of the medium so often evoked in the critical literature. Another
 mechanism must be in play here, since, according to accepted intuition, film
 (the more discrete format of representation) is the one that more closely
-approaches the analog (continuous) nature of observed phenomenon. Despite being
-the more fragmentary medium, film is seen as the more analog format than video.
-Under closer examination, film, usually discussed in the context of analog
-formats, appears to be (in some aspects, as we will see) more digital than
-digital video, particularly if "digital" is taken to mean "discrete" and
+approaches the analog (continuous) nature of observed phenomenon. Despite
+being the more fragmentary medium, film is seen as the more analog format than
+video.  Under closer examination, film, usually discussed in the context of
+analog formats, appears to be (in some aspects, as we will see) more digital
+than digital video, particularly if "digital" is taken to mean "discrete" and
 "differentiated." This incongruity points to a confusion in the common terms.
 
 Second, it seems that the very material properties involved in our
