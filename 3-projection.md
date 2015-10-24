@@ -2,6 +2,9 @@
 
 `digital, medium, mode`
 
+terminators > telegraph > television > Turing > Goodman
+contradition > arbitrary > essential > metaphor > format
+
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared sense of vocabulary,
 which includes terms both technical and literary critical. The following three
@@ -131,20 +134,22 @@ divide," the very idea of what it means often contains entirely conflicting
 qualities. For some, digitality stands in opposition to the notion of
 naturally "analog" human experience. On this view, digital media reduce
 "fuzzy" and indeterminate human experience to something binary, discrete, and
-deterministic. For example, "languages are not codes," David Golumbia writes
-in his influential monograph *The Cultural Logic of Computation*. Human
-language practice therefore should not be reduced to a "single correct
+deterministic. For example, in his influential monograph *The Cultural Logic
+of Computation* David Golumbia insists that "languages are not codes." Human
+language practice for him therefore should not be reduced to a "single correct
 interpretation" or "at the absolute limit, a determinate number of discrete
 interpretations" [@golumbia_cultural_2009, 291]. "To submit a phenomenon to
 computation," Golumbia writes, "is to striate otherwise-smooth details, analog
 details" [@golumbia_cultural_2009, 159]. Following Deleuze, Golumbia conceives
-of "striated space" in opposition to spaces smooth and analog like brains,
-society, politics, language, and baseball [@@golumbia_cultural_2009, 231 &
-343].
+of "striated space" in opposition to spaces "smooth" and "analog" like brains,
+society, politics, language, and baseball [@golumbia_cultural_2009, 231 &
+343]. For Golumbia, striated and digital phenomena fall under suspicion
+because "our society is already oriented towards binarisms, hierarchy, and
+instrumental rationality" [@golumbia_cultural_2009, 3043].
 
 In his essay against digital humanities, Stephen Marche worries about the
-digitization of human experience for the opposite reason. "Meaning is mushy,"
-he writes:
+digitization of human experience for the opposite reason. Smoothness, in his
+view, is a property of the machine. "Meaning is mushy," he writes:
 
 > Meaning falls apart. Meaning is often ugly, stewed out of weakness and
 > failure. It is as human as the body, full of crevices and prey to diseases.
@@ -159,18 +164,19 @@ he writes:
 >
 >Insight remains handmade [@marche_literature_2012].
 
-In other words, digital artifacts fall under suspicion for smoothing out not
-for striating difference and thereby for betraying some essential, wonderfully
-messy property of being human. Stanley Fish, another prominent critic of the
-digital humanities, writes in a similar vein. The traditional humanities for
-Fish exist within the "linear, temporal medium in the context of which
-knowledge is discrete, partial and situated---knowledge at this time and this
-place experienced by this limited being." By contrast, the digital humanities
-imagine a "steady yet dynamic state where there is movement and change, but no
-center, no beginning and end, just all middle." The digital vision is meant to
-deliver us from linearity and from time itself, Fish argues
-[@fish_digital_2012]. For Fish, the digital fails because it does not offer
-*enough* difference:
+In this vision, digital artifacts now fall under suspicion for smoothing out
+difference and thereby for betraying some essential, wonderfully messy
+property of being human.
+
+Stanley Fish, another prominent critic of the digital humanities, writes in a
+similar vein. The traditional humanities for Fish exist within the "linear,
+temporal medium in the context of which knowledge is discrete, partial and
+situated---knowledge at this time and this place experienced by this limited
+being." By contrast, the digital humanities imagine a "steady yet dynamic
+state where there is movement and change, but no center, no beginning and end,
+just all middle." The digital vision is meant to deliver us from linearity and
+from time itself, Fish argues [@fish_digital_2012]. For Fish, the digital
+fails because it does not offer *enough* difference:
 
 > Delivered from linearity, from time-bound, sharply delineated meanings, from
 > mortality, from death, everyone, no longer a one, will revel in and
@@ -182,9 +188,35 @@ deliver us from linearity and from time itself, Fish argues
 
 Whether too discrete or too continuous, the critics agree on the danger of
 digitization. Digital being takes place of determinism and mechanization in
-the role of the age-old opponent to humanism. 
+the role of the age-old opponent to humanism. Whether it is Plato discussing
+the role of writing in *Phaedrus*, or Fish discussing the development of
+digital humanities through Milton, the critics worry that successive modes of
+representation fail to weave the human experience into the fabric of new
+media. New media thus always retreats from some previously constructed
+category of the human, with one audience applauding the liberatory, post-human
+potential of the motion and the other lamenting its potential for destruction
+and demise. It is not a surprise then to often find the notion of the human
+close to the debates around digital and analog modes of representation.  A
+vision of the humanity is always at stake, with all its spiritual and
+political consequences.
 
-TRANSITION.
+Because the apprehension of media is grounded, at some basic level, in the
+physical capabilities of human perception, new media affect the very notion of
+what it means to be human. I mean this beyond simply "new ways of seeing" the
+world, in a way a telescope or a camera can be thought of as an extension of
+human perceptual apparatus. I am interested first in the challenge digital
+media pose to humanity as a deterministic category. The repeated
+contradictions in the conversation about digital media expose the historically
+contingent anxieties of a given age. The analog--digital continuum becomes a
+vessel onto which the orthodoxies of humanism and the futuristic ambition of
+post-humanism can be displaced. At the same time, attention to the material
+conditions of media production does not allow us to form an easy sense of
+social constructivism. The connection to the limits of human perceptual
+apparatus in the development of telegraphs and televisions is much more
+readily apparent than it is in the development of abstract categorical
+instrumentation like "facts" or "knowledge."
+
+## Spiritual Telegraph
 
 I submit another historical case study. Electrical engineers involved in the
 development of the telegraph at the turn of the twentieth century fell into
@@ -430,6 +462,7 @@ necessitates a change in the "mode" of specifically digital apprehension.
 [^ln3-digital]: For a summary of digital physics and metaphysics see
 @steinhart_digital_1998 and @floridi_against_2009.
 
+
 ## Motion Blur
 
 Televisions sold at the turn of 2010 started shipping with a feature called
@@ -588,9 +621,20 @@ to the practice of buying "digital cameras" or to promoting the "digital
 humanities" in name only. To perceive what is at stake, we must do much more
 to disambiguate the digital cognates: electronic, binary, and computational.
 
-## We Have Always Been Digital
+## Metaphor
 
-Weak transition.
+Like the terminators of yesteryear, digital sprites and bogeymen lose their
+hold over popular imagination. Digital photography, digital clocks, and
+digital humanities already ring archaic in their futuristic ambition, going the
+way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
+-tron. The digital dissolves into the everyday as all clocks, all books, all
+texts, and all human activity passes through some form of "digital being." My
+aim here and throughout is to understand what is meant by its invocation: to
+"come to terms," to make visible, to disturb it, to denature, and to make it
+strange again.
+
+## We Have Always Been Digital (Format)
+
 Let us start with digital representation expressed more formally, as done in
 computer science, aesthetics, and the philosophy of information.
 
@@ -991,212 +1035,3 @@ measuring system" [2].
 Heidegger would be good here.
 
 Media
-## Multiplexing
-
-In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank Halstead
-noted that "the practical upper limits of speed will also be limited by the
-ability of some human beings to operate a keyboard, until such time as
-electrical connection be made direct with the receiver's central nervous
-system" [@halstead_genesis_1949, 451].
-
-The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
-by the American Royal E. House, was a capricious machine that relied on a
-tuning mechanism to transmit individual characters. Inspired by the player
-piano, the Hughes telegraph even looked like a piano, complete with a keyboard
-and a rotating drum, commonly used in music boxes. The sending device struck a
-tone which, when transmitted by electrical current, would initiate the rotation
-of a similar drum in the receiving apparatus "at the pleasure of the distant
-operator," in Hughes's words. The length of time between the initial
-synchronization signal and the struck chord corresponded to a letter, which the
-machine then printed to tape using a letter wheel. Hughes referred to the
-device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
-hints at the fragility of the device. The message became impossible to decipher
-should the sending drum and the receiving drum fall out of sync
-[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
-20-21].
-
-Emile Baudot was one of the first engineers to notice that the prevailing Morse
-and Hughes telegraph systems failed to make full use of the time allotted for
-message transmission. The Hughes code in particular made extensive use of long
-silences, which could be condensed to extract more utility from the channel.
-Baudot-type multiplexers made use of synchronized rotating mechanisms both of
-the sending and the receiving end, to distribute units of time among multiple
-operators. Figure 6 shows a scheme for a duplex printing telegraph, for
-example. A single rotation of the synchronization device (known as the
-"distributor") was thereby divided into two units of five segments each, each
-corresponding to a distinct channel of communication. Two operators could
-therefore share the same channel to transmit two different messages.
-
-![Multiple Printing Telegraph, 1905
-[@murray_setting_1905].](images/multiplex.png)
-
-The maintaining of unison became of paramount importance in such multiplexed
-systems. The operators of a time-shared device needed to know when it was their
-turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
-mechanism to indicate turns to individual operators, and in some devices,
-locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
-four operators would engage in an intricate dance of fingers, keys, tappers,
-and signals, synchronized by the rotation of the telegraph distributor.
-
-Synchronization was also needed for Morse code devices, to distinguish
-non-meaning carrying silence (the receiver is turned off) from the
-meaning-carrying one (the receiver pauses to indicate a dot). The receiving
-device needed a measure (duration) of silence to differentiate between "dots"
-and spaces between words, both indicated by silences of different length. But
-if the devices went out of sync, or if communication lagged for some reason,
-the coherence of the message faltered. Sending and receiving machines had to be
-tuned to a cadence of common information exchange. The system of operators,
-transmitters, and receivers, was, in aggregate, tuned to a specific but
-arbitrary rhythm by which certain messages made sense only in particular (also
-arbitrary) units of time. In early telegraphy, these units of time were slower
-than natural human time, enough so for the operator to remain idle. Later
-systems increased the pace to a rhythm beyond natural human abilities of
-comprehension, to a point where human operators could no longer decipher the
-signal without machine assistance. In the language of wiremen, the bugs were
-"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
-
-Several engineering solutions emerged to transcend the limits of human
-information processing. The automated printing telegraph decoupled encoding
-from transmission. It then became possible to prepare messages in advance, in
-volume, and to run the messages through a machine without human assistance. At
-that point, telegraph diverged from the telephone to become a device of
-asynchronous communication, displacing the act of communication in time as it
-did in space. But even with the advent of removable storage media, the
-bandwidth, or the "information density," of the system was limited by the
-number and the size of available cables. Independent developments in
-communication technology led to a range of techniques known as
-"multiplexing"---ways of sharing the same wire to send multiple messages.
-Multiplexing at the time fell into two broad approaches: time-division and
-pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
-Pulse-amplitude modulation involved filling the available space (bandwidth)
-with simultaneous signals of different types: sending multiple signals at
-differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
-modulation was difficult to implement initially. Cross-channel noise and device
-sensitivity hampered reliable reception and decoding across multiple
-simultaneous wave frequencies.
-
-Although the discovery of binary arithmetic rightly belongs to
-Gottfried Leibniz, who, influenced by hexagrams in the *I Ching*, articulated
-his own system in his *Explication de l'Arithmétique Binaire* (written in 1679
-and published in 1703) [@leibnitz_explication_1703], Bacon should take the
-credit for articulating a system for fixed-length binary encoding. The
-fixed-length property of Bacon's cipher, later implemented in the 5-bit Baudot
-code, signaled the beginning of the modern era of serial communications
-[@jennings_annotated_2004]. Baudot and the related Murray alphabets
-[^ln1-murray] were designed specifically with automation in mind. Both being
-fixed-length alphabets, the Baudot in particular did away with the "end of
-charachter" that separated letters in Morse. Fsignals could be divided
-into letters by count (every five codes representing a single character).
-Additionally, the Murray code was more compact than Morse and especially more
-economical than Hughes, which used up to 54 measures of silence to send a
-signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
-code occupied 22 measures. By contrast, all Baudot and Murray characters were a
-mere five units in length, with the maximum of ten used to switch the receiving
-device into "figure" or "capital letter" states (for the total of ten units)
-[@murray_setting_1905; @beauchamp_history_2001 380-397].
-
-![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
-[@murray_setting_1905].](images/murray-keyboard.png)
-
-As the volume of transmissions increased, human operators were simply not fast
-enough to keep up with the demand of encoding and decoding messages into and
-from Morse code. The rise of printing telegraphs answered the demand of
-increased information exchange. The great variety of printing telegraph designs
-at the turn of the twentieth century all attempted to solve the problem of
-automating the encoding and decoding mechanisms of transmission, with the goal
-of speeding up and increasing the volume of possible communication.[^ln-cables]
-
-Donald Murray, the entrepreneur and the inventor of the popular Murray
-telegraph, writes: "It is the object of machine telegraphy not only to increase
-the saving of telegraph wire [...] but also to reduce the labor cost of
-translation and writing by the use of suitable machines" [@murray_setting_1905,
-557]. Baudot's and Murray's codes were not only shorter, they were simpler and
-less error-prone, resulting in less complicated and more durable devices. By
-the end of the nineteenth century a number of devices were in use
-internationally, making it possible to decouple the real-time encoding of text
-into code from the operation of the machine. A tape containing the message
-could be prepared in advance, fed into the telegraph, and printed in
-human-legible form on the receiving end.
-
-
-## Medium not the Message (attunement)
-
-What matters is that the medium is largely independent from the type of
-information stored on it, and this contrary to Marshall McLuhan infamous "the
-medium is the message" dictum.15 The world itself "medium" is misleading in
-this context. We could for example say that paint is the medium of painting.
-But what about the photograph of a painting? Or its digital reproduction? The
-situation is even more confusing when we begin thinking about music, for
-example. What is the medium for J.S.  Bach's Double Violin Concerto: the
-violin or the music sheet which contains the score? We are on yet more
-precarious terrain when considering hybrid "media," like film or television
-that are comprised of multiple sources and that use multiple modes of
-transmission.  The confusion enters the conversation when we conflate the
-modality of the information (e.g. music, image, text) with the physical
-channel of its transmission (the medium proper). Modality may very well be the
-message. Thus, it may be true that when one plays the violin, the music can be
-said to express itself in musical terms. But not the violin! I could use a
-violin to transmit a picture of an orchestra over a dial-up modem, for
-example. This would only involve the question of how to encode the visual
-information into a state transmittable by the violin (a primarily auditory
-instrument).  The channel of communication—the medium proper—is in fact,
-information-agnostic. That is to say that it has no preference about the
-message being transmitted (nor can it have a preference for anything at all,
-formally speaking—preference being a property we ascribe to objects that are
-at least animate). We could therefore transmit a sonata by playing a violin,
-as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
-peer-to-peer network. In each case, the information transmitted remains more
-or less the same, depending on the quality of your violin playing, the
-fidelity of your speakers, or the compression ratio of your digital encoding.
-It would be wrong too to consider any of these sources as somehow primal, with
-others being something like "mere copies" of the original. We could for
-example, start by composing music on paper. Alternatively, we could first play
-a piece of music and then transcribe it into musical notation. In an extreme
-but perfectly plausible case, we could compose by magnetizing a length of
-ferrous tape first, and only then play the violin to reproduce what we have
-"written." The medium does not know anything about the message. The way in
-which we store, access, and retrieve the encoded information is determined by
-the medium, however. We are the ones being shaped by the media. I do mean this
-rather literally: the stage directions for Krapp's Last Tape would be very
-different were Krapp writing a diary, or browsing his online social networking
-profile, or if he were to embed a memory chip in his brain that was able to
-store and retrieve the same messages from his thirty-nine year-old self as the
-tape-recorder. The actor's body would move differently in each of these
-cases—his senses and his thought would be altered in many subtle ways,
-depending on the channel of communication.
-
-The separation between mode and medium allows us to retain a certain clarity of
-vision in a rather muddled conversation about "media history." Modalities such
-as visual arts, music or literature do not necessarily evolve, in the normative
-sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
-optical linear perspective in 1425. But the normative evolution of art could
-only make sense only against some concrete pragmatic goals, which the aesthetic
-realm lacks by definition. Nothing is gained or lost when the fashion changes
-from square-toed to pointy-toed shoes, and then back again—to use an example
-that would surely please Mr. Krapp. Neither is "better" or "worse" for the
-participants in that sphere of cultural activity. By contrast, the concept of
-the medium does contain some sense of normative valuation, also by definition.
-That is to say that the medium has a job, which is to facilitate the storage,
-the transmission, and the retrieval of information. And there is such a thing
-as doing this job better or more efficiently. More is always better in this
-case: more storage, faster access, more reliable transmission. When the quality
-of the information is not sacrificed, there are no instances were less would be
-preferable by anyone with limited time and resources. For example, I would like
-to be able to read or write faster. I value both of these activities, but my
-time to perform them is limited by my lifespan. Assuming I could gain speed
-without any degradation in clarity or comprehension, and barring any
-psychological ill effects, the idea of more in this case must be a good onto
-itself.
-
-## Metaphor
-
-Like the terminators of yesteryear, digital sprites and bogeymen lose their
-hold over popular imagination. Digital photography, digital clocks, and
-digital humanities already ring archaic in their futuristic ambition, going the
-way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
--tron. The digital dissolves into the everyday as all clocks, all books, all
-texts, and all human activity passes through some form of "digital being." My
-aim here and throughout is to understand what is meant by its invocation: to
-"come to terms," to make visible, to disturb it, to denature, and to make it
-strange again.
-
