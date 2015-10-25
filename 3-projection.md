@@ -200,21 +200,21 @@ close to the debates around digital and analog modes of representation.  A
 vision of the humanity is always at stake, with all its spiritual and
 political consequences.
 
-Because the apprehension of media is grounded, at some basic level, in the
+Because the apprehension of media is grounded at some basic level in the
 physical capabilities of human perception, new media affect the very notion of
-what it means to be human. I mean this beyond simply "new ways of seeing" the
-world, in a way a telescope or a camera can be thought of as an extension of
-human perceptual apparatus. I am interested first in the challenge digital
-media pose to humanity as a deterministic category. The repeated
-contradictions in the conversation about digital media expose the historically
-contingent anxieties of a given age. The analog--digital continuum becomes a
-vessel onto which the orthodoxies of humanism and the futuristic ambition of
-post-humanism can be displaced. At the same time, attention to the material
-conditions of media production does not allow us to form an easy sense of
-social constructivism. The connection to the limits of human perceptual
-apparatus in the development of telegraphs and televisions is much more
-readily apparent than it is in the development of abstract categorical
-instrumentation like "facts" or "knowledge."
+what it means to be human. I mean this beyond simply "new ways of seeing" in a
+way a telescope or a camera can be thought of as an extension of human the
+eye. I am interested first in the challenge digital media pose to humanity as
+a *determined* category. The repeated contradictions in the conversation about
+digital media expose historically contingent anxieties. Both orthodoxies of
+humanism and the futuristic ambition of post-humanism are therefore displaced
+onto the same digital--analog continuum. However, the material conditions of
+media production do not allow for social constructivism unmoored from the
+senses. The development of telegraphs and televisions *intrinsically* depends
+on the limits of human perception. The illusion disappears when the projection
+flickers much slower than 60 frames per second, for example. We are left then
+somewhere between social constructivism and technological determinism. In what
+follows
 
 ## Spiritual Telegraph
 
