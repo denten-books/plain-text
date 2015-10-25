@@ -2,6 +2,10 @@
 
 `inscription, encoding, legibility`
 
+> The grand swell of volume between the small input and output need not be
+known to any human mind, but should stay inside the machine
+[@neumann_electronic_1948].
+
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines" [@chun_enduring_2008, 148]. If

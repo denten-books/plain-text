@@ -3,7 +3,8 @@
 `digital, medium, mode`
 
 terminators > telegraph > television > Turing > Goodman
-contradition > arbitrary > essential > metaphor > format
+
+contradiction > arbitrary > essential > metaphor > format
 
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared sense of vocabulary,
@@ -213,50 +214,67 @@ media production do not allow for social constructivism unmoored from the
 senses. The development of telegraphs and televisions *intrinsically* depends
 on the limits of human perception. The illusion disappears when the projection
 flickers much slower than 60 frames per second, for example. We are left then
-somewhere between social constructivism and technological determinism. In what
-follows
+somewhere between social constructivism and technological determinism. A
+historical account of digital media must therefore acknowledge both the
+contingent and the essential characteristics of perception. In what follows I
+offer several case studies that will help us tease out the various ideas
+tangled in the concept of digital media. Ultimately, we will see that what
+appears at first to be a property of media is in fact a claim on the mode of
+perception.
 
 ## Spiritual Telegraph
 
-I submit another historical case study. Electrical engineers involved in the
-development of the telegraph at the turn of the twentieth century fell into
-two warring camps, in a conflict located precisely at the fault lines between
-discrete and continuous representation.
+Let us first note that the contemporary attempt to "fix" human experience
+somewhere on the spectrum between discrete and continuous representation in
+relation to digital computers echoes a similar conversation about the
+electrical telegraph at the turn of the previous century. The parallels
+suggest that what we may now perceive as an essential quality of some extant
+corporeal technique---writing by hand, for example---in fact constitutes an
+arbitrary relationship between technology and some naturalized idea of the
+human. Consider the spiritual conversations surrounding the development of the
+telegraph in the beginning of the twentieth century. At the time before the
+standardization of the telegraph alphabets, multiple ways of translating
+language into electrical signal competed for their share of the rapidly
+growing telecommunications market. In particular, a well-publicised feud
+emerged between proponents of direct current- (DC) and alternating current-
+(AC) based systems. A few technical details are necessary to understand how an
+argument about engineering designs gained a metaphysical significance.
 
-Systems based on the neutral direct current design[^ln1-ndc] assumed current
+Telegraph systems based on the neutral direct current design assumed current
 flow for some elements of the encoding (like dashes) and absence of current
-flow for others (like dots) [@welk_neutral_2000]. For this reason, it could be
-said that although the Morse code family of alphabets amounts to a ternary
-encoding system (using dots, dashes, and silences), under the conditions of
-direct current it functions as a second-order binary encoding. Systems based on
+flow for others (like dots) [@welk_neutral_2000].[^ln1-ndc] Systems based on
 the alternating current design converted Morse code (and other encoding
 systems) into pulses of alternating positive and negative current, where
-positive current could stand for "dashes" and negative for "dots." Where the
-direct current designs preferred the use of non-sinusoidal, "square"
-periodic waveforms to represent binary states, literature on alternating
-current design often argued for the use of a sinusoidal signal, which could be
-more easily modulated into a multitude of states beyond binary
-[@crehore_practical_1900; @hausmann_telegraph_1915, 374]. Consequently,
-alternating current designs tended towards the transmission of continuous
-quantities like images and cursive handwriting. The very visual form of the
-sinusoidal curve suggested a connection to natural, organic shapes, like
-handwriting, in a visual analogy between text and signal.
+positive current could stand for "dashes" and negative for "dots." Direct
+current designs preferred the use of the "saw tooth," "square" periodic
+waveforms to represent binary states. They signal was either "on" or "off"
+with nothing in between. By contrast, literature on alternating current
+designs often argued for the use of the more round, sinusoidal signal. The
+sinusoidal wave could be modulated into a multitude of states beyond binary
+[@crehore_practical_1900; @hausmann_telegraph_1915, 374]. Instead of being
+just "on" or "off" it offered measurable points of current intensity along the
+curve of the sine wave. Consequently, alternating current designs tended
+towards the transmission of continuous quantities like images and cursive
+handwriting. The very visual form of the sinusoidal curve suggested a
+connection to natural, organic shapes, like handwriting. The alternating
+current suggested a visual analogy between the thing being transmitted
+(picture or text) and electrical signal.
 
 The Pollak-Virag telegraph that Bernhard Siegert mentions in his seminal essay
 on German media theory was one such device.[^ln1-virag] The original
 Pollak-Virag machine, patented in 1900 (and filed in 1899), proposed to send
 regular (ternary) Morse encoding by means of alternating current of two
 different polarities and two different strengths, for a total of four types of
-signals (see Figure 1).[^ln1-siegert] Other than the irregular signal shape and
-the use of alternating current, the Pollak-Virag encoding differed little from
-single-Morse systems. By 1901, however, the authors were issued an American
-patent for the "Writing Telegraph," which builds on their previous design in an
-interesting way. Rather than using a wave in four steps, the authors propose an
-"automatic transmitter capable of sending current impulses over the line which
-correspond to the direction and the size of a single letter element"
-[@pollak_writing-telegraph_1901, 3]. In other words, they wanted to bend the
-sinusoidal wave to correspond roughly to the shape of the letter (see Figure
-2).
+signals (see Figure 1).[^ln1-siegert] Other than the irregular signal shape
+and the use of alternating current, the Pollak-Virag encoding differed little
+from single-Morse systems. By 1901, however, the authors were issued an
+American patent for the "Writing Telegraph," which builds on their previous
+design in an interesting way. Rather than using a wave in four steps, the
+authors propose an "automatic transmitter capable of sending current impulses
+over the line which correspond to the direction and the size of a single
+letter element" [@pollak_writing-telegraph_1901, 3]. In other words, they
+wanted to bend the sinusoidal wave to correspond roughly to the shape of the
+letter (see Figure 2).
 
 ![Record obtained at the receiving station, illustration from "Means for
 Rapidly Transmitting Telegrams," 1900
