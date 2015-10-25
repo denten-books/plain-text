@@ -2,10 +2,6 @@
 
 `digital, medium, mode`
 
-terminators > telegraph > television > Turing > Goodman
-
-contradiction > arbitrary > essential > metaphor > format
-
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared sense of vocabulary,
 which includes terms both technical and literary critical. The following three
@@ -262,57 +258,79 @@ current suggested a visual analogy between the thing being transmitted
 
 The Pollak-Virag telegraph that Bernhard Siegert mentions in his seminal essay
 on German media theory was one such device.[^ln1-virag] The original
-Pollak-Virag machine, patented in 1900 (and filed in 1899), proposed to send
-regular (ternary) Morse encoding by means of alternating current of two
-different polarities and two different strengths, for a total of four types of
-signals (see Figure 1).[^ln1-siegert] Other than the irregular signal shape
-and the use of alternating current, the Pollak-Virag encoding differed little
-from single-Morse systems. By 1901, however, the authors were issued an
-American patent for the "Writing Telegraph," which builds on their previous
-design in an interesting way. Rather than using a wave in four steps, the
-authors propose an "automatic transmitter capable of sending current impulses
-over the line which correspond to the direction and the size of a single
-letter element" [@pollak_writing-telegraph_1901, 3]. In other words, they
-wanted to bend the sinusoidal wave to correspond roughly to the shape of the
-letter (see Figure 2).
+Pollak-Virag machine patented in 1900 proposed to send regular Morse encoding
+by means of alternating current of two different polarities and two different
+strengths, for a total of four types of signals.[^ln1-siegert] Other than the
+irregular signal shape and the use of alternating current, the Pollak-Virag
+encoding differed little from single-Morse systems. By 1901, however, the
+authors were issued an American patent for the "Writing Telegraph," which
+builds on their previous design in an interesting way. Rather than using a
+wave in four steps, the authors propose an "automatic transmitter capable of
+sending current impulses over the line which correspond to the direction and
+the size of a single letter element" [@pollak_writing-telegraph_1901, 3]. In
+other words, they wanted to bend the sinusoidal wave to correspond roughly to
+the shape of the letter. In this way, the letter "s," to pick an easy example,
+could be transmitted by the means of an s-shaped wave.
 
 ![Record obtained at the receiving station, illustration from "Means for
 Rapidly Transmitting Telegrams," 1900
 [@pollak_means_1900].](images/virag-wave.png)
 
-On some level, then, the Pollak-Virag encoding constitutes a sort of an
-unbroken, electrical alphabet. The electrical signal, in this case, makes for a
-smoothly varying quality, intended to "trace in a substantially continuous
-unbroken outline the written letters composing the matter transmitted"
-[@pollak_writing-telegraph_1901, 1]. The perforated tape "driving" the signal
-does, however, reduce notions of continuity into distinct perforations, which
-break letters down into their individual constituents.
+The Pollak-Virag encoding thus proposed to constitute an electrical alphabet
+analogous to cursive writing: "to trace in a substantially continuous unbroken
+outline the written letters composing the matter transmitted"
+[@pollak_writing-telegraph_1901, 1]. Yet, where Goldberg's punch cards aimed
+to achieve the analogy on the level of encoding (the punches took the shape of
+letters), Pollak and Virag aimed to do at the level of the medium itself (the
+signal took the shape of letters). To achieve the effect, the engineers broke
+cursive script down into distinct vertical and horizontal elements. The
+Pollak-Virag *encoding* thus represented a continuous quality (cursive script)
+through discrete atomic elements, as punches that moved the writing stylus up,
+down, left, or right. For this reason, it would be a mistake to understand the
+Pollak-Virag telegraph as a purely analog device. The analogy is rather
+achieved through a process of discrete analytic atomization of script on
+ticker tape and its subsequent reconstitution into a continuous shape.
 
 ![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/virag.png)
 
-![Syphon Recorder Alphabet, Circa 1887--1935. From the personal
-collection of Jim Linderman.](images/cyphon.jpg)
+Pollak and Virag believed that their sine wave telegraph had the distinct
+adventage trasmitting messages "recorded in ordinary written or script
+charachters." In the language of the patent, other forms of "facsimilie"
+telegraph transmitted merely the the "conventional form" of the letter, and
+not the letter itself. By contrast, the Pollak-Virag system was in their words
+"non-autographic." The autographic telegraph preserved the particularity of
+the human hand. It purpurted to transmit not only the conventional form of the
+letter, but the peculiarity of an individual's signature. It was the humane
+telegraph in the sense that it preserved someting human. The metaphysics
+accompanying telegraph communication at the time were in fact often concerned
+with human erasure. Notions of material discreteness and continuity
+represented not mere physical attributes of encoding or electricity but
+higher-order cultural and even ethical categories. The underlying physical
+structure of communication seemed to affect the very notion of what it means
+to be human.
 
-The metaphysics accompanying telegraph communication at the time display an
-anxiety about the role of the human in this process, where notions of material
-discreteness and continuity are extended from the underlying physical structure
-of communication to implicate higher-order cultural (and even ethical)
-categories. Arguing in opposition to the sine-wave camp, Donald Murray writes:
+In 1905, arguing in opposition to the sine-wave camp, Donald Murray, whose
+alphabet would become the basis for modern character encodings like the ASCII,
+wrote:
 
-> Certainly if Smith wants to make Jones spin round like a dancing Dervish, the
-best way might be for Smith to transmit sine waves […] but in practice Smith
-always wants to make Jones perform an excessively complicated and irregular
-series of motions, and for this purpose it is essential to transmit similar
-motions by introducing upper harmonics in a fragmentary, non-periodic, and very
-irregular way [@murray_setting_1905, 559].
+> Certainly if Smith wants to make Jones spin round like a dancing Dervish,
+> the best way might be for Smith to transmit sine waves [...] but in practice
+> Smith always wants to make Jones perform an excessively complicated and
+> irregular series of motions, and for this purpose it is essential to
+> transmit similar motions by introducing upper harmonics in a fragmentary,
+> non-periodic, and very irregular way [@murray_setting_1905, 559].
 
-Being periodic (and therefore, repetitive), the continuous sine wave is too
-regular to answer to the diverse needs of human culture. Dance, in Murray's
-articulation, can also consist of a series of irregular, fragmentary, and
-non-periodic movements, much better captured by the discrete undulation of the
-square wave.[^ln1-dervish] Writing for the Swedenborg-inspired *Spiritual
-Telegraph*, an anonymous author unfolds normative neoplatonic rhetoric in a
-similar argument on the importance of discrete differentiation:
+Like Stephen Marche and Stanley Fish after him, Murray assumes that human
+experience is discrete in nature. To retain the essentially *digital* quality
+of things like dance and writing the telegraph therefore must transmit
+messages using the square, saw-tooth wave instead of the sinusoid. The sine
+wave is simply too regular to answer to the diverse needs of human culture.
+The sinusoid is cyclical, repetitative, and continuous, where the human
+experience is fragmentary, non-periodc, and irregular. For Murray, the shape
+of the square wave better reflects what it means to be human.[^ln1-dervish]
+
+Writing for the Swedenborg-inspired *Spiritual Telegraph*, an anonymous author
+makes a similar argument in favor of discrete differentiation:
 
 > Whenever two persons are brought into sympathetic relations, either by
 > corporeal contact or through those refined media which pervade the Universe
@@ -328,23 +346,24 @@ similar argument on the importance of discrete differentiation:
 > to resist, unconsciously, the infusion of foreign impressions and Divine
 > ideas [@brittan_spiritual_1854, 169].
 
-Following Swedenborg, the telegraph spiritualists conceive the discrete quality
-of human experience as essential to the Christian hierarchy of the
+Following Swedenborg, the telegraph spiritualists conceive the discrete
+quality of human experience as essential to the Christian hierarchy of the
 universe.[^ln1-swedenborg] To deny step-wise ordering of "refined media"
 pervading the universe is to close oneself off to the "transmission of
 impressions," in a communication act (consisting of a "contact" and the
 exchange of signifying "thought vehicles") between "source superior" and the
 "receiver of instructions," placed in a binary and opposing relation
 ("negative" but without "resistance") to the idea of the divine. Continuity
-mixes the sacred with the profane. For the spiritualist, a truly Christian
-order must remain digital. To maintain otherwise would be Gnostic heresy
-[@edwards_neglected_1990; @shaked_dualism_2005, 52-71].
+must be shunned because it mixes the sacred with the profane. For the
+spiritualist, a truly Christian order must remain digital. To maintain
+otherwise would be Gnostic heresy [@edwards_neglected_1990;
+@shaked_dualism_2005, 52-71].
 
-Following Kant, it is common for contemporary cultural critics of computation
-to associate the digital, discrete view of the universe with determinism and
-its consequent threat to the idea of free will.[^ln1-golumbia] The telegraph
-spiritualists instead associate determinism with continuity. Witness George
-Dole writing in his Philosophy of Creation:
+Where contemporary cultural critics of computation associate the digital,
+discrete view of the universe with determinism and its consequent threat to
+the idea of free will, the telegraph spiritualists instead associate
+determinism with continuity. Witness George Dole writing in his *Philosophy of
+Creation*:
 
 > Scientists have prosecuted research on the plane of continuous degrees of the
 ultimates, and they have thereby failed to penetrate to interior things of
@@ -352,7 +371,9 @@ discrete degree. Consequently they derive life as not from the Lord, but from
 nature, of which they have no other idea than that it is something mechanical
 [@dole_philosophy_1906].
 
-Neither camp can ground their claims in the material contexts of media
+Neither idea
+
+can ground their claims in the material contexts of media
 production (or in cognitive phenomenology). Nothing in the operation of the
 Pollak-Virag telegraph gives us reason to posit either analog or digital
 representation as somehow more or less essential to the human experience.
@@ -466,16 +487,17 @@ and is brought about, by the denial of God" [@swedenborg_apocalypse_1901, 290].
 
 [^ln1-golumbia]: See @golumbia_cultural_2009: "Following a line of criticism
 that extends at least as farm back as Kant [...] (loc. 63)." Paraphrasing
-@deleuze_postscript_1992, Golumbia writes "To submit a phenomenon to computation is to striate
-otherwise-smooth details, among details, to push upwards towards the sovereign,
-to make only high-level control available to the user and then only those
-aspects of control that are deemed appropriate to the sovereign (loc. 159)."
-To get to the bottom of the contemporary unease with digitization,
-we will first examine some of the material contexts that support the
-propagation of digital media. We will then look at a few formal, theoretical
-attempts to describe the particularity of digital representation.  Finally, we
-will have the chance to examine the specifics by which digital media
-necessitates a change in the "mode" of specifically digital apprehension.
+@deleuze_postscript_1992, Golumbia writes "To submit a phenomenon to
+computation is to striate otherwise-smooth details, among details, to push
+upwards towards the sovereign, to make only high-level control available to
+the user and then only those aspects of control that are deemed appropriate to
+the sovereign (loc. 159)." To get to the bottom of the contemporary unease
+with digitization, we will first examine some of the material contexts that
+support the propagation of digital media. We will then look at a few formal,
+theoretical attempts to describe the particularity of digital representation.
+Finally, we will have the chance to examine the specifics by which digital
+media necessitates a change in the "mode" of specifically digital
+apprehension.
 
 [^ln3-digital]: For a summary of digital physics and metaphysics see
 @steinhart_digital_1998 and @floridi_against_2009.
