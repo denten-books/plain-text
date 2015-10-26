@@ -11,7 +11,8 @@ physical restraint is non-representational enactment of power. Like all
 violence it does not stand for anything. It is an arrangement, a
 rearrangement, of matter.
 
-Formatting as something that structures experience.
+Formatting as something that structures experience. Formatting is what
+*relates* content to matter.
 
 Empty of content, arrangement
 
