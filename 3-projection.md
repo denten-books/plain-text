@@ -371,7 +371,13 @@ discrete degree. Consequently they derive life as not from the Lord, but from
 nature, of which they have no other idea than that it is something mechanical
 [@dole_philosophy_1906].
 
-Neither idea
+"The brain is no more than a kind of central telephonic exchange: its office
+is to allow communication or to delay it." [@bergson_matter-memory, 19]
+
+"Metaphor for metaphor, we would rather compare the elementary work of
+attention to that of the telegraph clerk who, on receipt of an important
+dispatch, sends it back again, word for word, in order to check its accuracy"
+[@berson-matter-memory, 129].
 
 can ground their claims in the material contexts of media
 production (or in cognitive phenomenology). Nothing in the operation of the
