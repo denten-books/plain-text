@@ -294,20 +294,64 @@ ticker tape and its subsequent reconstitution into a continuous shape.
 ![Writing Telegraph, 1901 [@pollak_writing-telegraph_1901].](images/virag.png)
 
 Pollak and Virag believed that their sine wave telegraph had the distinct
-adventage trasmitting messages "recorded in ordinary written or script
-charachters." In the language of the patent, other forms of "facsimilie"
-telegraph transmitted merely the the "conventional form" of the letter, and
-not the letter itself. By contrast, the Pollak-Virag system was in their words
+advantage transmitting messages "recorded in ordinary written or script
+characters." In the language of the patent, other forms of "facsimile"
+telegraph transmitted merely the "conventional form" of the letter, and not
+the letter itself. By contrast, the Pollak-Virag system was in their words
 "non-autographic." The autographic telegraph preserved the particularity of
-the human hand. It purpurted to transmit not only the conventional form of the
+the human hand. It purported to transmit not only the conventional form of the
 letter, but the peculiarity of an individual's signature. It was the humane
-telegraph in the sense that it preserved someting human. The metaphysics
+telegraph in the sense that it preserved something human. The metaphysics
 accompanying telegraph communication at the time were in fact often concerned
 with human erasure. Notions of material discreteness and continuity
 represented not mere physical attributes of encoding or electricity but
 higher-order cultural and even ethical categories. The underlying physical
 structure of communication seemed to affect the very notion of what it means
 to be human.
+
+Beneath the technical conversations about the advantages of discrete or
+continuous electrical signal lay a philosophic concern with the fundamental
+makeup of the universe itself. For Henri Bergson, one of the most prominent
+philosophers of the time, the "real whole of the universe" constituted an
+"indivisible continuity" [@bergson_creative_1944, 36]. Science, technology,
+and other "artificial systems" in Bergson's thought impose discrete "partial
+views" on the whole.[^ln3-bergsonism] The partial views, for Bergson, resemble
+the operation of the cinematograph, which divides continuous motion into
+distinct frames. By putting the frames into the apparatus, we are thus able to
+"reconstitute the individuality of each particular movement." "Such is the
+contrivance of the cinematograph," Bergson writes. "And such is also that of
+our knowledge" [@bergson_creative_1944, 332]. In this way, the intellect
+continually separates the undifferentiated reality into discrete states of time
+and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
+But these states are virtually, not actually, discrete. The evolution of life
+proceeds "rather like a shell" which "bursts into fragments," which are
+themselves again shells [@bergson_creative_1944, 109].
+
+On such a view of the universes, the brain and the central nervous system act
+as a kind of a "central telephonic exchange," which communicates between the
+extrinsic continuous world and the intrinsic "snapshots" stored in memory
+[@bergson_matter-memory, 19]. The mind receives "images" of the world that it
+compares with existing "stored" images to produce a kind of a new composite
+image that is then again stored into memory, and so on. With this in mind,
+Bergson denies the "flashlight" model of discovering facts about the world.
+The mind does not shine a light to bring attention to this or that hidden
+feature of the world. "Metaphor for metaphor, we would rather compare the
+elementary work of attention to that of the telegraph clerk who, on receipt of
+an important dispatch, sends it back again, word for word, in order to check
+its accuracy" [@berson-matter-memory, 129]. The object is thus neither an
+independent thing nor purely a product of the mind. By this "telegraphic"
+picture, Bergson avoids both fully relativistic and fully essentialist
+accounts of knowledge making.
+
+[^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
+multiplicities in Bergsonian thought see also @deleuze_bergsonism_1990 on .
+
+Now of course to agree with Bergson is to take on the model of the mind as a
+cinematographic "framing" device along with a model of the world that is *a
+priori* continuous in nature. In a damning evaluation of Bergson's philosophy,
+Bertrand Russel notes that such assumptions are merely poetic images, not
+subject to falsification [@russell_philosophy_1914, 24]. They hold for him the
+truth of poetry not truth of physics or philosophy.
 
 In 1905, arguing in opposition to the sine-wave camp, Donald Murray, whose
 alphabet would become the basis for modern character encodings like the ASCII,
@@ -325,8 +369,8 @@ experience is discrete in nature. To retain the essentially *digital* quality
 of things like dance and writing the telegraph therefore must transmit
 messages using the square, saw-tooth wave instead of the sinusoid. The sine
 wave is simply too regular to answer to the diverse needs of human culture.
-The sinusoid is cyclical, repetitative, and continuous, where the human
-experience is fragmentary, non-periodc, and irregular. For Murray, the shape
+The sinusoid is cyclical, repetitive, and continuous, where the human
+experience is fragmentary, non-periodic, and irregular. For Murray, the shape
 of the square wave better reflects what it means to be human.[^ln1-dervish]
 
 Writing for the Swedenborg-inspired *Spiritual Telegraph*, an anonymous author
@@ -370,14 +414,6 @@ ultimates, and they have thereby failed to penetrate to interior things of
 discrete degree. Consequently they derive life as not from the Lord, but from
 nature, of which they have no other idea than that it is something mechanical
 [@dole_philosophy_1906].
-
-"The brain is no more than a kind of central telephonic exchange: its office
-is to allow communication or to delay it." [@bergson_matter-memory, 19]
-
-"Metaphor for metaphor, we would rather compare the elementary work of
-attention to that of the telegraph clerk who, on receipt of an important
-dispatch, sends it back again, word for word, in order to check its accuracy"
-[@berson-matter-memory, 129].
 
 can ground their claims in the material contexts of media
 production (or in cognitive phenomenology). Nothing in the operation of the
