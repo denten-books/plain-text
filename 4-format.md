@@ -1,9 +1,22 @@
-# Chapter 3: Format
+# Chapter 4: Format
 `form, format, formula`
 
 > Il faut nous laver de la littérature. Nous voulons être hommes avant tout,
 être humains. Il n'y a pas de formes ou de forme. Il n'y a que le
 jaillissement de la vie [@artaud_uvres_1980, 204].
+
+As information was compressed and pushed through the wires, it underwent a
+number of transformations. Donald Murray, the inventor of the popular Murray
+telegraph alphabet, conceived of that transformation in terms of movement from
+space to time. Unfolding something like the "metaphysics of telegraph
+signalling alphabets," he described spatial writing symbols that "appeal to
+the eye," and temporal, "telephonic" signals that "appeal to the ear."
+Paradoxically, space signals (like words on a billboard) occupy little space,
+but persist in time. "For instance, a signboard may extend over 10 feet and
+100 years," Murray writes. Time signals are ephemeral by contrast: "a Morse
+signal in a wire may extend over half a second and 500 miles"
+[@murray_setting_1905, 86]. When viewed in the light of telegraphy,
+technologies of writing stretch the sign in time and space.
 
 The difference between a restraining order and physical restraints is one of
 brute force. The restraining order represents the calling forth of power. The

@@ -2,39 +2,26 @@
 
 `digital, medium, mode`
 
-As information was compressed and pushed through the wires, it underwent a
-number of transformations. Donald Murray, the inventor of the popular Murray
-telegraph alphabet, conceived of that transformation in terms of movement from
-space to time. Unfolding something like the "metaphysics of telegraph
-signalling alphabets," he described spatial writing symbols that "appeal to
-the eye," and temporal, "telephonic" signals that "appeal to the ear."
-Paradoxically, space signals (like words on a billboard) occupy little space,
-but persist in time. "For instance, a signboard may extend over 10 feet and
-100 years," Murray writes. Time signals are ephemeral by contrast: "a Morse
-signal in a wire may extend over half a second and 500 miles"
-[@murray_setting_1905, 86]. When viewed in the light of telegraphy,
-technologies of writing stretch the sign in time and space.
-
 To grasp the peculiarity of the computed sign stretched between the sites of
-archive and projection we will have to build a shared sense of vocabulary,
-which includes terms both technical and literary critical. The following three
-chapters trace the passage of the inscription through the computational
-device, beginning with its apparent, outward shape on the screen. The screen
-has this one major peculiarity: it refreshes itself multiple times per second.
-Thus even those shapes that appear to stand still on the screen move in the
-realm beyond the threshold of human perception. We are vaguely aware of this
-movement: it is commonly visible when a screen appears on another screen, as
-it does in documentary films that show someone in the process of typing at the
-computer terminal or watching television. The difference in the flicker rates
-between the projector showing the image and the projector "in the frame" is
-what produces the characteristic horizontal interference pattern. The illusion
-of motion is key to understanding the mechanics of cinema, but what does it
-mean to perceive seemingly static words against the background of a
-fundamentally dynamic medium? Instead of a static and immutable sign etched in
-stone or on paper we observe the sign in motion. To refer to the "illusion" of
-digital textuality is therefore to identify the dynamic property of
-projection. To place text on the screen is to bring it closer to the moving
-image. What happens to literature that takes place on cinema screen?
+archive and projection we will have to build a shared vocabulary that includes
+terms both technical and literary critical. The following three chapters trace
+the passage of the inscription through the computational device, beginning
+with its apparent, outward shape on the screen. The screen has this one major
+peculiarity: it refreshes itself multiple times per second.  Thus even those
+shapes that appear to stand still on the screen move in the realm beyond the
+threshold of human perception. We are vaguely aware of this movement: it is
+commonly visible when a screen appears on another screen, as it does in
+documentary films that show someone in the process of typing at the computer
+terminal or watching television. The difference in the flicker rates between
+the projector showing the image and the projector "in the frame" is what
+produces the characteristic horizontal interference pattern. The illusion of
+motion is key to understanding the mechanics of cinema, but what does it mean
+to perceive seemingly static words against the background of a fundamentally
+dynamic medium? Instead of a static and immutable sign etched in stone or on
+paper we observe the sign in motion. To refer to the "illusion" of digital
+textuality is therefore to identify the dynamic property of projection. To
+place text on the screen is to bring it closer to the moving image. What
+happens to literature that takes place on cinema screen?
 
 In this chapter, I bring archival material---blueprints, phenomenological
 accounts, and debates in the philosophy of aesthetics---to bare on the
@@ -334,8 +321,8 @@ distinct frames. By putting the frames into the apparatus, we are thus able to
 "reconstitute the individuality of each particular movement." "Such is the
 contrivance of the cinematograph," Bergson writes. "And such is also that of
 our knowledge" [@bergson_creative_1944, 332]. In this way, the intellect
-continually separates the undifferentiated reality into discrete states of time
-and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
+continually separates the undifferentiated reality into discrete states of
+time and space [@bergson_creative_1944, 167-182; @russell_philosophy_1914, 4].
 But these states are virtually, not actually, discrete. The evolution of life
 proceeds "rather like a shell" which "bursts into fragments," which are
 themselves again shells [@bergson_creative_1944, 109].
@@ -398,7 +385,7 @@ exchange of signifying "thought vehicles") between "source superior" and the
 "receiver of instructions," who are placed in a binary and opposing relation
 ("negative" but without "resistance") to the idea of the divine.
 
-Contrary to the intubation that would associate the discrete view of the
+Contrary to the intuition that would associate the discrete view of the
 universe with determinism and its consequent threat to the idea of free will,
 the telegraph spiritualists instead associate determinism with continuity.
 Witness George Dole writing in his *Philosophy of Creation*:
@@ -438,9 +425,9 @@ Golumbia, Murray assumes that human experience is discrete by nature. For
 Murray it is the continuous and regular sine that fails to represent the human
 experience, which he takes to be analogous to the saw-tooth wave: fragmentary,
 non-periodic, and irregular. By contrast, the sine wave has the exotic
-characteristics of being cyclical, repetitive, and continuous. In Murray's
-blueprint for telegraphic communications, the shape of the square wave more
-closely resembles the characterises of modern culture.[^ln1-dervish]
+characteristics of being cyclical, repetitive, and continuous. The shape of
+the square wave more closely resembles Murray's normative vision of modern
+human culture.[^ln1-dervish]
 
 can ground their claims in the material contexts of media
 production (or in cognitive phenomenology). Nothing in the operation of the
