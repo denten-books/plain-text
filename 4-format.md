@@ -149,6 +149,32 @@ human-legible form on the receiving end.
 
 ## Medium not the Message (attunement)
 
+By "encoding," I mean a "controlled system of representation." Representation
+in its unrestrained form (as in "pictorial representation") differs from
+"encoding" in the size of its vocabulary. Painting and other forms of
+uninhibited representational conventions are limitless in their expressive
+possibility. The "language" of painting is infinite, in other words. Encoding,
+by contrast, reduces the universe of possibilities to a limited set of salient
+"codes," like the alphabet. These codes have a formal grammar and rules of
+composition. Although the expressive potential of written language is
+limitless, in some combinatorial sense of the word, language and other codes
+can "break," that is, be reduced to nonsense, in a way that painting cannot. A
+telegraph of the single-Morse type accepts alpha-numeric characters at first
+and then translates them into a system of signals, expressed in time intervals
+(between the synchronization tone and the activation of the key).
+
+It becomes clear from the description of early telegraph encoding systems that
+transcoding and transmediation relate to each other somehow. On one hand, all
+changes between encoding systems necessitate material phase transition, if not
+from one type of medium into another (from paper to magnetic storage, for
+example), then from one specific material context into another (as when one
+merely translates from French into English on the same piece of paper).
+Transmediation, on the other hand, may or may not involve a change in encoding
+formats, although it frequently does, as when language on paper is transformed
+into the pulsations of the electrical signal in Morse code. In reading and
+playing music, a musician furthermore transforms musical notation---a
+controlled, paper-bound vocabulary---into sound representation, the movement of
+molecules unlimited in its expressive potential.
 What matters is that the medium is largely independent from the type of
 information stored on it, and this contrary to Marshall McLuhan infamous "the
 medium is the message" dictum.15 The world itself "medium" is misleading in

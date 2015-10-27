@@ -2,6 +2,19 @@
 
 `digital, medium, mode`
 
+As information was compressed and pushed through the wires, it underwent a
+number of transformations. Donald Murray, the inventor of the popular Murray
+telegraph alphabet, conceived of that transformation in terms of movement from
+space to time. Unfolding something like the "metaphysics of telegraph
+signalling alphabets," he described spatial writing symbols that "appeal to
+the eye," and temporal, "telephonic" signals that "appeal to the ear."
+Paradoxically, space signals (like words on a billboard) occupy little space,
+but persist in time. "For instance, a signboard may extend over 10 feet and
+100 years," Murray writes. Time signals are ephemeral by contrast: "a Morse
+signal in a wire may extend over half a second and 500 miles"
+[@murray_setting_1905, 86]. When viewed in the light of telegraphy,
+technologies of writing stretch the sign in time and space.
+
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared sense of vocabulary,
 which includes terms both technical and literary critical. The following three
@@ -343,78 +356,91 @@ independent thing nor purely a product of the mind. By this "telegraphic"
 picture, Bergson avoids both fully relativistic and fully essentialist
 accounts of knowledge making.
 
-[^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
-multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
-@deleuze_bergsonism_1990.
-
 Now of course to agree with Bergson is to take on the model of the mind as a
 cinematographic "framing" device along with a model of the world that is *a
 priori* continuous in nature. In a damning evaluation of Bergson's philosophy,
 Bertrand Russel notes that such assumptions are merely poetic images, not
-subject to falsification [@russell_philosophy_1914, 24]. They hold for him the
-truth of poetry not truth of physics or philosophy.
+subject to falsification [@russell_philosophy_1914, 24]. They hold the truth
+of poetry, as Russel writes, not truth of physics or philosophy. Bergson
+assumes the world to constitute a continuous system and the mind a discrete
+one, akin to a telegraph. To this day, one would find it difficult to find
+scientific consensus on such topics as the "digital make up of the physical
+world" or on the continuity of conciousness. And there was certainly no
+consensus on the matter at the time. The analogy between the mind and the
+telegraph falls apart when one considers that even the nature of telegraphy
+was ultimately at question.
 
-In 1905, arguing in opposition to the sine-wave camp, Donald Murray, whose
-alphabet would become the basis for modern character encodings like the ASCII,
-wrote:
+For example, writing for the Swedenborg-inspired[^ln3-swedenborg] *Spiritual
+Telegraph* in 1854, an anonymous author unfolds a kind of a theological media
+theory, which hinges on the ultimately discrete nature of the universe.
+"Whenever two persons are brought into sympathetic relations," he writes
+"either by corporeal contact or through those refined media which pervade the
+Universe and serve as the airy vehicles of thought, they mutually feel the
+presence of each other." In this relationship "the mind which is gifted with
+the greater degree of activity and power" at once attains a hierarchal
+relation to the lesser intellect, becoming "the proximate cause and fountain
+of inspiration to the other" [@brittan_spiritual_1854, 169].
 
-> Certainly if Smith wants to make Jones spin round like a dancing Dervish,
-> the best way might be for Smith to transmit sine waves [...] but in practice
-> Smith always wants to make Jones perform an excessively complicated and
-> irregular series of motions, and for this purpose it is essential to
-> transmit similar motions by introducing upper harmonics in a fragmentary,
-> non-periodic, and very irregular way [@murray_setting_1905, 559].
-
-Like Stephen Marche and Stanley Fish after him, Murray assumes that human
-experience is discrete in nature. To retain the essentially *digital* quality
-of things like dance and writing the telegraph therefore must transmit
-messages using the square, saw-tooth wave instead of the sinusoid. The sine
-wave is simply too regular to answer to the diverse needs of human culture.
-The sinusoid is cyclical, repetitive, and continuous, where the human
-experience is fragmentary, non-periodic, and irregular. For Murray, the shape
-of the square wave better reflects what it means to be human.[^ln1-dervish]
-
-Writing for the Swedenborg-inspired *Spiritual Telegraph*, an anonymous author
-makes a similar argument in favor of discrete differentiation:
-
-> Whenever two persons are brought into sympathetic relations, either by
-> corporeal contact or through those refined media which pervade the Universe
-> and serve as the airy vehicles of thought, they mutually feel the presence
-> of each other, while the mind which is gifted with the greater degree of
-> activity and power at once becomes the proximate cause and fountain of
-> inspiration to the other. Thus from sources superior to ourselves, the very
-> elements of life and thought flow into us, and every living thing, according
-> to its nature and discrete degree, derives a kind of inspiration from that
-> which is above. In order to facilitate the transmission of impressions in
-> this way, the recipient must be willing to receive instruction and assume
-> the passive or negative relation of a learner; otherwise he will be likely
-> to resist, unconsciously, the infusion of foreign impressions and Divine
-> ideas [@brittan_spiritual_1854, 169].
-
-Following Swedenborg, the telegraph spiritualists conceive the discrete
-quality of human experience as essential to the Christian hierarchy of the
-universe.[^ln1-swedenborg] To deny step-wise ordering of "refined media"
-pervading the universe is to close oneself off to the "transmission of
+God naturally occupies the highest point of such a pyramid: "from sources
+superior to ourselves, the very elements of life and thought flow into us, and
+every living thing, according to its nature and discrete degree, derives a
+kind of inspiration from that which is above." The "discrete degree" must be
+preserved, because without it the hierarchy would lose meaning.  Thus "in
+order to facilitate the transmission of impressions," "the recipient" of the
+vital flow "must be willing to receive instruction and assume the passive or
+negative relation of a learner." Without discreteness and without hierarchy
+"he will be likely to resist unconsciously, the infusion of foreign
+impressions and Divine ideas" [@brittan_spiritual_1854, 169]. In this
+essentially telegraphic model of the universe, to deny the step-wise hierarchy
+of "refined media" is to close oneself off to the "transmission of
 impressions," in a communication act (consisting of a "contact" and the
 exchange of signifying "thought vehicles") between "source superior" and the
-"receiver of instructions," placed in a binary and opposing relation
-("negative" but without "resistance") to the idea of the divine. Continuity
-must be shunned because it mixes the sacred with the profane. For the
-spiritualist, a truly Christian order must remain digital. To maintain
-otherwise would be Gnostic heresy [@edwards_neglected_1990;
-@shaked_dualism_2005, 52-71].
+"receiver of instructions," who are placed in a binary and opposing relation
+("negative" but without "resistance") to the idea of the divine.
 
-Where contemporary cultural critics of computation associate the digital,
-discrete view of the universe with determinism and its consequent threat to
-the idea of free will, the telegraph spiritualists instead associate
-determinism with continuity. Witness George Dole writing in his *Philosophy of
-Creation*:
+Contrary to the intubation that would associate the discrete view of the
+universe with determinism and its consequent threat to the idea of free will,
+the telegraph spiritualists instead associate determinism with continuity.
+Witness George Dole writing in his *Philosophy of Creation*:
 
 > Scientists have prosecuted research on the plane of continuous degrees of the
 ultimates, and they have thereby failed to penetrate to interior things of
 discrete degree. Consequently they derive life as not from the Lord, but from
 nature, of which they have no other idea than that it is something mechanical
 [@dole_philosophy_1906].
+
+Continuity for the spiritual telegraphists must be shunned because it mixes
+the sacred with the profane. For the spiritualist, a truly Christian order
+must remain digital. To maintain otherwise would be to propagate the Gnostic
+heresy [@edwards_neglected_1990; @shaked_dualism_2005, 52-71].
+
+Where Bergson believed the telegraph to translate continuous "analog"
+experience into discrete "digital" snapshots, the Swedenborgian mystic sees it
+as a model of communication that maintains fidelity to the hidden order of a
+well-differentiated universe. The intuitions from one model to another are
+completely reversed. Arguing in opposition to sine-wave telegraphy in 1905,
+Donald Murray, whose alphabet would become the basis for modern character
+encodings like ASCII and UTF-8, displays a similar bias against analog
+quantities, which for him, cannot capture complex human activity like writing
+or dance. "About ten years ago, there was a brisk discussion in some of the
+electrical journals in regards to simple harmonic curve or sine wave for the
+transmission of power by by the alternating current," he writes:
+
+> If Smith wants to make Jones spin round like a dancing Dervish, the best way
+> might be for Smith to transmit sine waves [...] but in practice Smith always
+> wants to make Jones perform an excessively complicated and irregular series
+> of motions, and for this purpose it is essential to transmit similar motions
+> by introducing upper harmonics in a fragmentary, non-periodic, and very
+> irregular way [@murray_setting_1905, 559].
+
+Like Stephen Marche and Stanley Fish after him, and unlike Bergson or David
+Golumbia, Murray assumes that human experience is discrete by nature. For
+Murray it is the continuous and regular sine that fails to represent the human
+experience, which he takes to be analogous to the saw-tooth wave: fragmentary,
+non-periodic, and irregular. By contrast, the sine wave has the exotic
+characteristics of being cyclical, repetitive, and continuous. In Murray's
+blueprint for telegraphic communications, the shape of the square wave more
+closely resembles the characterises of modern culture.[^ln1-dervish]
 
 can ground their claims in the material contexts of media
 production (or in cognitive phenomenology). Nothing in the operation of the
@@ -443,33 +469,6 @@ changes of encoding: here, from script to perforation, into vibration, to the
 shape of the sinusoidal electrical impulse, and back out through a series of
 transformations into script.
 
-By "encoding," I mean a "controlled system of representation." Representation
-in its unrestrained form (as in "pictorial representation") differs from
-"encoding" in the size of its vocabulary. Painting and other forms of
-uninhibited representational conventions are limitless in their expressive
-possibility. The "language" of painting is infinite, in other words. Encoding,
-by contrast, reduces the universe of possibilities to a limited set of salient
-"codes," like the alphabet. These codes have a formal grammar and rules of
-composition. Although the expressive potential of written language is
-limitless, in some combinatorial sense of the word, language and other codes
-can "break," that is, be reduced to nonsense, in a way that painting cannot. A
-telegraph of the single-Morse type accepts alpha-numeric characters at first
-and then translates them into a system of signals, expressed in time intervals
-(between the synchronization tone and the activation of the key).
-
-It becomes clear from the description of early telegraph encoding systems that
-transcoding and transmediation relate to each other somehow. On one hand, all
-changes between encoding systems necessitate material phase transition, if not
-from one type of medium into another (from paper to magnetic storage, for
-example), then from one specific material context into another (as when one
-merely translates from French into English on the same piece of paper).
-Transmediation, on the other hand, may or may not involve a change in encoding
-formats, although it frequently does, as when language on paper is transformed
-into the pulsations of the electrical signal in Morse code. In reading and
-playing music, a musician furthermore transforms musical notation---a
-controlled, paper-bound vocabulary---into sound representation, the movement of
-molecules unlimited in its expressive potential.
-
 Blueprints for the writing telegraph reveal a device that mixes discrete and
 continuous modes of representation, through multiple acts of transcoding and
 transmediation. Digitality, in that sense, is besides the point. The telegraph
@@ -480,71 +479,6 @@ each end of the telegraph cable is a transmediation device that makes media
 transference possible. I use the word "media" here in the bluntest way
 possible: as "material basis" or "substratum" for some observed, higher-order
 phenomenon (in our case, communication).
-
-As information was compressed and pushed through the wires, it underwent a
-number of transformations. Donald Murray, the inventor of the Murray alphabet,
-conceived of that transformation in terms of movement from space to time.
-Unfolding something like the "metaphysics of telegraph signalling alphabets"
-(his words), he describes spatial writing symbols that "appeal to the eye," and
-temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
-signals (like a signboard) occupy little space, but persist in time. "For
-instance, a signboard may extend over 10 feet and 100 years," Murray writes.
-Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
-over half a second and 500 miles" [@murray_setting_1905, 86].
-
-[^ln1-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
-"systematic logic in the dominant cultural technique," representative of the
-"order of digital signals" [@siegert_cacography_2011, 41]. Although not
-concerned with the history or philosophy of digital media explicitly, Siegert
-suggests that the writing telegraph symbolizes the cleansing of "the noise of
-all graphic form." His theory of cultural techniques instead creates "an
-awareness for the plenitude of a world of as yet undistinguished things, that,
-as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture" [@siegert_cacography_2011, 35].
-
-[^ln1-virag]: The Pollak-Virag device also proposed an "electromagnetic
-vibrator" coupled to a recording "mirror-galvanometer." The authors further
-specify for "the vibrator on the receiving instrument [to] vibrate in harmony
-with these impulses, vibrating in one direction or the other, according to
-their sign and to an extent depending on their intensity" [@pollak_means_1900].
-
-[^ln1-dervish]: One could make more of the Dervish being used here as a
-negative example, in an instance of colonial gaze. But Murray himself was an
-empire outsider, born in the small, remote town of Invercargill, New Zealand (a
-town that also happens to be one of the southern-most cities in world). "I am a
-child of the Southern Cross," he writes in *Philosophy of Power*, "and I have
-no preordained respect for geniuses born under the Northern constellations" [@murray_philosophy_1939, 51].
-
-[^ln1-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
-those who assert the materiality of the soul, affirming it to be homogeneous,
-and continuous with the body; whereas it is heterogeneous, and discrete" (24).
-Swedenborg gives the neoplatonic, monistic articulation of the matter to the
-angels, in the "Angelic Idea of Creation," writing "The question was asked,
-'Whence, then, is hell?' They said, 'From man's freedom, without which a man
-would not be a man,' because man, from that freedom, broke the continuity in
-himself; and this being broken, separation took place; and the continuity,
-which was in him from creation, became like a chain, or a piece of linked
-work, which falls to pieces when the hooks above are broken or torn out, and
-then hangs down from small threads. Separation or rupture was brought about,
-and is brought about, by the denial of God" [@swedenborg_apocalypse_1901, 290].
-
-[^ln1-golumbia]: See @golumbia_cultural_2009: "Following a line of criticism
-that extends at least as farm back as Kant [...] (loc. 63)." Paraphrasing
-@deleuze_postscript_1992, Golumbia writes "To submit a phenomenon to
-computation is to striate otherwise-smooth details, among details, to push
-upwards towards the sovereign, to make only high-level control available to
-the user and then only those aspects of control that are deemed appropriate to
-the sovereign (loc. 159)." To get to the bottom of the contemporary unease
-with digitization, we will first examine some of the material contexts that
-support the propagation of digital media. We will then look at a few formal,
-theoretical attempts to describe the particularity of digital representation.
-Finally, we will have the chance to examine the specifics by which digital
-media necessitates a change in the "mode" of specifically digital
-apprehension.
-
-[^ln3-digital]: For a summary of digital physics and metaphysics see
-@steinhart_digital_1998 and @floridi_against_2009.
-
 
 ## Motion Blur
 
@@ -1118,3 +1052,61 @@ measuring system" [2].
 Heidegger would be good here.
 
 Media
+
+[^ln3-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
+"systematic logic in the dominant cultural technique," representative of the
+"order of digital signals" [@siegert_cacography_2011, 41]. Although not
+concerned with the history or philosophy of digital media explicitly, Siegert
+suggests that the writing telegraph symbolizes the cleansing of "the noise of
+all graphic form." His theory of cultural techniques instead creates "an
+awareness for the plenitude of a world of as yet undistinguished things, that,
+as an inexhaustible reservoir of possibilities, remain the basic point of
+reference for every type of culture" [@siegert_cacography_2011, 35].
+
+[^ln3-virag]: The Pollak-Virag device also proposed an "electromagnetic
+vibrator" coupled to a recording "mirror-galvanometer." The authors further
+specify for "the vibrator on the receiving instrument [to] vibrate in harmony
+with these impulses, vibrating in one direction or the other, according to
+their sign and to an extent depending on their intensity" [@pollak_means_1900].
+
+[^ln3-dervish]: One could make more of the Dervish being used here as a
+negative example, in an instance of colonial gaze. But Murray himself was an
+empire outsider, born in the small, remote town of Invercargill, New Zealand (a
+town that also happens to be one of the southern-most cities in world). "I am a
+child of the Southern Cross," he writes in *Philosophy of Power*, "and I have
+no preordained respect for geniuses born under the Northern constellations" [@murray_philosophy_1939, 51].
+
+[^ln3-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
+those who assert the materiality of the soul, affirming it to be homogeneous,
+and continuous with the body; whereas it is heterogeneous, and discrete" (24).
+Swedenborg gives the neoplatonic, monistic articulation of the matter to the
+angels, in the "Angelic Idea of Creation," writing "The question was asked,
+'Whence, then, is hell?' They said, 'From man's freedom, without which a man
+would not be a man,' because man, from that freedom, broke the continuity in
+himself; and this being broken, separation took place; and the continuity,
+which was in him from creation, became like a chain, or a piece of linked
+work, which falls to pieces when the hooks above are broken or torn out, and
+then hangs down from small threads. Separation or rupture was brought about,
+and is brought about, by the denial of God" [@swedenborg_apocalypse_1901, 290].
+
+[^ln3-golumbia]: See @golumbia_cultural_2009: "Following a line of criticism
+that extends at least as farm back as Kant [...] (loc. 63)." Paraphrasing
+@deleuze_postscript_1992, Golumbia writes "To submit a phenomenon to
+computation is to striate otherwise-smooth details, among details, to push
+upwards towards the sovereign, to make only high-level control available to
+the user and then only those aspects of control that are deemed appropriate to
+the sovereign (loc. 159)." To get to the bottom of the contemporary unease
+with digitization, we will first examine some of the material contexts that
+support the propagation of digital media. We will then look at a few formal,
+theoretical attempts to describe the particularity of digital representation.
+Finally, we will have the chance to examine the specifics by which digital
+media necessitates a change in the "mode" of specifically digital
+apprehension.
+
+[^ln3-digital]: For a summary of digital physics and metaphysics see
+@steinhart_digital_1998 and @floridi_against_2009.
+
+[^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
+multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
+@deleuze_bergsonism_1990.
+
