@@ -327,10 +327,10 @@ But these states are virtually, not actually, discrete. The evolution of life
 proceeds "rather like a shell" which "bursts into fragments," which are
 themselves again shells [@bergson_creative_1944, 109].
 
-On such a view of the universes, the brain and the central nervous system act
+On such a view of the universe, the brain and the central nervous system act
 as a kind of a "central telephonic exchange," which communicates between the
 extrinsic continuous world and the intrinsic "snapshots" stored in memory
-[@bergson_matter-memory, 19]. The mind receives "images" of the world that it
+[@bergson_matter_1912, 19]. The mind receives "images" of the world that it
 compares with existing "stored" images to produce a kind of a new composite
 image that is then again stored into memory, and so on. With this in mind,
 Bergson denies the "flashlight" model of discovering facts about the world.
@@ -338,13 +338,14 @@ The mind does not shine a light to bring attention to this or that hidden
 feature of the world. "Metaphor for metaphor, we would rather compare the
 elementary work of attention to that of the telegraph clerk who, on receipt of
 an important dispatch, sends it back again, word for word, in order to check
-its accuracy" [@berson-matter-memory, 129]. The object is thus neither an
+its accuracy" [@bergson_matter_1912, 129]. The object is thus neither an
 independent thing nor purely a product of the mind. By this "telegraphic"
 picture, Bergson avoids both fully relativistic and fully essentialist
 accounts of knowledge making.
 
 [^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
-multiplicities in Bergsonian thought see also @deleuze_bergsonism_1990 on .
+multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
+@deleuze_bergsonism_1990.
 
 Now of course to agree with Bergson is to take on the model of the mind as a
 cinematographic "framing" device along with a model of the world that is *a
