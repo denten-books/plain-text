@@ -468,8 +468,15 @@ phenomenon (in our case, communication).
 
 ## Motion Blur
 
-At this point it appears that the whole matter rests on arbitrary and
-contingent. Neither nor. Let us consider another case study, that will help.
+At this point it appears that the whole matter of digital representation rests
+on arbitrary and contingent assumptions. If literature is already a digital
+and discrete medium, why should it bother us when it is otherwise digitized?
+So what if the letter, already an atomic indivisible unit (at least in Latin
+script) is further broken down into pixels, the smallest indivisible units on
+the screen? Or does digitization matter because it transforms the nature of
+encoding? Just as one learns to translate the arbitrary shapes of the alphabet
+into distinct sounds one can learn to translate arbitrary digits into letters
+and back into sounds and thoughts.
 
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
