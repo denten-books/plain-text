@@ -469,6 +469,9 @@ phenomenon (in our case, communication).
 
 ## Motion Blur
 
+At this pint it appears that the whole matter rests on arbitrary and
+contingent. Neither nor. Let us consider another case study, that will help.
+
 Televisions sold at the turn of 2010 started shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
 viewers to report what has been dubbed as the "soap opera effect": a condition
