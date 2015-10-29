@@ -125,6 +125,16 @@ mechanical Arnold look like a friend and savior. The first terminates with
 shotguns and tire irons, where the second morphs into human shapes and pours
 itself inside, threatening life from within.
 
+Like the terminators of yesteryear, digital sprites and bogeymen lose their
+hold over popular imagination. Digital photography, digital clocks, and
+digital humanities already ring archaic in their futuristic ambition, going the
+way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
+-tron. The digital dissolves into the everyday as all clocks, all books, all
+texts, and all human activity passes through some form of "digital being." My
+aim here and throughout is to understand what is meant by its evocation: to
+"come to terms," to make visible, to disturb it, to denature, and to make it
+strange again.
+
 Although the quality of being digital plays a central role in the formation of
 new compounds like "digital media," "digital humanities," or the "digital
 divide," the very idea of what it means often contains entirely conflicting
@@ -635,16 +645,6 @@ humanities" in name only. To perceive what is at stake, we must do much more
 to disambiguate the digital cognates: electronic, binary, and computational.
 
 ## Metaphor
-
-Like the terminators of yesteryear, digital sprites and bogeymen lose their
-hold over popular imagination. Digital photography, digital clocks, and
-digital humanities already ring archaic in their futuristic ambition, going the
-way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
--tron. The digital dissolves into the everyday as all clocks, all books, all
-texts, and all human activity passes through some form of "digital being." My
-aim here and throughout is to understand what is meant by its invocation: to
-"come to terms," to make visible, to disturb it, to denature, and to make it
-strange again.
 
 ## We Have Always Been Digital (Format)
 
