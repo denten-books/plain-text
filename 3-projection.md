@@ -483,24 +483,37 @@ on arbitrary and contingent assumptions. If literature is already a digital
 and discrete medium, why should it bother us when it is otherwise digitized?
 So what if the letter, already an atomic indivisible unit (at least in Latin
 script) is further broken down into pixels, the smallest indivisible units on
-the screen? Or does digitization matter because it transforms the nature of
-encoding? Just as one learns to translate the arbitrary shapes of the alphabet
-into distinct sounds one can learn to translate arbitrary digits into letters
-and back into sounds and thoughts.
+the screen? Just as one learns to translate the arbitrary shapes of the
+alphabet into distinct sounds one can learn to translate arbitrary digits into
+letters and back into sounds and thoughts. That is not to say that *all*
+aspects of the computed sign are completely independent of sensory constraint.
+Humans cannot perceive the ultraviolet spectrum, for example. Nor would it be
+practical to create books so heavy as to prevent readers from turning the
+pages. The medium is "tuned" if you will to average human capabilities.
+Sensory constraints do determine the shape of the message to some reasonable
+extent. Yet other techniques of apprehension are socially constructed. Thus
+although all opera is in the human-audible frequency range, acculturation to
+opera listening helps greatly in its enjoyment. Some aspects of opera
+appreciation are learned (like knowing the plot) where others are determined
+(like the ability to hear sounds). The case of the so-called "soap opera
+effect" will help us understand some of the complexities involved in the
+distinction.
 
-Televisions sold at the turn of 2010 started shipping with a feature called
+Starting in 2010, modern televisions began shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
-viewers to report what has been dubbed as the "soap opera effect": a condition
-where even an expensively produced, big-budget film begins to look cheap and
-unnatural. I am quite susceptible to this phenomenon: I can tell when MCFI is
-in effect right away when watching something on someone else's television.
-Everything in the dynamics of the shot looks somehow fake. The actors, even in
-films that I've seen and love, appear to be acting. I no longer believe in
-their characters as real people. I notice their makeup and their props and I
-just know they are faking it. The sensation is akin to watching bad silent
-cinema. The style of acting seems forced and over the top. One cannot imagine
-people took *that* sort of thing seriously. The soap opera effect makes relics
-of recent cinema.
+viewers to report what has been dubbed as the "soap opera effect." Everything
+looks cheap to a viewer experiencing the soap opera effect. Even the familiar,
+critically acclaimed blockbuster featuring top acting talent and expensive
+camera work looks unnatural, like it produced on home video. I am quite
+susceptible to this phenomenon. I can tell when MCFI is in effect right away
+when watching something on someone else's television. When under the effect,
+the dynamics of the shot look somehow fake. The actors, even in films that
+I've seen and love, appear to be acting. I no longer believe in their
+characters as real people. I notice their makeup and their props and I just
+know they are faking it. The sensation is akin to watching bad silent cinema.
+The style of acting seems forced and "over the top." One cannot imagine people
+took *that* sort of thing seriously. The soap opera effect makes relics of
+contemporary cinema.
 
 The technology behind MCFI was developed in response to motion blur particular
 to flat-panel liquid crystal displays (LCDs). LCDs work by passing light
