@@ -495,9 +495,19 @@ extent. Yet other techniques of apprehension are socially constructed. Thus
 although all opera is in the human-audible frequency range, acculturation to
 opera listening helps greatly in its enjoyment. Some aspects of opera
 appreciation are learned (like knowing the plot) where others are determined
-(like the ability to hear sounds). The case of the so-called "soap opera
-effect" will help us understand some of the complexities involved in the
-distinction.
+(like the ability to hear sounds).
+
+We began the discussion by forming some intuitions about the nature of digital
+representation. And right away, we saw that such intuitions are at best
+conflicted, even when invoked by professional critics. Initially, it seemed
+that the intrinsic properties of media, like the "continuous" cursive script
+or the "discrete" perforations of the ticker tape, determine the techniques of
+apprehension. But under closer examination, the technologies involved resist
+easy categorization. We begin to notice that language is already digital, in
+many senses of the word, for example. And that human perception itself is
+neither purely discrete nor purely continuous phenomenon. A case study of the
+so-called "soap opera effect" will help us test such intuitions against a
+detailed microanalysis of the screen.
 
 Starting in 2010, modern televisions began shipping with a feature called
 "Motion-Compensated Frame Interpolation" (MCFI). The technology causes some
@@ -512,19 +522,20 @@ I've seen and love, appear to be acting. I no longer believe in their
 characters as real people. I notice their makeup and their props and I just
 know they are faking it. The sensation is akin to watching bad silent cinema.
 The style of acting seems forced and "over the top." One cannot imagine people
-took *that* sort of thing seriously. The soap opera effect makes relics of
-contemporary cinema.
+took *that* sort of thing seriously. The soap opera effect similarly makes
+relics of contemporary cinema.
 
 The technology behind MCFI was developed in response to motion blur particular
 to flat-panel liquid crystal displays (LCDs). LCDs work by passing light
-through a liquid crystal medium, sandwiched between two polarized light filters
-rotated at 90 degrees to each other. As light enters through one side, it
-twists following the slightly curved molecular structure of the crystal,
-allowing the beam to rotate and to pass through both filters. The structure
-unwinds when it receives an electrical current, effectively blocking the light
-from passing through the medium (into one, but not out of the other). By these
-means, a series of small, pinhole-like pixels can be turned on and off to
-create shapes, letters, and images on the screen.[^ln1-mishima]
+through a liquid crystal medium, sandwiched between two polarized light
+filters and rotated at 90 degrees to each other. As light enters through one
+side, it twists following the slightly curved molecular structure of the
+crystal, allowing the beam to rotate and to pass through both filters. The
+structure unwinds when it receives an electrical current, effectively blocking
+the light from passing through the medium. The gates close, so to speak, as
+the second filter begins to block the light from exiting. By these means, a
+series of small, pinhole-like pixels can be turned on and off to create
+shapes, letters, and images on the screen.[^ln1-mishima]
 
 [^ln1-mishima]: See @mishima_novel_2004.
 
@@ -533,131 +544,182 @@ characteristic nematic phase to the left, and circular focal conic domains in
 the smectic phase to the right. Image licensed under CC-BY-SA 3.0
 [@polimerek_smectic_2004].](images/liquid.jpg)
 
-Traditional film projectors advance from one frame to the next at a rate of 24
-times each second to match the rate at which the film is captured by
-traditional film cameras. The projector's light flickers two to three times per
-frame to produce the effect of continuous motion, giving the projector a
-"refresh rate" of 48–72 cycles per second, or Hertz (Hz). Without this strobing
-effect, under continuous light, the succession of frames moving past the light
-would appear as a blurry streak of undifferentiated images. An image persists
-in the human visual field for about 16 milliseconds after cessation of a
-stimulus, giving humans the temporal resolution of around 60 images per second.
-Consequently, an average person begins to reach the state of "critical flicker
-fusion," where the strobe light becomes unnoticeable at refresh rates higher
-than 60Hz. At the limits of flicker fusion, the image begins to persist through
-the gaps between frames, creating the appearance of continuous motion
-[@efron_conservation_1973; @coltheart_iconic_1980; @brannan_applications_1992].
-An LCD screen mimics the action of the analog projector by refreshing the
-screen at intervals between 60 and 120Hz.
+In addition to filtering light, modern displays also flicker at a precisely
+calibrated rate. What we observe as a static image on the screen, is in
+reality a highly dynamic projection. Traditional film projectors advance from
+one frame to the next at a rate of 24 times each second to match the rate at
+which the film is captured by traditional film cameras. The film camera's
+shutter moves up and down 24 times per second, capturing a static snapshot at
+each turn. The projector's light flickers two to three times per frame, giving
+the projector a "refresh rate" of 48–72 cycles per second, or Hertz (Hz),
+which produces the effect of continuous motion. Without this strobing effect,
+under continuous light, the succession of frames moving past the light would
+appear as a blurry streak of undifferentiated images.
+
+An image persists in the human visual field for about 16 milliseconds after
+cessation of a stimulus, giving humans the temporal resolution of around 60
+images per second. Consequently, an average person begins to reach the state
+of "critical flicker fusion," where the strobe light becomes unnoticeable at
+refresh rates equal or higher than 60Hz. At the limits of flicker fusion, the
+image begins to persist through the gaps between frames, creating the
+appearance of continuous motion [@efron_conservation_1973;
+@coltheart_iconic_1980; @brannan_applications_1992]. Below the threshold of
+flicker fusion the viewer would begin noticing the strobing effect, which
+would make the viewing difficult. A liquid crystal display (LCD) mimics the
+action of the analog projector by refreshing the screen at intervals between
+60 and 120Hz. This happens even when the image is wholly static, as when
+writing digitally or reading an electronic book.
 
 To complicate matters, human vision is more sensitive to rapid motion at the
-periphery of vision, in a mechanism likely evolved to provide swift response to
-predator attack [@burr_temporal_1981; @didyk_perceptually-motivated_2010]. As
-humans move closer to their screens (as when sitting in front of a computer
-monitor), more of the image enters the field of peripheral vision, making the
-viewer more sensitive to screen flicker. Furthermore, being closer to the
-screen increases the angular velocity of any depicted moving object. When
-viewed from afar, the movement of several inches on the screen corresponds to a
-change in the sight angle of several degrees, and likely a few millimeters of
-iris movement. When viewed up close, the same several inches on the screen
-represent a much larger angle, forcing the iris to move further laterally.
+periphery of vision, in a mechanism likely evolved to provide swift response
+to predator attack [@burr_temporal_1981; @didyk_perceptually-motivated_2010].
+As humans move closer to their screens (when sitting in front of a computer
+monitor, fore example), more of the image enters the field of peripheral
+vision, making the viewer more sensitive to screen flicker. When sitting close
+to the screen, the flicker can become more noticeable because more of moving
+image enters the sensitive area of peripheral vision more adept at perceiving
+rapid movement.
+
+Furthermore, being closer to the screen increases the angular velocity of any
+depicted moving object. When viewed from afar, the movement of several inches
+on the screen corresponds to a change in the sight angle of several degrees,
+and likely a few millimeters of iris movement. When viewed up close, the same
+several inches on the screen represent a much larger angle, forcing the iris
+to move further laterally.
 
 The human visual system is particularly adapt at tracking smooth, horizontal
 movement, cognitively anticipating the perceived trajectory of a moving
 object, while stabilizing the retinal image and keeping it at the center of
 the fovea in what is called "smooth pursuit" lateral eye movement
 [@rottach_comparison_1996; @purves_types_2001;
-@didyk_perceptually-motivated_2010]. The "sample and hold" nature of the LCD
-display frustrates the cognitive assumption of smooth movement. The object's
-anticipated location does not correspond to its actual trajectory on the
-screen, which appears to the eye as motion blur. To complicate matters
-further, the phase transitions of the liquid crystal medium are not
-instantaneous. The individual pixel "fades" instead of vanishing at once,
-leaving a physical (and not merely a perceptual) trail of not-quite
-transitioned pixels in the wake of object movement [@kurita_moving_2001;
-@pan_lcd_2005]. The motion blur is exacerbated when viewing traditional film
-shot at 24 frames per second, since even at high display sampling rates, the
-moving object appears at discrete stationary locations punctuated by gaps in
-on-screen movement.
+@didyk_perceptually-motivated_2010]. To put it simply, we are good at tracking
+things that move horizontally, as when observing an antelope running across
+the steppe. Even though our brain cannot capture such movement smoothly, it
+fills in the gaps to give the illusion of smooth lateral movement. This makes
+humans good at anticipating the trajectory of laterally moving objects. But
+beyond some threshold, and particularly when things move rapidly up and down,
+the motion begins to appear jerky. Think of it as tracking a fly, which
+appears to skip from one place to another.
 
-To compensate for motion blur, LCD manufacturers introduced MCFI, by which the
-television itself inserts extra computed frames in between the original stock
-footage. The extra frames should, in theory, make the motion appear more
-natural, filling in the missing gaps that confuse the brain. Unfortunately for
-the viewer, the effectively higher sample rates carry a major, unintended side
-effect. Most viewers associate sampling rates of 40Hz and above with daytime
-soap operas, which were, for a time, shot on lower quality video equipment as
-opposed to expensive film equipment in use by the big-budget film industry.
-Film is expensive because film cameras work by fixing the image onto the
-medium through a photochemical process. Like traditional film photography, raw
-footage must be developed and processed properly before it can be used for
+The "sample and hold" nature of the LCD display frustrates the cognitive
+assumption of smooth movement. The brain attempts to anticipate the trajectory
+of moving objects on screen assuming that the object is moving smoothly. But
+the object's anticipated location does not always correspond to its actual
+trajectory on the screen. Because of flicker, the movement is actually
+jerky---it is missing some frames, if you will. The moving object appears at
+discrete stationary locations punctuated by gaps in on-screen movement. This
+mismatch between what is expected and what is perceived appears to the eye as
+blur. Shapes become fuzzy in motion [@klompenhouwer_motion_2004;
+@har-noy_lcd_2008]. To complicate matters further, the on-off phase
+transitions of the liquid crystal medium are not instantaneous. The individual
+pixel "fades" instead of vanishing at once, leaving a physical (and not merely
+a perceptual) trail of not-quite transitioned pixels in the wake of object
+movement [@kurita_moving_2001; @pan_lcd_2005]. Digital television is not so
+digital after all.
+
+To put all of these factors together: we observe film shot at 24 frames per
+second on LCD screens that redraw the screen at 60-120 times per second. The
+disparity between the low sampling rate of traditional film and high sampling
+rate of modern monitors has unintended side effects when coupled to human
+perceptual apparatus, evolved to perceive motion in a particular way. The
+liquid crystal does not perfectly transition in a binary way as one would
+expect. To make matters worse we increasingly watch television on small
+hand-held devices, close to our field of vision. The combination of these
+factors made early LCD displays unsuitable for home entertainment.
+
+To compensate for motion blur, LCD manufacturers introduced Motion-Compensated
+Frame Interpolation (MCFI), by which the television itself inserts extra
+computed frames in between the original stock footage. The extra frames
+should, in theory, make the motion appear more natural, filling in the missing
+gaps that confuse the brain. Unfortunately for the viewer, the effectively
+higher sample rates carry a major unintended side effect. Most viewers
+associate sampling rates of 40Hz and above with daytime soap operas, which
+were, for a time, shot on lower quality (but more modern) video equipment as
+opposed to expensive legacy film equipment still in use by the big-budget film
+industry. Film is expensive because film cameras work by fixing the image onto
+the medium through a photochemical process. Like traditional film photography,
+raw footage must be developed and processed properly before it can be used for
 editing, playback, and distribution. Video and more modern, digital recorders,
 by contrast, transform light into fluctuations of the magnetic field, storing
-the results on magnetic tape. The transducer (tape head) reads and writes
-directly from and to tape, making magnetic storage significantly more compact
-and less expensive than film, as it does not require chemical processing for
-playback [@edgerton_columbia_2009]. Crucially for our story, video recorders
-operate at 60 frames per second, a recording resolution that together with a
-distinctive color profile and audio aberration signatures give rise to what
-viewers perceive as that "cheap video" look. By inserting extra frames into
-the moving image, modern televisions in effect alter the expensive, slow
+the results on magnetic tape or solid state "floating gate" storage. The
+transducer (tape head) reads and writes directly from and to tape, making
+magnetic storage significantly more compact and less expensive than film, as
+it does not require chemical processing for playback
+[@edgerton_columbia_2009].
+
+Crucially for our story, video recorders operate at 60 frames per second, a
+recording resolution that together with the distinctive video color profile
+and audio aberration signatures give rise to what viewers perceive as that
+"cheap video" "soap opera" look. By inserting extra frames into the moving
+image, modern televisions in effect alter the apparently expensive, slow
 format to match its faster, cheaper video equivalent. The net improvement in
-sampling degrades the perceived quality of the original. (It would be
-interesting to try to create the reverse effect by reducing the fidelity of a
-"cheap" soap opera video feed to 24 frames per second.)
+sampling degrades the perceived quality of the original. The motion may be
+smoother, but it begins to looks "unnatural." It gives the eye too much
+detail. Minutiae of costume and makeup become much more readily apparent,
+breaking the spell of acting and dissolving the fourth wall.[^ln3-wall]
+
+[^ln3-wall]: It would be interesting to try to create the reverse effect by
+reducing the fidelity of a "cheap" soap opera video feed to 24 frames per
+second.
 
 The soap opera effect suggests a few questions for the media scholar.
 
 First, it challenges the easy equivalence between "digital" and "discrete"
-properties of the medium so often evoked in the critical literature. Another
-mechanism must be in play here, since, according to accepted intuition, film
-(the more discrete format of representation) is the one that more closely
-approaches the analog (continuous) nature of observed phenomenon. Despite
-being the more fragmentary medium, film is seen as the more analog format than
-video.  Under closer examination, film, usually discussed in the context of
-analog formats, appears to be (in some aspects, as we will see) more digital
-than digital video, particularly if "digital" is taken to mean "discrete" and
-"differentiated." This incongruity points to a confusion in the common terms.
+properties of the medium so often mentioned in the critical literature.
+Another mechanism must be in play here, since, according to accepted
+intuition, film (the more discrete format of representation) is the one that
+more closely approaches the analog (continuous) nature of observed phenomenon.
+Despite being the more fragmentary medium, film is seen as the more analog
+format than video. Under closer examination, film, usually discussed in the
+context of analog formats, appears to be (in some aspects, as we will explore
+in a later theoretical discussion) more digital than digital video,
+particularly if "digital" is taken to mean "discrete" and "differentiated."
+The incongruity between blueprint and intuition points to a confusion in the
+common terms. Since the screen plays a key part in the reception of all
+"digital" media, film and text, we must carefully peel apart the layers of the
+visible image to reveal the mechanics of projection.
 
 Second, it seems that the very material properties involved in our
 understanding of "digital" and "analog" formats are also implicated in
 higher-level functions of aesthetic judgment. Perception of quality in a given
 recorded performance drifts with the vagrancies of encoding. "Good acting"
-inexplicably falls apart with the introduction of extra frames.
+inexplicably falls apart with the introduction of extra frames, in our
+example. This should worry the critic unfamiliar with the artifacts of digital
+conversion. Even upon our cursory examination of the soap opera effect, we
+found sensory glitches and distortions that rise in the complex interactions
+between organ and device. The very nature of the moving image in fact exploits
+one such cognitive glitch to produce the illusion of smooth movement.
 
-Finally, where one would expect "artificial" digital discreteness to stand in
-opposition to a measure of "natural" analog continuity, a thick description of
-innate human perceptual apparatus reveals a complex patchwork of fragmentary
-cognitive mechanisms, already to an extent digital and discrete in their
-operation. At some level of analysis, gaps in the encoding format relate to
-gaps in human visual processing. Neither can be said to represent reality with
-perfect fidelity. Instead, brains and cameras stitch landscapes together from
-an unevenly sampled landscape of variegated visual topographies, achieving a
+Third, where the literature often places "artificial" digital discreteness in
+opposition to "natural" analog continuity, a thick description of innate human
+perceptual apparatus reveals a complex patchwork of fragmentary cognitive
+mechanisms, already to an extent digital and discrete in their operation. At
+some level of analysis, gaps in the encoding format relate to gaps in human
+visual processing. Neither can be said to represent reality with perfect
+fidelity. Instead, brains and cameras stitch landscapes together from an
+unevenly sampled landscape of variegated visual topographies, achieving a
 measure of arbitrary synchronicity between human and machine.
 
-Conventional notions of digital being further conflate the discrete nature of
-digital media with human debasement, following the logic by which the
-perceived material impoverishment in one sphere leads to the implied spiritual
-impoverishment in the other.  The sentiment is everywhere in the popular
-press, having deep intellectual roots in the history of thinking about
-technology.  Philosophers of technology from Heidegger to Kittler advance a
-powerful "hermeneutics of suspicion" towards mechanization, digitization, and
-the subsequent computability of human experience. To take that tradition
-seriously is to direct hermeneutic suspicion to aspects of digital being that
-have meaningful socio-political consequences.  If, as the case of motion blur
-suggests, human experience is already and always "born digital," that is,
-discrete and differentiated throughout, we must find ways of advancing
-critique along theoretical distinctions that better capture the instrumental
-reality of media practice. Nostalgia for "analog" oneness and continuity
-should itself fall under the critical gaze, examined alongside media marketing
-slogans advertising gapless playback and lossless file formats. Digitality, as
-I will argue for the duration of the book, constitutes a part of the human
-condition worthy of conservation. But, what I mean by "digital being" relates
-to the practice of buying "digital cameras" or to promoting the "digital
-humanities" in name only. To perceive what is at stake, we must do much more
-to disambiguate the digital cognates: electronic, binary, and computational.
+The conversation around around all things digital further often conflates the
+discrete nature of digital representation with human debasement, following the
+logic by which the perceived material impoverishment in one sphere leads to
+the implied spiritual impoverishment in the other. The sentiment is everywhere
+in the popular press, having deep intellectual roots in the history of
+thinking about technology.  Philosophers of technology from Heidegger to
+Kittler advance a powerful "hermeneutics of suspicion" towards mechanization,
+digitization, and the subsequent computability of human experience. To take
+that tradition seriously is to direct hermeneutic suspicion to aspects of
+digital being that have meaningful socio-political consequences. If, as the
+case of motion blur suggests, human experience is already and always "born
+digital," that is, discrete and differentiated throughout, we must find ways
+of advancing critique along theoretical distinctions that better capture the
+instrumental reality of media practice. Nostalgia for "analog" oneness and
+continuity should itself fall under the critical gaze, examined alongside
+media marketing slogans advertising gapless playback and lossless file
+formats. To long for the analog is to long for the experience of oneness,
+which was never there in the first place.
 
-## Metaphor
+Finally
 
 ## We Have Always Been Digital (Format)
 
@@ -1118,4 +1180,107 @@ apprehension.
 [^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
 multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
 @deleuze_bergsonism_1990.
+
+## Medium not the Message (attunement)
+
+By "encoding," I mean a "controlled system of representation." Representation
+in its unrestrained form (as in "pictorial representation") differs from
+"encoding" in the size of its vocabulary. Painting and other forms of
+uninhibited representational conventions are limitless in their expressive
+possibility. The "language" of painting is infinite, in other words. Encoding,
+by contrast, reduces the universe of possibilities to a limited set of salient
+"codes," like the alphabet. These codes have a formal grammar and rules of
+composition. Although the expressive potential of written language is
+limitless, in some combinatorial sense of the word, language and other codes
+can "break," that is, be reduced to nonsense, in a way that painting cannot. A
+telegraph of the single-Morse type accepts alpha-numeric characters at first
+and then translates them into a system of signals, expressed in time intervals
+(between the synchronization tone and the activation of the key).
+
+It becomes clear from the description of early telegraph encoding systems that
+transcoding and transmediation relate to each other somehow. On one hand, all
+changes between encoding systems necessitate material phase transition, if not
+from one type of medium into another (from paper to magnetic storage, for
+example), then from one specific material context into another (as when one
+merely translates from French into English on the same piece of paper).
+Transmediation, on the other hand, may or may not involve a change in encoding
+formats, although it frequently does, as when language on paper is transformed
+into the pulsations of the electrical signal in Morse code. In reading and
+playing music, a musician furthermore transforms musical notation---a
+controlled, paper-bound vocabulary---into sound representation, the movement of
+molecules unlimited in its expressive potential.
+What matters is that the medium is largely independent from the type of
+information stored on it, and this contrary to Marshall McLuhan infamous "the
+medium is the message" dictum.15 The world itself "medium" is misleading in
+this context. We could for example say that paint is the medium of painting.
+But what about the photograph of a painting? Or its digital reproduction? The
+situation is even more confusing when we begin thinking about music, for
+example. What is the medium for J.S.  Bach's Double Violin Concerto: the
+violin or the music sheet which contains the score? We are on yet more
+precarious terrain when considering hybrid "media," like film or television
+that are comprised of multiple sources and that use multiple modes of
+transmission.  The confusion enters the conversation when we conflate the
+modality of the information (e.g. music, image, text) with the physical
+channel of its transmission (the medium proper). Modality may very well be the
+message. Thus, it may be true that when one plays the violin, the music can be
+said to express itself in musical terms. But not the violin! I could use a
+violin to transmit a picture of an orchestra over a dial-up modem, for
+example. This would only involve the question of how to encode the visual
+information into a state transmittable by the violin (a primarily auditory
+instrument).  The channel of communication—the medium proper—is in fact,
+information-agnostic. That is to say that it has no preference about the
+message being transmitted (nor can it have a preference for anything at all,
+formally speaking—preference being a property we ascribe to objects that are
+at least animate). We could therefore transmit a sonata by playing a violin,
+as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
+peer-to-peer network. In each case, the information transmitted remains more
+or less the same, depending on the quality of your violin playing, the
+fidelity of your speakers, or the compression ratio of your digital encoding.
+It would be wrong too to consider any of these sources as somehow primal, with
+others being something like "mere copies" of the original. We could for
+example, start by composing music on paper. Alternatively, we could first play
+a piece of music and then transcribe it into musical notation. In an extreme
+but perfectly plausible case, we could compose by magnetizing a length of
+ferrous tape first, and only then play the violin to reproduce what we have
+"written." The medium does not know anything about the message. The way in
+which we store, access, and retrieve the encoded information is determined by
+the medium, however. We are the ones being shaped by the media. I do mean this
+rather literally: the stage directions for Krapp's Last Tape would be very
+different were Krapp writing a diary, or browsing his online social networking
+profile, or if he were to embed a memory chip in his brain that was able to
+store and retrieve the same messages from his thirty-nine year-old self as the
+tape-recorder. The actor's body would move differently in each of these
+cases—his senses and his thought would be altered in many subtle ways,
+depending on the channel of communication.
+
+The separation between mode and medium allows us to retain a certain clarity of
+vision in a rather muddled conversation about "media history." Modalities such
+as visual arts, music or literature do not necessarily evolve, in the normative
+sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
+optical linear perspective in 1425. But the normative evolution of art could
+only make sense only against some concrete pragmatic goals, which the aesthetic
+realm lacks by definition. Nothing is gained or lost when the fashion changes
+from square-toed to pointy-toed shoes, and then back again—to use an example
+that would surely please Mr. Krapp. Neither is "better" or "worse" for the
+participants in that sphere of cultural activity. By contrast, the concept of
+the medium does contain some sense of normative valuation, also by definition.
+That is to say that the medium has a job, which is to facilitate the storage,
+the transmission, and the retrieval of information. And there is such a thing
+as doing this job better or more efficiently. More is always better in this
+case: more storage, faster access, more reliable transmission. When the quality
+of the information is not sacrificed, there are no instances were less would be
+preferable by anyone with limited time and resources. For example, I would like
+to be able to read or write faster. I value both of these activities, but my
+time to perform them is limited by my lifespan. Assuming I could gain speed
+without any degradation in clarity or comprehension, and barring any
+psychological ill effects, the idea of more in this case must be a good onto
+itself.
+
+
+Digitality, as I will argue for the duration of the book, constitutes a part
+of the human condition worthy of conservation. But, what I mean by "digital
+being" relates to the practice of buying "digital cameras" or to promoting the
+"digital humanities" in name only. To perceive what is at stake, we must do
+much more to disambiguate the digital cognates: electronic, binary, and
+computational.
 
