@@ -247,7 +247,7 @@ argument about engineering designs gained a metaphysical significance.
 
 Telegraph systems based on the neutral direct current design assumed current
 flow for some elements of the encoding (like dashes) and absence of current
-flow for others (like dots) [@welk_neutral_2000].[^ln1-ndc] Systems based on
+flow for others (like dots) [@welk_neutral_2000].[^ln3-ndc] Systems based on
 the alternating current design converted Morse code (and other encoding
 systems) into pulses of alternating positive and negative current, where
 positive current could stand for "dashes" and negative for "dots." Direct
@@ -266,10 +266,10 @@ current suggested a visual analogy between the thing being transmitted
 (picture or text) and electrical signal.
 
 The Pollak-Virag telegraph that Bernhard Siegert mentions in his seminal essay
-on German media theory was one such device.[^ln1-virag] The original
+on German media theory was one such device.[^ln3-virag] The original
 Pollak-Virag machine patented in 1900 proposed to send regular Morse encoding
 by means of alternating current of two different polarities and two different
-strengths, for a total of four types of signals.[^ln1-siegert] Other than the
+strengths, for a total of four types of signals.[^ln3-siegert] Other than the
 irregular signal shape and the use of alternating current, the Pollak-Virag
 encoding differed little from single-Morse systems. By 1901, however, the
 authors were issued an American patent for the "Writing Telegraph," which
@@ -437,7 +437,7 @@ the saw-tooth wave, both having the qualities of being fragmentary,
 non-periodic, and irregular. By contrast, the sine wave has the exotic
 characteristics of being cyclical, repetitive, and continuous. The shape of
 the square wave more closely resembles Murray's normative vision of modern
-human culture.[^ln1-dervish] But how or why would *any* piece of technology
+human culture.[^ln3-dervish] But how or why would *any* piece of technology
 confirm to some "natural" state of human affairs?  The very evocation of
 normative discourse in this context belies a kind of a technological
 essentialism, reductive of both culture and cognition. Neither can be reduced
@@ -534,9 +534,9 @@ structure unwinds when it receives an electrical current, effectively blocking
 the light from passing through the medium. The gates close, so to speak, as
 the second filter begins to block the light from exiting. By these means, a
 series of small, pinhole-like pixels can be turned on and off to create
-shapes, letters, and images on the screen.[^ln1-mishima]
+shapes, letters, and images on the screen.[^ln3-mishima]
 
-[^ln1-mishima]: See @mishima_novel_2004.
+[^ln3-mishima]: See @mishima_novel_2004.
 
 ![Liquid crystal in phase transition between polarizers. Schlieren texture
 characteristic nematic phase to the left, and circular focal conic domains in
@@ -730,7 +730,7 @@ long-standing discussion in the fields of aesthetic theory and analytic
 philosophy helps articulate 
 
 The difference between discrete and continuous quantities defines the
-conversation about digital media.[^ln1-maley] For example, in a popular book
+conversation about digital media.[^ln3-maley] For example, in a popular book
 about what a "well-informed person should know about computers," Brian
 Kernighan writes about "analog" as something meant to convey "the idea of
 values that change smoothly as something else changes" [@kernighan_d_2011,
@@ -754,7 +754,7 @@ analog systems are "dense" and "undifferentiated to the extreme"
 [@goodman_languages_1968, 159-164]. Written language and music notation, by
 this definition, are digital systems par excellence, having the property of
 reducing the undifferentiated, analog input (human thought) into discrete
-semantic units (text or musical notation).[^ln1-goodman] Following Goodman's
+semantic units (text or musical notation).[^ln3-goodman] Following Goodman's
 logic one can reasonably maintain that the art of painting, unlike music or
 language, cannot be reduced to the production of discrete semantic units, and
 would be more of an analog system under the proposed definitions. In this
@@ -816,7 +816,7 @@ status of cake changes depending on the person doing the cutting. The cake is
 more digital, in a sense, for someone armed with a laser cutter and a
 microscope.  Similarly, painting can be thought of as a perfectly digital art
 if we consider it at the scale of art gallery as a series of discrete,
-replaceable, and reproducible frames(!) of canvas.[^ln1-art] What does it mean
+replaceable, and reproducible frames(!) of canvas.[^ln3-art] What does it mean
 to digitize text then when text is already, by some definitions, a digital
 format?
 
@@ -861,7 +861,7 @@ and preservation." Copying and preservation constitute the logic compelling the
 historical advancement of writing. But, also note that "flawless copying and
 preservation" are in themselves contingent (not fully determined) properties of
 writing. For example, imagine a world in which ideas forever "adhere" to their
-brain-bound media.[^ln1-brain] Imagine also a society that positively prohibits the
+brain-bound media.[^ln3-brain] Imagine also a society that positively prohibits the
 transmediation of thought, on paper or between brain cells. Envision extreme
 forms of thought control that restrict the very basics of speech and literacy,
 prohibiting the manufacture of pens, paper, computers, photocopiers, voice
@@ -883,14 +883,14 @@ a post-structuralist insight, the process of digital interpretation is in
 itself a type of creativity, forever advancing rather than apprehending the
 lateral movement of thought.
 
-[^ln1-brain]: At the physical level, the process of textual remediation begins
+[^ln3-brain]: At the physical level, the process of textual remediation begins
 at the brain, as when thoughts are initially transcribed onto paper.
 
-[^ln1-art]: "Replaceable" and "reproducible" as in the sense that an art
+[^ln3-art]: "Replaceable" and "reproducible" as in the sense that an art
 gallery perseveres through the continual loss and rearrangement of its
 constituent art works.
 
-[^ln1-maley]: See for example @maley_analog_2011: "The received view is that
+[^ln3-maley]: See for example @maley_analog_2011: "The received view is that
 analog representations vary smoothly, while digital representations vary in
 stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
 'analog' is synonymous with 'continuous.'" See also @kittler_there_1995,
@@ -898,7 +898,7 @@ stepwise manner. In other words, 'digital' is synonymous with 'discrete,' while
 wars, digital computers can cope with this real number-avalanche only by adding
 element to element."
 
-[^ln1-goodman]: Goodman differentiates between "syntactic" and "semantic"
+[^ln3-goodman]: Goodman differentiates between "syntactic" and "semantic"
 density. Some notational systems like writing and the decimal system are,
 according to Goodman, "syntactically differentiated but semantically dense."
 The key distinction for him seems to be a "limit on the length of message," by
@@ -908,15 +908,14 @@ arbitrary point of precision. The computer limits decimal precision to some
 arbitrary "depth" of approximation, making it semantically discrete. I find
 this part of the argument unconvincing.
 
-
-### 2.5 What Is It Like to Be a Telegraph
+## What Is It Like to Be a Telegraph
 
 I am tempted to believe, like others have before me, that I am on my way to
 enacting something like "machine phenomenology" or "systems phenomenology" in a
 system which encompasses people, texts, techniques, and technologies. In such
 cases, astute readers often reach for Jakob von Uexküll's *A Foray into the
 Worlds of Animals and Humans*, to borrow from his notion of perceptual worlds
-(umwelten).[^ln1-umwelten] In his forays, Uexküll imagines a multitude of alien
+(umwelten).[^ln3-umwelten] In his forays, Uexküll imagines a multitude of alien
 ways of seeing the world, from that of a sea urchin to those of a pea weevil
 and the ichneumon wasp. For Uexküll, the task of the biologist is not to
 encounter such living things as unfamiliar "machines" in the human world, but,
@@ -945,7 +944,7 @@ transfer" between the pea and the weevil larvae, which allows the larvae to
 prepare an escape hatch through vegetative matter in advance of its pupation
 [@uexkull_foray_2010, 161].
 
-[^ln1-umwelten]: See for example @agamben_open_2003, 39-49; @hayles_print_2004,
+[^ln3-umwelten]: See for example @agamben_open_2003, 39-49; @hayles_print_2004,
 16-17.
 
 The literature of post-humanism privileges these moments of alien subjectivity
@@ -1008,7 +1007,7 @@ From this perspective, electricity---the "language" of wires---is not a media
 format intended for human consumption. One could learn to understand telegraph
 intercourse through electrocution, by applying the wire directly to the skin.
 Direct brain--computer interfaces promise to do more or less exactly that and
-are common enough today to be turned into a toy.[^ln1-mindflex] The early
+are common enough today to be turned into a toy.[^ln3-mindflex] The early
 efforts in this space implanted electrodes into the brain directly to capture
 single-neuron activity, or relied on imprecise "noisy" electroencephalographic
 (EEG) scalp activity. In 2004 a team of scientists developed a way of
@@ -1039,7 +1038,7 @@ conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing and incongruent perceptual apparatus.
 Under these conditions, it would be a mistake to conflate digital and discrete,
-just as it would be a mistake to reduce the human to the continuous.[^ln1-cont]
+just as it would be a mistake to reduce the human to the continuous.[^ln3-cont]
 Homeostasis is found at some arbitrary point, contingently connected to human
 biology and to current technological capability. The question of "What
 constitutes a moment?" when watching television or reading a book, can become
@@ -1054,29 +1053,29 @@ development. From the textual grounds of human--machine interaction it then
 becomes possible to derive poetics, in the sense of a study and an art of
 creating one's own time: taking control of prosody, rhythm, meter, and cadence.
 
-[^ln1-ndc]: Also known as the "single current" or "single Morse" system.
+[^ln3-ndc]: Also known as the "single current" or "single Morse" system.
 
-[^ln1-murray]: The Australian Donald Murray improved on the Baudot system to
+[^ln3-murray]: The Australian Donald Murray improved on the Baudot system to
 minimize the amount of "designed to punch as few holes as possible," allotting
 fewer perforations to common English letters (@murray_setting_1905, 567).
 
-[^ln1-zero]: Twenty-eight measures to indicate the numerical "figure space" and
+[^ln3-zero]: Twenty-eight measures to indicate the numerical "figure space" and
 26 to indicate double quotes (which shared the encoding length with the letter
 "z").
 
-[^ln1-current]: ITA-2 could also be adopted to work with "double current"
+[^ln3-current]: ITA-2 could also be adopted to work with "double current"
 devices, in which case 0 would represent "negative current" and 1 "positive
 current" [@itu_telegraph_1932, 36].
 
-[^ln1-kittler]: This along with the ominous "laying of cables" that concludes
+[^ln3-kittler]: This along with the ominous "laying of cables" that concludes
 Friedrich Kittler's *Gramophone, Film, Typewriter*.
 
-[^ln1-multi]: Technical literature makes a distinction between space- and
+[^ln3-multi]: Technical literature makes a distinction between space- and
 frequency- division multiplexing. On some level, space-division multiplexing
 simply involves the splitting of a signal into multiple physical channels
 (wires). Frequency-division better "fills" the space of a single channel.
 
-[^ln1-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
+[^ln3-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
 digital device sending only high and low pulses through the wire;"
 @jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
 dashes in a manner similar to the ones and zeroes of digital logic;"
@@ -1084,7 +1083,7 @@ dashes in a manner similar to the ones and zeroes of digital logic;"
 sending a continuous signal that is an exact analog of the input, the telegraph
 clicks to send the individual characters."
 
-[^ln1-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
+[^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
 The Frequently Asked Questions page includes the following prompt: "Have you
 ever dreamed of moving an object with the power of your mind? Mindflex Duel™
 makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
@@ -1092,7 +1091,7 @@ wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
 
-[^ln1-cont]: Gregory Hickok, a prominent cognitive scientists working out of
+[^ln3-cont]: Gregory Hickok, a prominent cognitive scientists working out of
 University of California, Irvine writes: "The brain samples the world in
 rhythmic pulses, perhaps even discrete time chunks, much like the individual
 frames of a movie. From the brain's perspective, experience is not continuous
