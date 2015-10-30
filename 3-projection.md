@@ -223,10 +223,9 @@ flickers much slower than 60 frames per second, for example. We are left then
 somewhere between social constructivism and technological determinism. A
 historical account of digital media must therefore acknowledge both the
 contingent and the essential characteristics of perception. In what follows I
-offer several case studies that will help us tease out the various ideas
-tangled in the concept of digital media. Ultimately, we will see that what
-appears at first to be a property of media is in fact a claim on the mode of
-perception.
+offer several case studies that challenge commonly expressed intuitions in the
+conversation about digital media. Ultimately, we will see that what appears at
+first to be a property of media is in fact a claim on the mode of perception.
 
 ## Spiritual Telegraph
 
@@ -690,14 +689,14 @@ found sensory glitches and distortions that rise in the complex interactions
 between organ and device. The very nature of the moving image in fact exploits
 one such cognitive glitch to produce the illusion of smooth movement.
 
-Third, where the literature often places "artificial" digital discreteness in
-opposition to "natural" analog continuity, a thick description of innate human
-perceptual apparatus reveals a complex patchwork of fragmentary cognitive
-mechanisms, already to an extent digital and discrete in their operation. At
-some level of analysis, gaps in the encoding format relate to gaps in human
-visual processing. Neither can be said to represent reality with perfect
-fidelity. Instead, brains and cameras stitch landscapes together from an
-unevenly sampled landscape of variegated visual topographies, achieving a
+Finally, where the literature often places "artificial" digital discreteness
+in opposition to "natural" analog continuity, a thick description of innate
+human perceptual apparatus reveals a complex patchwork of fragmentary
+cognitive mechanisms, already to an extent digital and discrete in their
+operation. At some level of analysis, gaps in the encoding format relate to
+gaps in human visual processing. Neither can be said to represent reality with
+perfect fidelity. Instead, brains and cameras stitch landscapes together from
+an unevenly sampled landscape of variegated visual topographies, achieving a
 measure of arbitrary synchronicity between human and machine.
 
 The conversation around around all things digital further often conflates the
@@ -719,12 +718,16 @@ media marketing slogans advertising gapless playback and lossless file
 formats. To long for the analog is to long for the experience of oneness,
 which was never there in the first place.
 
-Finally
+## We Have Always Been Digital
 
-## We Have Always Been Digital (Format)
-
-Let us start with digital representation expressed more formally, as done in
-computer science, aesthetics, and the philosophy of information.
+So far, the case studies I built around the Pollak-Virag telegraph and the
+liquid crystal display revealed merely the inadequacy of popular intuitions
+about digital projection. What does it mean then to "digitize" a book, if
+languages---characters, words, sentences, paragraphs, pages---already function
+digitally? More broadly, if the digital cannot be reduced to the discrete,
+what other properties are being brought forth through digitization? A
+long-standing discussion in the fields of aesthetic theory and analytic
+philosophy helps articulate 
 
 The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln1-maley] For example, in a popular book
