@@ -481,7 +481,7 @@ At this point it appears that the whole matter of digital representation rests
 on arbitrary and contingent assumptions. If literature is already a digital
 and discrete medium, why should it bother us when it is otherwise digitized?
 So what if the letter, already an atomic indivisible unit (at least in Latin
-script) is further broken down into pixels, the smallest indivisible units on
+scripts) is further broken down into pixels, the smallest indivisible units on
 the screen? Just as one learns to translate the arbitrary shapes of the
 alphabet into distinct sounds one can learn to translate arbitrary digits into
 letters and back into sounds and thoughts. That is not to say that *all*
@@ -721,13 +721,13 @@ which was never there in the first place.
 ## We Have Always Been Digital
 
 So far, the case studies I built around the Pollak-Virag telegraph and the
-liquid crystal display revealed merely the inadequacy of popular intuitions
-about digital projection. What does it mean then to "digitize" a book, if
-languages---characters, words, sentences, paragraphs, pages---already function
-digitally? More broadly, if the digital cannot be reduced to the discrete,
-what other properties are being brought forth through digitization? A
-long-standing discussion in the fields of aesthetic theory and analytic
-philosophy helps articulate 
+liquid crystal display revealed merely the inadequacy of popular intuition.
+What does it mean then to "digitize" a book, if languages---characters, words,
+sentences, paragraphs, pages---already function digitally? More broadly, if
+the digital cannot be reduced to the discrete, what other properties are being
+brought forth through digitization? A summary of the long-standing discussion
+about the nature digital representation in the fields of aesthetic theory and
+analytic philosophy helps untangle the conceptual complexities involved.
 
 The difference between discrete and continuous quantities defines the
 conversation about digital media.[^ln3-maley] For example, in a popular book
@@ -737,20 +737,20 @@ values that change smoothly as something else changes" [@kernighan_d_2011,
 526]. Much of the world is analog, Kernighan explains. A water tap, a pen, or
 a car steering wheel are all examples of analog interfaces. For example, when
 riding a bicycle, turning the handlebars one way results in a corresponding
-motion of the machine. This motion is smooth. Compare that with the action of a
-light switch. A properly functioning light switch takes on two discrete states
-only: on or off. A range of pressure applied to the switch does not correspond
-to any mechanical action of the lever. But once a certain threshold is reached,
-the switch "flips" to change states. "Digital systems deal with discrete
-values," Kernighan writes. The switch contains a limited number of state
-possibilities (2), where the bicycle handlebars could be rotated in an infinite
-number of minutely differing gradations.
+motion of the machine. This motion is smooth. Compare that with the action of
+a light switch. A properly functioning light switch takes on two discrete
+states only: on or off. A range of pressure applied to the switch does not
+correspond to any mechanical action of the lever. But once a certain threshold
+is reached, the switch "flips" to change states. "Digital systems deal with
+discrete values," Kernighan writes. The switch contains a limited number of
+state possibilities (2), where the bicycle handlebars could be rotated in an
+infinite number of minutely differing gradations.
 
-The philosopher Nelson Goodman (responsible for bringing the digital
-conversation into the realm of aesthetic theory in the analytic tradition)
+Nelson Goodman, the philosopher responsible for bringing the digital
+conversation into the realm of aesthetic theory in the analytic tradition,
 makes a further distinction in maintaining that digital systems must be more
-than merely "discontinuous," but also "differentiated throughout." By contrast,
-analog systems are "dense" and "undifferentiated to the extreme"
+than merely "discontinuous," but also "differentiated throughout." By
+contrast, analog systems are "dense" and "undifferentiated to the extreme"
 [@goodman_languages_1968, 159-164]. Written language and music notation, by
 this definition, are digital systems par excellence, having the property of
 reducing the undifferentiated, analog input (human thought) into discrete
@@ -758,10 +758,19 @@ semantic units (text or musical notation).[^ln3-goodman] Following Goodman's
 logic one can reasonably maintain that the art of painting, unlike music or
 language, cannot be reduced to the production of discrete semantic units, and
 would be more of an analog system under the proposed definitions. In this
-light, the language of cubist painting, which reconstructs shape into its
-modular atomic components, can be viewed as an attempt to move painting from an
-analog to a digital art form. The digital image, reduced to pixels of uniform
-shape and size, takes the logic of cubism to its conclusion.
+light, the language of cubist painting, which breaks shapes down into their
+modular atomic components, can be viewed as an attempt to move painting from
+an analog to a digital art form. The smallest meaningful and differentiated
+unit of matter in *Minecraft*, a popular cuboid world-building game, is a
+block. The world of *Minecraft* therefore answers to Goodman's definition. By
+contrast, the world of the hyper-realistic *Myst*, a landmark graphic
+adventure puzzle game from the 1990s, depicts the painting-like, semantically
+irregular reality that cannot be broken down into neat components. The game
+depicts an analog world.
+
+Already we run into some conceptual trouble here. 
+although on some level, all digital image, reduced to
+pixels of uniform shape and size, takes the logic of cubism to its conclusion.
 
 An interesting corollary to the continuous property of analog systems is our
 inability to duplicate their states exactly. I can approximate the pressure
@@ -1277,7 +1286,6 @@ time to perform them is limited by my lifespan. Assuming I could gain speed
 without any degradation in clarity or comprehension, and barring any
 psychological ill effects, the idea of more in this case must be a good onto
 itself.
-
 
 Digitality, as I will argue for the duration of the book, constitutes a part
 of the human condition worthy of conservation. But, what I mean by "digital
