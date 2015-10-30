@@ -1209,7 +1209,7 @@ brain-to-brain or brain-to-machine interfaces.
 electronic computing" outlined in Peter Denning's "theory of operating systems"
 [@denning_third_1971].
 
-## Microanalysis: Towards the Practice of Computational Hermeneutics
+## Towards the Practice of Computational Hermeneutics
 
 In drawing on the history of the contemporary literary condition, it is my
 hope to convince the reader of the very literal sense of depth manufactured
