@@ -746,11 +746,12 @@ discrete values," Kernighan writes. The switch contains a limited number of
 state possibilities (2), where the bicycle handlebars could be rotated in an
 infinite number of minutely differing gradations.
 
-Nelson Goodman, the philosopher responsible for bringing the digital
-conversation into the realm of aesthetic theory in the analytic tradition,
-makes a further distinction in maintaining that digital systems must be more
-than merely "discontinuous," but also "differentiated throughout." By
-contrast, analog systems are "dense" and "undifferentiated to the extreme"
+Nelson Goodman was one of the first philosophers to examine digital
+representation in the context of aesthetic theory, in the late 1960s. Drawing
+from technical intuitions about devices like pressure gauges and computers
+Goodman proposed to call those notational systems "analog" that are "dense"
+and "undifferentiated to the extreme." By contrast, he called digital systems
+those that are "discontinuous" and "differentiated throughout"
 [@goodman_languages_1968, 159-164]. Written language and music notation, by
 this definition, are digital systems par excellence, having the property of
 reducing the undifferentiated, analog input (human thought) into discrete
@@ -760,29 +761,35 @@ language, cannot be reduced to the production of discrete semantic units, and
 would be more of an analog system under the proposed definitions.
 
 In this light, the language of cubist painting, which breaks shapes down into
-their modular atomic components, can be viewed as an attempt to move painting
-from an analog to a digital art form. The smallest meaningful and
-differentiated unit of matter in *Minecraft*, a popular cuboid world-building
-game, is a block. The world of *Minecraft* therefore answers to Goodman's
-definition. By contrast, the world of the hyper-realistic *Myst*, a landmark
-graphic adventure puzzle game from the 1990s, depicts the painting-like,
-semantically irregular reality that cannot be broken down into neat
-components. The game depicts an analog world. Already we run into some
-conceptual trouble here. Plainly, *Myst* is also a digital game. When viewed
-as pixels, all digital images follow the logic of cubism to its deconstructive
-conclusion. On some level of analysis *Myst* too can be atomized into
-components discrete and differentiated throughout. But would we not say the
-same thing about a rule based analog game like chess? Chess is also discrete
-and differentiated throughout on some rule-based level of analysis which
-includes grids, binary colors, and pieces. At another, material level it is
-again not. The wood grain of the chess board is part of an analog world. And
-yet on a deeper, atomic level of observation it again is to the extent that
-atoms answer to Goodman's qualifications of being "discontinuous" and
-differentiated throughout.
+their modular atomic components, begins to transform an analog art form form
+into into a digital one. Similarly, the cuboid world of *Minecraft*, a popular
+world-building game, offers the player a block as the smallest meaningful and
+differentiated unit that constitutes all other meaningful things in the game.
+The world of *Minecraft* is sparse and therefore digital. By contrast, the
+world of the hyper-realistic *Myst*, a landmark graphic adventure puzzle game
+from the 1990s, depicts the painting-like, semantically irregular reality that
+cannot be broken down into neat components. *Myst* depicts a dense, analog
+world.
 
-The quality of being digital seems to be dependent on the point of view.
+Already we run into some conceptual trouble here. Plainly, *Myst* is also a
+digital game. All digital images follow the logic of cubism to its
+deconstructive conclusion in that they atomize analog quantities into discrete
+and differentiated points of light or pixels. But would we not say the same
+thing about a rule based analog game like chess? On the level of semantics,
+Chess is also a sparse game, one that is discrete and differentiated
+throughout. One plays on top of a grid with pieces that move according to a
+rigidly proscribed set of rules, and along binary color distinctions. At
+another level of analysis however, chess is an analog game. The wood grain of
+the chess board is part of the dense, undifferentiated world. On a deeper
+layer yet, at the atomic scale of observation, the chess board again begins to
+appear sparse, discontinuous, and differentiated throughout. We are left
+without the means to tell wood-and-(fake)-ivory chess from block-and-pixel
+*Minecraft*.
 
-An answer suggests itself from the conundrum.
+The quality of being digital seems to be dependent on the point of view. In
+this light, density and sparseness depend on the viewers ability to perceive
+differentiation. By the 1980s several new attempts to quality digital
+representation were attempted in analytic philosophy.
 
 An interesting corollary to the continuous property of analog systems is our
 inability to duplicate their states exactly. I can approximate the pressure
