@@ -1,6 +1,6 @@
 # Chapter 3: Projection
 
-`digital, medium, mode`
+`digital, analog, medium, mode`
 
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared vocabulary that includes
@@ -792,53 +792,107 @@ The quality of being digital seems to be then dependent on our perspective.
 The *perception* of density and sparseness depend on the viewers ability to
 perceive differentiation. Ultimately, the very qualities of density and
 sparseness, and therefore of digital and analog representation, belong not to
-the object of representation---chess or computer game---but to the viewer.
-This was the unexpected conclusion that began to emerge in dialog with Goodman
-in the 1980.
+the object of representation---chess or computer game---but to the viewer.  In
+the 1980s, philosophers engaging in dialog with Goodman's earlier work began
+to move away from discussing digital representation in terms of the properties
+of the medium and towards a more process-based, viewer-depended understanding
+of the terms.
 
-An interesting corollary to the continuous property of analog systems is our
-inability to duplicate their states exactly. I can approximate the pressure
-someone else puts on their bicycle handlebars with some arbitrary measure of
-precision that can never reach perfect reproducibility. This means also that
-while more digital art forms like literature are, in some sense, perfectly
-reproducible, analog forms, like painting, are not. Following a similar chain
-of reasoning, the late great American philosopher John Haugeland amends
-Goodman's foundational definitions of digital representation to include
-"flawless copying and preservation." This property further has the effect of
-freeing digital representation from its medium. A Rembrandt is bound to its
-canvas in a way that Shakespeare's *Hamlet* is not. Digital systems are media
-independent. *Hamlet* can be reproduced on paper or stone, in Morse code, or
-bound in liquid crystal, and still be *Hamlet* in some natural understanding of
-the work. To the definition of Goodman's digital systems, Haugeland therefore
-adds the notion of "feasible procedures" that can lead to "positive and
-reliable" processes for reading and writing digital tokens
-[@haugeland_analog_1981, 213-225]. In the case of the soap opera effect, we may
-think of film as something like an "irreproducible series of paintings" and of
-video as "perfectly copyable magnetic facsimiles." (This would at least restore
-film to the conventional understanding of analog formats.)
+For example, an interesting corollary to the continuous property of analog
+systems is our inability to duplicate their states exactly. I can approximate
+the pressure someone else puts on their bicycle handlebars with some arbitrary
+measure of precision that can never reach perfect reproducibility. This means
+also that while more digital art forms like literature are, in some sense,
+perfectly reproducible, analog forms, like painting, are not. Following a
+similar chain of reasoning, the late great American philosopher John Haugeland
+proposed to consider the quality of being reproducible as essential to our
+understanding of digital representation. Reproducibility, for Haugeland,
+involved "flawless copying and preservation." To the definition of Goodman's
+digital systems, Haugeland therefore adds the notion of "feasible procedures"
+that can lead to "positive and reliable" processes for reading and writing
+digital tokens [@haugeland_analog_1981, 213-225].
 
-Writing more than a quarter of a century later, Matthew Katz offers two further
-important addenda to the discussion between Goodman and Haugeland. First, Katz
-maintains that Goodman's notions of discreteness and differentiation properly
-affect the format and not the medium of representation. Second, he maintains
-that the distinction between digital and analog formats could sometimes relate
-to the person involved, and not on the medium itself.  To illustrate these two
-amendments, Katz gives the example of an approximate measuring system that uses
-a supply of marbles in a large beaker.  The unit of measurement could be
-something like a "number of handfuls." Even though marbles are a perfectly
-discrete medium, the system is analog because no convention is established to
-reproduce a "handful" with any sense of precision. My two handfuls will be
-different from another's. A corollary to the distinction between medium and
-format, then, lies in the user's ability to perceive quantities.  The reader
-(viewer, listener) matters. Were humans endowed with the magical ability to
-perceive the exact number of water molecules in a beaker, previously analog
-systems (like unmarked beakers) would in effect become digital (under the
-expanded definition). Similarly, were all humans endowed with hands of a
-definite size and volume, "handfuls" would also be counted as discrete and
-therefore digital quantities. From similar thought experiments Katz concludes
-that the physical, perceptual, and cognitive capabilities of the "user"
-(reader, audience, perceiver) affect the ontological status of the system
-[@katz_analog_2008].
+Let us consider Haugeland's propositions in relation to some of our previous
+case studies. The movements of the chess game are indeed perfectly
+reproducible. In fact several conventions exist precisely to ensure the
+perfect preservation and the reproducibility of chess games. These include the
+"descriptive" and the "standard algebraic" chess notations. By contrast,
+individual *chess sets* are not perfectly reproducible. Each is a somewhat
+unique version of the same "regulation" ideal. Importantly, sometimes drastic
+differences in the shape of the figures and the materials used to make chess
+sets are not meaningful in the context of the game. They may be meaningful to
+collectors, who may prize certain chess sets for their craftsmanship, for
+example. But "craftsmanship" is not in itself a signifying property int the
+game of chess. Rather, it attains meaning in the "game" of collecting.
+
+A painting by Rembrandt occupies a place on the "perfect reproducibility"
+diametrically opposite to chess. No amount of copying however perfect can
+reproduce the value of the original painting. This holds true even if a
+technique was invented by which it would become possible to make a perfect,
+molecule-by-molecule reproduction. The rules of fine art collection demand an
+original work of art that preserves the provenance of the artifact. This may
+include incidental bumps, scratches, and patina accrued through history. Such
+marks carry no meaning "by the rules" of painting, but they do carry meaning
+"by the rules" of collecting. Thus conventionally, painting would count as an
+analog genre by Haugeland's definitions. But if someone chose to disregard the
+rules of collecting; if one simply enjoyed looking at beautiful pictures, for
+example; they would be justified in treating painting as a perfectly
+reproducible art form. It would in essence attain the quality of being more
+digital than painting in the world of fine art collecting.
+
+The moving image lies somewhere in the middle between the extremes of
+competitive chess and fine art. In the case of the soap opera effect, we may
+think of analog film as series of still shots. For some purposes, these still
+shots are reproducible in mass quantities, although not perfectly. Multiple
+copies of each film reel are routinely distributed to multiple cinemas. Each
+is "authentic" in the sense that is is sanctioned by the movie studio. Yet
+from another perspective, each frame is also an irreproducible work of art,
+which like painting can accrue the patina of time, and in some context attain
+value based on such unique properties as belonging to this or that prominent
+film director. If one in this way considers celluloid-based film
+cinematography as producing a "irreproducible series of paintings," one may
+think of magnetic storage-based videography as producing "perfectly copyable
+magnetic facsimiles." It is possible to imagine that some magnetic tapes would
+also be able to attain value; to become in a sense, unique work of art. But
+such a thought experiment is made difficult by the fact that humans lack the
+sensory faculties necessary to observe the magnetic trace directly.
+Distortions to the magnetic field are therefore lost, in a sense, to direct
+observations. Magnetic representation struggles to gather patina. But once
+again we see that qualities like "reproducibility" or "patina" really depend
+on the capabilities of the observer.
+
+Joining the conversation in 2008, the philosopher Matthew Katz outlined two
+further important qualifications to the definition emerging in the discussion
+between Goodman and Haugeland. First, Katz 
+
+the format and not the medium
+of representation. Second, he proposed that the distinction between digital
+and analog formats could sometimes relate to the person involved, and not on
+the medium itself.  
+
+To illustrate these two amendments, Katz gives the example of an approximate
+measuring system that uses a supply of marbles in a large beaker.  The unit of
+measurement could be something like a "number of handfuls." Even though
+marbles are a perfectly discrete medium, the system is analog because no
+convention is established to reproduce a "handful" with any sense of
+precision. My two handfuls will be different from another's. A corollary to
+the distinction between medium and format, then, lies in the user's ability to
+perceive quantities.  The reader (viewer, listener) matters.  Were humans
+endowed with the magical ability to perceive the exact number of water
+molecules in a beaker, previously analog systems (like unmarked beakers) would
+in effect become digital (under the expanded definition). Similarly, were all
+humans endowed with hands of a definite size and volume, "handfuls" would also
+be counted as discrete and therefore digital quantities. From similar thought
+experiments Katz concludes that the physical, perceptual, and cognitive
+capabilities of the "user" (reader, audience, perceiver) affect the
+ontological status of the system [@katz_analog_2008].
+
+This property further had
+the effect of freeing digital representation from its medium. A Rembrandt is
+bound to its canvas in a way that Shakespeare's *Hamlet* is not.  Digital
+systems are media independent. *Hamlet* can be reproduced on paper or stone,
+in Morse code, or bound in liquid crystal, and still be *Hamlet* in some
+natural understanding of the work. 
 
 The movement from medium to user radically destabilizes Goodman's original
 insight. Where Goodman begins with defining digitality in terms of physical
@@ -1042,4 +1096,187 @@ being" relates to the practice of buying "digital cameras" or to promoting the
 "digital humanities" in name only. To perceive what is at stake, we must do
 much more to disambiguate the digital cognates: electronic, binary, and
 computational.
+
+
+## Copy
+
+The division of text into form and content makes a difference in more
+utilitarian ways as well. For example, imagine the challenge of compiling all
+known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
+problem of what edition to use as the "base" for such a project presents itself
+immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
+*Folger Digital Texts*, "readers assume that there is a single text for the
+plays: what Shakespeare wrote. But Shakespeare's plays were not published the
+way modern novels or plays are today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published versions,
+represented by various Quartos (Qq) and by the great collection put together by
+his colleagues in 1623, called the First Folio (F). There are, for example,
+three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
+*Romeo and Juliet*, and others. Editors choose which version to use as their
+base text, and then amend that text with words, lines or speech prefixes from
+the other versions that, in their judgment, make for a better or more accurate
+text" [@mowat_textual_2012]. In other words, where the readers expect to
+encounter *Hamlet* as a single, unified idea, they instead encounter a
+multiplicity of slightly diverging textual "witnesses." Errors in transcription
+and editorial interventions accumulate. The proliferation of unlicensed copies,
+translations, and imitations further adds to the complexity of the problem.
+
+Editors of classical literature will often solve the problem of diverging
+copies by designating one version as canonical, preserving the formal
+characteristics of the given version down to individual line breaks, as is
+often done with Platonic dialogs. It then becomes possible to collate
+commentaries, connecting each to individual words and passages at their
+canonical location. The problem remains in the abstract: which version to count
+as canonical? The act of deciding on what constitutes an authoritative edition
+can quickly become a contentious issue, particularly when the text in question
+carries religious or political significance.
+
+A whole field of textual criticism exists in the service of negotiating
+"critical" editions which in some way preserve the struggle to reconstruct a
+measure of authority. But what should count for being authoritative? A number
+of logical possibilities find as many ardent adherents. For some, the act of
+deriving the authoritative text lies in reconstructing authorial intent, using
+the author's notes, for example, or from first-hand witness testimony. Others
+place a premium on reconstructing and analyzing the writing process itself, in
+what has been dubbed as "genetic criticism" [@deppman_genetic_2004, 1-36]. Yet
+another approach will compare multiple editions of the same text to derive a
+possible meta-text, preserving all extant variations. Yet others will simply
+rely on their judgment to produce what they believe is a "true" text based on a
+number of personal and eclectic considerations [@bowers_rationale_1950,
+@bowers_shakespeares_1954, @mcgann_radiant_2001]. Such approaches to textual
+criticism have at least this one thing in common: behind the fuzzy profusion of
+textual material they perceive the outlines of a single, unified work. As G.
+Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
+distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
+a textual critic of his kind, all real-word variants and reproductions are
+suspect because possibly corrupt in some way. Despite its careful attention to
+the materiality of the text as artifact, textual criticism in this vein remains
+a classically idealistic pursuit. The work exists as an ideal form in the realm
+of the ideal.
+
+[ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
+reading or listening to receive a message from the past entails the effort to
+discover, through the text (or texts) one is presented with, the work that lies
+behind" [@tanselle_rationale_2010, 13-18.].
+
+Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
+William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
+
+"To restore an edifice means neither to maintain it, nor to repair it, not to
+rebuild it; it means to reestablish it in a finished state, which may in fact
+never have actually existed at any given time." [@price_historical_1996, 314;
+orig from @viollet-le-duc_foundations_1990, 195]
+
+"It is for all these buildings, threfore, of all times and styles, that we
+plead, and call upon those who hve to deal with them to put Protection in the
+place of Restoration, to stave off decay by daily care, to prop a perilous wall
+or mend a leaky roof by such means as are obvioiusly mant for support or
+convering, and show no pretence of other art, and othrwise to resist all
+tampering with either the favric or ornament of the buildings as it stands; if
+it has become 
+
+But whose who make the change wrout in our day under the name of Restoration,
+while professing to bring back a building to the best time of its hisory, have
+no guide but each his own individual whim to point out to them what i s
+admirable and what contemptible; while the very nature o their task compels
+them to destroy something and to supply the gap by imagining what the earlier
+builders should or might have done." Data munging. Irreversible changes.
+@price_historical_1996, 320; orig in "William Morris, "The Principles of the
+Society as Set Forth Upon its Foundation," Builder 35 August 1877.
+
+Ruskin lamp of memory.
+
+"It is impossible, as impossible as to raise the dead, to restore anything that
+has every been great or beautiful in architecture [...] That spirit which is
+given only by the hand and eye of the workman, never can be recalled. Another
+spirit may be given by another time, an it is then a new building; but the
+spirit of the dead workman cannot be summoned up, and commanded to direct other
+hands, and other thoughts. And as for direct and simple copying, it is palpably
+impossible. What copying can there be of surfaces that have been worn half an
+inch down [@staniforth_historical_2013, 2]?"
+
+"But it is said there may come a necessity for restoration! Granted. Look the
+necessity full in the face and understand it on its own terms. It is a
+necessity for destruction. Accept it as such, pull the building down, throw its
+stones into neglected corners, make ballast of them, or mortar, if you will'
+but do it honestly, and do not set up a Lie in its
+place"[@staniforth_historical_2013, 3].
+
+On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
+alter of a Company in the Church of S. Francesco, he painted in fresco the
+Circumcision of Our Lord, which in considered beautiful to a marvel, although
+the Infant, having been injured by damp, was restored by Sodoma and made much
+less beautiful than before. And, in truth, it would be sometimes better to
+leave works half spoilt, when they have been made by men of excellence, rather
+than to have them retouched by inferior masters." 1550 Tim's Vermeer.
+
+picture cleaning as removing as removal of "varnishes and other encrustations,
+by which a paininting may be obscured, but by which it is usulaly also in some
+measur protected from injury." [@bomford_issues_2004, 60] Original in the
+Report from the Select Committee on the National Gallery, London 1853, vi-xi.
+
+Colliveau set about [restoring]this picture with uncommon solenity, because it was his
+own. He began with the most delicate pumice stone, and very soon got into the
+walls of th building, but was astonished to find the apearance of bricks and
+mortar still, although not guite soneat; he soon cleared away the wall on
+discovering a room beyond, and pictures, furniture, &c. most beautiful.
+Gracious powers! how was he agitated; forgetting totally the mischief he was
+commiting, his elbow went like a fiddler's; every thing vanished.---However,
+finding a bed, the curtains of which (a dark green) were drawn close, he went
+to work upon it ver tenderly; presently a pot de chambre came  in sight!---His
+whole souldwas absorbed; his face all one ghastly grin; his legs (like German
+flutes) tottered under him. Not that great philosopher Guffin Ragba, was more
+agitated while cutting the leather from off his bellow, to disover how wind was
+make, than was Monsieru Collifeau while scroring off the bed cloaths; at last
+he found a lady asleep, very beautiful, because very fat, and a Dutch woman.
+Now this part I did not see, and I believe but very few besides himself; but
+alas! hew was soon to be at the end of his discoveries. Having got a glimpse of
+some gilding, he redoubled his efforts, when he found it was an inscription; it
+was in Dutch, and nearly thus, as translated by Mr. Peter La Cave:---"Now
+caitiff, meditate on th havoc though hast made throughout thy lie, and go thang
+thyself. In this picture, wretch! though have destroyed, what to the end of the
+world, can never be replaced." [@bomford_issues_2004, 44-45]. Originally from
+Julio Caesar Ibbetson, An Accidence, or Gamut, of Painting in Oil and water
+Colous . London: Darton and Harvey, 1803, 5-14.
+
+"The sculptor wastes away th rudo block til he has accomplished the desired
+form. not so the painter. he builds up his forms from a blank surface, and
+hides, as he rogresses all the preliminary layers upon which the etxternal
+colours depend for durability and lustre. And hence, not on the meaning and
+spririt of the work must be understood; the restorer must also be familiar with
+he naure of the materials and the manner of their employment.
+[@bomford_issues_2004, 70]. Original from @merritt_dirt_1854, 67-72
+
+
+The wound
+that heals.
+
+Just giving you a taste of restoration vs. preservation. What would
+
+
+[^ln11-counter]: A documentary on counterfeit goods produced by BBC4
+interviews Christophe Zimmerman, Senior Technical Officer at World Customs
+Organization, who deplores the industry's lack of cooperation with law
+enforcement [@bbc4_counterfeiting_2013].
+
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
+
+## Gerard Genette and Nelson Goodman on the nature of textual copies,
 
