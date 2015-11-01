@@ -1273,9 +1273,25 @@ What seems like a given, necessary, and *a priori* configuration of writing
 and reading implements---the keyboard, the hard drive, and the screen---is in
 essence an ad-hoc, historically contingent, and ultimately permeable system of
 information exchange. But to recover the sign in full we must enact a media
-archeology at all layers and sites of the inscription. Close reading, long a
-corner stone of literary analysis, must develop to become the closest possible
-kind of reading.
+archeology at all layers and sites of the inscription.
+
+We have now traveled from the pixel down to magnetic storage media and back
+from the storage media to the screen. The passage opens up space between
+visible content, media, and the imposed forms that govern any and all higher
+notions of literary activity "floating" above this nominally "digital" layer.
+Technology does not determine the literary space: it has only the potential to
+hide implicit mechanisms of machine control, or, to offer possibilities for
+transformation not otherwise available to other forms of textuality. Loosely
+coupled to its material contexts, text can continue its relentless drive from
+matter to idea and into other matters as long as its passage is not hampered by
+regimes that prohibit further sharing, remixing, and transmediation. I say nothing
+yet of the potential necessity of such regulation. Under certain conditions, in
+the name of privacy, security, or property rights, it may become necessary to
+flatten out and to treat text as more of an analog, media-bound modality of
+communication, limited in its ability to move across minds and cultures. But,
+it is also in our broadly human, civic interest to keep such mechanisms of
+constraint visible to view, under continual scrutiny of critical, close, and
+closest possible reading.
 
 [^ln2-gate]: Solid state memory technology, flash memory for example, store
 information in capacitor "circuit states." This by contrast with

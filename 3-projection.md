@@ -861,99 +861,130 @@ observations. Magnetic representation struggles to gather patina. But once
 again we see that qualities like "reproducibility" or "patina" really depend
 on the capabilities of the observer.
 
-Joining the conversation in 2008, the philosopher Matthew Katz outlined two
-further important qualifications to the definition emerging in the discussion
-between Goodman and Haugeland. First, Katz 
+In 2008, the philosopher Matthew Katz proposed two further important
+qualifications, already implicit in Haugeland. First, Katz made the
+distinction between "format" and "medium" of digital representation. Second,
+he notices that the distinction between digital and analog systems sometimes
+depends on facts about the observer or user of the system. To illustrate these
+two amendments, Katz imagines a measuring system that involves a supply of
+marbles in a large beaker. We can then agree to use a "handful" as an
+approximate unit of measurement. Thus we can observe something like "the
+beaker contains three handfuls of marbles." Even though marbles are a
+perfectly discrete medium, the system is analog because no convention is
+established to reproduce a "handful" with any sense of precision. In other
+words, the marble-beaker system violates Haugeland's requirement for "positive
+and reliable" standards of reproducibility. My two handfuls might be different
+from yours due to the difference in the size or our hands. Where the medium
+(marbles) is discrete the format (handfuls) is analog.
 
-the format and not the medium
-of representation. Second, he proposed that the distinction between digital
-and analog formats could sometimes relate to the person involved, and not on
-the medium itself.  
+But whether handfuls are perfectly reproducible or not is a property of person
+doing the measuring. It lies in our imperfect ability to perceive multitude
+quantities. Were humans endowed with the magical ability to perceive the exact
+number of water molecules in a beaker, previously analog systems (like
+unmarked beakers) would in effect become digital (under the expanded
+definition). Similarly, were all humans endowed with hands of a definite size
+and volume, "handfuls" would also be counted as discrete and therefore digital
+quantities. From similar thought experiments Katz concludes that the physical,
+perceptual, and cognitive capabilities of the "user" (reader, audience,
+perceiver) affect the ontological status of the system [@katz_analog_2008].
 
-To illustrate these two amendments, Katz gives the example of an approximate
-measuring system that uses a supply of marbles in a large beaker.  The unit of
-measurement could be something like a "number of handfuls." Even though
-marbles are a perfectly discrete medium, the system is analog because no
-convention is established to reproduce a "handful" with any sense of
-precision. My two handfuls will be different from another's. A corollary to
-the distinction between medium and format, then, lies in the user's ability to
-perceive quantities.  The reader (viewer, listener) matters.  Were humans
-endowed with the magical ability to perceive the exact number of water
-molecules in a beaker, previously analog systems (like unmarked beakers) would
-in effect become digital (under the expanded definition). Similarly, were all
-humans endowed with hands of a definite size and volume, "handfuls" would also
-be counted as discrete and therefore digital quantities. From similar thought
-experiments Katz concludes that the physical, perceptual, and cognitive
-capabilities of the "user" (reader, audience, perceiver) affect the
-ontological status of the system [@katz_analog_2008].
+I pick up the discussion here to return to what I've called the "peculiarity"
+of the computed sign, stretched between multiple surfaces.
 
-This property further had
-the effect of freeing digital representation from its medium. A Rembrandt is
-bound to its canvas in a way that Shakespeare's *Hamlet* is not.  Digital
-systems are media independent. *Hamlet* can be reproduced on paper or stone,
-in Morse code, or bound in liquid crystal, and still be *Hamlet* in some
-natural understanding of the work. 
+First, note that Katz's seemingly minor amendments to Haugeland actually
+carries several radical, practical consequences relevant to our discussion. If
+we can reflect for a moment on the distinction Katz makes between "medium" and
+"format" we would be forced to conclude that the ultimate nature of the medium
+only matters in so far as it is tied to the observer's ability to impose
+format. It does not matter for the definitions if the beaker is full of
+marbles or full of water. What matters only is our ability to "format" the
+medium into precisely reproducible chunks. I am in fact able to do that with
+marbles (by counting) but unable to do it with water (without specialized
+instruments). In other words, undifferentiated matter like cake is only analog
+until someone cuts it into pieces. And how it is cut matters a great deal. The
+ontological status of cake changes depending on the agent doing the cutting.
+For someone armed with a laser cutter and a microscope the cake is quite a
+digital medium. And it is perfectly analog for those of us approximately
+"eyeballing" the slices.
 
-The movement from medium to user radically destabilizes Goodman's original
-insight. Where Goodman begins with defining digitality in terms of physical
-properties (divisible, or indivisible, dense, or continuous), Katz ends with it
-as format imposed on matter from without. Undifferentiated matter like cake is
-only analog until someone cuts it into pieces. Furthermore, the ontological
-status of cake changes depending on the person doing the cutting. The cake is
-more digital, in a sense, for someone armed with a laser cutter and a
-microscope.  Similarly, painting can be thought of as a perfectly digital art
-if we consider it at the scale of art gallery as a series of discrete,
-replaceable, and reproducible frames(!) of canvas.[^ln3-art] What does it mean
-to digitize text then when text is already, by some definitions, a digital
-format?
+Our confusion about the dual status of *Myst* as both a digital and an analog
+artifact resolves when we introduce the distinction medium and format. The
+medium is digital *for those who have the access to the binary layer of the
+game.* This layer is not normally accessible at the site of the projection.
+The player does not operate at the site of the archive, where the bits that
+produce the surface image actually reside. The player then perceives the
+computed scenery as analog representation. The property of being digital thus
+indicates first and foremost the *systematic ability to impose structure*. The
+game is digital for a programmer and analog for the player. The quality of the
+digital separates those that create differentiation from those who passively
+apprehend the differentiated structure as a continuous whole.
 
-These conundrums reveal a problem in the very formulation of the question: What
-*is* digital representation? Under examination, properties related to the
-digital--analog distinction cease constituting an ontological category. Rather
-than a state of being, they indicate a systematic imposition of structure. The
-more appropriate question then is: What *makes* for digital representation?
+Second, note that from the instrumental point of view, to make something
+digital, in Katz's final formulation, implies the separation of structure from
+the medium. The painting remains analog as long as it remains irreproducible.
+It becomes digital when the viewer is able to impose structure, by which the
+visual form is "lifted" from the medium of canvas. Another way to put it would
+be to say that to digitize means also to enable "flawless copying and
+preservation" through "positive and reliable means." When taken outside of
+their philosophic context, such actions acquire an immediate practical
+implication, for a librarian for example.
 
-From the instrumental point of view, to make something digital is to liberate
-representation from its medium. To digitize means also to allow for "copying
-and preservation," actions that, when taken outside of their philosophic
-context acquire an immediate practical implication (for a librarian, for
-example). That is not to say that digitization makes thought wholly ephemeral
-or immaterial; rather, that it allows for the continual advancement and
-transmediation of thought---the ability to change specific material contexts as
-afforded by the very property of "media independence." Digitization, in that
-sense, is a necessary prerequisite for culture (in the common sense of
-"collective intellectual achievement"). Without digital portability, all
-representation (art and knowledge) attaches itself irrecoverably to
+In this light, human language is a perfectly digital artifact as long as it
+continues to enables the free trans-mediation of thought, from mind states to
+voice, from voice to paper, from paper to other mind states. Without such
+chains of transmission there can be no culture, in the sense that culture
+constitutes a collective intellectual achievement. Any sense of collectivity
+relies on each participants ability to effect change in the material contexts
+of representation. I participate in the collective as long as I am free to
+separate thought from its natural medium (my brain), to speak out loud, to
+write down on paper, and to pass notes to others. When we insist on preserving
+some notion of holistic analog unity, we ultimately risk total censorship. At
+the extreme of purely analog representation lie mental images that cannot be
+separated from their medium and therefore simply cannot be transmitted. Media
+independence of the sort enables achievement that can transcend the
+intellectual confines of an individual. Without digital portability, all
+representation---art and knowledge---attaches itself irrecoverably to
 untranslatable and irreproducible conditions of its material production.
 
-The digital being of representation, initially seen as a property of the
-medium, arises then as a political property regulating the very transmission of
-thought. Text on paper or screen remains digital only in so far as the medium
-is not fixed. Truly digital text can be copied and placed into other hands and
-minds, feasibly and reliably. The possibility of these procedures is what
-ultimately gives representation its digital form. A document restricted or
-classified in any way loses some of the necessary preconditions for being
-digital. This also means that technologies like "digital rights management"
-(DRM), which work to fix representation into a specific medium, transform
-digital content back into its media-dependent, irreproducible, and analog
-forms. Another way to put it would be to say that on "protected" devices (like
-proprietary e-book readers) the content is digital for some users and analog
-for those without permissions to copy, share, and transform.
+Truly digital text can be copied and placed into other hands and minds,
+feasibly and reliably. The possibility of enacting such procedures is what
+ultimately gives representation its digital form. Our senses limit our ability
+to format or in other words to impose structure onto media. For this reason,
+we cannot, for example, communicate in the infrared spectrum, without proper
+instrumentation. But much more commonly, our ability to format or in other
+words to impose structure onto media, to make it digital, is limited from
+without, by political means. A document classified by a government, for
+example, loses some of the necessary preconditions for being digital. One is
+literally not allowed to copy it. It has to remain embedded within this
+particular piece of paper on this particular desk. Technologies like "digital
+rights management" (DRM), which work to limit the reader's ability to copy
+books, for example, similarly transform digital content into its
+media-dependent, irreproducible, and analog forms. Paradoxically, a
+paper-an-ink book that places no restrictions on copying and transmediation
+provides for a more digital format than its electronic book analogs,
+particularly when such electronic books restrict the reader's ability to copy
+and transmediate. Another way to put it would be to say that on "protected"
+devices (like proprietary e-book readers) the content is digital for some
+users and analog for those without permissions to copy, share, and transform.
+Technologies like Digital Rights Management separate those for whom texts
+remain fluid and digital from those for whom texts become fixed and analog
+artifacts.
 
 The word, already a discrete quantity, comes into digital being as form when
 coupled loosely to its material contexts. Ontologically, text is by nature a
-digital format: first because it represents discrete units of information about
-the world, and second, because it allows for some measure of "flawless copying
-and preservation." Copying and preservation constitute the logic compelling the
-historical advancement of writing. But, also note that "flawless copying and
-preservation" are in themselves contingent (not fully determined) properties of
-writing. For example, imagine a world in which ideas forever "adhere" to their
-brain-bound media.[^ln3-brain] Imagine also a society that positively prohibits the
-transmediation of thought, on paper or between brain cells. Envision extreme
-forms of thought control that restrict the very basics of speech and literacy,
-prohibiting the manufacture of pens, paper, computers, photocopiers, voice
-recorders, and word processors. Such prohibitions would amount to total
-censorship. A radically analog society would also be wholly mute.
+digital format: first because it represents discrete units of information
+about the world, and second, because it allows for some measure of "flawless
+copying and preservation." Copying and preservation constitute the logic
+compelling the historical advancement of writing. But, also note that
+"flawless copying and preservation" are in themselves contingent (not fully
+determined) properties of writing. For example, imagine a world in which ideas
+forever "adhere" to their brain-bound media.[^ln3-brain] Imagine also a
+society that positively prohibits the transmediation of thought, on paper or
+between brain cells. Envision extreme forms of thought control that restrict
+the very basics of speech and literacy, prohibiting the manufacture of pens,
+paper, computers, photocopiers, voice recorders, and word processors. Such
+prohibitions would amount to total censorship. A radically analog society
+would also be wholly mute.
 
 Understanding digitality as a format imposed onto matter, a format that
 facilitates transmediation, recasts the history of computing as something other
@@ -965,10 +996,12 @@ transmediation (not limited to numbers)---machines that, depending on the
 user's acuity and dispensation to perceive text (and all information, really)
 as deep structure, separate readers into those for whom texts exist as fixed
 analog given, and those for whom they function as truly digital media, capable
-of transformation affecting further texts, people, and machines. To paraphrase
-a post-structuralist insight, the process of digital interpretation is in
-itself a type of creativity, forever advancing rather than apprehending the
-lateral movement of thought.
+of transformation affecting further texts, people, and machines.
+
+The quality of being digital arises then as a political property
+In this insight lies the crux of the chapter's argument. Where we started with
+vague intuitions about *the nature* of digital representation we end on firmer
+ground, on which the quality of 
 
 [^ln3-brain]: At the physical level, the process of textual remediation begins
 at the brain, as when thoughts are initially transcribed onto paper.
@@ -994,289 +1027,4 @@ system as a whole can continue to approach a quantity indefinitely, reaching an
 arbitrary point of precision. The computer limits decimal precision to some
 arbitrary "depth" of approximation, making it semantically discrete. I find
 this part of the argument unconvincing.
-
-## Medium not the Message (attunement)
-
-By "encoding," I mean a "controlled system of representation." Representation
-in its unrestrained form (as in "pictorial representation") differs from
-"encoding" in the size of its vocabulary. Painting and other forms of
-uninhibited representational conventions are limitless in their expressive
-possibility. The "language" of painting is infinite, in other words. Encoding,
-by contrast, reduces the universe of possibilities to a limited set of salient
-"codes," like the alphabet. These codes have a formal grammar and rules of
-composition. Although the expressive potential of written language is
-limitless, in some combinatorial sense of the word, language and other codes
-can "break," that is, be reduced to nonsense, in a way that painting cannot. A
-telegraph of the single-Morse type accepts alpha-numeric characters at first
-and then translates them into a system of signals, expressed in time intervals
-(between the synchronization tone and the activation of the key).
-
-It becomes clear from the description of early telegraph encoding systems that
-transcoding and transmediation relate to each other somehow. On one hand, all
-changes between encoding systems necessitate material phase transition, if not
-from one type of medium into another (from paper to magnetic storage, for
-example), then from one specific material context into another (as when one
-merely translates from French into English on the same piece of paper).
-Transmediation, on the other hand, may or may not involve a change in encoding
-formats, although it frequently does, as when language on paper is transformed
-into the pulsations of the electrical signal in Morse code. In reading and
-playing music, a musician furthermore transforms musical notation---a
-controlled, paper-bound vocabulary---into sound representation, the movement of
-molecules unlimited in its expressive potential.
-What matters is that the medium is largely independent from the type of
-information stored on it, and this contrary to Marshall McLuhan infamous "the
-medium is the message" dictum.15 The world itself "medium" is misleading in
-this context. We could for example say that paint is the medium of painting.
-But what about the photograph of a painting? Or its digital reproduction? The
-situation is even more confusing when we begin thinking about music, for
-example. What is the medium for J.S.  Bach's Double Violin Concerto: the
-violin or the music sheet which contains the score? We are on yet more
-precarious terrain when considering hybrid "media," like film or television
-that are comprised of multiple sources and that use multiple modes of
-transmission.  The confusion enters the conversation when we conflate the
-modality of the information (e.g. music, image, text) with the physical
-channel of its transmission (the medium proper). Modality may very well be the
-message. Thus, it may be true that when one plays the violin, the music can be
-said to express itself in musical terms. But not the violin! I could use a
-violin to transmit a picture of an orchestra over a dial-up modem, for
-example. This would only involve the question of how to encode the visual
-information into a state transmittable by the violin (a primarily auditory
-instrument).  The channel of communication—the medium proper—is in fact,
-information-agnostic. That is to say that it has no preference about the
-message being transmitted (nor can it have a preference for anything at all,
-formally speaking—preference being a property we ascribe to objects that are
-at least animate). We could therefore transmit a sonata by playing a violin,
-as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
-peer-to-peer network. In each case, the information transmitted remains more
-or less the same, depending on the quality of your violin playing, the
-fidelity of your speakers, or the compression ratio of your digital encoding.
-It would be wrong too to consider any of these sources as somehow primal, with
-others being something like "mere copies" of the original. We could for
-example, start by composing music on paper. Alternatively, we could first play
-a piece of music and then transcribe it into musical notation. In an extreme
-but perfectly plausible case, we could compose by magnetizing a length of
-ferrous tape first, and only then play the violin to reproduce what we have
-"written." The medium does not know anything about the message. The way in
-which we store, access, and retrieve the encoded information is determined by
-the medium, however. We are the ones being shaped by the media. I do mean this
-rather literally: the stage directions for Krapp's Last Tape would be very
-different were Krapp writing a diary, or browsing his online social networking
-profile, or if he were to embed a memory chip in his brain that was able to
-store and retrieve the same messages from his thirty-nine year-old self as the
-tape-recorder. The actor's body would move differently in each of these
-cases—his senses and his thought would be altered in many subtle ways,
-depending on the channel of communication.
-
-The separation between mode and medium allows us to retain a certain clarity of
-vision in a rather muddled conversation about "media history." Modalities such
-as visual arts, music or literature do not necessarily evolve, in the normative
-sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
-optical linear perspective in 1425. But the normative evolution of art could
-only make sense only against some concrete pragmatic goals, which the aesthetic
-realm lacks by definition. Nothing is gained or lost when the fashion changes
-from square-toed to pointy-toed shoes, and then back again—to use an example
-that would surely please Mr. Krapp. Neither is "better" or "worse" for the
-participants in that sphere of cultural activity. By contrast, the concept of
-the medium does contain some sense of normative valuation, also by definition.
-That is to say that the medium has a job, which is to facilitate the storage,
-the transmission, and the retrieval of information. And there is such a thing
-as doing this job better or more efficiently. More is always better in this
-case: more storage, faster access, more reliable transmission. When the quality
-of the information is not sacrificed, there are no instances were less would be
-preferable by anyone with limited time and resources. For example, I would like
-to be able to read or write faster. I value both of these activities, but my
-time to perform them is limited by my lifespan. Assuming I could gain speed
-without any degradation in clarity or comprehension, and barring any
-psychological ill effects, the idea of more in this case must be a good onto
-itself.
-
-Digitality, as I will argue for the duration of the book, constitutes a part
-of the human condition worthy of conservation. But, what I mean by "digital
-being" relates to the practice of buying "digital cameras" or to promoting the
-"digital humanities" in name only. To perceive what is at stake, we must do
-much more to disambiguate the digital cognates: electronic, binary, and
-computational.
-
-
-## Copy
-
-The division of text into form and content makes a difference in more
-utilitarian ways as well. For example, imagine the challenge of compiling all
-known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
-problem of what edition to use as the "base" for such a project presents itself
-immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
-*Folger Digital Texts*, "readers assume that there is a single text for the
-plays: what Shakespeare wrote. But Shakespeare's plays were not published the
-way modern novels or plays are today: as a single, authoritative text. In some
-cases, the plays have come down to us in multiple published versions,
-represented by various Quartos (Qq) and by the great collection put together by
-his colleagues in 1623, called the First Folio (F). There are, for example,
-three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
-*Romeo and Juliet*, and others. Editors choose which version to use as their
-base text, and then amend that text with words, lines or speech prefixes from
-the other versions that, in their judgment, make for a better or more accurate
-text" [@mowat_textual_2012]. In other words, where the readers expect to
-encounter *Hamlet* as a single, unified idea, they instead encounter a
-multiplicity of slightly diverging textual "witnesses." Errors in transcription
-and editorial interventions accumulate. The proliferation of unlicensed copies,
-translations, and imitations further adds to the complexity of the problem.
-
-Editors of classical literature will often solve the problem of diverging
-copies by designating one version as canonical, preserving the formal
-characteristics of the given version down to individual line breaks, as is
-often done with Platonic dialogs. It then becomes possible to collate
-commentaries, connecting each to individual words and passages at their
-canonical location. The problem remains in the abstract: which version to count
-as canonical? The act of deciding on what constitutes an authoritative edition
-can quickly become a contentious issue, particularly when the text in question
-carries religious or political significance.
-
-A whole field of textual criticism exists in the service of negotiating
-"critical" editions which in some way preserve the struggle to reconstruct a
-measure of authority. But what should count for being authoritative? A number
-of logical possibilities find as many ardent adherents. For some, the act of
-deriving the authoritative text lies in reconstructing authorial intent, using
-the author's notes, for example, or from first-hand witness testimony. Others
-place a premium on reconstructing and analyzing the writing process itself, in
-what has been dubbed as "genetic criticism" [@deppman_genetic_2004, 1-36]. Yet
-another approach will compare multiple editions of the same text to derive a
-possible meta-text, preserving all extant variations. Yet others will simply
-rely on their judgment to produce what they believe is a "true" text based on a
-number of personal and eclectic considerations [@bowers_rationale_1950,
-@bowers_shakespeares_1954, @mcgann_radiant_2001]. Such approaches to textual
-criticism have at least this one thing in common: behind the fuzzy profusion of
-textual material they perceive the outlines of a single, unified work. As G.
-Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
-distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
-a textual critic of his kind, all real-word variants and reproductions are
-suspect because possibly corrupt in some way. Despite its careful attention to
-the materiality of the text as artifact, textual criticism in this vein remains
-a classically idealistic pursuit. The work exists as an ideal form in the realm
-of the ideal.
-
-[ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
-reading or listening to receive a message from the past entails the effort to
-discover, through the text (or texts) one is presented with, the work that lies
-behind" [@tanselle_rationale_2010, 13-18.].
-
-Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
-William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
-
-"To restore an edifice means neither to maintain it, nor to repair it, not to
-rebuild it; it means to reestablish it in a finished state, which may in fact
-never have actually existed at any given time." [@price_historical_1996, 314;
-orig from @viollet-le-duc_foundations_1990, 195]
-
-"It is for all these buildings, threfore, of all times and styles, that we
-plead, and call upon those who hve to deal with them to put Protection in the
-place of Restoration, to stave off decay by daily care, to prop a perilous wall
-or mend a leaky roof by such means as are obvioiusly mant for support or
-convering, and show no pretence of other art, and othrwise to resist all
-tampering with either the favric or ornament of the buildings as it stands; if
-it has become 
-
-But whose who make the change wrout in our day under the name of Restoration,
-while professing to bring back a building to the best time of its hisory, have
-no guide but each his own individual whim to point out to them what i s
-admirable and what contemptible; while the very nature o their task compels
-them to destroy something and to supply the gap by imagining what the earlier
-builders should or might have done." Data munging. Irreversible changes.
-@price_historical_1996, 320; orig in "William Morris, "The Principles of the
-Society as Set Forth Upon its Foundation," Builder 35 August 1877.
-
-Ruskin lamp of memory.
-
-"It is impossible, as impossible as to raise the dead, to restore anything that
-has every been great or beautiful in architecture [...] That spirit which is
-given only by the hand and eye of the workman, never can be recalled. Another
-spirit may be given by another time, an it is then a new building; but the
-spirit of the dead workman cannot be summoned up, and commanded to direct other
-hands, and other thoughts. And as for direct and simple copying, it is palpably
-impossible. What copying can there be of surfaces that have been worn half an
-inch down [@staniforth_historical_2013, 2]?"
-
-"But it is said there may come a necessity for restoration! Granted. Look the
-necessity full in the face and understand it on its own terms. It is a
-necessity for destruction. Accept it as such, pull the building down, throw its
-stones into neglected corners, make ballast of them, or mortar, if you will'
-but do it honestly, and do not set up a Lie in its
-place"[@staniforth_historical_2013, 3].
-
-On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
-alter of a Company in the Church of S. Francesco, he painted in fresco the
-Circumcision of Our Lord, which in considered beautiful to a marvel, although
-the Infant, having been injured by damp, was restored by Sodoma and made much
-less beautiful than before. And, in truth, it would be sometimes better to
-leave works half spoilt, when they have been made by men of excellence, rather
-than to have them retouched by inferior masters." 1550 Tim's Vermeer.
-
-picture cleaning as removing as removal of "varnishes and other encrustations,
-by which a paininting may be obscured, but by which it is usulaly also in some
-measur protected from injury." [@bomford_issues_2004, 60] Original in the
-Report from the Select Committee on the National Gallery, London 1853, vi-xi.
-
-Colliveau set about [restoring]this picture with uncommon solenity, because it was his
-own. He began with the most delicate pumice stone, and very soon got into the
-walls of th building, but was astonished to find the apearance of bricks and
-mortar still, although not guite soneat; he soon cleared away the wall on
-discovering a room beyond, and pictures, furniture, &c. most beautiful.
-Gracious powers! how was he agitated; forgetting totally the mischief he was
-commiting, his elbow went like a fiddler's; every thing vanished.---However,
-finding a bed, the curtains of which (a dark green) were drawn close, he went
-to work upon it ver tenderly; presently a pot de chambre came  in sight!---His
-whole souldwas absorbed; his face all one ghastly grin; his legs (like German
-flutes) tottered under him. Not that great philosopher Guffin Ragba, was more
-agitated while cutting the leather from off his bellow, to disover how wind was
-make, than was Monsieru Collifeau while scroring off the bed cloaths; at last
-he found a lady asleep, very beautiful, because very fat, and a Dutch woman.
-Now this part I did not see, and I believe but very few besides himself; but
-alas! hew was soon to be at the end of his discoveries. Having got a glimpse of
-some gilding, he redoubled his efforts, when he found it was an inscription; it
-was in Dutch, and nearly thus, as translated by Mr. Peter La Cave:---"Now
-caitiff, meditate on th havoc though hast made throughout thy lie, and go thang
-thyself. In this picture, wretch! though have destroyed, what to the end of the
-world, can never be replaced." [@bomford_issues_2004, 44-45]. Originally from
-Julio Caesar Ibbetson, An Accidence, or Gamut, of Painting in Oil and water
-Colous . London: Darton and Harvey, 1803, 5-14.
-
-"The sculptor wastes away th rudo block til he has accomplished the desired
-form. not so the painter. he builds up his forms from a blank surface, and
-hides, as he rogresses all the preliminary layers upon which the etxternal
-colours depend for durability and lustre. And hence, not on the meaning and
-spririt of the work must be understood; the restorer must also be familiar with
-he naure of the materials and the manner of their employment.
-[@bomford_issues_2004, 70]. Original from @merritt_dirt_1854, 67-72
-
-
-The wound
-that heals.
-
-Just giving you a taste of restoration vs. preservation. What would
-
-
-[^ln11-counter]: A documentary on counterfeit goods produced by BBC4
-interviews Christophe Zimmerman, Senior Technical Officer at World Customs
-Organization, who deplores the industry's lack of cooperation with law
-enforcement [@bbc4_counterfeiting_2013].
-
-
-We have now traveled from the pixel down to magnetic storage media and back
-from the storage media to the screen. The passage opens up space between
-visible content, media, and the imposed forms that govern any and all higher
-notions of literary activity "floating" above this nominally "digital" layer.
-Technology does not determine the literary space: it has only the potential to
-hide implicit mechanisms of machine control, or, to offer possibilities for
-transformation not otherwise available to other forms of textuality. Loosely
-coupled to its material contexts, text can continue its relentless drive from
-matter to idea and into other matters as long as its passage is not hampered by
-regimes that prohibit further sharing, remixing, and transmediation. I say nothing
-yet of the potential necessity of such regulation. Under certain conditions, in
-the name of privacy, security, or property rights, it may become necessary to
-flatten out and to treat text as more of an analog, media-bound modality of
-communication, limited in its ability to move across minds and cultures. But,
-it is also in our broadly human, civic interest to keep such mechanisms of
-constraint visible to view, under continual scrutiny of critical, close, and
-closest possible reading.
-
-## Gerard Genette and Nelson Goodman on the nature of textual copies,
 
