@@ -1126,69 +1126,15 @@ free, the reading of PDF documents requires specialized software, which may
 cost money. PDF further hinders the copying and the preservation of text---the
 very formal prerequisites for digital media. The simple act of taking notes
 (to use the same example as above) becomes a paid feature of the Adobe Acrobat
-software. What was gained in a minor (for scholarly communication) convinince
-of formatting is lost in a major consession to the privatization of public
+software. What was gained in a minor (for scholarly communication) convenience
+of formatting is lost in a major concession to the privatization of public
 knowledge. We have in effect instituted a document format that in some
 important for us ways is less flexible than paper. Because "copying and
 preservation" are key values for university libraries, the loss of unimpeded
 "copying and preservation" should outweigh any gains in purely ornamental
-stability of document format.
-
-What matters is that the medium is largely independent from the type of
-information stored on it, and this contrary to Marshall McLuhan infamous "the
-medium is the message" dictum. The world itself "medium" is misleading in
-this context. We could for example say that paint is the medium of painting.
-But what about the photograph of a painting? Or its digital reproduction? The
-situation is even more confusing when we begin thinking about music, for
-example. What is the medium for J.S. Bach's Double Violin Concerto: the
-violin or the music sheet which contains the score? We are on yet more
-precarious terrain when considering hybrid "media," like film or television
-that are comprised of multiple sources and that use multiple modes of
-transmission.  The confusion enters the conversation when we conflate the
-modality of the information (e.g. music, image, text) with the physical
-channel of its transmission (the medium proper). Modality may very well be the
-message. Thus, it may be true that when one plays the violin, the music can be
-said to express itself in musical terms. But not the violin! I could use a
-violin to transmit a picture of an orchestra over a dial-up modem, for
-example. This would only involve the question of how to encode the visual
-information into a state transmittable by the violin (a primarily auditory
-instrument).  The channel of communication—the medium proper—is in fact,
-information-agnostic. That is to say that it has no preference about the
-message being transmitted (nor can it have a preference for anything at all,
-formally speaking—preference being a property we ascribe to objects that are
-at least animate). We could therefore transmit a sonata by playing a violin,
-as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
-peer-to-peer network. In each case, the information transmitted remains more
-or less the same, depending on the quality of your violin playing, the
-fidelity of your speakers, or the compression ratio of your digital encoding.
-It would be wrong too to consider any of these sources as somehow primal, with
-others being something like "mere copies" of the original. We could for
-example, start by composing music on paper. Alternatively, we could first play
-a piece of music and then transcribe it into musical notation. In an extreme
-but perfectly plausible case, we could compose by magnetizing a length of
-ferrous tape first, and only then play the violin to reproduce what we have
-"written." The medium does not know anything about the message. The way in
-which we store, access, and retrieve the encoded information is determined by
-the medium, however. We are the ones being shaped by the media. I do mean this
-rather literally: the stage directions for Krapp's Last Tape would be very
-different were Krapp writing a diary, or browsing his online social networking
-profile, or if he were to embed a memory chip in his brain that was able to
-store and retrieve the same messages from his thirty-nine year-old self as the
-tape-recorder. The actor's body would move differently in each of these
-cases—his senses and his thought would be altered in many subtle ways,
-depending on the channel of communication.
-
-The separation between BLAH and medium allows us to retain a certain clarity of
-vision in a rather muddled conversation about "media history." Modalities such
-as visual arts, music or literature do not necessarily evolve, in the normative
-sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
-optical linear perspective in 1425. But the normative evolution of art could
-only make sense only against some concrete pragmatic goals, which the aesthetic
-realm lacks by definition. Nothing is gained or lost when the fashion changes
-from square-toed to pointy-toed shoes, and then back again---to use an example
-that would surely please Mr. Krapp. Neither is "better" or "worse" for the
-participants in that sphere of cultural activity. By contrast, the concept of
-the medium 
+stability of document format. This does not mean that we should not use Adobe
+Acrobat files, only that we must be, in all cases, intellectually invested in
+the compromises involved.
 
 
 [^ln3-brain]: At the physical level, the process of textual remediation begins
