@@ -1,6 +1,6 @@
 # Chapter 3: Projection
 
-`digital, analog, medium, mode`
+`digital, analog`
 
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared vocabulary that includes
@@ -1135,7 +1135,6 @@ preservation" are key values for university libraries, the loss of unimpeded
 stability of document format. This does not mean that we should not use Adobe
 Acrobat files, only that we must be, in all cases, intellectually invested in
 the compromises involved.
-
 
 [^ln3-brain]: At the physical level, the process of textual remediation begins
 at the brain, as when thoughts are initially transcribed onto paper.
