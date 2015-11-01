@@ -464,6 +464,34 @@ perforation, from mechanical movement to the shape of the sinusoidal
 electrical impulse, and back out through a series of transformations into
 script.
 
+TAKE A LOOK HERE
+By "encoding," I mean a "controlled system of representation." Representation
+in its unrestrained form (as in "pictorial representation") differs from
+"encoding" in the size of its vocabulary. Painting and other forms of
+uninhibited representational conventions are limitless in their expressive
+possibility. The "language" of painting is infinite, in other words. Encoding,
+by contrast, reduces the universe of possibilities to a limited set of salient
+"codes," like the alphabet. These codes have a formal grammar and rules of
+composition. Although the expressive potential of written language is
+limitless, in some combinatorial sense of the word, language and other codes
+can "break," that is, be reduced to nonsense, in a way that painting cannot. A
+telegraph of the single-Morse type accepts alpha-numeric characters at first
+and then translates them into a system of signals, expressed in time intervals
+(between the synchronization tone and the activation of the key).
+
+It becomes clear from the description of early telegraph encoding systems that
+transcoding and transmediation relate to each other somehow. On one hand, all
+changes between encoding systems necessitate material phase transition, if not
+from one type of medium into another (from paper to magnetic storage, for
+example), then from one specific material context into another (as when one
+merely translates from French into English on the same piece of paper).
+Transmediation, on the other hand, may or may not involve a change in encoding
+formats, although it frequently does, as when language on paper is transformed
+into the pulsations of the electrical signal in Morse code. In reading and
+playing music, a musician furthermore transforms musical notation---a
+controlled, paper-bound vocabulary---into sound representation, the movement of
+molecules unlimited in its expressive potential.
+
 Blueprints for the writing telegraph reveal a device that mixes discrete and
 continuous modes of representation, through multiple acts of transcoding and
 transmediation. Digitality, in that sense, is besides the point. The telegraph
@@ -998,10 +1026,135 @@ as deep structure, separate readers into those for whom texts exist as fixed
 analog given, and those for whom they function as truly digital media, capable
 of transformation affecting further texts, people, and machines.
 
-The quality of being digital arises then as a political property
-In this insight lies the crux of the chapter's argument. Where we started with
-vague intuitions about *the nature* of digital representation we end on firmer
-ground, on which the quality of 
+## The Medium Is Not the Message (attunement)
+
+I have argued so far that in examining the material conditions of digital
+representation we find that format---a quality distinct from both medium and
+semiotic content of the message---emerges as a political construct governing
+the physical affordances of communication. In this insight lies the crux of
+the chapter's argument. Where we started with vague intuitions about *the
+essence* of digital representation, we end on firmer ground, at which
+formatting identifies the ability to impose structure onto the medium. But the
+insight carries further severe consequence. The ability to cut the cake
+structures not only the cake but also portion size. That is to say that
+formatting frames not only the medium but also the affordances of
+apprehension. Thus to format text without margins, to take a relatively benign
+example, is also to deny marginalia. And to format text in a way that prevents
+further reformatting is to deny the formation of shared culture.
+
+The formatting of media shapes not only the media but also attention. In that,
+it lays a particular claim on the recipient of the message. In its benign form
+it facilitates understanding. Thus to set to shape undifferentiated blocks of
+text into paragraphs and to take care of gutters and margins is to help the
+reader better apprehend what is being conveyed. But formatting can also
+conversely hinder apprehension. It can structure attention in ways that
+discourage or outright prevent the practices that accompany critical thought,
+like note taking. And note that such claim on the reader's attention can
+happen through material affordances, like the lack of margins, or through
+outright legislation or by social convention. Quote Do Artifacts have
+politics?
+
+Thus the further remediation of the text can be prevented by transmitting it
+in a way that hinders "feasible procedures" for reliable "copying and
+preservation." In fact, that is exactly what happens when
+documents are formatted into the ubiquitous Adobe Portable Document Format
+(.pdf). Adobe, the American company responsible for introducing the file
+format into circulation, describes it as "allow[ing] the faithful,
+high-quality reproduction of printed matter in electronic form" [@shore, 1].
+Text, when transmitted without formatting specifications, loses its shape to
+some extent. Think about writing an email for example. What appears to you as
+lines of a certain width, may appear to the recipient in a completely
+different form. You may have written your email on a large, stationary
+monitor, for example, where your recipient reads on a small, portable device.
+Because the formatting is not fixed, the email program is able to reflow the
+lines appropriately. You have in essence delegated the responsibility for
+formatting the text to the reader's device. The reader is then free to
+apprehend it in a manner most convenient to him or her. The downside of having
+this freedom is that the sender cannot assure quality formatting. The reader's
+software may render the text poorly or make it outright unreadable. The Adobe
+Portable Document Format solves that problem by guaranteeing that the
+recipient receive the message exactly as written, without delegating the
+responsibility to render the message to the reader. In essence, the format
+mimic the constraints of the printed page, which similarly preserves the shape
+of the message during transmission. When writing a letter by hand, you know
+that your recipient will see what your write in exactly the shape that your
+are seeing. But to achieve the effect, the portable document format must also
+limit the viewing possibilities. Thus if the sender fixes the width of the
+page to the standard legal size, the reader would be pained to read such a
+document on a much smaller, portable device. The PDF essentially converts a
+textual format into a visual one. Strictly speaking, PDF documents do not
+contain text, in a way that an email does. Rather, they picture text, in a way
+a photograph of a printed page would do. Such constraint is useful in business
+communication, as when writing contracts for example. The party responsible
+for drafting the contract wants to know that is signed without alteration. Yet
+for other purposes, such fixity of formatting is detrimental to communication.
+Where reading paper contracts sent through the mail is free, the reading of
+PDF documents requires specialized software, which may cost money. PDF further
+hinders the copying and the preservation of text---the very formal
+prerequisites for digital media. Such documents often prevent
+
+What matters is that the medium is largely independent from the type of
+information stored on it, and this contrary to Marshall McLuhan infamous "the
+medium is the message" dictum. The world itself "medium" is misleading in
+this context. We could for example say that paint is the medium of painting.
+But what about the photograph of a painting? Or its digital reproduction? The
+situation is even more confusing when we begin thinking about music, for
+example. What is the medium for J.S. Bach's Double Violin Concerto: the
+violin or the music sheet which contains the score? We are on yet more
+precarious terrain when considering hybrid "media," like film or television
+that are comprised of multiple sources and that use multiple modes of
+transmission.  The confusion enters the conversation when we conflate the
+modality of the information (e.g. music, image, text) with the physical
+channel of its transmission (the medium proper). Modality may very well be the
+message. Thus, it may be true that when one plays the violin, the music can be
+said to express itself in musical terms. But not the violin! I could use a
+violin to transmit a picture of an orchestra over a dial-up modem, for
+example. This would only involve the question of how to encode the visual
+information into a state transmittable by the violin (a primarily auditory
+instrument).  The channel of communication—the medium proper—is in fact,
+information-agnostic. That is to say that it has no preference about the
+message being transmitted (nor can it have a preference for anything at all,
+formally speaking—preference being a property we ascribe to objects that are
+at least animate). We could therefore transmit a sonata by playing a violin,
+as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
+peer-to-peer network. In each case, the information transmitted remains more
+or less the same, depending on the quality of your violin playing, the
+fidelity of your speakers, or the compression ratio of your digital encoding.
+It would be wrong too to consider any of these sources as somehow primal, with
+others being something like "mere copies" of the original. We could for
+example, start by composing music on paper. Alternatively, we could first play
+a piece of music and then transcribe it into musical notation. In an extreme
+but perfectly plausible case, we could compose by magnetizing a length of
+ferrous tape first, and only then play the violin to reproduce what we have
+"written." The medium does not know anything about the message. The way in
+which we store, access, and retrieve the encoded information is determined by
+the medium, however. We are the ones being shaped by the media. I do mean this
+rather literally: the stage directions for Krapp's Last Tape would be very
+different were Krapp writing a diary, or browsing his online social networking
+profile, or if he were to embed a memory chip in his brain that was able to
+store and retrieve the same messages from his thirty-nine year-old self as the
+tape-recorder. The actor's body would move differently in each of these
+cases—his senses and his thought would be altered in many subtle ways,
+depending on the channel of communication.
+
+The separation between BLAH and medium allows us to retain a certain clarity of
+vision in a rather muddled conversation about "media history." Modalities such
+as visual arts, music or literature do not necessarily evolve, in the normative
+sense of the word. Yes, it may be true that Filippo Brunelleschi invented the
+optical linear perspective in 1425. But the normative evolution of art could
+only make sense only against some concrete pragmatic goals, which the aesthetic
+realm lacks by definition. Nothing is gained or lost when the fashion changes
+from square-toed to pointy-toed shoes, and then back again---to use an example
+that would surely please Mr. Krapp. Neither is "better" or "worse" for the
+participants in that sphere of cultural activity. By contrast, the concept of
+the medium 
+
+Digitality, as I will argue for the duration of the book, constitutes a part
+of the human condition worthy of conservation. But, what I mean by "digital
+being" relates to the practice of buying "digital cameras" or to promoting the
+"digital humanities" in name only. To perceive what is at stake, we must do
+much more to disambiguate the digital cognates: electronic, binary, and
+computational.
 
 [^ln3-brain]: At the physical level, the process of textual remediation begins
 at the brain, as when thoughts are initially transcribed onto paper.
