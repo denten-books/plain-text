@@ -1456,7 +1456,8 @@ hermeneutically sealed to resist human interpretation.
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
 Johanna Drucker's discussion on "the totalizing drive of the digital" in
-[@drucker2001, 145].
+[@drucker_digital_2001, 145].
+
 [^ln1-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
