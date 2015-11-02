@@ -509,20 +509,20 @@ perforation, from mechanical movement to the shape of the sinusoidal
 electrical impulse, and back out through a series of transformations into
 script.
 
-TAKE A LOOK HERE
 By "encoding," I mean a "controlled system of representation." Representation
 in its unrestrained form (as in "pictorial representation") differs from
 "encoding" in the size of its vocabulary. Painting and other forms of
-uninhibited representational conventions are limitless in their expressive
-possibility. The "language" of painting is infinite, in other words. Encoding,
-by contrast, reduces the universe of possibilities to a limited set of salient
-"codes," like the alphabet. These codes have a formal grammar and rules of
-composition. Although the expressive potential of written language is
-limitless, in some combinatorial sense of the word, language and other codes
-can "break," that is, be reduced to nonsense, in a way that painting cannot. A
-telegraph of the single-Morse type accepts alpha-numeric characters at first
-and then translates them into a system of signals, expressed in time intervals
-(between the synchronization tone and the activation of the key).
+uninhibited representational conventions offer limitless expressive
+possibilities. The "language" of painting is infinite, in other words.
+Encoding, by contrast, reduces the universe of expressive possibilities to a
+limited set of salient "codes," like the alphabet. These codes have a formal
+grammar and rules of composition. Although the expressive potential of written
+language is limitless, in some combinatorial sense of the word, language and
+other codes can "break," that is, be reduced to nonsense, in a way that
+painting cannot. A telegraph of the single-Morse type accepts alpha-numeric
+characters at first and then translates them into a system of signals,
+expressed in time intervals (between the synchronization tone and the
+activation of the key).
 
 It becomes clear from the description of early telegraph encoding systems that
 transcoding and transmediation relate to each other somehow. On one hand, all
