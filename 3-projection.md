@@ -7,32 +7,81 @@ archive and projection we will have to build a shared vocabulary that includes
 terms both technical and literary critical. The following three chapters trace
 the passage of the inscription through the computational device, beginning
 with its apparent, outward shape on the screen. The screen has this one major
-peculiarity: it refreshes itself multiple times per second.  Thus even those
+peculiarity: it refreshes itself multiple times per second. Thus even those
 shapes that appear to stand still on the screen move in the realm beyond the
 threshold of human perception. We are vaguely aware of this movement: it is
 commonly visible when a screen appears on another screen, as it does in
 documentary films that show someone in the process of typing at the computer
 terminal or watching television. The difference in the flicker rates between
 the projector showing the image and the projector "in the frame" is what
-produces the characteristic horizontal interference pattern. The illusion of
-motion is key to understanding the mechanics of cinema, but what does it mean
-to perceive seemingly static words against the background of a fundamentally
-dynamic medium? Instead of a static and immutable sign etched in stone or on
-paper we observe the sign in motion. To refer to the "illusion" of digital
-textuality is therefore to identify the dynamic property of projection. To
-place text on the screen is to bring it closer to the moving image. What
-happens to literature that takes place on cinema screen?
+produces the characteristic horizontal interference pattern. Such glitches
+give us a glimpse into the nature of the simulation. Movement is key to
+understanding the mechanics of cinema, but what does it mean to perceive
+seemingly static words against the background of a fundamentally dynamic
+medium? Instead of a static and immutable sign etched in stone or on paper we
+observe the sign in motion. To refer to the "illusion" of digital textuality
+is therefore to identify the dynamic property of projection. To place text on
+the screen is to bring it closer to the moving image. What happens to
+literature that takes place on cinema screen?
 
 In this chapter, I bring archival material---blueprints, phenomenological
 accounts, and debates in the philosophy of aesthetics---to bare on the
-question of projection. The nature of "digital" experience, as I will argue,
-depends on some notion of "natural" and "analog" mode of human perception. The
-change of *medium* from paper to pixel entails a corresponding change in the
-*mode* of perception. The projection "attunes" if you will the viewer to the
-message.  By attunement I mean something analogous to what Marcel Mauss called
-the "techniques of the body" [@mauss_techniques_2006, 78]: the way in which we
-sit for example, the position of the hands, the head, or the movement of the
-eyes. The mode *structures* experience. It answers the how of perception.
+question of digital representation. The nature of "digital" experience, as I
+will argue, initially appears to be an intrinsic property of the medium. Under
+closer examination, it rather turns out to be a political construct that lays
+claim on the body, structuring the physical affordances of communication. The
+change of *medium* from paper to pixel entails a series of corresponding
+changes in the *mode* of perception. The projection "attunes" if you will the
+viewer to the message. By attunement I mean something analogous to what Marcel
+Mauss called the "techniques of the body" [@mauss_techniques_2006, 78]: the
+way in which we sit for example, the position of the hands, the head, or the
+movement of the eyes. The mode structures apprehension. It answers the how of
+perception.
+
+It would be a mistake to conflate the medium with the message, in this
+context. At stake in the digital--analog divide is rather the reader's ability
+to do something with the text. The very word "medium" 
+
+this context. We could for example say that paint is the medium of painting.
+But what about the photograph of a painting? Or its digital reproduction? The
+situation is even more confusing when we begin thinking about music, for
+example. What is the medium for J.S. Bach's Double Violin Concerto: the violin
+or the music sheet which contains the score? We are on yet more precarious
+terrain when considering hybrid "media," like film or television that are
+comprised of multiple sources and that use multiple modes of transmission.
+The confusion enters the conversation when we conflate the modality of the
+information (e.g. music, image, text) with the physical channel of its
+transmission (air, liquid crystal, paper). Modality may very well be the
+message. Thus, it may be true that when one plays the violin, the music can be
+said to express itself in musical terms. But not the violin! I could use a
+violin to transmit a picture of an orchestra over a dial-up modem, for
+example. This would only involve the question of how to encode the visual
+information into a state transmittable by the violin (a primarily auditory
+instrument).  The channel of communication—the medium proper—is in fact,
+information-agnostic.  That is to say that it has no preference about the
+message being transmitted (nor can it have a preference for anything at all,
+formally speaking—preference being a property we ascribe to objects that are
+at least animate). We could therefore transmit a sonata by playing a violin,
+as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
+peer-to-peer network. In each case, the information transmitted remains more
+or less the same, depending on the quality of your violin playing, the
+fidelity of your speakers, or the compression ratio of your digital encoding.
+It would be wrong too to consider any of these sources as somehow primal, with
+others being something like "mere copies" of the original. We could for
+example, start by composing music on paper. Alternatively, we could first play
+a piece of music and then transcribe it into musical notation. In an extreme
+but perfectly plausible case, we could compose by magnetizing a length of
+ferrous tape first, and only then play the violin to reproduce what we have
+"written." The medium does not know anything about the message. The way in
+which we store, access, and retrieve the encoded information is determined by
+the medium, however. We are the ones being shaped by the media. I do mean this
+rather literally: the stage directions for Krapp's Last Tape would be very
+different were Krapp writing a diary, or browsing his online social networking
+profile, or if he were to embed a memory chip in his brain that was able to
+store and retrieve the same messages from his thirty-nine year-old self as the
+tape-recorder. The actor's body would move differently in each of these
+cases—his senses and his thought would be altered in many subtle ways,
+depending on the channel of communication.
 
 Initially, we must simply know how to perceive: to look, to smell, or to
 listen. The modality tells us "the register" of the message. Where to look for
