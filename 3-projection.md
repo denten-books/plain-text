@@ -75,11 +75,6 @@ listening to music. The modality attunes the listener. It suggests specific
 ways of listening, where air, wood, and strings remain agnostic to the
 information being transmitted.
 
-[^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
-material (as tape, disk, paper, etc.) used for recording or reproducing data,
-images, or sound."
-
-
 Initially, we must simply know how to perceive: to look, to smell, or to
 listen. The modality tells us "the register" of the message. Where to look for
 it and how to identify its signifying elements. In refined arts it goes
@@ -92,11 +87,15 @@ lies the starkest difference between analog and digital media. The shift from
 one to the other affects not the message but the mode of perception. It is as
 if someone has asked you to read a book or to watch a film in a stranger's
 armchair. It feels off in a way that is difficult to explain. The mode of
-digital perception similarly contorts the body into new and unfamiliar shapes.
-I begin then with popular intuitions about the digital. The "two terminators"
-of the introductory section lead us to the technical particulates of
-projection and finally to the discussion on the aesthetics of digital
-perception.
+digital perception similarly contorts the body into new and unfamiliar shapes,
+which give discomfort.
+
+Something happens as digital media subsume their analog counterparts. But what
+is it? We already know the shape of the conduit: keyboard, screen, storage.
+But do these change the ways we read or listen and how? I begin then with
+forming some intuitions about the digital. The "two terminators" from popular
+culture will lead us to several technical case studies. These will serve as
+testbed for an aesthetics of digital perception.
 
 ## Digital Wake (My Two Terminators)
 
@@ -1207,3 +1206,6 @@ arbitrary point of precision. The computer limits decimal precision to some
 arbitrary "depth" of approximation, making it semantically discrete. I find
 this part of the argument unconvincing.
 
+[^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
+material (as tape, disk, paper, etc.) used for recording or reproducing data,
+images, or sound."
