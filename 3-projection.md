@@ -29,59 +29,56 @@ accounts, and debates in the philosophy of aesthetics---to bare on the
 question of digital representation. The nature of "digital" experience, as I
 will argue, initially appears to be an intrinsic property of the medium. Under
 closer examination, it rather turns out to be a political construct that lays
-claim on the body, structuring the physical affordances of communication. The
+claims on the body, structuring the physical affordances of communication. The
 change of *medium* from paper to pixel entails a series of corresponding
-changes in the *mode* of perception. The projection "attunes" if you will the
-viewer to the message. By attunement I mean something analogous to what Marcel
-Mauss called the "techniques of the body" [@mauss_techniques_2006, 78]: the
-way in which we sit for example, the position of the hands, the head, or the
-movement of the eyes. The mode structures apprehension. It answers the how of
+changes in the *mode* of perception. The projection "attunes" the viewer to
+the message. By attunement I mean something analogous to what Marcel Mauss
+called the "techniques of the body" [@mauss_techniques_2006, 78], the way in
+which we sit for example: the position of the hands, the head, or the movement
+of the eyes. The mode structures apprehension. It answers the how of
 perception.
 
 It would be a mistake to conflate the medium with the message, in this
 context. At stake in the digital--analog divide is rather the reader's ability
-to do something with the text. The very word "medium" 
+to do something with the text. I suggest that for the duration of this chapter
+we restrict the use of the word "medium" to identify more narrowly the
+physical conduit of representation.[^ln3-oed] Thus the medium of painting is
+paint and canvas, where the medium of books is paper and ink. The distinction
+will help us remain somewhat more precise than in colloquial use, particularly
+as we move to the more complicated and interested cases. A change in medium
+often implies a corresponding change in the *mode* of perception. For example,
+at some level of music production the making of classical music may involve a
+family of brass woodwind instruments, shaped to move and vibrate air. Brass,
+wood, wind, and air all sound like reasonable candidates for the media through
+which sound and vibration will travel to reach the listener's ear. The *mode*
+of music appreciation is listening, which involves a set of conventional
+cultural techniques: the way one buys tickets, (the fact that that there are
+tickets!), the way one dresses and behaves at a concert.
 
-this context. We could for example say that paint is the medium of painting.
-But what about the photograph of a painting? Or its digital reproduction? The
-situation is even more confusing when we begin thinking about music, for
-example. What is the medium for J.S. Bach's Double Violin Concerto: the violin
-or the music sheet which contains the score? We are on yet more precarious
-terrain when considering hybrid "media," like film or television that are
-comprised of multiple sources and that use multiple modes of transmission.
+Yet at another stage of music production, the making of classical music will
+involve sheet music. A whole system of music distribution is built around the
+printing and the circulation of music media in the form paper and ink
+documents. The modality of reading sheet music, as opposed to listening,
+requires a completely different set of body postures. It engages different
+practices and different cultural and financial institutions from listening.
+
 The confusion enters the conversation when we conflate the modality of the
-information (e.g. music, image, text) with the physical channel of its
-transmission (air, liquid crystal, paper). Modality may very well be the
-message. Thus, it may be true that when one plays the violin, the music can be
-said to express itself in musical terms. But not the violin! I could use a
-violin to transmit a picture of an orchestra over a dial-up modem, for
-example. This would only involve the question of how to encode the visual
-information into a state transmittable by the violin (a primarily auditory
-instrument).  The channel of communication—the medium proper—is in fact,
-information-agnostic.  That is to say that it has no preference about the
-message being transmitted (nor can it have a preference for anything at all,
-formally speaking—preference being a property we ascribe to objects that are
-at least animate). We could therefore transmit a sonata by playing a violin,
-as sheet-music, on a vinyl disk, recorded on tape, or by using an illegal
-peer-to-peer network. In each case, the information transmitted remains more
-or less the same, depending on the quality of your violin playing, the
-fidelity of your speakers, or the compression ratio of your digital encoding.
-It would be wrong too to consider any of these sources as somehow primal, with
-others being something like "mere copies" of the original. We could for
-example, start by composing music on paper. Alternatively, we could first play
-a piece of music and then transcribe it into musical notation. In an extreme
-but perfectly plausible case, we could compose by magnetizing a length of
-ferrous tape first, and only then play the violin to reproduce what we have
-"written." The medium does not know anything about the message. The way in
-which we store, access, and retrieve the encoded information is determined by
-the medium, however. We are the ones being shaped by the media. I do mean this
-rather literally: the stage directions for Krapp's Last Tape would be very
-different were Krapp writing a diary, or browsing his online social networking
-profile, or if he were to embed a memory chip in his brain that was able to
-store and retrieve the same messages from his thirty-nine year-old self as the
-tape-recorder. The actor's body would move differently in each of these
-cases—his senses and his thought would be altered in many subtle ways,
-depending on the channel of communication.
+information (e.g.  music, image, text) with the physical channel of its
+transmission (air, liquid crystal, paper). Modality is what determines the
+message to a much greater extent the medium. In fact, in most communication
+systems the medium serves as a relatively neutral conduit. In this way, one
+can use a violin to transmit a concerto or to transmit a secret message. The
+medium remains the same, where the mode of understanding or appreciating the
+quality of what is being transmitted changes. To decode a secret message
+played by a violin, the listener has to listen in a different way from that of
+listening to music. The modality attunes the listener. It suggests specific
+ways of listening, where air, wood, and strings remain agnostic to the
+information being transmitted.
+
+[^ln3-oed]: The Oxford English suggests as one of the usages "Any physical
+material (as tape, disk, paper, etc.) used for recording or reproducing data,
+images, or sound."
+
 
 Initially, we must simply know how to perceive: to look, to smell, or to
 listen. The modality tells us "the register" of the message. Where to look for
