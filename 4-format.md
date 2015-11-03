@@ -1,22 +1,37 @@
 # Chapter 4: Format
 `form, format, formula`
 
-> Il faut nous laver de la littérature. Nous voulons être hommes avant tout,
-être humains. Il n'y a pas de formes ou de forme. Il n'y a que le
-jaillissement de la vie [@artaud_uvres_1980, 204].
+## Metaphor Machine
 
-As information was compressed and pushed through the wires, it underwent a
-number of transformations. Donald Murray, the inventor of the popular Murray
-telegraph alphabet, conceived of that transformation in terms of movement from
-space to time. Unfolding something like the "metaphysics of telegraph
-signalling alphabets," he described spatial writing symbols that "appeal to
-the eye," and temporal, "telephonic" signals that "appeal to the ear."
-Paradoxically, space signals (like words on a billboard) occupy little space,
-but persist in time. "For instance, a signboard may extend over 10 feet and
-100 years," Murray writes. Time signals are ephemeral by contrast: "a Morse
-signal in a wire may extend over half a second and 500 miles"
-[@murray_setting_1905, 86]. When viewed in the light of telegraphy,
-technologies of writing stretch the sign in time and space.
+Reading Jean Baudrillard at the end of the century prior, I understood his
+writing on simulacra in relationship to ersatz entertainment: amusement parks,
+virtual reality, reality television, and the like. I am only now beginning to
+comprehend the extent of the simulation. Computer, the ultimate metaphor
+machine, mediates experience ubiquitously. It interjects in simple everyday
+acts from drinking coffee in the morning, through brewing and payment systems,
+to going to bed as alarm clock and night activity monitor.
+
+Baudrillard writes:
+
+> At the limit of an always increasing elimination of references and
+> finalities, an ever-increasing loss of resemblances and designations, we
+> find the digital and programmatic sign, whose "value" is purely *tactical*,
+> at the intersection of other signals ("bits" of information/tests) whose
+> structure is that of a micromolecular code of command and control
+> [@baudrillard_selected_1988, 139-140].
+
+Wittgenstein: pretending to read. Pretending to understand. Turing's answer
+the imitation game.
+
+Realizing desktop metaphors on a computer
+20140091134A1
+
+John Carrol on Metaphor and the Cognitive Representation of Computer systems
+
+The metaphor machine: A database method for creativity support
+Author links open the overlay panel. Numbers correspond to the affiliation
+list which can be exposed by using the show more link.
+Lawrence F Young
 
 The difference between a restraining order and physical restraints is one of
 brute force. The restraining order represents the calling forth of power. The
@@ -32,142 +47,186 @@ Empty of content, arrangement
 Formatting in that sense. Deep dive
 into format.
 
-## Metaphor
 
-## Multiplexing
+## Copy
 
-In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank Halstead
-noted that "the practical upper limits of speed will also be limited by the
-ability of some human beings to operate a keyboard, until such time as
-electrical connection be made direct with the receiver's central nervous
-system" [@halstead_genesis_1949, 451].
+This property further had the effect of freeing digital representation from
+its medium. A Rembrandt is bound to its canvas in a way that Shakespeare's
+*Hamlet* is not.  Digital systems are media independent. *Hamlet* can be
+reproduced on paper or stone, in Morse code, or bound in liquid crystal, and
+still be *Hamlet* in some natural understanding of the work. 
 
-The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
-by the American Royal E. House, was a capricious machine that relied on a
-tuning mechanism to transmit individual characters. Inspired by the player
-piano, the Hughes telegraph even looked like a piano, complete with a keyboard
-and a rotating drum, commonly used in music boxes. The sending device struck a
-tone which, when transmitted by electrical current, would initiate the rotation
-of a similar drum in the receiving apparatus "at the pleasure of the distant
-operator," in Hughes's words. The length of time between the initial
-synchronization signal and the struck chord corresponded to a letter, which the
-machine then printed to tape using a letter wheel. Hughes referred to the
-device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
-hints at the fragility of the device. The message became impossible to decipher
-should the sending drum and the receiving drum fall out of sync
-[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
-20-21].
+The division of text into form and content makes a difference in more
+utilitarian ways as well. For example, imagine the challenge of compiling all
+known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
+problem of what edition to use as the "base" for such a project presents itself
+immediately. In the words of Barbara Mowat and Paul Werstine, the editors of
+*Folger Digital Texts*, "readers assume that there is a single text for the
+plays: what Shakespeare wrote. But Shakespeare's plays were not published the
+way modern novels or plays are today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published versions,
+represented by various Quartos (Qq) and by the great collection put together by
+his colleagues in 1623, called the First Folio (F). There are, for example,
+three very different versions of *Hamlet*, two of *King Lear*, *Henry V*,
+*Romeo and Juliet*, and others. Editors choose which version to use as their
+base text, and then amend that text with words, lines or speech prefixes from
+the other versions that, in their judgment, make for a better or more accurate
+text" [@mowat_textual_2012]. In other words, where the readers expect to
+encounter *Hamlet* as a single, unified idea, they instead encounter a
+multiplicity of slightly diverging textual "witnesses." Errors in transcription
+and editorial interventions accumulate. The proliferation of unlicensed copies,
+translations, and imitations further adds to the complexity of the problem.
 
-Emile Baudot was one of the first engineers to notice that the prevailing Morse
-and Hughes telegraph systems failed to make full use of the time allotted for
-message transmission. The Hughes code in particular made extensive use of long
-silences, which could be condensed to extract more utility from the channel.
-Baudot-type multiplexers made use of synchronized rotating mechanisms both of
-the sending and the receiving end, to distribute units of time among multiple
-operators. Figure 6 shows a scheme for a duplex printing telegraph, for
-example. A single rotation of the synchronization device (known as the
-"distributor") was thereby divided into two units of five segments each, each
-corresponding to a distinct channel of communication. Two operators could
-therefore share the same channel to transmit two different messages.
+Editors of classical literature will often solve the problem of diverging
+copies by designating one version as canonical, preserving the formal
+characteristics of the given version down to individual line breaks, as is
+often done with Platonic dialogs. It then becomes possible to collate
+commentaries, connecting each to individual words and passages at their
+canonical location. The problem remains in the abstract: which version to count
+as canonical? The act of deciding on what constitutes an authoritative edition
+can quickly become a contentious issue, particularly when the text in question
+carries religious or political significance.
 
-![Multiple Printing Telegraph, 1905
-[@murray_setting_1905].](images/multiplex.png)
+A whole field of textual criticism exists in the service of negotiating
+"critical" editions which in some way preserve the struggle to reconstruct a
+measure of authority. But what should count for being authoritative? A number
+of logical possibilities find as many ardent adherents. For some, the act of
+deriving the authoritative text lies in reconstructing authorial intent, using
+the author's notes, for example, or from first-hand witness testimony. Others
+place a premium on reconstructing and analyzing the writing process itself, in
+what has been dubbed as "genetic criticism" [@deppman_genetic_2004, 1-36]. Yet
+another approach will compare multiple editions of the same text to derive a
+possible meta-text, preserving all extant variations. Yet others will simply
+rely on their judgment to produce what they believe is a "true" text based on a
+number of personal and eclectic considerations [@bowers_rationale_1950,
+@bowers_shakespeares_1954, @mcgann_radiant_2001]. Such approaches to textual
+criticism have at least this one thing in common: behind the fuzzy profusion of
+textual material they perceive the outlines of a single, unified work. As G.
+Thomas Tanselle (a prominent textual scholar) puts it, "one must be able to
+distinguish the work itself from attempts to reproduce it."[^ln11-tanselle] For
+a textual critic of his kind, all real-word variants and reproductions are
+suspect because possibly corrupt in some way. Despite its careful attention to
+the materiality of the text as artifact, textual criticism in this vein remains
+a classically idealistic pursuit. The work exists as an ideal form in the realm
+of the ideal.
 
-The maintaining of unison became of paramount importance in such multiplexed
-systems. The operators of a time-shared device needed to know when it was their
-turn to type. The Baudot multiplexer made use of a time- or cadence- "tapper"
-mechanism to indicate turns to individual operators, and in some devices,
-locking the keyboard to prevent out-of-turn input. In a quadruplex system up to
-four operators would engage in an intricate dance of fingers, keys, tappers,
-and signals, synchronized by the rotation of the telegraph distributor.
+[ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act of
+reading or listening to receive a message from the past entails the effort to
+discover, through the text (or texts) one is presented with, the work that lies
+behind" [@tanselle_rationale_2010, 13-18.].
 
-Synchronization was also needed for Morse code devices, to distinguish
-non-meaning carrying silence (the receiver is turned off) from the
-meaning-carrying one (the receiver pauses to indicate a dot). The receiving
-device needed a measure (duration) of silence to differentiate between "dots"
-and spaces between words, both indicated by silences of different length. But
-if the devices went out of sync, or if communication lagged for some reason,
-the coherence of the message faltered. Sending and receiving machines had to be
-tuned to a cadence of common information exchange. The system of operators,
-transmitters, and receivers, was, in aggregate, tuned to a specific but
-arbitrary rhythm by which certain messages made sense only in particular (also
-arbitrary) units of time. In early telegraphy, these units of time were slower
-than natural human time, enough so for the operator to remain idle. Later
-systems increased the pace to a rhythm beyond natural human abilities of
-comprehension, to a point where human operators could no longer decipher the
-signal without machine assistance. In the language of wiremen, the bugs were
-"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
+Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
+William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
 
-Several engineering solutions emerged to transcend the limits of human
-information processing. The automated printing telegraph decoupled encoding
-from transmission. It then became possible to prepare messages in advance, in
-volume, and to run the messages through a machine without human assistance. At
-that point, telegraph diverged from the telephone to become a device of
-asynchronous communication, displacing the act of communication in time as it
-did in space. But even with the advent of removable storage media, the
-bandwidth, or the "information density," of the system was limited by the
-number and the size of available cables. Independent developments in
-communication technology led to a range of techniques known as
-"multiplexing"---ways of sharing the same wire to send multiple messages.
-Multiplexing at the time fell into two broad approaches: time-division and
-pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
-Pulse-amplitude modulation involved filling the available space (bandwidth)
-with simultaneous signals of different types: sending multiple signals at
-differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
-modulation was difficult to implement initially. Cross-channel noise and device
-sensitivity hampered reliable reception and decoding across multiple
-simultaneous wave frequencies.
+"To restore an edifice means neither to maintain it, nor to repair it, not to
+rebuild it; it means to reestablish it in a finished state, which may in fact
+never have actually existed at any given time." [@price_historical_1996, 314;
+orig from @viollet-le-duc_foundations_1990, 195]
 
-Although the discovery of binary arithmetic rightly belongs to
-Gottfried Leibniz, who, influenced by hexagrams in the *I Ching*, articulated
-his own system in his *Explication de l'Arithmétique Binaire* (written in 1679
-and published in 1703) [@leibnitz_explication_1703], Bacon should take the
-credit for articulating a system for fixed-length binary encoding. The
-fixed-length property of Bacon's cipher, later implemented in the 5-bit Baudot
-code, signaled the beginning of the modern era of serial communications
-[@jennings_annotated_2004]. Baudot and the related Murray alphabets
-[^ln1-murray] were designed specifically with automation in mind. Both being
-fixed-length alphabets, the Baudot in particular did away with the "end of
-character" that separated letters in Morse. Signals could be divided
-into letters by count (every five codes representing a single character).
-Additionally, the Murray code was more compact than Morse and especially more
-economical than Hughes, which used up to 54 measures of silence to send a
-signal representing double quotes.[^ln1-zero] The signal for "zero" in Morse
-code occupied 22 measures. By contrast, all Baudot and Murray characters were a
-mere five units in length, with the maximum of ten used to switch the receiving
-device into "figure" or "capital letter" states (for the total of ten units)
-[@murray_setting_1905; @beauchamp_history_2001 380-397].
+"It is for all these buildings, threfore, of all times and styles, that we
+plead, and call upon those who hve to deal with them to put Protection in the
+place of Restoration, to stave off decay by daily care, to prop a perilous wall
+or mend a leaky roof by such means as are obvioiusly mant for support or
+convering, and show no pretence of other art, and othrwise to resist all
+tampering with either the favric or ornament of the buildings as it stands; if
+it has become 
 
-![Murray Keyboard Perforator, 1905. Note the QWERTY arrangement of the keys
-[@murray_setting_1905].](images/murray-keyboard.png)
+But whose who make the change wrout in our day under the name of Restoration,
+while professing to bring back a building to the best time of its hisory, have
+no guide but each his own individual whim to point out to them what i s
+admirable and what contemptible; while the very nature o their task compels
+them to destroy something and to supply the gap by imagining what the earlier
+builders should or might have done." Data munging. Irreversible changes.
+@price_historical_1996, 320; orig in "William Morris, "The Principles of the
+Society as Set Forth Upon its Foundation," Builder 35 August 1877.
 
-As the volume of transmissions increased, human operators were simply not fast
-enough to keep up with the demand of encoding and decoding messages into and
-from Morse code. The rise of printing telegraphs answered the demand of
-increased information exchange. The great variety of printing telegraph designs
-at the turn of the twentieth century all attempted to solve the problem of
-automating the encoding and decoding mechanisms of transmission, with the goal
-of speeding up and increasing the volume of possible communication.[^ln-cables]
+Ruskin lamp of memory.
 
-Donald Murray, the entrepreneur and the inventor of the popular Murray
-telegraph, writes: "It is the object of machine telegraphy not only to increase
-the saving of telegraph wire [...] but also to reduce the labor cost of
-translation and writing by the use of suitable machines" [@murray_setting_1905,
-557]. Baudot's and Murray's codes were not only shorter, they were simpler and
-less error-prone, resulting in less complicated and more durable devices. By
-the end of the nineteenth century a number of devices were in use
-internationally, making it possible to decouple the real-time encoding of text
-into code from the operation of the machine. A tape containing the message
-could be prepared in advance, fed into the telegraph, and printed in
-human-legible form on the receiving end.
+"It is impossible, as impossible as to raise the dead, to restore anything that
+has every been great or beautiful in architecture [...] That spirit which is
+given only by the hand and eye of the workman, never can be recalled. Another
+spirit may be given by another time, an it is then a new building; but the
+spirit of the dead workman cannot be summoned up, and commanded to direct other
+hands, and other thoughts. And as for direct and simple copying, it is palpably
+impossible. What copying can there be of surfaces that have been worn half an
+inch down [@staniforth_historical_2013, 2]?"
+
+"But it is said there may come a necessity for restoration! Granted. Look the
+necessity full in the face and understand it on its own terms. It is a
+necessity for destruction. Accept it as such, pull the building down, throw its
+stones into neglected corners, make ballast of them, or mortar, if you will'
+but do it honestly, and do not set up a Lie in its
+place"[@staniforth_historical_2013, 3].
+
+On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
+alter of a Company in the Church of S. Francesco, he painted in fresco the
+Circumcision of Our Lord, which in considered beautiful to a marvel, although
+the Infant, having been injured by damp, was restored by Sodoma and made much
+less beautiful than before. And, in truth, it would be sometimes better to
+leave works half spoilt, when they have been made by men of excellence, rather
+than to have them retouched by inferior masters." 1550 Tim's Vermeer.
+
+picture cleaning as removing as removal of "varnishes and other encrustations,
+by which a paininting may be obscured, but by which it is usulaly also in some
+measur protected from injury." [@bomford_issues_2004, 60] Original in the
+Report from the Select Committee on the National Gallery, London 1853, vi-xi.
+
+Colliveau set about [restoring]this picture with uncommon solenity, because it was his
+own. He began with the most delicate pumice stone, and very soon got into the
+walls of th building, but was astonished to find the apearance of bricks and
+mortar still, although not guite soneat; he soon cleared away the wall on
+discovering a room beyond, and pictures, furniture, &c. most beautiful.
+Gracious powers! how was he agitated; forgetting totally the mischief he was
+commiting, his elbow went like a fiddler's; every thing vanished.---However,
+finding a bed, the curtains of which (a dark green) were drawn close, he went
+to work upon it ver tenderly; presently a pot de chambre came  in sight!---His
+whole souldwas absorbed; his face all one ghastly grin; his legs (like German
+flutes) tottered under him. Not that great philosopher Guffin Ragba, was more
+agitated while cutting the leather from off his bellow, to disover how wind was
+make, than was Monsieru Collifeau while scroring off the bed cloaths; at last
+he found a lady asleep, very beautiful, because very fat, and a Dutch woman.
+Now this part I did not see, and I believe but very few besides himself; but
+alas! hew was soon to be at the end of his discoveries. Having got a glimpse of
+some gilding, he redoubled his efforts, when he found it was an inscription; it
+was in Dutch, and nearly thus, as translated by Mr. Peter La Cave:---"Now
+caitiff, meditate on th havoc though hast made throughout thy lie, and go thang
+thyself. In this picture, wretch! though have destroyed, what to the end of the
+world, can never be replaced." [@bomford_issues_2004, 44-45]. Originally from
+Julio Caesar Ibbetson, An Accidence, or Gamut, of Painting in Oil and water
+Colous . London: Darton and Harvey, 1803, 5-14.
+
+"The sculptor wastes away th rudo block til he has accomplished the desired
+form. not so the painter. he builds up his forms from a blank surface, and
+hides, as he rogresses all the preliminary layers upon which the etxternal
+colours depend for durability and lustre. And hence, not on the meaning and
+spririt of the work must be understood; the restorer must also be familiar with
+he naure of the materials and the manner of their employment.
+[@bomford_issues_2004, 70]. Original from @merritt_dirt_1854, 67-72
 
 
+The wound
+that heals.
+
+Just giving you a taste of restoration vs. preservation. What would
+
+
+[^ln11-counter]: A documentary on counterfeit goods produced by BBC4
+interviews Christophe Zimmerman, Senior Technical Officer at World Customs
+Organization, who deplores the industry's lack of cooperation with law
+enforcement [@bbc4_counterfeiting_2013].
+
+
+## Gerard Genette and Nelson Goodman on the nature of textual copies,
 ## Speculative Formalism (non - representation)
 
 
+In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
+Halstead noted that "the practical upper limits of speed will also be limited
+by the ability of some human beings to operate a keyboard, until such time as
+electrical connection be made direct with the receiver's central nervous
+system" [@halstead_genesis_1949, 451].
 
 Speculative formalism involves imagining structures on the cusp of being. The 
-
 
 The second and more radical idea related to non-representational elements of
 communication lies in the possibility of "direct" brain-to-brain interfaces.
@@ -183,13 +242,13 @@ representation. I want to imagine.
 
 ## Form and Content
 
-A
-treatment of theoretical terms will lead us to the reconstruction of a critical
-moment in the material history of literary technology. As I will argue in this
-chapter, the middle of the twentieth century saw the birth of a new formalism,
-related to, yet categorically distinct from formalism in literary studies. The
-changing conditions of literary production necessitated a thorough reevaluation
-of textual primitives that give rise to letters, words, and pages.
+A treatment of theoretical terms will lead us to the reconstruction of a
+critical moment in the material history of literary technology. As I will
+argue in this chapter, the middle of the twentieth century saw the birth of a
+new formalism, related to, yet categorically distinct from formalism in
+literary studies. The changing conditions of literary production necessitated
+a thorough reevaluation of textual primitives that give rise to letters,
+words, and pages.
 
 I will begin by identifying a feature of formalist thought that has long given
 me pause. The very concept of form, central to literary analysis, contains in
@@ -968,40 +1027,6 @@ of abstract objects."
 Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
-
-
-
-## 3.1 Metaphor Machine
-
-Reading Jean Baudrillard at the end of the century prior, I understood his
-writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Computer, the ultimate metaphor
-machine, mediates experience ubiquitously. It interjects in simple everyday
-acts from drinking coffee in the morning, through brewing and payment systems,
-to going to bed as alarm clock and night activity monitor.
-
-Baudrillard writes:
-
-> At the limit of an always increasing elimination of references and
-> finalities, an ever-increasing loss of resemblances and designations, we
-> find the digital and programmatic sign, whose "value" is purely *tactical*,
-> at the intersection of other signals ("bits" of information/tests) whose
-> structure is that of a micromolecular code of command and control
-> [@baudrillard_selected_1988, 139-140].
-
-Wittgenstein: pretending to read. Pretending to understand. Turing's answer
-the imitation game.
-
-Realizing desktop metaphors on a computer
-20140091134A1
-
-John Carrol on Metaphor and the Cognitive Representation of Computer systems
-
-The metaphor machine: A database method for creativity support
-Author links open the overlay panel. Numbers correspond to the affiliation
-list which can be exposed by using the show more link.
-Lawrence F Young
 
 
 

@@ -1,6 +1,6 @@
 # Chapter 3: Projection
 
-`digital, analog`
+`medium, mode, digital, analog`
 
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared vocabulary that includes

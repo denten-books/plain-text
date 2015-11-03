@@ -1,5 +1,10 @@
 ## Odds and Ends
 
+> Il faut nous laver de la littérature. Nous voulons être hommes avant tout,
+être humains. Il n'y a pas de formes ou de forme. Il n'y a que le
+jaillissement de la vie [@artaud_uvres_1980, 204].
+
+
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
 and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
 text is an "ordered hierarchy of content objects" [@derose]. Goodman and
@@ -8,14 +13,10 @@ Genette.
 [@southall1988] "Visual Structure and the Transmission of Meaning" "Criteria
 for resemblance between documents" 
 
-
 foundational binaries in literary studies, namely: surface and depth, form and
 content, immanence and transcendence, concrete and universal.
 
-
 ## History of Textuality
-
-
 
 ![Universal Turing machine as a device. Reconstructed by Mike Davey, circa
 2012. Displayed in the Collection of Historical Scientific Instruments,
