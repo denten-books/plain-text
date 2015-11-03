@@ -898,6 +898,95 @@ today's librarians of self commonly seek shelter.
 
 ## 4.4 Unix Home (Shelves, Selves)
 
+[^ln5-home]: On many machines the home directory will simply bare the name of
+the logged in user.
+
+The history of the home directory can be traced to the earliest time
+sharing machines in the 1960s. 
+
+The file folder. Directory structure. Also a data structure.
+
+Properties of a file folder. Names and permissions.
+
+Files belong to users and groups. Personal vs. shared computing.
+
+What is the concept of a user in Unix? User is also a file.
+
+- User belongs to groups and owns files.
+- User structure is hierarchical, depending on the three levels of acccess:
+read, write, and execute.
+- Unix has preference for plain text as an interface to the human.
+
+Transparency. Window Systems Should Be Transparent by Rob Pike
+
+You don't have to buy this picture. The importance of this intellectual history
+ais that human-computer interaction as a field has its roots there. People who
+design software view their work as cognitive extension.
+
+/home : User home directories (optional) Purpose
+
+/home is a fairly standard concept, but it is clearly a site-specific
+filesystem. [9] The setup will differ from host to host. Therefore, no program
+should rely on this location. [10] Requirements
+
+User specific configuration files for applications are stored in the user's
+home directory in a file that starts with the '.' character (a "dot file"). If
+an application needs to create more than one dot file then they should be
+placed in a subdirectory with a name starting with a '.' character, (a "dot
+directory"). In this case the configuration files should not start with the '.'
+character. [11]
+
+All contemporary operating
+systems (from Androids, to Mac OS, Linux, and Windows) commonly archive all
+user-related files in the `home` directory.[^ln5-home] These include all media:
+text, documents, music, video, and images along with program-specific settings,
+browser history, themes, passwords, 
+
+We now reach the final and most speculative chapter of the book. Here, I can no
+longer rely on strictly historical examples to make my case. So far, I have
+shown that a notion of plain text is, in some real sense, engineered into the
+fabric of modern computing. I have argued that our daily encounter with the
+text, mediated by the screen and the keyboard, cannot and should not be
+understood in mere instrumental terms. The technological system that envelops
+the creation and the transmission of thought is more than an instrument or a
+market. It constitutes a part of our cognitive apparatus. What are the values
+that guide the development. Transparency, parity, room for dissent.
+
+I think the author misses the point. As far as I see it, Unix tools are
+optimized for one thing: the human user. If `ls` is bloated, it is only bloated
+from the system point of view. As a user, I only see a small command that is
+quick and consistent (to a reasonable extent) with other tools. I don't need to
+know about 39 flags--that complexity is hidden for power users, and revealed
+with time, as I need to accomplish more complex tasks. For now, I only use and
+"see" two or three. And if more is needed, the program is small enough to be
+reasonably well documented. `man ls` perhaps with `grep` is all most people
+need.
+
+This brings me to the second point. "Streams of  text." Just like `ls`, streams
+of text are an optimal format/convention for humans. Many other things are
+better at being more compact or more efficient etc. But as formats and
+conventions proliferate, streams of plain text remain: readable and universal.
+Humans will ALWAYS be able to work with text. It is something that all humans
+kind of agreed upon--which cannot be said for any other formats or standards,
+which can offer various technical benefits at the expense of longevity,
+universality, and readability.
+
+These two features (`ls` being relatively light and text streamy) leads to the
+"bootstrapping" effects sought after by the first generation of Unix
+developers. Learning about pipes and filters in one part of the system is
+applicable to all others. These tools scale with your level of expertise. They
+grow with you because despite the small quirks, there's a remarkable
+consistency of interface: text! Consequently `ls` (along with many other core
+tools) is implemented in the same way across a staggering variety of platforms.
+It has survived decades of alternatives touted as "better," "faster," "more
+usable," etc. etc. etc. That is the remarkable achievement of *nix / GNU etc.
+approach to creating human-centric software. As we architect new and ever more
+complex systems, we would do well to understand why Unix has endured, warts and
+all.
+
+Plain text is a file format optimized for a human mind. It keeps the
+system available to view.
+
 [^ln5-recursive]: See also @breuer_paradox_1993, 559-580.
 
 [^ln5-boring]: I suspect both would make for far more boring plays than the
@@ -995,3 +1084,9 @@ Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
 for Information Science. Washington, 1972, pp. 159-196.
 
 End with Flusser. Home. Heimat. Umwelt.
+
+## 5.3 Plain Text in Unix
+
+Plain text privileges a certain tics of humanity.
+
+

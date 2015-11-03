@@ -1341,6 +1341,13 @@ mechanical configuration of the device. The first type of code holds
 "transmitting intelligence" in a sense of externalizing machine states and
 "interpreting" in the sense of mechanical reconfiguration of internal parts.
 
+When viewed in the context of book history, the universal Turing machine
+signifies a consummation of several broad, long-term trends that begin with the
+invention of writing itself.  The material history of literary
+computing begins with petrified words that endure forever, and ends with word
+as an electrical charge: animated, radiant, fluid, and iridescent
+[@mcgann_radiant_2001; @bryant_fluid_2002].
+
 To rediscover the book in the guise of a computational literary artifact means
 coming to terms with it as a robot---a device for remote machine control. It
 entails seeing through to the simulated nature of the electronic text.

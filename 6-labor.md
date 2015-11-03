@@ -1,200 +1,42 @@
 # Chapter 6: Labor
-# Chapter 7: Literature Down to the Pixel
 
+## 2.5 Marx upside down
 
-## What Is It Like to Be a Telegraph
+It is this last and still current moment of historical development that is
+least theorized. A dominant tradition in the history of the human sciences
+follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
+Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
+of ideology, discourse, and representation. Where for Althusser "every science
+is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
+human sciences on the level of "positive unconscious," revealing unspoken
+"rules" that govern the formation of "theories, concepts, and objects of study"
+on the level of "scientific representation" [@foucault_order_1994, xi].
 
-I am tempted to believe, like others have before me, that I am on my way to
-enacting something like "machine phenomenology" or "systems phenomenology" in a
-system which encompasses people, texts, techniques, and technologies. In such
-cases, astute readers often reach for Jakob von Uexküll's *A Foray into the
-Worlds of Animals and Humans*, to borrow from his notion of perceptual worlds
-(umwelten).[^ln3-umwelten] In his forays, Uexküll imagines a multitude of alien
-ways of seeing the world, from that of a sea urchin to those of a pea weevil
-and the ichneumon wasp. For Uexküll, the task of the biologist is not to
-encounter such living things as unfamiliar "machines" in the human world, but,
-rather, to occupy the alien life form as another subject. The tick should not
-be looked at as yet another machine, Uexküll writes, but as an "operator"
-[@uexkull_foray_2010, 44-53]. Consequent to this point of view is Uexküll's
-insistence on the subjectivity of perceptual experience. The tick carries with
-it its own sense of time and space, which the biologist recovers through the
-description of its perceptual apparatus (What can this organism perceive?) and
-therefore by reconstructing its projected world view (What does a stimulus mean
-for this organism?). In this way, the subject establishes what Uexküll calls a
-"circuit of meaning." The canopy of an oak tree, for example, acts in unison
-with material properties of rain to capture and distribute liquid down to the
-roots of the tree. Capturing and distributing liquid to the roots constitutes,
-in that sense, the "meaning" of the oak--rain circuit. It is a peculiar notion
-of "meaning" to be sure, but for Uexküll it is enough to maintain that meaning
-arises out of the subject's interaction with its environment. The subject and
-object are brought into what Uexküll calls harmony:
+There are a number of theoretical niceties here (that the reader may skip, if
+not interested in the history of Marxist thought). For example, the concept of
+ideology, in the orthodox Marxist schema of things, exists as a "political
+superstructure [...] to which correspond definite forms of social
+consciousness." In the Marxist model, ideology floats *above* the material
+base---the dominant mode of production---that "determines the general character
+of the social, political and spiritual processes of life"
+[@marx_contribution_1904, 11]. Althusser's influential contribution to this
+world view was to insist that ideology, although secondary to the mode of
+production, nevertheless assures its continual reproduction as a means of
+continuing subjugation and political control. Simply put, for Althusser, the
+ideological apparatus of the modern capitalist state ends up being "installed
+in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
+similar (although not equivalent) rhetorical move, Foucault envisions that
+beneath the "epistemological level" of human activity there exists an
+"archaeological layer," where representation "governs the mode of being of
+language, individuals, nature, and need itself" [@foucault_order_1994, 209].
+Ideology and representation, once determined, now determine. The rhetorical
+jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
+short history of the universal Turing machine runs counter to this top-heavy
+tradition of reading Marx in the inverse. As a device, the Turing machine fuses
+control and communication. Control is meant here bluntly, as physical circuit
+control, at the level of the mechanism and not at the attenuated level of
+ideology or representation.
 
-> If the flower were not bee-like
-> If the bee were not flower-like
-> The harmony would never succeed [@uexkull_foray_2010, 198].
-
-Similarly, the pea and the pea weevil achieve harmony through "meaning
-transfer" between the pea and the weevil larvae, which allows the larvae to
-prepare an escape hatch through vegetative matter in advance of its pupation
-[@uexkull_foray_2010, 161].
-
-[^ln3-umwelten]: See for example @agamben_open_2003, 39-49; @hayles_print_2004,
-16-17.
-
-The literature of post-humanism privileges these moments of alien subjectivity
-because they destabilize an anthropocentric view of the world. What gets lost
-in the shifting of perspectives is the apparent contradiction at the very core
-of what the writer Dorion Sagan (rightly) calls "Gaia sciences"
-[@uexkull_foray_2010, 12], the idea ascendant in diverse fields from literary
-studies to information theory and free-market economics, relegating meaning
-creation from the level of the subject to the level of complex system.
-Paradoxically, because Uexküll's model of communication makes meaning available
-only at the system level ("oak plus rain" or "bee plus flower"), it is never
-available to the subject itself (bees or flowers). The quest for alien
-semiotics leads only to, in Uexküll's own words, "mute interaction"
-[@uexkull_foray_2010, 148], meaningful only from some vantage point outside of
-the system. The forest always "understands" more than the tree, the planet more
-than the forest, and so on, in a regression that can only conclude with
-whole-universe monism: the One.
-
-In his essay on the subjective experience of bats, Thomas Nagel concludes that
-there must be something about the experience of a bat *for* a bat
-[@nagel_what_1974, 439] that is not fully accessible to human description. The
-attempt to describe things in-themselves for-themselves, in that light, seems
-like yet further human hubris. Accepting the meta-human "systems" view of
-meaning formation would mean also to acknowledge the limits of the human to
-comment on the proceedings---lest the organ speak for the organism. And to
-encounter the bat (a dog, a tree, a machine) from the perspective of the human
-is to respect and to retain a measure of the other's ineffable alienness. There
-is a quiet humanism in Nagel's suggestion that we should confine our remarks to
-objective phenomenology, not dependent on the self-deceiving acts of the
-imagination [@nagel_what_1974, 449]. After all, one can never truly become a
-bat or a tick.  We can only imagine what it is like to be a bat *for* a human.
-"Certainly it appears unlikely," Nagel writes, "that we will get closer to the
-real nature of human experience by leaving behind the particularity of our
-human point of view and striving for a description in terms accessible to
-beings that could not imagine what it was like to be us" [@nagel_what_1974,
-444]. Nagel suggests: "Though presumably it would not capture
-everything, its goal would be to describe, at least in part, the subjective
-character of experiences in a form comprehensible to beings incapable of having
-those experiences" [@nagel_what_1974, 449].
-
-I do not know what a truly objective phenomenology would look like, but I would
-like to think that it would lie, at least in part, in the underlying material
-conditions of perceptual media. I am able to advance an equitable description
-of the system from the only perspective available to me. These blueprints and
-diagrams are all we have to understand the ways in which the system affects its
-constituents. Paying attention to the details of the schematics is the only way
-to "dig" ourselves into something like an alien phenomenology. As the
-humanities move in search of the digital, I find that they need to regain a
-sense of the human. No perspective is available otherwise from which to enact
-analysis or critique. Once recovered, that Archimedean point of leverage can
-serve as a starting point for the work of de-naturalizing comfortable (if
-calcified) notions of the digital. It is in this de-familiarization (in a sense
-used by Viktor Shklovsky and Svetlana Boym) of the human that I see Uexküll's
-contribution to the study of media phenomenology. The human disappears from
-view not by some inevitable property of technological progress, but through
-automation of experience. In refracting ourselves through the gaze of the
-technological other we see the human world anew.
-
-From this perspective, electricity---the "language" of wires---is not a media
-format intended for human consumption. One could learn to understand telegraph
-intercourse through electrocution, by applying the wire directly to the skin.
-Direct brain--computer interfaces promise to do more or less exactly that and
-are common enough today to be turned into a toy.[^ln3-mindflex] The early
-efforts in this space implanted electrodes into the brain directly to capture
-single-neuron activity, or relied on imprecise "noisy" electroencephalographic
-(EEG) scalp activity. In 2004 a team of scientists developed a way of
-controlling "a one-dimensional computer cursor rapidly and accurately" using
-electrocorticographic (ECoG) activity recorded from the surface of the brain
-[@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
-quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
-simulation developed by the University of Pittsburgh's Human Engineering
-Research Laboratories in collaboration with the Defense Advanced Research
-Projects Agency (DARPA) [@collinger_collaborative_2014; @prabhakar_how_2015].
-Advances in brain--computer interfaces suggest also the not-all-too-distant
-possibility of computer--brain interfaces (in a reversal of the direction),
-completing the loop between human and machine. This may also imply the
-possibility of communicating brain-states directly, without the mediation of
-text or sound. However futuristic that possibility may seem to us today, it is
-merely a small evolutionary step in a long history of brain-to-brain
-interfaces, already mediated by paper, ink, code, and silicon. The digital
-world of paper and ink holds no less magic.
-
-I return, then, to the subject of time, found throughout in the background of
-this chapter. The popular imagination of digital machines belies a deep sense
-of anxiety about the rhythm of the system as a whole, in which humans play only
-a small part (as bug operators, users, or receivers). Telegraphs and
-subsequently computers force an atomization of experience into discrete bits,
-along with the opposite movement toward continuity fluid and rapid enough as to
-move beyond the boundaries of human perception. Attention to the material
-conditions of removable storage media reveals a delicate negotiation of
-synchronicity between human and machine time, in a complex chain of encoding
-and re-mediation that connects differing and incongruent perceptual apparatus.
-Under these conditions, it would be a mistake to conflate digital and discrete,
-just as it would be a mistake to reduce the human to the continuous.[^ln3-cont]
-Homeostasis is found at some arbitrary point, contingently connected to human
-biology and to current technological capability. The question of "What
-constitutes a moment?" when watching television or reading a book, can become
-then, "What *should* constitute a moment?" For the tick lying in wait for its
-next warm meal, a moment can last for decades (Uexküll reports up to 18
-years). "Time, which frames all events," Uexküll writes, "seemed to us to be
-the only objectively consistent factor […], but now we see that the subject
-controls the time of its environment" [@uexkull_foray_2010, 52]. The
-computational environment before us constitutes the grounds for all
-higher-level textual activity, from record keeping to poetry and software
-development. From the textual grounds of human--machine interaction it then
-becomes possible to derive poetics, in the sense of a study and an art of
-creating one's own time: taking control of prosody, rhythm, meter, and cadence.
-
-[^ln3-ndc]: Also known as the "single current" or "single Morse" system.
-
-[^ln3-murray]: The Australian Donald Murray improved on the Baudot system to
-minimize the amount of "designed to punch as few holes as possible," allotting
-fewer perforations to common English letters (@murray_setting_1905, 567).
-
-[^ln3-zero]: Twenty-eight measures to indicate the numerical "figure space" and
-26 to indicate double quotes (which shared the encoding length with the letter
-"z").
-
-[^ln3-current]: ITA-2 could also be adopted to work with "double current"
-devices, in which case 0 would represent "negative current" and 1 "positive
-current" [@itu_telegraph_1932, 36].
-
-[^ln3-kittler]: This along with the ominous "laying of cables" that concludes
-Friedrich Kittler's *Gramophone, Film, Typewriter*.
-
-[^ln3-multi]: Technical literature makes a distinction between space- and
-frequency- division multiplexing. On some level, space-division multiplexing
-simply involves the splitting of a signal into multiple physical channels
-(wires). Frequency-division better "fills" the space of a single channel.
-
-[^ln3-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
-digital device sending only high and low pulses through the wire;"
-@jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
-dashes in a manner similar to the ones and zeroes of digital logic;"
-@comer_internet_2006, 32: "The telegraph is a digital device because instead of
-sending a continuous signal that is an exact analog of the input, the telegraph
-clicks to send the individual characters."
-
-[^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
-The Frequently Asked Questions page includes the following prompt: "Have you
-ever dreamed of moving an object with the power of your mind? Mindflex Duel™
-makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
-wireless headset reads your brainwave activity. Concentrate...and the ball
-rises on a cushion of air! Relax...and the ball descends. It's literally mind
-over matter!" (@mindflex_mindflex:_2015)
-
-[^ln3-cont]: Gregory Hickok, a prominent cognitive scientists working out of
-University of California, Irvine writes: "The brain samples the world in
-rhythmic pulses, perhaps even discrete time chunks, much like the individual
-frames of a movie. From the brain's perspective, experience is not continuous
-but quantized [...] This is not to say that the brain dances to its own beat,
-dragging perception along for the ride. In fact, it seems to work the other way
-around: Rhythms in the environment, such as those in music or speech, can draw
-neural oscillations into their tempo, effectively synchronizing the brain's
-rhythms with those of the world around us" [@hickok_its_2015]. His study on the
-topic is forthcoming in *Psychological Science* in 2015.
 
 John Eberhard from the Institute of Applied Technology, National Bureau of
 Standards speaking in 1967 at the Electronic Composition in Printing symposium
@@ -219,63 +61,6 @@ measuring system" [2].
 Heidegger would be good here.
 
 Media
-
-[^ln3-siegert]: Siegert takes the Virag as an "apocryphal emblem" of a
-"systematic logic in the dominant cultural technique," representative of the
-"order of digital signals" [@siegert_cacography_2011, 41]. Although not
-concerned with the history or philosophy of digital media explicitly, Siegert
-suggests that the writing telegraph symbolizes the cleansing of "the noise of
-all graphic form." His theory of cultural techniques instead creates "an
-awareness for the plenitude of a world of as yet undistinguished things, that,
-as an inexhaustible reservoir of possibilities, remain the basic point of
-reference for every type of culture" [@siegert_cacography_2011, 35].
-
-[^ln3-virag]: The Pollak-Virag device also proposed an "electromagnetic
-vibrator" coupled to a recording "mirror-galvanometer." The authors further
-specify for "the vibrator on the receiving instrument [to] vibrate in harmony
-with these impulses, vibrating in one direction or the other, according to
-their sign and to an extent depending on their intensity" [@pollak_means_1900].
-
-[^ln3-dervish]: One could make more of the Dervish being used here as a
-negative example, in an instance of colonial gaze. But Murray himself was an
-empire outsider, born in the small, remote town of Invercargill, New Zealand (a
-town that also happens to be one of the southern-most cities in world). "I am a
-child of the Southern Cross," he writes in *Philosophy of Power*, "and I have
-no preordained respect for geniuses born under the Northern constellations" [@murray_philosophy_1939, 51].
-
-[^ln3-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
-those who assert the materiality of the soul, affirming it to be homogeneous,
-and continuous with the body; whereas it is heterogeneous, and discrete" (24).
-Swedenborg gives the neoplatonic, monistic articulation of the matter to the
-angels, in the "Angelic Idea of Creation," writing "The question was asked,
-'Whence, then, is hell?' They said, 'From man's freedom, without which a man
-would not be a man,' because man, from that freedom, broke the continuity in
-himself; and this being broken, separation took place; and the continuity,
-which was in him from creation, became like a chain, or a piece of linked
-work, which falls to pieces when the hooks above are broken or torn out, and
-then hangs down from small threads. Separation or rupture was brought about,
-and is brought about, by the denial of God" [@swedenborg_apocalypse_1901, 290].
-
-[^ln3-golumbia]: See @golumbia_cultural_2009: "Following a line of criticism
-that extends at least as farm back as Kant [...] (loc. 63)." Paraphrasing
-@deleuze_postscript_1992, Golumbia writes "To submit a phenomenon to
-computation is to striate otherwise-smooth details, among details, to push
-upwards towards the sovereign, to make only high-level control available to
-the user and then only those aspects of control that are deemed appropriate to
-the sovereign (loc. 159)." To get to the bottom of the contemporary unease
-with digitization, we will first examine some of the material contexts that
-support the propagation of digital media. We will then look at a few formal,
-theoretical attempts to describe the particularity of digital representation.
-Finally, we will have the chance to examine the specifics by which digital
-media necessitates a change in the "mode" of specifically digital
-apprehension.
-
-[^ln3-digital]: For a summary of digital physics and metaphysics see
-@steinhart_digital_1998 and @floridi_against_2009.
-
-[^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
-multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
-@deleuze_bergsonism_1990.
 
 ## Microanalysis
 
@@ -747,18 +532,6 @@ reason through Kittler's computational conundrum. On towards Marx then (who
 will appear much later), through the machine that, although intimately familiar
 to every writer and consumer of text by touch, remains alien and alienating in
 its hidden possibilities, soothing and threatening all at once.  
-
-
-When viewed in the context of book history, the universal Turing machine
-signifies a consummation of several broad, long-term trends that begin with the
-invention of writing itself.  The material history of literary
-computing begins with petrified words that endure forever, and ends with word
-as an electrical charge: animated, radiant, fluid, and iridescent
-[@mcgann_radiant_2001; @bryant_fluid_2002].
-Device. Splits All type is moveable type. At the same tim
-
-which "sees" pages
-as monolithic images. 
 
 We often think of literary works as completed products. *To the Lighthouse,*
 *Hamlet,* *Moby Dick* seem to circulate as complete, fixed entities. Textual
@@ -1515,44 +1288,6 @@ the rigidity in cultural categories (epistemology).
 
 
 
-## 2.5 Marx upside down
-
-It is this last and still current moment of historical development that is
-least theorized. A dominant tradition in the history of the human sciences
-follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
-Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
-of ideology, discourse, and representation. Where for Althusser "every science
-is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
-human sciences on the level of "positive unconscious," revealing unspoken
-"rules" that govern the formation of "theories, concepts, and objects of study"
-on the level of "scientific representation" [@foucault_order_1994, xi].
-
-There are a number of theoretical niceties here (that the reader may skip, if
-not interested in the history of Marxist thought). For example, the concept of
-ideology, in the orthodox Marxist schema of things, exists as a "political
-superstructure [...] to which correspond definite forms of social
-consciousness." In the Marxist model, ideology floats *above* the material
-base---the dominant mode of production---that "determines the general character
-of the social, political and spiritual processes of life"
-[@marx_contribution_1904, 11]. Althusser's influential contribution to this
-world view was to insist that ideology, although secondary to the mode of
-production, nevertheless assures its continual reproduction as a means of
-continuing subjugation and political control. Simply put, for Althusser, the
-ideological apparatus of the modern capitalist state ends up being "installed
-in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
-similar (although not equivalent) rhetorical move, Foucault envisions that
-beneath the "epistemological level" of human activity there exists an
-"archaeological layer," where representation "governs the mode of being of
-language, individuals, nature, and need itself" [@foucault_order_1994, 209].
-Ideology and representation, once determined, now determine. The rhetorical
-jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
-short history of the universal Turing machine runs counter to this top-heavy
-tradition of reading Marx in the inverse. As a device, the Turing machine fuses
-control and communication. Control is meant here bluntly, as physical circuit
-control, at the level of the mechanism and not at the attenuated level of
-ideology or representation.
-
-
 ## Labor, Energy
 
 Literature hides the labor of readers and writers. In another sense, there is
@@ -1684,471 +1419,7 @@ dostorted by Commentators and beclouded by Illustrators" (p64)
 
 Signal Book, United States Army: 1916
 
-## 5.3 Smart Contracts (A Legal Interlude)
-
-Legal fictions rise to veil the emerging affordances of
-textual technology.
-
-Exposing the Document Object Model that governs the production of text through
-contemporary reading and writing devices gives the question of surface and
-depth yet another connotation. What lies beneath the text? We are accustomed to
-thinking about document structure metaphorically and answer in accord: meaning,
-narrative, representation, order, discourse, or ideology. Interpretation, at
-that level of analysis, happens in the head, which physically limits the
-possibility of depth to personal introspection, magnetic resonance imaging, or,
-at best, to an archive of extant reader responses (which in themselves need
-further interpretation).
-
-Introducing the literary device as machine, gadget, or appliance into the
-formula suggests another, more literal answer. Beneath a text one finds cloth
-and wood pulp and, increasingly, also glass, plastic, liquid crystal, copper,
-laminates, and silicone.
-
-The move between paper and composite device carries with it a profound shift in
-the physical affordances of the deep structure supporting all subsequent,
-higher-order, surface-level representations of textuality. Not much space
-separates ink from paper. There, textuality lies flat, in two dimensions. What
-you see is truly what you get. Not so on the screen connected to other screens.
-Networked and time-shared textuality extends into the third dimension, away
-from the reader and deep into the bowels of the machine. The Open Systems
-Interconnection (OSI) reference model of communication[^ln3-osi] describes no
-less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
-electrical, functional, and procedural characteristics" of communication
-[@ncs_open_1981; @ncs_national_1988; @day_revised_1995].[^ln3-layers] These
-protocols further envelop a document already thickly stratified by the
-Document Object Model.[^ln3-domlayer]
-
-[^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
-model.
-
-![A zoomed out view of the connected OSI model. Single node structure on the
-left. Connected devices on the right. The user has access through the top-most
-(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
-114-15].](images/osi.png)
-
-These are the same layers that Alexander Galloway unites in a system of what he
-calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
-It is distributed to be sure, although to what extent decentralized is a matter
-of some debate. Like a good soldier, each device in the pictured network
-internalizes dozens if not hundreds of protocols that enable the system to
-function seamlessly as a whole (in the way, for example, that your machine can
-at one moment connect to one wireless access point, and at another moment to
-another, with minimal loss of connectivity). Yet, OSI protocols and the DOM are
-also densely consolidated. They are, for example, legislated by specific
-international governing bodies[^ln3-w3c], susceptible to the usual political
-pitfalls of pan-global consortia.
-
-Once bifurcated between storage and screen, the inscription travels along a
-"pipeline" of protocols, undergoing a set of arbitrary transformations
-throughout. On one device, that pipeline may extend just a few inches,
-connecting disk storage and output display. On a network device that pipeline
-can stretch across continents, spanning widely divergent regions of legal and
-administrative control. The book you are reading here may be stored in another
-state or country. Whatever the case may be, the subject encounters the
-"protocol stack" from without, on the periphery of the onion-like network. When
-paging through an electronic book (usually an OSI-compliant device displaying
-DOM-structured files), for example, the reader has access only to the outputs
-emanating from the application layer, and, at that, only at the exposed
-"window" level of the DOM. The perceived "content" constitutes a small fraction
-of the underlying "formal" topology. What you see is far less than what you
-get.
-
-[^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
-the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
-Web Consortium (W3C) in the case of the DOM.
-
-The application layer stops at the subject. Access to the layers intrinsic to
-device operation (and consequently to analysis) are sometimes "merely" obscured
-and sometimes made illicit outright, as is arguably the case with U.S. Code,
-Title 17, Chapter 12, Â§1201, titled "Circumvention of copyright protection
-systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
-1998. A literary scholar may be familiar with some provisions of American
-copyright law governing text as surface representation: US Code, Title 17
-extends "exclusive rights" to "copyright owners" of "literary works." The
-rights include the ability to "reproduce," "to prepare derivative works," "to
-distribute copies," and "to perform and to display publicly" (17.1.106).
-Surface representation is further subject to professional rules of conduct,
-embodied in practices of quotation, citation, and attribution (or lack thereof,
-as plagiarism).
-
-In practice, the easy reproducibility of digital text (and image) has served to
-erode the efficacy of copyright restrictions as a system of laws and
-regulations. The work of art in the age of digital reproduction has lost much
-of its already tenuous hold on the material substratum.[^ln3-illusion] Copy
-technologies from photocopiers, to desktop printers, to cheap magnetic storage
-and peer-to-peer file sharing networks reduce the price of copying and
-dissemination to near frictionless levels. The response from the film, game,
-music, and publishing industries has been to transpose mechanisms of copyright
-enforcement from legal down to the infrastructural levels of enforcement, as
-software and hardware: from Code to code. In the words of Charles Clark, the
-late British publisher and prominent copyright attorney, "the answer to the
-machine is in the machine [@clark_copyright_1996, 81-82]"---by which he meant
-that copyright enforcement should be taken up on the device level by the
-International Standards Organization, the very body responsible for the DOM and
-the OSI communication protocol stack [@clark_copyright_1996, 84].
-
-As an example of how that might work, Clark cites the Copyright in Transmitted
-Electronic Data Report (CITED), which suggests building "a tamper proof
-software module which acts rather like indestructible tachometers installed on
-long-distance coaches and lorries, recording everything that happens to the
-copyrighted or commercially valuable material [...] The basic idea is to link
-the 'valuable material' of intellectual property to a specific piece of
-software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84].
-
-The emergence of embedded contractual enforcement at the level of the device
-can be subsumed under the broader idea of "smart contracts." In his seminal
-article on "Formalizing and Securing Relationships in Public Networks," Nick
-Szabo explains that "smart contracts combine protocols, user interfaces, and
-promises expressed via those interfaces to formalize and secure relationships
-over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo were
-instrumental in the rise of smart contracts in the 1990s in an attempt to
-redress the fading efficacy of legal copyright protections.[^ln3-smart] "Method
-and System for Managing a Data Object so as to Comply with Predetermined
-Conditions for Usage" (US5845281, issued in 1998) can be instructive in this
-regard. Greg Benson and Gregory H. Urich, both of Sweden, write:
-
-> The data object owner may want to have permanent secure control over how,
-when, where, and by whom his property is used. Furthermore, he may want to
-define different rules of engagement for different types of users and different
-type of security depending on the value of particular objects. The rules
-defined by him shall govern the automated operations enabled by data services
-and networking. The owner may also sell composite objects with different rules
-governing each constituent objects. Thus, it is necessary to be able to
-implement variable and extensible control.
-
-The data object, in this case, stands for any media content, from books to
-music, video, and software. Rather then legislating rules for copying and
-distributing media, the inventors suggest that the medium itself should contain
-a control layer that would "comply with predetermined conditions of usage," in
-a way that can be "universally adapted to the needs of both the owner and the
-user of the data object" [@benson_method_1998, 2:55].
-
-!["Concatenated control data and AVI file in memory"
-[@benson_method_1998].](images/avi-control.png)
-
-!["Concatenated and encrypted control data and AVI file in memory"
-[@benson_method_1998].](images/avi-control2.png)
-
-The associated schematics (pictured here) show data and control codes
-"concatenated" into the same underlying data structure (in this case, AVI media
-container format). The seemingly innocuous "text control" layer of the 1960s,
-used to specify formatting and visual style, was now extended to carry
-mechanisms for legal control, tied to specific legislation.
-
-The idea of smart contracts contains a notable artifact of implementation,
-relevant to our discussion on surface reading. To the extent that control codes
-are legible to the interpreter, they are also open to "abuse and
-circumvention." For this reason, encryption plays a key part in the smart
-contracts system. Once intertwined, data and control must be encrypted to
-prevent "unauthorized access." This brings us to the glaring problem at the
-very heart of smart contract implementation. The spirit of contractual law by
-its very nature demands *explicit* consent. In the language of English common
-law, contracts involve promises as "manifestation of intention," which "adopt
-an external or objective standard for interpreting conduct
-[@american_law_institute_restatement_1973, Â§1-2.]" The key words in this
-passage are "external," "objective," and "interpretation."
-
-By contrast, smart contracts, as described in the patent archive, must rely on
-encrypted---that is, not human-legible---forms of tacit compliance: neither
-external, objective, nor available for interpretation. The idea of encrypted
-consent stands in stark opposition to a tradition of contract law that relies
-on models of consent that involve expressed, mutual, explicit, and uncoerced
-forms of acquiescence. Even if smart contracts were to be accompanied by
-legible documentation (as Terms of Service, for example), the device user would
-be compelled to blindly trust in the correspondence between the expressed
-letter and the implicit mechanism of the document---the implementation still
-enacted beyond scrutiny, as hidden, encrypted, and purposefully illegible
-script.
-
-Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
-person shall circumvent a technological measure that effectively controls
-access to a work protected under this title (17.1201.a.1.A)." The letter of the
-law further specifies that to "circumvent a technological measure," in this
-case, means "to descramble a scrambled work, to decrypt an encrypted work, or
-otherwise to avoid, bypass, remove, deactivate, or impair a technological
-measure, without the authority of the copyright owner (17.1201.a.3.A)." A
-technological measure that "effectively controls access" is further defined as
-a measure that "in the ordinary course of its operation, requires the
-application of information, or a process or a treatment, with the authority of
-the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
-literary scholar, that means that, when encountering a text on a digital
-device, reading sometimes *must* limit itself to surface phenomena. An attempt
-at reading for depth---to discover the implemented terms of a smart contract,
-for example---may carry with it a set of official (even criminal)
-sanctions.[^ln3-fairuse]
-
-The short history of DMCA "anti-circumvention" provisions is already littered
-with ambiguous case law, that the Electronic Frontiers Foundation believes to
-have the effect of "stifling a wide range of legitimate activities," "chilling
-free expression and academic research," "jeopardizing fair use," and "impeding
-innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
-particularly relevant to the study of texts and literature. One, a security
-researcher exploring the activity of censorship filters on public library
-computers was threatened and forced to seek DMCA exemption from the Librarian
-of Congress [@fry_circumventing_2009]. Two, a Russian programmer speaking at a
-security conference was jailed and detained for several months for developing
-software that converts Adobe electronic book files into `.pdf` format, in a
-process that could potentially remove embedded digital rights management
-protections [@ferullo_major_2004; @mueller_reinventing_2004;
-@postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
-Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
-which allowed users to "change text annotations using Plaintiff's TrueType
-fonts" without a license [@_agfa_2005; @lipton_c_2009;
-@von_lohmann_unintended_2010]. If they become precedent, any of these cases
-could conceivably
-be used to physically limit the efficacy of reading, close and distant.
-
-[^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
-which may, under some interpretations, sanction limited use for academic
-purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
-@armstrong_digital_2006.
-
-The impact of DMCA and smart contracts on the practices of reading, writing,
-and
-literary analysis is potentially immense. In the language of the DMCA, the
-electronic book is not a book at all, but a "data object," in which the modest
-copyright symbol gives way to "control layers [@fischer_digital_2003]." An
-essay in the *Yale Journal of Law & Technology* explains it this way:
-
-> While e-books and their print counterparts embody essentially identical
-> content, from a transactional standpoint they differ considerably. Books are
-> tangible goods that can be owned, sold, and passed on without express
-> limitation--the Uniform Commercial Code (U.C.C.) governs their sale, while
-> copyright law protects their content. But despite appearances, Kindle e-books
-> are not, according to Amazon, sold at all: they are distributed under
-> restrictive license terms, similar to downloaded software
-[@seringhaus_e-book_2010, 150].
-
-In these conditions, something like a poem or a novel must relinquish its claim
-on the universal concrete. In doing that, it ceases to be literature and
-becomes instead a device, firmly tied to its given physical affordances.
-Reified as a concrete object, no longer lasting and universal, but rather
-ephemeral and contingent, it is subject to the whims of the market. The device
-now gains the ability to dynamically adapt itself "to the needs of both the
-owner and the user." These adaptations could of course take a benign form, of
-the kind suggested in "*Remix: Literatur*," where Michel Chaouli imagines a
-device akin to a "literature equalizer," empowering readers to "tune" any given
-text to their liking [@chaouli_remix_2009]. Don't really like intensifiers?
-Just turn the "adverb knob" down! I hold on to the possibility of building such
-a device with Chaouli. In the meantime, existing electronic book software and
-hardware devices adapt themselves to the reader in less creative ways. Some
-prevent simple copy and paste actions. Others can be used to censor and
-surveil. For a textual critic, such instability of medium means analysis cannot
-be confined to reading for surface meaning alone. How can close or distant
-reading practices persist, when the reading device reconfigures a text
-dynamically, to fit individual taste, mood, or politics?[^ln3-modern] Or, when
-it simply prevents access to some of the content?
-
-[^ln3-modern]: Note that these effects are not limited to contemporary
-literature at all. In purchasing a medieval text, the reader still buys not a
-text or a work but a device, which, despite the content being out of copyright
-protection, may still restrict access to other, protected layers of device
-function.
-
-Smart contracts and DMCA are a conspicuous symptom ailing all text gadgets,
-which offer only the illusion of flat textuality. Where a literary scholar
-could hope to gleam the machinations of ideology from surface representation in
-print, the literary device obscures literal flows of governance. Isomorphic
-application design makes the situation worse in giving a measure of similarity
-between page and screen (the definition of isomorphism), obscuring material
-divergence beneath. The condition is not one of ephemeral, immaterial text, but
-one of text burdened with hardware and illegible control structure. The task of
-the critic becomes then to restore text to its proper mode of being in the
-concrete universal: to give it permanence in the world of ideas and to free it
-from its arbitrary material constraint. To lay bare the device literally would
-mean to make the mechanisms of naked political control visible. For any sort of
-reading to commence, one would first need to peel away the DOMs and the
-OSIs---today a task fraught with legal consequence.
-
-[^ln1-dirt]: Think of text as substance and literature as surface. The first is
-like dirt where the second is gound. We play with one on top of the other.
-
-
-[^ln1-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
-
-RETURN TO MORENO
-
-Colonized by technology. Fanon.
-
-Need for digital migration. Self displacement.
-
-In an ASCII-rendered plain text file, byte count corresponds to character
-count.[^ln-char] Let these words soak in for a moment. I will spend the rest of
-the book unpacking this idea. We will have to come to terms with what "plain
-text," "ASCII," and "bytes" really represent. But for now, a common-sense
-understanding of the terms should be enough to form the intuition that texts
-and characters are units of meaning that make sense to humans; and that bytes,
-by contrast, "make sense" for machines. Remarkably, the two modes of
-meaning-making gain a measure of equivalence under the singular condition of
-plain text (and even then, not always, and with many caveats).[^ln-human],
-[^ln-meaning]
-
-Laws are created to mitigate the new affordances. I will spend much of it at
-the work of "teasing apart" the layers obscuring the underlying structure of
-the textual device, using historical sources, direct observation, and tools
-normally reserved for reverse-engineering of data objects.[^ln5-mechanisms]
-
-## Arendt and Fanon
-
-
-## 5.3 Plain Text in Unix
-
-Plain text privileges a certain tics of humanity.
-
-
-## 5.2 Technological Determinism
-
-Against technological determinism. Space for play and interpretation. Signal
-Kittler.
-
-"Algorithms are inherently fascistic, because they give the comforting illusion
-of an alterity to human affairs," Stephen Marche wrote in his widely discussed
-piece for the *Los Angeles Review of Books*. "Algorithms have replaced laws of
-human nature, the vital distinction being that nobody can read them," he
-concludes [@marche_literature_2012]. But although a number of prominent voices
-(that include Stephen Hawkins, Catherine Hayles, and Elon Musk) have
-independently echoed Marche's metaphysical concern about algorithmic alterity,
-his insistence on the elision of the subject does not strictly hold true in the
-practice of writing and reading algorithms. Writing and reading of algorithms
-entails forms of literacy complementary to what Marche must mean by "handmade
-insight." The question becomes not one of alterity (as codes and codices are
-always extraneous to the individual), but one of legibility. An algorithmic
-regime redraws the boundaries delineating human agency, influence, and
-prestige, transferring power towards a privileged class of readers and writers
-capable of comprehending and further emending this otherwise obscure form of
-regimental textuality. It is vital, then, that our notions of human literacy
-include the ability to read, write, and escape the machinations of automated
-discourse. We should read code towards these aims: not to fetishize algorithms,
-but to strip them of their mystical significance.
-
-We are accustomed to thinking of modern computing as a pinnacle of calculating,
-computational devices. That is the story the reader gets in Marche's essay, in
-Kittler's media history, and in David Golumbia's provocative *Cultural Logic of
-Computation.* The cultural logic of computation inevitably leads to a bleak
-vision of what Johanna Drucker calls "mathesis," the triumph of deterministic
-quantification over indeterminate, anti-positivist forces of the humanities.
-The historical links between computation and the military industrial complex
-cannot be denied. But the links are contingent rather than necessary
-connections. EXPAND THIS MORE ON HOW THIS PROJECT ANSWERS DETERMINISM. In
-moving towards a notion of critical computing, we are able to draw on a
-multiplicity of historical practices that suggest an alternative mode of
-engagement with the computational environment, one in which literature has
-plenty to say.
-
-To see as literary IS to see the human.
-
-Prosthetics.
-
-This in the intro, cover application.
-[ln-app]: Not until the 1960s did the coinage "software application" enter the
-English language. Before that and well into the 1990s the far more common use
-of "application" was paired with "theory," as in "theory and application"---the
-two nouns occupying places on the opposing sides of the idea--practice
-continuum. Software, in the newer phrase, takes the place of theory---the
-application being the practical implementation of code, a theoretical set of
-instructions. In the *New York Times* archive, the phrase first appeared in
-1985 [@new_york_times_briefs_1984]. In the Google Books corpus the bigram
-appears first in *Astronautics & Aeronautics: A Publication of the American
-Institute of Aeronautics and Astronautics*, under the rubric of "Missile
-Guidance Systems Programming"
-[@american_institute_of_aeronautics_and_astronautics_astronautics_1965].  
-
-### 5.2 Home
-
-[^ln5-home]: On many machines the home directory will simply bare the name of
-the logged in user.
-
-The history of the home directory can be traced to the earliest time
-sharing machines in the 1960s. 
-
-The file folder. Directory structure. Also a data structure.
-
-Properties of a file folder. Names and permissions.
-
-Files belong to users and groups. Personal vs. shared computing.
-
-What is the concept of a user in Unix? User is also a file.
-
-- User belongs to groups and owns files.
-- User structure is hierarchical, depending on the three levels of acccess:
-read, write, and execute.
-- Unix has preference for plain text as an interface to the human.
-
-Transparency. Window Systems Should Be Transparent by Rob Pike
-
-You don't have to buy this picture. The importance of this intellectual history
-ais that human-computer interaction as a field has its roots there. People who
-design software view their work as cognitive extension.
-
-/home : User home directories (optional) Purpose
-
-/home is a fairly standard concept, but it is clearly a site-specific
-filesystem. [9] The setup will differ from host to host. Therefore, no program
-should rely on this location. [10] Requirements
-
-User specific configuration files for applications are stored in the user's
-home directory in a file that starts with the '.' character (a "dot file"). If
-an application needs to create more than one dot file then they should be
-placed in a subdirectory with a name starting with a '.' character, (a "dot
-directory"). In this case the configuration files should not start with the '.'
-character. [11]
-
-All contemporary operating
-systems (from Androids, to Mac OS, Linux, and Windows) commonly archive all
-user-related files in the `home` directory.[^ln5-home] These include all media:
-text, documents, music, video, and images along with program-specific settings,
-browser history, themes, passwords, 
-
-We now reach the final and most speculative chapter of the book. Here, I can no
-longer rely on strictly historical examples to make my case. So far, I have
-shown that a notion of plain text is, in some real sense, engineered into the
-fabric of modern computing. I have argued that our daily encounter with the
-text, mediated by the screen and the keyboard, cannot and should not be
-understood in mere instrumental terms. The technological system that envelops
-the creation and the transmission of thought is more than an instrument or a
-market. It constitutes a part of our cognitive apparatus. What are the values
-that guide the development. Transparency, parity, room for dissent.
-
-I think the author misses the point. As far as I see it, Unix tools are
-optimized for one thing: the human user. If `ls` is bloated, it is only bloated
-from the system point of view. As a user, I only see a small command that is
-quick and consistent (to a reasonable extent) with other tools. I don't need to
-know about 39 flags--that complexity is hidden for power users, and revealed
-with time, as I need to accomplish more complex tasks. For now, I only use and
-"see" two or three. And if more is needed, the program is small enough to be
-reasonably well documented. `man ls` perhaps with `grep` is all most people
-need.
-
-This brings me to the second point. "Streams of  text." Just like `ls`, streams
-of text are an optimal format/convention for humans. Many other things are
-better at being more compact or more efficient etc. But as formats and
-conventions proliferate, streams of plain text remain: readable and universal.
-Humans will ALWAYS be able to work with text. It is something that all humans
-kind of agreed upon--which cannot be said for any other formats or standards,
-which can offer various technical benefits at the expense of longevity,
-universality, and readability.
-
-These two features (`ls` being relatively light and text streamy) leads to the
-"bootstrapping" effects sought after by the first generation of Unix
-developers. Learning about pipes and filters in one part of the system is
-applicable to all others. These tools scale with your level of expertise. They
-grow with you because despite the small quirks, there's a remarkable
-consistency of interface: text! Consequently `ls` (along with many other core
-tools) is implemented in the same way across a staggering variety of platforms.
-It has survived decades of alternatives touted as "better," "faster," "more
-usable," etc. etc. etc. That is the remarkable achievement of *nix / GNU etc.
-approach to creating human-centric software. As we architect new and ever more
-complex systems, we would do well to understand why Unix has endured, warts and
-all.
-
-Plain text is a file format optimized for a human mind. It keeps the
-system available to view.
-
+## Arendt, Fanon, Tosaka Jun
 ### 5.3 Fanon + arendt
 
 ### 5.4 Freedom of Information
@@ -2258,14 +1529,9 @@ Technological Disobedience
 
 Creating SPACE. Physical space.
 
-Sartre?  Wright Mills, Gramsci, Chomsky? As an alternative left tradition.
-Mumford Condition of Man?
-
 Yet, to make the subjective experience strange again is to look at it through
 the eyes of a stranger. Makhail Bakhtin writes (in what I think is a previously
 untranslated passage):
-
-Ethics of legibility.
 
 > It is not I who looks out from the inside, but I look at myself with the eyes
 of the world, strange eyes; I am possessed by another. There is no integrity of
@@ -2291,8 +1557,9 @@ at MIT, suggests that citizens who do not follow all the laws are engaging in
 to alter its policies, without necessarily challenging its overall status.  
 http://newsoffice.mit.edu/2015/citizens-disobey-enact-change-0519
 
+### 6.2 Cryptography and Steganography Legibility
 
-### 6.2 Cryptography and Steganography
+Ethics of legibility.
 
 Hobbes on secret knowledge (p43-44!)
 
