@@ -40,7 +40,6 @@ between a restraining order and physical restraint. The restraining order
 *represents* the calling forth of power. The physical restraint *enacts* the
 exercise of power. Like all violence it does not stand for anything. It is an
 arrangement, a rearrangement of matter.
-
 With this insight we can begin to approach the peculiarity of formatting.
 Somewhere between idea and material, formatting is what relates content to
 matter. Disembodied and emptied of contact it means nothing. As one example of
@@ -56,26 +55,6 @@ be something other than the paragraph: another format. It is like asking one
 to imagine a flat shoebox. Such a container could no longer hold shoes.
 Similarly, the paragraph identifies a particular arrangement of elements. Any
 other arrangement would go by another name.
-
-## Metaphor Machine
-
-Wittgenstein: pretending to read. Pretending to understand. Turing's answer
-the imitation game.
-
-Realizing desktop metaphors on a computer
-20140091134A1
-
-John Carrol on Metaphor and the Cognitive Representation of Computer systems
-
-The metaphor machine: A database method for creativity support
-Author links open the overlay panel. Numbers correspond to the affiliation
-list which can be exposed by using the show more link.
-Lawrence F Young
-
-Empty of content, arrangement
-
-Formatting in that sense. Deep dive
-into format.
 
 ## Form and Content
 

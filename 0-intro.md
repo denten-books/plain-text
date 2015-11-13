@@ -716,3 +716,19 @@ figurative---spatial, literary, technological---to those being displaced
 unwillingly, to those exiled within and without, to those who understand the
 need for self-displacement, to those who transgress purposefully, and to those
 willing to trespass.
+
+## Metaphor Machine
+
+Wittgenstein: pretending to read. Pretending to understand. Turing's answer
+the imitation game.
+
+Realizing desktop metaphors on a computer
+20140091134A1
+
+John Carrol on Metaphor and the Cognitive Representation of Computer systems
+
+The metaphor machine: A database method for creativity support
+Author links open the overlay panel. Numbers correspond to the affiliation
+list which can be exposed by using the show more link.
+Lawrence F Young
+
