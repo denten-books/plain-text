@@ -1,8 +1,6 @@
 # Chapter 4: Format
 `form, format, formula`
 
-## Metaphor Machine
-
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
@@ -43,6 +41,23 @@ between a restraining order and physical restraint. The restraining order
 exercise of power. Like all violence it does not stand for anything. It is an
 arrangement, a rearrangement of matter.
 
+With this insight we can begin to approach the peculiarity of formatting.
+Somewhere between idea and material, formatting is what relates content to
+matter. Disembodied and emptied of contact it means nothing. As one example of
+a familiar format think of a paragraph. Conventionally, writers use paragraph
+to break up the flow of monolithic thought on a page. The paragraph is a
+container of sort. It is a box. Emptied of contents, it simply ceases to
+exist. Can there be an empty paragraph? For that matter, can the shape of the
+paragraph persists without the material confines of the page or some other
+spatial medium, capable of extending into the two dimensions. Can a paragraph
+unfold a long a line? Or into the third dimension? These are non-sensual
+questions, because any convention less or more than the paragraph would simply
+be something other than the paragraph: another format. It is like asking one
+to imagine a flat shoebox. Such a container could no longer hold shoes.
+Similarly, the paragraph identifies a particular arrangement of elements. Any
+other arrangement would go by another name.
+
+## Metaphor Machine
 
 Wittgenstein: pretending to read. Pretending to understand. Turing's answer
 the imitation game.
@@ -56,9 +71,6 @@ The metaphor machine: A database method for creativity support
 Author links open the overlay panel. Numbers correspond to the affiliation
 list which can be exposed by using the show more link.
 Lawrence F Young
-
-Formatting as something that structures experience. Formatting is what
-*relates* content to matter.
 
 Empty of content, arrangement
 
