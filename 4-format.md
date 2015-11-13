@@ -20,6 +20,30 @@ Baudrillard writes:
 > structure is that of a micromolecular code of command and control
 > [@baudrillard_selected_1988, 139-140].
 
+Somewhere between the sites of storage (what is) and projection (what appears
+to be), the computed sign undergoes a series of structural transformations. In
+the last chapter, we saw a glimpse of that process. What started out as a
+thought became a letter, a signal, a magnetic mark, a ray of light, and a
+phase of the liquid crystal. And in a chapter before that we saw the
+transformation of the sign being governed by control codes. Control languages
+guide thought through its series of transformations during transmission.
+Control languages break thought up into differentiated units and assemble it
+back together into a continuous, affective whole. Transformation or formatting
+is the essence of control. For example, imagine if we were to communicate
+through telegraph in two different languages. Aside from our communication, I
+would occasionally send a control code to your receiving device to change from
+the mode of "English language" into the "French language" language mode.  The
+programming sign, in that sense, is what Baudrillard calls a purely "tactical"
+signal. Unlike figurative language, programming languages are imperative. They
+do not stand for action. Rather, they *are* pure action, stripped of
+"references," "resemblances", and "designations." The difference between
+representation is control is one of brute force. It is in the difference
+between a restraining order and physical restraint. The restraining order
+*represents* the calling forth of power. The physical restraint *enacts* the
+exercise of power. Like all violence it does not stand for anything. It is an
+arrangement, a rearrangement of matter.
+
+
 Wittgenstein: pretending to read. Pretending to understand. Turing's answer
 the imitation game.
 
@@ -32,12 +56,6 @@ The metaphor machine: A database method for creativity support
 Author links open the overlay panel. Numbers correspond to the affiliation
 list which can be exposed by using the show more link.
 Lawrence F Young
-
-The difference between a restraining order and physical restraints is one of
-brute force. The restraining order represents the calling forth of power. The
-physical restraint is non-representational enactment of power. Like all
-violence it does not stand for anything. It is an arrangement, a
-rearrangement, of matter.
 
 Formatting as something that structures experience. Formatting is what
 *relates* content to matter.
@@ -838,7 +856,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 
 
 
-## Speculative Formalism (non - representation)
+## Speculative Formalism (non--representation)
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
 Halstead noted that "the practical upper limits of speed will also be limited
