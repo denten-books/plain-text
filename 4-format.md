@@ -22,39 +22,69 @@ Somewhere between the sites of storage (what is) and projection (what appears
 to be), the computed sign undergoes a series of structural transformations. In
 the last chapter, we saw a glimpse of that process. What started out as a
 thought became a letter, a signal, a magnetic mark, a ray of light, and a
-phase of the liquid crystal. And in a chapter before that we saw the
-transformation of the sign being governed by control codes. Control languages
-guide thought through its series of transformations during transmission.
-Control languages break thought up into differentiated units and assemble it
-back together into a continuous, affective whole. Transformation or formatting
-is the essence of control. For example, imagine if we were to communicate
-through telegraph in two different languages. Aside from our communication, I
-would occasionally send a control code to your receiving device to change from
-the mode of "English language" into the "French language" language mode.  The
-programming sign, in that sense, is what Baudrillard calls a purely "tactical"
-signal. Unlike figurative language, programming languages are imperative. They
-do not stand for action. Rather, they *are* pure action, stripped of
-"references," "resemblances", and "designations." The difference between
-representation is control is one of brute force. It is in the difference
-between a restraining order and physical restraint. The restraining order
-*represents* the calling forth of power. The physical restraint *enacts* the
-exercise of power. Like all violence it does not stand for anything. It is an
-arrangement, a rearrangement of matter.
-With this insight we can begin to approach the peculiarity of formatting.
-Somewhere between idea and material, formatting is what relates content to
-matter. Disembodied and emptied of contact it means nothing. As one example of
-a familiar format think of a paragraph. Conventionally, writers use paragraph
-to break up the flow of monolithic thought on a page. The paragraph is a
-container of sort. It is a box. Emptied of contents, it simply ceases to
-exist. Can there be an empty paragraph? For that matter, can the shape of the
-paragraph persists without the material confines of the page or some other
-spatial medium, capable of extending into the two dimensions. Can a paragraph
-unfold a long a line? Or into the third dimension? These are non-sensual
-questions, because any convention less or more than the paragraph would simply
-be something other than the paragraph: another format. It is like asking one
-to imagine a flat shoebox. Such a container could no longer hold shoes.
-Similarly, the paragraph identifies a particular arrangement of elements. Any
-other arrangement would go by another name.
+phase of the liquid crystal. And in the chapter before that, we saw the
+strange admixture of content and control particular to computational devices.
+Programming languages guide thought through a series of transformations during
+transmission. They break it up into differentiated units and assemble it back
+together into a continuous, affective whole. Such construction and
+deconstruction is the essence of control. For example, imagine if we were to
+communicate through telegraph in two different languages. Aside from our
+conversation, I would occasionally send a control code to your receiving
+device to change from the mode of "English language" into the "French
+language" mode. The computer instruction attunes the receiver to a different
+mode of listening. In our case, it transforms the English language machine
+into a French language one. It is in that sense that the "programmatic sign"
+acquires a non-representational, tactical character.
+
+Unlike figurative language, programming languages are imperative. They do not
+stand for action. Rather, they *are* pure action, stripped of "references,"
+"resemblances", and "designations." The difference between representation and
+control is one of brute force. It lies in the difference between a restraining
+order and physical restraint. A restraining order *represents* the calling
+forth of codified power. Physical restraints, like the plastic handcuffs
+widely used in contemporary policing, *enact* the exercise of codified power.
+Like all violence they does not stand for anything. Stripped of "references,
+resemblances, and designations," they are in themselves an arrangement and a
+rearrangement of matter. The handcuffs contort the body into the shape of
+submission. Absent a body, the restraints draw an empty shape.
+
+Code acts similarly to shape the word. Yet, in literary-theoretic discourse
+the shape of the word is often relegated to a merely decorative function. We
+know that typographical space is important for example and yet we struggle to
+formulate why. The definitive histories of the paragraph, or the line, of the
+are yet to be written. Somewhere between idea and material, formatting is what
+relates content to matter. Disembodied and emptied of contact it means
+nothing. As one example of a familiar format think of a paragraph.
+Conventionally, writers use paragraph to break up the flow of monolithic
+thought on a page.  The paragraph is a container of sort. It is a box. Emptied
+of contents, it simply ceases to exist. Can there be an empty paragraph? For
+that matter, can the shape of the paragraph persist without the material
+confines of the page or some other spatial medium, capable of extending into
+the two dimensions.  Can a paragraph unfold along a line? Or into the third
+dimension? These are nonsensical questions because any shape less or more than
+the paragraph would simply cease to be called a paragraph. It would constitute
+another format. To imagine a one-dimensional paragraph is akin to imagining a
+flat shoebox. Such a container could no longer hold shoes.  Similarly, the
+paragraph identifies a particular arrangement of elements. Any other
+arrangement would go by another name.
+
+The transition between static and dynamic layouts necessitates our attention
+to formatting. What you see is what you get on the page. On the screen, what
+you see is but a small part of what you get. The shifts constantly beneath the
+projected image. If I ask you to read a text, Shakespeare's *Hamlet*, for
+example, I may be sure that the text in my hands will remain the same as I
+pass it into yours. But the computed sign has the capability to adjust itself
+to new contexts. The simulated *Hamlet* may adapt itself to the new reader's
+geographic location, mood, or political affiliation. Far from being outside of
+the realm of possibilities, it is likely that in fact, most of the texts we
+consume today come to us in such algorithmically personalized way. Algorithms
+ubiquitously tailor streams of online news and updates, for example, to suit
+readers preferences. Under the computed sign, *nothing* is guaranteed in the
+passage of text from one pair of hands to another. Digital formatting expands
+its purview far beyond typographical convention. The erasure of words, word
+substitution, automatic summarization, wholesale generation of discourse by
+algorithmic means---the command and control layer contains all such
+possibilities.
 
 ## Form and Content
 
