@@ -51,22 +51,22 @@ submission. Absent a body, the restraints draw an empty shape.
 Code acts similarly to shape the word. Yet, in literary-theoretic discourse
 the shape of the word is often relegated to a merely decorative function. We
 know that typographical space is important for example and yet we struggle to
-formulate why. The definitive histories of the paragraph, or the line, of the
-are yet to be written. Somewhere between idea and material, formatting is what
-relates content to matter. Disembodied and emptied of contact it means
-nothing. As one example of a familiar format think of a paragraph.
-Conventionally, writers use paragraph to break up the flow of monolithic
-thought on a page.  The paragraph is a container of sort. It is a box. Emptied
-of contents, it simply ceases to exist. Can there be an empty paragraph? For
-that matter, can the shape of the paragraph persist without the material
-confines of the page or some other spatial medium, capable of extending into
-the two dimensions.  Can a paragraph unfold along a line? Or into the third
-dimension? These are nonsensical questions because any shape less or more than
-the paragraph would simply cease to be called a paragraph. It would constitute
-another format. To imagine a one-dimensional paragraph is akin to imagining a
-flat shoebox. Such a container could no longer hold shoes.  Similarly, the
-paragraph identifies a particular arrangement of elements. Any other
-arrangement would go by another name.
+formulate why in the critical literature. The definitive histories of the
+paragraph, the line, the page, are yet to be written. Somewhere between idea
+and material, formatting is what relates content to matter. Disembodied and
+emptied of contact it means nothing. As one example of a familiar format think
+of a paragraph.  Conventionally, writers use paragraph to break up the flow of
+monolithic thought on a page.  The paragraph is a container of sort. It is a
+box. Emptied of contents, it simply ceases to exist. Can there be an empty
+paragraph? For that matter, can the shape of the paragraph persist without the
+material confines of the page or some other spatial medium, capable of
+extending into the two dimensions. Can a paragraph unfold along a line? Or
+into the third dimension? These are nonsensical questions because any shape
+less or more than the paragraph would simply cease to be called a paragraph.
+It would constitute another format. To imagine a one-dimensional paragraph is
+akin to imagining a flat shoebox. Such a container could no longer hold shoes.
+Similarly, the paragraph identifies a particular arrangement of elements. Any
+other arrangement would go by another name.
 
 The transition between static and dynamic layouts necessitates our attention
 to formatting. What you see is what you get on the page. On the screen, what
@@ -84,27 +84,42 @@ passage of text from one pair of hands to another. Digital formatting expands
 its purview far beyond typographical convention. The erasure of words, word
 substitution, automatic summarization, wholesale generation of discourse by
 algorithmic means---the command and control layer contains all such
-possibilities.
+possibilities. I will begin by identifying a feature of formalist thought that
+has long given me pause. The very concept of form, central to literary
+analysis, contains in it two conflicting ideas. Going back to reception of
+Plato, Hegel, and the Russian formalists, the English "form" renders at times
+the material, outward, and apparent shape of something said or pictured. Yet
+just as often, critics use "form" in the sense of a Platonic ideal: abstracted
+from matter, inward-facing, and in need of explication. Form in that sense is
+closer to the idea of an algorithm of a formula. It is the lasting hidden
+archetype that gives rise to temporary outward appearances.
+
+In this chapter, I propose we approach form and formatting anew, with fresh
+eyes. I will begin by arguing first that the intellectual history of formalism
+literary theory contains within two distinct and contradictory ideas about
+form: one about the outward shape of the sign and another about the inward
+structure or formula that governs semiotics. The distinction is important
+because it leads to several conflicting strategies of interpretation. Taken in
+the sense of "outwards shape," the form suggests an aesthetics or even an
+"erotics" of art.[@sontag_against_1966] On this view, a sign is forever
+embedded into the specific contexts of its instantiation. The physical
+peculiarity of this word makes it forever different from the same word on a
+different page. Taken as formula, form suggests a more analytical approach,
+aimed at explicating hidden structures. Formal analysis in that sense studies
+not specific traces or utterances, but the development of ideal forms, which
+exist independent of any specifics.
+
+The distinction between form, format, and formula will give us the vocabulary
+to discuss the codification of document structure in the second part of the
+chapter. As I will argue, some of the same intuitions guiding the intellectual
+history of formalism became ingrained in the material contingencies of word
+processing emerging in the middle of the twentieth century. A kind of a
+computational formalism will give us the means to reveal a layer of
+formatting shaping every digital document. Finally, I will end the chapter in
+a discussion about speculative formalism. 
+
 
 ## Form and Content
-
-A treatment of theoretical terms will lead us to the reconstruction of a
-critical moment in the material history of literary technology. As I will
-argue in this chapter, the middle of the twentieth century saw the birth of a
-new formalism, related to, yet categorically distinct from formalism in
-literary studies. The changing conditions of literary production necessitated
-a thorough reevaluation of textual primitives that give rise to letters,
-words, and pages.
-
-I will begin by identifying a feature of formalist thought that has long given
-me pause. The very concept of form, central to literary analysis, contains in
-it two conflicting ideas. Going back to reception of Plato, Hegel, and the
-Russian formalists, the English "form" renders at times the material, outward,
-and apparent shape of something said or pictured. Yet just as often, critics
-use "form" in the sense of a Platonic ideal: abstracted from matter,
-inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula. It is the lasting hidden archetype that
-gives rise to temporary outward appearances.
 
 ### Establish the binary
 
@@ -573,31 +588,31 @@ involves turning hermeneutics into reverse engineering.
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
 deemed the "sensory experience" or the "erotics" of art. In her now classic
-1966 essay "Against Interpretation," Sontag posits transparence as the
-"highest, most liberating value in art and in criticism today." "Transparence
+1966 essay "Against Interpretation," Sontag posits transparency as the
+"highest, most liberating value in art and in criticism today." "Transparency
 means experiencing the luminousness of the thing in itself, of things being
 what they are" she explains [@sontag, 9]. Rather than to show what a work of
 art *means*, Sontag urges critics to show "how it is" and "that it is"
 [@sontag, 10]. To make her argument Sontag relies on the distinction between
 "meaning" or "content" on the one hand and "form" or the "sensory experience"
 of the work on the other. Form, in this sense, mirrors McKeown's "shape" and
-the "text's physical characteristcs" of Hayles.
+the "text's physical characteristics" of Hayles.
 
 Interpretation at the level of meaning and content for Sontag is an
 intellectual and ultimately reactionary activity. It aims to find "the maximum
-amount of content" within. It is reactionary because it serves only to multiply
-the available "levels of analysis." In explicating the work of art, the critic
-essentially creates alternative and diverging copies of the original. Each
-layer of criticsm adds to the content of the work. In Sontag's words, to
-"design" a work of art that can be experienced in this way, on multiple levels,
-might have been "creative" and "revolutionary" in the age of aesthetic paucity,
-when creativity and interpretation were limited to a few privileged
-individuals. By contrast, Sontag believes that her times are a period of
-creative abundance. "Think of the sheer multiplication of works of art
-available to all of us," she writes.  Contemporary culture is based on "excess"
-and "material plenitude" which dull the senses. In such conditions, the
-production of further critical variations on the theme only adds to the dulling
-clutter.
+amount of content" within. It is reactionary because it serves only to
+multiply the available "levels of analysis." In explicating the work of art,
+the critic essentially creates alternative and diverging copies of the
+original. Each layer of critics adds to the content of the work. In Sontag's
+words, to "design" a work of art that can be experienced in this way, on
+multiple levels, might have been "creative" and "revolutionary" in the age of
+aesthetic paucity, when creativity and interpretation were limited to a few
+privileged individuals. By contrast, Sontag believes that her times are a
+period of creative abundance. "Think of the sheer multiplication of works of
+art available to all of us," she writes.  Contemporary culture is based on
+"excess" and "material plenitude" which dull the senses. In such conditions,
+the production of further critical variations on the theme only adds to the
+dulling clutter.
 
 By "interpretation," Sontag means a "conscious act of the mind" which
 illustrates a "certain code," or "certain rules" of engagement. It is, for her,
@@ -877,7 +892,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 
 
 
-## Speculative Formalism (non--representation)
+## Speculative Formalism
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
 Halstead noted that "the practical upper limits of speed will also be limited
@@ -899,7 +914,6 @@ translate between brain impulses and the transmission apparatus. Such "direct"
 communication would therefore still be mediated. Can literature survive non
 representation. I want to imagine.
 
-## Code Injection
 
 Essential for the practices of unencumbered critical thought, control
 structures exist in the gaps within the splintered sign. Ultimately, parts of
