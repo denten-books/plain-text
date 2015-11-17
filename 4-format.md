@@ -118,7 +118,6 @@ computational formalism will give us the means to reveal a layer of
 formatting shaping every digital document. Finally, I will end the chapter in
 a discussion about speculative formalism. 
 
-
 ## Form and Content
 
 ### Establish the binary

@@ -466,7 +466,6 @@ smelting iron is to make literal the figure suggested by media "archeology" on
 the level of the mechanism. In *Plain Text* we will dig through, unearth, and
 excavate textual machines.
 
-
 ## Structuring Principles
 
 The tangled strains of thought and practice exist only in relation to specific
@@ -563,13 +562,9 @@ exactly is a text? Where is it?  How will we find it?  My answers commence by
 developing a theory of "microanalysis," the closest possible kind of reading
 that pays attention to the material contexts of knowledge production.
 Microanalysis opens the gap between text as it is embedded into storage media
-and text as it is seen on the screen. Drawing from the discussion between
-philosophers Gerard Genette and Nelson Goodman on the nature of textual copies,
-I take up "reading" from the perspective of a copy machine, which "sees" pages
-as monolithic images. The machine deconstruction unveils the crisis of
-authenticity related to the plummeting costs of digital reproduction. The
-supposedly "dead" authors continue to draw checks from copyrighted work. Legal
-fictions rise to veil the emerging affordances of textual technology.
+and text as it is seen on the screen. I begin by laying out the case for
+treating the contemporary "digital" book as a computational device. The nature
+of computation
 
 In the second chapter, I challenge conventional notions of digital media,
 discovering properties at once "discrete" and "continuous." Both conventionally
@@ -716,4 +711,14 @@ figurative---spatial, literary, technological---to those being displaced
 unwillingly, to those exiled within and without, to those who understand the
 need for self-displacement, to those who transgress purposefully, and to those
 willing to trespass.
+
+## Odds and Ends
+
+Drawing from the discussion between philosophers Gerard Genette and Nelson
+Goodman on the nature of textual copies, I take up "reading" from the
+perspective of a copy machine, which "sees" pages as monolithic images. The
+machine deconstruction unveils the crisis of authenticity related to the
+plummeting costs of digital reproduction. The supposedly "dead" authors
+continue to draw checks from copyrighted work. Legal fictions rise to veil the
+emerging affordances of textual technology.
 
