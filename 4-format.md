@@ -1,6 +1,8 @@
 # Chapter 4: Format
 `form, format, formula`
 
+## Metaphor Machine
+
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
@@ -73,8 +75,46 @@ name.
 The transition between static and dynamic layouts necessitates renewed
 attention to formatting. What you see is what you get on the page. On the
 screen, what you see is but a small part of what you get. The "content"---all
-that is contained---in a file, shifts constantly beneath the projected image
-of a page. If I ask you to read a text, Shakespeare's *Hamlet*, for example,
+that is contained on a page, shifts constantly beneath the projected image. To
+put it another way: the familiar container of a "page" is now wrapped within
+other data containers like "file" and "folder." Pages, in the paper-and-ink
+world usually exist within other data structures like books, book shelves, and
+archives. The computed page simulates structures like pages, files, and
+folders. But, the simulated "pages," "files," and "folders" serve only in the
+role of a metaphor. There is nothing file-like in the arrangement of bits
+along the surface of the magnetic disk. We are presented with the metaphor to
+make the management of bits more familiar. Consider the following passage from
+a patent for "Electronic Library," filed by Xerox in 1991, describing "an
+electronic library metaphor," that:
+
+> includes a shared books with data base metaphor, a reference books metaphor,
+> and a card catalog metaphor in one system that allows large object oriented
+> data bases to be organized and accessed in an exclusive environment and in
+> addition allows access to screen icons, creates a visual hierarchy of
+> related and shared objects, and allows mutually exclusive access to the
+> metaphors within the library [@pajak_electronic_1992, 1].
+
+The invention ultimately aims to allow for the "organizing, accessing, and
+querying of information unique to physical libraries in an electronic
+workstation environment" [@pajak_electronic_1992, 1]. I find the very image of
+"accessing a metaphor" odd. In the so-called classical view, the metaphor
+happens by semantic substitution as a matter of figurative language. To say
+"day stands tiptoe on the misty mountain tops" is to use the verb "stand" in a
+novel linguistic context. The day does not really stand nor does it have legs.
+John Searle, John Lakoff, and Mark Turner, among others, have argued that
+metaphors cannot be 
+
+operate also on a everyday, cognitive level.
+
+![](book-metaphor.png "Voyage to the moon")
+
+Realizing desktop metaphors on a computer 20140091134A1
+
+John Carrol on Metaphor and the Cognitive Representation of Computer systems
+
+The metaphor machine: A database method for creativity support Author links open the overlay panel. Numbers correspond to the affiliation list which can be exposed by using the show more link. Lawrence F Young
+
+If I ask you to read a text, Shakespeare's *Hamlet*, for example,
 I may be sure that the text in my hands will remain the same as I pass it into
 yours.  But the computed sign has the capability to adjust itself to new
 contexts. The simulated *Hamlet* may adapt itself to the new reader's
