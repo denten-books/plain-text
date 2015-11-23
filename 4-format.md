@@ -26,66 +26,75 @@ the last chapter, we saw a glimpse of that process. What started out as a
 thought became a letter, a signal, a magnetic mark, a ray of light, and a
 phase of the liquid crystal. And in the chapter before that, we saw the
 strange admixture of content and control particular to computational devices.
-Programming languages guide thought through a series of transformations during
-transmission. They break it up into differentiated units and assemble it back
-together into a continuous, affective whole. Such construction and
-deconstruction constitutes the essence of formatting. For example, imagine if
-we were to communicate through telegraph in two different languages. Aside
-from our conversation, I would occasionally send a control code to your
-receiving device to change from the mode of "English language" into the
-"French language" mode. The computer instruction *attunes* the receiver to a
-different *mode* of listening. In our case, it transforms a English language
-machine into a French language one. It is in that sense that the "programmatic
-sign" acquires a non-representational, "tactical" character. Stripped of
-"references," "resemblances," and "designations" the innocuous formatting
-layer "commands" and "controls."
+Programming languages guide thought through a series of transformations in the
+passage between bodies, screens, and archives. Code breaks thought up into
+differentiated units and assembles it back together into a continuous,
+affective whole. Roman Jacobson called it the "profuse exchange of ritualized
+formulas" or the phatic function of language [@malinowski_problem_1923, 146;
+@jakobson_closing_1960, 355]. Such construction and deconstruction of meaning
+shapes is the essence of formatting. For example, imagine if we were to
+communicate through telegraph in two different languages. Aside from our
+conversation, I would occasionally send a control code to your receiving
+device to change from the mode of "English language" into the "French
+language" mode. The computer instruction *attunes* the receiver to a different
+*mode* of listening. In our case, it transforms a English language machine
+into a French language one. It is in that sense that the "programmatic sign"
+acquires a non-representational, "tactical" character.  Stripped of
+references, resemblances, and designations the innocuous formatting layer
+commands and controls.
 
 Unlike figurative language, formatting codes and programming languages
-function in the imperative. They do not stand for action. More binding than
-J.L. Austin's "speech acts," control codes command specific action. The
-difference between representation and control is one of brute force. It lies
-in the difference between a restraining order and physical restraint. A
-restraining order *represents* the calling forth of codified power. Physical
-restraints, like the plastic handcuffs widely used in contemporary policing,
-*enact* the exercise of codified power. Like all violence they does not stand
-for anything. Stripped of references, resemblances, and designations, they are
-in themselves an arrangement and a rearrangement of matter. The handcuffs
-contort the body into the shape of submission. Absent a body, the restraints
-draw an empty shape.
+function in the imperative. They do not stand for action, they are action.
+More binding than J.L. Austin's "speech acts," control codes arrange and
+regulate. The difference between representation and control is one of brute
+force. It lies in the distinction between a restraining order and physical
+restraint. A restraining order *represents* the calling forth of codified
+power. Physical restraints, like the plastic handcuffs widely used in
+contemporary policing, *enact* the exercise of codified power. Like all
+violence they do not stand for anything. Stripped of references, resemblances,
+and designations, they are in themselves an arrangement and a rearrangement of
+matter. The handcuffs contort the body into the shape of submission. Absent a
+body, the restraints draw an empty shape.
 
 Code acts similarly to shape the word. Yet, literary-theoretical discourse
-usually consigns formatting to the status of decoration. Definitive histories
-of the paragraph, the line, or the page await their author. Somewhere between
-idea and material, formatting relates content to matter. Think of a paragraph,
-for example. By convention, writers use paragraphs to break up the flow of
-monolithic thought on a page. The paragraph contains information. Emptied of
-content, it simply ceases to exist. Can there be an empty paragraph?  Can the
-shape of the paragraph persist without the material confines of the page? Can
-we imagine, for example, a paragraph that unfolds not in two dimensions, as it
-does on a page, but in one, along a straight line? What about a three
-dimensional paragraph---a cube of words instead of a rectangle? These are
+usually consigns formatting to the status of superfluous decoration.
+Consequently, definitive histories of the paragraph, the line, or the page
+await their author. Located somewhere between idea and material, formatting
+relates content to matter. It mediates. Think of a paragraph, for example. By
+convention, writers use paragraphs to break up the flow of monolithic thought
+on a page. The paragraph contains information. Emptied of content, it simply
+ceases to exist. Can there be an empty paragraph? Can the shape of the
+paragraph persist outside of the material confines of the page or the screen?
+Can we imagine, for example, a paragraph that unfolds spatially not in two
+dimensions, but in one, along a straight line? What about a three dimensional
+paragraph? Can we imagine a cube of words instead of a rectangle? These
 questions boggle the mind because the paragraph draws a singular shape. It is
-a textual container of a type. We would give a shape less or more than the
-paragraph another name. It would make for another format. To imagine a
-one-dimensional paragraph is akin to imagining a flat shoebox. Such a
-container could no longer hold shoes. Similarly, the paragraph identifies a
-particular arrangement of elements. Any other arrangement would go by another
-name.
+a textual container of a type. Any other shape less or more than the paragraph
+would go by another name. It would simply constitute another format. To
+imagine something like a one-dimensional paragraph is akin to imagining a flat
+shoebox. Such a container could no longer hold shoes. It would hold something
+else, like images of footwear. Similarly, a paragraph identifies a particular
+arrangement of elements. It is a box and a data structure of a shape, capable
+of holding other arrangements of information like words and sentences.
 
-The transition between static and dynamic layouts necessitates renewed
-attention to formatting. What you see is what you get on the page. On the
-screen, what you see is but a small part of what you get. The "content"---all
-that is contained on a page, shifts constantly beneath the projected image. To
-put it another way: the familiar container of a "page" is now wrapped within
-other data containers like "file" and "folder." Pages, in the paper-and-ink
-world usually exist within other data structures like books, book shelves, and
-archives. The computed page simulates structures like pages, files, and
-folders. But, the simulated "pages," "files," and "folders" serve only in the
-role of a metaphor. There is nothing file-like in the arrangement of bits
-along the surface of the magnetic disk. We are presented with the metaphor to
-make the management of bits more familiar. Consider the following passage from
-a patent for "Electronic Library," filed by Xerox in 1991, describing "an
-electronic library metaphor," that:
+One could say, what of a paragraph? It is merely one box among many. It has
+only an instrumental function to help get the point across. The meat of
+interpretation lies in the stuff within the container. Words come in many
+other shapes. The container is disposable and therefore insignificant. In this
+chapter, I will argue that the containers of meaning could only seem
+insignificant when there were a few of them and where their nature was static
+and easily understood. The transition between static and dynamic layouts
+necessitates renewed attention to formatting. What you see is what you get on
+the page. On the screen, what you see is but a small part of what you get. The
+"content"---all that is contained on a page, shifts constantly beneath the
+projected image. To put it another way: the computed sign circulates in
+sophisticated containers like files and folders that do much more than hold
+information passively. And there is little that is file-like or page-like in
+the arrangement of bits along the surface of the magnetic disk. We are
+presented instead with metaphors of pages, files, and folders. 
+
+Consider the following passage from a patent for "Electronic Library," filed
+by Xerox in 1991, describing "an electronic library metaphor," that:
 
 > includes a shared books with data base metaphor, a reference books metaphor,
 > and a card catalog metaphor in one system that allows large object oriented
@@ -114,28 +123,31 @@ John Carrol on Metaphor and the Cognitive Representation of Computer systems
 
 The metaphor machine: A database method for creativity support Author links open the overlay panel. Numbers correspond to the affiliation list which can be exposed by using the show more link. Lawrence F Young
 
-If I ask you to read a text, Shakespeare's *Hamlet*, for example,
-I may be sure that the text in my hands will remain the same as I pass it into
-yours.  But the computed sign has the capability to adjust itself to new
-contexts. The simulated *Hamlet* may adapt itself to the new reader's
-geographic location, mood, or political affiliation. Far from being outside of
-the realm of possibilities, it is likely that in fact, most of the texts we
-consume today come to us in such algorithmically personalized way. Algorithms
-ubiquitously tailor streams of online news and updates, for example, to suit
-readers preferences. Under the computed sign, *nothing* is guaranteed in the
-passage of text from one pair of hands to another. Digital formatting expands
-its purview far beyond typographical convention. The erasure of words, word
-substitution, automatic summarization, wholesale generation of discourse by
-algorithmic means---the command and control layer contains all such
-possibilities. I will begin by identifying a feature of formalist thought that
-has long given me pause. The very concept of form, central to literary
-analysis, contains in it two conflicting ideas. Going back to reception of
-Plato, Hegel, and the Russian formalists, the English "form" renders at times
-the material, outward, and apparent shape of something said or pictured. Yet
-just as often, critics use "form" in the sense of a Platonic ideal: abstracted
-from matter, inward-facing, and in need of explication. Form in that sense is
-closer to the idea of an algorithm of a formula. It is the lasting hidden
-archetype that gives rise to temporary outward appearances.
+The metaphors of human-computer interaction hide the true material conditions
+of the computed sign. More than a parchment packet to be unwrapped and
+discarded after purchase, the vessels of computation resemble little factories
+for the production of meaning.  If I ask you to read a text, Shakespeare's
+*Hamlet*, for example, I may be sure that the text in my hands will remain the
+same as I pass it into yours.  But the computed sign has the capability to
+adjust itself to new contexts. The simulated *Hamlet* may adapt itself to the
+new reader's geographic location, mood, or political affiliation. Far from
+being outside of the realm of possibilities, it is likely that in fact, most
+of the texts we consume today come to us in such algorithmically personalized
+way. Algorithms ubiquitously tailor streams of online news and updates, for
+example, to suit readers preferences. Under the computed sign, *nothing* is
+guaranteed in the passage of text from one pair of hands to another. Digital
+formatting expands its purview far beyond typographical convention. The
+erasure of words, word substitution, automatic summarization, wholesale
+generation of discourse by algorithmic means---the command and control layer
+contains all such possibilities. I will begin by identifying a feature of
+formalist thought that has long given me pause. The very concept of form,
+central to literary analysis, contains in it two conflicting ideas. Going back
+to reception of Plato, Hegel, and the Russian formalists, the English "form"
+renders at times the material, outward, and apparent shape of something said
+or pictured. Yet just as often, critics use "form" in the sense of a Platonic
+ideal: abstracted from matter, inward-facing, and in need of explication. Form
+in that sense is closer to the idea of an algorithm of a formula. It is the
+lasting hidden archetype that gives rise to temporary outward appearances.
 
 In this chapter, I propose we approach form and formatting anew, with fresh
 eyes. I will begin by arguing first that the intellectual history of formalism
