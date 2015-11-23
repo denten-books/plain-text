@@ -29,7 +29,7 @@ strange admixture of content and control particular to computational devices.
 Programming languages guide thought through a series of transformations in the
 passage between bodies, screens, and archives. Code breaks thought up into
 differentiated units and assembles it back together into a continuous,
-affective whole. Roman Jacobson called it the "profuse exchange of ritualized
+affective whole. Roman Jakobson called it the "profuse exchange of ritualized
 formulas" or the phatic function of language [@malinowski_problem_1923, 146;
 @jakobson_closing_1960, 355]. Such construction and deconstruction of meaning
 shapes is the essence of formatting. For example, imagine if we were to
@@ -39,9 +39,9 @@ device to change from the mode of "English language" into the "French
 language" mode. The computer instruction *attunes* the receiver to a different
 *mode* of listening. In our case, it transforms a English language machine
 into a French language one. It is in that sense that the "programmatic sign"
-acquires a non-representational, "tactical" character.  Stripped of
-references, resemblances, and designations the innocuous formatting layer
-commands and controls.
+acquires a non-representational, "tactical" character. Stripped of references,
+resemblances, and designations the innocuous formatting layer commands and
+controls.
 
 Unlike figurative language, formatting codes and programming languages
 function in the imperative. They do not stand for action, they are action.
@@ -82,19 +82,19 @@ only an instrumental function to help get the point across. The meat of
 interpretation lies in the stuff within the container. Words come in many
 other shapes. The container is disposable and therefore insignificant. In this
 chapter, I will argue that the containers of meaning could only seem
-insignificant when there were a few of them and where their nature was static
-and easily understood. The transition between static and dynamic layouts
-necessitates renewed attention to formatting. What you see is what you get on
-the page. On the screen, what you see is but a small part of what you get. The
-"content"---all that is contained on a page, shifts constantly beneath the
-projected image. To put it another way: the computed sign circulates in
-sophisticated containers like files and folders that do much more than hold
-information passively. And there is little that is file-like or page-like in
-the arrangement of bits along the surface of the magnetic disk. We are
-presented instead with metaphors of pages, files, and folders. 
+insignificant when they were simple and few in number. The transition between
+static and dynamic layouts necessitates renewed attention to formatting. What
+you saw is what you got on the page. On the screen, what you see is but a
+small part of what you get. The "content"---all that is contained on a page,
+shifts constantly beneath the projected image. To put it another way: the
+computed sign circulates in novel and sophisticated containers like files and
+folders that do much more than hold information passively. And there is little
+that is file-like or page-like in the arrangement of bits along the surface of
+the magnetic disk. We are presented instead with metaphors of pages, files,
+and folders.
 
 Consider the following passage from a patent for "Electronic Library," filed
-by Xerox in 1991, describing "an electronic library metaphor," that:
+by Xerox in 1991, describing "an electronic library metaphor," which:
 
 > includes a shared books with data base metaphor, a reference books metaphor,
 > and a card catalog metaphor in one system that allows large object oriented
@@ -103,15 +103,15 @@ by Xerox in 1991, describing "an electronic library metaphor," that:
 > related and shared objects, and allows mutually exclusive access to the
 > metaphors within the library [@pajak_electronic_1992, 1].
 
-The invention ultimately aims to allow for the "organizing, accessing, and
-querying of information unique to physical libraries in an electronic
-workstation environment" [@pajak_electronic_1992, 1]. I find the very image of
-"accessing a metaphor" odd. In the so-called classical view, the metaphor
-happens by semantic substitution as a matter of figurative language. To say
-"day stands tiptoe on the misty mountain tops" is to use the verb "stand" in a
-novel linguistic context. The day does not really stand nor does it have legs.
-John Searle, John Lakoff, and Mark Turner, among others, have argued that
-metaphors cannot be 
+The invention ultimately allows the "organizing, accessing, and querying of
+information unique to physical libraries in an electronic workstation
+environment" [@pajak_electronic_1992, 1]. I find the very image of "accessing
+a metaphor" odd. In the so-called classical view, metaphors are a type of
+figurative language. To say "the day stands tiptoe on the misty mountain tops"
+is to use the verb "stand" in a novel linguistic context. The day does not
+really stand nor does it have legs. John Searle, John Lakoff, and Mark Turner,
+among others, have argued that metaphors are more broadly a cognitive
+phenomenon. They suggest novel linkages not only between words, but 
 
 operate also on a everyday, cognitive level.
 
@@ -121,7 +121,9 @@ Realizing desktop metaphors on a computer 20140091134A1
 
 John Carrol on Metaphor and the Cognitive Representation of Computer systems
 
-The metaphor machine: A database method for creativity support Author links open the overlay panel. Numbers correspond to the affiliation list which can be exposed by using the show more link. Lawrence F Young
+A database method for creativity support Author links open the overlay panel.
+Numbers correspond to the affiliation list which can be exposed by using the
+show more link. Lawrence F Young
 
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
