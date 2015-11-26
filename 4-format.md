@@ -32,50 +32,58 @@ differentiated units and assembles it back together into a continuous,
 affective whole. Roman Jakobson called it the "profuse exchange of ritualized
 formulas" or the phatic function of language [@malinowski_problem_1923, 146;
 @jakobson_closing_1960, 355]. Such construction and deconstruction of meaning
-shapes is the essence of formatting. For example, imagine if we were to
-communicate through telegraph in two different languages. Aside from our
-conversation, I would occasionally send a control code to your receiving
-device to change from the mode of "English language" into the "French
-language" mode. The computer instruction *attunes* the receiver to a different
-*mode* of listening. In our case, it transforms a English language machine
-into a French language one. It is in that sense that the "programmatic sign"
-acquires a non-representational, "tactical" character. Stripped of references,
-resemblances, and designations the innocuous formatting layer commands and
-controls.
+through code is the essence of formatting. Were you to communicate by
+telegraph in two different languages with a friend, for example, imagine
+occasionally sending a signal to your partner's device that indicated a change
+in the transmission language. Thus besides whatever message you were sending,
+you would also send a code switching the receiving apparatus from the "English
+language" into the "French language" mode. Such an instruction would *attunes*
+the receiver to a different mode of apprehension. In our example, it would
+transform an English language machine into a French language one. It is in
+that sense of attunement that the "programmatic sign" acquires a
+non-representational, "tactical" character. Stripped of references,
+resemblances, and designations the programmatic sign commands and controls.
 
+Yet despite the formative impact on the structure of comprehension, the
+programmatic sign does not often figure in our theories of meaning making.
+Instead, we erroneously consign it to the ornamental "formatting" layer of
+document structure. We do so at our peril. Unlike passive traditional
+decorative elements like fleurons, hederas, and other dingbats, the
+programmatic sign actively molds text to context. At the maximally blunt limit
+of its abilities, the formatting layer affects visibility. It selectively
+renders some words and sentences, while suppressing others, for example.
 Unlike figurative language, formatting codes and programming languages
-function in the imperative. They do not stand for action, they are action.
+function in the imperative. They do not stand for action---they are action.
 More binding than J.L. Austin's "speech acts," control codes arrange and
 regulate. The difference between representation and control is one of brute
 force. It lies in the distinction between a restraining order and physical
 restraint. A restraining order *represents* the calling forth of codified
 power. Physical restraints, like the plastic handcuffs widely used in
 contemporary policing, *enact* the exercise of codified power. Like all
-violence they do not stand for anything. Stripped of references, resemblances,
-and designations, they are in themselves an arrangement and a rearrangement of
-matter. The handcuffs contort the body into the shape of submission. Absent a
-body, the restraints draw an empty shape.
+violence they do not stand for anything.  Stripped of references,
+resemblances, and designations, they are in themselves an arrangement and a
+rearrangement of matter. The handcuffs contort the body into the shape of
+submission. Absent a body, the restraints draw an empty shape.
 
-Code acts similarly to shape the word. Yet, literary-theoretical discourse
-usually consigns formatting to the status of superfluous decoration.
-Consequently, definitive histories of the paragraph, the line, or the page
-await their author. Located somewhere between idea and material, formatting
-relates content to matter. It mediates. Think of a paragraph, for example. By
-convention, writers use paragraphs to break up the flow of monolithic thought
-on a page. The paragraph contains information. Emptied of content, it simply
-ceases to exist. Can there be an empty paragraph? Can the shape of the
-paragraph persist outside of the material confines of the page or the screen?
-Can we imagine, for example, a paragraph that unfolds spatially not in two
-dimensions, but in one, along a straight line? What about a three dimensional
-paragraph? Can we imagine a cube of words instead of a rectangle? These
-questions boggle the mind because the paragraph draws a singular shape. It is
-a textual container of a type. Any other shape less or more than the paragraph
-would go by another name. It would simply constitute another format. To
-imagine something like a one-dimensional paragraph is akin to imagining a flat
-shoebox. Such a container could no longer hold shoes. It would hold something
-else, like images of footwear. Similarly, a paragraph identifies a particular
-arrangement of elements. It is a box and a data structure of a shape, capable
-of holding other arrangements of information like words and sentences.
+Code acts similarly to shape the word. Located somewhere between idea and
+material, formatting relates content to matter. It mediates. Think of a
+paragraph, for example. By convention, writers use paragraphs to break up the
+flow of monolithic thought on a page. The paragraph contains information.
+Emptied of content, it simply ceases to exist. Can there be an empty
+paragraph? Can the shape of the paragraph persist outside of the material
+confines of the page or the screen?  Can we imagine, for example, a paragraph
+that unfolds spatially not in two dimensions, but in one, along a straight
+line? What about a three dimensional paragraph? Can we imagine a cube of words
+instead of a rectangle? These questions boggle the mind because the paragraph
+draws a singular shape. It is a textual container of a type. Any other shape
+less or more than the paragraph would go by another name. It would simply
+constitute another format. To imagine something like a one-dimensional
+paragraph is akin to imagining a flat shoebox. Such a container could no
+longer hold shoes. It would hold something else, like images of footwear.
+Similarly, a paragraph identifies a particular arrangement of elements. It is
+a box or a data structure of a shape, made to hold words and sentences. Like
+nesting dolls, words in stenches are in themselves data structures that
+contain further, smaller arrangements of information.
 
 One could say, what of a paragraph? It is merely one box among many. It has
 only an instrumental function to help get the point across. The meat of
