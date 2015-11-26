@@ -50,15 +50,15 @@ Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive traditional
 decorative elements like fleurons, hederas, and other dingbats, the
 programmatic sign actively molds text to context. At the maximally blunt limit
-of its abilities, the formatting layer affects visibility. It selectively
-renders some words and sentences, while suppressing others, for example.
-Unlike figurative language, formatting codes and programming languages
-function in the imperative. They do not stand for action---they are action.
-More binding than J.L. Austin's "speech acts," control codes arrange and
-regulate. The difference between representation and control is one of brute
-force. It lies in the distinction between a restraining order and physical
-restraint. A restraining order *represents* the calling forth of codified
-power. Physical restraints, like the plastic handcuffs widely used in
+of its abilities, the formatting layer affects visibility. It can selectively
+render some words and sentences on the screen, while suppressing others, for
+example. Unlike figurative language, formatting codes and programming
+languages function in the imperative. They do not stand for action---they are
+action.  More binding than J.L. Austin's "speech acts," control codes arrange
+and regulate. The difference between representation and control is one of
+brute force. It lies in the distinction between a restraining order and
+physical restraint. A restraining order *represents* the calling forth of
+codified power. Physical restraints, like the plastic handcuffs widely used in
 contemporary policing, *enact* the exercise of codified power. Like all
 violence they do not stand for anything.  Stripped of references,
 resemblances, and designations, they are in themselves an arrangement and a
@@ -85,21 +85,30 @@ a box or a data structure of a shape, made to hold words and sentences. Like
 nesting dolls, words in stenches are in themselves data structures that
 contain further, smaller arrangements of information.
 
-One could say, what of a paragraph? It is merely one box among many. It has
-only an instrumental function to help get the point across. The meat of
-interpretation lies in the stuff within the container. Words come in many
-other shapes. The container is disposable and therefore insignificant. In this
-chapter, I will argue that the containers of meaning could only seem
-insignificant when they were simple and few in number. The transition between
-static and dynamic layouts necessitates renewed attention to formatting. What
-you saw is what you got on the page. On the screen, what you see is but a
-small part of what you get. The "content"---all that is contained on a page,
-shifts constantly beneath the projected image. To put it another way: the
-computed sign circulates in novel and sophisticated containers like files and
-folders that do much more than hold information passively. And there is little
-that is file-like or page-like in the arrangement of bits along the surface of
-the magnetic disk. We are presented instead with metaphors of pages, files,
-and folders.
+One could say, what of a paragraph? It is merely one container among many. It
+has only an instrumental function to help get the point across. The meat of
+interpretation lies in the stuff within. Words come in other shapes as well.
+The container is disposable and therefore insignificant. In this chapter, I
+will argue that formatting containers could only seem insignificant when they
+were few and simple. The transition between static and dynamic layouts
+necessitates renewed attention to formatting. What you saw is what you got on
+the page. On the screen, what you see is but a small part of what you get. The
+"content"---all that is contained on a page, shifts constantly beneath the
+projected image. To put it another way: the computed sign circulates in novel
+and sophisticated containers like files and folders that do much more than
+hold information passively. And there is little that is file-like or page-like
+in the arrangement of bits along the surface of the magnetic disk. We are
+presented instead with metaphors of pages, files, and folders.
+
+In what follows, we shall unpack the metaphor, revealing structure beneath the
+screen image. In the process, we will have the chance to re-examine the very
+idea of form. Long central to literary-theoretical discourse, "formalism"
+identifies several distinct and often conflicting aspects of the sign.
+Teasing out the intellectual history of form, we will be able to approach the
+particularity of simulated text. Finally, I would like to extend computational
+formalism towards its speculative and as yet unrealized edge cases. In the
+conclusion, we will consider the possibility of literature without language,
+discourse without structure, and art without representation. 
 
 Consider the following passage from a patent for "Electronic Library," filed
 by Xerox in 1991, describing "an electronic library metaphor," which:
