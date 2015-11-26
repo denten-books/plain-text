@@ -100,16 +100,6 @@ hold information passively. And there is little that is file-like or page-like
 in the arrangement of bits along the surface of the magnetic disk. We are
 presented instead with metaphors of pages, files, and folders.
 
-In what follows, we shall unpack the metaphor, revealing structure beneath the
-screen image. In the process, we will have the chance to re-examine the very
-idea of form. Long central to literary-theoretical discourse, "formalism"
-identifies several distinct and often conflicting aspects of the sign.
-Teasing out the intellectual history of form, we will be able to approach the
-particularity of simulated text. Finally, I would like to extend computational
-formalism towards its speculative and as yet unrealized edge cases. In the
-conclusion, we will consider the possibility of literature without language,
-discourse without structure, and art without representation. 
-
 Consider the following passage from a patent for "Electronic Library," filed
 by Xerox in 1991, describing "an electronic library metaphor," which:
 
@@ -122,15 +112,18 @@ by Xerox in 1991, describing "an electronic library metaphor," which:
 
 The invention ultimately allows the "organizing, accessing, and querying of
 information unique to physical libraries in an electronic workstation
-environment" [@pajak_electronic_1992, 1]. I find the very image of "accessing
-a metaphor" odd. In the so-called classical view, metaphors are a type of
-figurative language. To say "the day stands tiptoe on the misty mountain tops"
-is to use the verb "stand" in a novel linguistic context. The day does not
-really stand nor does it have legs. John Searle, John Lakoff, and Mark Turner,
-among others, have argued that metaphors are more broadly a cognitive
-phenomenon. They suggest novel linkages not only between words, but 
-
-operate also on a everyday, cognitive level.
+environment [emphasis mine]" [@pajak_electronic_1992, 1]. The very image of
+"accessing a metaphor" is quite odd. In the so-called classical view,
+metaphors are a type of figurative language. To say "the day stands tiptoe on
+the misty mountain tops" is to use the verb "stand" in a novel linguistic
+context. The day does not really stand nor does it have legs. John Searle,
+John Lakoff, and Mark Turner, among others, have argued that metaphors are
+more broadly a cognitive phenomenon, mapping distinct ontological categories
+across "conceptual domains" [@lakoff_metaphors_1980; @turner_death_1987;
+@lakoff_contemporary_1998, @searle_metaphor_1998]. The transference of
+*physical properties* from one system to another suggests the existence of yet
+another class of metaphors, which exist neither wholly in language nor in the
+mind but in action.
 
 ![](book-metaphor.png "Voyage to the moon")
 
@@ -175,7 +168,7 @@ form: one about the outward shape of the sign and another about the inward
 structure or formula that governs semiotics. The distinction is important
 because it leads to several conflicting strategies of interpretation. Taken in
 the sense of "outwards shape," the form suggests an aesthetics or even an
-"erotics" of art.[@sontag_against_1966] On this view, a sign is forever
+"erotics" of art [@sontag_against_1966]. On this view, a sign is forever
 embedded into the specific contexts of its instantiation. The physical
 peculiarity of this word makes it forever different from the same word on a
 different page. Taken as formula, form suggests a more analytical approach,
@@ -189,8 +182,11 @@ chapter. As I will argue, some of the same intuitions guiding the intellectual
 history of formalism became ingrained in the material contingencies of word
 processing emerging in the middle of the twentieth century. A kind of a
 computational formalism will give us the means to reveal a layer of
-formatting shaping every digital document. Finally, I will end the chapter in
-a discussion about speculative formalism. 
+formatting shaping every digital document. Finally, I would like to extend computational
+formalism towards its speculative and as yet unrealized edge cases. In the
+conclusion, we will consider the possibility of literature without language,
+discourse without structure, and art without representation. 
+
 
 ## Form and Content
 
