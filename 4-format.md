@@ -152,16 +152,24 @@ environment [emphasis mine]" [@pajak_electronic_1992, 1]. The very image of
 "accessing a metaphor" is quite odd. In the so-called classical view,
 metaphors are a type of figurative language. To say "the day stands tiptoe on
 the misty mountain tops" is to use the verb "stand" in a novel linguistic
-context. The day does not really stand nor does it have legs. John Searle,
-John Lakoff, and Mark Turner, among others, have argued that metaphors are
-more broadly a cognitive phenomenon, mapping distinct ontological categories
-across "conceptual domains" [@lakoff_metaphors_1980; @turner_death_1987;
-@lakoff_contemporary_1998, @searle_metaphor_1998]. The transference of
-*physical properties* from one system to another suggests the existence of yet
-another class of metaphors, which exist neither wholly in language nor in the
-mind but in action.
+context. Literally, days have no legs to stand on. John Searle, John Lakoff,
+and Mark Turner, among others, have argued that metaphors are more broadly a
+cognitive phenomenon, mapping distinct ontological categories across
+"conceptual domains" [@lakoff_metaphors_1980; @turner_death_1987;
+@lakoff_contemporary_1998, @searle_metaphor_1998]. In the modified view, even
+such basic semantic concepts as "state, quantity, action, cause, purpose,
+means, modality" are metaphorical in nature [@lakoff_metaphorical_1980;
+@lakoff_contemporary_1998, 212].  Beyond figurative, lyrical language, Lakoff
+and others have argued that metaphors structure everyday experience. Thus the
+analysis of common phrases like "things are looking up" and "I can't get that
+tune out of my mind" reveal the underlying metaphors like "good things are up"
+and "the mind is a container [@lakoff_metaphorical_1980, 195-198].
 
-![](book-metaphor.png "Voyage to the moon")
+The transference of *physical properties* from one system to another suggests
+the existence of yet another class of metaphors, which exist neither wholly in
+language nor in the mind but in action.
+
+![](book-metaphor.png "")
 
 Realizing desktop metaphors on a computer 20140091134A1
 
