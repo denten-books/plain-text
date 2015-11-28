@@ -49,11 +49,11 @@ Yet despite the formative impact on the structure of comprehension, the
 programmatic sign does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive traditional
-decorative elements like fleurons (❦), pilcrows (¶), and other dingbats (✇ ❖
-➿ ) the programmatic sign actively molds text to context. At the maximally
-blunt limit of its abilities, the formatting layer affects visibility. For
-example, it can selectively render some words and sentences on the screen
-while suppressing others.
+decorative elements like fleurons (❦ ❧), daggers and pilcrows (†‡¶), and other
+dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
+maximally blunt limit of its abilities, the formatting layer affects
+visibility. For example, it can selectively render some words and sentences on
+the screen while suppressing others.
 
 Unlike figurative language, formatting codes and programming languages
 function in the imperative. They do not stand for action---they are action.
@@ -98,39 +98,40 @@ layouts necessitates renewed attention to formatting. What you saw is what you
 got on the page. On the screen, what you see is but a small part of what you
 get. The "content"---all that is contained on a page, shifts constantly
 beneath the projected image. To put it another way: the computed sign
-circulates in novel and sophisticated containers like files and folders. More
-than passive conduits of meaning, these formatting structures shape the
-encounter with text.
+circulates in novel and sophisticated containers like files and folders,
+databases and linked lists. More than passive conduits of meaning, these data
+structures shape the encounter with text.
 
-Think of it this way: even the familiar paragraph structure on the page
-presents interesting complications. In shaping typographical space it suggests
-mental units. A paragraph of language is thus also, in some sense, a paragraph
-of thought. But there are no such structures as paragraphs in the mind. Things
-get significantly more complicated when the paragraph acts to mediate between
-the mind and the page on the one side of comprehension, and the page and the
-machine on the other. What I mean is that just like there is nothing
-inherently paragraph-like in the mind, there is also nothing inherently
-paragraph-like or page-like in the arrangement of bits along the surface of
-the magnetic disk. We are presented instead with metaphors of paragraphs,
-pages, files, and folders. When reading electronically, we manipulate familiar
-structures of mediation. Thus one "drops a folder into the trash bin" or
-"drags and drops a file" or "bookmarks a page." The metaphors obscure the
-physical reality of interacting with bits and bytes, logic gates and magnetic
-traces.
+Think of it this way: even the familiar paragraph structure presents
+interesting complications. In shaping typographical space on the page the
+paragraph suggests corresponding mental units. A unit of language is thus
+also, in some sense, a unit of thought. But no such structures as paragraphs
+exist in the mind. The brain arranges information otherwise at the level of
+physiology. Things get significantly more complicated when the paragraph acts
+to mediate between the mind and the page on the one side of comprehension, and
+the page and the machine on the other. Just like there is nothing inherently
+paragraph-like in the neural arrangement of the brain, there is also nothing
+inherently paragraph-like or page-like in the arrangement of bits along the
+surface of the magnetic disk or the solid state drive.  We are presented
+instead with metaphors of paragraphs, pages, files, and folders. When reading
+electronically, we manipulate information through familiar mediating
+structures. Thus one "drops a folder into the trash bin" or "drags and drops a
+file" or "bookmarks a page." The metaphors obscure the physical reality of
+interacting with bits and bytes, logic gates and magnetic traces.
 
-Bits and bytes differ from files and folders, pages and paragraphs in what the
-can do. The affordances of the physical medium differ drastically from
-affordances of the simulated one. In the metaphorical substitution readers are
-transfer the facility they have with manipulating one sort of media (paper) to
-another (pixels). But what they gain in facility, they lose in faculty.
-Alienated from the actual physical structures of information storage and
-retrieval, the reader is given access to the metaphor alone. Thus we "turn the
-page" but in reality redraw the screen. We "highlight a passage" but in
-reality send information about the highlighted passage to a data aggregation
-service. We "share a book" but in reality assign a temporary license to
-another user. Where is the text? someone asks. It is in my "home" I answer,
-without having a mental map of any physical locations. When confronted with
-the actual affordances of digital text, as when downloading a file for
+Bits and bytes differ from files and folders, pages and paragraphs in what
+they can do. The affordances of the physical medium differ drastically from
+affordances of the simulated one. The metaphorical substitution encourages
+readers to extend the facility they have with manipulating one sort of media
+paper and ink to another, screen and pixels. But what they gain in facility,
+they lose in faculty. Alienated from the actual physical structures of
+information storage and retrieval, the reader gains access to the metaphor
+alone. Thus we "turn the page" but in reality redraw the screen. We "highlight
+a passage" but in reality send information about the highlighted passage to a
+data aggregation service. We "share a book" but in reality assign a temporary
+license to another user. Where is the text? someone asks. It is in my "home" I
+answer, without having a mental map of any physical location. When confronted
+with the actual affordances of digital text, as when downloading a file for
 example, the "user" grasps for neutered metaphors. We "reside" in such homes,
 "own," "share," and "create" only in the simulacrum.
 
