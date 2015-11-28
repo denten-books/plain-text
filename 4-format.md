@@ -9,7 +9,7 @@ virtual reality, reality television, and the like. I am only now beginning to
 comprehend the extent of the simulation. Computers, the ultimate metaphor
 machines, mediate experience ubiquitously. They interject in simple everyday
 acts from drinking coffee in the morning, through brewing and payment systems,
-to going to bed as alarm clock and night activity monitor.
+to going to bed as alarm clocks and night activity monitors.
 
 Baudrillard writes:
 
@@ -39,19 +39,19 @@ imagine also sending a signal to your partner's device that indicated a change
 in the transmission language. Thus in addition to the message you were
 sending, you would also send a code switching the receiving apparatus from the
 "English language" into the "French language" mode. Such an instruction would
-*attune* the receiver to a different mode of apprehension.  In our example, it
+*attune* the receiver to a different mode of apprehension. In our example, it
 would transform an English language machine into a French language one. It is
-in that sense of attunement that the "programmatic sign" acquires a
+in that sense of attunement that the "programmatic sign" acquires its
 non-representational, "tactical" character. Stripped of references,
 resemblances, and designations the programmatic sign commands and controls.
 
 Yet despite the formative impact on the structure of comprehension, the
 programmatic sign does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
-document structure. We do so at our peril. Unlike passive traditional
-decorative elements like fleurons (❦ ❧), daggers and pilcrows (†‡¶), and other
-dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
-maximally blunt limit of its abilities, the formatting layer affects
+document structure. We do so at our peril. Unlike passive decorative elements
+like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and
+other dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context.
+At the maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others.
 
@@ -63,10 +63,10 @@ force. It lies in the distinction between a restraining order and physical
 restraint. A restraining order *represents* the calling forth of codified
 power. Physical restraints, like the plastic handcuffs widely used in
 contemporary policing, *enact* the exercise of codified power. Like all
-violence they do not stand for anything.  Stripped of references,
-resemblances, and designations, they are in themselves an arrangement and a
-rearrangement of matter. The handcuffs contort the body into the shape of
-submission. Absent a body, the restraints draw an empty shape.
+violence they do not stand for anything. Stripped of references, resemblances,
+and designations, they are in themselves an arrangement and a rearrangement of
+matter. The handcuffs contort the body into the shape of submission. Absent a
+body, the restraints draw an empty shape.
 
 Code acts similarly to shape the word. Located somewhere between idea and
 material, formatting relates content to matter. It mediates by imposing
@@ -85,7 +85,7 @@ paragraph is akin to imagining a flat shoebox. A flat shoebox could no longer
 hold shoes. It would contain something else, like images of footwear.
 Similarly, a paragraph identifies a particular arrangement of elements. It is
 a box or a data structure of a shape, made to hold words and sentences. Like
-nesting dolls, words in stenches are in themselves data structures that
+nesting dolls, words and sentences are in themselves data structures that
 contain further, smaller arrangements of information.
 
 One could say, what of a paragraph? It is merely one type of a container among
@@ -106,13 +106,13 @@ Think of it this way: even the familiar paragraph structure presents
 interesting complications. In shaping typographical space on the page the
 paragraph suggests corresponding mental units. A unit of language is thus
 also, in some sense, a unit of thought. But no such structures as paragraphs
-exist in the mind. The brain arranges information otherwise at the level of
-physiology. Things get significantly more complicated when the paragraph acts
+exist in the mind. At the level of physyology, the brain arrays information
+otherwise. Things get significantly more complicated when the paragraph acts
 to mediate between the mind and the page on the one side of comprehension, and
 the page and the machine on the other. Just like there is nothing inherently
 paragraph-like in the neural arrangement of the brain, there is also nothing
 inherently paragraph-like or page-like in the arrangement of bits along the
-surface of the magnetic disk or the solid state drive.  We are presented
+surface of the magnetic disk or the solid state drive. We are presented
 instead with metaphors of paragraphs, pages, files, and folders. When reading
 electronically, we manipulate information through familiar mediating
 structures. Thus one "drops a folder into the trash bin" or "drags and drops a
@@ -123,17 +123,18 @@ Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
 affordances of the simulated one. The metaphorical substitution encourages
 readers to extend the facility they have with manipulating one sort of media
-paper and ink to another, screen and pixels. But what they gain in facility,
-they lose in faculty. Alienated from the actual physical structures of
-information storage and retrieval, the reader gains access to the metaphor
+(paper and ink) to another (screen and pixels). But what readers gain in
+facility, they lose in faculty. Alienated from the actual physical structures
+of information storage and retrieval, reader gain access to the metaphor
 alone. Thus we "turn the page" but in reality redraw the screen. We "highlight
 a passage" but in reality send information about the highlighted passage to a
 data aggregation service. We "share a book" but in reality assign a temporary
 license to another user. Where is the text? someone asks. It is in my "home" I
-answer, without having a mental map of any physical location. When confronted
-with the actual affordances of digital text, as when downloading a file for
-example, the "user" grasps for neutered metaphors. We "reside" in such homes,
-"own," "share," and "create" only in the simulacrum.
+answer, without having a mental map of any physical location corresponding to
+the "home" directory, the default location of personal files on many systems.
+When confronted with the actual affordances of digital text, as when
+downloading a file for example, the user grasps for neutered metaphors. We
+"reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
 Consider the following passage from a patent for "Electronic Library," filed
 by Xerox in 1991, describing "an electronic library metaphor," which:
