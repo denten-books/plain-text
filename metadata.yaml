@@ -1,11 +1,17 @@
 ---
-title: "Plain Text: The Poetics of Human-Computer Interaction (Sample Chapters)"
+title: "Plain Text"
+subtitle: "The Poetics of Human-Computer Interaction (Sample Chapters)"
 author: "Dennis Tenen"
-style: pass-ins/csl/chicago-note.csl
-bibliography: plain-text.bib
+style: "~/bin/write-support/csl/mla-note.csl"
+bibliography: "plain-text.bib"
 toc: true
-documentclass: article
+lof: true
+lot: true
+fontfamily: fbb
 cover-image: images/steno.png
+documentclass: book
+classoption: none
+geometry:
 header-includes:
 - \usepackage{ftnxtra}
 - \usepackage{titlesec}
@@ -14,6 +20,5 @@ header-includes:
 - \pagestyle{fancy}
 - \rhead{draft copy | do not circulate}
 - \lhead{}
-
 ---
 

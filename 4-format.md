@@ -33,15 +33,17 @@ a continuous, affective whole. Roman Jakobson called such construction and
 deconstruction of meaning the "profuse exchange of ritualized formulas" or the
 phatic function of language [@malinowski_problem_1923, 146;
 @jakobson_closing_1960, 355]. In the phatic function lies the essence of
-formatting. Imagine communicating by telegraph in two different languages with
-a friend, for example. Occasionally, besides whatever else you wanted to say,
-imagine also sending a signal to your partner's device that indicated a change
-in the transmission language. Thus in addition to the message you were
-sending, you would also send a code switching the receiving apparatus from the
-"English language" into the "French language" mode. Such an instruction would
-*attune* the receiver to a different mode of apprehension. In our example, it
-would transform an English language machine into a French language one. It is
-in that sense of attunement that the "programmatic sign" acquires its
+formatting.
+
+Imagine communicating by telegraph in two different languages with a friend,
+for example. Occasionally, besides whatever else you wanted to say, imagine
+also sending a signal to your partner's device that indicated a change in the
+transmission language. Thus in addition to the message you were sending, you
+would also send a code switching the receiving apparatus from the "English
+language" into the "French language" mode. Such an instruction would *attune*
+the receiver to a different mode of apprehension. In our example, it would
+transform an English language machine into a French language one. It is in
+that sense of attunement that the "programmatic sign" acquires its
 non-representational, "tactical" character. Stripped of references,
 resemblances, and designations the programmatic sign commands and controls.
 
@@ -49,11 +51,12 @@ Yet despite the formative impact on the structure of comprehension, the
 programmatic sign does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
-like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and
-other dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context.
-At the maximally blunt limit of its abilities, the formatting layer affects
+like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
+dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context.  At
+the maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
-the screen while suppressing others.
+the screen while suppressing others. To hide the text from view completely or
+to make so small as to be illegible is, after all, a property of formatting.
 
 Unlike figurative language, formatting codes and programming languages
 function in the imperative. They do not stand for action---they are action.
@@ -106,7 +109,7 @@ Think of it this way: even the familiar paragraph structure presents
 interesting complications. In shaping typographical space on the page the
 paragraph suggests corresponding mental units. A unit of language is thus
 also, in some sense, a unit of thought. But no such structures as paragraphs
-exist in the mind. At the level of physyology, the brain arrays information
+exist in the mind. At the level of physiology, the brain arrays information
 otherwise. Things get significantly more complicated when the paragraph acts
 to mediate between the mind and the page on the one side of comprehension, and
 the page and the machine on the other. Just like there is nothing inherently
@@ -129,12 +132,19 @@ of information storage and retrieval, reader gain access to the metaphor
 alone. Thus we "turn the page" but in reality redraw the screen. We "highlight
 a passage" but in reality send information about the highlighted passage to a
 data aggregation service. We "share a book" but in reality assign a temporary
-license to another user. Where is the text? someone asks. It is in my "home" I
-answer, without having a mental map of any physical location corresponding to
-the "home" directory, the default location of personal files on many systems.
-When confronted with the actual affordances of digital text, as when
-downloading a file for example, the user grasps for neutered metaphors. We
-"reside" in such homes, "own," "share," and "create" only in the simulacrum.
+license to another user. Where is the text? someone asks.[^ln4-nested] It is
+in my "home" I answer, without having a mental map of any physical location
+corresponding to the "home" directory, the default location of personal files
+on many systems.  When confronted with the actual affordances of digital text,
+as when downloading a file for example, the user grasps for neutered
+metaphors. We "reside" in such homes, "own," "share," and "create" only in the
+simulacrum.
+
+[ln4-nested]: They ask about the text in the metaphorical sense. The question
+asks about the location of the information, which is in the "file." The file
+contains text, but it is yet another metaphor identifying a segment of the
+hard drive that actually contains the bits that give rise to the text on the
+screen.
 
 Consider the following passage from a patent for "Electronic Library," filed
 by Xerox in 1991, describing "an electronic library metaphor," which:
@@ -148,7 +158,7 @@ by Xerox in 1991, describing "an electronic library metaphor," which:
 
 The invention ultimately allows the "organizing, accessing, and querying of
 information unique to physical libraries in an electronic workstation
-environment [emphasis mine]" [@pajak_electronic_1992, 1]. The very image of
+environment" [@pajak_electronic_1992, 1]. The very image of
 "accessing a metaphor" is quite odd. In the so-called classical view,
 metaphors are a type of figurative language. To say "the day stands tiptoe on
 the misty mountain tops" is to use the verb "stand" in a novel linguistic
@@ -159,25 +169,54 @@ cognitive phenomenon, mapping distinct ontological categories across
 @lakoff_contemporary_1998, @searle_metaphor_1998]. In the modified view, even
 such basic semantic concepts as "state, quantity, action, cause, purpose,
 means, modality" are metaphorical in nature [@lakoff_metaphorical_1980;
-@lakoff_contemporary_1998, 212].  Beyond figurative, lyrical language, Lakoff
+@lakoff_contemporary_1998, 212]. Beyond figurative, lyrical language, Lakoff
 and others have argued that metaphors structure everyday experience. Thus the
 analysis of common phrases like "things are looking up" and "I can't get that
 tune out of my mind" reveal the underlying metaphors like "good things are up"
 and "the mind is a container [@lakoff_metaphorical_1980, 195-198].
 
-The transference of *physical properties* from one system to another suggests
-the existence of yet another class of metaphors, which exist neither wholly in
-language nor in the mind but in action.
+The transference of *physical properties* from one system to another--from
+"physical libraries" to "electronic workstations environments," in our case--
+suggests the existence of yet another class of *interface* metaphors.
+Metaphors that can be touched and handled in some way exist neither wholly in
+language nor in the mind, but in action. In a seminal paper on the topic, John
+Carrol, one of the pioneers in the field of human--computer interaction,
+summarized the role of metaphors in the design of computing systems as
+follows:
 
-![](book-metaphor.png "")
+> Professional programmers might learn a new system X by metaphorizing at
+least initially from what they already know about system Y. More casual or
+naive end-users might rely on metaphors drawn from more distant knowledge
+domains, e.g. on what they have already learned about electric typewriters.
+The implications of this proposal are simple and direct. If people employ
+metaphors in learning about computing systems, of those systems should
+anticipate and support likely metaphorical constructions to increase the ease
+of learning and using the system [@carroll_metaphor_1982, 107-108]."
 
-Realizing desktop metaphors on a computer 20140091134A1
+In essence, Carroll imagines the design of computer system interfaces that
+enact Lakoff and Johnson's "conceptual blending" in practice. 
 
-John Carrol on Metaphor and the Cognitive Representation of Computer systems
+Xerox a number of patents Stuart Kent Card.
 
-A database method for creativity support Author links open the overlay panel.
-Numbers correspond to the affiliation list which can be exposed by using the
-show more link. Lawrence F Young
+"Word correction metaphor" from microsoft. [@rozak_method_1999].
+
+"The contents of the notebook metaphor are displayed as a stack of sheets."
+"In this wya, the interface in accordance with the invention permits a user to
+directly manipulate the sheets in the notebook metaphor"
+[@glaser_graphical_1995].
+
+![](book-metaphor.png "@card_methods_2006")
+
+International Business Machines a number of patents.
+
+"On-line electronic books are stored in remote storage devices and accessible
+through a server or other type of interface device. A bookcase is created and
+stored in a local storage device. Appropriate electronic links are supplied in
+order to access an electronic book from the bookcase. The bookcase provides a
+library metaphor that allows a user to organize the online books in a manner
+that has meaning and utility to the user."
+
+Bracketing for now the peculiarity of patenting a metaphor.
 
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
@@ -230,7 +269,6 @@ shaping every digital document. Finally, I would like to extend computational
 formalism towards its speculative and as yet unrealized edge cases. In the
 conclusion, we will consider the possibility of literature without language,
 discourse without structure, and art without representation.
-
 
 ## Form and Content
 
