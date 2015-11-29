@@ -3,11 +3,11 @@ title: "Plain Text"
 subtitle: "The Poetics of Human-Computer Interaction (Sample Chapters)"
 author: "Dennis Tenen"
 style: "~/bin/write-support/csl/mla-note.csl"
-bibliography: "plain-text.bib"
+bibliography: plain-text.bib
 toc: true
 mainfont: "fbb"
 cover-image: images/steno.png
-documentclass: book
+documentclass: article
 classoption: none
 header-includes:
 - \usepackage{ftnxtra}
