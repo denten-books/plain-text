@@ -5,13 +5,10 @@ author: "Dennis Tenen"
 style: "~/bin/write-support/csl/mla-note.csl"
 bibliography: "plain-text.bib"
 toc: true
-lof: true
-lot: true
-fontfamily: fbb
+mainfont: "fbb"
 cover-image: images/steno.png
 documentclass: book
 classoption: none
-geometry:
 header-includes:
 - \usepackage{ftnxtra}
 - \usepackage{titlesec}
