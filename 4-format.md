@@ -205,7 +205,11 @@ Xerox a number of patents Stuart Kent Card.
 directly manipulate the sheets in the notebook metaphor"
 [@glaser_graphical_1995].
 
-![](book-metaphor.png "@card_methods_2006")
+!["An exemplary interface for viewing a three dimensional book"
+[@card_methods_2006, 3].](images/book-metaphor.png)
+
+!["Alternate display techniques for information about a big book"
+[@card_methods_2006,4].](images/book-3d.png)
 
 International Business Machines a number of patents.
 
@@ -563,7 +567,7 @@ Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
 (instrumental in developing the notion of formalist poetics) were also
 responding negatively to the Hegelian tradition of reading for deep, symbolic
 interpretation. In a seminal 1917 volume on the "Theory of Poetic Language,"
-Osip Brik writes, mockingly:[^ln3-translate]
+Osip Brik writes, mockingly:[^ln4-translate]
 
 > "The art of poetry is a symbolic art. The language of poetry is a
 symbolic language. Euphony and rhythm are the fair garments that clothe the
@@ -742,12 +746,12 @@ deemed the "sensory experience" or the "erotics" of art. In her now classic
 1966 essay "Against Interpretation," Sontag posits transparency as the
 "highest, most liberating value in art and in criticism today." "Transparency
 means experiencing the luminousness of the thing in itself, of things being
-what they are" she explains [@sontag, 9]. Rather than to show what a work of
-art *means*, Sontag urges critics to show "how it is" and "that it is"
-[@sontag, 10]. To make her argument Sontag relies on the distinction between
-"meaning" or "content" on the one hand and "form" or the "sensory experience"
-of the work on the other. Form, in this sense, mirrors McKeown's "shape" and
-the "text's physical characteristics" of Hayles.
+what they are" she explains [@sontag_against_1966, 9]. Rather than to show
+what a work of art *means*, Sontag urges critics to show "how it is" and "that
+it is" [@sontag_against_1966, 10]. To make her argument Sontag relies on the
+distinction between "meaning" or "content" on the one hand and "form" or the
+"sensory experience" of the work on the other. Form, in this sense, mirrors
+McKeown's "shape" and the "text's physical characteristics" of Hayles.
 
 Interpretation at the level of meaning and content for Sontag is an
 intellectual and ultimately reactionary activity. It aims to find "the maximum
@@ -766,14 +770,15 @@ the production of further critical variations on the theme only adds to the
 dulling clutter.
 
 By "interpretation," Sontag means a "conscious act of the mind" which
-illustrates a "certain code," or "certain rules" of engagement. It is, for her,
-"virtually" a type of translation. The critic "transforms" and "revamps" the
-text: X turns out to be A, Y turns out to be B, and so on [@sontag, 3]. And by
-"form" Sontag means something like the apparent, perceptual properties of the
-work: this sentence is long, for example. And this one short. A critic could
-say that the sentence length means something, but Sontag wants to stop short of
-meaning making. A discipline of careful perception---of paying
-attention---rather sharpens the reader's sensibilities.
+illustrates a "certain code," or "certain rules" of engagement. It is, for
+her, "virtually" a type of translation. The critic "transforms" and "revamps"
+the text: X turns out to be A, Y turns out to be B, and so on
+[@sontag_against_1966, 3]. And by "form" Sontag means something like the
+apparent, perceptual properties of the work: this sentence is long, for
+example. And this one short. A critic could say that the sentence length means
+something, but Sontag wants to stop short of meaning making. A discipline of
+careful perception---of paying attention---rather sharpens the reader's
+sensibilities.
 
 ### Jameson, Marcus, Best.
 
@@ -791,7 +796,7 @@ original message, the original experience, beneath the distortions of the
 various kinds of censorship that have been at work upon it; and this revelation
 takes the form of an explanation of why the content was so distorted and is
 thus inseparable from a description of the mechanisms of the censorship itself
-[@jameson-marxism-firm, 404].
+[@jameson_marxism_1972, 404[.
 
 ### Conclusion
 
@@ -1204,7 +1209,7 @@ generous comments on these passages.
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
 
-[^ln2-translate]: Translations are mine, unless cited otherwise.
+[^ln4-translate]: Translations are mine, unless cited otherwise.
 
 [^ln2-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
