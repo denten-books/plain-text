@@ -171,9 +171,9 @@ out" a book from the electronic library, does not gain access to the book or
 to the metaphor? The traditional theory of the metaphor does not prepare us to
 answer such questions. In the so-called classical view, metaphors are simply a
 type of figurative language. To say "the day stands tiptoe on the misty
-mountain tops" is to use the verb "stand" in a novel linguistic context.  Days
+mountain tops" is to use the verb "stand" in a novel linguistic context. Days
 have no literal legs to stand on. John Searle, John Lakoff, and Mark Turner,
-among others, have argued that metaphors are more broadly a cognitive
+among others, have argued that metaphor is a more broadly a cognitive
 phenomenon, mapping distinct ontological categories across "conceptual
 domains" [@lakoff_metaphors_1980; @turner_death_1987;
 @lakoff_contemporary_1998, @searle_metaphor_1998]. In the modified view, even
@@ -182,7 +182,7 @@ means, modality" are metaphorical in nature [@lakoff_metaphorical_1980;
 @lakoff_contemporary_1998, 212]. Beyond figurative, lyrical language, Lakoff
 and others have argued that metaphors structure everyday experience. Thus the
 analysis of common phrases like "things are looking up" and "I can't get that
-tune out of my mind" reveal the underlying metaphors like "good things are up"
+tune out of my mind" reveals underlying figuration like "good things are up"
 and "the mind is a container [@lakoff_metaphorical_1980, 195-198].
 
 !["An exemplary interface for viewing a three dimensional book"
@@ -195,19 +195,19 @@ The transference of *physical properties* from one system to another--from
 "physical libraries" to "electronic workstations environments," in our case--
 suggests the existence of yet another class of *interface* metaphors.
 Metaphors that can be touched and handled in some way exist neither wholly in
-language nor in the mind, but in action. In a seminal paper on the topic, John
-Carrol, one of the pioneers in the field of human--computer interaction,
-summarized the role of metaphors in the design of computing systems as
-follows:
+language nor wholly in the mind, but also in action, at hand. In a seminal
+paper on the topic, John Carrol, one of the pioneers in the field of
+human--computer interaction, summarized the role of metaphors in the design of
+computing systems as follows:
 
 > Professional programmers might learn a new system X by metaphorizing at
 least initially from what they already know about system Y. More casual or
 naive end-users might rely on metaphors drawn from more distant knowledge
 domains, e.g. on what they have already learned about electric typewriters.
 The implications of this proposal are simple and direct. If people employ
-metaphors in learning about computing systems, of those systems should
-anticipate and support likely metaphorical constructions to increase the ease
-of learning and using the system [@carroll_metaphor_1982, 107-108]."
+metaphors in learning about computing systems, [MISSING WORD] of those systems
+should anticipate and support likely metaphorical constructions to increase
+the ease of learning and using the system [@carroll_metaphor_1982, 107-108]."
 
 In essence, Carroll imagines the design of computer system interfaces that
 enact Lakoff and Johnson's "conceptual blending" in practice. In this way, the
@@ -228,11 +228,18 @@ their file cabinets [@apple_apple_1987, 4].
 
 Apple's designers understood also that the mapping of concepts between the
 physical and the computer-generated worlds is imperfect. For example, unlike a
-real-world file folder, a computer folder can hold a nearly-unlimited amount
-of files. The original image should not therefore limit the possibilities of
-the metaphor's implementation, the manual explains. It further advices to
-"strike a balance between the metaphor's suggested use and the ability of the
-computer to support and extend the metaphor" [@apple_apple_1987, 5].
+real-world file folder, constrained by the size of its containing cabinet, a
+computer folder can hold a nearly unlimited amount of files. Or, to be more
+precise, the electronic folder metaphor is subject to *different* constraints
+than those that limit the use of a paper file. The image of the paper file
+should not therefore limit the possibilities of the metaphor's implementation,
+the manual explains. It further advices to "strike a balance between the
+metaphor's suggested use and the ability of the computer to support and extend
+the metaphor" [@apple_apple_1987, 5]. And being a universal symbolic
+manipulator, the Turing machine is able to extend all metaphors. That is not
+to say that it can *do* anything. One cannot use a computational device to
+hammer nails, for example. But a computer can be used to extend the metaphor
+of hammering nails into the virtual realm.
 
 Xerox a number of patents Stuart Kent Card.
 
