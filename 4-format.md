@@ -1,8 +1,6 @@
 # Chapter 4: Format
 `form, format, formula`
 
-## Metaphor Machine
-
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
@@ -55,8 +53,11 @@ like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞�
 dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context.  At
 the maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
-the screen while suppressing others. To hide the text from view completely or
-to make so small as to be illegible is, after all, a property of formatting.
+the screen while suppressing others. The ability to hide the text from view
+completely or to make so small as to be illegible belong to the non-decorative
+property of the formatting, affecting not just the style but the politics of
+text. Formatting, in that sense, can determine those who get to speak and
+those who get to access.
 
 Unlike figurative language, formatting codes and programming languages
 function in the imperative. They do not stand for action---they are action.
@@ -74,34 +75,35 @@ body, the restraints draw an empty shape.
 Code acts similarly to shape the word. Located somewhere between idea and
 material, formatting relates content to matter. It mediates by imposing
 structure. Think of a paragraph, for example. By convention, writers use
-paragraphs to break up the flow of monolithic thought on a page. The paragraph
-contains information. Emptied of content, it simply ceases to exist. Can there
-be an empty paragraph? Can the shape of the paragraph persist outside of the
-material confines of the page or the screen? Can one imagine a paragraph that
-unfolds spatially not in two dimensions, but in one, along a straight line?
-What about a three dimensional paragraph? Could it take shape as a cuboid
-instead instead of a rectangle? These questions boggle the mind because the
-paragraph draws a singular shape. It is a textual container of a type. Any
-other shape less or more than the paragraph would go by another name. It would
-constitute another format. To imagine something like a one-dimensional
-paragraph is akin to imagining a flat shoebox. A flat shoebox could no longer
-hold shoes. It would contain something else, like images of footwear.
-Similarly, a paragraph identifies a particular arrangement of elements. It is
-a box or a data structure of a shape, made to hold words and sentences. Like
-nesting dolls, words and sentences are in themselves data structures that
-contain further, smaller arrangements of information.
+paragraphs to break up the flow of monolithic "thought" on a page. The
+paragraph contains information. Emptied of content, it simply ceases to exist.
+Can there be an empty paragraph? Can the shape of the paragraph persist
+outside of the material confines of the page or the screen? Can one imagine a
+paragraph that unfolds spatially not in two dimensions, but in one, along a
+straight line?  What about a three dimensional paragraph? Could it take shape
+as a cuboid instead instead of a rectangle? These questions boggle the mind
+because the paragraph draws a singular shape. It is a textual container of a
+type. Any other shape less or more than the paragraph would go by another
+name. It would constitute another format. To imagine something like a
+one-dimensional paragraph is akin to imagining a flat shoebox. A flat shoebox
+could no longer hold shoes. It would contain something else like images of
+footwear. Similarly, a paragraph identifies a particular arrangement of
+elements. It is a box or a data structure of a shape, made to hold words and
+sentences. Like nesting dolls, words and sentences are in themselves data
+structures that contain further, smaller arrangements of information.
 
-One could say, what of a paragraph? It is merely one type of a container among
-many. It has only an instrumental function to help get the point across. The
-meat of interpretation lies in the stuff within. Words come in other shapes
-and sizes. The container is disposable and therefore insignificant. In this
-chapter, I will argue that formatting containers could only seem insignificant
-when they were few and simple. The transition between static and dynamic
-layouts necessitates renewed attention to formatting. What you saw is what you
+One could say, what of such arrangements? Who cares about paragraphs? It is
+merely one type of a container among many. It has only an instrumental
+function to help get the point across. The meat of interpretation lies in the
+stuff within. Words come in other shapes and sizes. The container is
+disposable and therefore insignificant. In this chapter, I will argue to the
+contrary, maintaining that formats could only seem insignificant when they
+were few and simple. The transition between static and dynamic layouts
+necessitates renewed attention to form and format. What you saw is what you
 got on the page. On the screen, what you see is but a small part of what you
 get. The "content"---all that is contained on a page, shifts constantly
 beneath the projected image. To put it another way: the computed sign
-circulates in novel and sophisticated containers like files and folders,
+circulates in novel and sophisticated formats like files and folders,
 databases and linked lists. More than passive conduits of meaning, these data
 structures shape the encounter with text.
 
@@ -119,53 +121,61 @@ surface of the magnetic disk or the solid state drive. We are presented
 instead with metaphors of paragraphs, pages, files, and folders. When reading
 electronically, we manipulate information through familiar mediating
 structures. Thus one "drops a folder into the trash bin" or "drags and drops a
-file" or "bookmarks a page." The metaphors obscure the physical reality of
-interacting with bits and bytes, logic gates and magnetic traces.
+file" or "bookmarks a page." Such metaphors open new figurative
+possibilities---one cannot literally "drag" or "drop" bits otherwise. But they
+also obscure the actual physical contingencies of interacting with bits and
+bytes, logic gates and magnetic traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
 affordances of the simulated one. The metaphorical substitution encourages
 readers to extend the facility they have with manipulating one sort of media
 (paper and ink) to another (screen and pixels). But what readers gain in
-facility, they lose in faculty. Alienated from the actual physical structures
-of information storage and retrieval, reader gain access to the metaphor
-alone. Thus we "turn the page" but in reality redraw the screen. We "highlight
-a passage" but in reality send information about the highlighted passage to a
-data aggregation service. We "share a book" but in reality assign a temporary
-license to another user. Where is the text? someone asks.[^ln4-nested] It is
-in my "home" I answer, without having a mental map of any physical location
+facility, they lose in critical faculty. Alienated from the actual physical
+structures of information storage and retrieval, readers gain access to the
+metaphor alone. Thus we "turn the page" but in reality redraw the screen. We
+"highlight a passage" but in reality send information about the highlighted
+passage to a data aggregation service. We "share a book" but in reality assign
+a temporary license to another user. Where did the text go? someone asks when
+downloading a paper from an online journal.[^ln4-nested] It is in your "home"
+I answer.  But neither of us have a mental map of any physical location
 corresponding to the "home" directory, the default location of personal files
 on many systems.  When confronted with the actual affordances of digital text,
-as when downloading a file for example, the user grasps for neutered
-metaphors. We "reside" in such homes, "own," "share," and "create" only in the
-simulacrum.
+the user grasps for neutered metaphors. We "reside" in such homes, "own,"
+"share," and "create" only in the simulacrum.
 
-[ln4-nested]: They ask about the text in the metaphorical sense. The question
-asks about the location of the information, which is in the "file." The file
-contains text, but it is yet another metaphor identifying a segment of the
-hard drive that actually contains the bits that give rise to the text on the
-screen.
+[ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
+really hold texts. The idea of "text" identifies a segment of stored memory
+coupled with control codes that govern layout and projection in specific
+material context. Together, these diverse signals and physical affordances
+create the illusion of a single text.
 
-Consider the following passage from a patent for "Electronic Library," filed
-by Xerox in 1991, describing "an electronic library metaphor," which:
+## Metaphor Machine
 
-> includes a shared books with data base metaphor, a reference books metaphor,
-> and a card catalog metaphor in one system that allows large object oriented
-> data bases to be organized and accessed in an exclusive environment and in
+Consider the following passage from a patent filed by Xerox in 1991. It
+describes, in its own words, "an electronic library metaphor," which includes:
+
+> a shared books with data base metaphor, a reference books metaphor, and a
+> card catalog metaphor in one system that allows large object oriented data
+> bases to be organized and accessed in an exclusive environment and in
 > addition allows access to screen icons, creates a visual hierarchy of
 > related and shared objects, and allows mutually exclusive access to the
 > metaphors within the library [@pajak_electronic_1992, 1].
 
-The invention ultimately allows the "organizing, accessing, and querying of
+The invention ultimately enables the "organizing, accessing, and querying of
 information unique to physical libraries in an electronic workstation
-environment" [@pajak_electronic_1992, 1]. The very image of
-"accessing a metaphor" is quite odd. In the so-called classical view,
-metaphors are a type of figurative language. To say "the day stands tiptoe on
-the misty mountain tops" is to use the verb "stand" in a novel linguistic
-context. Literally, days have no legs to stand on. John Searle, John Lakoff,
-and Mark Turner, among others, have argued that metaphors are more broadly a
-cognitive phenomenon, mapping distinct ontological categories across
-"conceptual domains" [@lakoff_metaphors_1980; @turner_death_1987;
+environment" [@pajak_electronic_1992, 1]. Setting aside, for a moment, the
+peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
+technical language. What does it mean to "access" a metaphor? When one "checks
+out" a book from the electronic library, does not gain access to the book or
+to the metaphor? The traditional theory of the metaphor does not prepare us to
+answer such questions. In the so-called classical view, metaphors are simply a
+type of figurative language. To say "the day stands tiptoe on the misty
+mountain tops" is to use the verb "stand" in a novel linguistic context.  Days
+have no literal legs to stand on. John Searle, John Lakoff, and Mark Turner,
+among others, have argued that metaphors are more broadly a cognitive
+phenomenon, mapping distinct ontological categories across "conceptual
+domains" [@lakoff_metaphors_1980; @turner_death_1987;
 @lakoff_contemporary_1998, @searle_metaphor_1998]. In the modified view, even
 such basic semantic concepts as "state, quantity, action, cause, purpose,
 means, modality" are metaphorical in nature [@lakoff_metaphorical_1980;
@@ -194,7 +204,29 @@ anticipate and support likely metaphorical constructions to increase the ease
 of learning and using the system [@carroll_metaphor_1982, 107-108]."
 
 In essence, Carroll imagines the design of computer system interfaces that
-enact Lakoff and Johnson's "conceptual blending" in practice. 
+enact Lakoff and Johnson's "conceptual blending" in practice. In this way, the
+familiar gesture of discarding a crumpled piece of paper into the waste bin
+can be simulated digitally to handle the deletion of electronic documents.
+Apple's influential *Human Interface Guidelines*, at the core of Apple's
+desktop interfaces in the 1980s, echo Carroll proscriptions:
+
+> You can take advantage of people's knowledge of the world around them by
+using metaphors to convey concepts and features of your application. Use
+metaphors involving concrete, familiar ideas and make the metaphors plain,
+so that users have a set of expectations to apply to computer environments.
+For example, people often use folders to store paper documents in their
+offices. Therefore, it makes sense to people to store computer documents in
+computer-generated folders that look like files and folders. People can
+organize their hard disks in a way that's analogous to the way they organize
+their file cabinets [@apple_apple_1987, 4].
+
+Apple's designers understood also that the metaphor between the physical and
+the computer-generated worlds is imperfect. Unlike a real-world file folder, a
+computer folder can hold a nearly-unlimited amount of file, the manual
+explains. The original image should not therefore limit the possibilities of
+the metaphor's implementation. "Try to strike a balance," the manual reads,
+"between the metaphor's suggested use and the ability of the computer to
+support and extend the metaphor" [@apple_apple_1987, 5].
 
 Xerox a number of patents Stuart Kent Card.
 
@@ -220,7 +252,7 @@ order to access an electronic book from the bookcase. The bookcase provides a
 library metaphor that allows a user to organize the online books in a manner
 that has meaning and utility to the user."
 
-Bracketing for now the peculiarity of patenting a metaphor.
+Carroll gets it wrong. Metaphors do not enable learning.
 
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
@@ -1319,3 +1351,6 @@ before, and placed on its feet again" (44).  p5
 [^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
 5; @nuttall_new_2007, 6-25.
 
+
+Return to metaphor. Not against metaphor. The paradox. Two sides. Not knowing
+the one side. Actualizing the metaphor.
