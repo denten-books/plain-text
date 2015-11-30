@@ -185,6 +185,12 @@ analysis of common phrases like "things are looking up" and "I can't get that
 tune out of my mind" reveal the underlying metaphors like "good things are up"
 and "the mind is a container [@lakoff_metaphorical_1980, 195-198].
 
+!["An exemplary interface for viewing a three dimensional book"
+[@card_methods_2006, 3].](images/book-metaphor.png)
+
+!["Alternate display techniques for information about a big book"
+[@card_methods_2006,4].](images/book-3d.png)
+
 The transference of *physical properties* from one system to another--from
 "physical libraries" to "electronic workstations environments," in our case--
 suggests the existence of yet another class of *interface* metaphors.
@@ -220,13 +226,13 @@ computer-generated folders that look like files and folders. People can
 organize their hard disks in a way that's analogous to the way they organize
 their file cabinets [@apple_apple_1987, 4].
 
-Apple's designers understood also that the metaphor between the physical and
-the computer-generated worlds is imperfect. Unlike a real-world file folder, a
-computer folder can hold a nearly-unlimited amount of file, the manual
-explains. The original image should not therefore limit the possibilities of
-the metaphor's implementation. "Try to strike a balance," the manual reads,
-"between the metaphor's suggested use and the ability of the computer to
-support and extend the metaphor" [@apple_apple_1987, 5].
+Apple's designers understood also that the mapping of concepts between the
+physical and the computer-generated worlds is imperfect. For example, unlike a
+real-world file folder, a computer folder can hold a nearly-unlimited amount
+of files. The original image should not therefore limit the possibilities of
+the metaphor's implementation, the manual explains. It further advices to
+"strike a balance between the metaphor's suggested use and the ability of the
+computer to support and extend the metaphor" [@apple_apple_1987, 5].
 
 Xerox a number of patents Stuart Kent Card.
 
@@ -236,12 +242,6 @@ Xerox a number of patents Stuart Kent Card.
 "In this wya, the interface in accordance with the invention permits a user to
 directly manipulate the sheets in the notebook metaphor"
 [@glaser_graphical_1995].
-
-!["An exemplary interface for viewing a three dimensional book"
-[@card_methods_2006, 3].](images/book-metaphor.png)
-
-!["Alternate display techniques for information about a big book"
-[@card_methods_2006,4].](images/book-3d.png)
 
 International Business Machines a number of patents.
 
@@ -257,28 +257,29 @@ Carroll gets it wrong. Metaphors do not enable learning.
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
 discarded after purchase, the vessels of computation resemble little factories
-for the production of meaning.  If I ask you to read a text, Shakespeare's
-*Hamlet*, for example, I may be sure that the text in my hands will remain the
-same as I pass it into yours.  But the computed sign has the capability to
-adjust itself to new contexts. The simulated *Hamlet* may adapt itself to the
-new reader's geographic location, mood, or political affiliation. Far from
-being outside of the realm of possibilities, it is likely that in fact, most
-of the texts we consume today come to us in such algorithmically personalized
-way. Algorithms ubiquitously tailor streams of online news and updates, for
-example, to suit readers preferences. Under the computed sign, *nothing* is
-guaranteed in the passage of text from one pair of hands to another. Digital
-formatting expands its purview far beyond typographical convention. The
-erasure of words, word substitution, automatic summarization, wholesale
-generation of discourse by algorithmic means---the command and control layer
-contains all such possibilities. I will begin by identifying a feature of
-formalist thought that has long given me pause. The very concept of form,
-central to literary analysis, contains in it two conflicting ideas. Going back
-to reception of Plato, Hegel, and the Russian formalists, the English "form"
-renders at times the material, outward, and apparent shape of something said
-or pictured. Yet just as often, critics use "form" in the sense of a Platonic
-ideal: abstracted from matter, inward-facing, and in need of explication. Form
-in that sense is closer to the idea of an algorithm of a formula. It is the
-lasting hidden archetype that gives rise to temporary outward appearances.
+for the production of meaning. Imagine me asking you to read Shakespeare's
+*Hamlet*, for example, by lending you a copy of the text. In the case of a
+paper book, I may be sure that the text in my hands will remain the same as I
+pass it into yours.  But the computed sign has the capability to adjust itself
+to new contexts. The simulated *Hamlet* may adapt itself to the new reader's
+geographic location, mood, or political affiliation. Far from being outside of
+the realm of possibilities, it is likely that in fact, most of the texts we
+consume today come to us in such algorithmically personalized way. Algorithms
+ubiquitously tailor streams of online news and updates, for example, to suit
+readers preferences. Under the computed sign, *nothing* is guaranteed in the
+passage of text from one pair of hands to another. Digital formatting expands
+its purview far beyond typographical convention. The erasure of words, word
+substitution, automatic summarization, wholesale generation of discourse by
+algorithmic means---the command and control layer contains all such
+possibilities. I will begin by identifying a feature of formalist thought that
+has long given me pause. The very concept of form, central to literary
+analysis, contains in it two conflicting ideas. Going back to reception of
+Plato, Hegel, and the Russian formalists, the English "form" renders at times
+the material, outward, and apparent shape of something said or pictured. Yet
+just as often, critics use "form" in the sense of a Platonic ideal: abstracted
+from matter, inward-facing, and in need of explication. Form in that sense is
+closer to the idea of an algorithm of a formula. It is the lasting hidden
+archetype that gives rise to temporary outward appearances.
 
 In this chapter, I propose we approach form and formatting anew, with fresh
 eyes. I will begin by arguing first that the intellectual history of formalism
@@ -305,6 +306,8 @@ shaping every digital document. Finally, I would like to extend computational
 formalism towards its speculative and as yet unrealized edge cases. In the
 conclusion, we will consider the possibility of literature without language,
 discourse without structure, and art without representation.
+
+Understanding objects of computation in their metaphysical splendor.
 
 ## Form and Content
 
