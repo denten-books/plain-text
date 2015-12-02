@@ -50,7 +50,7 @@ programmatic sign does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context.  At
+dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
 the maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide the text from view

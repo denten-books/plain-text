@@ -5,39 +5,84 @@ loud noise every three minutes or so. And at every 15 minutes, a pleasant
 female voice announces also "low battery." These precautions are stipulated by
 US National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
 "distinct audible signal before the battery is incapable of operating" is not
-only required by law, it is *built into the device*. The device internalizes
-legislation in its programming. We obtain the condition where the two meanings
-of code---as governance and program instruction---coincide. Code equals code.
+only required by law, it is *encoded into the device*. The device internalizes
+legislation in its programming. Thus we obtain the condition where the two
+meanings of code---as governance and machine instruction---coincide. Code
+equals code.
 
 I am not at home. But I know the alarm is happening because I receive
-notifications of it on another small computational appliance, next to my
-laptop. This appliance also contains most of my book library. Despite the
-appearances, the electronic book reader-library next to my computer has more in
-common with the smoke detector than it does with several paper volumes also
-scattered across my desk. Both devices comprise printed circuit boards,
-capacitors, silicone chips, and resistors. Both draw electric current. Both
-require firmware updates. Both are governed by codes political and
-computational. Both are connected to the network and both communicate: with
-remote data centers and with each other. And yet, I continue to read electronic
-books as if they were familiar, immutable, and passive objects: just books. I
-think of them as intimate artifacts---friends even---wholly known to me,
-comforting, and benign. The literary device is none of these things. It records
-my reading, sleeping, and consumption habits. It comes with a manual and terms
-of service. In short, it *governs* reading. At times, it reconfigures itself
-dynamically, affecting all content I have delegated to the device: books,
-memories, pictures, words, and thoughts.
+notifications of it on my phone---another small computational device, next to
+my laptop. This mobile appliance also contains most of my book library.
+I open the book. But what I mean by "opening a book" is just a metaphor for
+series of odd actions. The book is a small, thin black rectangle: three inches
+wide, five inches tall, and barely a few millimeters thick. A slab of polished
+glass covers it in the front, where the tiny eyes of a camera and a light
+sensor also protrude. At the back, made of a smooth, soft plastic, we find
+another, larger camera. At the foot of the device a grid of small perforations
+indicate breathing room for a speaker and several microphones. To "open" the
+book, I touch the glass, which almost instantly recognizes my fingerprint.  I
+then tap and poke at the glass until I find a small image that represents both
+my library and the book store, where I can purchase book licenses. The
+purchase of such a licence allows me to read the book on this device. To read
+a book, I swipe again with my finger: the screen dims to match to room
+ambiance as words fill the screen. One of the passages appears underlined,
+because a number of other readers in my social circle found the passage
+interesting. My finger slides along the glass to turn the page. The device
+emits a muffled rustle.  The image curls ever so slightly in a way that
+vaguely resembles a page as another page slides into view. My tiny library
+contains over a thousand books.
 
-In the chapters to come, the literary artifact on my desk will come into view
-as a computational device. I will insist on our ability to read such devices
-with the aim of developing a hermeneutics of computational reading. I will
-argue (a) that the material history computing belongs to the history of text
-processing as it does to the history of machine control, (b) that the computer,
-exemplified by the Turing machine, stands at the root of *simulated
-textuality*, and (c) that the simulated sign splits to reside in at least two
-distinct locations, screen and storage medium: the first conspicuous but
-ephemeral, the second enduring but opaque. The "illusion of the simulated text"
-identifies an incongruity between the two sites of reading. The later chapters
-of the book will deal with the cultural consequences of that illusion.
+Despite the appearances, the electronic book reader-library next to my
+computer has more in common with the smoke detector than it does with several
+paper volumes also scattered across my desk. Both devices comprise printed
+circuit boards, capacitors, silicone chips, and resistors. Both draw electric
+current. Both require firmware updates and are governed by codes: political
+and computational. The smoke alarm and the mobile phone are connected to the
+network and both communicate with remote data centers and with each other.
+And yet, I continue to read electronic books as if they were familiar,
+immutable, and passive objects: just books. I think of them as intimate
+artifacts---friends even---wholly known to me, comforting, and warm. The
+electronic book is none of these things. It records my reading, sleeping, and
+consumption habits. It comes with a manual and terms of service. In short, it
+governs reading. At times, it reconfigures itself dynamically, affecting all
+content I have delegated to the device: books, memories, pictures, words, and
+thoughts.
+
+The aim of plain text is to dispel a illusion. The simulated book is but a
+compelling metaphor which obscures new material realities of reading and
+writing. What does it mean to "read" a book that is a metaphor? And what kind
+of a metaphor is it? What is being compared to what? How did it come into
+being and how does it affect practices of literary interpretation? In *Plain
+Text* I will attempt to "come to terms" with the conditions of what I will
+call *simulated textuality*. Drawing on a range of archival materials at the
+intersection of literary thought and the history of modern computing in the
+nineteenth and twentieth century, "Plain Text" examines a number of key
+literary-theoretical constructs, recasting the paper book as a *computational
+object*. Extant theories of interpretation construct a notion of "close
+reading" based on preexisting properties and assumptions attached to static
+print media. By contrast, electronic text changes dynamically to suit its
+reader, cultural context, and geography.  Consequently, I argue for the
+development of a "computational hermeneutics" capable of understanding not
+only the "content" visible at the surface but also the algorithms and the
+control codes animating the literary device.
+
+<!-- revisit this paragraph, because it is duplicated later -->
+<!-- this paragraph introduces too many words, move to later -->
+
+In the chapters to follow, the electronic literary artifact---the thing next
+to my laptop---on my desk will come fully into view as a computational device.
+I will insist on our ability to read such devices with the aim of developing
+what I call the *hermeneutics of computational reading*. I will argue (a) that
+the material history of computing belongs to the history of text processing as
+it does to the history of machine control, (b) that the computer stands at the
+root of *simulated textuality*, and (c) that the simulated sign splits to
+reside in at least two distinct locations, screen and storage medium: the
+first conspicuous but ephemeral, the second enduring but opaque. The "illusion
+of the simulated text" identifies an incongruity between the two sites of
+reading. The later chapters of the book will deal with the cultural
+consequences of that illusion.
+
+<!-- including this one -->
 
 It will take us the rest of the book to come to terms with ambiguous textuality
 in its bifurcated form. For now, I begin merely with the peculiarity of its
@@ -54,59 +99,72 @@ multiply and to spread widely. Like the fine particles of glitter, it is
 difficult to contain. The simulated text falls apart into bits and pixels that
 replicate and tumble about the system.
 
+<!-- by this paragraph we need to explicate the simulated text -->
+<!-- with historical anchoring -->
+
 My challenge in this book lies in the relative paucity of our critical
 vocabulary. We have many theoretical models to address literary phenomena on
 the macro scale: period, genre, style, affect, world literature, etc. Yet the
-particulates of literary production and dissemination on the micro scale go for
-the most part unnamed. To come to terms with the book as a device; to come to
-understand the nature of the text simulation; to perceive the particularity of
-the computed sign: these are roughly the aims of *Plain Text*.
+particulates of literary production and dissemination on the micro scale go
+for the most part unnamed. To come to terms with the book as a device; to
+begin to understand the nature of the text simulation; to perceive the
+particularity of the computed sign: these are the aims of *Plain Text*.
 
 ## Simulated Text
 
-A concern with the contemporary conditions of simulated textuality lead us to a
-rich archive from the history of literary theory, semiotics, telegraphy, and
+<!-- start here instead of the above few paras -->
+<!-- consider taking out encoding entirely -->
+
+A concern with the contemporary conditions of simulated textuality lead us to
+a rich archive from the history of literary theory, semiotics, telegraphy, and
 electrical engineering from the middle of the nineteenth to the middle of the
 twentieth centuries. For text to render on the screen properly it must be
 "encoded" or "translated" from machine-transmittable code into human-readable
-shape. Morse, Hughes, and Baudot alphabets were just some of the early encoding
-schemas that make such translation possible. Encoding constitutes a primitive
-field of textual activity, at the crossroads of software engineering and the
-study of literature. Encoding matters because how text is encoded, transmitted,
-and stored decides who gets to decode, to receive, and to access.
+shape. <!-- elaborate encoding gentle --> Morse, Hughes, and Baudot alphabets
+were just some of the early encoding schemas that make such translation
+possible. Encoding constitutes a primitive field of textual activity, at the
+crossroads of software engineering and the study of literature. Encoding
+matters because how text is encoded, transmitted, and stored decides who gets
+to decode, to receive, and to access.
+
+<!-- come to the legibility question from the perspective of chapter 4 -->
+<!-- legibility of what, of the whole thing -->
+<!-- simulated text and how it obscures the material conditions -->
 
 In drawing the history of character encoding, I want to describe gains and
 losses accrued in the process of translation between machine and human
-languages. And among a multitude of compromises, *legibility* stands as the one
-that entails all others. I am going to repeat a version of the same thesis for
-the duration of the manuscript: without legibility there can be no
-understanding. Most attempts to articulate a liberal ethos, whether built on
+languages. And among a multitude of compromises, *legibility* stands as the
+one that entails all others. I am going to repeat a version of the same thesis
+for the duration of the manuscript: without legibility there can be no
+understanding. Most attempts to articulate a humanist ethos, whether built on
 consensus, narrative, discourse, or contract law, presuppose legibility.
-Without legibility there can be no consensus, narrative, discourse or contract.
-Yet, ever since the Gutenberg press and the vernacular reforms of Martin
-Luther, Western thought has taken legibility for granted. This is because until
-the advent of simulated text, print has remained a remarkably stable medium.
-Attempts to silence print through book burning or censorship are viscerally
-obvious and met with nearly universal disapproval. Device textuality threatens
-to return us to pre-Lutheran times, where legibility was the domain of the
-select few and interpretation the privilege of the chosen. It pains me to write
-these words because they seem to me at once too dire, obvious, and true.
+Without legibility there can be no consensus, narrative, discourse or
+contract. Yet, since advent the Gutenberg press and the vernacular reforms of
+the Lutheran reformation, Western thought has taken legibility for granted.
+<!-- footnote --> This is because until the advent of simulated text, print
+had remained a remarkably stable medium.  Attempts to silence print through
+book burning or censorship are viscerally obvious and met with nearly
+universal disapproval. <!-- what the hell is that occludes, embeds ,
+discretely--> Device textuality <!-- this needs a name --> threatens to return
+us to pre-Lutheran times, where legibility was the domain of the select few
+and interpretation the privilege of the chosen. <!-- we cannot read to some
+extent anymore -->
+
+<!-- this should go up -->
 
 The illusion of ephemerality that follows simulation comes at a price of
 legibility. "Software's ghostly presence produces and defies apprehension,"
 Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
 what happens when all text is a type of software? Friedrich Kittler ends his
-book making on a similar note. In his vision, literature has finally been
-defeated by military-grade encryption, secrecy, and obfuscation
-[@kittler_gramophone_1999, 263]. Unlike censorship or the burning of books,
-such modes of governance *over* the sign are less obvious and more pervasive.
-The simulation-producing nature of computed text helps preserve the outward
-appearance of printed text, while concealing the specifics of control. I mean
-control in the most direct way possible, as a mode of physical regulation and
-barrier to access. The difficulty of *Plain Text* will be in the describing of
-such emerging but often concealed technological contingencies. It will be in
-the finding the right words and in articulating the remaining affordances for
-dissent.
+book on a similar note. In his vision, literature has finally been defeated by
+military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
+263]. Unlike censorship or the burning of books, such modes of governance
+*over* the sign are less obvious and more pervasive.  The simulation-producing
+nature of computed text helps preserve the outward appearance of printed text,
+while concealing the specifics of control. I mean control in the most direct
+way possible, as a mode of physical regulation and barrier to access. The
+difficulty of *Plain Text* will be in the description of such emerging but
+often occluded technological contingencies.
 
 The rise of critical practice in the humanities---such recent developments as
 minimal computing, critical making, and forensic reading---affirm the
@@ -212,10 +270,10 @@ text? The very feasibility of interpretation comes into question.
 
 To trace the hidden flows of textual regulation, of the sort that Friedrich
 Kittler warns us about, must mean more than passive apprehension of signs
-indicating the "evanescent absence" of life.[^ln-lacan] I write *Plain Text* in
-fatigued response to the pervasive post- or anti- humanism that grips
-contemporary criticism of technology. Unlike Kittler, who once wrote that
-"under conditions of high technology, literature has nothing more to
+indicating the "evanescent absence" of life.[^ln-lacan] I write *Plain Text*
+in response to the pervasive post- or anti- humanism that grips contemporary
+criticism of technology. Unlike Kittler, who once wrote that "under conditions
+of high technology, literature has nothing more to
 say,"[@kittler_gramophone_1999, 263] I believe that literature and literary
 analysis continue to have a voice in contemporary life. Technology does not
 silence---it transforms the nature of textual phenomena. The instruments of
@@ -226,11 +284,11 @@ engineer analytical automatons that command on our behalf. Such small acts of
 resistance can recover a measure of agency from the determinism of---take your
 pick: markets, complex systems, unconscious drives, monistic universes, *gaia*
 science, social networks, technology, the singularity, bureaucracy, war.
-Indeed, the possibility of human erasure never strays far from reach, "like the
-face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387]. The
-fragility of life compels not the wager on one's commitment to anti-humanism,
-but the need to mobilize whatever modest available means to preserve a sense of
-agency, against great odds.
+Indeed, the possibility of human erasure never strays far from reach, "like
+the face drawn in the sand at the edge of the sea" [@foucault_order_1994,
+387]. The fragility of life compels not the wager on one's commitment to
+anti-humanism, but the need to mobilize whatever modest available means to
+preserve a sense of agency, against great odds.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to code, system, and device. For
@@ -711,14 +769,4 @@ figurative---spatial, literary, technological---to those being displaced
 unwillingly, to those exiled within and without, to those who understand the
 need for self-displacement, to those who transgress purposefully, and to those
 willing to trespass.
-
-## Odds and Ends
-
-Drawing from the discussion between philosophers Gerard Genette and Nelson
-Goodman on the nature of textual copies, I take up "reading" from the
-perspective of a copy machine, which "sees" pages as monolithic images. The
-machine deconstruction unveils the crisis of authenticity related to the
-plummeting costs of digital reproduction. The supposedly "dead" authors
-continue to draw checks from copyrighted work. Legal fictions rise to veil the
-emerging affordances of textual technology.
 

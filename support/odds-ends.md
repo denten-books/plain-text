@@ -149,6 +149,16 @@ Rocky Acosta under CC Attribution 3.0 license.](images/half-turing.jpg)
 
 # Chapter 5: Control
 
+## Odds and Ends from intro
+
+Drawing from the discussion between philosophers Gerard Genette and Nelson
+Goodman on the nature of textual copies, I take up "reading" from the
+perspective of a copy machine, which "sees" pages as monolithic images. The
+machine deconstruction unveils the crisis of authenticity related to the
+plummeting costs of digital reproduction. The supposedly "dead" authors
+continue to draw checks from copyrighted work. Legal fictions rise to veil the
+emerging affordances of textual technology.
+
 End with unmediated thought !!!
 
 ## Attunement
