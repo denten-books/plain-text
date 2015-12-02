@@ -201,131 +201,136 @@ poetics, able regain a measure of control over the material contexts of our
 knowledge production [@chun_enduring_2008; @manovich_software_2013;
 @gitelman_paper_2014; @hu_prehistory_2015].
 
-*Plain Text* makes a historical case for the recovery of textual thought latent
-in the machinery of contemporary computing. Software engineers routinely
-architect technologies that aim at nothing less than a "disruption" of culture:
-from the design of social media to the formation of massive shared archives.
-Because "cultural techniques" are formative of our society as a whole,
-supposedly technical decisions like choosing a text editor, a filing system, or
-a social networking platform cannot be addressed in shallow instrumental terms
-limited to efficacy, speed, or performance. Complex computational systems do
-not give rise to values any more than financial markets do. I find the argument
-to the contrary both pervasive and deeply reactionary. Among the many available
-visions of human--computer interaction, we can chose one that confirms to a
-reasoned ethos, emanating from the human side of the question---whatever the
-reader's politics. Computational hermeneutics encourages "users" to become
-active thinkers, tinkerers, and makers of technology. It treats "binary" and
-"digital" environments as literary systems, amenable to the construction and
-the deconstruction of meaning. I further encourage those who may have
+*Plain Text* makes a historical case for the recovery of textual thought
+latent in the machinery of contemporary computing. <!-- examples --> Software
+engineers routinely build technologies that aim at nothing less than a
+"disruption" of culture: from the design of social media to the formation of
+massive shared archives. Such "cultural techniques" are formative of our
+society as a whole [@leroi-gourhan_gesture_1993; 83-84@siegert_cultural_2015].
+Therefore, supposedly technical decisions like choosing a text editor, a
+filing system, or a social networking platform cannot be addressed in shallow
+instrumental terms limited to efficacy, speed, or performance. Complex
+computational systems do not give rise to ethics any more than financial
+markets do. I find the argument to the contrary both pervasive and deeply
+reactionary. Among the many available visions of human--computer interaction,
+we can chose one that confirms to a humanist ethos, whatever the reader's
+politics. Computational hermeneutics encourages "users" to become active
+thinkers, tinkerers, and makers of technology. It treats "binary" and
+"digital" environments as fluid literary systems, amenable to the construction
+and the deconstruction of meaning. I further encourage those who may have
 considered themselves mere "users" to apply the same critical acuity they
 employ in the close reading of prose and poetry to the understanding of code
-and device.
+and machine.
 
 Even if you are not reading these words on or through a screen, my message has
 reached you through a long chain of symbolic transformations: from the
 mechanical action of the keyboard (on which I am now typing), to the
 arrangement of electrons on magnetic storage media, to the modulation of
 fiber-optic signal, to the shimmer of the flowing liquid crystal display
-rendering the text. In the process of production, it is certain that my words
-were mixed with control codes, affecting the configuration of electrical
-circuits of the device in your lap, in your hand, near to your eye, embedded,
-or embodied. I could say that I bear no responsibility for extending the reach
-of governance so close to the reader. But that would be factually incorrect.
-The choice of my writing implements and my channels of communication affect
-deeply the contexts of interpretation. In aggregate, such choices define the
-ecosystem of knowledge. Close reading limited to the parsing of visible content
-risks missing the concealed machinations of naked circuit control. It looks
-like you are reading a book, but this book changes its internals as it receives
-instructions to inform and to control. For now I ask only, Who controls the
-machine? But were a book also a pill or fused with the neural circuitry of the
+rendering the text. In the process of textual production, printing and
+typesetting, it is certain that my words were mixed with machine language,
+which in turn changed the structure of the devices in your lap, in your hand,
+near to your eye, embedded, or embodied. I could say that I bear no
+responsibility for extending the reach of machine language so close to the
+reader. But that would be factually incorrect. The choice of my writing
+implements and my channels of communication affect deeply the contexts of
+interpretation.  Such choices, in aggregate, define the shared ecosystem of
+knowledge that surrounds us. Traditional strategies of close reading which
+limit interpretation to the parsing of visible content risk missing the
+concealed machinations of naked circuit control. It looks like you are reading
+a book, but this book may change depending on the readers race, gender,
+ethnicity, geography, or political affiliation. Who has agency program the
+device? Were a book also a pill or fused with the neural circuitry of the
 brain, would you know what and whom you were reading?
 
 Much is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making, that is the very opportunity to engage
-in the act of interpretation, begins with text as a material object. In the
-West, it is easy to forget the blunt effectiveness of physical control.  Books
-that are burned or redacted cannot be read at all. Elsewhere, global inequities
-of access to knowledge compel readers to print their own books and build their
-own libraries. Witness the so-called "shadow libraries" of Eastern Europe
-[@tenen_book_2014, @bodo_short_2014], the street book vendors of India and
-Pakistan [@mahmood_copyright_2005, @liang_piracy_2009], and the *samizdat*
-press of Nigeria under circumstances that have been described as "book famine"
-[@okiy_photocopying_2005, @nkiko_book_2014]. Such practices engage in the
-proactive preservation of the literary sphere. Shadow libraries and informal
-book exchange networks create reading publics who affect the means of textual
-production and dissemination. Under duress, readers build homemade knowledge
-infrastructures: they duplicate, distribute, and archive. In the economies that
-reached later stages of capitalism, such infrastructures are commodified.
-Consequently, they disappear from view. For many readers, the technologies that
+political struggle for meaning-making---the very opportunity to engage in the
+act of interpretation---begins with texts as material artifacts. In the West,
+it is easy to forget the blunt effectiveness of physical control. Books that
+are burned or redacted cannot be read at all. Elsewhere, global inequities of
+access to knowledge compel readers to print their own books and build their
+own libraries. Witness the so-called "shadow libraries" of Eastern Europe, the
+street book vendors of India and Pakistan, and the gray market presses of
+Nigeria arising form the country's "book famine."[@mahmood_copyright_2005;
+@okiy_photocopying_2005; @liang_piracy_2009; @tenen_book_2014;
+@bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
+*samizdat*-like practices engage in the proactive preservation of the literary
+sphere. Informal book exchange networks create reading publics that own the
+means of textual production and dissemination. Under duress, readers build
+homemade knowledge infrastructures: they duplicate, distribute, catalog, and
+archive. In late-capitalist economies such infrastructures are commodified.
+Consequently, they disappear from view. For many readers, technologies that
 support reading, writing, and interpretation have passed from tools to fetish.
 We have tender feelings for them and cradle them in our laps. No longer
 comprehensible by the way of the pen or the printing press we imbue them with
 magical powers and thus exist in the state of profound alienation from the
 conditions closet to our mental activity.
 
+<!-- consider explaining the term "affordances" in relation to mumford,
+winner, and sts -->
+
 The overarching aim of the book is therefore to expose the illusion of
 verisimilitude between text on paper and the simulated text on a screen. The
-words may look the same, but the underlying affordances of the medium differ in
-significant detail. As an example, consider a news report that alters important
-details based on the reader's location. Imagine an e-book reader device that
-highlights popular passages of a novel in real time, shortening the less
-popular passages down to their algorithmically distilled summaries. For a
-literary analyst, the instability of medium means analysis cannot be confined
-to reading for surface meaning alone. How will close reading persist when the
-reading device reconfigures the text to fit individual tastes, mood, or
-politics? How would we even agree on the fact that we are reading the same
-text? The very feasibility of interpretation comes into question.
+words may look the same, but the underlying affordances of the medium differ
+in significant detail. As an example, consider a news report that alters
+important details based on the reader's location. Imagine an e-book reader
+device that highlights popular passages of a novel in real time, shortening
+the less popular passages down to their algorithmically distilled summaries.
+For a literary analyst, the instability of the digital medium means analysis
+cannot be confined to reading for surface meaning alone. How can close reading
+persist when reading devices reconfigure the text to fit individual tastes,
+mood, or politics? How would we even agree on the fact that we are reading the
+same text? The very possibility of interpretation comes into question.
 
-To trace the hidden flows of textual regulation, of the sort that Friedrich
-Kittler warns us about, must mean more than passive apprehension of signs
-indicating the "evanescent absence" of life.[^ln-lacan] I write *Plain Text*
-in response to the pervasive post- or anti- humanism that grips contemporary
-criticism of technology. Unlike Kittler, who once wrote that "under conditions
-of high technology, literature has nothing more to
-say,"[@kittler_gramophone_1999, 263] I believe that literature and literary
-analysis continue to have a voice in contemporary life. Technology does not
-silence---it transforms the nature of textual phenomena. The instruments of
-literary analysis should consequently evolve to deal with new technological
-contingencies. Where texts are encrypted, we decrypt. If "automated discourse
-analysis has taken command,"[@kittler_gramophone_1999, 263] then we will
-engineer analytical automatons that command on our behalf. Such small acts of
-resistance can recover a measure of agency from the determinism of---take your
-pick: markets, complex systems, unconscious drives, monistic universes, *gaia*
-science, social networks, technology, the singularity, bureaucracy, war.
-Indeed, the possibility of human erasure never strays far from reach, "like
-the face drawn in the sand at the edge of the sea" [@foucault_order_1994,
-387]. The fragility of life compels not the wager on one's commitment to
-anti-humanism, but the need to mobilize whatever modest available means to
-preserve a sense of agency, against great odds.
+If we hope to trace the hidden flows of computed textuality, as Kittler wrote
+"under conditions of high technology," we must do so from the position of
+humanism. One cannot at the same time lament the systematic erasure of the
+human from the literary process and advocate for post- or anti-humanism.
+Unlike Kittler, who once wrote that in the face of technology "literature has
+nothing more to say," I believe that literature and literary analysis continue
+to have a voice in contemporary life.[@kittler_gramophone_1999, 263]
+Technology does not necessarily silence---it subtly changes the nature of
+textual phenomena. The instruments of literary analysis must consequently
+evolve to deal with new technological contingencies. Where texts are
+encrypted, we decrypt. If as Kittler writes, automated discourse analysis
+threatens to take command, we will engineer automatons that command on our
+behalf.[@kittler_gramophone_1999, 263] Such acts of resistance, small and
+large, can recover a measure of agency from the ruling determinism of---take
+your pick: markets, complex systems, unconscious drives, monistic universes,
+*gaia* science, social networks, technology, the singularity, bureaucracy, or
+war. Indeed, the possibility of human erasure never strays far from reach,
+"like the face drawn in the sand at the edge of the sea"
+[@foucault_order_1994, 387]. The fragility of life compels not the Foucauldian
+wager on anti-humanism, but the need to mobilize whatever modest means
+available for the human to persevere against great odds.
 
 The advent of computational textuality necessitates a computational
-hermeneutics, which enables unfettered access to code, system, and device. For
-now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
-incantations that elicit hidden, symbolic action. Those who wield them gain the
-metaphorical power to "hop" across, to "sniff" packets, to "survey," to
-"traverse," and to "flood" network topographies. Computational hermeneutics
-empower the reader to resist hard-wired models of machine-bound interpretation.
-Yet today, resistance remains within the purview of the few. Plain text
-channels itinerant streams of data back into the tidal pools of human agency
-and comprehension for all. There, code becomes intelligible for the very
-subjects whose loss Kittler laments. Only in such encrypted tunnels and secure
-shells can anything like the digital humanities take root. I am resorting to
-metaphor here as a place holder for things that I cannot yet describe fully.
-Think about them as borrowings against future chapters. Given space, the
-metaphor will give way to precise description.
+hermeneutics, which enables unfettered access to text, code, platform, and
+infrastructure. For now, commands like *xxd*, *pcap*, *ssh*, and *traceroute*
+resemble arcane incantations that elicit hidden, symbolic action. Those who
+wield them gain the metaphorical power to "hop" across, to "sniff" packets, to
+"survey," to "traverse," and to "flood" network topographies. Computational
+hermeneutics empower the reader to resist hard-wired models of machine-bound
+interpretation. Yet today, resistance remains within the purview of the few.
+Plain text channels itinerant streams of data back into the tidal pools of
+human agency and comprehension for all. There, code becomes intelligible for
+the very subjects whose loss Kittler laments. Only in such encrypted tunnels
+and secure shells can anything like the digital humanities take root.
 
-Computational hermeneutics show that not all texts are created equal. In print,
-traditional distinctions between form and content lie flat. The printing press
-firmly embeds letters into paper, leaving no space between ink and page.
-Media-minded critics like Johanna Drucker [@drucker_digital_2001], Katherine
-Hayles [@hayles_print_2004], Matthew Kirschenbaum, and Jerome McGann
-[@mcgann_radiant_2001] urge literary scholars to re-evaluate textuality in its
-media-specific context.  Their work reminds us that the flatness of *digital*
-text endures only as an illusion. Low-level, operational intuitions governing
+Computational hermeneutics reveal that not all texts are created equal. In
+print, traditional distinctions between form and content lie flat. The
+printing press firmly embeds ink into paper, leaving no space between type and
+page. Media-minded critics like Johanna Drucker, Katherine Hayles, Matthew
+Kirschenbaum, and Jerome McGann have urged literary scholars to re-evaluate
+textuality in its media-specific contexts [@drucker_digital_2001;
+@mcgann_radiant_2001; @hayles_print_2004; @kirschenbaum_mechanisms_2008].
+Their work reminds us that the flatness of digital text endures only in the
+guise of an illusion. Low-level, operational intuitions governing
 textuality---ideas about form, content, style, letter, and word---change
 profoundly as text shifts its confines from paper to pixel. A substantial gap
 separates the visible text from the source code that produces it. Forces of
-capital and control exploit that gap, obscuring the workings of the device.
+capital and control exploit that gap, obscuring the workings of the
+device.[^ln-capital]
 
 In *Plain Text*, I will argue that some of the higher--level political
 afflictions of the contemporary public sphere---mass surveillance and online
@@ -777,4 +782,8 @@ figurative---spatial, literary, technological---to those being displaced
 unwillingly, to those exiled within and without, to those who understand the
 need for self-displacement, to those who transgress purposefully, and to those
 willing to trespass.
+
+[^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
+Harcourt have advanced critique along similar lines. See
+@galloway_protocol_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
 
