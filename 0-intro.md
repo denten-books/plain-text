@@ -12,25 +12,26 @@ equals code.
 
 I am not at home. But I know the alarm is happening because I receive
 notifications of it on my phone---another small computational device, next to
-my laptop. This mobile appliance also contains most of my book library.
-I open the book. But what I mean by "opening a book" is just a metaphor for
+my laptop. This mobile appliance also contains most of my book library.  I
+open the book. But what I mean by "opening a book" is just a metaphor for
 series of odd actions. The book is a small, thin black rectangle: three inches
 wide, five inches tall, and barely a few millimeters thick. A slab of polished
 glass covers it in the front, where the tiny eyes of a camera and a light
-sensor also protrude. At the back, made of a smooth, soft plastic, we find
+sensor also protrude. At the back, made of a smooth soft plastic, we find
 another, larger camera. At the foot of the device a grid of small perforations
 indicate breathing room for a speaker and several microphones. To "open" the
-book, I touch the glass, which almost instantly recognizes my fingerprint.  I
-then tap and poke at the glass until I find a small image that represents both
-my library and the book store, where I can purchase book licenses. The
-purchase of such a licence allows me to read the book on this device. To read
-a book, I swipe again with my finger: the screen dims to match to room
-ambiance as words fill the screen. One of the passages appears underlined,
-because a number of other readers in my social circle found the passage
-interesting. My finger slides along the glass to turn the page. The device
-emits a muffled rustle.  The image curls ever so slightly in a way that
-vaguely resembles a page as another page slides into view. My tiny library
-contains over a thousand books.
+book I touch the glass. The machine recognizes my fingerprint almost
+instantly. I then tap and poke at the glass until I find a small image that
+represents both my library and the book store, where I can purchase a book, or
+rather, purchase a licence to read the book on this particular device. To
+begin reading I swipe again with my finger. The screen dims to match to room
+ambiance as words fill the screen. One of the passages on the first page
+appears underlined: a number of other readers in my social circle must have
+found the passage interesting. My finger slides along the glass to turn the
+page. The device emits a muffled rustle, to remind me of the book metaphor.
+The image curls ever so slightly in a way that vaguely resembles a page as
+another page slides into view. My tiny library metaphor contains over a
+thousand books.
 
 Despite the appearances, the electronic book reader-library next to my
 computer has more in common with the smoke detector than it does with several
@@ -166,32 +167,39 @@ way possible, as a mode of physical regulation and barrier to access. The
 difficulty of *Plain Text* will be in the description of such emerging but
 often occluded technological contingencies.
 
-The rise of critical practice in the humanities---such recent developments as
-minimal computing, critical making, and forensic reading---affirm the
-possibility of interpretation under the sign of the simulated text. Humans
-today read more than ever and increasingly that reading passes through some
-form of a computational device. I select "plain text" as a banner for this book
-to signal an affinity with a long-standing mode of interacting with computers
-most closely aligned to the stated aims of the volume. Plain text identifies a
-file format and a frame of mind. As a file format, it contains nothing but a
-"pure sequence of character codes." In technical terms, it stands in opposition
-to *fancy text*: "text representation consisting of plain text plus added
-information."[^ln-uni] The simplicity of plain text signifies systematic
-minimalism with a view towards human comprehension. It privileges legibility
-over all other ideals that may optimize for the good of the system or the
-machine.
+The rise of critical practice in the humanities affirm the possibility of
+interpretation under the sign of the simulated text. <!-- even print books are
+born digital --> An ever increasing number of reading passes through some form
+of a computational device.
 
-As a frame of mind, the use of plain text implies an ethics of reading and
-writing. Added information routinely embedded in all forms of contemporary
-textuality can include more than innocuous document attributes like "font size"
-or "line spacing." Increasingly, devices that mediate literary activity encode
-forms of governance, like the enforcement of intellectual property rights and
-censorship. The use of plain text therefore entails the making visible of
-implicit governing structures. It suggests also that computational control is
-available for *computational hermeneutics*. Building on the recent work of
-scholars like Wendy Kyong Chun, Tung-Hui Hu, Lisa Gitelman, and Lev Manovich, I
-contend that we as readers of code and content are witnessing the erosion of
-legibility; and that we should do something about it.
+I have selected "plain text" as the title of this book to signal an affinity
+with a particular mode of interpretation. In technical terms, *plain text*
+identifies a file format and a frame of mind. As a file format, it contains
+nothing but a "pure sequence of character codes." Plain text stands in
+opposition to *fancy text*: "text representation consisting of plain text plus
+added information."[^ln-uni] In the tradition of American textual criticism,
+"plain text" identifies an editorial method of text transcription which is
+both "faithful to the source" and is "easier to read than the original
+document" [@cook_time-bounded_1972]. Combining these two traditions, I mean
+ultimately to argue for a kind of a systematic minimalism when it comes to our
+use of computers---a minimalism that privileges legibility and human
+comprehension. I do so in contrast with other ideals--like speed or
+efficiency---that may motivate the design of human--computer systems.
+
+More than a format, a frame of mind, the use of plain text implies an ethics
+of reading and writing. Added information routinely embedded in all forms of
+contemporary textuality can include more than innocuous document attributes
+like "font size" or "line spacing." Increasingly, devices that mediate
+literary activity encode forms of governance, like the enforcement of
+intellectual property rights and censorship. The use of plain text therefore
+entails the making visible of implicit governing structures. <!-- example of
+more or less open devices --> The use of plain text also suggests that
+computational control is available for what I term *computational
+hermeneutics*. Building on the recent work of scholars like Wendy Kyong Chun,
+Tung-Hui Hu, Lisa Gitelman, and Lev Manovich, I make the case for an empowered
+poetics, able regain a measure of control over the material contexts of our
+knowledge production [@chun_enduring_2008; @manovich_software_2013;
+@gitelman_paper_2014; @hu_prehistory_2015].
 
 *Plain Text* makes a historical case for the recovery of textual thought latent
 in the machinery of contemporary computing. Software engineers routinely
