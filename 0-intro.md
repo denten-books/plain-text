@@ -64,7 +64,7 @@ book as a *computational object*. I will argue that extant theories of
 interpretation construct a notion of "close reading" based on preexisting
 properties and assumptions attached to static print media. By contrast,
 electronic text changes dynamically to suit its reader, cultural context, and
-geography.  Consequently, I develop a notion of "computational hermeneutics"
+geography. Consequently, I develop a notion of "computational hermeneutics"
 which reach past the "content" visible at the surface of the electronic book
 artifact, to reveal also the software platforms and the hardware
 infrastructures that contribute to the production of meaning.
