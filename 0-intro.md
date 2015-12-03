@@ -111,7 +111,7 @@ for the most part unnamed. To come to terms with the book as a device; to
 begin to understand the nature of the text simulation; to perceive the
 particularity of the computed sign: these are the aims of *Plain Text*.
 
-## Simulated Text
+## 1. Simulated Text
 
 <!-- start here instead of the above few paras -->
 <!-- consider taking out encoding entirely -->
@@ -344,7 +344,7 @@ computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
 
-## Theory and Practice
+## 2. Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Kittler paints at the end of his
@@ -359,7 +359,7 @@ capable of addressing Kittler's challenge took shape as a species of
 materialism that is both pragmatic and experimental. On the way, I found fellow
 travellers who advocate for a more perfect union between theory and practice.
 
-### Pragmatic Materialism
+### 2.1 Pragmatic Materialism
 
 The shifting affordances of digital text challenge some of our deep-seated
 intuitions about literature. The word processor, the electronic book, and the
@@ -447,7 +447,7 @@ textuality intersect and diverge in beautiful and arbitrary ways.
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
 
-### Experimental Methods
+### 2.2 Experimental Methods
 
 As a consequence of its commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
@@ -537,7 +537,7 @@ smelting iron is to make literal the figure suggested by media "archeology" on
 the level of the mechanism. In *Plain Text* we will dig through, unearth, and
 excavate textual machines.
 
-## Structuring Principles
+## 3. Structuring Principles
 
 The tangled strains of thought and practice exist only in relation to specific
 communities of practice. A researcher cannot therefore expect to discover *the*
@@ -625,7 +625,7 @@ storage systems, considered as "furnishings of the mind" that tell us something
 about the way we externalize our thoughts. The book concludes with the concept
 of the human as encoded in the philosophy of the Unix operating system.
 
-## Plan of the Present Work
+## 4. Plan of the Present Work
 
 The passage from keystroke to pixel runs a thread through the book. I begin
 with a few simple questions that lay the grounds for digital textuality: What
@@ -740,7 +740,7 @@ agency of complex systems and (b) a practice of diminishing the scope of human
 freedoms by technological means.
 
 
-## Digital Displacement
+## 5. Digital Displacement
 
 *Plain Text* ultimately enacts a reconciliation of vocabularies. It is a
 response to a particular situation of a literary scholar encountering the field
