@@ -26,12 +26,12 @@ a small image that represents both my library and the book store, where I can
 "purchase" "books." To read this particular volume, I have actually purchased
 a limited licence to receive data, which the software then assembles to
 resemble something like books. To begin reading I swipe again with my finger.
-The screen dims to match to room ambiance as words fill the screen.  One of
-the passages on the first page appears underlined: a number of other readers
-in my social circle must have found the passage interesting. My finger slides
-along the glass surface to turn the page. The device emits a muffled rustle,
-to remind me of the underlying metaphor. The image curls ever so slightly in a
-way that resembles a printed page as another "page" slides into view. My tiny
+The screen dims to match to room ambiance as words fill the screen. One of the
+passages on the first page appears underlined: a number of other readers in my
+social circle must have found the passage interesting. My finger slides along
+the glass surface to turn the page. The device emits a muffled rustle, to
+remind me of the underlying analogy. The image curls ever so slightly in a way
+that resembles a printed page as another "page" slides into view. My tiny
 library metaphor contains over a thousand books.
 
 Despite the appearances, the electronic book reader-library-store next to my
@@ -201,7 +201,6 @@ interpretation under the sign of the simulated text. <!-- even print books are
 born digital --> An ever increasing number of reading passes through some form
 of a computational device.
 
-
 *Plain Text* makes a historical case for the recovery of textual thought
 latent in the machinery of contemporary computing. <!-- examples --> Software
 engineers routinely build technologies that aim at nothing less than a
@@ -348,90 +347,92 @@ bringing computation closer to its humanistic roots.
 ## 2. Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
-capable of addressing the grim picture Kittler paints at the end of his
-influential monograph.[^ln-kittler2] It would be easy to dismiss Kittler as a
-technological romantic or a Luddite. He was neither. Instead I read the
-concluding chapters of *Gramophone, Film, Typewriter* as a call to action. When
-Kittler writes that "media determine our situation,"[@kittler_gramophone_1999,
-xxxix] he challenges his reader to choose between complicity and defiance. What
-can be done to counteract technological determinism? In what follows, I outline
-the intellectual lineages that frame my answer. The search for a hermeneutics
-capable of addressing Kittler's challenge took shape as a species of
-materialism that is both pragmatic and experimental. On the way, I found fellow
-travellers who advocate for a more perfect union between theory and practice.
+capable of addressing the grim picture Friedrich Kittler paints at the end of
+his influential monograph.[^ln-kittler2] Kittler was neither a technological
+romantic nor a Luddite. I read the concluding chapters of *Gramophone, Film,
+Typewriter* as a call to action. When Kittler writes that "media determine our
+situation," he challenges his reader to choose between complicity and defiance
+[@kittler_gramophone_1999, xxxix]. What can we do to counteract technological
+determinism that Kittler warns about? In what follows, I outline several
+intellectual lineages that frame my approach to the problem. A hermeneutics
+capable of addressing Kittler's challenge must be grounded in materialism that
+is both pragmatic and experimental.
 
-### 2.1 Pragmatic Materialism
+### 2.1 Materialism
 
 The shifting affordances of digital text challenge some of our deep-seated
-intuitions about literature. The word processor, the electronic book, and the
-operating system are some of the sites that stage the encounter between
-literary theory and practice. Influenced by several strains in materialist
-thought, *Plain Text* introduces a method of textual microanalysis. Where
-distant reading perceives patterns across large-scale copora, microanalysis
-breaks textuality down into its minute constituent components. It is at this
-scale that I find readers and writers becoming fundamentally alienated from the
-immediate material contexts of knowledge production. Mine is not however a
-post-human materialism of the kind that privileges an object's point view. On
-the contrary, the book aims to remove the aura of fetishism that attaches
-itself to literary--computational artifacts and to complex systems that mediate
-the textual encounter.
+intuitions about literature. The word processor, operating system, and the
+electronic book are some of the sites that stage the encounter between
+literary theory and practice today. In *Plain Text* I introduce a method of
+computational hermeneutics, which is a form of textual analysis strongly
+influenced by materialist critique. Where "distant reading" and cultural
+analytics perceive patterns across large-scale copora, computational
+hermeneutics breaks textuality down into its minute constituent components. It
+is at this scale that I find readers and writers becoming fundamentally
+alienated from the immediate material contexts of knowledge production. Mine
+is not however a post-human materialism of the kind that privileges an
+object's point of view. On the contrary, the book aims to remove the aura of
+fetishism that attaches itself to literary--computational artifacts and to
+complex systems that mediate the textual encounter.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
 powerful tools for analysis and resistance against technological
 determinism.[^ln-determine] But as Max Horkheimer wrote, "the issue is not
 simply the theory of emancipation; it is the practice of it as well"
-[@horkheimer_critical_1982, 233]. Recently, scholars like Kathleen Fitzpatrick,
-Tiziana Terranova, and Trebor Scholz have began to turn the tools of critical
-theory towards the instrumental contexts of knowledge production
-[@liu_laws_2004; @fitzpatrick_planned_2011]. I join them to argue that in
-treating the instruments of intellectual production (and consumption)
-uncritically, all of us---readers and writers---accumulate an ethical debt,
-owed to ourselves and to the world.
+[@horkheimer_critical_1982, 233]. Recently, scholars like Kathleen
+Fitzpatrick, Tiziana Terranova, and Trebor Scholz have began to turn the tools
+of critical theory towards the instrumental contexts of knowledge production
+[@scholz_digital_2013; @fitzpatrick_planned_2011; @terranova_network_2004]. I
+join them to argue that in treating the instruments of intellectual production
+and consumption uncritically, all of us---readers and writers---accumulate an
+ethical debt.
 
 For example, it is one thing to theorize about the free movement of literary
-tropes across cultures and continents, and quite another to have that sentiment
+tropes across cultures and continents, and quite another to have that theory
 appear in print behind paywalls inaccessible to most global reading publics.
 Similarly, a theoretical distinction between form and content, when
 instantiated in specific file formats like Microsoft Word (`.docx`) or Adobe
-Reader (`.pdf`), enacts a material division of labor between editors,
-proofreaders, book sellers, and offshore typesetting shops.[^ln-sweatshop] One
-group trades "content" in the economy of prestige, another "formatting" in the
-economy of survival, and yet another controls distribution in the market
-economy, for profit.
+Reader (`.pdf`), establishes divisions of labor between editors, proofreaders,
+book sellers, and offshore typesetting firms.[^ln-sweatshop] One group trades
+"content" in the economy of prestige, another "formatting" in the economy of
+survival, and yet another controls distribution in the market economy, for
+profit.
 
 Distinctions of labor will remain in place as long as the conversation about
 ideas like "form" and "content" persists in the abstract. Materialist critique
-cannot achieve its stated aims without purchase on the material world. By
-grounding theory in practice, *Plain Text* constitutes a concerted effort to
-repay the debt of materialism. Complex systems that support the life of the
-mind today often lie beyond an individual's powers of understanding or control.
-In almost a decade of teaching critical computing in the humanities, I
-routinely encountered otherwise informed people who nevertheless felt
-hopelessly estranged from the tools of their everyday intellectual activity. I
-suspect that much of the metaphysical angst directed against computation in
-general is really a symptom of that basic alienation. Contemporary knowledge
-workers stare into rectangular black boxes for a considerable part of their
-days, suspecting, in the absence of other feedback, that their gaze is met in
-bad faith.
+cannot achieve its stated aims without purchase on the material world. My hope
+is that by grounding theory in practice, *Plain Text* can begin to repay the
+debt accrued by materialism divorced from matter. Complex systems that support
+the life of the mind today seem to lie beyond understanding or agency. In
+almost a decade of teaching critical computing in the humanities, I routinely
+encountered otherwise informed people who nevertheless felt hopelessly
+estranged from the tools of their everyday intellectual activity. I suspect
+that much of the metaphysical angst directed against computation in general is
+really a symptom of that basic alienation. Contemporary knowledge workers
+stare into rectangular black boxes for a considerable part of their days,
+suspecting, in the absence of other feedback, that their gaze is met in bad
+faith.
 
-Connecting *theories* of meaning--making to the *practices* of meaning--making
+### 2.2 Experimentalism
+
+Connecting theories of meaning--making to the practices of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
-misalignment between thought and action. The solution to connect "meaning" with
-"operational meaning" belongs to a species of pragmatism. William James
+misalignment between thought and action. The solution to connect "meaning"
+with "operational meaning" belongs to a species of pragmatism. William James
 articulated that view concisely when he wrote that "reality is seen to be
 grounded in a perfect jungle of concrete expediencies"
 [@james_pragmatisms_1907]. For James and other pragmatists, truth could not
-exist in the abstract. It entailed causes and effects that operate in the
-world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of Truth," James
-asked: "How will the truth be realized? What concrete difference will its being
-true make in anyone's actual life? What experiences will be different from
-those which would obtain if the belief were false?" Frank Ramsey, the young
-British philosopher close to Ludwig Wittgenstein would later write in a similar
-vein about meaning as "defined by reference to the actions"
+exist in the abstract alone. It entailed also causes and effects that operate
+in the world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of
+Truth," James asked: "How will the truth be realized? What concrete difference
+will its being true make in anyone's actual life? What experiences will be
+different from those which would obtain if the belief were false?" Frank
+Ramsey, the young British philosopher close to Ludwig Wittgenstein would later
+write in a similar vein about meaning as "defined by reference to the actions"
 [@ramsey_foundations_2013, 155].[^ln-pragmatism]
 
-For the pragmatist, truth-carrying propositions of the shape "X is" (as in,
+For the pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
 "When?," "For whom?," and "What's at stake in maintaining that?" Following the
 pragmatic insight of James and Ramsey, I will proceed with the conviction that
@@ -442,54 +443,30 @@ Investigations*, categories denote a set of "family" practices that may or may
 not share in any given familial characteristic
 [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
 model, imagine a tree diagram, where the tangled branches of computation and
-textuality intersect and diverge in beautiful and arbitrary ways.
+textuality intersect and diverge in beautiful and yet arbitrary ways.
 
-[^ln1-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
+<!-- this section is way underdeveloped, bring in the citation into the text,
+possibly dewey and technics and perhaps do bring this human-computer
+interaction  connect to experimentalism-->
 
-### 2.2 Experimental Methods
-
-As a consequence of its commitment to a pragmatic materialism, *Plain Text*
+As a consequence of my commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
-disciplines. Writing in the mid-19th century against the tradition of
-"inductive generalizers," Claude Bernard was one of the first physicians to
-argue for the necessity of experimentation in medical practice. "We cannot
-separate the two things," he wrote, "head and hand." He went on to write that
-"the science of life is a superb and dazzlingly lighted hall which may be
-reached only by passing through a long and ghastly kitchen." "We shall reach
-really fruitful and luminous generalizations about vital phenomena only in so
-far as we ourselves experiment and, in hospitals, amphitheaters, or
-laboratories stir the fetid or throbbing ground of life"
-[@bernard_introduction_1957, 3-15]. Today, the lighted halls of literary and
-media theory lead to the scholar's workshop.
+disciplines. When beginning the project, I was initially inspired by the
+writings of a little-known but influential ninetieth century French physician,
+who was one of the first researchers to incorporate experimentation into
+medical practice.[^ln-bernard] Writing against the tradition of "inductive
+generalizers," Bernard believed that medicine could only advance by "direct
+and rigorous application of reasoning to the facts furnished us by observation
+and experiment." "We cannot separate the two things," he wrote, "head and
+hand." He went on to write that "the science of life is a superb and
+dazzlingly lighted hall which may be reached only by passing through a long
+and ghastly kitchen." "We shall reach really fruitful and luminous
+generalizations about vital phenomena only in so far as we ourselves
+experiment and, in hospitals, amphitheaters, or laboratories stir the fetid or
+throbbing ground of life" [@bernard_introduction_1957, 3-15]. Today, the
+lighted halls of literary and media theory lead to the scholar's workshop.
 
-Take the hypothetical example of a media theorist commenting on the last few
-decades of photography without grasping the fundamentals of electronic
-photo-detectors, RAW image formats, complementary metal–oxide–semiconductors
-(CMOS), digital editing tools, computer-generated imagery (CGI), or *Photoshop*
-image manipulation filters. A study of that sort would be in peril of being
-misguided by fanciful theories that have no basis in reality. That is not to
-say that theory has nothing to contribute to the conversation. Rather that
-theorists can contribute more when their thought is grounded in the material
-foundations of practice. Similarly, it is my contention here that the cardinal
-literary-theoretical concepts---such as word, text, narrative, discourse,
-author, story, book, archive---are thoroughly enmeshed in the underlying
-physical substratum of paper and pixel. It follows that any attempt to
-articulate the idea cannot attain its full expressive potential without a thick
-description of its base particulates.
-
-Luckily for us, reading and writing are not esoteric activities. They are
-readily available to phenomenological introspection. I will therefore
-occasionally encourage readers to encounter the immediate contexts of their
-reading anew: to put down the book or to lean away from the screen and to look
-at these textual artifacts with strange eyes. In this movement of the body, I
-want to disrupt the mind's habituated intuitions, pitting them against
-knowledge "at hand" and fingertip knowledge: as when ruffling through the pages
-or typing at a keyboard. How ephemeral are texts, for example? The question can
-be made more palpable by asking: What can a reader do with *this* text, here
-and now? Are readers able to copy and paste? Do they have *legal* permissions
-to quote at length, to perform publicly, or to otherwise trans-mediate?
+[^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
 
 In an approach to "doing" theory, *Plain Text* joins the experimental turn
 steering the academy toward critical practice, especially in fields
@@ -505,6 +482,10 @@ In naming the locations of their practice "laboratories,"  "studios," and
 "workshops," humanists reach for new metaphors of labor. These metaphors aim to
 reorganize the relationship between body, space, idea, artifact, instrument,
 and inscription.
+
+<!-- more on the experimental turn -->
+<!-- highlight a specific project from pamela smith, describe pamela's project -->
+<!-- expand -->
 
 As an example of what I have been calling here the "experimental turn" in the
 field of early modern history consider the preface to a recent volume on *Ways
@@ -537,6 +518,25 @@ explication of its physical affordances. Experimentalism enables the critic to
 smelting iron is to make literal the figure suggested by media "archeology" on
 the level of the mechanism. In *Plain Text* we will dig through, unearth, and
 excavate textual machines.
+
+Similarly, it is my contention here that the cardinal literary-theoretical
+concepts---such as word, text, narrative, discourse, author, story, book,
+archive---are thoroughly enmeshed in the underlying physical substratum of
+paper and pixel. It follows that any attempt to articulate the idea cannot
+attain its full expressive potential without a thick description of its base
+particulates.
+
+Luckily for us, reading and writing are not esoteric activities. They are
+readily available to phenomenological introspection. I will therefore
+occasionally encourage readers to encounter the immediate contexts of their
+reading anew: to put down the book or to lean away from the screen and to look
+at these textual artifacts with strange eyes. In this movement of the body, I
+want to disrupt the mind's habituated intuitions, pitting them against
+knowledge "at hand" and fingertip knowledge: as when ruffling through the pages
+or typing at a keyboard. How ephemeral are texts, for example? The question can
+be made more palpable by asking: What can a reader do with *this* text, here
+and now? Are readers able to copy and paste? Do they have *legal* permissions
+to quote at length, to perform publicly, or to otherwise trans-mediate?
 
 ## 3. Structuring Principles
 
@@ -725,7 +725,7 @@ things, but that they enact change in the world.
 [^ln-witt]: For more on the connection between Wittgenstein and James
 see @goodman_james_2004.
 
-[^ln-sweatshop]: See @freeman_high_2000.
+[^ln-sweatshop]: See @freeman_high_2000 and @patel_working_2010.
 
 [^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
 professors are still reluctantly trading in their typewriters for word
@@ -787,4 +787,8 @@ willing to trespass.
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
 @galloway_protocol_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
+
+[^ln1-brains]: For the first view see @putnam_minds_1960 and
+@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
+@dyson_turings_2012.
 

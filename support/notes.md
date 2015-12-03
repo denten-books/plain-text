@@ -11,7 +11,6 @@ Brian
 Marguerite
 
 Jessica Pressman (Digital Modernism)
-
 Siskin and Hover.
 Siegert
 
@@ -48,6 +47,7 @@ Potential reviewers
     Henry Petroski!
     *Alan Liu
     *Kathleen Fitzpatrick
+    Trebor Scholz (recommended by Sid)
 
 Send Book To
 ===========================
