@@ -358,8 +358,6 @@ intellectual lineages that frame my approach to the problem. A hermeneutics
 capable of addressing Kittler's challenge must be grounded in materialism that
 is both pragmatic and experimental.
 
-### 2.1 Materialism
-
 The shifting affordances of digital text challenge some of our deep-seated
 intuitions about literature. The word processor, operating system, and the
 electronic book are some of the sites that stage the encounter between
@@ -413,8 +411,6 @@ really a symptom of that basic alienation. Contemporary knowledge workers
 stare into rectangular black boxes for a considerable part of their days,
 suspecting, in the absence of other feedback, that their gaze is met in bad
 faith.
-
-### 2.2 Experimentalism
 
 Connecting theories of meaning--making to the practices of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
@@ -472,16 +468,16 @@ In an approach to "doing" theory, *Plain Text* joins the experimental turn
 steering the academy toward critical practice, especially in fields
 long-dominated by purely speculative reflection. The experimental turn
 represents a generation's dissatisfaction with "armchair" philosophizing.
-Recall the burning armchair, the symbol for experimental philosophy. Joshua
-Knobe and Shaun Nichols, some of the early proponents of the movement, explain
-that "many of the deepest questions of philosophy can only be properly
-addressed by immersing oneself in the messy, contingent, highly variable truths
-about how human beings really are" [@knobe_experimental_2008, 3]. The emergence
-of spaces where research in the humanities is done exemplifies the same trend.
-In naming the locations of their practice "laboratories,"  "studios," and
-"workshops," humanists reach for new metaphors of labor. These metaphors aim to
-reorganize the relationship between body, space, idea, artifact, instrument,
-and inscription.
+Recall the burning armchair, the symbol for the experimental philosophy
+movement. Joshua Knobe and Shaun Nichols, some of the early proponents of the
+movement, explain that "many of the deepest questions of philosophy can only
+be properly addressed by immersing oneself in the messy, contingent, highly
+variable truths about how human beings really are" [@knobe_experimental_2008,
+3]. The emergence of spaces where research in the humanities is done
+exemplifies the same trend.  In naming the locations of their practice
+"laboratories,"  "studios," and "workshops," humanists reach for new metaphors
+of labor. These metaphors aim to reorganize the relationship between body,
+space, idea, artifact, instrument, and inscription.
 
 <!-- more on the experimental turn -->
 <!-- highlight a specific project from pamela smith, describe pamela's project -->
@@ -502,22 +498,22 @@ processors---shapes our everyday encounter with literature. Such technologies
 should not be taken as value-neutral conduits of information. I follow Lewis
 Mumford and Langdon Winner to argue that technology affects the exercise of
 textual politics in subtle and profound ways. Artifacts cannot hold beliefs
-about politics. Political power is rather exercised through them. Stairs do not
-discriminate against the mobility impaired. The failure to enforce
+about politics. Political power is rather exercised through them. Stairs do
+not discriminate against the mobility impaired. The failure to enforce
 accessibility through specific legal and architectural choices does.
-Typesetting software, e-book readers, and word processors similarly encode
-implicit communication models, ideas about deliberation, ethics of labor,
-discursive values, and views about "natural" human aptitude for interpretation.
-In this way, contemporary documents enforce limits to access by license,
-geography, or physical ability.
+Typesetting software, e-book readers, and word processors similarly embody
+implicit communication models: ideas about deliberation, ethics of labor,
+discursive values, and views about "natural" human aptitude for
+interpretation. In this way, contemporary documents are capable of enforcing
+limits to access by license, geography, or physical ability, for example.
 
-To what extent does the book in front of you "permit" or "enable" access?
+To what extent does the book in front of you permit or enable access?
 Whatever the answer, a function of understanding the text must include the
 explication of its physical affordances. Experimentalism enables the critic to
 "lay bare" the device. A literary scholar's version of baking bread and
-smelting iron is to make literal the figure suggested by media "archeology" on
-the level of the mechanism. In *Plain Text* we will dig through, unearth, and
-excavate textual machines.
+smelting iron is to make literal the figure suggested by the idea of media
+"archeology" on the level of the mechanism. In *Plain Text* we will dig
+through, unearth, and excavate textual machines.
 
 Similarly, it is my contention here that the cardinal literary-theoretical
 concepts---such as word, text, narrative, discourse, author, story, book,
@@ -532,11 +528,15 @@ occasionally encourage readers to encounter the immediate contexts of their
 reading anew: to put down the book or to lean away from the screen and to look
 at these textual artifacts with strange eyes. In this movement of the body, I
 want to disrupt the mind's habituated intuitions, pitting them against
-knowledge "at hand" and fingertip knowledge: as when ruffling through the pages
-or typing at a keyboard. How ephemeral are texts, for example? The question can
-be made more palpable by asking: What can a reader do with *this* text, here
-and now? Are readers able to copy and paste? Do they have *legal* permissions
-to quote at length, to perform publicly, or to otherwise trans-mediate?
+knowledge "at hand" and fingertip knowledge: as when ruffling through the
+pages or typing at a keyboard. To what extent is electronic textually
+ephemeral, for example? (I discuss the question in full in chapter two.) The
+idea of "ephemerality" can be made more palpable by asking: What can a reader
+do with this text, here and now? Are readers able to copy and paste? Do they
+have legal permissions to quote at length, to perform publicly, or to
+otherwise trans-mediate?
+
+<!-- needs more of a conclusion -->
 
 ## 3. Structuring Principles
 
