@@ -1,4 +1,4 @@
-# Introduction
+# Simulated Text: An Introduction
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
@@ -69,8 +69,35 @@ which reach past the "content" visible at the surface of the electronic book
 artifact, to reveal also the software platforms and the hardware
 infrastructures that contribute to the production of meaning.
 
-<!-- revisit this paragraph, because it is duplicated later -->
-<!-- this paragraph introduces too many words, move to later -->
+I have selected "plain text" as the title of this book to signal an affinity
+with a particular mode of interpretation. In technical terms, *plain text*
+identifies a file format and a frame of mind. As a file format, it contains
+nothing but a "pure sequence of character codes." Plain text stands in
+opposition to *fancy text*: "text representation consisting of plain text plus
+added information."[^ln-uni] In the tradition of American textual criticism,
+"plain text" identifies an editorial method of text transcription which is
+both "faithful to the source" and is "easier to read than the original
+document" [@cook_time-bounded_1972]. Combining these two traditions, I mean
+ultimately to argue for a kind of a systematic minimalism when it comes to our
+use of computers---a minimalism that privileges legibility and human
+comprehension. I do so in contrast with other ideals--like speed or
+efficiency---that may motivate the design of human--computer systems.
+
+The use of plain text implies also an ethics of reading and writing. Added
+information routinely embedded in all forms of contemporary textuality can
+include more than innocuous document attributes like "font size" or "line
+spacing." Increasingly, devices that mediate literary activity encode forms of
+governance, like the enforcement of intellectual property rights and
+censorship. The use of plain text therefore entails the making visible of
+implicit governing structures. <!-- example of more or less open devices -->
+The use of plain text also suggests that computational control is available
+for what I term *computational hermeneutics*. Building on the recent work of
+scholars like Wendy Kyong Chun, Tung-Hui Hu, Lisa Gitelman, and Lev Manovich,
+I make the case for an empowered poetics, able regain a measure of control
+over the material contexts of our knowledge production [@chun_enduring_2008;
+@manovich_software_2013; @gitelman_paper_2014; @hu_prehistory_2015].  <!--
+revisit this paragraph, because it is duplicated later --> <!-- this paragraph
+introduces too many words, move to later -->
 
 In the chapters to follow, the electronic literary artifact---the thing next
 to my laptop---on my desk will come fully into view as a computational device.
@@ -174,34 +201,6 @@ interpretation under the sign of the simulated text. <!-- even print books are
 born digital --> An ever increasing number of reading passes through some form
 of a computational device.
 
-I have selected "plain text" as the title of this book to signal an affinity
-with a particular mode of interpretation. In technical terms, *plain text*
-identifies a file format and a frame of mind. As a file format, it contains
-nothing but a "pure sequence of character codes." Plain text stands in
-opposition to *fancy text*: "text representation consisting of plain text plus
-added information."[^ln-uni] In the tradition of American textual criticism,
-"plain text" identifies an editorial method of text transcription which is
-both "faithful to the source" and is "easier to read than the original
-document" [@cook_time-bounded_1972]. Combining these two traditions, I mean
-ultimately to argue for a kind of a systematic minimalism when it comes to our
-use of computers---a minimalism that privileges legibility and human
-comprehension. I do so in contrast with other ideals--like speed or
-efficiency---that may motivate the design of human--computer systems.
-
-More than a format, a frame of mind, the use of plain text implies an ethics
-of reading and writing. Added information routinely embedded in all forms of
-contemporary textuality can include more than innocuous document attributes
-like "font size" or "line spacing." Increasingly, devices that mediate
-literary activity encode forms of governance, like the enforcement of
-intellectual property rights and censorship. The use of plain text therefore
-entails the making visible of implicit governing structures. <!-- example of
-more or less open devices --> The use of plain text also suggests that
-computational control is available for what I term *computational
-hermeneutics*. Building on the recent work of scholars like Wendy Kyong Chun,
-Tung-Hui Hu, Lisa Gitelman, and Lev Manovich, I make the case for an empowered
-poetics, able regain a measure of control over the material contexts of our
-knowledge production [@chun_enduring_2008; @manovich_software_2013;
-@gitelman_paper_2014; @hu_prehistory_2015].
 
 *Plain Text* makes a historical case for the recovery of textual thought
 latent in the machinery of contemporary computing. <!-- examples --> Software
