@@ -51,6 +51,8 @@ a manual and terms of service. In short, it governs reading. At times, it
 reconfigures itself dynamically, affecting all of the content that I have
 relegated to the device: books, memories, pictures, words, and thoughts.
 
+## 0.1 Computational Hermeneutics
+
 The aim of *Plain Text* is to dispel a pervasive illusion. The simulated book
 is but a compelling metaphor which obscures material realities of reading and
 writing, transformed by the advent of computation. What does it mean to "read"
@@ -104,48 +106,20 @@ control over the material contexts of our knowledge production
 [@chun_enduring_2008; @manovich_software_2013; @gitelman_paper_2014;
 @hu_prehistory_2015].
 
-In the chapters to follow, the electronic literary artifact---the thing next
-to my laptop---on my desk will come fully into view as a computational device.
-I will insist on our ability to read such devices with the aim of developing
-what I call the *hermeneutics of computational reading*. I will argue (a) that
-the material history of computing belongs to the history of text processing as
-it does to the history of machine control, (b) that the computer stands at the
-root of *simulated textuality*, and (c) that the simulated sign splits to
-reside in at least two distinct locations, screen and storage medium: the
-first conspicuous but ephemeral, the second enduring but opaque. The "illusion
-of the simulated text" identifies an incongruity between the two sites of
-reading. The later chapters of the book will deal with the cultural
-consequences of that illusion.
+## 0.2 Simulated Text
 
-<!-- including this one -->
-
-It will take us the rest of the book to come to terms with ambiguous textuality
-in its bifurcated form. For now, I begin merely with the peculiarity of its
-location. Computed text resides at multiple sites at the same time. Device
-reading happens on screens that refresh themselves at a rate of around 60
-cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. It is technically an animation. It moves even as it appears to stand
-still. And it disappears when the device loses power. Yet paradoxically,
-simulated text is also pervasive. Embedded into "solid state" drives and
-magnetic "hard disks," inscription attains the quality of what Wendy Hui Kyong
-Chun calls the "enduring ephemeral" [@chun_enduring_2008, 148]. Precisely
-because simulated text adheres lightly to its medium, it has a tendency to
-multiply and to spread widely. Like the fine particles of glitter, it is
-difficult to contain. The simulated text falls apart into bits and pixels that
-replicate and tumble about the system.
-
-<!-- by this paragraph we need to explicate the simulated text -->
-<!-- with historical anchoring -->
-
-My challenge in this book lies in the relative paucity of our critical
-vocabulary. We have many theoretical models to address literary phenomena on
-the macro scale: period, genre, style, affect, world literature, etc. Yet the
-particulates of literary production and dissemination on the micro scale go
-for the most part unnamed. To come to terms with the book as a device; to
-begin to understand the nature of the text simulation; to perceive the
-particularity of the computed sign: these are the aims of *Plain Text*.
-
-## 1. Simulated Text
+The overarching aim of the book is therefore to expose the illusion of
+verisimilitude between text on paper and the simulated text on a screen. The
+words may look the same, but the underlying affordances of the medium differ
+in significant detail. As an example, consider a news report that alters
+important details based on the reader's location. Imagine an e-book reader
+device that highlights popular passages of a novel in real time, shortening
+the less popular passages down to their algorithmically distilled summaries.
+For a literary analyst, the instability of the digital medium means analysis
+cannot be confined to reading for surface meaning alone. How can close reading
+persist when reading devices reconfigure the text to fit individual tastes,
+mood, or politics? How would we even agree on the fact that we are reading the
+same text? The very possibility of interpretation comes into question.
 
 <!-- start here instead of the above few paras -->
 <!-- consider taking out encoding entirely -->
@@ -274,19 +248,6 @@ conditions closet to our mental activity.
 <!-- consider explaining the term "affordances" in relation to mumford,
 winner, and sts -->
 
-The overarching aim of the book is therefore to expose the illusion of
-verisimilitude between text on paper and the simulated text on a screen. The
-words may look the same, but the underlying affordances of the medium differ
-in significant detail. As an example, consider a news report that alters
-important details based on the reader's location. Imagine an e-book reader
-device that highlights popular passages of a novel in real time, shortening
-the less popular passages down to their algorithmically distilled summaries.
-For a literary analyst, the instability of the digital medium means analysis
-cannot be confined to reading for surface meaning alone. How can close reading
-persist when reading devices reconfigure the text to fit individual tastes,
-mood, or politics? How would we even agree on the fact that we are reading the
-same text? The very possibility of interpretation comes into question.
-
 If we hope to trace the hidden flows of computed textuality, as Kittler wrote
 "under conditions of high technology," we must do so from the position of
 humanism. One cannot at the same time lament the systematic erasure of the
@@ -349,7 +310,46 @@ computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
 
-## 2. Theory and Practice
+In the chapters to follow, the electronic literary artifact---the thing next
+to my laptop on my desk---will come fully into view as a computational device.
+I will argue (a) that the material history of computing belongs to the history
+of text processing as it does to the history of machine control, (b) that the
+computer stands at the root of *simulated textuality*, and (c) that the
+simulated sign splits to reside in at least two distinct locations, screen and
+storage medium: the first conspicuous but ephemeral, the second enduring but
+opaque. The "illusion of the simulated text" identifies an incongruity between
+the two sites of reading. The later chapters of the book will deal with the
+cultural consequences of that illusion.
+
+<!-- including this one -->
+
+It will take us the rest of the book to come to terms with ambiguous textuality
+in its bifurcated form. For now, I begin merely with the peculiarity of its
+location. Computed text resides at multiple sites at the same time. Device
+reading happens on screens that refresh themselves at a rate of around 60
+cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. It is technically an animation. It moves even as it appears to stand
+still. And it disappears when the device loses power. Yet paradoxically,
+simulated text is also pervasive. Embedded into "solid state" drives and
+magnetic "hard disks," inscription attains the quality of what Wendy Hui Kyong
+Chun calls the "enduring ephemeral" [@chun_enduring_2008, 148]. Precisely
+because simulated text adheres lightly to its medium, it has a tendency to
+multiply and to spread widely. Like the fine particles of glitter, it is
+difficult to contain. The simulated text falls apart into bits and pixels that
+replicate and tumble about the system.
+
+<!-- by this paragraph we need to explicate the simulated text -->
+<!-- with historical anchoring -->
+
+My challenge in this book lies in the relative paucity of our critical
+vocabulary. We have many theoretical models to address literary phenomena on
+the macro scale: period, genre, style, affect, world literature, etc. Yet the
+particulates of literary production and dissemination on the micro scale go
+for the most part unnamed. To come to terms with the book as a device; to
+begin to understand the nature of the text simulation; to perceive the
+particularity of the computed sign: these are the aims of *Plain Text*.
+
+## 0.3 Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -543,7 +543,7 @@ otherwise trans-mediate?
 
 <!-- needs more of a conclusion -->
 
-## 3. Structuring Principles
+## 0.4 Structuring Principles
 
 The tangled strains of thought and practice exist only in relation to specific
 communities of practice. A researcher cannot therefore expect to discover *the*
@@ -631,7 +631,7 @@ storage systems, considered as "furnishings of the mind" that tell us something
 about the way we externalize our thoughts. The book concludes with the concept
 of the human as encoded in the philosophy of the Unix operating system.
 
-## 4. Plan of the Present Work
+## 0.5 Plan of the Present Work
 
 The passage from keystroke to pixel runs a thread through the book. I begin
 with a few simple questions that lay the grounds for digital textuality: What
@@ -746,7 +746,7 @@ agency of complex systems and (b) a practice of diminishing the scope of human
 freedoms by technological means.
 
 
-## 5. Digital Displacement
+## 0.6 Digital Displacement
 
 *Plain Text* ultimately enacts a reconciliation of vocabularies. It is a
 response to a particular situation of a literary scholar encountering the field
