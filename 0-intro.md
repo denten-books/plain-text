@@ -13,7 +13,7 @@ equals code.
 I am not at home. But I know the alarm is happening because I receive
 notifications of it on my phone---another small computational device, next to
 my laptop. This mobile appliance also contains most of my book library.  I
-pick it up to read a book. But what I mean by "reading a book" occludes a
+pick it up to read a book. But what I mean by "reading a book" obscures a
 metaphor for series of odd actions. The "book" is a small, thin black
 rectangle: three inches wide, five inches tall, and barely a few millimeters
 thick. A slab of polished glass covers the front of the device, where the tiny
@@ -23,81 +23,86 @@ a grid of small perforations indicate breathing room for a speaker and several
 microphones. To "open" the book I touch the glass. The machine recognizes my
 fingerprint almost instantly. I then tap and poke at the surface until I find
 a small image that represents both my library and the book store, where I can
-"purchase" "books." To read this particular volume, I have actually purchased
-a limited licence to receive data, which the software then assembles to
-resemble something like books. To begin reading I swipe again with my finger.
-The screen dims to match to room ambiance as words fill the screen. One of the
-passages on the first page appears underlined: a number of other readers in my
-social circle must have found the passage interesting. My finger slides along
-the glass surface to turn the page. The device emits a muffled rustle, to
-remind me of the underlying analogy. The image curls ever so slightly in a way
-that resembles a printed page as another "page" slides into view. My tiny
-library metaphor contains over a thousand books.
+"purchase" "books." To "buy a book," I purchase a limited licence to receive
+data, which the software then assembles into on-screen representation of
+books. To begin reading I swipe again with my finger and tap on a small icon,
+branded by a corporate logograph. The screen dims to match to room ambiance as
+words fill the screen. One of the passages on the first page appears
+underlined: a number of other readers in my social circle must have found the
+passage interesting.  My finger slides along the glass surface to turn the
+page. The device emits a muffled rustle, to remind me of the underlying
+analogy. The image curls ever so slightly in a way that resembles a printed
+page as another "page" slides into view. My tiny library metaphor contains
+over a thousand books.
 
-Despite the appearances, the electronic book reader-library-store next to my
-computer has more in common with the smoke detector than it does with several
-paper volumes also scattered across my desk. Both devices comprise printed
-circuit boards, capacitors, silicone chips, and resistors. Both draw electric
-current. Both require firmware updates and are governed by codes: political
-and computational. The smoke alarm and the mobile phone are connected to the
-network and both communicate with remote data centers and with each other.
-And yet, I continue to read electronic books as if they were familiar,
-immutable, and passive objects: just books. I think of them as intimate
-artifacts---friends even---wholly known to me, comforting, and warm. The
-electronic book is none of these things. It records my reading, sleeping, and
-consumption habits. It comes with a manual and terms of service. In short, it
-governs reading. At times, it reconfigures itself dynamically, affecting all
-of the content that I have relegated to the device: books, memories, pictures,
-words, and thoughts.
+Despite the appearances, the electronic book reader-library-store
+metaphor-making device next to my computer has more in common with the smoke
+detector than it does with several paper volumes also scattered across my
+desk. Both devices comprise printed circuit boards, capacitors, silicone
+chips, and resistors. Both draw electric current. Both require firmware
+updates and are governed by codes: political and computational. The smoke
+alarm and the mobile phone connect to the network and both communicate with
+remote data centers and with each other. And yet, I continue to read
+electronic books as if they were familiar, immutable, and passive objects:
+just books. I think of them as intimate artifacts---friends even---wholly
+known to me, comforting, and warm. The electronic book is none of these
+things. It records my reading, sleeping, and consumption habits. It comes with
+a manual and terms of service. In short, it governs reading. At times, it
+reconfigures itself dynamically, affecting all of the content that I have
+relegated to the device: books, memories, pictures, words, and thoughts.
 
 The aim of *Plain Text* is to dispel a pervasive illusion. The simulated book
 is but a compelling metaphor which obscures material realities of reading and
-writing transformed by the advent of computation. What does it mean to "read"
+writing, transformed by the advent of computation. What does it mean to "read"
 a book metaphor? And what kind of a metaphor is it? What is being compared to
 what? How did it come into being and how does it affect practices of literary
-interpretation? In *Plain Text* I will attempt to "come to terms" with the
-conditions of what I will call *simulated textuality*. Drawing on a range of
-archival materials at the intersection of literary thought and the history of
-modern computing in the nineteenth and twentieth centuries, *Plain Text*
-examines a number of key literary-theoretical constructs, recasting the paper
-book as a *computational object*. I will argue that extant theories of
-interpretation construct a notion of "close reading" based on preexisting
-properties and assumptions attached to static print media. By contrast,
-electronic text changes dynamically to suit its reader, cultural context, and
-geography. Consequently, I develop a notion of "computational hermeneutics"
-which reach past the "content" visible at the surface of the electronic book
-artifact, to reveal also the software platforms and the hardware
-infrastructures that contribute to the production of meaning.
+interpretation? In *Plain Text* I attempt to come to terms with the conditions
+of what I will call *simulated textuality*. Drawing on a range of archival
+materials at the intersection of literary thought and the history of modern
+computing in the nineteenth and twentieth centuries, *Plain Text* examines a
+number of key literary-theoretical constructs, recasting the paper book as a
+*computational object*. I will argue that extant theories of interpretation
+construct a notion of close reading based on preexisting properties and
+assumptions attached to static print media. By contrast, electronic text
+changes dynamically to suit its reader, cultural context, and geography.
+Consequently, I argue for the development of what I term *computational
+hermeneutics* capable of reaching past the surface content to reveal also the
+software platforms and the hardware infrastructures that contribute to the
+production of meaning.
 
 I have selected "plain text" as the title of this book to signal an affinity
 with a particular mode of interpretation. In technical terms, *plain text*
 identifies a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." Plain text stands in
-opposition to *fancy text*: "text representation consisting of plain text plus
+opposition to "fancy text," "text representation consisting of plain text plus
 added information."[^ln-uni] In the tradition of American textual criticism,
 "plain text" identifies an editorial method of text transcription which is
 both "faithful to the source" and is "easier to read than the original
 document" [@cook_time-bounded_1972]. Combining these two traditions, I mean
 ultimately to argue for a kind of a systematic minimalism when it comes to our
 use of computers---a minimalism that privileges legibility and human
-comprehension. I do so in contrast with other ideals--like speed or
-efficiency---that may motivate the design of human--computer systems.
+comprehension. I do so in contrast with modes of human--computer interaction
+that may privilege other system--centric ideals like speed, security, or
+efficiency.
 
-The use of plain text implies also an ethics of reading and writing. Added
-information routinely embedded in all forms of contemporary textuality can
-include more than innocuous document attributes like "font size" or "line
-spacing." Increasingly, devices that mediate literary activity encode forms of
-governance, like the enforcement of intellectual property rights and
-censorship. The use of plain text therefore entails the making visible of
-implicit governing structures. <!-- example of more or less open devices -->
-The use of plain text also suggests that computational control is available
-for what I term *computational hermeneutics*. Building on the recent work of
-scholars like Wendy Kyong Chun, Tung-Hui Hu, Lisa Gitelman, and Lev Manovich,
-I make the case for an empowered poetics, able regain a measure of control
-over the material contexts of our knowledge production [@chun_enduring_2008;
-@manovich_software_2013; @gitelman_paper_2014; @hu_prehistory_2015].  <!--
-revisit this paragraph, because it is duplicated later --> <!-- this paragraph
-introduces too many words, move to later -->
+The use of plain text implies an ethics of reading and writing. It is thus
+also a frame of mind. Added information routinely embedded in all forms of
+contemporary textuality can include more than innocuous document attributes
+like "font size" or "line spacing." Increasingly, devices that mediate
+literary activity encode forms of governance, like the enforcement of
+intellectual property rights or censorship. The use of plain text therefore
+entails the making visible of implicit governing structures. For example, the
+Digital Millennium Copyright act, passed in the United States in 1996, goes
+beyond legislature to require the "management" of digital rights (DRM) at the
+level of hardware.<!-- cite --> An electronic book governed by DRM may prevent
+the reader from copying or sharing stored content, even for the purposes of
+academic study. <!-- cite --> Computational hermeneutics strives to make such
+control structures available for critical reflection. Building on the recent
+work of scholars like Wendy Kyong Chun, Tung-Hui Hu, Lisa Gitelman, and Lev
+Manovich, I make the case for an empowered poetics, able regain a measure of
+control over the material contexts of our knowledge production
+[@chun_enduring_2008; @manovich_software_2013; @gitelman_paper_2014;
+@hu_prehistory_2015].
 
 In the chapters to follow, the electronic literary artifact---the thing next
 to my laptop---on my desk will come fully into view as a computational device.
