@@ -100,7 +100,7 @@ revisit this paragraph, because it is duplicated later --> <!-- this paragraph
 introduces too many words, move to later -->
 
 In the chapters to follow, the electronic literary artifact---the thing next
-to my laptop---on my desk will come fully into view as a computational device.
+to my laptop on my desk---will come fully into view as a computational device.
 I will insist on our ability to read such devices with the aim of developing
 what I call the *hermeneutics of computational reading*. I will argue (a) that
 the material history of computing belongs to the history of text processing as
@@ -139,6 +139,49 @@ particulates of literary production and dissemination on the micro scale go
 for the most part unnamed. To come to terms with the book as a device; to
 begin to understand the nature of the text simulation; to perceive the
 particularity of the computed sign: these are the aims of *Plain Text*.
+
+*Plain Text* ultimately enacts a reconciliation of vocabularies. It is a
+response to a particular situation of a literary scholar encountering the field
+of software engineering. For a long stretch of my professional life, these two
+areas of activity remained separate. I worked at one and I studied the other.
+At the time, I simply did not think that code had anything to do with poetry.
+The idea for the book came to me in a moment of realization after I was asked
+one of those naive but fundamental questions of the kind that can set research
+in motion down a long and winding path. A childhood friend who loves books
+asked about the difference between text in print and text on the screen. It was
+in that struggle to articulate the difference that I realized that some of my
+deepest assumptions about literature relied on the centuries-long stability of
+print media. Despite my professional experience as a programmer, I could not
+readily explain the mechanisms by which keystrokes turned into pixels, pixels
+into letters, and letters into words. I could recount technical detail on some
+level, but my knowledge also had huge gaps. It did not amount to a coherent
+story. I was, despite my best efforts, surrounded by magical lanterns that cast
+shadows of code and poetry.
+
+Initially, at the point of contact, the two selves spoke different languages.
+It was and continues to be a disconcerting process by which things dear and
+familiar to me, in both worlds, grew strange and unfamiliar, showing themselves
+to be sometimes less than and sometimes more than I comfortably expected.
+Nothing could be assumed from the start. Field specific jargon, down to the
+naive foundations, had to be examined for hidden assumptions that prevented
+congruence. With time, I understood that code and poetry have everything to do
+with one another.
+
+Lev Manovich once described his massive image panoramas [@manovich_data_2015]
+as an artifact of an alien life in the process of observing the human
+condition. My other compatriot and mentor Svetlana Boym also considered her
+estrangement a methodology, applicable to life and scholarship
+[@boym_estrangement_1996]. Defamiliarization plays an instrumental part of an
+immigrant's survival mechanism.[^ln-flusser] The digitally displaced similarly
+hold on to the discomfort of the encounter with the machine.
+Estrangement---always at the heart of immigrant or queer poetics---reconciles
+without seeking wholeness or integration. I dedicate this book then to queers
+and immigrants, literal and figurative---spatial, literary, technological---to
+those being displaced unwillingly, to those exiled within and without, to
+those who understand the need for self-displacement, to those who transgress
+purposefully, and to those willing to trespass.
+
+[^ln-flusser]: The work of @flusser_does_2011 has been similarly influential.
 
 ## 1. Simulated Text
 
@@ -540,7 +583,10 @@ otherwise trans-mediate?
 
 ## 3. Structuring Principles
 
-The tangled strains of thought and practice exist only in relation to specific
+<!-- new connector -->
+<!-- rewrite -->
+
+The tangled strains of thought and practice can exist only in relation to specific
 communities of practice. A researcher cannot therefore expect to discover *the*
 authoritative dictionary containing a neat summary of all terms needed for
 analysis. What counts for "code" and "poetry" in one domain, like computer
@@ -554,6 +600,8 @@ progresses from the action of the alphanumerical keyboard switch, through
 copper and silicon, to liquid crystal and the floating gate, and on towards the
 human and the community. It is but a single possible pass through a cavernous
 black box. Each chapter reflects a waypoint along the journey.
+
+<!-- diagram -->
 
 The challenge of reading and writing such a book lies in its inherently
 trans-disciplinary subject matter. Reflecting on the development of Morse Code
@@ -573,42 +621,44 @@ literary theory.
 
 A skeptically minded reader may ask, what does all of that have to do with
 literature? Surely, the domain of the digital belongs to computer science.
-What can literary theory contribute to our understanding of digital textuality?
-My media archeological excavations reveal that the history of software
-engineering shares common intellectual ancestry with literary theory. Both
-converged on the separation of form and content at the beginning of the
+What can literary theory contribute to our understanding of digital
+textuality?  My media archeological excavations reveal that the history of
+software engineering shares common intellectual ancestry with literary theory.
+Both converged on the separation of form and content at the beginning of the
 twentieth century. Both articulated the idea of structure in documents and
-narratives. And both borrowed heavily from the language of Hegelian
-aesthetics.[^ln-hegel] The two communities have now diverged in their ways of
-speaking to the point of abandoning that shared legacy. *Plain Text* rebuilds a
-vocabulary common to both fields.
+narratives. And both borrowed heavily from the language of <!-- leave
+aesthetics behind, talk about structuralism --> Hegelian aesthetics.[^ln-hegel]
+The two communities have now diverged in their ways of speaking to the point
+of abandoning that shared legacy <!-- soften language here -->. *Plain Text*
+rebuilds a vocabulary common to both fields.
 
-I make two distinct methodological moves that further facilitate dialog. The
-first comes from literary formalism, in a strategy of deliberate
-defamiliarization, or making strange. The second reciprocal movement emulates
-the practice of reverse engineering. Unlike defamiliarization, the reverse
-engineering of devices aims to bring the obscure to light. My methodology thus
-lies in the dual complimentary movement between making known and making
-strange. The metaphor and the machine help organize the book and each of its
-chapters.
+<! -- more on this -->
+I make two distinct methodological moves that further facilitate dialog
+between these two fields. The first comes from literary formalism, in a
+strategy of deliberate defamiliarization, or making strange. The second
+reciprocal movement emulates the practice of reverse engineering. Unlike
+defamiliarization, the reverse engineering of devices aims to bring the
+obscure to light. My methodology thus lies in the dual complimentary movement
+between making known and making strange. The metaphor and the machine help
+organize the book and each of its chapters.
 
 The language of computation employs many vivid metaphors, which lose their
 evocative power with frequent use. The task of a literary scholar becomes then
 to renew the metaphor, in a process that involves close reading in search for
 parallelisms that, as George Lakoff and Mark Johnson explain, configure one
-conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do we
-call some software programs "applications" for example? The application of what
-to what? The ubiquitous LCD screen, which usually renders our texts, disguises
-another metaphor, composed of Liquid and Crystal Displays. How do its physical
-properties, at once continuous (liquid) and discrete (crystalline) affect our
-conceptual understanding of the digital text? The very notion of the "literary
-device" further points to a number of mechanisms for textual diffusion. Texts
-move through devices like typewriters and e-book readers and "devices" like
-consonance and alliteration. Application, crystal, device: these ordinary
-metaphors obscure the complexity of the conceptual systems involved.
-Defamiliarization reclaims the metaphor for analysis. A metaphor unfolds within
-each of the book's chapters. Each chapter pursues the metaphor to its logical
-conclusion.
+conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do
+we call some software programs "applications" for example? The application of
+what to what? The ubiquitous LCD screen, which usually renders our texts,
+disguises another metaphor, composed of Liquid and Crystal Displays. How do
+such physical properties, at once continuous (liquid) and discrete
+(crystalline) affect our conceptual understanding of the digital text? The
+very notion of the "literary device" further points to a number of mechanisms
+for textual diffusion. Texts move through machine devices like typewriters and
+e-book readers and literary "devices" like consonance and alliteration.
+Application, crystal, device: these ordinary metaphors obscure the complexity
+of the conceptual systems involved.  Defamiliarization reclaims the metaphor
+for analysis. A metaphor unfolds within each of the book's chapters. Each
+chapter pursues the metaphor to its logical conclusion.
 
 The reciprocal motion to defamiliarization passes through a series of case
 studies. The function of a case study in an engineer's education, as Henry
@@ -616,15 +666,17 @@ Petroski explains in his *Invention by Design*, is to understand the ways by
 which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
 with a metaphor, each of my chapters also contains at least one literary
 "thought thing." Each also enacts a deconstruction---a literal taking
-apart---of that device. In the first chapter, I disassemble a copy machine. It
-helps illustrate the problem of digital copies. Subsequently, I reverse
-engineer an LCD screen, exposing the conflicting properties of digital media as
-something simultaneously continuous and discrete. In another chapter, I examine
-the innards of an electronic book reader to illustrate the discussion about
-depth and surface reading. In the later chapters, I analyze book and file
-storage systems, considered as "furnishings of the mind" that tell us something
-about the way we externalize our thoughts. The book concludes with the concept
-of the human as encoded in the philosophy of the Unix operating system.
+apart---of that device. <!-- no longer correct --> In the first chapter, I
+disassemble a copy machine. It helps illustrate the problem of digital copies.
+Subsequently, I reverse engineer an LCD screen, exposing the conflicting
+properties of digital media as something simultaneously continuous and
+discrete. In another chapter, I examine the innards of an electronic book
+reader to illustrate the discussion about depth and surface reading. In the
+later chapters, I analyze book and file storage systems, considered as
+"furnishings of the mind" that tell us something about the way we externalize
+our thoughts. The book concludes with the concept of the human as encoded in
+the philosophy of the Unix operating system. <!-- update to reflect the new
+chapter structure -->
 
 ## 4. Plan of the Present Work
 
@@ -743,46 +795,6 @@ freedoms by technological means.
 
 ## 5. Digital Displacement
 
-*Plain Text* ultimately enacts a reconciliation of vocabularies. It is a
-response to a particular situation of a literary scholar encountering the field
-of software engineering. For a long stretch of my professional life, these two
-areas of activity remained separate. I worked at one and I studied the other.
-At the time, I simply did not think that code had anything to do with poetry.
-The idea for the book came to me in a moment of realization after I was asked
-one of those naive but fundamental questions of the kind that can set research
-in motion down a long and winding path. A childhood friend who loves books
-asked about the difference between text in print and text on the screen. It was
-in that struggle to articulate the difference that I realized that some of my
-deepest assumptions about literature relied on the centuries-long stability of
-print media. Despite my professional experience as a programmer, I could not
-readily explain the mechanisms by which keystrokes turned into pixels, pixels
-into letters, and letters into words. I could recount technical detail on some
-level, but my knowledge also had huge gaps. It did not amount to a coherent
-story. I was, despite my best efforts, surrounded by magical lanterns that cast
-shadows of code and poetry.
-
-Initially, at the point of contact, the two selves spoke different languages.
-It was and continues to be a disconcerting process by which things dear and
-familiar to me, in both worlds, grew strange and unfamiliar, showing themselves
-to be sometimes less than and sometimes more than I comfortably expected.
-Nothing could be assumed from the start. Field specific jargon, down to the
-naive foundations, had to be examined for hidden assumptions that prevented
-congruence. With time, I understood that code and poetry have everything to do
-with one another.
-
-Lev Manovich once described his massive image panoramas [@manovich_data_2015]
-as an artifact of an alien life in the process of observing the human
-condition. My other compatriot and mentor Svetlana Boym also considered her
-estrangement a methodology, applicable to life and scholarship
-[@boym_estrangement_1996]. Defamiliarization plays an instrumental part of an
-immigrant's survival mechanism. The digitally displaced similarly hold on to
-the discomfort of the encounter with the machine.  Estrangement---always at the
-heart of immigrant or queer poetics---reconciles without seeking wholeness or
-integration. I dedicate this book then to queers and immigrants, literal and
-figurative---spatial, literary, technological---to those being displaced
-unwillingly, to those exiled within and without, to those who understand the
-need for self-displacement, to those who transgress purposefully, and to those
-willing to trespass.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
