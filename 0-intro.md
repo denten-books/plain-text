@@ -129,52 +129,26 @@ documents and narratives. The two fields often spoke the same language. But,
 they did so in parallel, without much intersection. In *Plain Text* I attempt
 to rebuild a vocabulary common to both fields.
 
-Today, it is becoming abundantly clear that the future of reading and writing
-will always be in some way intertwined with the development of computer
-science and software engineering. Even if you are not reading these words on
-or through a screen, my message has reached you through a long chain of
-machine-mediated transformations: from the mechanical action of the keyboard
-(on which I am now typing), to the arrangement of electrons on magnetic
-storage media, to the modulation of fiber-optic signal, to the shimmer of the
-flowing liquid crystal display rendering the text. 
+Drawing on a range of archival materials at the intersection of literary
+thought and the history of modern computing in the nineteenth and twentieth
+centuries, *Plain Text* examines a number of key literary-theoretical
+constructs, recasting the paper book as a metaphor machine and computational
+object. I will argue that extant theories of interpretation construct a notion
+of close reading based on preexisting properties and assumptions attached to
+static print media. By contrast, electronic text changes dynamically to suit
+its reader, cultural context, and geography. Consequently, I argue for the
+development of what I term *computational hermeneutics* capable of reaching
+past the surface content to reveal also the software platforms and the
+hardware infrastructures that contribute to the production of meaning.
 
-Software engineers routinely build technologies that aim at nothing less than
-a "disruption" of culture: from the design of social media to the formation of
-massive shared archives. Such "cultural techniques" are formative of our
-society as a whole [@leroi-gourhan_gesture_1993; 83-84@siegert_cultural_2015].
-Therefore, daily choices like choosing a text editor, a filing system, or a
-social networking platform cannot be addressed in shallow instrumental terms
-limited to efficacy, speed, or performance. Complex computational systems do
-not give rise to ethics any more than financial markets do. I find the
-argument to the contrary both pervasive and deeply reactionary. Among the many
-available visions of human--computer interaction, we can chose one that
-confirms to a humanist ethos, whatever the reader's politics. Computational
-hermeneutics encourages "users" to become active thinkers, tinkerers, and
-makers of technology. It treats "binary" and "digital" environments as fluid
-literary systems, amenable to the construction and the deconstruction of
-meaning. I further encourage those who may have considered themselves mere
-"users" to apply the same critical acuity they employ in the close reading of
-prose and poetry to the understanding of code and machine.
-
-*Plain Text* makes a historical case for the recovery of textual thought
-latent in the machinery of contemporary computing. Just as philology cannot
-survive without an understanding of its computational present, the design of
-software and hardware systems that facilitate knowledge production cannot
-advance without deep reflection about the cultural consequences of
-infrastructure. In his now seminal essay on technological determinism, Langdon
-Winner has argued that 
-
-
-<!-- examples --> 
-<! -- more on this -->
 I make two distinct methodological moves that further facilitate dialog
-between these two fields. The first comes from literary formalism, in a
-strategy of deliberate defamiliarization, or making strange. The second
-reciprocal movement emulates the practice of reverse engineering. Unlike
-defamiliarization, the reverse engineering of devices aims to bring the
-obscure to light. My methodology thus lies in the dual complimentary movement
-between making known and making strange. The metaphor and the machine help
-organize the book and each of its chapters.
+between literary theory and computer science. The first comes from Russian
+formalism, in a strategy of deliberate defamiliarization, or making strange.
+The second reciprocal movement emulates the practice of reverse
+engineering.[^ln-krsh] Unlike defamiliarization, the reverse engineering of
+devices aims to bring the obscure to light. My methodology thus lies in the
+dual complimentary movement between making known and making strange. The
+metaphor and the machine help organize the book and each of its chapters.
 
 The language of computation employs many vivid metaphors, which lose their
 evocative power with frequent use. The task of a literary scholar becomes then
@@ -182,17 +156,22 @@ to renew the metaphor, in a process that involves close reading in search for
 parallelisms that, as George Lakoff and Mark Johnson explain, configure one
 conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do
 we call some software programs "applications" for example? The application of
-what to what? The ubiquitous LCD screen, which usually renders our texts,
-disguises another metaphor, composed of Liquid and Crystal Displays. How do
-such physical properties, at once continuous (liquid) and discrete
-(crystalline) affect our conceptual understanding of the digital text? The
-very notion of the "literary device" further points to a number of mechanisms
-for textual diffusion. Texts move through machine devices like typewriters and
-e-book readers and literary "devices" like consonance and alliteration.
-Application, crystal, device: these ordinary metaphors obscure the complexity
-of the conceptual systems involved.  Defamiliarization reclaims the metaphor
-for analysis. A metaphor unfolds within each of the book's chapters. Each
-chapter pursues the metaphor to its logical conclusion.
+what to what? Apple's iconic *Human Interface Guidelines* which heralded the
+era of "what you see is what you get" interfaces, contains many echoes of
+Lakoff work and explicitly recommends *Metaphors we Live by* in the
+bibliography section. The manual urges the designer to "convey meaning through
+representation" and to seek the metaphor appropriate to the task
+[@apple_apple_1987, 11].  Do not ask the user to throw "documents" into
+"jars," for example, the manual urges the designer: "dragging the document
+icon to the Trash means the user wants to discard that document"
+[@apple_apple_1987, 229]  Simulated objects must "look like they do in real
+world" it concludes [@apple_apple_1987].
+
+Shklovsky here. исскуство как прием. The downside of metaphor.
+
+Defamiliarization reclaims the metaphor for analysis. A metaphor unfolds
+within each of the book's chapters. Each chapter pursues the metaphor to its
+logical conclusion.
 
 The reciprocal motion to defamiliarization passes through a series of case
 studies. The function of a case study in an engineer's education, as Henry
@@ -225,18 +204,6 @@ matters because how text is encoded, transmitted, and stored decides who gets
 to decode, to receive, and to access.
 
 ## 0.2 Computational hermeneutics
-
-Drawing on a range of archival materials at the intersection of literary
-thought and the history of modern computing in the nineteenth and twentieth
-centuries, *Plain Text* examines a number of key literary-theoretical
-constructs, recasting the paper book as a metaphor machine and computational
-object. I will argue that extant theories of interpretation construct a notion
-of close reading based on preexisting properties and assumptions attached to
-static print media. By contrast, electronic text changes dynamically to suit
-its reader, cultural context, and geography. Consequently, I argue for the
-development of what I term *computational hermeneutics* capable of reaching
-past the surface content to reveal also the software platforms and the
-hardware infrastructures that contribute to the production of meaning.
 
 I have selected "plain text" as the title of this book to signal an affinity
 with a particular mode of interpretation. In technical terms, *plain text*
@@ -274,6 +241,41 @@ of control over the material contexts of our knowledge production
 [@chun_enduring_2008; @kirschenbaum_mechanisms_2008; @manovich_software_2013;
 @gitelman_paper_2014; @hu_prehistory_2015].
 
+Today, it is becoming abundantly clear that the future of reading and writing
+will always be in some way intertwined with the development of computer
+science and software engineering. Even if you are not reading these words on
+or through a screen, my message has reached you through a long chain of
+machine-mediated transformations: from the mechanical action of the keyboard
+(on which I am now typing), to the arrangement of electrons on magnetic
+storage media, to the modulation of fiber-optic signal, to the shimmer of the
+flowing liquid crystal display rendering the text. Computer science occupies
+the space between the keyboard and the screen, which in turn habituates social
+constructs, from the design of social media to the formation of massive shared
+archives. Such "cultural techniques" are formative of our society as a whole
+[@leroi-gourhan_gesture_1993; 83-84@siegert_cultural_2015]. Therefore, daily
+choices like choosing a text editor, a filing system, or a social networking
+platform cannot be addressed in shallow instrumental terms limited to
+efficacy, speed, or performance.  Complex computational systems do not give
+rise to ethics any more than financial markets do. Among the many available
+visions of human--computer interaction, we can chose one that confirms to a
+humanist ethos, whatever the reader's politics. Computational hermeneutics
+encourages "users" to become active thinkers, tinkerers, and makers of
+technology. It treats "binary" and "digital" environments as fluid literary
+systems, amenable to the construction and the deconstruction of meaning. I
+further encourage those who may have considered themselves mere "users" to
+apply the same critical acuity they employ in the close reading of prose and
+poetry to the understanding of code and machine.
+
+*Plain Text* makes a historical case for the recovery of textual thought
+latent in the machinery of contemporary computing. Just as philology cannot
+survive without an understanding of its computational present, the design of
+software and hardware systems that facilitate knowledge production cannot
+advance without deep reflection about the cultural consequences of
+infrastructure. In his now seminal essay on technological determinism, Langdon
+Winner has argued that 
+
+<!-- examples --> 
+<! -- more on this -->
 In the chapters to follow, the electronic literary artifact---the thing next
 to my laptop on my desk---will come fully into view as a computational device.
 I will insist on our ability to read such devices with the aim of developing
@@ -665,9 +667,9 @@ do with this text, here and now? Are readers able to copy and paste? Do they
 have legal permissions to quote at length, to perform publicly, or to
 otherwise trans-mediate?
 
-<!-- needs more of a conclusion -->
+## 0.4 Plan of the Present Work
 
-## 0.4 Structuring Principles
+<!-- needs more of a conclusion -->
 
 <!-- new connector -->
 <!-- rewrite -->
@@ -687,8 +689,6 @@ copper and silicon, to liquid crystal and the floating gate, and on towards the
 human and the community. It is but a single possible pass through a cavernous
 black box. Each chapter reflects a waypoint along the journey.
 
-
-## 0.5 Plan of the Present Work
 
 The passage from keystroke to pixel runs a thread through the book. I begin
 with a few simple questions that lay the grounds for digital textuality: What
@@ -829,3 +829,5 @@ Harcourt have advanced critique along similar lines. See
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
 
+[^ln-krsh]: The idea of reverse engineering is suggested also by Matthew
+Kirschenbaum's idea of "forensic reading." See @kirschenbaum_mechanisms_2008.
