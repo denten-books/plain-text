@@ -20,26 +20,40 @@ cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
 It was and continues to be a disconcerting process by which things dear and
-familiar to me, in both worlds, grew strange and unfamiliar, showing themselves
-to be sometimes less than and sometimes more than I comfortably expected.
-Nothing could be assumed from the start. Field specific jargon, down to the
-naive foundations, had to be examined for hidden assumptions that prevented
-congruence. With time, I understood that code and poetry have everything to do
-with one another.
+familiar to me, in both worlds, grew strange and unfamiliar, showing
+themselves to be sometimes less than and sometimes more than I comfortably
+expected.  Nothing could be assumed from the start. Field specific jargon,
+down to the naive foundations, had to be examined for hidden assumptions that
+prevented congruence. With time, I understood that code and poetry have much
+to do with one another.
 
-<!--finish with the flusser --> The Czech-born philosopher and perpetual
-migrant Vilém Flusser . Svetlana Boym, another traveller, a compatriot and
-once mentor, also considered her estrangement a methodology, applicable to
-life and scholarship [@boym_estrangement_1996]. Defamiliarization plays an
-instrumental part of an immigrant's survival mechanism.[^ln-flusser] The
-digitally displaced similarly hold on to the discomfort of the encounter with
-the machine. Estrangement---always at the heart of immigrant or queer
-poetics---reconciles without seeking wholeness or integration. I dedicate this
-book then to queers and immigrants, literal and figurative---spatial,
-literary, technological---to those being displaced unwillingly, to those
-exiled within and without, to those who understand the need for
-self-displacement, to those who transgress purposefully, and to those willing
-to trespass.
+The Czech-born philosopher Vilém Flusser understood the condition of unease
+that comes with emigration, both physical and mental, as a type of information
+processing. Contemporary technology offers us an irresistible compromise, by
+which we exchange critical understanding for comfort. Habit covers the homes
+we make for ourselves "like a wool blanket," Flusser wrote: "it smoothes the
+sharp edges of all phenomena that it covers so that I not longer pump against
+them, but I am able to make use of them blindly" [@flusser_freedom_2003, 13].
+
+
+"When I sit at my desk, I don't see the
+papers and the books that are lyig all about because I'm used to them," he
+wrote. "Habituation
+
+Our challenge today is uproot oneself from comfortable
+
+. Svetlana Boym, another traveller, a
+compatriot and once mentor, also considered her estrangement a methodology,
+applicable to life and scholarship [@boym_estrangement_1996].
+Defamiliarization plays an instrumental part of an immigrant's survival
+mechanism.[^ln-flusser] The digitally displaced similarly hold on to the
+discomfort of the encounter with the machine.  Estrangement---always at the
+heart of immigrant or queer poetics---reconciles without seeking wholeness or
+integration. I dedicate this book then to queers and immigrants, literal and
+figurative---spatial, literary, technological---to those being displaced
+unwillingly, to those exiled within and without, to those who understand the
+need for self-displacement, to those who transgress purposefully, and to those
+willing to trespass.
 
 ## 0.1 Simulated text
 
