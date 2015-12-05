@@ -135,11 +135,20 @@ free software or to publish in open-source journals, participates also in the
 larger, global systems that propitiate violence and inequity. The emotional
 affirmation that accompanies exuberant social networking brings with governing
 structures used widely by law enforcement and national security agencies.
-Comfort and security comprise part and parcel of the same compromise that
-leads to critical disempowerment.
+Comfort and security comprise part and parcel of the same ill-conceived
+bargain that leads to critical disempowerment.
 
 [^ln-exposed]: For an extended exposition of this dynamic see
 @harcourt_exposed:_2015.
+
+[^ln-exposed2]: Again, a point that is given its full treatment in
+@harcourt_exposed:_2015.
+
+Literary theory, a discipline fundamentally engaged in the exegesis of all
+metaphors, is crucial to preserving the project of digital disobedience. I
+begin where Bernard Harcourt's book ends: with possibility of localized
+dissent, limited for now to the immediate material contexts of reading,
+writing, and finding knowledge.
 
 Svetlana Boym, another traveller, a
 compatriot and once mentor, also considered her estrangement a methodology,
