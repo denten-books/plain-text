@@ -1,64 +1,4 @@
-# Introduction
-
-*Plain Text* enacts a reconciliation of vocabularies. It is a response to a
-particular situation of a literary scholar encountering the field of software
-engineering. For a long stretch of my professional life, these two areas of
-activity remained separate. I worked at one and I studied the other.  At the
-time, I simply did not think that code had anything to do with poetry. The
-idea for the book came to me in a moment of realization after I was asked one
-of those naive but fundamental questions of the kind that can set research in
-motion down a long and winding path. A childhood friend who loves books asked
-about the difference between text in print and text on the screen. It was in
-that struggle to articulate the difference that I realized that some of my
-deepest assumptions about literature relied on the centuries-long stability of
-print media. Despite my professional experience as a programmer, I could not
-readily explain the mechanisms by which keystrokes turned into pixels, pixels
-into letters, and letters into words. I could recount technical detail on some
-level, but my knowledge also had huge gaps. It did not amount to a coherent
-story. I was, despite my best efforts, surrounded by magical lanterns that
-cast shadows of code and poetry.
-
-Initially, at the point of contact, the two selves spoke different languages.
-It was and continues to be a disconcerting process by which things dear and
-familiar to me, in both worlds, grew strange and unfamiliar, showing
-themselves to be sometimes less than and sometimes more than I comfortably
-expected.  Nothing could be assumed from the start. Field specific jargon,
-down to the naive foundations, had to be examined for hidden assumptions that
-prevented congruence. With time, I saw that code and poetry have much to do
-with one another.
-
-The Czech-born philosopher Vilém Flusser understood the condition of unease
-that comes with emigration, both physical and mental, as a type of information
-processing. Contemporary technology offers us an irresistible compromise, by
-which we trade critical understanding for comfort. Habit covers the various
-homes we make for ourselves in the world "like a wool blanket," Flusser wrote,
-"it smoothes the sharp edges of all phenomena that it covers so that I not
-longer bump against them, but I am able to make use of them blindly." "When I
-sit at my desk," he went on to write, "I don't see the papers and the books
-that are lying all about because I'm used to them" [@flusser_freedom_2003,
-13]. Familiar objects pass no information to their users, according the
-Flusser. By contrast, the condition of exile allows the displaced to once
-again transform habituated experience into meaningful information. In exile,
-"everything is unusual," he writes [@flusser_does_2011, 81]. The migrant
-experiences the world as an ex-perience [*er-fahrung*], or literally 
-
-Our challenge today is to uproot ourselves from the comfort that rapidly
-descended on us in the shape
-
-. Svetlana Boym, another traveller, a
-compatriot and once mentor, also considered her estrangement a methodology,
-applicable to life and scholarship [@boym_estrangement_1996].
-Defamiliarization plays an instrumental part of an immigrant's survival
-mechanism.[^ln-flusser] The digitally displaced similarly hold on to the
-discomfort of the encounter with the machine.  Estrangement---always at the
-heart of immigrant or queer poetics---reconciles without seeking wholeness or
-integration. I dedicate this book then to queers and immigrants, literal and
-figurative---spatial, literary, technological---to those being displaced
-unwillingly, to those exiled within and without, to those who understand the
-need for self-displacement, to those who transgress purposefully, and to those
-willing to trespass.
-
-## 0.1 Simulated text
+# Simulated Text: an Introduction
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
@@ -110,6 +50,8 @@ a manual and terms of service. In short, it governs reading. At times, it
 reconfigures itself dynamically, affecting all of the content that I have
 relegated to the device: books, memories, pictures, words, and thoughts.
 
+## 0.1 Simulated text
+
 The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
 is but a compelling metaphor which obscures material realities of reading and
 writing, transformed by the advent of computation. It is not a book, but a
@@ -119,44 +61,91 @@ What is being compared to what? How did it come into being and how does it
 affect practices of literary interpretation? In *Plain Text* I attempt to come
 to terms with the conditions of simulated textuality.
 
-The challenge of reading and writing such a book lies in its inherently
-trans-disciplinary subject matter. Reflecting on the development of Morse Code
-in 1949 in the *Proceedings of the American Philosophical Society*, Frank
-Halstead mentions the difficulty of finding a home field in the arts or
-sciences for what he calls "code development." "It is a matter somewhat
-related to the general art of cryptology," he writes, "yet it is not wholly
-divorced from electrical engineering nor from general philology"
-[@halstead_genesis_1949, 456]. As Halstead anticipated, research for *Plain
-Text*, a book about textual encoding, has led me to range of rare primary
-archival materials: from the proceedings of the Association for Computing
-Machinery (ACM) to the United States Patent and Trademark Office; from Bell
-Labs to early Soviet publishing houses that heralded the advance of formalism;
-from studies on animal communication behavior, to Unix manuals, to textbooks
-on semiotics, and to foundational texts in the philosophy of aesthetics and
-literary theory.
+*Plain Text* enacts a reconciliation of vocabularies. It is a response to a
+particular situation of a literary scholar encountering the field of software
+engineering. For a long stretch of my professional life, these two areas of
+activity remained separate. I worked at one and I studied the other. At the
+time, I simply did not think that code had anything to do with poetry. The
+idea for the book came to me in a moment of realization after I was asked one
+of those naive but fundamental questions of the kind that can set research in
+motion down a long and winding path. A childhood friend who loves books asked
+about the difference between text in print and text on the screen. It was in
+that struggle to articulate the difference that I realized that some of my
+deepest assumptions about literature relied on the centuries-long stability of
+print media. Despite my professional experience as a programmer, I could not
+readily explain the mechanisms by which keystrokes turned into pixels, pixels
+into letters, and letters into words. I could recount technical detail on some
+level, but my knowledge also had huge gaps. It did not amount to a coherent
+story. I was, despite my best efforts, surrounded by magical lanterns that
+cast shadows of code and poetry.
 
-A skeptically minded reader may ask, what does all of that have to do with
-literature? Surely, the domain of the digital belongs to computer science.
-What can literary theory contribute to our understanding of digital
-textuality?  My media archeological excavations reveal that the history of
-software engineering shares common intellectual ancestry with literary theory.
-Both converged on the separation of form and content at the beginning of the
-twentieth century. Both subsequently articulated the idea of structure in
-documents and narratives. The two fields often spoke the same language. But,
-they did so in parallel, without much intersection. In *Plain Text* I attempt
-to rebuild a vocabulary common to both fields.
+Initially, at the point of contact, the two selves spoke different languages.
+It was and continues to be a disconcerting process by which things dear and
+familiar to me, in both worlds, grew strange and unfamiliar, showing
+themselves to be sometimes less than and sometimes more than I comfortably
+expected. Nothing could be assumed from the start. Field specific jargon,
+down to the naive foundations, had to be examined for hidden assumptions that
+prevented congruence. With time, I saw that code and poetry have much to do
+with one another.
 
-Drawing on a range of archival materials at the intersection of literary
-thought and the history of modern computing in the nineteenth and twentieth
-centuries, *Plain Text* examines a number of key literary-theoretical
-constructs, recasting the paper book as a metaphor machine and computational
-object. I will argue that extant theories of interpretation construct a notion
-of close reading based on preexisting properties and assumptions attached to
-static print media. By contrast, electronic text changes dynamically to suit
-its reader, cultural context, and geography. Consequently, I argue for the
-development of what I term *computational hermeneutics* capable of reaching
-past the surface content to reveal also the software platforms and the
-hardware infrastructures that contribute to the production of meaning.
+The Czech-born philosopher Vilém Flusser understood the condition of unease
+that comes with emigration, both physical and mental, as a type of information
+processing. Contemporary technology offers us an irresistible compromise, by
+which we trade critical understanding for comfort. Habit covers the various
+homes we make for ourselves in the world "like a fluffy cotton wool blanket,"
+Flusser wrote---"it smoothes the sharp edges of all phenomena that it covers
+so that I not longer bump against them, but I am able to make use of them
+blindly." "When I sit at my desk," he went on to write, "I don't see the
+papers and the books that are lying all about because I'm used to them"
+[@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information to
+their users, according the Flusser. By contrast, the condition of exile allows
+the displaced to once again transform habituated experience into meaningful
+information. In exile, "everything is unusual," he writes [@flusser_does_2011,
+81]. The migrant experiences the world as an ex-perience [*er-fahrung*], or
+literally a driving out. Discovery, he concludes can "begin as soon as the
+blanket is pulled away," where the familiar objects can pass into view again
+[@flusser_does_2011, 86-7].
+
+Our challenge today is to uproot ourselves from the comfort that rapidly
+descended on the dwellings of our intellectual life. Papers and books have
+indeed disappeared into the background. Mistaken for neutral conduits of
+information, their electronic counterparts appear to gain a sense of agency of
+their own. Devices that "watch," "hear," "see," and "think" give rise to
+object phenomenology and the internet of things. Such objects threaten to
+enter the network as independent agents. Marx's "table that evolves grotesque
+ideas out of its wooden brain" can now be re-branded into Microsoft *Surface*
+and PixelSense, product names form the life cycle of an actual "smart" table
+[@marx_captial_1906, 82; @wigdor_designing_2009]. By treating things as
+animate objects, we ourselves have become enmeshed in a system of digital
+production that commodifies human experience. Objects that surround us collect
+our reading habits, social interactions, and intimate
+conversations.[^ln-exposed] But agents that benefit from the trade in personal
+information are neither immaterial nor post-human. The bargain that trades
+critical understanding for comfort benefits specific corporate interests and
+international intelligence agencies. The rhetoric about smart objects shifts
+our attention from the seats of power to things dumb, powerless, and
+indifferent to our protestations.
+
+The internal exile that we must undergo to perceive the animate metaphor
+cannot compare in difficulty to the experience of actual displacement that
+follows natural disaster, war, poverty, and political instability. Yet, our
+systematic reluctance to take on even those small intellectual discomforts
+that could lead to acts of localized dissent and disobedience, to write using
+free software or to publish in open-source journals, participates also in the
+larger, global systems that propitiate violence and inequity. The emotional
+affirmation that accompanies exuberant social networking brings with governing
+structures used widely by law enforcement and national security agencies.
+Comfort and security comprise part and parcel of the same compromise that
+leads to critical disempowerment.
+
+[^ln-exposed]: For an extended exposition of this dynamic see
+@harcourt_exposed:_2015.
+
+Svetlana Boym, another traveller, a
+compatriot and once mentor, also considered her estrangement a methodology,
+applicable to life and scholarship [@boym_estrangement_1996].
+Defamiliarization plays an instrumental part of an immigrant's survival
+mechanism.[^ln-flusser] 
 
 I make two distinct methodological moves that further facilitate dialog
 between literary theory and computer science. The first comes from Russian
@@ -208,19 +197,32 @@ our thoughts. The book concludes with the concept of the human as encoded in
 the philosophy of the Unix operating system. <!-- update to reflect the new
 chapter structure -->
 
-A concern with the contemporary conditions of simulated textuality lead us to
-a rich archive from the history of literary theory, semiotics, telegraphy, and
-electrical engineering from the middle of the nineteenth to the middle of the
-twentieth centuries. For text to render on the screen properly it must be
-"encoded" or "translated" from machine-transmittable code into human-readable
-shape. <!-- elaborate encoding gentle --> Morse, Hughes, and Baudot alphabets
-were just some of the early encoding schemas that make such translation
-possible. Encoding constitutes a primitive field of textual activity, at the
-crossroads of software engineering and the study of literature. Encoding
-matters because how text is encoded, transmitted, and stored decides who gets
-to decode, to receive, and to access.
+
+The digitally displaced similarly hold on to the
+discomfort of the encounter with the machine.  Estrangement---always at the
+heart of immigrant or queer poetics---reconciles without seeking wholeness or
+integration. I dedicate this book then to queers and immigrants, literal and
+figurative---spatial, literary, technological---to those being displaced
+unwillingly, to those exiled within and without, to those who understand the
+need for self-displacement, to those who transgress purposefully, and to those
+willing to trespass.
 
 ## 0.2 Computational hermeneutics
+
+A concern with the contemporary conditions of simulated textuality leads us to
+a rich archive from the history of literary theory, semiotics, telegraphy, and
+electrical engineering from the middle of the nineteenth to the middle of the
+twentieth centuries. Drawing on a range of archival materials at the
+intersection of literary thought and the history of modern computing, *Plain
+Text* examines a number of key literary-theoretical constructs, recasting the
+paper book as a metaphor machine and computational object. I will argue that
+extant theories of interpretation construct a notion of close reading based on
+preexisting properties and assumptions attached to static print media. By
+contrast, electronic text changes dynamically to suit its reader, cultural
+context, and geography. Consequently, I argue for the development of what I
+term *computational hermeneutics* capable of reaching past the surface content
+to reveal also the software platforms and the hardware infrastructures that
+contribute to the production of meaning.
 
 I have selected "plain text" as the title of this book to signal an affinity
 with a particular mode of interpretation. In technical terms, *plain text*
@@ -848,3 +850,43 @@ Harcourt have advanced critique along similar lines. See
 
 [^ln-krsh]: The idea of reverse engineering is suggested also by Matthew
 Kirschenbaum's idea of "forensic reading." See @kirschenbaum_mechanisms_2008.
+
+
+
+## Cuts
+
+The challenge of reading and writing such a book lies in its inherently
+trans-disciplinary subject matter. Reflecting on the development of Morse Code
+in 1949 in the *Proceedings of the American Philosophical Society*, Frank
+Halstead mentions the difficulty of finding a home field in the arts or
+sciences for what he calls "code development." "It is a matter somewhat
+related to the general art of cryptology," he writes, "yet it is not wholly
+divorced from electrical engineering nor from general philology"
+[@halstead_genesis_1949, 456]. As Halstead anticipated, research for *Plain
+Text*, a book about textual encoding, has led me to range of rare primary
+archival materials: from the proceedings of the Association for Computing
+Machinery (ACM) to the United States Patent and Trademark Office; from Bell
+Labs to early Soviet publishing houses that heralded the advance of formalism;
+from studies on animal communication behavior, to Unix manuals, to textbooks
+on semiotics, and to foundational texts in the philosophy of aesthetics and
+literary theory.
+
+A skeptically minded reader may ask, what does all of that have to do with
+literature? Surely, the domain of the digital belongs to computer science.
+What can literary theory contribute to our understanding of digital
+textuality?  My media archeological excavations reveal that the history of
+software engineering shares common intellectual ancestry with literary theory.
+Both converged on the separation of form and content at the beginning of the
+twentieth century. Both subsequently articulated the idea of structure in
+documents and narratives. The two fields often spoke the same language. But,
+they did so in parallel, without much intersection. In *Plain Text* I attempt
+to rebuild a vocabulary common to both fields.
+
+
+For text to render on the screen properly it must be
+"encoded" or "translated" from machine-transmittable code into human-readable
+shape. Encoding constitutes a primitive field of textual activity, at the
+crossroads of software engineering and the study of literature. Encoding
+matters because how text is encoded, transmitted, and stored decides who gets
+to decode, to receive, and to access.
+
