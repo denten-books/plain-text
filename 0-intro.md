@@ -53,31 +53,32 @@ relegated to the device: books, memories, pictures, words, and thoughts.
 ## 0.1 Simulated text
 
 The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
-is but a compelling metaphor which obscures material realities of reading and
+is but a compelling metaphor that belies material realities of reading and
 writing, transformed by the advent of computation. It is not a book, but a
-simulation of a book and everything it touches turns into a simulation. What
-does it mean to "read" a book metaphor? And what kind of a metaphor is it?
-What is being compared to what? How did it come into being and how does it
-affect practices of literary interpretation? In *Plain Text* I attempt to come
-to terms with the conditions of simulated textuality.
+simulation of a book. And everything associated with "reading" the metaphor
+must in itself be understood as a simulation. What does it mean to "study" a
+book metaphor? And what kind of a metaphor is it?  What is being compared to
+what? How did it come into being and how does it affect practices of literary
+interpretation? In *Plain Text* I attempt to come to terms with the conditions
+of simulated textuality.
 
-*Plain Text* enacts a reconciliation of vocabularies. It is a response to a
-particular situation of a literary scholar encountering the field of software
-engineering. For a long stretch of my professional life, these two areas of
-activity remained separate. I worked at one and I studied the other. At the
-time, I simply did not think that code had anything to do with poetry. The
-idea for the book came to me in a moment of realization after I was asked one
-of those naive but fundamental questions of the kind that can set research in
-motion down a long and winding path. A childhood friend who loves books asked
-about the difference between text in print and text on the screen. It was in
-that struggle to articulate the difference that I realized that some of my
-deepest assumptions about literature relied on the centuries-long stability of
-print media. Despite my professional experience as a programmer, I could not
-readily explain the mechanisms by which keystrokes turned into pixels, pixels
-into letters, and letters into words. I could recount technical detail on some
-level, but my knowledge also had huge gaps. It did not amount to a coherent
-story. I was, despite my best efforts, surrounded by magical lanterns that
-cast shadows of code and poetry.
+To do that, *Plain Text* enacts a reconciliation of vocabularies. It is a
+response to a particular situation of a literary scholar encountering the
+field of software engineering. For a long stretch of my professional life,
+these two areas of activity remained separate. I worked at one and I studied
+the other. At the time, I simply did not think that code had anything to do
+with poetry. The idea for the book came to me in a moment of realization after
+I was asked one of those naive but fundamental questions of the kind that can
+set research in motion down a long and winding path. A childhood friend who
+loves books asked about the difference between text in print and text on the
+screen. It was in that struggle to articulate the difference that I realized
+that some of my deepest assumptions about literature relied on the
+centuries-long stability of print media. Despite my professional experience as
+a programmer, I could not readily explain the mechanisms by which keystrokes
+turned into pixels, pixels into letters, and letters into words. I could
+recount technical detail on some level, but my knowledge also had huge gaps.
+It did not amount to a coherent story. I was, despite my best efforts,
+surrounded by magical lanterns that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
 It was and continues to be a disconcerting process by which things dear and
@@ -100,70 +101,87 @@ papers and the books that are lying all about because I'm used to them"
 [@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information to
 their users, according the Flusser. By contrast, the condition of exile allows
 the displaced to once again transform habituated experience into meaningful
-information. In exile, "everything is unusual," he writes [@flusser_does_2011,
+information. In exile, "everything is unusual," he wrote [@flusser_does_2011,
 81]. The migrant experiences the world as an ex-perience [*er-fahrung*], or
 literally a driving out. Discovery, he concludes can "begin as soon as the
 blanket is pulled away," where the familiar objects can pass into view again
 [@flusser_does_2011, 86-7].
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
-descended on the dwellings of our intellectual life. Papers and books have
-indeed disappeared into the background. Mistaken for neutral conduits of
-information, their electronic counterparts appear to gain a sense of agency of
-their own. Devices that "watch," "hear," "see," and "think" give rise to
-object phenomenology and the internet of things. Such objects threaten to
-enter the network as independent agents. Marx's "table that evolves grotesque
-ideas out of its wooden brain" can now be re-branded into Microsoft *Surface*
-and PixelSense, product names form the life cycle of an actual "smart" table
-[@marx_captial_1906, 82; @wigdor_designing_2009]. By treating things as
-animate objects, we ourselves have become enmeshed in a system of digital
-production that commodifies human experience. Objects that surround us collect
-our reading habits, social interactions, and intimate
-conversations.[^ln-exposed] But agents that benefit from the trade in personal
-information are neither immaterial nor post-human. The bargain that trades
-critical understanding for comfort benefits specific corporate interests and
-international intelligence agencies. The rhetoric about smart objects shifts
-our attention from the seats of power to things dumb, powerless, and
-indifferent to our protestations.
+descended on the dwellings of our intellectual life. Known quantities like
+papers and books disappeared into the background. Mistaken for neutral
+conduits of information, their electronic counterparts appear to gain a sense
+of agency of their own. Devices that "watch," "hear," "see," and "think" give
+rise to object phenomenology and the internet of things. Such objects threaten
+to enter the network as independent agents. Marx's "table that evolves
+grotesque ideas out of its wooden brain" can now be re-branded into Microsoft
+*Surface* and PixelSense, product names form the life cycle of an actual
+"smart" table [@marx_captial_1906, 82; @wigdor_designing_2009]. By mistaking
+things for animate actors, we ourselves have become enmeshed in a system of
+digital production that commodifies human experience. Objects that surround us
+collect our reading habits, social interactions, and intimate
+conversations.[^ln-exposed] But the actual living agents that benefit from the
+trade in personal information are neither objectified nor post-human. The
+bargain that trades critical understanding for comfort benefits specific
+interests, like multinational corporations and government intelligence
+agencies. The rhetoric about smart objects shifts our attention from the seats
+of power to things dumb, powerless, and indifferent to our protestations.
 
-The internal exile that we must undergo to perceive the animate metaphor
-cannot compare in difficulty to the experience of actual displacement that
-follows natural disaster, war, poverty, and political instability. Yet, our
-systematic reluctance to take on even those small intellectual discomforts
-that could lead to acts of localized dissent and disobedience, to write using
-free software or to publish in open-source journals, participates also in the
-larger, global systems that propitiate violence and inequity. The emotional
-affirmation that accompanies exuberant social networking brings with governing
-structures used widely by law enforcement and national security agencies.
+The internal exile that we must undergo for the book and the desk to come into
+view again cannot compare in difficulty to the experience of physical
+displacement that follows natural disaster, war, poverty, and political
+instability. Yet, our systematic reluctance to take on even those small
+intellectual discomforts that could lead to acts of localized dissent and
+disobedience---to write using free software or to publish in open-source
+journals for example---cannot be said to exist apart form the complex global
+systems that perpetuate violence and inequity. The emotional affirmation that
+accompanies exuberant social networking brings with it the governing
+structures used widely in the name of law enforcement and national security.
 Comfort and security comprise part and parcel of the same ill-conceived
-bargain that leads to critical disempowerment.
-
-[^ln-exposed]: For an extended exposition of this dynamic see
-@harcourt_exposed:_2015.
-
-[^ln-exposed2]: Again, a point that is given its full treatment in
-@harcourt_exposed:_2015.
+bargain that leads to critical disempowerment. But where it is difficult to
+imagine or to enact strategies of digital disobedience on the pandemic level,
+we can begin to address them through the numerous and seemingly mundane series
+of micro transactions that ultimately comprise the grand bargain. To pick up
+an electronic book and to take it apart may be against the law in some
+jurisdictions.[^ln-dmca] However, given the extent to which emerging
+thought-things like electronic books and personal communication devices
+participate actively in the production of meaning, we can no longer employ
+strategies of interpretation at the stratum of ideology alone. Close reading,
+critical theory, and literary analysis must reach down to the silicon bedrock
+that stages the very act of interpretation.
 
 Literary theory, a discipline fundamentally engaged in the exegesis of all
-metaphors, is crucial to preserving the project of digital disobedience. I
-begin where Bernard Harcourt's book ends: with possibility of localized
-dissent, limited for now to the immediate material contexts of reading,
-writing, and finding knowledge.
+figurative tropes, is therefore crucial to understanding new computational
+environments, which envelop intellectual life through metaphoric substitution.
+I begin where Bernard Harcourt's recent book on digital disobedience ends:
+with the possibility of localized dissent, limited for now to the immediate
+material contexts of reading, writing, and finding knowledge. Following
+theorists of the metaphor like Flusser and Viktor Shklovsky, I propose to
+proceed through systematic estrangement of material that have grown familiar
+and transparent as to escape the critical gaze.
 
-Svetlana Boym, another traveller, a
-compatriot and once mentor, also considered her estrangement a methodology,
-applicable to life and scholarship [@boym_estrangement_1996].
-Defamiliarization plays an instrumental part of an immigrant's survival
-mechanism.[^ln-flusser] 
-
-I make two distinct methodological moves that further facilitate dialog
-between literary theory and computer science. The first comes from Russian
-formalism, in a strategy of deliberate defamiliarization, or making strange.
-The second reciprocal movement emulates the practice of reverse
-engineering.[^ln-krsh] Unlike defamiliarization, the reverse engineering of
-devices aims to bring the obscure to light. My methodology thus lies in the
-dual complimentary movement between making known and making strange. The
-metaphor and the machine help organize the book and each of its chapters.
+Yet despite its power to recall the world anew, estrangement cannot be
+practiced effectively in the monologue. To produce meaning, it must become a
+dialectical practice, as Flusser reminds us. Perpetual exile is uninhabitable,
+he writes [@flusser_freedom_2003, 81]. Estrangement thrusts the displaced into
+the chaos of unsettled existence. With time, the displaced make a new home,
+from which they can once again "receive noise as information" and produce
+meaning. "I am embedded in the familiar," Flusser writes, "so that I can reach
+out toward the unfamiliar and create things yet unknown"
+[@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
+other. Through what Flusser calls "creative dialogue," the dialectics of exile
+can lead to "informed renewal" [@flusser_freedom_2003, 84]. Without the
+protection of one's home, everything turns to noise. There can no information
+without a dwelling, Flusser writes, "and without information,, in a chaotic
+world, one can neither feel nor think nor act" [@flusser_does_2011, 12]. In
+*Plain Text*, the reciprocal movement to making strange emulates the practice
+of reverse engineering.[^ln-krsh] Unlike estrangement, the reverse engineering
+of devices aims to bring the obscure to light. My methodology thus lies in the
+dual complimentary movement between making known and making strange. In each
+chapter I question metaphors like "closing windows" and "dragging and dropping
+files." The questioning often leads us to the internals of the device, where
+the material contexts of the metaphor can be examine. The metaphor and the
+machine help organize the book and each of its chapters.
 
 The language of computation employs many vivid metaphors, which lose their
 evocative power with frequent use. The task of a literary scholar becomes then
@@ -183,6 +201,11 @@ icon to the Trash means the user wants to discard that document"
 world" it concludes [@apple_apple_1987].
 
 Shklovsky here. исскуство как прием. The downside of metaphor.
+Writing at the cusp of the Svetlana Boym, another traveller, a
+compatriot and once mentor, also considered her estrangement a methodology,
+applicable to life and scholarship [@boym_estrangement_1996].
+Defamiliarization plays an instrumental part of an immigrant's survival
+mechanism.[^ln-flusser] 
 
 Defamiliarization reclaims the metaphor for analysis. A metaphor unfolds
 within each of the book's chapters. Each chapter pursues the metaphor to its
@@ -860,7 +883,15 @@ Harcourt have advanced critique along similar lines. See
 [^ln-krsh]: The idea of reverse engineering is suggested also by Matthew
 Kirschenbaum's idea of "forensic reading." See @kirschenbaum_mechanisms_2008.
 
+[^ln-exposed]: For an extended exposition of this dynamic see
+@harcourt_exposed:_2015.
 
+[^ln-exposed2]: Again, a point that is given its full treatment in
+@harcourt_exposed:_2015.
+
+[^ln-dmca]: I will discuss the legals aspects of Digital Rights Management
+technology and the consequences of the Digital Millennium Copyright Act in the
+later chapters of the book.
 
 ## Cuts
 
@@ -898,4 +929,5 @@ shape. Encoding constitutes a primitive field of textual activity, at the
 crossroads of software engineering and the study of literature. Encoding
 matters because how text is encoded, transmitted, and stored decides who gets
 to decode, to receive, and to access.
+
 
