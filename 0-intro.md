@@ -141,24 +141,24 @@ Comfort and security comprise part and parcel of the same ill-conceived
 bargain that leads to critical disempowerment. But where it is difficult to
 imagine or to enact strategies of digital disobedience on the pandemic level,
 we can begin to address them through the numerous and seemingly mundane series
-of micro transactions that ultimately comprise the grand bargain. To pick up
-an electronic book and to take it apart may be against the law in some
-jurisdictions.[^ln-dmca] However, given the extent to which emerging
+of micro transactions that ultimately comprise the grand bargain.
+
+To pick up an electronic book and to take it apart may be against the law in
+some jurisdictions.[^ln-dmca] However, given the extent to which emerging
 thought-things like electronic books and personal communication devices
 participate actively in the production of meaning, we can no longer employ
 strategies of interpretation at the stratum of ideology alone. Close reading,
 critical theory, and literary analysis must reach down to the silicon bedrock
-that stages the very act of interpretation.
-
-Literary theory, a discipline fundamentally engaged in the exegesis of all
-figurative tropes, is therefore crucial to understanding new computational
-environments, which envelop intellectual life through metaphoric substitution.
-I begin where Bernard Harcourt's recent book on digital disobedience ends:
-with the possibility of localized dissent, limited for now to the immediate
-material contexts of reading, writing, and finding knowledge. Following
-theorists of the metaphor like Flusser and Viktor Shklovsky, I propose to
-proceed through systematic estrangement of material that have grown familiar
-and transparent as to escape the critical gaze.
+that stages the very act of interpretation. Literary theory, a discipline
+fundamentally engaged in the exegesis of all figurative tropes, is therefore
+crucial to understanding new computational environments, which envelop
+intellectual life through metaphoric substitution. I begin where Bernard
+Harcourt's recent book on digital disobedience ends: with the possibility of
+localized dissent, limited for now to the immediate material contexts of
+reading, writing, and finding knowledge. Following theorists of the metaphor
+like Flusser and Viktor Shklovsky, I propose to proceed through systematic
+estrangement of material that have grown familiar and transparent as to escape
+the critical gaze.
 
 Yet despite its power to recall the world anew, estrangement cannot be
 practiced effectively in the monologue. To produce meaning, it must become a
@@ -170,18 +170,18 @@ meaning. "I am embedded in the familiar," Flusser writes, "so that I can reach
 out toward the unfamiliar and create things yet unknown"
 [@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
 other. Through what Flusser calls "creative dialogue," the dialectics of exile
-can lead to "informed renewal" [@flusser_freedom_2003, 84]. Without the
-protection of one's home, everything turns to noise. There can no information
-without a dwelling, Flusser writes, "and without information,, in a chaotic
-world, one can neither feel nor think nor act" [@flusser_does_2011, 12]. In
-*Plain Text*, the reciprocal movement to making strange emulates the practice
-of reverse engineering.[^ln-krsh] Unlike estrangement, the reverse engineering
-of devices aims to bring the obscure to light. My methodology thus lies in the
-dual complimentary movement between making known and making strange. In each
-chapter I question metaphors like "closing windows" and "dragging and dropping
-files." The questioning often leads us to the internals of the device, where
-the material contexts of the metaphor can be examine. The metaphor and the
-machine help organize the book and each of its chapters.
+can lead to "informed renewal" of shared space [@flusser_freedom_2003, 84].
+Without the protection of one's home, everything turns to noise. There can no
+information without a dwelling, Flusser writes, "and without information, in a
+chaotic world, one can neither feel nor think nor act" [@flusser_does_2011,
+12]. In *Plain Text*, I model the reciprocal movement to making strange on the
+diverse practices of reverse engineering.[^ln-krsh] Unlike estrangement, the
+reverse engineering of devices aims to bring the obscure to light. My
+methodology thus lies in the dual complimentary motion between making known
+and making strange. Each chapter unpacks metaphors like "closing windows,"
+"bookmarking a page, "and "dragging and dropping files" to reveal the
+internals of the device. The metaphor and the machine help organize the book
+and each of its chapters.
 
 The language of computation employs many vivid metaphors, which lose their
 evocative power with frequent use. The task of a literary scholar becomes then
@@ -189,23 +189,43 @@ to renew the metaphor, in a process that involves close reading in search for
 parallelisms that, as George Lakoff and Mark Johnson explain, configure one
 conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do
 we call some software programs "applications" for example? The application of
-what to what? Apple's iconic *Human Interface Guidelines* which heralded the
-era of "what you see is what you get" interfaces, contains many echoes of
-Lakoff work and explicitly recommends *Metaphors we Live by* in the
-bibliography section. The manual urges the designer to "convey meaning through
-representation" and to seek the metaphor appropriate to the task
+what to what? Apple's iconic *Human Interface Guidelines*, a manual of style
+that heralded the era of "what you see is what you get" interfaces, contains
+many echoes of Lakoff work and explicitly recommends *Metaphors we Live by* in
+the bibliography section. The manual urges the designer to "convey meaning
+through representation" and to seek the metaphor appropriate to the task
 [@apple_apple_1987, 11].  Do not ask the user to throw "documents" into
-"jars," for example, the manual urges the designer: "dragging the document
-icon to the Trash means the user wants to discard that document"
-[@apple_apple_1987, 229]  Simulated objects must "look like they do in real
-world" it concludes [@apple_apple_1987].
+"jars," for example, the manual reads: "dragging the document icon to the
+Trash means the user wants to discard that document" [@apple_apple_1987, 229]
+Simulated objects must "look like they do in real world" it concludes
+[@apple_apple_1987]. In the words of cognitive scientists John Carroll and
+John Thomas, whose work was also hugely influential for the Apple guidelines,
+"people employ metaphors in learning about computer systems." Using the
+appropriate metaphors therefore provides "wide-ranging improvements in
+learn ability and ease of use" [@carroll_metaphor_1982, 108].
 
-Shklovsky here. исскуство как прием. The downside of metaphor.
-Writing at the cusp of the Svetlana Boym, another traveller, a
-compatriot and once mentor, also considered her estrangement a methodology,
-applicable to life and scholarship [@boym_estrangement_1996].
-Defamiliarization plays an instrumental part of an immigrant's survival
-mechanism.[^ln-flusser] 
+The seminal work on figurative speech undertaken by the Russian formalists at
+the turn of the twentieth century reminds us that such metaphoric extension
+also has its cognitive downside. Once habituated, experience passes into the
+unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
+words, first in perception and then in practice [@brik_poetika_1919, 38 and
+104]. The metaphor, for the formalists, acts to conserve mental energy. Once
+internalized, it does not appear to conciousness. The image becomes so
+familiar that we cease thinking about it---an insight that was confirmed
+experimentally almost a century later.[^ln-cog] Metaphoric conceptual
+blending, a dynamic by which images and paradigms from one domain can be
+extended to another, improves learning and performance. Flusser would say it
+makes experience more "smooth." But for formalists, the ossified metaphor also
+threatened the vitality of life. Shklovsky quotes from the diaries of Lev
+Tolstoy, who, while dusting his room, could not remember if he already dusted
+his sofa. "Because actions like these are habituated and unconscious, I could
+not remember and knew that it was impossible to remember," wrote Tolstoy. "And
+so whether I dusted and forgot or just did so without thinking, it as if the
+action never happened [..] thus life when life passes without conscious
+reflection, it is as if one has not lived" [@brik_poetika_1919, 104]. In this
+way, Shklovsky concludes "life disappears into nothingness." The
+automatization of experience "consumes things, clothing, furniture, your
+spouse, and the fear of war" [@brik_poetika_1919, 104].
 
 Defamiliarization reclaims the metaphor for analysis. A metaphor unfolds
 within each of the book's chapters. Each chapter pursues the metaphor to its
@@ -228,7 +248,6 @@ later chapters, I analyze book and file storage systems, considered as
 our thoughts. The book concludes with the concept of the human as encoded in
 the philosophy of the Unix operating system. <!-- update to reflect the new
 chapter structure -->
-
 
 The digitally displaced similarly hold on to the
 discomfort of the encounter with the machine.  Estrangement---always at the
@@ -827,6 +846,9 @@ political affiliation. Who has agency program the device? Were a book also a
 pill or fused with the neural circuitry of the brain, would you know what and
 whom you were reading?
 
+
+[^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
+@gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
 
 [^ln-hegel]: I discuss the topic at length in Chapter 3.
 
