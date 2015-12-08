@@ -25,42 +25,41 @@ almost instantly. I then tap and poke at the surface until I find a small
 image that represents both my library and the book store, where I can
 "purchase" "books." To "buy a book," I agree to a limited licence, granting me
 access to data which the software then assembles into on-screen representation
-of books. I tap again to begin reading. The screen dims to match to room
-ambiance as words fill the screen. One of the passages on the first page
-appears underlined: a number of other readers in my social circle must have
-found the passage interesting. My finger slides along the glass surface to
-turn the page. The device emits a muffled rustle, to remind me of the
-underlying analogy. The image curls ever so slightly in a way that resembles a
-printed page as another "page" slides into view. My tiny library metaphor
-contains over a thousand books.
+of books. I tap again to begin reading. The screen dims to match room ambiance
+as words fill the screen. One of the passages on the first page appears
+underlined: a number of other readers in my social circle must have found the
+passage interesting. My finger slides along the glass surface to turn the
+page. The device emits a muffled rustle, to remind me of the underlying
+analogy. The image curls ever so slightly in a way that resembles a printed
+page as another "page" slides into view. My tiny library metaphor contains
+over a thousand such book metaphors.
 
-Despite the appearances, the electronic book reader-library-store
-metaphor-making device next to my computer has more in common with the smoke
-detector than it does with several paper volumes also scattered across my
-desk. Both devices comprise printed circuit boards, capacitors, silicone
-chips, and resistors. Both draw electric current. Both require firmware
-updates and are governed by codes: political and computational. The smoke
-alarm and the mobile phone connect to the network and both communicate with
-remote data centers and with each other. And yet, I continue to read
-electronic books as if they were familiar, immutable, and passive objects:
-just books. I think of them as intimate artifacts---friends even---wholly
-known to me, comforting, and warm. The electronic book is none of these
-things. It records my reading, sleeping, and consumption habits. It comes with
-a manual and terms of service. In short, it governs reading. At times, it
-reconfigures itself dynamically, affecting all of the content that I have
-relegated to the device: books, memories, pictures, words, and thoughts.
+Despite the appearances, the electronic metaphor-making device next to my
+computer has more in common with the smoke detector than it does with several
+paper volumes also scattered across my desk. Both devices comprise printed
+circuit boards, capacitors, silicone chips, and resistors. Both draw electric
+current. Both require firmware updates and are governed by codes: political
+and computational. The smoke alarm and the mobile phone connect to the network
+and both communicate with remote data centers and with each other. And yet, I
+continue to read electronic books as if they were familiar, immutable, and
+passive objects: just books. I think of them as intimate artifacts---friends
+even---wholly known to me, comforting, and warm. The electronic book is much
+less and much more than those things. Besides books, it keeps my memories,
+pictures, words, sounds, and thoughts. It records my reading, sleeping, and
+consumption habits. It tries to sell me things. It comes with a manual and
+terms of service. It is my confidant, my dealer, my spy.
 
 ## 0.1 Simulated text
 
 The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
 is but a compelling metaphor that belies material realities of reading and
-writing, transformed by the advent of computation. It is not a book, but a
-simulation of a book. And everything associated with "reading" the metaphor
-must in itself be understood as a simulation. What does it mean to "study" a
-book metaphor? And what kind of a metaphor is it?  What is being compared to
-what? How did it come into being and how does it affect practices of literary
-interpretation? In *Plain Text* I attempt to come to terms with the conditions
-of simulated textuality.
+writing, transformed by the advent of computation. The device on my desk is
+not a book, but a simulation of a book. And everything associated with
+"reading" such a metaphor must in itself be understood as a simulation. What
+does it mean to "study" a book metaphor? And what kind of a metaphor is it?
+What is being compared to what? How did it come into being and how does it
+affect practices of literary interpretation? In *Plain Text* I attempt to come
+to terms with the conditions of simulated textuality.
 
 To do that, *Plain Text* enacts a reconciliation of vocabularies. It is a
 response to a particular situation of a literary scholar encountering the
@@ -71,23 +70,23 @@ with poetry. The idea for the book came to me in a moment of realization after
 I was asked one of those naive but fundamental questions of the kind that can
 set research in motion down a long and winding path. A childhood friend who
 loves books asked about the difference between text in print and text on the
-screen. It was in that struggle to articulate the difference that I realized
-that some of my deepest assumptions about literature relied on the
-centuries-long stability of print media. Despite my professional experience as
-a programmer, I could not readily explain the mechanisms by which keystrokes
-turned into pixels, pixels into letters, and letters into words. I could
-recount technical detail on some level, but my knowledge also had huge gaps.
-It did not amount to a coherent story. I was, despite my best efforts,
-surrounded by magical lanterns that cast shadows of code and poetry.
+screen. It was in that struggle to articulate difference that I realized that
+some of my deepest assumptions about literature relied on the centuries-long
+stability of print media. Despite my professional experience as a programmer,
+I could not readily explain the mechanisms by which keystrokes turned into
+pixels, pixels into letters, and letters into words. I could recount technical
+detail on some level, but my knowledge also had huge gaps.  It did not amount
+to a coherent story. I was, despite my best efforts, surrounded by magical
+lanterns that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
 It was and continues to be a disconcerting process by which things dear and
 familiar to me, in both worlds, grew strange and unfamiliar, showing
 themselves to be sometimes less than and sometimes more than I comfortably
-expected. Nothing could be assumed from the start. Field specific jargon,
-down to the naive foundations, had to be examined for hidden assumptions that
-prevented congruence. With time, I saw that code and poetry have much to do
-with one another.
+expected. Nothing could be assumed from the start. Field specific jargon, down
+to naive foundations, had to be examined for hidden assumptions that prevented
+congruence. With time, I saw that code and poetry have much to do with one
+another.
 
 The Czech-born philosopher Vilém Flusser understood the condition of unease
 that comes with emigration, both physical and mental, as a type of information
@@ -99,13 +98,18 @@ so that I not longer bump against them, but I am able to make use of them
 blindly." "When I sit at my desk," he went on to write, "I don't see the
 papers and the books that are lying all about because I'm used to them"
 [@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information to
-their users, according the Flusser. By contrast, the condition of exile allows
-the displaced to once again transform habituated experience into meaningful
-information. In exile, "everything is unusual," he wrote [@flusser_does_2011,
-81]. The migrant experiences the world as an ex-perience [*er-fahrung*], or
-literally a driving out. Discovery, he concluded can "begin as soon as the
-blanket is pulled away," where the familiar objects can pass into view again
-[@flusser_does_2011, 86-7].
+their users, according the Flusser. Like water for fish, they pass into the
+background of experience. This is, we might say, the function of media: to
+ultimately disappear into the background, not to produce meaning but to cease
+production, to become a stage for meaning-making, and like the stage to
+disappear from view.
+
+By contrast, the condition of exile allows the displaced to once again
+transform habituated media into meaningful information. In exile, "everything
+is unusual," he wrote [@flusser_does_2011, 81]. The migrant experiences the
+world as an ex-perience [*er-fahrung*], or literally a driving out. Discovery,
+he concluded can "begin as soon as the blanket is pulled away," where the
+familiar objects can pass into view again [@flusser_does_2011, 86-7].
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
 descends on the dwellings of our intellectual life. Known quantities like
