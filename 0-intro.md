@@ -99,28 +99,29 @@ blindly." "When I sit at my desk," he went on to write, "I don't see the
 papers and the books that are lying all about because I'm used to them"
 [@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information to
 their users, according the Flusser. Like water for fish, they pass into the
-background of experience. This is, we might say, the function of media: to
+background of experience. This is, we might say, the function of a medium: to
 ultimately disappear into the background, not to produce meaning but to cease
 production, to become a stage for meaning-making, and like the stage to
 disappear from view.
 
 By contrast, the condition of exile allows the displaced to once again
-transform habituated media into meaningful information. In exile, "everything
+transform habituated medium into meaningful information. In exile, "everything
 is unusual," he wrote [@flusser_does_2011, 81]. The migrant experiences the
 world as an ex-perience [*er-fahrung*], or literally a driving out. Discovery,
 he concluded can "begin as soon as the blanket is pulled away," where the
 familiar objects can pass into view again [@flusser_does_2011, 86-7].
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
-descends on the dwellings of our intellectual life. Known quantities like
-papers and books have long disappeared into the background. Mistaken for
-neutral conduits of information, their electronic counterparts acquire a sense
-of agency of their own. Devices that "watch," "hear," "see," and "think" give
-rise to object phenomenology and the internet of things. Such seemingly smart
-objects threaten to enter the network as independent agents. Marx's "table
-that evolves grotesque ideas out of its wooden brain" can now be re-branded
-into Microsoft *Surface* and PixelSense, product names form the life cycle of
-an actual "smart" table [@marx_captial_1906, 82; @wigdor_designing_2009].
+descends on the dwellings of our intellectual life. Dulling the senses,
+seemingly inconspicuous conduits of information, electronic books and desks,
+acquire a sense of agency of their own. Devices that "watch," "hear," "see,"
+and "think" give rise to object-oriented phenomenology and the internet of
+things. A new generation of so called "smart" objects like smart phones, smart
+light bulbs, and smart watches, Intels and Idea Pads, threaten to enter the
+network as artificially intelligent and independent agents. Marx's "table that
+evolves grotesque ideas out of its wooden brain" can now be re-branded into
+Microsoft *Surface* and PixelSense, product names from the life cycle of an
+actual smart table [@marx_captial_1906, 82; @wigdor_designing_2009].
 
 By mistaking things for animate actors, we ourselves have become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -133,74 +134,75 @@ agencies. The rhetoric around smart objects shifts our attention from the
 seats of power to things dumb, powerless, and indifferent to our
 protestations.
 
-The internal exile that we must undergo for the "smart" book and the desk to
-come into view again cannot compare in difficulty to the experience of
-physical displacement that follows natural disaster, war, poverty, and
-political instability. Yet, our systematic reluctance to take on even those
-small intellectual discomforts that could lead to acts of localized dissent
-and disobedience---to write using free software or to publish in open-source
-journals for example---cannot be said to exist apart from the complex systems
-that perpetuate violence and inequity globally. The emotional affirmation that
-accompanies exuberant social networking brings with it the governing
-structures used widely in the name of law enforcement and national security.
-Comfort and security in fact comprise part and parcel of the same
-ill-conceived bargain that leads to critical disempowerment. But where it is
-difficult to imagine or to enact strategies of digital disobedience on the
+The internal exile that we must undergo for the smart book and the smart desk
+to come into view, to become foreground, cannot compare in difficulty to the
+experience of physical displacement that follows natural disaster, war,
+poverty, or political instability. Yet, our systematic reluctance to take on
+even those small intellectual discomforts that could lead to acts of localized
+dissent and disobedience---to write using free software, to build open
+archives, to share memories in private---cannot be said to exist apart from
+the complex systems that perpetuate violence and inequity globally. The
+emotional affirmation that accompanies exuberant social networking brings with
+it the governing structures used widely in the name of law enforcement and
+national security.  Comfort and security constitute part and parcel of the
+same ill-conceived bargain that leads to critical disempowerment. But where it
+is difficult to imagine or to enact strategies of digital disobedience on the
 pandemic level, we can begin to address them through the numerous and
-seemingly mundane series of micro transactions that ultimately comprise the
+seemingly mundane series of micro transactions that ultimately embody the
 material foundations of intellectual life.
 
 To pick up an electronic book and to take it apart may be against the law in
-some jurisdictions.[^ln-dmca] However, given the extent to which emerging
-thought-things like electronic books and personal communication devices
-participate actively in the production of meaning, we can no longer employ
-strategies of interpretation at the stratum of ideology alone. Close reading,
-critical theory, and literary analysis must reach down to the silicon bedrock
-that stages the very act of interpretation. Literary theory, a discipline
-fundamentally engaged in the exegesis of all figurative tropes, is therefore
-crucial to understanding new computational environments, which envelop
+some jurisdictions [@fry_circumventing_2009]. However, given the extent to
+which emerging thought-things like electronic books and personal communication
+devices participate actively in the production of meaning, we can no longer
+employ strategies of interpretation at the level of ideology alone. Close
+reading, critical theory, and literary analysis must reach down to the silicon
+bedrock that stages the very act of interpretation. Literary theory, a
+discipline fundamentally engaged in the exegesis of all figurative tropes, is
+crucial to the understanding new computational environments, which envelop
 intellectual life through metaphoric substitution. I begin where Bernard
 Harcourt's recent book on digital disobedience ends: with the possibility of
 localized dissent, limited for now to the immediate physical contexts of
-reading, writing, and finding knowledge. Following theorists of the metaphor
-like Flusser and Viktor Shklovsky, I propose to proceed through systematic
-revealment and estrangement of metaphors that have grown so transparent as to
-escape the critical gaze.
+reading, writing, and finding knowledge. Following itinerant theorists of the
+metaphor like Vilém Flusser and Viktor Shklovsky, I propose to proceed through
+systematic revealment and estrangement of computational metaphors, which have
+hitherto grown so transparent as to escape the critical gaze.
 
-The language of computation employs many vivid metaphors, which lose their
-evocative power with frequent use. The task of a literary scholar becomes then
-to renew the metaphor, in a process that involves close reading in search for
+The language of computation employs many vivid metaphors. Like all tropes,
+these lose their evocative power with frequent use. The task of a literary
+scholar becomes then to explicate and to renew the metaphor, in search for
 parallelisms that, as George Lakoff and Mark Johnson explain, configure one
 conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do
 we call some software programs "applications" for example? The application of
 what to what? Apple's iconic *Human Interface Guidelines*, a manual of style
 that heralded the era of "what you see is what you get" interfaces, contains
-echoes of Lakoff work and explicitly recommends *Metaphors we Live by* in the
-bibliography section. The manual urges the designer to "convey meaning through
-representation" and to seek the metaphor appropriate to the task
-[@apple_apple_1987, 11]. Do not ask the user to throw "documents" into
-"jars," for example, the manual entreats: "dragging the document icon to the
-Trash means the user wants to discard that document" [@apple_apple_1987, 229]
-Simulated objects must "look like they do in real world" it concludes
-[@apple_apple_1987]. In the words of cognitive scientists John Carroll and
-John Thomas, whose work was also references in the Apple design guidelines,
-"people employ metaphors in learning about computer systems." Using the
-appropriate metaphors therefore provides "wide-ranging improvements in
-learning ability and ease of use" [@carroll_metaphor_1982, 108].
+echoes of Lakoff work and explicitly recommends their designers read
+*Metaphors we Live by* in the annotated bibliography section. The manual urges
+the designer to "convey meaning through representation" and to seek the
+metaphor appropriate to the task [@apple_apple_1987, 11]. Do not ask the user
+to throw "documents" into "jars," for example, the manual entreats: "dragging
+the document icon to the Trash means the user wants to discard that document"
+[@apple_apple_1987, 229] Simulated objects must "look like they do in real
+world" it concludes [@apple_apple_1987]. In the words of cognitive scientists
+John Carroll and John Thomas, whose work was also references in the Apple
+design guidelines, "people employ metaphors in learning about computer
+systems." Using the appropriate metaphors therefore provides "wide-ranging
+improvements in learning ability and ease of use" [@carroll_metaphor_1982,
+108].
 
 The seminal work on figurative speech undertaken by the Russian formalists at
 the turn of the twentieth century reminds us that such metaphoric extension
-also has its cognitive downside. Once habituated, experience passes into the
+also has its cognitive downside. When habituated experience passes into the
 unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
 words, first in perception and then in practice [@brik_poetika_1919, 38 and
-104]. The metaphor, for the formalists, acts to conserve mental energy. Once
-internalized, it does not appear to conciousness. The image becomes so
-familiar that we cease thinking about it---an insight that was confirmed
-experimentally almost a century later.[^ln-cog] Metaphoric conceptual
-blending, a dynamic by which images and paradigms from one domain are extended
-to another, improves learning and performance. Flusser would say it makes
-experience more "smooth." The user avoids "bumping into the sharp corners" of
-new and complicated computational environments. For formalists, the ossified
+104]. The metaphor for the formalists acts to conserve mental energy. Once
+internalized it no longer attracts attention. The image becomes so familiar
+that we cease thinking about it---an insight that was confirmed experimentally
+almost a century later.[^ln-cog] Metaphoric conceptual blending, a dynamic by
+which images and paradigms from one domain are extended to another, improves
+the learning of software systems. Flusser would say it makes experience more
+"smooth." The user avoids "bumping into the sharp corners" of new and
+complicated computational environments. But for formalists, the ossified
 metaphor was also fraught with danger, as it threatened the vitality of life.
 Shklovsky quotes from the diaries of Lev Tolstoy, who, while dusting his room,
 could not remember if he already dusted his sofa. "Because actions like these
@@ -210,16 +212,16 @@ just did so without thinking, it as if the action never happened [..] thus
 when life passes without conscious reflection, it passes as if one has not
 lived at all." Life disappears into nothingness, when the "automatization of
 experience "consumes things, clothing, furniture, your spouse, and the fear of
-war" [@brik_poetika_1919, 104].
+war" [@brik_poetika_1919, 104].[^ln-translation] For Shklovsky and his cohort,
+estrangement could "resurrect" the stale image and provoke the "experience of
+the making of the thing"[@shklovsky_voskreshenie_1914;
+@shklovksy_sborniki_1917, 7]. They applied it in art and analysis alike. For
+example, in his influential essay on "How Gogol's *Overcoat* Was Made" Boris
+Eikhenbaum analyzes the humor of Gogol with clinical precision
+[@brik_poetika_1919, 151-67]. What readers lose in having the joke explained
+to them, they gain in understanding of the genre.
 
-The formalists beloved that estrangement could "resurrect" the stale image and
-provoke the "experience of the making of the
-thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. They
-applied it in art and analysis alike. For example, in his influential essay on
-"How Gogol's *Overcoat* Was Made" Boris Eikhenbaum analyzes the humor of Gogol
-with clinical precision [@brik_poetika_1919, 151-67]. What readers lose in
-having the joke explained to them, they gain in understanding of the genre. In
-*Plain Text* I extend the formal concern with the literary device, to the
+In *Plain Text* I extend the formal concern with the literary device to the
 device proper. I too am interested in how the literary thing is made. Because
 computers, as I will argue throughout, operate through symbolic and
 metaphorical substitution, we can use the methodology of formal symbolic
@@ -234,20 +236,20 @@ aims of *Plain Text*. A strategy of deliberate defamiliarization reclaims the
 metaphor-device for analysis.
 
 Yet despite its power to recall the world anew, estrangement cannot be
-practiced effectively in the mode of a monologue. To produce meaning, it must
-become dialogical and dialectical practice, as Flusser reminds us. Perpetual
-exile is uninhabitable [@flusser_freedom_2003, 81]. Estrangement thrusts the
-displaced into the chaos of unsettled existence. With time, the displaced make
-a new home, from which they can once again "receive noise as information" and
-produce meaning. "I am embedded in the familiar," Flusser writes, "so that I
-can reach out toward the unfamiliar and create things yet unknown"
-[@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
-other. Through what Flusser calls "creative dialogue," the dialectics of exile
-can lead to "informed renewal" of shared space [@flusser_freedom_2003, 84].
-Without the protection of one's home, everything turns to noise. There can no
-information without a dwelling, Flusser writes, "and without information, in a
-chaotic world, one can neither feel nor think nor act" [@flusser_does_2011,
-12].
+practiced effectively in the mode of a monologue. To produce meaning, Flusser
+reminds us, it must become dialogical and dialectical practice. Perpetual
+exile is otherwise uninhabitable [@flusser_freedom_2003, 81]. Estrangement
+thrusts the displaced into the chaos of unsettled existence. With time, the
+displaced make a new home, from which they can once again "receive noise as
+information" and produce meaning. "I am embedded in the familiar," Flusser
+writes, "so that I can reach out toward the unfamiliar and create things yet
+unknown" [@flusser_freedom_2003, 12]. The expellee and the settled inhabitant
+need each other. Through what Flusser calls "creative dialogue," the
+dialectics of exile can lead to "informed renewal" of shared space
+[@flusser_freedom_2003, 84].  Without the protection of one's home, everything
+turns to noise. There can no information without a dwelling, Flusser writes,
+"and without information, in a chaotic world, one can neither feel nor think
+nor act" [@flusser_does_2011, 12].
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering.[^ln-krsh] Unlike estrangement, the
@@ -257,18 +259,31 @@ and making strange. Each chapter unpacks metaphors like "closing windows,"
 "bookmarking a page, "and "dragging and dropping files" to reveal the
 internals of the device. The metaphor and the machine help organize the book
 and each of its chapters. Each chapter unpacks a metaphor to its logical
-conclusion.
-
-The reciprocal motion to defamiliarization passes through a series of case
-studies. The function of a case study in an engineer's education, as Henry
-Petroski explains in his *Invention by Design*, is to understand the ways by
-which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
-with a metaphor, each of my chapters also contains at least one literary
-"thought thing." Each also enacts a deconstruction---a literal taking
+conclusion. The reciprocal motion to defamiliarization passes through a series
+of case studies. The function of a case study in an engineer's education, as
+Henry Petroski explains in his *Invention by Design*, is to understand the
+ways by which one gets "from thought to thing" [@petroski_invention_1996,
+3-7]. Along with a metaphor, each of my chapters also contains at least one
+literary "thought thing." Each also enacts a deconstruction---a literal taking
 apart---of that device.
 
+The challenge of reading and writing such a book lies in its inherently
+trans-disciplinary subject matter. Reflecting on the development of Morse Code
+in 1949 in the *Proceedings of the American Philosophical Society*, Frank
+Halstead mentions the difficulty of finding a home field in the arts or
+sciences for what he calls "code development." "It is a matter somewhat
+related to the general art of cryptology," he writes, "yet it is not wholly
+divorced from electrical engineering nor from general philology"
+[@halstead_genesis_1949, 456]. As Halstead anticipated, research for *Plain
+Text*, has led me to range of rare primary archival materials: from the
+proceedings of the Association for Computing Machinery (ACM) to the United
+States Patent and Trademark Office; from Bell Labs to early Soviet publishing
+houses that heralded the advance of formalism; from studies on animal
+communication behavior, to Unix manuals, to textbooks on semiotics, and to
+foundational texts in the philosophy of aesthetics and literary theory.
+
 The digitally displaced hold on to the discomfort of the encounter with the
-machine.  Estrangement---always at the heart of immigrant or queer
+machine. Estrangement---always at the heart of immigrant or queer
 poetics---reconciles without seeking wholeness or integration. I dedicate this
 book then to queers and immigrants, literal and figurative---spatial,
 literary, technological---to those being displaced unwillingly, to those
@@ -308,24 +323,24 @@ comprehension. I do so in contrast with modes of human--computer interaction
 that may privilege other system--centric ideals like speed, security, or
 efficiency.
 
-The use of plain text implies an ethics of reading and writing. It is thus
-also a frame of mind or a interpretive stance one takes towards the making and
-the unmaking of literary artifacts. Besides the visible content, all
-contemporary documents carry with them a layer of hidden information.
-Originally used for typesetting, the formatting layer can affect much more
-than innocuous document attributes like "font size" or "line spacing."
-Increasingly, devices that mediate literary activity encode forms of
-governance. Such devices can tacitly police intellectual property laws, carry
-out surveillance operations, and force censorship. For example, the Digital
+The use of plain text implies also an ethics of reading and writing. It
+therefore further identifies a frame of mind or an interpretive stance one can
+assume in relation to the making and the unmaking of literary artifacts.
+Besides the visible content, all contemporary documents carry with them a
+layer of hidden information. Originally used for typesetting, the formatting
+layer can affect much more than innocuous document attributes like "font size"
+or "line spacing." Increasingly, devices that mediate literary activity encode
+forms of governance. Such devices tacitly censor, police intellectual property
+laws, and carry out surveillance operations. For example, the Digital
 Millennium Copyright act, passed in the United States in 1996, goes beyond
 legislature to require the "management" of digital rights (DRM) at the level
-of hardware.<!-- cite --> An electronic book governed by DRM may prevent the
-reader from copying or sharing stored content, even for the purposes of
-academic study.  <!-- cite --> Computational hermeneutics strives to make such
-control structures available for critical reflection. Building on the recent
-work of scholars like Wendy Kyong Chun, Tung-Hui Hu, Matthew Kirschenbaum, and
-Lisa Gitelman I make the case for an empowered poetics, able regain a measure
-of control over the material contexts of our knowledge production
+of hardware. An electronic book governed by DRM may prevent the reader from
+copying or sharing stored content, even for the purposes of academic
+study.[^ln-dmca] Computational hermeneutics strives to make such control
+structures available for critical reflection. Building on the recent work of
+scholars like Wendy Kyong Chun, Tung-Hui Hu, Matthew Kirschenbaum, and Lisa
+Gitelman I make the case for an empowered poetics, able regain a measure of
+control over the material contexts of our knowledge production
 [@chun_enduring_2008; @kirschenbaum_mechanisms_2008; @manovich_software_2013;
 @gitelman_paper_2014; @hu_prehistory_2015].
 
@@ -542,7 +557,6 @@ disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
 
 <!-- including this one -->
-
 
 <!-- by this paragraph we need to explicate the simulated text -->
 <!-- with historical anchoring -->
@@ -921,38 +935,12 @@ Kirschenbaum's idea of "forensic reading." See @kirschenbaum_mechanisms_2008.
 [^ln-exposed2]: Again, a point that is given its full treatment in
 @harcourt_exposed:_2015.
 
-[^ln-dmca]: I will discuss the legals aspects of Digital Rights Management
-technology and the consequences of the Digital Millennium Copyright Act in the
-later chapters of the book.
+[^ln-dmca]: See @ku_critique_2004; @ginsburg_legal_2005; and @fry_circumventing_2009.
+
+[^ln-translation]: Translations are mine unless source cited explicitly in
+English.
 
 ## Cuts
-
-The challenge of reading and writing such a book lies in its inherently
-trans-disciplinary subject matter. Reflecting on the development of Morse Code
-in 1949 in the *Proceedings of the American Philosophical Society*, Frank
-Halstead mentions the difficulty of finding a home field in the arts or
-sciences for what he calls "code development." "It is a matter somewhat
-related to the general art of cryptology," he writes, "yet it is not wholly
-divorced from electrical engineering nor from general philology"
-[@halstead_genesis_1949, 456]. As Halstead anticipated, research for *Plain
-Text*, a book about textual encoding, has led me to range of rare primary
-archival materials: from the proceedings of the Association for Computing
-Machinery (ACM) to the United States Patent and Trademark Office; from Bell
-Labs to early Soviet publishing houses that heralded the advance of formalism;
-from studies on animal communication behavior, to Unix manuals, to textbooks
-on semiotics, and to foundational texts in the philosophy of aesthetics and
-literary theory.
-
-A skeptically minded reader may ask, what does all of that have to do with
-literature? Surely, the domain of the digital belongs to computer science.
-What can literary theory contribute to our understanding of digital
-textuality?  My media archeological excavations reveal that the history of
-software engineering shares common intellectual ancestry with literary theory.
-Both converged on the separation of form and content at the beginning of the
-twentieth century. Both subsequently articulated the idea of structure in
-documents and narratives. The two fields often spoke the same language. But,
-they did so in parallel, without much intersection. In *Plain Text* I attempt
-to rebuild a vocabulary common to both fields.
 
 For text to render on the screen properly it must be
 "encoded" or "translated" from machine-transmittable code into human-readable
