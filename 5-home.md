@@ -1,4 +1,4 @@
-# Chapter 4: Archive
+# Chapter 4: Home
 
 
 Documents strongly connected with an idea of user and access. Strongly
@@ -1087,6 +1087,10 @@ End with Flusser. Home. Heimat. Umwelt.
 
 ## 5.3 Plain Text in Unix
 
+Unix Home
+Tara McPherson
+Flusser exile as information processing.
+Bachelard
 Plain text privileges a certain tics of humanity.
 
 
