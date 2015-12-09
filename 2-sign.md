@@ -1,4 +1,4 @@
-# Chapter 2: Splitting the Sign
+# Chapter 2: Sign
 
 `inscription, encoding, legibility`
 
