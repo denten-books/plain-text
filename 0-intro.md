@@ -20,19 +20,19 @@ polished glass covers the front of the device, where the tiny eyes of a camera
 and a light sensor also protrude. At the back, made of a smooth soft plastic,
 we find another, larger camera. At the foot of the device a grid of small
 perforations indicate breathing room for a speaker and several microphones. To
-"open" the book I touch the glass. The machine recognizes my fingerprint
-almost instantly. I then tap and poke at the surface until I find a small
-image that represents both my library and the book store, where I can
-"purchase" "books." To "buy a book," I agree to a limited licence, granting me
-access to data which the software then assembles into on-screen representation
-of books. I tap again to begin reading. The screen dims to match room ambiance
-as words fill the screen. One of the passages on the first page appears
-underlined: a number of other readers in my social circle must have found the
-passage interesting. My finger slides along the glass surface to turn the
-page. The device emits a muffled rustle, to remind me of the underlying
-analogy. The image curls ever so slightly in a way that resembles a printed
-page as another "page" slides into view. My tiny library metaphor contains
-over a thousand such book metaphors.
+"open" a book I touch the glass. The machine recognizes my fingerprint almost
+instantly. I then tap and poke at the surface until I find a small image that
+represents both my library and the book store, where I can "purchase books."
+To "buy a book," I agree to a limited licence, granting me access to data
+which the software then assembles into on-screen representation of books. I
+tap again to begin reading. The screen dims to match room ambiance as words
+fill the screen. One of the passages on the first page appears underlined: a
+number of other readers in my social circle must have found the passage
+interesting. My finger slides along the glass surface to turn the page. The
+device emits a muffled rustle, to remind me of the underlying analogy. The
+image curls ever so slightly in a way that resembles a printed page as another
+"page" slides into view. My tiny library metaphor contains over a thousand
+such book metaphors.
 
 Despite the appearances, the electronic metaphor-making device next to my
 computer has more in common with the smoke detector than it does with several
@@ -40,14 +40,15 @@ paper volumes also scattered across my desk. Both devices comprise printed
 circuit boards, capacitors, silicone chips, and resistors. Both draw electric
 current. Both require firmware updates and are governed by codes: political
 and computational. The smoke alarm and the mobile phone connect to the network
-and both communicate with remote data centers and with each other. And yet, I
-continue to read electronic books as if they were familiar, immutable, and
+in order to communicate with remote data centers and with each other. And yet,
+I continue to read electronic books as if they were familiar, immutable, and
 passive objects: just books. I think of them as intimate artifacts---friends
 even---wholly known to me, comforting, and warm. The electronic book is much
-less and much more than those things. Besides books, it keeps my memories,
+less and much more than those things. Besides prose, it keeps my memories,
 pictures, words, sounds, and thoughts. It records my reading, sleeping, and
-consumption habits. It tries to sell me things. It comes with a manual and
-terms of service. It is my confidant, my dealer, my spy.
+consumption habits. It tries to sell me things, showing me advertisements for
+cars and pills. It comes with a manual and terms of service. It is my
+confidant, my dealer, my spy.
 
 ## 0.1 Simulated text
 
@@ -79,14 +80,14 @@ detail on some level, but my knowledge also had huge gaps.  It did not amount
 to a coherent story. I was, despite my best efforts, surrounded by magical
 lanterns that cast shadows of code and poetry.
 
-Initially, at the point of contact, the two selves spoke different languages.
-It was and continues to be a disconcerting process by which things dear and
-familiar to me, in both worlds, grew strange and unfamiliar, showing
-themselves to be sometimes less than and sometimes more than I comfortably
-expected. Nothing could be assumed from the start. Field specific jargon, down
-to naive foundations, had to be examined for hidden assumptions that prevented
-congruence. With time, I saw that code and poetry have much to do with one
-another.
+Initially, at the point of contact, the two selves---the scholar and the
+engineer---spoke different languages. It was and continues to be a
+disconcerting process by which things dear and familiar to me, in both worlds,
+grew strange and unfamiliar, showing themselves to be sometimes less than and
+sometimes more than I comfortably expected. Nothing could be assumed from the
+start. Field specific jargon, down to naive foundations, had to be examined
+for hidden assumptions that prevented congruence. With time, I saw that code
+and poetry have much to do with one another.
 
 The Czech-born philosopher Vilém Flusser understood the condition of unease
 that comes with emigration, both physical and mental, as a type of information
@@ -123,19 +124,19 @@ evolves grotesque ideas out of its wooden brain" can now be re-branded into
 Microsoft *Surface* and PixelSense, product names from the life cycle of an
 actual smart table [@marx_captial_1906, 82; @wigdor_designing_2009].
 
-If we hope to trace the hidden flows of computed textuality, as Kittler wrote
-"under conditions of high technology," we must do so from the position of
+If we hope understand literature, in the words of Friedrich Kittler, "under
+conditions of high technology," as we must do so from the position of
 humanism. One cannot at the same time lament the systematic erasure of the
 human from the literary process and advocate for post- or anti-humanism.
 Unlike Kittler, who once wrote that in the face of technology "literature has
 nothing more to say," I believe that literature and literary analysis continue
-to have a voice in contemporary life.[@kittler_gramophone_1999, 263]
+to have a voice in contemporary life [@kittler_gramophone_1999, 263].
 Technology does not necessarily silence---it subtly changes the nature of
 textual phenomena. The instruments of literary analysis must consequently
 evolve to deal with new technological contingencies. Where texts are
 encrypted, we decrypt. If as Kittler writes, automated discourse analysis
 threatens to take command, we will engineer automatons that command on our
-behalf.[@kittler_gramophone_1999, 263] Such acts of resistance, small and
+behalf [@kittler_gramophone_1999, 263]. Such acts of resistance, small and
 large, can recover a measure of agency from the ruling determinism of---take
 your pick: markets, complex systems, unconscious drives, monistic universes,
 *gaia* science, social networks, technology, the singularity, bureaucracy, or
@@ -145,19 +146,6 @@ war. Indeed, the possibility of human erasure never strays far from reach,
 wager on anti-humanism, but the need to mobilize whatever modest means
 available for the human to persevere against great odds.
 
-Computational hermeneutics reveal that not all texts are created equal. In
-print, traditional distinctions between form and content lie flat. The
-printing press firmly embeds ink into paper, leaving no space between type and
-page. Media-minded critics like Johanna Drucker, Katherine Hayles, Matthew
-Kirschenbaum, and Jerome McGann have urged literary scholars to re-evaluate
-textuality in its media-specific contexts [@drucker_digital_2001;
-@mcgann_radiant_2001; @hayles_print_2004].  Their work reminds us that the
-flatness of digital text endures only in the guise of an illusion. Low-level,
-operational intuitions governing textuality---ideas about form, content,
-style, letter, and word---change profoundly as text shifts its confines from
-paper to pixel. A substantial gap separates the visible text from the source
-code that produces it. Forces of capital and control exploit that gap,
-obscuring the workings of the device.[^ln-capital]
 By mistaking things for animate actors, we ourselves have become enmeshed in a
 system of digital production that commodifies human experience. Objects that
 surround us collect our reading habits, social interactions, and intimate
@@ -219,29 +207,29 @@ to throw "documents" into "jars," for example, the manual entreats: "dragging
 the document icon to the Trash means the user wants to discard that document"
 [@apple_apple_1987, 229] Simulated objects must "look like they do in real
 world" it concludes [@apple_apple_1987]. In the words of cognitive scientists
-John Carroll and John Thomas, whose work was also references in the Apple
+John Carroll and John Thomas, whose work is also referenced in the Apple
 design guidelines, "people employ metaphors in learning about computer
 systems." Using the appropriate metaphors therefore provides "wide-ranging
 improvements in learning ability and ease of use" [@carroll_metaphor_1982,
 108].
 
 The seminal work on figurative speech undertaken by the Russian formalists at
-the turn of the twentieth century reminds us that such metaphoric extension
-also has its cognitive downside. When habituated experience passes into the
-unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
-words, first in perception and then in practice [@brik_poetika_1919, 38 and
-104]. The metaphor for the formalists acts to conserve mental energy. Once
-internalized it no longer attracts attention. The image becomes so familiar
-that we cease thinking about it---an insight that was confirmed experimentally
-almost a century later.[^ln-cog] Metaphoric conceptual blending, a dynamic by
-which images and paradigms from one domain are extended to another, improves
-the learning of software systems. Flusser would say it makes experience more
-"smooth." The user avoids "bumping into the sharp corners" of new and
-complicated computational environments. But for formalists, the ossified
-metaphor was also fraught with danger, as it threatened the vitality of life.
-Shklovsky quotes from the diaries of Lev Tolstoy, who, while dusting his room,
-could not remember if he already dusted his sofa. "Because actions like these
-are habituated and unconscious, I could not remember and knew that it was
+the turn of the twentieth century reminds us that such metaphoric shortcuts to
+learning also have its cognitive downside. When habituated experience passes
+into the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in
+Shklovsky's words, first in perception and then in practice
+[@brik_poetika_1919, 38 and 104]. The metaphor acts to conserve mental energy.
+Once internalized it no longer attracts attention. The image becomes so
+familiar that we cease thinking about it---an insight that was confirmed
+experimentally almost a century later.[^ln-cog] Conceptual blending, a dynamic
+by which images and paradigms from one domain are extended to another,
+improves the learning of software systems. Flusser would say it makes
+experience more "smooth." The user avoids "bumping into the sharp corners" of
+new and complicated computational environments. But the formalists understood
+that "automatized" metaphors also threatened the vitality of life. Shklovsky
+quotes from the diaries of Lev Tolstoy, who, while dusting his room, could not
+remember if he already dusted his sofa.  "Because actions like these are
+habituated and unconscious, I could not remember and knew that it was
 impossible to remember," wrote Tolstoy. "And so whether I dusted and forgot or
 just did so without thinking, it as if the action never happened [..] thus
 when life passes without conscious reflection, it passes as if one has not
@@ -423,6 +411,8 @@ financial markets can. Among the many available visions of human--computer
 interaction, we must chose one that confirms to a humanist ethos, whatever the
 reader's politics.
 
+<!--- explain affordances --->
+
 *Plain Text* makes a historical case for the recovery of textual thought
 latent in the machinery of contemporary computing. Just as philology cannot
 survive without an understanding of its computational present, the design of
@@ -431,15 +421,61 @@ advance without deep reflection about the cultural consequences of
 intellectual infrastructure. In his now seminal essay on technological
 determinism, Langdon Winner has argued that 
 
-<!-- examples --> 
-<! -- more on this -->
+Much is at stake in the material affordances of the literary artifact. The
+political struggle for meaning-making---the very opportunity to engage in the
+act of interpretation---begins with texts as material artifacts. In the West,
+it is easy to forget the blunt effectiveness of physical control. Books that
+are burned or redacted cannot be read at all. Elsewhere, global inequities of
+access to knowledge compel readers to print their own books and build their
+own libraries. Witness the so-called "shadow libraries" of Eastern Europe, the
+street book vendors of India and Pakistan, and the gray market presses of
+Nigeria arising form the country's "book famine."[@mahmood_copyright_2005;
+@okiy_photocopying_2005; @liang_piracy_2009; @tenen_book_2014;
+@bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
+*samizdat*-like practices engage in the proactive preservation of the literary
+sphere. Informal book exchange networks create reading publics that own the
+means of textual production and dissemination. Under duress, readers build
+homemade knowledge infrastructures: they duplicate, distribute, catalog, and
+archive. In late-capitalist economies such infrastructures are commodified.
+Consequently, they disappear from view. For many readers, technologies that
+support reading, writing, and interpretation have passed from tools to fetish.
+We have tender feelings for them and cradle them in our laps. No longer
+comprehensible by the way of the pen or the printing press we imbue them with
+magical powers and thus exist in the state of profound alienation from the
+conditions closet to our mental activity.
 
-<!-- start here instead of the above few paras -->
-<!-- consider taking out encoding entirely -->
+The shifting affordances of digital text challenge some of our deep-seated
+intuitions about literature. The word processor, operating system, and the
+electronic book are some of the sites that stage the encounter between
+literary theory and practice today. In *Plain Text* I introduce a method of
+computational hermeneutics, which is a form of textual analysis strongly
+influenced by materialist critique. Where "distant reading" and cultural
+analytics perceive patterns across large-scale copora, computational
+hermeneutics breaks textuality down into its minute constituent components. It
+is at this scale that I find readers and writers becoming fundamentally
+alienated from the immediate material contexts of knowledge production. Mine
+is not however a post-human materialism of the kind that privileges an
+object's point of view. On the contrary, the book aims to remove the aura of
+fetishism that attaches itself to literary--computational artifacts and to
+complex systems that mediate the textual encounter.
 
-<!-- come to the legibility question from the perspective of chapter 4 -->
-<!-- legibility of what, of the whole thing -->
-<!-- simulated text and how it obscures the material conditions -->
+### Splitting the sign
+
+The poetics of human--computer interaction reveal that not all texts are
+created equal. In print, traditional distinctions between form and content lie
+flat. The printing press firmly embeds ink into paper, leaving no space
+between type and page. Media-minded critics like Johanna Drucker, Katherine
+Hayles, Matthew Kirschenbaum, and Jerome McGann have urged literary scholars
+to re-evaluate textuality in its media-specific contexts
+[@drucker_digital_2001; @mcgann_radiant_2001; @hayles_print_2004]. Their work
+reminds us that the flatness of digital text endures only in the guise of an
+illusion. Low-level, operational intuitions governing textuality---ideas about
+form, content, style, letter, and word---change profoundly as text shifts its
+confines from paper to pixel. A substantial gap separates the visible text
+from the source code that produces it. Forces of capital and control exploit
+that gap, obscuring the workings of the device.[^ln-capital] 
+
+### Microanalysis 
 
 The Partnership for Assessment of Readiness for College and Careers (PARCC),
 the organization responsible for the controversial Common Core standards being
@@ -517,6 +553,8 @@ document.[^ln2-iarkho] The micro-instrumentation might also include a
 screwdriver, a binding needle, or a soldering iron: sharp tools that help to
 pry open and to scrutinize otherwise magical textual black boxes.
 
+### Changing conditions
+
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper offers the document of record, which, once archived,
 does not change its contents. By using analytic techniques like genetic
@@ -570,10 +608,7 @@ computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
 
-<!-- including this one -->
-
-<!-- by this paragraph we need to explicate the simulated text -->
-<!-- with historical anchoring -->
+<!-- first sentence is weak, already used this structure -->
 
 My challenge in this book lies in the relative paucity of our critical
 vocabulary. We have many theoretical models to address literary phenomena on
@@ -641,44 +676,6 @@ determinism that Kittler warns about? In what follows, I outline several
 intellectual lineages that frame my approach to the problem. A hermeneutics
 capable of addressing Kittler's challenge must be grounded in materialism that
 is both pragmatic and experimental.
-
-Much is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making---the very opportunity to engage in the
-act of interpretation---begins with texts as material artifacts. In the West,
-it is easy to forget the blunt effectiveness of physical control. Books that
-are burned or redacted cannot be read at all. Elsewhere, global inequities of
-access to knowledge compel readers to print their own books and build their
-own libraries. Witness the so-called "shadow libraries" of Eastern Europe, the
-street book vendors of India and Pakistan, and the gray market presses of
-Nigeria arising form the country's "book famine."[@mahmood_copyright_2005;
-@okiy_photocopying_2005; @liang_piracy_2009; @tenen_book_2014;
-@bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
-*samizdat*-like practices engage in the proactive preservation of the literary
-sphere. Informal book exchange networks create reading publics that own the
-means of textual production and dissemination. Under duress, readers build
-homemade knowledge infrastructures: they duplicate, distribute, catalog, and
-archive. In late-capitalist economies such infrastructures are commodified.
-Consequently, they disappear from view. For many readers, technologies that
-support reading, writing, and interpretation have passed from tools to fetish.
-We have tender feelings for them and cradle them in our laps. No longer
-comprehensible by the way of the pen or the printing press we imbue them with
-magical powers and thus exist in the state of profound alienation from the
-conditions closet to our mental activity.
-
-The shifting affordances of digital text challenge some of our deep-seated
-intuitions about literature. The word processor, operating system, and the
-electronic book are some of the sites that stage the encounter between
-literary theory and practice today. In *Plain Text* I introduce a method of
-computational hermeneutics, which is a form of textual analysis strongly
-influenced by materialist critique. Where "distant reading" and cultural
-analytics perceive patterns across large-scale copora, computational
-hermeneutics breaks textuality down into its minute constituent components. It
-is at this scale that I find readers and writers becoming fundamentally
-alienated from the immediate material contexts of knowledge production. Mine
-is not however a post-human materialism of the kind that privileges an
-object's point of view. On the contrary, the book aims to remove the aura of
-fetishism that attaches itself to literary--computational artifacts and to
-complex systems that mediate the textual encounter.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
