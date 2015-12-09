@@ -308,18 +308,24 @@ dialog.
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering.[^ln-krsh] Unlike estrangement, the
-reverse engineering of devices aims to bring the obscure to light. My
-methodology thus lies in the dialectical tension between making known and
+reverse engineering of devices aims to bring the obscure to light. 
+
+<!-- add about critical self reflection and devices as part of that process
+-->
+
+My methodology thus lies in the dialectical tension between making known and
 making strange. Each chapter unpacks metaphors like "closing windows,"
 "bookmarking a page, " and "dragging and dropping files" to reveal the
 internals of a device. The metaphor and the machine help organize the book and
 each of its chapters. Each chapter unpacks a metaphor to its logical
-conclusion. The reciprocal motion to defamiliarization passes through a series
-of case studies. The function of a case study in an engineer's education, as
-Henry Petroski explains in his *Invention by Design*, is to understand the
-ways by which one gets "from thought to thing" [@petroski_invention_1996,
-3-7]. Along with a metaphor, each of my chapters also contains at least one
-literary "thought thing." Each also enacts a deconstruction---a literal taking
+conclusion.
+
+The reciprocal motion to defamiliarization passes through a series of case
+studies. The function of a case study in an engineer's education, as Henry
+Petroski explains in his *Invention by Design*, is to understand the ways by
+which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
+with a metaphor, each of my chapters also contains at least one literary
+"thought thing." Each also enacts a deconstruction---a literal taking
 apart---of that device.
 
 The digitally displaced hold on to the discomfort of the encounter with the
