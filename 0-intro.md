@@ -17,8 +17,8 @@ it up to read a book. But what I mean by "reading a book" obscures a metaphor
 for series of odd actions. The "book" is a small, thin black rectangle: three
 inches wide, five inches tall, and barely a few millimeters thick. A slab of
 polished glass covers the front of the device, where the tiny eyes of a camera
-and a light sensor also protrude. At the back, made of a smooth soft plastic,
-we find another, larger camera. At the foot of the device a grid of small
+and a light sensor also protrude. At the back, made of smooth soft plastic, we
+find another, larger camera. At the foot of the device a grid of small
 perforations indicate breathing room for a speaker and several microphones. To
 "open" a book I touch the glass. The machine recognizes my fingerprint almost
 instantly. I then tap and poke at the surface until I find a small image that
@@ -28,27 +28,28 @@ which the software then assembles into on-screen representation of books. I
 tap again to begin reading. The screen dims to match room ambiance as words
 fill the screen. One of the passages on the first page appears underlined: a
 number of other readers in my social circle must have found the passage
-interesting. My finger slides along the glass surface to turn the page. The
-device emits a muffled rustle, to remind me of the underlying analogy. The
+notable. My finger slides along the glass surface to turn the page. The device
+emits a muffled rustle, as if to remind me of the underlying analogy. The
 image curls ever so slightly in a way that resembles a printed page as another
-"page" slides into view. My tiny library metaphor contains over a thousand
-such book metaphors.
+"page" slides into view. My tiny library metaphor holds uncounted thousands of
+such page metaphors.
 
 Despite the appearances, the electronic metaphor-making device next to my
 computer has more in common with the smoke detector than it does with several
-paper volumes also scattered across my desk. Both devices comprise printed
-circuit boards, capacitors, silicone chips, and resistors. Both draw electric
-current. Both require firmware updates and are governed by codes: political
-and computational. The smoke alarm and the mobile phone connect to the network
-in order to communicate with remote data centers and with each other. And yet,
-I continue to read electronic books as if they were familiar, immutable, and
-passive objects: just books. I think of them as intimate artifacts---friends
-even---wholly known to me, comforting, and warm. The electronic book is much
-less and much more than those things. Besides prose, it keeps my memories,
+paper volumes also scattered across my desk. Both devices, the electronic book
+and the smoke alarm, comprise printed circuit boards, capacitors, silicone
+chips, and resistors. Both draw electric current. Both require firmware
+updates and are governed by codes: political and computational. The smoke
+alarm and the mobile phone connect to the network. They communicate with
+remote data centers and with each other. And yet, I continue to read
+electronic books as if they were familiar, immutable, and passive objects:
+just books. I think of them as intimate artifacts---friends even---wholly
+known to me, comforting, and warm. The electronic book is at once much less
+and much more than those things. Besides prose, it keeps my memories,
 pictures, words, sounds, and thoughts. It records my reading, sleeping, and
 consumption habits. It tries to sell me things, showing me advertisements for
-cars and pills. It comes with a manual and terms of service. It is my
-confidant, my dealer, my spy.
+cars, jewelry, and pills. It comes with a manual and terms of service. It is
+my confidant, my dealer, my spy.
 
 ## 0.1 Simulated text
 
@@ -56,11 +57,11 @@ The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
 is but a compelling metaphor that belies material realities of reading and
 writing, transformed by the advent of computation. The device on my desk is
 not a book, but a simulation of a book. And everything associated with
-"reading" such a metaphor must in itself be understood as a simulation. What
-does it mean to "study" a book metaphor? And what kind of a metaphor is it?
-What is being compared to what? How did it come into being and how does it
-affect practices of literary interpretation? In *Plain Text* I attempt to come
-to terms with the conditions of simulated textuality.
+"reading" this metaphor must in itself be understood under the sign of
+simulation. What does it mean to "study" a book metaphor? And what kind of a
+metaphor is it?  What is being compared to what? How did it come into being
+and how does it affect practices of literary interpretation? In *Plain Text* I
+attempt to come to terms with the conditions of simulated textuality.
 
 To do that, *Plain Text* enacts a reconciliation of vocabularies. It is a
 response to a particular situation of a literary scholar encountering the
@@ -76,9 +77,9 @@ some of my deepest assumptions about literature relied on the centuries-long
 stability of print media. Despite my professional experience as a programmer,
 I could not readily explain the mechanisms by which keystrokes turned into
 pixels, pixels into letters, and letters into words. I could recount technical
-detail on some level, but my knowledge also had huge gaps.  It did not amount
-to a coherent story. I was, despite my best efforts, surrounded by magical
-lanterns that cast shadows of code and poetry.
+detail on some level, but my knowledge was also riddled with unexamined gaps.
+It did not amount to a coherent story. I was, despite my best efforts,
+surrounded by magical lanterns that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves---the scholar and the
 engineer---spoke different languages. It was and continues to be a
@@ -86,65 +87,71 @@ disconcerting process by which things dear and familiar to me, in both worlds,
 grew strange and unfamiliar, showing themselves to be sometimes less than and
 sometimes more than I comfortably expected. Nothing could be assumed from the
 start. Field specific jargon, down to naive foundations, had to be examined
-for hidden assumptions that prevented congruence. With time, I saw that code
-and poetry have much to do with one another.
+for hidden assumptions that prevented dialog. With time, I saw that code and
+poetry have much to do with one another. Writing this book has taught me to
+embrace the incongruence.
 
 The Czech-born philosopher Vilém Flusser understood the condition of unease
-that comes with emigration, both physical and mental, as a type of information
-processing. Contemporary technology offers us an irresistible compromise, by
-which we trade critical understanding for comfort. Habit covers the various
-homes we make for ourselves in the world "like a fluffy cotton wool blanket,"
-Flusser wrote---"it smoothes the sharp edges of all phenomena that it covers
-so that I not longer bump against them, but I am able to make use of them
-blindly." "When I sit at my desk," he went on to write, "I don't see the
-papers and the books that are lying all about because I'm used to them"
-[@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information to
-their users, according the Flusser. Like water for fish, they pass into the
-background of experience. This is, we might say, the function of a medium: to
-ultimately disappear into the background, not to produce meaning but to cease
-production, to become a stage for meaning-making, and like the stage to
+that comes with emigration, both physical and mental, to be a type of
+information processing. I relate to his work as a former refugee fleeing the
+dissolution of the Soviet Union, a transplant into Silicon Valley culture from
+a strict literary education, and now a lapsed engineer among humanists. These
+vantage points offer a singular view onto the material conditions of
+contemporary intellectual life. Technology offers us an irresistible
+compromise, by which we trade critical understanding for comfort. Habit covers
+the various homes we make for ourselves in the world "like a fluffy cotton
+wool blanket," Flusser wrote---"it smoothes the sharp edges of all phenomena
+that it covers so that I no longer bump against them, but I am able to make
+use of them blindly." "When I sit at my desk," he went on to write, "I don't
+see the papers and the books that are lying all about because I'm used to
+them" [@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information
+to their users, according to Flusser. Like water around fish, they pass into
+the background of experience. This is, we might say, the function of a medium:
+to ultimately disappear into the background, not to produce meaning but to
+cease production, to become a stage for meaning-making, and like the stage to
 disappear from view.
 
 By contrast, the condition of exile allows the displaced to once again
 transform habituated medium into meaningful information. In exile, "everything
-is unusual," he wrote [@flusser_does_2011, 81]. The migrant experiences the
-world as an ex-perience [*er-fahrung*], or literally a driving out. Discovery,
-he concluded can "begin as soon as the blanket is pulled away," where the
-familiar objects can pass into view again [@flusser_does_2011, 86-7].
+is unusual," Flusser wrote [@flusser_does_2011, 81]. The migrant experiences
+the world as an ex-perience [*er-fahrung*], or literally a driving out.
+Discovery, he concluded "begins as soon as the blanket is pulled away," where
+the familiar objects can pass into view again [@flusser_does_2011, 86-7].
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
 descends on the dwellings of our intellectual life. Dulling the senses,
-seemingly inconspicuous conduits of information, electronic books and desks,
-acquire a sense of agency of their own. Devices that "watch," "hear," "see,"
-and "think" give rise to object-oriented phenomenology and the internet of
-things. A new generation of so called "smart" objects like smart phones, smart
-light bulbs, and smart watches, Intels and Idea Pads, threaten to enter the
-network as artificially intelligent and independent agents. Marx's "table that
-evolves grotesque ideas out of its wooden brain" can now be re-branded into
-Microsoft *Surface* and PixelSense, product names from the life cycle of an
-actual smart table [@marx_captial_1906, 82; @wigdor_designing_2009].
+seemingly inconspicuous conduits of information---electronic books and
+desks---acquire a sense of agency of their own. Devices that "watch," "hear,"
+"see," and "think" give rise to object-oriented phenomenology and the internet
+of things. A new generation of artificially "intelligent" objects, things like
+smart phones, smart light bulbs, and smart watches, Intels and Idea Pads,
+enter the networked public sphere as seemingly independent agents. Marx's
+"table that evolves grotesque ideas out of its wooden brain" can now be
+re-branded into Microsoft *Surface* and PixelSense, product names from the
+life cycle of an actual smart table [@marx_captial_1906, 82;
+@wigdor_designing_2009].
 
-If we hope understand literature, in the words of Friedrich Kittler, "under
-conditions of high technology," as we must do so from the position of
-humanism. One cannot at the same time lament the systematic erasure of the
-human from the literary process and advocate for post- or anti-humanism.
-Unlike Kittler, who once wrote that in the face of technology "literature has
-nothing more to say," I believe that literature and literary analysis continue
-to have a voice in contemporary life [@kittler_gramophone_1999, 263].
-Technology does not necessarily silence---it subtly changes the nature of
-textual phenomena. The instruments of literary analysis must consequently
-evolve to deal with new technological contingencies. Where texts are
-encrypted, we decrypt. If as Kittler writes, automated discourse analysis
-threatens to take command, we will engineer automatons that command on our
-behalf [@kittler_gramophone_1999, 263]. Such acts of resistance, small and
-large, can recover a measure of agency from the ruling determinism of---take
-your pick: markets, complex systems, unconscious drives, monistic universes,
-*gaia* science, social networks, technology, the singularity, bureaucracy, or
-war. Indeed, the possibility of human erasure never strays far from reach,
-"like the face drawn in the sand at the edge of the sea"
-[@foucault_order_1994, 387]. The fragility of life compels not the Foucauldian
-wager on anti-humanism, but the need to mobilize whatever modest means
-available for the human to persevere against great odds.
+I will argue here that if we hope to understand literature, as Friedrich
+Kittler wrote, "under conditions of high technology," we can only do so from
+the position of humanism. One cannot at the same time lament the systematic
+erasure of the human from the literary process and advocate for post- or
+anti-humanism. Unlike Kittler, who once also wrote that in the face of
+technology "literature has nothing more to say," I believe that literature and
+literary analysis continue to have a voice in contemporary life
+[@kittler_gramophone_1999, 263]. Technology does not necessarily silence---it
+subtly changes the nature of textual phenomena. The instruments of literary
+analysis must consequently evolve to deal with new technological
+contingencies. Where texts are encrypted, we decrypt. If as Kittler writes,
+automated discourse analysis threatens to take command, we will engineer
+automatons that command on our behalf [@kittler_gramophone_1999, 263]. Such
+acts of resistance, small and large, can recover a measure of agency from the
+ruling determinism of---take your pick: markets, complex systems, unconscious
+drives, monistic universes, *gaia* science, social networks, technology, the
+singularity, bureaucracy, or war. Indeed, the possibility of human erasure
+never strays far from reach, "like the face drawn in the sand at the edge of
+the sea" [@foucault_order_1994, 387]. The fragility of life compels not the
+Foucauldian wager on anti-humanism, but the need to mobilize whatever modest
+means available for the human to persevere against great odds.
 
 By mistaking things for animate actors, we ourselves have become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -167,12 +174,13 @@ archives, to share memories in private---cannot be said to exist apart from
 the complex systems that perpetuate violence and inequity globally. The
 emotional affirmation that accompanies exuberant social networking brings with
 it the governing structures used widely in the name of law enforcement and
-national security.  Comfort and security constitute part and parcel of the
-same ill-conceived bargain that leads to critical disempowerment. But where it
-is difficult to imagine or to enact strategies of digital disobedience on the
-pandemic level, we can begin to address them through the numerous and
+national security. Comfort and security constitute part and parcel of the same
+ill-conceived bargain that leads to critical disempowerment. But where it is
+difficult to imagine or to enact strategies of digital disobedience on a
+universal scale, we can begin to address them through the numerous and
 seemingly mundane series of micro transactions that ultimately embody the
-material foundations of intellectual life.
+material foundations of local intellectual life. A new humanism affirms small
+differences in search for agency that can lead to action.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. However, given the extent to
@@ -187,9 +195,10 @@ intellectual life through metaphoric substitution. I begin where Bernard
 Harcourt's recent book on digital disobedience ends: with the possibility of
 localized dissent, limited for now to the immediate physical contexts of
 reading, writing, and finding knowledge. Following itinerant theorists of the
-metaphor like Vilém Flusser and Viktor Shklovsky, I propose to proceed through
-systematic revealment and estrangement of computational metaphors, which have
-hitherto grown so transparent as to escape the critical gaze.
+metaphor like Vilém Flusser, Viktor Shklovsky, and Hannah Arendt, I propose to
+proceed through systematic revealment and estrangement of computational
+metaphors, which have hitherto grown so transparent as to escape the critical
+gaze.
 
 The language of computation employs many vivid metaphors. Like all tropes,
 these lose their evocative power with frequent use. The task of a literary
@@ -207,93 +216,104 @@ to throw "documents" into "jars," for example, the manual entreats: "dragging
 the document icon to the Trash means the user wants to discard that document"
 [@apple_apple_1987, 229] Simulated objects must "look like they do in real
 world" it concludes [@apple_apple_1987]. In the words of cognitive scientists
-John Carroll and John Thomas, whose work is also referenced in the Apple
-design guidelines, "people employ metaphors in learning about computer
+John Carroll and John Thomas, whose work the Apple design guidelines also
+reference extensively, "people employ metaphors in learning about computer
 systems." Using the appropriate metaphors therefore provides "wide-ranging
 improvements in learning ability and ease of use" [@carroll_metaphor_1982,
 108].
 
 The seminal work on figurative speech undertaken by the Russian formalists at
 the turn of the twentieth century reminds us that such metaphoric shortcuts to
-learning also have its cognitive downside. When habituated experience passes
-into the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in
-Shklovsky's words, first in perception and then in practice
-[@brik_poetika_1919, 38 and 104]. The metaphor acts to conserve mental energy.
-Once internalized it no longer attracts attention. The image becomes so
-familiar that we cease thinking about it---an insight that was confirmed
-experimentally almost a century later.[^ln-cog] Conceptual blending, a dynamic
-by which images and paradigms from one domain are extended to another,
-improves the learning of software systems. Flusser would say it makes
-experience more "smooth." The user avoids "bumping into the sharp corners" of
-new and complicated computational environments. But the formalists understood
-that "automatized" metaphors also threatened the vitality of life. Shklovsky
-quotes from the diaries of Lev Tolstoy, who, while dusting his room, could not
-remember if he already dusted his sofa.  "Because actions like these are
-habituated and unconscious, I could not remember and knew that it was
-impossible to remember," wrote Tolstoy. "And so whether I dusted and forgot or
-just did so without thinking, it as if the action never happened [..] thus
-when life passes without conscious reflection, it passes as if one has not
-lived at all." Life disappears into nothingness, when the "automatization of
-experience "consumes things, clothing, furniture, your spouse, and the fear of
-war" [@brik_poetika_1919, 104].[^ln-translation] For Shklovsky and his cohort,
-estrangement could "resurrect" the stale image and provoke the "experience of
-the making of the thing"[@shklovsky_voskreshenie_1914;
-@shklovksy_sborniki_1917, 7]. They applied it in art and analysis alike. For
-example, in his influential essay on "How Gogol's *Overcoat* Was Made" Boris
-Eikhenbaum analyzes the humor of Gogol with clinical precision
-[@brik_poetika_1919, 151-67]. What readers lose in having the joke explained
-to them, they gain in understanding of the genre.
+learning also have their cognitive downside. Habituated experience passes into
+the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
+words, first in perception and then in practice [@brik_poetika_1919, 38 and
+104]. As a benefit, the metaphor acts to conserve mental energy. Once
+internalized, it no longer attracts attention. The image becomes so familiar
+that we cease thinking about it---an insight that was confirmed experimentally
+almost a century later.[^ln-cog] Conceptual blending, a dynamic by which
+images and paradigms from one domain are extended to another, thus improves
+the learning of software systems. Flusser would say it makes experience more
+"smooth." The user avoids "bumping into the sharp corners" of new and
+complicated computational environments.
 
-In *Plain Text* I extend the formal concern with the literary device to the
-device proper. I too am interested in how the literary thing is made. Because
-computers, as I will argue throughout, operate through symbolic and
-metaphorical substitution, we can use the methodology of formal symbolic
-analysis to our advantage. The overarching aim of the book is therefore to
-expose the illusion of verisimilitude between text on paper and the simulated
-text on a screen. The words may look the same, but the underlying affordances
-of the medium differ in significant detail. As an example, consider a news
-report that alters important details based on the reader's location. Imagine
-an e-book reader device that highlights popular passages of a novel in real
-time, shortening the less popular passages down to their algorithmically
-distilled summaries. For a literary analyst, the instability of the digital
-medium means analysis cannot be confined to reading for surface meaning alone.
-How can close reading persist when reading devices reconfigure the text to fit
-individual tastes, mood, or politics? How would we even agree on the fact that
-we are reading the same text? The very possibility of interpretation comes
-into question. The challenge of asking such questions lies in the relative
-paucity of our critical vocabulary. We have many theoretical models to address
-literary phenomena on the macro scale: period, genre, style, affect, world
-literature, etc. Yet the particulates of literary production and dissemination
-on the micro scale go for the most part unnamed. To come to terms with the
-book as a device; to begin to understand the nature of the text simulation; to
-perceive the particularity of the computed sign: these are the aims of *Plain
-Text*. A strategy of deliberate defamiliarization reclaims the metaphor-device
-for analysis.
+But the formalists also understood that metaphors so "automatized" threaten
+the vitality of life as well.  Shklovsky quotes from the diaries of Lev
+Tolstoy, who, while dusting his room, could not remember if he already dusted
+his sofa.  "Because actions like these are habituated and unconscious, I could
+not remember and knew that it was impossible to remember," wrote Tolstoy. "And
+so whether I dusted and forgot or just did so without thinking, it as if the
+action never happened [..] thus when life passes without conscious reflection,
+it passes as if one has not lived at all." Life disappears into nothingness,
+when the "automatization of experience "consumes things, clothing, furniture,
+your spouse, and the fear of war" [@brik_poetika_1919, 104].[^ln-translation]
+Carroll's recommendations for design guidelines assumed new users, unfamiliar
+with computing. But after more than three decades of computational interfaces,
+we have not moved far from the interfaces the metaphor approach has
+engendered. Like Tolstoy's mindless dusting, life at the keyboard passes
+without reflection.
+
+For Shklovsky and his cohort, estrangement could "resurrect" the stale image
+and provoke the "experience of the making of the
+thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. They
+applied it in art and analysis alike. For example, in his influential essay on
+"How Gogol's *Overcoat* Was Made" Boris Eikhenbaum analyzes the humor of Gogol
+with clinical precision [@brik_poetika_1919, 151-67]. What readers lose in
+having the joke explained to them, they gain in understanding of the genre. I
+take a similar approach in *Plain Text* by extending formal concerns with the
+mechanics of the literary "device" and "technique" to literary devices and
+technics proper.
+
+I too am interested in how the literary thing is made.  Because computers, as
+I will argue throughout, operate through symbolic and metaphorical
+substitution, we can use the methodology of formal symbolic analysis to our
+advantage. The overarching aim of the book is therefore to expose the illusion
+of verisimilitude between text on paper and the simulated text on a screen.
+The words may look the same, but the underlying affordances of the medium
+differ in significant detail. As an example, consider a news report that
+alters its content based on the reader's location. Imagine an e-book reader
+that highlights popular passages of a novel in real time, shortening the less
+popular passages down to their algorithmically distilled summaries.  For a
+literary analyst, the instability of the digital medium means analysis cannot
+be confined to reading for surface meaning alone. How can close reading
+persist when reading devices reconfigure the text to fit individual tastes,
+mood, or politics? How would we even agree on the fact that we are reading the
+same text? The very possibility of interpretation comes into question.
+
+The challenge of asking such questions lies in the relative paucity of our
+critical vocabulary. We have many theoretical models to address literary
+phenomena on the macro scale: period, genre, style, affect, world literature,
+etc. Yet the particulates of literary production and dissemination on the
+micro scale go for the most part unnamed. To come to terms with the book as a
+device; to begin to understand the nature of the text simulation; to perceive
+the particularity of the computed sign: these are the aims of *Plain Text*. A
+strategy of deliberate defamiliarization reclaims the metaphor-device for
+analysis.
 
 Yet despite its power to recall the world anew, estrangement cannot be
 practiced effectively in the mode of a monologue. To produce meaning, Flusser
-reminds us, it must become dialogical and dialectical practice. Perpetual
-exile is otherwise uninhabitable [@flusser_freedom_2003, 81]. Estrangement
-thrusts the displaced into the chaos of unsettled existence. With time, the
-displaced make a new home, from which they can once again "receive noise as
-information" and produce meaning. "I am embedded in the familiar," Flusser
-writes, "so that I can reach out toward the unfamiliar and create things yet
-unknown" [@flusser_freedom_2003, 12]. The expellee and the settled inhabitant
-need each other. Through what Flusser calls "creative dialogue," the
-dialectics of exile can lead to "informed renewal" of shared space
-[@flusser_freedom_2003, 84].  Without the protection of one's home, everything
-turns to noise. There can no information without a dwelling, Flusser writes,
-"and without information, in a chaotic world, one can neither feel nor think
-nor act" [@flusser_does_2011, 12].
+reminds us, it must become dialogical practice. Perpetual exile is otherwise
+uninhabitable [@flusser_freedom_2003, 81]. Estrangement thrusts the displaced
+into the chaos of unsettled existence. With time, the displaced make a new
+home, from which they can once again "receive noise as information" to produce
+meaning. "I am embedded in the familiar," Flusser wrote, "so that I can reach
+out toward the unfamiliar and create things yet unknown"
+[@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
+other. Through what Flusser calls "creative dialogue," the dialectics of exile
+can lead to "informed renewal" of shared space [@flusser_freedom_2003, 84].
+Without the protection of one's home, everything turns to noise. There can no
+information without a dwelling, Flusser wrote, "and without information, in a
+chaotic world, one can neither feel nor think nor act" [@flusser_does_2011,
+12]. By this dynamic displacement and habituation enter into a continual
+dialog.
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering.[^ln-krsh] Unlike estrangement, the
 reverse engineering of devices aims to bring the obscure to light. My
-methodology thus lies in the dual complimentary motion between making known
-and making strange. Each chapter unpacks metaphors like "closing windows,"
-"bookmarking a page, "and "dragging and dropping files" to reveal the
-internals of the device. The metaphor and the machine help organize the book
-and each of its chapters. Each chapter unpacks a metaphor to its logical
+methodology thus lies in the dialectical tension between making known and
+making strange. Each chapter unpacks metaphors like "closing windows,"
+"bookmarking a page, " and "dragging and dropping files" to reveal the
+internals of a device. The metaphor and the machine help organize the book and
+each of its chapters. Each chapter unpacks a metaphor to its logical
 conclusion. The reciprocal motion to defamiliarization passes through a series
 of case studies. The function of a case study in an engineer's education, as
 Henry Petroski explains in his *Invention by Design*, is to understand the
