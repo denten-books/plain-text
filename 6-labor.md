@@ -247,33 +247,6 @@ Census Bureau on the behest of the National Endowments for the Arts (NEA).
 Contrary to the report's findings, numbers about textuality at large tell a
 different and an entirely more optimistic story.
 
-On an average day in 2008, at home, an average American read around 100,500
-words a day. At 250 words per page, that is around 402 printed pages. Between
-the years of 1980 and 2008, the consumption of information in bytes---a measure
-that would obviously privilege storage-heavy content like sound and
-video---grew at a modest 5.4 percent per year. Reading, in decline until the
-advent of the internet, has tripled in the same period. Reading in print
-accounted for 26 percent of verbal information consumed in 1960. That number
-fell to 9 percent in 2008, but the consumption of words digitally increased to
-27 percent of total consumption, which means that reading has increased its
-share of the overall household attention span [@bohn_how_2009;
-@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the twenty-first
-century saw a 20 percent increase in library visitation
-[@u.s._institute_of_museum_and_library_services_public_2010]. According to
-UNESCO data, literacy rates continue to rise globally, as the world calibrates
-imbalances of access along the lines of gender and geography
-[@huebler_adult_2013]. By a conservative estimate, the number of scientific
-publications grows at about 4.7 percent per year, which means that the amount
-of published research roughly doubles every 15 years or so (and the numbers are
-much, much higher in some fields) [@archambault_welcome_2005;
-@crespi_empirical_2008; @larsen_rate_2010]. The number of books published in
-the United States almost tripled from 2005 to 2009 [@bowker_u.s._2009]. All
-measures point to a drastic expansion of the textual field. Something does not
-add up. As a society we are reading, writing, and publishing more each year.
-With these figures in mind, I ask: What is at risk, literature, or merely one
-of its many definitions? Does the diffusion of the textual field somehow
-cheapen the literary enterprise of art for art's sake, or protect it? What is
-the source of modern metaphysical anxiety about the status of literary text?
 
 In the 1990s, the ire of the metaphysically disaffected coursed against visual
 culture and television [@stephens_rise_1998; @merrin_television_1999]. A decade

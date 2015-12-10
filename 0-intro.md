@@ -51,7 +51,7 @@ consumption habits. It tries to sell me things, showing me advertisements for
 cars, jewelry, and pills. It comes with a manual and terms of service. It is
 my confidant, my dealer, my spy.
 
-## 0.1 Displacement, simulation
+## 0.1 Displacement
 
 The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
 is but a compelling metaphor that belies material realities of reading and
@@ -200,6 +200,8 @@ proceed through systematic revealment and estrangement of computational
 metaphors, which have hitherto grown so transparent as to escape the critical
 gaze.
 
+## 0.2 Metaphor
+
 The language of computation employs many vivid metaphors. Like all tropes,
 these lose their evocative power with frequent use. The task of a literary
 scholar becomes then to explicate and to renew the metaphor, in search for
@@ -317,18 +319,20 @@ with a metaphor, each of my chapters also contains at least one literary
 "thought thing." Each also enacts a deconstruction---a literal taking
 apart---of that device.
 
-Despite the desire to understand how textual things work, I am under no
-illusion about the possibility of perfect knowledge. Technological systems
-that give rise to complex social phenomena, from market trading to literary
-canon formation, defy holistic comprehension. Writing in 1977, Langdon Winner
-warned the scholar of science and technology to stay away from those "mystics"
-and "crackpots" who offer vision of a new and totalizing synthesis. Quoting
-the French poet and philosopher Paul Valéry, he wrote that "our means of
+## 0.3 Scale
+
+In the process of taking things and texts apart, I am under no illusion about
+the possibility of finding perfect understanding. Technological systems that
+give rise to complex social phenomena, from market trading to literary canon
+formation, defy holistic comprehension. Writing in 1977, Langdon Winner warned
+the scholar of science and technology to stay away from those "mystics" and
+"crackpots" who offer vision of a new and totalizing synthesis. Quoting the
+French poet and philosopher Paul Valéry, he wrote that "our means of
 investigation and action have far outstripped our means of representation and
 understanding" [@valery_collected_1962, 69; @winner_autonomous_1978, 290].
 "Citizens of the modern age in this respect are less fortunate than children,"
 he wrote. Children graduate from ignorance to understanding. But the adults
-"never escame a fundamental bewilderment in the face of the complex world that
+"never escape a fundamental bewilderment in the face of the complex world that
 their senses report." They are not able to organize the vast body of
 information that governs their lives into a "sensible whole." The best we can
 do, he concludes, "is to master a few things in the immediate environment"
@@ -344,14 +348,40 @@ the reader an idea of scale, consider the aggregate length of Shakespeare's
 internet services comprise more than 2 billion lines of code, or roughly 700
 million *Hamlets*.
 
-The model of textuality implicit in the institutional project of close reading
-assumes an environment of received literary canons, naturally accessible to
-the human intellect. For the duration of the "Gutenberg galaxy," the age of
-print, a well-educated person might have been expected to internalize some
-several hundred or perhaps thousands of major texts constituting the canon.
-Close reading was honed to operate on that naturalized scale.
+Similarly, the growth of the literary sphere has mirrored the rapid inflation
+of the code base. On an average day in 2008, at home, an average American read
+around 100,500 words a day. At 250 words per page, that is around 402 printed
+pages. Between the years of 1980 and 2008, the consumption of information in
+bytes---a measure that would obviously privilege storage-heavy content like
+sound and video---grew at a modest 5.4 percent per year. Reading, in decline
+until the advent of the internet, has tripled in the same period. Reading in
+print accounted for 26 percent of verbal information consumed in 1960. That
+number fell to 9 percent in 2008, but the consumption of words digitally
+increased to 27 percent of total consumption, which means that reading has
+increased its share of the overall household attention span [@bohn_how_2009;
+@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the
+twenty-first century saw a 20 percent increase in library visitation
+[@u.s._institute_of_museum_and_library_services_public_2010]. By a
+conservative estimate, the number of scientific publications grows at about
+4.7 percent per year, which means that the amount of published research
+roughly doubles every 15 years or so (and the numbers are much, much higher in
+some fields) [@archambault_welcome_2005; @crespi_empirical_2008;
+@larsen_rate_2010]. The number of books published in the United States almost
+tripled from 2005 to 2009 and 37,450 poetry and drama titles were published in the
+United States between 1993 and 2006 [@dworkin_seja_2008; @bowker_u.s._2009].
 
-That poet's dude's impossible to read.
+Pointing to the sheer impossibility of processing the amount of published
+information in nineteenth let alone the twenty-first century, the American
+poet and critic Graig Dworkin urged his peers to abandon the dream of
+comprehensive knowledge or the literary sphere altogether
+[@dworkin_seja_2008]. Almost nothing could be said about it in aggregate, at
+least not by conventional means. Models of analysis implicit in ideal of the
+close reading assumes an environment of received literary canons, naturally
+accessible to the human intellect. For the duration of the "Gutenberg galaxy,"
+the age of print, a well-educated person might have been expected to
+internalize some several hundred or perhaps thousands of major texts
+constituting the canon. Close reading was honed to operate on that naturalized
+scale.
 
 The expansion of the textual field has radically increased the cognitive
 demands of literary engagement. The pipeline between text and work has
@@ -426,7 +456,7 @@ exiled within and without, to those who understand the need for
 self-displacement, to those who transgress purposefully, and to those willing
 to trespass.
 
-## 0.2 Computational hermeneutics
+## 0.5 Computational hermeneutics
 
 The illusion of ephemerality that follows simulation comes at a price of
 legibility. "Software's ghostly presence produces and defies apprehension,"
@@ -696,7 +726,7 @@ computer science and the study of literature. Encoding matters because how
 text is encoded, transmitted, and stored decides who gets to decode, to
 receive, and to access.
 
-## 0.3 Theory and Practice
+## 0.6 Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -873,7 +903,7 @@ do with this text, here and now? Are readers able to copy and paste? Do they
 have legal permissions to quote at length, to perform publicly, or to
 otherwise trans-mediate?
 
-## 0.4 Plan of the Present Work
+## 0.7 Plan of the Present Work
 
 In the chapters to follow, the electronic literary artifact---the thing next
 to my laptop on my desk---will come fully into view as a computational device.
