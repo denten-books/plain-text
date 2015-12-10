@@ -51,7 +51,7 @@ consumption habits. It tries to sell me things, showing me advertisements for
 cars, jewelry, and pills. It comes with a manual and terms of service. It is
 my confidant, my dealer, my spy.
 
-## 0.1 Simulated text
+## 0.1 Displacement, simulation
 
 The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
 is but a compelling metaphor that belies material realities of reading and
@@ -125,7 +125,7 @@ desks---acquire a sense of agency of their own. Devices that "watch," "hear,"
 "see," and "think" give rise to object-oriented phenomenology and the internet
 of things. A new generation of artificially "intelligent" objects, things like
 smart phones, smart light bulbs, and smart watches, Intels and Idea Pads,
-enter the networked public sphere as seemingly independent agents. Marx's
+enter the networked public sphere as seemingly independent agents.[^ln-winner] Marx's
 "table that evolves grotesque ideas out of its wooden brain" can now be
 re-branded into Microsoft *Surface* and PixelSense, product names from the
 life cycle of an actual smart table [@marx_captial_1906, 82;
@@ -236,12 +236,12 @@ the learning of software systems. Flusser would say it makes experience more
 "smooth." The user avoids "bumping into the sharp corners" of new and
 complicated computational environments.
 
-But the formalists also understood that metaphors so "automatized" threaten
-the vitality of life as well.  Shklovsky quotes from the diaries of Lev
-Tolstoy, who, while dusting his room, could not remember if he already dusted
-his sofa.  "Because actions like these are habituated and unconscious, I could
-not remember and knew that it was impossible to remember," wrote Tolstoy. "And
-so whether I dusted and forgot or just did so without thinking, it as if the
+But the formalists also understood that metaphors so "automatized" diminish
+the vitality of experience. Shklovsky quotes from the diaries of Lev Tolstoy,
+who, while dusting his room, could not remember if he already dusted his sofa.
+"Because actions like these are habituated and unconscious, I could not
+remember and knew that it was impossible to remember," wrote Tolstoy. "And so
+whether I dusted and forgot or just did so without thinking, it as if the
 action never happened [..] thus when life passes without conscious reflection,
 it passes as if one has not lived at all." Life disappears into nothingness,
 when the "automatization of experience "consumes things, clothing, furniture,
@@ -308,25 +308,42 @@ dialog.
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering.[^ln-krsh] Unlike estrangement, the
-reverse engineering of devices aims to bring the obscure to light. 
-
-<!-- add about critical self reflection and devices as part of that process
--->
-
-My methodology thus lies in the dialectical tension between making known and
-making strange. Each chapter unpacks metaphors like "closing windows,"
-"bookmarking a page, " and "dragging and dropping files" to reveal the
-internals of a device. The metaphor and the machine help organize the book and
-each of its chapters. Each chapter unpacks a metaphor to its logical
-conclusion.
-
-The reciprocal motion to defamiliarization passes through a series of case
+reverse engineering of devices aims to bring the obscure to light. The
+reciprocal motion to defamiliarization passes through a series of case
 studies. The function of a case study in an engineer's education, as Henry
 Petroski explains in his *Invention by Design*, is to understand the ways by
 which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
 with a metaphor, each of my chapters also contains at least one literary
 "thought thing." Each also enacts a deconstruction---a literal taking
 apart---of that device.
+
+Despite the desire to understand how textual things work, I am under no
+illusion about the possibility of perfect knowledge. Technological systems
+that give rise to complex social phenomena, from market trading to literary
+canon formation, defy holistic comprehension. Writing in 1977, Langdon Winner
+warned the scholar of science and technology to stay away from those "mystics"
+and "crackpots" who offer vision of a new and totalizing synthesis. Quoting
+the French poet and philosopher Paul Valéry, he wrote that "our means of
+investigation and action have far outstripped our means of representation and
+understanding" [@valery_collected_1962, 69; @winner_autonomous_1978, 290].
+"Citizens of the modern age in this respect are less fortunate than children,"
+he wrote. Children graduate from ignorance to understanding. But the adults
+"never escame a fundamental bewilderment in the face of the complex world that
+their senses report." They are not able to organize the vast body of
+information that governs their lives into a "sensible whole." The best we can
+do, he concludes, "is to master a few things in the immediate environment"
+[@winner_autonomous_1978, 286].
+
+Langdon Winner could scarcely anticipate the exponential growth of computing
+systems that surround us today. Quote code complexity.
+
+
+Local. My methodology thus lies in the dialectical tension
+between making known and making strange. Each chapter unpacks metaphors like
+"closing windows," "bookmarking a page, " and "dragging and dropping files" to
+reveal the internals of a device. The metaphor and the machine help organize
+the book and each of its chapters. Each chapter unpacks a metaphor to its
+logical conclusion.
 
 The digitally displaced hold on to the discomfort of the encounter with the
 machine. Estrangement---always at the heart of immigrant or queer
@@ -576,7 +593,7 @@ the Lutheran reformation, Western thought has taken legibility for granted.
 had remained a remarkably stable medium.  Attempts to silence print through
 book burning or censorship are viscerally obvious and met with nearly
 universal disapproval. <!-- what the hell is that occludes, embeds ,
-discretely--> Device textuality <!-- this needs a name --> threatens to return
+discretely--> Device textuality <!-- this needs a name remove threaten--> threatens to return
 us to pre-Lutheran times, where legibility was the domain of the select few
 and interpretation the privilege of the chosen. <!-- we cannot read to some
 extent anymore -->
@@ -846,18 +863,19 @@ treating the contemporary "digital" book as a computational device. The nature
 of computation
 
 In the second chapter, I challenge conventional notions of digital media,
-discovering properties at once "discrete" and "continuous." Both conventionally
-threaten human capacity for comprehension. Which one is it, before or beyond
-the human? A treatment of Liquid Crystal Displays (LCDs) illustrates that all
-text is already in some sense "born digital," that is, by formal definitions,
-"reproducible" and "differentiated" throughout. Furthermore, digitality depends
-on "reliable processes of copying and preservation"---attributes that can mean
-something different to a philosopher than to a librarian. From these insights I
-take it that "being digital" is not an intrinsic ontological property, but
-rather structure imposed from without. A thing is not digital in itself---one
-makes use of something in a digital way. Materials from the history of
-telegraphy in the late ninetieth and early twentieth centuries help narrate the
-story of character encoding---a key hidden component of digital textuality.
+discovering properties at once "discrete" and "continuous." Both are
+conventionally used to to imply a diminishment of the human capacity for
+comprehension.  Which one is it, before or beyond the human?  A treatment of
+Liquid Crystal Displays (LCDs) illustrates that all text is already in some
+sense "born digital," that is, by formal definitions, "reproducible" and
+"differentiated" throughout. Furthermore, digitality depends on "reliable
+processes of copying and preservation"---attributes that can mean something
+different to a philosopher than to a librarian. From these insights I take it
+that "being digital" is not an intrinsic ontological property, but rather
+structure imposed from without. A thing is not digital in itself---one makes
+use of something in a digital way. Materials from the history of telegraphy in
+the late ninetieth and early twentieth centuries help narrate the story of
+character encoding---a key hidden component of digital textuality.
 
 I begin the book's third chapter by outlining a recent discussion on surface
 reading. I ask: What lies beneath the text, literally? Case studies from the
@@ -990,3 +1008,11 @@ Kirschenbaum's idea of "forensic reading." See @kirschenbaum_mechanisms_2008.
 
 [^ln-translation]: Translations are mine unless source cited explicitly in
 English.
+
+[^ln-winner]: See for example: "Writers concerned with with problems of
+technology-out-of-control have frequently echoed Hobbes in suggesting that
+such an artifact---the Leviathan of interconnected technical systems---has a
+soul of its own [...] A ghost appears in the network.  Unanticipated aspects
+of technological structure endow the creation with an anticipated *telos*"
+[@winner_autonomous_1978, 280].
+
