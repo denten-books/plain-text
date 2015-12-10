@@ -334,9 +334,15 @@ information that governs their lives into a "sensible whole." The best we can
 do, he concludes, "is to master a few things in the immediate environment"
 [@winner_autonomous_1978, 286].
 
-Langdon Winner could scarcely anticipate the exponential growth of computing
-systems that surround us today. Quote code complexity.
-
+Langdon Winner could scarcely anticipate the exponential growth in complexity
+of computing systems that surround us today. The Unix operating system
+announced on the pages of the Proceedings of the fourth ACM symposium on
+Operating systems in 1972 comprised roughly 10,000 lines of code
+[@ritchie_unix_1973; @ritchie_unix_1974; @mccandless_million_2015]. To give
+the reader an idea of scale, consider the aggregate length of Shakespeare's
+*Hamlet*, *Richard III*, and *Macbeth* put together. By contrast, *Google*
+internet services comprise more than 2 billion lines of code, or roughly 700
+million *Hamlets*.
 
 Local. My methodology thus lies in the dialectical tension
 between making known and making strange. Each chapter unpacks metaphors like
