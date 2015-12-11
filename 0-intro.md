@@ -205,27 +205,27 @@ that fade into transparency as to escape the critical gaze.
 
 ## 0.2 Metaphor
 
-The language of computation employs many vivid metaphors. Like all tropes,
-these lose their evocative power with frequent use. The task of a literary
-scholar becomes then to explicate and to renew the metaphor, in search for
-parallelisms that, as George Lakoff and Mark Johnson explain, configure one
-conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do
-we call some software programs "applications" for example? The application of
-what to what? Apple's iconic *Human Interface Guidelines*, a manual of style
-that heralded the era of "what you see is what you get" interfaces, contains
-echoes of Lakoff work and explicitly recommends their designers read
-*Metaphors we Live by* in the annotated bibliography section. The manual urges
-the designer to "convey meaning through representation" and to seek the
-metaphor appropriate to the task [@apple_apple_1987, 11]. Do not ask the user
-to throw "documents" into "jars," for example, the manual entreats: "dragging
-the document icon to the Trash means the user wants to discard that document"
+The language of computation employs a number of vivid metaphors. Like all
+tropes, these lose their evocative power with frequent use. The task of a
+literary scholar becomes then to explicate and to renew the metaphor, in
+search for parallelisms that, as George Lakoff and Mark Johnson explain,
+configure one conceptual system in terms of another [@lakoff_metaphors_1980,
+3-14]. Why do we call some software programs "applications" for example? The
+application of what to what? Apple's iconic *Human Interface Guidelines*, a
+manual of style that heralded the era of "what you see is what you get"
+interfaces, contains explicit echoes of Lakoff's thought. The manual urges the
+designer to "convey meaning through representation" and to seek the metaphor
+appropriate to the task [@apple_apple_1987, 11]. Do not ask the user to throw
+"documents" into "jars," for example, the manual entreats: "dragging the
+document icon to the Trash means the user wants to discard that document"
 [@apple_apple_1987, 229] Simulated objects must "look like they do in real
-world" it concludes [@apple_apple_1987]. In the words of cognitive scientists
-John Carroll and John Thomas, whose work the Apple design guidelines also
-reference extensively, "people employ metaphors in learning about computer
-systems." Using the appropriate metaphors therefore provides "wide-ranging
-improvements in learning ability and ease of use" [@carroll_metaphor_1982,
-108].
+world" [@apple_apple_1987]. In the words of cognitive scientists John Carroll
+and John Thomas, whose work the Apple design guidelines also reference
+extensively, "people employ metaphors in learning about computer systems."
+Using the appropriate metaphors therefore provides "wide-ranging improvements
+in learning ability and ease of use" [@carroll_metaphor_1982, 108]. What users
+know about trashcans in the real world can be used to guide behavior in the
+virtual one.
 
 The seminal work on figurative speech undertaken by the Russian formalists at
 the turn of the twentieth century reminds us that such metaphoric shortcuts to
