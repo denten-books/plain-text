@@ -275,7 +275,6 @@ Eikhenbaum analyzed the humor of Gogol with clinical precision
 to them, they gained in understanding of the genre. I take a similar approach
 in *Plain Text* by extending formal concerns with the mechanics of the
 literary "device" and "technique" to literary devices and technics proper.
-Shklovsky took estrangement a step farther, to argue <!--- HERE --->
 
 I too am interested in how the literary thing is made.  Because computers, as
 I will argue throughout, operate through symbolic and metaphorical
@@ -358,7 +357,9 @@ Operating systems in 1972 comprised roughly 10,000 lines of code
 the reader an idea of scale, consider the aggregate length of Shakespeare's
 *Hamlet*, *Richard III*, and *Macbeth* put together. By contrast, *Google*
 internet services comprise more than 2 billion lines of code, or roughly 700
-million *Hamlets*.
+million *Hamlets*.[^ln-twobil]
+
+[^ln-twobil]: Code metrics from @mccandless_million_2015.
 
 Similarly, the growth of the literary sphere has mirrored the rapid inflation
 of the code base. On an average day in 2008, at home, an average American read
