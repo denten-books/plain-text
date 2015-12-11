@@ -262,19 +262,20 @@ metaphor for reality. The *Apple Design Guidelines* assumed that learning
 would happen through metaphor. But more than forty years of computing under
 the guidelines have failed to produce a learned public. Instead, the metaphor
 became a shortcut to learning. Once established, it continues to prevent users
-from literal engagements with computational realities. Like Tolstoy's mindless
+from literal engagement with computational realities. Like Tolstoy's mindless
 dusting, life at the keyboard passes without reflection.
 
 For Shklovsky and his cohort, estrangement could "resurrect" the stale image
 and provoke the "experience of the making of the
 thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. The
-formalists applied defamiliarization in art and analysis alike. For example,
-in his influential essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum
-analyzed the humor of Gogol with clinical precision [@brik_poetika_1919,
-151-67]. What readers lost in having the joke explained to them, they gained
-in understanding of the genre. I take a similar approach in *Plain Text* by
-extending formal concerns with the mechanics of the literary "device" and
-"technique" to literary devices and technics proper.
+formalists applied defamiliarization in art, life, and analysis alike. For
+example, in his influential essay on "How Gogol's *Overcoat* Was Made" Boris
+Eikhenbaum analyzed the humor of Gogol with clinical precision
+[@brik_poetika_1919, 151-67]. What readers lost in having the joke explained
+to them, they gained in understanding of the genre. I take a similar approach
+in *Plain Text* by extending formal concerns with the mechanics of the
+literary "device" and "technique" to literary devices and technics proper.
+Shklovsky took estrangement a step farther, to argue <!--- HERE --->
 
 I too am interested in how the literary thing is made.  Because computers, as
 I will argue throughout, operate through symbolic and metaphorical
