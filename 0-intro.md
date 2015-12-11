@@ -141,19 +141,21 @@ technology "literature has nothing more to say," I believe that literature and
 literary analysis continue to have a voice in contemporary life
 [@kittler_gramophone_1999, 263]. Technology does not determine silence.
 Rather, the grounds for all reflective textual activity slowly erode to return
-to their natural and meaningless state of entropy. The instruments of literary
-analysis must consequently evolve to deal with new technological
-contingencies. Where texts are encrypted, we decrypt. If as Kittler writes,
-automated discourse analysis threatens to take command, we will engineer
-automatons that command on our behalf [@kittler_gramophone_1999, 263]. Such
-acts of resistance, small and large, can recover a measure of agency from the
-ruling determinism of---take your pick: markets, complex systems, unconscious
-drives, monistic universes, *gaia* science, social networks, technology, the
-singularity, bureaucracy, or war. Indeed, the possibility of human erasure
-never strays far from reach, "like the face drawn in the sand at the edge of
-the sea" [@foucault_order_1994, 387]. The fragility of life compels not the
-Foucauldian wager on anti-humanism, but the need to mobilize whatever modest
-means available for the human to persevere against great odds.
+to their natural and meaningless state of entropy. The literate return to
+illiteracy. The instruments of literary analysis must consequently evolve to
+continue producing meaning under new technological contingencies. Where texts
+are encrypted, we must decrypt. If as Kittler writes, automated discourse
+analysis threatens to take command, we will engineer automatons that command
+on our behalf [@kittler_gramophone_1999, 263]. Such acts of resistance, small
+and large, can recover a measure of agency from the ruling determinism
+of---take your pick: markets, complex systems, unconscious drives, monistic
+universes, *gaia* science, social networks, technology, the singularity,
+bureaucracy, and war. Indeed, the possibility of human
+erasure---nonsense---never strays far from reach, "like the face drawn in the
+sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility of
+life compels not the Foucauldian wager on anti-humanism, but the need to
+mobilize whatever modest means available to humans to persevere against great
+odds.
 
 By mistaking things for animate actors, we ourselves have become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -173,9 +175,9 @@ poverty, or political instability. Yet, our systematic reluctance to take on
 even those small intellectual discomforts that could lead to acts of localized
 dissent and disobedience---to write using free software, to build open
 archives, to share memories in private---cannot be said to exist apart from
-the complex systems that perpetuate violence and inequity globally. The
+the complex systems that perpetuate inequity and violence globally. The
 emotional affirmation that accompanies exuberant social networking brings with
-it the governing structures used widely in the name of law enforcement and
+it the governing structures invoked widely in the name of law enforcement and
 national security. Comfort and security constitute part and parcel of the same
 ill-conceived bargain that leads to critical disempowerment. But where it is
 difficult to imagine or to enact strategies of digital disobedience on a
@@ -186,7 +188,7 @@ differences in search for agency that can lead to action.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. However, given the extent to
-which emerging thought-things like electronic books and personal communication
+which emergent thought-things like electronic books and personal communication
 devices participate actively in the production of meaning, we can no longer
 employ strategies of interpretation at the level of ideology alone. Close
 reading, critical theory, and literary analysis must reach down to the silicon
@@ -197,10 +199,9 @@ intellectual life through metaphoric substitution. I begin where Bernard
 Harcourt's recent book on digital disobedience ends: with the possibility of
 localized dissent, limited for now to the immediate physical contexts of
 reading, writing, and finding knowledge. Following itinerant theorists of the
-metaphor like Vilém Flusser, Viktor Shklovsky, and Hannah Arendt, I propose to
-proceed through systematic revealment and estrangement of computational
-metaphors, which have hitherto grown so transparent as to escape the critical
-gaze.
+metaphor like Vilém Flusser, Viktor Shklovsky, and Hannah Arendt I propose to
+proceed through systematic estrangement of computational metaphors, metaphors
+that fade into transparency as to escape the critical gaze.
 
 ## 0.2 Metaphor
 
