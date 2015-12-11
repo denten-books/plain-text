@@ -44,12 +44,12 @@ alarm and the mobile phone connect to the network. They communicate with
 remote data centers and with each other. And yet, I continue to read
 electronic books as if they were familiar, immutable, and passive objects:
 just books. I think of them as intimate artifacts---friends even---wholly
-known to me, comforting, and warm. The electronic book is at once much less
-and much more than those things. Besides prose, it keeps my memories,
-pictures, words, sounds, and thoughts. It records my reading, sleeping, and
-consumption habits. It tries to sell me things, showing me advertisements for
-cars, jewelry, and pills. It comes with a manual and terms of service. It is
-my confidant, my dealer, my spy.
+known to me, comforting, and warm. The electronic book is none of those
+things. Besides prose, it keeps my memories, pictures, words, sounds, and
+thoughts. It records my reading, sleeping, and consumption habits. It tries to
+sell me things, showing me advertisements for cars, jewelry, and pills. It
+comes with a manual and terms of service. It is my confidant, my dealer, my
+spy.
 
 ## 0.1 Displacement
 
@@ -97,25 +97,26 @@ information processing. I relate to his work as a former refugee fleeing the
 dissolution of the Soviet Union, a transplant into Silicon Valley culture from
 a strict literary education, and now a lapsed engineer among humanists. These
 vantage points offer a singular view onto the material conditions of
-contemporary intellectual life. Technology offers us an irresistible
-compromise, by which we trade critical understanding for comfort. Habit covers
-the various homes we make for ourselves in the world "like a fluffy cotton
-wool blanket," Flusser wrote---"it smoothes the sharp edges of all phenomena
-that it covers so that I no longer bump against them, but I am able to make
-use of them blindly." "When I sit at my desk," he went on to write, "I don't
-see the papers and the books that are lying all about because I'm used to
-them" [@flusser_freedom_2003, 13 and 82]. Familiar objects pass no information
-to their users, according to Flusser. Like water around fish, they pass into
-the background of experience. This is, we might say, the function of a medium:
-to ultimately disappear into the background, not to produce meaning but to
-cease production, to become a stage for meaning-making, and like the stage to
-disappear from view.
+contemporary intellectual life.
 
-By contrast, the condition of exile allows the displaced to once again
+Technology offers us an irresistible compromise, by which we trade critical
+understanding for comfort. Habit covers the various homes we make for
+ourselves in the world "like a fluffy cotton wool blanket," Flusser
+wrote---"it smoothes the sharp edges of all phenomena that it covers so that I
+no longer bump against them, but I am able to make use of them blindly." "When
+I sit at my desk," he went on to write, "I don't see the papers and the books
+that are lying all about because I'm used to them" [@flusser_freedom_2003, 13
+and 82]. Familiar objects pass no information to their users, according to
+Flusser. Like water that surrounds fish, they pass into the background of
+experience. Mediums become media. Their function is to ultimately disappear
+into the background: not to produce meaning but to cease production, to become
+a stage for meaning-making, and like the stage to disappear from view.
+
+The condition of exile, by contrast, allows the displaced to once again
 transform habituated medium into meaningful information. In exile, "everything
-is unusual," Flusser wrote [@flusser_does_2011, 81]. The migrant experiences
+is unusual," Flusser writes [@flusser_does_2011, 81]. The migrant experiences
 the world as an ex-perience [*er-fahrung*], or literally a driving out.
-Discovery, he concluded "begins as soon as the blanket is pulled away," where
+Discovery, he concludes "begins as soon as the blanket is pulled away," where
 the familiar objects can pass into view again [@flusser_does_2011, 86-7].
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
@@ -123,23 +124,24 @@ descends on the dwellings of our intellectual life. Dulling the senses,
 seemingly inconspicuous conduits of information---electronic books and
 desks---acquire a sense of agency of their own. Devices that "watch," "hear,"
 "see," and "think" give rise to object-oriented phenomenology and the internet
-of things. A new generation of artificially "intelligent" objects, things like
+of things. A new generation of artificially intelligent objects, things like
 smart phones, smart light bulbs, and smart watches, Intels and Idea Pads,
-enter the networked public sphere as seemingly independent agents.[^ln-winner] Marx's
-"table that evolves grotesque ideas out of its wooden brain" can now be
+enter the networked public sphere as seemingly independent agents.[^ln-winner]
+Marx's "table that evolves grotesque ideas out of its wooden brain" can now be
 re-branded into Microsoft *Surface* and PixelSense, product names from the
 life cycle of an actual smart table [@marx_captial_1906, 82;
 @wigdor_designing_2009].
 
-I will argue here that if we hope to understand literature, as Friedrich
-Kittler wrote, "under conditions of high technology," we can only do so from
-the position of humanism. One cannot at the same time lament the systematic
+I will argue here that if we hope to understand literature "under conditions
+of high technology" (to echo Friedrich Kittler) we can only do so from the
+position of humanism. One cannot at the same time lament the systematic
 erasure of the human from the literary process and advocate for post- or
-anti-humanism. Unlike Kittler, who once also wrote that in the face of
+anti-humanism. Unlike Kittler, who once wrote that under conditions of high
 technology "literature has nothing more to say," I believe that literature and
 literary analysis continue to have a voice in contemporary life
-[@kittler_gramophone_1999, 263]. Technology does not necessarily silence---it
-subtly changes the nature of textual phenomena. The instruments of literary
+[@kittler_gramophone_1999, 263]. Technology does not determine silence.
+Rather, the grounds for all reflective textual activity slowly erode to return
+to their natural and meaningless state of entropy. The instruments of literary
 analysis must consequently evolve to deal with new technological
 contingencies. Where texts are encrypted, we decrypt. If as Kittler writes,
 automated discourse analysis threatens to take command, we will engineer
