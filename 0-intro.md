@@ -232,30 +232,39 @@ the turn of the twentieth century reminds us that such metaphoric shortcuts to
 learning also have their cognitive downside. Habituated experience passes into
 the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
 words, first in perception and then in practice [@brik_poetika_1919, 38 and
-104]. As a benefit, the metaphor acts to conserve mental energy. Once
+104]. Beneficially, the metaphor acts to conserve mental energy. But, once
 internalized, it no longer attracts attention. The image becomes so familiar
 that we cease thinking about it---an insight that was confirmed experimentally
 almost a century later.[^ln-cog] Conceptual blending, a dynamic by which
-images and paradigms from one domain are extended to another, thus improves
-the learning of software systems. Flusser would say it makes experience more
+images and paradigms from one domain are extended to another, improves the
+learning of software systems. Flusser would say it makes experience more
 "smooth." The user avoids "bumping into the sharp corners" of new and
-complicated computational environments.
+complicated computational environments. But the formalists also understood
+that metaphors so "automatized" diminish the vitality of experience. Shklovsky
+quotes from the diaries of Lev Tolstoy, who, while dusting his room, could not
+remember if he already dusted his sofa. "Because actions like these are
+habituated and unconscious, I could not remember and knew that it was
+impossible to remember," wrote Tolstoy. "And so whether I dusted and forgot or
+just did so without thinking, it as if the action never happened [..] thus
+when life passes without conscious reflection, it passes as if one has not
+lived at all." Life disappears into nothingness, when the "automatization of
+experience "consumes things, clothing, furniture, your spouse, and the fear of
+war" [@brik_poetika_1919, 104].[^ln-translation] The formalists rarely quoted
+Marx directly. Yet the echoes of Marx resonate through their work throughout.
+The dead metaphor marks the alienation of experience. It is a point at which
+material artifact at once disappears from conciousness and appears within the
+social sphere as fetish.
 
-But the formalists also understood that metaphors so "automatized" diminish
-the vitality of experience. Shklovsky quotes from the diaries of Lev Tolstoy,
-who, while dusting his room, could not remember if he already dusted his sofa.
-"Because actions like these are habituated and unconscious, I could not
-remember and knew that it was impossible to remember," wrote Tolstoy. "And so
-whether I dusted and forgot or just did so without thinking, it as if the
-action never happened [..] thus when life passes without conscious reflection,
-it passes as if one has not lived at all." Life disappears into nothingness,
-when the "automatization of experience "consumes things, clothing, furniture,
-your spouse, and the fear of war" [@brik_poetika_1919, 104].[^ln-translation]
 Carroll's recommendations for design guidelines assumed new users, unfamiliar
-with computing. But after more than three decades of computational interfaces,
-we have not moved far from the interfaces the metaphor approach has
-engendered. Like Tolstoy's mindless dusting, life at the keyboard passes
-without reflection.
+with computing. The metaphor eased the transition into the virtual world. But
+once inside, the virtual inhabitant also began to mistake the metaphor for
+reality and "one thing standing for another" for one thing. Reading Carroll
+and the *Apple Design Guidelines* that he helped engender today, one imagines
+that the learning promised through conceptual blending would have long
+happened by now, and after almost half-a-century of computing we would be
+reaching a level of qualified expertise. But once established, the metaphor
+prevents learning. It becomes a shortcut. Like Tolstoy's mindless dusting,
+life at the keyboard passes without reflection or understanding.
 
 For Shklovsky and his cohort, estrangement could "resurrect" the stale image
 and provoke the "experience of the making of the
