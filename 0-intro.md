@@ -268,14 +268,14 @@ life at the keyboard passes without reflection or understanding.
 
 For Shklovsky and his cohort, estrangement could "resurrect" the stale image
 and provoke the "experience of the making of the
-thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. They
-applied it in art and analysis alike. For example, in his influential essay on
-"How Gogol's *Overcoat* Was Made" Boris Eikhenbaum analyzes the humor of Gogol
-with clinical precision [@brik_poetika_1919, 151-67]. What readers lose in
-having the joke explained to them, they gain in understanding of the genre. I
-take a similar approach in *Plain Text* by extending formal concerns with the
-mechanics of the literary "device" and "technique" to literary devices and
-technics proper.
+thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. The
+formalists applied defamiliarization in art and analysis alike. For example,
+in his influential essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum
+analyzed the humor of Gogol with clinical precision [@brik_poetika_1919,
+151-67]. What readers lost in having the joke explained to them, they gained
+in understanding of the genre. I take a similar approach in *Plain Text* by
+extending formal concerns with the mechanics of the literary "device" and
+"technique" to literary devices and technics proper.
 
 I too am interested in how the literary thing is made.  Because computers, as
 I will argue throughout, operate through symbolic and metaphorical
