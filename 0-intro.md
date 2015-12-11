@@ -255,16 +255,15 @@ The dead metaphor marks the alienation of experience. It is a point at which
 material artifact at once disappears from conciousness and appears within the
 social sphere as fetish.
 
-Carroll's recommendations for design guidelines assumed new users, unfamiliar
-with computing. The metaphor eased the transition into the virtual world. But
-once inside, the virtual inhabitant also began to mistake the metaphor for
-reality and "one thing standing for another" for one thing. Reading Carroll
-and the *Apple Design Guidelines* that he helped engender today, one imagines
-that the learning promised through conceptual blending would have long
-happened by now, and after almost half-a-century of computing we would be
-reaching a level of qualified expertise. But once established, the metaphor
-prevents learning. It becomes a shortcut. Like Tolstoy's mindless dusting,
-life at the keyboard passes without reflection or understanding.
+Carroll's recommendations for design guidelines assumed novice users,
+unfamiliar with computing. The metaphor eased their transition into a virtual
+world. But once inside, the virtual inhabitant also began to mistake the
+metaphor for reality. The *Apple Design Guidelines* assumed that learning
+would happen through metaphor. But more than forty years of computing under
+the guidelines have failed to produce a learned public. Instead, the metaphor
+became a shortcut to learning. Once established, it continues to prevent users
+from literal engagements with computational realities. Like Tolstoy's mindless
+dusting, life at the keyboard passes without reflection.
 
 For Shklovsky and his cohort, estrangement could "resurrect" the stale image
 and provoke the "experience of the making of the
