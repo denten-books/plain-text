@@ -363,25 +363,30 @@ million *Hamlets*.[^ln-twobil]
 
 Similarly, the growth of the literary sphere has mirrored the rapid inflation
 of the code base. On an average day in 2008, at home, an average American read
-around 100,500 words a day. At 250 words per page, that is around 402 printed
-pages. Between the years of 1980 and 2008, the consumption of information in
-bytes---a measure that would obviously privilege storage-heavy content like
-sound and video---grew at a modest 5.4 percent per year. Reading, in decline
-until the advent of the internet, has tripled in the same period. Reading in
-print accounted for 26 percent of verbal information consumed in 1960. That
-number fell to 9 percent in 2008, but the consumption of words digitally
-increased to 27 percent of total consumption, which means that reading has
-increased its share of the overall household attention span [@bohn_how_2009;
-@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the
-twenty-first century saw a 20 percent increase in library visitation
+around 100,500 words a day. At 250 words per page, that amounts to reading
+around 402 printed pages or roughly a novel like Emily Bronte's *Wuthering
+Heights* per day. Between the years of 1980 and 2008, the consumption of
+information in bytes---a measure that would obviously privilege storage-heavy
+content like sound and video---grew at a modest 5.4 percent per year. Reading,
+in decline until the advent of the internet, has tripled in the same period.
+Reading in print accounted for 26 percent of verbal information consumed in
+1960. That number fell to 9 percent in 2008, but the consumption of words
+digitally increased to 27 percent of total consumption, which means that
+reading has increased its share of the overall household attention
+span.[^ln-stats] The first decade of the twenty-first century saw a 20 percent
+increase in library visitation
 [@u.s._institute_of_museum_and_library_services_public_2010]. By a
 conservative estimate, the number of scientific publications grows at about
 4.7 percent per year, which means that the amount of published research
 roughly doubles every 15 years or so (and the numbers are much, much higher in
 some fields) [@archambault_welcome_2005; @crespi_empirical_2008;
 @larsen_rate_2010]. The number of books published in the United States almost
-tripled from 2005 to 2009 and 37,450 poetry and drama titles were published in the
-United States between 1993 and 2006 [@dworkin_seja_2008; @bowker_u.s._2009].
+tripled from 2005 to 2009 and 37,450 poetry and drama titles were published in
+the United States between 1993 and 2006 [@dworkin_seja_2008;
+@bowker_u.s._2009].
+
+[^ln-stats]: Descriptive statistics in this section come from the following
+@bohn_how_2009; @hilbert_worlds_2011; @hilbert_info_2012].
 
 Pointing to the sheer impossibility of processing the amount of published
 information in nineteenth let alone the twenty-first century, the American
