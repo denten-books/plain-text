@@ -59,12 +59,12 @@ writing, transformed by the advent of computation. The device on my desk is
 not a book, but a simulation of a book. And everything associated with
 "reading" this metaphor must in itself be understood under the sign of
 simulation. What does it mean to "study" a book metaphor? And what kind of a
-metaphor is it?  What is being compared to what? How did it come into being
-and how does it affect practices of literary interpretation? In *Plain Text* I
+metaphor is it? What is being compared to what? How did it come into being and
+how does it affect practices of literary interpretation? In *Plain Text* I
 attempt to come to terms with the conditions of simulated textuality.
 
-To do that, *Plain Text* enacts a reconciliation of vocabularies. It is a
-response to a particular situation of a literary scholar encountering the
+To come to terms *Plain Text* enacts a reconciliation of vocabularies. It is
+a response to a particular situation of a literary scholar encountering the
 field of software engineering. For a long stretch of my professional life,
 these two areas of activity remained separate. I worked at one and I studied
 the other. At the time, I simply did not think that code had anything to do
@@ -89,7 +89,7 @@ sometimes more than I comfortably expected. Nothing could be assumed from the
 start. Field specific jargon, down to naive foundations, had to be examined
 for hidden assumptions that prevented dialog. With time, I saw that code and
 poetry have much to do with one another. Writing this book has taught me to
-embrace the incongruence.
+embrace the remaining incongruence.
 
 The Czech-born philosopher Vilém Flusser understood the condition of unease
 that comes with emigration, both physical and mental, to be a type of

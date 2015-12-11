@@ -1,1 +1,4 @@
 data/
+archive/
+*.un*
+*~*
