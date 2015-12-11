@@ -394,13 +394,13 @@ information in nineteenth let alone the twenty-first century, the American
 poet and critic Graig Dworkin urged his peers to abandon the dream of
 comprehensive knowledge or the literary sphere altogether
 [@dworkin_seja_2008]. Almost nothing could be said about it in aggregate, at
-least not by conventional means. Models of analysis implicit in ideal of the
-close reading assumes an environment of received literary canons, naturally
-accessible to the human intellect. For the duration of the "Gutenberg galaxy,"
-the age of print, a well-educated person might have been expected to
-internalize some several hundred or perhaps thousands of major texts
-constituting the canon. Close reading was honed to operate on that naturalized
-scale.
+least not by conventional means, like literary history or close reading.
+Conventional (unaided) strategies of interpretation were built in an
+environment of received literary canons, naturally accessible to the human
+intellect. For the duration of the "Gutenberg galaxy," the age of print, a
+well-educated person might have been expected to internalize some several
+hundred or perhaps thousands of major texts constituting the canon. Literary
+criticism was honed to operate on that naturalized scale.
 
 The expansion of the textual field has radically increased the cognitive
 demands of literary engagement. The pipeline between text and work has
@@ -1139,4 +1139,3 @@ of technological structure endow the creation with an anticipated *telos*"
 
 [^ln-spam] For example, in 2004 researchers estimated that spam mail makes up
 40%-80% of the total email volume @cournane_analysis_2004.
-
