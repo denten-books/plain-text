@@ -272,45 +272,52 @@ mindless dusting, life at the keyboard increasingly passes without reflection.
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the deadened metaphor. It was meant to "resurrect"
 the stale image and to recover the "experience of the making of the
-thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. The
-formalists applied defamiliarization in art, life, and analysis alike. In art,
-estrangement proceeded through poetic experimentation: neologism, consonance,
-punning, or repetition, among other devices. Thus, the childlike repetition of
-the "a door ajar, a door ajar, a door ajar" brings attention to the
-etymological roots of the onomatopoetic "to jar" in the sense of "to emit a
-harsh  sound"; to the sense of the word as a vessel or a jar, which comes from
-the Arabic *jarrah*; and to "ajar" which although relates to the Old English
-*cyrr* or *cierr* in the meaning of "turn," as in "chore" or "a turn of work",
-was in fact in the eighteenth century confused with jar in the sense of "a
-harsh sound" to form the now rare "ajar" in the sense of "to be in a jarring
-state; out of harmony; at odds; awry" [@_ajar_2015; @_ajar_2015-1; @_jar_2015;
-@_jar_2015-1]. In this way estrangement through phonetic repetition first made
-nonsense of the word, but then sent on an etymological excavation to
-rediscover the word's origins. In scholarly practice, formalist would use a
-similar technique
+thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 8]. The
+formalists applied defamiliarization in art, politics, and analysis alike
+[@jameson_prison-house_1972, 75-9; @boym_estrangement_1996;
+@holquist_minding_2005]. In art, estrangement proceeded through poetic
+experimentation: neologism, consonance, punning, or repetition, among other
+devices. Thus, the childlike repetition of the "a door ajar, a door ajar, a
+door ajar" brings attention to the etymological roots of the onomatopoetic "to
+jar" in the sense of "to emit a harsh  sound"; to the sense of the word as a
+vessel or a jar, which comes from the Arabic *jarrah*; and to "ajar" which
+although relates to the Old English *cyrr* or *cierr* in the meaning of
+"turn," as in "chore" or "a turn of work", was in fact in the eighteenth
+century confused with jar in the sense of "a harsh sound" to form the now rare
+"ajar" in the sense of "to be in a jarring state; out of harmony; at odds;
+awry" [@_ajar_2015; @_ajar_2015-1; @_jar_2015; @_jar_2015-1]. In this way
+estrangement through phonetic repetition first made nonsense of the word, but
+then sent us on an etymological excavation to rediscover unexpected
+confluences in the words' usage and origins.
 
-For example, in his influential essay on "How Gogol's *Overcoat* Was Made"
-Boris Eikhenbaum analyzed the humor of Gogol with clinical precision
-[@brik_poetika_1919, 151-67]. What readers lost in having the joke explained
-to them, they gained in understanding of the genre. I take a similar approach
-in *Plain Text* by extending formal concerns with the mechanics of the
-literary "device" and "technique" to literary devices and technics proper.
+Where estrangement in art could renew the word through near mystical, often
+trans-rational experience, in scholarly practice the formalists adopted a
+scientific stance towards the objects of their study. As in art, the formalist
+approach to analysis was to see how the thing is made. For example, in his
+influential essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum
+identified *skaz*, or the manner of speaking, as an organizing principle for
+the typically Gogolian narrative [@brik_poetika_1919, 151-67]. What readers
+lost in having the joke explained to them, they gained in understanding of the
+genre.
 
-I too am interested in how the literary thing is made.  Because computers, as
-I will argue throughout, operate through symbolic and metaphorical
-substitution, we can use the methodology of formal symbolic analysis to our
-advantage. The overarching aim of the book is therefore to expose the illusion
-of verisimilitude between text on paper and the simulated text on a screen.
-The words may look the same, but the underlying affordances of the medium
-differ in significant detail. As an example, consider a news report that
-alters its content based on the reader's location. Imagine an e-book reader
-that highlights popular passages of a novel in real time, shortening the less
-popular passages down to their algorithmically distilled summaries.  For a
-literary analyst, the instability of the digital medium means analysis cannot
-be confined to reading for surface meaning alone. How can close reading
-persist when reading devices reconfigure the text to fit individual tastes,
-mood, or politics? How would we even agree on the fact that we are reading the
-same text? The very possibility of interpretation comes into question.
+I take a similar approach in *Plain Text* by extending formal concerns with
+the mechanics of the literary "device" and "technique" to literary devices and
+technics proper. I too am interested in how the literary thing is made.
+Because computers, as I will argue throughout, operate through symbolic and
+metaphorical substitution, we can use the methodology of formal symbolic
+analysis to our advantage. The overarching aim of the book is therefore to
+expose the illusion of verisimilitude between text on paper and the simulated
+text on a screen.  The words may look the same, but the underlying affordances
+of the medium differ in significant detail. As an example, consider a news
+report that alters its content based on the reader's location. Imagine an
+e-book reader that highlights popular passages of a novel in real time,
+shortening the less popular passages down to their algorithmically distilled
+summaries.  For a literary analyst, the instability of the digital medium
+means analysis cannot be confined to reading for surface meaning alone. How
+can close reading persist when reading devices reconfigure the text to fit
+individual tastes, mood, or politics? How would we even agree on the fact that
+we are reading the same text? The very possibility of interpretation comes
+into question.
 
 We have many theoretical models to address literary phenomena on the macro
 scale: period, genre, style, affect, world literature, etc. Yet the
