@@ -269,17 +269,28 @@ mindless dusting, life at the keyboard increasingly passes without reflection.
 [^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
 @negroponte_being_1995; @davidson_now_2011.
 
-Estrangement, sometimes also translated as "defamiliarization", was the
-formalist answer to the deadened metaphor. It was meant to "resurrect" the
-stale image and to recover the "experience of the making of the
+Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
+was the formalist answer to the deadened metaphor. It was meant to "resurrect"
+the stale image and to recover the "experience of the making of the
 thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. The
-formalists applied defamiliarization in art, life, and analysis alike. The 
+formalists applied defamiliarization in art, life, and analysis alike. In art,
+estrangement proceeded through poetic experimentation: neologism, consonance,
+punning, or repetition, among other devices. Thus, the childlike repetition of
+the "a door ajar, a door ajar, a door ajar" brings attention to the
+etymological roots of the onomatopoetic "to jar" in the sense of "to emit a
+harsh  sound"; to the sense of the word as a vessel or a jar, which comes from
+the Arabic *jarrah*; and to "ajar" which although relates to the Old English
+*cyrr* or *cierr* in the meaning of "turn," as in "chore" or "a turn of work",
+was in fact in the eighteenth century confused with jar in the sense of "a
+harsh sound" to form the now rare "ajar" in the sense of "to be in a jarring
+state; out of harmony; at odds; awry" [@_ajar_2015; @_ajar_2015-1; @_jar_2015;
+@_jar_2015-1]. In this way estrangement through phonetic repetition first made
+nonsense of the word, but then sent on an etymological excavation to
+rediscover the word's origins. In scholarly practice, formalist would use a
+similar technique
 
-<!-- define estrangement use boym here -->
-
-For
-example, in his influential essay on "How Gogol's *Overcoat* Was Made" Boris
-Eikhenbaum analyzed the humor of Gogol with clinical precision
+For example, in his influential essay on "How Gogol's *Overcoat* Was Made"
+Boris Eikhenbaum analyzed the humor of Gogol with clinical precision
 [@brik_poetika_1919, 151-67]. What readers lost in having the joke explained
 to them, they gained in understanding of the genre. I take a similar approach
 in *Plain Text* by extending formal concerns with the mechanics of the
