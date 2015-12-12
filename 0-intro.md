@@ -113,7 +113,7 @@ into the background: not to produce meaning but to cease production, to become
 a stage for meaning-making, and like the stage to disappear from view.
 
 The condition of exile, by contrast, allows the displaced to once again
-transform habituated medium into meaningful information. In exile, "everything
+transform habituated media into meaningful information. In exile, "everything
 is unusual," Flusser writes [@flusser_does_2011, 81]. The migrant experiences
 the world as an ex-perience [*er-fahrung*], or literally a driving out.
 Discovery, he concludes "begins as soon as the blanket is pulled away," where
@@ -140,22 +140,21 @@ anti-humanism. Unlike Kittler, who once wrote that under conditions of high
 technology "literature has nothing more to say," I believe that literature and
 literary analysis continue to have a voice in contemporary life
 [@kittler_gramophone_1999, 263]. Technology does not determine silence.
-Rather, the grounds for all reflective textual activity slowly erode to return
-to their natural and meaningless state of entropy. The literate return to
-illiteracy. The instruments of literary analysis must consequently evolve to
-continue producing meaning under new technological contingencies. Where texts
-are encrypted, we must decrypt. If as Kittler writes, automated discourse
-analysis threatens to take command, we will engineer automatons that command
-on our behalf [@kittler_gramophone_1999, 263]. Such acts of resistance, small
-and large, can recover a measure of agency from the ruling determinism
-of---take your pick: markets, complex systems, unconscious drives, monistic
-universes, *gaia* science, social networks, technology, the singularity,
-bureaucracy, and war. Indeed, the possibility of human
-erasure---nonsense---never strays far from reach, "like the face drawn in the
-sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility of
-life compels not the Foucauldian wager on anti-humanism, but the need to
-mobilize whatever modest means available to humans to persevere against great
-odds.
+Rather, the grounds for all reflective textual activity slowly erode,
+returning to their natural and meaningless state of entropy. To prevent the
+slide into illiteracy outright, instruments of literary analysis must evolve
+to elicit meaning under new technological contingencies. Where texts are
+encrypted, we decrypt. If as Kittler writes, automated discourse analysis
+threatens to take command, we will engineer automatons that command on our
+behalf [@kittler_gramophone_1999, 263]. Such acts of resistance, small and
+large, can recover a measure of agency from the ruling determinism of---take
+your pick: markets, complex systems, unconscious drives, monistic universes,
+*gaia* science, social networks, technology, the singularity, bureaucracy, and
+war.  Indeed, the possibility of human erasure---nonsense---never strays far
+from reach, "like the face drawn in the sand at the edge of the sea"
+[@foucault_order_1994, 387]. The fragility of life compels not the Foucauldian
+wager on anti-humanism, but the need to mobilize whatever modest means
+available to humans to persevere against great odds.
 
 By mistaking things for animate actors, we ourselves have become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -181,10 +180,10 @@ it the governing structures invoked widely in the name of law enforcement and
 national security. Comfort and security constitute part and parcel of the same
 ill-conceived bargain that leads to critical disempowerment. But where it is
 difficult to imagine or to enact strategies of digital disobedience on a
-universal scale, we can begin to address them through the numerous and
-seemingly mundane series of micro transactions that ultimately embody the
-material foundations of local intellectual life. A new humanism affirms small
-differences in search for agency that can lead to action.
+universal scale, we can begin to address them through the numerous everyday
+transactions, which in aggregate embody the material foundations of local
+intellectual life. A new humanism affirms small differences in search for
+agency that can lead to action.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. However, given the extent to
@@ -203,36 +202,35 @@ metaphor like Vilém Flusser, Viktor Shklovsky, and Hannah Arendt I propose to
 proceed through systematic estrangement of computational metaphors, metaphors
 that fade into transparency as to escape the critical gaze.
 
-## 0.2 Metaphor
+## 0.2 Metaphor machines
 
-The language of computation employs a number of vivid metaphors. Like all
-tropes, these lose their evocative power with frequent use. The task of a
-literary scholar becomes then to explicate and to renew the metaphor, in
-search for parallelisms that, as George Lakoff and Mark Johnson explain,
-configure one conceptual system in terms of another [@lakoff_metaphors_1980,
-3-14]. Why do we call some software programs "applications" for example? The
-application of what to what? Apple's iconic *Human Interface Guidelines*, a
-manual of style that heralded the era of "what you see is what you get"
-interfaces, contains explicit echoes of Lakoff's thought. The manual urges the
-designer to "convey meaning through representation" and to seek the metaphor
-appropriate to the task [@apple_apple_1987, 11]. Do not ask the user to throw
-"documents" into "jars," for example, the manual entreats: "dragging the
-document icon to the Trash means the user wants to discard that document"
-[@apple_apple_1987, 229] Simulated objects must "look like they do in real
-world" [@apple_apple_1987]. In the words of cognitive scientists John Carroll
-and John Thomas, whose work the Apple design guidelines also reference
-extensively, "people employ metaphors in learning about computer systems."
-Using the appropriate metaphors therefore provides "wide-ranging improvements
-in learning ability and ease of use" [@carroll_metaphor_1982, 108]. What users
-know about trashcans in the real world can be used to guide behavior in the
-virtual one.
+Computation advances into everyday life though metaphor. Like all tropes, such
+metaphors lose their evocative power with frequent use. The task of a literary
+scholar becomes then to explicate and to renew the trope, in search for
+parallelisms that, as George Lakoff and Mark Johnson explain, configure one
+conceptual system in terms of another [@lakoff_metaphors_1980, 3-14]. Why do
+we call some software programs "applications" for example? The application of
+what to what? Apple's iconic *Human Interface Guidelines*, a manual of style
+that heralded the era of "what you see is what you get" interfaces, contains
+explicit echoes of Lakoff's thought. The manual urges the designer to "convey
+meaning through representation" and to seek the metaphor appropriate to the
+task [@apple_apple_1987, 11]. Do not ask the user to throw "documents" into
+"jars," for example, the manual entreats: "dragging the document icon to the
+Trash means the user wants to discard that document" [@apple_apple_1987, 229]
+Simulated objects must "look like they do in real world" [@apple_apple_1987].
+In the words of cognitive scientists John Carroll and John Thomas, whose work
+the Apple design guidelines also reference extensively, "people employ
+metaphors in learning about computer systems." Using the appropriate metaphors
+therefore provides "wide-ranging improvements in learning ability and ease of
+use" [@carroll_metaphor_1982, 108]. What users know about trashcans in the
+real world can be used to guide behavior in the virtual one.
 
 The seminal work on figurative speech undertaken by the Russian formalists at
 the turn of the twentieth century reminds us that such metaphoric shortcuts to
 learning also have their cognitive downside. Habituated experience passes into
 the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
 words, first in perception and then in practice [@brik_poetika_1919, 38 and
-104]. Beneficially, the metaphor acts to conserve mental energy. But, once
+104]. Beneficially, the metaphor conserves mental energy. But, once
 internalized, it no longer attracts attention. The image becomes so familiar
 that we cease thinking about it---an insight that was confirmed experimentally
 almost a century later.[^ln-cog] Conceptual blending, a dynamic by which
@@ -251,24 +249,35 @@ lived at all." Life disappears into nothingness, when the "automatization of
 experience "consumes things, clothing, furniture, your spouse, and the fear of
 war" [@brik_poetika_1919, 104].[^ln-translation] The formalists rarely quoted
 Marx directly. Yet the echoes of Marx resonate through their work throughout.
-The dead metaphor marks the alienation of experience. It is a point at which
-material artifact at once disappears from conciousness and appears within the
-social sphere as fetish.
+The dead metaphor marks the alienation of experience. The point at which
+material artifact disappears from individual conciousness is the also the
+point where it appears within the social sphere as fetish.
 
-Carroll's recommendations for design guidelines assumed novice users,
-unfamiliar with computing. The metaphor eased their transition into a virtual
-world. But once inside, the virtual inhabitant also began to mistake the
-metaphor for reality. The *Apple Design Guidelines* assumed that learning
-would happen through metaphor. But more than forty years of computing under
-the guidelines have failed to produce a learned public. Instead, the metaphor
-became a shortcut to learning. Once established, it continues to prevent users
-from literal engagement with computational realities. Like Tolstoy's mindless
-dusting, life at the keyboard passes without reflection.
+John Carroll targeted his recommendations for designing human--computer
+interfaces at novice users, unfamiliar with computing. The metaphor eased
+their transition into a virtual world. But once inside, the virtual inhabitant
+also began to mistake the metaphor for reality. The *Apple Design Guidelines*
+assumed that learning would happen through metaphor. But more than forty years
+of computing under the guidelines have failed to produce a learned public.
+This is evidenced by the frequent and urgent calls to digital literacy on the
+part of our leading intellectuals, educators, and
+politicians.[^ln-digitalliteracy] But instead of educating, the metaphor
+embodied a shortcut to learning.  Once established, it continues to prevent
+users from literal engagement with computational realities. Like Tolstoy's
+mindless dusting, life at the keyboard increasingly passes without reflection.
 
-For Shklovsky and his cohort, estrangement could "resurrect" the stale image
-and provoke the "experience of the making of the
+[^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
+@negroponte_being_1995; @davidson_now_2011.
+
+Estrangement, sometimes also translated as "defamiliarization", was the
+formalist answer to the deadened metaphor. It was meant to "resurrect" the
+stale image and to recover the "experience of the making of the
 thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 7]. The
-formalists applied defamiliarization in art, life, and analysis alike. For
+formalists applied defamiliarization in art, life, and analysis alike. The 
+
+<!-- define estrangement use boym here -->
+
+For
 example, in his influential essay on "How Gogol's *Overcoat* Was Made" Boris
 Eikhenbaum analyzed the humor of Gogol with clinical precision
 [@brik_poetika_1919, 151-67]. What readers lost in having the joke explained
