@@ -331,20 +331,6 @@ apart---of that device.
 
 ## 0.3 Computational hermeneutics
 
-The illusion of ephemerality that follows simulation comes at a price of
-legibility. "Software's ghostly presence produces and defies apprehension,"
-Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
-what happens when all text is a type of software? Friedrich Kittler ends his
-book on a similar note. In his vision, literature has finally been defeated by
-military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
-263]. Unlike censorship or the burning of books, such modes of governance
-*over* the sign are less obvious and more pervasive. The simulation-producing
-nature of computed text helps preserve the outward appearance of printed text,
-while concealing the specifics of control. I mean control in the most direct
-way possible, as a mode of physical regulation and barrier to access. The
-difficulty of *Plain Text* will be in the description of such emerging but
-often occluded technological contingencies.
-
 A concern with the contemporary conditions of simulated textuality leads us to
 a rich archive from the history of literary theory, semiotics, telegraphy, and
 electrical engineering from the middle of the nineteenth to the middle of the
@@ -547,24 +533,38 @@ for the most part unnamed. To come to terms with the book as a device; to
 begin to understand the nature of the text simulation; to perceive the
 particularity of the computed sign: these are the aims of *Plain Text*.
 
-In drawing the history of character encoding, I want to describe gains and
-losses accrued in the process of translation between machine and human
-languages. And among a multitude of compromises, *legibility* stands as the
-one that entails all others. I am going to repeat a version of the same thesis
-for the duration of the manuscript: without legibility there can be no
-understanding. Most attempts to articulate a humanist ethos, whether built on
-consensus, narrative, discourse, or contract law, presuppose legibility.
-Without legibility there can be no consensus, narrative, discourse or
-contract. Yet, since advent the Gutenberg press and the vernacular reforms of
-the Lutheran reformation, Western thought has taken legibility for granted.
-<!-- footnote --> This is because until the advent of simulated text, print
-had remained a remarkably stable medium.  Attempts to silence print through
-book burning or censorship are viscerally obvious and met with nearly
-universal disapproval. <!-- what the hell is that occludes, embeds ,
-discretely--> Device textuality <!-- this needs a name remove threaten--> threatens to return
-us to pre-Lutheran times, where legibility was the domain of the select few
-and interpretation the privilege of the chosen. <!-- we cannot read to some
-extent anymore -->
+The illusion of ephemerality that follows simulation comes at a price of
+understanding. "Software's ghostly presence produces and defies apprehension,"
+Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
+what happens when all text is a type of software? Friedrich Kittler ends his
+book on a similar note. In his vision, literature has finally been defeated by
+military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
+263]. Unlike censorship or the burning of books, such modes of governance
+*over* the sign are less obvious and more pervasive. The simulation-producing
+nature of computed text helps preserve the outward appearance of printed text,
+while concealing the specifics of control. I mean control in the most direct
+way possible, as a mode of physical regulation and barrier to access. The
+challenge of *Plain Text* will be in the description of such emerging but
+often occluded technological contingencies.
+
+To unpacking the ephemeral illusion one needs to describe gains and losses
+accrued in the process of translation between machine and human languages.
+Among the multitude of compromises, *legibility* stands as the one that
+entails all others. I am going to repeat a version of the same thesis for the
+duration of the manuscript: without legibility there can be no understanding.
+Most attempts to articulate a humanist ethos, whether built on consensus,
+narrative, discourse, or contract law, presuppose legibility.  Without
+legibility there can be no consensus, narrative, discourse or contract. Yet,
+since advent the Gutenberg press and the vernacular reforms of the Lutheran
+reformation, Western thought has taken legibility for granted.  <!-- footnote
+--> This is because until the advent of simulated text, print had remained a
+remarkably stable medium. Attempts to silence print through book burning or
+censorship are viscerally obvious and met with nearly universal disapproval.
+<!-- what the hell is that occludes, embeds , discretely--> Device textuality
+<!-- this needs a name remove threaten--> threatens to return us to
+pre-Lutheran times, where legibility was the domain of the select few and
+interpretation the privilege of the chosen. <!-- we cannot read to some extent
+anymore -->
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to text, code, platform, and
