@@ -292,13 +292,12 @@ persist when reading devices reconfigure the text to fit individual tastes,
 mood, or politics? How would we even agree on the fact that we are reading the
 same text? The very possibility of interpretation comes into question.
 
-The challenge of asking such questions lies in the relative paucity of our
-critical vocabulary. We have many theoretical models to address literary
-phenomena on the macro scale: period, genre, style, affect, world literature,
-etc. Yet the particulates of literary production and dissemination on the
-micro scale go for the most part unnamed. To come to terms with the book as a
-device; to begin to understand the nature of the text simulation; to perceive
-the particularity of the computed sign: these are the aims of *Plain Text*. A
+We have many theoretical models to address literary phenomena on the macro
+scale: period, genre, style, affect, world literature, etc. Yet the
+particulates of literary production and dissemination on the micro scale go
+for the most part unnamed. To come to terms with the book as a device; to
+begin to understand the nature of the text simulation; to perceive the
+particularity of the computed sign: these are the aims of *Plain Text*. A
 strategy of deliberate defamiliarization reclaims the metaphor-device for
 analysis.
 
@@ -408,8 +407,8 @@ structures available for critical reflection. Building on the recent work of
 scholars like Wendy Kyong Chun, Tung-Hui Hu, Matthew Kirschenbaum, and Lisa
 Gitelman I make the case for an empowered poetics, able regain a measure of
 control over the material contexts of our knowledge production
-[@chun_enduring_2008; @kirschenbaum_mechanisms_2008; @manovich_software_2013;
-@gitelman_paper_2014; @hu_prehistory_2015].
+[@chun_enduring_2008; @kirschenbaum_mechanisms_2008; @gitelman_paper_2014;
+@hu_prehistory_2015].
 
 The future of reading and writing has been inexorably intertwined with the
 development of computer science and software engineering. Even if you are not
@@ -430,38 +429,33 @@ financial markets can. Among the many available visions of human--computer
 interaction, we must chose one that confirms to a humanist ethos, whatever the
 reader's politics.
 
-<!--- explain affordances --->
-
 *Plain Text* makes a historical case for the recovery of textual thought
 latent in the machinery of contemporary computing. Just as philology cannot
 survive without an understanding of its computational present, the design of
 software and hardware systems that facilitate knowledge production cannot
 advance without deep reflection about the cultural consequences of
-intellectual infrastructure. In his now seminal essay on technological
-determinism, Langdon Winner has argued that 
-
-Much is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making---the very opportunity to engage in the
-act of interpretation---begins with texts as material artifacts. In the West,
-it is easy to forget the blunt effectiveness of physical control. Books that
-are burned or redacted cannot be read at all. Elsewhere, global inequities of
-access to knowledge compel readers to print their own books and build their
-own libraries. Witness the so-called "shadow libraries" of Eastern Europe, the
-street book vendors of India and Pakistan, and the gray market presses of
-Nigeria arising form the country's "book famine."[@mahmood_copyright_2005;
-@okiy_photocopying_2005; @liang_piracy_2009; @tenen_book_2014;
-@bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
-*samizdat*-like practices engage in the proactive preservation of the literary
-sphere. Informal book exchange networks create reading publics that own the
-means of textual production and dissemination. Under duress, readers build
-homemade knowledge infrastructures: they duplicate, distribute, catalog, and
-archive. In late-capitalist economies such infrastructures are commodified.
-Consequently, they disappear from view. For many readers, technologies that
-support reading, writing, and interpretation have passed from tools to fetish.
-We have tender feelings for them and cradle them in our laps. No longer
-comprehensible by the way of the pen or the printing press we imbue them with
-magical powers and thus exist in the state of profound alienation from the
-conditions closet to our mental activity.
+intellectual infrastructure. Much is at stake in the material affordances of
+the literary artifact. The political struggle for meaning-making---the very
+opportunity to engage in the act of interpretation---begins with texts as
+material artifacts. In the West, it is easy to forget the blunt effectiveness
+of physical control. Books that are burned or redacted cannot be read at all.
+Elsewhere, global inequities of access to knowledge compel readers to print
+their own books and build their own libraries. Witness the so-called "shadow
+libraries" of Eastern Europe, the street book vendors of India and Pakistan,
+and the gray market presses of Nigeria arising form the country's "book
+famine."[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
+@tenen_book_2014; @bodo_short_2014; @nkiko_book_2014]. More than mere piracy,
+such *samizdat*-like practices engage in the proactive preservation of the
+literary sphere. Informal book exchange networks create reading publics that
+own the means of textual production and dissemination. Under duress, readers
+build homemade knowledge infrastructures: they duplicate, distribute, catalog,
+and archive. In late-capitalist economies such infrastructures are
+commodified.  Consequently, they disappear from view. For many readers,
+technologies that support reading, writing, and interpretation have passed
+from tools to fetish.  We have tender feelings for them and cradle them in our
+laps. No longer comprehensible by the way of the pen or the printing press we
+imbue them with magical powers and thus exist in the state of profound
+alienation from the conditions closet to our mental activity.
 
 The poetics of human--computer interaction reveal that not all texts are
 created equal. In print, traditional distinctions between form and content lie
@@ -475,7 +469,7 @@ illusion. Low-level, operational intuitions governing textuality---ideas about
 form, content, style, letter, and word---change profoundly as text shifts its
 confines from paper to pixel. A substantial gap separates the visible text
 from the source code that produces it. Forces of capital and control exploit
-that gap, obscuring the workings of the device.[^ln-capital] 
+that gap, obscuring the workings of the device.[^ln-capital]
 
 The shifting affordances of digital text challenge some of our deep-seated
 intuitions about literature. The word processor, operating system, and the
@@ -544,8 +538,6 @@ formations---documents and narratives---has long been at the center of both
 computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
-
-<!-- first sentence is weak, already used this structure -->
 
 My challenge in this book lies in the relative paucity of our critical
 vocabulary. We have many theoretical models to address literary phenomena on
@@ -899,22 +891,6 @@ can, in complement to critical theory, actively engineer for human agency. A
 discussion of technological dissent through the new humanisms of Hannah Arendt
 and Franz Fanon concludes the volume.
 
-In the process of textual production, printing and typesetting, it is certain
-that my words were mixed with machine language, which in turn changed the
-structure of the devices in your lap, in your hand, near to your eye,
-embedded, or embodied. I could say that I bear no responsibility for extending
-the reach of machine language so close to the reader. But that would be
-factually incorrect. The choice of my writing implements and my channels of
-communication affect deeply the contexts of interpretation.  Such choices, in
-aggregate, define the shared ecosystem of knowledge that surrounds us.
-Traditional strategies of close reading which limit interpretation to the
-parsing of visible content risk missing the concealed machinations of naked
-circuit control. It looks like you are reading a book, but this book may
-change depending on the readers race, gender, ethnicity, geography, or
-political affiliation. Who has agency program the device? Were a book also a
-pill or fused with the neural circuitry of the brain, would you know what and
-whom you were reading?
-
 ## 0.6 Scale
 
 In the process of taking things and texts apart, I am under no illusion about
@@ -1095,7 +1071,6 @@ literary, technological---to those being displaced unwillingly, to those
 exiled within and without, to those who understand the need for
 self-displacement, to those who transgress purposefully, and to those willing
 to trespass.
-
 
 [^ln-flusser]: The work of @flusser_does_2011 has been similarly influential.
 

@@ -1460,6 +1460,22 @@ tempering. These are but some of the realities of computed text. It is text
 intertwined with machine internals and control code and it is often
 hermeneutically sealed to resist human interpretation.
 
+In the process of textual production, printing and typesetting, it is certain
+that my words were mixed with machine language, which in turn changed the
+structure of the devices in your lap, in your hand, near to your eye,
+embedded, or embodied. I could say that I bear no responsibility for extending
+the reach of machine language so close to the reader. But that would be
+factually incorrect. The choice of my writing implements and my channels of
+communication affect deeply the contexts of interpretation. Such choices, in
+aggregate, define the shared ecosystem of knowledge that surrounds us.
+Traditional strategies of close reading which limit interpretation to the
+parsing of visible content risk missing the concealed machinations of naked
+circuit control. It looks like you are reading a book, but this book may
+change depending on the readers race, gender, ethnicity, geography, or
+political affiliation. Who has agency program the device? Were a book also a
+pill or fused with the neural circuitry of the brain, would you know what and
+whom you were reading?
+
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
 Johanna Drucker's discussion on "the totalizing drive of the digital" in
