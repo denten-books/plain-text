@@ -63,7 +63,7 @@ metaphor is it? What is being compared to what? How did it come into being and
 how does it affect practices of literary interpretation? In *Plain Text* I
 attempt to come to terms with the conditions of simulated textuality.
 
-To come to terms *Plain Text* enacts a reconciliation of vocabularies. It is
+To "come to terms" *Plain Text* enacts a reconciliation of vocabularies. It is
 a response to a particular situation of a literary scholar encountering the
 field of software engineering. For a long stretch of my professional life,
 these two areas of activity remained separate. I worked at one and I studied
@@ -200,7 +200,11 @@ localized dissent, limited for now to the immediate physical contexts of
 reading, writing, and finding knowledge. Following itinerant theorists of the
 metaphor like Vilém Flusser, Viktor Shklovsky, and Hannah Arendt I propose to
 proceed through systematic estrangement of computational metaphors, metaphors
-that fade into transparency as to escape the critical gaze.
+that fade into transparency as to escape the critical gaze. To come to terms
+with the book as a device; to begin to understand the nature of the text
+simulation; to perceive the particularity of the computed sign: these are the
+aims of *Plain Text*. A strategy of deliberate defamiliarization reclaims the
+metaphor-device for analysis.
 
 ## 0.2 Metaphor machines
 
@@ -319,15 +323,6 @@ individual tastes, mood, or politics? How would we even agree on the fact that
 we are reading the same text? The very possibility of interpretation comes
 into question.
 
-We have many theoretical models to address literary phenomena on the macro
-scale: period, genre, style, affect, world literature, etc. Yet the
-particulates of literary production and dissemination on the micro scale go
-for the most part unnamed. To come to terms with the book as a device; to
-begin to understand the nature of the text simulation; to perceive the
-particularity of the computed sign: these are the aims of *Plain Text*. A
-strategy of deliberate defamiliarization reclaims the metaphor-device for
-analysis.
-
 Yet despite its power to recall the world anew, estrangement cannot be
 practiced effectively in the mode of a monologue. To produce meaning, Flusser
 reminds us, it must become dialogical practice. Perpetual exile is otherwise
@@ -345,18 +340,18 @@ chaotic world, one can neither feel nor think nor act" [@flusser_does_2011,
 12]. By this dynamic displacement and habituation enter into a continual
 dialog.
 
-In *Plain Text*, I model the reciprocal movement to making strange on the
-diverse practices of reverse engineering.[^ln-krsh] Unlike estrangement, the
-reverse engineering of devices aims to bring the obscure to light. The
-reciprocal motion to defamiliarization passes through a series of case
-studies. The function of a case study in an engineer's education, as Henry
-Petroski explains in his *Invention by Design*, is to understand the ways by
-which one gets "from thought to thing" [@petroski_invention_1996, 3-7]. Along
-with a metaphor, each of my chapters also contains at least one literary
-"thought thing." Each also enacts a deconstruction---a literal taking
-apart---of that device.
-
 ## 0.3 Computational hermeneutics
+
+In *Plain Text*, I model the reciprocal movement to making strange on the
+diverse practices of reverse engineering.[^ln-krsh] The reciprocal motion to
+defamiliarization passes through a series of case studies. The function of a
+case study in an engineer's education, as Henry Petroski explains in his
+*Invention by Design*, is to understand the ways by which one gets "from
+thought to thing" [@petroski_invention_1996, 3-7]. Reverse engineering, in
+this sense, recalls the formalist strategy of re-experiencing the making of
+the thing. Along with a metaphor, each of my chapters also contains at least
+one literary "thought thing." Each also enacts a deconstruction---a literal
+taking apart---of that device.
 
 A concern with the contemporary conditions of simulated textuality leads us to
 a rich archive from the history of literary theory, semiotics, telegraphy, and
@@ -470,7 +465,7 @@ laps. No longer comprehensible by the way of the pen or the printing press we
 imbue them with magical powers and thus exist in the state of profound
 alienation from the conditions closet to our mental activity.
 
-The poetics of human--computer interaction reveal that not all texts are
+The reverse engineering of literary devices reveals that not all texts are
 created equal. In print, traditional distinctions between form and content lie
 flat. The printing press firmly embeds ink into paper, leaving no space
 between type and page. Media-minded critics like Johanna Drucker, Katherine
@@ -552,14 +547,6 @@ computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
 
-My challenge in this book lies in the relative paucity of our critical
-vocabulary. We have many theoretical models to address literary phenomena on
-the macro scale: period, genre, style, affect, world literature, etc. Yet the
-particulates of literary production and dissemination on the micro scale go
-for the most part unnamed. To come to terms with the book as a device; to
-begin to understand the nature of the text simulation; to perceive the
-particularity of the computed sign: these are the aims of *Plain Text*.
-
 The illusion of ephemerality that follows simulation comes at a price of
 understanding. "Software's ghostly presence produces and defies apprehension,"
 Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
@@ -573,25 +560,6 @@ while concealing the specifics of control. I mean control in the most direct
 way possible, as a mode of physical regulation and barrier to access. The
 challenge of *Plain Text* will be in the description of such emerging but
 often occluded technological contingencies.
-
-To unpacking the ephemeral illusion one needs to describe gains and losses
-accrued in the process of translation between machine and human languages.
-Among the multitude of compromises, *legibility* stands as the one that
-entails all others. I am going to repeat a version of the same thesis for the
-duration of the manuscript: without legibility there can be no understanding.
-Most attempts to articulate a humanist ethos, whether built on consensus,
-narrative, discourse, or contract law, presuppose legibility.  Without
-legibility there can be no consensus, narrative, discourse or contract. Yet,
-since advent the Gutenberg press and the vernacular reforms of the Lutheran
-reformation, Western thought has taken legibility for granted.  <!-- footnote
---> This is because until the advent of simulated text, print had remained a
-remarkably stable medium. Attempts to silence print through book burning or
-censorship are viscerally obvious and met with nearly universal disapproval.
-<!-- what the hell is that occludes, embeds , discretely--> Device textuality
-<!-- this needs a name remove threaten--> threatens to return us to
-pre-Lutheran times, where legibility was the domain of the select few and
-interpretation the privilege of the chosen. <!-- we cannot read to some extent
-anymore -->
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to text, code, platform, and
@@ -701,10 +669,6 @@ not share in any given familial characteristic
 model, imagine a tree diagram, where the tangled branches of computation and
 textuality intersect and diverge in beautiful and yet arbitrary ways.
 
-<!-- this section is way underdeveloped, bring in the citation into the text,
-possibly dewey and technics and perhaps do bring this human-computer
-interaction  connect to experimentalism-->
-
 As a consequence of my commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
 disciplines. When beginning the project, I was initially inspired by the
@@ -722,8 +686,6 @@ experiment and, in hospitals, amphitheaters, or laboratories stir the fetid or
 throbbing ground of life" [@bernard_introduction_1957, 3-15]. Today, the
 lighted halls of literary and media theory lead to the scholar's workshop.
 
-[^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
-
 In an approach to "doing" theory, *Plain Text* joins the experimental turn
 steering the academy toward critical practice, especially in fields
 long-dominated by purely speculative reflection. The experimental turn
@@ -738,10 +700,6 @@ exemplifies the same trend.  In naming the locations of their practice
 "laboratories,"  "studios," and "workshops," humanists reach for new metaphors
 of labor. These metaphors aim to reorganize the relationship between body,
 space, idea, artifact, instrument, and inscription.
-
-<!-- more on the experimental turn -->
-<!-- highlight a specific project from pamela smith, describe pamela's project -->
-<!-- expand -->
 
 As an example of what I have been calling here the "experimental turn" in the
 field of early modern history consider the preface to a recent volume on *Ways
@@ -1177,3 +1135,6 @@ of technological structure endow the creation with an anticipated *telos*"
 
 [^ln-spam] For example, in 2004 researchers estimated that spam mail makes up
 40%-80% of the total email volume @cournane_analysis_2004.
+
+[^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
+
