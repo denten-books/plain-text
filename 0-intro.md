@@ -230,33 +230,40 @@ therefore provides "wide-ranging improvements in learning ability and ease of
 use" [@carroll_metaphor_1982, 108]. What users know about trashcans in the
 real world can be used to guide behavior in the virtual one.
 
+The rapid uptake of "what you see is what you get" interfaces pioneered by
+Apple proved the effectiveness of metaphoric design. Through metaphor, users
+are able to extend models of action from one domain into another. Empirical
+studies indeed show the effectiveness of cognitive blending, as was suggested
+by Carroll and Thomas [@blackwell_does_1999; @sallam_use_2009]. Flusser would
+say that such metaphoric habituated makes experience more "smooth." The user
+avoids "bumping into the sharp corners" of new and complicated computational
+environments. 
+
 The seminal work on figurative speech undertaken by the Russian formalists at
 the turn of the twentieth century reminds us that such metaphoric shortcuts to
 learning also have their cognitive downside. Habituated experience passes into
 the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
 words, first in perception and then in practice [@brik_poetika_1919, 38 and
-104]. Beneficially, the metaphor conserves mental energy. But, once
-internalized, it no longer attracts attention. The image becomes so familiar
-that we cease thinking about it---an insight that was confirmed experimentally
-almost a century later.[^ln-cog] Conceptual blending, a dynamic by which
-images and paradigms from one domain are extended to another, improves the
-learning of software systems. Flusser would say it makes experience more
-"smooth." The user avoids "bumping into the sharp corners" of new and
-complicated computational environments. But the formalists also understood
-that metaphors so "automatized" diminish the vitality of experience. Shklovsky
-quotes from the diaries of Lev Tolstoy, who, while dusting his room, could not
-remember if he already dusted his sofa. "Because actions like these are
-habituated and unconscious, I could not remember and knew that it was
-impossible to remember," wrote Tolstoy. "And so whether I dusted and forgot or
-just did so without thinking, it as if the action never happened [..] thus
-when life passes without conscious reflection, it passes as if one has not
-lived at all." Life disappears into nothingness, when the "automatization of
-experience "consumes things, clothing, furniture, your spouse, and the fear of
-war" [@brik_poetika_1919, 104].[^ln-translation] The formalists rarely quoted
-Marx directly. Yet the echoes of Marx resonate through their work throughout.
-The dead metaphor marks the alienation of experience. The point at which
-material artifact disappears from individual conciousness is the also the
-point where it appears within the social sphere as fetish.
+104]. Yes, the metaphor can conserve mental energy.  But, once internalized, it no
+longer attracts attention. The image becomes so familiar that we cease
+thinking about it---an insight that was confirmed experimentally almost a
+century later.[^ln-cog] 
+
+But the formalists also understood that metaphors
+so "automatized" diminish the vitality of experience. Shklovsky quotes from
+the diaries of Lev Tolstoy, who, while dusting his room, could not remember if
+he already dusted his sofa. "Because actions like these are habituated and
+unconscious, I could not remember and knew that it was impossible to
+remember," wrote Tolstoy. "And so whether I dusted and forgot or just did so
+without thinking, it as if the action never happened [..] thus when life
+passes without conscious reflection, it passes as if one has not lived at
+all." Life disappears into nothingness, when the "automatization of experience
+"consumes things, clothing, furniture, your spouse, and the fear of war"
+[@brik_poetika_1919, 104].[^ln-translation] The formalists rarely quoted Marx
+directly. Yet the echoes of Marx resonate through their work throughout.  The
+dead metaphor marks the alienation of experience. The point at which material
+artifact disappears from individual conciousness is the also the point where
+it appears within the social sphere as fetish.
 
 John Carroll targeted his recommendations for designing human--computer
 interfaces at novice users, unfamiliar with computing. The metaphor eased
@@ -1134,7 +1141,7 @@ soul of its own [...] A ghost appears in the network.  Unanticipated aspects
 of technological structure endow the creation with an anticipated *telos*"
 [@winner_autonomous_1978, 280].
 
-[^ln-spam] For example, in 2004 researchers estimated that spam mail makes up
+[^ln-spam]: For example, in 2004 researchers estimated that spam mail makes up
 40%-80% of the total email volume @cournane_analysis_2004.
 
 [^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
