@@ -233,37 +233,34 @@ real world can be used to guide behavior in the virtual one.
 The rapid uptake of "what you see is what you get" interfaces pioneered by
 Apple proved the effectiveness of metaphoric design. Through metaphor, users
 are able to extend models of action from one domain into another. Empirical
-studies indeed show the effectiveness of cognitive blending, as was suggested
-by Carroll and Thomas [@blackwell_does_1999; @sallam_use_2009]. Flusser would
-say that such metaphoric habituated makes experience more "smooth." The user
-avoids "bumping into the sharp corners" of new and complicated computational
-environments. 
+studies indeed show the effectiveness of metaphor in computation
+[@blackwell_does_1999; @sallam_use_2009]. Flusser would say that such
+figurative habituation makes experience more "smooth." The user avoids
+"bumping into the sharp corners" of new and complicated computational
+environments. The metaphor can conserve mental energy. But, once internalized,
+it also no longer attracts attention. The seminal work on figurative speech
+undertaken by the Russian formalists at the turn of the twentieth century
+reminds us that effective metaphoric shortcuts to learning have their
+cognitive downside. Habituated experience passes into the unconscious
+[@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's words, first in
+perception and then in practice [@brik_poetika_1919, 38 and 104]. The figure
+becomes so familiar that we cease thinking about it---an early insight that
+also was confirmed experimentally almost a century later.[^ln-cog]
 
-The seminal work on figurative speech undertaken by the Russian formalists at
-the turn of the twentieth century reminds us that such metaphoric shortcuts to
-learning also have their cognitive downside. Habituated experience passes into
-the unconscious [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's
-words, first in perception and then in practice [@brik_poetika_1919, 38 and
-104]. Yes, the metaphor can conserve mental energy.  But, once internalized, it no
-longer attracts attention. The image becomes so familiar that we cease
-thinking about it---an insight that was confirmed experimentally almost a
-century later.[^ln-cog] 
-
-But the formalists also understood that metaphors
-so "automatized" diminish the vitality of experience. Shklovsky quotes from
-the diaries of Lev Tolstoy, who, while dusting his room, could not remember if
-he already dusted his sofa. "Because actions like these are habituated and
-unconscious, I could not remember and knew that it was impossible to
-remember," wrote Tolstoy. "And so whether I dusted and forgot or just did so
-without thinking, it as if the action never happened [..] thus when life
-passes without conscious reflection, it passes as if one has not lived at
-all." Life disappears into nothingness, when the "automatization of experience
-"consumes things, clothing, furniture, your spouse, and the fear of war"
-[@brik_poetika_1919, 104].[^ln-translation] The formalists rarely quoted Marx
-directly. Yet the echoes of Marx resonate through their work throughout.  The
-dead metaphor marks the alienation of experience. The point at which material
-artifact disappears from individual conciousness is the also the point where
-it appears within the social sphere as fetish.
+The formalists understood habituated metaphors to  diminish the vitality of
+experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
+dusting his room, could not remember if he already dusted his sofa.  "Because
+actions like these are habituated and unconscious, I could not remember and
+knew that it was impossible to remember," wrote Tolstoy. "And so whether I
+dusted and forgot or just did so without thinking, it as if the action never
+happened [..] thus when life passes without conscious reflection, it passes as
+if one has not lived at all." Life disappears into nothingness, when the
+"automatization of experience "consumes things, clothing, furniture, your
+spouse, and the fear of war" [@brik_poetika_1919, 104].[^ln-translation] The
+formalists rarely quoted Marx directly. Yet the echoes of Marx resonate
+throughout. The dead metaphor marks the alienation of experience. The point at
+which material artifact disappears from individual conciousness is the also
+the point where it appears within the social sphere as fetish.
 
 John Carroll targeted his recommendations for designing human--computer
 interfaces at novice users, unfamiliar with computing. The metaphor eased
@@ -273,44 +270,49 @@ assumed that learning would happen through metaphor. But more than forty years
 of computing under the guidelines have failed to produce a learned public.
 This is evidenced by the frequent and urgent calls to digital literacy on the
 part of our leading intellectuals, educators, and
-politicians.[^ln-digitalliteracy] But instead of educating, the metaphor
-embodied a shortcut to learning.  Once established, it continues to prevent
-users from literal engagement with computational realities. Like Tolstoy's
-mindless dusting, life at the keyboard increasingly passes without reflection.
+politicians.[^ln-digitalliteracy] But instead of educating, the preference for
+easy figurative tropes embodied a shortcut to knowledge. Once established,
+such shortcuts continue to prevent users from literal engagement with
+computational realities. Like Tolstoy's mindless dusting, life at the keyboard
+increasingly passes without reflection. Worse yet, the trope obscures forces
+of capital, governance, and control cloaked behind the innocuous figure.
 
 [^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
 @negroponte_being_1995; @davidson_now_2011.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
-was the formalist answer to the deadened metaphor. It was meant to "resurrect"
-the stale image and to recover the "experience of the making of the
-thing"[@shklovsky_voskreshenie_1914; @shklovksy_sborniki_1917, 8]. The
-formalists applied defamiliarization in art, politics, and analysis alike
-[@jameson_prison-house_1972, 75-9; @boym_estrangement_1996;
-@holquist_minding_2005]. In art, estrangement proceeded through poetic
-experimentation: neologism, consonance, punning, or repetition, among other
-devices. Thus, the childlike repetition of the "a door ajar, a door ajar, a
-door ajar" brings attention to the etymological roots of the onomatopoetic "to
-jar" in the sense of "to emit a harsh  sound"; to the sense of the word as a
-vessel or a jar, which comes from the Arabic *jarrah*; and to "ajar" which
-although relates to the Old English *cyrr* or *cierr* in the meaning of
-"turn," as in "chore" or "a turn of work", was in fact in the eighteenth
-century confused with jar in the sense of "a harsh sound" to form the now rare
-"ajar" in the sense of "to be in a jarring state; out of harmony; at odds;
-awry" [@_ajar_2015; @_ajar_2015-1; @_jar_2015; @_jar_2015-1]. In this way
-estrangement through phonetic repetition first made nonsense of the word, but
-then sent us on an etymological excavation to rediscover unexpected
-confluences in the words' usage and origins.
+was the formalist answer to the ossified metaphor. Estrangement was meant to
+recover the experience of the making of the thing, to name it, and to describe
+it as if one encounters it for the first time [@shklovsky_voskreshenie_1914;
+@shklovksy_sborniki_1917, 8]. The formalists found estrangement in art,
+politics, and analysis alike [@jameson_prison-house_1972, 75-9;
+@boym_estrangement_1996; @holquist_minding_2005]. In art, estrangement
+proceeded through poetic experimentation: neologism, synecdoche, consonance,
+or repetition, among other devices. Thus, the childlike incantation "a door
+ajar" can evoke the etymological roots of the onomatopoetic "to jar" in the
+sense of "to emit a harsh  sound"; the sense of the word as a vessel or a jar,
+which comes from the Arabic *jarrah*; and to "ajar" which although relates to
+the Old English *cyrr* or *cierr* in the meaning of "turn," as in "chore" or
+"a turn of work", was in fact in the eighteenth century confused with jar in
+the sense of "a harsh sound" to form the now rare "ajar" in the sense of "to
+be in a jarring state; out of harmony; at odds; awry" [@_ajar_2015;
+@_ajar_2015-1; @_jar_2015; @_jar_2015-1]. In this way the initial parallelism
+between two usually unrelated words, a door and ajar, first creates a novel
+analogy but then leads to renewed insight. Could the nonsensical *adoor* carry
+the semantic weight of an adverb? Is it a chore to turn a jar? The
+etymological excavation leads us to rediscover unexpected confluences in the
+words' usage and origins.
 
-Where estrangement in art could renew the word through near mystical, often
+Where estrangement in art could renew the word through suggestive, often
 trans-rational experience, in scholarly practice the formalists adopted a
-scientific stance towards the objects of their study. As in art, the formalist
-approach to analysis was to see how the thing is made. For example, in his
-influential essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum
-identified *skaz*, or the manner of speaking, as an organizing principle for
-the typically Gogolian narrative [@brik_poetika_1919, 151-67]. What readers
-lost in having the joke explained to them, they gained in understanding of the
-genre.
+scientific stance towards the object of their study. Unlike the previous
+generation of critics who concentrated on the historical, biographical, and
+philosophical aspects of literary formation, the formalists wanted to
+reconstruct how the thing was made. For example, in his influential essay on
+"How Gogol's *Overcoat* Was Made" Boris Eikhenbaum identified *skaz*, or the
+manner of speaking, as an organizing principle for Gogogl's satirical
+narratives [@brik_poetika_1919, 151-67]. What readers lost in having the joke
+explained to them, they gained in understanding of the genre.
 
 I take a similar approach in *Plain Text* by extending formal concerns with
 the mechanics of the literary "device" and "technique" to literary devices and
