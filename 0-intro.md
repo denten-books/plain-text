@@ -51,7 +51,7 @@ sell me things, showing me advertisements for cars, jewelry, and pills. It
 comes with a manual and terms of service. It is my confidant, my dealer, my
 spy.
 
-## 0.1 Displacement
+## 0.1 Simulation
 
 The aim of *Plain Text* is to dispel a pervasive illusion. The electronic book
 is but a compelling metaphor that belies material realities of reading and
@@ -62,6 +62,92 @@ simulation. What does it mean to "study" a book metaphor? And what kind of a
 metaphor is it? What is being compared to what? How did it come into being and
 how does it affect practices of literary interpretation? In *Plain Text* I
 attempt to come to terms with the conditions of simulated textuality.
+
+The illusion of ephemerality that follows simulation comes at a price of
+understanding. "Software's ghostly presence produces and defies apprehension,"
+Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
+what happens when all text is a type of software? Friedrich Kittler ends his
+book on a similar note. In his vision, literature has finally been defeated by
+military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
+263]. Attempts to silence print through book burning or censorship are
+viscerally obvious and met with nearly universal disapproval. Unlike
+censorship or the burning of books, modes of implicit computational governance
+over the sign proceed by clandestine means. The simulation-producing nature of
+computed text preserves the outward appearance of printed text, while
+concealing the specifics of governance and control. I mean governance and
+control in the most direct way possible, as a mode of physical regulation that
+erect barrier to production, access, and distribution of knowledge. The
+challenge of *Plain Text* will be in the description of such emerging but
+often occluded technological contingencies.
+
+A concern with the material conditions of simulated textuality leads us to a
+rich archive of materials from the history of literary theory, semiotics,
+telegraphy, and electrical engineering from the middle of the nineteenth to
+the middle of the twentieth centuries. Reflecting on the development of Morse
+Code in 1949 in the *Proceedings of the American Philosophical Society*, Frank
+Halstead mentions the difficulty of finding a home field in the arts or
+sciences for what he calls "code development." "It is a matter somewhat
+related to the general art of cryptology," he writes, "yet it is not wholly
+divorced from electrical engineering nor from general philology"
+[@halstead_genesis_1949, 456]. As Halstead anticipated, research in the field
+of code development and computational culture has led me to range of rare
+primary materials: from the proceedings of the Association for Computing
+Machinery (ACM) to the United States Patent and Trademark Office; from Bell
+Labs to early Soviet publishing houses that heralded the advance of formalism;
+from studies on animal communication behavior, to Unix manuals, to textbooks
+on semiotics, and to foundational texts in the philosophy of aesthetics and
+literary theory.
+
+I deploy that archive to argue that extant theories of interpretation
+construct a notion of close reading based on preexisting properties and
+assumptions attached to static print media. By contrast, electronic text
+changes dynamically to suit its reader, cultural context, and geography.
+Consequently, I argue for the development of what I term *computational
+hermeneutics*, a strategy of interpretation capable of reaching past the
+surface content to reveal also the software platforms and the hardware
+infrastructures that contribute to the production of meaning.  Drawing on a
+range of materials at the intersection of literary thought and the history of
+modern computing, *Plain Text* examines a number of key literary-theoretical
+constructs, recasting the paper book as a metaphor machine and computational
+object.
+
+I appeal to the idea of "plain text" in the title of this book to signal an
+affinity with a particular mode of computational meaning making. In technical
+terms, *plain text* identifies a file format and a frame of mind. As a file
+format, it contains nothing but a "pure sequence of character codes." Plain
+text stands in opposition to "fancy text," "text representation consisting of
+plain text plus added information."[^ln-uni] In the tradition of American
+textual criticism, "plain text" identifies an editorial method of text
+transcription which is both "faithful to the source" and is "easier to read
+than the original document" [@cook_time-bounded_1972]. Combining these two
+traditions, I mean ultimately to build a case for a kind of a systematic
+minimalism when it comes to our use of computers---a minimalism that
+privileges legibility and human comprehension. I do so in contrast with other
+available modes of human--computer interaction, which by contrast with minimal
+computing privilege maximizing system--centric ideals like efficiency, speed,
+performance, or security.
+
+The use of plain text implies also an ethics of reading and writing. It
+therefore further identifies an interpretive stance one can assume in relation
+to the making and the unmaking of literary artifacts. Besides visible content,
+all contemporary documents carry with them a layer of hidden information.
+Originally used for typesetting, the digital formatting layer affects more
+than innocuous document attributes like "font size" or "line spacing."
+Increasingly, devices that mediate literary activity encode forms of
+governance. Such devices tacitly police intellectual property laws, censor,
+and carry out surveillance operations. For example, the Digital Millennium
+Copyright act, passed in the United States in 1996, goes beyond written
+injunction to require the management of digital rights (DRM) at the level of
+hardware. An electronic book governed by DRM may prevent the reader from
+copying or sharing stored content, even for the purposes of academic
+study.[^ln-dmca] Computational hermeneutics strives to make such control
+structures available for critical reflection. Building on the recent work of
+scholars like Wendy Kyong Chun, Tung-Hui Hu, and Lisa Gitelman I make the case
+for an empowered poetics, able regain a measure of control over the material
+contexts of our knowledge production [@chun_enduring_2008;
+@gitelman_paper_2014; @hu_prehistory_2015].
+
+## 0.2 Displacement
 
 To "come to terms" *Plain Text* enacts a reconciliation of vocabularies. It is
 a response to a particular situation of a literary scholar encountering the
@@ -207,7 +293,7 @@ metaphor-device for analysis. To come to terms with the book as a device; to beg
 understand the nature of the text simulation; to perceive the particularity of
 the computed sign: these are the aims of *Plain Text*.
 
-## 0.2 Metaphor machines
+## 0.3 Metaphor
 
 Computation advances into everyday life though metaphor. Like all tropes, such
 metaphors lose their evocative power with frequent use. The task of a literary
@@ -276,9 +362,6 @@ such shortcuts continue to prevent users from literal engagement with
 computational realities. Like Tolstoy's mindless dusting, life at the keyboard
 increasingly passes without reflection. Worse yet, the trope obscures forces
 of capital, governance, and control cloaked behind the innocuous figure.
-
-[^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
-@negroponte_being_1995; @davidson_now_2011.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
@@ -353,162 +436,20 @@ feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic displacement
 and habituation enter into a continuing conversation. But what is the "other"
 to estrangement?
 
-## 0.3 Computational hermeneutics
+## 0.4 Computational hermeneutics
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
-diverse practices of reverse engineering.[^ln-krsh] The reciprocal motion to
-defamiliarization passes through a series of case studies. The function of a
-case study in an engineer's education, as Henry Petroski explains in his
-*Invention by Design*, is to understand the ways by which one gets "from
-thought to thing" [@petroski_invention_1996, 3-7]. Reverse engineering, in
-this sense, recalls the formalist strategy of re-experiencing the making of
-the thing. Along with a metaphor, each of my chapters contains at least one
-literary "thought thing." Each chapter enacts a deconstruction---a literal
-taking apart---of that device.
-
-A concern with the material conditions of simulated textuality leads us to a
-rich archive from the history of literary theory, semiotics, telegraphy, and
-electrical engineering from the middle of the nineteenth to the middle of the
-twentieth centuries. Drawing on a range of archival materials at the
-intersection of literary thought and the history of modern computing, *Plain
-Text* examines a number of key literary-theoretical constructs, recasting the
-paper book as a metaphor machine and computational object.
-
-Reflecting on the development of Morse Code in 1949 in the *Proceedings of the
-American Philosophical Society*, Frank Halstead mentions the difficulty of
-finding a home field in the arts or sciences for what he calls "code
-development." "It is a matter somewhat related to the general art of
-cryptology," he writes, "yet it is not wholly divorced from electrical
-engineering nor from general philology" [@halstead_genesis_1949, 456]. As
-Halstead anticipated, research in the field of code development has led me to
-range of rare primary archival materials: from the proceedings of the
-Association for Computing Machinery (ACM) to the United States Patent and
-Trademark Office; from Bell Labs to early Soviet publishing houses that
-heralded the advance of formalism; from studies on animal communication
-behavior, to Unix manuals, to textbooks on semiotics, and to foundational
-texts in the philosophy of aesthetics and literary theory.
-
-Using sources from across disciplines, I will maintain that extant theories of
-interpretation construct a notion of close reading based on preexisting
-properties and assumptions attached to static print media. By contrast,
-electronic text changes dynamically to suit its reader, cultural context, and
-geography.  Consequently, I argue for the development of what I term
-*computational hermeneutics* capable of reaching past the surface content to
-reveal also the software platforms and the hardware infrastructures that
-contribute to the production of meaning.
-
-I appeal to the idea of "plain text" in the title of this book to signal an
-affinity with a particular mode of interpretation. In technical terms, *plain
-text* identifies a file format and a frame of mind. As a file format, it
-contains nothing but a "pure sequence of character codes." Plain text stands
-in opposition to "fancy text," "text representation consisting of plain text
-plus added information."[^ln-uni] In the tradition of American textual
-criticism, "plain text" identifies an editorial method of text transcription
-which is both "faithful to the source" and is "easier to read than the
-original document" [@cook_time-bounded_1972]. Combining these two traditions,
-I mean ultimately to argue for a kind of a systematic minimalism when it comes
-to our use of computers---a minimalism that privileges legibility and human
-comprehension. I do so in contrast with modes of human--computer interaction
-that may privilege other system--centric ideals like speed, security, or
-efficiency.
-
-The use of plain text implies also an ethics of reading and writing. It
-therefore further identifies a frame of mind or an interpretive stance one can
-assume in relation to the making and the unmaking of literary artifacts.
-Besides the visible content, all contemporary documents carry with them a
-layer of hidden information. Originally used for typesetting, the formatting
-layer can affect much more than innocuous document attributes like "font size"
-or "line spacing." Increasingly, devices that mediate literary activity encode
-forms of governance. Such devices tacitly censor, police intellectual property
-laws, and carry out surveillance operations. For example, the Digital
-Millennium Copyright act, passed in the United States in 1996, goes beyond
-written injunction to require the management of digital rights (DRM) at the
-level of hardware. An electronic book governed by DRM may prevent the reader
-from copying or sharing stored content, even for the purposes of academic
-study.[^ln-dmca] Computational hermeneutics strives to make such control
-structures available for critical reflection. Building on the recent work of
-scholars like Wendy Kyong Chun, Tung-Hui Hu, and Lisa Gitelman I make the case
-for an empowered poetics, able regain a measure of control over the material
-contexts of our knowledge production [@chun_enduring_2008;
-@gitelman_paper_2014; @hu_prehistory_2015].
-
-The future of reading and writing has been inexorably intertwined with the
-development of computer science and software engineering. Even if you are not
-reading these words on a screen, my message has reached you through a long
-chain of machine-mediated transformations: from the mechanical action of the
-keyboard (on which I am now typing), to the arrangement of electrons on
-magnetic storage media, to the modulation of fiber-optic signal, to the
-shimmer of the flowing liquid crystal display rendering the text. Computation
-occupies the space between the keyboard and the screen, which in turn
-habituates cultural constructs: from the design of social media to the
-formation of massive shared archives. Such "cultural techniques" are formative
-of our society as a whole [@leroi-gourhan_gesture_1993, 83-84;
-@siegert_cultural_2015]. Therefore, daily choices like choosing a text editor,
-a filing system, or a social networking platform cannot be addressed in
-shallow instrumental terms limited to efficacy, speed, or performance.
-Complex computational systems cannot give rise to ethics any more than
-financial markets can. Among the many available visions of human--computer
-interaction I  will make a case for our choosing one that confirms to a
-humanist ethos, whatever the reader's politics.
-
-*Plain Text* makes a historical case for the recovery of textual thought
-latent in the machinery of contemporary computing. Just as philology cannot
-survive without an understanding of its computational present, the design of
-software and hardware systems that facilitate knowledge production cannot
-advance without deep reflection about the cultural consequences of
-intellectual infrastructure. Much is at stake in the material affordances of
-the literary artifact. The political struggle for meaning-making---the very
-opportunity to engage in the act of interpretation---begins with texts as
-material artifacts. In the West, it is easy to forget the blunt effectiveness
-of physical control.  Books that are burned or redacted cannot be read at all.
-Elsewhere, global inequities of access to knowledge compel readers to print
-their own books and build their own libraries. Witness the so-called "shadow
-libraries" of Eastern Europe, the street book vendors of India and Pakistan,
-and the gray market presses of Nigeria arising form the country's "book
-famine."[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
-@tenen_book_2014; @bodo_short_2014; @nkiko_book_2014]. More than mere piracy,
-such *samizdat*-like practices engage in the proactive preservation of the
-literary sphere. Informal book exchange networks create reading publics that
-own the means of textual production and dissemination. Under duress, readers
-build homemade knowledge infrastructures: they duplicate, distribute, catalog,
-and archive. By contrast, wealthier economies such infrastructures are
-commodified.  Consequently, they disappear from view. For many readers,
-technologies that support reading, writing, and interpretation have passed
-from tools to fetish.  We have tender feelings for them and cradle them in our
-laps. No longer comprehensible by the way of the pen or the printing press we
-imbue them with magical powers and thus exist in the state of profound
-alienation from the material conditions closet to our mental activity.
-
-The illusion of ephemerality that follows simulation comes at a price of
-understanding. "Software's ghostly presence produces and defies apprehension,"
-Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
-what happens when all text is a type of software? Friedrich Kittler ends his
-book on a similar note. In his vision, literature has finally been defeated by
-military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
-263]. Attempts to silence print through book burning or censorship are
-viscerally obvious and met with nearly universal disapproval. Unlike
-censorship or the burning of books, modes of implicit computational governance
-*over* the sign proceed by clandestine means. The simulation-producing nature
-of computed text helps preserve the outward appearance of printed text, while
-concealing the specifics of control. I mean control in the most direct way
-possible, as a mode of physical regulation and barrier to access. The
-challenge of *Plain Text* will be in the description of such emerging but
-often occluded technological contingencies.
-
-The reverse engineering of literary devices reveals that not all texts are
-created equal. In print, traditional distinctions between form and content lie
-flat. The printing press firmly embeds ink into paper, leaving no space
-between type and page. Media-minded critics like Johanna Drucker, Katherine
-Hayles, Matthew Kirschenbaum, and Jerome McGann have urged literary scholars
-to re-evaluate textuality in its media-specific contexts
-[@drucker_digital_2001; @mcgann_radiant_2001; @hayles_print_2004;
-@kirschenbaum_mechanisms_2008]. Their work reminds us that the flatness of
-digital text endures only in the guise of an illusion. Low-level, operational
-intuitions governing textuality---ideas about form, content, style, letter,
-and word---change profoundly as text shifts its confines from paper to pixel.
-A substantial gap separates the visible text from the source code that
-produces it. Forces of capital and control exploit that gap, obscuring the
-workings of the device.[^ln-capital]
+diverse practices of reverse engineering. Similar in method to what Matthew
+Kirschenbaum calls "forensic argumentation", reverse engineering recalls the
+formalist strategy of experiencing the making of the thing through careful,
+case study-based reconstructions of the textual mechanism
+[@kirschenbaum_mechanisms_2008, 15]. The function of a case study in an
+engineer's education, as Henry Petroski explains in his *Invention by Design*,
+is to understand the ways by which one gets "from thought to thing"
+[@petroski_invention_1996, 3-7]. Along with an exposition of a metaphor, each
+of my chapters therefore also contains at least one literary "thought thing."
+Each chapter enacts a deconstruction---a literal taking apart---of that
+device.
 
 The shifting affordances of digital text challenge some of our deep-seated
 intuitions about literature. The word processor, operating system, and the
@@ -524,6 +465,20 @@ is not however a post-human materialism of the kind that privileges an
 object's point of view. On the contrary, the book aims to remove the aura of
 fetishism that attaches itself to literary--computational artifacts and to
 complex systems that mediate the textual encounter.
+
+The reverse engineering of literary devices reveals that not all texts are
+created equal. In print, traditional distinctions between form and content lie
+flat. The printing press firmly embeds ink into paper, leaving no space
+between type and page. Media-minded critics like Johanna Drucker, Katherine
+Hayles, and Jerome McGann have urged literary scholars to re-evaluate
+textuality in its media-specific contexts [@drucker_digital_2001;
+@mcgann_radiant_2001; @hayles_print_2004]. Their work reminds us that the
+flatness of digital text endures only in the guise of an illusion. Low-level,
+operational intuitions governing textuality---ideas about form, content,
+style, letter, and word---change profoundly as text shifts its confines from
+paper to pixel. A substantial gap separates the visible text from the source
+code that produces it. Forces of capital and control exploit that gap,
+obscuring the workings of the device.[^ln-capital]
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper offers the document of record, which, once archived,
@@ -577,6 +532,54 @@ formations---documents and narratives---has long been at the center of both
 computer science and literary theory. Using primary sources from both
 disciplines, *Plain Text* uncovers the shared history of literary machines,
 bringing computation closer to its humanistic roots.
+
+*Plain Text* makes a historical case for the recovery of textual thought
+latent in the machinery of contemporary computing. Just as philology cannot
+survive without an understanding of its computational present, the design of
+computational platforms cannot advance without humanistic introspection. Much
+is at stake in the material affordances of the literary artifact. The
+political struggle for meaning-making---the very opportunity to engage in the
+act of interpretation---begins and ends with the materiality of the textual
+artifact. In the West, it is easy to forget the blunt effectiveness of
+physical control. Books that are burned or redacted cannot be read at all.
+Elsewhere, global inequities of access to knowledge compel readers to print
+their own books and build their own libraries. Witness the so-called "shadow
+libraries" of Eastern Europe, the street book vendors of India and Pakistan,
+and the gray market presses of Nigeria arising form the country's "book
+famine."[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
+@bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
+*samizdat*-like practices engage in the proactive preservation of the literary
+sphere [@tenen_book_2014]. Informal book exchange networks create reading
+publics that own the means of textual production and dissemination. Under
+duress, readers build homemade knowledge infrastructures: they duplicate,
+distribute, catalog, and archive. By contrast, in wealthier economies such
+infrastructures are commodified. Consequently, the material contexts of
+meaning making disappear from view. For many readers, technologies that
+support reading, writing, and interpretation pass from tools to fetish. We
+hold tender feelings for them and cradle them in our laps. No longer
+comprehensible by the way of the pen or the printing press we imbue them with
+magical powers and thus exist in the state of profound alienation from the
+material conditions closet to our mental activity.
+
+The future of reading and writing has been inexorably intertwined with the
+development of computer science and software engineering. Even if you are not
+reading these words on a screen, my message has reached you through a long
+chain of machine-mediated transformations: from the mechanical action of the
+keyboard on which I am now typing, to the arrangement of electrons on magnetic
+storage media, to the modulation of fiber-optic signal, to the shimmer of the
+flowing liquid crystal display rendering the text. Computation occupies the
+space between the keyboard and the screen, which in turn gives rise to
+higher-order cultural institutions: from the architecture of social media
+platforms to the formation of massive shared archives. The "cultural
+techniques" that guide our use of such technologies are formative of the
+society as a whole [@leroi-gourhan_gesture_1993, 83-84;
+@siegert_cultural_2015]. Therefore, daily choices like choosing a text editor,
+a filing system, or a social networking platform cannot be addressed in
+shallow instrumental system-centric ideals. Complex computational systems
+cannot give rise to ideals any more than financial markets can. Among the many
+available visions of human--computer interaction I will build a case for our
+choosing one that confirms to a humanist ethos, whatever the reader's
+politics.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to text, code, platform, and
@@ -1129,9 +1132,6 @@ Harcourt have advanced critique along similar lines. See
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
 
-[^ln-krsh]: The idea of reverse engineering is suggested also by Matthew
-Kirschenbaum's idea of "forensic reading." See @kirschenbaum_mechanisms_2008.
-
 [^ln-exposed]: For an extended exposition of this dynamic see
 @harcourt_exposed:_2015.
 
@@ -1161,4 +1161,7 @@ strong proponent of such an approach. See @turner_death_1987 or
 
 [^ln-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
 5; @nuttall_new_2007, 6-25.
+
+[^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
+@negroponte_being_1995; @davidson_now_2011.
 
