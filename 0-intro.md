@@ -108,9 +108,9 @@ I sit at my desk," he went on to write, "I don't see the papers and the books
 that are lying all about because I'm used to them" [@flusser_freedom_2003, 13
 and 82]. Familiar objects pass no information to their users, according to
 Flusser. Like water that surrounds fish, they pass into the background of
-experience. Mediums become media. Their function is to ultimately disappear
-into the background: not to produce meaning but to cease production, to become
-a stage for meaning-making, and like the stage to disappear from view.
+experience. Mediums become media. They disappear into the background, cease
+producing meaning, become a stage for meaning-making, and like the stage
+disappear from view.
 
 The condition of exile, by contrast, allows the displaced to once again
 transform habituated media into meaningful information. In exile, "everything
@@ -128,7 +128,7 @@ of things. A new generation of artificially intelligent objects, things like
 smart phones, smart light bulbs, and smart watches, Intels and Idea Pads,
 enter the networked public sphere as seemingly independent agents.[^ln-winner]
 Marx's "table that evolves grotesque ideas out of its wooden brain" can now be
-re-branded into Microsoft *Surface* and PixelSense, product names from the
+re-branded into Microsoft Surface and PixelSense, product names from the
 life cycle of an actual smart table [@marx_captial_1906, 82;
 @wigdor_designing_2009].
 
@@ -141,20 +141,22 @@ technology "literature has nothing more to say," I believe that literature and
 literary analysis continue to have a voice in contemporary life
 [@kittler_gramophone_1999, 263]. Technology does not determine silence.
 Rather, the grounds for all reflective textual activity slowly erode,
-returning to their natural and meaningless state of entropy. To prevent the
-slide into illiteracy outright, instruments of literary analysis must evolve
-to elicit meaning under new technological contingencies. Where texts are
-encrypted, we decrypt. If as Kittler writes, automated discourse analysis
-threatens to take command, we will engineer automatons that command on our
-behalf [@kittler_gramophone_1999, 263]. Such acts of resistance, small and
-large, can recover a measure of agency from the ruling determinism of---take
-your pick: markets, complex systems, unconscious drives, monistic universes,
-*gaia* science, social networks, technology, the singularity, bureaucracy, and
-war.  Indeed, the possibility of human erasure---nonsense---never strays far
-from reach, "like the face drawn in the sand at the edge of the sea"
-[@foucault_order_1994, 387]. The fragility of life compels not the Foucauldian
-wager on anti-humanism, but the need to mobilize whatever modest means
-available to humans to persevere against great odds.
+returning to their natural and meaningless state of entropy.
+
+To prevent the slide into illiteracy outright, instruments of literary
+analysis must evolve to elicit meaning under new technological contingencies.
+Where texts are encrypted, we decrypt. If as Kittler writes, automated
+discourse analysis threatens to take command, we will engineer automatons that
+command on our behalf [@kittler_gramophone_1999, 263]. Such acts of
+resistance, small and large, can recover a measure of agency from the ruling
+determinism of---take your pick: markets, complex systems, unconscious drives,
+monistic universes, *gaia* science, social networks, technology, the
+singularity, bureaucracy, and war.  Indeed, the possibility of human
+erasure---nonsense---never strays far from reach, "like the face drawn in the
+sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility of
+life compels not the Foucauldian wager on anti-humanism, but the need to
+mobilize whatever modest means available to humans to persevere against great
+odds.
 
 By mistaking things for animate actors, we ourselves have become enmeshed in a
 system of digital production that commodifies human experience. Objects that
@@ -176,35 +178,34 @@ dissent and disobedience---to write using free software, to build open
 archives, to share memories in private---cannot be said to exist apart from
 the complex systems that perpetuate inequity and violence globally. The
 emotional affirmation that accompanies exuberant social networking brings with
-it the governing structures invoked widely in the name of law enforcement and
+it governing structures invoked widely in the name of law enforcement and
 national security. Comfort and security constitute part and parcel of the same
 ill-conceived bargain that leads to critical disempowerment. But where it is
 difficult to imagine or to enact strategies of digital disobedience on a
-universal scale, we can begin to address them through the numerous everyday
-transactions, which in aggregate embody the material foundations of local
-intellectual life. A new humanism affirms small differences in search for
-agency that can lead to action.
+universal scale, we can begin to address them through numerous minute
+transactions that in aggregate stage everyday literary exchange.
 
 To pick up an electronic book and to take it apart may be against the law in
-some jurisdictions [@fry_circumventing_2009]. However, given the extent to
-which emergent thought-things like electronic books and personal communication
+some jurisdictions [@fry_circumventing_2009]. Given the extent to which
+emergent thought-things like electronic books and personal communication
 devices participate actively in the production of meaning, we can no longer
 employ strategies of interpretation at the level of ideology alone. Close
 reading, critical theory, and literary analysis must reach down to the silicon
 bedrock that stages the very act of interpretation. Literary theory, a
 discipline fundamentally engaged in the exegesis of all figurative tropes, is
 crucial to the understanding new computational environments, which envelop
-intellectual life through metaphoric substitution. I begin where Bernard
-Harcourt's recent book on digital disobedience ends: with the possibility of
-localized dissent, limited for now to the immediate physical contexts of
-reading, writing, and finding knowledge. Following itinerant theorists of the
-metaphor like Vilém Flusser, Viktor Shklovsky, and Hannah Arendt I propose to
-proceed through systematic estrangement of computational metaphors, metaphors
-that fade into transparency as to escape the critical gaze. To come to terms
-with the book as a device; to begin to understand the nature of the text
-simulation; to perceive the particularity of the computed sign: these are the
-aims of *Plain Text*. A strategy of deliberate defamiliarization reclaims the
-metaphor-device for analysis.
+intellectual life through metaphoric substitution.
+
+I begin where Bernard Harcourt's recent book on digital disobedience ends:
+with the possibility of localized dissent, limited for now to the immediate
+physical contexts of reading, writing, and finding knowledge. Following
+itinerant theorists of the metaphor like Vilém Flusser, Viktor Shklovsky, and
+Hannah Arendt I propose to proceed through systematic estrangement of
+computational metaphors, metaphors that fade into transparency as to escape
+the critical gaze. A strategy of deliberate defamiliarization reclaims the
+metaphor-device for analysis. To come to terms with the book as a device; to begin to
+understand the nature of the text simulation; to perceive the particularity of
+the computed sign: these are the aims of *Plain Text*.
 
 ## 0.2 Metaphor machines
 
