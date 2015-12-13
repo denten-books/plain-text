@@ -1358,9 +1358,6 @@ dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
 before, and placed on its feet again" (44).  p5
 
-[^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
-5; @nuttall_new_2007, 6-25.
-
 
 Return to metaphor. Not against metaphor. The paradox. Two sides. Not knowing
 the one side. Actualizing the metaphor.
