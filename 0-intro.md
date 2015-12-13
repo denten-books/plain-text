@@ -315,40 +315,43 @@ narratives [@brik_poetika_1919, 151-67]. What readers lost in having the joke
 explained to them, they gained in understanding of the genre.
 
 I take a similar approach in *Plain Text* by extending formal concerns with
-the mechanics of the literary "device" and "technique" to literary devices and
+the mechanics of literary "device" and "technique" to literary devices and
 technics proper. I too am interested in how the literary thing is made.
-Because computers, as I will argue throughout, operate through symbolic and
-metaphorical substitution, we can use the methodology of formal symbolic
-analysis to our advantage. The overarching aim of the book is therefore to
-expose the illusion of verisimilitude between text on paper and the simulated
-text on a screen.  The words may look the same, but the underlying affordances
-of the medium differ in significant detail. As an example, consider a news
-report that alters its content based on the reader's location. Imagine an
-e-book reader that highlights popular passages of a novel in real time,
-shortening the less popular passages down to their algorithmically distilled
-summaries.  For a literary analyst, the instability of the digital medium
-means analysis cannot be confined to reading for surface meaning alone. How
-can close reading persist when reading devices reconfigure the text to fit
-individual tastes, mood, or politics? How would we even agree on the fact that
-we are reading the same text? The very possibility of interpretation comes
-into question.
+Computers, as I will argue throughout, are essentially machines for universal
+symbolic manipulation. This property makes them particularly suitable as
+objects for figurative analysis, which aims to explicate concepts involved in
+the making of the metaphor.[^ln-egturner] Influenced by the tradition of
+literary exegesis in the work of scholars like Boris Eikhenbaum and Mark
+Turner, my overarching aim in *Plain Text* is therefore to expose the illusion
+of verisimilitude between text on paper and the simulated text on a screen.
+The words may look the same, but the underlying affordances of the medium
+differ in significant detail. As an example, consider a news report that
+alters its content based on the reader's location. Imagine also an e-book
+reader that highlights popular passages of a novel in real time, shortening
+the less popular passages down to their algorithmically distilled summaries.
+For a literary analyst, the instability of the digital medium means analysis
+cannot be confined to reading for surface meaning alone. How can close reading
+persist when reading devices reconfigure the text to fit individual tastes,
+mood, or politics? How would we even agree on the fact that we are reading the
+same text? The very possibility of interpretation comes into question.
 
-Yet despite its power to recall the world anew, estrangement cannot be
-practiced effectively in the mode of a monologue. To produce meaning, Flusser
-reminds us, it must become dialogical practice. Perpetual exile is otherwise
+Despite its power to recall the world anew, estrangement cannot be practiced
+effectively in the mode of a monologue. To produce meaning, Flusser reminds
+us, it must become dialogical practice. Perpetual exile is otherwise
 uninhabitable [@flusser_freedom_2003, 81]. Estrangement thrusts the displaced
 into the chaos of unsettled existence. With time, the displaced make a new
-home, from which they can once again "receive noise as information" to produce
-meaning. "I am embedded in the familiar," Flusser wrote, "so that I can reach
-out toward the unfamiliar and create things yet unknown"
+home, from which they can once again "receive noise as information" and
+produce meaning. "I am embedded in the familiar," Flusser wrote, "so that I
+can reach out toward the unfamiliar and create things yet unknown"
 [@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
-other. Through what Flusser calls "creative dialogue," the dialectics of exile
-can lead to "informed renewal" of shared space [@flusser_freedom_2003, 84].
-Without the protection of one's home, everything turns to noise. There can no
-information without a dwelling, Flusser wrote, "and without information, in a
-chaotic world, one can neither feel nor think nor act" [@flusser_does_2011,
-12]. By this dynamic displacement and habituation enter into a continual
-dialog.
+other. The dialectics of exile can lead to "informed renewal" of shared space
+only through what Flusser called a "creative dialogue" between the settled and
+the unsettled [@flusser_freedom_2003, 84]. Without the protection of one's
+home, everything turns to noise. There can no information without a dwelling,
+Flusser wrote, "and without information, in a chaotic world, one can neither
+feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic displacement
+and habituation enter into a continuing conversation. But what is the "other"
+to estrangement?
 
 ## 0.3 Computational hermeneutics
 
@@ -1147,4 +1150,8 @@ of technological structure endow the creation with an anticipated *telos*"
 40%-80% of the total email volume @cournane_analysis_2004.
 
 [^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
+
+[^ln-egturner]: Mark Turner, whose work builds on Lakoff and Johnson is a
+strong proponent of such an approach. See @turner_death_1987 or
+@turner_language_1992.
 
