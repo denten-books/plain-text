@@ -2,10 +2,11 @@
 title: "Plain Text"
 subtitle: "The Poetics of Human-Computer Interaction (Sample Chapters)"
 author: "Dennis Tenen"
-style: /home/denten/bin/write-support/csl/mla-note.csl
-bibliography: /home/denten/gDrive/papers/projects/workbench/plain-text/plain-text.bib
+style: csl/mlaxx.csl
+bibliography: plain-text.bib
 toc: true
 mainfont: "fbb"
+fontsize: 12pt
 cover-image: images/steno.png
 documentclass: article
 classoption: none
@@ -18,4 +19,3 @@ header-includes:
 - \rhead{draft copy | do not circulate}
 - \lhead{}
 ---
-
