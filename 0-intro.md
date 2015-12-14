@@ -605,9 +605,6 @@ the very subjects whose loss the Foucault and Kittler lament.[^ln-lament] Only
 in such encrypted tunnels and secure shells can anything like the digital
 humanities take root.
 
-[^ln-lament]: Or perhaps celebrate, depending on your understanding of their
-post-humanism.
-
 Computational hermeneutics encourages "users" to become active thinkers,
 tinkerers, and makers of technology. It treats "binary" and "digital"
 environments as fluid literary systems, amenable to the construction and the
@@ -1178,4 +1175,9 @@ strong proponent of such an approach. See @turner_death_1987 or
 
 [^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
 @negroponte_being_1995; @davidson_now_2011.
+
+[^ln-lament]: Or perhaps celebrate, depending on your understanding of their
+post-humanism. For more a more extended discussion on Kittler, Foucault, and
+post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
+104-128; @siegert_cultural_2013.
 
