@@ -252,8 +252,8 @@ conversations.[^ln-exposed] But the actual living agents that benefit from the
 trade in personal information are neither cyborgs nor post-human assemblages.
 The bargain that trades critical understanding for comfort benefits specific
 interests, like multinational corporations and government intelligence
-agencies. The rhetoric around smart objects shifts our attention from the
-seats of power to things dumb, powerless, and indifferent to our
+agencies. The mythology surrounding smart objects shifts our attention from
+the seats of power to things dumb, powerless, and indifferent to our
 protestations.
 
 The internal exile that we must undergo for the smart book and the smart desk
@@ -280,8 +280,8 @@ employ strategies of interpretation at the level of ideology alone. Close
 reading, critical theory, and literary analysis must reach down to the silicon
 bedrock that stages the very act of interpretation. Literary theory, a
 discipline fundamentally engaged in the exegesis of all figurative tropes, is
-crucial to the understanding new computational environments, which envelop
-intellectual life through metaphoric substitution.
+therefore crucial to the understanding new computational environments, which
+envelop intellectual life through metaphoric substitution.
 
 I begin where Bernard Harcourt's recent book on digital disobedience ends:
 with the possibility of localized dissent, limited for now to the immediate
