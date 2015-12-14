@@ -619,7 +619,6 @@ the very subjects whose loss the Foucault and Kittler lament.[^ln-lament] Only
 in such encrypted tunnels and secure shells can anything like the digital
 humanities take root.
 
-
 ## 0.4 Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
@@ -629,10 +628,9 @@ romantic nor a Luddite. I read the concluding chapters of *Gramophone, Film,
 Typewriter* as a call to action. When Kittler writes that "media determine our
 situation," he challenges his reader to choose between complicity and defiance
 [@kittler_gramophone_1999, xxxix]. What can we do to counteract technological
-determinism that Kittler warns about? In what follows, I outline several
-intellectual lineages that frame my approach to the problem. A hermeneutics
-capable of addressing Kittler's challenge must be grounded in materialism that
-is both pragmatic and experimental.
+determinism highlighted by Kittler? In what follows, I outline several
+intellectual lineages that frame my approach to the problem, leading a kind of
+a materialist critique that is both pragmatic and experimental.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
@@ -649,14 +647,14 @@ ethical debt.
 
 For example, it is one thing to theorize about the free movement of literary
 tropes across cultures and continents, and quite another to have that theory
-appear in print behind paywalls inaccessible to most global reading publics.
-Similarly, a theoretical distinction between form and content, when
-instantiated in specific file formats like Microsoft Word (`.docx`) or Adobe
-Reader (`.pdf`), establishes divisions of labor between editors, proofreaders,
-book sellers, and offshore typesetting firms.[^ln-sweatshop] One group trades
-"content" in the economy of prestige, another "formatting" in the economy of
-survival, and yet another controls distribution in the market economy, for
-profit.
+appear in print behind paywalls inaccessible to most global reading
+publics.[^ln-sarab] Similarly, a theoretical distinction between form and
+content, when instantiated in specific file formats like Microsoft Word
+(`.docx`) or Adobe Reader (`.pdf`), establishes divisions of labor between
+editors, proofreaders, book sellers, and offshore typesetting
+firms.[^ln-sweatshop] One group trades content in the economy of prestige,
+another formatting in the economy of survival, and yet another controls
+distribution in the market economy, for profit.
 
 Distinctions of labor will remain in place as long as the conversation about
 ideas like "form" and "content" persists in the abstract. Materialist critique
@@ -667,11 +665,11 @@ the life of the mind today seem to lie beyond understanding or agency. In
 almost a decade of teaching critical computing in the humanities, I routinely
 encountered otherwise informed people who nevertheless felt hopelessly
 estranged from the tools of their everyday intellectual activity. I suspect
-that much of the metaphysical angst directed against computation in general is
-really a symptom of that basic alienation. Contemporary knowledge workers
-stare into rectangular black boxes for a considerable part of their days,
-suspecting, in the absence of other feedback, that their gaze is met in bad
-faith.
+that much of the metaphysical angst directed against digital culture in
+general is really a symptom of that basic alienation. Contemporary knowledge
+workers stare into rectangular black boxes for a considerable part of their
+days, suspecting, in the absence of other feedback, that their gaze is met in
+bad faith.
 
 Connecting theories of meaning--making to the practices of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
@@ -694,13 +692,13 @@ For the pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
 "When?," "For whom?," and "What's at stake in maintaining that?" Following the
 pragmatic insight of James and Ramsey, I will proceed with the conviction that
 abstract categories like "literature," "computation," and "text" cannot
-possibly be (although they often are) reduced to a number of essential,
-structural features. Rather, to borrow from Wittgenstein's *Philosophic
-Investigations*, categories denote a set of "family" practices that may or may
-not share in any given familial characteristic
-[@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To visualize the familial
-model, imagine a tree diagram, where the tangled branches of computation and
-textuality intersect and diverge in beautiful and yet arbitrary ways.
+possibly be reduced to a number of essential, structural features. Rather, to
+borrow from Wittgenstein's *Philosophic Investigations*, categories denote a
+set of related practices that may or may not share in any given familial
+characteristic [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] To
+visualize the familial model, imagine a tree diagram, where the tangled
+branches of computation and textuality intersect and diverge in beautiful and
+yet arbitrary ways.
 
 As a consequence of my commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
@@ -750,13 +748,13 @@ should not be taken as value-neutral conduits of information. I follow Lewis
 Mumford and Langdon Winner to argue that technology affects the exercise of
 textual politics in subtle and profound ways. Artifacts cannot hold beliefs
 about politics. Political power is rather exercised through them. Stairs do
-not discriminate against the mobility impaired. The failure to enforce
-accessibility through specific legal and architectural choices does.
+not discriminate against the mobility impaired, for example. The failure to
+enforce accessibility through specific legal and architectural choices does.
 Typesetting software, e-book readers, and word processors similarly incarnate
 implicit communication models: ideas about deliberation, ethics of labor,
 discursive values, and views about "natural" human aptitude for
-interpretation. In this way, contemporary documents are capable of enforcing
-limits to access by license, geography, or physical ability, for example.
+interpretation. In this way, contemporary documents structure the literary
+encounter according to license, location, or physical ability.
 
 To what extent does the book in front of you permit or enable access?
 Whatever the answer, a function of understanding the text must include the
@@ -774,18 +772,19 @@ attain its full expressive potential without a thick description of its base
 particulates.
 
 Luckily for us, reading and writing are not esoteric activities. They are
-readily available to phenomenological introspection. I will therefore
-occasionally encourage readers to encounter the immediate contexts of their
-reading anew: to put down the book or to lean away from the screen and to look
-at these textual artifacts with strange eyes. In this movement of the body, I
-want to disrupt the mind's habituated intuitions, pitting them against
-knowledge "at hand" and fingertip knowledge: as when ruffling through the
-pages or typing at a keyboard. To what extent is electronic textually
-ephemeral, for example? (I discuss the question in full in chapter two.) The
-idea of "ephemerality" can be made more palpable by asking: What can a reader
-do with this text, here and now? Are readers able to copy and paste? Do they
-have legal permissions to quote at length, to perform publicly, or to
-otherwise trans-mediate?
+readily available to phenomenological and physical introspection. I will
+therefore occasionally encourage readers to encounter the immediate contexts
+of their reading anew: to put down the book or to lean away from the screen
+and to look at these textual artifacts with strange eyes. In this movement of
+the body, I want to disrupt the mind's habituated intuitions, pitting them
+against knowledge "at hand" and fingertip knowledge: as when ruffling through
+the pages or typing at a keyboard. To what extent is electronic textually
+ephemeral, for example? The pragmatic answer lies not in universal
+propositions, but in technological affordances attached to specific reading
+devices. What can a reader do with this text, here and now? Where is it
+stored? Are readers able to copy and paste? Do they have legal permissions to
+quote at length, to perform publicly, or to otherwise trans-mediate? Will the
+text disappear when the reader closes the book's cover?
 
 ## 0.5 Plan of the Present Work
 
@@ -1090,7 +1089,6 @@ exiled within and without, to those who understand the need for
 self-displacement, to those who transgress purposefully, and to those willing
 to trespass.
 
-
 <!--- NOTES  --->
 <!--- NOTES  --->
 <!--- NOTES  --->
@@ -1189,4 +1187,7 @@ post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 104-128; @siegert_cultural_2013.
 
 [^ln-dead]: See @wimsatt_intentional_1946; @barthes_death_1977.
+
+[^ln-sarab]: See also @english_economy_2008; @brouillette_wither_2015 and
+@brouillette_unesco_????.
 
