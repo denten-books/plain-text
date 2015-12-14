@@ -808,11 +808,11 @@ reflects a waypoint along the journey.
 The passage from keystroke to pixel runs a thread through the book. In the
 chapters to follow, the electronic literary artifact---the thing next to my
 laptop on my desk---will come fully into view as a computational device, a
-kind of a universal metaphor invented to engender ubiquitous simulation. At
-the core of the book's first chapter lies a single thought experiment about
-reading and writing machines, which, in its many variations in the works of
-Ludwig Wittgenstein, ultimately leads to the articulation of the universal
-Turing machine. Located at the origins of modern computing, the Turing machine
+kind of a universal metaphor engendering ubiquitous simulation. At the core of
+the book's first chapter lies a single thought experiment about reading and
+writing machines, which, in its many variations in the works of Ludwig
+Wittgenstein, ultimately leads to the articulation of the universal Turing
+machine. Located at the origins of modern computing, the Turing machine
 embodies many of the paradoxes that continue to shape our encounter digital
 text. At once a machine and an algorithm, the Turing machine blurs the
 boundaries between software and hardware, code and content.
@@ -828,50 +828,38 @@ Using archival materials from the history of telegraphy in the late nineteenth
 and early twentieth centuries, I chart the gradual fracture and the ultimate
 disappearance of the inscription. Early computers assembled human-readable
 text and machine instruction along the same storage media like punch cards and
-ticker tape. Although difficult to read, these forms of inscription were
-available for inspection. The advent of magnetic storage forced the
-inscription into an inscrutable medium. Unable to perceive magnetic polarities
+ticker tape. Although difficult to read, these forms of inscription could be
+be scrutinized with the naked eye. The advent of magnetic storage forced the
+inscription into an opaque medium. Unable to perceive magnetic polarities
 without the aid of a machine, readers often manipulated text blindly. In this
 way a typist would type several sentences without seeing the printed output.
-Finally, the second chapter charts the emergence of the screen which restores
-a measure of visibility to the magnetic inscription, with one major
-side-effect. The fidelity of the visible word could no longer be guaranteed.
-What the screen showed and what was stored on the tape carried only a
-contingent correlation. Even today, many readers would have difficulty
-answering a simple question: Where does the text physically reside?
 
-Our inability to precisely locate the
-ins
-The screen gives rise to the ephemeral quality of the inscription. Words on
-the screen appear conspicuous, but do not last once the device is powered off.
-Device reading happens on screens that refresh themselves at a rate of around
-60 cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. It is technically an animation. It moves even as it appears to
-stand still. Yet paradoxically, simulated text is also pervasive. Embedded
-into "solid state" drives and magnetic "hard disks," inscription attains the
-quality of what Wendy Hui Kyong Chun calls the "enduring ephemeral"
-[@chun_enduring_2008, 148]. Precisely because simulated text adheres lightly
-to its medium, it has a tendency to multiply and to spread widely. Like the
-fine particles of glitter, it is difficult to contain. The simulated text
-falls apart into bits and pixels that replicate and tumble about the system.
-In this way a deleted email may still persist on the drive, be replicated to
-remote servers, and proliferate across datasets used for machine learning,
-advertising, and national intelligence.
-
-In the second chapter, I challenge conventional notions of digital media,
-discovering properties at once "discrete" and "continuous." Both are
-conventionally used to to imply a diminishment of the human capacity for
-comprehension.  Which one is it, before or beyond the human?  A treatment of
-Liquid Crystal Displays (LCDs) illustrates that all text is already in some
-sense "born digital," that is, by formal definitions, "reproducible" and
-"differentiated" throughout. Furthermore, digitality depends on "reliable
-processes of copying and preservation"---attributes that can mean something
-different to a philosopher than to a librarian. From these insights I take it
-that "being digital" is not an intrinsic ontological property, but rather
-structure imposed from without. A thing is not digital in itself---one makes
-use of something in a digital way. Materials from the history of telegraphy in
-the late ninetieth and early twentieth centuries help narrate the story of
-character encoding---a key hidden component of digital textuality.
+The third chapter charts the emergence of the screen which restores a measure
+of visibility lost to magnetic inscription, with one major side-effect. The
+fidelity of the visible word could no longer be guaranteed. What the screen
+showed and what was stored on tape carried only a contingent correlation.
+Even today, many readers struggle to answer a simple question: Where does the
+text physically reside? Our inability to precisely locate the site of the
+inscription belies its seemingly ephemeral quality. Words on the screen appear
+conspicuous, but do not last once the device is powered off. Device reading
+happens on screens that refresh themselves at a rate of around 60 cycles per
+second (Hertz). Screen textuality is therefore by definition ephemeral. It is
+technically an animation. It moves even as it appears to stand still. The
+third chapter unfolds at the site of the projection. The mechanics of modern
+screens modulate the electrical signal to push light through a liquid crystal
+medium. Here, I bring the mechanics of the medium to bear on a theoretical
+conversation about digital aesthetics. Works by the philosophers Henri
+Bergson, Jakob von Uexküll, and John Goodman help construct a phenomenology of
+screen-based digital perception. The digital emerges ultimately not as
+property of the medium, but as structure imposed onto matter from without. In
+the extreme, that means that a censored electronic text is a perfectly analog
+artifact. Conversely, texts in print are already "born digital," in the sense
+that literary works like Shakespeare's *Hamlet* are amenable to "reliable
+processes of copying and preservation" [@haugeland_analog_1981, 213-225]. But
+such attributes are again neither universal nor essential to the medium. "The
+reliability and preservation of textual copies" may mean one thing to a
+literary scholar, another to a software engineer or a legal professional, and
+yet something entirely different to a librarian.
 
 I begin the book's third chapter by outlining a recent discussion on surface
 reading. I ask: What lies beneath the text, literally? Case studies from the
@@ -886,6 +874,17 @@ illusion of flattened textuality. The control layer dynamically changes the
 mechanics of the literary encounter. Texts now carry both a message and a set
 instructions that alter the textual device. Consequently, I argue that literary
 interpretation must include the exposition of the control layer.
+
+paradoxically, despite its ephemeral qualities, simulated text is also
+pervasive. Embedded into "solid state" drives and magnetic "hard disks,"
+inscription attains the quality of what Wendy Hui Kyong Chun calls the
+"enduring ephemeral" [@chun_enduring_2008, 148]. Precisely because simulated
+text adheres lightly to its medium, it has a tendency to multiply and to
+spread widely. Like the fine particles of glitter, it is difficult to contain.
+The simulated text falls apart into bits and pixels that replicate and tumble
+about the system.  In this way a deleted email may still persist on the drive,
+be replicated to remote servers, and proliferate across datasets used for
+machine learning, advertising, and national intelligence.
 
 The fourth chapter reaches beyond the device to the human. I begin with a close
 reading of Beckett's *Krapp's Last Tape*. The title character makes yearly
