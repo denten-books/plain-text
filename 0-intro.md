@@ -788,32 +788,6 @@ text disappear when the reader closes the book's cover?
 
 ## 0.5 Plan of the Present Work
 
-In the chapters to follow, the electronic literary artifact---the thing next
-to my laptop on my desk---will come fully into view as a computational device,
-a kind of a universal metaphor invented to engender ubiquitous simulation. A
-number of significant consequences follow. I will begin by describing the
-condition by which the simulated sign splits to reside in at least two
-distinct locations, screen and storage medium. The "illusion of the simulated
-text" will thereafter identify an incongruity between the two sites of
-reading. Erasing the inscription on the screen, for example, may not elicit
-the corresponding action on the disk.
-
-The screen gives rise to the ephemeral quality of the inscription. Words on
-the screen appear conspicuous, but do not last once the device is powered off.
-Device reading happens on screens that refresh themselves at a rate of around
-60 cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. It is technically an animation. It moves even as it appears to
-stand still. Yet paradoxically, simulated text is also pervasive. Embedded
-into "solid state" drives and magnetic "hard disks," inscription attains the
-quality of what Wendy Hui Kyong Chun calls the "enduring ephemeral"
-[@chun_enduring_2008, 148]. Precisely because simulated text adheres lightly
-to its medium, it has a tendency to multiply and to spread widely. Like the
-fine particles of glitter, it is difficult to contain. The simulated text
-falls apart into bits and pixels that replicate and tumble about the system.
-In this way a deleted email may still persist on the drive, be replicated to
-remote servers, and proliferate across datasets used for machine learning,
-advertising, and national intelligence.
-
 The tangled pathways of inscription through the device exist in relation to
 specific communities of computational practice. A researcher cannot therefore
 expect to discover a single theoretical framework that can capture the
@@ -831,28 +805,58 @@ crystal and the floating gate, and on towards the human and the community. It
 is but a single possible pass through a cavernous black box. Each chapter
 reflects a waypoint along the journey.
 
-The passage from keystroke to pixel runs a thread through the book. At the
-core of the book's first chapter lies a single thought experiment about
+The passage from keystroke to pixel runs a thread through the book. In the
+chapters to follow, the electronic literary artifact---the thing next to my
+laptop on my desk---will come fully into view as a computational device, a
+kind of a universal metaphor invented to engender ubiquitous simulation. At
+the core of the book's first chapter lies a single thought experiment about
 reading and writing machines, which, in its many variations in the works of
 Ludwig Wittgenstein, ultimately leads to the articulation of the universal
 Turing machine. Located at the origins of modern computing, the Turing machine
-embodies many of the paradoxes that continue to shape our encounter
+embodies many of the paradoxes that continue to shape our encounter digital
+text. At once a machine and an algorithm, the Turing machine blurs the
+boundaries between software and hardware, code and content.
 
-device we now know simply as a
-computer. A historical reconstruction of the Turing machine will point the way
-to a dynamic at the heart of all computation.
+Once we see the book as a kind of a Turing machine, we are able to confront
+the particularity of the simulated sign. A number of significant consequences
+follow. The second chapter describes the condition by which the simulated sign
+splits to reside in at least two distinct locations, screen and storage
+medium. The "illusion of the simulated text" will thereafter identify an
+incongruity between the two sites of reading. Erasing the inscription on the
+screen, for example, may not elicit the corresponding action on the disk.
+Using archival materials from the history of telegraphy in the late nineteenth
+and early twentieth centuries, I chart the gradual fracture and the ultimate
+disappearance of the inscription. Early computers assembled human-readable
+text and machine instruction along the same storage media like punch cards and
+ticker tape. Although difficult to read, these forms of inscription were
+available for inspection. The advent of magnetic storage forced the
+inscription into an inscrutable medium. Unable to perceive magnetic polarities
+without the aid of a machine, readers often manipulated text blindly. In this
+way a typist would type several sentences without seeing the printed output.
+Finally, the second chapter charts the emergence of the screen which restores
+a measure of visibility to the magnetic inscription, with one major
+side-effect. The fidelity of the visible word could no longer be guaranteed.
+What the screen showed and what was stored on the tape carried only a
+contingent correlation. Even today, many readers would have difficulty
+answering a simple question: Where does the text physically reside?
 
-A reconstruction of a
-single t
-
-first as a formal technique, then as an
-thought experiment, and finally as a control mechanism. To preserve a sense of
-human agency and to break the inertia of
-
-Microanalysis opens the gap between text as it is embedded into storage media
-and text as it is seen on the screen. I begin by laying out the case for
-treating the contemporary "digital" book as a computational device. The nature
-of computation
+Our inability to precisely locate the
+ins
+The screen gives rise to the ephemeral quality of the inscription. Words on
+the screen appear conspicuous, but do not last once the device is powered off.
+Device reading happens on screens that refresh themselves at a rate of around
+60 cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. It is technically an animation. It moves even as it appears to
+stand still. Yet paradoxically, simulated text is also pervasive. Embedded
+into "solid state" drives and magnetic "hard disks," inscription attains the
+quality of what Wendy Hui Kyong Chun calls the "enduring ephemeral"
+[@chun_enduring_2008, 148]. Precisely because simulated text adheres lightly
+to its medium, it has a tendency to multiply and to spread widely. Like the
+fine particles of glitter, it is difficult to contain. The simulated text
+falls apart into bits and pixels that replicate and tumble about the system.
+In this way a deleted email may still persist on the drive, be replicated to
+remote servers, and proliferate across datasets used for machine learning,
+advertising, and national intelligence.
 
 In the second chapter, I challenge conventional notions of digital media,
 discovering properties at once "discrete" and "continuous." Both are

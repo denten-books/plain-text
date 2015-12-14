@@ -573,21 +573,6 @@ humans coincided on one and the same plane, but only for a time. Magnetic
 tape, mute and inscrutable, soon replaced punch card and ticker tape as the
 preferred medium for data storage.
 
-[^ln2-printermen]: According to the U.S. Department of Labor statistics, women
-comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
-of automated telegraphy). By 1931 women comprised 64 percent of printer and
-Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
-514].
-
-[^ln2-bacon]: This volume is also commonly translated as "Of the Dignity and
-Advancement of Learning," following the Spedding edition. The first two books
-of *The Advancement* appeared first in 1605. Together with books 6-9 published
-in Latin in 1623 they are sometimes referred to as "Of the Advancement and
-Proficience of Learning or the Partitions of Sciences," following the Oxford
-1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
-Oxford Collected Works, containing *The Advancement*, is not out at the time of
-my writing this chapter (2015).
-
 ## B. Magnetic Tape (Storage)
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
@@ -967,44 +952,6 @@ separated readers into those able to effect the mixture of content and control
 that shapes the literary encounter and those who observed passively, at the
 shimmering surface of archival projection.
 
-[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
-truckloads of punched cards being transported from one center to another in
-Italy."
-
-[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
-@ohmori_memory_2015.
-
-[^ln2-loom]: These dates, as is usually the case with periodization, are
-somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
-worker Basile Bouchon used "drill paper" to automate industrial drawlooms
-[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
-honors could also go to the brothers Banū Mūsā, ninth-century automata
-inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
-his lifelike mechanisms in the mid eighteenth century
-[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
-upon and popularized Bouchon's looms on an industrial scale around the same
-time.
-
-[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
-since formatting is an important part of the reported experience.
-
-[^ln1-timefob]: The source for the cryptic phrase is likely
-@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
-political campaign, and it was then for the first time that the well known
-sentence was inaugurated,---'Now is the time for all good men to come to the
-aid of the party;' also the opening sentence of the Declaration of
-Independence [...] were repeated many times in order to test the speed of the
-machine."
-
-[^ln2-punch]: "Two means are available for preparing the functional tapes
-required for the operation of the interpolators. First, when the tabular
-values of *f(x)* have been previously published, they may be copied on the
-keys of the functional tape preparation unit [...] and the tape produced by
-the punches associated with this unit, under manual control. Second, as
-suitable control tape may be coded directing the calculator to compute the
-values of *f(x)* and record them by means of one of the four output punches,
-mounted on the right wing of the machine" [@staff_description_1949, 34].
-
 ## C. Screen (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
@@ -1336,14 +1283,6 @@ material lightness of textual being came at the price of legibility. Would new
 authors find the same ease in the complication of the mechanism? I suspect not
 unless they become an active part of a "bootstrapping community" of their own.
 
-[^ln2-brain]: We will later entertain the (real) possibility of
-non-representational communication, suggested by early experiments in direct
-brain-to-brain or brain-to-machine interfaces.
-
-[^ln2-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
-
 ## Towards the Practice of Computational Hermeneutics
 
 In drawing on the history of the contemporary literary condition, it is my
@@ -1445,4 +1384,65 @@ probability [...] Such a device functions as a bistable memory with
 nondestructive read-out features. The memory holding time observed was longer
 than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
 and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
+[^ln2-printermen]: According to the U.S. Department of Labor statistics, women
+comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
+of automated telegraphy). By 1931 women comprised 64 percent of printer and
+Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
+514].
+
+[^ln2-bacon]: This volume is also commonly translated as "Of the Dignity and
+Advancement of Learning," following the Spedding edition. The first two books
+of *The Advancement* appeared first in 1605. Together with books 6-9 published
+in Latin in 1623 they are sometimes referred to as "Of the Advancement and
+Proficience of Learning or the Partitions of Sciences," following the Oxford
+1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
+Oxford Collected Works, containing *The Advancement*, is not out at the time of
+my writing this chapter (2015).
+
+[^ln2-brain]: We will later entertain the (real) possibility of
+non-representational communication, suggested by early experiments in direct
+brain-to-brain or brain-to-machine interfaces.
+
+[^ln2-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].
+
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy."
+
+[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+@ohmori_memory_2015.
+
+[^ln2-loom]: These dates, as is usually the case with periodization, are
+somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
+worker Basile Bouchon used "drill paper" to automate industrial drawlooms
+[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
+honors could also go to the brothers Banū Mūsā, ninth-century automata
+inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
+his lifelike mechanisms in the mid eighteenth century
+[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
+upon and popularized Bouchon's looms on an industrial scale around the same
+time.
+
+[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
+since formatting is an important part of the reported experience.
+
+[^ln1-timefob]: The source for the cryptic phrase is likely
+@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
+political campaign, and it was then for the first time that the well known
+sentence was inaugurated,---'Now is the time for all good men to come to the
+aid of the party;' also the opening sentence of the Declaration of
+Independence [...] were repeated many times in order to test the speed of the
+machine."
+
+[^ln2-punch]: "Two means are available for preparing the functional tapes
+required for the operation of the interpolators. First, when the tabular
+values of *f(x)* have been previously published, they may be copied on the
+keys of the functional tape preparation unit [...] and the tape produced by
+the punches associated with this unit, under manual control. Second, as
+suitable control tape may be coded directing the calculator to compute the
+values of *f(x)* and record them by means of one of the four output punches,
+mounted on the right wing of the machine" [@staff_description_1949, 34].
 
