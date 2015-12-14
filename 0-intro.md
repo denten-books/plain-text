@@ -127,7 +127,7 @@ available modes of human--computer interaction, which by contrast with minimal
 computing privilege maximizing system--centric ideals like efficiency, speed,
 performance, or security.
 
-The use of plain text implies also an ethics of reading and writing. It
+The use of plain text implies also an ethics of reading and writing. The title
 therefore further identifies an interpretive stance one can assume in relation
 to the making and the unmaking of literary artifacts. Besides visible content,
 all contemporary documents carry with them a layer of hidden information.
@@ -149,23 +149,24 @@ contexts of our knowledge production [@chun_enduring_2008;
 
 ## 0.2 Displacement
 
-To "come to terms" *Plain Text* enacts a reconciliation of vocabularies. It is
-a response to a particular situation of a literary scholar encountering the
-field of software engineering. For a long stretch of my professional life,
-these two areas of activity remained separate. I worked at one and I studied
-the other. At the time, I simply did not think that code had anything to do
-with poetry. The idea for the book came to me in a moment of realization after
-I was asked one of those naive but fundamental questions of the kind that can
-set research in motion down a long and winding path. A childhood friend who
-loves books asked about the difference between text in print and text on the
-screen. It was in that struggle to articulate difference that I realized that
-some of my deepest assumptions about literature relied on the centuries-long
-stability of print media. Despite my professional experience as a programmer,
-I could not readily explain the mechanisms by which keystrokes turned into
-pixels, pixels into letters, and letters into words. I could recount technical
-detail on some level, but my knowledge was also riddled with unexamined gaps.
-It did not amount to a coherent story. I was, despite my best efforts,
-surrounded by magical lanterns that cast shadows of code and poetry.
+To come to terms with the conditions of simulated textuality *Plain Text*
+embodies a reconciliation of vocabularies. It is a response to a particular
+situation of a literary scholar encountering the field of software
+engineering. For a long stretch of my professional life, these two areas of
+activity remained separate. I worked at one and I studied the other. At the
+time, I simply did not think that code had anything to do with poetry. The
+idea for the book came to me in a moment of realization after I was asked one
+of those naive but fundamental questions of the kind that can set research in
+motion down a long and winding path. A childhood friend who loves books asked
+about the difference between text in print and text on the screen. It was in
+that struggle to articulate difference that I realized that some of my deepest
+assumptions about literature relied on the centuries-long stability of print
+media. Despite my professional experience as a programmer, I could not readily
+explain the mechanisms by which keystrokes turned into pixels, pixels into
+letters, and letters into words. I could recount technical detail on some
+level, but my knowledge was also riddled with unexamined gaps.  It did not
+amount to a coherent story. I was, despite my best efforts, surrounded by
+magical lanterns that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves---the scholar and the
 engineer---spoke different languages. It was and continues to be a
@@ -357,11 +358,11 @@ of computing under the guidelines have failed to produce a learned public.
 This is evidenced by the frequent and urgent calls to digital literacy on the
 part of our leading intellectuals, educators, and
 politicians.[^ln-digitalliteracy] But instead of educating, the preference for
-easy figurative tropes embodied a shortcut to knowledge. Once established,
-such shortcuts continue to prevent users from literal engagement with
-computational realities. Like Tolstoy's mindless dusting, life at the keyboard
-increasingly passes without reflection. Worse yet, the trope obscures forces
-of capital, governance, and control cloaked behind the innocuous figure.
+easy figurative tropes forged a shortcut to knowledge. Once established, such
+shortcuts continue to prevent users from literal engagement with computational
+realities. Like Tolstoy's mindless dusting, life at the keyboard increasingly
+passes without reflection. Worse yet, the trope obscures forces of capital,
+governance, and control cloaked behind the innocuous figure.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
@@ -480,26 +481,6 @@ paper to pixel. A substantial gap separates the visible text from the source
 code that produces it. Forces of capital and control exploit that gap,
 obscuring the workings of the device.[^ln-capital]
 
-Extant models of literary transmission assume movement through passive and
-immutable media. Paper offers the document of record, which, once archived,
-does not change its contents. By using analytic techniques like genetic
-criticism and forensic reading, it is therefore possible to reconstruct if not
-"authorial intent," then at least a trace of the author's hand. In some
-contexts, we may even ascribe properties like "fidelity" to "original" works
-of art. When media are immutable, we imagine a sort of a causal custody chain
-between works and their creators, which at some point of creation occupy the
-same contiguous space and time. Mechanical reproduction of print has
-introduced a range of devices that mediate between the author and the reader.
-Distance, time, and mediation subsequently weaken facile notions of authorial
-fidelity or intent. At the very least, we know that editorial practices,
-publishing markets, and communication technologies introduce an unintended
-element of noise into the channel. But we have yet to understand the impact of
-the computed, dynamic inscription. Unlike pen and paper which come in direct
-contact with each other, the contact between keyboard and screen is
-fundamentally a simulated, programmed experience. At its worst, the connection
-suffers from intractable "man-in-the-middle" attacks, by which a third party
-maliciously alters the content of communication [@needham_using_1978].
-
 Changing material conditions of textual transmission push against familiar
 literary critical ideas. For example, as the mechanical reproduction of print
 weakens the material basis for authorship attribution, the notion of
@@ -521,6 +502,34 @@ encounter. Yet the point of contact is crucial, for it is here that the
 subject seems to disappear into the device where the device appears in the
 guise of an artificially intelligent actor.
 
+Extant models of literary transmission assume movement through passive and
+immutable media. Paper offers the document of record, which, once archived,
+does not change its contents. Analytic techniques like genetic criticism and
+forensic reading make it possible to reconstruct if not "authorial intent,"
+then at least a trace of the author's hand. In some contexts, think
+manuscripts and folios, we may even ascribe properties like "fidelity" to
+"original" works of art. When media are immutable, one imagines a sort of a
+causal custody chain between works and their creators, which at some point
+must occupy the same contiguous space and time. Mechanical reproduction of
+print introduces a range of devices that mediate between readers and authors.
+Distance, time, and mediation subsequently weaken facile notions of authorial
+fidelity. At the very least, we understand that such intermediary structures
+as editors, publishing houses, and printing presses inject an element of noise
+into the channel of communication.
+
+The transition between the Gutenberg press and "Project Gutenberg," an online
+library containing thousands of texts, carries with it yet further unexplored
+possibilities. Unlike pen and paper which come in direct contact with each
+other during writing, the contact between keyboard and screen passes through
+yet another complex chain of mediation. Writing, in that sense, in itself
+becomes a simulated and programmed experience. We do not write in the
+conventional sense of inscribing marks into a static host. Rather, we are
+shown images of inscription and media which at best have some measure of
+correspondence to the physical realities of typing, editing, and saving files.
+In the worst case, the connection between keyboards and screens suffers from
+intractable "man-in-the-middle" attacks, by which a third party maliciously
+alters the content of intended communication [@needham_using_1978].
+
 In *Plain Text*, I will argue that some of the higher--level political
 afflictions of the contemporary public sphere---mass surveillance and online
 censorship, for example---relate to our failure as readers and writers to come
@@ -535,33 +544,35 @@ bringing computation closer to its humanistic roots.
 
 *Plain Text* makes a historical case for the recovery of textual thought
 latent in the machinery of contemporary computing. Just as philology cannot
-survive without an understanding of its computational present, the design of
-computational platforms cannot advance without humanistic introspection. Much
-is at stake in the material affordances of the literary artifact. The
-political struggle for meaning-making---the very opportunity to engage in the
-act of interpretation---begins and ends with the materiality of the textual
-artifact. In the West, it is easy to forget the blunt effectiveness of
-physical control. Books that are burned or redacted cannot be read at all.
-Elsewhere, global inequities of access to knowledge compel readers to print
-their own books and build their own libraries. Witness the so-called "shadow
-libraries" of Eastern Europe, the street book vendors of India and Pakistan,
-and the gray market presses of Nigeria arising form the country's "book
+survive in ignorance of its computational present, the design of computational
+platforms cannot advance in ignorance of its cultural contexts. Much is at
+stake in the material affordances of the literary artifact. The political
+struggle for meaning-making---the very opportunity to engage in the act of
+interpretation---begins and ends with the materiality of the textual artifact.
+
+In the West, it is easy to forget the blunt effectiveness of physical control.
+Books that are burned or redacted cannot be read at all. Elsewhere, global
+inequities of access to knowledge compel readers to print their own books and
+build their own libraries. Witness the so-called "shadow libraries" of Eastern
+Europe, the street book vendors of India and Pakistan, and the gray market
+presses of Nigeria arising form the country's "book
 famine."[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
 @bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
 *samizdat*-like practices engage in the proactive preservation of the literary
 sphere [@tenen_book_2014]. Informal book exchange networks create reading
-publics that own the means of textual production and dissemination. Under
+publics that own the means of textual production and dissemination. nder
 duress, readers build homemade knowledge infrastructures: they duplicate,
 distribute, catalog, and archive. By contrast, in wealthier economies such
 infrastructures are commodified. Consequently, the material contexts of
-meaning making disappear from view. For many readers, technologies that
-support reading, writing, and interpretation pass from tools to fetish. We
-hold tender feelings for them and cradle them in our laps. No longer
-comprehensible by the way of the pen or the printing press we imbue them with
-magical powers and thus exist in the state of profound alienation from the
-material conditions closet to our mental activity.
+meaning making are received passively, taken for granted, and disappear from
+view. For many readers, technologies that support reading, writing, and
+interpretation pass from tools to fetish. We hold tender feelings for our
+mobiles and laptops, grasp for them in times of trouble and cradle them in our
+laps. No longer comprehensible by the way of the pen or the printing press we
+imbue them with magical powers. Thus we exist in the state of profound
+alienation from the material conditions closet to our mental activity.
 
-The future of reading and writing has been inexorably intertwined with the
+The future of reading and writing is inexorably intertwined with the
 development of computer science and software engineering. Even if you are not
 reading these words on a screen, my message has reached you through a long
 chain of machine-mediated transformations: from the mechanical action of the
@@ -577,9 +588,8 @@ society as a whole [@leroi-gourhan_gesture_1993, 83-84;
 a filing system, or a social networking platform cannot be addressed in
 shallow instrumental system-centric ideals. Complex computational systems
 cannot give rise to ideals any more than financial markets can. Among the many
-available visions of human--computer interaction I will build a case for our
-choosing one that confirms to a humanist ethos, whatever the reader's
-politics.
+available visions of human--computer interaction argue for our choosing one
+that confirms to a humanist ethos, whatever the reader's politics.
 
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to text, code, platform, and
@@ -591,8 +601,12 @@ hermeneutics empower the reader to resist hard-wired models of machine-bound
 interpretation. Yet today, resistance remains within the purview of the few.
 Plain text channels itinerant streams of data back into the tidal pools of
 human agency and comprehension for all. There, code becomes intelligible for
-the very subjects whose loss Kittler laments. Only in such encrypted tunnels
-and secure shells can anything like the digital humanities take root.
+the very subjects whose loss the Foucault and Kittler lament.[^ln-lament] Only
+in such encrypted tunnels and secure shells can anything like the digital
+humanities take root.
+
+[^ln-lament]: Or perhaps celebrate, depending on your understanding of their
+post-humanism.
 
 Computational hermeneutics encourages "users" to become active thinkers,
 tinkerers, and makers of technology. It treats "binary" and "digital"
@@ -739,7 +753,7 @@ textual politics in subtle and profound ways. Artifacts cannot hold beliefs
 about politics. Political power is rather exercised through them. Stairs do
 not discriminate against the mobility impaired. The failure to enforce
 accessibility through specific legal and architectural choices does.
-Typesetting software, e-book readers, and word processors similarly embody
+Typesetting software, e-book readers, and word processors similarly incarnate
 implicit communication models: ideas about deliberation, ethics of labor,
 discursive values, and views about "natural" human aptitude for
 interpretation. In this way, contemporary documents are capable of enforcing
