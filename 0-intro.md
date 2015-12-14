@@ -794,16 +794,15 @@ expect to discover a single theoretical framework that can capture the
 complexity of the simulated textuality in motion. The inscription goes by one
 name in one part of the system and by another elsewhere. What counts for
 "code" and "poetry" in one domain, like computer science, may not account for
-the same in another domain, like creative writing.  An engineer's use of the
-words "code" and "poetry" differs from that of a poet's. And yet an engineer
-by day can also become a poet by night. The changing contexts evoke the
-corresponding shift in operational definitions.  Consequently, in *Plain
-Text*, I do not attempt to write a totalizing history of modern computing nor
-a survey of literary theory. Rather, the argument progresses from the action
-of the alphanumerical keyboard switch, through copper and silicon, to liquid
-crystal and the floating gate, and on towards the human and the community. It
-is but a single possible pass through a cavernous black box. Each chapter
-reflects a waypoint along the journey.
+the same in another domain, like creative writing. An engineer's use of the
+words "code" and "poetry" differs from that of a poet's. The changing contexts
+evoke the corresponding shift in operational definitions. Consequently, in
+*Plain Text*, I do not attempt to write a totalizing history of modern
+computing nor a survey of literary theory. Rather, the argument progresses
+from the action of the alphanumerical keyboard switch, through copper and
+silicon, to liquid crystal and the floating gate, and on towards the human and
+the community. It is but a single possible pass through a cavernous black box.
+Each chapter reflects a waypoint along the journey.
 
 The passage from keystroke to pixel runs a thread through the book. In the
 chapters to follow, the electronic literary artifact---the thing next to my
@@ -819,57 +818,60 @@ boundaries between software and hardware, code and content.
 
 Once we see the book as a kind of a Turing machine, we are able to confront
 the particularity of the simulated sign. A number of significant consequences
-follow. The **second chapter** describes the condition by which the simulated sign
-splits to reside in at least two distinct locations, screen and storage
+follow. The **second chapter** describes the condition by which the simulated
+sign splits to reside in at least two distinct locations, screen and storage
 medium. The "illusion of the simulated text" will thereafter identify an
 incongruity between the two sites of reading. Erasing the inscription on the
 screen, for example, may not elicit the corresponding action on the disk.
 Using archival materials from the history of telegraphy in the late nineteenth
 and early twentieth centuries, I chart the gradual fracture and the ultimate
-disappearance of the inscription. Early computers assembled human-readable
-text and machine instruction along the same storage media like punch cards and
-ticker tape. Although difficult to read, these forms of inscription were
-readily visible and therefore amenable to analysis. The advent of magnetic
-storage forced the inscription into an opaque medium. Unable to perceive
-magnetic polarities without the aid of a machine, readers often manipulated
-text blindly. In this way a typist would type several sentences without seeing
-the printed output.
+disappearance of the inscription. Early computers composited human-readable
+text and machine instruction at the surface of the same storage media like
+punch cards and ticker tape. Although difficult to read, these forms of
+inscription were readily visible and therefore amenable to analysis. The
+advent of magnetic storage forced the composite inscription into an opaque
+medium.  Unable to perceive magnetic polarities without the aid of a machine,
+readers often manipulated text blindly. In this way a typist would type
+several sentences without seeing the printed output. Thus the chapter
+identifies a milestone in the history of human textuality: the moment at which
+the inscription passes from view.
 
-The **third chapter** charts the emergence of the screen which restored a measure
-of visibility lost to magnetic inscription, with one major side-effect. The
-fidelity of the visible word could no longer be guaranteed. What the screen
-showed and what was stored on tape carried only a contingent correlation.
-Even today, many readers struggle to answer a simple question: Where does the
-text physically reside? Our inability to precisely locate the site of the
-inscription belies its seemingly ephemeral quality. Words on the screen appear
-conspicuous, but do not last once the device is powered off. Device reading
-happens on screens that refresh themselves at a rate of around 60 cycles per
-second (Hertz). Screen textuality is therefore by definition ephemeral. It is
-technically an animation. It moves even as it appears to stand still. The
-third chapter unfolds at the site of the projection. The mechanics of modern
-screens modulate the electrical signal to push light through a liquid crystal
-medium. Here, I bring the mechanics of the medium to bear on a theoretical
-conversation about digital aesthetics. Works by the philosophers Henri
-Bergson, Jakob von Uexküll, and John Goodman help construct a phenomenology of
-screen-based digital perception. The digital emerges ultimately not as
-property of the medium, but as structure imposed onto matter from without. In
-the extreme, that means that a censored electronic text is a perfectly analog
-artifact. Conversely, texts in print are already "born digital," in the sense
-that literary works like Shakespeare's *Hamlet* are amenable to "reliable
-processes of copying and preservation" [@haugeland_analog_1981, 213-225]. But
-such attributes are again neither universal nor essential to the medium. "The
-reliability and preservation of textual copies" may mean one thing to a
-literary scholar, another to a software engineer or a legal professional, and
-yet something entirely different to a librarian.
+The **third chapter** charts the emergence of the screen which restored a
+measure of visibility lost to magnetic inscription, with one major
+side-effect. The fidelity of the visible word could no longer be guaranteed.
+What the screen showed and what was stored on tape carried only a contingent
+correlation. Even today, many readers struggle to answer a simple question:
+Where does the text physically reside? Our inability to precisely locate the
+site of the inscription belies its seemingly ephemeral quality. Words on the
+screen appear conspicuous, but do not last once the device is powered off.
+Device reading happens on screens that refresh themselves at a rate of around
+60 cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. It is technically an animation. It moves even as it appears to
+stand still. The third chapter unfolds at the site of the projection. The
+mechanics of modern screens modulate the electrical signal to push light
+through a liquid crystal medium. Here, I bring the mechanics of the medium to
+bear on a theoretical conversation about digital aesthetics. Works by the
+philosophers Henri Bergson, Jakob von Uexküll, and John Goodman help construct
+a phenomenology of screen-based digital perception. The digital emerges
+ultimately not as property of the medium, but as structure imposed onto matter
+from without. In the extreme, that means that a censored electronic text is a
+perfectly analog artifact. Conversely, texts in print are already "born
+digital," in the sense that literary works like Shakespeare's *Hamlet* are
+amenable to "reliable processes of copying and preservation"
+[@haugeland_analog_1981, 213-225]. But such attributes are again neither
+universal nor essential to the medium. "The reliability and preservation of
+textual copies" may mean one thing to a literary scholar, another to a
+software engineer or a legal professional, and yet something entirely
+different to a librarian.
 
 The **fourth chapter** moves from the screen to the machine internals.
 Somewhere between the sites of storage and projection, the computed sign
-undergoes a series of transformations. These transformations usually pass
-under the rubric of "formatting." The development of the formatting layer
-commences with several "control characters" included in the machine alphabets
-that follow Morse code.  Initially, these characters were limited in function
-to actions like "carriage return" or "stop transmission." But with time, the
-formatting layer encompassed encompass all machine instruction. Thus a
+underwent series of transformations. These transformations usually pass under
+the rubric of "formatting." The development of the formatting layer commenced
+with several "control characters" included in the machine alphabets that
+follow Morse code. Initially, these characters were limited in function to
+actions like "carriage return" or "stop transmission." But with time, the
+formatting layer encompassed all manner of machine instruction. Thus a
 manufacturer's ability to censor or to surveil electronic books is contained
 within the formatting layer. Formatting is therefore crucial to our ability to
 interpret digital text. Two rich histories collide on the pages of the fourth
@@ -888,32 +890,40 @@ idea of an "appointment with oneself" helps us see this external construction
 of files, folders, and library furnishings as cognitive extension, in need of
 delicate pruning and arrangement. In this light, I show that documents exist
 not as completed works, but as "vectors" that mutate and move through time and
-space. Finally, I ask: What is being externalized, communicated, and
-preserved? And answer: It is not simply a message, but the subject itself.
+space. I ask: What is being externalized, communicated, and preserved? And
+answer: It is not simply a message, but the subject itself. Finally, a close
+reading of the "home" folder opens the way to the concluding chapter of the
+book.
 
-Paradoxically, despite its emergent ephemeral qualities, simulated text
-pervades through the system. Embedded into solid state drives and magnetic
-disks, inscription attains the quality of what Wendy Hui Kyong Chun calls the
-"enduring ephemeral" [@chun_enduring_2008, 148]. Precisely because simulated
-text adheres lightly to its medium, it has a tendency to multiply and to
-spread widely. Like the fine particles of glitter, it is difficult to contain.
-The simulated text falls apart into bits and pixels that replicate and tumble
+The **last chapter** returns to the question of ephemerality. Paradoxically,
+despite its emergent ephemeral qualities, simulated text diffuses through the
+system. Embedded into solid state drives and magnetic disks, inscription
+attains the quality of what Wendy Hui Kyong Chun calls the "enduring
+ephemeral" [@chun_enduring_2008, 148]. Precisely because simulated text
+adheres lightly to its medium, it has a tendency to multiply and to spread
+widely. Like the fine particles of glitter, it is difficult to contain. The
+simulated text falls apart into bits and pixels that replicate and tumble
 about the system. In this way a deleted email may still persist on the drive,
 be replicated to remote servers, and proliferate across datasets used for
-machine learning, advertising, and national intelligence. The **last chapter**
-begins to address the social and political implications of the contemporary
-textual condition. In reading the letter of the law related to the Digital
-Millennium Copyright act, I argue that 
-
-The book ends with a stark image illustrating the contrast
-between screen surface and the underlying bit structure. To produce the image,
-I inject malicious code into an Adobe Acrobat file (`.pdf`). The deformed text
+machine learning, advertising, and national intelligence. Consequently the
+structural insight from the first five chapters can ultimately yield insight
+into the social implications of the contemporary textual condition. In reading
+the letter of the law related to the Digital Millennium Copyright act, I argue
+that the facility of copying digital artifacts like books, code, or even
+object schematics for 3-D printing, necessitates a new understanding of
+digital production. In obscuring the material realities of the sign at the
+site of the inscription, the surface simulation conceals an author's
+relationship to the products of his or her labor. And despite the easy
+appearances, textual diffusion carries with it palpable environmental costs.
+The book ends with a stark image illustrating the contrast between screen
+surface and the underlying bit structure. To produce the image, I inject
+malicious code into an Adobe Acrobat file (`.pdf`). The deformed text
 threatens to damage the literary device. A thick description of the book, now
 as weapon and instrument, brings legibility to the fore of reading ethics. The
 design and usage of literary devices must itself become critical practice
 which can, in complement to critical theory, actively engineer for human
-agency. A discussion of technological dissent through the humanisms of
-Karl Marx, Hannah Arendt and Franz Fanon concludes the volume.
+agency. A discussion of technological dissent through the humanisms of Karl
+Marx, Hannah Arendt and Franz Fanon concludes the volume.
 
 ## 0.6 Scale
 
