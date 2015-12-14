@@ -510,7 +510,6 @@ matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conceit and device, where the embodied
 meets the ideal.
 
-
 ### 2.2 Sound and Formula (Formalist)
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
@@ -1216,6 +1215,13 @@ succeeds when readers reclaim the underlying material conditions of their
 meaning making. The very architects of the "smart" literary device tell us: the
 answer to the machine remains in the machine.
 
+Return to metaphor. Not against metaphor. The paradox. Two sides. Not knowing
+the one side. Actualizing the metaphor.
+
+<!-- notes -->
+<!-- notes -->
+<!-- notes -->
+
 [^ln2-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
@@ -1357,7 +1363,3 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
 before, and placed on its feet again" (44).  p5
-
-
-Return to metaphor. Not against metaphor. The paradox. Two sides. Not knowing
-the one side. Actualizing the metaphor.

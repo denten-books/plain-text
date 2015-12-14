@@ -861,19 +861,19 @@ reliability and preservation of textual copies" may mean one thing to a
 literary scholar, another to a software engineer or a legal professional, and
 yet something entirely different to a librarian.
 
-I begin the book's third chapter by outlining a recent discussion on surface
-reading. I ask: What lies beneath the text, literally? Case studies from the
-early history of removable storage media, ticker tape and floppy disk,
-elucidate the movement of text from human-legible inscription on the page and
-punch card to magnetic inscription invisible to the naked human eye. In print,
-form and content lie flat. On the screen, the two layers occupy physically
-distinct strata. The rise of the pervasive Document Object Model (DOM) in the
-twentieth century introduces a third layer which, in addition to form and
-content, encodes device control. The material history of the DOM dispels the
-illusion of flattened textuality. The control layer dynamically changes the
-mechanics of the literary encounter. Texts now carry both a message and a set
-instructions that alter the textual device. Consequently, I argue that literary
-interpretation must include the exposition of the control layer.
+The fourth chapter moves from the screen to the machine internals. Somewhere
+between the sites of storage and projection, the computed sign undergoes a
+series of transformations. These transformations usually pass under the rubric
+of "formatting." The development of the formatting layer commences with
+several "control characters" included in the machine alphabets that follow
+Morse code.  Initially, these characters were limited in function to actions
+like "carriage return" or "stop transmission." But with time, the formatting
+layer encompassed encompass all machine instruction. Thus a manufacturer's
+ability to censor or to surveil electronic books is contained within the
+formatting layer. Formatting is therefore crucial to our ability to interpret
+digital text. Two rich histories intersect on the pages of the fourth
+chapter: one the material history of formatting as a concept in computer
+science and two in the intellectual history of form in literary theory.
 
 paradoxically, despite its ephemeral qualities, simulated text is also
 pervasive. Embedded into "solid state" drives and magnetic "hard disks,"
@@ -886,7 +886,7 @@ about the system.  In this way a deleted email may still persist on the drive,
 be replicated to remote servers, and proliferate across datasets used for
 machine learning, advertising, and national intelligence.
 
-The fourth chapter reaches beyond the device to the human. I begin with a close
+The fifth chapter reaches beyond the device to the human. I begin with a close
 reading of Beckett's *Krapp's Last Tape*. The title character makes yearly
 audio recordings of himself, only to revisit them and to enter into a sort of
 dialog with his own voice from the past. I posit this archival encounter as
