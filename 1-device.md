@@ -429,22 +429,6 @@ without. It is an attempt to social and political, not technological
 determinism. In most cases, it is possible to trace the root of imposition to
 specific governing agents, agencies, or incorporations.
 
-[^ln1-notquite]: To what extent a personal computer is a Turing machine is
-matter of contention. The Turing machine is a *thought experiment* that
-imagines a machine. The PC is a machine emulating the thought experiment. See
-@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
-more detailed discussion follows in 1.2.
-
-[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
-experience, despite the overwhelming evidence for determinism.
-
-[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
-from speaking to writing: "The most obvious change from speaking to writing
-concerns the relation between message and its medium or channel. At first
-glance, it concerns only this relation, but upon closer examination, the first
-alteration irradiates in every direction, affecting in decisive manner all the
-factors and functions" [@ricur_interpretation_1976, 25].
-
 ## Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
@@ -571,15 +555,17 @@ misunderstanding, and controversy to the present day. Consider the following
 attempts to describe the essence of Turing computation:
 
 > Turing machine, n. A notional computing machine for performing simple
-> reading, writing, and shifting operations in accordance with a prescribed set
-> of rules, invoked in theories of computability and automata [_turing_2015].
+> reading, writing, and shifting operations in accordance with a prescribed
+> set of rules, invoked in theories of computability and automata
+> [_turing_2015].
 
-> a criterion [...] that it shall be possible to to devise a computing machine,
-> occupying a finite space, and with working parts of finite size
+> a criterion [...] that it shall be possible to to devise a computing
+> machine, occupying a finite space, and with working parts of finite size
 [@church_review_1937, 42].
 
-> a human calculator, provided with pencil and paper and explicit instructions,
-can be regarded as a kind of Turing machine [@church_review_1937, 43].
+> a human calculator, provided with pencil and paper and explicit
+> instructions, can be regarded as a kind of Turing machine
+> [@church_review_1937, 43].
 
 > To understand a Turing machine we need only know its table of commands
 > [@kemeny_man_1955;  _turing_2015].
@@ -589,26 +575,27 @@ brain [@putnam_issues_1961, 39].
 
 > No Turing machine has ever been physically constructed or realized in
 hardware as a device for its own sake, but general-purpose digital computers
-have been programmed to simulate Turing machines [@jordain_condensed_1969, 550;
-@_turing_2015]
+have been programmed to simulate Turing machines [@jordain_condensed_1969,
+550; @_turing_2015]
 
 In reading the above passages, one discovers a range of possible definitions.
-The *Oxford English Dictionary* discusses Turing's original experiment in terms
-of "a notational machine." It "performs operations" according to "a prescribed
-set of rules." In short, the machine at least seems like a machine, not unlike
-a steam engine or a mechanized doll. By contrast, Alonzo Church, who was one of
-the first to read and to respond to Turing's paper, describes it as a
-"criterion" for building a machine, not the machine itself. More confusingly,
-it seems that a human armed with a pen and paper can already satisfy Turing's
-criteria. Writing for the *Scientific American* in the fifties, John Kemeny
-likens it to a "table of commands." In his reflection, it seems neither a
-device nor a human being but an algorithm or a set of instructions. A decade
-later, Hilary Putnam (along with a number of prominent philosophers of mind)
-returns to Turing's paper to find a model of human
+The *Oxford English Dictionary* discusses Turing's original experiment in
+terms of "a notational machine." It "performs operations" according to "a
+prescribed set of rules." In short, the machine at least seems like a machine,
+not unlike a steam engine or a mechanized doll. By contrast, Alonzo Church,
+who was one of the first to read and to respond to Turing's paper, describes
+it as a "criterion" for building a machine, not the machine itself. More
+confusingly, it seems that a human armed with a pen and paper can already
+satisfy Turing's criteria. Writing for the *Scientific American* in the
+fifties, John Kemeny likens it to a "table of commands." In his reflection, it
+seems neither a device nor a human being but an algorithm or a set of
+instructions. A decade later, Hilary Putnam (along with a number of prominent
+philosophers of mind) returns to Turing's paper to find a model of human
 cognition.[@fodor_language_1975; @putnam_representation_1988]. Writing for one
-of the earliest encyclopedias on computing, Philip Jordain finally encapsulates
-the paradox at the heart of Turing computation: it is a device that can never
-be constructed, yet all other computers are programmed in its image.
+of the earliest encyclopedias on computing, Philip Jordain finally
+encapsulates the paradox at the heart of Turing computation: it is a device
+that can never be constructed, yet all other computers are programmed in its
+image.
 
 A mechanism, an idea, an algorithm---imitating a human or imitated by
 humans---an impossible ideal or just a ordinary person holding a pencil, the
@@ -1538,3 +1525,20 @@ professional organizations: Institute for Electrical and Electronics Engineers
 (IEEE) and Association for Computing Machinery (ACM). See
 @glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
 @vessey_unified_2005.
+
+[^ln1-notquite]: To what extent a personal computer is a Turing machine is
+matter of contention. The Turing machine is a *thought experiment* that
+imagines a machine. The PC is a machine emulating the thought experiment. See
+@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
+more detailed discussion follows in 1.2.
+
+[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
+experience, despite the overwhelming evidence for determinism.
+
+[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
+from speaking to writing: "The most obvious change from speaking to writing
+concerns the relation between message and its medium or channel. At first
+glance, it concerns only this relation, but upon closer examination, the first
+alteration irradiates in every direction, affecting in decisive manner all the
+factors and functions" [@ricur_interpretation_1976, 25].
+

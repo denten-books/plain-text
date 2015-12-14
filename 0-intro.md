@@ -791,52 +791,64 @@ text disappear when the reader closes the book's cover?
 In the chapters to follow, the electronic literary artifact---the thing next
 to my laptop on my desk---will come fully into view as a computational device,
 a kind of a universal metaphor invented to engender ubiquitous simulation. A
-number of significant consequences follow. I will argue first that the
-simulated sign splits to reside in at least two distinct locations, screen and
-storage medium: the first conspicuous but ephemeral, the second enduring but
-arcane.
+number of significant consequences follow. I will begin by describing the
+condition by which the simulated sign splits to reside in at least two
+distinct locations, screen and storage medium. The "illusion of the simulated
+text" will thereafter identify an incongruity between the two sites of
+reading. Erasing the inscription on the screen, for example, may not elicit
+the corresponding action on the disk.
 
-The "illusion of the simulated text" will thereafter identify an incongruity
-between the two sites of reading. Erasing the inscription on the screen, for
-example, may not elicit the corresponding action on the disk. The middle
-chapters will deal with the particulates of the simulation. Last, in the final
-chapters, It will take us the rest of the book to come to terms with ambiguous
-textuality in its bifurcated form. For now, I begin merely with the
-peculiarity of its location. Computed text resides at multiple sites at the
-same time. Device reading happens on screens that refresh themselves at a rate
-of around 60 cycles per second (Hertz). Screen textuality is therefore by
-definition ephemeral. It is technically an animation. It moves even as it
-appears to stand still. And it disappears when the device loses power. Yet
-paradoxically, simulated text is also pervasive. Embedded into "solid state"
-drives and magnetic "hard disks," inscription attains the quality of what
-Wendy Hui Kyong Chun calls the "enduring ephemeral" [@chun_enduring_2008,
-148]. Precisely because simulated text adheres lightly to its medium, it has a
-tendency to multiply and to spread widely. Like the fine particles of glitter,
-it is difficult to contain. The simulated text falls apart into bits and
-pixels that replicate and tumble about the system.  The later chapters of the
-book will deal with the cultural consequences of that illusion.
+The screen gives rise to the ephemeral quality of the inscription. Words on
+the screen appear conspicuous, but do not last once the device is powered off.
+Device reading happens on screens that refresh themselves at a rate of around
+60 cycles per second (Hertz). Screen textuality is therefore by definition
+ephemeral. It is technically an animation. It moves even as it appears to
+stand still. Yet paradoxically, simulated text is also pervasive. Embedded
+into "solid state" drives and magnetic "hard disks," inscription attains the
+quality of what Wendy Hui Kyong Chun calls the "enduring ephemeral"
+[@chun_enduring_2008, 148]. Precisely because simulated text adheres lightly
+to its medium, it has a tendency to multiply and to spread widely. Like the
+fine particles of glitter, it is difficult to contain. The simulated text
+falls apart into bits and pixels that replicate and tumble about the system.
+In this way a deleted email may still persist on the drive, be replicated to
+remote servers, and proliferate across datasets used for machine learning,
+advertising, and national intelligence.
 
+The tangled pathways of inscription through the device exist in relation to
+specific communities of computational practice. A researcher cannot therefore
+expect to discover a single theoretical framework that can capture the
+complexity of the simulated textuality in motion. The inscription goes by one
+name in one part of the system and by another elsewhere. What counts for
+"code" and "poetry" in one domain, like computer science, may not account for
+the same in another domain, like creative writing.  An engineer's use of the
+words "code" and "poetry" differs from that of a poet's. And yet an engineer
+by day can also become a poet by night. The changing contexts evoke the
+corresponding shift in operational definitions.  Consequently, in *Plain
+Text*, I do not attempt to write a totalizing history of modern computing nor
+a survey of literary theory. Rather, the argument progresses from the action
+of the alphanumerical keyboard switch, through copper and silicon, to liquid
+crystal and the floating gate, and on towards the human and the community. It
+is but a single possible pass through a cavernous black box. Each chapter
+reflects a waypoint along the journey.
 
-The tangled strains of thought and practice can exist only in relation to specific
-communities of practice. A researcher cannot therefore expect to discover *the*
-authoritative dictionary containing a neat summary of all terms needed for
-analysis. What counts for "code" and "poetry" in one domain, like computer
-science, may not account for the same in another domain, like creative writing.
-An engineer's use of the words "code" and "poetry" differs from that of a
-poet's. And yet an engineer by day can also become a poet by night. The
-changing contexts evoke the corresponding shift in operational definitions.
-Consequently, in *Plain Text*, I do not attempt to write a totalizing history
-of modern computing nor a survey of literary theory. Rather, the argument
-progresses from the action of the alphanumerical keyboard switch, through
-copper and silicon, to liquid crystal and the floating gate, and on towards the
-human and the community. It is but a single possible pass through a cavernous
-black box. Each chapter reflects a waypoint along the journey.
+The passage from keystroke to pixel runs a thread through the book. At the
+core of the book's first chapter lies a single thought experiment about
+reading and writing machines, which, in its many variations in the works of
+Ludwig Wittgenstein, ultimately leads to the articulation of the universal
+Turing machine. Located at the origins of modern computing, the Turing machine
+embodies many of the paradoxes that continue to shape our encounter
 
-The passage from keystroke to pixel runs a thread through the book. I begin
-with a few simple questions that lay the grounds for digital textuality: What
-exactly is a text? Where is it?  How will we find it?  My answers commence by
-developing a theory of "microanalysis," the closest possible kind of reading
-that pays attention to the material contexts of knowledge production.
+device we now know simply as a
+computer. A historical reconstruction of the Turing machine will point the way
+to a dynamic at the heart of all computation.
+
+A reconstruction of a
+single t
+
+first as a formal technique, then as an
+thought experiment, and finally as a control mechanism. To preserve a sense of
+human agency and to break the inertia of
+
 Microanalysis opens the gap between text as it is embedded into storage media
 and text as it is seen on the screen. I begin by laying out the case for
 treating the contemporary "digital" book as a computational device. The nature
