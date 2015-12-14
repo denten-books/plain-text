@@ -59,9 +59,9 @@ writing, transformed by the advent of computation. The device on my desk is
 not a book, but a simulation of a book. And everything associated with
 "reading" this metaphor must in itself be understood under the sign of
 simulation. What does it mean to "study" a book metaphor? And what kind of a
-metaphor is it? What is being compared to what? How did it come into being and
-how does it affect practices of literary interpretation? In *Plain Text* I
-attempt to come to terms with the conditions of simulated textuality.
+metaphor is it? How did it come into being and how does it affect practices of
+literary interpretation? In *Plain Text* I attempt to come to terms with the
+conditions of simulated textuality.
 
 The illusion of ephemerality that follows simulation comes at a price of
 understanding. "Software's ghostly presence produces and defies apprehension,"
@@ -238,7 +238,7 @@ command on our behalf [@kittler_gramophone_1999, 263]. Such acts of
 resistance, small and large, can recover a measure of agency from the ruling
 determinism of---take your pick: markets, complex systems, unconscious drives,
 monistic universes, *gaia* science, social networks, technology, the
-singularity, bureaucracy, and war.  Indeed, the possibility of human
+singularity, bureaucracy, war...  Indeed, the possibility of human
 erasure---nonsense---never strays far from reach, "like the face drawn in the
 sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility of
 life compels not the Foucauldian wager on anti-humanism, but the need to
@@ -290,9 +290,9 @@ itinerant theorists of the metaphor like Vilém Flusser, Viktor Shklovsky, and
 Hannah Arendt I propose to proceed through systematic estrangement of
 computational metaphors, metaphors that fade into transparency as to escape
 the critical gaze. A strategy of deliberate defamiliarization reclaims the
-metaphor-device for analysis. To come to terms with the book as a device; to begin to
-understand the nature of the text simulation; to perceive the particularity of
-the computed sign: these are the aims of *Plain Text*.
+metaphor-device for analysis. To come to terms with the book as a device; to
+begin to understand the nature of the text simulation; to perceive the
+particularity of the computed sign: these are the aims of *Plain Text*.
 
 ## 0.3 Metaphor
 
@@ -409,12 +409,12 @@ literary exegesis in the work of scholars like Boris Eikhenbaum and Mark
 Turner, my overarching aim in *Plain Text* is therefore to expose the illusion
 of verisimilitude between text on paper and the simulated text on a screen.
 The words may look the same, but the underlying affordances of the medium
-differ in significant detail. As an example, consider a news report that
-alters its content based on the reader's location. Imagine also an e-book
-reader that highlights popular passages of a novel in real time, shortening
-the less popular passages down to their algorithmically distilled summaries.
-For a literary analyst, the instability of the digital medium means analysis
-cannot be confined to reading for surface meaning alone. How can close reading
+differ in significant detail. Consider for example a news report that alters
+its content based on the reader's location. Imagine also an e-book reader that
+highlights popular passages of a novel in real time, shortening the less
+popular passages down to their algorithmically distilled summaries. For a
+literary analyst, the instability of the digital medium means analysis cannot
+be confined to reading for surface meaning alone. How can close reading
 persist when reading devices reconfigure the text to fit individual tastes,
 mood, or politics? How would we even agree on the fact that we are reading the
 same text? The very possibility of interpretation comes into question.
@@ -484,18 +484,18 @@ obscuring the workings of the device.[^ln-capital]
 Changing material conditions of textual transmission push against familiar
 literary critical ideas. For example, as the mechanical reproduction of print
 weakens the material basis for authorship attribution, the notion of
-authorship itself undergoes change. That is not say that the author is dead,
-as Barthes would have it. Authors continue to live and to collect royalties
-from the sale of their works. The weakening of the authorship function merely
-makes certain ways of talking about things like "authorial intent" and
-"fidelity to the original" difficult to sustain. Massively collaborative
-writing projects like Wikipedia and procedural narrative generation (machine
-writing) further erode ideas of authorial production based on individual human
-agency. Yet, it would be a mistake to believe that the myth of autopoiesis
-(the literature that "writes itself," writing that writes, discourse that
-speaks, etc.)[^ln-varela] can displace the myth of the author. A discipline of
-close attention to the atomic particulars of encoding, transmission, storage,
-and the decoding of text at the site if its application to the human condition
+authorship itself undergoes change. That is not say that the author is
+dead.[^ln-dead] Authors continue to live and to collect royalties from the
+sale of their works. The weakening of the authorship function merely makes
+certain ways of talking about things like "authorial intent" and "fidelity to
+the original" difficult to sustain. Massively collaborative writing projects
+like Wikipedia and procedural narrative generation (machine writing) further
+erode ideas of authorial production based on individual human agency. Yet, it
+would be a mistake to believe that the myth of autopoiesis (the literature
+that "writes itself," writing that writes, discourse that speaks,
+etc.)[^ln-varela] can displace the myth of the author.  A discipline of close
+attention to the atomic particulars of encoding, transmission, storage, and
+the decoding of text at the site if its application to the human condition
 ultimately aims to reclaim subjective agency. This may seem strange at first:
 to recover the subject in the physical minutiae of the literary--technological
 encounter. Yet the point of contact is crucial, for it is here that the
@@ -544,11 +544,12 @@ bringing computation closer to its humanistic roots.
 
 *Plain Text* makes a historical case for the recovery of textual thought
 latent in the machinery of contemporary computing. Just as philology cannot
-survive in ignorance of its computational present, the design of computational
-platforms cannot advance in ignorance of its cultural contexts. Much is at
-stake in the material affordances of the literary artifact. The political
-struggle for meaning-making---the very opportunity to engage in the act of
-interpretation---begins and ends with the materiality of the textual artifact.
+survive without awareness of its computational present, the design of
+computational platforms cannot advance without greater awareness of its
+cultural contexts. Much is at stake in the material affordances of the
+literary artifact. The political struggle for meaning-making---the very
+opportunity to engage in the act of interpretation---begins and ends with the
+materiality of the textual artifact.
 
 In the West, it is easy to forget the blunt effectiveness of physical control.
 Books that are burned or redacted cannot be read at all. Elsewhere, global
@@ -591,6 +592,19 @@ cannot give rise to ideals any more than financial markets can. Among the many
 available visions of human--computer interaction argue for our choosing one
 that confirms to a humanist ethos, whatever the reader's politics.
 
+Computational hermeneutics encourages "users" to become active thinkers,
+tinkerers, and makers of technology. It treats "binary" and "digital"
+environments as fluid literary systems, amenable to the construction and the
+deconstruction of meaning. I further encourage those who may have considered
+themselves mere "users" to apply the same critical acuity they employ in the
+close reading of prose and poetry to the understanding of code and machine.
+For text to render on the screen properly it must be "encoded" or "translated"
+from machine-transmittable code into human-readable shape. Encoding
+constitutes a primitive field of textual activity, at the crossroads of
+computer science and the study of literature. Encoding matters because how
+text is encoded, transmitted, and stored decides who gets to decode, to
+receive, and to access.
+
 The advent of computational textuality necessitates a computational
 hermeneutics, which enables unfettered access to text, code, platform, and
 infrastructure. For now, commands like *xxd*, *pcap*, *ssh*, and *traceroute*
@@ -605,18 +619,6 @@ the very subjects whose loss the Foucault and Kittler lament.[^ln-lament] Only
 in such encrypted tunnels and secure shells can anything like the digital
 humanities take root.
 
-Computational hermeneutics encourages "users" to become active thinkers,
-tinkerers, and makers of technology. It treats "binary" and "digital"
-environments as fluid literary systems, amenable to the construction and the
-deconstruction of meaning. I further encourage those who may have considered
-themselves mere "users" to apply the same critical acuity they employ in the
-close reading of prose and poetry to the understanding of code and machine.
-For text to render on the screen properly it must be "encoded" or "translated"
-from machine-transmittable code into human-readable shape. Encoding
-constitutes a primitive field of textual activity, at the crossroads of
-computer science and the study of literature. Encoding matters because how
-text is encoded, transmitted, and stored decides who gets to decode, to
-receive, and to access.
 
 ## 0.4 Theory and Practice
 
@@ -1088,6 +1090,11 @@ exiled within and without, to those who understand the need for
 self-displacement, to those who transgress purposefully, and to those willing
 to trespass.
 
+
+<!--- NOTES  --->
+<!--- NOTES  --->
+<!--- NOTES  --->
+
 [^ln-flusser]: The work of @flusser_does_2011 has been similarly influential.
 
 [^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
@@ -1180,4 +1187,6 @@ strong proponent of such an approach. See @turner_death_1987 or
 post-humanism. For more a more extended discussion on Kittler, Foucault, and
 post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 104-128; @siegert_cultural_2013.
+
+[^ln-dead]: See @wimsatt_intentional_1946; @barthes_death_1977.
 
