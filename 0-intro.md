@@ -809,8 +809,8 @@ The passage from keystroke to pixel runs a thread through the book. In the
 chapters to follow, the electronic literary artifact---the thing next to my
 laptop on my desk---will come fully into view as a computational device, a
 kind of a universal metaphor engendering ubiquitous simulation. At the core of
-the book's first chapter lies a single thought experiment about reading and
-writing machines, which, in its many variations in the works of Ludwig
+the book's **first chapter** lies a single thought experiment about reading
+and writing machines, which, in its many variations in the works of Ludwig
 Wittgenstein, ultimately leads to the articulation of the universal Turing
 machine. Located at the origins of modern computing, the Turing machine
 embodies many of the paradoxes that continue to shape our encounter digital
@@ -819,7 +819,7 @@ boundaries between software and hardware, code and content.
 
 Once we see the book as a kind of a Turing machine, we are able to confront
 the particularity of the simulated sign. A number of significant consequences
-follow. The second chapter describes the condition by which the simulated sign
+follow. The **second chapter** describes the condition by which the simulated sign
 splits to reside in at least two distinct locations, screen and storage
 medium. The "illusion of the simulated text" will thereafter identify an
 incongruity between the two sites of reading. Erasing the inscription on the
@@ -828,13 +828,14 @@ Using archival materials from the history of telegraphy in the late nineteenth
 and early twentieth centuries, I chart the gradual fracture and the ultimate
 disappearance of the inscription. Early computers assembled human-readable
 text and machine instruction along the same storage media like punch cards and
-ticker tape. Although difficult to read, these forms of inscription could be
-be scrutinized with the naked eye. The advent of magnetic storage forced the
-inscription into an opaque medium. Unable to perceive magnetic polarities
-without the aid of a machine, readers often manipulated text blindly. In this
-way a typist would type several sentences without seeing the printed output.
+ticker tape. Although difficult to read, these forms of inscription were
+readily visible and therefore amenable to analysis. The advent of magnetic
+storage forced the inscription into an opaque medium. Unable to perceive
+magnetic polarities without the aid of a machine, readers often manipulated
+text blindly. In this way a typist would type several sentences without seeing
+the printed output.
 
-The third chapter charts the emergence of the screen which restores a measure
+The **third chapter** charts the emergence of the screen which restored a measure
 of visibility lost to magnetic inscription, with one major side-effect. The
 fidelity of the visible word could no longer be guaranteed. What the screen
 showed and what was stored on tape carried only a contingent correlation.
@@ -861,62 +862,58 @@ reliability and preservation of textual copies" may mean one thing to a
 literary scholar, another to a software engineer or a legal professional, and
 yet something entirely different to a librarian.
 
-The fourth chapter moves from the screen to the machine internals. Somewhere
-between the sites of storage and projection, the computed sign undergoes a
-series of transformations. These transformations usually pass under the rubric
-of "formatting." The development of the formatting layer commences with
-several "control characters" included in the machine alphabets that follow
-Morse code.  Initially, these characters were limited in function to actions
-like "carriage return" or "stop transmission." But with time, the formatting
-layer encompassed encompass all machine instruction. Thus a manufacturer's
-ability to censor or to surveil electronic books is contained within the
-formatting layer. Formatting is therefore crucial to our ability to interpret
-digital text. Two rich histories intersect on the pages of the fourth
-chapter: one the material history of formatting as a concept in computer
-science and two in the intellectual history of form in literary theory.
+The **fourth chapter** moves from the screen to the machine internals.
+Somewhere between the sites of storage and projection, the computed sign
+undergoes a series of transformations. These transformations usually pass
+under the rubric of "formatting." The development of the formatting layer
+commences with several "control characters" included in the machine alphabets
+that follow Morse code.  Initially, these characters were limited in function
+to actions like "carriage return" or "stop transmission." But with time, the
+formatting layer encompassed encompass all machine instruction. Thus a
+manufacturer's ability to censor or to surveil electronic books is contained
+within the formatting layer. Formatting is therefore crucial to our ability to
+interpret digital text. Two rich histories collide on the pages of the fourth
+chapter: one, the material history of formatting as a concept in computer
+science and two, the intellectual history of form in literary theory.
 
-paradoxically, despite its ephemeral qualities, simulated text is also
-pervasive. Embedded into "solid state" drives and magnetic "hard disks,"
-inscription attains the quality of what Wendy Hui Kyong Chun calls the
+The **fifth chapter** looks to the site of storage to find our media "homes"
+which house the vast archives of our private media collections. The chapter
+begins with a close reading of Beckett's *Krapp's Last Tape*. The title
+character makes yearly audio recordings of himself, only to revisit them and
+to enter into a sort of dialog with his own voice from the past. I posit this
+archival encounter as Krapp's "media being" and suggest that such encounters
+are commonplace. Writers and book collectors regularly deposit "snapshots" of
+their consciousness into files, bookshelves, and folders. Jean-Paul Sartre's
+idea of an "appointment with oneself" helps us see this external construction
+of files, folders, and library furnishings as cognitive extension, in need of
+delicate pruning and arrangement. In this light, I show that documents exist
+not as completed works, but as "vectors" that mutate and move through time and
+space. Finally, I ask: What is being externalized, communicated, and
+preserved? And answer: It is not simply a message, but the subject itself.
+
+Paradoxically, despite its emergent ephemeral qualities, simulated text
+pervades through the system. Embedded into solid state drives and magnetic
+disks, inscription attains the quality of what Wendy Hui Kyong Chun calls the
 "enduring ephemeral" [@chun_enduring_2008, 148]. Precisely because simulated
 text adheres lightly to its medium, it has a tendency to multiply and to
 spread widely. Like the fine particles of glitter, it is difficult to contain.
 The simulated text falls apart into bits and pixels that replicate and tumble
-about the system.  In this way a deleted email may still persist on the drive,
+about the system. In this way a deleted email may still persist on the drive,
 be replicated to remote servers, and proliferate across datasets used for
-machine learning, advertising, and national intelligence.
+machine learning, advertising, and national intelligence. The **last chapter**
+begins to address the social and political implications of the contemporary
+textual condition. In reading the letter of the law related to the Digital
+Millennium Copyright act, I argue that 
 
-The fifth chapter reaches beyond the device to the human. I begin with a close
-reading of Beckett's *Krapp's Last Tape*. The title character makes yearly
-audio recordings of himself, only to revisit them and to enter into a sort of
-dialog with his own voice from the past. I posit this archival encounter as
-Krapp's "media being" and suggest that such encounters are commonplace. Writers
-and book collectors regularly deposit "snapshots" of their consciousness into
-files, bookshelves, and folders. Jean-Paul Sartre's idea of an "appointment
-with oneself" helps us see this external construction of files, folders, and
-library furnishings as cognitive extension, in need of delicate pruning and
-arrangement. In this light, I show that documents exist not as completed works,
-but as "vectors" that mutate and move through time and space. Finally, I ask:
-What is being externalized, communicated, and preserved? And answer: It is not
-simply a message, but the subject itself.
-
-In the last chapter of the book I tackle the apparent immateriality of digital
-text. Ephemeral media brings promise of epistemological (social) and even
-phenomenological (personal) transformation. But it also has a major practical
-drawback. Inscription on magnetic tape cannot be assumed to correspond to the
-composite screen image. Forms of governance like Digital Rights Management
-(DRM) are embedded deep within the "data object" itself. A type of
-steganography, or secret writing, hides the control layer from
-view---precluding, and sometimes making illegal outright, the possibility of
-interpretation. The chapter ends with a stark image illustrating the contrast
+The book ends with a stark image illustrating the contrast
 between screen surface and the underlying bit structure. To produce the image,
 I inject malicious code into an Adobe Acrobat file (`.pdf`). The deformed text
 threatens to damage the literary device. A thick description of the book, now
 as weapon and instrument, brings legibility to the fore of reading ethics. The
-design and usage of literary devices must itself become critical practice which
-can, in complement to critical theory, actively engineer for human agency. A
-discussion of technological dissent through the new humanisms of Hannah Arendt
-and Franz Fanon concludes the volume.
+design and usage of literary devices must itself become critical practice
+which can, in complement to critical theory, actively engineer for human
+agency. A discussion of technological dissent through the humanisms of
+Karl Marx, Hannah Arendt and Franz Fanon concludes the volume.
 
 ## 0.6 Scale
 

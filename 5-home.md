@@ -127,12 +127,6 @@ other literary structures, his documents imply a self as both subject and
 audience of communication. To put it plainly: Krapp is talking to himself, in
 the archive.
 
-[^ln5-james-recur]: See for example @james_principles_1890, 234: "Every
-brain-state is partly determined by the nature of its entire past succession.
-Alter the latter in any part, and the brain-state must be somewhat different.
-Each present brain-state is a record in which the eye of Omniscience might
-read all the forgone history of its owner."
-
 Edmund Husserl called such self-directed mode of communication "subjective
 expression" [@garfinkel_studies_1967, 4-5; @farber_foundation_2006, 237-8;
 @platt_reflexivity_1989]. Bertrand Russel called it likewise "egocentric
@@ -466,7 +460,7 @@ to fulfill a specific purpose ("I might need it later,") and sentimental saving
 as attachment to objects that "represent extensions of self"
 [@frost_cognitive-behavioral_1996; @saxena_treatment_2007, 1144]. Object-affect
 fusion (OAF) identifies a dynamic by which, in the words of Stephen Kellet and
-Kaaren Knight, an "individual appears to pair and fuse emotions associated with
+Karen Knight, an "individual appears to pair and fuse emotions associated with
 objects to the actual objects themselves" [@kellett_does_2003, 458]. For
 compulsive hoarders, "possessions therefore falsely become symbolic tabernacles
 of affective information inevitably creating difficulties at the point of
@@ -1093,4 +1087,10 @@ Flusser exile as information processing.
 Bachelard
 Plain text privileges a certain tics of humanity.
 
+
+[^ln5-james-recur]: See for example @james_principles_1890, 234: "Every
+brain-state is partly determined by the nature of its entire past succession.
+Alter the latter in any part, and the brain-state must be somewhat different.
+Each present brain-state is a record in which the eye of Omniscience might
+read all the forgone history of its owner."
 

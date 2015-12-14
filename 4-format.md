@@ -1086,9 +1086,6 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-
-
-
 ## Speculative Formalism
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
@@ -1110,7 +1107,6 @@ have already explored in the telegraph chapter. Something has to mediate: to
 translate between brain impulses and the transmission apparatus. Such "direct"
 communication would therefore still be mediated. Can literature survive non
 representation. I want to imagine.
-
 
 Essential for the practices of unencumbered critical thought, control
 structures exist in the gaps within the splintered sign. Ultimately, parts of
