@@ -746,16 +746,16 @@ Artifactual knowledge---from typesetting software to e-book readers and word
 processors---shapes our everyday encounter with literature. Such technologies
 should not be taken as value-neutral conduits of information. I follow Lewis
 Mumford and Langdon Winner to argue that technology affects the exercise of
-textual politics in subtle and profound ways [CITE ARTIFACTS]. Artifacts
-cannot hold beliefs about politics. Political power is rather exercised
-through them. Stairs do not discriminate against the mobility impaired, for
-example. The failure to enforce accessibility through specific legal and
-architectural choices does.  Typesetting software, e-book readers, and word
-processors similarly incarnate implicit communication models: ideas about
-deliberation, ethics of labor, discursive values, and views about "natural"
-human aptitude for interpretation. In this way, contemporary documents
-structure the literary encounter according to license, location, or physical
-ability.
+textual politics in subtle and profound ways [@mumford_authoritarian_1964;
+@winner_artifacts_1980]. Artifacts cannot hold beliefs about politics.
+Political power is rather exercised through them. Stairs do not discriminate
+against the mobility impaired, for example. The failure to enforce
+accessibility through specific legal and architectural choices does.
+Typesetting software, e-book readers, and word processors similarly incarnate
+implicit communication models: ideas about deliberation, ethics of labor,
+discursive values, and views about "natural" human aptitude for
+interpretation. In this way, contemporary documents structure the literary
+encounter according to license, location, or physical ability.
 
 To what extent does the book in front of you permit or enable access?
 Whatever the answer, a function of understanding the text must include the
@@ -890,7 +890,7 @@ idea of an "appointment with oneself" helps us see this external construction
 of files, folders, and library furnishings as cognitive extension, in need of
 delicate pruning and arrangement. In this light, I show that documents exist
 not as completed works, but as "vectors" that mutate and move through time and
-space [@WARK]. I ask: What is being externalized, communicated, and preserved?
+space.[^ln-wark] I ask: What is being externalized, communicated, and preserved?
 And answer: It is not simply a message, but the subject itself. Finally, a
 close reading of the "home" folder opens the way to the concluding chapter of
 the book.
@@ -1067,7 +1067,7 @@ libraries, archives, and database) microanalysis examines mediation at the
 level of physical minutiae otherwise not readily observed in cursory
 exploration. The instruments of microanalysis may coincide with computational
 tools, designed to find hidden patterns lurking above or beneath a given
-document.[^CITEln2-iarkho] The micro-instrumentation might also include a
+document.[^ln-iarkho] The micro-instrumentation might also include a
 screwdriver, a binding needle, or a soldering iron: sharp tools that help to
 pry open and to scrutinize otherwise magical textual black boxes. My
 methodology thus lies in the dialectical tension between making known and
@@ -1096,7 +1096,7 @@ clarity from which further critique and exploration can advance.
 
 To understand something small about the physical realities of "turning"
 virtual "pages" is to create a space capable of supporting agency, desire, or
-dissent.[@CITE HARCOURT] The digitally displaced hold on to the discomfort of
+dissent.[^ln-dissent] The digitally displaced hold on to the discomfort of
 the encounter with the machine. Estrangement, always at the heart of immigrant
 or queer poetics, reconciles without seeking wholeness or integration. I
 dedicate this book then to queers and immigrants, literal and
@@ -1160,7 +1160,7 @@ freedoms by technological means.
 Harcourt have advanced critique along similar lines. See
 @galloway_protocol_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
 
-[^ln1-brains]: For the first view see @putnam_minds_1960 and
+[^ln-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
 
@@ -1207,3 +1207,30 @@ post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 [^ln-sarab]: See also @english_economy_2008; @brouillette_wither_2015 and
 @brouillette_unesco_2015.
 
+[^ln-iarkho]: I borrow the term "microanalysis" from the largely forgotten in
+the West Russian literary scholar and member of the Moscow Linguistic Circle,
+Boris Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
+writes: "I understand 'atomism' as a sort of an ideal aspiration, as an
+orientation toward the liminally small. But under no circumstances do I
+advocate working with hypothetical quantities, like molecules, atoms,
+positrons, and so on, which are located beyond the limits of perception. That
+this applied mythology gave us such splendid results in chemistry, should not
+conceal its true nature. Tomorrow, all such explanations of visible through
+the invisible could give way to other hypotheses, as was the case with their
+no less fertile predecessors (elemental spirits, phlogiston, and light ether).
+But the cell, the nucleus, and the chromosome endure as lasting
+accomplishments of microanalysis. I suggest to move as far as a microscope can
+reach, and no further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the
+most quantitatively inclined of the Russian Formalists, microanalysis involved
+systematic application of statistical methods to the study of literature.
+
+[^ln-dissent]: See @harcourt_exposed:_2015, 251-80.
+
+[^ln-wark]: I use the term "vector" in somewhat more limited sense than it
+appears in the idea of "vectoralist class" coined by McKenzie Wark. By
+"vectoralist class" Wark means something like the group of interests that
+control the distribution of information. See for example
+@wark_information_2006. In understanding the document as a vector I posit it
+as a three-dimensional rather than a two-dimensional object, with the extra
+dimension extending in time. Similar to Jerome McGann's idea of the "editorial
+horizon." See @mcgann_textual_1991.

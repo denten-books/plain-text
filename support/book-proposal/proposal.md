@@ -252,23 +252,6 @@ something which happens. It's not purely linguistic, involving text or books.
 You can deconstruct gestures, choreography. That's why I enlarged the concept
 of text. Everything is a text" [@caputo_deconstruction_1996].
 
-[^ln2-iarkho]: I borrow the term "microanalysis" from the largely forgotten
-Russian literary scholar and member of the Moscow Linguistic Circle, Boris
-Iarkho. In his *Methodologies of Exact Literary Study* (circa 1935-6) he
-writes: "I understand 'atomism' as a sort of an ideal aspiration, as an
-orientation toward the liminally small. But under no circumstances do I
-advocate working with hypothetical quantities, like molecules, atoms,
-positrons, and so on, which are located beyond the limits of perception. That
-this applied mythology gave us such splendid results in chemistry, should not
-conceal its true nature. Tomorrow, all such explanations of visible through the
-invisible could give way to other hypotheses, as was the case with their no
-less fertile predecessors (elemental spirits, phlogiston, and light ether). But
-the cell, the nucleus, and the chromosome endure as lasting accomplishments of
-microanalysis. I suggest to move as far as a microscope can reach, and no
-further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the most
-quantitatively inclined of the Russian Formalists, microanalysis involved
-systematic application of statistical methods to the study of literature.
-
 [^ln2-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
 5; @nuttall_new_2007, 6-25.
 
