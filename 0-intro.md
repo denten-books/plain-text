@@ -342,7 +342,7 @@ knew that it was impossible to remember," wrote Tolstoy. "And so whether I
 dusted and forgot or just did so without thinking, it as if the action never
 happened [..] thus when life passes without conscious reflection, it passes as
 if one has not lived at all." Life disappears into nothingness, when the
-"automatization of experience "consumes things, clothing, furniture, your
+automatization of experience "consumes things, clothing, furniture, your
 spouse, and the fear of war" [@brik_poetika_1919, 104].[^ln-translation] The
 formalists rarely quoted Marx directly. Yet the echoes of Marx resonate
 throughout. The dead metaphor marks the alienation of experience. The point at
