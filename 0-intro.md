@@ -672,10 +672,10 @@ the absence of other feedback, that their gaze is met in bad faith.
 
 Connecting theories of meaning--making to the practices of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
-misalignment between thought and action.[^ln-sartre] The solution to connect "meaning"
-with "operational meaning" belongs to a species of pragmatism. William James
-articulated that view concisely when he wrote that "reality is seen to be
-grounded in a perfect jungle of concrete expediencies"
+misalignment between thought and action.[^ln-sartre] The solution to connect
+"meaning" with "operational meaning" belongs to a species of pragmatism.
+William James articulated that view concisely when he wrote that "reality is
+seen to be grounded in a perfect jungle of concrete expediencies"
 [@james_pragmatisms_1907]. For James and other pragmatists, truth could not
 exist in the abstract alone. It entailed also causes and effects that operate
 in the world.[^ln-pragma-truth] In his essay "Pragmatism's Conception of
@@ -683,8 +683,8 @@ Truth," James asked: "How will the truth be realized? What concrete difference
 will its being true make in anyone's actual life? What experiences will be
 different from those which would obtain if the belief were false?" Frank
 Ramsey, the young British philosopher close to Ludwig Wittgenstein would later
-write in a similar vein about meaning as "defined by reference to the actions"
-[@ramsey_foundations_2013, 155].[^ln-pragmatism]
+write in a similar vein about meaning as "defined by reference to the
+actions."[^ln-pragmatism]
 
 For the pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
@@ -694,9 +694,9 @@ abstract categories like "literature," "computation," and "text" cannot
 possibly be reduced to a number of essential, structural features. Rather, to
 borrow from Wittgenstein's *Philosophic Investigations*, categories denote a
 set of related practices that may or may not share in any given familial
-characteristic [@wittgenstein_philosophical_2001, 67-77].[^ln-witt] In our
-case, imagine a tree diagram where the tangled branches of computation and
-textuality intersect and diverge in beautiful and yet arbitrary ways.
+characteristic.[^ln-witt] In our case, imagine a tree diagram where the
+tangled branches of computation and textuality intersect and diverge in
+beautiful and yet arbitrary ways.
 
 As a consequence of my commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
@@ -761,14 +761,12 @@ explication of its physical affordances. Experimentalism enables the critic to
 "lay bare" the device. A literary scholar's version of baking bread and
 smelting iron is to make literal the figure suggested by the idea of media
 "archeology" on the level of the mechanism. In *Plain Text* we will dig
-through, unearth, and excavate textual machines.
-
-Similarly, it is my contention here that the cardinal literary-theoretical
-concepts---such as word, text, narrative, discourse, author, story, book,
-archive---are thoroughly enmeshed in the underlying physical substratum of
-paper and pixel. It follows that any attempt to articulate the idea cannot
-attain its full expressive potential without a thick description of its base
-particulates.
+through, unearth, and excavate textual machines. In practicing archeology I
+contend that cardinal literary-theoretical concepts---such as word, text,
+narrative, discourse, author, story, book, archive---are thoroughly enmeshed
+in the underlying physical substratum of paper and pixel. It follows that any
+attempt to articulate the idea cannot attain its full expressive potential
+without a thick description of its base particulates.
 
 Luckily for us, reading and writing are not esoteric activities. They are
 readily available to phenomenological and physical introspection. I will
@@ -787,21 +785,21 @@ text disappear when the reader closes the book's cover?
 
 ## 0.5 Plan of the Present Work
 
-The tangled pathways of inscription through the device exist in relation to
-specific communities of computational practice. A researcher cannot therefore
-expect to discover a single theoretical framework that can capture the
-complexity of the simulated textuality in motion. The inscription goes by one
-name in one part of the system and by another elsewhere. What counts for
-"code" and "poetry" in one domain, like computer science, may not account for
-the same in another domain, like creative writing. An engineer's use of the
-words "code" and "poetry" differs from that of a poet's. The changing contexts
-evoke the corresponding shift in operational definitions. Consequently, in
-*Plain Text*, I do not attempt to write a totalizing history of modern
+The tangled pathways of inscription winding its way through the device exist
+in relation to specific communities of computational practice. A researcher
+cannot therefore expect to discover a single theoretical framework that can
+capture the complexity of the simulated textuality in motion. The inscription
+goes by one name in one part of the system and by another elsewhere. What
+counts for "code" and "poetry" in one domain, like computer science, may not
+account for the same in another domain, like creative writing. An engineer's
+use of the words "code" and "poetry" differs from that of a poet's. The
+changing contexts evoke the corresponding shift in operational definitions.
+Consequently, in *Plain Text*, I write neither a totalizing history of modern
 computing nor a survey of literary theory. Rather, the argument progresses
 from the action of the alphanumerical keyboard switch, through copper and
-silicon, to liquid crystal and the floating gate, and on towards the human and
-the community. It is but a single possible pass through a cavernous black box.
-Each chapter reflects a waypoint along the journey.
+silicon, to liquid crystal and the floating gate, and on towards the reader
+and the community. It is but a single possible pass through a cavernous black
+box.  Each chapter reflects a waypoint along the journey.
 
 The passage from keystroke to pixel runs a thread through the book. In the
 chapters to follow, the electronic literary artifact---the thing next to my
@@ -1181,12 +1179,13 @@ post-humanism. For more a more extended discussion on Kittler, Foucault, and
 post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
 104-128; @siegert_cultural_2013.
 
-[^ln-pragmatism]: The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
-perhaps most pronounced in the teacher colleges, where James and Dewey are
-still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[@brown_situated_1988, @lave_situated_1991] and
-"experiential learning"[@kolb_hegel_1981]: both terms denoting some sense of
-necessary synthesis between of knowing and doing. In the field of linguistics,
+[^ln-pragmatism]: @ramsey_foundations_2013, 155. The intellectual legacy of
+pragmatism is wide-ranging and diffuse. It is perhaps most pronounced in the
+teacher colleges, where James and Dewey are still read widely, which could
+explain the ascendancy of such pedagogical terms as "situated
+cognition"[@brown_situated_1988, @lave_situated_1991] and "experiential
+learning"[@kolb_hegel_1981]: both terms denoting some sense of necessary
+synthesis between of knowing and doing. In the field of linguistics,
 philosophy of language, and communication studies, pragmatics are
 well-encapsulated by the "language-as-action tradition," which harkens back to
 the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
@@ -1233,5 +1232,5 @@ soul of its own [...] A ghost appears in the network.  Unanticipated aspects
 of technological structure endow the creation with an anticipated *telos*"
 [@winner_autonomous_1978, 280].
 
-[^ln-witt]: For more on the connection between Wittgenstein and James
-see @goodman_james_2004.
+[^ln-witt]: @wittgenstein_philosophical_2001, 67-77. For more on the
+connection between Wittgenstein and James see @goodman_james_2004.
