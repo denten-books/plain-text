@@ -1,5 +1,6 @@
 # Chapter 6: Labor?
 
+Estrangement vs. alienation.
 ## Copy
 
 This property further had the effect of freeing digital representation from
