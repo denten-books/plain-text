@@ -359,10 +359,9 @@ urgent calls to digital literacy on the part of our leading intellectuals,
 educators, and politicians.[^ln-digitalliteracy] Instead of educating, the
 preference for easy figurative tropes forged a shortcut to knowledge. Once
 established, such shortcuts continue to prevent users from literal engagement
-with computational realities. Like Tolstoy's mindless dusting, for most life
-at the keyboard passes without reflection. Worse yet, the trope obscures
-forces of capital, governance, and control cloaked behind the innocuous
-figure.
+with computational realities. Like Tolstoy's mindless dusting, life at the
+keyboard passes without reflection. Worse yet, the trope obscures forces of
+capital, governance, and control cloaked behind the innocuous figure.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
