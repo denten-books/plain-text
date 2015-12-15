@@ -256,8 +256,8 @@ agencies. The mythology surrounding smart objects shifts our attention from
 the seats of power to things dumb, powerless, and indifferent to our
 protestations.
 
-The internal exile that we must undergo for the smart book and the smart desk
-to come into view, to become foreground, cannot compare in difficulty to the
+The internal exile that we must undergo for smart books and smart desks to
+come into view, to become foreground, cannot compare in difficulty to the
 experience of physical displacement that follows natural disaster, war,
 poverty, or political instability. Yet, our systematic reluctance to take on
 even those small intellectual discomforts that could lead to acts of localized
