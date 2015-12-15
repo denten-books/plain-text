@@ -366,7 +366,7 @@ capital, governance, and control cloaked behind the innocuous figure.
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
 recover the experience of the making of the thing, to name it, and to describe
-it as if one encounters it for the first time [@shklovsky_voskreshenie_1914;
+it as if one encountered it for the first time [@shklovsky_voskreshenie_1914;
 @shklovksy_sborniki_1917, 8]. The formalists found estrangement in art,
 politics, and analysis alike [@jameson_prison-house_1972, 75-9;
 @boym_estrangement_1996; @holquist_minding_2005]. In art, estrangement
@@ -395,7 +395,7 @@ reconstruct how the thing was made. For example, in his influential essay on
 "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum identified *skaz*, or the
 manner of speaking, as an organizing principle for Gogogl's satirical
 narratives [@brik_poetika_1919, 151-67]. What readers lost in having the joke
-explained to them, they gained in understanding of the genre.
+explained to them they gained in understanding of the genre.
 
 I take a similar approach in *Plain Text* by extending formal concerns with
 the mechanics of literary "device" and "technique" to literary devices and
@@ -428,9 +428,9 @@ produce meaning. "I am embedded in the familiar," Flusser wrote, "so that I
 can reach out toward the unfamiliar and create things yet unknown"
 [@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
 other. The dialectics of exile can lead to "informed renewal" of shared space
-only through what Flusser called a "creative dialogue" between the settled and
-the unsettled [@flusser_freedom_2003, 84]. Without the protection of one's
-home, everything turns to noise. There can no information without a dwelling,
+through what Flusser called a "creative dialogue" between the settled and the
+unsettled [@flusser_freedom_2003, 84]. Without the protection of one's home,
+everything turns to noise. There can no information without a dwelling,
 Flusser wrote, "and without information, in a chaotic world, one can neither
 feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic displacement
 and habituation enter into a continuing conversation. But what is the "other"
@@ -481,25 +481,24 @@ code that produces it. Forces of capital and control exploit that gap,
 obscuring the workings of the device.[^ln-capital]
 
 Changing material conditions of textual transmission push against familiar
-literary critical ideas. For example, as the mechanical reproduction of print
-weakens the material basis for authorship attribution, the notion of
-authorship itself undergoes change. That is not say that the author is
-dead.[^ln-dead] Authors continue to live and to collect royalties from the
-sale of their works. The weakening of the authorship function merely makes
-certain ways of talking about things like "authorial intent" and "fidelity to
-the original" difficult to sustain. Massively collaborative writing projects
-like Wikipedia and procedural narrative generation (machine writing) further
-erode ideas of authorial production based on individual human agency. Yet, it
-would be a mistake to believe that the myth of autopoiesis (the literature
-that "writes itself," writing that writes, discourse that speaks,
-etc.)[^ln-varela] can displace the myth of the author.  A discipline of close
-attention to the atomic particulars of encoding, transmission, storage, and
-the decoding of text at the site if its application to the human condition
-ultimately aims to reclaim subjective agency. This may seem strange at first:
-to recover the subject in the physical minutiae of the literary--technological
-encounter. Yet the point of contact is crucial, for it is here that the
-subject seems to disappear into the device where the device appears in the
-guise of an artificially intelligent actor.
+literary critical ideas. Easy digital reproduction of print weakens the
+material basis for authorship attribution, for example. That is not say that
+the author is dead.[^ln-dead] Authors continue to live and to collect
+royalties. The weakening of the authorship function merely makes certain ways
+of talking about things like "authorial intent" and "fidelity to the original"
+difficult to sustain. The emergence of writer collectives like Wikipedia and
+writing machines like spam bots further erodes ideas of authorial production
+based on individual human agency. It would be a mistake to believe that the
+trope of autopoiesis---literature that writes itself or discourse that
+speaks---could ever displace the myth of the author.[^ln-varela] A discipline
+of close attention to the atomic particulars of encoding, transmission,
+storage, and the decoding of text at the site if its application to the human
+condition ultimately reclaims a measure of subjective agency in authorship.
+This may seem strange at first: to recover the subject in the physical
+minutiae of the textual--technological encounter. Yet the point of contact
+between human, text, and device is significant precisely because it is here
+that the subject seems to disappear into the machine and the machine appears
+in the guise artificially intelligent actor.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper offers the document of record, which, once archived,
