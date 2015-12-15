@@ -508,12 +508,12 @@ then at least a trace of the author's hand. In some contexts---think
 manuscripts and folios---we may even ascribe properties like "fidelity" to
 "original" works of art. When media are immutable, one imagines a sort of a
 causal custody chain between works and their creators, which at some point
-must occupy the same contiguous space and time. Mechanical reproduction of
-print introduces a range of devices that mediate between readers and authors.
-Distance, time, and mediation subsequently weaken facile notions of authorial
-fidelity. At the very least, we understand that such intermediary structures
-as editors, publishing houses, and printing presses inject an element of noise
-into the channel of communication.
+must have occupied the same contiguous space and time. Mechanical reproduction
+of print introduces a range of devices that mediate between readers and
+authors.  Distance, time, and mediation subsequently weaken facile notions of
+authorial fidelity. At the very least, we understand that such intermediary
+structures as editors, publishing houses, and printing presses inject an
+element of noise into the channel of communication.
 
 The transition between the Gutenberg press and "Project Gutenberg," an online
 library containing thousands of texts, has brought with it further as yet
@@ -526,7 +526,7 @@ shown superimposed images of inscription and media. At best, the composite
 trope attains some measure of correspondence to the physical realities of
 typing, editing, and saving files. In the worst case, the connection between
 keyboards and screens suffers from intractable "man-in-the-middle" attacks, by
-which a third party maliciously alters the content of intended communication
+which a third parties maliciously alter the content of intended communication
 [@needham_using_1978].
 
 In *Plain Text*, I will argue that some of the higher--level political
@@ -614,9 +614,9 @@ wield them gain the metaphorical power to "hop" across, to "sniff" packets, to
 hermeneutics empower the reader to resist hard-wired models of machine-bound
 interpretation. Yet today, resistance remains within the purview of the few.
 Plain text channels itinerant streams of data back into the tidal pools of
-human agency and comprehension for all. There, code becomes intelligible for
-the very subjects whose loss the Foucault and Kittler lament.[^ln-lament] Only
-in such encrypted tunnels and secure shells can anything like the digital
+human agency and comprehension for all. There, code can become intelligible
+for the very subjects whose loss the Foucault and Kittler lament.[^ln-lament]
+Only in such encrypted tunnels and secure shells can anything like the digital
 humanities or new media studies take root.
 
 ## 0.4 Theory and Practice
@@ -672,7 +672,7 @@ the absence of other feedback, that their gaze is met in bad faith.
 
 Connecting theories of meaning--making to the practices of meaning--making
 offers a way out of the bad faith conundrum. Bad faith identifies a
-misalignment between thought and action. The solution to connect "meaning"
+misalignment between thought and action.[^ln-sartre] The solution to connect "meaning"
 with "operational meaning" belongs to a species of pragmatism. William James
 articulated that view concisely when he wrote that "reality is seen to be
 grounded in a perfect jungle of concrete expediencies"
@@ -1107,60 +1107,35 @@ willing to trespass.
 <!--- NOTES  --->
 <!--- NOTES  --->
 
-[^ln-flusser]: The work of @flusser_does_2011 has been similarly influential.
+[^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
 
-[^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
-@gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
-
-[^ln-hegel]: I discuss the topic at length in Chapter 3.
-
-[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
-Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
-
-[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign
-about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
-
-[^ln-pragma-truth]: For a more thorough discussion on the topic see
-@seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
-
-[^ln-pragmatism]: The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
-perhaps most pronounced in the teacher colleges, where James and Dewey are
-still read widely, which could explain the ascendancy of such pedagogical terms
-as "situated cognition"[@brown_situated_1988, @lave_situated_1991] and
-"experiential learning"[@kolb_hegel_1981]: both terms denoting some sense of
-necessary synthesis between of knowing and doing. In the field of linguistics,
-philosophy of language, and communication studies, pragmatics are
-well-encapsulated by the "language-as-action tradition," which harkens back to
-the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
-[@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
-perhaps the paradigmatic formulation of the idea that words don't just mean
-things, but that they enact change in the world.
-
-[^ln-witt]: For more on the connection between Wittgenstein and James
-see @goodman_james_2004.
-
-[^ln-sweatshop]: See @freeman_high_2000 and @patel_working_2010.
-
-[^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
-professors are still reluctantly trading in their typewriters for word
-processors, the NSA is preparing for the future: from nursery school
-mathematics, which continues to be fully sufficient for books, to
-charge-coupled devices, surface-wave filters, digital signal processors
-including the four basic forms of computation. Trenches, flashes of lightning,
-stars---storage, transmission, *the laying of cables*
-[@kittler_gramophone_1999, 263].
-
-[^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
-agency of complex systems and (b) a practice of diminishing the scope of human
-freedoms by technological means.
+[^ln-brains]: For the first view see @putnam_minds_1960 and
+@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
+@dyson_turings_2012.
 
 [^ln-capital]: Scholars like Alexander Galloway, David Golumbia, Bernard
 Harcourt have advanced critique along similar lines. See
 @galloway_protocol_2006, @golumbia_cultural_2009, and @harcourt_exposed:_2015.
 
-[^ln-brains]: For the first view see @putnam_minds_1960 and
-@fodor_language_1975. For the second view see @deutsch_quantum_1985 and
-@dyson_turings_2012.
+[^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
+@gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
+
+[^ln-dead]: See @wimsatt_intentional_1946; @barthes_death_1977.
+
+[^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
+agency of complex systems and (b) a practice of diminishing the scope of human
+freedoms by technological means.
+
+[^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
+@negroponte_being_1995; @davidson_now_2011.
+
+[^ln-dissent]: See @harcourt_exposed:_2015, 251-80.
+
+[^ln-dmca]: See @ku_critique_2004; @ginsburg_legal_2005; and @fry_circumventing_2009.
+
+[^ln-egturner]: Mark Turner, whose work builds on Lakoff and Johnson is a
+strong proponent of such an approach. See @turner_death_1987 or
+@turner_language_1992.
 
 [^ln-exposed]: For an extended exposition of this dynamic see
 @harcourt_exposed:_2015.
@@ -1168,42 +1143,9 @@ Harcourt have advanced critique along similar lines. See
 [^ln-exposed2]: Again, a point that is given its full treatment in
 @harcourt_exposed:_2015.
 
-[^ln-dmca]: See @ku_critique_2004; @ginsburg_legal_2005; and @fry_circumventing_2009.
+[^ln-flusser]: The work of @flusser_does_2011 has been similarly influential.
 
-[^ln-translation]: Translations are mine unless source cited explicitly in
-English.
-
-[^ln-winner]: See for example: "Writers concerned with with problems of
-technology-out-of-control have frequently echoed Hobbes in suggesting that
-such an artifact---the Leviathan of interconnected technical systems---has a
-soul of its own [...] A ghost appears in the network.  Unanticipated aspects
-of technological structure endow the creation with an anticipated *telos*"
-[@winner_autonomous_1978, 280].
-
-[^ln-spam]: For example, in 2004 researchers estimated that spam mail makes up
-40%-80% of the total email volume @cournane_analysis_2004.
-
-[^ln-bernard]: On Bernard see @petit_claude_1987 and @sattar_aesthetics_2013.
-
-[^ln-egturner]: Mark Turner, whose work builds on Lakoff and Johnson is a
-strong proponent of such an approach. See @turner_death_1987 or
-@turner_language_1992.
-
-[^ln-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
-5; @nuttall_new_2007, 6-25.
-
-[^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
-@negroponte_being_1995; @davidson_now_2011.
-
-[^ln-lament]: Or perhaps celebrate, depending on your understanding of their
-post-humanism. For more a more extended discussion on Kittler, Foucault, and
-post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
-104-128; @siegert_cultural_2013.
-
-[^ln-dead]: See @wimsatt_intentional_1946; @barthes_death_1977.
-
-[^ln-sarab]: See also @english_economy_2008; @brouillette_wither_2015 and
-@brouillette_unesco_2015.
+[^ln-hegel]: I discuss the topic at length in Chapter 3.
 
 [^ln-iarkho]: I borrow the term "microanalysis" from the largely forgotten in
 the West Russian literary scholar and member of the Moscow Linguistic Circle,
@@ -1222,7 +1164,58 @@ reach, and no further" [@iarkho_metodologia_2006, 363-364]. For Iarkho, the
 most quantitatively inclined of the Russian Formalists, microanalysis involved
 systematic application of statistical methods to the study of literature.
 
-[^ln-dissent]: See @harcourt_exposed:_2015, 251-80.
+[^ln-kittler2]: *Gramophone, Film, Typewriter* ends as follows: "And while
+professors are still reluctantly trading in their typewriters for word
+processors, the NSA is preparing for the future: from nursery school
+mathematics, which continues to be fully sufficient for books, to
+charge-coupled devices, surface-wave filters, digital signal processors
+including the four basic forms of computation. Trenches, flashes of lightning,
+stars---storage, transmission, *the laying of cables*
+[@kittler_gramophone_1999, 263].
+
+[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign
+about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
+
+[^ln-lament]: Or perhaps celebrate, depending on your understanding of their
+post-humanism. For more a more extended discussion on Kittler, Foucault, and
+post-humanism see for example @winthrop-young_silicon_2000; @wolfe_what_2010,
+104-128; @siegert_cultural_2013.
+
+[^ln-pragmatism]: The intellectual legacy of pragmatism is wide-ranging and diffuse. It is
+perhaps most pronounced in the teacher colleges, where James and Dewey are
+still read widely, which could explain the ascendancy of such pedagogical terms
+as "situated cognition"[@brown_situated_1988, @lave_situated_1991] and
+"experiential learning"[@kolb_hegel_1981]: both terms denoting some sense of
+necessary synthesis between of knowing and doing. In the field of linguistics,
+philosophy of language, and communication studies, pragmatics are
+well-encapsulated by the "language-as-action tradition," which harkens back to
+the Oxford language philosophers like J.L. Austin, Paul Grice, and John Searle
+[@trueswell_approaches_2005]. Austin's *How to Do Things with Words,* is
+perhaps the paradigmatic formulation of the idea that words don't just mean
+things, but that they enact change in the world.
+
+[^ln-pragma-truth]: For a more thorough discussion on the topic see
+@seigfried_william_1990, @pihlstrom_structuring_1996, and @putnam_jamess_1997.
+
+[^ln-sarab]: See also @english_economy_2008; @brouillette_wither_2015 and
+@brouillette_unesco_2015.
+
+[^ln-sartre]: Sartre would write "transcendence" and "facticity." See
+@sartre_being_1993, 86-119.
+
+[^ln-spam]: For example, in 2004 researchers estimated that spam mail makes up
+40%-80% of the total email volume @cournane_analysis_2004.
+
+[^ln-sweatshop]: See @freeman_high_2000 and @patel_working_2010.
+
+[^ln-translation]: Translations are mine unless source cited explicitly in
+English.
+
+[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
+Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
+
+[^ln-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
+5; @nuttall_new_2007, 6-25.
 
 [^ln-wark]: I use the term "vector" in somewhat more limited sense than it
 appears in the idea of "vectoralist class" coined by McKenzie Wark. By
@@ -1232,3 +1225,13 @@ control the distribution of information. See for example
 as a three-dimensional rather than a two-dimensional object, with the extra
 dimension extending in time. Similar to Jerome McGann's idea of the "editorial
 horizon." See @mcgann_textual_1991.
+
+[^ln-winner]: See for example: "Writers concerned with with problems of
+technology-out-of-control have frequently echoed Hobbes in suggesting that
+such an artifact---the Leviathan of interconnected technical systems---has a
+soul of its own [...] A ghost appears in the network.  Unanticipated aspects
+of technological structure endow the creation with an anticipated *telos*"
+[@winner_autonomous_1978, 280].
+
+[^ln-witt]: For more on the connection between Wittgenstein and James
+see @goodman_james_2004.
