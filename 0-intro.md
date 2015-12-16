@@ -65,7 +65,7 @@ conditions of simulated textuality.
 
 The illusion of ephemerality that follows simulation comes at a price of
 understanding. "Software's ghostly presence produces and defies apprehension,"
-Wendy Chun writes in her *Programmed Visions* [@chun_programmed_2011, 3]. But
+Wendy Chun wrote in her *Programmed Visions* [@chun_programmed_2011, 3]. But
 what happens when all text is a type of software? Friedrich Kittler ends his
 book on a similar note. In his vision, literature has finally been defeated by
 military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
@@ -483,22 +483,22 @@ obscuring the workings of the device.[^ln-capital]
 Changing material conditions of textual transmission push against familiar
 literary critical ideas. Easy digital reproduction of print weakens the
 material basis for authorship attribution, for example. That is not say that
-the author is dead.[^ln-dead] Authors continue to live and to collect
-royalties. The weakening of the authorship function merely makes certain ways
-of talking about things like "authorial intent" and "fidelity to the original"
-difficult to sustain. The emergence of writer collectives like Wikipedia and
-writing machines like spam bots further erodes ideas of authorial production
-based on individual human agency. It would be a mistake to believe that the
-trope of autopoiesis---literature that writes itself or discourse that
-speaks---could ever displace the myth of the author.[^ln-varela] A discipline
-of close attention to the atomic particulars of encoding, transmission,
-storage, and the decoding of text at the site if its application to the human
-condition ultimately reclaims a measure of subjective agency in authorship.
-This may seem strange at first: to recover the subject in the physical
-minutiae of the textual--technological encounter. Yet the point of contact
-between human, text, and device is significant precisely because it is here
-that the subject seems to disappear into the machine and the machine appears
-in the guise artificially intelligent actor.
+the author is dead. Authors continue to live and to collect
+royalties.[^ln-dead] The weakening of the authorship function merely makes
+certain ways of talking about things like "authorial intent" and "fidelity to
+the original" difficult to sustain. The emergence of writer collectives like
+Wikipedia and writing machines like spam bots further erodes ideas of
+authorial production based on individual human agency. It would be a mistake
+to believe that the trope of autopoiesis---literature that writes itself or
+discourse that speaks---could ever displace the myth of the
+author.[^ln-varela] A discipline of close attention to the atomic particulars
+of encoding, transmission, storage, and the decoding of text at the site if
+its application to the human condition ultimately reclaims a measure of
+subjective agency in authorship.  This may seem strange at first: to recover
+the subject in the physical minutiae of the textual--technological encounter.
+Yet the point of contact between human, text, and device is significant
+precisely because it is here that the subject seems to disappear into the
+machine and the machine appears in the guise artificially intelligent actor.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper offers the document of record, which, once archived,
@@ -1118,7 +1118,7 @@ Harcourt have advanced critique along similar lines. See
 [^ln-cog]: See for example @gibbs_categorization_1992; @blasko_effects_1993;
 @gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
 
-[^ln-dead]: See @wimsatt_intentional_1946; @barthes_death_1977.
+[^ln-dead]: See @barthes_death_1977; @foucault_what_1980; @nesbit_what_1987.
 
 [^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
 agency of complex systems and (b) a practice of diminishing the scope of human

@@ -685,26 +685,26 @@
       <choose>
         <if type="legal_case" match="none">
           <group delimiter=", " suffix=". ">
-            <text term="online"/>
+            <!-- <text term="online"/> -->
             <!--text variable="source"-->
-            <text term="internet" text-case="capitalize-first"/>
-            <text macro="access-date"/>
+            <!-- <text term="internet" text-case="capitalize-first"/> -->
+            <!-- <text macro="access-date"/> -->
           </group>
           <group delimiter=": ">
-            <text value="available" text-case="capitalize-first"/>
-            <text variable="URL"/>
+            <!-- <text value="available" text-case="capitalize-first"/> -->
+            <!-- <text variable="URL"/> -->
           </group>
         </if>
       </choose>
     </group>
   </macro>
   <macro name="access-date">
-    <date variable="accessed">
+     <date variable="accessed">
       <date-part name="day" suffix=" "/>
       <date-part name="month" form="short" suffix=" "/>
       <date-part name="year"/>
     </date>
-  </macro>
+ </macro>
   <macro name="access">
     <group delimiter=". ">
       <choose>
@@ -718,14 +718,14 @@
       <choose>
         <if type="legal_case" match="none">
           <group delimiter=". " suffix=". ">
-            <text term="online" text-case="capitalize-first"/>
+            <!-- <text term="online" text-case="capitalize-first"/> -->
             <!--text variable="source"-->
-            <text term="internet" text-case="capitalize-first"/>
-            <text macro="access-date"/>
+            <!-- <text term="internet" text-case="capitalize-first"/> -->
+            <!-- <text macro="access-date"/> -->
           </group>
           <group delimiter=": ">
-            <text value="available" text-case="capitalize-first"/>
-            <text variable="URL"/>
+            <!-- <text value="available" text-case="capitalize-first"/> -->
+            <!-- <text variable="URL"/> -->
           </group>
         </if>
       </choose>
