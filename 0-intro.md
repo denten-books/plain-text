@@ -71,14 +71,14 @@ book on a similar note. In his vision, literature has finally been defeated by
 military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
 263]. Attempts to silence print through book burning or censorship are
 viscerally obvious and met with nearly universal disapproval. Unlike
-censorship or the burning of books, modes of implicit computational governance
-over the sign proceed by clandestine means. The simulation-producing nature of
-computed text preserves the outward appearance of printed text, while
-concealing the specifics of governance and control. I mean governance and
-control in the most direct way possible, as a mode of physical regulation that
-erect barrier to production, access, and distribution of knowledge. The
-challenge of *Plain Text* will be in the description of such emerging but
-often occluded technological contingencies.
+censorship or the burning of books, hard-wired computational governance
+proceeds by clandestine means. The simulation-producing nature of computed
+text preserves the outward appearance of printed text, while concealing the
+specifics of governance and control. I mean governance and control in the most
+direct way possible, as a mode of physical regulation that erect barrier to
+production, access, and distribution of knowledge. The challenge of *Plain
+Text* will be in the description of such emerging but often occluded
+technological contingencies.
 
 A concern with the material conditions of simulated textuality leads us to a
 rich archive of materials from the history of literary theory, semiotics,
@@ -98,18 +98,17 @@ from studies on animal communication behavior, to Unix manuals, to textbooks
 on semiotics, and to foundational texts in the philosophy of aesthetics and
 literary theory.
 
-I deploy that archive to argue that extant theories of interpretation
-construct a notion of close reading based on preexisting properties and
-assumptions attached to static print media. By contrast, electronic text
-changes dynamically to suit its reader, cultural context, and geography.
-Consequently, I argue for the development of what I term *computational
-hermeneutics*, a strategy of interpretation capable of reaching past the
-surface content to reveal also the software platforms and the hardware
-infrastructures that contribute to the production of meaning.  Drawing on a
-range of materials at the intersection of literary thought and the history of
-modern computing, *Plain Text* examines a number of key literary-theoretical
-constructs, recasting the paper book as a metaphor machine and computational
-object.
+I deploy that archive to argue that extant theories of interpretation evolved
+to function under the conditions tied to static print media. By contrast,
+electronic texts are capable of changing dynamically to suit their readers,
+political conditions, or geography.  Consequently, I argue for the development
+of what I term *computational hermeneutics*, a strategy of interpretation
+capable of reaching past the surface content to reveal also the software
+platforms and the hardware infrastructures that contribute to the production
+of meaning.  Drawing on a range of materials at the intersection of literary
+thought and the history of modern computing, *Plain Text* examines a number of
+key literary-theoretical constructs, recasting the paper book as a metaphor
+machine and computational object.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning making. In technical
@@ -605,13 +604,13 @@ computer science and the study of literature. Encoding matters because how
 text is encoded, transmitted, and stored decides who gets to decode, to
 receive, and to access.
 
-The advent of computational textuality necessitates a computational
-hermeneutics, which enables unfettered access to text, code, platform, and
-infrastructure. For now, commands like *xxd*, *pcap*, *ssh*, and *traceroute*
-resemble arcane incantations that elicit hidden, symbolic action. Those who
-wield them gain the metaphorical power to "hop" across, to "sniff" packets, to
-"survey," to "traverse," and to "flood" network topographies. Computational
-hermeneutics empower the reader to resist hard-wired models of machine-bound
+The advent of simulated text necessitates a computational hermeneutics, which
+enables unfettered access to text, code, platform, and infrastructure.  For
+now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
+incantations that elicit hidden, symbolic action. Those who wield them gain
+the metaphorical power to "hop" across, to "sniff" packets, to "survey," to
+"traverse," and to "flood" network topographies. Computational hermeneutics
+empower the reader to resist hard-wired models of machine-bound
 interpretation. Yet today, resistance remains within the purview of the few.
 Plain text channels itinerant streams of data back into the tidal pools of
 human agency and comprehension for all. There, code can become intelligible
@@ -806,12 +805,12 @@ chapters to follow, the electronic literary artifact---the thing next to my
 laptop on my desk---will come fully into view as a computational device, a
 kind of a universal metaphor engendering ubiquitous simulation. At the core of
 the book's **first chapter** lies a single thought experiment about reading
-and writing machines, which, in its many variations in the works of Ludwig
-Wittgenstein, ultimately leads to the articulation of the universal Turing
-machine. Located at the origins of modern computing, the Turing machine
-embodies many of the paradoxes that continue to shape our encounter with
-digital text. At once a machine and an algorithm, the Turing machine blurs the
-boundaries between software and hardware, code and content.
+and writing machines. Articulated first in the philosophy of Ludwig
+Wittgenstein, the thought experiment ultimately led to the development of the
+universal Turing machine. An important idea in the history modern computing,
+the Turing machine embodies many of the paradoxes that continue to shape our
+encounter with digital text. At once a machine and an algorithm, the Turing
+machine blurs the boundaries between software and hardware, code and content.
 
 Once we see the book as a kind of a Turing machine, we are able to confront
 the particularity of the simulated sign. A number of significant consequences
@@ -861,8 +860,8 @@ literary scholar, another to a software engineer or a legal professional, and
 yet something entirely different to a librarian.
 
 The **fourth chapter** moves from the screen to machine internals. Somewhere
-between sites of storage and projection, the computed sign underwent series of
-transformations. These transformations usually pass under the rubric of
+between sites of storage and projection, the computed sign underwent a series
+of transformations. These transformations usually pass under the rubric of
 "formatting." The development of the formatting layer commenced with several
 "control characters" included in the machine alphabets that followed Morse
 code. Initially, these characters were limited in function to actions like
@@ -892,34 +891,33 @@ close reading of the "home" folder opens the way to the concluding chapter of
 the book.
 
 The **last chapter** returns to the question of ephemerality. Paradoxically,
-despite its emergent ephemeral qualities, simulated text diffuses through the
-system. Embedded into solid state drives and magnetic disks, inscription
-attains the quality of what Wendy Hui Kyong Chun calls the "enduring
-ephemeral" [@chun_enduring_2008, 148]. Precisely because simulated text
-adheres lightly to its medium, it has a tendency to multiply and to spread
-widely. Like the fine particles of glitter, it is difficult to contain. The
-simulated text falls apart into bits and pixels that replicate and tumble
-about the system. In this way a deleted email may still persist on the drive,
-be replicated to remote servers, and proliferate across datasets used for
-machine learning, advertising, and national intelligence. Consequently the
-structural insight from the first five chapters can ultimately yield insight
-into the social implications of the contemporary textual condition. In reading
-the letter of the law related to the Digital Millennium Copyright act, I argue
-that the facility of copying digital artifacts like books, code, or even
-object schematics for 3-D printing, necessitates a new understanding of
-digital production. In obscuring the material realities of the sign at the
-site of the inscription, the surface simulation conceals an author's
-relationship to the products of his or her labor. And despite the easy
-appearances, textual diffusion carries with it palpable environmental costs.
-The book ends with a stark image illustrating the contrast between screen
-surface and the underlying bit structure. To produce the image, I inject
-malicious code into an Adobe Acrobat file (`.pdf`). The deformed text
-threatens to damage the literary device. A thick description of the book, now
-as weapon and instrument, brings legibility to the fore of poetics. The design
-and usage of literary devices must itself become critical practice which can,
-in complement to critical theory, actively engineer for human agency. A
-discussion of technological dissent through the humanisms of Karl Marx, Hannah
-Arendt and Franz Fanon concludes the volume.
+despite its evanescent qualities, simulated text endures.  Embedded into solid
+state drives and magnetic disks, inscription attains the quality of what Wendy
+Hui Kyong Chun calls the "enduring ephemeral" [@chun_enduring_2008, 148].
+Precisely because simulated text adheres lightly to its medium, it has a
+tendency to multiply and to spread widely. Like the fine particles of glitter,
+it is difficult to contain. The simulated text falls apart into bits and
+pixels that replicate and tumble about the system.  In this way a deleted
+email may still persist on the drive, be replicated to remote servers, and
+proliferate across datasets used for machine learning, advertising, and
+national intelligence. Consequently the structural insight from the first five
+chapters can ultimately yield insight into the social implications of the
+contemporary textual condition. In reading the letter of the law related to
+the Digital Millennium Copyright act, I argue that the facility of copying
+digital artifacts like books, code, or even object schematics for 3-D
+printing, necessitates a new understanding of digital production. In obscuring
+the material realities of the sign at the site of the inscription, the surface
+simulation conceals an author's relationship to the products of his or her
+labor. And despite the easy appearances, textual diffusion carries with it
+palpable environmental costs.  The book ends with a stark image illustrating
+the contrast between screen surface and the underlying bit structure. To
+produce the image, I inject malicious code into an Adobe Acrobat file
+(`.pdf`). The deformed text threatens to damage the literary device. A thick
+description of the book, now as weapon and instrument, brings legibility to
+the fore of poetics. The design and usage of literary devices must itself
+become critical practice which can, in complement to critical theory, actively
+engineer for human agency. A discussion of technological dissent through the
+humanisms of Karl Marx, Hannah Arendt and Franz Fanon concludes the volume.
 
 ## 0.6 Scale
 
