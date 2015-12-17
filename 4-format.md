@@ -161,16 +161,16 @@ The invention ultimately enables the "organizing, accessing, and querying of
 information unique to physical libraries in an electronic workstation
 environment" [@pajak_electronic_1992, 1]. Setting aside, for a moment, the
 peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
-technical language. What does it mean to "access" a metaphor? When one "checks
-out" a book from the electronic library, does not gain access to the book or
-to the metaphor? The traditional theory of the metaphor does not prepare us to
-answer such questions. In the so-called classical view, metaphors are simply a
-type of figurative language. To say "the day stands tiptoe on the misty
-mountain tops" is to use the verb "stand" in a novel linguistic context. Days
-have no literal legs to stand on. John Searle, John Lakoff, and Mark Turner,
-among others, have argued that metaphor is a more broadly a cognitive
-phenomenon, mapping distinct ontological categories across "conceptual
-domains" [@lakoff_metaphors_1980; @turner_death_1987;
+technical language. What does it mean to "access" a metaphor? When someone
+"checks out" a book from the electronic library, do they gain access to the
+book or to the metaphor? The traditional theory of the metaphor does not
+prepare us to answer such questions. In the so-called classical view,
+metaphors are simply a type of figurative language. To say "the day stands
+tiptoe on the misty mountain tops" is to use the verb "stand" in a novel
+linguistic context. Days have no literal legs to stand on. John Searle, John
+Lakoff, and Mark Turner, among others, have argued that metaphor is a more
+broadly a cognitive phenomenon, mapping distinct ontological categories across
+"conceptual domains" [@lakoff_metaphors_1980; @turner_death_1987;
 @lakoff_contemporary_1998, @searle_metaphor_1998]. In the modified view, even
 such basic semantic concepts as "state, quantity, action, cause, purpose,
 means, modality" are metaphorical in nature [@lakoff_metaphorical_1980;
@@ -236,25 +236,29 @@ to say that it can *do* anything. One cannot use a computational device to
 hammer nails, for example. But a computer can be used to extend the metaphor
 of hammering nails into the virtual realm.
 
-Xerox a number of patents Stuart Kent Card.
-
-"Word correction metaphor" from microsoft. [@rozak_method_1999].
-
-"The contents of the notebook metaphor are displayed as a stack of sheets."
-"In this wya, the interface in accordance with the invention permits a user to
-directly manipulate the sheets in the notebook metaphor"
-[@glaser_graphical_1995].
-
-International Business Machines a number of patents.
-
-"On-line electronic books are stored in remote storage devices and accessible
-through a server or other type of interface device. A bookcase is created and
-stored in a local storage device. Appropriate electronic links are supplied in
-order to access an electronic book from the bookcase. The bookcase provides a
-library metaphor that allows a user to organize the online books in a manner
-that has meaning and utility to the user."
-
-Carroll gets it wrong. Metaphors do not enable learning.
+A number of patents from IBM, Xerox, and Microsoft rely on the language of
+metaphor extensions. Consider United States Patent #5,907,854 by Paula J. Cox
+et.al. of International Business Machines in Armonk, New York. The invention
+describes "a library metaphor that allows a user to organize the online books
+in a manner that has meaning and utility." The authors go on to explain that
+"while the actual books may be store in many separate and distinct locations
+[...] the bookcase provides a familiar classification system." The go on to
+write that the creation of bookcase metaphors involves "the creation of
+appropriate links to the actual online book/bookshelf/bookcase." The "book
+metaphor" ultimately "provides an easy to understand and intuitive model for a
+user who might not be familiar with on-line viewing tools" [@cox_method_1999].
+Similarly, the influential product design firm IDEO worked with Xerox on
+improving company's file manager shell PC Catalog, later renamed to TabWorks.
+In describing the design process, IDEO developers wrote about defining "key
+elements of the metaphor" contained in the image of "tabs" and "catalogs."
+"The book *cover*," they wrote, "opened to display three *rings* binding a set
+of divider *tabs*, each containing one or more *pages*." Pages, in turn
+contained *items* or "icons representing documents or applications"
+[@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
+application, the engineers at IBM describe the "contents of the notebook
+metaphor," which are "displayed as a stack of sheets." "In this way, the
+interface in accordance with the invention permits a user to directly
+manipulate the sheets in the notebook metaphor" [@glaser_graphical_1995].
 
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
@@ -262,17 +266,17 @@ discarded after purchase, the vessels of computation resemble little factories
 for the production of meaning. Imagine me asking you to read Shakespeare's
 *Hamlet*, for example, by lending you a copy of the text. In the case of a
 paper book, I may be sure that the text in my hands will remain the same as I
-pass it into yours.  But the computed sign has the capability to adjust itself
+pass it into yours. But the computed sign has the capability to adjust itself
 to new contexts. The simulated *Hamlet* may adapt itself to the new reader's
 geographic location, mood, or political affiliation. Far from being outside of
 the realm of possibilities, it is likely that in fact, most of the texts we
 consume today come to us in such algorithmically personalized way. Algorithms
 ubiquitously tailor streams of online news and updates, for example, to suit
 readers preferences. Under the computed sign, *nothing* is guaranteed in the
-passage of text from one pair of hands to another. Digital formatting expands
-its purview far beyond typographical convention. The erasure of words, word
-substitution, automatic summarization, wholesale generation of discourse by
-algorithmic means---the command and control layer contains all such
+passage of text from one pair of hands into another. Digital formatting
+expands its purview far beyond typographical convention. The erasure of words,
+word substitution, automatic summarization, wholesale generation of discourse
+by algorithmic means---the command and control layer contains all such
 possibilities. I will begin by identifying a feature of formalist thought that
 has long given me pause. The very concept of form, central to literary
 analysis, contains in it two conflicting ideas. Going back to reception of
@@ -308,8 +312,6 @@ shaping every digital document. Finally, I would like to extend computational
 formalism towards its speculative and as yet unrealized edge cases. In the
 conclusion, we will consider the possibility of literature without language,
 discourse without structure, and art without representation.
-
-Understanding objects of computation in their metaphysical splendor.
 
 ## Form and Content
 
