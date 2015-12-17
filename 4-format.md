@@ -145,6 +145,32 @@ default location of personal files on many systems. When confronted with the
 actual affordances of digital text, the user grasps for neutered metaphors. We
 "reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
+In this chapter, I propose we approach form and formatting anew, with fresh
+eyes. I will begin by arguing first that the intellectual history of formalism
+literary theory contains within two distinct and contradictory ideas about
+form: one about the outward shape of the sign and another about the inward
+structure or formula that governs semiotics. The distinction is important
+because it leads to several conflicting strategies of interpretation. Taken in
+the sense of "outwards shape," the form suggests an aesthetics or even an
+"erotics" of art [@sontag_against_1966]. On this view, a sign is forever
+embedded into the specific contexts of its instantiation. The physical
+peculiarity of this word makes it forever different from the same word on a
+different page. Taken as formula, form suggests a more analytical approach,
+aimed at explicating hidden structures. Formal analysis in that sense studies
+not specific traces or utterances, but the development of ideal forms, which
+exist independent of any specifics.
+
+The distinction between form, format, and formula will give us the vocabulary
+to discuss the codification of document structure in the second part of the
+chapter. As I will argue, some of the same intuitions guiding the intellectual
+history of formalism became ingrained in the material contingencies of word
+processing emerging in the middle of the twentieth century. A kind of a
+computational formalism will give us the means to reveal a layer of formatting
+shaping every digital document. Finally, I would like to extend computational
+formalism towards its speculative and as yet unrealized edge cases. In the
+conclusion, we will consider the possibility of literature without language,
+discourse without structure, and art without representation.
+
 ## Metaphor Machine
 
 Consider the following passage from a patent filed by Xerox in 1991. It
@@ -260,7 +286,52 @@ metaphor," which are "displayed as a stack of sheets." "In this way, the
 interface in accordance with the invention permits a user to directly
 manipulate the sheets in the notebook metaphor" [@glaser_graphical_1995].
 
-In the language of literary theory a metaphor is said to be "motivated"
+In poetics, a metaphor is said to be "motivated" when a set of concepts from
+one domain extends into another to produce insight [@lakoff_contemporary_1998,
+210-1]. Lakoff explains that to say something like "to spin one's wheels" when
+referring to someone who is thinking is to apply the reader's knowledge of
+automobiles to the mental realm. The speaker may have a notion that spinning
+wheels waste energy without moving the car forward. The metaphor suggests that
+something like that is happening mentally as well [@lakoff_contemporary_1998,
+211]. Poetic metaphor works similar to idiomatic language in suggesting novel
+and hitherto unexplored connections between domains. In his influential essays
+on metaphor the English literary critic I.A. Richards explains that "when we
+use metaphor we have two thoughts of different things active together and
+supported by a single word, or phrase, whose meaning is a resultant of their
+interaction" [@richards_philosophy_1936, 95]. Richards's radical contribution
+to the study of metaphor lie in the observation that metaphor operates in
+language, thought, and action ubiquitously. It did not, as previously thought,
+exist merely in the realm of poetic language. Thought in itself, Richards
+believed, is metaphoric in that the mind continually searches for patterns and
+comparisons [@richards_philosophy_1936, 94].
+
+Yet Richards also clearly believed that some metaphors were more productive
+than others. The poetic use of the metaphor did not merely carry meaning
+across known domains, it produced new and unexpected connections between them.
+To this effect, Richards cites the poet Percy Shelley who wrote the following
+in defence of poetry:
+
+> [poetic] language is vitally metaphorical; that is, it marks the before
+> unapprehended relations of things and perpetuates their apprehension, until
+> the words which represent them, become, through time, signs for portions or
+> classes of thoughts instead of pictures of integral thoughts; and then if no
+> new poets should arise to create afresh the associations which have been
+> thus disorganized, language will be dead to all the nobler purposes of human
+> intercourse [@shelley_essays_1840].
+
+Shelley anticipates what the cognitive school of metaphor theory was to
+confirm by empirical means more than a century later [@mojtabai_delusion_2000;
+@billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
+but also become naturalized: that is understood literally. For many readers,
+for example, the very idea of a "dead metaphor" itself no longer evoke death.
+Rather they understand "dead metaphors" to function as a unremarkable synonym
+for "conventional," "idiomatic," or "unproductive" [^ln-dead]. In this way
+Shelley describes the lifecycle of a typical metaphor. At its most productive,
+the metaphor produces new meaning. The creative juxtaposition between two as
+before unrelated domains brings new aspects of experience to light. But with
+time, the poetic metaphor becomes a tired cliché. It longer "perpetuates
+understanding." It dies in a sense to become a mere shortcut to understanding.
+
 
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
@@ -288,32 +359,6 @@ just as often, critics use "form" in the sense of a Platonic ideal: abstracted
 from matter, inward-facing, and in need of explication. Form in that sense is
 closer to the idea of an algorithm of a formula. It is the lasting hidden
 archetype that gives rise to temporary outward appearances.
-
-In this chapter, I propose we approach form and formatting anew, with fresh
-eyes. I will begin by arguing first that the intellectual history of formalism
-literary theory contains within two distinct and contradictory ideas about
-form: one about the outward shape of the sign and another about the inward
-structure or formula that governs semiotics. The distinction is important
-because it leads to several conflicting strategies of interpretation. Taken in
-the sense of "outwards shape," the form suggests an aesthetics or even an
-"erotics" of art [@sontag_against_1966]. On this view, a sign is forever
-embedded into the specific contexts of its instantiation. The physical
-peculiarity of this word makes it forever different from the same word on a
-different page. Taken as formula, form suggests a more analytical approach,
-aimed at explicating hidden structures. Formal analysis in that sense studies
-not specific traces or utterances, but the development of ideal forms, which
-exist independent of any specifics.
-
-The distinction between form, format, and formula will give us the vocabulary
-to discuss the codification of document structure in the second part of the
-chapter. As I will argue, some of the same intuitions guiding the intellectual
-history of formalism became ingrained in the material contingencies of word
-processing emerging in the middle of the twentieth century. A kind of a
-computational formalism will give us the means to reveal a layer of formatting
-shaping every digital document. Finally, I would like to extend computational
-formalism towards its speculative and as yet unrealized edge cases. In the
-conclusion, we will consider the possibility of literature without language,
-discourse without structure, and art without representation.
 
 ## Form and Content
 
@@ -1364,4 +1409,8 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
 before, and placed on its feet again" (44).  p5
+
+
+[^ln-dead]: For a book length summary on this very topic see
+@muller_metaphors_2008.
 

@@ -1422,10 +1422,11 @@ their sign and to an extent depending on their intensity" [@pollak_means_1900].
 
 [^ln3-dervish]: One could make more of the Dervish being used here as a
 negative example, in an instance of colonial gaze. But Murray himself was an
-empire outsider, born in the small, remote town of Invercargill, New Zealand (a
-town that also happens to be one of the southern-most cities in world). "I am a
-child of the Southern Cross," he writes in *Philosophy of Power*, "and I have
-no preordained respect for geniuses born under the Northern constellations" [@murray_philosophy_1939, 51].
+empire outsider, born in the small, remote town of Invercargill, New Zealand
+(a town that also happens to be one of the southern-most cities in world). "I
+am a child of the Southern Cross," he writes in *Philosophy of Power*, "and I
+have no preordained respect for geniuses born under the Northern
+constellations" [@murray_philosophy_1939, 51].
 
 [^ln3-swedenborg]: See @swedenborg_treatise_1778, regarding the "gross error of
 those who assert the materiality of the soul, affirming it to be homogeneous,
@@ -1460,4 +1461,3 @@ apprehension.
 [^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
 multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
 @deleuze_bergsonism_1990.
-
