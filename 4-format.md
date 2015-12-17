@@ -260,6 +260,8 @@ metaphor," which are "displayed as a stack of sheets." "In this way, the
 interface in accordance with the invention permits a user to directly
 manipulate the sheets in the notebook metaphor" [@glaser_graphical_1995].
 
+In the language of literary theory a metaphor is said to be "motivated"
+
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and
 discarded after purchase, the vessels of computation resemble little factories
