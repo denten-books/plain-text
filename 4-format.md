@@ -50,14 +50,13 @@ programmatic sign does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
-the maximally blunt limit of its abilities, the formatting layer affects
+dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
+maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide the text from view
-completely or to make so small as to be illegible belong to the non-decorative
-property of the formatting, affecting not just the style but the politics of
-text. Formatting, in that sense, can determine those who get to speak and
-those who get to access.
+completely or to make so small as to be illegible affects not just the style
+but the politics of text. Formatting, in that sense, can determine its
+audience, privileging certain voices and modes of access over others.
 
 Unlike figurative language, formatting codes and programming languages
 function in the imperative. They do not stand for action---they are action.
@@ -101,30 +100,32 @@ contrary, maintaining that formats could only seem insignificant when they
 were few and simple. The transition between static and dynamic layouts
 necessitates renewed attention to form and format. What you saw is what you
 got on the page. On the screen, what you see is but a small part of what you
-get. The "content"---all that is contained on a page, shifts constantly
-beneath the projected image. To put it another way: the computed sign
-circulates in novel and sophisticated formats like files and folders,
-databases and linked lists. More than passive conduits of meaning, these data
-structures shape the encounter with text.
+get. The "content"---all that is contained on a page, shifts beneath the
+projected image. Unlike print, the computed sign circulates in novel and
+sophisticated formats like files and folders, databases and linked lists.
+More than passive conduits of meaning, these data structures shape the
+encounter with text.
 
 Think of it this way: even the familiar paragraph structure presents
-interesting complications. In shaping typographical space on the page the
-paragraph suggests corresponding mental units. A unit of language is thus
-also, in some sense, a unit of thought. But no such structures as paragraphs
-exist in the mind. At the level of physiology, the brain arrays information
-otherwise. Things get significantly more complicated when the paragraph acts
-to mediate between the mind and the page on the one side of comprehension, and
-the page and the machine on the other. Just like there is nothing inherently
-paragraph-like in the neural arrangement of the brain, there is also nothing
-inherently paragraph-like or page-like in the arrangement of bits along the
-surface of the magnetic disk or the solid state drive. We are presented
-instead with metaphors of paragraphs, pages, files, and folders. When reading
-electronically, we manipulate information through familiar mediating
-structures. Thus one "drops a folder into the trash bin" or "drags and drops a
-file" or "bookmarks a page." Such metaphors open new figurative
-possibilities---one cannot literally "drag" or "drop" bits otherwise. But they
-also obscure the actual physical contingencies of interacting with bits and
-bytes, logic gates and magnetic traces.
+interesting complications. In claiming typographical space on a page the
+paragraph suggests corresponding mental units. A unit of written language thus
+also becomes in some sense a unit of thought. But no such structures as
+paragraphs exist in the mind. At the level of physiology, the brain arranges
+information otherwise. Things get significantly more complicated when the
+paragraph acts to mediate between the mind and the page on the one side of
+comprehension, and the page and the machine on the other. Just like there is
+nothing inherently paragraph-like in the neural arrangement of the brain,
+there is also nothing inherently paragraph-like or page-like in the
+arrangement of bits along the surface of the magnetic disk or the solid state
+drive. We are presented instead with metaphors of paragraphs, pages, files,
+and folders. The paragraph mediates between mental image and inscription. When
+reading electronically, we prefer to manipulate information through familiar
+mediating structures like folders, pages, and paragraphs. Thus one "drops a
+folder into the trash bin" or "drags and drops a file" or "bookmarks a page."
+Such metaphors open new figurative possibilities---one cannot literally "drag"
+or "drop" bits otherwise. But they also obscure the actual physical
+contingencies of interacting with bits and bytes, logic gates and magnetic
+traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
@@ -138,17 +139,11 @@ metaphor alone. Thus we "turn the page" but in reality redraw the screen. We
 passage to a data aggregation service. We "share a book" but in reality assign
 a temporary license to another user. Where did the text go? someone asks when
 downloading a paper from an online journal.[^ln4-nested] It is in your "home"
-I answer.  But neither of us have a mental map of any physical location
-corresponding to the "home" directory, the default location of personal files
-on many systems.  When confronted with the actual affordances of digital text,
-the user grasps for neutered metaphors. We "reside" in such homes, "own,"
-"share," and "create" only in the simulacrum.
-
-[ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
-really hold texts. The idea of "text" identifies a segment of stored memory
-coupled with control codes that govern layout and projection in specific
-material context. Together, these diverse signals and physical affordances
-create the illusion of a single text.
+I answer.  But unless one of us is a system administrator, neither has a
+mental map of any physical location corresponding to the "home" directory, the
+default location of personal files on many systems. When confronted with the
+actual affordances of digital text, the user grasps for neutered metaphors. We
+"reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
 ## Metaphor Machine
 
@@ -195,8 +190,8 @@ The transference of *physical properties* from one system to another--from
 "physical libraries" to "electronic workstations environments," in our case--
 suggests the existence of yet another class of *interface* metaphors.
 Metaphors that can be touched and handled in some way exist neither wholly in
-language nor wholly in the mind, but also in action, at hand. In a seminal
-paper on the topic, John Carrol, one of the pioneers in the field of
+language nor wholly in the mind. Rather, they operate in action, at hand. In a
+seminal paper on the topic, John Carrol, one of the pioneers in the field of
 human--computer interaction, summarized the role of metaphors in the design of
 computing systems as follows:
 
@@ -1345,6 +1340,12 @@ transcendental signified, is never absolutely present outside a system of
 differences. The absence of the transcendental signified extends the domain and
 the interplay of signification ad infinitum" (278-294).
 
+[ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
+really hold texts. The idea of "text" identifies a segment of stored memory
+coupled with control codes that govern layout and projection in specific
+material context. Together, these diverse signals and physical affordances
+create the illusion of a single text.
+
 [^ln2-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
 and material forms of life, over "back to his feet." See for example
@@ -1359,3 +1360,4 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
 before, and placed on its feet again" (44).  p5
+
