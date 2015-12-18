@@ -1079,7 +1079,6 @@ for Information Science. Washington, 1972, pp. 159-196.
 
 End with Flusser. Home. Heimat. Umwelt.
 
-## 5.3 Plain Text in Unix
 
 Unix Home
 Tara McPherson

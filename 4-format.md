@@ -326,12 +326,32 @@ but also become naturalized: that is understood literally. For many readers,
 for example, the very idea of a "dead metaphor" itself no longer evoke death.
 Rather they understand "dead metaphors" to function as a unremarkable synonym
 for "conventional," "idiomatic," or "unproductive" [^ln-dead]. In this way
-Shelley describes the lifecycle of a typical metaphor. At its most productive,
-the metaphor produces new meaning. The creative juxtaposition between two as
-before unrelated domains brings new aspects of experience to light. But with
-time, the poetic metaphor becomes a tired cliché. It longer "perpetuates
-understanding." It dies in a sense to become a mere shortcut to understanding.
+Shelley describes the life-cycle of a typical metaphor. At its most
+productive, the metaphor produces new meaning. The creative juxtaposition
+between two as before unrelated domains brings new aspects of experience to
+light. But with time, the poetic metaphor becomes a tired cliché. It longer
+"perpetuates understanding." It dies in a sense to become a mere shortcut to
+understanding. Lakoff famously took exception with the idea "dead metaphor,"
+arguing that even those metaphors that are thoroughly habituated still play a
+vital part in structuring everyday experience. He gives the example of the
+sentence: *He still can't quite grasp the basic ideas of quantum mechanics*.
+Grasping in this case is used as a synonym to "understanding." It indicates a
+transference of properties between physical thought and mental space. The
+metaphor is very much alive, Lakoff writes, because it continues to function
+widely. It is more alive in a sense that some other "one off" poetic metaphors
+that do not enjoy cultural salience. A truly dead metaphor for Lakoff is one
+in which the original source image no longer makes sense, like the word
+*pedigree* which alludes to the French "crane's foot," used historically to
+decorate family-tree diagrams. Unlike "grasping ideas" where both sides of the
+domain transference are still available to the reader, the "crane's foot"
+contained within the English *pedigree* is no longer accessible to the average
+speaker. The idea of a dead metaphor does not appropriatly differentiate
+between these two cases, according to Lakoff [@lakoff_death_1987].
 
+What do the dead interface metaphors occlude?
+
+"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
+261]. "things not dead or killed by custom" "his own production"
 
 The metaphors of human-computer interaction hide the true material conditions
 of the computed sign. More than a parchment packet to be unwrapped and

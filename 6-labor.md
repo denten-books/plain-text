@@ -1,4 +1,4 @@
-# Chapter 6: Labor?
+# Chapter 6: Labor
 
 Estrangement vs. alienation.
 ## Copy
