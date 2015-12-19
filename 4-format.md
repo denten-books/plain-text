@@ -147,10 +147,40 @@ default location of personal files on many systems. When confronted with the
 actual affordances of digital text, the user grasps for neutered metaphors. We
 "reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
-### Chapter Summary
+The metaphors of human-computer interaction hide the true material conditions
+of the computed sign. More than a parchment packet to be unwrapped and
+discarded after purchase, the vessels of computation resemble little factories
+for the production of meaning. Imagine me asking you to read Shakespeare's
+*Hamlet*, for example, by lending you a copy of the text. In the case of a
+paper book, I may be sure that the text in my hands will remain the same as I
+pass it into yours. But the computed sign has the capability to adjust itself
+to new contexts. The simulated *Hamlet* may adapt itself to the new reader's
+geographic location, mood, or political affiliation. Far from being outside of
+the realm of possibilities, it is likely that in fact, most of the texts we
+consume today come to us in such algorithmically personalized way. Algorithms
+ubiquitously tailor streams of online news and updates, for example, to suit
+readers preferences. Under the computed sign, *nothing* is guaranteed in the
+passage of text from one pair of hands into another. Digital formatting
+expands its purview far beyond typographical convention. The erasure of words,
+word substitution, automatic summarization, wholesale generation of discourse
+by algorithmic means---the command and control layer contains all such
+possibilities.
+
+I begin the chapter by identifying a feature of formalist thought that has
+long given me pause. The very concept of form, central to literary analysis,
+contains in it two conflicting ideas. Going back to reception of Plato, Hegel,
+and the Russian formalists, the English "form" renders at times the material,
+outward, and apparent shape of something said or pictured. Yet just as often,
+critics use "form" in the sense of a Platonic ideal: abstracted from matter,
+inward-facing, and in need of explication. Form in that sense is closer to the
+idea of an algorithm of a formula. It is the lasting hidden archetype that
+gives rise to temporary outward appearances.
 
 In this chapter, I propose we to encounter the computational metaphor anew,
-with fresh eyes. I will begin by arguing first that the intellectual history
+with fresh eyes. I will begin by outlining a few salient features of the
+computational metaphor. The metaphor breaks when its 
+
+arguing first that the intellectual history
 of formalism literary theory contains within two distinct and contradictory
 ideas about form: one about the outward shape of the sign and another about
 the inward structure or formula that governs semiotics. The distinction is
@@ -170,10 +200,7 @@ chapter. As I will argue, some of the same intuitions guiding the intellectual
 history of formalism became ingrained in the material contingencies of word
 processing emerging in the middle of the twentieth century. A kind of a
 computational formalism will give us the means to reveal a layer of formatting
-shaping every digital document. Finally, I would like to extend computational
-formalism towards its speculative and as yet unrealized edge cases. In the
-conclusion, we will consider the possibility of literature without language,
-discourse without structure, and art without representation.
+shaping every digital document.
 
 ## Metaphor Machine
 
@@ -234,12 +261,12 @@ metaphors in learning about computing systems, [MISSING WORD] of those systems
 should anticipate and support likely metaphorical constructions to increase
 the ease of learning and using the system [@carroll_metaphor_1982, 107-108]."
 
-In essence, Carroll imagines the design of computer system interfaces that
-enact Lakoff and Johnson's "conceptual blending" in practice. In this way, the
-familiar gesture of discarding a crumpled piece of paper into the waste bin
-can be simulated digitally to handle the deletion of electronic documents.
-Apple's influential *Human Interface Guidelines*, at the core of Apple's
-desktop interfaces in the 1980s, echo Carroll proscriptions:
+In essence, Carroll imagines human--computer interfaces that enact Lakoff and
+Johnson's "conceptual blending" in practice. In this way, the familiar gesture
+of discarding a crumpled piece of paper into the waste bin can be simulated
+digitally to handle the deletion of electronic documents.  Apple's influential
+*Human Interface Guidelines*, at the core of Apple's desktop interfaces in the
+1980s, echo Carroll proscriptions:
 
 > You can take advantage of people's knowledge of the world around them by
 using metaphors to convey concepts and features of your application. Use
@@ -335,7 +362,12 @@ productive, the metaphor produces new meaning. The creative juxtaposition
 between two as before unrelated domains brings new aspects of experience to
 light. But with time, the poetic metaphor becomes a tired cliché. It longer
 "perpetuates understanding." It dies in a sense to become a mere shortcut to
-understanding.
+understanding. We "cease to experience" the trope, Viktor Shklovsky wrote in
+1914. The metaphor dies when we begin recognizing it without apprehension
+[@shklovsky_voskreshenie_1914].
+
+"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
+261]. "things not dead or killed by custom" "his own production"
 
 Lakoff famously took exception with the idea "dead metaphor," arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
@@ -359,44 +391,30 @@ times, the metaphor dies in the sense of one domain becoming no longer
 accessible to its user. Furthermore, a wholly unmotivated metaphor does no
 work at all. Thus the non-sensual riddle famously posed by the mad hatter to
 Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
-desk?[^ln4-carroll]
+desk? The dissimilarity between the two domains---of animals and of
+furniture---prevents productive congruence.[^ln4-carroll]
 
-Both literary poetics and the poetics of human--computer interaction
-ultimately imply something like a 
+This may be good moment to pause and to take stock of the work we have done so
+far. I observe first that the design of modern human--computer interfaces
+makes heavy use of metaphor in the mode of "conceptual blending." Second, I
+locate the idea of "conceptual blending" within the lineage of literary
+poetics. The work of researchers in human--computer interaction like John
+Carroll and Stuart Card relies on insight from cognitive linguists like George
+Lakoff and Mark Johnson. The conceptual or cognitive blending school pioneered
+by Lakoff and Johnson in turn represents a development of metaphor theory with
+roots in the works of Percy Shelley, Viktor Shklovsky, and I.E. Richards.
+Finally, I note that metaphors understood in this tradition succeed and fail
+in interesting ways. They succeed when the metaphor connects ideas from two
+differing conceptual domains. At the very least, blending plays an important
+instrumental in everyday cognitive activity [@lakoff_metaphors_1980]. At its
+best, conceptual blending enables learning and discovery
+[@carroll_interface_1987; @card_methods_2006]. A vital metaphor revitalizes
+human experience and produces new knowledge about the world
+[@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
+
+## Content and form (tenor and vehicle)
 
 What do the dead interface metaphors occlude?
-
-"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
-261]. "things not dead or killed by custom" "his own production"
-
-The metaphors of human-computer interaction hide the true material conditions
-of the computed sign. More than a parchment packet to be unwrapped and
-discarded after purchase, the vessels of computation resemble little factories
-for the production of meaning. Imagine me asking you to read Shakespeare's
-*Hamlet*, for example, by lending you a copy of the text. In the case of a
-paper book, I may be sure that the text in my hands will remain the same as I
-pass it into yours. But the computed sign has the capability to adjust itself
-to new contexts. The simulated *Hamlet* may adapt itself to the new reader's
-geographic location, mood, or political affiliation. Far from being outside of
-the realm of possibilities, it is likely that in fact, most of the texts we
-consume today come to us in such algorithmically personalized way. Algorithms
-ubiquitously tailor streams of online news and updates, for example, to suit
-readers preferences. Under the computed sign, *nothing* is guaranteed in the
-passage of text from one pair of hands into another. Digital formatting
-expands its purview far beyond typographical convention. The erasure of words,
-word substitution, automatic summarization, wholesale generation of discourse
-by algorithmic means---the command and control layer contains all such
-possibilities. I will begin by identifying a feature of formalist thought that
-has long given me pause. The very concept of form, central to literary
-analysis, contains in it two conflicting ideas. Going back to reception of
-Plato, Hegel, and the Russian formalists, the English "form" renders at times
-the material, outward, and apparent shape of something said or pictured. Yet
-just as often, critics use "form" in the sense of a Platonic ideal: abstracted
-from matter, inward-facing, and in need of explication. Form in that sense is
-closer to the idea of an algorithm of a formula. It is the lasting hidden
-archetype that gives rise to temporary outward appearances.
-
-## Form and Content
 
 ### Establish the binary
 
