@@ -1,6 +1,8 @@
 # Chapter 4: Format
 `form, format, formula`
 
+## Introduction
+
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
@@ -145,20 +147,22 @@ default location of personal files on many systems. When confronted with the
 actual affordances of digital text, the user grasps for neutered metaphors. We
 "reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
-In this chapter, I propose we approach form and formatting anew, with fresh
-eyes. I will begin by arguing first that the intellectual history of formalism
-literary theory contains within two distinct and contradictory ideas about
-form: one about the outward shape of the sign and another about the inward
-structure or formula that governs semiotics. The distinction is important
-because it leads to several conflicting strategies of interpretation. Taken in
-the sense of "outwards shape," the form suggests an aesthetics or even an
-"erotics" of art [@sontag_against_1966]. On this view, a sign is forever
-embedded into the specific contexts of its instantiation. The physical
-peculiarity of this word makes it forever different from the same word on a
-different page. Taken as formula, form suggests a more analytical approach,
-aimed at explicating hidden structures. Formal analysis in that sense studies
-not specific traces or utterances, but the development of ideal forms, which
-exist independent of any specifics.
+### Chapter Summary
+
+In this chapter, I propose we to encounter the computational metaphor anew,
+with fresh eyes. I will begin by arguing first that the intellectual history
+of formalism literary theory contains within two distinct and contradictory
+ideas about form: one about the outward shape of the sign and another about
+the inward structure or formula that governs semiotics. The distinction is
+important because it leads to several conflicting strategies of
+interpretation. Taken in the sense of "outwards shape," the form suggests an
+aesthetics or even an "erotics" of art [@sontag_against_1966]. On this view, a
+sign is forever embedded into the specific contexts of its instantiation. The
+physical peculiarity of this word makes it forever different from the same
+word on a different page. Taken as formula, form suggests a more analytical
+approach, aimed at explicating hidden structures. Formal analysis in that
+sense studies not specific traces or utterances, but the development of ideal
+forms, which exist independent of any specifics.
 
 The distinction between form, format, and formula will give us the vocabulary
 to discuss the codification of document structure in the second part of the
@@ -331,22 +335,34 @@ productive, the metaphor produces new meaning. The creative juxtaposition
 between two as before unrelated domains brings new aspects of experience to
 light. But with time, the poetic metaphor becomes a tired cliché. It longer
 "perpetuates understanding." It dies in a sense to become a mere shortcut to
-understanding. Lakoff famously took exception with the idea "dead metaphor,"
-arguing that even those metaphors that are thoroughly habituated still play a
-vital part in structuring everyday experience. He gives the example of the
-sentence: *He still can't quite grasp the basic ideas of quantum mechanics*.
-Grasping in this case is used as a synonym to "understanding." It indicates a
-transference of properties between physical thought and mental space. The
-metaphor is very much alive, Lakoff writes, because it continues to function
-widely. It is more alive in a sense that some other "one off" poetic metaphors
-that do not enjoy cultural salience. A truly dead metaphor for Lakoff is one
-in which the original source image no longer makes sense, like the word
-*pedigree* which alludes to the French "crane's foot," used historically to
-decorate family-tree diagrams. Unlike "grasping ideas" where both sides of the
-domain transference are still available to the reader, the "crane's foot"
-contained within the English *pedigree* is no longer accessible to the average
-speaker. The idea of a dead metaphor does not appropriatly differentiate
-between these two cases, according to Lakoff [@lakoff_death_1987].
+understanding.
+
+Lakoff famously took exception with the idea "dead metaphor," arguing that
+even those metaphors that are thoroughly habituated still play a vital part in
+structuring everyday experience. He gives the example of the sentence: *He
+still can't quite grasp the basic ideas of quantum mechanics*.  Grasping in
+this case is used as a synonym to "understanding." It indicates a transference
+of properties between physical thought and mental space. The metaphor is very
+much alive, Lakoff writes, because it continues to function widely. It is more
+alive in a sense that some other "one off" poetic metaphors that do not enjoy
+cultural salience. A truly dead metaphor for Lakoff is one in which the
+original source image no longer makes sense, like the word *pedigree* which
+alludes to the French "crane's foot," used historically to decorate
+family-tree diagrams. Unlike "grasping ideas" where both sides of the domain
+transference are still available to the reader, the "crane's foot" contained
+within the English *pedigree* is no longer accessible to the average speaker.
+The idea of a dead metaphor does not appropriately differentiate between these
+two cases, according to Lakoff and his adherents [@lakoff_death_1987;
+@muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
+perform its function of intuitively connecting two disparate domain. At other
+times, the metaphor dies in the sense of one domain becoming no longer
+accessible to its user. Furthermore, a wholly unmotivated metaphor does no
+work at all. Thus the non-sensual riddle famously posed by the mad hatter to
+Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
+desk?[^ln4-carroll]
+
+Both literary poetics and the poetics of human--computer interaction
+ultimately imply something like a 
 
 What do the dead interface metaphors occlude?
 
@@ -1150,137 +1166,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## Speculative Formalism
-
-In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
-Halstead noted that "the practical upper limits of speed will also be limited
-by the ability of some human beings to operate a keyboard, until such time as
-electrical connection be made direct with the receiver's central nervous
-system" [@halstead_genesis_1949, 451].
-
-Speculative formalism involves imagining structures on the cusp of being. The 
-
-The second and more radical idea related to non-representational elements of
-communication lies in the possibility of "direct" brain-to-brain interfaces.
-F16. Joystick that feels. The electrical system we saw emerge in chapters one
-and two can be wired directly in the central nervous system. Not science
-fiction. But note that communication is only direct in the sense that the
-sender and the receiver of such a message do not have recourse to external
-representation. Yet, such communication would still be subject to conditions we
-have already explored in the telegraph chapter. Something has to mediate: to
-translate between brain impulses and the transmission apparatus. Such "direct"
-communication would therefore still be mediated. Can literature survive non
-representation. I want to imagine.
-
-Essential for the practices of unencumbered critical thought, control
-structures exist in the gaps within the splintered sign. Ultimately, parts of
-the inscription that remain invisible affect more than typesetting
-characteristics. They shape the very structure of interpretation. The
-seemingly innocuous control and formatting layer contains the essence of
-machine control. Long a marginal concept in literary theory, formatting is
-therefore central to the practice of computational hermeneutics. Far from
-mere inconsequential embellishment, formatting governs the interface between
-meaning and matter, thought and page. It has the capability to embellish, to
-obscure, to censor, to govern, and to emend.
-
-The attached documents illustrate my thesis in practice. In the first image
-the reader will find a visual "dotplot" representation of Laurence Sterne's
-*The Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file
-format. To produce the image, I use the Helfman's self-similarity dotplot
-approach. Dotplots, as Helfman explains, "reveal similarity structures in data
-regardless of format and in text and software regardless of language"
-[@helfman_dotplot_1996]. They can be used for authorship identification,
-plagiarism detection, or to find similarity in genetic material. The
-following, is a simple dotplot from Shakespeare:
-
-+----+---+---+---+----+---+---+
-|    |to |be |or |not |to |be |
-+====+===+===+===+====+===+===+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-|or  |   |   | • |    |   |   |
-+----+---+---+---+----+---+---+
-|not |   |   |   | •  |   |   |
-+----+---+---+---+----+---+---+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-
-Table: "Six words of Shakespeare." @helfman_dotplot_1996
-
-When applied to raw, binary data, self-similarity plots can be used to study
-data structures, to identify security threats, and to reverse engineer unknown
-file types. Note that, at this level, we are not observing patterns of meaning
-(as repetition of words or word clusters), but rather structural patterns in
-the underlying bit structure. We cannot tell from the image what these
-structures mean, only that they have a particular shape. Structure, in this
-sense, indicates architecture by human hand. We expect random data to render
-into undifferentiated patternless noise. By contrast, file formats, like the
-common `.docx` and `.mobi` files, will leave a recognizable signature, even
-when corrupted. The sparse topography of the `.txt` file in the first image
-indicates a relative paucity in bit types.  Plain text formats are limited to
-human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
-file). The square on the lower right likely represents lower case letters,
-with the other two squares showing capitals and punctuation.
-
-The second image (Fig. 12) shows the same novel encoded into the popular
-Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
-device, for example. While the plain text signature is still present, other
-structures now also come into view. These are not human-legible under closer
-examination (using a hex-editor for example) because the data is encrypted. The
-plain text characters remaining comprise snippets of code, and some light
-header and footer information, identifying the file to reader applications.
-
-To produce the third image (Fig. 13), I encode the plain text version of the
-novel into the Portable Document Format (`.pdf`), another commonly circulated
-binary format for document storage. In an additional step, I use code injection
-techniques outlined in @rahman_getting_2010, @stevens_malicious_2011, and
-@maiorca_looking_2013 to introduce a malicious script into the header of the
-file. Depending on the version of the reader's Adobe Acrobat Reader, the code
-will execute when opening the document, with the potential of causing
-significant corruption to the system. The injection is clearly visible in the
-image, manifesting as a "cavity" of un-encrypted characters. Steps
-could be taken to further mask the malicious script, blending it with the
-background encrypted bit structure (shown as speckled noise), which would make
-the injection more difficult to detect.
-
-!["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt` format.
-Unaltered.](images/txt.png)
-
-!["Binary file structure II." Laurence Sterne's *Tristram Shandy*, in `.mobi` format.
-Unaltered.](images/mobi.png)
-
-!["Binary file structure III." Malicious code injection into the text of Laurence
-Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating presence of
-injected code.](images/pdf.png)
-
-In conclusion, I do not mean to imply that the "closest possible" reading of
-this sort, at the circuit and magnetic storage level, will somehow come to
-supplement reading at the surface for meaning and representation. Microanalysis
-is meant to complement close reading: giving it proper scope in time and space
-for its operation. But reading at the surface alone also risks losing sight of
-the naked struggle for power and control at the device level. The machine *can*
-determine the message when unchecked. In these conditions, reading without
-depth may struggle to even locate its object of study, as surface
-representations change dynamically, tailoring themselves to fit the reader's
-mood, to match the environment, or to please some remote censor. Best, Marcus,
-and Sontag are right in treating claims to symptomatic reading with suspicion,
-as claims to power. The reader of depth divines secret knowledge, with or
-without merit, creating an imbalance of interpretation. Critical reading in all
-dimensions must therefore begin with the ethics of mutual legibility. It
-succeeds when readers reclaim the underlying material conditions of their
-meaning making. The very architects of the "smart" literary device tell us: the
-answer to the machine remains in the machine.
-
-Return to metaphor. Not against metaphor. The paradox. Two sides. Not knowing
-the one side. Actualizing the metaphor.
-
-<!-- notes -->
-<!-- notes -->
-<!-- notes -->
+## Notes
 
 [^ln2-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
@@ -1430,6 +1316,11 @@ dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
 before, and placed on its feet again" (44).  p5
 
+[^ln4-carroll]: @carroll_annotated_1960, 55. See @huxley_raven_1976 and
+@susina_why_2001 for a range of possible answers, including Carroll's own:
+"Because it can produce a few notes, though they are very flat; and it is
+nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
+@susina_why_2001, 16-7].
 
 [^ln-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
