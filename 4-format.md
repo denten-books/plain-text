@@ -391,22 +391,22 @@ Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
 desk? The dissimilarity between the two domains---of animals and of
 furniture---prevents productive congruence.[^ln4-carroll]
 
-This may be good moment to pause and to take stock of these initial
-preliminary remarks. I observe first that the design of modern human--computer
-interfaces makes heavy use of metaphor in the mode of "conceptual blending."
-Second, I locate the idea of "conceptual blending" within the lineage of
-literary poetics. The work of researchers in human--computer interaction like
-John Carroll and Stuart Card relies on insight from cognitive linguists like
-George Lakoff and Mark Johnson. The conceptual or cognitive blending school
-pioneered by Lakoff and Johnson in turn represents a development of metaphor
-theory with roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.
-Richards.  Finally, I note that metaphors understood in this tradition succeed
-and fail in interesting ways. They succeed when the metaphor connects ideas
-from two differing conceptual domains. At the very least, blending plays an
-important instrumental in everyday cognitive activity
-[@lakoff_metaphors_1980]. At its best, conceptual blending enables learning
-and discovery [@carroll_interface_1987; @card_methods_2006]. A vital metaphor
-revitalizes human experience and produces new knowledge about the world
+This may be good moment to pause and to take stock of these preliminary
+remarks. I observe first that the design of modern human--computer interfaces
+makes heavy use of metaphor in the mode of "conceptual blending." Second, I
+locate the idea of "conceptual blending" within the lineage of literary
+poetics. The work of researchers in human--computer interaction like John
+Carroll and Stuart Card relies on insight from cognitive linguists like George
+Lakoff and Mark Johnson. The conceptual or cognitive blending school pioneered
+by Lakoff and Johnson in turn represents a development of metaphor theory with
+roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.  Richards.
+Finally, I note that metaphors understood in this tradition succeed and fail
+in interesting ways. They succeed when the metaphor connects ideas from two
+differing conceptual domains. At the very least, blending plays an important
+instrumental in everyday cognitive activity [@lakoff_metaphors_1980]. At its
+best, conceptual blending enables learning and discovery
+[@carroll_interface_1987; @card_methods_2006]. A vital metaphor revitalizes
+human experience and produces new knowledge about the world
 [@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
 
 In the first chapter of the book I made the case for simulated text, arguing
@@ -468,13 +468,40 @@ domain---changes in the magnetic or solid state storage medium that correspond
 to deletion---is the part that is missing from the figure. Like the crane's
 foot in "pedigree" the metaphor is therefore dead to the user. The absence of
 either target or the source domain prevents image mapping
-[@lakoff_death_1987].
+[@lakoff_death_1987]. In more literary terms, we may say that the "vehicle,"
+or the target domain which takes on the "tenor" of the source, is missing
+[@richards_philosophy_1936, 96]. The tenor of "discarding" a piece of paper
+does not necessarily carry over into the host. The metaphor is not motivated,
+in other words. The analogy between discarding paper and erasing bits does not
+hold.
 
 ## Form, Formula, Formatting
 
-What do the dead interface metaphors occlude?
+They key to understanding "the loss of resemblances" that accompanies
+ubiquitous simulation lies in the structure of the interface metaphor. A
+functioning metaphor, if you would recall from Lakoff, is one in which the
+schematic structure of one domain is in some way transposed into another. The
+architecture of computation leaves a gap between the source domain and the
+target. The source of the interface metaphor originates on the screen. In this
+way we observe the "turning" of an electronic "page," for example. The turning
+and the page are the tenors of the metaphor, if you will. Furthermore, the
+"turning of the page" implies a certain physical arrangement of matter. For
+example that pages can be turned, that they are sequential, and so on. The
+virtual action of "turning the page" sets off a series of corresponding
+actions in the target domain. Turing the page on the screen thus activates the
+reading and writing components of the computer's internals. These components
+operate under different physical constraints than pen and paper. For example,
+in reading data from solid state (FLASH) memory the device imparts electrical
+charge through quantum tunneling onto a connected series of floating gate
+transistors
+[@pavan_flash_1997; @bez_introduction_2003].
 
-### Establish the binary
+!["Perspective view of a portion of a charge translating device illustrating a
+preferred electrical contact arrangement." From
+[@boyle_information_1974].](images/floating-gate.png)
+
+The architecture of semiconductor-based information storage devices
+beyond
 
 I began the chapter in asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led us
