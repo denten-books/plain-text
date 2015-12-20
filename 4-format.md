@@ -500,20 +500,23 @@ transistors
 preferred electrical contact arrangement." From
 [@boyle_information_1974].](images/floating-gate.png)
 
-The architecture of semiconductor-based information storage devices
-beyond
+Whatever the complexities of solid state storage architecture, the difference
+in arrangement of information between pages and floating gates is apparent.
+The structure of one has only an arbitrary connection to the structure of the
+other. Consequently action in one domain do not necessitate corresponding
+actions in another.
 
-I began the chapter in asking the reader to answer a seemingly innocuous
-question: Where does the computed sign reside? The outlines of an answer led us
-to multiple sites of inscription, some visible and some hidden, some legible
-and others opaque. I have suggested also that the familiar distinction between
-form and content fails to capture the crucial "formatting and control" layer of
-the computed sign. In the following sections I would like to dwell on the
-curious contradiction at the heart of formalism itself. Historically, form has
-been used to signify both the material shape of the sign and the idealized
+I began the book by asking the reader to answer a seemingly innocuous
+question: Where does the computed sign reside? The outlines of an answer led
+us to multiple sites of inscription, some visible and some hidden, some
+legible and others opaque. I have suggested also that the familiar distinction
+between form and content fails to capture the crucial "formatting and control"
+layer of the computed sign. In the following sections I would like to dwell on
+the curious contradiction at the heart of formalism itself. Historically, form
+has been used to signify both the material shape of the sign and the idealized
 archetypal "rule book" for its creation. The two senses matter because they
-lead to opposing strategies of interpretation. One seeks to describe, the other
-to explain; one to perceive, the other to reveal.
+lead to opposing strategies of interpretation. One seeks to describe, the
+other to explain; one to perceive, the other to reveal.
 
 The distinction between "form" and "content" is one of the basic binaries in
 any formalism, mobilized often in literary criticism and computer science
