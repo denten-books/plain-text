@@ -1,5 +1,5 @@
-# Chapter 4: Format
-`form, format, formula`
+# Chapter 4: Simulation
+`metaphor, form, format, formula`
 
 ## Introduction
 
@@ -366,9 +366,6 @@ understanding. We "cease to experience" the trope, Viktor Shklovsky wrote in
 1914. The metaphor dies when we begin recognizing it without apprehension
 [@shklovsky_voskreshenie_1914].
 
-"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
-261]. "things not dead or killed by custom" "his own production"
-
 Lakoff famously took exception with the idea "dead metaphor," arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
 structuring everyday experience. He gives the example of the sentence: *He
@@ -386,7 +383,7 @@ within the English *pedigree* is no longer accessible to the average speaker.
 The idea of a dead metaphor does not appropriately differentiate between these
 two cases, according to Lakoff and his adherents [@lakoff_death_1987;
 @muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
-perform its function of intuitively connecting two disparate domain. At other
+perform its function of intuitively connecting two disparate domains. At other
 times, the metaphor dies in the sense of one domain becoming no longer
 accessible to its user. Furthermore, a wholly unmotivated metaphor does no
 work at all. Thus the non-sensual riddle famously posed by the mad hatter to
@@ -394,25 +391,86 @@ Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
 desk? The dissimilarity between the two domains---of animals and of
 furniture---prevents productive congruence.[^ln4-carroll]
 
-This may be good moment to pause and to take stock of the work we have done so
-far. I observe first that the design of modern human--computer interfaces
-makes heavy use of metaphor in the mode of "conceptual blending." Second, I
-locate the idea of "conceptual blending" within the lineage of literary
-poetics. The work of researchers in human--computer interaction like John
-Carroll and Stuart Card relies on insight from cognitive linguists like George
-Lakoff and Mark Johnson. The conceptual or cognitive blending school pioneered
-by Lakoff and Johnson in turn represents a development of metaphor theory with
-roots in the works of Percy Shelley, Viktor Shklovsky, and I.E. Richards.
-Finally, I note that metaphors understood in this tradition succeed and fail
-in interesting ways. They succeed when the metaphor connects ideas from two
-differing conceptual domains. At the very least, blending plays an important
-instrumental in everyday cognitive activity [@lakoff_metaphors_1980]. At its
-best, conceptual blending enables learning and discovery
-[@carroll_interface_1987; @card_methods_2006]. A vital metaphor revitalizes
-human experience and produces new knowledge about the world
+This may be good moment to pause and to take stock of these initial
+preliminary remarks. I observe first that the design of modern human--computer
+interfaces makes heavy use of metaphor in the mode of "conceptual blending."
+Second, I locate the idea of "conceptual blending" within the lineage of
+literary poetics. The work of researchers in human--computer interaction like
+John Carroll and Stuart Card relies on insight from cognitive linguists like
+George Lakoff and Mark Johnson. The conceptual or cognitive blending school
+pioneered by Lakoff and Johnson in turn represents a development of metaphor
+theory with roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.
+Richards.  Finally, I note that metaphors understood in this tradition succeed
+and fail in interesting ways. They succeed when the metaphor connects ideas
+from two differing conceptual domains. At the very least, blending plays an
+important instrumental in everyday cognitive activity
+[@lakoff_metaphors_1980]. At its best, conceptual blending enables learning
+and discovery [@carroll_interface_1987; @card_methods_2006]. A vital metaphor
+revitalizes human experience and produces new knowledge about the world
 [@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
 
-## Content and form (tenor and vehicle)
+In the first chapter of the book I made the case for simulated text, arguing
+that the verisimilitude between printed text and its digital representation
+obscures material realities particular to computation. We are thus shown one
+thing but manipulate another. To drag and drop a document into a trash can on
+the screen, for example, corresponds to a number of data manipulations on the
+disk. None of these necessarily include deletion as such. The representation
+of the document may disappear where the inscription underlying representation
+remains. In most case, we the users, are not bothered by such incongruence.
+But in some cases, when it really matters---under the threat of censorship or
+persecution, for example---the incongruence exposes the frailty of our
+alienation. It is an unprecedented state of affairs: to lose sight of the
+material realities, made all more troubling by the ubiquity of the simulation.
+
+Metaphor machines present us with a special case of conceptual domain
+blending. In the cognitive view, the metaphor performs a number of
+"conventional mapping from one domain to another" [@lakoff_contemporary_1998,
+239]. Lakoff mentions for example the common trope of "a state is a person,"
+implicit in the ideas of a "friendly" or a "hostile" state
+[@lakoff_contemporary_1998, 243]. In this case, ideas about agency, emotion,
+and mental life usually attached to people are extended to state actors.
+Similarly, to say that someone is "boiling mad," instantiates the common trope
+of  "anger is a hot liquid in a container." In this case, we map common known
+properties attached to the domain of physics to the domain of emotion.  Lakoff
+further explains that such domain mapping follow a few rules. They are usually
+partial and asymmetrical.  "Mapping are not arbitrary," he writes, "but
+grounded in the body and in everyday experience and knowledge." Finally domain
+mapping obey what Lakoff call the Invariance Principle, by which "the image
+schema structure of the source domain is projected onto the target domain in a
+way that is consistent with inherent target domain structure"
+[@turner_conceptual_1995; @lakoff_contemporary_1998;
+@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
+
+To what extent does the interface metaphor correspond to the above
+definitions? When discarding a document into a trash bin, in our reoccurring
+example, users should theoretically map their knowledge of paper documents and
+paper waste baskets onto the computational domain. Instead, the *idea* of
+discarding something substitutes for the *material reality* of the
+corresponding action. The concept blends not with another conceptual domain
+but with the material affordances of the target medium. Furthermore, such
+material affordances---our ability to actually discard data, for
+example---stand in arbitrary relationship to the source domain. Simply put we
+expect the thing to be deleted, but it is not. The incongruence breaks the
+Invariance Principle. Whatever structural changes we expect to happen in the
+source domain do not carry on to the target. The structure of whatever is
+meant by "deletion" is often inconsistent with inherent domain structure. The
+metaphor breaks in a sense. It becomes a dead metaphor even under Lakoff's
+strict definitions.
+
+Like the "crane's foot" in the English "pedigree" the user of the simulated
+document dustbin is missing one part of the metaphor equation. In the
+"pedigree" example, the English speaker lost touch with the source image.
+Contemporary English speakers no longer perceives the similarity between a
+"crane's foot" [*pie de grue*] and a family-tree diagram. In the
+interface-based example of "discarding a document into trash," the user is
+rather missing the target domain. The understanding of the target
+domain---changes in the magnetic or solid state storage medium that correspond
+to deletion---is the part that is missing from the figure. Like the crane's
+foot in "pedigree" the metaphor is therefore dead to the user. The absence of
+either target or the source domain prevents image mapping
+[@lakoff_death_1987].
+
+## Form, Formula, Formatting
 
 What do the dead interface metaphors occlude?
 
@@ -1342,4 +1400,21 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 
 [^ln-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
+
+## Cuts
+
+"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
+261]. "things not dead or killed by custom" "his own production"
+
+
+To what extent does the interface metaphor correspond to the above
+definitions? When discarding a document into a trash bin, in our example,
+users map their knowledge of paper documents and paper waste baskets onto the
+computational domain. The mapping as we would expect is partial and
+asymmetrical. In other words, only some of the properties given to paper
+documents are transferred onto digital ones. The mapping is further grounded
+in the everyday experience of working with print-based artifacts like books
+and pages. So far so good. However, the invariance 
+
+
 
