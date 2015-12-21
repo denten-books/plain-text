@@ -6,7 +6,7 @@
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Computers, the ultimate metaphor
+comprehend the extent of the simulation. Computers, ultimate metaphor
 machines, mediate experience ubiquitously. They interject in simple everyday
 acts from drinking coffee in the morning, through brewing and payment systems,
 to going to bed as alarm clocks and night activity monitors.
@@ -36,10 +36,10 @@ phatic function of language [@malinowski_problem_1923, 146;
 formatting.
 
 Imagine communicating by telegraph in two different languages with a friend,
-for example. Occasionally, besides whatever else you wanted to say, imagine
+for example. Occasionally, besides whatever else you wanted to say, envision
 also sending a signal to your partner's device that indicated a change in the
-transmission language. Thus in addition to the message you were sending, you
-would also send a code switching the receiving apparatus from the "English
+transmission language. Thus in addition to the message, you would also send a
+predetermined code that would switch the receiving apparatus from the "English
 language" into the "French language" mode. Such an instruction would *attune*
 the receiver to a different mode of apprehension. In our example, it would
 transform an English language machine into a French language one. It is in
@@ -148,13 +148,13 @@ actual affordances of digital text, the user grasps for neutered metaphors. We
 "reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
 The metaphors of human-computer interaction hide the true material conditions
-of the computed sign. More than a parchment packet to be unwrapped and
+of the computed sign. More than parchment packets to be unwrapped and
 discarded after purchase, the vessels of computation resemble little factories
 for the production of meaning. Imagine me asking you to read Shakespeare's
 *Hamlet*, for example, by lending you a copy of the text. In the case of a
 paper book, I may be sure that the text in my hands will remain the same as I
 pass it into yours. But the computed sign has the capability to adjust itself
-to new contexts. The simulated *Hamlet* may adapt itself to the new reader's
+to new contexts. The simulated *Hamlet* may adapt to the new reader's
 geographic location, mood, or political affiliation. Far from being outside of
 the realm of possibilities, it is likely that in fact, most of the texts we
 consume today come to us in such algorithmically personalized way. Algorithms
@@ -166,19 +166,22 @@ word substitution, automatic summarization, wholesale generation of discourse
 by algorithmic means---the command and control layer contains all such
 possibilities.
 
-I begin the chapter by identifying a feature of formalist thought that has
-long given me pause. The very concept of form, central to literary analysis,
-contains in it two conflicting ideas. Going back to reception of Plato, Hegel,
-and the Russian formalists, the English "form" renders at times the material,
-outward, and apparent shape of something said or pictured. Yet just as often,
-critics use "form" in the sense of a Platonic ideal: abstracted from matter,
+In this chapter, I propose we to encounter the computational metaphor anew,
+with fresh eyes. I will begin by outlining a few salient features of the
+computational metaphor. As we shall see, the metaphor "breaks" when one side
+of the conceptual transference fails to meet the other. The broken or "dead"
+metaphor leads to the locus of incongruence. What we see is not in fact what
+we get. We are instead confronted with a 
+
+
+The very concept of form, central to literary analysis, contains in it two
+conflicting ideas. Going back to reception of Plato, Hegel, and the Russian
+formalists, the English "form" renders at times the material, outward, and
+apparent shape of something said or pictured. Yet just as often, critics use
+"form" in the sense of a Platonic ideal: abstracted from matter,
 inward-facing, and in need of explication. Form in that sense is closer to the
 idea of an algorithm of a formula. It is the lasting hidden archetype that
 gives rise to temporary outward appearances.
-
-In this chapter, I propose we to encounter the computational metaphor anew,
-with fresh eyes. I will begin by outlining a few salient features of the
-computational metaphor. The metaphor breaks when its 
 
 arguing first that the intellectual history
 of formalism literary theory contains within two distinct and contradictory
@@ -1435,16 +1438,3 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 
 "familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
 261]. "things not dead or killed by custom" "his own production"
-
-
-To what extent does the interface metaphor correspond to the above
-definitions? When discarding a document into a trash bin, in our example,
-users map their knowledge of paper documents and paper waste baskets onto the
-computational domain. The mapping as we would expect is partial and
-asymmetrical. In other words, only some of the properties given to paper
-documents are transferred onto digital ones. The mapping is further grounded
-in the everyday experience of working with print-based artifacts like books
-and pages. So far so good. However, the invariance 
-
-
-
