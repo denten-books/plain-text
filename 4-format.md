@@ -141,8 +141,8 @@ metaphor alone. Thus we "turn the page" but in reality redraw the screen. We
 passage to a data aggregation service. We "share a book" but in reality assign
 a temporary license to another user. Where did the text go? someone asks when
 downloading a paper from an online journal.[^ln4-nested] It is in your "home"
-I answer.  But unless one of us is a system administrator, neither has a
-mental map of any physical location corresponding to the "home" directory, the
+I answer. But unless one of us is a system administrator, neither has a mental
+map of any physical location corresponding to the "home" directory, the
 default location of personal files on many systems. When confronted with the
 actual affordances of digital text, the user grasps for neutered metaphors. We
 "reside" in such homes, "own," "share," and "create" only in the simulacrum.
@@ -170,19 +170,19 @@ In this chapter, I propose we to encounter the computational metaphor anew,
 with fresh eyes. I will begin by outlining a few salient features of the
 computational metaphor. As we shall see, the metaphor "breaks" when one side
 of the conceptual transference fails to meet the other. The broken or "dead"
-metaphor leads to the locus of incongruence. What we see is not in fact what
-we get. We are instead confronted with a composite image, which under
-examination reveals a complex process of transfiguration between the visible
-sign and the sign at the site of the inscription. Formatting structures
-facilitate the conversion of machine-readable codes into human-readable text.
-The concept of formatting has so far eluded critical attention, as I will
-argue because the very concept of form, central to literary analysis, contains
-in it two conflicting ideas. Going back to reception of Plato, Hegel, and the
+metaphor leads to the locus of incongruence at the heart of computation. What
+we see is not in fact what we get. We are instead confronted with a composite
+image, which under examination reveals a complex process of transfiguration
+between the visible sign and the sign at the site of the inscription.
+Formatting structures facilitate the conversion of machine-readable codes into
+human-readable text. Yet formatting continues to elude the critical gaze
+because the very concept of form, central to literary analysis, contains in it
+two conflicting ideas. Going back to reception of Plato, Hegel, and the
 Russian formalists, the English "form" renders at times the material, outward,
 and apparent shape of something said or pictured. Yet just as often, critics
 use "form" in the sense of a Platonic ideal: abstracted from matter,
 inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula. 
+idea of an algorithm of a formula.
 
 The distinction between form, format, and formula will give us the vocabulary
 to discuss the codification of document structure in the second part of the
