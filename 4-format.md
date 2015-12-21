@@ -171,31 +171,18 @@ with fresh eyes. I will begin by outlining a few salient features of the
 computational metaphor. As we shall see, the metaphor "breaks" when one side
 of the conceptual transference fails to meet the other. The broken or "dead"
 metaphor leads to the locus of incongruence. What we see is not in fact what
-we get. We are instead confronted with a 
-
-
-The very concept of form, central to literary analysis, contains in it two
-conflicting ideas. Going back to reception of Plato, Hegel, and the Russian
-formalists, the English "form" renders at times the material, outward, and
-apparent shape of something said or pictured. Yet just as often, critics use
-"form" in the sense of a Platonic ideal: abstracted from matter,
+we get. We are instead confronted with a composite image, which under
+examination reveals a complex process of transfiguration between the visible
+sign and the sign at the site of the inscription. Formatting structures
+facilitate the conversion of machine-readable codes into human-readable text.
+The concept of formatting has so far eluded critical attention, as I will
+argue because the very concept of form, central to literary analysis, contains
+in it two conflicting ideas. Going back to reception of Plato, Hegel, and the
+Russian formalists, the English "form" renders at times the material, outward,
+and apparent shape of something said or pictured. Yet just as often, critics
+use "form" in the sense of a Platonic ideal: abstracted from matter,
 inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula. It is the lasting hidden archetype that
-gives rise to temporary outward appearances.
-
-arguing first that the intellectual history
-of formalism literary theory contains within two distinct and contradictory
-ideas about form: one about the outward shape of the sign and another about
-the inward structure or formula that governs semiotics. The distinction is
-important because it leads to several conflicting strategies of
-interpretation. Taken in the sense of "outwards shape," the form suggests an
-aesthetics or even an "erotics" of art [@sontag_against_1966]. On this view, a
-sign is forever embedded into the specific contexts of its instantiation. The
-physical peculiarity of this word makes it forever different from the same
-word on a different page. Taken as formula, form suggests a more analytical
-approach, aimed at explicating hidden structures. Formal analysis in that
-sense studies not specific traces or utterances, but the development of ideal
-forms, which exist independent of any specifics.
+idea of an algorithm of a formula. 
 
 The distinction between form, format, and formula will give us the vocabulary
 to discuss the codification of document structure in the second part of the
@@ -521,6 +508,19 @@ archetypal "rule book" for its creation. The two senses matter because they
 lead to opposing strategies of interpretation. One seeks to describe, the
 other to explain; one to perceive, the other to reveal.
 
+The intellectual history of formalism
+literary theory thus contains within it two distinct and contradictory ideas
+about form: one about the outward shape of the sign and another about the
+inward structure or formula that governs semiotics. The distinction is
+important because it leads to several conflicting strategies of
+interpretation. Taken in the sense of "outwards shape," the form suggests an
+aesthetics or even an "erotics" of art [@sontag_against_1966]. On this view, a
+sign is forever embedded into the specific contexts of its instantiation. The
+physical peculiarity of this word makes it forever different from the same
+word on a different page. Taken as formula, form suggests a more analytical
+approach, aimed at explicating hidden structures. Formal analysis in that
+sense studies not specific traces or utterances, but the development of ideal
+forms, which exist independent of any specifics.
 The distinction between "form" and "content" is one of the basic binaries in
 any formalism, mobilized often in literary criticism and computer science
 alike. "Classical art, in a word, stands for form," R.G.  Collingwood wrote in
