@@ -313,14 +313,14 @@ the Apple design guidelines also reference extensively, "people employ
 metaphors in learning about computer systems." Using the appropriate metaphors
 therefore provides "wide-ranging improvements in learning ability and ease of
 use" [@carroll_metaphor_1982, 108]. What users know about trashcans in the
-real world can be used to guide behavior in the virtual one.
+real world can guide interactions with virtual trashcans.
 
 The rapid uptake of "what you see is what you get" interfaces pioneered by
-Apple proved the effectiveness of metaphoric design. Through metaphor, users
-are able to extend models of action from one domain into another. Empirical
-studies have later shown the effectiveness of metaphor in computation
-[@blackwell_does_1999; @sallam_use_2009]. Flusser would say that such
-figurative habituation makes experience more "smooth." The user avoids
+Apple proved the effectiveness of metaphor-centric design. Through metaphor,
+users are able to extend models of action from one domain into another.
+Empirical studies have later shown the effectiveness of metaphor in
+computation [@blackwell_does_1999; @sallam_use_2009]. Flusser would say that
+such figurative habituation makes experience more "smooth." The user avoids
 "bumping into the sharp corners" of new and complicated computational
 environments. The metaphor can conserve mental energy. But, once internalized,
 it also no longer attracts attention. The seminal work on figurative speech
@@ -332,14 +332,18 @@ perception and then in practice [@brik_poetika_1919, 38 and 104]. The figure
 becomes so familiar that we cease thinking about it---an early insight that
 also was confirmed experimentally almost a century later.[^ln-cog]
 
-The formalists understood habituated metaphors to  diminish the vitality of
-experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
-dusting his room, could not remember if he already dusted his sofa.  "Because
-actions like these are habituated and unconscious, I could not remember and
-knew that it was impossible to remember," wrote Tolstoy. "And so whether I
-dusted and forgot or just did so without thinking, it as if the action never
-happened [..] thus when life passes without conscious reflection, it passes as
-if one has not lived at all." Life disappears into nothingness, when the
+Shklovsky and his fellow formalists understood habituated metaphors to
+diminish the vitality of experience. Shklovsky quotes from the diaries of Lev
+Tolstoy, who, while dusting his room, could not remember if he had already
+dusted his sofa. Tolstoy wrote, "because actions like these are habituated and
+unconscious, I could not remember and knew that it was impossible to
+remember:"
+
+> and so whether I dusted and forgot or just did so without thinking, it as if
+> the action never happened [...] thus when life passes without conscious
+> reflection, it passes as if one has not lived at all.
+
+Shklovsky goes on to add that life disappears into nothingness, when the
 automatization of experience "consumes things, clothing, furniture, your
 spouse, and the fear of war" [@brik_poetika_1919, 104].[^ln-translation] The
 formalists rarely quoted Marx directly. Yet the echoes of Marx resonate
@@ -347,19 +351,20 @@ throughout. The dead metaphor marks the alienation of experience. The point at
 which material artifact disappears from individual conciousness is the also
 the point where it appears within the social sphere as fetish.
 
-Carroll and Thomas wrote their recommendations with novice users in mind. The
-metaphor was supposed to ease the transition into a virtual world. But once
-inside, the virtual inhabitant also began to mistake metaphor for reality.
-The *Apple Design Guidelines* assumed that learning would happen through
-metaphor. But more than forty years of computing under the guidelines have
-failed to produce a learned public. This is evidenced by the frequent and
-urgent calls to digital literacy on the part of our leading intellectuals,
-educators, and politicians.[^ln-digitalliteracy] Instead of educating, the
-preference for easy figurative tropes forged a shortcut to knowledge. Once
-established, such shortcuts continue to prevent users from literal engagement
-with computational realities. Like Tolstoy's mindless dusting, life at the
-keyboard passes without reflection. Worse yet, the trope obscures forces of
-capital, governance, and control cloaked behind the innocuous figure.
+The architects of computer user interfaces wrote their recommendations with
+novice users in mind. The metaphor was supposed to ease the transition into a
+virtual world. Once inside, the virtual inhabitant also began to mistake
+metaphor for reality. The *Apple Design Guidelines* assumed that learning
+would happen through metaphor. More than forty years of computing under the
+guidelines have failed to produce a learned public. This is evidenced by the
+frequent and urgent calls to digital literacy on the part of our leading
+intellectuals, educators, and politicians.[^ln-digitalliteracy] Instead of
+educating, the preference for easy figurative tropes created shortcuts to
+knowledge. Once established, such shortcuts continue to prevent users from
+literal engagement with computational realities. Like Tolstoy's mindless
+dusting, life at the keyboard passes without reflection. Worse yet, the trope
+obscures forces of capital, governance, and control cloaked behind the
+innocuous figure.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
@@ -385,62 +390,60 @@ etymological excavation leads us to rediscover unexpected confluences in the
 words' usage and origins.
 
 Where estrangement in art could renew the word through suggestive, often
-trans-rational experience, in scholarly practice the formalists adopted a
-scientific stance towards the object of their study. Unlike the previous
-generation of critics who concentrated on the historical, biographical, and
-philosophical aspects of literary formation, the formalists wanted to
-reconstruct how the thing was made. For example, in his influential essay on
-"How Gogol's *Overcoat* Was Made" Boris Eikhenbaum identified *skaz*, or the
-manner of speaking, as an organizing principle for Gogogl's satirical
+trans-rational [*zaum*] experience, in scholarly practice the formalists
+adopted a scientific stance towards the object of their study. Unlike the
+previous generation of critics who concentrated on the historical,
+biographical, and philosophical aspects of literary formation, the formalists
+wanted to reconstruct how the thing was made. For example, in his influential
+essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum identified *skaz*,
+or the manner of speaking, as an organizing principle for Gogol's satirical
 narratives [@brik_poetika_1919, 151-67]. What readers lost in having the joke
 explained to them they gained in understanding of the genre.
 
 I take a similar approach in *Plain Text* by extending formal concerns with
 the mechanics of literary "device" and "technique" to literary devices and
-technics proper. I too am interested in how the literary thing is made.
-Computers, I argue throughout, are essentially machines for universal symbolic
-manipulation. This property makes them particularly suitable as objects for
+technology proper. I too am interested in how the literary thing is made.
+Computers, as I will argue throughout, are essentially machines for universal
+symbolic manipulation. This property makes them particularly suitable for
 figurative analysis, which aims to explicate concepts involved in the making
-of the metaphor.[^ln-egturner] Influenced by the tradition of literary
-exegesis in the work of scholars like Boris Eikhenbaum and Mark Turner, my
-overarching aim in *Plain Text* is therefore to expose the illusion of
-verisimilitude between text on paper and the simulated text on a screen.  The
-words may look the same, but the underlying affordances of the medium differ
-in significant detail. Consider for example a news report that alters its
-content based on the reader's location. Imagine also an e-book reader that
-highlights popular passages of a novel in real time, shortening the less
-popular passages down to their algorithmically distilled summaries. For a
-literary analyst, the instability of the digital medium means analysis cannot
-be confined to reading for surface meaning alone. How can close reading
+of the metaphor.[^ln-egturner] Influenced by the tradition of formal literary
+exegesis in the work of scholars like Viktor Shklovsky, Franco Moretti, and
+Caroline Levine, my overarching aim in *Plain Text* is therefore to expose the
+illusion of verisimilitude between text on paper and the simulated text on a
+screen. The words may look the same, but the underlying affordances of the
+medium differ in significant detail. Consider for example a news report that
+alters its content based on the reader's location. Imagine also an e-book
+reader that highlights popular passages of a novel in real time, shortening
+the less popular passages down to their algorithmically distilled summaries.
+For a literary analyst, the instability of the digital medium means analysis
+cannot be confined to reading for surface meaning alone. How can close reading
 persist when reading devices reconfigure the text to fit individual tastes,
 mood, or politics? How would we even agree on the fact that we are reading the
 same text? The very possibility of interpretation comes into question.
 
-Despite its power to recall the world anew, estrangement cannot be practiced
-effectively in the mode of a monologue. To produce meaning, Flusser reminds
-us, it must become dialogical practice. Perpetual exile is otherwise
-uninhabitable [@flusser_freedom_2003, 81]. Estrangement thrusts the displaced
-into the chaos of unsettled existence. With time, the displaced make a new
-home, from which they can once again "receive noise as information" and
-produce meaning. "I am embedded in the familiar," Flusser wrote, "so that I
-can reach out toward the unfamiliar and create things yet unknown"
-[@flusser_freedom_2003, 12]. The expellee and the settled inhabitant need each
-other. The dialectics of exile can lead to "informed renewal" of shared space
-through what Flusser called a "creative dialogue" between the settled and the
-unsettled [@flusser_freedom_2003, 84]. Without the protection of one's home,
-everything turns to noise. There can no information without a dwelling,
-Flusser wrote, "and without information, in a chaotic world, one can neither
-feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic displacement
-and habituation enter into a continuing conversation. But what is the "other"
-to estrangement?
+Estrangement cannot be practiced effectively in the mode of a monologue. To
+produce meaning, Flusser reminds us, it must become dialogical practice.
+Perpetual exile is otherwise uninhabitable [@flusser_freedom_2003, 81].
+Estrangement thrusts the displaced into the chaos of unsettled existence. With
+time, the displaced make a new home, from which they can once again "receive
+noise as information" and produce meaning. "I am embedded in the familiar,"
+Flusser wrote, "so that I can reach out toward the unfamiliar and create
+things yet unknown" [@flusser_freedom_2003, 12]. The expellee and the settled
+inhabitant need each other. The dialectics of exile lead to "informed renewal"
+of shared space through what Flusser called a "creative dialogue" between the
+settled and the unsettled [@flusser_freedom_2003, 84]. Without the protection
+of one's home, everything turns to noise. There can no information without a
+dwelling, Flusser wrote, "and without information, in a chaotic world, one can
+neither feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
+displacement and habituation enter into a continuing conversation.
 
 ## 0.4 Computational hermeneutics
 
-In *Plain Text*, I model the reciprocal movement to making strange on the
+In *Plain Text*, I model the movement reciprocal to estrangement on the
 diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
 formalist strategy of experiencing the making of the thing through careful,
-case study-based reconstructions of the textual mechanism
+case study-based reconstructions of textual mechanism
 [@kirschenbaum_mechanisms_2008, 15]. The function of a case study in an
 engineer's education, as Henry Petroski explains in his *Invention by Design*,
 is to understand the ways by which one gets "from thought to thing"
@@ -541,13 +544,17 @@ bringing computation closer to its humanistic roots, and the humanities closer
 to its computational realities.
 
 *Plain Text* makes a historical case for the recovery of textual thought
-latent in the machinery of contemporary computing. Just as philology cannot
-survive without awareness of its computational present, the design of
-computational platforms cannot advance without greater awareness of its
-cultural contexts. Much is at stake in the material affordances of the
-literary artifact. The political struggle for meaning-making, the very
-opportunity to engage in the act of interpretation, begins and ends with the
-materiality of the textual artifact.
+latent in the machinery of contemporary computing. Just as literary
+scholarship cannot survive without awareness of its computational present, the
+design of computational platforms cannot advance without greater awareness of
+its cultural contexts. Much is at stake in the material affordances of the
+literary artifact. Affordances, as Caroline Levine explains, "describe
+potential uses or actions latent in materials and designs." For example, glass
+affords transparency where steel affords strength [@levine_forms:_2015, 6].
+Literary affordances ultimately constrain the ways in which texts can be read
+or written [@hutchby_technologies_2001, 447]. The political struggle for
+meaning-making, the very opportunity to engage in the act of interpretation,
+thus begins and ends with the material affordances of the textual artifact.
 
 In the West, it is easy to forget the blunt effectiveness of physical control.
 Books that are burned or redacted cannot be read at all. Elsewhere, global
@@ -617,7 +624,7 @@ for the very subjects whose loss the Foucault and Kittler lament.[^ln-lament]
 Only in such encrypted tunnels and secure shells can anything like the digital
 humanities or new media studies take root.
 
-## 0.4 Theory and Practice
+## 0.5 Theory and Practice
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -781,7 +788,7 @@ stored? Are readers able to copy and paste? Do they have legal permissions to
 quote at length, to perform publicly, or to otherwise trans-mediate? Will the
 text disappear when the reader closes the book's cover?
 
-## 0.5 Plan of the Present Work
+## 0.6 Plan of the Present Work
 
 The tangled pathways of inscription winding its way through the device exist
 in relation to specific communities of computational practice. A researcher
@@ -918,7 +925,7 @@ become critical practice which can, in complement to critical theory, actively
 engineer for human agency. A discussion of technological dissent through the
 humanisms of Karl Marx, Hannah Arendt and Franz Fanon concludes the volume.
 
-## 0.6 Scale
+## 0.7 Scale
 
 In the process of taking things and texts apart, I am under no illusion about
 the possibility of finding perfect understanding. Technological systems that
