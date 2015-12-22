@@ -465,7 +465,6 @@ does not necessarily carry over into the host. The metaphor is not motivated,
 in other words. The analogy between discarding paper and erasing bits does not
 hold.
 
-## Form, Formula, Formatting
 
 They key to understanding "the loss of resemblances" that accompanies
 ubiquitous simulation lies in the structure of the interface metaphor. A
@@ -501,38 +500,41 @@ question: Where does the computed sign reside? The outlines of an answer led
 us to multiple sites of inscription, some visible and some hidden, some
 legible and others opaque. I have suggested also that the familiar distinction
 between form and content fails to capture the crucial "formatting and control"
-layer of the computed sign. In the following sections I would like to dwell on
+layer of the computed sign. In the following sections I would like to explore
 the curious contradiction at the heart of formalism itself. Historically, form
 has been used to signify both the material shape of the sign and the idealized
 archetypal "rule book" for its creation. The two senses matter because they
 lead to opposing strategies of interpretation. One seeks to describe, the
 other to explain; one to perceive, the other to reveal.
 
-The intellectual history of formalism
-literary theory thus contains within it two distinct and contradictory ideas
-about form: one about the outward shape of the sign and another about the
-inward structure or formula that governs semiotics. The distinction is
-important because it leads to several conflicting strategies of
-interpretation. Taken in the sense of "outwards shape," the form suggests an
-aesthetics or even an "erotics" of art [@sontag_against_1966]. On this view, a
-sign is forever embedded into the specific contexts of its instantiation. The
-physical peculiarity of this word makes it forever different from the same
-word on a different page. Taken as formula, form suggests a more analytical
-approach, aimed at explicating hidden structures. Formal analysis in that
-sense studies not specific traces or utterances, but the development of ideal
-forms, which exist independent of any specifics.
-The distinction between "form" and "content" is one of the basic binaries in
-any formalism, mobilized often in literary criticism and computer science
-alike. "Classical art, in a word, stands for form," R.G.  Collingwood wrote in
-1929, and "romantic art for content" [@collingwood_form_1929, 335]. In a much
-more recent work on computational text generation, Kathleen McKeown writes that
-to produce discourse, writers and speakers "must decide what to say and how to
-present it effectively." A machine that generates text should, among other
-things, be able to determine the "content and textual shape" of what needs to
-be said or written [@mckeown_text_1992, 1]. Similarly, in her influential essay
-"Print Is Flat, Code Is Deep," Katherine Hayles writes about "the interplay
-between a text's physical characteristics and its signifying strategies"
-[@hayles_print_2004, 72].
+## Form, Formula, Formatting
+
+Form is an often used but Caroline Levine.
+
+The intellectual history of formalist thought in literary theory contains
+within it two distinct and contradictory ideas about form: one about the
+outward shape of the sign and another about the inward structure or formula
+that governs semiotics. The distinction is important because it leads to
+several conflicting strategies of interpretation. Taken in the sense of
+"outwards shape," the form suggests an aesthetics or even an "erotics" of art
+[@sontag_against_1966]. On this view, a sign is forever embedded into the
+specific contexts of its instantiation. The physical peculiarity of this word
+makes it forever different from the same word on a different page. Taken as
+formula, form suggests a more analytical approach, aimed at explicating hidden
+structures. Formal analysis in that sense studies not specific traces or
+utterances, but the development of ideal forms, which exist independent of any
+specifics.  The distinction between "form" and "content" is one of the basic
+binaries in any formalism, mobilized often in literary criticism and computer
+science alike. "Classical art, in a word, stands for form," R.G.  Collingwood
+wrote in 1929, and "romantic art for content" [@collingwood_form_1929, 335].
+In a much more recent work on computational text generation, Kathleen McKeown
+writes that to produce discourse, writers and speakers "must decide what to
+say and how to present it effectively." A machine that generates text should,
+among other things, be able to determine the "content and textual shape" of
+what needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
+influential essay "Print Is Flat, Code Is Deep," Katherine Hayles writes about
+"the interplay between a text's physical characteristics and its signifying
+strategies" [@hayles_print_2004, 72].
 
 ### Plato
 
