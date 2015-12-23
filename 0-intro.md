@@ -227,19 +227,20 @@ erasure of the human from the literary process and advocate for post- or
 anti-humanism. Unlike Kittler, who wrote that under conditions of high
 technology "literature has nothing more to say," I believe that literature and
 literary analysis continue to have a voice in contemporary life
-[@kittler_gramophone_1999, 263]. Technology cannot determine literary silence.
-Rather, as the material grounds for all reflective textual activity recede
-from view, readers face the prospect of selective illiteracy. The command of
-technologies like networking and encryption separates those able to read and
-write under the new conditions from those who no longer are.
+[@kittler_gramophone_1999, 263]. Technology does not determine literary
+silence. Rather, as the material grounds for all reflective textual activity
+recede from view, readers face the prospect of selective illiteracy. The
+command of technologies like networking and encryption separates those able to
+read and write under the conditions of high technology from those who no
+longer are.
 
 To prevent the slide into illiteracy, instruments of literary analysis must
 continue to evolve to elicit meaning under new technological contingencies.
 Where texts are encrypted, we decrypt. If, as Kittler writes, automated
 discourse analysis threatens to take command, we will engineer automatons that
-command on our behalf [@kittler_gramophone_1999, 263]. Such acts of
-resistance, small and large, can recover a measure of agency from the ruling
-determinism of---take your pick: markets, complex systems, unconscious drives,
+command on our behalf [@kittler_gramophone_1999, 263]. Together, small acts of
+resistance can mount to recover a measure of agency from the ruling
+determinism of, take your pick: markets, complex systems, unconscious drives,
 monistic universes, *gaia* science, social networks, technology, the
 singularity, bureaucracy, war...  Indeed, the possibility of human
 erasure---the loss of all sense---is never far, "like the face drawn in the
@@ -254,9 +255,9 @@ conversations. The actual living agents that benefit from the trade in
 personal information are neither cyborgs nor post-human assemblages.  The
 bargain that trades critical understanding for comfort benefits specific
 interests, like multinational corporations and government intelligence
-agencies. To address objects as if they could respond shifts our attention
-from the seats of power to things dumb, powerless, and indifferent to our
-protestations.
+agencies. To address objects as if they could respond in kind shifts our
+attention from the seats of power to things dumb, powerless, and indifferent
+to our protestations.
 
 The internal exile that we must undergo for smart books and smart desks to
 come into view cannot compare in difficulty to the experience of physical
@@ -278,12 +279,12 @@ To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
 emergent thought-things like electronic books and smart phones participate
 actively in the production of meaning, we can no longer employ strategies of
-interpretation at the level of ideology alone. Close reading, critical theory,
-and literary analysis must reach down to the silicon bedrock that stages the
-very act of interpretation. Literary theory, a discipline fundamentally
-engaged in the exegesis of all figurative tropes, is therefore crucial to the
-understanding of new computational environments, which have enveloped
-intellectual life through metaphoric substitution.
+interpretation at the levels of ideology and representation alone. Close
+reading, critical theory, and literary analysis must reach down to the silicon
+bedrock that stages the very act of interpretation. Literary theory, a
+discipline fundamentally engaged in the exegesis of all figurative tropes, is
+therefore crucial to the understanding of new computational environments,
+which have enveloped intellectual life through metaphoric substitution.
 
 I begin where Bernard Harcourt's recent book on digital disobedience ends:
 with the possibility of localized dissent [@harcourt_exposed:_2015]. Following
@@ -325,49 +326,49 @@ Empirical studies have later shown the effectiveness of metaphor in
 computation [@blackwell_does_1999; @sallam_use_2009]. Flusser would say that
 such figurative habituation makes experience more "smooth." The user avoids
 "bumping into the sharp corners" of new and complicated computational
-environments. The metaphor can conserve mental energy. But, once internalized,
-it also no longer attracts attention. The seminal work on figurative speech
+environments. The metaphor conserves mental energy. But, once internalized, it
+also no longer attracts attention. The seminal work on figurative speech
 undertaken by the Russian formalists at the turn of the twentieth century
 reminds us that effective metaphoric shortcuts to learning have their
 cognitive downside. Habituated experience passes into the unconscious
 [@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's words, first in
 perception and then in practice [@brik_poetika_1919, 38 and 104]. The figure
 becomes so familiar that we cease thinking about it---an early insight that
-also was confirmed experimentally almost a century later.[^ln-cog]
+was also confirmed experimentally almost a century later.[^ln-cog]
 
-Shklovsky and his fellow formalists understood habituated metaphors to
-diminish the vitality of experience. Shklovsky quotes from the diaries of Lev
-Tolstoy, who, while dusting his room, could not remember if he had already
-dusted his sofa. Tolstoy wrote, "because actions like these are habituated and
-unconscious, I could not remember and knew that it was impossible to
-remember:"
+The formalists understood habituated metaphors to diminish the vitality of
+experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
+dusting his room, could not remember if he had already dusted his sofa.
+Tolstoy wrote:
 
-> and so whether I dusted and forgot or just did so without thinking, it as if
-> the action never happened [...] thus when life passes without conscious
-> reflection, it passes as if one has not lived at all.
+> because actions like these are habituated and unconscious, I could not
+> remember [...] whether I dusted and forgot or just did so without
+> thinking---it was as if the action never happened [...] thus when life
+> passes without conscious reflection, it passes as if one has not lived at
+> all.
 
-Shklovsky goes on to add that life disappears into nothingness, when the
-automatization of experience "consumes things, clothing, furniture, your
-spouse, and the fear of war" [@brik_poetika_1919, 104].[^ln-translation] The
-formalists rarely quoted Marx directly. Yet the echoes of Marx resonate
-throughout. The dead metaphor marks the alienation of experience. The point at
-which material artifact disappears from individual conciousness is the also
-the point where it appears within the social sphere as fetish.
+Shklovsky goes on to add that life so habituated disappears into nothingness,
+when the automatization of experience "consumes things, clothing, furniture,
+your spouse, and the fear of war."[^ln-brik] The formalists rarely quoted Marx
+directly. Yet the echoes of Marx resonate throughout. The dead metaphor marks
+the alienation of experience. The point at which material artifact disappears
+from individual conciousness is the also the point where it appears within the
+social sphere as fetish.
 
-The architects of computer user interfaces wrote their recommendations with
-novice users in mind. The metaphor was supposed to ease the transition into a
-virtual world. Once inside, the virtual inhabitant also began to mistake
-metaphor for reality. The *Apple Design Guidelines* assumed that learning
-would happen through metaphor. More than forty years of computing under the
-guidelines have failed to produce a learned public. This is evidenced by the
-frequent and urgent calls to digital literacy on the part of our leading
-intellectuals, educators, and politicians.[^ln-digitalliteracy] Instead of
-educating, the preference for easy figurative tropes created shortcuts to
-knowledge. Once established, such shortcuts continue to prevent users from
-literal engagement with computational realities. Like Tolstoy's mindless
-dusting, life at the keyboard passes without reflection. Worse yet, the trope
-obscures forces of capital, governance, and control cloaked behind the
-innocuous figure.
+Early architects of human-computer interaction wrote their recommendations
+with novice users in mind. The metaphor was supposed to ease the transition
+into a virtual world. Once inside, the virtual inhabitant also began to
+mistake metaphor for reality. The *Apple Design Guidelines* assumed that
+metaphor would lead to learning and discovery. More than forty years of
+computing under the guidelines have failed to produce a learned public. This
+is evidenced by the frequent and urgent calls to digital literacy on the part
+of our leading intellectuals, educators, and politicians.[^ln-digitalliteracy]
+Instead of educating, the preference for easy figurative tropes created
+shortcuts to knowledge. Once established, such shortcuts continue to prevent
+users from literal engagement with computational realities. Like Tolstoy's
+mindless dusting, life at the keyboard passes without reflection. Worse yet,
+the trope obscures forces of capital, governance, and control cloaked behind
+the innocuous figure.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
@@ -389,8 +390,8 @@ be in a jarring state; out of harmony; at odds; awry" [@_ajar_2015;
 between two usually unrelated words, a door and ajar, first creates a novel
 analogy but then leads to renewed insight. Could the nonsensical *adoor* carry
 the semantic weight of an adverb? Is it a chore to turn a jar? The
-etymological excavation leads us to rediscover unexpected confluences in the
-words' usage and origins.
+etymological play leads us to rediscover unexpected confluences in the words'
+usage and origins.
 
 Where estrangement in art could renew the word through suggestive, often
 trans-rational [*zaum*] experience, in scholarly practice the formalists
@@ -410,7 +411,7 @@ Computers, as I will argue throughout, are essentially machines for universal
 symbolic manipulation. This property makes them particularly suitable for
 figurative analysis, which aims to explicate concepts involved in the making
 of the metaphor.[^ln-egturner] Influenced by the tradition of formal literary
-exegesis in the work of scholars like Viktor Shklovsky, Franco Moretti, and
+exegesis in the work of scholars like Boris Eikhenbaum, Franco Moretti, and
 Caroline Levine, my overarching aim in *Plain Text* is therefore to expose the
 illusion of verisimilitude between text on paper and the simulated text on a
 screen. The words may look the same, but the underlying affordances of the
@@ -456,7 +457,7 @@ Each chapter enacts a deconstruction---a literal taking apart---of that
 device.
 
 The shifting affordances of digital text challenge some of our deep-seated
-intuitions about literature. The word processor, operating system, and the
+intuitions about literature. The word processor, the operating system, and the
 electronic book are some of the sites that stage the encounter between
 literary theory and practice today. In *Plain Text* I introduce a method of
 computational hermeneutics, which is a form of textual analysis strongly
@@ -498,11 +499,11 @@ discourse that speaks---could ever displace the myth of the
 author.[^ln-varela] A discipline of close attention to the atomic particulars
 of encoding, transmission, storage, and the decoding of text at the site if
 its application to the human condition ultimately reclaims a measure of
-subjective agency in authorship.  This may seem strange at first: to recover
-the subject in the physical minutiae of the textual--technological encounter.
-Yet the point of contact between human, text, and device is significant
-precisely because it is here that the subject seems to disappear into the
-machine and the machine appears in the guise artificially intelligent actor.
+subjective agency.  This may seem strange at first: to recover the subject in
+the physical minutiae of the textual--technological encounter.  Yet the point
+of contact between human, text, and device is significant precisely because it
+is here that the subject seems to disappear into the machine and the machine
+appears in the guise of an artificially intelligent actor.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper offers the document of record, which, once archived,
@@ -526,12 +527,12 @@ with each other during writing, the contact between keyboard and screen passes
 through another complex chain of mediation. Writing, in that sense, in itself
 becomes an experience both programmed and simulated. We do not write in the
 conventional sense of inscribing marks into a static host. Rather, we are
-shown superimposed images of inscription and media. At best, the composite
-trope attains some measure of correspondence to the physical realities of
-typing, editing, and saving files. In the worst case, the connection between
-keyboards and screens suffers from intractable "man-in-the-middle" attacks, by
-which a third parties maliciously alter the content of intended communication
-[@needham_using_1978].
+shown images of inscription superimposed onto media simulations. At best, such
+composite tropes attain a measure of correspondence to the physical realities
+of typing, editing, and archiving paper. In the worst case, the connection
+between keyboards and screens suffers from intractable "man-in-the-middle"
+attacks, by which a third parties maliciously alter the content of intended
+communication [@needham_using_1978].
 
 In *Plain Text*, I will argue that some of the higher--level political
 afflictions of the contemporary public sphere---mass surveillance and online
@@ -1208,14 +1209,14 @@ things, but that they enact change in the world.
 
 [^ln-sweatshop]: See @freeman_high_2000 and @patel_working_2010.
 
-[^ln-translation]: Translations are mine unless source cited explicitly in
+[^ln-brik]: @brik_poetika_1919, 104. Translations are mine unless source cited explicitly in
 English.
 
 [^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
 Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
 
-[^ln-varela]: See for example @varela_autopoiesis_1974; @barthes_rustle_1989,
-5; @nuttall_new_2007, 6-25.
+[^ln-varela]: See @varela_autopoiesis_1974; @barthes_rustle_1989, 5;
+@nuttall_new_2007, 6-25.
 
 [^ln-wark]: I use the term "vector" in somewhat more limited sense than it
 appears in the idea of "vectoralist class" coined by McKenzie Wark. By
