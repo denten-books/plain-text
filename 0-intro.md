@@ -358,17 +358,17 @@ social sphere as fetish.
 Early architects of human-computer interaction wrote their recommendations
 with novice users in mind. The metaphor was supposed to ease the transition
 into a virtual world. Once inside, the virtual inhabitant also began to
-mistake metaphor for reality. The *Apple Design Guidelines* assumed that
-metaphor would lead to learning and discovery. More than forty years of
-computing under the guidelines have failed to produce a learned public. This
-is evidenced by the frequent and urgent calls to digital literacy on the part
-of our leading intellectuals, educators, and politicians.[^ln-digitalliteracy]
-Instead of educating, the preference for easy figurative tropes created
-shortcuts to knowledge. Once established, such shortcuts continue to prevent
-users from literal engagement with computational realities. Like Tolstoy's
-mindless dusting, life at the keyboard passes without reflection. Worse yet,
-the trope obscures forces of capital, governance, and control cloaked behind
-the innocuous figure.
+mistake metaphor for reality. The *Apple Design Guidelines* imply that
+metaphor-based design would lead to learning and discovery. More than forty
+years of computing under the guidelines have failed to produce a learned
+public. This is evidenced by the frequent and urgent calls to digital literacy
+on the part of our leading intellectuals, educators, and
+politicians.[^ln-digitalliteracy] Instead of educating, the preference for
+easy figurative tropes created shortcuts to knowledge. Once established, such
+shortcuts continue to prevent users from literal engagement with computational
+realities. Like Tolstoy's mindless dusting, life at the keyboard passes
+without reflection. Worse yet, the trope obscures forces of capital,
+governance, and control cloaked behind the innocuous figure.
 
 Estrangement [*ostranenie*], sometimes also translated as "defamiliarization",
 was the formalist answer to the ossified metaphor. Estrangement was meant to
@@ -524,7 +524,7 @@ The transition between the Gutenberg press and "Project Gutenberg," an online
 library containing thousands of texts, has brought with it further as yet
 unexamined possibilities. Unlike pen and paper which come in direct contact
 with each other during writing, the contact between keyboard and screen passes
-through another complex chain of mediation. Writing, in that sense, in itself
+through another complex chain of mediation. Writing in that sense in itself
 becomes an experience both programmed and simulated. We do not write in the
 conventional sense of inscribing marks into a static host. Rather, we are
 shown images of inscription superimposed onto media simulations. At best, such
@@ -566,7 +566,7 @@ inequities of access to knowledge compel readers to print their own books and
 build their own libraries. Witness the so-called "shadow libraries" of Eastern
 Europe, the street book vendors of India and Pakistan, and the gray market
 presses of Nigeria arising form the country's "book
-famine."[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
+famine"[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
 @bodo_short_2014; @nkiko_book_2014]. More than mere piracy, such
 *samizdat*-like practices engage in the proactive preservation of the literary
 sphere [@tenen_book_2014]. Informal book exchange networks create reading
@@ -577,9 +577,9 @@ infrastructures are commodified. Consequently, the material contexts of
 meaning making are received passively, taken for granted, and disappear from
 view. For many readers, technologies that support reading, writing, and
 interpretation pass from tools to fetish. We hold tender feelings for our
-mobiles and laptops, grasp for them in times of trouble and cradle them in our
-laps. No longer comprehensible by the way of the pen or the printing press we
-imbue them with magical powers. Thus we exist in the state of profound
+mobiles and laptops, grasp for them in times of trouble, and cradle them in
+our laps. No longer comprehensible by the way of the pen or the printing press
+we imbue them with magical powers. Thus we exist in the state of profound
 alienation from the material conditions closet to our mental activity.
 
 The future of reading and writing is inexorably intertwined with the
@@ -601,18 +601,17 @@ cannot give rise to ideals any more than financial markets can. Among the many
 available visions of human--computer interaction I argue for our choosing one
 that confirms to a humanist ethos, whatever the reader's politics.
 
-Computational hermeneutics encourages "users" to become active thinkers,
-tinkerers, and makers of technology. It treats "binary" and "digital"
-environments as fluid literary systems, amenable to the construction and the
-deconstruction of meaning. I further encourage those who may have considered
-themselves mere "users" to apply the same critical acuity they employ in the
-close reading of prose and poetry to the understanding of code and machine.
-For text to render on the screen properly it must be "encoded" or "translated"
-from machine-transmittable code into human-readable shape. Encoding
-constitutes a primitive field of textual activity, at the crossroads of
-computer science and the study of literature. Encoding matters because how
-text is encoded, transmitted, and stored decides who gets to decode, to
-receive, and to access.
+Computational hermeneutics encourages users to become active thinkers,
+tinkerers, and makers of technology. It treats binary and digital environments
+as fluid literary systems, amenable to the construction and the deconstruction
+of meaning. I further encourage those who may have considered themselves mere
+"users" to apply the same critical acuity they employ in the close reading of
+prose and poetry to the understanding of code and machine.  For text to render
+on the screen properly it must be encoded or translated from
+machine-transmittable code into human-readable shape. Encoding constitutes a
+primitive field of textual activity, at the crossroads of computer science and
+the study of literature. Encoding matters because how text is encoded,
+transmitted, and stored decides who gets to decode, to receive, and to access.
 
 The advent of simulated text necessitates a computational hermeneutics, which
 enables unfettered access to text, code, platform, and infrastructure.  For
@@ -710,19 +709,20 @@ beautiful and yet arbitrary ways.
 As a consequence of my commitment to a pragmatic materialism, *Plain Text*
 shares in the experimental turn affecting a wide range of humanistic
 disciplines. When beginning the project, I was initially inspired by the
-writings of a little-known but influential ninetieth century French physician,
-who was one of the first researchers to incorporate experimentation into
-medical practice.[^ln-bernard] Writing against the tradition of "inductive
-generalizers," Bernard believed that medicine could only advance by "direct
-and rigorous application of reasoning to the facts furnished us by observation
-and experiment." "We cannot separate the two things," he wrote, "head and
-hand." He went on to write that "the science of life is a superb and
-dazzlingly lighted hall which may be reached only by passing through a long
-and ghastly kitchen." "We shall reach really fruitful and luminous
-generalizations about vital phenomena only in so far as we ourselves
-experiment and, in hospitals, amphitheaters, or laboratories stir the fetid or
-throbbing ground of life" [@bernard_introduction_1957, 3-15]. Today, the
-lighted halls of literary and media theory lead to the scholar's workshop.
+writings of Claude Bernard, a little-known but influential ninetieth century
+French physician who was one of the first researchers to incorporate
+experimentation into medical practice.[^ln-bernard] Writing against the
+tradition of "inductive generalizers," Bernard believed that medicine could
+only advance by "direct and rigorous application of reasoning to the facts
+furnished us by observation and experiment." "We cannot separate the two
+things," he wrote, "head and hand." He went on to write that "the science of
+life is a superb and dazzlingly lighted hall which may be reached only by
+passing through a long and ghastly kitchen." "We shall reach really fruitful
+and luminous generalizations about vital phenomena only in so far as we
+ourselves experiment and, in hospitals, amphitheaters, or laboratories stir
+the fetid or throbbing ground of life" [@bernard_introduction_1957, 3-15].
+Today, the lighted halls of literary and media theory lead to the scholar's
+workshop.
 
 In an approach to "doing" theory, *Plain Text* joins the experimental turn
 steering the academy toward critical practice, especially in fields
@@ -758,7 +758,7 @@ textual politics in subtle and profound ways [@mumford_authoritarian_1964;
 Political power is rather exercised through them. Stairs do not discriminate
 against the mobility impaired, for example. The failure to enforce
 accessibility through specific legal and architectural choices does.
-Typesetting software, e-book readers, and word processors similarly incarnate
+Typesetting software, e-book readers, and word processors similarly embody
 implicit communication models: ideas about deliberation, ethics of labor,
 discursive values, and views about "natural" human aptitude for
 interpretation. In this way, contemporary documents structure the literary
@@ -769,13 +769,13 @@ Whatever the answer, a function of understanding the text must include the
 explication of its physical affordances. Experimentalism enables the critic to
 "lay bare" the device. A literary scholar's version of baking bread and
 smelting iron is to make literal the figure suggested by the idea of media
-"archeology" on the level of the mechanism. In *Plain Text* we will dig
-through, unearth, and excavate textual machines. In practicing archeology I
-contend that cardinal literary-theoretical concepts---such as word, text,
-narrative, discourse, author, story, book, archive---are thoroughly enmeshed
-in the underlying physical substratum of paper and pixel. It follows that any
-attempt to articulate the idea cannot attain its full expressive potential
-without a thick description of its base particulates.
+archeology on the level of the mechanism. In *Plain Text* we will dig through,
+unearth, and excavate textual machines. In practicing archeology I contend
+that cardinal literary-theoretical concepts---such as word, text, narrative,
+discourse, author, story, book, archive---are thoroughly enmeshed in the
+underlying physical substratum of paper and pixel. It follows that any attempt
+to articulate the idea cannot attain its full expressive potential without a
+thick description of its base particulates.
 
 Luckily for us, reading and writing are not esoteric activities. They are
 readily available to phenomenological and physical introspection. I will
@@ -783,7 +783,7 @@ therefore occasionally encourage readers to encounter the immediate contexts
 of their reading anew: to put down the book or to lean away from the screen
 and to look at these textual artifacts with strange eyes. In this movement of
 the body, I want to disrupt the mind's habituated intuitions, pitting them
-against knowledge "at hand" and fingertip knowledge: as when ruffling through
+against knowledge at hand and fingertip knowledge: as when ruffling through
 the pages or typing at a keyboard. To what extent is electronic textually
 ephemeral, for example? The pragmatic answer lies not in universal
 propositions, but in technological affordances attached to specific reading
@@ -802,13 +802,13 @@ goes by one name in one part of the system and by another elsewhere. What
 counts for "code" and "poetry" in one domain, like computer science, may not
 account for the same in another domain, like creative writing. An engineer's
 use of the words "code" and "poetry" differs from that of a poet's. The
-changing contexts evoke the corresponding shift in operational definitions.
-Consequently, in *Plain Text*, I write neither a totalizing history of modern
-computing nor a survey of literary theory. Rather, the argument progresses
-from the action of the alphanumerical keyboard switch, through copper and
-silicon, to liquid crystal and the floating gate, and on towards the reader
-and the community. It is but a single possible pass through a cavernous black
-box.  Each chapter reflects a waypoint along the journey.
+changing contexts evoke the corresponding shift in operational definitions.  I
+write therefore neither a totalizing history of modern computing nor a survey
+of literary theory. Rather, the argument progresses from the action of the
+alphanumerical keyboard switch, through copper and silicon, to liquid crystal
+and the floating gate, and on towards the reader and the community. It is but
+a single possible pass through a cavernous black box.  Each chapter reflects a
+waypoint along that journey.
 
 The passage from keystroke to pixel runs a thread through the book. In the
 chapters to follow, the electronic literary artifact---the thing next to my
@@ -842,32 +842,33 @@ several sentences without seeing the printed output. The chapter identifies a
 milestone in the history of human textuality: the moment at which the
 inscription passes from view.
 
-The **third chapter** charts the emergence of the screen which restored a
-measure of visibility lost to magnetic inscription, with one major
-side-effect. The fidelity of the visible word could no longer be guaranteed.
-What the screen showed and what was stored on tape carried only a contingent
-correlation. Even today, many readers struggle to answer a simple question:
-Where does the text physically reside? Our inability to precisely locate the
-site of the inscription belies its seemingly ephemeral quality. Words on the
-screen appear conspicuous, but do not last once the device is powered off.
-Device reading happens on screens that refresh themselves at a rate of around
-60 cycles per second (Hertz). Screen textuality is therefore by definition
-ephemeral. It is technically an animation. It moves even as it appears to
-stand still. The third chapter unfolds at the site of the projection.  Modern
-screens modulate the electrical signal to push light through a liquid crystal
-medium. Here, I bring the mechanics of the medium to bear on a theoretical
-conversation about digital aesthetics. Works by the philosophers Henri
-Bergson, Jakob von Uexküll, and John Goodman help construct a phenomenology of
-screen-based digital perception. The digital emerges ultimately not as
-property of the medium, but as structure imposed onto matter from without. In
-the extreme, that means that a censored electronic text is a perfectly analog
-artifact. Conversely, texts in print are already "born digital," in the sense
-that literary works like Shakespeare's *Hamlet* are amenable to "reliable
-processes of copying and preservation" [@haugeland_analog_1981, 213-225]. But
-such attributes are again neither universal nor essential to the medium. "The
-reliability and preservation of textual copies" may mean one thing to a
-literary scholar, another to a software engineer or a legal professional, and
-yet something entirely different to a librarian.
+The **third chapter** charts the emergence of the screen. The screen appears
+to restore a measure of visibility lost to magnetic inscription, with one
+major side-effect. The fidelity of the visible word can no longer be
+guaranteed. What the screen shows and what is stored on tape carries only a
+contingent correlation. Even today, many readers struggle to answer a simple
+question: Where does the text physically reside? Our inability to precisely
+locate the site of the inscription belies its seemingly ephemeral quality.
+Words on the screen appear conspicuous, but do not last once the device is
+powered off.  Device reading happens on screens that refresh themselves at a
+rate of around 60 cycles per second (Hertz). Screen textuality is therefore by
+definition ephemeral. It is technically an animation. It moves even as it
+appears to stand still. The third chapter unfolds at the site of the
+projection.  Modern screens modulate the electrical signal to push light
+through a liquid crystal medium. Here, I bring the mechanics of the medium to
+bear on a theoretical conversation about digital aesthetics. Works by the
+philosophers Henri Bergson, Jakob von Uexküll, and John Goodman help construct
+a phenomenology of screen-based digital perception. The digital emerges
+ultimately not as property of the medium, but as structure imposed onto matter
+from without. In the extreme, that means that a censored electronic text is a
+perfectly analog artifact. Conversely, texts in print are already "born
+digital," in the sense that literary works like Shakespeare's *Hamlet* are
+amenable to "reliable processes of copying and preservation"
+[@haugeland_analog_1981, 213-225]. But such attributes are again neither
+universal nor essential to the medium. "The reliability and preservation of
+textual copies" may mean one thing to a literary scholar, another to a
+software engineer or a legal professional, and yet something entirely
+different to a librarian.
 
 The **fourth chapter** moves from the screen to machine internals. Somewhere
 between sites of storage and projection, the computed sign underwent a series
@@ -1040,15 +1041,6 @@ interpretation [@pasquale_black_2015]. They are under no obligation to reveal
 their biases or motivations. The search results for "Andalusian Spain" may
 well suppress elements of Muslim history or privilege a historical narrative
 that privileges an English-centric view of the world.
-
-[^ln-bookreview]: I write "supplants the function" because I do not mean to
-imply that the book review disappears or becomes less vital. On massive market
-platforms like Amazon Books, the book review passes from the domain of an
-expert to the domain of the lay reader. Book reviews thus proliferate. Their
-function changes from universal aesthetic judgement to instrumental reasoning.
-In other words, we now find the book first then read the review. The review
-ceases to serve as a tool for discovery--a function now addressed by the
-search and recommendation engines.
 
 Each text in the returned search results list requires the instrumentation of
 close, analytical interpretation. However, the same discipline of critical and
@@ -1236,3 +1228,13 @@ of technological structure endow the creation with an anticipated *telos*"
 
 [^ln-witt]: @wittgenstein_philosophical_2001, 67-77. For more on the
 connection between Wittgenstein and James see @goodman_james_2004.
+
+[^ln-bookreview]: I write "supplants the function" because I do not mean to
+imply that the book review disappears or becomes less vital. On massive market
+platforms like Amazon Books, the book review passes from the domain of an
+expert to the domain of the lay reader. Book reviews thus proliferate. Their
+function changes from universal aesthetic judgement to instrumental reasoning.
+In other words, we now find the book first then read the review. The review
+ceases to serve as a tool for discovery--a function now addressed by the
+search and recommendation engines.
+
