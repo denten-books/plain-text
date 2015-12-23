@@ -2042,3 +2042,147 @@ answer to the machine remains in the machine.
 <!-- notes -->
 <!-- notes -->
 
+## 0.7 Scale
+
+Technological systems that give rise to complex social phenomena, from market
+trading to literary canon formation, defy holistic comprehension. Writing in
+1977, Langdon Winner warned the scholar of science and technology to stay away
+from those "mystics" and "crackpots" who offer visions of a new and totalizing
+synthesis. Quoting the French poet and philosopher Paul Valéry, he wrote that
+"our means of investigation and action have far outstripped our means of
+representation and understanding" [@valery_collected_1962, 69;
+@winner_autonomous_1978, 290]. "Citizens of the modern age in this respect are
+less fortunate than children," he wrote. Children graduate from ignorance to
+understanding. Adults however never escape a "fundamental bewilderment in the
+face of the complex world that their senses report." Winners work anticipates
+the exponential growth in complexity of computing systems that surround us
+today. The Unix operating system announced on the pages of the Proceedings of
+the fourth ACM symposium on Operating systems in 1972 comprised roughly 10,000
+lines of code, or roughly the equivalent of three of Shakespeare's plays
+[@ritchie_unix_1973; @ritchie_unix_1974; @mccandless_million_2015]. By
+contrast, the code that runs *Google* comprises more than 2 billion lines of
+code, or roughly 700 million *Hamlets*.[^ln-twobil]
+
+The growth of the literary sphere has mirrored the rapid proliferation of
+code. On an average day in 2008, at home, an average American read around
+100,000 words [@bohn_how_2009]. At 250 words per page, that amounts to reading
+around 402 printed pages or roughly a novel like Emily Bronte's *Wuthering
+Heights* per day. Pointing to the sheer impossibility of processing the amount
+of published information in nineteenth let alone the twenty-first century, the
+American poet and critic Craig Dworkin urged his peers to abandon the dream of
+comprehensive knowledge of the literary sphere altogether
+[@dworkin_seja_2008]. But does this mean we should stop trying to read or
+compose literary histories?
+
+We have two viable options, as I see it. The first is to scale up. The various
+practices of distant reading arise from the condition in which canons are no
+longer accessible, in their entirety, to the unaided (natural) human
+intellect. The second options is to scale down. Thus where distant reading
+perceives patterns across large-scale corpora, computational
+hermeneutics---microanalysis---breaks literary systems down to their minute
+constituent components. The best we can do in the face of complexity, Winner
+advises, "is to master a few things in the immediate environment"
+[@winner_autonomous_1978, 286]. Microanalysis aims to create localized pockets
+of clarity from which further critique and exploration can advance.
+
+To understand something small about the physical realities of "turning"
+virtual "pages" is to create a space capable of supporting a measure of
+agency, desire, or dissent.[^ln-dissent]
+
+Between the years of 1980 and 2008, the consumption of
+information in bytes---a measure that would obviously privilege storage-heavy
+content like sound and video---grew at a modest 5.4 percent per year. Reading,
+in decline until the advent of the internet, has tripled in the same period.
+Reading in print accounted for 26 percent of verbal information consumed in
+1960. That number fell to 9 percent in 2008, but the consumption of words
+digitally increased to 27 percent of total consumption, which means that
+reading has increased its share of the overall household attention span
+[@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the
+twenty-first century saw a 20 percent increase in library visitation
+[@u.s._institute_of_museum_and_library_services_public_2010]. By a
+conservative estimate, the number of scientific publications grows at about
+4.7 percent per year, which means that the amount of published research
+doubles roughly every 15 years [@archambault_welcome_2005;
+@crespi_empirical_2008; @larsen_rate_2010]. The number of books published in
+the United States nearly tripled from 2005 to 2009. More that 37,000 poetry
+and drama titles were published in the United States between 1993 and 2006
+[@dworkin_seja_2008; @bowker_u.s._2009]. All of the metrics point to an
+unprecedented growth of the literary sphere.  The proliferation of code, also
+read and written by humans, further contributes to the expansion of the
+archive. Code produces text. It is likely that at some point soon the writing
+by machines---like social media bots, spam and automatic news
+generators---will outpace human literary output.[^ln-spam]
+
+Unassisted strategies of interpretation like
+philology or close reading evolved in an environment of received literary
+canons, naturally accessible to the human intellect. In the age of print, a
+well-educated person might have been expected to read some several hundred
+"great books," which made up the "canon." Literary criticism was honed to
+operate on that naturalized scale.
+
+ These
+include distant reading and macroanalysis in literary studies
+[@jockers_macroanalysis_2013; @moretti_distant_2013], culturomics in economy
+[@aiden_uncharted:_2014], e-discovery in law [@scheindlin_electronic_2004;
+@scheindlin_electronic_2009], automatic essay evaluation in education
+[@shermis_handbook_2013], and medical informatics in medicine
+[@shortliffe_biomedical_2013], among others. A shared toolkit lies at the
+foundations of these nascent disciplines. It includes tools like statistical
+natural language processing [@manning_foundations_1999;
+@jurafsky_speech_2008], automatic summarization [@radev_centroid-based_2004;
+@nenkova_pyramid_2007], machine learning [@rasmussen_gaussian_2006;
+@flach_machine_2012], network analysis [@opsahl_node_2010;
+@szell_measuring_2010; @takhteyev_geography_2012], and topic modeling
+[@wallach_topic_2006; @blei_probabilistic_2012].
+
+The engines of search and recommendation rise to answer the needs for more
+efficient filtration of data. Where a librarian or a book reviewer could sift
+through thousands of volumes to distill the ones worth reading or purchasing,
+the algorithmically-augmented search and discovery tool indexes billions.
+Consider the task of finding an unknown (to me) factoid online, about
+philosophy in the times of Andalusian Spain, for example. Where in the past I
+might have started with a library subject catalog, today I construct a search
+query, using resources that I believe contain a reasonably complete archive of
+texts on the subject. The search engine in effect replace (or rather
+complement) centuries-long processes of canon-formation. A near-instantaneous
+list of query results now becomes my ephemeral, but nevertheless
+authoritative, collection of literature relevant to any given topic of
+interest. In this way the search engine supplants the catalog. And the
+recommendation engine, of the kind commonly used by online book stores,
+supplants the function of the book review.[^ln-bookreview] But as Frank
+Pasquale has argued convincingly in his recent book, the problem with such
+complex algorithmically-powered tools is that unlike public library catalogs,
+proprietary search and recommendation engines are not necessarily open to
+interpretation [@pasquale_black_2015]. They are under no obligation to reveal
+their biases or motivations. The search results for "Andalusian Spain" may
+well suppress elements of Muslim history or privilege a historical narrative
+that privileges an English-centric view of the world.
+
+Each text in the returned search results list requires the instrumentation of
+close, analytical interpretation. However, the same discipline of critical and
+reflective deliberation exercised on the level of an individual text needs to
+also be exercised on the level of procedurally generated search engine
+results: Where to search? Using what engine? How to construct the query? What
+are the implicit biases of the system?  Whatever ideals motivate close reading
+between "text" and "work" surely must drive the process on the level of
+dynamic corpus composition. To make them available for scrutiny the
+"macroscopes" themselves need to be taken apart. Thus where distant reading
+perceives patterns across large-scale corpora, computational
+hermeneutics---microanalysis---breaks literary systems down to their minute
+constituent components.
+
+Where distant reading and macroanalysis constitute the study of mediation
+between readers and text aggregates (like canons, corpora, collections,
+libraries, archives, and database) microanalysis examines mediation at the
+level of physical minutiae otherwise not readily observed in cursory
+exploration. The instruments of microanalysis may coincide with computational
+tools, designed to find hidden patterns lurking above or beneath a given
+document.[^ln-iarkho] The micro-instrumentation might also include a
+screwdriver, a binding needle, or a soldering iron: sharp tools that help to
+pry open and to scrutinize otherwise magical textual black boxes. My
+methodology thus lies in the dialectical tension between making known and
+making strange. Each chapter reveals the material realities of symbolic action
+like "closing windows," "bookmarking a page," and "dragging and dropping
+files." Where the metaphor is made strange, the mechanics of the device comes
+into view. The metaphor and the machine help organize the book and each of its
+chapters.

@@ -14,7 +14,6 @@ Jessica Pressman (Digital Modernism)
 Siskin and Hover.
 Siegert
 
-
 Tricia
 Jenny
 Ed
