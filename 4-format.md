@@ -1,7 +1,7 @@
 # Chapter 4: Simulation
 `metaphor, form, format, formula`
 
-## Introduction
+## 4.0 Introduction
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
@@ -56,8 +56,8 @@ dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
 maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide the text from view
-completely or to make so small as to be illegible affects not just the style
-but the politics of text. Formatting, in that sense, can determine its
+completely or to make it so small as to be illegible affects not just the
+style but the politics of text. Formatting, in that sense, can determine its
 audience, privileging certain voices and modes of access over others.
 
 Unlike figurative language, formatting codes and programming languages
@@ -69,7 +69,7 @@ restraint. A restraining order *represents* the calling forth of codified
 power. Physical restraints, like the plastic handcuffs widely used in
 contemporary policing, *enact* the exercise of codified power. Like all
 violence they do not stand for anything. Stripped of references, resemblances,
-and designations, they are in themselves an arrangement and a rearrangement of
+and designations, they are in themselves an arrangement and rearrangement of
 matter. The handcuffs contort the body into the shape of submission. Absent a
 body, the restraints draw an empty shape.
 
@@ -82,7 +82,7 @@ Can there be an empty paragraph? Can the shape of the paragraph persist
 outside of the material confines of the page or the screen? Can one imagine a
 paragraph that unfolds spatially not in two dimensions, but in one, along a
 straight line?  What about a three dimensional paragraph? Could it take shape
-as a cuboid instead instead of a rectangle? These questions boggle the mind
+of a cuboid instead instead of a rectangle? These questions boggle the mind
 because the paragraph draws a singular shape. It is a textual container of a
 type. Any other shape less or more than the paragraph would go by another
 name. It would constitute another format. To imagine something like a
@@ -192,7 +192,7 @@ processing emerging in the middle of the twentieth century. A kind of a
 computational formalism will give us the means to reveal a layer of formatting
 shaping every digital document.
 
-## Metaphor Machine
+## 4.1 Metaphor Machine
 
 Consider the following passage from a patent filed by Xerox in 1991. It
 describes, in its own words, "an electronic library metaphor," which includes:
@@ -507,7 +507,7 @@ archetypal "rule book" for its creation. The two senses matter because they
 lead to opposing strategies of interpretation. One seeks to describe, the
 other to explain; one to perceive, the other to reveal.
 
-## Form, Formula, Formatting
+## 4.2 Form, Formula, Formatting
 
 Form is an often used but Caroline Levine.
 
@@ -1051,7 +1051,7 @@ sometimes into semantic-carrying ideation: form, the indeterminate.
 
 
 
-## Document Object Model
+## 4.3 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
