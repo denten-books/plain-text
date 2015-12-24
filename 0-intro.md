@@ -29,7 +29,7 @@ into something resembling a book on the screen. I tap again to begin reading.
 The screen dims to match room ambiance as words fill the screen. One of the
 passages on the first page appears underlined: a number of other readers in my
 social circle must have found the passage notable. My finger slides along the
-glass surface to turn the "page." The device emits a muffled rustle, to
+glass surface to turn the "page." The device emits a muffled rustle to
 reinforce the pretense of manipulating paper. The image curls ever so slightly
 in a way that resembles a printed page as another "page" slides into view. My
 tiny library metaphor contains hundreds of such page metaphors.
@@ -112,7 +112,7 @@ identifies a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." Plain text stands in
 opposition to "fancy text," "text representation consisting of plain text plus
 added information."[^ln-uni] In the tradition of American textual criticism,
-"plain text" identifies an editorial method of text transcription which is
+"plain text" alludes to an editorial method of text transcription which is
 both "faithful to the source" and is "easier to read than the original
 document" [@cook_time-bounded_1972]. Combining these two traditions, I mean
 ultimately to build a case for a kind of a systematic minimalism when it comes
@@ -238,15 +238,14 @@ To prevent the slide into illiteracy, instruments of literary analysis must
 continue to evolve to elicit meaning under new technological contingencies.
 Where texts are encrypted, we decrypt. If, as Kittler writes, automated
 discourse analysis threatens to take command, we will engineer automatons that
-command on our behalf [@kittler_gramophone_1999, 263]. Together, small acts of
-resistance can mount to recover a measure of agency from the ruling
-determinism of, take your pick: markets, complex systems, unconscious drives,
-monistic universes, *gaia* science, social networks, technology, the
-singularity, bureaucracy, war...  Indeed, the possibility of human
-erasure---the loss of all sense---is never far, "like the face drawn in the
-sand at the edge of the sea" [@foucault_order_1994, 387]. The fragility of
-life compels the need to mobilize whatever modest means available for the
-human to persevere against daunting odds.
+command on our behalf. Together, small acts of resistance can mount to recover
+a measure of agency from the ruling determinism of, take your pick: markets,
+complex systems, unconscious drives, monistic universes, *gaia* science,
+social networks, technology, the singularity, bureaucracy, war...  Indeed, the
+possibility of human erasure---the loss of all sense---is never far, "like the
+face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387].
+The fragility of life compels the need to mobilize whatever modest means
+available for the human to persevere against daunting odds.
 
 When we mistake things for animate actors, we ourselves become enmeshed in a
 system of digital production that commodifies human experience. Objects that

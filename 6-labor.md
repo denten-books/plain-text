@@ -2089,6 +2089,9 @@ To understand something small about the physical realities of "turning"
 virtual "pages" is to create a space capable of supporting a measure of
 agency, desire, or dissent.[^ln-dissent]
 
+, Microanalysis creating pockets of clarity from
+which further critique and exploration can advance. 
+
 Between the years of 1980 and 2008, the consumption of
 information in bytes---a measure that would obviously privilege storage-heavy
 content like sound and video---grew at a modest 5.4 percent per year. Reading,
