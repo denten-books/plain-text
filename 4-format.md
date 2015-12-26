@@ -1,8 +1,6 @@
 # Chapter 4: Simulation
 `metaphor, form, format, formula`
 
-## 4.0 Introduction
-
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
@@ -43,8 +41,8 @@ predetermined code that would switch the receiving apparatus from the "English
 language" into the "French language" mode. Such an instruction would *attune*
 the receiver to a different mode of apprehension. In our example, it would
 transform an English language machine into a French language one. It is in
-that sense of attunement that the "programmatic sign" acquires its
-non-representational, "tactical" character. Stripped of references,
+that sense of attunement that the programmatic sign acquires its
+non-representational, tactical character. Stripped of references,
 resemblances, and designations the programmatic sign commands and controls.
 
 Yet despite the formative impact on the structure of comprehension, the
@@ -81,7 +79,7 @@ paragraph contains information. Emptied of content, it simply ceases to exist.
 Can there be an empty paragraph? Can the shape of the paragraph persist
 outside of the material confines of the page or the screen? Can one imagine a
 paragraph that unfolds spatially not in two dimensions, but in one, along a
-straight line?  What about a three dimensional paragraph? Could it take shape
+straight line? What about a three dimensional paragraph? Could it take shape
 of a cuboid instead instead of a rectangle? These questions boggle the mind
 because the paragraph draws a singular shape. It is a textual container of a
 type. Any other shape less or more than the paragraph would go by another
@@ -120,14 +118,30 @@ nothing inherently paragraph-like in the neural arrangement of the brain,
 there is also nothing inherently paragraph-like or page-like in the
 arrangement of bits along the surface of the magnetic disk or the solid state
 drive. We are presented instead with metaphors of paragraphs, pages, files,
-and folders. The paragraph mediates between mental image and inscription. When
-reading electronically, we prefer to manipulate information through familiar
-mediating structures like folders, pages, and paragraphs. Thus one "drops a
-folder into the trash bin" or "drags and drops a file" or "bookmarks a page."
-Such metaphors open new figurative possibilities---one cannot literally "drag"
-or "drop" bits otherwise. But they also obscure the actual physical
-contingencies of interacting with bits and bytes, logic gates and magnetic
-traces.
+and folders. These looks like paragraphs, pages, files, and folders on the
+screen, yet they represent other structures in the head, and yet other
+structures on the disk. The visible paragraph in a sense mediates between
+mental image, information stored in the head, and inscription, information
+stored in the machine.
+
+When reading electronically, we prefer to manipulate information by the means
+of familiar mediating structures like paragraphs, pages, files, and folders.
+Such structures are attached figuratively to the affordances of print. In
+other words, we know what paragraphs, pages, files, and folders can do in
+print. For example, one affordance of paper is that it can be folded. The
+reader can therefore "earmark" a page. The digital medium offers yet another
+set of affordances. But because the reader lacks familiarity with digital
+media, its affordances are presented through metaphor. For example, the
+ability to create a pointer to a bit of data could be represented with a
+virtual "earmark" on a "page." The "page" in this case stands for bit
+structure and the "earmark" for a pointer. Similarly one "drops a folder into
+the trash bin" or "drags and drops a file" or "bookmarks a page." Such
+metaphors rely on habituated insight with one medium extended into another.
+We cannot literally "drag" or "drop" bits, but we use the metaphor of paper to
+help the user manipulate bits and bytes as if they were little pieces of
+familiar paper. The metaphor opens new figurative possibilities, but it also
+obscures the actual physical contingencies of interacting with bits and bytes,
+logic gates and magnetic traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
