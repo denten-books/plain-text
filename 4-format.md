@@ -208,6 +208,54 @@ shaping every digital document.
 
 ## 4.1 Metaphor Machine
 
+They key to understanding "the loss of resemblances" that accompanies
+ubiquitous simulation lies in the structure of the interface metaphor. A
+functioning metaphor, if you would recall from George Lakoff, is one in which
+the schematic structure of one domain is in some way transposed into another.
+Thus to say "life is a stage" is to transpose something about theater onto
+life. In literary terms, the theater is "tenor" where "life" is "vehicle" of
+the composite figure.
+
+Simulation differs from metaphor in the traditional sense in several important
+ways. Where the traditional metaphor substitutes one word or idea for another,
+a simulation substitutes the "signs of the real for the real"
+[@baudrillard_simulacra_1994, 2]. It is a subtle difference that engenders
+blunt effects. For example, it is one thing to say "you are the apple of my
+eye" and quite another to actually confuse eye pupils and apples. Baudrillard
+gives the example of a map that no longer corresponds to any territory. He
+called such a condition of pure simulation without a referent hyper-reality.
+My concern here is rather with the more common situation by which the
+simulation occludes the realities of the thing being simulated, or simply
+according to the dictionary a  "tendency to assume a form resembling that of
+something else" [@_simulation_2015]. Assuming the form, as we shall see, will
+become a key theme in this chapter. We will start with metaphor but end with
+form. Formatting with reveal itself to be precisely the mechanism by which one
+thing takes the form of another.
+
+The architecture of computation leaves a gap between the source domain and the
+target. The source of the interface metaphor originates on the screen. In this
+way we observe the "turning" of an electronic "page," for example. The turning
+and the page carry what literary scholars call the "tenor" of the metaphor.
+Furthermore, the "turning of the page" implies a certain physical arrangement
+of matter. For example that pages can be turned, that they are sequential, and
+so on. The virtual action of "turning the page" sets off a series of
+corresponding actions in the target domain. Turing the page on the screen thus
+activates the reading and writing components of the computer's internals.
+These components operate under different physical constraints than pen and
+paper. For example, in reading data from solid state (FLASH) memory the device
+imparts electrical charge through quantum tunneling onto a connected series of
+floating gate transistors [@pavan_flash_1997; @bez_introduction_2003].
+
+!["Perspective view of a portion of a charge translating device illustrating a
+preferred electrical contact arrangement." From
+[@boyle_information_1974].](images/floating-gate.png)
+
+Whatever the complexities of solid state storage architecture, the difference
+in arrangement of information between pages and floating gates is apparent.
+The structure of one has only an arbitrary connection to the structure of the
+other. Consequently action in one domain do not necessitate corresponding
+actions in another.
+
 Consider the following passage from a patent filed by Xerox in 1991. It
 describes, in its own words, "an electronic library metaphor," which includes:
 
@@ -225,21 +273,24 @@ peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
 technical language. What does it mean to "access" a metaphor? When someone
 "checks out" a book from the electronic library, do they gain access to the
 book or to the metaphor? The traditional theory of the metaphor does not
-prepare us to answer such questions. In the so-called classical view,
-metaphors are simply a type of figurative language. To say "the day stands
-tiptoe on the misty mountain tops" is to use the verb "stand" in a novel
-linguistic context. Days have no literal legs to stand on. John Searle, John
-Lakoff, and Mark Turner, among others, have argued that metaphor is a more
-broadly a cognitive phenomenon, mapping distinct ontological categories across
-"conceptual domains" [@lakoff_metaphors_1980; @turner_death_1987;
-@lakoff_contemporary_1998, @searle_metaphor_1998]. In the modified view, even
-such basic semantic concepts as "state, quantity, action, cause, purpose,
-means, modality" are metaphorical in nature [@lakoff_metaphorical_1980;
-@lakoff_contemporary_1998, 212]. Beyond figurative, lyrical language, Lakoff
-and others have argued that metaphors structure everyday experience. Thus the
-analysis of common phrases like "things are looking up" and "I can't get that
-tune out of my mind" reveals underlying figuration like "good things are up"
-and "the mind is a container [@lakoff_metaphorical_1980, 195-198].
+prepare us to answer such questions. In what follows, we will first review the
+relevant literature on metaphor and then consider
+
+In the so-called classical view, metaphors are simply a type of figurative
+language. To say "the day stands tiptoe on the misty mountain tops" is to use
+the verb "stand" in a novel linguistic context. Days have no literal legs to
+stand on. John Searle, John Lakoff, and Mark Turner, among others, have argued
+that metaphor is a more broadly a cognitive phenomenon, mapping distinct
+ontological categories across "conceptual domains" [@lakoff_metaphors_1980;
+@turner_death_1987; @lakoff_contemporary_1998, @searle_metaphor_1998]. In the
+modified view, even such basic semantic concepts as "state, quantity, action,
+cause, purpose, means, modality" are metaphorical in nature
+[@lakoff_metaphorical_1980; @lakoff_contemporary_1998, 212]. Beyond
+figurative, lyrical language, Lakoff and others have argued that metaphors
+structure everyday experience. Thus the analysis of common phrases like
+"things are looking up" and "I can't get that tune out of my mind" reveals
+underlying figuration like "good things are up" and "the mind is a container
+[@lakoff_metaphorical_1980, 195-198].
 
 !["An exemplary interface for viewing a three dimensional book"
 [@card_methods_2006, 3].](images/book-metaphor.png)
@@ -247,7 +298,7 @@ and "the mind is a container [@lakoff_metaphorical_1980, 195-198].
 !["Alternate display techniques for information about a big book"
 [@card_methods_2006,4].](images/book-3d.png)
 
-The transference of *physical properties* from one system to another--from
+The transference of physical properties from one system to another--from
 "physical libraries" to "electronic workstations environments," in our case--
 suggests the existence of yet another class of *interface* metaphors.
 Metaphors that can be touched and handled in some way exist neither wholly in
@@ -268,7 +319,7 @@ the ease of learning and using the system [@carroll_metaphor_1982, 107-108]."
 In essence, Carroll imagines human--computer interfaces that enact Lakoff and
 Johnson's "conceptual blending" in practice. In this way, the familiar gesture
 of discarding a crumpled piece of paper into the waste bin can be simulated
-digitally to handle the deletion of electronic documents.  Apple's influential
+digitally to handle the deletion of electronic documents. Apple's influential
 *Human Interface Guidelines*, at the core of Apple's desktop interfaces in the
 1980s, echo Carroll proscriptions:
 
@@ -291,35 +342,72 @@ than those that limit the use of a paper file. The image of the paper file
 should not therefore limit the possibilities of the metaphor's implementation,
 the manual explains. It further advices to "strike a balance between the
 metaphor's suggested use and the ability of the computer to support and extend
-the metaphor" [@apple_apple_1987, 5]. And being a universal symbolic
-manipulator, the Turing machine is able to extend all metaphors. That is not
-to say that it can *do* anything. One cannot use a computational device to
-hammer nails, for example. But a computer can be used to extend the metaphor
-of hammering nails into the virtual realm.
+the metaphor" [@apple_apple_1987, 5]. Being a universal symbolic manipulator,
+the Turing machine is able to extend all metaphors. That is not to say that it
+can *do* anything. For example, one cannot use a computational device to
+hammer nails. But a computer can be used to extend the metaphor of hammering
+nails into the virtual realm.
 
 A number of patents from IBM, Xerox, and Microsoft rely on the language of
-metaphor extensions. Consider United States Patent #5,907,854 by Paula J. Cox
-et.al. of International Business Machines in Armonk, New York. The invention
-describes "a library metaphor that allows a user to organize the online books
-in a manner that has meaning and utility." The authors go on to explain that
-"while the actual books may be store in many separate and distinct locations
-[...] the bookcase provides a familiar classification system." The go on to
-write that the creation of bookcase metaphors involves "the creation of
-appropriate links to the actual online book/bookshelf/bookcase." The "book
-metaphor" ultimately "provides an easy to understand and intuitive model for a
-user who might not be familiar with on-line viewing tools" [@cox_method_1999].
-Similarly, the influential product design firm IDEO worked with Xerox on
-improving company's file manager shell PC Catalog, later renamed to TabWorks.
-In describing the design process, IDEO developers wrote about defining "key
-elements of the metaphor" contained in the image of "tabs" and "catalogs."
-"The book *cover*," they wrote, "opened to display three *rings* binding a set
-of divider *tabs*, each containing one or more *pages*." Pages, in turn
-contained *items* or "icons representing documents or applications"
+metaphor extension. Consider United States Patent #5,907,854 by Paula J. Cox
+et.al. of International Business Machines. The invention describes "a library
+metaphor that allows a user to organize the online books in a manner that has
+meaning and utility." The authors go on to explain that "while the actual
+books may be stored in many separate and distinct locations [...] the bookcase
+provides a familiar classification system." They go on to write that the
+creation of bookcase metaphors involves "the creation of appropriate links to
+the actual online book/bookshelf/bookcase." The "book metaphor" ultimately
+"provides an easy to understand and intuitive model for a user who might not
+be familiar with on-line viewing tools" [@cox_method_1999].  Similarly, the
+influential product design firm IDEO worked with Xerox on improving company's
+file manager shell PC Catalog, later renamed to TabWorks.  In describing the
+design process, IDEO developers wrote about defining "key elements of the
+metaphor" contained in the image of "tabs" and "catalogs." "The book *cover*,"
+they wrote, "opened to display three *rings* binding a set of divider *tabs*,
+each containing one or more *pages*." Pages, in turn contained *items* or
+"icons representing documents or applications"
 [@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "In this way, the
-interface in accordance with the invention permits a user to directly
-manipulate the sheets in the notebook metaphor" [@glaser_graphical_1995].
+interface [...] permits a user to directly manipulate the sheets in the
+notebook metaphor" [@glaser_graphical_1995]. In all of these examples, the
+user operates with a metaphor. The machine then translates a set of metaphoric
+manipulations into the corresponding actions in the physical world. But the
+nature of those manipulations are occluded from users, who are, presumably,
+not equipped to understand the physical realities of computing.
+
+In the first chapter of the book I made the case for simulated text, arguing
+that the verisimilitude between printed text and its digital representation
+obscures material realities particular to computation. We are thus shown one
+thing but manipulate another. To drag and drop a document into a trashcan on
+the screen, for example, corresponds to a number of data manipulations on the
+disk. None of these necessarily include deletion of data from storage media.
+The representation of the document may disappear on the screen where the
+inscription remains. In most cases, we the users, are not bothered by such
+incongruence. But in some cases, when it really matters---under the threat of
+censorship or persecution, for example---the incongruence exposes the frailty
+of our alienation. It is an unprecedented state of affairs: to lose sight of
+the material realities, made all more troubling by the ubiquity of the
+simulation.
+
+Metaphor machines present us with a special case of conceptual domain
+blending. In the cognitive view, the metaphor performs a number of
+"conventional mapping from one domain to another" [@lakoff_contemporary_1998,
+239]. Lakoff mentions for example the common trope of "a state is a person,"
+implicit in the ideas of a "friendly" or a "hostile" state
+[@lakoff_contemporary_1998, 243]. In this case, ideas about agency, emotion,
+and mental life usually attached to people are extended to state actors.
+Similarly, to say that someone is "boiling mad," instantiates the common trope
+of  "anger is a hot liquid in a container." In this case, we map common known
+properties attached to the domain of physics to the domain of emotion.  Lakoff
+further explains that such domain mapping follow a few rules. They are usually
+partial and asymmetrical.  "Mapping are not arbitrary," he writes, "but
+grounded in the body and in everyday experience and knowledge." Finally domain
+mapping obey what Lakoff call the Invariance Principle, by which "the image
+schema structure of the source domain is projected onto the target domain in a
+way that is consistent with inherent target domain structure"
+[@turner_conceptual_1995; @lakoff_contemporary_1998;
+@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
@@ -328,17 +416,17 @@ referring to someone who is thinking is to apply the reader's knowledge of
 automobiles to the mental realm. The speaker may have a notion that spinning
 wheels waste energy without moving the car forward. The metaphor suggests that
 something like that is happening mentally as well [@lakoff_contemporary_1998,
-211]. Poetic metaphor works similar to idiomatic language in suggesting novel
-and hitherto unexplored connections between domains. In his influential essays
-on metaphor the English literary critic I.A. Richards explains that "when we
-use metaphor we have two thoughts of different things active together and
-supported by a single word, or phrase, whose meaning is a resultant of their
-interaction" [@richards_philosophy_1936, 95]. Richards's radical contribution
-to the study of metaphor lie in the observation that metaphor operates in
-language, thought, and action ubiquitously. It did not, as previously thought,
-exist merely in the realm of poetic language. Thought in itself, Richards
-believed, is metaphoric in that the mind continually searches for patterns and
-comparisons [@richards_philosophy_1936, 94].
+211]. A metaphor in a figurative genre like prose or poetry works similarly by
+suggesting novel and hitherto unexplored connections between domains. In his
+influential essays on metaphor the English literary critic I.A. Richards
+explains that "when we use metaphor we have two thoughts of different things
+active together and supported by a single word, or phrase, whose meaning is a
+resultant of their interaction" [@richards_philosophy_1936, 95]. Richards's
+radical contribution to the study of metaphor lie in the observation that
+metaphor operates in language, thought, and action ubiquitously. It does not,
+as previously thought, exist merely in the realm of poetic language. Thought
+in itself, Richards believed, is metaphoric in that the mind continually
+searches for patterns and comparisons [@richards_philosophy_1936, 94].
 
 Yet Richards also clearly believed that some metaphors were more productive
 than others. The poetic use of the metaphor did not merely carry meaning
@@ -360,90 +448,41 @@ confirm by empirical means more than a century later [@mojtabai_delusion_2000;
 but also become naturalized: that is understood literally. For many readers,
 for example, the very idea of a "dead metaphor" itself no longer evoke death.
 Rather they understand "dead metaphors" to function as a unremarkable synonym
-for "conventional," "idiomatic," or "unproductive" [^ln-dead]. In this way
-Shelley describes the life-cycle of a typical metaphor. At its most
-productive, the metaphor produces new meaning. The creative juxtaposition
+for a trope that is merely conventional or idiomatic.[^ln-dead] In this way
+Shelley describes the life-cycle of a typical metaphor. At its most generative
+stage, the metaphor actively produces new meaning. The creative juxtaposition
 between two as before unrelated domains brings new aspects of experience to
 light. But with time, the poetic metaphor becomes a tired cliché. It longer
-"perpetuates understanding." It dies in a sense to become a mere shortcut to
-understanding. We "cease to experience" the trope, Viktor Shklovsky wrote in
-1914. The metaphor dies when we begin recognizing it without apprehension
-[@shklovsky_voskreshenie_1914].
+"perpetuates understanding." It dies in a sense of becoming a mere shortcut to
+understanding.  In Viktor Shknovsky's words, we "cease to experience" the
+trope. The metaphor dies when we begin recognizing it without apprehension
+[@shklovsky_voskreshenie_1914]. It no longer generates new connection between
+domains, but merely reinforces existing ones.
 
 Lakoff famously took exception with the idea "dead metaphor," arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
-structuring everyday experience. He gives the example of the sentence: *He
+structuring everyday experience. He gave the example of the sentence: *He
 still can't quite grasp the basic ideas of quantum mechanics*.  Grasping in
 this case is used as a synonym to "understanding." It indicates a transference
-of properties between physical thought and mental space. The metaphor is very
-much alive, Lakoff writes, because it continues to function widely. It is more
-alive in a sense that some other "one off" poetic metaphors that do not enjoy
-cultural salience. A truly dead metaphor for Lakoff is one in which the
-original source image no longer makes sense, like the word *pedigree* which
-alludes to the French "crane's foot," used historically to decorate
-family-tree diagrams. Unlike "grasping ideas" where both sides of the domain
-transference are still available to the reader, the "crane's foot" contained
-within the English *pedigree* is no longer accessible to the average speaker.
-The idea of a dead metaphor does not appropriately differentiate between these
-two cases, according to Lakoff and his adherents [@lakoff_death_1987;
-@muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
-perform its function of intuitively connecting two disparate domains. At other
-times, the metaphor dies in the sense of one domain becoming no longer
-accessible to its user. Furthermore, a wholly unmotivated metaphor does no
-work at all. Thus the non-sensual riddle famously posed by the mad hatter to
-Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
-desk? The dissimilarity between the two domains---of animals and of
+of properties between physical action (grasping) and mental space (thought).
+The metaphor is alive, Lakoff wrote, because it continues to function widely.
+It is more alive in the sense that other more novel "one off" poetic metaphors
+have not found cultural salience. A truly dead metaphor for Lakoff is one in
+which the original source image no longer makes sense. For example, the
+English word *pedigree* originally referred to the French "crane's foot," used
+historically to decorate family-tree diagrams. Unlike "grasping ideas" where
+both sides of the domain transference are still available to the reader, the
+"crane's foot" contained within the English *pedigree* is no longer accessible
+to the average speaker. The idea of a dead metaphor does not appropriately
+differentiate between these two cases, according to Lakoff and his adherents
+[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies"
+but continues to perform its function of intuitively connecting two disparate
+domains. At other times, the metaphor dies in the sense of one domain becoming
+no longer accessible to its user. Furthermore, a wholly unmotivated metaphor
+does no work at all. Thus the non-sensual riddle famously posed by the mad
+hatter to Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like
+a writing desk? The dissimilarity between the two domains---of animals and of
 furniture---prevents productive congruence.[^ln4-carroll]
-
-This may be good moment to pause and to take stock of these preliminary
-remarks. I observe first that the design of modern human--computer interfaces
-makes heavy use of metaphor in the mode of "conceptual blending." Second, I
-locate the idea of "conceptual blending" within the lineage of literary
-poetics. The work of researchers in human--computer interaction like John
-Carroll and Stuart Card relies on insight from cognitive linguists like George
-Lakoff and Mark Johnson. The conceptual or cognitive blending school pioneered
-by Lakoff and Johnson in turn represents a development of metaphor theory with
-roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.  Richards.
-Finally, I note that metaphors understood in this tradition succeed and fail
-in interesting ways. They succeed when the metaphor connects ideas from two
-differing conceptual domains. At the very least, blending plays an important
-instrumental in everyday cognitive activity [@lakoff_metaphors_1980]. At its
-best, conceptual blending enables learning and discovery
-[@carroll_interface_1987; @card_methods_2006]. A vital metaphor revitalizes
-human experience and produces new knowledge about the world
-[@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
-
-In the first chapter of the book I made the case for simulated text, arguing
-that the verisimilitude between printed text and its digital representation
-obscures material realities particular to computation. We are thus shown one
-thing but manipulate another. To drag and drop a document into a trash can on
-the screen, for example, corresponds to a number of data manipulations on the
-disk. None of these necessarily include deletion as such. The representation
-of the document may disappear where the inscription underlying representation
-remains. In most case, we the users, are not bothered by such incongruence.
-But in some cases, when it really matters---under the threat of censorship or
-persecution, for example---the incongruence exposes the frailty of our
-alienation. It is an unprecedented state of affairs: to lose sight of the
-material realities, made all more troubling by the ubiquity of the simulation.
-
-Metaphor machines present us with a special case of conceptual domain
-blending. In the cognitive view, the metaphor performs a number of
-"conventional mapping from one domain to another" [@lakoff_contemporary_1998,
-239]. Lakoff mentions for example the common trope of "a state is a person,"
-implicit in the ideas of a "friendly" or a "hostile" state
-[@lakoff_contemporary_1998, 243]. In this case, ideas about agency, emotion,
-and mental life usually attached to people are extended to state actors.
-Similarly, to say that someone is "boiling mad," instantiates the common trope
-of  "anger is a hot liquid in a container." In this case, we map common known
-properties attached to the domain of physics to the domain of emotion.  Lakoff
-further explains that such domain mapping follow a few rules. They are usually
-partial and asymmetrical.  "Mapping are not arbitrary," he writes, "but
-grounded in the body and in everyday experience and knowledge." Finally domain
-mapping obey what Lakoff call the Invariance Principle, by which "the image
-schema structure of the source domain is projected onto the target domain in a
-way that is consistent with inherent target domain structure"
-[@turner_conceptual_1995; @lakoff_contemporary_1998;
-@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
 
 To what extent does the interface metaphor correspond to the above
 definitions? When discarding a document into a trash bin, in our reoccurring
@@ -479,35 +518,23 @@ does not necessarily carry over into the host. The metaphor is not motivated,
 in other words. The analogy between discarding paper and erasing bits does not
 hold.
 
-
-They key to understanding "the loss of resemblances" that accompanies
-ubiquitous simulation lies in the structure of the interface metaphor. A
-functioning metaphor, if you would recall from Lakoff, is one in which the
-schematic structure of one domain is in some way transposed into another. The
-architecture of computation leaves a gap between the source domain and the
-target. The source of the interface metaphor originates on the screen. In this
-way we observe the "turning" of an electronic "page," for example. The turning
-and the page are the tenors of the metaphor, if you will. Furthermore, the
-"turning of the page" implies a certain physical arrangement of matter. For
-example that pages can be turned, that they are sequential, and so on. The
-virtual action of "turning the page" sets off a series of corresponding
-actions in the target domain. Turing the page on the screen thus activates the
-reading and writing components of the computer's internals. These components
-operate under different physical constraints than pen and paper. For example,
-in reading data from solid state (FLASH) memory the device imparts electrical
-charge through quantum tunneling onto a connected series of floating gate
-transistors
-[@pavan_flash_1997; @bez_introduction_2003].
-
-!["Perspective view of a portion of a charge translating device illustrating a
-preferred electrical contact arrangement." From
-[@boyle_information_1974].](images/floating-gate.png)
-
-Whatever the complexities of solid state storage architecture, the difference
-in arrangement of information between pages and floating gates is apparent.
-The structure of one has only an arbitrary connection to the structure of the
-other. Consequently action in one domain do not necessitate corresponding
-actions in another.
+This may be good moment to pause and to take stock of these preliminary
+remarks on metaphor. I observe first that the design of modern human--computer
+interfaces makes heavy use of metaphor in the mode of "conceptual blending."
+Second, I locate the idea of "conceptual blending" within the lineage of
+literary poetics. The work of researchers in human--computer interaction like
+John Carroll and Stuart Card relies on insight from cognitive linguists like
+George Lakoff and Mark Johnson. The conceptual or cognitive blending school
+pioneered by Lakoff and Johnson in turn represents a development of metaphor
+theory with roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.
+Richards. Finally, I note that metaphors understood in this tradition succeed
+and fail in interesting ways. They succeed when the metaphor connects ideas
+from two differing conceptual domains. At the very least, blending plays an
+important instrumental in everyday cognitive activity
+[@lakoff_metaphors_1980]. At its best, conceptual blending enables learning
+and discovery [@carroll_interface_1987; @card_methods_2006]. A living metaphor
+revitalizes human experience, producing new knowledge about the world
+[@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
 
 I began the book by asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led
