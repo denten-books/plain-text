@@ -228,8 +228,8 @@ My concern here is rather with a more metaphysically simple situation by which
 the simulation occludes the realities of the thing being simulated. According
 to the dictionary, the simulation tends to "assume a form resembling that of
 something else" [@_simulation_2015]. Assuming the form, as we shall see, will
-become a key theme in this chapter. We will start with metaphor but end with
-the assumption of form.
+become a key theme in this chapter. We will begin with the metaphor and
+end with the assumption of form.
 
 Consider the commonplace task of "turning pages" in the act of writing or
 reading electronic text. In cognitive linguistic terms, the idea of paper
@@ -278,7 +278,29 @@ structuring of one kind, a corresponding deletion of data in our example, but
 enacts structure of another kind. What can be said about metaphors that are
 broken in this way? And how prevalent are such metaphors in computing?
 
-Consider the following passage from a patent filed by Xerox in 1991. It
+Computation advances through ubiquitous metaphoric substitution. Recall for a
+moment Turing's seminal definition of the universal computing machine,
+discussed at length in the first chapter. What he calls the "standard
+description" of a computing machine includes a finite number of configurations
+which include some combination of "tape" and "symbol." What makes the machine
+universal computing is its ability to understand symbols that represent
+standard descriptions of other single-purpose computing machines. By its very
+definition, the universal computing machine is a type of a metaphor. It has
+the ability to represent all other symbolic machine states, symbolically. The
+"symbolic" part is important in this context. For example, the universal
+computing machine cannot emulate an internal combustion engine. The internal
+combustion engine is not a symbolic machine. However, the universal computing
+machine can emulate all other symbol-manipulating machines. For Turing, these
+machines included other forms of computation. Yet nothing in the original
+definitions limit the "universality" of the universal computation to numbers.
+The machine is universal to the extent that it consumes symbolic
+configuration.
+
+Consider the case for metaphor machines from the practical rather than a
+purely theoretical point of view. Computers advance into everyday life beyond
+computation
+
+following passage from a patent filed by Xerox in 1991. It
 describes, in its own words, "an electronic library metaphor," which includes:
 
 > a shared books with data base metaphor, a reference books metaphor, and a
