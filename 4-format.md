@@ -224,27 +224,38 @@ blunt effects. For example, it is one thing to say "you are the apple of my
 eye" and quite another to actually confuse eye pupils and apples. Baudrillard
 gives the example of a map that no longer corresponds to any territory. He
 called such a condition of pure simulation without a referent hyper-reality.
-My concern here is rather with the more common situation by which the
-simulation occludes the realities of the thing being simulated, or simply
-according to the dictionary a  "tendency to assume a form resembling that of
+My concern here is rather with a more metaphysically simple situation by which
+the simulation occludes the realities of the thing being simulated. According
+to the dictionary, the simulation tends to "assume a form resembling that of
 something else" [@_simulation_2015]. Assuming the form, as we shall see, will
 become a key theme in this chapter. We will start with metaphor but end with
-form. Formatting with reveal itself to be precisely the mechanism by which one
-thing takes the form of another.
+the assumption of form.
 
-The architecture of computation leaves a gap between the source domain and the
-target. The source of the interface metaphor originates on the screen. In this
-way we observe the "turning" of an electronic "page," for example. The turning
-and the page carry what literary scholars call the "tenor" of the metaphor.
-Furthermore, the "turning of the page" implies a certain physical arrangement
-of matter. For example that pages can be turned, that they are sequential, and
-so on. The virtual action of "turning the page" sets off a series of
-corresponding actions in the target domain. Turing the page on the screen thus
-activates the reading and writing components of the computer's internals.
-These components operate under different physical constraints than pen and
-paper. For example, in reading data from solid state (FLASH) memory the device
-imparts electrical charge through quantum tunneling onto a connected series of
-floating gate transistors [@pavan_flash_1997; @bez_introduction_2003].
+Consider the commonplace task of "turning pages" in the act of writing or
+reading electronic text. In cognitive linguistic terms, the idea of paper
+pages is, in this case, extended into the domain of the digital. In literary
+terms, the page on the screen carries the tenor of paper pagination. In this
+way, the turning of electronic pages implies a certain, familiar arrangement
+of matter. Readers know what to do with paper pages. We might say they
+understand the affordances of paper. The digital metaphor encourages readers
+to extend their knowledge of the physical world into the virtual world. For
+example, paper pages can be turned. We know they usually proceed one another,
+sequentially. And we expect the same attributes to hold true in the electronic
+domain. The virtual action of turning the digital page should, in theory, set
+off a series of corresponding actions in the target virtual domain.
+
+Despite the apparent similarity, we know that the actual structures being
+manipulated differ in significant detail. The arrangement of information
+stored on the disk affords different physical actions from the arrangement of
+information on a page. An English-language character on the disk occupies
+eight bits, or units information, on a disk where a print character occupies
+one. The disk can tolerate millions of rewrites, where the paper medium wears
+out after only a few. The paper inscription is visible to the naked eye where
+the silicon inscription is not. In fact the reading and writing of electronic
+data involves processes far outside of our everyday experience. For example,
+in reading data from solid state (FLASH) memory a circuit imparts electrical
+charge through quantum tunneling onto a connected series of floating gate
+transistors [@pavan_flash_1997; @bez_introduction_2003].
 
 !["Perspective view of a portion of a charge translating device illustrating a
 preferred electrical contact arrangement." From
@@ -253,8 +264,19 @@ preferred electrical contact arrangement." From
 Whatever the complexities of solid state storage architecture, the difference
 in arrangement of information between pages and floating gates is apparent.
 The structure of one has only an arbitrary connection to the structure of the
-other. Consequently action in one domain do not necessitate corresponding
-actions in another.
+other. Consequently change in the structure of one domain do not necessitate
+changes in the structure of another: to "erase a word" on a virtual page thus
+may not have the corresponding effect on the level of the storage medium. The
+word data may persist despite the intended erasure. We hope, in other words,
+that the analogy between paper and pixel can achieve a level of
+verisimilitude.  Turing the page or erasing a word on the screen should do
+something similar on the disk. But we also know that not to be the case. The
+metaphor is broken similar to Baudrillard's map that no longer reflects any
+terrain. But to counter Baudrillard, I cannot say that no reality exists
+corresponding to the virtual action. Rather, the simulation suggests a
+structuring of one kind, a corresponding deletion of data in our example, but
+enacts structure of another kind. What can be said about metaphors that are
+broken in this way? And how prevalent are such metaphors in computing?
 
 Consider the following passage from a patent filed by Xerox in 1991. It
 describes, in its own words, "an electronic library metaphor," which includes:
