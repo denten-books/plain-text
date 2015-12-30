@@ -245,69 +245,87 @@ functioning metaphor, if you would recall from George Lakoff, is one in which
 the schematic structure of one domain is in some way transposed into another.
 Thus to say "life is a stage" is to transpose something about theater onto
 life. In literary terms, the theater is "tenor" where "life" is "vehicle" of
-the composite figure.
+the composite figure [@richards_philosophy_1936].
 
-Simulation differs from metaphor in the traditional sense in several important
-ways. Where the traditional metaphor substitutes one word or idea for another,
-a simulation substitutes the "signs of the real for the real"
-[@baudrillard_simulacra_1994, 2]. It is a subtle difference that engenders
-blunt effects. For example, it is one thing to say "you are the apple of my
-eye" and quite another to actually confuse eye pupils and apples. Baudrillard
-gives the example of a map that no longer corresponds to any territory. He
-called such a condition of pure simulation without a referent hyper-reality.
-My concern here is rather with a more metaphysically simple situation by which
-the simulation occludes the realities of the thing being simulated. According
-to the dictionary, the simulation tends to "assume a form resembling that of
-something else" [@_simulation_2015]. Assuming the form, as we shall see, will
-become a key theme in this chapter. We will begin with the metaphor and
-end with the assumption of form.
+Simulation is a special kind of a metaphor. Where the traditional metaphor
+substitutes one idea for another, a simulation substitutes the "signs of the
+real for the real" [@baudrillard_simulacra_1994, 2]. It is a subtle difference
+that engenders not-so-subtle effects. For example, it is one thing to say "you
+are the apple of my eye" and quite another to actually confuse eye pupils and
+apples.  Baudrillard gives the example of a map that no longer corresponds to
+any territory. He called such a condition of pure simulation without a
+referent *hyper-reality*. We expect the simulation to attain a measure of
+correspondence between representation and the thing being represented. But the
+hyper-real sign is one where the referent is missing. Severed from the
+referent, the symbol itself attains the status of reality, and thus
+hyper-reality: a symbol that folds onto itself. The use of metaphor at the
+heart of computation breaks in more devious ways still. The broken metaphor
+occludes the realities of the thing being simulated. By definition, simulation
+"assumes a form resembling that of something else" [@_simulation_2015].
+The computational metaphor assumes the form of one thing, while resembling
+another.
+
+The verisimilitude between printed text and its digital representation
+obscures material realities particular to computation. To drag and drop a
+document into a trashcan on the screen, for example, corresponds to a number
+of data manipulations on the disk. None of these necessarily include deletion
+of data from storage media. The representation of the document may disappear
+on the screen where the inscription remains. In most cases, we the users, are
+not bothered by such incongruence. But in some cases, when it really
+matters---under the threat of censorship or persecution, for example---the
+incongruence exposes the frailty of our alienation. It is an unprecedented
+state of affairs: to lose sight of the material realities, made all more
+troubling by the ubiquity of the simulation.
 
 Consider the commonplace task of "turning pages" in the act of writing or
-reading electronic text. In cognitive linguistic terms, the idea of paper
-pages is, in this case, extended into the domain of the digital. In literary
-terms, the page on the screen carries the tenor of paper pagination. In this
-way, the turning of electronic pages implies a certain, familiar arrangement
-of matter. Readers know what to do with paper pages. We might say they
-understand the affordances of paper. The digital metaphor encourages readers
-to extend their knowledge of the physical world into the virtual world. For
-example, paper pages can be turned. We know they usually proceed one another,
-sequentially. And we expect the same attributes to hold true in the electronic
-domain. The virtual action of turning the digital page should, in theory, set
-off a series of corresponding actions in the target virtual domain.
+reading digital texts. In cognitive linguistic terms, the idea of paper pages
+should somehow extend into the domain of manipulating digital information. In
+literary terms, the projection of a page on the screen carries the tenor of
+paper pagination.  In this way, the turning of projected (simulated) pages
+implies a certain, familiar arrangement of matter. Readers know what to do
+with paper pages. We might say they understand the affordances of paper. The
+metaphor encourages readers to extend their knowledge of the physical world
+into the projected virtual world. For example, paper pages can be turned.  We
+know they usually proceed one another, sequentially.  And we are attuned to
+expect the same attributes to hold true in the vehicle---the domain receiving
+the tenor of the simulation. The action of turning virtual pages should, in
+theory, set off a series of corresponding actions in the target digital
+domain. In other words, turning the page on the screen corresponds to some
+action on the disk. But it is not necessarily the action we expect. The
+arrangement of information stored on the disk affords different physical
+actions from the arrangement of information on a page. An English-language
+character on the disk occupies eight bits, or units information, on a disk
+where a print character occupies one. The disk can tolerate millions of
+rewrites, where the paper medium wears out after only a few. The paper
+inscription is visible to the naked eye where the digital inscription is not.
 
-Despite the apparent similarity, we know that the actual structures being
-manipulated differ in significant detail. The arrangement of information
-stored on the disk affords different physical actions from the arrangement of
-information on a page. An English-language character on the disk occupies
-eight bits, or units information, on a disk where a print character occupies
-one. The disk can tolerate millions of rewrites, where the paper medium wears
-out after only a few. The paper inscription is visible to the naked eye where
-the silicon inscription is not. In fact the reading and writing of electronic
-data involves processes far outside of our everyday experience. For example,
-in reading data from solid state (FLASH) memory a circuit imparts electrical
-charge through quantum tunneling onto a connected series of floating gate
-transistors [@pavan_flash_1997; @bez_introduction_2003].
+The misleading metaphor is necessary perhaps, because the reading and writing
+of digital data can involve processes far outside of everyday experience. For
+example, in reading data from solid state (FLASH) memory a circuit imparts
+electrical charge through quantum tunneling onto a connected series of
+floating gate transistors [@pavan_flash_1997; @bez_introduction_2003].
 
 !["Perspective view of a portion of a charge translating device illustrating a
 preferred electrical contact arrangement." From
 [@boyle_information_1974].](images/floating-gate.png)
 
 Whatever the complexities of solid state storage architecture, the difference
-in arrangement of information between pages and floating gates is apparent.
-The structure of one has only an arbitrary connection to the structure of the
-other. Consequently change in the structure of one domain do not necessitate
-changes in the structure of another: to "erase a word" on a virtual page thus
-may not have the corresponding effect on the level of the storage medium. The
-word data may persist despite the intended erasure. We hope, in other words,
-that the analogy between paper and pixel can achieve a level of
-verisimilitude.  Turing the page or erasing a word on the screen should do
-something similar on the disk. But we also know that not to be the case. The
-metaphor is broken similar to Baudrillard's map that no longer reflects any
-terrain. But to counter Baudrillard, I cannot say that no reality exists
-corresponding to the virtual action. Rather, the simulation suggests a
-structuring of one kind, a corresponding deletion of data in our example, but
-enacts structure of another kind. What can be said about metaphors that are
-broken in this way? And how prevalent are such metaphors in computing?
+in arrangement of information between pages and floating gates---at the root
+of modern "sold state" storage---is apparent. The structure of one has only an
+arbitrary connection to the structure of the other. Consequently change in the
+structure of one domain do not necessitate changes in the structure of
+another: to "erase a word" on a projected, virtual page thus may not have the
+corresponding effect on the level of the storage medium. The information may
+persist despite the intended erasure. We hope, in other words, that the
+analogy between paper and pixel can achieve a level of verisimilitude.
+Turning the page or erasing a word on the screen should do something similar
+on the disk. But we also know that not to be the case. The metaphor is broken
+similar to Baudrillard's map that no longer reflects the terrain, but not any
+terrain. The computational metaphor often indicates the wrong terrain, rather
+than its complete absence. The simulation suggests a structuring of one kind,
+a corresponding deletion of data in our example, but enacts structure of
+another kind. What can be said about metaphors that are broken in this way?
+And how prevalent are such metaphors in computing?
 
 Computation advances through ubiquitous metaphoric substitution. Recall for a
 moment Turing's seminal definition of the universal computing machine,
@@ -326,6 +344,8 @@ machines included other forms of computation. Yet nothing in the original
 definitions limit the "universality" of the universal computation to numbers.
 The machine is universal to the extent that it consumes symbolic
 configuration.
+
+<!-- a better transition -->
 
 Consider the case for metaphor machines from the practical rather than a
 purely theoretical point of view. Computers advance into everyday life beyond
@@ -450,20 +470,6 @@ user operates with a metaphor. The machine then translates a set of metaphoric
 manipulations into the corresponding actions in the physical world. But the
 nature of those manipulations are occluded from users, who are, presumably,
 not equipped to understand the physical realities of computing.
-
-In the first chapter of the book I made the case for simulated text, arguing
-that the verisimilitude between printed text and its digital representation
-obscures material realities particular to computation. We are thus shown one
-thing but manipulate another. To drag and drop a document into a trashcan on
-the screen, for example, corresponds to a number of data manipulations on the
-disk. None of these necessarily include deletion of data from storage media.
-The representation of the document may disappear on the screen where the
-inscription remains. In most cases, we the users, are not bothered by such
-incongruence. But in some cases, when it really matters---under the threat of
-censorship or persecution, for example---the incongruence exposes the frailty
-of our alienation. It is an unprecedented state of affairs: to lose sight of
-the material realities, made all more troubling by the ubiquity of the
-simulation.
 
 Metaphor machines present us with a special case of conceptual domain
 blending. In the cognitive view, the metaphor performs a number of
