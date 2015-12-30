@@ -1,4 +1,5 @@
-# Chapter 1: Laying Bare the Device
+# Part I: Simulation
+## Chapter 1: Laying Bare the Device
 
 `book, device, computation, control`
 
@@ -190,7 +191,7 @@ back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. Roughly: What makes whatever compacts made by past generations still
 valid today?
 
-## Technique
+### Technique
 
 What sort of a thing is a literary device? The formal concept of a "device,"
 widely used in literary studies, is an artifact of an unfortunate translation
@@ -429,7 +430,7 @@ without. It is an attempt to social and political, not technological
 determinism. In most cases, it is possible to trace the root of imposition to
 specific governing agents, agencies, or incorporations.
 
-## Thought Experiment
+### Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
@@ -1099,7 +1100,7 @@ mechanism" of all other metaphoric mechanisms.
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
 
-## Mechanism
+### Mechanism
 
 Literature in computer science tends to see universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.

@@ -1,4 +1,5 @@
-# Chapter 6: Labor
+# Part III: Displacement
+## Chapter 6: Labor
 
 Estrangement vs. alienation.
 

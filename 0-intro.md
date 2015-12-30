@@ -1,4 +1,4 @@
-# Simulated Text: an Introduction
+## Simulated Text: an Introduction
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant

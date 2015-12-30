@@ -1,5 +1,6 @@
-# Chapter 4: Simulation
-`metaphor, form, format, formula`
+## Chapter 4: Format
+
+`metaphor, form, formula`
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
@@ -33,6 +34,33 @@ Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
 [@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
 function lies the essence of formatting.
+
+My task in this chapter is to bring the formatting layer into view. Of the 
+
+I will begin by outlining a few salient features of the computational
+metaphor. As we shall see, the metaphor "breaks" when one side of the
+conceptual transference fails to meet the other. The broken or "dead" metaphor
+leads to the locus of incongruence at the heart of computation. What we see is
+not in fact what we get. We are instead confronted with a composite image,
+which under examination reveals a complex process of transfiguration between
+the visible sign and the sign at the site of the inscription.  Formatting
+structures facilitate the conversion of machine-readable codes into
+human-readable text. Yet formatting continues to elude the critical gaze
+because the very concept of form, central to literary analysis, contains in it
+two conflicting ideas. Going back to reception of Plato, Hegel, and the
+Russian formalists, the English "form" renders at times the material, outward,
+and apparent shape of something said or pictured. Yet just as often, critics
+use "form" in the sense of a Platonic ideal: abstracted from matter,
+inward-facing, and in need of explication. Form in that sense is closer to the
+idea of an algorithm of a formula.
+
+The distinction between form, format, and formula will give us the vocabulary
+to discuss the codification of document structure in the second part of the
+chapter. As I will argue, some of the same intuitions guiding the intellectual
+history of formalism became ingrained in the material contingencies of word
+processing emerging in the middle of the twentieth century. A kind of a
+computational formalism will give us the means to reveal a layer of formatting
+shaping every digital document.
 
 Imagine communicating by telegraph in two different languages with a friend,
 for example. Occasionally, besides whatever else you wanted to say, envision
@@ -114,17 +142,19 @@ those with disabilities," "digital signatures to certify authenticity,"
 "electronic forms to gather data," "preservation of document fidelity
 independent of the device, platform, and software," and "security and
 permission to allow the creator to retain control of the document and
-associated rights" [@iso_portable_2008, vii]. These capabilities operate
-somewhere between the visible content and stored information. More than
-passive conduits of meaning, electronic texts contain the rules for engagement
-between authors and their readers. Moreover, the embedded structures enforce
-an ontology. The Portable Document Format encodes, among other things, ideas
-about "reading," "authenticity," "fidelity," "preservation," and "authorship."
-Whatever theoretical framework the reader holds about the process of
-interpretation must therefore meet the framework implicit in the text itself.
-The encounter happens not on the level of representation or ideology, but on
-the level of the physical, imperative, phatic level where formatting and
-control reside.
+associated rights" [@iso_portable_2008, vii].
+
+These capabilities operate somewhere between the visible content and stored
+information. More than passive conduits of meaning, electronic texts contain
+the rules for engagement between authors and their readers. Moreover, the
+embedded structures enforce an ontology. The Portable Document Format encodes,
+among other things, ideas about "reading," "authenticity," "fidelity,"
+"preservation," and "authorship." Whatever theoretical framework the reader
+holds about the process of interpretation must therefore meet the framework
+implicit in the text itself. The encounter happens not on the level of
+representation or ideology, but on the level of the physical, phatic,
+imperative, level of electronic communication where formatting and control
+reside.
 
 Think of it this way: even the familiar paragraph structure presents
 interesting complications. In claiming typographical space on a page the
@@ -201,33 +231,8 @@ word substitution, automatic summarization, wholesale generation of discourse
 by algorithmic means---the command and control layer contains all such
 possibilities.
 
-In this chapter, I propose we to encounter the computational metaphor anew,
-with fresh eyes. I will begin by outlining a few salient features of the
-computational metaphor. As we shall see, the metaphor "breaks" when one side
-of the conceptual transference fails to meet the other. The broken or "dead"
-metaphor leads to the locus of incongruence at the heart of computation. What
-we see is not in fact what we get. We are instead confronted with a composite
-image, which under examination reveals a complex process of transfiguration
-between the visible sign and the sign at the site of the inscription.
-Formatting structures facilitate the conversion of machine-readable codes into
-human-readable text. Yet formatting continues to elude the critical gaze
-because the very concept of form, central to literary analysis, contains in it
-two conflicting ideas. Going back to reception of Plato, Hegel, and the
-Russian formalists, the English "form" renders at times the material, outward,
-and apparent shape of something said or pictured. Yet just as often, critics
-use "form" in the sense of a Platonic ideal: abstracted from matter,
-inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula.
 
-The distinction between form, format, and formula will give us the vocabulary
-to discuss the codification of document structure in the second part of the
-chapter. As I will argue, some of the same intuitions guiding the intellectual
-history of formalism became ingrained in the material contingencies of word
-processing emerging in the middle of the twentieth century. A kind of a
-computational formalism will give us the means to reveal a layer of formatting
-shaping every digital document.
-
-## 4.1 Metaphor Machine
+### 4.1 Metaphor Machine
 
 They key to understanding "the loss of resemblances" that accompanies
 ubiquitous simulation lies in the structure of the interface metaphor. A
@@ -613,7 +618,7 @@ archetypal "rule book" for its creation. The two senses matter because they
 lead to opposing strategies of interpretation. One seeks to describe, the
 other to explain; one to perceive, the other to reveal.
 
-## 4.2 Form, Formula, Formatting
+### 4.2 Form, Formula, Formatting
 
 Form is an often used but Caroline Levine.
 
@@ -1157,7 +1162,7 @@ sometimes into semantic-carrying ideation: form, the indeterminate.
 
 
 
-## 4.3 Document Object Model
+### 4.3 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -1383,7 +1388,7 @@ Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-## Notes
+### Notes
 
 [^ln2-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
@@ -1542,7 +1547,7 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 [^ln-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
 
-## Cuts
+### Cuts
 
 "familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
 261]. "things not dead or killed by custom" "his own production"

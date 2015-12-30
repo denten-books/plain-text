@@ -1,8 +1,8 @@
-# Chapter 3: Projection
-
+# Part II: Surfaces
+## Chapter 3: Projection
 `medium, mode, digital, analog`
 
-## Literature Down to the Pixel
+### Literature Down to the Pixel
 
 To grasp the peculiarity of the computed sign stretched between the sites of
 archive and projection we will have to build a shared vocabulary that includes
@@ -99,7 +99,7 @@ forming some intuitions about the digital. The "two terminators" from popular
 culture will lead us to several technical case studies. These will serve as
 testbed for an aesthetics of digital perception.
 
-## Digital Wake (My Two Terminators)
+### Digital Wake (My Two Terminators)
 
 What does the digital look like? It looks blue for one---not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -274,7 +274,7 @@ offer several case studies that challenge commonly expressed intuitions in the
 conversation about digital media. Ultimately, we will see that what appears at
 first to be a property of media is in fact a claim on the mode of perception.
 
-## Spiritual Telegraph
+### Spiritual Telegraph
 
 Let us first note that the contemporary attempt to "fix" human experience
 somewhere on the spectrum between discrete and continuous representation in
@@ -550,7 +550,7 @@ transference possible. I use the word "media" here in the bluntest way
 possible: as "material basis" or "substratum" for some observed, higher-order
 phenomenon (in our case, communication).
 
-## The Soap Opera Effect
+### The Soap Opera Effect
 
 At this point it appears that the whole matter of digital representation rests
 on arbitrary and contingent assumptions. If literature is already a digital
@@ -793,7 +793,7 @@ media marketing slogans advertising gapless playback and lossless file
 formats. To long for the analog is to long for the experience of oneness,
 which was never there in the first place.
 
-## We Have Always Been Digital
+### We Have Always Been Digital
 
 So far, the case studies I built around the Pollak-Virag telegraph and the
 liquid crystal display revealed merely the inadequacy of popular intuition.
@@ -1073,7 +1073,7 @@ as deep structure, separate readers into those for whom texts exist as fixed
 analog given, and those for whom they function as truly digital media, capable
 of transformation affecting further texts, people, and machines.
 
-## The Medium Is Not the Message
+### The Medium Is Not the Message
 
 In examining the material conditions of digital representation we find
 format---a quality distinct from both medium and semantic content of the

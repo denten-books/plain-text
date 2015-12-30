@@ -1,4 +1,4 @@
-# Chapter 2: Sign
+## Chapter 2: Splitting the Sign
 
 `inscription, encoding, legibility`
 
@@ -195,7 +195,7 @@ Another phantasmal sign appears at the site of projection.
 
 [^ln2-hayles]: See also @hayles_print_2004.
 
-## A. Teletype (Input)
+### A. Teletype (Input)
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
@@ -573,7 +573,7 @@ humans coincided on one and the same plane, but only for a time. Magnetic
 tape, mute and inscrutable, soon replaced punch card and ticker tape as the
 preferred medium for data storage.
 
-## B. Magnetic Tape (Storage)
+### B. Magnetic Tape (Storage)
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -952,7 +952,7 @@ separated readers into those able to effect the mixture of content and control
 that shapes the literary encounter and those who observed passively, at the
 shimmering surface of archival projection.
 
-## C. Screen (Output)
+### C. Screen (Output)
 
 By decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process
@@ -1283,7 +1283,7 @@ material lightness of textual being came at the price of legibility. Would new
 authors find the same ease in the complication of the mechanism? I suspect not
 unless they become an active part of a "bootstrapping community" of their own.
 
-## Towards the Practice of Computational Hermeneutics
+### Towards the Practice of Computational Hermeneutics
 
 In drawing on the history of the contemporary literary condition, it is my
 hope to convince the reader of the very literal sense of depth manufactured
