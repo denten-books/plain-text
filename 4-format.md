@@ -27,11 +27,12 @@ strange admixture of content and control particular to computational devices.
 Programming languages guide thought through a series of transformations in the
 passage between bodies, screens, and archives. Code breaks thought up into
 differentiated units. It consequently reassembles the units back together into
-a continuous, affective whole. Roman Jakobson called such construction and
-deconstruction of meaning the "profuse exchange of ritualized formulas" or the
-phatic function of language [@malinowski_problem_1923, 146;
-@jakobson_closing_1960, 355]. In the phatic function lies the essence of
-formatting.
+a continuous, affective whole. What starts as a thought turns first into bits
+and then into units of meaning like sentences, paragraphs, pages, and books.
+Roman Jakobson called such construction and deconstruction of meaning the
+"profuse exchange of ritualized formulas" or the phatic function of language
+[@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
+function lies the essence of formatting.
 
 Imagine communicating by telegraph in two different languages with a friend,
 for example. Occasionally, besides whatever else you wanted to say, envision
@@ -53,7 +54,7 @@ like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞�
 dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
 maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
-the screen while suppressing others. The ability to hide the text from view
+the screen while suppressing others. The ability to hide text from view
 completely or to make it so small as to be illegible affects not just the
 style but the politics of text. Formatting, in that sense, can determine its
 audience, privileging certain voices and modes of access over others.
@@ -100,11 +101,30 @@ contrary, maintaining that formats could only seem insignificant when they
 were few and simple. The transition between static and dynamic layouts
 necessitates renewed attention to form and format. What you saw is what you
 got on the page. On the screen, what you see is but a small part of what you
-get. The "content"---all that is contained on a page, shifts beneath the
-projected image. Unlike print, the computed sign circulates in novel and
-sophisticated formats like files and folders, databases and linked lists.
-More than passive conduits of meaning, these data structures shape the
-encounter with text.
+get. The content---all that is contained on a page---shifts beneath the
+projected image. In print, the content can be gleaned from the surface. There
+is nothing but surface on a page. On a screen, the visible surface is but a
+small part of the content. A byte, made up of eight binary bits, holds a
+letter. The string of letters spelling out "hello world" occupies eleven
+bytes, if you count the space. An file in the Portable Document Format
+(`.pdf`) containing nothing but "hello world" takes up 24,335 bytes on my
+system. Thus in addition to my message of greeting, the Portable Document
+Format can also contain features that enable "accessibility of content to
+those with disabilities," "digital signatures to certify authenticity,"
+"electronic forms to gather data," "preservation of document fidelity
+independent of the device, platform, and software," and "security and
+permission to allow the creator to retain control of the document and
+associated rights" [@iso_portable_2008, vii]. These capabilities operate
+somewhere between the visible content and stored information. More than
+passive conduits of meaning, electronic texts contain the rules for engagement
+between authors and their readers. Moreover, the embedded structures enforce
+an ontology. The Portable Document Format encodes, among other things, ideas
+about "reading," "authenticity," "fidelity," "preservation," and "authorship."
+Whatever theoretical framework the reader holds about the process of
+interpretation must therefore meet the framework implicit in the text itself.
+The encounter happens not on the level of representation or ideology, but on
+the level of the physical, imperative, phatic level where formatting and
+control reside.
 
 Think of it this way: even the familiar paragraph structure presents
 interesting complications. In claiming typographical space on a page the
@@ -118,30 +138,31 @@ nothing inherently paragraph-like in the neural arrangement of the brain,
 there is also nothing inherently paragraph-like or page-like in the
 arrangement of bits along the surface of the magnetic disk or the solid state
 drive. We are presented instead with metaphors of paragraphs, pages, files,
-and folders. These looks like paragraphs, pages, files, and folders on the
+and folders. These look like paragraphs, pages, files, and folders on the
 screen, yet they represent other structures in the head, and yet other
-structures on the disk. The visible paragraph in a sense mediates between
-mental image, information stored in the head, and inscription, information
-stored in the machine.
+structures on the disk. The file format thus mediates between mental image,
+information stored in the head, and inscription, information stored in the
+machine.
 
 When reading electronically, we prefer to manipulate information by the means
 of familiar mediating structures like paragraphs, pages, files, and folders.
-Such structures are attached figuratively to the affordances of print. In
-other words, we know what paragraphs, pages, files, and folders can do in
+Such structures are attached figuratively to the affordances of print. We
+know, in other words, what paragraphs, pages, files, and folders can do in
 print. For example, one affordance of paper is that it can be folded. The
 reader can therefore "earmark" a page. The digital medium offers yet another
 set of affordances. But because the reader lacks familiarity with digital
 media, its affordances are presented through metaphor. For example, the
-ability to create a pointer to a bit of data could be represented with a
-virtual "earmark" on a "page." The "page" in this case stands for bit
-structure and the "earmark" for a pointer. Similarly one "drops a folder into
-the trash bin" or "drags and drops a file" or "bookmarks a page." Such
-metaphors rely on habituated insight with one medium extended into another.
-We cannot literally "drag" or "drop" bits, but we use the metaphor of paper to
-help the user manipulate bits and bytes as if they were little pieces of
-familiar paper. The metaphor opens new figurative possibilities, but it also
-obscures the actual physical contingencies of interacting with bits and bytes,
-logic gates and magnetic traces.
+ability to create a pointer whose value refers to a specific address in the
+computer memory could be represented with a virtual "earmark" on a "page." The
+"page" in this case stands for some information structure on the disk and the
+"earmark" for the pointer. Similarly one "drops a folder into the trash bin"
+or "drags and drops a file" or "bookmarks a page." Such metaphors rely on
+habituated insight with one medium extended into another.  We cannot literally
+"drag" or "drop" bits, but we use the metaphor of paper to help the user
+manipulate bits and bytes as if they were little pieces of familiar paper. The
+metaphor opens new figurative possibilities, but it also obscures the actual
+physical contingencies of interacting with bits and bytes, logic gates and
+magnetic traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
