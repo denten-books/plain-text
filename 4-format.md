@@ -173,31 +173,32 @@ Just like there is nothing inherently paragraph-like in the neural arrangement
 of the brain, there is also nothing inherently paragraph-like or page-like in
 the arrangement of bits along the surface of the magnetic disk or the solid
 state drive. We are presented instead with metaphors of paragraphs, pages,
-files, and folders. These look like paragraphs, pages, files, and folders on
-the screen, yet they represent other structures in the head, and yet other
-structures on the disk. The file format thus mediates between mental image,
-information stored in the head, and inscription, information stored in the
-machine.
+files, and folders. The screen representations of paragraphs, pages, files,
+and folders look like their counterparts on the page, yet they represent other
+structures in the head, and yet other structures on the disk. The file format
+thus mediates between mental image---information stored in the head---and
+inscription---information stored in the machine.
 
-When reading electronically, we prefer to manipulate information by the means
-of familiar mediating structures like paragraphs, pages, files, and folders.
-Such structures are attached figuratively to the affordances of print. We
-know, in other words, what paragraphs, pages, files, and folders can do in
-print. For example, one affordance of paper is that it can be folded. The
-reader can therefore "earmark" a page. The digital medium offers yet another
-set of affordances. But because the reader lacks familiarity with digital
-media, its affordances are presented through metaphor. For example, the
-ability to create a pointer whose value refers to a specific address in the
-computer memory could be represented with a virtual "earmark" on a "page." The
-"page" in this case stands for some information structure on the disk and the
-"earmark" for the pointer. Similarly one "drops a folder into the trash bin"
-or "drags and drops a file" or "bookmarks a page." Such metaphors rely on
-habituated insight with one medium extended into another.  We cannot literally
-"drag" or "drop" bits, but we use the metaphor of paper to help the user
-manipulate bits and bytes as if they were little pieces of familiar paper. The
-metaphor opens new figurative possibilities, but it also obscures the actual
-physical contingencies of interacting with bits and bytes, logic gates and
-magnetic traces.
+When reading electronically, we prefer not to manipulate the information
+stored on the disk directly. Instead, we manipulate information stored on the
+disk by the means of familiar mediating structures like paragraphs, pages,
+files, and folders. Such structures are attached figuratively to the
+affordances of print. We know, in other words, what paragraphs, pages, files,
+and folders can do in print. For example, one affordance of paper is that it
+can be folded. The reader can therefore "earmark" a page. The digital medium
+offers yet another set of affordances. But because the reader lacks
+familiarity with digital media, its affordances are presented through
+metaphor. For example, the ability to create a pointer whose value refers to a
+specific address in the computer memory could be represented with a virtual
+"earmark" on a "page." The "page" in this case stands for some information
+structure on the disk and the "earmark" for the pointer. Similarly one "drops
+a folder into the trash bin" or "drags and drops a file" or "bookmarks a
+page." Such metaphors rely on habituated insight with one medium extended into
+another. We do not literally "drag" or "drop" bits, but we use the metaphor of
+papers and trashcans to help the user manipulate bits and bytes as if they
+were household objects. The metaphor opens figurative possibilities, but it
+also obscures the actual physical contingencies of interacting with bits and
+bytes, logic gates and magnetic traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
@@ -229,8 +230,8 @@ geographic location, mood, or political affiliation. Far from being outside of
 the realm of possibilities, it is likely that in fact, most of the texts we
 consume today come to us in such algorithmically personalized way. Algorithms
 ubiquitously tailor streams of online news and updates, for example, to suit
-readers preferences. Under the computed sign, *nothing* is guaranteed in the
-passage of text from one pair of hands into another. Digital formatting
+the preferences of their readers. Nothing is guaranteed in the passage of
+electronic text from one pair of hands into another. Digital formatting
 expands its purview far beyond typographical convention. The erasure of words,
 word substitution, automatic summarization, wholesale generation of discourse
 by algorithmic means---the command and control layer contains all such
