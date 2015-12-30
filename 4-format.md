@@ -942,16 +942,16 @@ across volumes), thirteen have the word "sound" (*zvuk*), or some variation
 thereof, in the title, as "sound image," "sound gesture," and "sound
 repetition." To this cluster of essays we may attribute the Russian formalist
 concern with *zaum*---literally, beyond sense, or beyonsense
-[@khlebnikov_collected_1987, 179; @khlebnikov_king_1990, 151;
-@labelle_lexicon_2014, 63]; these are nonsensical sounds that nevertheless
+[@khlebnivkov_collected_1987, 179; @khlebnikov_king_1990, 151;
+@labelle_lexicon_2014, 63] these are nonsensical sounds that nevertheless
 elicit an affective, lived response, giving voice to ideas that are difficult
 to explain rationally. Poetry in the symbolic mode encodes meaning as inner
 sense: the elephant "stands for" memory, or the like. *Zaum* poetics (beyond
-sense) instead evoke affect through external shape, as sound. Khlebnikov writes
-that "incantation and beyonsense language are appeals 'over the head' of
-government straight to the population of feelings, a direct cry to the predawn
-of the soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without
-words but with sound." He writes:
+sense) instead evoke affect through external shape, as sound. Khlebnikov
+writes that "incantation and beyonsense language are appeals 'over the head'
+of government straight to the population of feelings, a direct cry to the
+predawn of the soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as
+"without words but with sound." He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
