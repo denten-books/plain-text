@@ -1,6 +1,6 @@
 ## Chapter 4: Format
 
-`metaphor, form, formula`
+`metaphor, form, formula, document-object model`
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
@@ -35,24 +35,22 @@ Roman Jakobson called such construction and deconstruction of meaning the
 [@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
 function lies the essence of formatting.
 
-My task in this chapter is to bring the formatting layer into view. Of the 
-
-I will begin by outlining a few salient features of the computational
-metaphor. As we shall see, the metaphor "breaks" when one side of the
-conceptual transference fails to meet the other. The broken or "dead" metaphor
-leads to the locus of incongruence at the heart of computation. What we see is
-not in fact what we get. We are instead confronted with a composite image,
-which under examination reveals a complex process of transfiguration between
-the visible sign and the sign at the site of the inscription.  Formatting
-structures facilitate the conversion of machine-readable codes into
-human-readable text. Yet formatting continues to elude the critical gaze
-because the very concept of form, central to literary analysis, contains in it
-two conflicting ideas. Going back to reception of Plato, Hegel, and the
-Russian formalists, the English "form" renders at times the material, outward,
-and apparent shape of something said or pictured. Yet just as often, critics
-use "form" in the sense of a Platonic ideal: abstracted from matter,
-inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula.
+My task in this chapter is to bring the formatting layer into view. I will
+begin by outlining a few salient features of the computational metaphor. As we
+shall see, the metaphor "breaks" when one side of the conceptual transference
+fails to meet the other. The broken or "dead" metaphor leads to the locus of
+incongruence at the heart of computation. What we see is not in fact what we
+get. We are instead confronted with a composite image, which under examination
+reveals a complex process of transfiguration between the visible sign and the
+sign at the site of the inscription.  Formatting structures facilitate the
+conversion of machine-readable codes into human-readable text. Yet formatting
+continues to elude the critical gaze because the very concept of form, central
+to literary analysis, contains in it two conflicting ideas. Going back to
+reception of Plato, Hegel, and the Russian formalists, the English "form"
+renders at times the material, outward, and apparent shape of something said
+or pictured. Yet just as often, critics use "form" in the sense of a Platonic
+ideal: abstracted from matter, inward-facing, and in need of explication. Form
+in that sense is closer to the idea of an algorithm of a formula.
 
 The distinction between form, format, and formula will give us the vocabulary
 to discuss the codification of document structure in the second part of the
@@ -62,17 +60,20 @@ processing emerging in the middle of the twentieth century. A kind of a
 computational formalism will give us the means to reveal a layer of formatting
 shaping every digital document.
 
-Imagine communicating by telegraph in two different languages with a friend,
-for example. Occasionally, besides whatever else you wanted to say, envision
-also sending a signal to your partner's device that indicated a change in the
-transmission language. Thus in addition to the message, you would also send a
-predetermined code that would switch the receiving apparatus from the "English
-language" into the "French language" mode. Such an instruction would *attune*
-the receiver to a different mode of apprehension. In our example, it would
-transform an English language machine into a French language one. It is in
-that sense of attunement that the programmatic sign acquires its
-non-representational, tactical character. Stripped of references,
-resemblances, and designations the programmatic sign commands and controls.
+### 4.1 Format Theory
+
+To begin thinking about formatting, imagine communicating by telegraph in two
+different languages with a friend. Occasionally, besides whatever else you
+wanted to say, envision also sending a signal to your partner's device that
+indicated a change in the transmission language. Thus in addition to the
+message, you would also send a predetermined code that would switch the
+receiving apparatus from the "English language" into the "French language"
+mode. Such an instruction would *attune* the receiver to a different mode of
+apprehension. In our example, it would transform an English language machine
+into a French language one. It is in that sense of attunement that the
+programmatic sign acquires its non-representational, tactical character.
+Stripped of references, resemblances, and designations the programmatic sign
+commands and controls.
 
 Yet despite the formative impact on the structure of comprehension, the
 programmatic sign does not often figure in our theories of meaning making.
@@ -130,13 +131,15 @@ were few and simple. The transition between static and dynamic layouts
 necessitates renewed attention to form and format. What you saw is what you
 got on the page. On the screen, what you see is but a small part of what you
 get. The content---all that is contained on a page---shifts beneath the
-projected image. In print, the content can be gleaned from the surface. There
-is nothing but surface on a page. On a screen, the visible surface is but a
-small part of the content. A byte, made up of eight binary bits, holds a
-letter. The string of letters spelling out "hello world" occupies eleven
-bytes, if you count the space. An file in the Portable Document Format
-(`.pdf`) containing nothing but "hello world" takes up 24,335 bytes on my
-system. Thus in addition to my message of greeting, the Portable Document
+projected image.
+
+In print, the content can be gleaned from the surface. There is nothing but
+surface on a page. On a screen, the visible surface is but a small part of the
+content. A byte, made up of eight binary bits, holds a letter. The string of
+letters spelling out "hello world" occupies eleven bytes, if you count the
+space. A file in the Portable Document Format (`.pdf`) containing nothing but
+"hello world" takes up 24,335 bytes on my system. Formatting accounts for the
+added information. Thus in addition to the greeting, the Portable Document
 Format can also contain features that enable "accessibility of content to
 those with disabilities," "digital signatures to certify authenticity,"
 "electronic forms to gather data," "preservation of document fidelity
@@ -150,26 +153,28 @@ the rules for engagement between authors and their readers. Moreover, the
 embedded structures enforce an ontology. The Portable Document Format encodes,
 among other things, ideas about "reading," "authenticity," "fidelity,"
 "preservation," and "authorship." Whatever theoretical framework the reader
-holds about the process of interpretation must therefore meet the framework
-implicit in the text itself. The encounter happens not on the level of
-representation or ideology, but on the level of the physical, phatic,
-imperative, level of electronic communication where formatting and control
-reside.
+brings to the process of interpretation must therefore meet the framework
+implicit in the electronic text itself. Such an encounter happens not on the
+level of representation or ideology, but on the level of the physical, the
+phatic, and the imperative, where formatting and control reside.
 
-Think of it this way: even the familiar paragraph structure presents
-interesting complications. In claiming typographical space on a page the
-paragraph suggests corresponding mental units. A unit of written language thus
-also becomes in some sense a unit of thought. But no such structures as
-paragraphs exist in the mind. At the level of physiology, the brain arranges
-information otherwise. Things get significantly more complicated when the
-paragraph acts to mediate between the mind and the page on the one side of
-comprehension, and the page and the machine on the other. Just like there is
-nothing inherently paragraph-like in the neural arrangement of the brain,
-there is also nothing inherently paragraph-like or page-like in the
-arrangement of bits along the surface of the magnetic disk or the solid state
-drive. We are presented instead with metaphors of paragraphs, pages, files,
-and folders. These look like paragraphs, pages, files, and folders on the
-screen, yet they represent other structures in the head, and yet other
+The familiar paper paragraph structure already presents several interesting
+problems for analysis. In claiming typographical space on a page the paragraph
+suggests corresponding mental units. A unit of written language thus also
+becomes in some sense a unit of thought. But no such structures as paragraphs
+exist in the mind. At the level of physiology, the brain arranges information
+otherwise. Things get significantly more complicated when the paragraph acts
+to mediate between the mind and the page on the one side of comprehension, and
+the page and the machine on the other.
+
+![Forms and formats.](images/forms.png)
+
+Just like there is nothing inherently paragraph-like in the neural arrangement
+of the brain, there is also nothing inherently paragraph-like or page-like in
+the arrangement of bits along the surface of the magnetic disk or the solid
+state drive. We are presented instead with metaphors of paragraphs, pages,
+files, and folders. These look like paragraphs, pages, files, and folders on
+the screen, yet they represent other structures in the head, and yet other
 structures on the disk. The file format thus mediates between mental image,
 information stored in the head, and inscription, information stored in the
 machine.
@@ -231,8 +236,7 @@ word substitution, automatic summarization, wholesale generation of discourse
 by algorithmic means---the command and control layer contains all such
 possibilities.
 
-
-### 4.1 Metaphor Machine
+### 4.2 Metaphor Machine
 
 They key to understanding "the loss of resemblances" that accompanies
 ubiquitous simulation lies in the structure of the interface metaphor. A
@@ -618,7 +622,7 @@ archetypal "rule book" for its creation. The two senses matter because they
 lead to opposing strategies of interpretation. One seeks to describe, the
 other to explain; one to perceive, the other to reveal.
 
-### 4.2 Form, Formula, Formatting
+### 4.3 Form, Formula, Formatting
 
 Form is an often used but Caroline Levine.
 
@@ -647,7 +651,7 @@ influential essay "Print Is Flat, Code Is Deep," Katherine Hayles writes about
 "the interplay between a text's physical characteristics and its signifying
 strategies" [@hayles_print_2004, 72].
 
-### Plato
+#### Plato
 
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
@@ -716,7 +720,7 @@ the "universal lasting ideal" of all shuttles: exactly the opposite of
 *eidos* and *phantazomenōn* were reasonably translated into English as "form,"
 indicating a fundamental overloading of the concept.[^ln3-plato]
 
-### Hegel
+#### Hegel
 
 G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy between
 form and content in the literature on aesthetics. In his *Lectures on
@@ -812,7 +816,7 @@ matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conceit and device, where the embodied
 meets the ideal.
 
-### 2.2 Sound and Formula (Formalist)
+#### Sound and Formula (formalism)
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -1082,7 +1086,7 @@ purveyors of radical surface reading, but with the invention of writing itself.
 Reading "for meaning," in these not at all futuristic conditions,[^ln3-reading]
 involves turning hermeneutics into reverse engineering.
 
-### Sontag
+#### Sontag
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
 deemed the "sensory experience" or the "erotics" of art. In her now classic
@@ -1123,7 +1127,7 @@ something, but Sontag wants to stop short of meaning making. A discipline of
 careful perception---of paying attention---rather sharpens the reader's
 sensibilities.
 
-### Jameson, Marcus, Best.
+#### Jameson, Marcus, Best.
 
 The history of interpretation Sontag objects to is one that privileges content
 over form. The very words "explication" and "exegesis" imply the movement from
@@ -1141,7 +1145,7 @@ takes the form of an explanation of why the content was so distorted and is
 thus inseparable from a description of the mechanisms of the censorship itself
 [@jameson_marxism_1972, 404[.
 
-### Conclusion
+#### Conclusion
 
 
 Although the distinction between form and content is somewhat naturalized in
@@ -1162,7 +1166,7 @@ sometimes into semantic-carrying ideation: form, the indeterminate.
 
 
 
-### 4.3 Document Object Model
+### 4.4 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
