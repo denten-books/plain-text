@@ -51,12 +51,12 @@ Occasionally, besides whatever else you wanted to say, envision also sending a
 signal to your partner's device that indicated a change in the transmission
 language. Thus in addition to the message, you would also send a predetermined
 code that would switch the receiving apparatus from the "English language"
-into the "French language" mode. Such an instruction would *attune* the
-receiver to a different mode of apprehension. In our example, it would
-transform an English language machine into a French language one. It is in
-that sense of attunement that the programmatic sign acquires its
-non-representational, tactical character. Stripped of references,
-resemblances, and designations the programmatic sign commands and controls.
+into the "French language" mode. Such an instruction would attune the receiver
+to a different mode of apprehension. In our example, it would transform an
+English language machine into a French language one. It is in that sense of
+attunement that the programmatic sign acquires its non-representational,
+tactical character. Stripped of references, resemblances, and designations the
+programmatic sign commands and controls.
 
 Yet despite the formative impact on the structure of comprehension, the
 programmatic sign does not often figure in our theories of meaning making.
@@ -79,8 +79,8 @@ in the distinction between a restraining order and physical restraint. A
 restraining order *represents* the calling forth of codified power. Physical
 restraints, like the plastic handcuffs widely used in contemporary policing,
 *enact* the exercise of codified power. Like all violence they do not stand
-for anything.  Stripped of references, resemblances, and designations, they
-are in themselves an arrangement and rearrangement of matter. The handcuffs
+for anything. Stripped of references, resemblances, and designations, they are
+in themselves an arrangement and rearrangement of matter. The handcuffs
 contort the body into the shape of submission. Absent a body, the restraints
 draw an empty shape.
 
@@ -107,14 +107,14 @@ structures that contain further, smaller arrangements of information.
 One could say, what of such arrangements? Who cares about paragraphs? It is
 merely one type of a container among many. It has only an instrumental
 function to help get the point across. The meat of interpretation lies in the
-stuff within. Words come in other shapes and sizes. The container is
-disposable and therefore insignificant. In this chapter, I will argue to the
-contrary, maintaining that formats could only seem insignificant when they
-were few and simple. The transition between static and dynamic layouts
-necessitates renewed attention to form and format. What you saw is what you
-got on the page. On the screen, what you see is but a small part of what you
-get. The content---all that is contained on a page---shifts beneath the
-projected image.
+stuff within. Words come in other shapes and sizes. The outer container is
+disposable and therefore insignificant. In this and the next chapter, I will
+argue to the contrary, maintaining that formats could only seem insignificant
+when they were few and simple. The transition between static and dynamic
+layouts necessitates renewed attention to form and format. What you saw is
+what you got on the page. On the screen, what you see is but a small part of
+what you get. The content---all that is contained on a page---shifts beneath
+the projected image.
 
 In print, the content can be gleaned from the surface. There is nothing but
 surface on a page. On a screen, the visible surface is but a small part of the
@@ -138,11 +138,12 @@ stored information. More than passive conduits of meaning, electronic texts
 contain the rules for engagement between authors and their readers. Embedded
 structures project an ontology. In our example, the Portable Document Format
 encodes, among other things, ideas about "reading," "authenticity,"
-"fidelity," "preservation," and "authorship." Whatever theoretical framework
-the reader brings to the process of interpretation must therefore meet the
-framework implicit in the electronic text itself. Such an encounter happens
-not on the level of representation or ideology, but on the level of the
-physical, the phatic, and the imperative, where formatting and control reside.
+"fidelity," "preservation," and "authorship." Whatever literary theoretical
+framework the reader brings to the process of interpretation must therefore
+meet the framework implicit in the electronic text itself. Such an encounter
+happens not on the level of representation or ideology, but on the level of
+the physical, the phatic, and the imperative, where formatting and control
+reside.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
@@ -159,14 +160,14 @@ Just like there is nothing inherently paragraph-like in the neural arrangement
 of the brain, there is also nothing inherently paragraph-like or page-like in
 the arrangement of bits along the surface of the magnetic disk or the solid
 state drive. We are presented instead with metaphors of paragraphs, pages,
-files, and folders. The screen representations of paragraphs, pages, files,
-and folders look like their counterparts on the page, yet they represent other
+files, and folders. Screen representations of paragraphs, pages, files, and
+folders look like their counterparts on the page, yet they represent other
 structures in the head, and yet other structures on the disk. The file format
 thus mediates between mental image---information stored in the head---and
 inscription---information stored in the machine.
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
-that we have been disusing so far go under the name of *structural metaphors*.
+that we have been discussing so far go under the name of *structural metaphors*.
 "Structural metaphors allow us to do much more than just orient concepts,"
 Lakoff and Johnson wrote [@lakoff_metaphors_1980, 61]. Grounded in "systematic
 correlations within our experience," they transfer organizing principles from
@@ -180,14 +181,18 @@ in the shape of another.
 
 On an abstract level, structural substitution defines computation in general.
 Recall for a moment Turing's seminal definition of the universal computing
-machine, discussed at length in the first chapter. What he called the
-"standard description" of a computing machine involved a finite number of
-configurations of "tape" and "symbol." The machine attains a universal quality
-when configurations of tape and symbol can substitute for all other forms of
-symbolism. In this way a universal computer can emulate a word processor, a
-fairy tale world, or a calculator. Turing's universal computing machine is a
-type of a structural metaphor by definition. It has the ability to represent
-all other symbolic machine states, symbolically.
+machine, discussed at length in the first chapter. What he called a "computing
+machine" involved a finite number of configurations of "tape" and "symbol."
+The machine attains a universal quality when configurations of tape and symbol
+can substitute for all other forms of symbolic manipulation. In this way a
+universal computer can emulate a word processor, a fairy tale world, or a
+calculator. Turing's universal computing machine is a type of a structural
+metaphor by definition. It has the ability to represent all other symbolic
+machine states, symbolically. Being a universal symbolic manipulator, the
+Turing machine is able to extend all metaphors. That is not to say that it can
+*do* anything. For example, one cannot use a computational device to hammer
+nails. But a computer can be used to extend the metaphor of hammering nails
+into the virtual realm.
 
 The language of computation reveals its reliance on metaphor in practice.
 Consider the following passage from a patent filed by Xerox in 1991. It
@@ -206,8 +211,8 @@ environment" [@pajak_electronic_1992, 1]. Setting aside, for a moment, the
 peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
 technical language. What does it mean to "access" a metaphor? When someone
 "checks out" a book from the electronic library, do they gain access to the
-book or to the metaphor? The traditional theory of the metaphor does not
-prepare us to answer such questions.
+book or to the metaphor? Traditional metaphor theory does not prepare us to
+answer such questions.
 
 In the so-called classical view, metaphors are simply a type of figurative
 language. To say "the day stands tiptoe on the misty mountain tops" is to use
@@ -231,8 +236,8 @@ underlying figuration like "good things are up" and "the mind is a container
 !["Alternate display techniques for information about a big book"
 [@card_methods_2006,4].](images/book-3d.png)
 
-The transference of structuring principles from one system to another--from
-"physical libraries" to "electronic workstations environments," in our case--
+The transference of structuring principles from one system to another---from
+"physical libraries" to "electronic workstations environments," in our case---
 reveals the formative nature of the structural metaphor. Metaphors that can be
 touched and handled in some way exist neither wholly in language nor wholly in
 the mind. Rather, they operate in action, at hand. John Carrol, one of the
@@ -269,16 +274,12 @@ Apple's designers understood also that the mapping of concepts between the
 physical and the computer-generated worlds is imperfect. For example, unlike a
 real-world file folder, constrained by the size of its containing cabinet, a
 computer folder can hold a nearly unlimited amount of files. Or, to be more
-precise, the electronic folder metaphor is subject to *different* constraints
+precise, the electronic folder metaphor is subject to different constraints
 than those that limit the use of a paper file. The image of the paper file
 should not therefore limit the possibilities of the metaphor's implementation,
-the manual explains. It further advices to "strike a balance between the
+the manual explains. It further advises to "strike a balance between the
 metaphor's suggested use and the ability of the computer to support and extend
-the metaphor" [@apple_apple_1987, 5]. Being a universal symbolic manipulator,
-the Turing machine is able to extend all metaphors. That is not to say that it
-can *do* anything. For example, one cannot use a computational device to
-hammer nails. But a computer can be used to extend the metaphor of hammering
-nails into the virtual realm.
+the metaphor" [@apple_apple_1987, 5].
 
 A number of patents from IBM, Xerox, and Microsoft rely on the language of
 metaphor extension. Consider United States Patent #5,907,854 by Paula J. Cox
@@ -290,9 +291,11 @@ provides a familiar classification system." They go on to write that the
 creation of bookcase metaphors involves "the creation of appropriate links to
 the actual online book/bookshelf/bookcase." The "book metaphor" ultimately
 "provides an easy to understand and intuitive model for a user who might not
-be familiar with on-line viewing tools" [@cox_method_1999].  Similarly, the
-influential product design firm IDEO worked with Xerox on improving company's
-file manager shell PC Catalog, later renamed to TabWorks.  In describing the
+be familiar with on-line viewing tools" [@cox_method_1999].
+
+Another metaphor machine can be found in the collaboration between the
+influential product design firm IDEO and Xerox. The two worked on an early
+file manager shell PC Catalog, later renamed to TabWorks. In describing the
 design process, IDEO developers wrote about defining "key elements of the
 metaphor" contained in the image of "tabs" and "catalogs." "The book *cover*,"
 they wrote, "opened to display three *rings* binding a set of divider *tabs*,
@@ -302,53 +305,54 @@ each containing one or more *pages*." Pages, in turn contained *items* or
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "In this way, the
 interface [...] permits a user to directly manipulate the sheets in the
-notebook metaphor" [@glaser_graphical_1995]. In all of these examples, the
-user operates with a metaphor. The machine then translates a set of metaphoric
-manipulations into the corresponding actions in the physical world. But the
-nature of those manipulations are occluded from users, who are, presumably,
-not equipped to understand the physical realities of computing.
+notebook metaphor" [@glaser_graphical_1995]. The user is meant to handle the
+metaphor in all of the above examples. The metaphor structures the material
+affordances of the simulation according to the rules of the physical world.
 
 Metaphor machines present us with a special case of conceptual domain
 blending. In the cognitive view, the metaphor performs a number of
 "conventional mapping from one domain to another" [@lakoff_contemporary_1998,
 239]. Lakoff mentions for example the common trope of "a state is a person,"
-implicit in the ideas of a "friendly" or a "hostile" state
-[@lakoff_contemporary_1998, 243]. In this case, ideas about agency, emotion,
-and mental life usually attached to people are extended to state actors.
+implicit in the ideas of a "friendly" or a "hostile" states
+[@lakoff_contemporary_1998, 243]. In this way ideas about agency, emotion, and
+mental life usually attached to people can be extended to state actors.
 Similarly, to say that someone is "boiling mad," instantiates the common trope
-of "anger is a hot liquid in a container." In this case, we map common known
-properties attached to the domain of physics to the domain of emotion. Lakoff
-further explains that such domain mapping tend follow a few rules. They are
-usually partial and asymmetrical. "Mappings are not arbitrary," he writes,
-"but grounded in the body and in everyday experience and knowledge." Finally
-domain mapping obeys what Lakoff call the Invariance Principle, by which "the
-image schema structure of the source domain is projected onto the target
-domain in a way that is consistent with inherent target domain structure"
-[@turner_conceptual_1995; @lakoff_contemporary_1998;
+of "anger is a hot liquid in a container." In this case, common known
+properties attached to the domain of physics can be mapped onto the domain of
+emotion. Lakoff further explains that such domain mappings tend follow a few
+rules. They are usually partial and asymmetrical. "Mappings are not
+arbitrary," he writes, "but grounded in the body and in everyday experience
+and knowledge." Finally domain mapping obeys what Lakoff call the Invariance
+Principle, by which "the image schema structure of the source domain is
+projected onto the target domain in a way that is consistent with inherent
+target domain structure" [@turner_conceptual_1995; @lakoff_contemporary_1998;
 @ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
-When reading electronically, we prefer not to manipulate the information
-stored on the disk directly. Instead, we manipulate digital information by the
-means of familiar mediating structures like paragraphs, pages, files, and
-folders. Such structures are attached figuratively to the affordances of
-print. We know, in other words, what paragraphs, pages, files, and folders can
-do on paper. For example, one affordance of paper is that it can be folded.
-Therefore it becomes possible to "earmark" a page by folding a corner. The
-fold enables subsequent recollection of read text. The reader is able to mark
-a notable place in the text and to return to it later quickly, if needed. The
-digital medium cannot be folded in the same way. In other words, it offers a
-set of affordances that differ from paper medium. But because the reader lacks
-familiarity with digital media, its affordances are presented through
-metaphor. Thus a virtual "earmark" on a "page" can be made to represent a
-numerical pointer to a specific address in the computer memory. And the "page"
-could stand for a range of related addresses that would roughly correspond to
-the information visible on an analogous page in print. Similarly one "drops a
-folder into the trash bin" or "drags and drops a file" or "bookmarks a page."
-Such metaphors rely on habituated insight with one medium extended into
-another. We do not literally "drag" or "drop" bits, but we use the metaphor of
-papers and trashcans to help us manipulate bits and bytes as if they were
-household objects. The metaphor opens figurative possibilities. But it also
-obscures the actual physical contingencies of interacting with bits and bytes,
-logic gates and magnetic traces.
+
+The principles of metaphor-driven design contain an implicit model of
+human--computer interaction. It implies that humans prefer not to manipulate
+digital information stored on computational media directly. Instead, they
+would manipulate digital information by the means of familiar mediating
+structures---paragraphs, pages, files, and folders---associated figuratively
+to the affordances of print media. We know, in other words, what paragraphs,
+pages, files, and folders can do on paper and we would digital paper to behave
+in a similar way. For example, one affordance of paper is that it can be
+folded. It therefore becomes possible to "earmark" a page by folding a corner.
+The fold enables subsequent recollection of read text. By this means, a reader
+is able to mark a notable place in the text and to return to it later quickly,
+if needed. The digital medium cannot physically be folded in the same way
+because it offers a set of affordances that differ from paper. But because
+readers are not familiar with "what can be done" digitally, the affordances of
+digital media are presented through metaphor. Thus a virtual "earmark" on a
+"page" can be made to represent a numerical pointer to a specific address in
+the computer memory. And a "page" could stand for a range of related addresses
+that correspond roughly to the information visible on an analogous page in
+print. Similarly one "drops a folder into the trash bin" or "drags and drops a
+file" or "bookmarks a page." Such metaphors rely on habituated insight with
+one medium extended into another. We do not literally "drag" or "drop" bits,
+but we use metaphors of paper and trashcan to help us manipulate bits and
+bytes as if they were household objects. The metaphor opens figurative
+possibilities. But it also obscures the actual physical contingencies of
+interacting with bits and bytes, logic gates and magnetic traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
