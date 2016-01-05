@@ -1,6 +1,6 @@
 ## Chapter 4: Simulation
 
-`metaphor machine, smart contract`
+`metaphor machine`
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
@@ -605,291 +605,105 @@ motivation. The analogy between discarding paper and erasing bits breaks down
 in the worst possible way. The material realities of the metaphor are not
 simply missing, they are misrepresented.
 
-### 4.3 Smart Contracts
+### Mimesis and Mediation
 
-Exposing the Document Object Model that governs the production of text through
-contemporary reading and writing devices gives the question of surface and
-depth yet another connotation. What lies beneath the text? We are accustomed to
-thinking about document structure metaphorically and answer in accord: meaning,
-narrative, representation, order, discourse, or ideology. Interpretation, at
-that level of analysis, happens in the head, which physically limits the
-possibility of depth to personal introspection, magnetic resonance imaging, or,
-at best, to an archive of extant reader responses (which in themselves need
-further interpretation).
+"An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
+Laurel wrote in the seminal 1984 volume on user centered design edited by
+Donald Norman and Stephen Draper, "if designing interfaces feels like painting
+on cave walls by flickering torchlight, it is only because we, the designers,
+have not availed ourselves of better illumination: the science of the mimetic
+arts, poetics" [@norman_user_1986, 67]. Before the 1980s, the dominant
+paradigm of interacting with machines was the dialog [@shaw_joss:_1964;
+@cameron_dialog:_1967; @gaines_timesharing_1986; @martin_computerized_1970;
+@martin_design_1973]. Already in 1950, Turing imagined an artificially
+intelligent poet who defends its word choice in front of a literary critic:
 
-Incorporating the literary device as machine, gadget, or appliance into the
-answer suggests another, more literal strategy of interpretation. Beneath a
-text one finds cloth and wood pulp and, increasingly, also glass, plastic,
-liquid crystal, copper, laminates, and silicone.
+```
+Interrogator: In the first line of your sonnet which reads "Shall I compare
+thee to a summer's day," would not "a spring day" do as well or better?
 
-The move between paper and composite device carries with it a profound shift in
-the physical affordances of the deep structure supporting all subsequent,
-higher-order, surface-level representations of textuality. Not much space
-separates ink from paper. There, textuality lies flat, in two dimensions. What
-you see is truly what you get. Not so on the screen connected to other screens.
-Networked and time-shared textuality extends into the third dimension, away
-from the reader and deep into the bowels of the machine. The Open Systems
-Interconnection (OSI) reference model of communication[^ln3-osi] describes no
-less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
-electrical, functional, and procedural characteristics" of communication
-[@ncs_open_1981; @ncs_national_1988; @day_revised_1995].[^ln3-layers] These
-protocols further envelop a document already thickly stratified by the
-Document Object Model.[^ln3-domlayer]
+Witness: It wouldn't scan.
 
-[^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
-model.
+Interrogator: How about "a winter's day," That would scan all right.
 
-![A zoomed out view of the connected OSI model. Single node structure on the
-left. Connected devices on the right. The user has access through the top-most
-(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
-114-15].](images/osi.png)
+Witness: Yes, but nobody wants to be compared to a winter's day.
 
-These are the same layers that Alexander Galloway unites in a system of what he
-calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
-It is distributed to be sure, although to what extent decentralized is a matter
-of some debate. Like a good soldier, each device in the pictured network
-internalizes dozens if not hundreds of protocols that enable the system to
-function seamlessly as a whole (in the way, for example, that your machine can
-at one moment connect to one wireless access point, and at another moment to
-another, with minimal loss of connectivity). Yet, OSI protocols and the DOM are
-also densely consolidated. They are, for example, legislated by specific
-international governing bodies[^ln3-w3c], susceptible to the usual political
-pitfalls of pan-global consortia.
+Interrogator: Would you say Mr. Pickwick reminded you of Christmas?
 
-Once bifurcated between storage and screen, the inscription travels along a
-"pipeline" of protocols, undergoing a set of arbitrary transformations
-throughout. On one device, that pipeline may extend just a few inches,
-connecting disk storage and output display. On a network device that pipeline
-can stretch across continents, spanning widely divergent regions of legal and
-administrative control. The book you are reading here may be stored in another
-state or country. Whatever the case may be, the subject encounters the
-"protocol stack" from without, on the periphery of the onion-like network. When
-paging through an electronic book (usually an OSI-compliant device displaying
-DOM-structured files), for example, the reader has access only to the outputs
-emanating from the application layer, and, at that, only at the exposed
-"window" level of the DOM. The perceived "content" constitutes a small fraction
-of the underlying "formal" topology. What you see is far less than what you
-get.
+Witness: In a way.
 
-The application layer stops at the subject. Access to the layers intrinsic to
-device operation (and consequently to analysis) are sometimes "merely" obscured
-and sometimes made illicit outright, as is arguably the case with U.S. Code,
-Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
-systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
-1998. A literary scholar may be familiar with some provisions of American
-copyright law governing text as surface representation: US Code, Title 17
-extends "exclusive rights" to "copyright owners" of "literary works." The
-rights include the ability to "reproduce," "to prepare derivative works," "to
-distribute copies," and "to perform and to display publicly" (17.1.106).
-Surface representation is further subject to professional rules of conduct,
-embodied in practices of quotation, citation, and attribution (or lack thereof,
-as plagiarism).
+Interrogator: Yet Christmas is a winter's day, and I do not think Mr. Pickwick
+would mind the comparison.
 
-In practice, the easy reproducibility of digital text (and image) has served to
-erode the efficacy of copyright restrictions as a system of laws and
-regulations. The work of art in the age of digital reproduction has lost much
-of its already tenuous hold on the material substratum.[^ln3-illusion] Copy
-technologies from photocopiers, to desktop printers, to cheap magnetic storage
-and peer-to-peer file sharing networks reduce the price of copying and
-dissemination to near frictionless levels. The response from the film, game,
-music, and publishing industries has been to transpose mechanisms of copyright
-enforcement from legal down to the infrastructural levels of enforcement, as
-software and hardware: from Code to code. In the words of Charles Clark, the
-late British publisher and prominent copyright attorney, "the answer to the
-machine is in the machine [@clark_copyright_1996, 81-82]"---by which he meant
-that copyright enforcement should be taken up on the device level by the
-International Standards Organization, the very body responsible for the DOM and
-the OSI communication protocol stack [@clark_copyright_1996, 84].
+Witness: I don't think you're serious. By a winter's day one means a typical
+winter's day, rather than a special one like Christmas
+[@turing_computing_1950].
+```
 
-As an example of how that might work, Clark cites the Copyright in Transmitted
-Electronic Data Report (CITED), which suggests building "a tamper proof
-software module which acts rather like indestructible tachometers installed on
-long-distance coaches and lorries, recording everything that happens to the
-copyrighted or commercially valuable material [...] The basic idea is to link
-the 'valuable material' of intellectual property to a specific piece of
-software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84].
+The goal of conversational programming was to provide a similarly naturalized
+dialog between person and machine. Although machine understanding of informal
+speech human did not come to fore until the twenty-first century, interactive
+computing environments like DIALOG and JOSS attempted to abstract away from
+machine language towards interfaces that understood a limited number of
+English words. JOSS, an experimental on-line computing system created by the
+RAND corporation in 1963, consisted of a typewriter connected to the JOHNNIAC
+computer. Prior to JOSS, programmers would interact with the JOHNNIAC machine
+via keyboard and punch card, using first an octal number system and then a
+binary assembler language [@gruenberger_history_1979]. These methods of
+programming were time consuming and error-prone. "An octal desk calculator was
+nice to have," a historian of the system would later quip
+[@gruenberger_history_1979, 58]. The JOSS experiment was meant to introduce an
+a kind of an interpreter that sat between the human and the machine,
+facilitating communication in a more friendlier language. Think of JOSS as the
+"user's computing aide and a single contact with the computer," wrote the
+language designers [@shaw_joss:_1964, 456]. Instead of feeding punch cards
+into the machine, the operator was now able to use a standard typewriter to
+communicate with the machine. JOSS thus referred both to the "simple language"
+and to this new "remote console" way of interacting with the computer. "JOSS
+and the user take turns controlling the typewriter," wrote the authors. The
+aide understood simple commands like `do`, `go`, and `type`. In most cases it
+would respond with a result of a given computation. When confused, its default
+for an unspecified error was: "Eh" [@shaw_joss:_1964]?
 
-The emergence of embedded contractual enforcement at the level of the device
-can be subsumed under the broader idea of "smart contracts." In his seminal
-article on "Formalizing and Securing Relationships in Public Networks," Nick
-Szabo explains that "smart contracts combine protocols, user interfaces, and
-promises expressed via those interfaces to formalize and secure relationships
-over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo were
-instrumental in the rise of smart contracts in the 1990s in an attempt to
-redress the fading efficacy of legal copyright protections.[^ln3-smart] "Method
-and System for Managing a Data Object so as to Comply with Predetermined
-Conditions for Usage" (US5845281, issued in 1998) can be instructive in this
-regard. Greg Benson and Gregory H. Urich, both of Sweden, write:
+This mode of conversational interaction was captured also in one of the
+earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
+Crowther in 1975 [@montfort_twisty_2003]. The following dialog illustrates the
+call-and-response game play typical of the genre:
 
-> The data object owner may want to have permanent secure control over how,
-when, where, and by whom his property is used. Furthermore, he may want to
-define different rules of engagement for different types of users and different
-type of security depending on the value of particular objects. The rules
-defined by him shall govern the automated operations enabled by data services
-and networking. The owner may also sell composite objects with different rules
-governing each constituent objects. Thus, it is necessary to be able to
-implement variable and extensible control.
+```
+You are standing at the end of a road before a small brick building. Around
+you is a forest. A small stream flows out of the building and down a gully.
 
-The data object, in this case, stands for any media content, from books to
-music, video, and software. Rather then legislating rules for copying and
-distributing media, the inventors suggest that the medium itself should contain
-a control layer that would "comply with predetermined conditions of usage," in
-a way that can be "universally adapted to the needs of both the owner and the
-user of the data object" [@benson_method_1998, 2:55].
+> enter
+You are inside a building, a well house for a large spring. There are some
+keys on the ground here. There is a shiny brass lamp nearby. There is food
+here. There is a bottle of water here.
 
-!["Concatenated control data and AVI file in memory" [@benson_method_1998].](images/avi-control.png)
+> get keys
+OK
 
-!["Concatenated and encrypted control data and AVI file in memory"
-[@benson_method_1998].](images/avi-control2.png)
+>get lamp
+OK
 
-The associated schematics (pictured here) show data and control codes
-"concatenated" into the same underlying data structure (in this case, AVI media
-container format). The seemingly innocuous "text control" layer of the 1960s,
-used to specify formatting and visual style, was now extended to carry
-mechanisms for legal control, tied to specific legislation.
-
-The idea of smart contracts contains a notable artifact of implementation,
-relevant to our discussion on surface reading. To the extent that control codes
-are legible to the interpreter, they are also open to "abuse and
-circumvention." For this reason, encryption plays a key part in the smart
-contracts system. Once intertwined, data and control must be encrypted to
-prevent "unauthorized access." This brings us to the glaring problem at the
-very heart of smart contract implementation. The spirit of contractual law by
-its very nature demands *explicit* consent. In the language of English common
-law, contracts involve promises as "manifestation of intention," which "adopt
-an external or objective standard for interpreting conduct
-[@american_law_institute_restatement_1973, §1-2.]" The key words in this
-passage are "external," "objective," and "interpretation."
-
-By contrast, smart contracts, as described in the patent archive, must rely on
-encrypted---that is, not human-legible---forms of tacit compliance: neither
-external, objective, nor available for interpretation. The idea of encrypted
-consent stands in stark opposition to a tradition of contract law that relies
-on models of consent that involve expressed, mutual, explicit, and uncoerced
-forms of acquiescence. Even if smart contracts were to be accompanied by
-legible documentation (as Terms of Service, for example), the device user would
-be compelled to blindly trust in the correspondence between the expressed
-letter and the implicit mechanism of the document---the implementation still
-enacted beyond scrutiny, as hidden, encrypted, and purposefully illegible
-script.
-
-Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
-person shall circumvent a technological measure that effectively controls
-access to a work protected under this title (17.1201.a.1.A)." The letter of the
-law further specifies that to "circumvent a technological measure," in this
-case, means "to descramble a scrambled work, to decrypt an encrypted work, or
-otherwise to avoid, bypass, remove, deactivate, or impair a technological
-measure, without the authority of the copyright owner (17.1201.a.3.A)." A
-technological measure that "effectively controls access" is further defined as
-a measure that "in the ordinary course of its operation, requires the
-application of information, or a process or a treatment, with the authority of
-the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
-literary scholar, that means that, when encountering a text on a digital
-device, reading sometimes *must* limit itself to surface phenomena. An attempt
-at reading for depth---to discover the implemented terms of a smart contract,
-for example---may carry with it a set of official (even criminal)
-sanctions.[^ln3-fairuse]
-
-The short history of DMCA "anti-circumvention" provisions is already littered
-with ambiguous case law, that the Electronic Frontiers Foundation believes to
-have the effect of "stifling a wide range of legitimate activities," "chilling
-free expression and academic research," "jeopardizing fair use," and "impeding
-innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
-particularly relevant to the study of texts and literature. One, a security
-researcher exploring the activity of censorship filters on public library
-computers was threatened and forced to seek DMCA exemption from the Librarian
-of Congress [@fry_circumventing_2009]. Two, a Russian programmer speaking at a
-security conference was jailed and detained for several months for developing
-software that converts Adobe electronic book files into `.pdf` format, in a
-process that could potentially remove embedded digital rights management
-protections [@ferullo_major_2004; @mueller_reinventing_2004;
-@postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
-Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
-which allowed users to "change text annotations using Plaintiff's TrueType
-fonts" without a license [@_agfa_2005; @lipton_c_2009; @von_lohmann_unintended_2010]. If they become precedent, any of these cases could conceivably
-be used to physically limit the efficacy of reading, close and distant.
-
-[^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
-which may, under some interpretations, sanction limited use for academic
-purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
-@armstrong_digital_2006.
-
-The impact of DMCA and smart contracts on the practices of reading, writing, and
-literary analysis is potentially immense. In the language of the DMCA, the
-electronic book is not a book at all, but a "data object," in which the modest
-copyright symbol gives way to "control layers [@fischer_digital_2003]." An
-essay in the *Yale Journal of Law & Technology* explains it this way:
-
-> While e-books and their print counterparts embody essentially identical
-> content, from a transactional standpoint they differ considerably. Books are
-> tangible goods that can be owned, sold, and passed on without express
-> limitation--the Uniform Commercial Code (U.C.C.) governs their sale, while
-> copyright law protects their content. But despite appearances, Kindle e-books
-> are not, according to Amazon, sold at all: they are distributed under
-> restrictive license terms, similar to downloaded software
-[@seringhaus_e-book_2010, 150].
-
-In these conditions, something like a poem or a novel must relinquish its claim
-on the universal concrete. In doing that, it ceases to be literature and
-becomes instead a device, firmly tied to its given physical affordances.
-Reified as a concrete object, no longer lasting and universal, but rather
-ephemeral and contingent, it is subject to the whims of the market. The device
-now gains the ability to dynamically adapt itself "to the needs of both the
-owner and the user." These adaptations could of course take a benign form, of
-the kind suggested in "*Remix: Literatur*," where Michel Chaouli imagines a
-device akin to a "literature equalizer," empowering readers to "tune" any given
-text to their liking [@chaouli_remix_2009]. Don't really like intensifiers?
-Just turn the "adverb knob" down! I hold on to the possibility of building such
-a device with Chaouli. In the meantime, existing electronic book software and
-hardware devices adapt themselves to the reader in less creative ways. Some
-prevent simple copy and paste actions. Others can be used to censor and
-surveil. For a textual critic, such instability of medium means analysis cannot
-be confined to reading for surface meaning alone. How can close or distant
-reading practices persist, when the reading device reconfigures a text
-dynamically, to fit individual taste, mood, or politics?[^ln3-modern] Or, when
-it simply prevents access to some of the content?
-
-[^ln3-modern]: Note that these effects are not limited to contemporary
-literature at all. In purchasing a medieval text, the reader still buys not a
-text or a work but a device, which, despite the content being out of copyright
-protection, may still restrict access to other, protected layers of device
-function.
-
-Smart contracts and DMCA are a conspicuous symptom ailing all text gadgets,
-which offer only the illusion of flat textuality. Where a literary scholar
-could hope to gleam the machinations of ideology from surface representation in
-print, the literary device obscures literal flows of governance. Isomorphic
-application design makes the situation worse in giving a measure of similarity
-between page and screen (the definition of isomorphism), obscuring material
-divergence beneath. The condition is not one of ephemeral, immaterial text, but
-one of text burdened with hardware and illegible control structure. The task of
-the critic becomes then to restore text to its proper mode of being in the
-concrete universal: to give it permanence in the world of ideas and to free it
-from its arbitrary material constraint. To lay bare the device literally would
-mean to make the mechanisms of naked political control visible. For any sort of
-reading to commence, one would first need to peel away the DOMs and the
-OSIs---today a task fraught with legal consequence.
-
-### Cuts
-
-"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
-2
-
-The "symbolic" part is important in this context. For example, the universal
-computing machine cannot emulate an internal combustion engine, because the
-internal combustion engine is not in itself a symbolic machine. However, the
-universal computing machine can emulate a symbolic representation of an
-internal combustion engine: witness games like *Railroad Tycoon* or 61].
-"things not dead or killed by custom" "his own production"
+>exit
+You're at end of road again.
+```
 
 <!-- notes -->
 <!-- notes -->
 <!-- notes -->
 
-[^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
-the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
-Web Consortium (W3C) in the case of the DOM.
+[ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
+really hold texts. The idea of "text" identifies a segment of stored memory
+coupled with control codes that govern layout and projection in specific
+material context. Together, these diverse signals and physical affordances
+create the illusion of a single text.
 
+[^ln4-carroll]: @carroll_annotated_1960, 55. See @huxley_raven_1976 and
+@susina_why_2001 for a range of possible answers, including Carroll's own:
+"Because it can produce a few notes, though they are very flat; and it is
+nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
+@susina_why_2001, 16-7].
+
+[^ln4-dead]: For a book length summary on this very topic see
+@muller_metaphors_2008.

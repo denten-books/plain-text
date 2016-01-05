@@ -142,18 +142,18 @@ of the earliest examples of social network graphs, he finds (and objects to)
 the presence of things in the position of social actors.
 
 Moreno helps us see the book in a new light. If it was always, as he writes, a
-a robot for enacting action at a distance, it is all the more robotic as a
+robot for enacting action at a distance, it is all the more robotic as a
 device that draws electricity. When in the 1930s one could view Moreno
 book-bombs as a fanciful---technophobic even---view of literary technology, a
 century later his concern appears pressing and prescient. The unintended
-consequences of disembodied and automated agency, from artificially intelligent
-personal assistants to market trading algorithms, worry scientists,
-legislators, and media theorists. What looks like a book today indeed takes on
-the functions of gun and trigger. I mean this literally: the simulated text
-comprises a part of the same computational platform that powers drones and
-aircraft carriers. Today, "servers" that serve the world's largest purveyors of
-literature service also air traffic control and covert intelligence
-[@soyata_combat:_2012; @logicworks_government_2015].
+consequences of disembodied and automated agency, from artificially
+intelligent personal assistants to market trading algorithms, worry
+scientists, legislators, and media theorists. What looks like a book today
+indeed takes on the functions of gun and trigger. I mean this literally: the
+simulated text comprises a part of the same computational platform that powers
+drones and aircraft carriers. Today, "servers" that serve the world's largest
+purveyors of literature service also air traffic control and covert
+intelligence [@soyata_combat:_2012; @logicworks_government_2015].
 
 These conditions compel us---humanists, historians, philologists---to
 reconsider the easy relationship we have enjoyed with the material conditions
@@ -169,7 +169,7 @@ but as mechanisms of generalized symbolic manipulation: related to pen, paper,
 typewriter, and telegraph.
 
 In this chapter, I draw several pre-histories of the literary device, first as
-a formal technique, then as an thought experiment, and finally as a control
+a formal technique, then as a thought experiment, and finally as a control
 mechanism. To preserve a sense of human agency and to break the inertia of
 leisurely reading, we must rediscover the book as a device; to call it forth
 for what it is and always was---a robot for effecting thought at a distance;

@@ -486,3 +486,15 @@ dostorted by Commentators and beclouded by Illustrators" (p64)
 "One plain text is worth a thousand"
 
 Signal Book, United States Army: 1916
+
+### Cuts
+
+"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
+2
+
+The "symbolic" part is important in this context. For example, the universal
+computing machine cannot emulate an internal combustion engine, because the
+internal combustion engine is not in itself a symbolic machine. However, the
+universal computing machine can emulate a symbolic representation of an
+internal combustion engine: witness games like *Railroad Tycoon* or 61].
+"things not dead or killed by custom" "his own production"
