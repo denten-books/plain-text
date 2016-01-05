@@ -36,9 +36,9 @@ phatic function lies the essence of formatting.
 But before we can begin to peel apart layers of form, formatting, and formula
 in the next chapter, I need to outline a few salient features of the
 computational metaphor. Computation proceeds through metaphor, as I will argue
-here. And this metaphor often breaks in a way that occludes the incongruence
+here. And the metaphor often breaks in a way that occludes the incongruence
 between the visible representation and the underlying material affordances of
-the medium. What we see is not always what we get. We are instead confronted
+the medium. What you see is not always what you get. We are instead confronted
 with a composite image, which under examination reveals a complex process of
 transfiguration between the visible sign and the sign at the site of the
 inscription.
@@ -55,7 +55,7 @@ into the "French language" mode. Such an instruction would *attune* the
 receiver to a different mode of apprehension. In our example, it would
 transform an English language machine into a French language one. It is in
 that sense of attunement that the programmatic sign acquires its
-non-representational, tactical character.  Stripped of references,
+non-representational, tactical character. Stripped of references,
 resemblances, and designations the programmatic sign commands and controls.
 
 Yet despite the formative impact on the structure of comprehension, the
@@ -71,18 +71,18 @@ completely or to make it so small as to be illegible affects not just the
 style but the politics of text. Formatting, in that sense, can determine its
 audience, privileging certain voices and modes of access over others.
 
-Unlike figurative language, formatting codes and programming languages
-function in the imperative. They do not stand for action---they are action.
-More binding than J.L. Austin's "speech acts," control codes arrange and
-regulate. The difference between representation and control is one of brute
-force. It lies in the distinction between a restraining order and physical
-restraint. A restraining order *represents* the calling forth of codified
-power. Physical restraints, like the plastic handcuffs widely used in
-contemporary policing, *enact* the exercise of codified power. Like all
-violence they do not stand for anything. Stripped of references, resemblances,
-and designations, they are in themselves an arrangement and rearrangement of
-matter. The handcuffs contort the body into the shape of submission. Absent a
-body, the restraints draw an empty shape.
+Unlike figurative language, machine control languages function in the
+imperative.  They do not stand for action---they are action. More binding than
+J.L.  Austin's "speech acts," control codes arrange and regulate. The
+difference between representation and control is one of brute force. It lies
+in the distinction between a restraining order and physical restraint. A
+restraining order *represents* the calling forth of codified power. Physical
+restraints, like the plastic handcuffs widely used in contemporary policing,
+*enact* the exercise of codified power. Like all violence they do not stand
+for anything.  Stripped of references, resemblances, and designations, they
+are in themselves an arrangement and rearrangement of matter. The handcuffs
+contort the body into the shape of submission. Absent a body, the restraints
+draw an empty shape.
 
 Code acts similarly to shape the word. Located somewhere between idea and
 material, formatting relates content to matter. It mediates by imposing
