@@ -488,16 +488,18 @@ familiar but absent affordances tied to an absent print artifact. The
 simulation suggests a structuring of one kind, while enacting a structure of
 another.
 
+### 4.2 The Death of a Metaphor
+
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
 210-1]. Lakoff explains that to say something like "to spin one's wheels" when
 referring to someone who is thinking is to apply the reader's knowledge of
-automobiles to the mental realm. The speaker may have a notion that spinning
+automobiles to the mental realm. The speaker may hold a notion that spinning
 wheels waste energy without moving the car forward. The metaphor suggests that
 something like that is happening mentally as well [@lakoff_contemporary_1998,
 211]. A metaphor in a figurative genre like prose or poetry works similarly by
 suggesting novel and hitherto unexplored connections between domains. In his
-influential essays on metaphor the English literary critic I.A. Richards
+influential essay on metaphor the English literary critic I.A. Richards
 explains that "when we use metaphor we have two thoughts of different things
 active together and supported by a single word, or phrase, whose meaning is a
 resultant of their interaction" [@richards_philosophy_1936, 95]. Richards's
@@ -505,13 +507,14 @@ radical contribution to the study of metaphor lie in the observation that
 metaphor operates in language, thought, and action ubiquitously. It does not,
 as previously thought, exist merely in the realm of poetic language. Thought
 in itself, Richards believed, is metaphoric in that the mind continually
-searches for patterns and comparisons [@richards_philosophy_1936, 94].
+searches for patterns and comparisons [@richards_philosophy_1936, 94]. The
+motivated metaphor produces novel insight: a tool to explore and to make sense
+of the world.
 
-Yet Richards also clearly believed that some metaphors were more productive
-than others. The poetic use of the metaphor did not merely carry meaning
-across known domains, it produced new and unexpected connections between them.
-To this effect, Richards cites the poet Percy Shelley who wrote the following
-in defence of poetry:
+Some metaphors are, in this way, more productive than others. The poetic use
+of the metaphor does not merely carry meaning across known domains, it
+produces new and unexpected connections between them. To this effect, Richards
+cites the poet Percy Shelley who wrote the following in defence of poetry:
 
 > [poetic] language is vitally metaphorical; that is, it marks the before
 > unapprehended relations of things and perpetuates their apprehension, until
@@ -524,19 +527,22 @@ in defence of poetry:
 Shelley anticipates what the cognitive school of metaphor theory was to
 confirm by empirical means more than a century later [@mojtabai_delusion_2000;
 @billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
-but also become naturalized: that is understood literally. For many readers,
-for example, the very idea of a "dead metaphor" itself no longer evoke death.
-Rather they understand "dead metaphors" to function as a unremarkable synonym
-for a trope that is merely conventional or idiomatic.[^ln4-dead] In this way
-Shelley describes the life-cycle of a typical metaphor. At its most generative
-stage, the metaphor actively produces new meaning. The creative juxtaposition
-between two as before unrelated domains brings new aspects of experience to
-light. But with time, the poetic metaphor becomes a tired cliché. It longer
-"perpetuates understanding." It dies in a sense of becoming a mere shortcut to
-understanding.  In Viktor Shknovsky's words, we "cease to experience" the
-trope. The metaphor dies when we begin recognizing it without apprehension
-[@shklovsky_voskreshenie_1914]. It no longer generates new connection between
-domains, but merely reinforces existing ones.
+but also become naturalized: that is understood literally. They create
+connections that with time become habituated and invisible to their users. In
+other words, taken for literal truth, the metaphor loses its metaphoric
+quality. For example, for many readers the very idea of a "dead metaphor"
+itself may no longer evoke death as such. Perhaps they understand "death" of
+the dead metaphors to function synonymously with "convention" or
+"idiom."[^ln4-dead] In Shelley view, metaphors are destined to become dead and
+habituated only be reborn again in poetry. At its most generative stage, the
+metaphor actively produces new meaning. The creative juxtaposition between two
+as before unrelated domains brings new aspects of experience to light. But
+with time, the poetic metaphor becomes a tired cliché. It longer "perpetuates
+understanding." It dies in a sense of becoming a mere shortcut to
+understanding.  In Viktor Shklovsky's words, we "cease to experience" the
+trope. The metaphor "dries up" when we begin recognizing it without
+apprehension [@shklovsky_voskreshenie_1914]. It no longer generates new
+connection between domains, but merely reinforces existing ones.
 
 Lakoff famously took exception with the idea "dead metaphor," arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
@@ -544,78 +550,62 @@ structuring everyday experience. He gave the example of the sentence: *He
 still can't quite grasp the basic ideas of quantum mechanics*. Grasping in
 this case is used as a synonym to "understanding." It indicates a transference
 of properties between physical action (grasping) and mental space (thought).
-The metaphor is alive, Lakoff wrote, because it continues to function widely.
-It is more alive in the sense that other more novel "one off" poetic metaphors
-have not found cultural salience. A truly dead metaphor for Lakoff is one in
-which the original source image no longer makes sense. For example, the
-English word *pedigree* originally referred to the French "crane's foot," used
-historically to decorate family-tree diagrams. Unlike "grasping ideas" where
-both sides of the domain transference are still available to the reader, the
-"crane's foot" contained within the English *pedigree* is no longer accessible
-to the average speaker. The idea of a dead metaphor does not appropriately
-differentiate between these two cases, according to Lakoff and his adherents
-[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies"
-but continues to perform its function of intuitively connecting two disparate
-domains. At other times, the metaphor dies in the sense of one domain becoming
-no longer accessible to its user. Furthermore, a wholly unmotivated metaphor
-does no work at all. Thus the non-sensual riddle famously posed by the mad
-hatter to Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like
-a writing desk? The dissimilarity between the two domains---of animals and of
-furniture---prevents productive congruence.[^ln4-carroll]
+The metaphor is alive, Lakoff wrote, because it continues to perform a
+function. Even when dead in a sense, it names a mental activity that we would
+otherwise find difficult to explain precisely. Such a metaphor is more alive
+than other, perhaps more novel, "one off" poetic metaphors that failed to
+become cultural tropes. Shelly's and Shklovsky's stark poetic metaphor works
+once and never again. Lakoff's everyday metaphor continues to function
+productively by contrast.
 
-To what extent does the interface metaphor correspond to the above
-definitions? When discarding a document into a trash bin, in our reoccurring
-example, users should theoretically map their knowledge of paper documents and
-paper waste baskets onto the computational domain. Instead, the *idea* of
-discarding something substitutes for the *material reality* of the
-corresponding action. The concept blends not with another conceptual domain
-but with the material affordances of the target medium. Furthermore, such
-material affordances---our ability to actually discard data, for
-example---stand in arbitrary relationship to the source domain. Simply put we
-expect the thing to be deleted, but it is not. The incongruence breaks the
-Invariance Principle. Whatever structural changes we expect to happen in the
-source domain do not carry on to the target. The structure of whatever is
-meant by "deletion" is often inconsistent with inherent domain structure. The
-metaphor breaks in a sense. It becomes a dead metaphor even under Lakoff's
-strict definitions.
+A truly dead metaphor for Lakoff is one in which the original source image no
+longer makes sense. For example, the English word *pedigree* originally
+referred to the French for "crane's foot," or *pied de grue*. The foot was
+used as a typographical flourish to decorate centuries-old family-tree
+diagrams. When we spoke of the metaphorical "grasping" of ideas, both sides of
+the domain transference were readily available us. We understood something
+about grasping things and extended it to the capacity of the mind to "take
+hold" of ideas. By contrast, the *pied de grue* contained within the English
+*pedigree* is no longer accessible to the average speaker. In one the first
+case the metaphor is merely tired, where it is completely dead in the other.
+For Lakoff, The idea of a dead metaphor does not appropriately differentiate
+between the two cases [@lakoff_death_1987; @muller_metaphors_2008]. The
+metaphor sometimes "dies" but continues to perform its function of intuitively
+connecting two disparate domains. At other times, the metaphor dies in the
+sense of one domain becoming no longer accessible to its user. Furthermore, a
+wholly unmotivated metaphor does no work at all. Thus the non-sensual riddle
+famously posed by the mad hatter to Alice in Lewis Carroll's *Alice in
+Wonderland*: How is a raven like a writing desk? The dissimilarity between the
+two domains---of animals and of furniture---prevents any productive
+congruence.[^ln4-carroll]
 
-Like the "crane's foot" in the English "pedigree" the user of the simulated
-document dustbin is missing one part of the metaphor equation. In the
-"pedigree" example, the English speaker lost touch with the source image.
-Contemporary English speakers no longer perceives the similarity between a
-"crane's foot" [*pie de grue*] and a family-tree diagram. In the
-interface-based example of "discarding a document into trash," the user is
-rather missing the target domain. The understanding of the target
-domain---changes in the magnetic or solid state storage medium that correspond
-to deletion---is the part that is missing from the figure. Like the crane's
-foot in "pedigree" the metaphor is therefore dead to the user. The absence of
-either target or the source domain prevents image mapping
-[@lakoff_death_1987]. In more literary terms, we may say that the "vehicle,"
-or the target domain which takes on the "tenor" of the source, is missing
-[@richards_philosophy_1936, 96]. The tenor of "discarding" a piece of paper
-does not necessarily carry over into the host. The metaphor is not motivated,
-in other words. The analogy between discarding paper and erasing bits does not
-hold.
+To what extent does the interface metaphor live by the above definitions? When
+discarding a document into a trash bin, in our reoccurring example, users
+should theoretically map their knowledge of paper documents and paper waste
+baskets onto the computational domain. Instead, the *idea* of discarding
+something substitutes for the *material reality* of the corresponding action.
+The concept blends not with another conceptual domain but with the material
+affordances of the target medium. Such material affordances---our ability to
+actually discard data, for example---stand in arbitrary relationship to the
+source domain. Simply put we expect the thing to be deleted, but it is not.
+The incongruence breaks Lakoff's Invariance Principle. Whatever structural
+changes we expect to happen in the source domain do not carry on to the
+target. The metaphor breaks in a sense. It becomes a dead metaphor even under
+Lakoff's strict definitions.
 
-This may be good moment to pause and to take stock of these preliminary
-remarks on metaphor. I observe first that the design of modern human--computer
-interfaces makes heavy use of metaphor in the mode of "conceptual blending."
-Second, I locate the idea of "conceptual blending" within the lineage of
-literary poetics. The work of researchers in human--computer interaction like
-John Carroll and Stuart Card relies on insight from cognitive linguists like
-George Lakoff and Mark Johnson. The conceptual or cognitive blending school
-pioneered by Lakoff and Johnson in turn represents a development of metaphor
-theory with roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.
-Richards. Finally, I note that metaphors understood in this tradition succeed
-and fail in interesting ways. They succeed when the metaphor connects ideas
-from two differing conceptual domains. At the very least, blending plays an
-important instrumental in everyday cognitive activity
-[@lakoff_metaphors_1980]. At its best, conceptual blending enables learning
-and discovery [@carroll_interface_1987; @card_methods_2006]. A living metaphor
-revitalizes human experience, producing new knowledge about the world
-[@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
+As was the case with the "crane's foot" in the English "pedigree," the user of
+the simulated document dustbin is missing one part of the metaphor equation.
+Where in the case of "pedigree" English speakers fail to grasp the source or
+the tenor of the metaphoric substitution, the case of the virtual dustbin is
+missing the target, or the vehicle of the action. Discarding a document into
+trash does not in fact correspond to a similar action in the target domain.
+In either case, failing the full transference the metaphor ceases to function
+properly [@lakoff_death_1987]. The interface metaphor fails to achieve
+motivation. The analogy between discarding paper and erasing bits breaks down
+in the worst possible way. The material realities of the metaphor are not
+simply missing, they are misrepresented.
 
-### 4.2 Smart Contracts
+### 4.3 Smart Contracts
 
 Exposing the Document Object Model that governs the production of text through
 contemporary reading and writing devices gives the question of surface and
