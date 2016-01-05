@@ -1,244 +1,79 @@
-# Part III: Displacement
-## Chapter 6: Labor
+## Chapter 7: Labor
 
-Estrangement vs. alienation.
+What does it mean to write simply?
 
-Finally, I would like to extend computational
-formalism towards its speculative and as yet unrealized edge cases.
+Literature hides the labor of readers and writers. In another sense, there is
+also the concealment of raw, physical energy that "goes into the word." The
+work it takes to get a rock up a mountain gives it potential energy to roll
+back down. By definition, potential energy relates to the possibility of "work
+done." The rock can pull something up the hill as it is falling down, for
+example. What of the energy that went into the writing of these sentences? I
+spent a few *joules* compressing the springs under my keyboard. Many more went
+into my laptop as electric current. Why? To overcome matter's passive impedance
+of advancing change. To preserve and to communicate this message *amperes*, the
+unit of electrical flow, struggled with *ohms*, the unit of electrical
+resistance.
 
-In conclusion, we will consider the possibility of literature without
-language, discourse without structure, and art without representation.  ##
-Copy
+There is energy too in the librarian's effort to archive a book, in the
+churning of a search engine to make it accessible to a reading public, and in
+the work of a truck driver who ferries information by road. The sum of these
+energies, which seem significant now in their accumulation, went into the
+writing of these words. Much of it dissipated as heat and light. And some of
+it---just a small part---left an imprint somewhere. It left a trace of ink on a
+page, magnetized a piece of tape, or shifted the configuration of the floating
+gate buried within the solid state drive. Finally, the potential energy
+remaining within the word began a chain of electrical reactions in the reader's
+brain. The mental effort or reading and writing amounts to "knowledge
+work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
+circuitry of at least two neurological systems. Reading leaves the brain in a
+different state than before. Writing, in this light, involves the transmission
+of neural activity between hosts. When considered as a physical process,
+literature is a type of electroencephalography (EEG), or electric head writing.
 
-This property further had the effect of freeing digital representation from
-its medium. A Rembrandt is bound to its canvas in a way that Shakespeare's
-*Hamlet* is not.  Digital systems are media independent. *Hamlet* can be
-reproduced on paper or stone, in Morse code, or bound in liquid crystal, and
-still be *Hamlet* in some natural understanding of the work. 
+![The place of linguistic structure among "the facts of language". Saussure's
+communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
 
-The division of text into form and content makes a difference in more
-utilitarian ways as well. For example, imagine the challenge of compiling all
-known commentaries on Shakespeare's *Hamlet*, by hand or programmatically. The
-problem of what edition to use as the "base" for such a project presents
-itself immediately. In the words of Barbara Mowat and Paul Werstine, the
-editors of *Folger Digital Texts*, "readers assume that there is a single text
-for the plays: what Shakespeare wrote. But Shakespeare's plays were not
-published the way modern novels or plays are today: as a single, authoritative
-text. In some cases, the plays have come down to us in multiple published
-versions, represented by various Quartos (Qq) and by the great collection put
-together by his colleagues in 1623, called the First Folio (F). There are, for
-example, three very different versions of *Hamlet*, two of *King Lear*, *Henry
-V*, *Romeo and Juliet*, and others. Editors choose which version to use as
-their base text, and then amend that text with words, lines or speech prefixes
-from the other versions that, in their judgment, make for a better or more
-accurate text" [@mowat_textual_2012]. In other words, where the readers expect
-to encounter *Hamlet* as a single, unified idea, they instead encounter a
-multiplicity of slightly diverging textual "witnesses." Errors in
-transcription and editorial interventions accumulate. The proliferation of
-unlicensed copies, translations, and imitations further adds to the complexity
-of the problem.
+Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
+here) follows from head to head. In *Plain Text*, I will complicate that
+picture by tracing the passage of thought further from *inscription* to a
+*device*. At each stage of the passage, we will observe the process of
+encoding and decoding, by which one type of substance---a thought---is
+converted into another type: a word or the oscillation of an electrical
+current. I will present here a type of a materialist reading practice, which
+pays attention to the physical properties of the communication act. I will
+give that practice a name---microanalysis---and a purpose: to uncover the
+energy gained or lost in the transformation from code to code and from medium
+to medium.
 
-Editors of classical literature will often solve the problem of diverging
-copies by designating one version as canonical, preserving the formal
-characteristics of the given version down to individual line breaks, as is
-often done with Platonic dialogs. It then becomes possible to collate
-commentaries, connecting each to individual words and passages at their
-canonical location. The problem remains in the abstract: which version to
-count as canonical? The act of deciding on what constitutes an authoritative
-edition can quickly become a contentious issue, particularly when the text in
-question carries religious or political significance.
+I am concerned with energy because too often our foundational models of
+reading and interpretation take the text as a fixed given. Even in our most
+destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
+materiality of the text is assumed to persevere. "We will take off here from
+the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
+can count the lines" at the "precisely calculated center of the dialogue"
+[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
+beginning, middle, and end. Derrida asks the reader "to return to the text,"
+even when the text "remains forever imperceptible"
+[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
+this usual way of a literary scholar, he uses the word "text" in two distinct
+ways: one, as an abstract mental construct---the one that is "forever
+imperceptible," and the physical one, which has a definite and stable
+topography---the one to which we return with confidence.
 
-A whole field of textual criticism exists in the service of negotiating
-"critical" editions which in some way preserve the struggle to reconstruct a
-measure of authority. But what should count for being authoritative? A number
-of logical possibilities find as many ardent adherents. For some, the act of
-deriving the authoritative text lies in reconstructing authorial intent, using
-the author's notes, for example, or from first-hand witness testimony. Others
-place a premium on reconstructing and analyzing the writing process itself, in
-what has been dubbed as "genetic criticism" [@deppman_genetic_2004, 1-36]. Yet
-another approach will compare multiple editions of the same text to derive a
-possible meta-text, preserving all extant variations. Yet others will simply
-rely on their judgment to produce what they believe is a "true" text based on
-a number of personal and eclectic considerations [@bowers_rationale_1950,
-@bowers_shakespeares_1954, @mcgann_radiant_2001]. Such approaches to textual
-criticism have at least this one thing in common: behind the fuzzy profusion
-of textual material they perceive the outlines of a single, unified work. As
-G.  Thomas Tanselle (a prominent textual scholar) puts it, "one must be able
-to distinguish the work itself from attempts to reproduce it."[^ln11-tanselle]
-For a textual critic of his kind, all real-word variants and reproductions are
-suspect because possibly corrupt in some way. Despite its careful attention to
-the materiality of the text as artifact, textual criticism in this vein
-remains a classically idealistic pursuit. The work exists as an ideal form in
-the realm of the ideal.
-
-[ln11-tanselle]:  "Whatever concept of authorship one subscribes to, the act
-of reading or listening to receive a message from the past entails the effort
-to discover, through the text (or texts) one is presented with, the work that
-lies behind" [@tanselle_rationale_2010, 13-18.].
-
-Restoration and Anti-restoration. Eugene-Emmanuel Viollet-le-Duc (for) and
-William Morris and John Ruskin (against). Also Teoria del restaruo by Brandi.
-
-"To restore an edifice means neither to maintain it, nor to repair it, not to
-rebuild it; it means to reestablish it in a finished state, which may in fact
-never have actually existed at any given time." [@price_historical_1996, 314;
-orig from @viollet-le-duc_foundations_1990, 195]
-
-"It is for all these buildings, threfore, of all times and styles, that we
-plead, and call upon those who hve to deal with them to put Protection in the
-place of Restoration, to stave off decay by daily care, to prop a perilous
-wall or mend a leaky roof by such means as are obvioiusly mant for support or
-convering, and show no pretence of other art, and othrwise to resist all
-tampering with either the favric or ornament of the buildings as it stands; if
-it has become 
-
-But whose who make the change wrout in our day under the name of Restoration,
-while professing to bring back a building to the best time of its hisory, have
-no guide but each his own individual whim to point out to them what i s
-admirable and what contemptible; while the very nature o their task compels
-them to destroy something and to supply the gap by imagining what the earlier
-builders should or might have done." Data munging. Irreversible changes.
-@price_historical_1996, 320; orig in "William Morris, "The Principles of the
-Society as Set Forth Upon its Foundation," Builder 35 August 1877.
-
-Ruskin lamp of memory.
-
-"It is impossible, as impossible as to raise the dead, to restore anything
-that has every been great or beautiful in architecture [...] That spirit which
-is given only by the hand and eye of the workman, never can be recalled.
-Another spirit may be given by another time, an it is then a new building; but
-the spirit of the dead workman cannot be summoned up, and commanded to direct
-other hands, and other thoughts. And as for direct and simple copying, it is
-palpably impossible. What copying can there be of surfaces that have been worn
-half an inch down [@staniforth_historical_2013, 2]?"
-
-"But it is said there may come a necessity for restoration! Granted. Look the
-necessity full in the face and understand it on its own terms. It is a
-necessity for destruction. Accept it as such, pull the building down, throw
-its stones into neglected corners, make ballast of them, or mortar, if you
-will' but do it honestly, and do not set up a Lie in its
-place"[@staniforth_historical_2013, 3].
-
-On the Restoration of The Circumcision by Signorelli. "At Volterra, over the
-alter of a Company in the Church of S. Francesco, he painted in fresco the
-Circumcision of Our Lord, which in considered beautiful to a marvel, although
-the Infant, having been injured by damp, was restored by Sodoma and made much
-less beautiful than before. And, in truth, it would be sometimes better to
-leave works half spoilt, when they have been made by men of excellence, rather
-than to have them retouched by inferior masters." 1550 Tim's Vermeer.
-
-picture cleaning as removing as removal of "varnishes and other encrustations,
-by which a paininting may be obscured, but by which it is usulaly also in some
-measur protected from injury." [@bomford_issues_2004, 60] Original in the
-Report from the Select Committee on the National Gallery, London 1853, vi-xi.
-
-Colliveau set about [restoring]this picture with uncommon solenity, because it
-was his own. He began with the most delicate pumice stone, and very soon got
-into the walls of th building, but was astonished to find the apearance of
-bricks and mortar still, although not guite soneat; he soon cleared away the
-wall on discovering a room beyond, and pictures, furniture, &c. most
-beautiful.  Gracious powers! how was he agitated; forgetting totally the
-mischief he was commiting, his elbow went like a fiddler's; every thing
-vanished.---However, finding a bed, the curtains of which (a dark green) were
-drawn close, he went to work upon it ver tenderly; presently a pot de chambre
-came  in sight!---His whole souldwas absorbed; his face all one ghastly grin;
-his legs (like German flutes) tottered under him. Not that great philosopher
-Guffin Ragba, was more agitated while cutting the leather from off his bellow,
-to disover how wind was make, than was Monsieru Collifeau while scroring off
-the bed cloaths; at last he found a lady asleep, very beautiful, because very
-fat, and a Dutch woman.  Now this part I did not see, and I believe but very
-few besides himself; but alas! hew was soon to be at the end of his
-discoveries. Having got a glimpse of some gilding, he redoubled his efforts,
-when he found it was an inscription; it was in Dutch, and nearly thus, as
-translated by Mr. Peter La Cave:---"Now caitiff, meditate on th havoc though
-hast made throughout thy lie, and go thang thyself. In this picture, wretch!
-though have destroyed, what to the end of the world, can never be replaced."
-[@bomford_issues_2004, 44-45]. Originally from Julio Caesar Ibbetson, An
-Accidence, or Gamut, of Painting in Oil and water Colous . London: Darton and
-Harvey, 1803, 5-14.
-
-"The sculptor wastes away th rudo block til he has accomplished the desired
-form. not so the painter. he builds up his forms from a blank surface, and
-hides, as he rogresses all the preliminary layers upon which the etxternal
-colours depend for durability and lustre. And hence, not on the meaning and
-spririt of the work must be understood; the restorer must also be familiar
-with he naure of the materials and the manner of their employment.
-[@bomford_issues_2004, 70]. Original from @merritt_dirt_1854, 67-72
-
-
-The wound that heals.
-
-Just giving you a taste of restoration vs. preservation. What would
-
-
-[^ln11-counter]: A documentary on counterfeit goods produced by BBC4
-interviews Christophe Zimmerman, Senior Technical Officer at World Customs
-Organization, who deplores the industry's lack of cooperation with law
-enforcement [@bbc4_counterfeiting_2013].
-
-
-## Gerard Genette and Nelson Goodman on the nature of textual copies,
-## 2.5 Marx upside down
-
-It is this last and still current moment of historical development that is
-least theorized. A dominant tradition in the history of the human sciences
-follows Louis Althusser and Michel Foucault (and, to a lesser extent, Jacques
-Derrida)[^ln1-derr] in analyzing mechanisms of structure and control in terms
-of ideology, discourse, and representation. Where for Althusser "every science
-is a science of ideology,"[^ln1-alt] Foucault posits his archeology of the
-human sciences on the level of "positive unconscious," revealing unspoken
-"rules" that govern the formation of "theories, concepts, and objects of study"
-on the level of "scientific representation" [@foucault_order_1994, xi].
-
-There are a number of theoretical niceties here (that the reader may skip, if
-not interested in the history of Marxist thought). For example, the concept of
-ideology, in the orthodox Marxist schema of things, exists as a "political
-superstructure [...] to which correspond definite forms of social
-consciousness." In the Marxist model, ideology floats *above* the material
-base---the dominant mode of production---that "determines the general character
-of the social, political and spiritual processes of life"
-[@marx_contribution_1904, 11]. Althusser's influential contribution to this
-world view was to insist that ideology, although secondary to the mode of
-production, nevertheless assures its continual reproduction as a means of
-continuing subjugation and political control. Simply put, for Althusser, the
-ideological apparatus of the modern capitalist state ends up being "installed
-in the dominant [social] position" [@althusser_lenin_2001, 85-127]. In a
-similar (although not equivalent) rhetorical move, Foucault envisions that
-beneath the "epistemological level" of human activity there exists an
-"archaeological layer," where representation "governs the mode of being of
-language, individuals, nature, and need itself" [@foucault_order_1994, 209].
-Ideology and representation, once determined, now determine. The rhetorical
-jujitsu inverts Hegel yet again, to put Marx back on his head.[^ln1-flip] My
-short history of the universal Turing machine runs counter to this top-heavy
-tradition of reading Marx in the inverse. As a device, the Turing machine fuses
-control and communication. Control is meant here bluntly, as physical circuit
-control, at the level of the mechanism and not at the attenuated level of
-ideology or representation.
-
-
-John Eberhard from the Institute of Applied Technology, National Bureau of
-Standards speaking in 1967 at the Electronic Composition in Printing symposium
-at Gaithersburg Laboratories.
-
-@technology_electronic_1968, 1
-
-I happen to be a humanist among the physical scientists here at the National
-Bureau of Standards. Begins with a quote from Marshall McLuhan. "He who does
-his work like a machine, grows a heart like a machine in his breast, and he who
-carries a heart of the machine in his breast losses his simplicity. He who has
-lost his simplicity, becomes unsure of the strivings of his soul."
-
-"It is a long way from standards like the alphabet to standards like privacy
-with the respect to the use of computers."
-
-"We are concerned not only with nuts and bolts and screw threads or with the
-standards related to the phenomena of matter and materials. We are becoming
-increasingly concerned about man and about how man becomes a part of this
-measuring system" [2].
-
-Heidegger would be good here.
-
-Media
+In the vision of post-structural poetics, the text in the abstract resembles
+the quicksand of unstable signifies. In other words, one can define a word
+only in relation to other words. In this way, Derrida describes texts as
+"dissimulation of the woven texture," "a web that envelops a web," and "an
+organism, indefinitely regenerating its own tissue behind the cutting trace,
+the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
+Text*, I want to further challenge the stability of the text as a physical
+artifact. The literary device reconfigures the text dynamically in the process
+of reading. Because the text is no longer fixed into a stable medium, we must
+do away with page numbers, for example. Pagination changes according to the
+size of the device. More intrusively, the reader cannot rely on finding the
+same text upon return. The writer, the book seller, or the censor have the
+technological capacity to alter the text in real time, even as the book rests
+in hand or on a shelf.
 
 ## Quantity vs. Quality (microanalysis)
 
@@ -255,7 +90,6 @@ Census Bureau on the behest of the National Endowments for the Arts (NEA).
 
 Contrary to the report's findings, numbers about textuality at large tell a
 different and an entirely more optimistic story.
-
 
 In the 1990s, the ire of the metaphysically disaffected coursed against visual
 culture and television [@stephens_rise_1998; @merrin_television_1999]. A decade
@@ -372,6 +206,7 @@ limits of human comprehension. There are no winners in such an arms race
 between "primary texts" and footnotes: only eventual irrelevance.
 
 [^ln2-balzac]: Search query `ti:Balzac` at OCLC Worldcat.
+
 [^ln2-barthes]: Search query `Barthes AND Balzac` using Google Scholar.
 
 Non-positivistic disciplines like literary studies lack a methodology for
@@ -549,6 +384,154 @@ literature, free (to the extent it is possible) from its normative spectres:
 something like "systemic application of textuality to human life," and
 textuality as "the site of literary activity." But I am not yet ready to move
 beyond the obvious tautology.
+
+## 0.7 Scale
+
+Technological systems that give rise to complex social phenomena, from market
+trading to literary canon formation, defy holistic comprehension. Writing in
+1977, Langdon Winner warned the scholar of science and technology to stay away
+from those "mystics" and "crackpots" who offer visions of a new and totalizing
+synthesis. Quoting the French poet and philosopher Paul Valéry, he wrote that
+"our means of investigation and action have far outstripped our means of
+representation and understanding" [@valery_collected_1962, 69;
+@winner_autonomous_1978, 290]. "Citizens of the modern age in this respect are
+less fortunate than children," he wrote. Children graduate from ignorance to
+understanding. Adults however never escape a "fundamental bewilderment in the
+face of the complex world that their senses report." Winners work anticipates
+the exponential growth in complexity of computing systems that surround us
+today. The Unix operating system announced on the pages of the Proceedings of
+the fourth ACM symposium on Operating systems in 1972 comprised roughly 10,000
+lines of code, or roughly the equivalent of three of Shakespeare's plays
+[@ritchie_unix_1973; @ritchie_unix_1974; @mccandless_million_2015]. By
+contrast, the code that runs *Google* comprises more than 2 billion lines of
+code, or roughly 700 million *Hamlets*.[^ln-twobil]
+
+The growth of the literary sphere has mirrored the rapid proliferation of
+code. On an average day in 2008, at home, an average American read around
+100,000 words [@bohn_how_2009]. At 250 words per page, that amounts to reading
+around 402 printed pages or roughly a novel like Emily Bronte's *Wuthering
+Heights* per day. Pointing to the sheer impossibility of processing the amount
+of published information in nineteenth let alone the twenty-first century, the
+American poet and critic Craig Dworkin urged his peers to abandon the dream of
+comprehensive knowledge of the literary sphere altogether
+[@dworkin_seja_2008]. But does this mean we should stop trying to read or
+compose literary histories?
+
+We have two viable options, as I see it. The first is to scale up. The various
+practices of distant reading arise from the condition in which canons are no
+longer accessible, in their entirety, to the unaided (natural) human
+intellect. The second options is to scale down. Thus where distant reading
+perceives patterns across large-scale corpora, computational
+hermeneutics---microanalysis---breaks literary systems down to their minute
+constituent components. The best we can do in the face of complexity, Winner
+advises, "is to master a few things in the immediate environment"
+[@winner_autonomous_1978, 286]. Microanalysis aims to create localized pockets
+of clarity from which further critique and exploration can advance.
+
+To understand something small about the physical realities of "turning"
+virtual "pages" is to create a space capable of supporting a measure of
+agency, desire, or dissent.[^ln-dissent]
+
+, Microanalysis creating pockets of clarity from
+which further critique and exploration can advance. 
+
+Between the years of 1980 and 2008, the consumption of
+information in bytes---a measure that would obviously privilege storage-heavy
+content like sound and video---grew at a modest 5.4 percent per year. Reading,
+in decline until the advent of the internet, has tripled in the same period.
+Reading in print accounted for 26 percent of verbal information consumed in
+1960. That number fell to 9 percent in 2008, but the consumption of words
+digitally increased to 27 percent of total consumption, which means that
+reading has increased its share of the overall household attention span
+[@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the
+twenty-first century saw a 20 percent increase in library visitation
+[@u.s._institute_of_museum_and_library_services_public_2010]. By a
+conservative estimate, the number of scientific publications grows at about
+4.7 percent per year, which means that the amount of published research
+doubles roughly every 15 years [@archambault_welcome_2005;
+@crespi_empirical_2008; @larsen_rate_2010]. The number of books published in
+the United States nearly tripled from 2005 to 2009. More that 37,000 poetry
+and drama titles were published in the United States between 1993 and 2006
+[@dworkin_seja_2008; @bowker_u.s._2009]. All of the metrics point to an
+unprecedented growth of the literary sphere.  The proliferation of code, also
+read and written by humans, further contributes to the expansion of the
+archive. Code produces text. It is likely that at some point soon the writing
+by machines---like social media bots, spam and automatic news
+generators---will outpace human literary output.[^ln-spam]
+
+Unassisted strategies of interpretation like
+philology or close reading evolved in an environment of received literary
+canons, naturally accessible to the human intellect. In the age of print, a
+well-educated person might have been expected to read some several hundred
+"great books," which made up the "canon." Literary criticism was honed to
+operate on that naturalized scale.
+
+ These
+include distant reading and macroanalysis in literary studies
+[@jockers_macroanalysis_2013; @moretti_distant_2013], culturomics in economy
+[@aiden_uncharted:_2014], e-discovery in law [@scheindlin_electronic_2004;
+@scheindlin_electronic_2009], automatic essay evaluation in education
+[@shermis_handbook_2013], and medical informatics in medicine
+[@shortliffe_biomedical_2013], among others. A shared toolkit lies at the
+foundations of these nascent disciplines. It includes tools like statistical
+natural language processing [@manning_foundations_1999;
+@jurafsky_speech_2008], automatic summarization [@radev_centroid-based_2004;
+@nenkova_pyramid_2007], machine learning [@rasmussen_gaussian_2006;
+@flach_machine_2012], network analysis [@opsahl_node_2010;
+@szell_measuring_2010; @takhteyev_geography_2012], and topic modeling
+[@wallach_topic_2006; @blei_probabilistic_2012].
+
+The engines of search and recommendation rise to answer the needs for more
+efficient filtration of data. Where a librarian or a book reviewer could sift
+through thousands of volumes to distill the ones worth reading or purchasing,
+the algorithmically-augmented search and discovery tool indexes billions.
+Consider the task of finding an unknown (to me) factoid online, about
+philosophy in the times of Andalusian Spain, for example. Where in the past I
+might have started with a library subject catalog, today I construct a search
+query, using resources that I believe contain a reasonably complete archive of
+texts on the subject. The search engine in effect replace (or rather
+complement) centuries-long processes of canon-formation. A near-instantaneous
+list of query results now becomes my ephemeral, but nevertheless
+authoritative, collection of literature relevant to any given topic of
+interest. In this way the search engine supplants the catalog. And the
+recommendation engine, of the kind commonly used by online book stores,
+supplants the function of the book review.[^ln-bookreview] But as Frank
+Pasquale has argued convincingly in his recent book, the problem with such
+complex algorithmically-powered tools is that unlike public library catalogs,
+proprietary search and recommendation engines are not necessarily open to
+interpretation [@pasquale_black_2015]. They are under no obligation to reveal
+their biases or motivations. The search results for "Andalusian Spain" may
+well suppress elements of Muslim history or privilege a historical narrative
+that privileges an English-centric view of the world.
+
+Each text in the returned search results list requires the instrumentation of
+close, analytical interpretation. However, the same discipline of critical and
+reflective deliberation exercised on the level of an individual text needs to
+also be exercised on the level of procedurally generated search engine
+results: Where to search? Using what engine? How to construct the query? What
+are the implicit biases of the system?  Whatever ideals motivate close reading
+between "text" and "work" surely must drive the process on the level of
+dynamic corpus composition. To make them available for scrutiny the
+"macroscopes" themselves need to be taken apart. Thus where distant reading
+perceives patterns across large-scale corpora, computational
+hermeneutics---microanalysis---breaks literary systems down to their minute
+constituent components.
+
+Where distant reading and macroanalysis constitute the study of mediation
+between readers and text aggregates (like canons, corpora, collections,
+libraries, archives, and database) microanalysis examines mediation at the
+level of physical minutiae otherwise not readily observed in cursory
+exploration. The instruments of microanalysis may coincide with computational
+tools, designed to find hidden patterns lurking above or beneath a given
+document.[^ln-iarkho] The micro-instrumentation might also include a
+screwdriver, a binding needle, or a soldering iron: sharp tools that help to
+pry open and to scrutinize otherwise magical textual black boxes. My
+methodology thus lies in the dialectical tension between making known and
+making strange. Each chapter reveals the material realities of symbolic action
+like "closing windows," "bookmarking a page," and "dragging and dropping
+files." Where the metaphor is made strange, the mechanics of the device comes
+into view. The metaphor and the machine help organize the book and each of its
+chapters.
 
 ## "reading" from the perspective of a copy machine
 
@@ -1320,873 +1303,4 @@ the rigidity in cultural categories (epistemology).
 
 
 
-## Labor, Energy
-
-Literature hides the labor of readers and writers. In another sense, there is
-also the concealment of raw, physical energy that "goes into the word." The
-work it takes to get a rock up a mountain gives it potential energy to roll
-back down. By definition, potential energy relates to the possibility of "work
-done." The rock can pull something up the hill as it is falling down, for
-example. What of the energy that went into the writing of these sentences? I
-spent a few *joules* compressing the springs under my keyboard. Many more went
-into my laptop as electric current. Why? To overcome matter's passive impedance
-of advancing change. To preserve and to communicate this message *amperes*, the
-unit of electrical flow, struggled with *ohms*, the unit of electrical
-resistance.
-
-There is energy too in the librarian's effort to archive a book, in the
-churning of a search engine to make it accessible to a reading public, and in
-the work of a truck driver who ferries information by road. The sum of these
-energies, which seem significant now in their accumulation, went into the
-writing of these words. Much of it dissipated as heat and light. And some of
-it---just a small part---left an imprint somewhere. It left a trace of ink on a
-page, magnetized a piece of tape, or shifted the configuration of the floating
-gate buried within the solid state drive. Finally, the potential energy
-remaining within the word began a chain of electrical reactions in the reader's
-brain. The mental effort or reading and writing amounts to "knowledge
-work."[@liu_laws_2004] Ultimately, writing serves to connect the electrical
-circuitry of at least two neurological systems. Reading leaves the brain in a
-different state than before. Writing, in this light, involves the transmission
-of neural activity between hosts. When considered as a physical process,
-literature is a type of electroencephalography (EEG), or electric head writing.
-
-![The place of linguistic structure among "the facts of language". Saussure's communication circuit [@saussure_course_1986, 11].](images/saussure.jpg)
-
-Ferdinand de Saussure's paradigmatic circuit model of communication (pictured
-here) follows from head to head. In *Plain Text*, I will complicate that
-picture by tracing the passage of thought further from *inscription* to a
-*device*. At each stage of the passage, we will observe the process of encoding
-and decoding, by which one type of substance---a thought---is converted into
-another type: a word or the oscillation of an electrical current. I will
-present here a type of a materialist reading practice, which pays attention to
-the physical properties of the communication act. I will give that practice a
-name---microanalysis---and a purpose: to uncover the energy gained or lost in
-the transformation from code to code and from medium to medium.
-
-I am concerned with energy because too often our foundational models of reading
-and interpretation take the text as a fixed given. Even in our most
-destabilizing readings, like Jacques Derrida's "Plato's Pharmacy", the
-materiality of the text is assumed to persevere. "We will take off here from
-the *Phaedrus*," Derrida writes [@derrida_dissemination_1981, 66]. "The reader
-can count the lines" at the "precisely calculated center of the dialogue"
-[@derrida_dissemination_1981, 67]. Plato's dialog has for Derrida a definite
-beginning, middle, and end. Derrida asks the reader "to return to the text,"
-even when the text "remains forever imperceptible"
-[@derrida_dissemination_1981, 63 & 95].[^ln1-translate] When Derrida talks in
-this usual way of a literary scholar, he uses the word "text" in two distinct
-ways: one, as an abstract mental construct---the one that is "forever
-imperceptible," and the physical one, which has a definite and stable
-topography---the one to which we return with confidence.
-
-In the vision of post-structural poetics, the text in the abstract resembles
-the quicksand of unstable signifies. In other words, one can define a word only
-in relation to other words. In this way, Derrida describes texts as
-"dissimulation of the woven texture," "a web that envelops a web," and "an
-organism, indefinitely regenerating its own tissue behind the cutting trace,
-the decision of each reading" [@derrida_dissemination_1981, 63]. In *Plain
-Text*, I want to further challenge the stability of the text as a physical
-artifact. The literary device reconfigures the text dynamically in the process
-of reading. Because the text is no longer fixed into a stable medium, we must
-do away with page numbers, for example. Pagination changes according to the
-size of the device. More intrusively, the reader cannot rely on finding the
-same text upon return. The writer, the book seller, or the censor have the
-technological capacity to alter the text in real time, even as the book rests
-in hand or on a shelf.
-
-
-IBM Format
-
-By 1932 the ITU documents list two new standards, International Telegraphic
-Alphabet No. 1 (ITA-1) and International Telegraphic Alphabet No. 2 (ITA-2).
-The ITA formats, like the Baudot, represented latin characthers in a system of
-fixed-lenght "bit" codes, For example, in ITA-1 the letter "A" and the number
-"1" are both represented by `-++++`; "X" and "," by `+-++-`, and the "error"
-code by `+++--` [@itu_telegraph_1932, 34]. Because the devices are not
-synchronized, the pause between each transmitted character can vary in length.
-For this reason ITA-2 includes two extra bits for indicating "start" and stop"
-elements. The letter "A" and a hyphen in ITA-2 would be encoded as `0110001`,
-where ones and zeros represent the absence and the presence of
-current[@itu_telegraph_1932, 36].
-
-By the 1960, multiple competing character encodings existed in the United
-States and globally.
-
-ASCII.
-Plain text in Unix. Human readability. TROFF.
-
-Further separation. On benefits of computer-aided document preparation. "The
-style or format of the document can be decoupled from its content; the only
-format control information that need be embedded is that describing textual
-categories and boundaries, such as titles, section headings, paragraphs, and
-the like [@kernighan_unix_1978, 2116]
-
-Plain and fancy Text Unix system. What you see is not what you get. What is
-plain text. Unix ideas of plain text. ASCII. From form and content to content,
-semantic markup, and typesetting. Semantic markup as part of the
-extra-linguistic meaning making.
-
-http://www.unicode.org/reports/tr29/ The concept of Grapheme Clusters.
-
-Semantic markup is interesting because it contains both material and ideal. The
-way textuality is encoded mediates between idea and matter. Mediation. Visible
-form and hidden form.
-
-The theory of preaching. Lectures on homiletics (1892). Plain text vs. obscure
-text.o
-
-John Charles Ryle
-Expository Thoughts on the Gospels: For Family and Private Use. With the ...
-
-"One plain text is worth a thousand arguments."
-
-Words: Their Use and Abuse
-Say plain things in a plain way.
-
-Time and truth reconciling the moral and religious world to Shakespeare: the
- By B. S. Naylor
-"Thus it is, that the plain text, the obvious meaning, of Shakespeare, is
-dostorted by Commentators and beclouded by Illustrators" (p64)
-
-"One plain text is worth a thousand"
-
-Signal Book, United States Army: 1916
-
 ## Arendt, Fanon, Tosaka Jun
-### 5.3 Fanon + arendt
-
-### 5.4 Freedom of Information
-
-Engelbart's lab adopted a conspicuously recursive methodology they called
-"bootstrapping," by which research into creating better research was done by
-enabling research [@engelbart_research_1968, 395]. Elsewhere, Engelbart
-explains bootstrapping "as a process wherein the results of a given effort are
-fed back into the activity in a reinforcing way, so that less internal energy
-is required to achieve bigger results faster." In that light, the production of
-the technical report quoted here was not an activity incidental and secondary
-to research, but was the stated object of research itself.
-
-"A short computer program that is permanently resident or easily loaded into a
-computer and whose execution brings a larger program, such as an operating
-system or its loader, into memory" [@ieee_ieee_1990, 13].
-
-"the techniques being explored are implemented, studies, and evaluated with the
-advantage of intensive everyday use" [@engelbart_augmented_1973, 12].  Much
-later, in the 1990s, Engelbar
-
-"They must bootstrap themselves into a new kind of ``think,'' into a new climate
-of man-machine interaction, in which men evolve intelligent machines and
-intelligent machines evolve men" [@brodey_human_1967, 86].
-
-Engelbart borrows the idea of "bootstrapping" from . The
-animation of inorganic matter
-
-the material g
-
-Warren Brodey Human Enhancement
-
-Start with the clock manifesto.
-
-CONTOROL SECURITY FREEDOM
-Freedom security consistency (Furby). Control. Freedom.
-
-"To a book collector, you see, the true freedom of all books is somewhere on his
-shelves" [@benjamin_unpacking_1968, 64].
-
-Lita Furby, who wrote one of the earliest definitive literature reviews on the
-subject in the 1970s, traces the origins of object-affect fusion to William
-James. In the *Principles of Psychology* James writes about what he calls the
-"empirical self," which comprises the unity of all that could be called me:
-
-Attributes ideas of autonomous technology to a Thomas, Carlyle, Charles
-Dickens, Ralph Waldo Emerson, Nathaniel Hawthorne, Henry Thoreau, mark Twain,
-Henry Adams, John Ruskin, William Morris, E. E. Cummings, George Orwell, Marcel
-Duchamp, and Kurt Vonnegut.
-
-"In one definition or another autonomous technology is now a significant
-transdisciplinary hypothesis in the natural and social sciences, the arts,
-journalism, and even the technical specialties themselves. But how can this
-be" [@winner, 19].
-
-Faustian spirit. Striving for control. "The proof of science is technology"
-[@winner, 25]. What can you actually do?
-
-Skepticism about technological agency in the face of "unintended" or "emergent"
-side effects of complex systems. If fracking for natural gas contributes to the
-increase of earthquakes, that does not mean that fracking somehow "has a mind"
-to destroy humanity by earthquakes.
-
-Hypomnesis. Galloway interface p. 16. Foucault.
-
-Winner has it as noncomprehensibility instead of autonamism.
-
-
-Cleartext in encryption. The Circle. PARITY of encryption.
-http://www.washingtonpost.com/blogs/the-switch/wp/2015/06/04/fbi-official-companies-should-help-us-prevent-encryption-above-all-else/
-
-The debate over encryption erupted on Capitol Hill again Wednesday, with an FBI
-official testifying that law enforcement's challenge is working with tech
-companies "to build technological solutions to prevent encryption above all
-else."
-
-Ethics and Aesthetics
-
-James: the aesthetic function is one of negation. To create art is to sculpt
-reality. Ethics is similar choice making [@james, 289].
-
-Automonous technology. Exploring all possibilities at once. Must negate some.
-That is ethics. James calls this the highest form: making choices. Where do
-these choices come from? What guides development?
-
-Humanism. Agency, delibiration, consensus, dissent.
-
-
-for Dissent Agency. Deliberation. Consensus. Dissent. Dissent is the least
-developed of these. Engineering for dissent. The ability to create shared goals
-and to exit. engagement with shared project. The subject of my next book. 
-
-Metaphysical Dread about Computation Brian Lennon and Golumbia. The argument
-basically boils down to the cultural logic of computation being complicit in
-the military industrial complex. That complicity manifests itself in a shared
-set of tools. By that logic: the we should also condemn the libraries' efforts
-to help up archive and store information. Condemn the poets for using metaphors
-because these are also used in advertising. Something perverse about that: it
-is as if we would worry about knowledge because knowledge is used for
-mechanisms of control.
-
-Deeper metaphysical dread about computation, that should be understood
-historically (where Lennon gets it right). You are not a gadget.
-
-phttp://www.ernestooroza.com/
-Technological Disobedience
-
-Creating SPACE. Physical space.
-
-Yet, to make the subjective experience strange again is to look at it through
-the eyes of a stranger. Makhail Bakhtin writes (in what I think is a previously
-untranslated passage):
-
-> It is not I who looks out from the inside, but I look at myself with the eyes
-of the world, strange eyes; I am possessed by another. There is no integrity of
-internal and external here. To glimpse my own preocular image. The naive
-confluence of self and the other in the mirror image. The surplus of the other.
-There is no point of view outside of myself; I cannot access my own internal
-image. From my eyes stare a stranger's eyes [@"The Man by the Mirror," Mikhail
-Bakhtin]
-
-[^ln7-bakhtin]: I reproduce the passage here it its entirety: "Falsehood and
-deception, unavoidably peering out of their own correlation. The external image
-of thought, feeling, the external image of the soul. It is not I who looks out
-from the inside, but I look at myself with the eyes of the world, strange eyes;
-I am possessed by another. There is no integrity of internal and external here.
-To glimpse my own preocular image. The naive confluence of self and the other
-in the mirror image. The surplus of the other. There is no point of view
-outside of myself; I cannot access my own internal image. From my eyes stare a
-stranger's eyes." 
-
-> The study, conducted by Lily Tsai, an associate professor of political science
-at MIT, suggests that citizens who do not follow all the laws are engaging in
-“constructive noncompliance” — acts that are intended to prompt the government
-to alter its policies, without necessarily challenging its overall status.  
-http://newsoffice.mit.edu/2015/citizens-disobey-enact-change-0519
-
-### 6.2 Cryptography and Steganography Legibility
-
-Ethics of legibility.
-
-Hobbes on secret knowledge (p43-44!)
-
-Where cryptography is the art of secret communication, steganography is the art
-of hiding the secret. "The purpose of steganography is to hide the very
-presence of communication by embedding messages into innocuous-looking objects,
-such as digital images," Jessica Fridrich and her colleagues write for the
-proceedings of the Society of Photographic Instrumentation Engineers,
-appropriately shortened to SPIE [@fridrich_searching_2004].
-
-The real danger comes not from a metaphysical source, but from the superficial
-similarity of print and pixel. Where the pen or the typewriter inscribe the
-image directly into their paper medium, digital type passes through a series of
-transformations between the keystroke and its corresponding pulse of the
-cathode ray, or in the flow of liquid crystal. Secrecy and surveillance
-technologies that rightly worry Kittler exist in the gap between text as medium
-and text as content. They threaten literature (the something to be said) only
-in so far as the mechanisms of literary production (how it is said) remain
-hidden from the critical view. When the veil is lifted, we can begin to reclaim
-the passage of textuality. In this process, technology remains a relatively
-neutral conduit, enabling liberation and oppression alike. The physical control
-of expression cannot and should not be reduced to something as seemingly
-self-contingent as "the conditions of high technology." Systems of control
-naturally obscure the pathways of agency. Letting go of agency as a critical
-concept plays into the hand of those (human agents) that benefit directly from
-the illusion of disempowerment. I view "control" in that sense not as an
-ideology, but as the ability to physically alter the material conditions of
-literary production, dissemination, and consumption. The transition from
-mechanical typewriter to electrical word processor precisely couples code as
-content and code as control.  
-
-### 7.1 ITU
-
-Related to secrecy.  Encrypted literature. Revealment and dissimulation. Notions of textuality as
-embroiled in contemporary ideas of privacy, secrecy, and transparency.
-Computation does not necessarily work for the military-industrial apparatus (as
-argued by Golumbia, Lennon, and McPherson).  Recovering and preserving
-textuality in computing.
-
-Brooks Act 1965.  Man in the middle attacks.
-
-Alice, Bob, Caryl.
-http://www.computerworld.com/article/2838775/why-google-wants-to-replace-gmail.html
-Communication theory of secrecy systems, shannon
-
-Zimmermann responded by publishing the source code as a book, an act that was
-constitutionally protected as free speech. 
-
-Plain text + fleas from the Unix book should go here.
-
-### 3.6 Smart Contracts (A Legal Interlude)
-
-Exposing the Document Object Model that governs the production of text through
-contemporary reading and writing devices gives the question of surface and
-depth yet another connotation. What lies beneath the text? We are accustomed to
-thinking about document structure metaphorically and answer in accord: meaning,
-narrative, representation, order, discourse, or ideology. Interpretation, at
-that level of analysis, happens in the head, which physically limits the
-possibility of depth to personal introspection, magnetic resonance imaging, or,
-at best, to an archive of extant reader responses (which in themselves need
-further interpretation).
-
-Introducing the literary device as machine, gadget, or appliance into the
-formula suggests another, more literal answer. Beneath a text one finds cloth
-and wood pulp and, increasingly, also glass, plastic, liquid crystal, copper,
-laminates, and silicone.
-
-The move between paper and composite device carries with it a profound shift in
-the physical affordances of the deep structure supporting all subsequent,
-higher-order, surface-level representations of textuality. Not much space
-separates ink from paper. There, textuality lies flat, in two dimensions. What
-you see is truly what you get. Not so on the screen connected to other screens.
-Networked and time-shared textuality extends into the third dimension, away
-from the reader and deep into the bowels of the machine. The Open Systems
-Interconnection (OSI) reference model of communication[^ln3-osi] describes no
-less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
-electrical, functional, and procedural characteristics" of communication
-[@ncs_open_1981; @ncs_national_1988; @day_revised_1995].[^ln3-layers] These
-protocols further envelop a document already thickly stratified by the
-Document Object Model.[^ln3-domlayer]
-
-[^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
-model.
-
-![A zoomed out view of the connected OSI model. Single node structure on the
-left. Connected devices on the right. The user has access through the top-most
-(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
-114-15].](images/osi.png)
-
-These are the same layers that Alexander Galloway unites in a system of what he
-calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
-It is distributed to be sure, although to what extent decentralized is a matter
-of some debate. Like a good soldier, each device in the pictured network
-internalizes dozens if not hundreds of protocols that enable the system to
-function seamlessly as a whole (in the way, for example, that your machine can
-at one moment connect to one wireless access point, and at another moment to
-another, with minimal loss of connectivity). Yet, OSI protocols and the DOM are
-also densely consolidated. They are, for example, legislated by specific
-international governing bodies[^ln3-w3c], susceptible to the usual political
-pitfalls of pan-global consortia.
-
-Once bifurcated between storage and screen, the inscription travels along a
-"pipeline" of protocols, undergoing a set of arbitrary transformations
-throughout. On one device, that pipeline may extend just a few inches,
-connecting disk storage and output display. On a network device that pipeline
-can stretch across continents, spanning widely divergent regions of legal and
-administrative control. The book you are reading here may be stored in another
-state or country. Whatever the case may be, the subject encounters the
-"protocol stack" from without, on the periphery of the onion-like network. When
-paging through an electronic book (usually an OSI-compliant device displaying
-DOM-structured files), for example, the reader has access only to the outputs
-emanating from the application layer, and, at that, only at the exposed
-"window" level of the DOM. The perceived "content" constitutes a small fraction
-of the underlying "formal" topology. What you see is far less than what you
-get.
-
-[^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
-the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
-Web Consortium (W3C) in the case of the DOM.
-
-The application layer stops at the subject. Access to the layers intrinsic to
-device operation (and consequently to analysis) are sometimes "merely" obscured
-and sometimes made illicit outright, as is arguably the case with U.S. Code,
-Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
-systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
-1998. A literary scholar may be familiar with some provisions of American
-copyright law governing text as surface representation: US Code, Title 17
-extends "exclusive rights" to "copyright owners" of "literary works." The
-rights include the ability to "reproduce," "to prepare derivative works," "to
-distribute copies," and "to perform and to display publicly" (17.1.106).
-Surface representation is further subject to professional rules of conduct,
-embodied in practices of quotation, citation, and attribution (or lack thereof,
-as plagiarism).
-
-In practice, the easy reproducibility of digital text (and image) has served to
-erode the efficacy of copyright restrictions as a system of laws and
-regulations. The work of art in the age of digital reproduction has lost much
-of its already tenuous hold on the material substratum.[^ln3-illusion] Copy
-technologies from photocopiers, to desktop printers, to cheap magnetic storage
-and peer-to-peer file sharing networks reduce the price of copying and
-dissemination to near frictionless levels. The response from the film, game,
-music, and publishing industries has been to transpose mechanisms of copyright
-enforcement from legal down to the infrastructural levels of enforcement, as
-software and hardware: from Code to code. In the words of Charles Clark, the
-late British publisher and prominent copyright attorney, "the answer to the
-machine is in the machine [@clark_copyright_1996, 81-82]"---by which he meant
-that copyright enforcement should be taken up on the device level by the
-International Standards Organization, the very body responsible for the DOM and
-the OSI communication protocol stack [@clark_copyright_1996, 84].
-
-As an example of how that might work, Clark cites the Copyright in Transmitted
-Electronic Data Report (CITED), which suggests building "a tamper proof
-software module which acts rather like indestructible tachometers installed on
-long-distance coaches and lorries, recording everything that happens to the
-copyrighted or commercially valuable material [...] The basic idea is to link
-the 'valuable material' of intellectual property to a specific piece of
-software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84].
-
-The emergence of embedded contractual enforcement at the level of the device
-can be subsumed under the broader idea of "smart contracts." In his seminal
-article on "Formalizing and Securing Relationships in Public Networks," Nick
-Szabo explains that "smart contracts combine protocols, user interfaces, and
-promises expressed via those interfaces to formalize and secure relationships
-over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo were
-instrumental in the rise of smart contracts in the 1990s in an attempt to
-redress the fading efficacy of legal copyright protections.[^ln3-smart] "Method
-and System for Managing a Data Object so as to Comply with Predetermined
-Conditions for Usage" (US5845281, issued in 1998) can be instructive in this
-regard. Greg Benson and Gregory H. Urich, both of Sweden, write:
-
-> The data object owner may want to have permanent secure control over how,
-when, where, and by whom his property is used. Furthermore, he may want to
-define different rules of engagement for different types of users and different
-type of security depending on the value of particular objects. The rules
-defined by him shall govern the automated operations enabled by data services
-and networking. The owner may also sell composite objects with different rules
-governing each constituent objects. Thus, it is necessary to be able to
-implement variable and extensible control.
-
-The data object, in this case, stands for any media content, from books to
-music, video, and software. Rather then legislating rules for copying and
-distributing media, the inventors suggest that the medium itself should contain
-a control layer that would "comply with predetermined conditions of usage," in
-a way that can be "universally adapted to the needs of both the owner and the
-user of the data object" [@benson_method_1998, 2:55].
-
-!["Concatenated control data and AVI file in memory" [@benson_method_1998].](images/avi-control.png)
-
-!["Concatenated and encrypted control data and AVI file in memory"
-[@benson_method_1998].](images/avi-control2.png)
-
-The associated schematics (pictured here) show data and control codes
-"concatenated" into the same underlying data structure (in this case, AVI media
-container format). The seemingly innocuous "text control" layer of the 1960s,
-used to specify formatting and visual style, was now extended to carry
-mechanisms for legal control, tied to specific legislation.
-
-The idea of smart contracts contains a notable artifact of implementation,
-relevant to our discussion on surface reading. To the extent that control codes
-are legible to the interpreter, they are also open to "abuse and
-circumvention." For this reason, encryption plays a key part in the smart
-contracts system. Once intertwined, data and control must be encrypted to
-prevent "unauthorized access." This brings us to the glaring problem at the
-very heart of smart contract implementation. The spirit of contractual law by
-its very nature demands *explicit* consent. In the language of English common
-law, contracts involve promises as "manifestation of intention," which "adopt
-an external or objective standard for interpreting conduct
-[@american_law_institute_restatement_1973, §1-2.]" The key words in this
-passage are "external," "objective," and "interpretation."
-
-By contrast, smart contracts, as described in the patent archive, must rely on
-encrypted---that is, not human-legible---forms of tacit compliance: neither
-external, objective, nor available for interpretation. The idea of encrypted
-consent stands in stark opposition to a tradition of contract law that relies
-on models of consent that involve expressed, mutual, explicit, and uncoerced
-forms of acquiescence. Even if smart contracts were to be accompanied by
-legible documentation (as Terms of Service, for example), the device user would
-be compelled to blindly trust in the correspondence between the expressed
-letter and the implicit mechanism of the document---the implementation still
-enacted beyond scrutiny, as hidden, encrypted, and purposefully illegible
-script.
-
-Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
-person shall circumvent a technological measure that effectively controls
-access to a work protected under this title (17.1201.a.1.A)." The letter of the
-law further specifies that to "circumvent a technological measure," in this
-case, means "to descramble a scrambled work, to decrypt an encrypted work, or
-otherwise to avoid, bypass, remove, deactivate, or impair a technological
-measure, without the authority of the copyright owner (17.1201.a.3.A)." A
-technological measure that "effectively controls access" is further defined as
-a measure that "in the ordinary course of its operation, requires the
-application of information, or a process or a treatment, with the authority of
-the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
-literary scholar, that means that, when encountering a text on a digital
-device, reading sometimes *must* limit itself to surface phenomena. An attempt
-at reading for depth---to discover the implemented terms of a smart contract,
-for example---may carry with it a set of official (even criminal)
-sanctions.[^ln3-fairuse]
-
-The short history of DMCA "anti-circumvention" provisions is already littered
-with ambiguous case law, that the Electronic Frontiers Foundation believes to
-have the effect of "stifling a wide range of legitimate activities," "chilling
-free expression and academic research," "jeopardizing fair use," and "impeding
-innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
-particularly relevant to the study of texts and literature. One, a security
-researcher exploring the activity of censorship filters on public library
-computers was threatened and forced to seek DMCA exemption from the Librarian
-of Congress [@fry_circumventing_2009]. Two, a Russian programmer speaking at a
-security conference was jailed and detained for several months for developing
-software that converts Adobe electronic book files into `.pdf` format, in a
-process that could potentially remove embedded digital rights management
-protections [@ferullo_major_2004; @mueller_reinventing_2004;
-@postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
-Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
-which allowed users to "change text annotations using Plaintiff's TrueType
-fonts" without a license [@_agfa_2005; @lipton_c_2009; @von_lohmann_unintended_2010]. If they become precedent, any of these cases could conceivably
-be used to physically limit the efficacy of reading, close and distant.
-
-[^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
-which may, under some interpretations, sanction limited use for academic
-purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
-@armstrong_digital_2006.
-
-The impact of DMCA and smart contracts on the practices of reading, writing, and
-literary analysis is potentially immense. In the language of the DMCA, the
-electronic book is not a book at all, but a "data object," in which the modest
-copyright symbol gives way to "control layers [@fischer_digital_2003]." An
-essay in the *Yale Journal of Law & Technology* explains it this way:
-
-> While e-books and their print counterparts embody essentially identical
-> content, from a transactional standpoint they differ considerably. Books are
-> tangible goods that can be owned, sold, and passed on without express
-> limitation--the Uniform Commercial Code (U.C.C.) governs their sale, while
-> copyright law protects their content. But despite appearances, Kindle e-books
-> are not, according to Amazon, sold at all: they are distributed under
-> restrictive license terms, similar to downloaded software
-[@seringhaus_e-book_2010, 150].
-
-In these conditions, something like a poem or a novel must relinquish its claim
-on the universal concrete. In doing that, it ceases to be literature and
-becomes instead a device, firmly tied to its given physical affordances.
-Reified as a concrete object, no longer lasting and universal, but rather
-ephemeral and contingent, it is subject to the whims of the market. The device
-now gains the ability to dynamically adapt itself "to the needs of both the
-owner and the user." These adaptations could of course take a benign form, of
-the kind suggested in "*Remix: Literatur*," where Michel Chaouli imagines a
-device akin to a "literature equalizer," empowering readers to "tune" any given
-text to their liking [@chaouli_remix_2009]. Don't really like intensifiers?
-Just turn the "adverb knob" down! I hold on to the possibility of building such
-a device with Chaouli. In the meantime, existing electronic book software and
-hardware devices adapt themselves to the reader in less creative ways. Some
-prevent simple copy and paste actions. Others can be used to censor and
-surveil. For a textual critic, such instability of medium means analysis cannot
-be confined to reading for surface meaning alone. How can close or distant
-reading practices persist, when the reading device reconfigures a text
-dynamically, to fit individual taste, mood, or politics?[^ln3-modern] Or, when
-it simply prevents access to some of the content?
-
-[^ln3-modern]: Note that these effects are not limited to contemporary
-literature at all. In purchasing a medieval text, the reader still buys not a
-text or a work but a device, which, despite the content being out of copyright
-protection, may still restrict access to other, protected layers of device
-function.
-
-Smart contracts and DMCA are a conspicuous symptom ailing all text gadgets,
-which offer only the illusion of flat textuality. Where a literary scholar
-could hope to gleam the machinations of ideology from surface representation in
-print, the literary device obscures literal flows of governance. Isomorphic
-application design makes the situation worse in giving a measure of similarity
-between page and screen (the definition of isomorphism), obscuring material
-divergence beneath. The condition is not one of ephemeral, immaterial text, but
-one of text burdened with hardware and illegible control structure. The task of
-the critic becomes then to restore text to its proper mode of being in the
-concrete universal: to give it permanence in the world of ideas and to free it
-from its arbitrary material constraint. To lay bare the device literally would
-mean to make the mechanisms of naked political control visible. For any sort of
-reading to commence, one would first need to peel away the DOMs and the
-OSIs---today a task fraught with legal consequence.
-
-## Speculative Formalism
-
-In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
-Halstead noted that "the practical upper limits of speed will also be limited
-by the ability of some human beings to operate a keyboard, until such time as
-electrical connection be made direct with the receiver's central nervous
-system" [@halstead_genesis_1949, 451].
-
-Speculative formalism involves imagining structures on the cusp of being. The 
-
-The second and more radical idea related to non-representational elements of
-communication lies in the possibility of "direct" brain-to-brain interfaces.
-F16. Joystick that feels. The electrical system we saw emerge in chapters one
-and two can be wired directly in the central nervous system. Not science
-fiction. But note that communication is only direct in the sense that the
-sender and the receiver of such a message do not have recourse to external
-representation. Yet, such communication would still be subject to conditions we
-have already explored in the telegraph chapter. Something has to mediate: to
-translate between brain impulses and the transmission apparatus. Such "direct"
-communication would therefore still be mediated. Can literature survive non
-representation. I want to imagine.
-
-Essential for the practices of unencumbered critical thought, control
-structures exist in the gaps within the splintered sign. Ultimately, parts of
-the inscription that remain invisible affect more than typesetting
-characteristics. They shape the very structure of interpretation. The
-seemingly innocuous control and formatting layer contains the essence of
-machine control. Long a marginal concept in literary theory, formatting is
-therefore central to the practice of computational hermeneutics. Far from
-mere inconsequential embellishment, formatting governs the interface between
-meaning and matter, thought and page. It has the capability to embellish, to
-obscure, to censor, to govern, and to emend.
-
-The attached documents illustrate my thesis in practice. In the first image
-the reader will find a visual "dotplot" representation of Laurence Sterne's
-*The Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file
-format. To produce the image, I use the Helfman's self-similarity dotplot
-approach. Dotplots, as Helfman explains, "reveal similarity structures in data
-regardless of format and in text and software regardless of language"
-[@helfman_dotplot_1996]. They can be used for authorship identification,
-plagiarism detection, or to find similarity in genetic material. The
-following, is a simple dotplot from Shakespeare:
-
-+----+---+---+---+----+---+---+
-|    |to |be |or |not |to |be |
-+====+===+===+===+====+===+===+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-|or  |   |   | • |    |   |   |
-+----+---+---+---+----+---+---+
-|not |   |   |   | •  |   |   |
-+----+---+---+---+----+---+---+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-
-Table: "Six words of Shakespeare." @helfman_dotplot_1996
-
-When applied to raw, binary data, self-similarity plots can be used to study
-data structures, to identify security threats, and to reverse engineer unknown
-file types. Note that, at this level, we are not observing patterns of meaning
-(as repetition of words or word clusters), but rather structural patterns in
-the underlying bit structure. We cannot tell from the image what these
-structures mean, only that they have a particular shape. Structure, in this
-sense, indicates architecture by human hand. We expect random data to render
-into undifferentiated patternless noise. By contrast, file formats, like the
-common `.docx` and `.mobi` files, will leave a recognizable signature, even
-when corrupted. The sparse topography of the `.txt` file in the first image
-indicates a relative paucity in bit types.  Plain text formats are limited to
-human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
-file). The square on the lower right likely represents lower case letters,
-with the other two squares showing capitals and punctuation.
-
-The second image (Fig. 12) shows the same novel encoded into the popular
-Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
-device, for example. While the plain text signature is still present, other
-structures now also come into view. These are not human-legible under closer
-examination (using a hex-editor for example) because the data is encrypted. The
-plain text characters remaining comprise snippets of code, and some light
-header and footer information, identifying the file to reader applications.
-
-To produce the third image (Fig. 13), I encode the plain text version of the
-novel into the Portable Document Format (`.pdf`), another commonly circulated
-binary format for document storage. In an additional step, I use code injection
-techniques outlined in @rahman_getting_2010, @stevens_malicious_2011, and
-@maiorca_looking_2013 to introduce a malicious script into the header of the
-file. Depending on the version of the reader's Adobe Acrobat Reader, the code
-will execute when opening the document, with the potential of causing
-significant corruption to the system. The injection is clearly visible in the
-image, manifesting as a "cavity" of un-encrypted characters. Steps
-could be taken to further mask the malicious script, blending it with the
-background encrypted bit structure (shown as speckled noise), which would make
-the injection more difficult to detect.
-
-!["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt` format.
-Unaltered.](images/txt.png)
-
-!["Binary file structure II." Laurence Sterne's *Tristram Shandy*, in `.mobi` format.
-Unaltered.](images/mobi.png)
-
-!["Binary file structure III." Malicious code injection into the text of Laurence
-Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating presence of
-injected code.](images/pdf.png)
-
-In conclusion, I do not mean to imply that the "closest possible" reading of
-this sort, at the circuit and magnetic storage level, will somehow come to
-supplement reading at the surface for meaning and representation. Microanalysis
-is meant to complement close reading: giving it proper scope in time and space
-for its operation. But reading at the surface alone also risks losing sight of
-the naked struggle for power and control at the device level. The machine *can*
-determine the message when unchecked. In these conditions, reading without
-depth may struggle to even locate its object of study, as surface
-representations change dynamically, tailoring themselves to fit the reader's
-mood, to match the environment, or to please some remote censor. Best, Marcus,
-and Sontag are right in treating claims to symptomatic reading with suspicion,
-as claims to power. The reader of depth divines secret knowledge, with or
-without merit, creating an imbalance of interpretation. Critical reading in all
-dimensions must therefore begin with the ethics of mutual legibility. It
-succeeds when readers reclaim the underlying material conditions of their
-meaning making. The very architects of the "smart" literary device tell us: the
-answer to the machine remains in the machine.
-
-<!-- notes -->
-<!-- notes -->
-<!-- notes -->
-
-## 0.7 Scale
-
-Technological systems that give rise to complex social phenomena, from market
-trading to literary canon formation, defy holistic comprehension. Writing in
-1977, Langdon Winner warned the scholar of science and technology to stay away
-from those "mystics" and "crackpots" who offer visions of a new and totalizing
-synthesis. Quoting the French poet and philosopher Paul Valéry, he wrote that
-"our means of investigation and action have far outstripped our means of
-representation and understanding" [@valery_collected_1962, 69;
-@winner_autonomous_1978, 290]. "Citizens of the modern age in this respect are
-less fortunate than children," he wrote. Children graduate from ignorance to
-understanding. Adults however never escape a "fundamental bewilderment in the
-face of the complex world that their senses report." Winners work anticipates
-the exponential growth in complexity of computing systems that surround us
-today. The Unix operating system announced on the pages of the Proceedings of
-the fourth ACM symposium on Operating systems in 1972 comprised roughly 10,000
-lines of code, or roughly the equivalent of three of Shakespeare's plays
-[@ritchie_unix_1973; @ritchie_unix_1974; @mccandless_million_2015]. By
-contrast, the code that runs *Google* comprises more than 2 billion lines of
-code, or roughly 700 million *Hamlets*.[^ln-twobil]
-
-The growth of the literary sphere has mirrored the rapid proliferation of
-code. On an average day in 2008, at home, an average American read around
-100,000 words [@bohn_how_2009]. At 250 words per page, that amounts to reading
-around 402 printed pages or roughly a novel like Emily Bronte's *Wuthering
-Heights* per day. Pointing to the sheer impossibility of processing the amount
-of published information in nineteenth let alone the twenty-first century, the
-American poet and critic Craig Dworkin urged his peers to abandon the dream of
-comprehensive knowledge of the literary sphere altogether
-[@dworkin_seja_2008]. But does this mean we should stop trying to read or
-compose literary histories?
-
-We have two viable options, as I see it. The first is to scale up. The various
-practices of distant reading arise from the condition in which canons are no
-longer accessible, in their entirety, to the unaided (natural) human
-intellect. The second options is to scale down. Thus where distant reading
-perceives patterns across large-scale corpora, computational
-hermeneutics---microanalysis---breaks literary systems down to their minute
-constituent components. The best we can do in the face of complexity, Winner
-advises, "is to master a few things in the immediate environment"
-[@winner_autonomous_1978, 286]. Microanalysis aims to create localized pockets
-of clarity from which further critique and exploration can advance.
-
-To understand something small about the physical realities of "turning"
-virtual "pages" is to create a space capable of supporting a measure of
-agency, desire, or dissent.[^ln-dissent]
-
-, Microanalysis creating pockets of clarity from
-which further critique and exploration can advance. 
-
-Between the years of 1980 and 2008, the consumption of
-information in bytes---a measure that would obviously privilege storage-heavy
-content like sound and video---grew at a modest 5.4 percent per year. Reading,
-in decline until the advent of the internet, has tripled in the same period.
-Reading in print accounted for 26 percent of verbal information consumed in
-1960. That number fell to 9 percent in 2008, but the consumption of words
-digitally increased to 27 percent of total consumption, which means that
-reading has increased its share of the overall household attention span
-[@hilbert_worlds_2011; @hilbert_info_2012]. The first decade of the
-twenty-first century saw a 20 percent increase in library visitation
-[@u.s._institute_of_museum_and_library_services_public_2010]. By a
-conservative estimate, the number of scientific publications grows at about
-4.7 percent per year, which means that the amount of published research
-doubles roughly every 15 years [@archambault_welcome_2005;
-@crespi_empirical_2008; @larsen_rate_2010]. The number of books published in
-the United States nearly tripled from 2005 to 2009. More that 37,000 poetry
-and drama titles were published in the United States between 1993 and 2006
-[@dworkin_seja_2008; @bowker_u.s._2009]. All of the metrics point to an
-unprecedented growth of the literary sphere.  The proliferation of code, also
-read and written by humans, further contributes to the expansion of the
-archive. Code produces text. It is likely that at some point soon the writing
-by machines---like social media bots, spam and automatic news
-generators---will outpace human literary output.[^ln-spam]
-
-Unassisted strategies of interpretation like
-philology or close reading evolved in an environment of received literary
-canons, naturally accessible to the human intellect. In the age of print, a
-well-educated person might have been expected to read some several hundred
-"great books," which made up the "canon." Literary criticism was honed to
-operate on that naturalized scale.
-
- These
-include distant reading and macroanalysis in literary studies
-[@jockers_macroanalysis_2013; @moretti_distant_2013], culturomics in economy
-[@aiden_uncharted:_2014], e-discovery in law [@scheindlin_electronic_2004;
-@scheindlin_electronic_2009], automatic essay evaluation in education
-[@shermis_handbook_2013], and medical informatics in medicine
-[@shortliffe_biomedical_2013], among others. A shared toolkit lies at the
-foundations of these nascent disciplines. It includes tools like statistical
-natural language processing [@manning_foundations_1999;
-@jurafsky_speech_2008], automatic summarization [@radev_centroid-based_2004;
-@nenkova_pyramid_2007], machine learning [@rasmussen_gaussian_2006;
-@flach_machine_2012], network analysis [@opsahl_node_2010;
-@szell_measuring_2010; @takhteyev_geography_2012], and topic modeling
-[@wallach_topic_2006; @blei_probabilistic_2012].
-
-The engines of search and recommendation rise to answer the needs for more
-efficient filtration of data. Where a librarian or a book reviewer could sift
-through thousands of volumes to distill the ones worth reading or purchasing,
-the algorithmically-augmented search and discovery tool indexes billions.
-Consider the task of finding an unknown (to me) factoid online, about
-philosophy in the times of Andalusian Spain, for example. Where in the past I
-might have started with a library subject catalog, today I construct a search
-query, using resources that I believe contain a reasonably complete archive of
-texts on the subject. The search engine in effect replace (or rather
-complement) centuries-long processes of canon-formation. A near-instantaneous
-list of query results now becomes my ephemeral, but nevertheless
-authoritative, collection of literature relevant to any given topic of
-interest. In this way the search engine supplants the catalog. And the
-recommendation engine, of the kind commonly used by online book stores,
-supplants the function of the book review.[^ln-bookreview] But as Frank
-Pasquale has argued convincingly in his recent book, the problem with such
-complex algorithmically-powered tools is that unlike public library catalogs,
-proprietary search and recommendation engines are not necessarily open to
-interpretation [@pasquale_black_2015]. They are under no obligation to reveal
-their biases or motivations. The search results for "Andalusian Spain" may
-well suppress elements of Muslim history or privilege a historical narrative
-that privileges an English-centric view of the world.
-
-Each text in the returned search results list requires the instrumentation of
-close, analytical interpretation. However, the same discipline of critical and
-reflective deliberation exercised on the level of an individual text needs to
-also be exercised on the level of procedurally generated search engine
-results: Where to search? Using what engine? How to construct the query? What
-are the implicit biases of the system?  Whatever ideals motivate close reading
-between "text" and "work" surely must drive the process on the level of
-dynamic corpus composition. To make them available for scrutiny the
-"macroscopes" themselves need to be taken apart. Thus where distant reading
-perceives patterns across large-scale corpora, computational
-hermeneutics---microanalysis---breaks literary systems down to their minute
-constituent components.
-
-Where distant reading and macroanalysis constitute the study of mediation
-between readers and text aggregates (like canons, corpora, collections,
-libraries, archives, and database) microanalysis examines mediation at the
-level of physical minutiae otherwise not readily observed in cursory
-exploration. The instruments of microanalysis may coincide with computational
-tools, designed to find hidden patterns lurking above or beneath a given
-document.[^ln-iarkho] The micro-instrumentation might also include a
-screwdriver, a binding needle, or a soldering iron: sharp tools that help to
-pry open and to scrutinize otherwise magical textual black boxes. My
-methodology thus lies in the dialectical tension between making known and
-making strange. Each chapter reveals the material realities of symbolic action
-like "closing windows," "bookmarking a page," and "dragging and dropping
-files." Where the metaphor is made strange, the mechanics of the device comes
-into view. The metaphor and the machine help organize the book and each of its
-chapters.

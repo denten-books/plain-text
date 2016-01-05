@@ -1,11 +1,7 @@
-## Chapter 4: Archive
+# Part III: Displacement
+## Chapter 5: Home
 
-`media being, home`
-
-Documents strongly connected with an idea of user and access. Strongly
-connected with an identity.
-
-### 4.1 Recursive Encounters with Oneself
+`media being, archive`
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -47,6 +43,8 @@ circa 1959, depicts a couple in their living room, relaxing around a tape
 recorder and near a shelf-like piece of furniture holding reels and equipment
 in neat wooden compartments. "Build your own library of stereo tapes," reads
 the slogan.[^ln4-dupont]
+
+### 4.1 Recursive Encounters with Oneself
 
 Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer feels fully congruent with his former self, "that
@@ -895,9 +893,6 @@ today's librarians of self commonly seek shelter.
 
 Unix home
 
-[^ln5-home]: On many machines the home directory will simply bare the name of
-the logged in user.
-
 The history of the home directory can be traced to the earliest time
 sharing machines in the 1960s. 
 
@@ -983,6 +978,18 @@ all.
 
 Plain text is a file format optimized for a human mind. It keeps the
 system available to view.
+
+End with Flusser. Home. Heimat. Umwelt.
+
+Unix Home
+Tara McPherson
+Flusser exile as information processing.
+Bachelard
+Plain text privileges a certain tics of humanity.
+
+<!-- notes -->
+<!-- notes -->
+<!-- notes -->
 
 [^ln5-recursive]: See also @breuer_paradox_1993, 559-580.
 
@@ -1080,19 +1087,12 @@ Bennett, John L. The User Interface in Interactive Systems. In Annual Review of
 Information Science and Technology, Vol. 7, C. A. Cuadra, Ed., American Society
 for Information Science. Washington, 1972, pp. 159-196.
 
-End with Flusser. Home. Heimat. Umwelt.
-
-
-Unix Home
-Tara McPherson
-Flusser exile as information processing.
-Bachelard
-Plain text privileges a certain tics of humanity.
-
-
 [^ln5-james-recur]: See for example @james_principles_1890, 234: "Every
 brain-state is partly determined by the nature of its entire past succession.
 Alter the latter in any part, and the brain-state must be somewhat different.
 Each present brain-state is a record in which the eye of Omniscience might
 read all the forgone history of its owner."
+
+[^ln5-home]: On many machines the home directory will simply bare the name of
+the logged in user.
 

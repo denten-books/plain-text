@@ -1,621 +1,5 @@
 ## Chapter 4: Format
-
-`metaphor, form, formula, document-object model`
-
-Reading Jean Baudrillard at the end of the century prior, I understood his
-writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Computers, ultimate metaphor
-machines, mediate experience ubiquitously. They interject in simple everyday
-acts from drinking coffee in the morning, through brewing and payment systems,
-to going to bed as alarm clocks and night activity monitors.
-
-Baudrillard writes:
-
-> At the limit of an always increasing elimination of references and
-> finalities, an ever-increasing loss of resemblances and designations, we
-> find the digital and programmatic sign, whose "value" is purely *tactical*,
-> at the intersection of other signals ("bits" of information/tests) whose
-> structure is that of a micromolecular code of command and control
-> [@baudrillard_selected_1988, 139-140].
-
-Somewhere between the sites of storage (what is) and projection (what appears
-to be), the computed sign undergoes a series of structural transformations. In
-the last chapter, we saw a glimpse of that process. What started out as a
-thought became a letter, a signal, a magnetic mark, a phase of the liquid
-crystal, and a ray of light. And in the chapter before that, we saw the
-strange admixture of content and control particular to computational devices.
-Programming languages guide thought through a series of transformations in the
-passage between bodies, screens, and archives. Code breaks thought up into
-differentiated units. It consequently reassembles the units back together into
-a continuous, affective whole. What starts as a thought turns first into bits
-and then into units of meaning like sentences, paragraphs, pages, and books.
-Roman Jakobson called such construction and deconstruction of meaning the
-"profuse exchange of ritualized formulas" or the phatic function of language
-[@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
-function lies the essence of formatting.
-
-My task in this chapter is to bring the formatting layer into view. I will
-begin by outlining a few salient features of the computational metaphor. As we
-shall see, the metaphor "breaks" when one side of the conceptual transference
-fails to meet the other. The broken or "dead" metaphor leads to the locus of
-incongruence at the heart of computation. What we see is not in fact what we
-get. We are instead confronted with a composite image, which under examination
-reveals a complex process of transfiguration between the visible sign and the
-sign at the site of the inscription.  Formatting structures facilitate the
-conversion of machine-readable codes into human-readable text. Yet formatting
-continues to elude the critical gaze because the very concept of form, central
-to literary analysis, contains in it two conflicting ideas. Going back to
-reception of Plato, Hegel, and the Russian formalists, the English "form"
-renders at times the material, outward, and apparent shape of something said
-or pictured. Yet just as often, critics use "form" in the sense of a Platonic
-ideal: abstracted from matter, inward-facing, and in need of explication. Form
-in that sense is closer to the idea of an algorithm of a formula.
-
-The distinction between form, format, and formula will give us the vocabulary
-to discuss the codification of document structure in the second part of the
-chapter. As I will argue, some of the same intuitions guiding the intellectual
-history of formalism became ingrained in the material contingencies of word
-processing emerging in the middle of the twentieth century. A kind of a
-computational formalism will give us the means to reveal a layer of formatting
-shaping every digital document.
-
-### 4.1 Format Theory
-
-To begin thinking about formatting, imagine communicating by telegraph in two
-different languages with a friend. Occasionally, besides whatever else you
-wanted to say, envision also sending a signal to your partner's device that
-indicated a change in the transmission language. Thus in addition to the
-message, you would also send a predetermined code that would switch the
-receiving apparatus from the "English language" into the "French language"
-mode. Such an instruction would *attune* the receiver to a different mode of
-apprehension. In our example, it would transform an English language machine
-into a French language one. It is in that sense of attunement that the
-programmatic sign acquires its non-representational, tactical character.
-Stripped of references, resemblances, and designations the programmatic sign
-commands and controls.
-
-Yet despite the formative impact on the structure of comprehension, the
-programmatic sign does not often figure in our theories of meaning making.
-Instead, we erroneously consign it to the ornamental "formatting" layer of
-document structure. We do so at our peril. Unlike passive decorative elements
-like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
-maximally blunt limit of its abilities, the formatting layer affects
-visibility. For example, it can selectively render some words and sentences on
-the screen while suppressing others. The ability to hide text from view
-completely or to make it so small as to be illegible affects not just the
-style but the politics of text. Formatting, in that sense, can determine its
-audience, privileging certain voices and modes of access over others.
-
-Unlike figurative language, formatting codes and programming languages
-function in the imperative. They do not stand for action---they are action.
-More binding than J.L. Austin's "speech acts," control codes arrange and
-regulate. The difference between representation and control is one of brute
-force. It lies in the distinction between a restraining order and physical
-restraint. A restraining order *represents* the calling forth of codified
-power. Physical restraints, like the plastic handcuffs widely used in
-contemporary policing, *enact* the exercise of codified power. Like all
-violence they do not stand for anything. Stripped of references, resemblances,
-and designations, they are in themselves an arrangement and rearrangement of
-matter. The handcuffs contort the body into the shape of submission. Absent a
-body, the restraints draw an empty shape.
-
-Code acts similarly to shape the word. Located somewhere between idea and
-material, formatting relates content to matter. It mediates by imposing
-structure. Think of a paragraph, for example. By convention, writers use
-paragraphs to break up the flow of monolithic "thought" on a page. The
-paragraph contains information. Emptied of content, it simply ceases to exist.
-Can there be an empty paragraph? Can the shape of the paragraph persist
-outside of the material confines of the page or the screen? Can one imagine a
-paragraph that unfolds spatially not in two dimensions, but in one, along a
-straight line? What about a three dimensional paragraph? Could it take shape
-of a cuboid instead instead of a rectangle? These questions boggle the mind
-because the paragraph draws a singular shape. It is a textual container of a
-type. Any other shape less or more than the paragraph would go by another
-name. It would constitute another format. To imagine something like a
-one-dimensional paragraph is akin to imagining a flat shoebox. A flat shoebox
-could no longer hold shoes. It would contain something else like images of
-footwear. Similarly, a paragraph identifies a particular arrangement of
-elements. It is a box or a data structure of a shape, made to hold words and
-sentences. Like nesting dolls, words and sentences are in themselves data
-structures that contain further, smaller arrangements of information.
-
-One could say, what of such arrangements? Who cares about paragraphs? It is
-merely one type of a container among many. It has only an instrumental
-function to help get the point across. The meat of interpretation lies in the
-stuff within. Words come in other shapes and sizes. The container is
-disposable and therefore insignificant. In this chapter, I will argue to the
-contrary, maintaining that formats could only seem insignificant when they
-were few and simple. The transition between static and dynamic layouts
-necessitates renewed attention to form and format. What you saw is what you
-got on the page. On the screen, what you see is but a small part of what you
-get. The content---all that is contained on a page---shifts beneath the
-projected image.
-
-In print, the content can be gleaned from the surface. There is nothing but
-surface on a page. On a screen, the visible surface is but a small part of the
-content. A byte, made up of eight binary bits, holds a letter. The string of
-letters spelling out "hello world" occupies eleven bytes, if you count the
-space. A file in the Portable Document Format (`.pdf`) containing nothing but
-"hello world" takes up 24,335 bytes on my system. Formatting accounts for the
-added information. Thus in addition to the greeting, the Portable Document
-Format can also contain features that enable "accessibility of content to
-those with disabilities," "digital signatures to certify authenticity,"
-"electronic forms to gather data," "preservation of document fidelity
-independent of the device, platform, and software," and "security and
-permission to allow the creator to retain control of the document and
-associated rights" [@iso_portable_2008, vii].
-
-These capabilities operate somewhere between the visible content and stored
-information. More than passive conduits of meaning, electronic texts contain
-the rules for engagement between authors and their readers. Moreover, the
-embedded structures enforce an ontology. The Portable Document Format encodes,
-among other things, ideas about "reading," "authenticity," "fidelity,"
-"preservation," and "authorship." Whatever theoretical framework the reader
-brings to the process of interpretation must therefore meet the framework
-implicit in the electronic text itself. Such an encounter happens not on the
-level of representation or ideology, but on the level of the physical, the
-phatic, and the imperative, where formatting and control reside.
-
-The familiar paper paragraph structure already presents several interesting
-problems for analysis. In claiming typographical space on a page the paragraph
-suggests corresponding mental units. A unit of written language thus also
-becomes in some sense a unit of thought. But no such structures as paragraphs
-exist in the mind. At the level of physiology, the brain arranges information
-otherwise. Things get significantly more complicated when the paragraph acts
-to mediate between the mind and the page on the one side of comprehension, and
-the page and the machine on the other.
-
-![Forms and formats.](images/forms.png)
-
-Just like there is nothing inherently paragraph-like in the neural arrangement
-of the brain, there is also nothing inherently paragraph-like or page-like in
-the arrangement of bits along the surface of the magnetic disk or the solid
-state drive. We are presented instead with metaphors of paragraphs, pages,
-files, and folders. The screen representations of paragraphs, pages, files,
-and folders look like their counterparts on the page, yet they represent other
-structures in the head, and yet other structures on the disk. The file format
-thus mediates between mental image---information stored in the head---and
-inscription---information stored in the machine.
-
-When reading electronically, we prefer not to manipulate the information
-stored on the disk directly. Instead, we manipulate information stored on the
-disk by the means of familiar mediating structures like paragraphs, pages,
-files, and folders. Such structures are attached figuratively to the
-affordances of print. We know, in other words, what paragraphs, pages, files,
-and folders can do in print. For example, one affordance of paper is that it
-can be folded. The reader can therefore "earmark" a page. The digital medium
-offers yet another set of affordances. But because the reader lacks
-familiarity with digital media, its affordances are presented through
-metaphor. For example, the ability to create a pointer whose value refers to a
-specific address in the computer memory could be represented with a virtual
-"earmark" on a "page." The "page" in this case stands for some information
-structure on the disk and the "earmark" for the pointer. Similarly one "drops
-a folder into the trash bin" or "drags and drops a file" or "bookmarks a
-page." Such metaphors rely on habituated insight with one medium extended into
-another. We do not literally "drag" or "drop" bits, but we use the metaphor of
-papers and trashcans to help the user manipulate bits and bytes as if they
-were household objects. The metaphor opens figurative possibilities, but it
-also obscures the actual physical contingencies of interacting with bits and
-bytes, logic gates and magnetic traces.
-
-Bits and bytes differ from files and folders, pages and paragraphs in what
-they can do. The affordances of the physical medium differ drastically from
-affordances of the simulated one. The metaphorical substitution encourages
-readers to extend the facility they have with manipulating one sort of media
-(paper and ink) to another (screen and pixels). But what readers gain in
-facility, they lose in critical faculty. Alienated from the actual physical
-structures of information storage and retrieval, readers gain access to the
-metaphor alone. Thus we "turn the page" but in reality redraw the screen. We
-"highlight a passage" but in reality send information about the highlighted
-passage to a data aggregation service. We "share a book" but in reality assign
-a temporary license to another user. Where did the text go? someone asks when
-downloading a paper from an online journal.[^ln4-nested] It is in your "home"
-I answer. But unless one of us is a system administrator, neither has a mental
-map of any physical location corresponding to the "home" directory, the
-default location of personal files on many systems. When confronted with the
-actual affordances of digital text, the user grasps for neutered metaphors. We
-"reside" in such homes, "own," "share," and "create" only in the simulacrum.
-
-The metaphors of human-computer interaction hide the true material conditions
-of the computed sign. More than parchment packets to be unwrapped and
-discarded after purchase, the vessels of computation resemble little factories
-for the production of meaning. Imagine me asking you to read Shakespeare's
-*Hamlet*, for example, by lending you a copy of the text. In the case of a
-paper book, I may be sure that the text in my hands will remain the same as I
-pass it into yours. But the computed sign has the capability to adjust itself
-to new contexts. The simulated *Hamlet* may adapt to the new reader's
-geographic location, mood, or political affiliation. Far from being outside of
-the realm of possibilities, it is likely that in fact, most of the texts we
-consume today come to us in such algorithmically personalized way. Algorithms
-ubiquitously tailor streams of online news and updates, for example, to suit
-the preferences of their readers. Nothing is guaranteed in the passage of
-electronic text from one pair of hands into another. Digital formatting
-expands its purview far beyond typographical convention. The erasure of words,
-word substitution, automatic summarization, wholesale generation of discourse
-by algorithmic means---the command and control layer contains all such
-possibilities.
-
-### 4.2 Metaphor Machine
-
-They key to understanding "the loss of resemblances" that accompanies
-ubiquitous simulation lies in the structure of the interface metaphor. A
-functioning metaphor, if you would recall from George Lakoff, is one in which
-the schematic structure of one domain is in some way transposed into another.
-Thus to say "life is a stage" is to transpose something about theater onto
-life. In literary terms, the theater is "tenor" where "life" is "vehicle" of
-the composite figure [@richards_philosophy_1936].
-
-Simulation is a special kind of a metaphor. Where the traditional metaphor
-substitutes one idea for another, a simulation substitutes the "signs of the
-real for the real" [@baudrillard_simulacra_1994, 2]. It is a subtle difference
-that engenders not-so-subtle effects. For example, it is one thing to say "you
-are the apple of my eye" and quite another to actually confuse eye pupils and
-apples.  Baudrillard gives the example of a map that no longer corresponds to
-any territory. He called such a condition of pure simulation without a
-referent *hyper-reality*. We expect the simulation to attain a measure of
-correspondence between representation and the thing being represented. But the
-hyper-real sign is one where the referent is missing. Severed from the
-referent, the symbol itself attains the status of reality, and thus
-hyper-reality: a symbol that folds onto itself. The use of metaphor at the
-heart of computation breaks in more devious ways still. The broken metaphor
-occludes the realities of the thing being simulated. By definition, simulation
-"assumes a form resembling that of something else" [@_simulation_2015].
-The computational metaphor assumes the form of one thing, while resembling
-another.
-
-The verisimilitude between printed text and its digital representation
-obscures material realities particular to computation. To drag and drop a
-document into a trashcan on the screen, for example, corresponds to a number
-of data manipulations on the disk. None of these necessarily include deletion
-of data from storage media. The representation of the document may disappear
-on the screen where the inscription remains. In most cases, we the users, are
-not bothered by such incongruence. But in some cases, when it really
-matters---under the threat of censorship or persecution, for example---the
-incongruence exposes the frailty of our alienation. It is an unprecedented
-state of affairs: to lose sight of the material realities, made all more
-troubling by the ubiquity of the simulation.
-
-Consider the commonplace task of "turning pages" in the act of writing or
-reading digital texts. In cognitive linguistic terms, the idea of paper pages
-should somehow extend into the domain of manipulating digital information. In
-literary terms, the projection of a page on the screen carries the tenor of
-paper pagination.  In this way, the turning of projected (simulated) pages
-implies a certain, familiar arrangement of matter. Readers know what to do
-with paper pages. We might say they understand the affordances of paper. The
-metaphor encourages readers to extend their knowledge of the physical world
-into the projected virtual world. For example, paper pages can be turned.  We
-know they usually proceed one another, sequentially.  And we are attuned to
-expect the same attributes to hold true in the vehicle---the domain receiving
-the tenor of the simulation. The action of turning virtual pages should, in
-theory, set off a series of corresponding actions in the target digital
-domain. In other words, turning the page on the screen corresponds to some
-action on the disk. But it is not necessarily the action we expect. The
-arrangement of information stored on the disk affords different physical
-actions from the arrangement of information on a page. An English-language
-character on the disk occupies eight bits, or units information, on a disk
-where a print character occupies one. The disk can tolerate millions of
-rewrites, where the paper medium wears out after only a few. The paper
-inscription is visible to the naked eye where the digital inscription is not.
-
-The misleading metaphor is necessary perhaps, because the reading and writing
-of digital data can involve processes far outside of everyday experience. For
-example, in reading data from solid state (FLASH) memory a circuit imparts
-electrical charge through quantum tunneling onto a connected series of
-floating gate transistors [@pavan_flash_1997; @bez_introduction_2003].
-
-!["Perspective view of a portion of a charge translating device illustrating a
-preferred electrical contact arrangement." From
-[@boyle_information_1974].](images/floating-gate.png)
-
-Whatever the complexities of solid state storage architecture, the difference
-in arrangement of information between pages and floating gates---at the root
-of modern "sold state" storage---is apparent. The structure of one has only an
-arbitrary connection to the structure of the other. Consequently change in the
-structure of one domain do not necessitate changes in the structure of
-another: to "erase a word" on a projected, virtual page thus may not have the
-corresponding effect on the level of the storage medium. The information may
-persist despite the intended erasure. We hope, in other words, that the
-analogy between paper and pixel can achieve a level of verisimilitude.
-Turning the page or erasing a word on the screen should do something similar
-on the disk. But we also know that not to be the case. The metaphor is broken
-similar to Baudrillard's map that no longer reflects the terrain, but not any
-terrain. The computational metaphor often indicates the wrong terrain, rather
-than its complete absence. The simulation suggests a structuring of one kind,
-a corresponding deletion of data in our example, but enacts structure of
-another kind. What can be said about metaphors that are broken in this way?
-And how prevalent are such metaphors in computing?
-
-Computation advances through ubiquitous metaphoric substitution. Recall for a
-moment Turing's seminal definition of the universal computing machine,
-discussed at length in the first chapter. What he calls the "standard
-description" of a computing machine includes a finite number of configurations
-which include some combination of "tape" and "symbol." What makes the machine
-universal computing is its ability to understand symbols that represent
-standard descriptions of other single-purpose computing machines. By its very
-definition, the universal computing machine is a type of a metaphor. It has
-the ability to represent all other symbolic machine states, symbolically. The
-"symbolic" part is important in this context. For example, the universal
-computing machine cannot emulate an internal combustion engine. The internal
-combustion engine is not a symbolic machine. However, the universal computing
-machine can emulate all other symbol-manipulating machines. For Turing, these
-machines included other forms of computation. Yet nothing in the original
-definitions limit the "universality" of the universal computation to numbers.
-The machine is universal to the extent that it consumes symbolic
-configuration.
-
-<!-- a better transition -->
-
-Consider the case for metaphor machines from the practical rather than a
-purely theoretical point of view. Computers advance into everyday life beyond
-computation
-
-following passage from a patent filed by Xerox in 1991. It
-describes, in its own words, "an electronic library metaphor," which includes:
-
-> a shared books with data base metaphor, a reference books metaphor, and a
-> card catalog metaphor in one system that allows large object oriented data
-> bases to be organized and accessed in an exclusive environment and in
-> addition allows access to screen icons, creates a visual hierarchy of
-> related and shared objects, and allows mutually exclusive access to the
-> metaphors within the library [@pajak_electronic_1992, 1].
-
-The invention ultimately enables the "organizing, accessing, and querying of
-information unique to physical libraries in an electronic workstation
-environment" [@pajak_electronic_1992, 1]. Setting aside, for a moment, the
-peculiarity of being able to patent a metaphor, note the idiosyncrasy of the
-technical language. What does it mean to "access" a metaphor? When someone
-"checks out" a book from the electronic library, do they gain access to the
-book or to the metaphor? The traditional theory of the metaphor does not
-prepare us to answer such questions. In what follows, we will first review the
-relevant literature on metaphor and then consider
-
-In the so-called classical view, metaphors are simply a type of figurative
-language. To say "the day stands tiptoe on the misty mountain tops" is to use
-the verb "stand" in a novel linguistic context. Days have no literal legs to
-stand on. John Searle, John Lakoff, and Mark Turner, among others, have argued
-that metaphor is a more broadly a cognitive phenomenon, mapping distinct
-ontological categories across "conceptual domains" [@lakoff_metaphors_1980;
-@turner_death_1987; @lakoff_contemporary_1998, @searle_metaphor_1998]. In the
-modified view, even such basic semantic concepts as "state, quantity, action,
-cause, purpose, means, modality" are metaphorical in nature
-[@lakoff_metaphorical_1980; @lakoff_contemporary_1998, 212]. Beyond
-figurative, lyrical language, Lakoff and others have argued that metaphors
-structure everyday experience. Thus the analysis of common phrases like
-"things are looking up" and "I can't get that tune out of my mind" reveals
-underlying figuration like "good things are up" and "the mind is a container
-[@lakoff_metaphorical_1980, 195-198].
-
-!["An exemplary interface for viewing a three dimensional book"
-[@card_methods_2006, 3].](images/book-metaphor.png)
-
-!["Alternate display techniques for information about a big book"
-[@card_methods_2006,4].](images/book-3d.png)
-
-The transference of physical properties from one system to another--from
-"physical libraries" to "electronic workstations environments," in our case--
-suggests the existence of yet another class of *interface* metaphors.
-Metaphors that can be touched and handled in some way exist neither wholly in
-language nor wholly in the mind. Rather, they operate in action, at hand. In a
-seminal paper on the topic, John Carrol, one of the pioneers in the field of
-human--computer interaction, summarized the role of metaphors in the design of
-computing systems as follows:
-
-> Professional programmers might learn a new system X by metaphorizing at
-least initially from what they already know about system Y. More casual or
-naive end-users might rely on metaphors drawn from more distant knowledge
-domains, e.g. on what they have already learned about electric typewriters.
-The implications of this proposal are simple and direct. If people employ
-metaphors in learning about computing systems, [MISSING WORD] of those systems
-should anticipate and support likely metaphorical constructions to increase
-the ease of learning and using the system [@carroll_metaphor_1982, 107-108]."
-
-In essence, Carroll imagines human--computer interfaces that enact Lakoff and
-Johnson's "conceptual blending" in practice. In this way, the familiar gesture
-of discarding a crumpled piece of paper into the waste bin can be simulated
-digitally to handle the deletion of electronic documents. Apple's influential
-*Human Interface Guidelines*, at the core of Apple's desktop interfaces in the
-1980s, echo Carroll proscriptions:
-
-> You can take advantage of people's knowledge of the world around them by
-using metaphors to convey concepts and features of your application. Use
-metaphors involving concrete, familiar ideas and make the metaphors plain,
-so that users have a set of expectations to apply to computer environments.
-For example, people often use folders to store paper documents in their
-offices. Therefore, it makes sense to people to store computer documents in
-computer-generated folders that look like files and folders. People can
-organize their hard disks in a way that's analogous to the way they organize
-their file cabinets [@apple_apple_1987, 4].
-
-Apple's designers understood also that the mapping of concepts between the
-physical and the computer-generated worlds is imperfect. For example, unlike a
-real-world file folder, constrained by the size of its containing cabinet, a
-computer folder can hold a nearly unlimited amount of files. Or, to be more
-precise, the electronic folder metaphor is subject to *different* constraints
-than those that limit the use of a paper file. The image of the paper file
-should not therefore limit the possibilities of the metaphor's implementation,
-the manual explains. It further advices to "strike a balance between the
-metaphor's suggested use and the ability of the computer to support and extend
-the metaphor" [@apple_apple_1987, 5]. Being a universal symbolic manipulator,
-the Turing machine is able to extend all metaphors. That is not to say that it
-can *do* anything. For example, one cannot use a computational device to
-hammer nails. But a computer can be used to extend the metaphor of hammering
-nails into the virtual realm.
-
-A number of patents from IBM, Xerox, and Microsoft rely on the language of
-metaphor extension. Consider United States Patent #5,907,854 by Paula J. Cox
-et.al. of International Business Machines. The invention describes "a library
-metaphor that allows a user to organize the online books in a manner that has
-meaning and utility." The authors go on to explain that "while the actual
-books may be stored in many separate and distinct locations [...] the bookcase
-provides a familiar classification system." They go on to write that the
-creation of bookcase metaphors involves "the creation of appropriate links to
-the actual online book/bookshelf/bookcase." The "book metaphor" ultimately
-"provides an easy to understand and intuitive model for a user who might not
-be familiar with on-line viewing tools" [@cox_method_1999].  Similarly, the
-influential product design firm IDEO worked with Xerox on improving company's
-file manager shell PC Catalog, later renamed to TabWorks.  In describing the
-design process, IDEO developers wrote about defining "key elements of the
-metaphor" contained in the image of "tabs" and "catalogs." "The book *cover*,"
-they wrote, "opened to display three *rings* binding a set of divider *tabs*,
-each containing one or more *pages*." Pages, in turn contained *items* or
-"icons representing documents or applications"
-[@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
-application, the engineers at IBM describe the "contents of the notebook
-metaphor," which are "displayed as a stack of sheets." "In this way, the
-interface [...] permits a user to directly manipulate the sheets in the
-notebook metaphor" [@glaser_graphical_1995]. In all of these examples, the
-user operates with a metaphor. The machine then translates a set of metaphoric
-manipulations into the corresponding actions in the physical world. But the
-nature of those manipulations are occluded from users, who are, presumably,
-not equipped to understand the physical realities of computing.
-
-Metaphor machines present us with a special case of conceptual domain
-blending. In the cognitive view, the metaphor performs a number of
-"conventional mapping from one domain to another" [@lakoff_contemporary_1998,
-239]. Lakoff mentions for example the common trope of "a state is a person,"
-implicit in the ideas of a "friendly" or a "hostile" state
-[@lakoff_contemporary_1998, 243]. In this case, ideas about agency, emotion,
-and mental life usually attached to people are extended to state actors.
-Similarly, to say that someone is "boiling mad," instantiates the common trope
-of  "anger is a hot liquid in a container." In this case, we map common known
-properties attached to the domain of physics to the domain of emotion.  Lakoff
-further explains that such domain mapping follow a few rules. They are usually
-partial and asymmetrical.  "Mapping are not arbitrary," he writes, "but
-grounded in the body and in everyday experience and knowledge." Finally domain
-mapping obey what Lakoff call the Invariance Principle, by which "the image
-schema structure of the source domain is projected onto the target domain in a
-way that is consistent with inherent target domain structure"
-[@turner_conceptual_1995; @lakoff_contemporary_1998;
-@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
-
-In poetics, a metaphor is said to be "motivated" when a set of concepts from
-one domain extends into another to produce insight [@lakoff_contemporary_1998,
-210-1]. Lakoff explains that to say something like "to spin one's wheels" when
-referring to someone who is thinking is to apply the reader's knowledge of
-automobiles to the mental realm. The speaker may have a notion that spinning
-wheels waste energy without moving the car forward. The metaphor suggests that
-something like that is happening mentally as well [@lakoff_contemporary_1998,
-211]. A metaphor in a figurative genre like prose or poetry works similarly by
-suggesting novel and hitherto unexplored connections between domains. In his
-influential essays on metaphor the English literary critic I.A. Richards
-explains that "when we use metaphor we have two thoughts of different things
-active together and supported by a single word, or phrase, whose meaning is a
-resultant of their interaction" [@richards_philosophy_1936, 95]. Richards's
-radical contribution to the study of metaphor lie in the observation that
-metaphor operates in language, thought, and action ubiquitously. It does not,
-as previously thought, exist merely in the realm of poetic language. Thought
-in itself, Richards believed, is metaphoric in that the mind continually
-searches for patterns and comparisons [@richards_philosophy_1936, 94].
-
-Yet Richards also clearly believed that some metaphors were more productive
-than others. The poetic use of the metaphor did not merely carry meaning
-across known domains, it produced new and unexpected connections between them.
-To this effect, Richards cites the poet Percy Shelley who wrote the following
-in defence of poetry:
-
-> [poetic] language is vitally metaphorical; that is, it marks the before
-> unapprehended relations of things and perpetuates their apprehension, until
-> the words which represent them, become, through time, signs for portions or
-> classes of thoughts instead of pictures of integral thoughts; and then if no
-> new poets should arise to create afresh the associations which have been
-> thus disorganized, language will be dead to all the nobler purposes of human
-> intercourse [@shelley_essays_1840].
-
-Shelley anticipates what the cognitive school of metaphor theory was to
-confirm by empirical means more than a century later [@mojtabai_delusion_2000;
-@billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
-but also become naturalized: that is understood literally. For many readers,
-for example, the very idea of a "dead metaphor" itself no longer evoke death.
-Rather they understand "dead metaphors" to function as a unremarkable synonym
-for a trope that is merely conventional or idiomatic.[^ln-dead] In this way
-Shelley describes the life-cycle of a typical metaphor. At its most generative
-stage, the metaphor actively produces new meaning. The creative juxtaposition
-between two as before unrelated domains brings new aspects of experience to
-light. But with time, the poetic metaphor becomes a tired cliché. It longer
-"perpetuates understanding." It dies in a sense of becoming a mere shortcut to
-understanding.  In Viktor Shknovsky's words, we "cease to experience" the
-trope. The metaphor dies when we begin recognizing it without apprehension
-[@shklovsky_voskreshenie_1914]. It no longer generates new connection between
-domains, but merely reinforces existing ones.
-
-Lakoff famously took exception with the idea "dead metaphor," arguing that
-even those metaphors that are thoroughly habituated still play a vital part in
-structuring everyday experience. He gave the example of the sentence: *He
-still can't quite grasp the basic ideas of quantum mechanics*.  Grasping in
-this case is used as a synonym to "understanding." It indicates a transference
-of properties between physical action (grasping) and mental space (thought).
-The metaphor is alive, Lakoff wrote, because it continues to function widely.
-It is more alive in the sense that other more novel "one off" poetic metaphors
-have not found cultural salience. A truly dead metaphor for Lakoff is one in
-which the original source image no longer makes sense. For example, the
-English word *pedigree* originally referred to the French "crane's foot," used
-historically to decorate family-tree diagrams. Unlike "grasping ideas" where
-both sides of the domain transference are still available to the reader, the
-"crane's foot" contained within the English *pedigree* is no longer accessible
-to the average speaker. The idea of a dead metaphor does not appropriately
-differentiate between these two cases, according to Lakoff and his adherents
-[@lakoff_death_1987; @muller_metaphors_2008]. The metaphor sometimes "dies"
-but continues to perform its function of intuitively connecting two disparate
-domains. At other times, the metaphor dies in the sense of one domain becoming
-no longer accessible to its user. Furthermore, a wholly unmotivated metaphor
-does no work at all. Thus the non-sensual riddle famously posed by the mad
-hatter to Alice in Lewis Carroll's *Alice in Wonderland*: How is a raven like
-a writing desk? The dissimilarity between the two domains---of animals and of
-furniture---prevents productive congruence.[^ln4-carroll]
-
-To what extent does the interface metaphor correspond to the above
-definitions? When discarding a document into a trash bin, in our reoccurring
-example, users should theoretically map their knowledge of paper documents and
-paper waste baskets onto the computational domain. Instead, the *idea* of
-discarding something substitutes for the *material reality* of the
-corresponding action. The concept blends not with another conceptual domain
-but with the material affordances of the target medium. Furthermore, such
-material affordances---our ability to actually discard data, for
-example---stand in arbitrary relationship to the source domain. Simply put we
-expect the thing to be deleted, but it is not. The incongruence breaks the
-Invariance Principle. Whatever structural changes we expect to happen in the
-source domain do not carry on to the target. The structure of whatever is
-meant by "deletion" is often inconsistent with inherent domain structure. The
-metaphor breaks in a sense. It becomes a dead metaphor even under Lakoff's
-strict definitions.
-
-Like the "crane's foot" in the English "pedigree" the user of the simulated
-document dustbin is missing one part of the metaphor equation. In the
-"pedigree" example, the English speaker lost touch with the source image.
-Contemporary English speakers no longer perceives the similarity between a
-"crane's foot" [*pie de grue*] and a family-tree diagram. In the
-interface-based example of "discarding a document into trash," the user is
-rather missing the target domain. The understanding of the target
-domain---changes in the magnetic or solid state storage medium that correspond
-to deletion---is the part that is missing from the figure. Like the crane's
-foot in "pedigree" the metaphor is therefore dead to the user. The absence of
-either target or the source domain prevents image mapping
-[@lakoff_death_1987]. In more literary terms, we may say that the "vehicle,"
-or the target domain which takes on the "tenor" of the source, is missing
-[@richards_philosophy_1936, 96]. The tenor of "discarding" a piece of paper
-does not necessarily carry over into the host. The metaphor is not motivated,
-in other words. The analogy between discarding paper and erasing bits does not
-hold.
-
-This may be good moment to pause and to take stock of these preliminary
-remarks on metaphor. I observe first that the design of modern human--computer
-interfaces makes heavy use of metaphor in the mode of "conceptual blending."
-Second, I locate the idea of "conceptual blending" within the lineage of
-literary poetics. The work of researchers in human--computer interaction like
-John Carroll and Stuart Card relies on insight from cognitive linguists like
-George Lakoff and Mark Johnson. The conceptual or cognitive blending school
-pioneered by Lakoff and Johnson in turn represents a development of metaphor
-theory with roots in the works of Percy Shelley, Viktor Shklovsky, and I.E.
-Richards. Finally, I note that metaphors understood in this tradition succeed
-and fail in interesting ways. They succeed when the metaphor connects ideas
-from two differing conceptual domains. At the very least, blending plays an
-important instrumental in everyday cognitive activity
-[@lakoff_metaphors_1980]. At its best, conceptual blending enables learning
-and discovery [@carroll_interface_1987; @card_methods_2006]. A living metaphor
-revitalizes human experience, producing new knowledge about the world
-[@shklovsky_voskreshenie_1914; @richards_philosophy_1936].
+`form, formula, document-object model`
 
 I began the book by asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led
@@ -629,16 +13,33 @@ archetypal "rule book" for its creation. The two senses matter because they
 lead to opposing strategies of interpretation. One seeks to describe, the
 other to explain; one to perceive, the other to reveal.
 
-### 4.3 Form, Formula, Formatting
+My task in this chapter is to bring the formatting layer into view. The
+distinction between form, format, and formula will give us the vocabulary to
+discuss the codification of document structure in the second part of the
+chapter. As I will argue, some of the same intuitions that guided the
+intellectual history of formalism became also ingrained in the material
+contingencies of word processing emerging in the middle of the twentieth
+century. The history of something called the Document Object Model will give
+us the means to reveal a layer of formatting shaping every digital document.
 
-Form is an often used but Caroline Levine.
+Formatting structures facilitate the conversion of machine-readable codes into
+human-readable text. Yet formatting continues to elude the critical gaze
+because the very concept of form, central to literary analysis, contains in it
+two conflicting ideas. Going back to reception of Plato, Hegel, and the
+Russian formalists, the English "form" renders at times the material, outward,
+and apparent shape of something said or pictured. Yet just as often, critics
+use "form" in the sense of a Platonic ideal: abstracted from matter,
+inward-facing, and in need of explication. Form in that sense is closer to the
+idea of an algorithm of a formula.
+
+### 4.1 Form and Formula
 
 The intellectual history of formalist thought in literary theory contains
 within it two distinct and contradictory ideas about form: one about the
 outward shape of the sign and another about the inward structure or formula
 that governs semiotics. The distinction is important because it leads to
 several conflicting strategies of interpretation. Taken in the sense of
-"outwards shape," the form suggests an aesthetics or even an "erotics" of art
+"outwards shape," form suggests an aesthetics or even an "erotics" of art
 [@sontag_against_1966]. On this view, a sign is forever embedded into the
 specific contexts of its instantiation. The physical peculiarity of this word
 makes it forever different from the same word on a different page. Taken as
@@ -658,8 +59,6 @@ influential essay "Print Is Flat, Code Is Deep," Katherine Hayles writes about
 "the interplay between a text's physical characteristics and its signifying
 strategies" [@hayles_print_2004, 72].
 
-#### Plato
-
 Like many foundational dichotomies in the Western tradition, the distinction
 between form and content has its roots in Platonic thought. For Plato, the
 "essence" or an "idea" of something (like a chair) exists in an ideal,
@@ -674,7 +73,7 @@ abstract "object classes" and invoking them as "class instances"
 [@hoare_record_1965; @nygaard_history_1981]. Similarly, for Plato and later for
 René Descartes, G.W.F. Hegel, and other so-called "idealists," ideas provide us
 with lasting universal "templates" for instantiation within the contingent and
-always changing physical confines of the material world.[^ln3-descartes]
+always changing physical confines of the material world.[^ln4-descartes]
 
 In Plato we find a number of words that, depending on the translation, stand in
 for the English "form." These include *eidos* (essence), *idea* (idea),
@@ -725,12 +124,10 @@ of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos* stands for
 the "universal lasting ideal" of all shuttles: exactly the opposite of
 *phantazomenōn* as "ephemeral instantiation" in the previous passage! Yet both
 *eidos* and *phantazomenōn* were reasonably translated into English as "form,"
-indicating a fundamental overloading of the concept.[^ln3-plato]
+indicating a fundamental overloading of the concept.[^ln4-plato]
 
-#### Hegel
-
-G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy between
-form and content in the literature on aesthetics. In his *Lectures on
+G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy
+between form and content in the literature on aesthetics. In his *Lectures on
 Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
 between its ideational, spiritual content and "the configuration of sensuous
 material" [@hegel_hegels_1998, 70]. Whole books have been written on Hegel's
@@ -739,9 +136,9 @@ terms precisely, Hegel likes to bombard his reader with semantic cognates. On
 the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
 (*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
 (*Geist*). All of these convey a movement inward to a location (if it can be
-called such) beyond the physical world, accessible only to the spirit (*Geist*)
-or mind (*Gedanken*, *Verstand*). On the side of "form" (same in German), Hegel
-accumulates words like expression (*Ausdruck*) and presentation
+called such) beyond the physical world, accessible only to the spirit
+(*Geist*) or mind (*Gedanken*, *Verstand*). On the side of "form" (same in
+German), Hegel accumulates words like expression (*Ausdruck*) and presentation
 (*Darstellung*), but also lines, curves, surfaces, carvings, colors, tones,
 word sounds, and generally matter or material (*Linien*, *Krümmungen*,
 *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*)
@@ -822,8 +219,6 @@ dimension. Where we began with binaries of depth and surface, meaning and
 matter, we end with a third: the synthetic document itself that combines
 formula and location, shape and thought, conceit and device, where the embodied
 meets the ideal.
-
-#### Sound and Formula (formalism)
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -907,7 +302,7 @@ and symbol. In this vein, the Italian futurist Filippo Marinetti wrote about
 the "grotesque funeral" of romantic notions of beauty, and the rise of a new
 "geometric and mechanical splendor." His generation was instead "in love with
 matter," wanting "to penetrate it and to understand its vibrations"
-[@marinetti_marinetti:_1972, ???].[^ln3-marinetti] Art cannot be reduced to
+[@marinetti_marinetti:_1972, ???].[^ln4-marinetti] Art cannot be reduced to
 "thinking in symbols" Viktor Shklovsky, a prominent Russian formalist, wrote in
 1917. Meaning "dies" and "becomes invisible" through frequent use. Such dead
 and transparent language can no longer evoke wonder or curiosity. For Shklovsky
@@ -977,7 +372,7 @@ Three of the sixteen essays, however, strike in another direction. Shklovsky's
 Eichenbaum's "How the *Overcoat* Is Made," constitute a cluster of essays that
 deals with narrative structure rather than phonetic image. Translators commonly
 render the Russian *priem* as the English "device," although both authors
-clearly mean "device" in the sense of "technique" or "move,"[^ln3-move] and not
+clearly mean "device" in the sense of "technique" or "move,"[^ln4-move] and not
 in the sense of "appliance" or "gadget." To this strain of formalism one could
 also adduce Vladimir Propp's well-known *Morphology of the Folktale*, a text
 that finds a limited number of universal formulas in the multiplicity of
@@ -1020,12 +415,9 @@ ossified image (as in Shklovsky's *uao*).
 
 The contradiction of understanding form as sound and form as formula lies at
 the center of formalist poetics. As critics, the formalists privileged moments
-of mystic and transrational poetic rebellion against static literary forms. As
-literary scholars, they reached for Hegel's concrete universal in the guise of
-transhuman formulae that have a life of their own.
-
-[^ln3-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
-"move" in Judo, and a part of *Koshi-Waza* or "hip technique."
+of mystic and trans-rational [*zaum*] poetic rebellion against static literary
+forms. As literary scholars, they reached for Hegel's concrete universal in
+the guise of trans-human formulae that have a life of their own.
 
 Where we started with a dichotomy, we arrive at a tripartite model of
 textuality in which form bridges matter and content. The history of Western
@@ -1037,7 +429,7 @@ for "what lies in plain sight." But the very words "matter," "form," and
 "content" often tangle in the conceptual confusion of texts that resist being
 pinned down to any single stratum of interpretation. I am trying to understand,
 for example, what Roland Barthes means by the distinction between "work" and
-"text" in his seminal essay on textuality.[^ln3-barthes] For Barthes, the work
+"text" in his seminal essay on textuality.[^ln4-barthes] For Barthes, the work
 has something to do with paper, bookshelves, and, more generally, substance. By
 contrast, text is something "radically symbolic," something that moves across
 works, not bound to any specific matter. Barthes's "texts" sound like ideas,
@@ -1090,10 +482,8 @@ afar to within logically completes the program of "intellect augmentation"---a
 program which begins not with Vannevar Bush, J.C.R. Licklider, and Douglas
 Engelbart (who used the term extensively), and not with *Xerox*, the ultimate
 purveyors of radical surface reading, but with the invention of writing itself.
-Reading "for meaning," in these not at all futuristic conditions,[^ln3-reading]
+Reading "for meaning," in these not at all futuristic conditions,[^ln4-reading]
 involves turning hermeneutics into reverse engineering.
-
-#### Sontag
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
 deemed the "sensory experience" or the "erotics" of art. In her now classic
@@ -1134,8 +524,6 @@ something, but Sontag wants to stop short of meaning making. A discipline of
 careful perception---of paying attention---rather sharpens the reader's
 sensibilities.
 
-#### Jameson, Marcus, Best.
-
 The history of interpretation Sontag objects to is one that privileges content
 over form. The very words "explication" and "exegesis" imply the movement from
 inside to the outside. For a psychoanalytical critic interpretation in that
@@ -1150,10 +538,7 @@ original message, the original experience, beneath the distortions of the
 various kinds of censorship that have been at work upon it; and this revelation
 takes the form of an explanation of why the content was so distorted and is
 thus inseparable from a description of the mechanisms of the censorship itself
-[@jameson_marxism_1972, 404[.
-
-#### Conclusion
-
+[@jameson_marxism_1972, 404].
 
 Although the distinction between form and content is somewhat naturalized in
 literary and linguistic discourse, the concept of form is also often used in
@@ -1171,9 +556,7 @@ things seem to be in play rather than two: matter, form, and content. And of
 these, form sometimes falls into the category of meaningless matter and
 sometimes into semantic-carrying ideation: form, the indeterminate.
 
-
-
-### 4.4 Document Object Model
+### 4.2 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -1326,13 +709,13 @@ onto paper, or publishing it online, for example. It is at this moment that the
 full weight of Hegelian "universal concrete" makes itself known. The "concrete"
 object in the Document Object Model is still only a *description* of the
 two-dimensional space and represents some "possible formatted images of
-abstract objects."[^ln3-dom] To repeat: the concrete object represents
+abstract objects."[^ln4-dom] To repeat: the concrete object represents
 "possible" formatted images, and not yet actual formatted images! To actualize
 materially, the document must be fixed and flattened back out onto a medium
 such as a screen or paper. These media have actual dimensions. In this way, a
 footnote placed at the bottom of the page at the level of concrete object can
 then be rendered at the bottom of an A1 (841mm × 1,189mm) size piece of paper
-or at the bottom of a much smaller A4-sized sheet (210mm × 297mm).[^ln3-iso216]
+or at the bottom of a much smaller A4-sized sheet (210mm × 297mm).[^ln4-iso216]
 
 In yet another formative paper in the history of contemporary textuality, Brian
 Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
@@ -1390,41 +773,46 @@ conditions of contemporary text production.
 necessarily correspond to text structures at "user terminal" or "line printer"
 levels [@madnick_script_1968, 98].](images/script.png)
 
-[^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
+<!-- notes -->
+<!-- notes -->
+<!-- notes -->
+
+[^ln4-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
 one or more two dimensional page spaces and represent possible formatted images
 of abstract objects."
 
-[^ln3-iso216]: A series of paper sizes are governed by the International
+[^ln4-iso216]: A series of paper sizes are governed by the International
 Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
 8.27in × 11.7in respectively
 [@international_organization_for_standardization_writing_1975].
 
-### Notes
+[^ln4-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
+"move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
-[^ln2-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
+[^ln4-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
 in the history of writing technologies in that they present a premeditated
 material environment built and engineered to propagate an illusion of
 immateriality; the digital nature of computational representation is precisely
 what enables this illusion---or else call it a working model---of immaterial
 behavior" [@kirschenbaum_mechanisms_2012, 135].
 
-[^ln2-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+[^ln4-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
-[^ln2-root]: @stoltz_is_2013
+[^ln4-root]: @stoltz_is_2013
 
-[^ln2-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+[^ln4-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
 International Organization for Standardization in 1984, as ISO 7498.
 
-[^ln2-layers]: The full OSI protocol stack includes Application, Presentation,
+[^ln4-layers]: The full OSI protocol stack includes Application, Presentation,
 Session, Transport, Network, Data Link, and Physical layers
 [@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
 @day_revised_1995].
 
-[^ln2-smart]: For examples see @grundy_information_1994;
+[^ln4-smart]: For examples see @grundy_information_1994;
 @kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
 
-[^ln2-plato]: My reading of Plato would be impossible without help from the
+[^ln4-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
 originals side-by-side with translations, maps, dictionaries, and other
 parallel texts. Sources consulted on Plato's theory of forms include
@@ -1432,13 +820,13 @@ parallel texts. Sources consulted on Plato's theory of forms include
 @woods_form_1993. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
 
-[^ln2-reading]: All of the technologies I list here exist today (in the second
+[^ln4-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
 
 [^ln4-translate]: Translations are mine, unless cited otherwise.
 
-[^ln2-barthes]: "The work is a fragment of substance," he writes. The work is
+[^ln4-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
 space of books," where the text is "a process of demonstration," "experienced
 only in an activity of production." He writes also that "the Text cannot stop
@@ -1446,7 +834,7 @@ only in an activity of production." He writes also that "the Text cannot stop
 across (in particular, it can cut across the work, several works)"
 [@barthes_work_1978, 156-7].
 
-[^ln2-descartes]: It is difficult to resist quoting from Descartes's
+[^ln4-descartes]: It is difficult to resist quoting from Descartes's
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
 consider the things that people ordinarily think they understand best of all,
 namely the bodies that we touch and see. I don't mean bodies in general---for
@@ -1465,29 +853,29 @@ understood so clearly? Evidently it was not any of the features that the senses
 told me of; for all of them---brought to me through taste, smell, sight, touch
 or hearing---have now altered, yet it is still the same wax."
 
-[^ln2-marinetti]: "Il nostro amore crescente per la materia, la volontà di
+[^ln4-marinetti]: "Il nostro amore crescente per la materia, la volontà di
 penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
 motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
 meccanico e la sensibilità numerica]
 
-[^ln2-echenbaum]: "Что касается 'формы', то формалистам было важно только
+[^ln4-echenbaum]: "Что касается 'формы', то формалистам было важно только
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-[^ln2-translate]: "In our discussion of this text we have been using an
+[^ln4-translate]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
 In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
 71]."
 
-[^ln2-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+[^ln4-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
 Principle Researcher at Microsoft Research and then a professor at the
 University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
 appeared in the same volume of collected essays, @herken_universal_1988.
 
-[^ln2-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+[^ln4-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
 the "application layer" and the bottom-most layer the "physical layer"
 [@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
@@ -1495,7 +883,7 @@ being "responsible for encoding bits onto a transmission medium, whether wires,
 fiber optics, or radio broadcast, in ways that maximize the transmission rate
 and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
 
-[^ln2-abstraction]: This is a topic of some contention in the literature. In
+[^ln4-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
 software as one of the "three myths" of computer science. "As a practical
 matter, what we regard as computer instructions, and consequently what we
@@ -1504,13 +892,13 @@ regard as computer programs, is determined by computers available," he writes
 abstract artifact, akin to a musical work [@irmak_software_2012]. See also
 @turner_programming_2013; @colburn_software_1999.
 
-[^ln2-turing]: The intellectual history of the Turing machine is well
+[^ln4-turing]: The intellectual history of the Turing machine is well
 established, in multiple works on the subject. It follows the Greek Diophantus,
 René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln2-alt]: "We have to think (in a completely novel way) the relation between
+[^ln4-alt]: "We have to think (in a completely novel way) the relation between
 a science and the ideology [...] the fact that such an investigation confronts
 us with the observation that every science, in the relationship it has with
 ideology it emerged from, can only be thought as a 'science of ideology, would
@@ -1518,7 +906,7 @@ disconcert us, were we not forewarned of the name of the *object* of knowledge,
 which can only exist in the form of ideology" [@althusser_reproduction_2014,
 46].
 
-[^ln2-derr]: See @derrida_writing_1978. I am alluding particularly to
+[^ln4-derr]: See @derrida_writing_1978. I am alluding particularly to
 statements like "ethnology-like any science-comes about within the element of
 discourse," and "this moment was that in which language invaded the universal
 problematic; that in which, in the absence of a center or origin, everything
@@ -1534,7 +922,7 @@ coupled with control codes that govern layout and projection in specific
 material context. Together, these diverse signals and physical affordances
 create the illusion of a single text.
 
-[^ln2-flip]: There is a long-standing joke in Marxist literature that involves
+[^ln4-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
 and material forms of life, over "back to his feet." See for example
 @marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
@@ -1555,10 +943,124 @@ before, and placed on its feet again" (44).  p5
 nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 @susina_why_2001, 16-7].
 
-[^ln-dead]: For a book length summary on this very topic see
+[^ln4-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
 
-### Cuts
+### 4.3 Speculative Formalism
 
-"familiar with fabrication" "alienated objects" [@hegel_aesthetics:_1975,
-261]. "things not dead or killed by custom" "his own production"
+In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
+Halstead noted that "the practical upper limits of speed will also be limited
+by the ability of some human beings to operate a keyboard, until such time as
+electrical connection be made direct with the receiver's central nervous
+system" [@halstead_genesis_1949, 451].
+
+Speculative formalism involves imagining structures on the cusp of being. The 
+
+The second and more radical idea related to non-representational elements of
+communication lies in the possibility of "direct" brain-to-brain interfaces.
+F16. Joystick that feels. The electrical system we saw emerge in chapters one
+and two can be wired directly in the central nervous system. Not science
+fiction. But note that communication is only direct in the sense that the
+sender and the receiver of such a message do not have recourse to external
+representation. Yet, such communication would still be subject to conditions
+we have already explored in the telegraph chapter. Something has to mediate:
+to translate between brain impulses and the transmission apparatus. Such
+"direct" communication would therefore still be mediated. Can literature
+survive non representation. I want to imagine.
+
+Essential for the practices of unencumbered critical thought, control
+structures exist in the gaps within the splintered sign. Ultimately, parts of
+the inscription that remain invisible affect more than typesetting
+characteristics. They shape the very structure of interpretation. The
+seemingly innocuous control and formatting layer contains the essence of
+machine control. Long a marginal concept in literary theory, formatting is
+therefore central to the practice of computational hermeneutics. Far from mere
+inconsequential embellishment, formatting governs the interface between
+meaning and matter, thought and page. It has the capability to embellish, to
+obscure, to censor, to govern, and to emend.
+
+The attached documents illustrate my thesis in practice. In the first image
+the reader will find a visual "dotplot" representation of Laurence Sterne's
+*The Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file
+format. To produce the image, I use the Helfman's self-similarity dotplot
+approach. Dotplots, as Helfman explains, "reveal similarity structures in data
+regardless of format and in text and software regardless of language"
+[@helfman_dotplot_1996]. They can be used for authorship identification,
+plagiarism detection, or to find similarity in genetic material. The
+following, is a simple dotplot from Shakespeare:
+
++----+---+---+---+----+---+---+ |    |to |be |or |not |to |be |
++====+===+===+===+====+===+===+ |to  | • |   |   |    | • |   |
++----+---+---+---+----+---+---+ |be  |   | • |   |    |   | • |
++----+---+---+---+----+---+---+ |or  |   |   | • |    |   |   |
++----+---+---+---+----+---+---+ |not |   |   |   | •  |   |   |
++----+---+---+---+----+---+---+ |to  | • |   |   |    | • |   |
++----+---+---+---+----+---+---+ |be  |   | • |   |    |   | • |
++----+---+---+---+----+---+---+
+
+Table: "Six words of Shakespeare." @helfman_dotplot_1996
+
+When applied to raw, binary data, self-similarity plots can be used to study
+data structures, to identify security threats, and to reverse engineer unknown
+file types. Note that, at this level, we are not observing patterns of meaning
+(as repetition of words or word clusters), but rather structural patterns in
+the underlying bit structure. We cannot tell from the image what these
+structures mean, only that they have a particular shape. Structure, in this
+sense, indicates architecture by human hand. We expect random data to render
+into undifferentiated patternless noise. By contrast, file formats, like the
+common `.docx` and `.mobi` files, will leave a recognizable signature, even
+when corrupted. The sparse topography of the `.txt` file in the first image
+indicates a relative paucity in bit types.  Plain text formats are limited to
+human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
+file). The square on the lower right likely represents lower case letters,
+with the other two squares showing capitals and punctuation.
+
+The second image (Fig. 12) shows the same novel encoded into the popular
+Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
+device, for example. While the plain text signature is still present, other
+structures now also come into view. These are not human-legible under closer
+examination (using a hex-editor for example) because the data is encrypted.
+The plain text characters remaining comprise snippets of code, and some light
+header and footer information, identifying the file to reader applications.
+
+To produce the third image (Fig. 13), I encode the plain text version of the
+novel into the Portable Document Format (`.pdf`), another commonly circulated
+binary format for document storage. In an additional step, I use code
+injection techniques outlined in @rahman_getting_2010,
+@stevens_malicious_2011, and @maiorca_looking_2013 to introduce a malicious
+script into the header of the file. Depending on the version of the reader's
+Adobe Acrobat Reader, the code will execute when opening the document, with
+the potential of causing significant corruption to the system. The injection
+is clearly visible in the image, manifesting as a "cavity" of un-encrypted
+characters. Steps could be taken to further mask the malicious script,
+blending it with the background encrypted bit structure (shown as speckled
+noise), which would make the injection more difficult to detect.
+
+!["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt`
+format.  Unaltered.](images/txt.png)
+
+!["Binary file structure II." Laurence Sterne's *Tristram Shandy*, in `.mobi`
+format.  Unaltered.](images/mobi.png)
+
+!["Binary file structure III." Malicious code injection into the text of
+Laurence Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating
+presence of injected code.](images/pdf.png)
+
+In conclusion, I do not mean to imply that the "closest possible" reading of
+this sort, at the circuit and magnetic storage level, will somehow come to
+supplement reading at the surface for meaning and representation.
+Microanalysis is meant to complement close reading: giving it proper scope in
+time and space for its operation. But reading at the surface alone also risks
+losing sight of the naked struggle for power and control at the device level.
+The machine *can* determine the message when unchecked. In these conditions,
+reading without depth may struggle to even locate its object of study, as
+surface representations change dynamically, tailoring themselves to fit the
+reader's mood, to match the environment, or to please some remote censor.
+Best, Marcus, and Sontag are right in treating claims to symptomatic reading
+with suspicion, as claims to power. The reader of depth divines secret
+knowledge, with or without merit, creating an imbalance of interpretation.
+Critical reading in all dimensions must therefore begin with the ethics of
+mutual legibility. It succeeds when readers reclaim the underlying material
+conditions of their meaning making. The very architects of the "smart"
+literary device tell us: the answer to the machine remains in the machine.
+

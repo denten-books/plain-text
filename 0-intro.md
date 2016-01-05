@@ -111,16 +111,16 @@ affinity with a particular mode of computational meaning-making. Plain text
 identifies a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." Plain text stands in
 opposition to "fancy text," "text representation consisting of plain text plus
-added information."[^ln-uni] In the tradition of American textual criticism,
-"plain text" alludes to an editorial method of text transcription which is
-both "faithful to the source" and is "easier to read than the original
-document" [@cook_time-bounded_1972]. Combining these two traditions, I mean
-ultimately to build a case for a kind of a systematic minimalism when it comes
-to our use of computers---a minimalism that privileges access to source
-materials, ensuring legibility and comprehension. I do so in contrast with
-other available modes of human--computer interaction, which instead privilege
-maximizing system--centric ideals like efficiency, speed, performance, or
-security.
+added information" [@unicode_consortium_unicode_1990]. In the tradition of
+American textual criticism, "plain text" alludes to an editorial method of
+text transcription which is both "faithful to the source" and is "easier to
+read than the original document" [@cook_time-bounded_1972]. Combining these
+two traditions, I mean ultimately to build a case for a kind of a systematic
+minimalism when it comes to our use of computers---a minimalism that
+privileges access to source materials, ensuring legibility and comprehension.
+I do so in contrast with other available modes of human--computer interaction,
+which instead privilege maximizing system--centric ideals like efficiency,
+speed, performance, or security.
 
 My use of plain text implies also a poetics of reading and writing. The title
 therefore further identifies an interpretive stance one can assume in relation
@@ -527,9 +527,6 @@ another complex chain of mediation. Writing in that sense in itself becomes an
 experience both programmed and simulated. We do not write in the conventional
 sense of inscribing marks into a static medium. Rather, we are shown images of
 inscription superimposed onto a simulation of the medium.
-
-!["Images of inscription superimposed onto a simulation of the
-medium."](images/page.png)
 
 Neither the digital word nor the digital page exist in the way that they
 appear in the word processor. At best, such composite tropes attain a measure
@@ -1021,9 +1018,6 @@ things, but that they enact change in the world.
 
 [^ln-brik]: @brik_poetika_1919, 104. Translations are mine unless source cited explicitly in
 English.
-
-[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
-Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
 
 [^ln-varela]: See @varela_autopoiesis_1974; @barthes_rustle_1989, 5;
 @nuttall_new_2007, 6-25.
