@@ -374,67 +374,71 @@ grasps for neutered metaphors. We "reside" in such homes, "own," "share," and
 "create" only in the simulacrum.
 
 The metaphors of human-computer interaction conceal the structure of
-computation. Print is a relatively static, stable medium for knowledge
-transmission. The ink and paper do not change in transit. By contrast, the
-vessels of computation are capable of altering the content dynamically.
-Imagine me asking you to read Shakespeare's *Hamlet*, for example, by lending
-you a copy of the text. In the case of a paper book, I may be sure that the
-text in my hands will remain the same as I pass it into yours. But the
-computed sign has the capability to adjust itself to new contexts. The
+computation. Print offers a relatively static and stable medium for knowledge
+transmission. Ink and paper do not change in transit. By contrast, the vessels
+of computation are capable of altering the content dynamically.  Imagine me
+asking you to read Shakespeare's *Hamlet*, for example, by lending you a copy
+of the text. In the case of a paper book, I may be sure that the text in my
+hands will remain the same as I pass it into yours. But the computed sign also
+has the capability to adjust itself to new contexts. For example, the
 simulated *Hamlet* may adapt to the new reader's geographic location, mood, or
-political affiliation. Most texts we consume today come to us in such
-computationally personalized way. The front page of the New York Times viewed
-in Beijing will differ from the front page viewed in New York. They are in
-some sense two completely different texts. But in another sense, the "front
-page" identifies the same location of the same text, in two diverging and
-dynamically composed versions. The same code produces both versions. The
-source code contains the possibility of both. Nothing is guaranteed in the
-passage of electronic text from one pair of hands into another. Digital
+political affiliation. In fact, most texts we consume today come to us in such
+computationally constructed way. The front page of the New York Times viewed
+in Beijing will differ from the front page viewed in New York. The two "pages"
+or "sites" are in some sense two completely different texts. But in another
+sense, the "front page" identifies the same location of the same text, in two
+diverging and dynamically composed versions. They feed off of the same
+sources. The same source code gives rise to both texts. Nothing is guaranteed
+in the passage of electronic text from one pair of hands into another. Digital
 formatting expands its purview far beyond typographical convention. The
 erasure of words, word substitution, automatic summarization, wholesale
 generation of discourse by algorithmic means---the command and control layer
 contains all such possibilities. What does it mean to read and to interpret a
 dynamic text, which changes depending on its context? How can literary
-analysis---close reading, philology, hermeneutics---persist without fixity?
+analysis---close reading, philology, hermeneutics---persist without the fixity
+of print?
 
 The key to understanding "the loss of resemblances" that accompanies
-ubiquitous simulation lies in the structure of the interface metaphor. A
-functioning metaphor, if you would recall from George Lakoff, is one in which
-the schematic structure of one domain is in some way transposed into another.
-Thus to say "life is a stage" is to transpose something about theater onto
-life. In literary terms, the theater is "tenor" where "life" is "vehicle" of
-the composite figure [@richards_philosophy_1936].
+ubiquitous simulation lies in the inner dynamics of metaphor machinery.  A
+functioning metaphor, if you would recall from Lakoff, is one which ferries
+the schematic composition of one domain into another. Thus to say "life is a
+stage" is to transpose something about theater onto life. In literary terms,
+the theater is "tenor" where "life" is "vehicle" of the composite figure
+[@richards_philosophy_1936]. Simulation works differently. Where the
+traditional metaphor structures across two domains, the simulation substitutes
+the "signs of the real for the real" [@baudrillard_simulacra_1994, 2]. It is a
+subtle difference that engenders not-so-subtle effects. For example, it is one
+thing to say "you are the apple of my eye" and quite another to actually
+confuse eye pupils and apples. Baudrillard gives the example of a map that no
+longer corresponds to any territory. He calls such a condition of pure
+simulation without a referent *hyper-reality*. We expect a simulation to
+attain a measure of correspondence between representation and the thing being
+represented. For example, in theory, a weather simulation should be capable of
+modeling observed meteorological conditions. But would it be a weather
+simulation if the model was broken in some way, or, in the extreme, if it had
+no correspondence to the physics of meteorology? The hyper-real breaks further
+still by usurping the underlying reality. The model does not merely obscure,
+it takes place of the thing being modeled. In other words, it begins to
+simulate itself, according to its own rules. The simulation no longer
+corresponds to any situation "on the ground." Severed from the referent, the
+symbol itself attains the status of reality. Thus hyper-reality: a symbol that
+folds onto itself. It is a weather simulation confused for weather.
 
-Simulation is a special kind of a metaphor. Where the traditional metaphor
-substitutes one idea for another, a simulation substitutes the "signs of the
-real for the real" [@baudrillard_simulacra_1994, 2]. It is a subtle difference
-that engenders not-so-subtle effects. For example, it is one thing to say "you
-are the apple of my eye" and quite another to actually confuse eye pupils and
-apples. Baudrillard gives the example of a map that no longer corresponds to
-any territory. He calls such a condition of pure simulation without a referent
-*hyper-reality*. We expect the simulation to attain a measure of
-correspondence between representation and the thing being represented. For
-example a weather simulation should in theory model the observed
-meteorological conditions. But the hyper-real sign is one where the referent
-is missing. It is weather simulation that in no way corresponds to the
-"situation on the ground." Severed from the referent, the symbol itself
-attains the status of reality. Thus hyper-reality: a symbol that folds onto
-itself. It is a weather simulation confused for weather.
-
-More than causing confusion, the metaphor broken in the above ways occludes
-the realities of the simulation. Simulation should, by definition, "assume a
-form resembling that of something else" [@_simulation_2015]. The broken
-interface metaphor assumes the form of one thing, while manipulating another.
-For example, to drag and drop a document into a trashcan on the screen, should
-in theory corresponds to an analogous set of of data manipulations on the
-disk. Yet, "discarding a file" in this manner does not necessarily include
-deletion of data from storage media, as expected. The representation of the
-document may disappear on the screen where the inscription endures. The loss
-of resemblances is insignificant in most cases. But in some cases, when it
-really matters---under the threat of censorship or persecution, for
-example---the incongruence exposes the frailty of our alienation. It is an
-unprecedented state of affairs: to lose sight of the material realities, made
-all more troubling by the ubiquity of the simulation.
+The interface metaphor does not quite attain the status of hyper-reality.
+Rather, it exchanges one referent for another. Simulation should, by
+definition, "assume a form resembling that of something else"
+[@_simulation_2015]. Metaphor machines assume the form of one thing, while
+structuring another. To drag and drop a document into a trashcan on the
+screen, for example, should in theory correspond to an analogous set of of
+data manipulations on the disk. Yet, "discarding a file" in this manner does
+not necessarily include deletion of data from the storage medium, as expected.
+The representation of the document may disappear visually where the
+inscription endures. Such "loss of resemblances" could be insignificant. Do
+care if the file was actually deleted or not when performing deletion? Perhaps
+not in most cases. But in some cases, when it really matters---under the
+threat of censorship or persecution, for example---the incongruence exposes
+the frailty of our alienation. Our grasp of the material contingencies weakens
+the more convincing the simulacrum.
 
 Consider the commonplace task of "turning pages" in the act of writing or
 reading digital texts. In cognitive linguistic terms, the idea of paper pages
@@ -444,19 +448,19 @@ paper pagination. In this way, the turning of simulated pages implies a
 certain familiar arrangement of matter. Readers know what to do with paper
 pages. They understand its affordances. The metaphor encourages readers to
 extend their knowledge of the physical world into the projected, virtual
-world.  For example, paper pages can be turned. We know they usually proceed
+world. For example, paper pages can be turned. We know they usually proceed
 one another, sequentially. And we are attuned to expect the same attributes to
-hold true in the vehicle---the domain receiving the tenor of the simulation.
+hold true in the vehicle---the domain receiving the tenor of the metaphor.
 The action of turning virtual pages should, in theory, set off a series of
 corresponding actions in the target digital domain. In other words, turning
 the page on the screen should correspond to a similar action on the disk. But
-it is not necessarily the action we expect. The arrangement of information
-stored on the disk affords different physical actions from the arrangement of
-information on a page. An English-language character on the disk occupies
-eight bits, or units information, on a disk where a print character occupies
-one. The disk can tolerate millions of rewrites, where the paper medium wears
-out after only a few. The paper inscription is visible to the naked eye where
-the digital inscription is not.
+the action does necessarily meet our expectations. The arrangement of
+information stored on the disk affords different physical actions from the
+arrangement of information on a page. An English-language character on the
+disk occupies eight bits on a disk where a print character occupies one. The
+disk can tolerate millions of rewrites, where the paper medium wears out after
+only a few. The paper inscription is visible to the naked eye where the
+digital inscription is not.
 
 The simulation is necessary perhaps, because the reading and writing of
 digital data can involve processes far outside of everyday experience. For
@@ -475,14 +479,14 @@ arbitrary connection to the structure of the other. Consequently change in the
 structure of one domain do not necessitate changes in the structure of
 another: to "erase a word" on a projected, virtual page thus may not have the
 corresponding effect on the level of the storage medium. The information may
-persist despite the intended erasure. We hope, in other words, that the
-analogy between paper and pixel can achieve a level of verisimilitude.
-Turning the page or erasing a word on the screen should do something similar
-on the disk. But we also know that not to be the case. The metaphor is broken
-similar to Baudrillard's map that no longer reflects any terrain. The
-computational metaphor simulates the familiar but absent affordances tied to a
-print artifact. The simulation suggests a structuring of one kind, but enacts
-a structure of another.
+persist despite the intended erasure. We hope that the analogy between paper
+and pixel achieves a level of verisimilitude. Turning the page or erasing a
+word on the screen should do something similar on the disk. But we also know
+that not to be the case. The metaphor is broken similar to Baudrillard's map
+that no longer reflects any terrain. The computational metaphor simulates the
+familiar but absent affordances tied to an absent print artifact. The
+simulation suggests a structuring of one kind, while enacting a structure of
+another.
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
