@@ -720,9 +720,29 @@ Example.
 
 Combined with. gave rise to what you see is what you get. Example.
 
-Problems. 
+Problems. Direct is not quite direct. Mediation.
 
 ### 4.4 Direct Manipulation (Speculative Formalism)
+
+In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
+Halstead noted that "the practical upper limits of speed will also be limited
+by the ability of some human beings to operate a keyboard, until such time as
+electrical connection be made direct with the receiver's central nervous
+system" [@halstead_genesis_1949, 451].
+
+Speculative formalism involves imagining structures on the cusp of being. The 
+
+The second and more radical idea related to non-representational elements of
+communication lies in the possibility of "direct" brain-to-brain interfaces.
+F16. Joystick that feels. The electrical system we saw emerge in chapters one
+and two can be wired directly in the central nervous system. Not science
+fiction. But note that communication is only direct in the sense that the
+sender and the receiver of such a message do not have recourse to external
+representation. Yet, such communication would still be subject to conditions
+we have already explored in the telegraph chapter. Something has to mediate:
+to translate between brain impulses and the transmission apparatus. Such
+"direct" communication would therefore still be mediated. Can literature
+survive non representation. I want to imagine.
 
 <!-- notes -->
 <!-- notes -->
