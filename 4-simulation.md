@@ -605,7 +605,7 @@ motivation. The analogy between discarding paper and erasing bits breaks down
 in the worst possible way. The material realities of the metaphor are not
 simply missing, they are misrepresented.
 
-### Mimesis and Mediation
+### 4.3 Mimesis and Mediation
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in the seminal 1984 volume on user centered design edited by
@@ -688,6 +688,21 @@ OK
 >exit
 You're at end of road again.
 ```
+
+Although much more accessible and interactive than communication in octal or
+binary machine code, the conversational model had several significant
+downsides. It resembled human communication, but in fact spoke only a limited
+vocabulary. Researchers from the U.S. Air Force academy would write:
+
+> The lower cost of computer access and the proliferation of on-line systems
+produced a new breed of users, people whose expertise was in some area other
+than computer technology. As their initial fascination with conversational
+computing wore off, users reported experiencing feelings of intense
+frustration and of being "manipulate" by a seemingly unyielding, rigid,
+intolerant dialogue partner [@walther_-line_1974, 379;
+@gaines_timesharing_1986, 15].
+
+### 4.4 Direct Manipulation (Speculative Formalism)
 
 <!-- notes -->
 <!-- notes -->
