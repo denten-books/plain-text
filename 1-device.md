@@ -183,7 +183,9 @@ back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. Roughly: What makes whatever compacts made by past generations still
 valid today?
 
-### Technique
+### 1.1 Technique
+
+<!-- proper citation for webster -->
 
 What sort of a thing is a literary device? The formal concept of a "device,"
 widely used in literary studies, is an artifact of an unfortunate translation
@@ -200,74 +202,75 @@ bereft of their original poetic and evocative power.
 One could write, for example, "a field of study," without much thought about
 figurative space. Shklovsky would have the reader pause to consider the
 implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
-not) a field? The poet could further make the metaphor strange. To evoke a
+not) a field? The poet could further make this metaphor strange. To evoke a
 light-hearted illustration one could write: "to scythe a verdant field of
 literary study." The verb (to scythe) and the adjective (verdant) create an
 unexpected transference of new qualities not present in the original image
-(intellectual field). The introduced qualities "break" or "overdetermine" the
-metaphor, exposing its conceit. The reader can discover "intellectual fields"
-for what they are: habituated metaphors, neither natural nor self-apparent. The
+(intellectual field). These new qualities "overdetermine" the metaphor,
+exposing its conceit. The reader can discover "intellectual fields" for what
+they are: habituated metaphors, neither natural nor self-apparent. The
 metaphor is made strange again through purposeful defamiliarization. To take
 the technique to its logical conclusion, a writer could depict several
 fictional characters in the act of scything a field of grass while discussing
 the relative merits of structuralism: a discussion about the field on a field.
 Such literary artifice would make actual the implied connections between a
-fields of grass and fields of ideas. The writer now shows what was merely told
+field of grass and a field of ideas. The writer now shows what was merely told
 before. The technique of defamiliarization finally renews the figure:
-discarding hardened clichés while suggesting novel linkages between constituent
-concepts: intellectual chaff, leaves of mental grass, the combines of thought.
+discarding hardened clichés while suggesting novel linkages between
+constituent concepts: intellectual chaff, leaves of mental grass, the combines
+of thought.
 
 When pursuing estrangement the author "lays bare" and "makes obvious" the
 metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
 Johnson famously argued, do more than decorate---they structure everyday human
 activity. The metaphor shapes one system of conceptual relationships in terms
 of another. For example, the military image of "fortification defence" implies
-a conceptual system structuring the "defence of an argument"
-[@lakoff_metaphors_1980, 3-14]. When defending the argument, a speaker acts in
-the way that resembles combat. A different metaphor would suggest a less
-combative mode of engagement between interlocutors.
+a conceptual system structuring the "defence of an argument." When defending
+the argument, a speaker subsequently may act in a way that resembles combat. A
+different metaphor would suggest a less combative mode of engagement between
+interlocutors [@lakoff_metaphors_1980, 3-14].
 
-Russian formalists of the early twentieth century did not quite have the
-contemporary cognitive vocabulary to connect mind and symbol, but they did
-understand estrangement as a matter of everyday practice, beyond linguistic
-analysis. Similarly to Moreno, one of Shklovsky's central concerns was with the
-automatization of human experience, by which metaphors lose their evocative
-power through repeated use. Such metaphors become mere machines that convey
-meaning, and, when habituated, disappear from view. According to the Kantian
-view, in vogue in Russia at the time, a reasoned being should proceed through
-life with the assumption of agency, structuring one's own experiences according
-to the principles of free will. The habituated metaphor instead structures
-furtively, obscuring the relationships involved. Consequently, estrangement
-emerges as a model of human liberation. It frees thought from the tyranny of
-automatism [@shklovksy_sborniki_1917, @shklovsky_hod_1923,
-@boym_estrangement_1996, @holquist_minding_2005]. Laying bare the mechanisms of
-the implicit metaphor recovers agency lost to the blind mechanization of
-thought. Through estrangement, readers discover the principles governing their
-actions: free to accept some parts of the conceptual transference (the
-intellectual field *is* "verdant"!) and to reject others (but let us not "use
-combines" to "harvest" it). And perhaps the field should not be a field at all:
-it could be a meadow or a forest.
+The Russian formalists of the early twentieth century understood estrangement
+as a matter of everyday practice, beyond linguistic analysis. Like Moreno,
+Shklovsky was concerned with the automatization of human experience, a process
+by which metaphors lose their evocative power through repeated use. Such
+metaphors become mere machines that convey meaning, and, when habituated,
+disappear from view. According to the Kantian view, in vogue in Russia at the
+time, a reasoned being should proceed through life with the assumption of
+personal free will, structuring one's own experiences according to the
+principles of self-directed action. The habituated metaphor instead guides
+action from without and furtively. It is given rather than understood.
+Estrangement emerges therefore as a model of human liberation. It frees
+thought from the tyranny of automatism [@shklovksy_sborniki_1917,
+@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. By
+laying bare the mechanisms of the implicit metaphor, we are thus able to
+recover agency lost to the blind mechanization of thought. Through
+estrangement readers discover the principles governing their actions: free to
+accept some parts of the conceptual transference (the intellectual field *is*
+"verdant"!) and to reject others (but let us not "use combines" to "harvest"
+it).
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used defamiliarization in the formalist vein often and with
 relentless clinical precision. In the short story "A Guide to Berlin," to which
 D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
-style [@johnson_guide_1979, 354]," Nabokov writes:
+style," Nabokov writes:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
 another, then a third and a fourth---the street's iron entrails, still idle,
-not yet lowered into the ground, deep under the asphalt. For the first few days
-after they were unloaded, with a hollow clanging, from trucks, little boys
-would run on them, up and down, and crawl on all fours through those round
-tunnels, but a week later nobody was playing anymore and thick snow was falling
-instead; and now when, cautiously probing the treacherous glaze of the sidewalk
-with my thick rubber-heeled stick, I go out in the flat gray light of the
-morning, an even stripe of fresh snow stretches along the upper side of each
-black pipe [...] Today someone wrote "Otto" with his finger on the strip of
-virgin snow, and I thought how beautifully that name, with its two soft o's
+not yet lowered into the ground, deep under the asphalt. For the first few
+days after they were unloaded, with a hollow clanging, from trucks, little
+boys would run on them, up and down, and crawl on all fours through those
+round tunnels, but a week later nobody was playing anymore and thick snow was
+falling instead; and now when, cautiously probing the treacherous glaze of the
+sidewalk with my thick rubber-heeled stick, I go out in the flat gray light of
+the morning, an even stripe of fresh snow stretches along the upper side of
+each black pipe [...] Today someone wrote "Otto" with his finger on the strip
+of virgin snow, and I thought how beautifully that name, with its two soft o's
 flanking the pair of gentle consonants suited the silent layer of snow upon
-that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27].
+that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
+@johnson_guide_1979, 354].
 
 The tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical and recursively structured conclusion.
