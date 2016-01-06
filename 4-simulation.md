@@ -704,9 +704,23 @@ intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
 
 By the 1980s, a new breed of metaphorical interfaces gained widespread
-prominence. If *Colossal Cave Adventure* epitomized the conversational
-model of computing, games like the early but popular *Pong*, *Donkey Kong epitomized the paradigm of
-metaphoric "direct manipulation."
+prominence. If *Colossal Cave Adventure* epitomized the conversational model
+of computing, games like the early but popular *Pong*, *Space Invaders*, and
+*Donkey Kong* epitomized the paradigm of "direct manipulation." According to
+the researcher who coined the term, direct manipulation involved three key
+principles:
+
+1. Continuous representation of the object of interest.
+2. Physical actions or labelled button presses instead of complex syntax.
+3. Rapid incremental reversible operations whose impact on the object of
+interest is immediately visible [@shneiderman_future_1982, 251;
+@norman_user_1986, 91].
+
+Example.
+
+Combined with. gave rise to what you see is what you get. Example.
+
+Problems. 
 
 ### 4.4 Direct Manipulation (Speculative Formalism)
 
