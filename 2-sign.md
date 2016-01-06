@@ -1,7 +1,5 @@
 ## Chapter 2: Splitting the Sign
 
-`inscription, encoding, legibility`
-
 > The grand swell of volume between the small input and output need not be
 known to any human mind, but should stay inside the machine
 [@neumann_electronic_1948].
