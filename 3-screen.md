@@ -1,6 +1,5 @@
 # Part II: Surfaces
 ## Chapter 3: Screen
-`medium, mode, digital, analog`
 
 ### Literature Down to the Pixel
 

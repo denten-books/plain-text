@@ -1,5 +1,4 @@
 ## Chapter 4: Format
-`form, formula, document-object model`
 
 I began the book by asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led

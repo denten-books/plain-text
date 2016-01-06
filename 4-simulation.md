@@ -1,7 +1,5 @@
 ## Chapter 4: Simulation
 
-`metaphor machine`
-
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
