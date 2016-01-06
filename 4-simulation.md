@@ -648,19 +648,19 @@ machine language towards interfaces that understood a limited number of
 English words. JOSS, an experimental on-line computing system created by the
 RAND corporation in 1963, consisted of a typewriter connected to the JOHNNIAC
 computer. Prior to JOSS, programmers would interact with the JOHNNIAC machine
-via keyboard and punch card, using first an octal number system and then a
+via keyboard and punch card, initially using octal number notation and then
 binary assembler language [@gruenberger_history_1979]. These methods of
-programming were time consuming and error-prone. "An octal desk calculator was
-nice to have," a historian of the system would later quip
-[@gruenberger_history_1979, 58]. The JOSS experiment was meant to introduce an
-a kind of an interpreter that sat between the human and the machine,
+programming were time consuming and prone to error. "An octal desk calculator
+was nice to have," a historian of the system would later quip
+[@gruenberger_history_1979, 58]. The JOSS experiment was meant to introduce a
+kind of an interpreter that sat between the human and the machine,
 facilitating communication in a more friendlier language. Think of JOSS as the
 "user's computing aide and a single contact with the computer," wrote the
 language designers [@shaw_joss:_1964, 456]. Instead of feeding punch cards
 into the machine, the operator was now able to use a standard typewriter to
 communicate with the machine. JOSS thus referred both to the "simple language"
 and to this new "remote console" way of interacting with the computer. "JOSS
-and the user take turns controlling the typewriter," wrote the authors. The
+and the user take turns controlling the typewriter," the authors wrote. The
 aide understood simple commands like `do`, `go`, and `type`. In most cases it
 would respond with a result of a given computation. When confused, its default
 for an unspecified error was: "Eh" [@shaw_joss:_1964]?
@@ -691,8 +691,9 @@ You're at end of road again.
 
 Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model had several significant
-downsides. It resembled human communication, but in fact spoke only a limited
-vocabulary. Researchers from the U.S. Air Force academy would write:
+downsides. It resembled human communication, but in fact utilized only a
+limited vocabulary. Researchers from the U.S. Air Force academy would later
+write:
 
 > The lower cost of computer access and the proliferation of on-line systems
 produced a new breed of users, people whose expertise was in some area other
@@ -701,6 +702,11 @@ computing wore off, users reported experiencing feelings of intense
 frustration and of being "manipulate" by a seemingly unyielding, rigid,
 intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
+
+By the 1980s, a new breed of metaphorical interfaces gained widespread
+prominence. If *Colossal Cave Adventure* epitomized the conversational
+model of computing, games like the early but popular *Pong*, *Donkey Kong epitomized the paradigm of
+metaphoric "direct manipulation."
 
 ### 4.4 Direct Manipulation (Speculative Formalism)
 

@@ -562,11 +562,11 @@ attempts to describe the essence of Turing computation:
 
 > a criterion [...] that it shall be possible to to devise a computing
 > machine, occupying a finite space, and with working parts of finite size
-[@church_review_1937, 42].
+[@church_computable_1937, 42].
 
 > a human calculator, provided with pencil and paper and explicit
 > instructions, can be regarded as a kind of Turing machine
-> [@church_review_1937, 43].
+> [@church_computable_1937, 43].
 
 > To understand a Turing machine we need only know its table of commands
 > [@kemeny_man_1955;  _turing_2015].
@@ -736,9 +736,9 @@ relationship with symbolic thought. And unless we understand Turing's legacy
 beyond war-making, we risk limiting its creative potential to mechanisms of
 destruction.
 
-[^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a year
-later, Turing's mathematical insight was anticipated by concomitant work in the
-field [@church_review_1937].
+[^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a
+year later, Turing's mathematical insight was anticipated by concomitant work
+in the field [@church_computable_1937].
 
 [^ln1-platotr]: I translate the passage into literal, if awkward, English to
 preserve some of the interesting characteristics of the original Greek. In
