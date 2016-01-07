@@ -9,6 +9,3 @@ which sentences unfold; and the development of ideas over the course of the
 text, which ultimately leads students to arrive at an understanding of the
 text as a whole" [@parcc_parcc_2012, 7]. The general movement here is from
 "text" on the page to "work" (text as a whole, in the language of the report).
-
-### Changing conditions
-

@@ -178,6 +178,7 @@ enforcement [@bbc4_counterfeiting_2013].
 
 
 ## Gerard Genette and Nelson Goodman on the nature of textual copies,
+
 ## 2.5 Marx upside down
 
 It is this last and still current moment of historical development that is

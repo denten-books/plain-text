@@ -4,7 +4,6 @@
 être humains. Il n'y a pas de formes ou de forme. Il n'y a que le
 jaillissement de la vie [@artaud_uvres_1980, 204].
 
-
 Lotman: "the material embodiment of a semiotic system." limited, hierarchical,
 and structured [@lotman].  Derrida: "Everything is a text" .  TEI people: A
 text is an "ordered hierarchy of content objects" [@derose]. Goodman and
@@ -187,8 +186,6 @@ depending on the channel of communication.
 
 
 ## Simulation
-
-Turing's *Computing Machinery and Intelligence*
 
 "But if thinking consists only in writing or speaking, why shouldn't a machine
 do it? Could a machine be in pain" [@wittgenstein_philosophical_1974, 17]?

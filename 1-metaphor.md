@@ -164,7 +164,7 @@ structures in the head, and yet other structures on the disk. The file format
 thus mediates between mental image---information stored in the head---and
 inscription---information stored in the machine.
 
-### 1.2 Structure
+### 1.2 Domain Blending
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
 that we have been discussing so far go under the name of *structural metaphors*.
@@ -336,13 +336,13 @@ digital information stored on computational media directly. Instead, they
 would manipulate digital information by the means of familiar mediating
 structures---paragraphs, pages, files, and folders---associated figuratively
 to the affordances of print media. We know, in other words, what paragraphs,
-pages, files, and folders can do on paper and we would digital paper to behave
-in a similar way. For example, one affordance of paper is that it can be
-folded. It therefore becomes possible to "earmark" a page by folding a corner.
-The fold enables subsequent recollection of read text. By this means, a reader
-is able to mark a notable place in the text and to return to it later quickly,
-if needed. The digital medium cannot physically be folded in the same way
-because it offers a set of affordances that differ from paper. But because
+pages, files, and folders can do on paper and we would like for digital paper
+to behave in a similar way. For example, one affordance of paper is that it
+can be folded. It therefore becomes possible to "earmark" a page by folding a
+corner. The fold enables subsequent recollection of read text. By these means,
+a reader is able to mark a notable place in the text and to return to it later
+quickly, if needed. The digital medium cannot physically be folded in the same
+way because it offers a set of affordances that differ from paper. But because
 readers are not familiar with "what can be done" digitally, the affordances of
 digital media are presented through metaphor. Thus a virtual "earmark" on a
 "page" can be made to represent a numerical pointer to a specific address in
@@ -378,7 +378,7 @@ grasps for neutered metaphors. We "reside" in such homes, "own," "share," and
 The metaphors of human-computer interaction conceal the structure of
 computation. Print offers a relatively static and stable medium for knowledge
 transmission. Ink and paper do not change in transit. By contrast, the vessels
-of computation are capable of altering the content dynamically.  Imagine me
+of computation are capable of altering the content dynamically. Imagine me
 asking you to read Shakespeare's *Hamlet*, for example, by lending you a copy
 of the text. In the case of a paper book, I may be sure that the text in my
 hands will remain the same as I pass it into yours. But the computed sign also
@@ -390,28 +390,29 @@ in Beijing will differ from the front page viewed in New York. The two "pages"
 or "sites" are in some sense two completely different texts. But in another
 sense, the "front page" identifies the same location of the same text, in two
 diverging and dynamically composed versions. They feed off of the same
-sources. The same source code gives rise to both texts. Nothing is guaranteed
-in the passage of electronic text from one pair of hands into another. Digital
-formatting expands its purview far beyond typographical convention. The
-erasure of words, word substitution, automatic summarization, wholesale
-generation of discourse by algorithmic means---the command and control layer
-contains all such possibilities. What does it mean to read and to interpret a
-dynamic text, which changes depending on its context? How can literary
-analysis---close reading, philology, hermeneutics---persist without the fixity
-of print?
+sources. The same source code gives rise to both texts.
+
+Nothing is guaranteed in the passage of electronic text from one pair of hands
+into another. Digital formatting expands its purview far beyond typographical
+convention. The erasure of words, word substitution, automatic summarization,
+wholesale generation of discourse by algorithmic means---the command and
+control layer contains all such possibilities. What does it mean to read and
+to interpret a dynamic text, which changes depending on its context? How can
+literary analysis---close reading, philology, hermeneutics---persist without
+the fixity of print?
 
 The key to understanding "the loss of resemblances" that accompanies
-ubiquitous simulation lies in the inner dynamics of metaphor machinery.  A
+ubiquitous simulation lies in the inner dynamics of metaphor machinery. A
 functioning metaphor, if you would recall from Lakoff, is one which ferries
 the schematic composition of one domain into another. Thus to say "life is a
 stage" is to transpose something about theater onto life. In literary terms,
 the theater is "tenor" where "life" is "vehicle" of the composite figure
-[@richards_philosophy_1936]. Simulation works differently. Where the
-traditional metaphor structures across two domains, the simulation substitutes
-the "signs of the real for the real" [@baudrillard_simulacra_1994, 2]. It is a
+[@richards_philosophy_1936]. Simulations work differently. Where a traditional
+metaphor structure crosses several domains, the simulation substitutes the
+"signs of the real for the real" [@baudrillard_simulacra_1994, 2]. It is a
 subtle difference that engenders not-so-subtle effects. For example, it is one
 thing to say "you are the apple of my eye" and quite another to actually
-confuse eye pupils and apples. Baudrillard gives the example of a map that no
+confuse apples for eye pupils. Baudrillard gives the example of a map that no
 longer corresponds to any territory. He calls such a condition of pure
 simulation without a referent *hyper-reality*. We expect a simulation to
 attain a measure of correspondence between representation and the thing being
@@ -422,25 +423,25 @@ no correspondence to the physics of meteorology? The hyper-real breaks further
 still by usurping the underlying reality. The model does not merely obscure,
 it takes place of the thing being modeled. In other words, it begins to
 simulate itself, according to its own rules. The simulation no longer
-corresponds to any situation "on the ground." Severed from the referent, the
+corresponds to any situation "on the ground." Severed from its referent, the
 symbol itself attains the status of reality. Thus hyper-reality: a symbol that
 folds onto itself. It is a weather simulation confused for weather.
 
-The interface metaphor does not quite attain the status of hyper-reality.
-Rather, it exchanges one referent for another. Simulation should, by
-definition, "assume a form resembling that of something else"
-[@_simulation_2015]. Metaphor machines assume the form of one thing, while
-structuring another. To drag and drop a document into a trashcan on the
+The interface metaphor similarly exchanges one referent for another.
+Simulation should, by definition, "assume a form resembling that of something
+else" [@_simulation_2015]. Metaphor machines assume the form of one thing,
+while structuring another. To drag and drop a document into a trashcan on the
 screen, for example, should in theory correspond to an analogous set of of
 data manipulations on the disk. Yet, "discarding a file" in this manner does
 not necessarily include deletion of data from the storage medium, as expected.
 The representation of the document may disappear visually where the
-inscription endures. Such "loss of resemblances" could be insignificant. Do
-care if the file was actually deleted or not when performing deletion? Perhaps
-not in most cases. But in some cases, when it really matters---under the
-threat of censorship or persecution, for example---the incongruence exposes
-the frailty of our alienation. Our grasp of the material contingencies weakens
-the more convincing the simulacrum.
+inscription endures. Such "loss of resemblances" could be insignificant. Does
+one care if the file was actually deleted or not when performing deletion?
+Perhaps not in many cases. But in some cases, when it really matters---under
+the threat of censorship or persecution, for example---the incongruence
+exposes the frailty of our alienation from the material contexts of digital
+knowledge production. Our grasp on the medium weakens the more convincing the
+simulacrum.
 
 Consider the commonplace task of "turning pages" in the act of writing or
 reading digital texts. In cognitive linguistic terms, the idea of paper pages
@@ -490,7 +491,7 @@ familiar but absent affordances tied to an absent print artifact. The
 simulation suggests a structuring of one kind, while enacting a structure of
 another.
 
-### 1.3 The Death of a Metaphor
+### 1.3 Death of a Metaphor
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
@@ -502,10 +503,10 @@ something like that is happening mentally as well [@lakoff_contemporary_1998,
 211]. A metaphor in a figurative genre like prose or poetry works similarly by
 suggesting novel and hitherto unexplored connections between domains. In his
 influential essay on metaphor the English literary critic I.A. Richards
-explains that "when we use metaphor we have two thoughts of different things
+explained that "when we use metaphor we have two thoughts of different things
 active together and supported by a single word, or phrase, whose meaning is a
 resultant of their interaction" [@richards_philosophy_1936, 95]. Richards's
-radical contribution to the study of metaphor lie in the observation that
+radical contribution to the study of metaphor lay in the observation that
 metaphor operates in language, thought, and action ubiquitously. It does not,
 as previously thought, exist merely in the realm of poetic language. Thought
 in itself, Richards believed, is metaphoric in that the mind continually
@@ -526,7 +527,7 @@ cites the poet Percy Shelley who wrote the following in defence of poetry:
 > thus disorganized, language will be dead to all the nobler purposes of human
 > intercourse [@shelley_essays_1840].
 
-Shelley anticipates what the cognitive school of metaphor theory was to
+Shelley anticipated what the cognitive school of metaphor theory was to
 confirm by empirical means more than a century later [@mojtabai_delusion_2000;
 @billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
 but also become naturalized: that is understood literally. They create
@@ -534,68 +535,19 @@ connections that with time become habituated and invisible to their users. In
 other words, taken for literal truth, the metaphor loses its metaphoric
 quality. For example, for many readers the very idea of a "dead metaphor"
 itself may no longer evoke death as such. Perhaps they understand "death" of
-the dead metaphors to function synonymously with "convention" or
-"idiom."[^ln4-dead] In Shelley view, metaphors are destined to become dead and
-habituated only be reborn again in poetry. At its most generative stage, the
-metaphor actively produces new meaning. The creative juxtaposition between two
-as before unrelated domains brings new aspects of experience to light. But
-with time, the poetic metaphor becomes a tired cliché. It longer "perpetuates
-understanding." It dies in a sense of becoming a mere shortcut to
-understanding.  In Viktor Shklovsky's words, we "cease to experience" the
-trope. The metaphor "dries up" when we begin recognizing it without
-apprehension [@shklovsky_voskreshenie_1914]. It no longer generates new
-connection between domains, but merely reinforces existing ones.
-
-One could write, for example, "a field of study," without much thought about
-figurative space. Shklovsky would have the reader pause to consider the
-implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
-not) a field? The poet could further make this metaphor strange. To evoke a
-light-hearted illustration one could write: "to scythe a verdant field of
-literary study." The verb (to scythe) and the adjective (verdant) create an
-unexpected transference of new qualities not present in the original image
-(intellectual field). These new qualities "overdetermine" the metaphor,
-exposing its conceit. The reader can discover "intellectual fields" for what
-they are: habituated metaphors, neither natural nor self-apparent. The
-metaphor is made strange again through purposeful defamiliarization. To take
-the technique to its logical conclusion, a writer could depict several
-fictional characters in the act of scything a field of grass while discussing
-the relative merits of structuralism: a discussion about the field on a field.
-Such literary artifice would make actual the implied connections between a
-field of grass and a field of ideas. The writer now shows what was merely told
-before. The technique of defamiliarization finally renews the figure:
-discarding hardened clichés while suggesting novel linkages between
-constituent concepts: intellectual chaff, leaves of mental grass, the combines
-of thought.
-
-When pursuing estrangement the author "lays bare" and "makes obvious" the
-metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
-Johnson famously argued, do more than decorate---they structure everyday human
-activity. The metaphor shapes one system of conceptual relationships in terms
-of another. For example, the military image of "fortification defence" implies
-a conceptual system structuring the "defence of an argument." When defending
-the argument, a speaker subsequently may act in a way that resembles combat. A
-different metaphor would suggest a less combative mode of engagement between
-interlocutors [@lakoff_metaphors_1980, 3-14].
-
-The Russian formalists of the early twentieth century understood estrangement
-as a matter of everyday practice, beyond linguistic analysis. Shklovsky and
-his fellow travellers were concerned with the automatization of human
-experience, a process by which metaphors lose their evocative power through
-repeated use. Such metaphors become mere machines that convey meaning, and,
-when habituated, disappear from view. According to the Kantian view, in vogue
-in Russia at the time, a reasoned being should proceed through life with the
-assumption of personal free will, structuring one's own experiences according
-to the principles of self-directed action. The habituated metaphor instead
-guides action from without and furtively. It is given rather than understood.
-Estrangement emerges therefore as a model of human liberation. It frees
-thought from the tyranny of automatism [@shklovksy_sborniki_1917,
-@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. By
-laying bare the mechanisms of the implicit metaphor, we are thus able to
-recover agency lost to the blind mechanization of thought. Through
-estrangement readers discover the principles governing their actions: free to
-accept some parts of the conceptual transference (the intellectual field *is*
-"verdant"!) and to reject others (but let us not "use combines" to "harvest"
-it).
+the "dead metaphors" to function synonymously with "conventional" or
+"idiomatic metaphors."[^ln4-dead] In Shelley view, such metaphors are destined
+to become dead and habituated only be reborn again in poetry. At its most
+generative stage, the metaphor actively produces new meaning. The creative
+juxtaposition between two as before unrelated domains brings new aspects of
+experience to light. But with time, the poetic metaphor becomes a tired
+cliché. It longer "perpetuates understanding." It dies in a sense of becoming
+a mere shortcut to understanding.  In Viktor Shklovsky's words, we "cease to
+experience" the trope. The metaphor "dries up" when we begin recognizing it
+without apprehension [@shklovsky_voskreshenie_1914]. It no longer generates
+new connection between domains, but merely reinforces existing ones. In Vilem
+Flusser's words, habituated idiom proceeds smoothly, giving us no pause,
+without bumps or interruptions [@flusser_freedom_2003, 13 and 82].
 
 Lakoff famously took exception with the idea "dead metaphor," arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
@@ -708,15 +660,15 @@ was nice to have," a historian of the system would later quip
 [@gruenberger_history_1979, 58]. The JOSS experiment was meant to introduce a
 kind of an interpreter that sat between the human and the machine,
 facilitating communication in a more friendlier language. Think of JOSS as the
-"user's computing aide and a single contact with the computer," wrote the
-language designers [@shaw_joss:_1964, 456]. Instead of feeding punch cards
-into the machine, the operator was now able to use a standard typewriter to
-communicate with the machine. JOSS thus referred both to the "simple language"
-and to this new "remote console" way of interacting with the computer. "JOSS
-and the user take turns controlling the typewriter," the authors wrote. The
-aide understood simple commands like `do`, `go`, and `type`. In most cases it
-would respond with a result of a given computation. When confused, its default
-for an unspecified error was: "Eh" [@shaw_joss:_1964]?
+"user's computing aide and a single contact with the computer," the engineers
+wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into the
+machine, the operator was now able to use a standard typewriter to communicate
+with the machine. JOSS thus referred both to the "simple language" and to this
+new "remote console" way of interacting with the computer: "JOSS and the user
+take turns controlling the typewriter." The computerized aide understood
+simple commands like `do`, `go`, and `type`. In most cases it would respond
+with a result of a given computation. When confused, its default for an
+unspecified error was: "Eh" [@shaw_joss:_1964]?
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
@@ -760,14 +712,57 @@ By the 1980s, a new breed of metaphorical interfaces gained widespread
 prominence. If *Colossal Cave Adventure* epitomized the conversational model
 of computing, games like the early but popular *Pong*, *Space Invaders*, and
 *Donkey Kong* epitomized the paradigm of "direct manipulation." According to
-the researcher who coined the term, direct manipulation involved three key
-principles:
+Ben Shneiderman, the researcher who coined the term in 1982, direct
+manipulation involved three key principles:
 
 1. Continuous representation of the object of interest.
 2. Physical actions or labelled button presses instead of complex syntax.
 3. Rapid incremental reversible operations whose impact on the object of
 interest is immediately visible [@shneiderman_future_1982, 251;
 @norman_user_1986, 91].
+
+The dream of direct manipulation was therefore to achieve a perfect
+correspondence between "representation" and the "object of interest."
+Shneiderman sites Leibniz in reference to symbolic notion, which in theory
+should "express the exact nature of a thing briefly and, as it were, picture
+it; then, indeed, the labor of thought is wonderfully diminished"
+(@shneiderman_direct_1983, 57). For Shneiderman and others, a computer game
+like *Pong* provided the paradigmatic example for direct manipulation.  When a
+player rotated a physical knob on gaming console up, or clockwise, the paddle
+on the screen would move up. When the player rotated the knob down, or
+counter-clockwise, the paddle moved down, thus achieving the correspondence
+between "operation" and "impact on the object of interest"
+[@shneiderman_direct_1983, 60]. By contrast, the conversational model of
+human--computer interaction was plagued by what researchers considered an
+arbitrary, symbolic relationship of the sign to its signifier. In this way,
+when using *EMACS*, a text editor commonly found on UNIX systems of the time,
+one would enter the command `k` in combination with other keys to delete or to
+"kill" a file, where on other systems, Shneiderman complains, `k` stands for
+"keep a file," the opposite from killing it [@shneiderman_direct_1983, 65]. In
+the direct manipulation paradigm, the sign stands in an "iconic" relationship
+to the object of interest [@norman_user_1986, 110]. In other words, like
+onomatopoetic words, the representing thing resembles the thing it represents.
+Edwin Hutchins, Donald Norman, and James Hollan write: "There is an economy
+here in that the user's knowledge of the structure of the surface acoustical
+form has a non-arbitrary relationship to meaning [...] The same sort of thing
+can be done in the design of interface languages " [@norman_cognitive_1991,
+123].
+
+Crucially, the immersion in the "mimetic context" of the simulation evoked, in
+the words of Samuel Taylor Coleridge, "the willing suspension of disbelief"
+[@norman_user_1986, 76]. Brenda Laurel, a theater scholar later commissioned
+by Apple Computers to edit a collection of essays intended for employee
+training, expressed the task of interface design in Aristotelian terms,
+calling for the design immersive, interactive, and ultimately cathartic
+experiences. The conversation with the computer of the type elicited by
+*Colossal Cave Adventure* amounts to nothing more than just "using the
+computer" [@norman_user_1986, 74]. "End users are not interested in *making*
+representations," she writes. "They want to move around *inside* one," favoring
+the "mimetic context" over their actual, physical surroundings
+[@norman_user_1986, 75]. Norman and others write that the modeled world should
+support the "sensation of directness," in which direct, iconic expressions
+"behave in such a way that a user can assume that they, in some sense, *are*
+the things they refer to" [@norman_user_1986, 110].
 
 Example.
 
@@ -796,6 +791,7 @@ we have already explored in the telegraph chapter. Something has to mediate:
 to translate between brain impulses and the transmission apparatus. Such
 "direct" communication would therefore still be mediated. Can literature
 survive non representation. I want to imagine.
+
 
 <!-- notes -->
 <!-- notes -->
