@@ -1,188 +1,187 @@
-### Moreno Gun Book
+## Chapter 2: Laying Bare the Device
 
-"The weakest point in our present day universe is the incapacity of man to meet
-the machine, the culture conserve, or the robot, other than through submission,
-actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
-the Austrian-American psychiatrist, Jacob L. Moreno between the years of 1934
-and 1953, in his idiosyncratic, sprawling, and now seldom read volume, *Who
-Shall Survive?* He is remembered today as a pioneer of group therapy and an
-early critic of Freud and socialism. Sociologists have also recently
-rediscovered his work as precursor to network analysis. His books contain
-beautiful diagrams, sprouting nodes and edges, with titles like "Structure of a
-Cottage Family," "A Handicraft Group," and "The Civilian Social Atom." Yet
-Moreno was also a humanist and a philosopher of technology and culture. In
-opposition to eugenics, popular at the time, his answer to "Who Shall Survive?"
-was "everyone" [@moreno_who_1953, 245].
+What sort of a thing is a literary device? The formal concept of a "device,"
+widely used in literary studies, is an artifact of an unfortunate translation
+from Russian. The word *priem* would be much better translated as "technique,"
+in the sense of "method," "approach," or "procedure." The word "device"
+contains these meanings as well, but in modern usage, it usually carries a more
+concrete connotation, as "an object, machine, or piece of equipment that has
+been made for a special purpose" (Merriam-Webster). "Laying bare the device,"
+for Viktor Shklovsky, the Russian formalist critic who coined the phrase, meant
+making explicit the implied mechanism of the metaphor, particularly in cases
+where such metaphors turn "stale," "automatic," and "naturalized," that is,
+bereft of their original poetic and evocative power.
 
-Humanity, according to Moreno, faces two major threats: first embodied in the
-aggression from other human beings, and second, in the aggression of robots
-or, what Moreno alternatively calls the "cultural conserve" and the
-"zootechnical animal" [@moreno_who_1953, 237]. Robots, for Moreno, were more
-than mechanized automatons. "Machine rule" encompasses all devices, social
-structures, and products of the mind that diminish creativity. He writes:
-"these methods have always amounted simply to this---to neglect and abandon
-the genuine and outstanding creative process [...] to extinguish all the
-active, living moments, and to strive towards one unchangeable goal: the
-illusion of the finished, perfected product whose assumed perfectibility was
-an excuse [...] for forsaking its past, for preferring one partial phenomenon
-to the whole reality" [@moreno_who_1953, 233]. The "illusion of the perfected
-product" reduces humans to "machine-addicts," residing in a "jungle of robots"
-that threatens to suffocate all spontaneous activity. Through robots, life
-then becomes a script.
+Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
+heritage, used defamiliarization in the formalist vein often and with
+relentless clinical precision. In the short story "A Guide to Berlin," to which
+D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
+style," Nabokov writes:
 
-In the name of comfort, safety, and prolonged life, technologists and
-population planners disempower the very subjects whose lives they claim to
-preserve. The zootechnical animal substitutes human ability to set goals for
-the promised certainty of a better future. Moreno writes:
+> In front of the house where I live, a gigantic black pipe lies along the
+outer edge of the sidewalk. A couple of feet away, in the same file, lies
+another, then a third and a fourth---the street's iron entrails, still idle,
+not yet lowered into the ground, deep under the asphalt. For the first few
+days after they were unloaded, with a hollow clanging, from trucks, little
+boys would run on them, up and down, and crawl on all fours through those
+round tunnels, but a week later nobody was playing anymore and thick snow was
+falling instead; and now when, cautiously probing the treacherous glaze of the
+sidewalk with my thick rubber-heeled stick, I go out in the flat gray light of
+the morning, an even stripe of fresh snow stretches along the upper side of
+each black pipe [...] Today someone wrote "Otto" with his finger on the strip
+of virgin snow, and I thought how beautifully that name, with its two soft o's
+flanking the pair of gentle consonants suited the silent layer of snow upon
+that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
+@johnson_guide_1979, 354].
 
-> The eugenic dreamer and the technological dreamer have one idea in common to
-substitute and hasten the slow process of nature. Once the creative process is
-encapsulated in a book it is *given*; it can be recapitulated eternally by
-everybody without the effort of creating anew.  Once a machine for a certain
-pattern of performance is invented a certain produce can be turned out in
-infinite numbers practically without effort [...] Once that miraculous eugenic
-formula will be found a human society will be given prefect and smooth at
-birth, like a book of a press [@moreno_who_1953, 236].
+This tightly wound vignette takes the formalist programmatic concern with
+"laying bare the device" to its logical conclusion. The pipes can be read as a
+metaphor for the literary device. Usually found beneath the street, they now
+sit idle and visible above the surface. Yet even when exposed, the device
+fails to captivate for long. Disused, it once again passes out of sight,
+covered in snow. Concerned with surfaces, the narrator "probes the glaze" of
+the street and finds a palindrome written in snow. The inscription "OTTO" not
+only resembles the pipes visually, but is in itself a surface-revealing
+inscription that makes the pipes visible again. Although the metaphoric pipe
+does not reach beyond the page, the mimetic surface inscription draws
+attention to the word's visual shape and acoustics. It invites readers to
+perform the symmetry of its assonance and consonance as they pronounce the
+word. The round vowels and the interrupting obstruents of "OTTO" contort the
+body in accordance with the sound image: reverse mimesis, the body as sound
+pipe. The moment of corporeal reenactment transcends representational and
+paper-bound confines of the medium. The pipes appear briefly on this side of
+the page. The performance makes the "making of the literary technique
+obvious," obvious. In this, lies the prevalent characteristic of Nabokov's
+mature work, which often seeks to rise above the word through sheer recursion
+of literary technique, where each successive turn of abstraction brings the
+buried symbol closer to the reader.
 
-Like king Thamus from Plato's *Phaedrus*, Moreno distrusted rote mechanization
-of thought itself. All forms of externalized algorithmic rule fell under
-suspicion: from central planning, to corporate governance, to machine code,
-and legal codex. For Moreno, such mechanisms served to conserve and to
-externalize human volition. With time, mechanized volition begins to govern
-without consensus or comprehension. Splintered from its source, it staggers
-forth, *golem*-like, through laws, books, and social institutions. Near
-immortal, images of the past proliferate and crowd out the present.  Moreno
-writes:
+<!--- consider a better transition with the notion of cultural technique --->
 
-> Once off the press, the parent, the producer, the author is immaterial; the
-> book goes to all places and to all people, it does not care where it is read
-> and by whom. Many robots have further in common the attribute of comparative
-> immortality. A book, a film, an atomic bomb, they do not perish in the human
-> sense, the same capacity is always there, they can be reproduced *ad
-> infinitum* [...] Our human world is increasingly filled with robots and there
-> seems to be no end to new forms and new developments [@moreno_who_1953, 239].
+Inspired by the formalists, I would like to extend the technique of
+estrangement to books and documents as literal devices. The question of
+literary surfaces gains an instrumental dimension when considered in the
+context of media and book history. Habit hides the peculiarity of our everyday
+interfaces with the word. We read at the surface; we etch inscriptions deep
+within the bowels of a machine. When enacted on the level of the physical
+device, estrangement parallels the practice of exegesis in literary theory.
+The unpacking of literal devices that produce meaning reveals internals that
+structure the reading experience made opaque through artifice and habituation.
+Materialist poetics of the sort I am suggesting here expose the price paid for
+the facility of computed text.
 
-In the aftermath of World War II, Moreno expanded the first edition of his
-book to consider the ultimate automaton, the atomic bomb. "Mankind has been
-awakened from a dream," he writes. The atomic bomb gives humanity a glimpse of
-its common enemy. Technology, for Moreno, does not determine the present
-situation. Rather it is a mindless actor in possession of dead and detached
-human volition. It then begins to compete with living actors for survival.
-Once set in motion, voluntarily, by humans, the war machine and the book alike
-continue to do their bidding blindly. Such structures persist to shape the
-social and the mental worlds to come. Moreno explains:
+For example, we know that physical affordances of liquid crystal displays
+(LCDs) and magnetic storage differ drastically from those of paper, goat
+skins, or parchment. Yet digital surface representation maintains the illusion
+of self-similarity. We are faced with what is called *skeuomorphic* design, by
+which screen reading resembles print. In this way, an electronic book reader
+simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
+itself constitutes a metaphor worthy of critical examination. The principles
+of skeuomorphic design extend a visual metaphor from one medium to another.
+The reader already knows how to turn pages of a book. A book device therefore
+simulates pages to ease the cognitive burden of transitioning from paper to
+pixel. Instead of issuing unfamiliar commands to the computer to turn the
+page, readers perform the more habituated motion of swiping across the screen.
+The gliding motion enacts a kinetic metaphor, transposing properties of paper
+to glass.
 
-> Many of the domesticated robots are blessed with the attribute of becoming
-labor-saving devices, which has, however the unpleasant consequence that they
-at time reduce the need for creating, promoting with leisure also inertia.
-[...] Many of the robots have also the attribute in common of being able to
-affect human beings or other "targets at a distance," a book, a radio or a
-television sender can entertain or teach at a distance, like a gun, a rocket
-and an atomic bomb can kill people and destroy at a distance. The book is a
-robot par excellence [@moreno_who_1953, 238].
+Readers have to bear this burden of conceptual transference. In pretending to
+turn virtual pages, we lose sight of the mechanisms producing the simulation.
+If we hope to practice anything like interpretation or close reading at the
+level of discourse, we must certainly also practice them at the physical site
+of discourse formation. A truly materialist poetics would reach beyond
+representation towards the object. More than superficial embellishment, the
+skeuomorphic metaphor enacted at the surface of the digital literary device
+structures all meaning-carrying units: from individual letters, to words,
+paragraphs, chapters, books, and pages. In our example, we know that there is
+nothing inherently page-like about stiff slabs of glass and silicone.  The
+metaphor of "turning the page by swiping across the screen" conceals the
+structural rift between media. Why would readers engage in such a charade? Why
+not simply make use of novel interfaces afforded by new technology? The
+literature from the field of human--computer interaction suggests a formalist
+answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
+@spolsky_user_2001]. The initial effort it takes to learn to read in a new
+environment may discourage many potential readers from adopting a new
+technology. Smart designers therefore rely on acculturated practice, the
+turning of pages in our case, to minimize the "friction" of adoption. Although
+an "electronic book reader" contains no pages as such, it extends the metaphor
+of pages to electronic reading.
 
-For Moreno, the inertia of past decisions embodied in extant mechanisms
-ultimately poses a threat for human survival. In this view, the real
-competition for survival happens not between persons, sects, races, or
-nations, but between humanity and its automatons from the past. The only way
-to compete with the robot was for him to expand the human cultural capacity
-for creation. The one advantage the biological being has over the zootechnical
-animal is creative spontaneity. However, he argues that our capacity for
-creative and spontaneous action has to be continually on guard against
-lethargy. The machines of yore ease the burden of creativity; they weaken the
-capacity for poiesis by reducing the effort necessary to bring it forth.
-Moreno's therapy practice was therefore built on the principle of creative
-spontaneity training, aimed at the construction of communities that
-acknowledge and preserve a sense of personal agency. As far as I can tell from
-the records, the practice involved group improvisation and role-play, in what
-Moreno called the "techniques of freedom," which aimed to "balance spontaneous
-social forces to the greatest possible harmony and unity of all"
-[@moreno_who_1953, 8]. I leave Moreno's text here, with perplexing thoughts of
-hydrogen bombs and books occupying the same plane of analysis.
+The usability metaphor comes at a cost of concealment. A digital poem, a novel,
+a physician's script, or a legal contract may resemble their paper
+counterparts. But the metaphor of "turning pages" is but one simulation among
+the device's many possibilities. When imitating pages, the reading *appliance*
+also monitors, adjusts, warns, and controls. In return for usability it
+simulates and dissembles. The exposition of the metaphor reminds us of the
+compromise between two conceptual systems. It reveals real material affordances
+behind the symbol.
 
-How can a book be compared to a gun: one an instrument of peace and
-edification, the other of war and destruction? When considered in the
-contemporary context, several features of Moreno's provocation come into a
-sharper relief. First is his attention to the volitional nature of robotics,
-which for Moreno defines a field of activity that includes both books and
-bombs. A bomb clearly signifies malicious intent. Following the American
-school of New Criticism, it has become unfashionable to speak similarly of
-intention in literary studies. When it comes to books, the critical intuition
-is to treat any conjecture about authorial intent as a fallacy
-[@wimsatt_verbal_1954]. But when it comes to war, our intuitions are reversed.
-To understand an act of aggression is to assign responsibility and to draw
-inference about its intentions. Moreno asks us to confront the book once again
-as a volitional object. Even if we cannot "read" the author's mind, we can
-similarly assign a measure of agency to the author in the process of creation.
-Failing to produce an account of causes and effects involved, we are left
-instead to ascribe volition to inanimate objects and meaning-making to chance.
-The intentional fallacy frees the critic to concentrate on the pertinent and
-readily observable attributes of the text. But it also obscures the flows of
-agency, imbuing the word with an anthropomorphic quality; it slides into
-active voice, where texts mean and languages "speak themselves."[^ln1-auto]
+The simulation conceals structuring principles large and small. Some of the
+concealed details may remain inconsequential, like the limit on how many keys
+can be pressed at once without overwhelming the circuitry of keyboard when
+typing. Other concealed details are of paramount importance, like digital
+rights management chips and censorship filters. Like the smoke alarm, literary
+gadgets are governed and internalize government structures in ways that we have
+only begun to comprehend. The material affordances of device--bound textuality
+influence all higher-level functions of interpretation.[^ln1-rmedium] Yet,
+available theories of interpretation build on properties and assumptions
+attached to print media. For example, in Hans-Georg Gadamer's seminal
+conception of art, the free play of the artistic mind transforms into material
+structure (*Gebilde*) that is both "repeatable" and "permanent"
+[@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
+writes about the "range of social and political changes" related to the
+invention of writing. For Ricoeur, human discourse is "fixed" and thereby
+"preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 
-I do not mean to buoy the notion of authorial intent. Rather, Moreno's jarring
-parallelism between books and bombs reminds the reader that both constitute a
-species of displaced agency, a problem long in the background of Western
-liberal thought.[^ln1-consensus] In this light, contemporary cultural anxiety
-about artificial intelligence and robotics comprises a part of larger
-problematics related to action delayed in time and space by symbolic means.
-Technology of the word decouples readers from writers. Once decoupled,
-seemingly autonomous actors---books and robots---clutter the social sphere,
-continuing to structure human experience in the absence of the originating
-accord. This might appear like a curious way of putting things, but not
-unusual in the larger context of post-Kantian humanism at the turn of the
-twentieth century. In Moreno's words we hear more than an echo of Marx's
-fetishism of commodities, by which "definite social relation between men"
-assumes "the fantastic form of a relation between things" [@marx_capital_1967,
-72]. Moreno arrives at a similar conclusion by another logic. In creating some
-of the earliest examples of social network graphs, he finds (and objects to)
-the presence of things in the position of social actors.
+The literary device offers no such permanence. The very meanings of the words
+"fixed," "permanent," and "repeatable" change with the medium. The engineering
+of literary artifacts conceals a number of design choices, obscuring the flows
+of code and codex under the familiar guise of surface representation. The
+digital book does not just simulate a book.  Being a type of a Turing machine,
+it holds the potential to embody all possible metaphors.[^ln1-notquite] The
+task of the literary scholar reading on the level of the device becomes to make
+the figure available for interpretation. It is to apprehend its revealed
+mechanics. What happens in the metaphorical transference between the book and
+the apparatus simulating the book?  Estrangement, the exegesis of the metaphor,
+reveals mechanisms of governance shaping mental experience. Device hermeneutics
+allow one to consent, or, conversely, to resist elements of imposed structure.
 
-Moreno helps us see the book in a new light. If it was always, as he
-suggested, a robot for enacting action at a distance, it is all the more
-robotic as a device that draws electricity, an electronic book. When in the
-1930s one could view Moreno book-bombs as a fanciful---technophobic
-even---view of literary technology, a century later his concern appears
-pressing and prescient. The unintended consequences of disembodied and
-automated agency, from artificially intelligent personal assistants to market
-trading algorithms, worry scientists, legislators, and media theorists. What
-looks like a book today indeed takes on the functions of a gun and a trigger.
-I mean this literally: simulated text comprises a part of the same
-computational platform that powers drones and aircraft carriers. Today,
-computer servers in the service of the world's largest purveyors of literature
-service also air traffic control and covert intelligence
-[@soyata_combat:_2012; @logicworks_government_2015].
+It is tempting to think of personal computers as glorified calculators. That is
+often the popular image of computing, one that highlights the machine's ability
+to calculate. The computer reduces culture to ones and zeroes (or so goes the
+story), thereby diminishing the human experience.[^ln1-pop] There is some truth
+to that position, but I would like to argue here that the connection between
+computing and calculation is but a piece of a larger story. The personal
+computer governing the production of textuality today emerged from an
+amalgamation of automated equipment: among them the telegraph, the typewriter,
+and the calculator. Add to that list the loom, the music box, the radio, and
+the film camera [^ln1-ceruzzi]. Each of these machines left an imprint on our
+everyday engagement with computational devices.
 
-These conditions compel us---historians, philologists, et al.---to reconsider
-the cozy relationship we have had with books since the advent of the Gutenberg
-press. *Simulated text*, as I have been calling it here, no longer plays by
-the same rules as print. The bibliographic illusion veils machine internals.
-My task in this chapter is to perceive the Turing machine, the blueprint for
-all computation, within the electronic book. In doing so, the literary device,
-itself a powerful computer, will therefore gain meaning as a mechanism for
-generalized symbolic manipulation. At the same time, I aim to place the modern
-computer itself within the long history of the book, as a piece of literary
-technology. To achieve my task, I will construct several pre-histories of the
-literary device, first as a formal technique, then as a thought experiment,
-and finally as a control mechanism. To preserve a sense of human agency and to
-break the inertia of leisurely reading, we must rediscover the book as a
-device; to call it forth for what it is and always was---a robot for effecting
-thought at a distance; and to bring it back under the purview of
-interpretation.
-
-[^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
-most worthy of thought and questioning remains the mystery of
-language---wherein our entire reflection has to gather itself---above all when
-it dawns on us that language is not a work of human beings: language speaks."
-See also @blanchot_work_1995, 41.
-
-[^ln1-consensus]: The literature on consensual governance, for example, going
-back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
-consent. Roughly: What makes whatever compacts made by past generations still
-valid today?
-
-### 1.2 Thought Experiment
+It is important to keep the intertwined material lineages of computation in
+mind because each brings with it a different set of values and priorities. As
+complex computational systems continue to play an ever greater part in our
+lives, from affecting family relations to health and nutrition (think social
+media and personal activity trackers), we are increasingly faced with a host of
+conflicting choices. When building systems that give form to human experience,
+should we privilege agency or efficiency, privacy or connectivity, elegance or
+complexity? These are not choices that can be left to a calculator. Systems,
+left to their own devices, cannot produce values. Rather, values are imposed
+from without. The question then becomes one of ends and means. A calculator is
+most "efficient" when operating on binary data. Efficiency and complexity are
+goods for the task of calculation. Humans prefer to manipulate texts and
+images. A democratic vision of a just society places value on open deliberation
+and consensus building. Undeniably, computers participate in social
+transformation: used to make war and to create art. What are our machines
+optimized for? The passive voice points to the root of the problem. A
+computational mechanism that extends agency should embody values that emanate
+from the agent. In other words, one should be able to project values through
+the machine, and not the other way around. What seems like a technologically
+determined inevitability is often simply the imposition of another's will from
+without. It is an attempt to social and political, not technological
+determinism. In most cases, it is possible to trace the root of imposition to
+specific governing agents, agencies, or incorporations.
+### 2.1 Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
@@ -844,7 +843,7 @@ mechanism" of all other metaphoric mechanisms.
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
 
-### 1.3 Mechanism
+### 2.2 Mechanism
 
 Literature in computer science tends to see universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.
