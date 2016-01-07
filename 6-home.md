@@ -1,5 +1,5 @@
 # Part III: Displacement
-## Chapter 5: Home
+## Chapter 6: Home
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on

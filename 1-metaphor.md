@@ -1,4 +1,5 @@
-## Chapter 4: Simulation
+# Part I: Simulation
+## Chapter 1: Laying Bare the Device
 
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
@@ -760,3 +761,240 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 
 [^ln4-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
+### 1.1 Technique
+
+<!-- proper citation for webster -->
+
+What sort of a thing is a literary device? The formal concept of a "device,"
+widely used in literary studies, is an artifact of an unfortunate translation
+from Russian. The word *priem* would be much better translated as "technique,"
+in the sense of "method," "approach," or "procedure." The word "device"
+contains these meanings as well, but in modern usage, it usually carries a more
+concrete connotation, as "an object, machine, or piece of equipment that has
+been made for a special purpose" (Merriam-Webster). "Laying bare the device,"
+for Viktor Shklovsky, the Russian formalist critic who coined the phrase, meant
+making explicit the implied mechanism of the metaphor, particularly in cases
+where such metaphors turn "stale," "automatic," and "naturalized," that is,
+bereft of their original poetic and evocative power.
+
+One could write, for example, "a field of study," without much thought about
+figurative space. Shklovsky would have the reader pause to consider the
+implications [@shklovksy_sborniki_1917]. In what sense do ideas resemble (or
+not) a field? The poet could further make this metaphor strange. To evoke a
+light-hearted illustration one could write: "to scythe a verdant field of
+literary study." The verb (to scythe) and the adjective (verdant) create an
+unexpected transference of new qualities not present in the original image
+(intellectual field). These new qualities "overdetermine" the metaphor,
+exposing its conceit. The reader can discover "intellectual fields" for what
+they are: habituated metaphors, neither natural nor self-apparent. The
+metaphor is made strange again through purposeful defamiliarization. To take
+the technique to its logical conclusion, a writer could depict several
+fictional characters in the act of scything a field of grass while discussing
+the relative merits of structuralism: a discussion about the field on a field.
+Such literary artifice would make actual the implied connections between a
+field of grass and a field of ideas. The writer now shows what was merely told
+before. The technique of defamiliarization finally renews the figure:
+discarding hardened clichés while suggesting novel linkages between
+constituent concepts: intellectual chaff, leaves of mental grass, the combines
+of thought.
+
+When pursuing estrangement the author "lays bare" and "makes obvious" the
+metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
+Johnson famously argued, do more than decorate---they structure everyday human
+activity. The metaphor shapes one system of conceptual relationships in terms
+of another. For example, the military image of "fortification defence" implies
+a conceptual system structuring the "defence of an argument." When defending
+the argument, a speaker subsequently may act in a way that resembles combat. A
+different metaphor would suggest a less combative mode of engagement between
+interlocutors [@lakoff_metaphors_1980, 3-14].
+
+The Russian formalists of the early twentieth century understood estrangement
+as a matter of everyday practice, beyond linguistic analysis. Like Moreno,
+Shklovsky was concerned with the automatization of human experience, a process
+by which metaphors lose their evocative power through repeated use. Such
+metaphors become mere machines that convey meaning, and, when habituated,
+disappear from view. According to the Kantian view, in vogue in Russia at the
+time, a reasoned being should proceed through life with the assumption of
+personal free will, structuring one's own experiences according to the
+principles of self-directed action. The habituated metaphor instead guides
+action from without and furtively. It is given rather than understood.
+Estrangement emerges therefore as a model of human liberation. It frees
+thought from the tyranny of automatism [@shklovksy_sborniki_1917,
+@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. By
+laying bare the mechanisms of the implicit metaphor, we are thus able to
+recover agency lost to the blind mechanization of thought. Through
+estrangement readers discover the principles governing their actions: free to
+accept some parts of the conceptual transference (the intellectual field *is*
+"verdant"!) and to reject others (but let us not "use combines" to "harvest"
+it).
+
+Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
+heritage, used defamiliarization in the formalist vein often and with
+relentless clinical precision. In the short story "A Guide to Berlin," to which
+D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
+style," Nabokov writes:
+
+> In front of the house where I live, a gigantic black pipe lies along the
+outer edge of the sidewalk. A couple of feet away, in the same file, lies
+another, then a third and a fourth---the street's iron entrails, still idle,
+not yet lowered into the ground, deep under the asphalt. For the first few
+days after they were unloaded, with a hollow clanging, from trucks, little
+boys would run on them, up and down, and crawl on all fours through those
+round tunnels, but a week later nobody was playing anymore and thick snow was
+falling instead; and now when, cautiously probing the treacherous glaze of the
+sidewalk with my thick rubber-heeled stick, I go out in the flat gray light of
+the morning, an even stripe of fresh snow stretches along the upper side of
+each black pipe [...] Today someone wrote "Otto" with his finger on the strip
+of virgin snow, and I thought how beautifully that name, with its two soft o's
+flanking the pair of gentle consonants suited the silent layer of snow upon
+that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
+@johnson_guide_1979, 354].
+
+This tightly wound vignette takes the formalist programmatic concern with
+"laying bare the device" to its logical conclusion. The pipes can be read as a
+metaphor for the literary device. Usually found beneath the street, they now
+sit idle and visible above the surface. Yet even when exposed, the device
+fails to captivate for long. Disused, it once again passes out of sight,
+covered in snow. Concerned with surfaces, the narrator "probes the glaze" of
+the street and finds a palindrome written in snow. The inscription "OTTO" not
+only resembles the pipes visually, but is in itself a surface-revealing
+inscription that makes the pipes visible again. Although the metaphoric pipe
+does not reach beyond the page, the mimetic surface inscription draws
+attention to the word's visual shape and acoustics. It invites readers to
+perform the symmetry of its assonance and consonance as they pronounce the
+word. The round vowels and the interrupting obstruents of "OTTO" contort the
+body in accordance with the sound image: reverse mimesis, the body as sound
+pipe. The moment of corporeal reenactment transcends representational and
+paper-bound confines of the medium. The pipes appear briefly on this side of
+the page. The performance makes the "making of the literary technique
+obvious," obvious. In this, lies the prevalent characteristic of Nabokov's
+mature work, which often seeks to rise above the word through sheer recursion
+of literary technique, where each successive turn of abstraction brings the
+buried symbol closer to the reader.
+
+<!--- consider a better transition with the notion of cultural technique --->
+
+Inspired by the formalists, I would like to extend the technique of
+estrangement to books and documents as literal devices. The question of
+literary surfaces gains an instrumental dimension when considered in the
+context of media and book history. Habit hides the peculiarity of our everyday
+interfaces with the word. We read at the surface; we etch inscriptions deep
+within the bowels of a machine. When enacted on the level of the physical
+device, estrangement parallels the practice of exegesis in literary theory.
+The unpacking of literal devices that produce meaning reveals internals that
+structure the reading experience made opaque through artifice and habituation.
+Materialist poetics of the sort I am suggesting here expose the price paid for
+the facility of computed text.
+
+For example, we know that physical affordances of liquid crystal displays
+(LCDs) and magnetic storage differ drastically from those of paper, goat
+skins, or parchment. Yet digital surface representation maintains the illusion
+of self-similarity. We are faced with what is called *skeuomorphic* design, by
+which screen reading resembles print. In this way, an electronic book reader
+simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
+itself constitutes a metaphor worthy of critical examination. The principles
+of skeuomorphic design extend a visual metaphor from one medium to another.
+The reader already knows how to turn pages of a book. A book device therefore
+simulates pages to ease the cognitive burden of transitioning from paper to
+pixel. Instead of issuing unfamiliar commands to the computer to turn the
+page, readers perform the more habituated motion of swiping across the screen.
+The gliding motion enacts a kinetic metaphor, transposing properties of paper
+to glass.
+
+Readers have to bear this burden of conceptual transference. In pretending to
+turn virtual pages, we lose sight of the mechanisms producing the simulation.
+If we hope to practice anything like interpretation or close reading at the
+level of discourse, we must certainly also practice them at the physical site
+of discourse formation. A truly materialist poetics would reach beyond
+representation towards the object. More than superficial embellishment, the
+skeuomorphic metaphor enacted at the surface of the digital literary device
+structures all meaning-carrying units: from individual letters, to words,
+paragraphs, chapters, books, and pages. In our example, we know that there is
+nothing inherently page-like about stiff slabs of glass and silicone.  The
+metaphor of "turning the page by swiping across the screen" conceals the
+structural rift between media. Why would readers engage in such a charade? Why
+not simply make use of novel interfaces afforded by new technology? The
+literature from the field of human--computer interaction suggests a formalist
+answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
+@spolsky_user_2001]. The initial effort it takes to learn to read in a new
+environment may discourage many potential readers from adopting a new
+technology. Smart designers therefore rely on acculturated practice, the
+turning of pages in our case, to minimize the "friction" of adoption. Although
+an "electronic book reader" contains no pages as such, it extends the metaphor
+of pages to electronic reading.
+
+The usability metaphor comes at a cost of concealment. A digital poem, a novel,
+a physician's script, or a legal contract may resemble their paper
+counterparts. But the metaphor of "turning pages" is but one simulation among
+the device's many possibilities. When imitating pages, the reading *appliance*
+also monitors, adjusts, warns, and controls. In return for usability it
+simulates and dissembles. The exposition of the metaphor reminds us of the
+compromise between two conceptual systems. It reveals real material affordances
+behind the symbol.
+
+The simulation conceals structuring principles large and small. Some of the
+concealed details may remain inconsequential, like the limit on how many keys
+can be pressed at once without overwhelming the circuitry of keyboard when
+typing. Other concealed details are of paramount importance, like digital
+rights management chips and censorship filters. Like the smoke alarm, literary
+gadgets are governed and internalize government structures in ways that we have
+only begun to comprehend. The material affordances of device--bound textuality
+influence all higher-level functions of interpretation.[^ln1-rmedium] Yet,
+available theories of interpretation build on properties and assumptions
+attached to print media. For example, in Hans-Georg Gadamer's seminal
+conception of art, the free play of the artistic mind transforms into material
+structure (*Gebilde*) that is both "repeatable" and "permanent"
+[@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
+writes about the "range of social and political changes" related to the
+invention of writing. For Ricoeur, human discourse is "fixed" and thereby
+"preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
+
+The literary device offers no such permanence. The very meanings of the words
+"fixed," "permanent," and "repeatable" change with the medium. The engineering
+of literary artifacts conceals a number of design choices, obscuring the flows
+of code and codex under the familiar guise of surface representation. The
+digital book does not just simulate a book.  Being a type of a Turing machine,
+it holds the potential to embody all possible metaphors.[^ln1-notquite] The
+task of the literary scholar reading on the level of the device becomes to make
+the figure available for interpretation. It is to apprehend its revealed
+mechanics. What happens in the metaphorical transference between the book and
+the apparatus simulating the book?  Estrangement, the exegesis of the metaphor,
+reveals mechanisms of governance shaping mental experience. Device hermeneutics
+allow one to consent, or, conversely, to resist elements of imposed structure.
+
+It is tempting to think of personal computers as glorified calculators. That is
+often the popular image of computing, one that highlights the machine's ability
+to calculate. The computer reduces culture to ones and zeroes (or so goes the
+story), thereby diminishing the human experience.[^ln1-pop] There is some truth
+to that position, but I would like to argue here that the connection between
+computing and calculation is but a piece of a larger story. The personal
+computer governing the production of textuality today emerged from an
+amalgamation of automated equipment: among them the telegraph, the typewriter,
+and the calculator. Add to that list the loom, the music box, the radio, and
+the film camera [^ln1-ceruzzi]. Each of these machines left an imprint on our
+everyday engagement with computational devices.
+
+It is important to keep the intertwined material lineages of computation in
+mind because each brings with it a different set of values and priorities. As
+complex computational systems continue to play an ever greater part in our
+lives, from affecting family relations to health and nutrition (think social
+media and personal activity trackers), we are increasingly faced with a host of
+conflicting choices. When building systems that give form to human experience,
+should we privilege agency or efficiency, privacy or connectivity, elegance or
+complexity? These are not choices that can be left to a calculator. Systems,
+left to their own devices, cannot produce values. Rather, values are imposed
+from without. The question then becomes one of ends and means. A calculator is
+most "efficient" when operating on binary data. Efficiency and complexity are
+goods for the task of calculation. Humans prefer to manipulate texts and
+images. A democratic vision of a just society places value on open deliberation
+and consensus building. Undeniably, computers participate in social
+transformation: used to make war and to create art. What are our machines
+optimized for? The passive voice points to the root of the problem. A
+computational mechanism that extends agency should embody values that emanate
+from the agent. In other words, one should be able to project values through
+the machine, and not the other way around. What seems like a technologically
+determined inevitability is often simply the imposition of another's will from
+without. It is an attempt to social and political, not technological
+determinism. In most cases, it is possible to trace the root of imposition to
+specific governing agents, agencies, or incorporations.
+

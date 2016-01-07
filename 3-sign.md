@@ -1,4 +1,5 @@
-## Chapter 2: Splitting the Sign
+# Part II: Surfaces
+## Chapter 3: Splitting the Sign
 
 > The grand swell of volume between the small input and output need not be
 known to any human mind, but should stay inside the machine

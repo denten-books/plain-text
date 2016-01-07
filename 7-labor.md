@@ -1,5 +1,7 @@
 ## Chapter 7: Labor
 
+### Labor
+
 What does it mean to write simply?
 
 Literature hides the labor of readers and writers. In another sense, there is

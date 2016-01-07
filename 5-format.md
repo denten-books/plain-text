@@ -1,4 +1,4 @@
-## Chapter 4: Format
+## Chapter 5: Format
 
 I began the book by asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led

@@ -1,5 +1,4 @@
-# Part II: Surfaces
-## Chapter 3: Screen
+## Chapter 4: Screen
 
 ### Literature Down to the Pixel
 
