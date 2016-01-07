@@ -272,83 +272,78 @@ flanking the pair of gentle consonants suited the silent layer of snow upon
 that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
 @johnson_guide_1979, 354].
 
-The tightly wound vignette takes the formalist programmatic concern with
-"laying bare the device" to its logical and recursively structured conclusion.
-The pipes can be read as a metaphor for the literary device. Usually found
-beneath the street, they now sit idle and visible above the surface. Yet even
-when exposed, the device fails to captivate for long. Disused, it once again
-passes out sight, covered in snow. Concerned with surfaces, the narrator
-"probes the glaze" of the street. He finds a palindrome written in snow. The
-inscription "OTTO" not only resembles the pipes visually, but is in itself a
-surface-revealing inscription that makes the pipes visible again. Although the
-metaphoric pipe does not reach beyond the page, the mimetic surface inscription
-draws attention to the word's visual shape and acoustics. It invites readers to
+This tightly wound vignette takes the formalist programmatic concern with
+"laying bare the device" to its logical conclusion. The pipes can be read as a
+metaphor for the literary device. Usually found beneath the street, they now
+sit idle and visible above the surface. Yet even when exposed, the device
+fails to captivate for long. Disused, it once again passes out of sight,
+covered in snow. Concerned with surfaces, the narrator "probes the glaze" of
+the street and finds a palindrome written in snow. The inscription "OTTO" not
+only resembles the pipes visually, but is in itself a surface-revealing
+inscription that makes the pipes visible again. Although the metaphoric pipe
+does not reach beyond the page, the mimetic surface inscription draws
+attention to the word's visual shape and acoustics. It invites readers to
 perform the symmetry of its assonance and consonance as they pronounce the
 word. The round vowels and the interrupting obstruents of "OTTO" contort the
 body in accordance with the sound image: reverse mimesis, the body as sound
 pipe. The moment of corporeal reenactment transcends representational and
 paper-bound confines of the medium. The pipes appear briefly on this side of
-the page. The performance makes the "making of the literary technique obvious,"
-obvious. In this, lies the prevalent characteristic of Nabokov's mature work,
-which often seeks to rise above the word through sheer recursion of literary
-technique, where each successive turn of abstraction brings the buried symbol
-closer to the reader.
+the page. The performance makes the "making of the literary technique
+obvious," obvious. In this, lies the prevalent characteristic of Nabokov's
+mature work, which often seeks to rise above the word through sheer recursion
+of literary technique, where each successive turn of abstraction brings the
+buried symbol closer to the reader.
+
+<!--- consider a better transition with the notion of cultural technique --->
 
 Inspired by the formalists, I would like to extend the technique of
-estrangement to books and documents as literal devices. When asked in the
-context of media and book history, the question of literary surfaces gains an
-instrumental dimension. Habit hides the peculiarity of our everyday interfaces
-with the word. We read at the surface; we etch inscriptions deep within the
-bowels of a machine. When enacted on the level of the physical device,
-estrangement parallels the practice of literary theory and reverse engineering.
-Both aim to reveal internals that structure experience, made opaque through
-artifice and habituation. I imagine here a kind of critical practice that
-reverses the principles of good interface design. What design aims to make easy
-and ordinary, defamiliarization makes difficult and strange. Materialist
-poetics expose the price paid for the facility of computed text.
+estrangement to books and documents as literal devices. The question of
+literary surfaces gains an instrumental dimension when considered in the
+context of media and book history. Habit hides the peculiarity of our everyday
+interfaces with the word. We read at the surface; we etch inscriptions deep
+within the bowels of a machine. When enacted on the level of the physical
+device, estrangement parallels the practice of exegesis in literary theory.
+The unpacking of literal devices that produce meaning reveals internals that
+structure the reading experience made opaque through artifice and habituation.
+Materialist poetics of the sort I am suggesting here expose the price paid for
+the facility of computed text.
 
 For example, we know that physical affordances of liquid crystal displays
-(LCDs) and magnetic storage differ drastically from those of goat skins or
-parchment. Yet digital surface representation maintains the illusion of
-self-similarity. We are faced with what is called *skeuomorphic* design, by
+(LCDs) and magnetic storage differ drastically from those of paper, goat
+skins, or parchment. Yet digital surface representation maintains the illusion
+of self-similarity. We are faced with what is called *skeuomorphic* design, by
 which screen reading resembles print. In this way, an electronic book reader
 simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
-itself constitutes a metaphor worthy of critical examination. The principles of
-skeuomorphic design extend a visual metaphor from one medium to another. The
-reader already knows how to turn pages of a book. A book device therefore
-simulates pages to ease the burden of cognitive transition from one medium to
-another. Instead of pushing unfamiliar buttons (yet another analogy) to turn
-the page, readers perform the more habituated motion of swiping across the
-screen. The gliding motion enacts a kinetic metaphor, transposing properties of
-paper to glass.
+itself constitutes a metaphor worthy of critical examination. The principles
+of skeuomorphic design extend a visual metaphor from one medium to another.
+The reader already knows how to turn pages of a book. A book device therefore
+simulates pages to ease the cognitive burden of transitioning from paper to
+pixel. Instead of issuing unfamiliar commands to the computer to turn the
+page, readers perform the more habituated motion of swiping across the screen.
+The gliding motion enacts a kinetic metaphor, transposing properties of paper
+to glass.
 
-Readers bear the burden of conceptual transference. In pretending to turn
-"pages," a reader loses sight of the structures producing the simulation. Some
-would object that such structures are irrelevant or not interesting: "one does
-not need to be a mechanic to drive a car," as the saying goes. Yet,
-particularly in the case of literary devices, the concealed mechanisms concern
-the structuring of privileged cognitive, as opposed to other, let us say more
-pedestrian, facilities. If an automobile extends the foot, the book extends the
-brain. It shapes mental activity. The simulated text ultimately enacts a number
-of cognitive metaphors. If we are to value anything like interpretation or
-critical reason, we must certainly value them at the physical site of mental
-extension.
-
-More than superficial embellishment, the skeuomorphic metaphor structures all
-meaning-carrying units: from letters, to words, paragraphs, chapters, books,
-and pages. In our example, we know that there is nothing inherently page-like
-about stiff slabs of glass and silicone. The metaphor of "turning the page by
-swiping across the screen" conceals the structural rift between media. Why
-would readers engage in such a charade? Why not simply make use of novel
-interfaces afforded by new technology? The literature from the field of
-human--computer interaction suggests a formalist answer: habituation
-[@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
-initial effort it takes to learn to read in a new environment may discourage
-many potential readers from adopting a new technology. Smart designers
-therefore rely on acculturated practice, the turning of pages in our case, to
-minimize the "friction" of adoption. Although an "electronic book reader"
-contains no pages as such, it extends the metaphor of pages to electronic
-reading.
+Readers have to bear this burden of conceptual transference. In pretending to
+turn virtual pages, we lose sight of the mechanisms producing the simulation.
+If we hope to practice anything like interpretation or close reading at the
+level of discourse, we must certainly also practice them at the physical site
+of discourse formation. A truly materialist poetics would reach beyond
+representation towards the object. More than superficial embellishment, the
+skeuomorphic metaphor enacted at the surface of the digital literary device
+structures all meaning-carrying units: from individual letters, to words,
+paragraphs, chapters, books, and pages. In our example, we know that there is
+nothing inherently page-like about stiff slabs of glass and silicone.  The
+metaphor of "turning the page by swiping across the screen" conceals the
+structural rift between media. Why would readers engage in such a charade? Why
+not simply make use of novel interfaces afforded by new technology? The
+literature from the field of human--computer interaction suggests a formalist
+answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
+@spolsky_user_2001]. The initial effort it takes to learn to read in a new
+environment may discourage many potential readers from adopting a new
+technology. Smart designers therefore rely on acculturated practice, the
+turning of pages in our case, to minimize the "friction" of adoption. Although
+an "electronic book reader" contains no pages as such, it extends the metaphor
+of pages to electronic reading.
 
 The usability metaphor comes at a cost of concealment. A digital poem, a novel,
 a physician's script, or a legal contract may resemble their paper
@@ -425,7 +420,7 @@ without. It is an attempt to social and political, not technological
 determinism. In most cases, it is possible to trace the root of imposition to
 specific governing agents, agencies, or incorporations.
 
-### Thought Experiment
+### 1.2 Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
@@ -610,8 +605,6 @@ metaphysics, the Turing machine should be encountered on its own terms. Let us
 take the moment to read the paper and to place it into the intellectual context
 of the development of Turing's thought.
 
-### Alan Turing's "On Computable Numbers"
-
 Turing begins his paper suggestively: "we may compare a man in the process of
 computing a real number to a machine that is only capable of a finite number of
 conditions." [@turing_computable_1937, 231]. In effect, he asks his readers to
@@ -746,8 +739,6 @@ Smoot for their help with the Greek translations.
 [^ln1-turingcog]: Turing's later work suggests that his use of cognitive language
 throughout "On Computable Numbers" was not accidental, and that he meant it to
 define sentience more generally [@turing_computing_1950].
-
-### Wittgenstein's *The Blue and Brown Notebooks*
 
 The nexus between Alan Turing and Ludwig Wittgenstein in the years between
 1931-1939 at King's College, Cambridge gives us a glimpse into the intellectual
@@ -907,8 +898,6 @@ far as this is practically feasible, we would always have two very certain
 means of recognizing that they were not at all, for that reason, true men."
 Also quoted in @dennett_can_2004, 297.
 
-### Wittgenstein's *Philosophical Grammar*
-
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another into the pre-history of the literary device. It
 begins again with a problem of "understanding" and "not understanding." "To
@@ -997,8 +986,6 @@ correspondences, explains the meaning of the signs. Today, we would call it a
 In this way, we can move away from speaking of "intended effects" or "proper
 obedience," and rather concentrate on the mediating layer that describes the
 rules of engagement.
-
-### Lectures on the Foundation of Mathematics
 
 Turing met Wittgenstein's at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
@@ -1095,7 +1082,7 @@ mechanism" of all other metaphoric mechanisms.
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
 
-### Mechanism
+### 1.3 Mechanism
 
 Literature in computer science tends to see universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.
