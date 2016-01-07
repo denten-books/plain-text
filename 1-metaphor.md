@@ -617,11 +617,12 @@ Laurel wrote in the seminal 1984 volume on user centered design edited by
 Donald Norman and Stephen Draper, "if designing interfaces feels like painting
 on cave walls by flickering torchlight, it is only because we, the designers,
 have not availed ourselves of better illumination: the science of the mimetic
-arts, poetics" [@norman_user_1986, 67]. Before the 1980s, the dominant
-paradigm of interacting with machines was the dialog [@shaw_joss:_1964;
-@cameron_dialog:_1967; @gaines_timesharing_1986; @martin_computerized_1970;
-@martin_design_1973]. Already in 1950, Turing imagined an artificially
-intelligent poet who defends its word choice in front of a literary critic:
+arts, poetics" [@laurel_brenda_interface_1986, 67]. Before the 1980s, the
+dominant paradigm of interacting with machines was the dialog
+[@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
+@martin_computerized_1970; @martin_design_1973]. Already in 1950, Turing
+imagined an artificially intelligent poet who defends its word choice in front
+of a literary critic:
 
 ```
 Interrogator: In the first line of your sonnet which reads "Shall I compare
@@ -719,7 +720,7 @@ manipulation involved three key principles:
 2. Physical actions or labelled button presses instead of complex syntax.
 3. Rapid incremental reversible operations whose impact on the object of
 interest is immediately visible [@shneiderman_future_1982, 251;
-@norman_user_1986, 91].
+@hutchins_direct_1986, 91].
 
 The dream of direct manipulation was therefore to achieve a perfect
 correspondence between "representation" and the "object of interest."
@@ -750,21 +751,40 @@ can be done in the design of interface languages " [@norman_cognitive_1991,
 
 Crucially, the immersion in the "mimetic context" of the simulation evoked, in
 the words of Samuel Taylor Coleridge, "the willing suspension of disbelief"
-[@norman_user_1986, 76]. Brenda Laurel, a theater scholar later commissioned
-by Apple Computers to edit a collection of essays intended for employee
-training, expressed the task of interface design in Aristotelian terms,
-calling for the design immersive, interactive, and ultimately cathartic
+[@laurel_brenda_interface_1986, 76]. Brenda Laurel, a theater scholar later
+commissioned by Apple Computers to edit a collection of essays intended for
+employee training, expressed the task of interface design in Aristotelian
+terms, calling for the design immersive, interactive, and ultimately cathartic
 experiences. The conversation with the computer of the type elicited by
 *Colossal Cave Adventure* amounts to nothing more than just "using the
-computer" [@norman_user_1986, 74]. "End users are not interested in *making*
-representations," she writes. "They want to move around *inside* one," favoring
-the "mimetic context" over their actual, physical surroundings
-[@norman_user_1986, 75]. Norman and others write that the modeled world should
-support the "sensation of directness," in which direct, iconic expressions
-"behave in such a way that a user can assume that they, in some sense, *are*
-the things they refer to" [@norman_user_1986, 110].
+computer" [@laurel_brenda_interface_1986, 74]. "End users are not interested
+in *making* representations," she writes. "They want to move around *inside*
+one," favoring the mimetic context over their actual, physical surroundings
+[@laurel_brenda_interface_1986, 75]. Norman and others write that the modeled
+world should support the "sensation of directness," in which direct, iconic
+expressions "behave in such a way that a user can assume that they, in some
+sense, *are* the things they refer to" [@hutchins_direct_1986, 110].
 
-Example.
+![Direct manipulation of simulated objects. [@minsky_manipulating_1984,
+199]](images/minsky.png)
+
+The principles of direct interaction stood against what Laurel called the
+"ill-formed" presence of the mediator, like JOSS in the examples above, or
+like the command prompt in the *Colossal Cave Adventure*. The computerized
+aide attempts to mediate between the human and the machine, where the human
+desire the unmediated pleasure of direct engagement
+[@laurel_brenda_interface_1986, 75]. The agent takes the place of the user in
+a game: it swings the sword for her, takes a beating, and reports on the
+experience. Laurel writes:
+
+> In the file management example, the intermediary take the form of command
+menus that are invoked in order to activate processes in the program that will
+create the desired results. The user does not have the experience of pushing
+files around, stowing them and grabbing them, or blowing them away.  Instead,
+the user has the experience of communicating with the file management
+intermediary [@laurel_brenda_interface_1986, 75].
+
+L
 
 Combined with. gave rise to what you see is what you get. Example.
 
@@ -792,12 +812,11 @@ to translate between brain impulses and the transmission apparatus. Such
 "direct" communication would therefore still be mediated. Can literature
 survive non representation. I want to imagine.
 
-
 <!-- notes -->
 <!-- notes -->
 <!-- notes -->
 
-[ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
+[^ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
 really hold texts. The idea of "text" identifies a segment of stored memory
 coupled with control codes that govern layout and projection in specific
 material context. Together, these diverse signals and physical affordances
