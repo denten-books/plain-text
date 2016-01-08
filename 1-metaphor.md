@@ -771,6 +771,9 @@ sense, *are* the things they refer to" [@hutchins_direct_1986, 110].
 ![Direct manipulation of simulated objects. [@minsky_manipulating_1984,
 199]](images/minsky.png)
 
+!["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
+workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox.png)
+
 The principles of direct interaction stood against what Laurel called the
 "ill-formed" presence of the mediator, like JOSS in the examples above, or
 like the command prompt in the *Colossal Cave Adventure*. The computerized
@@ -787,14 +790,51 @@ files around, stowing them and grabbing them, or blowing them away. Instead,
 the user has the experience of communicating with the file management
 intermediary [@laurel_brenda_interface_1986, 75].
 
-Combined, the ideas behind domain blending and direct manipulation gave rise
-to the now ubiquitous WYSIWYG (what you see is what you get) interfaces, put
-into mass production by Apple and other companies in mid-1980s. The "direct
-manipulation" style of computing heralded the
+Combined, the ideas behind cognitive domain blending and direct manipulation
+gave rise to the now ubiquitous WYSIWYG (what you see is what you get)
+interfaces, put into mass production by Apple, Xerox, and other companies in
+the early- to mid-1980s. The Xerox 8010 Star workstation introduced in 1981
+and the Xerox 6085 Daybreak workstation, introduced in 1985, heralded the era
+of accessible, metaphor-driven personal computing, characterized by the use of
+virtual graphical objects like windows, icons, desktops, folders, and buttons.
+The Star and Daybreak workstations were some of the earliest machines to put
+the principles of domain blending and direct manipulation into action. The
+interface was meant to "reveal the structure" of the simulated objects
+intuitively, without training or lengthy written explanation. In the words of
+Brenda Laurel, the mimetic interface employed "logic and aesthetics to create
+representations that *engage humans in pleasurable ways"
+[@laurel_brenda_interface_1986, 85]. The mimetic context is simply "the
+experience we desire," Laurel writes. Direct participation enables actors to
+experience "the full pleasure of the mimetic form"
+[@laurel_brenda_interface_1986, 75].
 
-Combined with. gave rise to what you see is what you get. Example.
-
-Problems. Direct is not quite direct. Mediation.
+Designers advocating for direct manipulation understood the trade-offs that
+came with an emphasis on such immersive and mimetic experiences
+[@hutchins_direct_1986, 118]. Mimesis fundamentally relies on the user's
+familiarity with the source domain. In this way, we understand what to do with
+"folder" icons because we know how folders behave in real life. Direct mimetic
+manipulation does not however tell us anything new about the capabilities of
+virtual folders, however. Immersion in some sense precludes critical
+reflection. More problematically, mimetic immersion introduces a kind of a
+logical fallacy into the simulated experience. The literature on direct
+manipulation often refers to the example of driving a car to illustrate a kind
+of an interface by which inputs and outputs are directly correlated. Thus
+instead of giving complicated commands to the vehicle, the drivers turns the
+wheel to the right, and the car immediately follows. A direct causal link
+exists between the steering wheel and the car's axle. Similarly, when
+operating a computer game like *Space Invaders* via a joystick, the player
+experiences an immediate correspondence between the movement of the
+controlling mechanism and the movement of the player-controlled space ship on
+the screen. Writers attempting to delete sensitive information by dragging and
+dropping an icon of a document to the icon of a trash stand in a relationship
+to the object of their interest unlike drivers or video game players. The car
+is the "direct object of interest" for a driver, just like the virtual space
+ship is for a gamer. But authors are not interested in the virtual
+representation of the document slated for erasure. The object of their
+interest is not mimetic. They would like to erase the document itself, located
+somewhere within the machine. Far from being direct, the iconic representation
+of the document occludes the physical object along with its associated
+properties.
 
 ### 1.4 Direct Manipulation (Speculative Formalism)
 
