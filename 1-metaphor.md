@@ -40,8 +40,6 @@ instead confronted with a composite image, which under examination reveals a
 complex process of transfiguration between the visible sign and the sign at
 the site of the inscription.
 
-### 1.1 Verisimilitude
-
 To understand the "loss of resemblances" in the process of simulation, imagine
 communicating by telegraph in two different languages with a friend.
 Occasionally, besides whatever else you wanted to say, envision also sending a
@@ -160,11 +158,16 @@ the arrangement of bits along the surface of the magnetic disk or the solid
 state drive. We are presented instead with metaphors of paragraphs, pages,
 files, and folders. Screen representations of paragraphs, pages, files, and
 folders look like their counterparts on the page, yet they represent other
-structures in the head, and yet other structures on the disk. The file format
+structures in the head, and yet other structures on the disk. The metaphor
 thus mediates between mental image---information stored in the head---and
-inscription---information stored in the machine.
+inscription---information stored in the machine. As Alexander Galloway wrote
+in *The Interface Effect*, the nature of the interface stems from the
+incompatibility between incommensurate systems [@galloway_interface_2012,
+viii]. The interface is also a metaphor that transports structure from one
+entity to the other, at the point of contact between human and machine. In
+this chapter, we will begin to unpack the interface metaphor.
 
-### 1.2 Domain Blending
+### 1.1 Verisimilitude
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
 that we have been discussing so far go under the name of *structural metaphors*.
@@ -491,7 +494,7 @@ familiar but absent affordances tied to an absent print artifact. The
 simulation suggests a structuring of one kind, while enacting a structure of
 another.
 
-### 1.3 Death of a Metaphor
+### 1.2 Death of a Metaphor
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
@@ -610,7 +613,7 @@ motivation. The analogy between discarding paper and erasing bits breaks down
 in the worst possible way. The material realities of the metaphor are not
 simply missing, they are misrepresented.
 
-### 1.4 Mimesis and Mediation
+### 1.3 Mimesis and Mediation
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in the seminal 1984 volume on user centered design edited by
@@ -780,17 +783,20 @@ experience. Laurel writes:
 > In the file management example, the intermediary take the form of command
 menus that are invoked in order to activate processes in the program that will
 create the desired results. The user does not have the experience of pushing
-files around, stowing them and grabbing them, or blowing them away.  Instead,
+files around, stowing them and grabbing them, or blowing them away. Instead,
 the user has the experience of communicating with the file management
 intermediary [@laurel_brenda_interface_1986, 75].
 
-L
+Combined, the ideas behind domain blending and direct manipulation gave rise
+to the now ubiquitous WYSIWYG (what you see is what you get) interfaces, put
+into mass production by Apple and other companies in mid-1980s. The "direct
+manipulation" style of computing heralded the
 
 Combined with. gave rise to what you see is what you get. Example.
 
 Problems. Direct is not quite direct. Mediation.
 
-### 1.5 Direct Manipulation (Speculative Formalism)
+### 1.4 Direct Manipulation (Speculative Formalism)
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
 Halstead noted that "the practical upper limits of speed will also be limited
@@ -830,4 +836,3 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 
 [^ln4-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
-
