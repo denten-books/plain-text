@@ -860,6 +860,9 @@ to translate between brain impulses and the transmission apparatus. Such
 "direct" communication would therefore still be mediated. Can literature
 survive non representation. I want to imagine.
 
+Not no mediation, but the Suspension of disbelief. With direct brain
+communication
+
 <!-- notes -->
 <!-- notes -->
 <!-- notes -->
