@@ -613,7 +613,7 @@ motivation. The analogy between discarding paper and erasing bits breaks down
 in the worst possible way. The material realities of the metaphor are not
 simply missing, they are misrepresented.
 
-### 1.3 Mimesis and Mediation
+### 1.3 Mimesis (Direct Manipulation)
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in the seminal 1984 volume on user centered design edited by
@@ -836,18 +836,20 @@ somewhere within the machine. Far from being direct, the iconic representation
 of the document occludes the physical object along with its associated
 properties.
 
-### 1.4 Direct Manipulation (Speculative Formalism)
-
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
-Halstead noted that "the practical upper limits of speed will also be limited
-by the ability of some human beings to operate a keyboard, until such time as
-electrical connection be made direct with the receiver's central nervous
-system" [@halstead_genesis_1949, 451].
+Halstead noted that "the practical upper limits of [telegraph transmission]
+speed will also be limited by the ability of some human beings to operate a
+keyboard, until such time as electrical connection be made direct with the
+receiver's central nervous system" [@halstead_genesis_1949, 451]. The history
+of human--computer interaction began with physical switches. It then tradition
+into conversational computing. The mimetic "direct manipulation" schools has
+led us further towards Baudrillard's "elimination of references and
+finalities," and the "ever-increasing loss of resemblances and designations."
+The simulation tends towards the total illusion of directness under the
+conditions of complete alienation from its material contexts.
 
-Speculative formalism involves imagining structures on the cusp of being. The 
-
-The second and more radical idea related to non-representational elements of
-communication lies in the possibility of "direct" brain-to-brain interfaces.
+Brain to brain!
+non-representational elements of
 F16. Joystick that feels. The electrical system we saw emerge in chapters one
 and two can be wired directly in the central nervous system. Not science
 fiction. But note that communication is only direct in the sense that the
