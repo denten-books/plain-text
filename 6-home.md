@@ -1,4 +1,3 @@
-# Part III: Displacement
 ## Chapter 6: Home
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last

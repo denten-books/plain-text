@@ -1,4 +1,3 @@
-# Part II: Surfaces
 ## Chapter 3: Splitting the Sign
 
 > The grand swell of volume between the small input and output need not be
