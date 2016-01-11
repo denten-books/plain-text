@@ -633,28 +633,27 @@ Laurel wrote in her seminal 1984 essay "Interface as Mimesis." She went on to
 write that "if designing interfaces feels like painting on cave walls by
 flickering torchlight, it is only because we, the designers, have not availed
 ourselves of better illumination: the science of the mimetic arts, poetics"
-[@laurel_brenda_interface_1986, 67]. Laurel, who holds a doctorate degree in
-theater studies, went on to work for companies like Apple, Activision, Atari,
-and Sun Microsystems in the 1980s and 1990s. Her work continues to be cited in
-more than 120 extant patents related to the design of human--computer
-interfaces. Yet, the impact of her thought in the humanities remains limited
-by disciplinary balkanization. Poetics, as she suggests, remains our best tool
-for the design and the critique of immersive computational environments,
-particularly as such environments begin to structure experience beyond the
-sphere of entertainment. Computers mediate in the interface between the public
-and the private, between art and politics, and between spheres of capital and
-control. We need the science of the mimetic arts today more than ever, lest we
-we lose a sense of what Michail Taussig has called the space ulterior to
-mimesis [@taussig_mimesis_1993, 129-144]. The suspension of disbelief, in
-other words, must remain, in Samuel Colridge's original formulation, an act of
-the *will*, containing a semblance of truth required to animate the "shadows of
-imagination" [@coleridge_biographia_1917, 6-7].
+[@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career
+in theater studies, went on to work for companies like Apple, Activision,
+Atari, and Sun Microsystems. Her work, cited in more than 120 technical
+patents, reminds us of the close link between poetics and the design of
+human--computer interaction. It is all the more important today, as immersive
+computational environments begin to structure experience beyond the merely
+instrumental. Computers mediate in the interface between the public and the
+private, between art and politics, and between forces of capital and control.
+The simulacrum requires that we advance a reflective "science of the mimetic
+arts" lest we we lose a sense of what Michail Taussig has called the space
+ulterior to mimesis [@taussig_mimesis_1993, 129-144]. In other words, the
+suspension of disbelief must remain, as it was in Samuel Coleridge's original
+formulation, a *willful* act, containing further a "semblance of truth"
+required to animate the shadows of imagination [@coleridge_biographia_1917,
+6-7]. An involuntary or worse yet forced suspension of disbelief can only lead
+to a total critical disempowerment.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
 @martin_computerized_1970; @martin_design_1973]. Already in 1950, Turing
-imagined an artificially intelligent poet who defends its word choice in front
-of a literary critic:
+imagined a conversation between a critic and an artificially intelligent poet:
 
 ```
 Interrogator: In the first line of your sonnet which reads "Shall I compare
@@ -679,29 +678,31 @@ winter's day, rather than a special one like Christmas
 ```
 
 The goal of conversational programming was to provide a similarly naturalized
-dialog between person and machine. Although machine understanding of informal
-speech human did not come to fore until the twenty-first century, interactive
-computing environments like DIALOG and JOSS attempted to abstract away from
-machine language towards interfaces that understood a limited number of
-English words. JOSS, an experimental on-line computing system created by the
-RAND corporation in 1963, consisted of a typewriter connected to the JOHNNIAC
-computer. Prior to JOSS, programmers would interact with the JOHNNIAC machine
-via keyboard and punch card, initially using octal number notation and then
-binary assembler language [@gruenberger_history_1979]. These methods of
+dialog between the operator and the machine. Although machine understanding of
+informal speech human did not come to fore until the twenty-first century,
+interactive computing environments like DIALOG and JOSS attempted to abstract
+away from machine language towards interfaces that understood a limited number
+of English words. JOSS, an experimental on-line computing system created by
+the RAND corporation in 1963, consisted of a typewriter connected to the
+JOHNNIAC computer. Prior to JOSS, programmers would interact with the JOHNNIAC
+machine via keyboard and punch card, initially using octal number notation and
+then binary assembler language [@gruenberger_history_1979]. These methods of
 programming were time consuming and prone to error. "An octal desk calculator
 was nice to have," a historian of the system would later quip
 [@gruenberger_history_1979, 58]. The JOSS experiment was meant to introduce a
-kind of an interpreter that sat between the human and the machine,
-facilitating communication in a more friendlier language. Think of JOSS as the
-"user's computing aide and a single contact with the computer," the engineers
-wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into the
-machine, the operator was now able to use a standard typewriter to communicate
-with the machine. JOSS thus referred both to the "simple language" and to this
-new "remote console" way of interacting with the computer: "JOSS and the user
-take turns controlling the typewriter." The computerized aide understood
-simple commands like `do`, `go`, and `type`. In most cases it would respond
-with a result of a given computation. When confused, its default for an
-unspecified error was: "Eh" [@shaw_joss:_1964]?
+kind of an interpreter that sat between the human operator and the machine,
+facilitating communication in a friendly, English-like language. Think of JOSS
+as the "user's computing aide and a single contact with the computer," the
+engineers wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into
+the machine, the operator would now use a standard typewriter. Instead of
+flipping switches the operator typed words. JOSS thus referred both to the
+"simple language" for machine instruction and to this new "remote console" way
+of interacting with the computer. JOSS and the user would "take turns
+controlling the typewriter" in the words of the documentation. The
+computerized aide understood simple commands like `do`, `go`, and `type`.
+Given a number of predetermined commands, it would attempt to respond with a
+result. When confused, or when given an unfamiliar command, its default for an
+unspecified error mimicked human confusion: "Eh" [@shaw_joss:_1964]?
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
@@ -728,8 +729,8 @@ You're at end of road again.
 ```
 
 Although much more accessible and interactive than communication in octal or
-binary machine code, the conversational model had several significant
-downsides. It resembled human communication, but in fact utilized only a
+binary machine code, the conversational model posed several significant
+downsides. While resembling human communication, it in fact utilized only a
 limited vocabulary. Researchers from the U.S. Air Force academy would later
 write:
 
@@ -737,7 +738,7 @@ write:
 produced a new breed of users, people whose expertise was in some area other
 than computer technology. As their initial fascination with conversational
 computing wore off, users reported experiencing feelings of intense
-frustration and of being "manipulate" by a seemingly unyielding, rigid,
+frustration and of being "manipulated" by a seemingly unyielding, rigid,
 intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
 
@@ -754,32 +755,47 @@ manipulation involved three key principles:
 interest is immediately visible [@shneiderman_future_1982, 251;
 @hutchins_direct_1986, 91].
 
-The dream of direct manipulation was therefore to achieve a perfect
+The goal of direct manipulation was therefore to achieve a perfect
 correspondence between "representation" and the "object of interest."
-Shneiderman sites Leibniz in reference to symbolic notion, which in theory
-should "express the exact nature of a thing briefly and, as it were, picture
-it; then, indeed, the labor of thought is wonderfully diminished"
-(@shneiderman_direct_1983, 57). For Shneiderman and others, a computer game
-like *Pong* provided the paradigmatic example for direct manipulation.  When a
-player rotated a physical knob on gaming console up, or clockwise, the paddle
-on the screen would move up. When the player rotated the knob down, or
-counter-clockwise, the paddle moved down, thus achieving the correspondence
-between "operation" and "impact on the object of interest"
-[@shneiderman_direct_1983, 60]. By contrast, the conversational model of
-human--computer interaction was plagued by what researchers considered an
-arbitrary, symbolic relationship of the sign to its signifier. In this way,
-when using *EMACS*, a text editor commonly found on UNIX systems of the time,
-one would enter the command `k` in combination with other keys to delete or to
-"kill" a file, where on other systems, Shneiderman complains, `k` stands for
-"keep a file," the opposite from killing it [@shneiderman_direct_1983, 65]. In
-the direct manipulation paradigm, the sign stands in an "iconic" relationship
-to the object of interest [@norman_user_1986, 110]. In other words, like
-onomatopoetic words, the representing thing resembles the thing it represents.
-Edwin Hutchins, Donald Norman, and James Hollan write: "There is an economy
-here in that the user's knowledge of the structure of the surface acoustical
-form has a non-arbitrary relationship to meaning [...] The same sort of thing
-can be done in the design of interface languages " [@norman_cognitive_1991,
-123].
+Shneiderman sites Leibniz in reference to symbolic notation, which in theory
+should also "express the exact nature of a thing briefly and, as it were,
+picture it." For Leibniz, the symbol, an exact and portable picture of an
+idea, could subsequently diminish the mental effort required for abstract
+thought, leading to a "great advantage for discovery"
+[@shneiderman_direct_1983, 57]. Thus, the calculus of Leibniz and his notation
+for infinitely small and infinitely large numbers---ideas that would not fit
+on the page or in the mind otherwise, without compact representation
+[@cajori_history_1923; @thurston_leibnizs_1973; @grabiner_is_1974]. For
+Shneiderman and others, a computer game like *Pong* provided the paradigmatic
+example for direct symbolic manipulation. When playing, the player would
+control a virtual table-tennis paddle by rotating rotate a physical knob on
+gaming console. The movement of the physical knob corresponded directly to the
+movement of the paddle---clockwise for up and counter-clockwise for
+down---thus achieving the correspondence between "operation" and the "impact
+on the object of interest" [@shneiderman_direct_1983, 60].
+
+By contrast, the conversational model of human--computer interaction was
+plagued (in their view) by what researchers considered an arbitrary, symbolic
+relationship of the sign to its signifier. In this way, when using *EMACS*, a
+text editor commonly found on UNIX systems of the time, one would enter the
+command `k` in combination with other keys to delete or to "kill" a file,
+where on other systems, Shneiderman complains, `k` stood for "keep a file,"
+the opposite from killing it as one would expect [@shneiderman_direct_1983,
+65]. In the conversational model, the command stood in an arbitrary
+relationship to the intended effect, where in the direct manipulation model
+something like the knob and the movement of the paddle related mimetically. To
+be more precise, the direct manipulation paradigm advocated for an "iconic"
+relationship between representation and the object of interest
+[@norman_user_1986, 110]. Like onomatopoetic words, the movement of the knob
+resembles the movement of the thing it represents.  Edwin Hutchins, Donald
+Norman, and James Hollan write: "There is an economy here in that the user's
+knowledge of the structure of the surface acoustical form has a non-arbitrary
+relationship to meaning [...] The same sort of thing can be done in the design
+of interface languages" [@norman_cognitive_1991, 123]. An iconic image
+requires no explanation. It is intuitive. Instead of searching for the right
+command the user relies on the habituated affordances of real-world
+objects---table tennis paddles and paper trashcans---to manipulate virtual
+objects---computer games and file systems.
 
 Crucially, the immersion in the "mimetic context" of the simulation evoked, in
 the words of Samuel Taylor Coleridge, "the willing suspension of disbelief"
