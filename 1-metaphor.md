@@ -797,21 +797,25 @@ command the user relies on the habituated affordances of real-world
 objects---table tennis paddles and paper trashcans---to manipulate virtual
 objects---computer games and file systems.
 
-Crucially, the immersion in the "mimetic context" of the simulation evoked, in
-the words of Samuel Taylor Coleridge, "the willing suspension of disbelief"
-[@laurel_brenda_interface_1986, 76]. Brenda Laurel, a theater scholar later
-commissioned by Apple Computers to edit a collection of essays intended for
-employee training, expressed the task of interface design in Aristotelian
-terms, calling for the design immersive, interactive, and ultimately cathartic
-experiences. The conversation with the computer of the type elicited by
-*Colossal Cave Adventure* amounts to nothing more than just "using the
-computer" [@laurel_brenda_interface_1986, 74]. "End users are not interested
-in *making* representations," she writes. "They want to move around *inside*
-one," favoring the mimetic context over their actual, physical surroundings
-[@laurel_brenda_interface_1986, 75]. Norman and others write that the modeled
-world should support the "sensation of directness," in which direct, iconic
-expressions "behave in such a way that a user can assume that they, in some
-sense, *are* the things they refer to" [@hutchins_direct_1986, 110].
+Crucially, the full immersion in the "mimetic context" of the virtual object
+could elicit the "suspension of disbelief" [@laurel_brenda_interface_1986,
+76]. Add Heidegger here.
+
+Brenda Laurel, whom Apple Computers commissioned to help produce
+
+edit a collection of
+essays intended for employee training, expressed the task of interface design
+in Aristotelian terms, calling for the design immersive, interactive, and
+ultimately cathartic experiences. The conversation with the computer of the
+type elicited by *Colossal Cave Adventure* amounts to nothing more than just
+"using the computer" [@laurel_brenda_interface_1986, 74]. "End users are not
+interested in *making* representations," she writes. "They want to move around
+*inside* one," favoring the mimetic context over their actual, physical
+surroundings [@laurel_brenda_interface_1986, 75]. Norman and others write that
+the modeled world should support the "sensation of directness," in which
+direct, iconic expressions "behave in such a way that a user can assume that
+they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
+110].
 
 ![Direct manipulation of simulated objects. [@minsky_manipulating_1984,
 199]](images/minsky.png)
