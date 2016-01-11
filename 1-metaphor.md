@@ -121,25 +121,27 @@ Document Format (`.pdf`) containing nothing but "hello world" takes up 24,335
 bytes on my system. Formatting accounts for the disparity between plain text
 and fancy text, the latter defined as "text representation consisting of plain
 text plus added information" [@unicode_consortium_unicode_1990]. What is the
-nature of this "added information?" Historically, the added information
-included machine instructions for viewing and printing text, encoding, or
-encryption, used for clandestine communication. Portable Document Format
-specifically can also contain features that enable "accessibility of content
-to those with disabilities," "digital signatures to certify authenticity,"
-"electronic forms to gather data," "preservation of document fidelity
-independent of the device, platform, and software," and "security and
-permission to allow the creator to retain control of the document and
-associated rights" [@iso_portable_2008, vii]. These capabilities operate
-somewhere between the visible content and stored information. More than
-passive conduits of meaning, electronic texts contain the rules for engagement
-between authors and their readers. Embedded structures project an ontology. In
-our example, the Portable Document Format encodes, among other things, ideas
-about "reading," "authenticity," "fidelity," "preservation," and "authorship."
-Whatever literary theoretical framework the reader brings to the process of
-interpretation must therefore meet the framework implicit in the electronic
-text itself. Such an encounter happens not on the level of representation or
-ideology, but on the level of the physical, the phatic, and the imperative,
-where formatting and control reside.
+nature of this "added information?"
+
+Historically, the added information included machine instructions for viewing
+and printing text, encoding, or encryption, used for clandestine
+communication. Portable Document Format specifically can also contain features
+that enable "accessibility of content to those with disabilities," "digital
+signatures to certify authenticity," "electronic forms to gather data,"
+"preservation of document fidelity independent of the device, platform, and
+software," and "security and permission to allow the creator to retain control
+of the document and associated rights" [@iso_portable_2008, vii]. These
+capabilities operate somewhere between the visible content and stored
+information. More than passive conduits of meaning, electronic texts contain
+the rules for engagement between authors and their readers. Embedded
+structures project an ontology. In our example, the Portable Document Format
+encodes, among other things, ideas about "reading," "authenticity,"
+"fidelity," "preservation," and "authorship." Whatever literary theoretical
+framework the reader brings to the process of interpretation must therefore
+meet the framework implicit in the electronic text itself. Such an encounter
+happens not on the level of representation or ideology, but on the level of
+the physical, the phatic, and the imperative, where formatting and control
+reside.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
@@ -188,13 +190,13 @@ machine.[^ln1-turing] What he calls a "computing machine" involves a finite
 number of configurations of "tape" and "symbol." The machine attains a
 universal quality when configurations of tape and symbol can substitute for
 all other forms of symbolic manipulation. In this way a universal computer can
-emulate a word processor, a fairy tale world, or a calculator. Turing's
-universal computing machine is a type of a structural metaphor by definition.
-It has the ability to represent all other symbolic machine states,
+emulate a calculator, but also typewriter, a book, and a fairy tale world.
+Turing's universal computing machine is a type of a structural metaphor by
+definition. It has the ability to represent all other symbolic machine states,
 symbolically. Being a universal symbolic manipulator, the Turing machine is
 able to extend all metaphors. That is not to say that it can *do* anything.
-For example, one cannot use a computational device to hammer nails. But a
-computer can be used to extend the metaphor of hammering nails into the
+For example, one cannot use a computational device to hammer nails.  But a
+computer can be used to create the verisimilitude of hammering nails in the
 virtual realm.
 
 The language of computation reveals its reliance on metaphor in practice.
@@ -334,30 +336,30 @@ target domain structure" [@turner_conceptual_1995; @lakoff_contemporary_1998;
 @ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
 
 The principles of metaphor-driven design contain an implicit model of
-human--computer interaction. It implies that humans prefer not to manipulate
-digital information stored on computational media directly. Instead, they
-would manipulate digital information by the means of familiar mediating
-structures---paragraphs, pages, files, and folders---associated figuratively
-to the affordances of print media. We know, in other words, what paragraphs,
-pages, files, and folders can do on paper and we would like for digital paper
-to behave in a similar way. For example, one affordance of paper is that it
-can be folded. It therefore becomes possible to "earmark" a page by folding a
-corner. The fold enables subsequent recollection of read text. By these means,
-a reader is able to mark a notable place in the text and to return to it later
-quickly, if needed. The digital medium cannot physically be folded in the same
-way because it offers a set of affordances that differ from paper. But because
-readers are not familiar with "what can be done" digitally, the affordances of
-digital media are presented through metaphor. Thus a virtual "earmark" on a
-"page" can be made to represent a numerical pointer to a specific address in
-the computer memory. And a "page" could stand for a range of related addresses
-that correspond roughly to the information visible on an analogous page in
-print. Similarly one "drops a folder into the trash bin" or "drags and drops a
-file" or "bookmarks a page." Such metaphors rely on habituated insight with
-one medium extended into another. We do not literally "drag" or "drop" bits,
-but we use metaphors of paper and trashcan to help us manipulate bits and
-bytes as if they were household objects. The metaphor opens figurative
-possibilities. But it also obscures the actual physical contingencies of
-interacting with bits and bytes, logic gates and magnetic traces.
+human--computer interaction. It implies that humans prefer to manipulate
+digital information stored on computational media by the means of familiar
+mediating structures---paragraphs, pages, files, and folders---associated
+figuratively to the affordances of print media. We know, in other words, what
+paragraphs, pages, files, and folders can do on paper and we would like for
+digital paper to behave in a similar way. For example, one affordance of paper
+is that it can be folded. It therefore becomes possible to "earmark" a page by
+folding a corner. The fold enables subsequent recollection of read text. By
+these means, a reader is able to mark a notable place in the text and to
+return to it later quickly, if needed. The digital medium cannot physically be
+folded in the same way because it offers a set of affordances that differ from
+paper. But because readers are not familiar with "what can be done" digitally,
+the affordances of digital media are presented through metaphor. Thus a
+virtual "earmark" on a "page" can be made to represent a numerical pointer to
+a specific address in the computer memory. And a "page" could stand for a
+range of related addresses that correspond roughly to the information visible
+on an analogous page in print. Similarly one "drops a folder into the trash
+bin" or "drags and drops a file" or "bookmarks a page." Such metaphors rely on
+habituated insight with one medium extended into another. We do not literally
+"drag" or "drop" bits, but we use metaphors of paper and trashcan to help us
+manipulate bits and bytes as if they were household objects. The metaphor
+opens figurative possibilities. But it also obscures the actual physical
+contingencies of interacting with bits and bytes, logic gates and magnetic
+traces.
 
 Bits and bytes differ from files and folders, pages and paragraphs in what
 they can do. The affordances of the physical medium differ drastically from
@@ -422,13 +424,14 @@ attain a measure of correspondence between representation and the thing being
 represented. For example, in theory, a weather simulation should be capable of
 modeling observed meteorological conditions. But would it be a weather
 simulation if the model was broken in some way, or, in the extreme, if it had
-no correspondence to the physics of meteorology? The hyper-real breaks further
-still by usurping the underlying reality. The model does not merely obscure,
-it takes place of the thing being modeled. In other words, it begins to
-simulate itself, according to its own rules. The simulation no longer
-corresponds to any situation "on the ground." Severed from its referent, the
-symbol itself attains the status of reality. Thus hyper-reality: a symbol that
-folds onto itself. It is a weather simulation confused for weather.
+no correspondence to the physics of clouds, wind, and water? The hyper-real
+breaks further still by usurping the underlying reality. The model does not
+merely obscure, it takes place of the thing being modeled. In other words, it
+begins to simulate itself, according to its own rules. The simulation no
+longer corresponds to any situation "on the ground." Severed from its
+referent, the symbol itself attains the status of reality. Thus hyper-reality:
+a symbol that folds onto itself. It is a weather simulation confused for
+weather.
 
 The interface metaphor similarly exchanges one referent for another.
 Simulation should, by definition, "assume a form resembling that of something
@@ -462,11 +465,11 @@ corresponding actions in the target digital domain. In other words, turning
 the page on the screen should correspond to a similar action on the disk. But
 the action does necessarily meet our expectations. The arrangement of
 information stored on the disk affords different physical actions from the
-arrangement of information on a page. An English-language character on the
-disk occupies eight bits on a disk where a print character occupies one. The
-disk can tolerate millions of rewrites, where the paper medium wears out after
-only a few. The paper inscription is visible to the naked eye where the
-digital inscription is not.
+arrangement of information on a page. For example, an English-language
+character on the disk occupies eight bits on a disk where a print character
+occupies one. The disk can tolerate millions of rewrites, where the paper
+medium wears out after only a few. The paper inscription is visible to the
+naked eye where the digital inscription is not.
 
 The simulation is necessary perhaps, because the reading and writing of
 digital data can involve processes far outside of everyday experience. For
@@ -485,14 +488,14 @@ arbitrary connection to the structure of the other. Consequently change in the
 structure of one domain do not necessitate changes in the structure of
 another: to "erase a word" on a projected, virtual page thus may not have the
 corresponding effect on the level of the storage medium. The information may
-persist despite the intended erasure. We hope that the analogy between paper
-and pixel achieves a level of verisimilitude. Turning the page or erasing a
-word on the screen should do something similar on the disk. But we also know
-that not to be the case. The metaphor is broken similar to Baudrillard's map
-that no longer reflects any terrain. The computational metaphor simulates the
-familiar but absent affordances tied to an absent print artifact. The
-simulation suggests a structuring of one kind, while enacting a structure of
-another.
+persist despite the intended erasure. As dwellers of simulated worlds, we hope
+that the analogy between paper and pixel achieves a level of verisimilitude.
+Turning the page or erasing a word on the screen should do something similar
+on the disk. But we also know that not to be the case. The metaphor is broken
+similar to Baudrillard's map that no longer reflects any terrain. The
+computational metaphor simulates the familiar but absent affordances tied to
+an absent print artifact. The simulation suggests a structuring of one kind,
+while enacting a structure of another.
 
 ### 1.2 Death of a Metaphor
 
@@ -537,55 +540,63 @@ but also become naturalized: that is understood literally. They create
 connections that with time become habituated and invisible to their users. In
 other words, taken for literal truth, the metaphor loses its metaphoric
 quality. For example, for many readers the very idea of a "dead metaphor"
-itself may no longer evoke death as such. Perhaps they understand "death" of
-the "dead metaphors" to function synonymously with "conventional" or
+itself may no longer evoke death as such. Perhaps they understand the "death"
+of the "dead metaphors" to function synonymously with "conventional" or
 "idiomatic metaphors."[^ln4-dead] In Shelley view, such metaphors are destined
-to become dead and habituated only be reborn again in poetry. At its most
+to become dead and habituated only to be reborn again in poetry. At its most
 generative stage, the metaphor actively produces new meaning. The creative
 juxtaposition between two as before unrelated domains brings new aspects of
 experience to light. But with time, the poetic metaphor becomes a tired
 cliché. It longer "perpetuates understanding." It dies in a sense of becoming
-a mere shortcut to understanding.  In Viktor Shklovsky's words, we "cease to
+a mere shortcut to understanding. In Viktor Shklovsky's words, we "cease to
 experience" the trope. The metaphor "dries up" when we begin recognizing it
 without apprehension [@shklovsky_voskreshenie_1914]. It no longer generates
 new connection between domains, but merely reinforces existing ones. In Vilem
 Flusser's words, habituated idiom proceeds smoothly, giving us no pause,
 without bumps or interruptions [@flusser_freedom_2003, 13 and 82].
 
-Lakoff famously took exception with the idea "dead metaphor," arguing that
+Lakoff famously took exception with the idea of dead metaphors, arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
 structuring everyday experience. He gave the example of the sentence: *He
 still can't quite grasp the basic ideas of quantum mechanics*. Grasping in
 this case is used as a synonym to "understanding." It indicates a transference
-of properties between physical action (grasping) and mental space (thought).
-The metaphor is alive, Lakoff wrote, because it continues to perform a
-function. Even when dead in a sense, it names a mental activity that we would
-otherwise find difficult to explain precisely. Such a metaphor is more alive
-than other, perhaps more novel, "one off" poetic metaphors that failed to
-become cultural tropes. Shelly's and Shklovsky's stark poetic metaphor works
-once and never again. Lakoff's everyday metaphor continues to function
-productively by contrast.
+of properties between physical action (grasping) and mental action
+(understanding). Despite being a cliché, the metaphor is alive according to
+Lakoff, because it continues to perform a function, giving a name to a mental
+activity that we would otherwise find difficult to explain precisely. Such a
+metaphor is more alive than other, perhaps more novel, "one off" poetic
+metaphors that failed to become cultural tropes. Shelly's and Shklovsky's
+ideal poetic metaphors works once and never again. Their value lies in their
+novelty. Lakoff's everyday metaphor is not new, but it is vital precisely
+because it is used widely. It continues to bridge domains productively.
 
 A truly dead metaphor for Lakoff is one in which the original source image no
-longer makes sense. For example, the English word *pedigree* originally
-referred to the French for "crane's foot," or *pied de grue*. The foot was
-used as a typographical flourish to decorate centuries-old family-tree
-diagrams. When we spoke of the metaphorical "grasping" of ideas, both sides of
-the domain transference were readily available us. We understood something
-about grasping things and extended it to the capacity of the mind to "take
-hold" of ideas. By contrast, the *pied de grue* contained within the English
-*pedigree* is no longer accessible to the average speaker. In one the first
-case the metaphor is merely tired, where it is completely dead in the other.
-For Lakoff, The idea of a dead metaphor does not appropriately differentiate
-between the two cases [@lakoff_death_1987; @muller_metaphors_2008]. The
-metaphor sometimes "dies" but continues to perform its function of intuitively
-connecting two disparate domains. At other times, the metaphor dies in the
-sense of one domain becoming no longer accessible to its user. Furthermore, a
-wholly unmotivated metaphor does no work at all. Thus the non-sensual riddle
-famously posed by the mad hatter to Alice in Lewis Carroll's *Alice in
-Wonderland*: How is a raven like a writing desk? The dissimilarity between the
-two domains---of animals and of furniture---prevents any productive
-congruence.[^ln4-carroll]
+longer makes sense. He gives the example of the English word *pedigree*, which
+originally referred to the French for "crane's foot," or *pied de grue*. The
+foot was used as a typographical flourish to decorate centuries-old
+family-tree diagrams. In the previous example, when we spoke of the
+metaphorical "grasping" of ideas, both sides of the domain transference were
+readily available us. We understood something about grasping things and
+extended it to the capacity of the mind to take hold of ideas. By contrast,
+the *pied de grue* contained within the English *pedigree* is no longer
+accessible to the average speaker. In the first case the metaphor is merely
+tired, where it is completely dead in the other. In use, naturalized metaphors
+like "grasping" and "pedigree" lose their symbolic connotations. But unlike
+"pedigree," the metaphorical nature of "grasping ideas" is at least available
+for casual interpretation. The underlying metaphor THE MIND IS LIKE A HAND
+generates other meaningful phrases like "you have to let go of this idea." The
+crane's foot does not. The conventional notion of dead metaphors does not
+appropriately differentiate between the two cases [@lakoff_death_1987;
+@muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
+perform its function of intuitively connecting two disparate domains. At other
+times, the metaphor dies in the sense of one domain becoming no longer
+accessible to its user. Furthermore, we might add that a wholly unmotivated
+metaphor does no work at all. Thus the nonsensical riddle the Mad Hatter
+famously posed to Alice in Lewis Carroll's *Alice in Wonderland*: How is a
+raven like a writing desk? The dissimilarity between the two domains---of
+animals and furniture---prevents any productive congruence.[^ln4-carroll] No
+domain mapping happens between ravens and writing desks. Thus, not having been
+born, the metaphor dies in yet another sense.
 
 To what extent does the interface metaphor live by the above definitions? When
 discarding a document into a trash bin, in our reoccurring example, users
@@ -595,11 +606,13 @@ something substitutes for the *material reality* of the corresponding action.
 The concept blends not with another conceptual domain but with the material
 affordances of the target medium. Such material affordances---our ability to
 actually discard data, for example---stand in arbitrary relationship to the
-source domain. Simply put we expect the thing to be deleted, but it is not.
+source domain. Simply put, we expect the thing to be deleted, but it is not.
 The incongruence breaks Lakoff's Invariance Principle. Whatever structural
 changes we expect to happen in the source domain do not carry on to the
-target. The metaphor breaks in a sense. It becomes a dead metaphor even under
-Lakoff's strict definitions.
+target. The metaphor breaks almost as badly as the transference between desks
+and ravens. The appearance of taking out the trash without the corresponding
+erasure of data becomes a dead metaphor even under Lakoff's strict
+definitions.
 
 As was the case with the "crane's foot" in the English "pedigree," the user of
 the simulated document dustbin is missing one part of the metaphor equation.
@@ -616,13 +629,29 @@ simply missing, they are misrepresented.
 ### 1.3 Mimesis (Direct Manipulation)
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
-Laurel wrote in the seminal 1984 volume on user centered design edited by
-Donald Norman and Stephen Draper, "if designing interfaces feels like painting
-on cave walls by flickering torchlight, it is only because we, the designers,
-have not availed ourselves of better illumination: the science of the mimetic
-arts, poetics" [@laurel_brenda_interface_1986, 67]. Before the 1980s, the
-dominant paradigm of interacting with machines was the dialog
-[@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
+Laurel wrote in her seminal 1984 essay "Interface as Mimesis." She went on to
+write that "if designing interfaces feels like painting on cave walls by
+flickering torchlight, it is only because we, the designers, have not availed
+ourselves of better illumination: the science of the mimetic arts, poetics"
+[@laurel_brenda_interface_1986, 67]. Laurel, who holds a doctorate degree in
+theater studies, went on to work for companies like Apple, Activision, Atari,
+and Sun Microsystems in the 1980s and 1990s. Her work continues to be cited in
+more than 120 extant patents related to the design of human--computer
+interfaces. Yet, the impact of her thought in the humanities remains limited
+by disciplinary balkanization. Poetics, as she suggests, remains our best tool
+for the design and the critique of immersive computational environments,
+particularly as such environments begin to structure experience beyond the
+sphere of entertainment. Computers mediate in the interface between the public
+and the private, between art and politics, and between spheres of capital and
+control. We need the science of the mimetic arts today more than ever, lest we
+we lose a sense of what Michail Taussig has called the space ulterior to
+mimesis [@taussig_mimesis_1993, 129-144]. The suspension of disbelief, in
+other words, must remain, in Samuel Colridge's original formulation, an act of
+the *will*, containing a semblance of truth required to animate the "shadows of
+imagination" [@coleridge_biographia_1917, 6-7].
+
+Before the 1980s, the dominant paradigm of interacting with machines was the
+dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
 @martin_computerized_1970; @martin_design_1973]. Already in 1950, Turing
 imagined an artificially intelligent poet who defends its word choice in front
 of a literary critic:

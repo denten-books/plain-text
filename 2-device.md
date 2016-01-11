@@ -1,7 +1,5 @@
 ## Chapter 2: Laying Bare the Device
 
-### Moreno (book gun)
-
 "The weakest point in our present day universe is the incapacity of man to meet
 the machine, the culture conserve, or the robot, other than through submission,
 actual destruction, and social revolution" [@moreno_who_1953, 233]. So wrote
