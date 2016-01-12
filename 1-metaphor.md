@@ -799,20 +799,50 @@ objects---computer games and file systems.
 
 Crucially, the full immersion in the "mimetic context" of the virtual object
 could elicit the "suspension of disbelief" [@laurel_brenda_interface_1986,
-76]. Add Heidegger here.
+76]. In use, the metaphor machine fades from view. This in opposition to the
+now often-repeated Heideggerian insight into the nature of tool use. If the
+reader would recall, in *Being and Time*, Heidegger writes about the
+particular *handiness* of a tool, like a hammer. He writes, "the less we stare
+at the thing [...] the more actively we use it, the more original our relation
+to it becomes and the more undisguisedly it is encountered as what it is, a
+useful thing" [@heidegger_being_1996, 65]. For Heidegger, there was no way to
+understand a tool like a hammer theoretically, by detached reflection. One
+must understand it through use, in what he called *circumspection*. Through
+use a hammer comes into peripheral vision, "its own kind of seeing"
+[@heidegger_being_1996, 65]. The metaphoric device frustrates the Heideggerian
+intuition about tools like hammers, planes, and needles. At hand, the device
+takes shape as a keyboard, a mouse, or a touch screen. But in the mind, as a
+simulation, it dissembles to behave like a page, a folder, or a wastepaper
+bin. The tool---a keyboard or a touch screen---is not encountered for what it
+is. Nor does simulated tool produce a special kind of knowledge of the sort
+elicited through mastery over actual instruments.
 
-Brenda Laurel, whom Apple Computers commissioned to help produce
-
-edit a collection of
-essays intended for employee training, expressed the task of interface design
-in Aristotelian terms, calling for the design immersive, interactive, and
-ultimately cathartic experiences. The conversation with the computer of the
-type elicited by *Colossal Cave Adventure* amounts to nothing more than just
-"using the computer" [@laurel_brenda_interface_1986, 74]. "End users are not
-interested in *making* representations," she writes. "They want to move around
-*inside* one," favoring the mimetic context over their actual, physical
-surroundings [@laurel_brenda_interface_1986, 75]. Norman and others write that
-the modeled world should support the "sensation of directness," in which
+Instead, the explicit function of the simulation is to obscure the mediated
+nature of the virtual experience and to manufacture an "interactive mimesis,"
+in what Laurel and others call "first personness," the experience of "directly
+living and acting within the world established by the computer"
+[@norman_user_1986, 490-1]. Hutchins, Hollan, and Norman write: "when an
+interface presents world of action rather than a language of description,
+manipulating a representation can have the same effects and the same feel as
+manipulating the thing being represented" [@hutchins_direct_1986, 98-99].
+Similar to Heidegger's distinction between practice and theory, the theorists
+of direct manipulation make a distinction between action and description. But
+unlike Heidegger, who is thinking about tools at hand, direct manipulation
+theory imagines the handling of representations. The actual instrument
+enabling the manipulating of image or word on the screen is supposed to
+disappear entirely, giving rise to the immersive, interactive, first-person
+experience *without mediation*. "The user of a well-designed *model world*
+interface can willfully suspend disbelief that the objects depicted are
+artifacts of some program and can thereby directly engage the world of the
+objects," the authors write [@hutchins_direct_1986, 99]. In this view, the
+dialogic model of tool use encouraged by *Colossal Cave Adventure*---get keys,
+get lamp---amounts to nothing more than just "using the computer"
+[@laurel_brenda_interface_1986, 74]. "End users are not interested in *making*
+representations," Laurel writes. "They want to move around *inside* one,"
+favoring the mimetic context over their actual, physical surroundings
+[@laurel_brenda_interface_1986, 75]. Verbal representations, like "get keys"
+or "get lamp," puncture the first-person illusion. By contrast, the fully
+immersive modeled world should support the "sensation of directness," in which
 direct, iconic expressions "behave in such a way that a user can assume that
 they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 110].
