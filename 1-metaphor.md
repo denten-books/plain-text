@@ -856,13 +856,13 @@ workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox.png)
 The principles of direct interaction stood against what Laurel called the
 "ill-formed" presence of the mediator, like JOSS in the examples above, or
 like the command prompt in the *Colossal Cave Adventure*. The computerized
-aide attempts to mediate between the human and the machine, where the human
-desire the unmediated pleasure of direct engagement
-[@laurel_brenda_interface_1986, 75]. The agent takes the place of the user in
-a game: it swings the sword for her, takes a beating, and reports on the
-experience. Laurel writes:
+aide attempts to arbitrate mediate between the human and the machine, where
+humans earn the unmediated "pleasure" and "catharsis" of direct engagement
+[@laurel_brenda_interface_1986, 75]. The intermediary takes the place of the
+player in a game: it swings the sword for her, takes a beating, and reports on
+the experience. Laurel writes:
 
-> In the file management example, the intermediary take the form of command
+> In the file management example, the intermediary takes the form of command
 menus that are invoked in order to activate processes in the program that will
 create the desired results. The user does not have the experience of pushing
 files around, stowing them and grabbing them, or blowing them away. Instead,
@@ -879,11 +879,11 @@ virtual graphical objects like windows, icons, desktops, folders, and buttons.
 The Star and Daybreak workstations were some of the earliest machines to put
 the principles of domain blending and direct manipulation into action. The
 interface was meant to "reveal the structure" of the simulated objects
-intuitively, without training or lengthy written explanation. In the words of
-Brenda Laurel, the mimetic interface employed "logic and aesthetics to create
+intuitively, without training or lengthy written explanation. In Laurel's
+words, the mimetic interface employed "logic and aesthetics to create
 representations that *engage humans in pleasurable ways"
-[@laurel_brenda_interface_1986, 85]. The mimetic context is simply "the
-experience we desire," Laurel writes. Direct participation enables actors to
+[@laurel_brenda_interface_1986, 85].  The mimetic context is simply "the
+experience we desire," Laurel wrote. Direct participation enables actors to
 experience "the full pleasure of the mimetic form"
 [@laurel_brenda_interface_1986, 75].
 
@@ -893,39 +893,60 @@ came with an emphasis on such immersive and mimetic experiences
 familiarity with the source domain. In this way, we understand what to do with
 "folder" icons because we know how folders behave in real life. Direct mimetic
 manipulation does not however tell us anything new about the capabilities of
-virtual folders, however. Immersion in some sense precludes critical
-reflection. More problematically, mimetic immersion introduces a kind of a
-logical fallacy into the simulated experience. The literature on direct
-manipulation often refers to the example of driving a car to illustrate a kind
-of an interface by which inputs and outputs are directly correlated. Thus
-instead of giving complicated commands to the vehicle, the drivers turns the
-wheel to the right, and the car immediately follows. A direct causal link
-exists between the steering wheel and the car's axle. Similarly, when
-operating a computer game like *Space Invaders* via a joystick, the player
-experiences an immediate correspondence between the movement of the
-controlling mechanism and the movement of the player-controlled space ship on
-the screen. Writers attempting to delete sensitive information by dragging and
-dropping an icon of a document to the icon of a trash stand in a relationship
-to the object of their interest unlike drivers or video game players. The car
-is the "direct object of interest" for a driver, just like the virtual space
-ship is for a gamer. But authors are not interested in the virtual
+virtual folders. Immersion precludes critical reflection beyond the
+pre-defined confines of the modeled world. The user has access to no more than
+the simulated experience allows and can provide. More problematically, the
+ideas behind mimetic immersion contain a kind of a logical fallacy. The
+literature on direct manipulation often refers to the example of driving a car
+to illustrate the type of an interface by which inputs and outputs are
+directly correlated. Thus instead of giving complicated commands to the
+vehicle, the drivers turns the wheel to the right, and the car immediately
+follows. A direct causal link exists between the steering wheel and the car's
+axle. Similarly, when operating a computer game like *Space Invaders* via a
+joystick, the player experiences an immediate correspondence between the
+movement of the controlling mechanism and the movement of the
+player-controlled space ship on the screen.
+
+Writers attempting to delete sensitive information by dragging and dropping an
+icon of a document to the icon of a trash stand in a relationship to the
+object of their interest unlike drivers or video game players. The car is the
+"direct object of interest" for a driver, just like the virtual space ship is
+for a gamer. But in our example, authors are not interested in the virtual
 representation of the document slated for erasure. The object of their
 interest is not mimetic. They would like to erase the document itself, located
-somewhere within the machine. Far from being direct, the iconic representation
-of the document occludes the physical object along with its associated
-properties.
+somewhere within the machine. In many cases like these, the inhabitants of the
+virtual world have an interest in objects outside of it. The paradigm of
+direct manipulation instead veils the object from view, suspending the rules
+of material interaction in favor of the virtual. Far from being direct, the
+iconic representation of the document---the image of a file---usurps the
+physical object---the file itself. Where in the conversational paradigm the
+nature of the mediation was at hand, open to circumspection, in the direct
+manipulation paradigm the simulacrum occludes the very nature of the
+simulation.
+
+### 1.4 Speculative Formalism
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
 Halstead noted that "the practical upper limits of [telegraph transmission]
 speed will also be limited by the ability of some human beings to operate a
 keyboard, until such time as electrical connection be made direct with the
 receiver's central nervous system" [@halstead_genesis_1949, 451]. The history
-of human--computer interaction began with physical switches. It then tradition
-into conversational computing. The mimetic "direct manipulation" schools has
-led us further towards Baudrillard's "elimination of references and
-finalities," and the "ever-increasing loss of resemblances and designations."
-The simulation tends towards the total illusion of directness under the
-conditions of complete alienation from its material contexts.
+of human--computer interaction began with manipulating physical switches,
+first by hand and then by removable storage media like paper tape and punch
+card. The next phase was dialogic and conversational in nature. Conversational
+computing introduced the idea of a mediating agent or an interpreter, who
+could translate from a limited number of natural human language words into the
+specialized vocabulary of signals that could alter the state of the machine
+configuration. The "direct manipulation" school of human--computer interaction
+has led us further towards mimesis, simulating machine states as virtual
+environments resembling real-world objects and their properties.
+
+The trajectory from direct *physical* manipulation to direct *virtual*
+manipulation leads to the loss of resemblances and designations
+
+The
+simulation tends towards the total illusion of directness under the conditions
+of complete alienation from its material contexts.
 
 Brain to brain!
 non-representational elements of
@@ -940,7 +961,8 @@ to translate between brain impulses and the transmission apparatus. Such
 survive non representation. I want to imagine.
 
 Not no mediation, but the Suspension of disbelief. With direct brain
-communication
+communication at the upper limit of computational command on control
+structures.
 
 <!-- notes -->
 <!-- notes -->
