@@ -807,15 +807,16 @@ at the thing [...] the more actively we use it, the more original our relation
 to it becomes and the more undisguisedly it is encountered as what it is, a
 useful thing" [@heidegger_being_1996, 65]. For Heidegger, there was no way to
 understand a tool like a hammer theoretically, by detached reflection. One
-must understand it through use, in what he called *circumspection*. Through
-use a hammer comes into peripheral vision, "its own kind of seeing"
-[@heidegger_being_1996, 65]. The metaphoric device frustrates the Heideggerian
-intuition about tools like hammers, planes, and needles. At hand, the device
-takes shape as a keyboard, a mouse, or a touch screen. But in the mind, as a
-simulation, it dissembles to behave like a page, a folder, or a wastepaper
-bin. The tool---a keyboard or a touch screen---is not encountered for what it
-is. Nor does simulated tool produce a special kind of knowledge of the sort
-elicited through mastery over actual instruments.
+must understand it through use, in what he called *circumspection*
+[*Umsicht*]---the awareness of the object ready-to-hand [*zuhanden*]
+[@heidegger_sein_1967, 69]. Through use a hammer comes into peripheral vision,
+"its own kind of seeing" [@heidegger_being_1996, 65].  The metaphoric device
+frustrates the Heideggerian intuition about tools like hammers, planes, and
+needles. At hand, the device takes shape as a keyboard, a mouse, or a touch
+screen. But in the mind, as a simulation, it dissembles to behave like a page,
+a folder, or a wastepaper bin. The tool---a keyboard or a touch screen---is
+not encountered for what it is. Nor does simulated tool produce a special kind
+of knowledge of the sort elicited through mastery over actual instruments.
 
 Instead, the explicit function of the simulation is to obscure the mediated
 nature of the virtual experience and to manufacture an "interactive mimesis,"
@@ -942,27 +943,49 @@ has led us further towards mimesis, simulating machine states as virtual
 environments resembling real-world objects and their properties.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
-manipulation leads to the loss of resemblances and designations
+manipulation leads to the totalizing loss of resemblances and designations. At
+its logical extreme, the simulacrum supplants the thing being simulated. It
+appears as hyper-reality, direct and unmediated while being neither. All
+"objects of interest" within the modeled world are fabricated objects. As
+tools and interfaces they are limited to the artificial constraints of their
+makers. Such manufactured experiences present us with compelling, cathartic
+even, metaphors which extend the reach far beyond entertainment: subsuming all
+spheres of social activity mediated by computers. The manipulation of
+metaphors---a reflective, not merely circumspect inhabitance of virtual
+worlds---thus requires not just a willing suspension of disbelief, but also
+poetics, hermeneutics, close reading, distant reading, deconstruction, trope
+analysis, in short precisely the legacy of interpretive practice that
+stretches from Aristotle to Susan Sontag and beyond. We cannot otherwise allow
+the suspension of disbelief to become a permanent condition.
 
-The
-simulation tends towards the total illusion of directness under the conditions
-of complete alienation from its material contexts.
+At the writing of this book, our society stands at the threshold of direct
+brain to computer interfaces. Far from science fiction, the seemingly direct
+manipulation of machines "with one's mind" is common enough today to be turned
+into a toy.[^ln3-mindflex] Early attempts at brain--computer interfaces used
+either imprecise "noisy" electroencephalographic (EEG) scalp sensors or
+electrode implants that required invasive surgery. In 2004 a team of
+scientists developed a way of controlling "a one-dimensional computer cursor
+rapidly and accurately" using electrocorticographic (ECoG) activity recorded
+from the surface of the brain [@leuthardt_braincomputer_2004;
+@miller_spectral_2007]. And in 2015, a quadriplegic woman piloted an F-35
+Joint Strike Fighter using her brain in a simulation developed by the
+University of Pittsburgh's Human Engineering Research Laboratories in
+collaboration with the Defense Advanced Research Projects Agency (DARPA)
+[@collinger_collaborative_2014; @prabhakar_how_2015]. Military applications
+aside, we must prepare for a future in affective arts, the ultimate loss of
+references and resemblances: literature without representation, painting
+without figure, message without sign.
 
-Brain to brain!
-non-representational elements of
-F16. Joystick that feels. The electrical system we saw emerge in chapters one
-and two can be wired directly in the central nervous system. Not science
-fiction. But note that communication is only direct in the sense that the
-sender and the receiver of such a message do not have recourse to external
-representation. Yet, such communication would still be subject to conditions
-we have already explored in the telegraph chapter. Something has to mediate:
-to translate between brain impulses and the transmission apparatus. Such
-"direct" communication would therefore still be mediated. Can literature
-survive non representation. I want to imagine.
-
-Not no mediation, but the Suspension of disbelief. With direct brain
-communication at the upper limit of computational command on control
-structures.
+However futuristic the possibility may seem to us today, brain--computer and
+subsequently brain--computer--brain interfaces are merely a small evolutionary
+step in a long history of brain-to-brain interfaces, already arbitrated by
+paper, ink, code, and silicon. Media intercedes. But as technological dreams
+become reality they also become less interesting and more mundane. Habituation
+smoothes unreconciled corners of the human--machine interface. The tool
+recedes from view and begins to seem like a natural and direct extension of
+the body. Our task now is to bring receding media to light, to expose the
+mediating structures supporting the simulation, and to insist on the primacy
+of the sign.
 
 <!-- notes -->
 <!-- notes -->
@@ -982,3 +1005,12 @@ nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 
 [^ln4-dead]: For a book length summary on this very topic see
 @muller_metaphors_2008.
+
+[^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
+The Frequently Asked Questions page includes the following prompt: "Have you
+ever dreamed of moving an object with the power of your mind? Mindflex Duel™
+makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
+wireless headset reads your brainwave activity. Concentrate...and the ball
+rises on a cushion of air! Relax...and the ball descends. It's literally mind
+over matter!" (@mindflex_mindflex:_2015)
+

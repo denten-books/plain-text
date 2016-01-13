@@ -1276,30 +1276,6 @@ view not by some inevitable property of technological progress, but through
 automation of experience. In refracting ourselves through the gaze of the
 technological other we see the human world anew.
 
-From this perspective, electricity---the "language" of wires---is not a media
-format intended for human consumption. One could learn to understand telegraph
-intercourse through electrocution, by applying the wire directly to the skin.
-Direct brain--computer interfaces promise to do more or less exactly that and
-are common enough today to be turned into a toy.[^ln3-mindflex] The early
-efforts in this space implanted electrodes into the brain directly to capture
-single-neuron activity, or relied on imprecise "noisy" electroencephalographic
-(EEG) scalp activity. In 2004 a team of scientists developed a way of
-controlling "a one-dimensional computer cursor rapidly and accurately" using
-electrocorticographic (ECoG) activity recorded from the surface of the brain
-[@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
-quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
-simulation developed by the University of Pittsburgh's Human Engineering
-Research Laboratories in collaboration with the Defense Advanced Research
-Projects Agency (DARPA) [@collinger_collaborative_2014; @prabhakar_how_2015].
-Advances in brain--computer interfaces suggest also the not-all-too-distant
-possibility of computer--brain interfaces (in a reversal of the direction),
-completing the loop between human and machine. This may also imply the
-possibility of communicating brain-states directly, without the mediation of
-text or sound. However futuristic that possibility may seem to us today, it is
-merely a small evolutionary step in a long history of brain-to-brain
-interfaces, already mediated by paper, ink, code, and silicon. The digital
-world of paper and ink holds no less magic.
-
 I return, then, to the subject of time, found throughout in the background of
 this chapter. The popular imagination of digital machines belies a deep sense
 of anxiety about the rhythm of the system as a whole, in which humans play only
@@ -1355,14 +1331,6 @@ dashes in a manner similar to the ones and zeroes of digital logic;"
 @comer_internet_2006, 32: "The telegraph is a digital device because instead of
 sending a continuous signal that is an exact analog of the input, the telegraph
 clicks to send the individual characters."
-
-[^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
-The Frequently Asked Questions page includes the following prompt: "Have you
-ever dreamed of moving an object with the power of your mind? Mindflex Duel™
-makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
-wireless headset reads your brainwave activity. Concentrate...and the ball
-rises on a cushion of air! Relax...and the ball descends. It's literally mind
-over matter!" (@mindflex_mindflex:_2015)
 
 [^ln3-cont]: Gregory Hickok, a prominent cognitive scientists working out of
 University of California, Irvine writes: "The brain samples the world in
