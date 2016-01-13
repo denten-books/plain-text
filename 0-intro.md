@@ -99,7 +99,7 @@ I deploy the archive to argue that extant theories of interpretation evolved
 to function under the conditions tied to static print media. By contrast,
 electronic text changes dynamically to suit its reader, political context, and
 geography. Consequently, I argue for the development of what I term
-*computational hermeneutics*: a strategy of interpretation capable of reaching
+*computational poetics*: a strategy of interpretation capable of reaching
 past the surface content to reveal the software platforms and the hardware
 infrastructures that contribute to the production of meaning. Drawing on a
 range of materials at the intersection of literary thought and the history of
@@ -135,7 +135,7 @@ passed in the United States in 1996, goes beyond written injunction to require
 the management of digital rights (DRM) at the level of hardware. An electronic
 book governed by DRM may prevent the reader from copying or sharing stored
 content, even for the purposes of academic study.[^ln-dmca] Computational
-hermeneutics strives to make such control structures available for critical
+poetics strives to make such control structures available for critical
 reflection. Building on the recent work of scholars like Wendy Kyong Chun,
 Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered poetics, able
 regain a measure of control over the material contexts of our knowledge
@@ -491,7 +491,7 @@ dwelling, Flusser wrote, "and without information, in a chaotic world, one can
 neither feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
 displacement and habituation enter into a continuing conversation.
 
-## 0.4 Computational hermeneutics
+## 0.4 Computational poetics
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering. Similar in method to what Matthew
@@ -508,10 +508,10 @@ device.
 
 The word processor, the operating system, and the electronic book are some of
 the sites that stage the encounter between literary theory and practice today.
-In *Plain Text* I introduce a method of computational hermeneutics, which is a
+In *Plain Text* I introduce a method of computational poetics, which is a
 form of textual analysis strongly influenced by materialist critique. Where
 "distant reading" and cultural analytics perceive patterns across large-scale
-copora, computational hermeneutics breaks textuality down into its minute
+copora, computational poetics breaks textuality down into its minute
 constituent components. It is at this scale that I find readers and writers
 becoming fundamentally alienated from the immediate material contexts of
 knowledge production. Mine is not however a post-human materialism of the kind
@@ -654,7 +654,7 @@ cannot give rise to ideals any more than financial markets can. From the many
 available visions of human--computer interaction I argue for choosing one that
 confirms to a humanist ethos, whatever the reader's politics.
 
-Computational hermeneutics encourages users to become active thinkers,
+Computational poetics encourages users to become active thinkers,
 tinkerers, and makers of technology. It treats binary and digital environments
 as fluid literary systems, amenable to the construction and the deconstruction
 of meaning. I further encourage those who may have considered themselves mere
@@ -666,13 +666,13 @@ primitive field of textual activity, at the crossroads of computer science and
 the study of literature. Encoding matters because how text is encoded,
 transmitted, and stored decides who gets to decode, to receive, and to access.
 
-The advent of simulated text necessitates a computational hermeneutics, which
+The advent of simulated text necessitates a computational poetics, which
 enables unfettered access to text, code, platform, and infrastructure.  For
 now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
 incantations that elicit hidden, symbolic action.[^ln-cli] Those who wield
 them gain the metaphorical power to "hop" across, to "sniff" packets, to
 "survey," to "traverse," and to "flood" network topographies. Computational
-hermeneutics empower the reader to resist hard-wired models of machine-bound
+poetics empower the reader to resist hard-wired models of machine-bound
 interpretation. Yet today, resistance remains the purview of the few.  Plain
 text channels itinerant streams of data back into the tidal pools of human
 agency and comprehension for all. There, code can become intelligible for the

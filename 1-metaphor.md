@@ -932,60 +932,79 @@ Halstead noted that "the practical upper limits of [telegraph transmission]
 speed will also be limited by the ability of some human beings to operate a
 keyboard, until such time as electrical connection be made direct with the
 receiver's central nervous system" [@halstead_genesis_1949, 451]. The history
-of human--computer interaction began with manipulating physical switches,
-first by hand and then by removable storage media like paper tape and punch
-card. The next phase was dialogic and conversational in nature. Conversational
-computing introduced the idea of a mediating agent or an interpreter, who
-could translate from a limited number of natural human language words into the
-specialized vocabulary of signals that could alter the state of the machine
-configuration. The "direct manipulation" school of human--computer interaction
-has led us further towards mimesis, simulating machine states as virtual
-environments resembling real-world objects and their properties.
+of human--computer interaction began with the manipulation of physical
+switches, first by hand and then by removable storage media like paper tape
+and punch card. The next phase was dialogic and conversational in nature.
+Conversational computing introduced the idea of a mediating agent, an
+interpreter, who could translate from a limited number of natural human
+language commands into the specialized vocabulary of signals that could alter
+the machine configuration. The "direct manipulation" school of human--computer
+interaction has led us further towards mimesis, simulating machine states as
+virtual environments resembling real-world objects and their properties.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
 manipulation leads to the totalizing loss of resemblances and designations. At
 its logical extreme, the simulacrum supplants the thing being simulated. It
-appears as hyper-reality, direct and unmediated while being neither. All
-"objects of interest" within the modeled world are fabricated objects. As
-tools and interfaces they are limited to the artificial constraints of their
-makers. Such manufactured experiences present us with compelling, cathartic
-even, metaphors which extend the reach far beyond entertainment: subsuming all
+appears as hyper-reality, the experience of direct and unmediated interaction
+without awareness of the underlying referent. All "objects of interest" within
+such a modeled world are fabricated objects. They are thus limited to the
+external artificial constraints imposed by their makers. Such manufactured
+experiences present us, the "users," with compelling, cathartic even,
+metaphors. The metaphors extend far beyond entertainment: subsuming all
 spheres of social activity mediated by computers. The manipulation of
 metaphors---a reflective, not merely circumspect inhabitance of virtual
-worlds---thus requires not just a willing suspension of disbelief, but also
-poetics, hermeneutics, close reading, distant reading, deconstruction, trope
-analysis, in short precisely the legacy of interpretive practice that
-stretches from Aristotle to Susan Sontag and beyond. We cannot otherwise allow
-the suspension of disbelief to become a permanent condition.
+worlds---therefore requires not just a willing suspension of disbelief, but
+also poetics: hermeneutics, close reading, distant reading, deconstruction,
+trope analysis, in short precisely the legacy of interpretive practice that
+stretches from Aristotle to Susan Sontag and beyond. The suspension of
+disbelief otherwise threatens to become a permanent condition, disempowering
+as it is pleasurable or cathartic.
 
-At the writing of this book, our society stands at the threshold of direct
-brain to computer interfaces. Far from science fiction, the seemingly direct
-manipulation of machines "with one's mind" is common enough today to be turned
-into a toy.[^ln3-mindflex] Early attempts at brain--computer interfaces used
-either imprecise "noisy" electroencephalographic (EEG) scalp sensors or
-electrode implants that required invasive surgery. In 2004 a team of
-scientists developed a way of controlling "a one-dimensional computer cursor
-rapidly and accurately" using electrocorticographic (ECoG) activity recorded
-from the surface of the brain [@leuthardt_braincomputer_2004;
-@miller_spectral_2007]. And in 2015, a quadriplegic woman piloted an F-35
-Joint Strike Fighter using her brain in a simulation developed by the
-University of Pittsburgh's Human Engineering Research Laboratories in
-collaboration with the Defense Advanced Research Projects Agency (DARPA)
-[@collinger_collaborative_2014; @prabhakar_how_2015]. Military applications
-aside, we must prepare for a future in affective arts, the ultimate loss of
-references and resemblances: literature without representation, painting
-without figure, message without sign.
+At the time of writing this book, our society stands at the threshold of a new
+paradigm of interacting with computers and hence with each other.  Direct
+brain to computer interfaces are common enough today to be turned into a
+toy.[^ln3-mindflex] Early brain--computer interfaces used either imprecise
+"noisy" electroencephalographic (EEG) scalp sensors or electrode implants that
+required invasive surgery. In 2004 a team of scientists developed a way of
+controlling "a one-dimensional computer cursor rapidly and accurately" using
+electrocorticographic (ECoG) activity recorded from the surface of the brain
+[@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
+quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
+simulation developed by the University of Pittsburgh's Human Engineering
+Research Laboratories in collaboration with the Defense Advanced Research
+Projects Agency (DARPA) [@collinger_collaborative_2014; @prabhakar_how_2015].
+At the surface, the advance of brain--computer interfaces seems to bring us
+closer to the vision of increasing directness: no interface, interaction
+between people and machines without intermediary symbols, words, or images.
+Military applications aside, we must prepare for a future in affective arts,
+the ultimate loss of references and resemblances: literature without
+representation, painting without figure, message without sign.
 
-However futuristic the possibility may seem to us today, brain--computer and
-subsequently brain--computer--brain interfaces are merely a small evolutionary
-step in a long history of brain-to-brain interfaces, already arbitrated by
-paper, ink, code, and silicon. Media intercedes. But as technological dreams
-become reality they also become less interesting and more mundane. Habituation
-smoothes unreconciled corners of the human--machine interface. The tool
+However futuristic such possibilities may seem to us today, brain to computer
+and subsequently brain to computer to brain interfaces should be considered in
+the context of the long history of brain-to-brain interfaces, routinely
+mediated by paper, ink, code, and silicon. Media intercedes. But as
+technological dreams become reality they also grow less interesting and more
+mundane. Habituation smoothes the rough edges of irreconcilability. The tool
 recedes from view and begins to seem like a natural and direct extension of
-the body. Our task now is to bring receding media to light, to expose the
-mediating structures supporting the simulation, and to insist on the primacy
-of the sign.
+the body. The goal of computational poetics is to denaturalize the encounter,
+to bring the receding media to light, and to expose the mediating systems
+supporting the simulation. A measure of discomfort in the fit between bodies
+and screens ensures our ability to structure the encounter on our own terms
+and to opt out when needed. My concern is not with the metaphysical
+entailments of a possible post-human future. The illusion of directness rather
+conceals the very human mechanisms of command and control. The simulation is
+ultimately a power structure and an economy of exchange between physical and
+mental resources.
+
+The above comments apply to computation generally. We will spend the following
+chapters peeling apart the layers of the literary and the bibliographic
+simulation in particular. Once the electronic book can be perceived as
+computation in kind, we can begin to examine the incongruence in the
+structures of meaning-making at the sites of storage and projection. If we
+consider "what you see is what you get" as a type of a promise, the following
+chapters will help us understand the ways of seeing and the material
+particulates of getting. The electronic book shall come to fore as a literary
 
 <!-- notes -->
 <!-- notes -->
@@ -1013,4 +1032,3 @@ makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
 wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
-

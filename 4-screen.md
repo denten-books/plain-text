@@ -1342,6 +1342,7 @@ around: Rhythms in the environment, such as those in music or speech, can draw
 neural oscillations into their tempo, effectively synchronizing the brain's
 rhythms with those of the world around us" [@hickok_its_2015]. His study on the
 topic is forthcoming in *Psychological Science* in 2015.
+
 [^ln3-brain]: At the physical level, the process of textual remediation begins
 at the brain, as when thoughts are initially transcribed onto paper.
 
