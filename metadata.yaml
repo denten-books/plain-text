@@ -11,7 +11,6 @@ cover-image: images/steno.png
 documentclass: article
 classoption: none
 header-includes:
-- \usepackage{ftnxtra}
 - \usepackage{titlesec}
 - \newcommand{\sectionbreak}{\clearpage}
 - \usepackage{fancyhdr}

@@ -87,7 +87,7 @@ competition for survival happens not between persons, sects, races, or
 nations, but between humanity and its automatons from the past. The only way
 to compete with the robot was for him to expand the human cultural capacity
 for creation. The one advantage the biological being has over the zootechnical
-animal is creative spontaneity. However, he argues that our capacity for
+animal is creative spontaneity. However, he argued also that our capacity for
 creative and spontaneous action has to be continually on guard against
 lethargy. The machines of yore ease the burden of creativity; they weaken the
 capacity for poiesis by reducing the effort necessary to bring it forth.
@@ -116,10 +116,12 @@ as a volitional object. Even if we cannot "read" the author's mind, we can
 similarly assign a measure of agency to the author in the process of creation.
 Failing to produce an account of causes and effects involved, we are left
 instead to ascribe volition to inanimate objects and meaning-making to chance.
-The intentional fallacy frees the critic to concentrate on the pertinent and
-readily observable attributes of the text. But it also obscures the flows of
-agency, imbuing the word with an anthropomorphic quality; it slides into
-active voice, where texts mean and languages "speak themselves."[^ln1-auto]
+The removal of the intentional fallacy frees the critic from speculation on
+the author's mindset, limiting analysis to the pertinent and readily
+observable attributes of the text. But it also obscures the flows of agency,
+imbuing the word with an anthropomorphic quality. Literary analysis without a
+model of intention tends to slide into active voice, where texts mean and
+languages "speak themselves."[^ln1-auto]
 
 I do not mean to buoy the notion of authorial intent. Rather, Moreno's jarring
 parallelism between books and bombs reminds the reader that both constitute a
@@ -130,7 +132,7 @@ problematics related to action delayed in time and space by symbolic means.
 Technology of the word decouples readers from writers. Once decoupled,
 seemingly autonomous actors---books and robots---clutter the social sphere,
 continuing to structure human experience in the absence of the originating
-accord. This might appear like a curious way of putting things, but not
+accord. The above might appear like a curious way of putting things, but not
 unusual in the larger context of post-Kantian humanism at the turn of the
 twentieth century. In Moreno's words we hear more than an echo of Marx's
 fetishism of commodities, by which "definite social relation between men"
@@ -151,25 +153,25 @@ looks like a book today indeed takes on the functions of a gun and a trigger.
 I mean this literally: simulated text comprises a part of the same
 computational platform that powers drones and aircraft carriers. Today,
 computer servers in the service of the world's largest purveyors of literature
-service also air traffic control and covert intelligence
+service also air traffic control and covert intelligence agencies
 [@soyata_combat:_2012; @logicworks_government_2015].
 
 These conditions compel us---historians, philologists, et al.---to reconsider
 the cozy relationship we have had with books since the advent of the Gutenberg
-press. *Simulated text*, as I have been calling it here, no longer plays by
-the same rules as print. The bibliographic illusion veils machine internals.
-My task in this chapter is to perceive the Turing machine, the blueprint for
-all computation, within the electronic book. In doing so, the literary device,
+press. Simulated text, as I have been calling it here, no longer plays by the
+same rules as print. The bibliographic illusion veils machine internals.  My
+task in this chapter is to perceive a Turing machine, the blueprint for all
+computation, within the electronic book. In doing so, the literary device,
 itself a powerful computer, will therefore gain meaning as a mechanism for
 generalized symbolic manipulation. At the same time, I aim to place the modern
 computer itself within the long history of the book, as a piece of literary
-technology. To achieve my task, I will construct several pre-histories of the
-literary device, first as a formal technique, then as a thought experiment,
-and finally as a control mechanism. To preserve a sense of human agency and to
-break the inertia of leisurely reading, we must rediscover the book as a
-device; to call it forth for what it is and always was---a robot for effecting
-thought at a distance; and to bring it back under the purview of
-interpretation.
+(and not just mathematical) technology. To achieve my task, I will construct
+several pre-histories of the literary device, first as formal technique, then
+as thought experiment, and finally as control mechanism. To preserve a sense
+of human agency and to break the inertia of leisurely reading, we must
+rediscover the book as a device; to call it forth for what it is and always
+was---a robot for effecting thought at a distance; and to bring it back under
+the purview of interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
 most worthy of thought and questioning remains the mystery of
@@ -182,7 +184,7 @@ back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. Roughly: What makes whatever compacts made by past generations still
 valid today?
 
-### Technique
+### 2.1 Technique
 
 What sort of a thing is a literary device? The formal concept of a "device,"
 widely used in literary studies, is an artifact of an unfortunate translation
@@ -240,16 +242,17 @@ mature work, which often seeks to rise above the word through sheer recursion
 of literary technique, where each successive turn of abstraction brings the
 buried symbol closer to the reader.
 
-<!--- consider a better transition with the notion of cultural technique --->
-
-Inspired by the formalists, I would like to extend the technique of
-estrangement to books and documents as literal devices. The question of
-literary surfaces gains an instrumental dimension when considered in the
-context of media and book history. Habit hides the peculiarity of our everyday
-interfaces with the word. We read at the surface; we etch inscriptions deep
-within the bowels of a machine. When enacted on the level of the physical
-device, estrangement parallels the practice of exegesis in literary theory.
-The unpacking of literal devices that produce meaning reveals internals that
+The question of surfaces gains an instrumental dimension when considered in
+the context of media history. At its upper limit, the nesting doll structure
+of literary instrumentation ends at the book itself. The book is a device
+containing all other literary devices. Yet, literary analysis most often
+begins by discarding that outer shell, looking past the material affordances
+of the object as if ideas could be grasped directly, without material
+mediation. Habit hides the peculiarity of our everyday interfaces with the
+digital word. We read at the surface; we etch inscriptions deep within the
+bowels of a machine. When enacted on the level of the physical device,
+estrangement can parallel the practice of exegesis in literary theory. The
+unpacking of literal devices that produce meaning reveals internals that
 structure the reading experience made opaque through artifice and habituation.
 Materialist poetics of the sort I am suggesting here expose the price paid for
 the facility of computed text.
@@ -304,43 +307,46 @@ The simulation conceals structuring principles large and small. Some of the
 concealed details may remain inconsequential, like the limit on how many keys
 can be pressed at once without overwhelming the circuitry of keyboard when
 typing. Other concealed details are of paramount importance, like digital
-rights management chips and censorship filters. Like the smoke alarm, literary
-gadgets are governed and internalize government structures in ways that we have
-only begun to comprehend. The material affordances of device--bound textuality
-influence all higher-level functions of interpretation.[^ln1-rmedium] Yet,
-available theories of interpretation build on properties and assumptions
-attached to print media. For example, in Hans-Georg Gadamer's seminal
-conception of art, the free play of the artistic mind transforms into material
-structure (*Gebilde*) that is both "repeatable" and "permanent"
-[@gadamer_truth_1975, 110]. Similarly, in *Interpretation Theory*, Paul Ricoeur
-writes about the "range of social and political changes" related to the
-invention of writing. For Ricoeur, human discourse is "fixed" and thereby
-"preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
+rights management chips and censorship filters. Electronic books are governed
+and internalize government structures in ways that we have only begun to
+comprehend. The material affordances of device--bound textuality influence all
+higher-level functions of interpretation.[^ln1-rmedium] Yet, available
+theories of interpretation build on properties and assumptions attached to
+print media. For example, in Hans-Georg Gadamer's seminal conception of art,
+the free play of the artistic mind transforms into material structure
+(*Gebilde*) that is both "repeatable" and "permanent" [@gadamer_truth_1975,
+110]. Similarly, in *Interpretation Theory*, Paul Ricoeur writes about the
+"range of social and political changes" related to the invention of writing.
+For Ricoeur, human discourse is "fixed" and thereby "preserved from
+destruction" in writing [@ricur_interpretation_1976, 26-8].
 
-The literary device offers no such permanence. The very meanings of the words
-"fixed," "permanent," and "repeatable" change with the medium. The engineering
-of literary artifacts conceals a number of design choices, obscuring the flows
-of code and codex under the familiar guise of surface representation. The
-digital book does not just simulate a book.  Being a type of a Turing machine,
-it holds the potential to embody all possible metaphors.[^ln1-notquite] The
-task of the literary scholar reading on the level of the device becomes to make
-the figure available for interpretation. It is to apprehend its revealed
-mechanics. What happens in the metaphorical transference between the book and
-the apparatus simulating the book?  Estrangement, the exegesis of the metaphor,
-reveals mechanisms of governance shaping mental experience. Device hermeneutics
-allow one to consent, or, conversely, to resist elements of imposed structure.
+The electronic literary device offers no such permanence. The very meanings of
+the words "fixed," "permanent," and "repeatable" change with the medium. The
+engineering of literary artifacts conceals a number of design choices,
+obscuring the flows of code and codex under the familiar guise of surface
+representation. The digital book does not just simulate a book.  Being a type
+of a Turing machine, it holds the potential to embody all possible
+metaphors.[^ln1-notquite] The task of the literary scholar reading on the
+level of the device becomes to make the figure available for interpretation.
+It is to apprehend its revealed mechanics. What happens in the metaphorical
+transference between the book and the apparatus simulating the book?
+Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
+shaping mental experience. Device hermeneutics allow one to consent, or,
+conversely, to resist elements of imposed structure.
 
-It is tempting to think of personal computers as glorified calculators. That is
-often the popular image of computing, one that highlights the machine's ability
-to calculate. The computer reduces culture to ones and zeroes (or so goes the
-story), thereby diminishing the human experience.[^ln1-pop] There is some truth
-to that position, but I would like to argue here that the connection between
-computing and calculation is but a piece of a larger story. The personal
-computer governing the production of textuality today emerged from an
-amalgamation of automated equipment: among them the telegraph, the typewriter,
-and the calculator. Add to that list the loom, the music box, the radio, and
-the film camera [^ln1-ceruzzi]. Each of these machines left an imprint on our
-everyday engagement with computational devices.
+It is tempting to think of personal computers as glorified calculators. That
+is often the popular image of computing, one that highlights the machine's
+ability to calculate. The computer reduces culture to ones and zeroes (or so
+goes the story), thereby diminishing the human experience.[^ln1-pop] There is
+some truth to that position, but I would like to argue here that the
+connection between computing and calculation is but a piece of a larger story.
+The personal computer governing the production of textuality today emerged
+from an amalgamation of programmable machines: among them the telegraph, the
+typewriter, and the calculator. Add to that list the loom, the music box, the
+radio, and the film camera [^ln1-ceruzzi]. Each of these machines left an
+imprint on our everyday engagement with computational devices. The electronic
+is indubitably a computer in part. But the computer too retains traces of its
+literary history.
 
 It is important to keep the intertwined material lineages of computation in
 mind because each brings with it a different set of values and priorities. As
@@ -365,7 +371,8 @@ determined inevitability is often simply the imposition of another's will from
 without. It is an attempt to social and political, not technological
 determinism. In most cases, it is possible to trace the root of imposition to
 specific governing agents, agencies, or incorporations.
-### 2.1 Thought Experiment
+
+### 2.2 Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
@@ -1027,7 +1034,7 @@ mechanism" of all other metaphoric mechanisms.
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
 
-### 2.2 Mechanism
+### 2.3 Mechanism
 
 Literature in computer science tends to see universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.

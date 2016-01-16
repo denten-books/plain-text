@@ -33,7 +33,7 @@ Roman Jakobson called such construction and deconstruction of meaning the
 [@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
 function lies the essence of formatting. But before we can begin to peel apart
 layers of form, formatting, and formula in the next chapters, we must discover
-the metaphor at the heart of computation. Computational metaphors occlude the
+the metaphor at the heart of computation.  Computational metaphors occlude the
 incongruence between visible representation and the underlying material
 affordances of the medium. What you see is not always what you get. We are
 instead confronted with a composite image, which under examination reveals a
@@ -53,12 +53,12 @@ attunement that the programmatic sign acquires its non-representational,
 tactical character. Stripped of references, resemblances, and designations the
 programmatic sign commands and controls.
 
-Yet despite the formative impact on the structure of comprehension, the
-programmatic sign does not often figure in our theories of meaning making.
+Yet despite the formative impact on the structure of comprehension, code---the
+programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
+dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
 maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide text from view
@@ -133,15 +133,14 @@ software," and "security and permission to allow the creator to retain control
 of the document and associated rights" [@iso_portable_2008, vii]. These
 capabilities operate somewhere between the visible content and stored
 information. More than passive conduits of meaning, electronic texts contain
-the rules for engagement between authors and their readers. Embedded
-structures project an ontology. In our example, the Portable Document Format
-encodes, among other things, ideas about "reading," "authenticity,"
-"fidelity," "preservation," and "authorship." Whatever literary theoretical
-framework the reader brings to the process of interpretation must therefore
-meet the framework implicit in the electronic text itself. Such an encounter
-happens not on the level of representation or ideology, but on the level of
-the physical, the phatic, and the imperative, where formatting and control
-reside.
+the rules for engagement between authors and their readers. In our example,
+the Portable Document Format encodes among other things ideas about "reading,"
+"authenticity," "fidelity," "preservation," and "authorship." Whatever
+literary theoretical framework the reader brings to the process of
+interpretation must therefore meet the framework implicit in the electronic
+text itself. Such an encounter happens not on the level of representation or
+ideology, but on the level of the physical, the phatic, and the imperative,
+where formatting and control codes reside.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
@@ -169,30 +168,31 @@ viii]. The interface is also a metaphor that transports structure from one
 entity to the other, at the point of contact between human and machine. In
 this chapter, we will begin to unpack the interface metaphor.
 
-### 1.1 Verisimilitude
+### 1.1 Intro to Interface Metaphor
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
-that we have been discussing so far go under the name of *structural metaphors*.
-"Structural metaphors allow us to do much more than just orient concepts,"
-Lakoff and Johnson wrote [@lakoff_metaphors_1980, 61]. Grounded in "systematic
-correlations within our experience," they transfer organizing principles from
-one domain to another. Thus to say something like "time is money" is not just
-to compare time an money visually or ontologically, but to suggest that
-something in the arrangement of the financial system resembles something in
-the arrangement of the temporal system [@lakoff_metaphors_1980, 65-8]. If
-metaphors work by transferring qualities, structure is the quality being
-transferred in all of the above cases. Structural metaphors organize one thing
-in the shape of another.
+that we have been discussing so far go under the name of *structural
+metaphors*.  "Structural metaphors allow us to do much more than just orient
+concepts," Lakoff and Johnson wrote [@lakoff_metaphors_1980, 61]. Grounded in
+"systematic correlations within our experience," they transfer organizing
+principles from one domain to another. Thus to say something like "time is
+money" is not just to compare time an money visually or ontologically, but to
+suggest that something in the arrangement of the financial system resembles
+something in the arrangement of the temporal system [@lakoff_metaphors_1980,
+65-8]. It is a structural similarity. If metaphors work by transferring
+qualities, structure is the quality being transferred in all of the above
+cases. Structural metaphors organize one thing in the shape of another.
 
 On an abstract level, structural substitution defines computation in general.
 Recall for a moment Turing's seminal definition of the universal computing
-machine.[^ln1-turing] What he calls a "computing machine" involves a finite
-number of configurations of "tape" and "symbol." The machine attains a
-universal quality when configurations of tape and symbol can substitute for
-all other forms of symbolic manipulation. In this way a universal computer can
-emulate a calculator, but also typewriter, a book, and a fairy tale world.
-Turing's universal computing machine is a type of a structural metaphor by
-definition. It has the ability to represent all other symbolic machine states,
+machine, covered also in greater detail in the next chapter.[^ln1-turing] What
+he calls a "computing machine" involves a finite number of configurations of
+"tape" and "symbol." The machine attains a universal quality when
+configurations of tape and symbol can substitute for all other forms of
+symbolic manipulation. In this way a universal computer can emulate a
+calculator, but also typewriter, a book, and a fairy tale world.  Turing's
+universal computing machine is a type of a structural metaphor by definition.
+It has the ability to represent all other symbolic machine states,
 symbolically. Being a universal symbolic manipulator, the Turing machine is
 able to extend all metaphors. That is not to say that it can *do* anything.
 For example, one cannot use a computational device to hammer nails.  But a
@@ -225,7 +225,7 @@ In the so-called classical view, metaphors are simply a type of figurative
 language. To say "the day stands tiptoe on the misty mountain tops" is to use
 the verb "stand" in a novel linguistic context. Days have no literal legs to
 stand on. John Searle, John Lakoff, and Mark Turner, among others, have argued
-that metaphor is a more broadly a cognitive phenomenon, mapping distinct
+that metaphors are a more broadly a cognitive phenomenon, mapping distinct
 ontological categories across "conceptual domains" [@lakoff_metaphors_1980;
 @turner_death_1987; @lakoff_contemporary_1998, @searle_metaphor_1998]. In the
 modified view, even such basic semantic concepts as "state, quantity, action,
@@ -265,7 +265,7 @@ Johnson's "conceptual blending" in practice. In this way, the familiar gesture
 of discarding a crumpled piece of paper into the waste bin can be simulated
 digitally to handle the deletion of electronic documents. Apple's influential
 *Human Interface Guidelines*, at the core of Apple's desktop interfaces in the
-1980s, echo Carroll proscriptions:
+1980s, echoes Carroll's proscriptions:
 
 > You can take advantage of people's knowledge of the world around them by
 using metaphors to convey concepts and features of your application. Use
@@ -277,8 +277,8 @@ computer-generated folders that look like files and folders. People can
 organize their hard disks in a way that's analogous to the way they organize
 their file cabinets [@apple_apple_1987, 4].
 
-Apple's designers understood also that the mapping of concepts between the
-physical and the computer-generated worlds is imperfect. For example, unlike a
+Apple's designers understood that the mapping of concepts between the physical
+and the computer-generated worlds is imperfect. For example, unlike a
 real-world file folder, constrained by the size of its containing cabinet, a
 computer folder can hold a nearly unlimited amount of files. Or, to be more
 precise, the electronic folder metaphor is subject to different constraints
@@ -312,13 +312,14 @@ each containing one or more *pages*." Pages, in turn contained *items* or
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "In this way, the
 interface [...] permits a user to directly manipulate the sheets in the
-notebook metaphor" [@glaser_graphical_1995]. The user is meant to handle the
-metaphor in all of the above examples. The metaphor structures the material
-affordances of the simulation according to the rules of the physical world.
+notebook metaphor" [@glaser_graphical_1995]. In all of these examples, the
+user is meant to handle the metaphor in some way. The metaphor structures the
+material affordances of the simulation according to the rules of the physical
+world.
 
 Metaphor machines present us with a special case of conceptual domain
 blending. In the cognitive view, the metaphor performs a number of
-"conventional mapping from one domain to another" [@lakoff_contemporary_1998,
+"conventional mappings from one domain to another" [@lakoff_contemporary_1998,
 239]. Lakoff mentions for example the common trope of "a state is a person,"
 implicit in the ideas of a "friendly" or a "hostile" states
 [@lakoff_contemporary_1998, 243]. In this way ideas about agency, emotion, and
@@ -335,8 +336,10 @@ projected onto the target domain in a way that is consistent with inherent
 target domain structure" [@turner_conceptual_1995; @lakoff_contemporary_1998;
 @ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
 
+### 1.2 Verisimilitude
+
 The principles of metaphor-driven design contain an implicit model of
-human--computer interaction. It implies that humans prefer to manipulate
+human--computer interaction, which implies that humans prefer to manipulate
 digital information stored on computational media by the means of familiar
 mediating structures---paragraphs, pages, files, and folders---associated
 figuratively to the affordances of print media. We know, in other words, what
@@ -497,7 +500,7 @@ computational metaphor simulates the familiar but absent affordances tied to
 an absent print artifact. The simulation suggests a structuring of one kind,
 while enacting a structure of another.
 
-### 1.2 Death of a Metaphor
+### 1.3 Death of a Metaphor
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
@@ -626,7 +629,7 @@ motivation. The analogy between discarding paper and erasing bits breaks down
 in the worst possible way. The material realities of the metaphor are not
 simply missing, they are misrepresented.
 
-### 1.3 Mimesis (Direct Manipulation)
+### 1.4 Mimesis (Direct Manipulation)
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in her seminal 1984 essay "Interface as Mimesis." She went on to
@@ -925,7 +928,7 @@ nature of the mediation was at hand, open to circumspection, in the direct
 manipulation paradigm the simulacrum occludes the very nature of the
 simulation.
 
-### 1.4 Speculative Formalism
+### 1.5 Speculative Formalism
 
 In his 1949 paper on "The Genesis and Speed of Telegraph Codes," Frank
 Halstead noted that "the practical upper limits of [telegraph transmission]
@@ -985,17 +988,19 @@ and subsequently brain to computer to brain interfaces should be considered in
 the context of the long history of brain-to-brain interfaces, routinely
 mediated by paper, ink, code, and silicon. Media intercedes. But as
 technological dreams become reality they also grow less interesting and more
-mundane. Habituation smoothes the rough edges of irreconcilability. The tool
-recedes from view and begins to seem like a natural and direct extension of
-the body. The goal of computational poetics is to denaturalize the encounter,
-to bring the receding media to light, and to expose the mediating systems
-supporting the simulation. A measure of discomfort in the fit between bodies
-and screens ensures our ability to structure the encounter on our own terms
-and to opt out when needed. My concern is not with the metaphysical
-entailments of a possible post-human future. The illusion of directness rather
-conceals the very human mechanisms of command and control. The simulation is
-ultimately a power structure and an economy of exchange between physical and
-mental resources.
+mundane. Habituation smoothes the rough edges of irreconcilability between
+human and machine. The tool recedes from view and begins to seem like a
+natural and direct extension of the body. The goal of computational poetics is
+to denaturalize the encounter, to bring the receding media to light, and to
+expose the mediating systems supporting the simulation. A measure of
+discomfort in the fit between bodies, keyboards, and screens ensures our
+ability to structure the encounter on our own terms: to opt in when useful and
+to opt out when necessary. My concern is not with the metaphysical entailments
+of a possible posthuman future. The illusion of directness rather conceals the
+very human mechanisms of command and control. The simulation ultimately
+embodies a specific power structure in an economy of exchange between physical
+and mental resources. In this market there are those who profit and those
+whose virtual avatars become a commodity.
 
 The above comments apply to computation generally. We will spend the following
 chapters peeling apart the layers of the literary and the bibliographic
@@ -1005,6 +1010,7 @@ structures of meaning-making at the sites of storage and projection. If we
 consider "what you see is what you get" as a type of a promise, the following
 chapters will help us understand the ways of seeing and the material
 particulates of getting. The electronic book shall come to fore as a literary
+device.
 
 <!-- notes -->
 <!-- notes -->
