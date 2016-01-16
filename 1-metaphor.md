@@ -852,7 +852,7 @@ they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 199]](images/minsky.png)
 
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
-workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox.png)
+workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
 
 The principles of direct interaction stood against what Laurel called the
 "ill-formed" presence of the mediator, like JOSS in the examples above, or
