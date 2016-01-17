@@ -187,15 +187,15 @@ valid today?
 ### 2.1 Technique
 
 What sort of a thing is a literary device? The formal concept of a "device,"
-widely used in literary studies, is an artifact of an unfortunate translation
-from Russian. The word *priem* would be much better translated as "technique,"
-in the sense of "method," "approach," or "procedure." The word "device"
-contains these meanings as well, but in modern usage, it usually carries a
-more concrete connotation, as "an object, machine, or piece of equipment that
-has been made for a special purpose" (Merriam-Webster). "Laying bare the
-device," for Viktor Shklovsky, the Russian formalist critic who coined the
-phrase, meant making explicit the implied mechanisms of the metaphor,
-particularly in cases where such metaphors turn "stale," "automatic," and
+widely used in literary studies, is in part an artifact of an unfortunate
+translation from Russian. The Russian *priem* would be better translated as
+"technique," in the sense of "method," "approach," or "procedure." The word
+"device" contains these meanings as well, but in modern usage, it usually
+carries a more concrete connotation, as "an object, machine, or piece of
+equipment that has been made for a special purpose" (Merriam-Webster). "Laying
+bare the device," for Viktor Shklovsky, the Russian formalist critic who
+coined the phrase, meant making explicit the implied mechanisms of literary
+trope, particularly in cases where such tropes turn "stale," "automatic," and
 "naturalized," that is, bereft of their original poetic and evocative power.
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
@@ -222,79 +222,118 @@ that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
 
 This tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical conclusion. The pipes can be read as a
-metaphor for the literary device. Usually found beneath the street, they now
-sit idle and visible above the surface. Yet even when exposed, the device
-fails to captivate for long. Disused, it once again passes out of sight,
-covered in snow. Concerned with surfaces, the narrator "probes the glaze" of
-the street and finds a palindrome written in snow. The inscription "OTTO" not
-only resembles the pipes visually, but is in itself a surface-revealing
-inscription that makes the pipes visible again. Although the metaphoric pipe
-does not reach beyond the page, the mimetic surface inscription draws
-attention to the word's visual shape and acoustics. It invites readers to
-perform the symmetry of its assonance and consonance as they pronounce the
-word. The round vowels and the interrupting obstruents of "OTTO" contort the
-body in accordance with the sound image: reverse mimesis, the body as sound
-pipe. The moment of corporeal reenactment transcends representational and
-paper-bound confines of the medium. The pipes appear briefly on this side of
-the page. The performance makes the "making of the literary technique
-obvious," obvious. In this, lies the prevalent characteristic of Nabokov's
-mature work, which often seeks to rise above the word through sheer recursion
-of literary technique, where each successive turn of abstraction brings the
-buried symbol closer to the reader.
+metaphor for a literary device. Usually found beneath the street, they now sit
+idle and visible above the surface. Yet even when exposed, the device fails to
+captivate for long. Disused, it once again passes out of sight, covered in
+snow. Concerned with surfaces, the narrator "probes the glaze" of the street
+and finds a palindrome written in snow. The inscription "OTTO" not only
+resembles the pipes visually, but is in itself a surface-revealing inscription
+that makes the pipes visible again. Although the metaphoric pipe does not
+reach beyond the page, the mimetic surface inscription draws attention to the
+word's visual shape and acoustics. It invites readers to perform the symmetry
+of its assonance and consonance as they pronounce the word. The round vowels
+and the interrupting obstruents of "OTTO" contort the body in accordance with
+the sound image: reverse mimesis, the body as sound pipe. The moment of
+corporeal reenactment transcends representational and paper-bound confines of
+the medium. The pipes appear briefly on this side of the page. The performance
+makes the "making of the literary technique obvious," obvious. In this, lies
+the prevalent characteristic of Nabokov's mature work, which often seeks to
+rise above the word through sheer recursion of literary technique, where each
+successive turn of abstraction brings the buried symbol closer to the reader.
 
-The question of surfaces gains an instrumental dimension when considered in
-the context of media history. At its upper limit, the nesting doll structure
-of literary instrumentation ends at the book itself. The book is a device
-containing all other literary devices. Yet, literary analysis most often
-begins by discarding that outer shell, looking past the material affordances
-of the object as if ideas could be grasped directly, without material
-mediation. " To grasp the shadowy and fantasmal form of the book, to hold it
-fast, to turn it over and to survey it at leisure---that is the effort of a
-critic of books, and it is perpetually defeated," wrote the English literary
-critic, Percy Lubbock.
+Despite the effort to transcend the page, formalist poetics (both in art and
+in scholarship) fell short of producing a theory of technique. For the
+Russians, the idea of *priem* as an idea that encompassed both the device and
+the approach to using it, was simply a given. Thus in his "Art as Device,"
+Shklovsky writes:
 
-> Nothing, no power, will keep the book steady and motionless before us so
-that we may have time to examine its shape and design [@lubbock_craft_1921,
-1].
+"The word of poetic schools amounts to the aggregation and the discovery of
+new devices/techniques [*priem*] for the arrangement and the processing of
+linguistic material, and, in particular, more so with the rearrangement of
+figure [*obraz*] rather than with its creation" [@brik_poetika_1919, 102].
 
-Like many critics before him and after, by "shape" and "design" Lubbock means
-the intra-literary characteristics of the text itself: the means by the which
-words and sentences assemble themselves into something like a total work of
-art. Unlike say painting which presents itself in its entirety, narration
-unfolds in time and as Lubbock writes must be reassembled before the mind's
-eye to present itself for analysis. Meaning making of this sort involves
-looking past the details towards the synthetic whole. Lubbock writes that the
-"real heart and substance of the book [...] stands out more clearly for the
-obscurity into which the less essential parts of it subside"
-[@lubbock_craft_1921, 4]. Reading Lubbock one gets the idea that such "less
-essential parts," "shapes" and "designs" are all nevertheless ideational,
-mental constructs. And even these must recede for the work to cohere. Reading
-in this mode strongly denies the book its materiality. To read the novel for
-pleasure is to "forget, if we can, that the book is an object of art, Lubbock
-writes [@lubbock_craft_1921, 6]. But to forget the book as an object of art is
-necessarily to forget it also as an object. Thus to "objectify the elements"
-of the novel that "strike us more keenly," as Lubbock writes, is precisely the
-opposite of what is normally meant by objectification. The book for Lubbock is
-a retreat into the imagination, where the reader can "discover a world" and
-"be lost" in a "pleasant illusion" [@lubbock_craft_1921, 6].
+The work of literary art could not therefore be reduced to a type of
+figurative thinking. Rather, for Shklovsky and his fellow travellers, artistic
+production amounted to novel "arrangement and the processing" of language
+material. Art was defined in terms of device and technique rather than in
+terms of symbol or figuration. In other words, to write literature is not
+merely to speak in figurative language, but to invent new figurations which
+can cut across prosaic and habituated norms of speaking [@brik_poetika_1919,
+103]. In this dynamic, Shklovsky places novelty at a premium abut what counts
+for figuration itself he does not say. He merely lists a possible combinations
+of existing tropes---synch niche, parallelism, analogy---which, in different
+combinations produce the effect of either poetic innovation or prosaic
+commonplace.
 
-The
-"Far from losing ourselves in the world of the novel, we must hold it away
-from us, see it all in detachment, and use the whole of it to make the image
-we seek, the book itself" [@lubbock_craft_1921, 6]. "How they are made is the
-only question I ask" [@lubbock_craft_1921, 12]. 
-More Lubbock.
+Thus even as they skirted the idea of materialist poetics, the formalists were
+not quite able to transcend the limits of ideation and ideology. Analysis
+moved from the level of content to the level of combinatorial arrangement, and
+no further. The question of surfaces, posed so recursively by Nabokov, gains
+an instrumental dimension when considered in the context of media history. At
+its upper limit, the nesting doll structure of literary instrumentation ends
+at the book itself. The book is in a sense a literary device containing all
+other literary devices. Yet even formalist literary analysis often begins by
+discarding that outer shell, seeing past the material affordances of the
+object as if ideas could be grasped directly, without material mediation. The
+English critic Percy Lubbock, himself a formalist of sorts, would write
+echoing his by then Soviet colleagues:
 
-Habit hides the peculiarity of our everyday interfaces with the
-digital word. We read at the surface; we etch inscriptions deep within the
-bowels of a machine. When enacted on the level of the physical device,
-estrangement can parallel the practice of exegesis in literary theory. The
-unpacking of literal devices that produce meaning reveals internals that
-structure the reading experience made opaque through artifice and habituation.
-It is at this outer level of analysis, the formalist concern with literary
-technique as a system of symbolic exchange intersects with the political
-concern with the technics of the book as a token of physical exchange in the
-market of capital. To become a commodity an idea must gain material shape.
+> To grasp the shadowy and fantasmal form of the book, to hold it fast, to
+> turn it over and to survey it at leisure---that is the effort of a critic of
+> books, and it is perpetually defeated [...] Nothing, no power, will keep the
+> book steady and motionless before us so that we may have time to examine its
+> shape and design [@lubbock_craft_1921, 1].
+
+Yet even here, the book escapes the critic's grasp, because by "shape" and
+"design" Lubbock still means the intra-literary characteristics of the text
+itself: the means by the which words and sentences assemble themselves into
+something like a total work of art. The "book" for him is a synonym for the
+"novel." Unlike say painting which presents itself in its entirety, narration
+unfolds in time. The book (read the "novel) bust therefore be reassembled
+before the mind's eye to present itself for analysis. Meaning making of this
+sort involves reading past the linguistic minutia to constrict the synthetic
+literary whole. Lubbock writes that the "real heart and substance of the book
+[...] stands out more clearly for the obscurity into which the less essential
+parts of it subside" [@lubbock_craft_1921, 4]. Reading in this mode denies the
+book its materiality. Instead of physical space, the novel extends mentally,
+in time. To read the novel for pleasure, for Lubbock,  is to "forget, if we
+can, that the book is an object of art [@lubbock_craft_1921, 6].  And to
+forget the book as an object of art is necessarily to forget it also as an
+object. Thus to "objectify the elements" of the novel that "strike us more
+keenly," as Lubbock writes, is precisely the opposite of what is normally
+meant by objectification. The book is a retreat from the material reality of
+the reader's immediate context, into the imagination, where the reader can
+"discover a world" and "be lost" in a "pleasant illusion," where there is "no
+chance of our finding, perceiving, recreating, the *form* of the book
+[emphasis mine]" [@lubbock_craft_1921, 6].
+
+Unlike the lay reader, the critic and the author are engaged in the
+particulates. Lubbock writes that "far from losing ourselves in the world of
+the novel, we [the craftsmen, I assume] must hold it away from us, see it all
+in detachment, and use the whole of it to make the image we seek, the book
+itself" [@lubbock_craft_1921, 6]. Echoing Boris Eichenbaum in "How *The
+Overcoat* is Made?", Lubbock calls the reader's attention to the craft of
+literary construction. He promises to view a "handful of familiar novels [...]
+with some particularity," but without judgement or critique. "How they are
+made is the only question I ask," he writes and later, about Tolstoy's *War
+and Peace*, "there is so much in the book to distract us from its form [that]
+it is particularly interesting to ask how it is made" [@lubbock_craft_1921, 12
+& 28].
+
+Despite the uniform attention to form, Lubbock's "less essential parts,"
+"shapes," "proportions," and "designs" are all nevertheless ideational, mental
+constructs, just as they were for Shklovsky and Eikhenbaum.
+
+The author as producer.  Benjamin literary technique "concerns the function of
+a work within the literary the literary production relations of its time."
+[@benjamin_author_1983, 87] Makes literary products accessible to immediate
+social and therefore materialist analysis [@benjamin_author_1983, 87].
+
+Whose interest are advanced, asks Benjamin [@benjamin_author_1983, 94]? (For example
+montage in cinema and in epic theater. [@benjamin_author_1983, 99]. Montage interrupts.
+It fills the audience with feelings, and possibly feelings of revolt
+[@benjamin 101]. Epic theater "alianates the audience in a lasting manner,
+through thought, from the conditions in which it lives" [@benjamin_author_1983, 101]
 
 
 Mumford 83. Marx and Mumford. Techniques do not depend on the free will, they
@@ -351,6 +390,18 @@ like a technologically determined inevitability is often simply the imposition
 of another's will from without. It is an attempt to social and political, not
 technological determinism. In most cases, it is possible to trace the root of
 imposition to specific governing agents, agencies, or incorporations.
+
+Habit hides the peculiarity of our everyday interfaces
+with the digital word. We read at the surface; we etch inscriptions deep
+within the bowels of a machine. When enacted on the level of the physical
+device, estrangement can parallel the practice of exegesis in literary theory.
+The unpacking of literal devices that produce meaning reveals internals that
+structure the reading experience made opaque through artifice and habituation.
+It is at this outer level of analysis, the formalist concern with literary
+technique as a system of symbolic exchange intersects with the political
+concern with the technics of the book as a token of physical exchange in the
+market of capital. To become a commodity an idea must gain material shape.
+
 
 ### 2.2 Thought Experiment
 
