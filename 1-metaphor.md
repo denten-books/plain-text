@@ -400,15 +400,6 @@ sense, the "front page" identifies the same location of the same text, in two
 diverging and dynamically composed versions. They feed off of the same
 sources. The same source code gives rise to both texts.
 
-Nothing is guaranteed in the passage of electronic text from one pair of hands
-into another. Digital formatting expands its purview far beyond typographical
-convention. The erasure of words, word substitution, automatic summarization,
-wholesale generation of discourse by algorithmic means---the command and
-control layer contains all such possibilities. What does it mean to read and
-to interpret a dynamic text, which changes depending on its context? How can
-literary analysis---close reading, philology, hermeneutics---persist without
-the fixity of print?
-
 The key to understanding "the loss of resemblances" that accompanies
 ubiquitous simulation lies in the inner dynamics of metaphor machinery. A
 functioning metaphor, if you would recall from Lakoff, is one which ferries
@@ -436,6 +427,21 @@ referent, the symbol itself attains the status of reality. Thus hyper-reality:
 a symbol that folds onto itself. It is a weather simulation confused for
 weather.
 
+We know that physical affordances of liquid crystal displays (LCDs) and
+magnetic storage differ drastically from those of paper, goat skins, or
+parchment. Yet digital surface representation maintains the illusion of
+self-similarity. We are faced with what is called *skeuomorphic* design, by
+which screen reading resembles print. In this way, an electronic book reader
+simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
+itself constitutes a metaphor worthy of critical examination. The principles
+of skeuomorphic design extend a visual metaphor from one medium to another.
+The reader already knows how to turn pages of a book. A book device therefore
+simulates pages to ease the cognitive burden of transitioning from paper to
+pixel. Instead of issuing unfamiliar commands to the computer to turn the
+page, readers perform the more habituated motion of swiping across the screen.
+The gliding motion enacts a kinetic metaphor, transposing properties of paper
+to glass.
+
 The interface metaphor similarly exchanges one referent for another.
 Simulation should, by definition, "assume a form resembling that of something
 else" [@_simulation_2015]. Metaphor machines assume the form of one thing,
@@ -451,6 +457,77 @@ the threat of censorship or persecution, for example---the incongruence
 exposes the frailty of our alienation from the material contexts of digital
 knowledge production. Our grasp on the medium weakens the more convincing the
 simulacrum.
+
+Readers have to bear this burden of conceptual transference. In pretending to
+turn virtual pages, we lose sight of the mechanisms producing the simulation.
+If we hope to practice anything like interpretation or close reading at the
+level of discourse, we must certainly also practice them at the physical site
+of discourse formation. A truly materialist poetics would reach beyond
+representation towards the object. More than superficial embellishment, the
+skeuomorphic metaphor enacted at the surface of the digital literary device
+structures all meaning-carrying units: from individual letters, to words,
+paragraphs, chapters, books, and pages. In our example, we know that there is
+nothing inherently page-like about stiff slabs of glass and silicone.  The
+metaphor of "turning the page by swiping across the screen" conceals the
+structural rift between media. Why would readers engage in such a charade? Why
+not simply make use of novel interfaces afforded by new technology? The
+literature from the field of human--computer interaction suggests a formalist
+answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
+@spolsky_user_2001]. The initial effort it takes to learn to read in a new
+environment may discourage many potential readers from adopting a new
+technology. Smart designers therefore rely on acculturated practice, the
+turning of pages in our case, to minimize the "friction" of adoption. Although
+an "electronic book reader" contains no pages as such, it extends the metaphor
+of pages to electronic reading.
+
+The usability metaphor comes at a cost of concealment. A digital poem, a novel,
+a physician's script, or a legal contract may resemble their paper
+counterparts. But the metaphor of "turning pages" is but one simulation among
+the device's many possibilities. When imitating pages, the reading *appliance*
+also monitors, adjusts, warns, and controls. In return for usability it
+simulates and dissembles. The exposition of the metaphor reminds us of the
+compromise between two conceptual systems. It reveals real material affordances
+behind the symbol.
+
+Simulation conceals structuring principles large and small. Some of the
+concealed details may remain inconsequential, like the limit on how many keys
+can be pressed at once without overwhelming the circuitry of keyboard when
+typing. Other concealed details are of paramount importance, like digital
+rights management chips and censorship filters. Electronic books are governed
+and internalize government structures in ways that we have only begun to
+comprehend. The material affordances of device--bound textuality influence all
+higher-level functions of interpretation.[^ln1-rmedium] Yet, available
+theories of interpretation build on properties and assumptions attached to
+print media. For example, in Hans-Georg Gadamer's seminal conception of art,
+the free play of the artistic mind transforms into material structure
+(*Gebilde*) that is both "repeatable" and "permanent" [@gadamer_truth_1975,
+110]. Similarly, in *Interpretation Theory*, Paul Ricoeur writes about the
+"range of social and political changes" related to the invention of writing.
+For Ricoeur, human discourse is "fixed" and thereby "preserved from
+destruction" in writing [@ricur_interpretation_1976, 26-8].
+
+The electronic literary device offers no such permanence. The very meanings of
+the words "fixed," "permanent," and "repeatable" change with the medium. The
+engineering of literary artifacts conceals a number of design choices,
+obscuring the flows of code and codex under the familiar guise of surface
+representation. The digital book does not just simulate a book. Being a type
+of a Turing machine, it holds the potential to embody all possible
+metaphors.[^ln1-notquite] The task of the literary scholar reading on the
+level of the device becomes to make the figure available for interpretation.
+It is to apprehend its revealed mechanics. What happens in the metaphorical
+transference between the book and the apparatus simulating the book?
+Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
+shaping mental experience. Materialist poetics allow one to consent, or,
+conversely, to resist elements of imposed structure.
+
+Nothing is guaranteed in the passage of electronic text from one pair of hands
+into another. Digital formatting expands its purview far beyond typographical
+convention. The erasure of words, word substitution, automatic summarization,
+wholesale generation of discourse by algorithmic means---the command and
+control layer contains all such possibilities. What does it mean to read and
+to interpret a dynamic text, which changes depending on its context? How can
+literary analysis---close reading, philology, hermeneutics---persist without
+the fixity of print?
 
 Consider the commonplace task of "turning pages" in the act of writing or
 reading digital texts. In cognitive linguistic terms, the idea of paper pages

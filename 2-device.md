@@ -190,13 +190,13 @@ What sort of a thing is a literary device? The formal concept of a "device,"
 widely used in literary studies, is an artifact of an unfortunate translation
 from Russian. The word *priem* would be much better translated as "technique,"
 in the sense of "method," "approach," or "procedure." The word "device"
-contains these meanings as well, but in modern usage, it usually carries a more
-concrete connotation, as "an object, machine, or piece of equipment that has
-been made for a special purpose" (Merriam-Webster). "Laying bare the device,"
-for Viktor Shklovsky, the Russian formalist critic who coined the phrase, meant
-making explicit the implied mechanism of the metaphor, particularly in cases
-where such metaphors turn "stale," "automatic," and "naturalized," that is,
-bereft of their original poetic and evocative power.
+contains these meanings as well, but in modern usage, it usually carries a
+more concrete connotation, as "an object, machine, or piece of equipment that
+has been made for a special purpose" (Merriam-Webster). "Laying bare the
+device," for Viktor Shklovsky, the Russian formalist critic who coined the
+phrase, meant making explicit the implied mechanisms of the metaphor,
+particularly in cases where such metaphors turn "stale," "automatic," and
+"naturalized," that is, bereft of their original poetic and evocative power.
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used defamiliarization in the formalist vein often and with
@@ -248,91 +248,65 @@ of literary instrumentation ends at the book itself. The book is a device
 containing all other literary devices. Yet, literary analysis most often
 begins by discarding that outer shell, looking past the material affordances
 of the object as if ideas could be grasped directly, without material
-mediation. Habit hides the peculiarity of our everyday interfaces with the
+mediation. " To grasp the shadowy and fantasmal form of the book, to hold it
+fast, to turn it over and to survey it at leisure---that is the effort of a
+critic of books, and it is perpetually defeated," wrote the English literary
+critic, Percy Lubbock.
+
+> Nothing, no power, will keep the book steady and motionless before us so
+that we may have time to examine its shape and design [@lubbock_craft_1921,
+1].
+
+Like many critics before him and after, by "shape" and "design" Lubbock means
+the intra-literary characteristics of the text itself: the means by the which
+words and sentences assemble themselves into something like a total work of
+art. Unlike say painting which presents itself in its entirety, narration
+unfolds in time and as Lubbock writes must be reassembled before the mind's
+eye to present itself for analysis. Meaning making of this sort involves
+looking past the details towards the synthetic whole. Lubbock writes that the
+"real heart and substance of the book [...] stands out more clearly for the
+obscurity into which the less essential parts of it subside"
+[@lubbock_craft_1921, 4]. Reading Lubbock one gets the idea that such "less
+essential parts," "shapes" and "designs" are all nevertheless ideational,
+mental constructs. And even these must recede for the work to cohere. Reading
+in this mode strongly denies the book its materiality. To read the novel for
+pleasure is to "forget, if we can, that the book is an object of art, Lubbock
+writes [@lubbock_craft_1921, 6]. But to forget the book as an object of art is
+necessarily to forget it also as an object. Thus to "objectify the elements"
+of the novel that "strike us more keenly," as Lubbock writes, is precisely the
+opposite of what is normally meant by objectification. The book for Lubbock is
+a retreat into the imagination, where the reader can "discover a world" and
+"be lost" in a "pleasant illusion" [@lubbock_craft_1921, 6].
+
+The
+"Far from losing ourselves in the world of the novel, we must hold it away
+from us, see it all in detachment, and use the whole of it to make the image
+we seek, the book itself" [@lubbock_craft_1921, 6]. "How they are made is the
+only question I ask" [@lubbock_craft_1921, 12]. 
+More Lubbock.
+
+Habit hides the peculiarity of our everyday interfaces with the
 digital word. We read at the surface; we etch inscriptions deep within the
 bowels of a machine. When enacted on the level of the physical device,
 estrangement can parallel the practice of exegesis in literary theory. The
 unpacking of literal devices that produce meaning reveals internals that
 structure the reading experience made opaque through artifice and habituation.
-Materialist poetics of the sort I am suggesting here expose the price paid for
-the facility of computed text.
+It is at this outer level of analysis, the formalist concern with literary
+technique as a system of symbolic exchange intersects with the political
+concern with the technics of the book as a token of physical exchange in the
+market of capital. To become a commodity an idea must gain material shape.
 
-For example, we know that physical affordances of liquid crystal displays
-(LCDs) and magnetic storage differ drastically from those of paper, goat
-skins, or parchment. Yet digital surface representation maintains the illusion
-of self-similarity. We are faced with what is called *skeuomorphic* design, by
-which screen reading resembles print. In this way, an electronic book reader
-simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
-itself constitutes a metaphor worthy of critical examination. The principles
-of skeuomorphic design extend a visual metaphor from one medium to another.
-The reader already knows how to turn pages of a book. A book device therefore
-simulates pages to ease the cognitive burden of transitioning from paper to
-pixel. Instead of issuing unfamiliar commands to the computer to turn the
-page, readers perform the more habituated motion of swiping across the screen.
-The gliding motion enacts a kinetic metaphor, transposing properties of paper
-to glass.
 
-Readers have to bear this burden of conceptual transference. In pretending to
-turn virtual pages, we lose sight of the mechanisms producing the simulation.
-If we hope to practice anything like interpretation or close reading at the
-level of discourse, we must certainly also practice them at the physical site
-of discourse formation. A truly materialist poetics would reach beyond
-representation towards the object. More than superficial embellishment, the
-skeuomorphic metaphor enacted at the surface of the digital literary device
-structures all meaning-carrying units: from individual letters, to words,
-paragraphs, chapters, books, and pages. In our example, we know that there is
-nothing inherently page-like about stiff slabs of glass and silicone.  The
-metaphor of "turning the page by swiping across the screen" conceals the
-structural rift between media. Why would readers engage in such a charade? Why
-not simply make use of novel interfaces afforded by new technology? The
-literature from the field of human--computer interaction suggests a formalist
-answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
-@spolsky_user_2001]. The initial effort it takes to learn to read in a new
-environment may discourage many potential readers from adopting a new
-technology. Smart designers therefore rely on acculturated practice, the
-turning of pages in our case, to minimize the "friction" of adoption. Although
-an "electronic book reader" contains no pages as such, it extends the metaphor
-of pages to electronic reading.
+Mumford 83. Marx and Mumford. Techniques do not depend on the free will, they
+are given. 
 
-The usability metaphor comes at a cost of concealment. A digital poem, a novel,
-a physician's script, or a legal contract may resemble their paper
-counterparts. But the metaphor of "turning pages" is but one simulation among
-the device's many possibilities. When imitating pages, the reading *appliance*
-also monitors, adjusts, warns, and controls. In return for usability it
-simulates and dissembles. The exposition of the metaphor reminds us of the
-compromise between two conceptual systems. It reveals real material affordances
-behind the symbol.
+Spengler "technics is the tactics of living" [@spengler, 9]. Not an implement,
+but what one can do with it.
+;
 
-The simulation conceals structuring principles large and small. Some of the
-concealed details may remain inconsequential, like the limit on how many keys
-can be pressed at once without overwhelming the circuitry of keyboard when
-typing. Other concealed details are of paramount importance, like digital
-rights management chips and censorship filters. Electronic books are governed
-and internalize government structures in ways that we have only begun to
-comprehend. The material affordances of device--bound textuality influence all
-higher-level functions of interpretation.[^ln1-rmedium] Yet, available
-theories of interpretation build on properties and assumptions attached to
-print media. For example, in Hans-Georg Gadamer's seminal conception of art,
-the free play of the artistic mind transforms into material structure
-(*Gebilde*) that is both "repeatable" and "permanent" [@gadamer_truth_1975,
-110]. Similarly, in *Interpretation Theory*, Paul Ricoeur writes about the
-"range of social and political changes" related to the invention of writing.
-For Ricoeur, human discourse is "fixed" and thereby "preserved from
-destruction" in writing [@ricur_interpretation_1976, 26-8].
+The relationship between technique and technics.
 
-The electronic literary device offers no such permanence. The very meanings of
-the words "fixed," "permanent," and "repeatable" change with the medium. The
-engineering of literary artifacts conceals a number of design choices,
-obscuring the flows of code and codex under the familiar guise of surface
-representation. The digital book does not just simulate a book.  Being a type
-of a Turing machine, it holds the potential to embody all possible
-metaphors.[^ln1-notquite] The task of the literary scholar reading on the
-level of the device becomes to make the figure available for interpretation.
-It is to apprehend its revealed mechanics. What happens in the metaphorical
-transference between the book and the apparatus simulating the book?
-Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
-shaping mental experience. Device hermeneutics allow one to consent, or,
-conversely, to resist elements of imposed structure.
+How is instrument and technique connected?
 
 It is tempting to think of personal computers as glorified calculators. That
 is often the popular image of computing, one that highlights the machine's
@@ -342,35 +316,41 @@ some truth to that position, but I would like to argue here that the
 connection between computing and calculation is but a piece of a larger story.
 The personal computer governing the production of textuality today emerged
 from an amalgamation of programmable machines: among them the telegraph, the
-typewriter, and the calculator. Add to that list the loom, the music box, the
-radio, and the film camera [^ln1-ceruzzi]. Each of these machines left an
-imprint on our everyday engagement with computational devices. The electronic
-is indubitably a computer in part. But the computer too retains traces of its
-literary history.
+typewriter, and the calculator. Add to that list looms, music boxes, radios,
+and film cameras [^ln1-ceruzzi]. These machines too left an imprint on our
+everyday engagement with computational devices. The electronic book is
+undoubtedly in part also a kind of a computer. But the computer also retains
+traces of its literary history.
 
 It is important to keep the intertwined material lineages of computation in
 mind because each brings with it a different set of values and priorities. As
 complex computational systems continue to play an ever greater part in our
 lives, from affecting family relations to health and nutrition (think social
-media and personal activity trackers), we are increasingly faced with a host of
-conflicting choices. When building systems that give form to human experience,
-should we privilege agency or efficiency, privacy or connectivity, elegance or
-complexity? These are not choices that can be left to a calculator. Systems,
-left to their own devices, cannot produce values. Rather, values are imposed
-from without. The question then becomes one of ends and means. A calculator is
-most "efficient" when operating on binary data. Efficiency and complexity are
+media and personal activity trackers), we are increasingly faced with a host
+of conflicting choices. When building digital architectures that are also
+social systems, should we privilege notions of agency or efficiency, privacy
+or connectivity, elegance or complexity? These are not choices that can be
+reduced to purely instrumental terms. They are values external to system
+architecture. The question then becomes one of ends and means. A calculator is
+most "efficient" when operating on binary data.  Efficiency and complexity are
 goods for the task of calculation. Humans prefer to manipulate texts and
-images. A democratic vision of a just society places value on open deliberation
-and consensus building. Undeniably, computers participate in social
-transformation: used to make war and to create art. What are our machines
-optimized for? The passive voice points to the root of the problem. A
-computational mechanism that extends agency should embody values that emanate
-from the agent. In other words, one should be able to project values through
-the machine, and not the other way around. What seems like a technologically
-determined inevitability is often simply the imposition of another's will from
-without. It is an attempt to social and political, not technological
-determinism. In most cases, it is possible to trace the root of imposition to
-specific governing agents, agencies, or incorporations.
+images instead of binary data. Keeping documents in simple, human-readable
+formats answers the values of systematic transparency and sustainability.
+Conversely, we can begin with values and ask about instruments. A democratic
+vision of a just society places value on open deliberation and consensus
+building. What kind of tools enable open deliberation and the building of
+consensus? Once we see the architecture of computational systems (all
+architecture, really) as a commitment to specific values, we can begin to ask:
+What are our machines optimized for? The passive voice points to the root of
+the problem. A
+
+mechanism that extends agency should embody
+values that emanate from the agent. In other words, one should be able to
+project values through the machine, and not the other way around. What seems
+like a technologically determined inevitability is often simply the imposition
+of another's will from without. It is an attempt to social and political, not
+technological determinism. In most cases, it is possible to trace the root of
+imposition to specific governing agents, agencies, or incorporations.
 
 ### 2.2 Thought Experiment
 
@@ -1034,7 +1014,7 @@ mechanism" of all other metaphoric mechanisms.
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
 
-### 2.3 Mechanism
+### 2.3 Instrument
 
 Literature in computer science tends to see universal Turing machines as
 algorithms: in other words, as virtual, second-order symbolic representations.
