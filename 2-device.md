@@ -184,7 +184,7 @@ back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. Roughly: What makes whatever compacts made by past generations still
 valid today?
 
-### 2.1 Technique
+### 2.1 Technique / Technics
 
 What sort of a thing is a literary device? The formal concept of a "device,"
 widely used in literary studies, is in part an artifact of an unfortunate
@@ -322,30 +322,80 @@ it is particularly interesting to ask how it is made" [@lubbock_craft_1921, 12
 
 Despite the uniform attention to form, Lubbock's "less essential parts,"
 "shapes," "proportions," and "designs" are all nevertheless ideational, mental
-constructs, just as they were for Shklovsky and Eikhenbaum.
+constructs, just as they were for Shklovsky and Eikhenbaum. Not until Walter
+Benjamin, writing in the 1930s do we get an attempt at a truly materialist
+poetics and a concise definition of *literary technique.* The work of art for
+Benjamin does not and cannot exist in the mode of a "rigid, isolated object."
+Rather, "it must be inserted into the context of living social relations," and
+therefore, to make the Marxist leap along with Benjamin, into the context
+determined by the relations to literary production [@benjamin_author_1983,
+87]. The author is also a producer. The question of formal, intra-textual
+figurative arrangements within the work of art thus cannot be considered apart
+from their extra-textual material arrangements. Technique for Benjamin is what
+makes literary products "accessible" to materialist analysis; technique *is*,
+for Benjamin, a relationship to production [@benjamin_author_1983, 87].
 
-The author as producer.  Benjamin literary technique "concerns the function of
-a work within the literary the literary production relations of its time."
-[@benjamin_author_1983, 87] Makes literary products accessible to immediate
-social and therefore materialist analysis [@benjamin_author_1983, 87].
+In making the characteristically Marxist move towards production, Benjamin
+attempts to bridge what he calls "the sterile dichotomy" between form and
+content [@benjamin_author_1983, 88]. The concept of technique brings the
+arrangement of literary, ideational matter into accordance with its political,
+matter-bound environment. By these means the very concept of the author---what
+counts as authorship, what is published---connects to the overall structure of
+the press and the press to the structure of political order. In this way the
+*idea* of citizen reporters, to take a contemporary example, has the potential
+to democratize journalism. But, as long as the production of newspapers
+remains under the control of an oligarchy, citizen journalism is bound to
+remain, in Benjamin's words, "an article of consumption." Citizen journalism,
+in our example, ceases to be a means of production. The market dynamics of the
+existing socio-economic order instead transform the potential for any
+meaningful political struggle---the struggle for the control of
+resources---into "comfortable contemplation" [@benjamin_author_1983].
 
-Whose interest are advanced, asks Benjamin [@benjamin_author_1983, 94]? (For example
-montage in cinema and in epic theater. [@benjamin_author_1983, 99]. Montage interrupts.
-It fills the audience with feelings, and possibly feelings of revolt
-[@benjamin 101]. Epic theater "alianates the audience in a lasting manner,
-through thought, from the conditions in which it lives" [@benjamin_author_1983, 101]
+Is it possible then for poetic form to evolve without the corresponding
+evolution in the economic contexts of literary production? It seems not. Like
+Shklovsky, Benjamin sees a small ray of hope in the techniques of poetic
+enjambment or interruption. Forms like the photo-montage and the epic theater
+puncture the illusion of artistic unity. "Epic theater does not reproduce
+conditions," he writes. It is not mimetic, in other words. It "discloses" and
+"uncovers." The function of the interruption, by which a playwright freezes
+the scene, for example, serves as a formal break within the structure of the
+play. But it also positions the audience in relation to the action, along with
+the actors. The veil is lifted. The actors can be seen for what they are: just
+actors, and the audience for what it is, consumers of pleasurable experiences.
+The epic drama shows the possibility of what Benjamin calls a "lasting
+alienation," by which the effects of the dramatic interruption persevere
+"through thought" to estrange the audience from their own immediate
+socio-economic contexts [@benjamin_author_1983, 99-102].
 
+Put into traditional Marxist terms, the dilemma of robotics---automated
+machinery of thought and war---rests on a nuanced understanding of production:
+authorship, creation, making, poiesis. Even in those cases when authors are
+free to produce texts without duress, they cannot chose chose the means of
+their production. "The means of production do not depend on the free will,"
+Marx wrote [@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It is not
+enough therefore to be a free producer of commodities. One must be free to
+produce *the ways of producing*. Technique, understood as a pattern of making,
+is given. It exist a priori, as an assemblage of previous social, economic,
+and infrastructural commitments. Langdon Winner, a contemporary theorist of
+science and technology, explains that modes of both production and consumption
+are "strongly conditioned or informed by a technological inheritance." It is a
+soft, suggestive kind of a determinism. Where it is possible to review one's
+commitment to specific socio-technological arrangements, it is difficult to do
+so [@winner_autonomous_1978; @winner_artifacts_1980]. I did not, for example,
+chose to write in this way, in this format, using these words, in this manner,
+on this machine. The commitments embodies in the technics of writing in this
+way are not entirely my own. But to opt out in some way I would have to not
+only recreate a new style of writing, the provenance of poets, but also to
+reconstruct the implements of literary writing, reading, and dissemination.  I
+must become a maker, but to what extent? The allure of maker culture, seen
+today in the communities dedicated to recreating, in Oswald Spengler's words,
+*the tactics of daily living*---the making of one's own clothes, the building
+one's own furnishing, the pickling one's own conserves---can be seen as a
+contemporary revolt against worsening conditions of totalizing technological
+inheritance.
 
-Mumford 83. Marx and Mumford. Techniques do not depend on the free will, they
-are given. 
-
-Spengler "technics is the tactics of living" [@spengler, 9]. Not an implement,
-but what one can do with it.
-;
-
-The relationship between technique and technics.
-
-How is instrument and technique connected?
+I return then to the subject of literary technique and its relation to the
+changing conditions of textual technology.
 
 It is tempting to think of personal computers as glorified calculators. That
 is often the popular image of computing, one that highlights the machine's
@@ -402,25 +452,23 @@ technique as a system of symbolic exchange intersects with the political
 concern with the technics of the book as a token of physical exchange in the
 market of capital. To become a commodity an idea must gain material shape.
 
-
 ### 2.2 Thought Experiment
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
 Turing machines. And to understand the history of Turing machines, it is best
 we view them in a wider cultural context, beyond the mathematical literature
-where they were first introduced.
-
-In what follows, I shall draw two as yet unexplored lineages that lead to
-Turing's seminal essay on computable numbers: the first intellectual, stemming
-back to his tutelage under Ludwig Wittgenstein, and the second material,
-highlighting the physical similarities between Turing's design and a number of
-concomitant developments in printing and communication. To read Turing and
-Wittgenstein together is to recover a legacy of humanities computing that often
-gets overlooked in the critical literature on the subject. This history is
-important because it allows us to see the simulated book in a new light: not as
-byproduct of quantification, but as a metaphor machine, capable of universal
-symbolic manipulation.
+where they were first introduced. I would like to take some time now to draw
+two as yet unexplored lineages that lead to Turing's seminal essay on
+computable numbers: the first intellectual, stemming back to his tutelage
+under Ludwig Wittgenstein, and the second material, highlighting the physical
+similarities between Turing's design and a number of concomitant developments
+in printing and communication. To read Turing and Wittgenstein together is to
+recover a legacy of humanities computing that often gets overlooked in the
+critical literature on the subject. This history is important because it
+allows us to see the simulated book in a new light: not as byproduct of
+quantification, but as a metaphor machine, capable of universal symbolic
+manipulation.
 
 Turing machines should hold interest for literary scholars because they present
 a minimally viable model for generalized symbolic manipulation: reading and
