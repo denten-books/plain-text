@@ -192,7 +192,7 @@ translation from Russian. The Russian *priem* would be better translated as
 "technique," in the sense of "method," "approach," or "procedure." The word
 "device" contains these meanings as well, but in modern usage, it usually
 carries a more concrete connotation, as "an object, machine, or piece of
-equipment that has been made for a special purpose" (Merriam-Webster). "Laying
+equipment that has been made for a special purpose" [@_device_2016]. "Laying
 bare the device," for Viktor Shklovsky, the Russian formalist critic who
 coined the phrase, meant making explicit the implied mechanisms of literary
 trope, particularly in cases where such tropes turn "stale," "automatic," and
@@ -252,16 +252,16 @@ new devices/techniques [*priem*] for the arrangement and the processing of
 linguistic material, and, in particular, more so with the rearrangement of
 figure [*obraz*] rather than with its creation" [@brik_poetika_1919, 102].
 
-The work of literary art could not therefore be reduced to a type of
-figurative thinking. Rather, for Shklovsky and his fellow travellers, artistic
+The work of poetry or fiction could not therefore be reduced to a type of
+figurative thinking. Rather, for Shklovsky and his fellow travellers artistic
 production amounted to novel "arrangement and the processing" of language
 material. Art was defined in terms of device and technique rather than in
-terms of symbol or figuration. In other words, to write literature is not
+terms of symbol or figuration. To write literature for the formalists was not
 merely to speak in figurative language, but to invent new figurations which
-can cut across prosaic and habituated norms of speaking [@brik_poetika_1919,
-103]. In this dynamic, Shklovsky places novelty at a premium abut what counts
-for figuration itself he does not say. He merely lists a possible combinations
-of existing tropes---synch niche, parallelism, analogy---which, in different
+could cut across prosaic and habituated norms of speaking [@brik_poetika_1919,
+103]. In this, Shklovsky places novelty at a premium. But what counts for
+figuration itself he does not say. He merely lists a possible combinations of
+existing tropes---synecdoche, parallelism, analogy---which, in different
 combinations produce the effect of either poetic innovation or prosaic
 commonplace.
 
@@ -271,12 +271,12 @@ moved from the level of content to the level of combinatorial arrangement, and
 no further. The question of surfaces, posed so recursively by Nabokov, gains
 an instrumental dimension when considered in the context of media history. At
 its upper limit, the nesting doll structure of literary instrumentation ends
-at the book itself. The book is in a sense a literary device containing all
-other literary devices. Yet even formalist literary analysis often begins by
-discarding that outer shell, seeing past the material affordances of the
-object as if ideas could be grasped directly, without material mediation. The
-English critic Percy Lubbock, himself a formalist of sorts, would write
-echoing his by then Soviet colleagues:
+at the book itself. It is a literary device containing all other literary
+devices. Yet even formalist literary analysis begins by discarding that
+outer shell, seeing past the material affordances of the object as if ideas
+could be grasped directly, without material mediation. The English critic
+Percy Lubbock, himself a formalist of sorts, would write echoing his by then
+Soviet colleagues:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -284,56 +284,71 @@ echoing his by then Soviet colleagues:
 > book steady and motionless before us so that we may have time to examine its
 > shape and design [@lubbock_craft_1921, 1].
 
-Yet even here, the book escapes the critic's grasp, because by "shape" and
-"design" Lubbock still means the intra-literary characteristics of the text
-itself: the means by the which words and sentences assemble themselves into
-something like a total work of art. The "book" for him is a synonym for the
-"novel." Unlike say painting which presents itself in its entirety, narration
-unfolds in time. The book (read the "novel) bust therefore be reassembled
-before the mind's eye to present itself for analysis. Meaning making of this
-sort involves reading past the linguistic minutia to constrict the synthetic
-literary whole. Lubbock writes that the "real heart and substance of the book
-[...] stands out more clearly for the obscurity into which the less essential
-parts of it subside" [@lubbock_craft_1921, 4]. Reading in this mode denies the
-book its materiality. Instead of physical space, the novel extends mentally,
-in time. To read the novel for pleasure, for Lubbock,  is to "forget, if we
-can, that the book is an object of art [@lubbock_craft_1921, 6].  And to
+Even in analysis the book escapes the critic's grasp. Our talk about novel is
+hampered by our unfamiliarity with their "technical aspects," he writes in the
+conclusion of his influential *The Craft of Fiction" [@lubbock_craft_1921,
+272]. Compared to other art forms, the novel is hampered by its temporal
+extension. Other art forms like sculpture or painting can be grasped at once,
+in their entirety. They exist at the time and at a place limited to their
+physical dimensions. The narrative unfolds in time by contrast. The novel must
+be assembled before the mind's eye to present itself for analysis in its
+entirety. Elements of composition unfold in time outside of the novel's
+physical bibliographic contexts. Meaning making of this sort involves reading
+past the linguistic minutia to constrict the synthetic literary whole. Lubbock
+writes that the "real heart and substance of the book [...] stands out more
+clearly for the obscurity into which the less essential parts of it subside"
+[@lubbock_craft_1921, 4]. To read in this mode is to deny the book its
+materiality. To read the novel for pleasure, for Lubbock,  is to "forget, if
+we can, that the book is an object of art [@lubbock_craft_1921, 6]. And to
 forget the book as an object of art is necessarily to forget it also as an
 object. Thus to "objectify the elements" of the novel that "strike us more
 keenly," as Lubbock writes, is precisely the opposite of what is normally
-meant by objectification. The book is a retreat from the material reality of
-the reader's immediate context, into the imagination, where the reader can
-"discover a world" and "be lost" in a "pleasant illusion," where there is "no
-chance of our finding, perceiving, recreating, the *form* of the book
-[emphasis mine]" [@lubbock_craft_1921, 6].
+meant by objectification. The book is a retreat also from the material
+realities of the reader's immediate context, into the imagination, where the
+reader can "discover a world" and "be lost" in a "pleasant illusion," where
+there is "no chance of our finding, perceiving, recreating, the *form* of the
+book [emphasis mine]" [@lubbock_craft_1921, 6].
 
-Unlike the lay reader, the critic and the author are engaged in the
-particulates. Lubbock writes that "far from losing ourselves in the world of
-the novel, we [the craftsmen, I assume] must hold it away from us, see it all
-in detachment, and use the whole of it to make the image we seek, the book
-itself" [@lubbock_craft_1921, 6]. Echoing Boris Eichenbaum in "How *The
-Overcoat* is Made?", Lubbock calls the reader's attention to the craft of
-literary construction. He promises to view a "handful of familiar novels [...]
-with some particularity," but without judgement or critique. "How they are
-made is the only question I ask," he writes and later, about Tolstoy's *War
-and Peace*, "there is so much in the book to distract us from its form [that]
-it is particularly interesting to ask how it is made" [@lubbock_craft_1921, 12
-& 28].
+Unlike the lay reader, the critic's task is to engage in the particulates of
+the writing craft. Lubbock writes that "far from losing ourselves in the world
+of the novel, we must hold it away from us, see it all in detachment, and use
+the whole of it to make the image we seek, the book itself"
+[@lubbock_craft_1921, 6]. Echoing Boris Eichenbaum in "How *The Overcoat* is
+Made?", Lubbock calls the reader's attention to the technology of literary
+construction. He promises to view a "handful of familiar novels [...] with
+some particularity," but without judgement or critique. "How they are made is
+the only question I ask," he writes and later, about Tolstoy's *War and
+Peace*, "there is so much in the book to distract us from its form [that] it
+is particularly interesting to ask how it is made" [@lubbock_craft_1921, 12 &
+28]. "The author of the book was a craftsman," he concludes. It is therefore
+the critic's role to "overtake him at his work and see how the book was made"
+[@lubbock_craft_1921, 274].
 
-Despite the uniform attention to form, Lubbock's "less essential parts,"
-"shapes," "proportions," and "designs" are all nevertheless ideational, mental
-constructs, just as they were for Shklovsky and Eikhenbaum. Not until Walter
-Benjamin, writing in the 1930s do we get an attempt at a truly materialist
-poetics and a concise definition of *literary technique.* The work of art for
-Benjamin does not and cannot exist in the mode of a "rigid, isolated object."
-Rather, "it must be inserted into the context of living social relations," and
-therefore, to make the Marxist leap along with Benjamin, into the context
-determined by the relations to literary production [@benjamin_author_1983,
-87]. The author is also a producer. The question of formal, intra-textual
-figurative arrangements within the work of art thus cannot be considered apart
-from their extra-textual material arrangements. Technique for Benjamin is what
-makes literary products "accessible" to materialist analysis; technique *is*,
-for Benjamin, a relationship to production [@benjamin_author_1983, 87].
+Despite his attention to form, Lubbock's "less essential parts," "shapes,"
+"proportions," and "designs" are all nevertheless ideational, mental
+constructs, just as they were for Shklovsky and Eikhenbaum. "The book vanishes
+as we lay our hands on it," Lubbock writes [@lubbock_craft_1921, 273].
+Critics cannot see the trees for the forest, and the other way around. As the
+totality of the work comes into view, the technical details of craft
+disappear. But in an attempt to perceive the technical details, the critic is
+also in danger of losing sight of the work as a whole. For this reason ends
+his book on an ambivalent note: somewhere between light and shadows. "If only
+there was one single tangible and measurable fact about the book," he writes.
+If only it could be "weighed like a statue" or "measured like a picture, it
+would be a support in the world of shadows [@lubbock_craft_1921, 273-4].
+
+Not until Walter Benjamin, writing in the 1930s do we get an attempt at a
+truly materialist poetics and a concise definition of literary technique.  The
+work of art for Benjamin does not and cannot exist in the mode of a "rigid,
+isolated object." Rather, "it must be inserted into the context of living
+social relations," and therefore, to make the Marxist leap along with
+Benjamin, into the context determined by the relations to literary production
+[@benjamin_author_1983, 87]. The author is also a producer. The question of
+formal, intra-textual figurative arrangements within the work of art thus
+cannot be considered apart from their extra-textual material arrangements.
+Technique for Benjamin is what makes literary products "accessible" to
+materialist analysis; technique *is*, for Benjamin, a relationship to
+production [@benjamin_author_1983, 87].
 
 In making the characteristically Marxist move towards production, Benjamin
 attempts to bridge what he calls "the sterile dichotomy" between form and
