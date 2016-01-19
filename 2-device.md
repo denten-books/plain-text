@@ -30,10 +30,10 @@ product" reduces humans to "machine-addicts," residing in a "jungle of robots"
 that threatens to suffocate all spontaneous activity. Through robots, life
 then becomes a script.
 
-In the name of comfort, safety, and prolonged life, technologists and
-population planners disempower the very subjects whose lives they claim to
-preserve. The zootechnical animal substitutes human ability to set goals for
-the promised certainty of a better future. Moreno writes:
+In the name of comfort, safety, and prolonged life, technocrats disempower the
+very subjects whose lives they claim to preserve. The zootechnical animal
+substitutes human ability to set goals for the promised certainty of a better
+future. Moreno writes:
 
 > The eugenic dreamer and the technological dreamer have one idea in common to
 substitute and hasten the slow process of nature. Once the creative process is
@@ -42,16 +42,16 @@ everybody without the effort of creating anew.  Once a machine for a certain
 pattern of performance is invented a certain produce can be turned out in
 infinite numbers practically without effort [...] Once that miraculous eugenic
 formula will be found a human society will be given prefect and smooth at
-birth, like a book of a press [@moreno_who_1953, 236].
+birth, like a book off a press [@moreno_who_1953, 236].
 
 Like king Thamus from Plato's *Phaedrus*, Moreno distrusted rote mechanization
-of thought itself. All forms of externalized algorithmic rule fell under
-suspicion: from central planning, to corporate governance, to machine code,
-and legal codex. For Moreno, such mechanisms served to conserve and to
-externalize human volition. With time, mechanized volition begins to govern
+of thought itself. All forms of externalized algorithmic rule fell for him
+under suspicion: from central planning, to corporate governance, to machine
+code, and legal codex. For Moreno, such mechanisms served to conserve and to
+externalize personal agency. With time, mechanized volition begins to govern
 without consensus or comprehension. Splintered from its source, it staggers
 forth, *golem*-like, through laws, books, and social institutions. Near
-immortal, images of the past proliferate and crowd out the present.  Moreno
+immortal, images of the past proliferate and crowd out the present. Moreno
 writes:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
@@ -66,11 +66,10 @@ In the aftermath of World War II, Moreno expanded the first edition of his
 book to consider the ultimate automaton, the atomic bomb. "Mankind has been
 awakened from a dream," he writes. The atomic bomb gives humanity a glimpse of
 its common enemy. Technology, for Moreno, does not determine the present
-situation. Rather it is a mindless actor in possession of dead and detached
-human volition. It then begins to compete with living actors for survival.
-Once set in motion, voluntarily, by humans, the war machine and the book alike
-continue to do their bidding blindly. Such structures persist to shape the
-social and the mental worlds to come. Moreno explains:
+situation. A mindless agent in possession of detached human volition, it
+competes with living actors for survival. Once in motion, the war machine and
+the book alike continue to do their bidding blindly. Such structures persist
+to shape the social and the mental worlds to come. Moreno explains:
 
 > Many of the domesticated robots are blessed with the attribute of becoming
 labor-saving devices, which has, however the unpleasant consequence that they
@@ -84,62 +83,60 @@ robot par excellence [@moreno_who_1953, 238].
 For Moreno, the inertia of past decisions embodied in extant mechanisms
 ultimately poses a threat for human survival. In this view, the real
 competition for survival happens not between persons, sects, races, or
-nations, but between humanity and its automatons from the past. The only way
-to compete with the robot was for him to expand the human cultural capacity
-for creation. The one advantage the biological being has over the zootechnical
-animal is creative spontaneity. However, he argued also that our capacity for
-creative and spontaneous action has to be continually on guard against
-lethargy. The machines of yore ease the burden of creativity; they weaken the
-capacity for poiesis by reducing the effort necessary to bring it forth.
-Moreno's therapy practice was therefore built on the principle of creative
-spontaneity training, aimed at the construction of communities that
-acknowledge and preserve a sense of personal agency. As far as I can tell from
-the records, the practice involved group improvisation and role-play, in what
-Moreno called the "techniques of freedom," which aimed to "balance spontaneous
-social forces to the greatest possible harmony and unity of all"
-[@moreno_who_1953, 8]. I leave Moreno's text here, with perplexing thoughts of
-hydrogen bombs and books occupying the same plane of analysis.
+nations, but between humanity and its automatons. To compete with the robot
+humans must expand their capacity for creation. Creative spontaneity is they
+one advantage they have over the zootechnical animal. The robot responds with
+indolence and inertia. It eases the burden of creativity, weakening the
+capacity for poiesis. Moreno's therapy practice was therefore based on the
+principle of creative spontaneity training, aimed at the construction of
+communities that acknowledge and preserve a sense of personal agency. As far
+as I can tell from the records, the practice involved group improvisation and
+role-play, in what Moreno called the "techniques of freedom," which aimed to
+"balance spontaneous social forces to the greatest possible harmony and unity
+of all" [@moreno_who_1953, 8].
 
-How can a book be compared to a gun: one an instrument of peace and
-edification, the other of war and destruction? When considered in the
-contemporary context, several features of Moreno's provocation come into a
-sharper relief. First is his attention to the volitional nature of robotics,
-which for Moreno defines a field of activity that includes both books and
-bombs. A bomb clearly signifies malicious intent. Following the American
-school of New Criticism, it has become unfashionable to speak similarly of
-intention in literary studies. When it comes to books, the critical intuition
-is to treat any conjecture about authorial intent as a fallacy
-[@wimsatt_verbal_1954]. But when it comes to war, our intuitions are reversed.
+Today, Moreno's writings seem antiquated. And yet, the thought of guns and
+books occupying the same plane of analysis gives me pause. How can a book be
+compared to a bomb or a gun: one an instrument of peace and edification, the
+others of war and destruction? When considered in the contemporary context,
+several features of Moreno's provocation come into a sharper relief. First is
+his attention to the volitional nature of robotics, which for Moreno defines a
+field of activity that includes both books and remote weapons. A bomb clearly
+signifies malicious intent. Following the American school of New Criticism, it
+has become unfashionable to speak similarly of intention in literary studies.
+When it comes to books, the critical intuition is to treat any conjecture
+about authorial intent as a fallacy: the author is dead [@wimsatt_verbal_1954;
+@barthes_death_1977]. But when it comes to war, our intuitions are reversed.
 To understand an act of aggression is to assign responsibility and to draw
 inference about its intentions. Moreno asks us to confront the book once again
-as a volitional object. Even if we cannot "read" the author's mind, we can
-similarly assign a measure of agency to the author in the process of creation.
+as a volitional object. Even if we cannot "read" the author's mind, we are
+able to assign a measure of agency to the author in the process of creation.
 Failing to produce an account of causes and effects involved, we are left
 instead to ascribe volition to inanimate objects and meaning-making to chance.
-The removal of the intentional fallacy frees the critic from speculation on
-the author's mindset, limiting analysis to the pertinent and readily
-observable attributes of the text. But it also obscures the flows of agency,
-imbuing the word with an anthropomorphic quality. Literary analysis without a
-model of intention tends to slide into active voice, where texts mean and
-languages "speak themselves."[^ln1-auto]
+Freed from the fallacy of intention, the critic avoids speculation about an
+author's mindset, limiting analysis to the pertinent and readily observable
+attributes of a text. But the loss of intention also obscures the flows of
+agency, imbuing the word with an anthropomorphic quality. Literary analysis
+without a concept of authorial intent tends to slide into active voice, where
+texts mean and languages speak themselves.[^ln1-auto]
 
-I do not mean to buoy the notion of authorial intent. Rather, Moreno's jarring
-parallelism between books and bombs reminds the reader that both constitute a
-species of displaced agency, a problem long in the background of Western
-liberal thought.[^ln1-consensus] In this light, contemporary cultural anxiety
-about artificial intelligence and robotics comprises a part of larger
-problematics related to action delayed in time and space by symbolic means.
-Technology of the word decouples readers from writers. Once decoupled,
-seemingly autonomous actors---books and robots---clutter the social sphere,
-continuing to structure human experience in the absence of the originating
-accord. The above might appear like a curious way of putting things, but not
-unusual in the larger context of post-Kantian humanism at the turn of the
-twentieth century. In Moreno's words we hear more than an echo of Marx's
-fetishism of commodities, by which "definite social relation between men"
-assumes "the fantastic form of a relation between things" [@marx_capital_1967,
-72]. Moreno arrives at a similar conclusion by another logic. In creating some
-of the earliest examples of social network graphs, he finds (and objects to)
-the presence of things in the position of social actors.
+Moreno's jarring parallelism between books and bombs reminds the reader that
+both constitute a species of displaced agency, a problem long in the
+background of Western liberal thought.[^ln1-consensus] Both represent agency
+delayed in time and space by symbolic means. The projectile acts at a
+distance. Once launched, it will complete its grim duty even if the command to
+act is withdrawn. Technology of the word similarly decouples readers from
+writers. Once decoupled, seemingly autonomous agents---books, folders,
+documents---clutter the social sphere, continuing to structure human
+experience in the absence of the originating accord. The above might appear
+like a curious way of putting things, but not unusual in the larger context of
+post-Kantian humanism at the turn of the twentieth century. In Moreno's words
+we hear more than an echo of Marx's fetishism of commodities, by which
+"definite social relation between men" assumes "the fantastic form of a
+relation between things" [@marx_capital_1967, 72]. Moreno arrives at a similar
+conclusion by another logic. In creating some of the earliest examples of
+social network graphs, he finds (and objects to) the presence of things in the
+position of social actors.
 
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
@@ -151,27 +148,28 @@ automated agency, from artificially intelligent personal assistants to market
 trading algorithms, worry scientists, legislators, and media theorists. What
 looks like a book today indeed takes on the functions of a gun and a trigger.
 I mean this literally: simulated text comprises a part of the same
-computational platform that powers drones and aircraft carriers. Today,
+computational platforms that power drones and aircraft carriers. Today,
 computer servers in the service of the world's largest purveyors of literature
 service also air traffic control and covert intelligence agencies
-[@soyata_combat:_2012; @logicworks_government_2015].
+[@soyata_combat:_2012; @logicworks_government_2015]. The small computer in
+your pocket is used to read books and to detonate explosives alike.
 
 These conditions compel us---historians, philologists, et al.---to reconsider
 the cozy relationship we have had with books since the advent of the Gutenberg
-press. Simulated text, as I have been calling it here, no longer plays by the
-same rules as print. The bibliographic illusion veils machine internals.  My
-task in this chapter is to perceive a Turing machine, the blueprint for all
-computation, within the electronic book. In doing so, the literary device,
-itself a powerful computer, will therefore gain meaning as a mechanism for
-generalized symbolic manipulation. At the same time, I aim to place the modern
-computer itself within the long history of the book, as a piece of literary
-(and not just mathematical) technology. To achieve my task, I will construct
-several pre-histories of the literary device, first as formal technique, then
-as thought experiment, and finally as control mechanism. To preserve a sense
-of human agency and to break the inertia of leisurely reading, we must
-rediscover the book as a device; to call it forth for what it is and always
-was---a robot for effecting thought at a distance; and to bring it back under
-the purview of interpretation.
+press. Simulated text, as I called it in the previous chapter, no longer plays
+by the same rules as print. The bibliographic illusion veils machine
+internals. My task in this chapter is to perceive a Turing machine, the
+blueprint for all computation, within the electronic book. In doing so, the
+literary device, itself a powerful computer, will therefore gain meaning as a
+mechanism for generalized symbolic manipulation. In a reciprocal movement, I
+aim also to place the modern computer itself within the long history of the
+book, as a piece of literary (and not just mathematical) technology. To
+achieve these tasks, I will construct several pre-histories of the literary
+device, first as formal technique, then as thought experiment, and finally as
+control mechanism. To preserve a sense of human agency and to break the
+inertia of leisurely reading, we must rediscover the book as a device; to call
+it forth for what it is and always was---a robot for effecting thought at a
+distance; and to bring it back under the purview of interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
 most worthy of thought and questioning remains the mystery of
@@ -187,7 +185,7 @@ valid today?
 ### 2.1 Technique / Technics
 
 What sort of a thing is a literary device? The formal concept of a "device,"
-widely used in literary studies, is in part an artifact of an unfortunate
+used widely in literary studies, is in part an artifact of an unfortunate
 translation from Russian. The Russian *priem* would be better translated as
 "technique," in the sense of "method," "approach," or "procedure." The word
 "device" contains these meanings as well, but in modern usage, it usually
@@ -267,16 +265,16 @@ commonplace.
 
 Thus even as they skirted the idea of materialist poetics, the formalists were
 not quite able to transcend the limits of ideation and ideology. Analysis
-moved from the level of content to the level of combinatorial arrangement, and
+moved from the level of content to the level of combinatorial arrangement and
 no further. The question of surfaces, posed so recursively by Nabokov, gains
 an instrumental dimension when considered in the context of media history. At
 its upper limit, the nesting doll structure of literary instrumentation ends
 at the book itself. It is a literary device containing all other literary
-devices. Yet even formalist literary analysis begins by discarding that
-outer shell, seeing past the material affordances of the object as if ideas
-could be grasped directly, without material mediation. The English critic
-Percy Lubbock, himself a formalist of sorts, would write echoing his by then
-Soviet colleagues:
+devices. Yet even formalist literary analysis begins by discarding that outer
+shell, seeing past the material affordances of the object as if ideas could be
+grasped directly, without material mediation. The English critic Percy
+Lubbock, himself a formalist of sorts, would write echoing his by then Soviet
+colleagues:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -284,61 +282,58 @@ Soviet colleagues:
 > book steady and motionless before us so that we may have time to examine its
 > shape and design [@lubbock_craft_1921, 1].
 
-Even in analysis the book escapes the critic's grasp. Our talk about novel is
-hampered by our unfamiliarity with their "technical aspects," he writes in the
-conclusion of his influential *The Craft of Fiction" [@lubbock_craft_1921,
-272]. Compared to other art forms, the novel is hampered by its temporal
-extension. Other art forms like sculpture or painting can be grasped at once,
-in their entirety. They exist at the time and at a place limited to their
-physical dimensions. The narrative unfolds in time by contrast. The novel must
-be assembled before the mind's eye to present itself for analysis in its
-entirety. Elements of composition unfold in time outside of the novel's
-physical bibliographic contexts. Meaning making of this sort involves reading
-past the linguistic minutia to constrict the synthetic literary whole. Lubbock
-writes that the "real heart and substance of the book [...] stands out more
-clearly for the obscurity into which the less essential parts of it subside"
-[@lubbock_craft_1921, 4]. To read in this mode is to deny the book its
-materiality. To read the novel for pleasure, for Lubbock,  is to "forget, if
-we can, that the book is an object of art [@lubbock_craft_1921, 6]. And to
-forget the book as an object of art is necessarily to forget it also as an
-object. Thus to "objectify the elements" of the novel that "strike us more
-keenly," as Lubbock writes, is precisely the opposite of what is normally
-meant by objectification. The book is a retreat also from the material
-realities of the reader's immediate context, into the imagination, where the
-reader can "discover a world" and "be lost" in a "pleasant illusion," where
-there is "no chance of our finding, perceiving, recreating, the *form* of the
-book [emphasis mine]" [@lubbock_craft_1921, 6].
+Even in analysis the book escapes the critic's grasp. Our ability to
+understand the novel is hampered by our unfamiliarity with its "technical
+aspects," he writes in the conclusion of his influential *The Craft of
+Fiction" [@lubbock_craft_1921, 272]. Other more plastic art forms like
+sculpture or painting can be grasped at once, in their entirety. They exist at
+the time and at a place limited to their physical dimension. By contrast, the
+narrative unfolds in time. The novel must be assembled before the mind's eye
+to present itself for analysis in its entirety. Elements of composition unfold
+in time outside of the novel's physical, bibliographic contexts. Meaning
+making of this sort involves reading past the linguistic minutia to constrict
+a synthetic literary whole. Lubbock writes that the "real heart and substance
+of the book [...] stands out more clearly for the obscurity into which the
+less essential parts of it subside" [@lubbock_craft_1921, 4]. To read in this
+mode is to deny the book its materiality. To read the novel for pleasure is to
+"forget, if we can, that the book is an object of art [@lubbock_craft_1921,
+6]. And to forget the book as an object of art is necessarily to forget it
+also as an object. Thus to "objectify the elements" of the novel that "strike
+us more keenly," as Lubbock writes, is precisely the opposite of what is
+normally meant by objectification. The book is a retreat also from the
+material realities of the reader's immediate context, a retreat into the
+imagination, where the reader can "discover a world" and "be lost" in a
+"pleasant illusion," where there is "no chance of our finding, perceiving,
+recreating, the *form* of the book [emphasis mine]" [@lubbock_craft_1921, 6].
 
 Unlike the lay reader, the critic's task is to engage in the particulates of
 the writing craft. Lubbock writes that "far from losing ourselves in the world
 of the novel, we must hold it away from us, see it all in detachment, and use
 the whole of it to make the image we seek, the book itself"
 [@lubbock_craft_1921, 6]. Echoing Boris Eichenbaum in "How *The Overcoat* is
-Made?", Lubbock calls the reader's attention to the technology of literary
+Made", Lubbock calls the reader's attention to the technology of literary
 construction. He promises to view a "handful of familiar novels [...] with
 some particularity," but without judgement or critique. "How they are made is
-the only question I ask," he writes and later, about Tolstoy's *War and
-Peace*, "there is so much in the book to distract us from its form [that] it
-is particularly interesting to ask how it is made" [@lubbock_craft_1921, 12 &
-28]. "The author of the book was a craftsman," he concludes. It is therefore
-the critic's role to "overtake him at his work and see how the book was made"
-[@lubbock_craft_1921, 274].
+the only question I ask," he writes [@lubbock_craft_1921, 12 & 28]. "The
+author of the book was a craftsman," it is therefore the critic's role to
+"overtake him at his work and see how the book was made" [@lubbock_craft_1921,
+274].
 
-Despite his attention to form, Lubbock's "less essential parts," "shapes,"
+Despite the attention to craft, Lubbock's "less essential parts," "shapes,"
 "proportions," and "designs" are all nevertheless ideational, mental
 constructs, just as they were for Shklovsky and Eikhenbaum. "The book vanishes
 as we lay our hands on it," Lubbock writes [@lubbock_craft_1921, 273].
-Critics cannot see the trees for the forest, and the other way around. As the
-totality of the work comes into view, the technical details of craft
-disappear. But in an attempt to perceive the technical details, the critic is
-also in danger of losing sight of the work as a whole. For this reason ends
-his book on an ambivalent note: somewhere between light and shadows. "If only
-there was one single tangible and measurable fact about the book," he writes.
-If only it could be "weighed like a statue" or "measured like a picture, it
-would be a support in the world of shadows [@lubbock_craft_1921, 273-4].
+Critics strain to see both the threes and the forest. As the totality of the
+work comes into view, the technical details of craft disappear. Viewed up
+close, the technical details obscure sight of the work as a whole. *The Craft
+of Fiction* ends on an ambivalent note, somewhere between light and shadows.
+"If only there was one single tangible and measurable fact about the book," he
+writes. If only it could be "weighed like a statue" or "measured like a
+picture, it would be a support in the world of shadows [@lubbock_craft_1921,
+273-4].
 
 Not until Walter Benjamin, writing in the 1930s do we get an attempt at a
-truly materialist poetics and a concise definition of literary technique.  The
+truly materialist poetics and a concise definition of literary technique. The
 work of art for Benjamin does not and cannot exist in the mode of a "rigid,
 isolated object." Rather, "it must be inserted into the context of living
 social relations," and therefore, to make the Marxist leap along with
@@ -350,70 +345,131 @@ Technique for Benjamin is what makes literary products "accessible" to
 materialist analysis; technique *is*, for Benjamin, a relationship to
 production [@benjamin_author_1983, 87].
 
-In making the characteristically Marxist move towards production, Benjamin
-attempts to bridge what he calls "the sterile dichotomy" between form and
-content [@benjamin_author_1983, 88]. The concept of technique brings the
-arrangement of literary, ideational matter into accordance with its political,
-matter-bound environment. By these means the very concept of the author---what
-counts as authorship, what is published---connects to the overall structure of
-the press and the press to the structure of political order. In this way the
-*idea* of citizen reporters, to take a contemporary example, has the potential
-to democratize journalism. But, as long as the production of newspapers
-remains under the control of an oligarchy, citizen journalism is bound to
-remain, in Benjamin's words, "an article of consumption." Citizen journalism,
-in our example, ceases to be a means of production. The market dynamics of the
-existing socio-economic order instead transform the potential for any
+In making the characteristically Marxist move towards the idea of production,
+Benjamin attempts to bridge what he calls "the sterile dichotomy" between form
+and content [@benjamin_author_1983, 88]. The concept of technique brings the
+arrangement of literary, ideational content into accordance with its
+political, matter-bound environment. By these means the very concept of the
+author---what counts for authorship, what is published---connects to the
+overall structure of the press and the press to the structure of social order.
+In this way the *idea* of citizen reporters, to take a contemporary example,
+has the potential to democratize journalism. But, as long as the production of
+newspapers remains outside of the writer's immediate control, citizen
+journalism is bound to remain, in Benjamin's words, "an article of
+consumption." The market ultimately transforms the potential for any
 meaningful political struggle---the struggle for the control of
-resources---into "comfortable contemplation" [@benjamin_author_1983].
+resources---into mere "comfortable contemplation" [@benjamin_author_1983].
 
 Is it possible then for poetic form to evolve without the corresponding
 evolution in the economic contexts of literary production? It seems not. Like
 Shklovsky, Benjamin sees a small ray of hope in the techniques of poetic
-enjambment or interruption. Forms like the photo-montage and the epic theater
+enjambment and interruption. Forms like the photo-montage and the epic theater
 puncture the illusion of artistic unity. "Epic theater does not reproduce
-conditions," he writes. It is not mimetic, in other words. It "discloses" and
-"uncovers." The function of the interruption, by which a playwright freezes
-the scene, for example, serves as a formal break within the structure of the
-play. But it also positions the audience in relation to the action, along with
-the actors. The veil is lifted. The actors can be seen for what they are: just
-actors, and the audience for what it is, consumers of pleasurable experiences.
-The epic drama shows the possibility of what Benjamin calls a "lasting
-alienation," by which the effects of the dramatic interruption persevere
-"through thought" to estrange the audience from their own immediate
-socio-economic contexts [@benjamin_author_1983, 99-102].
+conditions," he writes. It is not mimetic. It "discloses" and "uncovers." The
+technique of interruption, by which a playwright freezes the scene, for
+example, functions to create a caesura within the structure of the play. Like
+Lubbock's detached objectification of the novel, interruption brings attention
+to the artifice of the art form. It positions both the audience and the actor
+in a particular relation to the structure of theater as an event. No longer
+passive participants, they are invited to suspend the suspension of disbelief.
+The veil is lifted. A measure of discomfort enters into the situation. Actors
+appear for what they are: paid performers in costume; the audience catches a
+glimpse of itself as a group of consumers paying for a pleasurable experience.
+Epic drama further shows the possibility of what Benjamin calls a "lasting
+alienation," by which the effects of the dramatic interruption can persevere
+beyond theater. Instead of creating the illusion of mimesis, art of this sort
+reveals uncomfortable truths about the human condition [@benjamin_author_1983,
+99-102].
 
 Put into traditional Marxist terms, the dilemma of robotics---automated
-machinery of thought and war---rests on a nuanced understanding of production:
-authorship, creation, making, poiesis. Even in those cases when authors are
-free to produce texts without duress, they cannot chose chose the means of
-their production. "The means of production do not depend on the free will,"
-Marx wrote [@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It is not
-enough therefore to be a free producer of commodities. One must be free to
-produce *the ways of producing*. Technique, understood as a pattern of making,
-is given. It exist a priori, as an assemblage of previous social, economic,
-and infrastructural commitments. Langdon Winner, a contemporary theorist of
-science and technology, explains that modes of both production and consumption
-are "strongly conditioned or informed by a technological inheritance." It is a
-soft, suggestive kind of a determinism. Where it is possible to review one's
-commitment to specific socio-technological arrangements, it is difficult to do
-so [@winner_autonomous_1978; @winner_artifacts_1980]. I did not, for example,
-chose to write in this way, in this format, using these words, in this manner,
-on this machine. The commitments embodies in the technics of writing in this
-way are not entirely my own. But to opt out in some way I would have to not
-only recreate a new style of writing, the provenance of poets, but also to
-reconstruct the implements of literary writing, reading, and dissemination.  I
-must become a maker, but to what extent? The allure of maker culture, seen
-today in the communities dedicated to recreating, in Oswald Spengler's words,
-*the tactics of daily living*---the making of one's own clothes, the building
-one's own furnishing, the pickling one's own conserves---can be seen as a
-contemporary revolt against worsening conditions of totalizing technological
-inheritance.
+machinery of thought and war---rests on a nuanced understanding of production
+and its cognates: authorship, technique, creation, craft, making, poiesis.
+Even in those cases when authors write freely, without duress, they cannot
+chose chose the means of writing. Neither do readers wholly determine the
+contexts of meaning making. "The means of production do not depend on the free
+will," Marx wrote [@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It
+is not enough therefore to be an independent producer of commodities, a free
+agent. One must be free also to produce new *ways of producing*.  Otherwise,
+technics---the patterns of making---are a given. They exist a priori, an
+assemblage of preordained social, economic, and infrastructural commitments.
+Langdon Winner, a contemporary theorist of science and technology, calls it
+the "conditioning of technological inheritance" [@winner_autonomous_1978, 83].
+It is a soft, suggestive kind of a determinism. One can, with critical
+distance review one's commitment to specific socio-technological arrangements,
+but it is difficult [@winner_autonomous_1978; @winner_artifacts_1980]. I did
+not, for example, chose to write in this way, in this format, using these
+words, in this manner, on this machine. The commitments embodied in the
+technics of writing in this way are not entirely my own. But to opt out in
+some way I would have to not only recreate a new *style* of writing---the
+provenance of poets---but also to reconstruct the *implements* of writing,
+reading, and the dissemination of literary texts. To what extent is it
+possible to become a maker of textual technology? The allure of maker culture,
+seen today in the communities dedicated to the recreation of, in Oswald
+Spengler's words, *the tactics of daily living*---the making of one's own
+clothes, the building one's own furnishings, the pickling one's own
+conserves---can be seen as a contemporary revolt against the tyranny of
+received technological inheritance.
 
-I return then to the subject of literary technique and its relation to the
-changing conditions of textual technology.
+I return to the subject of literary technics and their relation to the
+changing conditions of textual technology. Even if we break with Marx and
+Benjamin on the primacy of production, we are still forced to acknowledge the
+relationship between labor and poiesis. To write is to create, and to create
+is to work. I am interested here in taking the formalist research program to
+its logical conclusion. The notion of literary technics identifies the kind of
+labor involved. Our ability to recognize literary devices like Lubbock's
+"telling the story in first person" or the "autobiographic device" points to
+the craft of fiction (and any writing, for that matter). What we lose in the
+passage from the novel to the book, we gain in the understanding of how the
+thing is made. This process must include all aspects of literary production,
+from diegetic details internal to the narrative world to extra-diegetic
+particulates---rules, norms, practices, and technologies---that govern
+interpretation.
 
-It is tempting to think of personal computers as glorified calculators. That
-is often the popular image of computing, one that highlights the machine's
+There will be nothing new in this sentiment for a medieval scholar or the
+scholar of antiquity. The farther removed we are historically from the object
+of analysis, the more complete our description of the material contexts. Thus
+to understand the palimpsests of Medieval Spain for example we must know
+something (among many things) about the physical properties of parchment, the
+storage and the circulation of codices, and the practices of reading and
+authorial patronage---all before the advent of the Gutenberg press. Mechanized
+type disrupts these patterns significantly, although the modern reader has the
+luxury of taking print for granted. The material conditions associated with
+the Gutenberg press are simply assumed to be known and transparent. The book
+and the novel for Lubbock are synonymous. I would not be the first scholar to
+point out the dangers of ignoring the material specificity of the contemporary
+textual conditions. Johanna Drucker, Jerome McGann, Katherine Hayles, and
+Wendy Chun have all made a similar case at one time or another
+[@drucker_digital_2001; @mcgann_radiant_2001; @chun_enduring_2008;
+@hayles_how_2012]. The analysis of the computational metaphor brings attention
+to the gravity of the situation. Simulated text appears to us in the guise of
+the print metaphor. By such means one system of symbolic exchange is subsumed
+by another. We would like to believe, with Lubbock and Benjamin, in the power
+of literary analysis to construct a bridge from ideology to material context:
+from thought to thing, from novel to book, from words and sentences to shape
+and design. The simulation seals the diegetic, intra-textual world within the
+device, further isolating symbolic exchange from the exchange of commodities.
+It further prevents us from the already difficult task of examining the
+particulates of received technological inheritance: "to scrutinize that
+technics give to life, and to make new choices on the basis of that critique"
+[@winner_autonomous_1978, 83].  We strain to understand the affordances of
+simulated print, where the underlying material foundations have long switched
+to glass and silicon.
+
+Habit hides the peculiarity of our everyday interfaces with the digital word.
+We read at the surface; we etch inscriptions deep within the bowels of a
+machine. When enacted on the level of the physical device, formal estrangement
+and interruption can parallel the practice of exegesis in literary theory. The
+unpacking of literal devices that produce meaning reveals internals that
+structure the reading experience made opaque through artifice and habituation.
+It is at this outer level of analysis, the formalist concern with literary
+technique as a system of symbolic exchange intersects with the political
+concern with the technics of the book as a token on the commodities market.
+
+Once we are able to perceive literature and computation both as systems of
+symbolic exchange, we are able to regain a measure of personal agency lost to
+the apparent mechanization of thought through ubiquitous robotics. It is
+tempting to think of personal computers as glorified calculators. That is
+often the popular image of computing, one that highlights the machine's
 ability to calculate. The computer reduces culture to ones and zeroes (or so
 goes the story), thereby diminishing the human experience.[^ln1-pop] There is
 some truth to that position, but I would like to argue here that the
@@ -427,45 +483,33 @@ undoubtedly in part also a kind of a computer. But the computer also retains
 traces of its literary history.
 
 It is important to keep the intertwined material lineages of computation in
-mind because each brings with it a different set of values and priorities. As
-complex computational systems continue to play an ever greater part in our
-lives, from affecting family relations to health and nutrition (think social
-media and personal activity trackers), we are increasingly faced with a host
-of conflicting choices. When building digital architectures that are also
-social systems, should we privilege notions of agency or efficiency, privacy
-or connectivity, elegance or complexity? These are not choices that can be
-reduced to purely instrumental terms. They are values external to system
-architecture. The question then becomes one of ends and means. A calculator is
-most "efficient" when operating on binary data.  Efficiency and complexity are
-goods for the task of calculation. Humans prefer to manipulate texts and
-images instead of binary data. Keeping documents in simple, human-readable
-formats answers the values of systematic transparency and sustainability.
-Conversely, we can begin with values and ask about instruments. A democratic
-vision of a just society places value on open deliberation and consensus
-building. What kind of tools enable open deliberation and the building of
-consensus? Once we see the architecture of computational systems (all
-architecture, really) as a commitment to specific values, we can begin to ask:
-What are our machines optimized for? The passive voice points to the root of
-the problem. A
+mind because each brings with it a different set of practices, values, and
+priorities. As complex computational systems continue to play an ever greater
+part in our lives, from affecting family relations to health and nutrition
+(think social media and personal activity trackers), we are increasingly faced
+with a host of conflicting choices. When building digital architectures that
+are also social systems, should we privilege notions of agency or efficiency,
+privacy or connectivity, elegance or complexity? These are not choices that
+can be understood in purely instrumental terms. They are values external to
+system architecture. The question then becomes one of ends and means. A
+calculator is most efficient when operating on binary data. Efficiency and
+complexity are goods for the task of calculation. Humans prefer to manipulate
+texts and images instead of binary data. Keeping documents in simple,
+human-readable formats answers the values of systematic transparency and
+sustainability. A democratic vision of a just society places value on open
+deliberation and consensus building. What kind of tools enable open
+deliberation and the building of consensus? Once we see literary and
+computational technics (all system architecture, really) as a commitment to
+specific values, we can begin to ask: What are our machines optimized for? The
+passive voice points to the root of the problem. A mechanism that extends
+agency should embody values that emanate from the agent. In other words, one
+should be able to project values through the machine, and not the other way
+around. Under examination, what seems like technological determinism reveals
+itself as a will to power. It is an attempt to fix contingent relations
+between things and symbols as if they were necessary.
 
-mechanism that extends agency should embody
-values that emanate from the agent. In other words, one should be able to
-project values through the machine, and not the other way around. What seems
-like a technologically determined inevitability is often simply the imposition
-of another's will from without. It is an attempt to social and political, not
-technological determinism. In most cases, it is possible to trace the root of
-imposition to specific governing agents, agencies, or incorporations.
-
-Habit hides the peculiarity of our everyday interfaces
-with the digital word. We read at the surface; we etch inscriptions deep
-within the bowels of a machine. When enacted on the level of the physical
-device, estrangement can parallel the practice of exegesis in literary theory.
-The unpacking of literal devices that produce meaning reveals internals that
-structure the reading experience made opaque through artifice and habituation.
-It is at this outer level of analysis, the formalist concern with literary
-technique as a system of symbolic exchange intersects with the political
-concern with the technics of the book as a token of physical exchange in the
-market of capital. To become a commodity an idea must gain material shape.
+trace the root of imposition to specific governing agents, agencies, or
+incorporations.  Agency.
 
 ### 2.2 Thought Experiment
 
