@@ -46,16 +46,17 @@ formula will be found a human society will be given prefect and smooth at
 birth, like a book off a press [@moreno_who_1953, 236].
 
 Like king Thamus from Plato's *Phaedrus*, Moreno distrusts rote mechanization
-of thought itself. All forms of displaced agency fall under suspicion: "the
+of thought itself. All forms of displaced agency fall under suspicion: the
 plow, the pen, the book, the typewriter, the gun, the rocket, and the atomic
-bomb," radio and television, central planning, corporate governance and legal
-codex [@moreno_who_1953, 237-44]. Contrary to my intuitions, this list
-includes both books and bombs. For Moreno, all such mechanisms conserve and
-externalize personal agency. With time, mechanized volition begins to govern
-without consensus or comprehension. Splintered from its source, the robot
-staggers forth, *golem*-like, through books, laws, and social institutions.
-Near immortal, images of the past proliferate and crowd out the present.
-Moreno writes:
+bomb, radio and television, central planning, corporate governance, and legal
+codex [@moreno_who_1953, 237-44]. Contrary to my intuitions, this list places
+both books and bombs at the same level of analysis. For Moreno, both
+instruments are similar in that they embody a detached form of agency. They
+both seem to act on their own accord. With time, volition so detached and
+mechanized begins to govern without consensus or comprehension. Splintered
+from its source, the robot staggers forth, *golem*-like, through books, laws,
+and social institutions. Near immortal, images of the past proliferate and
+crowd out the present. Moreno writes:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -99,20 +100,20 @@ improvisation and role-play, in what Moreno called the "techniques of freedom"
 Moreno's jarring parallelism between books and bombs reminds the reader that
 both constitute a species of displaced agency, a problem long in the
 background of Western liberal thought.[^ln1-consensus] Both represent agency
-delayed in time and space by symbolic means. The projectile acts at a
-distance; once launched, it will complete its grim mandate even if the command
-to act is withdrawn. Technology of the word similarly decouples readers from
-writers. Once decoupled, seemingly autonomous agents---books, folders,
-documents---clutter the social sphere, continuing to structure human
-experience in the absence of the originating accord. The above might appear a
-curious way of putting things, but not unusual in the larger context of
-post-Kantian humanism at the turn of the twentieth century. In Moreno's words
-we hear more than an echo of Marx's fetishism of commodities, by which
-"definite social relation between men" assumes "the fantastic form of a
-relation between things" [@marx_capital_1967, 72]. Moreno arrives at a similar
-conclusion by another logic. In creating some of the earliest examples of
-social network graphs, he finds (and objects to) the presence of things in the
-position of social actors.
+delayed in time and space. The projectile acts at a distance; once launched,
+it will complete its grim mandate even if the command to act is withdrawn.
+Technology of the word similarly decouples readers from writers. Once
+decoupled, seemingly autonomous agents---books, folders, documents---clutter
+the social sphere, continuing to structure human experience in the absence of
+the originating accord. The above might appear a curious way of putting
+things, but not unusual in the larger context of post-Kantian humanism at the
+turn of the twentieth century. In Moreno's words we hear more than an echo of
+Marx's fetishism of commodities, by which "definite social relation between
+men" assumes "the fantastic form of a relation between things"
+[@marx_capital_1967, 72]. Moreno arrives at a similar conclusion by another
+logic. In creating some of the earliest examples of social network graphs, he
+finds (and objects to) the presence of things in the position of social
+actors.
 
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
