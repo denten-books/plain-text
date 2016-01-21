@@ -143,9 +143,9 @@ aim also to place the modern computer itself within the long history of the
 book, as a piece of literary (and not just mathematical) technology. To
 achieve these tasks, I will construct several pre-histories of the literary
 device, first as formal technique, then as thought experiment, and finally as
-control mechanism. These material and intellectual histories will help reveal
-the book as a device, to call it forth as a mechanism for effecting thought at
-a distance, and to bring it back under the purview of interpretation.
+an instrument. These material and intellectual histories will help reveal the
+book as a device, to call it forth as a mechanism for effecting thought at a
+distance, and to bring it back under the purview of interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
 most worthy of thought and questioning remains the mystery of
@@ -160,23 +160,25 @@ generations still valid today?
 
 ### 2.1 Technique / Technics
 
-What sort of a thing is a literary device? The formal concept of a "device,"
+What kind of a thing is a literary *device*? The formal concept of a device,
 used widely in literary studies, is in part an artifact of an unfortunate
-translation from Russian. The Russian *priem* would be better translated as
-"technique," in the sense of "method," "approach," or "procedure." The word
-"device" contains these meanings as well, but in modern usage, it usually
-carries a more concrete connotation, as "an object, machine, or piece of
-equipment that has been made for a special purpose" [@_device_2016]. "Laying
-bare the device," for Viktor Shklovsky, the Russian formalist critic who
-coined the phrase, meant making explicit the implied mechanisms of literary
-trope, particularly in cases where such tropes turn "stale," "automatic," and
-"naturalized," that is, bereft of their original poetic and evocative power.
+translation from the Russian *priem*. The word would be better translated as
+"technique," in the sense of "method," "approach," or "procedure." Device
+contains these meanings as well, but in modern usage, it often carries a more
+concrete connotation, as "an object, machine, or piece of equipment that has
+been made for a special purpose" [@_device_2016]. "Laying bare the device,"
+for Viktor Shklovsky, the Russian formalist critic who coined the phrase at
+the turn of the century, meant making explicit the implied mechanisms of
+literary trope, particularly in cases where such tropes turn "stale,"
+"automatic," and "naturalized," that is, bereft of their original poetic and
+evocative power [@shklovsky_voskreshenie_1914; @shklovksy_poetika_1919;
+@shklovksy_art_2012].[^ln2-shklov]
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
-heritage, used defamiliarization in the formalist vein often and with
-relentless clinical precision. In the short story "A Guide to Berlin," to which
-D. Barton Johnson attributes our first glimpse at Nabokov's "mature virtuoso
-style," Nabokov writes:
+heritage, used the formal technique of "laying bare the device" often and with
+relentless clinical precision. In the short story "A Guide to Berlin," to
+which D. Barton Johnson attributes our first glimpse at Nabokov's "mature
+virtuoso style," Nabokov writes:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
@@ -208,48 +210,50 @@ word's visual shape and acoustics. It invites readers to perform the symmetry
 of its assonance and consonance as they pronounce the word. The round vowels
 and the interrupting obstruents of "OTTO" contort the body in accordance with
 the sound image: reverse mimesis, the body as sound pipe. The moment of
-corporeal reenactment transcends representational and paper-bound confines of
-the medium. The pipes appear briefly on this side of the page. The performance
-makes the "making of the literary technique obvious," obvious. In this, lies
-the prevalent characteristic of Nabokov's mature work, which often seeks to
-rise above the word through sheer recursion of literary technique, where each
-successive turn of abstraction brings the buried symbol closer to the reader.
+corporeal reenactment transcends the representational and paper-bound confines
+of the medium. The performance makes the "making of the literary technique
+obvious," obvious. Nabokov exposes the metaphor implicit in the very idea of
+"laying bare the device." In this, lies the prevalent characteristic of
+Nabokov's mature work, which often seeks to transcend the diegetic, fictional
+world through sheer recursion of literary technique, where each successive
+turn of abstraction brings the buried symbol closer to the reader.
 
 Despite the effort to transcend the page, formalist poetics (both in art and
-in scholarship) fell short of producing an explicit theory of technique. For
-example, in his "Art as Device," Shklovsky writes:
+in scholarship) fell short of producing an explicit theory of technique. In
+his "Art as Device," Shklovsky writes:
 
 > The word of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
 > linguistic material, and, in particular, more so with the rearrangement of
-> figure [*obraz*] rather than with its creation" [@brik_poetika_1919, 102].
+> figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
+> 102].
 
-Poetry or fiction should not be reduced to a type of figurative thinking, in
-other words. Rather, for Shklovsky and his fellow travellers artistic
-production amounts to novel "arrangement and the processing" of language
+Poetry or fiction should not be reduced to a type of figurative, symbolic
+thinking, in other words. Rather, Shklovsky and his fellow travellers
+privileged the innovative "arrangement and the processing" of language
 material. Art therefore must be understood in terms of device and technique
 rather than in terms of symbol or figuration, as it was for the symbolists. To
 write literature is not merely to speak in figurative language, but to invent
 new figurations capable of cutting across prosaic and habituated norms of
-speaking [@brik_poetika_1919, 103]. In this, Shklovsky places novelty at a
-premium. But what counts for figuration itself he does not say. He merely
-lists possible combinations of existing tropes---synecdoche, parallelism,
-analogy---which, in different combinations produce the effect of either poetic
-innovation or prosaic commonplace. Thus even as they skirted the idea of a
-materialist poetics, the formalists did not attempt to transcend the limits of
-ideation and ideology. Formal analysis moved from the level of content to the
-level of arrangement and no further.
+speaking [@shklovksy_poetika_1919, 103]. In this, Shklovsky places innovation
+at a premium, without account for figuration itself. He merely lists possible
+combinations of existing tropes---synecdoche, parallelism, analogy---which, in
+different combinations produce the effect of either poetic innovation or
+prosaic commonplace. Thus even as they skirted the idea of a materialist
+poetics, the formalists could not transcend the limits of ideation and
+ideology. Formal analysis moved from the level of content to the level of
+arrangement of that content and no further.
 
 The question of surfaces, posed so recursively by Nabokov, gains an
 instrumental dimension when considered in the context of media history. At its
 upper limit, the nesting doll structure of literary instrumentation ends at
-the book itself. The book draws a figure of its own. It is in a sense a
-literary device containing all other literary devices. Despite the materialist
+the book. The book itself draws a figure of its own. It is in a sense a
+literary device containing all other literary devices. Despite its materialist
 ambitions, formal literary analysis begins by discarding that outer shell,
 seeing past the material affordances of the object as if ideas could be
 grasped directly, without physical mediation. The English critic Percy
-Lubbock, himself a formalist of sorts, would write echoing his, by then
-Soviet, colleagues:
+Lubbock, himself a formalist of sorts, would write echoing his Soviet
+colleagues:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -258,15 +262,15 @@ Soviet, colleagues:
 > shape and design [@lubbock_craft_1921, 1].
 
 The book continually escapes the reader's grasp. Our ability to understand the
-novel is hampered by our unfamiliarity with its "technical aspects," Lubbock
-writes in the conclusion of his influential *The Craft of Fiction"
+novel as a form is hampered by our unfamiliarity with its "technical aspects,"
+Lubbock writes in the conclusion of his influential *The Craft of Fiction"
 [@lubbock_craft_1921, 272]. Other more plastic art forms like sculpture or
 painting can be grasped at once, in their entirety. They exist at a time and
 at a place limited to their physical dimensions. By contrast, the narrative
 unfolds in time. The novel must be assembled before the mind's eye to present
 itself for analysis in its entirety. Elements of composition unfold in time
 outside of the novel's physical, bibliographic contexts. Meaning making of
-this sort involves reading past the linguistic minutia to constrict a
+this sort involves reading past the linguistic minutiae to construct a
 synthetic literary whole. Lubbock writes that the "real heart and substance of
 the book [...] stands out more clearly for the obscurity into which the less
 essential parts of it subside" [@lubbock_craft_1921, 4]. To read in this mode
@@ -290,33 +294,34 @@ the whole of it to make the image we seek, the book itself"
 Made", Lubbock calls the reader's attention to the technology of literary
 construction. He promises to view a "handful of familiar novels [...] with
 some particularity," but without judgement or critique. "How they are made is
-the only question I ask," he writes [@lubbock_craft_1921, 12 & 28]. "The
-author of the book was a craftsman," it is therefore the critic's role to
-"overtake him at his work and see how the book was made" [@lubbock_craft_1921,
-274]. Lubbock's usage of a seemingly materialist vocabulary---"parts,"
-"forms," "shapes," "proportions," and "designs"---nevertheless refer to
-ideational, mental constructs, just as it was for Shklovsky and Eikhenbaum.
-"The book vanishes as we lay our hands on it," Lubbock writes
-[@lubbock_craft_1921, 273]. Critics must chose to see the trees or forest. As
-the totality of the work comes into view, the technical details of craft
-disappear. Viewed up close, the technical details obscure sight of the work as
-a whole. *The Craft of Fiction* ends on an ambivalent note, stopping short of
-recovering the book as an object. "If only there was one single tangible and
-measurable fact about the book," Lubbock writes. If only it could be "weighed
-like a statue" or "measured like a picture, it would be a support in the world
-of shadows [@lubbock_craft_1921, 273-4].
+the only question I ask," he writes [@shklovksy_poetika_1919;
+@lubbock_craft_1921, 12 & 28; @eichenbaum_how_1995]. "The author of the book
+was a craftsman," it is therefore the critic's role to "overtake him at his
+work and see how the book was made" [@lubbock_craft_1921, 274]. Lubbock's
+usage of a seemingly materialist vocabulary---"parts," "forms," "shapes,"
+"proportions," and "designs"---nevertheless refer to ideational, mental
+constructs, just as it was for Shklovsky and Eichenbaum. "The book vanishes as
+we lay our hands on it," Lubbock writes [@lubbock_craft_1921, 273]. Critics
+must chose to see either the trees or the forest. As the totality of the work
+comes into view, the technical details of craft disappear. Viewed up close,
+the technical details obscure sight of the work as a whole. *The Craft of
+Fiction* ends on an ambivalent note, stopping short of recovering the book as
+an object. "If only there was one single tangible and measurable fact about
+the book," Lubbock writes. If only it could be "weighed like a statue" or
+"measured like a picture, it would be a support in the world of shadows
+[@lubbock_craft_1921, 273-4].
 
-Not until Walter Benjamin, writing in the 1930s do we get an attempt at a
-truly materialist poetics along with a concise definition of literary
-technique. The work of art for Benjamin does not and cannot exist in the mode
-of a "rigid, isolated object." Rather, "it must be inserted into the context
-of living social relations," and therefore, into the context determined by its
+Walter Benjamin, writing in the 1930s, was one of the first to define the
+notion of literary technique in a way that would connect it to a materialist
+poetics. The work of art for Benjamin does not and cannot exist in the mode of
+a "rigid, isolated object." Rather, "it must be inserted into the context of
+living social relations," and therefore, into the context determined by its
 relation to literary production [@benjamin_author_1983, 87]. Authorship
 identifies a specific mode of production. The question of formal,
 intra-textual figurative arrangements within the work of art thus cannot be
 considered apart from their extra-textual material contexts. Technique for
 Benjamin is what makes literary products "accessible" to materialist analysis;
-technique *is* in itself, in Benjamin's view, a relationship to production
+technique *is* in itself, in his view, a relationship to production
 [@benjamin_author_1983, 87].
 
 In making the characteristically Marxist move towards the idea of production,
@@ -324,65 +329,75 @@ Benjamin attempts to bridge what he calls "the sterile dichotomy" between form
 and content [@benjamin_author_1983, 88]. The concept of technique brings the
 arrangement of literary, ideational content into accordance with its material
 context. By these means the very concept of the author---what counts for
-authorship, what is published---connects to the overall structure of the press
-and the press to the more general arrangements of labor and capital. In this
-way the *idea* of citizen reporters, to take a Soviet example that he uses,
-has the potential to democratize journalism. But, as long as the production of
-newspapers remains outside of the writer's immediate control, citizen
-journalism is bound to remain, *in practice*, "an article of consumption." The
-market ultimately transforms the potential for any meaningful political
-struggle brought about by the new narrative technique into mere comfortable
-contemplation, a technically perfect object of enjoyment
+authorship, what is published---connects to the overall structure of the
+publishing industry and the industry to the more general arrangements of labor
+and capital. In this way the *idea* of citizen reporters, to take a Soviet
+example that he uses, has the potential to democratize journalism. But, as
+long as the production of newspapers is outside of the writer's immediate
+control, citizen journalism is bound to remain, *in practice*, "an article of
+consumption." Forces of capital ultimately transform the potential for any
+meaningful political struggle brought about by the new narrative technique
+into mere comfortable contemplation, a technically perfect object of enjoyment
 [@benjamin_author_1983].
 
-Is it possible then for poetic form to evolve without the corresponding
-evolution in structures of literary production? It seems not. Like Shklovsky,
-Benjamin saw a small ray of hope in the techniques of enjambment and
+It seems not possible then for poetic form to evolve without the corresponding
+evolution in the structures of literary production. Like Shklovsky, Benjamin
+saw a small ray of hope in modernist techniques of estrangement and
 interruption. Emerging art forms like photo-montage and the epic theater
 puncture the illusion of artistic unity. "Epic theater does not reproduce
-conditions," Benjamin writes. It is not mimetic; it "discloses" and
+conditions," Benjamin writes; it is not mimetic, it "discloses" and
 "uncovers." The technique of interruption, by which a playwright freezes the
 scene, for example, functions to create a caesura within the structure of the
-play. Like Lubbock's detached objectification of the novel, interruption
-brings attention to the artifice of the art form. It places the audience and
-the actor out of position. No longer passive participants, the audience is
-invited to suspend the suspension of disbelief. The veil is lifted. A measure
-of discomfort enters into the situation. Actors appear for what they are: paid
-performers in costume. And the audience catches a glimpse of itself as a group
-of consumers paying for a pleasurable experience. At the height of its powers,
-epic drama shows the possibility of what Benjamin calls a "lasting
-alienation," by which the effects of the dramatic interruption can persevere
-beyond theater, continuing to expose the uncomfortable truths about the human
-condition [@benjamin_author_1983, 99-102].
+play. Similar to Lubbock's detached objectification of the novel and
+Shklovsky's concept of estrangement, interruption brings attention to the
+artifice of the art form. At the height of its powers, epic drama shows the
+possibility of what Benjamin calls a "lasting alienation," by which the
+effects of the dramatic interruption can persevere beyond theater, continuing
+to expose the uncomfortable truths about the human condition
+[@benjamin_author_1983, 99-102].
 
-Put into traditional Marxist terms, the dilemma of robotics---automated
-machinery of thought and war---rests on an understanding of production as it
-relates to its cognates: authorship, technique, creation, craft, making,
-poiesis. Even in those cases when authors write freely, without duress, they
-cannot chose the means of writing. Neither do readers wholly determine the
-contexts of meaning making. "The means of production do not depend on the free
-will," Marx wrote [@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It
-is not enough therefore to be an independent supplier of commodities, a free
-agent. One must be free also to produce new *ways of producing*. The liberated
-writer transforms, in Benjamin's words, from the "supplier" of technique into
-an "engineer," able to adapt the literary apparatus towards one's own ends
+In traditional Marxist terms, the dilemma of robotics---automated machinery of
+thought and war---rests on an understanding of production as it relates to its
+cognates: authorship, technique, craft, poiesis. Even in those cases when
+authors write freely, without duress, they do not chose their instruments.
+Readers also determine the contexts of their own meaning making only in part.
+"The means of production do not depend on the free will," Marx wrote
+[@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It is not enough
+therefore to be an independent supplier of commodities, a free agent. One must
+also be free to develop new *ways of producing*. The liberated writer must
+transform, in Benjamin's words, from the "supplier" of technique into an
+"engineer," able to adapt the literary apparatus towards one's own ends
 [@benjamin_author_1983, 102].
 
-Without self-determination, technics---the patterns of making---are a given.
-They exist a priori, embodied by received technology. Langdon Winner, a
-contemporary theorist of science and technology, called this effect the
-"conditioning of technological inheritance" [@winner_autonomous_1978, 83].
-Technology may not have politics as such, but it can entail effects comparable
-to the force of law, as when for example an architect fails to design for
-handicapped access [@winner_artifacts_1980]. An organization can vote to
-exclude the handicapped from their buildings by political means. The
-technical, architectural oversight entails the same consequences---with one
-major difference. The technological decision does not always go through the
-same channels of democratic deliberation as voting. It carries the force of
-law, without the legal framework. The commitments stick. Once embodied in
-stone they are difficult to restructure [@winner_artifacts_1980]. It is, for
-Winner, a soft, suggestive kind of a determinism---the determinism of
-affordances.
+At this point, it becomes productive to connect the idea of literary technique
+to the notion of technics, as developed in the intellectual lineage of Marxist
+sociology and anthropology, and, later, in media theory and in science and
+technology studies. I differentiate between the two terms orthographically
+purely as a matter of convenience to identify parallel ideas, developed in
+different fields but arriving at similar conclusions. The very notion of
+technique and technics brings to mind at least these three distinct scholarly
+traditions: literary analysis, through the notion of technique in formalist
+criticism; Germanophone media theory through the concept of *Kulturtechniken*
+in the work of scholars Friedrich Kittler, Bernhard Siegert, and Cornelia
+Vismann; and finally the American school of science and technology studies as
+exemplified by the work of Lewis Mumford and Langdon Winner.
+
+Like Benjamin's technique, technics---the patterns of
+making---are a given. They exist a priori, embodied by received technology.
+Langdon Winner, whose
+
+theorist of science and technology, called this effect the "conditioning of
+technological inheritance" [@winner_autonomous_1978, 83]. Technology may not
+have politics as such, but it can entail effects comparable to the force of
+law, as when for example an architect fails to design for handicapped access
+[@winner_artifacts_1980]. An organization can vote to exclude the handicapped
+from their buildings by political means. The technical, architectural
+oversight entails the same consequences---with one major difference. The
+technological decision does not always go through the same channels of
+democratic deliberation as voting. It carries the force of law, without the
+legal framework. The commitments stick. Once embodied in stone they are
+difficult to restructure [@winner_artifacts_1980]. It is, for Winner, a soft,
+suggestive kind of a determinism---the determinism of affordances.
 
 Literary technics are similarly inherited. Much of what constitutes the
 technics of writing---tools, implements, practices, and vectors of
@@ -400,7 +415,7 @@ Technics, in this sense, comprise the "tactics of daily living"
 does one stop? Should literary analysis involve also the architecture of one's
 desk, one's room, and bookstore?
 
-In this light, Morenos's psychodrama, Shklovsky's estrangement, and Benjamin's
+In this light, Moreno's psychodrama, Shklovsky's estrangement, and Benjamin's
 interruption can all be seen as variations on the same critical materialist
 practice, aimed at the analysis and the partial disruption of received
 technological inheritance. Even if we break with Marx on the primacy of
@@ -418,33 +433,33 @@ practices, and technologies---that govern interpretation. The analysis of
 technique seeks to connect the ideational content of the text with its
 outward, material contexts.
 
-There will be little new in this sentiment for a medieval scholar or the
-scholar of antiquity. The farther removed we are historically from the object
-of analysis, the more foreign the dynamics of meaning formation, and the more
-complete the critical description of technique. Thus to understand the
-palimpsests of Medieval Spain for example we must know something (among many
-things) about the physical properties of parchment, the storage and the
-circulation of codices, and the practices of reading and authorial patronage.
-The modern reader has the luxury of taking print for granted. The material
-conditions associated with the Gutenberg press are simply assumed to be known
-and transparent. Even for Lubbock, the book and the novel are synonymous. I
-would not be the first scholar to point out the dangers of ignoring the
-material specificity of the literary artifact.  Johanna Drucker, Jerome
-McGann, Katherine Hayles, and Wendy Chun have all made a similar case at one
-time or another [@drucker_digital_2001; @mcgann_radiant_2001;
-@chun_enduring_2008; @hayles_how_2012]. The analysis of the computational
-metaphor brings attention to the gravity of the situation. Simulated text
-appears to us in the guise of the print metaphor. By such means one system of
-symbolic exchange is subsumed by another. We would like to believe, with
-Lubbock and Benjamin, in the power of literary analysis to construct a bridge
-from ideation to material context: from thought to thing, from novel to book,
-from words and sentences to shape and design. But the simulation seals the
-diegetic, intra-textual world within the device, further obscuring the
-relationship between the book as an idea and the book as an object and a
-commodity. To mistake the illusion of print for print prevents us from the
-already difficult task of examining the particulates of received technological
-inheritance: "to scrutinize the patterns that technics give to life, and to
-make new choices on the basis of that critique" [@winner_autonomous_1978, 83].
+Modern reader takes print for granted. Tactility. The child that swipes.
+The farther removed we are historically from the object of analysis, the more
+foreign the dynamics of meaning formation, and the more complete the critical
+description of technique. Thus to understand the palimpsests of Medieval Spain
+for example we must know something (among many things) about the physical
+properties of parchment, the storage and the circulation of codices, and the
+practices of reading and authorial patronage.  The modern reader has the
+luxury of taking print for granted. The material conditions associated with
+the Gutenberg press are simply assumed to be known and transparent. Even for
+Lubbock, the book and the novel are synonymous. I would not be the first
+scholar to point out the dangers of ignoring the material specificity of the
+literary artifact. Johanna Drucker, Jerome McGann, Katherine Hayles, and Wendy
+Chun have all made a similar case at one time or another
+[@drucker_digital_2001; @mcgann_radiant_2001; @chun_enduring_2008;
+@hayles_how_2012]. The analysis of the computational metaphor brings attention
+to the gravity of the situation. Simulated text appears to us in the guise of
+the print metaphor. By such means one system of symbolic exchange is subsumed
+by another. We would like to believe, with Lubbock and Benjamin, in the power
+of literary analysis to construct a bridge from ideation to material context:
+from thought to thing, from novel to book, from words and sentences to shape
+and design. But the simulation seals the diegetic, intra-textual world within
+the device, further obscuring the relationship between the book as an idea and
+the book as an object and a commodity. To mistake the illusion of print for
+print prevents us from the already difficult task of examining the
+particulates of received technological inheritance: "to scrutinize the
+patterns that technics give to life, and to make new choices on the basis of
+that critique" [@winner_autonomous_1978, 83].
 
 Habit hides the peculiarity of our everyday interfaces with the digital word.
 We read at the surface; we etch inscriptions deep within the bowels of a
@@ -1607,3 +1622,6 @@ established, in multiple works on the subject. It follows the Greek Diophantus,
 René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
+
+[^ln2-shklov]: I rely on the Russian originals throughout, but will cite the
+English translations where possible as well.
