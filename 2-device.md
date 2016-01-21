@@ -1,4 +1,4 @@
-## Chapter 2: Laying Bare the Device
+## Chapter 2: Laying Bare the Device (The Modernist Roots of Computation)
 
 "The weakest point in our present day universe is the incapacity of man to
 meet the machine, the culture conserve, or the robot, other than through
@@ -141,10 +141,13 @@ literary device, itself a powerful computer, will therefore gain meaning as a
 mechanism for generalized symbolic manipulation. In a reciprocal movement, I
 aim also to place the modern computer itself within the long history of the
 book, as a piece of literary (and not just mathematical) technology. To
-achieve these tasks, I will construct several pre-histories of the literary
-device, first as formal technique, then as thought experiment, and finally as
-an instrument. These material and intellectual histories will help reveal the
-book as a device, to call it forth as a mechanism for effecting thought at a
+achieve these tasks, I will construct a pre-history of the literary device,
+based on materials roughly from the first half of the twentieth century. I am
+interested in the simultaneous emergence of the literary device as formal
+technique, a series of thought experiments, and finally as an instrument that
+lies at the modernist foundations of contemporary computational culture.
+These material and intellectual histories will help reveal the electronic book
+as a device, to call it forth as a mechanism for effecting thought at a
 distance, and to bring it back under the purview of interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon

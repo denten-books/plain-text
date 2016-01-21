@@ -381,10 +381,11 @@ also no longer attracts attention. The seminal work on figurative speech
 undertaken by the Russian formalists at the turn of the twentieth century
 reminds us that effective metaphoric shortcuts to learning have their
 cognitive downside. Habituated experience passes into the unconscious
-[@brik_poetika_1919, 104]. The thing "dries up" in Shklovsky's words, first in
-perception and then in practice [@brik_poetika_1919, 38 and 104]. The figure
-becomes so familiar that we cease thinking about it---an early insight that
-was also confirmed experimentally almost a century later.[^ln-cog]
+[@shklovksy_poetika_1919, 104]. The thing "dries up" in Shklovsky's words,
+first in perception and then in practice [@shklovksy_poetika_1919, 38 and
+104]. The figure becomes so familiar that we cease thinking about it---an
+early insight that was also confirmed experimentally almost a century
+later.[^ln-cog]
 
 The formalists understood habituated metaphors to diminish the vitality of
 experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
@@ -451,7 +452,7 @@ biographical, and philosophical aspects of literary formation, the formalists
 wanted to reconstruct how the thing was made. For example, in his influential
 essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum identified *skaz*,
 or the manner of speaking, as an organizing principle for Gogol's satirical
-narratives [@brik_poetika_1919, 151-67]. What readers lost in having the joke
+narratives [@shklovksy_poetika_1919, 151-67]. What readers lost in having the joke
 explained to them they gained in understanding of the genre.
 
 I take a similar approach in *Plain Text* by extending formal concerns with
@@ -1067,7 +1068,7 @@ things, but that they enact change in the world.
 
 [^ln-sweatshop]: See @freeman_high_2000 and @patel_working_2010.
 
-[^ln-brik]: @brik_poetika_1919, 104. Translations are mine unless source cited explicitly in
+[^ln-brik]: @shklovksy_poetika_1919, 104. Translations are mine unless source cited explicitly in
 English.
 
 [^ln-varela]: See @varela_autopoiesis_1974; @barthes_rustle_1989, 5;
