@@ -146,8 +146,8 @@ based on materials roughly from the first half of the twentieth century. I am
 interested in the simultaneous emergence of the literary device as formal
 technique, a series of thought experiments, and finally as an instrument that
 lies at the modernist foundations of contemporary computational culture.
-These material and intellectual histories will help reveal the electronic book
-as a device, to call it forth as a mechanism for effecting thought at a
+These material and intellectual gemologies will help reveal the electronic
+book as a device, to call it forth as a mechanism for effecting thought at a
 distance, and to bring it back under the purview of interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
@@ -372,140 +372,96 @@ transform, in Benjamin's words, from the "supplier" of technique into an
 "engineer," able to adapt the literary apparatus towards one's own ends
 [@benjamin_author_1983, 102].
 
+Материальная эстетика, изолирующая в культуре не только искусство,
+но и отдельные искусства и берущая произведение не в его художественной жизни,
+а как вещь, как организованный материал, в лучшем случае способна обосновать
+лишь хронологическую таблицу изменений приемов техники данного искусства, ибо
+изолированная техника вообще не может иметь историю.  [Bakthin 1, 280-1]
+
+Отсюда отнюдь не следует, что в эстетике изучение материальной структуры
+произведения, как чисто технической, должно занять скромное место. Значение
+материальных исследований в специальной эстетике чрезвычайно велико, так же
+велико, как и значение материального произведения и его созидания для
+художника и для эстетического созерцания. Мы вполне можем присоединиться к
+утверждению: «техника в искусстве все», понимая его в том смысле, что
+эстетический объект осуществляется только путем создания материального
+произведения (эстетическое видение вне искусства потому и гибридно, что здесь
+недостижима сколько-нибудь совершенная организация материала, например, — при
+созерцании природы); до этого создания и независимо от него он не существует,
+он осуществляется впервые вместе с произведением[564].
+    Не нужно придавать слову «техника» в применении к художественному
+творчеству какое-то одиозное значение: техника здесь не может и не должна
+отрываться от эстетического объекта, им она оживлена и движима во всех своих
+моментах, поэтому в художественном творчестве техника отнюдь не механистична,
+механистической она может представиться лишь в дурном эстетическом
+исследовании, которое теряет эстетический объект, делает технику самодовлеющей
+и отрывает ее от цели и смысла. В противовес подобным исследованиям и должно
+подчеркивать служебный характер материальной организации произведения, ее
+чисто технический характер не для того, чтобы принизить ее, а наоборот, чтобы
+осмыслить и оживить [Bakhtin 1, 310].
+
+  Вопрос об отношениях между созерцателем и творцом впервые поставили не
+лефисты. Он стар, как мир, и не может быть выражен в одной формуле; для
+каждого направления она особая. Но приблизительно можно сказать так:
+созерцатель равен творцу минус техника. Компетентный созерцатель стремится
+сотворить в себе авторский процесс за исключением технического процесса,
+который для эстетической оценки ему воспроизводить не обязательно. Так что
+общая формула отношений между творцом и созерцателем это: творец равен
+созерцателю плюс техника{314}. Техника — понятие, имеющее то более широкое, то
+более узкое значение в зависимости от рода искусства. Так, в архитектуре
+технический процесс громаден. Как художник архитектор создает лишь план, а
+затем он действует как инженер. В поэзии, напротив, техника почти ничтожна.
+Так что в различных искусствах техника принимает разные величины. Кроме того,
+характер отдельного искусства зависит от постановлений школы, к которой оно
+примыкает. В XIX веке эстетика преимущественно ориентировалась на созерцателя,
+и потому мы не найдем в ней приемов подхода к техническим моментам. Но в конце
+XIX и начале XX столетий уже большое внимание уделяется объекту творчества и в
+связи с этим и проблемам техники. [Bakhtin 2, 373-4].
+
+Автор направлен на содержание (жизненную, т. е.  познавательно-этическую
+напряженность героя), его он формирует и завершает, используя для этого
+определенный материал, в нашем случае — словесный, подчиняя этот материал
+своему художественному заданию, т. е. заданию завершить данное
+познавательно-этическое напряжение. Исходя из этого, можно различать в
+художественном произведении или, точнее, в данном художественном задании три
+момента: содержание, материал, форма. Форма не может быть понята независимо от
+содержания, но не может быть независима и от природы материала и обусловленных
+ею приемов. Форма обусловлена данным содержанием, с одной, и особенностью
+материала и способами его обработки — с другой стороны. Чисто материальное
+художественное задание — технический эксперимент. Художественный прием не
+может быть только приемом обработки словесного материала (лингвистической
+данности слов), он должен быть прежде всего приемом обработки определенного
+содержания, но при этом — с помощью определенного материала. Наивно было бы
+представлять себе, что художнику нужен один только язык и знание приемов
+обращения с ним, а этот язык он получает именно как язык — не больше, т. е. от
+лингвиста (ибо только лингвист имеет дело с языком, как с языком); и этот язык
+и вдохновляет художника, и он выполняет на нем все возможные задания, не
+выходя за пределы его — как языка только, как-то: задание семасиологическое,
+фонетическое, синтаксическое и пр. Действительно, язык обрабатывает художник,
+но не как язык, как язык он его преодолевает, ибо он не должен восприниматься
+— как язык в его лингвистической определенности[412] (морфологической,
+синтаксической, лексикологической и пр.), и лишь постольку он становится
+средством художественного выражения. (Слово должно перестать ощущаться как
+слово). Поэт творит не в мире языка, языком он лишь пользуется [@bakhtin 1,
+249]. 
+
 At this point, it becomes productive to connect the idea of literary technique
 to the notion of technics, as developed in the intellectual lineage of Marxist
 sociology and anthropology, and, later, in media theory and in science and
 technology studies. I differentiate between the two terms orthographically
 purely as a matter of convenience to identify parallel ideas, developed in
 different fields but arriving at similar conclusions. The very notion of
-technique and technics brings to mind at least these three distinct scholarly
-traditions: literary analysis, through the notion of technique in formalist
-criticism; Germanophone media theory through the concept of *Kulturtechniken*
-in the work of scholars Friedrich Kittler, Bernhard Siegert, and Cornelia
-Vismann; and finally the American school of science and technology studies as
-exemplified by the work of Lewis Mumford and Langdon Winner.
+technique and technics brings to mind at least these three distinct
+contemporary scholarly traditions: literary analysis, through the notion of
+technique in formalist criticism; Germanophone media theory through the
+concept of *Kulturtechniken* in the work of scholars Friedrich Kittler,
+Bernhard Siegert, and Cornelia Vismann; and finally the American school of
+science and technology studies as exemplified by the work of Lewis Mumford and
+Langdon Winner.
 
 Like Benjamin's technique, technics---the patterns of
 making---are a given. They exist a priori, embodied by received technology.
 Langdon Winner, whose
-
-theorist of science and technology, called this effect the "conditioning of
-technological inheritance" [@winner_autonomous_1978, 83]. Technology may not
-have politics as such, but it can entail effects comparable to the force of
-law, as when for example an architect fails to design for handicapped access
-[@winner_artifacts_1980]. An organization can vote to exclude the handicapped
-from their buildings by political means. The technical, architectural
-oversight entails the same consequences---with one major difference. The
-technological decision does not always go through the same channels of
-democratic deliberation as voting. It carries the force of law, without the
-legal framework. The commitments stick. Once embodied in stone they are
-difficult to restructure [@winner_artifacts_1980]. It is, for Winner, a soft,
-suggestive kind of a determinism---the determinism of affordances.
-
-Literary technics are similarly inherited. Much of what constitutes the
-technics of writing---tools, implements, practices, and vectors of
-dissemination involved---are not under the author's control. If we are to
-follow Benjamin, opting out must involve more than the invention of new
-literary devices, akin to photo-montage or dramatic interruption. Opting out
-would involve also affecting the technics of writing. The technological
-inheritance is part of the linguistic as well as the material culture. To what
-extent is it possible to become a maker, an engineer of textual technology?
-The allure of maker culture---the making of one's own clothes, the building
-one's own furnishings, the pickling one's own conserves---can be seen as a
-contemporary revolt against the tyranny of received technological inheritance.
-Technics, in this sense, comprise the "tactics of daily living"
-[@spengler_man_1932]. As such, they reach deep into the cultural fabric. Where
-does one stop? Should literary analysis involve also the architecture of one's
-desk, one's room, and bookstore?
-
-In this light, Moreno's psychodrama, Shklovsky's estrangement, and Benjamin's
-interruption can all be seen as variations on the same critical materialist
-practice, aimed at the analysis and the partial disruption of received
-technological inheritance. Even if we break with Marx on the primacy of
-production, we are still forced to acknowledge the patent relationship between
-labor and poiesis. To write is to create, and to create is to work. I am
-interested here in taking the formalist research program to its logical
-conclusion. The notion of literary technique identifies the kind of labor
-involved. Our ability to recognize literary devices like Lubbock's "telling
-the story in first person" or the "autobiographic device" points to the craft
-of fiction. What we lose in the passage from the novel to the book, we gain in
-the understanding of how the thing is made. This process unfolds at the
-interface between idea and thing, where diegetic details internal to the
-narrative world connect to extra-diegetic particulates---rules, norms,
-practices, and technologies---that govern interpretation. The analysis of
-technique seeks to connect the ideational content of the text with its
-outward, material contexts.
-
-Modern reader takes print for granted. Tactility. The child that swipes.
-The farther removed we are historically from the object of analysis, the more
-foreign the dynamics of meaning formation, and the more complete the critical
-description of technique. Thus to understand the palimpsests of Medieval Spain
-for example we must know something (among many things) about the physical
-properties of parchment, the storage and the circulation of codices, and the
-practices of reading and authorial patronage.  The modern reader has the
-luxury of taking print for granted. The material conditions associated with
-the Gutenberg press are simply assumed to be known and transparent. Even for
-Lubbock, the book and the novel are synonymous. I would not be the first
-scholar to point out the dangers of ignoring the material specificity of the
-literary artifact. Johanna Drucker, Jerome McGann, Katherine Hayles, and Wendy
-Chun have all made a similar case at one time or another
-[@drucker_digital_2001; @mcgann_radiant_2001; @chun_enduring_2008;
-@hayles_how_2012]. The analysis of the computational metaphor brings attention
-to the gravity of the situation. Simulated text appears to us in the guise of
-the print metaphor. By such means one system of symbolic exchange is subsumed
-by another. We would like to believe, with Lubbock and Benjamin, in the power
-of literary analysis to construct a bridge from ideation to material context:
-from thought to thing, from novel to book, from words and sentences to shape
-and design. But the simulation seals the diegetic, intra-textual world within
-the device, further obscuring the relationship between the book as an idea and
-the book as an object and a commodity. To mistake the illusion of print for
-print prevents us from the already difficult task of examining the
-particulates of received technological inheritance: "to scrutinize the
-patterns that technics give to life, and to make new choices on the basis of
-that critique" [@winner_autonomous_1978, 83].
-
-Habit hides the peculiarity of our everyday interfaces with the digital word.
-We read at the surface; we etch inscriptions deep within the bowels of a
-machine. When enacted on the level of the physical device, formal estrangement
-and interruption parallels the practice of exegesis in literary analysis. The
-unpacking of literal devices that produce meaning reveals internals that
-structure the reading experience made opaque through artifice and habituation.
-It is at this outer level of analysis, the formalist concern with literary
-technique as a system of symbolic exchange intersects with the political
-concern with the technics of the book as a token exchanged on the commodities
-market.
-
-It is tempting to think of personal computers as glorified calculators. That
-is often the popular image of computing, one that highlights the machine's
-ability to calculate. The computer reduces culture to ones and zeroes (or so
-goes the story), thereby diminishing the human experience.[^ln1-pop] There is
-some truth to that position, but I would like to argue here that the
-connection between computing and calculation is but a piece of a larger story.
-Personal computers which govern the production of textuality today emerged
-from an amalgamation of programmable machines: among them the telegraph, the
-typewriter, and the calculator. Add to that list looms, music boxes, radios,
-and film cameras [^ln1-ceruzzi]. These machines too left an imprint on our
-everyday engagement with computational devices. The electronic book is
-undoubtedly in part also a kind of a computer. But the computer also retains
-traces of its literary history.
-
-It is important to keep the intertwined material lineages of computation in
-mind because each brings with it a different set of practices, values, and
-priorities. As complex computational systems continue to play an ever greater
-part in our lives, from affecting family relations to health and nutrition
-(think social media and personal activity trackers), we are increasingly faced
-with a host of conflicting choices. When building digital architectures that
-are also social systems, should we privilege notions of agency or efficiency,
-privacy or connectivity, elegance or complexity? These are not choices that
-can be understood in purely instrumental terms. They are values external to
-system architecture. The question then becomes one of ends and means. A
-calculator is most efficient when operating on binary data; efficiency and
-complexity are goods for the task of calculation. Humans prefer to manipulate
-texts and images instead of binary data; keeping documents in simple,
-human-readable formats answers the values of systematic transparency and
-sustainability. What values are embodied in the electronic book? The passive
-voice and our inability to answer the question directly points to the root of
-the problem.
 
 ### 2.2 Thought Experiment
 
@@ -525,25 +481,25 @@ allows us to see the simulated book in a new light: not as byproduct of
 quantification, but as a metaphor machine, capable of universal symbolic
 manipulation.
 
-Turing machines should hold interest for literary scholars because they present
-a minimally viable model for generalized symbolic manipulation: reading and
-writing. Although the thought experiment they embody solves a mathematical
-problem, the thought experiment itself has roots in a more general discussion
-about the nature of interpretation, central to questions of meaning-making in
-art and culture.
+Turing machines should hold interest for literary scholars because they
+present a minimally viable model for generalized symbolic manipulation:
+reading and writing. Although the thought experiment they embody solves a
+mathematical problem, the thought experiment itself has roots in a more
+general discussion about the nature of interpretation, central to questions of
+meaning-making in art and culture.
 
-In his seminal 1936 paper on computable numbers, Alan Turing, then a student at
-King's College, proposed a peculiar thought experiment to appear on the pages
-of mathematical journal. The experiment addressed a problem in the field of
-elementary number theory. But the problem turned out to be less important than
-the general shape of the solution.[^ln1-anticipate] Turing imagined a mechanism
-that solves a theoretical problem. His solution thus touched upon not just the
-theory of mathematics, but on the *action* of symbolic thought in the world.
-His imagined machine could read, write, and in some sense, understand symbols.
-In other words, it was able to transition from some form of representational,
-external shape of the symbol into the corresponding non-representational
-internal state of the mechanism. The outlines of that mechanism will come into
-focus in his section.[^ln1-turingcog]
+In his seminal 1936 paper on computable numbers, Alan Turing, then a student
+at King's College, proposed a peculiar thought experiment to appear on the
+pages of mathematical journal. The experiment addressed a problem in the field
+of elementary number theory. But the problem turned out to be less important
+than the general shape of the solution.[^ln1-anticipate] Turing imagined a
+mechanism that solves a theoretical problem. His solution thus touched upon
+not just the theory of mathematics, but on the *action* of symbolic thought in
+the world.  His imagined machine could read, write, and in some sense,
+understand symbols.  In other words, it was able to transition from some form
+of representational, external shape of the symbol into the corresponding
+non-representational internal state of the mechanism. The outlines of that
+mechanism will come into focus in his section.[^ln1-turingcog]
 
 Let us be clear about one point at the outset: Turing did not "invent" the
 computer. Rather I see his hypothetical machine as the culmination of a
@@ -557,30 +513,31 @@ Consider the essence of programming devices as a practice related to the
 general deferment of volition by symbolic means, as in "last will and
 testament" or a to-do list or a legal injunction. Someone wants you to do
 something: turn left then right, buy milk, invest into real estate, or, in the
-case of literature, feel compassion. Machines can be thought of as an extension
-of that same practice. To "program" a rudimentary toaster, for example, is to
-displace some measure of volition (I want toast) to an inanimate object. Should
-I die in the process of toast-making, the toaster will still carry the action
-of making toast to its logical conclusion. Common to all of these examples is a
-lengthening of the cause an effect chain. Under regular circumstances, the
-desire to do something produces an immediate corresponding action in the world.
-You reach for an apple. You take a bite. "Programming" in that sense delays the
-execution of desire. I want toast now, but I will program a toaster to make it
-tomorrow. The toaster acts as an executor of my will.
+case of literature, feel compassion. Machines can be thought of as an
+extension of that same practice. To "program" a rudimentary toaster, for
+example, is to displace some measure of volition (I want toast) to an
+inanimate object. Should I die in the process of toast-making, the toaster
+will still carry the action of making toast to its logical conclusion. Common
+to all of these examples is a lengthening of the cause an effect chain. Under
+regular circumstances, the desire to do something produces an immediate
+corresponding action in the world.  You reach for an apple. You take a bite.
+"Programming" in that sense delays the execution of desire. I want toast now,
+but I will program a toaster to make it tomorrow. The toaster acts as an
+executor of my will.
 
 In Moreno's language, we could say that a programmed machine symbolizes that
 "conserved" fraction of the will to do something. It represents and enacts the
-originating desire, able to continue performing an action independently, in the
-absence of the "programmer." In that way the machine could be said to
+originating desire, able to continue performing an action independently, in
+the absence of the "programmer." In that way the machine could be said to
 "conserve" volition. Delay and displacement of that sort resides at the center
-of humanity's unease with automata, robotics, and computation. The worry is not
-only that the machine will begin to act independently---the plot of many a
+of humanity's unease with automata, robotics, and computation. The worry is
+not only that the machine will begin to act independently---the plot of many a
 science fiction novel---but that it will continue acting without cessation.
 Note however that such remote volitional properties are not confined to the
 autonomous movement of a mechanism. Moreno's initially disconcerting
-proposition to treat books and robots on the same plane of analysis makes sense
-if viewed in the context of---what should we call it?---history of symbolism
-and representation.
+proposition to treat books and robots on the same plane of analysis makes
+sense if viewed in the context of---what should we call it?---history of
+symbolism and representation.
 
 The problem of symbolic displacement already presents itself in the invention
 of writing. Recall for example the famous *pharmakon* passage from Plato's
@@ -604,25 +561,25 @@ internalize a stream of symbolic information contained in a book or a speech.
 As we shall see, much can go wrong in that process, but we expect for reading
 to ultimately leave an appropriate impression [*tupōn*] on the reader's mental
 state. But what is appropriate or proper?  Wittgenstein struggles to answer
-that question in his lectures, where Turing machine enacts it with blunt force.
-The Turing machine ingests symbols, incorporating them as part of its internal
-structure.
+that question in his lectures, where Turing machine enacts it with blunt
+force.  The Turing machine ingests symbols, incorporating them as part of its
+internal structure.
 
 I revisit the lines from Plato's well-worn dialogue because Turing's paper
 presents considerable difficulties to the non-mathematically-inclined reader.
 Yet it becomes more accessible when considered in the philosophic lineage of
 Plato, Wittgenstein, and Derrida: all three concerned with the movement of
 inscription between internal and external spaces. I want us to view computers
-and programming not only as products of electrical engineering but also as part
-of a persistent thought in Western culture about the ultimate relation between
-symbol and comprehension.
+and programming not only as products of electrical engineering but also as
+part of a persistent thought in Western culture about the ultimate relation
+between symbol and comprehension.
 
 What does it mean to understand a sign?---that is the larger question that
 Turing addresses. And, as we will see in the following passages, a direct
 connection exists between Wittgenstein's hermeneutics and Turing's ideas about
-computation. Steeped in the intellectual context of Cambridge, the evolution of
-their thought overlaps the search for intrinsic structure in fields as diverse
-as literary studies and anthropology. Turing's ideas about symbolic
+computation. Steeped in the intellectual context of Cambridge, the evolution
+of their thought overlaps the search for intrinsic structure in fields as
+diverse as literary studies and anthropology. Turing's ideas about symbolic
 manipulation acquire a new meaning when considered against the background of
 formalism and structuralism, developing in Europe at the same time.
 
@@ -647,7 +604,8 @@ attempts to describe the essence of Turing computation:
 > To understand a Turing machine we need only know its table of commands
 [@kemeny_man_1955].
 
-> A Turing machine plus random elements is a reasonable model for the human brain 
+> A Turing machine plus random elements is a reasonable model for the human
+> brain 
 [@putnam_issues_1961, 39].
 
 > No Turing machine has ever been physically constructed or realized in
@@ -679,22 +637,22 @@ humans---an impossible ideal or just a ordinary person holding a pencil, the
 Turing machine traces a figure somewhere between the ideal and the physical
 worlds. The indeterminacy of computation blurs the boundaries between the
 physical and the symbolic worlds. Turing continues to strike a controversial
-figure at the fault lines separating theory from practice: computer science and
-electrical engineering. The Turing machine "abstracts away from the complexity
-of real computer architectures," Thomas Haigh writes for the *Communications of
-Computing Machinery*. The historian should avoid confusing hardware and
-software, he concludes [@haigh_actually_2014]. No matter how hard computer
-science tries to escape into the realm of pure mathematics, Haigh suggests, the
-limits of physical engineering pull it back to the sphere of the
+figure at the fault lines separating theory from practice: computer science
+and electrical engineering. The Turing machine "abstracts away from the
+complexity of real computer architectures," Thomas Haigh writes for the
+*Communications of Computing Machinery*. The historian should avoid confusing
+hardware and software, he concludes [@haigh_actually_2014]. No matter how hard
+computer science tries to escape into the realm of pure mathematics, Haigh
+suggests, the limits of physical engineering pull it back to the sphere of the
 applied.[^ln1-cs] Part real mechanism and part dream; part physics and part
 metaphysics, the Turing machine should be encountered on its own terms. Let us
-take the moment to read the paper and to place it into the intellectual context
-of the development of Turing's thought.
+take the moment to read the paper and to place it into the intellectual
+context of the development of Turing's thought.
 
 Turing begins his paper suggestively: "we may compare a man in the process of
-computing a real number to a machine that is only capable of a finite number of
-conditions." [@turing_computable_1937, 231]. In effect, he asks his readers to
-compare computation, a human mental process, to the mechanical action of a
+computing a real number to a machine that is only capable of a finite number
+of conditions." [@turing_computable_1937, 231]. In effect, he asks his readers
+to compare computation, a human mental process, to the mechanical action of a
 machine. As Charles Petzold explained it in his book-length annotation on
 Turing's paper, Turing "makes reference to 'states of mind' that are analogous
 to machine states" [@petzold_annotated_2008, 67]. But the analogy itself leads
@@ -704,17 +662,17 @@ extent to which states of mind can be compared to discrete machine states.
 Turing further imagines a machine "supplied with a 'tape' (the analogue of
 paper) running through it, and divided into sections (called 'squares') each
 capable of bearing a 'symbol'" [@turing_computable_1937, 231]. Much like a
-movie reel, the tape moves through the mechanism one section at a time. At each
-point only one section bearing one symbol can be said to be "in the machine."
-"We may call this square the 'scanned square,'" Turing writes,
+movie reel, the tape moves through the mechanism one section at a time. At
+each point only one section bearing one symbol can be said to be "in the
+machine." "We may call this square the 'scanned square,'" Turing writes,
 
 > The symbol on the scanned square may be called the "scanned symbol." The
 > "scanned symbol" is the only one of which the machine is, so to speak,
 > "directly aware" [@turing_computable_1937, 231].
 
 The scanned symbols become a part of the machine's internal configuration. In
-Turing's words, "the machine can effectively remember some of the symbols which
-it has 'seen' (scanned) previously" [@turing_computable_1937, 231]. The
+Turing's words, "the machine can effectively remember some of the symbols
+which it has 'seen' (scanned) previously" [@turing_computable_1937, 231]. The
 machine's "behavior" is therefore determined by its initial configuration (in
 the arrangement of tape and scanning apparatus) plus the scanned symbol.
 
@@ -733,26 +691,27 @@ Where the child converts symbol into brain states, the machine transforms
 software (symbol) into hardware (configuration). The machine does not just
 scan, it "reads" in the Platonic sense, able to convert ideal forms into their
 specific instantiations. It becomes "aware," in Turing's words. Consider by
-contrast the action of a film projector. Unlike a Turing machine, the projector
-does not internalize film reels. The film reel passes through without leaving a
-trace within the mechanism.[^ln1-reading]
+contrast the action of a film projector. Unlike a Turing machine, the
+projector does not internalize film reels. The film reel passes through
+without leaving a trace within the mechanism.[^ln1-reading]
 
-In addition to "reading," Turing's machine must be able to write. Turing writes
-that "in some configurations in which the scanned square is blank (*i.e.* bears
-no symbol) the machine writes down a new symbol on the scanned square"
-[@turing_computable_1937, 231]. The machine can also erase and move symbols to
-adjacent squares, one square at a time. Reading, writing, and symbolic
-manipulation are thus mechanical actions at the core of Turing's computation.
+In addition to "reading," Turing's machine must be able to write. Turing
+writes that "in some configurations in which the scanned square is blank
+(*i.e.* bears no symbol) the machine writes down a new symbol on the scanned
+square" [@turing_computable_1937, 231]. The machine can also erase and move
+symbols to adjacent squares, one square at a time. Reading, writing, and
+symbolic manipulation are thus mechanical actions at the core of Turing's
+computation.
 
-The configuration state of the machine determines the movement of the "reading"
-and "writing" apparatus along the surface of the tape. At its simplest
-incarnation, the tape moves along one dimension only: left or right. Some of
-the scanned symbols are meant to represent computable numbers (the whole point
-of Turing's paper). Yet other symbols represent machine instructions. They
-direct the movement of the reading and writing head. They tell the machine to
-"write," "scan," or "erase" symbols. Today, we would call such instructions
-"programs" or "control codes." The control codes and the computed data form a
-part of the same continuous stream of information.
+The configuration state of the machine determines the movement of the
+"reading" and "writing" apparatus along the surface of the tape. At its
+simplest incarnation, the tape moves along one dimension only: left or right.
+Some of the scanned symbols are meant to represent computable numbers (the
+whole point of Turing's paper). Yet other symbols represent machine
+instructions. They direct the movement of the reading and writing head. They
+tell the machine to "write," "scan," or "erase" symbols. Today, we would call
+such instructions "programs" or "control codes." The control codes and the
+computed data form a part of the same continuous stream of information.
 
 Just as the Turing machine is able to convert symbolic representation into
 internal configuration states, it can conversely enact the opposite movement,
@@ -762,23 +721,23 @@ machines. Specific Turing machines could be configured to preform actions like
 addition or multiplication. But the multiplication machine could not, for
 example, be reconfigured for another purpose, because the physical movement of
 its internals is fixed. An adding machine can only add. But the universal
-Turing machine can do more than scan symbols: it has the ability to internalize
-*other machine configurations*. Such a machine can "compute any computable
-sequence" [@turing_computable_1937, 241]. In being able to internalize physical
-configuration as symbol, the *universal* Turing machine can simulate all other
-special-purpose Turing machines.
+Turing machine can do more than scan symbols: it has the ability to
+internalize *other machine configurations*. Such a machine can "compute any
+computable sequence" [@turing_computable_1937, 241]. In being able to
+internalize physical configuration as symbol, the *universal* Turing machine
+can simulate all other special-purpose Turing machines.
 
 The transition of symbols into machine states (and the other way around)
 defines modern programming. A universal machine, unlike other, definitive,
-single-purpose and limited-state mechanisms (a clock for example), contains the
-ability to take on differing internal symbolic configurations. It can imitate a
-clock, an abacus, a scale, a book. In a later paper linking computing machinery
-and intelligence, Turing implies it could eventually simulate human thought as
-well [@turing_computing_1950].[^ln1-compete]
+single-purpose and limited-state mechanisms (a clock for example), contains
+the ability to take on differing internal symbolic configurations. It can
+imitate a clock, an abacus, a scale, a book. In a later paper linking
+computing machinery and intelligence, Turing implies it could eventually
+simulate human thought as well [@turing_computing_1950].[^ln1-compete]
 
 The universal Turing machine (UTM) finally encapsulates a model of computation
-itself. The UTM can compute anything computable. In substituting the concept of
-computability with "effective computability" Turing's paper belongs to the
+itself. The UTM can compute anything computable. In substituting the concept
+of computability with "effective computability" Turing's paper belongs to the
 annals of mathematical theory. But, it continues to elicit conflicting
 responses widely because much of it contains tantalizing possibilities that
 bare on symbolic manipulation more generally. The paper is riddled with
@@ -791,24 +750,24 @@ into a reductive history of a given discipline: neither computer science, nor
 cognitive science, nor mathematics. In connecting Turing to Wittgenstein, we
 will perceive it ultimately as an experimental, ludic even, enterprise. Like
 Turing's imitation game, which came decades later, the Turing machine
-constituted a simulation, capable of imitating all other symbolic systems, from
-intelligence, to calculus, and literature.
+constituted a simulation, capable of imitating all other symbolic systems,
+from intelligence, to calculus, and literature.
 
 Reconstructing the influence of Wittgenstein's thought on Turing confirms the
 place of Turing's "On Computability" in the conversation about language, pain,
 and cognition. Seen in the light of Wittgenstein's philosophy, Turing's work
-and consequently the early history of computing acquires a broader connotation,
-beyond the narrow confines of the *Entscheidungsproblem*, the problem the paper
-addressed explicitly. In 1936, on the eve of World War II, Turing imagined more
-than a formula: it was a thing that could explore the limits of theory, and a
-theory that identified a new class of emerging things. Through Turing's
-well-documented involvement in Government Code and Cypher School (GC&CS) at
-Bletchley Park, actual Turing machines changed the nature of war: used at first
-to break encrypted military communications and then to compute missile
-trajectories. But as I will argue here, Turing machines also changed humanity's
-relationship with symbolic thought. And unless we understand Turing's legacy
-beyond war-making, we risk limiting its creative potential to mechanisms of
-destruction.
+and consequently the early history of computing acquires a broader
+connotation, beyond the narrow confines of the *Entscheidungsproblem*, the
+problem the paper addressed explicitly. In 1936, on the eve of World War II,
+Turing imagined more than a formula: it was a thing that could explore the
+limits of theory, and a theory that identified a new class of emerging things.
+Through Turing's well-documented involvement in Government Code and Cypher
+School (GC&CS) at Bletchley Park, actual Turing machines changed the nature of
+war: used at first to break encrypted military communications and then to
+compute missile trajectories. But as I will argue here, Turing machines also
+changed humanity's relationship with symbolic thought. And unless we
+understand Turing's legacy beyond war-making, we risk limiting its creative
+potential to mechanisms of destruction.
 
 [^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a
 year later, Turing's mathematical insight was anticipated by concomitant work
@@ -818,28 +777,28 @@ in the field [@church_computable_1937].
 preserve some of the interesting characteristics of the original Greek. In
 particular, note the parallelism between *exōthen* and *endothen*, the
 ambiguity of *allotrion*, as something that comes from another, and the subtle
-slide between *graphō* (letter, figure, writing) and *tupōn* (type, impression,
-trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios, and Guy
-Smoot for their help with the Greek translations.
+slide between *graphō* (letter, figure, writing) and *tupōn* (type,
+impression, trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios,
+and Guy Smoot for their help with the Greek translations.
 
-[^ln1-turingcog]: Turing's later work suggests that his use of cognitive language
-throughout "On Computable Numbers" was not accidental, and that he meant it to
-define sentience more generally [@turing_computing_1950].
+[^ln1-turingcog]: Turing's later work suggests that his use of cognitive
+language throughout "On Computable Numbers" was not accidental, and that he
+meant it to define sentience more generally [@turing_computing_1950].
 
 The nexus between Alan Turing and Ludwig Wittgenstein in the years between
-1931-1939 at King's College, Cambridge gives us a glimpse into the intellectual
-context of the Turing machine. Wittgenstein broached the problem of reading
-machines first in *The Blue and Brown Books* along with *Philosophical Grammar*
-(all compiled in the early 1930s), then in his lectures and remarks on the
-foundations of psychology and mathematics from the late 1930s, and finally in
-*Philosophical Investigations*, (written between 1945 and 1949). To give you a
-sense of the timeline: Alan Turing's entered King's College in 1931
-[@hodges_alan_1983, 78] and his paper on computable numbers appeared in print
-in 1936. It is likely that the two philosophers met at the Moral Science Club,
-where by the 1930s Wittgenstein "monopolized the discussion," even in the
-presence of prominent philosophers like George Edward Moore
-[@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on the
-foundations of mathematics in 1939.
+1931-1939 at King's College, Cambridge gives us a glimpse into the
+intellectual context of the Turing machine. Wittgenstein broached the problem
+of reading machines first in *The Blue and Brown Books* along with
+*Philosophical Grammar* (all compiled in the early 1930s), then in his
+lectures and remarks on the foundations of psychology and mathematics from the
+late 1930s, and finally in *Philosophical Investigations*, (written between
+1945 and 1949). To give you a sense of the timeline: Alan Turing's entered
+King's College in 1931 [@hodges_alan_1983, 78] and his paper on computable
+numbers appeared in print in 1936. It is likely that the two philosophers met
+at the Moral Science Club, where by the 1930s Wittgenstein "monopolized the
+discussion," even in the presence of prominent philosophers like George Edward
+Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
+the foundations of mathematics in 1939.
 
 Andrew Hodges, the Oxford mathematician and Turing's biographer, attributes
 Turing's engagement with the mechanical basis of mathematical proof to the
@@ -854,16 +813,16 @@ As we shall see, there is a remarkable consistency between the multitude of
 Wittgenstein's "broken" reading machines and Turing's universal symbolic
 manipulator. The parallel is even more striking when one considers Turing's
 later work on the "imitation game" as a litmus test for artificial
-intelligence, echoing Wittgenstein's interest in functional language games. The
-mathematical formulae in Turing's papers should not obscure the writer's
+intelligence, echoing Wittgenstein's interest in functional language games.
+The mathematical formulae in Turing's papers should not obscure the writer's
 preoccupation with hermeneutics more generally. For example, literature on
 Turing's intelligence test usually ignores the long discursive passages
 analyzing poetry in the original paper.
 
 If we take Turing machines to stand in as a kind of a universal symbol for
-computation itself, capable of transforming the practice of arts and letters in
-almost every field of aesthetic and intellectual activity, it becomes paramount
-to view them outside of the narrow confines of mathematical theory.
+computation itself, capable of transforming the practice of arts and letters
+in almost every field of aesthetic and intellectual activity, it becomes
+paramount to view them outside of the narrow confines of mathematical theory.
 Understanding Turing machines within the history of symbolic interpretation
 more broadly, brings computing closer to the light of cultural criticism. The
 bulk of this chapter is therefore concerned with drawing the intertextual
@@ -874,7 +833,8 @@ the best part of the decade. Their work during this period shows a significant
 thematic overlap, which although acknowledged, receives scant attention in the
 critical literature.[^ln1-cope]
 
-[^ln1-cope]: See for example @copeland_what_2000 and @wagner_wittgenstein_2005.
+[^ln1-cope]: See for example @copeland_what_2000 and
+@wagner_wittgenstein_2005.
 
 Wittgenstein wrote that his *Blue and Brown Notebooks* comprise "some notes to
 my pupils, so that they may have something to carry home with them, in their
@@ -885,26 +845,26 @@ answer, which holds that meaning resides in the head. Wittgenstein writes:
 
 > It is misleading then to talk of thinking as of a "mental activity". We may
 > say that thinking is essentially the activity of operating with signs. This
-> activity is performed by the hand, when we think by writing; by the mouth and
-> larynx, when we think by speaking; and if we think by imaging signs or
+> activity is performed by the hand, when we think by writing; by the mouth
+> and larynx, when we think by speaking; and if we think by imaging signs or
 > pictures, I can give you no agent that thinks. If then you say that in such
 > cases the mind thinks, I would only draw your attention to the fact that you
-> are using metaphor, that here the mind is the agent in a different sense from
-> that in which the hand can be said to be the agent in writing.
+> are using metaphor, that here the mind is the agent in a different sense
+> from that in which the hand can be said to be the agent in writing.
 
 The "locality of thought" poses a problem of analogy. Wittgenstein explains
 that when we see a sentence on paper, the external manifestation of a thought,
-we assume that some analogous structure exists somewhere in the brain. Perhaps,
-Wittgenstein speculates, we could even observe the brain directly, in the
-process of writing. Both phenomena, brain- and paper- bound, could properly be
-called the *expression* of thought. Yet neither can offer the definitive
-location where thinking happens. Rather, Wittgenstein suggests, we are
-witnessing a metaphor: some set of correlations between two distinct
+we assume that some analogous structure exists somewhere in the brain.
+Perhaps, Wittgenstein speculates, we could even observe the brain directly, in
+the process of writing. Both phenomena, brain- and paper- bound, could
+properly be called the *expression* of thought. Yet neither can offer the
+definitive location where thinking happens. Rather, Wittgenstein suggests, we
+are witnessing a metaphor: some set of correlations between two distinct
 activities. And it may be that the correlations themselves are what we mean by
 "thought." Neither brain nor paper make sense as *the* site of cognition by
-itself, just like it would not make sense to interrupt a metaphor---"memory the
-warder of the ~~brain~~ (from *Macbeth)---and then look for it in the remaining
-snippet.
+itself, just like it would not make sense to interrupt a metaphor---"memory
+the warder of the ~~brain~~ (from *Macbeth)---and then look for it in the
+remaining snippet.
 
 Our difficulty in locating the definitive site of thought points to the
 inadequacy of Cartesian dualism between body and mind. Neither physical nor
@@ -915,30 +875,30 @@ machine think" [@wittgenstein_blue_1965, 16]? The problem, as he explains, is
 not one of finding a machine that can do the job---of manipulating signs, for
 example. It lies in the ability of a machine to enact the both sides of the
 metaphoric equation. "Doing the job," the manipulation of signs, must
-correspond to something else. Severed from some other analogical structure, the
-"blind" manipulation of signs is a meaningless activity. Meaning, Wittgenstein
-seems to suggest, resides simply in this analogy between something (symbol) and
-something else (mechanism).
+correspond to something else. Severed from some other analogical structure,
+the "blind" manipulation of signs is a meaningless activity. Meaning,
+Wittgenstein seems to suggest, resides simply in this analogy between
+something (symbol) and something else (mechanism).
 
 Wittgenstein extends his thought experiments about reading machines in his
 *Brown Notebook.* Let us study the word "reading," he suggests early on. By
-reading, he means the activity of "translating script into sounds," "of writing
-according to dictation," or "of copying in writing a page of print"
+reading, he means the activity of "translating script into sounds," "of
+writing according to dictation," or "of copying in writing a page of print"
 [@wittgenstein_blue_1965, 119]. Reading once again is "mechanical" reading,
 without a sense of "understanding" or interpretation. What happens when an
-average child reads a newspaper, for example? "His eyes glide along the printed
-words, he pronounces them aloud or to himself, but other words he pronounces
-after having seen their first few letters only, other again he reads out letter
-by letter." The child acts as a "reading machine" when he pays no attention to
-what he reads, even when he speaks the words out loud. Yet he reads
-"faultlessly like a reliable machine." Another child merely pretends to read.
-He guesses at the words, and on occasion repeats things "by heart", without
-actually seeing them on the page [@wittgenstein_blue_1965, 121-22]. Should
-either of these count as reading?
+average child reads a newspaper, for example? "His eyes glide along the
+printed words, he pronounces them aloud or to himself, but other words he
+pronounces after having seen their first few letters only, other again he
+reads out letter by letter." The child acts as a "reading machine" when he
+pays no attention to what he reads, even when he speaks the words out loud.
+Yet he reads "faultlessly like a reliable machine." Another child merely
+pretends to read.  He guesses at the words, and on occasion repeats things "by
+heart", without actually seeing them on the page [@wittgenstein_blue_1965,
+121-22]. Should either of these count as reading?
 
 Wittgenstein continues to complicate such edge cases, challenging his
-audience's intuitions of what it means to read and to understand. He gives also
-the example of a hallucinating patient, who "reads" what to us looks like
+audience's intuitions of what it means to read and to understand. He gives
+also the example of a hallucinating patient, who "reads" what to us looks like
 gibberish, and the case of man who fakes reading Cyrillic by memorizing the
 lines phonetically. He talks of machines too, which produce random sounds that
 occasionally, by accident, correspond to some existing texts. In each case, we
@@ -951,10 +911,10 @@ words out loud, must connect in some way with appropriate internal, mental
 representations.
 
 But in fact no such internal mechanisms can be known to us or communicated to
-others properly [@wittgenstein_blue_1965, 120]. We can only intuit the reader's
-private experience of reading, or whether such reading attains the desired
-correspondence between inward state and outward sign. A reading pupil must
-convince his teacher that the scanned sign had the intended effect. This
+others properly [@wittgenstein_blue_1965, 120]. We can only intuit the
+reader's private experience of reading, or whether such reading attains the
+desired correspondence between inward state and outward sign. A reading pupil
+must convince his teacher that the scanned sign had the intended effect. This
 requires more words in a sort of an interrupted hermeneutic circle, the two
 sides of which do not quite connect to complete the communication feedback
 circuit.
@@ -975,14 +935,14 @@ Wittgenstein's experimental thought machines prefigure the modern computer.
 Wittgenstein conjures these fantastical broken machines ultimately to address
 the problem of symbolic interpretation.
 
-[^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If there
-were such machines having the organs and the shape of a monkey or some other
-animal that lacked reason, we would have no way of recognizing that they were
-not entirely of the same nature as these animals; whereas if there were any
-such machines that bore a resemblance to our bodies and imitated our action as
-far as this is practically feasible, we would always have two very certain
-means of recognizing that they were not at all, for that reason, true men."
-Also quoted in @dennett_can_2004, 297.
+[^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If
+there were such machines having the organs and the shape of a monkey or some
+other animal that lacked reason, we would have no way of recognizing that they
+were not entirely of the same nature as these animals; whereas if there were
+any such machines that bore a resemblance to our bodies and imitated our
+action as far as this is practically feasible, we would always have two very
+certain means of recognizing that they were not at all, for that reason, true
+men." Also quoted in @dennett_can_2004, 297.
 
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another into the pre-history of the literary device. It
@@ -998,8 +958,8 @@ should like to explain the understanding of a gesture as a translation into
 words, and the understanding of words as a translation into gestures"
 [@wittgenstein_philosophical_1974, 42]. Ultimately, he describes what we mean
 by "understanding" as a "process of translation from one symbolism into
-another; tracing a picture, copying something, or translating into another mode
-of representation" [@wittgenstein_philosophical_1974, 45]. To understand
+another; tracing a picture, copying something, or translating into another
+mode of representation" [@wittgenstein_philosophical_1974, 45]. To understand
 something something said is akin to modeling it in clay or drawing.
 
 In light of our earlier discussion about metaphoric transference,
@@ -1007,33 +967,33 @@ Wittgenstein's hermeneutics amount to the making of metaphors across media. To
 understand, it is not enough to explain language in language. One must trade
 symbolisms, creating a metaphor that explains one representational system in
 terms of another. This process is not exact. How would one check if the "clay
-model" corresponds to the "language model" properly? In thinking of the various
-ways in which the process of translation breaks, Wittgenstein continually
-returns to the pianola, a type of a player piano. In the player piano, the
-relationship between music score sheet and the keyboard is rigidly defined.
-Perforated sheet music passes through the machine, activating a set of
-corresponding pins. The conceptual world of the mechanism and the conceptual
-world of music notation correspond exactly. The machine in effect enacts the
-metaphor.
+model" corresponds to the "language model" properly? In thinking of the
+various ways in which the process of translation breaks, Wittgenstein
+continually returns to the pianola, a type of a player piano. In the player
+piano, the relationship between music score sheet and the keyboard is rigidly
+defined.  Perforated sheet music passes through the machine, activating a set
+of corresponding pins. The conceptual world of the mechanism and the
+conceptual world of music notation correspond exactly. The machine in effect
+enacts the metaphor.
 
 ![Electrically-operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A.](images/pianola.png)
 
-In the early passages of *Philosophical Grammar*, Wittgenstein explains: "Aren't
-our sentences parts of a mechanism? As in a pianola? But suppose it is in bad
-condition?  So it is not the effect but the purpose of the signs (the holes in
-the pianola roll). Their purpose *within* the mechanism"
+In the early passages of *Philosophical Grammar*, Wittgenstein explains:
+"Aren't our sentences parts of a mechanism? As in a pianola? But suppose it is
+in bad condition?  So it is not the effect but the purpose of the signs (the
+holes in the pianola roll). Their purpose *within* the mechanism"
 [@wittgenstein_philosophical_1974, 10]. Wittgenstein elaborates a few pages
 later:
 
 > The sentences that we utter have a particular purpose, they are to produce
 certain effects. They are parts of a mechanism, perhaps a psychological
 mechanism, and the words of the sentences are also parts of the mechanism
-(levers, cogwheels, and so on). The example that seems to illustrate what we're
-thinking of here is an automatic music player, a pianola. It contains a roll,
-rollers, etc., on which the piece of music is written is some kind of notation
-(the position of holes, pegs, and so on). It's as if the written sign gave
-orders which are carried out by keys and hammers
+(levers, cogwheels, and so on). The example that seems to illustrate what
+we're thinking of here is an automatic music player, a pianola. It contains a
+roll, rollers, etc., on which the piece of music is written is some kind of
+notation (the position of holes, pegs, and so on). It's as if the written sign
+gave orders which are carried out by keys and hammers
 [@wittgenstein_philosophical_1974, 69].
 
 As was the case with reading automata in *The Blue and Brown Notebooks*,
@@ -1041,37 +1001,37 @@ Wittgenstein again substitute a physical mechanism for the process of symbolic
 interpretation. On this view, words and music notation alike, have "a purpose"
 to elicit some "effects" in the reader/player. But as before, we cannot always
 expect the mechanism of interpretation to function properly, nor do we have a
-reliable way to check its operation. "Suppose the pianola is in bad condition,"
-Wittgenstein repeats. The signs on the roll could produce "hisses and bangs"
-instead of music, for example. One could object that notes are always "meant"
-to play on a mechanism in perfect working order. But to explain what is meant,
-we would need to draw yet another diagram. By analogy, the "sense" of an
-"order" lies in its "effect on an obedient man"
+reliable way to check its operation. "Suppose the pianola is in bad
+condition," Wittgenstein repeats. The signs on the roll could produce "hisses
+and bangs" instead of music, for example. One could object that notes are
+always "meant" to play on a mechanism in perfect working order. But to explain
+what is meant, we would need to draw yet another diagram. By analogy, the
+"sense" of an "order" lies in its "effect on an obedient man"
 [@wittgenstein_philosophical_1974, 60-70]. The pianola exemplifies what will
-come into a much starker contrast later in this chapter: that the mechanisms of
-symbolic communication ultimately belong to a class of controlling devices.
-Metaphors control in the sense of mediating state changes between two disparate
-conceptual systems.
+come into a much starker contrast later in this chapter: that the mechanisms
+of symbolic communication ultimately belong to a class of controlling devices.
+Metaphors control in the sense of mediating state changes between two
+disparate conceptual systems.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
 explicitly rejects the model of language as a "psychophysical" mechanism.
 Rather, as the title of the work suggests, Wittgenstein is in search for the
-"grammar" governing the engagement: between speakers and listeners, readers and
-writers, player pianos and musical scores. By the end of the work, grammar
+"grammar" governing the engagement: between speakers and listeners, readers
+and writers, player pianos and musical scores. By the end of the work, grammar
 emerges as a set of "conventions." Wittgenstein complicates the mechanism by
 inserting an extra layer of "rules" that mediate between symbol and machine or
-mental state. A convention could be included in a chart, for example. And it is
-possible that "there is a part of the mechanism which resembles the chart, and
-is inserted between the language-part of the mechanism and the rest of it"
+mental state. A convention could be included in a chart, for example. And it
+is possible that "there is a part of the mechanism which resembles the chart,
+and is inserted between the language-part of the mechanism and the rest of it"
 [@wittgenstein_philosophical_1974, 190]. "Imagine a language consisting of
 commands," Wittgenstein writes in conclusion.  It is to direct a human
 "forwards," "back," "right," and "left," "quickly" and "slowly"
 [@wittgenstein_philosophical_1974, 197] The grammar, like a table of
 correspondences, explains the meaning of the signs. Today, we would call it a
-"program." Programs translate arbitrary symbolic notation into physical action.
-In this way, we can move away from speaking of "intended effects" or "proper
-obedience," and rather concentrate on the mediating layer that describes the
-rules of engagement.
+"program." Programs translate arbitrary symbolic notation into physical
+action.  In this way, we can move away from speaking of "intended effects" or
+"proper obedience," and rather concentrate on the mediating layer that
+describes the rules of engagement.
 
 Turing met Wittgenstein's at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
@@ -1079,91 +1039,93 @@ Wittgenstein's lectures on the foundation of mathematics in 1939
 [@wittgenstein_wittgensteins_1976, 7], both men's work exhibits sustained
 attention to computing machines narrowly and to the mechanical manipulation of
 symbols more generally. From the notes on Wittgenstein's lectures complied and
-published by Cora Diamond, it is clear that Turing was a vociferous presence in
-the class. His name is mentioned eighty-six times in the text, more than any
-other student by a wide margin.[^ln1-margin] At some point of the course
+published by Cora Diamond, it is clear that Turing was a vociferous presence
+in the class. His name is mentioned eighty-six times in the text, more than
+any other student by a wide margin.[^ln1-margin] At some point of the course
 Wittgenstein concludes his lecture in saying: "Unfortunately, Turing will be
-away from the next lecture, and therefore that lecture will have to be somewhat
-parenthetical. For it is not good my getting the rest to agree to something
-that Turing would not agree to" [@wittgenstein_wittgensteins_1976, 67-68].
+away from the next lecture, and therefore that lecture will have to be
+somewhat parenthetical. For it is not good my getting the rest to agree to
+something that Turing would not agree to" [@wittgenstein_wittgensteins_1976,
+67-68].
 
 Like the notebooks beforehand, Wittgenstein structures his lectures around the
-problem of symbolic interpretation. "I am going to talk about the interrelation
-of mathematical symbols," Wittgenstein begins. We imagine that logical laws
-represent some sort of "fixed" mechanisms "behind" the symbols used to express
-them. "I am speaking against the idea of logical machinery," Wittgenstein says
-in lecture XX. "The idea of logical machinery would suppose that there was
-something behind our symbols" [@wittgenstein_wittgensteins_1976, 194]. We
-imagine logic to be a sort of a "rigid mechanism" that can only turn this way
-or the other. "Any rule can be imagined to be a description of a
-mechanism---even the rule which says a pawn must not be moved in a certain
-way," Wittgenstein writes [@wittgenstein_wittgensteins_1976, 282]. The parts of
-the mechanism subsequently exist in a causal relationship to one another.
-Pushing this or that lever will *always* result in such and such movement,
-because of the way the mechanical parts are connected. We say that the
-mechanism is rigid or the law is inexorable, when the results of an action are
-absolutely fixed. Wittgenstein calls such a relationships "super-hardness."
-Where a judge can be lenient, he explains, the law is compulsory. What we would
-now call "an algorithm" compels predictable execution.
+problem of symbolic interpretation. "I am going to talk about the
+interrelation of mathematical symbols," Wittgenstein begins. We imagine that
+logical laws represent some sort of "fixed" mechanisms "behind" the symbols
+used to express them. "I am speaking against the idea of logical machinery,"
+Wittgenstein says in lecture XX. "The idea of logical machinery would suppose
+that there was something behind our symbols"
+[@wittgenstein_wittgensteins_1976, 194]. We imagine logic to be a sort of a
+"rigid mechanism" that can only turn this way or the other. "Any rule can be
+imagined to be a description of a mechanism---even the rule which says a pawn
+must not be moved in a certain way," Wittgenstein writes
+[@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
+subsequently exist in a causal relationship to one another.  Pushing this or
+that lever will *always* result in such and such movement, because of the way
+the mechanical parts are connected. We say that the mechanism is rigid or the
+law is inexorable, when the results of an action are absolutely fixed.
+Wittgenstein calls such a relationships "super-hardness." Where a judge can be
+lenient, he explains, the law is compulsory. What we would now call "an
+algorithm" compels predictable execution.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
-the mechanism behind the [watch] dial, you will be able to predict the movement
-of the hour hand for any given movement of the minute hand," Wittgenstein
-writes. "And you will not be sceptical." Yet even there, we would be making an
-assumption about a mechanism that functions well. "For instance, I may drop the
-clock" Wittgenstein explains, "so that the machinery is broken, or a lighting
-may strike it [@wittgenstein_wittgensteins_1976, 195]. How are we to know if
-the mechanism functions properly or not? For that we would need "a picture" or
-some sort of schematics that describe what the proper mechanism should look
-like. The mechanism is in fact itself a type of a symbol for the perfected
-behavior of the sort that we expect. Where we tried to find the mechanism
-behind the symbol, we found also the symbol behind the mechanism. Once again we
-encounter the spiral of interpretation between intent and effect, which never
-quite manage to explain each other.
+the mechanism behind the [watch] dial, you will be able to predict the
+movement of the hour hand for any given movement of the minute hand,"
+Wittgenstein writes. "And you will not be sceptical." Yet even there, we would
+be making an assumption about a mechanism that functions well. "For instance,
+I may drop the clock" Wittgenstein explains, "so that the machinery is broken,
+or a lighting may strike it [@wittgenstein_wittgensteins_1976, 195]. How are
+we to know if the mechanism functions properly or not? For that we would need
+"a picture" or some sort of schematics that describe what the proper mechanism
+should look like. The mechanism is in fact itself a type of a symbol for the
+perfected behavior of the sort that we expect. Where we tried to find the
+mechanism behind the symbol, we found also the symbol behind the mechanism.
+Once again we encounter the spiral of interpretation between intent and
+effect, which never quite manage to explain each other.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
 recursive conundrum. The foundations of mathematics rely on some such mutually
-dependent relationship between the physical and the symbolic worlds. Whether it
-is in math or in ordinary language, some magic happens at the coupling of the
-matter and sign. The precise point of contact concerns Wittgenstein in all
+dependent relationship between the physical and the symbolic worlds. Whether
+it is in math or in ordinary language, some magic happens at the coupling of
+the matter and sign. The precise point of contact concerns Wittgenstein in all
 fields of human activity, from literature to psychology and mathematics.
 
-In all of these fields, Wittgenstein finds an implicit analogy between "symbol"
-and "mechanism." A type of metaphor, the analogy itself is atomic. It cannot be
-split further into something like "sign" and "referent" or the "signifier" and
-the "signified." Considered apart, the two parts of the metaphor are strictly
-meaningless. In his lectures on aesthetics, Wittgenstein describes such a
-semiotic relationship as the "concomitance between mechanism and its trace"
-[@wittgenstein_lectures_1966, 16]. In giving an account of one's aesthetic
-judgment, the best we can do is to "trace a mechanism"
+In all of these fields, Wittgenstein finds an implicit analogy between
+"symbol" and "mechanism." A type of metaphor, the analogy itself is atomic. It
+cannot be split further into something like "sign" and "referent" or the
+"signifier" and the "signified." Considered apart, the two parts of the
+metaphor are strictly meaningless. In his lectures on aesthetics, Wittgenstein
+describes such a semiotic relationship as the "concomitance between mechanism
+and its trace" [@wittgenstein_lectures_1966, 16]. In giving an account of
+one's aesthetic judgment, the best we can do is to "trace a mechanism"
 [@wittgenstein_lectures_1966, 13].
 
 It would be a mistake to reduce Wittgenstein's semiotics to the mechanical
 theory of the mind. Rather, in presenting his students and readers with a
 number of hypothetical machines, Wittgenstein attempts to discover the rule
-book of what he later calls the language game---or at lest to suggest that such
-a rulebook might exist. Much has been written on this aspect of Wittgenstein's
-thought and its relation to Bertrand Russel's symbolic logic. In the context of
-our conversation, Wittgenstein's "middle period" is important for its direct
-influence on Turing's model of computation.
+book of what he later calls the language game---or at lest to suggest that
+such a rulebook might exist. Much has been written on this aspect of
+Wittgenstein's thought and its relation to Bertrand Russel's symbolic logic.
+In the context of our conversation, Wittgenstein's "middle period" is
+important for its direct influence on Turing's model of computation.
 
 Several prominent characteristics pass from Wittgenstein's reading machines to
-Turing's universals. First, the symbolic machine emerges from the metaphor-like
-correspondence between internal machine state and external symbolic
-representation. Second, Wittgenstein discusses symbolic representation in terms
-of its delayed effects, that is, ultimately, a type of a remote control
-mechanism. And finally, Wittgenstein imagines a mediating layer that holds the
-rules for translation between state and symbol. All of these features, along
-with a penchant for ambiguous thought experimentation, pass directly from
-Wittgenstein to Turing. Turing consequently attempts to clean up after his
-teacher's profusion of broken interpretation machines. Instead, he gives us one
-thought experiment, encompassing all possible center and edge cases. In
-addition, Turing describes the minimal physical requirements needed to actually
-build such a contraption. Turing imagines the universal metaphor machine, given
-the right requirements, able to convert any symbolic input into the
-corresponding physical state of the mechanism. It is a machine that "traces the
-mechanism" of all other metaphoric mechanisms.
+Turing's universals. First, the symbolic machine emerges from the
+metaphor-like correspondence between internal machine state and external
+symbolic representation. Second, Wittgenstein discusses symbolic
+representation in terms of its delayed effects, that is, ultimately, a type of
+a remote control mechanism. And finally, Wittgenstein imagines a mediating
+layer that holds the rules for translation between state and symbol. All of
+these features, along with a penchant for ambiguous thought experimentation,
+pass directly from Wittgenstein to Turing. Turing consequently attempts to
+clean up after his teacher's profusion of broken interpretation machines.
+Instead, he gives us one thought experiment, encompassing all possible center
+and edge cases. In addition, Turing describes the minimal physical
+requirements needed to actually build such a contraption. Turing imagines the
+universal metaphor machine, given the right requirements, able to convert any
+symbolic input into the corresponding physical state of the mechanism. It is a
+machine that "traces the mechanism" of all other metaphoric mechanisms.
 
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
