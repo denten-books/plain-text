@@ -131,24 +131,28 @@ are also used by air traffic control and covert intelligence agencies
 [@soyata_combat:_2012; @logicworks_government_2015]. The small computer in
 your pocket can also be used both to read books and to detonate explosives.
 
-These conditions compel us---historians, philologists, et al.---to reconsider
-the cozy relationship we have had with books since the advent of the Gutenberg
-press. Simulated text, as I called it in the previous chapter, no longer plays
-by the same rules as print. The bibliographic illusion veils machine
-internals. My task in this chapter is illuminate a Turing machine, the
-blueprint for all computation, within the electronic book. In doing so, the
-literary device, itself a powerful computer, will therefore gain meaning as a
-mechanism for generalized symbolic manipulation. In a reciprocal movement, I
-aim also to place the modern computer itself within the long history of the
-book, as a piece of literary (and not just mathematical) technology. To
-achieve these tasks, I will construct a pre-history of the literary device,
-based on materials roughly from the first half of the twentieth century. I am
-interested in the simultaneous emergence of the literary device as formal
-technique, a series of thought experiments, and finally as an instrument that
-lies at the modernist foundations of contemporary computational culture.
-These material and intellectual gemologies will help reveal the electronic
-book as a device, to call it forth as a mechanism for effecting thought at a
-distance, and to bring it back under the purview of interpretation.
+What looks like a book takes on the functions of other devices. Electronic
+books distributed on mobile phones, tablets, and personal computers comprise a
+part of the same digital infrastructure that powers drones and aircraft
+carriers. Today, computers in the service of the world's largest purveyors of
+literature are also used by air traffic control and covert intelligence
+agencies. The small computer in your pocket can also be used both to read
+books and to detonate explosives. These conditions compel us---historians,
+philologists, et al.---to reconsider the cozy relationship we have had with
+books since the advent of the Gutenberg press. *Simulated text*, as I prefer
+to call instead of "digital" or "electronic," no longer plays by the same
+rules as print. The bibliographic illusion veils machine internals. My task in
+this presentation will be to illuminate the blueprint of computation within
+the electronic book. In a reciprocal movement, I aim also to place the modern
+computer itself within the long history of the book, as a piece of literary
+(and not just mathematical) technology. To achieve these tasks, I will
+construct a short prehistory of the literary device, based on materials
+roughly from the first half of the twentieth century. I am interested in the
+simultaneous emergence of the literary device as formal technique, a series of
+thought experiments, and finally as an instrument that lies at the modernist
+foundations of contemporary computational culture. These material and
+intellectual genealogies will help reveal the electronic book as a device, and
+to bring it back under the purview of interpretation.
 
 [^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
 most worthy of thought and questioning remains the mystery of
