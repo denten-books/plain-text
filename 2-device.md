@@ -102,18 +102,18 @@ both constitute a species of displaced agency, a problem long in the
 background of Western liberal thought.[^ln1-consensus] Both represent agency
 delayed in time and space. The projectile acts at a distance; once launched,
 it will complete its grim mandate even if the command to act is withdrawn.
-Technology of the word similarly decouples readers from writers. Once
-decoupled, seemingly autonomous agents---books, folders, documents---clutter
-the social sphere, continuing to structure human experience in the absence of
-the originating accord. The above might appear a curious way of putting
-things, but not unusual in the larger context of post-Kantian humanism at the
-turn of the twentieth century. In Moreno's words we hear more than an echo of
-Marx's fetishism of commodities, by which "definite social relation between
-men" assumes "the fantastic form of a relation between things"
-[@marx_capital_1967, 72]. Moreno arrives at a similar conclusion by another
-logic. In creating some of the earliest examples of social network graphs, he
-finds (and objects to) the presence of things in the position of social
-actors.
+Technology of the word similarly decouples readers from writers. The book
+continuous to mean in the absence of the author. Once decoupled, seemingly
+autonomous agents---books, folders, documents---clutter the social sphere,
+continuing to structure human experience in the absence of the originating
+accord. The above might appear a curious way of putting things, but not
+unusual in the larger context of post-Kantian humanism at the turn of the
+twentieth century. In Moreno's words we hear more than an echo of Marx's
+fetishism of commodities, by which "definite social relation between men"
+assumes "the fantastic form of a relation between things" [@marx_capital_1967,
+72]. Moreno arrives at a similar conclusion by another logic. In creating some
+of the earliest examples of social network graphs, he finds (and objects to)
+the presence of things in the position of social actors.
 
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
