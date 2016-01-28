@@ -247,16 +247,17 @@ commonplace.
 Thus even as formal analysis skirted the idea of a materialist poetics, the
 formalists stopped short of encountering the trope as a thing. For this
 reason, it is interesting to consider Nabokov's recursive meta-poetics as a
-logical conclusion of the formalist program. Nabokov's devices protrude
-through the diegetic limits of the fictional world, pointing to the book as an
-object. The nesting doll structure of literary instrumentation---devices
-within devices---ends at the book. Nabokov points to the book as the
-outer-most literary device containing all other literary devices. Despite its
-materialist ambitions, formal literary analysis begins by discarding that
-outer shell, seeing past the material affordances of the object as if ideas
-could be grasped directly, without physical mediation. The English critic
-Percy Lubbock, himself a formalist of sorts, would write echoing his Soviet
-colleagues:
+logical conclusion of the formalist program. Nabokov's pipes and surface
+inscriptions protrude through the diegetic limits of the fictional world,
+pointing to the book as an object. The nesting doll structure of literary
+instrumentation ends at the book. Nabokov's prose reveals the surface of the
+page as the outer-most literary device containing all other literary devices.
+But, despite its materialist ambitions, formal literary analysis can only
+gesture towards the object. Technique remains an intra-textual procedure. The
+material affordances of the literary object are not seen as participating in
+the dynamics of meaning making. The book itself recedes from view. The English
+critic Percy Lubbock, himself a formalist of sorts, would write echoing his
+Soviet colleagues:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
