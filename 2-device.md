@@ -161,7 +161,7 @@ generations still valid today?
 
 ### 2.1 Technique / Technics
 
-What kind of a thing is a literary *device*? The formal concept of a device,
+What kind of a *thing* is a literary *device*? The formal concept of a device,
 used widely in literary studies, is in part an artifact of an unfortunate
 translation from the Russian *priem*. The word would be better translated as
 "technique," in the sense of "method," "approach," or "procedure." Device
@@ -219,41 +219,43 @@ Nabokov's mature work, which often seeks to transcend the diegetic, fictional
 world through sheer recursion of literary technique, where each successive
 turn of abstraction brings the buried symbol closer to the reader.
 
-Despite the effort to transcend the page, formalist poetics (both in art and
-in scholarship) fell short of producing an explicit theory of technique. In
-his "Art as Device," Shklovsky writes:
+Despite such emphasis on laying bare the device, formalist poetics (both in
+art and in scholarship) fell short of producing an explicit theory of
+technique. In his "Art as Device," Shklovsky writes:
 
-> The word of poetic schools amounts to the aggregation and the discovery of
+> The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
 > linguistic material, and, in particular, more so with the rearrangement of
 > figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
 > 102].
 
-Poetry or fiction should not be reduced to a type of figurative, symbolic
-thinking, in other words. Rather, Shklovsky and his fellow travellers
-privileged the innovative "arrangement and the processing" of language
-material. Art therefore must be understood in terms of device and technique
-rather than in terms of symbol or figuration, as it was for the symbolists. To
-write literature is not merely to speak in figurative language, but to invent
-new figurations capable of cutting across prosaic and habituated norms of
-speaking [@shklovksy_poetika_1919, 103]. In this, Shklovsky places innovation
-at a premium, without account for figuration itself. He merely lists possible
-combinations of existing tropes---synecdoche, parallelism, analogy---which, in
-different combinations produce the effect of either poetic innovation or
-prosaic commonplace. Thus even as they skirted the idea of a materialist
-poetics, the formalists could not transcend the limits of ideation and
-ideology. Formal analysis moved from the level of content to the level of
-arrangement of that content and no further.
+Responding to a previous generation of symbolist poets who placed emphasis on
+the creation of new tropes, Shklovsky and his fellow travellers privileged the
+innovative "arrangement and the processing" of language material. The
+formalists did not want to reduce poetics to a type of figurative, symbolic
+thinking. They understood art in terms of device and technique rather than in
+terms of meaning or content, as it was for the symbolists. For them, to write
+literature meant not merely to speak in figurative language, but to invent new
+linguistic forms capable of cutting across prosaic and habituated norms of
+speaking [@shklovksy_poetika_1919, 103]. In this, Shklovsky held innovation at
+a premium, falling short however of defining its device. The device seems to
+be simply any trope capable of disrupting habituated experience. Depending on
+their arrangement, conventional tropes like synecdoche, parallelism, and are
+capable of producing the effect of either poetic innovation or prosaic
+commonplace.
 
-The question of surfaces, posed so recursively by Nabokov, gains an
-instrumental dimension when considered in the context of media history. At its
-upper limit, the nesting doll structure of literary instrumentation ends at
-the book. The book itself draws a figure of its own. It is in a sense a
-literary device containing all other literary devices. Despite its materialist
-ambitions, formal literary analysis begins by discarding that outer shell,
-seeing past the material affordances of the object as if ideas could be
-grasped directly, without physical mediation. The English critic Percy
-Lubbock, himself a formalist of sorts, would write echoing his Soviet
+Thus even as formal analysis skirted the idea of a materialist poetics, the
+formalists stopped short of encountering the trope as a thing. For this
+reason, it is interesting to consider Nabokov's recursive meta-poetics as a
+logical conclusion of the formalist program. Nabokov's devices protrude
+through the diegetic limits of the fictional world, pointing to the book as an
+object. The nesting doll structure of literary instrumentation---devices
+within devices---ends at the book. Nabokov points to the book as the
+outer-most literary device containing all other literary devices. Despite its
+materialist ambitions, formal literary analysis begins by discarding that
+outer shell, seeing past the material affordances of the object as if ideas
+could be grasped directly, without physical mediation. The English critic
+Percy Lubbock, himself a formalist of sorts, would write echoing his Soviet
 colleagues:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
