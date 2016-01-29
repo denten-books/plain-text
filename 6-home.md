@@ -543,7 +543,7 @@ The attachment of personal affect to private and privileged objects suggests a
 practice of literary analysis that differs markedly from the interpretation of
 public books, in a kind of a solipsistic criticism. It is a practice already
 suggested in Michel Foucault's study of hypomnemata in Greco-Roman culture, now
-extended into the contemporary and the everyday [@foucault_self_1983, 415-430;
+extended into the contemporary and the everyday [@foucault_self_1998, 415-430;
 @foucault_self_1998]. In charting out that unfamiliar territory of the personal
 archive, I am confounded by known models of communication, advanced by thinkers
 like Ferdinand de Saussure, Roman Jacobson, and Claude Shannon. These models

@@ -359,7 +359,7 @@ for this reason artists are free to express themselves not only in language of
 common understanding, but also in private language---language that has no
 settled sense [...] Lilacs are beautiful, but how deformed [*bezobrazno*] the
 word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
-restoring its primal clarity [@brik_poetika_1919, 13].
+restoring its primal clarity [@shklovksy_poetika_1919, 13].
 
 The word *bezobrazno*, in the meaning of hideous or deformed, literally
 translates as "without image." The formalists insist on the primacy of the word
@@ -625,6 +625,8 @@ Document Object Model further gives rise to three "operations," tied to the
 comprises operations that move from abstract to abstract, or, from concrete to
 concrete domains.
 
+<!---
+
 +------------------------+--------------+-------------------------------+
 | Operation              | Type         | Example                       |
 +========================+==============+===============================+
@@ -648,6 +650,8 @@ concrete domains.
 
 Table: Object operation types under the Document Object Model
 [@furuta_document_1982, 419-20].
+
+--->
 
 Spelling correction, for example, constitutes an editing manipulation where
 abstract objects are modified into other abstract objects. Moving footnotes to
@@ -1078,7 +1082,7 @@ following, is a simple dotplot from Shakespeare:
 |be  |   | • |   |    |   | • |
 +----+---+---+---+----+---+---+
 
-Table: "Six words of Shakespeare." @helfman_dotplot_1996
+Table: "Six words of Shakespeare" [@helfman_dotplot_1996].
 
 When applied to raw, binary data, self-similarity plots can be used to study
 data structures, to identify security threats, and to reverse engineer unknown
@@ -1234,7 +1238,7 @@ meccanico e la sensibilità numerica]
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-[^ln4-translate]: "In our discussion of this text we have been using an
+[^ln4-translate2]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
 In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
