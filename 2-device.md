@@ -226,7 +226,7 @@ technique through the thought of four major literary theorists of the interwar
 period: Viktor Shklovsky, Percy Lubbock, Walter Benjamin, and Mikhail Bakhtin.
 This grouping does not amount to a school of thought as such. Rather, the
 concept of technique emerges in parallel traditions at a formative time in the
-history of the mechanized word. Viewed in the context of technological
+history of the literary technology. Viewed in the context of technological
 development, the emergence of technique as a critical category reflects the
 broader concerns of the machine age. The very idea of *technology* does not
 fully find its place in critical literature until the 1950-1970s, judging by
@@ -237,13 +237,18 @@ Man* (1969) by Viktor Firkiss, among many others. Calling for the institution
 of a new field, the editors of the 1959 inaugural issue of the journal
 *Technology and Culture* would write about the "neglect of study of
 technology" amidst a body of extant work that has scarcely amounted to a
-systematic scholarly discipline [@kranzberg_at_1959]. As late as 1978, in his
-influential volume on *Autonomous Technology*, Langdon Winner would write
-"*technology* is a word whose time has come" [@winner_autonomous_1978, 4].
+systematic scholarly discipline [@kranzberg_at_1959]. "*Technology* is a word
+whose time has come," Langdon Winner would write in his influential volume on
+*Autonomous Technology* in 1978 [@winner_autonomous_1978, 4].
 
 ![Relative occurrence of the words "technology," "technique," and "machine" in
 the Google Books ngram corpus
 [@michel_quantitative_2011].](images/technology-chart.png)
+
+In this light, the pre-WWII concern with literary technique anticipates the
+post-war turn towards technology as a field of cultural analysis. The
+formalist period in literary theory signalled a turn away from history and
+philosophy of literature towards the mechanics of literary production.
 
 In his "Art as Device," Shklovsky writes:
 
