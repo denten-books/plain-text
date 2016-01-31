@@ -221,7 +221,31 @@ turn of abstraction brings the buried symbol closer to the reader.
 
 Despite such emphasis on laying bare the device, formalist poetics (both in
 art and in scholarship) fell short of producing an explicit theory of
-technique. In his "Art as Device," Shklovsky writes:
+technique. In this section, I will attempt to reconstruct the notion of
+technique through the thought of four major literary theorists of the interwar
+period: Viktor Shklovsky, Percy Lubbock, Walter Benjamin, and Mikhail Bakhtin.
+This grouping does not amount to a school of thought as such. Rather, the
+concept of technique emerges in parallel traditions at a formative time in the
+history of the mechanized word. Viewed in the context of technological
+development, the emergence of technique as a critical category reflects the
+broader concerns of the machine age. The very idea of *technology* does not
+fully find its place in critical literature until the 1950-1970s, judging by
+the rash of titles like like Martin Heidegger's *Die Frage nach der Technik*
+(1954), Jacques Ellul's *La technique ou l'enjeu du siècle* (1954),  Lynn
+White's *Medieval Technology and Social Change* (1966), and *The Technological
+Man* (1969) by Viktor Firkiss, among many others. Calling for the institution
+of a new field, the editors of the 1959 inaugural issue of the journal
+*Technology and Culture* would write about the "neglect of study of
+technology" amidst a body of extant work that has scarcely amounted to a
+systematic scholarly discipline [@kranzberg_at_1959]. As late as 1978, in his
+influential volume on *Autonomous Technology*, Langdon Winner would write
+"*technology* is a word whose time has come" [@winner_autonomous_1978, 4].
+
+![Relative occurrence of the words "technology," "technique," and "machine" in
+the Google Books ngram corpus
+[@michel_quantitative_2011].](images/technology-chart.png)
+
+In his "Art as Device," Shklovsky writes:
 
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
@@ -320,32 +344,32 @@ picture, it would be a support in the world of shadows [@lubbock_craft_1921,
 273-4].
 
 Walter Benjamin, writing in the 1930s, was one of the first to define the
-notion of literary technique in a way that would connect it to a materialist
-poetics. The work of art for Benjamin does not and cannot exist in the mode of
-a "rigid, isolated object." Rather, "it must be inserted into the context of
-living social relations," and therefore, into the context determined by its
-relation to literary production [@benjamin_author_1983, 87]. Authorship
-identifies a specific mode of production. The question of formal,
+notion of literary technique in a way that would connect it to a truly
+materialist poetics. The work of art for Benjamin does not and cannot exist in
+the mode of a "rigid, isolated object." Rather, "it must be inserted into the
+context of living social relations," and therefore, into the context
+determined by its relation to literary production [@benjamin_author_1983, 87].
+Authorship identifies a specific mode of production. The question of formal,
 intra-textual figurative arrangements within the work of art thus cannot be
 considered apart from their extra-textual material contexts. Technique for
 Benjamin is what makes literary products "accessible" to materialist analysis;
-technique *is* in itself, in his view, a relationship to production
+technique itself is, in his view, a relationship to production
 [@benjamin_author_1983, 87].
 
-In making the characteristically Marxist move towards the idea of production,
-Benjamin attempts to bridge what he calls "the sterile dichotomy" between form
-and content [@benjamin_author_1983, 88]. The concept of technique brings the
-arrangement of literary, ideational content into accordance with its material
-context. By these means the very concept of the author---what counts for
-authorship, what is published---connects to the overall structure of the
-publishing industry and the industry to the more general arrangements of labor
-and capital. In this way the *idea* of citizen reporters, to take a Soviet
-example that he uses, has the potential to democratize journalism. But, as
-long as the production of newspapers is outside of the writer's immediate
-control, citizen journalism is bound to remain, *in practice*, "an article of
-consumption." Forces of capital ultimately transform the potential for any
-meaningful political struggle brought about by the new narrative technique
-into mere comfortable contemplation, a technically perfect object of enjoyment
+In making the characteristically Marxist move towards production, Benjamin
+attempts to bridge what he calls the "sterile dichotomy" between form and
+content [@benjamin_author_1983, 88]. Technique brings the arrangement of
+literary, ideational content into accordance with its modes of production. By
+these means the very concept of the author---what counts for authorship, what
+is published---connects to the overall structure of the publishing industry
+and the industry to the more general arrangements of labor and capital. In
+this way the *idea* of citizen reporters, to take a Soviet example that he
+uses, has the potential to democratize journalism. But, as long as the
+production of newspapers is outside of the writer's immediate control, citizen
+journalism is bound to remain, *in practice*, "an article of consumption."
+Forces of capital ultimately transform the potential for any meaningful
+political struggle brought about by the new narrative technique into mere
+comfortable contemplation, a technically perfect object of enjoyment
 [@benjamin_author_1983].
 
 It seems not possible then for poetic form to evolve without the corresponding
@@ -394,10 +418,11 @@ transform, in Benjamin's words, from the "supplier" of technique into an
 недостижима сколько-нибудь совершенная организация материала, например, — при
 созерцании природы); до этого создания и независимо от него он не существует,
 он осуществляется впервые вместе с произведением[564].
-    Не нужно придавать слову «техника» в применении к художественному
-творчеству какое-то одиозное значение: техника здесь не может и не должна
-отрываться от эстетического объекта, им она оживлена и движима во всех своих
-моментах, поэтому в художественном творчестве техника отнюдь не механистична,
+
+Не нужно придавать слову «техника» в применении к художественному творчеству
+какое-то одиозное значение: техника здесь не может и не должна отрываться от
+эстетического объекта, им она оживлена и движима во всех своих моментах,
+поэтому в художественном творчестве техника отнюдь не механистична,
 механистической она может представиться лишь в дурном эстетическом
 исследовании, которое теряет эстетический объект, делает технику самодовлеющей
 и отрывает ее от цели и смысла. В противовес подобным исследованиям и должно
@@ -405,7 +430,7 @@ transform, in Benjamin's words, from the "supplier" of technique into an
 чисто технический характер не для того, чтобы принизить ее, а наоборот, чтобы
 осмыслить и оживить [Bakhtin 1, 310].
 
-  Вопрос об отношениях между созерцателем и творцом впервые поставили не
+Вопрос об отношениях между созерцателем и творцом впервые поставили не
 лефисты. Он стар, как мир, и не может быть выражен в одной формуле; для
 каждого направления она особая. Но приблизительно можно сказать так:
 созерцатель равен творцу минус техника. Компетентный созерцатель стремится
