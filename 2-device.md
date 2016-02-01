@@ -511,15 +511,18 @@ that seems to develop by its own laws and logic.
 
 ### 2.2 Thought Experiment
 
-These are broad strokes towards the intellectual history of the literary
-device. Our concern is however with literary devices as they exist today,
-precisely within the confusion between symbol and thing. At this point, it
-becomes productive therefore to examine the history of modern computing not
-within its usual lineage of computing machinery, but in relation to this
-broader history of 
-
-symbolic manipulation. The modern computer derives in part
-from the same strange
+These broad strokes towards the intellectual history of the literary device
+bring us to literary devices as they exist today, precisely within the
+confusion between symbol and thing. At this point, it becomes productive
+therefore to examine the history of modern computing not within its usual
+lineage of calculating machinery, but in relation to this broader history of
+symbolic manipulation. The modern computer---and by extension the electronic
+book---harkens back to a cluster of related thought experiments, one strain of
+which stems from the philosophy of Ludwig Wittgenstein and subsequently to the
+ideas of Alan Turing, his long-time student and colleague. The story of Turing
+machines has been told before, in many guises, but never with an eye towards
+literary machines that nevertheless occupy central place in the early
+development of modern computing.
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
