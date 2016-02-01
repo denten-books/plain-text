@@ -159,7 +159,7 @@ back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. To paraphrase, they ask: What makes whatever compacts made by past
 generations still valid today?
 
-### 2.1 Technique / Technics
+### 2.1 Technique
 
 What kind of a *thing* is a literary *device*? The formal concept of a device,
 used widely in literary studies, is in part an artifact of an unfortunate
@@ -245,10 +245,41 @@ whose time has come," Langdon Winner would write in his influential volume on
 the Google Books ngram corpus
 [@michel_quantitative_2011].](images/technology-chart.png)
 
-In this light, the pre-WWII concern with literary technique anticipates the
-post-war turn towards technology as a field of cultural analysis. The
+Seen in this light, the pre-WWII concern with literary technique anticipates
+the post-war turn towards technology as a field of cultural analysis. The
 formalist period in literary theory signalled a turn away from history and
-philosophy of literature towards the mechanics of literary production.
+philosophy of literature towards the mechanics of literary production. The
+turn towards technique entailed a mechanistic understanding of language and
+literature, by which linguistic phenomena began to be viewed as a system of
+moving parts, which produced meaning through use. The turn to technique meant
+also that the mechanisms of meaning production were also accessible to a mass
+audience. The Russian formalists in particular understood their task as one of
+radical democratization. High literature that was once the purview of the
+select few could now belong to the proletariat at large. This meant that the
+reading and the writing of literature could be distilled into a set of
+reproducible rules---technique over art---which could be learned and shared
+widely.
+
+Beyond its political context, the mechanization of language must also be seen
+in its instrumental environment. As we shall see in the later sections of this
+chapter, the developments in aesthetic theory followed a period of rapid
+innovation in the technologies of the word. The rise of formalist and
+structuralist thought---philosophy's linguistic turn that saw language as a as
+system of rule-based games---parallel the rise of programmable media, punch
+cards, and ticker tape. That is not to say that technology and theory stand in
+a reductive causal relationship to each other. They form rather a feedback
+loop, in which instruments, practices, and explanatory models evolve in
+response to one another. My understanding of the literary device in both of
+its senses---as technique and a mechanism---is not motivated by mere
+linguistic play. Placing literary theoretical constructs in their
+technological context allows us to witness the contemporaneous evolution and
+the mutual interdependence between art, engineering, and philosophy. The
+emergence of literary technique, language games, and programmable
+media---punch cards and ticker tape---all form the part of the same cultural
+complex, which cannot be understood by looking at its constituent parts in
+isolation. The origins of computer science and literary formalism stem from a
+set of shared ideas, theoretical models, and technological contingencies
+emerging at the turn of the twentieth century.
 
 In his "Art as Device," Shklovsky writes:
 
