@@ -233,13 +233,14 @@ fully find its place in critical literature until the 1950-1970s, judging by
 the rash of titles like like Martin Heidegger's *Die Frage nach der Technik*
 (1954), Jacques Ellul's *La technique ou l'enjeu du siècle* (1954),  Lynn
 White's *Medieval Technology and Social Change* (1966), and *The Technological
-Man* (1969) by Viktor Firkiss, among many others. Calling for the institution
-of a new field, the editors of the 1959 inaugural issue of the journal
-*Technology and Culture* would write about the "neglect of study of
-technology" amidst a body of extant work that has scarcely amounted to a
-systematic scholarly discipline [@kranzberg_at_1959]. "*Technology* is a word
-whose time has come," Langdon Winner would write in his influential volume on
-*Autonomous Technology* in 1978 [@winner_autonomous_1978, 4].
+Man* (1969) by Viktor Firkiss, among many similar volumes appearing in the
+period. Calling for the institution of a new field, the editors of the 1959
+inaugural issue of the journal *Technology and Culture* would write about the
+"neglect of study of technology" amidst a body of extant work that has
+scarcely amounted to a systematic scholarly discipline [@kranzberg_at_1959].
+"*Technology* is a word whose time has come," Langdon Winner would write in
+his influential volume on *Autonomous Technology* in 1978
+[@winner_autonomous_1978, 4].
 
 ![Relative occurrence of the words "technology," "technique," and "machine" in
 the Google Books ngram corpus
@@ -249,16 +250,17 @@ Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. The
 formalist period in literary theory signalled a turn away from history and
 philosophy of literature towards the mechanics of literary production. The
-turn towards technique entailed a mechanistic understanding of language and
+technical turn entailed a mechanistic understanding of language and
 literature, by which linguistic phenomena began to be viewed as a system of
-moving parts, which produced meaning through use. The turn to technique meant
-also that the mechanisms of meaning production were also accessible to a mass
-audience. The Russian formalists in particular understood their task as one of
-radical democratization. High literature that was once the purview of the
-select few could now belong to the proletariat at large. This meant that the
-reading and the writing of literature could be distilled into a set of
-reproducible rules---technique over art---which could be learned and shared
-widely.
+moving parts, capable of producing meaning through use. The turn to technique
+meant also that the mechanisms of meaning production, on the sides of both
+authorship and apprehension, were made accessible to a mass audience. The
+Russian formalists in particular understood their task as one of radical
+democratization of the literary sphere. High literature that was once the
+purview of the select few could now belong to the proletariat at large. This
+meant that the reading and the writing of literature could be distilled into a
+set of reproducible rules---technique over art---which could be learned and
+shared widely.
 
 Beyond its political context, the mechanization of language must also be seen
 in its instrumental environment. As we shall see in the later sections of this
@@ -267,29 +269,31 @@ innovation in the technologies of the word. The rise of formalist and
 structuralist thought---philosophy's linguistic turn that saw language as a as
 system of rule-based games---parallel the rise of programmable media, punch
 cards, and ticker tape. That is not to say that technology and theory stand in
-a reductive causal relationship to each other. They form rather a feedback
-loop, in which instruments, practices, and explanatory models evolve in
-response to one another. My understanding of the literary device in both of
-its senses---as technique and a mechanism---is not motivated by mere
-linguistic play. Placing literary theoretical constructs in their
-technological context allows us to witness the contemporaneous evolution and
-the mutual interdependence between art, engineering, and philosophy. The
-emergence of literary technique, language games, and programmable
-media---punch cards and ticker tape---all form the part of the same cultural
-complex, which cannot be understood by looking at its constituent parts in
-isolation. The origins of computer science and literary formalism stem from a
-set of shared ideas, theoretical models, and technological contingencies
-emerging at the turn of the twentieth century.
+a reductive causal relationship to one another. They form rather a feedback
+loop, in which instruments, practices, and explanatory models evolve through
+mutual reciprocation. My understanding of the literary device in both of its
+senses---as technique and mechanism---is therefore motivated by more than mere
+linguistic ambiguity in the meaning of the word. Locating the literary
+theoretical construct of the device within its technological context allows us
+to witness the contemporaneous evolution and the mutual interdependence
+between art, engineering, and philosophy. The simultaneous emergence of
+literary technique, language games, and rule-based programmable media---punch
+cards and ticker tape---all form the part of the same cultural complex, which
+cannot be understood by looking at its constituent parts in isolation. The
+origins of computer science and literary formalism stem from a set of shared
+theoretical models and technological contingencies coming to fore of literary
+technology at the turn of the twentieth century.
 
-The concept of technique removes literary production from its affective,
-intimate, and irreproducible contexts. The movement from art to craft implies
-primarily a change in the artist's relationship to the modes of artistic
-production. Where the artistic genius is unique, craft carries with it a model
-of inheritance. Where genius is born, technique is learned and shared. Where
-the artist labors alone, the craftsman learns a trade in a workshop, as part
-of a collective. In a more abstracted sense, we can view the turn to technique
-as an attempt to decouple language from its irreproducible and idiosyncratic
-frames of reference. In his "Art as Device," Shklovsky writes:
+It is at this time that the formal concept of technique begins to remove the
+idea of literary production from its affective, intimate, and irreproducible
+contexts. The movement from art to craft implies primarily a change in the
+artist's relationship to the modes of artistic production. Where the artistic
+genius is unique, craft carries with it a model of inheritance. Where genius
+is born, technique can be learned and shared. Where the artist labors alone,
+the craftsman learns a trade in a workshop, as part of a collective. In a more
+abstracted sense, we can view the turn to technique as an attempt to decouple
+language from its irreproducible and idiosyncratic frames of reference. In his
+"Art as Device," Shklovsky writes:
 
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
@@ -297,114 +301,66 @@ frames of reference. In his "Art as Device," Shklovsky writes:
 > figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
 > 102].
 
-The formalists did not think that poetics could be reduced to a type of
-figurative thinking. Shklovsky and his fellow valued instead the "arrangement
-and the processing" of literary trope. This line of reasoning brings Shklovsky
-to the idea of linguistic "automatization." Prosaic, everyday language follows
-the "laws of conservation of energy," he writes quoting Herbert Spencer. "In
-fluid, practical speech words are not pronounced fully. The mind barely
-perceives the initial sounds of each word," he writes calling this dynamic the
-"algebraization of language" [@shklovksy_poetika_1919, 105]. In algebraic
-thinking "thoughts are grasped through number and space---we do not see them
-as such, but merely recognize them by cursory characteristics"
-[@shklovksy_poetika_1919, 105]. The dynamics of automatization conserve mental
-energy as semantic complexity is reduced to a compact formula. The primary
-technique of aesthetic discourse is therefore the de-automatization of
-received trope. The role of art and analysis alike is to apprehend the thing,
-that is to undo the work of symbolism. Estrangement arrests the algebraic
-normalization of language. Thus were prosaic, everyday language follows the
-laws of conservation of energy, poetic language expands energy to make
-language difficult again [*zatrudnenie*] and to prolong attention
-[*vospriiatie*]. If language is a labor-saving device, poetic language is a
-device for labor-expansion.
+Unlike the previous generation of symbolist critics, the Russian formalists
+did not think that poetics could be reduced to a type of figurative thinking.
+Shklovsky and his fellow valued instead the "arrangement and the processing"
+of literary trope. This line of reasoning brings Shklovsky to the idea of
+linguistic "automatization." Prosaic, everyday language follows the "laws of
+conservation of energy," he writes, paraphrasing the thesis of Herbert
+Spencer's *The Philosophy of Style* [@spencer_philosophy_1892]. Shklovsky
+writes that "in fluid, practical speech words are not pronounced fully" and
+that "the mind barely perceives the initial sounds of each word." Shklovsky
+calls this dynamic the "algebraization of language" [@shklovksy_poetika_1919,
+105].  In algebraic thinking "thoughts are grasped through quantity and
+capacity---we do not see them as such, but merely recognize them by cursory
+characteristics" [@shklovksy_poetika_1919, 105]. The dynamics of
+automatization conserve mental energy. Semantic complexity is reduced to a
+compact formula. Estrangement, or the de-programming of received trope,
+constitutes the primary technique of aesthetic discourse. The role of art and
+analysis alike is to apprehend the thing, that is to undo the work of
+symbolism, which continually substitutes the composite signifier for the
+apparent unity of the sign. Estrangement arrests the algebraic optimization by
+which short-hand symbols stand for complex things and ideas. Thus, were
+prosaic everyday language follows the laws of conservation of energy, poetic
+language expands energy to make language difficult again [*zatrudnenie*] and
+to prolong attention [*vospriiatie*]. If language is a labor-saving device,
+poetic language is labor-intensive.
 
 Any innovation in the linguistic sphere is thus bound follow the cycle of
-renewal and decay. With time, a literary device capable of arresting attention
-itself becomes habituated and in need of renewal. The periodization of
-aesthetic genres thus follows a cycle of arbitrary differentiation and is seen
-by the formalists as a type of information processing at the meta-linguistic
-level. Reflecting on Shklovsky's poetics in the 1920s, Mikhail Bakhtin would
-write that "material aesthetics, which isolate in culture n
+habituation and renewal, according to the formalists. With time, a literary
+device capable of arresting attention itself becomes normalized and in need of
+rejuvenation. Consequently, the evolution of aesthetic periods follow a course
+of arbitrary differentiation. The dominant device in one period, becomes a
+cliché in the next. Technique in that sense was seen by the formalists as a
+type of information processing at the meta-linguistic, social level. The
+mechanics of "arrangement and the rearrangement of figure" thus propel the
+mechanics of literary development to produce new meaning within familiar
+contexts.
 
-Материальная эстетика, изолирующая в культуре не только искусство,
-но и отдельные искусства и берущая произведение не в его художественной жизни,
-а как вещь, как организованный материал, в лучшем случае способна обосновать
-лишь хронологическую таблицу изменений приемов техники данного искусства, ибо
-изолированная техника вообще не может иметь историю.  [Bakthin 1, 280-1]
-
-Отсюда отнюдь не следует, что в эстетике изучение материальной структуры
-произведения, как чисто технической, должно занять скромное место. Значение
-материальных исследований в специальной эстетике чрезвычайно велико, так же
-велико, как и значение материального произведения и его созидания для
-художника и для эстетического созерцания. Мы вполне можем присоединиться к
-утверждению: «техника в искусстве все», понимая его в том смысле, что
-эстетический объект осуществляется только путем создания материального
-произведения (эстетическое видение вне искусства потому и гибридно, что здесь
-недостижима сколько-нибудь совершенная организация материала, например, — при
-созерцании природы); до этого создания и независимо от него он не существует,
-он осуществляется впервые вместе с произведением[564].
-
-Не нужно придавать слову «техника» в применении к художественному творчеству
-какое-то одиозное значение: техника здесь не может и не должна отрываться от
-эстетического объекта, им она оживлена и движима во всех своих моментах,
-поэтому в художественном творчестве техника отнюдь не механистична,
-механистической она может представиться лишь в дурном эстетическом
-исследовании, которое теряет эстетический объект, делает технику самодовлеющей
-и отрывает ее от цели и смысла. В противовес подобным исследованиям и должно
-подчеркивать служебный характер материальной организации произведения, ее
-чисто технический характер не для того, чтобы принизить ее, а наоборот, чтобы
-осмыслить и оживить [Bakhtin 1, 310].
-
-Вопрос об отношениях между созерцателем и творцом впервые поставили не
-лефисты. Он стар, как мир, и не может быть выражен в одной формуле; для
-каждого направления она особая. Но приблизительно можно сказать так:
-созерцатель равен творцу минус техника. Компетентный созерцатель стремится
-сотворить в себе авторский процесс за исключением технического процесса,
-который для эстетической оценки ему воспроизводить не обязательно. Так что
-общая формула отношений между творцом и созерцателем это: творец равен
-созерцателю плюс техника{314}. Техника — понятие, имеющее то более широкое, то
-более узкое значение в зависимости от рода искусства. Так, в архитектуре
-технический процесс громаден. Как художник архитектор создает лишь план, а
-затем он действует как инженер. В поэзии, напротив, техника почти ничтожна.
-Так что в различных искусствах техника принимает разные величины. Кроме того,
-характер отдельного искусства зависит от постановлений школы, к которой оно
-примыкает. В XIX веке эстетика преимущественно ориентировалась на созерцателя,
-и потому мы не найдем в ней приемов подхода к техническим моментам. Но в конце
-XIX и начале XX столетий уже большое внимание уделяется объекту творчества и в
-связи с этим и проблемам техники. [Bakhtin 2, 373-4].
-
-Автор направлен на содержание (жизненную, т. е.  познавательно-этическую
-напряженность героя), его он формирует и завершает, используя для этого
-определенный материал, в нашем случае — словесный, подчиняя этот материал
-своему художественному заданию, т. е. заданию завершить данное
-познавательно-этическое напряжение. Исходя из этого, можно различать в
-художественном произведении или, точнее, в данном художественном задании три
-момента: содержание, материал, форма. Форма не может быть понята независимо от
-содержания, но не может быть независима и от природы материала и обусловленных
-ею приемов. Форма обусловлена данным содержанием, с одной, и особенностью
-материала и способами его обработки — с другой стороны. Чисто материальное
-художественное задание — технический эксперимент. Художественный прием не
-может быть только приемом обработки словесного материала (лингвистической
-данности слов), он должен быть прежде всего приемом обработки определенного
-содержания, но при этом — с помощью определенного материала. Наивно было бы
-представлять себе, что художнику нужен один только язык и знание приемов
-обращения с ним, а этот язык он получает именно как язык — не больше, т. е. от
-лингвиста (ибо только лингвист имеет дело с языком, как с языком); и этот язык
-и вдохновляет художника, и он выполняет на нем все возможные задания, не
-выходя за пределы его — как языка только, как-то: задание семасиологическое,
-фонетическое, синтаксическое и пр. Действительно, язык обрабатывает художник,
-но не как язык, как язык он его преодолевает, ибо он не должен восприниматься
-— как язык в его лингвистической определенности[412] (морфологической,
-синтаксической, лексикологической и пр.), и лишь постольку он становится
-средством художественного выражения. (Слово должно перестать ощущаться как
-слово). Поэт творит не в мире языка, языком он лишь пользуется [bakhtin 1,
-249]. 
-
-In this, Shklovsky held combinatorial innovation at a premium. The device
-seems to be simply any trope capable of disrupting habituated experience.
-Depending on their arrangement, conventional tropes like synecdoche,
-parallelism, and metaphor are capable of producing the effect of either poetic
-estrangement or prosaic commonplace.
+In the 1920s, reflecting critically on Shklovsky's "materialist aesthetics"
+Mikhail Bakhtin would write that the formal model of aesthetic genre formation
+is at least capable of establishing a "chronological table of variance in the
+evolution of technical devices, because "in isolation technique cannot have a
+history" [@bakhtin_k_2003, 270-1]. Bakhtin was however careful not to reduce
+technique to the questions of "material arrangement" alone. He wrote, "I am
+quite ready to join in the sentiment that 'in art technique is all,' provided
+we understand that the aesthetic object cannot exist independent of the
+artistic work." For Bakhtin, the work existed neither in the mind nor in the
+arrangement of matter [@bakhtin_k_2003, 308-10]. The idea of technique
+therefore could not be reduced to formal manipulation, independent of the
+aesthetic object. "In art, technique is not mechanistic," he wrote. "Technique
+animates and motivates the aesthetic object at every point" [@bakhtin_k_2003,
+310]. In this equation between the work of art as an idea and an object,
+Bakhtin approximates the following formula: "the audience is equivalent to the
+creator, minus technique." The audience thus recreates the creative process of
+the making of the work of art, without quite grasping the material necessities
+of creation. Alternatively, the author "equals the audience plus technique"
+[@bakhtin_k_2003, 373-4]. For Bakhtin, technique serves as the "method of
+processing content through material" [@bakhtin_k_2003, 249]. The ultimate goal
+of poetics is therefore for Bakhtin the understanding of the work of art as a
+"technical apparatus of aesthetic creation," a movement, in other words,
+between the work of art as an idea and object of art as a thing
+[@bakhtin_k_2003, 275].
 
 Even as formal analysis skirted the idea of a materialist poetics, the
 formalists stopped short of encountering the trope as a thing. For this
