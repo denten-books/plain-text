@@ -359,18 +359,22 @@ of creation. Alternatively, the author "equals the audience plus technique"
 processing content through material" [@bakhtin_k_2003, 249]. The ultimate goal
 of poetics is therefore for Bakhtin the understanding of the work of art as a
 "technical apparatus of aesthetic creation," a movement, in other words,
-between the work of art as an idea and object of art as a thing
+between the work of art as an idea and the object of art as a thing
 [@bakhtin_k_2003, 275].
 
-Even as formal analysis skirted the idea of a materialist poetics, the
-formalists stopped short of encountering the trope as a thing. For this
-reason, it is interesting to consider Nabokov's recursive meta-poetics as a
+But even as formal analysis skirted the idea of a materialist
+poetics---Bakhtin calls it "primitive" and "reductive" for this
+inclination---the formalists stopped short of including the physical
+properties of inscription into literary analysis. The "matter" of poetics was
+nevertheless limited to the rather abstract notion of language, which still
+seemed to exist independently of its physical manifestations. With this in
+mind, it is interesting to consider Nabokov's recursive meta-poetics as a
 logical apogee of the formalist program. Nabokov's pipes and surface
 inscriptions protrude through the diegetic limits of the fictional world,
 pointing to the book as an object. The nesting doll structure of literary
 instrumentation ends at the book. Nabokov's prose reveals the surface of the
 page as the outer-most literary device containing all other literary devices.
-Despite its materialist ambitions, formal literary analysis can only gesture
+Despite its materialist ambitions, formal literary analysis only gestures
 towards the object. Technique remains an intra-textual procedure. The material
 affordances of the literary object are not seen as participating in the
 dynamics of meaning making. The book itself recedes from view. In his
@@ -383,15 +387,16 @@ a formalist of sorts, would write echoing his Soviet colleagues:
 > book steady and motionless before us so that we may have time to examine its
 > shape and design [@lubbock_craft_1921, 1].
 
-Make note of the object-oriented vocabulary that does note quite refer to the
-object. When Lubbock uses words like form, book, shape, design or when he
-refers to "grasping," "holding," and "keeping the book motionless," he means
-it all metaphorically as in holding, grasping, and keeping the book before the
-mind's eye. He means the book continually escapes the reader's mental grasp.
-Our ability to understand the novel as a form is hampered by our unfamiliarity
-with its "technical aspects," Lubbock writes [@lubbock_craft_1921, 272]. Other
-more plastic art forms like sculpture or painting can be grasped at once, in
-their entirety. They exist at a time and at a place limited to their physical
+Make note of the object-oriented vocabulary in the above passage that does
+note quite refer to the object. When Lubbock uses words like "form," "book,"
+"shape," and "design" or when he refers to "grasping," "holding," and "keeping
+the book motionless," he seem to refer to these concepts metaphorically as in
+holding, grasping, and keeping the book before the mind's eye. The book
+continually escapes the reader's mental not physical grasp. Our ability to
+understand the novel as a form is hampered by our unfamiliarity with its
+"technical aspects," Lubbock writes [@lubbock_craft_1921, 272]. Other more
+plastic art forms like sculpture or painting can be grasped at once, in their
+entirety. They exist at a time and at a place limited to their physical
 dimensions. By contrast, the narrative unfolds in time. The novel must be
 assembled before the mind's eye to present itself for analysis in its
 entirety. Elements of composition unfold in time outside of the novel's
@@ -438,18 +443,18 @@ writes. If only it could be "weighed like a statue" or "measured like a
 picture, it would be a support in the world of shadows [@lubbock_craft_1921,
 273-4].
 
-Walter Benjamin, writing in the 1930s, was one of the first to define the
-notion of literary technique in a way that would connect it to a truly
-materialist poetics. The work of art for Benjamin does not and cannot exist in
-the mode of a "rigid, isolated object." Rather, "it must be inserted into the
-context of living social relations," and therefore, into the context
-determined by its relation to literary production [@benjamin_author_1983, 87].
-Authorship identifies a specific mode of production. The question of formal,
-intra-textual figurative arrangements within the work of art thus cannot be
-considered apart from their extra-textual material contexts. Technique for
-Benjamin is what makes literary products "accessible" to materialist analysis;
-technique itself is, in his view, a relationship to production
-[@benjamin_author_1983, 87].
+Like Bakhtin and Lubbock before him, Walter Benjamin similarly develops a
+notion of technique as a process that bridges immanence and transcendence: the
+work of art as an idea and a thing. The work of art for Benjamin does not and
+cannot exist in the mode of a "rigid, isolated object." Rather, "it must be
+inserted into the context of living social relations," and therefore, into the
+context determined by its relation to literary production
+[@benjamin_author_1983, 87]. Authorship identifies a specific mode of
+production. The question of formal, intra-textual figurative arrangements
+within the work of art thus cannot be considered apart from their
+extra-textual material contexts. Technique for Benjamin is what makes literary
+products "accessible" to materialist analysis; technique itself is, in his
+view, a relationship to production [@benjamin_author_1983, 87].
 
 In making the characteristically Marxist move towards production, Benjamin
 attempts to bridge what he calls the "sterile dichotomy" between form and
@@ -461,10 +466,10 @@ and the industry to the more general arrangements of labor and capital. In
 this way the *idea* of citizen reporters, to take a Soviet example that he
 uses, has the potential to democratize journalism. But, as long as the
 production of newspapers is outside of the writer's immediate control, citizen
-journalism is bound to remain, *in practice*, "an article of consumption."
-Forces of capital ultimately transform the potential for any meaningful
-political struggle brought about by the new narrative technique into mere
-comfortable contemplation, a technically perfect object of enjoyment
+journalism is bound to remain, *in practice*, "an article of consumption." In
+capitalist societies forces of capital ultimately transform the potential for
+any meaningful political struggle brought about by the new narrative technique
+into mere comfortable contemplation, a technically perfect object of enjoyment
 [@benjamin_author_1983].
 
 It seems not possible then for poetic form to evolve without the corresponding
@@ -486,7 +491,7 @@ to expose the uncomfortable truths about the human condition
 In traditional Marxist terms, the dilemma of robotics---automated machinery of
 thought and war---rests on an understanding of production as it relates to its
 cognates: authorship, technique, craft, poiesis. Even in those cases when
-authors write freely, without duress, they do not chose their instruments.
+authors write freely, without duress, they do not choose their instruments.
 Readers also determine the contexts of their own meaning making only in part.
 "The means of production do not depend on the free will," Marx wrote
 [@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It is not enough
@@ -494,28 +499,23 @@ therefore to be an independent supplier of commodities, a free agent. One must
 also be free to develop new *ways of producing*. The liberated writer must
 transform, in Benjamin's words, from the "supplier" of technique into an
 "engineer," able to adapt the literary apparatus towards one's own ends
-[@benjamin_author_1983, 102].
-
-
-At this point, it becomes productive to connect the idea of literary technique
-to the notion of technics, as developed in the intellectual lineage of Marxist
-sociology and anthropology, and, later, in media theory and in science and
-technology studies. I differentiate between the two terms orthographically
-purely as a matter of convenience to identify parallel ideas, developed in
-different fields but arriving at similar conclusions. The very notion of
-technique and technics brings to mind at least these three distinct
-contemporary scholarly traditions: literary analysis, through the notion of
-technique in formalist criticism; Germanophone media theory through the
-concept of *Kulturtechniken* in the work of scholars Friedrich Kittler,
-Bernhard Siegert, and Cornelia Vismann; and finally the American school of
-science and technology studies as exemplified by the work of Lewis Mumford and
-Langdon Winner.
-
-Like Benjamin's technique, technics---the patterns of
-making---are a given. They exist a priori, embodied by received technology.
-Langdon Winner, whose
+[@benjamin_author_1983, 102]. At stake as always in materialist poetics is the
+self-determination of the subject. Technique liberates literature from
+individual genius, but in doing so it also enters the commons, beyond the
+reach of the individual. Following this logic, formalist poetics necessitate a
+kind of a structuralism, which proceeds in search of universal constructs like
+Vladimir Propp's narrative folk motifs or the universal grammar of Noam
+Chomsky. These rule-based structures exist in the space previously occupied in
+the space of the Hegelian world spirit, a kind of a worldly meta-consciousness
+that seems to develop by its own laws and logic.
 
 ### 2.2 Thought Experiment
+
+These are broad strokes towards a history of the literary device. Our concern
+is however with literary
+
+At this point, it becomes productive to examine the idea of literary device
+and technique
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
