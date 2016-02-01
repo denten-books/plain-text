@@ -511,11 +511,15 @@ that seems to develop by its own laws and logic.
 
 ### 2.2 Thought Experiment
 
-These are broad strokes towards a history of the literary device. Our concern
-is however with literary
+These are broad strokes towards the intellectual history of the literary
+device. Our concern is however with literary devices as they exist today,
+precisely within the confusion between symbol and thing. At this point, it
+becomes productive therefore to examine the history of modern computing not
+within its usual lineage of computing machinery, but in relation to this
+broader history of 
 
-At this point, it becomes productive to examine the idea of literary device
-and technique
+symbolic manipulation. The modern computer derives in part
+from the same strange
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
