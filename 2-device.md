@@ -281,7 +281,15 @@ isolation. The origins of computer science and literary formalism stem from a
 set of shared ideas, theoretical models, and technological contingencies
 emerging at the turn of the twentieth century.
 
-In his "Art as Device," Shklovsky writes:
+The concept of technique removes literary production from its affective,
+intimate, and irreproducible contexts. The movement from art to craft implies
+primarily a change in the artist's relationship to the modes of artistic
+production. Where the artistic genius is unique, craft carries with it a model
+of inheritance. Where genius is born, technique is learned and shared. Where
+the artist labors alone, the craftsman learns a trade in a workshop, as part
+of a collective. In a more abstracted sense, we can view the turn to technique
+as an attempt to decouple language from its irreproducible and idiosyncratic
+frames of reference. In his "Art as Device," Shklovsky writes:
 
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
@@ -289,19 +297,114 @@ In his "Art as Device," Shklovsky writes:
 > figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
 > 102].
 
-Responding to a previous generation of symbolist poets who placed emphasis on
-the creation of new tropes, Shklovsky and his fellow travellers privileged the
-innovative "arrangement and the processing" of language material. The
-formalists did not want to reduce poetics to a type of figurative, symbolic
-thinking. Instead, they understood art in terms of device and technique rather
-than in terms of meaning or content, as it was for the symbolists. For them,
-to write literature meant not merely to speak in figurative language, but to
-invent new linguistic forms capable of cutting across prosaic and habituated
-norms of speaking [@shklovksy_poetika_1919, 103]. In this, Shklovsky held
-combinatorial innovation at a premium. The device seems to be simply any trope
-capable of disrupting habituated experience. Depending on their arrangement,
-conventional tropes like synecdoche, parallelism, and metaphor are capable of
-producing the effect of either poetic estrangement or prosaic commonplace.
+The formalists did not think that poetics could be reduced to a type of
+figurative thinking. Shklovsky and his fellow valued instead the "arrangement
+and the processing" of literary trope. This line of reasoning brings Shklovsky
+to the idea of linguistic "automatization." Prosaic, everyday language follows
+the "laws of conservation of energy," he writes quoting Herbert Spencer. "In
+fluid, practical speech words are not pronounced fully. The mind barely
+perceives the initial sounds of each word," he writes calling this dynamic the
+"algebraization of language" [@shklovksy_poetika_1919, 105]. In algebraic
+thinking "thoughts are grasped through number and space---we do not see them
+as such, but merely recognize them by cursory characteristics"
+[@shklovksy_poetika_1919, 105]. The dynamics of automatization conserve mental
+energy as semantic complexity is reduced to a compact formula. The primary
+technique of aesthetic discourse is therefore the de-automatization of
+received trope. The role of art and analysis alike is to apprehend the thing,
+that is to undo the work of symbolism. Estrangement arrests the algebraic
+normalization of language. Thus were prosaic, everyday language follows the
+laws of conservation of energy, poetic language expands energy to make
+language difficult again [*zatrudnenie*] and to prolong attention
+[*vospriiatie*]. If language is a labor-saving device, poetic language is a
+device for labor-expansion.
+
+Any innovation in the linguistic sphere is thus bound follow the cycle of
+renewal and decay. With time, a literary device capable of arresting attention
+itself becomes habituated and in need of renewal. The periodization of
+aesthetic genres thus follows a cycle of arbitrary differentiation and is seen
+by the formalists as a type of information processing at the meta-linguistic
+level. Reflecting on Shklovsky's poetics in the 1920s, Mikhail Bakhtin would
+write that "material aesthetics, which isolate in culture n
+
+Материальная эстетика, изолирующая в культуре не только искусство,
+но и отдельные искусства и берущая произведение не в его художественной жизни,
+а как вещь, как организованный материал, в лучшем случае способна обосновать
+лишь хронологическую таблицу изменений приемов техники данного искусства, ибо
+изолированная техника вообще не может иметь историю.  [Bakthin 1, 280-1]
+
+Отсюда отнюдь не следует, что в эстетике изучение материальной структуры
+произведения, как чисто технической, должно занять скромное место. Значение
+материальных исследований в специальной эстетике чрезвычайно велико, так же
+велико, как и значение материального произведения и его созидания для
+художника и для эстетического созерцания. Мы вполне можем присоединиться к
+утверждению: «техника в искусстве все», понимая его в том смысле, что
+эстетический объект осуществляется только путем создания материального
+произведения (эстетическое видение вне искусства потому и гибридно, что здесь
+недостижима сколько-нибудь совершенная организация материала, например, — при
+созерцании природы); до этого создания и независимо от него он не существует,
+он осуществляется впервые вместе с произведением[564].
+
+Не нужно придавать слову «техника» в применении к художественному творчеству
+какое-то одиозное значение: техника здесь не может и не должна отрываться от
+эстетического объекта, им она оживлена и движима во всех своих моментах,
+поэтому в художественном творчестве техника отнюдь не механистична,
+механистической она может представиться лишь в дурном эстетическом
+исследовании, которое теряет эстетический объект, делает технику самодовлеющей
+и отрывает ее от цели и смысла. В противовес подобным исследованиям и должно
+подчеркивать служебный характер материальной организации произведения, ее
+чисто технический характер не для того, чтобы принизить ее, а наоборот, чтобы
+осмыслить и оживить [Bakhtin 1, 310].
+
+Вопрос об отношениях между созерцателем и творцом впервые поставили не
+лефисты. Он стар, как мир, и не может быть выражен в одной формуле; для
+каждого направления она особая. Но приблизительно можно сказать так:
+созерцатель равен творцу минус техника. Компетентный созерцатель стремится
+сотворить в себе авторский процесс за исключением технического процесса,
+который для эстетической оценки ему воспроизводить не обязательно. Так что
+общая формула отношений между творцом и созерцателем это: творец равен
+созерцателю плюс техника{314}. Техника — понятие, имеющее то более широкое, то
+более узкое значение в зависимости от рода искусства. Так, в архитектуре
+технический процесс громаден. Как художник архитектор создает лишь план, а
+затем он действует как инженер. В поэзии, напротив, техника почти ничтожна.
+Так что в различных искусствах техника принимает разные величины. Кроме того,
+характер отдельного искусства зависит от постановлений школы, к которой оно
+примыкает. В XIX веке эстетика преимущественно ориентировалась на созерцателя,
+и потому мы не найдем в ней приемов подхода к техническим моментам. Но в конце
+XIX и начале XX столетий уже большое внимание уделяется объекту творчества и в
+связи с этим и проблемам техники. [Bakhtin 2, 373-4].
+
+Автор направлен на содержание (жизненную, т. е.  познавательно-этическую
+напряженность героя), его он формирует и завершает, используя для этого
+определенный материал, в нашем случае — словесный, подчиняя этот материал
+своему художественному заданию, т. е. заданию завершить данное
+познавательно-этическое напряжение. Исходя из этого, можно различать в
+художественном произведении или, точнее, в данном художественном задании три
+момента: содержание, материал, форма. Форма не может быть понята независимо от
+содержания, но не может быть независима и от природы материала и обусловленных
+ею приемов. Форма обусловлена данным содержанием, с одной, и особенностью
+материала и способами его обработки — с другой стороны. Чисто материальное
+художественное задание — технический эксперимент. Художественный прием не
+может быть только приемом обработки словесного материала (лингвистической
+данности слов), он должен быть прежде всего приемом обработки определенного
+содержания, но при этом — с помощью определенного материала. Наивно было бы
+представлять себе, что художнику нужен один только язык и знание приемов
+обращения с ним, а этот язык он получает именно как язык — не больше, т. е. от
+лингвиста (ибо только лингвист имеет дело с языком, как с языком); и этот язык
+и вдохновляет художника, и он выполняет на нем все возможные задания, не
+выходя за пределы его — как языка только, как-то: задание семасиологическое,
+фонетическое, синтаксическое и пр. Действительно, язык обрабатывает художник,
+но не как язык, как язык он его преодолевает, ибо он не должен восприниматься
+— как язык в его лингвистической определенности[412] (морфологической,
+синтаксической, лексикологической и пр.), и лишь постольку он становится
+средством художественного выражения. (Слово должно перестать ощущаться как
+слово). Поэт творит не в мире языка, языком он лишь пользуется [bakhtin 1,
+249]. 
+
+In this, Shklovsky held combinatorial innovation at a premium. The device
+seems to be simply any trope capable of disrupting habituated experience.
+Depending on their arrangement, conventional tropes like synecdoche,
+parallelism, and metaphor are capable of producing the effect of either poetic
+estrangement or prosaic commonplace.
 
 Even as formal analysis skirted the idea of a materialist poetics, the
 formalists stopped short of encountering the trope as a thing. For this
@@ -437,79 +540,6 @@ transform, in Benjamin's words, from the "supplier" of technique into an
 "engineer," able to adapt the literary apparatus towards one's own ends
 [@benjamin_author_1983, 102].
 
-Материальная эстетика, изолирующая в культуре не только искусство,
-но и отдельные искусства и берущая произведение не в его художественной жизни,
-а как вещь, как организованный материал, в лучшем случае способна обосновать
-лишь хронологическую таблицу изменений приемов техники данного искусства, ибо
-изолированная техника вообще не может иметь историю.  [Bakthin 1, 280-1]
-
-Отсюда отнюдь не следует, что в эстетике изучение материальной структуры
-произведения, как чисто технической, должно занять скромное место. Значение
-материальных исследований в специальной эстетике чрезвычайно велико, так же
-велико, как и значение материального произведения и его созидания для
-художника и для эстетического созерцания. Мы вполне можем присоединиться к
-утверждению: «техника в искусстве все», понимая его в том смысле, что
-эстетический объект осуществляется только путем создания материального
-произведения (эстетическое видение вне искусства потому и гибридно, что здесь
-недостижима сколько-нибудь совершенная организация материала, например, — при
-созерцании природы); до этого создания и независимо от него он не существует,
-он осуществляется впервые вместе с произведением[564].
-
-Не нужно придавать слову «техника» в применении к художественному творчеству
-какое-то одиозное значение: техника здесь не может и не должна отрываться от
-эстетического объекта, им она оживлена и движима во всех своих моментах,
-поэтому в художественном творчестве техника отнюдь не механистична,
-механистической она может представиться лишь в дурном эстетическом
-исследовании, которое теряет эстетический объект, делает технику самодовлеющей
-и отрывает ее от цели и смысла. В противовес подобным исследованиям и должно
-подчеркивать служебный характер материальной организации произведения, ее
-чисто технический характер не для того, чтобы принизить ее, а наоборот, чтобы
-осмыслить и оживить [Bakhtin 1, 310].
-
-Вопрос об отношениях между созерцателем и творцом впервые поставили не
-лефисты. Он стар, как мир, и не может быть выражен в одной формуле; для
-каждого направления она особая. Но приблизительно можно сказать так:
-созерцатель равен творцу минус техника. Компетентный созерцатель стремится
-сотворить в себе авторский процесс за исключением технического процесса,
-который для эстетической оценки ему воспроизводить не обязательно. Так что
-общая формула отношений между творцом и созерцателем это: творец равен
-созерцателю плюс техника{314}. Техника — понятие, имеющее то более широкое, то
-более узкое значение в зависимости от рода искусства. Так, в архитектуре
-технический процесс громаден. Как художник архитектор создает лишь план, а
-затем он действует как инженер. В поэзии, напротив, техника почти ничтожна.
-Так что в различных искусствах техника принимает разные величины. Кроме того,
-характер отдельного искусства зависит от постановлений школы, к которой оно
-примыкает. В XIX веке эстетика преимущественно ориентировалась на созерцателя,
-и потому мы не найдем в ней приемов подхода к техническим моментам. Но в конце
-XIX и начале XX столетий уже большое внимание уделяется объекту творчества и в
-связи с этим и проблемам техники. [Bakhtin 2, 373-4].
-
-Автор направлен на содержание (жизненную, т. е.  познавательно-этическую
-напряженность героя), его он формирует и завершает, используя для этого
-определенный материал, в нашем случае — словесный, подчиняя этот материал
-своему художественному заданию, т. е. заданию завершить данное
-познавательно-этическое напряжение. Исходя из этого, можно различать в
-художественном произведении или, точнее, в данном художественном задании три
-момента: содержание, материал, форма. Форма не может быть понята независимо от
-содержания, но не может быть независима и от природы материала и обусловленных
-ею приемов. Форма обусловлена данным содержанием, с одной, и особенностью
-материала и способами его обработки — с другой стороны. Чисто материальное
-художественное задание — технический эксперимент. Художественный прием не
-может быть только приемом обработки словесного материала (лингвистической
-данности слов), он должен быть прежде всего приемом обработки определенного
-содержания, но при этом — с помощью определенного материала. Наивно было бы
-представлять себе, что художнику нужен один только язык и знание приемов
-обращения с ним, а этот язык он получает именно как язык — не больше, т. е. от
-лингвиста (ибо только лингвист имеет дело с языком, как с языком); и этот язык
-и вдохновляет художника, и он выполняет на нем все возможные задания, не
-выходя за пределы его — как языка только, как-то: задание семасиологическое,
-фонетическое, синтаксическое и пр. Действительно, язык обрабатывает художник,
-но не как язык, как язык он его преодолевает, ибо он не должен восприниматься
-— как язык в его лингвистической определенности[412] (морфологической,
-синтаксической, лексикологической и пр.), и лишь постольку он становится
-средством художественного выражения. (Слово должно перестать ощущаться как
-слово). Поэт творит не в мире языка, языком он лишь пользуется [bakhtin 1,
-249]. 
 
 At this point, it becomes productive to connect the idea of literary technique
 to the notion of technics, as developed in the intellectual lineage of Marxist
