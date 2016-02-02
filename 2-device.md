@@ -516,20 +516,19 @@ bring us to literary devices as they exist today, precisely within the
 confusion between symbol and thing. At this point, it becomes productive
 therefore to examine the history of modern computing not within its usual
 lineage of calculating machinery, but in relation to this broader history of
-symbolic manipulation. The modern computer---and by extension the electronic
-book---harkens back to a cluster of related thought experiments, one strain of
-which stems from the philosophy of Ludwig Wittgenstein and subsequently to the
-ideas of Alan Turing, his long-time student and colleague. The story of Turing
-machines has been told before, in many guises, but never with an eye towards
-literary machines that nevertheless occupy central place in the early
-development of modern computing.
+symbolism which encompasses both poetic and computational devices. The modern
+computer---and by extension the electronic book---harkens back to a cluster of
+related thought experiments, one strain of which stems from the philosophy of
+Ludwig Wittgenstein and subsequently to the ideas of Alan Turing, his
+long-time student and colleague. The story of Turing machines has been told
+before in many guises, but never with an eye towards literary machines that
+nevertheless occupy a central place in the early development of modern
+computing.
 
 To confront the computer as a *literary* device, optimized for symbolic
 exchange, one must first understand its peculiar relationship to universal
-Turing machines. And to understand the history of Turing machines, it is best
-we view them in a wider cultural context, beyond the mathematical literature
-where they were first introduced. I would like to take some time now to draw
-two as yet unexplored lineages that lead to Turing's seminal essay on
+Turing machines. I would like to take some time now to draw two further as yet
+unexplored historical lineages that lead to Turing's seminal essay on
 computable numbers: the first intellectual, stemming back to his tutelage
 under Ludwig Wittgenstein, and the second material, highlighting the physical
 similarities between Turing's design and a number of concomitant developments
@@ -550,23 +549,30 @@ meaning-making in art and culture.
 In his seminal 1936 paper on computable numbers, Alan Turing, then a student
 at King's College, proposed a peculiar thought experiment to appear on the
 pages of mathematical journal. The experiment addressed a problem in the field
-of elementary number theory. But the problem turned out to be less important
-than the general shape of the solution.[^ln1-anticipate] Turing imagined a
-mechanism that solves a theoretical problem. His solution thus touched upon
-not just the theory of mathematics, but on the *action* of symbolic thought in
-the world.  His imagined machine could read, write, and in some sense,
-understand symbols.  In other words, it was able to transition from some form
-of representational, external shape of the symbol into the corresponding
-non-representational internal state of the mechanism. The outlines of that
-mechanism will come into focus in his section.[^ln1-turingcog]
+of elementary number theory [^ln1-anticipate]. His solution involved more than
+a formula. Instead, he imagined a machine that would in some real sense take
+place of the calculation. Ultimately, Turing described a device that was meant
+to *embody* symbolic information: it transformed external abstractions into
+physical states, internal to the device. In doing so, this imagined machine
+breached the boundary between idea and matter. It was exactly an instrument
+for transforming ideas into shapes: the very process at the heart of
+materialist aesthetics. In this sense, Turing's hypothetical machine
+represents the conclusion of a long-standing thought experiment concerning the
+nature of human understanding. It is posed already in Plato's *Phaedrus*, in
+by Descartes, by Locke, and by Wittgenstein, whose talks Turing attended in
+Cambridge in the 1930s.
 
-Let us be clear about one point at the outset: Turing did not "invent" the
-computer. Rather I see his hypothetical machine as the culmination of a
-long-standing thought experiment concerning the nature of interpretation,
-passed to him through Wittgenstein's lectures. It presents a minimally viable
-blueprint for a class of already existing devices, used for communication and
-control. Turing's minimally viable schematics gave a succinct formula to what
-we now call simply "programming" and "computers."
+The question of understanding echoes through the canon of Western
+philosophical tradition. What does it mean to read and to understand
+something? Is it enough to repeat the words of another? Would a child
+following a script
+
+The question that the machine addresses concerns broadly the nature understand
+
+Wittgenstein's lectures.  It
+presents a minimally viable blueprint for a class of already existing devices,
+used for communication and control.  Turing's minimally viable schematics gave
+a succinct formula to what we now call simply "programming" and "computers."
 
 Consider the essence of programming devices as a practice related to the
 general deferment of volition by symbolic means, as in "last will and

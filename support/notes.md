@@ -30,6 +30,7 @@ Michael
 Potential reviewers
 ===========================
 
+    John Durham Peters
     Matt Jones
     *Adriaan van der Weel
     Schnapp
