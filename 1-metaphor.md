@@ -1,15 +1,18 @@
 # Part I: Simulation
 ## Chapter 1: Metaphor Machines
 
-Reading Jean Baudrillard at the end of the century prior, I understood his
-writing on simulacra in relationship to ersatz entertainment: amusement parks,
-virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Metaphor machines---computers---
-mediate experience ubiquitously. They interject in simple everyday acts from
-drinking coffee in the morning, through brewing and payment systems, to going
-to bed as alarm clocks and night activity monitors.
+In the 1990s, I understood Jean Baudrillard's writing on simulacra in
+relationship to the media entertainment complex: amusement parks, virtual
+reality, reality television, and so on. Today his writing gains another layer
+of meaning related directly to the pervasiveness of personal computing.
+Computers, as I will argue in this chapter, do more than compute. They are
+metaphor machines that mediate experience ubiquitously. They interject in
+simple everyday acts from drinking coffee in the morning, through automatic
+brewing machines and payment systems, to going to bed as alarm clocks and
+night activity monitors.
 
-Baudrillard writes:
+Baudrillard writes about the "genesis of simulacra," which culminates
+precisely at the totalizing mediation of code:
 
 > At the limit of an always increasing elimination of references and
 > finalities, an ever-increasing loss of resemblances and designations, we
@@ -18,15 +21,23 @@ Baudrillard writes:
 > structure is that of a micromolecular code of command and control
 > [@baudrillard_selected_1988, 139-140].
 
-Somewhere between the sites of storage (what is) and projection (what appears
-to be), the computed sign undergoes a series of structural transformations.
-What starts out as a thought becomes a letter, a signal, a magnetic mark, a
-phase of the liquid crystal, and finally a ray of light. Programming languages
-guide thought through a series of transformations in the passage between
-bodies, screens, and archives. Languages, natural and artificial, break
-thought up into differentiated units. Simulation arises in the reassembly of
-such units back into a continuous integrated whole. Texts made of discrete
-pixels congeal into holistic literary works.
+My concern here is with the structure of the programmatic sign, which splits
+its energies between the screen and hard drive. On the screen, at the site of
+projection, the programmatic sign simulates familiar materialities: buttons,
+wood grain, paper, s
+
+command and control without the appearance of governance. 
+
+The programmatic
+sign splits between the sites of the sites of storage (what is) and projection
+(what appears to be), the programmatic sign undergoes a series of structural
+transformations.  What starts out as a thought becomes a letter, a signal, a
+magnetic mark, a phase of the liquid crystal, and finally a ray of light.
+Programming languages guide thought through a series of transformations in the
+passage between bodies, screens, and archives.  Languages, natural and
+artificial, break thought up into differentiated units.  Simulation arises in
+the reassembly of such units back into a continuous integrated whole. Texts
+made of discrete pixels congeal into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
