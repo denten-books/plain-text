@@ -233,7 +233,7 @@ his influential volume on *Autonomous Technology* in 1978
 
 ![Relative occurrence of the words "technology," "technique," and "machine" in
 the Google Books ngram corpus
-[@michel_quantitative_2011].](images/technology-chart.png)
+[@michel_quantitative_2011].](images/technology_chart.png)
 
 Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. The
@@ -562,7 +562,7 @@ composition device, by which a composer not versed in music would combine
 predetermined musical phrases written on wooden planks to compose a score.
 
 ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
-[@kircher_musurgia_1999, 184].](images/musical-box.jpg)
+[@kircher_musurgia_1999, 184].](images/music-box.jpg)
 
 In correspondence with Kircher, the German Baroque poet Quirinus Kuhlman
 argued that using such an instrument to compose music or poetry would amount
