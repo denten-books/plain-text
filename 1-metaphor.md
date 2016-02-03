@@ -4,7 +4,7 @@
 Reading Jean Baudrillard at the end of the century prior, I understood his
 writing on simulacra in relationship to ersatz entertainment: amusement parks,
 virtual reality, reality television, and the like. I am only now beginning to
-comprehend the extent of the simulation. Computational metaphor machines
+comprehend the extent of the simulation. Metaphor machines---computers---
 mediate experience ubiquitously. They interject in simple everyday acts from
 drinking coffee in the morning, through brewing and payment systems, to going
 to bed as alarm clocks and night activity monitors.
@@ -24,21 +24,28 @@ What starts out as a thought becomes a letter, a signal, a magnetic mark, a
 phase of the liquid crystal, and finally a ray of light. Programming languages
 guide thought through a series of transformations in the passage between
 bodies, screens, and archives. Languages, natural and artificial, break
-thought up into differentiated units. Simulation reassembles the units back
-into a continuous integrated whole. Texts made of discrete pixels congeal into
-holistic literary works.
+thought up into differentiated units. Simulation arises in the reassembly of
+such units back into a continuous integrated whole. Texts made of discrete
+pixels congeal into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
 [@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
-function lies the essence of formatting. But before we can begin to peel apart
-layers of form, formatting, and formula in the next chapters, we must discover
-the metaphor at the heart of computation.  Computational metaphors occlude the
-incongruence between visible representation and the underlying material
-affordances of the medium. What you see is not always what you get. We are
-instead confronted with a composite image, which under examination reveals a
-complex process of transfiguration between the visible sign and the sign at
-the site of the inscription.
+function lies the essence of programming. Code shapes and commands. But at the
+same time it conjures fantastical metaphors to occlude the structure of
+shaping and commanding. Simulation obscures the incongruence between visible
+representation and the underlying material affordances of the medium. What you
+see is not always what you get. We are instead confronted with a composite
+image, which under examination reveals a complex process of transfiguration
+between the visible sign and the sign at the site of the inscription. We
+observe a book, where we should also observe an attempt to sensor and surveil.
+The programmatic sign creates a simulacrum that no longer bares a resemblance
+to the material substratum. We believe we are handling a book. Our ideas about
+reading and interpretation rely on that initial physical point of contact. But
+in reading electronically, we are handling something other than print
+material. These reading machines participate actively in the mechanisms of
+meaning formation. They interject all the meanwhile striving to obscure the
+interjection.
 
 To understand the "loss of resemblances" in the process of simulation, imagine
 communicating by telegraph in two different languages with a friend.
@@ -58,12 +65,12 @@ programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At the
-maximally blunt limit of its abilities, the formatting layer affects
+dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
+the maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide text from view
 completely or to make it so small as to be illegible affects not just the
-style but the politics of text. Formatting, in that sense, can determine its
+style but the politics of text. Code, in that sense, can determine its
 audience, privileging certain voices and modes of access over others.
 
 Unlike figurative language, machine control languages function in the
@@ -118,8 +125,8 @@ inscribed onto yet other recondite planes of inscription. A byte, made up of
 eight binary bits, holds a letter. The string of letters spelling out "hello
 world" occupies eleven bytes, if you count the space. A file in the Portable
 Document Format (`.pdf`) containing nothing but "hello world" takes up 24,335
-bytes on my system. Formatting accounts for the disparity between plain text
-and fancy text, the latter defined as "text representation consisting of plain
+bytes on my system. Encoding accounts for the disparity between plain text and
+fancy text, the latter defined as "text representation consisting of plain
 text plus added information" [@unicode_consortium_unicode_1990]. What is the
 nature of this "added information?"
 
@@ -165,14 +172,16 @@ inscription---information stored in the machine. As Alexander Galloway wrote
 in *The Interface Effect*, the nature of the interface stems from the
 incompatibility between incommensurate systems [@galloway_interface_2012,
 viii]. The interface is also a metaphor that transports structure from one
-entity to the other, at the point of contact between human and machine. In
-this chapter, we will begin to unpack the interface metaphor.
+entity to the other, at the point of contact between human and machine. Our
+goal in this chapter, is to unpack the interface metaphor. We must begin to
+separate the resemblance from the designation: the apparent shape from a
+command in the imperative.
 
 ### 1.1 Intro to Interface Metaphor
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
 that we have been discussing so far go under the name of *structural
-metaphors*.  "Structural metaphors allow us to do much more than just orient
+metaphors*. "Structural metaphors allow us to do much more than just orient
 concepts," Lakoff and Johnson wrote [@lakoff_metaphors_1980, 61]. Grounded in
 "systematic correlations within our experience," they transfer organizing
 principles from one domain to another. Thus to say something like "time is
