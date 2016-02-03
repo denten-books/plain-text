@@ -842,7 +842,7 @@ concentrate on the mediating layer that describes the rules of engagement.
 
 ### 2.3 Thought Experiment II
 
-Turing met Wittgenstein's at King's College sometime in the 1930s. Although
+Turing met Wittgenstein at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
 Wittgenstein's lectures on the foundation of mathematics in 1939
 [@wittgenstein_wittgensteins_1976, 7], both men's work exhibits sustained
@@ -869,7 +869,7 @@ that there was something behind our symbols"
 imagined to be a description of a mechanism---even the rule which says a pawn
 must not be moved in a certain way," Wittgenstein writes
 [@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
-subsequently exist in a causal relationship to one another.  Pushing this or
+subsequently exist in a causal relationship to one another. Pushing this or
 that lever will *always* result in such and such movement, because of the way
 the mechanical parts are connected. We say that the mechanism is rigid or the
 law is inexorable, when the results of an action are absolutely fixed.
@@ -882,23 +882,24 @@ mechanism, also at the core of meaning making in mathematics. "If I show you
 the mechanism behind the [watch] dial, you will be able to predict the
 movement of the hour hand for any given movement of the minute hand,"
 Wittgenstein writes. "And you will not be sceptical." Yet even there, we would
-be making an assumption about a mechanism that functions well. "For instance,
-I may drop the clock" Wittgenstein explains, "so that the machinery is broken,
-or a lighting may strike it [@wittgenstein_wittgensteins_1976, 195]. How are
-we to know if the mechanism functions properly or not? For that we would need
-"a picture" or some sort of schematics that describe what the proper mechanism
-should look like. The mechanism is in fact itself a type of a symbol for the
-perfected behavior of the sort that we expect. Where we tried to find the
-mechanism behind the symbol, we found also the symbol behind the mechanism.
-Once again we encounter the spiral of interpretation between intent and
-effect, which never quite manage to explain each other.
+be making an assumption about a mechanism that *functions well*. "For
+instance, I may drop the clock" Wittgenstein explains, "so that the machinery
+is broken, or a lighting may strike it [@wittgenstein_wittgensteins_1976,
+195]. How are we to know if the mechanism functions properly or not? For that
+we would need "a picture" or some sort of schematics that describe what the
+proper mechanism should look like. The mechanism is in fact itself a type of a
+symbol for the perfected behavior of the sort that we expect. Where we tried
+to find the mechanism behind the symbol, we found also the symbol behind the
+mechanism. Once again we struggle to complete the circuit of interpretation
+between intent and effect, which never quite manage to explain and to verify
+each other.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
-recursive conundrum. The foundations of mathematics rely on some such mutually
-dependent relationship between the physical and the symbolic worlds. Whether
-it is in math or in ordinary language, some magic happens at the coupling of
-the matter and sign. The precise point of contact concerns Wittgenstein in all
-fields of human activity, from literature to psychology and mathematics.
+conundrum. The foundations of mathematics rely on some such mutually dependent
+relationship between the physical and the symbolic worlds. Whether it is in
+math or in ordinary language, some magic happens at the coupling of the matter
+and sign. The precise point of contact concerns Wittgenstein in all fields of
+human activity, from literature to psychology and mathematics.
 
 In all of these fields, Wittgenstein finds an implicit analogy between
 "symbol" and "mechanism." A type of metaphor, the analogy itself is atomic. It
@@ -910,14 +911,15 @@ and its trace" [@wittgenstein_lectures_1966, 16]. In giving an account of
 one's aesthetic judgment, the best we can do is to "trace a mechanism"
 [@wittgenstein_lectures_1966, 13].
 
-It would be a mistake to reduce Wittgenstein's semiotics to the mechanical
-theory of the mind. Rather, in presenting his students and readers with a
-number of hypothetical machines, Wittgenstein attempts to discover the rule
-book of what he later calls the language game---or at lest to suggest that
+It would be a mistake however to reduce Wittgenstein's semiotics to the
+mechanical theory of the mind. Rather, in presenting his students and readers
+with a number of hypothetical machines, Wittgenstein attempts to discover the
+"rule book" of what he later calls language games---or at lest to suggest that
 such a rulebook might exist. Much has been written on this aspect of
-Wittgenstein's thought and its relation to Bertrand Russel's symbolic logic.
-In the context of our conversation, Wittgenstein's "middle period" is
-important for its direct influence on Turing's model of computation.
+Wittgenstein's thought and its relation to Bertrand Russel's symbolic logic
+and subsequently to Chomsky's development of "universal grammar." In the
+context of our conversation, Wittgenstein's "middle period" is important for
+its direct influence on Turing's model of computation.
 
 Several prominent characteristics pass from Wittgenstein's reading machines to
 Turing's universals. First, the symbolic machine emerges from the
@@ -926,20 +928,22 @@ symbolic representation. Second, Wittgenstein discusses symbolic
 representation in terms of its delayed effects, that is, ultimately, a type of
 a remote control mechanism. And finally, Wittgenstein imagines a mediating
 layer that holds the rules for translation between state and symbol. All of
-these features, along with a penchant for ambiguous thought experimentation,
-pass directly from Wittgenstein to Turing. Turing consequently attempts to
-clean up after his teacher's profusion of broken interpretation machines.
-Instead, he gives us one thought experiment, encompassing all possible center
-and edge cases. In addition, Turing describes the minimal physical
-requirements needed to actually build such a contraption. Turing imagines the
-universal metaphor machine, given the right requirements, able to convert any
-symbolic input into the corresponding physical state of the mechanism. It is a
-machine that "traces the mechanism" of all other metaphoric mechanisms.
+these features, along with a collection of hypothetical machines in various
+states of disrepair, pass directly from Wittgenstein to Turing.
 
-#### Turing's Paper
-
-In the face of this tradition, Turing's machine offers a strikingly minimalist
-response. The Turing machine is simply a machine
+Turing's machine offers a strikingly minimalist response to the legacy of
+automated hermeneutics. His universal machine subsumes all of Wittgenstein's
+examples, forming the minimally-viable blueprint for generalized symbolic
+manipulation. To function, Turing's machine needs only the following three
+components: (a) a storage medium capable of holding symbolic inscription, (b)
+a reading and writing mechanism to operate on the symbols, and (c) a way to
+transform external symbolic states into internal states of the mechanism.
+Given these three characteristics, the machine becomes a universal mechanism.
+The universal Turing machine can take on the function of any other machine, as
+long as that machine's state is amenable to symbolic representation.  The
+universal machine takes machine states as its input. It is a machine that
+"traces the mechanism" of all other metaphoric mechanisms. In this lies the
+essence of Turing computation.
 
 Turing begins his paper suggestively: "we may compare a man in the process of
 computing a real number to a machine that is only capable of a finite number
@@ -1076,8 +1080,6 @@ and Guy Smoot for their help with the Greek translations.
 [^ln1-turingcog]: Turing's later work suggests that his use of cognitive
 language throughout "On Computable Numbers" was not accidental, and that he
 meant it to define sentience more generally [@turing_computing_1950].
-
-#### Other Definitions / Conclusion
 
 Wittgenstein struggles to answer that question in his lectures, where Turing
 machine enacts it with blunt force.  The Turing machine ingests symbols,
