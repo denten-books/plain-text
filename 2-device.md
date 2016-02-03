@@ -504,36 +504,33 @@ These broad strokes towards the intellectual history of the literary device
 bring us to literary devices as they exist today, precisely within the
 confusion between symbol and thing. At this point, it becomes productive to
 examine the history of modern computing not within its usual lineage of
-calculating machinery, but in relation to this broader history of symbolism
+calculating machinery, but in relation to the broader history of symbolism
 which encompasses both poetic and computational devices. The modern
 computer---and by extension the electronic book---harkens back to a cluster of
-related thought experiments, one strain of which stems from the philosophy of
-Ludwig Wittgenstein and subsequently to the ideas of Alan Turing, his
-long-time student and colleague. The story of Turing machines has been told
-before in many guises, but never with an eye towards literary machines that
-nevertheless occupy a central place in the early development of modern
-computing.
+related thought experiments prevalent in the philosophy of Ludwig Wittgenstein
+and subsequently to the ideas of Alan Turing, his long-time student and
+colleague. The story of Turing machines has been told before in many guises,
+but never with an eye towards literary machines that nevertheless occupy a
+central place in the early development of modern computing.
 
-To confront the computer as a literary device, optimized for symbolic
-exchange, one must first understand its peculiar relationship to universal
-Turing machines. I would like to take some time now to draw two further as yet
-unexplored historical lineages that lead to Turing's seminal essay on
-computable numbers: the first intellectual, stemming back to his tutelage
-under Ludwig Wittgenstein, and the second material, highlighting the physical
-similarities between Turing's design and a number of concomitant developments
-in printing and communication. To read Turing and Wittgenstein together is to
-recover a legacy of humanities computing that often gets overlooked in the
-critical literature on the subject. This history is important because it
-allows us to see the simulated book in a new light: not as byproduct of
-quantification, but as a metaphor machine, capable of universal symbolic
-manipulation.
-
-Turing machines should hold interest for literary scholars because they
-present a minimally viable model for generalized symbolic manipulation:
-reading and writing. Although the thought experiment they embody solves a
-mathematical problem, the thought experiment itself has roots in a more
-general discussion about the nature of interpretation, central to questions of
-meaning-making in art and culture.
+To confront the computer as a literary device, a machine optimized for
+symbolic exchange, one must first understand its peculiar relationship to
+universal Turing machines. I would like to take some time now to draw two
+further as yet unexplored historical lineages that lead to Turing's seminal
+essay on computable numbers: the first intellectual, stemming back to his
+tutelage under Ludwig Wittgenstein, and the second material, highlighting the
+physical similarities between Turing's design and a number of concomitant
+developments in printing and communication. To read Turing and Wittgenstein
+together is to recover a legacy of humanities computing that often gets
+overlooked in the critical literature on the subject. This history is
+important because it allows us to see the simulated book in a new light: not
+as byproduct of quantification, but as a metaphor machine, capable of
+universal symbolic manipulation. Turing machines should hold interest for
+literary scholars because they present a minimally viable model for
+generalized symbolic manipulation: reading and writing. Although the thought
+experiment they embody solves a mathematical problem, the thought experiment
+itself has roots in a more general discussion about the nature of
+interpretation, central to questions of meaning-making in art and culture.
 
 In his seminal 1936 paper on computable numbers, Alan Turing, then a student
 at King's College, proposed a peculiar thought experiment to appear on the
@@ -548,9 +545,7 @@ transforming ideas into shapes: the very process at the heart of materialist
 aesthetics. In this sense, Turing's hypothetical machine represents the
 conclusion of a long-standing thought experiment concerning the nature of
 human understanding, particularly as it relates to hermeneutics---the
-interpretation of written texts. It is posed already in Plato's *Phaedrus*, by
-Descartes, by Locke, and by Wittgenstein, whose talks Turing attended in
-Cambridge in the 1930s.
+interpretation of written texts.
 
 The question of "automated" hermeneutics echoes through the canon of Western
 philosophical tradition. What does it mean to read and to understand
@@ -569,10 +564,11 @@ predetermined musical phrases written on wooden planks to compose a score.
 ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
 [@kircher_musurgia_1999, 184].](images/musical-box.jpg)
 
-Using such a tool to compose music or poetry would amount to "*sed versûs, non
-poëma* [mere versification, not poetry]" wrote Quirinus Kuhlmann, the German
-Baroque poet, in correspondence with Kircher. Would we consider a naive child
-using such a contraption a composer or a poet, Kuhlmann asks?
+In correspondence with Kircher, the German Baroque poet Quirinus Kuhlman
+argued that using such an instrument to compose music or poetry would amount
+to "*sed versûs, non poëma* [mere versification, not poetry]." Would we call a
+naive child using such a contraption a composer or a poet, he asked? And
+answered:
 
 > Sed lusus est ingeniosus, Ingeniose Kirchere, non methodus, prima fronte
 > aliquid promittens, in recessu nihil solvens. Sine cista enim puer nihil
@@ -585,18 +581,25 @@ using such a contraption a composer or a poet, Kuhlmann asks?
 > understands nothing but words. He produces whatever he hears, without
 > understanding, like a parrot [@gillespie_primal_1978, 32].
 
-In the latter half of the 20th century, the philosopher John Searle would ask
-a similar question in his famous Chinese Room thought experiment
+Without the box the child cannot create. Like the parrot of Descartes he
+mimics creation, on the surface without the corresponding deep structures. In
+the latter half of the 20th century, the philosopher John Searle would ask a
+similar question in his famous Chinese Room thought experiment
 [@searle_minds_1980]. Can a contraption be said to "speak" a language if
 inside it contains only a dictionary for looking up the correct answers to any
-given query? These are all versions of the same thought experiment, which aims
-to delineate mere parroting of received wisdom from some notion of "deep
-understanding." Reading should, we intuit, leave something behind. A text must
-be somehow "joined and united" with the body and to continue to produce
-meaning, independent of the original inscription.
+given query? His answer was again, no. The room cannot speak a language in a
+the way a native speaker can. The external signs of whatever is meant by
+"speaking" and "understanding" must correspond to the appropriate internal
+mental states [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all
+pose a version of the same thought experiment, which aims to draw a line
+between the surface appearance of knowledge and "deep understanding." Reading
+should, these thinkers intuit, leave something behind. A text must be somehow
+"joined and united" with the body and to continue to produce meaning,
+independent of the original inscription. The inside and the outside should
+stand in accordance.
 
-Recall the famous *pharmakon* passage from Plato's *Phaedrus*, discussed
-eloquently in Jacques Derrida's *Dissemination*. At the conclusion of the
+Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
+the relationship between type and mental impression. At the conclusion of the
 dialog, King Thamus objects to the technology (*ta tekhnēs*) of the written
 word, as he believes it will foster forgetfulness in the people who use it.
 Plato writes: "Their faith in extrinsic writing [*graphō exōthen*], by means
@@ -606,19 +609,19 @@ Plato thus contrasts the exterior figure [*graphō exōthen*] with the intrinsic
 [*endothen*] human capacity to remember. The Greek *tupōn*, related to the
 English "type," literally means an impression. And in this case it is
 "foreign" or "othered" [*allotrion*]. It comes from without. Like Moreno after
-him, Thamus finds such remote thought typography problematic. True memory and
-thought for them both must come from within. It must be autopoietic and not
-allopoietic. This is why Socrates asks Phaedrus to stop reciting a speech the
-young man heard earlier and memorized. Mechanical reproduction by rote does
-not in any sense equate to what we would today call "critical thinking." To
-truly understand, the reader must properly internalize a stream of symbolic
-information contained in a book or a speech.  Much can go wrong in that
-process, but we expect for reading to ultimately leave an appropriate
-impression [*tupōn*] on the reader's mental state. For understanding to take
-place, writing must produce "true" feelings and appetites, as Descartes
-maintains. But what is true, appropriate, or proper? What does it mean to
-internalize a symbolic inscription?---that is the profound mystery always
-present even in the most mundane acts of reading and writing.
+him, Thamus finds thought externalized through typography problematic. True
+memory and thought for them both must come from within. It must come from
+within: be autopoietic and not allopoietic. For this reason, Socrates asks the
+young man to stop reciting the speech by heart. He wants Phaedrus to think for
+himself and merely regurgitate the thought of another. To truly understand
+something and to make a show of their comprehension, readers must do more than
+read: they must internalize. Much can go wrong in that process, but we expect
+for reading to ultimately leave an appropriate impression [*tupōn*] on the
+reader's mental state. For understanding to take place, writing must produce
+"true" feelings and appetites, in the words of Descartes. But what is true,
+appropriate, or proper?  What does it mean to properly internalize an
+inscription?---that is the profound mystery always present even in the most
+mundane acts of reading and writing.
 
 Turing's machine must be understood first in the general context of this
 broader tradition and second as a specific response to a series of thought
@@ -627,32 +630,13 @@ Cambridge. Wittgenstein broached the problem of reading machines and
 comprehension first in *The Blue and Brown Books* along with *Philosophical
 Grammar* (all compiled in the early 1930s), then in his lectures and remarks
 on the foundations of psychology and mathematics from the late 1930s, and
-finally in *Philosophical Investigations*, (written between 1945 and 1949). To
-give you a sense of the timeline: Alan Turing's entered King's College in 1931
-[@hodges_alan_1983, 78] and his paper on computable numbers appeared in print
-in 1936. It is likely that the two philosophers met at the Moral Science Club,
-where by the 1930s Wittgenstein "monopolized the discussion," even in the
-presence of prominent philosophers like George Edward Moore
-[@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on the
-foundations of mathematics in 1939. If we take Turing machines to stand in as
-a kind of a universal symbol for computation itself, capable of transforming
-the practice of arts and letters in almost every field of aesthetic and
-intellectual activity, it becomes paramount to view them outside of the narrow
-confines of mathematical theory. Understanding Turing machines within the
-history of symbolic interpretation more broadly, brings computing closer to
-the light of cultural criticism. The bulk of this section is therefore
-concerned with drawing the intertextual connections between Turing's early
-work on computation and Wittgenstein's "middle period," between his
-*Tractatus* and *Philosophical Investigations*. The two thinkers occupy the
-same vibrant intellectual milieu in Cambridge for the best part of the decade.
-Their work during this period shows a significant thematic overlap, which
-although acknowledged, receives scant attention in the critical
-literature.[^ln1-cope]
+finally in *Philosophical Investigations*, written between 1945 and
+1949.[^ln1-timeline]
 
-The earliest of these documents, Wittgenstein's *Blue Book*, begins with a
-question of interpretation. "What is a meaning of a word?" Wittgenstein asks.
-And from the start, he cautions his students against choosing the easy answer,
-which holds that meaning resides in the head. Wittgenstein writes:
+The earliest of these documents, *The Blue Book*, begins with a question of
+interpretation. "What is a meaning of a word?" Wittgenstein asks. And from the
+start, he cautions his students against choosing the easy answer, which holds
+that meaning resides in the head. Wittgenstein writes:
 
 > It is misleading then to talk of thinking as of a "mental activity". We may
 > say that thinking is essentially the activity of operating with signs. This
@@ -661,7 +645,8 @@ which holds that meaning resides in the head. Wittgenstein writes:
 > pictures, I can give you no agent that thinks. If then you say that in such
 > cases the mind thinks, I would only draw your attention to the fact that you
 > are using metaphor, that here the mind is the agent in a different sense
-> from that in which the hand can be said to be the agent in writing.
+> from that in which the hand can be said to be the agent in writing
+[@wittgenstein_blue_1965, 6-7].
 
 Wittgenstein explains that when we see a sentence on paper, the external
 manifestation of a thought, we assume that some analogous structure exists
@@ -671,20 +656,29 @@ and paper- bound, could properly be called the expression of thought. Yet
 neither make sense in isolation. Rather, we are witnessing the workings of a
 metaphor: a transference of properties between two distinct locations, one in
 the head and one on paper. Neither physical nor mental descriptions of these
-processes alone are sufficient to locate cognition. One must understand both
-sides of the equation. Meaning in that sense lies in the transition from the
-hand to the head and from mind to paper.
+processes alone are sufficient to locate cognition. The subject escapes
+depending on our point of view. When the hand writes, it is the brain that
+thinks. But when the hand thinks, it is the brain that writes. One must
+understand both sides of the equation. Meaning in that sense lies in the
+transition from the hand to the head and from mind to paper: "Where does
+thinking take place?" he asks. It takes place "on paper, in our head, in the
+mind" he answers. But, "none of these statements of locality gives *the*
+locality of thinking" [@wittgenstein_blue_1965, 16].
 
-"Can a machine think," Wittgenstein asks [@wittgenstein_blue_1965, 16]? The
-problem, as he explains, is not one of finding a machine that can do the
-job---of manipulating signs, for example.  It lies in the ability of a machine
-to enact the both sides of the metaphoric equation. "Doing the job," the
-manipulation of signs, must correspond to something else. Severed from some
-other analogical structure, the "blind" manipulation of signs is a meaningless
-activity. Meaning, Wittgenstein seems to suggest, resides simply in this
-analogy between something (symbol) and something else (mechanism).
+"Can a machine think?" Wittgenstein asks later on in the first notebook
+[@wittgenstein_blue_1965, 16]. The problem, as he explains, is not one of
+finding a machine that can do the job---of manipulating signs, for example.
+It lies in the ability of a machine to enact the both sides of the metaphoric
+equation. "Doing the job," the manipulation of signs, must correspond to
+something else. Severed from some other analogical structure, the "blind"
+manipulation of signs is a meaningless activity. Meaning, Wittgenstein seems
+to suggest, resides simply in this analogy between something (symbol) and
+something else (mechanism). The question then can be better rephrased as "can
+a machine have private mental states?" Can it feel pain in the sense of pain
+being a state of affairs no accessible to others [@wittgenstein_blue_1965, 16,
+46-9]? We return to the correspondence between the internal and the external.
 
-Wittgenstein extends his thought experiments about reading machines in his
+Wittgenstein extends his thought experiments about thinking machines in his
 *Brown Notebook.* Let us study the word "reading," he suggests early on. By
 reading, he means the activity of "translating script into sounds," "of
 writing according to dictation," or "of copying in writing a page of print"
@@ -696,7 +690,7 @@ pronounces after having seen their first few letters only, other again he
 reads out letter by letter." The child acts as a "reading machine" when he
 pays no attention to what he reads, even when he speaks the words out loud.
 Yet he reads "faultlessly like a reliable machine." Another child merely
-pretends to read.  He guesses at the words, and on occasion repeats things "by
+pretends to read. He guesses at the words, and on occasion repeats things "by
 heart", without actually seeing them on the page [@wittgenstein_blue_1965,
 121-22]. Should either of these count as reading?
 
@@ -721,15 +715,21 @@ desired correspondence between inward state and outward sign. A reading pupil
 must convince his teacher that the scanned sign had the intended effect. This
 requires more words in a sort of an interrupted hermeneutic circle, the two
 sides of which do not quite connect to complete the communication feedback
-circuit.
+circuit. To convince Socrates that he did more than memorize the words,
+Phaedrus must use more words, which are similarly unconvincing. What if those
+are memorized as well? What can we do to convince others that we have properly
+understood a text?
 
 Wittgenstein finally describes the mechanisms of reading as an "indirect way
 of transmitting a feeling." "Something that we can never know happens at the
 other end" of the communication act. Communication, as we would say today, is
 always mediated.  In conclusion of the notebooks, Wittgenstein imagines the
 possibility of unmediated, "direct" modes communication, capable of
-transmitting feelings from one person to another [@wittgenstein_blue_1965,
-185].
+transmitting feelings from one person to another. "We are inclined to say that
+when we communicate a feeling to someone, something which we can never know
+happens at the other end" [@wittgenstein_blue_1965, 185]. We are ultimately
+limited by private sensations of knowledge. Any sense of affirmation comes
+through further expression entailing further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of communication, semiotics, or the mind. They do however
@@ -1638,4 +1638,13 @@ See also @blanchot_work_1995, 41.
 back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. To paraphrase, they ask: What makes whatever compacts made by past
 generations still valid today?
+
+
+[^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
+College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
+appeared in print in 1936. It is likely that the two philosophers met at the
+Moral Science Club, where by the 1930s Wittgenstein "monopolized the
+discussion," even in the presence of prominent philosophers like George Edward
+Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
+the foundations of mathematics in 1939. 
 
