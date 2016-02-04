@@ -67,15 +67,21 @@ What can be said about the practices of reading and interpretation grounded in
 such remote physicalities?  For now, only that they continue to unfold within
 the profound alienation from the material conditions of knowledge production.
 Metaphor sustains our inhabitance of digital worlds artificially, by analogy
-with habituated media.  The metaphor dulls the discomfort at the point of
-contact between human and machine. It precludes the effort of mastering
-poetics at the quantum level: the ability to manipulate charges, to draw
-lattices, to manipulate arrays, and to effect solid states. The media
-ecosystems that we inhabit seem elemental like the ocean
-[@peters_marvelous_2015, 13-52]. The nature of the simulacrum is to replace
-the notion of the real (natural and organic) with its simulation. We must
-therefore also admit that the simulation is constructed.  It forms a part of a
-massive social effort
+with habituated media. The metaphor dulls the discomfort at the point of
+contact between human and machine. It hinders the effort of mastering poetics
+at the quantum level: the ability to manipulate charges, to draw lattices, to
+manipulate arrays, and to effect solid states. The media ecosystems that we
+inhabit seem elemental like air or the oceans [@peters_marvelous_2015, 13-52].
+But we should not forget also that the nature of the simulacrum is to replace
+the notion of the real (natural and organic) with its simulation.
+Computational ecologies are the very definition of social constructivism. They
+form a part of a massive *tactical* effort to govern and to organize in the
+spaces where not government and organization existed before. The photographs
+that were shared privately in the century prior and the book high
+
+
+human activity under the purview of governance and organization. And as all is
+the case with all governance, the
 
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
