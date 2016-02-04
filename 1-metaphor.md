@@ -24,52 +24,60 @@ precisely at the totalizing mediation of code:
 My concern here is with the structure of the programmatic sign, which splits
 its energies between the screen and hard drive. On the screen, at the site of
 projection, the programmatic sign simulates familiar materialities: buttons,
-bins, files, folders, drawers, desktops, windows, tiles, wood grain, shadow,
-chrome. At the site of storage, from which the sign emanates, the language
-changes to central processing units, compilation, commitment, extraction,
-command, condition, initiation, handling, function, persistence, execution,
-control. In splintering between the sites of storage (what is) and projection
-(what appears to be), the programmatic sign undergoes a series of structural
-transformations. What starts out as a mechanical action of a switch becomes a
-signal, a magnetic mark, a phase of the liquid crystal, a shape, and finally a
-ray of light. Programming languages guide thought through a series of
-transformations in the passage between bodies, screens, and archives.
-Languages, natural and artificial, break thought up into differentiated units.
-Simulation arises in the reassembly of such units back into a continuous
-integrated whole. Texts fall apart into letters and pixels which then congeal
-back into holistic literary works.
+bins, files, folders, drawers, desktops, windows, tiles, wood grain, drop
+shadows, chrome. At the site of storage, from which the sign emanates, the
+language changes to central processing units, compilation, commitment,
+extraction, command, condition, initiation, handling, function, persistence,
+execution, control. In the rift between the sites of storage (what is) and
+projection (what appears to be), the programmatic sign undergoes a series of
+structural transformations. What starts out as a mechanical action of a switch
+becomes a signal, a magnetic mark, a phase of the liquid crystal, a shape, and
+finally a ray of light. Programming languages bridge the passage between
+bodies, screens, and archives, breaking thought up into differentiated units
+for transfer. Simulation arises in the reassembly of such units back into a
+continuous integrated whole. Texts fall apart into letters and pixels which
+then congeal back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
 [@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
-function lies the essence of programming. Code shapes and commands. But at the
-same time it conjures fantastical metaphors to occlude the structure of
+function lies the essence of programming. Code shapes and commands. At the
+same time, it conjures fantastical metaphors to occlude the structure of
 shaping and commanding. Simulation obscures the incongruence between visible
 representation and the underlying material affordances of the medium. What you
 see is not always what you get. We are instead confronted with a composite
 image, which under examination reveals a complex process of transfiguration
 between the visible sign and the sign at the site of the inscription. We
-observe a book, where we should also observe an attempt to sensor and surveil.
-The programmatic sign creates a simulacrum without a referent. It bares no
-resemblance to the material substratum. We believe we are handling a book. Our
-ideas about reading and interpretation rely on that initial physical point of
-contact with paper. But in reading electronically, we are handling something
-other than print material. The resemblance to paper guides intuitions about
-the possibilities of the medium: the ability to scroll, bookmark, or turn the
-page. We have far fewer intuitions about the affordances of inscription at the
-micromolecular level. An electric charge crosses the impenetrable oxide
-barrier to reach the floating gate through quantum tunnelling, by the same
-physics that sustain main sequence stars like the sun, through thermonuclear
-fusion. What can be said about the practices of reading and interpretation
-grounded in such remote physicalities? For now, only that they continue to
-exist within the profound alienation from the material conditions of knowledge
-production. They are sustained artificially through metaphor, by a limited
-analogy with habituated media. The metaphor dulls the discomfort at the point
-of contact between human and machine. It precludes the effort of mastering
-poetics at the quantum level: the ability to manipulate charges, to draw
-lattices, to manipulate massive arrays, and to effect solid states.
+observe what looks like a book, where we should also perceive an attempt to
+sensor and surveil. The simulation is without a referent. It bares no
+resemblance to the material substratum of electronic reading. We believe we
+are handling a book. Our ideas about reading and interpretation subsequently
+rely on that initial physical point of contact with paper. But in reading
+electronically, we are handling something other than print material. The
+resemblance to paper guides intuitions about the possibilities of the medium:
+the ability to scroll, bookmark, or turn the page. We have far fewer
+intuitions about the affordances of inscription at the micromolecular level.
+An electric charge crosses the impenetrable oxide barrier to reach the
+floating gate through quantum tunnelling, by the same physics that sustain
+main sequence stars like the sun, through thermonuclear fusion
+[@adams_dying_1997; @pavan_flash_1997; @aaron_flash_2002;
+@bez_introduction_2003; @gasques_nuclear_2005].
 
-Yet despite the formative impact on the practices of comprehension, code---the
+What can be said about the practices of reading and interpretation grounded in
+such remote physicalities?  For now, only that they continue to unfold within
+the profound alienation from the material conditions of knowledge production.
+Metaphor sustains our inhabitance of digital worlds artificially, by analogy
+with habituated media.  The metaphor dulls the discomfort at the point of
+contact between human and machine. It precludes the effort of mastering
+poetics at the quantum level: the ability to manipulate charges, to draw
+lattices, to manipulate arrays, and to effect solid states. The media
+ecosystems that we inhabit seem elemental like the ocean
+[@peters_marvelous_2015, 13-52]. The nature of the simulacrum is to replace
+the notion of the real (natural and organic) with its simulation. We must
+therefore also admit that the simulation is constructed.  It forms a part of a
+massive social effort
+
+Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
