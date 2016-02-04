@@ -3,8 +3,8 @@
 
 In the 1990s, I understood Jean Baudrillard's writing on simulacra in
 relationship to the media entertainment complex: amusement parks, virtual
-reality, reality television, and so on. Today his writing gains another layer
-of meaning related directly to the pervasiveness of personal computing.
+reality, and reality television. Today his writing gains another layer of
+meaning related directly to the pervasiveness of personal computing.
 Computers, as I will argue in this chapter, do more than compute. They are
 metaphor machines that mediate experience ubiquitously. They interject in
 simple everyday acts from drinking coffee in the morning, through automatic
@@ -24,20 +24,20 @@ precisely at the totalizing mediation of code:
 My concern here is with the structure of the programmatic sign, which splits
 its energies between the screen and hard drive. On the screen, at the site of
 projection, the programmatic sign simulates familiar materialities: buttons,
-wood grain, paper, s
-
-command and control without the appearance of governance. 
-
-The programmatic
-sign splits between the sites of the sites of storage (what is) and projection
+bins, files, folders, drawers, desktops, windows, tiles, wood grain, shadow,
+chrome. At the site of storage, from which the sign emanates, the language
+changes to central processing units, compilation, commitment, extraction,
+command, condition, initiation, handling, function, persistence, execution,
+control. In splintering between the sites of storage (what is) and projection
 (what appears to be), the programmatic sign undergoes a series of structural
-transformations.  What starts out as a thought becomes a letter, a signal, a
-magnetic mark, a phase of the liquid crystal, and finally a ray of light.
-Programming languages guide thought through a series of transformations in the
-passage between bodies, screens, and archives.  Languages, natural and
-artificial, break thought up into differentiated units.  Simulation arises in
-the reassembly of such units back into a continuous integrated whole. Texts
-made of discrete pixels congeal into holistic literary works.
+transformations. What starts out as a mechanical action of a switch becomes a
+signal, a magnetic mark, a phase of the liquid crystal, a shape, and finally a
+ray of light. Programming languages guide thought through a series of
+transformations in the passage between bodies, screens, and archives.
+Languages, natural and artificial, break thought up into differentiated units.
+Simulation arises in the reassembly of such units back into a continuous
+integrated whole. Texts fall apart into letters and pixels which then congeal
+back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
@@ -50,39 +50,40 @@ see is not always what you get. We are instead confronted with a composite
 image, which under examination reveals a complex process of transfiguration
 between the visible sign and the sign at the site of the inscription. We
 observe a book, where we should also observe an attempt to sensor and surveil.
-The programmatic sign creates a simulacrum that no longer bares a resemblance
-to the material substratum. We believe we are handling a book. Our ideas about
-reading and interpretation rely on that initial physical point of contact. But
-in reading electronically, we are handling something other than print
-material. These reading machines participate actively in the mechanisms of
-meaning formation. They interject all the meanwhile striving to obscure the
-interjection.
+The programmatic sign creates a simulacrum without a referent. It bares no
+resemblance to the material substratum. We believe we are handling a book. Our
+ideas about reading and interpretation rely on that initial physical point of
+contact with paper. But in reading electronically, we are handling something
+other than print material. The resemblance to paper guides intuitions about
+the possibilities of the medium: the ability to scroll, bookmark, or turn the
+page. We have far fewer intuitions about the affordances of inscription at the
+micromolecular level. An electric charge crosses the impenetrable oxide
+barrier to reach the floating gate through quantum tunnelling, by the same
+physics that sustain main sequence stars like the sun, through thermonuclear
+fusion. What can be said about the practices of reading and interpretation
+grounded in such remote physicalities? For now, only that they continue to
+exist within the profound alienation from the material conditions of knowledge
+production. They are sustained artificially through metaphor, by a limited
+analogy with habituated media. The metaphor dulls the discomfort at the point
+of contact between human and machine. It precludes the effort of mastering
+poetics at the quantum level: the ability to manipulate charges, to draw
+lattices, to manipulate massive arrays, and to effect solid states.
 
-To understand the "loss of resemblances" in the process of simulation, imagine
-communicating by telegraph in two different languages with a friend.
-Occasionally, besides whatever else you wanted to say, envision also sending a
-signal to your partner's device that indicates a change in the transmission
-language. Thus in addition to the message, you would also send a predetermined
-code that would switch the receiving apparatus from the "English language"
-into the "French language" mode. Such an instruction would attune the receiver
-to a different mode of apprehension. In our example, it would transform an
-English language machine into a French language one. It is in that sense of
-attunement that the programmatic sign acquires its non-representational,
-tactical character. Stripped of references, resemblances, and designations the
-programmatic sign commands and controls.
-
-Yet despite the formative impact on the structure of comprehension, code---the
+Yet despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
+dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context.  t
 the maximally blunt limit of its abilities, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide text from view
 completely or to make it so small as to be illegible affects not just the
 style but the politics of text. Code, in that sense, can determine its
-audience, privileging certain voices and modes of access over others.
+audience, privileging certain voices and modes of access over others. It is in
+that sense of attunement that the programmatic sign acquires its
+non-representational, tactical character. Stripped of references,
+resemblances, and designations the programmatic sign commands and controls.
 
 Unlike figurative language, machine control languages function in the
 imperative.  They do not stand for action---they are action. More binding than
@@ -188,7 +189,7 @@ goal in this chapter, is to unpack the interface metaphor. We must begin to
 separate the resemblance from the designation: the apparent shape from a
 command in the imperative.
 
-### 1.1 Intro to Interface Metaphor
+### 1.1 Interface Metaphor
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
 that we have been discussing so far go under the name of *structural
