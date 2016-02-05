@@ -4,15 +4,14 @@
 In the 1990s, I understood Jean Baudrillard's writing on simulacra in
 relationship to the media entertainment complex: amusement parks, virtual
 reality, and reality television. Today his writing gains another layer of
-meaning related directly to the pervasiveness of personal computing.
-Computers, as I will argue in this chapter, do more than compute. They are
-metaphor machines that mediate experience ubiquitously. They interject in
-simple everyday acts from drinking coffee in the morning, through automatic
-brewing machines and payment systems, to going to bed as alarm clocks and
-night activity monitors.
+meaning related directly to the ubiquity of personal computing. Computers, as
+I will argue in this chapter, do more than compute. They are metaphor machines
+that mediate experience universally. They interject in simple everyday acts
+from drinking coffee in the morning, through automatic brewing machines and
+payment systems, to going to bed as alarm clocks and night activity monitors.
 
 Baudrillard writes about the "genesis of simulacra," which culminates
-precisely at the totalizing mediation of code:
+precisely in the totalizing mediation of code:
 
 > At the limit of an always increasing elimination of references and
 > finalities, an ever-increasing loss of resemblances and designations, we
@@ -21,22 +20,24 @@ precisely at the totalizing mediation of code:
 > structure is that of a micromolecular code of command and control
 > [@baudrillard_selected_1988, 139-140].
 
-My concern here is with the structure of the programmatic sign, which splits
-its energies between the screen and hard drive. On the screen, at the site of
-projection, the programmatic sign simulates familiar materialities: buttons,
-bins, files, folders, drawers, desktops, windows, tiles, wood grain, drop
-shadows, chrome. At the site of storage, from which the sign emanates, the
-language changes to central processing units, compilation, commitment,
-extraction, command, condition, initiation, handling, function, persistence,
-execution, control. In the rift between the sites of storage (what is) and
-projection (what appears to be), the programmatic sign undergoes a series of
-structural transformations. What starts out as a mechanical action of a switch
-becomes a signal, a magnetic mark, a phase of the liquid crystal, a shape, and
-finally a ray of light. Programming languages bridge the passage between
+My concern here is with the structure of code, the programmatic sign, which
+splits its energies between the screen and hard drive. On the screen, at the
+site of projection, the programmatic sign simulates familiar materialities:
+buttons, bins, files, folders, drawers, desktops, windows, tiles, wood grain,
+drop shadows, chrome. At the site of storage, from which the sign emanates,
+the language changes to the vocabulary of control, referring to central
+processing units, compilation, commitment, extraction, command, condition,
+initiation, handling, function, persistence, and execution. In the rift
+between the sites of storage (what is) and projection (what appears to be),
+the programmatic sign undergoes a series of structural transformations. What
+originates from the keyboard as a mechanical action of a switch becomes an
+electric signal that leaves a magnetic mark in computer memory to transform
+into a phase of the liquid crystal on the screen, in a shape of a letter that
+emanates outward as light. Programming languages bridge the passage between
 bodies, screens, and archives, breaking thought up into differentiated units
 for transfer. Simulation arises in the reassembly of such units back into a
-continuous integrated whole. Texts fall apart into letters and pixels which
-then congeal back into holistic literary works.
+continuous integrated whole. Texts dissolve into letters and pixels which then
+congeal back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
@@ -47,129 +48,126 @@ shaping and commanding. Simulation obscures the incongruence between visible
 representation and the underlying material affordances of the medium. What you
 see is not always what you get. We are instead confronted with a composite
 image, which under examination reveals a complex process of transfiguration
-between the visible sign and the sign at the site of the inscription. We
-observe what looks like a book, where we should also perceive an attempt to
-sensor and surveil. The simulation is without a referent. It bares no
-resemblance to the material substratum of electronic reading. We believe we
-are handling a book. Our ideas about reading and interpretation subsequently
-rely on that initial physical point of contact with paper. But in reading
-electronically, we are handling something other than print material. The
-resemblance to paper guides intuitions about the possibilities of the medium:
-the ability to scroll, bookmark, or turn the page. We have far fewer
-intuitions about the affordances of inscription at the micromolecular level.
-An electric charge crosses the impenetrable oxide barrier to reach the
-floating gate through quantum tunnelling, by the same physics that sustain
-main sequence stars like the sun, through thermonuclear fusion
-[@adams_dying_1997; @pavan_flash_1997; @aaron_flash_2002;
-@bez_introduction_2003; @gasques_nuclear_2005].
+between the visible sign and the sign at the site of the inscription. When
+reading online, for example, we observe what looks like a book, where we
+should also perceive an attempt to sensor and surveil. The simulation is
+without a referent. It bares no resemblance to the material substratum of
+electronic reading. We believe we are handling a book. Our ideas about reading
+and interpretation subsequently rely on that initial physical point of contact
+with paper. But when reading electronically, we are handling something other
+than print material. The resemblance to paper guides our intuitions about the
+possibilities of the medium: the ability to scroll, bookmark, or turn pages.
+We have far fewer intuitions about the affordances of inscription at the
+micromolecular level. As we "turn the page" an electric charge crosses the
+impenetrable oxide barrier to reach the floating gate through quantum
+tunnelling [@pavan_flash_1997; @aaron_flash_2002; @bez_introduction_2003].
 
-What can be said about the practices of reading and interpretation grounded in
-such remote physicalities?  For now, only that they continue to unfold within
-the profound alienation from the material conditions of knowledge production.
-Metaphor sustains our inhabitance of digital worlds artificially, by analogy
-with habituated media. The metaphor dulls the discomfort at the point of
-contact between human and machine. It hinders the effort of mastering poetics
-at the quantum level: the ability to manipulate charges, to draw lattices, to
-manipulate arrays, and to effect solid states. The media ecosystems that we
-inhabit seem elemental like air or the oceans [@peters_marvelous_2015, 13-52].
-But we should not forget also that the nature of the simulacrum is to replace
-the notion of the real (natural and organic) with its simulation.
-Computational ecologies are the very definition of social constructivism. They
-form a part of a massive *tactical* effort to govern and to organize in the
-spaces where not government and organization existed before. The photographs
-that were shared privately in the century prior and the book high
-
-
-human activity under the purview of governance and organization. And as all is
-the case with all governance, the
+What then can be said about the practices of reading and interpretation
+grounded in such remote physicalities? For now, only that they continue to
+unfold within the profound alienation from the material conditions of
+knowledge production. Metaphor sustains our lives in digital worlds
+artificially, by analogy with habituated media. We already know what to do
+with paper, the electronic book therefore replicates paper. Such metaphors
+dull the discomfort at the point of contact between human and machine. They
+hinder the effort of mastering poetics at the quantum level: the ability to
+manipulate charges, to draw lattices, to manipulate arrays, and to affect
+solid states of being. It is tempting to view media ecosystems that host our
+digital lives as a kind of a natural element "close to water, air, earth,
+fire, and either" [@peters_marvelous_2015, 13-52] But we should not forget
+also that computational ecologies are *constructed* environments. They are not
+governed by the laws of physics, in the same sense that oceans are. They form
+a part of a massive *tactical* effort to bring private spaces of
+inhabitance---think the *Home* folder on your computer, your family photo
+album, your digital bookmarks---under the purview of governance. The
+simulation encodes political structures that should not be naturalized, lest
+we succumb to the complacency of technological determinism.
 
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context.  t
-the maximally blunt limit of its abilities, the formatting layer affects
+dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
+the maximally blunt limit of its functions, the formatting layer affects
 visibility. For example, it can selectively render some words and sentences on
 the screen while suppressing others. The ability to hide text from view
 completely or to make it so small as to be illegible affects not just the
 style but the politics of text. Code, in that sense, can determine its
 audience, privileging certain voices and modes of access over others. It is in
-that sense of attunement that the programmatic sign acquires its
+that sense of audience selection that the programmatic sign acquires its
 non-representational, tactical character. Stripped of references,
 resemblances, and designations the programmatic sign commands and controls.
 
 Unlike figurative language, machine control languages function in the
-imperative.  They do not stand for action---they are action. More binding than
-J.L.  Austin's "speech acts," control codes arrange and regulate. The
-difference between representation and control is one of brute force. It lies
-in the distinction between a restraining order and physical restraint. A
-restraining order *represents* the calling forth of codified power. Physical
-restraints, like the plastic handcuffs widely used in contemporary policing,
-*enact* the exercise of codified power. Like all violence they do not stand
-for anything. Stripped of references, resemblances, and designations, they are
-in themselves an arrangement and rearrangement of matter. The handcuffs
-contort the body into the shape of submission. Absent a body, the restraints
-draw an empty shape.
+imperative. They do not stand for action---they are action. Code represents
+only the exercise of power. More binding than the "speech acts" J.L. Austin,
+control codes arrange and regulate. The difference between representation and
+control is one of brute force. It lies in the distinction between a
+restraining order and physical restraint. A restraining order *represents* the
+calling forth of codified power. Physical restraints like handcuffs *enact*
+the exercise of codified power. Like all violence they do not stand for
+anything. Stripped of references, resemblances, and designations, they are in
+themselves an arrangement and rearrangement of matter. The handcuffs contort
+the body into the shape of submission. Absent a body, the restraints draw an
+empty shape.
 
 Code acts similarly to shape the word. Located somewhere between idea and
 material, formatting relates content to matter. It mediates by imposing
 structure. Think of a paragraph, for example. By convention, writers use
 paragraphs to break up the flow of monolithic thought on a page. The paragraph
-contains information. Emptied of content, it simply ceases to exist. Can there
-be an empty paragraph? Can the shape of the paragraph persist outside of the
-material confines of the page or the screen? Can one imagine a paragraph that
-unfolds spatially not in two dimensions, but in one, along a straight line?
-What about a three dimensional paragraph? Could it take shape of a cuboid
-instead instead of a rectangle? These questions boggle the mind because the
-paragraph draws a singular shape. It is a textual container of a type. Any
-other shape less or more than the paragraph would go by another name. It would
-constitute another format. To imagine something like a one-dimensional
-paragraph is akin to imagining a flat shoebox. A flat shoebox could no longer
-hold shoes. It would contain something else like images of footwear.
-Similarly, a paragraph identifies a particular arrangement of elements. It is
-a box or a data structure of a shape, made to hold words and sentences. Like
-nesting dolls, words and sentences are in themselves data structures that
-contain further, smaller arrangements of information.
+contains information. Can we imagine an empty paragraph? Can the shape of the
+paragraph persist outside of the material confines of the page or the screen?
+Can one imagine a paragraph that unfolds spatially not in two dimensions, but
+in one, along a straight line?  What about a three dimensional paragraph?
+Could it take the shape of a cuboid instead instead of a rectangle?  These
+questions boggle the mind because the paragraph draws a singular shape.  It is
+a textual container of a type. Any other shape less or more than the paragraph
+would go by another name. It would constitute another format. To imagine
+something like a one-dimensional paragraph is akin to imagining a flat
+shoebox. A flat shoebox could no longer hold shoes. It would contain something
+else like images of footwear.  Similarly, a paragraph identifies a particular
+arrangement of elements. It is a box or a data structure of a shape, made to
+hold words and sentences. Like nesting dolls, words and sentences are in
+themselves data structures that contain further, smaller arrangements of
+information. One could say, what of such arrangements? Who cares about
+paragraphs? It is merely one type of a container among many. It has only an
+instrumental function to help get the point across. The meat of interpretation
+lies in the stuff within. Words come in other shapes and sizes. The outer
+container is disposable and therefore insignificant.
 
-One could say, what of such arrangements? Who cares about paragraphs? It is
-merely one type of a container among many. It has only an instrumental
-function to help get the point across. The meat of interpretation lies in the
-stuff within. Words come in other shapes and sizes. The outer container is
-disposable and therefore insignificant. Formats could only seem insignificant
-in the past when they were few and simple. The transition between static and
-dynamic media necessitates renewed attention to form and format. What you saw
-is what you got on the page. On the screen, what you see is but a small part
-of what you get. The content---all that is contained on a page---shifts
-beneath the projected image.
+Formats could only seem insignificant in the past when they were few and
+simple. The transition between static and dynamic media necessitates renewed
+attention to the formatting layer of meaning making. What you saw is what you
+got on the page. On the screen, what you see is but a small part of what you
+get. The content---all that is contained on a page---shifts beneath the
+projected image. In print, content can be gleaned from the surface. There is
+nothing but surface on a page. The screen is a layered surface. Sandwiched
+between panes of glass, liquid crystal moves in response to electrical
+modulation. The ebb and flow of electricity in turn reflects yet another layer
+of codification, inscribed onto yet other recondite planes of inscription. A
+byte, made up of eight binary bits, holds a letter. The string of letters
+spelling out "hello world" occupies eleven bytes, if you count the space. A
+file in the Portable Document Format (`.pdf`) containing nothing but "hello
+world" takes up 24,335 bytes on my system. Encoding accounts for the disparity
+between plain text and fancy text, the latter defined as "text representation
+consisting of plain text plus added information"
+[@unicode_consortium_unicode_1990].
 
-In print, the content can be gleaned from the surface. There is nothing but
-surface on a page. The screen is a layered surface. Sandwiched between panes
-of glass, liquid crystal moves in response to electrical modulation. The ebb
-and flow of electricity in turn reflects yet another layer of codification,
-inscribed onto yet other recondite planes of inscription. A byte, made up of
-eight binary bits, holds a letter. The string of letters spelling out "hello
-world" occupies eleven bytes, if you count the space. A file in the Portable
-Document Format (`.pdf`) containing nothing but "hello world" takes up 24,335
-bytes on my system. Encoding accounts for the disparity between plain text and
-fancy text, the latter defined as "text representation consisting of plain
-text plus added information" [@unicode_consortium_unicode_1990]. What is the
-nature of this "added information?"
-
-Historically, the added information included machine instructions for viewing
-and printing text, encoding, or encryption, used for clandestine
-communication. Portable Document Format specifically can also contain features
-that enable "accessibility of content to those with disabilities," "digital
-signatures to certify authenticity," "electronic forms to gather data,"
-"preservation of document fidelity independent of the device, platform, and
-software," and "security and permission to allow the creator to retain control
-of the document and associated rights" [@iso_portable_2008, vii]. These
-capabilities operate somewhere between the visible content and stored
-information. More than passive conduits of meaning, electronic texts contain
-the rules for engagement between authors and their readers. In our example,
-the Portable Document Format encodes among other things ideas about "reading,"
-"authenticity," "fidelity," "preservation," and "authorship." Whatever
-literary theoretical framework the reader brings to the process of
+What is the nature of this "added information?" Historically, the added
+information included machine instructions for viewing and printing text,
+encoding, or encryption, used for clandestine communication. The Portable
+Document Format specifically can also contain features that enable--and I
+quote the exact specifications here---"accessibility of content to those with
+disabilities," "digital signatures to certify authenticity," "electronic forms
+to gather data," "preservation of document fidelity independent of the device,
+platform, and software," and "security and permission to allow the creator to
+retain control of the document and associated rights" [@iso_portable_2008,
+vii]. These capabilities operate somewhere between the visible content and
+stored information. More than passive conduits of meaning, electronic texts
+contain the rules for engagement between authors and their readers. In our
+example, the Portable Document Format encodes among other things ideas about
+"reading," "authenticity," "fidelity," "preservation," and "authorship."
+Whatever literary theoretical framework the reader brings to the process of
 interpretation must therefore meet the framework implicit in the electronic
 text itself. Such an encounter happens not on the level of representation or
 ideology, but on the level of the physical, the phatic, and the imperative,
@@ -179,29 +177,32 @@ The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
 suggests corresponding mental units. A unit of written language thus also
 becomes in some sense a unit of thought. But no such structures as paragraphs
-exist in the mind. At the level of physiology, the brain arranges information
-otherwise. Things get significantly more complicated when the paragraph acts
-to mediate between the mind and the page on the one side of comprehension, and
-the page and the machine on the other.
+exist in the mind. Physiologically, the brain arranges information otherwise.
+Things get significantly more complicated when the paragraph mediates between
+the mind and the page on the one side of comprehension, and the page and the
+machine on the other.
 
 ![Forms and formats.](images/forms.png)
 
 Just like there is nothing inherently paragraph-like in the neural arrangement
 of the brain, there is also nothing inherently paragraph-like or page-like in
 the arrangement of bits along the surface of the magnetic disk or the solid
-state drive. We are presented instead with metaphors of paragraphs, pages,
-files, and folders. Screen representations of paragraphs, pages, files, and
-folders look like their counterparts on the page, yet they represent other
-structures in the head, and yet other structures on the disk. The metaphor
-thus mediates between mental image---information stored in the head---and
-inscription---information stored in the machine. As Alexander Galloway wrote
-in *The Interface Effect*, the nature of the interface stems from the
-incompatibility between incommensurate systems [@galloway_interface_2012,
-viii]. The interface is also a metaphor that transports structure from one
-entity to the other, at the point of contact between human and machine. Our
-goal in this chapter, is to unpack the interface metaphor. We must begin to
-separate the resemblance from the designation: the apparent shape from a
-command in the imperative.
+state drive. If we could peek inside the machine, we would see forms and
+structures particular to those media. The analysis of computational forms
+requires new formalisms and new critical vocabularies capable of drawing
+correspondences between disparate structures. We are presented with metaphors
+of paragraphs, pages, files, and folders. Screen representations of
+paragraphs, pages, files, and folders look like their counterparts on the
+page, yet they represent other structures in the head, and yet other
+structures on the disk.  The metaphor thus mediates between mental
+image---information stored in the head---and inscription---information stored
+in the machine. As Alexander Galloway wrote in his *The Interface Effect*, the
+nature of the interface stems from the incompatibility between incommensurate
+systems [@galloway_interface_2012, viii]. The interface is also a metaphor
+that transports structure from one entity to the other, at the point of
+contact between human and machine. Our goal in this chapter, is to unpack the
+metaphor. We must begin to separate the resemblance from the designation: the
+apparent shape from a command in the imperative.
 
 ### 1.1 Interface Metaphor
 
