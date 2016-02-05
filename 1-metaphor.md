@@ -64,23 +64,23 @@ tunnelling [@pavan_flash_1997; @aaron_flash_2002; @bez_introduction_2003].
 
 What then can be said about the practices of reading and interpretation
 grounded in such remote physicalities? For now, only that they continue to
-unfold within the profound alienation from the material conditions of
-knowledge production. Metaphor sustains our lives in digital worlds
-artificially, by analogy with habituated media. We already know what to do
-with paper, the electronic book therefore replicates paper. Such metaphors
-dull the discomfort at the point of contact between human and machine. They
-hinder the effort of mastering poetics at the quantum level: the ability to
-manipulate charges, to draw lattices, to manipulate arrays, and to affect
-solid states of being. It is tempting to view media ecosystems that host our
-digital lives as a kind of a natural element "close to water, air, earth,
-fire, and either" [@peters_marvelous_2015, 13-52] But we should not forget
-also that computational ecologies are *constructed* environments. They are not
-governed by the laws of physics, in the same sense that oceans are. They form
-a part of a massive *tactical* effort to bring private spaces of
-inhabitance---think the *Home* folder on your computer, your family photo
-album, your digital bookmarks---under the purview of governance. The
-simulation encodes political structures that should not be naturalized, lest
-we succumb to the complacency of technological determinism.
+unfold figuratively, removed from the material conditions of knowledge
+production. Metaphor sustains our lives in digital worlds artificially, by
+analogy with habituated media. We already know what to do with paper, the
+electronic book therefore replicates paper. Such metaphors dull the discomfort
+at the point of contact between human and machine. They hinder the effort of
+mastering poetics at the quantum level: the ability to manipulate charges, to
+draw lattices, to manipulate arrays, and to affect solid states of being. It
+is tempting to view media ecosystems that host our digital lives as a kind of
+a natural element "close to water, air, earth, fire, and either"
+[@peters_marvelous_2015, 13-52] But we should not forget also that
+computational ecologies are *constructed* environments. They are not governed
+by the laws of physics, in the same sense that oceans are. They form a part of
+a massive *tactical* effort to bring private spaces of inhabitance---think the
+*Home* folder on your computer, your family photo album, your digital
+bookmarks---under the purview of governance. The simulation encodes political
+structures that should not be naturalized, lest we succumb to the complacency
+of technological determinism.
 
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -118,14 +118,14 @@ paragraphs to break up the flow of monolithic thought on a page. The paragraph
 contains information. Can we imagine an empty paragraph? Can the shape of the
 paragraph persist outside of the material confines of the page or the screen?
 Can one imagine a paragraph that unfolds spatially not in two dimensions, but
-in one, along a straight line?  What about a three dimensional paragraph?
+in one, along a straight line? What about a three dimensional paragraph?
 Could it take the shape of a cuboid instead instead of a rectangle?  These
-questions boggle the mind because the paragraph draws a singular shape.  It is
+questions boggle the mind because the paragraph draws a singular shape. It is
 a textual container of a type. Any other shape less or more than the paragraph
 would go by another name. It would constitute another format. To imagine
 something like a one-dimensional paragraph is akin to imagining a flat
 shoebox. A flat shoebox could no longer hold shoes. It would contain something
-else like images of footwear.  Similarly, a paragraph identifies a particular
+else like images of footwear. Similarly, a paragraph identifies a particular
 arrangement of elements. It is a box or a data structure of a shape, made to
 hold words and sentences. Like nesting dolls, words and sentences are in
 themselves data structures that contain further, smaller arrangements of
@@ -194,14 +194,14 @@ correspondences between disparate structures. We are presented with metaphors
 of paragraphs, pages, files, and folders. Screen representations of
 paragraphs, pages, files, and folders look like their counterparts on the
 page, yet they represent other structures in the head, and yet other
-structures on the disk.  The metaphor thus mediates between mental
+structures on the disk. The metaphor thus mediates between mental
 image---information stored in the head---and inscription---information stored
 in the machine. As Alexander Galloway wrote in his *The Interface Effect*, the
 nature of the interface stems from the incompatibility between incommensurate
 systems [@galloway_interface_2012, viii]. The interface is also a metaphor
 that transports structure from one entity to the other, at the point of
 contact between human and machine. Our goal in this chapter, is to unpack the
-metaphor. We must begin to separate the resemblance from the designation: the
+metaphor. We must begin to separate the resemblance from its designation: the
 apparent shape from a command in the imperative.
 
 ### 1.1 Interface Metaphor
