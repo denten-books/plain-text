@@ -613,7 +613,7 @@ shaping mental experience. It apprehends the revealed mechanics of
 computational reading. Materialist poetics subsequently allow one to consent,
 or, conversely, to resist elements of imposed structure.
 
-### 1.3 Death of a Metaphor
+### 1.3 Death and Incongruence
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
@@ -702,21 +702,24 @@ tired, where it is completely dead in the other. In use, naturalized metaphors
 like "grasping" and "pedigree" lose their symbolic connotations. But unlike
 "pedigree," the metaphorical nature of "grasping ideas" is at least available
 for casual interpretation. The underlying metaphor THE MIND IS LIKE A HAND
-generates other meaningful phrases like "you have to let go of this idea." The
-crane's foot does not. The conventional notion of dead metaphors does not
+generates other meaningful phrases like "you have to *let go* of this idea."
+The crane's foot does not. A conventional notion of dead metaphors does not
 appropriately differentiate between the two cases [@lakoff_death_1987;
 @muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
 perform its function of intuitively connecting two disparate domains. At other
 times, the metaphor dies in the sense of one domain becoming no longer
-accessible to its user. Furthermore, we might add that a wholly unmotivated
-metaphor does no work at all. Thus the nonsensical riddle the Mad Hatter
-famously posed to Alice in Lewis Carroll's *Alice in Wonderland*: How is a
-raven like a writing desk? The dissimilarity between the two domains---of
-animals and furniture---prevents any productive congruence.[^ln4-carroll] No
-domain mapping happens between ravens and writing desks. Thus, not having been
-born, the metaphor dies in yet another sense.
+accessible to its user.
 
-To what extent does the interface metaphor live by the above definitions? When
+Furthermore, we might add that a wholly unmotivated metaphor does no work at
+all. Thus the nonsensical riddle the Mad Hatter famously posed to Alice in
+Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing desk? The
+dissimilarity between the two domains---of animals and furniture---prevents
+any productive congruence.[^ln4-carroll] No domain mapping happens between
+ravens and writing desks. Not having been born, the metaphor dies in yet
+another sense.
+
+With these comments on broken and dead metaphors in mind, we may ask: To what
+extent does the interface metaphor live by the above definitions? When
 discarding a document into a trash bin, in our reoccurring example, users
 should theoretically map their knowledge of paper documents and paper waste
 baskets onto the computational domain. Instead, the *idea* of discarding
@@ -737,12 +740,13 @@ the simulated document dustbin is missing one part of the metaphor equation.
 Where in the case of "pedigree" English speakers fail to grasp the source or
 the tenor of the metaphoric substitution, the case of the virtual dustbin is
 missing the target, or the vehicle of the action. Discarding a document into
-trash does not in fact correspond to a similar action in the target domain.
-In either case, failing the full transference the metaphor ceases to function
-properly [@lakoff_death_1987]. The interface metaphor fails to achieve
-motivation. The analogy between discarding paper and erasing bits breaks down
-in the worst possible way. The material realities of the metaphor are not
-simply missing, they are misrepresented.
+the virtual trash bin does not in fact correspond to a similar action in the
+target domain of the storage medium. In either case, in failing to achieve the
+full transference between source and target domains the metaphor ceases to
+function properly, by definition [@lakoff_death_1987]. The interface metaphor
+fails to achieve motivation. The analogy between discarding paper and erasing
+bits breaks down in the worst possible way. The material realities of the
+metaphor are not simply missing, they are misrepresented.
 
 ### 1.4 Mimesis (Direct Manipulation)
 
