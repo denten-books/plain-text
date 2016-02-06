@@ -72,15 +72,14 @@ at the point of contact between human and machine. They hinder the effort of
 mastering poetics at the quantum level: the ability to manipulate charges, to
 draw lattices, to manipulate arrays, and to affect solid states of being. It
 is tempting to view media ecosystems that host our digital lives as a kind of
-a natural element "close to water, air, earth, fire, and either"
-[@peters_marvelous_2015, 13-52] But we should not forget also that
+a natural element like water or air. But we should not forget also that
 computational ecologies are *constructed* environments. They are not governed
-by the laws of physics, in the same sense that oceans are. They form a part of
-a massive *tactical* effort to bring private spaces of inhabitance---think the
-*Home* folder on your computer, your family photo album, your digital
-bookmarks---under the purview of governance. The simulation encodes political
-structures that should not be naturalized, lest we succumb to the complacency
-of technological determinism.
+by the laws of physics, in the same sense that clouds or oceans are. They form
+a part of a massive *tactical* effort to bring private spaces of
+inhabitance---think the *Home* folder on your computer, your family photo
+album, your digital bookmarks---under the purview of governance.  The
+simulation encodes political structures that should not be naturalized, lest
+we succumb to the complacency of technological determinism.
 
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -224,13 +223,12 @@ interface between human and machine.
 On an abstract level, structural substitution defines computation in general.
 The computer can be imagined as a universal metaphor machine, capable of
 simulating anything that can be represented symbolically. That is not to say
-that it can *do* anything.  For example, one cannot use a computational device
+that it can *do* anything. For example, one cannot use a computational device
 to hammer nails. A computer can be used to create the verisimilitude of
-hammering nails in the virtual realm.
-
-The language of computation reveals its reliance on metaphor in practice.
-Consider the following passage from a patent filed by Xerox in 1991. It
-describes, in its own words, "an electronic library metaphor," which includes:
+hammering nails in the virtual realm. The language of computation reveals its
+reliance on metaphor in practice. Consider the following passage from a patent
+filed by Xerox in 1991. It describes, in its own words, "an electronic library
+metaphor," which includes:
 
 > a shared books with database metaphor, a reference books metaphor, and a
 > card catalog metaphor in one system that allows large object oriented data
@@ -263,8 +261,10 @@ cause, purpose, means, modality" are metaphorical in nature
 figurative, lyrical language, Lakoff and others have argued that metaphors
 structure everyday experience. Thus the analysis of common phrases like
 "things are looking up" and "I can't get that tune out of my mind" reveals
-underlying figuration like "good things are up" and "the mind is a container
-[@lakoff_metaphorical_1980, 195-198].
+underlying figuration like "good things are up" and "the mind is a container."
+The idea that "good things are up" generates a multitude of metaphors like
+"profits are going up" and "moving on up," for example
+[@lakoff_metaphorical_1980, 195-198]
 
 !["An exemplary interface for viewing a three dimensional book"
 [@card_methods_2006, 3].](images/book-metaphor.png)
@@ -272,13 +272,33 @@ underlying figuration like "good things are up" and "the mind is a container
 !["Alternate display techniques for information about a big book"
 [@card_methods_2006,4].](images/book-3d.png)
 
-The transference of structuring principles from one system to another---from
-"physical libraries" to "electronic workstations environments," in our case---
-reveals the formative nature of the structural metaphor. Metaphors that can be
-touched and handled in some way exist neither wholly in language nor wholly in
-the mind. Rather, they operate in action, at hand. John Carrol, one of the
-pioneers in the field of human--computer interaction, summarized the role of
-metaphors in the design of computing systems as follows:
+In the cognitive view, the metaphor performs a number of "conventional
+mappings from one domain to another" [@lakoff_contemporary_1998, 239]. Lakoff
+mentions for example the common trope of "a state is a person," implicit in
+the ideas of a "friendly" or a "hostile" states [@lakoff_contemporary_1998,
+243]. The metaphor implies that ideas about agency, emotion, and mental life
+usually attached to people can be extended to state actors. Similarly, to say
+that someone is "boiling mad," instantiates the common trope of "anger is a
+hot liquid in a container," Lakoff explains. In this case, common known
+properties attached to the domain of physics are mapped onto the domain of
+emotion. Lakoff further explains that such domain mappings tend follow a few
+rules. They are usually partial and asymmetrical.  "Mappings are not
+arbitrary," he writes, "but grounded in the body and in everyday experience
+and knowledge." Finally domain mapping obeys what Lakoff call the Invariance
+Principle, by which "the image schema structure of the source domain is
+projected onto the target domain in a way that is consistent with inherent
+target domain structure" [@turner_conceptual_1995; @lakoff_contemporary_1998;
+@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
+
+Metaphor machines present us with a special case of conceptual domain
+blending. The transference of structuring principles from one system to
+another---from "physical libraries" to "electronic workstations environments,"
+in our case--- reveals the formative nature of the structural metaphor.
+Metaphors that can be touched and handled in some way exist neither wholly in
+language nor wholly in the mind. Rather, they operate in action, at hand. John
+Carrol, one of the pioneers in the field of human--computer interaction,
+summarized the role of metaphors in the design of computing systems as
+follows:
 
 > Professional programmers might learn a new system X by metaphorizing at
 least initially from what they already know about system Y. More casual or
@@ -294,14 +314,14 @@ Johnson's "conceptual blending" in practice. In this way, the familiar gesture
 of discarding a crumpled piece of paper into the waste bin can be simulated
 digitally to handle the deletion of electronic documents. Apple's influential
 *Human Interface Guidelines*, at the core of Apple's desktop interfaces in the
-1980s, echoes Carroll's proscriptions:
+1980s and today, echoes Carroll's proscriptions:
 
 > You can take advantage of people's knowledge of the world around them by
 using metaphors to convey concepts and features of your application. Use
-metaphors involving concrete, familiar ideas and make the metaphors plain,
-so that users have a set of expectations to apply to computer environments.
-For example, people often use folders to store paper documents in their
-offices. Therefore, it makes sense to people to store computer documents in
+metaphors involving concrete, familiar ideas and make the metaphors plain, so
+that users have a set of expectations to apply to computer environments.  For
+example, people often use folders to store paper documents in their offices.
+Therefore, it makes sense to people to store computer documents in
 computer-generated folders that look like files and folders. People can
 organize their hard disks in a way that's analogous to the way they organize
 their file cabinets [@apple_apple_1987, 4].
@@ -330,13 +350,13 @@ the actual online book/bookshelf/bookcase." The "book metaphor" ultimately
 be familiar with on-line viewing tools" [@cox_method_1999].
 
 Another metaphor machine can be found in the collaboration between the
-influential product design firm IDEO and Xerox. The two worked on an early
-file manager shell PC Catalog, later renamed to TabWorks. In describing the
-design process, IDEO developers wrote about defining "key elements of the
-metaphor" contained in the image of "tabs" and "catalogs." "The book *cover*,"
-they wrote, "opened to display three *rings* binding a set of divider *tabs*,
-each containing one or more *pages*." Pages, in turn contained *items* or
-"icons representing documents or applications"
+influential product design firm IDEO and Xerox in the 1990s. The two worked on
+an early file manager shell PC Catalog, later renamed to TabWorks. In
+describing the design process, IDEO developers wrote about defining "key
+elements of the metaphor" contained in the image of "tabs" and "catalogs."
+"The book *cover*," they wrote, "opened to display three *rings* binding a set
+of divider *tabs*, each containing one or more *pages*." Pages, in turn
+contained *items* or "icons representing documents or applications"
 [@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "In this way, the
@@ -345,25 +365,6 @@ notebook metaphor" [@glaser_graphical_1995]. In all of these examples, the
 user is meant to handle the metaphor in some way. The metaphor structures the
 material affordances of the simulation according to the rules of the physical
 world.
-
-Metaphor machines present us with a special case of conceptual domain
-blending. In the cognitive view, the metaphor performs a number of
-"conventional mappings from one domain to another" [@lakoff_contemporary_1998,
-239]. Lakoff mentions for example the common trope of "a state is a person,"
-implicit in the ideas of a "friendly" or a "hostile" states
-[@lakoff_contemporary_1998, 243]. In this way ideas about agency, emotion, and
-mental life usually attached to people can be extended to state actors.
-Similarly, to say that someone is "boiling mad," instantiates the common trope
-of "anger is a hot liquid in a container." In this case, common known
-properties attached to the domain of physics can be mapped onto the domain of
-emotion. Lakoff further explains that such domain mappings tend follow a few
-rules. They are usually partial and asymmetrical. "Mappings are not
-arbitrary," he writes, "but grounded in the body and in everyday experience
-and knowledge." Finally domain mapping obeys what Lakoff call the Invariance
-Principle, by which "the image schema structure of the source domain is
-projected onto the target domain in a way that is consistent with inherent
-target domain structure" [@turner_conceptual_1995; @lakoff_contemporary_1998;
-@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
 
 ### 1.2 Verisimilitude
 
