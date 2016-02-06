@@ -203,7 +203,7 @@ contact between human and machine. Our goal in this chapter, is to unpack the
 metaphor. We must begin to separate the resemblance from its designation: the
 apparent shape from a command in the imperative.
 
-### 1.1 Interface Metaphor
+### 1.1 Verisimilitude
 
 In the language of cognitive metaphor theory, the kind of interface metaphors
 that we have been discussing so far go under the name of *structural
@@ -366,7 +366,7 @@ user is meant to handle the metaphor in some way. The metaphor structures the
 material affordances of the simulation according to the rules of the physical
 world.
 
-### 1.2 Verisimilitude
+### 1.2 To Turn a Page
 
 The principles of metaphor-driven design contain an implicit model of
 human--computer interaction, which implies that humans prefer to manipulate
@@ -394,24 +394,25 @@ opens figurative possibilities. But it also obscures the actual physical
 contingencies of interacting with bits and bytes, logic gates and magnetic
 traces.
 
-Bits and bytes differ from files and folders, pages and paragraphs in what
-they can do. The affordances of the physical medium differ drastically from
-affordances of the simulated one. The metaphorical substitution encourages
-readers to extend the facility they have with manipulating one sort of media
-(paper and ink) to another (screen and pixels). But what readers gain in
-facility, they lose in critical faculty. Alienated from the actual physical
-structures of information storage and retrieval, readers gain access to the
-metaphor alone. Thus we "turn the page" but in reality redraw the screen. We
-"highlight a passage" but in reality send information about the highlighted
-passage to a data aggregation service. We "share a book" but in reality assign
-a temporary license to another user. Where did the text go? someone asks when
-downloading a paper from an online journal.[^ln4-nested] It is in your "home"
-I answer. But unless one of us is familiar with the material contingencies of
-file storage, neither has a mental map of any physical location corresponding
-to the "home" directory, the default location of personal files on many
-systems. When confronted with the actual affordances of digital text, the user
-grasps for neutered metaphors. We "reside" in such homes, "own," "share," and
-"create" only in the simulacrum.
+We manipulate bits and bytes diversely from files and folders, pages and
+paragraphs. The affordances of the physical medium differ from affordances of
+the simulated one. The metaphorical substitution encourages readers to extend
+the facility they have with manipulating one sort of media (paper and ink) to
+another (screen and pixels). But what readers gain in facility, they lose in
+critical faculty. Alienated from the actual physical structures of information
+storage and retrieval, readers gain access to the metaphor alone. Thus we go
+through the motions of turning the page but actually redraw the screen. We
+"highlight a passage," an action that may also send information about the
+highlighted passage to a data aggregation service. We "share a book" which
+means really assigning a temporary license to another user. The structures of
+governance do not reveal themselves in the metaphor. Where did the text go?
+someone asks when downloading a paper from an online journal.[^ln4-nested] It
+is in your "home" I answer.  But unless one of us is familiar with the
+material contingencies of file storage, neither has a mental map of any
+physical location corresponding to the "home" directory, the default location
+of personal files on many systems.  When confronted with the actual
+affordances of digital text, the user grasps for neutered metaphors. We
+"reside" in such homes, "own," "share," and "create" only in the simulacrum.
 
 The metaphors of human-computer interaction conceal the structure of
 computation. Print offers a relatively static and stable medium for knowledge
@@ -469,8 +470,8 @@ The reader already knows how to turn pages of a book. A book device therefore
 simulates pages to ease the cognitive burden of transitioning from paper to
 pixel. Instead of issuing unfamiliar commands to the computer to turn the
 page, readers perform the more habituated motion of swiping across the screen.
-The gliding motion enacts a kinetic metaphor, transposing properties of paper
-to glass.
+The gliding motion enacts a kinetic analogy---a type of a
+metaphor---transposing properties of paper to glass.
 
 The interface metaphor similarly exchanges one referent for another.
 Simulation should, by definition, "assume a form resembling that of something
@@ -488,76 +489,70 @@ exposes the frailty of our alienation from the material contexts of digital
 knowledge production. Our grasp on the medium weakens the more convincing the
 simulacrum.
 
-Readers have to bear this burden of conceptual transference. In pretending to
-turn virtual pages, we lose sight of the mechanisms producing the simulation.
-If we hope to practice anything like interpretation or close reading at the
-level of discourse, we must certainly also practice them at the physical site
-of discourse formation. A truly materialist poetics would reach beyond
+Readers bear the burden of conceptual transference. In pretending to turn
+virtual pages, we lose sight of the mechanisms producing the simulation. If we
+hope to practice anything like interpretation or close reading at the level of
+discourse, we must certainly also practice them at the physical site of
+discourse formation. A truly materialist poetics would reach beyond
 representation towards the object. More than superficial embellishment, the
 skeuomorphic metaphor enacted at the surface of the digital literary device
 structures all meaning-carrying units: from individual letters, to words,
 paragraphs, chapters, books, and pages. In our example, we know that there is
-nothing inherently page-like about stiff slabs of glass and silicone.  The
+nothing inherently page-like about rigid slabs of glass and silicone. The
 metaphor of "turning the page by swiping across the screen" conceals the
-structural rift between media. Why would readers engage in such a charade? Why
-not simply make use of novel interfaces afforded by new technology? The
-literature from the field of human--computer interaction suggests a formalist
-answer: habituation [@carroll_metaphor_1982; @carroll_interface_1987;
-@spolsky_user_2001]. The initial effort it takes to learn to read in a new
-environment may discourage many potential readers from adopting a new
-technology. Smart designers therefore rely on acculturated practice, the
-turning of pages in our case, to minimize the "friction" of adoption. Although
-an "electronic book reader" contains no pages as such, it extends the metaphor
-of pages to electronic reading.
+structural rift between media.
 
-The usability metaphor comes at a cost of concealment. A digital poem, a novel,
-a physician's script, or a legal contract may resemble their paper
-counterparts. But the metaphor of "turning pages" is but one simulation among
-the device's many possibilities. When imitating pages, the reading *appliance*
-also monitors, adjusts, warns, and controls. In return for usability it
-simulates and dissembles. The exposition of the metaphor reminds us of the
-compromise between two conceptual systems. It reveals real material affordances
-behind the symbol.
+Why would readers engage in such a charade? Why not simply make use of novel
+interfaces afforded by new technology? The literature from the field of
+human--computer interaction suggests a formalist answer: habituation
+[@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
+initial effort it takes to learn to read in a new environment may discourage
+many potential readers from adopting a new technology. Smart designers
+therefore rely on acculturated practice, the turning of pages in our case, to
+minimize the "friction" of adoption. Although an "electronic book reader"
+contains no pages as such, it extends the metaphor of pages to electronic
+reading. The perceived facility of use comes at a cost of critical engagement.
+The structures of governance, like those embedded in a Portable Document
+Format, remain for the most part inaccessible to analysis. A digital poem, a
+novel, a physician's script, or a legal contract resembles their paper
+counterparts to enable familiar actions. But while imitating paper pages, the
+reading *appliance* also monitors, adjusts, warns, and controls. Those
 
 Simulation conceals structuring principles large and small. Some of the
 concealed details may remain inconsequential, like the limit on how many keys
 can be pressed at once without overwhelming the circuitry of keyboard when
 typing. Other concealed details are of paramount importance, like digital
 rights management chips and censorship filters. Electronic books are governed
-and internalize government structures in ways that we have only begun to
-comprehend. The material affordances of device--bound textuality influence all
-higher-level functions of interpretation.[^ln1-rmedium] Yet, available
-theories of interpretation build on properties and assumptions attached to
-print media. For example, in Hans-Georg Gadamer's seminal conception of art,
-the free play of the artistic mind transforms into material structure
-(*Gebilde*) that is both "repeatable" and "permanent" [@gadamer_truth_1975,
-110]. Similarly, in *Interpretation Theory*, Paul Ricoeur writes about the
-"range of social and political changes" related to the invention of writing.
-For Ricoeur, human discourse is "fixed" and thereby "preserved from
-destruction" in writing [@ricur_interpretation_1976, 26-8].
+and internalize government structures in ways that are often purposefully
+hidden the reader. For example, the US Digital Millennium Copyright Act
+prohibits the physical circumvention of copyright protections
+[@ku_critique_2004; @ginsburg_legal_2005; @perzanowski_rethinking_2008;
+@fry_circumventing_2009; @von_lohmann_unintended_2010]. This means that if an
+electronic book is encrypted in some way to prevent copyright infringement,
+the reader may also prevented from examining models of accessibility,
+preservation, or freedom of speech encoded into the device.
 
+The material affordances of text at that bottom-most, meaning-bearing medium
+influence all higher-level functions of interpretation.[^ln1-rmedium] Still,
+most available theories of interpretation build on properties and assumptions
+attached to print media. For example, in Hans-Georg Gadamer's seminal
+conception of art, the free play of the artistic mind transforms into material
+structure (*Gebilde*) that is both "repeatable" and "permanent"
+[@gadamer_truth_1975, 110]. Similarly, in his *Interpretation Theory*, Paul
+Ricoeur writes about the "range of social and political changes" related to
+the invention of writing. For Ricoeur, human discourse is "fixed" and thereby
+"preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 The electronic literary device offers no such permanence. The very meanings of
-the words "fixed," "permanent," and "repeatable" change with the medium. The
-engineering of literary artifacts conceals a number of design choices,
-obscuring the flows of code and codex under the familiar guise of surface
-representation. The digital book does not just simulate a book. Being a type
-of a Turing machine, it holds the potential to embody all possible
-metaphors.[^ln1-notquite] The task of the literary scholar reading on the
-level of the device becomes to make the figure available for interpretation.
-It is to apprehend its revealed mechanics. What happens in the metaphorical
-transference between the book and the apparatus simulating the book?
-Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
-shaping mental experience. Materialist poetics allow one to consent, or,
-conversely, to resist elements of imposed structure.
-
-Nothing is guaranteed in the passage of electronic text from one pair of hands
-into another. Digital formatting expands its purview far beyond typographical
-convention. The erasure of words, word substitution, automatic summarization,
-wholesale generation of discourse by algorithmic means---the command and
-control layer contains all such possibilities. What does it mean to read and
-to interpret a dynamic text, which changes depending on its context? How can
-literary analysis---close reading, philology, hermeneutics---persist without
-the fixity of print?
+the words "fixed," "permanent," and "repeatable" change with the medium. Such
+properties come to us under the guise of surface representation, which
+obscures the flows of code and codex. Nothing is guaranteed in the passage of
+electronic text from one pair of hands into another. Digital formatting
+expands its purview far beyond typographical convention. The erasure of words,
+word substitution, automatic summarization, wholesale generation of discourse
+by algorithmic means---the command and control layer contains all such
+possibilities. What does it mean to read and to interpret a dynamic text,
+which changes depending on its context? How can literary analysis---close
+reading, philology, hermeneutics---persist without the fixity of print?
 
 Consider the commonplace task of "turning pages" in the act of writing or
 reading digital texts. In cognitive linguistic terms, the idea of paper pages
@@ -607,6 +602,17 @@ computational metaphor simulates the familiar but absent affordances tied to
 an absent print artifact. The simulation suggests a structuring of one kind,
 while enacting a structure of another.
 
+In these novel conditions, the task of the literary scholar must include,
+among other things, a practice of microscopic reading that corresponds to the
+kind of micromolecular writing suggested by Baudrillard and Frederich Kittler
+[@kittler_there_1995]. The full extent of the simulated figure must be made
+available for interpretation. What happens in the metaphorical transference
+between the book as a work of art and the apparatus simulating the book?
+Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
+shaping mental experience. It apprehends the revealed mechanics of
+computational reading. Materialist poetics subsequently allow one to consent,
+or, conversely, to resist elements of imposed structure.
+
 ### 1.3 Death of a Metaphor
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
@@ -643,27 +649,28 @@ cites the poet Percy Shelley who wrote the following in defence of poetry:
 > thus disorganized, language will be dead to all the nobler purposes of human
 > intercourse [@shelley_essays_1840].
 
-Shelley anticipated what the cognitive school of metaphor theory was to
-confirm by empirical means more than a century later [@mojtabai_delusion_2000;
-@billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
-but also become naturalized: that is understood literally. They create
-connections that with time become habituated and invisible to their users. In
-other words, taken for literal truth, the metaphor loses its metaphoric
-quality. For example, for many readers the very idea of a "dead metaphor"
-itself may no longer evoke death as such. Perhaps they understand the "death"
-of the "dead metaphors" to function synonymously with "conventional" or
-"idiomatic metaphors."[^ln4-dead] In Shelley view, such metaphors are destined
-to become dead and habituated only to be reborn again in poetry. At its most
-generative stage, the metaphor actively produces new meaning. The creative
-juxtaposition between two as before unrelated domains brings new aspects of
-experience to light. But with time, the poetic metaphor becomes a tired
-cliché. It longer "perpetuates understanding." It dies in a sense of becoming
-a mere shortcut to understanding. In Viktor Shklovsky's words, we "cease to
-experience" the trope. The metaphor "dries up" when we begin recognizing it
-without apprehension [@shklovsky_voskreshenie_1914]. It no longer generates
-new connection between domains, but merely reinforces existing ones. In Vilem
-Flusser's words, habituated idiom proceeds smoothly, giving us no pause,
-without bumps or interruptions [@flusser_freedom_2003, 13 and 82].
+In this, Shelley anticipated what the cognitive school of metaphor theory was
+to confirm by empirical means more than a century later
+[@mojtabai_delusion_2000; @billig_metaphor_2005]. Metaphors do not "die" as
+such. They continue to live, but also become naturalized: that is understood
+literally. They create connections that with time become habituated and
+invisible to their users. In other words, taken for literal truth, the
+metaphor loses its metaphoric quality. For example, for many readers the very
+idea of a "dead metaphor" itself may no longer evoke death as such. Perhaps
+they understand the "death" of the "dead metaphors" to function synonymously
+with "conventional" or "idiomatic metaphors."[^ln4-dead] In Shelley view, such
+metaphors are destined to become dead and habituated only to be reborn again
+in poetry. At its most generative stage, the metaphor actively produces new
+meaning. The creative juxtaposition between two as before unrelated domains
+brings new aspects of experience to light. But with time, the poetic metaphor
+becomes a tired cliché. It longer "perpetuates understanding." It dies in a
+sense of becoming a mere shortcut to understanding. In Viktor Shklovsky's
+words, we "cease to experience" the trope. The metaphor "dries up" when we
+begin recognizing it without apprehension [@shklovsky_voskreshenie_1914]. It
+no longer generates new connections between domains, but merely reinforces
+existing ones. In Vilem Flusser's words, also quoted in the introduction,
+habituated idiom proceeds smoothly, giving us no pause, without bumps or
+interruptions [@flusser_freedom_2003, 13 and 82].
 
 Lakoff famously took exception with the idea of dead metaphors, arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
@@ -671,14 +678,15 @@ structuring everyday experience. He gave the example of the sentence: *He
 still can't quite grasp the basic ideas of quantum mechanics*. Grasping in
 this case is used as a synonym to "understanding." It indicates a transference
 of properties between physical action (grasping) and mental action
-(understanding). Despite being a cliché, the metaphor is alive according to
-Lakoff, because it continues to perform a function, giving a name to a mental
-activity that we would otherwise find difficult to explain precisely. Such a
-metaphor is more alive than other, perhaps more novel, "one off" poetic
-metaphors that failed to become cultural tropes. Shelly's and Shklovsky's
-ideal poetic metaphors works once and never again. Their value lies in their
-novelty. Lakoff's everyday metaphor is not new, but it is vital precisely
-because it is used widely. It continues to bridge domains productively.
+(understanding). Despite being a cliché, the metaphor is alive in a sense,
+Lakoff argues, because it continues to perform a function, giving a name to a
+mental activity that we would otherwise find difficult to explain precisely.
+Such a metaphor is less dead than other, perhaps more novel, "one off" poetic
+metaphors that failed to become widely circulating cultural tropes. Shelly's
+and Shklovsky's ideal poetic metaphor works once and never again. Its value
+lies in its novelty and capability for regeneration. Lakoff's everyday
+metaphor is not novel, but it is vital precisely because it is used widely. It
+continues to bridge domains productively and therefore lives.
 
 A truly dead metaphor for Lakoff is one in which the original source image no
 longer makes sense. He gives the example of the English word *pedigree*, which
@@ -1103,8 +1111,8 @@ expose the mediating systems supporting the simulation. A measure of
 discomfort in the fit between bodies, keyboards, and screens ensures our
 ability to structure the encounter on our own terms: to opt in when useful and
 to opt out when necessary. My concern is not with the metaphysical entailments
-of a possible posthuman future. The illusion of directness rather conceals the
-very human mechanisms of command and control. The simulation ultimately
+of a possible posthuman future. The illusion of directness rather dissembles
+the very human mechanisms of command and control. The simulation ultimately
 embodies a specific power structure in an economy of exchange between physical
 and mental resources. In this market there are those who profit and those
 whose virtual avatars become a commodity.

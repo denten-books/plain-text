@@ -848,7 +848,7 @@ The application layer stops at the subject. Access to the layers intrinsic to
 device operation (and consequently to analysis) are sometimes "merely" obscured
 and sometimes made illicit outright, as is arguably the case with U.S. Code,
 Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
-systems" and passed as part of the "Digital Millennium Copyright Act" (DMCA) in
+systems" and passed as part of the Digital Millennium Copyright Act (DMCA) in
 1998. A literary scholar may be familiar with some provisions of American
 copyright law governing text as surface representation: US Code, Title 17
 extends "exclusive rights" to "copyright owners" of "literary works." The
