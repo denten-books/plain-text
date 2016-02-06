@@ -210,30 +210,23 @@ In the language of cognitive metaphor theory, the kind of interface metaphors
 that we have been discussing so far go under the name of *structural
 metaphors*. "Structural metaphors allow us to do much more than just orient
 concepts," Lakoff and Johnson wrote [@lakoff_metaphors_1980, 61]. Grounded in
-"systematic correlations within our experience," they transfer organizing
-principles from one domain to another. Thus to say something like "time is
-money" is not just to compare time an money visually or ontologically, but to
-suggest that something in the arrangement of the financial system resembles
-something in the arrangement of the temporal system [@lakoff_metaphors_1980,
-65-8]. It is a structural similarity. If metaphors work by transferring
-qualities, structure is the quality being transferred in all of the above
-cases. Structural metaphors organize one thing in the shape of another.
+"systematic correlations within our experience," structural metaphors transfer
+organizing principles from one domain to another. Thus to say something like
+"time is money" is to suggest that something in the arrangement of the
+financial system correlates systematically to something in the arrangement of
+the temporal system [@lakoff_metaphors_1980, 65-8]. It is a structural and not
+just a semantic similarity. If metaphors work by transferring qualities,
+structure is the quality being transferred in all of the above cases.
+Structural metaphors organize one thing in the shape of another. They are for
+this reason key to understanding the transference that takes place in the
+interface between human and machine.
 
 On an abstract level, structural substitution defines computation in general.
-Recall for a moment Turing's seminal definition of the universal computing
-machine, covered also in greater detail in the next chapter.[^ln1-turing] What
-he calls a "computing machine" involves a finite number of configurations of
-"tape" and "symbol." The machine attains a universal quality when
-configurations of tape and symbol can substitute for all other forms of
-symbolic manipulation. In this way a universal computer can emulate a
-calculator, but also typewriter, a book, and a fairy tale world.  Turing's
-universal computing machine is a type of a structural metaphor by definition.
-It has the ability to represent all other symbolic machine states,
-symbolically. Being a universal symbolic manipulator, the Turing machine is
-able to extend all metaphors. That is not to say that it can *do* anything.
-For example, one cannot use a computational device to hammer nails.  But a
-computer can be used to create the verisimilitude of hammering nails in the
-virtual realm.
+The computer can be imagined as a universal metaphor machine, capable of
+simulating anything that can be represented symbolically. That is not to say
+that it can *do* anything.  For example, one cannot use a computational device
+to hammer nails. A computer can be used to create the verisimilitude of
+hammering nails in the virtual realm.
 
 The language of computation reveals its reliance on metaphor in practice.
 Consider the following passage from a patent filed by Xerox in 1991. It
