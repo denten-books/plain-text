@@ -856,13 +856,13 @@ frustration and of being "manipulated" by a seemingly unyielding, rigid,
 intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
 
-Faced with an unfamiliar word, the conversational intermediary of the Colossal
-Cave Adventure could only repeat "That's not a verb I recognise." And it
-understood roughly 295 commands, and knew about 1,600 words in response
-arranged into a several hundred canned phrases.[^ln1-count]
+The conversational intermediary of the Colossal Cave Adventure understood
+roughly 295 commands, and knew about 1,600 words in response arranged into a
+several hundred canned phrases.[^ln1-count] Faced with an unfamiliar word, it
+could only repeat "That's not a verb I recognise."
 
 [^ln1-count]: Rick Adams maintains the source code for a number of early
-versions of the game at http://rickadams.org/adventure/e_downloads.html. I
+versions of the game at http://rickadams.org/adventure/e_downloads.html.  I
 used PDP-10 Fortran version and ran `tr`, `uniq`, and the `wc` Unix utilities
 to isolate and count the unique words from the data file.
 
@@ -881,72 +881,87 @@ interest is immediately visible [@shneiderman_future_1982, 251;
 
 The goal of direct manipulation was therefore to achieve a perfect
 correspondence between "representation" and the "object of interest."
-Shneiderman sites Leibniz in reference to symbolic notation, which in theory
-should also "express the exact nature of a thing briefly and, as it were,
-picture it." For Leibniz, the symbol, an exact and portable picture of an
-idea, could subsequently diminish the mental effort required for abstract
+Shneiderman sites Gottfried Leibniz in reference to symbolic notation, which
+in theory should also "express the exact nature of a thing briefly and, as it
+were, picture it." For Leibniz, the symbol, an exact and portable picture of
+an idea, could subsequently diminish the mental effort required for abstract
 thought, leading to a "great advantage for discovery"
-[@shneiderman_direct_1983, 57]. Thus, the calculus of Leibniz and his notation
-for infinitely small and infinitely large numbers---ideas that would not fit
-on the page or in the mind otherwise, without compact representation
-[@cajori_history_1923; @thurston_leibnizs_1973; @grabiner_is_1974]. For
-Shneiderman and others, a computer game like *Pong* provided the paradigmatic
-example for direct symbolic manipulation. When playing, the player would
-control a virtual table-tennis paddle by rotating rotate a physical knob on
-gaming console. The movement of the physical knob corresponded directly to the
-movement of the paddle---clockwise for up and counter-clockwise for
-down---thus achieving the correspondence between "operation" and the "impact
-on the object of interest" [@shneiderman_direct_1983, 60].
+[@leibniz_briefwechsel_1899, 375; @shneiderman_direct_1983, 57]. The calculus
+of Leibniz and his symbolic notation has allowed mathematicians to represent
+infinitely small and infinitely large numbers in print---ideas that would not
+fit on the page or in the mind otherwise [@cajori_history_1923;
+@thurston_leibnizs_1973; @grabiner_is_1974]. For Shneiderman and others, a
+computer game like *Pong* similarly enabled the direct manipulation of complex
+abstractions, allowing a player to control a virtual table-tennis paddle by
+rotating a physical knob on gaming console. The movement of the physical knob
+corresponded directly to the movement of the paddle---clockwise for up and
+counter-clockwise for down---thus achieving the correspondence between
+"operation" and the "impact on the object of interest"
+[@shneiderman_direct_1983, 60]. Without such a "direct" linkage, the physics
+of the game simulation would be too complex for players to handle effectively,
+if they were asked to play by writing formulas in code, for example.
 
-By contrast, the conversational model of human--computer interaction was
-plagued (in their view) by what researchers considered an arbitrary, symbolic
-relationship of the sign to its signifier. In this way, when using *EMACS*, a
-text editor commonly found on UNIX systems of the time, one would enter the
-command `k` in combination with other keys to delete or to "kill" a file,
-where on other systems, Shneiderman complains, `k` stood for "keep a file,"
-the opposite from killing it as one would expect [@shneiderman_direct_1983,
-65]. In the conversational model, the command stood in an arbitrary
-relationship to the intended effect, where in the direct manipulation model
-something like the knob and the movement of the paddle related mimetically. To
-be more precise, the direct manipulation paradigm advocated for an "iconic"
-relationship between representation and the object of interest
-[@norman_user_1986, 110]. Like onomatopoetic words, the movement of the knob
-resembles the movement of the thing it represents.  Edwin Hutchins, Donald
-Norman, and James Hollan write: "There is an economy here in that the user's
-knowledge of the structure of the surface acoustical form has a non-arbitrary
-relationship to meaning [...] The same sort of thing can be done in the design
-of interface languages" [@norman_cognitive_1991, 123]. An iconic image
-requires no explanation. It is intuitive. Instead of searching for the right
-command the user relies on the habituated affordances of real-world
-objects---table tennis paddles and paper trashcans---to manipulate virtual
-objects---computer games and file systems.
+The conversational model of human--computer interaction was hindered by what
+researchers considered an arbitrary, symbolic relationship of the sign to its
+signifier. In this way, when using *EMACS*, a text editor commonly found on
+UNIX systems of the time, one would enter the command `k` in combination with
+other keys to delete or to "kill" a file, where on other systems, Shneiderman
+complains, `k` stood for "keep a file," the opposite from killing it as one
+would expect [@shneiderman_direct_1983, 65]. In the conversational model, the
+command stood in an arbitrary relationship to the intended effect, where in
+the direct manipulation model something like the knob and the movement of the
+paddle related mimetically. To be more precise, the direct manipulation
+paradigm advocated for an "iconic" relationship between representation and the
+object of interest [@norman_user_1986, 110]. Like onomatopoetic words, the
+movement of the knob resembles the movement of the thing it represents. Edwin
+Hutchins, Donald Norman, and James Hollan write: "There is an economy here in
+that the user's knowledge of the structure of the surface acoustical form has
+a non-arbitrary relationship to meaning [...] The same sort of thing can be
+done in the design of interface languages" [@norman_cognitive_1991, 123]. An
+iconic image requires no explanation. It is intuitive. Instead of searching
+for the right command the user relies on the habituated affordances of
+real-world objects---table tennis paddles and paper trashcans---to manipulate
+virtual objects---computer games and file systems. The move between
+"conversational" and "direct" interaction models could be explained as a shift
+from a system of symbolic signs which stand in arbitrary relationship to their
+referents to a system of iconic signs, that stand in a mimetic
+relationship.[^ln1-peirce]
 
-Crucially, the full immersion in the "mimetic context" of the virtual object
-could elicit the "suspension of disbelief" [@laurel_brenda_interface_1986,
-76]. In use, the metaphor machine fades from view. This in opposition to the
-now often-repeated Heideggerian insight into the nature of tool use. If the
-reader would recall, in *Being and Time*, Heidegger writes about the
-particular *handiness* of a tool, like a hammer. He writes, "the less we stare
-at the thing [...] the more actively we use it, the more original our relation
-to it becomes and the more undisguisedly it is encountered as what it is, a
-useful thing" [@heidegger_being_1996, 65]. For Heidegger, there was no way to
-understand a tool like a hammer theoretically, by detached reflection. One
-must understand it through use, in what he called *circumspection*
-[*Umsicht*]---the awareness of the object ready-to-hand [*zuhanden*]
-[@heidegger_sein_1967, 69]. Through use a hammer comes into peripheral vision,
-"its own kind of seeing" [@heidegger_being_1996, 65].  The metaphoric device
-frustrates the Heideggerian intuition about tools like hammers, planes, and
-needles. At hand, the device takes shape as a keyboard, a mouse, or a touch
-screen. But in the mind, as a simulation, it dissembles to behave like a page,
-a folder, or a wastepaper bin. The tool---a keyboard or a touch screen---is
-not encountered for what it is. Nor does simulated tool produce a special kind
-of knowledge of the sort elicited through mastery over actual instruments.
+[^ln1-peirce]: Charles Sanders Perice, a philosopher of language whose
+vocabulary I have been using here, suggests Simulacra as a possible synonym
+for Icon, citing also Plato's *Phaedrus* in relation to the Greek `ὁμοίωμα` or
+imitation [@peirce_excerpts_1998, 481; @plato_plato:_1999, 250a-b].
 
-Instead, the explicit function of the simulation is to obscure the mediated
-nature of the virtual experience and to manufacture an "interactive mimesis,"
-in what Laurel and others call "first personness," the experience of "directly
-living and acting within the world established by the computer"
-[@norman_user_1986, 490-1]. Hutchins, Hollan, and Norman write: "when an
+Crucially, within the "direct manipulation" paradigm, the full immersion in
+the mimetic context of the virtual object is aimed at the suspension of
+disbelief [@laurel_brenda_interface_1986, 76]. Through use, the mimetic icon
+usurps the "object of interest." The "directness" of the direct manipulation
+constitutes in fact the illusion of directness. Recall in this regard the
+Heideggerian insight into the nature of tool use. In *Being and Time*,
+Heidegger writes about the particular *handiness* of a tool, like a hammer. He
+writes, "the less we stare at the thing [...] the more actively we use it, the
+more original our relation to it becomes and the more undisguisedly it is
+encountered as what it is, a useful thing" [@heidegger_being_1996, 65]. For
+Heidegger, there was no way to understand a tool like a hammer theoretically,
+by detached reflection. One must understand it through use, in what he called
+*circumspection* [*Umsicht*]---the awareness of the object ready-to-hand
+[*zuhanden*] [@heidegger_sein_1967, 69]. Through use a hammer comes into
+peripheral vision, "its own kind of seeing" [@heidegger_being_1996, 65]. The
+metaphoric device frustrates the Heideggerian vision of technology in search
+of knowledge. At hand, the device takes shape as a keyboard, a mouse, or a
+touch screen. But in the mind, as a simulation, it dissembles to behave like a
+page, a folder, or a wastepaper bin. The tool---a keyboard or a touch
+screen---is not encountered for what it is. Nor does a simulated tool operate
+in the mode of Heideggerian revealment [@heidegger_question_1977]. Simply put,
+the simulation produces knowledge neither about the thing being simulated
+(paper or books, for example) nor about the system giving rise to the
+simulation (computational device, in our example).
+
+The simulation is rather designed to conceal the mediated nature of virtual
+experience. It manufactures what Laurel and others call an "interactive
+mimesis" and "first personness," the experience of "directly living and acting
+within the world established by the computer" [@laurel_brenda_interface_1986;
+@norman_user_1986, 490-1]. Hutchins, Hollan, and Norman write: "when an
 interface presents world of action rather than a language of description,
 manipulating a representation can have the same effects and the same feel as
 manipulating the thing being represented" [@hutchins_direct_1986, 98-99].
@@ -956,21 +971,21 @@ unlike Heidegger, who is thinking about tools at hand, direct manipulation
 theory imagines the handling of representations. The actual instrument
 enabling the manipulating of image or word on the screen is supposed to
 disappear entirely, giving rise to the immersive, interactive, first-person
-experience *without mediation*. "The user of a well-designed *model world*
-interface can willfully suspend disbelief that the objects depicted are
-artifacts of some program and can thereby directly engage the world of the
-objects," the authors write [@hutchins_direct_1986, 99]. In this view, the
-dialogic model of tool use encouraged by *Colossal Cave Adventure*---get keys,
-get lamp---amounts to nothing more than just "using the computer"
-[@laurel_brenda_interface_1986, 74]. "End users are not interested in *making*
-representations," Laurel writes. "They want to move around *inside* one,"
-favoring the mimetic context over their actual, physical surroundings
-[@laurel_brenda_interface_1986, 75]. Verbal representations, like "get keys"
-or "get lamp," puncture the first-person illusion. By contrast, the fully
-immersive modeled world should support the "sensation of directness," in which
-direct, iconic expressions "behave in such a way that a user can assume that
-they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
-110].
+experience, without the feeling of mediation. "The user of a well-designed
+*model world* interface can willfully suspend disbelief that the objects
+depicted are artifacts of some program and can thereby directly engage the
+world of the objects," the authors write [@hutchins_direct_1986, 99]. In this
+view, the dialogic model of tool use encouraged by *Colossal Cave
+Adventure*---get keys, get lamp---amounts to nothing more than just "using the
+computer" [@laurel_brenda_interface_1986, 74]. "End users are not interested
+in *making* representations," Laurel writes. "They want to move around
+*inside* one," favoring the mimetic context over their actual, physical
+surroundings [@laurel_brenda_interface_1986, 75]. Verbal representations, like
+"get keys" or "get lamp," puncture the first-person illusion. By contrast, the
+fully immersive modeled world should support the "sensation of directness," in
+which direct, that is iconic, expressions, "behave in such a way that a user
+can assume that they, in some sense, *are* the things they refer to"
+[@hutchins_direct_1986, 110].
 
 ![Direct manipulation of simulated objects. [@minsky_manipulating_1984,
 199]](images/minsky.png)
