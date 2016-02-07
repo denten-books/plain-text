@@ -858,8 +858,13 @@ intolerant dialogue partner [@walther_-line_1974, 379;
 
 Faced with an unfamiliar word, the conversational intermediary of the Colossal
 Cave Adventure could only repeat "That's not a verb I recognise." And it
-understood roughly 193 commands, and knew about 437 words in response arranged
-into a several hundred canned prases.
+understood roughly 295 commands, and knew about 1,600 words in response
+arranged into a several hundred canned phrases.[^ln1-count]
+
+[^ln1-count]: Rick Adams maintains the source code for a number of early
+versions of the game at http://rickadams.org/adventure/e_downloads.html. I
+used PDP-10 Fortran version and ran `tr`, `uniq`, and the `wc` Unix utilities
+to isolate and count the unique words from the data file.
 
 By the 1980s, a new breed of metaphorical interfaces gained widespread
 prominence. If *Colossal Cave Adventure* epitomized the conversational model
