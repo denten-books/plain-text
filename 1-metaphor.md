@@ -748,7 +748,7 @@ fails to achieve motivation. The analogy between discarding paper and erasing
 bits breaks down in the worst possible way. The material realities of the
 metaphor are not simply missing, they are misrepresented.
 
-### 1.4 Mimesis (Direct Manipulation)
+### 1.4 Mimesis of Direct Manipulation
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in her seminal 1984 essay "Interface as Mimesis." She went on to
@@ -764,40 +764,32 @@ computational environments begin to structure experience beyond the merely
 instrumental. Computers mediate in the interface between the public and the
 private, between art and politics, and between forces of capital and control.
 The simulacrum requires that we advance a reflective "science of the mimetic
-arts" lest we we lose a sense of what Michail Taussig has called the space
+arts" lest we lose a sense of what Michail Taussig has called the space
 ulterior to mimesis [@taussig_mimesis_1993, 129-144]. In other words, the
 suspension of disbelief must remain, as it was in Samuel Coleridge's original
 formulation, a *willful* act, containing further a "semblance of truth"
 required to animate the shadows of imagination [@coleridge_biographia_1917,
 6-7]. An involuntary or worse yet forced suspension of disbelief can only lead
-to a total critical disempowerment.
+to total critical disempowerment.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
 @martin_computerized_1970; @martin_design_1973]. Already in 1950, Turing
 imagined a conversation between a critic and an artificially intelligent poet:
 
-```
-Interrogator: In the first line of your sonnet which reads "Shall I compare
-thee to a summer's day," would not "a spring day" do as well or better?
 
-Witness: It wouldn't scan.
-
-Interrogator: How about "a winter's day," That would scan all right.
-
-Witness: Yes, but nobody wants to be compared to a winter's day.
-
-Interrogator: Would you say Mr. Pickwick reminded you of Christmas?
-
-Witness: In a way.
-
-Interrogator: Yet Christmas is a winter's day, and I do not think Mr. Pickwick
-would mind the comparison.
-
-Witness: I don't think you're serious. By a winter's day one means a typical
+>`Interrogator:` In the first line of your sonnet which reads "Shall I compare
+thee to a summer's day," would not "a spring day" do as well or better?  
+>`Witness:` It wouldn't scan.  
+>`Interrogator:` How about "a winter's day," That would scan all right.  
+>`Witness:` Yes, but nobody wants to be compared to a winter's day.  
+>`Interrogator:` Would you say Mr. Pickwick reminded you of Christmas?  
+>`Witness: In a way.  
+>`Interrogator:` Yet Christmas is a winter's day, and I do not think Mr. Pickwick
+would mind the comparison.  
+>`Witness:` I don't think you're serious. By a winter's day one means a typical
 winter's day, rather than a special one like Christmas
 [@turing_computing_1950].
-```
 
 The goal of conversational programming was to provide a similarly naturalized
 dialog between the operator and the machine. Although machine understanding of
@@ -843,17 +835,17 @@ here. There is a bottle of water here.
 > get keys
 OK
 
->get lamp
+> get lamp
 OK
 
->exit
+> exit
 You're at end of road again.
 ```
 
 Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model posed several significant
 downsides. While resembling human communication, it in fact utilized only a
-limited vocabulary. Researchers from the U.S. Air Force academy would later
+limited set of words. Researchers from the U.S. Air Force academy would later
 write:
 
 > The lower cost of computer access and the proliferation of on-line systems
@@ -863,6 +855,11 @@ computing wore off, users reported experiencing feelings of intense
 frustration and of being "manipulated" by a seemingly unyielding, rigid,
 intolerant dialogue partner [@walther_-line_1974, 379;
 @gaines_timesharing_1986, 15].
+
+Faced with an unfamiliar word, the conversational intermediary of the Colossal
+Cave Adventure could only repeat "That's not a verb I recognise." And it
+understood roughly 193 commands, and knew about 437 words in response arranged
+into a several hundred canned prases.
 
 By the 1980s, a new breed of metaphorical interfaces gained widespread
 prominence. If *Colossal Cave Adventure* epitomized the conversational model
