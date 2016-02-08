@@ -1597,13 +1597,6 @@ more detailed discussion follows in 1.2.
 [^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
 experience, despite the overwhelming evidence for determinism.
 
-[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
-from speaking to writing: "The most obvious change from speaking to writing
-concerns the relation between message and its medium or channel. At first
-glance, it concerns only this relation, but upon closer examination, the first
-alteration irradiates in every direction, affecting in decisive manner all the
-factors and functions" [@ricur_interpretation_1976, 25].
-
 [^ln1-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
 software as one of the "three myths" of computer science. "As a practical

@@ -286,11 +286,12 @@ usually partial and asymmetrical. "Mappings are not arbitrary," he writes,
 "but grounded in the body and in everyday experience and knowledge." Finally
 domain mappings obey what Lakoff calls the Invariance Principle, by which "the
 image schema structure of the source domain is projected onto the target
-domain in a way that is consistent with inherent target domain structure"
-[@turner_conceptual_1995; @lakoff_contemporary_1998;
-@ruiz_de_mendoza_ibanez_nature_1998; @lakoff_invariance_2009].
+domain in a way that is consistent with inherent target domain
+structure."[^ln1-metalakoff]
 
-<!-- add see also to the above citation -->
+[^ln1-metalakoff]: @lakoff_contemporary_1998. See also
+@turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
+@lakoff_invariance_2009.
 
 Metaphor machines present us with a special case of conceptual domain
 blending. The transference of structuring principles from one system to
@@ -534,8 +535,6 @@ prohibits the physical circumvention of copyright protections
 electronic book is encrypted in some way to prevent copyright infringement,
 the reader may also be prevented from examining modes of accessibility,
 preservation, or freedom of speech embedded into the device.
-
-<!-- fix missing footnote -->
 
 The material affordances of text at that bottom-most, meaning-bearing medium
 influence all higher-level functions of interpretation.[^ln1-rmedium] Still,
@@ -781,7 +780,6 @@ Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
 @martin_computerized_1970; @martin_design_1973]. Already in 1950, Turing
 imagined a conversation between a critic and an artificially intelligent poet:
-
 
 >`Interrogator:` In the first line of your sonnet which reads "Shall I compare
 thee to a summer's day," would not "a spring day" do as well or better?  
@@ -1192,4 +1190,11 @@ makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
 wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
+
+[^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
+from speaking to writing: "The most obvious change from speaking to writing
+concerns the relation between message and its medium or channel. At first
+glance, it concerns only this relation, but upon closer examination, the first
+alteration irradiates in every direction, affecting in decisive manner all the
+factors and functions" [@ricur_interpretation_1976, 25].
 
