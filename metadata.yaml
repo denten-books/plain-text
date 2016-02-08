@@ -2,19 +2,20 @@
 title: "Plain Text"
 subtitle: "The Poetics of Human-Computer Interaction (Sample Chapters)"
 author: "Dennis Tenen"
+cover-image: "images/steno.png"
 csl: csl/mla-no-biblio.csl
 bibliography: plain-text.bib
 toc: true
 mainfont: "fbb"
 fontsize: 12pt
-cover-image: images/steno.png
-documentclass: article
+date:
+documentclass: report
 classoption: none
 header-includes:
 - \usepackage{titlesec}
 - \newcommand{\sectionbreak}{\clearpage}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
-- \rhead{draft copy | do not circulate}
+- \rhead{\today\hspace{0.5em}|\hspace{0.5em}draft copy\hspace{0.5em}|\hspace{0.5em}do not circulate}
 - \lhead{}
 ---

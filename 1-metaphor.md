@@ -289,7 +289,7 @@ image schema structure of the source domain is projected onto the target
 domain in a way that is consistent with inherent target domain
 structure."[^ln1-metalakoff]
 
-[^ln1-metalakoff]: @lakoff_contemporary_1998. See also
+[^ln1-metalakoff]: [@lakoff_contemporary_1998] See also
 @turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
 @lakoff_invariance_2009.
 
@@ -586,8 +586,12 @@ example, in reading data from solid state (FLASH) memory a circuit imparts
 electrical charge through quantum tunneling onto a connected series of
 floating gate transistors [@pavan_flash_1997; @bez_introduction_2003].
 
-!["Perspective view of a portion of a charge translating device illustrating a
-preferred electrical contact arrangement." From
+![Formal structures at the site of the inscription. "Perspective view of a
+portion of a charge translating device illustrating a preferred electrical
+contact arrangement. A quantum of charge carriers, representing an information
+bit [...] can be translated along the semiconductor [...] sweeping the
+minority carriers with it. The quantum can be detected by a simple capacitive
+couple, e.g., a floating gate FET"
 [@boyle_information_1974].](images/floating-gate.png)
 
 Whatever the complexities of solid state storage architecture, the difference
