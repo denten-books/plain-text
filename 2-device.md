@@ -148,7 +148,7 @@ technology. To achieve these tasks, I will construct a short prehistory of the
 literary device, based on materials roughly from the first half of the
 twentieth century. I am interested in the simultaneous emergence of the
 literary device as formal technique, a series of thought experiments, and
-finally an instrument that lies at the modernist sources of contemporary
+finally an instrument that lies at the modernist origins of contemporary
 computational culture.
 
 ### 2.1 Technique
@@ -232,7 +232,7 @@ inaugural issue of the journal *Technology and Culture* would write about the
 scarcely amounted to a systematic scholarly discipline [@kranzberg_at_1959].
 "*Technology* is a word whose time has come," Langdon Winner would write in
 his influential volume on *Autonomous Technology* in 1978
-[@winner_autonomous_1978, 4].
+[@winner_autonomous_1978, 4]. Before technology, there was technique.
 
 ![Relative occurrence of the words "technology," "technique," and "machine" in
 the Google Books ngram corpus
@@ -250,42 +250,46 @@ authorship and apprehension, were made accessible to a mass audience. The
 Russian formalists in particular understood their task as one of radical
 democratization of the literary sphere. High literature that was once the
 purview of the select few could now belong to the proletariat at large. This
-meant that the reading and the writing of literature could be distilled into a
-set of reproducible rules---technique over art---which could be learned and
-shared widely.
+meant that the reading and the writing of literature had to be distilled into
+a set of reproducible rules---technique over art---to be learned and shared
+widely.
 
-Beyond its political context, the mechanization of language must also be seen
+Aside from its political context, the mechanization of language is best viewed
 in its instrumental environment. As we shall see in the later sections of this
-chapter, the developments in aesthetic theory followed a period of rapid
-innovation in the technologies of the word. The rise of formalist and
-structuralist thought---philosophy's linguistic turn that saw language as a as
-system of rule-based games---parallel the rise of programmable media, punch
-cards, and ticker tape. That is not to say that technology and theory stand in
-a reductive causal relationship to one another. They form rather a feedback
-loop, in which instruments, practices, and explanatory models evolve through
-mutual reciprocation. My understanding of the literary device in both of its
-senses---as technique and mechanism---is therefore motivated by more than mere
-linguistic ambiguity in the meaning of the word. Locating the literary
-theoretical construct of the device within its technological context allows us
-to witness the contemporaneous evolution and the mutual interdependence
-between art, engineering, and philosophy. The simultaneous emergence of
-literary technique, language games, and rule-based programmable media---punch
-cards and ticker tape---all form the part of the same cultural complex, which
-cannot be understood by looking at its constituent parts in isolation. The
-origins of computer science and literary formalism stem from a set of shared
-theoretical models and technological contingencies coming to fore of literary
-technology at the turn of the twentieth century.
+chapter, developments in aesthetic theory I describe in here followed a period
+of rapid innovation in the technologies of the word. The rise of formalist and
+consequently structuralist thought---philosophy's linguistic turn that saw
+language as a as system of rule-based games---parallel the rise of
+programmable media, punch cards, and ticker tape. That is not to say that
+technology and theory stand in a reductive causal relationship to one another.
+They form rather a feedback loop, in which instruments, practices, and
+explanatory models evolve through mutual reciprocation. My understanding of
+the literary device in both of its senses---as technique and mechanism---is
+therefore motivated by more than mere linguistic ambiguity in the meaning of
+the word. Locating the literary theoretical construct of the device within its
+technological context allows us to witness the contemporaneous evolution and
+the mutual interdependence between art, engineering, and philosophy.
+Theoretical innovations related to literary technique---the emphasis on on
+language games, form, the morphology of narrative---develop simultaneously
+with rapid change in the technologies of rule-based programmable media like
+punch cards and ticker tape. The origins of computer science and literary
+formalism can be traced back to a set of shared theoretical assumptions and
+technological contingencies coming to fore of telecommunications at the turn
+of the twentieth century.
 
-It is at this time that the formal concept of technique begins to remove the
-idea of literary production from its affective, intimate, and irreproducible
-contexts. The movement from art to craft implies primarily a change in the
-artist's relationship to the modes of artistic production. Where the artistic
-genius is unique, craft carries with it a model of inheritance. Where genius
-is born, technique can be learned and shared. Where the artist labors alone,
-the craftsman learns a trade in a workshop, as part of a collective. In a more
-abstracted sense, we can view the turn to technique as an attempt to decouple
-language from its irreproducible and idiosyncratic frames of reference. In his
-"Art as Device," Shklovsky writes:
+It is at this time that the formalist concept of technique begins to remove
+the idea of literary production from its affective, intimate, and
+irreproducible contexts. The emphasis on craft over art implies primarily a
+change in the artist's relationship to the modes of artistic production. Where
+the artistic genius is unique, craft carries with it a model of inheritance.
+Where genius is born, technique is shared. Where the artist labors alone, the
+craftsman learns a trade in a workshop, as part of a collective. In a more
+abstracted sense, we can view the turn to technique as a rejection of
+Schopenhauer's aesthetics, which emphasised individual genius
+
+aesthetics from its subjective
+
+In his "Art as Device," Shklovsky writes:
 
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
