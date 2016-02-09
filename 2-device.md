@@ -21,7 +21,7 @@ or, what Moreno alternatively calls the "cultural conserve" and the
 devices, social structures, and products of the mind that diminish creativity.
 With time, "technical devices" and the "methods in the making of cultural
 products" are inherited and "used with less friction." For Moreno, technology
-is first and foremost a labor-saving device and creativity the single most
+is first and foremost a labor-saving device, creativity being the single most
 important kind of labor. When the effort of creativity is diminished
 significantly, humans begin to "neglect and abandon the genuine and
 outstanding creative process." The robot leads to the extinguishing of "all
@@ -63,8 +63,9 @@ crowd out the present. Moreno writes:
 > and by whom. Many robots have further in common the attribute of comparative
 > immortality. A book, a film, an atomic bomb, they do not perish in the human
 > sense, the same capacity is always there, they can be reproduced *ad
-> infinitum* [...] Our human world is increasingly filled with robots and there
-> seems to be no end to new forms and new developments [@moreno_who_1953, 239].
+> infinitum* [...] Our human world is increasingly filled with robots and
+> there seems to be no end to new forms and new developments
+> [@moreno_who_1953, 239].
 
 In the aftermath of World War II, Moreno expanded the first edition of his
 book to consider the ultimate automaton, the atomic bomb. "Mankind has been
@@ -75,13 +76,13 @@ and bombs---continue to do their bidding blindly. They survive and continue to
 shape the social and the mental worlds to come. Moreno explains:
 
 > Many of the domesticated robots are blessed with the attribute of becoming
-labor-saving devices, which has, however the unpleasant consequence that they
-at times reduce the need for creating, promoting with leisure also inertia.
-[...] Many of the robots have also the attribute in common of being able to
-affect human beings or other "targets at a distance," a book, a radio or a
-television sender can entertain or teach at a distance, like a gun, a rocket
-and an atomic bomb can kill people and destroy at a distance. The book is a
-robot par excellence [@moreno_who_1953, 238].
+> labor-saving devices, which has, however the unpleasant consequence that
+> they at times reduce the need for creating, promoting with leisure also
+> inertia.  [...] Many of the robots have also the attribute in common of
+> being able to affect human beings or other "targets at a distance," a book,
+> a radio or a television sender can entertain or teach at a distance, like a
+> gun, a rocket and an atomic bomb can kill people and destroy at a distance.
+> The book is a robot par excellence [@moreno_who_1953, 238].
 
 For Moreno, the inertia of past decisions embodied in extant mechanisms
 ultimately poses a threat for human survival. In this view, the real
@@ -99,21 +100,24 @@ improvisation and role-play, in what Moreno called the "techniques of freedom"
 
 Moreno's jarring parallelism between books and bombs reminds the reader that
 both constitute a species of displaced agency, a problem long in the
-background of Western liberal thought.[^ln1-consensus] Both represent agency
-delayed in time and space. The projectile acts at a distance; once launched,
-it will complete its grim mandate even if the command to act is withdrawn.
-Technology of the word similarly decouples readers from writers. The book
-persists to mean in the absence of the author. Once decoupled, seemingly
-autonomous agents---books, folders, documents---clutter the social sphere,
-continuing to structure human experience in the absence of the originating
-accord. The above might appear a curious way of putting things, but not
-unusual in the larger context of post-Kantian humanism at the turn of the
-twentieth century. In Moreno's words we hear more than an echo of Marx's
-fetishism of commodities, by which "definite social relation between men"
-assumes "the fantastic form of a relation between things" [@marx_capital_1967,
-72]. Moreno arrives at a similar conclusion by another logic. In creating some
-of the earliest examples of social network graphs, he finds (and objects to)
-the presence of things in the position of social actors.
+background of Western liberal thought.[^ln1-consensus] In a strange way, both
+print and weaponry represent agency delayed in time and space. The projectile
+acts at a distance; once launched, it will complete its grim mandate even if
+the command to act is withdrawn. Technology of the word similarly decouples
+readers from writers. The book persists to mean in the absence of the author.
+Once decoupled, seemingly autonomous agents---books, folders,
+documents---clutter the social sphere, continuing to structure human
+experience in the absence of the originating accord. Knowledge, in Plato's
+terms begins to be replaced with the simulation or imitation [ὁμοίωμαi] of
+knowledge [@plato_plato:_1999, 250a-b]. The above might appear a curious way
+of putting things, but not unusual in the larger context of post-Kantian
+humanism at the turn of the twentieth century. In Moreno's words we hear more
+than an echo of Marx's critique of the fetishism of commodities, a dynamic by
+which "definite social relation between men" assumes "the fantastic form of a
+relation between things" [@marx_capital_1967, 72]. Moreno arrives at a similar
+conclusion by another logic. In creating some of the earliest examples of
+social network graphs, he finds (and objects to) the presence of things in the
+position of social actors.
 
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
@@ -129,8 +133,9 @@ personal computers comprise a part of the same digital infrastructure that
 powers drones and aircraft carriers. Today, computers in the service of the
 world's largest purveyors of literature are also used by air traffic control
 and covert intelligence agencies [@soyata_combat:_2012;
-@logicworks_government_2015]. The small computer in your pocket can also be
-used both to read books and to detonate explosives.
+@logicworks_government_2015]. A cellular phone, once a device used solely for
+voice telecommunication, is now used ubiquitously both to read books and to
+detonate explosives at a distance.
 
 These conditions compel us---historians, philologists, et al.---to reconsider
 the cozy relationship we have had with books since the advent of the Gutenberg
@@ -143,10 +148,8 @@ technology. To achieve these tasks, I will construct a short prehistory of the
 literary device, based on materials roughly from the first half of the
 twentieth century. I am interested in the simultaneous emergence of the
 literary device as formal technique, a series of thought experiments, and
-finally as an instrument that lies at the modernist foundations of
-contemporary computational culture. These material and intellectual
-genealogies will help reveal the electronic book as a device and to bring it
-back under the purview of interpretation.
+finally an instrument that lies at the modernist sources of contemporary
+computational culture.
 
 ### 2.1 Technique
 

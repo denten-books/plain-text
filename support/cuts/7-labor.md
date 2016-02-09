@@ -1088,32 +1088,33 @@ Heidegger's ideal non-disruptive poiesis.
 
 A more chartable reading of the passage would attempt to place Heidegger's
 critique of modern technology in the context of his phenomenology. Heidegger's
-phenomenology is a weighty, but well-explored topic, and for this reason I will
-limit our discussion to its most generally-known and relevant features. For
-Heidegger, our knowledge of the world comes in two flavors: presentness-at-hand
-[Vorhandenheit] and readiness-to-hand [Zuhandenheit]. When we think of some
-object in the world—a hammer, to use the famous example—we first imagine
-something like the formal definition of a hammer in a series of knowable facts
-about the object: a hammer is made of metal and wood, we use it to pound nails,
-it is man's first tool, and so on. The type of epistemological knowledge about
-the world, the knowledge that combines the readily observable properties and
-our shared understanding of the object, is called "present-to-hand" in
-Heidegger's system. "Ready-to-hand" knowledge by contrast is practical. I know
-something about the hammer, but I also have used a hammer—and in using it I
-understood the tool in an applied manner. But more than that, in using the
-hammer I understand something about the nail. An essential property of the
-transition between theoretical and applied knowledge of the world, is the
-disappearance of the tool. For Heidegger, the tool literally becomes a kind of
-"sight," helping us identify properties of the world that are particularly
-well-suited for its application. "Action has its own kind of sight," Heidegger
-writes in Being and Time.15 The hammer helps us experience the nail in a
-hammering kind-of-a-way. Hammering reveals something about the nail, and by
-extension, about metals in general. At the bottom of this experience is man's
-relationship to nature itself. All "good" technologies work in that way for
-Heidegger. "Technology comes to presence in the realm where revealing an
-unconcealment take place, where aletheia, truth, happens," he writes in "The
-Question Concerning Technology."16 The plow reveals something about the earth,
-just as the windmill reveals something about the air current.
+phenomenology is a weighty, but well-explored topic, and for this reason I
+will limit our discussion to its most generally-known and relevant features.
+For Heidegger, our knowledge of the world comes in two flavors:
+presentness-at-hand [Vorhandenheit] and readiness-to-hand [Zuhandenheit]. When
+we think of some object in the world---a hammer, to use the famous
+example---we first imagine something like the formal definition of a hammer in
+a series of knowable facts about the object: a hammer is made of metal and
+wood, we use it to pound nails, it is man's first tool, and so on. The type of
+epistemological knowledge about the world, the knowledge that combines the
+readily observable properties and our shared understanding of the object, is
+called "present-to-hand" in Heidegger's system. "Ready-to-hand" knowledge by
+contrast is practical. I know something about the hammer, but I also have used
+a hammer—and in using it I understood the tool in an applied manner. But more
+than that, in using the hammer I understand something about the nail. An
+essential property of the transition between theoretical and applied knowledge
+of the world, is the disappearance of the tool. For Heidegger, the tool
+literally becomes a kind of "sight," helping us identify properties of the
+world that are particularly well-suited for its application. "Action has its
+own kind of sight," Heidegger writes in Being and Time.15 The hammer helps us
+experience the nail in a hammering kind-of-a-way. Hammering reveals something
+about the nail, and by extension, about metals in general. At the bottom of
+this experience is man's relationship to nature itself. All "good"
+technologies work in that way for Heidegger. "Technology comes to presence in
+the realm where revealing an unconcealment take place, where aletheia, truth,
+happens," he writes in "The Question Concerning Technology."16 The plow
+reveals something about the earth, just as the windmill reveals something
+about the air current.
 
 Modern technology reveals too, but it breaks the "natural" phenomenological
 experience in two important ways. First, the tool fails to fully disappear into
@@ -1145,23 +1146,24 @@ part challenged forth by the need of paper, which is then delivered to
 newspapers and illustrated magazines.
 
 The commodification of both subject and object commodifies phenomenology
-itself. One can perceive more than a hint of Marx in this line of critique.  If
-the plow reveals something about the earth, the pen reveals something about
+itself. One can perceive more than a hint of Marx in this line of critique.
+If the plow reveals something about the earth, the pen reveals something about
 language. The relationship between man and language is of a primary importance
-to Heidegger. In the realm of language, man stands in relation to being itself.
-Heidegger's own discourse often progresses through a series of etymological
-reconstructions, which contain an almost mystical sense of reverence for the
-veracity of meaning contained in the original, Greek understanding of a given
-concept. By similar logic, the hand represents a "pure," unadulterated
-relationship of man to language. The hand "contains an essence of the human
-being because the word, as the essential region of the hand, is the essential
-ground of being human."17 In the metaphoric juxtaposition between word and
-ground, the analogy between pen and plow becomes apparent. And just like
-mechanized agriculture, mechanized writing "deprives the hand of dignity in the
-realm of the written word and degrades the word to a mere means for the traffic
-of communication."18 The typewriter commodifies language in other words,
-turning it into the "standing reserve" of information. "In mechanized writing
-all humans begin to look the same," writes Heidegger.19 
+to Heidegger. In the realm of language, man stands in relation to being
+itself.  Heidegger's own discourse often progresses through a series of
+etymological reconstructions, which contain an almost mystical sense of
+reverence for the veracity of meaning contained in the original, Greek
+understanding of a given concept. By similar logic, the hand represents a
+"pure," unadulterated relationship of man to language. The hand "contains an
+essence of the human being because the word, as the essential region of the
+hand, is the essential ground of being human."17 In the metaphoric
+juxtaposition between word and ground, the analogy between pen and plow
+becomes apparent. And just like mechanized agriculture, mechanized writing
+"deprives the hand of dignity in the realm of the written word and degrades
+the word to a mere means for the traffic of communication."18 The typewriter
+commodifies language in other words, turning it into the "standing reserve" of
+information. "In mechanized writing all humans begin to look the same," writes
+Heidegger.19
 
 ### Intermedia as Syncopation between Human, Machine, and Language 
 
