@@ -1,6 +1,8 @@
 # Part I: Simulation
 ## Chapter 1: Metaphor Machines
 
+Hello. 
+
 In the 1990s, I understood Jean Baudrillard's writing on simulacra in
 relationship to the media entertainment complex: amusement parks, virtual
 reality, and reality television. Today his writing gains another layer of
