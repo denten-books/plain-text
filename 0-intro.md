@@ -132,14 +132,15 @@ that mediate literary activity encode forms of governance. These tacit
 structures police intellectual property laws, censor, and carry out
 surveillance operations. For example, the Digital Millennium Copyright act,
 passed in the United States in 1996, goes beyond written injunction to require
-the management of digital rights (DRM) at the level of hardware. An electronic
-book governed by DRM may prevent the reader from copying or sharing stored
-content, even for the purposes of academic study.[^ln-dmca] Computational
-poetics strives to make such control structures available for critical
-reflection. Building on the recent work of scholars like Wendy Kyong Chun,
-Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered poetics, able
-regain a measure of control over the material contexts of our knowledge
-production [@chun_enduring_2008; @gitelman_paper_2014; @hu_prehistory_2015].
+in some cases the management of digital rights (DRM) at the level of hardware.
+An electronic book governed by DRM may subsequently prevent the reader from
+copying or sharing stored content, even for the purposes of academic
+study.[^ln-dmca] Computational poetics strives to make such control structures
+available for critical reflection. Building on the recent work of scholars
+like Wendy Kyong Chun, Tung-Hui Hu, and Lisa Gitelman I make the case for an
+empowered poetics, able regain a measure of control over the material contexts
+of our knowledge production [@chun_enduring_2008; @gitelman_paper_2014;
+@hu_prehistory_2015].
 
 ## 0.2 Displacement
 
@@ -231,8 +232,8 @@ Johnson famously argued, do more than decorate---they structure everyday human
 activity. The metaphor shapes one system of conceptual relationships in terms
 of another. For example, the military image of "fortification defence" implies
 a conceptual system structuring the "defence of an argument." When defending
-the argument, a speaker subsequently may act in a way that resembles combat. A
-different metaphor would suggest a less combative mode of engagement between
+the argument, a speaker therefore may act in a way that resembles combat. A
+different metaphor could suggest a less combative mode of engagement between
 interlocutors [@lakoff_metaphors_1980, 3-14].
 
 The Russian formalists of the early twentieth century understood estrangement
@@ -338,13 +339,13 @@ which have enveloped intellectual life through metaphoric substitution.
 
 I begin where Bernard Harcourt's recent book on digital disobedience ends:
 with the possibility of localized dissent [@harcourt_exposed:_2015]. Following
-itinerant theorists of the metaphor like Vilém Flusser, Viktor Shklovsky, and
-Hannah Arendt I propose to proceed through a process of systematic
-estrangement of computational metaphors; metaphors that fade into transparency
-as if to escape the critical gaze. A strategy of deliberate defamiliarization
-reclaims the metaphor-device for analysis. To come to terms with the book as a
-device; to begin to understand the nature of the text simulation; to perceive
-the particularity of the computed sign: these are the aims of *Plain Text*.
+itinerant theorists of the metaphor like Vilém Flusser and Viktor Shklovsky I
+propose to proceed through a process of systematic estrangement of
+computational metaphors; metaphors that fade into transparency as if to escape
+the critical gaze. A strategy of deliberate defamiliarization reclaims the
+metaphor-device for analysis. To come to terms with the book as a device; to
+begin to understand the nature of the text simulation; to perceive the
+particularity of the computed sign: these are the aims of *Plain Text*.
 
 ## 0.3 Metaphor
 
@@ -452,8 +453,8 @@ biographical, and philosophical aspects of literary formation, the formalists
 wanted to reconstruct how the thing was made. For example, in his influential
 essay on "How Gogol's *Overcoat* Was Made" Boris Eikhenbaum identified *skaz*,
 or the manner of speaking, as an organizing principle for Gogol's satirical
-narratives [@shklovksy_poetika_1919, 151-67]. What readers lost in having the joke
-explained to them they gained in understanding of the genre.
+narratives [@shklovksy_poetika_1919, 151-67]. What readers lost in having the
+joke explained to them they gained in understanding of the genre.
 
 I take a similar approach in *Plain Text* by extending formal concerns with
 the mechanics of literary "device" and "technique" to literary devices and
