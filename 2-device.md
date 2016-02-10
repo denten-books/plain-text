@@ -297,30 +297,31 @@ technique. In his "Art as Device," Shklovsky writes:
 > figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
 > 102].
 
-Unlike the previous generation of symbolist critics, the Russian formalists
-did not think that poetics could be reduced to a type of figurative thinking.
-Shklovsky and his fellow valued instead the "arrangement and the processing"
-of literary trope. This line of reasoning brings Shklovsky to the idea of
-linguistic "automatization." Prosaic, everyday language follows the "laws of
-conservation of energy," he writes, paraphrasing the thesis of Herbert
-Spencer's *The Philosophy of Style* [@spencer_philosophy_1892]. Shklovsky
-writes that "in fluid, practical speech words are not pronounced fully" and
-that "the mind barely perceives the initial sounds of each word." Shklovsky
-calls this dynamic the "algebraization of language" [@shklovksy_poetika_1919,
-105].  In algebraic thinking "thoughts are grasped through quantity and
-capacity---we do not see them as such, but merely recognize them by cursory
-characteristics" [@shklovksy_poetika_1919, 105]. The dynamics of
-automatization conserve mental energy. Semantic complexity is reduced to a
-compact formula. Estrangement, or the de-programming of received trope,
-constitutes the primary technique of aesthetic discourse. The role of art and
-analysis alike is to apprehend the thing, that is to undo the work of
-symbolism, which continually substitutes the composite signifier for the
-apparent unity of the sign. Estrangement arrests the algebraic optimization by
-which short-hand symbols stand for complex things and ideas. Thus, were
-prosaic everyday language follows the laws of conservation of energy, poetic
-language expands energy to make language difficult again [*zatrudnenie*] and
-to prolong attention [*vospriiatie*]. If language is a labor-saving device,
-poetic language is labor-intensive.
+Unlike the previous generation of critics who privileged the analysis of
+symbol, the Russian formalists did not think that poetics could be reduced to
+a type of figurative thinking.  Shklovsky and his fellow valued instead the
+"arrangement and the processing" of literary trope. This line of reasoning
+brings Shklovsky to the idea of linguistic "automatization." Prosaic, everyday
+language follows the "laws of conservation of energy," he writes, paraphrasing
+the thesis of Herbert Spencer's *The Philosophy of Style*
+[@spencer_philosophy_1892]. Shklovsky writes that "in fluid, practical speech
+words are not pronounced fully" and that "the mind barely perceives the
+initial sounds of each word." Shklovsky calls this dynamic the "algebraization
+of language" [@shklovksy_poetika_1919, 105].  In algebraic thinking "thoughts
+are grasped through quantity and capacity---we do not see them as such, but
+merely recognize them by cursory characteristics" [@shklovksy_poetika_1919,
+105]. The dynamics of automatization conserve mental energy. Semantic
+complexity is reduced to a compact formula. Estrangement, or the
+de-programming of received trope, constitutes the primary technique of
+aesthetic discourse. The role of art and analysis alike is to apprehend the
+thing, that is to undo the work of symbolism, which continually substitutes
+the composite signifier for the apparent unity of the sign. Estrangement
+arrests the algebraic optimization by which short-hand symbols stand for
+complex things and ideas. Thus, were prosaic everyday language follows the
+laws of conservation of energy, poetic language expands energy to make
+language difficult again [*zatrudnenie*] and to prolong attention
+[*vospriiatie*]. If language is a labor-saving device, poetic language is
+labor-intensive.
 
 Any innovation in the linguistic sphere is thus bound follow the cycle of
 habituation and renewal, according to the formalists. With time, a literary
