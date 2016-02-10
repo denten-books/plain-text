@@ -285,11 +285,11 @@ the artistic genius is unique, craft carries with it a model of inheritance.
 Where genius is born, technique is shared. Where the artist labors alone, the
 craftsman learns a trade in a workshop, as part of a collective. In a more
 abstracted sense, we can view the turn to technique as a rejection of
-Schopenhauer's aesthetics, which emphasised individual genius
-
-aesthetics from its subjective
-
-In his "Art as Device," Shklovsky writes:
+Schopenhauer's aesthetics, which emphasised individual creative genius
+reaching "beyond the objects which actually present themselves" towards the
+transcendent ideal [@schopenhauer_world_1906, 249]. Formalism dispels the
+illusion of creation, orienting the artist towards discovery through craft and
+technique. In his "Art as Device," Shklovsky writes:
 
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
