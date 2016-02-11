@@ -1191,8 +1191,10 @@ What are we to make of universal Turing machines implemented in virtual worlds
 like *Wireworld* (a cellular automaton simulation), or *Minecraft* (a procedurally
 generated sand-box world-exploration game)?
 
+<!---
 ![Universal Turing machine as an idea. "Nick Gardner's *Wireworld* multiplier,
 via a Turing machine."](images/turing-idea.png)
+--->
 
 At the very least, we must admit that such simulations cannot rest on the
 proverbial "turtles all the way down," unless that is, one believes that the
