@@ -1129,4 +1129,3 @@ ceases to serve as a tool for discovery--a function now addressed by the
 search and recommendation engines.
 
 [^ln-twobil]: Code metrics from @mccandless_million_2015.
-
