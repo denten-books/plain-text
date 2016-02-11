@@ -845,19 +845,18 @@ the book's cover?
 
 The tangled pathways of inscription winding its way through the device exist
 in relation to distinct communities of computational practice. A researcher
-cannot therefore expect to discover a single theoretical framework that can
-capture the complexity of the simulated textuality in motion. The inscription
-goes by one name in one part of the system and by another elsewhere. What
-counts for "code" and "poetry" in one domain, like computer science, may not
-account for the same in another domain, like creative writing. An engineer's
-use of the words "code" and "poetry" differs from that of a poet's. The
-changing contexts evoke the corresponding shift in operational definitions.
-Consequently, this book is neither a totalizing history of modern computing
-nor a survey of literary theory. Rather, the argument therein progresses from
-the action of the alphanumerical keyboard switch, through copper and silicon,
-to liquid crystal and the floating gate, and on towards the reader and the
-community. It is but one of many possible passes through a cavernous black
-box.
+cannot therefore expect to discover a single theoretical framework that
+captures the complexity of simulated text in motion. The inscription goes by
+one name in one part of the system and by another elsewhere. What counts for
+"code" and "poetry" in one domain, like computer science, may not account for
+the same in another domain, like creative writing. An engineer's use of the
+words "code" and "poetry" differs from that of a poet's. The changing contexts
+evoke the corresponding shift in operational definitions. Consequently, this
+book is neither a totalizing history of modern computing nor a survey of
+literary theory. Rather, the argument therein progresses from the action of
+the alphanumerical keyboard switch, through copper and silicon, to liquid
+crystal and the floating gate, and on towards the reader and the community. It
+is but one of many possible passes through a cavernous black box.
 
 The passage from keystroke to pixel gives the book its shape. In the chapters
 to follow, our mobile phones and laptops will come fully into view as metaphor
@@ -879,7 +878,7 @@ Materialist poetics arise concomitantly with a mechanistic, rule-based view of
 language leading to a series of thought experiments first in the writing of
 Ludwig Wittgenstein, and then in the seminal paper of Alan Turing on an
 imaginary computer capable of reading and writing. The verbs to read and to
-write imply a type of a cognitive processing. What does it mean to read and to
+write imply a type of cognitive processing. What does it mean to read and to
 write for a machine? At once a machine and an algorithm, the Turing machine
 blurs the boundaries between software and hardware, code and content,
 intelligence and imitation.
@@ -891,26 +890,26 @@ The text shimmered and glared: it was spoken of in terms of *hypertext*, light
 writing, and electricity. A generation of theorists that came after insisted
 on the weighty materiality of electronic media. Reading began to engage the
 morphology of rare metals, media archeology, hard drive forensics. Both
-accounts, I argue, capture an aspect of the same underlying condition. The
-perceived image of an inscription splits from its source. The sign plausibly
-resides both on the screen on the hard drive. It splits, in a sense, diverging
-at the site its projection from the site of the archive. The "illusion of the
-simulated text" will thereafter identify an incongruity between the two sites
-of reading. Erasing an inscription on the screen, for example, may not elicit
-the corresponding action on the disk. Using archival materials from the
-history of telegraphy in the late nineteenth and early twentieth centuries, I
-chart the gradual fracture and the ultimate disappearance of the inscription.
-Early computers stored human-readable text and machine instruction at the
-surface of the same storage media like punch cards and ticker tape. Although
-difficult to read, these forms of machine writing were readily visible and
-therefore amenable to analysis. The advent of magnetic storage forced the
-composite inscription into an opaque medium. Unable to perceive magnetic
-polarities without the aid of a machine, readers often manipulated text
-blindly. In this way a typist would type several sentences without seeing the
-printed output. The chapter identifies a milestone in the history of human
-textuality: the moment at which the inscription passes from view, giving rise
-to the sometimes conflicting but nevertheless consistent accounts of digital
-textuality.
+accounts, I argue, capture an aspect of the same underlying conditions. The
+perceived image of an archived inscription splits from its source. The sign
+plausibly resides both on the screen and on the hard drive. It splits, in a
+sense, diverging at the site its projection from the site of the archive. The
+"illusion of the simulated text" will thereafter identify an incongruity
+between the two sites of reading. Erasing an inscription on the screen, for
+example, may not elicit the corresponding action on the disk. Using archival
+materials from the history of telegraphy in the late nineteenth and early
+twentieth centuries, I chart the gradual fracture and the ultimate
+disappearance of the sign. Early computers stored human-readable text and
+machine instruction at the surface of the same storage media like punch cards
+and ticker tape. Although difficult to read, these forms of machine writing
+were readily visible and therefore amenable to analysis. The advent of
+magnetic storage forced the composite inscription into an opaque medium.
+Unable to perceive magnetic polarities without the aid of a machine, readers
+often manipulated text blindly. In this way a typist would type several
+sentences without seeing the printed output. The chapter identifies a
+milestone in the history of human textuality: the moment at which the
+inscription passes from view, giving rise to the sometimes conflicting but
+nevertheless consistent accounts of digital textuality.
 
 What does it mean to read on page that is no longer flat and no longer a
 single surface? The books second section, containing the next three chapters,
@@ -944,20 +943,20 @@ text.
 
 The **fifth chapter** is properly about formatting, the layer of mediation
 between storage and projection. There, the computed sign undergoes a series of
-transfigurations. The formatting layer translates structure, from a series of
-bits arranged into tracks and sectors into letters arranged into sentences and
-paragraphs. The development of the formatting layer commenced with several
-"control characters" that were included in the machine alphabets that followed
-Morse code. Initially, these characters were limited in function to actions
-like "carriage return" or "stop transmission." But with time, the formatting
-layer encompassed all manner of machine instruction, including governance
-structures like "digital rights management" and "copy protection." A
-manufacturer's ability to censor or to surveil electronic books is contained
-within the formatting layer. A theory of formatting is therefore crucial to
-our ability to interpret digital texts. Two rich intellectual histories
-collide on the pages of this chapter: one, the material history of formatting
-as a concept in computer science and the other, the intellectual history of
-form in literary theory.
+transfigurations. The formatting layer translates one type of structure, a
+series of bits arranged into tracks and sectors, into another, letters
+arranged into sentences and paragraphs. The development of the formatting
+layer commenced with several "control characters" that were included in the
+machine alphabets that followed Morse code. Initially, these characters were
+limited in function to actions like "carriage return" or "stop transmission."
+But with time, the formatting layer encompassed all manner of machine
+instruction, including structures of governance like "digital rights
+management" and "copy protection." A manufacturer's ability to censor or to
+surveil electronic books is contained within the formatting layer. A theory of
+formatting is therefore crucial to our ability to interpret digital texts. Two
+rich intellectual histories collide on the pages of this chapter: one, the
+material history of formatting as a concept in computer science and the other,
+the intellectual history of form in literary theory.
 
 The **sixth and final chapter** looks to the site of storage to find the media
 "homes" that house the vast archives of our private media collections. It
@@ -967,33 +966,33 @@ sort of dialog with his own voice from the past. I posit this archival
 encounter as Krapp's "media being" and suggest that such encounters are
 commonplace. Writers and book collectors regularly deposit "snapshots" of
 their consciousness into files, bookshelves, and folders. Jean-Paul Sartre's
-idea of an "appointment with oneself" helps us see this external construction
-of files, folders, and library furnishings as cognitive extension, in need of
-delicate pruning and arrangement. In this light, I show that documents exist
-not as completed works, but as "vectors" that mutate and move through time and
-space.[^ln-wark] I ask: What is being externalized, communicated, and
-preserved? And answer: It is not simply a message, but the subject itself. A
-close reading of the "home" folder, the default location of personal files on
-many systems, concludes with the discussion of media homes. Finally, I return
-to the theme of displacement, arguing for a mode of inhabitance within media
-that is uncanny or un-homed [*Unheimliche*], contrary to discourse that speaks
-in terms of "digital natives" and those who are "born digital." I build on
-Flusser's immigrant poetics to suggest a kind of information processing that
-necessitates a purposeful movement between the polarities of settlement and
-expatriation.
+idea of an "appointment with oneself" helps to reveal this external
+construction of files, folders, and library furnishings as cognitive
+extension, in need of delicate pruning and arrangement. In this light, I show
+that documents exist not as completed works, but as "vectors" that mutate and
+move through time and space.[^ln-wark] I ask: What is being externalized,
+communicated, and preserved? And answer: It is not simply a message, but the
+subject itself. A close reading of the "home" folder, the default location of
+personal files on many systems, concludes with the discussion of media homes.
+Finally, I return to the theme of displacement, arguing for a mode of
+inhabitance within media that is uncanny or un-homed [*Unheimliche*], contrary
+to discourse that speaks in terms of "digital natives" and those who are "born
+digital." I build on Flusser's immigrant poetics to suggest a kind of
+information processing that necessitates a purposeful movement between the
+polarities of settlement and expatriation.
 
-The books ends with a short conclusion expounding a theory of
+The book ends with a short conclusion expounding a theory of
 microanalysis---the closest possible kind of reading---which brings the
 material particulates engaged in the construction of meaning under the purview
 of interpretation.[^ln-iarkho] Where distant reading and macroanalysis
 constitute the study of mediation between readers and text aggregates (like
 canons, genres, corpora, libraries, and archives) microanalysis examines
 mediation at the level of physical minutiae. The instruments of microanalysis
-may coincide with algorithmic tools that reveal patterns and data structures
+coincide with algorithmic tools that reveal patterns and data structures
 inaccessible to the naked eye. Microanalysis may also require facility with a
 screwdriver, a binding needle, or a soldering iron: sharp tools that help to
-expose structures of governance and control routinely embedded into the
-contemporary literary device.
+expose structures of governance and control routinely embedded into modern
+literary devices.
 
 <!--- NOTES  --->
 <!--- NOTES  --->
