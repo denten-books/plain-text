@@ -626,7 +626,7 @@ that his room, a kind of an automated chat robot, could not be properly said
 to speak a language in the way a fluent speaker can. For Searle and other
 so-called "internalists," the external signs of whatever is meant by
 "speaking" and "understanding" must correspond to some appropriate internal
-mental states [@searle_minds_1980].  Plato, Descartes, Kuhlman, and Searle all
+mental states [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all
 pose a version of the same thought experiment, which aims to draw a line
 between the surface appearance of knowledge and an idea of deep, structural
 understanding opposed to mere functionalism. Reading should, these thinkers
@@ -658,8 +658,8 @@ read: they must internalize. Much can go wrong in that process, but we expect
 for reading to ultimately leave an appropriate impression [*tupōn*] on the
 reader's mental state. For understanding to take place, writing must produce
 "true" feelings and appetites, in the words of Descartes. But what is true,
-appropriate, or proper?  What does it mean to properly internalize an
-inscription?---that is the profound mystery always present even in the most
+appropriate, or proper?  What does it mean to properly internalize or ingest
+an inscription?---that is the profound mystery always present even in the most
 mundane acts of reading and writing.
 
 Turing's machine must be understood first in the general context of this
@@ -667,7 +667,7 @@ broader tradition and second as a specific response to a series of thought
 experiments proposed by Ludwig Wittgenstein in the 1930s at King's College,
 Cambridge where Turing attended as a student and later as an
 instructor.[^ln1-timeline] Wittgenstein broached the problem of reading
-machines and comprehension first in *The Blue and Brown Books* along with
+machines and comprehension initially in his *Blue and Brown Books* along with
 *Philosophical Grammar* (all compiled in the early 1930s), then in his
 lectures and remarks on the foundations of psychology and mathematics from the
 late 1930s, and finally in *Philosophical Investigations*, written between
@@ -690,27 +690,28 @@ that meaning resides in the head. Wittgenstein writes:
 
 Wittgenstein explains that when we see a sentence on paper, the external
 manifestation of a thought, we assume that some analogous structure exists
-somewhere in the brain. Perhaps, Wittgenstein speculates, we could even
-observe the brain directly, in the process of writing. Both phenomena, brain-
-and paper- bound, could properly be called the expression of thought. Yet
-neither make sense in isolation. Rather, we are witnessing the workings of a
-metaphor: a transference of properties between two distinct locations, one in
-the head and one on paper. Neither physical nor mental descriptions of these
-processes alone are sufficient to locate cognition. The subject escapes
-depending on our point of view. When the hand writes, it is the brain that
-thinks. But when the hand thinks, it is the brain that writes. One must
-understand both sides of the equation. Meaning in that sense lies in the
-transition from the hand to the head and from mind to paper: "Where does
-thinking take place?" he asks. It takes place "on paper, in our head, in the
-mind." But, "none of these statements of locality gives *the* locality of
-thinking" [@wittgenstein_blue_1965, 16].
+somewhere in the mind. Perhaps, Wittgenstein speculates, we could even observe
+the brain directly, in the process of writing, to check if mental states
+correspond in some way to the inscription. Both phenomena, brain- and paper-
+bound, could properly be called the expression of thought. Yet neither make
+sense in isolation. Rather, we are witnessing the workings of a metaphor: a
+transference of properties between two distinct locations, one in the head and
+one on paper. Neither physical nor mental descriptions of these processes
+alone are sufficient to locate cognition. The subject escapes depending on our
+point of view. When the hand writes, it is the brain that thinks. But when the
+hand thinks, it is the brain that writes. One must understand both sides of
+the equation. Meaning in that sense lies in the transition from the hand to
+the head and from mind to paper: "Where does thinking take place?" he asks. It
+takes place "on paper, in our head, in the mind." But, "none of these
+statements of locality gives *the* locality of thinking"
+[@wittgenstein_blue_1965, 16].
 
 "Can a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The problem, as he explains, is not one of
 finding a machine that can do the job---of manipulating signs, for example.
 It lies in the ability of a machine to enact the both sides of the metaphoric
-equation. "Doing the job," the manipulation of signs, must correspond to
-something else. Severed from some other analogical structure, the "blind"
+equation. "Doing the job," the manipulation of external signs, must correspond
+to something else. Severed from some other analogical structure, the "blind"
 manipulation of signs is a meaningless activity. Meaning, Wittgenstein seems
 to suggest, resides simply in this analogy between something (symbol) and
 something else (mechanism). The question then can be better rephrased as "can
@@ -721,20 +722,22 @@ the internal and the external. Characteristically for Wittgenstein, the
 notebooks pose more questions than they answer.
 
 Wittgenstein extends his thought experiments about thinking machines in his
-*Brown Notebook.* Let us study the word "reading," he suggests early on. By
-reading, he means the activity of "translating script into sounds," "of
+*Brown Notebook.* Let us study what is meant by "reading," he suggests early
+on. By reading, he means the activity of "translating script into sounds," "of
 writing according to dictation," or "of copying in writing a page of print"
 [@wittgenstein_blue_1965, 119]. Reading once again is "mechanical" reading,
 without a sense of "understanding" or interpretation. What happens when a
-child reads a newspaper, for example? "His eyes glide along the printed words,
-he pronounces them aloud or to himself, but other words he pronounces after
-having seen their first few letters only, other again he reads out letter by
-letter." The child acts as a "reading machine" when he pays no attention to
-what he reads, even when he speaks the words out loud. Yet he reads
-"faultlessly like a reliable machine." Another child merely pretends to read.
-He guesses at the words, and on occasion repeats things "by heart", without
-actually seeing them on the page [@wittgenstein_blue_1965, 121-22]. Should
-either of these count as reading?
+child reads a newspaper, for example?, Wittgenstein asks echoing Kuhlman and
+Descartes.  The child's eyes "glide along the printed words, he pronounces
+them aloud or to himself, but other words he pronounces after having seen
+their first few letters only, other again he reads out letter by letter." The
+child acts as a "reading machine" when he pays no attention to what he reads,
+even when he speaks the words out loud. He reads "faultlessly like a reliable
+machine," he writes again, emphasising the mechanical property of colloquially
+"blind" reading. Another child merely pretends to read. He guesses at the
+words, and on occasion repeats things "by heart", without actually seeing them
+on the page [@wittgenstein_blue_1965, 121-22]. Should either of these count as
+reading?
 
 Wittgenstein continues to complicate such edge cases, challenging his
 audience's intuitions of what it means to read and to understand. He gives
@@ -747,38 +750,39 @@ hidden and internal. To read, the reader must do more than go through the
 motions of reading. Instead, we erroneously privilege the inward-facing signs
 of comprehension as the "real criterion for a person's reading or not
 reading." Neither are outward signs sufficient to indicate reading and
-comprehension. The physical motions, of gliding one's eyes across the page and
-saying the words out loud, must connect in some way with appropriate internal,
-mental representations.
+comprehension. The physical motions---of gliding one's eyes across the page
+and saying the words out loud---must connect in some way with appropriate
+internal, mental representations.
 
-But in fact no such internal mechanisms can be known to us or communicated to
-others properly [@wittgenstein_blue_1965, 120]. We can only intuit the
-reader's private experience of reading, or whether such reading attains the
-desired correspondence between inward state and outward sign. A reading pupil
-must convince his teacher that the scanned sign had the intended effect. This
-requires more words in a sort of an interrupted hermeneutic circle, the two
-sides of which do not quite connect to complete the communication feedback
-circuit. To convince Socrates that he did more than memorize the words,
-Phaedrus must use more words, which are similarly unconvincing. What if those
-are memorized as well? What can we do to convince others that we have properly
-understood a text?
-
-Wittgenstein finally describes the mechanisms of reading as an "indirect way
-of transmitting a feeling." "Something that we can never know happens at the
-other end" of the communication act [@wittgenstein_blue_1965, 185].
-Communication, as we would say today, is always mediated. In conclusion of the
-notebooks, Wittgenstein imagines the possibility of unmediated, "direct" modes
-communication, capable of transmitting feelings from one person to another.
-We are ultimately limited by private sensations of knowledge. Any sense of
-affirmation comes through further expression entailing further uncertainty.
+In fact no such internal mechanisms can be known to us or communicated to
+others properly, Wittgenstein writes [@wittgenstein_blue_1965, 120]. We can
+only intuit the reader's private experience of reading, or whether such
+reading attains the desired correspondence between outward sign and inward
+state. Absent first-hand access to private mental states of another, a reading
+pupil must convince his teacher that the scanned sign had the intended effect
+through language. This requires even more words in a sort of an interrupted
+hermeneutic circle, the two sides of which do not quite connect to complete
+the communication feedback circuit. To convince Socrates that he did more than
+memorize the words, Phaedrus must use more words, which are similarly
+unconvincing. What if those are memorized as well? What can be done to
+convince others that we have understood a text properly? Wittgenstein finally
+describes the mechanisms of reading as an "indirect way of transmitting a
+feeling." "Something that we can never know happens at the other end" of the
+communication act [@wittgenstein_blue_1965, 185].  Communication, as we would
+say today, is always mediated. In conclusion of the notebooks, Wittgenstein
+imagines the possibility of unmediated, "direct" modes communication, capable
+of transmitting feelings from one person to another.  Barring that
+possibility, we are ultimately limited by private sensations of knowledge. Any
+sense of affirmation comes through further expression entailing further
+uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
-cohesive model of communication, semiotics, or the mind. They do however
+cohesive model of language, communication, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
-Turing and subsequently passed into the foundations of computer science.
-Wittgenstein's experimental thought machines prefigure the modern computer.
-Wittgenstein conjures these fantastical broken mechanisms of comprehension
-ultimately to address the problem of symbolic interpretation.
+Turing and subsequently pthe formative sources of modern computer
+science.  Wittgenstein's experimental thought machines prefigure the modern
+computer.  Wittgenstein conjures these fantastical broken mechanisms of
+comprehension ultimately to address the problem of symbolic interpretation.
 
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another glimpse into the pre-history of the literary
