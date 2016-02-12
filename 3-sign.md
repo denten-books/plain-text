@@ -1,9 +1,5 @@
 ## Chapter 3: Splitting the Sign
 
-> The grand swell of volume between the small input and output need not be
-known to any human mind, but should stay inside the machine
-[@neumann_electronic_1948].
-
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
@@ -16,14 +12,14 @@ permanence of the literary system. If we are destined to dwell on surfaces, I
 do not know to which surface to attach my attention: the screen or the floating
 gate.
 
-In Chapter One of *Plain Text*, we encountered the book as a device. I traced
-the intellectual roots of the literary artifact to several ideas emerging at
-the turn of the twentieth century. We saw it first as a formal device: a
-technique for defamiliarizing or making strange habituated metaphors. We then
-saw it as a literal device, related to the operation of universal Turing
-machines. Finally, I argued that Turing machines themselves belong to the
-history of the book, both in the lineage of thought about symbolic
-interpretation and as mechanisms for their transmission.
+In the previous chapter we have encountered the book as a device. I traced the
+intellectual roots of the literary artifact to several ideas emerging at the
+turn of the twentieth century. We saw it first as a formal device: a technique
+for defamiliarizing or making strange habituated metaphors. We then saw it as
+a literal device, related to the operation of universal Turing machines.
+Finally, I argued that Turing machines themselves belong to the history of the
+book, both in the lineage of thought about symbolic interpretation and as
+mechanisms for their transmission.
 
 Once we see the digital document in all of its forms for what it is, a
 computational device, we can begin to come to terms with the simulated nature

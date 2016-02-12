@@ -445,3 +445,90 @@ sustainability. What values are embodied in the electronic book? The passive
 voice and our inability to answer the question directly points to the root of
 the problem.
 
+## Some stuff from Turing
+
+Wittgenstein struggles to answer that question in his lectures, where Turing
+machine enacts it with blunt force.  The Turing machine ingests symbols,
+incorporating them as part of its internal structure.
+
+I revisit the lines from Plato's well-worn dialogue because Turing's paper
+presents considerable difficulties to the non-mathematically-inclined reader.
+Yet it becomes more accessible when considered in the philosophic lineage of
+Plato, Wittgenstein, and Derrida: all three concerned with the movement of
+inscription between internal and external spaces. I want us to view computers
+and programming not only as products of electrical engineering but also as
+part of a persistent thought in Western culture about the ultimate relation
+between symbol and comprehension.
+
+What does it mean to understand a sign?---that is the larger question that
+Turing addresses. And, as we will see in the following passages, a direct
+connection exists between Wittgenstein's hermeneutics and Turing's ideas about
+computation. Steeped in the intellectual context of Cambridge, the evolution
+of their thought overlaps the search for intrinsic structure in fields as
+diverse as literary studies and anthropology. Turing's ideas about symbolic
+manipulation acquire a new meaning when considered against the background of
+formalism and structuralism, developing in Europe at the same time.
+
+It is precisely because Turing paper left so much non-mathematical residue in
+the wake of its publication that it continues to be a source of debate,
+misunderstanding, and controversy to the present day. Consider the following
+attempts to describe the essence of Turing computation:
+
+> Turing machine, n. A notional computing machine for performing simple
+> reading, writing, and shifting operations in accordance with a prescribed
+> set of rules, invoked in theories of computability and automata
+[@_turing_2015].
+
+> a criterion [...] that it shall be possible to to devise a computing
+> machine, occupying a finite space, and with working parts of finite size
+[@church_computable_1937, 42].
+
+> a human calculator, provided with pencil and paper and explicit
+> instructions, can be regarded as a kind of Turing machine
+[@church_computable_1937, 43].
+
+> To understand a Turing machine we need only know its table of commands
+[@kemeny_man_1955].
+
+> A Turing machine plus random elements is a reasonable model for the human
+> brain
+[@putnam_issues_1961, 39].
+
+> No Turing machine has ever been physically constructed or realized in
+> hardware as a device for its own sake, but general-purpose digital computers
+> have been programmed to simulate Turing machines
+[@jordain_condensed_1969, 550; @_turing_2015].
+
+In reading the above passages, one discovers a range of possible definitions.
+The *Oxford English Dictionary* discusses Turing's original experiment in
+terms of "a notational machine." It "performs operations" according to "a
+prescribed set of rules." In short, the machine at least seems like a machine,
+not unlike a steam engine or a mechanized doll. By contrast, Alonzo Church,
+who was one of the first to read and to respond to Turing's paper, describes
+it as a "criterion" for building a machine, not the machine itself. More
+confusingly, it seems that a human armed with a pen and paper can already
+satisfy Turing's criteria. Writing for the *Scientific American* in the
+fifties, John Kemeny likens it to a "table of commands." In his reflection, it
+seems neither a device nor a human being but an algorithm or a set of
+instructions. A decade later, Hilary Putnam (along with a number of prominent
+philosophers of mind) returns to Turing's paper to find a model of human
+cognition.[@fodor_language_1975; @putnam_representation_1988]. Writing for one
+of the earliest encyclopedias on computing, Philip Jordain finally
+encapsulates the paradox at the heart of Turing computation: it is a device
+that can never be constructed, yet all other computers are programmed in its
+image.
+
+A mechanism, an idea, an algorithm---imitating a human or imitated by
+humans---an impossible ideal or just a ordinary person holding a pencil, the
+Turing machine traces a figure somewhere between the ideal and the physical
+worlds. The indeterminacy of computation blurs the boundaries between the
+physical and the symbolic worlds. Turing continues to strike a controversial
+figure at the fault lines separating theory from practice: computer science
+and electrical engineering. The Turing machine "abstracts away from the
+complexity of real computer architectures," Thomas Haigh writes for the
+*Communications of Computing Machinery*. The historian should avoid confusing
+hardware and software, he concludes [@haigh_actually_2014]. No matter how hard
+computer science tries to escape into the realm of pure mathematics, Haigh
+suggests, the limits of physical engineering pull it back to the sphere of the
+applied.[^ln1-cs] Part real mechanism and part dream; part physics and part
+metaphysics, the Turing machine should be encountered on its own terms.
