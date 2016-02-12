@@ -1501,6 +1501,7 @@ political affiliation. Who has agency program the device? Were a book also a
 pill or fused with the neural circuitry of the brain, would you know what and
 whom you were reading?
 
+
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
 Johanna Drucker's discussion on "the totalizing drive of the digital" in

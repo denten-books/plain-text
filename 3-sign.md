@@ -1277,7 +1277,7 @@ material lightness of textual being came at the price of legibility. Would new
 authors find the same ease in the complication of the mechanism? I suspect not
 unless they become an active part of a "bootstrapping community" of their own.
 
-### Towards the Practice of Computational Hermeneutics
+### Towards the Practice of Computational Poetics
 
 In drawing on the history of the contemporary literary condition, it is my
 hope to convince the reader of the very literal sense of depth manufactured
