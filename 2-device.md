@@ -771,18 +771,17 @@ feeling." "Something that we can never know happens at the other end" of the
 communication act [@wittgenstein_blue_1965, 185].  Communication, as we would
 say today, is always mediated. In conclusion of the notebooks, Wittgenstein
 imagines the possibility of unmediated, "direct" modes communication, capable
-of transmitting feelings from one person to another.  Barring that
-possibility, we are ultimately limited by private sensations of knowledge. Any
-sense of affirmation comes through further expression entailing further
-uncertainty.
+of transmitting feelings from one person to another. Barring that possibility,
+we are ultimately limited by private sensations of knowledge. Any sense of
+affirmation comes through further expression entailing further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
-Turing and subsequently pthe formative sources of modern computer
-science.  Wittgenstein's experimental thought machines prefigure the modern
-computer.  Wittgenstein conjures these fantastical broken mechanisms of
-comprehension ultimately to address the problem of symbolic interpretation.
+Turing and subsequently the formative sources of modern computer science.
+Wittgenstein's experimental thought machines prefigure the modern computer.
+Wittgenstein conjures these fantastical broken mechanisms of comprehension
+ultimately to address the problem of symbolic interpretation.
 
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another glimpse into the pre-history of the literary
@@ -800,46 +799,52 @@ mine]" [@wittgenstein_philosophical_1974, 42]. In conclusion, he again
 describes what we mean by "understanding" as a "process of translation from
 one symbolism into another; tracing a picture, copying something, or
 translating into another mode of representation"
-[@wittgenstein_philosophical_1974, 45]. To understand something said is akin
-to modeling it in clay or drawing, he writes. There understanding comes
-through the comparative use of both modes of representation.
+[@wittgenstein_philosophical_1974, 45]. To understand something said is thus
+akin to modeling it in clay or by drawing, he writes. Whatever is meant by
+"understanding" comes through the comparative transference between media.
 
 In light of our earlier discussion about metaphoric transference,
-Wittgenstein's hermeneutics can be understood as a type of metaphor making,
-across media. To comprehend something, it is not enough to paraphrase it in
-the same medium. It seems that language cannot be explained in language, for
-example. One must trade symbolisms, creating a metaphor that explains one
-representational system in terms of another. This process is not exact. How
-would one check if the "clay model" corresponds to the "language model"
-properly, for example? In thinking of the various ways in which the process of
-translation breaks, Wittgenstein continually returns to the pianola, a type of
-a player piano. In the player piano, the relationship between music score
-sheet and the keyboard is rigidly defined. Perforated sheet music passes
-through the machine, activating a set of corresponding pins. The conceptual
-world of the mechanism and the conceptual world of music notation correspond
-exactly. The machine enacts the metaphor through rigid connections. We are
-guaranteed correspondence in a sense. But like the other mechanisms, the
-pianola can break too.
+Wittgenstein's hermeneutics can be viewed as a type of metaphor making across
+media, translation, or trans-mediation. It is insufficient to merely
+paraphrase something: to show understanding one must "draw a picture" or
+"model" in a way that reveals correspondence of equivalent structures.
+Language cannot be explained in language, for example. One trades symbolisms
+in a sense, creating a model that explains one representational system in
+terms of another. This process is not exact. For example, how would one check
+whether a "clay model" corresponds to a "language model" of something? In
+thinking of the various ways in which the process of translation breaks,
+Wittgenstein continually returns to the pianola, a type of a player piano. In
+the player piano, the relationship between music score sheet and the keyboard
+is rigidly defined. Perforated sheet music passes through the machine,
+activating a set of corresponding pins. The conceptual world of the mechanism
+and the conceptual world of music notation thus correspond exactly.
+Correspondence is assured. The machine enacts the metaphor across media
+through rigid connections. We are guaranteed correspondence through mechanical
+means: by the way the actuating mechanism of the player piano fit into the
+groves of the piano roll.
 
 ![Electrically-operated musical instrument by Clyde Coleman of Chicago, Il.
-1914, US1107495A.](images/pianola.png)
+1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
+writings.](images/pianola.png)
 
-In the early passages of *Philosophical Grammar*, Wittgenstein explains:
-"Aren't our sentences parts of a mechanism? As in a pianola? But suppose it is
-in bad condition?  So it is not the effect but the purpose of the signs (the
-holes in the pianola roll). Their purpose *within* the mechanism"
-[@wittgenstein_philosophical_1974, 10]. Wittgenstein elaborates a few pages
-later:
+The above correspondence brings us closer to a solution to the "proper"
+interpretation problem. But, like all other mechanisms of comprehensions, the
+pianola can break too. In the early passages of *Philosophical Grammar*,
+Wittgenstein explains: "Aren't our sentences parts of a mechanism? As in a
+pianola? But suppose it is in bad condition? So it is not the effect but the
+purpose of the signs (the holes in the pianola roll). Their purpose *within*
+the mechanism" [@wittgenstein_philosophical_1974, 10].  Wittgenstein
+elaborates a few pages later:
 
 > The sentences that we utter have a particular purpose, they are to produce
-certain effects. They are parts of a mechanism, perhaps a psychological
-mechanism, and the words of the sentences are also parts of the mechanism
-(levers, cogwheels, and so on). The example that seems to illustrate what
-we're thinking of here is an automatic music player, a pianola. It contains a
-roll, rollers, etc., on which the piece of music is written is some kind of
-notation (the position of holes, pegs, and so on). It's as if the written sign
-gave orders which are carried out by keys and hammers
-[@wittgenstein_philosophical_1974, 69].
+> certain effects. They are parts of a mechanism, perhaps a psychological
+> mechanism, and the words of the sentences are also parts of the mechanism
+> (levers, cogwheels, and so on). The example that seems to illustrate what
+> we're thinking of here is an automatic music player, a pianola. It contains
+> a roll, rollers, etc., on which the piece of music is written is some kind
+> of notation (the position of holes, pegs, and so on). It's as if the written
+> sign gave orders which are carried out by keys and hammers
+> [@wittgenstein_philosophical_1974, 69].
 
 As was the case with reading automata in *The Blue and Brown Notebooks*,
 Wittgenstein again substitutes a physical mechanism for the process of
@@ -853,12 +858,9 @@ object that notes are always "meant" to play on a mechanism in perfect working
 order. But to explain what is meant, we would need to draw yet another diagram
 or build another machine. By analogy, the "sense" of an "order"---the
 programming instructions of the piano roll---lies in its "effect on an
-obedient man" [@wittgenstein_philosophical_1974, 60-70]. The pianola
-exemplifies ultimately belongs to a class of controlling mechanism. In good
-working order it is ultimately obedient to the instructions. Metaphors control
-in the sense of mediating precise state changes between two disparate
-conceptual systems, in this case, the notches of the piano roll and the
-actuating mechanisms of the player piano.
+obedient man" [@wittgenstein_philosophical_1974, 60-70]. The pianola therefore
+exemplifies a class of controlling mechanisms. In good working order it is
+ultimately obedient to the instructions printed on a piano roll.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
 explicitly rejects the model of language as a "psychophysical" mechanism.
@@ -879,34 +881,39 @@ if the machine failed to meet its specified obligations. "Imagine a language
 consisting of commands," Wittgenstein writes in conclusion. It is to direct a
 human "forwards," "back," "right," and "left," "quickly" and "slowly"
 [@wittgenstein_philosophical_1974, 197] The grammar, like a table of
-correspondences, explains the meaning of the signs. In this way, we can move
+correspondences, explains the meaning of the signs. The grammar means in the
+sense of specifying the rules by which meaning fails. In this way, we can move
 away from speaking of "intended effects" or "proper obedience," and rather
-concentrate on the mediating layer that describes the rules of engagement.
+concentrate on the mediating layer that describes the rules of engagement. And
+thus, a sustained thought experiment about the nature of reading
+comprehension---the correspondence between inside and outside, thought and
+word, symbol and mechanism---gives rise to the notion of an intelligent
+machine.
 
 ### 2.3 Thought Experiment II
 
 Turing met Wittgenstein at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
-Wittgenstein's lectures on the foundation of mathematics in 1939
-[@wittgenstein_wittgensteins_1976, 7], both men's work exhibits sustained
-attention to computing machines narrowly and to the mechanical manipulation of
-symbols more generally. From the notes on Wittgenstein's lectures complied and
-published by Cora Diamond, it is clear that Turing was a vociferous presence
-in the class. His name is mentioned eighty-six times in the text, more than
-any other student by a wide margin.[^ln1-margin] At some point of the course
-Wittgenstein concludes his lecture in saying: "Unfortunately, Turing will be
-away from the next lecture, and therefore that lecture will have to be
-somewhat parenthetical. For it is not good my getting the rest to agree to
-something that Turing would not agree to" [@wittgenstein_wittgensteins_1976,
-67-68].
+Wittgenstein's lectures on the foundation of mathematics in 1939 , both men's
+work exhibits sustained attention to computing machines narrowly and to the
+mechanical manipulation of symbols more generally
+[@wittgenstein_wittgensteins_1976, 7]. From the notes on Wittgenstein's
+lectures complied and published by Cora Diamond, it is clear that Turing was a
+vociferous presence in the class. His name is mentioned eighty-six times in
+the text, more than any other student by a wide margin.[^ln1-margin] At some
+point of the course Wittgenstein concludes his lecture in saying:
+"Unfortunately, Turing will be away from the next lecture, and therefore that
+lecture will have to be somewhat parenthetical. For it is not good my getting
+the rest to agree to something that Turing would not agree to"
+[@wittgenstein_wittgensteins_1976, 67-68].
 
-Like the notebooks beforehand, Wittgenstein structures his lectures around the
-problem of symbolic interpretation. "I am going to talk about the
-interrelation of mathematical symbols," Wittgenstein begins. We imagine that
-logical laws represent some sort of "fixed" mechanisms "behind" the symbols
-used to express them. "I am speaking against the idea of logical machinery,"
-Wittgenstein says in lecture XX. "The idea of logical machinery would suppose
-that there was something behind our symbols"
+Like he did with the notebooks beforehand, Wittgenstein structures his
+lectures around the problem of symbolic interpretation. "I am going to talk
+about the interrelation of mathematical symbols," Wittgenstein begins. We
+imagine that logical laws represent some sort of "fixed" mechanisms "behind"
+the symbols used to express them. "I am speaking against the idea of logical
+machinery," Wittgenstein says in lecture XX. "The idea of logical machinery
+would suppose that there was something behind our symbols"
 [@wittgenstein_wittgensteins_1976, 194]. We imagine logic to be a sort of a
 "rigid mechanism" that can only turn this way or the other. "Any rule can be
 imagined to be a description of a mechanism---even the rule which says a pawn
@@ -940,29 +947,33 @@ each other.
 In his lectures on mathematics, Wittgenstein never finds a way out of this
 conundrum. The foundations of mathematics rely on some such mutually dependent
 relationship between the physical and the symbolic worlds. Whether it is in
-math or in ordinary language, some magic happens at the coupling of the matter
-and sign. The precise point of contact concerns Wittgenstein in all fields of
-human activity, from literature to psychology and mathematics.
-
-In all of these fields, Wittgenstein finds an implicit analogy between
-"symbol" and "mechanism." A type of metaphor, the analogy itself is atomic. It
-cannot be split further into something like "sign" and "referent" or the
-"signifier" and the "signified." Considered apart, the two parts of the
-metaphor are strictly meaningless. In his lectures on aesthetics, Wittgenstein
-describes such a semiotic relationship as the "concomitance between mechanism
-and its trace" [@wittgenstein_lectures_1966, 16]. In giving an account of
-one's aesthetic judgment, the best we can do is to "trace a mechanism"
+math or in ordinary language, some magic happens at the coupling of matter and
+sign. The precise point of contact concerns Wittgenstein in all fields of
+human activity, from literature to psychology and mathematics. In all of these
+fields, Wittgenstein finds an implicit analogy between "symbol" and
+"mechanism." A type of metaphor, the analogy itself is atomic. It cannot be
+split further into something like "sign" and "referent" or the "signifier" and
+the "signified." Considered apart, the two parts of the metaphor are strictly
+meaningless. In his lectures on aesthetics, Wittgenstein describes such a
+semiotic relationship as the "concomitance between mechanism and its trace"
+[@wittgenstein_lectures_1966, 16]. In giving an account of one's aesthetic
+judgment, the best we can do is to "trace a mechanism"
 [@wittgenstein_lectures_1966, 13].
 
-It would be a mistake however to reduce Wittgenstein's semiotics to the
-mechanical theory of the mind. Rather, in presenting his students and readers
-with a number of hypothetical machines, Wittgenstein attempts to discover the
-"rule book" of what he later calls language games---or at lest to suggest that
-such a rulebook might exist. Much has been written on this aspect of
-Wittgenstein's thought and its relation to Bertrand Russel's symbolic logic
-and subsequently to Chomsky's development of "universal grammar." In the
-context of our conversation, Wittgenstein's "middle period" is important for
-its direct influence on Turing's model of computation.
+It would be a mistake however to reduce Wittgenstein's semiotics simply to the
+mechanical theory of language or the mind. Rather, in presenting his students
+and readers with a number of hypothetical machines, Wittgenstein attempts to
+discover the "rule book" of what he later calls language games---or at lest to
+suggest that such a rulebook might exist. Much has been written on this aspect
+of Wittgenstein's thought and its relation to Bertrand Russel's symbolic logic
+and subsequently to Chomsky's development of the "universal grammar"
+[ln2-chomchom]. In the context of our conversation, Wittgenstein's "middle
+period" is important for its direct influence on Turing's model of
+computation.
+
+[ln2-chomchom]: I make this connection with many caveats and with the
+acknowledgement of the complexity involved. See for example Ch. 6-8 in
+@hacking_why_1975; @waller_chomsky_1977; @green_bertrand_2007, 103-43.
 
 Several prominent characteristics pass from Wittgenstein's reading machines to
 Turing's universals. First, the symbolic machine emerges from the

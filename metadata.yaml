@@ -9,7 +9,7 @@ toc: true
 mainfont: "fbb"
 fontsize: 12pt
 date:
-documentclass: report
+documentclass: article
 classoption: none
 header-includes:
 - \usepackage{titlesec}

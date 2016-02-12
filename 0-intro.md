@@ -700,25 +700,24 @@ of a materialist critique that is both pragmatic and experimental.
 
 Critical theory, at its best, aims to see "the human bottom of non-human
 things" [@horkheimer_critical_1982, 143]. As such, it is one of our most
-powerful tools for analysis and resistance against technological
-determinism.[^ln-determine] As Max Horkheimer wrote, "the issue is not simply
-the theory of emancipation; it is the practice of it as well"
-[@horkheimer_critical_1982, 233]. Recently, scholars like Kathleen
-Fitzpatrick, Tiziana Terranova, and Trebor Scholz have began to turn the tools
-of critical theory towards the instrumental contexts of knowledge production
-[@scholz_digital_2013; @fitzpatrick_planned_2011; @terranova_network_2004]. I
-join them to argue that in treating the instruments of intellectual production
-and consumption uncritically, all of us---readers and writers---accumulate an
-ethical debt. For example, it is one thing to theorize about the free movement
-of literary tropes across cultures and continents, and quite another to have
-that theory appear in print behind paywalls inaccessible to most global
-reading publics.[^ln-sarab] Similarly, a theoretical distinction between form
-and content, when instantiated in specific file formats like Microsoft Word
-(`.docx`) or Adobe Reader (`.pdf`), establishes divisions of labor between
-editors, proofreaders, book sellers, and offshore typesetting
-firms.[^ln-sweatshop] One group trades content in the economy of prestige,
-another formatting in the economy of survival, and yet another controls
-distribution in the market economy, for profit.
+powerful tools for analysis and resistance against technological determinism.
+As Max Horkheimer wrote, "the issue is not simply the theory of emancipation;
+it is the practice of it as well" [@horkheimer_critical_1982, 233]. Recently,
+scholars like Kathleen Fitzpatrick, Tiziana Terranova, and Trebor Scholz have
+began to turn the tools of critical theory towards the instrumental contexts
+of knowledge production [@scholz_digital_2013; @fitzpatrick_planned_2011;
+@terranova_network_2004]. I join them to argue that in treating the
+instruments of intellectual production and consumption uncritically, all of
+us---readers and writers---accumulate an ethical debt. For example, it is one
+thing to theorize about the free movement of literary tropes across cultures
+and continents, and quite another to have that theory appear in print behind
+paywalls inaccessible to most global reading publics.[^ln-sarab] Similarly, a
+theoretical distinction between form and content, when instantiated in
+specific file formats like Microsoft Word (`.docx`) or Adobe Reader (`.pdf`),
+establishes divisions of labor between editors, proofreaders, book sellers,
+and offshore typesetting firms.[^ln-sweatshop] One group trades content in the
+economy of prestige, another formatting in the economy of survival, and yet
+another controls distribution in the market economy, for profit.
 
 Distinctions of labor will remain in place as long as the conversation about
 ideas like "form" and "content" persists in the abstract. A materialist
@@ -1012,10 +1011,6 @@ Harcourt have advanced critique along similar lines. See
 @gibbs_poetics_1994; @neal_role_1997, 441-463; @gentner_alignment_1997.
 
 [^ln-dead]: See @barthes_death_1977; @foucault_what_1980; @nesbit_what_1987.
-
-[^ln-determine]: I mean "determinism" as both (a) a belief in the intrinsic
-agency of complex systems and (b) a practice of diminishing the scope of human
-freedoms by technological means.
 
 [^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
 @negroponte_being_1995; @davidson_now_2011.
