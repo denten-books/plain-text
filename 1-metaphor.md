@@ -410,11 +410,11 @@ highlighted passage to a data aggregation service. We "share a book" which
 means really assigning a temporary license to another user. The structures of
 governance do not reveal themselves in the metaphor. Where did the text go?
 someone asks when downloading a paper from an online journal.[^ln4-nested] It
-is in your "home" I answer.  But unless one of us is familiar with the
-material contingencies of file storage, neither has a mental map of any
-physical location corresponding to the "home" directory, the default location
-of personal files on many systems. When confronted with the actual affordances
-of digital text, the user grasps for neutered metaphors. We "reside" in such
+is in your "home" I answer. But unless one of us is familiar with the material
+contingencies of file storage, neither has a mental map of any physical
+location corresponding to the "home" directory, the default location of
+personal files on many systems. When confronted with the actual affordances of
+digital text, the user grasps for neutered metaphors. We "reside" in such
 homes, "own," "share," and "create" only in the simulacrum.
 
 Metaphors of human-computer interaction conceal the structure of computation.

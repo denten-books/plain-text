@@ -1,5 +1,169 @@
-## Chapter 5: Format
+## Chapter 5: Format and Control
 
+To encounter the universal Turing machine underpinning the electronic book *as
+a mechanism*, the media and book historian will find that it borrows from a
+number of extant designs, which, together and incrementally, give the
+universal Turing machine its physical form. Once we have grasped the notion of
+the Turing machine as a piece of software, an algorithm, I am compelled to
+wonder about its history as a mechanism and ask, what are its technological
+antecedents? What would happen if Turing attempted to patent his device, for
+example? What previous art and related designs would he have to cite in his
+application? In an answer to these question we discover, perhaps
+unsurprisingly, that the Turing machine belongs to a long lineage of
+controlling devices. This entails also that the book, subsumed by computation,
+also embodies a part of the same material history.
+
+Most of the minimal physical requirements to build a universal Turing machine
+were within reach in the 1930s, at the time Turing authored his influential
+paper. In practice, his proposal would require first, an apparatus capable of
+"scanning" and "erasing" a "finite number of symbols." Second, we would need
+what Turing calls "one-dimensional paper," divided into discrete squares "like
+a child's arithmetic book" [@turing_computable_1937, 249].[^ln1-infinite]
+Furthermore, we would need some sort of a mechanism to advance tape through
+the machine, or, alternatively, to propel the scanning mechanism along the
+length of the tape. Having assembled these elements, our creation would look
+roughly like a cross between a telegraph, a film projector, and a
+typewriter.[^ln1-davey]
+
+Were we to patent the Turing machine in the United States, at the time of its
+invention, the above elements would find prior art in mechanisms such as the
+"Numeral adding or subtracting attachment for type-writing machines"
+[@daugherty_numeral_1894], "Combined Type-writing and Computing Machine"
+[@degener_combined_1911], "Computing Attachment for Typewriters"
+[@wright_computing_1914], "Computing Mechanism" [@wright_computing_1915], and
+"Combined Type-writing and Adding Machine" [@ellis_combined_1914] among
+others. All of these machines contain some combination of a reading and
+writing "head," storage tape, and movement mechanism as specified in Turing's
+paper. A number of inventions at the end of the nineteenth century pertain
+specifically to "circuit-controlling devices controlled by a traveling
+perforated strip or tape" [@cuttriss_telegraphy_1893]. Prior to perforated
+tape, the transmission of messages by telegraph required the presence of a
+skilled operator, able to transcribe messages from text to Morse code, and
+into the physical motion of a lever-operated circuit. In the operation of
+early telegraphy, the human operator acted as a mute interpreter between text
+and telegraph. The transcription of text into signal, and back onto paper,
+required the real-time presence of human encoders and decoders.
+The perforated tape decoupled the human from the machine. In US1187035 (1916)
+on "Telegraphy", Albert and Ralph Bumstead explain: "the object of our
+invention is to provide a system of telegraphy which does not require skilled
+operators for the transmission and reception of messages"
+[@bumstead_telegraphy_1916]. Instead, the message was transcribed into
+perforation via mechanical means and then fed into the mechanism. The tape
+mechanics of the typewriter could then be coupled with the electrics of the
+telegraph, with perforated tape acting as a mediator between the two "worlds"
+of mechanics and electricity. A number of contraptions emerged at the time
+with the aim of transfiguring the mechanical action of the typewriter into
+perforation, and, consequently, perforation into script, completing the
+circuit between automated "encoding" and "decoding." As one machine converted
+human input into mechanical states, and into signal, another machine converted
+signals into mechanical states and thereon into human-legible messages.
+
+A multitude of inventions capitalized on the control capabilities of removable
+storage media by the beginning of the of the twentieth century. These included
+machines for tape-controlled telegraphic transmission
+[@wheatstone_improvement_1874; @murray_tape-controlled_1905;
+@bumstead_telegraphy_1916], tape-controlled printing [@creed_printing_1911],
+printing telegraphs [@hallden_printing-telegraph_1929], and remote broadcast
+programming devices for radio and television content [@vriendt_program_1934;
+@brown_automatic_1936; @brown_selective_1936]. With the invention of punch
+cards and perforated tape (also used in textile looms, as early as 1725), a
+message meant for another human became also a physical medium---bumps and
+holes---used to animate the mechanical movement of the transmission apparatus.
+
+For example, of the 33 asserted claims in the Bumstead brothers' "Telegraphy"
+patent, the first 13 relate to the "transmission of intelligence,"
+
+> [...] adapted to initiate a succession of electrical impulses all of which
+> have a character representing significance, a receiver adapted to detect
+> variations in time intervals elapsing between successive impulses, a
+> plurality of interpreting relays selectively actuated by said receiver, and a
+> printed mechanism responsive for the combined action
+> [@bumstead_telegraphy_1916, 12-13].
+
+What begins as a description of a mechanism for information transmittal, ends
+with a claim about hermeneutics of control. Starting with clause 14, the
+brothers begin to describe "a telegraph system" capable of "transmitting
+impulses" at varying time intervals. In the language of the patent, the length
+of the time interval "represents significance," involving an automated
+receiver responsible for "distributing, interpreting, and recording." The
+printing mechanism is further "arranged to print the interpretation of the
+signals which is made by the interpreting relays" [@bumstead_telegraphy_1916,
+6]. The interpreting relays transform time intervals into a "typographical
+form" representing "a letter, a figure, or other characters," "in accordance
+with a code" [@bumstead_telegraphy_1916, 13]. Initially, the telegraph prints
+to "transmit intelligence." But the authors also understand that the varying
+time intervals could also signify other information, meant to actuate a
+variety of devices. By the middle of the patent, the brothers describe their
+telegraph as a general "controlling medium," which can power everything from
+typesetting machines to more general "sunflower switches." "Indeed the
+detector and the interpreting relay could be made to actuate a set of
+sunflower switches for an indicator without including a printer at all," the
+authors conclude [@bumstead_telegraphy_1916, 12].
+
+Along with hundreds of similar inventions patented around the turn of the
+twentieth century, Bumstead brothers describe a mechanism that could function
+as a Turing machine with little modification. The automated telegraph, driven
+by ticker tape, and connected to a printer contain all the necessary
+requirements set out by Turing: a discrete symbolic language, the removable
+storage medium, and a device that can alter its internal states based on the
+reading and writing of scanned symbols. They are able "read" and "write" and
+otherwise manipulate symbolic representation, they ingest tape, and they
+covert symbol into internal structure. By 1905, Donald Murray, the inventor of
+the popular Murray telegraph, could write that "if we disregard the small
+class of telegrams that merely express emotions, *the essence of telegraphy is
+control* [emphasis mine]." He wrote also that "telegraph systems, therefore,
+belong not to the class of producing or distributing, but to the class of
+controlling mechanisms" [@murray_setting_1905, 556]. For the automated
+telegraph, control code and the message are one. The mechanism interprets some
+signals as figure and character and other signals as control code affecting
+the internal mechanical configuration of the device. The first type of code
+holds "significance" for humans, where the second for the mechanism itself. It
+is "transmitting intelligence" in a sense of externalizing machine states and
+"interpreting" in the sense of mechanical reconfiguration of internal parts.
+
+By 1936, when Turing published his paper on computable numbers, these
+inventions do not merely anticipate the modern computer, they were brought to
+mass market in the widespread manufacture of computing scales, dial recorders,
+electric tabulating machines, and computing typewriters made by companies like
+Underwood Computing Machine, Electromatic, and International Business Machines
+(IBM). Rather than a single eureka moment, the invention of the universal
+machine should therefore be viewed as a gradual historical process that
+culminates in Turing's universal (and minimally viable) specifications. What
+does the material history of the computer mean for the history of the book?
+The electronic book is, after all, a kind of a computer. It is a Turing
+machine. It belongs therefore in part to a class of controlling devices, as
+described by Murray and Baumstead. To discover the book in the guise of a
+*computational* literary artifact means coming to terms with it as a kind of a
+robot---a device for remote machine control.
+
+Furthermore, the very metaphysical nature of Turing machines implies the
+irreversible admixture of matter, content, and control structure. When reading
+a paper and cloth book, one can definitively isolate a) the physical
+properties of paper and cloth from b) the content of the book and from c) the
+legal and political elements governing the production of textuality. To wit:
+tear out the copyright notice along with the ISBN number, copy the words into
+a notebook, and recycle the paper. The literary device, by contrast, ingests
+both symbolic representation and control code through the same input stream.
+Where images of governance (like trademark and copyright symbols) *signify*,
+computed text *embodies*. Computation enacts control in exactly the sense by
+which Wittgenstein suggests to insert a layer of "rules for obedience" between
+symbol and interpretation.
+
+In the process of textual production, printing and typesetting, it is certain
+that my words were mixed with machine language, which in turn changed the
+structure of the devices in your lap, in your hand, near to your eye,
+embedded, or embodied. I could say that I bear no responsibility for extending
+the reach of machine language so close to the reader. But that would be
+factually incorrect. The choice of my writing implements and my channels of
+communication affect deeply the contexts of interpretation. Such choices, in
+aggregate, define the shared ecosystem of knowledge production. Traditional
+strategies of close reading which limit interpretation to the parsing of
+visible content risk missing the concealed machinations of naked circuit
+control. It looks like you are reading a book, but this book may change
+depending on the readers race, gender, ethnicity, geography, or political
+affiliation. Who has agency to program the device? Were a book also a pill or
+fused with the neural circuitry of the brain, would you know what and whom you
+were reading?
 I began the book by asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led
 us to multiple sites of inscription, some visible and some hidden, some

@@ -56,10 +56,12 @@ My aim in this book is to dispel a pervasive illusion. The electronic book
 draws a compelling figure that belies material realities of reading and
 writing, transformed by the advent of computation. The device on my desk is
 not a book, but a simulation of a book. And everything associated with reading
-this metaphor must in itself be understood under the sign of simulation. What
-kind of a metaphor is it? How did it come into being and how does it affect
-practices of literary interpretation? In *Plain Text* I attempt to come to
-terms with the conditions of simulated textuality.
+this metaphor must in itself be understood under the sign of
+simulation.[^ln0-manovich] What kind of a metaphor is it? How did it come into
+being and how does it affect practices of literary interpretation? In *Plain
+Text* I attempt to come to terms with the conditions of simulated textuality.
+
+[^ln0-manovich]: See @manovich_there_2011, 53-106.
 
 The illusion of ephemerality that follows simulation comes at a price of
 understanding. "Software's ghostly presence produces and defies apprehension,"
@@ -137,9 +139,9 @@ An electronic book governed by DRM may subsequently prevent the reader from
 copying or sharing stored content, even for the purposes of academic
 study.[^ln-dmca] Computational poetics strives to make such control structures
 available for critical reflection. Building on the recent work of scholars
-like Wendy Kyong Chun, Tung-Hui Hu, and Lisa Gitelman I make the case for an
+like Lev Manovich, Tung-Hui Hu, and Lisa Gitelman I make the case for an
 empowered poetics, able regain a measure of control over the material contexts
-of our knowledge production [@chun_enduring_2008; @gitelman_paper_2014;
+of our knowledge production [@manovich_there_2011; @gitelman_paper_2014;
 @hu_prehistory_2015].
 
 ## 0.2 Displacement

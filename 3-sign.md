@@ -54,6 +54,38 @@ disks" as the "fundamental physical support" and "material substrates of
 computing" [@drucker_performative_2013]. The hard drive and the screen
 partition the sign between surface and depth, projection and archive.
 
+The seeming immateriality of digital media entails real-world effects: the
+costs of replication plummet, for example. Computational text can be copied
+effortlessly, with minimal cost, and with near-perfect fidelity.
+Hyper-reproducibility of the sort was unthinkable for most of the twentieth
+century. The machine allows for rapid remediation. Lowered costs of copying
+further reduce barriers to access and conveyance. Symbols that adhere lightly
+to their medium are easy to store and to transport. Witness the rise of
+massive, global public knowledge projects like online search engines and
+encyclopedias as a direct consequence. Such projects unfold the logic of
+immateriality, which moves towards totalizing archives and universal
+accessibility.[^ln1-google] When representation appears to weigh nothing, one
+imagines a weightless totality of all representation, available immediately
+and everywhere. The perceived weightlessness of text has other side-effects as
+well. For example, a text that adheres lightly to its medium is also difficult
+to contain, making onerous the governance of symbolic representation and
+weakening traditional controls like censorship and intellectual property
+rights.
+
+Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
+Rather, the symbol splits in two: with one half arising visibly, a weightless
+and apparent screen simulation, and the other half, opaque, etched into the
+hefty and hidden material contingencies of the device. The material substrates
+of computational text likewise carry real-world affordances and consequences.
+They are first and foremost hidden from view. Drives and tapes reside inside of
+black or aluminum boxes. If only because they carry electrical current and have
+the potential to catch fire, they are regulated. They contain heavy and rare
+metals, often hazardous if touched or ingested. The computational part of the
+sign is sealed in miniaturized containers that prevent access and to resist
+tempering. These are but some of the realities of computed text. It is text
+intertwined with machine internals and control code and it is often
+hermeneutically sealed to resist human interpretation.
+
 Form and content lie flat on the printed page. Print interfaces are paper
 thin, we might say. Ink adheres to paper in the way that pixels do not to
 screens.  The splintered sign complicates the traditional structuralist

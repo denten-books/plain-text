@@ -532,3 +532,106 @@ computer science tries to escape into the realm of pure mathematics, Haigh
 suggests, the limits of physical engineering pull it back to the sphere of the
 applied.[^ln1-cs] Part real mechanism and part dream; part physics and part
 metaphysics, the Turing machine should be encountered on its own terms.
+# more on simulation 
+
+If symbols, something used to represent something else, elicit a type of an
+illusion, the universal symbolic machine enacts the ultimate illusion. It
+creates a phantasmal image of symbolism itself. The history of computing is
+thus a history of symbolism in the broadest possible meaning of the word,
+which includes lyric poetry and symbolic logic. The difficult truth for the
+contemporary reader is that the computational metaphor, embodied on the level
+of the device, resists interpretation by conventional means. Metaphors of
+computation frame deep structure affecting basic everyday interaction with
+computers. As with all metaphors, nothing is what it seems: to "save" a
+document, to "copy" it and to "delete" it, to "surf" or to "browse" the
+internet, to "run" a program, the softness of software and the hardness of
+hardware, to "turn the page," to "bookmark," to "highlight," and ultimately to
+"read a book"---these are all metaphors that obscure the underlying material
+conditions of symbolic exchange. The metaphors ingratiate themselves to us in
+daily use. When habituated, they alienate us from the symbol. In drawing the
+history of the book as a universal Turing machine, we observe the evolution of
+symbolism into its final and totalizing form. By converting machine states
+into symbols, the Turing machine represents the ultimate negation of matter.
+It subsumes all lesser mechanisms amenable to computation. The universal
+Turing machine has the potential to mediate everywhere, yet, paradoxically,
+its method of "mediation" abstracts from any notion of medium or intervening
+substance.
+
+Under the command and control regime of the Turing machine, text loses its
+adhesion to the world. Yet it would be a mistake to think of it as wholly
+ethereal. The symbol itself, in its rawest form, anchors the Turing machine to
+the confines of the physical universe. No matter the transcendental impulse,
+the universal Turing machine cannot be abstracted beyond its minimal physical
+requirements: "tape," "symbol," "scanned square," "in the machine"
+[@turing_computable_1937, 231].[^ln1-inside]
+
+## Benjamin technique
+
+Like Bakhtin and Lubbock before him, Walter Benjamin similarly develops a
+notion of technique as a process that bridges immanence and transcendence: the
+work of art as an idea and a thing. The work of art for Benjamin does not and
+cannot exist in the mode of a "rigid, isolated object." Rather, "it must be
+inserted into the context of living social relations," and therefore, into the
+context determined by its relation to literary production
+[@benjamin_author_1983, 87]. Authorship identifies a specific mode of
+production. The question of formal, intra-textual figurative arrangements
+within the work of art thus cannot be considered apart from their
+extra-textual material contexts. Technique for Benjamin is what makes literary
+products "accessible" to materialist analysis; technique itself is, in his
+view, a relationship to production [@benjamin_author_1983, 87].
+
+In making the characteristically Marxist move towards production, Benjamin
+attempts to bridge what he calls the "sterile dichotomy" between form and
+content [@benjamin_author_1983, 88]. Technique brings the arrangement of
+literary, ideational content into accordance with its modes of production. By
+these means the very concept of the author---what counts for authorship, what
+is published---can connect to the overall structure of the publishing industry
+and the industry to the more general arrangements of labor and capital. In
+this way the *idea* of citizen reporters, to take a Soviet example that he
+uses, has the potential to democratize journalism. But, as long as the
+production of newspapers is outside of the writer's immediate control, citizen
+journalism is bound to remain, *in practice*, "an article of consumption." In
+capitalist societies forces of capital ultimately transform the potential for
+any meaningful political struggle brought about by the new narrative technique
+into mere comfortable contemplation, a technically perfect object of enjoyment
+[@benjamin_author_1983]. Capitalism, in this sense, is the generic technique
+for turning ideas into things (and things into ideas), a mode of production in
+which art cannot help but participate.
+
+It seems not possible then for poetic form to evolve without the corresponding
+evolution in the structures of economic production. Like Shklovsky, Benjamin
+saw a small ray of hope in modernist techniques of estrangement and
+interruption. Emerging art forms like photo-montage and the epic theater
+puncture the illusion of artistic unity. "Epic theater does not reproduce
+conditions," Benjamin writes; it is not mimetic, it "discloses" and
+"uncovers." The technique of interruption, by which a playwright freezes the
+scene, for example, functions to create a caesura within the structure of the
+play. Similar to Lubbock's detached objectification of the novel and
+Shklovsky's concept of estrangement, interruption brings attention to the
+artifice of the art form. At the height of its powers, epic drama shows the
+possibility of what Benjamin calls a "lasting alienation," by which the
+effects of the dramatic interruption can persevere beyond theater, continuing
+to expose the uncomfortable truths about the human condition
+[@benjamin_author_1983, 99-102].
+
+In traditional Marxist terms, the dilemma of robotics---automated machinery of
+thought and war---rests on an understanding of production as it relates to its
+cognates: authorship, technique, craft, poiesis. Even in those cases when
+authors write freely, without duress, they do not choose their instruments.
+Readers also determine the contexts of their own meaning making only in part.
+"The means of production do not depend on the free will," Marx wrote
+[@marx_collected_1976, 181; @winner_autonomous_1978, 83]. It is not enough
+therefore to be an independent supplier of commodities, a free agent. One must
+also be free to develop new *ways of producing*. The liberated writer must
+transform, in Benjamin's words, from the "supplier" of technique into an
+"engineer," able to adapt literary apparatus towards one's own ends
+[@benjamin_author_1983, 102]. At stake as always in materialist poetics is the
+self-determination of the subject. Technique liberates literature from
+individual genius, but in doing so it also enters the commons, beyond the
+reach of the individual. Following this logic, formalist poetics necessitate a
+kind of a structuralism, which proceeds in search of universal constructs like
+Vladimir Propp's narrative folk motifs or the universal grammar of Noam
+Chomsky. These rule-based structures exist in the space previously occupied by
+Hegelian notion of the universal world spirit, a kind of a worldly
+meta-consciousness that seems to develop and evolve by its own laws and logic.
+
