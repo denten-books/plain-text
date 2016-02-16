@@ -1185,21 +1185,28 @@ idea. In asking "How is it made?" we arrest the advance of symbolism, in an
 attempt to find the thing behind the process of signification. This process
 ultimately ends at the medium, which today has the added property of being
 simulated. The paper page contained no internal states to speak of.
-Signification could therefore begin from the surface phenomenon, proceeding
-from the inscription towards the reader. This, as Moreno reminds us, is
-already a dangerous process. The danger of reading is taking on the mental
-states of others. It shall be held in view all the more because the electronic
-book, unlike paper, does contain internal states which further interject in
-the process of signification. How is it made, becomes the question not only
-for poetics for the politics of reading. We are in search of a rule book that
-governs the transference of meaning between three discrete and incompatible
-systems: one inorganic, one symbolic, and one biological. There is of course a
-way in which the three are one: we are in a sense cyborgs, an assemblage of
-bodies, instruments, and inscriptions. But in another sense, poetics asks us
-to reflect on the constructed nature of the coupling, the point of contact
-governed by rules engagement, protocols, and translation tables. These are
-constructed entities, even as they grow and proliferate in a wild and organic
-ad-hoc manner, escaping rationalization.
+Signification begin therefore at surface phenomena, proceeding from the
+inscription towards the reader. Reading, as Moreno reminds us, is already an
+invasive procedure. Absent human contact, we take on the mental states of
+others through vehicle that convey a remote kind of agency, displaced in time
+and space. It shall be held in view all the more because the electronic book,
+unlike paper, does contain internal states of its own which further interject
+in the process of signification, transmission, translation. How is it made,
+becomes the question not only for poetics for the politics of reading. We are
+in search of a rule book that governs the transference of meaning between at
+least three discrete systems: one inorganic, the book, one symbolic, text, and
+one biological, body.  There is of course a way in which the three are one: we
+are in a sense cyborgs, an assemblage of organs, instruments, and
+inscriptions. But in another sense, poetics asks us to reflect on the
+constructed nature of the coupling: the point of contact being governed by
+rules engagement, protocols, and translation tables. These constructed
+entities nevertheless grow and proliferate in a wild, ad-hoc manner, escaping
+rationalization. They comprise a part of our received, technological a priori,
+but that does not mean that they should be naturalized or treated with a
+reverence afforded to endangered species. To kill a book, this is what Moreno
+suggests, perhaps perversely. But at what point does the weight of heritage
+begins to suffocate new growth? When does a culture reach a point of
+saturation, at which it
 
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
