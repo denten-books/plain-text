@@ -1079,7 +1079,7 @@ changed humanity's relationship with symbolic thought. They belong to an
 intellectual tradition of distinctly humanist thinking about reading, writing,
 and interpretation.
 
-### 2.3 Device
+### 2.3 Towards the Device
 
 It is important to remember, that in 1936, Turing's machine remained a thought
 experiment---not yet an actual device. Literature in computer science tends to
@@ -1143,7 +1143,8 @@ schema, Kittler sees the paper-bound design blueprints of the first integrated
 microprocessor as the last "real" piece of writing. Everything written after
 that point is hardware, because all digital modes of representation, including
 text, ultimately rest on hardware architecture. The inability to understand
-hardware, in this view, precludes all higher modes of interpretation.
+hardware, in this view, precludes all higher modalities of reading, writing,
+or interpretation.
 
 Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, software determines the properties of any
@@ -1177,7 +1178,28 @@ inscriptions persist, through time, beyond their biological origin. They are
 then conveyed remotely and through ingestion transformed back into mental
 states. The thing becomes a thought, and the other way around. The
 intellectual history of the Turing machine leads us to a series of thought
-experiments about the nature of such a transformation.
+experiments about the nature of such transformations. The question of
+technique continues to haunt modern poetics. In the process of reading the
+book escapes the interpreter's grasp as a thing, presenting itself only as an
+idea. In asking "How is it made?" we arrest the advance of symbolism, in an
+attempt to find the thing behind the process of signification. This process
+ultimately ends at the medium, which today has the added property of being
+simulated. The paper page contained no internal states to speak of.
+Signification could therefore begin from the surface phenomenon, proceeding
+from the inscription towards the reader. This, as Moreno reminds us, is
+already a dangerous process. The danger of reading is taking on the mental
+states of others. It shall be held in view all the more because the electronic
+book, unlike paper, does contain internal states which further interject in
+the process of signification. How is it made, becomes the question not only
+for poetics for the politics of reading. We are in search of a rule book that
+governs the transference of meaning between three discrete and incompatible
+systems: one inorganic, one symbolic, and one biological. There is of course a
+way in which the three are one: we are in a sense cyborgs, an assemblage of
+bodies, instruments, and inscriptions. But in another sense, poetics asks us
+to reflect on the constructed nature of the coupling, the point of contact
+governed by rules engagement, protocols, and translation tables. These are
+constructed entities, even as they grow and proliferate in a wild and organic
+ad-hoc manner, escaping rationalization.
 
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
