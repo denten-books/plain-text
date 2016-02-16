@@ -1184,23 +1184,22 @@ At the very least, we must admit that such simulations do not rest on the
 immaterial "turtles all the way down," unless that is, one believes that the
 universe itself is a type of Turing computation [@deutsch_quantum_1985;
 @lloyd_ultimate_2000; @piccinini_computational_2007]. At some point, the
-Turing machine in the virtual world meets the material boundaries of the
-physical. Simulation engines like *Minecraft* and *Wireworld* do in some sense
-exist in the symbolic abstraction, as code or a set of rules written on paper.
-But in another sense, they do not. They come into being only when instantiated
-on top of first-order, physical constrains that involve actual circuit boards
-and relay switches. For this reason, the performance of a Turing machine
-simulated within a virtual world like Minecraft or Wireworld, cannot logically
-exceed the performance (in terms of cycles per second, instructions per cycle,
-or its capacity to hold a number of instructions) of the machine running the
-Minecraft and Wireworld itself. The physical capabilities of the bottom-most
-device limit the computation power of all *n+1* order Turing simulations. The
-bottom-most turtle may have its head in the clouds, but its feet rest firmly
-on the ground.
+Turing machine in the virtual world meets the material limits of the physical.
+Simulation engines like *Minecraft* and *Wireworld* do in some sense exist in
+the abstract, as code or even a set of rules written on paper. But in another
+sense, they do not. They come fully into being only when instantiated within
+first-order, physical constrains that involve actual circuit boards and relay
+switches. For this reason, the performance (in terms of cycles per second,
+instructions per cycle, or its capacity to hold a number of instructions) of a
+Turing machine simulated within a virtual world like Minecraft cannot
+logically exceed the performance of the machine running Minecraft itself. The
+physical capabilities of the bottom-most device limit the computational power
+of all *n+1* order Turing simulations. The bottom-most turtle may have its
+head in the clouds, but its feet rest firmly on the ground.
 
-The exact plane where the symbolic meets the literal is difficult to identify
-definitively. At some imperceptible point software disappears into hardware.
-Such ambiguity between hardware and software leads to some controversy in the
+The exact plane where the symbolic meets the material is difficult to
+identify. At some imperceptible point software disappears into hardware. Such
+ambiguity between hardware and software leads to some controversy in the
 critical literature, as evidenced by Lev Manovich's playful response to
 Kittler's "there is no software" argument. If I understand it correctly,
 Kittler's short but often cited essay picks up the thread of Kittler's earlier
@@ -1210,25 +1209,32 @@ written inscriptions which, in contrast to all historical writing tools, are
 able to read and write by themselves" [@kittler_there_1995]. According to this
 schema, Kittler sees the paper-bound design blueprints of the first integrated
 microprocessor as the last "real" piece of writing. Everything written after
-that point is hardware (because software is hardware at that "microscopic"
-level).
+that point is hardware, because all digital modes of representation, including
+text, ultimately rest on hardware architecture. The inability to understand
+hardware, in this view, precludes all higher modes of interpretation.
 
 Manovich inverts Kittler's argument into "there is only software," by which he
-means that in a pragmatic sense, the affordances of a given medium are
-determined by software. A printed page begins to differ from its computed
-analogy only when readers are able to effect something on the screen that they
-could not on paper. To this end, Manovich encourages his readers to become
-active developers of software, rather than its passive consumers
-[@manovich_there_2011, 274]. In that, Manovich reasserts the possibility of
-writing in the silicon age. Kittler (who passed in 2011) could perhaps object
-to that line of reasoning in maintaining that chip architecture (the last
-written work, according to him) still determines, as foundation, all higher
-levels of textuality "floating" above the silicon bedrock. And no amount of
-learning to code would give an ordinary subject the resources required to
-write in silicon---a process so advanced and expensive as to be limited to a
-handful of international chip manufacturers. In opening a series of nested
-black boxes, the post-silicon writer hits the impenetrable casket of chip
-architecture.
+means that in a pragmatic sense, software determines the properties of any
+media object. "What you can do with a particular digital media file can change
+dramatically," depending on the software, Manovich writes. When it comes to
+digital photographs, to use his example, one application may allow the
+photographer to crop the image while another may not [@manovich_there_2011,
+151]. From this property-determining aspect of the computational medium (and
+in reference to the work of Alan Kay), Manovich derives the concept of
+*metamedia*, "a medium that can dynamically simulate the details of any other
+medium" [@manovich_there_2011, 105-6]. "Interactive software adds a new set of
+operations which can be applied to all media, which we as users experience as
+their new 'properties'," he writes. Furthermore, these properties vary
+according to the software [@manovich_there_2011, 150-1]. Kittler (who passed
+in 2011) could perhaps object to that line of reasoning in maintaining that
+chip architecture still determines, as foundation, all higher levels of
+textuality "floating" above the silicon bedrock. In other words, everything
+Manovich writes is true for all *simulated* media, but not for computation
+itself! In opening a series of nested software black boxes, the post-silicon
+writer and scholar of software hits the impenetrable casket of chip
+architecture. The hardware giving rise to the simulation is not in itself a
+simulation. It therefore ultimately determines the "properties" of software as
+medium.
 
 Wittgenstein's thought experimentation does not let us fall definitively into
 one camp or another. The Turing machine must remain a machine for translating
