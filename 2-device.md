@@ -1204,9 +1204,9 @@ entities nevertheless grow and proliferate in a wild, ad-hoc manner, escaping
 rationalization. They comprise a part of our received, technological a priori,
 but that does not mean that they should be naturalized or treated with a
 reverence afforded to endangered species. To kill a book, this is what Moreno
-suggests, perhaps perversely. But at what point does the weight of heritage
-begins to suffocate new growth? When does a culture reach a point of
-saturation, at which it
+suggests, perhaps perversely, or to read them one by one by the millions. We
+are suspended somewhere between these two extremes: fetishism or material
+abnegation, hoarding or destruction.
 
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
