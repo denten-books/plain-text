@@ -164,6 +164,7 @@ depending on the readers race, gender, ethnicity, geography, or political
 affiliation. Who has agency to program the device? Were a book also a pill or
 fused with the neural circuitry of the brain, would you know what and whom you
 were reading?
+
 I began the book by asking the reader to answer a seemingly innocuous
 question: Where does the computed sign reside? The outlines of an answer led
 us to multiple sites of inscription, some visible and some hidden, some
