@@ -1163,7 +1163,7 @@ in 2011) could perhaps object to that line of reasoning in maintaining that
 chip architecture still determines, as foundation, all higher levels of
 textuality "floating" above the silicon bedrock. In other words, everything
 Manovich writes is true for all *simulated* media, but not for computation
-itself! In opening a series of nested software black boxes, the post-silicon
+itself. In opening a series of nested software black boxes, the post-silicon
 writer and scholar of software hits the impenetrable casket of chip
 architecture. The hardware giving rise to the simulation is not in itself a
 simulation. It therefore ultimately determines the "properties" of software,
@@ -1185,28 +1185,51 @@ idea. In asking "How is it made?" we arrest the advance of symbolism, in an
 attempt to find the thing behind the process of signification. This process
 ultimately ends at the medium, which today has the added property of being
 simulated. The paper page contained no internal states to speak of.
-Signification begin therefore at surface phenomena, proceeding from the
-inscription towards the reader. Reading, as Moreno reminds us, is already an
-invasive procedure. Absent human contact, we take on the mental states of
-others through vehicle that convey a remote kind of agency, displaced in time
-and space. It shall be held in view all the more because the electronic book,
-unlike paper, does contain internal states of its own which further interject
-in the process of signification, transmission, translation. How is it made,
-becomes the question not only for poetics for the politics of reading. We are
-in search of a rule book that governs the transference of meaning between at
-least three discrete systems: one inorganic, the book, one symbolic, text, and
-one biological, body.  There is of course a way in which the three are one: we
-are in a sense cyborgs, an assemblage of organs, instruments, and
+Signification therefore proceeds from the surface inscription towards the
+reader. Reading, as Moreno reminds us, is already an invasive procedure.
+Absent human contact, we take on the mental states of others through vehicle
+that convey a remote kind of agency, displaced in time and space. It shall be
+held in view all the more because the electronic book, unlike paper, does
+contain internal states of its own which further interject in the process of
+signification, transmission, and translation. How is it made, becomes the
+question not only for poetics for the politics of reading. We are in search of
+a rule book that governs the transference of meaning between at least three
+discrete systems: one inorganic, the book, one symbolic, text, and one
+biological, body. There is of course a way in which the three are one: we are
+all in a sense cyborgs, in an assemblage of organs, instruments, and
 inscriptions. But in another sense, poetics asks us to reflect on the
 constructed nature of the coupling: the point of contact being governed by
 rules engagement, protocols, and translation tables. These constructed
-entities nevertheless grow and proliferate in a wild, ad-hoc manner, escaping
-rationalization. They comprise a part of our received, technological a priori,
-but that does not mean that they should be naturalized or treated with a
-reverence afforded to endangered species. To kill a book, this is what Moreno
-suggests, perhaps perversely, or to read them one by one by the millions. We
-are suspended somewhere between these two extremes: fetishism or material
-abnegation, hoarding or destruction.
+entities nevertheless grow and proliferate in a seemingly organic, ad-hoc
+manner escaping our attempts at rationalization. They comprise a part of our
+received technological a priori. That does not however mean that they should
+be naturalized or treated with a reverence afforded to endangered species. To
+decouple ourselves from a book, if only momentarily, to reject the graft, to
+discard it, or to let it whither, must remain an option.
+
+If poetics lay the grounds for interpretation, we must acknowledge that today,
+these grounds involve forms and structures that derive their meaning from
+computation. These are embedded constructions: they are within and require
+explication. Techniques of the body and literary techniques, intertwine in the
+process of conventional reading. But in computational reading, they are
+coupled ever tighter, nearer than the hand's reach. Under these conditions, it
+becomes increasingly more difficult to "hold away" and to "grasp the object"
+apart from the subject. Some may celebrate this moment as a triumph over
+Cartesian dualism, the deserved decline of humanism, or the ascendency of a
+world oriented towards objects. These considerations risk losing sight of the
+political reality that the loss of poetics entails. As I write these words, a
+North American woman "wearing" an implanted pacemaker is fighting for her
+right to access its software, in her words "to know what code is running
+inside my body" [@mcgowan_i_2016]. In Pakistan, the American National Security
+agency places people on the US-sanctioned "disposition matrix" or "kill list"
+based on predictive analytics: social network analysis, patterns of travel,
+and telephone use [@mcneal_targeted_2014; @weber_keep_2016]. Willingly, or
+not, we are engaged in the political struggle for the control of these
+codified resources. Whatever Moreno's "techniques of freedom" or Langdon
+Winner's "democratic technics" entailed in the age of print, today they must
+involve new practices of reading and writing, capable of recovering the
+inscription from within the device and making it available for analysis and
+emendation.
 
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
