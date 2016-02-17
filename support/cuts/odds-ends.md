@@ -569,16 +569,7 @@ requirements: "tape," "symbol," "scanned square," "in the machine"
 
 Like Bakhtin and Lubbock before him, Walter Benjamin similarly develops a
 notion of technique as a process that bridges immanence and transcendence: the
-work of art as an idea and a thing. The work of art for Benjamin does not and
-cannot exist in the mode of a "rigid, isolated object." Rather, "it must be
-inserted into the context of living social relations," and therefore, into the
-context determined by its relation to literary production
-[@benjamin_author_1983, 87]. Authorship identifies a specific mode of
-production. The question of formal, intra-textual figurative arrangements
-within the work of art thus cannot be considered apart from their
-extra-textual material contexts. Technique for Benjamin is what makes literary
-products "accessible" to materialist analysis; technique itself is, in his
-view, a relationship to production [@benjamin_author_1983, 87].
+work of art as an idea and a thing. 
 
 In making the characteristically Marxist move towards production, Benjamin
 attempts to bridge what he calls the "sterile dichotomy" between form and
