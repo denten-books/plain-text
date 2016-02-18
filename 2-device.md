@@ -346,7 +346,7 @@ arrangement" alone. He wrote, "I am quite ready to join in the sentiment that
 'in art technique is everything,' provided we understand that the aesthetic
 object cannot exist independent of the artistic work." For Bakhtin, the work
 existed neither in the mind nor in the arrangement of matter alone
-[@bakhtin_k_2003, 308-10]. In other words, he argued that any imminent volume
+[@bakhtin_k_2003, 308-10]. In other words, he argued that any immanent volume
 of text, an edition of Shakespeare's *Hamlet* for example, could not exhaust
 the possibility of *Hamlet* as a transcendent work of art. Neither could it be
 reduced to a pure idea, because any notion of *Hamlet* as an idea rests upon
@@ -355,38 +355,34 @@ specific critical editions. Similarly, the notion of technique for Bakhtin
 could not be reduced to the mere manipulation of physical form, independent of
 the aesthetic object as an idea. "In art, technique is not mechanistic," he
 wrote. "Technique animates and motivates the aesthetic object at every point"
-[@bakhtin_k_2003, 310].
-
-In this equation between the work of art as an idea and an object, Bakhtin
-approximated the following formula: "the audience is equivalent to the
-creator, minus technique." The audience experiences the creative process of
-the making of the work of art, though without an understanding of the craft
-involved.  Alternatively, the author "equals the audience plus technique"
-[@bakhtin_k_2003, 373-4]. For Bakhtin, technique served as the "method of
-processing content through material" [@bakhtin_k_2003, 249]. Again we return
-to the notion of technique as a mode of labor or a procedure, which transforms
-raw material into a work of art, no long an object limited by its physical
-dimensions. The goal of poetics---the study of formation---for Bakhtin was
-therefore the understanding of the work of art as a "technical apparatus of
-aesthetic creation," a movement, in other words, between the work of art as an
-idea and the object of art as a thing [@bakhtin_k_2003, 275]. Technique is
-thereby seen as a mechanism for transforming ideas into things and the other
-way around.
+[@bakhtin_k_2003, 310]. In this equation between the work of art as an idea
+and an object, Bakhtin approximated the following formula: "the audience is
+equivalent to the creator, minus technique." The audience experiences the
+creative process of the making of the work of art, though without an
+understanding of the craft involved.  Alternatively, the author "equals the
+audience plus technique" [@bakhtin_k_2003, 373-4]. For Bakhtin, technique
+served as the "method of processing content through material"
+[@bakhtin_k_2003, 249]. Again we return to the notion of technique as a mode
+of labor or a procedure, which transforms raw material into a work of art, no
+long an object limited by its physical dimensions. The goal of poetics---the
+study of formation---for Bakhtin was therefore the understanding of the work
+of art as a "technical apparatus of aesthetic creation," a movement, in other
+words, between the work of art as a thing and the object of art as an idea
+[@bakhtin_k_2003, 275].
 
 Even as formal analysis skirted the idea of a materialist poetics---Bakhtin
 calls it "primitive" and "reductive" for this inclination---the formalists
 stopped short of including the physical properties of inscription into
 literary analysis. The "matter" of materialist poetics was nevertheless
-limited to the rather abstract notion of language, which still seemed to exist
-independently of its physical manifestations. With this in mind, it is
+limited to the rather abstract notion of language, which still often seems to
+exist independently of its physical manifestations. With this in mind, it is
 interesting to consider Nabokov's recursive meta-poetics as a logical apogee
 of the formalist program. Nabokov's pipes and surface inscriptions protrude
-through the diegetic limits of the fictional world, pointing to the book as an
-material artifact. The nesting doll structure of literary instrumentation ends
-at the book. Nabokov's prose reveals the surface of the page as the outer-most
-literary device containing all other literary devices. Recall, for example the
-conclusion of his 1936 *Invitation of Beheading*, which ends in the
-imagined dissolution of the diegetic, fictional world and a glimpse of the
+through the diegetic limits of the fictional world. The nesting doll structure
+of literary instrumentation ends at the book. Nabokov's prose reveals the
+outer-most literary device containing all other literary devices. Recall, for
+example the conclusion of his 1936 *Invitation of Beheading*, which ends in
+the imagined dissolution of the diegetic, fictional world and a glimpse of the
 material reality "on the other side" of the page:
 
 > Everything was falling. A spinning wind was picking up and whirling: dust,
@@ -397,12 +393,12 @@ material reality "on the other side" of the page:
 176].
 
 Modernist literary technique of the sort gestures towards the object,
-arresting the illusion of mimesis, revealing the artifice of the literary
-device. Yet, even for the formalists technique remains an intra-textual
+arresting the illusion of mimesis and revealing the artifice of the literary
+device. Yet, even for the formalists, technique remained an intra-textual
 procedure. The material affordances of the literary object are not seen as
 participating in the dynamics of meaning making. The book itself recedes from
 view. Echoing his Soviet colleagues in his influential *The Craft of Fiction*,
-the English critic Percy Lubbock, himself a formalist of sorts, would write :
+the English critic Percy Lubbock, himself a formalist of sorts, would write:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -410,63 +406,61 @@ the English critic Percy Lubbock, himself a formalist of sorts, would write :
 > book steady and motionless before us so that we may have time to examine its
 > shape and design [@lubbock_craft_1921, 1].
 
-Make note of the object-oriented vocabulary in the above passage that does
-note quite refer to the object. When Lubbock uses words like "form," "book,"
-"shape," and "design" or when he refers to "grasping," "holding," and "keeping
-the book motionless," he seem to refer to these concepts metaphorically as in
-holding, grasping, and keeping the book before the mind's eye. The book
-continually escapes the reader's mental not physical grasp. Our ability to
-understand the novel as a form is hampered by our unfamiliarity with its
-"technical aspects," Lubbock writes [@lubbock_craft_1921, 272]. Other more
-plastic art forms like sculpture or painting can be grasped at once, in their
-entirety. They exist at a time and at a place limited to their physical
-dimensions. By contrast, the narrative unfolds in time. The novel must be
-assembled before the mind's eye to present itself for analysis in its
-entirety. Elements of composition unfold in time outside of the novel's
-physical, bibliographic contexts. Meaning making of this sort involves reading
-past the linguistic minutiae to construct a synthetic literary whole. Lubbock
-writes that the "real heart and substance of the book [...] stands out more
-clearly for the obscurity into which the less essential parts of it subside"
-[@lubbock_craft_1921, 4]. To read in this mode is to deny the book its
-materiality. To read the novel for pleasure is to "forget, if we can, that the
-book is an object of art [@lubbock_craft_1921, 6]. And to forget the book as
-an object of art is necessarily to forget it also as an object. Thus to
-"objectify the elements" of the novel that "strike us more keenly," as Lubbock
-phrases it, is precisely the opposite of what is normally meant by
-objectification. Reading is a retreat from materiality. The book is a retreat
-also from the material realities of the reader's immediate context, an escape
-into the imagination, where the reader can "discover a world" and "be lost" in
-a "pleasant illusion," where there is "no chance of our finding, perceiving,
-recreating, the *form* of the book [emphasis mine]" [@lubbock_craft_1921, 6].
+Note the use of the object-oriented vocabulary in the above passage in a way
+that does note quite refer to objects. When Lubbock uses words like "form,"
+"book," "shape," and "design" or when he refers to "grasping," "holding," and
+"keeping the book motionless," he refers to these concepts metaphorically as
+in holding, grasping, and keeping the thing before the mind's eye. The book
+continually escapes the reader's mental not physical grasp. Nor do his books,
+forms, shapes, and designs refer to the outward, material aspects of the
+literary artifact. These are again mental constructions, not physical.
 
-Unlike the lay reader who escapes into the novel's pleasurable details, the
-critic is to engage with the novel as completed whole, accessible to the mind
-only after the reading is finished. Lubbock writes that "far from losing
-ourselves in the world of the novel, we must hold it away from us, see it all
-in detachment, and use the whole of it to make the image we seek, the book
-itself" [@lubbock_craft_1921, 6]. But the image of the novel is also no longer
-equivalent to its physical manifestation. The literary object is reassembled
-in the mind, as an idea. Echoing Boris Eichenbaum in "How *The Overcoat* is
-Made", Lubbock calls the reader's attention to the technology or craft of such
-literary such construction. He promises to view a "handful of familiar novels
-[...] with some particularity," but without judgement or critique. "How they
-are made is the only question I ask," he writes [@shklovksy_poetika_1919;
-@lubbock_craft_1921, 12 & 28; @eichenbaum_how_1995]. "The author of the book
-was a craftsman," he concludes.  It is therefore the critic's role to
-"overtake him at his work and see how the book was made" [@lubbock_craft_1921,
-274]. Lubbock's usage of an object-oriented vocabulary---"parts," "forms,"
-"shapes," "proportions," and "designs"---nevertheless refer to ideational,
-mental constructs, just as it was for Shklovsky and Eichenbaum. "The book
-vanishes as we lay our hands on it," Lubbock writes [@lubbock_craft_1921,
-273]. Critics must chose to see either the trees or the forest. As the
-totality of the work comes into view, the technical details of craft---and the
-book itself---disappear. But viewed up close, the technical particulates also
-obscure sight of the work as a whole. *The Craft of Fiction* ends on an
-ambivalent note, stopping short of recovering the book as an object. "If only
-there was one single tangible and measurable fact about the book," Lubbock
-writes. If only it could be "weighed like a statue" or "measured like a
-picture, it would be a support in the world of shadows [@lubbock_craft_1921,
-273-4].
+Our unfamiliarity with what Lubbock calls the novel's "technical aspects"
+thereby hampers our ability to understand how it comes present itself to the
+mind in its entirety [@lubbock_craft_1921, 272]. We grasp other more plastic
+art forms like sculpture or painting whole and at once. They exist at a time
+and place limited to their physical dimensions. Narratives unfold in time, by
+contrast. To perceive a book critically, we must abstract from the physical
+object and extend it past immediate perception. Meaning making of this sort
+involves also reading past the linguistic minutiae to construct a synthetic
+literary whole. Lubbock writes that the "real heart and substance of the book
+[...] stands out more clearly for the obscurity into which the less essential
+parts of it subside" [@lubbock_craft_1921, 4]. To read in this mode is
+precisely to deny the book its materiality. When reading for pleasure, lay
+readers lose themselves in the in the elements of narrative immediately
+available for observation. To read the novel for pleasure for Lubbock is to
+"forget, if we can, that the book is an object of art [@lubbock_craft_1921,
+6]. By object of art he means the transcendent idea of the novel as opposed to
+the object itself. To "objectify the elements" of the novel that "strike us
+more keenly," as Lubbock phrases it, therefore means for him quite the
+opposite of what is usually meant by objectification. The critic engages the
+completed idea of the novel, accessible to the mind only after the reading is
+finished. He writes: "Far from losing ourselves in the world of the novel, we
+must hold it away from us, see it all in detachment, and use the whole of it
+to make the image we seek, the book itself" [@lubbock_craft_1921, 6].
+
+Critical reading in this sense entails an account of the transformation, from
+things to ideas: from words and sentences to stories, novels, and verse.
+Echoing Boris Eichenbaum in "How *The Overcoat* is Made", Lubbock evokes the
+reader's attention to the technology or craft of such literary construction.
+He promises to view a "handful of familiar novels [...] with some
+particularity," but without judgement or critique. "How they are made is the
+only question I ask," he writes [@shklovksy_poetika_1919; @lubbock_craft_1921,
+12 & 28; @eichenbaum_how_1995]. "The author of the book was a craftsman," he
+concludes. It is therefore the critic's role to "overtake him at his work and
+see how the book was made" [@lubbock_craft_1921, 274]. Lubbock's usage of an
+object-oriented vocabulary---"parts," "forms," "shapes," "proportions," and
+"designs"---nevertheless refer to ideational, mental constructs, just as it
+was for Shklovsky and Eichenbaum. "The book vanishes as we lay our hands on
+it," Lubbock writes [@lubbock_craft_1921, 273]. Critics must chose to see
+either the trees or the forest. As the totality of the work comes into view,
+the technical details of craft---and the book itself---disappear. But viewed
+up close, the technical particulates also obscure sight of the work as a
+whole. *The Craft of Fiction* ends on an ambivalent note, stopping short of
+recovering the book as an object. "If only there was one single tangible and
+measurable fact about the book," Lubbock writes. If only it could be "weighed
+like a statue" or "measured like a picture, it would be a support in the world
+of shadows [@lubbock_craft_1921, 273-4].
 
 ### 2.2 Thought Experiment I
 
