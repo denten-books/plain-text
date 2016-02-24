@@ -477,14 +477,13 @@ colleague. The story of Turing machines has been told before in many guises,
 but never with an eye towards literary machines that nevertheless occupy a
 central place in the early development of modern computing.
 
-To confront the computer as a literary device, a machine optimized for the
-transference between symbolic and physical states, one must first understand
-its peculiar relationship to universal Turing machines. I would like to take
-some time now to draw two further as yet unexplored historical lineages that
-lead to Turing's seminal essay on computable numbers: the first intellectual,
+To confront the computer as a literary device, one must first understand its
+peculiar relationship to universal Turing machines. I would like to take some
+time now to draw two further as yet unexplored historical lineages that lead
+to Turing's seminal essay on computable numbers: the first intellectual,
 stemming back to his tutelage under Ludwig Wittgenstein, and the second
 material, highlighting the physical similarities between Turing's design and a
-number of concomitant developments in printing and communication. To read
+number of concomitant developments in printing and communication.  To read
 Turing and Wittgenstein together is to recover a legacy of humanities
 computing that often gets overlooked in the history of computer science and
 software engineering. The literary perspective is important because it allows

@@ -53,6 +53,9 @@ Potential reviewers
     *Alan Liu
     *Kathleen Fitzpatrick
     Trebor Scholz (recommended by Sid)
+    Wendy Chun
+    Gary Hall (Coventry)
+    Kenneth Goldsmith
 
 Send Book To
 ===========================
