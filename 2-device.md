@@ -477,13 +477,24 @@ bring us to literary devices as they exist today, precisely within the
 confusion between symbol and thing. At this point, it becomes productive to
 examine the history of modern computing not within its usual lineage of
 calculating machinery, but in relation to the broader history of materialist
-poetics which encompasses both literary and computational devices. The modern
-computer---and by extension the electronic book---harkens back to a cluster of
-related thought experiments prevalent in the philosophy of Ludwig Wittgenstein
-and subsequently to the ideas of Alan Turing, his long-time student and
-colleague. The story of Turing machines has been told before in many guises,
-but never with an eye towards literary machines that nevertheless occupy a
-central place in the early development of modern computing.
+poetics. I would like the reader to view the following sections in the context
+of the previous one on literary theory, even in the absence of direct evidence
+for an explicit intellectual connection.[^ln2-moaran] My goal is not to prove
+that such a connection exists, but rather to irreparably entangle the two
+genealogies while highlighting a shared set of ideas, assumptions, and
+concerns. The modern computer---and by extension the electronic book---harkens
+back to a cluster of related thought experiments prevalent in the philosophy
+of Ludwig Wittgenstein and subsequently to the ideas of Alan Turing, his
+long-time student and colleague. The story of Turing machines has been told
+before in many guises, but never with an eye towards literary machines that
+nevertheless occupy a central place in the early development of modern
+computing.
+
+[^ln2-moaran]: There is evidence that Ludwig Wittgenstein, the subject of this
+section, read Russian and that he visited the Soviet Union in the 1930s. Both
+he and Shklovsky fought in Galicia at the Eastern Front although there is no
+evidence that the two men met nor knew of one another's work. See
+@moran_wittgenstein_1972.
 
 To confront the computer as a literary device, one must first understand its
 peculiar relationship to universal Turing machines. I would like to take some
