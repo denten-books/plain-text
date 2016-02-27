@@ -78,9 +78,9 @@ shape the social and the mental worlds to come. Moreno explains:
 > Many of the domesticated robots are blessed with the attribute of becoming
 > labor-saving devices, which has, however the unpleasant consequence that
 > they at times reduce the need for creating, promoting with leisure also
-> inertia.  [...] Many of the robots have also the attribute in common of
-> being able to affect human beings or other "targets at a distance," a book,
-> a radio or a television sender can entertain or teach at a distance, like a
+> inertia. [...] Many of the robots have also the attribute in common of being
+> able to affect human beings or other "targets at a distance," a book, a
+> radio or a television sender can entertain or teach at a distance, like a
 > gun, a rocket and an atomic bomb can kill people and destroy at a distance.
 > The book is a robot par excellence [@moreno_who_1953, 238].
 
@@ -105,10 +105,10 @@ print and weaponry represent the human volition displaced in time and space.
 The projectile acts at a distance; once launched, it will complete its grim
 mandate even if the command to act is withdrawn. Technology of the word
 similarly decouples readers from writers. The book persists to mean in the
-absence of the author.  Once decoupled, seemingly autonomous agents---books,
+absence of the author. Once decoupled, seemingly autonomous agents---books,
 folders, documents---clutter the social sphere, continuing to structure human
 experience in the absence of the originating accord. Knowledge, in Plato's
-terms begins to be replaced with the simulation or imitation [ὁμοίωμαi] of
+terms, begins to be replaced with the simulation or imitation [ὁμοίωμαi] of
 knowledge [@plato_plato:_1999, 250a-b]. The above might appear a curious way
 of putting things, but not unusual in the larger context of post-Kantian
 humanism at the turn of the twentieth century. In Moreno's words we hear more
@@ -257,28 +257,28 @@ shared widely.
 Aside from its political implications, the mechanization of language gains
 further significance in its instrumental context. As we shall see in the later
 chapters, developments in aesthetic theory I describe here followed a period
-of rapid innovation in the technologies of the word.  The rise of formalist
-and consequently structuralist thought---along with philosophy's linguistic
-turn that saw language as a as system of rule-based games---parallel the rise
-of programmable media, punch cards, and ticker tape. That is not to say that
-theory and technology stand in a reductive causal relationship to one another.
-Rather, they form a feedback loop, in which instruments, practices, and
-explanatory models evolve through mutual reciprocation. My understanding of
-the literary device in both of its senses---as technique and device---is
-therefore motivated by more than mere linguistic ambiguity in the meaning of
-the words. Locating the literary theoretical construct of the device within
-its technological context allows us to witness the contemporaneous evolution
-and the mutual interdependence between art, engineering, and philosophy. The
-origins of computer science and literary formalism can be traced back to a set
-of shared theoretical assumptions and technological contingencies coming to
-fore of telecommunications at in the first few decades of the twentieth
-century.
+of rapid innovation in the technologies of the word. The rise of formalist and
+consequently structuralist thought---along with philosophy's linguistic turn
+that saw language as a as system of rule-based games---parallel the rise of
+rule-based programmable media: punch cards, magnetic drums, ticker tape. That
+is not to say that theory and technology stand in a reductive causal
+relationship to one another. Rather, they form a feedback loop, in which
+instruments, practices, and explanatory models evolve through mutual
+reciprocation. My understanding of the literary device in both of its
+senses---as technique and device---is therefore motivated by more than mere
+linguistic ambiguity contained in the meaning of the word device. Locating the
+literary theoretical construct of the device within its technological context
+allows us to witness the contemporaneous evolution and the mutual
+interdependence between art, engineering, and philosophy. The origins of
+computer science and literary formalism can be traced back to a set of shared
+theoretical assumptions and technological contingencies coming to fore of
+telecommunications at in the first few decades of the twentieth century.
 
 It is at this time that the formalist concept of technique begins to remove
 the idea of literary production from its affective, intimate, and
 irreproducible contexts. The emphasis on craft over art implies primarily a
 change in the artist's relationship to modes of artistic production. Walter
-Benjamin, had this view in mind when he wrote decades later about the work of
+Benjamin had this view in mind when he wrote decades later about the work of
 art that can no longer be thought of as a "rigid, isolated object." Rather,
 "it must be inserted into the context of living social relations," and
 therefore, into the context determined by its relation to literary production
@@ -302,39 +302,42 @@ through handicraft. In his "Art as Device," Shklovsky writes:
 > figure [*obraz*] rather than with its creation" [@shklovksy_poetika_1919,
 > 102].
 
-Unlike the previous generation of critics who privileged the analysis of
-symbol, the Russian formalists did not think that poetics could be reduced to
-a type of figurative thinking. Shklovsky and his fellow travellers valued
-instead the "arrangement and the processing" of literary trope. This line of
-reasoning brought Shklovsky to the idea of linguistic "automatization."
-Prosaic, everyday language follows the "laws of conservation of energy," he
-wrote, paraphrasing the thesis of Herbert Spencer's *The Philosophy of Style*
-[@spencer_philosophy_1892]: "In fluid, practical speech words are not
-pronounced fully," where "the mind barely perceives the initial sounds of each
-word." Shklovsky called this dynamic the "algebraization of language"
-[@shklovksy_poetika_1919, 105]. In algebraic thinking "thoughts are grasped
-through quantity and capacity---we do not see them as such, but merely
-recognize them by cursory characteristics" [@shklovksy_poetika_1919, 105]. The
-dynamics of automatization conserve *mental* energy as semantic complexity is
-reduced to a compact formula. Estrangement, or the de-programming of received
+The formalists imagined language to comprise a kind of a natural physics-based
+system, which, following Herbert Spencer, tended towards the conservation of
+energy [@shklovksy_poetika_1919, 105]. In his influential 1852 essay on the
+*The Philosophy of Style*, Spencer wrote about ordinary ways of speaking where
+"words are not pronounced fully," and where "the mind barely perceives the
+initial sounds of each word" [@spencer_philosophy_1892]. The ideal writer
+therefore strove to minimize the reader's mental exertion, following what he
+called the economy of composition: to say as much as possible, in the most
+direct and simple way. Poetry for Spencer was exemplary in this regard, able
+to adopt those habituated "symbols of thought" and "those methods of using
+them" that have proven themselves to be most effective through continuous use
+[@spencer_philosophy_1892]. Shklovsky agreed with Spencer on the dynamics of
+everyday language, but not of poetry. The poet "arranged and processed"
+habituated material with the view of "resurrecting" the force of the word lost
+to everyday habituation. Estrangement, or the de-programming of received
 trope, therefore constituted for Shklovsky the primary technique of aesthetic
-discourse. The role of art and analysis alike for him was to apprehend the
-thing, that is to undo the work of symbolism, which privileges the image over
-the object. Estrangement attempts to undo the work habituation by which
-short-hand replaces complex things and ideas. Thus, were prosaic everyday
-language follows the laws of conservation of energy, poetic language expands
-energy to make language difficult again [*zatrudnenie*] and to prolong
-attention [*vospriiatie*]. If language is a labor-saving device, poetic
-language is labor-intensive. Any innovation in the linguistic sphere is by
-these means bound to follow the cycle of habituation and renewal, according to
-the formalists. With time, a literary device capable of arresting attention
-itself becomes normalized and in need of rejuvenation. Consequently, the
-evolution of aesthetic periods follows a course of arbitrary differentiation.
-The dominant device in one period, becomes a cliché in the next. Technique in
-that sense was seen by the formalists as a type of information processing at
-the meta-linguistic, social level. The mechanics of "arrangement and the
-rearrangement of figure" propel the mechanics of literary development to
-produce new meaning within familiar contexts.
+discourse. Poetic estrangement undoes the work habituation by which short-hand
+replaces complex things and ideas. Thus, were prosaic everyday language
+follows the laws of conservation of energy, poetic language expands energy to
+make language difficult again [*zatrudnenie*] and to prolong attention
+[*vospriiatie*]. If language is a labor-saving device, poetry is
+labor-intensive. Any innovation in the linguistic sphere is by these means
+bound to follow the cycle of habituation and renewal, according to the
+formalists. With time, a literary device capable of arresting attention itself
+becomes normalized and in need of rejuvenation. Consequently, the evolution of
+aesthetic periods follows a course of arbitrary differentiation, in what  Jean
+Moréas (a prominent symbolist poet and art critic) called " a cyclical
+evolution [*évolution cyclique*], by which the dominant device in one period,
+becomes a cliché in the next: art depletes itself, "from copy to copy, from
+imitation to imitation," where what seems fresh today "dries and shrivels,"
+and what seemed new and spontaneous becomes a hackneyed commonplace
+[@moreas_symbolisme_1886]. Technique in that sense was seen by the formalists
+as a type of information processing at the meta-linguistic, social level. The
+mechanics of "arrangement and the rearrangement of figure" propel the
+mechanics of literary development to produce new meaning within habituated
+contexts.
 
 In the 1920s, reflecting critically on Shklovsky's "materialist aesthetics"
 Mikhail Bakhtin would write that the formal model of aesthetic genre formation
