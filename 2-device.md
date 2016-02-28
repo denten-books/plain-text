@@ -502,18 +502,17 @@ time now to draw two further as yet unexplored historical lineages that lead
 to Turing's seminal essay on computable numbers: the first intellectual,
 stemming back to his tutelage under Ludwig Wittgenstein, and the second
 material, highlighting the physical similarities between Turing's design and a
-number of concomitant developments in printing and communication.  To read
+number of concomitant developments in printing and communication. To read
 Turing and Wittgenstein together is to recover a legacy of humanities
 computing that often gets overlooked in the history of computer science and
 software engineering. The literary perspective is important because it allows
 us to see the computer in a new light: more than a byproduct of
-quantification, a metaphor machine, capable of universal symbolic
-manipulation, and thus participating in the broader intellectual history of
-symbolism. Turing machines should hold interest for literary scholars because
-they embody a minimally viable model for generalized symbolic manipulation:
-reading and writing. Turing's thought experiment was meant to solve a
-mathematical problem, but it's history lies also in the fields of philology
-and hermeneutics: the study of textual meaning-making and interpretation.
+quantification, a metaphor machine. Turing machines should hold interest for
+literary scholars because they embody a minimally viable model for generalized
+symbolic manipulation: reading and writing. Turing's thought experiments was
+meant to solve a mathematical problem, but it's history lies also in the
+fields of philology and hermeneutics: the study of textual meaning-making and
+interpretation.
 
 In his seminal 1936 paper on computable numbers, Alan Turing, then a student
 at King's College, proposed a peculiar thought experiment to appear on the
@@ -522,14 +521,15 @@ of elementary number theory [^ln1-anticipate]. His solution involved more than
 a formula. Instead, he imagined a machine that would in some real sense take
 place of the calculation. Ultimately, Turing described a device that was meant
 to *embody* they symbol: it transformed external abstractions into physical
-states, internal to the device. In doing so, this imagined machine breached
-the boundary between idea and matter. It was exactly an instrument for
-transforming ideas into shapes: the very process at the heart of materialist
-poetics discussed in the previous section. In this sense, Turing's
-hypothetical machine represents the conclusion of a long-standing thought
-experiment concerning the nature of human understanding.
+states, internal to the device. In doing so, this imagined machine was
+designed to breach the boundary between idea and matter. It was exactly an
+instrument for transforming ideas into shapes: the very process at the heart
+of materialist poetics discussed in the previous section. In this sense,
+Turing's hypothetical machine represents the conclusion of a long-standing
+thought experiment concerning the nature of human understanding and a
+beginning of a new, machine-assisted, philological practice.
 
-The question of "automated" hermeneutics echoes through the canon of Western
+The question of "automated" philology echoes through the canon of Western
 philosophical tradition. What does it mean to read and to understand
 something? Is it enough to repeat the words of another, as Phaedrus does in
 response to Socrates?  Would an animal or a machine be said to possess reason

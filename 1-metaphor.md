@@ -55,7 +55,7 @@ without a referent. It bares no resemblance to the material substratum of
 electronic reading. We believe we are handling a book. Our ideas about reading
 and interpretation subsequently rely on that initial physical point of contact
 with paper. But when reading electronically, we are handling something other
-than print material. The resemblance to paper guides our intuitions about the
+than print material. The semblance to paper guides our intuitions about the
 possibilities of the medium: the ability to scroll, bookmark, or turn pages.
 We have far fewer intuitions about the affordances of inscription at the
 micromolecular level. As we "turn the page" an electric charge crosses the
@@ -372,7 +372,7 @@ physical world, but according to the rules of design.
 ### 1.2 To Turn a Page
 
 The principles of metaphor-driven design contain an implicit model of
-human--computer interaction, which implies that humans prefer to manipulate
+human--computer interaction, which suggests that humans prefer to manipulate
 digital information stored on computational media by the means of familiar
 mediating structures---paragraphs, pages, files, and folders---associated
 figuratively with the affordances of print media. We know, in other words,
@@ -453,14 +453,14 @@ correspondence between representation and the thing being represented. For
 example, in theory, a weather simulation should be capable of modeling
 observed meteorological conditions. But would it be a weather simulation if
 the model was broken in some way, or, in the extreme, if it had no
-correspondence to the physics of clouds, wind, and water? The hyper-real
-breaks further still by usurping the underlying reality. The model does not
-merely obscure, it takes place of the thing being modeled. In other words, it
-begins to simulate itself, according to its own rules, similar only to itself.
-The simulation no longer corresponds to any situation "on the ground." Severed
-from its referent, the symbol itself attains the status of reality. Thus
-hyper-reality: a symbol that folds onto itself. It is a weather simulation
-confused for weather.
+correspondence to the physics of clouds, wind, and water whatsoever? The
+hyper-real breaks further still by usurping the underlying reality. The model
+does not merely obscure, it takes place of the thing being modeled. In other
+words, it begins to simulate itself, according to its own rules, similar only
+to itself.  The simulation no longer corresponds to any situation "on the
+ground." Severed from its referent, the symbol itself attains the status of
+reality. Thus hyper-reality: a symbol that folds onto itself. It is a weather
+simulation confused for weather.
 
 We know that physical affordances of liquid crystal displays (LCDs) and
 magnetic storage differ drastically from those of paper, goat skins, or
@@ -497,8 +497,8 @@ Readers bear the burden of conceptual transference. In pretending to turn
 virtual pages, we lose sight of the mechanisms producing the simulation. If we
 hope to practice anything like interpretation or close reading at the level of
 discourse, we must certainly also practice them at the physical site of
-discourse formation. A truly materialist poetics would reach beyond
-representation towards the object. More than superficial embellishment, the
+discourse production. A truly materialist poetics would reach through the
+representation towards the medium. More than superficial embellishment, the
 skeuomorphic metaphor enacted at the surface of the digital literary device
 structures all meaning-carrying units: from individual letters, to words,
 paragraphs, chapters, pages, and books. We know that there is nothing
@@ -547,7 +547,7 @@ Ricoeur writes about the "range of social and political changes" related to
 the invention of writing. For Ricoeur, human discourse is "fixed" and thereby
 "preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 The electronic literary device offers no such permanence. What is meant by
-"fixed," "permanent," and "repeatable" changes with the medium. Such
+"fixed," "permanent," and "repeatable" changes with the device. Such
 properties come to us under the guise of surface representation, which
 obscures the flows of code and codex. Nothing is guaranteed in the passage of
 electronic text from one pair of hands into another. Digital formatting
@@ -604,9 +604,9 @@ corresponding effect on the level of the storage medium. The information may
 persist despite the intended erasure. As dwellers of simulated worlds, we hope
 that the analogy between paper and pixel achieves a level of verisimilitude.
 Turning the page or erasing a word on the screen should do something similar
-on the disk. However, we also know that not to be the case. As in
-Baudrillard's map, the metaphor is broken in that it no longer reflects any
-terrain. The computational metaphor simulates the familiar but absent
+on the disk. However, we also know that not to be the case. As was the case
+with Baudrillard's map, the metaphor is broken in that it no longer reflects
+any terrain. The computational metaphor simulates the familiar but absent
 affordances of the print artifact. The simulation suggests a structuring of
 one kind, while enacting a structure of another.
 
@@ -616,10 +616,10 @@ kind of micromolecular writing suggested by Baudrillard and Frederich Kittler
 [@kittler_there_1995]. The full extent of the simulated figure must be made
 available for interpretation. What happens in the metaphorical transference
 between the book as a work of art and the apparatus simulating the book?
-Estrangement, the exegesis of the metaphor, reveals mechanisms of governance
-shaping mental experience. It apprehends the revealed mechanics of
-computational reading. Materialist poetics subsequently allow one to consent,
-or, conversely, to resist elements of imposed structure.
+Estrangement, the exegesis of the metaphor, can help reveal the mechanisms of
+governance in the structural transference between one medium to another.
+Materialist poetics can subsequently allow one to consent, or, conversely, to
+resist elements of imposed structure.
 
 ### 1.3 Death and Incongruence
 
@@ -663,21 +663,23 @@ to confirm by empirical means more than a century later
 such. They continue to live, but also become naturalized: that is understood
 literally. They create connections that with time become habituated and
 invisible to their users. In other words, taken for literal truth, the
-metaphor loses its metaphoric quality. For example, for many readers the very
-idea of a "dead metaphor" itself may no longer evoke death. Perhaps they
-understand the "death" of the "dead metaphors" to function synonymously with
-"convention" or "idiom" without the gruesome connotations.[^ln4-dead] In
-Shelley's view, all metaphors are destined to become habituated in this way,
-only to be reborn again in poetry. In its most generative form, metaphors
-actively produce new meaning. The creative juxtaposition between two as before
-unrelated domains brings new aspects of experience to light. But with time,
-the poetic metaphor degrades into a tired cliché. It no longer "perpetuates
-understanding." It dies in a sense of becoming a mere shortcut to
+metaphor loses its quality of mediation of ferrying across. For example, for
+many readers the very idea of a "dead metaphor" itself may no longer evoke
+death. Perhaps they understand the "death" of the "dead metaphors" to function
+synonymously with "convention" or "idiom" without the gruesome
+connotations.[^ln4-dead] Without connotation, that is without doing its job of
+invoking other related explanatory domains, the metaphor withers. In Shelley's
+view, all metaphors are destined to become habituated in this way, only to be
+reborn again in poetry. In its most generative form, metaphors actively
+produce new meaning. The creative juxtaposition between two as before
+unrelated conceptual domains brings new aspects of experience to light. But
+with time, the poetic metaphor degrades into a tired cliché. It no longer
+"perpetuates understanding." It dies in a sense of becoming a mere shortcut to
 understanding. In Viktor Shklovsky's words, we "cease to experience" the
 trope. The metaphor "dries up" when we begin recognizing it without
 apprehension [@shklovsky_voskreshenie_1914]. It no longer generates new
 connections between domains, but merely reinforces existing ones. Vilem
-Flusser's notes that habituated idiom proceeds "smoothly," giving us no pause,
+Flusser notes that habituated idiom proceeds "smoothly," giving us no pause,
 without "bumps or interruptions" [@flusser_freedom_2003, 13 and 82].
 
 Lakoff famously took exception with the idea of dead metaphors, arguing that
@@ -719,7 +721,7 @@ perform its function of intuitively connecting two disparate domains. At other
 times, the metaphor dies in the sense of one domain becoming no longer
 accessible to its user. Furthermore, we might add that a wholly unmotivated
 metaphor does no work at all. Thus the Mad Hatter poses his famous nonsensical
-riddle Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
+riddle in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
 desk? The complete dissimilarity between the two domains---of animals and
 furniture---prevents any productive congruence.[^ln4-carroll] No domain
 mapping happens between ravens and writing desks. Not having been born, the
@@ -780,7 +782,7 @@ to total critical disempowerment.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
-@martin_computerized_1970; @martin_design_1973]. Already in 1950, Turing
+@martin_computerized_1970; @martin_design_1973]. Already in 1950, Alan Turing
 imagined a conversation between a critic and an artificially intelligent poet:
 
 >`Interrogator:` In the first line of your sonnet which reads "Shall I compare
@@ -828,24 +830,26 @@ earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
 Crowther in 1975 [@montfort_twisty_2003]. The following dialog illustrates the
 call-and-response game play typical of the genre:
 
-```
-You are standing at the end of a road before a small brick building. Around
-you is a forest. A small stream flows out of the building and down a gully.
-
-> enter
-You are inside a building, a well house for a large spring. There are some
+> `You are standing at the end of a road before a small brick building. Around
+you is a forest. A small stream flows out of the building and down a gully.`
+>
+>`> enter`
+>
+> `You are inside a building, a well house for a large spring. There are some
 keys on the ground here. There is a shiny brass lamp nearby. There is food
-here. There is a bottle of water here.
-
-> get keys
-OK
-
-> get lamp
-OK
-
-> exit
-You're at end of road again.
-```
+here. There is a bottle of water here.`
+>
+>`> get keys`
+>
+> `OK`
+>
+>`> get lamp`
+>
+> `OK`
+>
+>`> exit`
+>
+> `You're at end of road again.`
 
 Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model posed several significant
@@ -892,7 +896,7 @@ were, picture it." For Leibniz, the symbol, an exact and portable picture of
 an idea, could subsequently diminish the mental effort required for abstract
 thought, leading to a "great advantage for discovery"
 [@leibniz_briefwechsel_1899, 375; @shneiderman_direct_1983, 57]. The calculus
-of Leibniz and his symbolic notation has allowed mathematicians to represent
+of Leibniz and his symbolic notation allowed mathematicians to represent
 infinitely small and infinitely large numbers in print---ideas that would not
 fit on the page or in the mind otherwise [@cajori_history_1923;
 @thurston_leibnizs_1973; @grabiner_is_1974]. For Shneiderman and others, a
@@ -912,25 +916,25 @@ researchers considered an arbitrary symbolic relationship of the sign to its
 signifier. In this way, when using *EMACS*, a text editor commonly found on
 UNIX systems of the time, one would enter the command `k` in combination with
 other keys to delete or to "kill" a file, while on other systems, Shneiderman
-complained, `k` stood for "keep a file," the opposite from killing it as one
-would expect [@shneiderman_direct_1983, 65]. In the conversational model, the
-command stood in an arbitrary relationship to the intended effect, where as in
-the direct manipulation model something like the knob and the movement of the
-paddle related mimetically. To be more precise, the direct manipulation
-paradigm advocated for an "iconic" relationship between representation and the
-object of interest [@norman_user_1986, 110]. Like onomatopoetic words, the
-movement of the knob resembles the movement of the thing it represents. Edwin
-Hutchins, Donald Norman, and James Hollan write: "There is an economy here in
-that the user's knowledge of the structure of the surface acoustical form has
-a non-arbitrary relationship to meaning [...] The same sort of thing can be
-done in the design of interface languages" [@norman_cognitive_1991, 123]. An
-iconic image requires no explanation; it is intuitive. Instead of searching
-for the right command the user relies on the habituated affordances of
-real-world objects---table tennis paddles and paper trashcans---to manipulate
-virtual objects---computer games and file systems. The move between
-"conversational" and "direct" interaction models could be explained as a shift
-from a system of symbolic signs which stand in arbitrary relationship to their
-referents to a system of iconic signs, that stand in a mimetic
+complained, `k` stood for "keep a file," the opposite from killing it
+[@shneiderman_direct_1983, 65]. In the conversational model, the command stood
+in an arbitrary relationship to the intended effect, whereas in the direct
+manipulation model the knob and the movement of the paddle related
+mimetically. To be more precise, the direct manipulation paradigm advocated
+for an "iconic" relationship between representation and the object of interest
+[@norman_user_1986, 110]. Like onomatopoetic words, the movement of the knob
+resembles the movement of the thing it represents. Edwin Hutchins, Donald
+Norman, and James Hollan write: "There is an economy here in that the user's
+knowledge of the structure of the surface acoustical form has a non-arbitrary
+relationship to meaning [...] The same sort of thing can be done in the design
+of interface languages" [@norman_cognitive_1991, 123]. An iconic image
+requires no explanation; it is intuitive. Instead of searching for the right
+command the user relies on the habituated affordances of real-world objects,
+like table tennis paddles and paper trashcans, to manipulate virtual objects,
+like computer games and file systems. The move between "conversational" and
+"direct" interaction models could in this way be explained as a shift from a
+system of symbolic signs which stand in arbitrary relationship to their
+referents to a system of iconic signs that stand in a mimetic
 relationship.[^ln1-peirce]
 
 [^ln1-peirce]: Charles Sanders Perice, a philosopher of language whose
@@ -941,8 +945,8 @@ imitation [@peirce_excerpts_1998, 481; @plato_plato:_1999, 250a-b].
 Crucially, within the "direct manipulation" paradigm, the full immersion in
 the mimetic context of the virtual object is aimed at the suspension of
 disbelief [@laurel_brenda_interface_1986, 76]. Through use, the mimetic icon
-usurps the "object of interest." The "directness" of the direct manipulation
-constitutes in fact the illusion of directness. Recall in this regard the
+usurps the "object of interest." The "directness" of direct manipulation in
+fact constitutes only an illusion of directness. Recall in this regard the
 Heideggerian insight into the nature of tool use. In *Being and Time*,
 Heidegger writes about the particular *handiness* of a tool, like a hammer. He
 writes, "the less we stare at the thing [...] the more actively we use it, the
@@ -951,17 +955,17 @@ encountered as what it is, a useful thing" [@heidegger_being_1996, 65]. For
 Heidegger, there was no way to understand a tool like a hammer theoretically,
 by detached reflection. One must understand it through use, in what he called
 *circumspection* [*Umsicht*]---the awareness of the object ready-to-hand
-[*zuhanden*] [@heidegger_sein_1967, 69]. Through use a hammer comes into
-peripheral vision, "its own kind of seeing" [@heidegger_being_1996, 65]. The
-metaphoric device frustrates the Heideggerian vision of technology in search
-of knowledge. At hand, the device takes shape as a keyboard, a mouse, or a
-touch screen. But in the mind, as a simulation, it dissembles to behave like a
-page, a folder, or a wastepaper bin. The tool---a keyboard or a touch
-screen---is not encountered for what it is. Nor does a simulated tool operate
-in the mode of Heideggerian revealment [@heidegger_question_1977]. Simply put,
-the simulation produces knowledge neither about the thing being simulated
-(paper or books, for example) nor about the system giving rise to the
-simulation (computational device, in our example).
+[*zuhanden*] [@heidegger_sein_1967, 69]. We relate to the tool in the process
+of using it; it comes into focus at the periphery of tool use
+[@heidegger_being_1996, 65]. The metaphoric device frustrates the Heideggerian
+vision of technology that reveals. At hand, the device takes shape as a
+keyboard, a mouse, or a touch screen. But in the mind, as a simulation, it
+dissembles to behave like a page, a folder, or a wastepaper bin. The tool---a
+keyboard or a touch screen---is not encountered for what it is. Nor does a
+simulated tool reveal anything about the material it affects. The simulation
+produces knowledge neither about the thing being simulated (paper or books,
+for example) nor about the medium giving rise to the simulation (computational
+device, in our example).
 
 The simulation is rather designed to conceal the mediated nature of virtual
 experience. It manufactures what Laurel and others call an "interactive
@@ -972,14 +976,14 @@ interface presents world of action rather than a language of description,
 manipulating a representation can have the same effects and the same feel as
 manipulating the thing being represented" [@hutchins_direct_1986, 98-99].
 Similar to Heidegger's distinction between practice and theory, the theorists
-of direct manipulation differentiate between action and description.  Unlike
+of direct manipulation differentiate between action and description. Unlike
 Heidegger, who thought about tools at hand, direct manipulation theory
 imagines the handling of representations not objects---as evidenced by the
 somewhat strained language of metaphor machines in which "hierarchies allow
 access to metaphors within the library" and "users manipulate sheets in the
 notebook metaphor" [@pajak_electronic_1992; @glaser_graphical_1995]. The
 actual instruments enabling the manipulation of image or word on the screen
-disappears entirely, giving rise to the immersive, interactive, first-person
+disappear entirely, giving rise to the immersive, interactive, first-person
 experience, without the feeling of mediation. "The user of a well-designed
 *model world* interface can willfully suspend disbelief that the objects
 depicted are artifacts of some program and can thereby directly engage the
@@ -1027,14 +1031,15 @@ and the Xerox 6085 Daybreak workstation, introduced in 1985, heralded the era
 of accessible, metaphor-driven personal computing, characterized by the use of
 virtual graphical objects like windows, icons, desktops, folders, and buttons.
 The Star and Daybreak workstations were some of the earliest machines to put
-the principles of domain blending and direct manipulation into action. The
-interface was meant to "reveal the structure" of the simulated objects
-intuitively, without training or lengthy written explanation. In Laurel's
-words, the mimetic interface employed "logic and aesthetics to create
+the principles of metaphoric domain blending and direct manipulation into
+action. The interface was meant to "reveal the structure" of the simulated
+objects intuitively, without training or lengthy written explanation. In
+Laurel's words, the mimetic interface employed "logic and aesthetics to create
 representations that *engage* humans in pleasurable ways"
 [@laurel_brenda_interface_1986, 85]. The mimetic context is simply "the
-experience we desire." Direct participation enabled actors to experience "the
-full pleasure of the mimetic form" [@laurel_brenda_interface_1986, 75].
+experience we desire," Laurel wrote. Direct participation enabled actors to
+experience "the full pleasure of the mimetic form"
+[@laurel_brenda_interface_1986, 75].
 
 Designers advocating for direct manipulation understood the trade-offs that
 came with an emphasis on such immersive and mimetic experiences
@@ -1055,26 +1060,24 @@ follows. A direct causal link exists between the steering wheel and the car's
 axle. Similarly, when operating a computer game like *Space Invaders* via a
 joystick, the player experiences an immediate correspondence between the
 movement of the controlling mechanism and the movement of the
-player-controlled space ship on the screen. Writers attempting to delete
-sensitive information by dragging and dropping an icon of a document to the
-icon of a trash bin in a relationship to the object of their interest unlike
-drivers or video game players. The car is the "direct object of interest" for
-a driver, just like the virtual space ship is for a gamer. But in our example,
-authors are not interested in the virtual representation of the document
-slated for erasure. The object of their interest is not mimetic. They would
-like to erase the document itself, located somewhere within the machine. In
-cases like these, inhabitants of the virtual world have an interest in objects
-outside of it. The paradigm of direct manipulation instead veils the object
-from view, suspending the rules of physical interaction in favor of the
-virtual. Far from being direct, the iconic representation of the
-document---the image of a file---usurps the physical object---the file itself.
-Where in the conversational paradigm the nature of the mediation was at hand,
-open to circumspection, in the direct manipulation paradigm the simulacrum
-occludes the very nature of the simulation.
+player-controlled space ship on the screen. The car is the "direct object of
+interest" for a driver, just like the virtual space ship is for a gamer.  But
+unlike video game players, authors attempting to delete sensitive information
+are not interested in the virtual representation of their documents. The
+object of their interest is not mimetic. They would like to erase the document
+itself, located somewhere within the machine. In cases like these, inhabitants
+of the simulated, virtual world have an interest in objects outside of it. The
+paradigm of direct manipulation instead veils the object from view, suspending
+the rules of physical interaction in favor of the virtual. Far from being
+direct, the iconic representation of the document---the image of a
+file---usurps the physical object, the file itself. Where in the
+conversational paradigm the nature of the mediation was at hand, open to
+circumspection, in the direct manipulation paradigm the simulacrum occludes
+the very nature of the simulation.
 
 ### 1.5 Speculative Formalism
 
-To what extend do we need to see and understand the mechanisms of the machine
+To what extent do we need to see and understand the mechanisms of the machine
 giving rise to the metaphor? In his 1949 paper on "The Genesis and Speed of
 Telegraph Codes," Frank Halstead noted that "the practical upper limits of
 [telegraph transmission] speed will also be limited by the ability of some
@@ -1133,27 +1136,27 @@ prepare for a future in affective arts, the ultimate loss of references and
 resemblances: literature without representation, painting without figure,
 message without sign.
 
-However futuristic such possibilities may seem to us today, brain-computer and
-subsequently brain-computer-brain interfaces should be considered in the
-context of the long history of brain-to-brain interfaces, routinely mediated
-by paper, ink, code, and silicon. Media intercedes. As technological dreams
-become reality they also grow less interesting and more mundane. We tend not
-to think about them; they become habit. Habituation smoothes the rough edges
-of irreconcilability between human and machine. The tool recedes from view,
+However futuristic such possibilities may seem to us today, we should not lose
+sight of the mediated nature of human--computer interaction in all of its
+forms: paper, ink, silicone. Media intercedes. As technological dreams become
+reality they also grow less interesting and more mundane. We tend not to think
+about them; they become habit. Habituation smoothes the rough edges of
+irreconcilability between human and machine. The tool recedes from view,
 beginning to seem like a natural and direct extension of the body. I do not
-mean to dismiss the mastery of those engaged in creating the illusion.
-Pleasure and catharsis are important in some contexts. In other contexts, we
-must privilege reflection, analysis, and interruption. Computational poetics
-should therefore aim to arrest the encounter: to make it seem less natural, to
-bring the receding media to light, and to expose the mediating systems
-supporting the simulation. A measure of discomfort in the fit between bodies,
-keyboards, and screens ensures our ability to structure the encounter on our
-own terms: to opt in when useful and to opt out when necessary. My concern is
-not with the metaphysical entailments of a possible posthuman future. The
-illusion of directness belies the very human mechanisms of command and
-control. The simulation ultimately embodies specific power structures in an
-economy of exchange between physical and mental resources. In this market
-there are those who profit and those whose virtual avatars become a commodity.
+mean to dismiss the mastery of those engaged in creating the illusion of
+directness. Pleasure and catharsis are important in some contexts. In other
+contexts, we must privilege reflection, analysis, and interruption.
+Computational poetics should therefore aim to arrest the encounter: to make it
+seem less natural, to bring the receding media to light, and to expose the
+mediating systems supporting the simulation. A measure of discomfort in the
+fit between bodies, keyboards, and screens ensures our ability to structure
+the encounter on our own terms: to opt in when useful and to opt out when
+necessary. My concern is not with the metaphysical entailments of a possible
+posthuman future. The illusion of directness belies the very human mechanisms
+of command and control. The simulation ultimately embodies specific power
+structures in an economy of exchange between physical and mental resources. In
+this market there are those who profit and those whose virtual avatars become
+a commodity.
 
 The above comments apply to computation generally. We will spend the following
 chapters peeling apart the layers of the literary and the bibliographic
