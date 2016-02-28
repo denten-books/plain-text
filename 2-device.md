@@ -509,8 +509,8 @@ software engineering. The literary perspective is important because it allows
 us to see the computer in a new light: more than a byproduct of
 quantification, a metaphor machine. Turing machines should hold interest for
 literary scholars because they embody a minimally viable model for generalized
-symbolic manipulation: reading and writing. Turing's thought experiments was
-meant to solve a mathematical problem, but it's history lies also in the
+symbolic manipulation: reading and writing. Turing's thought experiments were
+meant to solve a mathematical problem, but their history lies also in the
 fields of philology and hermeneutics: the study of textual meaning-making and
 interpretation.
 
@@ -520,7 +520,7 @@ pages of mathematical journal. The experiment addressed a problem in the field
 of elementary number theory [^ln1-anticipate]. His solution involved more than
 a formula. Instead, he imagined a machine that would in some real sense take
 place of the calculation. Ultimately, Turing described a device that was meant
-to *embody* they symbol: it transformed external abstractions into physical
+to *embody* the symbol: it transformed external abstractions into physical
 states, internal to the device. In doing so, this imagined machine was
 designed to breach the boundary between idea and matter. It was exactly an
 instrument for transforming ideas into shapes: the very process at the heart
@@ -531,17 +531,19 @@ beginning of a new, machine-assisted, philological practice.
 
 The question of "automated" philology echoes through the canon of Western
 philosophical tradition. What does it mean to read and to understand
-something? Is it enough to repeat the words of another, as Phaedrus does in
-response to Socrates?  Would an animal or a machine be said to possess reason
-if it could parrot human speech, as it was for Descartes who wrote that it
-would not be sufficient for the "reasoned soul" to be "lodged in the human
-body like a pilot of a ship, except perhaps to move its members," but that
-intelligence must be "more closely joined and united with the body to produce
-true feelings and appetites" [@descartes_discourse_1996]? Recall also the
-experiments with combinatorial poetics of the 17th century German Jesuit
-scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a music
-composition device, by which a composer not versed in music would combine
-predetermined musical phrases written on wooden planks to compose a score.
+something? Is it enough to repeat the words of another, as for example
+Phaedrus does in response to Socrates? Could a student be said to possess
+reason if he was merely parroting thoughts and not really thinking on his own?
+Would we say the same thing of an animal or a machine? The question as posed
+also by Descartes who wrote that it would not be sufficient for the "reasoned
+soul" to be "lodged in the human body like a pilot of a ship, except perhaps
+to move its members," but that intelligence must be "more closely joined and
+united with the body to produce true feelings and appetites"
+[@descartes_discourse_1996]? Recall also the experiments with combinatorial
+poetics of the 17th century German Jesuit scholar Athanasius Kircher, the
+inventor of *Arca Musurgicae*, a music composition device, by which a composer
+not versed in music would combine predetermined musical phrases written on
+wooden planks to compose a score.
 
 ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
 [@kircher_musurgia_1999, 184].](images/music-box.jpg)
@@ -563,30 +565,32 @@ answered:
 > understands nothing but words. He produces whatever he hears, without
 > understanding, like a parrot [@gillespie_primal_1978, 32].
 
-Without the box the child cannot create. Like the parrot of Descartes he
-mimics creation on the surface. Nothing in the mind of such an automaton
-corresponds to the surface phenomenon. The child speaks, without
-thinking---that is without the appropriate deep structure that should
-accompany proper poiesis. The philosopher John Searle would later pose a
-similar question in his famous Chinese Room thought experiment
-[@searle_minds_1980]. Can a contraption be said to "speak" a language if
-inside it contains only a dictionary for looking up the correct answers to any
-given query? A man inside the room sorts the answers blindly. He does not
-understand the language, yet the contraption appears to respond properly. Is
-it enough to appear to understand, in other words, or should we say that
-understanding must involve some other mechanism, turned inward? Searle argued
-that his room, a kind of an automated chat robot, could not be properly said
-to speak a language in the way a fluent speaker can. For Searle and other
-so-called "internalists," the external signs of whatever is meant by
-"speaking" and "understanding" must correspond to some appropriate internal
-mental states [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all
-pose a version of the same thought experiment, which aims to draw a line
-between the surface appearance of knowledge and an idea of deep, structural
-understanding opposed to mere functionalism. Reading should, these thinkers
-intuit, leave something behind. A text must be somehow "joined and united"
-with the body and to continue to produce meaning, independent of the original
-inscription. For the internalists, the inside and the outside should achieve a
-measure of accordance.
+Without the box the child cannot create. Like the parrot of Descartes it
+mimics creation on the surface. Nothing in the mind of an automaton
+corresponds to the outward appearance of thought. The child composes poetry
+without thinking---that is without the appropriate deep structure that should
+accompany proper poiesis.
+
+The philosopher John Searle would later pose a similar question in his famous
+Chinese Room thought experiment [@searle_minds_1980]. Can a contraption be
+said to "speak" a language if inside it contains only a dictionary for looking
+up the correct answers to any given query? A man inside the room sorts the
+answers blindly. He does not understand the language, yet the contraption
+appears to respond properly. Is it enough to appear to understand, in other
+words, or should we say that understanding must involve some other mechanism,
+turned inward? Searle argued that his room, a kind of a robot for automated
+responses in a foreign language, could not be properly said to speak a
+language in the way a fluent speaker can. For Searle and other so-called
+"internalists," the external signs of whatever is meant by "speaking" and
+"understanding" must correspond to some appropriate internal mental states
+[@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all pose a version
+of the same thought experiment, which aims to draw a line between the surface
+appearance of knowledge and an idea of deep, structural understanding opposed
+to mere functionalism. Reading should, these thinkers intuit, leave something
+behind. A text must be somehow "joined and united" with the body. To count for
+understanding it must continue to produce meaning independent of the original
+inscription. For the internalists, the inscription and the mental state must
+achieve a measure of accordance.
 
 Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
 the relationship between writing and mental impression. At the conclusion of
