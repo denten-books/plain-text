@@ -577,24 +577,25 @@ said to "speak" a language if inside it contains only a dictionary for looking
 up the correct answers to any given query? A man inside the room sorts the
 answers blindly. He does not understand the language, yet the contraption
 appears to respond properly. Is it enough to appear to understand, in other
-words, or should we say that understanding must involve some other mechanism,
-turned inward? Searle argued that his room, a kind of a robot for automated
-responses in a foreign language, could not be properly said to speak a
-language in the way a fluent speaker can. For Searle and other so-called
+words, or should we say that understanding must involve some other appropriate
+mechanism, turned inward? Searle argued that his room, a kind of a robot for
+automated responses in a foreign language, could not be properly said to speak
+a language in the way a fluent speaker can. For Searle and other so-called
 "internalists," the external signs of whatever is meant by "speaking" and
 "understanding" must correspond to some appropriate internal mental states
 [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all pose a version
 of the same thought experiment, which aims to draw a line between the surface
 appearance of knowledge and an idea of deep, structural understanding opposed
 to mere functionalism. Reading should, these thinkers intuit, leave something
-behind. A text must be somehow "joined and united" with the body. To count for
-understanding it must continue to produce meaning independent of the original
-inscription. For the internalists, the inscription and the mental state must
-achieve a measure of accordance.
+behind. A text must be somehow "joined and united" with the body, to
+paraphrase Descartes. For understanding to happen words must continue to
+produce meaning independent of the original inscription. Internalists like
+Searle hold that the inscription and the mental state must achieve a measure
+of accordance.
 
 Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
 the relationship between writing and mental impression. At the conclusion of
-the dialog, King Thamus objects to the technology (*ta tekhnēs*) of the
+the dialog, King Thamus objects to the technology [*ta tekhnēs*] of the
 written word, as he believes it will foster forgetfulness in the people who
 use it.  Plato writes: "Their faith in extrinsic writing [*graphō exōthen*],
 by means of foreign impressions [*allotrion tupōn*] will diminish their
@@ -609,12 +610,12 @@ for them both must come from within: it must be autopoietic and not
 allopoietic activity. For this reason, Socrates asks the young man to stop
 reciting the speech by heart in the beginning of the dialog. He wants Phaedrus
 to think for himself and not to merely regurgitate the thought of
-another---not be a parrot or an automaton in other words. To truly understand
+another---not be a parrot or an automaton, in other words. To truly understand
 something and to make a show of their comprehension, readers must do more than
 read: they must internalize. Much can go wrong in that process, but we expect
 for reading to ultimately leave an appropriate impression [*tupōn*] on the
-reader's mental state. For understanding to take place, writing must produce
-"true" feelings and appetites, in the words of Descartes. But what is true,
+reader's mind. For understanding to take place, writing must produce "true"
+feelings and appetites, in the words of Descartes. But what is true,
 appropriate, or proper?  What does it mean to properly internalize or ingest
 an inscription?---that is the profound mystery always present even in the most
 mundane acts of reading and writing.
@@ -666,17 +667,20 @@ statements of locality gives *the* locality of thinking"
 "Can a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The problem, as he explains, is not one of
 finding a machine that can do the job---of manipulating signs, for example.
-It lies in the ability of a machine to enact the both sides of the metaphoric
+It lies in the ability of a machine to enact both sides of the metaphoric
 equation. "Doing the job," the manipulation of external signs, must correspond
 to something else. Severed from some other analogical structure, the "blind"
 manipulation of signs is a meaningless activity. Meaning, Wittgenstein seems
 to suggest, resides simply in this analogy between something (symbol) and
-something else (mechanism). The question then can be better rephrased as "can
-a machine have private mental states?" Can it feel pain in the sense of pain
-being a state of internal affairs not accessible to others
-[@wittgenstein_blue_1965, 16, 46-9]? We return to the correspondence between
-the internal and the external. Characteristically for Wittgenstein, the
-notebooks pose more questions than they answer.
+something else (sate of a mechanism). The question then can be better
+rephrased as "can a machine have private mental states?" Can it feel pain in
+the sense of pain being a state of internal affairs not accessible to others
+[@wittgenstein_blue_1965, 16, 46-9]? If we believe machines to be capable of
+holding internal, private states we can begin imagining machine understanding
+or machine intelligence, by which a spoken word or a letter could find the
+appropriate inward representation for the machine. We return to the
+correspondence between internal and external state of affairs, although how
+such a correspondence would be achieved Wittgenstein does not yet specify.
 
 Wittgenstein extends his thought experiments about thinking machines in his
 *Brown Notebook.* Let us study what is meant by "reading," he suggests early
@@ -685,16 +689,17 @@ writing according to dictation," or "of copying in writing a page of print"
 [@wittgenstein_blue_1965, 119]. Reading once again is "mechanical" reading,
 without a sense of "understanding" or interpretation. What happens when a
 child reads a newspaper, for example?, Wittgenstein asks echoing Kuhlman and
-Descartes.  The child's eyes "glide along the printed words, he pronounces
-them aloud or to himself, but other words he pronounces after having seen
-their first few letters only, other again he reads out letter by letter." The
-child acts as a "reading machine" when he pays no attention to what he reads,
-even when he speaks the words out loud. He reads "faultlessly like a reliable
-machine," he writes again, emphasising the mechanical property of colloquially
-"blind" reading. Another child merely pretends to read. He guesses at the
-words, and on occasion repeats things "by heart", without actually seeing them
-on the page [@wittgenstein_blue_1965, 121-22]. Should either of these count as
-reading?
+Descartes. The child's eyes "glide along the printed words, he pronounces them
+aloud or to himself, but other words he pronounces after having seen their
+first few letters only, other again he reads out letter by letter." The child
+acts as a "reading machine" when he pays no attention to what he reads, even
+when he speaks the words out loud. He reads "faultlessly like a reliable
+machine," Wittgenstein repeats emphasising the mechanical property of
+colloquially "mechanic" reading. Another hypothetical child merely pretends to
+read. She guesses at the words, and on occasion repeats things "by heart",
+without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
+Would any of these scenarios rise to our understanding of what reading should
+entail?
 
 Wittgenstein continues to complicate such edge cases, challenging his
 audience's intuitions of what it means to read and to understand. He gives
@@ -704,28 +709,28 @@ lines phonetically. He talks of machines too, which produce random sounds that
 occasionally, by accident, correspond to some existing texts. In each case, we
 envision two mechanisms, Wittgenstein writes, one visible and external and one
 hidden and internal. To read, the reader must do more than go through the
-motions of reading. Instead, we erroneously privilege the inward-facing signs
-of comprehension as the "real criterion for a person's reading or not
-reading." Neither are outward signs sufficient to indicate reading and
-comprehension. The physical motions---of gliding one's eyes across the page
-and saying the words out loud---must connect in some way with appropriate
-internal, mental representations.
+motions of reading. Outward signs of reading are insufficient to indicate
+reading and comprehension. The physical motions---of gliding one's eyes across
+the page and saying the words out loud---must connect in some way with
+appropriate internal, mental representations.
 
-In fact no such internal mechanisms can be known to us or communicated to
-others properly, Wittgenstein writes [@wittgenstein_blue_1965, 120]. We can
-only intuit the reader's private experience of reading, or whether such
-reading attains the desired correspondence between outward sign and inward
-state. Absent first-hand access to private mental states of another, a reading
-pupil must convince his teacher that the scanned sign had the intended effect
-through language. This requires even more words in a sort of an interrupted
-hermeneutic circle, the two sides of which do not quite connect to complete
-the communication feedback circuit. To convince Socrates that he did more than
+We are tempted then to privilege the inward-facing signs of comprehension as
+the "real criterion for a person's reading or not reading." However, no such
+internal mechanisms can be known to us or communicated to others properly,
+Wittgenstein writes [@wittgenstein_blue_1965, 120]. We can only intuit the
+reader's private experience of reading, or whether such reading attains the
+desired correspondence between outward sign and inward state. Absent
+first-hand access to private mental states of another, a reading pupil must
+convince his teacher that the scanned sign had the intended effect through
+language. This requires even more words in a sort of an interrupted
+hermeneutic circuit, the two sides of which do not quite connect to complete
+the communication feedback loop. To convince Socrates that he did more than
 memorize the words, Phaedrus must use more words, which are similarly
 unconvincing. What if those are memorized as well? What can be done to
 convince others that we have understood a text properly? Wittgenstein finally
 describes the mechanisms of reading as an "indirect way of transmitting a
 feeling." "Something that we can never know happens at the other end" of the
-communication act [@wittgenstein_blue_1965, 185].  Communication, as we would
+communication act [@wittgenstein_blue_1965, 185]. Communication, as we would
 say today, is always mediated. In conclusion of the notebooks, Wittgenstein
 imagines the possibility of unmediated, "direct" modes communication, capable
 of transmitting feelings from one person to another. Barring that possibility,
@@ -735,10 +740,10 @@ affirmation comes through further expression entailing further uncertainty.
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
-Turing and subsequently the formative sources of modern computer science.
-Wittgenstein's experimental thought machines prefigure the modern computer.
-Wittgenstein conjures these fantastical broken mechanisms of comprehension
-ultimately to address the problem of symbolic interpretation.
+Turing at the formative sources of modern computing. Wittgenstein's
+experimental thought machines prefigure the conversation on machine
+intelligence. Wittgenstein conjures his fantastical broken mechanisms to test
+the limits of our intuitions about reading, writing, and comprehension.
 
 *Philosophical Grammar,* written around the same time as the *Blue and Brown
 Notebooks*, gives us another glimpse into the pre-history of the literary
@@ -770,28 +775,30 @@ in a sense, creating a model that explains one representational system in
 terms of another. This process is not exact. For example, how would one check
 whether a "clay model" corresponds to a "language model" of something? In
 thinking of the various ways in which the process of translation breaks,
-Wittgenstein continually returns to the pianola, a type of a player piano. In
-the player piano, the relationship between music score sheet and the keyboard
-is rigidly defined. Perforated sheet music passes through the machine,
-activating a set of corresponding pins. The conceptual world of the mechanism
-and the conceptual world of music notation thus correspond exactly.
-Correspondence is assured. The machine enacts the metaphor across media
-through rigid connections. We are guaranteed correspondence through mechanical
-means: by the way the actuating mechanism of the player piano fit into the
-groves of the piano roll.
+Wittgenstein continually returns to the pianola, a type of a player piano.
+The mechanism of the player piano defines the relationship between music score
+sheet and the keyboard in a rigid way. Perforated sheet music passes through
+the machine, activating a set of corresponding pins. When functioning
+properly, the pins have no other option but to respond appropriately. The
+symbolism of music notation and the symbolism of the mechanism stand in accord
+to one another. The rigidity of the connection assures correspondence. The
+machine enacts an exacting translation from one medium to another. We are
+guaranteed correspondence between the two through mechanical means as the
+actuating mechanism of the player piano fits into the groves of the piano
+roll.
 
 ![Electrically-operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
 writings.](images/pianola.png)
 
-The above correspondence brings us closer to a solution to the "proper"
-interpretation problem. But, like all other mechanisms of comprehensions, the
-pianola can break too. In the early passages of *Philosophical Grammar*,
-Wittgenstein explains: "Aren't our sentences parts of a mechanism? As in a
-pianola? But suppose it is in bad condition? So it is not the effect but the
-purpose of the signs (the holes in the pianola roll). Their purpose *within*
-the mechanism" [@wittgenstein_philosophical_1974, 10].  Wittgenstein
-elaborates a few pages later:
+This sort of a rigid correspondence brings us closer to a solution to the
+"proper interpretation" problem. But, like the other, less exacting,
+mechanisms of comprehension, the pianola can break too. In the early passages
+of *Philosophical Grammar*, Wittgenstein explains: "Aren't our sentences parts
+of a mechanism? As in a pianola? But suppose it is in bad condition? So it is
+not the effect but the purpose of the signs (the holes in the pianola roll).
+Their purpose *within* the mechanism" [@wittgenstein_philosophical_1974, 10].
+Wittgenstein elaborates a few pages later:
 
 > The sentences that we utter have a particular purpose, they are to produce
 > certain effects. They are parts of a mechanism, perhaps a psychological
@@ -805,19 +812,20 @@ elaborates a few pages later:
 
 As was the case with reading automata in *The Blue and Brown Notebooks*,
 Wittgenstein again substitutes a physical mechanism for the process of
-symbolic interpretation. In this view, words and music notation alike, have "a
-purpose" to elicit some "effects" in the interpretive mechanism. But as
-before, we cannot always expect the mechanism of interpretation to function
-properly, nor do we have a reliable way to check its operation. "Suppose the
-pianola is in bad condition," Wittgenstein repeats. The signs on the roll
-could produce "hisses and bangs" instead of music, for example. One could
-object that notes are always "meant" to play on a mechanism in perfect working
-order. But to explain what is meant, we would need to draw yet another diagram
-or build another machine. By analogy, the "sense" of an "order"---the
-programming instructions of the piano roll---lies in its "effect on an
-obedient man" [@wittgenstein_philosophical_1974, 60-70]. The pianola therefore
-exemplifies a class of controlling mechanisms. In good working order it is
-ultimately obedient to the instructions printed on a piano roll.
+symbolic interpretation. In this view, words and music notation alike contain
+"a purpose" to elicit some "effects" in the interpretive mechanism. As before,
+we cannot always expect the mechanism of interpretation to function properly,
+nor do we have a reliable way to check its operation. "Suppose the pianola is
+in bad condition," Wittgenstein repeats. The signs on the roll could produce
+"hisses and bangs" instead of music, for example. One could object that notes
+are always "meant" to play on a mechanism in perfect working order. But to
+explain what is meant, we would need to draw yet another diagram or build
+another machine. Wittgenstein explain through another analogy. The "sense" of
+an "order"---the programming instructions of the piano roll---lies in its
+"effect on an obedient man" [@wittgenstein_philosophical_1974, 60-70]. The
+pianola exemplifies a class of controlling mechanisms. In good working
+condition it is ultimately obedient to the instructions printed on a piano
+roll.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
 explicitly rejects the model of language as a "psychophysical" mechanism.
@@ -829,23 +837,31 @@ inserting an extra layer of "rules" that mediate between symbol and machine or
 mental state. A convention could be agreed upon and transcribed in a chart,
 for example. And it is possible that "there is a part of the mechanism which
 resembles the chart, and is inserted between the language-part of the
-mechanism and the rest of it" [@wittgenstein_philosophical_1974, 190]. We are
-back again to imagining some set of instructions that could enforce strict
-compliance between the instructions and the actuating parts of the mechanisms.
-In the programming parlance he proposes something like a language interpreter,
-which would complain if the machine instructions were not entered properly or
-if the machine failed to meet its specified obligations. "Imagine a language
-consisting of commands," Wittgenstein writes in conclusion. It is to direct a
-human "forwards," "back," "right," and "left," "quickly" and "slowly"
-[@wittgenstein_philosophical_1974, 197] The grammar, like a table of
-correspondences, explains the meaning of the signs. The grammar means in the
-sense of specifying the rules by which meaning fails. In this way, we can move
-away from speaking of "intended effects" or "proper obedience," and rather
-concentrate on the mediating layer that describes the rules of engagement. And
-thus, a sustained thought experiment about the nature of reading
-comprehension---the correspondence between inside and outside, thought and
-word, symbol and mechanism---gives rise to the notion of an intelligent
-machine.
+mechanism and the rest of it," he writes [@wittgenstein_philosophical_1974,
+190]. Again we imagine a set of instructions that could enforce strict
+compliance between the musical score and the actuating parts of the piano
+mechanism.
+
+A programmer would say that Wittgenstein's "set of instructions that ensure
+correspondence" resemble modern programming language interpreters and
+assemblers, exactly the parts of the machine that connect codified
+instructions to their execution [@mccarthy_lisp_1962; @bashkow_system_1967].
+The interpreter "defines the semantics of a programming language" where the
+assembler "accepts a set of a set of symbolically-coded instructions" and
+"translates them into machine language" [@elbourn_evolution_1962, 1060;
+@neuhold_formal_1971, 95].[^ln2-compile] Wittgenstein imagines something like
+a programming language along with an interpreter and a compiler when he
+writes, "imagine a language consisting of commands." It is to direct a human
+"forwards," "back," "right," and "left," "quickly" and "slowly"
+[@wittgenstein_philosophical_1974, 197] Add to it a grammar, a table of
+correspondences, which explains the meaning of the signs. The grammar "means"
+in the sense of specifying the rules by which meaning succeeds or fails,
+Wittgenstein explains. In this way, we can move away from speaking of
+"intended effects" or "proper obedience," and rather concentrate on this
+interpretive, translative layer, which describes the very rules of engagement.
+
+[^ln2-compile]: I am forgoing the distinction between interpreters and
+compilers for simplicity's sake.
 
 ### 2.3 Thought Experiment II
 

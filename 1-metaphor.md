@@ -541,7 +541,7 @@ influence all higher-level functions of interpretation.[^ln1-rmedium] Still,
 most available theories of interpretation build on properties and assumptions
 attached to print media. For example, in Hans-Georg Gadamer's seminal
 conception of art, the free play of the artistic mind transforms into material
-structure (*Gebilde*) that is both "repeatable" and "permanent"
+structure [*Gebilde*] that is both "repeatable" and "permanent"
 [@gadamer_truth_1975, 110]. Similarly, in his *Interpretation Theory*, Paul
 Ricoeur writes about the "range of social and political changes" related to
 the invention of writing. For Ricoeur, human discourse is "fixed" and thereby
