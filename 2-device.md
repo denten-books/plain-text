@@ -1124,9 +1124,9 @@ changed humanity's relationship to symbolic thought. They belong to an
 intellectual tradition of distinctly humanist thinking about reading, writing,
 text, and interpretation.
 
-### 2.3 Towards the Device
+### 2.3 Device
 
-It is important to remember, that in 1936, Turing's machine remained a thought
+It is important to remember that in 1936 Turing's machine remained a thought
 experiment---not yet an actual device. Literature in computer science tends to
 see universal Turing machines as algorithms: virtual and symbolic abstractions
 from hardware. Yet it is impossible to entirely disassociate the
@@ -1147,9 +1147,8 @@ implements required for the minimally viable operation of the Church--Turing
 human and machine calculators. Pen and paper assert themselves through the
 abstraction.[^ln1-abstraction]
 
-No matter how hard computer science tries to escape into the realm of pure
-mathematics, the limits of physical engineering pull it back to the sphere of
-the applied.[^ln1-cs] What are we to make of universal Turing machines
+The limits of physical engineering pull the Turing machine back to the sphere
+of the applied.[^ln1-cs] What are we to make of universal Turing machines
 implemented in virtual worlds like *Wireworld* (a cellular automaton
 simulation), or *Minecraft* (a procedurally generated sand-box
 world-exploration game)?
@@ -1166,13 +1165,14 @@ Simulation engines like *Minecraft* and *Wireworld* do in some sense exist in
 the abstract, as code or even a set of rules written on paper. But in another
 sense, they do not. They come fully into being only when instantiated within
 first-order, physical constrains that involve actual circuit boards and relay
-switches. For this reason, the performance (in terms of cycles per second,
-instructions per cycle, or its capacity to hold a number of instructions) of a
-Turing machine simulated within a virtual world like Minecraft cannot
-logically exceed the performance of the machine running Minecraft itself. The
-physical capabilities of the bottom-most device limit the computational power
-of all *n+1* order Turing simulations. The bottom-most turtle may have its
-head in the clouds, but its feet rest firmly on the ground.
+switches, or, at the very least, a pen and paper. For this reason, the
+performance (in terms of cycles per second, instructions per cycle, or its
+capacity to hold a number of instructions) of a Turing machine simulated
+within a virtual world like Minecraft cannot logically exceed the performance
+of the machine running Minecraft itself. The physical capabilities of the
+bottom-most device limit the computational power of all *n+1* order Turing
+simulations. The bottom-most turtle may have its head in the clouds, but its
+feet rest firmly on the ground.
 
 The exact plane where the symbolic meets the material is difficult to
 identify. At some imperceptible point software disappears into hardware. Such
@@ -1181,7 +1181,7 @@ critical literature, as evidenced by Lev Manovich's playful response to
 Kittler's "there is no software" argument. If I understand it correctly,
 Kittler's short but often cited essay picks up the thread of Kittler's earlier
 work to posit what he calls a "postmodern writing scene." "We do not write
-anymore," writes Kittler: "human-made writing passes through microscopically
+anymore," Kittler writes. "Human-made writing passes through microscopically
 written inscriptions which, in contrast to all historical writing tools, are
 able to read and write by themselves" [@kittler_there_1995]. According to this
 schema, Kittler sees the paper-bound design blueprints of the first integrated
@@ -1220,62 +1220,67 @@ information into physical states. We arrive finally at the sheer alienness of
 the book as a piece of telecommunication technology. Writing converts mental
 states into arbitrary external representations, inscribed into a medium. Such
 inscriptions persist, through time, beyond their biological origin. They are
-then conveyed remotely and through ingestion transformed back into mental
-states. The thing becomes a thought, and the other way around. The
-intellectual history of the Turing machine leads us to a series of thought
-experiments about the nature of such transformations. The question of
-technique continues to haunt modern poetics. In the process of reading the
-book escapes the interpreter's grasp as a thing, presenting itself only as an
-idea. In asking "How is it made?" we arrest the advance of symbolism, in an
-attempt to find the thing behind the process of signification. This process
-ultimately ends at the medium, which today has the added property of being
-simulated. The paper page contained no internal states to speak of.
-Signification therefore proceeds from the surface inscription towards the
-reader. Reading, as Moreno reminds us, is already an invasive procedure.
-Absent human contact, we take on the mental states of others through vehicle
-that convey a remote kind of agency, displaced in time and space. It shall be
-held in view all the more because the electronic book, unlike paper, does
-contain internal states of its own which further interject in the process of
-signification, transmission, and translation. How is it made, becomes the
-question not only for poetics for the politics of reading. We are in search of
-a rule book that governs the transference of meaning between at least three
-discrete systems: one inorganic, the book, one symbolic, text, and one
-biological, body. There is of course a way in which the three are one: we are
-all in a sense cyborgs, in an assemblage of organs, instruments, and
-inscriptions. But in another sense, poetics asks us to reflect on the
-constructed nature of the coupling: the point of contact being governed by
-rules engagement, protocols, and translation tables. These constructed
-entities nevertheless grow and proliferate in a seemingly organic, ad-hoc
-manner escaping our attempts at rationalization. They comprise a part of our
-received technological a priori. That does not however mean that they should
-be naturalized or treated with a reverence afforded to endangered species. To
-decouple ourselves from a book, if only momentarily, to reject the graft, to
-discard it, or to let it whither, must remain an option.
+then conveyed remotely and through ingestion, commonly called "reading," an
+action capable of transforming the inscription back into a mental state. The
+thing becomes a thought, and the other way around. The intellectual history of
+the Turing machine leads us to a series of thought experiments about the
+nature of such transformations. The question of technique continues to haunt
+modern poetics. In the process of reading the book escapes the interpreter's
+grasp as a thing, presenting itself only as an idea. In asking "How is it
+made?" we arrest the advance of symbolism, in an attempt to find the thing
+behind the process of signification. This process ultimately ends at the
+medium, which today has the added property of being simulated. The paper page
+contains no internal states to speak of.  Signification therefore proceeds
+from the surface inscription towards the reader. Reading, as Moreno reminds
+us, is already an invasive procedure. Absent human contact, we take on the
+mental states of others through vehicle that convey a remote kind of agency,
+displaced in time and space. It shall be held in view all the more because the
+electronic book, unlike paper, does contain internal states of its own which
+further interject in the process of signification, transmission, and
+translation. How is it made, becomes the question not only for poetics but
+also for the politics of reading.
 
-If poetics lay the grounds for interpretation, we must acknowledge that today,
-these grounds involve forms and structures that derive their meaning from
-computation. These are embedded constructions: they are within and require
-explication. Techniques of the body and literary techniques, intertwine in the
-process of conventional reading. But in computational reading, they are
-coupled ever tighter, nearer than the hand's reach. Under these conditions, it
-becomes increasingly more difficult to "hold away" and to "grasp the object"
-apart from the subject. Some may celebrate this moment as a triumph over
-Cartesian dualism, the deserved decline of humanism, or the ascendency of a
-world oriented towards objects. These considerations risk losing sight of the
-political reality that the loss of poetics entails. As I write these words, a
-North American woman "wearing" an implanted pacemaker is fighting for her
-right to access its software, in her words "to know what code is running
-inside my body" [@mcgowan_i_2016]. In Pakistan, the American National Security
-agency-sponsored Skynet program places people on the US-sanctioned
-"disposition matrix" or "kill list" based on predictive analytics: social
-network analysis, cellular machine learning, patterns of travel and telephone
-use [@mcneal_targeted_2014; @weber_keep_2016]. Automated tools with names like
-SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic "select" people for
-"target strikes" by unmanned areal vehicles. Willingly, or not, we are engaged
-in the political struggle for the control and the deployment of these codified
-resources. The heart and the sky are sites on which the right to inscription
-are increasingly contested. They require a capacity to meet the machine and a
-poetics capable of new emendations.
+The question of technique ultimately seeks to expose the rules of symbolic
+transference between at least three discrete systems: one inorganic, the book,
+one symbolic, text, and one biological, body. There is of course a way in
+which the three are one: we are all in a sense cyborgs, in an assemblage of
+organs, instruments, and inscriptions. But in another sense, poetics asks us
+to reflect on the constructed nature of the coupling: the point of contact
+being governed by rules of engagement, protocols, and translation tables.
+These constructed entities grow and proliferate in a seemingly organic, ad-hoc
+manner escaping our attempts at rationalization. They comprise a part of our
+received technological a priori. This does not mean that they should be
+naturalized or treated with a reverence afforded to nature or to endangered
+species. To decouple ourselves from a book, if only momentarily, to reject the
+graft, and to discard it or to let it whither, must remain an option. If
+poetics lay the grounds for interpretation, we must acknowledge that today,
+these grounds lie past the surface of the page. Where literary techniques are
+concerned with the transformation between ink and idea, computational
+techniques extend the process from pixel to transistor. These are embedded
+constructions: they are within and require explication. Techniques of the body
+and literary techniques, intertwine in the process of conventional reading.
+When reading electronically, they are coupled ever tighter, nearer than the
+hand's reach. The Turing machine is an embedded device. Its surfaces span
+biological and artificial assemblies.
+
+Under these conditions, it becomes increasingly more difficult to "hold away"
+and to "grasp the object" apart from the subject. Some may celebrate this
+moment as a triumph over Cartesian dualism, the deserved decline of humanism,
+or the ascendency of a world oriented towards objects. These considerations
+risk losing sight of the political reality that the loss of poetics entails.
+As I write these words, a North American woman "wearing" an implanted
+pacemaker is fighting for her right to access its software, in her words "to
+know what code is running inside my body" [@mcgowan_i_2016]. In Pakistan, the
+American National Security agency-sponsored Skynet program places people on
+the US-sanctioned "disposition matrix" or "kill list" based on predictive
+analytics: social network analysis, cellular machine learning, patterns of
+travel and telephone use [@mcneal_targeted_2014; @weber_keep_2016]. Automated
+tools with names like SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic
+"select" people for "target strikes" by unmanned areal vehicles. Willingly, or
+not, we are engaged in the political struggle for the control and the
+deployment of these codified resources. The heart and the sky are sites on
+which the right to inscription are increasingly contested. They require a
+capacity to meet the machine and a poetics capable of new emendations.
 
 [^ln1-google]: "Google's mission is to organize the world's information and
 make it universally accessible and useful" (@google_about_2015).  See also
