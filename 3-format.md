@@ -378,31 +378,11 @@ not and cannot see. As an ethical stance, reading for external forms flattens
 the hierarchy between the lay reader and the professional interpreter. In this
 sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
 vernacular exegesis. All readers are priests at the surface. All readers are
-capable, the critics suggest, to access
+capable, the critics suggest, of forming their own interpretation.
 
-Yet, from the offered strategies of surface reading, reading for form strikes
-me as the most ambivalent. It is not clear, for example, what exactly Sontag
-means when she entreats her readers to concentrate on "how it is what it is"
-and not on "showing what it means." This sort of formalism seems to counteract
-the type of surface reading suggested by reading for "literal meaning," for
-example. Sontag's "erotics of art" stands in opposition to descriptive,
-explanatory, meaning-making modes of analysis. Erotics imply the transmission
-of understanding through bodily, lived experience. I understand clearly and
-relate to the stance against priestly mediation. But as a positive program,
-formalist poetics puzzle me, because "form" already occupies that ambivalent
-and mediating stance between idea and matter. Form conforms to the concrete
-universal in that it connects physical shape with meaning. One cannot therefore
-entirely break out of the hermeneutic circle. Form leads from sense as
-perception to sense as meaning-making. Formalist poetics, as I will show in
-this section, mirror the ambiguity of form in expanding the literary research
-program at once toward the exterior concrete shape and into the inward
-universal ideal. Finally, as perhaps yet another gesture towards radical
-surface reading, I plan to examine the material structure of contemporary
-document at the level of storage media.
-
-But first, to form. In an earlier counterinsurgency against reading for
-content, at the turn of the twentieth century, Russian and Italian formalists
-strove to break with Hegelian normative aesthetics by wedding literary
+In an earlier counterinsurgency against reading for content, at the turn of
+the twentieth century, Russian and Italian formalists similarly strove to
+break with Hegelian normative aesthetics by wedding the project of literary
 criticism with descriptive linguistics. Seeing art as an economy of formal
 "devices" like rhyme and meter, the formalists downplayed the role of content
 and symbol. In this vein, the Italian futurist Filippo Marinetti wrote about
@@ -410,20 +390,18 @@ the "grotesque funeral" of romantic notions of beauty, and the rise of a new
 "geometric and mechanical splendor." His generation was instead "in love with
 matter," wanting "to penetrate it and to understand its vibrations"
 [@marinetti_marinetti:_1972, ???].[^ln4-marinetti] Art cannot be reduced to
-"thinking in symbols" Viktor Shklovsky, a prominent Russian formalist, wrote in
-1917. Meaning "dies" and "becomes invisible" through frequent use. Such dead
-and transparent language can no longer evoke wonder or curiosity. For Shklovsky
-and his peers, vital art served to counteract death by "resurrecting the word"
-in "making the form difficult" [@shklovsky_hod_1923, ???]. Form, in that sense,
-renews content.  The study of poetic language (and not necessarily poetry)
-therefore pays attention to device, which aids in the process of semantic
-renewal.
+"thinking in symbols" Shklovsky wrote. Meaning "dies" and "becomes invisible"
+through frequent use. Such dead and transparent language can no longer evoke
+wonder or curiosity. For Shklovsky and his peers, vital art served to
+counteract death by "resurrecting the word" in "making the form difficult"
+[@shklovsky_hod_1923, ???]. Formalism, in that sense, was seen as having the
+potential to renew content.
 
 Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
-(instrumental in developing the notion of formalist poetics) were also
-responding negatively to the Hegelian tradition of reading for deep, symbolic
+(instrumental in developing the notion of formalist poetics) were responding
+negatively to the Hegelian tradition of reading for deep, symbolic
 interpretation. In a seminal 1917 volume on the "Theory of Poetic Language,"
-Osip Brik writes, mockingly:[^ln4-translate]
+Osip Brik wrote, mockingly:[^ln4-translate]
 
 > "The art of poetry is a symbolic art. The language of poetry is a
 symbolic language. Euphony and rhythm are the fair garments that clothe the
@@ -434,33 +412,33 @@ assonance, and onomatopoeia [...] Poetic criticism is reduced to the judgment
 of "effective" and "ineffective" sound combinations, where the criteria for
 effect is reduced to a critic's personal taste [@shklovksy_sborniki_1917, 24].
 
-What do Brik and company see as an alternative to symbolism? The seminal series
-of "OPOYAZ" publications, appearing between 1916 and 1920, gave a unified
-program to a group of "formalist" scholars that included Viktor Shklovsky, Osip
-Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson, among others.
-Collectively, the volumes strike out in two distinct, but complementary
-directions.
+What did Brik and company see as the alternative to symbolism? The seminal
+series of "OPOYAZ" publications, appearing between 1916 and 1920, gave a
+unified program to a group of formalist scholars that included Viktor
+Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson,
+among others.  Collectively, the volumes strike out in two distinct, but
+complementary directions.
 
 A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
-(*zvuk*) to "symbol" (*obraz*). Brik writes: "I believe that elements of
+[*zvuk*] to "symbol" [*obraz*]. Brik writes: "I believe that elements of
 symbolic and sonic [*zvukovoi*] art exist simultaneously, and that every given
 piece of [poetic] work comprises an equilibrium of these two heterogeneous
 poetic impulses" [@shklovksy_sborniki_1917, 25]. Of the sixteen or so unique
 essays that appear in the three collected volumes (some of the essays repeat
-across volumes), thirteen have the word "sound" (*zvuk*), or some variation
-thereof, in the title, as "sound image," "sound gesture," and "sound
-repetition." To this cluster of essays we may attribute the Russian formalist
-concern with *zaum*---literally, beyond sense, or beyonsense
+across volumes), thirteen have the word "sound" [*zvuk*], or some variation
+thereof, in the title, in combinations like "sound image," "sound gesture,"
+and "sound repetition." To this cluster of essays we may attribute the Russian
+formalist concern with *zaum*---literally, beyond sense, or beyonsense---
+trans-rational, nonsensical sounds that nevertheless elicit an affective,
+lived response, giving voice to ideas that are difficult to explain rationally
 [@khlebnivkov_collected_1987, 179; @khlebnikov_king_1990, 151;
-@labelle_lexicon_2014, 63] these are nonsensical sounds that nevertheless
-elicit an affective, lived response, giving voice to ideas that are difficult
-to explain rationally. Poetry in the symbolic mode encodes meaning as inner
-sense: the elephant "stands for" memory, or the like. *Zaum* poetics (beyond
-sense) instead evoke affect through external shape, as sound. Khlebnikov
-writes that "incantation and beyonsense language are appeals 'over the head'
-of government straight to the population of feelings, a direct cry to the
-predawn of the soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as
-"without words but with sound." He writes:
+@labelle_lexicon_2014, 63]. Poetry in the symbolic mode encodes meaning as
+inner sense: the elephant "stands for" memory, or the like. *Zaum* poetics
+instead evoke affect through external shape, as sound. Khlebnikov writes that
+"mystical incantation and beyonsense are appeals 'over the head' of government
+straight to the population of feelings, a direct cry to the predawn of the
+soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without words
+but with sound." He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -470,33 +448,36 @@ word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
 restoring its primal clarity [@shklovksy_poetika_1919, 13].
 
 The word *bezobrazno*, in the meaning of hideous or deformed, literally
-translates as "without image." The formalists insist on the primacy of the word
-image over its sense. They restore the sound image, understanding image not as
-"symbol" but as phonetic signature.
+translates as "without an image." The formalists insist on the primacy of the
+word image over its sense. Formal techniques, like chanting or nonsensical
+repetition, restore the external sound image, privileging the words phonetic
+signature over its meaning.
 
-Three of the sixteen essays, however, strike in another direction. Shklovsky's
-"Art as Technique" and "Linkages between Plot and Style Device," and
-Eichenbaum's "How the *Overcoat* Is Made," constitute a cluster of essays that
-deals with narrative structure rather than phonetic image. Translators commonly
-render the Russian *priem* as the English "device," although both authors
-clearly mean "device" in the sense of "technique" or "move,"[^ln4-move] and not
-in the sense of "appliance" or "gadget." To this strain of formalism one could
-also adduce Vladimir Propp's well-known *Morphology of the Folktale*, a text
-that finds a limited number of universal formulas in the multiplicity of
-folktale traditions.
+Three of the sixteen essays in the volume I have discussed above strike in
+another direction. Shklovsky's "Art as Technique," "Linkages between Plot and
+Style Device," and Eichenbaum's "How the *Overcoat* Is Made," constitute a
+cluster of essays that deals with narrative structure rather than phonetic
+image. Translators commonly render the Russian *priem* as the English
+"device," although both authors clearly mean "device" in the sense of
+"technique" or "move," and not in the sense of "appliance" or
+"gadget."[^ln4-move] To this strain of formalism one could also adduce
+Vladimir Propp's well-known *Morphology of the Folktale*, a text that finds a
+limited number of universal formulas in the multiplicity of folktale
+traditions.
 
-All three authors cite a common source of influence: namely, Alexander
-Veselovsky, the Russian progressive historian of literature and founder of the
-comparative method in that tradition. Veselovsky, a scholar of the generation
-previous to the formalists, did not attain the renown enjoyed by his pupils in
-the West. An early pioneer of comparative literature, he advocated philology as
-a "historical" and "genetic" study of "poetic consciousness and its forms."
-Citing literary explorations by Goethe, Friedrich Schiller, and Georges Polti
-as his inspiration, Veselovsky almost always uses "form" in the sense of
-"formula" (and not at all as "shape" or "sound"). In this, he imagines the
-genetic development of literature as the development of universal forms and
-devices. He calls these constants "vagabond formulas"
-[@veselovsky_sobranie_1913, 185]. He writes:
+All three authors cite a common source of influence for this direction of
+research: namely, the work of Alexander Veselovsky, the Russian progressive
+historian of literature and founder of the comparative method in that
+tradition. Veselovsky, a scholar of the generation previous to the formalists,
+did not attain the renown enjoyed by his pupils in the West. An early pioneer
+of comparative literature, he advocated philology as a "historical" and
+"genetic" study of "poetic consciousness and its forms." Citing literary
+explorations by Goethe, Friedrich Schiller, and Georges Polti as his
+inspiration, Veselovsky almost always uses the word "form" in the sense of
+"formula," and not at all in the sense of "shape" or "sound." In this, he
+imagines a rather Hegelian model of literary evolution, which proceeds through
+the development of universal forms and devices. Veselovsky calls these genetic
+constants "vagabond formulas" [@veselovsky_sobranie_1913, 185]. He writes:
 
 > Somewhere, someone gave these plots (*siuzhety*) an apt expression, a
 > formula, elastic enough to fit, if not new content, then new interpretations
@@ -510,15 +491,16 @@ devices. He calls these constants "vagabond formulas"
 > energy conservation. [@veselovsky_sobranie_1913, 475-47]
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
-literary formulae exist and develop across time and space. Veselovsky's formula
-is, like a *zaum* incantation, devoid of obvious meaning. It is a container.
-But unlike given incantations, formulae have a life of their own, in a trans-
-or meta- human way, not accessible to the individual cantor. They can be evoked
-but not quite transformed. Their historical momentum and genetic development
-overpowers any individual contribution. We expand within *it*, and not the
-other way around. Device, in this sense, means exactly the opposite of form in
-the sense of a private utterance, by which an individual author breaks with an
-ossified image (as in Shklovsky's *uao*).
+literary formulae exist and develop across time and space. Veselovsky's
+formula is a concrete universal, which exists outside and independent of
+individual text witnesses. Formulae in this sense have a life of their own, in
+a trans- or meta- human way, not accessible to the individual author. They can
+be evoked but not quite written. They have a historical momentum of their own,
+in a long-term process of genetic development that overpowers any individual
+contribution. We expand within *it*, and not the other way around. Form, in
+this sense, means exactly the opposite of form in the sense of a private
+utterance, by which an individual author breaks with an ossified image, as was
+the case with Shklovsky's idiosyncratic naming of the flower, *uao*.
 
 The contradiction of understanding form as sound and form as formula lies at
 the center of formalist poetics. As critics, the formalists privileged moments
