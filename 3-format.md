@@ -457,27 +457,22 @@ Three of the sixteen essays in the volume I have discussed above strike in
 another direction. Shklovsky's "Art as Technique," "Linkages between Plot and
 Style Device," and Eichenbaum's "How the *Overcoat* Is Made," constitute a
 cluster of essays that deals with narrative structure rather than phonetic
-image. Translators commonly render the Russian *priem* as the English
-"device," although both authors clearly mean "device" in the sense of
-"technique" or "move," and not in the sense of "appliance" or
-"gadget."[^ln4-move] To this strain of formalism one could also adduce
-Vladimir Propp's well-known *Morphology of the Folktale*, a text that finds a
-limited number of universal formulas in the multiplicity of folktale
-traditions.
-
-All three authors cite a common source of influence for this direction of
-research: namely, the work of Alexander Veselovsky, the Russian progressive
-historian of literature and founder of the comparative method in that
-tradition. Veselovsky, a scholar of the generation previous to the formalists,
-did not attain the renown enjoyed by his pupils in the West. An early pioneer
-of comparative literature, he advocated philology as a "historical" and
-"genetic" study of "poetic consciousness and its forms." Citing literary
-explorations by Goethe, Friedrich Schiller, and Georges Polti as his
-inspiration, Veselovsky almost always uses the word "form" in the sense of
-"formula," and not at all in the sense of "shape" or "sound." In this, he
-imagines a rather Hegelian model of literary evolution, which proceeds through
-the development of universal forms and devices. Veselovsky calls these genetic
-constants "vagabond formulas" [@veselovsky_sobranie_1913, 185]. He writes:
+image. To this strain of formalism one could also adduce Vladimir Propp's
+well-known *Morphology of the Folktale*, a text that finds a limited number of
+universal formulas in the multiplicity of folktale traditions. All three
+authors cite a common source of influence for this direction of research:
+namely, the work of Alexander Veselovsky, the 19th century Russian historian
+of literature and founder of the comparative method in that tradition.
+Veselovsky, a scholar of the generation previous to the formalists, did not
+attain the renown enjoyed by his pupils in the West. An early pioneer of
+comparative literature, he advocated philology as a "historical" and "genetic"
+study of "poetic consciousness and its forms." Citing literary explorations by
+Goethe, Friedrich Schiller, and Georges Polti as his inspiration, Veselovsky
+almost always uses the word "form" in the sense of "formula," and not at all
+in the sense of "shape" or "sound." In this, he imagines a rather Hegelian
+model of literary evolution, which proceeds through the development of
+universal forms and devices. Veselovsky calls these genetic constants
+"vagabond formulas" [@veselovsky_sobranie_1913, 185]. He writes:
 
 > Somewhere, someone gave these plots (*siuzhety*) an apt expression, a
 > formula, elastic enough to fit, if not new content, then new interpretations
@@ -492,15 +487,15 @@ constants "vagabond formulas" [@veselovsky_sobranie_1913, 185]. He writes:
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's
-formula is a concrete universal, which exists outside and independent of
+formula are concrete universals, which exist outside and independent of
 individual text witnesses. Formulae in this sense have a life of their own, in
-a trans- or meta- human way, not accessible to the individual author. They can
-be evoked but not quite written. They have a historical momentum of their own,
-in a long-term process of genetic development that overpowers any individual
-contribution. We expand within *it*, and not the other way around. Form, in
-this sense, means exactly the opposite of form in the sense of a private
-utterance, by which an individual author breaks with an ossified image, as was
-the case with Shklovsky's idiosyncratic naming of the flower, *uao*.
+a trans- or meta- human way, not accessible to the individual author. They are
+evoked indirectly. They exist in the ether of culture, attaining a historical
+momentum of their own through a process of gradual genetic development. Form,
+in this historical sense, means exactly the opposite of form in the sense of a
+private utterance, by which an individual author breaks with an ossified
+tradition, as was the case with Shklovsky's idiosyncratic naming of the
+flower, *uao*.
 
 The contradiction of understanding form as sound and form as formula lies at
 the center of formalist poetics. As critics, the formalists privileged moments
