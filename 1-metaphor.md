@@ -79,129 +79,10 @@ a part of a massive *tactical* effort to bring private spaces of
 inhabitance---think the *Home* folder on your computer, your family photo
 album, your digital bookmarks---under the purview of governance.  The
 simulation encodes political structures that should not be naturalized, lest
-we succumb to the complacency of technological determinism.
-
-Despite the formative impact on the practices of comprehension, code---the
-programmatic sign---does not often figure in our theories of meaning making.
-Instead, we erroneously consign it to the ornamental "formatting" layer of
-document structure. We do so at our peril. Unlike passive decorative elements
-like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
-the maximally blunt limit of its functions, the formatting layer affects
-visibility. For example, it can selectively render some words and sentences on
-the screen while suppressing others. The ability to hide text from view
-completely or to make it so small as to be illegible affects not just the
-style but the politics of text. Code, in that sense, can determine its
-audience, privileging certain voices and modes of access over others. It is in
-that sense of audience selection that the programmatic sign acquires its
-non-representational, tactical character. Stripped of references,
-resemblances, and designations the programmatic sign commands and controls.
-
-Unlike figurative language, machine control languages function in the
-imperative. They do not stand for action---they are action. Code represents
-only the exercise of power. More binding than the "speech acts" J.L. Austin,
-control codes arrange and regulate. The difference between representation and
-control is one of brute force. It lies in the distinction between a
-restraining order and physical restraint. A restraining order *represents* the
-calling forth of codified power. Physical restraints like handcuffs *enact*
-the exercise of codified power. Like all violence they do not stand for
-anything. Stripped of references, resemblances, and designations, they are in
-themselves an arrangement and rearrangement of matter. The handcuffs contort
-the body into the shape of submission. Absent a body, the restraints draw an
-empty shape.
-
-Code acts similarly to shape the word. Located somewhere between idea and
-material, formatting relates content to matter. It mediates by imposing
-structure. Think of a paragraph, for example. By convention, writers use
-paragraphs to break up the flow of monolithic thought on a page. The paragraph
-contains information. Can we imagine an empty paragraph? Can the shape of the
-paragraph persist outside of the material confines of the page or the screen?
-Can one imagine a paragraph that unfolds spatially not in two dimensions, but
-in one, along a straight line? What about a three dimensional paragraph?
-Could it take the shape of a cuboid instead instead of a rectangle?  These
-questions boggle the mind because the paragraph draws a singular shape. It is
-a textual container of a type. Any other shape less or more than the paragraph
-would go by another name. It would constitute another format. To imagine
-something like a one-dimensional paragraph is akin to imagining a flat
-shoebox. A flat shoebox could no longer hold shoes. It would contain something
-else like images of footwear. Similarly, a paragraph identifies a particular
-arrangement of elements. It is a box or a data structure of a shape, made to
-hold words and sentences. Like nesting dolls, words and sentences are in
-themselves data structures that contain further, smaller arrangements of
-information. One could say, what of such arrangements? Who cares about
-paragraphs? It is merely one type of a container among many. It has only an
-instrumental function to help get the point across. The meat of interpretation
-lies in the stuff within. Words come in other shapes and sizes. The outer
-container is disposable and therefore insignificant.
-
-Formats could only seem insignificant in the past when they were few and
-simple. The transition between static and dynamic media necessitates renewed
-attention to the formatting layer of meaning making. What you saw is what you
-got on the page. On the screen, what you see is but a small part of what you
-get. The content---all that is contained on a page---shifts beneath the
-projected image. In print, content can be gleaned from the surface. There is
-nothing but surface on a page. The screen is a layered surface. Sandwiched
-between panes of glass, liquid crystal moves in response to electrical
-modulation. The ebb and flow of electricity in turn reflects yet another layer
-of codification, inscribed onto yet other recondite planes of inscription. A
-byte, made up of eight binary bits, holds a letter. The string of letters
-spelling out "hello world" occupies eleven bytes, if you count the space. A
-file in the Portable Document Format (`.pdf`) containing nothing but "hello
-world" takes up 24,335 bytes on my system. Encoding accounts for the disparity
-between plain text and fancy text, the latter defined as "text representation
-consisting of plain text plus added information"
-[@unicode_consortium_unicode_1990].
-
-What is the nature of this "added information?" Historically, the added
-information included machine instructions for viewing and printing text,
-encoding, or encryption, used for clandestine communication. The Portable
-Document Format specifically can also contain features that enable--and I
-quote the exact specifications here---"accessibility of content to those with
-disabilities," "digital signatures to certify authenticity," "electronic forms
-to gather data," "preservation of document fidelity independent of the device,
-platform, and software," and "security and permission to allow the creator to
-retain control of the document and associated rights" [@iso_portable_2008,
-vii]. These capabilities operate somewhere between the visible content and
-stored information. More than passive conduits of meaning, electronic texts
-contain the rules for engagement between authors and their readers. In our
-example, the Portable Document Format encodes among other things ideas about
-"reading," "authenticity," "fidelity," "preservation," and "authorship."
-Whatever literary theoretical framework the reader brings to the process of
-interpretation must therefore meet the framework implicit in the electronic
-text itself. Such an encounter happens not on the level of representation or
-ideology, but on the level of the physical, the phatic, and the imperative,
-where formatting and control codes reside.
-
-The familiar paper paragraph structure already presents several interesting
-problems for analysis. In claiming typographical space on a page the paragraph
-suggests corresponding mental units. A unit of written language thus also
-becomes in some sense a unit of thought. But no such structures as paragraphs
-exist in the mind. Physiologically, the brain arranges information otherwise.
-Things get significantly more complicated when the paragraph mediates between
-the mind and the page on the one side of comprehension, and the page and the
-machine on the other.
-
-![Forms and formats.](images/forms.png)
-
-Just like there is nothing inherently paragraph-like in the neural arrangement
-of the brain, there is also nothing inherently paragraph-like or page-like in
-the arrangement of bits along the surface of the magnetic disk or the solid
-state drive. If we could peek inside the machine, we would see forms and
-structures particular to those media. The analysis of computational forms
-requires new formalisms and new critical vocabularies capable of drawing
-correspondences between disparate structures. We are presented with metaphors
-of paragraphs, pages, files, and folders. Screen representations of
-paragraphs, pages, files, and folders look like their counterparts on the
-page, yet they represent other structures in the head, and yet other
-structures on the disk. The metaphor thus mediates between mental
-image---information stored in the head---and inscription---information stored
-in the machine. As Alexander Galloway wrote in his *The Interface Effect*, the
-nature of the interface stems from the incompatibility between incommensurate
-systems [@galloway_interface_2012, viii]. The interface is also a metaphor
-that transports structure from one entity to the other, at the point of
-contact between human and machine. Our goal in this chapter, is to unpack the
-metaphor. We must begin to separate the resemblance from its designation: the
-apparent shape from a command in the imperative.
+we succumb to the complacency of technological determinism. Our goal in this
+chapter is to arrest the advance of the metaphor. We must begin to separate
+resemblances from their designation: the apparent shape from a command in the
+imperative.
 
 ### 1.1 Verisimilitude
 
@@ -515,12 +396,10 @@ potential readers from adopting a new technology. Smart designers therefore
 rely on acculturated practice, the turning of pages in our case, to minimize
 the "friction" of adoption. Although an "electronic book reader" contains no
 pages as such, it extends the metaphor of pages to electronic reading. The
-perceived facility of use comes at a cost of critical engagement. The
-structures of governance, like those embedded in a Portable Document Format,
-remain for the most part inaccessible to analysis. A digital poem, a novel, a
-physician's script, or a legal contract resembles their paper counterparts to
-enable familiar actions. But while imitating paper pages, the reading
-*appliance* also monitors, adjusts, warns, and controls.
+perceived facility of use comes at a cost of critical engagement. A digital
+poem, a novel, a physician's script, or a legal contract resembles their paper
+counterparts to enable familiar actions. But while imitating paper pages, the
+reading *appliance* also monitors, adjusts, warns, and controls.
 
 Simulation conceals structuring principles large and small. Some of the
 concealed details may remain inconsequential, like the limit on how many keys

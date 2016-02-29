@@ -1,190 +1,126 @@
-## Chapter 5: Format and Control
+## Chapter 3: Form, Formula, Formatting
 
-To encounter the universal Turing machine underpinning the electronic book *as
-a mechanism*, the media and book historian will find that it borrows from a
-number of extant designs, which, together and incrementally, give the
-universal Turing machine its physical form. Once we have grasped the notion of
-the Turing machine as a piece of software, an algorithm, I am compelled to
-wonder about its history as a mechanism and ask, what are its technological
-antecedents? What would happen if Turing attempted to patent his device, for
-example? What previous art and related designs would he have to cite in his
-application? In an answer to these question we discover, perhaps
-unsurprisingly, that the Turing machine belongs to a long lineage of
-controlling devices. This entails also that the book, subsumed by computation,
-also embodies a part of the same material history.
+Despite the formative impact on the practices of comprehension, code---the
+programmatic sign---does not often figure in our theories of meaning making.
+Instead, we erroneously consign it to the ornamental "formatting" layer of
+document structure. We do so at our peril. Unlike passive decorative elements
+like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
+dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
+the maximally blunt limit of its functions, the formatting layer affects
+visibility. For example, it can selectively render some words and sentences on
+the screen while suppressing others. The ability to hide text from view
+completely or to make it so small as to be illegible affects not just the
+style but the politics of text. Code, in that sense, can determine its
+audience, privileging certain voices and modes of access over others. It is in
+the sense of audience selection that the programmatic sign acquires its
+non-representational, tactical character. Stripped of references,
+resemblances, and designations the programmatic sign commands and controls.
 
-Most of the minimal physical requirements to build a universal Turing machine
-were within reach in the 1930s, at the time Turing authored his influential
-paper. In practice, his proposal would require first, an apparatus capable of
-"scanning" and "erasing" a "finite number of symbols." Second, we would need
-what Turing calls "one-dimensional paper," divided into discrete squares "like
-a child's arithmetic book" [@turing_computable_1937, 249].[^ln1-infinite]
-Furthermore, we would need some sort of a mechanism to advance tape through
-the machine, or, alternatively, to propel the scanning mechanism along the
-length of the tape. Having assembled these elements, our creation would look
-roughly like a cross between a telegraph, a film projector, and a
-typewriter.[^ln1-davey]
+Unlike figurative language, machine control languages function in the
+imperative. They do not stand for action---they are action. Code represents
+only the exercise of power. More binding than the "speech acts" J.L. Austin,
+control codes arrange and regulate. The difference between representation and
+control is one of brute force. It lies in the distinction between a
+restraining order and physical restraint. A restraining order *represents* the
+calling forth of codified power. Physical restraints like handcuffs *enact*
+the exercise of codified power. Like all violence they do not stand for
+anything. Stripped of references, resemblances, and designations, they are in
+themselves an arrangement and rearrangement of matter. The handcuffs contort
+the body into the shape of submission. Absent a body, the restraints draw an
+empty shape.
 
-Were we to patent the Turing machine in the United States, at the time of its
-invention, the above elements would find prior art in mechanisms such as the
-"Numeral adding or subtracting attachment for type-writing machines"
-[@daugherty_numeral_1894], "Combined Type-writing and Computing Machine"
-[@degener_combined_1911], "Computing Attachment for Typewriters"
-[@wright_computing_1914], "Computing Mechanism" [@wright_computing_1915], and
-"Combined Type-writing and Adding Machine" [@ellis_combined_1914] among
-others. All of these machines contain some combination of a reading and
-writing "head," storage tape, and movement mechanism as specified in Turing's
-paper. A number of inventions at the end of the nineteenth century pertain
-specifically to "circuit-controlling devices controlled by a traveling
-perforated strip or tape" [@cuttriss_telegraphy_1893]. Prior to perforated
-tape, the transmission of messages by telegraph required the presence of a
-skilled operator, able to transcribe messages from text to Morse code, and
-into the physical motion of a lever-operated circuit. In the operation of
-early telegraphy, the human operator acted as a mute interpreter between text
-and telegraph. The transcription of text into signal, and back onto paper,
-required the real-time presence of human encoders and decoders.
-The perforated tape decoupled the human from the machine. In US1187035 (1916)
-on "Telegraphy", Albert and Ralph Bumstead explain: "the object of our
-invention is to provide a system of telegraphy which does not require skilled
-operators for the transmission and reception of messages"
-[@bumstead_telegraphy_1916]. Instead, the message was transcribed into
-perforation via mechanical means and then fed into the mechanism. The tape
-mechanics of the typewriter could then be coupled with the electrics of the
-telegraph, with perforated tape acting as a mediator between the two "worlds"
-of mechanics and electricity. A number of contraptions emerged at the time
-with the aim of transfiguring the mechanical action of the typewriter into
-perforation, and, consequently, perforation into script, completing the
-circuit between automated "encoding" and "decoding." As one machine converted
-human input into mechanical states, and into signal, another machine converted
-signals into mechanical states and thereon into human-legible messages.
+Code acts similarly to shape the word. Located somewhere between the screen
+and the storage medium, formatting relates matter to content. It is a
+technique, by which immanent inscriptions are composed into transcendent
+digital objects like novels, songs, and photographs. Formatting imposes
+structure. Think of a paragraph, for example. By convention, writers use
+paragraphs to break up the flow of monolithic thought on a page. The paragraph
+contains information. Can we imagine an empty paragraph? Can the shape of the
+paragraph persist outside of the material confines of the page or the screen?
+Can one imagine a paragraph that unfolds spatially not in two dimensions, but
+in one, along a straight line? What about a three dimensional paragraph?
+Could it take the shape of a cuboid instead instead of a rectangle? These
+questions boggle the mind because the paragraph draws a singular shape. It is
+a textual container of a type. Any other shape less or more than the paragraph
+would go by another name. It would constitute another format. To imagine
+something like a one-dimensional paragraph is akin to imagining a flat
+shoebox. A flat shoebox could no longer hold shoes. It would contain something
+else like images of footwear. Similarly, a paragraph identifies a particular
+arrangement of elements. It is a box or a data structure of a shape, made to
+hold words and sentences. Like nesting dolls, words and sentences are in
+themselves data structures that contain further, smaller arrangements of
+information. One could say, what of such arrangements?  Who cares about
+paragraphs? It is merely one type of a container among many. It has only the
+instrumental function to help get the point across. The meat of interpretation
+lies in the stuff within. Words come in other shapes and sizes. The outer
+container is disposable and therefore insignificant.
 
-A multitude of inventions capitalized on the control capabilities of removable
-storage media by the beginning of the of the twentieth century. These included
-machines for tape-controlled telegraphic transmission
-[@wheatstone_improvement_1874; @murray_tape-controlled_1905;
-@bumstead_telegraphy_1916], tape-controlled printing [@creed_printing_1911],
-printing telegraphs [@hallden_printing-telegraph_1929], and remote broadcast
-programming devices for radio and television content [@vriendt_program_1934;
-@brown_automatic_1936; @brown_selective_1936]. With the invention of punch
-cards and perforated tape (also used in textile looms, as early as 1725), a
-message meant for another human became also a physical medium---bumps and
-holes---used to animate the mechanical movement of the transmission apparatus.
+Formats could only seem insignificant in the past when they were few and
+simple. The transition between static and composable media necessitates
+renewed attention to the formatting layer of meaning making. What you saw is
+what you got on the page. On the screen, what you see is but a small part of
+what you get. The content---all that is contained on a page---shifts beneath
+the projected image. In print, content can be gleaned from the surface. There
+is nothing but surface on a page. The screen is a layered surface. Sandwiched
+between panes of glass, liquid crystal moves in response to electrical
+modulation. The ebb and flow of electricity in turn reflects yet another layer
+of codification, inscribed onto yet other recondite planes of inscription. A
+byte, made up of eight binary bits, holds a letter. The string of letters
+spelling out "hello world" occupies eleven bytes, if you count the space. A
+file in the Portable Document Format (`.pdf`) containing nothing but "hello
+world" takes up 24,335 bytes on my system. Encoding accounts for the disparity
+between plain text and fancy text, the latter defined as "text representation
+consisting of plain text plus added information"
+[@unicode_consortium_unicode_1990].
 
-For example, of the 33 asserted claims in the Bumstead brothers' "Telegraphy"
-patent, the first 13 relate to the "transmission of intelligence,"
+What is the nature of this "added information?" Historically, the added
+information included machine instructions for viewing and printing text,
+encoding, or encryption, used for clandestine communication. The Portable
+Document Format specifically can also contain features that enable--and I
+quote the exact specifications here---"accessibility of content to those with
+disabilities," "digital signatures to certify authenticity," "electronic forms
+to gather data," "preservation of document fidelity independent of the device,
+platform, and software," and "security and permission to allow the creator to
+retain control of the document and associated rights" [@iso_portable_2008,
+vii]. These capabilities operate somewhere between the visible content and
+stored information. More than passive conduits of meaning, electronic texts
+contain the rules for engagement between authors and their readers. In our
+example, the Portable Document Format encodes among other things ideas about
+"reading," "authenticity," "fidelity," "preservation," and "authorship."
+Whatever literary theoretical framework the reader brings to the process of
+interpretation must therefore meet the framework implicit in the electronic
+text itself. Such an encounter happens not on the level of representation or
+ideology, but on the level of the physical, the phatic, and the imperative,
+where formatting and control codes reside.
 
-> [...] adapted to initiate a succession of electrical impulses all of which
-> have a character representing significance, a receiver adapted to detect
-> variations in time intervals elapsing between successive impulses, a
-> plurality of interpreting relays selectively actuated by said receiver, and a
-> printed mechanism responsive for the combined action
-> [@bumstead_telegraphy_1916, 12-13].
+The familiar paper paragraph structure already presents several interesting
+problems for analysis. In claiming typographical space on a page the paragraph
+suggests corresponding mental units. A unit of written language thus also
+becomes in some sense a unit of thought. But no such structures as paragraphs
+exist in the mind. Physiologically, the brain arranges information otherwise.
+Things get significantly more complicated when the paragraph mediates between
+the mind and the page on the one side of comprehension, and the page and the
+machine on the other.
 
-What begins as a description of a mechanism for information transmittal, ends
-with a claim about hermeneutics of control. Starting with clause 14, the
-brothers begin to describe "a telegraph system" capable of "transmitting
-impulses" at varying time intervals. In the language of the patent, the length
-of the time interval "represents significance," involving an automated
-receiver responsible for "distributing, interpreting, and recording." The
-printing mechanism is further "arranged to print the interpretation of the
-signals which is made by the interpreting relays" [@bumstead_telegraphy_1916,
-6]. The interpreting relays transform time intervals into a "typographical
-form" representing "a letter, a figure, or other characters," "in accordance
-with a code" [@bumstead_telegraphy_1916, 13]. Initially, the telegraph prints
-to "transmit intelligence." But the authors also understand that the varying
-time intervals could also signify other information, meant to actuate a
-variety of devices. By the middle of the patent, the brothers describe their
-telegraph as a general "controlling medium," which can power everything from
-typesetting machines to more general "sunflower switches." "Indeed the
-detector and the interpreting relay could be made to actuate a set of
-sunflower switches for an indicator without including a printer at all," the
-authors conclude [@bumstead_telegraphy_1916, 12].
+![Forms and formats.](images/forms.png)
 
-Along with hundreds of similar inventions patented around the turn of the
-twentieth century, Bumstead brothers describe a mechanism that could function
-as a Turing machine with little modification. The automated telegraph, driven
-by ticker tape, and connected to a printer contain all the necessary
-requirements set out by Turing: a discrete symbolic language, the removable
-storage medium, and a device that can alter its internal states based on the
-reading and writing of scanned symbols. They are able "read" and "write" and
-otherwise manipulate symbolic representation, they ingest tape, and they
-covert symbol into internal structure. By 1905, Donald Murray, the inventor of
-the popular Murray telegraph, could write that "if we disregard the small
-class of telegrams that merely express emotions, *the essence of telegraphy is
-control* [emphasis mine]." He wrote also that "telegraph systems, therefore,
-belong not to the class of producing or distributing, but to the class of
-controlling mechanisms" [@murray_setting_1905, 556]. For the automated
-telegraph, control code and the message are one. The mechanism interprets some
-signals as figure and character and other signals as control code affecting
-the internal mechanical configuration of the device. The first type of code
-holds "significance" for humans, where the second for the mechanism itself. It
-is "transmitting intelligence" in a sense of externalizing machine states and
-"interpreting" in the sense of mechanical reconfiguration of internal parts.
-
-By 1936, when Turing published his paper on computable numbers, these
-inventions do not merely anticipate the modern computer, they were brought to
-mass market in the widespread manufacture of computing scales, dial recorders,
-electric tabulating machines, and computing typewriters made by companies like
-Underwood Computing Machine, Electromatic, and International Business Machines
-(IBM). Rather than a single eureka moment, the invention of the universal
-machine should therefore be viewed as a gradual historical process that
-culminates in Turing's universal (and minimally viable) specifications. What
-does the material history of the computer mean for the history of the book?
-The electronic book is, after all, a kind of a computer. It is a Turing
-machine. It belongs therefore in part to a class of controlling devices, as
-described by Murray and Baumstead. To discover the book in the guise of a
-*computational* literary artifact means coming to terms with it as a kind of a
-robot---a device for remote machine control.
-
-Furthermore, the very metaphysical nature of Turing machines implies the
-irreversible admixture of matter, content, and control structure. When reading
-a paper and cloth book, one can definitively isolate a) the physical
-properties of paper and cloth from b) the content of the book and from c) the
-legal and political elements governing the production of textuality. To wit:
-tear out the copyright notice along with the ISBN number, copy the words into
-a notebook, and recycle the paper. The literary device, by contrast, ingests
-both symbolic representation and control code through the same input stream.
-Where images of governance (like trademark and copyright symbols) *signify*,
-computed text *embodies*. Computation enacts control in exactly the sense by
-which Wittgenstein suggests to insert a layer of "rules for obedience" between
-symbol and interpretation.
-
-In the process of textual production, printing and typesetting, it is certain
-that my words were mixed with machine language, which in turn changed the
-structure of the devices in your lap, in your hand, near to your eye,
-embedded, or embodied. I could say that I bear no responsibility for extending
-the reach of machine language so close to the reader. But that would be
-factually incorrect. The choice of my writing implements and my channels of
-communication affect deeply the contexts of interpretation. Such choices, in
-aggregate, define the shared ecosystem of knowledge production. Traditional
-strategies of close reading which limit interpretation to the parsing of
-visible content risk missing the concealed machinations of naked circuit
-control. It looks like you are reading a book, but this book may change
-depending on the readers race, gender, ethnicity, geography, or political
-affiliation. Who has agency to program the device? Were a book also a pill or
-fused with the neural circuitry of the brain, would you know what and whom you
-were reading?
-
-I began the book by asking the reader to answer a seemingly innocuous
-question: Where does the computed sign reside? The outlines of an answer led
-us to multiple sites of inscription, some visible and some hidden, some
-legible and others opaque. I have suggested also that the familiar distinction
-between form and content fails to capture the crucial "formatting and control"
-layer of the computed sign. In the following sections I would like to explore
-the curious contradiction at the heart of formalism itself. Historically, form
-has been used to signify both the material shape of the sign and the idealized
-archetypal "rule book" for its creation. The two senses matter because they
-lead to opposing strategies of interpretation. One seeks to describe, the
-other to explain; one to perceive, the other to reveal.
-
-My task in this chapter is to bring the formatting layer into view. The
-distinction between form, format, and formula will give us the vocabulary to
-discuss the codification of document structure in the second part of the
-chapter. As I will argue, some of the same intuitions that guided the
-intellectual history of formalism became also ingrained in the material
-contingencies of word processing emerging in the middle of the twentieth
-century. The history of something called the Document Object Model will give
-us the means to reveal a layer of formatting shaping every digital document.
+Just like there is nothing inherently paragraph-like in the neural arrangement
+of the brain, there is also nothing inherently paragraph-like or page-like in
+the arrangement of bits along the surface of the magnetic disk or the solid
+state drive. If we could peek inside the machine, we would see forms and
+structures particular to those media. The analysis of computational forms
+requires new formalisms and new critical vocabularies capable of drawing
+correspondences between disparate structures. We are presented with metaphors
+of paragraphs, pages, files, and folders. Screen representations of
+paragraphs, pages, files, and folders look like their counterparts on the
+page, yet they represent other structures in the head, and yet other
+structures on the disk. The metaphor thus mediates between mental
+image---information stored in the head---and inscription---information stored
+in the machine. As Alexander Galloway wrote in his *The Interface Effect*, the
+nature of the interface stems from the incompatibility between incommensurate
+systems [@galloway_interface_2012, viii]. The interface is also a metaphor
+that transports structure from one entity to the other, at the point of
+contact between human and machine.
 
 Formatting structures facilitate the conversion of machine-readable codes into
 human-readable text. Yet formatting continues to elude the critical gaze
@@ -194,9 +130,12 @@ Russian formalists, the English "form" renders at times the material, outward,
 and apparent shape of something said or pictured. Yet just as often, critics
 use "form" in the sense of a Platonic ideal: abstracted from matter,
 inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula.
+idea of an algorithm of a formula. In this chapter, I would like to introduce
+the concept of formatting into the critical discourse and to show how
+formatting affects our ability to read and interpret everyday digital
+documents.
 
-### 4.1 Form and Formula
+### 3.1 Form and Formula
 
 The intellectual history of formalist thought in literary theory contains
 within it two distinct and contradictory ideas about form: one about the
@@ -588,20 +527,21 @@ textuality in which form bridges matter and content. The history of Western
 aesthetics can be seen as pulling the work of art through one or several of
 these layers of analysis: as when Susan Sontag entreats her reader to pay more
 attention to form (as sensuous shape), or when Johanna Drucker asks her reader
-to consider the materiality of text, or when Sharon Marcus writes about reading
-for "what lies in plain sight." But the very words "matter," "form," and
-"content" often tangle in the conceptual confusion of texts that resist being
-pinned down to any single stratum of interpretation. I am trying to understand,
-for example, what Roland Barthes means by the distinction between "work" and
-"text" in his seminal essay on textuality.[^ln4-barthes] For Barthes, the work
-has something to do with paper, bookshelves, and, more generally, substance. By
-contrast, text is something "radically symbolic," something that moves across
-works, not bound to any specific matter. Barthes's "texts" sound like ideas,
-where his "works" sound like books. This usage stands in direct opposition to
-the tradition of textual criticism, where "source texts" stand for specific,
-materially-bound editions or manuscripts, and "works" for the collective unity
-of the artistic vision: the idea of Shakespeare's *Hamlet*, for example, in
-opposition to variance found in the multiplicity of individual *Hamlet*s.
+to consider the materiality of text, or when Sharon Marcus writes about
+reading for "what lies in plain sight." But the very words "matter," "form,"
+and "content" often tangle in the conceptual confusion of texts that resist
+being pinned down to any single stratum of interpretation. I am trying to
+understand, for example, what Roland Barthes means by the distinction between
+"work" and "text" in his seminal essay on textuality.[^ln4-barthes] For
+Barthes, the work has something to do with paper, bookshelves, and, more
+generally, substance. By contrast, text is something "radically symbolic,"
+something that moves across works, not bound to any specific matter. Barthes's
+"texts" sound like ideas, where his "works" sound like books. This usage
+stands in direct opposition to the tradition of textual criticism, where
+"source texts" stand for specific, materially-bound editions or manuscripts,
+and "works" for the collective unity of the artistic vision: the idea of
+Shakespeare's *Hamlet*, for example, in opposition to variance found in the
+multiplicity of individual *Hamlets*.
 
 Whereas Barthes wants to liberate text as symbol from the embodied work,
 scholars like Johanna Drucker make a strong case for returning the text to its
@@ -720,7 +660,7 @@ things seem to be in play rather than two: matter, form, and content. And of
 these, form sometimes falls into the category of meaningless matter and
 sometimes into semantic-carrying ideation: form, the indeterminate.
 
-### 4.2 Document Object Model
+### 3.2 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -941,7 +881,7 @@ conditions of contemporary text production.
 necessarily correspond to text structures at "user terminal" or "line printer"
 levels [@madnick_script_1968, 98].](images/script.png)
 
-### 4.3 Smart Contracts
+### 3.3 Smart Contracts
 
 Exposing the Document Object Model that governs the production of text through
 contemporary reading and writing devices gives the question of surface and
@@ -1247,7 +1187,7 @@ following, is a simple dotplot from Shakespeare:
 |be  |   | • |   |    |   | • |
 +----+---+---+---+----+---+---+
 
-Table: "Six words of Shakespeare" [@helfman_dotplot_1996].
+<!-- Table: "Six words of Shakespeare" from @helfman_dotplot_1996. -->
 
 When applied to raw, binary data, self-similarity plots can be used to study
 data structures, to identify security threats, and to reverse engineer unknown
@@ -1470,7 +1410,6 @@ dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
 before, and placed on its feet again" (44).  p5
-
 
 [^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
