@@ -138,55 +138,60 @@ documents.
 ### 3.1 Form and Formula
 
 The intellectual history of formalist thought in literary theory contains
-within it two distinct and contradictory ideas about form: one about the
-outward shape of the sign and another about the inward structure or formula
-that governs semiotics. The distinction is important because it leads to
-several conflicting strategies of interpretation. Taken in the sense of
+within it at least these two distinct and contradictory ideas about form: one
+about the outward shape of the sign and another about the inward structure or
+formula that governs semiosis. The distinction is important because it leads
+to several conflicting strategies of interpretation. Taken in the sense of
 "outwards shape," form suggests an aesthetics or even an "erotics" of art
-[@sontag_against_1966]. On this view, a sign is forever embedded into the
-specific contexts of its instantiation. The physical peculiarity of this word
-makes it forever different from the same word on a different page. Taken as
-formula, form suggests a more analytical approach, aimed at explicating hidden
-structures. Formal analysis in that sense studies not specific traces or
-utterances, but the development of ideal forms, which exist independent of any
-specifics.  The distinction between "form" and "content" is one of the basic
-binaries in any formalism, mobilized often in literary criticism and computer
-science alike. "Classical art, in a word, stands for form," R.G.  Collingwood
-wrote in 1929, and "romantic art for content" [@collingwood_form_1929, 335].
-In a much more recent work on computational text generation, Kathleen McKeown
-writes that to produce discourse, writers and speakers "must decide what to
-say and how to present it effectively." A machine that generates text should,
-among other things, be able to determine the "content and textual shape" of
-what needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
-influential essay "Print Is Flat, Code Is Deep," Katherine Hayles writes about
+[@sontag_against_1966]. In this view, a sign is forever embedded into the
+specific contexts of inscription or utterance. The material peculiarity of a
+word makes it forever different from the same word on a different page.
+Formalism in this sense is concerned with the palpable, physical attributes of
+a text. Understood as formula, form suggests a more analytical approach, aimed
+at explicating the hidden structure that governs the production of text.
+Formal analysis in that sense studies not specific traces or utterances, but
+rather the development of ideal forms, which exist independent of any specific
+instantiation.
+
+The distinction between "form" and "content" is one of the basic binaries in
+any formalism, mobilized often in literary criticism and computer science
+alike.  "Classical art, in a word, stands for form," R.G.  Collingwood wrote
+in 1929, and "romantic art for content" [@collingwood_form_1929, 335].  In a
+much more recent work on computational text generation, Kathleen McKeown wrote
+that to produce discourse, writers and speakers "must decide what to say and
+how to present it effectively." A machine that generates text should, among
+other things, be able to determine the "content and textual shape" of what
+needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
+influential essay "Print Is Flat, Code Is Deep," Katherine Hayles wrote about
 "the interplay between a text's physical characteristics and its signifying
 strategies" [@hayles_print_2004, 72].
 
-Like many foundational dichotomies in the Western tradition, the distinction
-between form and content has its roots in Platonic thought. For Plato, the
-"essence" or an "idea" of something (like a chair) exists in an ideal,
-metaphysical state, somewhere beyond the confines of the material universe. By
-contrast, a physical instantiation of that object (a specific chair) embodies a
-somewhat more limited, even corrupted, version of that perfect idea. The task
-of the philosopher becomes one of reconstructing the single ideal notion of the
-perfect chair from its many imperfect instantiations. A computer scientist will
-recognize in this chain of reasoning some of the principles behind
-object-oriented programming: a way of building software that works by defining
-abstract "object classes" and invoking them as "class instances"
-[@hoare_record_1965; @nygaard_history_1981]. Similarly, for Plato and later for
-René Descartes, G.W.F. Hegel, and other so-called "idealists," ideas provide us
-with lasting universal "templates" for instantiation within the contingent and
-always changing physical confines of the material world.[^ln4-descartes]
+Like many foundational dichotomies in the Western philological tradition, the
+distinction between form and content has its roots in Platonic thought. For
+Plato, the "essence" or an "idea" of something (like a chair) exists in an
+ideal, metaphysical state, somewhere beyond the confines of the material
+universe. By contrast, a physical instantiation of that object (a specific
+chair) embodies a somewhat more limited, even corrupted, version of that
+perfect idea. The task of the philosopher becomes one of reconstructing the
+single ideal notion of the perfect chair from its many imperfect
+instantiations. A computer scientist will recognize in this chain of reasoning
+some of the principles behind object-oriented programming: a way of building
+software that works by defining abstract "object classes" and invoking them as
+"class instances" [@hoare_record_1965; @nygaard_history_1981]. Similarly, for
+Plato and later for René Descartes, G.W.F. Hegel, and other idealists, ideas
+provide us with lasting universal "templates" for instantiation within the
+contingent and always changing physical confines of the material
+world.[^ln4-descartes]
 
-In Plato we find a number of words that, depending on the translation, stand in
-for the English "form." These include *eidos* (essence), *idea* (idea),
-*morphe* (shape), and *phainomena* (appearance). Compare, for example, several
-translations from Plato's *Timaeus*. The text shows Timaeus, the titular
-character, explaining the nature of the physical world to his collocutor. In a
-passage that anticipates the famous "molten wax" analogy in Descartes, Timaeus
-notices that some elements, like water, change their appearance
-(*phantazomenōn*) while remaining essentially the same substance. Benjamin
-Jowett translates the passage:
+In Plato's Greek originals we find a number of words that, depending on the
+translation, stand in for the English "form." These include *eidos* (essence),
+*idea* (idea), *morphe* (shape), and *phainomena* (appearance). Compare, for
+example, several translations from Plato's *Timaeus*. The text shows Timaeus,
+the titular character, explaining the nature of the physical world to his
+collocutor. In a passage that anticipates the famous "molten wax" analogy in
+Descartes, Timaeus notices that some elements, like water, change their
+appearance [*phantazomenōn*] while remaining essentially the same substance.
+Benjamin Jowett translates the passage:
 
 > Thus, then, as the several elements never present themselves in the same form
 > [*phantazomenōn*], how can anyone have the assurance to assert positively
@@ -201,53 +206,54 @@ In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
 > be any one particular element and no other without incurring ridicule?
 > [@plato_plato_1955, 48d]
 
-Both translations capture the plain meaning of the passage: the essence of a
-thing remains even as its outward appearance changes, taking on a phantasmal,
-fantastic, ghostly, imaginable, and even "virtual" shape and appearance (all
-reasonable English approximations of the Greek *phantazomenōn*). Accordingly,
-Jowett translates *phantazomenōn* (that which is changeable) as "form" and Lamb
-as "appearance."
+Both translations of the Greek *phantazomenōn*, form and appearance, capture
+the plain meaning of the passage: the essence of a thing remains even as its
+outward appearance changes, taking on a phantasmal, fantastic, ghostly,
+imaginable, and even "virtual" shape and appearance (all reasonable English
+approximations of the Greek *phantazomenōn*). Accordingly, Jowett translates
+*phantazomenōn* (that which is changeable) as "form" and Lamb as "appearance."
 
-Contrast the *Timaeus* passages with the ones in *Cratylus*, about name-giving.
-In *Cratylus*, Socrates and Hermogenes discuss the ways in which words signify
-things by convention. "What has the carpenter in view when he makes a shuttle?"
-asks Socrates. "Is it not something the nature of which is to weave?"
-Hermogenes agrees. "Well, then, if the shuttle breaks while he is making it,
-will he make another with his mind fixed on that which is broken, or on that
-form (*eidos*) with reference to which he was making the one which he broke?"
-Hermogenes agrees the carpenter would fix his mind on the ideal form. In that
-case, we should properly call *that* the real shuttle (*estin kerkis*),
-Socrates concludes---his point being that the exact outward appearance of
-individual shuttles does not matter as much as the abstracted idea of shuttles.
+Contrast the *Timaeus* passages with the ones in *Cratylus*, about
+name-giving.  In *Cratylus*, Socrates and Hermogenes discuss the ways in which
+words signify things by convention. "What has the carpenter in view when he
+makes a shuttle?" Socrates asks. "Is it not something the nature of which is
+to weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he is
+making it, will he make another with his mind fixed on that which is broken,
+or on that form [*eidos*] with reference to which he was making the one which
+he broke?" Hermogenes agrees the carpenter would fix his mind on the ideal
+form. In that case, we should properly call *that* the real shuttle, Socrates
+concludes---his point being that the exact outward appearance of individual
+shuttles does not matter as much as the abstracted idea of shuttles. The
+abstraction endures even as given instantiations break and shatter. There
+exist different types of shuttles, some used to weave wool and some for linen,
+but all of them, in Jowett's translation, "must contain the form or ideal
+(*eidos*) of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos*
+or form stands for the "universal lasting ideal" of all shuttles: exactly the
+opposite of *phantazomenōn* as "ephemeral instantiation" in the previous
+passage! Yet both *eidos* and *phantazomenōn* were reasonably translated into
+English as "form," indicating a fundamental overloading of the
+concept.[^ln4-plato]
 
-The abstraction endures as given instantiations break and shatter. There exist
-different types of shuttles, some used to weave wool and some for linen, but
-all of them, in Jowett's translation, "must contain the form or ideal (*eidos*)
-of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos* stands for
-the "universal lasting ideal" of all shuttles: exactly the opposite of
-*phantazomenōn* as "ephemeral instantiation" in the previous passage! Yet both
-*eidos* and *phantazomenōn* were reasonably translated into English as "form,"
-indicating a fundamental overloading of the concept.[^ln4-plato]
-
-G.W.F. Hegel gives perhaps the paradigmatic expression to the dichotomy
-between form and content in the literature on aesthetics. In his *Lectures on
-Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
-between its ideational, spiritual content and "the configuration of sensuous
-material" [@hegel_hegels_1998, 70]. Whole books have been written on Hegel's
-rather technical and sometimes idiosyncratic vocabulary. Rather than define
-terms precisely, Hegel likes to bombard his reader with semantic cognates. On
-the side of "content" (*Inhalt*, *Gehalt*), he evokes words like inner life
-(*Innere Lebendigkeit*), feeling (*Empfindung*), soul (*Seele*), and spirit
-(*Geist*). All of these convey a movement inward to a location (if it can be
-called such) beyond the physical world, accessible only to the spirit
-(*Geist*) or mind (*Gedanken*, *Verstand*). On the side of "form" (same in
-German), Hegel accumulates words like expression (*Ausdruck*) and presentation
-(*Darstellung*), but also lines, curves, surfaces, carvings, colors, tones,
-word sounds, and generally matter or material (*Linien*, *Krümmungen*,
-*Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*)
-[@hegel_werke:_1986, *Einleitung*]. The semantic cluster related to "forms"
-conveys physical (palpable, of this world) and outward-facing properties,
-available for examination to the senses (*Sinne*).
+The confusion persists in many English translations of G.W.F. Hegel, whose
+discussion of Platonic forms gives us another paradigmatic text in the history
+of formal aesthetics. In his *Lectures on Aesthetics*, Hegel posits classical
+art as striving to reach an equilibrium between its ideational, spiritual
+content and "the configuration of sensuous material" [@hegel_hegels_1998, 70].
+Whole books have been written on Hegel's rather technical and sometimes
+idiosyncratic vocabulary. Rather than define terms precisely, Hegel likes to
+bombard his reader with semantic cognates. On the side of "content" [*Inhalt*,
+*Gehalt*], he evokes words like inner life [*Innere Lebendigkeit*], feeling
+[*Empfindung*], soul [*Seele*], and spirit [*Geist*]. All of these convey a
+movement inward to a location (if it can be called such) beyond the physical
+world, accessible only to the spirit [*Geist*] or mind [*Gedanken*,
+*Verstand*]. On the side of "form" (same in German), Hegel accumulates words
+like expression [*Ausdruck*] and presentation [*Darstellung*], but also lines,
+curves, surfaces, carvings, colors, tones, word sounds, and generally matter
+or material [*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*,
+*Tönen*, *Wortklängen*, *Material*] [@hegel_werke:_1986, *Einleitung*]. The
+semantic cluster related to "forms" conveys physical (palpable, of this world)
+and outward-facing properties, available for examination to the senses
+(*Sinne*).
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
@@ -256,13 +262,13 @@ is "freed from this immediate existence which must be set down as negative,
 overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
 writes: "Poetry is the universal art of the spirit which has become free in
 itself and which is not tied down for its realization to external sensuous
-material; instead, it launches out exclusively in the inner space [*sic*] and
-the inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
+material; instead, it launches out exclusively in the inner space and the
+inner time of ideas and feelings" [@hegel_hegels_1998, 89]. Finally,
 "inwardness celebrates its triumph over the external and manifests its victory
 in and on the external itself, whereby what is apparent to the senses alone
 sinks into worthlessness" [@hegel_hegels_1998, 81]. Romantic art can, in this
 way, triumph over the external, material world, reaching, at its apex, what he
-calls the stage of "free concrete spirituality" (*freie konkrete Geistigkeit*)
+calls the stage of "free concrete spirituality" [*freie konkrete Geistigkeit*]
 [@hegel_werke:_1986]. The idea overcomes matter to become both free from the
 constraints of the deterministic physical universe, yet gaining a measure of
 solidity in its tangible instantiation.
@@ -272,56 +278,52 @@ of his struggle with the Platonic concept of form. In his "Lectures on
 Philosophy," Hegel writes: "The Idea is nothing but what is current with us
 under the name of the Universal, when this word is not taken in the sense of
 *formal* Universal [*formell Allgemeine*]." The formal universal for him is
-"merely a property of things," whereas Plato is concerned with the "implicitly"
-universal (as contrasted with explicitly, or formally universal). This internal
-"essence" and "in-and-for-itself existent" alone can claim to truth. Hegel
-writes: "We translate the Greek word *eidos* by 'genus' or 'species,'" but when
-"genus" or "species" are "seized as a number of similar determinations
-collected by reflection from several individuals, to serve as a *mark* for the
-convenience of the understanding, then we have the Universal in quite an
-external form" [@hegel_philosophy_1870, 250]. In other words, as soon as *eidos*
-is instantiated, it moves from being an ideal form into an apparent shape, as
-an epistemological category.
+"merely a property of things," whereas Plato is concerned with the
+"implicitly" universal (as contrasted with explicitly, or formally universal).
+This internal "essence" and "in-and-for-itself existent" lays a claim to truth
+alone. Hegel writes: "We translate the Greek word *eidos* by 'genus' or
+'species,'" but when "genus" or "species" are "seized as a number of similar
+determinations collected by reflection from several individuals, to serve as a
+*mark* for the convenience of the understanding, then we have the Universal in
+quite an external form" [@hegel_philosophy_1870, 250]. In other words, as soon
+as *eidos* is instantiated, it moves from being an ideal form into an apparent
+shape, as an epistemological category.
 
 Someone writes down "all these cats are subsumed under the category of
 'feline.'" At this moment, the ideal of "felines" becomes an ossified and
 unchanging dead thing. For Hegel, the true ideal must continue to exist and
 develop in the real world. It is not merely a socially constructed (we would
-say today) category, but something that "internally distinguishes itself" while
-remaining "free in its infinitude and independent." The best I can understand
-this is to think about the evolutionary process that continues in the species,
-even as the taxonomy describing that evolution may remain tied to its fixed
-categories. New and radically different cats may come into existence---ones no
-longer covered by the "external mark" of being a "feline." Yet this would only
-mean that the ideal of "feline" has developed past human understanding.
-Zoologists would, at that point, need simply to adjust their categories to
-include new forms of feline being. Ideal feline being moves on immediately
-thereafter, continuing to develop and leaving behind only the husk or a
-"snapshot" of what it meant to be a cat in times already past. For Hegel, one
-should not confuse that static snapshot with the animate ideal.
+say today) category, but something that "internally distinguishes itself"
+while remaining "free in its infinitude and independent." The best I can
+understand this is to think about the evolutionary process that continues in
+the species, even as the taxonomy describing that evolution may remain tied to
+its fixed categories. New and radically different cats may come into
+existence---ones no longer covered by the "external mark" of being "feline."
+Yet this would only mean that the ideal of "feline" has developed past human
+understanding.  Zoologists would, at that point, need simply adjust their
+categories to include new forms of feline being. Ideal feline being moves on
+immediately thereafter, continuing to develop and leaving behind only the husk
+or a "snapshot" of what it meant to be a cat in times already past. For Hegel,
+one should not confuse that static snapshot with the animate ideal.
 
 Hegel's "concrete universal" therefore exists in the real, physical world. One
 way to understand this difficult concept is to think of it as capturing both
 *eidos* and *phantazomenōn*---or idea and appearance, both reasonably
 transcribed to "form" in English. The very word "form" in its ordinary meaning
-can be, in that way, somewhat a self-antonym. Form could mean "the visible
+can be, in that way, somewhat of a self-antonym. Form could mean "the visible
 aspect of a thing," but also the "formative" and the "essential determinate
 principle of a thing," and, in its more obsolete meaning, "a formula, model,
 type, pattern, and example." Form, in this dual sense, sounds a lot like
 Hegel's "concrete universal," encompassing the sometimes contradictory aspects
 of the determining and the determined.
 
-These notes on Hegel are not meant to present a definitive history of formalism
-in Western aesthetics. Rather, they point to series of related folds or creases
-in that tradition, in an arrangement that repeats throughout the vast body of
-literature on the topic. The echoes of these complications will resonate later,
-within the structure of the document object model, which emerges, in its
-stratified form, from the material affordances of screen and magnetic storage
-technology in the late 1960s. The question of textual depth then gains an extra
-dimension. Where we began with binaries of depth and surface, meaning and
-matter, we end with a third: the synthetic document itself that combines
-formula and location, shape and thought, conceit and device, where the embodied
-meets the ideal.
+These notes on Hegel are not meant to present a definitive history of
+formalism in Western aesthetics. Rather, they point to series of related folds
+or creases in that tradition, in an arrangement that repeats throughout the
+vast body of literature on the topic. The imprints of these complications will
+resonate later, within the structure of the document object model, which
+emerges, in its stratified form, from the material affordances of screen and
+magnetic storage technology in the late 1960s.
 
 Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
 Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
@@ -342,39 +344,41 @@ material and the ideal worlds.
 The history of literary scholarship is also punctuated by moments of revolt
 against Hegelian reading for latent universalism. A recent conversation on the
 merits of surface reading has rekindled an interest in the archeological
-metaphor, which understands textuality in terms of depth and surface. Two types
-of reading become evident in this model. The "symptomatic" literary critic
-reaches beyond the "ephemeral" external appearances to uncover internal and
-eternal metaphysical truth within. For a Marxist critic like Terry Eagleton or
-Frederic Jameson that latent meaning may have something to do with hidden
-machinations of capital and ideology. The psychologically minded critic reads
-in search of hidden drives, desires, or cognitive structures. By contrast to
-symptomatic reading, Stephen Best and Sharon Marcus describe a constellation of
-reading practices concerned with "what is evident, perceptible, apprehensible
-in text: what is neither hidden nor hiding; what, in the geometrical sense, has
-length and breadth but no thickness, and therefore covers no depth"
-[@best_surface_2009, 9]. The authors identify a constellation of related
+metaphor, which understands textuality in terms of depth and surface. Two
+types of reading become evident in this model. The "symptomatic" literary
+critic reaches beyond the "ephemeral" external appearances to uncover internal
+and eternal metaphysical truth within. For a Marxist critic like Terry
+Eagleton or Frederic Jameson that latent meaning may have something to do with
+hidden machinations of capital and ideology. The psychologically minded critic
+reads in search of hidden drives, desires, or cognitive structures. By
+contrast to symptomatic reading, Stephen Best and Sharon Marcus describe a
+constellation of reading practices concerned with "what is evident,
+perceptible, apprehensible in text: what is neither hidden nor hiding; what,
+in the geometrical sense, has length and breadth but no thickness, and
+therefore covers no depth." The authors identify a constellation of related
 interpretation practices at the surface: reading for material surface, reading
 for verbal structure, reading for affect, reading for description, reading for
-pattern, and finally, reading for literal meaning or "just reading."
+pattern, and finally, reading for literal meaning or "just reading"
+[@best_surface_2009, 9].
 
 In the late 1960s, Susan Sontag similarly wrote about "the need for more
 attention to form in art." Interpretation can be liberating, she wrote, but it
 can also stifle creativity. It "depletes" the world in some way, placing the
 critic in a privileged and unnecessarily meddling position between reader and
-text. "If excessive stress on content provokes the arrogance of interpretation,
-more extended and more thorough descriptions of form would silence," she
-writes. "The best criticism, and it is uncommon, is of this sort that dissolves
-considerations of content into those of form" [@sontag_against_1966, 8-9].
-Marcus and Best remind the reader that Sontag's manifesto is not just an
-argument against interpretation, but also an "affective and ethical stance"
-[@best_surface_2009, 10]. Strategies of "deep" interpretation carry with them
-also a claim to access, and an imbalance of interpretive acumen. The critic
-uncovers what the lay reader does not and cannot see. As an ethical stance,
-reading for external forms flattens the hierarchy between the lay reader and
-the professional interpreter. In this sense, Best, Marcus, and Sontag continue
-in the liberal Lutheran tradition of vernacular exegesis. All men are priests
-at the surface.
+text. "If excessive stress on content provokes the arrogance of
+interpretation, more extended and more thorough descriptions of form would
+silence," she writes. "The best criticism, and it is uncommon, is of this sort
+that dissolves considerations of content into those of form"
+[@sontag_against_1966, 8-9].  Marcus and Best remind the reader that Sontag's
+manifesto is not just an argument against interpretation, but also an
+"affective and ethical stance" [@best_surface_2009, 10]. Strategies of "deep"
+interpretation carry with them also a claim to access, along with an imbalance
+of interpretive acumen. The critic claims to uncover what the lay reader does
+not and cannot see. As an ethical stance, reading for external forms flattens
+the hierarchy between the lay reader and the professional interpreter. In this
+sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
+vernacular exegesis. All readers are priests at the surface. All readers are
+capable, the critics suggest, to access
 
 Yet, from the offered strategies of surface reading, reading for form strikes
 me as the most ambivalent. It is not clear, for example, what exactly Sontag
