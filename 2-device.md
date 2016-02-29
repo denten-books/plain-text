@@ -1012,99 +1012,100 @@ determined by its initial configuration---the arrangement of tape and scanning
 apparatus---plus the scanned symbol. The scanned symbol becomes a part of
 machine "memory." In contemporary language we would say that the mechanism
 translates software into hardware, and the other way around, in a process of
-mechanical transference already suggested in Wittgenstein thought experiments.
+translation already suggested in Wittgenstein thought experiments.
 
 We imagine then a device not unlike a telegraph or a film projector, which
 ingests reels of tape. But unlike telegraphs or film projectors, the ingested
-symbolic representation becomes effectively, by definition, a part of the
-machine's internal state in a way that telegraph tape or film reels do not
-when it comes to telegraphs and film projectors. The film reel and the ticker
-tape pass through the mechanism without leaving a trace. The tape of the
-Turing machine alters the machine's internal configuration in a way that lasts
-beyond the tape's discharge from the mechanism. If you recall Wittgenstein's
-earlier thought experiments in this vein, he too spoke of humans in the
-process of reading or doing mathematics who similarly "ingest" symbols; of the
-need to internalize external symbolic states; and of affecting a change in
-mental states, on some real and empirically observable neurological level,
-that correlate to the symbol. Turing's machine was capable of such ingestion.
-It "thought," "read," and "remembered" to the extent of its capability to scan
-and internalize symbolic inscription. The Turing machine in effect gave us a
+symbolic representation becomes, by definition, a part of the machine's
+internal state in a way that telegraph tape or film reels do not when it comes
+to telegraphs and film projectors. The film reel and the ticker tape pass
+through the mechanism without leaving a trace. The tape of the Turing machine
+alters the machine's internal configuration in a way that lasts beyond the
+tape's discharge from the mechanism. If you recall Wittgenstein's earlier
+thought experiments in this vein, he too spoke of humans in the process of
+reading or doing mathematics who similarly "ingest" symbols; of the need to
+internalize external symbolic states; and of affecting a change in mental
+states, on some real and empirically observable neurological level, that
+correlate to the symbol. Turing's machine is capable of such ingestion.  It
+"thinks," "reads," and "remembers" to the extent of its capability to scan and
+internalize symbolic inscription. The Turing machine in effect gives us a
 concise and minimally viable definition of "reading" and "becoming aware."
-Proper reading for Turing simply involved the appropriate internalization of
+Proper reading for Turing simply involves the appropriate internalization of
 the symbol, for both human and machine. His machine did not just scan, it
 "read" in the Platonic sense, able to convert ideal forms into their specific
 physical instantiations: to trace the mechanism behind the symbol, something
 Wittgenstein did not think was possible.
 
-In addition to "reading," Turing's machine could also write. Turing writes
-that "in some configurations in which the scanned square is blank (*i.e.*
-bears no symbol) the machine writes down a new symbol on the scanned square"
-[@turing_computable_1937, 231]. The machine could also erase and move symbols
-to adjacent squares, one square at a time. Reading, writing, and symbolic
-manipulation were all actions at the core of Turing's computation. More than
-just reading, Turing's machine reading was capable of altering the rules of
-scansion. If we take "reading" to initially entail "moving our eyes from left
-to right," for example, we must also imagine machine symbols that stand for
-instructions like "now move from right to left." The configuration state of
-the machine determined the movement of the "reading" and "writing" apparatus
-along the surface of the tape. Unlike an analog watch, to use a simple
-example, the mechanism of the Turing machine was not "set in stone." It could
-alter its own inner works. In this action, some of the scanned symbols
-represented computable numbers, or data as we would say today, on which
-computation is performed. Yet other symbols represented machine instructions,
-which defined the rules of computation. These type of instructional symbols
-directed the movement of the reading and writing head. They told the machine
-to "write," "scan," or "erase" symbols. Today, we would call such instructions
-"programs" or "control codes." Control codes and computed data within a Turing
-machine form a part of the same continuous stream of information. Computation,
-in the Turing sense, entails the transference between symbolic and solid
-states of being.
+In addition to "reading," Turing's machine also writes. Turing writes that "in
+some configurations in which the scanned square is blank (*i.e.* bears no
+symbol) the machine writes down a new symbol on the scanned square"
+[@turing_computable_1937, 231]. The machine is capable also of erasing and
+moving symbols to adjacent squares, one square at a time. Reading, writing,
+and symbolic manipulation are all actions at the core of Turing's computation.
+More than just reading, Turing's machine reading is capable of altering the
+rules of scansion. If we take "reading" to initially entail "moving our eyes
+from left to right," for example, we must also imagine machine symbols that
+stand for instructions like "now move from right to left." The configuration
+state of the machine determines the movement of the "reading" and "writing"
+apparatus along the surface of the tape. Unlike an analog watch, to use a
+simple example, the mechanism of the Turing machine is not "set in stone." It
+is capable of altering its own inner works. In this action, some of the
+scanned symbols represent computable numbers, or data as we would say today,
+on which computation is performed. Yet other symbols represent machine
+instructions, which define the rules of computation. This type of
+instructional symbols directs the movement of the reading and writing heads,
+which "write," "scan," or "erase" symbols. Today, we would call such
+instructions "programs," "applications," or "software." Control codes and
+computed data within a Turing machine form a part of the same continuous
+stream of information. Computation, in the Turing sense, entails the
+transference between symbolic and solid states of being.
 
-Just as the Turing machine was able, in theory, to convert symbolic
-representation into internal configuration states, it could conversely enact
-the opposite movement, by representing internal configuration states
-symbolically. This remarkable property has allowed for the creation of what
-Turing calls a class of *universal* machines as distinct from mere
-single-purpose computers. Specific Turing machines could be configured to
-preform specific actions like addition or multiplication. But the
-multiplication machine could not, for example, be reconfigured for another
-purpose, because the physical movement of its internals is fixed. An
-electronic scale, for example, is built for one purpose only. It cannot be
-used for word processing or the calculation of missile trajectories. An adding
-machine can only add. The universal Turing machine by contrast had the ability
-to internalize *other machine configurations*. Such a machine could "compute
-any computable sequence" [@turing_computable_1937, 241]. In being able to
-internalize physical configuration as symbol, the *universal* Turing machine
-gained the ability to simulate all other special-purpose Turing machines, as
-long as these machines could be represented symbolically and ingested. For
-this reason, Turing computation excluded mechanical actions like hammering
-nails or harvesting grain. The Turing machine simulates all other symbolic
-manipulations.
+Just as the Turing machine is able, in theory, to convert symbolic
+representation into internal configuration states, it can conversely enact the
+opposite movement, by representing internal configuration states symbolically.
+This remarkable property allows for the creation of what Turing calls a class
+of *universal* machines, distinct from mere single-purpose computers.
+Specific Turing machines can be configured to preform specific actions like
+addition or multiplication. But the multiplication machine cannot, for
+example, be reconfigured for another purpose, because the physical movement of
+its internals is fixed. An electronic scale, for example, is built for one
+purpose only. It cannot be used for word processing or for the calculation of
+missile trajectories. An adding machine can only add. The universal Turing
+machine by contrast has the ability to internalize *other machine
+configurations*. Such a machine can, in Turing's words, "compute any
+computable sequence" [@turing_computable_1937, 241]. In being able to
+internalize physical configuration as symbol, the universal Turing machine
+gains the ability to simulate all other special-purpose Turing machines, as
+long as these machines are amenable to symbolic representation. For this
+reason, Turing computation excludes non symbolic, mechanical action like
+hammering nails or harvesting grain. The Turing machine simulates symbolic
+manipulations. It is a trace of a trace; a diagram of diagrams.
 
 The transition of symbols into machine states (and the other way around)
-defines modern programming. A universal machine, unlike other, definitive,
-single-purpose and limited-state mechanisms (a clock for example), contains
+defines modern programming. Unlike other, definitive, single-purpose and
+limited-state mechanisms (a clock for example), a universal machine contains
 the ability to take on differing internal symbolic configurations. It can
-imitate a clock, an abacus, a scale, a book. In a later, post-war, paper
-linking computing machinery and intelligence, Turing implied also that it
-could eventually simulate human thought
-[@turing_computing_1950].[^ln1-compete] But the idea was already present in
-the opening lines of he 1936 paper.
+imitate a clock, an abacus, a scale, a book. In a later paper that links
+computing machinery and intelligence, Turing implied also that his machine
+could eventually simulate human thought, because as we saw human thought is in
+itself a type of a symbolic manipulation
+[@turing_computing_1950].[^ln1-compete]
 
-The universal Turing machine finally encapsulated a model of computation
-itself. It was capable of computing anything computable. In substituting the
+The universal Turing machine finally encapsulates a model of computation
+itself. It is capable of computing anything computable. In substituting the
 concept of computability with "effective computability" Turing's paper belongs
 to the annals of mathematical theory. But, it continues to elicit conflicting
 responses widely because much of it contains also the tantalizing
 possibilities that bare on symbolic manipulation generally, including ideas
-about human cognition and comprehension. From its opening lines, we were asked
+about human cognition and comprehension. From its opening lines, we are asked
 to consider the similarity between humans and machines in the process of
-computation. Turing consistently describes machine states in terms of "states
-of mind," "awareness," and "memory." These descriptions hint at the impact of
-computation more broadly, beyond mathematical theory. Besides mathematical
-proof, the paper offers an experimental, ludic even, enterprise in the spirit
-of Wittgenstein's playful experimentation, which often involved altered states
-of mind, drugs, delirium, madness, and outright deception.
+thinking. Turing consistently describes machine states in terms of "states of
+mind," "awareness," and "memory." These descriptions hint at the impact of
+computation more broadly, beyond mathematical theory. Besides offering a
+mathematical proof, the paper embarks on an experimental, ludic even,
+enterprise in the spirit of Wittgenstein's playful experimentation, which
+often involved altered states of mind, drugs, delirium, madness, and outright
+deception.
 
 Reconstructing the influence of Wittgenstein's thought on Turing confirms the
 unexpected place of Turing's "On Computability" in the conversation about
@@ -1119,9 +1120,9 @@ Through Turing's well-documented involvement in Government Code and Cypher
 School (GC&CS) at Bletchley Park, actual Turing machines changed the nature of
 warfare: used at first to break encrypted military communications and then to
 compute missile trajectories. But as I have argued here, Turing machines also
-changed humanity's relationship with symbolic thought. They belong to an
+changed humanity's relationship to symbolic thought. They belong to an
 intellectual tradition of distinctly humanist thinking about reading, writing,
-and interpretation.
+text, and interpretation.
 
 ### 2.3 Towards the Device
 
