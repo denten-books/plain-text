@@ -880,7 +880,7 @@ lecture will have to be somewhat parenthetical. For it is not good my getting
 the rest to agree to something that Turing would not agree to"
 [@wittgenstein_wittgensteins_1976, 67-68].
 
-Like he did with the notebooks beforehand, Wittgenstein structures his
+Like he did with the notebooks beforehand, Wittgenstein structured his
 lectures around the problem of symbolic interpretation. "I am going to talk
 about the interrelation of mathematical symbols," Wittgenstein begins. We
 imagine that logical laws represent some sort of "fixed" mechanisms "behind"
@@ -904,18 +904,20 @@ We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
 the mechanism behind the [watch] dial, you will be able to predict the
 movement of the hour hand for any given movement of the minute hand,"
-Wittgenstein writes. "And you will not be sceptical." Yet even there, we would
-be making an assumption about a mechanism that *functions well*. "For
-instance, I may drop the clock" Wittgenstein explains, "so that the machinery
-is broken, or a lighting may strike it [@wittgenstein_wittgensteins_1976,
-195]. How are we to know if the mechanism functions properly or not? For that
-we would need "a picture" or some sort of schematics that describe what the
-proper mechanism should look like. The mechanism is in fact itself a type of a
-symbol for the perfected behavior of the sort that we expect. Where we tried
-to find the mechanism behind the symbol, we found also the symbol behind the
-mechanism. Once again we struggle to complete the circuit of interpretation
-between intent and effect, which never quite manage to explain and to verify
-each other.
+Wittgenstein writes. But once again, how do we know if the mechanism is
+functioning properly? For example, I may drop the clock, Wittgenstein
+explains, "so that the machinery is broken, or a lighting may strike it
+[@wittgenstein_wittgensteins_1976, 195]. The check the mechanism for damage we
+need "a picture," a diagram, or some sort of schematics that describe what the
+properly functional mechanism looks like. The mechanism is in fact itself a
+type of a symbol for the perfected behavior of the sort that we expect. We can
+compare the broken clock with a clock that works, for example. Where we tried
+to find the mechanism behind the symbol, we find also the symbol behind the
+mechanism. But also we again struggle to complete the circuit of
+interpretation between intent and effect, which never quite manage to explain
+and to verify each other. How do we know that our "gold standard" working
+clock is itself functioning properly? We are faced with a series of receding
+analogies.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
 conundrum. The foundations of mathematics rely on some such mutually dependent
@@ -925,23 +927,23 @@ sign. The precise point of contact concerns Wittgenstein in all fields of
 human activity, from literature to psychology and mathematics. In all of these
 fields, Wittgenstein finds an implicit analogy between "symbol" and
 "mechanism." A type of metaphor, the analogy itself is atomic. It cannot be
-split further into something like "sign" and "referent" or the "signifier" and
-the "signified." Considered apart, the two parts of the metaphor are strictly
+split further into something like sign and referent, or signifier and
+signified. Considered apart, the two parts of the metaphor are strictly
 meaningless. In his lectures on aesthetics, Wittgenstein describes such a
 semiotic relationship as the "concomitance between mechanism and its trace"
 [@wittgenstein_lectures_1966, 16]. In giving an account of one's aesthetic
-judgment, the best we can do is to "trace a mechanism"
+judgment, the best we can do is to "trace a mechanism," Wittgenstein writes
 [@wittgenstein_lectures_1966, 13].
 
 It would be a mistake however to reduce Wittgenstein's semiotics simply to the
 mechanical theory of language or the mind. Rather, in presenting his students
 and readers with a number of hypothetical machines, Wittgenstein attempts to
-discover the "rule book" of what he later calls language games---or at lest to
-suggest that such a rulebook might exist. Much has been written on this aspect
-of Wittgenstein's thought and its relation to Bertrand Russel's symbolic logic
-and subsequently to Chomsky's development of the "universal grammar"
-[ln2-chomchom]. In the context of our conversation, Wittgenstein's "middle
-period" is important for its direct influence on Turing's model of
+discover the "rule book" of what he later calls a language game---or at lest
+to suggest that such a rulebook might exist. Much has been written on this
+aspect of Wittgenstein's thought and its relation to Bertrand Russel's
+symbolic logic and subsequently to Chomsky's development of the "universal
+grammar" [ln2-chomchom]. In the context of our conversation, Wittgenstein's
+"middle period" is important for its direct influence on Turing's model of
 computation.
 
 [ln2-chomchom]: I make this connection with many caveats and with the
@@ -966,27 +968,28 @@ needs only the following three components: (a) a storage medium capable of
 holding symbolic inscription, (b) a reading and writing mechanism to operate
 on the symbols, and (c) a way to transform external symbolic states into
 internal states of the mechanism. Given these three characteristics, the
-machine becomes a universal mechanism. The universal Turing machine can take
-on the function of any other machine, as long as that machine's internal
-states are amenable to symbolic representation. The universal machine takes
-machine states as its input. In Wittgenstein's terms, it is a machine that
-"traces the mechanism" of all other forms of symbolic manipulation. In this
-lies the essence of a Turing computer.
+machine becomes a universal mechanism. The universal Turing machine can assume
+the function of any other machine, as long as that machine's internal states
+are amenable to symbolic representation. Symbolic machine states comprise the
+input of the universal machine. In Wittgenstein's terms, Turing imagines a
+mechanism able to "trace the mechanism" of all other forms of symbolic
+manipulation. In this lies the essence of universal Turing computation.
 
-Let us unpack more carefully. Turing begins his paper as we would expect from
-Wittgenstein's lineage, with an analogy: "we may compare a man in the process
-of computing a real number to a machine that is only capable of a finite
-number of conditions" [@turing_computable_1937, 231]. In effect, he asks his
-readers to compare computation, a human mental process, to the mechanical
-action of a machine. As Charles Petzold explained it in his book-length
-annotation on Turing's paper, Turing "makes reference to 'states of mind' that
-are analogous to machine states" [@petzold_annotated_2008, 67]. When read in
-the context of Wittgenstein's thought experiments, it becomes clear that the
-analogy itself is a kind of a provocation. Neither mathematicians nor
-philosophers of mind agreed then nor do they now on the extent to which states
-of mind can be compared to discrete machine states. Turing provocatively
-slides into the language of cognition to reinforce the analogy between mind
-and mechanism. His machines "think" and his humans "compute" throughout.
+Let us examine the machine more carefully. Turing begins his paper as we would
+expect from Wittgenstein's lineage, with an analogy: "we may compare a man in
+the process of computing a real number to a machine that is only capable of a
+finite number of conditions" [@turing_computable_1937, 231]. In effect, he
+asks his readers to compare computation, a human mental process, to the
+mechanical action of a machine. As Charles Petzold explained it in his
+book-length annotation on Turing's paper, Turing "makes reference to 'states
+of mind' that are analogous to machine states" [@petzold_annotated_2008, 67].
+When read in the context of Wittgenstein's thought experiments, it becomes
+clear that the analogy itself is a kind of a provocation. Neither
+mathematicians nor philosophers of mind agreed then nor do they now on the
+extent to which states of mind can be compared to discrete machine states.
+Turing provocatively slides into the language of cognition to reinforce the
+analogy between mind and mechanism. His machines "think" and his humans
+"compute" throughout.
 
 Turing further imagines a machine "supplied with a 'tape' (the analogue of
 paper) running through it, and divided into sections (called 'squares') each
