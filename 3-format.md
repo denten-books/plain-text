@@ -1,4 +1,4 @@
-## Chapter 3: Form, Formula, Formatting
+## Chapter 3: Form, Formula, Format
 
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -17,17 +17,17 @@ non-representational, tactical character. Stripped of references,
 resemblances, and designations the programmatic sign commands and controls.
 
 Unlike figurative language, machine control languages function in the
-imperative. They do not stand for action---they are action. Code represents
-only the exercise of power. More binding than the "speech acts" J.L. Austin,
-control codes arrange and regulate. The difference between representation and
-control is one of brute force. It lies in the distinction between a
-restraining order and physical restraint. A restraining order *represents* the
-calling forth of codified power. Physical restraints like handcuffs *enact*
-the exercise of codified power. Like all violence they do not stand for
-anything. Stripped of references, resemblances, and designations, they are in
-themselves an arrangement and rearrangement of matter. The handcuffs contort
-the body into the shape of submission. Absent a body, the restraints draw an
-empty shape.
+imperative. They do not stand for action---they are action. More binding than
+the "speech acts" J.L. Austin, control codes arrange and regulate. Code is an
+exercise of power, not its representation. The difference between
+representation and control is one of brute force. It lies in the distinction
+between a restraining order and physical restraint. A restraining order
+*signifies* the calling forth of codified power. Physical restraints like
+handcuffs *enact* the exercise of codified power. Like all violence they do
+not stand for anything. Stripped of references, resemblances, and
+designations, they are in themselves an arrangement and rearrangement of
+matter. The handcuffs contort the body into the shape of submission. Absent a
+body, the restraints draw an empty shape.
 
 Code acts similarly to shape the word. Located somewhere between the screen
 and the storage medium, formatting relates matter to content. It is a
@@ -133,7 +133,12 @@ inward-facing, and in need of explication. Form in that sense is closer to the
 idea of an algorithm of a formula. In this chapter, I would like to introduce
 the concept of formatting into the critical discourse and to show how
 formatting affects our ability to read and interpret everyday digital
-documents.
+documents. I propose we begin with a historically-grounded theoretical
+discussion about formalism and end with a media history of something called
+the Document Object Model. This formal construct governs the structure of most
+modern digital documents. It embodies a particular kind of formalism and
+therefore helps us test some of our theoretical intuitions about form,
+formulae, and format in practice.
 
 ### 3.1 Form and Formula
 
