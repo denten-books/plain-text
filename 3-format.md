@@ -154,7 +154,7 @@ modern textual artifacts. It embodies a particular kind of formalism and
 therefore helps us test some of our theoretical intuitions about form,
 formulae, and format in practice, immediately at hand.
 
-### 3.1 Form and Formula
+### 3.1 Formalisms
 
 The intellectual history of formalist thought in literary theory contains
 within it at least these two distinct and contradictory ideas about form: one
@@ -173,12 +173,10 @@ that sense studies not specific traces or utterances, but rather the
 development of ideal forms, which exist independent of any specific
 instantiation. Form in that sense constitutes an abstraction, leading to
 generalized historical categories like genre and period. Our ideas about "the
-novel," for example, or "modernism," or "post-colonial theory" reflect
+novel," for example, or "modernism," or "post-colonial theory" reflect formal
 groupings of that kind. Where palpable form leads to immanent material
 artifacts, the abstracted notion of form leads to transcendent, universal
 ideals.
-
-<! problem in this transition, why the move to content? >
 
 The related distinction between "form" and "content" is one of the basic
 binaries in any formalism, mobilized often in literary criticism and computer
@@ -220,16 +218,16 @@ Descartes, Timaeus notices that some elements, like water, change their
 appearance [*phantazomenōn*] while remaining essentially the same substance.
 Benjamin Jowett translates the passage:
 
-> Thus, then, as the several elements never present themselves in the same form
-> [*phantazomenōn*], how can anyone have the assurance to assert positively
-> that any of them, whatever it may be, is one thing rather than another?
-> [@plato_timaeus_1998, 49d]
+> Thus, then, as the several elements never present themselves in the same
+> form [*phantazomenōn*], how can anyone have the assurance to assert
+> positively that any of them, whatever it may be, is one thing rather than
+> another?  [@plato_timaeus_1998, 49d]
 
 In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
 "appearance":
 
 > Accordingly, since no one of these ever remains identical in
-> appearance,[*phantazomenōn*] which of them shall a man definitely affirm to
+> appearance [*phantazomenōn*], which of them shall a man definitely affirm to
 > be any one particular element and no other without incurring ridicule?
 > [@plato_plato_1955, 48d]
 
@@ -368,45 +366,6 @@ had" [@wimsatt_structure_1947, 280]. Hegel's "concrete universal" formula
 captures an essential property of literature in its dual movement between the
 material and the ideal worlds.
 
-The history of literary scholarship is also punctuated by moments of revolt
-against Hegelian reading for latent universalism. A recent conversation on the
-merits of surface reading has rekindled an interest in the archeological
-metaphor, which understands textuality in terms of depth and surface. Two
-types of reading become evident in this model. The "symptomatic" literary
-critic reaches beyond the "ephemeral" external appearances to uncover internal
-and eternal metaphysical truth within. For a Marxist critic like Terry
-Eagleton or Frederic Jameson that latent meaning may have something to do with
-hidden machinations of capital and ideology. The psychologically minded critic
-reads in search of hidden drives, desires, or cognitive structures. By
-contrast to symptomatic reading, Stephen Best and Sharon Marcus describe a
-constellation of reading practices concerned with "what is evident,
-perceptible, apprehensible in text: what is neither hidden nor hiding; what,
-in the geometrical sense, has length and breadth but no thickness, and
-therefore covers no depth." The authors identify a constellation of related
-interpretation practices at the surface: reading for material surface, reading
-for verbal structure, reading for affect, reading for description, reading for
-pattern, and finally, reading for literal meaning or "just reading"
-[@best_surface_2009, 9].
-
-In the late 1960s, Susan Sontag similarly wrote about "the need for more
-attention to form in art." Interpretation can be liberating, she wrote, but it
-can also stifle creativity. It "depletes" the world in some way, placing the
-critic in a privileged and unnecessarily meddling position between reader and
-text. "If excessive stress on content provokes the arrogance of
-interpretation, more extended and more thorough descriptions of form would
-silence," she writes. "The best criticism, and it is uncommon, is of this sort
-that dissolves considerations of content into those of form"
-[@sontag_against_1966, 8-9].  Marcus and Best remind the reader that Sontag's
-manifesto is not just an argument against interpretation, but also an
-"affective and ethical stance" [@best_surface_2009, 10]. Strategies of "deep"
-interpretation carry with them also a claim to access, along with an imbalance
-of interpretive acumen. The critic claims to uncover what the lay reader does
-not and cannot see. As an ethical stance, reading for external forms flattens
-the hierarchy between the lay reader and the professional interpreter. In this
-sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
-vernacular exegesis. All readers are priests at the surface. All readers are
-capable, the critics suggest, of forming their own interpretation.
-
 In an earlier counterinsurgency against reading for content, at the turn of
 the twentieth century, Russian and Italian formalists similarly strove to
 break with Hegelian normative aesthetics by wedding the project of literary
@@ -529,6 +488,80 @@ the center of formalist poetics. As critics, the formalists privileged moments
 of mystic and trans-rational [*zaum*] poetic rebellion against static literary
 forms. As literary scholars, they reached for Hegel's concrete universal in
 the guise of trans-human formulae that have a life of their own.
+
+The notion of a "format" occupies the conceptual space somewhere between form
+as intrinsic formula and form as extrinsic shape. In what remains a singular
+article-length treatment on the topic in literary studies, G. Thomas Tanselle
+approaches the concept of formatting from the point of view of textual
+criticism---the practice of compiling, editing, annotating, preserving, and
+publishing scholarly critical editions of (often) canonical texts. For
+Tanselle's purposes, the concept of formatting addresses narrowly something
+like "the number of page units placed on the press at one time"
+[@tanselle_concept_2000, 112-3]. He acknowledges, however, that more broadly
+speaking, formats refer also to the "nature and the order of the contents"
+[@tanselle_concept_2000, 67-8]. In this way we may speak of soap operas as a
+format for daytime television. The format of a journal may be a "broadsheet
+daily" or a "tabloid." Unlike the more narrow term, genre, format identifies
+both a particular kind and a particular structuring of content. The novel is a
+genre, where the paperback is its common format. A paperback implies not only
+the physical shape of the book, but also a method of manufacturing and
+distribution, along with the *kind* of content. We do not expect scientific
+textbooks in paperback, for example, just as we would not expect tabloids to
+be printed on expensive stock or to support long-form investigative
+journalism. The format captures something about the shape, the design, the
+style, and the thematics of the subject matter; it connects, in other words,
+the where to the what, the how, and in what order.
+
+Tanselle's definitions help identify the two key components implicit in the
+concept of format as both process and structure that relate the medium of the
+work to its content:
+
+> `medium > process > structure > content`
+
+In the case of books, text appears to us as structure of a particular shape
+(pages and paragraphs) embedded into a medium (paper or pixel), in particular
+ways. The kind of close reading
+
+### 3.2 Strategies of Reading
+
+The history of literary scholarship is also punctuated by moments of revolt
+against Hegelian reading for latent universalism. A recent conversation on the
+merits of surface reading has rekindled an interest in the archeological
+metaphor, which understands textuality in terms of depth and surface. Two
+types of reading become evident in this model. The "symptomatic" literary
+critic reaches beyond the "ephemeral" external appearances to uncover internal
+and eternal metaphysical truth within. For a Marxist critic like Terry
+Eagleton or Frederic Jameson that latent meaning may have something to do with
+hidden machinations of capital and ideology. The psychologically minded critic
+reads in search of hidden drives, desires, or cognitive structures. By
+contrast to symptomatic reading, Stephen Best and Sharon Marcus describe a
+constellation of reading practices concerned with "what is evident,
+perceptible, apprehensible in text: what is neither hidden nor hiding; what,
+in the geometrical sense, has length and breadth but no thickness, and
+therefore covers no depth." The authors identify a constellation of related
+interpretation practices at the surface: reading for material surface, reading
+for verbal structure, reading for affect, reading for description, reading for
+pattern, and finally, reading for literal meaning or "just reading"
+[@best_surface_2009, 9].
+
+In the late 1960s, Susan Sontag similarly wrote about "the need for more
+attention to form in art." Interpretation can be liberating, she wrote, but it
+can also stifle creativity. It "depletes" the world in some way, placing the
+critic in a privileged and unnecessarily meddling position between reader and
+text. "If excessive stress on content provokes the arrogance of
+interpretation, more extended and more thorough descriptions of form would
+silence," she writes. "The best criticism, and it is uncommon, is of this sort
+that dissolves considerations of content into those of form"
+[@sontag_against_1966, 8-9].  Marcus and Best remind the reader that Sontag's
+manifesto is not just an argument against interpretation, but also an
+"affective and ethical stance" [@best_surface_2009, 10]. Strategies of "deep"
+interpretation carry with them also a claim to access, along with an imbalance
+of interpretive acumen. The critic claims to uncover what the lay reader does
+not and cannot see. As an ethical stance, reading for external forms flattens
+the hierarchy between the lay reader and the professional interpreter. In this
+sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
+vernacular exegesis. All readers are priests at the surface. All readers are
+capable, the critics suggest, of forming their own interpretation.
 
 Where we started with a dichotomy, we arrive at a tripartite model of
 textuality in which form bridges matter and content. The history of Western
@@ -668,7 +701,7 @@ things seem to be in play rather than two: matter, form, and content. And of
 these, form sometimes falls into the category of meaningless matter and
 sometimes into semantic-carrying ideation: form, the indeterminate.
 
-### 3.2 Document Object Model
+### 3.3 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
@@ -889,7 +922,7 @@ conditions of contemporary text production.
 necessarily correspond to text structures at "user terminal" or "line printer"
 levels [@madnick_script_1968, 98].](images/script.png)
 
-### 3.3 Smart Contracts
+### 3.4 Smart Contracts
 
 Exposing the Document Object Model that governs the production of text through
 contemporary reading and writing devices gives the question of surface and
