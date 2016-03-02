@@ -163,24 +163,32 @@ formula that governs semiosis. The distinction is important because it leads
 to several conflicting strategies of interpretation. Taken in the sense of
 "outwards shape," form suggests an aesthetics or even an "erotics" of art
 [@sontag_against_1966]. In this view, a sign is forever embedded into the
-specific contexts of inscription or utterance. The material peculiarity of a
-word makes it forever different from the same word on a different page.
-Formalism in this sense is concerned with the palpable, physical attributes of
-a text. Understood as formula, form suggests a more analytical approach, aimed
-at explicating the hidden structure that governs the production of text.
-Formal analysis in that sense studies not specific traces or utterances, but
-rather the development of ideal forms, which exist independent of any specific
-instantiation.
+specific contexts of inscription and/or reception. The material peculiarity of
+a word makes it forever different from the same word on a different page.
+Formalism in this sense is concerned with the palpable, outward physical
+attributes of text. Understood as formula, form suggests a more analytical
+approach, aimed at explicating the inward structures---rules, patterns,
+archetypes---that shape the production of text from within. Formal analysis in
+that sense studies not specific traces or utterances, but rather the
+development of ideal forms, which exist independent of any specific
+instantiation. Form in that sense constitutes an abstraction, leading to
+generalized historical categories like genre and period. Our ideas about "the
+novel," for example, or "modernism," or "post-colonial theory" reflect
+groupings of that kind. Where palpable form leads to immanent material
+artifacts, the abstracted notion of form leads to transcendent, universal
+ideals.
 
-The distinction between "form" and "content" is one of the basic binaries in
-any formalism, mobilized often in literary criticism and computer science
-alike.  "Classical art, in a word, stands for form," R.G.  Collingwood wrote
-in 1929, and "romantic art for content" [@collingwood_form_1929, 335].  In a
-much more recent work on computational text generation, Kathleen McKeown wrote
-that to produce discourse, writers and speakers "must decide what to say and
-how to present it effectively." A machine that generates text should, among
-other things, be able to determine the "content and textual shape" of what
-needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
+<! problem in this transition, why the move to content? >
+
+The related distinction between "form" and "content" is one of the basic
+binaries in any formalism, mobilized often in literary criticism and computer
+science alike. "Classical art, in a word, stands for form," R.G.  Collingwood
+wrote in 1929, and "romantic art for content" [@collingwood_form_1929, 335].
+In a much more recent work on computational text generation, Kathleen McKeown
+wrote that to produce discourse, writers and speakers "must decide what to say
+and how to present it effectively." A machine that generates text should,
+among other things, be able to determine the "content and textual shape" of
+what needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
 influential essay "Print Is Flat, Code Is Deep," Katherine Hayles wrote about
 "the interplay between a text's physical characteristics and its signifying
 strategies" [@hayles_print_2004, 72].
