@@ -1124,7 +1124,7 @@ changed humanity's relationship to symbolic thought. They belong to an
 intellectual tradition of distinctly humanist thinking about reading, writing,
 text, and interpretation.
 
-### 2.4 Towards the Device
+### 2.4 Device
 
 It is important to remember that in 1936 Turing's machine remained a thought
 experiment---not yet an actual device. Literature in computer science tends to
@@ -1299,8 +1299,12 @@ implemented in virtual worlds like *Wireworld* (a cellular automaton
 simulation), or *Minecraft* (a procedurally generated sand-box
 world-exploration game)?
 
+<!--
+
 ![Universal Turing machine as an idea. "Nick Gardner's *Wireworld* multiplier,
 via a Turing machine."](images/turing-idea.png)
+
+-->
 
 At the very least, we must admit that such simulations do not rest on the
 immaterial "turtles all the way down," unless that is, one believes that the

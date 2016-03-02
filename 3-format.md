@@ -56,51 +56,55 @@ lies in the stuff within. Words come in other shapes and sizes. The outer
 container is disposable and therefore insignificant.
 
 Formats could only seem insignificant in the past when they were few and
-simple. The transition between static and composable media necessitates
-renewed attention to the formatting layer of meaning making. What you saw is
-what you got on the page. On the screen, what you see is but a small part of
-what you get. The content---all that is contained on a page---shifts beneath
-the projected image. In print, content can be gleaned from the surface. There
-is nothing but surface on a page. The screen is a layered surface. Sandwiched
-between panes of glass, liquid crystal moves in response to electrical
-modulation. The ebb and flow of electricity in turn reflects yet another layer
-of codification, inscribed onto yet other recondite planes of inscription. A
-byte, made up of eight binary bits, holds a letter. The string of letters
-spelling out "hello world" occupies eleven bytes, if you count the space. A
-file in the Portable Document Format (`.pdf`) containing nothing but "hello
-world" takes up 24,335 bytes on my system. Encoding accounts for the disparity
-between plain text and fancy text, the latter defined as "text representation
-consisting of plain text plus added information"
-[@unicode_consortium_unicode_1990].
+simple. The transition between static and composable, dynamic media
+necessitates renewed attention to the formatting layer of meaning making. What
+you saw is what you got on the page. On the screen, what you see is but a
+small part of what you get. The content---all that is contained on a
+page---shifts beneath the projected image. In print, content can be gleaned
+from the surface. There is nothing but surface on a page. The screen is a
+layered surface. Sandwiched between substrates of glass, liquid crystal moves
+in response to electrical modulation. The ebb and flow of electricity in turn
+reflects yet another layer of codification, inscribed onto yet other recondite
+planes of inscription. A byte, made up of eight binary bits, holds a letter.
+The string of letters spelling out "hello world" occupies eleven bytes on the
+hard drive.[^ln3-space] A file in the Portable Document Format (`.pdf`)
+containing nothing but "hello world" takes up 24,335 bytes on my system.
+Encoding accounts for the disparity between plain text and fancy text, the
+latter defined as "text representation consisting of plain text plus added
+information" [@unicode_consortium_unicode_1990].
+
+[^ln3-space]: Ten bytes for the letters and one byte for the space character.
 
 What is the nature of this "added information?" Historically, the added
 information included machine instructions for viewing and printing text,
 encoding, or encryption, used for clandestine communication. The Portable
-Document Format specifically can also contain features that enable--and I
-quote the exact specifications here---"accessibility of content to those with
-disabilities," "digital signatures to certify authenticity," "electronic forms
-to gather data," "preservation of document fidelity independent of the device,
-platform, and software," and "security and permission to allow the creator to
-retain control of the document and associated rights" [@iso_portable_2008,
-vii]. These capabilities operate somewhere between the visible content and
-stored information. More than passive conduits of meaning, electronic texts
-contain the rules for engagement between authors and their readers. In our
-example, the Portable Document Format encodes among other things ideas about
-"reading," "authenticity," "fidelity," "preservation," and "authorship."
-Whatever literary theoretical framework the reader brings to the process of
-interpretation must therefore meet the framework implicit in the electronic
-text itself. Such an encounter happens not on the level of representation or
-ideology, but on the level of the physical, the phatic, and the imperative,
-where formatting and control codes reside.
+Document Format (PDF) specifically can also contain features that enable--and
+I quote the exact specifications here---"accessibility of content to those
+with disabilities," "digital signatures to certify authenticity," "electronic
+forms to gather data," "preservation of document fidelity independent of the
+device, platform, and software," and "security and permission to allow the
+creator to retain control of the document and associated rights"
+[@iso_portable_2008, vii]. These capabilities operate somewhere between the
+visible content and stored information. The formatting layer specifies the
+*affordances* of electronic text. More than passive conduits of meaning,
+electronic texts thus carry within them the rules for engagement between
+authors and their readers. In our example, the Portable Document Format
+encodes among other things ideas about "reading," "authenticity," "fidelity,"
+"preservation," and "authorship." Whatever literary theoretical framework the
+reader brings to the process of interpretation must therefore meet the
+affordances encoded into the electronic text itself. Such an encounter happens
+not on the level of representation or ideology, but on the level of the
+physical, the phatic, and the imperative, where formatting and control codes
+reside.
 
 The familiar paper paragraph structure already presents several interesting
 problems for analysis. In claiming typographical space on a page the paragraph
-suggests corresponding mental units. A unit of written language thus also
-becomes in some sense a unit of thought. But no such structures as paragraphs
-exist in the mind. Physiologically, the brain arranges information otherwise.
-Things get significantly more complicated when the paragraph mediates between
-the mind and the page on the one side of comprehension, and the page and the
-machine on the other.
+suggests corresponding mental units. A unit of text becomes also a unit of
+thought. But no such structures as paragraphs exist in the mind.
+Physiologically, the brain arranges information otherwise. Things get
+significantly more complicated when the paragraph mediates between the mind
+and the page on the one side of comprehension, and the page and the machine on
+the other.
 
 ![Forms and formats.](images/forms.png)
 
@@ -110,35 +114,45 @@ the arrangement of bits along the surface of the magnetic disk or the solid
 state drive. If we could peek inside the machine, we would see forms and
 structures particular to those media. The analysis of computational forms
 requires new formalisms and new critical vocabularies capable of drawing
-correspondences between disparate structures. We are presented with metaphors
-of paragraphs, pages, files, and folders. Screen representations of
-paragraphs, pages, files, and folders look like their counterparts on the
-page, yet they represent other structures in the head, and yet other
-structures on the disk. The metaphor thus mediates between mental
+correspondences between disparate structures. We are at the moment presented
+with metaphors of paragraphs, pages, files, and folders. Screen
+representations of paragraphs, pages, files, and folders look like their
+counterparts on the page, yet they represent other structures in the head, and
+yet other structures on the disk. The metaphor thus mediates between mental
 image---information stored in the head---and inscription---information stored
-in the machine. As Alexander Galloway wrote in his *The Interface Effect*, the
-nature of the interface stems from the incompatibility between incommensurate
-systems [@galloway_interface_2012, viii]. The interface is also a metaphor
-that transports structure from one entity to the other, at the point of
-contact between human and machine.
+in the machine. The nature of the interface between these disparate symbolisms
+stems from the incompatibility between incommensurate systems. Format
+specifications govern the transference of data structures from one medium into
+the other, at the point of contact between human, symbol, and machine.
 
-Formatting structures facilitate the conversion of machine-readable codes into
-human-readable text. Yet formatting continues to elude the critical gaze
-because the very concept of form, central to literary analysis, contains in it
-two conflicting ideas. Going back to reception of Plato, Hegel, and the
-Russian formalists, the English "form" renders at times the material, outward,
-and apparent shape of something said or pictured. Yet just as often, critics
-use "form" in the sense of a Platonic ideal: abstracted from matter,
-inward-facing, and in need of explication. Form in that sense is closer to the
-idea of an algorithm of a formula. In this chapter, I would like to introduce
-the concept of formatting into the critical discourse and to show how
+[^ln3-symbolisms]: I am combining the vocabulary of Wittgenstein from the
+previous chapter with Alexander Galloway's. See @galloway_interface_2012,
+viii.
+
+Formatting rules facilitate the conversion of machine-readable codes into
+human-readable text. The structure of the transformation governs the
+production, storage, reception, and the dissemination of the textual artifact.
+Despite its significance, formatting continues to elude the critical gaze
+because our very concept of form, central to literary analysis, has always
+drifted between vague and conflicting intuitions. The history of formalism, as
+I will show it in the first part of this chapter, contains within it two
+conflicting ideas about the nature of literary form. Going back to the
+reception of Plato, Hegel, and the Russian formalists, the English "form"
+renders at times the material, outward, and apparent shape of something said,
+written, or pictured. Yet just as often, critics use "form" in the sense of a
+Platonic ideal: abstracted from matter, inward-facing, and in need of
+explication. Form in that sense is closer to the idea of an algorithm of a
+formula: it produces meaning according to implicit rules. In this chapter, I
+would like to augment these two senses of form with a third, introducing the
+concept of formatting into the critical discourse. In the second half of the
+chapter, and really, for the duration of this book, I aim to show how
 formatting affects our ability to read and interpret everyday digital
 documents. I propose we begin with a historically-grounded theoretical
 discussion about formalism and end with a media history of something called
 the Document Object Model. This formal construct governs the structure of most
-modern digital documents. It embodies a particular kind of formalism and
+modern textual artifacts. It embodies a particular kind of formalism and
 therefore helps us test some of our theoretical intuitions about form,
-formulae, and format in practice.
+formulae, and format in practice, immediately at hand.
 
 ### 3.1 Form and Formula
 
