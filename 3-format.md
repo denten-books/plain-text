@@ -1294,6 +1294,7 @@ mutual legibility. It succeeds when readers reclaim the underlying material
 conditions of their meaning making. The very architects of the "smart"
 literary device tell us: the answer to the machine remains in the machine.
 
+Perhaps mention closed systems from McLuhan.
 <!-- notes -->
 <!-- notes -->
 <!-- notes -->
