@@ -306,10 +306,10 @@ approximations of the Greek *phantazomenōn*). Accordingly, Jowett translates
 *phantazomenōn* (that which is changeable) as "form" and Lamb as "appearance."
 
 Contrast the *Timaeus* passages with the ones in *Cratylus*, about
-name-giving.  In *Cratylus*, Socrates and Hermogenes discuss the ways in which
+name-giving. In *Cratylus*, Socrates and Hermogenes discuss the ways in which
 words signify things by convention. "What has the carpenter in view when he
 makes a shuttle?" Socrates asks. "Is it not something the nature of which is
-to weave?" Hermogenes agrees. "Well, then, if the shuttle breaks while he is
+to weave?" Hermogenes answers. "Well, then, if the shuttle breaks while he is
 making it, will he make another with his mind fixed on that which is broken,
 or on that form [*eidos*] with reference to which he was making the one which
 he broke?" Hermogenes agrees the carpenter would fix his mind on the ideal
@@ -319,11 +319,11 @@ shuttles does not matter as much as the abstracted idea of shuttles. The
 abstraction endures even as given instantiations break and shatter. There
 exist different types of shuttles, some used to weave wool and some for linen,
 but all of them, in Jowett's translation, "must contain the form or ideal
-(*eidos*) of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos*
+[*eidos*] of shuttle" [@plato_dialogues_1937, 389a-b]. In *Cratylus*, *eidos*
 or form stands for the "universal lasting ideal" of all shuttles: exactly the
 opposite of *phantazomenōn* as "ephemeral instantiation" in the previous
 passage! Yet both *eidos* and *phantazomenōn* were reasonably translated into
-English as "form," indicating a fundamental overloading of the
+the English "form," indicating a fundamental overloading of the
 concept.[^ln4-plato]
 
 The confusion persists in many English translations of G.W.F. Hegel, whose
@@ -331,21 +331,20 @@ discussion of Platonic forms gives us another paradigmatic text in the history
 of formal aesthetics. In his *Lectures on Aesthetics*, Hegel posits classical
 art as striving to reach an equilibrium between its ideational, spiritual
 content and "the configuration of sensuous material" [@hegel_hegels_1998, 70].
-Whole books have been written on Hegel's rather technical and sometimes
-idiosyncratic vocabulary. Rather than define terms precisely, Hegel likes to
-bombard his reader with semantic cognates. On the side of "content" [*Inhalt*,
-*Gehalt*], he evokes words like inner life [*Innere Lebendigkeit*], feeling
-[*Empfindung*], soul [*Seele*], and spirit [*Geist*]. All of these convey a
-movement inward to a location (if it can be called such) beyond the physical
-world, accessible only to the spirit [*Geist*] or mind [*Gedanken*,
-*Verstand*]. On the side of "form" (same in German), Hegel accumulates words
-like expression [*Ausdruck*] and presentation [*Darstellung*], but also lines,
-curves, surfaces, carvings, colors, tones, word sounds, and generally matter
-or material [*Linien*, *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*,
-*Tönen*, *Wortklängen*, *Material*] [@hegel_werke:_1986, *Einleitung*]. The
-semantic cluster related to "forms" conveys physical (palpable, of this world)
-and outward-facing properties, available for examination to the senses
-(*Sinne*).
+Hegel prose is famous for its technical and sometimes idiosyncratic
+vocabulary. Rather than define terms precisely, Hegel saturates his text with
+semantic cognates. On the side of "content" [*Inhalt*, *Gehalt*], he evokes
+words like inner life [*Innere Lebendigkeit*], feeling [*Empfindung*], soul
+[*Seele*], and spirit [*Geist*]. All of these convey a movement inward to a
+location (if it can be called such) beyond the physical world, accessible only
+to the spirit [*Geist*] or mind [*Gedanken*, *Verstand*]. On the side of
+"form" (same in German), Hegel accumulates words like expression [*Ausdruck*]
+and presentation [*Darstellung*], but also lines, curves, surfaces, carvings,
+colors, tones, word sounds, and generally matter or material [*Linien*,
+*Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*,
+*Material*] [@hegel_werke:_1986, *Einleitung*]. The semantic cluster related
+to "forms" conveys physical (palpable, of this world) and outward-facing
+properties, available for examination to the senses (*Sinne*).
 
 In comparing the dominant aesthetic modes of classical and Romantic periods,
 Hegel posits Romanticism as an art that seeks to disengage itself from matter,
