@@ -229,27 +229,30 @@ distinction between the object of art, a transcendent idea or content of the
 work, and the object itself which contained the work's immanent, physical
 characteristics.
 
-As an aside, note that what belong to the contingent physical characteristics
-of a text object and what belong to its signifying strategies depends quite a
-bit on the kind of object at hand. In this way, when reading a novel the
-reader may ignore the line length. The length of an average line in Herman
-Melville's *Moby Dick*, for example, depends on the edition. It carries no
-meaning. But when reading poetry, for example, the reader understands line
-length to be an integral part of the text's "signifying strategies." The
-distinction between form and content in that sense propagates a kind of value
-making, by which we are asked to separate those attributes of the texts that
-are meaningful from those that are not. Some notion of form in that
-distinction implies disposable form, asking us to identify those physical
-attributes of the text that can be omitted in interpretation or the
-reproduction of texts. One can imagine a printer deciding to discard
-information about the color of a manuscript's ink for example or the
-idiosyncrasies of the writer's handwriting. Those part's of the texts shape
-that are deemed significant pass, in some sense, from its contingent "formal"
-characteristics to its signifying "content."
+As an aside, note that what counts for material belonging to the contingent
+physical characteristics of a text object and what counts for the material
+belonging to its signifying strategies depends on the kind of object at hand.
+In this way, when reading a novel the reader may ignore the line length. The
+length of an average line in Herman Melville's *Moby Dick*, for example,
+changes with the edition. In this case, line lengths carry no meaning. But
+when reading poetry, for example, the reader understands line length to be an
+integral part of the text's "signifying strategies." The distinction between
+form and content in that sense propagates a kind of value formation, by which
+we are asked to separate those attributes of the texts that are meaningful
+from those that are not. Some notion of form in that distinction implies
+disposable shape, asking us to identify those physical attributes of the text
+that can be omitted in the interpretation or the reproduction of texts.  One
+can imagine a printer deciding to discard information about the color of a
+manuscript's ink for example or to do way with the idiosyncrasies of a
+writer's handwriting. Those parts of the texts that are deemed insignificant
+are omitted, while those dimmed significant pass from the category of
+contingent "formal" characteristics to its essential signifying "contents."
 
-Yet of course in quite another sense "form" identifies the very essence of the
-thing, quite the opposite to what is meant by form in the sense of a
-disposable shape. For Plato, the "essence" or an "idea" of something (like a
+The traditional distinction between form and content helps us perceive yet
+another sense of "form," by which theorists often identify quite the opposite
+to what is meant by form in the sense of a disposable shape. Consider that
+under traditional, Platonic definitions form denotes the essential properties
+of the object. For Plato, the "essence" or an "idea" of something (like a
 chair) exists in an ideal, metaphysical state, somewhere beyond the confines
 of the material universe. By contrast, a physical instantiation of that object
 (a specific chair) embodies a somewhat more limited, even corrupted, version
@@ -259,20 +262,28 @@ imperfect instantiations. A computer scientist will recognize in this chain of
 reasoning some of the principles behind object-oriented programming: a way of
 building software that works by defining abstract "object classes" and
 invoking them as "class instances" [@hoare_record_1965;
-@nygaard_history_1981]. Similarly, for Plato and later for René Descartes,
-G.W.F. Hegel, and other idealists, ideas provide us with lasting universal
-"templates" for instantiation within the contingent and always changing
-physical confines of the material world.[^ln4-descartes]
+@nygaard_history_1981]. The abstract class can further be modified, or
+extended when called into action. In this way the abstract category of chair
+becomes a given chair, complete with individual flaws and imperfections. As
+before, the flaws an imperfections are considered insignificant compared to
+the perfected form of the ideal chair. In the idealist tradition, ideas
+provide us with lasting universal "templates" for instantiation within the
+contingent and always changing physical confines of the material
+world.[^ln4-descartes]
 
-In Plato's Greek originals we find a number of words that, depending on the
-translation, stand in for the English "form." These include *eidos* (essence),
-*idea* (idea), *morphe* (shape), and *phainomena* (appearance). Compare, for
-example, several translations from Plato's *Timaeus*. The text shows Timaeus,
-the titular character, explaining the nature of the physical world to his
-collocutor. In a passage that anticipates the famous "molten wax" analogy in
-Descartes, Timaeus notices that some elements, like water, change their
-appearance [*phantazomenōn*] while remaining essentially the same substance.
-Benjamin Jowett translates the passage:
+So far, I have been using the term "form" quite liberally, relying on the
+reader's intuitions about its use in everyday language. A closer look at the
+canonical texts in the original will help us identify the conflicting meanings
+that emerge in translation. In Plato's dialogues we find a number of words
+that, depending on the translation, stand in for the English "form." These
+include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena*
+(appearance). Compare, for example, several translations from Plato's
+*Timaeus*. The text shows Timaeus, the titular character, explaining the
+nature of the physical world to his collocutor. In a passage that anticipates
+the famous "molten wax" analogy in Descartes, Timaeus notices that some
+elements, like water, change their appearance [*phantazomenōn*] while
+remaining essentially the same substance.  Benjamin Jowett translates the
+passage:
 
 > Thus, then, as the several elements never present themselves in the same
 > form [*phantazomenōn*], how can anyone have the assurance to assert
