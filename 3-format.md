@@ -178,35 +178,91 @@ groupings of that kind. Where palpable form leads to immanent material
 artifacts, the abstracted notion of form leads to transcendent, universal
 ideals.
 
-The related distinction between "form" and "content" is one of the basic
-binaries in any formalism, mobilized often in literary criticism and computer
-science alike. "Classical art, in a word, stands for form," R.G.  Collingwood
-wrote in 1929, and "romantic art for content" [@collingwood_form_1929, 335].
-In a much more recent work on computational text generation, Kathleen McKeown
-wrote that to produce discourse, writers and speakers "must decide what to say
-and how to present it effectively." A machine that generates text should,
+The notion of a "format" occupies the conceptual space somewhere between form
+as intrinsic formula and form as extrinsic shape. In what remains a singular
+article-length treatment on the topic in literary studies, G. Thomas Tanselle
+approaches the concept of formatting from the point of view of textual
+criticism---the practice of compiling, editing, annotating, preserving, and
+publishing scholarly critical editions of (often) canonical texts. For
+Tanselle's purposes, the concept of formatting addresses narrowly something
+like "the number of page units placed on the press at one time"
+[@tanselle_concept_2000, 112-3]. He acknowledges, however, that more broadly
+speaking, formats refer also to the "nature and the order of the contents"
+[@tanselle_concept_2000, 67-8]. In this way we may speak of soap operas as a
+format for daytime television. The format of a journal may be a "broadsheet
+daily" or a "tabloid." Unlike the more narrow term, genre, format identifies
+both a particular kind and a particular structuring of content. The novel is a
+genre, where the paperback is its common format. A paperback implies not only
+the physical shape of the book, but also a method of manufacturing and
+distribution, along with the *kind* of content. We do not expect scientific
+textbooks in paperback, for example, just as we would not expect tabloids to
+be printed on expensive stock or to support long-form investigative
+journalism. The format captures something about the shape, the design, the
+style, and the thematics of the subject matter; it connects, in other words,
+the where to the what, the how, and in what order.
+
+With these provisional definitions down on paper, I would like to revisit a
+few of the canonical texts from the long history of formalism. It would be
+interesting to see, for example, whether Plato's or Hegel's seminal passages
+on formal aesthetics fall on inward structure or outward shape side of the
+divide I have posited so far. Note first that in whatever tradition, the
+concept of "form" is usually contraposed to some idea of "content." Content
+refers to the stuff being shaped or arranged, whether by intrinsic law or
+though extrinsic shaping. For example, the historian R.G. Collingwood famously
+described the distinction between classical and romantic art periods in terms
+of for the form/content divide. He wrote: "Classical art, in a word, stands
+for form; romantic art for content" [@collingwood_form_1929, 335]. In recent
+work on computational text generation, Kathleen McKeown wrote that to produce
+discourse, writers and speakers "must decide what to say and how to present it
+effectively," once again making the distinction content (the what to say) and
+its presentation. McKeown writes that a machine that generates text should,
 among other things, be able to determine the "content and textual shape" of
 what needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
-influential essay "Print Is Flat, Code Is Deep," Katherine Hayles wrote about
+influential essay "Print Is Flat, Code Is Deep," Katherine Hayles writes about
 "the interplay between a text's physical characteristics and its signifying
-strategies" [@hayles_print_2004, 72].
+strategies" [@hayles_print_2004, 72]. In this way, a text having differing
+physical characteristics may nevertheless employ the same signifying
+strategies. The various editions of Shakespeare's *Hamlet*, for example, may
+look different but nevertheless refer to the same work of art. We saw a
+similar distinction in the discussion about technique, where writers made a
+distinction between the object of art, a transcendent idea or content of the
+work, and the object itself which contained the work's immanent, physical
+characteristics.
 
-Like many foundational dichotomies in the Western philological tradition, the
-distinction between form and content has its roots in Platonic thought. For
-Plato, the "essence" or an "idea" of something (like a chair) exists in an
-ideal, metaphysical state, somewhere beyond the confines of the material
-universe. By contrast, a physical instantiation of that object (a specific
-chair) embodies a somewhat more limited, even corrupted, version of that
-perfect idea. The task of the philosopher becomes one of reconstructing the
-single ideal notion of the perfect chair from its many imperfect
-instantiations. A computer scientist will recognize in this chain of reasoning
-some of the principles behind object-oriented programming: a way of building
-software that works by defining abstract "object classes" and invoking them as
-"class instances" [@hoare_record_1965; @nygaard_history_1981]. Similarly, for
-Plato and later for René Descartes, G.W.F. Hegel, and other idealists, ideas
-provide us with lasting universal "templates" for instantiation within the
-contingent and always changing physical confines of the material
-world.[^ln4-descartes]
+As an aside, note that what belong to the contingent physical characteristics
+of a text object and what belong to its signifying strategies depends quite a
+bit on the kind of object at hand. In this way, when reading a novel the
+reader may ignore the line length. The length of an average line in Herman
+Melville's *Moby Dick*, for example, depends on the edition. It carries no
+meaning. But when reading poetry, for example, the reader understands line
+length to be an integral part of the text's "signifying strategies." The
+distinction between form and content in that sense propagates a kind of value
+making, by which we are asked to separate those attributes of the texts that
+are meaningful from those that are not. Some notion of form in that
+distinction implies disposable form, asking us to identify those physical
+attributes of the text that can be omitted in interpretation or the
+reproduction of texts. One can imagine a printer deciding to discard
+information about the color of a manuscript's ink for example or the
+idiosyncrasies of the writer's handwriting. Those part's of the texts shape
+that are deemed significant pass, in some sense, from its contingent "formal"
+characteristics to its signifying "content."
+
+Yet of course in quite another sense "form" identifies the very essence of the
+thing, quite the opposite to what is meant by form in the sense of a
+disposable shape. For Plato, the "essence" or an "idea" of something (like a
+chair) exists in an ideal, metaphysical state, somewhere beyond the confines
+of the material universe. By contrast, a physical instantiation of that object
+(a specific chair) embodies a somewhat more limited, even corrupted, version
+of that perfect idea. The task of the philosopher becomes one of
+reconstructing the single ideal notion of the perfect chair from its many
+imperfect instantiations. A computer scientist will recognize in this chain of
+reasoning some of the principles behind object-oriented programming: a way of
+building software that works by defining abstract "object classes" and
+invoking them as "class instances" [@hoare_record_1965;
+@nygaard_history_1981]. Similarly, for Plato and later for René Descartes,
+G.W.F. Hegel, and other idealists, ideas provide us with lasting universal
+"templates" for instantiation within the contingent and always changing
+physical confines of the material world.[^ln4-descartes]
 
 In Plato's Greek originals we find a number of words that, depending on the
 translation, stand in for the English "form." These include *eidos* (essence),
@@ -488,29 +544,6 @@ the center of formalist poetics. As critics, the formalists privileged moments
 of mystic and trans-rational [*zaum*] poetic rebellion against static literary
 forms. As literary scholars, they reached for Hegel's concrete universal in
 the guise of trans-human formulae that have a life of their own.
-
-The notion of a "format" occupies the conceptual space somewhere between form
-as intrinsic formula and form as extrinsic shape. In what remains a singular
-article-length treatment on the topic in literary studies, G. Thomas Tanselle
-approaches the concept of formatting from the point of view of textual
-criticism---the practice of compiling, editing, annotating, preserving, and
-publishing scholarly critical editions of (often) canonical texts. For
-Tanselle's purposes, the concept of formatting addresses narrowly something
-like "the number of page units placed on the press at one time"
-[@tanselle_concept_2000, 112-3]. He acknowledges, however, that more broadly
-speaking, formats refer also to the "nature and the order of the contents"
-[@tanselle_concept_2000, 67-8]. In this way we may speak of soap operas as a
-format for daytime television. The format of a journal may be a "broadsheet
-daily" or a "tabloid." Unlike the more narrow term, genre, format identifies
-both a particular kind and a particular structuring of content. The novel is a
-genre, where the paperback is its common format. A paperback implies not only
-the physical shape of the book, but also a method of manufacturing and
-distribution, along with the *kind* of content. We do not expect scientific
-textbooks in paperback, for example, just as we would not expect tabloids to
-be printed on expensive stock or to support long-form investigative
-journalism. The format captures something about the shape, the design, the
-style, and the thematics of the subject matter; it connects, in other words,
-the where to the what, the how, and in what order.
 
 Tanselle's definitions help identify the two key components implicit in the
 concept of format as both process and structure that relate the medium of the
