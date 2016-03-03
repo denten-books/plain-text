@@ -331,23 +331,23 @@ discussion of Platonic forms gives us another paradigmatic text in the history
 of formal aesthetics. In his *Lectures on Aesthetics*, Hegel posits classical
 art as striving to reach an equilibrium between its ideational, spiritual
 content and "the configuration of sensuous material" [@hegel_hegels_1998, 70].
-Hegel prose is famous for its technical and sometimes idiosyncratic
-vocabulary. Rather than define terms precisely, Hegel saturates his text with
-semantic cognates. On the side of "content" [*Inhalt*, *Gehalt*], he evokes
-words like inner life [*Innere Lebendigkeit*], feeling [*Empfindung*], soul
-[*Seele*], and spirit [*Geist*]. All of these convey a movement inward to a
-location (if it can be called such) beyond the physical world, accessible only
-to the spirit [*Geist*] or mind [*Gedanken*, *Verstand*]. On the side of
-"form" (same in German), Hegel accumulates words like expression [*Ausdruck*]
-and presentation [*Darstellung*], but also lines, curves, surfaces, carvings,
+Hegel prose is marked by technical and sometimes idiosyncratic vocabulary.
+Rather than define terms precisely, Hegel saturates his text with semantic
+cognates. On the side of "content" [*Inhalt*, *Gehalt*], he evokes words like
+inner life [*Innere Lebendigkeit*], feeling [*Empfindung*], soul [*Seele*],
+and spirit [*Geist*]. All of these convey a movement inward to a location (if
+it can be called such) beyond the physical world, accessible only to the
+spirit [*Geist*] or mind [*Gedanken*, *Verstand*]. On the side of "form" (same
+in German), Hegel accumulates words like expression [*Ausdruck*] and
+presentation [*Darstellung*], but also lines, curves, surfaces, carvings,
 colors, tones, word sounds, and generally matter or material [*Linien*,
 *Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*,
-*Material*] [@hegel_werke:_1986, *Einleitung*]. The semantic cluster related
-to "forms" conveys physical (palpable, of this world) and outward-facing
-properties, available for examination to the senses (*Sinne*).
+*Material*] [@hegel_werke:_1986, *Einleitung*]. The semantic cluster of words
+related to "form" conveys physical (palpable, of this world) and
+outward-facing properties, available for examination to the senses (*Sinne*).
 
-In comparing the dominant aesthetic modes of classical and Romantic periods,
-Hegel posits Romanticism as an art that seeks to disengage itself from matter,
+In contrasting the dominant aesthetic modes of classical and Romantic periods,
+Hegel paints Romanticism as an art that seeks to disengage itself from matter,
 reaching the realm of pure self-reflective Spirit. Romanticism, in his words,
 is "freed from this immediate existence which must be set down as negative,
 overcome, and reflected into the spiritual unity" [@hegel_hegels_1998, 81]. He
@@ -380,22 +380,26 @@ quite an external form" [@hegel_philosophy_1870, 250]. In other words, as soon
 as *eidos* is instantiated, it moves from being an ideal form into an apparent
 shape, as an epistemological category.
 
-Someone writes down "all these cats are subsumed under the category of
-'feline.'" At this moment, the ideal of "felines" becomes an ossified and
-unchanging dead thing. For Hegel, the true ideal must continue to exist and
-develop in the real world. It is not merely a socially constructed (we would
-say today) category, but something that "internally distinguishes itself"
-while remaining "free in its infinitude and independent." The best I can
+I understand Hegel's "formal Universal" as follows. Imagine someone were to
+write "all these cats are subsumed under the category of 'feline.'" The ideal
+of being "feline" captures a snapshot of what it means to be feline at the
+moment of the category's naming. For Hegel, the true ideal cannot exist in the
+name al must continue to exist and develop in the real world. It is not merely
+a socially constructed (we would say today) category, but something that
+"internally distinguishes itself" while remaining "free in its infinitude and
+independent" from all attempts to fix it categorically. The best I can
 understand this is to think about the evolutionary process that continues in
 the species, even as the taxonomy describing that evolution may remain tied to
-its fixed categories. New and radically different cats may come into
-existence---ones no longer covered by the "external mark" of being "feline."
-Yet this would only mean that the ideal of "feline" has developed past human
-understanding.  Zoologists would, at that point, need simply adjust their
-categories to include new forms of feline being. Ideal feline being moves on
-immediately thereafter, continuing to develop and leaving behind only the husk
-or a "snapshot" of what it meant to be a cat in times already past. For Hegel,
-one should not confuse that static snapshot with the animate ideal.
+its fixed ways of expression. No matter what we call cats, the feline species
+will continue to evolve. New and radically different cats may come into
+existence---ones no longer covered by the "external mark" of being "feline,"
+that is by our taxonomical categories. Yet this would only mean that the ideal
+of "feline" has developed past human understanding. Zoologists would, at that
+point, need simply adjust their categories to include new forms of feline
+being. Ideal feline being moves on immediately thereafter, continuing to
+develop and leaving behind only the husk or a "snapshot" of what it meant to
+be a cat in times already past. For Hegel, one should not confuse that static
+categorical snapshot with the animate ideal.
 
 Hegel's "concrete universal" therefore exists in the real, physical world. One
 way to understand this difficult concept is to think of it as capturing both
