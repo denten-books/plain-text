@@ -255,7 +255,7 @@ under traditional, Platonic definitions form denotes the essential properties
 of the object. For Plato, the "essence" or an "idea" of something (like a
 chair) exists in an ideal, metaphysical state, somewhere beyond the confines
 of the material universe. By contrast, a physical instantiation of that object
-(a specific chair) embodies a somewhat more limited, even corrupted, version
+(a specific chair) embodies a somewhat more limited, corrupted even, version
 of that perfect idea. The task of the philosopher becomes one of
 reconstructing the single ideal notion of the perfect chair from its many
 imperfect instantiations. A computer scientist will recognize in this chain of
@@ -263,7 +263,7 @@ reasoning some of the principles behind object-oriented programming: a way of
 building software that works by defining abstract "object classes" and
 invoking them as "class instances" [@hoare_record_1965;
 @nygaard_history_1981]. The abstract class can further be modified, or
-extended when called into action. In this way the abstract category of chair
+extended when called into action. In this way the abstract category of chairs
 becomes a given chair, complete with individual flaws and imperfections. As
 before, the flaws an imperfections are considered insignificant compared to
 the perfected form of the ideal chair. In the idealist tradition, ideas
@@ -275,27 +275,27 @@ So far, I have been using the term "form" quite liberally, relying on the
 reader's intuitions about its use in everyday language. A closer look at the
 canonical texts in the original will help us identify the conflicting meanings
 that emerge in translation. In Plato's dialogues we find a number of words
-that, depending on the translation, stand in for the English "form." These
-include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena*
-(appearance). Compare, for example, several translations from Plato's
-*Timaeus*. The text shows Timaeus, the titular character, explaining the
-nature of the physical world to his collocutor. In a passage that anticipates
-the famous "molten wax" analogy in Descartes, Timaeus notices that some
-elements, like water, change their appearance [*phantazomenōn*] while
-remaining essentially the same substance.  Benjamin Jowett translates the
-passage:
+that are sometimes reasonably rendered into the English "form." These include
+*eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena*
+(appearance). Compare, for example, the following several translations from
+Plato's *Timaeus*. In *Timaeus*, we see the titular character discuss the
+nature of the physical world with his collocutor. In a passage that
+anticipates the famous "molten wax" analogy in Descartes, Timaeus notices that
+some elements, like water, change their appearance [*phantazomenōn*] while
+remaining essentially the same substance. Benjamin Jowett translates the
+passage as follows:
 
 > Thus, then, as the several elements never present themselves in the same
 > form [*phantazomenōn*], how can anyone have the assurance to assert
 > positively that any of them, whatever it may be, is one thing rather than
 > another?  [@plato_timaeus_1998, 49d]
 
-In another translation, W.R.M. Lamb translates the Greek *phantazomenōn* as
-"appearance":
+Compare the above with the translation of the same passage by W.R.M. Lamb, who
+renders the Greek *phantazomenōn* into the English "appearance":
 
-> Accordingly, since no one of these ever remains identical in
-> appearance [*phantazomenōn*], which of them shall a man definitely affirm to
-> be any one particular element and no other without incurring ridicule?
+> Accordingly, since no one of these ever remains identical in appearance
+> [*phantazomenōn*], which of them shall a man definitely affirm to be any one
+> particular element and no other without incurring ridicule?
 > [@plato_plato_1955, 48d]
 
 Both translations of the Greek *phantazomenōn*, form and appearance, capture
