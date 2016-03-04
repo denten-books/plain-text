@@ -415,46 +415,16 @@ materialized, and working properly" [@ransom_concrete_1954, 387]. As was the
 case with Wittgenstein's logical mechanisms, Ransom imagines a perfected kind
 of a machine that represents the ideal of the aesthetic object.
 
-These notes on Hegel are not meant to present a definitive history of
-formalism in Western aesthetics. Rather, they point to series of related folds
-or creases in that tradition, in an arrangement that repeats throughout the
-vast body of literature on the topic. The imprints of these complications
-resonate through the work of critics, from Samuel Taylor Coleridge, W.K.
-Wimsatt, John Crowe Ransom, Theodor W. Adorno, and Hans-Georg Gadamer puzzled
-at the dual status of literature between the universal and the concrete. For
-example, for Coleridge, the excellence of Shakespeare's works consisted in
-"that union and interpenetration of the universal and the particular"
-[@coleridge_friend_1969, 457]. Wimsatt cites these passages to write that "in
-one terminology or another this idea of a concrete universal is found in most
-metaphysical aesthetic of the eighteenth and nineteenth centuries"
-[@wimsatt_verbal_1954, 72]. Wimsatt concludes by writing that in each
-individual poem there is something "which can never be expressed in other
-terms." Like irrational numbers, poetry and poetic language for Wimsatt can
-only be approached at their limit, not as "all it would be, yet all that can
-be had" [@wimsatt_structure_1947, 280]. Hegel's "concrete universal" formula
-captures an essential property of literature in its dual movement between the
-material and the ideal worlds.
-
-Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
-(instrumental in developing the notion of formalist poetics) were responding
-negatively to the Hegelian tradition of reading for deep, symbolic
-interpretation. In a seminal 1917 volume on the "Theory of Poetic Language,"
-Osip Brik wrote, mockingly:[^ln4-translate]
-
-> "The art of poetry is a symbolic art. The language of poetry is a
-symbolic language. Euphony and rhythm are the fair garments that clothe the
-fruits of poetic inspiration." That is the solidly established and prevailing
-opinion. It is not a surprise then, that the study of poetic structure is
-limited to the sphere of obvious euphonic resources like rhythm, alliteration,
-assonance, and onomatopoeia [...] Poetic criticism is reduced to the judgment
-of "effective" and "ineffective" sound combinations, where the criteria for
-effect is reduced to a critic's personal taste [@shklovksy_sborniki_1917, 24].
-
-What did Brik and company see as the alternative to symbolism? The seminal
+These notes on Plato and Hegel are not meant to present a definitive history
+of formalism in Western aesthetics. Rather, they point to series of related
+folds and creases in that tradition, appearing around the concept of form with
+some regularity. This dual motion of form at once towards the outward shape
+and inward formula is perhaps most starkly visible in the intellectual legacy
+of Russian formalism in the first few decades of 20th century. The seminal
 series of "OPOYAZ" publications, appearing between 1916 and 1920, gave a
-unified program to a group of formalist scholars that included Viktor
+unified program to a group of literary scholars that included Viktor
 Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson,
-among others.  Collectively, the volumes strike out in two distinct, but
+among others. Collectively, the volumes strike out in two distinct, but
 complementary directions.
 
 A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
@@ -470,13 +440,15 @@ formalist concern with *zaum*---literally, beyond sense, or beyonsense---
 trans-rational, nonsensical sounds that nevertheless elicit an affective,
 lived response, giving voice to ideas that are difficult to explain rationally
 [@khlebnivkov_collected_1987, 179; @khlebnikov_king_1990, 151;
-@labelle_lexicon_2014, 63]. Poetry in the symbolic mode encodes meaning as
-inner sense: the elephant "stands for" memory, or the like. *Zaum* poetics
-instead evoke affect through external shape, as sound. Khlebnikov writes that
-"mystical incantation and beyonsense are appeals 'over the head' of government
-straight to the population of feelings, a direct cry to the predawn of the
-soul" [@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without words
-but with sound." He writes:
+@labelle_lexicon_2014, 63].
+
+Poetry in the symbolic mode encodes meaning as inner sense: the elephant
+"stands for" memory, or the like. *Zaum* poetics instead evoke affect through
+external shape, as sound. Khlebnikov writes that "mystical incantation and
+beyonsense are appeals 'over the head' of government straight to the
+population of feelings, a direct cry to the predawn of the soul"
+[@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without words but
+with sound." He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -486,10 +458,10 @@ word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
 restoring its primal clarity [@shklovksy_poetika_1919, 13].
 
 The word *bezobrazno*, in the meaning of hideous or deformed, literally
-translates as "without an image." The formalists insist on the primacy of the
-word image over its sense. Formal techniques, like chanting or nonsensical
-repetition, restore the external sound image, privileging the words phonetic
-signature over its meaning.
+translates as "without an image." The formalists of the "shape" kind insist on
+the primacy of word image over its sense. Formal techniques, like chanting or
+nonsensical repetition, restore the external sound image, privileging the
+words phonetic signature over its meaning.
 
 Three of the sixteen essays in the volume I have discussed above strike in
 another direction. Shklovsky's "Art as Technique," "Linkages between Plot and
@@ -525,31 +497,21 @@ universal forms and devices. Veselovsky calls these genetic constants
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's
-formula are concrete universals, which exist outside and independent of
-individual text witnesses. Formulae in this sense have a life of their own, in
-a trans- or meta- human way, not accessible to the individual author. They are
-evoked indirectly. They exist in the ether of culture, attaining a historical
-momentum of their own through a process of gradual genetic development. Form,
-in this historical sense, means exactly the opposite of form in the sense of a
-private utterance, by which an individual author breaks with an ossified
-tradition, as was the case with Shklovsky's idiosyncratic naming of the
-flower, *uao*.
+literary formulas resemble concrete universals, which exist outside and
+independent of individual text witnesses. Formulae in this sense have a life
+of their own, in a trans- or meta- human way, not accessible to the individual
+author. They are evoked indirectly. They exist in the ether of culture,
+attaining a historical momentum of their own through a process of gradual
+genetic development. Form, in this Hegelian, historical sense, means exactly
+the opposite of form in the sense of a private utterance, by which an
+individual author breaks with an ossified tradition, as was the case with
+Shklovsky's idiosyncratic naming of the flower, *uao*.
 
 The contradiction of understanding form as sound and form as formula lies at
 the center of formalist poetics. As critics, the formalists privileged moments
 of mystic and trans-rational [*zaum*] poetic rebellion against static literary
 forms. As literary scholars, they reached for Hegel's concrete universal in
 the guise of trans-human formulae that have a life of their own.
-
-Tanselle's definitions help identify the two key components implicit in the
-concept of format as both process and structure that relate the medium of the
-work to its content:
-
-> `medium > process > structure > content`
-
-In the case of books, text appears to us as structure of a particular shape
-(pages and paragraphs) embedded into a medium (paper or pixel), in particular
-ways. The kind of close reading
 
 ### 3.2 Strategies of Reading
 
@@ -733,6 +695,18 @@ these, form sometimes falls into the category of meaningless matter and
 sometimes into semantic-carrying ideation: form, the indeterminate.
 
 ### 3.3 Document Object Model
+
+Tanselle's definitions help identify the two key components implicit in the
+concept of format as both process and structure that relate the medium of the
+work to its content:
+
+> `medium > process > structure > content`
+
+In the case of books, text appears to us as structure of a particular shape
+(pages and paragraphs) embedded into a medium (paper or pixel), in particular
+ways. The kind of close reading
+Now that has been established, I would like to suggest a third kind of
+fomalism.
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
