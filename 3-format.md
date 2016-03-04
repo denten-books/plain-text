@@ -415,14 +415,10 @@ of the determining and the determined.
 These notes on Hegel are not meant to present a definitive history of
 formalism in Western aesthetics. Rather, they point to series of related folds
 or creases in that tradition, in an arrangement that repeats throughout the
-vast body of literature on the topic. The imprints of these complications will
-resonate later, within the structure of the document object model, which
-emerges, in its stratified form, from the material affordances of screen and
-magnetic storage technology in the late 1960s.
-
-Generations of critics, from Samuel Taylor Coleridge, W.K. Wimsatt, John Crowe
-Ransome, Theodor W. Adorno, and Hans-Georg Gadamer, to Slavoj Zižek, puzzled at
-the dual status of literature between the universal and the concrete. For
+vast body of literature on the topic. The imprints of these complications
+resonate through the work of critics, from Samuel Taylor Coleridge, W.K.
+Wimsatt, John Crowe Ransom, Theodor W. Adorno, and Hans-Georg Gadamer puzzled
+at the dual status of literature between the universal and the concrete. For
 example, for Coleridge, the excellence of Shakespeare's works consisted in
 "that union and interpenetration of the universal and the particular"
 [@coleridge_friend_1969, 457]. Wimsatt cites these passages to write that "in
@@ -431,8 +427,8 @@ metaphysical aesthetic of the eighteenth and nineteenth centuries"
 [@wimsatt_verbal_1954, 72]. Wimsatt concludes by writing that in each
 individual poem there is something "which can never be expressed in other
 terms." Like irrational numbers, poetry and poetic language for Wimsatt can
-only be approached at their limit, not as "all it would be, yet all that can be
-had" [@wimsatt_structure_1947, 280]. Hegel's "concrete universal" formula
+only be approached at their limit, not as "all it would be, yet all that can
+be had" [@wimsatt_structure_1947, 280]. Hegel's "concrete universal" formula
 captures an essential property of literature in its dual movement between the
 material and the ideal worlds.
 
@@ -731,6 +727,8 @@ various kinds of censorship that have been at work upon it; and this revelation
 takes the form of an explanation of why the content was so distorted and is
 thus inseparable from a description of the mechanisms of the censorship itself
 [@jameson_marxism_1972, 404].
+
+Format.
 
 Although the distinction between form and content is somewhat naturalized in
 literary and linguistic discourse, the concept of form is also often used in
