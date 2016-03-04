@@ -380,37 +380,40 @@ quite an external form" [@hegel_philosophy_1870, 250]. In other words, as soon
 as *eidos* is instantiated, it moves from being an ideal form into an apparent
 shape, as an epistemological category.
 
-I understand Hegel's "formal Universal" as follows. Imagine someone were to
-write "all these cats are subsumed under the category of 'feline.'" The ideal
-of being "feline" captures a snapshot of what it means to be feline at the
-moment of the category's naming. For Hegel, the true ideal cannot exist in the
-name al must continue to exist and develop in the real world. It is not merely
-a socially constructed (we would say today) category, but something that
-"internally distinguishes itself" while remaining "free in its infinitude and
-independent" from all attempts to fix it categorically. The best I can
-understand this is to think about the evolutionary process that continues in
-the species, even as the taxonomy describing that evolution may remain tied to
-its fixed ways of expression. No matter what we call cats, the feline species
-will continue to evolve. New and radically different cats may come into
-existence---ones no longer covered by the "external mark" of being "feline,"
-that is by our taxonomical categories. Yet this would only mean that the ideal
-of "feline" has developed past human understanding. Zoologists would, at that
-point, need simply adjust their categories to include new forms of feline
-being. Ideal feline being moves on immediately thereafter, continuing to
-develop and leaving behind only the husk or a "snapshot" of what it meant to
-be a cat in times already past. For Hegel, one should not confuse that static
-categorical snapshot with the animate ideal.
+I understand Hegel's problem with "formal Universal" as follows. Imagine
+someone were to write "all these cats are subsumed under the category of
+'feline.'" The ideal of being "feline" captures a snapshot of what it means to
+be feline at the moment of the category's naming. For Hegel, the true ideal
+cannot exist in the name alone, it must continue to exist and develop in the
+real world. It is not, in other words, merely a socially constructed (we would
+say today) category, but something that "internally distinguishes itself"
+while remaining "free in its infinitude and independent" from all attempts to
+fix it categorically. The best I can understand this is to think about the
+evolutionary process that continues in the species, even as the taxonomy
+describing that evolution may remain tied to its fixed ways of expression. No
+matter what we call cats, the feline species will continue to evolve. New and
+radically different cats may come into existence---ones no longer covered by
+the "external mark" of being "feline," that is by our taxonomical categories.
+Yet this would only mean that the ideal of "feline" has developed past human
+understanding. Zoologists would, at that point, need simply adjust their
+categories to include new forms of feline being. Ideal feline being moves on
+immediately thereafter, continuing to develop and leaving behind only the husk
+or a "snapshot" of what it meant to be a cat in times already past. For Hegel,
+one should not confuse that static categorical snapshot with the animate
+ideal. For this reason Hegel disparages the "formal universal" as a corrupted,
+"mere" form of the ideal.
 
-Hegel's "concrete universal" therefore exists in the real, physical world. One
-way to understand this difficult concept is to think of it as capturing both
-*eidos* and *phantazomenōn*---or idea and appearance, both reasonably
-transcribed to "form" in English. The very word "form" in its ordinary meaning
-can be, in that way, somewhat of a self-antonym. Form could mean "the visible
-aspect of a thing," but also the "formative" and the "essential determinate
-principle of a thing," and, in its more obsolete meaning, "a formula, model,
-type, pattern, and example." Form, in this dual sense, sounds a lot like
-Hegel's "concrete universal," encompassing the sometimes contradictory aspects
-of the determining and the determined.
+By contrast to the "formal universal," Hegel's "concrete universal" exists in
+the real, physical world. One way to understand this difficult concept is to
+think of it as capturing both *eidos* and *phantazomenōn*---or idea and
+appearance, both reasonably transcribed to "form" in English. In an essay on
+Hegel's concept, John Crowe Ransom likens it to a "little universe or an
+organized working combination of parts." He writes: "Thus the formula of a
+chemical reaction; the recipe for a dish; the blue-print of a machine."
+Crucially, the Universal becomes concrete when the machine "has been
+materialized, and working properly" [@ransom_concrete_1954, 387]. As was the
+case with Wittgenstein's logical mechanisms, Ransom imagines a perfected kind
+of a machine that represents the ideal of the aesthetic object.
 
 These notes on Hegel are not meant to present a definitive history of
 formalism in Western aesthetics. Rather, they point to series of related folds
@@ -431,23 +434,6 @@ only be approached at their limit, not as "all it would be, yet all that can
 be had" [@wimsatt_structure_1947, 280]. Hegel's "concrete universal" formula
 captures an essential property of literature in its dual movement between the
 material and the ideal worlds.
-
-In an earlier counterinsurgency against reading for content, at the turn of
-the twentieth century, Russian and Italian formalists similarly strove to
-break with Hegelian normative aesthetics by wedding the project of literary
-criticism with descriptive linguistics. Seeing art as an economy of formal
-"devices" like rhyme and meter, the formalists downplayed the role of content
-and symbol. In this vein, the Italian futurist Filippo Marinetti wrote about
-the "grotesque funeral" of romantic notions of beauty, and the rise of a new
-"geometric and mechanical splendor." His generation was instead "in love with
-matter," wanting "to penetrate it and to understand its vibrations"
-[@marinetti_marinetti:_1972, ???].[^ln4-marinetti] Art cannot be reduced to
-"thinking in symbols" Shklovsky wrote. Meaning "dies" and "becomes invisible"
-through frequent use. Such dead and transparent language can no longer evoke
-wonder or curiosity. For Shklovsky and his peers, vital art served to
-counteract death by "resurrecting the word" in "making the form difficult"
-[@shklovsky_hod_1923, ???]. Formalism, in that sense, was seen as having the
-potential to renew content.
 
 Like Sontag, Shklovsky and his fellow members of the "OPOYAZ" group
 (instrumental in developing the notion of formalist poetics) were responding
