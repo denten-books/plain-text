@@ -154,7 +154,7 @@ modern textual artifacts. It embodies a particular kind of formalism and
 therefore helps us test some of our theoretical intuitions about form,
 formulae, and format in practice, immediately at hand.
 
-### 3.1 Formalisms
+### 3.1 Concrete and Universal
 
 The intellectual history of formalist thought in literary theory contains
 within it at least these two distinct and contradictory ideas about form: one
@@ -404,28 +404,45 @@ ideal. For this reason Hegel disparages the "formal universal" as a corrupted,
 "mere" form of the ideal.
 
 By contrast to the "formal universal," Hegel's "concrete universal" exists in
-the real, physical world. One way to understand this difficult concept is to
-think of it as capturing both *eidos* and *phantazomenōn*---or idea and
-appearance, both reasonably transcribed to "form" in English. In an essay on
-Hegel's concept, John Crowe Ransom likens it to a "little universe or an
-organized working combination of parts." He writes: "Thus the formula of a
-chemical reaction; the recipe for a dish; the blue-print of a machine."
-Crucially, the Universal becomes concrete when the machine "has been
-materialized, and working properly" [@ransom_concrete_1954, 387]. As was the
-case with Wittgenstein's logical mechanisms, Ransom imagines a perfected kind
-of a machine that represents the ideal of the aesthetic object.
+the real, physical world. It is more than a category. One way to understand
+this difficult concept is to think of it as capturing both *eidos* and
+*phantazomenōn*---or idea and appearance, both reasonably transcribed to
+"form" in English. In an essay on Hegel's concept, John Crowe Ransom likens it
+to a "little universe or an organized working combination of parts." He
+writes: "Thus the formula of a chemical reaction; the recipe for a dish; the
+blue-print of a machine." Crucially, the Hegelian universal becomes concrete
+when the machine "has been materialized, and working properly"
+[@ransom_concrete_1954, 387]. As was the case with Wittgenstein's logical
+mechanisms, Ransom imagines a perfected kind of a machine that represents the
+ideal of the aesthetic object.
 
-These notes on Plato and Hegel are not meant to present a definitive history
-of formalism in Western aesthetics. Rather, they point to series of related
-folds and creases in that tradition, appearing around the concept of form with
-some regularity. This dual motion of form at once towards the outward shape
-and inward formula is perhaps most starkly visible in the intellectual legacy
-of Russian formalism in the first few decades of 20th century. The seminal
-series of "OPOYAZ" publications, appearing between 1916 and 1920, gave a
-unified program to a group of literary scholars that included Viktor
-Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman Jakobson,
-among others. Collectively, the volumes strike out in two distinct, but
-complementary directions.
+### 3.2 Strategies of Reading
+
+The above notes on Plato and Hegel are not meant to present a definitive
+history of formalism in Western aesthetics. Rather, they point to series of
+related folds and creases in that tradition, appearing around the concept of
+form with some regularity. W.K. Wimsatt once observed that literary theorists
+often persist in making statements that understand a work of literary art to
+be, in a peculiar way, "a very individual thing or a very universal thing or
+both" [@wimsatt_structure_1947, 262]. A work of art, a poem, understood as
+something which "cannot be expressed in other terms" leads to the kind of
+criticism that emphasizes the reflection upon the outward, affective, palpable
+elements of the text. The function of such criticism, according to Wimsatt, is
+to create "approximate descriptions of poems" and "multiple restatements of
+their meaning," which aid the reader in coming to their own "intuitive and
+full realizations" of literature [@wimsatt_structure_1947, 280]. Understood as
+an end product of a living ideal or formula, the analysis of literature seeks
+to recover latent universal mechanisms, laws, and deep structures that give
+rise to surface phenomena.
+
+The dual motion of literary criticism at once towards the outward shape and
+inward formula---poetics and hermeneutics---is perhaps most starkly visible in
+the intellectual legacy of Russian formalism in the first few decades of 20th
+century. The seminal series of "OPOYAZ" publications, appearing between 1916
+and 1920, gave a unified program to a group of literary scholars that included
+Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman
+Jakobson, among others. Collectively, the volumes strike out in two distinct,
+but complementary directions.
 
 A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
 [*zvuk*] to "symbol" [*obraz*]. Brik writes: "I believe that elements of
@@ -513,7 +530,6 @@ of mystic and trans-rational [*zaum*] poetic rebellion against static literary
 forms. As literary scholars, they reached for Hegel's concrete universal in
 the guise of trans-human formulae that have a life of their own.
 
-### 3.2 Strategies of Reading
 
 The history of literary scholarship is also punctuated by moments of revolt
 against Hegelian reading for latent universalism. A recent conversation on the
