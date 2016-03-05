@@ -527,26 +527,31 @@ momentum of their own through a process of gradual genetic development. Form,
 in this Hegelian, historical sense, means exactly the opposite of form in the
 sense of a private utterance, by which an individual author breaks with an
 ossified tradition, as was the case with Shklovsky's idiosyncratic naming of
-the flower, *uao*. The contradiction of understanding form as sound and form
-as formula lies at the center of formalist poetics.
+the flower, *uao*.
 
-A recent conversation on the merits of surface reading has rekindled an
-interest in the archeological metaphor, which understands textuality in terms
-of depth and surface. Two types of reading become evident in this model. The
-"symptomatic" literary critic reaches beyond the "ephemeral" external
-appearances to uncover internal and eternal metaphysical truth within. For a
-Marxist critic like Terry Eagleton or Frederic Jameson that latent meaning may
-have something to do with hidden machinations of capital and ideology. The
-psychologically minded critic reads in search of hidden drives, desires, or
-cognitive structures. By contrast to symptomatic reading, Stephen Best and
-Sharon Marcus describe a constellation of reading practices concerned with
-"what is evident, perceptible, apprehensible in text: what is neither hidden
-nor hiding; what, in the geometrical sense, has length and breadth but no
-thickness, and therefore covers no depth." The authors identify a
-constellation of related interpretation practices at the surface: reading for
-material surface, reading for verbal structure, reading for affect, reading
-for description, reading for pattern, and finally, reading for literal meaning
-or "just reading" [@best_surface_2009, 9].
+The tension between extrinsic shape and intrinsic rule lies at the heart of
+literary theory, manifesting at times under differing yet essentially related
+vocabularies. The emphasis on extrinsic shape leads to the poetics of
+affective reading of the kind that privileges apparent surface phenomena. The
+emphasis on intrinsic rules logically leads to a hermeneutics or an archeology
+of text, by which the critics role becomes to discover non-apparent deep
+structural regularities. Recently, the theoretical distinction between shape
+and formula has been negotiated in terms of depth and surfaces. Two types of
+reading become evident in this model. The "symptomatic" literary critic
+reaches beyond the "ephemeral" external appearances to uncover internal and
+eternal metaphysical truth within. For a Marxist critic like Terry Eagleton or
+Frederic Jameson that latent meaning may have something to do with hidden
+machinations of capital and ideology. The psychologically minded critic reads
+in search of hidden drives, desires, or cognitive structures. By contrast to
+symptomatic reading, Stephen Best and Sharon Marcus describe a constellation
+of reading practices concerned with "what is evident, perceptible,
+apprehensible in text: what is neither hidden nor hiding; what, in the
+geometrical sense, has length and breadth but no thickness, and therefore
+covers no depth." The authors identify a constellation of related
+interpretation practices at the surface: reading for material surface, reading
+for verbal structure, reading for affect, reading for description, reading for
+pattern, and finally, reading for literal meaning or "just reading"
+[@best_surface_2009, 9].
 
 In the late 1960s, Susan Sontag similarly wrote about "the need for more
 attention to form in art." Interpretation can be liberating, she wrote, but it
