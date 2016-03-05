@@ -241,7 +241,7 @@ form and content in that sense propagates a kind of value formation, by which
 we are asked to separate those attributes of the texts that are meaningful
 from those that are not. Some notion of form in that distinction implies
 disposable shape, asking us to identify those physical attributes of the text
-that can be omitted in the interpretation or the reproduction of texts.  One
+that can be omitted in the interpretation or the reproduction of texts. One
 can imagine a printer deciding to discard information about the color of a
 manuscript's ink for example or to do way with the idiosyncrasies of a
 writer's handwriting. Those parts of the texts that are deemed insignificant
@@ -439,10 +439,10 @@ The dual motion of literary criticism at once towards the outward shape and
 inward formula---poetics and hermeneutics---is perhaps most starkly visible in
 the intellectual legacy of Russian formalism in the first few decades of 20th
 century. The seminal series of "OPOYAZ" publications, appearing between 1916
-and 1920, gave a unified program to a group of literary scholars that included
-Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and Roman
-Jakobson, among others. Collectively, the volumes strike out in two distinct,
-but complementary directions.
+and 1920, gave voice to a unified program to a group of literary scholars that
+included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and
+Roman Jakobson, among others. Collectively, the volumes strike out in two
+distinct, but complementary directions.
 
 A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
 [*zvuk*] to "symbol" [*obraz*]. Brik writes: "I believe that elements of
@@ -459,13 +459,12 @@ lived response, giving voice to ideas that are difficult to explain rationally
 [@khlebnivkov_collected_1987, 179; @khlebnikov_king_1990, 151;
 @labelle_lexicon_2014, 63].
 
-Poetry in the symbolic mode encodes meaning as inner sense: the elephant
-"stands for" memory, or the like. *Zaum* poetics instead evoke affect through
-external shape, as sound. Khlebnikov writes that "mystical incantation and
-beyonsense are appeals 'over the head' of government straight to the
-population of feelings, a direct cry to the predawn of the soul"
-[@khlebnikov_king_1990, 152]. Shklovsky defines *zaum* as "without words but
-with sound." He writes:
+Poetry in the symbolic mode encodes meaning inwardly: the elephant "stands
+for" memory, or the like. *Zaum* poetics instead evoke affect through external
+shape, as sound. Khlebnikov writes that "mystical incantation and beyonsense
+are appeals 'over the head' of government straight to the population of
+feelings, a direct cry to the predawn of the soul" [@khlebnikov_king_1990,
+152]. Shklovsky defines *zaum* as "without words but with sound." He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -475,81 +474,79 @@ word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
 restoring its primal clarity [@shklovksy_poetika_1919, 13].
 
 The word *bezobrazno*, in the meaning of hideous or deformed, literally
-translates as "without an image." The formalists of the "shape" kind insist on
-the primacy of word image over its sense. Formal techniques, like chanting or
-nonsensical repetition, restore the external sound image, privileging the
-words phonetic signature over its meaning.
+translates as "without an image." In language of lilacs has lost its shape,
+the author implies. Formalism of the outward kind thus aims to restore the
+word image, returning form, in the sense of shape, to content. Formal
+techniques like chanting or neologism revitalize the external sound image. In
+repetition the word loses its sense while gaining a distinct physical sound
+signature, which habitually goes unnoticed in everyday use.
 
-Three of the sixteen essays in the volume I have discussed above strike in
-another direction. Shklovsky's "Art as Technique," "Linkages between Plot and
-Style Device," and Eichenbaum's "How the *Overcoat* Is Made," constitute a
-cluster of essays that deals with narrative structure rather than phonetic
-image. To this strain of formalism one could also adduce Vladimir Propp's
-well-known *Morphology of the Folktale*, a text that finds a limited number of
-universal formulas in the multiplicity of folktale traditions. All three
-authors cite a common source of influence for this direction of research:
-namely, the work of Alexander Veselovsky, the 19th century Russian historian
-of literature and founder of the comparative method in that tradition.
-Veselovsky, a scholar of the generation previous to the formalists, did not
-attain the renown enjoyed by his pupils in the West. An early pioneer of
-comparative literature, he advocated philology as a "historical" and "genetic"
-study of "poetic consciousness and its forms." Citing literary explorations by
-Goethe, Friedrich Schiller, and Georges Polti as his inspiration, Veselovsky
-almost always uses the word "form" in the sense of "formula," and not at all
-in the sense of "shape" or "sound." In this, he imagines a rather Hegelian
-model of literary evolution, which proceeds through the development of
-universal forms and devices. Veselovsky calls these genetic constants
+Three of the sixteen essays in the seminal volumes I have discussed above
+strike in another direction, away from shape and towards formula. Shklovsky's
+"Art as Technique," "Linkages between Plot and Style Device," and Eichenbaum's
+"How the *Overcoat* Is Made," constitute a cluster of essays that deal with
+narrative structure rather than phonetic image.[ln3-propp]  All three authors
+cite a common source of influence for this direction of research: namely, the
+work of Alexander Veselovsky, the 19th century Russian historian of literature
+and founder of the comparative method in that tradition. Veselovsky, a scholar
+of the generation previous to the formalists, did not attain the renown
+enjoyed by his pupils in the West. An early pioneer of comparative literature,
+he advocated philology as a "historical" and "genetic" study of "poetic
+consciousness and its forms." Citing literary explorations by Goethe,
+Friedrich Schiller, and Georges Polti as his inspiration, Veselovsky almost
+always uses the word "form" in the sense of the "formula," and not at all in
+the sense of "shape" or "sound." In this, he imagines a rather Hegelian model
+of literary evolution, which proceeds through the development of universal
+constants, narrative plot sequences for example, which further influence the
+development of literary particulars.  Veselovsky calls these genetic constants
 "vagabond formulas" [@veselovsky_sobranie_1913, 185]. He writes:
 
-> Somewhere, someone gave these plots (*siuzhety*) an apt expression, a
+> Somewhere, someone gave these plots [*siuzhety*] an apt expression, a
 > formula, elastic enough to fit, if not new content, then new interpretations
 > of plots rich in their associative possibilities. The formula endures.
 > Writers will return to it, altering its significance, expanding its meaning,
-> and adopting it to new types. As the formula of "desire" was and continues to
-> be repeated, so also are repeated the plots of *Faust* and *Don Juan* across
-> the distance of centuries [...] We are connected to a tradition. We expand
-> within it---not to create new forms, but to attach to them new sentiments and
-> concerns. This dynamic could be considered as a type of "law of [cultural]
-> energy conservation. [@veselovsky_sobranie_1913, 475-47]
+> and adopting it to new types. As the formula of "desire" was and continues
+> to be repeated, so also are repeated the plots of *Faust* and *Don Juan*
+> across the distance of centuries [...] We are connected to a tradition. We
+> expand within it---not to create new forms, but to attach to them new
+> sentiments and concerns. This dynamic could be considered as a type of "law
+> of [cultural] energy conservation. [@veselovsky_sobranie_1913, 475-47]
+
+[ln3-propp]: To this strain of formalism one could also adduce Vladimir
+Propp's well-known *Morphology of the Folktale*, a text that finds a limited
+number of universal principles of composition in the multiplicity of folktale
+traditions.
 
 The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's
-literary formulas resemble concrete universals, which exist outside and
-independent of individual text witnesses. Formulae in this sense have a life
-of their own, in a trans- or meta- human way, not accessible to the individual
-author. They are evoked indirectly. They exist in the ether of culture,
-attaining a historical momentum of their own through a process of gradual
-genetic development. Form, in this Hegelian, historical sense, means exactly
-the opposite of form in the sense of a private utterance, by which an
-individual author breaks with an ossified tradition, as was the case with
-Shklovsky's idiosyncratic naming of the flower, *uao*.
+formulas resemble concrete universals, which develop independently of
+individual texts. Formulae in this sense have a life of their own, in a trans-
+or meta- human way, not accessible to the individual author. They are evoked
+indirectly. They exist in the ether of culture, attaining a historical
+momentum of their own through a process of gradual genetic development. Form,
+in this Hegelian, historical sense, means exactly the opposite of form in the
+sense of a private utterance, by which an individual author breaks with an
+ossified tradition, as was the case with Shklovsky's idiosyncratic naming of
+the flower, *uao*. The contradiction of understanding form as sound and form
+as formula lies at the center of formalist poetics.
 
-The contradiction of understanding form as sound and form as formula lies at
-the center of formalist poetics. As critics, the formalists privileged moments
-of mystic and trans-rational [*zaum*] poetic rebellion against static literary
-forms. As literary scholars, they reached for Hegel's concrete universal in
-the guise of trans-human formulae that have a life of their own.
-
-
-The history of literary scholarship is also punctuated by moments of revolt
-against Hegelian reading for latent universalism. A recent conversation on the
-merits of surface reading has rekindled an interest in the archeological
-metaphor, which understands textuality in terms of depth and surface. Two
-types of reading become evident in this model. The "symptomatic" literary
-critic reaches beyond the "ephemeral" external appearances to uncover internal
-and eternal metaphysical truth within. For a Marxist critic like Terry
-Eagleton or Frederic Jameson that latent meaning may have something to do with
-hidden machinations of capital and ideology. The psychologically minded critic
-reads in search of hidden drives, desires, or cognitive structures. By
-contrast to symptomatic reading, Stephen Best and Sharon Marcus describe a
-constellation of reading practices concerned with "what is evident,
-perceptible, apprehensible in text: what is neither hidden nor hiding; what,
-in the geometrical sense, has length and breadth but no thickness, and
-therefore covers no depth." The authors identify a constellation of related
-interpretation practices at the surface: reading for material surface, reading
-for verbal structure, reading for affect, reading for description, reading for
-pattern, and finally, reading for literal meaning or "just reading"
-[@best_surface_2009, 9].
+A recent conversation on the merits of surface reading has rekindled an
+interest in the archeological metaphor, which understands textuality in terms
+of depth and surface. Two types of reading become evident in this model. The
+"symptomatic" literary critic reaches beyond the "ephemeral" external
+appearances to uncover internal and eternal metaphysical truth within. For a
+Marxist critic like Terry Eagleton or Frederic Jameson that latent meaning may
+have something to do with hidden machinations of capital and ideology. The
+psychologically minded critic reads in search of hidden drives, desires, or
+cognitive structures. By contrast to symptomatic reading, Stephen Best and
+Sharon Marcus describe a constellation of reading practices concerned with
+"what is evident, perceptible, apprehensible in text: what is neither hidden
+nor hiding; what, in the geometrical sense, has length and breadth but no
+thickness, and therefore covers no depth." The authors identify a
+constellation of related interpretation practices at the surface: reading for
+material surface, reading for verbal structure, reading for affect, reading
+for description, reading for pattern, and finally, reading for literal meaning
+or "just reading" [@best_surface_2009, 9].
 
 In the late 1960s, Susan Sontag similarly wrote about "the need for more
 attention to form in art." Interpretation can be liberating, she wrote, but it
