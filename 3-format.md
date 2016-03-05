@@ -531,12 +531,12 @@ the flower, *uao*.
 
 The tension between extrinsic shape and intrinsic rule lies at the heart of
 literary theory, manifesting at times under differing yet essentially related
-vocabularies. The emphasis on extrinsic shape leads to the poetics of
-affective reading of the kind that privileges apparent surface phenomena. The
-emphasis on intrinsic rules logically leads to a hermeneutics or an archeology
-of text, by which the critics role becomes to discover non-apparent deep
+vocabularies. The emphasis on extrinsic shape logically leads to the poetics
+of affective reading of the kind that privileges apparent surface phenomena.
+The emphasis on intrinsic rules leads to a hermeneutics or an archeology of
+text, by which the critics role becomes to discover non-apparent deep
 structural regularities. Recently, the theoretical distinction between shape
-and formula has been negotiated in terms of depth and surfaces. Two types of
+and formula has been negotiated in terms of depth and surface. Two types of
 reading become evident in this model. The "symptomatic" literary critic
 reaches beyond the "ephemeral" external appearances to uncover internal and
 eternal metaphysical truth within. For a Marxist critic like Terry Eagleton or
@@ -553,116 +553,39 @@ for verbal structure, reading for affect, reading for description, reading for
 pattern, and finally, reading for literal meaning or "just reading"
 [@best_surface_2009, 9].
 
-In the late 1960s, Susan Sontag similarly wrote about "the need for more
-attention to form in art." Interpretation can be liberating, she wrote, but it
-can also stifle creativity. It "depletes" the world in some way, placing the
-critic in a privileged and unnecessarily meddling position between reader and
-text. "If excessive stress on content provokes the arrogance of
-interpretation, more extended and more thorough descriptions of form would
-silence," she writes. "The best criticism, and it is uncommon, is of this sort
-that dissolves considerations of content into those of form"
-[@sontag_against_1966, 8-9].  Marcus and Best remind the reader that Sontag's
-manifesto is not just an argument against interpretation, but also an
-"affective and ethical stance" [@best_surface_2009, 10]. Strategies of "deep"
-interpretation carry with them also a claim to access, along with an imbalance
-of interpretive acumen. The critic claims to uncover what the lay reader does
-not and cannot see. As an ethical stance, reading for external forms flattens
-the hierarchy between the lay reader and the professional interpreter. In this
+In making the argument for a kind of surface reading, Best and Marcus appeal
+to the kind of formal poetics advocated by Susan Sontag in the late 1960s. At
+the time, Sontag wrote about "the need for more attention to form in art."
+Interpretation can be liberating, she wrote, but it can also stifle
+creativity. It "depletes" the world in some way, placing the critic in a
+privileged and unnecessarily meddling position between reader and text. "If
+excessive stress on content provokes the arrogance of interpretation, more
+extended and more thorough descriptions of form would silence," she writes.
+"The best criticism, and it is uncommon, is of this sort that dissolves
+considerations of content into those of form" [@sontag_against_1966, 8-9].
+Marcus and Best remind the reader that Sontag's manifesto is not just an
+argument against interpretation, but also an "affective and ethical stance"
+[@best_surface_2009, 10]. Strategies of "deep" interpretation carry with them
+also a claim to access, along with an imbalance of interpretive acumen. The
+critic claims to uncover what the lay reader does not and cannot see without
+expert guidance. As an ethical stance, reading for external forms flattens the
+hierarchy between the lay reader and the professional interpreter. In this
 sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
 vernacular exegesis. All readers are priests at the surface. All readers are
 capable, the critics suggest, of forming their own interpretation.
-
-Where we started with a dichotomy, we arrive at a tripartite model of
-textuality in which form bridges matter and content. The history of Western
-aesthetics can be seen as pulling the work of art through one or several of
-these layers of analysis: as when Susan Sontag entreats her reader to pay more
-attention to form (as sensuous shape), or when Johanna Drucker asks her reader
-to consider the materiality of text, or when Sharon Marcus writes about
-reading for "what lies in plain sight." But the very words "matter," "form,"
-and "content" often tangle in the conceptual confusion of texts that resist
-being pinned down to any single stratum of interpretation. I am trying to
-understand, for example, what Roland Barthes means by the distinction between
-"work" and "text" in his seminal essay on textuality.[^ln4-barthes] For
-Barthes, the work has something to do with paper, bookshelves, and, more
-generally, substance. By contrast, text is something "radically symbolic,"
-something that moves across works, not bound to any specific matter. Barthes's
-"texts" sound like ideas, where his "works" sound like books. This usage
-stands in direct opposition to the tradition of textual criticism, where
-"source texts" stand for specific, materially-bound editions or manuscripts,
-and "works" for the collective unity of the artistic vision: the idea of
-Shakespeare's *Hamlet*, for example, in opposition to variance found in the
-multiplicity of individual *Hamlets*.
-
-Whereas Barthes wants to liberate text as symbol from the embodied work,
-scholars like Johanna Drucker make a strong case for returning the text to its
-underlying material contexts. Much of her work reminds the reader that ideas
-cannot exist outside of their material form, that paper and typography are the
-formal medium for the production of meaning in language, and that even
-electronic, digital text formats have their material embodiment
-[@drucker_digital_2001; @drucker_graphical_2006; @drucker_letterpress_2008;
-@drucker_speclab_2009; @drucker_reading_2013]. I am sympathetic to the message,
-but only in so far as it adds a dimension of materiality to a properly
-three-dimensional, multi-layered, thick description of text.
-
-A clarification of the terms and an understanding of form both as shape and
-formula allows us to perceive the history of textual technology as one of the
-gradual stratification between matter, form, and content. Textuality comes
-unglued. This allographic property of text---its ability to "peel" away, to
-change shape, and to dis-embed---is worthy of critical attention. I am not only
-against the theoretical move to batten textuality down, but I think of such
-attempts as practically and politically imprudent. The ephemerality of an
-electronic text represents the hard-won struggle on the part of writers,
-literary scholars, and software engineers to liberate ideas from their material
-and formal contexts. As an extreme example, imagine discourse that could never
-be separated from a specific medium. Communication would be difficult, if not
-impossible! Moreover, deeply seated values in favor of free speech and the
-unencumbered exchange of information depend on a loose coupling between
-ontological categories. Our abilities to remix, translate, remediate, recycle,
-transmit, transform, and transcend the ideas of others relies on their
-ephemeral nature. Ideas deposited in ossified matter, in fixed shapes, do not
-travel well. And there are plenty of "actors" that would like for culture to
-return to the time of singular thought, etched in monolithic tablets, whether
-made of stone or silicone.
-
-But, the loose coupling of content to its underlying strata of form and matter
-also comes at a cost. As surface phenomena, text hides the flows of power and
-control coursing beneath. For now, the text remains if not "at hand," then "at
-hand's length." But as books get smaller, "micrographic" writing moves closer
-to the optic nerve: first as wearable technology (watches, glasses, pins), then
-as ingestible particle (smart dust, nanobots), and finally as something coupled
-directly with the nervous system and inscribed into the neural network of the
-brain (as the ultimate hard- or rather wetware platform). The movement from
-afar to within logically completes the program of "intellect augmentation"---a
-program which begins not with Vannevar Bush, J.C.R. Licklider, and Douglas
-Engelbart (who used the term extensively), and not with *Xerox*, the ultimate
-purveyors of radical surface reading, but with the invention of writing itself.
-Reading "for meaning," in these not at all futuristic conditions,[^ln4-reading]
-involves turning hermeneutics into reverse engineering.
-
-Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
-deemed the "sensory experience" or the "erotics" of art. In her now classic
-1966 essay "Against Interpretation," Sontag posits transparency as the
-"highest, most liberating value in art and in criticism today." "Transparency
-means experiencing the luminousness of the thing in itself, of things being
-what they are" she explains [@sontag_against_1966, 9]. Rather than to show
-what a work of art *means*, Sontag urges critics to show "how it is" and "that
-it is" [@sontag_against_1966, 10]. To make her argument Sontag relies on the
-distinction between "meaning" or "content" on the one hand and "form" or the
-"sensory experience" of the work on the other. Form, in this sense, mirrors
-McKeown's "shape" and the "text's physical characteristics" of Hayles.
 
 Interpretation at the level of meaning and content for Sontag is an
 intellectual and ultimately reactionary activity. It aims to find "the maximum
 amount of content" within. It is reactionary because it serves only to
 multiply the available "levels of analysis." In explicating the work of art,
 the critic essentially creates alternative and diverging copies of the
-original. Each layer of critics adds to the content of the work. In Sontag's
+original. Each layer of criticism adds to the content of the work. In Sontag's
 words, to "design" a work of art that can be experienced in this way, on
 multiple levels, might have been "creative" and "revolutionary" in the age of
 aesthetic paucity, when creativity and interpretation were limited to a few
 privileged individuals. By contrast, Sontag believes that her times are a
 period of creative abundance. "Think of the sheer multiplication of works of
-art available to all of us," she writes.  Contemporary culture is based on
+art available to all of us," she writes. Contemporary culture is based on
 "excess" and "material plenitude" which dull the senses. In such conditions,
 the production of further critical variations on the theme only adds to the
 dulling clutter.
@@ -676,15 +599,13 @@ apparent, perceptual properties of the work: this sentence is long, for
 example. And this one short. A critic could say that the sentence length means
 something, but Sontag wants to stop short of meaning making. A discipline of
 careful perception---of paying attention---rather sharpens the reader's
-sensibilities.
-
-The history of interpretation Sontag objects to is one that privileges content
-over form. The very words "explication" and "exegesis" imply the movement from
-inside to the outside. For a psychoanalytical critic interpretation in that
-sense may mean revealing the hidden psychological drives that give rise to a
-particular form of an expression. A Marxist critic may instead look for the
-concealed operation of this or that ideology. Fredrick Jameson, a prominent
-Marxist critic, writes for example:
+sensibilities. The history of interpretation Sontag objects to is one that
+privileges content over form. The very words "explication" and "exegesis"
+imply the movement from inside to the outside. For a psychoanalytical critic
+interpretation in that sense may mean revealing the hidden psychological
+drives that give rise to a particular form of an expression. A Marxist critic
+may instead look for the concealed operation of this or that ideology.
+Fredrick Jameson, a prominent Marxist critic, writes for example:
 
 > Thus the process of criticism is, not so much the interpretation of
 content, as it is a revealing of it, a laying bare, a restoration of the
@@ -694,7 +615,21 @@ takes the form of an explanation of why the content was so distorted and is
 thus inseparable from a description of the mechanisms of the censorship itself
 [@jameson_marxism_1972, 404].
 
-Format.
+Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
+deemed the "sensory experience" or the "erotics" of art. In her now classic
+1966 essay "Against Interpretation," Sontag posits transparency as the
+"highest, most liberating value in art and in criticism today." "Transparency
+means experiencing the luminousness of the thing in itself, of things being
+what they are" she explains [@sontag_against_1966, 9]. Rather than to show
+what a work of art *means*, Sontag urges critics to show "how it is" and "that
+it is" [@sontag_against_1966, 10]. To make her argument Sontag relies on the
+distinction between "meaning" or "content" on the one hand and "form" or the
+"sensory experience" of the work on the other. Form, in this sense, mirrors
+McKeown's "shape" and the "text's physical characteristics" of Hayles.
+
+Return to format.
+
+### 3.3 Document Object Model
 
 Although the distinction between form and content is somewhat naturalized in
 literary and linguistic discourse, the concept of form is also often used in
@@ -711,8 +646,6 @@ matter to us as readers (line breaks), and others do not (font kerning). Three
 things seem to be in play rather than two: matter, form, and content. And of
 these, form sometimes falls into the category of meaningless matter and
 sometimes into semantic-carrying ideation: form, the indeterminate.
-
-### 3.3 Document Object Model
 
 Tanselle's definitions help identify the two key components implicit in the
 concept of format as both process and structure that relate the medium of the
