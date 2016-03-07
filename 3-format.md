@@ -689,24 +689,15 @@ way the fonts look, for example, or the way lines break on the page. Some
 matters of format matter to us as readers (line breaks), while others may not
 (font kerning, for example). The tradition of textual criticism reminds the
 literary theorist of the transition that happens between literary texts and
-literary works. It is always a fraught, 
+literary works. The transformation between ideas and things is always a
+fraught process, because whatever the theorist may believe about the dynamics
+of interpretation must be weighed against the material affordances of the
+specific textual witness. A word, a comma not included into the text cannot
+become a part of meaning making. Formatting practices keep the gates of
+interpretation.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
-
-Tanselle's definitions help identify the two key components implicit in the
-concept of format as both process and structure that relate the medium of the
-work to its content:
-
-> `medium > process > structure > content`
-
-In the case of books, text appears to us as structure of a particular shape
-(pages and paragraphs) embedded into a medium (paper or pixel), in particular
-ways. The kind of close reading
-
-Now that has been established, I would like to suggest a third kind of
-fomalism.
-
 
 ### 3.3 Document Object Model
 
