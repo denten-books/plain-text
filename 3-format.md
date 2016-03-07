@@ -627,25 +627,37 @@ distinction between "meaning" or "content" on the one hand and "form" or the
 "sensory experience" of the work on the other. Form, in this sense, mirrors
 McKeown's "shape" and the "text's physical characteristics" of Hayles.
 
-Return to format.
+If reading for sensory experience implies an erotics of art and reading for
+hidden formulae implies an analytics, what would it mean to read for the
+format? To borrow from Tanselle's vocabulary, the format bridges the "physical
+structure of finished books" with their "intellectual content." This
+connection happens through what Tanselle calls "printing-shop routines" and
+what we began to identify in the previous chapter as a kind of a technique.
+Formatting in that sense is a way of structuring of information. The task of a
+textual scholar broadly is therefore to serve in the role of an arbitrator in
+the conflict between the textual witnesses, which individually contain
+slightly differing versions of the same text, but in aggregate identify the
+sum total of a given work.[^ln3-printers] The textual scholar how works become texts and
+the other way around. It is in this sense, for example, that C. Deirdre Phelps
 
-### 3.3 Document Object Model
+[^ln3-printers]: See for example the discussion on the limits of the inductive
+method in bibliographic study in @mckenzie_making_2002, 16-17. See also
+@mcgann_socialization_1991; @tanselle_textual_1996.
 
-Although the distinction between form and content is somewhat naturalized in
-literary and linguistic discourse, the concept of form is also often used in
-another way, which contradict the earlier sense set in opposition to meaning
-and content. When we think of Shakespeare's *Hamlet*, for example, whatever is
-meant by the "form" of the play belongs neither to its physical medium (pixel
-or paper) nor to the ideational content of the work. Form, in that sense, lies
-somewhere between the two worlds: it is in the shape of the letters, in the
-structure of the narrative, and in the prosody of the word. We do not quite
-know which of these elements belong to the content of the play and which are
-the contingent material artifacts of the printing process: the way the fonts
-look, for example, or the way lines break on the page. Some matters of form
-matter to us as readers (line breaks), and others do not (font kerning). Three
-things seem to be in play rather than two: matter, form, and content. And of
-these, form sometimes falls into the category of meaningless matter and
-sometimes into semantic-carrying ideation: form, the indeterminate.
+The study of format implies 
+
+When we think of Shakespeare's *Hamlet*, for example, whatever is meant by the
+"form" of the play belongs neither to its physical medium (pixel or paper) nor
+to the ideational content of the work. Form, in that sense, lies somewhere
+between the two worlds: it is in the shape of the letters, in the structure of
+the narrative, and in the prosody of the word. We do not quite know which of
+these elements belong to the content of the play and which are the contingent
+material artifacts of the printing process: the way the fonts look, for
+example, or the way lines break on the page. Some matters of form matter to us
+as readers (line breaks), and others do not (font kerning). Three things seem
+to be in play rather than two: matter, form, and content. And of these, form
+sometimes falls into the category of meaningless matter and sometimes into
+semantic-carrying ideation: form, the indeterminate.
 
 Tanselle's definitions help identify the two key components implicit in the
 concept of format as both process and structure that relate the medium of the
@@ -658,6 +670,9 @@ In the case of books, text appears to us as structure of a particular shape
 ways. The kind of close reading
 Now that has been established, I would like to suggest a third kind of
 fomalism.
+
+
+### 3.3 Document Object Model
 
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
