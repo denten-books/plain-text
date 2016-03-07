@@ -637,27 +637,62 @@ Formatting in that sense is a way of structuring of information. The task of a
 textual scholar broadly is therefore to serve in the role of an arbitrator in
 the conflict between the textual witnesses, which individually contain
 slightly differing versions of the same text, but in aggregate identify the
-sum total of a given work.[^ln3-printers] The textual scholar how works become texts and
-the other way around. It is in this sense, for example, that C. Deirdre Phelps
+sum total of a given work.[^ln3-printers] The textual scholar studies how
+works become texts and the other way around. It is in this sense, for example,
+that C. Deirdre Phelps describes the notion of physical form in textual
+criticism. In creating a physical manifestation of a text, publishers
+introduce textual changes that may or may not correspond to either authorial
+intention or the reader's expectations. For example, we could imagine an
+expensive edition of poetry by William Blake to be printed without
+illustrations to save costs. If we subsequently lose all other editions of
+Blake, the textual critic may be interested in reconstructing the
+bibliographic genealogy of this one edition to understand something about the
+life of the work. "The textual critic is concerned mainly with the fact of the
+[textual] change itself," Phelps writes [@phelps_edition_1994, 65-6].
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
 @mcgann_socialization_1991; @tanselle_textual_1996.
 
-The study of format implies 
+Various schools of textual criticism may privilege either authorial intention,
+publisher's discretion, or the reader's expectation, but whatever these
+choices may hold, they propagate a kind of value determination that separates
+those physical attributes meaningful to the work from those that are not. For
+example, in their online edition of Claude McKay's 1922 collection of poems
+*Harlem Dawn*, the editors made the decision to encode indentation, preserving
+the perceived integrity of the poem's visual line structure. However, they
+have also allowed for the text to wrap when viewed on small devices, in effect
+"soft wrapping" those lyrical lines that are too long to fit on a small
+screen. The end result is a compromise between authorial intention and
+technological capability. Other solutions are possible, of course. The editors
+could have chosen to recreate a graphical facsimile of a particular print
+edition, which would not render well on small screen [@mckay_harlem_2015]. The
+choice to preserve certain attributes of formatting, while suppressing others
+identifies those elements meaningful to the editors. In the most extreme case,
+we could imagine an editor wanting to preserve all of a text's details, down
+to the molecular structure of the original. Such a text could be accompanied
+by a potentially unlimited amount of metadata describing the precise physical
+contexts of the universe surrounding the authoritative version. To reproduce
+the text faithfully would be to reproduce the world around it. We do not,
+however, as readers, usually care for all of a text's physical attributes.
+Stains and scratches on the paper's surface are usually discarded in
+reproduction. They are not seen as meaningful for the understanding of text.
 
-When we think of Shakespeare's *Hamlet*, for example, whatever is meant by the
-"form" of the play belongs neither to its physical medium (pixel or paper) nor
-to the ideational content of the work. Form, in that sense, lies somewhere
-between the two worlds: it is in the shape of the letters, in the structure of
-the narrative, and in the prosody of the word. We do not quite know which of
-these elements belong to the content of the play and which are the contingent
-material artifacts of the printing process: the way the fonts look, for
-example, or the way lines break on the page. Some matters of form matter to us
-as readers (line breaks), and others do not (font kerning). Three things seem
-to be in play rather than two: matter, form, and content. And of these, form
-sometimes falls into the category of meaningless matter and sometimes into
-semantic-carrying ideation: form, the indeterminate.
+Thus whenever we think of Shakespeare's *King Lear*, for example, whatever is
+meant by the "format" of the play belongs neither wholly to its physical
+medium (pixel or paper) nor to the ideational content of the work. Format, in
+that sense, lies somewhere between the two worlds: it is in the shape of the
+letters, in the structure of the narrative, and in the prosody of the word. We
+do not quite know which of these elements belong to the content of the play
+and which are the contingent material artifacts of the printing process: the
+way the fonts look, for example, or the way lines break on the page. Some
+matters of format matter to us as readers (line breaks), while others may not
+(font kerning, for example). The tradition of textual criticism reminds the
+literary theorist of the transition that happens between literary texts and
+literary works. It is always a fraught, 
+
+[^ln3-remind]: See for example @shillingsburg_being_2006;
+@greetham_textual_1989.
 
 Tanselle's definitions help identify the two key components implicit in the
 concept of format as both process and structure that relate the medium of the
@@ -668,6 +703,7 @@ work to its content:
 In the case of books, text appears to us as structure of a particular shape
 (pages and paragraphs) embedded into a medium (paper or pixel), in particular
 ways. The kind of close reading
+
 Now that has been established, I would like to suggest a third kind of
 fomalism.
 
