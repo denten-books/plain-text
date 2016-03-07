@@ -701,6 +701,35 @@ interpretation.
 
 ### 3.3 Document Object Model
 
+In a meditation on pictographs and pictographic logic Johanna Drucker and
+Jerome McGann write about the "presentational form of texts" which usually
+masks their "logical operations in a surface rhetoric that dominates and
+controls our conscious attention." "The physicality of textual marks and
+shapes disappear in an act of reading determined to highlight certain kinds of
+conceptual references (content)," they continue. At the same time, what the
+authors call the "holistic repleteness of images" also keeps us from
+perceiving their "conceptual order [...] as if the graphic character of the
+work were completely obvious" [@drucker_images_????]. This important insight
+captures the dual movement of formatting at once towards the physical
+characteristics of the text and towards the mental characteristics of the
+content. Ideation ally, the reader understands the text as a mental construct
+that takes shape in the mind. The book subsides into obscurity, as Percy
+Lubbock wrote in *The Craft of Fiction*. Subsequently, readers tend to treat
+text in a disembodied fashion---surface rhetoric---forgetting about the
+material structures that support the mental phenomena. Phenomenologically
+speaking however, the text presents itself holistically, at once, as a unified
+image, in what the Drucker and McGann call its "holistic repleteness." It is
+as if it was always so: these words were always in these order, at these
+coordinates on the page. The printer and the book designer know that it is not
+so. Drucker and McGann write that:
+
+> systems of graphic presentation are operational, not merely passive
+schematic structures. They are active agents for creating meaning,
+instructions for reading, viewing, comprehending information
+[@drucker_images_????].
+
+<!-- transition to format finally -->
+
 It is in this tripartite sense of matter, form, and idea that one can best
 understand the structure of modern "digital" documents. In the language of the
 Document Object Model, the literary-theoretical concept of "form" can mean both
