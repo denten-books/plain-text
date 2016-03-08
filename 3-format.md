@@ -717,30 +717,25 @@ that takes shape in the mind. The book subsides into obscurity, as Percy
 Lubbock wrote in *The Craft of Fiction*. Subsequently, readers tend to treat
 text in a disembodied fashion---surface rhetoric---forgetting about the
 material structures that support the mental phenomena. Phenomenologically
-speaking however, the text presents itself holistically, at once, as a unified
+speaking however, the page presents itself holistically, at once, as a unified
 image, in what the Drucker and McGann call its "holistic repleteness." It is
-as if it was always so: these words were always in these order, at these
-coordinates on the page. The printer and the book designer know that it is not
-so. Drucker and McGann write that:
-
-> systems of graphic presentation are operational, not merely passive
-schematic structures. They are active agents for creating meaning,
+as if it was always so: these words were always in this order, at these
+coordinates. The printer and the book designer know that it is not so. Drucker
+and McGann write that "systems of graphic presentation are operational, not
+merely passive schematic structures [...] active agents for creating meaning,
 instructions for reading, viewing, comprehending information
 [@drucker_images_????].
 
-<!-- transition to format finally -->
-
-It is in this tripartite sense of matter, form, and idea that one can best
-understand the structure of modern "digital" documents. In the language of the
-Document Object Model, the literary-theoretical concept of "form" can mean both
-"class" and "instance" (object-oriented programming), or "set" and "object"
-(set theory), or "type" and "term" (type theory). Although literature in
-computer science rarely operates in the mode of intellectual history,
-computer-aided text editors internalized a model of document structure
-remarkably similar to the one suggested by Hegelian aesthetics, and in terms of
-physical (media), form (formatting), and content (text) levels of analysis. The
-Document Object Model weaves the language of the Hegelian universal into the
-fabric of modern computing.
+We are finally confronted with several concrete differences between print and
+digital formats for text resolution. Editors and textual scholars negotiate
+the instruction set for reading, viewing, and comprehending information in
+print in advance of publication. The choice to include or to exclude certain
+words, versions, or visual elements of the text is set into the page, where it
+remains statically in place for the duration of a book's life cycle. The book
+itself provides a stable platform for a range of reading practices, which include
+annotation, copying, and the preservation of written work. To the extent that
+books determine the affordances of reading, those affordances exhibit
+historical continuity. The 
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
@@ -749,19 +744,19 @@ facility, the editing facility, and the printing facility"
 [@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
 contains such things as justification, indentation, and spacing. These
 "primitive requests" can be combined to describe more complex "structures of
-the printed text." The creators of *QED*, another influential early text editor
-(created for the SDS-930 time-sharing system at Berkeley) similarly encourage
-the user "to think in terms of structure" of the text. Both *QED* and *EDIT*
-begin to separate content and formatting for later recombination and imprinting
-onto external storage media. Kaiman explains that "the user types the document
-layout file and the text file, then produces a proof or master copy of the text
-by printing the text according to the directions of the layout file. The text
-file contains layout marks to be interpreted by the layout file." "Text," in
-this schema, constitutes content meaningful only to the user, whereas layout
-contains some elements meaningful to the human and some elements as code
-instructions intended for device control. The notion of "formatting" therefore
-mediates between the logical (semantic) and layout (stylistic) structural
-representations.
+the printed text." The creators of *QED*, another influential early text
+editor (created for the SDS-930 time-sharing system at Berkeley) similarly
+encourage the user "to think in terms of structure" of the text. Both *QED*
+and *EDIT* begin to separate content and formatting for later recombination
+and imprinting onto external storage media. Kaiman explains that "the user
+types the document layout file and the text file, then produces a proof or
+master copy of the text by printing the text according to the directions of
+the layout file. The text file contains layout marks to be interpreted by the
+layout file." "Text," in this schema, constitutes content meaningful only to
+the user, whereas layout contains some elements meaningful to the human and
+some elements as code instructions intended for device control. The notion of
+"formatting" therefore mediates between the logical (semantic) and layout
+(stylistic) structural representations.
 
 ![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
