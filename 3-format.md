@@ -699,8 +699,6 @@ interpretation.
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
 
-### 3.3 Document Object Model
-
 In a meditation on pictographs and pictographic logic Johanna Drucker and
 Jerome McGann write about the "presentational form of texts" which usually
 masks their "logical operations in a surface rhetoric that dominates and
@@ -780,18 +778,70 @@ family members, and other Kindle users who choose to follow them to get more
 from their reading. If someone you follow has highlighted a passage in a book
 and has turned on Public Notes for the book, you'll see that passage
 highlighted along with the name of the person who highlighted it. You'll also
-see the notes that they made in the book [@_amazon_????]
+see the notes that they made in the book [@_amazon_????] The Google Play Books
+platform does not have a public note features nor does it support book
+editing. It does however add the ability to translate words and passages and
+to search for selected phrases using the company's search engine
+[@_read_????]. In short, the electronic book cannot be reduced to a single
+platform. The affordances of reading, taking notes, sharing, and storing books
+are determined by the software, governed by specific socio-economic
+contingencies. Thus a book available in North America, might be be available
+on other continents, or it could be available elsewhere in a redacted form,
+its content tailored to the reader's geography dynamically.
 
-The Google Play Books platform does not have a public note features nor does
-it support book editing. It does however add the ability to translate words
-and passages and to search for selected phrases using the company's search
-engine [@_read_????]. In short, the electronic book cannot be reduced to a
-single platform. The affordances of reading, taking notes, sharing, and
-storing books change are determined by the software, governed by specific
-socio-economic contingencies. Thus a book available in North America, might be
-be available on other continents, or it could be available elsewhere in a
-redacted form, its content tailored to the reader's geography dynamically. A
-book pur
+On the other hand, my remarks about the diffuse affordances of the electronic
+book hold true only for interaction through the sanctioned "front end" modes
+of access. For example, note that all of the major book platforms I have
+mentioned above are coupled tightly with their respective book markets.
+Whatever the comparative affordances of reading an Amazon ebook versus the
+book expressed in the Adobe Document Cloud, the software must emulate the
+logics of document ownership. To own an electronic book or a document means
+significantly different things depending on the specific affordances of the
+given platform. In another sense, to own a book in each case means to have
+access to the bits that bring the simulation of the book into existence. At
+some lower level of abstraction the variety of reading platforms rest on the
+computational substratum. This hyper-media, as Lev Manovich calls it,
+underlies all simulacra, including the bibliographic
+[@manovich_software_2013]. A common act of epistemic disobedience, to borrow
+from Walter Mignolo, therefore includes accessing the book bits more directly,
+through unsanctioned channels [@mignolo_epistemic_2009]. One can for example
+disentangle models of document ownership embodied in an Amazon Kindle document
+format from the "content" of the book itself. The so called "ripping" of the
+Kindle book library involves reformatting individual books into other forms
+which could hypothetically enable unfettered copying and circulation,
+constrained by original platform. The activity need not be illicit. The
+extraction of plain text from the Portable Document Format commonly
+constitutes the initial step in scholarly corpus analysis or distant reading.
+
+In each of the above examples, the reader confronts some aspect of formatting
+instrumentally, for a particular purpose like copying, analysis, or
+preservation. I am however also interested in a more systematic wholesale
+exposition of electronic document structure. Reading for format involves the
+deconstruction, both literal and figuratively historical, of the literary
+device. Where paper books present the reader with a limited set of known
+affordances tied to the print medium, electronic books present us with a
+virtually limitless and for the most part unexamined set of simulated
+affordances. Whatever interpretive activity readers hope to enact at the level
+of textual representation is grounded in the material affordances of the
+simulated book. The responsibility for formatting no longer belongs to the
+singular act of edition making. A number of agents actively intercede in the
+transition between the inscription---information on a disk---and its
+representation---pixels on the screen. These intercessions may be benign, as
+when the electronic book changes the layout of the text to fit a smaller
+screen when displaying text on mobile devices; or it may be totalizing as when
+a book platform is designed also to censor or to surveil its readers for
+commercial or political purposes. Reading for format reveals the structure of
+the transformation between media: the liquid crystal, the floating gate, and
+the entorhinal grid.[^ln3-hex] The format governs and controls in the sense of
+shaping the encounter between otherwise incommensurate systems, hardware and
+wetware---storage, screen, and brain.
+
+[^ln3-hex]: In this last regard see @stensola_entorhinal_2012. This
+ground-breaking work describes the structure of data in the human brain.
+
+### 3.3 Document Object Model
+
+There are many but one rules them all...
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
