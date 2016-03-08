@@ -732,10 +732,19 @@ the instruction set for reading, viewing, and comprehending information in
 print in advance of publication. The choice to include or to exclude certain
 words, versions, or visual elements of the text is set into the page, where it
 remains statically in place for the duration of a book's life cycle. The book
-itself provides a stable platform for a range of reading practices, which include
-annotation, copying, and the preservation of written work. To the extent that
-books determine the affordances of reading, those affordances exhibit
-historical continuity. The 
+itself provides a stable platform for a range of reading practices, which
+include annotation, copying, and the preservation of written work. To the
+extent that books determine the affordances of reading, those affordances
+exhibit historical continuity. For example, the format of the book presupposes
+several physical abilities like manual dexterity, reading capability, and
+eyesight within a specific range of vision. In return, the book affords tasks
+like highlighting and the taking of notes. For the highlighter or the pen to
+function well the printing medium must be made of a porous material, and not,
+for example, plastic, which would make marking the page difficult while
+affording other capabilities, like reading under water. Empty space on a page
+around the text facilitates marginalia .[^ln3-notes]
+
+[ln3-notes]: See for example @blair_note_2004; @daston_taking_2004.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
