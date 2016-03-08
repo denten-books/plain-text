@@ -738,13 +738,60 @@ extent that books determine the affordances of reading, those affordances
 exhibit historical continuity. For example, the format of the book presupposes
 several physical abilities like manual dexterity, reading capability, and
 eyesight within a specific range of vision. In return, the book affords tasks
-like highlighting and the taking of notes. For the highlighter or the pen to
-function well the printing medium must be made of a porous material, and not,
-for example, plastic, which would make marking the page difficult while
-affording other capabilities, like reading under water. Empty space on a page
-around the text facilitates marginalia .[^ln3-notes]
+like highlighting and the taking of notes. Empty space on a page around the
+text facilitates marginalia. For the highlighter or the pen to function well
+the printing medium must be made of a porous material, and not, for example,
+plastic, which would make marking the page difficult while affording other
+capabilities, like reading under water.[^ln3-notes]
 
-[ln3-notes]: See for example @blair_note_2004; @daston_taking_2004.
+[ln3-notes]: See @blair_note_2004; @daston_taking_2004; @piper_note_2012.
+
+The affordances of the electronic book are more diffuse. On the one hand, the
+format of the book has been replaced with a multitude of competing digital
+formats, each vying to supplant print to become the singular, unified reading
+platform. The family of book- and document-related application software made
+by Adobe Systems, the company behind the popular Portable Document Format,
+includes Adobe Digital Editions, which the reader can use "to download and
+purchase digital content, which can be read both online and offline. The
+platform's "features" include the ability to "download and transfer books
+between devices," "searching eBooks," support for multiple languages, the
+ability to borrow books, printing, limited support for visually impaired
+readers, bookmarking, highlights, notes, and file organization [@_plans_????].
+Its own competing Adobe Document Cloud reading platform includes the Free,
+Standard, and Pro versions of Acrobat Reader, "the global standard for
+reliably viewing, printing, and commenting on PDF documents" [@_adobe_????].
+Only the most expensive Pro version allows one to "create and validate PDFs to
+meet accessibility standards for people with disabilities." The free version
+does not support bookmarks or document editing. The Pro version allow enables
+readers to "redact and permanently remove sensitive information in PDFs" and
+to "compare two version of a document to see what's changed" [@_plans_????].
+The Amazon Kindle reader, made by the world's largest purveyor of book both
+print and electronic, includes a feature called "Public Notes" which allows
+Kindle customers to "make their highlights and notes available for anyone to
+see" [@_amazon_????-1]. The frequently asked question page further explains
+that "if someone you follow has highlighted a passage in a book and has turned
+on Public Notes for the book, you'll see that passage highlighted along with
+the name of the person who highlighted it." The FAQ continues to tout the
+benefits of their platform:
+
+> Now authors, thought leaders, passionate readers, professors and all Kindle
+users can opt-in to share their notes with other readers, helping friends,
+family members, and other Kindle users who choose to follow them to get more
+from their reading. If someone you follow has highlighted a passage in a book
+and has turned on Public Notes for the book, you'll see that passage
+highlighted along with the name of the person who highlighted it. You'll also
+see the notes that they made in the book [@_amazon_????]
+
+The Google Play Books platform does not have a public note features nor does
+it support book editing. It does however add the ability to translate words
+and passages and to search for selected phrases using the company's search
+engine [@_read_????]. In short, the electronic book cannot be reduced to a
+single platform. The affordances of reading, taking notes, sharing, and
+storing books change are determined by the software, governed by specific
+socio-economic contingencies. Thus a book available in North America, might be
+be available on other continents, or it could be available elsewhere in a
+redacted form, its content tailored to the reader's geography dynamically. A
+book pur
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
