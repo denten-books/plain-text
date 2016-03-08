@@ -86,20 +86,26 @@ imperative.
 
 ### 1.1 Verisimilitude
 
-In cognitive metaphor theory, the kind of resemblances that we have been
-discussing so far are called *structural metaphors*. "Structural metaphors
-allow us to do much more than just orient concepts," Lakoff and Johnson wrote
-[@lakoff_metaphors_1980, 61]. Grounded in "systematic correlations within our
-experience," structural metaphors transfer organizing principles from one
-domain to another. Thus to say something like "time is money" is to suggest
-that something in the arrangement of the financial system correlates
-systematically to something in the arrangement of the temporal system
-[@lakoff_metaphors_1980, 65-8]. It is a structural and not just a semantic
-similarity. If metaphors work by transferring qualities, structure is the
-quality being transferred in all of the above cases. Structural metaphors
-organize one thing in the shape of another. They are for this reason key to
-understanding the transference that takes place in the interface between human
-and machine.
+From the many available theories of metaphor, in this chapter I will be
+relying on the ideas from the so called "cognitive metaphor" school developed
+extensively by George Lakoff, Mark Johnson, and Mark Turner among others in
+the 1980s. As we shall see later on in the chapter, cognitive metaphor theory
+gains influence in the formative period in the history of human--computer
+interaction. It is important for me therefore to take on the vocabulary of
+that tradition and to advance its critique from within. In cognitive metaphor
+theory, the kind of resemblances that we have been discussing so far are
+called *structural metaphors*.  "Structural metaphors allow us to do much more
+than just orient concepts," Lakoff and Johnson wrote [@lakoff_metaphors_1980,
+61]. Grounded in "systematic correlations within our experience," structural
+metaphors transfer organizing principles from one domain to another. Thus to
+say something like "time is money" is to suggest that something in the
+arrangement of the financial system correlates systematically to something in
+the arrangement of the temporal system [@lakoff_metaphors_1980, 65-8]. It is a
+structural and not just a semantic similarity. If metaphors work by
+transferring qualities, structure is the quality being transferred in all of
+the above cases. Structural metaphors organize one thing in the shape of
+another. They are for this reason key to understanding the transference that
+takes place in the interface between human and machine.
 
 On an abstract level, structural substitution defines computation in general.
 The computer can be imagined as a universal metaphor machine, capable of
@@ -807,16 +813,21 @@ Norman, and James Hollan write: "There is an economy here in that the user's
 knowledge of the structure of the surface acoustical form has a non-arbitrary
 relationship to meaning [...] The same sort of thing can be done in the design
 of interface languages" [@norman_cognitive_1991, 123]. An iconic image
-requires no explanation; it is intuitive. Instead of searching for the right
-command the user relies on the habituated affordances of real-world objects,
-like table tennis paddles and paper trashcans, to manipulate virtual objects,
-like computer games and file systems. The move between "conversational" and
-"direct" interaction models could in this way be explained as a shift from a
-system of symbolic signs which stand in arbitrary relationship to their
-referents to a system of iconic signs that stand in a mimetic
-relationship.[^ln1-peirce]
+requires no explanation; it is intuitive.[^ln1-icon] Instead of searching for
+the right command the user relies on the habituated affordances of real-world
+objects, like table tennis paddles and paper trashcans, to manipulate virtual
+objects, like computer games and file systems. The move between
+"conversational" and "direct" interaction models could in this way be
+explained as a shift from a system of symbolic signs which stand in arbitrary
+relationship to their referents to a system of iconic signs that stand in a
+mimetic relationship.[^ln1-peirce]
 
-[^ln1-peirce]: Charles Sanders Perice, a philosopher of language whose
+[^ln1-icon]: I am using the traditional Peircian distinction between symbol,
+icon, and index. Peirce writes "icons are are so completely substituted for
+their objects as hardly to be distinguished from them" [@peirce_algebra_1992,
+226].
+
+[^ln1-peirce]: Charles Sanders Peirce, a philosopher of language whose
 vocabulary I have been using here, suggests Simulacra as a possible synonym
 for Icon, citing also Plato's *Phaedrus* in relation to the Greek `ὁμοίωμα` or
 imitation [@peirce_excerpts_1998, 481; @plato_plato:_1999, 250a-b].
@@ -1011,9 +1022,10 @@ words, or images. *No Interface*, *Don't Make me Think*, and *Hooked: How to
 Build Habit-Forming Products* are some of the most well-written and
 best-selling titles advancing this argument [@krug_dont_2014;
 @eyal_hooked:_2014; @krishna_best_2015]. Military applications aside, we must
-prepare for a future in affective arts, the ultimate loss of references and
-resemblances: literature without representation, painting without figure,
-message without sign.
+prepare for a future in affective, mystical arts, the ultimate loss of
+references and resemblances, where works of art are to be experienced
+emotively past the senses: literature without representation, painting without
+media, message without sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human--computer interaction in all of its
@@ -1080,4 +1092,3 @@ concerns the relation between message and its medium or channel. At first
 glance, it concerns only this relation, but upon closer examination, the first
 alteration irradiates in every direction, affecting in decisive manner all the
 factors and functions" [@ricur_interpretation_1976, 25].
-
