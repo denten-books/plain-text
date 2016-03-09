@@ -841,7 +841,22 @@ ground-breaking work describes the structure of data in the human brain.
 
 ### 3.3 Document Object Model
 
-There are many but one rules them all...
+A notion of formatting underlies all contemporary digital documents. The
+history of formatting reveals a structure that emerges initially for the
+purposes of visual layout, developing into an active agent containing
+"instructions for reading, viewing, and comprehending information" of the sort
+Drucker and McGann highlight in their work. I would like to spend the second
+half of this chapter on several case studies from the still unwritten history
+of formatting. These case studies will help test our theoretical intuitions
+about form in practice. They serve also to convince the reader of the
+continual importance of textual criticism and format studies for the
+advancement of literary scholarship and more broadly for the politics of
+reading and interpretation at large. If, as we conventionally intuit, the
+format layer arbitrates between medium and symbol---word and page---then it
+must also play a part in the encounter between human and text. Format in a
+sense determines the available reading strategies, including the one of not
+reading at all: thus an archive under lock and key, the management of copy
+rights and borrowing privileges, the sensor's viscous black ink.
 
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
 mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
@@ -852,7 +867,7 @@ contains such things as justification, indentation, and spacing. These
 "primitive requests" can be combined to describe more complex "structures of
 the printed text." The creators of *QED*, another influential early text
 editor (created for the SDS-930 time-sharing system at Berkeley) similarly
-encourage the user "to think in terms of structure" of the text. Both *QED*
+encourage the user "to think in terms of structure" of the text.  Both *QED*
 and *EDIT* begin to separate content and formatting for later recombination
 and imprinting onto external storage media. Kaiman explains that "the user
 types the document layout file and the text file, then produces a proof or
@@ -874,9 +889,10 @@ objects, like sentences and paragraphs. Furthermore, these things stand in a
 hierarchical relationship to each other. Paragraphs contain sentences, and not
 the other way around, for example.
 
-Second, "each object is an instance of a class." Document level classes include
-"letters," "theses," "recommendation," and "papers for a particular journal."
-Lower-level classes include sections, paragraphs, footnotes, and so on.
+Second, "each object is an instance of a class." Document level classes
+include "letters," "theses," "recommendation," and "papers for a particular
+journal." Lower-level classes include sections, paragraphs, footnotes, and so
+on.
 
 Finally, "objects are further classified as either abstract or concrete." By
 this, the writers mean abstract or "logical" objects, like words and ideas. In
