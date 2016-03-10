@@ -922,20 +922,19 @@ screen, suspended between surfaces (also the title of the section).
 
 The **fourth chapter** begins with a discussion of an apparent paradox. A camp
 of media theorists and textual scholars in the 1990s conceived of electronic
-texts as an ephemeral, almost immaterial, phenomenon.  The text shimmered and
+texts as an ephemeral, almost immaterial, phenomenon. The text shimmered and
 glared: it was spoken of in terms of *hypertext*, light writing, and
 electricity. A generation of theorists that came after insisted on the weighty
 materiality of electronic media. Reading began to engage the morphology of
 rare metals, media archeology, hard drive forensics. Both accounts, I argue,
 capture an aspect of the same underlying conditions. The perceived image of an
 archived inscription splits from its source. The sign plausibly resides both
-on the screen and on the hard drive.  It splits, in a sense, diverging at the
-site its projection from the site of the archive. The "illusion of the
-simulated text" will thereafter identify an incongruity between the two sites
-of reading. Erasing an inscription on the screen, for example, may not elicit
-the corresponding action on the disk.  Using archival materials from the
-history of telegraphy in the late nineteenth and early twentieth centuries, I
-chart the gradual fracture and the ultimate disappearance of the sign. Early
+on the screen and on the hard drive. It splits, in some real a sense,
+diverging at the site its projection from the site of the archive. Erasing an
+inscription on the screen, for example, may not elicit the corresponding
+action on the disk. Using archival materials from the history of telegraphy in
+the late nineteenth and early twentieth centuries, I chart the gradual
+fracture and the ultimate illegibility of the computational sign. Early
 computers stored human-readable text and machine instruction at the surface of
 the same storage media like punch cards and ticker tape. Although difficult to
 read, these forms of machine writing were readily visible and therefore
@@ -964,13 +963,13 @@ that means that a censored *electronic* text can form a perfectly *analog*
 artifact, despite being digital in all other senses of the word. Conversely,
 texts in print are already "born digital," in the sense that literary works
 like Shakespeare's *Hamlet* are amenable to "reliable processes of copying and
-preservation" [@haugeland_analog_1981, 213-225]. But such attributes are again
-neither universal nor essential to the medium. The medium is not the message.
-"The reliability and preservation of textual copies" may mean one thing to a
-literary scholar, another to a software engineer or a legal professional, and
-something entirely different to a librarian, as I argue in the conclusion of
-the chapter. It matters not what the medium is, but what we can do with the
-text.
+preservation" [@haugeland_analog_1981, 213-225]. Properties that make media
+"digital" or "analog" reveal themselves neither to be neither universal nor
+essential to the medium. The medium is not the message. "The reliability and
+preservation of textual copies" may mean one thing to a literary scholar,
+another to a software engineer or a legal professional, and something entirely
+different to a librarian, as I argue in the conclusion of the chapter. It
+matters not what the medium is, but what we can do with the text.
 
 The **sixth and final chapter** looks to the site of storage to find the media
 "homes" that house the vast archives of our private media collections. It
