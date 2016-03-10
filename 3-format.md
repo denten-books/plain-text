@@ -839,7 +839,7 @@ wetware---storage, screen, and brain.
 [^ln3-hex]: In this last regard see @stensola_entorhinal_2012. This
 ground-breaking work describes the structure of data in the human brain.
 
-### 3.3 Document Object Model
+### 3.3 Format Theory
 
 A notion of formatting underlies all contemporary digital documents. The
 history of formatting reveals a structure that emerges initially for the
@@ -858,8 +858,10 @@ sense determines the available reading strategies, including the one of not
 reading at all: thus an archive under lock and key, the management of copy
 rights and borrowing privileges, the sensor's viscous black ink.
 
+![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
+
 Describing *EDIT*, one of the first editors designed for the GE635 36-bit
-mainframe computers in use at Bell Labs in 1968, Arthur Kaiman writes: "The
+mainframe computers in use at Bell Labs in 1968, Arthur Kaiman wrote: "The
 publication editor is divided into three related sections, the document layout
 facility, the editing facility, and the printing facility"
 [@kaiman_computer-aided_1968, 66]. The "layout," in Kaiman's vocabulary,
@@ -867,53 +869,69 @@ contains such things as justification, indentation, and spacing. These
 "primitive requests" can be combined to describe more complex "structures of
 the printed text." The creators of *QED*, another influential early text
 editor (created for the SDS-930 time-sharing system at Berkeley) similarly
-encourage the user "to think in terms of structure" of the text.  Both *QED*
-and *EDIT* begin to separate content and formatting for later recombination
-and imprinting onto external storage media. Kaiman explains that "the user
-types the document layout file and the text file, then produces a proof or
-master copy of the text by printing the text according to the directions of
-the layout file. The text file contains layout marks to be interpreted by the
-layout file." "Text," in this schema, constitutes content meaningful only to
-the user, whereas layout contains some elements meaningful to the human and
-some elements as code instructions intended for device control. The notion of
-"formatting" therefore mediates between the logical (semantic) and layout
-(stylistic) structural representations.
+encouraged the writer "to think in terms of structure" of the text. *QED* and
+*EDIT* were some of the first text editors to separate notions of "content"
+and "formatting," which were meant to be recombined later and imprinted onto
+external storage media. Kaiman explains that "the user types the document
+layout file and the text file, then produces a proof or master copy of the
+text by printing the text according to the directions of the layout file. The
+text file contains layout marks to be interpreted by the layout file." "Text,"
+in this schema, constitutes content meaningful only to the user, whereas
+layout contains some elements meaningful to the human and some elements as
+code instructions intended for device control. Layout in that sense asks the
+human editor to make a distinction between semantic an spatial units: words
+and their coordinates.
 
-![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
+IBM's FORMAT text program, written in FORTRAN IV for OS/360 devices in 1968,
+describes formatting in terms of "text control." "All input to FORMAT is
+free-form, in that there are no positional constraints," the author of the
+program writes [@berns_format_1968, 85; @berns_description_1969, 141]." Text
+control under the FORMAT model was limited to several "command words" that
+included "P" for "begin new paragraph," "T" for "tab," and "A" for "print 'as
+is', maintaining spacing of the input" [@berns_description_1969, 141]. EDIT
+also had the capability of building an index, in effect listing all the unique
+words in any given document, along with a rudimentary facility for search, or
+in its own works for "locating text words, phrases, and strings in the input
+stream" [@berns_format_1968, 91; @berns_description_1969, 145].
 
-A seminal paper in the field of structured documents proposes the following
-model. First, "a document is an object composed of a hierarchy of primitive
-objects," write the authors Futura, Scofield, and Shaw. We have two ideas from
-the start: composability and hierarchy. A document is a thing made up of other
-objects, like sentences and paragraphs. Furthermore, these things stand in a
-hierarchical relationship to each other. Paragraphs contain sentences, and not
-the other way around, for example.
+More than a decade later, reflecting on the proliferation of text editors the
+authors advance the following unified theory of format. "A *document* is an
+object composed of a hierarchy of primitive objects," the authors write. The
+objects are further divided into "abstract" or "logical" objects and their
+"concrete" instantiations. The authors explain: "an abstract object is denoted
+by an identifier and the class to which the object belongs." By contrast,
+concrete objects occupy "one or more two-dimensional page spaces and represent
+the possible formatted images of abstract objects" [@furuta_document_1982,
+418]. In other words, the concrete object gives physical shape, layout, or
+style to the instantiation of abstract universal classes like paragraphs and
+sentences. Concrete objects are abstract paragraphs and sentences "laid out"
+in page space. In this schema, the word "cat" embodies a concrete object, a
+physical inscription at a given location. It further denotes the identifier
+for the idea of "cat," which belongs to the class "word". Note that by this
+model, cats are not classified under the their semantic category of "felines."
+Rather, we are concerned with the abstract type of the identifier itself.
+Other primitive classes include paragraphs, sections, paragraphs, and
+footnotes, for example. A document can therefore be expressed as a
+hierarchical ordering of such primitive objects. In this way, we may think of
+a "novel" as an abstract succession of "chapters," which in turn encapsulate
+"paragraphs" that contain "sentences and words," further composed of
+"characters." These abstract units must then find their physical manifestation
+on a page. They stand in a hierarchical relationship to each other because
+paragraphs contain sentences, and sentences words, and not the other way
+around, for example. Together, the primitive object classes make up more
+sophisticated abstractions like "letters," "articles," "books," and "journals"
+[@furuta_document_1982, 417-19; @shaw_model_1980].
 
-Second, "each object is an instance of a class." Document level classes
-include "letters," "theses," "recommendation," and "papers for a particular
-journal." Lower-level classes include sections, paragraphs, footnotes, and so
-on.
+The classes / instance distinction allows us to think of editing and
+formatting tasks in terms of state transformations. In this way, editing the
+document involves the transition
 
-Finally, "objects are further classified as either abstract or concrete." By
-this, the writers mean abstract or "logical" objects, like words and ideas. In
-describing FORMAT, an important early (circa 1968) "general-purpose" text
-processor (written in FORTRAN IV for OS/360 devices), George Berns describes
-the program's input as "free-form" (literally, free of form) in that it is
-"entirely free of positional restraint [@berns_format_1968, 85;
-@berns_description_1969, 141]." Text free of positional restraint, in that way,
-can be described in terms of "content," in contrast to "formatted" objects made
-"concrete," that is positioned in "one or more two-dimensional *page spaces*
-and represent[ing] possible formatted images of abstract objects
-[@furuta_document_1982, 417-19; @shaw_model_1980]." The concrete object, in
-other words, gives physical shape, layout, or style to the instantiation of
-abstract universal classes like paragraphs and sentences. Concrete objects are
-abstract paragraphs and sentences "laid out" in page space.
 
 Here is where things should get interesting for a scholar of textuality. The
 Document Object Model further gives rise to three "operations," tied to the
-"domain and range" of its constituent objects. *Editing*, in this model,
-comprises operations that move from abstract to abstract, or, from concrete to
-concrete domains.
+"domain and range" of its constituent objects. Editing in this model comprises
+operations that move from abstract to abstract, or, from concrete to concrete
+domains.
 
 <!---
 
