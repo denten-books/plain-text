@@ -877,7 +877,10 @@ when neither the page nor the action of turning correspond to their implied
 analogies? The analysis of the metaphor helps trace the intellectual history
 of human--computer interaction, a field which progressed from "conversational
 programming" to the "direct manipulation" paradigm shaped by cognitive
-metaphor theory and immersive theater.
+metaphor theory and immersive theater. The logic of "directness" leads to the
+rapidly developing field of brain-to-computer interfaces. The chapter
+concludes with a moment of speculative formalism, in which we consider the
+possibility of affective literature that eschews language and representation.
 
 At the core of the book's **second chapter** lies the notion of a modernist
 literary device, understood both as literary technique and a thought
@@ -889,36 +892,31 @@ language leading to a series of thought experiments first in the writing of
 Ludwig Wittgenstein, and then in the seminal paper of Alan Turing on an
 imaginary computer capable of reading and writing. The verbs to read and to
 write imply a type of cognitive processing. What does it mean to read and to
-write for a machine? At once a machine and an algorithm, the Turing machine
-blurs the boundaries between software and hardware, code and content,
-intelligence and imitation.
+write for a machine? What about broken mechanisms of comprehension? At once a
+device and an algorithm, the Turing machine blurs the boundaries between
+software and hardware, code and content, intelligence and its imitation.
 
-<!-- this needs rewriting -->
 
-The *third chapter* on form, formula, and format looks at the conflicting
-notions of form in the history of formalism. Format emerges as a concept that
-mediates between form understood as internal "rules for construction" and form
-understood as "external shape." The concept of formatting is crucial for
-understanding the capabilities of digital texts: from electronic books that
-modify themselves to suit the reader's geographic location to "smart"
-contracts that contain the rules of their own execution. There, the computed
-sign undergoes a series of transfigurations. The formatting layer translates
-one type of structure, a series of bits arranged into tracks and sectors, into
-another, letters arranged into sentences and paragraphs. The development of
-the formatting layer commenced with several "control characters" that were
-included in the machine alphabets that followed Morse code. Initially, these
-characters were limited in function to actions like "carriage return" or "stop
-transmission." But with time, the formatting layer encompassed all manner of
+Two rich intellectual histories collide on the pages of the **third chapter**
+chapter: one, the material history of formatting as a concept in computer
+science and the other, the intellectual history of form in literary theory.
+Format emerges as a concept that mediates between form understood as internal
+"rules for construction" and form understood as "external shape." The
+formatting layer transforms one type of structure, a series of bits arranged
+into tracks and sectors, into another, letters arranged into sentences and
+paragraphs. I draw a short history of text formats that commences with several
+"control characters" limited in function to actions like "carriage return" or
+"stop transmission." With time, the formatting layer encompassed all manner of
 machine instruction, including structures of governance like "digital rights
 management" and "copy protection." A manufacturer's ability to censor or to
-surveil electronic books is contained within the formatting layer. A theory of
-formatting is therefore crucial to our ability to interpret digital texts. Two
-rich intellectual histories collide on the pages of this chapter: one, the
-material history of formatting as a concept in computer science and the other,
-the intellectual history of form in literary theory.
+surveil electronic books is contained within the formatting layer. The concept
+of formatting developed in this chapter is critical therefore to our
+understanding the capabilities of digital texts: from electronic books that
+modify themselves to suit the reader's geographic location to "smart"
+contracts that contain the rules of their own execution.
 
 What does it mean to read on page that is no longer flat and no longer a
-single surface? The books second section, containing the next three chapters,
+single surface? The book's second section, containing the next three chapters,
 describes digital text as a sign stretched between storage media and the
 screen, suspended between surfaces (also the title of the section).
 
