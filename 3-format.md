@@ -905,7 +905,7 @@ human editor to make a distinction between semantic an spatial units: words
 and their coordinates.
 
 IBM's FORMAT text program, written in FORTRAN IV for OS/360 devices in 1968,
-describes formatting in terms of "text control." "All input to FORMAT is
+discusses formatting in terms of "text control." "All input to FORMAT is
 free-form, in that there are no positional constraints," the author of the
 program writes [@berns_format_1968, 85; @berns_description_1969, 141]." Text
 control under the FORMAT model was limited to several "command words" that
@@ -940,48 +940,37 @@ a "novel" as an abstract succession of "chapters," which in turn encapsulate
 "characters." These abstract units must then find their physical manifestation
 on a page. They stand in a hierarchical relationship to each other because
 paragraphs contain sentences, and sentences words, and not the other way
-around, for example. Together, the primitive object classes make up more
-sophisticated abstractions like "letters," "articles," "books," and "journals"
+around. Together, the primitive object classes make up more sophisticated
+abstractions like "letters," "articles," "books," and "journals"
 [@furuta_document_1982, 417-19; @shaw_model_1980].
 
 The classes / instance distinction allows us to think of editing and
 formatting tasks in terms of state transformations. In this way, editing the
-document involves the transition
+document involves the transition abstract states, as when the author corrects
+spelling for example. Concrete to concrete editing transitions can involve the
+sequential rearrangement of sentences or paragraphs, or moving data from one
+table to another. Crucially for our discussion, the authors define formatting
+as a transformation between abstract and concrete classes: the application of
+font styles, for example. Formatting in that sense converts what the authors
+call the "intended document" into the "visible concrete document." Between
+these two polarities we observe the document description, at which stage
+content and physical text specifications are mixed together and laid out for
+viewing on a particular device [@furuta_document_1982, 419-22]. This last part
+is important, as many systems are designed to display text without "knowing"
+in a sense the ultimate physical dimensions of the target device. We can think
+for example of document files that are rendered in more or less the same way
+on a multitude of screens of varying sizes. Nothing in the code guarantees the
+dimensions of the visible concrete document. We are only assured of the proper
+structure: that the paragraphs will have a certain spacing, that the footnotes
+appear on the bottom of the page, and so on.
 
+We can think of examples of other formatting operations which move in the
+opposite direction: from concrete to abstract for example. This happens in
+Optical Character Recognition, in the process by which the image of a physical
+page is converted into an intended, abstract structure, the "content" thereby
+lifted from the physical page. Yet other formatting functions convert 
 
-Here is where things should get interesting for a scholar of textuality. The
-Document Object Model further gives rise to three "operations," tied to the
-"domain and range" of its constituent objects. Editing in this model comprises
-operations that move from abstract to abstract, or, from concrete to concrete
-domains.
-
-<!---
-
-+------------------------+--------------+-------------------------------+
-| Operation              | Type         | Example                       |
-+========================+==============+===============================+
-| abstract to abstract   | Editing      | spelling correction \newline  |
-| concrete to concrete   |              | move (data) table   \newline  |
-|                        |              |                               |
-+------------------------+--------------+-------------------------------+
-| abstract to concrete   | Formatting   | apply font   \newline         |
-|                        |              | break into pages \newline     |
-+------------------------+--------------+-------------------------------+
-| concrete to abstract   | Recognition  | optical character             |
-| \newline               |              |   recognition  \newline       |
-|                        |              | page layout analysis \newline |
-+------------------------+--------------+-------------------------------+
-| concrete to output     | Viewing      | print to paper \newline       |
-| \newline               |              | publish to web \newline       |
-+------------------------+--------------+-------------------------------+
-| concrete to storage    | Filing       | save file    \newline         |
-|                        |              | shelve book                   |
-+------------------------+--------------+-------------------------------+
-
-Table: Object operation types under the Document Object Model
-[@furuta_document_1982, 419-20].
-
---->
+<!--- stop here -->
 
 Spelling correction, for example, constitutes an editing manipulation where
 abstract objects are modified into other abstract objects. Moving footnotes to
