@@ -7,7 +7,7 @@ writing, and interpretation practices. It is a deeply materialist work,
 arguing that even our most ingrained intuitions about texts are profoundly
 alienated from the contexts of their production. A new kind of poetics is
 therefore necessary to preserve the free play of ideas implicit in the method
-of humanistic inquiry. 
+of humanistic inquiry.
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
@@ -893,40 +893,63 @@ write for a machine? At once a machine and an algorithm, the Turing machine
 blurs the boundaries between software and hardware, code and content,
 intelligence and imitation.
 
-The third chapter concludes the section on simulation with a discussion of an
-apparent paradox. A camp of media theorists and textual scholars in the 1990s
-conceived of electronic texts as an ephemeral, almost immaterial, phenomenon.
-The text shimmered and glared: it was spoken of in terms of *hypertext*, light
-writing, and electricity. A generation of theorists that came after insisted
-on the weighty materiality of electronic media. Reading began to engage the
-morphology of rare metals, media archeology, hard drive forensics. Both
-accounts, I argue, capture an aspect of the same underlying conditions. The
-perceived image of an archived inscription splits from its source. The sign
-plausibly resides both on the screen and on the hard drive. It splits, in a
-sense, diverging at the site its projection from the site of the archive. The
-"illusion of the simulated text" will thereafter identify an incongruity
-between the two sites of reading. Erasing an inscription on the screen, for
-example, may not elicit the corresponding action on the disk. Using archival
-materials from the history of telegraphy in the late nineteenth and early
-twentieth centuries, I chart the gradual fracture and the ultimate
-disappearance of the sign. Early computers stored human-readable text and
-machine instruction at the surface of the same storage media like punch cards
-and ticker tape. Although difficult to read, these forms of machine writing
-were readily visible and therefore amenable to analysis. The advent of
-magnetic storage forced the composite inscription into an opaque medium.
-Unable to perceive magnetic polarities without the aid of a machine, readers
-often manipulated text blindly. In this way a typist would type several
-sentences without seeing the printed output. The chapter identifies a
-milestone in the history of human textuality: the moment at which the
-inscription passes from view, giving rise to the sometimes conflicting but
-nevertheless consistent accounts of digital textuality.
+<!-- this needs rewriting -->
+
+The *third chapter* on form, formula, and format looks at the conflicting
+notions of form in the history of formalism. Format emerges as a concept that
+mediates between form understood as internal "rules for construction" and form
+understood as "external shape." The concept of formatting is crucial for
+understanding the capabilities of digital texts: from electronic books that
+modify themselves to suit the reader's geographic location to "smart"
+contracts that contain the rules of their own execution. There, the computed
+sign undergoes a series of transfigurations. The formatting layer translates
+one type of structure, a series of bits arranged into tracks and sectors, into
+another, letters arranged into sentences and paragraphs. The development of
+the formatting layer commenced with several "control characters" that were
+included in the machine alphabets that followed Morse code. Initially, these
+characters were limited in function to actions like "carriage return" or "stop
+transmission." But with time, the formatting layer encompassed all manner of
+machine instruction, including structures of governance like "digital rights
+management" and "copy protection." A manufacturer's ability to censor or to
+surveil electronic books is contained within the formatting layer. A theory of
+formatting is therefore crucial to our ability to interpret digital texts. Two
+rich intellectual histories collide on the pages of this chapter: one, the
+material history of formatting as a concept in computer science and the other,
+the intellectual history of form in literary theory.
 
 What does it mean to read on page that is no longer flat and no longer a
 single surface? The books second section, containing the next three chapters,
 describes digital text as a sign stretched between storage media and the
 screen, suspended between surfaces (also the title of the section).
 
-The **fourth chapter** charts the emergence of screen reading. The screen
+The **fourth chapter** begins with a discussion of an apparent paradox. A camp
+of media theorists and textual scholars in the 1990s conceived of electronic
+texts as an ephemeral, almost immaterial, phenomenon.  The text shimmered and
+glared: it was spoken of in terms of *hypertext*, light writing, and
+electricity. A generation of theorists that came after insisted on the weighty
+materiality of electronic media. Reading began to engage the morphology of
+rare metals, media archeology, hard drive forensics. Both accounts, I argue,
+capture an aspect of the same underlying conditions. The perceived image of an
+archived inscription splits from its source. The sign plausibly resides both
+on the screen and on the hard drive.  It splits, in a sense, diverging at the
+site its projection from the site of the archive. The "illusion of the
+simulated text" will thereafter identify an incongruity between the two sites
+of reading. Erasing an inscription on the screen, for example, may not elicit
+the corresponding action on the disk.  Using archival materials from the
+history of telegraphy in the late nineteenth and early twentieth centuries, I
+chart the gradual fracture and the ultimate disappearance of the sign. Early
+computers stored human-readable text and machine instruction at the surface of
+the same storage media like punch cards and ticker tape. Although difficult to
+read, these forms of machine writing were readily visible and therefore
+amenable to analysis. The advent of magnetic storage forced the composite
+inscription into an opaque medium.  Unable to perceive magnetic polarities
+without the aid of a machine, readers often manipulated text blindly. In this
+way a typist would type several sentences without seeing the printed output.
+The chapter identifies a milestone in the history of human textuality: the
+moment at which the inscription passes from view, giving rise to the sometimes
+conflicting but nevertheless consistent accounts of digital textuality.
+
+The **fifth chapter** charts the emergence of screen reading. The screen
 appears to restore a measure of visibility lost to magnetic inscription, with
 one major side-effect. Fidelity between the word visible and the word archived
 cannot be guaranteed. What the screen shows and what is stored on tape or hard
@@ -950,23 +973,6 @@ literary scholar, another to a software engineer or a legal professional, and
 something entirely different to a librarian, as I argue in the conclusion of
 the chapter. It matters not what the medium is, but what we can do with the
 text.
-
-The **fifth chapter** is properly about formatting, the layer of mediation
-between storage and projection. There, the computed sign undergoes a series of
-transfigurations. The formatting layer translates one type of structure, a
-series of bits arranged into tracks and sectors, into another, letters
-arranged into sentences and paragraphs. The development of the formatting
-layer commenced with several "control characters" that were included in the
-machine alphabets that followed Morse code. Initially, these characters were
-limited in function to actions like "carriage return" or "stop transmission."
-But with time, the formatting layer encompassed all manner of machine
-instruction, including structures of governance like "digital rights
-management" and "copy protection." A manufacturer's ability to censor or to
-surveil electronic books is contained within the formatting layer. A theory of
-formatting is therefore crucial to our ability to interpret digital texts. Two
-rich intellectual histories collide on the pages of this chapter: one, the
-material history of formatting as a concept in computer science and the other,
-the intellectual history of form in literary theory.
 
 The **sixth and final chapter** looks to the site of storage to find the media
 "homes" that house the vast archives of our private media collections. It
