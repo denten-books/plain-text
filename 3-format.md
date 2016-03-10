@@ -1,20 +1,41 @@
 ## Chapter 3: Form, Formula, Format
 
+We know that the word shapes the human body in strange ways. After a lifetime
+of reading shoulders acquire a stooped countenance, as if the book was
+exerting pressure against the solar plexus. Eyesight deteriorates through
+continual exertion. Tendons and other supporting structures in the wrist swell
+from repetitive stress of contact with keyboards, the mechanical letter.
+Reading and writing take their toll. An even more profound change happens when
+we read and write computationally. Just as poetics strives to discover formal
+structures in the organization of complex symbolic notational systems, the
+complex symbolic notational systems embedded into our devices are building
+models of us. Machine learning algorithms track the speed by which the reader
+advances from paragraph to paragraph. They create a "fingerprint" of
+individual readers that points to their gender, age, race, ethnicity, and
+socio-economic status. They track the movement of the finger: where the reader
+is likely to move next; what themes are likely to follow other kinds of
+themes; how the human brain makes connections between topics. Heat maps are
+drawn to reflect the dynamics of attention, desire. Supervised learning
+algorithms use our collective philological output to predict behavior and to
+alter the visible content to better suit our predilections. Deep neural
+networks artificially mimic the brain to create models of human behavior that
+lie beyond human comprehension. The What I propose here is the beginning.
+
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
-like fleurons (❦ ❧), daggers and pilcrows (†‡¶), box drawings (╝╞╟), and other
-dingbats (`✇ ❖ ➿ ) the programmatic sign actively molds text to context. At
-the maximally blunt limit of its functions, the formatting layer affects
-visibility. For example, it can selectively render some words and sentences on
-the screen while suppressing others. The ability to hide text from view
-completely or to make it so small as to be illegible affects not just the
-style but the politics of text. Code, in that sense, can determine its
-audience, privileging certain voices and modes of access over others. It is in
-the sense of audience selection that the programmatic sign acquires its
-non-representational, tactical character. Stripped of references,
-resemblances, and designations the programmatic sign commands and controls.
+like fleurons, daggers and pilcrows, box drawings, and other dingbats the
+programmatic sign actively molds text to context. At the maximally blunt limit
+of its functions, the formatting layer affects visibility. For example, it can
+selectively render some words and sentences on the screen while suppressing
+others. The ability to hide text from view completely or to make it so small
+as to be illegible affects not just the style but the politics of text. Code,
+in that sense, can determine its audience, privileging certain voices and
+modes of access over others. It is in the sense of audience selection that the
+programmatic sign acquires its non-representational, tactical character.
+Stripped of references, resemblances, and designations the programmatic sign
+commands and controls.
 
 Unlike figurative language, machine control languages function in the
 imperative. They do not stand for action---they are action. More binding than
@@ -142,12 +163,13 @@ renders at times the material, outward, and apparent shape of something said,
 written, or pictured. Yet just as often, critics use "form" in the sense of a
 Platonic ideal: abstracted from matter, inward-facing, and in need of
 explication. Form in that sense is closer to the idea of an algorithm of a
-formula: it produces meaning according to implicit rules. In this chapter, I
-would like to augment these two senses of form with a third, introducing the
-concept of formatting into the critical discourse. In the second half of the
-chapter, and really, for the duration of this book, I aim to show how
-formatting affects our ability to read and interpret everyday digital
-documents. I propose we begin with a historically-grounded theoretical
+formula: it produces meaning according to implicit rules.
+
+In this chapter, I would like to augment these two senses of form with a
+third, introducing the concept of formatting into the critical discourse. In
+the second half of the chapter, and really, for the duration of this book, I
+aim to show how formatting affects our ability to read and interpret everyday
+digital documents. I propose we begin with a historically-grounded theoretical
 discussion about formalism and end with a media history of something called
 the Document Object Model. This formal construct governs the structure of most
 modern textual artifacts. It embodies a particular kind of formalism and
