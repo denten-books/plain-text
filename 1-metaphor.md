@@ -84,6 +84,8 @@ chapter is to arrest the advance of the metaphor. We must begin to separate
 resemblances from their designation: the apparent shape from a command in the
 imperative.
 
+Signpost the shape of the chapter. Time archive path.
+
 ### 1.1 Verisimilitude
 
 From the many available theories of metaphor, in this chapter I will be

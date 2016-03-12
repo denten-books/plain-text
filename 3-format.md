@@ -1079,7 +1079,7 @@ profound shift in the physical affordances of everyday document. Not much
 space separates ink from paper. There, textuality lies flat, in two
 dimensions. What you see is truly what you get. Not so on the screen connected
 to other screens.  Networked and time-shared textuality extends into the third
-dimension, away from the reader and deep into the bowels of the machine.
+dimension, away from the reader and deep into the bowels of the machine. 
 
 The Open Systems Interconnection (OSI) reference model of
 communication[^ln3-osi] describes no less than seven layers: from the
@@ -1098,62 +1098,65 @@ left. Connected devices on the right. The user has access through the top-most
 (application) level, outermost to the network [@piatkowski_iso-ansi_1980,
 114-15].](images/osi.png)
 
-These are the same layers that Alexander Galloway unites in a system of what he
-calls decentralized and distributed control [@galloway_protocol_2006, 28-54].
-It is distributed to be sure, although to what extent decentralized is a matter
-of some debate. Like a good soldier, each device in the pictured network
-internalizes dozens if not hundreds of protocols that enable the system to
-function seamlessly as a whole (in the way, for example, that your machine can
-at one moment connect to one wireless access point, and at another moment to
-another, with minimal loss of connectivity). Yet, OSI protocols and the DOM are
-also densely consolidated. They are, for example, legislated by specific
-international governing bodies[^ln3-w3c], susceptible to the usual political
-pitfalls of pan-global consortia.
+In his book on protocols, Alexander Galloway discusses the Open Systems
+Interconnection model in reference to what he calls the distributed and
+decentralized networks of control [@galloway_protocol_2006, 28-54]. The system
+described by the OSI standard is distributed to be sure, although to what
+extent it is decentralized is a matter of some debate. Like a good soldier,
+each device in the pictured network internalizes dozens if not hundreds of
+protocols that enable the system to function seamlessly as a whole (in the
+way, for example, that your machine can at one moment connect to one wireless
+access point, and at another moment to another, with minimal loss of
+connectivity). Yet, OSI protocols and the document object model hierarchies
+are also densely consolidated. They are, for example, legislated by specific
+international governing bodies like the World Wide Web Consortium, with a
+member list that includes government organizations and large corporate
+interests.[^ln3-w3c]
 
-Once bifurcated between storage and screen, the inscription travels along a
-"pipeline" of protocols, undergoing a set of arbitrary transformations
-throughout. On one device, that pipeline may extend just a few inches,
-connecting disk storage and output display. On a network device that pipeline
-can stretch across continents, spanning widely divergent regions of legal and
-administrative control. The book you are reading here may be stored in another
-state or country. Whatever the case may be, the subject encounters the
-"protocol stack" from without, on the periphery of the onion-like network. When
-paging through an electronic book (usually an OSI-compliant device displaying
-DOM-structured files), for example, the reader has access only to the outputs
+Stretched between the sites of its archive and its projection, the solid state
+drive and the screen, the inscription travels along a long "pipeline" of
+protocols, undergoing a set of arbitrary transformations throughout. On one
+device, that pipeline may extend just a few inches, connecting disk storage
+and output display. On a network device that pipeline can stretch across
+continents, spanning widely divergent regions of legal and administrative
+governance. The data that assembles the nearby object we call an electronic
+book may be stored on a server on the other side of the country. Whatever the
+case may be, the reader encounters the "protocol stack" from without on the
+periphery of the onion-like network. When paging through an electronic book,
+usually an OSI-compliant device, the reader has access only to the outputs
 emanating from the application layer, and, at that, only at the exposed
-"window" level of the DOM. The perceived "content" constitutes a small fraction
-of the underlying "formal" topology. What you see is far less than what you
-get.
+"window" level of the document-object model. The perceived "content" therefor
+constitutes a small fraction of the underlying formal topology. What you see
+is far less than what you get.
 
-The application layer stops at the subject. Access to the layers intrinsic to
-device operation (and consequently to analysis) are sometimes "merely" obscured
-and sometimes made illicit outright, as is arguably the case with U.S. Code,
-Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
-systems" and passed as part of the Digital Millennium Copyright Act (DMCA) in
-1998. A literary scholar may be familiar with some provisions of American
-copyright law governing text as surface representation: US Code, Title 17
-extends "exclusive rights" to "copyright owners" of "literary works." The
-rights include the ability to "reproduce," "to prepare derivative works," "to
-distribute copies," and "to perform and to display publicly" (17.1.106).
-Surface representation is further subject to professional rules of conduct,
-embodied in practices of quotation, citation, and attribution (or lack thereof,
-as plagiarism).
-
-In practice, the easy reproducibility of digital text (and image) has served to
-erode the efficacy of copyright restrictions as a system of laws and
-regulations. The work of art in the age of digital reproduction has lost much
-of its already tenuous hold on the material substratum.[^ln3-illusion] Copy
-technologies from photocopiers, to desktop printers, to cheap magnetic storage
-and peer-to-peer file sharing networks reduce the price of copying and
-dissemination to near frictionless levels. The response from the film, game,
-music, and publishing industries has been to transpose mechanisms of copyright
-enforcement from legal down to the infrastructural levels of enforcement, as
-software and hardware: from Code to code. In the words of Charles Clark, the
-late British publisher and prominent copyright attorney, "the answer to the
-machine is in the machine [@clark_copyright_1996, 81-82]"---by which he meant
-that copyright enforcement should be taken up on the device level by the
-International Standards Organization, the very body responsible for the DOM and
-the OSI communication protocol stack [@clark_copyright_1996, 84].
+The reading subject and the application layer interface superficially. Access
+to the layers intrinsic to device operation (and consequently to analysis) are
+sometimes merely obscured and sometimes made illicit outright, as is arguably
+the case with U.S. Code, Title 17, Chapter 12, §1201, titled "Circumvention of
+copyright protection systems" and passed as part of the Digital Millennium
+Copyright Act (DMCA) in 1998. A literary scholar may be familiar with some
+provisions of American copyright law governing text as surface representation:
+US Code, Title 17 extends "exclusive rights" to "copyright owners" of
+"literary works." The rights include the ability to "reproduce," "to prepare
+derivative works," "to distribute copies," and "to perform and to display
+publicly" (17.1.106). Surface representation is further subject to
+professional rules of conduct, embodied in practices of quotation, citation,
+and attribution (or lack thereof, as plagiarism). In practice, the easy
+reproducibility of digital text (and image) has served to erode the efficacy
+of copyright restrictions. The work of art in the age of digital reproduction
+has lost much of its already tenuous hold on the material
+substratum.[^ln3-illusion] Copy technologies from photocopiers, to desktop
+printers, to cheap digital storage and peer-to-peer file sharing networks
+reduce the price of copying and dissemination to near frictionless levels. The
+response from the film, game, music, and publishing industries has been to
+transpose mechanisms of copyright enforcement from legal down to the
+infrastructural levels of enforcement, as software and hardware: from Code to
+code. In the words of Charles Clark, the late British publisher and prominent
+copyright attorney, "the answer to the machine is in the machine
+[@clark_copyright_1996, 81-82]"---by which he meant that copyright enforcement
+should be taken up on the device level by the International Standards
+Organization, the very body responsible for the Document Object and the OSI
+communication protocol stack [@clark_copyright_1996, 84].
 
 As an example of how that might work, Clark cites the Copyright in Transmitted
 Electronic Data Report (CITED), which suggests building "a tamper proof
@@ -1261,8 +1264,10 @@ protections [@ferullo_major_2004; @mueller_reinventing_2004;
 @postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
 Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
 which allowed users to "change text annotations using Plaintiff's TrueType
-fonts" without a license [@_agfa_2005; @lipton_c_2009; @von_lohmann_unintended_2010]. If they become precedent, any of these cases could conceivably
-be used to physically limit the efficacy of reading, close and distant.
+fonts" without a license [@_agfa_2005; @lipton_c_2009;
+@von_lohmann_unintended_2010]. If they become precedent, any of these cases
+could conceivably be used to physically limit the efficacy of reading, close
+and distant.
 
 [^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
 which may, under some interpretations, sanction limited use for academic
@@ -1324,7 +1329,6 @@ from its arbitrary material constraint. To lay bare the device literally would
 mean to make the mechanisms of naked political control visible. For any sort of
 reading to commence, one would first need to peel away the DOMs and the
 OSIs---today a task fraught with legal consequence.
-
 
 Essential for the practices of unencumbered critical thought, control
 structures exist in the gaps within the splintered sign. Ultimately, parts of
@@ -1401,6 +1405,8 @@ characters. Steps could be taken to further mask the malicious script,
 blending it with the background encrypted bit structure (shown as speckled
 noise), which would make the injection more difficult to detect.
 
+<!---
+
 !["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt`
 format.  Unaltered.](images/txt.png)
 
@@ -1410,6 +1416,8 @@ format.  Unaltered.](images/mobi.png)
 !["Binary file structure III." Malicious code injection into the text of
 Laurence Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating
 presence of injected code.](images/pdf.png)
+
+--->
 
 In conclusion, I do not mean to imply that the "closest possible" reading of
 this sort, at the circuit and magnetic storage level, will somehow come to
@@ -1430,6 +1438,7 @@ conditions of their meaning making. The very architects of the "smart"
 literary device tell us: the answer to the machine remains in the machine.
 
 Perhaps mention closed systems from McLuhan.
+
 <!-- notes -->
 <!-- notes -->
 <!-- notes -->
