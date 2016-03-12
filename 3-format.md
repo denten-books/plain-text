@@ -1067,36 +1067,28 @@ specific documents, shaping the idea in the process of becoming a thing.
 
 ### 3.4 Smart Contracts
 
-Exposing the Document Object Model that governs the production of text through
-contemporary reading and writing devices gives the question of surface and
-depth yet another connotation. What lies beneath the text? We are accustomed to
-thinking about document structure metaphorically and answer in accord: meaning,
-narrative, representation, order, discourse, or ideology. Interpretation, at
-that level of analysis, happens in the head, which physically limits the
-possibility of depth to personal introspection, magnetic resonance imaging, or,
-at best, to an archive of extant reader responses (which in themselves need
-further interpretation).
+Reading for format involves the reconstruction of rules that govern the
+transformation of text, thereby giving us a notion of literal surface and
+depth that differs from their figurative senses. Metaphorically-speaking,
+textual depth refers to concealed structures of meaning, literary formulae,
+signification, or ideology. In another, more literal sense, depth refers to
+the formation of literary laminates that hold the inscription in suspense
+between layers of glass, plastic, liquid crystal, aluminum, iridium, and
+oxide. The move between paper and such *composite* media carries with it a
+profound shift in the physical affordances of everyday document. Not much
+space separates ink from paper. There, textuality lies flat, in two
+dimensions. What you see is truly what you get. Not so on the screen connected
+to other screens.  Networked and time-shared textuality extends into the third
+dimension, away from the reader and deep into the bowels of the machine.
 
-Incorporating the literary device as machine, gadget, or appliance into the
-answer suggests another, more literal strategy of interpretation. Beneath a
-text one finds cloth and wood pulp and, increasingly, also glass, plastic,
-liquid crystal, copper, laminates, and silicone.
-
-The move between paper and composite device carries with it a profound shift in
-the physical affordances of the deep structure supporting all subsequent,
-higher-order, surface-level representations of textuality. Not much space
-separates ink from paper. There, textuality lies flat, in two dimensions. What
-you see is truly what you get. Not so on the screen connected to other screens.
-Networked and time-shared textuality extends into the third dimension, away
-from the reader and deep into the bowels of the machine. The Open Systems
-Interconnection (OSI) reference model of communication[^ln3-osi] describes no
-less than seven layers: from the Application Layer, concerned with the
-semantics of application ("all services directly comprehensible to the user
-[@miller_iso_1981, 285] to the Physical Layer, providing the "mechanical,
-electrical, functional, and procedural characteristics" of communication
-[@ncs_open_1981; @ncs_national_1988; @day_revised_1995].[^ln3-layers] These
-protocols further envelop a document already thickly stratified by the
-Document Object Model.[^ln3-domlayer]
+The Open Systems Interconnection (OSI) reference model of
+communication[^ln3-osi] describes no less than seven layers: from the
+Application Layer, concerned with the semantics of application ("all services
+directly comprehensible to the user [@miller_iso_1981, 285] to the Physical
+Layer, providing the "mechanical, electrical, functional, and procedural
+characteristics" of communication [@ncs_open_1981; @ncs_national_1988;
+@day_revised_1995].[^ln3-layers] These protocols further envelop a document
+already thickly stratified by the Document Object Model.[^ln3-domlayer]
 
 [^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
 model.
