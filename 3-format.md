@@ -914,7 +914,14 @@ is', maintaining spacing of the input" [@berns_description_1969, 141]. EDIT
 also had the capability of building an index, in effect listing all the unique
 words in any given document, along with a rudimentary facility for search, or
 in its own works for "locating text words, phrases, and strings in the input
-stream" [@berns_format_1968, 91; @berns_description_1969, 145].
+stream" [@berns_format_1968, 91; @berns_description_1969, 145]. In another
+formative paper in the history of contemporary textuality, Brian Kernighan and
+Joseph Ossanna describe TROFF, a text processor written circa 1973 for the
+PDP-11 outputting to Graphic Systems Cat typesetter. In 1979, Kernighan
+reports modifying the original program to produce output for a greater variety
+of typesetters. Kernighan explains, "TROFF produces its output in a
+device-independent form," and its output "must be processed by a drive for
+that device to produce printed output" [@kernighan_troff_1992].
 
 More than a decade later, reflecting on the proliferation of text editors the
 authors advance the following unified theory of format. "A *document* is an
@@ -1019,63 +1026,44 @@ media have actual dimensions. In this way, a footnote specified "at the bottom
 of the page" at the level of the model can then be rendered one way at the
 bottom of a specific page of a certain size, like A1 (841mm × 1,189mm) for
 example, and in another way at the bottom of another specific piece of paper
-of a much smaller A4-sized sheet (210mm × 297mm).[^ln4-iso216]
+of a much smaller A4-sized sheet (210mm × 297mm).[^ln4-iso216] Viewing and
+printing operations constitute a movement opposite to that of optical
+character recognition. In printing a document, the machine creates a static
+image flattening out layers of content and visual style. The abstract objects
+are reified into the concrete. [@furuta_document_1982, 419-20;
+@kimura_structure_1984].  For example, SCRIPT and the related Generalized
+Markup Language (GML) developed in the late 1960s by IBM (originally for use
+on the CP67/CMS time-sharing system), and now at the basis of ubiquitous XML
+and HTML markup languages through ISO 8879, describes a number of such text
+transformations that occur to "generate the proper output form." In
+formatting, SCRIPT represents the "logical topology" of text in its "canonical
+form" to produce an "intermediate data structure," which it then "'unfolds'
+all at once" by "'peeling' the data structure one level at a time"
+[@madnick_script_1968, 97]. 
 
-In yet another formative paper in the history of contemporary textuality, Brian
-Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
-1973 for the PDP-11 outputting to Graphic Systems Cat typesetter. In 1979,
-Kernighan reports modifying the original program to produce output for a
-greater variety of typesetters. Kernighan explains, "TROFF produces its output
-in a device-independent form," and its output "must be processed by a drive for
-that device to produce printed output" [@kernighan_troff_1992].
+!["System Command and Data Flow." Flows and transformations between data
+structures at "disk file" level and text structures at the "user terminal" and
+the "line printer" levels [@madnick_script_1968, 98].](images/script.png)
 
-This stage flattens out the layers of ideas and visual style, to render them
-and to make them visible on screen or page [@furuta_document_1982, 419-20;
-@kimura_structure_1984]. Similar to Hegel's "universal concrete," the
-"formatting layer" in the Document Object Model bridges the gap between ideas
-and matter. Formatting is where ideas connect to physical shape. This is a most
-delicate operation, for in giving shape to abstract ideas formatting does
-something more notable than mere application of visual style. Formatter
-designers from TROFF to FORMAT consistently describe their programs in explicit
-terms of instrumental control. Berns, for example, explains that "text control"
-as implemented in FORMAT aims to accomplish four "basic" tasks: "to read the
-input, to interpret and convert the input as required; to keep the document
-flowing smoothly from line to line, column to column, and page to page, unless
-otherwise instructed, and to break this automatic flow as directed"
-[@berns_description_1969].
-
-Because formatting governs both meaning-carrying and purely decorative
+The format must not however be reduced to the mere application of visual style
+to words. Formatter designers from TROFF to FORMAT explicitly describe their
+programs in terms of instrumental *control*. For example, Richard Berns, the
+IBM engineer-developer of FORMAT, writes that in his program, "text control"
+aims to accomplish four "basic" tasks: "to read the input, to interpret and
+convert the input as required; to keep the document flowing smoothly from line
+to line, column to column, and page to page, unless otherwise instructed, and
+to break this automatic flow as directed." In FORMAT the document consists of
+text and intermixed "command words" [@berns_description_1969, 141]. The *TROFF
+User's Manual* describes text processing in terms of accepting "lines of text
+interspersed with lines of format control information" [@kernighan_troff_1992,
+3]. Because format concerns both meaning-carrying and purely decorative
 elements, text control can involve operations like "replace word," "make
 invisible," or "insert file." These commands intertwine with "free-form"
 abstract and ideational content at the formatting level, to come into being in
 the "viewing" stage of text processing, where the layers flatten across "a
-two-dimensional space" in view of the user. SCRIPT and the related Generalized
-Markup Language (GML) developed in the late 1960s by IBM (originally for use on
-the CP67/CMS time-sharing system), and now at the basis of ubiquitous XML and
-HTML markup languages through ISO 8879, describes a number of such text
-transformations that occur to "generate the proper output form." In formatting,
-SCRIPT represents the "logical topology" of text in its "canonical form" to
-produce an "intermediate data structure," which it then "'unfolds' all at once"
-by "'peeling' the data structure one level at a time" [@madnick_script_1968,
-97]. As plain text, text control, and user command flows intertwine, the
-structure of data on the disk no longer corresponds to what is visible at the
-level of user terminal or line printer. Unlike many of the modern text editors,
-SCRIPT, TROFF, and FORMAT make all of the laminate components in their
-onion-like layered structure available to users for examination. But as we will
-see shortly, the condition of complete system visibility persists only for a
-short period in history. Once incorporated, the Document Object Model gains a
-measure of opacity and even legal protection from "unauthorized access" to
-protected innermost document layers.
-
-Whatever model of semiotics one subscribed to in the late 1960s, the DOM fixed
-the shape of the sign in accordance to emerging technology. The document object
-model continues to structure contemporary text in all its forms: from print
-typesetting software to web pages. It gives the material basis to the
-conditions of contemporary text production.
-
-!["System Command and Data Flow." Data structures at "disk file" level do not
-necessarily correspond to text structures at "user terminal" or "line printer"
-levels [@madnick_script_1968, 98].](images/script.png)
+two-dimensional space" in view of the user. In this onion-like, layered way
+formatting instructions govern the reification of abstract content models into
+specific documents, shaping the idea in the process of becoming a thing.
 
 ### 3.4 Smart Contracts
 
