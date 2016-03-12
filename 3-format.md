@@ -1155,8 +1155,9 @@ code. In the words of Charles Clark, the late British publisher and prominent
 copyright attorney, "the answer to the machine is in the machine
 [@clark_copyright_1996, 81-82]"---by which he meant that copyright enforcement
 should be taken up on the device level by the International Standards
-Organization, the very body responsible for the Document Object and the OSI
-communication protocol stack [@clark_copyright_1996, 84].
+Organization, the very body responsible for maintaining the standards for the
+Document Object Model and the OSI communication protocol stack
+[@clark_copyright_1996, 84].
 
 As an example of how that might work, Clark cites the Copyright in Transmitted
 Electronic Data Report (CITED), which suggests building "a tamper proof
@@ -1165,19 +1166,20 @@ long-distance coaches and lorries, recording everything that happens to the
 copyrighted or commercially valuable material [...] The basic idea is to link
 the 'valuable material' of intellectual property to a specific piece of
 software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84].
+83-84]. The emergence of such embedded contractual enforcement at the level of
+the device can be subsumed under the broader idea of "smart contracts." In his
+seminal article on "Formalizing and Securing Relationships in Public
+Networks," Nick Szabo explains that "smart contracts combine protocols, user
+interfaces, and promises expressed via those interfaces to formalize and
+secure relationships over computer networks" [@szabo_formalizing_1997]. Clark,
+CITED, and Szabo were instrumental in the rise of smart contracts in the 1990s
+in an attempt to redress the fading efficacy of legal copyright
+protections.[^ln3-smart]
 
-The emergence of embedded contractual enforcement at the level of the device
-can be subsumed under the broader idea of "smart contracts." In his seminal
-article on "Formalizing and Securing Relationships in Public Networks," Nick
-Szabo explains that "smart contracts combine protocols, user interfaces, and
-promises expressed via those interfaces to formalize and secure relationships
-over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo were
-instrumental in the rise of smart contracts in the 1990s in an attempt to
-redress the fading efficacy of legal copyright protections.[^ln3-smart] "Method
-and System for Managing a Data Object so as to Comply with Predetermined
-Conditions for Usage" (US5845281, issued in 1998) can be instructive in this
-regard. Greg Benson and Gregory H. Urich, both of Sweden, write:
+"Method and System for Managing a Data Object so as to Comply with
+Predetermined Conditions for Usage" (US5845281, issued in 1998) can be
+instructive in this regard. Greg Benson and Gregory H. Urich, both of Sweden,
+write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
@@ -1190,10 +1192,10 @@ implement variable and extensible control.
 
 The data object, in this case, stands for any media content, from books to
 music, video, and software. Rather then legislating rules for copying and
-distributing media, the inventors suggest that the medium itself should contain
-a control layer that would "comply with predetermined conditions of usage," in
-a way that can be "universally adapted to the needs of both the owner and the
-user of the data object" [@benson_method_1998, 2:55].
+distributing media, the inventors suggest that the medium itself should
+contain a control layer that would "comply with predetermined conditions of
+usage," in a way that can be "universally adapted to the needs of both the
+owner and the user of the data object" [@benson_method_1998, 2:55].
 
 !["Concatenated control data and AVI file in memory" [@benson_method_1998].](images/avi-control.png)
 
@@ -1201,16 +1203,16 @@ user of the data object" [@benson_method_1998, 2:55].
 [@benson_method_1998].](images/avi-control2.png)
 
 The associated schematics (pictured here) show data and control codes
-"concatenated" into the same underlying data structure (in this case, AVI media
-container format). The seemingly innocuous "text control" layer of the 1960s,
-used to specify formatting and visual style, was now extended to carry
+"concatenated" into the same underlying data structure (in this case, AVI
+media container format). The seemingly innocuous "text control" layer of the
+1960s, used to specify formatting and visual style, was now extended to carry
 mechanisms for legal control, tied to specific legislation.
 
 The idea of smart contracts contains a notable artifact of implementation,
-relevant to our discussion on surface reading. To the extent that control codes
-are legible to the interpreter, they are also open to "abuse and
+relevant to our discussion on surface reading. To the extent that control
+codes are legible to the interpreter, they are also open to "abuse and
 circumvention." For this reason, encryption plays a key part in the smart
-contracts system. Once intertwined, data and control must be encrypted to
+contracts system. Once intertwined, data and control are often encrypted to
 prevent "unauthorized access." This brings us to the glaring problem at the
 very heart of smart contract implementation. The spirit of contractual law by
 its very nature demands *explicit* consent. In the language of English common
@@ -1225,11 +1227,11 @@ external, objective, nor available for interpretation. The idea of encrypted
 consent stands in stark opposition to a tradition of contract law that relies
 on models of consent that involve expressed, mutual, explicit, and uncoerced
 forms of acquiescence. Even if smart contracts were to be accompanied by
-legible documentation (as Terms of Service, for example), the device user would
-be compelled to blindly trust in the correspondence between the expressed
-letter and the implicit mechanism of the document---the implementation still
-enacted beyond scrutiny, as hidden, encrypted, and purposefully illegible
-script.
+legible documentation (as Terms of Service, for example), the reader of an
+electronic book would be compelled to blindly trust in the correspondence
+between the expressed letter and the implicit mechanism of the document---the
+implementation still enacted beyond scrutiny, in the form of hidden,
+encrypted, and purposefully illegible script.
 
 Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
 person shall circumvent a technological measure that effectively controls
@@ -1249,25 +1251,27 @@ for example---may carry with it a set of official (even criminal)
 sanctions.[^ln3-fairuse]
 
 The short history of DMCA "anti-circumvention" provisions is already littered
-with ambiguous case law, that the Electronic Frontiers Foundation believes to
+with ambiguous case law, which the Electronic Frontiers Foundation believes to
 have the effect of "stifling a wide range of legitimate activities," "chilling
 free expression and academic research," "jeopardizing fair use," and "impeding
 innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
-particularly relevant to the study of texts and literature. One, a security
-researcher exploring the activity of censorship filters on public library
-computers was threatened and forced to seek DMCA exemption from the Librarian
-of Congress [@fry_circumventing_2009]. Two, a Russian programmer speaking at a
-security conference was jailed and detained for several months for developing
-software that converts Adobe electronic book files into `.pdf` format, in a
-process that could potentially remove embedded digital rights management
-protections [@ferullo_major_2004; @mueller_reinventing_2004;
-@postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
-Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
-which allowed users to "change text annotations using Plaintiff's TrueType
-fonts" without a license [@_agfa_2005; @lipton_c_2009;
-@von_lohmann_unintended_2010]. If they become precedent, any of these cases
-could conceivably be used to physically limit the efficacy of reading, close
-and distant.
+particularly relevant to the study of literature. One, a security researcher
+exploring the activity of censorship filters on public library computers was
+threatened and forced to seek DMCA exemption from the Librarian of Congress
+[@fry_circumventing_2009]. Two, a Russian programmer speaking at a security
+conference was jailed and detained for several months for developing software
+that converts Adobe electronic book files into `.pdf` format, in a process
+that could potentially remove embedded digital rights management protections
+[@ferullo_major_2004; @mueller_reinventing_2004; @postigo_information_2010].
+Finally, in 2005 Agfa Monotype Corporation took Adobe Systems to court in a
+dispute over the Adobe Acrobat "Free Text" tool, which allowed users to
+"change text annotations using Plaintiff's TrueType fonts" without a license
+[@_agfa_2005; @lipton_c_2009; @von_lohmann_unintended_2010]. The precedent of
+these cases could be used to physically limit the efficacy of reading digital
+texts. Readers and literary scholars could soon find themselves prohibited
+from studying the dynamics of censorship, prevented from using computational
+methods that rely on text mining, and unable to extract the fruits of their
+philological activity from proprietary annotation platforms.
 
 [^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
 which may, under some interpretations, sanction limited use for academic
@@ -1289,155 +1293,41 @@ essay in the *Yale Journal of Law & Technology* explains it this way:
 > restrictive license terms, similar to downloaded software
 [@seringhaus_e-book_2010, 150].
 
-In these conditions, something like a poem or a novel must relinquish its claim
-on the universal concrete. In doing that, it ceases to be literature and
-becomes instead a device, firmly tied to its given physical affordances.
-Reified as a concrete object, no longer lasting and universal, but rather
-ephemeral and contingent, it is subject to the whims of the market. The device
-now gains the ability to dynamically adapt itself "to the needs of both the
-owner and the user." These adaptations could of course take a benign form, of
-the kind suggested in "*Remix: Literatur*," where Michel Chaouli imagines a
-device akin to a "literature equalizer," empowering readers to "tune" any given
-text to their liking [@chaouli_remix_2009]. Don't really like intensifiers?
-Just turn the "adverb knob" down! I hold on to the possibility of building such
-a device with Chaouli. In the meantime, existing electronic book software and
-hardware devices adapt themselves to the reader in less creative ways. Some
-prevent simple copy and paste actions. Others can be used to censor and
-surveil. For a textual critic, such instability of medium means analysis cannot
-be confined to reading for surface meaning alone. How can close or distant
-reading practices persist, when the reading device reconfigures a text
-dynamically, to fit individual taste, mood, or politics?[^ln3-modern] Or, when
-it simply prevents access to some of the content?
+In these conditions, literature is forced to relinquish its ontologically
+indeterminate status. The DMCA attempts to arrest the movement of texts
+between their concrete and abstract manifestations. Reified into a concrete
+object the book becomes a device, no longer lasting and universal, but rather
+ephemeral and contingent, firmly determined by its instrumental affordances.
+The literary device gains the ability to dynamically adapt itself "to the
+needs of both the owner and the user." These adaptations could take a benign
+function, of the kind suggested in "*Remix: Literatur*," where Michel Chaouli
+imagines a device akin to a "literature equalizer," empowering readers to
+"tune" any given text to their liking [@chaouli_remix_2009]. Don't really like
+intensifiers? Just turn the "adverb knob" down! I hold on to the possibility
+of building such a device with Chaouli. In the meantime, existing electronic
+book software and hardware devices adapt themselves to the reader in less
+creative ways. Some prevent simple copy and paste actions. Others can be used
+to censor and surveil. For a textual critic, such instability of medium means
+analysis cannot be confined to reading for surface meaning alone.  How can
+close or distant reading practices persist, when the reading device
+reconfigures a text dynamically, to fit individual taste, mood, or
+politics?[^ln3-modern] Or, when it simply prevents access to some of the
+content? Essential for the practices of unencumbered critical thought, control
+structures exist in the gaps within the splintered sign. Ultimately, parts of
+the inscription that remain invisible affect more than typesetting
+characteristics. They shape the very structure of interpretation. The
+seemingly innocuous control and formatting layer contains the essence of
+machine control. Long a marginal concept in literary theory, formatting is
+therefore central to the practice of computational poetics. Far from mere
+inconsequential embellishment, formatting governs the interface between
+meaning and matter, thought and page. It has the capability to embellish, to
+obscure, to censor, to govern, and to emend.
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
 literature at all. In purchasing a medieval text, the reader still buys not a
 text or a work but a device, which, despite the content being out of copyright
 protection, may still restrict access to other, protected layers of device
 function.
-
-Smart contracts and DMCA are a conspicuous symptom ailing all text gadgets,
-which offer only the illusion of flat textuality. Where a literary scholar
-could hope to gleam the machinations of ideology from surface representation in
-print, the literary device obscures literal flows of governance. Isomorphic
-application design makes the situation worse in giving a measure of similarity
-between page and screen (the definition of isomorphism), obscuring material
-divergence beneath. The condition is not one of ephemeral, immaterial text, but
-one of text burdened with hardware and illegible control structure. The task of
-the critic becomes then to restore text to its proper mode of being in the
-concrete universal: to give it permanence in the world of ideas and to free it
-from its arbitrary material constraint. To lay bare the device literally would
-mean to make the mechanisms of naked political control visible. For any sort of
-reading to commence, one would first need to peel away the DOMs and the
-OSIs---today a task fraught with legal consequence.
-
-Essential for the practices of unencumbered critical thought, control
-structures exist in the gaps within the splintered sign. Ultimately, parts of
-the inscription that remain invisible affect more than typesetting
-characteristics. They shape the very structure of interpretation. The
-seemingly innocuous control and formatting layer contains the essence of
-machine control. Long a marginal concept in literary theory, formatting is
-therefore central to the practice of computational hermeneutics. Far from mere
-inconsequential embellishment, formatting governs the interface between
-meaning and matter, thought and page. It has the capability to embellish, to
-obscure, to censor, to govern, and to emend.
-
-The attached documents illustrate my thesis in practice. In the first image
-the reader will find a visual "dotplot" representation of Laurence Sterne's
-*The Life and Opinions of Tristram Shandy*, in plain text (`.txt`) file
-format. To produce the image, I use the Helfman's self-similarity dotplot
-approach. Dotplots, as Helfman explains, "reveal similarity structures in data
-regardless of format and in text and software regardless of language"
-[@helfman_dotplot_1996]. They can be used for authorship identification,
-plagiarism detection, or to find similarity in genetic material. The
-following, is a simple dotplot from Shakespeare:
-
-+----+---+---+---+----+---+---+
-|    |to |be |or |not |to |be |
-+====+===+===+===+====+===+===+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-|or  |   |   | • |    |   |   |
-+----+---+---+---+----+---+---+
-|not |   |   |   | •  |   |   |
-+----+---+---+---+----+---+---+
-|to  | • |   |   |    | • |   |
-+----+---+---+---+----+---+---+
-|be  |   | • |   |    |   | • |
-+----+---+---+---+----+---+---+
-
-<!-- Table: "Six words of Shakespeare" from @helfman_dotplot_1996. -->
-
-When applied to raw, binary data, self-similarity plots can be used to study
-data structures, to identify security threats, and to reverse engineer unknown
-file types. Note that, at this level, we are not observing patterns of meaning
-(as repetition of words or word clusters), but rather structural patterns in
-the underlying bit structure. We cannot tell from the image what these
-structures mean, only that they have a particular shape. Structure, in this
-sense, indicates architecture by human hand. We expect random data to render
-into undifferentiated patternless noise. By contrast, file formats, like the
-common `.docx` and `.mobi` files, will leave a recognizable signature, even
-when corrupted. The sparse topography of the `.txt` file in the first image
-indicates a relative paucity in bit types.  Plain text formats are limited to
-human-legible UTF-8 or ASCII character sets (used to to encode the `.txt`
-file). The square on the lower right likely represents lower case letters,
-with the other two squares showing capitals and punctuation.
-
-The second image (Fig. 12) shows the same novel encoded into the popular
-Mobipocket (`.mobi`) book format, used to store books on an Amazon Kindle
-device, for example. While the plain text signature is still present, other
-structures now also come into view. These are not human-legible under closer
-examination (using a hex-editor for example) because the data is encrypted.
-The plain text characters remaining comprise snippets of code, and some light
-header and footer information, identifying the file to reader applications.
-
-To produce the third image (Fig. 13), I encode the plain text version of the
-novel into the Portable Document Format (`.pdf`), another commonly circulated
-binary format for document storage. In an additional step, I use code
-injection techniques outlined in @rahman_getting_2010,
-@stevens_malicious_2011, and @maiorca_looking_2013 to introduce a malicious
-script into the header of the file. Depending on the version of the reader's
-Adobe Acrobat Reader, the code will execute when opening the document, with
-the potential of causing significant corruption to the system. The injection
-is clearly visible in the image, manifesting as a "cavity" of un-encrypted
-characters. Steps could be taken to further mask the malicious script,
-blending it with the background encrypted bit structure (shown as speckled
-noise), which would make the injection more difficult to detect.
-
-<!---
-
-!["Binary file structure I." Laurence Sterne's *Tristram Shandy*, in `.txt`
-format.  Unaltered.](images/txt.png)
-
-!["Binary file structure II." Laurence Sterne's *Tristram Shandy*, in `.mobi`
-format.  Unaltered.](images/mobi.png)
-
-!["Binary file structure III." Malicious code injection into the text of
-Laurence Sterne's *Tristram Shandy* in `.pdf` format. Cavitation indicating
-presence of injected code.](images/pdf.png)
-
---->
-
-In conclusion, I do not mean to imply that the "closest possible" reading of
-this sort, at the circuit and magnetic storage level, will somehow come to
-supplement reading at the surface for meaning and representation.
-Microanalysis is meant to complement close reading: giving it proper scope in
-time and space for its operation. But reading at the surface alone also risks
-losing sight of the naked struggle for power and control at the device level.
-The machine *can* determine the message when unchecked. In these conditions,
-reading without depth may struggle to even locate its object of study, as
-surface representations change dynamically, tailoring themselves to fit the
-reader's mood, to match the environment, or to please some remote censor.
-Best, Marcus, and Sontag are right in treating claims to symptomatic reading
-with suspicion, as claims to power. The reader of depth divines secret
-knowledge, with or without merit, creating an imbalance of interpretation.
-Critical reading in all dimensions must therefore begin with the ethics of
-mutual legibility. It succeeds when readers reclaim the underlying material
-conditions of their meaning making. The very architects of the "smart"
-literary device tell us: the answer to the machine remains in the machine.
-
-Perhaps mention closed systems from McLuhan.
 
 <!-- notes -->
 <!-- notes -->
