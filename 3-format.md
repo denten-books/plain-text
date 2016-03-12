@@ -950,94 +950,76 @@ document involves the transition abstract states, as when the author corrects
 spelling for example. Concrete to concrete editing transitions can involve the
 sequential rearrangement of sentences or paragraphs, or moving data from one
 table to another. Crucially for our discussion, the authors define formatting
-as a transformation between abstract and concrete classes: the application of
-font styles, for example. Formatting in that sense converts what the authors
-call the "intended document" into the "visible concrete document." Between
-these two polarities we observe the document description, at which stage
-content and physical text specifications are mixed together and laid out for
-viewing on a particular device [@furuta_document_1982, 419-22]. This last part
-is important, as many systems are designed to display text without "knowing"
-in a sense the ultimate physical dimensions of the target device. We can think
-for example of document files that are rendered in more or less the same way
-on a multitude of screens of varying sizes. Nothing in the code guarantees the
+as the reification of abstract classes into the real: the application of font
+styles, for example. Formatting in that sense converts what the authors call
+the "intended document" into the "visible concrete document." Between these
+two polarities we observe the document description, at which stage content and
+physical text specifications are mixed together and laid out for viewing on a
+particular device [@furuta_document_1982, 419-22]. This last part is
+important, as many systems are designed to display text without "knowing" in a
+sense the ultimate physical dimensions of the target device. We can think for
+example of document files that are rendered in more or less the same way on a
+multitude of screens of varying sizes. Nothing in the code guarantees the
 dimensions of the visible concrete document. We are only assured of the proper
 structure: that the paragraphs will have a certain spacing, that the footnotes
 appear on the bottom of the page, and so on.
 
 We can think of examples of other formatting operations which move in the
 opposite direction: from concrete to abstract for example. This happens in
-Optical Character Recognition, in the process by which the image of a physical
+optical character recognition, in the process by which the image of a physical
 page is converted into an intended, abstract structure, the "content" thereby
-lifted from the physical page. Yet other formatting functions convert 
-
-<!--- stop here -->
-
-Spelling correction, for example, constitutes an editing manipulation where
-abstract objects are modified into other abstract objects. Moving footnotes to
-endnotes, or shifting data tables around the document would count as editing of
-the "concrete to concrete" type. The authors define *formatting* as giving
-concrete shape to ideas in the transformation between abstract and concrete
-objects. Italicizing a word, for example, gives the idea of "emphasis" a
-slanted form. The act of breaking a document into pages gives shape (and a
-specific number of lines, for example) to the idea of a page.
-
-The authors hint at, but do not discuss the opposite movement, from "concrete
-to abstract" entities, as would be done in the process of optical character
-recognition (OCR). An important part of the digitization process, OCR "lifts"
-ideational content from the page image. Without OCR, common document formats
-like `.pdf` and `.tiff` therefore remain *merely visual representations*. They
-do not, at that stage, contain text or "abstract objects" as such. They are
-just pictures. Similar to how humans must "read" a text first in order to
-understand it, OCR attempts to "recognize" textual content from the image as a
-first step to further manipulation. Leaving aside the question of machine
-"understanding," recognition in this case implies more narrowly the
-conversation of image into text. This implies also that textuality occupies a
-distinct and privileged category in document epistemology, from the point of
-view of the machine. Another way to think about machine text would be to
-describe "images" as one type of "internal data structure" and text as another,
-more "structured" and "more internal," mode of representation. Consider that in
-the hierarchical Document Object Model images can contain text, but text
-cannot contain images. Text, in that sense, lies at the innermost location in
+lifted from the physical page. A text in the portable document format (.pdf)
+can remain a graphic image---a concrete, indivisible object---until the text
+is recognized. One car read it, of course, but it does not, from the machine's
+point of view contain text or "abstract objects" as such. Leaving aside the
+somewhat strained language in which machines have views and cognitive states
+like recognition, recognition in this case implies more narrowly the
+conversation of image into text. Text is a marked data format within machine
+epistemology. Recognition involves converting "image" type data structures
+into "text" types. Text, in that sense, lies at the innermost location in
 series of nested "outer" containers. Lacking a model of "comprehension" or
-"understanding," the Document Object Model merely posits text as "content" only
-in the sense of it being the "innermost" object of recognition.
+"understanding," the machine posits text as "content" in the sense of it being
+the "innermost" object of recognition.
 
-The "recognition" of characters does not, however, fully capture the variety of
-abstract document objects, which besides letters and words include paragraphs,
-tables, titles, and footnotes. These also count as "content." It is essential
-therefore to know "where text resides on the page," since some elements of
-positioning in themselves can carry meaning. For instance, proper names could
-carry different connotations depending on their location in the text. A name in
-the "author field" means something distinct from any other name mentioned in
-the body of the document. Lawrence O'Gorman, an influential researcher in the
-field of document image processing, calls the recognition of this sort of
-object, at the intersection of concrete and universal, "document lay-out
-understanding," which consists of "functional labeling of blocks [...]
-distinguished in some way by their physical features (such as by font size) and
-by the 'meaning' of the block [@ogorman_document_1993, 1162-63;
-@ogorman_document_1995, 82-99 (in the reconstructed edition)]." But note also
-that document layout (alternatively "formatting" or the arrangement of
-"concrete objects") could also incorporate meaningless (to humans) structures,
-such as the incidental "rivers" of empty space formed between the words. That
-sort of concrete structure goes "unrecognized" because it does not correspond
-to any abstract objects.
+The "recognition" of characters does not exhaust the variety of abstract
+document objects, which besides letters and words include paragraphs, tables,
+titles, and footnotes. These also count as "content," in some sense of the
+word. It is essential therefore to know "where text resides on the page,"
+since some elements of positioning in themselves can carry meaning. For
+instance, proper names could carry different connotations depending on their
+positioning on the page. A name in the "author field" means something distinct
+from any other name mentioned in the body of the document. Lawrence O'Gorman,
+an influential researcher in the field of document image processing, calls the
+recognition of this sort of object, at the intersection of concrete and
+universal, "document lay-out understanding," which consists of "functional
+labeling of blocks [...] distinguished in some way by their physical features
+(such as by font size) and by the 'meaning' of the block
+[@ogorman_document_1993, 1162-63; @ogorman_document_1995, 82-99 (in the
+reconstructed edition)]." Note also that document layout (alternatively
+"formatting" or the arrangement of "concrete objects") could also incorporate
+meaningless (to humans) structures, such as the incidental "rivers" of empty
+space formed between the words. That sort of concrete structure goes
+unrecognized because it does not correspond to any abstract objects in the
+available document object taxonomy.
 
 ![Method for extracting document structure based on "nearest-neighbor clustering
 of page components" [@ogorman_document_1993, 1164].](images/docstrum.png)
 
-Finally, the Document Object Model defines *viewing* as the movement from
-concrete objects to output device. This could include printing the document
-onto paper, or publishing it online, for example. It is at this moment that the
-full weight of Hegelian "universal concrete" makes itself known. The "concrete"
-object in the Document Object Model is still only a *description* of the
-two-dimensional space and represents some "possible formatted images of
-abstract objects."[^ln4-dom] To repeat: the concrete object represents
-"possible" formatted images, and not yet actual formatted images! To actualize
-materially, the document must be fixed and flattened back out onto a medium
-such as a screen or paper. These media have actual dimensions. In this way, a
-footnote placed at the bottom of the page at the level of concrete object can
-then be rendered at the bottom of an A1 (841mm × 1,189mm) size piece of paper
-or at the bottom of a much smaller A4-sized sheet (210mm × 297mm).[^ln4-iso216]
+Finally, we may describe *viewing* or *printing* a document as a chain of
+formatting operations that transform one type of concrete object, bits
+arranged spatially on the disk, into an abstract structure called the Document
+Object Model, and further into another type of concrete objects, pixels
+arrange in space on a screen or ink on a page. The Document Object Model
+contains a description of possible two-dimensional spaces like pages and
+screens of differing sizes, signifying relationships between elements within a
+range of possible concrete objects."[^ln4-dom] To materialize, the
+hierarchical model must be fixed and arranged on the surface of an actual
+medium, according to a set of predefined rules specified in the model. These
+media have actual dimensions. In this way, a footnote specified "at the bottom
+of the page" at the level of the model can then be rendered one way at the
+bottom of a specific page of a certain size, like A1 (841mm × 1,189mm) for
+example, and in another way at the bottom of another specific piece of paper
+of a much smaller A4-sized sheet (210mm × 297mm).[^ln4-iso216]
 
 In yet another formative paper in the history of contemporary textuality, Brian
 Kernighan and Joseph Ossanna describe TROFF, a text processor written circa
