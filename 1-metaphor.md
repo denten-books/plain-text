@@ -441,12 +441,12 @@ preservation, or freedom of speech embedded into the device.
 The material affordances of text at that bottom-most, meaning-bearing medium
 influence all higher-level functions of interpretation.[^ln1-rmedium] Still,
 most available theories of interpretation build on properties and assumptions
-attached to print media. For example, in Hans-Georg Gadamer's seminal
+attached to print media. For example, in Hans-Georg Gadamer's influential
 conception of art, the free play of the artistic mind transforms into material
 structure [*Gebilde*] that is both "repeatable" and "permanent"
 [@gadamer_truth_1975, 110]. Similarly, in his *Interpretation Theory*, Paul
 Ricoeur writes about the "range of social and political changes" related to
-the invention of writing. For Ricoeur, human discourse is "fixed" and thereby
+the invention of writing.  For Ricoeur, human discourse is "fixed" and thereby
 "preserved from destruction" in writing [@ricur_interpretation_1976, 26-8].
 The electronic literary device offers no such permanence. What is meant by
 "fixed," "permanent," and "repeatable" changes with the device. Such
@@ -661,8 +661,8 @@ and erasing bits breaks down in the worst possible way.
 ### 1.4 Mimesis of Direct Manipulation
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
-Laurel wrote in her seminal 1984 essay "Interface as Mimesis." She went on to
-write that "if designing interfaces feels like painting on cave walls by
+Laurel wrote in her important 1984 essay "Interface as Mimesis." She went on
+to write that "if designing interfaces feels like painting on cave walls by
 flickering torchlight, it is only because we, the designers, have not availed
 ourselves of better illumination: the science of the mimetic arts, poetics"
 [@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career

@@ -195,22 +195,22 @@ within it at least these two distinct and contradictory ideas about form: one
 about the outward shape of the sign and another about the inward structure or
 formula that governs semiosis. The distinction is important because it leads
 to several conflicting strategies of interpretation. Taken in the sense of
-"outwards shape," form suggests an aesthetics or even an "erotics" of art
+"outward shape," form suggests an aesthetics or even an "erotics" of art
 [@sontag_against_1966]. In this view, a sign is forever embedded into the
-specific contexts of inscription and/or reception. The material peculiarity of
-a word makes it forever different from the same word on a different page.
-Formalism in this sense is concerned with the palpable, outward physical
-attributes of text. Understood as formula, form suggests a more analytical
-approach, aimed at explicating the inward structures---rules, patterns,
-archetypes---that shape the production of text from within. Formal analysis in
-that sense studies not specific traces or utterances, but rather the
-development of ideal forms, which exist independent of any specific
-instantiation. Form in that sense constitutes an abstraction, leading to
-generalized historical categories like genre and period. Our ideas about "the
-novel," for example, or "modernism," or "post-colonial theory" reflect formal
-groupings of that kind. Where palpable form leads to immanent material
-artifacts, the abstracted notion of form leads to transcendent, universal
-ideals.
+specific contexts of inscription, and alternatively, in the contexts of its
+reception. The material peculiarity of a word makes it forever different from
+the same word on a different page.  Formalism in this sense is concerned with
+the palpable, outward physical attributes of text. Understood as formula, form
+suggests a more analytical approach, aimed at explicating the inward
+structures---rules, patterns, archetypes---that shape the production of text
+from within. Formal analysis in that sense studies not specific traces or
+utterances, but rather the development of ideal forms, which exist independent
+of any specific instantiation. Form in that sense constitutes an abstraction,
+leading to generalized historical categories like genre and period. Our ideas
+about "the novel," for example, or "modernism," or "post-colonial theory"
+reflect formal groupings of that kind. Where palpable form leads to immanent
+material artifacts, the abstracted notion of form leads to transcendent,
+universal ideals.
 
 The notion of a "format" occupies the conceptual space somewhere between form
 as intrinsic formula and form as extrinsic shape. In what remains a singular
