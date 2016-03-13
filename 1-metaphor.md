@@ -84,7 +84,22 @@ chapter is to arrest the advance of the metaphor. We must begin to separate
 resemblances from their designation: the apparent shape from a command in the
 imperative.
 
-Signpost the shape of the chapter. Time archive path.
+What does it mean to turn a page in a medium that sustains neither turning nor
+pages? In this chapter, we will use the tools of cognitive metaphor theory to
+tell the story of metaphor's influence on computation, at a formative moment
+in the history of human--computer interaction. I plan to approach this
+tradition from within, taking on its language and assumptions in the first
+several sections of the chapter. The latter sections capture the historical
+transition between literal computing, by which users gave explicit commands to
+their machines, and the so-called "direct manipulation" model, by which they
+began to occupy virtual, figurative environments. The chapter draws on the
+archives from graphic design, literary theory, and computer science---fields
+that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
+from literal to metaphoric, immersive computing brings us to the speculative
+possibility of seemingly unmediated coupling between human a machine---a
+possibility that I would like to acknowledge and finally reject outright in
+the conclusion of the chapter. Despite the appeal to candor, as I will argue,
+the dream of direct immediacy can only conceal the nature of mediation.
 
 ### 1.1 Verisimilitude
 
