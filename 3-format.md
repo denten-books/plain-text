@@ -1,25 +1,27 @@
 ## Chapter 3: Form, Formula, Format
 
-We know that the word shapes the human body in strange ways. After a lifetime
-of reading shoulders acquire a stooped countenance, as if the book was
-exerting pressure against the solar plexus. Eyesight deteriorates through
-continual exertion. Tendons and other supporting structures in the wrist swell
-from repetitive stress of contact with keyboards, the mechanical letter.
-Reading and writing take their toll. An even more profound change happens when
-we read and write computationally. Just as poetics strives to discover formal
-structures in the organization of complex symbolic notational systems, the
-complex symbolic notational systems embedded into our devices are building
-models of us. Machine learning algorithms track the speed by which the reader
-advances from paragraph to paragraph. They create a "fingerprint" of
-individual readers that points to their gender, age, race, ethnicity, and
-socio-economic status. They track the movement of the finger: where the reader
-is likely to move next; what themes are likely to follow other kinds of
-themes; how the human brain makes connections between topics. Heat maps are
-drawn to reflect the dynamics of attention, desire. Supervised learning
-algorithms use our collective philological output to predict behavior and to
-alter the visible content to better suit our predilections. Deep neural
-networks artificially mimic the brain to create models of human behavior that
-lie beyond human comprehension. The What I propose here is the beginning.
+Text shapes the human body in strange ways. After a lifetime of reading
+shoulders acquire a stooped countenance, as if the book was exerting pressure
+against the solar plexus. Eyesight deteriorates through continual exertion.
+Tendons and other supporting structures in the wrist swell from the repetitive
+stress of striking keys, working against the resistance of the mechanical
+letter. Reading and writing take their toll. A further profound change happens
+when we read and write along with the machine. Just as poetics strives to map
+and model the topography of complex symbolic notational systems, the complex
+symbolic notational systems embedded into our electronic devices are mapping
+and modeling us. Machine learning algorithms track the speed by which readers
+advance from paragraph to paragraph, creating a "fingerprint" that points to
+markers of gender, age, race, ethnicity, and economic status. Algorithmic
+agents follow the movement of the human finger in an attempt to anticipate
+where the reader is likely to move next, to learn what themes are likely to be
+of interest to us next, to understand how the human brain makes connections
+between topics. Heat maps are drawn to reflect the dynamics of boredom,
+fatigue, focus, attention, and desire. Supervised training algorithms use our
+collective philological output to learn how to sort information autonomously
+and to curate content that better suits our predilections. Deep neural
+networks artificially mimic the brain to build models of human behavior so
+complex that they defy human comprehension. A vast archive of literature by
+machines and for machines supports the human-readable corpus.
 
 Despite the formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -27,15 +29,15 @@ Instead, we erroneously consign it to the ornamental "formatting" layer of
 document structure. We do so at our peril. Unlike passive decorative elements
 like fleurons, daggers and pilcrows, box drawings, and other dingbats the
 programmatic sign actively molds text to context. At the maximally blunt limit
-of its functions, the formatting layer affects visibility. For example, it can
-selectively render some words and sentences on the screen while suppressing
-others. The ability to hide text from view completely or to make it so small
-as to be illegible affects not just the style but the politics of text. Code,
-in that sense, can determine its audience, privileging certain voices and
-modes of access over others. It is in the sense of audience selection that the
-programmatic sign acquires its non-representational, tactical character.
-Stripped of references, resemblances, and designations the programmatic sign
-commands and controls.
+of its capabilities, format governs access. For example, a command can
+selectively render some words and sentences visible on the screen while
+suppressing others. The ability to hide text from view completely or to make
+it so small as to be illegible affects not just the style but the politics of
+text. Code, in that sense, can determine its audience, privileging certain
+voices and modes of access over others. It is in the sense of audience
+selection that the programmatic sign acquires its non-representational,
+tactical character. Stripped of references, resemblances, and designations the
+programmatic sign commands and controls.
 
 Unlike figurative language, machine control languages function in the
 imperative. They do not stand for action---they are action. More binding than
@@ -51,54 +53,60 @@ matter. The handcuffs contort the body into the shape of submission. Absent a
 body, the restraints draw an empty shape.
 
 Code acts similarly to shape the word. Located somewhere between the screen
-and the storage medium, formatting relates matter to content. It is a
-technique, by which immanent inscriptions are composed into transcendent
-digital objects like novels, songs, and photographs. Formatting imposes
-structure. Think of a paragraph, for example. By convention, writers use
-paragraphs to break up the flow of monolithic thought on a page. The paragraph
-contains information. Can we imagine an empty paragraph? Can the shape of the
-paragraph persist outside of the material confines of the page or the screen?
-Can one imagine a paragraph that unfolds spatially not in two dimensions, but
-in one, along a straight line? What about a three dimensional paragraph?
-Could it take the shape of a cuboid instead instead of a rectangle? These
-questions boggle the mind because the paragraph draws a singular shape. It is
+and the storage medium, formats relate matter to content. They are techniques
+by which an immanent inscription is transformed into a transcendent digital
+object: a novel, song, film, or poem. Formatting imposes structure. Think of a
+paragraph, for example. By convention, writers use paragraphs to break up the
+flow of monolithic thought on a page. The paragraph contains information. Can
+one imagine an empty paragraph? Could the shape of a paragraph persist outside
+of the material confines of a page or screen?  Can one imagine paragraphs that
+unfold spatially not in two dimensions, but in one, along a straight line?
+What about a structure of words and sentences that extend into the third
+dimension: the paragraph in the shape of a cube, instead of a rectangle. These
+questions boggle the mind because paragraphs draw a singular figure. They are
 a textual container of a type. Any other shape less or more than the paragraph
-would go by another name. It would constitute another format. To imagine
+would go by another name; it would constitute another format. To imagine
 something like a one-dimensional paragraph is akin to imagining a flat
-shoebox. A flat shoebox could no longer hold shoes. It would contain something
-else like images of footwear. Similarly, a paragraph identifies a particular
-arrangement of elements. It is a box or a data structure of a shape, made to
-hold words and sentences. Like nesting dolls, words and sentences are in
-themselves data structures that contain further, smaller arrangements of
-information. One could say, what of such arrangements?  Who cares about
-paragraphs? It is merely one type of a container among many. It has only the
-instrumental function to help get the point across. The meat of interpretation
-lies in the stuff within. Words come in other shapes and sizes. The outer
-container is disposable and therefore insignificant.
+shoebox. A flat shoebox would no longer house shoes. It would contain
+something else like images of footwear. A paragraph identifies a similarly
+particular arrangement of elements. It is a container or a data structure of a
+kind, made to hold words and sentences. We may liken words and sentences to
+nesting dolls: data structures that contain within them further, smaller
+arrangements of information. A word fits inside of a sentence, the sentence
+within a paragraph, the paragraph within a chapter, the chapter within a book,
+the book within an archive, and so on.
 
-Formats could only seem insignificant in the past when they were few and
-simple. The transition between static and composable, dynamic media
-necessitates renewed attention to the formatting layer of meaning making. What
-you saw is what you got on the page. On the screen, what you see is but a
-small part of what you get. The content---all that is contained on a
-page---shifts beneath the projected image. In print, content can be gleaned
-from the surface. There is nothing but surface on a page. The screen is a
-layered surface. Sandwiched between substrates of glass, liquid crystal moves
-in response to electrical modulation. The ebb and flow of electricity in turn
-reflects yet another layer of codification, inscribed onto yet other recondite
-planes of inscription. A byte, made up of eight binary bits, holds a letter.
-The string of letters spelling out "hello world" occupies eleven bytes on the
-hard drive.[^ln3-space] A file in the Portable Document Format (`.pdf`)
-containing nothing but "hello world" takes up 24,335 bytes on my system.
-Encoding accounts for the disparity between plain text and fancy text, the
-latter defined as "text representation consisting of plain text plus added
+One could say, what of such arrangements?  Who cares about paragraphs? It is
+merely one type of a container among many. It has only the instrumental
+function to help get the point across. The meat of interpretation lies in the
+stuff within. Words come in other shapes and sizes. The outer container is
+disposable and therefore insignificant. Formats could only seem insignificant
+in the past when they were few, stable, and simple. The book or the broadsheet
+newspaper are known entities: we understand how they are made and how to
+unfold them in space. Composable, computational formats change rapidly and
+proliferate. They contain further, as yet unexplored structural possibilities.
+What you saw is what you got on the page. On the screen, what you see is but a
+small part of what you could get. The content---all that is contained on a
+page---shifts beneath the projected image.
+
+In print, content can be gleaned from the surface. There is nothing but
+surface on a page. The screen is a layered composite. Light and liquid
+crystal---the preferred media for contemporary text---move in response to
+electrical signal between substrates. Reflective screen surfaces conceal
+layers of codification, inscribed onto yet other recondite planes of
+inscription. A byte, made up of eight binary bits, holds a letter. The string
+of letters spelling out "hello world" occupies eleven bytes on the hard
+drive.[^ln3-space] A file in the Portable Document Format (`.pdf`) containing
+nothing but "hello world" takes up 24,335 bytes on my system. Encoding
+accounts for the disparity between plain text and fancy text, the latter
+defined as "text representation consisting of plain text plus added
 information" [@unicode_consortium_unicode_1990].
 
 [^ln3-space]: Ten bytes for the letters and one byte for the space character.
 
-What is the nature of this "added information?" Historically, the added
-information included machine instructions for viewing and printing text,
-encoding, or encryption, used for clandestine communication. The Portable
+What is the nature of this "added information?" Historically, added
+information included machine instructions for the viewing and printing of text
+along with cypher codes used for clandestine communication. The Portable
 Document Format (PDF) specifically can also contain features that enable--and
 I quote the exact specifications here---"accessibility of content to those
 with disabilities," "digital signatures to certify authenticity," "electronic
@@ -109,7 +117,7 @@ creator to retain control of the document and associated rights"
 visible content and stored information. The formatting layer specifies the
 *affordances* of electronic text. More than passive conduits of meaning,
 electronic texts thus carry within them the rules for engagement between
-authors and their readers. In our example, the Portable Document Format
+authors and their readers.  In our example, the Portable Document Format
 encodes among other things ideas about "reading," "authenticity," "fidelity,"
 "preservation," and "authorship." Whatever literary theoretical framework the
 reader brings to the process of interpretation must therefore meet the
@@ -210,12 +218,12 @@ Tanselle's purposes, the concept of formatting addresses narrowly something
 like "the number of page units placed on the press at one time"
 [@tanselle_concept_2000, 112-3]. He acknowledges, however, that more broadly
 speaking, formats refer also to the "nature and the order of the contents"
-[@tanselle_concept_2000, 67-8]. In this way we may speak of soap operas as a
-format for daytime television. The format of a journal may be a "broadsheet
-daily" or a "tabloid." Unlike the more narrow term, genre, format identifies
-both a particular kind and a particular structuring of content. The novel is a
-genre, where the paperback is its common format. A paperback implies not only
-the physical shape of the book, but also a method of manufacturing and
+[@tanselle_concept_2000, 67-8]. In this way, soap operas seem a format for
+daytime television. The format of a journal may be a "broadsheet daily" or a
+"tabloid." Unlike the more narrow term, genre, format identifies both a
+particular kind and a particular structuring of content. The novel is a genre,
+where the paperback is its common format. A paperback implies not only the
+physical shape of the book, but also a method of manufacturing and
 distribution, along with the *kind* of content. We do not expect scientific
 textbooks in paperback, for example, just as we would not expect tabloids to
 be printed on expensive stock or to support long-form investigative
@@ -729,7 +737,7 @@ shapes disappear in an act of reading determined to highlight certain kinds of
 conceptual references (content)," they continue. At the same time, what the
 authors call the "holistic repleteness of images" also keeps us from
 perceiving their "conceptual order [...] as if the graphic character of the
-work were completely obvious" [@drucker_images_????]. This important insight
+work were completely obvious" [@drucker_images_2010]. This important insight
 captures the dual movement of formatting at once towards the physical
 characteristics of the text and towards the mental characteristics of the
 content. Ideation ally, the reader understands the text as a mental construct
@@ -744,7 +752,7 @@ coordinates. The printer and the book designer know that it is not so. Drucker
 and McGann write that "systems of graphic presentation are operational, not
 merely passive schematic structures [...] active agents for creating meaning,
 instructions for reading, viewing, comprehending information
-[@drucker_images_????].
+[@drucker_images_2010].
 
 We are finally confronted with several concrete differences between print and
 digital formats for text resolution. Editors and textual scholars negotiate
@@ -776,23 +784,23 @@ purchase digital content, which can be read both online and offline. The
 platform's "features" include the ability to "download and transfer books
 between devices," "searching eBooks," support for multiple languages, the
 ability to borrow books, printing, limited support for visually impaired
-readers, bookmarking, highlights, notes, and file organization [@_plans_????].
+readers, bookmarking, highlights, notes, and file organization [@_plans_2016].
 Its own competing Adobe Document Cloud reading platform includes the Free,
 Standard, and Pro versions of Acrobat Reader, "the global standard for
-reliably viewing, printing, and commenting on PDF documents" [@_adobe_????].
+reliably viewing, printing, and commenting on PDF documents" [@_adobe_2016].
 Only the most expensive Pro version allows one to "create and validate PDFs to
 meet accessibility standards for people with disabilities." The free version
 does not support bookmarks or document editing. The Pro version allow enables
 readers to "redact and permanently remove sensitive information in PDFs" and
-to "compare two version of a document to see what's changed" [@_plans_????].
+to "compare two version of a document to see what's changed" [@_plans_2016].
 The Amazon Kindle reader, made by the world's largest purveyor of book both
 print and electronic, includes a feature called "Public Notes" which allows
 Kindle customers to "make their highlights and notes available for anyone to
-see" [@_amazon_????-1]. The frequently asked question page further explains
-that "if someone you follow has highlighted a passage in a book and has turned
-on Public Notes for the book, you'll see that passage highlighted along with
-the name of the person who highlighted it." The FAQ continues to tout the
-benefits of their platform:
+see" [@_amazon_2015]. The frequently asked question page further explains that
+"if someone you follow has highlighted a passage in a book and has turned on
+Public Notes for the book, you'll see that passage highlighted along with the
+name of the person who highlighted it." The FAQ continues to tout the benefits
+of their platform:
 
 > Now authors, thought leaders, passionate readers, professors and all Kindle
 users can opt-in to share their notes with other readers, helping friends,
@@ -800,11 +808,11 @@ family members, and other Kindle users who choose to follow them to get more
 from their reading. If someone you follow has highlighted a passage in a book
 and has turned on Public Notes for the book, you'll see that passage
 highlighted along with the name of the person who highlighted it. You'll also
-see the notes that they made in the book [@_amazon_????] The Google Play Books
+see the notes that they made in the book [@_amazon_2016] The Google Play Books
 platform does not have a public note features nor does it support book
 editing. It does however add the ability to translate words and passages and
 to search for selected phrases using the company's search engine
-[@_read_????]. In short, the electronic book cannot be reduced to a single
+[@_read_2016]. In short, the electronic book cannot be reduced to a single
 platform. The affordances of reading, taking notes, sharing, and storing books
 are determined by the software, governed by specific socio-economic
 contingencies. Thus a book available in North America, might be be available
@@ -1041,9 +1049,11 @@ form" to produce an "intermediate data structure," which it then "'unfolds'
 all at once" by "'peeling' the data structure one level at a time"
 [@madnick_script_1968, 97]. 
 
+<!--
 !["System Command and Data Flow." Flows and transformations between data
 structures at "disk file" level and text structures at the "user terminal" and
 the "line printer" levels [@madnick_script_1968, 98].](images/script.png)
+-->
 
 The format must not however be reduced to the mere application of visual style
 to words. Formatter designers from TROFF to FORMAT explicitly describe their
