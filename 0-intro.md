@@ -896,7 +896,6 @@ write for a machine? What about broken mechanisms of comprehension? At once a
 device and an algorithm, the Turing machine blurs the boundaries between
 software and hardware, code and content, intelligence and its imitation.
 
-
 Two rich intellectual histories collide on the pages of the **third chapter**
 chapter: one, the material history of formatting as a concept in computer
 science and the other, the intellectual history of form in literary theory.
