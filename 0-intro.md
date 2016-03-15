@@ -7,24 +7,32 @@ reading, writing, and interpretation practices. It is a deeply materialist
 work, arguing that even our most ingrained intuitions about texts are
 profoundly alienated from the contexts of their production. A new kind of
 poetics is therefore necessary to preserve the free play of ideas implicit in
-the method of humanistic inquiry.
+the method of humanistic inquiry. Often, the work of literary theory defines
+itself in terms of specific texts, as a series of readings. My object of study
+is instead the nature of textuality itself. I am interested here in how texts
+are produced; in the metaphors that guide computation; in the forms, formulae,
+and formats that shape human--computer interaction; in the literary device;
+and in the strange architecture of contemporary inscription, which, no longer
+a single mark on paper, stretches between the site of fleeting projection, the
+screen, and the site of storage in its solid state, the hard disk, the
+archive.
 
-As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
-loud noise every three minutes or so. And at every 15 minutes, a pleasant
-female voice announces also "low battery." This is a precaution stipulated by
-US National Fire Alarm Code 72-108 11.6.6 (2013). The clause requiring a
-"distinct audible signal before the battery is incapable of operating" is not
-only required by law, it is *encoded into the device*. The smoke detector
-internalizes that piece of legislation in its programming. We thus obtain a
-condition where the two meanings of code---as governance and machine
+While I write these introductory remarks, a ceiling-mounted smoke detector in
+my kitchen begins to emit a loud noise every three minutes or so. A pleasant
+female voice announces also "low battery." This is, as I learn, a precaution
+stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013). The clause
+requiring a "distinct audible signal before the battery is incapable of
+operating" is not only required by law, it is *encoded into the device*. The
+smoke detector embodies that piece of legislation in its circuitry. We thus
+obtain a condition where the two meanings of code---as governance and machine
 instruction---coincide. Code equals code.
 
 I am at home, but I also receive a notification of the alarm on my mobile
 phone. Along with monitoring apps that help make my home smarter, the phone
-contains most of my book library. I often pick it up to read a book. However,
-what I mean by "reading a book" obscures a number of metaphors for a series of
-odd actions. The "book" is a small, thin black rectangle: three inches wide,
-five inches tall, and barely a few millimeters thick. A slab of polished glass
+contains most of my library. I often pick it up to read a book. However, what
+I mean by "reading a book" obscures a number of metaphors for a series of odd
+actions. The "book" is a small, thin black rectangle: three inches wide, five
+inches tall, and barely a few millimeters thick. A slab of polished glass
 covers the front of the device, where the tiny eyes of a camera and a light
 sensor also protrude.  At the back, made of smooth soft plastic, we find
 another, larger camera. At the foot of the device a grid of small perforations
