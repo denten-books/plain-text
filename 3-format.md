@@ -171,29 +171,31 @@ On incommensurate physicalities see @galloway_interface_2012, viii.
 Formatting rules facilitate the conversion of machine-readable codes into
 human-readable text. The structure of the transformation governs the
 production, storage, reception, and the dissemination of the textual artifact.
-Despite its significance, formatting continues to elude the critical gaze
-because our very concept of form, central to literary analysis, has always
-drifted between vague and conflicting intuitions. The history of formalism, as
-I will outline it in the first part of this chapter, contains within it at
-least these two conflicting ideas about the nature of literary form. Going
-back to the reception of Plato, Hegel, and the Russian formalists, the English
-"form" renders at times the material, outward, and apparent shape of something
-said, written, or pictured. Yet just as often, critics use "form" in the sense
-of a Platonic ideal: abstracted from matter, inward-facing, and in need of
+Despite its significance, formats continues to elude the critical gaze because
+our very concept of form, central to literary analysis, has always drifted
+between several contradictory intuitions. The history of formalism, as I will
+outline it in the first part of this chapter, contains within it at least
+these two conflicting ideas about the nature of literary form. Going back to
+the reception of Plato, Hegel, and the Russian formalists, the English "form"
+renders at times the material, outward, and apparent shape of something said,
+written, or pictured. Yet just as often, critics use "form" in the sense of a
+Platonic ideal: abstracted from matter, inward-facing, and in need of
 explication. Form in that sense is closer to the idea of an algorithm of a
 formula: it signifies according to implicit rules.
 
 In this chapter, I would like to augment these two senses of form with a
-third, introducing the concept of format into the critical discourse. The
-intellectual history of form in literary theory will meet the material history
-of formatting in computer science in the second half of the chapter. A
-historically-grounded theoretical discussion about formalism will lead us to
-the formal structure at the heart of every digital document and finally to the
-notion of a smart document, capable of activity policing the encoded rules of
-engagement: what can be read, how, and where. In the process, we will observe
-formats develop from simple machine instructions for typographical layout to
-complex political directives pertaining to intellectual property rights,
-constraints on speech, trade agreements, secrecy, and national security.
+third, introducing the concept of format into the critical discourse.  In the
+process, we will observe formats develop from simple machine instructions for
+typographical layout to complex political directives pertaining to
+intellectual property rights, constraints on speech, trade agreements,
+surveillance, and clandestine communication. The intellectual history of form
+in literary theory, based on early twentieth century materials, will meet the
+material history of formatting in computer science at an early, decisive
+period in the development of the discipline.  The language of formalism will
+allow us to perceive an important structure at the heart of every digital
+text. The chapter ends with the notion of a "smart document," an increasingly
+common instrument of record capable of policing its own encoded rules of
+reader engagement: what can be read, how, and where.
 
 ### 3.1 Concrete and Universal
 
