@@ -228,45 +228,48 @@ as intrinsic formula and form as extrinsic shape. In what remains a singular
 article-length treatment on the topic in literary studies, G. Thomas Tanselle
 approaches the concept of formatting from the point of view of textual
 criticism---the practice of compiling, editing, annotating, preserving, and
-publishing scholarly critical editions of (often) canonical texts. For
-Tanselle's purposes, the concept of formatting addresses narrowly something
-like "the number of page units placed on the press at one time"
-[@tanselle_concept_2000, 112-3]. He acknowledges, however, that more broadly
-speaking, formats refer also to the "nature and the order of the contents"
-[@tanselle_concept_2000, 67-8]. In this way, soap operas seem a format for
-daytime television. The format of a journal may be a "broadsheet daily" or a
-"tabloid." Unlike the more narrow term, genre, format identifies both a
-particular kind and a particular structuring of content. The novel is a genre,
-where the paperback is its common format. A paperback implies not only the
-physical shape of the book, but also a method of manufacturing and
-distribution, along with the *kind* of content. We do not expect scientific
-textbooks in paperback, for example, just as we would not expect tabloids to
-be printed on expensive stock or to support long-form investigative
-journalism. The format captures something about the shape, the design, the
-style, and the thematics of the subject matter; it connects, in other words,
-the where to the what, the how, and in what order.
+publishing scholarly critical editions of canonical texts. For Tanselle's
+purposes, the concept of formatting addresses narrowly something like "the
+number of page units placed on the press at one time" [@tanselle_concept_2000,
+112-3]. He acknowledges, however, that more broadly speaking, formats refer
+also to the "nature and the order of the contents" [@tanselle_concept_2000,
+67-8]. In this way, soap operas refer to a format for daytime television. The
+format of a journal may be a "broadsheet daily" or a "tabloid." We may also
+say that a soap opera is also a *genre* of television, just like the tabloid
+is also in some sense a genre of print publications. Unlike "genre" however,
+the notion of format identifies matter both of particular shape and content.
+The soap opera is a kind of a daytime melodrama of a certain length, for
+example. The format speaks both to the physical properties and to the
+ideational subject matter of the thing. The novel is a genre, where the
+paperback its common format. The novel is finitely malleable, the paperback is
+fixed my its methods of manufacturing and distribution. We do not expect
+scientific textbooks in paperback, for example, just as we would not expect
+tabloids to be printed on expensive stock or to support long-form
+investigative journalism. The format captures something about the shape, the
+design, the style, and the thematics of the subject matter; it connects, in
+other words, the where to the what, the how, and in what order.
 
 With these provisional definitions down on paper, I would like to revisit a
 few of the canonical texts from the long history of formalism. It would be
 interesting to see, for example, whether Plato's or Hegel's seminal passages
-on formal aesthetics fall on inward structure or outward shape side of the
-divide I have posited so far. Note first that in whatever tradition, the
-concept of "form" is usually contraposed to some idea of "content." Content
-refers to the stuff being shaped or arranged, whether by intrinsic law or
-though extrinsic shaping. For example, the historian R.G. Collingwood famously
-described the distinction between classical and romantic art periods in terms
-of for the form/content divide. He wrote: "Classical art, in a word, stands
-for form; romantic art for content" [@collingwood_form_1929, 335]. In recent
-work on computational text generation, Kathleen McKeown wrote that to produce
-discourse, writers and speakers "must decide what to say and how to present it
-effectively," once again making the distinction content (the what to say) and
-its presentation. McKeown writes that a machine that generates text should,
-among other things, be able to determine the "content and textual shape" of
-what needs to be said or written [@mckeown_text_1992, 1]. Similarly, in her
-influential essay "Print Is Flat, Code Is Deep," Katherine Hayles writes about
-"the interplay between a text's physical characteristics and its signifying
-strategies" [@hayles_print_2004, 72]. In this way, a text having differing
-physical characteristics may nevertheless employ the same signifying
+on formal aesthetics fall on the "inward structure" or the "outward shape"
+side of the divide I have posited so far. Whatever the tradition of writing
+about form, the concept is usually contraposed to some idea of content: as in
+form and content. Content in that sense refers to the stuff being shaped or
+arranged, whether by intrinsic law or extrinsic forces. R.G. Collingwood
+famously described the distinction between classical and romantic art periods
+in terms of the form-content divide. He wrote: "Classical art, in a word,
+stands for form; romantic art for content" [@collingwood_form_1929, 335]. In
+recent work on computational text generation, Kathleen McKeown wrote that to
+produce discourse, writers and speakers "must decide what to say and how to
+present it effectively," once again making the distinction content (the what
+to say) and its presentation.  McKeown writes that a machine that generates
+text should, among other things, be able to determine the "content and textual
+shape" of what needs to be said or written [@mckeown_text_1992, 1]. Similarly,
+in her influential essay "Print Is Flat, Code Is Deep," Katherine Hayles
+writes about "the interplay between a text's physical characteristics and its
+signifying strategies" [@hayles_print_2004, 72]. In this way, a text having
+differing physical characteristics may nevertheless employ the same signifying
 strategies. The various editions of Shakespeare's *Hamlet*, for example, may
 look different but nevertheless refer to the same work of art. We saw a
 similar distinction in the discussion about technique, where writers made a
