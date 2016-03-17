@@ -716,32 +716,34 @@ method in bibliographic study in @mckenzie_making_2002, 16-17. See also
 @mcgann_socialization_1991; @tanselle_textual_1996.
 
 Various schools of textual criticism emphasize differing aspects of the
-publication process. Some privilege a notion of authorial intent, others
+publication process. Some privilege the notion of authorial intent, others
 publisher's discretion or the audience's expectations. Whatever these choices
 imply, they continue to determine value, in a process that separates those
 physical attributes meaningful to the work from those that are not. For
-example, in their online edition of Claude McKay's 1922 collection of poems
-*Harlem Dawn*, the editors made the decision to encode indentation, preserving
-the perceived integrity of the poem's visual line structure. However, they
-have also allowed for the text to wrap when viewed on small devices, in effect
-"soft wrapping" those lyrical lines that are too long to fit on a small
-screen. The end result is a compromise between authorial intention and
-technological capability.  Other solutions are possible, of course. The
-editors could have chosen to recreate a graphical facsimile of a particular
-print edition, which would not render well on small screen
-[@mckay_harlem_2015]. The choice to preserve certain attributes of formatting,
-while suppressing others identifies those elements meaningful to the editors.
-In the most extreme case, we could imagine an editor wanting to preserve all
-of a text's details, down to the molecular structure of the original. Such a
-text could be accompanied by a potentially unlimited amount of metadata
-describing the precise physical contexts of the universe surrounding the
-authoritative version. To reproduce the text faithfully would be to reproduce
-the world around it. We do not, however, as readers, usually care for all of a
-text's physical attributes.  Stains and scratches on the paper's surface are
-usually discarded in reproduction. They are not seen as meaningful for the
-understanding of text.
+example, in their contemporary online edition of Claude McKay's 1922
+collection of poems *Harlem Dawn*, the editors made the decision to encode
+indentation, preserving the perceived integrity of the poem's visual line
+structure. However, they have also allowed for the text to wrap when viewed on
+small devices, in effect "soft wrapping" those lyrical lines that are too long
+to fit on a small screen [@mckay_harlem_2015]. The end result is a compromise
+between authorial intent and technological capability. The layout respects
+line indentation but not line length. Other solutions are possible, of course.
+The editors could have chosen to recreate an exact graphical facsimile of a
+particular print edition, which would not render well on small screen due to
+the disparity in size. The choice to preserve certain attributes of
+formatting, while suppressing others identifies those elements meaningful to
+the editors. In the most extreme case, we could imagine an editor wanting to
+preserve all of a text's details, down to the molecular structure of the
+original. Such a text could be accompanied by a potentially unlimited amount
+of metadata describing the precise physical contexts of the universe
+surrounding the authoritative version. To reproduce the text faithfully would
+mean to reproduce the world around it. We do not, however, as readers, usually
+care for the entirety of a text's physical attributes. Contingent stains or
+scratches in the manuscript or the authoritative edition are usually discarded
+in reproduction. They are not seen as meaningful for the understanding of
+text.
 
-Thus whenever we think of Shakespeare's *King Lear*, for example, whatever is
+Thus when we think of Shakespeare's *King Lear*, for example, whatever is
 meant by the "format" of the play belongs neither wholly to its physical
 medium (pixel or paper) nor to the ideational content of the work. Format, in
 that sense, lies somewhere between the two worlds: it is in the shape of the
@@ -749,59 +751,63 @@ letters, in the structure of the narrative, and in the prosody of the word. We
 do not quite know which of these elements belong to the content of the play
 and which are the contingent material artifacts of the printing process: the
 way the fonts look, for example, or the way lines break on the page. Some
-matters of format matter to us as readers (line breaks), while others may not
-(font kerning, for example). The tradition of textual criticism reminds the
-literary theorist of the transition that happens between literary texts and
-literary works. The transformation between ideas and things is always a
-fraught process, because whatever the theorist may believe about the dynamics
-of interpretation must be weighed against the material affordances of the
-specific textual witness. A word, a comma not included into the text cannot
-become a part of meaning making. Formatting practices keep the gates of
+matters of format matter to us as readers (line breaks in poetry, for
+example), while others may not (font kerning, for example). The tradition of
+textual criticism reminds the literary theorist of the transition that happens
+between literary texts and literary works. The transformation between ideas
+and things is always a fraught process, because whatever the theorist may
+believe about the dynamics of interpretation must be weighed against the
+material affordances of the specific textual witness. A word or comma omitted
+from text cannot ever become a part of its meaning making processes. Format
+stands at the gates of hermeneutics. It is the ultimate arbiter of
 interpretation.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
 
-In a meditation on pictographs and pictographic logic Johanna Drucker and
-Jerome McGann write about the "presentational form of texts" which usually
-masks their "logical operations in a surface rhetoric that dominates and
-controls our conscious attention." "The physicality of textual marks and
-shapes disappear in an act of reading determined to highlight certain kinds of
+In an essay on pictographs and pictographic logic, Johanna Drucker and Jerome
+McGann write about the "presentational form of texts" which usually masks
+their "logical operations in a surface rhetoric that dominates and controls
+our conscious attention." "The physicality of textual marks and shapes
+disappear in an act of reading determined to highlight certain kinds of
 conceptual references (content)," they continue. At the same time, what the
 authors call the "holistic repleteness of images" also keeps us from
 perceiving their "conceptual order [...] as if the graphic character of the
 work were completely obvious" [@drucker_images_2010]. This important insight
 captures the dual movement of formatting at once towards the physical
 characteristics of the text and towards the mental characteristics of the
-content. Ideation ally, the reader understands the text as a mental construct
-that takes shape in the mind. The book subsides into obscurity, as Percy
-Lubbock wrote in *The Craft of Fiction*. Subsequently, readers tend to treat
-text in a disembodied fashion---surface rhetoric---forgetting about the
-material structures that support the mental phenomena. Phenomenologically
+content. Ideationally, the reader understands the text to be a mental
+construct that takes shape in the mind. The book retreats from the grasp, as
+Percy Lubbock wrote in *The Craft of Fiction*. Subsequently, readers tend to
+treat text in a disembodied fashion---as surface rhetoric---forgetting about
+the material structures that support mental phenomena. Phenomenologically
 speaking however, the page presents itself holistically, at once, as a unified
 image, in what the Drucker and McGann call its "holistic repleteness." It is
 as if it was always so: these words were always in this order, at these
-coordinates. The printer and the book designer know that it is not so. Drucker
-and McGann write that "systems of graphic presentation are operational, not
-merely passive schematic structures [...] active agents for creating meaning,
-instructions for reading, viewing, comprehending information
-[@drucker_images_2010].
+coordinates. The printer and the book designer know the image to be a
+constructed composite. They understand and can name the particulates of page
+composition invisible to the lay reader. Drucker and McGann conclude that
+"systems of graphic presentation are operational, not merely passive schematic
+structures [...] active agents for creating meaning, instructions for reading,
+viewing, comprehending information [@drucker_images_2010].
 
 We are finally confronted with several concrete differences between print and
 digital formats for text resolution. Editors and textual scholars negotiate
-the instruction set for reading, viewing, and comprehending information in
-print in advance of publication. The choice to include or to exclude certain
-words, versions, or visual elements of the text is set into the page, where it
-remains statically in place for the duration of a book's life cycle. The book
-itself provides a stable platform for a range of reading practices, which
-include annotation, copying, and the preservation of written work. To the
-extent that books determine the affordances of reading, those affordances
-exhibit historical continuity. For example, the format of the book presupposes
-several physical abilities like manual dexterity, reading capability, and
-eyesight within a specific range of vision. In return, the book affords tasks
-like highlighting and the taking of notes. Empty space on a page around the
-text facilitates marginalia. For the highlighter or the pen to function well
-the printing medium must be made of a porous material, and not, for example,
+the instruction codes that govern reading, viewing, and interpretation
+strategies in print in advance of publication. The choice to include or to
+exclude certain words, versions, or visual elements of the text is fixed into
+the final proof of the page, where it remains statically in place for the
+duration of a book's existence. The book itself provides a stable platform for
+a range of reading practices, which include the annotation, copying, and
+preservation of written work. To the extent that books determine the
+affordances of reading, those affordances exhibit historical continuity. For
+example, the format of the book presupposes several physical abilities like
+manual dexterity, reading capability, and eyesight within a specific range of
+vision. Readers falling outside of that range are prevented from accessing the
+text in the specified fashion. The book further affords abilities like
+highlighting and the taking of notes. Empty space on a page around the text
+facilitates marginalia. For the highlighter or the pen to function well the
+printing medium must be made of a porous material, and not, for example,
 plastic, which would make marking the page difficult while affording other
 capabilities, like reading under water.[^ln3-notes]
 
@@ -810,30 +816,29 @@ capabilities, like reading under water.[^ln3-notes]
 The affordances of the electronic book are more diffuse. On the one hand, the
 format of the book has been replaced with a multitude of competing digital
 formats, each vying to supplant print to become the singular, unified reading
-platform. The family of book- and document-related application software made
-by Adobe Systems, the company behind the popular Portable Document Format,
-includes Adobe Digital Editions, which the reader can use "to download and
-purchase digital content, which can be read both online and offline. The
-platform's "features" include the ability to "download and transfer books
-between devices," "searching eBooks," support for multiple languages, the
-ability to borrow books, printing, limited support for visually impaired
-readers, bookmarking, highlights, notes, and file organization [@_plans_2016].
-Its own competing Adobe Document Cloud reading platform includes the Free,
-Standard, and Pro versions of Acrobat Reader, "the global standard for
-reliably viewing, printing, and commenting on PDF documents" [@_adobe_2016].
-Only the most expensive Pro version allows one to "create and validate PDFs to
-meet accessibility standards for people with disabilities." The free version
-does not support bookmarks or document editing. The Pro version allow enables
-readers to "redact and permanently remove sensitive information in PDFs" and
-to "compare two version of a document to see what's changed" [@_plans_2016].
-The Amazon Kindle reader, made by the world's largest purveyor of book both
-print and electronic, includes a feature called "Public Notes" which allows
-Kindle customers to "make their highlights and notes available for anyone to
-see" [@_amazon_2015]. The frequently asked question page further explains that
-"if someone you follow has highlighted a passage in a book and has turned on
-Public Notes for the book, you'll see that passage highlighted along with the
-name of the person who highlighted it." The FAQ continues to tout the benefits
-of their platform:
+platform. Software made by Adobe Systems, the company behind the popular
+Portable Document Format, includes Adobe Digital Editions, which the reader
+can use "to download and purchase digital content, which can be read both
+online and offline. The platform's "features" include the ability to "download
+and transfer books between devices," "searching eBooks," support for multiple
+languages, the ability to borrow books, printing, limited support for visually
+impaired readers, bookmarking, highlights, notes, and file organization
+[@_plans_2016]. Its own competing Adobe Document Cloud reading platform
+includes the Free, Standard, and Pro versions of Acrobat Reader, "the global
+standard for reliably viewing, printing, and commenting on PDF documents"
+[@_adobe_2016]. Only the most expensive Pro version allows one to "create and
+validate PDFs to meet accessibility standards for people with disabilities."
+The free version does not support bookmarks or document editing. The Pro
+version enables readers to "redact and permanently remove sensitive
+information in PDFs" and to "compare two versions of a document to see what's
+changed" [@_plans_2016]. The Amazon Kindle reader, made by the world's largest
+purveyor of book both print and electronic, includes a feature called "Public
+Notes" which allows Kindle customers to "make their highlights and notes
+available for anyone to see" [@_amazon_2015]. The frequently asked question
+page further explains that "if someone you follow has highlighted a passage in
+a book and has turned on Public Notes for the book, you'll see that passage
+highlighted along with the name of the person who highlighted it." The FAQ
+continues to tout the benefits of their platform:
 
 > Now authors, thought leaders, passionate readers, professors and all Kindle
 users can opt-in to share their notes with other readers, helping friends,
@@ -852,29 +857,41 @@ contingencies. Thus a book available in North America, might be be available
 on other continents, or it could be available elsewhere in a redacted form,
 its content tailored to the reader's geography dynamically.
 
-On the other hand, my remarks about the diffuse affordances of the electronic
-book hold true only for interaction through the sanctioned "front end" modes
-of access. For example, note that all of the major book platforms I have
-mentioned above are coupled tightly with their respective book markets.
-Whatever the comparative affordances of reading an Amazon ebook versus the
-book expressed in the Adobe Document Cloud, the software must emulate the
-logics of document ownership. To own an electronic book or a document means
-significantly different things depending on the specific affordances of the
-given platform. In another sense, to own a book in each case means to have
-access to the bits that bring the simulation of the book into existence. At
-some lower level of abstraction the variety of reading platforms rest on the
-computational substratum. This hyper-media, as Lev Manovich calls it,
-underlies all simulacra, including the bibliographic
-[@manovich_software_2013]. A common act of epistemic disobedience, to borrow
-from Walter Mignolo, therefore includes accessing the book bits more directly,
-through unsanctioned channels [@mignolo_epistemic_2009]. One can for example
-disentangle models of document ownership embodied in an Amazon Kindle document
-format from the "content" of the book itself. The so called "ripping" of the
-Kindle book library involves reformatting individual books into other forms
-which could hypothetically enable unfettered copying and circulation,
-constrained by original platform. The activity need not be illicit. The
-extraction of plain text from the Portable Document Format commonly
-constitutes the initial step in scholarly corpus analysis or distant reading.
+In each case, Adobe and Amazon, we observe an attempt to supplant the
+affordances of the book with a range of other, competing affordances
+particular to the company's proprietary document format. The Amazon book and
+the Kindle book are read in a different way. And we are yet to discover the
+extent to which they are capable of governing reading.
+
+On the other hand, contrary to the above remarks, my notes on the diffuse
+affordances of the electronic book hold true only for interaction through the
+sanctioned "front end" modes of textual interface. For example, note that all
+of the major book platforms I have mentioned so far are coupled tightly with
+their respective book markets. Both Amazon and Adobe sell books in a way that
+is not compatible with one another, or with other electronic book platforms.
+Further, note that whatever the comparative affordances of reading an Amazon
+ebook versus the book expressed in the Adobe Document Cloud, the software must
+emulate the logics of document ownership. To own an electronic book or a
+document implies the ability to perform significantly different actions
+depending on the specific affordances of the given platform. In another sense,
+to own a book in each case means to have access to the bits that bring the
+simulation of the book into existence. At some lower level of abstraction the
+variety of reading platforms rest on the same computational substratum. Both
+Amazon and Adobe books rely on the underlying capabilities of the personal
+computer. This base hyper-media, as Lev Manovich calls it, supports all
+simulacra, including the bibliographic [@manovich_software_2013]. Whatever it
+means to own a book, must involve the computer. A common act of epistemic
+disobedience, to borrow from Walter Mignolo, therefore includes accessing the
+book bits directly, through channels afforded not by the publisher but by the
+device manufacturer [@mignolo_epistemic_2009]. One can for example disentangle
+mechanism of book ownership enforced by Amazon, from the book's "content." The
+so called "ripping" of the Kindle book library involves reformatting
+individual books into other file formats which could hypothetically enable
+unfettered copying and circulation, constrained by the original platform. The
+activity need not be illicit. The extraction of plain text from the Portable
+Document Format commonly constitutes the initial step in scholarly corpus
+analysis or distant reading. At the very least, I am able to simply copy the
+words on my screen into another format by hand.
 
 In each of the above examples, the reader confronts some aspect of formatting
 instrumentally, for a particular purpose like copying, analysis, or
