@@ -67,7 +67,7 @@ sleeping, and consumption habits. It tries to sell me things, showing me
 advertisements for cars, jewelry, and pills. It comes with a manual and terms
 of service. It is my confidant, my dealer, my spy.
 
-## 0.1 Alienation
+## 0.1 Thesis of the Book
 
 My aim in this book is to dispel a pervasive illusion. The electronic book
 draws a compelling figure that belies material realities of reading and
@@ -79,6 +79,8 @@ being and how does it affect practices of literary interpretation? In *Plain
 Text* I attempt to come to terms with the conditions of simulated textuality.
 
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
+
+<!--- illusion of ephemerality is not understood --->
 
 The illusion of ephemerality that follows simulation comes at a price of
 understanding. "Software's ghostly presence produces and defies apprehension,"
@@ -114,16 +116,16 @@ publishing houses that heralded the advance of formalism; from studies on
 animal communication behavior, to Unix manuals, to textbooks on semiotics, and
 to foundational texts in the philosophy of aesthetics and literary theory.
 
-I deploy the archive to argue that extant theories of interpretation evolved
-to function under the conditions tied to static print media. By contrast,
-electronic text changes dynamically to suit its reader, political context, and
-geography. Consequently, I argue for the development of what I term
-*computational poetics*: a strategy of interpretation capable of reaching
-past the surface content to reveal the software platforms and the hardware
-infrastructures that contribute to the production of meaning. Drawing on a
-range of materials at the intersection of literary thought and the history of
-modern computing, *Plain Text* examines a number of key literary-theoretical
-constructs, recasting the electronic book as a computational object.
+I deploy the archive to argue that theories of interpretation evolved under
+the conditions tied to static print media. By contrast, electronic text
+changes dynamically to suit its reader, political context, and geography.
+Consequently, I argue for the development of what I term *computational
+poetics*: a strategy of interpretation capable of reaching past the surface
+content to reveal the software platforms and the hardware infrastructures that
+contribute to the production of meaning. Drawing on a range of materials at
+the intersection of literary thought and the history of modern computing,
+*Plain Text* examines a number of key literary-theoretical constructs,
+recasting the electronic book as a computational object.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -157,9 +159,12 @@ copying or sharing stored content, even for the purposes of academic
 study.[^ln-dmca] Computational poetics strives to make such control structures
 available for critical reflection. Building on the recent work of scholars
 like Lev Manovich, Tung-Hui Hu, and Lisa Gitelman I make the case for an
-empowered poetics, able regain a measure of control over the material contexts
-of our knowledge production [@manovich_there_2011; @gitelman_paper_2014;
-@hu_prehistory_2015].
+empowered poetics, able to regain a measure of control over the material
+contexts of our knowledge production [@manovich_there_2011;
+@gitelman_paper_2014; @hu_prehistory_2015].
+
+<!-- I build on these thesis with Shklov. and Flusser, and then metaphor. Why
+are these section -->
 
 ## 0.2 Displacement
 
@@ -514,6 +519,8 @@ displacement and habituation enter into a continuing conversation.
 
 ## 0.4 Computational poetics
 
+<!-- coerce the reader into that section, making familiar -->
+
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering. Similar in method to what Matthew
 Kirschenbaum calls "forensic argumentation," reverse engineering recalls the
@@ -704,7 +711,7 @@ very subjects whose loss Foucault and Kittler lament.[^ln-lament] Only in such
 encrypted tunnels and secure shells can anything like the digital humanities
 or new media studies take root.
 
-## 0.5 Theory and Practice
+## 0.5 Methods
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of

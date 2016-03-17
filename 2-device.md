@@ -137,6 +137,8 @@ and covert intelligence agencies [@soyata_combat:_2012;
 voice telecommunication, is now used ubiquitously both to read books and to
 detonate explosives at a distance.
 
+<!-- a little more detail about the material, archive -->
+
 These conditions compel us---historians, philologists, et al.---to reconsider
 the cozy relationship we have had with books since the advent of the Gutenberg
 press. Simulated text no longer plays by the same rules as print. The

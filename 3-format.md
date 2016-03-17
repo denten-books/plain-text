@@ -154,7 +154,6 @@ paragraphs, pages, files, and folders. Images of such ordering structures on
 the screen look like their paper counterparts, but they represent other, less
 familiar ordering structures on the disk. These two ways of ordering are not
 equivalent to each other. They imply differing possibilities and affordances.
-
 Formats mediate between data structures, transforming one into the other
 according to a predefined set of rules. The screen projection---content
 arranged on the screen---represents a mental image---information stored in the
@@ -170,22 +169,22 @@ On incommensurate physicalities see @galloway_interface_2012, viii.
 
 Formatting rules facilitate the conversion of machine-readable codes into
 human-readable text. The structure of the transformation governs the
-production, storage, reception, and the dissemination of the textual artifact.
-Despite its significance, formats continues to elude the critical gaze because
-our very concept of form, central to literary analysis, has always drifted
-between several contradictory intuitions. The history of formalism, as I will
-outline it in the first part of this chapter, contains within it at least
-these two conflicting ideas about the nature of literary form. Going back to
-the reception of Plato, Hegel, and the Russian formalists, the English "form"
-renders at times the material, outward, and apparent shape of something said,
-written, or pictured. Yet just as often, critics use "form" in the sense of a
-Platonic ideal: abstracted from matter, inward-facing, and in need of
+production, storage, reception, and the dissemination of textual artifacts.
+Despite their significance, formats continue to elude the critical gaze
+because our very concept of form, central to literary analysis, has always
+drifted between several contradictory intuitions. The history of formalism, as
+I will outline it in the first part of this chapter, contains within it at
+least these two conflicting ideas about the nature of literary form. Going
+back to the reception of Plato, Hegel, and the Russian formalists, the English
+"form" renders at times the material, outward, and apparent shape of something
+said, written, or pictured. Yet just as often, critics use "form" in the sense
+of a Platonic ideal: abstracted from matter, inward-facing, and in need of
 explication. Form in that sense is closer to the idea of an algorithm of a
 formula: it signifies according to implicit rules.
 
-In this chapter, I would like to augment these two senses of form with a
-third, introducing the concept of format into the critical discourse.  In the
-process, we will observe formats develop from simple machine instructions for
+Here, I would like to augment these two senses of form with a third,
+introducing the concept of format into the critical discourse. In the process,
+we will observe formats develop from simple machine instructions for
 typographical layout to complex political directives pertaining to
 intellectual property rights, constraints on speech, trade agreements,
 surveillance, and clandestine communication. The intellectual history of form
