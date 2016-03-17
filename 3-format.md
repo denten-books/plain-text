@@ -207,23 +207,23 @@ about the outward shape of the sign and another about the inward structure or
 formula that governs semiosis. The distinction is important because it leads
 to several conflicting strategies of interpretation. Taken in the sense of
 "outward shape," form suggests an aesthetics or even an "erotics" of art
-[@sontag_against_1966]. In this view, a sign is forever embedded into the
+[@sontag_against_1966]. In this view, the sign is forever embedded into the
 specific contexts of inscription, and alternatively, in the contexts of its
-reception. The material peculiarity of a word makes it forever different from
-the same word on a different page. Formalism in this sense is concerned with
-the palpable, outward physical attributes of text. Understood as formula, form
-suggests a more analytical approach, aimed at explicating the inward
-structures---rules, patterns, archetypes---that shape the production of text
-from within. Formal analysis in that sense studies not specific traces or
-utterances, but rather the development of ideal forms, which exist somewhat
-independently of their specific instantiations. Form in that sense embodies an
-abstraction, leading to generalized historical categories like genre and
-period. Our ideas about "the novel," for example, or "modernism," or
-"post-colonial theory" reflect formal groupings of that kind. The genre
-"science fiction" indicates an abstract collection of specific literary works
-in the genre. Where palpable form leads to immanent material artifacts, the
-abstracted notion of form leads to transcendent, universal ideals, categories,
-and social constructions.
+reception. The individual peculiarity of the word in context makes it forever
+different from the same word on a different page. Formalism in this sense is
+concerned with the distinctive, palpable, outward physical attributes of a
+text. Understood as formula, form suggests a more analytical approach, aimed
+at explicating the inward structures---rules, patterns, and archetypes---that
+shape the production of text from within. Formal analysis so conceived studies
+not specific traces or utterances, but rather the development of ideal forms,
+which exist somewhat independently of their specific instantiations. Form in
+that other sense embodies an abstraction, leading to generalized historical
+categories like genre and period. Our ideas about "the novel," for example, or
+"modernism," or "post-colonial theory" reflect formal groupings of that kind.
+The genre "science fiction" indicates an abstract collection of specific
+literary works in that genre. Where palpable form leads to immanent material
+artifacts, the abstracted notion of form leads to transcendent, universal
+ideals, categories, and social constructions.
 
 The notion of a "format" occupies the conceptual space somewhere between form
 as intrinsic formula and form as extrinsic shape. In what remains a singular
@@ -236,26 +236,27 @@ number of page units placed on the press at one time" [@tanselle_concept_2000,
 112-3]. He acknowledges, however, that more broadly speaking, formats refer
 also to the "nature and the order of the contents" [@tanselle_concept_2000,
 67-8]. In this way, soap operas refer to a format for daytime television. The
-format of a journal may be a "broadsheet daily" or a "tabloid." We may also
-say that a soap opera is also a *genre* of television, just like the tabloid
-is also in some sense a genre of print publications. Unlike "genre" however,
-the notion of format identifies matter both of particular shape and content.
+format of a journal may be "broadsheet daily" or "tabloid." We could also say
+that a soap opera is a kind of a *genre* for television, just like the tabloid
+is also in some sense a genre for print publication. Unlike "genre" however,
+the notion of formats identifies matter both of particular shape and content.
 The soap opera is a kind of a daytime melodrama of a certain length, for
-example. The format speaks both to the physical properties and to the
-ideational subject matter of the thing. The novel is a genre, where the
-paperback its common format. The novel is finitely malleable, the paperback is
-fixed my its methods of manufacturing and distribution. We do not expect
-scientific textbooks in paperback, for example, just as we would not expect
-tabloids to be printed on expensive stock or to support long-form
-investigative journalism. The format captures something about the shape, the
-design, the style, and the thematics of the subject matter; it connects, in
-other words, the where to the what, the how, and in what order.
+example. It has certain audiences in mind. The format thus speaks both to the
+physical properties and to the ideational subject matter of the thing. The
+novel is a genre, where the paperback its common format. The novel is
+infinitely malleable, where the paperback is fixed by its methods of
+manufacturing and distribution. We do not expect scientific textbooks in
+paperback, for example, just as we would not expect tabloids to be printed on
+expensive stock or to support long-form investigative journalism. The format
+captures something about the shape, the design, the style, and the thematics
+of the subject matter; it connects, in other words, the where to the what, the
+how, and in what order.
 
 With these provisional definitions down on paper, I would like to revisit a
 few of the canonical texts from the long history of formalism. It would be
 interesting to see, for example, whether Plato's or Hegel's seminal passages
 on formal aesthetics fall on the "inward structure" or the "outward shape"
-side of the divide I have posited so far. Whatever the tradition of writing
+side of the divide I have posited earlier. Whatever the tradition of writing
 about form, the concept is usually contraposed to some idea of content: as in
 form and content. Content in that sense refers to the stuff being shaped or
 arranged, whether by intrinsic law or extrinsic forces. R.G. Collingwood
@@ -265,7 +266,7 @@ stands for form; romantic art for content" [@collingwood_form_1929, 335]. In
 recent work on computational text generation, Kathleen McKeown wrote that to
 produce discourse, writers and speakers "must decide what to say and how to
 present it effectively," once again making the distinction content (the what
-to say) and its presentation.  McKeown writes that a machine that generates
+to say) and its presentation. McKeown writes that a machine that generates
 text should, among other things, be able to determine the "content and textual
 shape" of what needs to be said or written [@mckeown_text_1992, 1]. Similarly,
 in her influential essay "Print Is Flat, Code Is Deep," Katherine Hayles
@@ -279,24 +280,25 @@ distinction between the object of art, a transcendent idea or content of the
 work, and the object itself which contained the work's immanent, physical
 characteristics.
 
-As an aside, note that what counts for material belonging to the contingent
-physical characteristics of a text object and what counts for the material
+As an aside, note that what counts for matter belonging to the contingent
+physical characteristics of a text object and what counts for the matter
 belonging to its signifying strategies depends on the kind of object at hand.
 In this way, when reading a novel the reader may ignore the line length. The
-length of an average line in Herman Melville's *Moby Dick*, for example,
-changes with the edition. In this case, line lengths carry no meaning. But
-when reading poetry, for example, the reader understands line length to be an
-integral part of the text's "signifying strategies." The distinction between
-form and content in that sense propagates a kind of value formation, by which
-we are asked to separate those attributes of the texts that are meaningful
-from those that are not. Some notion of form in that distinction implies
-disposable shape, asking us to identify those physical attributes of the text
-that can be omitted in the interpretation or the reproduction of texts. One
-can imagine a printer deciding to discard information about the color of a
-manuscript's ink for example or to do way with the idiosyncrasies of a
-writer's handwriting. Those parts of the texts that are deemed insignificant
-are omitted, while those dimmed significant pass from the category of
-contingent "formal" characteristics to its essential signifying "contents."
+length of an average line in Herman Melville's *Moby Dick* changes with the
+edition. Line lengths are not usually important in novels, we would say; they
+carry no meaning. But when reading poetry, the reader understands line length
+to be an integral part of the text's "signifying strategies." The distinction
+between form and content in that sense propagates a kind of value formation,
+by which we are asked to separate those attributes of the text that are
+meaningful from those that are not. Some notion of form in that distinction
+implies disposable form, asking us to identify those physical attributes of
+the text that can be omitted in the interpretation or the reproduction of
+texts. One can imagine a printer deciding to discard information about the
+color of a manuscript's ink for example or to do way with the idiosyncrasies
+of a writer's handwriting. Those parts of the text that are deemed
+insignificant are omitted, while those dimmed significant pass from the
+category of contingent "formal" characteristics to its essential signifying
+"contents."
 
 The traditional distinction between form and content helps us perceive yet
 another sense of "form," by which theorists often identify quite the opposite
@@ -308,14 +310,15 @@ of the material universe. By contrast, a physical instantiation of that object
 (a specific chair) embodies a somewhat more limited, corrupted even, version
 of that perfect idea. The task of the philosopher becomes one of
 reconstructing the single ideal notion of the perfect chair from its many
-imperfect instantiations. A computer scientist will recognize in this chain of
+imperfect exemplars. A computer scientist will recognize in this chain of
 reasoning some of the principles behind object-oriented programming: a way of
 building software that works by defining abstract "object classes" and
-invoking them as "class instances" [@hoare_record_1965;
-@nygaard_history_1981]. The abstract class can further be modified, or
-extended when called into action. In this way the abstract category of chairs
-becomes a given chair, complete with individual flaws and imperfections. As
-before, the flaws an imperfections are considered insignificant compared to
+invoking them into "class instances" [@hoare_record_1965;
+@nygaard_history_1981]. The abstract class can further be modified or extended
+when called into action. In this way the abstract category of chairs becomes a
+given chair, complete with individual flaws and imperfections. I could, for
+example, modify the chair by attaching a small desk. It still remains a chair.
+As before, the flaws an modification are considered insignificant compared to
 the perfected form of the ideal chair. In the idealist tradition, ideas
 provide us with lasting universal "templates" for instantiation within the
 contingent and always changing physical confines of the material
@@ -324,9 +327,9 @@ world.[^ln4-descartes]
 So far, I have been using the term "form" quite liberally, relying on the
 reader's intuitions about its use in everyday language. A closer look at the
 canonical texts in the original will help us identify the conflicting meanings
-that emerge in translation. In Plato's dialogues we find a number of words
-that are sometimes reasonably rendered into the English "form." These include
-*eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena*
+that become obvious in translation. In Plato's dialogues we find a number of
+words that are sometimes reasonably rendered into the English "form." These
+include *eidos* (essence), *idea* (idea), *morphe* (shape), and *phainomena*
 (appearance). Compare, for example, the following several translations from
 Plato's *Timaeus*. In *Timaeus*, we see the titular character discuss the
 nature of the physical world with his collocutor. In a passage that
@@ -373,28 +376,29 @@ but all of them, in Jowett's translation, "must contain the form or ideal
 or form stands for the "universal lasting ideal" of all shuttles: exactly the
 opposite of *phantazomenōn* as "ephemeral instantiation" in the previous
 passage! Yet both *eidos* and *phantazomenōn* were reasonably translated into
-the English "form," indicating a fundamental overloading of the
-concept.[^ln4-plato]
+the English "form," indicating the way in which the concept is often made to
+carry both of these conflicting meanings.[^ln4-plato]
 
-The confusion persists in many English translations of G.W.F. Hegel, whose
-discussion of Platonic forms gives us another paradigmatic text in the history
-of formal aesthetics. In his *Lectures on Aesthetics*, Hegel posits classical
-art as striving to reach an equilibrium between its ideational, spiritual
-content and "the configuration of sensuous material" [@hegel_hegels_1998, 70].
-Hegel prose is marked by technical and sometimes idiosyncratic vocabulary.
-Rather than define terms precisely, Hegel saturates his text with semantic
-cognates. On the side of "content" [*Inhalt*, *Gehalt*], he evokes words like
-inner life [*Innere Lebendigkeit*], feeling [*Empfindung*], soul [*Seele*],
-and spirit [*Geist*]. All of these convey a movement inward to a location (if
-it can be called such) beyond the physical world, accessible only to the
-spirit [*Geist*] or mind [*Gedanken*, *Verstand*]. On the side of "form" (same
-in German), Hegel accumulates words like expression [*Ausdruck*] and
-presentation [*Darstellung*], but also lines, curves, surfaces, carvings,
-colors, tones, word sounds, and generally matter or material [*Linien*,
-*Krümmungen*, *Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*,
-*Material*] [@hegel_werke:_1986, *Einleitung*]. The semantic cluster of words
-related to "form" conveys physical (palpable, of this world) and
-outward-facing properties, available for examination to the senses (*Sinne*).
+The overdetermination of form persists similarly in many English translations
+of G.W.F. Hegel, whose discussion of Platonic forms gives us another
+paradigmatic text in the history of formal aesthetics. In his *Lectures on
+Aesthetics*, Hegel posits classical art as striving to reach an equilibrium
+between its ideational, spiritual content and "the configuration of sensuous
+material" [@hegel_hegels_1998, 70]. Characteristically, Hegel's prose is
+marked by technical and sometimes idiosyncratic vocabulary. Rather than define
+the terms precisely, Hegel saturates his text with semantic cognates. On the
+side of "content" [*Inhalt*, *Gehalt*], he evokes words like inner life
+[*Innere Lebendigkeit*], feeling [*Empfindung*], soul [*Seele*], and spirit
+[*Geist*]. All of these convey a movement inward to a location (if it can be
+called such) beyond the physical world, accessible only to the spirit
+[*Geist*] or mind [*Gedanken*, *Verstand*]. On the side of "form" (same in
+German), Hegel accumulates words like expression [*Ausdruck*] and presentation
+[*Darstellung*], but also lines, curves, surfaces, carvings, colors, tones,
+word sounds, and generally matter or material [*Linien*, *Krümmungen*,
+*Flächen*, *Aushöhlungen*, *Farben*, *Tönen*, *Wortklängen*, *Material*]
+[@hegel_werke:_1986, *Einleitung*]. The semantic cluster of words related to
+"form" conveys physical (palpable, of this world) and outward-facing
+properties, available for examination to the senses (*Sinne*).
 
 In contrasting the dominant aesthetic modes of classical and Romantic periods,
 Hegel paints Romanticism as an art that seeks to disengage itself from matter,
@@ -419,52 +423,52 @@ of his struggle with the Platonic concept of form. In his "Lectures on
 Philosophy," Hegel writes: "The Idea is nothing but what is current with us
 under the name of the Universal, when this word is not taken in the sense of
 *formal* Universal [*formell Allgemeine*]." The formal universal for him is
-"merely a property of things," whereas Plato is concerned with the
-"implicitly" universal (as contrasted with explicitly, or formally universal).
-This internal "essence" and "in-and-for-itself existent" lays a claim to truth
-alone. Hegel writes: "We translate the Greek word *eidos* by 'genus' or
-'species,'" but when "genus" or "species" are "seized as a number of similar
-determinations collected by reflection from several individuals, to serve as a
-*mark* for the convenience of the understanding, then we have the Universal in
-quite an external form" [@hegel_philosophy_1870, 250]. In other words, as soon
-as *eidos* is instantiated, it moves from being an ideal form into an apparent
-shape, as an epistemological category.
+"merely a property of things," whereas in his interpretation Plato must be
+concerned with the "implicitly" universal (as contrasted with explicitly, or
+formally universal). This internal "essence" and "in-and-for-itself existent"
+lays a claim to truth alone. Hegel writes: "We translate the Greek word
+*eidos* by 'genus' or 'species,'" but when "genus" or "species" are "seized as
+a number of similar determinations collected by reflection from several
+individuals, to serve as a *mark* for the convenience of the understanding,
+then we have the Universal in quite an external form" [@hegel_philosophy_1870,
+250]. In other words, as soon as *eidos* is instantiated, it moves from being
+an ideal form into an apparent shape, as an epistemological category.
 
 I understand Hegel's problem with "formal Universal" as follows. Imagine
 someone were to write "all these cats are subsumed under the category of
-'feline.'" The ideal of being "feline" captures a snapshot of what it means to
-be feline at the moment of the category's naming. For Hegel, the true ideal
-cannot exist in the name alone, it must continue to exist and develop in the
-real world. It is not, in other words, merely a socially constructed (we would
-say today) category, but something that "internally distinguishes itself"
-while remaining "free in its infinitude and independent" from all attempts to
-fix it categorically. The best I can understand this is to think about the
+'feline.'" The labeled category of "feline" captures a snapshot of what it
+means at the moment of its naming. But for Hegel, the true ideal cannot exist
+in the name alone: it must continue to exist and develop in the real world. It
+is not, in other words, merely a socially constructed (we would say today)
+category, but something that "internally distinguishes itself" while remaining
+"free in its infinitude and independent" from all attempts to fix it
+categorically. The best I can understand this is to think about the
 evolutionary process that continues in the species, even as the taxonomy
 describing that evolution may remain tied to its fixed ways of expression. No
-matter what we call cats, the feline species will continue to evolve. New and
+matter what we call cats, the feline species will continue to change. New and
 radically different cats may come into existence---ones no longer covered by
 the "external mark" of being "feline," that is by our taxonomical categories.
 Yet this would only mean that the ideal of "feline" has developed past human
-understanding. Zoologists would, at that point, need simply adjust their
-categories to include new forms of feline being. Ideal feline being moves on
-immediately thereafter, continuing to develop and leaving behind only the husk
-or a "snapshot" of what it meant to be a cat in times already past. For Hegel,
-one should not confuse that static categorical snapshot with the animate
-ideal. For this reason Hegel disparages the "formal universal" as a corrupted,
-"mere" form of the ideal.
+understanding. Zoologists could, at that point, simply adjust their categories
+to include new forms of feline being. Ideal feline being moves on immediately
+thereafter, continuing to develop and leaving behind only the husk or a
+"snapshot" of what it meant to be a cat in times already past. For Hegel, one
+should not confuse that static categorical snapshot with the animate ideal.
+For this reason Hegel disparages the "formal universal" as a corrupted, "mere"
+form of the ideal.
 
 By contrast to the "formal universal," Hegel's "concrete universal" exists in
 the real, physical world. It is more than a category. One way to understand
 this difficult concept is to think of it as capturing both *eidos* and
 *phantazomenōn*---or idea and appearance, both reasonably transcribed to
-"form" in English. In an essay on Hegel's concept, John Crowe Ransom likens it
-to a "little universe or an organized working combination of parts." He
-writes: "Thus the formula of a chemical reaction; the recipe for a dish; the
-blue-print of a machine." Crucially, the Hegelian universal becomes concrete
-when the machine "has been materialized, and working properly"
-[@ransom_concrete_1954, 387]. As was the case with Wittgenstein's logical
-mechanisms, Ransom imagines a perfected kind of a machine that represents the
-ideal of the aesthetic object.
+"form" in English. In an essay on Hegel's concept, John Crowe Ransom likens
+the concrete universal to a "little universe or an organized working
+combination of parts." He writes: "Thus the formula of a chemical reaction;
+the recipe for a dish; the blue-print of a machine." Crucially, the Hegelian
+universal becomes concrete when the machine "has been materialized, and
+working properly" [@ransom_concrete_1954, 387]. As was the case with
+Wittgenstein's logical mechanisms, Ransom imagines a perfected kind of a
+machine or a formula that represents the ideal of the aesthetic object.
 
 ### 3.2 Strategies of Reading
 
