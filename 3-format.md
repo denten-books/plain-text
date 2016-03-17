@@ -27,32 +27,34 @@ human-readable texts.
 Despite its formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
 Instead, we erroneously consign it to the ornamental "formatting" layer of
-document structure. We do so at our peril. Unlike passive decorative elements
-like fleurons, daggers and pilcrows, box drawings, and other dingbats the
-programmatic sign actively molds text to context. At the maximally blunt limit
-of its capabilities, format governs access. For example, a command can
-selectively render some words and sentences visible on the screen while
-suppressing others. The ability to hide text from view completely or to make
-it so small as to be illegible affects not just the style but the politics of
-text. Code, in that sense, can determine its audience, privileging certain
-voices and modes of reading over others. It is in the sense of audience
-selection that the programmatic sign acquires its non-representational,
-tactical character. Stripped of references, resemblances, and designations the
-programmatic sign commands and controls.[^ln3-bdrld]
+document structure. We do so at our peril. More intrusive than passive
+decorative elements like fleurons, daggers, and pilcrows, the programmatic
+sign actively molds text to context. At the maximally blunt limit of its
+capabilities, format governs access. For example, a command can selectively
+render some words and sentences visible on the screen while suppressing
+others. The ability to hide text from view completely or to make it so small
+as to be illegible affects not just the style but the politics of text. Code,
+in that sense, can determine its audience, privileging certain voices and
+modes of reading over others. It is in the sense of audience selection that
+the programmatic sign acquires its non-representational, tactical character.
+Stripped of references, resemblances, and designations the programmatic sign
+commands and controls.[^ln3-bdrld]
 
 [^ln3-bdrld]: Recall the Baudrillard quote from the beginning of the last
 chapter [@baudrillard_simulacra_1994, 139-40].
 
-Unlike figurative language, machine control languages function in the
+Unlike figurative description, machine control languages function in the
 imperative. They do not stand for action---they are action. More binding than
-the "speech acts" J.L. Austin, control codes arrange and regulate. Code is an
-exercise of power, not its representation. The difference between
-representation and control is one of brute force. It lies in the distinction
-between a restraining order and physical restraint. A restraining order
-*signifies* the calling forth of codified power. Physical restraints like
-handcuffs *enact* the exercise of codified power. Like all violence they do
-not stand for anything. The handcuffs simply contort the body into the shape
-of submission. Absent a body, the restraints draw an empty shape.
+what J.L. Austin has called "speech acts"---edicts like "I pronounce you
+husband and wife" and commitments like "I do"---control codes ensure
+regulation. Code in that sense is an exercise of power, not its
+representation. The difference between representation and control is one of
+brute force. It lies in the distinction between a restraining order and
+physical restraint. A restraining order *signifies* the calling forth of
+codified power. Physical restraints like handcuffs *enact* the exercise of
+codified power. Like all violence they do not stand for anything. The
+handcuffs simply contort the body into the shape of submission. Absent a body,
+the restraints draw an empty shape.
 
 Code acts similarly to shape the word. Located somewhere between the screen
 and the storage medium, formats relate matter to content. They are techniques
@@ -90,10 +92,10 @@ Composite computational formats change rapidly and proliferate. They contain
 further, as yet unexplored structural possibilities: shapes like the paragraph
 on paper, but native to new media. What you saw is what you got on the page.
 On the screen, what you see is but a small part of what you could get. We are
-presented with *thick content*---all that is contained within the
-three-dimensional page, not just the visible image. In print, content can be
-gleaned from the surface; there is nothing but surface on a page. The screen
-is a layered composite. Light and liquid crystal---the preferred media for
+presented with *thick content*---beyond the visible image, all that is
+contained within the three-dimensional page. In print, content can be gleaned
+from the surface; there is nothing but surface on a page. The screen is a
+layered composite. Light and liquid crystal---the preferred media for
 contemporary text---surge between the substrates in response to electrical
 signal. Screen surfaces conceal further strata of codification, inscribed onto
 recondite planes of inscription: hard disks, solid state drives, platters,
@@ -103,21 +105,22 @@ eleven bytes on the hard drive.[^ln3-space] A file in the Portable Document
 Format (`.pdf`) containing nothing but "hello world" takes up 24,335 bytes on
 my system. Thick content accounts for the disparity between plain text and
 fancy text, the latter defined as "text representation consisting of plain
-text plus added information" [@unicode_consortium_unicode_1990].
+text plus added information" [@unicode_consortium_unicode_1990]. The
+explication of thick content requires thick description.
 
 [^ln3-space]: Ten bytes for the letters and one byte for the space character.
 
-What is the nature of this "added information?" Historically, added
-information included machine instructions for the viewing and printing of text
-along with cypher codes used for clandestine communication. The common
-Portable Document Format (PDF) contains features that enable--and I quote the
-exact specifications here---"accessibility of content to those with
-disabilities," "digital signatures to certify authenticity," "electronic forms
-to gather data," "preservation of document fidelity independent of the device,
-platform, and software," and "security and permission to allow the creator to
-retain control of the document and associated rights" [@iso_portable_2008,
-vii]. These capabilities mediate between visible image and stored information:
-one surface facing the human, the other, the machine. The formatting layer
+What is the nature of the information added to text? Historically, such data
+included machine instructions for the viewing and printing of text along with
+cypher codes used for clandestine communication. The common Portable Document
+Format (PDF) contains features that enable--and I quote the exact
+specifications here---"accessibility of content to those with disabilities,"
+"digital signatures to certify authenticity," "electronic forms to gather
+data," "preservation of document fidelity independent of the device, platform,
+and software," and "security and permission to allow the creator to retain
+control of the document and associated rights" [@iso_portable_2008, vii].
+These capabilities mediate between visible image and stored information: one
+surface facing the human, the other, the machine. The formatting layer
 specifies the *affordances* of electronic text. More than passive conduits of
 meaning, electronic texts thus carry within them rules for engagement between
 authors, readers, and devices. In our example, the Portable Document Format
@@ -156,19 +159,19 @@ familiar ordering structures on the disk. These two ways of ordering are not
 equivalent to each other. They imply differing possibilities and affordances.
 Formats mediate between data structures, transforming one into the other
 according to a predefined set of rules. The screen projection---content
-arranged on the screen---represents a mental image---information stored in the
-head---becomes inscription---information stored in the machine. The complexity
-of the interface between these disparate symbolisms stems from the fundamental
-incompatibility between incommensurate physicalities. Format specifications
-govern the transference of data structures from one medium into the other, at
-the point of contact between human, symbol, and machine.
+arranged on the screen---which represents a mental image---information stored
+in the head---becomes inscription---information stored in the machine. The
+complexity of the interface between these disparate symbolisms stems from the
+fundamental incompatibility between incommensurate physicalities. Format
+specifications govern the transference of data structures from one medium into
+the other, at the point of contact between human, symbol, and machine.
 
 [^ln3-symbolisms]: I am interlacing language from Wittgenstein and Alexander
 Galloway. On disparate symbolisms see @wittgenstein_philosophical_1974, 45.
 On incommensurate physicalities see @galloway_interface_2012, viii.
 
 Formatting rules facilitate the conversion of machine-readable codes into
-human-readable text. The structure of the transformation governs the
+human-readable text. The structure of such transformations governs the
 production, storage, reception, and the dissemination of textual artifacts.
 Despite their significance, formats continue to elude the critical gaze
 because our very concept of form, central to literary analysis, has always
@@ -190,7 +193,7 @@ intellectual property rights, constraints on speech, trade agreements,
 surveillance, and clandestine communication. The intellectual history of form
 in literary theory, based on early twentieth century materials, will meet the
 material history of formatting in computer science at an early, decisive
-period in the development of the discipline.  The language of formalism will
+period in the development of the discipline. The language of formalism will
 allow us to perceive an important structure at the heart of every digital
 text. The chapter ends with the notion of a "smart document," an increasingly
 common instrument of record capable of policing its own encoded rules of
