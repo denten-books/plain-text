@@ -698,45 +698,48 @@ formatting is therefore to arbitrate in the conflict between the extant
 textual witnesses that individually contain slightly differing versions of the
 same text, but in aggregate identify the sum total of a given
 work.[^ln3-printers] The scholar of format studies how works become texts and
-the other way around. It is in this sense, for example, that C.  Deirdre
-Phelps describes the notion of physical form in textual criticism. In creating
-a physical manifestation of a text, publishers introduce textual changes that
-may or may not correspond to either authorial intention or the reader's
-expectations. For example, we could imagine an expensive edition of poetry by
-William Blake to be printed without illustrations to save costs. If we
-subsequently lose all other editions of Blake, the textual critic may be
-interested in reconstructing the bibliographic genealogy of this one edition
-to understand something about the life of the work. "The textual critic is
-concerned mainly with the fact of the [textual] change itself," Phelps writes
-[@phelps_edition_1994, 65-6].
+the other way around. It is in this sense, for example, that the textual
+critic C. Deirdre Phelps describes the notion of physical form in textual
+criticism. In creating a physical manifestation of a text, publishers
+introduce textual changes that may or may not correspond to either authorial
+intention or the reader's expectations. For example, we could imagine an
+inexpensive edition of poetry by William Blake that was printed without
+illustrations, to save costs, where we know such illustrations to be integral
+to the meaning of his work. If we subsequently lose all other editions of
+Blake, the textual critic may be interested in reconstructing the
+bibliographic genealogy of this one edition to understand something about the
+life of the work. "The textual critic is concerned mainly with the fact of the
+[textual] change itself," Phelps writes [@phelps_edition_1994, 65-6].
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
 @mcgann_socialization_1991; @tanselle_textual_1996.
 
-Various schools of textual criticism may privilege either authorial intention,
-publisher's discretion, or the reader's expectation, but whatever these
-choices may hold, they propagate a kind of value determination that separates
-those physical attributes meaningful to the work from those that are not. For
+Various schools of textual criticism emphasize differing aspects of the
+publication process. Some privilege a notion of authorial intent, others
+publisher's discretion or the audience's expectations. Whatever these choices
+imply, they continue to determine value, in a process that separates those
+physical attributes meaningful to the work from those that are not. For
 example, in their online edition of Claude McKay's 1922 collection of poems
 *Harlem Dawn*, the editors made the decision to encode indentation, preserving
 the perceived integrity of the poem's visual line structure. However, they
 have also allowed for the text to wrap when viewed on small devices, in effect
 "soft wrapping" those lyrical lines that are too long to fit on a small
 screen. The end result is a compromise between authorial intention and
-technological capability. Other solutions are possible, of course. The editors
-could have chosen to recreate a graphical facsimile of a particular print
-edition, which would not render well on small screen [@mckay_harlem_2015]. The
-choice to preserve certain attributes of formatting, while suppressing others
-identifies those elements meaningful to the editors. In the most extreme case,
-we could imagine an editor wanting to preserve all of a text's details, down
-to the molecular structure of the original. Such a text could be accompanied
-by a potentially unlimited amount of metadata describing the precise physical
-contexts of the universe surrounding the authoritative version. To reproduce
-the text faithfully would be to reproduce the world around it. We do not,
-however, as readers, usually care for all of a text's physical attributes.
-Stains and scratches on the paper's surface are usually discarded in
-reproduction. They are not seen as meaningful for the understanding of text.
+technological capability.  Other solutions are possible, of course. The
+editors could have chosen to recreate a graphical facsimile of a particular
+print edition, which would not render well on small screen
+[@mckay_harlem_2015]. The choice to preserve certain attributes of formatting,
+while suppressing others identifies those elements meaningful to the editors.
+In the most extreme case, we could imagine an editor wanting to preserve all
+of a text's details, down to the molecular structure of the original. Such a
+text could be accompanied by a potentially unlimited amount of metadata
+describing the precise physical contexts of the universe surrounding the
+authoritative version. To reproduce the text faithfully would be to reproduce
+the world around it. We do not, however, as readers, usually care for all of a
+text's physical attributes.  Stains and scratches on the paper's surface are
+usually discarded in reproduction. They are not seen as meaningful for the
+understanding of text.
 
 Thus whenever we think of Shakespeare's *King Lear*, for example, whatever is
 meant by the "format" of the play belongs neither wholly to its physical
