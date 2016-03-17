@@ -491,12 +491,12 @@ rise to surface phenomena.
 
 The dual motion of literary criticism at once towards the outward shape and
 inward formula---poetics and hermeneutics---is perhaps most starkly visible in
-the intellectual legacy of Russian formalism in the first few decades of 20th
-century. The seminal series of "OPOYAZ" publications, appearing between 1916
-and 1920, gave voice to a unified program to a group of literary scholars that
-included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris Eichenbaum, and
-Roman Jakobson, among others. Collectively, the volumes strike out in two
-distinct, but complementary directions.
+the intellectual legacy of Russian formalism in the first few decades of the
+20th century. The influential series of "OPOYAZ" publications, appearing
+between 1916 and 1920, gave voice to a unified program to a group of literary
+scholars that included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris
+Eichenbaum, and Roman Jakobson, among others. Collectively, the volumes strike
+out in two distinct, but complementary directions.
 
 A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
 [*zvuk*] to "symbol" [*obraz*]. Brik writes: "I believe that elements of
@@ -515,10 +515,11 @@ lived response, giving voice to ideas that are difficult to explain rationally
 
 Poetry in the symbolic mode encodes meaning inwardly: the elephant "stands
 for" memory, or the like. *Zaum* poetics instead evoke affect through external
-shape, as sound. Khlebnikov writes that "mystical incantation and beyonsense
-are appeals 'over the head' of government straight to the population of
-feelings, a direct cry to the predawn of the soul" [@khlebnikov_king_1990,
-152]. Shklovsky defines *zaum* as "without words but with sound." He writes:
+shape, sensually and affectively. Khlebnikov writes that "mystical incantation
+and beyonsense are appeals 'over the head' of government straight to the
+population of feelings, a direct cry to the predawn of the soul"
+[@khlebnikov_king_1990, 152]. Shklovsky similarly defines *zaum* as "without
+words but with sound." He writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -528,18 +529,19 @@ word "lilac," plundered and exhausted. This is why I call a lilac "uao,"
 restoring its primal clarity [@shklovksy_poetika_1919, 13].
 
 The word *bezobrazno*, in the meaning of hideous or deformed, literally
-translates as "without an image." In language of lilacs has lost its shape,
-the author implies. Formalism of the outward kind thus aims to restore the
-word image, returning form, in the sense of shape, to content. Formal
-techniques like chanting or neologism revitalize the external sound image. In
-repetition the word loses its sense while gaining a distinct physical sound
-signature, which habitually goes unnoticed in everyday use.
+translates as "without an image." The word "lilacs" has lost its verbal,
+linguistic shape, the author implies. Formalism of the outward kind thus aims
+to restore the sensation of an image, returning form, in the sense of a shape,
+to habituated content. Formal techniques like chanting or neologism help
+revitalize the external sound image. Through repetition the word loses its
+sense while gaining a distinct physical sound signature, which goes unnoticed
+in everyday use.
 
 Three of the sixteen essays in the seminal volumes I have discussed above
 strike in another direction, away from shape and towards formula. Shklovsky's
 "Art as Technique," "Linkages between Plot and Style Device," and Eichenbaum's
 "How the *Overcoat* Is Made," constitute a cluster of essays that deal with
-narrative structure rather than phonetic image.[ln3-propp]  All three authors
+narrative structure rather than phonetic image.[ln3-propp] All three authors
 cite a common source of influence for this direction of research: namely, the
 work of Alexander Veselovsky, the 19th century Russian historian of literature
 and founder of the comparative method in that tradition. Veselovsky, a scholar
@@ -552,7 +554,7 @@ always uses the word "form" in the sense of the "formula," and not at all in
 the sense of "shape" or "sound." In this, he imagines a rather Hegelian model
 of literary evolution, which proceeds through the development of universal
 constants, narrative plot sequences for example, which further influence the
-development of literary particulars.  Veselovsky calls these genetic constants
+development of literary particulars. Veselovsky calls these genetic constants
 "vagabond formulas" [@veselovsky_sobranie_1913, 185]. He writes:
 
 > Somewhere, someone gave these plots [*siuzhety*] an apt expression, a
@@ -563,8 +565,8 @@ development of literary particulars.  Veselovsky calls these genetic constants
 > to be repeated, so also are repeated the plots of *Faust* and *Don Juan*
 > across the distance of centuries [...] We are connected to a tradition. We
 > expand within it---not to create new forms, but to attach to them new
-> sentiments and concerns. This dynamic could be considered as a type of "law
-> of [cultural] energy conservation. [@veselovsky_sobranie_1913, 475-47]
+> sentiments and concerns. This dynamic could be considered a kind of a law of
+> [cultural] energy conservation [@veselovsky_sobranie_1913, 475-47].
 
 [ln3-propp]: To this strain of formalism one could also adduce Vladimir
 Propp's well-known *Morphology of the Folktale*, a text that finds a limited
@@ -575,37 +577,39 @@ The Hegelian influence is unmistakable in these lines. Like the world spirit,
 literary formulae exist and develop across time and space. Veselovsky's
 formulas resemble concrete universals, which develop independently of
 individual texts. Formulae in this sense have a life of their own, in a trans-
-or meta- human way, not accessible to the individual author. They are evoked
-indirectly. They exist in the ether of culture, attaining a historical
-momentum of their own through a process of gradual genetic development. Form,
-in this Hegelian, historical sense, means exactly the opposite of form in the
-sense of a private utterance, by which an individual author breaks with an
-ossified tradition, as was the case with Shklovsky's idiosyncratic naming of
-the flower, *uao*.
+or meta-human way, not fully accessible to the individual author or reader.
+They are invoked indirectly. They exist in the ether of culture, attaining a
+historical momentum of their own through a process of gradual genetic
+development. Form, in this Hegelian historical sense, means exactly the
+opposite of form in the sense of a private utterance, by which an individual
+author breaks with an ossified tradition, as was the case with Shklovsky's
+idiosyncratic naming of the flower, *uao*. In one case, the author
+participates in the formation of shared culture; in the other, the author
+attempts to dissent from the shared cultural norm.
 
 The tension between extrinsic shape and intrinsic rule lies at the heart of
 literary theory, manifesting at times under differing yet essentially related
 vocabularies. The emphasis on extrinsic shape logically leads to the poetics
 of affective reading of the kind that privileges apparent surface phenomena.
-The emphasis on intrinsic rules leads to a hermeneutics or an archeology of
-text, by which the critics role becomes to discover non-apparent deep
-structural regularities. Recently, the theoretical distinction between shape
-and formula has been negotiated in terms of depth and surface. Two types of
-reading become evident in this model. The "symptomatic" literary critic
-reaches beyond the "ephemeral" external appearances to uncover internal and
-eternal metaphysical truth within. For a Marxist critic like Terry Eagleton or
-Frederic Jameson that latent meaning may have something to do with hidden
-machinations of capital and ideology. The psychologically minded critic reads
-in search of hidden drives, desires, or cognitive structures. By contrast to
-symptomatic reading, Stephen Best and Sharon Marcus describe a constellation
-of reading practices concerned with "what is evident, perceptible,
-apprehensible in text: what is neither hidden nor hiding; what, in the
-geometrical sense, has length and breadth but no thickness, and therefore
-covers no depth." The authors identify a constellation of related
-interpretation practices at the surface: reading for material surface, reading
-for verbal structure, reading for affect, reading for description, reading for
-pattern, and finally, reading for literal meaning or "just reading"
-[@best_surface_2009, 9].
+The emphasis on intrinsic rules by contrast leads to a hermeneutics or an
+archeology of text, by which the critic's role becomes to discover the
+non-apparent deep structural regularities. Most recently, that theoretical
+distinction between shape and formula has been negotiated in terms of depth
+and surface. Two types of reading become evident in this model. The
+"symptomatic" literary critic reaches beyond the "ephemeral" external
+appearances to uncover internal and eternal metaphysical truth within. For a
+Marxist critic like Terry Eagleton or Frederic Jameson that latent meaning may
+have something to do with hidden machinations of capital and ideology. The
+psychologically minded critic reads in search of hidden drives, desires, or
+cognitive structures. By contrast to symptomatic reading, Stephen Best and
+Sharon Marcus describe a constellation of reading practices concerned with
+"what is evident, perceptible, apprehensible in text: what is neither hidden
+nor hiding; what, in the geometrical sense, has length and breadth but no
+thickness, and therefore covers no depth." The authors identify a
+constellation of related interpretation practices at the surface: reading for
+material surface, reading for verbal structure, reading for affect, reading
+for description, reading for pattern, and finally, reading for literal meaning
+or "just reading" [@best_surface_2009, 9].
 
 In making the argument for a kind of surface reading, Best and Marcus appeal
 to the kind of formal poetics advocated by Susan Sontag in the late 1960s. At
@@ -625,84 +629,86 @@ critic claims to uncover what the lay reader does not and cannot see without
 expert guidance. As an ethical stance, reading for external forms flattens the
 hierarchy between the lay reader and the professional interpreter. In this
 sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
-vernacular exegesis. All readers are priests at the surface. All readers are
+vernacular exegesis. All readers are priests at the surface; all readers are
 capable, the critics suggest, of forming their own interpretation.
 
 Interpretation at the level of meaning and content for Sontag is an
 intellectual and ultimately reactionary activity. It aims to find "the maximum
 amount of content" within. It is reactionary because it serves only to
 multiply the available "levels of analysis." In explicating the work of art,
-the critic essentially creates alternative and diverging copies of the
-original. Each layer of criticism adds to the content of the work. In Sontag's
-words, to "design" a work of art that can be experienced in this way, on
-multiple levels, might have been "creative" and "revolutionary" in the age of
-aesthetic paucity, when creativity and interpretation were limited to a few
-privileged individuals. By contrast, Sontag believes that her times are a
-period of creative abundance. "Think of the sheer multiplication of works of
-art available to all of us," she writes. Contemporary culture is based on
-"excess" and "material plenitude" which dull the senses. In such conditions,
-the production of further critical variations on the theme only adds to the
-dulling clutter.
+the critic merely creates alternate copies that diverge from the original.
+Each layer of criticism thus only adds to the content of the work, placing
+additional burden on the readers to come. In Sontag's words, to "design" a
+work of art that can be experienced in this way, always on multiple and
+diverging levels of ideation, might have been "creative" and "revolutionary"
+in the age of aesthetic paucity, when creativity and interpretation were
+limited to a few privileged individuals. By contrast, Sontag believes that her
+times are a period of creative abundance. "Think of the sheer multiplication
+of works of art available to all of us," she writes. Contemporary culture is
+based on "excess" and "material plenitude" which dull the senses
+[@sontag_against_1966, 9-10]. In such conditions, the production of further
+critical variations on the theme only adds to the dulling clutter.
 
 By "interpretation," Sontag means a "conscious act of the mind" which
 illustrates a "certain code," or "certain rules" of engagement. It is, for
 her, "virtually" a type of translation. The critic "transforms" and "revamps"
 the text: X turns out to be A, Y turns out to be B, and so on
 [@sontag_against_1966, 3]. And by "form" Sontag means something like the
-apparent, perceptual properties of the work: this sentence is long, for
-example. And this one short. A critic could say that the sentence length means
-something, but Sontag wants to stop short of meaning making. A discipline of
-careful perception---of paying attention---rather sharpens the reader's
-sensibilities. The history of interpretation Sontag objects to is one that
-privileges content over form. The very words "explication" and "exegesis"
-imply the movement from inside to the outside. For a psychoanalytical critic
-interpretation in that sense may mean revealing the hidden psychological
-drives that give rise to a particular form of an expression. A Marxist critic
-may instead look for the concealed operation of this or that ideology.
-Fredrick Jameson, a prominent Marxist critic, writes for example:
+apparent, perceptual properties of the work: one sentence is long, for
+example, another short. A critic could "make something out of" the variation,
+but Sontag wants to stop us short of meaning making. A discipline of careful
+perception---of paying attention---rather sharpens the reader's sensibilities.
+There is no need to explain, only describe. The history of interpretation
+Sontag objects to is one that privileges content over form. The very words
+"explication" and "exegesis" imply the movement from the inside to the
+outside. For a psychoanalytical critic interpretation in that sense may mean
+revealing the hidden psychological drives that give rise to a particular form
+of an expression. A Marxist critic may instead look for the concealed
+operation of this or that ideology. Fredrick Jameson, a prominent Marxist
+critic, writes for example:
 
 > Thus the process of criticism is, not so much the interpretation of
 content, as it is a revealing of it, a laying bare, a restoration of the
 original message, the original experience, beneath the distortions of the
-various kinds of censorship that have been at work upon it; and this revelation
-takes the form of an explanation of why the content was so distorted and is
-thus inseparable from a description of the mechanisms of the censorship itself
-[@jameson_marxism_1972, 404].
+various kinds of censorship that have been at work upon it; and this
+revelation takes the form of an explanation of why the content was so
+distorted and is thus inseparable from a description of the mechanisms of the
+censorship itself [@jameson_marxism_1972, 404].
 
 Form in the sense of "outward shape" suggests an emphasis on what Susan Sontag
-deemed the "sensory experience" or the "erotics" of art. In her now classic
-1966 essay "Against Interpretation," Sontag posits transparency as the
-"highest, most liberating value in art and in criticism today." "Transparency
-means experiencing the luminousness of the thing in itself, of things being
-what they are" she explains [@sontag_against_1966, 9]. Rather than to show
-what a work of art *means*, Sontag urges critics to show "how it is" and "that
-it is" [@sontag_against_1966, 10]. To make her argument Sontag relies on the
+deemed the "sensory experience" or the "erotics" of art. In "Against
+Interpretation" Sontag mentions the ideal of transparency as the "highest,
+most liberating value in art and in criticism today." "Transparency means
+experiencing the luminousness of the thing in itself, of things being what
+they are" she explains [@sontag_against_1966, 9]. Rather than to show what a
+work of art *means*, Sontag urges critics to show "how it is" and "that it is"
+[@sontag_against_1966, 10]. To make her argument Sontag relies on the
 distinction between "meaning" or "content" on the one hand and "form" or the
 "sensory experience" of the work on the other. Form, in this sense, mirrors
 McKeown's "shape" and the "text's physical characteristics" of Hayles.
 
 If reading for sensory experience implies an erotics of art and reading for
-hidden formulae implies an analytics, what would it mean to read for the
-format? To borrow from Tanselle's vocabulary, the format bridges the "physical
+hidden formulae implies an analytics, what would it mean to read for format?
+To borrow from Tanselle's vocabulary, the format bridges the "physical
 structure of finished books" with their "intellectual content." This
 connection happens through what Tanselle calls "printing-shop routines" and
-what we began to identify in the previous chapter as a kind of a technique.
-Formatting in that sense is a way of structuring of information. The task of a
-textual scholar broadly is therefore to serve in the role of an arbitrator in
-the conflict between the textual witnesses, which individually contain
-slightly differing versions of the same text, but in aggregate identify the
-sum total of a given work.[^ln3-printers] The textual scholar studies how
-works become texts and the other way around. It is in this sense, for example,
-that C. Deirdre Phelps describes the notion of physical form in textual
-criticism. In creating a physical manifestation of a text, publishers
-introduce textual changes that may or may not correspond to either authorial
-intention or the reader's expectations. For example, we could imagine an
-expensive edition of poetry by William Blake to be printed without
-illustrations to save costs. If we subsequently lose all other editions of
-Blake, the textual critic may be interested in reconstructing the
-bibliographic genealogy of this one edition to understand something about the
-life of the work. "The textual critic is concerned mainly with the fact of the
-[textual] change itself," Phelps writes [@phelps_edition_1994, 65-6].
+what we began to identify in the previous chapter as a kind of a technique for
+the transformation of ideas into things. The task of a scholar interested in
+formatting is therefore to arbitrate in the conflict between the extant
+textual witnesses that individually contain slightly differing versions of the
+same text, but in aggregate identify the sum total of a given
+work.[^ln3-printers] The scholar of format studies how works become texts and
+the other way around. It is in this sense, for example, that C.  Deirdre
+Phelps describes the notion of physical form in textual criticism. In creating
+a physical manifestation of a text, publishers introduce textual changes that
+may or may not correspond to either authorial intention or the reader's
+expectations. For example, we could imagine an expensive edition of poetry by
+William Blake to be printed without illustrations to save costs. If we
+subsequently lose all other editions of Blake, the textual critic may be
+interested in reconstructing the bibliographic genealogy of this one edition
+to understand something about the life of the work. "The textual critic is
+concerned mainly with the fact of the [textual] change itself," Phelps writes
+[@phelps_edition_1994, 65-6].
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
