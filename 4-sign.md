@@ -1,4 +1,4 @@
-# Part II: Surfaces
+# Part II: Recondite Surfaces
 ## Chapter 3: Splitting the Sign
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
