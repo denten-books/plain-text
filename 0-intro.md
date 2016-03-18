@@ -1,7 +1,7 @@
 ## Simulated Text: an Introduction
 
-This book is about the strange entanglement between humans, texts, and
-machines. It examines key literary theoretical ideas alongside the
+This book is, in some sense, about the strange entanglement between humans,
+texts, and machines. It examines key literary theoretical ideas alongside the
 intellectual history of software engineering which frames contemporary
 reading, writing, and interpretation practices. It is a deeply materialist
 work, arguing that even our most ingrained intuitions about texts are
@@ -11,11 +11,14 @@ the method of humanistic inquiry. Often, the work of literary theory defines
 itself in terms of specific texts, as a series of readings. My object of study
 is instead the nature of textuality itself. I am interested here in how texts
 are produced; in the metaphors that guide computation; in the forms, formulae,
-and formats that shape human--computer interaction; in the literary device;
-and in the strange architecture of contemporary inscription, which, no longer
+and formats that structure human--computer interaction; in the literary
+device; and in the strange shape of contemporary inscription, which, no longer
 a single mark on paper, stretches between the site of fleeting projection, the
-screen, and the site of storage in its solid state, the hard disk, the
-archive.
+screen, and the site of storage in its solid, archival state. In another
+sense, this book is about more than words, screens, and archives: it reasons
+through the dynamics of technological settlement and displacement, through the
+comforts and the discomforts of inhabiting our numerous extensions of self,
+our media homes.
 
 While I write these introductory remarks, a ceiling-mounted smoke detector in
 my kitchen begins to emit a loud noise every three minutes or so. A pleasant
@@ -76,37 +79,35 @@ not a book, but a simulation of a book. And everything associated with reading
 this metaphor must in itself be understood under the sign of
 simulation.[^ln0-manovich] What kind of a metaphor is it? How did it come into
 being and how does it affect practices of literary interpretation? In *Plain
-Text* I attempt to come to terms with the conditions of simulated textuality.
+Text* I attempt to come to terms with the conditions of *simulated
+textuality*.
 
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
 
-<!--- illusion of ephemerality is not understood --->
-
-The illusion of ephemerality that follows simulation comes at a price of
-understanding. "Software's ghostly presence produces and defies apprehension,"
-Wendy Chun wrote in her *Programmed Visions* [@chun_programmed_2011, 3]. But
-what happens when all text is a type of software? Friedrich Kittler ends his
-book on a similar note. In his vision, literature has finally been defeated by
-military-grade encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
-263]. Attempts to silence print through book burning or censorship are
-viscerally obvious and met with nearly universal disapproval. Unlike
-censorship or the burning of books, computational governance proceeds by
-clandestine means. The simulation-producing nature of computed text preserves
-the outward appearance of printed text, while concealing the specifics of
-governance and control. I mean governance and control in the sense of shaping
-affordances: a mode of physical regulation that structures the production,
-access, and the distribution of knowledge. The challenge of *Plain Text* will
-be in the description of such emerging but often occluded technological
-figurations.
+"Software's ghostly presence produces and defies apprehension," Wendy Chun
+wrote in her *Programmed Visions* [@chun_programmed_2011, 3]. But what happens
+when all text is a type of software? Friedrich Kittler ends his book on a
+similar note: in his vision, literature has finally been defeated by
+technologies of military-grade encryption, secrecy, and obfuscation
+[@kittler_gramophone_1999, 263]. Attempts to silence print through book
+burning or censorship are viscerally obvious and met with nearly universal
+disapproval. Unlike censorship or the burning of books, computational
+governance proceeds by clandestine means. The simulation-producing nature of
+computed text preserves the outward appearance of printed text, while
+concealing the specifics of governance and control. I mean governance and
+control in the sense of shaping affordances: a mode of physical regulation
+that structures the production, access, and the distribution of knowledge. The
+challenge of *Plain Text* will be in the description of such emerging but
+often occluded technological possibilities.
 
 A concern with the material conditions of simulated textuality leads us to a
 rich archive of materials from the history of literary theory, semiotics,
 telegraphy, and electrical engineering from the middle of the nineteenth to
-the middle of the twentieth centuries. Reflecting on the development of Morse
+the end of the twentieth centuries. Reflecting on the development of Morse
 Code in 1949 in the *Proceedings of the American Philosophical Society*, Frank
 Halstead mentioned the difficulty of finding a home in either the arts or
-sciences for what he calls "code development." "It is a matter somewhat
-related to the general art of cryptology," he wrote, "yet it is not wholly
+sciences for what he calls "code development." He wrote, "it is a matter
+somewhat related to the general art of cryptology, yet it is not wholly
 divorced from electrical engineering nor from general philology"
 [@halstead_genesis_1949, 456]. As Halstead anticipated, research in the field
 of code development and computational culture has led me to a range of primary
@@ -150,18 +151,17 @@ all contemporary documents carry with them a layer of hidden information.
 Originally used for typesetting, that layer affects more than innocuous
 document attributes like "font size" or "line spacing." Increasingly, devices
 that mediate literary activity encode forms of governance. These tacit
-structures police intellectual property laws, censor, and carry out
+structures police intellectual property laws; they censor and carry out
 surveillance operations. For example, the Digital Millennium Copyright act,
 passed in the United States in 1996, goes beyond written injunction to require
 in some cases the management of digital rights (DRM) at the level of hardware.
 An electronic book governed by DRM may subsequently prevent the reader from
 copying or sharing stored content, even for the purposes of academic
-study.[^ln-dmca] Computational poetics strives to make such control structures
-available for critical reflection. Building on the recent work of scholars
-like Lev Manovich, Tung-Hui Hu, and Lisa Gitelman I make the case for an
-empowered poetics, able to regain a measure of control over the material
-contexts of our knowledge production [@manovich_there_2011;
-@gitelman_paper_2014; @hu_prehistory_2015].
+study.[^ln-dmca] Building on the recent work of scholars like Lev Manovich,
+Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered *computational
+poetics*, a method of inquiry that aims to bring implicit control structures
+once again under the purview of interpretation and critique
+[@manovich_there_2011; @gitelman_paper_2014; @hu_prehistory_2015].
 
 <!-- I build on these thesis with Shklov. and Flusser, and then metaphor. Why
 are these section -->
@@ -704,7 +704,7 @@ incantations that elicit hidden, symbolic action.[^ln-cli] Those who wield
 them gain the metaphorical power to "hop" across, to "sniff" packets, to
 "survey," to "traverse," and to "flood" network topographies. Computational
 poetics empower the reader to resist hard-wired models of machine-bound
-interpretation. Yet today, resistance remains the purview of the few.  Plain
+interpretation. Yet today, resistance remains the domain of the few.  Plain
 text channels itinerant streams of data back into the tidal pools of human
 agency and comprehension for all. There, code can become intelligible for the
 very subjects whose loss Foucault and Kittler lament.[^ln-lament] Only in such

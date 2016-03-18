@@ -9,10 +9,9 @@ toc: true
 mainfont: "fbb"
 fontsize: 12pt
 date:
-documentclass: article
+documentclass: scrartcl
 classoption: none
 header-includes:
-- \usepackage{titlesec}
 - \newcommand{\sectionbreak}{\clearpage}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
