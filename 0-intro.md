@@ -5,20 +5,20 @@ machines. It examines key literary theoretical ideas alongside the
 intellectual history of software engineering that frame contemporary reading,
 writing, and interpretation practices. It is a deeply materialist work, in
 which I argue that even our most ingrained intuitions about texts are
-profoundly alienated from the contexts of their production. A new kind of
-poetics is therefore necessary to preserve the free play of ideas implicit in
-the method of humanistic inquiry. Often, the work of literary theory defines
-itself in terms of specific texts, as a series of readings. My object of study
-is instead the nature of textuality itself. I am interested here in how texts
-are produced; in the metaphors that guide computation; in the forms, formulae,
-and formats that structure human--computer interaction; in the literary
-device; and in the strange shape of contemporary inscription, which, no longer
-a single mark on paper, stretches between the site of fleeting projection, the
-screen, and the site of storage in its solid, archival state. In quite another
-sense, this book is about more than words, screens, and archives: it reasons
-through the dynamics of technological settlement and displacement, through the
-comforts and the discomforts of inhabiting our numerous extensions of self,
-our media homes.
+profoundly alienated from the physical contexts of intellectual production. A
+new kind of poetics is therefore necessary to preserve the free play of ideas
+implicit in the method of humanistic inquiry. Often, the work of literary
+theory defines itself in terms of specific texts, as a series of readings. My
+object of study is instead the nature of textuality itself. I am interested
+here in how texts are produced; in the metaphors that guide computation; in
+the forms, formulae, and formats that structure human-computer interaction; in
+the literary device; and in the strange shape of contemporary inscription,
+which, no longer a single mark on paper, stretches between the site of
+fleeting projection, the screen, and the site of storage in its solid,
+archival state. In quite another sense, this book is about more than words,
+screens, and archives: it reasons through the dynamics of technological
+settlement and displacement, through the comforts and the discomforts of
+inhabiting our numerous extensions of self, our media homes.
 
 While I write these introductory remarks, a ceiling-mounted smoke detector in
 my kitchen begins to emit a loud noise every three minutes or so. A pleasant
@@ -176,9 +176,11 @@ introduction is in part to recreate for the reader the winding path that
 anticipated the making of this book. It passes first through a kind of a
 productive tension between estrangement and habituation, which although
 stemming from a personal experience of geographic displacement, leads to a
-dialectics, that is a method of making sense out of conflicting and
-contradictory logics in the virtual world. In the section that follows, I
-outline the metaphor
+dialectics, that is, a method of making sense out of conflicting and often
+contradictory logics of the virtual. In the section that follows, I outline
+the metaphor
+
+I would like to draw attention then
 
 ## 0.2 Displacement
 
