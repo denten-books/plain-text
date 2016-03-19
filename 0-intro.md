@@ -1,10 +1,10 @@
 ## Simulated Text: an Introduction
 
-This book is, in some sense, about the strange entanglement between humans,
-texts, and machines. It examines key literary theoretical ideas alongside the
-intellectual history of software engineering which frames contemporary
-reading, writing, and interpretation practices. It is a deeply materialist
-work, arguing that even our most ingrained intuitions about texts are
+This book is about the strange entanglement between humans, texts, and
+machines. It examines key literary theoretical ideas alongside the
+intellectual history of software engineering that frame contemporary reading,
+writing, and interpretation practices. It is a deeply materialist work, in
+which I argue that even our most ingrained intuitions about texts are
 profoundly alienated from the contexts of their production. A new kind of
 poetics is therefore necessary to preserve the free play of ideas implicit in
 the method of humanistic inquiry. Often, the work of literary theory defines
@@ -14,7 +14,7 @@ are produced; in the metaphors that guide computation; in the forms, formulae,
 and formats that structure human--computer interaction; in the literary
 device; and in the strange shape of contemporary inscription, which, no longer
 a single mark on paper, stretches between the site of fleeting projection, the
-screen, and the site of storage in its solid, archival state. In another
+screen, and the site of storage in its solid, archival state. In quite another
 sense, this book is about more than words, screens, and archives: it reasons
 through the dynamics of technological settlement and displacement, through the
 comforts and the discomforts of inhabiting our numerous extensions of self,
@@ -25,7 +25,7 @@ my kitchen begins to emit a loud noise every three minutes or so. A pleasant
 female voice announces also "low battery." This is, as I learn, a precaution
 stipulated by US National Fire Alarm Code 72-108 11.6.6 (2013). The clause
 requiring a "distinct audible signal before the battery is incapable of
-operating" is not only required by law, it is *encoded into the device*. The
+operating" is not only required by law, it is encoded into the device. The
 smoke detector embodies that piece of legislation in its circuitry. We thus
 obtain a condition where the two meanings of code---as governance and machine
 instruction---coincide. Code equals code.
@@ -163,8 +163,22 @@ poetics*, a method of inquiry that aims to bring implicit control structures
 once again under the purview of interpretation and critique
 [@manovich_there_2011; @gitelman_paper_2014; @hu_prehistory_2015].
 
-<!-- I build on these thesis with Shklov. and Flusser, and then metaphor. Why
-are these section -->
+My notion of poetics builds also on the long history of literary theory,
+combined here with practices borrowed from software engineering and computer
+science. Poetics, in the way I am using it here, concerns itself simply with
+the construction of literary media artifacts. These are not however limited to
+the canonical, straight-ahead structuralisms of Roman Jakobson or Jonathan
+Culler. I am borrowing rather from a more peripheral tradition represented
+best for me by third culture thinkers like Viktor Shklovsky and Vilém Flusser,
+consummate immigrants both, who extracted a literary and a media theory
+respectively out of the fabric of their emigration. The purpose of this
+introduction is in part to recreate for the reader the winding path that
+anticipated the making of this book. It passes first through a kind of a
+productive tension between estrangement and habituation, which although
+stemming from a personal experience of geographic displacement, leads to a
+dialectics, that is a method of making sense out of conflicting and
+contradictory logics in the virtual world. In the section that follows, I
+outline the metaphor
 
 ## 0.2 Displacement
 
