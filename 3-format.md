@@ -81,7 +81,7 @@ sentence within a paragraph, the paragraph within a chapter, the chapter
 within a book, the book within an archive, and so on. One could say, what of
 such arrangements?  Who cares about paragraphs? It is merely one type of a
 container among many. It has only the instrumental function to help get the
-point across. The meat of interpretation lies within.  Words can also be
+point across. The meat of interpretation lies within. Words can also be
 packaged otherwise. The outer container is disposable and therefore
 insignificant.
 
@@ -106,7 +106,8 @@ Format (`.pdf`) containing nothing but "hello world" takes up 24,335 bytes on
 my system. Thick content accounts for the disparity between plain text and
 fancy text, the latter defined as "text representation consisting of plain
 text plus added information" [@unicode_consortium_unicode_1990]. The
-explication of thick content requires thick description.
+explication of thick content requires thick description, replete with
+technical detail which acquires metaphysical significance.
 
 [^ln3-space]: Ten bytes for the letters and one byte for the space character.
 
@@ -173,7 +174,7 @@ On incommensurate physicalities see @galloway_interface_2012, viii.
 Formatting rules facilitate the conversion of machine-readable codes into
 human-readable text. The structure of such transformations governs the
 production, storage, reception, and the dissemination of textual artifacts.
-Despite their significance, formats continue to elude the critical gaze
+Despite their formative powers, formats continue to elude the critical gaze
 because our very concept of form, central to literary analysis, has always
 drifted between several contradictory intuitions. The history of formalism, as
 I will outline it in the first part of this chapter, contains within it at
@@ -182,22 +183,23 @@ back to the reception of Plato, Hegel, and the Russian formalists, the English
 "form" renders at times the material, outward, and apparent shape of something
 said, written, or pictured. Yet just as often, critics use "form" in the sense
 of a Platonic ideal: abstracted from matter, inward-facing, and in need of
-explication. Form in that sense is closer to the idea of an algorithm of a
+explication. Form in that sense is closer to the idea of an algorithm or
 formula: it signifies according to implicit rules.
 
 Here, I would like to augment these two senses of form with a third,
 introducing the concept of format into the critical discourse. In the process,
 we will observe formats develop from simple machine instructions for
-typographical layout to complex political directives pertaining to
-intellectual property rights, constraints on speech, trade agreements,
-surveillance, and clandestine communication. The intellectual history of form
-in literary theory, based on early twentieth century materials, will meet the
-material history of formatting in computer science at an early, decisive
-period in the development of the discipline. The language of formalism will
-allow us to perceive an important structure at the heart of every digital
-text. The chapter ends with the notion of a "smart document," an increasingly
-common instrument of record capable of policing its own encoded rules of
-reader engagement: what can be read, how, and where.
+typographical layout to complex meta-literary directives related to the
+protection of intellectual property rights, constraints on speech, trade
+agreements, the politics of surveillance, and clandestine communication. The
+intellectual history of form so considered and based on early twentieth
+century documents in aesthetic philosophy will meet the material history of
+format in computer science at an early, decisive period in the development of
+the discipline. The language of formalism will allow us to perceive an
+important structure at the heart of every digital text. The chapter ends with
+the notion of a "smart document," an increasingly common instrument of record
+capable of policing its own encoded rules of reader engagement: what can be
+read, how, and where.
 
 ### 3.1 Concrete and Universal
 
@@ -206,24 +208,24 @@ within it at least these two distinct and contradictory ideas about form: one
 about the outward shape of the sign and another about the inward structure or
 formula that governs semiosis. The distinction is important because it leads
 to several conflicting strategies of interpretation. Taken in the sense of
-"outward shape," form suggests an aesthetics or even an "erotics" of art
+"outward shape," form suggests an aesthetics or even "erotics" of art
 [@sontag_against_1966]. In this view, the sign is forever embedded into the
-specific contexts of inscription, and alternatively, in the contexts of its
+specific contexts of inscription, or alternatively, in the contexts of its
 reception. The individual peculiarity of the word in context makes it forever
 different from the same word on a different page. Formalism in this sense is
-concerned with the distinctive, palpable, outward physical attributes of a
-text. Understood as formula, form suggests a more analytical approach, aimed
-at explicating the inward structures---rules, patterns, and archetypes---that
-shape the production of text from within. Formal analysis so conceived studies
-not specific traces or utterances, but rather the development of ideal forms,
-which exist somewhat independently of their specific instantiations. Form in
-that other sense embodies an abstraction, leading to generalized historical
-categories like genre and period. Our ideas about "the novel," for example, or
-"modernism," or "post-colonial theory" reflect formal groupings of that kind.
-The genre "science fiction" indicates an abstract collection of specific
-literary works in that genre. Where palpable form leads to immanent material
-artifacts, the abstracted notion of form leads to transcendent, universal
-ideals, categories, and social constructions.
+concerned with the unique, distinctive, palpable, and outward physical
+attributes of a text. Understood as formula, form suggests a more analytical
+approach, aimed at explicating the inward structures---universal rules,
+patterns, and archetypes---that shape the production of text from within.
+Formal analysis so conceived studies not specific traces or utterances, but
+rather the development of ideal forms, which exist somewhat independently of
+their specific instantiations. Form in the sense of formula embodies an
+abstraction, leading to generalized historical categories like genre and
+period. Our ideas about "the novel," for example, or "modernism," or
+"post-colonial theory" reflect formal groupings of that kind. The genre
+"science fiction" indicates an abstract collection of specific literary works
+in that genre. Where palpable form leads to immanent material artifacts, the
+abstracted notion of form leads to transcendent ideal categories.
 
 The notion of a "format" occupies the conceptual space somewhere between form
 as intrinsic formula and form as extrinsic shape. In what remains a singular
@@ -265,20 +267,22 @@ in terms of the form-content divide. He wrote: "Classical art, in a word,
 stands for form; romantic art for content" [@collingwood_form_1929, 335]. In
 recent work on computational text generation, Kathleen McKeown wrote that to
 produce discourse, writers and speakers "must decide what to say and how to
-present it effectively," once again making the distinction content (the what
-to say) and its presentation. McKeown writes that a machine that generates
-text should, among other things, be able to determine the "content and textual
-shape" of what needs to be said or written [@mckeown_text_1992, 1]. Similarly,
-in her influential essay "Print Is Flat, Code Is Deep," Katherine Hayles
-writes about "the interplay between a text's physical characteristics and its
-signifying strategies" [@hayles_print_2004, 72]. In this way, a text having
-differing physical characteristics may nevertheless employ the same signifying
-strategies. The various editions of Shakespeare's *Hamlet*, for example, may
-look different but nevertheless refer to the same work of art. We saw a
-similar distinction in the discussion about technique, where writers made a
-distinction between the object of art, a transcendent idea or content of the
-work, and the object itself which contained the work's immanent, physical
-characteristics.
+present it effectively" [@mckeown_text_1992, 1]. Similarly, in her influential
+essay "Print Is Flat, Code Is Deep," Katherine Hayles wrote about "the
+interplay between a text's physical characteristics and its signifying
+strategies" [@hayles_print_2004, 72].
+
+The distinction between the idea of text, its content, and its presentation,
+its form, entails the distinction between the work of art in the abstract
+sense and the object of art in the sense of the material artifact. In this
+way, two editions of the same text---two disparate things---deploy the same
+"signifying strategies," and could in fact refer to the same work. The various
+editions of Shakespeare's *King Lear*, to take a canonical example, differ
+from each other slightly but nevertheless refer to the same work of art. We
+saw a similar distinction in the discussion about technique, where writers
+made a distinction between the object of art, a transcendent idea or content
+of the work, and the object itself which contained the work's immanent,
+physical characteristics.
 
 As an aside, note that what counts for matter belonging to the contingent
 physical characteristics of a text object and what counts for the matter
