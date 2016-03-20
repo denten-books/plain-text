@@ -201,7 +201,7 @@ the notion of a "smart document," an increasingly common instrument of record
 capable of policing its own encoded rules of reader engagement: what can be
 read, how, and where.
 
-### 3.1 Concrete and Universal
+### Concrete and Universal
 
 The intellectual history of formalist thought in literary theory contains
 within it at least these two distinct and contradictory ideas about form: one
@@ -270,63 +270,59 @@ produce discourse, writers and speakers "must decide what to say and how to
 present it effectively" [@mckeown_text_1992, 1]. Similarly, in her influential
 essay "Print Is Flat, Code Is Deep," Katherine Hayles wrote about "the
 interplay between a text's physical characteristics and its signifying
-strategies" [@hayles_print_2004, 72].
-
-The distinction between the idea of text, its content, and its presentation,
-its form, entails the distinction between the work of art in the abstract
-sense and the object of art in the sense of the material artifact. In this
-way, two editions of the same text---two disparate things---deploy the same
-"signifying strategies," and could in fact refer to the same work. The various
-editions of Shakespeare's *King Lear*, to take a canonical example, differ
-from each other slightly but nevertheless refer to the same work of art. We
-saw a similar distinction in the discussion about technique, where writers
-made a distinction between the object of art, a transcendent idea or content
-of the work, and the object itself which contained the work's immanent,
-physical characteristics.
+strategies" [@hayles_print_2004, 72]. The distinction between the idea of
+text, its content, and its presentation, its form, entails the distinction
+between the work of art in the abstract sense and the object of art in the
+sense of the material artifact. In this way, two slightly diverging editions
+of the same text---the various editions of Shakespeare's *King Lear*, to take
+a canonical example---nevertheless refer to the same work of art. The work of
+art refers to a transcendent idea or content of the work, where the individual
+editions or copies are contained within the work's immanent, formal
+characteristics.
 
 As an aside, note that what counts for matter belonging to the contingent
-physical characteristics of a text object and what counts for the matter
-belonging to its signifying strategies depends on the kind of object at hand.
-In this way, when reading a novel the reader may ignore the line length. The
-length of an average line in Herman Melville's *Moby Dick* changes with the
-edition. Line lengths are not usually important in novels, we would say; they
-carry no meaning. But when reading poetry, the reader understands line length
-to be an integral part of the text's "signifying strategies." The distinction
-between form and content in that sense propagates a kind of value formation,
-by which we are asked to separate those attributes of the text that are
-meaningful from those that are not. Some notion of form in that distinction
-implies disposable form, asking us to identify those physical attributes of
-the text that can be omitted in the interpretation or the reproduction of
-texts. One can imagine a printer deciding to discard information about the
-color of a manuscript's ink for example or to do way with the idiosyncrasies
-of a writer's handwriting. Those parts of the text that are deemed
-insignificant are omitted, while those dimmed significant pass from the
-category of contingent "formal" characteristics to its essential signifying
-"contents."
+physical characteristics of a text and what counts for the content belonging
+to its signifying strategies depends on the kind of object at hand. For
+example, when reading a novel readers commonly ignore variations in line
+length. The length of an average line in Herman Melville's *Moby Dick* changes
+with the edition. Line lengths are not usually important in novels, we would
+say; they carry no meaning. But when reading poetry, the reader does
+understand line length to be an integral part of the text's "signifying
+strategies." The distinction between form and content in that sense propagates
+a kind of value formation, by which we are asked to separate those attributes
+of the text that are meaningful from those that are not. Some notion of form
+in that distinction implies disposable form, asking us to identify those
+physical attributes of the text that can be omitted in the interpretation or
+the reproduction of texts. One can imagine a printer deciding to discard
+information about the color of a manuscript's ink for example or to do away
+with the idiosyncrasies of a writer's handwriting. Those parts of the text
+that are deemed insignificant are omitted, while those dimmed significant pass
+from the category of contingent "formal" characteristics to its essential
+signifying "contents."
 
-The traditional distinction between form and content helps us perceive yet
+The conventional distinction between form and content helps us perceive yet
 another sense of "form," by which theorists often identify quite the opposite
 to what is meant by form in the sense of a disposable shape. Consider that
-under traditional, Platonic definitions form denotes the essential properties
-of the object. For Plato, the "essence" or an "idea" of something (like a
-chair) exists in an ideal, metaphysical state, somewhere beyond the confines
-of the material universe. By contrast, a physical instantiation of that object
-(a specific chair) embodies a somewhat more limited, corrupted even, version
-of that perfect idea. The task of the philosopher becomes one of
-reconstructing the single ideal notion of the perfect chair from its many
-imperfect exemplars. A computer scientist will recognize in this chain of
-reasoning some of the principles behind object-oriented programming: a way of
-building software that works by defining abstract "object classes" and
-invoking them into "class instances" [@hoare_record_1965;
-@nygaard_history_1981]. The abstract class can further be modified or extended
-when called into action. In this way the abstract category of chairs becomes a
-given chair, complete with individual flaws and imperfections. I could, for
-example, modify the chair by attaching a small desk. It still remains a chair.
-As before, the flaws an modification are considered insignificant compared to
-the perfected form of the ideal chair. In the idealist tradition, ideas
-provide us with lasting universal "templates" for instantiation within the
-contingent and always changing physical confines of the material
-world.[^ln4-descartes]
+under canonical, Platonic definitions, "form" often denotes the essential, not
+merely contingent, properties of an object. For Plato, the "essence" or an
+"idea" of something (like a chair) exists in an ideal, metaphysical state,
+somewhere beyond the confines of the material universe. By contrast, a
+physical instantiation of that object (a specific chair) embodies a somewhat
+more limited, corrupted even, version of that perfect idea. The task of the
+philosopher becomes one of reconstructing the single ideal notion of the
+perfect chair from its many imperfect exemplars. A computer scientist will
+recognize in this chain of reasoning some of the principles behind
+object-oriented programming: a way of building software that works by defining
+abstract "object classes" and invoking them into "class instances"
+[@hoare_record_1965; @nygaard_history_1981]. The abstract class can further be
+modified or extended when called into action. In this way, the abstract
+category of "chairs" becomes a given chair, complete with individual flaws and
+imperfections. I could, for example, modify the chair by attaching a small
+desk. The modified chair remains a chair. As before, flaws and emendations are
+considered insignificant when compared to the perfected form of the ideal
+chair. In the idealist tradition, ideas provide us with lasting universal
+"templates" for instantiation within the contingent and always changing
+physical confines of the material world.[^ln4-descartes]
 
 So far, I have been using the term "form" quite liberally, relying on the
 reader's intuitions about its use in everyday language. A closer look at the
@@ -471,10 +467,11 @@ combination of parts." He writes: "Thus the formula of a chemical reaction;
 the recipe for a dish; the blue-print of a machine." Crucially, the Hegelian
 universal becomes concrete when the machine "has been materialized, and
 working properly" [@ransom_concrete_1954, 387]. As was the case with
-Wittgenstein's logical mechanisms, Ransom imagines a perfected kind of a
-machine or a formula that represents the ideal of the aesthetic object.
+Wittgenstein's logical mechanisms in the last chapter, Ransom imagines a
+perfected kind of a machine or a formula that represents the ideal of the
+aesthetic object.
 
-### 3.2 Strategies of Reading
+### Strategies of Reading
 
 The above notes on Plato and Hegel are not meant to present a definitive
 history of formalism in Western aesthetics. Rather, they point to series of
@@ -493,10 +490,10 @@ an end product of a living ideal or formula, the analysis of literature seeks
 to recover latent universal mechanisms, laws, and deep structures that give
 rise to surface phenomena.
 
-The dual motion of literary criticism at once towards the outward shape and
-inward formula---poetics and hermeneutics---is perhaps most starkly visible in
-the intellectual legacy of Russian formalism in the first few decades of the
-20th century. The influential series of "OPOYAZ" publications, appearing
+The dual motion of literary criticism at once towards the extrinsic shape and
+intrinsic formula---poetics and hermeneutics---is perhaps most starkly visible
+in the intellectual legacy of Russian formalism in the first few decades of
+the 20th century. The influential series of "OPOYAZ" publications, appearing
 between 1916 and 1920, gave voice to a unified program to a group of literary
 scholars that included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris
 Eichenbaum, and Roman Jakobson, among others. Collectively, the volumes strike
@@ -523,7 +520,8 @@ shape, sensually and affectively. Khlebnikov writes that "mystical incantation
 and beyonsense are appeals 'over the head' of government straight to the
 population of feelings, a direct cry to the predawn of the soul"
 [@khlebnikov_king_1990, 152]. Shklovsky similarly defines *zaum* as "without
-words but with sound." He writes:
+words but with sound," appealing to the senses rather than the intellect. He
+writes:
 
 > Thought and speech cannot keep up with inspired experience, and
 for this reason artists are free to express themselves not only in language of
@@ -537,9 +535,9 @@ translates as "without an image." The word "lilacs" has lost its verbal,
 linguistic shape, the author implies. Formalism of the outward kind thus aims
 to restore the sensation of an image, returning form, in the sense of a shape,
 to habituated content. Formal techniques like chanting or neologism help
-revitalize the external sound image. Through repetition the word loses its
-sense while gaining a distinct physical sound signature, which goes unnoticed
-in everyday use.
+revitalize the external sound image. The word loses its sense through
+repetition, while gaining a distinct physical sound signature, which goes
+unnoticed in everyday use.
 
 Three of the sixteen essays in the seminal volumes I have discussed above
 strike in another direction, away from shape and towards formula. Shklovsky's
@@ -570,7 +568,7 @@ development of literary particulars. Veselovsky calls these genetic constants
 > across the distance of centuries [...] We are connected to a tradition. We
 > expand within it---not to create new forms, but to attach to them new
 > sentiments and concerns. This dynamic could be considered a kind of a law of
-> [cultural] energy conservation [@veselovsky_sobranie_1913, 475-47].
+> conservation of energy [@veselovsky_sobranie_1913, 475-47].
 
 [ln3-propp]: To this strain of formalism one could also adduce Vladimir
 Propp's well-known *Morphology of the Folktale*, a text that finds a limited
@@ -583,7 +581,7 @@ formulas resemble concrete universals, which develop independently of
 individual texts. Formulae in this sense have a life of their own, in a trans-
 or meta-human way, not fully accessible to the individual author or reader.
 They are invoked indirectly. They exist in the ether of culture, attaining a
-historical momentum of their own through a process of gradual genetic
+historical momentum of their own through a process of gradual evolutionary
 development. Form, in this Hegelian historical sense, means exactly the
 opposite of form in the sense of a private utterance, by which an individual
 author breaks with an ossified tradition, as was the case with Shklovsky's
@@ -615,9 +613,9 @@ material surface, reading for verbal structure, reading for affect, reading
 for description, reading for pattern, and finally, reading for literal meaning
 or "just reading" [@best_surface_2009, 9].
 
-In making the argument for a kind of surface reading, Best and Marcus appeal
-to the kind of formal poetics advocated by Susan Sontag in the late 1960s. At
-the time, Sontag wrote about "the need for more attention to form in art."
+In making the argument for surface reading, Best and Marcus gesture toward the
+kind of formal poetics advocated by Susan Sontag in the late 1960s. At the
+time, Sontag wrote about "the need for more attention to form in art."
 Interpretation can be liberating, she wrote, but it can also stifle
 creativity. It "depletes" the world in some way, placing the critic in a
 privileged and unnecessarily meddling position between reader and text. "If
@@ -628,15 +626,16 @@ considerations of content into those of form" [@sontag_against_1966, 8-9].
 Marcus and Best remind the reader that Sontag's manifesto is not just an
 argument against interpretation, but also an "affective and ethical stance"
 [@best_surface_2009, 10]. Strategies of "deep" interpretation carry with them
-also a claim to access, along with an imbalance of interpretive acumen. The
-critic claims to uncover what the lay reader does not and cannot see without
-expert guidance. As an ethical stance, reading for external forms flattens the
-hierarchy between the lay reader and the professional interpreter. In this
-sense, Best, Marcus, and Sontag continue in the liberal Lutheran tradition of
-vernacular exegesis. All readers are priests at the surface; all readers are
-capable, the critics suggest, of forming their own interpretation.
+also a claim to privileged access, along with an imbalance of interpretive
+acumen. The critic asserts to uncover what the lay reader does not and
+supposedly cannot see without expert guidance. As an ethical stance, reading
+for external forms by contrast flattens the hierarchy between the lay reader
+and the professional interpreter. In this sense, Best, Marcus, and Sontag
+continue in the liberal, Lutheran tradition of vernacular exegesis. All
+readers are priests at the surface; all readers are capable, the critics
+suggest, of forming their own interpretation.
 
-Interpretation at the level of meaning and content for Sontag is an
+Interpretation at the level of meaning and content alone for Sontag is an
 intellectual and ultimately reactionary activity. It aims to find "the maximum
 amount of content" within. It is reactionary because it serves only to
 multiply the available "levels of analysis." In explicating the work of art,
@@ -649,27 +648,28 @@ in the age of aesthetic paucity, when creativity and interpretation were
 limited to a few privileged individuals. By contrast, Sontag believes that her
 times are a period of creative abundance. "Think of the sheer multiplication
 of works of art available to all of us," she writes. Contemporary culture is
-based on "excess" and "material plenitude" which dull the senses
+rather based on "excess" and "material plenitude" which dull the senses
 [@sontag_against_1966, 9-10]. In such conditions, the production of further
 critical variations on the theme only adds to the dulling clutter.
 
-By "interpretation," Sontag means a "conscious act of the mind" which
-illustrates a "certain code," or "certain rules" of engagement. It is, for
-her, "virtually" a type of translation. The critic "transforms" and "revamps"
-the text: X turns out to be A, Y turns out to be B, and so on
-[@sontag_against_1966, 3]. And by "form" Sontag means something like the
-apparent, perceptual properties of the work: one sentence is long, for
-example, another short. A critic could "make something out of" the variation,
-but Sontag wants to stop us short of meaning making. A discipline of careful
-perception---of paying attention---rather sharpens the reader's sensibilities.
-There is no need to explain, only describe. The history of interpretation
-Sontag objects to is one that privileges content over form. The very words
-"explication" and "exegesis" imply the movement from the inside to the
-outside. For a psychoanalytical critic interpretation in that sense may mean
-revealing the hidden psychological drives that give rise to a particular form
-of an expression. A Marxist critic may instead look for the concealed
-operation of this or that ideology. Fredrick Jameson, a prominent Marxist
-critic, writes for example:
+By "interpretation," Sontag means a "conscious act of the mind" that
+illustrates a "certain code" or "certain rules" of literary engagement. It is,
+for her, "virtually" a type of translation. The critic "transforms" and
+"revamps" the text: X turns out to be A, Y turns out to be B, and so on
+[@sontag_against_1966, 3]. By "form" Sontag means something like the apparent,
+perceptual properties of the work: one sentence is long, for example, another
+short. A critic could "make something out of" the variation, but Sontag wants
+to stop us short of meaning making. A discipline of careful perception---of
+paying attention to---can sharpen readers' sensibilities, preparing them for
+an independent interpretive strategy of their own. There is no need to explain
+under this model, only describe. The history of interpretation Sontag objects
+to is one that privileges content over form. The very words "explication" and
+"exegesis" imply the movement from the inside to the outside. For a
+psychoanalytical critic interpretation in that sense may mean revealing the
+hidden psychological drives that give rise to a particular form of an
+expression. A Marxist critic may instead look for the concealed operation of
+this or that ideology. Fredrick Jameson, a prominent Marxist critic, writes
+for example:
 
 > Thus the process of criticism is, not so much the interpretation of
 content, as it is a revealing of it, a laying bare, a restoration of the
@@ -691,8 +691,10 @@ distinction between "meaning" or "content" on the one hand and "form" or the
 "sensory experience" of the work on the other. Form, in this sense, mirrors
 McKeown's "shape" and the "text's physical characteristics" of Hayles.
 
+### Format Theory
+
 If reading for sensory experience implies an erotics of art and reading for
-hidden formulae implies an analytics, what would it mean to read for format?
+hidden formulae implies a hermeneutics, what would it mean to read for format?
 To borrow from Tanselle's vocabulary, the format bridges the "physical
 structure of finished books" with their "intellectual content." This
 connection happens through what Tanselle calls "printing-shop routines" and
@@ -923,8 +925,6 @@ wetware---storage, screen, and brain.
 [^ln3-hex]: In this last regard see @stensola_entorhinal_2012. This
 ground-breaking work describes the structure of data in the human brain.
 
-### 3.3 Format Theory
-
 A notion of formatting underlies all contemporary digital documents. The
 history of formatting reveals a structure that emerges initially for the
 purposes of visual layout, developing into an active agent containing
@@ -1129,7 +1129,7 @@ two-dimensional space" in view of the user. In this onion-like, layered way
 formatting instructions govern the reification of abstract content models into
 specific documents, shaping the idea in the process of becoming a thing.
 
-### 3.4 Smart Contracts
+### Smart Contracts
 
 Reading for format involves the reconstruction of rules that govern the
 transformation of text, thereby giving us a notion of literal surface and
