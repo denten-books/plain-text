@@ -137,8 +137,6 @@ and covert intelligence agencies [@soyata_combat:_2012;
 voice telecommunication, is now used ubiquitously both to read books and to
 detonate explosives at a distance.
 
-<!-- a little more detail about the material, archive -->
-
 These conditions compel us---historians, philologists, et al.---to reconsider
 the cozy relationship we have had with books since the advent of the Gutenberg
 press. Simulated text no longer plays by the same rules as print. The
@@ -148,10 +146,16 @@ reciprocal movement, I aim also to place the modern computer itself within the
 long history of the book, as a piece of literary (and not just mathematical)
 technology. To achieve these tasks, I will construct a short prehistory of the
 literary device, based on materials roughly from the first half of the
-twentieth century. I am interested in the simultaneous emergence of the
-literary device as formal technique, a series of thought experiments, and
-finally an instrument that lies at the modernist origins of contemporary
-computational culture.
+twentieth century. I am interested here broadly in the concepts of device and
+technique which emerges in the thought of Russian, German, and English
+philologists whose work I will cover in the first section of this chapter. The
+subsequent sections trace the simultaneous emergence of the literary device in
+another sense, as a thought experiment staged by Ludwig Wittgenstein and his
+students in the 1920s and 1930s. These experiments lead us to consider a
+series of fantastical broken reading and writing machines: machines that
+define the limits of symbolic thought and interpretation and ultimately result
+in a specific mechanism, imagined by Alan Turing in a blueprint that lies at
+the modernist origins of contemporary computational culture.
 
 ### 2.1 Technique
 
