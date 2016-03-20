@@ -1,4 +1,4 @@
-## Simulated Text: an Introduction
+## Computational Poetics: An Introduction
 
 This book is about the strange entanglement between humans, texts, and
 machines. It examines key literary theoretical ideas alongside the
@@ -70,7 +70,7 @@ sleeping, and consumption habits. It tries to sell me things, showing me
 advertisements for cars, jewelry, and pills. It comes with a manual and terms
 of service. It is my confidant, my dealer, my spy.
 
-## 0.1 Thesis of the Book
+### 0.1 Thesis and Scope
 
 My aim in this book is to dispel a pervasive illusion. The electronic book
 draws a compelling figure that belies material realities of reading and
@@ -178,11 +178,12 @@ productive tension between estrangement and habituation, which although
 stemming from a personal experience of geographic displacement, leads to a
 dialectics, that is, a method of making sense out of conflicting and often
 contradictory logics of the virtual. In the section that follows, I outline
-the metaphor
+the some of the methodological considerations that motivate my approach to the
+study of media in general and text in particular. Finally, I would like to
+draw attention to the plant of the present work.
 
-I would like to draw attention then
-
-## 0.2 Displacement
+### 0.2 Theory
+#### 0.2.1 Displacement
 
 To come to terms with the conditions of simulated textuality *Plain Text*
 enacts a displacement of vocabularies. It is a response to a particular
@@ -332,8 +333,8 @@ Where texts are encrypted, we decrypt. If, as Kittler writes, automated
 discourse analysis threatens to take command, we will engineer automatons that
 command on our behalf. Together, small acts of resistance can mount to recover
 a measure of agency from the ruling determinism of, take your pick: markets,
-complex systems, unconscious drives, monistic universes, *gaia* science,
-social networks, technology, the singularity, bureaucracy, war...  Indeed, the
+complex systems, unconscious drives, monistic universes, gaia science, social
+networks, technology, the singularity, bureaucracy, war...  Indeed, the
 possibility of human erasure---the loss of all sense---is never far, "like the
 face drawn in the sand at the edge of the sea" [@foucault_order_1994, 387].
 The fragility of life compels the need to mobilize whatever modest means
@@ -386,8 +387,6 @@ the critical gaze. A strategy of deliberate defamiliarization reclaims the
 metaphor-device for analysis. To come to terms with the book as a device; to
 begin to understand the nature of the text simulation; to perceive the
 particularity of the computed sign: these are the aims of *Plain Text*.
-
-## 0.3 Metaphor
 
 Computation advances into everyday life though metaphor. Like all tropes, such
 metaphors lose their evocative power with frequent use. The task of a literary
@@ -533,9 +532,7 @@ dwelling, Flusser wrote, "and without information, in a chaotic world, one can
 neither feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
 displacement and habituation enter into a continuing conversation.
 
-## 0.4 Computational poetics
-
-<!-- coerce the reader into that section, making familiar -->
+#### 0.2.2 Settlement
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering. Similar in method to what Matthew
@@ -727,7 +724,7 @@ very subjects whose loss Foucault and Kittler lament.[^ln-lament] Only in such
 encrypted tunnels and secure shells can anything like the digital humanities
 or new media studies take root.
 
-## 0.5 Methods
+### 0.3 Method
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -882,7 +879,7 @@ paste? Do they have legal permissions to quote at length, to perform publicly,
 or to otherwise trans-mediate? Will the text disappear when the reader closes
 the book's cover?
 
-## 0.6 Plan of the Present Work
+### 0.4 Plan of the Present Work
 
 The tangled pathways of inscription winding its way through the device exist
 in relation to distinct communities of computational practice. A researcher
