@@ -1,4 +1,4 @@
-## Computational Poetics: An Introduction
+# Computational Poetics: An Introduction
 
 This book is about the strange entanglement between humans, texts, and
 machines. It examines key literary theoretical ideas alongside the
@@ -70,7 +70,7 @@ sleeping, and consumption habits. It tries to sell me things, showing me
 advertisements for cars, jewelry, and pills. It comes with a manual and terms
 of service. It is my confidant, my dealer, my spy.
 
-### Thesis and Scope
+## Thesis and Scope
 
 My aim in this book is to dispel a pervasive illusion. The electronic book
 draws a compelling figure that belies material realities of reading and
@@ -182,8 +182,8 @@ the some of the methodological considerations that motivate my approach to the
 study of media in general and text in particular. Finally, I would like to
 draw attention to the plant of the present work.
 
-### Theory
-#### Displacement
+## Theory
+### Displacement
 
 To come to terms with the conditions of simulated textuality *Plain Text*
 enacts a displacement of vocabularies. It is a response to a particular
@@ -532,7 +532,7 @@ dwelling, Flusser wrote, "and without information, in a chaotic world, one can
 neither feel nor think nor act" [@flusser_does_2011, 12]. By this dynamic,
 displacement and habituation enter into a continuing conversation.
 
-#### Settlement
+### Settlement
 
 In *Plain Text*, I model the reciprocal movement to making strange on the
 diverse practices of reverse engineering. Similar in method to what Matthew
@@ -724,7 +724,7 @@ very subjects whose loss Foucault and Kittler lament.[^ln-lament] Only in such
 encrypted tunnels and secure shells can anything like the digital humanities
 or new media studies take root.
 
-### Method
+## Method
 
 My approach to writing *Plain Text* stems from the desire to enact theory
 capable of addressing the grim picture Friedrich Kittler paints at the end of
@@ -879,7 +879,7 @@ paste? Do they have legal permissions to quote at length, to perform publicly,
 or to otherwise trans-mediate? Will the text disappear when the reader closes
 the book's cover?
 
-### Plan of the Present Work
+## Plan of the Present Work
 
 The tangled pathways of inscription winding its way through the device exist
 in relation to distinct communities of computational practice. A researcher
