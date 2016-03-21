@@ -1170,27 +1170,32 @@ specific documents, shaping the idea in the process of becoming a thing.
 ### Smart Contracts
 
 Reading for format involves the reconstruction of rules that govern the
-transformation of text, thereby giving us a notion of literal surface and
-depth that differs from their figurative senses. Metaphorically-speaking,
-textual depth refers to concealed structures of meaning, literary formulae,
+transformation of text, thereby creating a notion of literal surface and depth
+that differs from their figurative senses. Metaphorically-speaking, textual
+depth refers to concealed structures of meaning, literary formulae,
 signification, or ideology. In another, more literal sense, depth refers to
 the formation of literary laminates that hold the inscription in suspense
 between layers of glass, plastic, liquid crystal, aluminum, iridium, and
-oxide. The move between paper and such *composite* media carries with it a
+oxide. The move between paper and such *composite media* carries with it a
 profound shift in the physical affordances of everyday document. Not much
 space separates ink from paper. There, textuality lies flat, in two
 dimensions. What you see is truly what you get. Not so on the screen connected
-to other screens.  Networked and time-shared textuality extends into the third
-dimension, away from the reader and deep into the bowels of the machine. 
+to other drives, keyboards, and screens. Networked and time-shared textuality
+extends into the third dimension, away from the reader and deep into the
+bowels of the machine.
+
+I would like to conclude this chapter 
 
 The Open Systems Interconnection (OSI) reference model of
-communication[^ln3-osi] describes no less than seven layers: from the
-Application Layer, concerned with the semantics of application ("all services
-directly comprehensible to the user [@miller_iso_1981, 285] to the Physical
-Layer, providing the "mechanical, electrical, functional, and procedural
-characteristics" of communication [@ncs_open_1981; @ncs_national_1988;
-@day_revised_1995].[^ln3-layers] These protocols further envelop a document
-already thickly stratified by the Document Object Model.[^ln3-domlayer]
+communication[^ln3-osi] describes no less than seven layers of communication
+involved in the simple act of sending an email or reading a newspaper online.
+It includes the Application Layer, concerned with the semantics of application
+("all services directly comprehensible to the user to the Physical Layer,
+providing the "mechanical, electrical, functional, and procedural
+characteristics" of communication.[^ln3-layers] These protocols further
+envelop a content already thickly stratified within the document object model,
+as I have described it above [@miller_iso_1981, 285; @ncs_open_1981;
+@ncs_national_1988; @day_revised_1995].[^ln3-domlayer]
 
 [^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
 model.
@@ -1200,15 +1205,15 @@ left. Connected devices on the right. The user has access through the top-most
 (application) level, outermost to the network [@piatkowski_iso-ansi_1980,
 114-15].](images/osi.png)
 
-In his book on protocols, Alexander Galloway discusses the Open Systems
+In his book on protocols, Alexander Galloway discussed the Open Systems
 Interconnection model in reference to what he calls the distributed and
 decentralized networks of control [@galloway_protocol_2006, 28-54]. The system
-described by the OSI standard is distributed to be sure, although to what
-extent it is decentralized is a matter of some debate. Like a good soldier,
-each device in the pictured network internalizes dozens if not hundreds of
-protocols that enable the system to function seamlessly as a whole (in the
-way, for example, that your machine can at one moment connect to one wireless
-access point, and at another moment to another, with minimal loss of
+described the OSI standard describes is distributed to be sure, although to
+what extent it is decentralized is a matter of some debate. Like a good
+soldier, each device in the pictured network internalizes dozens if not
+hundreds of protocols that enable the system to function seamlessly as a whole
+(in the way, for example, that your machine can at one moment connect to one
+wireless access point, and at another moment to another, with minimal loss of
 connectivity). Yet, OSI protocols and the document object model hierarchies
 are also densely consolidated. They are, for example, legislated by specific
 international governing bodies like the World Wide Web Consortium, with a
@@ -1218,8 +1223,8 @@ interests.[^ln3-w3c]
 Stretched between the sites of its archive and its projection, the solid state
 drive and the screen, the inscription travels along a long "pipeline" of
 protocols, undergoing a set of arbitrary transformations throughout. On one
-device, that pipeline may extend just a few inches, connecting disk storage
-and output display. On a network device that pipeline can stretch across
+device, that pipeline may extend just a few inches, connecting disk storage to
+output display. On a networked device that pipeline can stretch across
 continents, spanning widely divergent regions of legal and administrative
 governance. The data that assembles the nearby object we call an electronic
 book may be stored on a server on the other side of the country. Whatever the
@@ -1227,18 +1232,19 @@ case may be, the reader encounters the "protocol stack" from without on the
 periphery of the onion-like network. When paging through an electronic book,
 usually an OSI-compliant device, the reader has access only to the outputs
 emanating from the application layer, and, at that, only at the exposed
-"window" level of the document-object model. The perceived "content" therefor
-constitutes a small fraction of the underlying formal topology. What you see
-is far less than what you get.
+"window" level of the document-object model. The perceived "content" therefore
+comprises only a small fraction of the underlying formal topology. What you
+see is far less than what you get.
 
-The reading subject and the application layer interface superficially. Access
-to the layers intrinsic to device operation (and consequently to analysis) are
-sometimes merely obscured and sometimes made illicit outright, as is arguably
-the case with U.S. Code, Title 17, Chapter 12, §1201, titled "Circumvention of
-copyright protection systems" and passed as part of the Digital Millennium
-Copyright Act (DMCA) in 1998. A literary scholar may be familiar with some
-provisions of American copyright law governing text as surface representation:
-US Code, Title 17 extends "exclusive rights" to "copyright owners" of
+The reading subject interacts with the application layer and therefore with
+the dynamics of text transformation only superficially. Access to deeper
+layers is sometimes merely obscured by the complexity of technology. At other
+times, it is made illicit outright, as is arguably the case with U.S. Code,
+Title 17, Chapter 12, §1201, titled "Circumvention of copyright protection
+systems," a law passed as part of the Digital Millennium Copyright Act (DMCA)
+in 1998. A literary scholar may be familiar with similar provisions of
+American copyright law governing text as surface representation: US Code,
+Title 17, for example, extends "exclusive rights" to "copyright owners" of
 "literary works." The rights include the ability to "reproduce," "to prepare
 derivative works," "to distribute copies," and "to perform and to display
 publicly" (17.1.106). Surface representation is further subject to
@@ -1248,10 +1254,10 @@ reproducibility of digital text (and image) has served to erode the efficacy
 of copyright restrictions. The work of art in the age of digital reproduction
 has lost much of its already tenuous hold on the material
 substratum.[^ln3-illusion] Copy technologies from photocopiers, to desktop
-printers, to cheap digital storage and peer-to-peer file sharing networks
-reduce the price of copying and dissemination to near frictionless levels. The
-response from the film, game, music, and publishing industries has been to
-transpose mechanisms of copyright enforcement from legal down to the
+printers, to inexpensive digital storage drives and peer-to-peer file sharing
+networks reduce the price of copying and dissemination to near frictionless
+levels. The response from the film, game, music, and publishing industries has
+been to transpose mechanisms of copyright enforcement from legal down to the
 infrastructural levels of enforcement, as software and hardware: from Code to
 code. In the words of Charles Clark, the late British publisher and prominent
 copyright attorney, "the answer to the machine is in the machine
@@ -1268,20 +1274,19 @@ long-distance coaches and lorries, recording everything that happens to the
 copyrighted or commercially valuable material [...] The basic idea is to link
 the 'valuable material' of intellectual property to a specific piece of
 software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84]. The emergence of such embedded contractual enforcement at the level of
-the device can be subsumed under the broader idea of "smart contracts." In his
-seminal article on "Formalizing and Securing Relationships in Public
-Networks," Nick Szabo explains that "smart contracts combine protocols, user
-interfaces, and promises expressed via those interfaces to formalize and
-secure relationships over computer networks" [@szabo_formalizing_1997]. Clark,
-CITED, and Szabo were instrumental in the rise of smart contracts in the 1990s
-in an attempt to redress the fading efficacy of legal copyright
-protections.[^ln3-smart]
+83-84]. The emergence of such embedded contractual enforcement mechanisms can
+be subsumed under the broader idea of "smart contracts." In his seminal
+article on "Formalizing and Securing Relationships in Public Networks," Nick
+Szabo explained that "smart contracts combine protocols, user interfaces, and
+promises expressed via those interfaces to formalize and secure relationships
+over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo
+were instrumental in the rise of smart contracts in the 1990s in an attempt to
+redress the fading efficacy of legal copyright protections.[^ln3-smart]
 
-"Method and System for Managing a Data Object so as to Comply with
-Predetermined Conditions for Usage" (US5845281, issued in 1998) can be
-instructive in this regard. Greg Benson and Gregory H. Urich, both of Sweden,
-write:
+US patent 5845281, issued in 1998, containing the "Method and System for
+Managing a Data Object so as to Comply with Predetermined Conditions for
+Usage," can be instructive in this regard. Greg Benson and Gregory H. Urich,
+both of Sweden, write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
