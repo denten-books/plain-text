@@ -18,7 +18,9 @@ precisely in the totalizing mediation of code:
 > find the digital and programmatic sign, whose "value" is purely *tactical*,
 > at the intersection of other signals ("bits" of information/tests) whose
 > structure is that of a micromolecular code of command and control
-> [@baudrillard_selected_1988, 139-140].
+> [@baudrillard_simulacra_1994, 139-140].
+
+<!-- check the page numbers -->
 
 My concern here is with the structure of code, the programmatic sign, which
 splits its energies between the screen and hard drive. On the screen, at the
@@ -41,9 +43,9 @@ congeal back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
-[@malinowski_problem_1923, 146; @jakobson_closing_1960, 355]. In the phatic
-function lies the essence of programming. Code shapes and commands. At the
-same time, it conjures fantastical metaphors to occlude the structure of
+[@malinowski_problem_1923, 146; @jakobson_linguistics_1960, 355]. In the
+phatic function lies the essence of programming. Code shapes and commands. At
+the same time, it conjures fantastical metaphors to occlude the structure of
 shaping and commanding. Simulation obscures the incongruence between visible
 representation and the underlying material affordances of the medium. What you
 see is not always what you get. We are instead confronted with a composite
