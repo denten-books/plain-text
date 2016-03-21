@@ -814,26 +814,27 @@ duration of a book's existence. The book itself provides a stable platform for
 a range of reading practices, which include the annotation, copying, and
 preservation of written work. To the extent that books determine the
 affordances of reading, those affordances exhibit historical continuity. For
-example, the format of the book presupposes several physical abilities like
-manual dexterity, reading capability, and eyesight within a specific range of
-vision. Readers falling outside of that range are prevented from accessing the
-text in the specified fashion. The book further affords abilities like
-highlighting and the taking of notes. Empty space on a page around the text
-facilitates marginalia. For the highlighter or the pen to function well the
-printing medium must be made of a porous material, and not, for example,
-plastic, which would make marking the page difficult while affording other
-capabilities, like reading under water.[^ln3-notes]
+example, the book format requires as a precondition of reading certain
+physical capacities: manual dexterity, for example, a level of cognitive
+development, and eyesight within a specific range of vision. Readers falling
+outside of these normalized ranges are prevented from accessing the text in
+the manner specified. The book further affords abilities like highlighting and
+the taking of notes. Empty space on a page around the text facilitates
+marginalia. For the highlighter or the pen to function well the printing
+medium must be made of a porous material, and not, for example, plastic, which
+would make marking the page difficult while affording other capabilities, like
+reading under water.[^ln3-notes]
 
 [ln3-notes]: See @blair_note_2004; @daston_taking_2004; @piper_note_2012.
 
-The affordances of the electronic book are more diffuse. On the one hand, the
-format of the book has been replaced with a multitude of competing digital
-formats, each vying to supplant print to become the singular, unified reading
-platform. Software made by Adobe Systems, the company behind the popular
-Portable Document Format, includes Adobe Digital Editions, which the reader
-can use "to download and purchase digital content, which can be read both
-online and offline. The platform's "features" include the ability to "download
-and transfer books between devices," "searching eBooks," support for multiple
+The affordances of the electronic book are more diffuse. The format of the
+book has been replaced with a multitude of competing digital formats, each
+vying to supplant print to become the singular, unified reading platform.
+Software made by Adobe Systems, the company behind the popular Portable
+Document Format, includes Adobe Digital Editions, which the reader can use "to
+download and purchase digital content, which can be read both online and
+offline. The platform's "features" include the ability to "download and
+transfer books between devices," "searching eBooks," support for multiple
 languages, the ability to borrow books, printing, limited support for visually
 impaired readers, bookmarking, highlights, notes, and file organization
 [@_plans_2016]. Its own competing Adobe Document Cloud reading platform
@@ -845,7 +846,7 @@ The free version does not support bookmarks or document editing. The Pro
 version enables readers to "redact and permanently remove sensitive
 information in PDFs" and to "compare two versions of a document to see what's
 changed" [@_plans_2016]. The Amazon Kindle reader, made by the world's largest
-purveyor of book both print and electronic, includes a feature called "Public
+purveyor of books both print and electronic, includes a feature called "Public
 Notes" which allows Kindle customers to "make their highlights and notes
 available for anyone to see" [@_amazon_2015]. The frequently asked question
 page further explains that "if someone you follow has highlighted a passage in
@@ -873,38 +874,46 @@ its content tailored to the reader's geography dynamically.
 In each case, Adobe and Amazon, we observe an attempt to supplant the
 affordances of the book with a range of other, competing affordances
 particular to the company's proprietary document format. The Amazon book and
-the Kindle book are read in a different way. And we are yet to discover the
-extent to which they are capable of governing reading.
+the Kindle book are read in different ways. Where the mechanics of the book
+are relatively well-known---the way paper absorb ink or the hinge-like action
+of the spine and boards---we are yet to discover the potentialities of
+electronic reading. Or, rather, the potentialities of electronic reading
+change dynamically, day to day, with each software update. The electronic book
+is not one format, but many, each entailing a number of emendatory
+compromises. They require a book history and a poetics---how is it made---in
+another sense, on the material level, at the source of knowledge production.
 
-On the other hand, contrary to the above remarks, my notes on the diffuse
-affordances of the electronic book hold true only for interaction through the
-sanctioned "front end" modes of textual interface. For example, note that all
-of the major book platforms I have mentioned so far are coupled tightly with
-their respective book markets. Both Amazon and Adobe sell books in a way that
-is not compatible with one another, or with other electronic book platforms.
-Further, note that whatever the comparative affordances of reading an Amazon
-ebook versus the book expressed in the Adobe Document Cloud, the software must
-emulate the logics of document ownership. To own an electronic book or a
-document implies the ability to perform significantly different actions
-depending on the specific affordances of the given platform. In another sense,
-to own a book in each case means to have access to the bits that bring the
-simulation of the book into existence. At some lower level of abstraction the
-variety of reading platforms rest on the same computational substratum. Both
-Amazon and Adobe books rely on the underlying capabilities of the personal
-computer. This base hyper-media, as Lev Manovich calls it, supports all
-simulacra, including the bibliographic [@manovich_software_2013]. Whatever it
-means to own a book, must involve the computer. A common act of epistemic
-disobedience, to borrow from Walter Mignolo, therefore includes accessing the
-book bits directly, through channels afforded not by the publisher but by the
-device manufacturer [@mignolo_epistemic_2009]. One can for example disentangle
-mechanism of book ownership enforced by Amazon, from the book's "content." The
-so called "ripping" of the Kindle book library involves reformatting
-individual books into other file formats which could hypothetically enable
-unfettered copying and circulation, constrained by the original platform. The
-activity need not be illicit. The extraction of plain text from the Portable
-Document Format commonly constitutes the initial step in scholarly corpus
-analysis or distant reading. At the very least, I am able to simply copy the
-words on my screen into another format by hand.
+Contrary to the above remarks, my notes on the diffuse affordances of the
+electronic book hold true only for interaction through the sanctioned "front
+end" modes of interaction with digital literary artifacts. For example, note
+that all of the major book platforms I have mentioned so far are coupled
+tightly with their respective book markets. Both Amazon and Adobe sell books
+in a way that is not compatible with one another, nor with other electronic
+book platforms. Further, note that whatever the comparative affordances of
+reading an Amazon ebook versus the book expressed in the Adobe Document Cloud,
+the software must emulate the logics of document ownership. To own an
+electronic book or a document implies the ability to perform significantly
+differing actions depending on the specific affordances of the given platform.
+In another sense, to own a book in each case means to have access to the bits
+that bring the simulation of the book into existence. At some lower level of
+abstraction the variety of reading platforms rest on the same computational
+substratum. Both Amazon and Adobe books rely on the underlying capabilities of
+the personal computer. This hyper-media, as Lev Manovich calls it, at the base
+of all competing ebook formats, supports all simulacra, including the
+bibliographic [@manovich_software_2013]. Whatever it means to own a book, must
+involve manipulating bits on a hard drive. A common act of epistemic
+disobedience, to borrow a phrase from Walter Mignolo, therefore includes
+accessing the book bits directly, through channels not afforded by the
+publisher [@mignolo_epistemic_2009]. One can in this way disentangle the
+mechanisms of book ownership as defined by Amazon, from the book's "content"
+proper, by other definitions. The so called "ripping" of the Kindle book
+library involves reformatting individual books into other file formats which
+could hypothetically enable unfettered copying and circulation of the text,
+constrained by the original platform. The activity need not be illicit. The
+extraction of plain text from the Portable Document Format commonly
+constitutes the initial step in corpus analysis, natural language processing,
+and otherwise distant reading. We lend our books to friends, read them out
+loud with our students, and make backup copies for our home libraries.
 
 In each of the above examples, the reader confronts some aspect of formatting
 instrumentally, for a particular purpose like copying, analysis, or
@@ -912,42 +921,44 @@ preservation. I am however also interested in a more systematic wholesale
 exposition of electronic document structure. Reading for format involves the
 deconstruction, both literal and figuratively historical, of the literary
 device. Where paper books present the reader with a limited set of known
-affordances tied to the print medium, electronic books present us with a
-virtually limitless and for the most part unexamined set of simulated
-affordances. Whatever interpretive activity readers hope to enact at the level
-of textual representation is grounded in the material affordances of the
-simulated book. The responsibility for formatting no longer belongs to the
-singular act of edition making. A number of agents actively intercede in the
-transition between the inscription---information on a disk---and its
+affordances tied to the medium of print, electronic books contain a virtually
+limitless and for the most part unexamined set of simulated affordances.
+Whatever interpretive activity readers hope to enact at the level of textual
+representation, as when reading from a screen, is grounded in the deep
+material affordances of the simulated book. Further, the tasks of formatting
+are no longer the exclusive domain of the typesetter, the editor, or the
+textual scholar. A number of additional agents actively intercede in the
+transformation between the inscription---information on a disk---and its
 representation---pixels on the screen. These intercessions may be benign, as
 when the electronic book changes the layout of the text to fit a smaller
 screen when displaying text on mobile devices; or it may be totalizing as when
 a book platform is designed also to censor or to surveil its readers for
 commercial or political purposes. Reading for format reveals the structure of
 the transformation between media: the liquid crystal, the floating gate, and
-the entorhinal grid. The format governs and controls in the sense of
-shaping the encounter between otherwise incommensurate systems, hardware and
+the entorhinal grid. The format governs and controls in the sense of shaping
+the encounter between otherwise incommensurate systems, hardware and
 wetware---storage, screen, and brain.
 
 [^ln3-hex]: In this last regard see @stensola_entorhinal_2012. This
 ground-breaking work describes the structure of data in the human brain.
 
-A notion of formatting underlies all contemporary digital documents. The
-history of formatting reveals a structure that emerges initially for the
-purposes of visual layout, developing into an active agent containing
+A notion of a format underlies all contemporary digital documents. The history
+of format reveals a structure that emerges initially for the purposes of
+visual layout, developing into an active agent containing exactly the kind of
 "instructions for reading, viewing, and comprehending information" of the sort
-Drucker and McGann highlight in their work. I would like to spend the second
-half of this chapter on several case studies from the still unwritten history
-of formatting. These case studies will help test our theoretical intuitions
-about form in practice. They serve also to convince the reader of the
-continual importance of textual criticism and format studies for the
-advancement of literary scholarship and more broadly for the politics of
-reading and interpretation at large. If, as we conventionally intuit, the
-format layer arbitrates between medium and symbol---word and page---then it
-must also play a part in the encounter between human and text. Format in a
-sense determines the available reading strategies, including the one of not
-reading at all: thus an archive under lock and key, the management of copy
-rights and borrowing privileges, the sensor's viscous black ink.
+Drucker and McGann highlight in their work. With that insight at hand, I would
+like to spend the second half of this chapter on several case studies from the
+still unwritten history of document formatting. These case studies will help
+test our theoretical intuitions about form in practice. They serve also to
+convince the reader of the continual importance of textual criticism and
+format studies for the advancement of literary scholarship and more broadly
+for the politics of reading and interpretation at large. The formatting layer
+arbitrates between medium and inscription, page and word. It is arbitrary in
+the sense of imposing a set of rules, preferences, and stipulations. It
+polices access to closed archives; it manages copy rights and borrowing
+privileges; it governs the flow of a sensor's ink. Format in that sense
+determines the available reading strategies, including the one of not reading
+at all.
 
 ![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
