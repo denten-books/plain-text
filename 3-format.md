@@ -699,23 +699,25 @@ To borrow from Tanselle's vocabulary, the format bridges the "physical
 structure of finished books" with their "intellectual content." This
 connection happens through what Tanselle calls "printing-shop routines" and
 what we began to identify in the previous chapter as a kind of a technique for
-the transformation of ideas into things. The task of a scholar interested in
-formatting is therefore to arbitrate in the conflict between the extant
-textual witnesses that individually contain slightly differing versions of the
-same text, but in aggregate identify the sum total of a given
-work.[^ln3-printers] The scholar of format studies how works become texts and
-the other way around. It is in this sense, for example, that the textual
-critic C. Deirdre Phelps describes the notion of physical form in textual
-criticism. In creating a physical manifestation of a text, publishers
-introduce textual changes that may or may not correspond to either authorial
-intention or the reader's expectations. For example, we could imagine an
-inexpensive edition of poetry by William Blake that was printed without
-illustrations, to save costs, where we know such illustrations to be integral
-to the meaning of his work. If we subsequently lose all other editions of
-Blake, the textual critic may be interested in reconstructing the
-bibliographic genealogy of this one edition to understand something about the
-life of the work. "The textual critic is concerned mainly with the fact of the
-[textual] change itself," Phelps writes [@phelps_edition_1994, 65-6].
+the transformation of ideas into inscription things. The scholar interested in
+formatting traditionally arbitrated in the conflict between the extant textual
+witnesses that individually contain slightly differing versions of the same
+text, but in aggregate identify the sum total of a given work in the
+abstract.[^ln3-printers] The scholar of format studies how works become texts
+and the other way around. It is in this sense of arbitration, for example,
+that the textual critic C. Deirdre Phelps describes the notion of physical
+form in textual criticism. When instantiating the ideal text into its concrete
+being, publishers introduce textual changes that may or may not correspond to
+either authorial intention or the reader's expectations. For example, we could
+imagine an inexpensive edition of poetry by William Blake that was to be
+printed without illustrations, to save costs, where we know such illustrations
+to be integral to the meaning of his work. If we subsequently lose all other
+editions of Blake's poetry, the textual critic may be interested in
+reconstructing the bibliographic genealogy of this one edition to understand
+something about the life of the work and about the choices that have led to
+the perceived loss of fidelity to a certain tradition of publishing Blake.
+"The textual critic is concerned mainly with the fact of the [textual] change
+itself," Phelps writes [@phelps_edition_1994, 65-6].
 
 [^ln3-printers]: See for example the discussion on the limits of the inductive
 method in bibliographic study in @mckenzie_making_2002, 16-17. See also
@@ -732,12 +734,12 @@ indentation, preserving the perceived integrity of the poem's visual line
 structure. However, they have also allowed for the text to wrap when viewed on
 small devices, in effect "soft wrapping" those lyrical lines that are too long
 to fit on a small screen [@mckay_harlem_2015]. The end result is a compromise
-between authorial intent and technological capability. The layout respects
-line indentation but not line length. Other solutions are possible, of course.
-The editors could have chosen to recreate an exact graphical facsimile of a
-particular print edition, which would not render well on small screen due to
-the disparity in size. The choice to preserve certain attributes of
-formatting, while suppressing others identifies those elements meaningful to
+between authorial intent and a reader's convenience. The layout respects line
+indentation but not line length. Other solutions were possible, of course. The
+editors could have chosen to recreate an exact graphical facsimile of a
+particular print edition, which would not render well on small screens due to
+the disparity in size. The choice to preserve certain attributes of formatting
+while suppressing others identifies those elements particularly meaningful to
 the editors. In the most extreme case, we could imagine an editor wanting to
 preserve all of a text's details, down to the molecular structure of the
 original. Such a text could be accompanied by a potentially unlimited amount
@@ -745,28 +747,30 @@ of metadata describing the precise physical contexts of the universe
 surrounding the authoritative version. To reproduce the text faithfully would
 mean to reproduce the world around it. We do not, however, as readers, usually
 care for the entirety of a text's physical attributes. Contingent stains or
-scratches in the manuscript or the authoritative edition are usually discarded
+scratches in the manuscript, typos in the critical edition, printer error,
+pages inadvertently bound upside down, and other flaws are usually discarded
 in reproduction. They are not seen as meaningful for the understanding of
 text.
 
-Thus when we think of Shakespeare's *King Lear*, for example, whatever is
-meant by the "format" of the play belongs neither wholly to its physical
-medium (pixel or paper) nor to the ideational content of the work. Format, in
-that sense, lies somewhere between the two worlds: it is in the shape of the
-letters, in the structure of the narrative, and in the prosody of the word. We
-do not quite know which of these elements belong to the content of the play
-and which are the contingent material artifacts of the printing process: the
-way the fonts look, for example, or the way lines break on the page. Some
-matters of format matter to us as readers (line breaks in poetry, for
-example), while others may not (font kerning, for example). The tradition of
-textual criticism reminds the literary theorist of the transition that happens
-between literary texts and literary works. The transformation between ideas
-and things is always a fraught process, because whatever the theorist may
-believe about the dynamics of interpretation must be weighed against the
-material affordances of the specific textual witness. A word or comma omitted
-from text cannot ever become a part of its meaning making processes. Format
-stands at the gates of hermeneutics. It is the ultimate arbiter of
-interpretation.
+When we think of a canonical text---Shakespeare's *King Lear*, for
+example---whatever is meant by the "format" of the play belongs neither wholly
+to its physical medium (pixel or paper) nor to the ideational content of the
+work. Format, in that sense, lies somewhere between the two worlds: it is in
+the shape of the letters, in the structure of the narrative, and in the
+patterns of stress and intonation of word spoken on stage. We do not quite
+know which of these elements belong to the content of the play and which are
+linked to the contingent material artifacts of the printing or staging
+process: the way the fonts look, for example, or the way lines break on the
+page. Some matters of format matter to readers (line breaks in poetry, for
+example), while others usually do not (font kerning, for example). The
+tradition of textual criticism reminds the literary theorist of the transition
+that happens between literary texts and literary works. The transformation
+between ideas and things is always a fraught process, because whatever the
+theorist may believe about the dynamics of interpretation must be weighed
+against the material affordances of the specific textual witness. A word or
+comma omitted from text, a forgotten line, cannot ever become a part of the
+meaning making processes. Format stands at the gates of hermeneutics. It is
+the ultimate arbiter of interpretation.
 
 [^ln3-remind]: See for example @shillingsburg_being_2006;
 @greetham_textual_1989.
@@ -781,21 +785,24 @@ authors call the "holistic repleteness of images" also keeps us from
 perceiving their "conceptual order [...] as if the graphic character of the
 work were completely obvious" [@drucker_images_2010]. This important insight
 captures the dual movement of formatting at once towards the physical
-characteristics of the text and towards the mental characteristics of the
-content. Ideationally, the reader understands the text to be a mental
-construct that takes shape in the mind. The book retreats from the grasp, as
-Percy Lubbock wrote in *The Craft of Fiction*. Subsequently, readers tend to
-treat text in a disembodied fashion---as surface rhetoric---forgetting about
-the material structures that support mental phenomena. Phenomenologically
-speaking however, the page presents itself holistically, at once, as a unified
-image, in what the Drucker and McGann call its "holistic repleteness." It is
-as if it was always so: these words were always in this order, at these
-coordinates. The printer and the book designer know the image to be a
-constructed composite. They understand and can name the particulates of page
-composition invisible to the lay reader. Drucker and McGann conclude that
-"systems of graphic presentation are operational, not merely passive schematic
-structures [...] active agents for creating meaning, instructions for reading,
-viewing, comprehending information [@drucker_images_2010].
+characteristics of the text and towards the mental characteristics of content.
+The reader understands the text as an idea, that takes shape in the mind. The
+book thus retreats from grasp, as Percy Lubbock wrote in *The Craft of
+Fiction* [@lubbock_craft_1921]. Subsequently, readers tend to treat text in a
+disembodied fashion---as surface rhetoric---reading past the material
+structures that support mental phenomena. As visual phenomenon, a unified
+image, the page presents itself in its entirety, at once, in what the Drucker
+and McGann call its "holistic repleteness." It is as if it was always so:
+these words were always in this order, at these coordinates. However, the
+printer and the book designer know the image to be a carefully constructed
+composite. They understand and can name the particulates of page composition
+invisible to the lay reader. Drucker and McGann conclude that "systems of
+graphic presentation are operational, not merely passive schematic structures
+[...] active agents for creating meaning, instructions for reading, viewing,
+comprehending information [@drucker_images_2010]. Choices were made, in other
+words, that would later affect meaning making. Apprehension precedes
+comprehension. The processes of interpretation have long began and in some
+cases concluded long before the reader laid eyes on the page.
 
 We are finally confronted with several concrete differences between print and
 digital formats for text resolution. Editors and textual scholars negotiate
