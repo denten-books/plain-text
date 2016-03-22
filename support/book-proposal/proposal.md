@@ -3,51 +3,31 @@ title: "Plain Text: The Poetics of Human--Computer Interaction (Book Proposal)"
 author: Dennis Tenen
 
 ---
-\newpage
 
 ## Theme and Argument (Placeholder)
+
+This book is about the strange entanglement between humans, texts, and
+machines. It examines key literary theoretical ideas alongside the
+intellectual history of software engineering that frame contemporary reading,
+writing, and interpretation practices. It is a deeply materialist work, in
+which I argue that even our most ingrained intuitions about texts are
+profoundly alienated from the physical contexts of intellectual production. A
+new kind of poetics is therefore necessary to preserve the free play of ideas
+implicit in the method of humanistic inquiry. Often, the work of literary
+theory defines itself in terms of specific texts, as a series of readings. My
+object of study is instead the nature of textuality itself. I am interested
+here in how texts are produced; in the metaphors that guide computation; in
+the forms, formulae, and formats that structure human-computer interaction; in
+the literary device; and in the strange shape of contemporary inscription,
+which, no longer a single mark on paper, stretches between the site of
+fleeting projection, the screen, and the site of storage in its solid,
+archival state. In quite another sense, this book is about more than words,
+screens, and archives: it reasons through the dynamics of technological
+settlement and displacement, through the comforts and the discomforts of
+inhabiting our numerous extensions of self, our media homes.
+
+
 ## Annotated Table of Contents
-### Tech Appendix (optional)
-
-The book assumes no prior technical expertise. It can be read sequentially as a
-conventional piece of scholarship in literary/textual theory or new media
-studies. But, because much of the book deals with conditions of textuality
-extant and recoverable from modern computing devices, I propose to heed the
-call of scholars like Jerome McGann and Wendy Chun for the advancement of
-theory through practice. To this end, I envision an optional appendix that can
-exist on paper or as a companion website, creating an "augmented reading
-environment." The appendix would follow each chapter (sequentially) with a
-series of experiments at the "command line," a powerful text-based way of
-interacting with the computer.
-
-Inspired by the ethos found in Kenneth Ward Church's classic "Unix for Poets"
-and by the form of Roland Barthes's seminal *S/Z*, the appendix gives readers
-an opportunity to test theoretical intuitions found in the body of the book
-against the reality of contemporary computation. For example, the difference
-between binary and plain text formats (discussed in the early chapters) could
-be made more apparent in comparing the output of `cat file.txt` and `cat
-file.pdf` in the terminal.[^ln-cat] In the later chapters, the conversation on
-access could be augmented with an exercise on file permissions. Diagnostic
-utilities like `ping` and `traceroute` would be brought to bear on network
-effects mentioned in the "Bad Links" chapter. In this way, the appendix can
-serve to extend historical and theoretical awareness into practical know-how.
-An intuitive understanding of the political issues surrounding digital text, be
-they "open access," "freedom of information," or "online censorship," begins to
-develop at that instrumental level.
-
-Ready-made tools and graphical interfaces for human-computer interaction often
-obscure the underlying complexity of the computational environment. For
-example, while writing a relatively complicated piece of code, a journalist in
-my digital humanities class once confessed to being confused about the
-relationship between files and folders. *Plain Text* is a book *about* files
-and folders: it is about textuality as encoded in specific ways on machines
-that have a shared material history. The book's technical appendix, although
-not required for the comprehension of its main ideas, would help cultivate
-theoretical intuitions based not on speculation alone but also on "knowledge at
-hand."
-
-[^ln-cat]: Use actual file names if you plan to test this out.
-
 ## Field Significance
 
 The book seeks to redress a weakness in the field of digital humanities,
