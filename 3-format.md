@@ -322,7 +322,7 @@ desk. The modified chair remains a chair. As before, flaws and emendations are
 considered insignificant when compared to the perfected form of the ideal
 chair. In the idealist tradition, ideas provide us with lasting universal
 "templates" for instantiation within the contingent and always changing
-physical confines of the material world.[^ln4-descartes]
+physical confines of the material world.[^ln3-descartes]
 
 So far, I have been using the term "form" quite liberally, relying on the
 reader's intuitions about its use in everyday language. A closer look at the
@@ -377,7 +377,7 @@ or form stands for the "universal lasting ideal" of all shuttles: exactly the
 opposite of *phantazomenōn* as "ephemeral instantiation" in the previous
 passage! Yet both *eidos* and *phantazomenōn* were reasonably translated into
 the English "form," indicating the way in which the concept is often made to
-carry both of these conflicting meanings.[^ln4-plato]
+carry both of these conflicting meanings.[^ln3-plato]
 
 The overdetermination of form persists similarly in many English translations
 of G.W.F. Hegel, whose discussion of Platonic forms gives us another
@@ -1119,14 +1119,14 @@ essence an intermediary map or a blueprint of the intended document. The
 blueprint is not quite concrete, however, because the machine must anticipate
 number of possible two-dimensional spaces like pages and screens of differing
 sizes, signifying relationships between elements within a range of possible
-concrete objects."[^ln4-dom] In order to materialize, the hierarchical model
+concrete objects."[^ln3-dom] In order to materialize, the hierarchical model
 must be arranged and fixed into the surface of an actual medium, according to
 a set of predefined rules specified in the model. These media have actual
 dimensions. In this way, a footnote specified "at the bottom of the page" at
 the level of the model can then be rendered one way at the bottom of a
 specific page of a certain size, like A1 (841mm × 1,189mm) for example, and in
 another way at the bottom of another specific piece of paper of a much smaller
-A4-sized sheet (210mm × 297mm).[^ln4-iso216] Viewing and printing operations
+A4-sized sheet (210mm × 297mm).[^ln3-iso216] Viewing and printing operations
 constitute a movement opposite to that of optical character recognition. In
 printing a document, the machine creates a static image, which flattens out
 the layers of content and visual style. Abstract objects specified by the
@@ -1180,45 +1180,8 @@ oxide. The move between paper and such *composite media* carries with it a
 profound shift in the physical affordances of everyday document. Not much
 space separates ink from paper. There, textuality lies flat, in two
 dimensions. What you see is truly what you get. Not so on the screen connected
-to other drives, keyboards, and screens. Networked and time-shared textuality
-extends into the third dimension, away from the reader and deep into the
-bowels of the machine.
-
-I would like to conclude this chapter 
-
-The Open Systems Interconnection (OSI) reference model of
-communication[^ln3-osi] describes no less than seven layers of communication
-involved in the simple act of sending an email or reading a newspaper online.
-It includes the Application Layer, concerned with the semantics of application
-("all services directly comprehensible to the user to the Physical Layer,
-providing the "mechanical, electrical, functional, and procedural
-characteristics" of communication.[^ln3-layers] These protocols further
-envelop a content already thickly stratified within the document object model,
-as I have described it above [@miller_iso_1981, 285; @ncs_open_1981;
-@ncs_national_1988; @day_revised_1995].[^ln3-domlayer]
-
-[^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
-model.
-
-![A zoomed out view of the connected OSI model. Single node structure on the
-left. Connected devices on the right. The user has access through the top-most
-(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
-114-15].](images/osi.png)
-
-In his book on protocols, Alexander Galloway discussed the Open Systems
-Interconnection model in reference to what he calls the distributed and
-decentralized networks of control [@galloway_protocol_2006, 28-54]. The system
-described the OSI standard describes is distributed to be sure, although to
-what extent it is decentralized is a matter of some debate. Like a good
-soldier, each device in the pictured network internalizes dozens if not
-hundreds of protocols that enable the system to function seamlessly as a whole
-(in the way, for example, that your machine can at one moment connect to one
-wireless access point, and at another moment to another, with minimal loss of
-connectivity). Yet, OSI protocols and the document object model hierarchies
-are also densely consolidated. They are, for example, legislated by specific
-international governing bodies like the World Wide Web Consortium, with a
-member list that includes government organizations and large corporate
-interests.[^ln3-w3c]
+to other drives, keyboards, and screens. Networked textuality extends into the
+third dimension, away from the reader and deep into the bowels of the machine.
 
 Stretched between the sites of its archive and its projection, the solid state
 drive and the screen, the inscription travels along a long "pipeline" of
@@ -1236,6 +1199,46 @@ emanating from the application layer, and, at that, only at the exposed
 comprises only a small fraction of the underlying formal topology. What you
 see is far less than what you get.
 
+I would like to conclude this chapter with a glimpse of several obvious
+formatting structures that increasingly mediate in numerous everyday acts of
+of contemporary reading. The Open Systems Interconnection (OSI) reference
+model of communication, implemented in every computer including electronic
+book readers, describes no less than seven layers of communication involved in
+the simple act of sending an email, taking notes in the margins of a networked
+book, or reading a newspaper online.[^ln3-osi] It includes, among others, the
+Application Layer, concerned with the semantics of "all services directly
+comprehensible to the user," the Presentation Layer, which defines the syntax
+for the "representation of the data to be transferred," and the Physical
+Layer, providing the "mechanical, electrical, functional, and procedural
+characteristics" of communication.[^ln3-layers] The specifics of the technical
+documentation are not important for now. Consider only the complexity of the
+entire stratified structure, in which whatever is meant by "content" is
+enveloped within a multiplicity of standards, references, models, and formats
+[@miller_iso_1981, 285; @ncs_open_1981; @ncs_national_1988;
+@day_revised_1995].[^ln3-domlayer] These are not hypothetical considerations.
+They define the medium---the physical preconditions---of digital, simulated
+text.
+
+![A zoomed out view of the connected OSI model. Single node structure on the
+left. Connected devices on the right. The user has access through the top-most
+(application) level, outermost to the network [@piatkowski_iso-ansi_1980,
+114-15].](images/osi.png)
+
+In his book on protocols, Alexander Galloway discussed the Open Systems
+Interconnection model in reference to what he calls the distributed and
+decentralized networks of control [@galloway_protocol_2006, 28-54]. The OSI
+standard can be called distributed to be sure, although to what extent it is
+decentralized is a matter of some debate. Like a good soldier, each device in
+the network of textual machines connected to other textual machines
+internalizes dozens if not hundreds of protocols that enable the system to
+function seamlessly as a whole, in the way, for example, that your portable
+electronics can at one moment connect to one wireless access point, and at
+another moment to another, with minimal loss of connectivity. Nevertheless,
+communication protocols and document object model hierarchies are also densely
+consolidated. They are, for example, legislated by specific international
+governing bodies like the World Wide Web Consortium, with a member list that
+includes government organizations and large corporate interests.[^ln3-w3c]
+
 The reading subject interacts with the application layer and therefore with
 the dynamics of text transformation only superficially. Access to deeper
 layers is sometimes merely obscured by the complexity of technology. At other
@@ -1250,14 +1253,15 @@ derivative works," "to distribute copies," and "to perform and to display
 publicly" (17.1.106). Surface representation is further subject to
 professional rules of conduct, embodied in practices of quotation, citation,
 and attribution (or lack thereof, as plagiarism). In practice, the easy
-reproducibility of digital text (and image) has served to erode the efficacy
-of copyright restrictions. The work of art in the age of digital reproduction
-has lost much of its already tenuous hold on the material
-substratum.[^ln3-illusion] Copy technologies from photocopiers, to desktop
-printers, to inexpensive digital storage drives and peer-to-peer file sharing
-networks reduce the price of copying and dissemination to near frictionless
-levels. The response from the film, game, music, and publishing industries has
-been to transpose mechanisms of copyright enforcement from legal down to the
+reproducibility of digital media has served to erode the efficacy of copyright
+restrictions. The work of art in the age of digital reproduction has lost much
+of its already tenuous hold on the material substratum.[^ln3-illusion]
+Photocopiers, desktop printers, inexpensive digital storage drives, and
+peer-to-peer file sharing networks reduce the carries to the copying and the
+dissemination of media.
+
+The response from the film, game, music, and publishing industries has been to
+transpose mechanisms of copyright enforcement from legal down to the
 infrastructural levels of enforcement, as software and hardware: from Code to
 code. In the words of Charles Clark, the late British publisher and prominent
 copyright attorney, "the answer to the machine is in the machine
@@ -1265,28 +1269,27 @@ copyright attorney, "the answer to the machine is in the machine
 should be taken up on the device level by the International Standards
 Organization, the very body responsible for maintaining the standards for the
 Document Object Model and the OSI communication protocol stack
-[@clark_copyright_1996, 84].
+[@clark_copyright_1996, 84]. As an example of how that might work, Clark cites
+the Copyright in Transmitted Electronic Data Report (CITED), which suggests
+building "a tamper proof software module which acts rather like indestructible
+tachometers installed on long-distance coaches and lorries, recording
+everything that happens to the copyrighted or commercially valuable material
+[...] The basic idea is to link the 'valuable material' of intellectual
+property to a specific piece of software and hardware"
+[@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84].
 
-As an example of how that might work, Clark cites the Copyright in Transmitted
-Electronic Data Report (CITED), which suggests building "a tamper proof
-software module which acts rather like indestructible tachometers installed on
-long-distance coaches and lorries, recording everything that happens to the
-copyrighted or commercially valuable material [...] The basic idea is to link
-the 'valuable material' of intellectual property to a specific piece of
-software and hardware" [@consortium_c.i.t.e.d._1994; @clark_copyright_1996,
-83-84]. The emergence of such embedded contractual enforcement mechanisms can
-be subsumed under the broader idea of "smart contracts." In his seminal
-article on "Formalizing and Securing Relationships in Public Networks," Nick
-Szabo explained that "smart contracts combine protocols, user interfaces, and
+The emergence of such embedded contractual enforcement mechanisms can be
+subsumed under the broader idea of "smart contracts." In his seminal article
+on "Formalizing and Securing Relationships in Public Networks," Nick Szabo
+explained that "smart contracts combine protocols, user interfaces, and
 promises expressed via those interfaces to formalize and secure relationships
 over computer networks" [@szabo_formalizing_1997]. Clark, CITED, and Szabo
 were instrumental in the rise of smart contracts in the 1990s in an attempt to
-redress the fading efficacy of legal copyright protections.[^ln3-smart]
-
-US patent 5845281, issued in 1998, containing the "Method and System for
-Managing a Data Object so as to Comply with Predetermined Conditions for
-Usage," can be instructive in this regard. Greg Benson and Gregory H. Urich,
-both of Sweden, write:
+redress the fading efficacy of legal copyright protections.[^ln3-smart] US
+patent 5845281, issued in 1998, containing the "Method and System for Managing
+a Data Object so as to Comply with Predetermined Conditions for Usage," is
+instructive in this regard. Greg Benson and Gregory H. Urich, both of Sweden,
+write:
 
 > The data object owner may want to have permanent secure control over how,
 when, where, and by whom his property is used. Furthermore, he may want to
@@ -1304,86 +1307,86 @@ contain a control layer that would "comply with predetermined conditions of
 usage," in a way that can be "universally adapted to the needs of both the
 owner and the user of the data object" [@benson_method_1998, 2:55].
 
-!["Concatenated control data and AVI file in memory" [@benson_method_1998].](images/avi-control.png)
+!["Concatenated control data and AVI file in memory"
+[@benson_method_1998].](images/avi-control.png)
 
 !["Concatenated and encrypted control data and AVI file in memory"
 [@benson_method_1998].](images/avi-control2.png)
 
 The associated schematics (pictured here) show data and control codes
 "concatenated" into the same underlying data structure (in this case, AVI
-media container format). The seemingly innocuous "text control" layer of the
-1960s, used to specify formatting and visual style, was now extended to carry
-mechanisms for legal control, tied to specific legislation.
+media container format). The seemingly innocuous "text control" layer that we
+saw emerge in the 1960s, used to specify formatting and visual style, is now
+extended to carry mechanisms for legal policing and control, tied to specific
+acts of legislation.
 
-The idea of smart contracts contains a notable artifact of implementation,
+The idea of smart contracts entails a notable side-effect of implementation,
 relevant to our discussion on surface reading. To the extent that control
 codes are legible to the interpreter, they are also open to "abuse and
 circumvention." For this reason, encryption plays a key part in the smart
-contracts system. Once intertwined, data and control are often encrypted to
-prevent "unauthorized access." This brings us to the glaring problem at the
-very heart of smart contract implementation. The spirit of contractual law by
-its very nature demands *explicit* consent. In the language of English common
-law, contracts involve promises as "manifestation of intention," which "adopt
-an external or objective standard for interpreting conduct
+contracts system. Data and control structures embedded into modern documents
+are encoded in such a way as to to prevent "unauthorized access." The reader
+is by these means able to access the encrypted information only through
+sanctioned means. Any mode of access other than the official is deemed
+illicit. Encryption brings us to the glaring problem at the very heart of
+smart contracts. The spirit of contractual law by its very nature demands
+explicit consent. In the language of English common law, contracts involve
+promises as "manifestation of intention," which "adopt an external or
+objective standard for interpreting conduct
 [@american_law_institute_restatement_1973, §1-2.]" The key words in this
-passage are "external," "objective," and "interpretation."
-
-By contrast, smart contracts, as described in the patent archive, must rely on
-encrypted---that is, not human-legible---forms of tacit compliance: neither
-external, objective, nor available for interpretation. The idea of encrypted
-consent stands in stark opposition to a tradition of contract law that relies
-on models of consent that involve expressed, mutual, explicit, and uncoerced
-forms of acquiescence. Even if smart contracts were to be accompanied by
-legible documentation (as Terms of Service, for example), the reader of an
-electronic book would be compelled to blindly trust in the correspondence
-between the expressed letter and the implicit mechanism of the document---the
-implementation still enacted beyond scrutiny, in the form of hidden,
-encrypted, and purposefully illegible script.
+passage are "external," "objective," and "interpretation." By contrast, smart
+contracts, as described in the patent archive, must rely on encrypted---that
+is, not human-legible---forms of tacit compliance: neither external,
+objective, nor available for interpretation. The idea of encrypted consent
+stands in stark opposition to a tradition of contract law---and textual
+interpretation more generally---that relies on models of comprehension and
+consent that involve expressed, mutual, explicit, and uncoerced forms of
+acquiescence. Even if smart contracts were to be accompanied by legible
+documents, written in plain text---as Terms of Service, for example---the
+reader of an electronic book would be compelled to blindly trust in the
+correspondence between the expressed letter and the implicit mechanism. The
+contract is meaningless if its implementation is enacted beyond scrutiny, in
+the form of hidden, encrypted, and purposefully illegible scripts.
 
 Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
 person shall circumvent a technological measure that effectively controls
-access to a work protected under this title (17.1201.a.1.A)." The letter of the
-law further specifies that to "circumvent a technological measure," in this
-case, means "to descramble a scrambled work, to decrypt an encrypted work, or
-otherwise to avoid, bypass, remove, deactivate, or impair a technological
-measure, without the authority of the copyright owner (17.1201.a.3.A)." A
-technological measure that "effectively controls access" is further defined as
-a measure that "in the ordinary course of its operation, requires the
-application of information, or a process or a treatment, with the authority of
-the copyright owner, to gain access to the work (17.1201.a.3.B)." For a
-literary scholar, that means that, when encountering a text on a digital
+access to a work protected under this title (17.1201.a.1.A)." The letter of
+the law further specifies that to "circumvent a technological measure," in
+this case, means "to descramble a scrambled work, to decrypt an encrypted
+work, or otherwise to avoid, bypass, remove, deactivate, or impair a
+technological measure, without the authority of the copyright owner
+(17.1201.a.3.A)." A technological measure that "effectively controls access"
+is further defined as a measure that "in the ordinary course of its operation,
+requires the application of information, or a process or a treatment, with the
+authority of the copyright owner, to gain access to the work (17.1201.a.3.B)."
+For a literary scholar, that means that, when encountering a text on a digital
 device, reading sometimes *must* limit itself to surface phenomena. An attempt
 at reading for depth---to discover the implemented terms of a smart contract,
-for example---may carry with it a set of official (even criminal)
-sanctions.[^ln3-fairuse]
+for example---may carry with penalty, censure, and reprobation.[^ln3-fairuse]
 
 The short history of DMCA "anti-circumvention" provisions is already littered
 with ambiguous case law, which the Electronic Frontiers Foundation believes to
 have the effect of "stifling a wide range of legitimate activities," "chilling
 free expression and academic research," "jeopardizing fair use," and "impeding
 innovation [@von_lohmann_unintended_2010]." Several incidents stand out as
-particularly relevant to the study of literature. One, a security researcher
-exploring the activity of censorship filters on public library computers was
-threatened and forced to seek DMCA exemption from the Librarian of Congress
-[@fry_circumventing_2009]. Two, a Russian programmer speaking at a security
-conference was jailed and detained for several months for developing software
-that converts Adobe electronic book files into `.pdf` format, in a process
-that could potentially remove embedded digital rights management protections
-[@ferullo_major_2004; @mueller_reinventing_2004; @postigo_information_2010].
-Finally, in 2005 Agfa Monotype Corporation took Adobe Systems to court in a
-dispute over the Adobe Acrobat "Free Text" tool, which allowed users to
-"change text annotations using Plaintiff's TrueType fonts" without a license
-[@_agfa_2005; @lipton_c_2009; @von_lohmann_unintended_2010]. The precedent of
-these cases could be used to physically limit the efficacy of reading digital
+particularly relevant to the study of literature. In one, a security
+researcher exploring the activity of censorship filters on public library
+computers was threatened and forced to seek DMCA exemption from the Librarian
+of Congress [@fry_circumventing_2009]. In another, a Russian programmer
+speaking at a security conference was jailed and detained for several months
+for developing software that converts Adobe electronic book files into `.pdf`
+format, in a process that could potentially remove embedded digital rights
+management protections [@ferullo_major_2004; @mueller_reinventing_2004;
+@postigo_information_2010]. Finally, in 2005 Agfa Monotype Corporation took
+Adobe Systems to court in a dispute over the Adobe Acrobat "Free Text" tool,
+which allowed users to "change text annotations using Plaintiff's TrueType
+fonts" without a license [@_agfa_2005; @lipton_c_2009;
+@von_lohmann_unintended_2010]. The precedent of these cases could
+theoretically be used to physically limit the efficacy of reading digital
 texts. Readers and literary scholars could soon find themselves prohibited
 from studying the dynamics of censorship, prevented from using computational
 methods that rely on text mining, and unable to extract the fruits of their
 philological activity from proprietary annotation platforms.
-
-[^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
-which may, under some interpretations, sanction limited use for academic
-purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
-@armstrong_digital_2006.
 
 The impact of DMCA and smart contracts on the practices of reading, writing, and
 literary analysis is potentially immense. In the language of the DMCA, the
@@ -1400,35 +1403,63 @@ essay in the *Yale Journal of Law & Technology* explains it this way:
 > restrictive license terms, similar to downloaded software
 [@seringhaus_e-book_2010, 150].
 
-In these conditions, literature is forced to relinquish its ontologically
-indeterminate status. The DMCA attempts to arrest the movement of texts
-between their concrete and abstract manifestations. Reified into a concrete
-object the book becomes a device, no longer lasting and universal, but rather
-ephemeral and contingent, firmly determined by its instrumental affordances.
-The literary device gains the ability to dynamically adapt itself "to the
-needs of both the owner and the user." These adaptations could take a benign
-function, of the kind suggested in "*Remix: Literatur*," where Michel Chaouli
-imagines a device akin to a "literature equalizer," empowering readers to
-"tune" any given text to their liking [@chaouli_remix_2009]. Don't really like
-intensifiers? Just turn the "adverb knob" down! I hold on to the possibility
-of building such a device with Chaouli. In the meantime, existing electronic
-book software and hardware devices adapt themselves to the reader in less
-creative ways. Some prevent simple copy and paste actions. Others can be used
-to censor and surveil. For a textual critic, such instability of medium means
-analysis cannot be confined to reading for surface meaning alone.  How can
-close or distant reading practices persist, when the reading device
-reconfigures a text dynamically, to fit individual taste, mood, or
-politics?[^ln3-modern] Or, when it simply prevents access to some of the
-content? Essential for the practices of unencumbered critical thought, control
-structures exist in the gaps within the splintered sign. Ultimately, parts of
-the inscription that remain invisible affect more than typesetting
-characteristics. They shape the very structure of interpretation. The
-seemingly innocuous control and formatting layer contains the essence of
-machine control. Long a marginal concept in literary theory, formatting is
-therefore central to the practice of computational poetics. Far from mere
-inconsequential embellishment, formatting governs the interface between
-meaning and matter, thought and page. It has the capability to embellish, to
-obscure, to censor, to govern, and to emend.
+In these conditions, literature is forced to relinquish its ontological status
+of the indeterminate. The DMCA attempts to arrest the movement of texts
+between their concrete and universal manifestations. Reified into a concrete
+object the book becomes a device, no longer lasting and transcendent, but
+rather immanent and contingent, firmly determined by its instrumental
+affordances. The literary device adapts itself to the situation, "to the needs
+of both the owner and the user," by logics that we are not allowed to see.  We
+could imagine such adaptations taking on a benign function, of the kind
+suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
+to a "literature equalizer," empowering readers to "tune" any given text to
+their liking [@chaouli_remix_2009]. Don't really like intensifiers? Just turn
+the "adverb knob" down! I hold on to the possibility of building such a device
+with Chaouli. In the meantime, existing electronic book software and hardware
+devices adapt themselves to the reader in less creative ways. Some prevent
+simple copy and paste actions. Others can be used to censor and surveil. 
+
+For a textual critic, such instability of medium means analysis cannot be
+confined to reading for surface meaning alone. How can close or distant
+reading practices persist, when the reading device reconfigures a text
+dynamically, to fit individual taste, mood, or politics?[^ln3-modern] Or, when
+it simply prevents access to some of the content? Formats shape the very
+structure of interpretation. The seemingly innocuous control and formatting
+layer contains the essence of machine control. Long a marginal concept in
+literary theory, formatting is therefore central to the contemporary practice
+of computational poetics. Far from mere inconsequential embellishment, formats
+govern the interface between meaning and matter, thought and page. It has the
+capability to embellish, to obscure, to censor, to govern, and to emend.
+
+<!-- notes -->
+<!-- notes -->
+<!-- notes -->
+
+[^ln3-fairuse]: DMCA 1201 provides for a number of complicated exemptions,
+which may, under some interpretations, sanction limited use for academic
+purposes. See @liu_dmca_2003; @ku_critique_2004; @herman_catch_2005;
+@armstrong_digital_2006.
+
+[^ln3-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
+one or more two dimensional page spaces and represent possible formatted images
+of abstract objects."
+
+[^ln3-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
+in the history of writing technologies in that they present a premeditated
+material environment built and engineered to propagate an illusion of
+immateriality; the digital nature of computational representation is precisely
+what enables this illusion---or else call it a working model---of immaterial
+behavior" [@kirschenbaum_mechanisms_2012, 135].
+
+[^ln3-iso216]: A series of paper sizes are governed by the International
+Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
+8.27in × 11.7in respectively
+[@international_organization_for_standardization_writing_1975].
+
+[^ln3-layers]: The full OSI protocol stack includes Application, Presentation,
+Session, Transport, Network, Data Link, and Physical layers
+[@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
+@day_revised_1995].
 
 [^ln3-modern]: Note that these effects are not limited to contemporary
 literature at all. In purchasing a medieval text, the reader still buys not a
@@ -1436,46 +1467,16 @@ text or a work but a device, which, despite the content being out of copyright
 protection, may still restrict access to other, protected layers of device
 function.
 
-<!-- notes -->
-<!-- notes -->
-<!-- notes -->
-
-[^ln4-dom]: See @furuta_document_1982, 418: "Concrete objects are defined over
-one or more two dimensional page spaces and represent possible formatted images
-of abstract objects."
-
-[^ln4-iso216]: A series of paper sizes are governed by the International
-Standard ISO 216. In the Imperial System these equate to 33.1in × 46.8in and
-8.27in × 11.7in respectively
-[@international_organization_for_standardization_writing_1975].
-
-[^ln4-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
+[^ln3-move]: "Move" in the sense that *Harai Goshi* is a "Sweeping Hip Throw"
 "move" in Judo, and a part of *Koshi-Waza* or "hip technique."
 
-[^ln4-illusion]: Matthew Kirschenbaum puts it this way: "Computers are unique
-in the history of writing technologies in that they present a premeditated
-material environment built and engineered to propagate an illusion of
-immateriality; the digital nature of computational representation is precisely
-what enables this illusion---or else call it a working model---of immaterial
-behavior" [@kirschenbaum_mechanisms_2012, 135].
-
-[^ln4-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
+[^ln3-mechanisms]: In this approach I build on the work by @galloway_protocol_2006;
 @conti_visual_2008; and @kirschenbaum_mechanisms_2012.
 
-[^ln4-root]: @stoltz_is_2013
-
-[^ln4-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
+[^ln3-osi]: Drafted in 1978 as ISO/TC97/Sc17/N46 and adopted by the
 International Organization for Standardization in 1984, as ISO 7498.
 
-[^ln4-layers]: The full OSI protocol stack includes Application, Presentation,
-Session, Transport, Network, Data Link, and Physical layers
-[@piatkowski_iso-ansi_1980; @miller_iso_1981; @ncs_open_1981; @day_osi_1983;
-@day_revised_1995].
-
-[^ln4-smart]: For examples see @grundy_information_1994;
-@kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
-
-[^ln4-plato]: My reading of Plato would be impossible without help from the
+[^ln3-plato]: My reading of Plato would be impossible without help from the
 Perseus Digital Library Project, which allows the reader to explore the Greek
 originals side-by-side with translations, maps, dictionaries, and other
 parallel texts. Sources consulted on Plato's theory of forms include
@@ -1483,13 +1484,18 @@ parallel texts. Sources consulted on Plato's theory of forms include
 @woods_form_1993. I would also like to thank Stathis Gourgouris for his
 generous comments on these passages.
 
-[^ln4-reading]: All of the technologies I list here exist today (in the second
+[^ln3-root]: @stoltz_is_2013.
+
+[^ln3-smart]: For examples see @grundy_information_1994;
+@kaliski_abuse-resistant_1995; @hasebe_licensee_2003.
+
+[^ln3-reading]: All of the technologies I list here exist today (in the second
 decade of the twenty-first century) commercially, much beyond the prototype
 stage.
 
-[^ln4-translate]: Translations are mine, unless cited otherwise.
+[^ln3-translate]: Translations are mine, unless cited otherwise.
 
-[^ln4-barthes]: "The work is a fragment of substance," he writes. The work is
+[^ln3-barthes]: "The work is a fragment of substance," he writes. The work is
 "moderately symbolic" where text is "radically symbolic." The work "occupies
 space of books," where the text is "a process of demonstration," "experienced
 only in an activity of production." He writes also that "the Text cannot stop
@@ -1497,7 +1503,7 @@ only in an activity of production." He writes also that "the Text cannot stop
 across (in particular, it can cut across the work, several works)"
 [@barthes_work_1978, 156-7].
 
-[^ln4-descartes]: It is difficult to resist quoting from Descartes's
+[^ln3-descartes]: It is difficult to resist quoting from Descartes's
 *Meditations on First Philosophy* when discussing idealism. He writes: "Let us
 consider the things that people ordinarily think they understand best of all,
 namely the bodies that we touch and see. I don't mean bodies in general---for
@@ -1516,29 +1522,29 @@ understood so clearly? Evidently it was not any of the features that the senses
 told me of; for all of them---brought to me through taste, smell, sight, touch
 or hearing---have now altered, yet it is still the same wax."
 
-[^ln4-marinetti]: "Il nostro amore crescente per la materia, la volontà di
+[^ln3-marinetti]: "Il nostro amore crescente per la materia, la volontà di
 penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
 motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
 meccanico e la sensibilità numerica]
 
-[^ln4-echenbaum]: "Что касается 'формы', то формалистам было важно только
+[^ln3-echenbaum]: "Что касается 'формы', то формалистам было важно только
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
 ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
 
-[^ln4-translate2]: "In our discussion of this text we have been using an
+[^ln3-translate2]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
 In the case of *Phaedrus*, the translation is by Leon Robin. We will continue to
 refer to it, inserting Greek text in parenthesis [@derrida_dissemination_1981,
 71]."
 
-[^ln4-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
+[^ln3-gurevich]: Kittler mistakingly attributes "Algorithms in the World of
 Bounded Resources" to Brosl Hasslacher. The author is rather Yuri Gurevich,
 Principle Researcher at Microsoft Research and then a professor at the
 University of Michigan. Hasslacher's essay entitled "Beyond the Turing Machine"
 appeared in the same volume of collected essays, @herken_universal_1988.
 
-[^ln4-bottom]: For example, in the Open Systems Interconnection (OSI) model of
+[^ln3-bottom]: For example, in the Open Systems Interconnection (OSI) model of
 communication, the top-most layer of protocols and interface method is called
 the "application layer" and the bottom-most layer the "physical layer"
 [@peterson_computer_2007, 26-28]. Timothy Colburn and Gary Shute describe it as
@@ -1546,7 +1552,7 @@ being "responsible for encoding bits onto a transmission medium, whether wires,
 fiber optics, or radio broadcast, in ways that maximize the transmission rate
 and minimize sensitivity to noise [@colburn_abstraction_2007, 181].
 
-[^ln4-abstraction]: This is a topic of some contention in the literature. In
+[^ln3-abstraction]: This is a topic of some contention in the literature. In
 his influential paper on the topic, James Moor includes the immateriality of
 software as one of the "three myths" of computer science. "As a practical
 matter, what we regard as computer instructions, and consequently what we
@@ -1555,13 +1561,13 @@ regard as computer programs, is determined by computers available," he writes
 abstract artifact, akin to a musical work [@irmak_software_2012]. See also
 @turner_programming_2013; @colburn_software_1999.
 
-[^ln4-turing]: The intellectual history of the Turing machine is well
+[^ln3-turing]: The intellectual history of the Turing machine is well
 established, in multiple works on the subject. It follows the Greek Diophantus,
 René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln4-alt]: "We have to think (in a completely novel way) the relation between
+[^ln3-alt]: "We have to think (in a completely novel way) the relation between
 a science and the ideology [...] the fact that such an investigation confronts
 us with the observation that every science, in the relationship it has with
 ideology it emerged from, can only be thought as a 'science of ideology, would
@@ -1569,7 +1575,7 @@ disconcert us, were we not forewarned of the name of the *object* of knowledge,
 which can only exist in the form of ideology" [@althusser_reproduction_2014,
 46].
 
-[^ln4-derr]: See @derrida_writing_1978. I am alluding particularly to
+[^ln3-derr]: See @derrida_writing_1978. I am alluding particularly to
 statements like "ethnology-like any science-comes about within the element of
 discourse," and "this moment was that in which language invaded the universal
 problematic; that in which, in the absence of a center or origin, everything
@@ -1579,7 +1585,7 @@ transcendental signified, is never absolutely present outside a system of
 differences. The absence of the transcendental signified extends the domain and
 the interplay of signification ad infinitum" (278-294).
 
-[^ln4-flip]: There is a long-standing joke in Marxist literature that involves
+[^ln3-flip]: There is a long-standing joke in Marxist literature that involves
 flipping Hegel, who prioritized the transcendent spiritual over the physical
 and material forms of life, over "back to his feet." See for example
 @marx_marx-engels_1978: "The form of wood, for instance, is altered, by making
@@ -1592,9 +1598,13 @@ evolves out of its wooden brain grotesque ideas, far more wonderful than
 dialectic of the concept itself became merely the conscious reflex of the
 dialectical motion of the real world and the dialectic of Hegel was placed
 upon its head; or rather, turned off its head, on which it was standing
-before, and placed on its feet again" (44).  p5
+before, and placed on its feet again" (44).p5
+
+[^ln3-domlayer]: The DOM technically exists at the application layer of the OSI
+model.
 
 [^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
 Web Consortium (W3C) in the case of the DOM.
+
 
