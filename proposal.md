@@ -13,22 +13,22 @@ Theme and Argument
 ------------------
 
 This book is about the strange entanglement between humans, texts, and
-machines. It examines key literary theoretical ideas alongside the
-intellectual history of software engineering that frame contemporary reading,
-writing, and interpretation practices. It is a deeply materialist work, in
+machines. It examines key literary-theoretical ideas alongside the
+intellectual history of software engineering that frame contemporary practices
+of reading, writing, and interpretation. It is a deeply materialist work, in
 which I argue that our most ingrained intuitions about texts are profoundly
 alienated from the physical contexts of intellectual production. A new kind of
 poetics is therefore necessary to preserve the free play of ideas implicit in
 the method of humanistic inquiry.
 
-Often, the work of literary theory defines itself in terms of specific texts,
-as a series of readings. My object of study is instead the nature of
-textuality itself. I am interested here in how texts are produced; in the
-metaphors that guide computation; in the forms, formulae, and formats that
-structure human-computer interaction; in the literary device; and in the
-strange shape of contemporary inscription, which, no longer a single mark on
-paper, stretches between the site of fleeting projection, the screen, and the
-site of storage in its solid, archival state.
+The work of literary theory often defines itself in terms of specific texts.
+My object of study is instead the nature of textuality itself. I am interested
+here in how texts are produced; in the metaphors that guide computation; in
+the forms, formulae, and formats that structure human-computer interaction; in
+the literary device; and in the strange shape of contemporary inscription,
+which, no longer a single mark on paper, stretches between the site of
+fleeting projection, the screen, and the site of storage in its solid,
+archival state.
 
 The electronic book draws a compelling figure that belies material realities
 of reading and writing, transformed by the advent of computation. The
@@ -42,7 +42,7 @@ preserves the outward appearance of printed text, while concealing the
 specifics of governance and control. I mean governance and control in the
 sense of shaping affordances: a mode of physical regulation that structures
 the production, access, and the distribution of knowledge. The challenge of
-*Plain Text* will be in the description of such emerging but often occluded
+*Plain Text* is in the description of such emerging but often occluded
 technological possibilities.
 
 A concern with the material conditions of simulated textuality leads us to a
@@ -67,12 +67,12 @@ added information" [@unicode_consortium_unicode_1990]. In the tradition of
 American textual criticism, "plain text" alludes to an editorial method of
 text transcription which is both "faithful to the source" and is "easier to
 read than the original document" [@cook_time-bounded_1972]. Combining these
-two traditions, I mean ultimately to build a case for a kind of a systematic
-minimalism when it comes to our use of computers---a minimalism that
-privileges access to source materials, ensuring legibility and comprehension.
-I do so in contrast with other available modes of human--computer interaction,
-which instead privilege maximizing system--centric ideals like efficiency,
-speed, performance, or security.
+two traditions, I build a case for a kind of a systematic minimalism when it
+comes to our use of computers---a minimalism that privileges access to source
+materials, ensuring legibility and comprehension.  I do so in contrast with
+other available modes of human--computer interaction, which instead privilege
+maximizing system--centric ideals like efficiency, speed, performance, or
+security.
 
 My use of plain text implies also a poetics of reading and writing. The title
 therefore further identifies an interpretive stance one can assume in relation
@@ -82,15 +82,15 @@ Originally used for typesetting, that layer affects more than innocuous
 document attributes like "font size" or "line spacing." Increasingly, devices
 that mediate literary activity encode forms of governance. These tacit
 structures police intellectual property laws; they censor and carry out
-surveillance operations. For example, the Digital Millennium Copyright act,
+surveillance operations. For example, the Digital Millennium Copyright Act,
 passed in the United States in 1996, goes beyond written injunction to require
 in some cases the management of digital rights (DRM) at the level of hardware.
 An electronic book governed by DRM may subsequently prevent the reader from
-copying or sharing stored content, even for the purposes of academic
-study.[^ln-dmca] Building on the recent work of scholars like Johanna Drucker,
-Lev Manovich, Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered
-*computational poetics*, a method of inquiry that aims to bring implicit
-control structures once again under the purview of interpretation and critique
+copying or sharing stored content, even for the purposes of academic study.
+Building on the recent work of scholars like Johanna Drucker, Lev Manovich,
+Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered *computational
+poetics*, a method of inquiry that aims to bring implicit control structures
+once again under the purview of interpretation and critique
 [@manovich_there_2011; @gitelman_paper_2014; @hu_prehistory_2015].
 
 Annotated Table of Contents
@@ -124,16 +124,16 @@ write for a machine? What about broken mechanisms of comprehension? At once a
 device and an algorithm, the Turing machine blurs the boundaries between
 software and hardware, code and content, intelligence and its imitation.
 
-Two rich intellectual histories collide on the pages of the **third chapter**
-chapter: one, the material history of formatting as a concept in computer
-science and the other, the intellectual history of form in literary theory.
-Format emerges as a concept that mediates between form understood as internal
-"rules for construction" and form understood as "external shape." The
-formatting layer transforms one type of structure, a series of bits arranged
-into tracks and sectors, into another, letters arranged into sentences and
-paragraphs. I draw a short history of text formats that commences with several
-"control characters" limited in function to actions like "carriage return" or
-"stop transmission." With time, the formatting layer encompassed all manner of
+Two rich intellectual histories collide on the pages of the **third chapter**:
+one, the material history of formatting as a concept in computer science and
+the other, the intellectual history of form in literary theory.  Format
+emerges as a concept that mediates between form understood as internal "rules
+for construction" and form understood as "external shape." The formatting
+layer transforms one type of structure, a series of bits arranged into tracks
+and sectors, into another, letters arranged into sentences and paragraphs. I
+draw a short history of text formats that commences with several "control
+characters" limited in function to actions like "carriage return" or "stop
+transmission." With time, the formatting layer encompassed all manner of
 machine instruction, including structures of governance like "digital rights
 management" and "copy protection." A manufacturer's ability to censor or to
 surveil electronic books is contained within the formatting layer.
@@ -186,37 +186,6 @@ terms of "digital natives" and those who are "born digital." I build on
 Flusser's immigrant poetics to suggest a kind of information processing that
 necessitates a purposeful movement between the polarities of settlement and
 expatriation.
-
-Author's Bio
------------
-
-This book is in part a reflection of my professional biography, which combines
-a track record of excellence in the fields of literary scholarship and
-software engineering.
-
-I began my professional career at Microsoft, where I made significant
-contributions to the development of the Microsoft XP operating system. This
-experience translated directly to my co-founding of Columbia's Group for
-Experimental Methods in the Humanities, where I direct a number of research
-projects. The lab's work has been featured on the pages of *The New York
-Times*, *TIME* magazine, *Der Spiegel Online*, *FiveThirtyEight*, and *Le
-Monde*.[^ln-press] Since the fall of 2012, after spending a year in residence,
-I have also been a faculty affiliate at Harvard's Berkman Center for Internet
-and Society. My work in the digital humanities has been subject to numerous
-grants and awards, including the Brown Institute Flagship Grant for media
-innovation in partnership with Stanford University.
-
-My training as a literary scholar concluded under the guidance of Elaine
-Scarry and William Mills Todd, of Harvard University, at the department of
-English and Comparative Literature. I am currently a fourth-year tenure-track
-assistant professor at Columbia University's Department of English and
-Comparative Literature, where I am also an affiliate member of the Data
-Science Institute, New Media Center. I teach and lecture widely in the
-departments of English, History, Computer Science, and Journalism usually on
-topics of literary theory, computational culture studies, new media, and
-digital humanities. My work has appeared on the pages of scholarly journals
-like *Modernism/modernity*, *Boundary 2*, *Computational Culture* along with
-popular press like *LA Review of Books* and *Public Books*.
 
 Contributions to Literature
 ---------------------------
@@ -297,6 +266,37 @@ comments on individual chapters from scholars like Brian Larkin, Barbara
 Herrnstein-Smith, Bernard Harcourt, Susan Zieger, Johanna Drucker, Stefan
 Andriopoulos, and Lydia Liu.
 
+Author's Bio
+-----------
+
+This book is in part a reflection of my professional biography, which combines
+a track record of excellence in the fields of literary scholarship and
+software engineering.
+
+I began my professional career at Microsoft, where I made significant
+contributions to the development of the Microsoft XP operating system. This
+experience translated directly to my co-founding of Columbia's Group for
+Experimental Methods in the Humanities, where I direct a number of research
+projects. The lab's work has been featured on the pages of *The New York
+Times*, *TIME* magazine, *Der Spiegel Online*, *FiveThirtyEight*, and *Le
+Monde*.[^ln-press] Since the fall of 2012, after spending a year in residence,
+I have also been a faculty affiliate at Harvard's Berkman Center for Internet
+and Society. My work in the digital humanities has been subject to numerous
+grants and awards, including the Brown Institute Flagship Grant for media
+innovation in partnership with Stanford University.
+
+My training as a literary scholar concluded under the guidance of Elaine
+Scarry and William Mills Todd, of Harvard University, at the department of
+English and Comparative Literature. I am currently a fourth-year tenure-track
+assistant professor at Columbia University's Department of English and
+Comparative Literature, where I am also an affiliate member of the Data
+Science Institute, New Media Center. I teach and lecture widely in the
+departments of English, History, Computer Science, and Journalism usually on
+topics of literary theory, computational culture studies, new media, and
+digital humanities. My work has appeared on the pages of scholarly journals
+like *Modernism/modernity*, *Boundary 2*, *Computational Culture* along with
+popular press like *LA Review of Books* and *Public Books*.
+
 Audience and Market
 -------------------
 
@@ -307,15 +307,15 @@ developed over the years represent my audience and my community of support. I
 plan to rely on them to promote the book, to solicit reviews, and to engage
 into a dialog with my work.
 
-As is the case for most of my work, *Plain Text* appeals to several key
-audiences. The first comprises media scholars interested in the history of
-media, data, and computing in the twentieth century. The second audience can
-be located in literary and textual studies, among scholars seeking to
-understand the impact of technology on literary theory or book history.
-Finally, the manuscript targets the broader audience of digital humanities and
-information science practitioners (particularly in the field of
-human--computer interaction) actively engaged in using and creating textual
-interfaces that shape contemporary reading and writing praxis.[^ln-ipam]
+*Plain Text* appeals to several key audiences. The first comprises media
+scholars interested in the history of media, data, and computing in the
+twentieth century. The second audience can be located in literary and textual
+studies, among scholars seeking to understand the impact of technology on
+literary theory or book history.  Finally, the manuscript targets the broader
+audience of digital humanities and information science practitioners
+(particularly in the field of human--computer interaction) actively engaged in
+using and creating textual interfaces that shape contemporary reading and
+writing praxis.[^ln-ipam]
 
 There is at the moment a paucity of books that can be taught in classes like
 the graduate seminar "Digital Studies | Prototyping Texts," taught at the
@@ -339,6 +339,7 @@ uproot ourselves from the comfort that rapidly descends on the digital
 dwellings that house our intellectual life. It is in our broadly human, civic
 interest, I argue, to keep "smart" technology at hand, under continual
 scrutiny of critical, close, and closest possible reading.
+
 
 Length and Format
 -----------------
