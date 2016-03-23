@@ -208,15 +208,15 @@ innovation in partnership with Stanford University.
 
 My training as a literary scholar concluded under the guidance of Elaine
 Scarry and William Mills Todd, of Harvard University, at the department of
-English and Comparative Literature. I am currently employed at Columbia
-University's Department of English and Comparative Literature, where I am also
-an affiliate member of the Data Science Institute, New Media Center. I teach
-and lecture widely in the departments of English, History, Computer Science,
-and Journalism usually on topics of literary theory, computational culture
-studies, new media, and digital humanities. My work has appeared on the pages
-of scholarly journals like *Modernism/modernity*, *Boundary 2*, *Computational
-Culture* along with popular press like *LA Review of Books* and *Public
-Books*.
+English and Comparative Literature. I am currently a fourth-year tenure-track
+assistant professor at Columbia University's Department of English and
+Comparative Literature, where I am also an affiliate member of the Data
+Science Institute, New Media Center. I teach and lecture widely in the
+departments of English, History, Computer Science, and Journalism usually on
+topics of literary theory, computational culture studies, new media, and
+digital humanities. My work has appeared on the pages of scholarly journals
+like *Modernism/modernity*, *Boundary 2*, *Computational Culture* along with
+popular press like *LA Review of Books* and *Public Books*.
 
 Contributions to Literature
 ---------------------------
@@ -256,16 +256,15 @@ professional experience in software development grounds my thought in the
 fields of software and electrical engineering to an extent greater than one
 generally finds in similar manuscripts. Finally, the range of primary
 materials used in this book reveals my academic training in comparative
-literature. The reader should not be surprised to encounter original
-translations---texts from Greek, German, and Russian which undercut the
-preponderance of North American material. Consider, for example, my third
-chapter, called "Form, Formula, Format," which commences with a discussion of
-formalism first in aesthetic philosophy through the works of Plato, Hegel, and
-the Russian formalists, then in the works of textual critics like G. Thomas
-Tanselle, Jerome McGann, and Johanna Drucker, and finally in the technical
-manuals describing something called the document object model, which tests our
-theoretical intuitions based on a specific case study crucial to our
-understanding of electronic text.
+literature. The will encounter original translations---texts from Greek,
+German, and Russian which undercut the preponderance of North American
+material. Consider, for example, my third chapter, called "Form, Formula,
+Format," which commences with a discussion of formalism first in aesthetic
+philosophy through the works of Plato, Hegel, and the Russian formalists, then
+in the works of textual critics like G. Thomas Tanselle, Jerome McGann, and
+Johanna Drucker, and finally in the technical manuals describing something
+called the document object model, which tests our theoretical intuitions based
+on a specific case study crucial to our understanding of electronic text.
 
 Although I do not mean to engage in the debate on disciplinary formation, I
 prefer to describe my work as "computational culture studies," both in the
@@ -289,15 +288,12 @@ geometry, computational archeology, computational architectural design,
 computational philosophy, and computational social science, among others. The
 impact of computation therefore cannot be lightly dismissed. In *Plain Text*,
 I stake out a middle ground between Stephen Ramsey's laudatory *Reading
-Machines* (University of Illinois Press, 2011) and David Golumbia's
-disparaging *The Cultural Logic of Computation* (Harvard University Press,
-2009).
+Machines* (University of Illinois Press, 2011) and David Golumbia's critical
+*The Cultural Logic of Computation* (Harvard University Press, 2009).
 
 The book represents a new direction in my research, based on previously
-unpublished work. Two of the book's chapters are under review in top-tier
-academic journals. They will appear before the book's publication in a
-redacted form. The manuscript has received extensive revisions, with comments
-on individual chapters from scholars like Brian Larkin, Barbara
+unpublished work. The manuscript has received extensive revisions, with
+comments on individual chapters from scholars like Brian Larkin, Barbara
 Herrnstein-Smith, Bernard Harcourt, Susan Zieger, Johanna Drucker, Stefan
 Andriopoulos, and Lydia Liu.
 
