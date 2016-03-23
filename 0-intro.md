@@ -136,12 +136,12 @@ opposition to "fancy text," "text representation consisting of plain text plus
 added information" [@unicode_consortium_unicode_1990]. In the tradition of
 American textual criticism, "plain text" alludes to an editorial method of
 text transcription which is both "faithful to the source" and is "easier to
-read than the original document" [@cook_time-bounded_1972]. Combining these
+read than the original document" [@cook_considerations_1988]. Combining these
 two traditions, I mean ultimately to build a case for a kind of a systematic
 minimalism when it comes to our use of computers---a minimalism that
 privileges access to source materials, ensuring legibility and comprehension.
-I do so in contrast with other available modes of human--computer interaction,
-which instead privilege maximizing system--centric ideals like efficiency,
+I do so in contrast with other available modes of human-computer interaction,
+which instead privilege maximizing system-centric ideals like efficiency,
 speed, performance, or security.
 
 My use of plain text implies also a poetics of reading and writing. The title
@@ -157,11 +157,12 @@ passed in the United States in 1996, goes beyond written injunction to require
 in some cases the management of digital rights (DRM) at the level of hardware.
 An electronic book governed by DRM may subsequently prevent the reader from
 copying or sharing stored content, even for the purposes of academic
-study.[^ln-dmca] Building on the recent work of scholars like Lev Manovich,
-Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered *computational
-poetics*, a method of inquiry that aims to bring implicit control structures
-once again under the purview of interpretation and critique
-[@manovich_there_2011; @gitelman_paper_2014; @hu_prehistory_2015].
+study.[^ln-dmca] Building on the recent work of scholars like Wendy Chun,
+Tung-Hui Hu, Caroline Levine, and Lisa Gitelman I make the case for an
+empowered *computational poetics*, a method of inquiry that aims to bring
+implicit control structures once again under the purview of interpretation and
+critique [@chun_programmed_2011; @gitelman_paper_2014; @hu_prehistory_2015;
+@levine_forms:_2015].
 
 My notion of poetics builds also on the long history of literary theory,
 combined here with practices borrowed from software engineering and computer
@@ -591,7 +592,7 @@ itself---does not displace the idea of the author.[^ln-varela] A discipline of
 close attention to the minute particulars of encoding, transmission, storage,
 and the decoding of text ultimately reclaims a measure of agency. This may
 seem strange at first: to recover the subject in the physical minutiae of the
-textual--technological encounter. Yet the point of contact between human,
+textual-technological encounter. Yet the point of contact between human,
 text, and device is significant precisely because it is here, in the liminal
 zone of semiotic exchange, that the subject seems to disappear into the
 machine and the machine appears in the guise of an artificially intelligent
@@ -631,7 +632,7 @@ devices. In the worst case, the connection between keyboards and screens
 suffers from intractable "man-in-the-middle" attacks, by which third parties
 maliciously alter the content of intended communication [@needham_using_1978].
 
-In this book, I will argue that some of the higher--level political
+In this book, I will argue that some of the higher-level political
 afflictions of the contemporary public sphere---mass surveillance and online
 censorship, for example---relate to our failure as readers and writers to come
 to terms with the changing conditions of digital textuality. A society that
@@ -695,7 +696,7 @@ society as a whole [@leroi-gourhan_gesture_1993, 83-84;
 a filing system, or a social networking platform cannot be addressed in
 shallow instrumental system-centric ideals. Complex computational systems
 cannot give rise to ideals any more than financial markets can. From the many
-available visions of human--computer interaction I argue for choosing one that
+available visions of human-computer interaction I argue for choosing one that
 confirms to a humanist ethos, whatever the reader's politics.
 
 Computational poetics encourages users to become active thinkers, tinkerers,
@@ -903,7 +904,7 @@ concerned with the structure of the computational metaphor. The **first
 chapter** begins with an explication. What does it mean to turn a page, I ask,
 when neither the page nor the action of turning correspond to their implied
 analogies? The analysis of the metaphor helps trace the intellectual history
-of human--computer interaction, a field which progressed from "conversational
+of human-computer interaction, a field which progressed from "conversational
 programming" to the "direct manipulation" paradigm shaped by cognitive
 metaphor theory and immersive theater. The logic of "directness" leads to the
 rapidly developing field of brain-to-computer interfaces. The chapter

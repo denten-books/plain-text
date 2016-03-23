@@ -1,5 +1,5 @@
 ---
-title: "Plain Text: The Poetics of Human--Computer Interaction"
+title: "Plain Text: The Poetics of Human-Computer Interaction"
 author: Dennis Tenen
 cover-image: "images/steno.png"
 csl: csl/mla-no-biblio.csl
@@ -45,8 +45,8 @@ the production, access, and the distribution of knowledge. The challenge of
 *Plain Text* is in the description of such emerging but often occluded
 technological possibilities.
 
-A concern with the material conditions of simulated textuality leads us to a
-rich archive of new and previously unexplored materials from the history of
+A concern with the material conditions of simulated textuality leads to a rich
+archive of new and previously unexplored materials from the history of
 philology, semiotics, telegraphy, and electrical engineering from the middle
 of the nineteenth to the end of the twentieth centuries. These texts gain
 significance when read next to foundational works in the philosophy of
@@ -66,7 +66,7 @@ opposition to "fancy text," "text representation consisting of plain text plus
 added information" [@unicode_consortium_unicode_1990]. In the tradition of
 American textual criticism, "plain text" alludes to an editorial method of
 text transcription which is both "faithful to the source" and is "easier to
-read than the original document" [@cook_time-bounded_1972]. Combining these
+read than the original document" [@cook_considerations_1988]. Combining these
 two traditions, I build a case for a kind of a systematic minimalism when it
 comes to our use of computers---a minimalism that privileges access to source
 materials, ensuring legibility and comprehension.  I do so in contrast with
@@ -74,24 +74,25 @@ other available modes of human--computer interaction, which instead privilege
 maximizing system--centric ideals like efficiency, speed, performance, or
 security.
 
-My use of plain text implies also a poetics of reading and writing. The title
-therefore further identifies an interpretive stance one can assume in relation
-to the making and the unmaking of literary artifacts. Besides visible content,
-all contemporary documents carry with them a layer of hidden information.
-Originally used for typesetting, that layer affects more than innocuous
-document attributes like "font size" or "line spacing." Increasingly, devices
-that mediate literary activity encode forms of governance. These tacit
-structures police intellectual property laws; they censor and carry out
-surveillance operations. For example, the Digital Millennium Copyright Act,
-passed in the United States in 1996, goes beyond written injunction to require
-in some cases the management of digital rights (DRM) at the level of hardware.
-An electronic book governed by DRM may subsequently prevent the reader from
-copying or sharing stored content, even for the purposes of academic study.
-Building on the recent work of scholars like Johanna Drucker, Lev Manovich,
-Tung-Hui Hu, and Lisa Gitelman I make the case for an empowered *computational
-poetics*, a method of inquiry that aims to bring implicit control structures
-once again under the purview of interpretation and critique
-[@manovich_there_2011; @gitelman_paper_2014; @hu_prehistory_2015].
+My use of plain text further implies a poetics of reading and writing. The
+title therefore also identifies an interpretive stance one can assume in
+relation to the making and the unmaking of literary artifacts. Besides visible
+content, all contemporary documents carry with them a layer of hidden
+information. Originally used for typesetting, that layer affects more than
+innocuous document attributes like "font size" or "line spacing."
+Increasingly, devices that mediate literary activity encode forms of
+governance. These tacit structures police intellectual property laws; they
+censor and carry out surveillance operations. For example, the Digital
+Millennium Copyright Act, passed in the United States in 1996, goes beyond
+written injunction to require in some cases the management of digital rights
+(DRM) at the level of hardware. An electronic book governed by DRM may
+subsequently prevent the reader from copying or sharing stored content, even
+for the purposes of academic study. Building on the recent work of scholars
+like Wendy Chun, Tung-Hui Hu, Caroline Levine, and Lisa Gitelman I make the
+case for an empowered *computational poetics*, a method of inquiry that aims
+to bring implicit control structures once again under the purview of
+interpretation and critique [@chun_programmed_2011; @gitelman_paper_2014;
+@hu_prehistory_2015; @levine_forms:_2015].
 
 Annotated Table of Contents
 ---------------------------
@@ -103,7 +104,7 @@ concerned with the structure of the computational metaphor. The **first
 chapter** begins with an explication. What does it mean to turn a page, I ask,
 when neither the page nor the action of turning correspond to their implied
 analogies?  The analysis of the metaphor helps trace the intellectual history
-of human--computer interaction, a field which progressed from "conversational
+of human-computer interaction, a field which progressed from "conversational
 programming" to the "direct manipulation" paradigm shaped by cognitive
 metaphor theory and immersive theater. The logic of "directness" leads to the
 rapidly developing field of brain-to-computer interfaces. The chapter
@@ -144,15 +145,16 @@ electronic texts as an ephemeral, almost immaterial, phenomenon. The text
 shimmered and glared: it was spoken of in terms of *hypertext*, light writing,
 and electricity. A generation of theorists that came after insisted on the
 weighty materiality of electronic media. Reading began to engage the
-morphology of rare metals, media archeology, hard drive forensics. Both
+morphology of rare metals, media archeology, and hard drive forensics. Both
 accounts, I argue, capture an aspect of the same underlying condition. The
 perceived image of an archived inscription splits from its source. The sign
 plausibly resides both on the screen and on the hard drive. It splits, in some
 real a sense, diverging at the site its projection from the site of the
 archive. Erasing an inscription on the screen, for example, may not elicit the
 corresponding action on the disk. Using archival materials from the history of
-telegraphy in the late nineteenth and early twentieth centuries, I chart the
-gradual fracture and the ultimate illegibility of the computational sign.
+telegraphy in the late nineteenth and early twentieth centuries, I tell the
+story of the gradual fracture and the ultimate illegibility of the
+computational sign.
 
 The **fifth chapter** charts the emergence of screen reading. The screen
 appears to restore a measure of visibility lost to magnetic inscription, with
@@ -179,13 +181,13 @@ idea of an "appointment with oneself" helps to reveal this external
 construction of files, folders, and library furnishings as cognitive
 extension, in need of delicate pruning and arrangement. A close reading of the
 "home" folder, the default location of personal files on many systems,
-concludes with the discussion of media homes.  Finally, I return to the theme
+concludes with the discussion of media homes. Finally, I return to the theme
 of displacement, arguing for a mode of inhabitance within media that is
 uncanny or un-homed [*Unheimliche*], contrary to discourse that speaks in
-terms of "digital natives" and those who are "born digital." I build on
-Flusser's immigrant poetics to suggest a kind of information processing that
-necessitates a purposeful movement between the polarities of settlement and
-expatriation.
+terms of "digital natives" and those who are "born digital." I build on the
+immigrant poetics of Vilém Flusser and Viktor Shklovsky to suggest a kind of
+information processing that necessitates a purposeful movement between the
+polarities of familiarization and estrangement, settlement and expatriation.
 
 Contributions to Literature
 ---------------------------
@@ -225,15 +227,16 @@ professional experience in software development grounds my thought in the
 fields of software and electrical engineering to an extent greater than one
 generally finds in similar manuscripts. Finally, the range of primary
 materials used in this book reveals my academic training in comparative
-literature. The will encounter original translations---texts from Greek,
-German, and Russian which undercut the preponderance of North American
-material. Consider, for example, my third chapter, called "Form, Formula,
-Format," which commences with a discussion of formalism first in aesthetic
-philosophy through the works of Plato, Hegel, and the Russian formalists, then
-in the works of textual critics like G. Thomas Tanselle, Jerome McGann, and
-Johanna Drucker, and finally in the technical manuals describing something
-called the document object model, which tests our theoretical intuitions based
-on a specific case study crucial to our understanding of electronic text.
+literature. The reader will encounter original translations---texts from
+Greek, German, and Russian---which undercut the preponderance of North
+American material. Consider, for example, my third chapter, called "Form,
+Formula, Format," which commences with a discussion of formalism first in
+aesthetic philosophy through the works of Plato, Hegel, and the Russian
+formalists, then in the works of textual critics like G. Thomas Tanselle,
+Jerome McGann, and Johanna Drucker, and finally in the technical manuals
+describing something called the document object model, which tests our
+theoretical intuitions based on a specific case study crucial to our
+understanding of electronic text.
 
 Although I do not mean to engage in the debate on disciplinary formation, I
 prefer to describe my work as "computational culture studies," both in the
@@ -313,7 +316,7 @@ twentieth century. The second audience can be located in literary and textual
 studies, among scholars seeking to understand the impact of technology on
 literary theory or book history.  Finally, the manuscript targets the broader
 audience of digital humanities and information science practitioners
-(particularly in the field of human--computer interaction) actively engaged in
+(particularly in the field of human-computer interaction) actively engaged in
 using and creating textual interfaces that shape contemporary reading and
 writing praxis.[^ln-ipam]
 
@@ -331,7 +334,7 @@ Age*. Books like Harcourt's bring into focus a significant problem in
 contemporary society, by which our digital lives become enmeshed in a system
 of production that commodifies human experience. Devices that surround us
 collect and trade in our reading habits, social interactions, and intimate
-conversations. In *Plain Text* I argue widely for a new mode or reading, not
+conversations. In *Plain Text* I argue widely for a new mode of reading, not
 limited to our ability to code, but one that makes visible the ideals implicit
 in our technological decisions: to buy a new phone, to contribute an online
 review for a book, or to write using free software. Our challenge today is to
