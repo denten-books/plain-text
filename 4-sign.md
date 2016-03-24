@@ -1,228 +1,172 @@
 # Part II: Recondite Surfaces
-## Chapter 3: Splitting the Sign
+## Chapter 3: Textual Diffusion
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
 degenerative links between humans and machines" [@chun_enduring_2008, 148]. If
-the floating gate transistor,[^ln2-gate] where my text now lives, can be called
-the enduring ephemeral, I will call my liquid crystal display, where the text
-shows itself, fading persistence. This is not to believe that digital text can
-transcend its material contexts. Only that it seems to drift from surface to
-surface, beyond the field of vision, in ways that erode trust in the general
-permanence of the literary system. If we are destined to dwell on surfaces, I
-do not know to which surface to attach my attention: the screen or the floating
-gate.
+the floating gate transistor, where my text now lives, can be called the
+enduring ephemeral, I will call my liquid crystal display, where the text
+shows itself, fading persistence.[^ln2-gate] This is not to believe that
+digital text can transcend its material contexts. Only that it seems to drift
+from surface to surface, beyond the field of vision, in ways that erode trust
+in the general permanence of the literary system. If we are destined to dwell
+on surfaces, I do not know to which surface to attach my attention: the screen
+or the floating gate.
 
 In the previous chapters we have encountered the book as a device. I traced
 the intellectual roots of the literary artifact to several ideas emerging at
 the turn of the twentieth century. We saw it first as a formal device: a
 technique for defamiliarizing or making strange habituated metaphors. We then
 saw it as a literal device, related to the operation of universal Turing
-machines.  Finally, I argued that Turing machines themselves belong to the
-history of the book, both in the lineage of thought about symbolic
-interpretation and as mechanisms for their transmission.
+machines, in which plain text compatible with humans mixes with
+machine-compatible control codes. Finally, we began to open the space between
+the visible inscription, at the site of its projection, the screen, and the
+archived inscription, at the site of storage, the hard drive. Formatting as we
+saw operates somewhere in between these two surfaces, transforming one kind of
+data structure into another.
 
-Once we see the digital document in all of its forms for what it is, a
-computational device, we can begin to come to terms with the simulated nature
-of screen textuality. Ask yourself a simple question: Where does text reside?
-In print, one can point to the page and be fairly certain of the answer: here,
-on the page. Computation complicates matters significantly. One can point to
-the screen, yet it would not be enough to say that the text *is* there. The
-screen remains in flux. It is a site of temporary projection. The projection
-emanates from the storage medium within, passing through multiple filters and
-transformations on the way to the screen. We therefore observe the figure
-stretch before us across at least two sites of inscription. The sign stretches
-and splits, expressed in the configuration of magnetic pulse and circuit state
-at one end and in the phases of liquid crystal on screen at the other. Both
-locations afford distinct constraints to reading, writing, and interpretation.
+Before we begin, I would like to pause for a moment to mark the difficulty in
+my answering a simple and yet foundational question: Where does text reside?
+In print, one can definitively point to the page and answer: It resides there,
+on the page. Computational media complicate our ability to situate the
+inscription. One can gesture toward the screen, but without certainty, unsure
+if we would encounter it again later, in the same form. The screen remains in
+flux. It is a site of temporary projection. The projection emanates from the
+storage medium within, passing through multiple filters and transformations on
+the way out. We observe the figure stretch before us across at least two sites
+of inscription. The sign stretches and splits, expressed in the configuration
+of magnetic pulse and circuit state at one end and in the phases of liquid
+crystal on the screen at the other. Both locations afford distinct constraints
+to reading, writing, and interpretation. Consider that familiar actions like
+"reading" and "writing" imply distinctly differing operations depending on the
+surface.
 
-Thus when Michael Heim refers to the "ephemeral quality" of the electronic text
-or when Pamela McCorduck describes it as "impermanent, flimsy, malleable, [and]
-contingent" they identify real-world attributes of digital inscription, at the
-site of its projection. McCorduck tells the story of a rabbinate court, which,
-when faced with the law prohibiting observant Jews from erasing God's name,
-rule that words on the screen are not to be considered as writing, therefore
-sanctioning erasure [@mccorduck_universal_1985, 51; also quoted
-@heim_electric_1987, 192]. Conversely, when scholars like Johnna Drucker,
-Katherine Hayles, and Matthew Kirschenbaum respond to Heim and company with
-hardened materialism, they are also rightly describing properties of digital
-inscription, but this time at the site of its archival immanence. The two camps
-disagree because they speak neither of the same phenomenon nor at the same
-site. The former group notices the ephemeral, transcendent state of the
-projected word. The latter points instead to the "uniquely indelible nature of
-magnetic storage" [@kirschenbaum_mechanisms_2008], to "drives, tapes, and
-disks" as the "fundamental physical support" and "material substrates of
-computing" [@drucker_performative_2013]. The hard drive and the screen
-partition the sign between surface and depth, projection and archive.
+Thus when Michael Heim refers to the "ephemeral quality" of the electronic
+text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
+[and] contingent" they identify real-world attributes of digital inscription,
+at the site of its projected transcendence. McCorduck tells the story of a
+rabbinate court, which, when faced with a law prohibiting observant Jews from
+erasing God's name, rule that words on the screen are not to be considered
+writing, therefore sanctioning their erasure [@mccorduck_universal_1985, 51;
+also quoted @heim_electric_1987, 192]. Conversely, when scholars like Johnna
+Drucker, Katherine Hayles, and Matthew Kirschenbaum respond to Heim and
+company with hardened materialism, they are also rightly describing properties
+of digital inscription, but this time at the site of its archival immanence.
+The two schools of thought disagree because they speak neither of the same
+phenomenon nor at the same site. The former group highlights the ephemeral,
+transcendent qualities of the projected word. The latter foregrounds instead
+the "uniquely indelible nature of magnetic storage"
+[@kirschenbaum_mechanisms_2008], the "drives, tapes, and disks," the
+"fundamental physical support," and the "material substrates of computing"
+[@drucker_performative_2013]. In this way, the hard drive and the screen
+partition the sign between surface and depth, projection and archive.  At the
+site of projection one speaks of texts that are---I've kept a list of
+adjectives when reviewing the literature---ephemeral, shimmering, electric,
+flimsy, contingent, malleable, impermanent, flowing, transcendent, ghostly,
+and radiant. At the site of the archive the language changes to inscriptions
+that are enduring, solid, persistent, permanent, indelible, hard, immanent,
+lasting, palpable, and concrete.
 
 The seeming immateriality of digital media entails real-world effects: the
 costs of replication plummet, for example. Computational text can be copied
 effortlessly, with minimal cost, and with near-perfect fidelity.
 Hyper-reproducibility of the sort was unthinkable for most of the twentieth
-century. The machine allows for rapid remediation. Lowered costs of copying
-further reduce barriers to access and conveyance. Symbols that adhere lightly
-to their medium are easy to store and to transport. Witness the rise of
-massive, global public knowledge projects like online search engines and
-encyclopedias as a direct consequence. Such projects unfold the logic of
-immateriality, which moves towards totalizing archives and universal
-accessibility.[^ln1-google] When representation appears to weigh nothing, one
-imagines a weightless totality of all representation, available immediately
-and everywhere. The perceived weightlessness of text has other side-effects as
-well. For example, a text that adheres lightly to its medium is also difficult
-to contain, making onerous the governance of symbolic representation and
-weakening traditional controls like censorship and intellectual property
-rights.
+century. The machine has allowed for rapid remediation. Lowered costs of
+copying further reduce barriers to access and conveyance. Symbols that adhere
+lightly to their medium are easy to store and to transport. Witness the rise
+of public knowledge works like search engines that claim to organize "all of
+the world's knowledge" and massive open online encyclopedias as a direct
+consequence. Such projects unfold by the logic of immateriality, which moves
+towards totalizing archives and universal accessibility.[^ln1-google] When
+representation appears to weigh nothing, one imagines a weightless totality of
+all representation, available immediately and everywhere. The perceived
+weightlessness of text has other side-effects as well. For example, a text
+that adheres lightly to its medium is also difficult to contain, making
+onerous the governance of symbolic representation and weakening traditional
+controls like censorship and intellectual property rights.
 
-Yet, despite the appearances, the sign does not and cannot exist in a vacuum.
-Rather, the symbol splits in two: with one half arising visibly, a weightless
-and apparent screen simulation, and the other half, opaque, etched into the
-hefty and hidden material contingencies of the device. The material substrates
-of computational text likewise carry real-world affordances and consequences.
-They are first and foremost hidden from view. Drives and tapes reside inside of
-black or aluminum boxes. If only because they carry electrical current and have
-the potential to catch fire, they are regulated. They contain heavy and rare
-metals, often hazardous if touched or ingested. The computational part of the
-sign is sealed in miniaturized containers that prevent access and to resist
-tempering. These are but some of the realities of computed text. It is text
-intertwined with machine internals and control code and it is often
-hermeneutically sealed to resist human interpretation.
+Despite the appearances, texts cannot be unmoored from their material
+foundations. Rather, the inscription splits in two: with one half arising
+visibly, a weightless and apparent screen simulation, and the other half,
+opaque, etched into the hefty and hidden material contingencies of the device.
+The material substrates of computational text likewise carry real-world
+affordances and consequences. They are first and foremost hidden from view.
+Drives and tapes reside of boxes encased in plastic and aluminum. If only
+because they carry electrical current and have the potential to catch fire,
+they are regulated. They contain heavy and rare metals, often hazardous if
+touched or ingested. Flash cards, memory stick, solid state storage devices,
+and magnetic disk drives contain circuitry to prevent unauthorized access and
+to resist tempering. Within them, text intertwines with machine internals,
+often sealed hermetically and hermeneutically, in a way that resists human
+interpretation. It is inscription not compatible with humans; a literature for
+the machines.
 
 Form and content lie flat on the printed page. Print interfaces are paper
 thin, we might say. Ink adheres to paper in the way that pixels do not to
-screens.  The splintered sign complicates the traditional structuralist
-distinctions between form and content. It occupies at least two distinct
-sites, each entailing drastically differing accordances for reading, writing,
-and interpretation. Were we to untangle the tightly wound coil of the circuit,
-we would find ample distance between the hard drive and the screen. Where
-print is flat, computed text resides at several levels and along multiple
-dimensions.[^ln2-hayles]
+screens. Textual diffusion complicates the traditional structuralist
+distinctions between form and content. The computed inscription occupies at
+least two distinct sites, each entailing drastically differing affordances for
+reading, writing, and interpretation. Were we to untangle the tightly wound
+coil of the circuit, we would find ample distance between the hard drive and
+the screen. Some readers measure that distance in inches, as when reading
+documents locally for example, stored on their own computer; and in miles when
+reading documents remotely, stored on far away "cloud" servers. Where print is
+flat, multiply planes of inscription stratify computed text.[^ln2-hayles]
 
 How did this multiplicity come to be? And what effect does it have on the life
 of the mind? The purpose of this chapter is to make visible the gap between
-projected sign and archived inscription. The structure of textual
-artifacts---from a simple leaflet to a novel in multiple volumes---has
-remained remarkably stable since the invention of movable type. One rarely
-finds a sentence that spans several paragraphs, for example. Nor would a
-contemporary reader expect to find pages of different length in the same tome.
-Long-standing historical conventions guide the production of printed text.
-Semantic and decorative units on a page exist within a strict hierarchy, so
-familiar to us as to become almost invisible. No book of serious non-fiction
-will be typeset in cursive font, for example. But unless something out of the
-ordinary attracts attention, the reader will tend to gloss the
-"inconsequential" details of formatting in favor of content. The material
-contexts of a well designed book fade from view during reading.
+the projected sign and the archived inscription. Here, I would like to give a
+historical account of a letter's passage from paper to pixel. The development
+of this chapter proceeds in three stages, summarized here and expanded later.
 
-For a few decades after the advent of magnetic storage media but before screen
-technology, the outward shape of the sign disappeared altogether. It is
-difficult to fathom now, but at the time after the introduction of magnetic
-tape in the 1960s but before the wide-spread advent of cathode ray tube
-displays in the 1980s, the typewriter operator and the computer programmer
-were often expected to manipulate text blindly. Where the page or the punch
-card gave immediate visual feedback, the combination of magnetic tape and
-screen separated input from output. The word could be "processed" or altered
-with codes that controlled attributes like indent size or justification
-*before* committing ink to paper. A paper describing the popular IBM Magnetic
-Tape Selectric Typewriter (MT/ST) introduced in 1964 describes the novelty of
-the system as follows:
+First, in the age of the telegraph we observe the divide between
+human-readable text and machine-readable code. Removable storage media like
+ticker tape and punch card constitutes a set of instructions for a machine,
+meant to actuate a mechanism which in turn produces human-legible
+inscriptions. Unintelligible (to a lay person) control codes used to "drive"
+the machine are thereby mixed with plain text content of communication. The
+inscription splits between storage, containing an expanded character set, and
+its representation containing only the human alphabets.
 
-> It could be emphasized for the first time that the typist could type at
-> "rough draft" speed, "backspace and strike over" errors, and not worry about
-> the pressure of mistakes made at the end of the page [@may_ibm_1981, 742].
+Second, where the ticker tape and the punch card were legible without
+specialized "reader" devices, the use of magnetic tape submerged the mixed
+stream of letters and control codes into an inscrutable substance. For about a
+decade in the 1950s and 1960s, machine operators worked "blindly," using
+complicated workarounds to verify equivalence between input, storage, and
+output. Writing begins to involve multiple "typings," "printings," and
+specialized magnetic reading devices to establish the correspondence between
+input, storage content, and output of entered text.
 
-The IBM Magnetic Tape Selectric Composer (MT/SC) further added a "programmable
-control" unit to separate the input from the output. Final printing would be
-accomplished by:
+Finally, the appearance of Cathode Ray Tube (CRT) displays restores a measure
+of legibility lost to magnetic storage media. The familiar sign reemerges on
+the screen, but crucially, it now constitutes a simulation of the archived
+inscription. Typing a word on keyboard produces one sort of a structure on
+tape or disk and another on the screen. The two are related but not
+equivalent. The lay reader still does not have the means to check for
+veracity. An opaque "black box" of a machine mediates between reading and
+writing.
 
-> mounting the original tape and the correction tape, if any, on the
-> two-station reader output unit, setting the pitch, leading, impression
-> control and dead key space of the composer unit to the desired values, and
-> entering set-up instructions on the console control (e.g., one-station or
-> two-station tape read, depending on whether the correction tape is present;
-> line count instructions for the format control and space to be left for
-> pictures, etc.; special format instructions; and any required control codes
-> known to be omitted from the input tape. During printing, the operator
-> changes type elements when necessary, loads paper as required, and makes and
-> enters hyphenation decisions if justified copy is being printed
-> [@bishop_development_1968, 382].
-
-The tape unit and the control unit thus intervene between the keyboard and the
-printed page. The "final printing" combines roughly the "prepared copy" with
-"control and reference codes" and "printer output" [@bishop_development_1968;
-@may_ibm_1981]. The materials from the time often speak of three distinct
-human operators that could be responsible for each stage of the production:
-one entering the copy, one specifying the control codes, and one responsible
-for handling the paper output. The machine operators could hypothetically work
-in isolation from one another. The typist would see only elements of the copy;
-the typesetter or the controller only formatting and control codes; and the
-printer only the interpolated results.
-
-!["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
-
-Researchers working on these early IBM word processing machines saw the
-separation of print into such distinct strata as one of their major
-contributions to the history of print writ large. A consultant writing for the
-*IBM Journal* in 1968 imagines the "evolution of composition" that proceeded
-from handwriting, to wood engraving, movable type, letterpress, and, finally,
-to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
-printing process in this evolution," he writes. He concludes to say that the
-IBM Composer finally empowers the writer to once again write books "without
-the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
-aside, the separation of the sign from its immediate material contexts
-constituted a major milestone in the history of writing and textuality.
-
-In this chapter, I would like to give a historical account of a letter's
-passage from paper to pixel. The movement proceeds in three stages:
-
-1. The mechanization of type reached its apogee in the telegraph at the end of
-the nineteenth century. With the advent of telegraphy, "content" meant for
-humans began to intertwine with "control codes" used to operate machines
-remotely. Content and control couple at the visible surface of programmable
-storage media (ticker tape and punch card).
-
-2. Where the ticker tape and the punch card were legible without specialized
-"reader" devices, the use of magnetic tape submerged the mixed stream of
-letters and control codes into an inscrutable substance. Until the late 1960s,
-machine operators work "blindly," using complicated workarounds to verify
-equivalence between input, storage, and output. Writing involves multiple
-"typings" and reading specialized devices that give access to magnetic
-storage.
-
-3. The addition of Cathode Ray Tube (CRT) displays to the pathway of a sign
-through the computational system restores a measure of legibility lost to
-magnetic storage media. The familiar sign reemerges on the screen, but
-crucially, it now constitutes a simulation of the archived inscription. Typing
-a word on keyboard produces one sort of a structure on tape or disk and
-another on the screen. The two are related but not equivalent.
-
-The diffusion of simulated text through the Turing machine will lead us to an
-archive of source materials somewhat unusual for a work on literary theory. It
-will allow us to perceive computation as a type of a literary activity,
-comprehensible in the lineage of symbolism and book history. In search for the
-location of the symbol, we will explore a number of symbol-manipulating
-devices that facilitate the production of text. These will be found on the
-pages of mathematical journals and in patent portfolios. Their ubiquity
-necessitates our attention. Several such devices, which have fundamentally
-changed the nature of the literary encounter, will emerge by the end of the
-chapter. Together, they tell the story of a bargain that defines
-human--computer interaction: to trade facility for comprehension, to
-complicate in return for the illusion of simplicity, and to exist within that
-illusion without understanding how it is made.
-
-As we embark to explore the consequences of computed text, I propose we keep
+Historical detail needed to bolster the diffusion of simulated text along the
+above trajectory leads us to a cluster of textual machines. I propose we keep
 the following three landmark mechanisms in view as milestones along our
-journey: Goldberg's *Controller*, the IBM *MT/SC*, and Engelbart's *Time Fob*.
-In the first of these, text structure and machine control lie before us for
-inspection. The second one is mute: a black slate. The last of these belongs
-to what Peter Denning calls the "third generation" of computer systems---an
-assemblage of storage, input, and output technologies that continue to shape
-the contemporary human encounter with text today.[^ln2-denning] These devices
-tell the story of a fracture. Through them, the sign fades from view into an
-arrangement of magnetic charge and floating gate at the site of storage.
-Another phantasmal sign appears at the site of projection.
+journey: the Controller patented by Hyman Goldberg in 1911; the The Magnetic
+Reader introduced by Robert Youngquist and Robert Hanes in 1958; and, for a
+lack of a better concise name, the Time Fob, introduced by Douglas Engelbart
+in 1968. The maker of the first of these devices attempts to heal the rift
+between human and machine alphabets, inventing a kind of a mechanical punch
+card capable of moving minds and levers alike, using the same kind of writing.
+The second device attempts to give its human operators a glimpse into the
+hidden world of magnetic polarities and electric charges. The last of these
+belongs to what Peter Denning, a prominent computer scientist has called the
+"third generation" of computer systems---an assemblage of storage, input, and
+output technologies that continue to shape our contemporary encounter with
+text today.[^ln2-denning] Together, these devices tell a story of a fracture
+and a of a compromise at the center of simulated textuality. What we see
+cannot always be what we get. Our inscriptions elude us, even as we learn how
+to recover a sense of literacy from physicalities ever retreating, illegible,
+encrypted, and opaque.
 
-[^ln2-hayles]: See also @hayles_print_2004.
-
-### A. Teletype (Input)
+### A. Machine Control
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
@@ -600,7 +544,7 @@ humans coincided on one and the same plane, but only for a time. Magnetic
 tape, mute and inscrutable, soon replaced punch card and ticker tape as the
 preferred medium for data storage.
 
-### B. Magnetic Tape (Storage)
+### B. Magnetic Reading
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -979,7 +923,7 @@ separated readers into those able to effect the mixture of content and control
 that shapes the literary encounter and those who observed passively, at the
 shimmering surface of archival projection.
 
-### C. Screen (Output)
+### C. Restored Sight
 
 By decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process
@@ -1472,4 +1416,76 @@ the punches associated with this unit, under manual control. Second, as
 suitable control tape may be coded directing the calculator to compute the
 values of *f(x)* and record them by means of one of the four output punches,
 mounted on the right wing of the machine" [@staff_description_1949, 34].
+
+
+The structure of textual artifacts---from a simple leaflet to a novel in
+multiple volumes---has remained remarkably stable since the invention of
+movable type. One rarely finds a sentence that spans several paragraphs, for
+example. Nor would a contemporary reader expect to find pages of different
+length in the same tome.  Long-standing historical conventions guide the
+production of printed text.  Semantic and decorative units on a page exist
+within a strict hierarchy, so familiar to us as to become almost invisible. No
+book of serious non-fiction will be typeset in cursive font, for example. But
+unless something out of the ordinary attracts our attention, readers will tend
+to gloss the "inconsequential" details of formatting in favor of content. The
+material contexts of a well designed book fade from view during reading.
+
+For a few decades after the advent of magnetic storage media but before screen
+technology, the outward shape of the sign disappeared altogether. It is
+difficult to fathom now, but at the time after the introduction of magnetic
+tape in the 1960s but before the wide-spread advent of cathode ray tube
+displays in the 1980s, the typewriter operator and the computer programmer
+often manipulated text blindly. Where the page or the punch card gave
+immediate visual feedback, the magnetic tape was inscrutable. The word could
+be "processed" or altered with codes that controlled attributes like indent
+size or justification *before* committing ink to paper. A paper describing the
+popular IBM Magnetic Tape Selectric Typewriter (MT/ST) introduced in 1964
+describes the novelty of the system as follows:
+
+> It could be emphasized for the first time that the typist could type at
+> "rough draft" speed, "backspace and strike over" errors, and not worry about
+> the pressure of mistakes made at the end of the page [@may_ibm_1981, 742].
+
+The IBM Magnetic Tape Selectric Composer (MT/SC) further added a "programmable
+control" unit to separate the input from the output. Final printing would be
+accomplished by:
+
+> mounting the original tape and the correction tape, if any, on the
+> two-station reader output unit, setting the pitch, leading, impression
+> control and dead key space of the composer unit to the desired values, and
+> entering set-up instructions on the console control (e.g., one-station or
+> two-station tape read, depending on whether the correction tape is present;
+> line count instructions for the format control and space to be left for
+> pictures, etc.; special format instructions; and any required control codes
+> known to be omitted from the input tape. During printing, the operator
+> changes type elements when necessary, loads paper as required, and makes and
+> enters hyphenation decisions if justified copy is being printed
+> [@bishop_development_1968, 382].
+
+The tape unit and the control unit thus intervene between the keyboard and the
+printed page. The "final printing" combines roughly the "prepared copy" with
+"control and reference codes" and "printer output" [@bishop_development_1968;
+@may_ibm_1981]. The materials from the time often speak of three distinct
+human operators that could be responsible for each stage of the production:
+one entering the copy, one specifying the control codes, and one responsible
+for handling the paper output. The machine operators could hypothetically work
+in isolation from one another. The typist would see only elements of the copy;
+the typesetter or the controller only formatting and control codes; and the
+printer only the interpolated results.
+
+!["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
+
+Researchers working on these early IBM word processing machines saw the
+separation of print into such distinct strata as one of their major
+contributions to the history of print writ large. A consultant writing for the
+*IBM Journal* in 1968 imagines the "evolution of composition" that proceeded
+from handwriting, to wood engraving, movable type, letterpress, and, finally,
+to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
+printing process in this evolution," he writes. He concludes to say that the
+IBM Composer finally empowers the writer to once again write books "without
+the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
+aside, the separation of the sign from its immediate material contexts
+constituted a major milestone in the history of writing and textuality.
+
+[^ln2-hayles]: See also @hayles_print_2004.
 
