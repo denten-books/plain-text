@@ -6,10 +6,10 @@ cover-image: "images/steno.png"
 csl: csl/mla-no-biblio.csl
 bibliography: plain-text.bib
 toc: true
+documentclass: article
 mainfont: "fbb"
 fontsize: 12pt
 date:
-documentclass: scrartcl
 classoption: none
 header-includes:
 - \newcommand{\sectionbreak}{\clearpage}
@@ -18,3 +18,5 @@ header-includes:
 - \rhead{\today\hspace{0.5em}|\hspace{0.5em}draft copy\hspace{0.5em}|\hspace{0.5em}do not circulate}
 - \lhead{}
 ---
+
+<!-- documentclass: scrartcl -->

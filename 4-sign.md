@@ -173,15 +173,17 @@ century was a pivotal period in the history of computing and communications.
 The advent of programmable media---punch cards and ticker tape---coupled
 natural language alphabets with machine control code. Reduced to discrete and
 reliably reproducible alphabets, the so called "natural languages" could now
-be converted into the modulation of electrical signal.  Language in such a
-transitive state became more mobile than ever before. It could be transmitted
-efficiently across vast distances. Moreover, the mechanization of type
-introduced new "control" characters into circulation, intended to affect
-machine state changes at a distance. Initially, such state changes were
-simple: "begin transmission," "sound error bell," "start new line." With time,
-these control codes developed into what we now know as a programming language.
-At the turn of the century, the language of people and the language of
-machines entered into the same stream of communications.
+be converted into the modulation of electrical signal, and further converted
+into "artificial languages" meant to orchestrate the conveyance of information
+in time and space . Language in such a transitive state became more mobile
+than ever before. It could be transmitted efficiently across vast distances.
+Moreover, the mechanization of type introduced new "control" characters into
+circulation, intended to affect machine state changes at a distance.
+Initially, such state changes were simple: "begin transmission," "sound error
+bell," "start new line." With time, these control codes developed into what we
+now know as a programming language.  At the turn of the century, the language
+of people and the language of machines entered into the same stream of
+communications.
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
