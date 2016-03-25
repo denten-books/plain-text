@@ -262,8 +262,8 @@ the meaning-carrying units of Morse code could vary greatly with the
 vagrancies of the transmitting medium. Cross talk between wires and weather
 interferences were common, which meant that communicating in Morse still
 required a human operator for efficient ciphering and deciphering of the
-transmission. In a long-chain of mediation telegraph operator, code, and
-machine, the human posed a limiting factor.
+transmission. In a long-chain of time-sensitive transmission between the
+message and its recipient, the human posed a limiting factor.
 
 Telegraph operators working a "hand sender" commonly developed partial
 paralysis of wrist or arm, commonly known as a "glass arm"
@@ -274,7 +274,9 @@ someone under the table" in sender's lingo was to transmit faster that the
 receiver ability to transcribe. The "reader" was "burnt up" when he fell
 behind. He had to "break," or interrupt the sender to ask for repetition. To
 "paste" someone meant to transmit at high speeds to deliberately burn him up
-or put him under the table [@brackbill_telegraphers_1929].
+or put him under the table [@brackbill_telegraphers_1929].[^ln4-men]
+
+[^ln4-men]: The operators at the time were all almost exclusively male.
 
 The Hughes telegraph, an 1855 design modification of an 1846 telegraph
 invented by the American Royal E. House, was a capricious machine that relied
@@ -288,25 +290,35 @@ initial synchronization signal and the struck chord corresponded to a letter,
 which the machine then printed to tape using a letter wheel. Hughes referred
 to the device as a "Compound Magnetic and Vibrating Printing Instrument," a
 name that hints at the fragility of the device. The message became impossible
-to decipher should the sending drum and the receiving drum fall out of sync
-[@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
-20-21].
+to decipher should the sending drum and the receiving drum fall out of
+synchronization [@hughes_improvement_1856; @hayles_print_2004, 145-147;
+@noll_evolution_2007, 20-21]. Coordination between the various machines and
+their operators was of paramount importance.
 
 Emile Baudot was one of the first engineers to notice that the prevailing
 Morse and Hughes telegraph systems failed to make full use of the time
 allotted for message transmission. The Hughes code in particular made
 extensive use of long silences, which could be condensed to extract more
-utility from the channel.  Baudot-type multiplexers made use of synchronized
+utility from the channel. Baudot-type multiplexers made use of synchronized
 rotating mechanisms both of the sending and the receiving end, to distribute
-units of time among multiple operators. Figure 6 shows a scheme for a duplex
-printing telegraph, for example. A single rotation of the synchronization
-device (known as the "distributor") was thereby divided into two units of five
-segments each, each corresponding to a distinct channel of communication. Two
-operators could therefore share the same channel to transmit two different
-messages.
+units of time among multiple operators. A "duplex" printing telegraph, of the
+Murray type involved a complicated synchronization device, known as the
+"distributor," capable of orchestrating several distinct streams of
+transmission along the same channel. Taking turns to transmit to the regular
+tolling of a tuning bell, two operators could use the same channel to transmit
+two distinct messages. The receiving machine would then separate one message
+from the other based on its time signature [@murray_setting_1905].[^ln4-sync]
 
+[^ln4-sync]: Imagine one operator sending messages on top of the hour and the
+other on the bottom. In this way, the receiver can easily sort messages based
+on their time signature: all those sent on top of the hour go into one pile,
+on the bottom go into another. The same principle applies condensed down to
+smaller intervals.
+
+<!--
 ![Multiple Printing Telegraph, 1905
 [@murray_setting_1905].](images/multiplex.png)
+-->
 
 The maintaining of unison became of paramount importance in such multiplexed
 systems. The operators of a time-shared device needed to know when it was their
