@@ -162,11 +162,11 @@ magnetic polarities and electric charges. The last of these belongs to what
 Peter Denning, a prominent computer scientist has called the "third
 generation" of computer systems---an assemblage of storage, input, and output
 technologies that continue to shape our contemporary encounter with text
-today.[^ln2-denning] Together, these devices tell a story of a fracture and a
-of a compromise at the center of simulated textuality. What we see cannot
-always be what we get. Our inscriptions elude us, even as we learn how to
-recover a sense of literacy from physicalities ever retreating, illegible,
-encrypted, and opaque.
+today.[^ln2-denning] Together, these devices tell a story of a fracture and of
+a compromise at the center of simulated textuality. What we see cannot always
+be what we get. Our inscriptions elude us, even as we learn how to recover a
+sense of literacy from physicalities ever retreating, illegible, encrypted,
+and opaque.
 
 ### A. Machine Control
 
@@ -182,31 +182,35 @@ could be transmitted efficiently across vast distances. The mechanization of
 type introduced new control characters into circulation, intended to affect
 machine state changes at a distance. Initially, such state changes were
 simple: "begin transmission," "sound error bell," "start new line." With time,
-these control codes developed into what we now know as a programming language.
+these control codes developed into what we now know as programming languages.
 At the turn of the century, the language of people and the language of
-machines entered into the same stream of communications.
+machines split and entered into the same stream of communications.
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
-alphabet, conceived of that transformation in terms of movement from space to
-time. Advancing a self-professed "metaphysics of telegraph signalling
-alphabets," he described spatial writing symbols that "appeal to the eye," and
-temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
-signals (like words on a billboard) occupy little space, but persist in time.
-"For instance, a signboard may extend over 10 feet and 100 years," Murray
-writes. Time signals are ephemeral by contrast: "a Morse signal in a wire may
-extend over half a second and 500 miles" [@murray_setting_1905, 86]. Spatial
+alphabet, conceived of telecommunications in terms of time and space.
+Advancing a self-professed "metaphysics of telegraph signalling alphabets," he
+described spatial writing symbols that "appeal to the eye," and temporal,
+"telephonic" signals that "appeal to the ear." Paradoxically, space signals
+(like words on a billboard) occupy little space, but persist in time.  "For
+instance, a signboard may extend over 10 feet and 100 years," Murray writes.
+Time signals are ephemeral by contrast: "a Morse signal in a wire may extend
+over half a second and 500 miles" [@murray_setting_1905, 86]. Spatial
 distortion of the word presents similar problems for analysis as is its
 temporal extension. In print, the reader must mentally assemble consecutive
 physical markings to create abstract categories like sentences, paragraphs,
 and chapters that are not otherwise accessible to the mind in their entirety.
-The fact that the sign is not visible in its entirety, adds to the complexity.
-Besides reassembling the sign in time the reader must also walk the length of
-the inscription to discern its shape. The inscription gains a complex new
-shape which extends away and beyond the reader's field of view.
+Like the billboard, the spatial symbol persists through time. The fact that
+the digital, electronic sign is not readily visible in its entirety, adds to
+the complexity of interpretation. Besides reassembling the sign in time the
+reader must also walk the length of the inscription to discern its shape. The
+inscription gains a complex new time signature which extends away and beyond
+the reader's field of view.
 
-As telegraphy spanned national boundaries, agreements were needed to
-standardize conventions for equipment and message encoding
+Let us spend a few moments on telegraph alphabets to reconstruct a sense of
+the tempo that the machines brought into human communications at the turn of
+the twentieth century. As telegraphy spanned national boundaries, agreements
+were needed to standardize conventions for equipment and message encoding
 [@international_telegraph_union_journal_1899, 82-91]. Such agreements were
 handled on a regional, ad-hoc basis until 1865, with the creation of the
 International Telegraph Union (ITU). The International Telegraph Conference in
@@ -227,20 +231,20 @@ dashes, and silences of various length. Furthermore, note that in Morse code a
 single letter could be expressed as a series of dots and dashes of variable
 length: from one dash that stands for letter "t" to six dots that stand for
 the number six. The transmission of variable length codes required the
-presence of a human operator who could "translate" form natural language to
-the machine alphabet, using a "key" which when depressed vertically would
-complete an electrical circuit to produce the signal. Writing in 1929 for the
-journal *American Speech*, Hervey Brackbill preserved some of the specialized
-language associated with Morse code culture. "Morse telegraphy is commonly
-referred to as a 'game,' and the operator 'works a wire,'" he wrote. An
-operator tapping a key "uses a bug." "The first instruments," Brackbill wrote,
-"with their long slender levers and springs, looked very much like a sprawling
-bug." They have trade names like "Lighting Bug," "Gold Bug," and "Cootie" (for
-a small model) [@brackbill_telegraphers_1929, 287-288]. Operators using
-"straight keys" practically achieved speeds upwards of 25--30 words per
-minute, limited by the shortest possible length of the smallest transmitted
-unit (a dot), fixed by the American and the International Morse Code
-conventions to 1/24 of a second in duration.
+presence of a human operator who could "translate" from natural to machine
+language using a "key" which when depressed vertically would complete an
+electrical circuit to produce the signal. Writing in 1929 for the journal
+*American Speech*, Hervey Brackbill preserved some of the specialized language
+associated with Morse code culture. "Morse telegraphy is commonly referred to
+as a 'game,' and the operator 'works a wire,'" he wrote. An operator tapping a
+key "uses a bug." "The first instruments," Brackbill wrote, "with their long
+slender levers and springs, looked very much like a sprawling bug." They have
+trade names like "Lighting Bug," "Gold Bug," and "Cootie" (for a small model)
+[@brackbill_telegraphers_1929, 287-288]. Operators using "straight keys"
+practically achieved speeds upwards of 25--30 words per minute, limited by the
+shortest possible length of the smallest transmitted unit (a dot), fixed by
+the American and the International Morse Code conventions to 1/24 of a second
+in duration.
 
 Around the turn of the twentieth century, companies like Western Electric,
 Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
@@ -272,33 +276,34 @@ behind. He had to "break," or interrupt the sender to ask for repetition. To
 "paste" someone meant to transmit at high speeds to deliberately burn him up
 or put him under the table [@brackbill_telegraphers_1929].
 
-The Hughes telegraph, an 1855 design modification of an 1846 telegraph invented
-by the American Royal E. House, was a capricious machine that relied on a
-tuning mechanism to transmit individual characters. Inspired by the player
-piano, the Hughes telegraph even looked like a piano, complete with a keyboard
-and a rotating drum, commonly used in music boxes. The sending device struck a
-tone which, when transmitted by electrical current, would initiate the rotation
-of a similar drum in the receiving apparatus "at the pleasure of the distant
-operator," in Hughes's words. The length of time between the initial
-synchronization signal and the struck chord corresponded to a letter, which the
-machine then printed to tape using a letter wheel. Hughes referred to the
-device as a "Compound Magnetic and Vibrating Printing Instrument," a name that
-hints at the fragility of the device. The message became impossible to decipher
-should the sending drum and the receiving drum fall out of sync
+The Hughes telegraph, an 1855 design modification of an 1846 telegraph
+invented by the American Royal E. House, was a capricious machine that relied
+on a tuning mechanism to transmit individual characters. Inspired by the
+player piano, the Hughes telegraph even looked like a piano, complete with a
+keyboard and a rotating drum, commonly used in music boxes. The sending device
+struck a tone which, when transmitted by electrical current, would initiate
+the rotation of a similar drum in the receiving apparatus "at the pleasure of
+the distant operator," in Hughes's words. The length of time between the
+initial synchronization signal and the struck chord corresponded to a letter,
+which the machine then printed to tape using a letter wheel. Hughes referred
+to the device as a "Compound Magnetic and Vibrating Printing Instrument," a
+name that hints at the fragility of the device. The message became impossible
+to decipher should the sending drum and the receiving drum fall out of sync
 [@hughes_improvement_1856; @hayles_print_2004, 145-147; @noll_evolution_2007,
 20-21].
 
-Emile Baudot was one of the first engineers to notice that the prevailing Morse
-and Hughes telegraph systems failed to make full use of the time allotted for
-message transmission. The Hughes code in particular made extensive use of long
-silences, which could be condensed to extract more utility from the channel.
-Baudot-type multiplexers made use of synchronized rotating mechanisms both of
-the sending and the receiving end, to distribute units of time among multiple
-operators. Figure 6 shows a scheme for a duplex printing telegraph, for
-example. A single rotation of the synchronization device (known as the
-"distributor") was thereby divided into two units of five segments each, each
-corresponding to a distinct channel of communication. Two operators could
-therefore share the same channel to transmit two different messages.
+Emile Baudot was one of the first engineers to notice that the prevailing
+Morse and Hughes telegraph systems failed to make full use of the time
+allotted for message transmission. The Hughes code in particular made
+extensive use of long silences, which could be condensed to extract more
+utility from the channel.  Baudot-type multiplexers made use of synchronized
+rotating mechanisms both of the sending and the receiving end, to distribute
+units of time among multiple operators. Figure 6 shows a scheme for a duplex
+printing telegraph, for example. A single rotation of the synchronization
+device (known as the "distributor") was thereby divided into two units of five
+segments each, each corresponding to a distinct channel of communication. Two
+operators could therefore share the same channel to transmit two different
+messages.
 
 ![Multiple Printing Telegraph, 1905
 [@murray_setting_1905].](images/multiplex.png)
