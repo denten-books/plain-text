@@ -94,7 +94,7 @@ affordances and consequences. They are first and foremost hidden from view.
 Drives and tapes reside of boxes encased in plastic and aluminum. If only
 because they carry electrical current and have the potential to catch fire,
 they are regulated. They contain heavy and rare metals, often hazardous if
-touched or ingested. Flash cards, memory stick, solid state storage devices,
+touched or ingested. Flash cards, memory sticks, solid state storage devices,
 and magnetic disk drives contain circuitry to prevent unauthorized access and
 to resist tempering. Within them, text intertwines with machine internals,
 often sealed hermetically and hermeneutically, in a way that resists human
@@ -116,17 +116,18 @@ flat, multiply planes of inscription stratify computed text.[^ln2-hayles]
 How did this multiplicity come to be? And what effect does it have on the life
 of the mind? The purpose of this chapter is to make visible the gap between
 the projected sign and the archived inscription. Here, I would like to give a
-historical account of a letter's passage from paper to pixel. The development
-of this chapter proceeds in three stages, summarized here and expanded later.
+historical account of a letter's passage from paper to pixel. The narrative
+arc of this chapter proceeds in three stages, which I summarize here and
+expand upon later.
 
-First, in the age of the telegraph we observe the divide between
-human-readable text and machine-readable code. Removable storage media like
-ticker tape and punch card constitutes a set of instructions for a machine,
-meant to actuate a mechanism which in turn produces human-legible
-inscriptions. Unintelligible (to a lay person) control codes used to "drive"
-the machine are thereby mixed with plain text content of communication. The
-inscription splits between storage, containing an expanded character set, and
-its representation containing only the human alphabets.
+First, with the initial advance of telecommunications in the telegraph age we
+observe the emerging divide between human-readable text and machine-readable
+code. Removable storage media like ticker tape and punch card constitute a set
+of instructions for a machine, meant to actuate a mechanism which in turn
+produces human-legible inscriptions. Unintelligible (to a lay person) control
+codes "driving" the machine are thereby mixed with plain text content of
+communication. The inscription splits between storage, containing an expanded
+character set, and its representation containing only the human alphabets.
 
 Second, where the ticker tape and the punch card were legible without
 specialized "reader" devices, the use of magnetic tape submerged the mixed
@@ -142,28 +143,29 @@ of legibility lost to magnetic storage media. The familiar sign reemerges on
 the screen, but crucially, it now constitutes a simulation of the archived
 inscription. Typing a word on keyboard produces one sort of a structure on
 tape or disk and another on the screen. The two are related but not
-equivalent. The lay reader still does not have the means to check for
-veracity. An opaque "black box" of a machine mediates between reading and
-writing.
+homologous. The lay reader has no means to ensure correspondence between
+visible trace and stored mark. An opaque "black box" of a computational device
+mediates between reading and writing.
 
 Historical detail needed to bolster the diffusion of simulated text along the
 above trajectory leads us to a cluster of textual machines. I propose we keep
 the following three landmark mechanisms in view as milestones along our
 journey: the Controller patented by Hyman Goldberg in 1911; the The Magnetic
 Reader introduced by Robert Youngquist and Robert Hanes in 1958; and, for a
-lack of a better concise name, the Time Fob, introduced by Douglas Engelbart
-in 1968. The maker of the first of these devices attempts to heal the rift
-between human and machine alphabets, inventing a kind of a mechanical punch
-card capable of moving minds and levers alike, using the same kind of writing.
-The second device attempts to give its human operators a glimpse into the
-hidden world of magnetic polarities and electric charges. The last of these
-belongs to what Peter Denning, a prominent computer scientist has called the
-"third generation" of computer systems---an assemblage of storage, input, and
-output technologies that continue to shape our contemporary encounter with
-text today.[^ln2-denning] Together, these devices tell a story of a fracture
-and a of a compromise at the center of simulated textuality. What we see
-cannot always be what we get. Our inscriptions elude us, even as we learn how
-to recover a sense of literacy from physicalities ever retreating, illegible,
+lack of a better name, the Time Fob, introduced by Douglas Engelbart in 1968.
+The maker of the first of these devices attempts to heal the rift between
+human and machine alphabets, inventing a kind of a mechanical punch card
+capable of moving minds and levers alike, using an alphabet understood by
+humans and machines both, after one and the same inscription. The second
+device attempts to give its human operators a glimpse into the hidden world of
+magnetic polarities and electric charges. The last of these belongs to what
+Peter Denning, a prominent computer scientist has called the "third
+generation" of computer systems---an assemblage of storage, input, and output
+technologies that continue to shape our contemporary encounter with text
+today.[^ln2-denning] Together, these devices tell a story of a fracture and a
+of a compromise at the center of simulated textuality. What we see cannot
+always be what we get. Our inscriptions elude us, even as we learn how to
+recover a sense of literacy from physicalities ever retreating, illegible,
 encrypted, and opaque.
 
 ### A. Machine Control
