@@ -331,10 +331,10 @@ and signals, synchronized by the rotation of the telegraph distributor.
 Synchronization was also needed for Morse code devices, to distinguish
 non-meaning carrying silence (the receiver is turned off) from the
 meaning-carrying one (the receiver pauses to indicate a dot). The receiving
-device needed a measure (duration) of silence to differentiate between "dots"
-and spaces between words, both indicated by silences of different length. But
-if the devices went out of sync, or if communication lagged for some reason,
-the coherence of the message faltered. Sending and receiving machines had to be
+device needed a measure, a duration of silence to differentiate between "dots"
+and spaces between words, both indicated by silences of different length. When
+the devices went out of sync, or if communication lagged for some reason, the
+coherence of the message faltered. Sending and receiving machines had to be
 tuned to a cadence of common information exchange. The system of operators,
 transmitters, and receivers, was, in aggregate, tuned to a specific but
 arbitrary rhythm by which certain messages made sense only in particular (also
@@ -343,27 +343,33 @@ than natural human time, enough so for the operator to remain idle. Later
 systems increased the pace to a rhythm beyond natural human abilities of
 comprehension, to a point where human operators could no longer decipher the
 signal without machine assistance. In the language of wiremen, the bugs were
-"running away with" the whole "game" [@brackbill_telegraphers_1929, 288].
+"running away with" the whole "game" [@brackbill_telegraphers_1929, 288]. A
+human operator examining the signals passing through the wire would find a
+jumble of data. In fact, in some sense, this is the definition of data:
+information beyond human time, not available to attempts of unmediated, direct
+interpretation.
 
-Several engineering solutions emerged to transcend the limits of human
-information processing. The automated printing telegraph decoupled encoding
-from transmission. It then became possible to prepare messages in advance, in
-volume, and to run the messages through a machine without human assistance. At
-that point, telegraph diverged from the telephone to become a device of
-asynchronous communication, displacing the act of communication in time as it
-did in space. But even with the advent of removable storage media, the
-bandwidth, or the "information density," of the system was limited by the
-number and the size of available cables. Independent developments in
-communication technology led to a range of techniques known as
-"multiplexing"---ways of sharing the same wire to send multiple messages.
-Multiplexing at the time fell into two broad approaches: time-division and
-pulse-amplitude modulation [@rowland_multiplex_1901; @hausmann_telegraph_1915].
-Pulse-amplitude modulation involved filling the available space (bandwidth)
-with simultaneous signals of different types: sending multiple signals at
-differing frequencies that shared the same channel.[^ln1-multi] Pulse-amplitude
-modulation was difficult to implement initially. Cross-channel noise and device
-sensitivity hampered reliable reception and decoding across multiple
-simultaneous wave frequencies.
+Several engineering solutions emerged to augment the sensory limits of human
+information processing. Most importantly, the automated printing telegraph
+decoupled encoding from transmission. At that point, it became possible to
+prepare messages in advance, in volume, and to run the messages through a
+machine without human assistance. With the introduction of mechanised reading
+and writing techniques, the telegraph diverged from the telephone to become a
+device of asynchronous communication, displacing the act of communication in
+time as it did in space.
+
+The "information density," of the system was further limited by the number and
+the size of available cables. Independent developments in communication
+technology led to a range of techniques known as "multiplexing"---ways of
+sharing the same wire to send multiple messages.  Multiplexing at the time
+fell into two broad approaches: time-division, described above, and
+pulse-amplitude modulation [@rowland_multiplex_1901;
+@hausmann_telegraph_1915]. Pulse-amplitude modulation involved filling the
+available space (bandwidth) with simultaneous signals of different types:
+sending multiple signals at differing frequencies that shared the same
+channel.[^ln4-multi] Pulse-amplitude modulation was difficult to implement
+initially. Cross-channel noise and device sensitivity hampered reliable
+reception and decoding across multiple simultaneous wave frequencies.
 
 Although the discovery of binary arithmetic rightly belongs to
 Gottfried Leibniz, who, influenced by hexagrams in the *I Ching*, articulated
@@ -704,6 +710,11 @@ with a "thin film composed of finely divided magnetic oxides of iron suspended
 in a plastic lacquer, and applied to the drums with an artist's air brush"
 [@staff_description_1952, 1]. Mark III employed twenty-five such drums,
 rotating at 6900 rpm and each capable of storing 240 binary digits.
+
+[^ln3-multi]: Technical literature makes a distinction between space- and
+frequency- division multiplexing. On some level, space-division multiplexing
+simply involves the splitting of a signal into multiple physical channels
+(wires). Frequency-division better "fills" the space of a single channel.
 
 In addition to the fast "internal storage" drums, the "floor plan" included
 eight slow "external storage" tape-read mechanisms. Tape was slower than drums

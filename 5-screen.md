@@ -1318,11 +1318,6 @@ current" [@itu_telegraph_1932, 36].
 [^ln3-kittler]: This along with the ominous "laying of cables" that concludes
 Friedrich Kittler's *Gramophone, Film, Typewriter*.
 
-[^ln3-multi]: Technical literature makes a distinction between space- and
-frequency- division multiplexing. On some level, space-division multiplexing
-simply involves the splitting of a signal into multiple physical channels
-(wires). Frequency-division better "fills" the space of a single channel.
-
 [^ln3-tele]: See for example @angell_pro_2009, 233:  "The telegraph is a
 digital device sending only high and low pulses through the wire;"
 @jepsen_my_2001, 195: "The telegraph was a digital device that used dots and
