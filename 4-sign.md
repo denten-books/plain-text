@@ -171,35 +171,37 @@ encrypted, and opaque.
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
 The advent of programmable media---punch cards and ticker tape---coupled
-natural language alphabets with machine control code. Reduced to discrete and
-reliably reproducible alphabets, the so called "natural languages" could now
-be converted into the modulation of electrical signal, and further converted
-into "artificial languages" meant to orchestrate the conveyance of information
-in time and space . Language in such a transitive state became more mobile
-than ever before. It could be transmitted efficiently across vast distances.
-Moreover, the mechanization of type introduced new "control" characters into
-circulation, intended to affect machine state changes at a distance.
-Initially, such state changes were simple: "begin transmission," "sound error
-bell," "start new line." With time, these control codes developed into what we
-now know as a programming language.  At the turn of the century, the language
-of people and the language of machines entered into the same stream of
-communications.
+human-compatible alphabets with machine control code. Reduced to a discrete
+and reliably reproducible set of characters, natural languages could now be
+converted into the modulation of electrical signal, and further converted into
+"artificial languages" meant to orchestrate the conveyance of information.
+Language in such a transitive state became more mobile than ever before. It
+could be transmitted efficiently across vast distances. The mechanization of
+type introduced new control characters into circulation, intended to affect
+machine state changes at a distance. Initially, such state changes were
+simple: "begin transmission," "sound error bell," "start new line." With time,
+these control codes developed into what we now know as a programming language.
+At the turn of the century, the language of people and the language of
+machines entered into the same stream of communications.
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
 alphabet, conceived of that transformation in terms of movement from space to
-time. Unfolding something like the "metaphysics of telegraph signalling
+time. Advancing a self-professed "metaphysics of telegraph signalling
 alphabets," he described spatial writing symbols that "appeal to the eye," and
 temporal, "telephonic" signals that "appeal to the ear." Paradoxically, space
 signals (like words on a billboard) occupy little space, but persist in time.
 "For instance, a signboard may extend over 10 feet and 100 years," Murray
 writes. Time signals are ephemeral by contrast: "a Morse signal in a wire may
-extend over half a second and 500 miles" [@murray_setting_1905, 86]. When
-viewed in the light of telegraphy, technologies of writing stretched the sign
-in time and space. We are still in a sense struggling with the hermeneutics of
-the elongated sign. Though the letters seem to appear as before, the word
-gains a complex new shape which extends away and beyond the reader's field of
-view.
+extend over half a second and 500 miles" [@murray_setting_1905, 86]. Spatial
+distortion of the word presents similar problems for analysis as is its
+temporal extension. In print, the reader must mentally assemble consecutive
+physical markings to create abstract categories like sentences, paragraphs,
+and chapters that are not otherwise accessible to the mind in their entirety.
+The fact that the sign is not visible in its entirety, adds to the complexity.
+Besides reassembling the sign in time the reader must also walk the length of
+the inscription to discern its shape. The inscription gains a complex new
+shape which extends away and beyond the reader's field of view.
 
 As telegraphy spanned national boundaries, agreements were needed to
 standardize conventions for equipment and message encoding
