@@ -184,7 +184,12 @@ machine state changes at a distance. Initially, such state changes were
 simple: "begin transmission," "sound error bell," "start new line." With time,
 these control codes developed into what we now know as programming languages.
 At the turn of the century, the language of people and the language of
-machines split and entered into the same stream of communications.
+machines split and entered into the same stream of communications. With the
+advent of the automated telegraph, content meant for people was being
+routinely intermixed with code meant to control machine devices remotely. Such
+remote control capabilities were used for everything from programming radio
+stations to advertising billboards and knitting machines [@hough_wired_1931;
+@adler_knitting_1933; @casper_remote_1934].
 
 Language compressed and pushed through the wires underwent a number of
 transformations. Donald Murray, the inventor of the popular Murray telegraph
@@ -521,7 +526,7 @@ and decoding messages required specialized training, adding cost and reducing
 the potential speed of telegraphy down to the pace of human comprehension.
 
 By the late 1920s the "Morse men" were being replaced with more efficient
-automated devices. By the 1930s, devices variously known as "printer
+automated substitutes. By the 1930s, devices variously known as "printer
 telegraphs," "teletypewriters," and "teletypes" displaced Morse code
 telegraphy as the dominant mode of commercial communication. The monthly
 "Labor Review" report published by the U.S. Bureau of Labor Statistics in
@@ -541,41 +546,32 @@ end. Operators did not need to concern themselves with the particulars of
 machine code at all. The machine control layer of communication began to
 recede out of sight.
 
-With the advent of the automated telegraph, content meant for people was now
-routinely being intermixed with code meant to control machine devices
-remotely. Such remote control capabilities were used for everything from
-programming radio stations to advertising billboards and knitting machines
-[@hough_wired_1931; @adler_knitting_1933; @casper_remote_1934]. The concern
-with the legibility of machine code thus emerges during the first few decades
-of the twentieth century. For the first time in the history of writing, the
-alphanumerical sign splits between human- and machine- readable inscription.
-For a time, the inscription remains visible at the surface of the control
-sheet, as perforated figure, punched through the medium.
-
 ![Goldberg's Control Cards [@goldberg_controller_1915].](images/control-2.png)
 
-One of the inventions attempting to address the problem of legibility was 
-
-"You must acknowledge that this is readable without special training," reads
-the caption to a schematic illustration for a "controller," patented by H.E.
-Goldberg in 1911. "My invention relates to all controllers," Goldberg writes.
-The object of Goldberg's controller was "to provide a mechanism operable by a
-control sheet which is legible to every person having sufficient education to
-enable him to read." Goldberg illustrates his invention in attaching to his
-patent "a control sheet in which the control characters are in the form of the
-letters of the ordinary English alphabet" [@goldberg_controller_1915]. Rather
-than using ticker tape, Goldberg proposed the use of perforations that while
-capable of actuating machine levers also formed letters. To counteract the
-unintelligibility of code, Goldberg imagines using cards, perforated in the
-shape of the English alphabet.  Thus besides carrying human-readable content,
-Goldberg's cards did "double duty" to mechanically manipulate the machine's
-"blocks," "handles," "terminal blades," and "plungers"
-[@goldberg_controller_1915].
+The concern with legibility of machine code thus emerged during the first few
+decades of the twentieth century. One of the inventions attempting to address
+the problem of legibility was the Controller, patented by Hyman Goldberg in
+1911. "You must acknowledge that this is readable without special training,"
+reads the caption to a schematic illustration of the device. "My invention
+relates to all controllers," Goldberg writes. The object of Goldberg's
+controller was "to provide a mechanism operable by a control sheet which is
+legible to every person having sufficient education to enable him to read."
+Goldberg illustrates his invention in attaching to his patent "a control sheet
+in which the control characters are in the form of the letters of the ordinary
+English alphabet" [@goldberg_controller_1915]. Rather than using ticker tape,
+Goldberg proposed the use of perforations that while capable of actuating
+machine levers also formed letters. To counteract the unintelligibility of
+code, Goldberg imagines using cards, perforated in the shape of the English
+alphabet. Thus besides carrying human-readable content, Goldberg's cards did
+"double duty" to mechanically manipulate the machine's "blocks," "handles,"
+"terminal blades," and "plungers" [@goldberg_controller_1915].
 
 On Goldberg's control sheets, the language of machines and the language of
-humans coincided on one and the same plane, but only for a time. Magnetic
-tape, mute and inscrutable, soon replaced punch card and ticker tape as the
-preferred medium for data storage.
+humans coincided on one and the same plane, but only for a time. The
+inscription remained visible at the surface of the control sheet, as
+perforated figure, punched through the medium. Magnetic tape, mute and
+inscrutable, soon replaced punch card and ticker tape as the preferred medium
+for data storage.
 
 ### B. Magnetic Reading
 
