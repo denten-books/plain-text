@@ -212,8 +212,6 @@ reader must also walk the length of the inscription to discern its shape. The
 inscription gains a complex new time signature which extends away and beyond
 the reader's field of view.
 
-#### Tempo
-
 Let us spend a few moments on telegraph alphabets to reconstruct a sense of
 the tempo that the machines brought into human communications at the turn of
 the twentieth century. As telegraphy spanned national boundaries, agreements
@@ -284,8 +282,6 @@ behind. He had to "break," or interrupt the sender to ask for repetition. To
 or put him under the table [@brackbill_telegraphers_1929].[^ln4-men]
 
 [^ln4-men]: The operators at the time were all almost exclusively male.
-
-#### Unison
 
 The International Telegraph Conference in Lisbon, held in the summer of 1908,
 ratified two additional alphabet standards for international use: Hughes and
@@ -371,8 +367,6 @@ human operator examining the signals passing through the wire would find a
 jumble of data. In fact, in some sense, this is the definition of data:
 information beyond human time, not available to attempts of unmediated, direct
 interpretation.
-
-#### Regularity
 
 Hundreds of alphabet systems were devised to improve the speed of automated
 communications. These tended to evolve from variable-length alphabets like
@@ -464,7 +458,6 @@ novice cooks to follow instructions without the presence of a master chef.
 Similarly, displaced communication could happen in absentia, according to
 predetermined rules and instructions.
 
-
 This new generation of printing telegraphs could be "programmed" using
 removable storage media, in a way that a player piano is "programmed" to play
 a piece by means of a music roll. The printing telegraph decoupled the act of
@@ -481,8 +474,6 @@ characters. The "character space" could further be expanded by switching the
 receiving mechanism into a special "control mode" in which every combination
 of five bits represented an individual control character (instead of a
 letter).
-
-#### A. Cipher
 
 As Bacon's early writings on the language arts suggest, the roots of
 telegraphy lie in cypher-making and cryptography. For this reason, the
