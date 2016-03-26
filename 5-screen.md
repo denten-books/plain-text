@@ -1,28 +1,21 @@
-## Chapter 4: Screen
+## Chapter 5: Literature Down to the Pixel
 
-### Literature Down to the Pixel
-
-To grasp the peculiarity of the computed sign stretched between the sites of
-archive and projection we will have to build a shared vocabulary that includes
-terms both technical and literary critical. The following three chapters trace
-the passage of the inscription through the computational device, beginning
-with its apparent, outward shape on the screen. The screen has this one major
-peculiarity: it refreshes itself multiple times per second. Thus even those
-shapes that appear to stand still on the screen move in the realm beyond the
-threshold of human perception. We are vaguely aware of this movement: it is
-commonly visible when a screen appears on another screen, as it does in
-documentary films that show someone in the process of typing at the computer
-terminal or watching television. The difference in the flicker rates between
-the projector showing the image and the projector "in the frame" is what
-produces the characteristic horizontal interference pattern. Such glitches
-give us a glimpse into the nature of the simulation. Movement is key to
-understanding the mechanics of cinema, but what does it mean to perceive
-seemingly static words against the background of a fundamentally dynamic
-medium? Instead of a static and immutable sign etched in stone or on paper we
-observe the sign in motion. To refer to the "illusion" of digital textuality
-is therefore to identify the dynamic property of projection. To place text on
-the screen is to bring it closer to the moving image. What happens to
-literature that takes place on cinema screen?
+The screen has this one major peculiarity: it refreshes itself multiple times
+per second. Thus even those shapes that appear to stand still on the screen
+move in the realm beyond the threshold of human perception. We are vaguely
+aware of this movement: it is commonly visible when a screen appears on
+another screen, as it does in documentary films that show someone in the
+process of typing at the computer terminal or watching television. The
+difference in the flicker rates between the projector showing the image and
+the projector "in the frame" is what produces the characteristic horizontal
+interference pattern. Such glitches give us a glimpse into the nature of the
+simulation. Movement is key to understanding the mechanics of cinema, but what
+does it mean to perceive seemingly static words against the background of a
+fundamentally dynamic medium? Instead of a static and immutable sign etched in
+stone or on paper we observe the sign in motion. To refer to the "illusion" of
+digital textuality is therefore to identify the dynamic property of
+projection. To place text on the screen is to bring it closer to the moving
+image. What happens to literature that takes place on cinema screens?
 
 In this chapter, I bring archival material---blueprints, phenomenological
 accounts, and debates in the philosophy of aesthetics---to bare on the
