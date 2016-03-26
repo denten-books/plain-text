@@ -1,4 +1,4 @@
-## Chapter 1: Metaphor Machines
+# Chapter 1: Metaphor Machines
 
 In the 1990s, I understood Jean Baudrillard's writing on simulacra in
 relationship to the media entertainment complex: amusement parks, virtual
@@ -102,7 +102,7 @@ possibility that I would like to acknowledge and finally reject outright in
 the conclusion of the chapter. Despite the appeal to candor, as I will argue,
 the dream of direct immediacy can only conceal the nature of mediation.
 
-### 1.1 Verisimilitude
+## Verisimilitude
 
 From the many available theories of metaphor, in this chapter I will be
 relying on the ideas from the so called "cognitive metaphor" school developed
@@ -274,7 +274,7 @@ user handles the metaphor in a proscribed way. The metaphor structures the
 material affordances of the simulation not according to the rules of the
 physical world, but according to the rules of design.
 
-### 1.2 To Turn a Page
+## To Turn a Page
 
 The principles of metaphor-driven design contain an implicit model of
 human--computer interaction, which suggests that humans prefer to manipulate
@@ -524,7 +524,7 @@ governance in the structural transference between one medium to another.
 Materialist poetics can subsequently allow one to consent, or, conversely, to
 resist elements of imposed structure.
 
-### 1.3 Death and Incongruence
+## Death and Incongruence
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
@@ -659,7 +659,7 @@ fails to achieve motivation. The material realities of the metaphor are not
 simply missing, they are misrepresented. The analogy between discarding paper
 and erasing bits breaks down in the worst possible way.
 
-### 1.4 Mimesis of Direct Manipulation
+## Mimesis of Direct Manipulation
 
 "An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
 Laurel wrote in her important 1984 essay "Interface as Mimesis." She went on
@@ -983,7 +983,7 @@ conversational paradigm the nature of the mediation was at hand, open to
 circumspection, in the direct manipulation paradigm the simulacrum occludes
 the very nature of the simulation.
 
-### 1.5 Speculative Formalism
+## Speculative Formalism
 
 To what extent do we need to see and understand the mechanisms of the machine
 giving rise to the metaphor? In his 1949 paper on "The Genesis and Speed of
