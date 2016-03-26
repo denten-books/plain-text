@@ -1,4 +1,4 @@
-## Chapter 6: Home
+# Conclusion: Home
 
 Every year, Krapp, the titular character of Samuel Beckett's *Krapp's Last
 Tape*, records and listens to himself speak from the past. The play begins on
@@ -41,7 +41,12 @@ recorder and near a shelf-like piece of furniture holding reels and equipment
 in neat wooden compartments. "Build your own library of stereo tapes," reads
 the slogan.[^ln4-dupont]
 
-### 4.1 Recursive Encounters with Oneself
+I would like to end the book suggestively, with two close readings: one of
+Beckett's play an another of a more prosaic place: the Home folder, the
+default location on many computers that stores our digital memories, our
+documents, our diaries, ourselves. The figure of Villem
+
+## Recursive Encounters with Oneself
 
 Is it still a monologue when one talks to his own images from the past? Krapp
 has changed. He no longer feels fully congruent with his former self, "that
@@ -253,7 +258,7 @@ recollection. It is a yearning for a house: "nostalgia," from the Greek
 such domicile, where the contemporary librarians of the self commonly make a
 home.
 
-### 4.2 Media Being (Solid States)
+## Media Being (Solid States)
 
 Reading the play through the lens of media production gives us more than just
 notes on stage design. *Krapp's Last Tape* captures the mid-century rise in
@@ -567,7 +572,7 @@ objects are commonplace."
 burdening ordinary lived-in homes has never been done in the U.S. or any other
 modern industrial society" [@arnold_life_2012, 23].
 
-### 4.3 Furnishings of the Mind
+## Furnishings of the Mind
 
 What constitutes a literary archive? Initially, I want to answer something like
 "books and bookshelves" or "files and file folders." In other words, some
@@ -886,7 +891,7 @@ to ask what assumptions does it make about the archivist? It is at this point
 that I would like to leave Krapp's study to enter another home, in which
 today's librarians of self commonly seek shelter.
 
-### 4.4 Shelves, Selves
+## Shelves, Selves
 
 Unix home
 
@@ -1093,7 +1098,7 @@ read all the forgone history of its owner."
 [^ln5-home]: On many machines the home directory will simply bare the name of
 the logged in user.
 
-### 4.5 Foreign Bodies
+## Foreign Bodies
 
 Othering, integrating. Flusser. Uncanny. Jenkins.
 

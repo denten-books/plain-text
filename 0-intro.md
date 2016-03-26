@@ -1017,6 +1017,8 @@ digital." I build on Flusser's immigrant poetics to suggest a kind of
 information processing that necessitates a purposeful movement between the
 polarities of settlement and expatriation.
 
+<!--
+
 The book ends with a short conclusion expounding a theory of
 microanalysis---the closest possible kind of reading---which brings the
 material particulates engaged in the construction of meaning under the purview
@@ -1029,6 +1031,8 @@ inaccessible to the naked eye. Microanalysis may also require facility with a
 screwdriver, a binding needle, or a soldering iron: sharp tools that help to
 expose structures of governance and control routinely embedded into modern
 literary devices.
+
+-->
 
 <!--- NOTES  --->
 <!--- NOTES  --->
