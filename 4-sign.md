@@ -168,7 +168,7 @@ be what we get. Our inscriptions elude us, even as we learn how to recover a
 sense of literacy from physicalities ever retreating, illegible, encrypted,
 and opaque.
 
-### 1. Perforation
+### A. Perforation
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
@@ -573,7 +573,7 @@ perforated figure, punched through the medium. Magnetic tape, mute and
 inscrutable, soon replaced punch card and ticker tape as the preferred medium
 for data storage.
 
-### 2. Magnetic Reading
+### B. Magnetic Reading
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -1027,7 +1027,7 @@ the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
 aside, the separation of the sign from its immediate material contexts
 constituted a major milestone in the history of writing and textuality.
 
-### 3. Restored Sight
+### C. Restored Sight
 
 In decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process
@@ -1050,12 +1050,12 @@ barriers to comprehension increase.
 I propose to treat the year 1968 as the year in which the contemporary textual
 condition took its present, completed form. Subsequent generations of
 computational devices would change in terms of size, speed, and ubiquity. But
-they also retain essentially the same architecture, comprising (a)
-programmable storage media (b) internal memory, magnetic, solid state or
-otherwise  (c) keyboards and screen displays for human-machine interaction.
-The addition of the screen completed the circuit between human-initiated input
-and human-legible output. The screen "opened a window" onto the submerged
-world of magnetic storage.
+they also retain essentially the same architecture, comprising (i)
+programmable storage media; (ii) internal memory, magnetic, solid or other
+types of external storage; and (iii) keyboards and screen displays for
+human-machine interaction. The addition of the screen completed the circuit
+between human-initiated input and human-legible output. The screen "opened a
+window" onto the submerged world of magnetic storage.
 
 In theory, the screen updates multiple times per second to give an accurate
 up-to-the moment view of the system's internal states, which are otherwise
