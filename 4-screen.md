@@ -341,29 +341,25 @@ Rapidly Transmitting Telegrams," 1900
 The Pollak-Virag design thus aimed to constitute an electrical alphabet
 analogous to cursive writing: "to trace in a substantially continuous unbroken
 outline the written letters composing the matter transmitted"
-[@pollak_writing-telegraph_1901, 1]. Yet, where Goldberg's punch cards
-(covered in the last chapter) aimed to achieve the analogy on the level of
-encoding---the punches took the shape of letters---Pollak and Virag aimed to
-do at the level of the medium itself---the signal took the shape of letters.
-To achieve the effect, the engineers broke cursive script down into distinct
-vertical and horizontal elements. The Pollak-Virag encoding thus represented a
-continuous quality---cursive script---through discrete atomic elements, as
-punches that moved the writing stylus in cardinal directions---up, down, left,
-or right. For this reason, it would be a mistake to understand the
-Pollak-Virag telegraph as a purely analog device. The analogy is rather
-achieved through a process of discrete analytic atomization of script on
-ticker tape and its subsequent reconstitution into a continuous shape. The
-cardinal directions comprise an intermediate, discrete description of smooth
-handwriting curves. Pollak and Virag believed that their sine wave telegraph
-had the distinct advantage transmitting messages "recorded in ordinary written
-or script characters." In the language of the patent, other forms of
-"facsimile" telegraph transmitted merely the "conventional form" of the
-letter, and not the letter itself. By contrast, the Pollak-Virag system was in
-their words "non-autographic." The autographic telegraph preserved the
-particularity of the human hand. It purported to transmit not only the
-conventional form of the letter, but the peculiarity of an individual's
-signature. It was the "humane" telegraph in the sense that it preserved
-something human.
+[@pollak_writing-telegraph_1901, 1]. To achieve the effect, the engineers
+broke cursive script down into distinct vertical and horizontal elements. The
+Pollak-Virag encoding thus represented a continuous quality---cursive
+script---through discrete atomic elements, as punches that moved the writing
+stylus in cardinal directions---up, down, left, or right.  For this reason, it
+would be a mistake to understand the Pollak-Virag telegraph as a purely analog
+device. The analogy is rather achieved through a process of discrete analytic
+atomization of script on ticker tape and its subsequent reconstitution into a
+continuous shape. The cardinal directions comprise an intermediate, discrete
+description of smooth handwriting curves.  Pollak and Virag believed that
+their sine wave telegraph had the distinct advantage transmitting messages
+"recorded in ordinary written or script characters." In the language of the
+patent, other forms of "facsimile" telegraph transmitted merely the
+"conventional form" of the letter, and not the letter itself. By contrast, the
+Pollak-Virag system was in their words "non-autographic." The autographic
+telegraph preserved the particularity of the human hand. It purported to
+transmit not only the conventional form of the letter, but the peculiarity of
+an individual's signature. It was the "humane" telegraph in the sense that it
+preserved something human.
 
 The metaphysics accompanying telegraph communication at the time were in fact
 often concerned with human erasure. Notions of material discreteness and

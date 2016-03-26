@@ -994,6 +994,8 @@ another to a software engineer or a legal professional, and something entirely
 different to a librarian, as I argue in the conclusion of the chapter. It
 matters not what the medium is, but what we can do with the text.
 
+<!---
+
 The **sixth and final chapter** looks to the site of storage to find the media
 "homes" that house the vast archives of our private media collections. It
 begins with a close reading of Beckett's *Krapp's Last Tape*. Krapp makes
@@ -1016,6 +1018,8 @@ to discourse that speaks in terms of "digital natives" and those who are "born
 digital." I build on Flusser's immigrant poetics to suggest a kind of
 information processing that necessitates a purposeful movement between the
 polarities of settlement and expatriation.
+
+--->
 
 <!--
 
