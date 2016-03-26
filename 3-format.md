@@ -1417,7 +1417,7 @@ their liking [@chaouli_remix_2009]. Don't really like intensifiers? Just turn
 the "adverb knob" down! I hold on to the possibility of building such a device
 with Chaouli. In the meantime, existing electronic book software and hardware
 devices adapt themselves to the reader in less creative ways. Some prevent
-simple copy and paste actions. Others can be used to censor and surveil. 
+simple copy and paste actions. Others can be used to censor and surveil.
 
 For a textual critic, such instability of medium means analysis cannot be
 confined to reading for surface meaning alone. How can close or distant
@@ -1606,5 +1606,3 @@ model.
 [^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
 Web Consortium (W3C) in the case of the DOM.
-
-

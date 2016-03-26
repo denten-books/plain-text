@@ -40,7 +40,7 @@ paint and canvas, where the medium of books is paper and ink. The distinction
 will help our language remain somewhat more precise than colloquial use,
 particularly as we consider the more complicated and interested edge cases. A
 change in medium often implies a corresponding change in the *mode* of
-perception.  For example, at some level of music production the making of
+perception. For example, at some level of music production the making of
 classical music may involve a family of brass woodwind instruments, shaped to
 move and vibrate air. Brass, wood, wind, and air all sound like reasonable
 candidates for the media through which sound and vibration will travel to
@@ -48,27 +48,26 @@ reach a listener's ear. The *mode* of music appreciation is listening, which
 involves a set of conventional cultural techniques: the way one buys tickets,
 (the fact that that there are tickets!), the way one dresses and behaves at a
 concert. A person from the deaf community may use other modes of listening,
-like leaning against sound amplifying speakers or touching the woodwind.
-
-Yet at another stage of music production, the making of classical music will
+like leaning against sound amplifying speakers or touching the woodwind. Yet
+at another stage of music production, the making of classical music will
 involve sheet music. A whole system of music distribution is built around the
 printing and the circulation of music media in the form paper and ink
 documents. The modality of reading sheet music, as opposed to listening,
 requires a completely different set of body postures. It engages different
 practices and different cultural and financial institutions from listening.
 
-The confusion enters the conversation when we conflate the modality of the
-information (e.g.  music, image, text) with the physical channel of its
-transmission (air, liquid crystal, paper). Modality is what determines the
-message to a much greater extent the medium. In fact, in most communication
-systems the medium serves as a relatively neutral conduit. In this way, one
-can use a violin to transmit a concerto or to transmit a secret message. The
-medium remains the same, where the mode of understanding or appreciating the
-quality of what is being transmitted changes. To decode a secret message
-played by a violin, the listener has to listen in a different way from that of
-listening to music. The modality attunes the listener. It suggests specific
-ways of listening, where air, wood, and strings remain agnostic to the
-information being transmitted.
+A confusion enters the conversation when we conflate the modality of the
+information (music, image, text) with the physical channel of its transmission
+(air, liquid crystal, paper). Modality is what determines the message to a
+much greater extent the medium. In fact, in most communication systems the
+medium serves as a relatively neutral conduit. In this way, one can use a
+violin to transmit a concerto or to transmit a secret message. The medium
+remains the same, where the mode of understanding or appreciating the quality
+of what is being transmitted changes. To decode a secret message played by a
+violin, the listener has to listen in a different way from that of listening
+to music. The modality attunes the listener. It suggests specific ways of
+listening, where air, wood, and strings remain agnostic to the information
+being transmitted.
 
 Initially, we must simply know how to perceive: to look, to smell, or to
 listen. The modality tells us "the register" of the message. Where to look for
@@ -88,9 +87,9 @@ which give discomfort.
 Something happens as digital media subsume their analog counterparts. But what
 is it? We already know the shape of the conduit: keyboard, screen, storage.
 But do these change the ways we read or listen and how? I begin then with
-forming some intuitions about the digital. The "two terminators" from popular
-culture will lead us to several technical case studies. These will serve as
-testbed for an aesthetics of digital perception.
+forming some intuitions about the digital. My "two terminators," two golems of
+popular culture, will lead us to several technical case studies that help
+train our intuitions about the aesthetics of digital perception.
 
 ## Digital Wake (My Two Terminators)
 
@@ -137,20 +136,21 @@ from the 1980s. The pseudo-pixelated world of Minecraft encourages its
 inhabitants to experiment with deconstruction, producing cuboid landscapes
 that foreground discontinuity of form and surface.
 
-The iconography of the digital works in the other direction too, by approaching
-and challenging the perceived continuity of the analog world. Liquid-metal
-*Photoshop* font effects are thus supplanted by hyperrealistic renderings of
-fire, smoke, and water: fluid elements that are by their very nature difficult
-to render digitally, especially in movement. Digital alchemy approaches the
-boundaries of technological possibility, but absent the constraints of realism
-it pushes past reality, past nature, and past mere fidelity to the natural
-world. A real-world explosion caught on film looks cheap in comparison to its
-cinematic "special-effects" simulacrum. A blazing corporate logo rendered
-digitally would lose much of its appeal were it produced by literally lighting
-a logograph on fire. The burning digital logograph does not just say "We are
-hot" or "We are on fire" (that would be too naive)---it says that our fire is
-better than fire, more vivid and more lifelike. The digital fire is the ideal,
-Platonic image of fire: an image that all fires should emulate.
+The iconography of the digital works in the other direction too, by
+approaching and challenging the perceived continuity of the analog world.
+Liquid-metal *Photoshop* font effects are thus supplanted by hyperrealistic
+renderings of fire, smoke, and water: fluid elements that are by their very
+nature difficult to render digitally, especially in movement. Digital alchemy
+approaches the boundaries of technological possibility, but absent the
+constraints of realism it pushes past reality, past nature, and past mere
+fidelity to the natural world. A real-world explosion caught on film looks
+cheap in comparison to its cinematic "special-effects" simulacrum. A blazing
+corporate logo rendered digitally would lose much of its appeal were it
+produced by literally lighting a logograph on fire. The burning digital
+logograph does not just say "We are hot!" or "We are on fire!" (that would be
+too naive)---it says that our fire is better than fire, more vivid and more
+lifelike. The digital fire is the ideal, Platonic image of fire: an image that
+all fires should emulate.
 
 I am eliciting these digital commonplaces to get at the conflicting popular
 intuitions about "the digital" as something at once discrete, angular, and
@@ -161,25 +161,26 @@ everything having distinct shape and anatomy. Think here about the transition
 between films *The Terminator* and *Terminator 2*, where the "bad" robot that
 sets out to destroy humanity is cast at first in the guise of an animatronic
 mechanism, but then as an amorphous puddle of mercury that makes the original
-mechanical Arnold look like a friend and savior. The first terminates with
-shotguns and tire irons, where the second morphs into human shapes and pours
-itself inside, threatening life from within.
+mechanical Arnold look like a friend and savior [@cameron_terminator_2001;
+@cameron_terminator_2003]. The first terminates with shotguns and tire irons,
+where the second morphs into human shapes and pours itself inside, threatening
+life from within.
 
 Like the terminators of yesteryear, digital sprites and bogeymen lose their
 hold over popular imagination. Digital photography, digital clocks, and
-digital humanities already ring archaic in their futuristic ambition, going the
-way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux, and
--tron. The digital dissolves into the everyday as all clocks, all books, all
-texts, and all human activity passes through some form of "digital being." My
-aim here and throughout is to understand what is meant by its evocation: to
-"come to terms," to make visible, to disturb it, to denature, and to make it
-strange again.
+digital humanities already ring archaic in their futuristic ambition, going
+the way of e- or i- anything: the way of retro-suffixes like -bot, -mat, -lux,
+and -tron. The digital dissolves into the everyday as all clocks, all books,
+all texts, and all human activity passes through some form of "digital being."
+My aim here and throughout has been to understand what is meant by its
+evocation: to "come to terms," to make visible, to disturb it, to denature,
+and to make it strange again.
 
 Although the quality of being digital plays a central role in the formation of
 new compounds like "digital media," "digital humanities," or the "digital
 divide," the very idea of what it means often contains entirely conflicting
 qualities. For some, digitality stands in opposition to the notion of
-naturally "analog" human experience. On this view, digital media reduce
+naturally "analog" human experience. In this view, digital media reduce
 "fuzzy" and indeterminate human experience to something binary, discrete, and
 deterministic. For example, in his influential monograph *The Cultural Logic
 of Computation* David Golumbia insists that "languages are not codes." Human
@@ -237,35 +238,42 @@ Whether too discrete or too continuous, the critics agree on the danger of
 digitization. Digital being takes place of determinism and mechanization in
 the role of the age-old opponent to humanism. Whether it is Plato discussing
 the role of writing in *Phaedrus*, or Fish discussing the development of
-digital humanities through Milton, the critics worry that successive modes of
+digital humanities through Milton, critics worry that successive modes of
 representation fail to weave the human experience into the fabric of new
 media. New media thus always retreats from some previously constructed
 category of the human, with one audience applauding the liberatory, post-human
 potential of the motion and the other lamenting its potential for destruction
 and demise. It is not a surprise then to often find the notion of the human
-close to the debates around digital and analog modes of representation.  A
-vision of the humanity is always at stake, with all its spiritual and
-political consequences.
+close to the debates around digital and analog modes of representation. A
+vision of humanity is always at stake, with all its spiritual and political
+consequences.
 
 Because the apprehension of media is grounded at some basic level in the
 physical capabilities of human perception, new media affect the very notion of
 what it means to be human. I mean this beyond simply "new ways of seeing" in a
 way a telescope or a camera can be thought of as an extension of human the
 eye. I am interested first in the challenge digital media pose to humanity as
-a *determined* category. The repeated contradictions in the conversation about
-digital media expose historically contingent anxieties. Both orthodoxies of
-humanism and the futuristic ambition of post-humanism are therefore displaced
-onto the same digital--analog continuum. However, the material conditions of
-media production do not allow for social constructivism unmoored from the
-senses. The development of telegraphs and televisions *intrinsically* depends
-on the limits of human perception. The illusion disappears when the projection
-flickers much slower than 60 frames per second, for example. We are left then
-somewhere between social constructivism and technological determinism. A
-historical account of digital media must therefore acknowledge both the
-contingent and the essential characteristics of perception. In what follows I
-offer several case studies that challenge commonly expressed intuitions in the
-conversation about digital media. Ultimately, we will see that what appears at
-first to be a property of media is in fact a claim on the mode of perception.
+a determined, a priori category.[^ln5-apriori] The repeated contradictions in
+the conversation about digital media expose historically contingent anxieties.
+Both orthodoxies of humanism and the futuristic ambition of post-humanism are
+therefore displaced onto the same digital--analog continuum. The material
+conditions of media production do not however allow for social constructivism
+unmoored from the senses. The development of telegraphs and televisions
+depends on the limits of human perception intrinsically. The illusion of
+continuity disappears when a projection flickers much slower than 60 frames
+per second, for example. We are left then somewhere between social
+constructivism and technological determinism. A historical account of digital
+media must therefore acknowledge both the contingent and the essential
+characteristics of perception.
+
+In what follows I offer several case studies that challenge commonly expressed
+intuitions in the conversation about digital media. Ultimately, we will see
+that what appears at first to be a property of media is in fact a claim on the
+mode of perception: a claim on the body, a subtle corporeal manipulation, an
+order to comply.
+
+[^ln5-apriori]: An apriori given because one must be human first to critically
+examine the concept.
 
 ## Spiritual Telegraph
 
