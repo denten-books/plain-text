@@ -956,6 +956,77 @@ separated readers into those able to effect the mixture of content and control
 that shapes the literary encounter and those who observed passively, at the
 shimmering surface of archival projection.
 
+The structure of textual artifacts---from a simple leaflet to a novel in
+multiple volumes---has remained remarkably stable since the invention of
+movable type. One rarely finds a sentence that spans several paragraphs, for
+example. Nor would a contemporary reader expect to find pages of different
+length in the same tome.  Long-standing historical conventions guide the
+production of printed text.  Semantic and decorative units on a page exist
+within a strict hierarchy, so familiar to us as to become almost invisible. No
+book of serious non-fiction will be typeset in cursive font, for example. But
+unless something out of the ordinary attracts our attention, readers will tend
+to gloss the "inconsequential" details of formatting in favor of content. The
+material contexts of a well designed book fade from view during reading.
+
+For a few decades after the advent of magnetic storage media but before screen
+technology, the outward shape of the sign disappeared altogether. It is
+difficult to fathom now, but at the time after the introduction of magnetic
+tape in the 1960s but before the wide-spread advent of cathode ray tube
+displays in the 1980s, the typewriter operator and the computer programmer
+often manipulated text blindly. Where the page or the punch card gave
+immediate visual feedback, the magnetic tape was inscrutable. The word could
+be "processed" or altered with codes that controlled attributes like indent
+size or justification *before* committing ink to paper. A paper describing the
+popular IBM Magnetic Tape Selectric Typewriter (MT/ST) introduced in 1964
+describes the novelty of the system as follows:
+
+> It could be emphasized for the first time that the typist could type at
+> "rough draft" speed, "backspace and strike over" errors, and not worry about
+> the pressure of mistakes made at the end of the page [@may_ibm_1981, 742].
+
+The IBM Magnetic Tape Selectric Composer (MT/SC) further added a "programmable
+control" unit to separate the input from the output. Final printing would be
+accomplished by:
+
+> mounting the original tape and the correction tape, if any, on the
+> two-station reader output unit, setting the pitch, leading, impression
+> control and dead key space of the composer unit to the desired values, and
+> entering set-up instructions on the console control (e.g., one-station or
+> two-station tape read, depending on whether the correction tape is present;
+> line count instructions for the format control and space to be left for
+> pictures, etc.; special format instructions; and any required control codes
+> known to be omitted from the input tape. During printing, the operator
+> changes type elements when necessary, loads paper as required, and makes and
+> enters hyphenation decisions if justified copy is being printed
+> [@bishop_development_1968, 382].
+
+The tape unit and the control unit thus intervene between the keyboard and the
+printed page. The "final printing" combines roughly the "prepared copy" with
+"control and reference codes" and "printer output" [@bishop_development_1968;
+@may_ibm_1981]. The materials from the time often speak of three distinct
+human operators that could be responsible for each stage of the production:
+one entering the copy, one specifying the control codes, and one responsible
+for handling the paper output. The machine operators could hypothetically work
+in isolation from one another. The typist would see only elements of the copy;
+the typesetter or the controller only formatting and control codes; and the
+printer only the interpolated results.
+
+<!--
+!["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
+-->
+
+Researchers working on these early IBM word processing machines saw the
+separation of print into such distinct strata as one of their major
+contributions to the history of print writ large. A consultant writing for the
+*IBM Journal* in 1968 imagines the "evolution of composition" that proceeded
+from handwriting, to wood engraving, movable type, letterpress, and, finally,
+to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
+printing process in this evolution," he writes. He concludes to say that the
+IBM Composer finally empowers the writer to once again write books "without
+the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
+aside, the separation of the sign from its immediate material contexts
+constituted a major milestone in the history of writing and textuality.
+
 ### 3. Restored Sight
 
 In decoupling input and output, magnetic storage and solid state media afford
@@ -1454,74 +1525,4 @@ values of *f(x)* and record them by means of one of the four output punches,
 mounted on the right wing of the machine" [@staff_description_1949, 34].
 
 
-The structure of textual artifacts---from a simple leaflet to a novel in
-multiple volumes---has remained remarkably stable since the invention of
-movable type. One rarely finds a sentence that spans several paragraphs, for
-example. Nor would a contemporary reader expect to find pages of different
-length in the same tome.  Long-standing historical conventions guide the
-production of printed text.  Semantic and decorative units on a page exist
-within a strict hierarchy, so familiar to us as to become almost invisible. No
-book of serious non-fiction will be typeset in cursive font, for example. But
-unless something out of the ordinary attracts our attention, readers will tend
-to gloss the "inconsequential" details of formatting in favor of content. The
-material contexts of a well designed book fade from view during reading.
-
-For a few decades after the advent of magnetic storage media but before screen
-technology, the outward shape of the sign disappeared altogether. It is
-difficult to fathom now, but at the time after the introduction of magnetic
-tape in the 1960s but before the wide-spread advent of cathode ray tube
-displays in the 1980s, the typewriter operator and the computer programmer
-often manipulated text blindly. Where the page or the punch card gave
-immediate visual feedback, the magnetic tape was inscrutable. The word could
-be "processed" or altered with codes that controlled attributes like indent
-size or justification *before* committing ink to paper. A paper describing the
-popular IBM Magnetic Tape Selectric Typewriter (MT/ST) introduced in 1964
-describes the novelty of the system as follows:
-
-> It could be emphasized for the first time that the typist could type at
-> "rough draft" speed, "backspace and strike over" errors, and not worry about
-> the pressure of mistakes made at the end of the page [@may_ibm_1981, 742].
-
-The IBM Magnetic Tape Selectric Composer (MT/SC) further added a "programmable
-control" unit to separate the input from the output. Final printing would be
-accomplished by:
-
-> mounting the original tape and the correction tape, if any, on the
-> two-station reader output unit, setting the pitch, leading, impression
-> control and dead key space of the composer unit to the desired values, and
-> entering set-up instructions on the console control (e.g., one-station or
-> two-station tape read, depending on whether the correction tape is present;
-> line count instructions for the format control and space to be left for
-> pictures, etc.; special format instructions; and any required control codes
-> known to be omitted from the input tape. During printing, the operator
-> changes type elements when necessary, loads paper as required, and makes and
-> enters hyphenation decisions if justified copy is being printed
-> [@bishop_development_1968, 382].
-
-The tape unit and the control unit thus intervene between the keyboard and the
-printed page. The "final printing" combines roughly the "prepared copy" with
-"control and reference codes" and "printer output" [@bishop_development_1968;
-@may_ibm_1981]. The materials from the time often speak of three distinct
-human operators that could be responsible for each stage of the production:
-one entering the copy, one specifying the control codes, and one responsible
-for handling the paper output. The machine operators could hypothetically work
-in isolation from one another. The typist would see only elements of the copy;
-the typesetter or the controller only formatting and control codes; and the
-printer only the interpolated results.
-
-!["Block diagram of MT/SC system" @bishop_development_1968, 381.](images/mt-sc.png)
-
-Researchers working on these early IBM word processing machines saw the
-separation of print into such distinct strata as one of their major
-contributions to the history of print writ large. A consultant writing for the
-*IBM Journal* in 1968 imagines the "evolution of composition" that proceeded
-from handwriting, to wood engraving, movable type, letterpress, and, finally,
-to the IBM MT/SC. "The IBM Selectric Composer provides a new approach to the
-printing process in this evolution," he writes. He concludes to say that the
-IBM Composer finally empowers the writer to once again write books "without
-the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
-aside, the separation of the sign from its immediate material contexts
-constituted a major milestone in the history of writing and textuality.
-
 [^ln2-hayles]: See also @hayles_print_2004.
-
