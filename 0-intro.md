@@ -943,11 +943,6 @@ understanding the capabilities of digital texts: from electronic books that
 modify themselves to suit the reader's geographic location to "smart"
 contracts that contain the rules of their own execution.
 
-What does it mean to read on page that is no longer flat and no longer a
-single surface? The book's second section, containing the next three chapters,
-describes digital text as a sign stretched between storage media and the
-screen, suspended between surfaces (also the title of the section).
-
 The **fourth chapter** begins with a discussion of an apparent paradox. A camp
 of media theorists and textual scholars in the 1990s conceived of electronic
 texts as an ephemeral, almost immaterial, phenomenon. The text shimmered and

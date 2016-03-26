@@ -1,4 +1,4 @@
-## Chapter 2: Laying Bare the Device (The Modernist Roots of Computation)
+# Chapter 2: Laying Bare the Device (The Modernist Roots of Computation)
 
 "The weakest point in our present day universe is the incapacity of man to
 meet the machine, the culture conserve, or the robot, other than through
@@ -157,7 +157,7 @@ define the limits of symbolic thought and interpretation and ultimately result
 in a specific mechanism, imagined by Alan Turing in a blueprint that lies at
 the modernist origins of contemporary computational culture.
 
-### 2.1 Technique
+## 2.1 Technique
 
 What kind of a *thing* is a literary *device*? The formal concept of a device,
 used widely in literary studies, is in part an artifact of an unfortunate
@@ -476,7 +476,7 @@ measurable fact about the book," Lubbock wrote. If only it could be "weighed
 like a statue" or "measured like a picture, it would be a support in the world
 of shadows [@lubbock_craft_1921, 273-4].
 
-### 2.2 Thought Experiment I
+## 2.2 Thought Experiment I
 
 These broad strokes towards the intellectual history of the literary device
 bring us to literary devices as they exist today, precisely within the
@@ -869,7 +869,7 @@ interpretive, translative layer, which describes the very rules of engagement.
 [^ln2-compile]: I am forgoing the distinction between interpreters and
 compilers for simplicity's sake.
 
-### 2.3 Thought Experiment II
+## 2.3 Thought Experiment II
 
 Turing met Wittgenstein at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
@@ -1130,7 +1130,7 @@ changed humanity's relationship to symbolic thought. They belong to an
 intellectual tradition of distinctly humanist thinking about reading, writing,
 text, and interpretation.
 
-### 2.4 Device
+## 2.4 Device
 
 It is important to remember that in 1936 Turing's machine remained a thought
 experiment---not yet an actual device. Literature in computer science tends to

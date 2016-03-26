@@ -1,4 +1,4 @@
-## Chapter 3: Form, Formula, Format
+# Chapter 3: Form, Formula, Format
 
 Text shapes the human body in strange ways. After a lifetime of reading
 shoulders acquire a stooped countenance, as if the book was exerting pressure
@@ -201,7 +201,7 @@ the notion of a "smart document," an increasingly common instrument of record
 capable of policing its own encoded rules of reader engagement: what can be
 read, how, and where.
 
-### Concrete and Universal
+## Concrete and Universal
 
 The intellectual history of formalist thought in literary theory contains
 within it at least these two distinct and contradictory ideas about form: one
@@ -471,7 +471,7 @@ Wittgenstein's logical mechanisms in the last chapter, Ransom imagines a
 perfected kind of a machine or a formula that represents the ideal of the
 aesthetic object.
 
-### Strategies of Reading
+## Strategies of Reading
 
 The above notes on Plato and Hegel are not meant to present a definitive
 history of formalism in Western aesthetics. Rather, they point to series of
@@ -691,7 +691,7 @@ distinction between "meaning" or "content" on the one hand and "form" or the
 "sensory experience" of the work on the other. Form, in this sense, mirrors
 McKeown's "shape" and the "text's physical characteristics" of Hayles.
 
-### Format Theory
+## Format Theory
 
 If reading for sensory experience implies an erotics of art and reading for
 hidden formulae implies a hermeneutics, what would it mean to read for format?
@@ -1167,7 +1167,7 @@ two-dimensional space" in view of the user. In this onion-like, layered way
 formatting instructions govern the reification of abstract content models into
 specific documents, shaping the idea in the process of becoming a thing.
 
-### Smart Contracts
+## Smart Contracts
 
 Reading for format involves the reconstruction of rules that govern the
 transformation of text, thereby creating a notion of literal surface and depth

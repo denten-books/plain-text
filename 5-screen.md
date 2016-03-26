@@ -1,4 +1,4 @@
-## Chapter 5: Literature Down to the Pixel
+# Chapter 5: Literature Down to the Pixel
 
 The screen has this one major peculiarity: it refreshes itself multiple times
 per second. Thus even those shapes that appear to stand still on the screen
@@ -23,7 +23,7 @@ question of digital representation. The nature of "digital" experience, as I
 will argue, initially appears to be an intrinsic property of the medium. Under
 closer examination, it rather turns out to be a political construct that lays
 claims on the body, structuring the physical affordances of communication. The
-change of *medium* from paper to pixel entails a series of corresponding
+change of the *medium* from paper to pixel entails a series of corresponding
 changes in the *mode* of perception. The projection "attunes" the viewer to
 the message. By attunement I mean something analogous to what Marcel Mauss
 called the "techniques of the body" [@mauss_techniques_2006, 78], the way in
@@ -37,16 +37,18 @@ to do something with the text. I suggest that for the duration of this chapter
 we restrict the use of the word "medium" to identify more narrowly the
 physical conduit of representation.[^ln3-oed] Thus the medium of painting is
 paint and canvas, where the medium of books is paper and ink. The distinction
-will help us remain somewhat more precise than in colloquial use, particularly
-as we move to the more complicated and interested cases. A change in medium
-often implies a corresponding change in the *mode* of perception. For example,
-at some level of music production the making of classical music may involve a
-family of brass woodwind instruments, shaped to move and vibrate air. Brass,
-wood, wind, and air all sound like reasonable candidates for the media through
-which sound and vibration will travel to reach the listener's ear. The *mode*
-of music appreciation is listening, which involves a set of conventional
-cultural techniques: the way one buys tickets, (the fact that that there are
-tickets!), the way one dresses and behaves at a concert.
+will help our language remain somewhat more precise than colloquial use,
+particularly as we consider the more complicated and interested edge cases. A
+change in medium often implies a corresponding change in the *mode* of
+perception.  For example, at some level of music production the making of
+classical music may involve a family of brass woodwind instruments, shaped to
+move and vibrate air. Brass, wood, wind, and air all sound like reasonable
+candidates for the media through which sound and vibration will travel to
+reach a listener's ear. The *mode* of music appreciation is listening, which
+involves a set of conventional cultural techniques: the way one buys tickets,
+(the fact that that there are tickets!), the way one dresses and behaves at a
+concert. A person from the deaf community may use other modes of listening,
+like leaning against sound amplifying speakers or touching the woodwind.
 
 Yet at another stage of music production, the making of classical music will
 involve sheet music. A whole system of music distribution is built around the
@@ -90,7 +92,7 @@ forming some intuitions about the digital. The "two terminators" from popular
 culture will lead us to several technical case studies. These will serve as
 testbed for an aesthetics of digital perception.
 
-### Digital Wake (My Two Terminators)
+## Digital Wake (My Two Terminators)
 
 What does the digital look like? It looks blue for one---not just any kind of
 blue, but a particularly cool shade of pure blue, which passes from dark to
@@ -265,7 +267,7 @@ offer several case studies that challenge commonly expressed intuitions in the
 conversation about digital media. Ultimately, we will see that what appears at
 first to be a property of media is in fact a claim on the mode of perception.
 
-### Spiritual Telegraph
+## Spiritual Telegraph
 
 Let us first note that the contemporary attempt to "fix" human experience
 somewhere on the spectrum between discrete and continuous representation in
@@ -541,7 +543,7 @@ transference possible. I use the word "media" here in the bluntest way
 possible: as "material basis" or "substratum" for some observed, higher-order
 phenomenon (in our case, communication).
 
-### The Soap Opera Effect
+## The Soap Opera Effect
 
 At this point it appears that the whole matter of digital representation rests
 on arbitrary and contingent assumptions. If literature is already a digital
@@ -784,7 +786,7 @@ media marketing slogans advertising gapless playback and lossless file
 formats. To long for the analog is to long for the experience of oneness,
 which was never there in the first place.
 
-### We Have Always Been Digital
+## We Have Always Been Digital
 
 So far, the case studies I built around the Pollak-Virag telegraph and the
 liquid crystal display revealed merely the inadequacy of popular intuition.
@@ -1064,7 +1066,7 @@ as deep structure, separate readers into those for whom texts exist as fixed
 analog given, and those for whom they function as truly digital media, capable
 of transformation affecting further texts, people, and machines.
 
-### The Medium Is Not the Message
+## The Medium Is Not the Message
 
 In examining the material conditions of digital representation we find
 format---a quality distinct from both medium and semantic content of the

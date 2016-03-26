@@ -1,4 +1,3 @@
-# Part I: Simulation
 ## Chapter 1: Metaphor Machines
 
 In the 1990s, I understood Jean Baudrillard's writing on simulacra in

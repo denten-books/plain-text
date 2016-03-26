@@ -1,5 +1,4 @@
-# Part II: Recondite Surfaces
-## Chapter 4: Textual Fissure: A History of Modern Text
+# Chapter 4: Recondite Surfaces, Textual Fissure
 
 I do not trust the text appearing before my eyes. Wendy Hui Kyong Chun calls
 magnetic storage the "enduring ephemeral," which "creates unforeseen
@@ -168,7 +167,7 @@ be what we get. Our inscriptions elude us, even as we learn how to recover a
 sense of literacy from physicalities ever retreating, illegible, encrypted,
 and opaque.
 
-### A. Perforation
+## A. Perforation
 
 First, a few words about telegraphy in general. The turn of the twentieth
 century was a pivotal period in the history of computing and communications.
@@ -564,7 +563,7 @@ perforated figure, punched through the medium. Magnetic tape, mute and
 inscrutable, soon replaced punch card and ticker tape as the preferred medium
 for data storage.
 
-### B. Magnetic Reading
+## B. Magnetic Reading
 
 "Historically unforeseen, barely a thing, software's ghostly presence produces
 and defies apprehension," Wendy Chun wrote in her *Programmed Visions*, an
@@ -1018,7 +1017,7 @@ the assistance of specialists" [@frutiger_ibm_1968, 10]. Marketing language
 aside, the separation of the sign from its immediate material contexts
 constituted a major milestone in the history of writing and textuality.
 
-### C. Restored Sight
+## C. Restored Sight
 
 In decoupling input and output, magnetic storage and solid state media afford
 the injection of time and space, in arbitrary intervals, between the process
@@ -1352,7 +1351,7 @@ entered a complex system of executable code and inscrutable control
 instruction.  The material lightness of textual being came at the price of
 legibility.
 
-### Towards the Practice of Computational Poetics
+## Towards the Practice of Computational Poetics
 
 In drawing this schematic history of contemporary textuality, it is my hope to
 convince the reader of the very literal sense of depth manufactured into the
