@@ -663,7 +663,7 @@ to stop us short of meaning making. A discipline of careful perception---of
 paying attention to---can sharpen readers' sensibilities, preparing them for
 an independent interpretive strategy of their own. There is no need to explain
 under this model, only describe. The history of interpretation Sontag objects
-to is one that privileges content over form. The very words "explication" and
+to is one that privileges content over form. The words "explication" and
 "exegesis" imply the movement from the inside to the outside. For a
 psychoanalytical critic interpretation in that sense may mean revealing the
 hidden psychological drives that give rise to a particular form of an
@@ -1171,7 +1171,7 @@ specific documents, shaping the idea in the process of becoming a thing.
 
 Reading for format involves the reconstruction of rules that govern the
 transformation of text, thereby creating a notion of literal surface and depth
-that differs from their figurative senses. Metaphorically-speaking, textual
+that differs from their figurative senses. Metaphorically speaking, textual
 depth refers to concealed structures of meaning, literary formulae,
 signification, or ideology. In another, more literal sense, depth refers to
 the formation of literary laminates that hold the inscription in suspense
@@ -1267,15 +1267,15 @@ code. In the words of Charles Clark, the late British publisher and prominent
 copyright attorney, "the answer to the machine is in the machine
 [@clark_copyright_1996, 81-82]"---by which he meant that copyright enforcement
 should be taken up on the device level by the International Standards
-Organization, the very body responsible for maintaining the standards for the
-Document Object Model and the OSI communication protocol stack
-[@clark_copyright_1996, 84]. As an example of how that might work, Clark cites
-the Copyright in Transmitted Electronic Data Report (CITED), which suggests
-building "a tamper proof software module which acts rather like indestructible
-tachometers installed on long-distance coaches and lorries, recording
-everything that happens to the copyrighted or commercially valuable material
-[...] The basic idea is to link the 'valuable material' of intellectual
-property to a specific piece of software and hardware"
+Organization, the same legislative body responsible for maintaining the
+standards for the Document Object Model and the OSI communication protocol
+stack [@clark_copyright_1996, 84]. As an example of how that might work, Clark
+cites the Copyright in Transmitted Electronic Data Report (CITED), which
+suggests building "a tamper proof software module which acts rather like
+indestructible tachometers installed on long-distance coaches and lorries,
+recording everything that happens to the copyrighted or commercially valuable
+material [...] The basic idea is to link the 'valuable material' of
+intellectual property to a specific piece of software and hardware"
 [@consortium_c.i.t.e.d._1994; @clark_copyright_1996, 83-84].
 
 The emergence of such embedded contractual enforcement mechanisms can be
@@ -1328,25 +1328,25 @@ contracts system. Data and control structures embedded into modern documents
 are encoded in such a way as to to prevent "unauthorized access." The reader
 is by these means able to access the encrypted information only through
 sanctioned means. Any mode of access other than the official is deemed
-illicit. Encryption brings us to the glaring problem at the very heart of
-smart contracts. The spirit of contractual law by its very nature demands
-explicit consent. In the language of English common law, contracts involve
-promises as "manifestation of intention," which "adopt an external or
-objective standard for interpreting conduct
-[@american_law_institute_restatement_1973, §1-2.]" The key words in this
-passage are "external," "objective," and "interpretation." By contrast, smart
-contracts, as described in the patent archive, must rely on encrypted---that
-is, not human-legible---forms of tacit compliance: neither external,
-objective, nor available for interpretation. The idea of encrypted consent
-stands in stark opposition to a tradition of contract law---and textual
-interpretation more generally---that relies on models of comprehension and
-consent that involve expressed, mutual, explicit, and uncoerced forms of
-acquiescence. Even if smart contracts were to be accompanied by legible
-documents, written in plain text---as Terms of Service, for example---the
-reader of an electronic book would be compelled to blindly trust in the
-correspondence between the expressed letter and the implicit mechanism. The
-contract is meaningless if its implementation is enacted beyond scrutiny, in
-the form of hidden, encrypted, and purposefully illegible scripts.
+illicit. Encryption brings us to the glaring problem at the heart of smart
+contracts. The spirit of contractual law by its nature demands explicit
+consent. In the language of English common law, contracts involve promises as
+"manifestation of intention," which "adopt an external or objective standard
+for interpreting conduct [@american_law_institute_restatement_1973, §1-2.]"
+The key words in this passage are "external," "objective," and
+"interpretation." By contrast, smart contracts, as described in the patent
+archive, must rely on encrypted---that is, not human-legible---forms of tacit
+compliance: neither external, objective, nor available for interpretation. The
+idea of encrypted consent stands in stark opposition to a tradition of
+contract law---and textual interpretation more generally---that relies on
+models of comprehension and consent that involve expressed, mutual, explicit,
+and uncoerced forms of acquiescence. Even if smart contracts were to be
+accompanied by legible documents, written in plain text---as Terms of Service,
+for example---the reader of an electronic book would be compelled to blindly
+trust in the correspondence between the expressed letter and the implicit
+mechanism. The contract is meaningless if its implementation is enacted beyond
+scrutiny, in the form of hidden, encrypted, and purposefully illegible
+scripts.
 
 Moreover, the Digital Millennium Copyright Act (DMCA) stipulates that "no
 person shall circumvent a technological measure that effectively controls
@@ -1415,7 +1415,7 @@ suggested in "*Remix: Literatur*," where Michel Chaouli imagines a device akin
 to a "literature equalizer," empowering readers to "tune" any given text to
 their liking [@chaouli_remix_2009]. Don't really like intensifiers? Just turn
 the "adverb knob" down! I hold on to the possibility of building such a device
-with Chaouli. In the meantime, existing electronic book software and hardware
+with Chaouli. Meanwhile, existing electronic book software and hardware
 devices adapt themselves to the reader in less creative ways. Some prevent
 simple copy and paste actions. Others can be used to censor and surveil.
 

@@ -21,15 +21,14 @@ or, what Moreno alternatively calls the "cultural conserve" and the
 devices, social structures, and products of the mind that diminish creativity.
 With time, "technical devices" and the "methods in the making of cultural
 products" are inherited and "used with less friction." For Moreno, technology
-is first and foremost a labor-saving device, creativity being the single most
-important kind of labor. When the effort of creativity is diminished
-significantly, humans begin to "neglect and abandon the genuine and
-outstanding creative process." The robot leads to the extinguishing of "all
-the active, living moments," striving towards the "illusion of the finished,
-perfected product" [@moreno_who_1953, 233]. This illusion reduces humans to
-"machine-addicts," residing in a "jungle of robots" that threatens to
-suffocate all spontaneous activity. Through robots, life then becomes a
-script.
+is above all a labor-saving device, creativity being the single most important
+kind of labor. When the effort of creativity is diminished significantly,
+humans begin to "neglect and abandon the genuine and outstanding creative
+process." The robot leads to the extinguishing of "all the active, living
+moments," striving towards the "illusion of the finished, perfected product"
+[@moreno_who_1953, 233]. This illusion reduces humans to "machine-addicts,"
+residing in a "jungle of robots" that threatens to suffocate all spontaneous
+activity. Through robots, life then becomes a script.
 
 In the name of comfort, safety, and prolonged life, technocracy disempowers
 the very subjects whose lives it claims to preserve. The zootechnical animal
@@ -211,8 +210,8 @@ and the interrupting obstruents of "OTTO" contort the body in accordance with
 the sound image: reverse mimesis, the body as sound pipe. The moment of
 corporeal reenactment transcends the representational and paper-bound confines
 of the medium. The performance makes the "making of the literary technique
-obvious," obvious. Nabokov exposes the metaphor implicit in the very idea of
-"laying bare the device." In this, lies the prevalent characteristic of
+obvious," obvious. Nabokov exposes the metaphor implicit in the idea of
+"laying bare the device" itself. In this, lies the prevalent characteristic of
 Nabokov's mature work, which often seeks to transcend the diegetic, fictional
 world through sheer recursion of literary technique, where each successive
 turn of abstraction brings the buried symbol closer to the reader.
@@ -226,9 +225,9 @@ grouping does not amount to a school of thought as such. Rather, the concept
 of technique emerges in parallel traditions at a formative time in the history
 of the literary technology. Viewed in the context of technological
 development, the emergence of technique as a critical category reflects the
-broader concerns of the machine age. The very idea of *technology* does not
-fully find its place in critical literature until the 1950-1970s, judging by
-the rash of titles like like Martin Heidegger's *Die Frage nach der Technik*
+broader concerns of the machine age. The notion of *technology* does not fully
+find its place in critical literature until the 1950-1970s, judging by the
+rash of titles like like Martin Heidegger's *Die Frage nach der Technik*
 (1954), Jacques Ellul's *La technique ou l'enjeu du siècle* (1954),  Lynn
 White's *Medieval Technology and Social Change* (1966), and *The Technological
 Man* (1969) by Viktor Firkiss, among many similar volumes appearing in the
@@ -351,7 +350,7 @@ In the 1920s, reflecting critically on Shklovsky's "materialist aesthetics"
 Mikhail Bakhtin would write that the formal model of aesthetic genre formation
 was capable only of establishing a "chronological table of variance in the
 evolution of technical devices, because "in isolation technique cannot have a
-history" [@bakhtin_k_2003, 270-1]. Bakhtin was less materially-inclined than
+history" [@bakhtin_k_2003, 270-1]. Bakhtin was less materially inclined than
 the formalists, careful not to reduce technique to questions of "material
 arrangement" alone. He wrote, "I am quite ready to join in the sentiment that
 'in art technique is everything,' provided we understand that the aesthetic
@@ -529,7 +528,7 @@ place of the calculation. Ultimately, Turing described a device that was meant
 to *embody* the symbol: it transformed external abstractions into physical
 states, internal to the device. In doing so, this imagined machine was
 designed to breach the boundary between idea and matter. It was exactly an
-instrument for transforming ideas into shapes: the very process at the heart
+instrument for transforming ideas into shapes: the same process at the heart
 of materialist poetics discussed in the previous section. In this sense,
 Turing's hypothetical machine represents the conclusion of a long-standing
 thought experiment concerning the nature of human understanding and a
@@ -755,8 +754,8 @@ the limits of our intuitions about reading, writing, and comprehension.
 Notebooks*, gives us another glimpse into the pre-history of the literary
 device. It begins again with a problem of "understanding" and "not
 understanding." "To understand language," Wittgenstein writes, means "to take
-in symbolism as a whole" [@wittgenstein_philosophical_1974, 5]. From the very
-first passages, Wittgenstein envisions "understanding" as a type of
+in symbolism as a whole" [@wittgenstein_philosophical_1974, 5]. From the start
+of his argument, Wittgenstein envisions "understanding" as a type of
 trans-mediation. In comparing the understanding of language propositions to
 music, he writes: "for explanation I can only translate the musical picture
 into a picture in another medium and let one picture throw light on the other"
@@ -771,9 +770,9 @@ translating into another mode of representation"
 akin to modeling it in clay or by drawing, he writes. Whatever is meant by
 "understanding" comes through the comparative transference between media.
 
-In light of our earlier discussion about metaphoric transference,
-Wittgenstein's hermeneutics can be viewed as a type of metaphor making across
-media, translation, or trans-mediation. It is insufficient to merely
+In the terms of our earlier discussion about metaphoric transference,
+Wittgenstein's hermeneutics can now be viewed as a type of metaphor making
+across media, translation, or trans-mediation. It is insufficient to merely
 paraphrase something: to show understanding one must "draw a picture" or
 "model" in a way that reveals correspondence of equivalent structures.
 Language cannot be explained in language, for example. One trades symbolisms
@@ -793,7 +792,7 @@ guaranteed correspondence between the two through mechanical means as the
 actuating mechanism of the player piano fits into the groves of the piano
 roll.
 
-![Electrically-operated musical instrument by Clyde Coleman of Chicago, Il.
+![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
 writings.](images/pianola.png)
 
@@ -864,7 +863,7 @@ correspondences, which explains the meaning of the signs. The grammar "means"
 in the sense of specifying the rules by which meaning succeeds or fails,
 Wittgenstein explains. In this way, we can move away from speaking of
 "intended effects" or "proper obedience," and rather concentrate on this
-interpretive, translative layer, which describes the very rules of engagement.
+interpretive, translative layer, which describes the rules of engagement.
 
 [^ln2-compile]: I am forgoing the distinction between interpreters and
 compilers for simplicity's sake.
@@ -968,7 +967,7 @@ pass directly from Wittgenstein to Turing.
 
 Turing's machine offers a strikingly minimalist response to the legacy of
 automated hermeneutics, which I have began to outline above. His universal
-machine subsumes all of Wittgenstein's examples, forming the minimally-viable
+machine subsumes all of Wittgenstein's examples, forming the minimally viable
 blueprint for generalized symbolic manipulation. To function, Turing's machine
 needs only the following three components: (a) a storage medium capable of
 holding symbolic inscription, (b) a reading and writing mechanism to operate
@@ -1135,23 +1134,22 @@ text, and interpretation.
 It is important to remember that in 1936 Turing's machine remained a thought
 experiment---not yet an actual device. Literature in computer science tends to
 see universal Turing machines as algorithms: virtual and symbolic abstractions
-from hardware. Yet it is impossible to entirely disassociate the
-implementation from the idea. The Turing machine "abstracts away from the
-complexity of real computer architectures," Thomas Haigh recently wrote for
-the *Communications of Computing Machinery*. It appeals to the theorist
-precisely because it is a theory. Haigh writes that "hardware and software"
-are interchangeable to the theorist, but not to the historian"
-[@haigh_actually_2014]. In his 1937 review of Turing's "On Computable Numbers"
-paper, Alonzo Church, the American mathematician whose work anticipated
-Turing's (independently) in several important aspects, would similarly
-acknowledge the material foundations of Turing computing. "A human calculator,
-provided with pencil and paper and explicit instructions can be regarded as a
-kind of a Turing machine," he wrote [@church_computable_1937, 42-3; also cited
-in @petzold_annotated_2008, 63]. Disregarding the broader, metaphysical
-implications of that statement, note for now the persistence of two essential
-implements required for the minimally viable operation of the Church--Turing
-human and machine calculators. Pen and paper assert themselves through the
-abstraction.[^ln1-abstraction]
+from hardware. Yet it is impossible to entirely dissociate the implementation
+from the idea. The Turing machine "abstracts away from the complexity of real
+computer architectures," Thomas Haigh recently wrote for the *Communications
+of Computing Machinery*. It appeals to the theorist precisely because it is a
+theory. Haigh writes that "hardware and software" are interchangeable to the
+theorist, but not to the historian" [@haigh_actually_2014]. In his 1937 review
+of Turing's "On Computable Numbers" paper, Alonzo Church, the American
+mathematician whose work anticipated Turing's (independently) in several
+important aspects, would similarly acknowledge the material foundations of
+Turing computing. "A human calculator, provided with pencil and paper and
+explicit instructions can be regarded as a kind of a Turing machine," he wrote
+[@church_computable_1937, 42-3; also cited in @petzold_annotated_2008, 63].
+Disregarding the broader, metaphysical implications of that statement, note
+for now the persistence of two essential implements required for the minimally
+viable operation of the Church--Turing human and machine calculators. Pen and
+paper assert themselves through the abstraction.[^ln1-abstraction]
 
 To encounter the universal Turing machine underpinning the electronic book *as
 a mechanism*, the media and book historian will find that it borrows from a
@@ -1291,7 +1289,7 @@ The very nature of Turing machines implies the irreversible admixture of
 matter, content, and control structure. When reading a paper and cloth book,
 one can definitively isolate a) the physical properties of paper and cloth
 from b) the content of the book and from c) the legal and political elements
-governing the production of textuality. To wit: tear out the copyright notice
+governing the production of textuality: one can tear out the copyright notice
 along with the ISBN number, copy the words into a notebook, and recycle the
 paper. The literary device, by contrast, ingests both symbolic representation
 and control code through the same input stream.  Where images of governance
@@ -1312,7 +1310,7 @@ via a Turing machine."](images/turing-idea.png)
 
 -->
 
-At the very least, we must admit that such simulations do not rest on the
+In the least, we must admit that such simulations do not rest on the
 immaterial "turtles all the way down," unless that is, one believes that the
 universe itself is a type of Turing computation [@deutsch_quantum_1985;
 @lloyd_ultimate_2000; @piccinini_computational_2007]. At some point, the
@@ -1321,14 +1319,14 @@ Simulation engines like *Minecraft* and *Wireworld* do in some sense exist in
 the abstract, as code or even a set of rules written on paper. But in another
 sense, they do not. They come fully into being only when instantiated within
 first-order, physical constrains that involve actual circuit boards and relay
-switches, or, at the very least, a pen and paper. For this reason, the
-performance (in terms of cycles per second, instructions per cycle, or its
-capacity to hold a number of instructions) of a Turing machine simulated
-within a virtual world like Minecraft cannot logically exceed the performance
-of the machine running Minecraft itself. The physical capabilities of the
-bottom-most device limit the computational power of all *n+1* order Turing
-simulations. The bottom-most turtle may have its head in the clouds, but its
-feet rest firmly on the ground.
+switches, or, at least, a pen and paper. For this reason, the performance (in
+terms of cycles per second, instructions per cycle, or its capacity to hold a
+number of instructions) of a Turing machine simulated within a virtual world
+like Minecraft cannot logically exceed the performance of the machine running
+Minecraft itself. The physical capabilities of the bottom-most device limit
+the computational power of all *n+1* order Turing simulations. The bottom-most
+turtle may have its head in the clouds, but its feet rest firmly on the
+ground.
 
 The exact plane where the symbolic meets the material is difficult to
 identify. At some imperceptible point software disappears into hardware. Such
@@ -1438,7 +1436,7 @@ and whom you were reading?
 Under these conditions, it becomes increasingly more difficult to "hold away"
 and to "grasp the object" apart from the subject. Some may celebrate this
 moment as a triumph over Cartesian dualism, the deserved decline of humanism,
-or the ascendency of a world oriented towards objects. These considerations
+or the ascendancy of a world oriented towards objects. These considerations
 risk losing sight of the political reality that the loss of poetics entails.
 As I write these words, a North American woman "wearing" an implanted
 pacemaker is fighting for her right to access its software, in her words "to

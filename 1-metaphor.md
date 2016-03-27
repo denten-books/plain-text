@@ -336,8 +336,8 @@ computationally constructed way. The front page of the New York Times viewed
 in Beijing will differ from the front page viewed in New York. The two "pages"
 or "sites" are in some sense two completely different texts. But in another
 sense, the "front page" identifies the same location of the same text, in two
-diverging and dynamically composed versions. They feed off of the same
-sources. The same source code gives rise to both texts.
+diverging and dynamically composed versions. They feed off the same sources.
+The same source code gives rise to both texts.
 
 The key to understanding "the loss of resemblances" that accompanies
 ubiquitous simulation lies in the inner dynamics of metaphor machinery. A
@@ -567,8 +567,8 @@ such. They continue to live, but also become naturalized: that is understood
 literally. They create connections that with time become habituated and
 invisible to their users. In other words, taken for literal truth, the
 metaphor loses its quality of mediation of ferrying across. For example, for
-many readers the very idea of a "dead metaphor" itself may no longer evoke
-death. Perhaps they understand the "death" of the "dead metaphors" to function
+many readers the idea of a "dead metaphor" itself may no longer evoke death.
+Perhaps they understand the "death" of the "dead metaphors" to function
 synonymously with "convention" or "idiom" without the gruesome
 connotations.[^ln4-dead] Without connotation, that is without doing its job of
 invoking other related explanatory domains, the metaphor withers. In Shelley's
@@ -756,7 +756,7 @@ here. There is a bottle of water here.`
 
 Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model posed several significant
-downsides. While resembling human communication, it in fact utilized only a
+downsides. While resembling human communication, it in fact used only a
 limited set of words. Researchers from the U.S. Air Force academy would later
 write:
 
@@ -825,7 +825,7 @@ in an arbitrary relationship to the intended effect, whereas in the direct
 manipulation model the knob and the movement of the paddle related
 mimetically. To be more precise, the direct manipulation paradigm advocated
 for an "iconic" relationship between representation and the object of interest
-[@norman_user_1986, 110]. Like onomatopoetic words, the movement of the knob
+[@norman_user_1986, 110]. Like onomatopoeic words, the movement of the knob
 resembles the movement of the thing it represents. Edwin Hutchins, Donald
 Norman, and James Hollan write: "There is an economy here in that the user's
 knowledge of the structure of the surface acoustical form has a non-arbitrary
@@ -911,8 +911,10 @@ they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 ![Direct manipulation of simulated objects. [@minsky_manipulating_1984,
 199]](images/minsky.png)
 
+<!--
 !["ViewPoint screen image." On screen menus for the Xerox 6085 Daybreak
 workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
+-->
 
 The principles of direct interaction emerging in the 1980s stood against what
 Laurel called the "ill-formed" presence of the mediator, in the interfaces of
@@ -1093,7 +1095,7 @@ create the illusion of a single text.
 nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 @susina_why_2001, 16-7].
 
-[^ln4-dead]: For a book length summary on this very topic see
+[^ln4-dead]: For a book length summary on this topic see
 @muller_metaphors_2008.
 
 [^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."

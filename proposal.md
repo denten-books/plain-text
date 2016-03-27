@@ -139,24 +139,7 @@ machine instruction, including structures of governance like "digital rights
 management" and "copy protection." A manufacturer's ability to censor or to
 surveil electronic books is contained within the formatting layer.
 
-The **fourth chapter** begins with a discussion of an apparent paradox.  A
-camp of media theorists and textual scholars in the 1990s conceived of
-electronic texts as an ephemeral, almost immaterial, phenomenon. The text
-shimmered and glared: it was spoken of in terms of *hypertext*, light writing,
-and electricity. A generation of theorists that came after insisted on the
-weighty materiality of electronic media. Reading began to engage the
-morphology of rare metals, media archeology, and hard drive forensics. Both
-accounts, I argue, capture an aspect of the same underlying condition. The
-perceived image of an archived inscription splits from its source. The sign
-plausibly resides both on the screen and on the hard drive. It splits, in some
-real a sense, diverging at the site its projection from the site of the
-archive. Erasing an inscription on the screen, for example, may not elicit the
-corresponding action on the disk. Using archival materials from the history of
-telegraphy in the late nineteenth and early twentieth centuries, I tell the
-story of the gradual fracture and the ultimate illegibility of the
-computational sign.
-
-The **fifth chapter** charts the emergence of screen reading. The screen
+The **fourth chapter** charts the emergence of screen reading. The screen
 appears to restore a measure of visibility lost to magnetic inscription, with
 one major side-effect. Fidelity between the word visible and the word archived
 cannot be guaranteed. What the screen shows and what is stored on tape or hard
@@ -169,6 +152,25 @@ aesthetics of digital media.  Works by the philosophers Henri Bergson, Jakob
 von Uexküll, and John Goodman help construct a phenomenology of screen-based
 digital perception.
 
+The **fifth and final chapter** begins with a discussion of an apparent
+paradox.  A camp of media theorists and textual scholars in the 1990s
+conceived of electronic texts as an ephemeral, almost immaterial, phenomenon.
+The text shimmered and glared: it was spoken of in terms of *hypertext*, light
+writing, and electricity. A generation of theorists that came after insisted
+on the weighty materiality of electronic media. Reading began to engage the
+morphology of rare metals, media archeology, and hard drive forensics. Both
+accounts, I argue, capture an aspect of the same underlying condition. The
+perceived image of an archived inscription splits from its source. The sign
+plausibly resides both on the screen and on the hard drive. It splits, in some
+real a sense, diverging at the site its projection from the site of the
+archive. Erasing an inscription on the screen, for example, may not elicit the
+corresponding action on the disk. Using archival materials from the history of
+telegraphy in the late nineteenth and early twentieth centuries, I tell the
+story of the gradual fracture and the ultimate illegibility of the
+computational sign. In conclusion, I argue for the necessity of computational
+poetics.
+
+<!--
 The **sixth and final chapter** looks to the site of storage to find the media
 "homes" that house the vast archives of our private media collections. It
 begins with a close reading of Beckett's *Krapp's Last Tape*. Krapp makes
@@ -188,6 +190,7 @@ terms of "digital natives" and those who are "born digital." I build on the
 immigrant poetics of Vilém Flusser and Viktor Shklovsky to suggest a kind of
 information processing that necessitates a purposeful movement between the
 polarities of familiarization and estrangement, settlement and expatriation.
+-->
 
 Contributions to Literature
 ---------------------------
@@ -343,17 +346,16 @@ dwellings that house our intellectual life. It is in our broadly human, civic
 interest, I argue, to keep "smart" technology at hand, under continual
 scrutiny of critical, close, and closest possible reading.
 
-
 Length and Format
 -----------------
 
 The book is a traditional volume, expounding a sustained thesis across six
 chapters, along with a chapter-length introduction. The manuscript stands at
-roughly 95,000 words (including citations).
+roughly 85,000 words (including citations).
 
 Several chapters contain figures and illustrations, primarily as
 black-and-white diagrams from technical literature and images created by the
-author. The total number of illustrations is 20. I have received subvention
+author. The total number of illustrations is 22. I have received subvention
 funds to offset any costs associated with image production, publishing, and
 preparation of the manuscript.
 
