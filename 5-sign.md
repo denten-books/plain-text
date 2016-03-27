@@ -24,21 +24,20 @@ archived inscription, at the site of storage, the hard drive. Formatting as we
 saw operates somewhere in between these two surfaces, transforming one kind of
 data structure into another.
 
-Before we begin, I would like to pause for a moment to mark the difficulty in
-my answering a simple and yet foundational question: Where does text reside?
-In print, one can definitively point to the page and answer: It resides there,
-on the page. Computational media complicate our ability to situate the
-inscription. One can gesture toward the screen, but without certainty, unsure
-if we would encounter it again later, in the same form. The screen remains in
-flux. It is a site of temporary projection. The projection emanates from the
-storage medium within, passing through multiple filters and transformations on
-the way out. We observe the figure stretch before us across at least two sites
-of inscription. The sign stretches and splits, expressed in the configuration
-of magnetic pulse and circuit state at one end and in the phases of liquid
-crystal on the screen at the other. Both locations afford distinct constraints
-to reading, writing, and interpretation. Consider that familiar actions like
-"reading" and "writing" imply distinctly differing operations depending on the
-surface.
+Before we begin, I would like to pause to mark the difficulty in my answering
+a simple and yet foundational question: Where does text reside?  In print, one
+can definitively point to the page and answer: It resides there, on the page.
+Computational media complicate our ability to situate the inscription. One can
+gesture toward the screen, but without certainty, unsure if we would encounter
+it again later, in the same form. The screen remains in flux. It is a site of
+temporary projection. The projection emanates from the storage medium within,
+passing through multiple filters and transformations on the way out. We
+observe the figure stretch before us across at least two sites of inscription.
+The sign stretches and splits, expressed in the configuration of magnetic
+pulse and circuit state at one end and in the phases of liquid crystal on the
+screen at the other. Both locations afford distinct constraints to reading,
+writing, and interpretation. Consider that familiar actions like "reading" and
+"writing" imply distinctly differing operations depending on the surface.
 
 Thus when Michael Heim refers to the "ephemeral quality" of the electronic
 text or when Pamela McCorduck describes it as "impermanent, flimsy, malleable,
@@ -82,7 +81,7 @@ all representation, available immediately and everywhere. The perceived
 weightlessness of text has other side-effects as well. For example, a text
 that adheres lightly to its medium is also difficult to contain, making
 onerous the governance of symbolic representation and weakening traditional
-controls like censorship and intellectual property rights.
+controls like censorship and intellectual-property rights.
 
 Despite the appearances, texts cannot be unmoored from their material
 foundations. Rather, the inscription splits in two: with one half arising
@@ -149,7 +148,7 @@ mediates between reading and writing.
 Historical detail needed to bolster the case for the fissure of simulated text
 along the above trajectory leads us to a cluster of textual machines. I
 propose we keep the following three landmark mechanisms in view as milestones
-along our journey: the Controller patented by Hyman Goldberg in 1911; the The
+along our journey: the Controller patented by Hyman Goldberg in 1911; the
 Magnetic Reader introduced by Robert Youngquist and Robert Hanes in 1958; and,
 for a lack of a better name, the Time Fob, introduced by Douglas Engelbart in
 1968.  The maker of the first of these devices attempts to heal the rift
@@ -592,7 +591,7 @@ paper it was near-immutable.
 Magnetic tape changed the nature of the commitment between inscription and
 medium. It gave a temporary home to the word, where the word could be changed
 and manipulated before committing to paper. A typist using the new generation
-of magnetically-enabled devices could manipulate words "in memory," on a
+of magnetically enabled devices could manipulate words "in memory," on a
 medium that could easily be erased and rewritten. The magnetic charge adhered
 lightly to tape surface. The "light touch" of the magnetic inscription gave
 the word its ephemeral quality. But it was also light enough as to be nearly
@@ -707,7 +706,7 @@ simply involves the splitting of a signal into multiple physical channels
 
 In addition to the fast "internal storage" drums, the "floor plan" included
 eight slow "external storage" tape-read mechanisms. Tape was slower than drums
-but cheaper and easily extensible to multiple reels, approaching the ideals of
+but cheaper and easily extendible to multiple reels, approaching the ideals of
 the Turing device, which called for "infinite tape." In practice, the tape was
 not infinite, but merely long enough to answer the needs of military
 computation. By contrast to stationary drums built into the machine, tape was
@@ -1295,25 +1294,24 @@ new data structures in combination with new ways of displaying them. Yet I
 cannot help but be carried away by the fluency of the prose and by the sheer
 audacity of the project.
 
-Engelbart's research into intellect augmentation creates tools that augment
+Engelbart's research into intellect augmentation created tools that augment
 research. In an image that evokes Baron Münchhausen pulling himself out of a
-swamp by his own bootstraps, Engelbart describes the methodology employed by
-his lab as "bootstrapping." Bootstrapping for Engelbart involves the recursive
+swamp by his own bootstraps, Engelbart described the methodology employed by
+his lab as "bootstrapping." Bootstrapping for Engelbart involved the recursive
 strategy of "developing tools and techniques" to develop better tools and
-techniques. The "tangible product" of such an activity is "a constantly
+techniques. The "tangible product" of such an activity was "a constantly
 improving augmentation system for use in developing and studying augmentation
-systems." It is an appealing vision, but only as long as it remains recursive.
-The lab benefits from creating its own tools and methods. Engelbart also
-believes that tools and methods emanating from his research have a more
-universal appeal. He hopes that his system "can be transferred---as a whole or
-by pieces of concept, principle and technique---to help others develop
+systems." It is an appealing vision, but only as long as it remained
+recursive. The lab benefits from creating its own tools and methods.  But
+Engelbart also hoped that his system could be "transferred---as a whole or by
+pieces of concept, principle and technique---to help others develop
 augmentation systems for many other disciplines and activities." Undoubtedly,
 Engelbart's ideas about intellect augmentation have had a broad impact on
 knowledge work across disciplines. However, Engelbart's vision loses the
-property of self determination in the transfer. It no longer involves a
-community pulling itself by the bootstraps. Rather it is augmentation enforced
-from without, adhering to values and principles no longer comprehensible to
-the entity being augmented.
+property of self determination in the transfer outside of the narrow confines
+of his lab. At large, it no longer involved a community pulling itself by the
+bootstraps. Rather it became augmentation enforced from without, adhering to
+values and principles no longer comprehensible to the entity being augmented.
 
 Contemporary word processors enable us to drag and drop passages with
 unprecedented facility. But readers and writers hardly comprise a

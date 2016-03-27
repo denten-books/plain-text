@@ -17,8 +17,26 @@ digital textuality is therefore to identify the dynamic property of
 projection. To place text on the screen is to bring it closer to the moving
 image. What happens to literature that takes place on cinema screens?
 
+<!--
+
+better description of the chapter , what is that we mean
+in order to engage with the question of the digital we need to engage
+with the medium and the perception
+move away from the representation
+what archival materials specifically--the screen, aesthetics
+I bring archival material telegraph lcd monitor in conversation
+a simple methodological aside
+in relation to philosophy aesthetics
+
+foregrounding a thick description of the device to understand the question of
+interpretation
+
+more clean roadmap: separate the methods and the roadmap
+
+-->
+
 In this chapter, I bring archival material---blueprints, phenomenological
-accounts, and debates in the philosophy of aesthetics---to bare on the
+accounts, and debates in the philosophy of aesthetics---to bear on the
 question of digital representation. The nature of "digital" experience, as I
 will argue, initially appears to be an intrinsic property of the medium. Under
 closer examination, it rather turns out to be a political construct that lays
@@ -480,8 +498,11 @@ current," he writes, continuing:
 > by introducing upper harmonics in a fragmentary, non-periodic, and very
 > irregular way [@murray_setting_1905, 559].
 
+<!--  rewrite this -->
+Murray assumes that human experience is discrete by nature.
 Like Stephen Marche and Stanley Fish after him, and unlike Bergson or David
-Golumbia, Murray assumes that human experience is discrete by nature. For
+Golumbia.
+
 Murray it is therefore the regular and continuous sine wave that falls under
 metaphysical suspicion. Human experience, in this view, must be analogous to
 the saw-tooth wave, both having the qualities of being fragmentary,
@@ -518,8 +539,7 @@ back out through a series of transformations into script. It is difficult
 therefore to pin down any of these sates as definitively digital or
 definitively analog in an sense of the word.
 
-[ln5-intermedia]: On intermedia see @wendt_sound_1985;
-@higgins_intermedia_2001.
+[ln5-intermedia]: On intermedia see @wendt_sound_1985; @higgins_intermedia_2001.
 
 I would like to pause for moment to define my terms. By "encoding," I mean a
 "controlled system of representation." Representation in its unrestrained form
@@ -726,6 +746,7 @@ dissolving the fourth wall.[^ln3-wall]
 reducing the fidelity of a "cheap" soap opera video feed to the more
 "expensive" look of film shot at 24 frames per second.
 
+<!-- highlight methodology -->
 The soap opera effect suggests a few questions for the media scholar.
 
 First, it challenges the easy equivalence between "digital" and "discrete"
@@ -811,8 +832,8 @@ sounds).
 ## We Have Always Been Digital
 
 So far, the case studies I have built around the Pollak-Virag telegraph and
-the liquid crystal display revealed merely the inadequacy of popular
-intuition. What does it mean then to "digitize" a book, if
+the liquid crystal display reveal the fundamental inadequacy of popular
+understanding of the digital. What does it mean then to "digitize" a book, if
 languages---characters, words, sentences, paragraphs, pages---already function
 digitally? More broadly, if the digital cannot be reduced to the discrete,
 what other properties are being brought forth through digitization? A summary
@@ -1090,17 +1111,22 @@ pens, paper, computers, photocopiers, voice recorders, and word processors.
 Such prohibitions would amount to total censorship. A radically analog society
 would also be wholly mute.
 
+<!-- computer are not just about math, they are about imposing a cerntain
+structure onto world -->
+
 Understanding digitality as a format imposed onto matter, a format that
-facilitates transmediation, recasts the history of computing as something other
-than simple "mathesis," the idea that computation reduces the world into more
-discrete, and therefore computable, elements. That idea would be true if the
-computer was simply a glorified calculator. But computers are not just that: in
-practice, they reveal themselves as self-amending machines for universal
-transmediation (not limited to numbers)---machines that, depending on the
-user's acuity and dispensation to perceive text (and all information, really)
-as deep structure, separate readers into those for whom texts exist as fixed
-analog given, and those for whom they function as truly digital media, capable
-of transformation affecting further texts, people, and machines.
+facilitates transmediation, recasts the history of computing as something
+other than simple "mathesis," the idea that computation reduces the world into
+more discrete, and therefore computable, elements. That idea would be true if
+the computer was simply a glorified calculator. But computers are not just
+that: in practice, they reveal themselves as self-amending machines for
+universal transmediation (not limited to numbers)---machines that, depending
+on the user's acuity and dispensation to perceive text (and all information,
+really) as deep structure, separate readers into those for whom texts exist as
+fixed analog given, and those for whom they function as truly digital media,
+capable of transformation affecting further texts, people, and machines.
+
+<!--- another put it simply --->
 
 ## The Medium Is Not the Message
 
