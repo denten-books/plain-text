@@ -362,11 +362,11 @@ memories in private---cannot be said to exist apart from the complex systems
 that perpetuate inequity and violence globally. The emotional affirmation that
 accompanies exuberant social networking brings with it governing structures
 invoked widely in the name of law enforcement and national security. Comfort
-and security constitute part and parcel of the same ill-conceived bargain that
-leads to critical disempowerment. But where it is difficult to imagine or to
-enact strategies of digital disobedience on a universal scale, we can begin to
-address them through numerous minute transactions that in aggregate brace
-everyday literary exchange.
+and security constitute the same ill-conceived bargain that leads to critical
+disempowerment. But where it is difficult to imagine or to enact strategies of
+digital disobedience on a universal scale, we can begin to address them
+through numerous minute transactions that in aggregate brace everyday literary
+exchange.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
@@ -374,10 +374,10 @@ emergent thought-things like electronic books and smart phones participate
 actively in the production of meaning, we can no longer employ strategies of
 interpretation at the levels of ideology and representation alone. Close
 reading, critical theory, and literary analysis must reach down to the silicon
-bedrock that stages the very act of interpretation. Literary theory, a
-discipline fundamentally engaged in the exegesis of all figurative tropes, is
-therefore crucial to the understanding of new computational environments,
-which have enveloped intellectual life through metaphoric substitution.
+bedrock that stages the act of interpretation. Literary theory, a discipline
+fundamentally engaged in the exegesis of all figurative tropes, is therefore
+crucial to the understanding of new computational environments, which have
+enveloped intellectual life through metaphoric substitution.
 
 I begin where Bernard Harcourt's recent book on digital disobedience ends:
 with the possibility of localized dissent [@harcourt_exposed:_2015]. Following
@@ -471,7 +471,7 @@ politics, and analysis alike [@jameson_prison-house_1972, 75-9;
 @boym_estrangement_1996; @holquist_minding_2005]. In art, estrangement
 proceeded through poetic experimentation: neologism, synecdoche, consonance,
 or repetition, among other devices. Thus, the childlike incantation "a door
-ajar" can evoke the etymological roots of the onomatopoetic "to jar" in the
+ajar" can evoke the etymological roots of the onomatopoeic "to jar" in the
 sense of "to emit a harsh  sound"; the sense of the word as a vessel or a jar,
 which comes from the Arabic *jarrah*; and to "ajar" which although relates to
 the Old English *cyrr* or *cierr* in the meaning of "turn," as in "chore" or
@@ -609,7 +609,7 @@ a sort of a causal custody chain between works and their creators, which at
 some point must have occupied the same contiguous time and space. The printing
 press introduced a range of structures that mediate between readers and
 authors. Distance, time, and mediation subsequently weaken notions of
-authorial fidelity. At the very least, we understand that such intermediary
+authorial fidelity. At the least, we understand that such intermediary
 structures as editors, publishing houses, and printing presses inject an
 element of noise into the channel of communication.
 
@@ -655,7 +655,7 @@ potential uses or actions latent in materials and designs." For example, glass
 affords transparency where steel affords strength [@levine_forms:_2015, 6].
 The affordances of a literary device ultimately constrain the ways in which
 texts can be read and written [@hutchby_technologies_2001, 447]. The political
-struggle for meaning-making, the very opportunity to engage in the act of
+struggle for meaning-making, the opportunity to engage in the act of
 interpretation, thus begins and ends with the material affordances of the
 textual artifact.
 
