@@ -1419,4 +1419,4 @@ mounted on the right wing of the machine" [@staff_description_1949, 34].
 
 [^ln2-hayles]: See also @hayles_print_2004.
 
-/pagebreak
+\newpage

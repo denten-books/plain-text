@@ -1113,6 +1113,4 @@ glance, it concerns only this relation, but upon closer examination, the first
 alteration irradiates in every direction, affecting in decisive manner all the
 factors and functions" [@ricur_interpretation_1976, 25].
 
-/pagebreak
-
-
+\newpage

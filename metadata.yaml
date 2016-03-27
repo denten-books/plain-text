@@ -17,8 +17,10 @@ header-includes:
 - \pagestyle{fancy}
 - \rhead{\today\hspace{0.5em}|\hspace{0.5em}draft copy\hspace{0.5em}|\hspace{0.5em}do not circulate}
 - \lhead{}
-- \newfontfamily {\G}{Greek font}
 
 ---
 
-<!-- documentclass: scrartcl -->
+<!--
+- documentclass: scrartcl 
+- \newfontfamily {\G}{Greek font}
+-->

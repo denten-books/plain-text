@@ -1374,4 +1374,4 @@ apprehension.
 multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
 @deleuze_bergsonism_1990.
 
-/pagebreak
+\newpage
