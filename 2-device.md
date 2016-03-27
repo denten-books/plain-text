@@ -947,11 +947,11 @@ discover the "rule book" of what he later calls a language game---or at lest
 to suggest that such a rulebook might exist. Much has been written on this
 aspect of Wittgenstein's thought and its relation to Bertrand Russel's
 symbolic logic and subsequently to Chomsky's development of the "universal
-grammar" [ln2-chomchom]. In the context of our conversation, Wittgenstein's
+grammar" [^ln2-chomchom]. In the context of our conversation, Wittgenstein's
 "middle period" is important for its direct influence on Turing's model of
 computation.
 
-[ln2-chomchom]: I make this connection with many caveats and with the
+[^ln2-chomchom]: I make this connection with many caveats and with the
 acknowledgement of the complexity involved. See for example Ch. 6-8 in
 @hacking_why_1975; @waller_chomsky_1977; @green_bertrand_2007, 103-43.
 
