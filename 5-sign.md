@@ -12,21 +12,6 @@ in the general permanence of the literary system. If we are destined to dwell
 on surfaces, I do not know to which surface to attach my attention: the screen
 or the floating gate.
 
-In the previous chapters we have encountered the book as a device. I traced
-the intellectual roots of the literary artifact to several ideas emerging at
-the turn of the twentieth century. We saw it first as a formal device: a
-technique for defamiliarizing or making strange habituated metaphors. We then
-saw it as a literal device, related to the operation of universal Turing
-machines, in which plain text compatible with humans mixes with
-machine-compatible control codes. Finally, we began to open the space between
-the visible inscription, at the site of its projection, the screen, and the
-archived inscription, at the site of storage, the hard drive. Formatting as we
-saw operates somewhere in between these two surfaces, transforming one kind of
-data structure into another.
-
-<!-- one sentence about this chapter -->
-<!-- add something about materiality -->
-
 Before we begin, I would like to pause to mark the difficulty in my answering
 a simple and yet foundational question: Where does text reside?  In print, one
 can definitively point to the page and answer: It resides there, on the page.
@@ -121,34 +106,32 @@ historical account of a letter's passage from paper to pixel. The narrative
 arc of this chapter proceeds in three stages, which I summarize here and
 expand upon later.
 
-<!-- add some dates -->
+First, with the initial advance of telecommunications in the telegraph age, at
+the turn of the twentieth century, we observe the emerging divide between
+human-readable text and machine-readable code. Removable storage media like
+ticker tape and punch card constitute a set of instructions for a machine,
+meant to actuate a mechanism which in turn produces human-legible
+inscriptions. Unintelligible (to a lay person) control codes "driving" the
+machine are thereby mixed with plain text content of communication. The
+inscription splits between storage, containing an expanded character set, and
+its representation containing only the human alphabets.
 
-First, with the initial advance of telecommunications in the telegraph age we
-observe the emerging divide between human-readable text and machine-readable
-code. Removable storage media like ticker tape and punch card constitute a set
-of instructions for a machine, meant to actuate a mechanism which in turn
-produces human-legible inscriptions. Unintelligible (to a lay person) control
-codes "driving" the machine are thereby mixed with plain text content of
-communication. The inscription splits between storage, containing an expanded
-character set, and its representation containing only the human alphabets.
-
-Second, where the ticker tape and the punch card were legible without
-specialized "reader" devices, the use of magnetic tape submerged the mixed
-stream of letters and control codes into an inscrutable substance. For about a
-decade in the 1950s and 1960s, machine operators worked "blindly," using
-complicated workarounds to verify equivalence between input, storage, and
-output. Writing begins to involve multiple "typings," "printings," and
+Second, where ticker tape and punch cards were legible without specialized
+reader devices, magnetic tape storage made for an inscrutable medium. For
+about a decade in the 1950s and 1960s, machine operators worked "blindly,"
+using complicated workarounds to verify equivalence between input, storage,
+and output. Writing begins to involve multiple "typings," "printings," and
 specialized magnetic reading devices to establish the correspondence between
 input, storage content, and output of entered text.
 
-Finally, the appearance of Cathode Ray Tube (CRT) displays restores a measure
-of legibility lost to magnetic storage media. The familiar sign reemerges on
-the screen, but crucially, it now constitutes a simulation of the archived
-inscription. Typing a word on keyboard produces one sort of a structure on
-tape or disk and another on the screen. The two are related but not
-homologous. The lay reader has no means to ensure correspondence between
-visible trace and stored mark. An opaque "black box" of a computational device
-mediates between reading and writing.
+Finally, the appearance of Cathode Ray Tube (CRT) displays in the late 1960s
+restored a measure of legibility lost to magnetic storage media. The familiar
+sign reemerged on the screen, but crucially, it now constituted a simulation
+of the archived inscription. Typing a word on keyboard produced one sort of a
+structure on tape or disk and another on the screen. The two relate
+contingently, without necessary equivalence. The lay reader has no means to
+ensure the correspondence between visible trace and stored mark. An opaque
+"black box" of a computational device mediates between reading and writing.
 
 Historical detail needed to bolster the case for the fissure of simulated text
 along the above trajectory leads us to a cluster of textual machines. I
@@ -259,8 +242,8 @@ Mecograph, and Vibroplex began manufacturing semi-automatic keys, which made
 use of a horizontal switch capable of emitting a rapid succession of dots to
 one side of the action, and dashes to the other [@martin_telegraphic_1904;
 @boyd_telegraph-key_1916]. A bug was said to "run away" when adjusted for too
-high of a speed. The Vibroplex keys would significantly alter the "fist," or
-the transmission style of the operator, allowing for speeds that approached 50
+high of a speed. Vibroplex keys would greatly alter the "fist," or the
+transmission style of the operator, allowing for speeds that approached 50
 words per minute (and above, if not following the minimum signal length
 specifications) [@mcnicol_american_1913, 207;
 @u.s._bureau_of_labor_statistics_displacement_1932; @halstead_genesis_1949].
@@ -603,7 +586,7 @@ lightly to tape surface. The "light touch" of the magnetic inscription gave
 the word its ephemeral quality. But it was also light enough as to be nearly
 imperceptible. In applications like law and banking, where the fidelity
 between input, storage, and output were absolutely crucial, the illegible
-property of magnetic storage posed a significant engineering challenge. After
+property of magnetic storage posed a considerable engineering challenge. After
 the advent of teletype, but before the screen, machine-makers employed a
 variety of mechanisms to restore a measure of congruence between invisible
 magnetic inscription and visible paper representation.
@@ -740,21 +723,18 @@ the operator would have to reenter the mismatched digits
 results" the operator could use one of the five attached Underwood Electric
 teletypes to print all of the tape's columns and confirm visually.
 
-<!-- take a look at significant too many times -- >
-<!-- consider moving up introduction -->
-
-I provide significant technical detail throughout the chapter to make sure
-that the contemporary reader understands what I describe as the "textual
-fissure" or the "multiple locations of the inscription" not as a metaphor, but
-literally. Where the typewriter or the hole punch transfered the inscription
-from keyboard to paper directly, at the stroke of hammer and key, early
+I draw on a thick technical description throughout the chapter to make sure
+that the reader understands the terms like "textual fissure" and "multiple
+locations of the inscription" not in a metaphorical sense, but literally.
+Where the typewriter or the hole punch transfered the inscription from
+keyboard to paper directly, at the stroke of hammer and key, early
 electromagnetic devices compounded the inscription across multiple surfaces.
 The movement of the computed sign necessitated manifold "phase transitions"
 between media: from one channel of the tape to another, from tape to drum,
 from a slow drum to a fast one, and from drum and tape to paper. Where before,
 on ticker tape, the inscription remained visible, at least before it entered
 the wires as electrical signal, it now disappeared from view soon after key
-press. Submerged under magnetic surface inscriptions multiply, diffuse, and
+press.  Submerged under magnetic surface inscriptions multiply, diffuse, and
 resist direct observation. The computed sign undergoes a number of changes in
 the process of displacement in time and in space. When using the Mark III or
 similar tape-driven devices an operator could prepare a reel of tape today,

@@ -746,7 +746,8 @@ dissolving the fourth wall.[^ln3-wall]
 reducing the fidelity of a "cheap" soap opera video feed to the more
 "expensive" look of film shot at 24 frames per second.
 
-The soap opera effect suggests a few questions for the media scholar. I turn 
+The soap opera effect undercuts some of our most ingrained intuitions about
+the analog--digital divide.
 
 First, it challenges the easy equivalence between "digital" and "discrete"
 properties of the medium so often mentioned in the critical literature.
