@@ -24,6 +24,9 @@ archived inscription, at the site of storage, the hard drive. Formatting as we
 saw operates somewhere in between these two surfaces, transforming one kind of
 data structure into another.
 
+<!-- one sentence about this chapter -->
+<!-- add something about materiality -->
+
 Before we begin, I would like to pause to mark the difficulty in my answering
 a simple and yet foundational question: Where does text reside?  In print, one
 can definitively point to the page and answer: It resides there, on the page.
@@ -46,7 +49,7 @@ at the site of its projected transcendence. McCorduck tells the story of a
 rabbinate court, which, when faced with a law prohibiting observant Jews from
 erasing God's name, rule that words on the screen are not to be considered
 writing, therefore sanctioning their erasure [@mccorduck_universal_1985, 51;
-also quoted @heim_electric_1987, 192]. Conversely, when scholars like Johnna
+also quoted @heim_electric_1987, 192]. Conversely, when scholars like Johanna
 Drucker, Katherine Hayles, and Matthew Kirschenbaum respond to Heim and
 company with hardened materialism, they are also rightly describing properties
 of digital inscription, but this time at the site of its archival immanence.
@@ -89,15 +92,15 @@ visibly, a weightless and apparent screen simulation, and the other half,
 opaque, etched into the hefty and hidden material contingencies of the device.
 The material substrates of computational text likewise carry real-world
 affordances and consequences. They are first and foremost hidden from view.
-Drives and tapes reside of boxes encased in plastic and aluminum. If only
-because they carry electrical current and have the potential to catch fire,
-they are regulated. They contain heavy and rare metals, often hazardous if
-touched or ingested. Flash cards, memory sticks, solid state storage devices,
-and magnetic disk drives contain circuitry to prevent unauthorized access and
-to resist tempering. Within them, text intertwines with machine internals,
-often sealed hermetically and hermeneutically, in a way that resists human
-interpretation. It is inscription not compatible with humans; a literature for
-the machines.
+Drives and tapes reside inside of boxes encased in plastic and aluminum. If
+only because they carry electrical current and have the potential to catch
+fire, they are regulated. They contain heavy and rare metals, often hazardous
+if touched or ingested. Flash cards, memory sticks, solid state storage
+devices, and magnetic disk drives contain circuitry to prevent unauthorized
+access and to resist tempering. Within them, text intertwines with machine
+internals, often sealed hermetically and hermeneutically, in a way that
+resists human interpretation. It is inscription not compatible with humans; a
+literature for the machines.
 
 Form and content lie flat on the printed page. Print interfaces are paper
 thin, we might say. Ink adheres to paper in the way that pixels do not to
@@ -117,6 +120,8 @@ the projected sign and the archived inscription. Here, I would like to give a
 historical account of a letter's passage from paper to pixel. The narrative
 arc of this chapter proceeds in three stages, which I summarize here and
 expand upon later.
+
+<!-- add some dates -->
 
 First, with the initial advance of telecommunications in the telegraph age we
 observe the emerging divide between human-readable text and machine-readable
@@ -277,9 +282,10 @@ someone under the table" in sender's lingo was to transmit faster that the
 receiver ability to transcribe. The "reader" was "burnt up" when he fell
 behind. He had to "break," or interrupt the sender to ask for repetition. To
 "paste" someone meant to transmit at high speeds to deliberately burn him up
-or put him under the table [@brackbill_telegraphers_1929].[^ln4-men]
+or put him under the table.[^ln4-men]
 
-[^ln4-men]: The operators at the time were all almost exclusively male.
+[^ln4-men]: See @brackbill_telegraphers_1929. The operators at the time were
+all almost exclusively male.
 
 The International Telegraph Conference in Lisbon, held in the summer of 1908,
 ratified two additional alphabet standards for international use: Hughes and
@@ -734,9 +740,12 @@ the operator would have to reenter the mismatched digits
 results" the operator could use one of the five attached Underwood Electric
 teletypes to print all of the tape's columns and confirm visually.
 
-I cover significant technical detail throughout the chapter to make sure that
-the contemporary reader understands what I describe as the " textual fissure"
-or the "multiple locations of the inscription" not as a metaphor, but
+<!-- take a look at significant too many times -- >
+<!-- consider moving up introduction -->
+
+I provide significant technical detail throughout the chapter to make sure
+that the contemporary reader understands what I describe as the "textual
+fissure" or the "multiple locations of the inscription" not as a metaphor, but
 literally. Where the typewriter or the hole punch transfered the inscription
 from keyboard to paper directly, at the stroke of hammer and key, early
 electromagnetic devices compounded the inscription across multiple surfaces.
@@ -1348,3 +1357,86 @@ cathode ray was readily apparent on the page in all of its fullness, finally
 entered a complex system of executable code and inscrutable control
 instruction.  The material lightness of textual being came at the price of
 legibility.
+
+[^ln2-gate]: Solid state memory technology, flash memory for example, store
+information in capacitor "circuit states." This by contrast with
+electromagnetic storage that works by modulating electrical charge over a
+magnetic surface. Solid state capacitor storage was used in the earliest
+computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
+manufacture until well into the twenty-first century, when solid state drives
+began to replace electromagnetic storage in consumer electronics. In an early
+(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
+and Sze explain: "A structure has been proposed and fabricated in which
+semipermanent charge storage is possible. A floating gate is placed a small
+distance from an electron source. When an appropriately high field is applied
+through an outer gate, the floating gate charges up. The charges are stored
+even after the removal of the charging field due to much lower back transport
+probability [...] Such a device functions as a bistable memory with
+nondestructive read-out features. The memory holding time observed was longer
+than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
+and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+
+[^ln2-printermen]: According to the U.S. Department of Labor statistics, women
+comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
+of automated telegraphy). By 1931 women comprised 64 percent of printer and
+Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
+514].
+
+[^ln2-bacon]: This volume is also commonly translated as "Of the Dignity and
+Advancement of Learning," following the Spedding edition. The first two books
+of *The Advancement* appeared first in 1605. Together with books 6-9 published
+in Latin in 1623 they are sometimes referred to as "Of the Advancement and
+Proficience of Learning or the Partitions of Sciences," following the Oxford
+1640 edition. I will follow the 1640 English edition here. Volume 10, in the
+new Oxford Collected Works, containing *The Advancement*, was not out at the
+time of my writing this book (2015).
+
+[^ln2-brain]: We will later entertain the (real) possibility of
+non-representational communication, suggested by early experiments in direct
+brain-to-brain or brain-to-machine interfaces.
+
+[^ln2-denning]: These stages correspond roughly to the "three generations of
+electronic computing" outlined in Peter Denning's "theory of operating systems"
+[@denning_third_1971].
+
+[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
+truckloads of punched cards being transported from one center to another in
+Italy."
+
+[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
+@ohmori_memory_2015.
+
+[^ln2-loom]: These dates, as is usually the case with periodization, are
+somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
+worker Basile Bouchon used "drill paper" to automate industrial drawlooms
+[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
+honors could also go to the brothers Banū Mūsā, ninth-century automata
+inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
+his lifelike mechanisms in the mid eighteenth century
+[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
+upon and popularized Bouchon's looms on an industrial scale around the same
+time.
+
+[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
+since formatting is an important part of the reported experience.
+
+[^ln1-timefob]: The source for the cryptic phrase is likely
+@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
+political campaign, and it was then for the first time that the well known
+sentence was inaugurated,---'Now is the time for all good men to come to the
+aid of the party;' also the opening sentence of the Declaration of
+Independence [...] were repeated many times in order to test the speed of the
+machine."
+
+[^ln2-punch]: "Two means are available for preparing the functional tapes
+required for the operation of the interpolators. First, when the tabular
+values of *f(x)* have been previously published, they may be copied on the
+keys of the functional tape preparation unit [...] and the tape produced by
+the punches associated with this unit, under manual control. Second, as
+suitable control tape may be coded directing the calculator to compute the
+values of *f(x)* and record them by means of one of the four output punches,
+mounted on the right wing of the machine" [@staff_description_1949, 34].
+
+[^ln2-hayles]: See also @hayles_print_2004.
+
+/pagebreak

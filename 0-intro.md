@@ -181,7 +181,7 @@ dialectics, that is, a method of making sense out of conflicting and often
 contradictory logics of the virtual. In the section that follows, I outline
 the some of the methodological considerations that motivate my approach to the
 study of media in general and text in particular. Finally, I would like to
-draw attention to the plant of the present work.
+draw attention to the plan of the present work.
 
 ## Theory
 ### Displacement
@@ -1169,3 +1169,6 @@ ceases to serve as a tool for discovery--a function now addressed by the
 search and recommendation engines.
 
 [^ln-twobil]: Code metrics from @mccandless_million_2015.
+
+/pagebreak
+

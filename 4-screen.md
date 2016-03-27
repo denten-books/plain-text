@@ -17,28 +17,24 @@ digital textuality is therefore to identify the dynamic property of
 projection. To place text on the screen is to bring it closer to the moving
 image. What happens to literature that takes place on cinema screens?
 
-<!--
-
-better description of the chapter , what is that we mean
-in order to engage with the question of the digital we need to engage
-with the medium and the perception
-move away from the representation
-what archival materials specifically--the screen, aesthetics
-I bring archival material telegraph lcd monitor in conversation
-a simple methodological aside
-in relation to philosophy aesthetics
-
-foregrounding a thick description of the device to understand the question of
-interpretation
-
-more clean roadmap: separate the methods and the roadmap
-
--->
-
-In this chapter, I bring archival material---blueprints, phenomenological
-accounts, and debates in the philosophy of aesthetics---to bear on the
-question of digital representation. The nature of "digital" experience, as I
-will argue, initially appears to be an intrinsic property of the medium. Under
+In this chapter I would like to pose the question of the digital, a descriptor
+everywhere now, yet so poorly felt and understood. One intuits it has
+something to do with numbers or fingers, but something more is always at stake
+in the distinction between digital and analog categories. That something---a
+remainder, a trace---will come into focus here, through a series of case
+studies that will give us an opportunity to test our theoretical institutions
+against the material realities of digital representation. I am interested, as
+always, in advancing a kind of a materialist, computational poetics, which
+foregrounds a thick description of the device from which theoretical insight
+can emanate. Following the methodological principle of entanglement between
+theory and practice, the chapter engages with the elemental particulates of
+two primal conduits: electric ether and liquid crystal, the media behind the
+telegraph and the liquid crystal display (LCD). Further, I am concerned with a
+phenomenological description of human perception. Our goal is to disturb the
+comfort and the congruity between the organ and the device. The two mold and
+reshape each other. They enter into a dialectic that must be disturbed for
+understanding to take place. The nature of "digital" experience, as I will
+argue, initially appears to be an intrinsic property of the medium. Under
 closer examination, it rather turns out to be a political construct that lays
 claims on the body, structuring the physical affordances of communication. The
 change of the *medium* from paper to pixel entails a series of corresponding
@@ -100,14 +96,15 @@ one to the other affects not the message but the mode of perception. It is as
 if someone has asked you to read a book or to watch a film in a stranger's
 armchair. It feels off in a way that is difficult to explain. The mode of
 digital perception similarly contorts the body into new and unfamiliar shapes,
-which give discomfort.
-
-Something happens as digital media subsume their analog counterparts. But what
-is it? We already know the shape of the conduit: keyboard, screen, storage.
-But do these change the ways we read or listen and how? I begin then with
-forming some intuitions about the digital. My "two terminators," two golems of
-popular culture, will lead us to several technical case studies that help
-train our intuitions about the aesthetics of digital perception.
+which give discomfort. Something happens as digital media subsume their analog
+counterparts. But what is it? In previous chapters, we have encountered the
+shape of the conduit: keyboards, screens, storage. In this chapter, a short
+meditation on the digital commonplaces in popular culture precedes two case
+studies, one from the material history of telegraphy and the other from the
+history of modern display technology. Archival material---patents, blueprints,
+phenomenological accounts from the early history of word processing---will be
+brought to bear on a debate concerning the nature of digital representation
+and perception in the philosophy of aesthetics.
 
 ## Digital Wake (My Two Terminators)
 
@@ -498,9 +495,12 @@ current," he writes, continuing:
 > by introducing upper harmonics in a fragmentary, non-periodic, and very
 > irregular way [@murray_setting_1905, 559].
 
-<!--  rewrite this -->
-Murray assumes that human experience is discrete by nature.
-Like Stephen Marche and Stanley Fish after him, and unlike Bergson or David
+Murray, contrary to Bergson, assumes that human experience is discrete by
+nature. A century prior to the emergence of the digital--analog divide, the
+distinction between sine and square waves polarized popular opinion along
+similar fault lines. In each case, the nature 
+
+Stephen Marche and Stanley Fish after him, and unlike Bergson or David
 Golumbia.
 
 Murray it is therefore the regular and continuous sine wave that falls under
@@ -746,8 +746,7 @@ dissolving the fourth wall.[^ln3-wall]
 reducing the fidelity of a "cheap" soap opera video feed to the more
 "expensive" look of film shot at 24 frames per second.
 
-<!-- highlight methodology -->
-The soap opera effect suggests a few questions for the media scholar.
+The soap opera effect suggests a few questions for the media scholar. I turn 
 
 First, it challenges the easy equivalence between "digital" and "discrete"
 properties of the medium so often mentioned in the critical literature.
@@ -1111,22 +1110,18 @@ pens, paper, computers, photocopiers, voice recorders, and word processors.
 Such prohibitions would amount to total censorship. A radically analog society
 would also be wholly mute.
 
-<!-- computer are not just about math, they are about imposing a cerntain
-structure onto world -->
-
-Understanding digitality as a format imposed onto matter, a format that
-facilitates transmediation, recasts the history of computing as something
-other than simple "mathesis," the idea that computation reduces the world into
-more discrete, and therefore computable, elements. That idea would be true if
-the computer was simply a glorified calculator. But computers are not just
-that: in practice, they reveal themselves as self-amending machines for
-universal transmediation (not limited to numbers)---machines that, depending
-on the user's acuity and dispensation to perceive text (and all information,
-really) as deep structure, separate readers into those for whom texts exist as
-fixed analog given, and those for whom they function as truly digital media,
-capable of transformation affecting further texts, people, and machines.
-
-<!--- another put it simply --->
+Understanding digitality as an kind of order, a format that arranges matter in
+certain ways tied to particular affordances of specific devices, recasts the
+history of computing into something other than simple "mathesis," the idea
+that computation reduces the world into more discrete, and therefore
+computable, elements. That notion would be true if the computer was simply a
+glorified calculator. Computers are more than that: in practice, they reveal
+themselves to be self-amending machines for universal transmediation
+---machines that, depending on the user's acuity and dispensation to access
+deep structure, separate readers into those for whom texts and images exist as
+fixed analog given and those for whom they exist in a fluid form. Computation
+implies the ability to impose structure onto the world: a liberty to exchange
+one symbolic order for another among signs, people, and machines.
 
 ## The Medium Is Not the Message
 
@@ -1377,3 +1372,5 @@ apprehension.
 [^ln3-bergsonism]: On the rather complex topic of discrete vs. continuous
 multiplicities in Bergsonian thought see also @james_pluralistic_1909 and
 @deleuze_bergsonism_1990.
+
+/pagebreak

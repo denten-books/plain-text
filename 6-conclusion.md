@@ -47,10 +47,10 @@ broadcast material. Similarly, electronic book sellers often prevent readers
 from copying and pasting words on the page. Such measures mimic some of the
 constraints associated with static, paper-and-ink-bound media regimes.
 
-I began the chapter to ask: Where does the computed sign reside? The
+I began the book by asking: Where does the computed sign reside? The
 complexity of the answer belies our alienation. Not since the pre-modern times
 have readers and writers been so removed from the material contexts of
-literacy. The average reader today is privy only to the surface phenomena. To
+literacy.  The average reader today is privy only to the surface phenomena. To
 rectify the situation is to acknowledge that all strategies of interpretation
 from simple reading to literary analysis continue to rely on semiotic models
 removed from the stark realities of the computed sign. The development of key
@@ -165,108 +165,31 @@ automation of experience. In refracting ourselves through the gaze of the
 technological other we see the human world anew.
 
 I return, then, to the subject of time, found throughout in the background of
-this chapter. The popular imagination of digital machines belies a deep sense
-of anxiety about the rhythm of the system as a whole, in which humans play only
-a small part (as bug operators, users, or receivers). Telegraphs and
+this book. The popular imagination of digital machines belies a deep sense of
+anxiety about the rhythm of the system as a whole, in which humans play only a
+small part (as bug operators, users, or receivers). Telegraphs and
 subsequently computers force an atomization of experience into discrete bits,
-along with the opposite movement toward continuity fluid and rapid enough as to
-move beyond the boundaries of human perception. Attention to the material
+along with the opposite movement toward continuity fluid and rapid enough as
+to move beyond the boundaries of human perception. Attention to the material
 conditions of removable storage media reveals a delicate negotiation of
 synchronicity between human and machine time, in a complex chain of encoding
 and re-mediation that connects differing and incongruent perceptual apparatus.
-Under these conditions, it would be a mistake to conflate digital and discrete,
-just as it would be a mistake to reduce the human to the continuous.[^ln3-cont]
-Homeostasis is found at some arbitrary point, contingently connected to human
-biology and to current technological capability. The question of "What
-constitutes a moment?" when watching television or reading a book, can become
-then, "What *should* constitute a moment?" For the tick lying in wait for its
-next warm meal, a moment can last for decades (Uexküll reports up to 18
-years). "Time, which frames all events," Uexküll writes, "seemed to us to be
-the only objectively consistent factor […], but now we see that the subject
-controls the time of its environment" [@uexkull_foray_2010, 52]. The
-computational environment before us constitutes the grounds for all
-higher-level textual activity, from record keeping to poetry and software
-development. From the textual grounds of human--machine interaction it then
-becomes possible to derive poetics, in the sense of a study and an art of
-creating one's own time: taking control of prosody, rhythm, meter, and cadence.
+Under these conditions, it would be a mistake to conflate digital and
+discrete, just as it would be a mistake to reduce the human to the
+continuous.[^ln3-cont] Homeostasis is found at some arbitrary point,
+contingently connected to human biology and to current technological
+capability. The question of "What constitutes a moment?" when watching
+television or reading a book, can become then, "What *should* constitute a
+moment?" For the tick lying in wait for its next warm meal, a moment can last
+for decades (Uexküll reports up to 18 years). "Time, which frames all events,"
+Uexküll writes, "seemed to us to be the only objectively consistent factor
+[…], but now we see that the subject controls the time of its environment"
+[@uexkull_foray_2010, 52]. The computational environment before us constitutes
+the grounds for all higher-level textual activity, from record keeping to
+poetry and software development. From the textual grounds of human--machine
+interaction it then becomes possible to derive poetics, in the sense of a
+study and an art of creating one's own time: taking control of prosody,
+rhythm, meter, and cadence.
 
-[^ln2-gate]: Solid state memory technology, flash memory for example, store
-information in capacitor "circuit states." This by contrast with
-electromagnetic storage that works by modulating electrical charge over a
-magnetic surface. Solid state capacitor storage was used in the earliest
-computers [@kahng_semipermanent_1967, 1296], but was prohibitively expensive to
-manufacture until well into the twenty-first century, when solid state drives
-began to replace electromagnetic storage in consumer electronics. In an early
-(1967) paper on "A Floating Gate and Its Application to Memory Devices," Kahng
-and Sze explain: "A structure has been proposed and fabricated in which
-semipermanent charge storage is possible. A floating gate is placed a small
-distance from an electron source. When an appropriately high field is applied
-through an outer gate, the floating gate charges up. The charges are stored
-even after the removal of the charging field due to much lower back transport
-probability [...] Such a device functions as a bistable memory with
-nondestructive read-out features. The memory holding time observed was longer
-than one hour" [@kahng_floating_1967, 1288]. See also @horton_experimental_1962
-and @frohman-bentchkowsky_fully_1971 on "floating gate avalanche injection."
+<!-- materiality -->
 
-[^ln2-printermen]: According to the U.S. Department of Labor statistics, women
-comprised 24 percent of Morse operators in 1915 (before the wide-spread advent
-of automated telegraphy). By 1931 women comprised 64 percent of printer and
-Morse manual operators [@u.s._bureau_of_labor_statistics_displacement_1932,
-514].
-
-[^ln2-bacon]: This volume is also commonly translated as "Of the Dignity and
-Advancement of Learning," following the Spedding edition. The first two books
-of *The Advancement* appeared first in 1605. Together with books 6-9 published
-in Latin in 1623 they are sometimes referred to as "Of the Advancement and
-Proficience of Learning or the Partitions of Sciences," following the Oxford
-1640 edition. I will follow the 1640 English edition here. Volume 10, in the new
-Oxford Collected Works, containing *The Advancement*, is not out at the time of
-my writing this chapter (2015).
-
-[^ln2-brain]: We will later entertain the (real) possibility of
-non-representational communication, suggested by early experiments in direct
-brain-to-brain or brain-to-machine interfaces.
-
-[^ln2-denning]: These stages correspond roughly to the "three generations of
-electronic computing" outlined in Peter Denning's "theory of operating systems"
-[@denning_third_1971].
-
-[^ln2-busa]: See for example @hockey_history_2004, "Father Busa has stories of
-truckloads of punched cards being transported from one center to another in
-Italy."
-
-[^ln2-magnet]: See for example @stefanita_magnetism_2012, 1-69 and
-@ohmori_memory_2015.
-
-[^ln2-loom]: These dates, as is usually the case with periodization, are
-somewhat arbitrary. I suggest 1725 as an inaugural date when the French textile
-worker Basile Bouchon used "drill paper" to automate industrial drawlooms
-[@koetsier_prehistory_2001, 593-595; @randell_history_2003]. The inaugural
-honors could also go to the brothers Banū Mūsā, ninth-century automata
-inventors from Baghdad; to Jacques De Vaucanson, who delighted the public with
-his lifelike mechanisms in the mid eighteenth century
-[@riskin_defecating_2003]; or to Joseph Charles Marie Jacquard, who improved
-upon and popularized Bouchon's looms on an industrial scale around the same
-time.
-
-[^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
-since formatting is an important part of the reported experience.
-
-[^ln1-timefob]: The source for the cryptic phrase is likely
-@weller_early_1918, 21 and 30: "We were then in the midst of an exciting
-political campaign, and it was then for the first time that the well known
-sentence was inaugurated,---'Now is the time for all good men to come to the
-aid of the party;' also the opening sentence of the Declaration of
-Independence [...] were repeated many times in order to test the speed of the
-machine."
-
-[^ln2-punch]: "Two means are available for preparing the functional tapes
-required for the operation of the interpolators. First, when the tabular
-values of *f(x)* have been previously published, they may be copied on the
-keys of the functional tape preparation unit [...] and the tape produced by
-the punches associated with this unit, under manual control. Second, as
-suitable control tape may be coded directing the calculator to compute the
-values of *f(x)* and record them by means of one of the four output punches,
-mounted on the right wing of the machine" [@staff_description_1949, 34].
-
-[^ln2-hayles]: See also @hayles_print_2004.

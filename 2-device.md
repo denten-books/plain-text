@@ -1587,3 +1587,5 @@ and Guy Smoot for their help with the Greek translations.
 [^ln1-turingcog]: Turing's later work suggests that his use of cognitive
 language throughout "On Computable Numbers" was not accidental, and that he
 meant it to define sentience more generally [@turing_computing_1950].
+
+/pagebreak

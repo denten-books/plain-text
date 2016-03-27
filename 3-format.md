@@ -1522,15 +1522,20 @@ understood so clearly? Evidently it was not any of the features that the senses
 told me of; for all of them---brought to me through taste, smell, sight, touch
 or hearing---have now altered, yet it is still the same wax."
 
-[^ln3-marinetti]: "Il nostro amore crescente per la materia, la volontà di
+[^ln3-marinetti]: !!! Original quote in Italian to go here. Fonts other then
+English are not rendering at the moment.
+
+<!-- "Il nostro amore crescente per la materia, la volontà di
 penetrarla e di conoscere le sue vibrazioni, la simpatia fisica che ci lega ai
 motori, ci spingono all'uso dell'onomatopea." [from Lo splendore geometrico a
-meccanico e la sensibilità numerica]
+meccanico e la sensibilità numerica] -->
 
-[^ln3-echenbaum]: "Что касается 'формы', то формалистам было важно только
+[^ln3-echenbaum]: !!! Original quote in Russian will go here.
+
+<!-- "Что касается 'формы', то формалистам было важно только
 повернуть значение этого запутанного термина так, чтобы он не мешал постоянной
 своей ассоциацией с понятием 'содержания', еще более запутанным и совершенно
-ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda]
+ненаучным" [@echenbaum part3 of Teoria Formalnogo Metoda] -->
 
 [^ln3-translate2]: "In our discussion of this text we have been using an
 authoritative French translation of Plato, the one published by Guillaume Bude.
@@ -1606,3 +1611,5 @@ model.
 [^ln3-w3c]: The International Standards Organization (ISO) in the case of OSI,
 the Internet Engineering Task Force in the case of TCP/IP, and the World Wide
 Web Consortium (W3C) in the case of the DOM.
+
+/pagebreak

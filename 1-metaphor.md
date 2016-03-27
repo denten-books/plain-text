@@ -604,7 +604,7 @@ bridge domains productively and therefore continues living.
 A truly dead metaphor for Lakoff is one in which the original source image no
 longer makes sense. He gives the example of the English word *pedigree*, which
 originally referred to the French for "crane's foot," or *pied de grue*. The
-foot was used as a typographical flourish to decorate centuries-old
+foot was used in a typographical flourish to decorate centuries-old
 family-tree diagrams. In the previous example, when we spoke of the
 metaphorical "grasping" of ideas, both sides of the domain transference were
 readily available to us. We understood something about grasping things and
@@ -636,17 +636,17 @@ discarding a document into a trash bin, in our recurring example, users should
 theoretically map their knowledge of paper documents and paper waste baskets
 onto the computational domain. The icon should work similarly to the object it
 purports to simulate. Instead, the *idea* of discarding something substitutes
-for the *material reality* of the corresponding action.  The concept blends
-not with another conceptual domain but with the material affordances of the
-target medium. Such material affordances---our ability to actually discard
-data, for example---stand in an arbitrary relationship to the source domain.
-Simply put, we expect the thing to be deleted, but it is not. This
-incongruence breaks Lakoff's Invariance Principle. Whatever structural changes
-we expect to happen in the source domain do not carry over to the target. The
-metaphor breaks almost as badly as the transference between desks and ravens.
-The appearance of taking out the trash without the corresponding erasure of
-data becomes a dead metaphor even under Lakoff's strict definitions. As was
-the case with the "crane's foot" in the English "pedigree," the user of the
+for the *material reality* of the corresponding action. The concept blends not
+with another conceptual domain but with the material affordances of the target
+medium. Such material affordances---our ability to actually discard data, for
+example---stand in an arbitrary relationship to the source domain.  Simply
+put, we expect the thing to be deleted, but it is not. This incongruence
+breaks Lakoff's Invariance Principle. Whatever structural changes we expect to
+happen in the source domain do not carry over to the target. The metaphor
+breaks almost as badly as the transference between desks and ravens.  The
+appearance of taking out the trash without the corresponding erasure of data
+becomes a dead metaphor even under Lakoff's strict definitions. As was the
+case with the "crane's foot" in the English "pedigree," the user of the
 simulated document dustbin is missing one part of the metaphor equation.
 Where in the case of "pedigree" English speakers fail to grasp the source or
 the tenor of the metaphoric substitution, the case of the virtual dustbin is
@@ -1112,3 +1112,7 @@ concerns the relation between message and its medium or channel. At first
 glance, it concerns only this relation, but upon closer examination, the first
 alteration irradiates in every direction, affecting in decisive manner all the
 factors and functions" [@ricur_interpretation_1976, 25].
+
+/pagebreak
+
+
