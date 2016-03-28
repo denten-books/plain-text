@@ -18,32 +18,33 @@ projection. To place text on the screen is to bring it closer to the moving
 image. What happens to literature that takes place on cinema screens?
 
 In this chapter I would like to pose the question of the digital, a descriptor
-everywhere now, yet so poorly felt and understood. One intuits it has
-something to do with numbers or fingers, but something more is always at stake
-in the distinction between digital and analog categories. That something---a
-remainder, a trace---will come into focus here, through a series of case
-studies that will give us an opportunity to test our theoretical institutions
-against the material realities of digital representation. I am interested, as
-always, in advancing a kind of a materialist, computational poetics, which
-foregrounds a thick description of the device from which theoretical insight
-can emanate. Following the methodological principle of entanglement between
-theory and practice, the chapter engages with the elemental particulates of
-two primal conduits: electric ether and liquid crystal, the media behind the
-telegraph and the liquid crystal display (LCD). Further, I am concerned with a
-phenomenological description of human perception. Our goal is to disturb the
-comfort and the congruity between the organ and the device. The two mold and
-reshape each other. They enter into a dialectic that must be disturbed for
-understanding to take place. The nature of "digital" experience, as I will
-argue, initially appears to be an intrinsic property of the medium. Under
-closer examination, it rather turns out to be a political construct that lays
-claims on the body, structuring the physical affordances of communication. The
-change of the *medium* from paper to pixel entails a series of corresponding
-changes in the *mode* of perception. The projection "attunes" the viewer to
-the message. By attunement I mean something analogous to what Marcel Mauss
-called the "techniques of the body" [@mauss_techniques_2006, 78], the way in
-which we sit for example: the position of the hands, the head, or the movement
-of the eyes. The mode structures apprehension. It answers the how of
-perception.
+everywhere now yet so poorly felt and understood. One intuits it has something
+to do with numbers or fingers, but something more is always at stake in the
+distinction between digital and analog categories. That something---a
+remainder, a trace---comes into focus here, through a series of case studies
+that give us an opportunity to test our theoretical intuitions against the
+material realities of digital representation. I advance, as always, a
+materialist, computational poetics, which foregrounds a thick description of
+the device from which theoretical insight can emanate. Following the
+methodological principle of entanglement between theory and practice, the
+chapter engages with the elemental particulates of two primal conduits:
+electric ether and liquid crystal, the media behind the telegraph and the
+liquid crystal display (LCD).
+
+Further, I am concerned with a phenomenological description of human
+perception. The goal is to disturb the comfort and the congruity between the
+organ and the device. The two mold and reshape each other. They enter into a
+dialectic that must be disturbed for understanding to take place. The nature
+of "digital" experience, as I argue, initially appears to be an intrinsic
+property of the medium. Under closer examination, it rather turns out to be a
+political construct that lays claims on the body, structuring the physical
+affordances of communication. The change of the *medium* from paper to pixel
+entails a series of corresponding changes in the *mode* of perception. The
+projection "attunes" the viewer to the message. By attunement I mean something
+analogous to what Marcel Mauss calls the "techniques of the body"
+[@mauss_techniques_2006, 78], the way in which we sit for example: the
+position of the hands, the head, or the movement of the eyes. The mode
+structures apprehension. It answers the how of perception.
 
 It would be a mistake to conflate the medium with the message, in this
 context. At stake in the digital--analog divide is rather the reader's ability
