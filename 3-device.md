@@ -107,7 +107,7 @@ similarly decouples readers from writers. The book persists to mean in the
 absence of the author. Once decoupled, seemingly autonomous agents---books,
 folders, documents---clutter the social sphere, continuing to structure human
 experience in the absence of the originating accord. Knowledge, in Plato's
-terms, begins to be replaced with the simulation or imitation [ὁμοίωμαi] of
+terms, begins to be replaced with the simulation or imitation [*omoiwmata*] of
 knowledge [@plato_plato:_1999, 250a-b]. The above might appear a curious way
 of putting things, but not unusual in the larger context of post-Kantian
 humanism at the turn of the twentieth century. In Moreno's words we hear more
@@ -169,8 +169,7 @@ for Viktor Shklovsky, the Russian formalist critic who coined the phrase at
 the turn of the century, meant making explicit the implied mechanisms of
 literary trope, particularly in cases where such tropes turn "stale,"
 "automatic," and "naturalized," that is, bereft of their original poetic and
-evocative power [@shklovsky_voskreshenie_1914; @shklovksy_poetika_1919;
-@shklovksy_art_2012].[^ln2-shklov]
+evocative power.[^ln2-shklov]
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used the formal technique of "laying bare the device" often and with
@@ -321,8 +320,9 @@ them" that have proven themselves to be most effective through continuous use
 [@spencer_philosophy_1892].
 
 Shklovsky agreed with Spencer on the dynamics of everyday language, but not of
-poetry. The poet "arranges and processes" habituated material with the view of
-"resurrecting" the force of the word lost to everyday habituation
+poetry. Poetry's imperative was not to facilitate, but to disrupt.  Poets
+"arranged and processed" habituated material with the view of "resurrecting"
+the force of the word lost to everyday habituation
 [@shklovsky_voskreshenie_1914]. Estrangement, or the de-programming of
 received trope, therefore constituted for Shklovsky the primary technique of
 aesthetic discourse. Poetic estrangement counterbalances the work of prosaic
@@ -333,14 +333,14 @@ attention [*vospriiatie*]. If language is a labor-saving device, poetry is
 labor-intensive. Any innovation in the linguistic sphere is by these means
 bound to follow the cycle of habituation and renewal, according to the
 formalists. With time, a literary device capable of arresting attention itself
-becomes normalized and in need of rejuvenation. Consequently, the evolution of
-aesthetic periods follows a course of arbitrary differentiation, in what Jean
-Moréas (a symbolist poet and art critic important for the history of
+becomes normalized and in need of rejuvenation.  Consequently, the evolution
+of aesthetic periods follows a course of arbitrary differentiation, in what
+Jean Moréas (a symbolist poet and art critic important for the history of
 formalism) called a "cyclical evolution" [*évolution cyclique*], by which the
 dominant device in one period, becomes a cliché in the next. Art depletes
 itself, "from copy to copy, from imitation to imitation." What seems fresh
 today "dries up and shrivels," and what seemed new and spontaneous becomes a
-hackneyed commonplace [@moreas_symbolisme_1886]. Technique in that sense was
+hackneyed commonplace [@moreas_symbolisme_1886].  Technique in that sense was
 seen by the formalists as a type of information processing at the
 meta-linguistic, social level. The mechanics of "arrangement and the
 rearrangement of figure" continually produce new meaning within habituated
@@ -424,9 +424,9 @@ that does note quite refer to objects. When Lubbock uses words like "form,"
 "book," "shape," and "design" or when he refers to "grasping," "holding," and
 "keeping the book motionless," he refers to these concepts metaphorically as
 in holding, grasping, and keeping the thing before the mind's eye. The book
-continually escapes the reader's mental not physical grasp. Nor do his books,
-forms, shapes, and designs refer to the outward, material aspects of the
-literary artifact. These are again mental constructions, not physical. Our
+continually escapes the reader's mental, not physical, grasp. Nor do his
+books, forms, shapes, and designs refer to the outward, material aspects of
+the literary artifact. These are again mental constructions, not material. Our
 unfamiliarity with what Lubbock calls the novel's "technical aspects" thereby
 hampers our ability to understand how it comes present itself to the mind in
 its entirety [@lubbock_craft_1921, 272]. We grasp other more plastic art forms
@@ -454,7 +454,7 @@ the whole of it to make the image we seek, the book itself"
 
 Critical reading in this sense entails an account of the transformation, from
 things to ideas: from words and sentences to stories, novels, and verse.
-Echoing Boris Eichenbaum in "How *The Overcoat* is Made", Lubbock evokes the
+Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock evokes the
 reader's attention to the technology or craft of such literary construction.
 He promises to view a "handful of familiar novels [...] with some
 particularity," but without judgement or critique. "How they are made is the
@@ -535,15 +535,15 @@ thought experiment concerning the nature of human understanding and a
 beginning of a new, machine-assisted, philological practice.
 
 The question of "automated" philology echoes through the canon of Western
-philosophical tradition. What does it mean to read and to understand
-something? Is it enough to repeat the words of another, as for example
-Phaedrus does in response to Socrates? Could a student be said to possess
-reason if he was merely parroting thoughts and not really thinking on his own?
-Would we say the same thing of an animal or a machine? The question as posed
-also by Descartes who wrote that it would not be sufficient for the "reasoned
-soul" to be "lodged in the human body like a pilot of a ship, except perhaps
-to move its members," but that intelligence must be "more closely joined and
-united with the body to produce true feelings and appetites"
+philosophic tradition. What does it mean to read and to understand something?
+Is it enough to repeat the words of another, as for example Phaedrus does in
+response to Socrates? Could a student be said to possess reason if he was
+merely parroting thoughts and not really thinking on his own?  Would we say
+the same thing of an animal or a machine? The question as posed also by
+Descartes who wrote that it would not be sufficient for the "reasoned soul" to
+be "lodged in the human body like a pilot of a ship, except perhaps to move
+its members," but that intelligence must be "more closely joined and united
+with the body to produce true feelings and appetites"
 [@descartes_discourse_1996]? Recall also the experiments with combinatorial
 poetics of the 17th century German Jesuit scholar Athanasius Kircher, the
 inventor of *Arca Musurgicae*, a music composition device, by which a composer
@@ -1169,32 +1169,31 @@ were within reach in the 1930s, at the time Turing authored his influential
 paper. In practice, his proposal would require first, an apparatus capable of
 "scanning" and "erasing" a "finite number of symbols." Second, we would need
 what Turing calls "one-dimensional paper," divided into discrete squares "like
-a child's arithmetic book" [@turing_computable_1937, 249].[^ln1-infinite]
-Furthermore, we would need some sort of a mechanism to advance tape through
-the machine, or, alternatively, to propel the scanning mechanism along the
-length of the tape. Having assembled these elements, our creation would look
-roughly like a cross between a telegraph, a film projector, and a
-typewriter.[^ln1-davey]
+a child's arithmetic book."[^ln1-infinite] Furthermore, we would need some
+sort of a mechanism to advance tape through the machine, or, alternatively, to
+propel the scanning mechanism along the length of the tape. Having assembled
+these elements, our creation would look roughly like a cross between a
+telegraph, a film projector, and a typewriter.[^ln1-davey]
 
 Were we to patent the Turing machine in the United States, at the time of its
 invention, the above elements would find prior art in mechanisms such as the
-"Numeral adding or subtracting attachment for type-writing machines"
-[@daugherty_numeral_1894], "Combined Type-writing and Computing Machine"
-[@degener_combined_1911], "Computing Attachment for Typewriters"
-[@wright_computing_1914], "Computing Mechanism" [@wright_computing_1915], and
-"Combined Type-writing and Adding Machine" [@ellis_combined_1914] among
-others. All of these machines contain some combination of a reading and
-writing "head," storage tape, and movement mechanism as specified in Turing's
-paper. A number of inventions at the end of the nineteenth century pertain
-specifically to "circuit-controlling devices controlled by a traveling
-perforated strip or tape" [@cuttriss_telegraphy_1893]. Prior to perforated
-tape, the transmission of messages by telegraph required the presence of a
-skilled operator, able to transcribe messages from text to Morse code, and
-into the physical motion of a lever-operated circuit. In the operation of
-early telegraphy, the human operator acted as a mute interpreter between text
-and telegraph. The transcription of text into signal, and back onto paper,
-required the real-time presence of human encoders and decoders.  The
-perforated tape decoupled the human from the machine.
+"Numeral adding or subtracting attachment for type-writing machines,"
+"Combined Type-writing and Computing Machine," "Computing Attachment for
+Typewriters,"  "Computing Mechanism," and "Combined Type-writing and Adding
+Machine" among others [@daugherty_numeral_1894; @degener_combined_1911;
+@wright_computing_1914; @wright_computing_1915; @ellis_combined_1914]. All of
+these machines contain some combination of a reading and writing "head,"
+storage tape, and movement mechanism as specified in Turing's paper. A number
+of inventions at the end of the nineteenth century pertain specifically to
+"circuit-controlling devices controlled by a traveling perforated strip or
+tape" [@cuttriss_telegraphy_1893]. Prior to perforated tape, the transmission
+of messages by telegraph required the presence of a skilled operator, able to
+transcribe messages from text to Morse code, and into the physical motion of a
+lever-operated circuit. In the operation of early telegraphy, the human
+operator acted as a mute interpreter between text and telegraph. The
+transcription of text into signal, and back onto paper, required the real-time
+presence of human encoders and decoders.  The perforated tape decoupled the
+human from the machine.
 
 In US1187035 (1916) on "Telegraphy", Albert and Ralph Bumstead explain: "the
 object of our invention is to provide a system of telegraphy which does not
@@ -1212,11 +1211,11 @@ signals into mechanical states and thereon into human-legible messages.
 
 A multitude of inventions capitalized on the control capabilities of removable
 storage media by the beginning of the of the twentieth century. These included
-machines for tape-controlled telegraphic transmission
-[@wheatstone_improvement_1874; @murray_tape-controlled_1905;
-@bumstead_telegraphy_1916], tape-controlled printing [@creed_printing_1911],
-printing telegraphs [@hallden_printing-telegraph_1929], and remote broadcast
-programming devices for radio and television content [@vriendt_program_1934;
+machines for tape-controlled telegraphic transmission, tape-controlled
+printing, printing telegraphs, and remote broadcast programming devices for
+radio and television content [@wheatstone_improvement_1874;
+@murray_tape-controlled_1905; @bumstead_telegraphy_1916; @creed_printing_1911;
+@hallden_printing-telegraph_1929; @vriendt_program_1934;
 @brown_automatic_1936; @brown_selective_1936]. With the invention of punch
 cards and perforated tape (also used in textile looms, as early as 1725), a
 message meant for another human became also a physical medium---bumps and
@@ -1361,7 +1360,7 @@ according to the software [@manovich_there_2011, 150-1]. Kittler (who passed
 in 2011) could perhaps object to that line of reasoning in maintaining that
 chip architecture still determines, as foundation, all higher levels of
 textuality "floating" above the silicon bedrock. In other words, everything
-Manovich writes is true for all *simulated* media, but not for computation
+Manovich writes is true for all simulated media, but not for computation
 itself. In opening a series of nested software black boxes, the post-silicon
 writer and scholar of software hits the impenetrable casket of chip
 architecture. The hardware giving rise to the simulation is not in itself a
@@ -1376,23 +1375,23 @@ states into arbitrary external representations, inscribed into a medium. Such
 inscriptions persist, through time, beyond their biological origin. They are
 then conveyed remotely and through ingestion, commonly called "reading," an
 action capable of transforming the inscription back into a mental state. The
-thing becomes a thought, and the other way around. The intellectual history of
+thing becomes a thought and the other way around. The intellectual history of
 the Turing machine leads us to a series of thought experiments about the
-nature of such transformations. The question of technique continues to haunt
-modern poetics. In the process of reading the book escapes the interpreter's
-grasp as a thing, presenting itself only as an idea. In asking "How is it
-made?" we arrest the advance of symbolism, in an attempt to find the thing
-behind the process of signification. This process ultimately ends at the
-medium, which today has the added property of being simulated. The paper page
-contains no internal states to speak of.  Signification therefore proceeds
-from the surface inscription towards the reader. Reading, as Moreno reminds
-us, is already an invasive procedure. Absent human contact, we take on the
-mental states of others through vehicle that convey a remote kind of agency,
-displaced in time and space. It shall be held in view all the more because the
-electronic book, unlike paper, does contain internal states of its own which
-further interject in the process of signification, transmission, and
+nature of such transformations. The question of technique returns to haunt
+contemporary poetics. In the process of reading the book escapes the
+interpreter's grasp as a thing, presenting itself only as an idea. In asking
+"How is it made?" we arrest the advance of symbolism, in an attempt to find
+the thing behind the process of signification. This process ultimately ends at
+the medium, which today has the added property of being simulated. The paper
+page contains no internal states to speak of.  Signification therefore
+proceeds from the surface inscription towards the reader. Reading, as Moreno
+reminds us, is already an invasive procedure. Absent human contact, we take on
+the mental states of others through vehicle that convey a remote kind of
+agency, displaced in time and space. It shall be held in view all the more
+because the electronic book, unlike paper, does contain internal states of its
+own which further interject in the process of signification, transmission, and
 translation. How is it made, becomes the question not only for poetics but
-also for the politics of reading.
+also for the tactics of reading.
 
 The question of technique ultimately seeks to expose the rules of symbolic
 transference between at least three discrete systems: one inorganic, the book,
@@ -1449,7 +1448,7 @@ tools with names like SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic
 "select" people for "target strikes" by unmanned areal vehicles. Willingly, or
 not, we are engaged in the political struggle for the control and the
 deployment of these codified resources. The heart and the sky are sites on
-which the right to inscription are increasingly contested. They require a
+where the tactics of inscription are increasingly contested. They require a
 capacity to meet the machine and a poetics capable of new emendations.
 
 [^ln1-google]: "Google's mission is to organize the world's information and
@@ -1485,7 +1484,7 @@ antecedents such as the development of radio, motion pictures, and photography"
 all purely intellectual fields" [@turing_computing_1950, 460].
 
 [^ln1-infinite]: A true universal Turing machine would require a tape that is
-infinitely long.
+infinitely long. See @turing_computable_1937, 249.
 
 [^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
 University's Collection of Historical Scientific Instruments in 2012. He
@@ -1536,7 +1535,8 @@ Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
 [^ln2-shklov]: I rely on the Russian originals throughout, but will cite the
-English translations where possible as well.
+English translations where possible as well. See @shklovsky_voskreshenie_1914;
+@shklovksy_poetika_1919; @shklovksy_art_2012.
 
 [^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If
 there were such machines having the organs and the shape of a monkey or some

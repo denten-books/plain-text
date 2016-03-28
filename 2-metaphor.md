@@ -74,16 +74,15 @@ mastering poetics at the quantum level: the ability to manipulate charges, to
 draw lattices, to manipulate arrays, and to affect solid states of being. It
 is tempting to view media ecosystems that host our digital lives as a kind of
 a natural element like water or air. But we should not forget also that
-computational ecologies are *constructed* environments. They are not governed
-by the laws of physics, in the same sense that clouds or oceans are. They form
-a part of a massive *tactical* effort to bring private spaces of
-inhabitance---think the *Home* folder on your computer, your family photo
-album, your digital bookmarks---under the purview of governance.  The
-simulation encodes political structures that should not be naturalized, lest
-we succumb to the complacency of technological determinism. Our goal in this
-chapter is to arrest the advance of the metaphor. We must begin to separate
-resemblances from their designation: the apparent shape from a command in the
-imperative.
+computational ecologies are constructed environments. They are not governed by
+the laws of physics, in the same sense that clouds or oceans are. They form a
+part of a massive tactical effort to bring private spaces of
+inhabitance---think the Home folder on your computer, your family photo album,
+your digital bookmarks---under the purview of governance. The simulation
+encodes political structures that should not be naturalized, lest we succumb
+to the complacency of technological determinism. Our goal in this chapter is
+to arrest the advance of the metaphor. We must begin to separate resemblances
+from their designations: the apparent shape from a command in the imperative.
 
 What does it mean to turn a page in a medium that sustains neither turning nor
 pages? In this chapter, we will use the tools of cognitive metaphor theory to
@@ -99,8 +98,8 @@ that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
 from literal to metaphoric, immersive computing brings us to the speculative
 possibility of seemingly unmediated coupling between human a machine---a
 possibility that I would like to acknowledge and finally reject outright in
-the conclusion of the chapter. Despite the appeal to candor, as I will argue,
-the dream of direct immediacy can only conceal the nature of mediation.
+the conclusion of the chapter. Despite the appeal to candor, I argue that the
+dream of direct immediacy can only conceal the nature of mediation.
 
 ## Verisimilitude
 
@@ -908,7 +907,7 @@ that is iconic, expressions, "behave in such a way that a user can assume that
 they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 110].
 
-![Direct manipulation of simulated objects. [@minsky_manipulating_1984,
+![Direct manipulation of simulated objects, 1984. [@minsky_manipulating_1984,
 199]](images/minsky.png)
 
 <!--
@@ -1008,9 +1007,9 @@ The trajectory from direct *physical* manipulation to direct *virtual*
 manipulation leads to the totalizing loss of resemblances and designations
 that Baudrillard warned us about. At its logical extreme, the simulacrum
 supplants the thing being simulated. It appears as hyper-reality, the
-experience of direct and unmediated interaction without awareness of the
+experience of unmediated interaction without awareness or sense of the
 underlying referent. All "objects of interest" within such a modeled world are
-fabricated objects. They are thus limited to the external artificial
+fabricated objects. They are thus limited to the external, artificial
 constraints imposed by their makers. Such manufactured experiences present us,
 the "users," with compelling, possibly cathartic, metaphors. The metaphor
 extends far beyond entertainment, subsuming all spheres of social activity
@@ -1044,8 +1043,8 @@ best-selling titles advancing this argument [@krug_dont_2014;
 @eyal_hooked:_2014; @krishna_best_2015]. Military applications aside, we must
 prepare for a future in affective, mystical arts, the ultimate loss of
 references and resemblances, where works of art are to be experienced
-emotively past the senses: literature without representation, painting without
-media, message without sign.
+emotively past the senses: literature without language or representation,
+painting beyond media, asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human--computer interaction in all of its

@@ -17,12 +17,11 @@ human brain makes connections between topics. Heat maps are drawn to reflect
 the dynamics of boredom, fatigue, focus, attention, and desire. Supervised
 training algorithms use our collective philological output---tagging and
 commenting---to learn how to sort information autonomously and to curate
-content that better suits our predilections. Deep neural networks artificially
-mimic the brain to build models of human behavior. These models are
-notoriously difficult to interpret, as they are not meant for human
-comprehension [@andrews_survey_1995; @karim_x-trepan:_2015]. A vast archive of
-literature by machines and for machines thus supports the corpus of
-human-readable texts.
+content that better suits our predilections. Deep neural networks mimic the
+brain to build models of human behavior. These models are notoriously
+difficult to interpret, as they are not meant for human comprehension
+[@andrews_survey_1995; @karim_x-trepan:_2015]. A vast archive of literature by
+machines and for machines thus supports the corpus of human-compatible texts.
 
 Despite its formative impact on the practices of comprehension, code---the
 programmatic sign---does not often figure in our theories of meaning making.
@@ -78,12 +77,13 @@ certain amount of words and sentences. We may liken paragraphs, words, and
 sentences to nesting dolls: data structures that contain within them further,
 smaller arrangements of information. A word fits inside of a sentence, the
 sentence within a paragraph, the paragraph within a chapter, the chapter
-within a book, the book within an archive, and so on. One could say, what of
-such arrangements?  Who cares about paragraphs? It is merely one type of a
-container among many. It has only the instrumental function to help get the
-point across. The meat of interpretation lies within. Words can also be
-packaged otherwise. The outer container is disposable and therefore
-insignificant.
+within a book, the book within an archive, and so on.
+
+One could say, what of such arrangements?  Who cares about paragraphs? It is
+merely one type of a container among many. It has only the instrumental
+function to help get the point across. The meat of interpretation lies within.
+Words can also be packaged otherwise. The outer container is disposable and
+therefore insignificant.
 
 Formats could only seem insignificant in the past when they were few, simple,
 and relatively consistent. The book or the broadsheet newspaper are known
@@ -133,11 +133,11 @@ not on the level of representation or ideology, but on the level of the
 physical, the phatic, and the imperative, where formatting and control codes
 reside.
 
-In this chapter I would like to move us towards the systematic study of
-format. The familiar paper paragraph structure already presents several
-interesting problems for analysis. In claiming typographical space on a page
-the paragraph suggests corresponding mental units. A unit of text becomes also
-a unit of thought. But no such structures as paragraphs exist in the mind.
+In this chapter I would like to move us towards a systematic study of format.
+The familiar paper paragraph structure already presents several interesting
+problems for analysis. In claiming typographical space on a page the paragraph
+suggests corresponding mental units. A unit of text becomes also a unit of
+thought. But no such structures as paragraphs exist in the mind.
 Physiologically, the brain arranges information hexagonally, along the
 entorhinal grid.[^ln3-hex]
 
@@ -1428,8 +1428,9 @@ structure of interpretation. The seemingly innocuous control and formatting
 layer contains the essence of machine control. Long a marginal concept in
 literary theory, formatting is therefore central to the contemporary practice
 of computational poetics. Far from mere inconsequential embellishment, formats
-govern the interface between meaning and matter, thought and page. It has the
-capability to embellish, to obscure, to censor, to govern, and to emend.
+govern the interface between meaning and matter, thought and page. They have
+the capability to embellish, obscure, censor, sanction, discipline, and
+control.
 
 <!-- notes -->
 <!-- notes -->
