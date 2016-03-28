@@ -49,10 +49,10 @@ into something resembling a book on the screen. I tap again to begin reading.
 The screen dims to match room ambiance as words fill the screen. One of the
 passages on the first page appears underlined: a number of other readers in my
 social circle must have found the passage notable. My finger slides along the
-glass surface to turn the "page." The device emits a muffled rustle to
-reinforce the pretense of manipulating paper. The image curls ever so slightly
-in a way that resembles a printed page as another "page" slides into view. My
-tiny library metaphor contains hundreds of such page metaphors.
+glass surface to turn a "page." The device emits a muffled rustle to reinforce
+the pretense of manipulating paper. The image curls ever so slightly in a way
+that resembles the printed page as another "page" slides into view. My tiny
+library metaphor contains hundreds of such page metaphors.
 
 Despite appearances, the electronic metaphor-making device next to my computer
 has more in common with the smoke detector than it does with several paper
@@ -91,10 +91,10 @@ similar note: in his vision, literature has finally been defeated by
 technologies of military-grade encryption, secrecy, and obfuscation
 [@kittler_gramophone_1999, 263]. Attempts to silence print through book
 burning or censorship are viscerally obvious and met with nearly universal
-disapproval. Unlike censorship or the burning of books, computational
-governance proceeds by clandestine means. The simulation-producing nature of
+disapproval. Unlike censorship or the burning of books, the dominion of
+computation proceeds by clandestine means. The simulation-producing nature of
 computed text preserves the outward appearance of printed text, while
-concealing the specifics of governance and control. I mean governance and
+concealing the specifics of discipline and control. I mean discipline and
 control in the sense of shaping affordances: a mode of physical regulation
 that structures the production, access, and the distribution of knowledge. The
 challenge of *Plain Text* will be in the description of such emerging but
@@ -117,16 +117,17 @@ publishing houses that heralded the advance of formalism; from studies on
 animal communication behavior, to Unix manuals, to textbooks on semiotics, and
 to foundational texts in the philosophy of aesthetics and literary theory.
 
-I deploy the archive to argue that theories of interpretation evolved under
-the conditions tied to static print media. By contrast, electronic text
+I deploy the archive to argue that extant theories of interpretation evolved
+under the conditions tied to static print media. By contrast, electronic text
 changes dynamically to suit its reader, political context, and geography.
 Consequently, I argue for the development of what I term *computational
-poetics*: a strategy of interpretation capable of reaching past the surface
+poetics*: a strategy of interpretation capable of reaching past surface
 content to reveal the software platforms and the hardware infrastructures that
-contribute to the production of meaning. Drawing on a range of materials at
+contribute to the construction of meaning. Drawing on a range of materials at
 the intersection of literary thought and the history of modern computing,
 *Plain Text* examines a number of key literary-theoretical constructs,
-recasting the electronic book as a computational object.
+grounding contemporary practices of interpretation within the material
+contexts of digital production.
 
 I appeal to the idea of "plain text" in the title of this book to signal an
 affinity with a particular mode of computational meaning-making. Plain text
@@ -150,19 +151,20 @@ to the making and the unmaking of literary artifacts. Besides visible content,
 all contemporary documents carry with them a layer of hidden information.
 Originally used for typesetting, that layer affects more than innocuous
 document attributes like "font size" or "line spacing." Increasingly, devices
-that mediate literary activity encode forms of governance. These tacit
-structures police intellectual property laws; they censor and carry out
-surveillance operations. For example, the Digital Millennium Copyright act,
-passed in the United States in 1996, goes beyond written injunction to require
-in some cases the management of digital rights (DRM) at the level of hardware.
-An electronic book governed by DRM may subsequently prevent the reader from
-copying or sharing stored content, even for the purposes of academic
-study.[^ln-dmca] Building on the recent work of scholars like Wendy Chun,
-Tung-Hui Hu, Caroline Levine, and Lisa Gitelman I make the case for an
-empowered *computational poetics*, a method of inquiry that aims to bring
-implicit control structures once again under the purview of interpretation and
-critique [@chun_programmed_2011; @gitelman_paper_2014; @hu_prehistory_2015;
-@levine_forms:_2015].
+that mediate literary activity also embody structures of governance and
+control. These tacitly encoded agents police intellectual property laws; they
+censor and carry out surveillance operations. For example, the Digital
+Millennium Copyright act, passed in the United States in 1996, goes beyond
+written injunction to require in some cases the management of digital rights
+(DRM) at the level of hardware. An electronic book governed by DRM may
+subsequently prevent the reader from copying or sharing stored content, even
+for the purposes of academic study.[^ln-dmca] In some situations, it may
+report the reader's activity to the authorities. Building on the recent work
+of scholars like Wendy Chun, Tung-Hui Hu, Finn Brunton, Helen Nissenbaum, and
+Lisa Gitelman I make the case for an empowered *computational poetics*, a
+method of inquiry that aims to bring tacit control structures once again under
+the purview of interpretation and critique [@chun_programmed_2011;
+@gitelman_paper_2014; @hu_prehistory_2015; @brunton_obfuscation:_2015].
 
 My notion of poetics builds also on the long history of literary theory,
 combined here with practices borrowed from software engineering and computer
@@ -179,8 +181,8 @@ productive tension between estrangement and habituation, which although
 stemming from a personal experience of geographic displacement, leads to a
 dialectics, that is, a method of making sense out of conflicting and often
 contradictory logics of the virtual. In the section that follows, I outline
-the some of the methodological considerations that motivate my approach to the
-study of media in general and text in particular. Finally, I would like to
+some of the methodological considerations that motivate my approach to the
+study of media in general and of text in particular. Finally, I would like to
 draw attention to the plan of the present work.
 
 ## Theory
@@ -198,12 +200,12 @@ research in motion down a long and winding path. A childhood friend who loves
 books asked about the difference between text in print and text on the screen.
 In my struggle to answer, I realized that some of my deepest assumptions about
 literature relied on the centuries-long stability of print media. Despite my
-professional experience as a programmer, I could not readily explain the
-mechanisms by which keystrokes turned into pixels, pixels into letters, and
-letters into words. I could recount technical detail on some level, but my
-knowledge was also riddled with unexamined gaps. It did not amount to a
-coherent story. I was, despite my best efforts, surrounded by magical lanterns
-that cast shadows of code and poetry.
+professional experience as a programmer and academic training in literary
+studies, I could not readily explain the mechanisms by which keystrokes turned
+into pixels, pixels into letters, and letters into words. I could recount
+technical detail on some level, but my knowledge was also riddled with
+unexamined gaps. It did not amount to a coherent story. I was, despite my best
+efforts, surrounded by magical lanterns that cast shadows of code and poetry.
 
 Initially, my two selves---the scholar and the engineer---spoke different
 languages. Reconciling them was and continues to be a disconcerting process by
@@ -213,16 +215,16 @@ than I comfortably expected. Nothing could be assumed from the start. Field
 specific language, down to its foundations, had to be examined for hidden
 assumptions that prevented dialog. With time, I saw that code and poetry have
 much to do with one another. Writing this book has taught me to embrace the
-remaining incongruence.
+incongruence.
 
-Two theorists of displacement have shaped my general approach to the study of
-simulated text: the literary formalist Viktor Shklovsky and the media
-philosopher Vilém Flusser. Flusser in particular considered the condition of
-unease that comes with emigration, both physical and mental, to be a type of
-information processing. His work was instrumental in making sense of my own
-displacements, first as a one-time refugee fleeing the dissolution of the
-former Soviet Union, then a former transplant into Silicon Valley from a
-strict literary education, and now a lapsed engineer among humanists. These
+Two theorists of text, media, and displacement have shaped my general approach
+to computational poetics: the literary formalist Viktor Shklovsky and the
+media philosopher Vilém Flusser. Flusser in particular considered the
+condition of unease that comes with emigration, both physical and mental, to
+be a type of information processing. His work was instrumental in making sense
+of my own displacements, first as a one-time refugee fleeing the dissolution
+of the former Soviet Union, then a former transplant into Silicon Valley from
+a strict literary education, and now a lapsed engineer among humanists. These
 vantage points offer me a singular view onto the material conditions of
 contemporary intellectual life.
 
@@ -255,48 +257,48 @@ light-hearted illustration one could write: "to scythe a verdant field of
 literary study." The verb (to scythe) and the adjective (verdant) create an
 unexpected transference of new qualities not present in the original image
 (intellectual field). These new qualities "overdetermine" the metaphor,
-exposing its conceit. The reader can discover "intellectual fields" for what
-they are: habituated metaphors, neither natural nor self-apparent. The
-metaphor is made strange again through purposeful defamiliarization. To take
-the technique to its logical conclusion, a writer could depict several
-fictional characters in the act of scything a field of grass while discussing
-the relative merits of structuralism: a discussion about the field on a field.
-Such literary artifice would make actual the implied connections between a
-field of grass and a field of ideas. The writer now shows what was merely told
-before. The technique of defamiliarization finally renews the figure:
-discarding hardened clichés while suggesting novel linkages between
-constituent concepts: intellectual chaff, leaves of mental grass, the combines
-of thought.
+exposing its conceit. The reader discovers "intellectual fields" for what they
+are: habituated metaphors, neither natural nor self-apparent. The metaphor is
+made strange again through purposeful defamiliarization. To take the technique
+to its logical conclusion, a writer could depict several fictional characters
+in the act of scything a field of grass while discussing the relative merits
+of structuralism: a discussion about the field on a field.  Such literary
+artifice would make actual the implied connections between a field of grass
+and a field of ideas. The writer now shows what was merely told before. The
+technique of defamiliarization finally renews the figure: discarding hardened
+clichés while suggesting novel linkages between constituent concepts:
+intellectual chaff, leaves of mental grass, the combines of thought.
 
-When pursuing estrangement the author "lays bare" and "makes obvious" the
-metaphor by drawing attention to its inner dynamics. Metaphors, as Lakoff and
-Johnson famously argued, do more than decorate---they structure everyday human
-activity. The metaphor shapes one system of conceptual relationships in terms
-of another. For example, the military image of "fortification defence" implies
-a conceptual system structuring the "defence of an argument." When defending
-the argument, a speaker therefore may act in a way that resembles combat. A
-different metaphor could suggest a less combative mode of engagement between
-interlocutors [@lakoff_metaphors_1980, 3-14].
+When pursuing scholarly estrangement the author "lays bare" and "makes
+obvious" the metaphor by drawing attention to its inner dynamics. Metaphors,
+as Lakoff and Johnson famously argued, do more than decorate---they structure
+everyday human activity. The metaphor shapes one system of conceptual
+relationships in terms of another. For example, the military image of
+"fortification defense" implies a conceptual system structuring the "defense
+of an argument." When actually defending the argument, a speaker guided by the
+metaphor acts in a way that resembles combat. A different metaphor could
+suggest a less combative mode of engagement between interlocutors
+[@lakoff_metaphors_1980, 3-14].
 
 The Russian formalists of the early twentieth century understood estrangement
 as a matter of everyday practice, beyond linguistic analysis. Shklovsky and
 his fellow travellers were concerned with the automatization of human
 experience, a process by which metaphors lose their evocative power through
 repeated use. Such metaphors become mere machines that convey meaning, and,
-when habituated, disappear from view. According to the Kantian view, in vogue
-in Russia at the time, a reasoned being should proceed through life with the
-assumption of personal free will, structuring one's own experiences according
-to the principles of self-directed action. The habituated metaphor instead
-guides action from without and furtively. It is given rather than understood.
-Estrangement emerges therefore as a model of human liberation. It frees
-thought from the tyranny of automatism [@shklovksy_sborniki_1917,
-@shklovsky_hod_1923, @boym_estrangement_1996, @holquist_minding_2005]. By
-laying bare the mechanisms of the implicit metaphor, we are thus able to
-recover agency lost to the blind mechanization of thought. Through
-estrangement readers discover the principles governing their actions: free to
-accept some parts of the conceptual transference (the intellectual field *is*
-"verdant"!) and to reject others (but let us not "use combines" to "harvest"
-it).
+when habituated, disappear from view. According to Kantian views on the free
+will, in vogue in Russia at the time, a reasoned being should proceed through
+life with the assumption of personal autonomy, structuring one's own
+experiences according to the principles of self-directed action. The
+habituated metaphor instead guides action from without and furtively. It is
+given rather than understood.  Estrangement emerges therefore as a model of
+human liberation. It frees thought from the tyranny of automatism
+[@shklovksy_sborniki_1917, @shklovsky_hod_1923, @boym_estrangement_1996,
+@holquist_minding_2005]. By laying bare the mechanisms of the implicit
+metaphor, we are thus able to recover agency lost to the blind mechanization
+of thought. Through defamiliarization readers discover the principles behind
+their actions: free to accept some parts of the conceptual transference (the
+intellectual field *is* "verdant"!) and to reject others (but let us not "use
+combines" to "harvest" it).
 
 Our challenge today is to uproot ourselves from the comfort that rapidly
 descends on the dwellings of our intellectual life. Dulling the senses,
@@ -366,7 +368,8 @@ and security constitute the same ill-conceived bargain that leads to critical
 disempowerment. But where it is difficult to imagine or to enact strategies of
 digital disobedience on a universal scale, we can begin to address them
 through numerous minute transactions that in aggregate brace everyday literary
-exchange.
+exchange. This we can do now. Computational poetics begins with the machines
+in the immediate proximity, those closest to the heart, thought, and touch.
 
 To pick up an electronic book and to take it apart may be against the law in
 some jurisdictions [@fry_circumventing_2009]. Given the extent to which
@@ -413,23 +416,22 @@ real world can guide interactions with virtual trashcans.
 The rapid uptake of "what you see is what you get" interfaces pioneered by
 Apple proved the effectiveness of metaphor-centric design. Through metaphor,
 users are able to extend models of action from one domain into another.
-Empirical studies have later shown the effectiveness of metaphor in
-computation [@blackwell_does_1999; @sallam_use_2009]. Flusser would say that
-such figurative habituation makes experience more "smooth." The user avoids
-"bumping into the sharp corners" of new and complicated computational
-environments. The metaphor conserves mental energy. But, once internalized, it
-also no longer attracts attention. The seminal work on figurative speech
-undertaken by the Russian formalists at the turn of the twentieth century
-reminds us that effective metaphoric shortcuts to learning have their
-cognitive downside. Habituated experience passes into the unconscious
-[@shklovksy_poetika_1919, 104]. The thing "dries up" in Shklovsky's words,
-first in perception and then in practice [@shklovksy_poetika_1919, 38 and
-104]. The figure becomes so familiar that we cease thinking about it---an
-early insight that was also confirmed experimentally almost a century
-later.[^ln-cog]
+Empirical studies have later shown the effectiveness of metaphor in the design
+of human-computer interfaces [@blackwell_does_1999; @sallam_use_2009]. Flusser
+would say that such figurative habituation makes experience more "smooth." The
+user avoids "bumping into the sharp corners" of new and complicated virtual
+environments. The metaphor conserves mental energy. Once internalized, it also
+no longer attracts attention. The seminal work on figurative speech undertaken
+by the Russian formalists at the turn of the twentieth century reminds us that
+effective metaphoric shortcuts to learning have their cognitive downside.
+Habituated experience passes into the unconscious [@shklovksy_poetika_1919,
+104]. The thing "dries up" in Shklovsky's words, first in perception and then
+in practice [@shklovksy_poetika_1919, 38 and 104]. The figure becomes so
+familiar that we cease thinking about it---an early insight that was also
+confirmed experimentally almost a century later.[^ln-cog]
 
-The formalists understood habituated metaphors to diminish the vitality of
-experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
+The formalists understood such habituated metaphors to diminish the vitality
+of experience. Shklovsky quotes from the diaries of Lev Tolstoy, who, while
 dusting his room, could not remember if he had already dusted his sofa.
 Tolstoy wrote:
 
@@ -586,17 +588,16 @@ royalties.[^ln-dead] The weakening of the authorship function merely makes
 certain ways of talking about things like "authorial intent" and "fidelity to
 the original" difficult to sustain. The emergence of community based writing
 initiatives like Wikipedia and automated narrative generating machines like
-spam bots further erode ideas of authorial production based on individual
+spam bots further erode ideas of authorship based on individual
 Autopoiesis---the idea of literature writing itself or discourse speaking
 itself---does not displace the idea of the author.[^ln-varela] A discipline of
 close attention to the minute particulars of encoding, transmission, storage,
 and the decoding of text ultimately reclaims a measure of agency. This may
 seem strange at first: to recover the subject in the physical minutiae of the
-textual-technological encounter. Yet the point of contact between human,
-text, and device is significant precisely because it is here, in the liminal
-zone of semiotic exchange, that the subject seems to disappear into the
-machine and the machine appears in the guise of an artificially intelligent
-actor.
+textual-technological encounter. Yet the point of contact between human, text,
+and device is significant precisely because it is here, in the liminal zone of
+semiotic exchange, where the subject seems to disappear into the machine and
+the machine appears in the guise of an artificially intelligent actor.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper constitutes the document of record, which, once
@@ -605,13 +606,13 @@ criticism and forensic reading make it possible to reconstruct if not
 "authorial intent," then at least a trace of the author's hand. In some
 contexts---think manuscripts and folios---we may even ascribe properties like
 "fidelity" to "original" works of art. When media are immutable, one imagines
-a sort of a causal custody chain between works and their creators, which at
+a sort of a causal chain of custody between works and their creators, which at
 some point must have occupied the same contiguous time and space. The printing
 press introduced a range of structures that mediate between readers and
 authors. Distance, time, and mediation subsequently weaken notions of
-authorial fidelity. At the least, we understand that such intermediary
-structures as editors, publishing houses, and printing presses inject an
-element of noise into the channel of communication.
+authorial fidelity. At the least, we understand that such intermediaries as
+editors, publishing houses, and printing presses inject an element of noise
+into the channel of communication.
 
 The transition between the Gutenberg press and "Project Gutenberg," an online
 library containing thousands of texts, has brought forth hitherto unexamined
@@ -627,10 +628,11 @@ appear in the word processor. At best, such composite tropes attain a measure
 of similarity to the physical realities of typing, editing, and archiving
 paper. Simulated erasure for example, of the kind that happens when the writer
 presses the delete key, does not necessarily entail the erasure of content on
-the disk. The erased word could persist and even multiply across disks and
-devices. In the worst case, the connection between keyboards and screens
-suffers from intractable "man-in-the-middle" attacks, by which third parties
-maliciously alter the content of intended communication [@needham_using_1978].
+the disk. The erased word could persist and even multiply across other storage
+drives and devices. In the worst case, the connection between keyboards and
+screens suffers from intractable "man-in-the-middle" attacks, by which third
+parties maliciously alter the content of intended communication
+[@needham_using_1978].
 
 In this book, I will argue that some of the higher-level political
 afflictions of the contemporary public sphere---mass surveillance and online
@@ -659,22 +661,22 @@ struggle for meaning-making, the opportunity to engage in the act of
 interpretation, thus begins and ends with the material affordances of the
 textual artifact.
 
-In the West, it is easy to forget the blunt effectiveness of physical control.
-Books that are burned or redacted cannot be read at all. Elsewhere, global
-inequities of access to knowledge compel readers to print their own books and
-build their own libraries. Witness the so-called "shadow libraries" of Eastern
-Europe and Central Asia, the street book vendors of India and Pakistan, and
-the gray market presses of Nigeria arising form the country's "book
-famine"[@mahmood_copyright_2005; @okiy_photocopying_2005; @liang_piracy_2009;
-@bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More than mere piracy,
-such *samizdat*-like practices preserve the literary sphere
+It is easy to forget the blunt effectiveness of physical control in the global
+North-west. Books that are burned or redacted cannot be read at all.
+Elsewhere, inequities of access to knowledge compel readers to print their own
+books and build their own libraries. Witness the so-called "shadow libraries"
+of Eastern Europe and Central Asia, the street book vendors of India and
+Pakistan, and the gray market presses of Nigeria arising form the country's
+"book famine"[@mahmood_copyright_2005; @okiy_photocopying_2005;
+@liang_piracy_2009; @bodo_short_2014; @nkiko_book_2014; @_elsevier_2015]. More
+than mere piracy, such *samizdat*-like practices preserve the literary sphere
 [@tenen_book_2014]. Informal book exchange networks create reading publics
 that own the means of textual production and dissemination. Under duress,
 readers build homemade knowledge infrastructures: they duplicate, distribute,
 catalog, and archive. By contrast, in wealthier economies, such
 infrastructures are commodified.  Consequently, the material contexts of
-meaning-making are received passively, taken for granted, and disappear from
-view. For many readers, technologies that support reading, writing, and
+meaning-making---received passively, taken for granted---disappear from view.
+For many readers, technologies that support reading, writing, and
 interpretation pass from tools to fetish. No longer comprehensible by the way
 of the pen or the printing press we imbue them with magical powers. Thus we
 exist in the state of profound alienation from the material conditions closet
@@ -692,38 +694,39 @@ higher-order cultural institutions: from the architecture of social media
 platforms to the formation of massive shared archives. The "cultural
 techniques" that guide our use of such technologies are formative of the
 society as a whole [@leroi-gourhan_gesture_1993, 83-84;
-@siegert_cultural_2015]. Therefore, daily choices like choosing a text editor,
-a filing system, or a social networking platform cannot be addressed in
-shallow instrumental system-centric ideals. Complex computational systems
+@siegert_cultural_2015]. Daily choices like choosing a text editor, a filing
+system, or a social networking platform cannot therefore be addressed in
+shallow instrumental, system-centric ideals. Complex computational systems
 cannot give rise to ideals any more than financial markets can. From the many
 available visions of human-computer interaction I argue for choosing one that
 confirms to a humanist ethos, whatever the reader's politics.
 
 Computational poetics encourages users to become active thinkers, tinkerers,
-and makers of technology. It treats binary and digital environments as fluid
-literary systems, amenable to the construction and the deconstruction of
-meaning. I further encourage those who may have considered themselves mere
-"users" to apply the same critical acuity they employ in the close reading of
-prose and poetry to the understanding of code and machine. For text to render
-on the screen properly it must be encoded or translated from
-machine-transmittable code into human-readable shape. Encoding constitutes a
-primitive field of textual activity, at the crossroads of computer science and
-the study of literature. Encoding matters because how text is encoded,
-transmitted, and stored decides who gets to decode, to receive, and to access.
+and makers of technology. It understands binary and digital environments to be
+also semiotic and symbolic systems in essence, amenable to the construction
+and the deconstruction of meaning. I further encourage those who may have
+considered themselves mere "users" of computation to apply the same critical
+acuity they employ in the close reading of prose and poetry to the
+understanding of code and machine. For text to render on the screen properly
+it must be encoded or translated from machine-transmittable code into
+human-readable shape. Encoding constitutes a primitive field of textual
+activity, at the crossroads of computer science and the study of literature.
+Encoding matters because how texts are encoded, transmitted, and stored
+decides who gets to decode, receive, and access.
 
 The advent of simulated text necessitates a computational poetics, which
 enables unfettered access to text, code, platform, and infrastructure.  For
 now, commands like *xxd*, *pcap*, *ssh*, and *traceroute* resemble arcane
-incantations that elicit hidden, symbolic action.[^ln-cli] Those who wield
-them gain the metaphorical power to "hop" across, to "sniff" packets, to
-"survey," to "traverse," and to "flood" network topographies. Computational
-poetics empower the reader to resist hard-wired models of machine-bound
-interpretation. Yet today, resistance remains the domain of the few.  Plain
-text channels itinerant streams of data back into the tidal pools of human
-agency and comprehension for all. There, code can become intelligible for the
-very subjects whose loss Foucault and Kittler lament.[^ln-lament] Only in such
-encrypted tunnels and secure shells can anything like the digital humanities
-or new media studies take root.
+incantations that elicit hidden, symbolic action. Those who wield them gain
+the metaphorical power to "hop" across, to "sniff" packets, to "survey," to
+"traverse," and to "flood" network topographies. Computational poetics empower
+the reader to resist hard-wired models of machine-bound interpretation.
+Today, resistance remains the domain of the few. Plain text channels itinerant
+streams of data back into the tidal pools of human agency and comprehension
+for all. There, code can become intelligible for the very subjects whose loss
+Foucault and Kittler lament.[^ln-lament] Only in such encrypted tunnels and
+secure shells can anything like the digital humanities and new media studies
+take root.
 
 ## Method
 
@@ -1058,7 +1061,7 @@ Harcourt have advanced critique along similar lines. See
 [^ln-dead]: See @barthes_death_1977; @foucault_what_1980; @nesbit_what_1987.
 
 [^ln-digitalliteracy]: See for example @postman_technopoly:_1992;
-@negroponte_being_1995; @davidson_now_2011.
+@negroponte_being_1995; @davidson_now_2011; @obama_2016_2016.
 
 [^ln-dissent]: See @harcourt_exposed:_2015, 251-80.
 
