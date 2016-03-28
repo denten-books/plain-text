@@ -768,7 +768,7 @@ critique cannot achieve its stated aims without purchase on the material
 world. Contemporary knowledge workers stare into rectangular black boxes for a
 considerable part of their days, suspecting, in the absence of other feedback,
 that their gaze is met in bad faith. Connecting theories of meaning-making to
-its practices offers a way out of the conundrum. Bad faith identifies a
+their practice offers a way out of the conundrum. Bad faith identifies a
 misalignment between thought and action.[^ln-sartre] The solution to connect
 "meaning" with "operational meaning" belongs to a species of pragmatism.
 William James articulated the approach concisely when he wrote that "reality
@@ -783,7 +783,7 @@ Ramsey, the young British philosopher close to Ludwig Wittgenstein would later
 write in a similar vein about meaning as "defined by reference to the
 actions."[^ln-pragmatism]
 
-For the pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
+For a pragmatist, truth-carrying propositions of the shape "X is Y" (as in,
 "the author is dead" or "art is transcendent") beg the questions of "Where?,"
 "When?," "For whom?," and "What's at stake in maintaining that?" Following the
 pragmatic insight of James and Ramsey, I will proceed with the conviction that
@@ -793,7 +793,7 @@ borrow from Wittgenstein's *Philosophic Investigations*, categories denote a
 set of related practices that may or may not share in any given familial
 characteristic.[^ln-witt] In our case, imagine a tree diagram where the
 tangled branches of computation and textuality intersect and diverge in
-beautiful and yet arbitrary ways.
+beautiful yet arbitrary ways.
 
 At the start of this project, I was inspired by the writings of Claude
 Bernard, a little-known but influential ninetieth century French physician who
@@ -842,12 +842,12 @@ iron to recreate long--lost artisanal techniques. For those who experiment,
 
 Artifactual knowledge---from typesetting software to e-book readers and word
 processors---shapes our everyday encounter with literature. Such technologies
-should not be taken as value-neutral conduits of information. I follow Lewis
-Mumford and Langdon Winner to argue that technology affects the exercise of
-textual politics in subtle and profound ways [@mumford_authoritarian_1964;
+should not be understood as value-neutral conduits of information. I follow
+Lewis Mumford and Langdon Winner to argue that technology affects the exercise
+of textual politics in subtle and profound ways [@mumford_authoritarian_1964;
 @winner_artifacts_1980]. Artifacts cannot hold beliefs about politics.
 Political power is rather exercised through them. For example, stairs do not
-discriminate against the mobility impaired. The failure to enforce
+discriminate against the mobility impaired. The human failure to enforce
 accessibility through specific legal and architectural choices does.
 Typesetting software, e-book readers, and word processors similarly embody
 implicit communication models: ideas about deliberation, ethics of labor,
@@ -864,7 +864,7 @@ mechanism. In *Plain Text* we will unearth and excavate textual machines. In
 practicing archaeology I contend that cardinal literary-theoretical
 concepts---such as word, text, narrative, discourse, author, story, book,
 archive---are thoroughly enmeshed in the underlying physical substratum of
-paper *and* pixel. It follows that any attempt to articulate the idea cannot
+paper and pixel. It follows that any attempt to articulate the idea cannot
 attain its full expressive potential without a thick description of its base
 particulates.
 
@@ -876,12 +876,12 @@ artifacts with strange eyes. In this movement of the body, I want to disrupt
 the mind's habituated intuitions, pitting them against knowledge at hand and
 fingertip knowledge: as when ruffling through the pages or typing at a
 keyboard. To what extent is electronic textually ephemeral, for example? The
-pragmatic answer lies not in universal propositions, but in technological
-affordances attached to specific reading devices. What can a reader do with
-this text, here and now? Where is it stored? Are readers able to copy and
-paste? Do they have legal permissions to quote at length, to perform publicly,
-or to otherwise trans-mediate? Will the text disappear when the reader closes
-the book's cover?
+pragmatic answer lies not in universal propositions, but in contingent
+technological affordances attached to specific reading devices. What can a
+reader do with this text, here and now? Where is it stored? Are readers given
+dispensation to copy and paste? Do they have legal permission to quote at
+length, to perform publicly, or to otherwise trans-mediate? Will the text
+disappear when the reader closes the book's cover?
 
 ## Plan of the Present Work
 
@@ -902,17 +902,16 @@ is but one of many possible passes through a cavernous black box.
 
 The passage from keystroke to pixel gives the book its shape. In the chapters
 to follow, our mobile phones and laptops will come fully into view as metaphor
-machines engendering ubiquitous simulation. The first three chapters are thus
-concerned with the structure of the computational metaphor. The **first
-chapter** begins with an explication. What does it mean to turn a page, I ask,
-when neither the page nor the action of turning correspond to their implied
-analogies? The analysis of the metaphor helps trace the intellectual history
-of human-computer interaction, a field which progressed from "conversational
-programming" to the "direct manipulation" paradigm shaped by cognitive
-metaphor theory and immersive theater. The logic of "directness" leads to the
-rapidly developing field of brain-to-computer interfaces. The chapter
-concludes with a moment of speculative formalism, in which we consider the
-possibility of affective literature that eschews language and representation.
+machines engendering ubiquitous simulation. The **first chapter** begins with
+an explication. What does it mean to turn a page, I ask, when neither the page
+nor the action of turning correspond to their implied analogies? The analysis
+of the metaphor helps trace the intellectual history of human-computer
+interaction, a field which progressed from "conversational programming" to the
+"direct manipulation" paradigm shaped by cognitive metaphor theory and
+immersive theater. The logic of "directness" leads to the rapidly developing
+field of brain-to-computer interfaces. The chapter concludes with a moment of
+speculative formalism, in which we consider the possibility of affective
+literature that eschews language and representation.
 
 At the core of the book's **second chapter** lies the notion of a modernist
 literary device, understood both as literary technique and a thought
@@ -921,12 +920,12 @@ modern computing. A section on literary technique in the thought of Percy
 Lubbock, Walter Benjamin, and Mikhail Bakhtin opens the discussion.
 Materialist poetics arise concomitantly with a mechanistic, rule-based view of
 language leading to a series of thought experiments first in the writing of
-Ludwig Wittgenstein, and then in the seminal paper of Alan Turing on an
-imaginary computer capable of reading and writing. The verbs to read and to
-write imply a type of cognitive processing. What does it mean to read and to
-write for a machine? What about broken mechanisms of comprehension? At once a
-device and an algorithm, the Turing machine blurs the boundaries between
-software and hardware, code and content, intelligence and its imitation.
+Ludwig Wittgenstein, and then in Alan Turing's seminal paper on an imaginary
+computer capable of reading and writing. The verbs to read and to write imply
+a type of cognitive processing. What does it mean to read and to write for a
+machine? What about broken mechanisms of comprehension? At once a device and
+an algorithm, the Turing machine blurs the boundaries between software and
+hardware, code and content, intelligence and its imitation.
 
 Two rich intellectual histories collide on the pages of the **third chapter**
 chapter: one, the material history of formatting as a concept in computer
