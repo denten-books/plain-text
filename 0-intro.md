@@ -945,33 +945,7 @@ understanding the capabilities of digital texts: from electronic books that
 modify themselves to suit the reader's geographic location to "smart"
 contracts that contain the rules of their own execution.
 
-The **fourth chapter** begins with a discussion of an apparent paradox. A camp
-of media theorists and textual scholars in the 1990s conceived of electronic
-texts as an ephemeral, almost immaterial, phenomenon. The text shimmered and
-glared: it was spoken of in terms of *hypertext*, light writing, and
-electricity. A generation of theorists that came after insisted on the weighty
-materiality of electronic media. Reading began to engage the morphology of
-rare metals, media archeology, hard drive forensics. Both accounts, I argue,
-capture an aspect of the same underlying conditions. The perceived image of an
-archived inscription splits from its source. The sign plausibly resides both
-on the screen and on the hard drive. It splits, in some real a sense,
-diverging at the site its projection from the site of the archive. Erasing an
-inscription on the screen, for example, may not elicit the corresponding
-action on the disk. Using archival materials from the history of telegraphy in
-the late nineteenth and early twentieth centuries, I chart the gradual
-fracture and the ultimate illegibility of the computational sign. Early
-computers stored human-readable text and machine instruction at the surface of
-the same storage media like punch cards and ticker tape. Although difficult to
-read, these forms of machine writing were readily visible and therefore
-amenable to analysis. The advent of magnetic storage forced the composite
-inscription into an opaque medium.  Unable to perceive magnetic polarities
-without the aid of a machine, readers often manipulated text blindly. In this
-way a typist would type several sentences without seeing the printed output.
-The chapter identifies a milestone in the history of human textuality: the
-moment at which the inscription passes from view, giving rise to the sometimes
-conflicting but nevertheless consistent accounts of digital textuality.
-
-The **fifth chapter** charts the emergence of screen reading. The screen
+The **fourth chapter** charts the emergence of screen reading. The screen
 appears to restore a measure of visibility lost to magnetic inscription, with
 one major side-effect. Fidelity between the word visible and the word archived
 cannot be guaranteed. What the screen shows and what is stored on tape or hard
@@ -980,8 +954,8 @@ screens that refresh themselves at a rate of around 60 cycles per second
 (Hertz). The digital word is technically an animation; it moves even as it
 appears to stand still. This property of the medium attunes the reader to a
 particular mode of apprehension, affecting not just the physics but also the
-aesthetics of digital media. Works by the philosophers Henri Bergson, Jakob
-von Uexküll, and John Goodman help construct a phenomenology of screen-based
+aesthetics of digital media. Works by the philosophers Henri Bergson, John
+Haugeland, and Nelson Goodman help construct a phenomenology of screen-based
 digital perception. The digital emerges ultimately not as a property of the
 medium, but as structure imposed onto matter from without. In the extreme,
 that means that a censored *electronic* text can form a perfectly *analog*
@@ -996,8 +970,34 @@ another to a software engineer or a legal professional, and something entirely
 different to a librarian, as I argue in the conclusion of the chapter. It
 matters not what the medium is, but what we can do with the text.
 
-<!---
+The **fifth and final chapter** begins with a discussion of an apparent
+paradox. A camp of media theorists and textual scholars in the 1990s conceived
+of electronic texts as an ephemeral, almost immaterial, phenomenon. Text
+shimmered and glared: it was spoken of in terms of *hypertext*, light writing,
+and electricity. A generation of theorists that came after insisted on the
+weighty materiality of electronic media. Reading began to engage the
+morphology of rare metals, media archeology, hard drive forensics. Both
+accounts, I argue, capture an aspect of the same underlying condition. The
+perceived image of an archived inscription splits from its source. The sign
+plausibly resides both on the screen and on the hard drive. It splits, in some
+real a sense, diverging at the site its projection from the site of the
+archive. Erasing an inscription on the screen, for example, may not elicit the
+corresponding action on the disk. Using archival materials from the history of
+telegraphy in the late nineteenth and early twentieth centuries, I chart the
+gradual fracture and the ultimate illegibility of the computational sign.
+Early computers stored human-readable text and machine instruction at the
+surface of the same storage media like punch cards and ticker tape. Although
+difficult to read, these forms of machine writing were readily visible and
+therefore amenable to analysis. The advent of magnetic storage forced the
+composite inscription into an opaque medium.  Unable to perceive magnetic
+polarities without the aid of a machine, readers often manipulated text
+blindly. In this way a typist would type several sentences without seeing the
+printed output.  The chapter identifies a milestone in the history of human
+textuality: the moment at which the inscription passes from view, giving rise
+to the sometimes conflicting but nevertheless consistent accounts of digital
+textuality.
 
+<!---
 The **sixth and final chapter** looks to the site of storage to find the media
 "homes" that house the vast archives of our private media collections. It
 begins with a close reading of Beckett's *Krapp's Last Tape*. Krapp makes
@@ -1020,7 +1020,6 @@ to discourse that speaks in terms of "digital natives" and those who are "born
 digital." I build on Flusser's immigrant poetics to suggest a kind of
 information processing that necessitates a purposeful movement between the
 polarities of settlement and expatriation.
-
 --->
 
 <!--

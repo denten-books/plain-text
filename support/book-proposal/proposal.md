@@ -148,14 +148,14 @@ screens that refresh themselves at a rate of around 60 cycles per second
 (Hertz). The digital word is technically an animation; it moves even as it
 appears to stand still. This property of the medium attunes the reader to a
 particular mode of apprehension, affecting not just the physics but also the
-aesthetics of digital media.  Works by the philosophers Henri Bergson, Jakob
-von Uexküll, and John Goodman help construct a phenomenology of screen-based
+aesthetics of digital media. Works by the philosophers Henri Bergson, Jakob
+von Uexküll, and Nelson Goodman help construct a phenomenology of screen-based
 digital perception.
 
 The **fifth and final chapter** begins with a discussion of an apparent
 paradox.  A camp of media theorists and textual scholars in the 1990s
 conceived of electronic texts as an ephemeral, almost immaterial, phenomenon.
-The text shimmered and glared: it was spoken of in terms of *hypertext*, light
+Text shimmered and glared: it was spoken of in terms of *hypertext*, light
 writing, and electricity. A generation of theorists that came after insisted
 on the weighty materiality of electronic media. Reading began to engage the
 morphology of rare metals, media archeology, and hard drive forensics. Both
