@@ -496,25 +496,29 @@ current," he writes, continuing:
 > by introducing upper harmonics in a fragmentary, non-periodic, and very
 > irregular way [@murray_setting_1905, 559].
 
-Murray, contrary to Bergson, assumes that human experience is discrete by
+Murray, contrary to Bergson, assumed that human experience is discrete by
 nature. A century prior to the emergence of the digital--analog divide, the
 distinction between sine and square waves polarized popular opinion along
-similar fault lines. In each case, the nature 
-
-Stephen Marche and Stanley Fish after him, and unlike Bergson or David
-Golumbia.
-
-Murray it is therefore the regular and continuous sine wave that falls under
-metaphysical suspicion. Human experience, in this view, must be analogous to
-the saw-tooth wave, both having the qualities of being fragmentary,
-non-periodic, and irregular. By contrast, the sine wave has the exotic for him
-characteristics of being cyclical, repetitive, and continuous. The shape of
-the square wave more closely resembles Murray's own normative vision of modern
-human culture.[^ln3-dervish] But how or why would *any* piece of technology
-confirm to some "natural" state of human affairs?  The evocation of normative
-discourse in this context belies a kind of a technological essentialism,
-reductive of both culture and cognition. Neither can be definitively reduced
-to some facile notions of "discrete" or "continuous" representation.
+similar fault lines. In each case, the nature of the medium seemed to be, to
+the participants of the discussion, implicated in the conversation about human
+nature. For Murray, the regular and continuous sine wave fell under
+metaphysical suspicion, just as the discrete nature of computation would fall
+under suspicion for contemporary critics like David Golumbia a century later.
+Human experience, in Murray's view, is analogous to the saw-tooth wave, both
+having the qualities of being fragmentary, non-periodic, and irregular.  By
+contrast, the sine wave had for him the exotic characteristics of being
+cyclical, repetitive, and continuous.  The shape of the square wave more
+closely resembled Murray's own normative vision of human
+culture.[^ln3-dervish] But how or why would any piece of technology confirm to
+some "natural" state of human affairs?  The appeal to normative discourse in
+this context belies a kind of a technological essentialism, reductive of both
+technology and human nature. Neither can be definitively reduced to some
+universal notions of "discrete" or "continuous" quality. Under close
+examination, human perception and cognition involves a complex synthesis of
+analog and digital processes. Telegraphs and computers too function in the
+digital mode at some layers of the system, and at others in the analog. The
+very distinction between digital and analog, as we will continue to question
+it in this chapter, comes under increasing doubt.
 
 It is tempting to think of the telegraph as a digital [*sic*] apparatus,
 created to convert analog [*sic*] input into electric signal.[^ln3-tele] The

@@ -300,7 +300,7 @@ modulation involved filling the available space (bandwidth) with simultaneous
 signals of different types. Imagine someone speaking loudly and quietly at the
 same time into the same channel. In this way, all the loud messages could be
 sorted to one side and all the quite ones to the other, effectively utilizing
-the whole spectrum of sound.[^ln4-multi] Pulse-amplitude modulation was
+the whole spectrum of sound.[^ln3-multi] Pulse-amplitude modulation was
 difficult to implement initially. Cross-channel noise and device sensitivity
 hampered reliable reception and decoding across multiple simultaneous wave
 frequencies. Emile Baudot was one of the first engineers to notice that the
@@ -1090,7 +1090,7 @@ typewriter, a CRT screen, and a mouse. The patent schematics show the
 workstation in action, with the words "NOW IS THE TIME FOB" prominently
 displayed on the screen. Although Engelbart did not explain the meaning of the
 message, the system's user is evidently in the process of editing a sentence
-and about to correct the nonsensical FOB into a FOR.[^ln2-timefob]
+and about to correct the nonsensical FOB into a FOR.[^ln5-timefob]
 
 !["NOW IS THE TIME FOB." Schematics for a "display system"
 [@engelbart_x-y_1970].](images/engel.png)
@@ -1186,7 +1186,6 @@ towards the lyric:
 
         1B4A1 "pouring thoughts and trial words on the
         screen with much less inhibition,
-
         1B4A2 "finding it easy to repair mistakes or wrong
         choices
 
@@ -1241,37 +1240,30 @@ Anonymous continues to report:
 
             1B4B1A "the relationships among the phrases of a
             sentence,
-
             1B4B1B "among the statements of a list,
-
             1B4B1C "and among the various level and members
             of a branch,
 
         1B4B2 "being able
 
             1B4B2A "to view them in different ways,
-
             1B4B2B "to rearrange them easily,
-
             1B4B2C "to experiment with certain special
             portrayals,
 
                 1B4B2C1 "not available easily in unstructured data
-
                 1B4B2C2 "or usable without the CRT display,
 
         1B4B3 "and being aware that
 
             1B4B3A "I can (and am seeking to) develop still
             further special conventions and computer aids
-
             1B4B3B "to make even more of this available and
             easy,
 
         1B4B4 "all tend to increase
 
             1B4B4A "my interest and experimentation
-
             1B4B4B "and my conviction that this is but a
             peek at what is to come soon.
 ```
@@ -1400,7 +1392,7 @@ time.
 [^ln2-follow]: I reproduce the text verbatim and preserving the line breaks,
 since formatting is an important part of the reported experience.
 
-[^ln1-timefob]: The source for the cryptic phrase is likely
+[^ln5-timefob]: The source for the cryptic phrase is likely
 @weller_early_1918, 21 and 30: "We were then in the midst of an exciting
 political campaign, and it was then for the first time that the well known
 sentence was inaugurated,---'Now is the time for all good men to come to the

@@ -185,11 +185,20 @@ for decades (Uexküll reports up to 18 years). "Time, which frames all events,"
 Uexküll writes, "seemed to us to be the only objectively consistent factor
 […], but now we see that the subject controls the time of its environment"
 [@uexkull_foray_2010, 52]. The computational environment before us constitutes
-the grounds for all higher-level textual activity, from record keeping to
-poetry and software development. From the textual grounds of human--machine
-interaction it then becomes possible to derive poetics, in the sense of a
-study and an art of creating one's own time: taking control of prosody,
-rhythm, meter, and cadence.
+the grounds for all higher-level interpretive activity---from reading poetry
+to debugging code and diagnosing a patient. From the textual grounds of
+human-machine interaction it then becomes possible to derive a poetics, in the
+sense of a study and an art of creating one's own time: prosody, meter,
+harmony, cadence, and syncopation.
 
-<!-- materiality -->
-
+Our challenge today lies in escaping the quietly smothering embrace of
+automation, a multitude of microscopic prosthetics that in aggregate exert an
+enormous pressure on the mind's centers of pleasure and satiation. A quietude
+descends on the dwellings of our intellectual life. The digitally displaced
+hold on to the discomfort of the encounter with the machine. Estrangement,
+always at the heart of immigrant or queer poetics, reconciles without seeking
+wholeness or integration. I dedicate this book then to queers and immigrants,
+literal and figurative---spatial, literary, technological---to those being
+displaced unwillingly, to those exiled within and without, to those who
+understand the need for self-displacement, to those who transgress
+purposefully, and to those who continue to trespass.
