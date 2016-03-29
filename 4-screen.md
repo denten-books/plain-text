@@ -1,4 +1,4 @@
-# Chapter 4: Literature Down to the Pixel
+# Chapter 4: Literature Down to a Pixel
 
 The screen has this one major peculiarity: it refreshes itself multiple times
 per second. Thus even those shapes that appear to stand still on the screen
