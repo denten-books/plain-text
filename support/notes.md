@@ -58,6 +58,35 @@ Potential reviewers
     Kenneth Goldsmith
     Mara Mills
 
+Matthew Fuller, University of London
+Professor, Head of Centre for Cultural Studies
+
+Jim English, University of Pennsylvania
+Professor, English Department
+Director, Price Digital Humanities Lab
+
+Andrew Piper,  McGill University
+Associate Professor and William Dawson Scholar of German and European Literature and an associate member of the Department of Art History and Communication Studies
+Director .txtLAB
+
+Shannon Mattern, The New School
+Associate Professor  of Media Studies
+
+Matt Gold, CUNY Graduate Center
+Associate Professor of English and Digital Humanities
+Ted Underwood, University of Illinois Urbana-Champaign
+Professor, English Department
+
+Wendy Chun, Brown Unversity
+Professor of Modern Culture and Media
+
+Bernard Harcourt, Columbia University
+Professor of Law
+Director, Center for Contemporary Critical Thought
+
+Johanna Drucker, UCLA
+Professor, Design & Media Arts, Department of Information Studies
+
 Send Book To
 ===========================
 Siegert

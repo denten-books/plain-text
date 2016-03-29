@@ -351,7 +351,7 @@ Length and Format
 
 The book is a traditional volume, expounding a sustained thesis across six
 chapters, along with a chapter-length introduction. The manuscript stands at
-roughly 85,000 words (including citations).
+roughly 90,000 words (including citations).
 
 Several chapters contain figures and illustrations, primarily as
 black-and-white diagrams from technical literature and images created by the

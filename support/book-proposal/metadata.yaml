@@ -1,0 +1,14 @@
+---
+title: "Plain Text: The Poetics of Human-Computer Interaction (Book Proposal)"
+subtitle: "The Poetics of Human-Computer Interaction (Sample Chapters)"
+author: "Dennis Tenen"
+cover-image: "images/steno.png"
+csl: csl/mla-no-biblio.csl
+bibliography: plain-text.bib
+toc: true
+documentclass: article
+mainfont: "fbb"
+fontsize: 12pt
+date:
+classoption: none
+---
