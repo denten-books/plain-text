@@ -9,17 +9,22 @@ landing a commercial plane, to surprising results. It would be inadequate to
 say that any individual pilot steers the ship, Hutchins argues, rather one
 observes the active exchange of information among the flight crew, and between
 the flight crew and the their navigational instruments. The task of landing
-involves the whole cockpit, in an assemblage of people, texts, devices. The
-pilots consult manuals, record measurements into control panels, and
+involves the whole cockpit, in an assemblage of people, texts, and devices.
+The pilots consult manuals, record measurements into control panels, and
 communicate among each other and with ground control dispatchers
 [@hutchins_direct_1986]. Parts of this collective effort is automated by
-algorithms where others require manual input and verification.
+algorithms where others require manual input and verification. Hutchins's work
+implies that the unit of analysis for cognitive science and the philosophy of
+mind should not be the brain, or even the individual, but an information
+system, which involves the transference, storage, and access of data across
+human and instrument collectives.
 
-Hutchins's work implies that the unit of analyse for cognitive science and the
-philosophy of mind should not be the brain, or even the individual, but an
-information system, which involves the transference, storage, and access of
-data. These conclusions have immediate implications for the study of storage
-media and book history.
+These conclusions, should we accept them, have an immediate implication for
+materialist poetics and for neighboring fields like book history, philology,
+textual criticism, information architecture, and media archeology. The
+hypothesis of extended cognition means that the physical structures that
+support extension, are, in some real ways, an integral part of the mind. They
+are constitutive instead of merely augmentative.
 
 Impact on book history and media archeology.
 
