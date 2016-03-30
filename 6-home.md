@@ -21,18 +21,21 @@ human and instrument collectives.
 
 These conclusions, should we accept them, have an immediate implication for
 materialist poetics and for neighboring fields like book history, philology,
-textual criticism, information architecture, and media archeology. The
-hypothesis of extended cognition means that the physical structures that
+textual criticism, information design studies, and media archeology. The
+hypothesis of extended cognition entails that the physical structures that
 support extension, are, in some real ways, an integral part of the mind. They
-are constitutive instead of merely augmentative.
+are constitutive instead of merely augmentative of cognition. That means that
+to study the material artifacts that stage the production, consumption and,
+distribution of knowledge is to study cognitive structures. The theory entails
+also that we take more seriously the architecture of cognitive extension. If
+pen, paper, bookshelf, and filing system constitute an integral part of the
+mind, they should be treated with the care we afford other, innate cognitive
+structures. The carpenter building our bookshelves and the software engineer
+developing the mechanisms of media storage are engaged in an act of knowledge
+design; they build systems that support cognitive extension, the furnishings
+of our minds, the dwelling of our extended media self.
 
-Impact on book history and media archeology.
-
-I would like to end the book suggestively, with two close readings: one of
-Beckett's play an another of a more prosaic place: the Home folder, the
-default location on many computers that stores our digital memories, our
-documents, our diaries, ourselves. The figure of Villem
-
+<!-- a summary paragraph -->
 
 ## Recursive Encounters with Oneself
 
