@@ -20,21 +20,31 @@ system, which involves the transference, storage, and access of data across
 human and instrument collectives.
 
 These conclusions, should we accept them, have an immediate implication for
-materialist poetics and for neighboring fields like book history, philology,
-textual criticism, information design studies, and media archeology. The
+computational poetics and for neighboring fields like book history, philology,
+textual criticism, human-computer interaction, and media archeology. The
 hypothesis of extended cognition entails that the physical structures that
 support extension, are, in some real ways, an integral part of the mind. They
 are constitutive instead of merely augmentative of cognition. That means that
 to study the material artifacts that stage the production, consumption and,
 distribution of knowledge is to study cognitive structures. The theory entails
 also that we take more seriously the architecture of cognitive extension. If
-pen, paper, bookshelf, and filing system constitute an integral part of the
-mind, they should be treated with the care we afford other, innate cognitive
-structures. The carpenter building our bookshelves and the software engineer
-developing the mechanisms of media storage are engaged in an act of knowledge
-design; they build systems that support cognitive extension, the furnishings
-of our minds, the dwelling of our extended media self.
+the extended parts of the mind---pens, paper, bookshelves, and filing
+systems---constitute an integral part of the mind, they should be treated with
+the care we afford other, innate cognitive structures. The carpenter building
+our bookshelves and the software engineer developing the mechanisms of media
+storage are engaged in an act of knowledge design. They build systems that
+support cognitive extension---the furnishings of our minds, the dwellings of
+our extended media self. The hypothesis of extended cognition implies also
+that one should not build houses upon these external mental scaffoldings
+uncritically. The architectures of extended cognition matter a great deal.
+They are precious in a way in which our bookshelves and photo albums are
+precious to us. They contain a certain habituated order by which we have
+organized our thoughts and memories. A great violence is done by the one who
+would rearrange the shelf of another. Worse yet, imagine the disorder a
+computer virus brings to one's files and folders. The measure of
+protectiveness we feel toward these cognitive artifacts belies their import.
 
+In this chapter
 <!-- a summary paragraph -->
 
 ## Recursive Encounters with Oneself
