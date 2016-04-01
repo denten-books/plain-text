@@ -582,22 +582,25 @@ device.[^ln-capital]
 
 Changing material conditions of textual transmission push against familiar
 ideas of literary criticism. For example, the easy reproduction of digital
-text weakens the material basis for the attribution of authorship. That is not
-say that the author is dead; authors continue to live and to collect
-royalties.[^ln-dead] The weakening of the authorship function merely makes
-certain ways of talking about things like "authorial intent" and "fidelity to
-the original" difficult to sustain. The emergence of community based writing
-initiatives like Wikipedia and automated narrative generating machines like
-spam bots further erode ideas of authorship based on individual
-Autopoiesis---the idea of literature writing itself or discourse speaking
-itself---does not displace the idea of the author.[^ln-varela] A discipline of
-close attention to the minute particulars of encoding, transmission, storage,
-and the decoding of text ultimately reclaims a measure of agency. This may
-seem strange at first: to recover the subject in the physical minutiae of the
-textual-technological encounter. Yet the point of contact between human, text,
-and device is significant precisely because it is here, in the liminal zone of
-semiotic exchange, where the subject seems to disappear into the machine and
-the machine appears in the guise of an artificially intelligent actor.
+text weakens the material basis for authorship attribution. Text that is easy
+to copy is easy to cite and to plagiarize. The weakening of the authorship
+function makes certain ways of talking about things like "authorial intent"
+and "fidelity to the original" difficult to sustain. The emergence of
+community based writing initiatives like Wikipedia and automated narrative
+generating machines like spam bots further erode notions of authorship based
+on individual genius. That is not say that the author is dead; authors
+continue to live and to collect royalties.[^ln-dead] Autopoiesis---the idea of
+literature writing itself or discourse speaking itself---cannot displace the
+institution of authorship.[^ln-varela] It merely makes the flows of creation,
+poiesis, less apparent. A discipline of close attention to the minute
+particulars of encoding, transmission, storage, and the decoding of text
+ultimately reclaims a measure of intent and therefore responsibility for
+creation.  This may seem strange at first: to recover the subject in the
+physical minutiae of the textual-technological encounter. Yet the point of
+contact between human, text, and device is significant precisely because it is
+here, in the liminal zone of semiotic exchange, where the subject disappears
+into the machine and where the machine steps forth, an animated and seemingly
+intelligent actor.
 
 Extant models of literary transmission assume movement through passive and
 immutable media. Paper constitutes the document of record, which, once
@@ -615,7 +618,7 @@ editors, publishing houses, and printing presses inject an element of noise
 into the channel of communication.
 
 The transition between the Gutenberg press and "Project Gutenberg," an online
-library containing thousands of texts, has brought forth hitherto unexamined
+library containing thousands of texts, has revealed hitherto unexamined
 possibilities. Unlike pen and paper which come in direct contact with each
 other during writing, the contact between keyboard and screen passes through
 another complex chain of mediation. Writing in that sense in itself becomes an
@@ -627,11 +630,11 @@ Neither the digital word nor the digital page exist in the way that they
 appear in the word processor. At best, such composite tropes attain a measure
 of similarity to the physical realities of typing, editing, and archiving
 paper. Simulated erasure for example, of the kind that happens when the writer
-presses the delete key, does not necessarily entail the erasure of content on
-the disk. The erased word could persist and even multiply across other storage
-drives and devices. In the worst case, the connection between keyboards and
-screens suffers from intractable "man-in-the-middle" attacks, by which third
-parties maliciously alter the content of intended communication
+presses the delete key, does not necessarily entail the corresponding erasure
+of content on the disk. The erased word could persist and even multiply across
+other storage drives and devices. In the worst case, the connection between
+keyboards and screens suffers from intractable "man-in-the-middle" attacks, by
+which third parties maliciously alter the content of intended communication
 [@needham_using_1978].
 
 In this book, I will argue that some of the higher-level political
@@ -657,7 +660,7 @@ potential uses or actions latent in materials and designs." For example, glass
 affords transparency where steel affords strength [@levine_forms:_2015, 6].
 The affordances of a literary device ultimately constrain the ways in which
 texts can be read and written [@hutchby_technologies_2001, 447]. The political
-struggle for meaning-making, the opportunity to engage in the act of
+struggle for meaning-making, the very opportunity to engage in the act of
 interpretation, thus begins and ends with the material affordances of the
 textual artifact.
 
