@@ -317,7 +317,7 @@ into a dialog with my work.
 scholars interested in the history of media, data, and computing in the
 twentieth century. The second audience can be located in literary and textual
 studies, among scholars seeking to understand the impact of technology on
-literary theory or book history.  Finally, the manuscript targets the broader
+literary theory or book history. Finally, the manuscript targets the broader
 audience of digital humanities and information science practitioners
 (particularly in the field of human-computer interaction) actively engaged in
 using and creating textual interfaces that shape contemporary reading and
