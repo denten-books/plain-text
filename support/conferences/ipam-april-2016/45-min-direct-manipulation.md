@@ -1,26 +1,75 @@
-Metaphor Machines: Past and Future of Human-Computer Interaction
+---
+title: "Metaphor Machines"
+documentclass: article
+mainfont: "fbb"
+fontsize: 12pt
+---
 
-"An interface is by nature a form of artistic imitation: a *mimesis*," Brenda
-Laurel wrote in her important 1984 essay "Interface as Mimesis." She went on
-to write that "if designing interfaces feels like painting on cave walls by
-flickering torchlight, it is only because we, the designers, have not availed
-ourselves of better illumination: the science of the mimetic arts, poetics"
-[@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career
-in theater studies, went on to work for companies like Apple, Activision,
-Atari, and Sun Microsystems. Her work, cited in more than 120 technical
-patents, reminds us of the close link between poetics and the design of
-human--computer interaction. It is all the more important today, as immersive
-computational environments begin to structure experience beyond the merely
-instrumental. Computers mediate in the interface between the public and the
-private, between art and politics, and between forces of capital and control.
-The simulacrum requires that we advance a reflective "science of the mimetic
-arts" lest we lose a sense of what Michael Taussig has called the space
-ulterior to mimesis [@taussig_mimesis_1993, 129-144]. In other words, the
-suspension of disbelief must remain, as it was in Samuel Coleridge's original
-formulation, a *willful* act, containing further a "semblance of truth"
-required to animate the shadows of imagination [@coleridge_biographia_1917,
-6-7]. An involuntary or worse yet forced suspension of disbelief can only lead
-to total critical disempowerment.
+My concern here is with the structure of the user interface, the programmatic
+sign, which splits its energies between the screen and hard drive. On the
+screen, at the site of projection, the programmatic sign simulates familiar
+materialities: buttons, bins, files, folders, drawers, desktops, windows,
+tiles, wood grain, drop shadows, chrome. At the site of storage, from which
+the sign emanates, the language changes to the vocabulary of control,
+referring to central processing units, compilation, commitment, extraction,
+command, condition, initiation, handling, function, persistence, and
+execution. In the rift between the sites of storage (what is) and projection
+(what appears to be), the programmatic sign undergoes a series of structural
+transformations. What originates from the keyboard as a mechanical action of a
+switch becomes an electric signal that leaves a magnetic mark in computer
+memory to transform into a phase of the liquid crystal on the screen, in a
+shape of a letter that emanates outward as light. Programming languages bridge
+the passage between bodies, screens, and archives, breaking thought up into
+differentiated units for transfer. Simulation arises in the reassembly of such
+units back into a continuous integrated whole. Texts dissolve into letters and
+pixels which then congeal back into holistic literary works.
+
+Roman Jakobson called such construction and deconstruction of meaning the
+"profuse exchange of ritualized formulas" or the phatic function of language
+[@malinowski_problem_1923, 146; @jakobson_linguistics_1960, 355]. In the
+phatic function lies the essence of programming. Code shapes and commands. At
+the same time, it conjures fantastical metaphors to occlude the structure of
+shaping and commanding. Simulation obscures the incongruence between visible
+representation and the underlying material affordances of the medium. What you
+see is not always what you get. We are instead confronted with a composite
+image, which under examination reveals a complex process of transfiguration
+between the visible sign and the sign at the site of the inscription. When
+reading online, for example, we observe what looks like a book, where we
+should also perceive an attempt to sensor and surveil. The simulation is
+without a referent. It bares no resemblance to the material substratum of
+electronic reading. We believe we are handling a book. Our ideas about reading
+and interpretation subsequently rely on that initial physical point of contact
+with paper. But when reading electronically, we are handling something other
+than print material. The semblance to paper guides our intuitions about the
+possibilities of the medium: the ability to scroll, bookmark, or turn pages.
+We have far fewer intuitions about the affordances of inscription at the
+micromolecular level. As we "turn the page" an electric charge crosses the
+impenetrable oxide barrier to reach the floating gate through quantum
+tunnelling [@pavan_flash_1997; @aaron_flash_2002; @bez_introduction_2003].
+
+What then can be said about the practices of reading and interpretation
+grounded in such remote physicalities? For now, only that they continue to
+unfold figuratively, removed from the material conditions of knowledge
+production. Metaphor sustains our lives in digital worlds artificially, by
+analogy with habituated media. We already know what to do with paper, the
+electronic book therefore replicates paper. Such metaphors dull the discomfort
+at the point of contact between human and machine. They hinder the effort of
+mastering poetics at the quantum level: the ability to manipulate charges, to
+draw lattices, to manipulate arrays, and to affect solid states of being. It
+is tempting to view media ecosystems that host our digital lives as a kind of
+a natural element like water or air. But we should not forget also that
+computational ecologies are constructed environments. They are not governed by
+the laws of physics, in the same sense that clouds or oceans are. They form a
+part of a massive tactical effort to bring private spaces of
+inhabitance---think the Home folder on your computer, your family photo album,
+your digital bookmarks---under the purview of governance. The simulation
+encodes political structures that should not be naturalized, lest we succumb
+to the complacency of technological determinism. Our goal in this chapter is
+to arrest the advance of the metaphor. We must begin to separate resemblances
+from their designations: the apparent shape from a command in the imperative.
+
+What does it mean to turn a page in a medium that sustains neither turning nor
+pages?
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
@@ -321,8 +370,7 @@ the rules of physical interaction in favor of the virtual. Far from being
 direct, the iconic representation of the document---the image of a
 file---usurps the physical object, the file itself. Where in the
 conversational paradigm the nature of the mediation was at hand, open to
-circumspection, in the direct manipulation paradigm the simulacrum occludes
-the very nature of the simulation.
+circumspection, in the direct manipulation paradigm occludes mimesis.
 
 ## Speculative Formalism
 
@@ -344,24 +392,24 @@ simulating machine states as virtual environments resembling real-world
 objects and their properties.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
-manipulation leads to the totalizing loss of resemblances and designations
-that Baudrillard warned us about. At its logical extreme, the simulacrum
-supplants the thing being simulated. It appears as hyper-reality, the
-experience of unmediated interaction without awareness or sense of the
-underlying referent. All "objects of interest" within such a modeled world are
-fabricated objects. They are thus limited to the external, artificial
-constraints imposed by their makers. Such manufactured experiences present us,
-the "users," with compelling, possibly cathartic, metaphors. The metaphor
-extends far beyond entertainment, subsuming all spheres of social activity
-mediated by computers. The manipulation of metaphors---a reflective, not
-merely circumspect inhabitance of virtual worlds---therefore requires not just
-a willing suspension of disbelief, but also poetics: hermeneutics, close
-reading, distant reading, deconstruction, morphology, in short precisely the
-legacy of interpretive practice that stretches from Aristotle to Susan Sontag
-and beyond. The suspension of disbelief otherwise threatens to become a
-permanent condition, alienating as it is pleasurable or cathartic.
+manipulation leads to the totalizing loss of resemblances and designations. At
+its logical extreme, the simulacrum supplants the thing being simulated. It
+appears as hyper-reality, the experience of unmediated interaction without
+awareness or sense of the underlying referent. All "objects of interest"
+within such a modeled world are fabricated objects. They are thus limited to
+the external, artificial constraints imposed by their makers. Such
+manufactured experiences present us, the "users," with compelling, possibly
+cathartic, metaphors. The metaphor extends far beyond entertainment, subsuming
+all spheres of social activity mediated by computers. The manipulation of
+metaphors---a reflective, not merely circumspect inhabitance of virtual
+worlds---therefore requires not just a willing suspension of disbelief, but
+also poetics: hermeneutics, close reading, distant reading, deconstruction,
+morphology, in short precisely the legacy of interpretive practice that
+stretches from Aristotle to Susan Sontag and beyond. The suspension of
+disbelief otherwise threatens to become a permanent condition, alienating as
+it is pleasurable or cathartic.
 
-At the time of writing this book, our society stands at the threshold of a new
+At the time of writing this talk, our society stands at the threshold of a new
 paradigm of interacting with computers and hence with each other. Direct brain
 to computer interfaces are common enough today to be turned into a
 toy.[^ln3-mindflex] Early brain--computer interfaces used either imprecise
@@ -374,7 +422,7 @@ quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
 simulation developed by the University of Pittsburgh's Human Engineering
 Research Laboratories in collaboration with the Defense Advanced Research
 Projects Agency (DARPA) [@collinger_collaborative_2014; @prabhakar_how_2015].
-On the surface, the advance of brain--computer interfaces seems to bring us
+On the surface, the advance of brain-computer interfaces seems to bring us
 closer to the vision of increasing directness: the "no interface" movement in
 design, interaction between people and machines without intermediary symbols,
 words, or images. *No Interface*, *Don't Make me Think*, and *Hooked: How to
@@ -387,7 +435,7 @@ emotively past the senses: literature without language or representation,
 painting beyond media, asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
-sight of the mediated nature of human--computer interaction in all of its
+sight of the mediated nature of human-computer interaction in all of its
 forms: paper, ink, silicone. Media intercedes. As technological dreams become
 reality they also grow less interesting and more mundane. We tend not to think
 about them; they become habit. Habituation smoothes the rough edges of
@@ -407,16 +455,6 @@ of command and control. The simulation ultimately embodies specific power
 structures in an economy of exchange between physical and mental resources. In
 this market there are those who profit and those whose virtual avatars become
 a commodity.
-
-The above comments apply to computation generally. We will spend the following
-chapters peeling apart the layers of the literary and the bibliographic
-simulation in particular. Once the electronic book can be perceived as
-computation in kind, we can begin to examine the incongruence in the
-structures of meaning-making at the sites of storage and projection. If we
-consider "what you see is what you get" as a type of a commitment to a
-motivated metaphor, the following chapters will help us understand the ways of
-seeing and the material particulates of getting. The electronic book shall
-come to fore as a literary device.
 
 <!-- notes -->
 <!-- notes -->

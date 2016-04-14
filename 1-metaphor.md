@@ -981,8 +981,7 @@ the rules of physical interaction in favor of the virtual. Far from being
 direct, the iconic representation of the document---the image of a
 file---usurps the physical object, the file itself. Where in the
 conversational paradigm the nature of the mediation was at hand, open to
-circumspection, in the direct manipulation paradigm the simulacrum occludes
-the very nature of the simulation.
+circumspection, "direct manipulation" occludes mimesis.
 
 ## Speculative Formalism
 
