@@ -51,7 +51,7 @@ see is not always what you get. We are instead confronted with a composite
 image, which under examination reveals a complex process of transfiguration
 between the visible sign and the sign at the site of the inscription. When
 reading online, for example, we observe what looks like a book, where we
-should also perceive an attempt to sensor and surveil. The simulation is
+should also perceive an attempt to censor and surveil. The simulation is
 without a referent. It bares no resemblance to the material substratum of
 electronic reading. We believe we are handling a book. Our ideas about reading
 and interpretation subsequently rely on that initial physical point of contact
@@ -63,7 +63,7 @@ micromolecular level. As we "turn the page" an electric charge crosses the
 impenetrable oxide barrier to reach the floating gate through quantum
 tunnelling [@pavan_flash_1997; @aaron_flash_2002; @bez_introduction_2003].
 
-What then can be said about the practices of reading and interpretation
+What can be said then about the practices of reading and interpretation
 grounded in such remote physicalities? For now, only that they continue to
 unfold figuratively, removed from the material conditions of knowledge
 production. Metaphor sustains our lives in digital worlds artificially, by
@@ -716,16 +716,16 @@ desk calculator was nice to have," a historian of the system would later quip
 kind of an interpreter that sat between the human operator and the machine,
 facilitating communication in a friendly, English-like language. Think of JOSS
 as the "user's computing aide and a single contact with the computer," the
-engineers wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into
-the machine, the operator would now use a standard typewriter. Instead of
-flipping switches the operator typed words. JOSS thus referred both to the
-"simple language" for machine instruction and to this new "remote console" way
-of interacting with the computer. JOSS and the user would "take turns
-controlling the typewriter" in the words of the documentation. The
-computerized aide understood simple commands like `do`, `go`, and `type`.
-Given a number of predetermined commands, it would attempt to respond with a
-result. When confused, or when given an unfamiliar command, its default for an
-unspecified error mimicked human confusion: "Eh" [@shaw_joss:_1964]?
+engineers wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into a
+machine, the operator would now use a standard typewriter. Instead of flipping
+switches the operator typed words. JOSS thus referred both to the "simple
+language" for machine instruction and to this new "remote console" way of
+interacting with the computer. JOSS and the user would "take turns controlling
+the typewriter" in the words of the documentation. The computerized aide
+understood simple commands like `do`, `go`, and `type`.  Given a number of
+predetermined commands, it would attempt to respond with a result. When
+confused, or when given an unfamiliar command, its default for an unspecified
+error mimicked human confusion: "Eh? [@shaw_joss:_1964]"
 
 This mode of conversational interaction was captured also in one of the
 earliest text adventure games, the *Colossal Cave Adventure*, designed by Will
@@ -917,13 +917,12 @@ workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
 
 The principles of direct interaction emerging in the 1980s stood against what
 Laurel called the "ill-formed" presence of the mediator, in the interfaces of
-the previous era like JOSS and the *Colossal Cave Adventure*. For those
-advocating the direct interaction paradigm of computer use, conversational
-computing prevents the unmediated "pleasure" and "catharsis" of direct
-engagement [@laurel_brenda_interface_1986, 75]. The intermediary takes the
-place of the player in a game: it swings the sword for her, takes a beating,
-and reports on the experience, standing in the way of immediacy. Laurel
-writes:
+the previous era like JOSS and *Colossal Cave Adventure*. For those advocating
+the direct interaction paradigm of computer use, conversational computing
+prevented the unmediated "pleasure" and "catharsis" of direct engagement
+[@laurel_brenda_interface_1986, 75]. The intermediary takes the place of the
+player in a game: it swings the sword for her, takes a beating, and reports on
+the experience, standing in the way of immediacy. Laurel writes:
 
 > In the file management example, the intermediary takes the form of command
 menus that are invoked in order to activate processes in the program that will
@@ -967,15 +966,15 @@ outputs correlate directly. Thus instead of giving complicated commands to a
 vehicle, a driver turns the wheel to the right, and the car immediately
 follows. A direct causal link exists between the steering wheel and the car's
 axle. Similarly, when operating a computer game like *Space Invaders* via a
-joystick, the player experiences an immediate correspondence between the
-movement of the controlling mechanism and the movement of the
-player-controlled space ship on the screen. The car is the "direct object of
-interest" for a driver, just like the virtual space ship is for a gamer.  But
-unlike video game players, authors attempting to delete sensitive information
-are not interested in the virtual representation of their documents. The
-object of their interest is not mimetic. They would like to erase the document
-itself, located somewhere within the machine. In cases like these, inhabitants
-of the simulated, virtual world have an interest in objects outside of it. The
+joystick, the player experiences the immediate correspondence between the
+movement of the controlling mechanism and movement of the player-controlled
+space ship on the screen. The car is the "direct object of interest" for a
+driver, just like the virtual space ship is for a gamer.  But unlike video
+game players, authors attempting to delete sensitive information are not
+interested in the virtual representation of their documents. The object of
+their interest is not mimetic. They would like to erase the document itself,
+located somewhere within the machine. In cases like these, inhabitants of the
+simulated, virtual world have an interest in objects outside of it. The
 paradigm of direct manipulation instead veils the object from view, suspending
 the rules of physical interaction in favor of the virtual. Far from being
 direct, the iconic representation of the document---the image of a
@@ -1076,6 +1075,9 @@ consider "what you see is what you get" as a type of a commitment to a
 motivated metaphor, the following chapters will help us understand the ways of
 seeing and the material particulates of getting. The electronic book shall
 come to fore as a literary device.
+
+<!-- can say something indexical interfaces and preserving the space ulterior to
+help tie in with the introduction -->
 
 <!-- notes -->
 <!-- notes -->
