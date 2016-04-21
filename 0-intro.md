@@ -37,7 +37,7 @@ I mean by "reading a book" obscures a number of metaphors for a series of odd
 actions. The "book" is a small, thin black rectangle: three inches wide, five
 inches tall, and barely a few millimeters thick. A slab of polished glass
 covers the front of the device, where the tiny eyes of a camera and a light
-sensor also protrude.  At the back, made of smooth soft plastic, we find
+sensor also protrude. At the back, made of smooth soft plastic, we find
 another, larger camera. At the foot of the device a grid of small perforations
 indicate breathing room for a speaker and several microphones. To "open" a
 book I touch the glass. The machine recognizes my fingerprint almost
@@ -79,26 +79,25 @@ not a book, but a simulation of a book. And everything associated with reading
 this metaphor must in itself be understood under the sign of
 simulation.[^ln0-manovich] What kind of a metaphor is it? How did it come into
 being and how does it affect practices of literary interpretation? In *Plain
-Text* I attempt to come to terms with the conditions of *simulated
-textuality*.
+Text* I come to terms with the conditions of *simulated textuality*.
 
 [^ln0-manovich]: See @manovich_there_2011, 53-106.
 
 "Software's ghostly presence produces and defies apprehension," Wendy Chun
 wrote in her *Programmed Visions* [@chun_programmed_2011, 3]. But what happens
-when all text is a type of software? Friedrich Kittler ends his book on a
-similar note: in his vision, literature has finally been defeated by
-technologies of military-grade encryption, secrecy, and obfuscation
-[@kittler_gramophone_1999, 263]. Attempts to silence print through book
-burning or censorship are viscerally obvious and met with nearly universal
-disapproval. Unlike censorship or the burning of books, the dominion of
-computation proceeds by clandestine means. The simulation-producing nature of
-computed text preserves the outward appearance of printed text, while
-concealing the specifics of discipline and control. I mean discipline and
-control in the sense of shaping affordances: a mode of physical regulation
-that structures the production, access, and the distribution of knowledge. The
-challenge of *Plain Text* will be in the description of such emerging but
-often occluded technological possibilities.
+when all text is a type of software? Friedrich Kittler ended his book on a
+similar note: in his vision, literature has been finally defeated by
+technologies of encryption, secrecy, and obfuscation [@kittler_gramophone_1999,
+263]. Attempts to silence print through book burning or censorship are
+viscerally obvious and met with nearly universal disapproval. Unlike
+censorship or the burning of books, the dominion of computation proceeds by
+clandestine means. The simulation-producing nature of computed text preserves
+the outward appearance of printed text, while concealing the specifics of
+discipline and control. I mean discipline and control in the sense of shaping
+affordances: a mode of physical regulation that structures the production,
+access, and the distribution of knowledge. The challenge of *Plain Text* will
+be in the description of such emerging but often occluded technological
+possibilities.
 
 A concern with the material conditions of simulated textuality leads us to a
 rich archive of materials from the history of literary theory, semiotics,
