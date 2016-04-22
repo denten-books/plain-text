@@ -844,7 +844,7 @@ variable truths about how human beings really are" [@knobe_experimental_2008,
 exemplifies the same trend. In naming the locations of their practice
 "laboratories,"  "studios," and "workshops," humanists reach for new metaphors
 of labor. These metaphors aim to reorganize the relationship between body,
-space, artifact, knowledge, and inscription. In our lab and elsewhere,
+space, artifact, knowledge, and inscription. In my lab and elsewhere,
 researchers have taken to calling this approach "experimental humanities."
 
 As an example of what I have been calling here the "experimental turn" in the
@@ -854,7 +854,7 @@ They write that the "history of science is not a history of concepts, or at
 least not that alone, but a history of the making and using of objects to
 understand the world" [@smith_ways_2014, 12]. Smith translates that insight in
 the laboratory, where, together with her students, she bakes bread and smelts
-iron to recreate long--lost artisanal techniques. For those who experiment,
+iron to recreate long-lost artisanal techniques. For those who experiment,
 "book knowledge" and "artifactual knowledge" connect in practice.
 
 Artifactual knowledge---from typesetting software to e-book readers and word
@@ -870,7 +870,8 @@ Typesetting software, e-book readers, and word processors similarly embody
 implicit communication models: ideas about deliberation, ethics of labor,
 discursive values, and views about "natural" human aptitude for
 interpretation. In this way, contemporary documents structure the literary
-encounter according to economic conditions, location, or physical ability.
+encounter according to the reader's economic status, gender, race, age,
+location, or physical ability.
 
 To what extent does the book in front of you permit or enable access?
 Whatever the answer, a function of understanding the text must include the
@@ -892,13 +893,14 @@ the book or to lean away from the screen and to look at these textual
 artifacts with strange eyes. In this movement of the body, I want to disrupt
 the mind's habituated intuitions, pitting them against knowledge at hand and
 fingertip knowledge: as when ruffling through the pages or typing at a
-keyboard. To what extent is electronic textually ephemeral, for example? The
-pragmatic answer lies not in universal propositions, but in contingent
-technological affordances attached to specific reading devices. What can a
-reader do with this text, here and now? Where is it stored? Are readers given
-dispensation to copy and paste? Do they have legal permission to quote at
-length, to perform publicly, or to otherwise trans-mediate? Will the text
-disappear when the reader closes the book's cover?
+keyboard. How ephemeral is an electronic text, for example? The pragmatic
+answer lies not in reductive universal propositions---very, or not at
+all---but in contingent technological affordances attached to specific reading
+devices.  What can a reader do with this text, here and now? Where is it
+stored? Are readers given dispensation to copy and paste? Do they have legal
+permission to quote at length, to perform publicly, or to otherwise
+trans-mediate? Will the text disappear when the reader closes the book's
+cover?
 
 ## Plan of the Present Work
 
@@ -911,11 +913,11 @@ one name in one part of the system and by another elsewhere. What counts for
 the same in another domain, like creative writing. An engineer's use of the
 words "code" and "poetry" differs from that of a poet's. The changing contexts
 evoke the corresponding shift in operational definitions. Consequently, this
-book is neither a totalizing history of modern computing nor a survey of
-literary theory. Rather, the argument therein progresses from the action of
-the alphanumerical keyboard switch, through copper and silicon, to liquid
-crystal and the floating gate, and on towards the reader and the community. It
-is but one of many possible passes through a cavernous black box.
+book is neither a total history of modern computing nor a survey of literary
+theory. Rather, the argument therein progresses from the action of the
+alphanumerical keyboard switch, through copper and silicon, to liquid crystal
+and the floating gate, and on towards the reader and the community. It is but
+one of many possible passes through a cavernous black box.
 
 The passage from keystroke to pixel gives the book its shape. In the chapters
 to follow, our mobile phones and laptops will come fully into view as metaphor
@@ -926,7 +928,7 @@ of the metaphor helps trace the intellectual history of human-computer
 interaction, a field which progressed from "conversational programming" to the
 "direct manipulation" paradigm shaped by cognitive metaphor theory and
 immersive theater. The logic of "directness" leads to the rapidly developing
-field of brain-to-computer interfaces. The chapter concludes with a moment of
+field of brain-computer interfaces. The chapter concludes with a moment of
 speculative formalism, in which we consider the possibility of affective
 literature that eschews language and representation.
 
@@ -935,14 +937,15 @@ literary device, understood both as literary technique and a thought
 experiment about intelligent machines, directly connected to the birth of
 modern computing. A section on literary technique in the thought of Percy
 Lubbock, Walter Benjamin, and Mikhail Bakhtin opens the discussion.
-Materialist poetics arise concomitantly with a mechanistic, rule-based view of
-language leading to a series of thought experiments first in the writing of
-Ludwig Wittgenstein, and then in Alan Turing's seminal paper on an imaginary
-computer capable of reading and writing. The verbs to read and to write imply
-a type of cognitive processing. What does it mean to read and to write for a
-machine? What about broken mechanisms of comprehension? At once a device and
-an algorithm, the Turing machine blurs the boundaries between software and
-hardware, code and content, intelligence and its imitation.
+Materialist poetics rise concomitantly alongside a mechanistic, rule-based
+view of language. In this chapter I reconstruct a series of thought
+experiments first in the writing of Ludwig Wittgenstein, and then in Alan
+Turing's seminal paper on an imaginary computer capable of reading and
+writing. The verbs to read and to write imply a type of cognitive processing.
+What does it mean to read and to write for a machine? What about broken
+mechanisms of comprehension? At once a device and an algorithm, the Turing
+machine blurs boundaries between software and hardware, code and content,
+intelligence and its imitation.
 
 Two rich intellectual histories collide on the pages of the **third chapter**
 chapter: one, the material history of formatting as a concept in computer
@@ -980,8 +983,8 @@ artifact, despite being digital in all other senses of the word. Conversely,
 texts in print are already "born digital," in the sense that literary works
 like Shakespeare's *Hamlet* are amenable to "reliable processes of copying and
 preservation" [@haugeland_analog_1981, 213-225]. Properties that make media
-"digital" or "analog" reveal themselves neither to be neither universal nor
-essential to the medium. The medium is not the message. "The reliability and
+"digital" or "analog" reveal themselves to be neither universal nor essential
+to the medium. The medium is not the message. "The reliability and
 preservation of textual copies" may mean one thing to a literary scholar,
 another to a software engineer or a legal professional, and something entirely
 different to a librarian, as I argue in the conclusion of the chapter. It
@@ -1006,11 +1009,11 @@ Early computers stored human-readable text and machine instruction at the
 surface of the same storage media like punch cards and ticker tape. Although
 difficult to read, these forms of machine writing were readily visible and
 therefore amenable to analysis. The advent of magnetic storage forced the
-composite inscription into an opaque medium.  Unable to perceive magnetic
+composite inscription into an opaque medium. Unable to perceive magnetic
 polarities without the aid of a machine, readers often manipulated text
 blindly. In this way a typist would type several sentences without seeing the
-printed output.  The chapter identifies a milestone in the history of human
-textuality: the moment at which the inscription passes from view, giving rise
+printed output. The chapter identifies a milestone in the history of human
+textuality: the moment at which the inscription passed from view, giving rise
 to the sometimes conflicting but nevertheless consistent accounts of digital
 textuality.
 
