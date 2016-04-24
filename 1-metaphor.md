@@ -29,16 +29,17 @@ drop shadows, chrome. At the site of storage, from which the sign emanates,
 the language changes to the vocabulary of control, referring to central
 processing units, compilation, commitment, extraction, command, condition,
 initiation, handling, function, persistence, and execution. In the rift
-between the sites of storage (what is) and projection (what appears to be),
-the programmatic sign undergoes a series of structural transformations. What
-originates from the keyboard as a mechanical action of a switch becomes an
-electric signal that leaves a magnetic mark in computer memory to transform
-into a phase of the liquid crystal on the screen, in a shape of a letter that
-emanates outward as light. Programming languages bridge the passage between
-bodies, screens, and archives, breaking thought up into differentiated units
-for transfer. Simulation arises in the reassembly of such units back into a
-continuous integrated whole. Texts dissolve into letters and pixels which then
-congeal back into holistic literary works.
+between the sites of storage---what is---and projection---what appears to
+be---the programmatic sign undergoes a series of structural transformations.
+What originates from (a) the keyboard as the mechanical action of a switch
+becomes (b) an electric signal that (c) leaves a magnetic mark in computer
+memory, which (d) further morphs into a phase of the liquid crystal on the
+screen, leaving behind (e) the letter that emanates outward as light.
+Programming languages, rules for transformation between media, bridge the
+passage between bodies, screens, and archives, breaking thought up into
+differentiated units for transfer. Simulation emerges in the reassembly of
+such units back into a continuous integrated whole. Texts dissolve into
+letters and pixels which then congeal back into holistic literary works.
 
 Roman Jakobson called such construction and deconstruction of meaning the
 "profuse exchange of ritualized formulas" or the phatic function of language
@@ -52,16 +53,20 @@ image, which under examination reveals a complex process of transfiguration
 between the visible sign and the sign at the site of the inscription. When
 reading online, for example, we observe what looks like a book, where we
 should also perceive an attempt to censor and surveil. The simulation is
-without a referent. It bares no resemblance to the material substratum of
+without a referent. It bares little resemblance to the material substrata of
 electronic reading. We believe we are handling a book. Our ideas about reading
 and interpretation subsequently rely on that initial physical point of contact
 with paper. But when reading electronically, we are handling something other
 than print material. The semblance to paper guides our intuitions about the
 possibilities of the medium: the ability to scroll, bookmark, or turn pages.
 We have far fewer intuitions about the affordances of inscription at the
-micromolecular level. As we "turn the page" an electric charge crosses the
-impenetrable oxide barrier to reach the floating gate through quantum
-tunnelling [@pavan_flash_1997; @aaron_flash_2002; @bez_introduction_2003].
+micromolecular level. As we "turn the page" on the screen an electric charge
+embedded into a solid state medium crosses the impenetrable oxide barrier,
+reaching its destination, the floating gate, through quantum tunnelling, which
+exploits the wave-particle duality of matter and its corollary the Heisenberg
+uncertainty principle [@pavan_flash_1997; @aaron_flash_2002;
+@bez_introduction_2003]. The everyday inscription---a digital word---comprises
+numerous improbable events at quantum scale.
 
 What can be said then about the practices of reading and interpretation
 grounded in such remote physicalities? For now, only that they continue to
