@@ -65,28 +65,28 @@ embedded into a solid state medium crosses the impenetrable oxide barrier,
 reaching its destination, the floating gate, through quantum tunnelling, which
 exploits the wave-particle duality of matter and its corollary the Heisenberg
 uncertainty principle [@pavan_flash_1997; @aaron_flash_2002;
-@bez_introduction_2003]. The everyday inscription---a digital word---comprises
-numerous improbable events at quantum scale.
+@bez_introduction_2003]. In this way, the everyday inscription---a digital
+word---comprises numerous improbable events at quantum scale.
 
 What can be said then about the practices of reading and interpretation
 grounded in such remote physicalities? For now, only that they continue to
 unfold figuratively, removed from the material conditions of knowledge
 production. Metaphor sustains our lives in digital worlds artificially, by
-analogy with habituated media. We already know what to do with paper, the
+analogy with habituated media. We already know what to do with paper; the
 electronic book therefore replicates paper. Such metaphors dull the discomfort
 at the point of contact between human and machine. They hinder the effort of
-mastering poetics at the quantum level: the ability to manipulate charges, to
-draw lattices, to manipulate arrays, and to affect solid states of being. It
-is tempting to view media ecosystems that host our digital lives as a kind of
-a natural element like water or air. But we should not forget also that
-computational ecologies are constructed environments. They are not governed by
-the laws of physics, in the same sense that clouds or oceans are. They form a
-part of a massive tactical effort to bring private spaces of
-inhabitance---think the Home folder on your computer, your family photo album,
-your digital bookmarks---under the purview of governance. The simulation
-encodes political structures that should not be naturalized, lest we succumb
-to the complacency of technological determinism. Our goal in this chapter is
-to arrest the advance of the metaphor. We must begin to separate resemblances
+mastering poetics at the quantum level: the ability to inject electrons, draw
+lattices, manipulate arrays, affect solid states of being. It is tempting to
+view media ecosystems that host our digital lives as a kind of a natural
+element like water or air. But we should not forget also that computational
+ecologies are constructed environments. They are not governed by the laws of
+physics in the same sense that clouds or oceans are. They form a part of a
+massive tactical effort to bring private spaces of inhabitance---think the
+*Home* folder on your computer, your family photo album, your digital
+bookmarks---under the purview of computational control. The simulation encodes
+political structures that should not be naturalized, lest we succumb to the
+complacency of technological determinism. Our goal in this chapter is to
+arrest the advance of the metaphor. We must begin to separate resemblances
 from their designations: the apparent shape from a command in the imperative.
 
 What does it mean to turn a page in a medium that sustains neither turning nor
@@ -100,11 +100,12 @@ their machines, and the so-called "direct manipulation" model, by which they
 began to occupy virtual, figurative environments. The chapter draws on the
 archives from graphic design, literary theory, and computer science---fields
 that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
-from literal to metaphoric, immersive computing brings us to the speculative
-possibility of seemingly unmediated coupling between human a machine---a
-possibility that I would like to acknowledge and finally reject outright in
-the conclusion of the chapter. Despite the appeal to candor, I argue that the
-dream of direct immediacy can only conceal the nature of mediation.
+from the conversational to the "direct" model of human-computer interaction
+points to the speculative possibility of seemingly unmediated coupling between
+human and machine---a possibility that I would like to acknowledge and finally
+reject outright in the conclusion of the chapter. The appeal to immediacy and
+immersion in the principles of "direct" manipulation conceals the nature of
+mediation.
 
 ## Verisimilitude
 
@@ -112,32 +113,37 @@ From the many available theories of metaphor, in this chapter I will be
 relying on the ideas from the so called "cognitive metaphor" school developed
 extensively by George Lakoff, Mark Johnson, and Mark Turner among others in
 the 1980s. As we shall see later on in the chapter, cognitive metaphor theory
-gains influence in the formative period in the history of human--computer
-interaction. It is important for me therefore to take on the vocabulary of
-that tradition and to advance its critique from within. In cognitive metaphor
-theory, the kind of resemblances that we have been discussing so far are
-called *structural metaphors*.  "Structural metaphors allow us to do much more
-than just orient concepts," Lakoff and Johnson wrote [@lakoff_metaphors_1980,
-61]. Grounded in "systematic correlations within our experience," structural
-metaphors transfer organizing principles from one domain to another. Thus to
-say something like "time is money" is to suggest that something in the
-arrangement of the financial system correlates systematically to something in
-the arrangement of the temporal system [@lakoff_metaphors_1980, 65-8]. It is a
+gained influence in the formative period in the history of human-computer
+interaction. It is therefore important for me to take on the vocabulary of
+that tradition and to advance its critique from within.
+
+In cognitive metaphor theory, the kind of resemblances that we have been
+discussing so far---between the document and its icon, for example---are
+called *structural metaphors*. "Structural metaphors allow us to do much more
+than just orient concepts," Lakoff and Johnson wrote in the 1980s
+[@lakoff_metaphors_1980, 61]. Grounded in "systematic correlations within our
+experience," structural metaphors transfer organizing principles from one
+domain to another. Thus to say something like "time is money" is to suggest
+that something in the arrangement of finances correlates to something in the
+arrangement of the temporal system [@lakoff_metaphors_1980, 65-8]. It is a
 structural and not just a semantic similarity. If metaphors work by
 transferring qualities, structure is the quality being transferred in all of
 the above cases. Structural metaphors organize one thing in the shape of
-another. They are for this reason key to understanding the transference that
-takes place in the interface between human and machine.
+another. They are for this reason key to understanding the transference
+between human and machine, at the interface where two disparate systems of
+representation meet to exchange information. In fact, all computers can be
+described in terms such symbolic transference, where machine states---the
+configuration of open and closed circuits---translate into pictures, numbers,
+and letters, all species of human cognitive states. As a machine for symbolic
+transference, the computer is capable of simulating anything that can be
+represented symbolically. It is a universal metaphor machine. That is not to
+say that it can *do* anything.  For example, one cannot use a computational
+device to hammer nails.  A computer can be used to create the verisimilitude
+of hammering nails in the virtual realm.
 
-On an abstract level, structural substitution defines computation in general.
-The computer can be imagined as a universal metaphor machine, capable of
-simulating anything that can be represented symbolically. That is not to say
-that it can *do* anything. For example, one cannot use a computational device
-to hammer nails. A computer can be used to create the verisimilitude of
-hammering nails in the virtual realm. The language of computation reveals its
-reliance on metaphor in practice. Consider the following passage from a patent
-filed by Xerox in 1991. It describes confusingly, in its own words, "an
-electronic library metaphor," which includes:
+The language of computation reveals its reliance on metaphor in practice.
+Consider the following passage from a patent filed by Xerox in 1991. It
+describes, in its own words, "an electronic library metaphor," which includes:
 
 > a shared books with database metaphor, a reference books metaphor, and a
 > card catalog metaphor in one system that allows large object oriented data
@@ -154,8 +160,8 @@ technical language. What does it mean to "access" a metaphor? When someone
 "checks out" a book from the electronic library, do they gain access to the
 book or to the metaphor alone? What mechanisms assure the correspondence
 between a database and database metaphor, the book and book metaphor, and the
-catalog and catalog metaphor? Traditional metaphor theory strains to help
-us answer such questions.
+catalog and catalog metaphor? Traditional metaphor theory strains to answer
+such questions.
 
 In the so-called classical view, metaphors are simply a type of figurative
 language. To say "the day stands tiptoe on the misty mountain tops" is to use
