@@ -112,34 +112,44 @@ mediation.
 From the many available theories of metaphor, in this chapter I will be
 relying on the ideas from the so called "cognitive metaphor" school developed
 extensively by George Lakoff, Mark Johnson, and Mark Turner among others in
-the 1980s. As we shall see later on in the chapter, cognitive metaphor theory
+the 1980s. As we shall see later on in the chapter, this school of thought
 gained influence in the formative period in the history of human-computer
-interaction. It is therefore important for me to take on the vocabulary of
-that tradition and to advance its critique from within.
+interaction. It is therefore important for me examine the vocabulary of that
+tradition on its own terms and to advance its critique from within. It also
+bares mentioning that in the language of cognitive metaphor theory all
+figurative tropes of comparison---hyperbole, metonymy, synecdoche, or
+simile---fall under the category of metaphor.
 
-In cognitive metaphor theory, the kind of resemblances that we have been
-discussing so far---between the document and its icon, for example---are
-called *structural metaphors*. "Structural metaphors allow us to do much more
-than just orient concepts," Lakoff and Johnson wrote in the 1980s
-[@lakoff_metaphors_1980, 61]. Grounded in "systematic correlations within our
-experience," structural metaphors transfer organizing principles from one
-domain to another. Thus to say something like "time is money" is to suggest
-that something in the arrangement of finances correlates to something in the
-arrangement of the temporal system [@lakoff_metaphors_1980, 65-8]. It is a
-structural and not just a semantic similarity. If metaphors work by
-transferring qualities, structure is the quality being transferred in all of
-the above cases. Structural metaphors organize one thing in the shape of
-another. They are for this reason key to understanding the transference
-between human and machine, at the interface where two disparate systems of
-representation meet to exchange information. In fact, all computers can be
-described in terms such symbolic transference, where machine states---the
-configuration of open and closed circuits---translate into pictures, numbers,
-and letters, all species of human cognitive states. As a machine for symbolic
-transference, the computer is capable of simulating anything that can be
-represented symbolically. It is a universal metaphor machine. That is not to
-say that it can *do* anything.  For example, one cannot use a computational
-device to hammer nails.  A computer can be used to create the verisimilitude
-of hammering nails in the virtual realm.
+The kind of resemblances that we have been discussing so far---between the
+document and its icon, for example---are further referred to as *structural
+metaphors*. "Structural metaphors allow us to do much more than just orient
+concepts," Lakoff and Johnson wrote in the 1980s [@lakoff_metaphors_1980, 61].
+Grounded in "systematic correlations within our experience," structural
+metaphors transfer organizing principles from one domain to another. Thus to
+say "the world is our oyster" is to suggest that something in our approach to
+interacting with oysters, likely in a gastronomical situation, resembles our
+approach to life [@lakoff_metaphors_1980, 65-8]. The ease of eating one
+transfers to the ease of living the other. The transferred property implies a
+not just a semantic similarity, one of meaning, but a structural one, one of
+interface. The metaphor says the world is arranged like an oyster somehow;
+that it contains a hidden morsel within; and that like an oyster, it can be
+cracked---trivially and by the means of a rapid application of concerted
+force.
+
+Structural metaphors encourage the listener to apply knowledge of one 
+
+In this way, structural metaphors organize one thing in the shape of another.
+They are for this reason key to understanding the transference between human
+and machine, at the interface where two disparate systems of representation
+meet to exchange information. In fact, all computers can be described in terms
+such symbolic transference, where machine states---the configuration of open
+and closed circuits---translate into pictures, numbers, and letters, all
+species of human cognitive states. As a machine for symbolic transference, the
+computer is capable of simulating anything that can be represented
+symbolically. It is a universal metaphor machine. That is not to say that it
+can *do* anything.  For example, one cannot use a computational device to
+hammer nails.  A computer can be used to create the verisimilitude of
+hammering nails in the virtual realm.
 
 The language of computation reveals its reliance on metaphor in practice.
 Consider the following passage from a patent filed by Xerox in 1991. It
