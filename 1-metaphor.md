@@ -92,7 +92,7 @@ from their designations: the apparent shape from a command in the imperative.
 What does it mean to turn a page in a medium that sustains neither turning nor
 pages? In this chapter, we will use the tools of cognitive metaphor theory to
 tell the story of metaphor's influence on computation, at a formative moment
-in the history of human--computer interaction. I plan to approach this
+in the history of human-computer interaction. I plan to approach this
 tradition from within, taking on its language and assumptions in the first
 several sections of the chapter. The latter sections capture the historical
 transition between literal computing, by which users gave explicit commands to
@@ -120,40 +120,22 @@ bares mentioning that in the language of cognitive metaphor theory all
 figurative tropes of comparison---hyperbole, metonymy, synecdoche, or
 simile---fall under the category of metaphor.
 
-The kind of resemblances that we have been discussing so far---between the
-document and its icon, for example---are further referred to as *structural
-metaphors*. "Structural metaphors allow us to do much more than just orient
-concepts," Lakoff and Johnson wrote in the 1980s [@lakoff_metaphors_1980, 61].
-Grounded in "systematic correlations within our experience," structural
-metaphors transfer organizing principles from one domain to another. Thus to
-say "the world is our oyster" is to suggest that something in our approach to
-interacting with oysters, likely in a gastronomical situation, resembles our
-approach to life [@lakoff_metaphors_1980, 65-8]. The ease of eating one
-transfers to the ease of living the other. The transferred property implies a
-not just a semantic similarity, one of meaning, but a structural one, one of
-interface. The metaphor says the world is arranged like an oyster somehow;
-that it contains a hidden morsel within; and that like an oyster, it can be
-cracked---trivially and by the means of a rapid application of concerted
-force.
+In the 1980s, a number of influential publications in the field of
+human-computer interaction relied on insights from cognitive metaphor theory
+to refashion computers from business productivity tools into tools of the
+imagination, as ultimate metaphor machines. In this light, computer interfaces
+mediate the transference between human and machine, at the liminal space where
+two disparate systems of representation meet to exchange information.
+Interfaces can be said to translate machine states---the configuration of open
+and closed circuits---into pictures, numbers, and letters, all species of
+human cognitive states. The metaphor machine, a mechanism for universal
+symbolic transference, is capable of simulating anything that can be
+represented symbolically.[^ln1-database]
 
-Structural metaphors encourage the listener to apply knowledge of one 
-
-In this way, structural metaphors organize one thing in the shape of another.
-They are for this reason key to understanding the transference between human
-and machine, at the interface where two disparate systems of representation
-meet to exchange information. In fact, all computers can be described in terms
-such symbolic transference, where machine states---the configuration of open
-and closed circuits---translate into pictures, numbers, and letters, all
-species of human cognitive states. As a machine for symbolic transference, the
-computer is capable of simulating anything that can be represented
-symbolically. It is a universal metaphor machine. That is not to say that it
-can *do* anything.  For example, one cannot use a computational device to
-hammer nails.  A computer can be used to create the verisimilitude of
-hammering nails in the virtual realm.
-
-The language of computation reveals its reliance on metaphor in practice.
-Consider the following passage from a patent filed by Xerox in 1991. It
-describes, in its own words, "an electronic library metaphor," which includes:
+The language of computation reveals its reliance on structural metaphor in
+practice.  Consider the following passage from a patent filed by Xerox in
+1991. It describes, in its own words, "an electronic library metaphor," which
+includes:
 
 > a shared books with database metaphor, a reference books metaphor, and a
 > card catalog metaphor in one system that allows large object oriented data
@@ -214,19 +196,33 @@ image schema structure of the source domain is projected onto the target
 domain in a way that is consistent with inherent target domain
 structure."[^ln1-metalakoff]
 
-[^ln1-metalakoff]: [@lakoff_contemporary_1998] See also
-@turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
-@lakoff_invariance_2009.
+The kind of resemblances that we have been discussing so far---between the
+document and its icon, for example---are further referred to as *structural
+metaphors*. "Structural metaphors allow us to do much more than just orient
+concepts," Lakoff and Johnson wrote in the 1980s [@lakoff_metaphors_1980, 61].
+Grounded in "systematic correlations within our experience," structural
+metaphors transfer organizing principles from one domain to another. Thus to
+say "the world is our oyster" is to suggest that something in our approach to
+interacting with oysters, likely in a gastronomical situation, resembles our
+approach to life [@lakoff_metaphors_1980, 65-8]. The ease of eating one
+transfers to the ease of living the other. The transferred property implies a
+not just a semantic similarity, one of meaning, but a structural one, one of
+interface. The metaphor suggests the world is arranged like an oyster somehow,
+that it can be cracked, and that it contains a tasty hidden morsel within. In
+this way, structural metaphors organize one thing in the shape of another.
+They are a tool for extending insights from a known domain to lesser known
+one, a tool for exploration: simple things like oysters shed light on complex
+things like worlds.
 
-Metaphor machines present us with a special case of conceptual domain
-blending. The transference of structuring principles from one system to
-another---from "physical libraries" to "electronic workstations environments,"
-in our case---reveals the formative nature of the structural metaphor.
-Metaphors that can be touched and handled in some way exist neither wholly in
-language nor wholly in the mind. Rather, they operate in action, at hand. John
-Carrol, one of the pioneers in the field of human--computer interaction,
-summarized the role of metaphors in the design of computing systems as
-follows:
+In their capacity for exploration and explanation, metaphor machines present
+us with a special case of conceptual domain blending. The transference of
+structuring principles from one system to another---from "physical libraries"
+to "electronic workstations environments," in our case---reveals the formative
+nature of the structural metaphor. Metaphors that can be touched and handled
+in some way exist neither wholly in language nor wholly in the mind. Rather,
+they operate in action, at hand. John Carrol, one of the pioneers in the field
+of human-computer interaction, summarized the role of metaphors in the design
+of computing systems as follows:
 
 > Professional programmers might learn a new system X by metaphorizing at
 least initially from what they already know about system Y. More casual or
@@ -237,7 +233,7 @@ metaphors in learning about computing systems, the designers of those systems
 should anticipate and support likely metaphorical constructions to increase
 the ease of learning and using the system [@carroll_metaphor_1982, 107-108].
 
-In essence, Carroll imagines human--computer interfaces that enact Lakoff and
+In essence, Carroll imagines human-computer interfaces that enact Lakoff and
 Johnson's "conceptual blending" in practice. In this way, the familiar gesture
 of discarding a crumpled piece of paper into the waste bin can be simulated
 digitally to guide the deletion of electronic documents. Apple's influential
@@ -297,7 +293,7 @@ physical world, but according to the rules of design.
 ## To Turn a Page
 
 The principles of metaphor-driven design contain an implicit model of
-human--computer interaction, which suggests that humans prefer to manipulate
+human-computer interaction, which suggests that humans prefer to manipulate
 digital information stored on computational media by the means of familiar
 mediating structures---paragraphs, pages, files, and folders---associated
 figuratively with the affordances of print media. We know, in other words,
@@ -334,7 +330,7 @@ through the motions of turning the page but actually redraw the screen. We
 highlighted passage to a data aggregation service. We "share a book" which
 means really assigning a temporary license to another user. The structures of
 governance do not reveal themselves in the metaphor. Where did the text go?
-someone asks when downloading a paper from an online journal.[^ln4-nested] It
+someone asks when downloading a paper from an online journal.[^ln1-nested] It
 is in your "home" I answer. But unless one of us is familiar with the material
 contingencies of file storage, neither has a mental map of any physical
 location corresponding to the "home" directory, the default location of
@@ -433,7 +429,7 @@ between media.
 
 Why would readers engage in such a charade? Why not simply make use of novel
 interfaces afforded by new technology? The literature from the field of
-human--computer interaction suggests a formalist answer: habituation
+human-computer interaction suggests a formalist answer: habituation
 [@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
 initial effort it takes to learn to read in a new environment may discourage
 potential readers from adopting a new technology. Smart designers therefore
@@ -590,7 +586,7 @@ metaphor loses its quality of mediation of ferrying across. For example, for
 many readers the idea of a "dead metaphor" itself may no longer evoke death.
 Perhaps they understand the "death" of the "dead metaphors" to function
 synonymously with "convention" or "idiom" without the gruesome
-connotations.[^ln4-dead] Without connotation, that is without doing its job of
+connotations.[^ln1-dead] Without connotation, that is without doing its job of
 invoking other related explanatory domains, the metaphor withers. In Shelley's
 view, all metaphors are destined to become habituated in this way, only to be
 reborn again in poetry. In its most generative form, metaphors actively
@@ -646,7 +642,7 @@ accessible to its user. Furthermore, we might add that a wholly unmotivated
 metaphor does no work at all. Thus the Mad Hatter poses his famous nonsensical
 riddle in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
 desk? The complete dissimilarity between the two domains---of animals and
-furniture---prevents any productive congruence.[^ln4-carroll] No domain
+furniture---prevents any productive congruence.[^ln1-carroll] No domain
 mapping happens between ravens and writing desks. Not having been born, the
 metaphor dies in yet another sense.
 
@@ -690,7 +686,7 @@ ourselves of better illumination: the science of the mimetic arts, poetics"
 in theater studies, went on to work for companies like Apple, Activision,
 Atari, and Sun Microsystems. Her work, cited in more than 120 technical
 patents, reminds us of the close link between poetics and the design of
-human--computer interaction. It is all the more important today, as immersive
+human-computer interaction. It is all the more important today, as immersive
 computational environments begin to structure experience beyond the merely
 instrumental. Computers mediate in the interface between the public and the
 private, between art and politics, and between forces of capital and control.
@@ -834,7 +830,7 @@ of the game simulation would be too complex for players to handle effectively,
 if they were asked to play by writing formulas in code, for example, or to
 direct the paddle through dialog.
 
-The conversational model of human--computer interaction was hindered by what
+The conversational model of human-computer interaction was hindered by what
 researchers considered an arbitrary symbolic relationship of the sign to its
 signifier. In this way, when using *EMACS*, a text editor commonly found on
 UNIX systems of the time, one would enter the command `k` in combination with
@@ -1011,14 +1007,14 @@ Telegraph Codes," Frank Halstead noted that "the practical upper limits of
 [telegraph transmission] speed will also be limited by the ability of some
 human beings to operate a keyboard, until such time as electrical connection
 be made direct with the receiver's central nervous system"
-[@halstead_genesis_1949, 451]. The history of human--computer interaction
+[@halstead_genesis_1949, 451]. The history of human-computer interaction
 began with the manipulation of physical switches, first by hand and then by
 removable storage media like paper tape and punch card. The next phase was
 dialogic and conversational in nature. Conversational computing introduced the
 idea of a mediating agent, an interpreter, who could translate from a limited
 number of natural human language commands into the specialized vocabulary of
 signals that could alter the machine configuration. The "direct manipulation"
-school of human--computer interaction has led us further towards mimesis,
+school of human-computer interaction has led us further towards mimesis,
 simulating machine states as virtual environments resembling real-world
 objects and their properties.
 
@@ -1066,7 +1062,7 @@ emotively past the senses: literature without language or representation,
 painting beyond media, asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
-sight of the mediated nature of human--computer interaction in all of its
+sight of the mediated nature of human-computer interaction in all of its
 forms: paper, ink, silicone. Media intercedes. As technological dreams become
 reality they also grow less interesting and more mundane. We tend not to think
 about them; they become habit. Habituation smoothes the rough edges of
@@ -1104,28 +1100,37 @@ help tie in with the introduction -->
 <!-- notes -->
 <!-- notes -->
 
-[^ln4-nested]: The notion of "digital text" itself is a metaphor. Files do not
-really hold texts. The idea of "text" identifies a segment of stored memory
-coupled with control codes that govern layout and projection in specific
-material context. Together, these diverse signals and physical affordances
-create the illusion of a single text.
-
-[^ln4-carroll]: @carroll_annotated_1960, 55. See @huxley_raven_1976 and
+[^ln1-carroll]: @carroll_annotated_1960, 55. See @huxley_raven_1976 and
 @susina_why_2001 for a range of possible answers, including Carroll's own:
 "Because it can produce a few notes, though they are very flat; and it is
 nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 @susina_why_2001, 16-7].
 
-[^ln4-dead]: For a book length summary on this topic see
+[^ln1-database]: In describing his Relational Calculus Expression for Metaphor
+Generation Lawrence F. Young writes that the "key to this model is the
+observation that any entity can be metaphorically associated with another
+entity" [@young_metaphor_1987, 312].
+
+[^ln1-dead]: For a book length summary on this topic see
 @muller_metaphors_2008.
 
-[^ln3-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
+[^ln1-metalakoff]: [@lakoff_contemporary_1998] See also
+@turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
+@lakoff_invariance_2009.
+
+[^ln1-mindflex]: The American toy giant Mattel makes a game called "Mindflex."
 The Frequently Asked Questions page includes the following prompt: "Have you
 ever dreamed of moving an object with the power of your mind? Mindflex Duel™
 makes that dream a reality! Utilizing advanced Mindflex Duel™ technology, the
 wireless headset reads your brainwave activity. Concentrate...and the ball
 rises on a cushion of air! Relax...and the ball descends. It's literally mind
 over matter!" (@mindflex_mindflex:_2015)
+
+[^ln1-nested]: The notion of "digital text" itself is a metaphor. Files do not
+really hold texts. The idea of "text" identifies a segment of stored memory
+coupled with control codes that govern layout and projection in specific
+material context. Together, these diverse signals and physical affordances
+create the illusion of a single text.
 
 [^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
 from speaking to writing: "The most obvious change from speaking to writing
