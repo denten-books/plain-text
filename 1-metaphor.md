@@ -236,9 +236,10 @@ the ease of learning and using the system [@carroll_metaphor_1982, 107-108].
 In essence, Carroll imagines human-computer interfaces that enact Lakoff and
 Johnson's "conceptual blending" in practice. In this way, the familiar gesture
 of discarding a crumpled piece of paper into the waste bin can be simulated
-digitally to guide the deletion of electronic documents. Apple's influential
-*Human Interface Guidelines*, at the core of Apple's desktop interfaces in the
-1980s and today, echoes Carroll's proscriptions:
+digitally to guide the deletion of electronic documents.
+
+Apple's influential *Human Interface Guidelines*, at the core of Apple's
+desktop interfaces in the 1980s and today, echoes Carroll's proscriptions:
 
 > You can take advantage of people's knowledge of the world around them by
 using metaphors to convey concepts and features of your application. Use
@@ -255,23 +256,26 @@ and the computer-generated worlds is imperfect. For example, unlike a
 real-world file folder, constrained by the size of its containing cabinet, a
 computer folder can hold a nearly unlimited amount of files. Or, to be more
 precise, the electronic folder metaphor is subject to different constraints
-than those that limit the use of a paper file. The image of the paper file
-should not therefore limit the possibilities of the metaphor's implementation,
-the manual explains. It further advises its readers to "strike a balance
-between the metaphor's suggested use and the ability of the computer to
-support and extend the metaphor" [@apple_apple_1987, 5].
+than those that limit the use of paper files. The image of a paper file should
+not therefore limit the possibilities of the metaphor's implementation, the
+manual explains. It further advises its readers to "strike a balance between
+the metaphor's suggested use and the ability of the computer to support and
+extend the metaphor" [@apple_apple_1987, 5]. The domain blending property of
+the embodied structural metaphor is not perfect, in other words. Some parts
+map from the real world to the virtual, while others do not.
 
-A number of patents from IBM, Xerox, and Microsoft rely on the language of
-metaphor extension. Consider US Patent #5,907,854 by Paula J. Cox et.al. of
-International Business Machines. The invention describes "a library metaphor
-that allows a user to organize the online books in a manner that has meaning
-and utility." The authors go on to explain that "while the actual books may be
-stored in many separate and distinct locations [...] the bookcase provides a
-familiar classification system." They go on to write that the creation of
-bookcase metaphors involves "the creation of appropriate links to the actual
-online book/bookshelf/bookcase." The "book metaphor" ultimately "provides an
-easy to understand and intuitive model for a user who might not be familiar
-with on-line viewing tools" [@cox_method_1999].
+A number of patents from IBM, Xerox, and Microsoft similarly evoke the logics
+of structural metaphor and domain blending. Consider US Patent #5,907,854 by
+Paula J. Cox et.al.  of International Business Machines. The invention
+describes "a library metaphor that allows a user to organize the online books
+in a manner that has meaning and utility." The authors continue to explain
+that "while the actual books may be stored in many separate and distinct
+locations [...] the bookcase provides a familiar classification system."
+Further, they write that the creation of bookcase metaphors must involve "the
+creation of appropriate links to the actual online book/bookshelf/bookcase."
+The "book metaphor" ultimately "provides an easy to understand and intuitive
+model for a user who might not be familiar with on-line viewing tools"
+[@cox_method_1999].
 
 Another metaphor machine can be found in the collaboration between the
 influential product design firm IDEO and Xerox in the 1990s. The two worked on
@@ -283,12 +287,15 @@ of divider *tabs*, each containing one or more *pages*." Pages, in turn
 contained *items* or "icons representing documents or applications"
 [@moll-carrillo_articulating_1995, 1-7]. In a similar binder-based software
 application, the engineers at IBM describe the "contents of the notebook
-metaphor," which are "displayed as a stack of sheets." "In this way, the
-interface [...] permits a user to directly manipulate the sheets in the
-notebook metaphor" [@glaser_graphical_1995]. In all of these examples, the
-user handles the metaphor in a proscribed way. The metaphor structures the
-material affordances of the simulation not according to the rules of the
-physical world, but according to the rules of design.
+metaphor," which are "displayed as a stack of sheets." "The interface [...]
+permits a user to directly manipulate the sheets in the notebook metaphor."
+[@glaser_graphical_1995]. 
+
+In these words we begin to to glimpse the trouble
+with the structural metaphor paradigm of human-interface design. The idea of
+"direct manipulation" refers to the im-mediate access to the metaphor, that
+is, paradoxically, the appearance of access without mediation---the occlusion
+of the document in favor of its representation.
 
 ## To Turn a Page
 
