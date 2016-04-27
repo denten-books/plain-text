@@ -118,7 +118,9 @@ interaction. It is therefore important for me examine the vocabulary of that
 tradition on its own terms and to advance its critique from within. It also
 bares mentioning that in the language of cognitive metaphor theory all
 figurative tropes of comparison---hyperbole, metonymy, synecdoche, or
-simile---fall under the category of metaphor.
+simile---fall under the category of metaphor. To avoid confusions of the
+sort---to get on the same page, if you will, I would like to spend a few pages
+now reviewing a moment
 
 In the 1980s, a number of influential publications in the field of
 human-computer interaction relied on insights from cognitive metaphor theory
@@ -550,13 +552,13 @@ of one kind, while enacting the structure of another.
 In these novel conditions, the task of the literary scholar must include,
 among other things, a practice of microscopic reading that corresponds to the
 kind of micromolecular writing suggested by Baudrillard and Frederich Kittler
-[@kittler_there_1995]. The full extent of the simulated figure must be made
-available for interpretation. What happens in the metaphorical transference
-between the book as a work of art and the apparatus simulating the book?
-Estrangement, the exegesis of the metaphor, can help reveal the mechanisms of
-governance in the structural transference between one medium to another.
-Materialist poetics can subsequently allow one to consent, or, conversely, to
-resist elements of imposed structure.
+[@kittler_there_1995]. The full extent of the dissimulating figure must be
+made available for interpretation. What happens in the metaphorical
+transference between the book as a work of art and the apparatus simulating
+the book? Estrangement, the exegesis of the metaphor, can help reveal the
+mechanisms of governance in the structural transference between one medium to
+another. Materialist poetics can subsequently allow one to consent, or,
+conversely, to resist elements of imposed structure.
 
 ## Death and Incongruence
 
