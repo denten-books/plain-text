@@ -493,30 +493,30 @@ discourse is "fixed" and thereby "preserved from destruction" in writing
 such permanence. What is meant by "fixed," "permanent," and "repeatable"
 changes with the device. Such properties come to us under the guise of surface
 representation. Nothing is guaranteed in the passage of electronic text from
-one pair of hands into another. Digital formatting expands its purview far
-beyond typographical convention. The erasure of words, word substitution,
-automatic summarization, wholesale generation of discourse by algorithmic
-means---the command and control layer of a digital media device contains all
-such possibilities. What does it mean to read and to interpret a dynamic text,
+one pair of hands into another. Formatting expands its purview far beyond
+typographical convention. The erasure of words, word substitution, automatic
+summarization, wholesale generation of discourse by algorithmic means---the
+command and control layer of a digital media device contains all such
+possibilities. What does it mean to read and to interpret a dynamic text,
 which changes depending on its context? How can literary analysis---close
 reading, philology, hermeneutics---persist without the fixity of print?
 
-Consider the commonplace task of "turning pages" in the act of writing or
-reading digital texts. In cognitive linguistic terms, the idea of paper pages
-should somehow extend into the domain of manipulating digital information. In
+Consider the commonplace task of "turning pages" when writing or reading
+digital texts. In cognitive linguistic terms, the idea of paper pages should
+somehow extend into the domain of manipulating digital information. In
 literary terms, the projection of a page on the screen carries the tenor of
-paper pagination. In this way, the turning of simulated pages implies a
+paper pagination. By these means, the turning of simulated pages implies a
 certain familiar arrangement of matter. Readers know what to do with paper
-pages. They understand their affordances. The metaphor encourages readers to
-extend their knowledge of the physical world into the projected, virtual
-world. For example, paper pages can be turned. We know they usually proceed
-one another, sequentially. And we are attuned to expect the same attributes to
-hold true in the vehicle---the domain receiving the tenor of the metaphor.
-The action of turning virtual pages should, in theory, set off a series of
-corresponding actions in the target, digital domain. Turning the page on a
-screen should correspond to a similar action on the disk. But the action does
-not necessarily meet our expectations. The arrangement of information stored
-on the disk affords different physical actions from the arrangement of
+pages. They understand the affordances involved. The metaphor encourages
+readers to extend their knowledge of the physical world into the projected,
+virtual. For example, paper pages can be turned; we know they usually proceed
+one another, sequentially; and we are attuned to expect the same attributes to
+hold true in the vehicle---the domain receiving the tenor of the metaphor. The
+turning of virtual pages should, in theory, set off a series of corresponding
+actions in the target, digital domain. Turning the page on a screen should
+correspond to a similar action on the disk. But the action does not
+necessarily meet our expectations. The arrangement of information stored on
+the disk affords different physical actions from the arrangement of
 information on the page. For example, an English-language character occupies
 eight bits on a disk where a print character occupies one. The disk can
 tolerate millions of rewrites, where the paper medium wears out after only a
@@ -541,31 +541,37 @@ Whatever the complexities of solid state storage architecture, the difference
 in arrangement of information between pages and floating gates---at the root
 of modern "sold state" storage---is apparent. The structure of one has only an
 arbitrary connection to the structure of the other. Consequently changes in
-the structure of one domain do not necessitate changes in the structure of
-another: to "erase a word" on a projected, virtual page thus may not have the
-corresponding effect on the level of the storage medium. The information may
-persist despite the intended erasure. As dwellers of simulated worlds, we hope
-that the analogy between paper and pixel achieves a level of verisimilitude.
-Turning the page or erasing a word on the screen should do something similar
-on the disk. However, we also know that it often does not. Sometimes the data
-is simply omitted from view and at other times it multiplies and perseveres
-across deep surfaces, shared, without consent, with readers and agents not
-privy to the original contexts of utterance and inscription. As was the case
-with Baudrillard's map, the metaphor can break in that it no longer reflects
-any terrain. The computational metaphor instead simulates the familiar but
-absent affordances of the print artifact. Dissimulation suggests a structuring
-of one kind, while enacting the structure of another.
+the structure of the symbolic domain, which manifest in the erasure of words
+for example, do not necessitate corresponding changes in the physical, which
+in the same example manifest in the discharge of the floating gate. The
+information endures despite intended erasure. The dwellers of virtual realms
+believe in verisimilitude. We hope the analogy of turning the page or erasing
+a word on the screen to entail similar actions on the disk. But we also lose
+faith when asked to verify the illusion. Under scrutiny, data is sometimes
+simply omitted from view. At other times it multiplies and perseveres across
+deep surfaces, shared without consent with agents not privy to the original
+contexts of inscription. As was the case with Baudrillard's map, the metaphor
+breaks in that it no longer reflects any terrain. Dissimulation mimics the
+familiar but absent affordances of the print artifact. It suggests a
+structuring of one kind, while enacting the structure of another.
 
 In these novel conditions, the task of the literary scholar must include,
 among other things, a practice of microscopic reading that corresponds to the
-kind of micromolecular writing suggested by Baudrillard and Frederich Kittler
-[@kittler_there_1995]. The full extent of the dissimulating figure must be
-made available for interpretation. What happens in the metaphorical
-transference between the book as a work of art and the apparatus simulating
-the book? Estrangement, the exegesis of the metaphor, can help reveal the
-mechanisms of governance in the structural transference between one medium to
-another. Materialist poetics can subsequently allow one to consent, or,
-conversely, to resist elements of imposed structure.
+techniques of micromolecular writing, suggested already in Kittler and
+Baudrillard in the 1990s [@kittler_there_1995]. I imagine here the inverse of
+Kittler's literature without humans: cryptic, illegible, and under the
+conditions of high technology. The methodology of computational poetics
+insists on recovering the shape of the inscription, across surfaces and
+domains, making the full extent of the dissimulating figure available for
+interpretation. What happens in the metaphorical transference between a book
+as an object of art and the apparatus simulating that object? Estrangement,
+the exegesis of the metaphor, can help reveal the mechanisms of governance in
+the structural transference between one medium to another. Materialist poetics
+can subsequently allow one to consent, or, conversely, resist elements of
+imposed structure. That is not to say that meaning-making structures can ever
+become fully transparent or produce plain unambiguous meaning. Unlike a
+cypher, the plain text is one that does not preclude the possibility of
+interpretation or misinterpretation.
 
 ## Death and Incongruence
 
