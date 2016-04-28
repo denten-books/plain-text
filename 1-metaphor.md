@@ -109,18 +109,22 @@ mediation.
 
 ## Verisimilitude
 
-From the many available theories of metaphor, in this chapter I will be
-relying on the ideas from the so called "cognitive metaphor" school developed
-extensively by George Lakoff, Mark Johnson, and Mark Turner among others in
-the 1980s. As we shall see later on in the chapter, this school of thought
-gained influence in the formative period in the history of human-computer
-interaction. It is therefore important for me examine the vocabulary of that
-tradition on its own terms and to advance its critique from within. It also
-bares mentioning that in the language of cognitive metaphor theory all
-figurative tropes of comparison---hyperbole, metonymy, synecdoche, or
-simile---fall under the category of metaphor. To avoid confusions of the
-sort---to get on the same page, if you will, I would like to spend a few pages
-now reviewing a moment
+From the many available theories of metaphor, in this chapter I rely on the
+ideas from the so called "cognitive metaphor" school developed extensively by
+George Lakoff, Mark Johnson, and Mark Turner among others in the 1980s. As we
+shall see later on in the chapter, this school of thought gained influence in
+the formative period in the history of human-computer interaction. It is
+therefore important for me examine the vocabulary of that tradition on its own
+terms and to advance its critique from within. It also bares mentioning that
+in the language of cognitive metaphor theory all figurative tropes of
+comparison---hyperbole, metonymy, synecdoche, or simile---fall under the
+category of metaphor. To avoid confusions of the sort, to get onto the same
+page if you will, I would like to spend a few pages now delving into the
+technical vocabulary of metaphor theory. This language will later help us
+explore the ways by which metaphors make and unmake everyday computational
+environments of human habitation. I am interested here and throughout the book
+in a particular mode of virtual habitation and habituation, which by its very
+nature begins and ends with the technologies of metaphor.
 
 In the 1980s, a number of influential publications in the field of
 human-computer interaction relied on insights from cognitive metaphor theory
