@@ -304,75 +304,75 @@ will continue to haunt our conversation for the rest of the chapter.
 
 ## Dissimulation
 
-To reiterate: the principles of metaphor-driven design contain an implicit
-model of human-computer interaction, which suggests that humans prefer to
-manipulate digital information stored on computational media by the means of
-familiar mediating structures---paragraphs, pages, files, and
-folders---associated figuratively with the affordances of print media. We
-know, in other words, what paragraphs, pages, files, and folders can do on
-paper and we would like for digital images of paper to behave in a similar
-way. For example, one affordance of paper is that it can be folded. It
-therefore becomes possible to "earmark" a page by folding a corner. The fold
-enables subsequent recollection of text that has been previously read. By
-these means, a reader marks a notable place in the text in order to return to
-it later. The digital medium cannot be folded in the same way because it
-offers a set of physical affordances that differ from actual paper. However,
-readers may not be familiar with "what can be done" digitally. Consequently,
-the affordances of digital media are presented through metaphor.  Thus a
-virtual "earmark" on a "page" represents a numerical pointer to a specific
-address in the computer memory. A "page" stands for a range of related
-addresses that correspond roughly to the information visible on an analogous
-page in print. Similarly, one "drops a folder into a trash bin" or "drags and
-drops a file" or "bookmarks a page" on a screen. Such metaphors rely on
-habituated insight with one medium extended into another. We do not literally
-"drag" or "drop" bits, but we use metaphors of paper and trashcan to help us
-manipulate bits and bytes as if they were household objects. The metaphor
-opens figurative possibilities. It also obscures the actual physical
+Readers know what paragraphs, pages, files, and folders can do on paper and
+would like for digital images of paper to behave in a similar way. The
+principles of metaphor-driven design contain an implicit model of
+human-computer interaction, which suggests that humans prefer to manipulate
+digital information stored on computational media by the means of familiar
+mediating structures---paragraphs, pages, files, and folders---associated
+figuratively with the affordances of print media. For example, one affordance
+of paper is that it can be folded. It therefore becomes possible to "earmark"
+a page by folding a corner. The fold enables subsequent recollection of text
+that was read previously. By these means, a reader marks a notable place in
+the text in order to return to it later. Patently, digital media cannot (as of
+yet) fold by the way of paper. Readers seeking a mechanism for digital
+recollection may not be familiar with the affordances of newly inhabited
+medium. Consequently, the affordances of digital media are presented through
+metaphor. Thus a virtual "earmark" on a "page" represents a numerical pointer
+to a specific address in the computer memory. A "page" stands for a range of
+related addresses that correspond roughly to the information visible on an
+analogous page in print. Similarly, one "drops a folder into a trash bin" or
+"drags and drops a file" or "bookmarks a page" on a screen. Such metaphors
+rely on habituated insight with one medium extended into another. We do not
+literally "drag" or "drop" bits, but we use metaphors of paper and trashcans
+to help us manipulate bits and bytes as if they were household objects. The
+metaphor opens figurative possibilities. It also obscures the actual physical
 contingencies of interacting with bits and bytes, logic gates and magnetic
 traces.
 
-The affordances of the physical medium differ from those of the simulated one.
-We manipulate bits and bytes differently from files and folders, pages and
+The affordances of physical media differ from those of the simulated. We
+handle bits and bytes differently from files and folders, pages and
 paragraphs. The metaphorical substitution encourages readers to extend the
-facility they have with manipulating one sort of media (paper and ink) to
-another (screen and pixels). What readers gain in facility, they lose in
-critical faculty. Alienated from the actual physical structures of information
-storage and retrieval, readers gain access to the metaphor alone. Thus we go
-through the motions of turning the page but actually redraw the screen. We
-"highlight a passage," an action that may also send information about the
-highlighted passage to a data aggregation service. We "share a book" which
-really means assigning a temporary license to another user. Where does the
-text go? someone asks when downloading a paper from an online
-journal.[^ln1-nested] It is in your "home folder" I answer. But unless one of
-us is familiar with the material contingencies of file storage, neither has a
-mental map of any physical location corresponding to the "home" directory, the
-default location of personal files on many systems. When confronted with the
-actual affordances of digital text, the user grasps for neutered metaphors. We
-"reside" in such homes, "own," "share," and "create" only in the simulacrum.
+facility they have with handling one sort of media (paper and ink) to another
+(screen and pixels). What readers gain in facility, they lose in critical
+faculty. Alienated from the material conditions of information storage and
+retrieval, readers gain access to the metaphor alone. Thus we go through the
+motions of "turning the page" but in actuality redraw the screen. We
+"highlight a passage," which constitutes an action that may also send
+information about the highlighted passage to a data aggregation service. We
+"share a book" which really means assigning a temporary license to another
+user. Where does the text go? I ask when downloading a paper from an online
+journal.[^ln1-nested] It is in your home folder someone answers. But unless
+one of us is familiar with the material contingencies of file storage, neither
+has a mental map of any physical location corresponding to the "home"
+directory (same as folder), the default location of personal files on many
+systems. When confronted with the actual affordances of digital text, the user
+grasps for neutered metaphors. We "reside" in such "homes," "own," "share,"
+and "create" only in the simulacrum.
 
 Metaphors of human-computer interaction conceal structures of computational
 governance and control over the transmission of knowledge and information.
 Print offers a relatively static and stable medium by comparison. Ink and
 paper do not change much in transit. By contrast, the vessels of computation
 are capable of altering their contents dynamically. Imagine me asking you to
-read Shakespeare's *Hamlet*, for example, by lending you a copy of the text.
+read Shakespeare's *Hamlet*, for example, in lending you a copy of the text.
 In the case of a paper book, I may be sure that the text in my hands will
 remain the same as I pass it into yours. But the computed sign also has the
 capability to adjust itself to new contexts. For example, the simulated
 *Hamlet* may adapt to the new reader's geographic location, mood, or
 consumption habits. In fact, most texts we consume today come to us in such
 computationally constructed way. The front page of the New York Times viewed
-in Beijing will differ from the front page viewed in New York. The two "pages"
-or "sites" are in some sense two completely different texts. But in another
-sense, the "front page" identifies the same location of the same text, in two
-diverging and dynamically composed versions. Whatever is meant by "today's
-edition of the New York Times" denotes differing surface phenomena that
-emanate from the same sources.
+in Beijing will differ from that viewed in New York. The two "pages" or
+"sites" are in some sense two completely different textual variants. In
+another sense, the "front page" identifies the same location of the same text,
+in two diverging and dynamically composed versions. Whatever is meant by
+"today's edition of the New York Times" in that sense denotes differing
+surface phenomena that emanate from the same source.
 
 The key to understanding "the loss of resemblances" that accompanies
 ubiquitous simulation lies in the inner dynamics of metaphor machinery. A
-functioning metaphor, if you would recall from Lakoff, is one which ferries
-the schematic composition of one domain into another. Thus to say "life is a
+functioning metaphor, if you would recall from Lakoff, is one which transfers
+the structural properties of one domain into another. Thus to say "life is a
 stage" is to transpose something about theater onto life. In literary terms,
 the theater is "tenor" where "life" is "vehicle" of the composite figure
 [@richards_philosophy_1936]. Simulations work differently. Where the tenor of
@@ -380,37 +380,37 @@ the literary metaphor crosses several semantic and cognitive domains, the
 computational metaphor substitutes the "signs of the real for the real"
 [@baudrillard_simulacra_1994, 2]. It is a subtle difference that engenders
 not-so-subtle effects. For example, it is one thing to say "you are the apple
-of my eye" and quite another to actually confuse apples for eye pupils.
-Baudrillard gives us the example of a map that no longer corresponds to any
-territory. He calls such a condition of pure simulation without a referent
-*hyper-reality*. We expect a digital simulation to attain a measure of
-correspondence between representation and the thing being represented. For
-example, in theory, a weather simulation should be capable of modeling
-observed meteorological conditions. But would it be a weather simulation if
-the model was broken in some way, or, in the extreme, if it had no
-correspondence to the physics of clouds, wind, and water whatsoever? The
-hyper-real breaks further still by usurping the underlying reality. The model
-does not merely obscure, it takes place of the thing being modeled.  It
-simulates itself, in other words, according to its own rules and similar only
-to itself. The simulation no longer corresponds to any situation "on the
-ground." Severed from its referent, representation attains the status of the
-thing represented. Therefore hyper-reality: a map of a map, a symbol that
-folds onto itself, a weather simulation confused for weather.
+of my eye" and quite another to confuse apples for eye pupils. Baudrillard
+gives us the example of a map that no longer corresponds to any territory. He
+calls such a condition of pure simulation without a referent *hyper-reality*.
+
+Hyperreality emanates from the expected correspondence between digital
+representation and the thing being represented. For example, one expects
+weather simulation to model actual observed meteorological conditions. But
+would it be a weather simulation if the model was broken in some way, or, in
+the extreme, if it had no correspondence to the physics of clouds, wind, and
+water whatsoever? The hyperreal breaks further still by taking place of
+instead of the underlying reality. A model does not merely obscure, it usurps
+the thing being modeled. It begins to simulate itself, according to its own
+rules, similar to self. The simulation no longer corresponds to any situation
+"on the ground." Severed from its referent, representation attains the status
+of the thing represented. Therefore hyper-reality: a map of a map, a symbol
+that folds onto itself, a weather simulation confused for weather.
 
 We know that physical affordances of liquid crystal displays (LCDs) and
 magnetic storage differ drastically from those of paper, goat skins, or
 parchment. Yet digital surface representation maintains the illusion of
 self-similarity. We are faced with what is called *skeuomorphic* design, by
 which screen reading resembles print. In this way, an electronic book reader
-simulates the bent corner of a well-thumbed book. The skeuomorphic resemblance
+mimics the bent corner of a well-thumbed book. The skeuomorphic resemblance
 constitutes a metaphor worthy of critical examination. The principles of
 skeuomorphic design extend a visual metaphor from one medium to another. The
 reader already knows how to turn pages of a book. A book device therefore
 simulates pages to ease the cognitive burden of transitioning from paper to
-pixel. Instead of issuing unfamiliar commands to the computer to turn the
+pixel. Instead of issuing arcane commands meant for the machine to turn the
 page, readers perform the more habituated motion of swiping across the screen.
-The gliding motion enacts a kinetic analogy---a type of a
-metaphor---transposing properties of paper to glass.
+The gliding motion enacts a kinetic analogy---a type of a metaphor---as if to
+transpose properties of paper to glass.
 
 Our grasp on the medium weakens the more convincing the simulacrum. By
 definition, simulation "assumes a form resembling that of something else,"
@@ -418,85 +418,88 @@ whereby one referent is exchanged for another [@_simulation_2015]. To drag and
 drop a document into a trashcan on the screen, for example, should in theory
 correspond to an analogous set of data manipulations on the disk. Yet,
 "discarding a file" in this manner does not necessarily include deletion of
-data from the storage medium, as expected.  The representation of the document
+data from the storage medium, as expected. The representation of the document
 may disappear visually where the inscription endures. Such "loss of
 resemblances" could remain insignificant. Does one care whether a file was
 actually erased or not when performing deletion? Perhaps not. But in some
 cases, when it really matters---under the threat of censorship or prosecution,
 for example---the incongruence exposes the frailty of our alienation from the
-material contexts of digital knowledge production. Under duress, one may want
-the thing to stay deeply deleted. We are thus confronted again by that earlier
-problem of metaphoric immediacy. In some contexts, the metaphoric vehicle
-claims to bridge domains, to ferry content across, appropriately, without
-meddling or damaging its contents. But, if the metaphor does meddle---if it
-mediates while dissembling and dissimulating---by what process of
-authentication can one ensure the efficacy of transference? What entity makes
-good on the promise that what you see is what you get?
+material contexts of digital knowledge production. Under duress, one may
+demand the thing to stay deeply deleted. The problem of metaphoric immediacy
+reappears in the unfulfilled promise of mimesis. The poet and the critic may
+celebrate the free play of the signifier where the journalist or the accused
+would not. In many contexts, the metaphoric vehicle claims to bridge domains
+and to ferry content across, faithfully, without meddling, or damaging its
+contents. But, if the metaphor does meddle---if it mediates while dissembling
+and dissimulating---by what process of authentication can one ensure the
+efficacy of transference? What entity makes good on the promise of
+verisimilitude?
 
-Readers themselves usually bear the burden of conceptual transference. In
-pretending to turn virtual pages, we lose sight of the mechanisms producing
-the simulation. If we hope to practice anything like interpretation or close
-reading at the level of discourse, we must certainly also practice them at the
-physical site of discourse production. A truly materialist poetics would reach
-through the representation towards the medium. More than superficial
-embellishment, the skeuomorphic metaphor enacted at the surface of the digital
-literary device structures all meaning-carrying units: from individual
-letters, to words, paragraphs, chapters, pages, and books. We know that there
-is nothing inherently page-like about rigid slabs of glass and silicone. The
+All readers ultimately bear the burden of conceptual transference. In
+pretending to turn virtual pages, we lose sight of the mechanisms that give
+rise to dissimulation. If we hope to practice anything like interpretation or
+close reading at the level of discourse, we must certainly also practice them
+at the physical site of discourse production. A truly materialist poetics
+would reach through the representation towards the medium. More than
+superficial embellishment, the skeuomorphic metaphor enacted at the surface of
+the digital literary device structures all meaning-carrying units: from
+individual letters to words, paragraphs, chapters, pages, and books. The
 metaphor of "turning the page by swiping across the screen" conceals the
-structural rift between media.
+structural rift between media: between supple pages and rigid slabs of glass
+and silicone.
 
 Why would readers engage in such a charade? Why not simply make use of novel
 interfaces afforded by new technology? The literature from the field of
 human-computer interaction suggests a formalist answer: habituation
 [@carroll_metaphor_1982; @carroll_interface_1987; @spolsky_user_2001]. The
 initial effort it takes to learn to read in a new environment may discourage
-potential readers from adopting a new technology. Smart designers therefore
-rely on acculturated practice, the turning of pages in our case, to minimize
-the "friction" of adoption. Although an "electronic book reader" contains no
-pages as such, it extends the metaphor of pages to electronic reading. The
-perceived facility of use comes at a cost of critical engagement. A digital
-poem, a novel, a physician's script, or a legal contract resembles their paper
-counterparts to enable familiar actions. But while imitating paper pages, the
-reading appliance also monitors, adjusts, warns, and controls. These are the
-realities of contemporary reading practice that have yet to be included into
-our theories of interpretation.
+potential readers from adopting new technology. Smart designers therefore rely
+on acculturated practice, the turning of pages in our case, to minimize the
+"friction" of adoption. Although an "electronic book reader" contains no pages
+as such, it extends the metaphor of pages to electronic reading. The perceived
+facility of use comes at a cost of critical engagement. A digital poem, a
+novel, a physician's script, or a legal contract resembles their paper
+counterparts, in order to enable familiar actions. But while imitating paper
+pages, the reading appliance also monitors, adjusts, warns, and controls.
+These are the realities of contemporary reading practice that have yet to be
+included into our theories and practices of interpretation.
 
-Simulation conceals structuring principles large and small. Some of the
-concealed details may remain inconsequential, like the limit on how many keys
-can be pressed at once without overwhelming the circuitry of keyboard when
+Dissimulation conceals structuring principles large and small. Some of the
+occluded details remain inconsequential, like the limit on how many keys can
+be pressed at once without overwhelming the circuitry of the keyboard when
 typing. Other concealed details are of paramount importance, like digital
-rights management chips and censorship filters. Electronic books are governed
-and internalize governing structures in ways that are often purposefully
-hidden from the reader. For example, the US Digital Millennium Copyright Act
-prohibits the physical circumvention of copyright protections
+rights management chips and censorship filters, for example. Electronic books
+are governed and internalize governing structures in ways that are often
+purposefully hidden from the reader. For example, the US Digital Millennium
+Copyright Act prohibits the physical circumvention of copyright protections
 [@ku_critique_2004; @ginsburg_legal_2005; @perzanowski_rethinking_2008;
 @fry_circumventing_2009; @von_lohmann_unintended_2010]. This means that if an
 electronic book is encrypted in some way to prevent copyright infringement,
-the reader may also be prevented from examining rules for accessibility,
-preservation, or freedom of speech embedded into the device.
+the reader may also be prevented from examining codes and codices embedded
+into the device---rules governing accessibility, preservation, or freedom of
+speech. The material affordances of inscription at that deep bottom-most
+meaning-bearing medium influence all higher-level functions of
+interpretation.[^ln1-rmedium]
 
-The material affordances of text at that bottom-most meaning-bearing medium
-influence all higher-level functions of interpretation.[^ln1-rmedium] Still,
-extant theories of interpretation build on properties and assumptions attached
-to print media. For example, in Hans-Georg Gadamer's influential conception of
-art, the free play of the artistic mind transforms into material structure
-[*Gebilde*] that is both "repeatable" and "permanent" [@gadamer_truth_1975,
-110]. Similarly, in his *Interpretation Theory*, Paul Ricoeur writes about the
-"range of social and political changes" related to the invention of writing.
-For Ricoeur, human discourse is "fixed" and thereby "preserved from
-destruction" in writing [@ricur_interpretation_1976, 26-8]. The electronic
-literary device offers no such permanence. What is meant by "fixed,"
-"permanent," and "repeatable" changes with the device. Such properties come to
-us under the guise of surface representation, which obscures the flows of code
-and codex. Nothing is guaranteed in the passage of electronic text from one
-pair of hands into another. Digital formatting expands its purview far beyond
-typographical convention. The erasure of words, word substitution, automatic
-summarization, wholesale generation of discourse by algorithmic means---the
-command and control layer contains all such possibilities. What does it mean
-to read and to interpret a dynamic text, which changes depending on its
-context? How can literary analysis---close reading, philology,
-hermeneutics---persist without the fixity of print?
+Extant and still silently dominant theories of interpretation continue to
+build on properties and assumptions attached to print media. For example, in
+Hans-Georg Gadamer's influential conception of art, the free play of the
+artistic mind transforms into material structure [*Gebilde*] that is both
+"repeatable" and "permanent" [@gadamer_truth_1975, 110]. Similarly, in his
+*Interpretation Theory*, Paul Ricoeur writes about the "range of social and
+political changes" related to the invention of writing. For Ricoeur, human
+discourse is "fixed" and thereby "preserved from destruction" in writing
+[@ricur_interpretation_1976, 26-8]. The electronic literary device offers no
+such permanence. What is meant by "fixed," "permanent," and "repeatable"
+changes with the device. Such properties come to us under the guise of surface
+representation. Nothing is guaranteed in the passage of electronic text from
+one pair of hands into another. Digital formatting expands its purview far
+beyond typographical convention. The erasure of words, word substitution,
+automatic summarization, wholesale generation of discourse by algorithmic
+means---the command and control layer of a digital media device contains all
+such possibilities. What does it mean to read and to interpret a dynamic text,
+which changes depending on its context? How can literary analysis---close
+reading, philology, hermeneutics---persist without the fixity of print?
 
 Consider the commonplace task of "turning pages" in the act of writing or
 reading digital texts. In cognitive linguistic terms, the idea of paper pages
