@@ -574,37 +574,37 @@ cypher, the plain text is one that does not preclude the possibility of
 interpretation or misinterpretation. In the continuum between legibility and
 total illegibility, the texts we read today occupy a space somewhere right of
 center. They are illegible in part. The simulation of print, the digital
-metaphor, decays rapidly with time. Our archivists know this problem well:
-digital texts from our recent pasts can quickly become inaccessible as the
-software used to decode them itself passes into oblivion.
+metaphor, decays rapidly with time. Archivists know this problem well: digital
+texts from recent past can quickly become inaccessible as the software used to
+decode them itself passes into oblivion.
 
 ## Death and Incongruence
 
 In poetics, a metaphor is said to be "motivated" when a set of concepts from
 one domain extends into another to produce insight [@lakoff_contemporary_1998,
-210-1]. For example, Lakoff explains that to say "to spin one's wheels" when
-referring to someone who is thinking is to apply the reader's knowledge of
-automobiles to the mental realm. The speaker may hold a notion that spinning
-wheels waste energy without moving the car forward. The metaphor suggests that
-something similar that is happening mentally as well
-[@lakoff_contemporary_1998, 211]. A metaphor in a figurative genre like prose
-or poetry works similarly by suggesting novel and hitherto unexplored
-connections between domains. In his influential essay on metaphor the English
-literary critic I.A. Richards explained that "when we use metaphor we have two
-thoughts of different things active together and supported by a single word,
-or phrase, whose meaning is a resultant of their interaction"
-[@richards_philosophy_1936, 95]. Richards's radical contribution to the study
-of metaphor lay in the observation that metaphor operates in language,
-thought, and action ubiquitously. It does not, as previously thought, exist
-merely in the realm of poetic language. Thought in itself, Richards believed,
-is metaphoric in that the mind continually searches for patterns and
-comparisons [@richards_philosophy_1936, 94]. The motivated metaphor produces
-novel insight: a tool to explore and to make sense of the world.
+210-1]. For example, Lakoff explains: that to say "to spin one's wheels" when
+referring to someone who is thinking, is to apply the reader's knowledge of
+automobiles to the mental realm. Wheels that spin without moving the car
+forward waste energy. The metaphor suggests that something similar happens
+mentally as well [@lakoff_contemporary_1998, 211]. A metaphor in a figurative
+genre like prose or poetry suggests novel and hitherto unexplored connections
+between domains. In his influential essay on metaphor the English literary
+critic I.A. Richards wrete that "when we use metaphor we have two thoughts of
+different things active together and supported by a single word, or phrase,
+whose meaning is a resultant of their interaction" [@richards_philosophy_1936,
+95]. Richards's radical contribution to the study of metaphor lay in the
+observation that metaphor operates in language, thought, and action
+ubiquitously. It does not, as previously thought, exist merely in the realm of
+poetic language. Thought in itself, Richards believed, is metaphoric in that
+the mind continually searches for patterns and comparisons
+[@richards_philosophy_1936, 94]. The motivated metaphor produces insight: a
+tool to explore and to make sense of the world. By such means the known sheds
+light onto the unknown.
 
 Some metaphors are, in this way, more productive than others. The poetic use
 of the metaphor does not merely carry meaning across known domains, it
 produces new and unexpected connections between them. To this effect, Richards
-cites the poet Percy Shelley who wrote the following in defence of poetry:
+cites the poet Percy Shelley who wrote the following in defense of poetry:
 
 > [poetic] language is vitally metaphorical; that is, it marks the before
 > unapprehended relations of things and perpetuates their apprehension, until
@@ -623,12 +623,13 @@ invisible to their users. In other words, taken for literal truth, the
 metaphor loses its quality of mediation of ferrying across. For example, for
 many readers the idea of a "dead metaphor" itself may no longer evoke death.
 Perhaps they understand the "death" of the "dead metaphors" to function
-synonymously with "convention" or "idiom" without the gruesome
-connotations.[^ln1-dead] Without connotation, that is without doing its job of
-invoking other related explanatory domains, the metaphor withers. In Shelley's
-view, all metaphors are destined to become habituated in this way, only to be
-reborn again in poetry. In its most generative form, metaphors actively
-produce new meaning. The creative juxtaposition between two as before
+synonymously with "convention" or "idiom" without the gruesome connotations
+that accompany the end of biological life.[^ln1-dead] The metaphor withers
+once connotation is lost. What was once a novel explanatory connection between
+two domains becomes the denotative, in the ordinary sense---a platitude. In
+Shelley's view, all metaphors are destined to become habituated in this way,
+only to be reborn again in poetry. In their most generative form, metaphors
+actively produce new meaning. The creative juxtaposition between two as before
 unrelated conceptual domains brings new aspects of experience to light. But
 with time, the poetic metaphor degrades into a tired cliché. It no longer
 "perpetuates understanding." It dies in a sense of becoming a mere shortcut to
@@ -636,8 +637,9 @@ understanding. In Viktor Shklovsky's words, we "cease to experience" the
 trope. The metaphor "dries up" when we begin recognizing it without
 apprehension [@shklovsky_voskreshenie_1914]. It no longer generates new
 connections between domains, but merely reinforces existing ones. Vilem
-Flusser notes that habituated idiom proceeds "smoothly," giving us no pause,
-without "bumps or interruptions" [@flusser_freedom_2003, 13 and 82].
+Flusser put it another way, in writing that habituated idiom proceeds
+"smoothly," giving us no pause, without "bumps or interruptions"
+[@flusser_freedom_2003, 13 and 82].
 
 Lakoff famously took exception with the idea of dead metaphors, arguing that
 even those metaphors that are thoroughly habituated still play a vital part in
@@ -646,14 +648,11 @@ still can't quite grasp the basic ideas of quantum mechanics*. Grasping in
 this case is used as a synonym to "understanding." It indicates a transference
 of properties between physical action (grasping) and mental action
 (understanding). Despite being a cliché, the metaphor is alive in a sense,
-Lakoff argues, because it continues to perform a function, giving a name to a
-mental activity that we would otherwise find difficult to explain precisely.
+Lakoff argues, because it continues to perform a function, naming a mental
+activity that we would otherwise find difficult to explain with precision.
 Such a metaphor is less dead than other, perhaps more novel, "one off" poetic
-metaphors that failed to become widely circulating cultural tropes. Shelly's
-and Shklovsky's ideal poetic metaphor degrades after repeated use. Its value
-lies in its novelty and capability for regeneration. Lakoff's everyday
-metaphor is not novel, but it is vital precisely because it is used widely. It
-bridge domains productively and therefore continues living.
+tropes that fail to circulate widely. The metaphor dies in the sense of being
+overused, but it dies also in another sense for not being used at all.
 
 A truly dead metaphor for Lakoff is one in which the original source image no
 longer makes sense. He gives the example of the English word *pedigree*, which
