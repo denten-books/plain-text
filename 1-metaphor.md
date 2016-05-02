@@ -102,8 +102,8 @@ archives from graphic design, literary theory, and computer science---fields
 that come into direct contact in the 1970s, 1980s, and 1990s. The trajectory
 from the conversational to the "direct" model of human-computer interaction
 points to the speculative possibility of seemingly unmediated coupling between
-human and machine---a possibility that I would like to acknowledge and finally
-reject outright in the conclusion of the chapter. The appeal to immediacy and
+human and machine---a possibility that I acknowledge and finally reject
+outright in the conclusion of the chapter. The appeal to immediacy and
 immersion in the principles of "direct" manipulation conceals the nature of
 mediation.
 
@@ -119,12 +119,12 @@ terms and to advance its critique from within. It also bares mentioning that
 in the language of cognitive metaphor theory all figurative tropes of
 comparison---hyperbole, metonymy, synecdoche, or simile---fall under the
 category of metaphor. To avoid confusions of the sort, to get onto the same
-page if you will, I would like to spend a few pages now delving into the
-technical vocabulary of metaphor theory. This language will later help us
-explore the ways by which metaphors make and unmake everyday computational
-environments of human habitation. I am interested here and throughout the book
-in a particular mode of virtual habitation and habituation, which by its very
-nature begins and ends with the technologies of metaphor.
+page if you will, I plan to spend a few pages now delving into the technical
+vocabulary of metaphor theory. This language will later help us explore the
+ways by which metaphors make and unmake everyday computational environments of
+human habitation. I am interested here and throughout the book in a particular
+mode of virtual habitation and habituation, which by its very nature begins
+and ends with the technologies of metaphor.
 
 In the 1980s, a number of influential publications in the field of
 human-computer interaction relied on insights from cognitive metaphor theory
@@ -587,24 +587,26 @@ referring to someone who is thinking, is to apply the reader's knowledge of
 automobiles to the mental realm. Wheels that spin without moving the car
 forward waste energy. The metaphor suggests that something similar happens
 mentally as well [@lakoff_contemporary_1998, 211]. A metaphor in a figurative
-genre like prose or poetry suggests novel and hitherto unexplored connections
-between domains. In his influential essay on metaphor the English literary
-critic I.A. Richards wrete that "when we use metaphor we have two thoughts of
-different things active together and supported by a single word, or phrase,
-whose meaning is a resultant of their interaction" [@richards_philosophy_1936,
-95]. Richards's radical contribution to the study of metaphor lay in the
-observation that metaphor operates in language, thought, and action
-ubiquitously. It does not, as previously thought, exist merely in the realm of
-poetic language. Thought in itself, Richards believed, is metaphoric in that
-the mind continually searches for patterns and comparisons
-[@richards_philosophy_1936, 94]. The motivated metaphor produces insight: a
-tool to explore and to make sense of the world. By such means the known sheds
-light onto the unknown.
+genre, prose or poetry for example, suggests novel and hitherto unexplored
+connections between domains.
 
-Some metaphors are, in this way, more productive than others. The poetic use
-of the metaphor does not merely carry meaning across known domains, it
-produces new and unexpected connections between them. To this effect, Richards
-cites the poet Percy Shelley who wrote the following in defense of poetry:
+In his influential essay on metaphor the English literary critic I.A. Richards
+wrote that "when we use metaphor we have two thoughts of different things
+active together and supported by a single word, or phrase, whose meaning is a
+resultant of their interaction" [@richards_philosophy_1936, 95]. Richards's
+radical contribution to the study of metaphor lay in the observation that
+metaphor operates in language, thought, and action ubiquitously. It does not,
+as previously thought, exist merely in the realm of poetic language. Thought
+in itself, Richards believed, is metaphoric in that the mind continually
+searches for patterns and comparisons [@richards_philosophy_1936, 94]. The
+motivated metaphor produces insight: a tool to explore and to make sense of
+the world. By such means the known sheds light onto the unknown.
+
+Some metaphors are, in this figurative way, more productive than others. The
+poetic use of the metaphor does not merely carry meaning across known domains,
+it produces new and unexpected connections between them. To this effect,
+Richards cites the poet Percy Shelley who wrote the following in defense of
+poetry:
 
 > [poetic] language is vitally metaphorical; that is, it marks the before
 > unapprehended relations of things and perpetuates their apprehension, until
@@ -614,103 +616,113 @@ cites the poet Percy Shelley who wrote the following in defense of poetry:
 > thus disorganized, language will be dead to all the nobler purposes of human
 > intercourse [@shelley_essays_1840].
 
-In this, Shelley anticipated what the cognitive school of metaphor theory was
-to confirm by empirical means more than a century later
-[@mojtabai_delusion_2000; @billig_metaphor_2005]. Metaphors do not "die" as
-such. They continue to live, but also become naturalized: that is understood
-literally. They create connections that with time become habituated and
-invisible to their users. In other words, taken for literal truth, the
-metaphor loses its quality of mediation of ferrying across. For example, for
-many readers the idea of a "dead metaphor" itself may no longer evoke death.
-Perhaps they understand the "death" of the "dead metaphors" to function
-synonymously with "convention" or "idiom" without the gruesome connotations
-that accompany the end of biological life.[^ln1-dead] The metaphor withers
-once connotation is lost. What was once a novel explanatory connection between
-two domains becomes the denotative, in the ordinary sense---a platitude. In
-Shelley's view, all metaphors are destined to become habituated in this way,
-only to be reborn again in poetry. In their most generative form, metaphors
-actively produce new meaning. The creative juxtaposition between two as before
-unrelated conceptual domains brings new aspects of experience to light. But
-with time, the poetic metaphor degrades into a tired cliché. It no longer
-"perpetuates understanding." It dies in a sense of becoming a mere shortcut to
-understanding. In Viktor Shklovsky's words, we "cease to experience" the
-trope. The metaphor "dries up" when we begin recognizing it without
-apprehension [@shklovsky_voskreshenie_1914]. It no longer generates new
-connections between domains, but merely reinforces existing ones. Vilem
-Flusser put it another way, in writing that habituated idiom proceeds
+In highlighting the continually regenerative power of the poetic metaphor,
+Shelley anticipated what the cognitive school of metaphor theory was to
+confirm by empirical means more than a century later [@mojtabai_delusion_2000;
+@billig_metaphor_2005]. Metaphors do not "die" as such. They continue to live,
+but also become naturalized: that is understood literally. They create
+connections that with time become habituated and invisible. Taken for literal
+truth, the metaphor loses its quality of mediation or literally "ferrying
+across."[^ln1-greek] For example, for many readers the idea of a "dead metaphor" itself no
+longer evokes death. The metaphor withers: once a connotation is lost it mo
+comes a denotative, statement lacking any exploratory or explanatory
+potential, a commonplace. In Shelley's view, all metaphors are destined to
+become habituated in this way, only to be reborn again in poetry. In their
+most generative form, metaphors produce new meaning actively. The creative
+juxtaposition between two as before unrelated conceptual domains brings new
+aspects of experience to light. With time, the poetic metaphor degrades into a
+tired cliché. It no longer "perpetuates understanding." It dies in a sense of
+becoming an instrumental shortcut. In Viktor Shklovsky's words, we "cease to
+experience" the trope. The metaphor "dries up" when we begin recognizing it
+without apprehension [@shklovsky_voskreshenie_1914]. It no longer generates
+new connections between domains, but merely reinforces existing ones. Vilém
+Flusser put it another way in writing that habituated idiom proceeds
 "smoothly," giving us no pause, without "bumps or interruptions"
 [@flusser_freedom_2003, 13 and 82].
 
-Lakoff famously took exception with the idea of dead metaphors, arguing that
-even those metaphors that are thoroughly habituated still play a vital part in
+Lakoff famously took exception to the idea of dead metaphors, arguing that
+even those metaphors that are thoroughly habituated can play a vital part in
 structuring everyday experience. He gave the example of the sentence: *He
-still can't quite grasp the basic ideas of quantum mechanics*. Grasping in
-this case is used as a synonym to "understanding." It indicates a transference
-of properties between physical action (grasping) and mental action
-(understanding). Despite being a cliché, the metaphor is alive in a sense,
-Lakoff argues, because it continues to perform a function, naming a mental
+still can't quite grasp the basic ideas of quantum mechanics*. Grasping, in
+this case, is used as a synonym to "understanding." It indicates a
+transference of properties between physical (grasping) and mental
+(understanding) realms. Despite being commonplace, the metaphor is alive,
+Lakoff argued, because it continues to perform a function, naming a mental
 activity that we would otherwise find difficult to explain with precision.
 Such a metaphor is less dead than other, perhaps more novel, "one off" poetic
-tropes that fail to circulate widely. The metaphor dies in the sense of being
-overused, but it dies also in another sense for not being used at all.
+tropes that fail to circulate widely [@lakoff_death_1987]. The metaphor dies
+in the sense of being overused, but it dies also in another sense for not
+being used at all.
 
 A truly dead metaphor for Lakoff is one in which the original source image no
 longer makes sense. He gives the example of the English word *pedigree*, which
 originally referred to the French for "crane's foot," or *pied de grue*. The
-foot was used in a typographical flourish to decorate centuries-old
-family-tree diagrams. In the previous example, when we spoke of the
-metaphorical "grasping" of ideas, both sides of the domain transference were
-readily available to us. We understood something about grasping things and
-extended it to the capacity of the mind to take hold of ideas. By contrast,
-the *pied de grue* contained within the English *pedigree* is no longer
-accessible to the average speaker. In the first case the metaphor is merely
-tired, where it is completely dead in the other. All habituated metaphors like
-"grasping" and "pedigree" lose their symbolic connotations in use. But unlike
-"pedigree," the metaphorical nature of "grasping ideas" is at least available
-for casual interpretation. The underlying metaphor THE MIND IS LIKE A HAND
-generates other meaningful phrases like "you have to *let go* of this idea."
-The crane's foot in the English "pedigree" has stopped generating new
-metaphors. The conventional notion of dead metaphors does not appropriately
-differentiate between the two cases [@lakoff_death_1987;
+foot was historically used in a typographical flourish to decorate family-tree
+diagrams. In the previous example, when we spoke of the metaphorical
+"grasping" of ideas, both sides of the domain transference were readily
+available to us. We understood something about grasping things and extended it
+to the capacity of the mind to take hold of ideas. By contrast, the *pied de
+grue* contained within the English *pedigree* is no longer accessible to the
+average speaker. Most do not know what it means. In the first case the
+metaphor is merely tired from frequent use, where it is completely dead in the
+other. All habituated metaphors like "grasping" and "pedigree" lose a measure
+of their symbolic connotation with time. But unlike "pedigree," the
+metaphorical nature of "grasping ideas" is at least available for casual
+interpretation. One may reflect upon it with little effort: a bath time
+thought. The underlying metaphor THE MIND IS LIKE A HAND generates other
+meaningful phrases like "you have to *let go* of this idea." The crane's foot
+in the English "pedigree" has stopped generating new metaphors. The
+conventional notion of dead metaphors does not appropriately differentiate
+between the two cases of metaphor dysfunction [@lakoff_death_1987;
 @muller_metaphors_2008]. The metaphor sometimes "dies" but continues to
-perform its function of intuitively connecting two disparate domains. At other
+connect two disparate domains, is the case with grasping ideas. At other
 times, the metaphor dies in the sense of one domain becoming no longer
-accessible to its user. Furthermore, we might add that a wholly unmotivated
-metaphor does no work at all. Thus the Mad Hatter poses his famous nonsensical
-riddle in Lewis Carroll's *Alice in Wonderland*: How is a raven like a writing
-desk? The complete dissimilarity between the two domains---of animals and
+accessible to its user, as is the case with pedigree.
+
+Furthermore, I might add that a wholly unmotivated metaphor does not live at
+all. Thus the Mad Hatter poses his famous nonsensical riddle in Lewis
+Carroll's *Alice in Wonderland*: How is a raven like a writing desk? The
+complete dissimilarity between the two domains---of animals and
 furniture---prevents any productive congruence.[^ln1-carroll] No domain
 mapping happens between ravens and writing desks. Not having been born, the
 metaphor dies in yet another sense.
 
-With these comments on broken and dead metaphors in mind, we may ask: To what
-extent does the interface metaphor live or die by the above definitions? When
-discarding a document into a trash bin, in our recurring example, users should
-theoretically map their knowledge of paper documents and paper waste baskets
-onto the computational domain. The icon should work similarly to the object it
-purports to simulate. Instead, the *idea* of discarding something substitutes
-for the *material reality* of the corresponding action. The concept blends not
-with another conceptual domain but with the material affordances of the target
-medium. Such material affordances---our ability to actually discard data, for
-example---stand in an arbitrary relationship to the source domain.  Simply
-put, we expect the thing to be deleted, but it is not. This incongruence
-breaks Lakoff's Invariance Principle. Whatever structural changes we expect to
+With these comments on broken and dead metaphors in mind, I return to the kind
+of metaphors we have been discussing earlier in the chapter, the kind found on
+the computer screens. To what extent does the interface metaphor live or die
+by the above definitions?
+
+When discarding a document into a trash bin, in our recurring example, users
+should theoretically map their knowledge of paper documents and paper waste
+baskets onto the computational domain. The icon should work similarly to the
+object it purports to simulate. Instead, the *idea* of discarding something
+substitutes for the *material reality* of the corresponding action. The
+concept (of discarding something physical) blends not with another conceptual
+domain (erasing data) but with the contingent material affordances of the
+target medium (solid state storage). Such material affordances---our ability
+to actually erase data, for example---stand in an arbitrary relationship to
+the depicted figure. We expect the thing to be deleted, but it is not. That
+trash can empties, but we have no way to verify if the transference of
+properties happened properly or not. This incongruence, a breakdown of trust
+in domain transference, violates Lakoff's Invariance Principle, which, if you
+would recall, describes the projection of structure form the source domain "in
+a way that is consistent with the inherent structure of target domain"
+[@lakoff_contemporary_1998, 215] Whatever structural changes we expect to
 happen in the source domain do not carry over to the target. The metaphor
-breaks almost as badly as the transference between desks and ravens.  The
+breaks almost as badly as the transference between desks and ravens. The
 appearance of taking out the trash without the corresponding erasure of data
 becomes a dead metaphor even under Lakoff's strict definitions. As was the
 case with the "crane's foot" in the English "pedigree," the user of the
 simulated document dustbin is missing one part of the metaphor equation.
-Where in the case of "pedigree" English speakers fail to grasp the source or
-the tenor of the metaphoric substitution, the case of the virtual dustbin is
-missing the target, or the vehicle of the action. Discarding a document into
-the virtual trash bin does not in fact correspond to a similar action in the
-target domain of the storage medium. In either case, in failing to achieve the
-full transference between source and target domains the metaphor ceases to
-function properly, by definition [@lakoff_death_1987]. The interface metaphor
-fails to achieve motivation. The material realities of the metaphor are not
-simply missing, they are misrepresented. The analogy between discarding paper
-and erasing bits breaks down in the worst possible way.
+Where with "pedigrees" English speakers fail to grasp the source or the tenor
+of metaphoric substitution, the virtual dustbin is missing the target, or the
+vehicle of the action. Discarding a document into the virtual trash bin does
+not in fact correspond to a similar action in the target domain of the storage
+medium. In either case, in failing to achieve the full transference between
+source and target domains the metaphor ceases to function properly, by
+definition. The interface metaphor fails to achieve motivation. The
+transferred properties are not simply missing in transit, they are manifestly
+misrepresented.
 
 ## Mimesis
 
@@ -720,21 +732,21 @@ to write that "if designing interfaces feels like painting on cave walls by
 flickering torchlight, it is only because we, the designers, have not availed
 ourselves of better illumination: the science of the mimetic arts, poetics"
 [@laurel_brenda_interface_1986, 67]. Laurel, who started her academic career
-in theater studies, went on to work for companies like Apple, Activision,
-Atari, and Sun Microsystems. Her work, cited in more than 120 technical
-patents, reminds us of the close link between poetics and the design of
-human-computer interaction. It is all the more important today, as immersive
-computational environments begin to structure experience beyond the merely
-instrumental. Computers mediate in the interface between the public and the
-private, between art and politics, and between forces of capital and control.
-The simulacrum requires that we advance a reflective "science of the mimetic
-arts" lest we lose a sense of what Michael Taussig has called the space
-ulterior to mimesis [@taussig_mimesis_1993, 129-144]. In other words, the
-suspension of disbelief must remain, as it was in Samuel Coleridge's original
-formulation, a *willful* act, containing further a "semblance of truth"
-required to animate the shadows of imagination [@coleridge_biographia_1917,
-6-7]. An involuntary or worse yet forced suspension of disbelief can only lead
-to total critical disempowerment.
+in theater studies, went on to work for Apple, Activision, Atari, and Sun
+Microsystems among other companies. Her work, widely cited in technical
+literature, reminds us of the close connection between poetics and the design
+of human-computer interaction. It is all the more important today, as
+immersive computational environments begin to structure experience beyond the
+merely instrumental. Computers mediate in the interface between the public and
+the private, between art and politics, and between forces of capital and
+control.  The simulacrum requires that we advance a reflective "science of the
+mimetic arts" lest we lose a sense of what Michael Taussig has called the
+space ulterior to mimesis [@taussig_mimesis_1993, 129-144]. In other words,
+the suspension of disbelief must remain, as it was in Samuel Coleridge's
+original formulation, a *willful* act, containing further a "semblance of
+truth" required to animate the shadows of imagination
+[@coleridge_biographia_1917, 6-7]. An involuntary or worse yet forced
+suspension of disbelief can only lead to total critical disempowerment.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
@@ -768,7 +780,7 @@ These methods of programming were time consuming and prone to error. "An octal
 desk calculator was nice to have," a historian of the system would later quip
 [@gruenberger_history_1979, 58]. The JOSS experiment was meant to introduce a
 kind of an interpreter that sat between the human operator and the machine,
-facilitating communication in a friendly, English-like language. Think of JOSS
+facilitating communication in a friendly, conversational manner. Think of JOSS
 as the "user's computing aide and a single contact with the computer," the
 engineers wrote [@shaw_joss:_1964, 456]. Instead of feeding punch cards into a
 machine, the operator would now use a standard typewriter. Instead of flipping
@@ -878,8 +890,8 @@ in an arbitrary relationship to the intended effect, whereas in the direct
 manipulation model the knob and the movement of the paddle related
 mimetically. To be more precise, the direct manipulation paradigm advocated
 for an "iconic" relationship between representation and the object of interest
-[@norman_user_1986, 110]. Like onomatopoeic words, the movement of the knob
-resembles the movement of the thing it represents. Edwin Hutchins, Donald
+[@norman_user_1986, 110]. Similar to onomatopoeic words, the movement of the
+knob resembles the movement of the thing it represents. Edwin Hutchins, Donald
 Norman, and James Hollan write: "There is an economy here in that the user's
 knowledge of the structure of the surface acoustical form has a non-arbitrary
 relationship to meaning [...] The same sort of thing can be done in the design
@@ -921,12 +933,12 @@ of using it; it comes into focus at the periphery of tool use
 [@heidegger_being_1996, 65]. The metaphoric device frustrates the Heideggerian
 vision of technology that reveals. At hand, the device takes shape as a
 keyboard, a mouse, or a touch screen. But in the mind, as a simulation, it
-dissembles to behave like a page, a folder, or a wastepaper bin. The tool---a
-keyboard or a touch screen---is not encountered for what it is. Nor does a
-simulated tool reveal anything about the material it affects. The simulation
-produces knowledge neither about the thing being simulated (paper or books,
-for example) nor about the medium giving rise to the simulation (computational
-device, in our example).
+dissembles to behave similar to page, a folder, or a wastepaper bin. The
+tool---a keyboard or a touch screen---is not encountered for what it is. Nor
+does a simulated tool reveal anything about the material it affects. The
+simulation produces knowledge neither about the thing being simulated (paper
+or books, for example) nor about the medium giving rise to the simulation
+(computational device, in our example).
 
 The simulation is rather designed to conceal the mediated nature of virtual
 experience. It manufactures what Laurel and others call an "interactive
@@ -1026,8 +1038,8 @@ space ship on the screen. The car is the "direct object of interest" for a
 driver, just like the virtual space ship is for a gamer.  But unlike video
 game players, authors attempting to delete sensitive information are not
 interested in the virtual representation of their documents. The object of
-their interest is not mimetic. They would like to erase the document itself,
-located somewhere within the machine. In cases like these, inhabitants of the
+their interest is not mimetic. They want to erase the document itself, located
+somewhere within the machine. In cases like these, inhabitants of the
 simulated, virtual world have an interest in objects outside of it. The
 paradigm of direct manipulation instead veils the object from view, suspending
 the rules of physical interaction in favor of the virtual. Far from being
@@ -1104,21 +1116,20 @@ forms: paper, ink, silicone. Media intercedes. As technological dreams become
 reality they also grow less interesting and more mundane. We tend not to think
 about them; they become habit. Habituation smoothes the rough edges of
 irreconcilability between human and machine. The tool recedes from view,
-beginning to seem like a natural and direct extension of the body. I do not
-mean to dismiss the mastery of those engaged in creating the illusion of
-directness. Pleasure and catharsis are important in some contexts. In other
-contexts, we must privilege reflection, analysis, and interruption.
-Computational poetics should therefore aim to arrest the encounter: to make it
-seem less natural, to bring the receding media to light, and to expose the
-mediating systems supporting the simulation. A measure of discomfort in the
-fit between bodies, keyboards, and screens ensures our ability to structure
-the encounter on our own terms: to opt in when useful and to opt out when
-necessary. My concern is not with the metaphysical entailments of a possible
-posthuman future. The illusion of directness belies the very human mechanisms
-of command and control. The simulation ultimately embodies specific power
-structures in an economy of exchange between physical and mental resources. In
-this market there are those who profit and those whose virtual avatars become
-a commodity.
+beginning to seem a natural and direct extension of the body. I do not mean to
+dismiss the mastery of those engaged in creating the illusion of directness.
+Pleasure and catharsis are important in some contexts. In other contexts, we
+must privilege reflection, analysis, and interruption.  Computational poetics
+should therefore aim to arrest the encounter: to make it seem less natural, to
+bring the receding media to light, and to expose the mediating systems
+supporting the simulation. A measure of discomfort in the fit between bodies,
+keyboards, and screens ensures our ability to structure the encounter on our
+own terms: to opt in when useful and to opt out when necessary. My concern is
+not with the metaphysical entailments of a possible posthuman future. The
+illusion of directness belies the very human mechanisms of command and
+control. The simulation ultimately embodies specific power structures in an
+economy of exchange between physical and mental resources. In this market
+there are those who profit and those whose virtual avatars become a commodity.
 
 The above comments apply to computation generally. We will spend the following
 chapters peeling apart the layers of the literary and the bibliographic
@@ -1150,6 +1161,9 @@ entity" [@young_metaphor_1987, 312].
 
 [^ln1-dead]: For a book length summary on this topic see
 @muller_metaphors_2008.
+
+[^ln1-greek]: In modern Greece metaphor is the ordinary word for
+transportation, often inscribed on trucks and shipping containers.
 
 [^ln1-metalakoff]: [@lakoff_contemporary_1998] See also
 @turner_conceptual_1995; @ruiz_de_mendoza_ibanez_nature_1998;
