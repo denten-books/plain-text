@@ -1325,7 +1325,7 @@ relevant to our discussion on surface reading. To the extent that control
 codes are legible to the interpreter, they are also open to "abuse and
 circumvention." For this reason, encryption plays a key part in the smart
 contracts system. Data and control structures embedded into modern documents
-are encoded in such a way as to to prevent "unauthorized access." The reader
+are encoded in such a way as to prevent "unauthorized access." The reader
 is by these means able to access the encrypted information only through
 sanctioned means. Any mode of access other than the official is deemed
 illicit. Encryption brings us to the glaring problem at the heart of smart

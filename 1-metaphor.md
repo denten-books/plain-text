@@ -295,7 +295,7 @@ contained *items* or "icons representing documents or applications"
 application, the engineers at IBM describe the "contents of the notebook
 metaphor," which are "displayed as a stack of sheets." "The interface [...]
 permits a user to directly manipulate the sheets in the notebook metaphor."
-[@glaser_graphical_1995]. In these words we begin to to glimpse the trouble
+[@glaser_graphical_1995]. In these words we begin to glimpse the trouble
 with the structural metaphor paradigm of human-interface design. The idea of
 "direct manipulation" refers to the im-mediate access to the metaphor, that is,
 paradoxically, the appearance of access without mediation---the occlusion of
@@ -739,19 +739,20 @@ of human-computer interaction. It is all the more important today, as
 immersive computational environments begin to structure experience beyond the
 merely instrumental. Computers mediate in the interface between the public and
 the private, between art and politics, and between forces of capital and
-control.  The simulacrum requires that we advance a reflective "science of the
+control. The simulacrum requires that we advance a reflective "science of the
 mimetic arts" lest we lose a sense of what Michael Taussig has called the
-space ulterior to mimesis [@taussig_mimesis_1993, 129-144]. In other words,
-the suspension of disbelief must remain, as it was in Samuel Coleridge's
-original formulation, a *willful* act, containing further a "semblance of
-truth" required to animate the shadows of imagination
-[@coleridge_biographia_1917, 6-7]. An involuntary or worse yet forced
-suspension of disbelief can only lead to total critical disempowerment.
+space ulterior to mimesis [@taussig_mimesis_1993, 129-144]. The suspension of
+disbelief must remain, as it was in Samuel Coleridge's original formulation, a
+*willful* act, containing further a "semblance of truth" required to animate
+the shadows of imagination [@coleridge_biographia_1917, 6-7]. An involuntary
+or worse yet forced suspension of disbelief can only lead to total critical
+disempowerment.
 
 Before the 1980s, the dominant paradigm of interacting with machines was the
 dialog [@shaw_joss:_1964; @cameron_dialog:_1967; @gaines_timesharing_1986;
 @martin_computerized_1970; @martin_design_1973]. Already in 1950, Alan Turing
-imagined a conversation between a critic and an artificially intelligent poet:
+imagined a conversation between an artificially intelligent poet and its
+critic:
 
 >`Interrogator:` In the first line of your sonnet which reads "Shall I compare
 thee to a summer's day," would not "a spring day" do as well or better?  
@@ -788,7 +789,7 @@ switches the operator typed words. JOSS thus referred both to the "simple
 language" for machine instruction and to this new "remote console" way of
 interacting with the computer. JOSS and the user would "take turns controlling
 the typewriter" in the words of the documentation. The computerized aide
-understood simple commands like `do`, `go`, and `type`.  Given a number of
+understood simple commands like `do`, `go`, and `type`. Given a number of
 predetermined commands, it would attempt to respond with a result. When
 confused, or when given an unfamiliar command, its default for an unspecified
 error mimicked human confusion: "Eh? [@shaw_joss:_1964]"
@@ -821,9 +822,10 @@ here. There is a bottle of water here.`
 
 Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model posed several significant
-downsides. While resembling human communication, it in fact used only a
-limited set of words. Researchers from the U.S. Air Force academy would later
-write:
+challenges to the machine user. It resembled human communication in all its
+richness and variety, where in fact the machine "spoke" and "understood" only
+a limited set of words. Researchers from the U.S. Air Force academy would
+later write:
 
 > The lower cost of computer access and the proliferation of on-line systems
 produced a new breed of users, people whose expertise was in some area other
@@ -838,17 +840,12 @@ roughly 295 commands, and knew about 1,600 words in response arranged into
 several hundred canned phrases.[^ln1-count] Faced with an unfamiliar word, it
 could only repeat "That's not a verb I recognise."
 
-[^ln1-count]: Rick Adams maintains the source code for a number of early
-versions of the game at http://rickadams.org/adventure/e_downloads.html.  I
-used PDP-10 Fortran version and ran `tr`, `uniq`, and the `wc` Unix utilities
-to isolate and count the unique words from the data file.
-
 By the 1980s, a new breed of metaphorical interfaces gained widespread
 prominence. If *Colossal Cave Adventure* epitomized the conversational model
 of computing, games like the early but popular *Pong*, *Space Invaders*, and
-*Donkey Kong* epitomized the paradigm of "direct manipulation." According to
-Ben Shneiderman, the researcher who coined the term in 1982, direct
-manipulation involved three key principles:
+*Donkey Kong* heralded the paradigm of "direct manipulation." According to Ben
+Shneiderman, the researcher who coined the term in 1982, direct manipulation
+involved three key principles:
 
 1. Continuous representation of the object of interest.
 2. Physical actions or labelled button presses instead of complex syntax.
@@ -1153,6 +1150,11 @@ help tie in with the introduction -->
 "Because it can produce a few notes, though they are very flat; and it is
 nevar [sic] put with the wrong end in front" [@carroll_alices_1971, xv;
 @susina_why_2001, 16-7].
+
+[^ln1-count]: Rick Adams maintains the source code for a number of early
+versions of the game at http://rickadams.org/adventure/e_downloads.html.  I
+used PDP-10 Fortran version and ran `tr`, `uniq`, and the `wc` Unix utilities
+to isolate and count the unique words from the data file.
 
 [^ln1-database]: In describing his Relational Calculus Expression for Metaphor
 Generation Lawrence F. Young writes that the "key to this model is the
