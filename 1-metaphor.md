@@ -1168,38 +1168,37 @@ there are those who extract rents from virtual, mimetic inhabitance and those
 whose dwelling becomes a commodity.
 
 To insist on mediation is to breach the continuity between body and
-prosthesis, nature and technology. I would like to imagine in conclusion the
-possibility of indexical interfaces, the kind of signs that connect to their
-objects of interest through palpable causal linkages like smoke and fire,
-tissue damage and pain. Is it possible, in other words, to inhabit virtual
-worlds without simulation, to connect viscerally to the material conditions of
-their production? Can one inhabit a simulation while keeping the 
-
-The question is of vital political importance, because
-whether we have answers or not, implements of symbolic manipulation---books
-and pens that once lay safely at an arm's length---move inevitably closer to
-the mind's eye. For now, the screen and the hard drive, mechanisms of memory
-storage and image projection, remain extrinsic to the body. They are at this
-moment still amenable to circumspection. But the gap is closing fast. The
-political consequences of our technological choices become more difficult to
-reveal in proportion to their habituation. Today, people who forego the use of
+prosthesis, human and machine, nature and technology. I would like to imagine
+in conclusion the possibility of indexical interfaces, the kind of signs that
+connect to their objects of interest through palpable causal linkages like
+smoke and fire, tissue damage and pain. Is it possible, in other words, to
+inhabit virtual worlds while keeping the scaffolding of the simulation in
+view, to connect viscerally to the material conditions of habit production?
+The question is of vital political importance, because whether we have answers
+or not, implements of symbolic manipulation---books and pens that once lay
+safely at an arm's length---move inevitably closer to the mind's eye. For now,
+the screen and the hard drive, mechanisms of memory storage and image
+projection, remain extrinsic to the body. They are at this moment still
+amenable to circumspection. But the gap is closing fast. The political
+consequences of our technological choices become more difficult to reveal in
+proportion to their habituation. Today, people who forego the use of
 electronic tablets, smart phones, laptops, and notebooks could seem merely
 whimsical or quaint. What if tomorrow they be judged mentally deficient or
 barred from participating fully in the public life? The human is endangered
-not by technology, Heidegger wrote, but by its determinism. Technology
-endangers in so far as it is made essential in a way that precludes
-revealment, the search for truth [@heidegger_question_1977, 331-4]. The
-ability to read and to write was previously fraught precisely because of its
-potential to determine the human experience. But this danger cannot be
-banished, only embraced and confronted. It is no accident that the struggle
-for universal literacy accompanied most political revolutions. Poets are
-important to the revolution not because they create beautiful aesthetic
-objects, but because they retain the non-instrumental, emancipatory potential
-of reading and writing. What can be said in parallel about digital literacy,
-the poetry of embodied devices? What if we fail to develop a sense of
-computational poetics in the face of frenzied instrumental development of
-computer technology? How can one empty the hand, the mind, in breach of
-technesis? And what will the emptiness signify: for whom and who with?
+not by technology, Heidegger wrote, but by its determinism. At stake is
+precisely an insistence on drawing essential boundaries in a way that
+precludes revealment, the autonomous search for truth
+[@heidegger_question_1977, 331-4]. The ability to read and to write was
+politically fraught because of its potential to determine the human
+experience. It is by no accident that the struggle for universal literacy
+accompanied most political revolutions. Poets are important to the revolution
+not because they create beautiful aesthetic objects, but because they retain
+the non-instrumental, emancipatory potential of reading and writing. What can
+be said in parallel about digital literacy, the poetry of embodied and
+embedded devices? What if we fail to develop a sense of computational poetics
+in the face of frenzied instrumental development of computer technology? How
+can one empty the hand, the mind, in breach of technesis? And what will the
+emptiness signify: for whom and who with?
 
 <!-- notes -->
 <!-- notes -->
