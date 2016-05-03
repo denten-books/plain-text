@@ -1078,34 +1078,34 @@ connection be made direct with the receiver's central nervous system"
 [@halstead_genesis_1949, 451].
 
 The history of human-computer interaction began with the manipulation of
-physical switches, first by hand and then by removable storage media like
-paper tape and punch card. The next phase was dialogic and conversational.
-Conversational computing introduced the idea of a mediating agent, an
-interpreter, who could translate from a limited number of natural human
-language commands into the specialized vocabulary of signals that could alter
-the machine configuration. The "direct manipulation" school of human-computer
-interaction dispenses with machine states, leading us further towards
-immersive mimesis in which virtual environments resemble real-world objects
-and their properties.
+physical switches, first by hand and then by proxy, through removable storage
+media like paper tape and punch card. The next phase was dialogic and
+conversational. Conversational computing introduced the idea of a mediating
+agent, an interpreter, who could translate from a limited number of natural
+human language commands into the specialized vocabulary of signals that
+changed machine configuration states. The "direct manipulation" school of
+human-computer interaction dispensed with visible machine states, leading us
+further towards immersive mimesis in which virtual environments resemble
+real-world objects and their properties.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
 manipulation leads to the totalizing loss of resemblances and designations
 that Baudrillard warned us about. At its logical extreme, the simulacrum
 supplants the thing being simulated. It appears as hyper-reality, the
 experience of unmediated interaction without awareness or sense of the
-underlying referent. All "objects of interest" within such a modeled world are
+underlying referent. All "objects of interest" within such a model world are
 fabricated objects. They are thus limited to the external, artificial
-constraints imposed by their makers. Such manufactured experiences present us,
-the "users," a more modern word for a human resource, with compelling,
-possibly cathartic, metaphors. The metaphor extends far beyond entertainment,
-subsuming all spheres of social activity mediated by computers. The
-manipulation of metaphors---a reflective, not merely circumspect inhabitance
-of virtual worlds---therefore requires not just a willing suspension of
-disbelief, but also poetics: hermeneutics, close reading, distant reading,
-deconstruction, morphology, in short precisely the legacy of interpretive
-practice that stretches from Aristotle to Susan Sontag and beyond. The
-suspension of disbelief otherwise threatens to become a permanent condition,
-alienating as it is pleasurable or cathartic.
+constraints imposed by their makers. Manufactured experiences present us, the
+"users," a more modern word for a human resource, with compelling, possibly
+cathartic, metaphors. The metaphor extends far beyond entertainment, subsuming
+all spheres of social activity mediated by computers. The manipulation of
+metaphors---a reflective, not merely circumspect inhabitance of virtual
+worlds---therefore requires not just a willing suspension of disbelief, but
+also poetics: hermeneutics, close reading, distant reading, deconstruction,
+morphology, in short precisely the legacy of interpretive practice that
+stretches from Aristotle to Susan Sontag and beyond. The suspension of
+disbelief otherwise threatens to become a permanent condition, alienating as
+it is pleasurable or cathartic.
 
 At the time of writing this book, our society stands at the threshold of a new
 paradigm of interacting with computers and hence with each other. Direct brain
@@ -1125,8 +1125,8 @@ On the surface, the advance of brain-computer interfaces seems to bring us
 closer to the trajectory of growing immediacy: witness the "no interface"
 movement in graphic design and its continuing promise of ever more direct
 interaction. *No Interface*, *Don't Make me Think*, and *Hooked: How to Build
-Habit-Forming Products* are some of the most well-written and best-selling
-titles advancing this argument [@krug_dont_2014; @eyal_hooked:_2014;
+Habit-Forming Products* are some of best written and best selling titles
+advancing this argument [@krug_dont_2014; @eyal_hooked:_2014;
 @krishna_best_2015]. Military applications aside, we must prepare for a future
 in affective, mystical arts, the ultimate loss of references and resemblances,
 where works of art are to be experienced emotively past the senses: literature
@@ -1135,18 +1135,20 @@ asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human-computer interaction in all of its
-forms: paper, ink, silicone. Media intercedes. As technological dreams become
-reality they also grow less interesting and more mundane. We tend not to think
-about them; they become habit. Habituation smoothes the rough edges of
-irreconcilability between human and machine. The tool recedes from view,
+forms: paper, ink, code, silicone. Media intercedes. As technological dreams
+become reality they also grow less interesting and more mundane. We tend not
+to think about them; they become habit. Habituation smoothes the rough edges
+of irreconcilability between human and machine. The tool recedes from view,
 beginning to seem a natural and direct extension of the body. I do not mean to
 dismiss the mastery of those engaged in creating the illusion of directness.
 Pleasure and catharsis are important in some contexts. In other contexts, we
 must privilege reflection, analysis, and interruption. Computational poetics
-therefore aims to arrest the encounter: to make it seem less natural, to bring
-the receding media to light, and to expose the mediating systems supporting
-the simulation. Heidegger calls such a process the disruption of reference or
-a *breach*. He writes:
+aims to arrest the encounter: to make it seem less natural, to bring the
+receding media to light, and to expose the mediating systems supporting the
+simulation.
+
+Heidegger calls such a process the disruption of reference or a *breach*. He
+writes:
 
 > When something at hand is missing whose everyday presence was a matter of
 course that we never even paid attention to it, this constitutes a *breach* in
@@ -1171,7 +1173,9 @@ possibility of indexical interfaces, the kind of signs that connect to their
 objects of interest through palpable causal linkages like smoke and fire,
 tissue damage and pain. Is it possible, in other words, to inhabit virtual
 worlds without simulation, to connect viscerally to the material conditions of
-their production? The question is of vital political importance, because
+their production? Can one inhabit a simulation while keeping the 
+
+The question is of vital political importance, because
 whether we have answers or not, implements of symbolic manipulation---books
 and pens that once lay safely at an arm's length---move inevitably closer to
 the mind's eye. For now, the screen and the hard drive, mechanisms of memory
