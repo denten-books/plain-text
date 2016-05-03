@@ -109,7 +109,7 @@ expand upon later.
 First, with the initial advance of telecommunications in the telegraph age, at
 the turn of the twentieth century, we observe the emerging divide between
 human-readable text and machine-readable code. Removable storage media like
-ticker tape and punch card constitute a set of instructions for a machine,
+ticker tape and punch card constitute the instruction set for a machine,
 meant to actuate a mechanism which in turn produces human-legible
 inscriptions. Unintelligible (to a lay person) control codes "driving" the
 machine are thereby mixed with plain text content of communication. The

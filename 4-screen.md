@@ -67,9 +67,9 @@ speakers or touching the woodwind. Yet at another stage of music production,
 the making of classical music will involve sheet music. A whole system of
 music distribution is built around the printing and the circulation of music
 media in the form paper and ink documents. The modality of reading sheet
-music, as opposed to listening, requires a completely different set of body
-postures. It engages different practices and different cultural and financial
-institutions from listening.
+music, as opposed to listening, requires a completely different grammar of
+body postures. It engages different practices and different cultural and
+financial institutions from listening.
 
 A confusion enters the conversation when we conflate the modality of the
 information (music, image, text) with the physical channel of its transmission
@@ -552,8 +552,8 @@ I would like to pause for moment to define my terms. By "encoding," I mean a
 vocabulary. Painting and other forms of uninhibited representational
 conventions offer limitless expressive possibilities. The "language" of
 painting is infinite, in other words. Encoding, by contrast, reduces the
-universe of expressive possibilities to a limited set of salient "codes," like
-the alphabet. These codes have a formal grammar and rules of composition.
+universe of expressive possibilities to a limited number of salient "codes,"
+like the alphabet. These codes have a formal grammar and rules of composition.
 Although the expressive potential of written language is limitless, in some
 combinatorial sense of the word, language and other codes can "break," that
 is, be reduced to nonsense, in a way that painting strictly cannot.
@@ -898,14 +898,13 @@ worlds are sparse and differentiated throughout. But could we not say the same
 thing about all rule based analog games, like chess? On the level of syntax,
 Chess is also a sparse game, discrete and differentiated throughout like its
 computer counterparts. One plays on top of a grid with pieces that move
-according to a rigidly proscribed set of rules, and along binary color
-distinctions. At another scale of analysis however, chess is an analog game.
-The wood grain of the chess board is part of the dense, undifferentiated
-world. At a deeper level still, at the atomic scale of observation, the chess
-board again begins to appear sparse, discontinuous, and differentiated
-throughout. We are left without the critical means to tell
-wood-and-(faux)ivory chess pieces part from block-and-pixel pieces of
-*Minecraft*.
+according to rigidly proscribed rules, and along binary color distinctions. At
+another scale of analysis however, chess is an analog game.  The wood grain of
+the chess board is part of the dense, undifferentiated world. At a deeper
+level still, at the atomic scale of observation, the chess board again begins
+to appear sparse, discontinuous, and differentiated throughout. We are left
+without the critical means to tell wood-and-(faux)ivory chess pieces part from
+block-and-pixel pieces of *Minecraft*.
 
 The quality of being digital seems depend on our perspective. The
 *perception* of density and sparseness changes with the viewer's ability to

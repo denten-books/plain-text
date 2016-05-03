@@ -159,13 +159,13 @@ the screen look like their paper counterparts, but they represent other, less
 familiar ordering structures on the disk. These two ways of ordering are not
 equivalent to each other. They imply differing possibilities and affordances.
 Formats mediate between data structures, transforming one into the other
-according to a predefined set of rules. The screen projection---content
-arranged on the screen---which represents a mental image---information stored
-in the head---becomes inscription---information stored in the machine. The
-complexity of the interface between these disparate symbolisms stems from the
-fundamental incompatibility between incommensurate physicalities. Format
-specifications govern the transference of data structures from one medium into
-the other, at the point of contact between human, symbol, and machine.
+according to predefined rules. The screen projection---content arranged on the
+screen---which represents a mental image---information stored in the
+head---becomes inscription---information stored in the machine. The complexity
+of the interface between these disparate symbolisms stems from the fundamental
+incompatibility between incommensurate physicalities. Format specifications
+govern the transference of data structures from one medium into the other, at
+the point of contact between human, symbol, and machine.
 
 [^ln3-symbolisms]: I am interlacing language from Wittgenstein and Alexander
 Galloway. On disparate symbolisms see @wittgenstein_philosophical_1974, 45.
@@ -499,7 +499,7 @@ scholars that included Viktor Shklovsky, Osip Brik, Lev Yakubinsky, Boris
 Eichenbaum, and Roman Jakobson, among others. Collectively, the volumes strike
 out in two distinct, but complementary directions.
 
-A set of essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
+Several essays by Brik, Shklovsky, Yakubinski, and others contrapose "sound"
 [*zvuk*] to "symbol" [*obraz*]. Brik writes: "I believe that elements of
 symbolic and sonic [*zvukovoi*] art exist simultaneously, and that every given
 piece of [poetic] work comprises an equilibrium of these two heterogeneous
@@ -920,10 +920,10 @@ instrumentally, for a particular purpose like copying, analysis, or
 preservation. I am however also interested in a more systematic wholesale
 exposition of electronic document structure. Reading for format involves the
 deconstruction, both literal and figuratively historical, of the literary
-device. Where paper books present the reader with a limited set of known
+device. Where paper books present the reader with a limited number of known
 affordances tied to the medium of print, electronic books contain a virtually
-limitless and for the most part unexamined set of simulated affordances.
-Whatever interpretive activity readers hope to enact at the level of textual
+limitless and for the most part unexamined simulated affordances. Whatever
+interpretive activity readers hope to enact at the level of textual
 representation, as when reading from a screen, is grounded in the deep
 material affordances of the simulated book. Further, the tasks of formatting
 are no longer the exclusive domain of the typesetter, the editor, or the
@@ -954,11 +954,11 @@ convince the reader of the continual importance of textual criticism and
 format studies for the advancement of literary scholarship and more broadly
 for the politics of reading and interpretation at large. The formatting layer
 arbitrates between medium and inscription, page and word. It is arbitrary in
-the sense of imposing a set of rules, preferences, and stipulations. It
-polices access to closed archives; it manages copy rights and borrowing
-privileges; it governs the flow of a sensor's ink. Format in that sense
-determines the available reading strategies, including the one of not reading
-at all.
+the sense of imposing a number of contingent rules, preferences, and
+stipulations. It polices access to closed archives; it manages copy rights and
+borrowing privileges; it governs the flow of a sensor's ink. Format in that
+sense determines the available reading strategies, including the one of not
+reading at all.
 
 ![EDIT Document Model, 1968 [@kaiman_computer-aided_1968, 66].](images/edit.png)
 
@@ -1121,18 +1121,17 @@ number of possible two-dimensional spaces like pages and screens of differing
 sizes, signifying relationships between elements within a range of possible
 concrete objects."[^ln3-dom] In order to materialize, the hierarchical model
 must be arranged and fixed into the surface of an actual medium, according to
-a set of predefined rules specified in the model. These media have actual
-dimensions. In this way, a footnote specified "at the bottom of the page" at
-the level of the model can then be rendered one way at the bottom of a
-specific page of a certain size, like A1 (841mm × 1,189mm) for example, and in
-another way at the bottom of another specific piece of paper of a much smaller
-A4-sized sheet (210mm × 297mm).[^ln3-iso216] Viewing and printing operations
-constitute a movement opposite to that of optical character recognition. In
-printing a document, the machine creates a static image, which flattens out
-the layers of content and visual style. Abstract objects specified by the
-abstract model are then reified into a set or relationships between specific
-concrete objects on the page [@furuta_document_1982, 419-20;
-@kimura_structure_1984].
+predefined rules specified in the model. These media have actual dimensions.
+In this way, a footnote specified "at the bottom of the page" at the level of
+the model can then be rendered one way at the bottom of a specific page of a
+certain size, like A1 (841mm × 1,189mm) for example, and in another way at the
+bottom of another specific piece of paper of a much smaller A4-sized sheet
+(210mm × 297mm).[^ln3-iso216] Viewing and printing operations constitute a
+movement opposite to that of optical character recognition. In printing a
+document, the machine creates a static image, which flattens out the layers of
+content and visual style. Abstract objects specified by the abstract model are
+then reified into a set or relationships between specific concrete objects on
+the page [@furuta_document_1982, 419-20; @kimura_structure_1984].
 
 SCRIPT and the related Generalized Markup Language (GML) developed in the late
 1960s by IBM (originally for use on the CP67/CMS time-sharing system), and now
@@ -1185,19 +1184,19 @@ third dimension, away from the reader and deep into the bowels of the machine.
 
 Stretched between the sites of its archive and its projection, the solid state
 drive and the screen, the inscription travels along a long "pipeline" of
-protocols, undergoing a set of arbitrary transformations throughout. On one
-device, that pipeline may extend just a few inches, connecting disk storage to
-output display. On a networked device that pipeline can stretch across
-continents, spanning widely divergent regions of legal and administrative
-governance. The data that assembles the nearby object we call an electronic
-book may be stored on a server on the other side of the country. Whatever the
-case may be, the reader encounters the "protocol stack" from without on the
-periphery of the onion-like network. When paging through an electronic book,
-usually an OSI-compliant device, the reader has access only to the outputs
-emanating from the application layer, and, at that, only at the exposed
-"window" level of the document-object model. The perceived "content" therefore
-comprises only a small fraction of the underlying formal topology. What you
-see is far less than what you get.
+protocols, undergoing arbitrary transformations throughout. On one device,
+that pipeline may extend just a few inches, connecting disk storage to output
+display. On a networked device that pipeline can stretch across continents,
+spanning widely divergent regions of legal and administrative governance. The
+data that assembles the nearby object we call an electronic book may be stored
+on a server on the other side of the country. Whatever the case may be, the
+reader encounters the "protocol stack" from without on the periphery of the
+onion-like network. When paging through an electronic book, usually an
+OSI-compliant device, the reader has access only to the outputs emanating from
+the application layer, and, at that, only at the exposed "window" level of the
+document-object model. The perceived "content" therefore comprises only a
+small fraction of the underlying formal topology. What you see is far less
+than what you get.
 
 I would like to conclude this chapter with a glimpse of several obvious
 formatting structures that increasingly mediate in numerous everyday acts of

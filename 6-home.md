@@ -1,5 +1,7 @@
 # Conclusion: Home
 
+<!-- watch set of -->
+
 The hypothesis of extended cognition advances a model of the mind which
 extends beyond the boundaries of skin and skull to include the environment
 [@clark_extended_1998]. In the now classic essay titled "How a Cockpit
@@ -617,8 +619,8 @@ modern industrial society" [@arnold_life_2012, 23].
 
 ## Furnishings of the Mind
 
-What constitutes a literary archive? Initially, I want to answer something like
-"books and bookshelves" or "files and file folders." In other words, some
+What constitutes a literary archive? Initially, I want to answer something
+like "books and bookshelves" or "files and file folders." In other words, some
 assemblage of symbolic and material: representation and matter. A librarian
 might also say "a catalog" or "metadata" which describes the stored objects.
 Yet, many archives, and especially private ones, exist without formal
@@ -629,21 +631,21 @@ would strain the definition of an archive. Unless, that is, someone decides to
 identify it as a collection, and to understand piling as a mode of
 organization. The bookshelf which supports books in a library is, in this way,
 more than a piece of furniture.  Formally, one can think of it also as a data
-structure.  The National Institute of Standards defines a data structure simply
-as "organization of information," usually with a view towards "algorithm
-efficiency" and "conceptual unity" [@black_data_2004]. Efficiency, in this
-case, is used to stand in for as set of structural affordances. For example, a
-"dictionary" in computer science denotes a data structure that stores "keys"
-and "values," allowing for operation like "new," "insert," "find," and "delete"
-[@black_dictionary_2004]. A "stack" by contrast is defined as a "collection of
-items in which only the most recently added item may be removed"
-[@black_stack_2004]. Extending the same logic into the book world, we could say
-that a "dictionary" is a data structure that enables a set of expected
-interactions with words and their definitions. A stack of papers on the desk
-similarly avails a set of particular interfaces and can be thought of as
-another type of a data structure. Ordinary dictionaries and paper stacks answer
-to all the definitions of data structure, and it is instructive to think of
-them as such.
+structure.  The National Institute of Standards defines a data structure
+simply as "organization of information," usually with a view towards
+"algorithm efficiency" and "conceptual unity" [@black_data_2004]. Efficiency,
+in this case, is used to stand in for a set of structural affordances. For
+example, a "dictionary" in computer science denotes a data structure that
+stores "keys" and "values," allowing for operation like "new," "insert,"
+"find," and "delete" [@black_dictionary_2004]. A "stack" by contrast is
+defined as a "collection of items in which only the most recently added item
+may be removed" [@black_stack_2004]. Extending the same logic into the book
+world, we could say that a "dictionary" is a data structure that enables a set
+of expected interactions with words and their definitions. A stack of papers
+on the desk similarly avails particular interfaces and can be thought of as
+another type of a data structure. Ordinary dictionaries and paper stacks
+answer to all the definitions of data structure, and it is instructive to
+think of them as such.
 
 Note, however, that the concept of "structure" itself suggests a mode of
 organization that exists on the level of formal arrangement, somewhere between
@@ -666,46 +668,47 @@ document--object model, the bookshelf represents a structure both concrete and
 universal. It is an ordering: a way of structuring books as data objects.
 
 The arrangement of books on a bookshelf, or of documents in a filing cabinet,
-brings with it a set of physical affordances. We may take some of these for
+brings with it distinct physical affordances. We may take some of these for
 granted, but they are not obvious in the least. For example, note how the book
 spine and the shelf work together to facilitate search, discovery, and
 organization within the collection (answering to the "algorithmic efficiency"
 part of the "data structure" definition). Turn the books with their spine
 towards the wall and the (contemporary) personal library looses much of its
 meaning.[^ln5-spine] The bookshelf gives unity to the archive. It places
-objects "of a kind" next to each other, amenable to the same material interface
-(answering to the "conceptual unity" part of the data structure definition). A
-newspaper left out of the bookshelves is seen as a disposable document. When
-placed on the bookshelf however, it meaningfully joins the collection, and, for
-a time at least, is afforded the same protection as its neighbors.
+objects "of a kind" next to each other, amenable to the same material
+interface (answering to the "conceptual unity" part of the data structure
+definition). A newspaper left out of the bookshelves is seen as a disposable
+document. When placed on the bookshelf however, it meaningfully joins the
+collection, and, for a time at least, is afforded the same protection as its
+neighbors.
 
-Incidentally, both the book, the newspaper, and the library could in themselves
-be thought of as types of data structure. Beyond their physical affordances,
-they provide for a way of arranging things. The library contains bookshelves,
-bookshelves books, books pages, pages words, and so on. These structures
-develop concomitantly. The contemporary book anticipates both the shelf and the
-library, for example. Note how the book falls flat, unless it is unusually
-thick, when alone on the bookshelf. Even several books, when placed together,
-stand ill at ease when not wedged within the fullness of the
+Incidentally, both the book, the newspaper, and the library could in
+themselves be thought of as types of data structure. Beyond their physical
+affordances, they provide for a way of arranging things. The library contains
+bookshelves, bookshelves books, books pages, pages words, and so on. These
+structures develop concomitantly. The contemporary book anticipates both the
+shelf and the library, for example. Note how the book falls flat, unless it is
+unusually thick, when alone on the bookshelf. Even several books, when placed
+together, stand ill at ease when not wedged within the fullness of the
 collection.[^ln5-sumo] As a matter of its material properties, a newspaper can
 be hung on a rack, in a way that a book cannot. Additionally, the newspaper
-brings with it a format or a way of arranging words that differs from that of a
-novel. One could think of these as a difference in "medium" or "genre." These
-however fail to encompass both physical and mental affordances indicated by the
-cognates like "format" and "data structure." More than "genres" or "media" data
-structures further indicate a set of interfaces, suggesting a habitus or modes
-of interaction. Words, pages, books, shelves, and libraries work together to
-facilitate a variety of specific reading-related activities, while excluding
-others. In this way, a given collection of collections (libraries and books)
-constitute what may be called a *platform* of reading. The idea of a platform
-spans physical infrastructure (the weight of the wood among the walls the
-library, in our example), data structures (collected books and newspapers),
-along with the institutionalized practices that govern reading (like
-administration staff and library due dates). An electronic library like Project
-Gutenberg, one of the earliest and largest electronic libraries, constitutes a
-platform that differs from the traditional library in all three of the above
-categories. The movement of books "online" brings with it new and divergent
-data types, physical infrastructure, and social habitus.
+brings with it a format or a way of arranging words that differs from that of
+a novel. One could think of these as a difference in "medium" or "genre."
+These however fail to encompass both physical and mental affordances indicated
+by the cognates like "format" and "data structure." More than "genres" or
+"media" data structures further indicate an interface, suggesting a habitus or
+modes of interaction. Words, pages, books, shelves, and libraries work
+together to facilitate a variety of specific reading-related activities, while
+excluding others. In this way, a given collection of collections (libraries
+and books) constitute what may be called a *platform* of reading. The idea of
+a platform spans physical infrastructure (the weight of the wood among the
+walls the library, in our example), data structures (collected books and
+newspapers), along with the institutionalized practices that govern reading
+(like administration staff and library due dates). An electronic library like
+Project Gutenberg, one of the earliest and largest electronic libraries,
+constitutes a platform that differs from the traditional library in all three
+of the above categories. The movement of books "online" brings with it new and
+divergent data types, physical infrastructure, and social habitus.
 
 I offer this somewhat technical "thick description" of the library both to make
 strange the familiar furnishings of reading and to draw attention to the
@@ -920,15 +923,15 @@ Dictionary published by the Institute of Electrical and Electronic Engineers
 defines the interface as "the points where two or more physical systems or
 subsystems meet to transfer energy or information." An electrical plug and
 outlet are common household interfaces, which connect specific devices (like
-televisions and toasters) to the power grid. But who decides on the exact shape
-of the connection? Like many other interfaces, the material specifics of the
-wall plug are governed by convention. WHICH ONE? In this way, a device
+televisions and toasters) to the power grid. But who decides on the exact
+shape of the connection? Like many other interfaces, the material specifics of
+the wall plug are governed by convention. WHICH ONE? In this way, a device
 manufacturer can make certain assumptions about the connecting system. The
-makers of kitchen appliances can expect to encounter a certain shape of a plug,
-just as the electrician who installs wall outlets, expects most
+makers of kitchen appliances can expect to encounter a certain shape of a
+plug, just as the electrician who installs wall outlets, expects most
 country-specific devices to be compatible with his installation. I highlight
 these simple examples to make a point central to the argument this book. An
-interface contains a set of conventional assumptions about the otherwise
+interface contains a number of conventional assumptions about the otherwise
 incommensurable system. With this insight in hand we can return to the archive
 to ask what assumptions does it make about the archivist? It is at this point
 that I would like to leave Krapp's study to enter another home, in which

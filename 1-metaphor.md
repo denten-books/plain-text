@@ -512,7 +512,7 @@ readers to extend their knowledge of the physical world into the projected,
 virtual. For example, paper pages can be turned; we know they usually proceed
 one another, sequentially; and we are attuned to expect the same attributes to
 hold true in the vehicle---the domain receiving the tenor of the metaphor. The
-turning of virtual pages should, in theory, set off a series of corresponding
+turning of virtual pages should, in theory, trigger a series of corresponding
 actions in the target, digital domain. Turning the page on a screen should
 correspond to a similar action on the disk. But the action does not
 necessarily meet our expectations. The arrangement of information stored on
@@ -580,15 +580,15 @@ decode them itself passes into oblivion.
 
 ## Death and Incongruence
 
-In poetics, a metaphor is said to be "motivated" when a set of concepts from
-one domain extends into another to produce insight [@lakoff_contemporary_1998,
-210-1]. For example, Lakoff explains: that to say "to spin one's wheels" when
-referring to someone who is thinking, is to apply the reader's knowledge of
-automobiles to the mental realm. Wheels that spin without moving the car
-forward waste energy. The metaphor suggests that something similar happens
-mentally as well [@lakoff_contemporary_1998, 211]. A metaphor in a figurative
-genre, prose or poetry for example, suggests novel and hitherto unexplored
-connections between domains.
+In poetics, a metaphor is said to be "motivated" when a number of concepts
+from one domain extends into another to produce insight
+[@lakoff_contemporary_1998, 210-1]. For example, Lakoff explains: that to say
+"to spin one's wheels" when referring to someone who is thinking, is to apply
+the reader's knowledge of automobiles to the mental realm. Wheels that spin
+without moving the car forward waste energy. The metaphor suggests that
+something similar happens mentally as well [@lakoff_contemporary_1998, 211]. A
+metaphor in a figurative genre, prose or poetry for example, suggests novel
+and hitherto unexplored connections between domains.
 
 In his influential essay on metaphor the English literary critic I.A. Richards
 wrote that "when we use metaphor we have two thoughts of different things
@@ -824,7 +824,7 @@ Although much more accessible and interactive than communication in octal or
 binary machine code, the conversational model posed several significant
 challenges to the machine user. It resembled human communication in all its
 richness and variety, where in fact the machine "spoke" and "understood" only
-a limited set of words. Researchers from the U.S. Air Force academy would
+a limited number of words. Researchers from the U.S. Air Force academy would
 later write:
 
 > The lower cost of computer access and the proliferation of on-line systems

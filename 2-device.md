@@ -169,16 +169,16 @@ contains these meanings as well, but in modern usage, it often carries a more
 concrete connotation, as "an object, machine, or piece of equipment that has
 been made for a special purpose" [@_device_2016]. "Laying bare the device,"
 for Viktor Shklovsky, the Russian formalist critic who coined the phrase at
-the turn of the century, meant making explicit the implied mechanisms of
-literary trope, particularly in cases where such tropes turn "stale,"
-"automatic," and "naturalized," that is, bereft of their original poetic and
-evocative power.[^ln2-shklov]
+the turn of the twentieth century, meant making explicit the implied
+mechanisms of literary trope, particularly in cases where such tropes turn
+"stale," "automatic," and "naturalized," that is, bereft of their original
+poetic and evocative power.[^ln2-shklov]
 
 Vladimir Nabokov, a writer conspicuously aware of his literary--theoretical
 heritage, used the formal technique of "laying bare the device" often and with
 relentless clinical precision. In the short story "A Guide to Berlin," to
 which D. Barton Johnson attributes our first glimpse at Nabokov's "mature
-virtuoso style," Nabokov writes:
+virtuoso style," Nabokov wrote:
 
 > In front of the house where I live, a gigantic black pipe lies along the
 outer edge of the sidewalk. A couple of feet away, in the same file, lies
@@ -199,7 +199,7 @@ that pipe with its two orifices and its tacit tunnel [@nabokov_guide_1976, 27;
 This tightly wound vignette takes the formalist programmatic concern with
 "laying bare the device" to its logical conclusion. The pipes can be read as a
 metaphor for a literary device. Usually found beneath the street, they now sit
-idle and visible above the surface. Yet even when exposed, the device fails to
+idle and visible above the surface. Even when exposed, the device fails to
 captivate for long. Disused, it once again passes out of sight, covered in
 snow. Concerned with surfaces, the narrator "probes the glaze" of the street
 and finds a palindrome written in snow. The inscription "OTTO" not only
@@ -216,30 +216,30 @@ obvious," obvious. Nabokov exposes the metaphor implicit in the idea of
 "laying bare the device" itself. In this, lies the prevalent characteristic of
 Nabokov's mature work, which often seeks to transcend the diegetic, fictional
 world through sheer recursion of literary technique, where each successive
-turn of abstraction brings the buried symbol closer to the reader.
+turn of abstraction pulls the buried symbol closer to the reader.
 
-Despite such emphasis on laying bare the device, formalist poetics (both in
-art and in scholarship) fell short of producing an explicit theory of
-technique. In this section, I will attempt to reconstruct the notion of
-technique through the thought of three major literary theorists of the
-interwar period: Viktor Shklovsky, Percy Lubbock, and Mikhail Bakhtin. This
-grouping does not amount to a school of thought as such. Rather, the concept
-of technique emerges in parallel traditions at a formative time in the history
-of the literary technology. Viewed in the context of technological
-development, the emergence of technique as a critical category reflects the
-broader concerns of the machine age. The notion of *technology* does not fully
-find its place in critical literature until the 1950-1970s, judging by the
-rash of titles like like Martin Heidegger's *Die Frage nach der Technik*
-(1954), Jacques Ellul's *La technique ou l'enjeu du siècle* (1954),  Lynn
-White's *Medieval Technology and Social Change* (1966), and *The Technological
-Man* (1969) by Viktor Firkiss, among many similar volumes appearing in the
-period. Calling for the institution of a new field, the editors of the 1959
-inaugural issue of the journal *Technology and Culture* would write about the
-"neglect of study of technology" amidst a body of extant work that has
-scarcely amounted to a systematic scholarly discipline [@kranzberg_at_1959].
-"*Technology* is a word whose time has come," Langdon Winner would write in
-his influential volume on *Autonomous Technology* in 1978
-[@winner_autonomous_1978, 4]. Before technology, there was technique.
+Despite the emphasis on laying bare the device, formalist poetics (both in art
+and in scholarship) fell short of producing an explicit theory of technique.
+In this section, I will attempt to reconstruct the notion of technique through
+the thought of three major literary theorists of the interwar period: Viktor
+Shklovsky, Percy Lubbock, and Mikhail Bakhtin. This grouping does not amount
+to a school of thought as such. Rather, the concept of technique emerges in
+parallel traditions at a formative time in the history of literary technology.
+Viewed in the context of technological development, the emergence of technique
+as a critical category reflects the broader concerns of the machine age. The
+notion of *technology* itself does not fully find its place in the critical
+literature until the 1950-1970s, judging by the rash of titles like like
+Martin Heidegger's *Die Frage nach der Technik* (1954), Jacques Ellul's *La
+technique ou l'enjeu du siècle* (1954),  Lynn White's *Medieval Technology and
+Social Change* (1966), and *The Technological Man* (1969) by Viktor Ferkiss,
+among many similar volumes appearing in the period. Calling for the
+institution of a new field, the editors of the 1959 inaugural issue of the
+journal *Technology and Culture* would write about the "neglect of study of
+technology" amidst a body of extant work that has "scarcely constituted" a
+systematic scholarly discipline [@kranzberg_at_1959].  "*Technology* is a word
+whose time has come," Langdon Winner would still write in 1978 in his
+influential volume on *Autonomous Technology* [@winner_autonomous_1978, 4].
+Before technology, there was technique.
 
 !["Technology" and "technique," the relative frequency of occurrence in the
 Google Books ngram corpus
@@ -257,9 +257,8 @@ the sides of both authorship and apprehension, were made accessible to a mass
 audience. The Russian formalists in particular understood their task as one of
 radical democratization of the literary sphere. High literature that was once
 the purview of the select few could now belong to the proletariat at large.
-This meant that the reading and the writing of literature had to be distilled
-into a set of reproducible rules---technique over art---to be learned and
-shared widely.
+This meant that the reading and writing of literature could be distilled into
+reproducible rules---technique over art---to be learned and shared widely.
 
 Aside from its political implications, the mechanization of language gains
 further significance in its instrumental context. As we shall see in the later
@@ -277,7 +276,7 @@ linguistic ambiguity contained in the meaning of the word device. Locating the
 literary theoretical construct of the device within its technological context
 allows us to witness the contemporaneous evolution and the mutual
 interdependence between art, engineering, and philosophy. The origins of
-computer science and literary formalism can be traced back to a set of shared
+computer science and literary formalism can be traced back to shared
 theoretical assumptions and technological contingencies coming to fore of
 telecommunications at in the first few decades of the twentieth century.
 
@@ -489,7 +488,7 @@ poetics. I would like the reader to view the following sections in the context
 of the previous one on literary theory, even in the absence of direct evidence
 for an explicit intellectual connection.[^ln2-moaran] My goal is not to prove
 that such a connection exists, but rather to irreparably entangle the two
-genealogies while highlighting a shared set of ideas, assumptions, and
+genealogies while highlighting a number of shared ideas, assumptions, and
 concerns. The modern computer---and by extension the electronic book---harkens
 back to a cluster of related thought experiments prevalent in the philosophy
 of Ludwig Wittgenstein and subsequently to the ideas of Alan Turing, his
@@ -786,14 +785,13 @@ thinking of the various ways in which the process of translation breaks,
 Wittgenstein continually returns to the pianola, a type of a player piano.
 The mechanism of the player piano defines the relationship between music score
 sheet and the keyboard in a rigid way. Perforated sheet music passes through
-the machine, activating a set of corresponding pins. When functioning
-properly, the pins have no other option but to respond appropriately. The
-symbolism of music notation and the symbolism of the mechanism stand in accord
-to one another. The rigidity of the connection assures correspondence. The
-machine enacts an exacting translation from one medium to another. We are
-guaranteed correspondence between the two through mechanical means as the
-actuating mechanism of the player piano fits into the groves of the piano
-roll.
+the machine, activating the corresponding pins. When functioning properly, the
+pins have no other option but to respond appropriately. The symbolism of music
+notation and the symbolism of the mechanism stand in accord to one another.
+The rigidity of the connection assures correspondence. The machine enacts an
+exacting translation from one medium to another. We are guaranteed
+correspondence between the two through mechanical means as the actuating
+mechanism of the player piano fits into the groves of the piano roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
@@ -840,15 +838,14 @@ explicitly rejects the model of language as a "psychophysical" mechanism.
 Rather, as the title of the work suggests, Wittgenstein is in search for the
 "grammar" governing the engagement: between speakers and listeners, readers
 and writers, player pianos and musical scores. By the end of the work, grammar
-emerges as a set of "conventions." Wittgenstein complicates the mechanism by
+emerges as a batch of "conventions." Wittgenstein complicates the mechanism by
 inserting an extra layer of "rules" that mediate between symbol and machine or
 mental state. A convention could be agreed upon and transcribed in a chart,
 for example. And it is possible that "there is a part of the mechanism which
 resembles the chart, and is inserted between the language-part of the
 mechanism and the rest of it," he writes [@wittgenstein_philosophical_1974,
-190]. Again we imagine a set of instructions that could enforce strict
-compliance between the musical score and the actuating parts of the piano
-mechanism.
+190]. Again we imagine instructions that could enforce strict compliance
+between the musical score and the actuating parts of the piano mechanism.
 
 A programmer would say that Wittgenstein's "set of instructions that ensure
 correspondence" resemble modern programming language interpreters and
@@ -1318,8 +1315,8 @@ universe itself is a type of Turing computation [@deutsch_quantum_1985;
 @lloyd_ultimate_2000; @piccinini_computational_2007]. At some point, the
 Turing machine in the virtual world meets the material limits of the physical.
 Simulation engines like *Minecraft* and *Wireworld* do in some sense exist in
-the abstract, as code or even a set of rules written on paper. But in another
-sense, they do not. They come fully into being only when instantiated within
+the abstract, as code or even rules written on paper. But in another sense,
+they do not. They come fully into being only when instantiated within
 first-order, physical constrains that involve actual circuit boards and relay
 switches, or, at least, a pen and paper. For this reason, the performance (in
 terms of cycles per second, instructions per cycle, or its capacity to hold a
