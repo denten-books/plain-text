@@ -935,23 +935,23 @@ He describes what can be understood in terms of technological determinism: the
 sort of "destined" revealing that can unfold only along a predetermined
 narrative, in which the answer is already given. The forester that walks the
 woods simply to cut them down can only reveal nature as a commodity, in what
-Heidegger calls a "standing resource." The forester who measures the felled
-timber becomes subordinate to the organization of cellulose, Heidegger writes
+Heidegger calls a "standing reserve." The forester who measures the felled
+timber becomes subordinate to the organization of cellulose, he writes
 [@heidegger_question_1977, 323]. The wood is challenged forth by the need of
 paper, the paper to the press. The press consequently organizes the public,
 set on "swallowing what is printed, so that a set configuration of opinion
 becomes available on demand." In following the path of a determined narrative,
-technology turns the human into a human resource [@heidegger_question_1977,
-323-4]. It is in that sense, that Heidegger concludes that modern technology
-is "no more a human doing." Nothing new can be learned in this predetermined
-way.
+technology turns the human into a human resource.  It is in that sense, that
+Heidegger concludes that modern technology is "no more a human doing"
+[@heidegger_question_1977, 323-4]. Nothing new can be learned in this
+predetermined way.
 
 The metaphoric device frustrates the Heideggerian vision of technology that
 reveals. At hand, the device takes shape as a keyboard, a mouse, or a touch
 screen. But in the mind, as a simulation, it dissembles to behave similar to
 page, a folder, or a wastepaper bin. The tool---a keyboard or a touch
 screen---is not encountered for what it is. Nor does a simulated tool reveal
-anything about the material it affects.  The simulation produces knowledge
+anything about the material it affects. The simulation produces knowledge
 neither about the thing being simulated (paper or books, for example) nor
 about the medium giving rise to the simulation (computational device, in our
 example).
@@ -973,7 +973,7 @@ access to metaphors within the library" and "users manipulate sheets in the
 notebook metaphor" [@pajak_electronic_1992; @glaser_graphical_1995]. The
 actual instruments enabling the manipulation of image or word on the screen
 disappear entirely, giving rise to the immersive, interactive, first-person
-experience, without the feeling of mediation. "The user of a well-designed
+experience, without the experience of mediation. "The user of a well-designed
 *model world* interface can willfully suspend disbelief that the objects
 depicted are artifacts of some program and can thereby directly engage the
 world of the objects," Norman et.al. write [@hutchins_direct_1986, 99]. In
@@ -997,14 +997,15 @@ they, in some sense, *are* the things they refer to" [@hutchins_direct_1986,
 workstation, 1985 [@johnson_xerox_1989, 13].](images/xerox_star.png)
 -->
 
-The principles of direct interaction emerging in the 1980s stood against what
-Laurel called the "ill-formed" presence of the mediator, in the interfaces of
-the previous era like JOSS and *Colossal Cave Adventure*. For those advocating
-the direct interaction paradigm of computer use, conversational computing
-prevented the unmediated "pleasure" and "catharsis" of direct engagement
-[@laurel_brenda_interface_1986, 75]. The intermediary takes the place of the
-player in a game: it swings the sword for her, takes a beating, and reports on
-the experience, standing in the way of immediacy. Laurel writes:
+The principles of direct interaction that emerge in the 1980s stood against
+what Laurel called the "ill-formed" presence of the mediator, in the
+interfaces of the previous era like JOSS and *Colossal Cave Adventure*. For
+those advocating the direct interaction paradigm of computer use,
+conversational computing prevented the unmediated "pleasure" and "catharsis"
+of direct engagement [@laurel_brenda_interface_1986, 75]. The intermediary
+takes the place of the player in a game: it swings the sword for her, takes a
+beating, and reports on the experience, standing in the way of immediacy.
+Laurel writes:
 
 > In the file management example, the intermediary takes the form of command
 menus that are invoked in order to activate processes in the program that will
@@ -1028,18 +1029,19 @@ Laurel's words, the mimetic interface employed "logic and aesthetics to create
 representations that *engage* humans in pleasurable ways"
 [@laurel_brenda_interface_1986, 85]. The mimetic context is simply "the
 experience we desire," Laurel wrote. Direct participation enabled actors to
-experience "the full pleasure of the mimetic form"
-[@laurel_brenda_interface_1986, 75].
+feel "the full pleasure of the mimetic form" [@laurel_brenda_interface_1986,
+75].
 
-Designers advocating for direct manipulation understood the trade-offs that
-came with an emphasis on such immersive and mimetic experiences
-[@hutchins_direct_1986, 118]. Mimesis fundamentally relies on the user's
+Designers advocating direct manipulation understood the trade-offs that came
+with an emphasis on such immersive and pleasurable experiences
+[@hutchins_direct_1986, 118]. Effective mimesis relies on the user's
 familiarity with the source domain. In this way, we understand what to do with
-"folder" icons because we know how folders behave in real life. Direct mimetic
-manipulation does not however tell us anything new about the capabilities of
-virtual folders. Immersion precludes critical reflection beyond the
-pre-defined confines of the modeled world. The user has access only to what
-the simulated experience allows and can provide.
+virtual "folder" icons because we know how paper folders behave in real life.
+Direct mimetic manipulation does not however tell us anything new about the
+capabilities of virtual folders. Immersion precludes critical reflection
+beyond the pre-defined confines of the modeled world. The user has access only
+to what the simulated experience allows and can provide. Like a theme park
+ride it is a guided experience that can only lead to predetermined results.
 
 Problematically, ideas behind mimetic immersion contain a kind of a logical
 fallacy. The literature on direct manipulation often refers to the example of
@@ -1051,37 +1053,40 @@ axle. Similarly, when operating a computer game like *Space Invaders* via a
 joystick, the player experiences the immediate correspondence between the
 movement of the controlling mechanism and movement of the player-controlled
 space ship on the screen. The car is the "direct object of interest" for a
-driver, just like the virtual space ship is for a gamer.  But unlike video
-game players, authors attempting to delete sensitive information are not
-interested in the virtual representation of their documents. The object of
-their interest is not mimetic. They want to erase the document itself, located
-somewhere within the machine. In cases like these, inhabitants of the
-simulated, virtual world have an interest in objects outside of it. The
-paradigm of direct manipulation instead veils the object from view, suspending
-the rules of physical interaction in favor of the virtual. Far from being
-direct, the iconic representation of the document---the image of a
-file---usurps the physical object, the file itself. Where in the
-conversational paradigm the nature of the mediation was at hand, open to
-circumspection, "direct manipulation" occludes mimesis.
+driver, just like the virtual space ship is for a gamer. Unlike video game
+players, authors attempting to delete sensitive information are not interested
+in the virtual representation of their documents. The object of their interest
+is not mimetic. They want to erase the document itself, located somewhere
+within the machine. In cases like these, inhabitants of the simulated, virtual
+world have an interest in objects outside of it. The paradigm of direct
+manipulation instead veils the object from view, suspending the rules of
+physical interaction in favor of the virtual. Far from being direct, the
+iconic representation of the document---the image of a file---usurps the
+physical object, the file itself. Where in the conversational paradigm the
+nature of the mediation was at hand, open to circumspection, "direct
+manipulation" occludes the mechanisms of mimesis.
 
 ## Speculative Formalism
 
-To what extent do we need to see and understand the mechanisms of the machine
-giving rise to the metaphor? In his 1949 paper on "The Genesis and Speed of
-Telegraph Codes," Frank Halstead noted that "the practical upper limits of
-[telegraph transmission] speed will also be limited by the ability of some
-human beings to operate a keyboard, until such time as electrical connection
-be made direct with the receiver's central nervous system"
-[@halstead_genesis_1949, 451]. The history of human-computer interaction
-began with the manipulation of physical switches, first by hand and then by
-removable storage media like paper tape and punch card. The next phase was
-dialogic and conversational in nature. Conversational computing introduced the
-idea of a mediating agent, an interpreter, who could translate from a limited
-number of natural human language commands into the specialized vocabulary of
-signals that could alter the machine configuration. The "direct manipulation"
-school of human-computer interaction has led us further towards mimesis,
-simulating machine states as virtual environments resembling real-world
-objects and their properties.
+To what extent do we need to view and understand the mechanisms of the machine
+that gives rise to the metaphor? In a paper remarking on "The Genesis and
+Speed of Telegraph Codes" published in the *Proceedings of the American
+Philosophical Society* in 1949, the author noted that "the practical upper
+limits of [telegraph transmission] speed will also be limited by the ability
+of some human beings to operate a keyboard, until such time as electrical
+connection be made direct with the receiver's central nervous system"
+[@halstead_genesis_1949, 451].
+
+The history of human-computer interaction began with the manipulation of
+physical switches, first by hand and then by removable storage media like
+paper tape and punch card. The next phase was dialogic and conversational.
+Conversational computing introduced the idea of a mediating agent, an
+interpreter, who could translate from a limited number of natural human
+language commands into the specialized vocabulary of signals that could alter
+the machine configuration. The "direct manipulation" school of human-computer
+interaction dispenses with machine states, leading us further towards
+immersive mimesis in which virtual environments resemble real-world objects
+and their properties.
 
 The trajectory from direct *physical* manipulation to direct *virtual*
 manipulation leads to the totalizing loss of resemblances and designations
@@ -1091,40 +1096,42 @@ experience of unmediated interaction without awareness or sense of the
 underlying referent. All "objects of interest" within such a modeled world are
 fabricated objects. They are thus limited to the external, artificial
 constraints imposed by their makers. Such manufactured experiences present us,
-the "users," with compelling, possibly cathartic, metaphors. The metaphor
-extends far beyond entertainment, subsuming all spheres of social activity
-mediated by computers. The manipulation of metaphors---a reflective, not
-merely circumspect inhabitance of virtual worlds---therefore requires not just
-a willing suspension of disbelief, but also poetics: hermeneutics, close
-reading, distant reading, deconstruction, morphology, in short precisely the
-legacy of interpretive practice that stretches from Aristotle to Susan Sontag
-and beyond. The suspension of disbelief otherwise threatens to become a
-permanent condition, alienating as it is pleasurable or cathartic.
+the "users," a more modern word for a human resource, with compelling,
+possibly cathartic, metaphors. The metaphor extends far beyond entertainment,
+subsuming all spheres of social activity mediated by computers. The
+manipulation of metaphors---a reflective, not merely circumspect inhabitance
+of virtual worlds---therefore requires not just a willing suspension of
+disbelief, but also poetics: hermeneutics, close reading, distant reading,
+deconstruction, morphology, in short precisely the legacy of interpretive
+practice that stretches from Aristotle to Susan Sontag and beyond. The
+suspension of disbelief otherwise threatens to become a permanent condition,
+alienating as it is pleasurable or cathartic.
 
 At the time of writing this book, our society stands at the threshold of a new
 paradigm of interacting with computers and hence with each other. Direct brain
 to computer interfaces are common enough today to be turned into a
-toy.[^ln3-mindflex] Early brain--computer interfaces used either imprecise
-"noisy" electroencephalographic (EEG) scalp sensors or electrode implants that
-required invasive surgery. In 2004 a team of scientists developed a way of
-controlling "a one-dimensional computer cursor rapidly and accurately" using
-electrocorticographic (ECoG) activity recorded from the surface of the brain
-[@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
+toy.[^ln3-mindflex] Early brain-computer interfaces relied on either imprecise
+"noisy" electroencephalographic (EEG) scalp sensors or on electrode implants
+that required invasive surgery. In 2004 a team of scientists developed a way
+of controlling "a one-dimensional computer cursor rapidly and accurately"
+using electrocorticographic (ECoG) activity recorded from the surface of the
+brain [@leuthardt_braincomputer_2004; @miller_spectral_2007]. And in 2015, a
 quadriplegic woman piloted an F-35 Joint Strike Fighter using her brain in a
 simulation developed by the University of Pittsburgh's Human Engineering
 Research Laboratories in collaboration with the Defense Advanced Research
 Projects Agency (DARPA) [@collinger_collaborative_2014; @prabhakar_how_2015].
-On the surface, the advance of brain--computer interfaces seems to bring us
-closer to the vision of increasing directness: the "no interface" movement in
-design, interaction between people and machines without intermediary symbols,
-words, or images. *No Interface*, *Don't Make me Think*, and *Hooked: How to
-Build Habit-Forming Products* are some of the most well-written and
-best-selling titles advancing this argument [@krug_dont_2014;
-@eyal_hooked:_2014; @krishna_best_2015]. Military applications aside, we must
-prepare for a future in affective, mystical arts, the ultimate loss of
-references and resemblances, where works of art are to be experienced
-emotively past the senses: literature without language or representation,
-painting beyond media, asemiosis---messages lacking a sign.
+
+On the surface, the advance of brain-computer interfaces seems to bring us
+closer to the trajectory of growing immediacy: witness the "no interface"
+movement in graphic design and its continuing promise of ever more direct
+interaction. *No Interface*, *Don't Make me Think*, and *Hooked: How to Build
+Habit-Forming Products* are some of the most well-written and best-selling
+titles advancing this argument [@krug_dont_2014; @eyal_hooked:_2014;
+@krishna_best_2015]. Military applications aside, we must prepare for a future
+in affective, mystical arts, the ultimate loss of references and resemblances,
+where works of art are to be experienced emotively past the senses: literature
+without language or representation, painting beyond media,
+asemiosis---messages lacking a sign.
 
 However futuristic such possibilities may seem to us today, we should not lose
 sight of the mediated nature of human-computer interaction in all of its
@@ -1135,30 +1142,60 @@ irreconcilability between human and machine. The tool recedes from view,
 beginning to seem a natural and direct extension of the body. I do not mean to
 dismiss the mastery of those engaged in creating the illusion of directness.
 Pleasure and catharsis are important in some contexts. In other contexts, we
-must privilege reflection, analysis, and interruption.  Computational poetics
-should therefore aim to arrest the encounter: to make it seem less natural, to
-bring the receding media to light, and to expose the mediating systems
-supporting the simulation. A measure of discomfort in the fit between bodies,
-keyboards, and screens ensures our ability to structure the encounter on our
-own terms: to opt in when useful and to opt out when necessary. My concern is
-not with the metaphysical entailments of a possible posthuman future. The
-illusion of directness belies the very human mechanisms of command and
-control. The simulation ultimately embodies specific power structures in an
-economy of exchange between physical and mental resources. In this market
-there are those who profit and those whose virtual avatars become a commodity.
+must privilege reflection, analysis, and interruption. Computational poetics
+therefore aims to arrest the encounter: to make it seem less natural, to bring
+the receding media to light, and to expose the mediating systems supporting
+the simulation. Heidegger calls such a process the disruption of reference or
+a *breach*. He writes:
 
-The above comments apply to computation generally. We will spend the following
-chapters peeling apart the layers of the literary and the bibliographic
-simulation in particular. Once the electronic book can be perceived as
-computation in kind, we can begin to examine the incongruence in the
-structures of meaning-making at the sites of storage and projection. If we
-consider "what you see is what you get" as a type of a commitment to a
-motivated metaphor, the following chapters will help us understand the ways of
-seeing and the material particulates of getting. The electronic book shall
-come to fore as a literary device.
+> When something at hand is missing whose everyday presence was a matter of
+course that we never even paid attention to it, this constitutes a *breach* in
+the context of references discovered in our circumspection. Circumspection
+comes up with emptiness and now sees for the first time what the missing thing
+was at hand *for* and at hand *with*. Again the surrounding world makes itself
+known [@heidegger_being_1996, 70].
 
-<!-- can say something indexical interfaces and preserving the space ulterior to
-help tie in with the introduction -->
+The momentary breach, a measure of discomfort in the fit between bodies,
+keyboards, and screens ensures our ability to shape the encounter on our own,
+tactical terms: to opt in when useful and to opt out when necessary. I am not
+concerned here with the metaphysical entailments of a possible posthuman
+future. The illusion of directness belies the very human mechanisms of command
+and control. The simulation ultimately embodies specific power structures in
+an economy of exchange between physical and mental resources. In this market
+there are those who extract rents from virtual, mimetic inhabitance and those
+whose dwelling becomes a commodity.
+
+To insist on mediation is to breach the continuity between body and
+prosthesis, nature and technology. I would like to imagine in conclusion the
+possibility of indexical interfaces, the kind of signs that connect to their
+objects of interest through palpable causal linkages like smoke and fire,
+tissue damage and pain. Is it possible, in other words, to inhabit virtual
+worlds without simulation, to connect viscerally to the material conditions of
+their production? The question is of vital political importance, because
+whether we have answers or not, implements of symbolic manipulation---books
+and pens that once lay safely at an arm's length---move inevitably closer to
+the mind's eye. For now, the screen and the hard drive, mechanisms of memory
+storage and image projection, remain extrinsic to the body. They are at this
+moment still amenable to circumspection. But the gap is closing fast. The
+political consequences of our technological choices become more difficult to
+reveal in proportion to their habituation. Today, people who forego the use of
+electronic tablets, smart phones, laptops, and notebooks could seem merely
+whimsical or quaint. What if tomorrow they be judged mentally deficient or
+barred from participating fully in the public life? The human is endangered
+not by technology, Heidegger wrote, but by its determinism. Technology
+endangers in so far as it is made essential in a way that precludes
+revealment, the search for truth [@heidegger_question_1977, 331-4]. The
+ability to read and to write was previously fraught precisely because of its
+potential to determine the human experience. But this danger cannot be
+banished, only embraced and confronted. It is no accident that the struggle
+for universal literacy accompanied most political revolutions. Poets are
+important to the revolution not because they create beautiful aesthetic
+objects, but because they retain the non-instrumental, emancipatory potential
+of reading and writing. What can be said in parallel about digital literacy,
+the poetry of embodied devices? What if we fail to develop a sense of
+computational poetics in the face of frenzied instrumental development of
+computer technology? How can one empty the hand, the mind, in breach of
+technesis? And what will the emptiness signify: for whom and who with?
 
 <!-- notes -->
 <!-- notes -->
