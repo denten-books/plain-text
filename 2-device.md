@@ -11,21 +11,21 @@ recently rediscovered his formative work on network analysis. His books
 contain beautiful diagrams, sprouting nodes and edges, with titles like
 "Structure of a Cottage Family," "A Handicraft Group," and "The Civilian
 Social Atom." Moreno was also a humanist and a philosopher of technology and
-culture. In opposition to eugenics, popular at the time, his answer to "Who
-Shall Survive?" was "everyone" [@moreno_who_1953, 245].
+culture. In opposition to eugenics, a popular philosophy at the time, his
+answer to "Who Shall Survive?" was "everyone" [@moreno_who_1953, 245].
 
 Humanity, according to Moreno, faces two major threats: first embodied in the
 aggression from other human beings, and second, in the aggression of robots
-or, what Moreno alternatively calls the "cultural conserve" and the
+or, what Moreno alternatively called the "cultural conserve" and the
 "zootechnical animal" [@moreno_who_1953, 237]. Robots for Moreno encompass all
 devices, social structures, and products of the mind that diminish creativity.
 With time, "technical devices" and the "methods in the making of cultural
 products" are inherited and "used with less friction." For Moreno, technology
 is above all a labor-saving device, creativity being the single most important
-kind of labor. When the effort of creativity is diminished significantly,
-humans begin to "neglect and abandon the genuine and outstanding creative
-process." The robot leads to the extinguishing of "all the active, living
-moments," striving towards the "illusion of the finished, perfected product"
+kind of labor. When the effort of creativity diminishes significantly, humans
+begin to "neglect and abandon the genuine and outstanding creative process."
+The robot leads to the extinguishing of "all the active, living moments,"
+striving towards the "illusion of the finished, perfected product"
 [@moreno_who_1953, 233]. This illusion reduces humans to "machine-addicts,"
 residing in a "jungle of robots" that threatens to suffocate all spontaneous
 activity. Through robots, life then becomes a script.
@@ -33,7 +33,7 @@ activity. Through robots, life then becomes a script.
 In the name of comfort, safety, and prolonged life, technocracy disempowers
 the very subjects whose lives it claims to preserve. The zootechnical animal
 exchanges the human capacity for self-determination for the promised certainty
-of a better future. Moreno writes:
+of a better future. Moreno wrote:
 
 > The eugenic dreamer and the technological dreamer have one idea in common to
 substitute and hasten the slow process of nature. Once the creative process is
@@ -44,18 +44,20 @@ infinite numbers practically without effort [...] Once that miraculous eugenic
 formula will be found a human society will be given prefect and smooth at
 birth, like a book off a press [@moreno_who_1953, 236].
 
-Like king Thamus from Plato's *Phaedrus*, Moreno distrusts rote mechanization
-of thought itself. All mechanisms fall under suspicion, instrumental and
-institutional including the plow, the pen, the book, the typewriter, the gun,
-the rocket, and the atomic bomb, radio and television, central planning,
-corporate governance, and legal codex [@moreno_who_1953, 237-44]. Contrary to
-my intuitions, this list places both books and bombs at the same level of
-analysis. For Moreno, both instruments are similar in that they embody a
-detached form of human agency. They both seem to act on their own accord. With
-time, volition so detached and animated begins to govern without consensus or
-comprehension. Splintered from its source, the robot staggers forth,
-*golem*-like, through books, laws, and social institutions. Near immortal,
-images of the past proliferate and crowd out the present. Moreno writes:
+Like king Thamus from Plato's *Phaedrus*, Moreno distrusted rote mechanization
+of thought itself. Instrumental and institutional mechanisms alike fell under
+suspicion: the plow, the pen, the book, the typewriter, the gun, the rocket,
+and the atomic bomb, radio and television, central planning, corporate
+governance, and legal codex [@moreno_who_1953, 237-44]. Contrary to my
+intuitions, this list places both books and bombs at the same level of
+analysis. For Moreno, the one resembles the other in that they both embody a
+kind of agency detached from its human sources. Once released, both books and
+bombs seem to act in the world autonomously; they do not reach their
+destination at once; and their impact is delayed in time and space. Volition
+so detached and animated operates without consensus or comprehension.
+Splintered from its source, the robot staggers forth, *golem*-like, through
+books, laws, and social institutions. Near immortal, images of the past
+proliferate and crowd out the present. Moreno wrote:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -68,11 +70,11 @@ images of the past proliferate and crowd out the present. Moreno writes:
 
 In the aftermath of World War II, Moreno expanded the first edition of his
 book to consider the ultimate automaton, the atomic bomb. "Mankind has been
-awakened from a dream," he writes. The atomic bomb gives humanity a glimpse of
+awakened from a dream," he wrote. The atomic bomb gives humanity a glimpse of
 its common enemy. A mindless agent in possession of detached human volition,
 it competes with living actors for survival. Once in motion, robots---books
 and bombs---continue to do their bidding blindly. They survive and continue to
-shape the social and the mental worlds to come. Moreno explains:
+shape the social and the mental worlds to come. Moreno explained:
 
 > Many of the domesticated robots are blessed with the attribute of becoming
 > labor-saving devices, which has, however the unpleasant consequence that
@@ -84,24 +86,24 @@ shape the social and the mental worlds to come. Moreno explains:
 > The book is a robot par excellence [@moreno_who_1953, 238].
 
 For Moreno, the inertia of past decisions embodied in extant mechanisms
-ultimately poses a threat for human survival. In this view, the real
+ultimately posed a threat for human survival. In this view, the real
 competition for survival happens not between persons, sects, races, or
 nations, but between humanity and its automatons. To compete with the robot
 humans must expand their capacity for creation. Creative spontaneity is the
-one advantage they have over the zootechnical animal. The robot responds with
-repetition, leading to indolence. It eases the burden of creativity, weakening
-the capacity for poiesis. Moreno's therapy practice was therefore based on the
-principle of creative spontaneity training, or "psychodrama," aimed at the
-construction of communities that acknowledge and preserve a sense of personal
-agency. As far as I can tell from the records, the practice involved group
-improvisation and role-play, in what Moreno called the "techniques of freedom"
-[@moreno_who_1953, 8].
+one advantage they have over what he called the zootechnical animal. The robot
+responds with repetition, leading to indolence. Forces of automatism ease the
+burden of creativity, diminishing the human capacity for poiesis. Moreno's
+therapy practice was therefore based on the principle of creative spontaneity
+training, or "psychodrama," aimed at the construction of communities that
+acknowledge and preserve a sense of personal agency. As far as I can tell from
+the records, the practice involved group improvisation and role-play, in what
+Moreno called the "techniques of freedom" [@moreno_who_1953, 8].
 
-Moreno's jarring parallelism between books and bombs reminds the reader that
-both constitute a species of autonomous agents, a problem long in the
-background of Western liberal thought.[^ln1-consensus] In a strange way, both
-print and weaponry represent the human volition displaced in time and space.
-The projectile acts at a distance; once launched, it will complete its grim
+Moreno's jarring parallelism between books and bombs reminds me that both
+constitute a species of autonomous agents, a problem long in the background of
+Western liberal thought.[^ln1-consensus] In a strange way, both print and
+weaponry represent the human volition displaced in time and space. The
+projectile acts at a distance; once launched, it will complete its grim
 mandate even if the command to act is withdrawn. Technology of the word
 similarly decouples readers from writers. The book persists to mean in the
 absence of the author. Once decoupled, seemingly autonomous agents---books,
@@ -116,7 +118,8 @@ which "definite social relation between men" assumes "the fantastic form of a
 relation between things" [@marx_capital_1967, 72]. Moreno arrives at a similar
 conclusion by another logic. In creating some of the earliest examples of
 social network graphs, he finds (and objects to) the presence of things in the
-position of social actors.
+position of social actors. His objections to automatism mirror those of
+Shklovsky, Heidegger, Benjamin, Arendt.
 
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
@@ -125,13 +128,13 @@ robotic as a device that draws electricity, an electronic book. When in the
 fanciful---technophobic even---view of literary technology, a century later
 his concern appears pressing and prescient. The unintended consequences of
 automated and disembodied agency, from artificially intelligent personal
-assistants to market trading algorithms, worry scientists, legislators, and
-philosophers. What looks like a book today indeed takes on the functions of a
-gun and a trigger. Electronic books read on mobile phones, tablets, and
-personal computers comprise a part of the same digital infrastructure that
-powers drones and aircraft carriers. Today, computers in the service of the
-world's largest purveyors of literature are also used by air traffic control
-and covert intelligence agencies [@soyata_combat:_2012;
+assistants to market trading algorithms, worry contemporary scientists,
+legislators, and philosophers. What looks like a book today indeed takes on
+the functions of a gun and a trigger. Electronic books read on mobile phones,
+tablets, and personal computers comprise a part of the same digital framework
+that powers drones and aircraft carriers. Today, computers in the service of
+the world's largest purveyors of literature are also used by air traffic
+control and covert intelligence agencies [@soyata_combat:_2012;
 @logicworks_government_2015]. A cellular phone, once a device used solely for
 voice telecommunication, is now used ubiquitously both to read books and to
 detonate explosives at a distance.
@@ -149,12 +152,12 @@ twentieth century. I am interested here broadly in the concepts of device and
 technique which emerges in the thought of Russian, German, and English
 philologists whose work I will cover in the first section of this chapter. The
 subsequent sections trace the simultaneous emergence of the literary device in
-another sense, as a thought experiment staged by Ludwig Wittgenstein and his
-students in the 1920s and 1930s. These experiments lead us to consider a
-series of fantastical broken reading and writing machines: machines that
-define the limits of symbolic thought and interpretation and ultimately result
-in a specific mechanism, imagined by Alan Turing in a blueprint that lies at
-the modernist origins of contemporary computational culture.
+another sense, as a thought experiment staged by Ludwig Wittgenstein and
+completed by Alan Turing in the 1920s and 1930s. These experiments lead us to
+consider a series of fantastical broken reading and writing machines: machines
+that define the limits of symbolic thought and interpretation and ultimately
+culminate in a blueprint for a specific mechanism, which lies at the modernist
+origins of contemporary computational culture.
 
 ## Technique
 
