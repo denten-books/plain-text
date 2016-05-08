@@ -34,8 +34,8 @@ manuscript, one I could not have achieved without your thoughtful direction
 and without the intellectual engagement of the reviewers. I am deeply thankful
 for their time and input.
 
-The reports suggest a number of small but important revisions that I would
-like to address individually:
+The reports suggest a number of important revisions that I would like to
+address individually:
 
 - Both reports identify the strength of the book in its contribution to the
   study of material contexts of digital text production. Reader Report 1
