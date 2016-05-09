@@ -110,7 +110,7 @@ absence of the author. Once decoupled, seemingly autonomous agents---books,
 folders, documents---clutter the social sphere, continuing to structure human
 experience in the absence of the originating accord. Knowledge, in Plato's
 terms, begins to be replaced with the simulation or imitation [*omoiwmata*] of
-knowledge [@plato_plato:_1999, 250a-b]. The above might appear a curious way
+knowledge [@plato_euthyphro._1999, 250a-b]. The above might appear a curious way
 of putting things, but not unusual in the larger context of post-Kantian
 humanism at the turn of the twentieth century. In Moreno's words we hear more
 than an echo of Marx's critique of the fetishism of commodities, a dynamic by
@@ -607,7 +607,7 @@ written word, as he believes it will foster forgetfulness in the people who
 use it.  Plato writes: "Their faith in extrinsic writing [*graphō exōthen*],
 by means of foreign impressions [*allotrion tupōn*] will diminish their
 intrinsic [*endothen autous*] capacity to remember"
-[@plato_plato:_1999].[^ln1-platotr] Plato thus contrasts the exterior figure
+[@plato_euthyphro._1999].[^ln1-platotr] Plato thus contrasts the exterior figure
 of the inscription [*graphō exōthen*] with the intrinsic [*endothen*] human
 capacity to remember. The Greek *tupōn*, related to the English "type,"
 literally means an impression. And in this case it is "foreign" or "othered"

@@ -1252,7 +1252,7 @@ create the illusion of a single text.
 [^ln1-peirce]: Charles Sanders Peirce, a philosopher of language whose
 vocabulary I have been using here, suggests Simulacra as a possible synonym
 for Icon, citing also Plato's *Phaedrus* in relation to the Greek `ὁμοίωμα` or
-imitation [@peirce_excerpts_1998, 481; @plato_plato:_1999, 250a-b].
+imitation [@peirce_excerpts_1998, 481; @plato_euthyphro._1999, 250a-b].
 
 [^ln1-rmedium]: For example, see Paul Ricoeur writing on the change in media
 from speaking to writing: "The most obvious change from speaking to writing
