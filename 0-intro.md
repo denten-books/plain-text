@@ -695,7 +695,7 @@ and barriers to its distribution disappear from view. For many readers,
 technologies that support reading, writing, and interpretation further pass
 from tools to fetish. No longer comprehensible by the way of the pen or
 printing press we imbue them with magical powers. Thus we exist in the state
-of profound alienation from the material conditions closet to our mental
+of profound alienation from the material conditions closest to our mental
 activity. We read electronic books as they read us, without depth or
 reflection.
 
