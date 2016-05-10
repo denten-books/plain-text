@@ -440,14 +440,18 @@ of the page:
 > to judge by the voices, stood beings akin to him [@nabokov_invitation_1959,
 176].
 
-Modernist literary technique of the sort gestures towards the object,
-arresting the illusion of mimesis and revealing the artifice of the literary
-device. The material affordances of the literary object continually were not
-seen as participating in the dynamics of meaning making. The book itself
-receded from view.
+In this way, formal literary technique gestures towards the object. It arrests
+the illusion of mimesis and reveals the artifice of the literary device. The
+material properties of the book place a hard constraint on its ideational
+content. Nabokov's draws attention to the boundary, but can go no further. The
+reader enters the fictional world only in thought, just like the fictional
+character cannot literally escape the page.
 
-Echoing his Soviet colleagues in his influential *The Craft of Fiction*, the
-English critic Percy Lubbock, himself a formalist of sorts, would write:
+The difficulty of pinpointing the liminal area of the transition between
+thoughts and objects translates to the critic's perpetual inability to grasp
+the material contexts of literary production. Echoing his Soviet colleagues in
+his influential *The Craft of Fiction*, the English critic Percy Lubbock,
+himself a formalist of sorts, would write:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
