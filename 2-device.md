@@ -530,10 +530,11 @@ for an explicit intellectual connection.[^ln2-moaran] My goal is not to prove
 that such a connection exists, but rather to irreparably entwine the two
 intellectual and material genealogies. In the thought of Ludwig Wittgenstein
 and his student Alan Turing we will find, along with a number of broken
-reading and writing machines, a solution to the problem of materialist
-poetics. The Turing machine, as we will encounter it here, will ultimately
-reveal itself to be a minimally viable instrument for translating ideational
-symbols into physical machine states.
+reading and writing machines, a solution to the quandary of materialist
+poetics, posed in the transition between thought and thing. The Turing
+machine, as we will encounter it here, will ultimately reveal itself to be a
+minimally viable instrument for translating ideational symbols into physical
+machine states.
 
 The modern computer---and by extension the electronic book---harkens back to a
 cluster of related thought experiments prevalent in the philosophy of Ludwig
@@ -566,14 +567,13 @@ pages of mathematical journal. The experiment addressed a problem in the field
 of elementary number theory [^ln1-anticipate]. His solution involved more than
 a formula. Instead, he imagined a machine that would in some real sense take
 place of the calculation. Ultimately, Turing described a device that was meant
-to *embody* the symbol: it transformed external abstractions into physical
+to embody the symbol: it transformed external abstractions into physical
 states, internal to the device. In doing so, this imagined machine was
 designed to breach the boundary between idea and matter. It was exactly an
-instrument for transforming ideas into shapes: the same process at the heart
-of materialist poetics discussed in the previous section. In this sense,
-Turing's hypothetical machine represents the conclusion of a long-standing
-thought experiment concerning the nature of human understanding and a
-beginning of a new, machine-assisted, philological practice.
+instrument for transforming ideas into shapes. In that sense, Turing's
+hypothetical machine represents a advancement in the development of a
+long-standing thought experiment concerning the nature of human understanding
+and the beginning of a new, machine-assisted philological practice.
 
 The question of "automated" philology echoes through the canon of Western
 philosophic tradition. What does it mean to read and to understand something?
