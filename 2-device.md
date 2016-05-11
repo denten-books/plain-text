@@ -588,8 +588,8 @@ the body to produce true feelings and appetites." Magpies and parrots can
 appear to speak, Descartes writes, but can they show us that they understand
 [@descartes_discourse_1996]? And what would that "showing" entail?
 
-![Kircher's *Arca Musurgicae*, the musical composition box, 1650
-[@kircher_musurgia_1999, 184].](images/music-box.jpg)
+<!-- ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
+[@kircher_musurgia_1999, 184].](images/music-box.jpg) -->
 
 Recall also the experiments with combinatorial poetics of the 17th century
 German Jesuit scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a
@@ -781,20 +781,24 @@ the communication feedback loop. To convince Socrates that he did more than
 memorize the words, Phaedrus must use more words, which are similarly
 unconvincing. What if those are memorized as well? What can be done to
 convince others definitively of our having understood a text properly?
+
 Wittgenstein finally describes the mechanisms of reading as an "indirect way
 of transmitting a feeling." "Something that we can never know happens at the
 other end" of the communication act [@wittgenstein_blue_1965, 185].
 Communication, we would say today, is always mediated. In conclusion of the
 notebooks, Wittgenstein imagines the possibility of unmediated, "direct" modes
-communication, capable of transmitting feelings from one person to another.
-Barring that possibility, we are ultimately limited by our private sensations
-of knowledge. Any sense of affirmation comes through further expression
-entailing further uncertainty.
+communication, capable of transmitting feelings from one person to another, in
+a way that "obviate[s] the external medium of communication
+[@wittgenstein_blue_1965, 185]" Barring that possibility, we are ultimately
+limited by our private sensations of knowledge. "Something which we can never
+know happens at the end end," Wittgenstein writes [@wittgenstein_blue_1965,
+185]. Any sense of affirmation---the phatic utterance, can you hear me
+now?--comes through further expression entailing further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
 contain the seeds of the reading and writing machines later imagined by Alan
-Turing at the formative sources of modern computing. Wittgenstein's
+Turing at the formative sources of contemporary computing. Wittgenstein's
 experimental thought machines prefigure the conversation on machine
 intelligence. Wittgenstein conjures his fantastical broken mechanisms to test
 the limits of our intuitions about reading, writing, and comprehension.
@@ -823,28 +827,29 @@ In the terms of our earlier discussion about metaphoric transference,
 Wittgenstein's hermeneutics can now be viewed as a type of metaphor making
 across media, translation, or trans-mediation. It is insufficient to merely
 paraphrase something: to show understanding one must "draw a picture" or
-"model" in a way that reveals correspondence of equivalent structures.
-Language cannot be explained in language, for example. One trades symbolisms
-in a sense, creating a model that explains one representational system in
-terms of another. This process is not exact. For example, how would one check
-whether a "clay model" corresponds to a "language model" of something? In
-thinking of the various ways in which the process of translation breaks,
-Wittgenstein continually returns to the pianola, a type of a player piano.
-The mechanism of the player piano defines the relationship between music score
-sheet and the keyboard in a rigid way. Perforated sheet music passes through
-the machine, activating the corresponding pins. When functioning properly, the
-pins have no other option but to respond appropriately. The symbolism of music
-notation and the symbolism of the mechanism stand in accord to one another.
-The rigidity of the connection assures correspondence. The machine enacts an
-exacting translation from one medium to another. We are guaranteed
-correspondence between the two through mechanical means as the actuating
-mechanism of the player piano fits into the groves of the piano roll.
+"model" in a way that reveals the correspondence of equivalent structures.
+Language cannot be explained in language, for example. One must trade
+symbolisms in a sense, creating a model that explains one representational
+system in terms of another. This process is not exact. For example, how would
+one check whether a "clay model" corresponds to a "language model" of
+something? In thinking of the various ways in which the process of translation
+breaks, Wittgenstein continually returns to the pianola, a type of a player
+piano. The mechanism of the player piano defines the relationship between
+music score sheet and the keyboard in a rigid way. Perforated sheet music
+passes through the machine, activating the corresponding pins. When
+functioning properly, the pins have no other option but to respond
+appropriately. The symbolism of music notation and the symbolism of the
+mechanism stand in accord with one another. The rigidity of the connection
+assures correspondence. The machine enacts an exacting translation from one
+medium to the next. We are guaranteed correspondence between the two through
+mechanical means as the actuating mechanism of the player piano fits into the
+grooves of the piano roll.
 
 ![Electrically operated musical instrument by Clyde Coleman of Chicago, Il.
 1914, US1107495A. Wittgenstein returns to the image of pianola throughout his
 writings.](images/pianola.png)
 
-This sort of a rigid correspondence brings us closer to a solution to the
+This sort of a rigid correspondence brings us closer to an answer to the
 "proper interpretation" problem. But, like the other, less exacting,
 mechanisms of comprehension, the pianola can break too. In the early passages
 of *Philosophical Grammar*, Wittgenstein explains: "Aren't our sentences parts
@@ -858,7 +863,7 @@ Wittgenstein elaborates a few pages later:
 > mechanism, and the words of the sentences are also parts of the mechanism
 > (levers, cogwheels, and so on). The example that seems to illustrate what
 > we're thinking of here is an automatic music player, a pianola. It contains
-> a roll, rollers, etc., on which the piece of music is written is some kind
+> a roll, rollers, etc., on which the piece of music is written in some kind
 > of notation (the position of holes, pegs, and so on). It's as if the written
 > sign gave orders which are carried out by keys and hammers
 > [@wittgenstein_philosophical_1974, 69].
@@ -866,19 +871,18 @@ Wittgenstein elaborates a few pages later:
 As was the case with reading automata in *The Blue and Brown Notebooks*,
 Wittgenstein again substitutes a physical mechanism for the process of
 symbolic interpretation. In this view, words and music notation alike contain
-"a purpose" to elicit some "effects" in the interpretive mechanism. As before,
+a "purpose" to elicit some "effects" in the interpretive mechanism. As before,
 we cannot always expect the mechanism of interpretation to function properly,
 nor do we have a reliable way to check its operation. "Suppose the pianola is
 in bad condition," Wittgenstein repeats. The signs on the roll could produce
 "hisses and bangs" instead of music, for example. One could object that notes
 are always "meant" to play on a mechanism in perfect working order. But to
 explain what is meant, we would need to draw yet another diagram or build
-another machine. Wittgenstein explain through another analogy. The "sense" of
-an "order"---the programming instructions of the piano roll---lies in its
-"effect on an obedient man" [@wittgenstein_philosophical_1974, 60-70]. The
-pianola exemplifies a class of controlling mechanisms. In good working
-condition it is ultimately obedient to the instructions printed on a piano
-roll.
+another machine. Wittgenstein elaborates by another analogy: the "sense" of an
+"order"---the programming instructions of the piano roll---lies in its "effect
+on an obedient man," he writes [@wittgenstein_philosophical_1974, 60-70]. The
+pianola thus exemplifies a class of controlling mechanisms. In good working
+condition it is exactly obedient to the instructions printed on a piano roll.
 
 When drawing the analogy between mental and mechanical processes, Wittgenstein
 explicitly rejects the model of language as a "psychophysical" mechanism.
@@ -904,22 +908,19 @@ assembler "accepts a set of a set of symbolically-coded instructions" and
 @neuhold_formal_1971, 95].[^ln2-compile] Wittgenstein imagines something like
 a programming language along with an interpreter and a compiler when he
 writes, "imagine a language consisting of commands." It is to direct a human
-"forwards," "back," "right," and "left," "quickly" and "slowly"
-[@wittgenstein_philosophical_1974, 197] Add to it a grammar, a table of
-correspondences, which explains the meaning of the signs. The grammar "means"
-in the sense of specifying the rules by which meaning succeeds or fails,
-Wittgenstein explains. In this way, we can move away from speaking of
-"intended effects" or "proper obedience," and rather concentrate on this
-interpretive, translative layer, which describes the rules of engagement.
-
-[^ln2-compile]: I am forgoing the distinction between interpreters and
-compilers for simplicity's sake.
+"forwards," "back," "right," and "left," "quickly" and "slowly." Add to it a
+grammar, a table of correspondences, which explains the meaning of the signs.
+The grammar "means" in the sense of specifying the rules by which meaning
+succeeds or fails, Wittgenstein explains. In this way, we can move away from
+speaking of "intended effects" or "proper obedience," and rather concentrate
+on this interpretive, translative layer, which describes the rules of
+engagement [@wittgenstein_philosophical_1974, 197].
 
 ## Thought Experiment III
 
 Turing met Wittgenstein at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
-Wittgenstein's lectures on the foundation of mathematics in 1939 , both men's
+Wittgenstein's lectures on the foundation of mathematics in 1939, both men's
 work exhibits sustained attention to computing machines narrowly and to the
 mechanical manipulation of symbols more generally
 [@wittgenstein_wittgensteins_1976, 7]. From the notes on Wittgenstein's
@@ -945,31 +946,31 @@ imagined to be a description of a mechanism---even the rule which says a pawn
 must not be moved in a certain way," Wittgenstein writes
 [@wittgenstein_wittgensteins_1976, 282]. The parts of the mechanism
 subsequently exist in a causal relationship to one another. Pushing this or
-that lever will *always* result in such and such movement, because of the way
+that lever will always result in such and such movement, because of the way
 the mechanical parts are connected. We say that the mechanism is rigid or the
-law is inexorable, when the results of an action are absolutely fixed.
+law is inexorable when the results of an action are absolutely fixed.
 Wittgenstein calls such a relationships "super-hardness." Where a judge can be
-lenient, he explains, the law is compulsory. What we would now call "an
-algorithm" compels predictable execution.
+lenient, he explains, the law is compulsory. What we would now call an
+"algorithm" compels predictable execution.
 
 We are tempted, as before, to privilege the inner workings of the symbolic
 mechanism, also at the core of meaning making in mathematics. "If I show you
 the mechanism behind the [watch] dial, you will be able to predict the
 movement of the hour hand for any given movement of the minute hand,"
-Wittgenstein writes. But once again, how do we know if the mechanism is
-functioning properly? For example, I may drop the clock, Wittgenstein
+Wittgenstein writes. But once again, how do we know if a mechanism is
+functioning properly? I may drop the clock, for example, Wittgenstein
 explains, "so that the machinery is broken, or a lighting may strike it
-[@wittgenstein_wittgensteins_1976, 195]. The check the mechanism for damage we
+[@wittgenstein_wittgensteins_1976, 195]. To check the mechanism for damage we
 need "a picture," a diagram, or some sort of schematics that describe what the
 properly functional mechanism looks like. The mechanism is in fact itself a
-type of a symbol for the perfected behavior of the sort that we expect. We can
-compare the broken clock with a clock that works, for example. Where we tried
-to find the mechanism behind the symbol, we find also the symbol behind the
-mechanism. But also we again struggle to complete the circuit of
-interpretation between intent and effect, which never quite manage to explain
-and to verify each other. How do we know that our "gold standard" working
-clock is itself functioning properly? We are faced with a series of receding
-analogies.
+type of a symbol for the perfected behavior of the sort that we expect. We
+can, for example, compare the broken clock with a clock that works. Where we
+tried to find the mechanism behind the symbol, we found also the symbol behind
+the mechanism. But again we struggle to complete the circuit of interpretation
+between intent and effect, which never quite manage to explain and to verify
+each other. How do we know that our "gold standard" clock schematics are
+themselves golden, that is that they leads to the construction of properly
+functioning clocks? We are again faced with a series of receding analogies.
 
 In his lectures on mathematics, Wittgenstein never finds a way out of this
 conundrum. The foundations of mathematics rely on some such mutually dependent
@@ -993,9 +994,9 @@ and readers with a number of hypothetical machines, Wittgenstein attempts to
 discover the "rule book" of what he later calls a language game---or at lest
 to suggest that such a rulebook might exist. Much has been written on this
 aspect of Wittgenstein's thought and its relation to Bertrand Russel's
-symbolic logic and subsequently to Chomsky's development of the "universal
-grammar" [^ln2-chomchom]. In the context of our conversation, Wittgenstein's
-"middle period" is important for its direct influence on Turing's model of
+symbolic logic and subsequently to Chomsky's universal grammar.
+[^ln2-chomchom] In the context of our conversation, Wittgenstein's "middle
+period" is important for its direct influence on Turing's model of
 computation.
 
 [^ln2-chomchom]: I make this connection with many caveats and with the
@@ -1004,13 +1005,13 @@ acknowledgement of the complexity involved. See for example Ch. 6-8 in
 
 Several prominent characteristics pass from Wittgenstein's reading to Turing's
 universal machines. First, the symbolic machine emerges from the metaphor-like
-correspondence between internal machine state and external symbolic
+correspondence between intrinsic machine state and its extrinsic
 representation. Second, Wittgenstein discusses symbolic representation in
 terms of its delayed effects, that is, ultimately, a type of a control
-mechanism. And finally, Wittgenstein imagines a mediating layer that holds the
-rules for translation between state and symbol. All of these features, along
-with a collection of hypothetical machines in various states of disrepair,
-pass directly from Wittgenstein to Turing.
+mechanism. And finally, Wittgenstein imagines a mediating layer that holds
+rules for translation between machine state and symbol. All of these features,
+along with a collection of hypothetical machines in various states of
+disrepair, pass directly from Wittgenstein to Turing.
 
 Turing's machine offers a strikingly minimalist response to the legacy of
 automated hermeneutics, which I have began to outline above. His universal
@@ -1022,26 +1023,32 @@ on the symbols, and (c) a way to transform external symbolic states into
 internal states of the mechanism. Given these three characteristics, the
 machine becomes a universal mechanism. The universal Turing machine can assume
 the function of any other machine, as long as that machine's internal states
-are amenable to symbolic representation. Symbolic machine states comprise the
-input of the universal machine. In Wittgenstein's terms, Turing imagines a
-mechanism able to "trace the mechanism" of all other forms of symbolic
-manipulation. In this lies the essence of universal Turing computation.
+are amenable to symbolic representation. Dwell on that thought because it is
+key to understanding Turing machines. Is a hammer, for example, capable of
+holding internal states? I can imagine a hammering robot but not a robotic
+hammer. Why? The robotic hammer immediately presupposes a machine within the
+instrument. The sense of inferiority makes the hammer into something else,
+namely a machine capable of following hammering instructions. The ability to
+follow instructions, to imitate technique, is what separates a simple tool
+from a Turing machine. A number of such possible symbolic machine states
+comprise the input of Turing's universal machine. In Wittgenstein's terms,
+Turing imagines a mechanism able to "trace the mechanism" of all other
+mechanisms. In this lies the essence of universal Turing computation.
 
-Let us examine the machine more carefully. Turing begins his paper as we would
-expect from Wittgenstein's lineage, with an analogy: "we may compare a man in
-the process of computing a real number to a machine that is only capable of a
-finite number of conditions" [@turing_computable_1937, 231]. In effect, he
-asks his readers to compare computation, a human mental process, to the
-mechanical action of a machine. As Charles Petzold explained it in his
+Let us examine the universal machine more carefully. Turing begins his paper
+as we would expect from Wittgenstein's student, with an analogy: "we may
+compare a man in the process of computing a real number to a machine that is
+only capable of a finite number of conditions" [@turing_computable_1937, 231].
+In effect, he asks his readers to compare computation, a human mental process,
+to the mechanical action of a machine. As Charles Petzold explained it in his
 book-length annotation on Turing's paper, Turing "makes reference to 'states
 of mind' that are analogous to machine states" [@petzold_annotated_2008, 67].
-When read in the context of Wittgenstein's thought experiments, it becomes
-clear that the analogy itself is a kind of a provocation. Neither
-mathematicians nor philosophers of mind agreed then nor do they now on the
-extent to which states of mind can be compared to discrete machine states.
-Turing provocatively slides into the language of cognition to reinforce the
-analogy between mind and mechanism. His machines "think" and his humans
-"compute" throughout.
+When read in the context of Wittgenstein's thought experiments, the analogy
+sounds like a provocation. Neither mathematicians nor philosophers of mind
+agreed then nor do they now on the extent to which states of mind can be
+compared to discrete machine states. Turing provocatively slides into the
+language of cognition to reinforce the analogy between mind and mechanism. His
+machines "think" and his humans "compute" throughout.
 
 Turing further imagines a machine "supplied with a 'tape' (the analogue of
 paper) running through it, and divided into sections (called 'squares') each
@@ -1062,9 +1069,10 @@ of the symbols which it has 'seen' (scanned) previously"
 [@turing_computable_1937, 231]. The machine's "behavior" is therefore
 determined by its initial configuration---the arrangement of tape and scanning
 apparatus---plus the scanned symbol. The scanned symbol becomes a part of
-machine "memory." In contemporary language we would say that the mechanism
-translates software into hardware, and the other way around, in a process of
-translation already suggested in Wittgenstein thought experiments.
+machine "memory." To paraphrase today, I would say that the mechanism
+translates software into hardware and the other way around, in a process of
+translation between thought and thing already suggested in Wittgenstein
+thought experiments.
 
 We imagine then a device not unlike a telegraph or a film projector, which
 ingests reels of tape. But unlike telegraphs or film projectors, the ingested
@@ -1073,65 +1081,66 @@ internal state in a way that telegraph tape or film reels do not when it comes
 to telegraphs and film projectors. The film reel and the ticker tape pass
 through the mechanism without leaving a trace. The tape of the Turing machine
 alters the machine's internal configuration in a way that lasts beyond the
-tape's discharge from the mechanism. If you recall Wittgenstein's earlier
-thought experiments in this vein, he too spoke of humans in the process of
-reading or doing mathematics who similarly "ingest" symbols; of the need to
-internalize external symbolic states; and of affecting a change in mental
-states, on some real and empirically observable neurological level, that
-correlate to the symbol. Turing's machine is capable of such ingestion.  It
-"thinks," "reads," and "remembers" to the extent of its capability to scan and
-internalize symbolic inscription. The Turing machine in effect gives us a
-concise and minimally viable definition of "reading" and "becoming aware."
-Proper reading for Turing simply involves the appropriate internalization of
-the symbol, for both human and machine. His machine did not just scan, it
-"read" in the Platonic sense, able to convert ideal forms into their specific
-physical instantiations: to trace the mechanism behind the symbol, something
-Wittgenstein did not think was possible.
+tape's discharge from the mechanism.
 
-In addition to "reading," Turing's machine also writes. Turing writes that "in
-some configurations in which the scanned square is blank (*i.e.* bears no
+If you recall Wittgenstein's earlier thought experiments in this vein, he too
+spoke of humans in the process of reading or doing mathematics who similarly
+"ingest" symbols; of the need to internalize external symbolic states; and of
+affecting a change in mental states, on some real and empirically observable
+neurological level, that correlate to the symbol. Turing's machine is capable
+of such ingestion. It "thinks," "reads," and "remembers" to the extent of its
+capability to scan and internalize symbolic inscription. The Turing machine in
+effect gives us a concise and minimally viable definition of "reading" and
+"becoming aware." Proper reading for Turing simply involves the appropriate
+internalization of the symbol, for both human and machine.
+
+In addition to "reading," Turing's machine also writes. Turing explains that
+"in some configurations in which the scanned square is blank (*i.e.* bears no
 symbol) the machine writes down a new symbol on the scanned square"
-[@turing_computable_1937, 231]. The machine is capable also of erasing and
-moving symbols to adjacent squares, one square at a time. Reading, writing,
-and symbolic manipulation are all actions at the core of Turing's computation.
-More than just reading, Turing's machine reading is capable of altering the
-rules of scansion. If we take "reading" to initially entail "moving our eyes
-from left to right," for example, we must also imagine machine symbols that
-stand for instructions like "now move from right to left." The configuration
-state of the machine determines the movement of the "reading" and "writing"
-apparatus along the surface of the tape. Unlike an analog watch, to use a
-simple example, the mechanism of the Turing machine is not "set in stone." It
-is capable of altering its own inner works. In this action, some of the
-scanned symbols represent computable numbers, or data as we would say today,
-on which computation is performed. Yet other symbols represent machine
-instructions, which define the rules of computation. This type of
-instructional symbols directs the movement of the reading and writing heads,
-which "write," "scan," or "erase" symbols. Today, we would call such
-instructions "programs," "applications," or "software." Control codes and
-computed data within a Turing machine form a part of the same continuous
-stream of information. Computation, in the Turing sense, entails the
-transference between symbolic and solid states of being.
+[@turing_computable_1937, 231]. The machine should thus also be capable of
+erasing and moving symbols to adjacent squares, one square at a time. Reading,
+writing, and symbolic manipulation are all actions at the core of Turing's
+computation. More than simple scansion, a Turing machine is capable of
+altering the rules of reading. If we take "reading" to initially entail
+"moving our eyes from left to right," for example, we must also imagine
+machine symbols that stand for instructions like "now move from right to
+left," or, "skip every other character." The configuration state of the
+machine determines the movement of the "reading" and "writing" apparatus along
+the surface of the tape. Unlike an analog watch, to use a simple example, the
+mechanism of the Turing machine is not "set in stone." It is capable of
+altering its own inner works. In this action, some of the scanned symbols
+represent computable numbers, or data as we would say today, on which
+computation is performed. Yet other symbols represent machine instructions,
+which define the rules of computation. This type of instructional symbols
+direct the movement of the reading and writing heads, which "write," "scan,"
+or "erase" symbols. Today, we would call such instructions "programs,"
+"applications," or "software." Control codes and computed data within a Turing
+machine form a part of the same continuous stream of information. Computation,
+in the Turing sense, entails the transference between symbolic and solid
+states of being.
 
-Just as the Turing machine is able, in theory, to convert symbolic
-representation into internal configuration states, it can conversely enact the
-opposite movement, by representing internal configuration states symbolically.
-This remarkable property allows for the creation of what Turing calls a class
-of *universal* machines, distinct from mere single-purpose computers.
-Specific Turing machines can be configured to preform specific actions like
-addition or multiplication. But the multiplication machine cannot, for
-example, be reconfigured for another purpose, because the physical movement of
-its internals is fixed. An electronic scale, for example, is built for one
-purpose only. It cannot be used for word processing or for the calculation of
-missile trajectories. An adding machine can only add. The universal Turing
-machine by contrast has the ability to internalize *other machine
-configurations*. Such a machine can, in Turing's words, "compute any
-computable sequence" [@turing_computable_1937, 241]. In being able to
-internalize physical configuration as symbol, the universal Turing machine
-gains the ability to simulate all other special-purpose Turing machines, as
-long as these machines are amenable to symbolic representation. For this
-reason, Turing computation excludes non symbolic, mechanical action like
-hammering nails or harvesting grain. The Turing machine simulates symbolic
-manipulations. It is a trace of a trace; a diagram of diagrams.
+Just as the Turing machine is able, in theory, to convert extrinsic signs into
+intrinsic physical configuration states, it can conversely enact the opposite
+movement, by representing internal configuration symbolically. This remarkable
+property allows for what Turing calls a class of *universal* machines,
+distinct from mere single-purpose computers. Specific Turing machines can be
+configured to preform specific actions like addition or multiplication. But
+the multiplication machine cannot, for example, be reconfigured for another
+purpose, because the physical movement of its internals is fixed. An
+electronic scale, for example, is built for one purpose only. It cannot be
+used to process text or calculate missile trajectories. An adding machine can
+only add. The universal Turing machine by contrast has the ability to
+internalize *other machine configurations*. Such a machine can, in Turing's
+words, "compute any computable sequence" [@turing_computable_1937, 241]. In
+being able to internalize physical configuration as symbol, the universal
+Turing machine gains the ability to simulate all other special-purpose Turing
+machines, as long as these machines are amenable to symbolic representation.
+For this reason, Turing computation excludes non symbolic, mechanical action
+like hammering nails or harvesting grain. The Turing machine simulates
+symbolic manipulations. It is a trace of a trace; a diagram of diagrams. The
+technique is the thing being simulated, not the action itself. In this way,
+the basic mechanism of reading and writing of symbols along tape gives rise to
+all higher level symbolic manipulations.
 
 The transition of symbols into machine states (and the other way around)
 defines modern programming. Unlike other, definitive, single-purpose and
@@ -1139,42 +1148,40 @@ limited-state mechanisms (a clock for example), a universal machine contains
 the ability to take on differing internal symbolic configurations. It can
 imitate a clock, an abacus, a scale, a book. In a later paper that links
 computing machinery and intelligence, Turing implied also that his machine
-could eventually simulate human thought, because as we saw human thought is in
-itself a type of a symbolic manipulation
-[@turing_computing_1950].[^ln1-compete]
+could eventually simulate human thought, because he saw the mind as another
+way of manipulating symbols [@turing_computing_1950].[^ln1-compete] Are minds
+just types of Turing machines or are Turing machines a kind of mind? Turing
+leaves the door open for either possibility. The universal Turing machine
+finally encapsulates a model of computation itself. It is capable of computing
+anything computable. In substituting the concept of computability with
+"effective computability" Turing's paper belongs to the annals of mathematical
+theory. It continues to elicit conflicting responses widely because much of it
+contains also the tantalizing possibilities that bear on symbolic manipulation
+generally, including ideas about human cognition and comprehension. From its
+opening lines, we are asked to consider the similarity between humans and
+machines in the process of thinking. Turing consistently describes machine
+states in terms of "states of mind," "awareness," and "memory." These
+descriptions hint at the impact of computation more broadly, beyond
+mathematical theory. Besides offering mathematical proof, the paper embarks on
+an experimental, ludic even, enterprise in the spirit of Wittgenstein's
+playful experimentation, which often involved altered states of mind, drugs,
+delirium, madness, and outright deception.
 
-The universal Turing machine finally encapsulates a model of computation
-itself. It is capable of computing anything computable. In substituting the
-concept of computability with "effective computability" Turing's paper belongs
-to the annals of mathematical theory. But, it continues to elicit conflicting
-responses widely because much of it contains also the tantalizing
-possibilities that bare on symbolic manipulation generally, including ideas
-about human cognition and comprehension. From its opening lines, we are asked
-to consider the similarity between humans and machines in the process of
-thinking. Turing consistently describes machine states in terms of "states of
-mind," "awareness," and "memory." These descriptions hint at the impact of
-computation more broadly, beyond mathematical theory. Besides offering a
-mathematical proof, the paper embarks on an experimental, ludic even,
-enterprise in the spirit of Wittgenstein's playful experimentation, which
-often involved altered states of mind, drugs, delirium, madness, and outright
-deception.
-
-Reconstructing the influence of Wittgenstein's thought on Turing confirms the
+Reconstructing the influence of Wittgenstein's thought on Turing affirms the
 unexpected place of Turing's "On Computability" in the conversation about
-language, mental states like pain, reading, and the structure of
-comprehension. Seen in the light of Wittgenstein's philosophy, Turing's work
-and consequently the early history of computing acquires a broader
-significance, beyond the narrow confines of the *Entscheidungsproblem*, the
-problem the paper addressed explicitly. In 1936, on the eve of World War II,
-Turing imagined more than a formula: it was a thing that could explore the
-limits of theory, and a theory that identified a new class of emerging things.
-Through Turing's well-documented involvement in Government Code and Cypher
-School (GC&CS) at Bletchley Park, actual Turing machines changed the nature of
-warfare: used at first to break encrypted military communications and then to
-compute missile trajectories. But as I have argued here, Turing machines also
-changed humanity's relationship to symbolic thought. They belong to an
-intellectual tradition of distinctly humanist thinking about reading, writing,
-text, and interpretation.
+language, reading, and the structure of comprehension. Seen in the light of
+Wittgenstein's philosophy, Turing's work and consequently the early history of
+computing acquires a broader significance, beyond the narrow confines of the
+*Entscheidungsproblem*, the problem the paper addressed explicitly. In 1936,
+on the eve of World War II, Turing imagined more than a formula: it was a
+thing that could explore the limits of theory, and a theory that identified a
+new class of emerging things. Through Turing's well-documented involvement in
+Government Code and Cypher School (GC&CS) at Bletchley Park, actual Turing
+machines changed the nature of warfare: used at first to break encrypted
+military communications and then to compute missile trajectories. But as I
+have argued here, Turing machines also changed humanity's relationship to
+symbolic thought. They belong also to an intellectual tradition of distinctly
+humanist thinking about reading, writing, text, and interpretation.
 
 ## Device
 
@@ -1498,14 +1505,15 @@ deployment of these codified resources. The heart and the sky are sites on
 where the tactics of inscription are increasingly contested. They require a
 capacity to meet the machine and a poetics capable of new emendations.
 
-[^ln1-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
+<!-- notes -->
+<!-- notes -->
+<!-- notes -->
+
+[^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
+most worthy of thought and questioning remains the mystery of
+language---wherein our entire reflection has to gather itself---above all when
+it dawns on us that language is not a work of human beings: language speaks."
+See also @blanchot_work_1995, 41.
 
 [^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a
 year later, Turing's mathematical insight was anticipated by concomitant work
@@ -1533,6 +1541,17 @@ computer is a convergence of separate streams of information handling, each
 with its own rich tradition of technological history." "One could add other
 antecedents such as the development of radio, motion pictures, and photography"
 [@ceruzzi_computing_2012, 11].
+
+[^ln2-compile]: I am forgoing the distinction between interpreters and
+compilers for simplicity's sake.
+
+[^ln1-consensus]: The literature on consensual governance, for example, going
+back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
+consent. To paraphrase, they ask: What makes whatever compacts made by past
+generations still valid today?
+
+[^ln1-cope]: See for example @copeland_what_2000 and
+@wagner_wittgenstein_2005.
 
 [^ln1-compete]: "We may hope that machines will eventually compete with men in
 all purely intellectual fields" [@turing_computing_1950, 460].
@@ -1574,6 +1593,15 @@ has been said before in many ways.
 [^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
 experience, despite the overwhelming evidence for determinism.
 
+[^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
+attributed to his later prominence.
+
+[^ln2-moaran]: There is evidence that Ludwig Wittgenstein, the subject of this
+section, read Russian and that he visited the Soviet Union in the 1930s. Both
+he and Shklovsky fought in Galicia at the Eastern Front although there is no
+evidence that the two men met nor knew of one another's work. See
+@moran_wittgenstein_1972.
+
 [^ln1-normal]: The process of normalization continues today as contemporary
 technologies like natural language processing and optical character recognition
 struggle to bring non-regularized writing systems under the computational
@@ -1585,7 +1613,7 @@ imagines a machine. The PC is a machine emulating the thought experiment. See
 @putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
 more detailed discussion follows in 1.2.
 
-[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
+[^ln1-pop]: See for example @drucker_digital_2001; @golumbia_cultural_2009;
 @marche_literature_2012.
 
 [^ln2-shklov]: I rely on the Russian originals throughout, but will cite the
@@ -1598,14 +1626,17 @@ René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
 Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
 @herken_universal_1988; @grattan-guinness_development_1981].
 
-[^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
-attributed to his later prominence.
-
-[^ln2-moaran]: There is evidence that Ludwig Wittgenstein, the subject of this
-section, read Russian and that he visited the Soviet Union in the 1930s. Both
-he and Shklovsky fought in Galicia at the Eastern Front although there is no
-evidence that the two men met nor knew of one another's work. See
-@moran_wittgenstein_1972.
+[^ln1-turingcog]: Turing's later work suggests that his use of cognitive
+language throughout "On Computable Numbers" was not accidental, and that he
+meant it to define sentience more generally [@turing_computing_1950].
+[^ln1-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
 
 [^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
 College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
@@ -1613,7 +1644,7 @@ appeared in print in 1936. It is likely that the two philosophers met at the
 Moral Science Club, where by the 1930s Wittgenstein "monopolized the
 discussion," even in the presence of prominent philosophers like George Edward
 Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
-the foundations of mathematics in 1939. 
+the foundations of mathematics in 1939.
 
 [^ln1-platotr]: I translate the passage into literal, if awkward, English to
 preserve some of the interesting characteristics of the original Greek. In
@@ -1622,23 +1653,5 @@ ambiguity of *allotrion*, as something that comes from another, and the subtle
 slide between *graphō* (letter, figure, writing) and *tupōn* (type,
 impression, trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios,
 and Guy Smoot for their help with the Greek translations.
-
-[^ln1-turingcog]: Turing's later work suggests that his use of cognitive
-language throughout "On Computable Numbers" was not accidental, and that he
-meant it to define sentience more generally [@turing_computing_1950].
-
-[^ln1-cope]: See for example @copeland_what_2000 and
-@wagner_wittgenstein_2005.
-
-[^ln1-auto]: See for example @heidegger_pathmarks_1998, 57: "For the phenomenon
-most worthy of thought and questioning remains the mystery of
-language---wherein our entire reflection has to gather itself---above all when
-it dawns on us that language is not a work of human beings: language speaks."
-See also @blanchot_work_1995, 41.
-
-[^ln1-consensus]: The literature on consensual governance, for example, going
-back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
-consent. To paraphrase, they ask: What makes whatever compacts made by past
-generations still valid today?
 
 \newpage
