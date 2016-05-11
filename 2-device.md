@@ -579,26 +579,27 @@ The question of "automated" philology echoes through the canon of Western
 philosophic tradition. What does it mean to read and to understand something?
 Is it enough to repeat the words of another, as for example Phaedrus does in
 response to Socrates? Could a student be said to possess reason if he was
-merely parroting thoughts and not really thinking on his own?  Would we say
-the same thing of an animal or a machine? The question as posed also by
-Descartes who wrote that it would not be sufficient for the "reasoned soul" to
-be "lodged in the human body like a pilot of a ship, except perhaps to move
-its members," but that intelligence must be "more closely joined and united
-with the body to produce true feelings and appetites"
-[@descartes_discourse_1996]? Recall also the experiments with combinatorial
-poetics of the 17th century German Jesuit scholar Athanasius Kircher, the
-inventor of *Arca Musurgicae*, a music composition device, by which a composer
-not versed in music would combine predetermined musical phrases written on
-wooden planks to compose a score.
+merely parroting thoughts and not really thinking on his own? Would we say the
+same thing of an animal or a machine? The question was posed also by Descartes
+who wrote that it would not be sufficient for the "reasoned soul" to be
+"lodged in the human body like a pilot of a ship, except perhaps to move its
+members," but that intelligence must be "more closely joined and united with
+the body to produce true feelings and appetites." Magpies and parrots can
+appear to speak, Descartes writes, but can they show us that they understand
+[@descartes_discourse_1996]? And what would that "showing" entail?
 
 ![Kircher's *Arca Musurgicae*, the musical composition box, 1650
 [@kircher_musurgia_1999, 184].](images/music-box.jpg)
 
-In correspondence with Kircher, the German Baroque poet Quirinus Kuhlman
-argued that using such an instrument to compose music or poetry would amount
-to "*sed versûs, non poëma* [mere versification, not poetry]." Would we call a
-naive child using such a contraption a composer or a poet, he asked? And
-answered:
+Recall also the experiments with combinatorial poetics of the 17th century
+German Jesuit scholar Athanasius Kircher, the inventor of *Arca Musurgicae*, a
+music composition device, by which a composer not versed in music would
+combine predetermined musical phrases written on wooden planks to compose a
+score. In correspondence with Kircher, the German Baroque poet Quirinus
+Kuhlman argued that using such an instrument to compose music or poetry would
+amount to "*sed versûs, non poëma* [mere versification, not poetry]." Would we
+call a naive child using such a contraption a composer or a poet, he asked?
+And answered:
 
 > Sed lusus est ingeniosus, Ingeniose Kirchere, non methodus, prima fronte
 > aliquid promittens, in recessu nihil solvens. Sine cista enim puer nihil
@@ -611,11 +612,13 @@ answered:
 > understands nothing but words. He produces whatever he hears, without
 > understanding, like a parrot [@gillespie_primal_1978, 32].
 
-Without the box the child cannot create. Like the parrot of Descartes it
-mimics creation on the surface. Nothing in the mind of an automaton
-corresponds to the outward appearance of thought. The child composes poetry
-without thinking---that is without the appropriate deep structure that should
-accompany proper poiesis.
+Without the box the child cannot create. Like the parrots of Plato and
+Descartes it mimics creation on the surface. Nothing in the mind of an
+automaton corresponds to the outward appearance of thought. The child composes
+poetry without thinking---that is without the appropriate deep structure that
+should accompany proper poiesis. If technique alone is to guide the creation
+of poetry, in a way that was suggested by the formalists, would purely formal
+creation be recognized by us as art, or thought, or language even?
 
 The philosopher John Searle would later pose a similar question in his famous
 Chinese Room thought experiment [@searle_minds_1980]. Can a contraption be
@@ -632,55 +635,57 @@ a language in the way a fluent speaker can. For Searle and other so-called
 [@searle_minds_1980]. Plato, Descartes, Kuhlman, and Searle all pose a version
 of the same thought experiment, which aims to draw a line between the surface
 appearance of knowledge and an idea of deep, structural understanding opposed
-to mere functionalism. Reading should, these thinkers intuit, leave something
-behind. A text must be somehow "joined and united" with the body, to
-paraphrase Descartes. For understanding to happen words must continue to
-produce meaning independent of the original inscription. Internalists like
-Searle hold that the inscription and the mental state must achieve a measure
-of accordance.
+to mere functionalism. Reading and writing should, these thinkers intuit,
+leave something behind. A text must be somehow "joined and united" with the
+body, to paraphrase Descartes. For understanding to happen words must continue
+to produce meaning independent of their ordinating inscription. Internalists
+like Searle hold that the inscription and the mental state must achieve a
+measure of accordance. Functional appearances are not enough.
 
 Recall the famous *pharmakon* passage from Plato's *Phaedrus*, which explores
-the relationship between writing and mental impression. At the conclusion of
-the dialog, King Thamus objects to the technology [*ta tekhnēs*] of the
-written word, as he believes it will foster forgetfulness in the people who
-use it.  Plato writes: "Their faith in extrinsic writing [*graphō exōthen*],
-by means of foreign impressions [*allotrion tupōn*] will diminish their
-intrinsic [*endothen autous*] capacity to remember"
+the relationship between writing and its impression on the mind. At the
+conclusion of the dialog, King Thamus objects to the technology [*ta tekhnēs*]
+of the written word, as he believes it will foster forgetfulness in the people
+who use it. Plato writes: "Their faith in extrinsic writing [*graphō
+exōthen*], by means of foreign impressions [*allotrion tupōn*] will diminish
+their intrinsic [*endothen autous*] capacity to remember"
 [@plato_euthyphro._1999].[^ln1-platotr] Plato thus contrasts the exterior
 figure of the inscription [*graphō exōthen*] with the intrinsic [*endothen*]
 human capacity to remember. The Greek *tupōn*, related to the English "type,"
-literally means an impression. And in this case it is "foreign" or "othered"
+literally means an impression. In this case it is also "foreign" or "othered"
 [*allotrion*]. It comes from without. Like Moreno after him, Thamus finds
 thought externalized through typography problematic. True memory and thought
 for them both must come from within: it must be autopoietic and not
 allopoietic activity. For this reason, Socrates asks the young man to stop
 reciting the speech by heart in the beginning of the dialog. He wants Phaedrus
-to think for himself and not to merely regurgitate the thought of
-another---not be a parrot or an automaton, in other words. To truly understand
+to think for himself and not to merely regurgitate the thought of another---in
+other words, to stop being a mere parrot or an automaton. To truly understand
 something and to make a show of their comprehension, readers must do more than
 read: they must internalize. Much can go wrong in that process, but we expect
 for reading to ultimately leave an appropriate impression [*tupōn*] on the
-reader's mind. For understanding to take place, writing must produce "true"
-feelings and appetites, in the words of Descartes. But what is true,
-appropriate, or proper?  What does it mean to properly internalize or ingest
-an inscription?---that is the profound mystery always present even in the most
-mundane acts of reading and writing.
+reader's mind. For understanding to take place, writing must produce "true,"
+in the words of Descartes, feelings and appetites. But what is true,
+appropriate, or proper?  What does it take to internalize or ingest an
+inscription properly?---that is the profound mystery always present even in
+the most mundane acts of reading and writing.
 
-Turing's machine must be understood first in the general context of this
-broader tradition and second as a specific response to a series of thought
-experiments proposed by Ludwig Wittgenstein in the 1930s at King's College,
-Cambridge where Turing attended as a student and later as an
-instructor.[^ln1-timeline] Wittgenstein broached the problem of reading
-machines and comprehension initially in his *Blue and Brown Books* along with
-*Philosophical Grammar* (all compiled in the early 1930s), then in his
-lectures and remarks on the foundations of psychology and mathematics from the
-late 1930s, and finally in *Philosophical Investigations*, written between
-1945 and 1949.
+## Thought Experiment II
 
-The earliest of these documents, *The Blue Book*, begins with a question of
-interpretation. "What is a meaning of a word?" Wittgenstein asks. And from the
-start, he cautions his students against choosing the easy answer, which holds
-that meaning resides in the head. Wittgenstein writes:
+I propose to view Turing's machine first within the broader tradition of
+questioning the correspondence between outward signs of thought and its inward
+structure, and second as a specific response to a series of thought
+experiments proposed by Ludwig Wittgenstein in the 1930s at Cambridge, where
+Turing studied in his early career and later taught.[^ln1-timeline]
+
+Wittgenstein broached the problem of reading machines and comprehension
+initially in his *Blue and Brown Books* along with *Philosophical Grammar*
+(all compiled in the early 1930s), then in his lectures and remarks on the
+foundations of psychology and mathematics from the late 1930s, and finally in
+*Philosophical Investigations*, written between 1945 and 1949. The earliest of
+these documents, *The Blue Book*, begins with a question of interpretation.
+"What is a meaning of a word?" Wittgenstein asks. And from the start, he
+cautions his students against choosing the easy answer, which holds that
+meaning resides in the head. Wittgenstein writes:
 
 > It is misleading then to talk of thinking as of a "mental activity". We may
 > say that thinking is essentially the activity of operating with signs. This
@@ -704,11 +709,13 @@ one on paper. Neither physical nor mental descriptions of these processes
 alone are sufficient to locate cognition. The subject escapes depending on our
 point of view. When the hand writes, it is the brain that thinks. But when the
 hand thinks, it is the brain that writes. One must understand both sides of
-the equation. Meaning in that sense lies in the transition from the hand to
-the head and from mind to paper: "Where does thinking take place?" he asks. It
-takes place "on paper, in our head, in the mind." But, "none of these
+the equation. Meaning in that sense lies in the transition from hand to head
+and from mind to paper. "Where does thinking take place?" he asks. It takes
+place "on paper, in our head, in the mind." Crucially, "none of these
 statements of locality gives *the* locality of thinking"
-[@wittgenstein_blue_1965, 16].
+[@wittgenstein_blue_1965, 16]. Thought is rather distributed throughout the
+body and among the its extensions. We think *by* the pen, by hand, by mouth,
+by signs.
 
 "Can a machine think?" Wittgenstein asks later on in the first notebook
 [@wittgenstein_blue_1965, 16]. The problem, as he explains, is not one of
@@ -718,12 +725,12 @@ equation. "Doing the job," the manipulation of external signs, must correspond
 to something else. Severed from some other analogical structure, the "blind"
 manipulation of signs is a meaningless activity. Meaning, Wittgenstein seems
 to suggest, resides simply in this analogy between something (symbol) and
-something else (sate of a mechanism). The question then can be better
+something else (physical state of a system). The question then can be better
 rephrased as "can a machine have private mental states?" Can it feel pain in
 the sense of pain being a state of internal affairs not accessible to others
 [@wittgenstein_blue_1965, 16, 46-9]? If we believe machines to be capable of
-holding internal, private states we can begin imagining machine understanding
-or machine intelligence, by which a spoken word or a letter could find the
+having internal private states, we can then begin imagining something like
+machine intelligence, by which a spoken word or letter could find the
 appropriate inward representation for the machine. We return to the
 correspondence between internal and external state of affairs, although how
 such a correspondence would be achieved Wittgenstein does not yet specify.
@@ -741,11 +748,11 @@ first few letters only, other again he reads out letter by letter." The child
 acts as a "reading machine" when he pays no attention to what he reads, even
 when he speaks the words out loud. He reads "faultlessly like a reliable
 machine," Wittgenstein repeats emphasising the mechanical property of
-colloquially "mechanic" reading. Another hypothetical child merely pretends to
-read. She guesses at the words, and on occasion repeats things "by heart",
+colloquially "mechanistic" reading. Another hypothetical child merely pretends
+to read. She guesses at the words and on occasion repeats things "by heart,"
 without actually seeing them on the page [@wittgenstein_blue_1965, 121-22].
-Would any of these scenarios rise to our understanding of what reading should
-entail?
+Would any of these hypothetical scenarios rise to our understanding of what
+reading should entail?
 
 Wittgenstein continues to complicate such edge cases, challenging his
 audience's intuitions of what it means to read and to understand. He gives
@@ -756,9 +763,9 @@ occasionally, by accident, correspond to some existing texts. In each case, we
 envision two mechanisms, Wittgenstein writes, one visible and external and one
 hidden and internal. To read, the reader must do more than go through the
 motions of reading. Outward signs of reading are insufficient to indicate
-reading and comprehension. The physical motions---of gliding one's eyes across
-the page and saying the words out loud---must connect in some way with
-appropriate internal, mental representations.
+comprehension. The physical motions---of gliding one's eyes across the page
+and saying the words out loud---must connect in some way with appropriate
+internal, mental representations.
 
 We are tempted then to privilege the inward-facing signs of comprehension as
 the "real criterion for a person's reading or not reading." However, no such
@@ -773,15 +780,16 @@ hermeneutic circuit, the two sides of which do not quite connect to complete
 the communication feedback loop. To convince Socrates that he did more than
 memorize the words, Phaedrus must use more words, which are similarly
 unconvincing. What if those are memorized as well? What can be done to
-convince others that we have understood a text properly? Wittgenstein finally
-describes the mechanisms of reading as an "indirect way of transmitting a
-feeling." "Something that we can never know happens at the other end" of the
-communication act [@wittgenstein_blue_1965, 185]. Communication, as we would
-say today, is always mediated. In conclusion of the notebooks, Wittgenstein
-imagines the possibility of unmediated, "direct" modes communication, capable
-of transmitting feelings from one person to another. Barring that possibility,
-we are ultimately limited by private sensations of knowledge. Any sense of
-affirmation comes through further expression entailing further uncertainty.
+convince others definitively of our having understood a text properly?
+Wittgenstein finally describes the mechanisms of reading as an "indirect way
+of transmitting a feeling." "Something that we can never know happens at the
+other end" of the communication act [@wittgenstein_blue_1965, 185].
+Communication, we would say today, is always mediated. In conclusion of the
+notebooks, Wittgenstein imagines the possibility of unmediated, "direct" modes
+communication, capable of transmitting feelings from one person to another.
+Barring that possibility, we are ultimately limited by our private sensations
+of knowledge. Any sense of affirmation comes through further expression
+entailing further uncertainty.
 
 Thought experiments in *The Blue and Brown Notebooks* do not amount to a
 cohesive model of language, communication, or the mind. They do however
@@ -907,7 +915,7 @@ interpretive, translative layer, which describes the rules of engagement.
 [^ln2-compile]: I am forgoing the distinction between interpreters and
 compilers for simplicity's sake.
 
-## Thought Experiment II
+## Thought Experiment III
 
 Turing met Wittgenstein at King's College sometime in the 1930s. Although
 there are no records of them meeting explicitly until Turing's attendance of
