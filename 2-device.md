@@ -472,9 +472,9 @@ hampers our ability to understand how it comes present itself to the mind in
 its entirety [@lubbock_craft_1921, 272]. We grasp other more plastic art forms
 like sculpture or painting whole and at once. They exist at a time and place
 limited to their physical dimensions. Narratives unfold in time, by contrast.
-To perceive a book [read, a "novel"] critically, we must abstract from the
-physical object and extend it past immediate perception. Meaning making of
-this sort involves also reading past the linguistic minutiae to construct a
+To perceive a book, to read a novel, critically, we must abstract from the
+physical object and extend it past immediate perception. Meaning making of the
+sort involves also reading past the linguistic minutiae to construct a
 synthetic literary whole. Lubbock writes that the "real heart and substance of
 the book [...] stands out more clearly for the obscurity into which the less
 essential parts of it subside" [@lubbock_craft_1921, 4]. To read in this mode
@@ -486,30 +486,32 @@ available for observation. To read the novel for pleasure for Lubbock is to
 the immanent object itself. To "objectify the elements" of the novel that
 "strike us more keenly," as Lubbock phrases it, therefore means for him quite
 the opposite of what is usually meant by objectification. The critic engages
-the completed *idea* of the novel, accessible to the mind only after the
-reading is finished. Lubbock writes: "Far from losing ourselves in the world
+the complete *idea* of the novel, accessible to the mind only after the
+conclusion of reading. Lubbock writes: "Far from losing ourselves in the world
 of the novel, we must hold it away from us, see it all in detachment, and use
 the whole of it to make the image we seek, the book itself"
-[@lubbock_craft_1921, 6].
+[@lubbock_craft_1921, 6]. The difficulty of materialist poetics reflects in
+the analysis that continually conflates the book as object with the book as
+idea.
 
-Critical reading in this sense entails an account of the transformation, from
-things to ideas: from words and sentences to stories, novels, and verse.
-Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock evokes the
-reader's attention to the technology or craft of such literary construction.
-He promises to view a "handful of familiar novels [...] with some
-particularity," but without judgement or critique. "How they are made is the
-only question I ask," he writes [@shklovksy_poetika_1919; @lubbock_craft_1921,
-12 & 28; @eichenbaum_how_1995]. Since "the author of the book was a craftsman"
-it is therefore the critic's role to "overtake him at his work and see how the
-book was made" [@lubbock_craft_1921, 274]. Lubbock's usage of an
-object-oriented vocabulary---"parts," "forms," "shapes," "proportions," and
+Critical reading in Lubbock's sense entails an account of the transformation
+from things to ideas: from words and sentences to stories, novels, and verse.
+Echoing Boris Eichenbaum in "How *The Overcoat* is Made," Lubbock is
+interested in literary craft---in how the thing is made. He promises to view a
+"handful of familiar novels [...] with some particularity," but without
+judgement or critique. "How they are made is the only question I ask," he
+writes [@shklovksy_poetika_1919; @lubbock_craft_1921, 12 & 28;
+@eichenbaum_how_1995]. Since the author of the book was a "craftsman" it is
+therefore the critic's role to "overtake him at his work and see how the book
+was made" [@lubbock_craft_1921, 274]. Lubbock's usage of the object-oriented
+vocabulary---his "parts," "forms," "shapes," "proportions," and
 "designs"---nevertheless refer to ideational, mental constructs, just as it
 was for Shklovsky and Eichenbaum. "The book vanishes as we lay our hands on
-it," Lubbock writes [@lubbock_craft_1921, 273]. Critics must chose to see
-either the trees or the forest. While the totality of the work comes into
-view, the technical details of craft---and the book itself---disappear.
-Viewed up close, the technical particulates also obscure sight of the work as
-a whole. *The Craft of Fiction* ends on an ambivalent note, stopping short of
+it," Lubbock wrote [@lubbock_craft_1921, 273]. Critics must chose to see
+either the trees or the forest. As the totality of the work comes into view,
+the technical details of craft---and therefore the book itself---disappear.
+Viewed up close, the technical particulates obscure sight of the work as a
+whole. *The Craft of Fiction* ends on an ambivalent note, stopping short of
 recovering the book as an object. "If only there was one single tangible and
 measurable fact about the book," Lubbock wrote. If only it could be "weighed
 like a statue" or "measured like a picture, it would be a support in the world
@@ -525,26 +527,24 @@ calculating machinery, but in relation to the broader history of materialist
 poetics. I would like the reader to view the following sections in the context
 of the previous one on literary theory, even in the absence of direct evidence
 for an explicit intellectual connection.[^ln2-moaran] My goal is not to prove
-that such a connection exists, but rather to irreparably entangle the two
-genealogies while highlighting a number of shared ideas, assumptions, and
-concerns. The modern computer---and by extension the electronic book---harkens
-back to a cluster of related thought experiments prevalent in the philosophy
-of Ludwig Wittgenstein and subsequently to the ideas of Alan Turing, his
-long-time student and colleague. The story of Turing machines has been told
-before in many guises, but never with an eye towards literary machines that
-nevertheless occupy a central place in the early development of modern
-computing.
+that such a connection exists, but rather to irreparably entwine the two
+intellectual and material genealogies. In the thought of Ludwig Wittgenstein
+and his student Alan Turing we will find, along with a number of broken
+reading and writing machines, a solution to the problem of materialist
+poetics. The Turing machine, as we will encounter it here, will ultimately
+reveal itself to be a minimally viable instrument for translating ideational
+symbols into physical machine states.
 
-[^ln2-moaran]: There is evidence that Ludwig Wittgenstein, the subject of this
-section, read Russian and that he visited the Soviet Union in the 1930s. Both
-he and Shklovsky fought in Galicia at the Eastern Front although there is no
-evidence that the two men met nor knew of one another's work. See
-@moran_wittgenstein_1972.
-
-To confront the computer as a literary device, one must first understand its
+The modern computer---and by extension the electronic book---harkens back to a
+cluster of related thought experiments prevalent in the philosophy of Ludwig
+Wittgenstein and subsequently to the ideas of Alan Turing, his long-time
+student and colleague. The story of Turing machines has been told before in
+many guises, but never with an eye towards literary machines that nevertheless
+occupy a central place in the early development of modern computing. To
+confront the computer as a literary device, one must first understand its
 peculiar relationship to universal Turing machines. I would like to take some
-time now to draw two further as yet unexplored historical lineages that lead
-to Turing's seminal essay on computable numbers: the first intellectual,
+time now to draw two further as yet unexplored historical genealogies that
+lead to Turing's seminal essay on computable numbers: the first intellectual,
 stemming back to his tutelage under Ludwig Wittgenstein, and the second
 material, highlighting the physical similarities between Turing's design and a
 number of concomitant developments in printing and communication. To read
@@ -552,12 +552,13 @@ Turing and Wittgenstein together is to recover a legacy of humanities
 computing that often gets overlooked in the history of computer science and
 software engineering. The literary perspective is important because it allows
 us to see the computer in a new light: more than a byproduct of
-quantification, a metaphor machine. Turing machines should hold interest for
-literary scholars because they embody a minimally viable model for generalized
-symbolic manipulation: reading and writing. Turing's thought experiments were
-meant to solve a mathematical problem, but their history lies also in the
-fields of philology and hermeneutics: the study of textual meaning-making and
-interpretation.
+quantification, a metaphor machine. Turing machines should interest literary
+scholars because they embody a minimally viable model for generalized symbolic
+manipulation: reading and writing. Poetics should interest electrical and
+software engineers for the same reason, because it grounds computation in the
+long history of the word. Turing's thought experiments were meant to solve a
+mathematical problem, but their pedigree lies also in the fields of philology
+and hermeneutics, the study of textual meaning-making and interpretation.
 
 In his seminal 1936 paper on computable numbers, Alan Turing, then a student
 at King's College, proposed a peculiar thought experiment to appear on the
@@ -1489,51 +1490,22 @@ deployment of these codified resources. The heart and the sky are sites on
 where the tactics of inscription are increasingly contested. They require a
 capacity to meet the machine and a poetics capable of new emendations.
 
-[^ln1-google]: "Google's mission is to organize the world's information and
-make it universally accessible and useful" (@google_about_2015).  See also
-Johanna Drucker's discussion on "the totalizing drive of the digital" in
-[@drucker_digital_2001, 145].
+[^ln1-abstraction]: This is a topic of some contention in the literature. In
+his influential paper on the topic, James Moor includes the immateriality of
+software as one of the "three myths" of computer science. "As a practical
+matter, what we regard as computer instructions, and consequently what we
+regard as computer programs, is determined by computers available," he writes
+[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
+abstract artifact, akin to a musical work [@irmak_software_2012]. See also
+@turner_programming_2013; @colburn_software_1999.
+
+[^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a
+year later, Turing's mathematical insight was anticipated by concomitant work
+in the field [@church_computable_1937].
 
 [^ln1-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
 @dyson_turings_2012.
-
-[^ln1-inside]: Note that these are also minimal physical requirements for
-interpretation: the ability to internalize and to externalize symbolically. My
-definitions do imply a sort of a dualism, but not between mind and
-body---simply between inside and outside, self and other, I and not-I.  This
-has been said before in many ways.
-
-[^ln1-normal]: The process of normalization continues today as contemporary
-technologies like natural language processing and optical character recognition
-struggle to bring non-regularized writing systems under the computational
-umbrella.
-
-[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
-@marche_literature_2012.
-
-[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
-computer is a convergence of separate streams of information handling, each
-with its own rich tradition of technological history." "One could add other
-antecedents such as the development of radio, motion pictures, and photography"
-[@ceruzzi_computing_2012, 11].
-
-[^ln1-compete]: "We may hope that machines will eventually compete with men in
-all purely intellectual fields" [@turing_computing_1950, 460].
-
-[^ln1-infinite]: A true universal Turing machine would require a tape that is
-infinitely long. See @turing_computable_1937, 249.
-
-[^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
-University's Collection of Historical Scientific Instruments in 2012. He
-writes, "my goal in building this project was to create a machine that embodied
-the classic look and feel of the machine presented in Turing’s paper.  I wanted
-to build a machine that would be immediately recognizable as a Turing machine
-to someone familiar with Turing's work" [@davey_turing_2012].
-
-[^ln1-cs]: Two separate departments offering competing degrees in software
-engineering and computer science is a common occurrence in North American
-universities.
 
 [^ln1-caveat]: The institutional distinctions between software engineering and
 computer science often hinge on the extent to which the discipline pays heed to
@@ -1548,33 +1520,25 @@ professional organizations: Institute for Electrical and Electronics Engineers
 @glass_comparative_1992; @parnas_software_1999; @glass_analysis_2004;
 @vessey_unified_2005.
 
-[^ln1-notquite]: To what extent a personal computer is a Turing machine is
-matter of contention. The Turing machine is a *thought experiment* that
-imagines a machine. The PC is a machine emulating the thought experiment. See
-@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
-more detailed discussion follows in 1.2.
+[^ln1-ceruzzi]: See @ceruzzi_computing_2012, 11 who writes that "the modern
+computer is a convergence of separate streams of information handling, each
+with its own rich tradition of technological history." "One could add other
+antecedents such as the development of radio, motion pictures, and photography"
+[@ceruzzi_computing_2012, 11].
 
-[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
-experience, despite the overwhelming evidence for determinism.
+[^ln1-compete]: "We may hope that machines will eventually compete with men in
+all purely intellectual fields" [@turing_computing_1950, 460].
 
-[^ln1-abstraction]: This is a topic of some contention in the literature. In
-his influential paper on the topic, James Moor includes the immateriality of
-software as one of the "three myths" of computer science. "As a practical
-matter, what we regard as computer instructions, and consequently what we
-regard as computer programs, is determined by computers available," he writes
-[@moor_three_1978, 215]. Nurbay Irmark argues that software is instead a purely
-abstract artifact, akin to a musical work [@irmak_software_2012]. See also
-@turner_programming_2013; @colburn_software_1999.
+[^ln1-cs]: Two separate departments offering competing degrees in software
+engineering and computer science is a common occurrence in North American
+universities.
 
-[^ln1-turing]: The intellectual history of the Turing machine is well
-established, in multiple works on the subject. It follows the Greek Diophantus,
-René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
-Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
-@herken_universal_1988; @grattan-guinness_development_1981].
-
-[^ln2-shklov]: I rely on the Russian originals throughout, but will cite the
-English translations where possible as well. See @shklovsky_voskreshenie_1914;
-@shklovksy_poetika_1919; @shklovksy_art_2012.
+[^ln1-davey]: Mike Davey built and displayed a similar instrument at Harvard
+University's Collection of Historical Scientific Instruments in 2012. He
+writes, "my goal in building this project was to create a machine that embodied
+the classic look and feel of the machine presented in Turing’s paper.  I wanted
+to build a machine that would be immediately recognizable as a Turing machine
+to someone familiar with Turing's work" [@davey_turing_2012].
 
 [^ln1-descartes]: Descartes writes in his 1637 *Discourse on Method*: "If
 there were such machines having the organs and the shape of a monkey or some
@@ -1585,8 +1549,75 @@ action as far as this is practically feasible, we would always have two very
 certain means of recognizing that they were not at all, for that reason, true
 men." Also quoted in @dennett_can_2004, 297.
 
+[^ln1-google]: "Google's mission is to organize the world's information and
+make it universally accessible and useful" (@google_about_2015).  See also
+Johanna Drucker's discussion on "the totalizing drive of the digital" in
+[@drucker_digital_2001, 145].
+
+[^ln1-infinite]: A true universal Turing machine would require a tape that is
+infinitely long. See @turing_computable_1937, 249.
+
+[^ln1-inside]: Note that these are also minimal physical requirements for
+interpretation: the ability to internalize and to externalize symbolically. My
+definitions do imply a sort of a dualism, but not between mind and
+body---simply between inside and outside, self and other, I and not-I.  This
+has been said before in many ways.
+
+[^ln1-kant]: Or at least proceeding as if one has agency to structure one's own
+experience, despite the overwhelming evidence for determinism.
+
+[^ln1-normal]: The process of normalization continues today as contemporary
+technologies like natural language processing and optical character recognition
+struggle to bring non-regularized writing systems under the computational
+umbrella.
+
+[^ln1-notquite]: To what extent a personal computer is a Turing machine is
+matter of contention. The Turing machine is a *thought experiment* that
+imagines a machine. The PC is a machine emulating the thought experiment. See
+@putnam_representation_1988, 121-5; @chalmers_does_1996; @petzold_code:_2000. A
+more detailed discussion follows in 1.2.
+
+[^ln1-pop]: See for example  @drucker_digital_2001; @golumbia_cultural_2009;
+@marche_literature_2012.
+
+[^ln2-shklov]: I rely on the Russian originals throughout, but will cite the
+English translations where possible as well. See @shklovsky_voskreshenie_1914;
+@shklovksy_poetika_1919; @shklovksy_art_2012.
+
+[^ln1-turing]: The intellectual history of the Turing machine is well
+established, in multiple works on the subject. It follows the Greek Diophantus,
+René Descartes, Georg Cantor, David Hilbert, Gottlob Frege, Bertrand Russell,
+Kurt Gödel, Ludwig Wittgenstein [@petzold_annotated_2008;
+@herken_universal_1988; @grattan-guinness_development_1981].
+
 [^ln1-margin]: The prominence of Turing's voice in the lecture notes could be
 attributed to his later prominence.
+
+[^ln2-moaran]: There is evidence that Ludwig Wittgenstein, the subject of this
+section, read Russian and that he visited the Soviet Union in the 1930s. Both
+he and Shklovsky fought in Galicia at the Eastern Front although there is no
+evidence that the two men met nor knew of one another's work. See
+@moran_wittgenstein_1972.
+
+[^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
+College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
+appeared in print in 1936. It is likely that the two philosophers met at the
+Moral Science Club, where by the 1930s Wittgenstein "monopolized the
+discussion," even in the presence of prominent philosophers like George Edward
+Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
+the foundations of mathematics in 1939. 
+
+[^ln1-platotr]: I translate the passage into literal, if awkward, English to
+preserve some of the interesting characteristics of the original Greek. In
+particular, note the parallelism between *exōthen* and *endothen*, the
+ambiguity of *allotrion*, as something that comes from another, and the subtle
+slide between *graphō* (letter, figure, writing) and *tupōn* (type,
+impression, trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios,
+and Guy Smoot for their help with the Greek translations.
+
+[^ln1-turingcog]: Turing's later work suggests that his use of cognitive
+language throughout "On Computable Numbers" was not accidental, and that he
+meant it to define sentience more generally [@turing_computing_1950].
 
 [^ln1-cope]: See for example @copeland_what_2000 and
 @wagner_wittgenstein_2005.
@@ -1601,29 +1632,5 @@ See also @blanchot_work_1995, 41.
 back to Hobbes, Locke, and Mill, often touches on the problem of lapsed
 consent. To paraphrase, they ask: What makes whatever compacts made by past
 generations still valid today?
-
-[^ln1-timeline]: To give you a sense of the timeline: Turing entered King's
-College in 1931 [@hodges_alan_1983, 78]. His paper on computable numbers
-appeared in print in 1936. It is likely that the two philosophers met at the
-Moral Science Club, where by the 1930s Wittgenstein "monopolized the
-discussion," even in the presence of prominent philosophers like George Edward
-Moore [@duncan-jones_g._1958, 25]. Turing attended Wittgenstein's lectures on
-the foundations of mathematics in 1939. 
-
-[^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a
-year later, Turing's mathematical insight was anticipated by concomitant work
-in the field [@church_computable_1937].
-
-[^ln1-platotr]: I translate the passage into literal, if awkward, English to
-preserve some of the interesting characteristics of the original Greek. In
-particular, note the parallelism between *exōthen* and *endothen*, the
-ambiguity of *allotrion*, as something that comes from another, and the subtle
-slide between *graphō* (letter, figure, writing) and *tupōn* (type,
-impression, trace). I extend my gratitude to Stathis Gourgouris, Simos Zenios,
-and Guy Smoot for their help with the Greek translations.
-
-[^ln1-turingcog]: Turing's later work suggests that his use of cognitive
-language throughout "On Computable Numbers" was not accidental, and that he
-meant it to define sentience more generally [@turing_computing_1950].
 
 \newpage
