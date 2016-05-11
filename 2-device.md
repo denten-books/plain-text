@@ -1202,7 +1202,7 @@ explicit instructions can be regarded as a kind of a Turing machine," he wrote
 [@church_computable_1937, 42-3; also cited in @petzold_annotated_2008, 63].
 Disregarding the broader, metaphysical implications of that statement, note
 for now the persistence of two essential implements required for the minimally
-viable operation of the Church--Turing human and machine calculators. Pen and
+viable operation of the Church-Turing human and machine calculators. Pen and
 paper assert themselves through the abstraction.[^ln1-abstraction]
 
 To encounter the universal Turing machine underpinning the electronic book *as
@@ -1211,12 +1211,11 @@ number of extant designs, which, together and incrementally, give the
 universal Turing machine its physical form. Once we have grasped the notion of
 the Turing machine as a piece of software, an algorithm, I am compelled to
 wonder about its history as a mechanism and ask, what are its technological
-antecedents? What would happen if Turing attempted to patent his device, for
-example? What previous art and related designs would he have to cite in his
-application? In an answer to these question we discover, perhaps
-unsurprisingly, that the Turing machine belongs to a long lineage of
-controlling devices. This entails also that the book, subsumed by computation,
-also embodies a part of the same material history.
+antecedents? What would happen, for example, if Turing attempted to patent his
+device? What prior art would he cite in his patent application? In an answer
+to these question we discover that the Turing machine belongs to a long
+lineage of controlling devices. The electronic book belongs to the same
+history by association.
 
 Most of the minimal physical requirements to build a universal Turing machine
 were within reach in the 1930s, at the time Turing authored his influential
@@ -1233,34 +1232,35 @@ Were we to patent the Turing machine in the United States, at the time of its
 invention, the above elements would find prior art in mechanisms such as the
 "Numeral adding or subtracting attachment for type-writing machines,"
 "Combined Type-writing and Computing Machine," "Computing Attachment for
-Typewriters,"  "Computing Mechanism," and "Combined Type-writing and Adding
+Typewriters," "Computing Mechanism," and "Combined Type-writing and Adding
 Machine" among others [@daugherty_numeral_1894; @degener_combined_1911;
 @wright_computing_1914; @wright_computing_1915; @ellis_combined_1914]. All of
-these machines contain some combination of a reading and writing "head,"
-storage tape, and movement mechanism as specified in Turing's paper. A number
-of inventions at the end of the nineteenth century pertain specifically to
+these devices contain some combination of a reading and writing "head,"
+storage tape, and movement mechanism as per Turing's specifications. A number
+of inventions at the end of the nineteenth century relate specifically to
 "circuit-controlling devices controlled by a traveling perforated strip or
-tape" [@cuttriss_telegraphy_1893]. Prior to perforated tape, the transmission
-of messages by telegraph required the presence of a skilled operator, able to
-transcribe messages from text to Morse code, and into the physical motion of a
-lever-operated circuit. In the operation of early telegraphy, the human
-operator acted as a mute interpreter between text and telegraph. The
-transcription of text into signal, and back onto paper, required the real-time
-presence of human encoders and decoders.  The perforated tape decoupled the
-human from the machine.
+tape," as is the case with tape-driven telegraph transmitter filed by Charles
+Cuttriss in 1893 [@cuttriss_telegraphy_1893]. Prior to perforated tape, the
+transmission of messages by telegraph required the presence of a skilled
+operator, able to transcribe messages from text to Morse code, and into the
+physical motion of a lever-operated circuit. In the operation of early
+telegraphy, the human operator acted as a mute interpreter between text and
+telegraph. The transcription of text into signal, and back onto paper,
+required the real-time presence of human encoders and decoders. The perforated
+tape decoupled the human from the machine.
 
-In US1187035 (1916) on "Telegraphy", Albert and Ralph Bumstead explain: "the
-object of our invention is to provide a system of telegraphy which does not
-require skilled operators for the transmission and reception of messages"
-[@bumstead_telegraphy_1916]. Instead, the message was transcribed into
-perforation via mechanical means and then fed into the mechanism. The tape
-mechanics of the typewriter could then be coupled with the electrics of the
-telegraph, with perforated tape acting as a mediator between the two "worlds"
-of mechanics and electricity. A number of contraptions emerged at the time
-with the aim of transfiguring the mechanical action of the typewriter into
+In US patent #1187035 (1916) on "Telegraphy", Albert and Ralph Bumstead
+explain: "the object of our invention is to provide a system of telegraphy
+which does not require skilled operators for the transmission and reception of
+messages" [@bumstead_telegraphy_1916]. Instead, the message was transcribed
+into perforation via mechanical means and then fed into the mechanism. The
+tape mechanics of the typewriter could then be coupled with the electrics of
+the telegraph, where perforated tape could mediate between the two "worlds" of
+mechanics and electricity. A number of contraptions emerged at the time with
+the aim of transfiguring the mechanical action of the typewriter into
 perforation, and, consequently, perforation into script, completing the
 circuit between automated "encoding" and "decoding." As one machine converted
-human input into mechanical states, and into signal, another machine converted
+human input into mechanical states and into signal, another machine converted
 signals into mechanical states and thereon into human-legible messages.
 
 A multitude of inventions capitalized on the control capabilities of removable
@@ -1308,23 +1308,23 @@ authors conclude [@bumstead_telegraphy_1916, 12].
 Along with hundreds of similar inventions patented around the turn of the
 twentieth century, Bumstead brothers describe a mechanism that could function
 as a Turing machine with little modification. The automated telegraph, driven
-by ticker tape, and connected to a printer contain all the necessary
+by ticker tape and connected to a printer contain all the necessary
 requirements set out by Turing: a discrete symbolic language, the removable
 storage medium, and a device that can alter its internal states based on the
-reading and writing of scanned symbols. They are able "read" and "write" and
-otherwise manipulate symbolic representation, they ingest tape, and they
-covert symbol into internal structure. By 1905, Donald Murray, the inventor of
-the popular Murray telegraph, could write that "if we disregard the small
-class of telegrams that merely express emotions, *the essence of telegraphy is
-control* [emphasis mine]." He wrote also that "telegraph systems, therefore,
-belong not to the class of producing or distributing, but to the class of
-controlling mechanisms" [@murray_setting_1905, 556]. For the automated
-telegraph, control code and the message are one. The mechanism interprets some
-signals as figure and character and other signals as control code affecting
-the internal mechanical configuration of the device. The first type of code
-holds "significance" for humans, where the second for the mechanism itself. It
-is "transmitting intelligence" in a sense of externalizing machine states and
-"interpreting" in the sense of mechanical reconfiguration of internal parts.
+reading and writing of scanned symbols. These machines are able read and
+write: they ingest tape and they are capable of converting extrinsic symbols
+into intrinsic machine states. By 1905, Donald Murray, the inventor of the
+popular Murray telegraph, could write that "if we disregard the small class of
+telegrams that merely express emotions, *the essence of telegraphy is control*
+[emphasis mine]." He wrote also that "telegraph systems, therefore, belong not
+to the class of producing or distributing, but to the class of controlling
+mechanisms" [@murray_setting_1905, 556]. For the automated telegraph, control
+code and the message are one. The mechanism interprets some signals as data to
+be manipulated and other signals as control code the rules of data
+manipulation. The first type of code holds "significance" for humans, where
+the second for the mechanism itself. The mechanism "transmits intelligence" in
+the sense of rarefying machine states; it "interprets" in the sense of
+mechanical embodiment.
 
 By 1936, when Turing published his paper on computable numbers, these
 inventions did not merely anticipate the modern computer, they were brought to
@@ -1334,7 +1334,7 @@ Underwood Computing Machine, Electromatic, and International Business Machines
 (IBM). Rather than a single eureka moment, the invention of the computer
 should therefore be viewed as a gradual historical process that culminates in
 Turing's universal (and minimally viable) specifications. What does the
-material history of the computer mean for the history of the book?  In viewing
+material history of the computer mean for the history of the book? In viewing
 the book as a kind of a precursor to a generalized machine of symbolic
 manipulation we discover that it belongs to a class of controlling devices.
 
@@ -1354,7 +1354,23 @@ The limits of physical engineering pull the Turing machine back to the sphere
 of the applied.[^ln1-cs] What are we to make of universal Turing machines
 implemented in virtual worlds like *Wireworld* (a cellular automaton
 simulation), or *Minecraft* (a procedurally generated sand-box
-world-exploration game)?
+world-exploration game)? In the least, we must admit that such simulations do
+not rest on the immaterial "turtles all the way down," unless that is, one
+believes that the universe itself is a type of Turing computation
+[@deutsch_quantum_1985; @lloyd_ultimate_2000; @piccinini_computational_2007].
+At some point, the Turing machine in the virtual world meets the material
+limits of the physical. Simulation engines like *Minecraft* and *Wireworld* do
+in some sense exist in the abstract, as code or even rules written on paper.
+But in another sense, they do not. They come fully into being only when
+instantiated within first-order, physical constrains that involve actual
+circuit boards and relay switches, or, at least, a pen and paper. For this
+reason, the performance (in terms of cycles per second, instructions per
+cycle, or its capacity to hold a number of instructions) of a Turing machine
+simulated within a virtual world like Minecraft cannot logically exceed the
+performance of the machine running Minecraft itself. The physical capabilities
+of the bottom-most device limit the computational power of all *n+1* order
+Turing simulations. The bottom-most turtle may have its head in the clouds,
+but its feet rest firmly on the ground.
 
 <!--
 
@@ -1362,24 +1378,6 @@ world-exploration game)?
 via a Turing machine."](images/turing-idea.png)
 
 -->
-
-In the least, we must admit that such simulations do not rest on the
-immaterial "turtles all the way down," unless that is, one believes that the
-universe itself is a type of Turing computation [@deutsch_quantum_1985;
-@lloyd_ultimate_2000; @piccinini_computational_2007]. At some point, the
-Turing machine in the virtual world meets the material limits of the physical.
-Simulation engines like *Minecraft* and *Wireworld* do in some sense exist in
-the abstract, as code or even rules written on paper. But in another sense,
-they do not. They come fully into being only when instantiated within
-first-order, physical constrains that involve actual circuit boards and relay
-switches, or, at least, a pen and paper. For this reason, the performance (in
-terms of cycles per second, instructions per cycle, or its capacity to hold a
-number of instructions) of a Turing machine simulated within a virtual world
-like Minecraft cannot logically exceed the performance of the machine running
-Minecraft itself. The physical capabilities of the bottom-most device limit
-the computational power of all *n+1* order Turing simulations. The bottom-most
-turtle may have its head in the clouds, but its feet rest firmly on the
-ground.
 
 The exact plane where the symbolic meets the material is difficult to
 identify. At some imperceptible point software disappears into hardware. Such
@@ -1394,32 +1392,33 @@ able to read and write by themselves" [@kittler_there_1995]. According to this
 schema, Kittler sees the paper-bound design blueprints of the first integrated
 microprocessor as the last "real" piece of writing. Everything written after
 that point is hardware, because all digital modes of representation, including
-text, ultimately rest on hardware architecture. The inability to understand
-hardware, in this view, precludes all higher modalities of reading, writing,
-or interpretation.
+text, ultimately rest on physical circuit architecture. The inability to
+understand hardware, in this view, precludes all higher modalities of reading,
+writing, and interpretation.
 
 Manovich inverts Kittler's argument into "there is only software," by which he
 means that in a pragmatic sense, software determines the properties of any
-media object. "What you can do with a particular digital media file can change
-dramatically," depending on the software, Manovich writes. When it comes to
-digital photographs, to use his example, one application may allow the
-photographer to crop the image while another may not [@manovich_there_2011,
-151]. From this property-determining aspect of the computational medium (and
-in reference to the work of Alan Kay), Manovich derives the concept of
+media object. The inversion participates in the perpetual dialectics between
+idealism and materialism: Hegel and Marx, Marx and Gramsci, Gramsci and
+Kittler, Kittler and Manovich. "What you can do with a particular digital
+media file can change dramatically," depending on the software, Manovich
+writes. When it comes to digital photographs, to use his example, one
+application may allow the photographer to crop the image while another may not
+[@manovich_there_2011, 151]. From this property-determining aspect of software
+(and in reference to the work of Alan Kay), Manovich derives the concept of
 *metamedia*, "a medium that can dynamically simulate the details of any other
 medium" [@manovich_there_2011, 105-6]. "Interactive software adds a new set of
 operations which can be applied to all media, which we as users experience as
 their new 'properties'," he writes. Furthermore, these properties vary
-according to the software [@manovich_there_2011, 150-1]. Kittler (who passed
-in 2011) could perhaps object to that line of reasoning in maintaining that
-chip architecture still determines, as foundation, all higher levels of
-textuality "floating" above the silicon bedrock. In other words, everything
-Manovich writes is true for all simulated media, but not for computation
-itself. In opening a series of nested software black boxes, the post-silicon
-writer and scholar of software hits the impenetrable casket of chip
-architecture. The hardware giving rise to the simulation is not in itself a
-simulation. It therefore ultimately determines the "properties" of software,
-the metamedium.
+according to the software [@manovich_there_2011, 150-1].  Kittler (who passed
+in 2011) could perhaps object that chip architecture still determines, as
+foundation, all higher levels of representation "floating" above the silicon
+bedrock. In other words, everything Manovich writes is true for all simulated
+media, but not for computation itself. In opening a series of nested software
+black boxes, the post-silicon writer and scholar of software hits the
+impenetrable casket of chip architecture. The hardware that gives rise to the
+simulation is not in itself a simulation. It therefore ultimately determines
+the "properties" of software, the metamedium.
 
 Wittgenstein's thought experiments do not let us fall definitively into one
 camp or another. The Turing machine remains a machine for translating symbolic
@@ -1432,20 +1431,20 @@ action capable of transforming the inscription back into a mental state. The
 thing becomes a thought and the other way around. The intellectual history of
 the Turing machine leads us to a series of thought experiments about the
 nature of such transformations. The question of technique returns to haunt
-contemporary poetics. In the process of reading the book escapes the
+contemporary poetics. In the process of reading, the book escapes the
 interpreter's grasp as a thing, presenting itself only as an idea. In asking
-"How is it made?" we arrest the advance of symbolism, in an attempt to find
-the thing behind the process of signification. This process ultimately ends at
-the medium, which today has the added property of being simulated. The paper
-page contains no internal states to speak of.  Signification therefore
-proceeds from the surface inscription towards the reader. Reading, as Moreno
-reminds us, is already an invasive procedure. Absent human contact, we take on
-the mental states of others through vehicle that convey a remote kind of
-agency, displaced in time and space. It shall be held in view all the more
-because the electronic book, unlike paper, does contain internal states of its
-own which further interject in the process of signification, transmission, and
+"How is it made?" we arrest the advance of symbolism in an attempt to find the
+thing behind the process of signification. This process ultimately ends at the
+medium, which today has the added property of being simulated. The paper page
+contains no internal states to speak of. Signification therefore proceeds from
+the surface inscription towards the reader. Reading, as Moreno reminds us, is
+already an invasive procedure. Absent human contact, we take on the mental
+states of others through a vehicle that conveys a remote kind of agency,
+displaced in time and space. It should be held in view all the more because
+the electronic book, unlike paper, does contain internal states of its own
+which further interject in the process of signification, transmission, and
 translation. How is it made, becomes the question not only for poetics but
-also for the tactics of reading.
+also for the political tactics of reading.
 
 The question of technique ultimately seeks to expose the rules of symbolic
 transference between at least three discrete systems: one inorganic, the book,
@@ -1457,25 +1456,26 @@ being governed by rules of engagement, protocols, and translation tables.
 These constructed entities grow and proliferate in a seemingly organic, ad-hoc
 manner escaping our attempts at rationalization. They comprise a part of our
 received technological a priori. This does not mean that they should be
-naturalized or treated with a reverence afforded to nature or to endangered
-species. To decouple ourselves from a book, if only momentarily, to reject the
-graft, and to discard it or to let it whither, must remain an option. If
-poetics lay the grounds for interpretation, we must acknowledge that today,
-these grounds lie past the surface of the page. Where literary techniques are
-concerned with the transformation between ink and idea, computational
-techniques extend the process from pixel to transistor. These are embedded
-constructions: they are within and require explication. Techniques of the body
-and literary techniques, intertwine in the process of conventional reading.
-When reading electronically, they are coupled ever tighter, nearer than the
-hand's reach. The Turing machine is an embedded device. Its surfaces span
-biological and artificial assemblies.
+naturalized or treated with a reverence afforded to endangered species or to
+nature itself. To decouple ourselves from a book, if only momentarily---to
+reject the graft or to let it whither---must remain an option. If poetics lays
+the grounds for interpretation, we must acknowledge that today, these grounds
+lie past the surface of the visible simulacrum of the page. Where literary
+techniques are concerned with the transformation between ink and idea,
+computational techniques extend the process from pixel to transistor. These
+are embedded constructions: they are *within* and require explication.
+Techniques of the body and literary techniques intertwine in the process of
+conventional reading. When reading electronically, the two are coupled ever
+tighter, nearer than the hand's reach. Miniaturized, the Turing machine is
+itself an embedded device; it spans biological and artificial assemblies---a
+symbol within a machine within a body and again the body in the machine.
 
 In the process of textual production, printing and typesetting, it is certain
-that my words were mixed with machine language, which in turn changed the
-structure of the devices in your lap, in your hand, near to your eye,
-embedded, or embodied. I could say that I bear no responsibility for extending
-the reach of machine language so close to the reader. But that would be
-factually incorrect. The choice of our writing implements and our channels of
+that my words were mixed with control languages, which in turn changed the
+structure of the devices in your lap, in your hand, near to your eye, embedded
+or embodied. I could say that I bear no responsibility for extending the reach
+of machine language so close to the reader. But that would be factually
+incorrect. The choice of our writing implements and our channels of
 communication affect deeply the contexts of interpretation. Such choices, in
 aggregate, define the shared ecosystem of knowledge production. Traditional
 strategies of close reading which limit interpretation to the parsing of
@@ -1489,21 +1489,22 @@ and whom you were reading?
 Under these conditions, it becomes increasingly more difficult to "hold away"
 and to "grasp the object" apart from the subject. Some may celebrate this
 moment as a triumph over Cartesian dualism, the deserved decline of humanism,
-or the ascendancy of a world oriented towards objects. These considerations
-risk losing sight of the political reality that the loss of poetics entails.
-As I write these words, a North American woman "wearing" an implanted
-pacemaker is fighting for her right to access its software, in her words "to
-know what code is running inside my body" [@mcgowan_i_2016]. In Pakistan, the
-American National Security agency-sponsored Skynet program places people on
-the US-sanctioned "disposition matrix" or "kill list" based on predictive
-analytics: social network analysis, cellular machine learning, patterns of
-travel and telephone use [@mcneal_targeted_2014; @weber_keep_2016]. Automated
-tools with names like SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic
-"select" people for "target strikes" by unmanned areal vehicles. Willingly, or
-not, we are engaged in the political struggle for the control and the
-deployment of these codified resources. The heart and the sky are sites on
-where the tactics of inscription are increasingly contested. They require a
-capacity to meet the machine and a poetics capable of new emendations.
+or the rightful ascendancy of an ontology oriented towards objects. These
+considerations risk losing sight of the political reality that the loss of the
+grounds for poetics entails. As I write these words, a North American woman
+"wearing" an implanted pacemaker is fighting for her right to access its
+software, in her words "to know what code is running inside my body"
+[@mcgowan_i_2016]. In Pakistan, the American National Security
+agency-sponsored Skynet program places people on the US-sanctioned
+"disposition matrix" or "kill list" based on predictive analytics: social
+network analysis, cellular machine learning, patterns of travel and telephone
+use [@mcneal_targeted_2014; @weber_keep_2016]. Automated tools with names like
+SMARTTRACKER, SMARTCHART, and Cloud Travel Analytic "select" people for
+"target strikes" by unmanned areal vehicles. Willingly, or not, we are engaged
+in the political struggle for the control and the deployment of these codified
+resources. The heart and the sky are sites on which the tactics of inscription
+are increasingly contested. They require a capacity to meet the machine and a
+poetics capable of new emendations.
 
 <!-- notes -->
 <!-- notes -->
