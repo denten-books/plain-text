@@ -1,5 +1,4 @@
-# Chapter 2: Laying Bare the Device (The Modernist Origins of Computational
-Culture)
+# Chapter 2: Laying Bare the Device (The Modernist Origins of Computational Culture)
 
 "The weakest point in our present day universe is the incapacity of man to
 meet the machine, the culture conserve, or the robot, other than through
@@ -55,11 +54,13 @@ intuitions, this list places both books and bombs at the same level of
 analysis. For Moreno, the one resembles the other in that they both embody a
 kind of agency detached from its human sources. Once released, both books and
 bombs seem to act in the world autonomously; they do not reach their
-destination at once; and their impact is delayed in time and space. Volition
-so detached and animated operates without consensus or comprehension.
-Splintered from its source, the robot staggers forth, *golem*-like, through
-books, laws, and social institutions. Near immortal, images of the past
-proliferate and crowd out the present. Moreno wrote:
+destination at once; their impact is delayed in time and space. Volition so
+detached and animated operates without consensus or comprehension.  Splintered
+from its source, the robot staggers forth, *golem*-like, through books, laws,
+and social institutions.
+
+Near immortal, images of the past proliferate and crowd out the present.
+Moreno wrote:
 
 > Once off the press, the parent, the producer, the author is immaterial; the
 > book goes to all places and to all people, it does not care where it is read
@@ -113,8 +114,8 @@ persists to mean in the absence of its author. Once decoupled, seemingly
 autonomous paper agents---books, folders, documents---clutter the social
 sphere, continuing to structure human experience in the absence of the
 originating accord. Knowledge, in Plato's terms, is replaced with the
-simulation or imitation [*omoiwmata*] of knowledge [@plato_euthyphro._1999,
-250a-b].
+simulation or imitation [*homoiōmata*] of knowledge [@plato_phaedrus_1999,
+482(250a)].
 
 The above might appear a curious way of putting things, but not unusual in the
 larger context of post-Kantian humanism at the turn of the twentieth century.
@@ -128,7 +129,6 @@ automatism echo also those of his near contemporaries like Viktor Shklovsky,
 Martin Heidegger, Walter Benjamin, and later Hannah Arendt.
 
 ***
-
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
 robotic as a device that draws electricity, an electronic book. When in the
@@ -153,19 +153,19 @@ press. Simulated text no longer plays by the same rules as print. The
 bibliographic illusion veils machine internals. My task in this chapter will
 be to illuminate the blueprint of computation within the electronic book. In a
 reciprocal movement, I aim also to place the modern computer itself within the
-long history of the book, as a piece of literary (and not just mathematical)
-technology. To achieve these tasks, I will construct a short prehistory of the
-literary device, based on materials roughly from the first half of the
-twentieth century. I am interested here broadly in the concepts of device and
-technique which emerges in the thought of Russian, German, and English
-philologists whose work I will cover in the first section of this chapter. The
-subsequent sections trace the simultaneous emergence of the literary device in
-another sense, as a thought experiment staged by Ludwig Wittgenstein and
-completed by Alan Turing in the 1920s and 1930s. These experiments lead us to
-consider a series of fantastical broken reading and writing machines: machines
-that define the limits of symbolic thought and ultimately culminate in a
-blueprint for a specific mechanism, which lies at the modernist origins of
-contemporary computational culture.
+long history of the book and to view it as technique for literary and not just
+mathematical symbolism. To achieve these tasks, I will construct a short
+prehistory of the literary device, based on materials roughly from the first
+half of the twentieth century. I am interested here broadly in the concepts of
+device and technique which emerge in the thought of Russian, German, and
+English philologists whose work I will cover in the first section of this
+chapter. The subsequent sections trace the concomitant emergence of the
+literary device in another sense, as a thought experiment staged by Ludwig
+Wittgenstein and completed by Alan Turing in the 1920s and 1930s. These
+experiments lead us to consider a series of fantastical broken reading and
+writing machines: machines that define the limits of symbolic thought and
+ultimately culminate in a blueprint for a specific mechanism, which lies at
+the modernist origins of contemporary computational culture.
 
 ## Technique
 
@@ -173,8 +173,8 @@ What kind of a *thing* is a literary *device*? The formalist concept of a
 device is in part an artifact of an unfortunate translation from the Russian
 *priem*. The word would be better translated as "technique," in the sense of
 "method," "approach," or "procedure." Device contains these meanings as well,
-but in modern usage, it often carries a more concrete connotation, as "an
-object, machine, or piece of equipment that has been made for a special
+but in modern usage, it often carries a more concrete connotation, as an
+"object, machine, or piece of equipment that has been made for a special
 purpose" [@_device_2016]. "Laying bare the device," for Viktor Shklovsky, the
 Russian formalist critic who coined the phrase at the turn of the twentieth
 century, meant making explicit the implied mechanisms of literary trope,
@@ -224,24 +224,24 @@ obvious. Nabokov exposes the metaphor implicit in the idea of "laying bare the
 device" itself. In this, lies the prevalent characteristic of Nabokov's mature
 work, which often seeks to transcend the diegetic, fictional world through
 sheer recursion of literary technique, where each successive turn of
-abstraction pulls the buried symbol closer to the reader.
+abstraction pushes the buried symbol closer to the reader.
 
 Despite the emphasis on laying bare the device, formalist poetics (both in art
 and in scholarship) fell short of producing an explicit theory of technique.
 In this section, I will attempt to reconstruct the notion of technique through
 the thought of three major literary theorists of the interwar period: Viktor
 Shklovsky, Percy Lubbock, and Mikhail Bakhtin. I do not mean to suggest that
-the group does amounts to a coherent school of thought. Rather, I am
-interested in observing the development of technique as a concept in parallel
-traditions at a formative time in the history of literary technology. I am
-consequently going to do something unusual in this chapter, namely juxtapose a
-snapshot of literary theory and material culture, converging, however
+the group amounts to a coherent school of thought. Rather, I am interested in
+observing the development of technique as a concept in parallel traditions at
+a formative time in the history of literary technology. I am consequently
+going to do something unusual in this chapter, namely juxtapose relevant
+patches of literary theory and material culture, converging, however
 unwittingly, on a mechanistic view of reading, writing, and interpretation.
-These are only snapshots, however. The reader should not be mistake them for a
-complete picture. I arrange them in this way to provoke a response and to find
-curious early intersections between desperate fields---literary theory,
-philosophy, and electrical engineering---which later intertwine to form the
-fabric of contemporary computational culture.
+These evidence fragments of a larger history. The reader should not mistake
+them for a complete canvas. I arrange them in this way to provoke a response
+and to find curious early intersections between disparate intellectual
+threads---literary theory, philosophy, and electrical engineering---which
+later intertwine to form the fabric of contemporary computational culture.
 
 Viewed in the context of technological development, the emergence of technique
 as a critical category reflects the broader concerns of the machine age. The
@@ -265,7 +265,7 @@ Google Books ngram corpus
 
 Seen in this light, the pre-WWII concern with literary technique anticipates
 the post-war turn towards technology as a field of cultural analysis. The
-formalist period in literary theory signalled a turn away from history or
+formalist period in literary theory signalled a turn away from history and
 philosophy of literature towards the mechanics of literary production. The
 technical turn entailed a mechanistic understanding of language, by which
 linguistic phenomena was viewed as a system of moving parts, whose
@@ -313,12 +313,12 @@ is shared. Where the artist labors alone, the craftsman learns a trade in a
 workshop, as part of a collective.
 
 In a more general sense, we can view the turn to technique as a rejection of
-Schopenhauer's aesthetics, which emphasised individual creative genius
-reaching "beyond the objects which actually present themselves" towards the
-transcendent ideal [@schopenhauer_world_1906, 249 and 217-346]. Formalism
-dispels the myth of the lone genius creator, instead orienting the artist
-towards discovery through handicraft. In his "Art as Device," Shklovsky
-writes:
+the aesthetics of Romanticism, like those of Schopenhauer for example, who
+emphasised individual creative genius reaching "beyond the objects which
+actually present themselves" towards the transcendent ideal
+[@schopenhauer_world_1906, 249 and 217-346]. Formalism dispelled the myth of
+the lone genius creator, instead orienting the artist towards discovery
+through handicraft. In his "Art as Device," Shklovsky wrote:
 
 > The work of poetic schools amounts to the aggregation and the discovery of
 > new devices/techniques [*priem*] for the arrangement and the processing of
@@ -332,30 +332,32 @@ energy [@shklovksy_poetika_1919, 105]. In his influential 1852 essay on the
 *The Philosophy of Style*, Spencer wrote about ordinary ways of speaking where
 "words are not pronounced fully," and where "the mind barely perceives the
 initial sounds of each word" [@spencer_philosophy_1892]. The ideal writer
-therefore strove to minimize the reader's mental exertion, following what he
-called the economy of composition: to say as much as possible, in the most
-direct and simple way. Poetry for Spencer was exemplary in this regard, able
-to adopt those habituated "symbols of thought" and "those methods of using
-them" that have proven themselves to be most effective through continuous use
-[@spencer_philosophy_1892].
+according to Spencer therefore strove to minimize the reader's mental
+exertion, following what he called the "economy of composition:" to say as
+much as possible, in the most direct and simple way. Poetry for Spencer was
+exemplary in this regard, in that it was able to adopt those habituated
+"symbols of thought" and "those methods of using them" that have proven
+themselves to be most effective through continuous use
+[@spencer_philosophy_1892]. In a thrifty way, Spencer's ideal literature was
+of the most economical kind.
 
-Shklovsky agreed with Spencer on the dynamics of everyday language, but not of
-poetry. Poetry's imperative was not to facilitate, but to disrupt. Poets
-"arranged and processed" habituated material with the view of "resurrecting"
-the force of the word lost to everyday habituation
-[@shklovsky_voskreshenie_1914]. Estrangement, or the de-programming of
-received trope, therefore constituted for Shklovsky the primary technique of
+Shklovsky agreed with Spencer about the dynamics of everyday language, but not
+poetry. Poetry's did not facilitate communication, he argued, but disrupt it.
+Poets "arranged and processed" habituated material with the view of
+"resurrecting" the vitality of the word lost to everyday habituation
+[@shklovsky_voskreshenie_1914]. Estrangement or the "de-programming" of
+received trope therefore constituted for Shklovsky the primary technique of
 aesthetic discourse. Poetic estrangement counterbalances the work of prosaic
 habituation, by which shorthand cliché replaces complex things and ideas.
 Thus, were everyday language follows the laws of conservation of energy,
 poetic language expands energy to belabor, to make language difficult again
-[*zatrudnenie*] and to prolong attention [*vospriiatie*]. If language is a
+[*zatrudnenie*] and to prolong apprehension [*vospriiatie*]. If language is a
 labor-saving device, poetry is labor-intensive.
 
 Any innovation in the linguistic sphere is by these means bound to follow a
 cycle of habituation and renewal, according to the formalists. With time, a
-literary device capable of arresting attention itself becomes normalized and
-in need of rejuvenation. Consequently, the evolution of aesthetic periods
+literary device capable of arresting apprehension itself becomes normalized
+and in need of renewal. Consequently, the evolution of aesthetic periods
 follows a course of arbitrary differentiation, in what Jean Moréas (a
 symbolist poet and art critic important for the history of formalism) called a
 "cyclical evolution" [*évolution cyclique*], by which the dominant device in
@@ -371,10 +373,11 @@ development.
 In the 1920s, reflecting critically on Shklovsky's "materialist aesthetics"
 Mikhail Bakhtin would write that the formal model of aesthetic genre formation
 was capable only of establishing a "chronological table of variance in the
-evolution of technical devices, because "in isolation technique cannot have a
+evolution of technical devices," because "in isolation technique cannot have a
 history" [@bakhtin_k_2003, 270-1]. The formalist model of literary development
-seemed to him meaninglessly meandering. Bakhtin was less materially inclined
-than the formalists, careful not to reduce technique to questions of "material
+seemed to the more teleologically oriented critic meaninglessly meandering.
+Bakhtin was also less inclined towards materialism than the formalists. He
+was, for example, careful not to reduce technique to questions of "material
 arrangement" alone. He wrote, "I am quite ready to join in the sentiment that
 'in art technique is everything,' provided we understand that the aesthetic
 object cannot exist independent of the artistic work." For Bakhtin, the work
@@ -388,50 +391,50 @@ critical edition. Similarly, Bakhtin was unwilling to reduce the notion of
 technique to the mere manipulation of physical form, independent of the
 aesthetic idea-object. "In art, technique is not mechanistic," he wrote.
 Rather, "technique animates and motivates the aesthetic object at every point"
-[@bakhtin_k_2003, 310].
+[@bakhtin_k_2003, 310]. But what what exactly did he mean by technique?
 
-At any point of a text, technique is what translates ideas into things and
-things into ideas, where the meaning of the word (sentence, passage, novel)
-materializes into a specific arrangement of paper and ink and the other way
-around. Within the indeterminacy of art as simultaneously an object and an
-idea, Bakhtin approximated the following formula: "the audience is equivalent
-to the creator, minus technique." The audience experiences the creative
-process of the making of the work of art, though without an understanding of
-the craft involved. Alternatively, the author "equals the audience plus
-technique" [@bakhtin_k_2003, 373-4]. For Bakhtin, technique served as the
-"method of processing content through material" [@bakhtin_k_2003, 249]. Again
-we return to the notion of technique as a mode of labor or a procedure, which
-transforms raw material into a work of art, no longer an object limited by its
-physical dimensions. In this light, the goal of poetics---the study of that
-transformation---was therefore the understanding of the "technical apparatus
-of aesthetic creation," a movement, in other words, between the work of art as
-a thing and the object of art as an idea [@bakhtin_k_2003, 275].
+For Bakhtin, technique was that force which at any point of a text was capable
+of translating ideas into things and things into ideas, where the meaning of
+the word (sentence, passage, novel) could materialize into a specific
+arrangement of paper and ink and the other way around. Within the ontological
+indeterminacy of art which exists simultaneously as an object and idea,
+Bakhtin approximated the following formula: "the audience is equivalent to the
+creator, minus technique." The audience experiences the creative process of
+the making of the work of art, though without an understanding of the craft
+involved. Alternatively, the author "equals the audience plus technique"
+[@bakhtin_k_2003, 373-4]. Technique was, in other words, the "method of
+processing content through material" [@bakhtin_k_2003, 249]. Again we return
+to the notion of labor or a procedure, which transforms raw material into a
+work of art, no longer an object limited by its physical dimensions (and the
+other way around, I should add again). In this light, the goal of
+poetics---the study of that transformation---became, in Bakhtin's words, the
+analysis of the "technical apparatus of aesthetic creation," the movement
+between the object of art as a thing and the work of art as an idea
+[@bakhtin_k_2003, 275].
 
-Even as formal analysis skirted the idea of a materialist poetics---Bakhtin
-cautions against "primitive" and "reductive" materialism of the sort---the
-formalists stopped short of examining the actual physical properties of
-literary inscription. The "matter" of materialist poetics was limited to the
-abstract notion of language, or meta-language, which, as is the case with any
-abstraction, can exist only in a categorical sense: in a way all whales are
-mammals, for example. Language in that sense comprises a theoretical
-aggregation of individual languages. In giving names to literary
+Even as formalism flirted with the idea of a materialist poetics, the "matter"
+of formal analysis was limited to the abstract notion of language, which, as
+is the case with any abstraction, can exist only in a categorical sense: in a
+way all whales are mammals, for example. Mammals are not a thing in that
+sense. The category of language similarly comprises a theoretical aggregate of
+specific vernaculars, argots, and dialects. In giving names to literary
 phenomena---genres and periods, for example---the literary critic moves from
 material specifics to categorical abstractions. In this light, we can view
 Nabokov's recursive meta-poetics as a response counter to the critic's method
 of induction. His prose attempts to convert ideas into things, where pipes and
 surface inscriptions protrude through the diegetic limits of the fictional
-world.
+world. He attempts to convert categories back into things.
 
-On the way of becoming a thing, the word encounters the physical boundaries of
-its medium. Whatever the limits of a fictional world, they are firmly
-constrained by the book's covers. Nabokov's prose often reveals the page to be
-the outer-most literary device containing all other literary devices. The
-surface of the page is where the literary device in its linguistic sense meets
-the literary device in its material. The fictional world bumps against the
-real. Recall, for example the conclusion of Nabokov 1936 *Invitation to a
-Beheading*, which ends with the imagined dissolution of the diegetic,
-fictional boundaries in a glimpse of the material reality "on the other side"
-of the page:
+On the way of becoming a thing, the word necessarily encounters the physical
+boundaries of its medium. Whatever the limits of a fictional world, they are
+firmly constrained by the book's covers. Nabokov's prose often reveals the
+page to be the outer-most literary device containing all other literary
+devices. The surface of the page is where the literary device in its
+linguistic sense meets the literary device in its material; the fictional
+world bumps against the real. Recall, for example the conclusion of Nabokov
+1936 *Invitation to a Beheading*, which ends with the imagined dissolution of
+the diegetic boundaries in a glimpse of the material reality "on the other
+side" of the page:
 
 > Everything was falling. A spinning wind was picking up and whirling: dust,
 > rags, chips of painted wood, bits of gilded plaster, pasteboard bricks,
@@ -440,18 +443,20 @@ of the page:
 > to judge by the voices, stood beings akin to him [@nabokov_invitation_1959,
 176].
 
-In this way, formal literary technique gestures towards the object. It arrests
-the illusion of mimesis and reveals the artifice of the literary device. The
-material properties of the book place a hard constraint on its ideational
-content. Nabokov's draws attention to the boundary, but can go no further. The
-reader enters the fictional world only in thought, just like the fictional
-character cannot literally escape the page.
+Formal literary technique thus gestures towards the real. It arrests the
+illusion of mimesis, exposing the incapacity of the literary world to assume
+physical form. Material properties of the book place a hard constraint on its
+ideational content. Nabokov liked to draw attention to that boundary
+throughout his career, reminding readers that they enter his fictional worlds
+in thought only, where his fictional characters could not quite escape the
+page.
 
-The difficulty of pinpointing the liminal area of the transition between
-thoughts and objects translates to the critic's perpetual inability to grasp
-the material contexts of literary production. Echoing his Soviet colleagues in
-his influential *The Craft of Fiction*, the English critic Percy Lubbock,
-himself a formalist of sorts, would write:
+The difficulty of pinpointing the liminal area where transition between
+thoughts and objects occurs leads to the critic's perpetual inability to
+capture the material contexts of literary production. The pen and paper are
+known to the writer only. By the time of consumption, they are hidden from
+view. Echoing his Soviet colleagues in his influential *The Craft of Fiction*,
+the English critic Percy Lubbock, himself a formalist of sorts, would write:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -466,33 +471,39 @@ that does note quite refer to objects. When Lubbock uses words like "form,"
 in holding, grasping, and keeping the thing before the mind's eye. The book
 continually escapes the reader's mental, not physical, grasp. Nor do his
 books, forms, shapes, and designs refer to the outward, material aspects of
-the literary artifact. These are again mental constructions, not material. Our
-unfamiliarity with what Lubbock calls the novel's "technical aspects" thereby
-hampers our ability to understand how it comes present itself to the mind in
-its entirety [@lubbock_craft_1921, 272]. We grasp other more plastic art forms
-like sculpture or painting whole and at once. They exist at a time and place
-limited to their physical dimensions. Narratives unfold in time, by contrast.
-To perceive a book, to read a novel, critically, we must abstract from the
-physical object and extend it past immediate perception. Meaning making of the
-sort involves also reading past the linguistic minutiae to construct a
-synthetic literary whole. Lubbock writes that the "real heart and substance of
-the book [...] stands out more clearly for the obscurity into which the less
-essential parts of it subside" [@lubbock_craft_1921, 4]. To read in this mode
-is precisely to deny the book its materiality. When reading for pleasure, lay
-readers lose themselves in the in the elements of narrative immediately
-available for observation. To read the novel for pleasure for Lubbock is to
-"forget, if we can, that the book is an object of art [@lubbock_craft_1921,
-6]. By object of art he means the transcendent idea of the novel as opposed to
-the immanent object itself. To "objectify the elements" of the novel that
-"strike us more keenly," as Lubbock phrases it, therefore means for him quite
-the opposite of what is usually meant by objectification. The critic engages
-the complete *idea* of the novel, accessible to the mind only after the
-conclusion of reading. Lubbock writes: "Far from losing ourselves in the world
-of the novel, we must hold it away from us, see it all in detachment, and use
-the whole of it to make the image we seek, the book itself"
-[@lubbock_craft_1921, 6]. The difficulty of materialist poetics reflects in
-the analysis that continually conflates the book as object with the book as
-idea.
+the literary artifact. These are again mental constructions, not material.
+
+Our unfamiliarity with what Lubbock calls the novel's "technical aspects"
+thereby hampers our ability to understand how it comes to present itself to
+the mind in its entirety [@lubbock_craft_1921, 272]. We grasp other more
+plastic art forms like sculpture or painting whole and at once.[ln2-herder]
+They exist at a time and place limited to their physical dimensions.
+Narratives unfold in time, by contrast. To perceive a book, to read a novel,
+critically, we must abstract from the physical object and extend it in working
+memory past immediate perception. Meaning-making of the sort involves reading
+past linguistic minutiae to construct a synthetic literary whole. Lubbock
+writes that the "real heart and substance of the book [...] stands out more
+clearly for the obscurity into which the less essential parts of it subside"
+[@lubbock_craft_1921, 4]. To read in this mode is precisely to deny the book
+its materiality. When reading for pleasure, lay readers lose themselves in the
+elements of narrative immediately available for observation. To read the novel
+for pleasure for Lubbock is to "forget, if we can, that the book is an object
+of art [@lubbock_craft_1921, 6]. By object of art he means the transcendent
+idea of the novel as opposed to the immanent work itself. To "objectify the
+elements" of the novel that "strike us more keenly," as Lubbock phrases it,
+therefore means for him quite the opposite of what is usually meant by
+objectification. The complete mental idea of the novel congeals only at the
+conclusion of reading. Thus to read critically is again to arrest the
+coming-into-being of the work. Lubbock writes: "Far from losing ourselves in
+the world of the novel, we must hold it away from us, see it all in
+detachment, and use the whole of it to make the image we seek, the book
+itself" [@lubbock_craft_1921, 6]. But to hold away means actually to
+internalize completely, and by book he means the idea of a novel, not at all
+the thing itself. The difficulty of materialist poetics reflects in the
+language that continually conflates mental and physical constructs.
+
+[^ln2-herder]: Lubbock collapses somewhat the difference between painting and
+sculpture. See for example @herder_sculpture_2002.
 
 Critical reading in Lubbock's sense entails an account of the transformation
 from things to ideas: from words and sentences to stories, novels, and verse.
@@ -510,31 +521,30 @@ was for Shklovsky and Eichenbaum. "The book vanishes as we lay our hands on
 it," Lubbock wrote [@lubbock_craft_1921, 273]. Critics must chose to see
 either the trees or the forest. As the totality of the work comes into view,
 the technical details of craft---and therefore the book itself---disappear.
-Viewed up close, the technical particulates obscure sight of the work as a
-whole. *The Craft of Fiction* ends on an ambivalent note, stopping short of
-recovering the book as an object. "If only there was one single tangible and
-measurable fact about the book," Lubbock wrote. If only it could be "weighed
-like a statue" or "measured like a picture, it would be a support in the world
-of shadows [@lubbock_craft_1921, 273-4].
+Conversely, when viewed up close, the technical particulates obscure sight of
+the work as a whole. *The Craft of Fiction* ends on an ambivalent note.
+Lubbock senses the inadequacy of his materialism: "if only there was one
+single tangible and measurable fact about the book," he writes. If only it
+could be "weighed like a statue" or "measured like a picture, it would be a
+support in the world of shadows [@lubbock_craft_1921, 273-4].
+
+I want to end the section here with the failure of materialist poetics to pick
+up another concomitant thread, one that will take us through some of the same
+concerns about the nature of symbolic representation and its relationship to
+the physical world. My aim in this disruption is to disconnect the history of
+modern computing from its expected contexts of calculating machinery and to
+join it with literary theory, where as we will see, it also finds a measure of
+congruity. I do so in the absence of direct evidence for an explicit
+intellectual connection.[^ln2-moaran] My goal is not to prove that such a
+linkage exists, but rather to irreparably entwine the two intellectual and
+material genealogies in a way that sheds light on our modern predicament,
+where books and guided missiles indeed share the same semiotic
+infrastructures. The thought of Ludwig Wittgenstein and his student Alan
+Turing reveals, along with a number of broken reading and writing machines, a
+possible answer to the quandary of materialist poetics, posed in the liminal
+boundary between thought and thing.
 
 ## Thought Experiment I
-
-These broad strokes towards the intellectual history of the literary device
-bring us to literary devices as they exist today, precisely within the
-confusion between symbol and thing. At this point, it becomes productive to
-examine the history of modern computing not within its usual lineage of
-calculating machinery, but in relation to the broader history of materialist
-poetics. I would like the reader to view the following sections in the context
-of the previous one on literary theory, even in the absence of direct evidence
-for an explicit intellectual connection.[^ln2-moaran] My goal is not to prove
-that such a connection exists, but rather to irreparably entwine the two
-intellectual and material genealogies. In the thought of Ludwig Wittgenstein
-and his student Alan Turing we will find, along with a number of broken
-reading and writing machines, a solution to the quandary of materialist
-poetics, posed in the transition between thought and thing. The Turing
-machine, as we will encounter it here, will ultimately reveal itself to be a
-minimally viable instrument for translating ideational symbols into physical
-machine states.
 
 The modern computer---and by extension the electronic book---harkens back to a
 cluster of related thought experiments prevalent in the philosophy of Ludwig
@@ -601,10 +611,10 @@ amount to "*sed versûs, non poëma* [mere versification, not poetry]." Would we
 call a naive child using such a contraption a composer or a poet, he asked?
 And answered:
 
-> Sed lusus est ingeniosus, Ingeniose Kirchere, non methodus, prima fronte
+> *Sed lusus est ingeniosus, Ingeniose Kirchere, non methodus, prima fronte
 > aliquid promittens, in recessu nihil solvens. Sine cista enim puer nihil
 > potest respondere, & in cista nihil praeter verba intelligit; tot profert,
-> quot audit, sine intellectu...
+> quot audit, sine intellectu...*
 
 > But [the poetry box] is just an ingenious game, ingenious Kircher, not a
 > method, promising something on the surface, but solving nothing deep down.
@@ -612,8 +622,8 @@ And answered:
 > understands nothing but words. He produces whatever he hears, without
 > understanding, like a parrot [@gillespie_primal_1978, 32].
 
-Without the box the child cannot create. Like the parrots of Plato and
-Descartes it mimics creation on the surface. Nothing in the mind of an
+Without the box the child cannot create. Like the parrots of Plato, Kuhlman,
+and Descartes it mimics creation on the surface. Nothing in the mind of an
 automaton corresponds to the outward appearance of thought. The child composes
 poetry without thinking---that is without the appropriate deep structure that
 should accompany proper poiesis. If technique alone is to guide the creation
