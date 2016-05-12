@@ -129,6 +129,7 @@ automatism echo also those of his near contemporaries like Viktor Shklovsky,
 Martin Heidegger, Walter Benjamin, and later Hannah Arendt.
 
 ***
+
 Moreno helps us see the book in a new light. If it was always, as he
 suggested, a robot for enacting action at a distance, it is all the more
 robotic as a device that draws electricity, an electronic book. When in the
@@ -451,12 +452,12 @@ throughout his career, reminding readers that they enter his fictional worlds
 in thought only, where his fictional characters could not quite escape the
 page.
 
-The difficulty of pinpointing the liminal area where transition between
-thoughts and objects occurs leads to the critic's perpetual inability to
-capture the material contexts of literary production. The pen and paper are
-known to the writer only. By the time of consumption, they are hidden from
-view. Echoing his Soviet colleagues in his influential *The Craft of Fiction*,
-the English critic Percy Lubbock, himself a formalist of sorts, would write:
+The difficulty of pinpointing the area of transition between thoughts and
+objects leads to the critic's perpetual inability to capture the material
+contexts of literary production. The pen and paper are known to the writer
+only. By the time of consumption, they are hidden from view. Echoing his
+Soviet colleagues in his influential *The Craft of Fiction*, the English
+critic Percy Lubbock, himself a formalist of sorts, would write:
 
 > To grasp the shadowy and fantasmal form of the book, to hold it fast, to
 > turn it over and to survey it at leisure---that is the effort of a critic of
@@ -528,38 +529,40 @@ single tangible and measurable fact about the book," he writes. If only it
 could be "weighed like a statue" or "measured like a picture, it would be a
 support in the world of shadows [@lubbock_craft_1921, 273-4].
 
-I want to end the section here with the failure of materialist poetics to pick
-up another concomitant thread, one that will take us through some of the same
-concerns about the nature of symbolic representation and its relationship to
-the physical world. My aim in this disruption is to disconnect the history of
-modern computing from its expected contexts of calculating machinery and to
-join it with literary theory, where as we will see, it also finds a measure of
-congruity. I do so in the absence of direct evidence for an explicit
-intellectual connection.[^ln2-moaran] My goal is not to prove that such a
-linkage exists, but rather to irreparably entwine the two intellectual and
-material genealogies in a way that sheds light on our modern predicament,
-where books and guided missiles indeed share the same semiotic
-infrastructures. The thought of Ludwig Wittgenstein and his student Alan
-Turing reveals, along with a number of broken reading and writing machines, a
-possible answer to the quandary of materialist poetics, posed in the liminal
-boundary between thought and thing.
+I want to end the section here with a momentary failure of materialist poetics
+to pick up another concomitant thread, one that will take us through some of
+the same concerns about the nature of symbolic representation and its
+relationship to the physical world. My aim in this disruption is to disconnect
+the history of modern computing from its expected contexts of calculating
+machinery and to join it with literary theory, where as we will see, it also
+finds a measure of congruity. I do so in the absence of direct evidence for an
+explicit intellectual connection.[^ln2-moaran] My goal is not to prove that
+such a linkage exists, but rather to irreparably entwine nominally discordant
+intellectual and material genealogies in a way that sheds light on our modern
+predicament, where books and guided missiles indeed share the same semiotic
+infrastructures. Along with critics of contemporary computational culture like
+Bernard Harcourt and Frank Pasquale I would like to ask, How did we get here
+[@pasquale_black_2015; @harcourt_exposed:_2015]? The thought of Ludwig
+Wittgenstein and his student Alan Turing reveals, along with a number of
+broken reading and writing machines, a possible answer to the quandary of
+materialist poetics, posed in the liminal space between thought and thing.
 
 ## Thought Experiment I
 
-The modern computer---and by extension the electronic book---harkens back to a
+Modern computers---and by extension the electronic book---harken back to a
 cluster of related thought experiments prevalent in the philosophy of Ludwig
-Wittgenstein and subsequently to the ideas of Alan Turing, his long-time
-student and colleague. The story of Turing machines has been told before in
-many guises, but never with an eye towards literary machines that nevertheless
-occupy a central place in the early development of modern computing. To
-confront the computer as a literary device, one must first understand its
-peculiar relationship to universal Turing machines. I would like to take some
-time now to draw two further as yet unexplored historical genealogies that
-lead to Turing's seminal essay on computable numbers: the first intellectual,
-stemming back to his tutelage under Ludwig Wittgenstein, and the second
-material, highlighting the physical similarities between Turing's design and a
-number of concomitant developments in printing and communication. To read
-Turing and Wittgenstein together is to recover a legacy of humanities
+Wittgenstein and subsequently Alan Turing, his long-time student and
+colleague. The story of Turing machines has been told before in many guises,
+but never with an eye towards literary machines that nevertheless occupy a
+central place in the early development of modern computing. To confront the
+computer as a literary device, one must first understand its peculiar
+relationship to universal Turing machines. I would like to frame the
+discussion by drawing two further as yet unexplored historical genealogies
+that lead to Turing's seminal essay on computable numbers: the first
+intellectual, stemming back to his tutelage under Ludwig Wittgenstein, and the
+second material, highlighting the physical similarities between Turing's
+design and a number of concomitant developments in printing and communication.
+To read Turing and Wittgenstein together is to recover a legacy of humanities
 computing that often gets overlooked in the history of computer science and
 software engineering. The literary perspective is important because it allows
 us to see the computer in a new light: more than a byproduct of
@@ -574,12 +577,12 @@ and hermeneutics, the study of textual meaning-making and interpretation.
 In his seminal 1936 paper on computable numbers, Alan Turing, then a student
 at King's College, proposed a peculiar thought experiment to appear on the
 pages of mathematical journal. The experiment addressed a problem in the field
-of elementary number theory [^ln1-anticipate]. His solution involved more than
-a formula. Instead, he imagined a machine that would in some real sense take
-place of the calculation. Ultimately, Turing described a device that was meant
-to embody the symbol: it transformed external abstractions into physical
-states, internal to the device. In doing so, this imagined machine was
-designed to breach the boundary between idea and matter. It was exactly an
+of elementary number theory [@church_computable_1937]. His solution involved
+more than a formula. Instead, he imagined a machine that would in some real
+sense take place of the calculation. Ultimately, Turing described a device
+that was meant to embody the symbol: it transformed external abstractions into
+physical states, internal to the device. In doing so, this imagined machine
+was designed to breach the boundary between idea and matter. It was exactly an
 instrument for transforming ideas into shapes. In that sense, Turing's
 hypothetical machine represents a advancement in the development of a
 long-standing thought experiment concerning the nature of human understanding
@@ -1525,10 +1528,6 @@ most worthy of thought and questioning remains the mystery of
 language---wherein our entire reflection has to gather itself---above all when
 it dawns on us that language is not a work of human beings: language speaks."
 See also @blanchot_work_1995, 41.
-
-[^ln1-anticipate]: As Alonzo Church mentioned in his review of the paper a
-year later, Turing's mathematical insight was anticipated by concomitant work
-in the field [@church_computable_1937].
 
 [^ln1-brains]: For the first view see @putnam_minds_1960 and
 @fodor_language_1975. For the second view see @deutsch_quantum_1985 and
